@@ -1,6 +1,6 @@
 ---
 name: reservistendienst-dienstleistungspflicht
-description: "Reservistendienst und Dienstleistungspflicht: prüft SG §§ 60–69, Heranziehungsbescheid, Freistellung und Rechtsbehelfe. Norm-/Quellenanker: SG §§ 60–69, WPflG, UhSiG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Reservistendienst und Dienstleistungspflicht in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reservistendienst und Dienstleistungspflicht

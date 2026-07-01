@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-unbegleitet
-description: "Unbegleitete Minderjährige: Fachmodul im Migrationsrecht: prüft Alter, Jugendamt, Vormund, Dublin, Kindeswohl; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Unbegleitete Minderjährige: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unbegleitete Minderjährige: Fachmodul im Migrationsrecht

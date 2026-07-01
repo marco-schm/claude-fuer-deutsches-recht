@@ -1,6 +1,6 @@
 ---
 name: bmds-verwaltungsdigitalisierung-und-registermodernisierung
-description: "Sachbereich Verwaltungsdigitalisierung und Registermodernisierung im Geschäftsbereich BMDS: Normbestand (RegMoG; IDNrG; OZG; XOeV; Personenstandsrecht.); Akteure (BMDS; BMI (Personenstand); Bundesverwaltungsamt; Länder.); EU-Bezug (Single Digital Gateway; Once-Only-Prinzip.); typische Legistik-A"
+description: "Wenn es um Verwaltungsdigitalisierung und Registermodernisierung (BMDS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Bmds Verwaltungsdigitalisierung Und Registermodernisierung; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Verwaltungsdigitalisierung und Registermodernisierung (BMDS)

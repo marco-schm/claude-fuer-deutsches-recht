@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrechtliche-schnellampel
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsichtsrechtliche Schnellampel KWG ZAG im Factoring Recht."
+description: "Wenn es um Aufsichtsrechtliche Schnellampel KWG ZAG in Factoring-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufsichtsrechtliche Schnellampel KWG ZAG

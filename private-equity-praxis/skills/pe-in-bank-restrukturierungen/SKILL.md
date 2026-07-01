@@ -1,6 +1,6 @@
 ---
 name: pe-in-bank-restrukturierungen
-description: "Prüft PE-Investor als Käufer, Gläubiger, Kreditfonds oder Sponsor in Bank-/Kreditrestrukturierung im Private Equity Praxis."
+description: "Wenn es um PE in Bank-Restrukturierungen in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PE in Bank-Restrukturierungen

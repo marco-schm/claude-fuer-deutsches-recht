@@ -1,6 +1,6 @@
 ---
 name: 036-signatur-qualifizierte-elektronische-signatur-und-d
-description: "Notariat im Alltag: Signatur – qualifizierte elektronische Signatur und Dateiformate. Rechtliche Anforderungen der qeS nach eIDAS, notarielle Signaturpflichten, zulässige Dateiformate und Signaturprüfung im Notariat."
+description: "Wenn es um Notariat im Alltag: Signatur – qualifizierte elektronische Signatur und Dateiformate in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Signatur – qualifizierte elektronische Signatur und Dateiformate

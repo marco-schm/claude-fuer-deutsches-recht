@@ -1,6 +1,6 @@
 ---
 name: plakatierung-genehmigung
-description: "Wahlkampfrecht Praxis: kommunale Plakatierung und Sondernutzung rechtlich praktisch begleiten im Wahlkampfrecht."
+description: "Wenn es um Plakatierung Genehmigung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Plakatierung Genehmigung

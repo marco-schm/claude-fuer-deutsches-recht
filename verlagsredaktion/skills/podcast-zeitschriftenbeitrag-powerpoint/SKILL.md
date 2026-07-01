@@ -1,6 +1,6 @@
 ---
 name: podcast-zeitschriftenbeitrag-powerpoint
-description: "Nutzt einen juristischen Podcast als Zitat- und Inhaltsquelle für einen Zeitschriftenbeitrag, klaert Verwertungsrechte und liefert ein zitierbares Belegformat im Verlagsredaktion."
+description: "Wenn es um Podcast zu Zeitschriftenbeitrag in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Podcast zu Zeitschriftenbeitrag

@@ -1,6 +1,6 @@
 ---
 name: umv-041-bebauungsplan-beteiligung-pruefen
-description: "Umweltschutzverband Verbandsklage: Bebauungsplan: Beteiligung prüfen. Beteiligung prüfen für Bebauungsplan im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bebauungsplan Beteiligung Pruefen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bebauungsplan Beteiligung Pruefen

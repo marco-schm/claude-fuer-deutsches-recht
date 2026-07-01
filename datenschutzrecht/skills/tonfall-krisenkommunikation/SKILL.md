@@ -1,6 +1,6 @@
 ---
 name: tonfall-krisenkommunikation
-description: "Bestimmt den richtigen Tonfall und die Sprachregelung in der Krisenkommunikation nach einem Datenschutzvorfall. Behandelt: Vermeidung von Verharmlosung; Vermeidung von Panikmache; matter-of-factly; Reasoning vor Conclusion; Vermeidung selbstbelastender Aussagen; keine voreiligen Schuldzuweisungen..."
+description: "Wenn es um Tonfall und Sprache in der Krisenkommunikation nach Datenschutzvorfall in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tonfall und Sprache in der Krisenkommunikation nach Datenschutzvorfall

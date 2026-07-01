@@ -1,6 +1,6 @@
 ---
 name: meeting-creditors-341
-description: "Bereitet § 341 meeting, debtor testimony, creditor questions, document issues and follow-up vor im US Bankruptcy Code."
+description: "Wenn es um Meeting of Creditors Paragraf 341 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meeting of Creditors § 341

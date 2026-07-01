@@ -1,6 +1,6 @@
 ---
 name: forderung-internationaler-bezug
-description: "Forderungssache mit Auslandsbezug Schuldner im EU-Ausland oder ausserhalb. Klaert anwendbares Recht internationale Zuständigkeit Vollstreckung. Pinpoints VO 1215/2012 Brüssel Ia VO 1896/2006 EuMVVO VO 805/2004 EuVTVO VO 861/2007 EuGFVO Rom I VO 593/2008. Liefert Routing nach Schuldnerstandort und..."
+description: "Wenn es um Forderung mit internationalem Bezug in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Forderung mit internationalem Bezug

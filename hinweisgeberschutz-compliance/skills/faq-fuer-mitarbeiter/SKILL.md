@@ -1,6 +1,6 @@
 ---
 name: faq-fuer-mitarbeiter
-description: "Schreibt verständliche Mitarbeiter-FAQ im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um FAQ Für Mitarbeiter in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # FAQ Für Mitarbeiter

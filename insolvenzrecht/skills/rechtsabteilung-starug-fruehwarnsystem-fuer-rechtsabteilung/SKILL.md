@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-starug-fruehwarnsystem-fuer-rechtsabteilung
-description: "Rechtsabteilungs-Fachmodul für StaRUG-Frühwarnsystem für Rechtsabteilung: Krisenfrüherkennung, Geschäftsleiterpflicht und Dokumentation werden aufgebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Insolvenzrecht."
+description: "Wenn es um Rechtsabteilung: StaRUG-Frühwarnsystem für Rechtsabteilung in Insolvenzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: StaRUG-Frühwarnsystem für Rechtsabteilung

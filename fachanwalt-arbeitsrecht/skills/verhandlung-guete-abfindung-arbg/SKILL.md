@@ -1,6 +1,6 @@
 ---
 name: verhandlung-guete-abfindung-arbg
-description: "Gueteverhandlung im Arbeitsgerichtsverfahren nach Paragraf 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie: Anwendungsfall Guetetermin steht an und Ver..."
+description: "Wenn es um Verhandlung Guete Abfindung Arbg in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gueteverhandlung im Arbeitsgerichtsverfahren nach Paragraf 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie

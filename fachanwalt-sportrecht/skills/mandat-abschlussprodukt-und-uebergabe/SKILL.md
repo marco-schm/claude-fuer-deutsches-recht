@@ -1,6 +1,6 @@
 ---
 name: mandat-abschlussprodukt-und-uebergabe
-description: "Mandat: Abschlussprodukt und Übergabe: Mandat: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Mandat: Abschlussprodukt und Übergabe in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandat: Abschlussprodukt und Übergabe

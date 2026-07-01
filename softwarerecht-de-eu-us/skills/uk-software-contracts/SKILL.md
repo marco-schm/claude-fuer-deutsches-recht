@@ -1,6 +1,6 @@
 ---
 name: uk-software-contracts
-description: "Prüft UK-Softwareverträge aus deutscher Sicht: governing law, IP assignment, liability, data protection und warranties im Softwarerecht De Eu Us."
+description: "Wenn es um UK Software Contracts in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # UK Software Contracts

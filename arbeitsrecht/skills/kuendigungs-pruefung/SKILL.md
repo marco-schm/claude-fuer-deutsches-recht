@@ -1,6 +1,6 @@
 ---
 name: kuendigungs-pruefung
-description: "Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), Paragraf 102 BetrVG (Betriebsratsanhörung), Paragrafen 622 und 626 BGB (Fristen und wichtiger Grund), Sozialauswahl Paragraf 1 Absatz Rechtliche Prüfung ei..."
+description: "Wenn es um Kuendigungs Prüfung in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), Paragraf 102 BetrVG (Betriebsratsanhörung), Paragrafen 622 und 626 BGB (Fristen und wichtiger Grund), Sozialauswahl Paragraf 1 Abs

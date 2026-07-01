@@ -1,6 +1,6 @@
 ---
 name: inv-010-us-discovery
-description: "Prueft US-Discovery, DOJ/SEC-Kooperation, Blocking Statute, Datenschutztransfer und Berichtssprache."
+description: "Wenn es um US Discovery und Cross-Border in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # US Discovery und Cross-Border

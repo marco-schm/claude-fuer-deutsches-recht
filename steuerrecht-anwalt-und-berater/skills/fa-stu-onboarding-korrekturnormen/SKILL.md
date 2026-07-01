@@ -1,6 +1,6 @@
 ---
 name: fa-stu-onboarding-korrekturnormen
-description: "Systematischer Vergleich der Korrekturnormen — wann ist welche Vorschrift einschlaegig wann begruendet sie Aenderung zugunsten oder zu Lasten des Steuerpflichtigen und welche Frist gilt. Anwendungsfall Berater hat einen bestandskraeftigen Bescheid und sucht den richtigen Aenderungstatbestand oder muss sich gegen Aenderung des Finanzamts wehren. Behandelt offenbare Unrichtigkeit Vorbehalt der Nachpruefung Vorlaeufigkeit schlichte Aenderung neue Tatsachen widerstreitende Steuerfestsetzungen Grundlagenbescheide und Verfahrensaufhebung. Output Entscheidungsbaum mit Voraussetzungen je Norm. Abgrenzung zu fa-stu-onboarding-bescheid-lesen."
+description: "Wenn es um Korrektur von Steuerbescheiden — Paragrafen 129 164 165 172 173 174 175 AO im Ueberblick in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Korrektur von Steuerbescheiden — §§ 129 164 165 172 173 174 175 AO im Ueberblick

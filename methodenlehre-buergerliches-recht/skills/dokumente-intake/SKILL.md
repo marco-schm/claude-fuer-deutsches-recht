@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Methodenlehre Bürgerliches Recht: sortiert Norm-/Gesetzestext, Rechtsprechung, Kommentare, prüft Datum, Absender, Frist und Beweiswert (Urkunden, Zeugen); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

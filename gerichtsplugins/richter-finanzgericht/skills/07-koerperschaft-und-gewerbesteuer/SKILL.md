@@ -1,6 +1,6 @@
 ---
 name: 07-koerperschaft-und-gewerbesteuer
-description: "Körperschaftsteuer: Subjektsteuerpflicht Paragraf 1 KStG, Einkommensermittlung Paragraf 8 KStG i.V.m. EStG, verdeckte Gewinnausschuettung Paragraf 8 Abs. 3; Gewerbesteuer Paragrafen 2 und 7-9 GewStG"
+description: "Wenn es um 07 Körperschaft und Gewerbesteuer in Finanzgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 07 Körperschaft und Gewerbesteuer

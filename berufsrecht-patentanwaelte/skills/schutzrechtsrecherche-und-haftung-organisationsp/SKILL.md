@@ -1,6 +1,6 @@
 ---
 name: schutzrechtsrecherche-und-haftung-organisationsp
-description: "Patentanwälte: schutzrechtsrecherche und haftung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Schutzrechtsrecherche Und Haftung Organisationsp in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: schutzrechtsrecherche und haftung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

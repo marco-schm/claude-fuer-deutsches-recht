@@ -1,6 +1,6 @@
 ---
 name: sozialbindung-wohnraum
-description: "Sozialbindung Wohnraum: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft WBS, Kostenmiete, Fehlbelegung, Mieterhöhung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprod..."
+description: "Wenn es um Sozialbindung Wohnraum: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sozialbindung Wohnraum: Fachmodul im Miet- und Wohnungseigentumsrecht

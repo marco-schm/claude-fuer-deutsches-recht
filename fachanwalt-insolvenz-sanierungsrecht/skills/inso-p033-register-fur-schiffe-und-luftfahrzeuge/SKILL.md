@@ -1,6 +1,6 @@
 ---
 name: inso-p033-register-fur-schiffe-und-luftfahrzeuge
-description: "§ 33 InsO (Register für Schiffe und Luftfahrzeuge) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 33 InsO (Register für Schiffe und Luftfahrzeuge) im Mandat prüfen: Normzweck, Tatbestand,..."
+description: "Wenn es um Inso P033 Register Fur Schiffe Und Luftfahrzeuge in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 33 InsO (Register für Schiffe und Luftfahrzeuge) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

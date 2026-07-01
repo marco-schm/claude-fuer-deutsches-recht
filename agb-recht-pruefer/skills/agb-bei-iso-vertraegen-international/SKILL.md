@@ -1,6 +1,6 @@
 ---
 name: agb-bei-iso-vertraegen-international
-description: "AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-rechtliche Prüfung internationaler Vertragsmuster ICC FIDIC ISDA AIA und ihre Anpassung an deutsches Recht. Klaert die Wechselwirkung mit Rom-I und ordre public. Behandelt typische Klauseln zur Streitbeilegung Lieferung Zahlung."
+description: "Wenn es um Agb Bei Iso Vertraegen International in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Bei Iso Vertraegen International

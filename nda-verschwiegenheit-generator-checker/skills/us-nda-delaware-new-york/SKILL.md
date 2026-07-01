@@ -1,6 +1,6 @@
 ---
 name: us-nda-delaware-new-york
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: US NDA Delaware New York; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um US NDA Delaware New York in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # US NDA Delaware New York

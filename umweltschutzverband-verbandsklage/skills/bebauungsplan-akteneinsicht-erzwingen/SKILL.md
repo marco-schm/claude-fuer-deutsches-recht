@@ -1,6 +1,6 @@
 ---
 name: bebauungsplan-akteneinsicht-erzwingen
-description: "Umweltschutzverband Verbandsklage: Bebauungsplan: Akteneinsicht erzwingen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Bebauungsplan Akteneinsicht Erzwingen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bebauungsplan Akteneinsicht Erzwingen

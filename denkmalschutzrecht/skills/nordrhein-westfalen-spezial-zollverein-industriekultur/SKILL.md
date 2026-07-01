@@ -1,6 +1,6 @@
 ---
 name: nordrhein-westfalen-spezial-zollverein-industriekultur
-description: "NRW-Besonderheit: Zeche und Kokerei Zollverein in Essen (Welterbe seit 2001), Aachener Dom (Welterbe seit 1978), Schloss und Park Augustusburg / Falkenlust Bruehl (Welterbe seit 1984), Niedergermanischer Limes (Welterbe seit 2021). Skill ordnet die Industriekultur-Schutzpraxis am Beispiel Zollverein, das Strukturwandel-Programm und die Bauleitplanung in den Pufferzonen."
+description: "Wenn es um Zeche und Kokerei Zollverein als UNESCO-Welterbe in NRW in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Zeche und Kokerei Zollverein als UNESCO-Welterbe in NRW

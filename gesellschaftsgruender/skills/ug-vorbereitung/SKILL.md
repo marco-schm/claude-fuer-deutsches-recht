@@ -1,6 +1,6 @@
 ---
 name: ug-vorbereitung
-description: "UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1 Euro, Thesaurierungspflicht. Normen: Paragraf 5a GmbHG, Paragraf 2 3 GmbHG. Prüfraster: Stammkapital 1 Euro bis unter 25000 Euro, Musterprotokoll-Pflicht, Rücklagenbildung 25 Prozent Jahresueberschuss. Output: UG-Gründungscheckliste mit Musterp..."
+description: "Wenn es um UG-Vorbereitung (Unternehmergesellschaft haftungsbeschränkt) in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # UG-Vorbereitung (Unternehmergesellschaft haftungsbeschränkt)

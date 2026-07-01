@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Quellen-Live-Check für Vertragsrecht (BGB-Vertragsrecht): prüft Normen (BGB §§ 145 ff., 305 ff., HGB §§ 343 ff.) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Zivilgerichte und Quellenhygiene nach references/quellenhygiene.md."
+description: "Wenn es um Rechtsquellen-Livecheck in Vertragsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Rechtsquellen-Livecheck

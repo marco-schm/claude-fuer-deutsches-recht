@@ -1,6 +1,6 @@
 ---
 name: compliance-matrix-global
-description: "Erstellt globale Compliance-Matrix für Deutschland, EU, USA und weitere Märkte bei Softwareprodukten im Softwarerecht De Eu Us."
+description: "Wenn es um Global Software Compliance Matrix in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Global Software Compliance Matrix

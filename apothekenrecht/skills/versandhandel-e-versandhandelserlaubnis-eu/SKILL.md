@@ -1,6 +1,6 @@
 ---
 name: versandhandel-e-versandhandelserlaubnis-eu
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versandhandel und E-Rezept Intake im Apothekenrecht."
+description: "Wenn es um Versandhandel und E-Rezept Intake in Apothekenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versandhandel und E-Rezept Intake

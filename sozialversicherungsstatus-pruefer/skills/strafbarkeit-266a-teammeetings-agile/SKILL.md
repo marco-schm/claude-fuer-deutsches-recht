@@ -1,6 +1,6 @@
 ---
 name: strafbarkeit-266a-teammeetings-agile
-description: "Prüft strafrechtliches Risiko wegen Vorenthaltens von Sozialversicherungsbeiträgen bei Scheinselbständigkeit im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Paragraf 266a StGB Risiko in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # § 266a StGB Risiko

@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Fachanwalt IT-Recht: wählt den nächsten Spezial-Skill nach Engpass (Mängelfristen Software, Softwarevertrag, SLA, Pflichtenheft), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Fachanwalt It Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anschluss-Routing

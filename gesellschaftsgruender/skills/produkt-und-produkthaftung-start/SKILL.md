@@ -1,6 +1,6 @@
 ---
 name: produkt-und-produkthaftung-start
-description: "Prüft CE, Produktsicherheit, Bedienungsanleitung, Haftung und Versicherung vor Markteintritt im Gesellschaftsgruender."
+description: "Wenn es um Produkt- und Produkthaftungsstart in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Produkt- und Produkthaftungsstart

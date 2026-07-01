@@ -1,6 +1,6 @@
 ---
 name: mandatsperspektive-quellenkarte
-description: "Mandatsperspektive Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Mandatsperspektive Quellenkarte in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Mandatsperspektive Quellenkarte

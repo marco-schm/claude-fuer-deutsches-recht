@@ -1,6 +1,6 @@
 ---
 name: auswanderung-rente-ins-ausland-zahlung
-description: "Rente bei Umzug ins Ausland: Zahlung, Abkommensstaaten, vertragslose Staaten, Bankverbindung, Steuer, KV und Einschränkungen im Rentenpruefer."
+description: "Wenn es um auswanderung-rente-ins-ausland-zahlung in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # auswanderung-rente-ins-ausland-zahlung

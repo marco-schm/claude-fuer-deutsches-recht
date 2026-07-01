@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-rechtsmangel-paragraph-435
-description: "Prüft Rechtsmangel § 435 BGB: Rechte Dritter, beschränkt dingliche Rechte, öffentlich-rechtliche Lasten und Rechtsfolgen."
+description: "Wenn es um Kaufrecht: Rechtsmangel Paragraf 435 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaufrecht: Rechtsmangel § 435 BGB

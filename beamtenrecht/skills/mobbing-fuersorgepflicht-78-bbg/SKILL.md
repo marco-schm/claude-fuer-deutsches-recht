@@ -1,6 +1,6 @@
 ---
 name: mobbing-fuersorgepflicht-78-bbg
-description: "Skill zu Mobbing im öffentlichen Dienst und zur Fürsorgepflicht des Dienstherrn nach § 78 BBG bzw. § 45 BeamtStG. Klaert den Mobbingbegriff die Pflicht zur Aufklaerung und zur Maßnahme im Konfliktfall die Beweislast bei systematischer Schikane und das Verhältnis zu strafrechtlichen Tatbestaend..."
+description: "Wenn es um Mobbing und Fürsorgepflicht im öffentlichen Dienst in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mobbing und Fürsorgepflicht im öffentlichen Dienst

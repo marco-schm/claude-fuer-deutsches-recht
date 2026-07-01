@@ -1,6 +1,6 @@
 ---
 name: strafz-aufklaerungshilfe-kronzeuge
-description: "Spezialfall Aufklaerungshilfe Kronzeugenregelung § 46b StGB: Voraussetzungen, BGH-Rechtsprechung, Verteidigung. Prüfraster für Verteidiger und Staatsanwalt im Strafzumessung."
+description: "Wenn es um StrafZ: Aufklaerungshilfe in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # StrafZ: Aufklaerungshilfe

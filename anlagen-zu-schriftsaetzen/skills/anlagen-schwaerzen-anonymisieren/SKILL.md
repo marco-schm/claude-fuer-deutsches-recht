@@ -1,6 +1,6 @@
 ---
 name: anlagen-schwaerzen-anonymisieren
-description: "Anlagen schwaerzen und anonymisieren: personenbezogene Daten unbeteiligter Dritter (Mitarbeiter, Kunden, Patienten) entfernen, Kontonummern bis auf letzte 3 Ziffern schwaerzen, Geburtsdaten redigieren, soweit nicht streitrelevant. Mat2- oder PDF-Tool-Anweisungen, Prüfung Restdaten."
+description: "Wenn es um Anlagen schwaerzen/anonymisieren in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anlagen schwaerzen/anonymisieren

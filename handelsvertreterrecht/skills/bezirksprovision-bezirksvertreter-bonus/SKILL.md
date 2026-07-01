@@ -1,6 +1,6 @@
 ---
 name: bezirksprovision-bezirksvertreter-bonus
-description: "Prüft den Anspruch auf Bezirksprovision nach § 87 Abs. 2 HGB: Voraussetzungen des Bezirksvertreterschutzes, Provisionspflicht bei Direktabschlüssen des Unternehmers im Bezirk, Abgrenzung von Stammkunden- und Neukunden-Provision sowie vertragliche Modifikation des Bezirksschutzes im Handelsvertret..."
+description: "Wenn es um Bezirksprovision nach Paragraf 87 Abs. 2 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bezirksprovision nach § 87 Abs. 2 HGB

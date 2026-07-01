@@ -1,6 +1,6 @@
 ---
 name: kirchenasyl
-description: "Kirchenasyl: Fachmodul im Migrationsrecht: prüft Dublin-Praxis, Dossier, Fristen, Behördenkommunikation; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Kirchenasyl: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kirchenasyl: Fachmodul im Migrationsrecht

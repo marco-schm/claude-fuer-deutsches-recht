@@ -1,6 +1,6 @@
 ---
 name: foerdermittel-bescheid
-description: "Erklärt Zuwendungsbescheid, Nebenbestimmungen, Verwendungsnachweis, Rückforderung und Widerruf im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Fördermittel-Bescheid in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fördermittel-Bescheid

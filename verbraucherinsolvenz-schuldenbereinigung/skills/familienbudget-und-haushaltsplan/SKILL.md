@@ -1,6 +1,6 @@
 ---
 name: familienbudget-und-haushaltsplan
-description: "Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise: Normanker: ZPO Pfändungsfreigrenzen; SGB-Sc..."
+description: "Wenn es um Familienbudget Und Haushaltsplan in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.

@@ -1,6 +1,6 @@
 ---
 name: interessenkollision
-description: "Interessenkollision: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Konfliktprüfung, Mandatsannahme, Sozietätswechsel und Tätigkeitsverbote, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Interessenkollision in Berufsrecht Wirtschaftsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Interessenkollision

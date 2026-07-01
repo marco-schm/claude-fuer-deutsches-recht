@@ -1,6 +1,6 @@
 ---
 name: accounting-cyber
-description: "Untersucht Bilanzierungsunregelmäßigkeiten und Bilanzfälschung – forensische Buchprüfung, § 331 HGB, Abschlussprüferhaftung, SEC-Meldungen im Internal Investigations Praxis."
+description: "Wenn es um Bilanzierungsunregelmäßigkeiten und Accounting-Forensik in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bilanzierungsunregelmäßigkeiten und Accounting-Forensik

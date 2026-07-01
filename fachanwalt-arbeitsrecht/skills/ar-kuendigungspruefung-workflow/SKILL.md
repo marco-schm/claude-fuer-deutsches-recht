@@ -1,6 +1,6 @@
 ---
 name: ar-kuendigungspruefung-workflow
-description: "Kündigungsprüfung: Schritt-für-Schritt vom Zugang der Kündigung bis zur Klageerhebung oder Vergleichsstrategie: Schriftform Paragraf 623 BGB, KSchG-Anwe..."
+description: "Wenn es um Ar Kuendigungspruefung Workflow in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kündigungsprüfung: Schritt-für-Schritt vom Zugang der Kündigung bis zur Klageerhebung oder Vergleichsstrategie

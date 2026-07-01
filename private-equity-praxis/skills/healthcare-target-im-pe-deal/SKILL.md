@@ -1,6 +1,6 @@
 ---
 name: healthcare-target-im-pe-deal
-description: "Prüft MVZ, Klinik, Pflege, Apothekennähe, GOÄ/EBM, Zulassung und regulatorische Exit-Risiken im Private Equity Praxis."
+description: "Wenn es um Healthcare-Target im PE-Deal in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Healthcare-Target im PE-Deal

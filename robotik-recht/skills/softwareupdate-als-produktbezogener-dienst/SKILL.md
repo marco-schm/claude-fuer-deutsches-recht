@@ -1,6 +1,6 @@
 ---
 name: softwareupdate-als-produktbezogener-dienst
-description: "Prüft Update, Cloud-Funktion, Kartenmaterial, KI-Modell und andere digitale Dienste als Sicherheits- und Haftungsfaktor."
+description: "Wenn es um Softwareupdate als produktbezogener Dienst in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Softwareupdate als produktbezogener Dienst

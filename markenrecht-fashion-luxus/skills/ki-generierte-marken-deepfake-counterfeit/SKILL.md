@@ -1,6 +1,6 @@
 ---
 name: ki-generierte-marken-deepfake-counterfeit
-description: "KI-generierte Markenverletzungen, Deepfake-Werbung und Counterfeit-Kampagnen prüfen: synthetische Produktbilder, Fake-Shops, Brand-Impersonation, Plattformmeldungen, DSA, AI-Act-Schnittstelle und Beweissicherung im Markenrecht Fashion Luxus."
+description: "Wenn es um digitale Werkzeuge-generierte Markenverletzungen und Deepfake-Counterfeit in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # KI-generierte Markenverletzungen und Deepfake-Counterfeit

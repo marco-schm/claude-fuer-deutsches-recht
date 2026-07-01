@@ -1,6 +1,6 @@
 ---
 name: krankheit-reha-uebergangsgeld
-description: "Krankheit, Reha und Übergangsgeld im Rentenkonto: Beitragszeiten, Reha-vor-Rente, Aussteuerung und EM-Renten-Schnittstelle im Rentenpruefer."
+description: "Wenn es um krankheit-reha-uebergangsgeld in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # krankheit-reha-uebergangsgeld

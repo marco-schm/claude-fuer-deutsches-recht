@@ -1,6 +1,6 @@
 ---
 name: eigenbefoerderung-und-betreuung-art-18
-description: "Prüfraster für Selbstbefoerderung des Fahrgasts (Art. 18 Abs. 3 Unterabs. 2 VO 2021/782 mit 100-Minuten-Frist) und Hilfeleistungs-Anspruch (Art. 20 VO Verpflegung Hotel Transport) sowie SPNV-Sonderfall § 11 EVO (20-Min-Schwelle Alternativzug; 120 EUR Hoechstbetrag Ersatzbefoerderung bei Nachtfah..."
+description: "Wenn es um Eigenbeförderung und Betreuung (Art. 18. 20 VO; Paragraf 11 EVO) in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eigenbeförderung und Betreuung (Art. 18, 20 VO; § 11 EVO)

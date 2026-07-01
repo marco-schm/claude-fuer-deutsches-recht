@@ -1,6 +1,6 @@
 ---
 name: change-control-dingliche-vorkaufsrechte
-description: "Prüft, ob Anteilsübertragung, Verschmelzung, Formwechsel oder Kontrollwechsel beim Erbbauberechtigten Zustimmungspflichten oder Heimfallrechte auslösen im Erbbaurecht Praxis."
+description: "Wenn es um Change of Control beim Erbbauberechtigten in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Change of Control beim Erbbauberechtigten

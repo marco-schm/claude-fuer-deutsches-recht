@@ -1,6 +1,6 @@
 ---
 name: ins-010-closed-periods
-description: "Organisiert Closed Periods, Blackout Windows, Ausnahmen und Freigabeprozesse. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Closed Periods in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Closed Periods

@@ -1,6 +1,6 @@
 ---
 name: auszahlung-internationaler-bezug
-description: "Auszahlung: Internationaler Bezug und Schnittstellen im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
+description: "Wenn es um Auszahlung: Internationaler Bezug und Schnittstellen in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auszahlung: Internationaler Bezug und Schnittstellen

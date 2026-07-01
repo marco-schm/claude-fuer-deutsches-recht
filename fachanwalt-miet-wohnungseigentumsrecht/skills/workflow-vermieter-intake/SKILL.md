@@ -1,6 +1,6 @@
 ---
 name: workflow-vermieter-intake
-description: "Vermieter-Intake: Prüfungslinie für Miet- und WEG-Recht: sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills u..."
+description: "Wenn es um Vermieter-Intake: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Vermieter-Intake: Prüfungslinie für Miet- und WEG-Recht

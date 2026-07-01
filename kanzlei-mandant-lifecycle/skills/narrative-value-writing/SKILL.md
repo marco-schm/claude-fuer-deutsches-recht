@@ -1,6 +1,6 @@
 ---
 name: narrative-value-writing
-description: "Narrative Value Writing: steuert Tätigkeitsbeschreibungen so schreiben, dass der Mandant Wert und Zweck erkennt zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Narrative Value Writing in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Narrative Value Writing

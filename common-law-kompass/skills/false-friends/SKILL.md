@@ -1,6 +1,6 @@
 ---
 name: false-friends
-description: "Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Common Law Kompass."
+description: "Wenn es um Mandantenkommunikation in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Mandantenkommunikation

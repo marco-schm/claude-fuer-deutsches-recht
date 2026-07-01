@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-lda-brandenburg
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg (LDA BB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Brandenbu"
+description: "Wenn es um Reicht eine Meldung nach Art in Fachanwalt It Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Reicht eine Meldung nach Art

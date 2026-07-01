@@ -1,6 +1,6 @@
 ---
 name: owi-012-einziehung-und-verfall-pruefen
-description: "Ordnungswidrigkeitenrecht: Einziehung und Verfall prüfen. Einziehung und Verfall prüfen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Einziehung Und Verfall Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einziehung Und Verfall Pruefen

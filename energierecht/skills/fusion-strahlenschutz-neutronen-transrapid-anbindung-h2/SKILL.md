@@ -1,6 +1,6 @@
 ---
 name: fusion-strahlenschutz-neutronen-transrapid-anbindung-h2
-description: "Prüft Strahlenschutzfragen, Aktivierung von Materialien, Überwachung, Dosismanagement und Entsorgung im Energierecht."
+description: "Wenn es um Fusion: Strahlenschutz und Neutronenaktivierung in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fusion: Strahlenschutz und Neutronenaktivierung

@@ -1,6 +1,6 @@
 ---
 name: beschlussanfechtung
-description: "Gesellschaftsrechtliche Treuepflicht: Beschlussanfechtung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Beschlussanfechtung in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beschlussanfechtung

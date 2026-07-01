@@ -1,6 +1,6 @@
 ---
 name: lpac-und-conflicts
-description: "Prüft Interessenkonflikte, Related-Party-Transactions, GP-led Secondary, Fees, Allocations und Consent im Private Equity Praxis."
+description: "Wenn es um LPAC und Conflicts Management in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPAC und Conflicts Management

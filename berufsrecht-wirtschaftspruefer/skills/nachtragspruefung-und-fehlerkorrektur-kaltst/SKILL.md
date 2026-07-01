@@ -1,6 +1,6 @@
 ---
 name: nachtragspruefung-und-fehlerkorrektur-kaltst
-description: "Wirtschaftsprüfer: nachtragspruefung und fehlerkorrektur - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Nachtragspruefung Und Fehlerkorrektur Kaltst in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: nachtragspruefung und fehlerkorrektur - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

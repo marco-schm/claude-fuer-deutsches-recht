@@ -1,6 +1,6 @@
 ---
 name: verhaeltnis-zu-anderen-unionsrechtsakten
-description: "Anwalt oder Compliance-Beauftragter fragt: Gilt neben der KI-VO noch ein anderes EU-Gesetz für das gleiche System und wie interagieren die Pflichten? Art. 2 Abs. 2 KI-VO Verhältnis zu anderen Rechtsakten. Prüfraster: DSGVO Maschinenverordnung Produktsicherheits-VO MDR IVDR NIS-2 Cyber Resilience..."
+description: "Wenn es um Verhältnis zu anderen Unionsrechtsakten in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verhältnis zu anderen Unionsrechtsakten

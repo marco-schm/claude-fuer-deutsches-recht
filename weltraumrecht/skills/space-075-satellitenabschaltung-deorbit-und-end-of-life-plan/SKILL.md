@@ -1,6 +1,6 @@
 ---
 name: space-075-satellitenabschaltung-deorbit-und-end-of-life-plan
-description: "Weltraumrecht: Satellitenabschaltung Deorbit und End-of-life Plan mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Satellitenabschaltung Deorbit und End-of-life Plan in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Satellitenabschaltung Deorbit und End-of-life Plan

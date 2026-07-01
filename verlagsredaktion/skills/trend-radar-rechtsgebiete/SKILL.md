@@ -1,6 +1,6 @@
 ---
 name: trend-radar-rechtsgebiete
-description: "Beobachtet rechtsgebietsuebergreifende Trends (Digitalisierung, ESG, KI-Recht, EU-Reformen) als Themen-Frueherkennung für mehrere Zeitschriften und Reihen im Verlagsredaktion."
+description: "Wenn es um Trend-Radar Rechtsgebiete in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Trend-Radar Rechtsgebiete

@@ -1,6 +1,6 @@
 ---
 name: nachfolge-in-practice-group
-description: "Sichert Mandantenbeziehungen und Fachwissen beim Seniorpartner-Übergang. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Nachfolge in Praxisgruppen in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachfolge in Praxisgruppen

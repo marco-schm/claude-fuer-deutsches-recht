@@ -1,6 +1,6 @@
 ---
 name: kaltstart-luftrechtsmandat
-description: "'Mandant erscheint erstmals mit Luftrechtsfall: Airline-Insolvenz Flugzeugbeschlagnahme Slot-Verlust oder Planfeststellungsklage. Klaert Zuständigkeit LBA vs. Landesbehoerde vs. Gericht sichert Fristen LuftVG §§ 20 ff. und EU-Recht und liefert Ersteinschaetzungs-Vermerk mit Normpfad und naechsten..."
+description: "Wenn es um Kaltstart Luftrechtsmandat – Ersteinschätzung und Weichenstellung in Luftrecht und Flughafenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Luftrechtsmandat – Ersteinschätzung und Weichenstellung

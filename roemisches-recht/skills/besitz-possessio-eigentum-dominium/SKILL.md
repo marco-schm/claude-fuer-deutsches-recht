@@ -1,6 +1,6 @@
 ---
 name: besitz-possessio-eigentum-dominium
-description: "Römisches Recht: Besitz (possessio) - corpus und animus nach D. 41.2 (Ulpian, Paulus), possessio civilis vs. naturalis, Interdiktsschutz (uti possidetis, utrubi) und Verhältnis zu dominium im Römisches Recht."
+description: "Wenn es um Besitz (possessio) - Grundlagen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besitz (possessio) - Grundlagen

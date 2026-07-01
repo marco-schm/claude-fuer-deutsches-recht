@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-myanmar
-description: "EU-Myanmar-Sanktionsregime nach VO (EU) 401/2013 und Folgeverordnungen: gelistete Personen und Entitaeten des Militaerregimes, Finanzsanktionen, Waffenembargo und sektorale Einschraenkungen. Besondere Risiken bei Handels- und Investitionsbeziehungen mit Staatsunternehmen. Output: Myanmar-Embargo-..."
+description: "Wenn es um Embargo Myanmar: Militaerregime-Sanktionen und Guetersperren in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Embargo Myanmar: Militaerregime-Sanktionen und Guetersperren

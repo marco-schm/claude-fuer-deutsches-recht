@@ -1,6 +1,6 @@
 ---
 name: country-by-country-benefits-matrix-konzern
-description: "Länderuebergreifende Benefits-Matrix für internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Prüfraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Output: Country-by-Country-Benefits-Matrix. Abgrenzung: nicht nat..."
+description: "Wenn es um Country-by-Country Benefits-Matrix für Konzerne in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Country-by-Country Benefits-Matrix für Konzerne

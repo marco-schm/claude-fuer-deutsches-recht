@@ -1,6 +1,6 @@
 ---
 name: workflow-whatsapp-email-beweis
-description: "WhatsApp-/E-Mail-Beweis: Prüfungslinie für Miet- und WEG-Recht: wertet informelle Nachrichten für Zugang, Kenntnis, Fristen und Einigungen aus; mit Kaltstart, Fristencheck, Belegmatrix, Anschlu..."
+description: "Wenn es um WhatsApp-/E-Mail-Beweis: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # WhatsApp-/E-Mail-Beweis: Prüfungslinie für Miet- und WEG-Recht

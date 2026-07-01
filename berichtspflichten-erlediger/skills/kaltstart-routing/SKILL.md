@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Einstieg für mittelständische Betriebe: Berichtspflichten, Statistikmeldungen, Portale, Fristen, Zuständigkeiten, Datenquellen und Vermeidungs-/Vereinfachungsoptionen schnell sortieren."
+description: "Wenn es um Berichtspflichten: Kaltstart und Pflichtenscan in Berichtspflichten-Erlediger geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berichtspflichten: Kaltstart und Pflichtenscan

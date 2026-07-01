@@ -1,6 +1,6 @@
 ---
 name: unterlassungserklaerung-modifizieren
-description: "Output- und Streit-Skill für Unterlassungserklärung Modifizieren: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen."
+description: "Wenn es um Unterlassungserklärung Modifizieren in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Unterlassungserklärung Modifizieren

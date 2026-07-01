@@ -1,6 +1,6 @@
 ---
 name: gewerberaum-umsatzmiete
-description: "Umsatzmiete: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Definition Umsatz, Nachweise, Mindestmiete, Prüfungsklauseln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Umsatzmiete: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umsatzmiete: Fachmodul im Miet- und Wohnungseigentumsrecht

@@ -1,6 +1,6 @@
 ---
 name: euipo-korrespondenz-markenarten-markenrecht
-description: "Euipo: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Euipo: Behörden-, Gerichts- oder Registerweg in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Euipo: Behörden-, Gerichts- oder Registerweg

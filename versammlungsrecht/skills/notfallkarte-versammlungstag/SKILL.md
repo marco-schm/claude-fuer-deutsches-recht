@@ -1,6 +1,6 @@
 ---
 name: notfallkarte-versammlungstag
-description: "Erstellt eine kompakte Notfallkarte für Leitung, Stellvertretung, Ordner und Dokumentationsteam im Versammlungsrecht."
+description: "Wenn es um Eine Seite für den Tag selbst in Versammlungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Eine Seite für den Tag selbst

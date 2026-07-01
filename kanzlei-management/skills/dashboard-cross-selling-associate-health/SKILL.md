@@ -1,6 +1,6 @@
 ---
 name: dashboard-cross-selling-associate-health
-description: "Findet echte Anlässe ohne Mandanten mit Kanzleiwünschen zu belästigen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Cross-Selling ohne Nerven in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cross-Selling ohne Nerven

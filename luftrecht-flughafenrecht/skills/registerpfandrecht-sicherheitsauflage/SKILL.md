@@ -1,6 +1,6 @@
 ---
 name: registerpfandrecht-sicherheitsauflage
-description: "Pfandrecht-Gläubigers Sicherheiten werden durch LuftSiG-Auflagen oder EASA-Maßnahmen beeintraechtigt. Skill prüft wie Sicherheitsauflagen den Wert des Pfandobjekts beeinflussen welche Handlungsoptionen bestehen und liefert Risikobewertung und Vertragsklausel-Empfehlung im Luftrecht Flughafenre..."
+description: "Wenn es um Registerpfandrecht – Sicherheitsauflage bewerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerpfandrecht – Sicherheitsauflage bewerten

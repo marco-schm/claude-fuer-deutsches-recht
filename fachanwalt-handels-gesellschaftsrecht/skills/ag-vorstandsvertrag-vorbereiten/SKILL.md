@@ -1,6 +1,6 @@
 ---
 name: ag-vorstandsvertrag-vorbereiten
-description: "Vorstandsvertrag AG vorbereiten: §§ 84 ff: AktG, Bestellung und Anstellung trennen, Vergueng (fix, variabel, ESG-LTI), D and O Versicherung, Tantieme Caps nach VorstAG, Anstellungsbedingungen Compliance, Sonderkuen..."
+description: "Wenn es um Vorstandsvertrag AG vorbereiten: Paragrafen 84 ff in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorstandsvertrag AG vorbereiten: §§ 84 ff

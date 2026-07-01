@@ -1,6 +1,6 @@
 ---
 name: bue-beichte-und-absolution
-description: "Buße, Beichte und Absolution: Sünde, Reue, Bekenntnis, Lossprechung und Beichtgeheimnis; CIC can. 959-997; KKK 1422-1498; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Re..."
+description: "Wenn es um Buße, Beichte und Absolution in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buße, Beichte und Absolution

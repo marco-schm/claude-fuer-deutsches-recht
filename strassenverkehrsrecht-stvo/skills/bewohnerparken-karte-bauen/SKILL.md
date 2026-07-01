@@ -1,6 +1,6 @@
 ---
 name: bewohnerparken-karte-bauen
-description: "StVO: Bewohnerparken: Karte bauen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Bewohnerparken Karte Bauen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bewohnerparken Karte Bauen

@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Common Law Kompass: wählt den nächsten Spezial-Skill nach Engpass (Statutes of Limitations je Jurisdiction, Pleadings, Discovery requests, Affidavits), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anschluss-Routing

@@ -1,6 +1,6 @@
 ---
 name: it-saas-laufzeit-survival-m-a
-description: "NDA für SaaS-/IT-Vendor-Pitches: Cloud-Hosting, Datentrennung, Subprozessoren, Audit-Rechte, Penetration-Testing-Erlaubnis. Empfehlung: nicht-exklusive Lizenz für Test-Daten, klare Loeschpflicht nach Pitch im NDA-Abgleich."
+description: "Wenn es um NDA mit IT-/SaaS-Vendor in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: It Saas Laufzeit Survival M A; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # NDA mit IT-/SaaS-Vendor

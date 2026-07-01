@@ -1,6 +1,6 @@
 ---
 name: infl-019-gluecksspiel-werbung-und-altersgrenzen
-description: "Influencer-Recht: Glücksspiel Werbung und Altersgrenzen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Glücksspiel Werbung und Altersgrenzen in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Glücksspiel Werbung und Altersgrenzen

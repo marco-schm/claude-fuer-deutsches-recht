@@ -1,6 +1,6 @@
 ---
 name: pferdestall-anordnung-angreifen
-description: "Pferdestall: Anordnung angreifen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Pferdestall Anordnung Angreifen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pferdestall Anordnung Angreifen

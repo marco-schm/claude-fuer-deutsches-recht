@@ -1,6 +1,6 @@
 ---
 name: 09-nichtannahmebeschluss-entwurf
-description: "Nichtannahmebeschluss Paragraf 93d Abs. 1 BVerfGG: ohne Begründung, mit Kurzbegründung, mit ausfuehrlicher Begründung; Wirkung Paragraf 93d Abs. 1 S. 2 (kein Rechtsmittel)"
+description: "Wenn es um 09 Nichtannahmebeschluss Entwurf in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 09 Nichtannahmebeschluss Entwurf

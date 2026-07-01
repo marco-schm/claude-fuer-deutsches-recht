@@ -1,6 +1,6 @@
 ---
 name: berufsstaendische-versorgung-anwaelte
-description: "Prüft Versorgungswerk, Rentenbefreiung und Statusfragen bei Anwälten, Syndizi und freien Mitarbeitern im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Berufsständische Versorgung Anwälte in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berufsständische Versorgung Anwälte

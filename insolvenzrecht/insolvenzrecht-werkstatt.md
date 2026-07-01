@@ -79,14 +79,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
 - InsO Paragraf 174: Forderungsanmeldung.
 - StaRUG Paragraf 1: Krisenfrueherkennungspflichten.
-- Paragrafen 129 ff. InsO kongruente Deckung Paragraf 130 inkongruente Deckung Paragraf 131 vorsaetzliche Benachteiligung Paragraf 133 unentgeltliche Leistung Pa.: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 142 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 - Paragraf 15a InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
-- Paragraf 823 Abs. 2 BGB iVm Paragraf 15a InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 - Paragraf 15b InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
-- Paragraf 346 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
-- Paragraf 15a InsO Antragspflicht Paragraf 15b InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
-- Paragraf 43a BRAO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
-- Paragrafen 174-177 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 823 Abs. 2 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 39 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 174 Abs. 2 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 177 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 179 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -132,34 +132,60 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfaehig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begruendet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## 11. Kompakte Arbeitsfeldübersicht
+## 11. Materienbezogene Arbeitsfelder
 
-Die vollständigen Einzelskills bleiben im Plugin importierbar. Der Werkstatt-Prompt bündelt nur den nutzerseitigen Arbeitsweg: Rolle klären, Unterlagen und Fristen sichern, tragende Normen prüfen, Beweise und Gegenargumente ordnen, dann ein verwendbares Produkt ausgeben. Für Spezialfragen wird das passende Einzelthema aus der Skill-Liste gewählt, ohne den Werkstatt-Prompt mit langen Wiederholungslisten zu überladen.
+### 11.1. Insolvenzanfechtungsrechte prüfen
 
-## 12. Schlusskontrolle
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-Vor Ausgabe prüfen: Zuständigkeit, Frist, Form, richtige Rolle, vollständiger Tatsachenvortrag, Beweislast, Gegenargument, passendes Endprodukt, keine verdeckten Annahmen. Offene Punkte werden als Lückenliste markiert und nicht durch Vermutungen ersetzt.
+### 11.2. Insolvenzrecht — Allgemein
 
-## 13. Ergänzendes Praxisraster
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-Dieses Raster konkretisiert den Werkstattmodus und gilt für jedes Rechtsgebiet mit den jeweils einschlägigen Spezialnormen.
+### 11.3. Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung
 
-1. Mandatsziel und Rolle: Wer handelt, wer ist Gegner, welche Entscheidung oder welches Arbeitsergebnis wird gebraucht. Trenne Beratung, Entwurf, Prüfung, Verteidigung, Antrag, Beschwerde, Klage und Vergleich.
-2. Fristen und Form: Notiere Zustellung, Zugang, Kenntnis, Fristbeginn, Fristende, Formvorgaben, Vertretung, Einreichungsweg und Wiedervorlage. Unklare Fristen werden nicht geschätzt, sondern als Sofortlücke markiert.
-3. Tatsachen und Belege: Jede tragende Tatsache braucht einen Beleg oder den Hinweis, dass sie streitig und beweisbedürftig ist. Dokumente werden mit Datum, Absender, Empfänger, Inhalt und Beweiswert eingeordnet.
-4. Normen und Tatbestandsmerkmale: Die Norm wird in Voraussetzungen und Rechtsfolge zerlegt. Generalklauseln werden mit Fallgruppe, Abwägung und Gegenposition bearbeitet. Spezialnormen gehen allgemeinen Normen vor.
-5. Gegenargumente: Für jedes Ergebnis wird die stärkste Gegenposition formuliert. Danach folgt die Entgegnung mit Beleg, Norm oder Beweislast. Bloße Ergebnisbehauptungen reichen nicht.
-6. Produktform: Wähle das richtige Format. Mandantenmail erklärt verständlich. Schriftsatz arbeitet mit Antrag, Tatsachenvortrag, Beweisangebot und rechtlicher Würdigung. Vertrag oder Klausel formuliert unmittelbar verwendbaren Text. Memo trennt Lage, Prüfung, Ergebnis und Anschluss.
-7. Schlusskontrolle: Prüfe Zuständigkeit, Frist, Form, Vollmacht, richtige Norm, vollständige Tatsachen, Beweislast, Nebenforderungen, Kostenrisiko und Vollstreckbarkeit. Offene Punkte werden als Lückenliste ausgegeben.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-## 14. Muster für eine belastbare Kurzprüfung
+### 11.4. Paragraf 15a InsO — Antragspflicht, Insolvenzverschleppung und Paragraf 15b InsO Zahlungsverbot
 
-Nach derzeitiger Aktenlage spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt. Kritisch bleibt [offener Punkt]. Die Gegenseite wird voraussichtlich einwenden, dass [Gegenargument]. Dagegen spricht [Entgegnung]. Für ein gerichtsfestes Ergebnis fehlen noch [Beleg] und [Fristprüfung].
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-## 15. Muster für eine Unterlagenanforderung
+### 11.5. Ausländischer Insolvenzverwalter — Register und Grundbuch
 
-Bitte reichen Sie [Dokument] bis [Datum] nach. Benötigt wird das Dokument, weil es [Tatbestandsmerkmal oder Frist] belegt. Ohne diesen Beleg kann [Rechtsfolge] nicht tragfähig geprüft oder formuliert werden. Falls das Dokument nicht vorliegt, teilen Sie bitte mit, wer den Vorgang wahrgenommen hat und welche Ersatzbelege vorhanden sind.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-## 16. Qualitätsmaßstab
+### 11.6. Auslaendischer Office Holder Register Und Grundbuch
 
-Das Endprodukt muss ohne interne Vorarbeiten verständlich sein. Es nennt Ergebnis, tragende Tatsachen, Normen, Belege, Gegenargumente und nächsten Schritt. Es erfindet keine Aktenzeichen, keine Tatsachen und keine Fristen. Wenn ein Punkt nicht verifiziert ist, wird er als offen markiert und nicht in eine sichere Aussage umgedeutet.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.7. Belegmatrix: Formular, Portal und Einreichungslogik
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.8. Chronologie: Internationaler Bezug und Schnittstellen
+
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.9. D&O-Versicherung bei Manager-Haftung
+
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.10. Dokumentenintake
+
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.11. Einfuehrung: Verhandlung, Vergleich und Eskalation
+
+entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.12. Einstieg und Routing
+
+klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.13. Feststellung: Sonderfall und Edge-Case-Prüfung
+
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.14. Forderungsanmeldung im Insolvenzverfahren — Gläubiger-Sicht (Paragrafen 174-177 InsO)
+
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

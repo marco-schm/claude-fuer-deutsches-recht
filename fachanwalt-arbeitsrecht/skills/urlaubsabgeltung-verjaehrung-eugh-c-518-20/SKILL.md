@@ -1,6 +1,6 @@
 ---
 name: urlaubsabgeltung-verjaehrung-eugh-c-518-20
-description: "Urlaubsabgeltung Verjaehrung Mitwirkungsobliegenheit nach EuGH C-518/20 und BAG 9 AZR 266/20."
+description: "Wenn es um Urlaubsabgeltung Verjaehrung EuGH C 518 20 in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Urlaubsabgeltung Verjaehrung EuGH C 518 20

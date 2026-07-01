@@ -1,6 +1,6 @@
 ---
 name: provider-deployer-vertragsmatrix
-description: "Provider-Deployer-Vertragsmatrix nach KI-VO: Rollen, technische Dokumentation, Logs, Human Oversight, GPAI-Unterlagen, Datenschutz, Haftung, Audit und Change-Control vertraglich abbilden."
+description: "Wenn es um Provider-Deployer-Vertragsmatrix in europäischem Technikregulierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Provider-Deployer-Vertragsmatrix

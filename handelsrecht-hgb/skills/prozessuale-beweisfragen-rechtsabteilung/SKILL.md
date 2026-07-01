@@ -1,6 +1,6 @@
 ---
 name: prozessuale-beweisfragen-rechtsabteilung
-description: "Prüft Handelsbücher, Bestätigungsschreiben, Registerauszug, Zeugen aus Organisation und Urkundenbeweis im Handelsrecht Hgb."
+description: "Wenn es um Prozessuale HGB-Beweisfragen in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prozessuale HGB-Beweisfragen

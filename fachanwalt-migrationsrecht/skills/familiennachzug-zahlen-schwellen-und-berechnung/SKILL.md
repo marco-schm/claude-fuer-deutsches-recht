@@ -1,6 +1,6 @@
 ---
 name: familiennachzug-zahlen-schwellen-und-berechnung
-description: "Familiennachzug: Zahlen, Schwellenwerte und Berechnung: Familiennachzug: Zahlen, Schwellenwerte und Berechnung."
+description: "Wenn es um Familiennachzug: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Migrationsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Familiennachzug: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: norm-zerlegen-mandantenbrief
-description: "Zerlegt eine Norm systematisch in ihre Tatbestandsmerkmale (TBM): geschriebene und ungeschriebene Merkmale, Definitionen aus h.M. und Rechtsprechung, Prüfungsreihenfolge. Grundlage für den Vier-Schritt der Subsumtion je TBM im Subsumtions Prüfer."
+description: "Wenn es um Norm zerlegen in Tatbestandsmerkmale in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Norm zerlegen in Tatbestandsmerkmale
@@ -77,7 +77,7 @@ Das System weist auf judikativ entwickelte ungeschriebene Merkmale hin (z.B. bei
 
 ### Schritt 6 — Übergabe an Subsumtion
 
-Nach der TBM-Liste übergibt das System je TBM an den Skill `subsumtion-obersatz-definition-untersatz-ergebnis`.
+Nach der TBM-Liste übergibt das System je TBM an den Skill `subsumtion-obersatz-rewrite-klausurton-triage`.
 
 ## Besonderheiten bei Unionsrecht
 

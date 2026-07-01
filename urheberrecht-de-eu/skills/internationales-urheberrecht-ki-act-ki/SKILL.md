@@ -1,6 +1,6 @@
 ---
 name: internationales-urheberrecht-ki-act-ki
-description: "Prüft grenzüberschreitende Nutzung, Schutzlandprinzip, Berner Übereinkunft, EU-Harmonisierung, Plattformen und US-Bezug im Urheberrecht De Eu."
+description: "Wenn es um Internationales Urheberrecht und Kollisionsrecht in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationales Urheberrecht und Kollisionsrecht

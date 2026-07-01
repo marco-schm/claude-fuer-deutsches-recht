@@ -1,6 +1,6 @@
 ---
 name: jahresfrist-47-abs-2-vwgo
-description: "Mandant moechte Normenkontrollantrag stellen und Anwalt prüft ob die Jahresfrist noch laeuft. § 47 Abs. 2 S. 1 VwGO Jahresfrist Normenkontrolle. Prüfraster: Fristbeginn ortsuebliche Bekanntmachung § 10 Abs. 3 BauGB fehlerhafte Bekanntmachung kein Fristbeginn Wiedereinsetzung § 60 VwGO ergaenzende..."
+description: "Wenn es um Jahresfrist Paragraf 47 Abs. 2 VwGO in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jahresfrist § 47 Abs. 2 VwGO

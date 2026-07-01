@@ -1,6 +1,6 @@
 ---
 name: eingliederungshilfe-sgb-ix-rehabilitation
-description: "Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zuständigen Reha-Traeger. Liefert Prüfraster."
+description: "Wenn es um Eingliederungshilfe Sgb Ix Rehabilitation in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eingliederungshilfe Sgb Ix Rehabilitation

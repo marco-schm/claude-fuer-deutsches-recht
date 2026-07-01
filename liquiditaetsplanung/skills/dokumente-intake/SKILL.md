@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Liquiditätsplanung: sortiert Liquiditätsplan, Bankenstatus, Forderungs-/Verbindlichkeitenliste, prüft Datum, Absender, Frist und Beweiswert (Bankbestätigungen, Eingangs-/Ausgangsrechnungen); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

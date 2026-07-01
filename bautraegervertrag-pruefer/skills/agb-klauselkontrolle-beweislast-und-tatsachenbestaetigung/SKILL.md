@@ -1,6 +1,6 @@
 ---
 name: agb-klauselkontrolle-beweislast-und-tatsachenbestaetigung
-description: "AGB-Klauselkontrolle im Bauträgervertrag: prüft § 307 BGB, § 308 Nr. 4 BGB, § 309 Nr. 1, Nr. 2 lit. a, Nr. 8, Nr. 12 und Nr. 15 BGB, Tatsachenbestätigung, Beweislast, Änderungsrechte und Zahlungssicherheit."
+description: "Wenn es um AGB-Klauselkontrolle, Beweislast und Tatsachenbestätigung in Bauträgervertrag-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AGB-Klauselkontrolle, Beweislast und Tatsachenbestätigung

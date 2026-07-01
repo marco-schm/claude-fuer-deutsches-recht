@@ -1,6 +1,6 @@
 ---
 name: europarecht-emrk-gegendarstellung
-description: "Ordnet Art 10 EMRK und Art 11 GRCh in die Äußerungsprüfung ein. Prüft scharfe Äußerungen, Reputationsschutz, Plattformen, Suchmaschinen, Datenschutz, Verhältnismäßigkeit und unionsrechtliche Bezüge im Meinungspruefer."
+description: "Wenn es um Europarecht: EMRK und Grundrechtecharta in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Europarecht: EMRK und Grundrechtecharta

@@ -1,6 +1,6 @@
 ---
 name: space-059-change-control-engineering-und-rechtsfolgen
-description: "Weltraumrecht: Change Control Engineering und Rechtsfolgen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Change Control Engineering und Rechtsfolgen in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Change Control Engineering und Rechtsfolgen

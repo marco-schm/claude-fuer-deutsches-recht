@@ -1,6 +1,6 @@
 ---
 name: enteignung-uebernahme-und-entschaedigung
-description: "Eigentumseingriff im Denkmalrecht: Enteignung nach Art. 14 Abs. 3 GG mit Entschädigung, Übernahmeanspruch der Eigentümerin bei wirtschaftlicher Unzumutbarkeit, Ausgleichszahlungen bei ausgleichspflichtiger Inhaltsbestimmung. Skill ordnet die drei Wege und zeigt, welcher Anspruch in welcher Lage greift."
+description: "Wenn es um Enteignung, Übernahme und Entschädigung in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Enteignung, Übernahme und Entschädigung

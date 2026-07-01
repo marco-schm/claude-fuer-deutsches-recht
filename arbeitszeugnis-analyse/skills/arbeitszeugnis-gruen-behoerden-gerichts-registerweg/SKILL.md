@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-gruen-behoerden-gerichts-registerweg
-description: "Gruen: Behörden-, Gerichts- oder Registerweg im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Gruen: Behörden-, Gerichts- oder Registerweg in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gruen: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: weg-instandhaltungsruecklage
-description: "Erhaltungsrücklage: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Angemessenheit, Finanzierung, Zweckbindung, Darstellung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsp..."
+description: "Wenn es um Erhaltungsrücklage: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erhaltungsrücklage: Fachmodul im Miet- und Wohnungseigentumsrecht

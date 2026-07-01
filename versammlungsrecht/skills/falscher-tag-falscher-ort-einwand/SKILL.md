@@ -1,6 +1,6 @@
 ---
 name: falscher-tag-falscher-ort-einwand
-description: "Reagiert auf Behördeneinwände wie falscher Tag, falscher Ort, sensible Nachbarschaft, parallele Veranstaltung oder politisch unpassender Anlass im Versammlungsrecht."
+description: "Wenn es um Nicht jeder Behördenwunsch ist Recht in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Nicht jeder Behördenwunsch ist Recht

@@ -1,6 +1,6 @@
 ---
 name: kst-organschaft-14-kstg
-description: "Prüfung der Voraussetzungen einer ertragsteuerlichen Organschaft — finanzielle Eingliederung Gewinnabfuehrungsvertrag Mindestlaufzeit fuenf Jahre tatsaechliche Durchfuehrung. Anwendungsfall Konzern oder Unternehmensgruppe will eine Organschaft begruenden oder das Finanzamt versagt eine bestehend..."
+description: "Wenn es um Koerperschaftsteuerliche Organschaft — Paragraf 14 KStG und Gewinnabfuehrungsvertrag in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Koerperschaftsteuerliche Organschaft — § 14 KStG und Gewinnabfuehrungsvertrag

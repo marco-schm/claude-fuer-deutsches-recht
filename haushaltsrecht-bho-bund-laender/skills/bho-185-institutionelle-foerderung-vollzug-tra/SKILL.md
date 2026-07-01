@@ -1,6 +1,6 @@
 ---
 name: bho-185-institutionelle-foerderung-vollzug-tra
-description: "Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Vollzug tracken. Vollzug tracken für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Institutionelle Foerderung Vollzug Tra in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Institutionelle Foerderung Vollzug Tra

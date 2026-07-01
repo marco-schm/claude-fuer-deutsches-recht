@@ -1,6 +1,6 @@
 ---
 name: default-judgment-and-nonappearance
-description: "Prüft Versäumnis, Anerkenntnis, Säumnisfolgen, Einspruch und taktische Nichtteilnahme in Commercial-Court-Verfahren im Commercial Courts Deutschland."
+description: "Wenn es um Default and Nonappearance in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Default and Nonappearance

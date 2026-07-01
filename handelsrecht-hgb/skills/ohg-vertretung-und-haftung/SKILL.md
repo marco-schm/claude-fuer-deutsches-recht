@@ -1,6 +1,6 @@
 ---
 name: ohg-vertretung-und-haftung
-description: "Prüft Vertretung, Geschäftsführung, persönliche Haftung und Einwendungen der Gesellschafter im Handelsrecht Hgb."
+description: "Wenn es um OHG Vertretung und Haftung in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # OHG Vertretung und Haftung

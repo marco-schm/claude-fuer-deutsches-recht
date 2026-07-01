@@ -1,6 +1,6 @@
 ---
 name: heizung-warmwasser
-description: "Heizung und Warmwasser: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Mindesttemperatur, Ausfallzeit, Notmaßnahmen, Minderung, einstweilige Verfügung; mit Normprüfung, Beweisen, F..."
+description: "Wenn es um Heizung und Warmwasser: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Heizung und Warmwasser: Fachmodul im Miet- und Wohnungseigentumsrecht

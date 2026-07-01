@@ -1,6 +1,6 @@
 ---
 name: spezial-rechtsprechung-internationaler-bezug-und-schnittstellen
-description: "Rechtsprechung: Internationaler Bezug und Schnittstellen im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Rechtsprechung: Internationaler Bezug und Schnittstellen in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsprechung: Internationaler Bezug und Schnittstellen

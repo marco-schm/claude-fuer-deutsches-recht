@@ -1,6 +1,6 @@
 ---
 name: legal-fact-book
-description: "Legal Fact Book Generator: erstellt ein sell-side-taugliches Faktenbuch mit Corporate, Material Contracts, Litigation, Employment, IP, Regulatory, Real Estate und Compliance."
+description: "Wenn es um Legal Fact Book Generator in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Legal Fact Book; Arbeitsfeld: Großkanzlei Corporate/M&A."
 ---
 
 # Legal Fact Book Generator

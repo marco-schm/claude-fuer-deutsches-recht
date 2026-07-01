@@ -1,6 +1,6 @@
 ---
 name: wertersatz-dienstleistung-gebrauchsvorteil
-description: "Bei eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Normen: § 818 Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil..."
+description: "Wenn es um Wertersatz bei Dienstleistung und Gebrauchsvorteil in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Wertersatz Dienstleistung Gebrauchsvorteil; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # Wertersatz bei Dienstleistung und Gebrauchsvorteil

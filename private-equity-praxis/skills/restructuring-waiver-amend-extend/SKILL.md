@@ -1,6 +1,6 @@
 ---
 name: restructuring-waiver-amend-extend
-description: "Begleitet Waiver, Covenant Reset, A&E, Standstill, Super Senior, SFA und Krisenfinanzierung im Private Equity Praxis."
+description: "Wenn es um Amend & Extend und Restrukturierung in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Amend & Extend und Restrukturierung

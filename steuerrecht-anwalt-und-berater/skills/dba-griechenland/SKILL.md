@@ -1,6 +1,6 @@
 ---
 name: dba-griechenland
-description: "DBA Deutschland Griechenland 1966. Anwendungsfall Schifffahrt Tourismus Pensionen Beteiligungen. EU-MTRL ergaenzend. Aelteres DBA. Methodenartikel Anrechnung Sonderregelungen. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Griechenland (1966) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Griechenland (1966)

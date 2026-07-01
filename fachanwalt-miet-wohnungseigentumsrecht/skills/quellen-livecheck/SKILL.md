@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Quellen-Live-Check für Fachanwalt Miet- und Wohnungseigentumsrecht: prüft Normen (BGB §§ 535-580a, WEG, BetrKV, HeizkostenV) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Amtsgericht Belegenheit (Miete + WEG) und Quellenhygiene nach references/quellenhygiene.md."
+description: "Wenn es um Rechtsquellen-Livecheck in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Rechtsquellen-Livecheck

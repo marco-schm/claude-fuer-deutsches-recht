@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid-online-mb
-description: "Mahnbescheid Online-Mahnbescheid (Online-MB): wann sinnvoll, Voraussetzungen Paragraf 690 ZPO, zustaendiges Mahngericht (zentrales Online-Mahngericht), Online-Antrag, Zustellung an Schuldner, Folge Widerspruch fuehrt in streitiges Verfahren. Pruefraster."
+description: "Wenn es um Mahnbescheid (Online-MB) in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mahnbescheid (Online-MB)

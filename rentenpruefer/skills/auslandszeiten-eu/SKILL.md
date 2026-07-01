@@ -1,6 +1,6 @@
 ---
 name: auslandszeiten-eu
-description: "Auslandszeiten in EU, EWR und Schweiz: Koordinierung, pro-rata-Berechnung, Antragstellung über den Wohnsitzstaat und Doppelzeiten im Rentenpruefer."
+description: "Wenn es um auslandszeiten-eu-ewr-schweiz in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # auslandszeiten-eu-ewr-schweiz

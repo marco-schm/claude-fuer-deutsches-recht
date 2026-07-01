@@ -1,6 +1,6 @@
 ---
 name: hochschulgesetz-nordrhein-rheinland
-description: "Prüft Hochschulrecht in Nordrhein-Westfalen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder."
+description: "Wenn es um Hochschulgesetz Nordrhein Westfalen in Hochschulrecht der Bundesländer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Hochschulgesetz Nordrhein Westfalen

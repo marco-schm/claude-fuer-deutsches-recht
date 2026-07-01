@@ -1,6 +1,6 @@
 ---
 name: marketplace-schlichtung-waehlen
-description: "Prüfer: Marketplace: Schlichtung wählen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Marketplace Schlichtung Wählen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Marketplace Schlichtung Wählen

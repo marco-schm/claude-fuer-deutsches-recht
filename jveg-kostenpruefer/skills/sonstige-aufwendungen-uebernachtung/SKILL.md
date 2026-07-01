@@ -1,6 +1,6 @@
 ---
 name: sonstige-aufwendungen-uebernachtung
-description: "Sonstige Aufwendungen nach § 7 JVEG prüfen und belegen: Porto, Kopierkosten, technische Geräte. Normen: § 7 JVEG. Prüfraster: Belegpflicht, angemessene Hoehe, Erstattungsfähigkeit. Output: Aufwendungsnachweis JVEG. Abgrenzung: nicht Fahrtkosten oder Übernachtung im Jveg Kostenpruefer."
+description: "Wenn es um JVEG-Sonstige-Aufwendungen-Belege in JVEG-Kostenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # JVEG-Sonstige-Aufwendungen-Belege

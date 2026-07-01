@@ -1,6 +1,6 @@
 ---
 name: schulbibliothek-medienbestand
-description: "Prüft Medienauswahl, Jugendschutz, Elternbeschwerde und pädagogischen Auftrag im Schulrecht Länder."
+description: "Wenn es um Schulbibliothek und Medienbestand in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulbibliothek und Medienbestand

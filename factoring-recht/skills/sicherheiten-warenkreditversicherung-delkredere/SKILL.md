@@ -1,6 +1,6 @@
 ---
 name: sicherheiten-warenkreditversicherung-delkredere
-description: "Sicherheiten Warenkreditversicherung Delkredere: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht."
+description: "Wenn es um Sicherheiten Warenkreditversicherung Delkredere in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sicherheiten Warenkreditversicherung Delkredere

@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-widerspruch-gegen-leistungsablehnung
-description: "Widerspruchsverfahren nach §§ 83 ff. SGG: Fristen, Form, Begründungsanforderungen, Widerspruchsstellen und typische Fehler im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Widerspruch gegen Leistungsablehnung: Frist und Begründung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Widerspruch gegen Leistungsablehnung: Frist und Begründung

@@ -1,6 +1,6 @@
 ---
 name: workflow-redteam-qualitygate
-description: "Dieses Skill strukturiert das Red-Team-Quality-Gate als systematischen Qualitätssicherungsprozess vor der finalen Einreichung oder Übergabe juristischer Arbeitsergebnisse: Dieses Skill strukturiert das Red-Team-Quality-Gate als systematischen Qualitätssiche..."
+description: "Wenn es um Workflow Redteam Qualitygate in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dieses Skill strukturiert das Red-Team-Quality-Gate als systematischen Qualitätssicherungsprozess vor der finalen Einreichung oder Übergabe juristischer Arbeitsergebnisse

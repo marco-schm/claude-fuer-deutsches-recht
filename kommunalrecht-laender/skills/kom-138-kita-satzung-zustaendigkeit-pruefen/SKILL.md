@@ -1,6 +1,6 @@
 ---
 name: kom-138-kita-satzung-zustaendigkeit-pruefen
-description: "Kommunalrecht der Länder: Kita-Satzung: Zuständigkeit prüfen. Zuständigkeit prüfen für Kita-Satzung im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kita Satzung Zustaendigkeit Pruefen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kita Satzung Zustaendigkeit Pruefen

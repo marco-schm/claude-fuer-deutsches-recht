@@ -1,6 +1,6 @@
 ---
 name: fremdgeld-und-anderkonto-rechtsprechungscheck
-description: "Anwälte: fremdgeld und anderkonto - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Fremdgeld Und Anderkonto Rechtsprechungscheck in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Anwälte: fremdgeld und anderkonto - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: verbraucherverband-reiseveranstalter-vergleich-pruefen-umsetzung
-description: "Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Vergleich prüfen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Reiseveranstalter Vergleich Prüfen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Reiseveranstalter Vergleich Prüfen

@@ -1,6 +1,6 @@
 ---
 name: btm-071-fentanyl-stoff-pruefen
-description: "Betäubungsmittelrecht: Fentanyl: Stoff prüfen. Stoff prüfen für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Fentanyl Stoff Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fentanyl Stoff Pruefen

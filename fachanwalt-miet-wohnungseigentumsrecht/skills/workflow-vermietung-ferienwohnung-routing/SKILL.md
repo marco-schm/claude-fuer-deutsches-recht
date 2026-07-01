@@ -1,6 +1,6 @@
 ---
 name: workflow-vermietung-ferienwohnung-routing
-description: "Ferienwohnung/Zweckentfremdung: Prüfungslinie für Miet- und WEG-Recht: prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschlus..."
+description: "Wenn es um Ferienwohnung/Zweckentfremdung: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Ferienwohnung/Zweckentfremdung: Prüfungslinie für Miet- und WEG-Recht

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fluggastrechte VO 261/2004: ordnet Rolle (Fluggast, Fluggesellschaft, Reisevermittler), markiert Frist (Verjährung 3 Jahre § 195 BGB), wählt Norm (VO (EG) 261/2004, Montrealer Übereinkommen, BGB §§ 631 ff.) und Zuständigkeit (LBA), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Fluggastrechte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

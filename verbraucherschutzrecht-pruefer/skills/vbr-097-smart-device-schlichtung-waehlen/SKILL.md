@@ -1,6 +1,6 @@
 ---
 name: vbr-097-smart-device-schlichtung-waehlen
-description: "Verbraucherschutzrecht Prüfer: Smart Device: Schlichtung wählen. Schlichtung wählen für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Smart Device Schlichtung Waehlen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Smart Device Schlichtung Waehlen

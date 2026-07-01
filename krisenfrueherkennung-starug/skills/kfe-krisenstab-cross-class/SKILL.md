@@ -1,6 +1,6 @@
 ---
 name: kfe-krisenstab-cross-class
-description: "Leitfaden Krisenstab und Sofortmassnahmen: Kommunikation Bank / Lieferant / Mitarbeiter / Mandanten, Treasury, Liquiditaetssteuerung. Prüfraster für Geschäftsleitung im Krisenfrueherkennung Starug."
+description: "Wenn es um KFE: Krisenstab Maßnahmen in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KFE: Krisenstab Maßnahmen

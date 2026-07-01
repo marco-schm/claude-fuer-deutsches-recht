@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Strafbefehl-Verteidigung: stimmt Adressat (Beschuldigter, Staatsanwaltschaft, Amtsrichter), Frist (§ 410 StPO Einspruch 2 Wochen) und Form auf den Zweck ab — typische Outputs: Einspruch, Akteneinsicht-Antrag, Verteidigungsstrategie-Memo."
+description: "Wenn es um Output wählen in Strafbefehl-Verteidiger geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

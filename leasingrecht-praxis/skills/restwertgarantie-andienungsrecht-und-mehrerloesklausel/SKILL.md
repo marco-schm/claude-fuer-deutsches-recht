@@ -1,6 +1,6 @@
 ---
 name: restwertgarantie-andienungsrecht-und-mehrerloesklausel
-description: "Restwertgarantie, Andienungsrecht und Mehrerlösklausel: Konstruktionen, AGB-Wirksamkeit, steuerliche Zurechnung und Abrechnungsstreit im Leasingrecht."
+description: "Wenn es um Restwertgarantie, Andienungsrecht und Mehrerlösklausel in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Restwertgarantie, Andienungsrecht und Mehrerlösklausel

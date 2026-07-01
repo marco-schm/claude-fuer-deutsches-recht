@@ -1,6 +1,6 @@
 ---
 name: kuendigungsschutzklage
-description: "Entwirft und prüft die Kündigungsschutzklage nach Paragraf 4 KSchG mit Zugang, Dreiwochenfrist, Klageantrag, Kündigungsgrund, Betriebsratsanhörung, Sonderkündigungsschutz, Weiterbeschäftigung und Vergleichsziel."
+description: "Wenn es um Kündigungsschutzklage in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kündigungsschutzklage

@@ -1,6 +1,6 @@
 ---
 name: dienstpflichten-waehrend-verfahren
-description: "Minimiert Disziplinarrisiken während laufendem KDV-Antrag im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Dienstpflichten im Verfahren in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Dienstpflichten im Verfahren

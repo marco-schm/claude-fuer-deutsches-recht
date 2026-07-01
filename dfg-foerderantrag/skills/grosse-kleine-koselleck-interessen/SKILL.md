@@ -1,6 +1,6 @@
 ---
 name: grosse-kleine-koselleck-interessen
-description: "Grosse: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Große: Compliance-Dokumentation und Aktenvermerk in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Große: Compliance-Dokumentation und Aktenvermerk

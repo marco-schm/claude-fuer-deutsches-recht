@@ -1,6 +1,6 @@
 ---
 name: vertrieb-verwertung-schadensersatz
-description: "Prüft Vertrieb, Aggregator, Distributor, Verlag, Label, Plattform, Subpublisher und internationale Revenue-Flows im Urheberrecht De Eu."
+description: "Wenn es um Verwertungskette und Vertrieb in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verwertungskette und Vertrieb

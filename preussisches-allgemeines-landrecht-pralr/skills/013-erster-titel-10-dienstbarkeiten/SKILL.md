@@ -1,6 +1,6 @@
 ---
 name: 013-erster-titel-10-dienstbarkeiten
-description: "PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen

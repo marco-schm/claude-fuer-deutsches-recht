@@ -1,6 +1,6 @@
 ---
 name: tier-097-schlachthof-kosten-klaeren
-description: "Tierschutzrecht: Schlachthof: Kosten klären. Kosten klären für Schlachthof im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schlachthof Kosten Klaeren in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schlachthof Kosten Klaeren

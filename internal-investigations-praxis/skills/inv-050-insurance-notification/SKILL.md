@@ -1,6 +1,6 @@
 ---
 name: inv-050-insurance-notification
-description: "Spezialskill fuer Insurance Notification: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Insurance Notification in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internal Investigation: Insurance Notification

@@ -1,6 +1,6 @@
 ---
 name: graduiertenschule-zulassung
-description: "Prüft Zulassung zur Graduiertenschule, Auswahlkriterien, Betreuung und Rechtsschutz im Hochschulrecht Länder."
+description: "Wenn es um Graduiertenschule Zulassung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Graduiertenschule Zulassung

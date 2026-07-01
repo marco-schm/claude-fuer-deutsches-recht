@@ -1,6 +1,6 @@
 ---
 name: vertragliche-schnittstellen
-description: "HOAI-Praxis: prüft Architekt, Fachplaner, Projektsteuerer, Bauleiter und GU/GÜ; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um HOAI Querschnitt: Prüft architekt in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # HOAI Querschnitt: Prüft architekt

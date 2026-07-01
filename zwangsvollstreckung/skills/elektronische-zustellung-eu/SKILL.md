@@ -1,6 +1,6 @@
 ---
 name: elektronische-zustellung-eu
-description: "Digitalisierung der Zwangsvollstreckung nach BGBl. 2026 I Nr. 152: elektronischer PfÜB-Antrag, XML-Datensatz ab 1.1.2027, sicherer Übermittlungsweg für Kreditinstitute ab 1.6.2027 und Drittschuldnerzustellung."
+description: "Wenn es um Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG

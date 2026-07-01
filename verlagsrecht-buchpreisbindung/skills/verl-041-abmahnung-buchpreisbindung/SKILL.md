@@ -1,6 +1,6 @@
 ---
 name: verl-041-abmahnung-buchpreisbindung
-description: "Verlagsrecht: Abmahnung Buchpreisbindung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Abmahnung Buchpreisbindung in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Abmahnung Buchpreisbindung

@@ -1,6 +1,6 @@
 ---
 name: schule-ordnungsmassnahme-schwerbehinderung
-description: "Hilft bei Verweis, Unterrichtsausschluss, Schulwechselandrohung, Anhörung und Elternstellungnahme im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Schule Ordnungsmaßnahme in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schule Ordnungsmaßnahme

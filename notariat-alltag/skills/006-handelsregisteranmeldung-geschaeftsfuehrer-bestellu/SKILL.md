@@ -1,6 +1,6 @@
 ---
 name: 006-handelsregisteranmeldung-geschaeftsfuehrer-bestellu
-description: "Notariat im Alltag: Handelsregisteranmeldung – Geschäftsführer-Bestellung, Abberufung, Vertretungsmacht. Formelle Anforderungen, Inhalt der Anmeldung, Vollzug und Zwischenverfügungsrisiken im Notariat."
+description: "Wenn es um Handelsregisteranmeldung Geschäftsführer Bestellu in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Handelsregisteranmeldung – Geschäftsführer Bestellung, Abberufung, Vertretungsmacht

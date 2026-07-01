@@ -1,6 +1,6 @@
 ---
 name: containerschiff-wrackpflicht-pruefen
-description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Containerlinienfrachtschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 481-526 Stueckgutfracht; SchRG..."
+description: "Wenn es um Containerschiff – Wrackbeseitigungspflicht prüfen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Containerschiff – Wrackbeseitigungspflicht prüfen

@@ -1,6 +1,6 @@
 ---
 name: missbrauchsabwehr-mobbing-retaliation-nda
-description: "Baut Missbrauchsabwehr ohne Abschreckung echter Hinweise im Hinweisgeberschutz Compliance."
+description: "Wenn es um Missbrauchsabwehr in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Missbrauchsabwehr

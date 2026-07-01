@@ -1,6 +1,6 @@
 ---
 name: human-robot-interaction
-description: "Prüft besondere Mensch-Roboter-Interaktion: Nähe, Vertrauen, Manipulation, psychische Belastung, vulnerable Nutzer und klare Grenzen."
+description: "Wenn es um HRI-Red-Team in robotik-recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # HRI-Red-Team

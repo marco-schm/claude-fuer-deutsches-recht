@@ -1,6 +1,6 @@
 ---
 name: wasserschaden-trocknung
-description: "Wasserschaden/Trocknung: Fachmodul im Miet- und Wohnungseigentumsrecht: klärt Ursache, Zutritt, Trocknungsgeräte, Stromkosten, Ersatzwohnraum und Versicherung; mit Normprüfung, Beweisen..."
+description: "Wenn es um Wasserschaden/Trocknung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wasserschaden/Trocknung: Fachmodul im Miet- und Wohnungseigentumsrecht

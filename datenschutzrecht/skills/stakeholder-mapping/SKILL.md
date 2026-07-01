@@ -1,6 +1,6 @@
 ---
 name: stakeholder-mapping
-description: "Kartiert alle internen und externen Stakeholder eines Datenschutzvorfalls inklusive Informationsbedarf, Zeitpunkt und Verantwortlicher. Behandelt: Geschäftsleitung; Datenschutzbeauftragter; IT-Sicherheit; Betriebsrat; Auftragsverarbeiter; gemeinsam Verantwortliche; Cyberversicherung; Aufsichtsbeh..."
+description: "Wenn es um Stakeholder-Mapping nach Datenschutzvorfall in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stakeholder-Mapping nach Datenschutzvorfall

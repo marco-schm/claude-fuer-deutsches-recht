@@ -1,6 +1,6 @@
 ---
 name: personenrecht-kuriositaeten-im-alr
-description: "ALR-Personenrecht — Kuriositaeten und ihre rechtshistorische Bedeutung. Skill versammelt bekannte kuriose Detail-Regelungen Schlafwandlerhaftung Trunkenheitsregeln Detailvorgaben zur Tatherrschaft und Schuldsfaehigkeit. Liefert Quellenmatrix."
+description: "Wenn es um Pralr Personenrecht Kuriositaeten Im Alr in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Personenrecht Kuriositaeten Im Alr; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Pralr Personenrecht Kuriositaeten Im Alr

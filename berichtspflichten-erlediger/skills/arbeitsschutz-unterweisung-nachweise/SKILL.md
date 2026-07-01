@@ -1,6 +1,6 @@
 ---
 name: arbeitsschutz-unterweisung-nachweise
-description: "Unterweisung, Gefährdungsbeurteilung, Betriebsanweisung, Prüfnachweise und Behördenkontrolle im Berichtspflichten."
+description: "Wenn es um Arbeitsschutz-Unterweisungen nachweisen in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsschutz-Unterweisungen nachweisen

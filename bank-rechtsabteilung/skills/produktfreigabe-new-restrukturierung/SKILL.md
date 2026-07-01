@@ -1,6 +1,6 @@
 ---
 name: produktfreigabe-new-restrukturierung
-description: "New Product Process einer Bank: Produktidee, Zielmarkt, Recht, Aufsicht, Steuern, IT, Datenschutz, Vertrieb, Risiko, Operations und Vorstandfreigabe in einen sauberen NPP bringen im Bank-Rechtsabteilung."
+description: "Wenn es um Produktfreigabe NPP in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Produktfreigabe NPP

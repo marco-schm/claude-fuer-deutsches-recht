@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-berlin-spezial-stadtmauer-und-mauerweg
-description: "Berliner Besonderheit: Der ehemalige Grenzverlauf der Berliner Mauer und Reste der Stadtmauer als denkmalwerter Erinnerungsort. Skill erlaeutert die landesrechtliche Einordnung, die Pflege der Mauerresten und Gedenksaeulen, das Verhaeltnis zur Gedenkstaettenfoerderung des Bundes und die Verfahrensbesonderheiten in den zwoelf Bezirksaemtern."
+description: "Wenn es um Stadtmauer Berlin und Berliner Mauerweg als Denkmal in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stadtmauer Berlin und Berliner Mauerweg als Denkmal

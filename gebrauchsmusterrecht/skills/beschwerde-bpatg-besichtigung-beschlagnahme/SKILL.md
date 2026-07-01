@@ -1,6 +1,6 @@
 ---
 name: beschwerde-bpatg-besichtigung-beschlagnahme
-description: "Beschwerde zum Bundespatentgericht im Gebrauchsmusterrecht prüfen: Beschwerdegegenstand, Fristen, Begründung, neue Belege und Kostenrisiko im Gebrauchsmusterrecht."
+description: "Wenn es um Beschwerde Bpatg in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschwerde Bpatg

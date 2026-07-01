@@ -1,6 +1,6 @@
 ---
 name: ip-nutzungsrechte
-description: "Klausel-Fachmodul für IP Nutzungsrechte: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um IP Nutzungsrechte in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IP Nutzungsrechte

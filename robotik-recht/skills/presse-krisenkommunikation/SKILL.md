@@ -1,6 +1,6 @@
 ---
 name: presse-krisenkommunikation
-description: "Bereitet Kommunikation nach Unfall, Rückruf oder Datenschutzvorfall vor: sachlich, rechtlich vorsichtig, kundenverständlich und belegbar."
+description: "Wenn es um Presse und Krisenkommunikation in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Presse Krisenkommunikation; Arbeitsfeld: robotik-recht."
 ---
 
 # Presse und Krisenkommunikation

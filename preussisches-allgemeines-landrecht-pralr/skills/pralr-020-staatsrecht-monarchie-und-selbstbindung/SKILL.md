@@ -1,6 +1,6 @@
 ---
 name: pralr-020-staatsrecht-monarchie-und-selbstbindung
-description: "PrALR: monarchische Selbstbindung, Machtspruchproblem, Staatsorganisation und Grenzen der Kodifikation erklären."
+description: "Wenn es um Staatsrecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 020 Staatsrecht Monarchie Und Selbstbindung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Staatsrecht

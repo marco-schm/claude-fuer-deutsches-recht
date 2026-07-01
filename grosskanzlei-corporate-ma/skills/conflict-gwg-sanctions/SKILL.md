@@ -1,6 +1,6 @@
 ---
 name: conflict-gwg-sanctions
-description: "Mandatsannahme-Prüfung im Corporate/M&A-Mandat: Interessenkonflikte nach Paragraf 43a BRAO, Geldwäschegesetz-Prüfung wirtschaftlich Berechtigter nach Paragraf 3 GwG, Sanktionsscreening nach AWG und EU-Verordnungen: Mandatsannahme-Prüfung im Corporate/M&A-Mandat: Interess..."
+description: "Wenn es um Conflict Gwg Sanctions in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandatsannahme-Prüfung im Corporate/M&A-Mandat: Interessenkonflikte nach Paragraf 43a BRAO, Geldwäschegesetz-Prüfung wirtschaftlich Berechtigter nach Paragraf 3 GwG, Sanktionsscreening nach AWG und EU-Verordnungen

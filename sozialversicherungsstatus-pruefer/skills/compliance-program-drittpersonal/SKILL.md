@@ -1,6 +1,6 @@
 ---
 name: compliance-program-drittpersonal
-description: "Baut ein Unternehmensprogramm für Freelancer, Berater, Lehrkräfte, Interimsmanager und Dienstleister im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Compliance-Programm Drittpersonal in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Compliance-Programm Drittpersonal

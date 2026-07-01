@@ -1,6 +1,6 @@
 ---
 name: verbraucherbericht-erzeugen
-description: "Verbraucherschutzrecht Prüfer: Verbraucherbericht erzeugen. Verbraucherbericht erzeugen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
+description: "Wenn es um Verbraucherbericht Erzeugen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbraucherbericht Erzeugen

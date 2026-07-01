@@ -1,6 +1,6 @@
 ---
 name: bank-gdpr
-description: "Reagiert auf BaFin-Prüfungsfeststellungen und aufsichtsrechtliche Findings – Mängelbeseitigungspflicht, Anordnungsbefugnisse, Internal Investigation als Reaktion im Internal Investigations Praxis."
+description: "Wenn es um BaFin-Prüfungsfeststellungen und Bankregulatorik in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # BaFin-Prüfungsfeststellungen und Bankregulatorik

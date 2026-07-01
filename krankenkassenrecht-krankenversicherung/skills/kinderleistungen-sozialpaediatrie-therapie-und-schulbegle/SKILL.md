@@ -1,6 +1,6 @@
 ---
 name: kinderleistungen-sozialpaediatrie-therapie-und-schulbegle
-description: "Krankenversicherungsleistungen für Kinder: sozialpädiatrische Zentren, Therapien, Schulbegleitung – Abgrenzung GKV, Eingliederungshilfe (SGB IX/SGB XII), Schnittstellen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..."
+description: "Wenn es um Kinderleistungen: Sozialpädiatrie, Therapie und Schulbegleitung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kinderleistungen: Sozialpädiatrie, Therapie und Schulbegleitung

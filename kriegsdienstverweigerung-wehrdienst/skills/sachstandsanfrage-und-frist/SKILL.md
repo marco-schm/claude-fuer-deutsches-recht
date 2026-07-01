@@ -1,6 +1,6 @@
 ---
 name: sachstandsanfrage-und-frist
-description: "Formuliert gezielte Sachstandsanfragen vor Eskalation in § 75 VwGO im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Sachstandsanfrage mit Frist in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sachstandsanfrage mit Frist

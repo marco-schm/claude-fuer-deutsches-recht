@@ -1,6 +1,6 @@
 ---
 name: anlagenkonvolut-konsolidieren
-description: "Anlagenkonvolut aus Mandanten-ZIP konsolidieren: Duplikate ueber Hashvergleich erkennen, gleiche Vertraege in unterschiedlichen Fassungen identifizieren, sortieren nach Datum und Thema, Lueckenanalyse (welcher Vertrag wird im Schriftsatz erwaehnt, fehlt aber im Konvolut). Output: bereinigtes Konv..."
+description: "Wenn es um Anlagenkonvolut konsolidieren in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anlagenkonvolut konsolidieren

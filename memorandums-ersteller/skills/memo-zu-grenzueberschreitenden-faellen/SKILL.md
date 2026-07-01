@@ -1,6 +1,6 @@
 ---
 name: memo-zu-grenzueberschreitenden-faellen
-description: "Memo zu grenzueberschreitenden Faellen: anwendbares Recht (Rom I / Rom II), zuständiges Gericht (Brueessel Ia, EuGVVO), Anerkennung und Vollstreckung im Ausland. Output: kurzes IPR/IZPR-Memo mit Empfehlung zum Gerichtsstand und Vollstreckungsplan im Memorandums Ersteller."
+description: "Wenn es um Grenzueberschreitender-Fall-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Grenzueberschreitender-Fall-Memo

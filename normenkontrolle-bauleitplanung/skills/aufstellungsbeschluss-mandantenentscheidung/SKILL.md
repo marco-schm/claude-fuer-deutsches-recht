@@ -1,6 +1,6 @@
 ---
 name: aufstellungsbeschluss-mandantenentscheidung
-description: "Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aufstellungsbeschluss Mandantenentscheidung; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage

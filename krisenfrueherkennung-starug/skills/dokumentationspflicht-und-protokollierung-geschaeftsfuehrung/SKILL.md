@@ -1,6 +1,6 @@
 ---
 name: dokumentationspflicht-und-protokollierung-geschaeftsfuehrung
-description: "Krisenprotokollierung der Geschäftsführung für Haftungsschutz: GmbH-Geschäftsführer oder AG-Vorstand will Entscheidungen in der Krise dokumentieren. Normen: § 43 GmbHG (Sorgfaltspflicht und Haftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr), Business Judgment Rule. Prüfraster: Krisenprotokoll-Tem..."
+description: "Wenn es um Dokumentationspflicht und Protokollierung — Beweissicherung für Haftungsprozesse in Krisenfrüherkennung und StaRUG-Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Dokumentationspflicht und Protokollierung — Beweissicherung für Haftungsprozesse

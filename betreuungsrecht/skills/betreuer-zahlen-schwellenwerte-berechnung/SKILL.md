@@ -1,6 +1,6 @@
 ---
 name: betreuer-zahlen-schwellenwerte-berechnung
-description: "Betreuer: Zahlen, Schwellenwerte und Berechnung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. W..."
+description: "Wenn es um Betreuer: Zahlen, Schwellenwerte und Berechnung in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betreuer: Zahlen, Schwellenwerte und Berechnung

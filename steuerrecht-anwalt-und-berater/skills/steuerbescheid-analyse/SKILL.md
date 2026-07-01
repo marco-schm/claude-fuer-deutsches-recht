@@ -1,6 +1,6 @@
 ---
 name: steuerbescheid-analyse
-description: "Steuerbescheid strukturiert auswerten und Angriffspunkte für Einspruch identifizieren. Anwendungsfall Mandant hat Steuerbescheid bekommen und fragt ob und wie er sich wehren kann. Bescheidarten Festsetzungsbescheid Änderungsbescheid Schaetzungsbescheid Haftungsbescheid Prüfungsbescheid. Erfasst..."
+description: "Wenn es um Steuerbescheid-Analyse in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerbescheid-Analyse

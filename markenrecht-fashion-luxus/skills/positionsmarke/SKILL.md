@@ -1,6 +1,6 @@
 ---
 name: positionsmarke
-description: "Positionsmarken für Streifen, Muster, Farbpositionen und Produktdetails prüfen: Darstellung, gestrichelte Produktumrisse, Position, Unterscheidungskraft, Verkehrsdurchsetzung und Verletzung im Markenrecht Fashion Luxus."
+description: "Wenn es um Positionsmarken in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Positionsmarken

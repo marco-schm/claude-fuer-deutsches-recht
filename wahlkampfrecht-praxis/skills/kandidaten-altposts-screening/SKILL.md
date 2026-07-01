@@ -1,6 +1,6 @@
 ---
 name: kandidaten-altposts-screening
-description: "Wahlkampfrecht Praxis: Altposts und digitale Spuren von Kandidierenden screenen im Wahlkampfrecht."
+description: "Wenn es um Kandidaten Altposts Screening in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kandidaten Altposts Screening

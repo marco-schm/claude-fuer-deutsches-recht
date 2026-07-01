@@ -1,6 +1,6 @@
 ---
 name: normen-standardrecherche
-description: "Plant Recherche nach harmonisierten Normen, ISO/IEC-Standards, C-Normen, Stand der Technik und behördlichen Leitlinien ohne Normenblindflug."
+description: "Wenn es um Normen- und Standardrecherche in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Auswahlstichwort: Normen Standardrecherche; Arbeitsfeld: robotik-recht."
 ---
 
 # Normen- und Standardrecherche

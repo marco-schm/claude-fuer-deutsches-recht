@@ -1,6 +1,6 @@
 ---
 name: pruefmodus-fristennotiz-naechster-schritt
-description: "Validiert ein vorhandenes Anlagenpaket und gibt eine kurze Fristennotiz plus nächste Handlung aus."
+description: "Wenn es um Prüfmodus, Fristennotiz und nächster Schritt in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pruefmodus Fristennotiz Naechster Schritt; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Prüfmodus, Fristennotiz und nächster Schritt

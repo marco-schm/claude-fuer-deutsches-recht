@@ -1,6 +1,6 @@
 ---
 name: beistand-kirchen-beratung
-description: "Ordnet Beistand, kirchliche Beauftragte und anwaltliche Vertretung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Beistand und Beratung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beistand und Beratung

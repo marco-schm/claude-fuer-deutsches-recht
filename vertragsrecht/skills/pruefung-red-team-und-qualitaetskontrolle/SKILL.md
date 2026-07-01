@@ -1,6 +1,6 @@
 ---
 name: pruefung-red-team-und-qualitaetskontrolle
-description: "Prüfung: Red-Team und Qualitätskontrolle im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Prüfung: Red-Team und Qualitätskontrolle in Vertragsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfung: Red-Team und Qualitätskontrolle

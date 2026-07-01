@@ -1,6 +1,6 @@
 ---
 name: workflow-produkt-und-rollenprofil
-description: "Erstellt ein Produkt- und Rollenprofil: Hersteller, Anbieter, Importeur, Händler, Betreiber, Integrator, KI-Anbieter, Wartungsdienstleister und Nutzer im Robotik-Recht."
+description: "Wenn es um Produkt- und Rollenprofil in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Workflow Produkt Und Rollenprofil; Arbeitsfeld: robotik-recht."
 ---
 
 # Produkt- und Rollenprofil

@@ -1,6 +1,6 @@
 ---
 name: veranstaltung-planen
-description: "Prüft Genehmigungen, Sicherheit, GEMA, Ausschank, Jugendschutz, Datenschutz, Versicherung und Verträge im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Veranstaltung planen in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Veranstaltung planen

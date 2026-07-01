@@ -1,6 +1,6 @@
 ---
 name: rom-097-vertiefung-01-board-memo
-description: "Römisches Recht: Vertiefung 01 Board Memo. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Vertiefung 01 Board Memo in Römisches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertiefung 01 Board Memo

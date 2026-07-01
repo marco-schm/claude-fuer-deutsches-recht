@@ -1,6 +1,6 @@
 ---
 name: spezial-urhg-livequellen-und-rechtsprechungscheck
-description: "Urhg: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Urhg: Livequellen- und Rechtsprechungscheck in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Urhg: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: zag-negativauskunft-feststellung-bafin
-description: "ZAG-Negativauskunft oder informelle BaFin-Vorabklärung vorbereiten: Geschäftsmodell neutral beschreiben, Zahlungsfluss visualisieren, Erlaubnistatbestände abgrenzen und gefährliche Formulierungen vermeiden im Bank-Rechtsabteilung."
+description: "Wenn es um ZAG-Feststellung und Negativauskunft in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # ZAG-Feststellung und Negativauskunft

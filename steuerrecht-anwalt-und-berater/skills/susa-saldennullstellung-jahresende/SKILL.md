@@ -1,6 +1,6 @@
 ---
 name: susa-saldennullstellung-jahresende
-description: "Erfolgskonten-Saldennullstellung zum Jahresende. Anwendungsfall Jahresabschluss-Vorbereitung Schluss-SuSa GuV-Überleitung Bilanzgewinn auf Konto 800 oder 2000. Methodik Abschlussbuchungen über GuV-Konto. Output Geschlossene Erfolgskonten Bilanzgewinn ueberführt."
+description: "Wenn es um Erfolgskonten-Saldennullstellung zum Jahresende in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erfolgskonten-Saldennullstellung zum Jahresende

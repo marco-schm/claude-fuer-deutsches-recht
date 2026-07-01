@@ -1,6 +1,6 @@
 ---
 name: maschine-oder-unvollstaendige
-description: "Klassifiziert Roboter als Maschine, unvollständige Maschine, Sicherheitsbauteil, austauschbare Ausrüstung oder Softwarekomponente."
+description: "Wenn es um Maschine oder unvollständige Maschine in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Maschine oder unvollständige Maschine

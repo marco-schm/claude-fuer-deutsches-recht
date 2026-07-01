@@ -1,6 +1,6 @@
 ---
 name: erbsch-betriebsvermoegen-13a-13b
-description: "Prüfung der erbschaftsteuerlichen Verschonungsregeln für Betriebsvermoegen — Begriff begueenstigtes Vermoegen § 13b ErbStG Verschonungsabschlag 85 Prozent oder Optionsverschonung 100 Prozent Lohnsummen- und Behaltensregel. Anwendungsfall Generationenuebergang im Familienunternehmen — die Verscho"
+description: "Wenn es um Erbschaftsteuerliche Verschonung Betriebsvermoegen — Paragrafen 13a 13b ErbStG in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erbsch Betriebsvermoegen 13a 13b; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Erbschaftsteuerliche Verschonung Betriebsvermoegen — §§ 13a 13b ErbStG

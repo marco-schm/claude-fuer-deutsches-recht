@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-risk-committee
-description: "Richtet Verfahren für heikle Mandate mit GwG, Sanktionen und Reputation ein. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Mandatsannahme Risk Committee in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandatsannahme Risk Committee

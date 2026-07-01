@@ -1,6 +1,6 @@
 ---
 name: space-001-kaltstart-weltraummandat-quellenkarte-risiko
-description: "Weltraumrecht: Kaltstart Weltraummandat Quellenkarte und Risikocockpit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Kaltstart Weltraummandat Quellenkarte und Risikocockpit in Weltraumrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Kaltstart Weltraummandat Quellenkarte und Risikocockpit

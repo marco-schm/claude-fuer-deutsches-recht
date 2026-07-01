@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-frequenzzuteilung-rechtsmittel-check
-description: "Frequenzzuteilung: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren."
+description: "Wenn es um TK-Regulierungsakte: Frequenzzuteilung — Rechtsmittel-Check in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # TK-Regulierungsakte: Frequenzzuteilung — Rechtsmittel-Check

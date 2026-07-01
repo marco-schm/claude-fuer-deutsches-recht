@@ -1,6 +1,6 @@
 ---
 name: lph-05-verbraucher-privater-bauherr
-description: "HOAI LPH 5 Ausführungsplanung: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 5 Ausführungsplanung: Erklärt pflichten in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # LPH 5 Ausführungsplanung: Erklärt pflichten

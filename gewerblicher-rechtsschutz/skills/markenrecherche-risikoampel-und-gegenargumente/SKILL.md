@@ -1,6 +1,6 @@
 ---
 name: markenrecherche-risikoampel-und-gegenargumente
-description: "Markenrecherche mit Risikoampel: systematische Kollisionsrecherche für DPMA, EUIPO und internationale Register, Risikobewertung nach Ähnlichkeit, Klassen und Benutzung, Gegenargumente gegen Verwechslungsgefahr und Verteidigungsstrategien im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Markenrecherche – Risikoampel und Gegenargumente in Plugin: Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezial: Markenrecherche – Risikoampel und Gegenargumente

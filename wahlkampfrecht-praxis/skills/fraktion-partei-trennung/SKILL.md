@@ -1,6 +1,6 @@
 ---
 name: fraktion-partei-trennung
-description: "Wahlkampfrecht Praxis: Fraktions-, Amts- und Parteimittel sauber trennen im Wahlkampfrecht."
+description: "Wenn es um Fraktion Partei Trennung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fraktion Partei Trennung

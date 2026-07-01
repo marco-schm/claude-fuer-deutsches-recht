@@ -1,6 +1,6 @@
 ---
 name: batteriespeicher-nebenbestimmung-forde
-description: "Umweltschutzverband Verbandsklage: Batteriespeicher: Nebenbestimmung fordern im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Batteriespeicher Nebenbestimmung Forde in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Batteriespeicher Nebenbestimmung Forde

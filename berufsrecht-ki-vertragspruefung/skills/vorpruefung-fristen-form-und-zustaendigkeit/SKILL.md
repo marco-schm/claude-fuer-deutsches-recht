@@ -1,6 +1,6 @@
 ---
 name: vorpruefung-fristen-form-und-zustaendigkeit
-description: "Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für die Auswahl: Vorpruefung Fristen Form Und Zuständigkeit."
 ---
 
 # Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg

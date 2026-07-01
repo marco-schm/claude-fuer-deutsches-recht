@@ -1,6 +1,6 @@
 ---
 name: pralr-021-kirchenrecht-und-schule
-description: "PrALR: Kirchenrecht, Schule, Religion, Gemeinde und staatliche Aufsicht im PrALR systematisch prüfen."
+description: "Wenn es um Kirche und Schule in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 021 Kirchenrecht Und Schule; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Kirche und Schule

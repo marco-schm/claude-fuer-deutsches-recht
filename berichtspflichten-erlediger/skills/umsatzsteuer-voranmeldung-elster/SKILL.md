@@ -1,6 +1,6 @@
 ---
 name: umsatzsteuer-voranmeldung-elster
-description: "USt-Voranmeldung als Berichtspflicht: Frist, Dauerfristverlängerung, Beleglogik, innergemeinschaftliche Lieferungen und Korrektur im Berichtspflichten."
+description: "Wenn es um Umsatzsteuer-Voranmeldung und ELSTER in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umsatzsteuer-Voranmeldung und ELSTER

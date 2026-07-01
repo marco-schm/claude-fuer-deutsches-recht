@@ -1,6 +1,6 @@
 ---
 name: vergleich-vorschlag-101-sgg
-description: "Vergleich im Sozialprozess § 101 SGG. Was bedeutet das wann lohnt es sich worauf achten Bedenkzeit Widerruf. Tipps für Buerger im Termin."
+description: "Wenn es um Der Vergleich im SG-Verfahren — Paragraf 101 SGG in selbstvertreter-sozialgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Der Vergleich im SG-Verfahren — § 101 SGG

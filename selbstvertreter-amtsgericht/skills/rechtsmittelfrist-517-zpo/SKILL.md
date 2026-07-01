@@ -1,6 +1,6 @@
 ---
 name: rechtsmittelfrist-517-zpo
-description: "Rechtsmittelfrist 1 Monat nach § 517 ZPO. Beginn mit Zustellung des vollständigen Urteils Notfrist keine Verlaengerung. Berechnung mit § 187 188 BGB Praeklusion bei Versaeumnis Wiedereinsetzung in Ausnahmefaellen."
+description: "Wenn es um Berufungsfrist: 1 Monat — keine Verlaengerung in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berufungsfrist: 1 Monat — keine Verlaengerung

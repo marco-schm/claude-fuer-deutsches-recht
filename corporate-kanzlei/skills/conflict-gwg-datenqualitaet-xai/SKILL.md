@@ -1,6 +1,6 @@
 ---
 name: conflict-gwg-datenqualitaet-xai
-description: "Konflikt-, GwG- und Sanktionscheck: Mandatsannahmeprüfung für Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Länderrisiken im Corporate Kanzlei."
+description: "Wenn es um Konflikt-, GwG- und Sanktionscheck in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konflikt-, GwG- und Sanktionscheck

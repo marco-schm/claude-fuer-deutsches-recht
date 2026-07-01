@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-unterhalt-und-insolvenz
-description: "Verbraucherinsolvenz und eheliche Unterhaltspflicht: Skill behandelt das Verhältnis von laufender Unterhaltspflicht zum Insolvenzverfahren Pflichten in der Wohlverhaltensphase Anrechnung und Rangordnung...."
+description: "Wenn es um Verbraucherinsolvenz und eheliche Unterhaltspflicht in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbraucherinsolvenz und eheliche Unterhaltspflicht

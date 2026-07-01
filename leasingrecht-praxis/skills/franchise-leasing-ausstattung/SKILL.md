@@ -1,6 +1,6 @@
 ---
 name: franchise-leasing-ausstattung
-description: "Franchise-Leasing: Ausstattungsleasing im Franchise-System, Eigentumsrechte, Rückgabe bei Franchisekündigung, steuerliche Behandlung im Leasingrecht."
+description: "Wenn es um Franchise-Leasing: Ausstattung und Eigentumsrechte in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Franchise-Leasing: Ausstattung und Eigentumsrechte

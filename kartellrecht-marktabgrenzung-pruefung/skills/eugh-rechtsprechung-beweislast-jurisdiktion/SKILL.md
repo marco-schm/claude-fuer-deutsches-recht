@@ -1,6 +1,6 @@
 ---
 name: eugh-rechtsprechung-beweislast-jurisdiktion
-description: "Eugh Rechtsprechung Leitentscheidungen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition

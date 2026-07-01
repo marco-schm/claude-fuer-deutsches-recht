@@ -1,6 +1,6 @@
 ---
 name: lieferantenmapping-tier-single-source
-description: "Systematisches Lieferantenmapping bis Tier-3/Tier-n für China-Lieferketten: Datenerhebung, Tier-Klassifizierung, China-Exponiertheits-Score, LkSG-Risikoanalyse §§ 5-7, BAFA-Relevanzprüfung, Forced-Labour-Screening (XUAR). Output: Lieferanten-Mapping-Vorlage mit Risikoscore und Prüfungsplan im Fes..."
+description: "Wenn es um Lieferantenmapping Tier-1 bis Tier-n: China-Exposition erfassen in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lieferantenmapping Tier-1 bis Tier-n: China-Exposition erfassen

@@ -1,6 +1,6 @@
 ---
 name: anwalt-arbeitsplatz
-description: "Schwellen für anwaltliche Hilfe: eigene Beteiligung, Wirtschaftsstrafrecht, Sexual-/Gewaltdelikte, Berufsgeheimnisse, Unternehmen, Presse im Strafanzeige-Vorbereitung."
+description: "Wenn es um Wann zwingend Anwalt einschalten? in Strafanzeige-Vorbereiter geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Wann zwingend Anwalt einschalten?

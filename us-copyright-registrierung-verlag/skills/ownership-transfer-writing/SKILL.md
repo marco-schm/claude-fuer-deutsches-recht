@@ -1,6 +1,6 @@
 ---
 name: ownership-transfer-writing
-description: "Prüft Übertragung, exklusive Lizenz, nonexclusive license, writing requirement und chain of title im Us Copyright Registrierung Verlag."
+description: "Wenn es um Ownership, Assignment und Writing Requirement in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ownership, Assignment und Writing Requirement

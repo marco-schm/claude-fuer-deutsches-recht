@@ -1,6 +1,6 @@
 ---
 name: upc-widerruf-und-widerklage-revocation
-description: "Plant isolierte Widerrufsklage und Widerklage auf Nichtigerklärung vor dem UPC, inklusive zentraler Kammer, Verletzungsverfahren, Hilfsanträgen und Koordination mit EPA-Einspruch im Patentrecht."
+description: "Wenn es um UPC: Widerruf und Revocation Counterclaim in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # UPC: Widerruf und Revocation Counterclaim

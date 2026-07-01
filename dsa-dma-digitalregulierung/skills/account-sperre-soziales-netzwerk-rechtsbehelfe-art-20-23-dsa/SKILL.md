@@ -1,6 +1,6 @@
 ---
 name: account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa
-description: "Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Dsa Dma Digitalregulierung."
+description: "Wenn es um Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA

@@ -1,6 +1,6 @@
 ---
 name: tdm-opt-out-maschinenlesbar-pruefen
-description: "Technische und rechtliche Prüfung des TDM-Opt-outs nach § 44b Abs. 3 UrhG und DSM-RL Art. 4 Abs. 3: Maschinenlesbarkeitsanforderungen für robots.txt, HTTP-Header (X-Robots-Tag), meta-Tags und strukturierte Metadaten. Bewertet Wirksamkeit von Opt-out-Erklärungen, deren Zeitpunkt und Reichweite sow..."
+description: "Wenn es um TDM-Opt-out — Maschinenlesbarkeit prüfen und implementieren in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # TDM-Opt-out — Maschinenlesbarkeit prüfen und implementieren

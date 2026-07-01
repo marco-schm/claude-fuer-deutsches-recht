@@ -1,6 +1,6 @@
 ---
 name: besoldung-versorgung-familienzuschlag
-description: "Überträgt Alimentationsfragen vorsichtig auf Versorgungsempfänger, Hinterbliebene, kinderreiche Beamtenfamilien und Familienzuschlag-Rückforderungen, mit ausdrücklicher Unsicherheits- und Landesrechtsprüfung im Beamtenrecht."
+description: "Wenn es um Versorgung, Familienzuschlag und offene Übertragungsfragen in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Versorgung, Familienzuschlag und offene Übertragungsfragen

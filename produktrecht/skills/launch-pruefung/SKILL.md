@@ -1,6 +1,6 @@
 ---
 name: launch-pruefung
-description: "Produktmanager oder Rechtsabteilung will vor dem Launch prüfen, ob das Produkt oder Feature produktrechtlich freigegeben werden kann. Vollständige rechtliche Freigabeprüfung gegen konfiguriertes Prüfrahmenwerk und Risikokalibrierung. Normen ProdSG Produktsicherheitsgesetz Marktüberwachung CE-Konf..."
+description: "Wenn es um Produkt-Launch-Freigabeprüfung in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Produkt-Launch-Freigabeprüfung

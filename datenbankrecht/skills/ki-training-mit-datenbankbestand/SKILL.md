@@ -1,6 +1,6 @@
 ---
 name: ki-training-mit-datenbankbestand
-description: "Rechtliche Analyse des KI-Trainings mit Datenbankbeständen: §§ 44b und 60d UrhG (Text- und Data-Mining-Schranken), Verhältnis zu §§ 87a-87e UrhG, Opt-out-Pflichten nach § 44b Abs. 3 UrhG und DSM-RL Art. 4. Bewertet kommerzielle vs. wissenschaftliche TDM-Nutzung und erstellt Compliance-Plan für KI..."
+description: "Wenn es um digitale Werkzeuge-Training mit Datenbankbeständen — Datenbankrecht und TDM-Schranken in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI-Training mit Datenbankbeständen — Datenbankrecht und TDM-Schranken

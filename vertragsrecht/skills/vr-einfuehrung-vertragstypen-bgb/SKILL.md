@@ -1,6 +1,6 @@
 ---
 name: vr-einfuehrung-vertragstypen-bgb
-description: "Vertragsrecht einfuehrend: BGB-Vertragstypen Kauf, Werkvertrag, Dienstvertrag, Mietvertrag, Pacht, Darlehen, Geschäftsbesorgung, Auftrag. Pro Typ Pflichten, Vergueng, Maengelrecht, Kuendigung. Entscheidungstabelle im Vertragsrecht."
+description: "Wenn es um Vertragsrecht: BGB-Typen in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertragsrecht: BGB-Typen

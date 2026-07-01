@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-psd2-strong-customer-authentication-fall
-description: "Rechtsabteilungs-Fachmodul für PSD2-Strong-Customer-Authentication-Fall: Haftung bei nicht autorisierten Zahlungsvorgängen wird mit Beweislast, Authentifizierungslog und Kulanzstrategie geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Bank-Rechtsabteilung."
+description: "Wenn es um Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall

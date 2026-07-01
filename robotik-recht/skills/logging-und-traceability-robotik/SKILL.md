@@ -1,6 +1,6 @@
 ---
 name: logging-und-traceability-robotik
-description: "Prüft Logging, Traceability, Audit Trail und forensische Nutzbarkeit bei Unfall, Datenschutzvorfall und Produkthaftung."
+description: "Wenn es um Logging und Traceability in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Logging Und Traceability Robotik; Arbeitsfeld: robotik-recht."
 ---
 
 # Logging und Traceability

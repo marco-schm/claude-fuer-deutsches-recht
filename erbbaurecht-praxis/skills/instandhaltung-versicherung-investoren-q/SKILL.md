@@ -1,6 +1,6 @@
 ---
 name: instandhaltung-versicherung-investoren-q
-description: "Prüft Gebäudeunterhaltung, Verkehrssicherung, Versicherung, Nachweispflichten, Brandschutz, Betreiberpflichten und Sanktionen bei Pflichtverstößen im Erbbaurecht Praxis."
+description: "Wenn es um Instandhaltung, Versicherung und Betriebspflichten in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Instandhaltung, Versicherung und Betriebspflichten

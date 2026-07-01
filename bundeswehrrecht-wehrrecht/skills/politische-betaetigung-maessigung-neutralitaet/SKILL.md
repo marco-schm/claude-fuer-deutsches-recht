@@ -1,6 +1,6 @@
 ---
 name: politische-betaetigung-maessigung-neutralitaet
-description: "Politische Betätigung Mäßigung Neutralität: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundesweh..."
+description: "Wenn es um Politische Betätigung – Mäßigungsgebot und Neutralität in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Politische Betätigung – Mäßigungsgebot und Neutralität

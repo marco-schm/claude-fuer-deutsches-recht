@@ -1,6 +1,6 @@
 ---
 name: bho-20-deckungsfaehigkeit-praktisch-an
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 20 Deckungsfähigkeit praktisch anwenden. BHO § 20 Deckungsfähigkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft k..."
+description: "Wenn es um Bho 20 Deckungsfaehigkeit Praktisch An in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 20 Deckungsfaehigkeit Praktisch An

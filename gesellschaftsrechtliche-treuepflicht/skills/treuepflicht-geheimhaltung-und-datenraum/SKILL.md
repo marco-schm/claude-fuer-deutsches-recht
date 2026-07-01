@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-geheimhaltung-und-datenraum
-description: "Gesellschaftsrechtliche Treuepflicht: Treuepflicht Geheimhaltung Und Datenraum; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Treuepflicht Geheimhaltung Und Datenraum in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuepflicht Geheimhaltung Und Datenraum

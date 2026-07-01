@@ -1,6 +1,6 @@
 ---
 name: registerrecht-niederlassung-registergericht
-description: "Prüft eintragungsfähige Zweigniederlassung, unselbständige Betriebsstätte und Adress-/Vertretungsangaben im Handelsregister Praxis."
+description: "Wenn es um Niederlassung und Filiale in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Niederlassung und Filiale

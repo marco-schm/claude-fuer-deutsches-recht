@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-hgb-grundlagen
-description: "Prüft Aufstellung, Unterzeichnung, Gliederung, Offenlegung und Größenklassen in Grundzügen im Handelsrecht Hgb."
+description: "Wenn es um Jahresabschluss HGB Grundlagen in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jahresabschluss HGB Grundlagen

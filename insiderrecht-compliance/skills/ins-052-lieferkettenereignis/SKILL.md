@@ -1,6 +1,6 @@
 ---
 name: ins-052-lieferkettenereignis
-description: "Spezialskill Insiderrecht fuer Lieferkettenereignis: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Lieferkettenereignis in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Lieferkettenereignis

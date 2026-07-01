@@ -1,6 +1,6 @@
 ---
 name: disclosure-document-fuer-internationale-investoren
-description: "Disclosure-Dokument für internationale Franchiseinvestoren erstellen: Inhaltliche Mindestanforderungen nach DFV Code of Ethics und ausländischen Disclosure-Regeln, Übersetzungs- und Haftungsfragen, Abgrenzung zu Wertpapierprospekt und Investmentrecht im Franchiserecht."
+description: "Wenn es um Franchiserecht: Disclosure-Dokument für internationale Investoren in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Franchiserecht: Disclosure-Dokument für internationale Investoren

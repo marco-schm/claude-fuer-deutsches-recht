@@ -1,6 +1,6 @@
 ---
 name: workflow-schreiben-einfache-sprache
-description: "Schreiben einfache Sprache: Prüfungslinie für Migrationsrecht: übersetzt Ergebnisse in klare, nicht einschüchternde Sprache; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutz..."
+description: "Wenn es um Schreiben einfache Sprache: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schreiben einfache Sprache: Prüfungslinie für Migrationsrecht

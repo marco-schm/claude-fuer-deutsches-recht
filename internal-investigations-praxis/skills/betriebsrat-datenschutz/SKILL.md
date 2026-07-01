@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-datenschutz
-description: "Klärt Mitbestimmungsrechte des Betriebsrats bei Internal Investigations – Überwachung, Interviews, Datenzugriffe, Sanktionen im Internal Investigations Praxis."
+description: "Wenn es um Betriebsrat und Mitbestimmung in Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Betriebsrat und Mitbestimmung in Internal Investigations

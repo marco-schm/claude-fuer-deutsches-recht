@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-scheidungsantrag-stellen
-description: "Workflow-Skill zu fachanwalt familienrecht scheidungsantrag stellen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Wenn es um Fachanwalt Familienrecht Scheidungsantrag Stellen in Fachanwalt Familienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 ## Mandantenfragen beim Kaltstart

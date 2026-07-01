@@ -1,6 +1,6 @@
 ---
 name: vertragstypen-red-team-und-qualitaetskontrolle
-description: "Vertragstypen: Red-Team und Qualitätskontrolle: Vertragstypen: Red-Team und Qualitätskontrolle."
+description: "Wenn es um Vertragstypen: Red-Team und Qualitätskontrolle in Fachanwalt Bau Architektenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertragstypen: Red-Team und Qualitätskontrolle

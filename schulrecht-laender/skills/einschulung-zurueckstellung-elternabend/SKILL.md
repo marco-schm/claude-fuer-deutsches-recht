@@ -1,6 +1,6 @@
 ---
 name: einschulung-zurueckstellung-elternabend
-description: "Prüft Einschulung, Rückstellung und vorzeitige Aufnahme im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Einschulung Zurueckstellung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einschulung Zurueckstellung

@@ -1,6 +1,6 @@
 ---
 name: digitale-souveraenitaet-provider-lockin
-description: "Bewertet Provider-Lock-in und digitale Souveränität strategisch im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Digitale Souveraenitaet Provider Lockin in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitale Souveraenitaet Provider Lockin

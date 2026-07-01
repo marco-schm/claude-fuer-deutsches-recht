@@ -1,6 +1,6 @@
 ---
 name: commercial-court-kaltstart-interview
-description: "Kaltstart-Interview für neue Commercial-Court-Mandate: Parteien, Streitgegenstand, Streitwert, Gerichtsstands-/Sprachklausel, gewünschte Sprache, Unterlagen, Fristen, Output."
+description: "Wenn es um Kaltstart-Interview in commercial-courts-deutschland geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart-Interview

@@ -1,6 +1,6 @@
 ---
 name: vermieterzutritt
-description: "Vermieterzutritt: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Anlass, Ankündigung, Notfall, Besichtigung, Verkauf, Beweisaufnahme; mit Normprüfung, Beweisen, Fristen, Risikoampel und..."
+description: "Wenn es um Vermieterzutritt: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vermieterzutritt: Fachmodul im Miet- und Wohnungseigentumsrecht

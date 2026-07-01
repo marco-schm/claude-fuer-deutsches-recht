@@ -1,6 +1,6 @@
 ---
 name: co-investment-und-spv
-description: "Strukturiert Co-Investments neben Fondsvehikel, Sponsor-SPV, Informationsrechte und Konflikte im Private Equity Praxis."
+description: "Wenn es um Co-Investment und SPV-Struktur in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Co-Investment und SPV-Struktur

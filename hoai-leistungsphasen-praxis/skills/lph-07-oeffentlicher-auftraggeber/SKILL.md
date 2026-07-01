@@ -1,6 +1,6 @@
 ---
 name: lph-07-oeffentlicher-auftraggeber
-description: "HOAI LPH 7 Mitwirkung bei der Vergabe: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Pr..."
+description: "Wenn es um LPH 7 Mitwirkung bei der Vergabe: Berücksichtigt vergabe in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Berücksichtigt vergabe

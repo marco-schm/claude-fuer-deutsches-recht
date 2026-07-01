@@ -1,6 +1,6 @@
 ---
 name: charterparty-hypothek-bestellen
-description: "Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer bestellt Schiffshypothek als Sicherheit für Finanzierung eines Gechartertes Seeschiff unter Charterparty. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Notarielle Bestellungsurkunde, Rangstelle, Sic..."
+description: "Wenn es um Charterparty – Schiffshypothek bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Charterparty – Schiffshypothek bestellen

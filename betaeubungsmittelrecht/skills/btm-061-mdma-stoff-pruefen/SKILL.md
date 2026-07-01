@@ -1,6 +1,6 @@
 ---
 name: btm-061-mdma-stoff-pruefen
-description: "Betäubungsmittelrecht: MDMA: Stoff prüfen. Stoff prüfen für MDMA im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Mdma Stoff Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mdma Stoff Pruefen

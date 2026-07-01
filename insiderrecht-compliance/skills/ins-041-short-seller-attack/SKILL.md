@@ -1,6 +1,6 @@
 ---
 name: ins-041-short-seller-attack
-description: "Spezialskill Insiderrecht fuer Short Seller Attack: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Short Seller Attack in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Short Seller Attack

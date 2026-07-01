@@ -1,6 +1,6 @@
 ---
 name: management-letter-formulierung-kaltstart
-description: "Wirtschaftsprüfer: management letter formulierung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Management Letter Formulierung Kaltstart in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: management letter formulierung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

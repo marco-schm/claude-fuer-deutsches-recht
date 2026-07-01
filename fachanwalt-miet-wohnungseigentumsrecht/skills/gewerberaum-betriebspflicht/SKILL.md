@@ -1,6 +1,6 @@
 ---
 name: gewerberaum-betriebspflicht
-description: "Gewerberaum Betriebspflicht: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Klausel, Sortiment, Öffnungszeiten, Sanktionen, Zumutbarkeit; mit Normprüfung, Beweisen, Fristen, R..."
+description: "Wenn es um Gewerberaum Betriebspflicht: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerberaum Betriebspflicht: Fachmodul im Miet- und Wohnungseigentumsrecht

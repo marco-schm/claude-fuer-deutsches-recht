@@ -1,6 +1,6 @@
 ---
 name: dora-risikoampel-und-gegenargumente
-description: "Dora: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Dora: Risikoampel, Gegenargumente und Verteidigungslinien in DSA, DMA und Digitalregulierung der EU geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dora: Risikoampel, Gegenargumente und Verteidigungslinien

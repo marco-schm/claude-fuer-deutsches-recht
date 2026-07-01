@@ -1,6 +1,6 @@
 ---
 name: gewerbe-zunft-wirtschaftsordnung
-description: "PrALR: Gewerbe, Zunft, Stand, Handel, Besitzstandsschutz und wirtschaftliche Modernisierungshemmnisse prüfen."
+description: "Wenn es um Gewerbe und Zunft in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gewerbe Zunft Wirtschaftsordnung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Gewerbe und Zunft

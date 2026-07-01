@@ -1,6 +1,6 @@
 ---
 name: mauergrundstueck-klage-skizzieren
-description: "Einigungsvertrag und Vermögensrecht: Mauergrundstück: Klage skizzieren im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Mauergrundstueck Klage Skizzieren in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mauergrundstueck Klage Skizzieren

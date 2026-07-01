@@ -1,6 +1,6 @@
 ---
 name: teilstattgabe-vollstattgabe-verstehen
-description: "Was bedeutet Vollabhilfe Teilabhilfe Zurückweisung im Widerspruchsbescheid. Wie Sie die Entscheidung lesen und was wann zu tun ist. Mit Beispielen aus typischen Sozialleistungen."
+description: "Wenn es um Vollabhilfe, Teilabhilfe oder Ablehnung — Bescheid lesen lernen in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vollabhilfe, Teilabhilfe oder Ablehnung — Bescheid lesen lernen

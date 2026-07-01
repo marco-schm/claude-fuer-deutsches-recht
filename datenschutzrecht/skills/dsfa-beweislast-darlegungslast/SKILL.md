@@ -1,6 +1,6 @@
 ---
 name: dsfa-beweislast-darlegungslast
-description: "Dsfa: Beweislast, Darlegungslast und Substantiierung im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. We..."
+description: "Wenn es um Dsfa: Beweislast, Darlegungslast und Substantiierung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dsfa Beweislast Darlegungslast; Arbeitsfeld: Datenschutzrecht."
 ---
 
 # Dsfa: Beweislast, Darlegungslast und Substantiierung

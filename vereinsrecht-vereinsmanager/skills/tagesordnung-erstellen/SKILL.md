@@ -1,6 +1,6 @@
 ---
 name: tagesordnung-erstellen
-description: "Baut klare Tagesordnung mit Beschlussgegenständen, Wahlen, Berichten, Entlastung, Satzungsänderungen und Anträgen im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Tagesordnung erstellen in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Tagesordnung erstellen

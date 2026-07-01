@@ -1,6 +1,6 @@
 ---
 name: verl-032-buchhandelsvertrag-konditionen-und-remission
-description: "Verlagsrecht: Buchhandelsvertrag Konditionen und Remission mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Buchhandelsvertrag Konditionen und Remission in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Buchhandelsvertrag Konditionen und Remission

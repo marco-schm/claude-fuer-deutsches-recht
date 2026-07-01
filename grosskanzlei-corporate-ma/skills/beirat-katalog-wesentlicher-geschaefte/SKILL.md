@@ -1,6 +1,6 @@
 ---
 name: beirat-katalog-wesentlicher-geschaefte
-description: "Prüft Beiratsfragen zu Katalog Wesentlicher Geschäfte: Zuständigkeit, Satzungsgrundlage, Beschlussweg, Haftung, Belege, Gegenargumente und verwertbaren Output."
+description: "Wenn es um Beirat Katalog Wesentlicher Geschäfte in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Katalog Wesentlicher Geschäfte

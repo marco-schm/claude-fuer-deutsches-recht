@@ -1,6 +1,6 @@
 ---
 name: chn-039-toy-and-consumer-goods
-description: "Festlandchina Wirtschaftsverkehr: Toy And Consumer Goods. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Toy And Consumer Goods in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Toy And Consumer Goods

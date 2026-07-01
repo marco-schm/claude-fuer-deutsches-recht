@@ -1,6 +1,6 @@
 ---
 name: einstieg-in-den-skill-verbund-internationales-wirtschaftsrecht
-description: "Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht: FAO § 14i IWR CISG UN-Kaufrecht Bruessel-Ia-VO Rom I und II VO grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL..."
+description: "Wenn es um Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht in Fachanwalt Internationales Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht

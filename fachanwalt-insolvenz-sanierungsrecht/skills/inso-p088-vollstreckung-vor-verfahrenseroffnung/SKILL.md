@@ -1,6 +1,6 @@
 ---
 name: inso-p088-vollstreckung-vor-verfahrenseroffnung
-description: "§ 88 InsO (Vollstreckung vor Verfahrenseröffnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 88 InsO (Vollstreckung vor Verfahrenseröffnung) im Mandat prüfen: Normzweck, Tatbestand, B..."
+description: "Wenn es um Inso P088 Vollstreckung Vor Verfahrenseroffnung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 88 InsO (Vollstreckung vor Verfahrenseröffnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

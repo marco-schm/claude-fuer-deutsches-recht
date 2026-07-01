@@ -1,6 +1,6 @@
 ---
 name: umwelthaftpflicht-umweltschadenversicherung
-description: "Umwelthaftpflichtversicherung und Umweltschadenversicherung: Kontamination, Sanierung, öffentlich-rechtliche Verfügung, Eigenschaden, Drittanspruch und Ausschlüsse im Versicherungsrecht."
+description: "Wenn es um Umwelthaftpflicht und Umweltschadenversicherung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Umwelthaftpflicht und Umweltschadenversicherung

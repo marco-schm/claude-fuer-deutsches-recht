@@ -1,6 +1,6 @@
 ---
 name: verfahrensstadium-strafbefehl-bis-kammer
-description: "Strafzumessung vom Strafbefehl bis zur großen Strafkammer: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Strafzumessung."
+description: "Wenn es um Strafzumessung vom Strafbefehl bis zur großen Strafkammer in Strafzumessung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Strafzumessung vom Strafbefehl bis zur großen Strafkammer

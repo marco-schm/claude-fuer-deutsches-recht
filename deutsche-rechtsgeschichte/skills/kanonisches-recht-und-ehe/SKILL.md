@@ -1,6 +1,6 @@
 ---
 name: kanonisches-recht-und-ehe
-description: "Deutsche Rechtsgeschichte: Kanonisches Recht und Eherecht. Decretum Gratiani, Corpus Iuris Canonici, kirchliche Ehegesetze von der Friede-Bulle bis zum BGB 1896, Tridentinum und Zivilehe 1874 im Deutsche Rechtsgeschichte."
+description: "Wenn es um Kanonisches Recht und Eherecht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanonisches Recht und Eherecht

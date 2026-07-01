@@ -1,6 +1,6 @@
 ---
 name: orientierung-fachanwaltschaft-mandat
-description: "Anwalt will überblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten: Orientierung AufenthG AsylG G..."
+description: "Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwalt will überblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten

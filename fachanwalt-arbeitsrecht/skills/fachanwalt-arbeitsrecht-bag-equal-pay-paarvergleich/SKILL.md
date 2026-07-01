@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich
-description: "Workflow-Skill zu fachanwalt arbeitsrecht bag equal pay paarvergleich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Wenn es um Rechtsprechung live prüfen in Fachanwalt Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Rechtsprechung live prüfen

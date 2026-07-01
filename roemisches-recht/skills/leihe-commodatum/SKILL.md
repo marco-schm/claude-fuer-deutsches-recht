@@ -1,6 +1,6 @@
 ---
 name: leihe-commodatum
-description: "Römisches Recht: Leihe Commodatum. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Leihe Commodatum in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leihe Commodatum

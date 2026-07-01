@@ -1,6 +1,6 @@
 ---
 name: neu-002-rheinisches-recht-gerichtsverfassung-und-notariat
-description: "Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat im Deutsche Rechtsgeschichte."
+description: "Wenn es um Deutsche Rechtsgeschichte: 002 Rheinisches Recht Gerichtsverfassung Und Notariat in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: 002 Rheinisches Recht Gerichtsverfassung Und Notariat

@@ -1,6 +1,6 @@
 ---
 name: luft-043-flugzeugleasing-pfandrecht-vorbereiten
-description: "Luftrecht und Flughafenrecht: Flugzeugleasing: Pfandrecht vorbereiten. Pfandrecht vorbereiten für Flugzeugleasing im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Flugzeugleasing Pfandrecht Vorbereiten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flugzeugleasing Pfandrecht Vorbereiten

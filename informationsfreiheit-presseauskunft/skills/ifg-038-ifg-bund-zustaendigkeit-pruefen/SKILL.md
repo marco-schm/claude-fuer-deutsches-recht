@@ -1,6 +1,6 @@
 ---
 name: ifg-038-ifg-bund-zustaendigkeit-pruefen
-description: "Informationsfreiheit und Presseauskunft: IFG Bund: Zuständigkeit prüfen. Zuständigkeit prüfen für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Ifg Bund Zustaendigkeit Pruefen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ifg Bund Zustaendigkeit Pruefen

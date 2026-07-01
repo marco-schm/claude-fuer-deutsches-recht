@@ -1,6 +1,6 @@
 ---
 name: deliktsrecht-sonstiges-recht
-description: "Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüterrechte."
+description: "Wenn es um Deliktsrecht: Sonstiges Recht in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Deliktsrecht Sonstiges Recht; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Deliktsrecht: Sonstiges Recht

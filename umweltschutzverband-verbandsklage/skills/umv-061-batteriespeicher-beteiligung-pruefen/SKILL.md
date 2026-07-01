@@ -1,6 +1,6 @@
 ---
 name: umv-061-batteriespeicher-beteiligung-pruefen
-description: "Umweltschutzverband Verbandsklage: Batteriespeicher: Beteiligung prüfen. Beteiligung prüfen für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Batteriespeicher Beteiligung Pruefen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Batteriespeicher Beteiligung Pruefen

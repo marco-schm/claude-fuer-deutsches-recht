@@ -1,6 +1,6 @@
 ---
 name: fremdmandat-agenturfall
-description: "Spezialfür Public-Affairs-Agenturen, Kanzleien, Beratungen und Dienstleister mit mehreren Mandanten. Output Mandanten-Trennblatt im Lobbyregister Bundestag."
+description: "Wenn es um Fremdmandat und Agenturfall in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fremdmandat und Agenturfall

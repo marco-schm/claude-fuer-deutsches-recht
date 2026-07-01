@@ -1,6 +1,6 @@
 ---
 name: bautraeger-grundbuchgebuehren-rangwahrung
-description: "Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag: Skill listet die typischen Gebühren der Notar Grundbuchamt und Bank sowie die Aufteilung zwischen Bautraeger und Erwerber. Liefert Prüfras..."
+description: "Wenn es um Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag

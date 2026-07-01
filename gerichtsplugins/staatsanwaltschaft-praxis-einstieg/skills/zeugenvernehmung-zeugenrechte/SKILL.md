@@ -1,6 +1,6 @@
 ---
 name: zeugenvernehmung-zeugenrechte
-description: "Zeugenvernehmung und Zeugenrechte: Praxis-Skill für neue Staatsanwälte zu Ladung, Belehrung, Aussageverweigerung, Auskunftsverweigerung und Schutzbedarf beachten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Zeugenvernehmung und Zeugenrechte in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zeugenvernehmung und Zeugenrechte

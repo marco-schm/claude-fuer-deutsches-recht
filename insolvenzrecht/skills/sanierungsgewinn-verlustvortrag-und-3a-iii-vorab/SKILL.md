@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-verlustvortrag-und-3a-iii-vorab
-description: "Vorab-Prüfung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-für-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungspositionen. Wenn die Verrechnungsmasse den Sanierungsertrag a..."
+description: "Wenn es um Sanierungsgewinn — Verlustvortrag und Paragraph 3a Absatz 3 EStG vorab prüfen in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sanierungsgewinn — Verlustvortrag und Paragraph 3a Absatz 3 EStG vorab prüfen

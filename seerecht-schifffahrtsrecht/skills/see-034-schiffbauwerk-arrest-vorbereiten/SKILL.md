@@ -1,6 +1,6 @@
 ---
 name: see-034-schiffbauwerk-arrest-vorbereiten
-description: "See- und Schifffahrtsrecht: Schiffbauwerk: Arrest vorbereiten. Arrest vorbereiten für Schiffbauwerk im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schiffbauwerk Arrest Vorbereiten in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffbauwerk Arrest Vorbereiten

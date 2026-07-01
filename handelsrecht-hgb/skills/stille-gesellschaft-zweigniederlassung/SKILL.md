@@ -1,6 +1,6 @@
 ---
 name: stille-gesellschaft-zweigniederlassung
-description: "Prüft stille Beteiligung, Gewinn/Verlust, Auskunft, Insolvenz und Abgrenzung partiarisches Darlehen im Handelsrecht Hgb."
+description: "Wenn es um Stille Gesellschaft Paragraf 230 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stille Gesellschaft § 230 HGB

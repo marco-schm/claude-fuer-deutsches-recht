@@ -1,6 +1,6 @@
 ---
 name: public-sector-beamte
-description: "Prüft Hinweisgeberschutz im öffentlichen Dienst im Hinweisgeberschutz Compliance."
+description: "Wenn es um Public Sector Beamte in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Public Sector Beamte

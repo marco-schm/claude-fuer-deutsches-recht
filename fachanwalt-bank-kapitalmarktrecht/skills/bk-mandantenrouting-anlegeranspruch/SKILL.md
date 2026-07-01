@@ -1,6 +1,6 @@
 ---
 name: bk-mandantenrouting-anlegeranspruch
-description: "Routing-Tabelle Anlegeranspruch: Lebensversicherung, Geschlossener Fonds, Zertifikat, ETF, Cum-Ex / Cum-Cum, Krypto: Pro Produktart typische..."
+description: "Wenn es um Bk Mandantenrouting Anlegeranspruch in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Routing-Tabelle Anlegeranspruch: Lebensversicherung, Geschlossener Fonds, Zertifikat, ETF, Cum-Ex / Cum-Cum, Krypto

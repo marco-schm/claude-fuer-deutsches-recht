@@ -1,6 +1,6 @@
 ---
 name: maschinenleasing-abnahme-medizintechnik
-description: "Maschinenleasing: Abnahmeprozess, Wartungsverantwortung, Stillstandsrisiko, Mängelrechte und Rückgabe im Leasingrecht."
+description: "Wenn es um Maschinenleasing: Abnahme, Wartung und Stillstand in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Maschinenleasing: Abnahme, Wartung und Stillstand

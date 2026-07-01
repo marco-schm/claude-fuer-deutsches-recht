@@ -1,6 +1,6 @@
 ---
 name: anonymisierung-schutzantrag-auftraggeber
-description: "Prüft Beschraenkung der Veröffentlichung bei schutzwürdigen Interessen nach § 4 Abs. 6 LobbyRG und Altfall-Anonymisierung. Output Schutzantrag-Skizze im Lobbyregister Bundestag."
+description: "Wenn es um Anonymisierung und Schutzantrag in Lobbyregister Bundestag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anonymisierung und Schutzantrag

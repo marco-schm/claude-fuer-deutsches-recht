@@ -1,6 +1,6 @@
 ---
 name: wegh-eigentuemerversammlung-bauleiter
-description: "Bauleiter Eigentuemerversammlung WEG: Einberufung, Tagesordnung, Beschlusskompetenz, Protokoll. Prüfraster für Verwalter."
+description: "Wenn es um WEGh: Eigentuemerversammlung in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEGh: Eigentuemerversammlung

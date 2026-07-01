@@ -1,6 +1,6 @@
 ---
 name: closed-periods
-description: "Verwaltet Closed Periods nach Art. 19 Abs. 11 MAR: Berechnung, Kommunikation, Ausnahmenantrag und Handelssperren-Monitoring im Insiderrecht Compliance."
+description: "Wenn es um Closed Periods nach Art. 19 Abs. 11 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Closed Periods nach Art. 19 Abs. 11 MAR

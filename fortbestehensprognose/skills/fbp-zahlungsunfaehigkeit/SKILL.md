@@ -1,6 +1,6 @@
 ---
 name: fbp-zahlungsunfaehigkeit
-description: "Spezialfall Abgrenzung Zahlungsunfaehigkeit und Ueberschuldung § 17 / § 19 InsO: Liquiditaetsstatus 21-Tage-Frist, Fortfuehrungsprognose, BGH-Rechtsprechung. Prüfraster für Geschäftsleitung im Fortbestehensprognose."
+description: "Wenn es um FBP: Zahlungsunfaehigkeit Ueberschuldung in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # FBP: Zahlungsunfaehigkeit Ueberschuldung

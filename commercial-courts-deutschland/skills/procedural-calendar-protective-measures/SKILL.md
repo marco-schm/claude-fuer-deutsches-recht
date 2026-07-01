@@ -1,6 +1,6 @@
 ---
 name: procedural-calendar-protective-measures
-description: "Erstellt einen prozessualen Verfahrenskalender mit Schriftsatzfristen, Anlagen, Übersetzungen, Witness Statements, Sachverständigen und Hearing Date im Commercial Courts Deutschland."
+description: "Wenn es um Procedural Calendar in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Procedural Calendar

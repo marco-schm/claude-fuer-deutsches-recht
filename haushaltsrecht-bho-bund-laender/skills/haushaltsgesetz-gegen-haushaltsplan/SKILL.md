@@ -1,6 +1,6 @@
 ---
 name: haushaltsgesetz-gegen-haushaltsplan
-description: "Haushaltsrecht BHO Bund und Länder: Haushaltsgesetz gegen Haushaltsplan. Haushaltsgesetz gegen Haushaltsplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschläg..."
+description: "Wenn es um Haushaltsgesetz Gegen Haushaltsplan in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Haushaltsgesetz Gegen Haushaltsplan

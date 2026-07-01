@@ -1,6 +1,6 @@
 ---
 name: staatsanwaltschaft-entscheidungsvorlage-verfuegung
-description: "Entscheidungsvorlage: Praxis-Skill für neue Staatsanwälte zu macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Entscheidungsvorlage in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage. Auswahlstichwort: Staatsanwaltschaft Entscheidungsvorlage Verfuegung; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
 ---
 
 # Entscheidungsvorlage

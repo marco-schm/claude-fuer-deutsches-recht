@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Insolvenzplan / StaRUG: ordnet Rolle (Schuldnerunternehmen, Gläubiger, Sachwalter), markiert Frist (Erörterungstermin), wählt Norm (§§ 217-269 InsO Insolvenzplan, StaRUG §§ 4-71 Restrukturierungsplan) und Zuständigkeit (Insolvenzgericht), leitet zum passenden Spez..."
+description: "Wenn es um Einstieg und Routing in Insolvenzplan- und StaRUG-Planwerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

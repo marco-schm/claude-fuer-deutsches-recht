@@ -1,6 +1,6 @@
 ---
 name: pacer-ecf-confidentiality
-description: "Prüft filing, public docket, sealing, redaction, confidential information and German data-room expectations im US Bankruptcy Code."
+description: "Wenn es um PACER, ECF and Confidentiality in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PACER, ECF and Confidentiality

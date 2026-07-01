@@ -1,6 +1,6 @@
 ---
 name: neu-008-kaiserreichsverfassung-1871-bundesstaat-und-reichsre
-description: "Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht im Deutsche Rechtsgeschichte."
+description: "Wenn es um Deutsche Rechtsgeschichte: 008 Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: 008 Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre

@@ -1,6 +1,6 @@
 ---
 name: inso-p079-unterrichtung-der-glaubigerversammlung
-description: "§ 79 InsO (Unterrichtung der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 79 InsO (Unterrichtung der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand,..."
+description: "Wenn es um Inso P079 Unterrichtung Der Glaubigerversammlung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 79 InsO (Unterrichtung der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

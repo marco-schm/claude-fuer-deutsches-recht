@@ -1,6 +1,6 @@
 ---
 name: dokumenteninkasso-retention-title
-description: "Internationales Handelsrecht: Dokumenteninkasso nach URC 522 (ICC 1995). Dokumente-gegen-Zahlung (D/P) und Dokumente-gegen-Akzept (D/A), Inkassoauftrag, Pflichten der Inkassobank und Risiken bei Nichteinlösung im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Dokumenteninkasso nach URC 522 in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Dokumenteninkasso nach URC 522

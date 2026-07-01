@@ -1,6 +1,6 @@
 ---
 name: nda-non-solicit-kartellrechtlich
-description: "Non-Solicit in NDA kartellrechtlich prüfen: zeitlich begrenzt (12-24 Monate), sachlich begrenzt (nur für NDA-Zweck involvierte Mitarbeiter), keine generelle Bewerbungs-Sperre. Andernfalls Risiko § 1 GWB / Art. 101 AEUV."
+description: "Wenn es um Non-Solicit kartellrechtlich in NDA-Abgleich geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Non-Solicit kartellrechtlich

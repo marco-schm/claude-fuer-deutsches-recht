@@ -1,6 +1,6 @@
 ---
 name: redaktionsmemo-jahresplanung
-description: "Erstellt das Jahresheft-Planungsmemo einer juristischen Fachzeitschrift mit Themenarchitektur, Heftfolge, Autorenstrategie und Risikoreserven im Verlagsredaktion."
+description: "Wenn es um Redaktionsmemo Jahresplanung in Verlagsredaktion geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Redaktionsmemo Jahresplanung

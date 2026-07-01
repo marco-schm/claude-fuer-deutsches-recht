@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-aufenthaltstitel-antrag
-description: "Antrag auf Erteilung oder Verlaengerung eines Aufenthaltstitels nach AufenthG bei der Auslaenderbehoerde. Typen § 4 AufenthG Visum Aufenthaltserlaubnis Niederlassungserlaubnis Erlaubnis zum Daueraufenthalt-EU Blaue Karte EU. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt geklaerte Identität kein Ausweisungsinteresse. Verlaengerung § 8 AufenthG. Fiktionswirkung § 81 Abs. 4 AufenthG bei rechtzeitiger Antragstellung."
+description: "Wenn es um Aufenthaltstitel-Antrag in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Aufenthaltstitel-Antrag

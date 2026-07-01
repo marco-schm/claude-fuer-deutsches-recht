@@ -1,6 +1,6 @@
 ---
 name: post-closing
-description: "Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing muessen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan übersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt werden. Paragraf 613a BGB Betriebsuebergang, Paragraf 321 ff. HGB Completion-Accounts-Pflicht..."
+description: "Wenn es um Post-Closing Integration in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Post-Closing Integration

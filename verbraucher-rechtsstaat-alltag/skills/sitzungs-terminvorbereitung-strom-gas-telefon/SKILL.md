@@ -1,6 +1,6 @@
 ---
 name: sitzungs-terminvorbereitung-strom-gas-telefon
-description: "Sitzungs- und Terminvorbereitung: erklärt bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Sitzungs- und Terminvorbereitung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sitzungs- und Terminvorbereitung

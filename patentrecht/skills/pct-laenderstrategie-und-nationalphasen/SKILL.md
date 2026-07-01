@@ -1,6 +1,6 @@
 ---
 name: pct-laenderstrategie-und-nationalphasen
-description: "Plant PCT-Anmeldungen und Nationalphasen: Priorität, ISA/IPEA-Bericht, Länderbudget, Übersetzungen, Eintrittsfristen, Schutzrechtsmix und Abbruchentscheidungen im Patentrecht."
+description: "Wenn es um PCT und Nationalphasen in patentrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PCT und Nationalphasen

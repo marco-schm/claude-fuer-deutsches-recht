@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Insolvenzplan- oder StaRUG-Mandat durch strukturiertes Erstgespraech aufgleisen wenn Unterlagen fehlen. §§ 13 15a InsO §§ 29 42 StaRUG Antragspflichten. Prüfraster: Basisdaten Krisenursachen Gläubigerlandschaft Liquiditaetslage Sanierungsidee fehlende Unterlagen. Output: Interviewprotokoll Unterl..."
+description: "Wenn es um Kaltstart-Interview in Insolvenzplan- und StaRUG-Planwerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart-Interview

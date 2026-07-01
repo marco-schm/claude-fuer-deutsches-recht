@@ -1,6 +1,6 @@
 ---
 name: templates-open-cases-save-for-later
-description: "Templates und Open Cases im eCO-Prozess: Wiederverwendung nur bei gleicher Werkklasse, Statusliste, Fehlerkontrolle und Abbruchlogik im Us Copyright Registrierung Verlag."
+description: "Wenn es um Templates, Open Cases und Save for Later in US Copyright Act und Registrierung für deutsche Verlage geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Templates, Open Cases und Save for Later

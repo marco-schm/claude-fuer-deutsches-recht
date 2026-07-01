@@ -1,6 +1,6 @@
 ---
 name: drg-013-bgb-entstehung-und-materialien
-description: "Deutsche Rechtsgeschichte: BGB Entstehung Und Materialien. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um BGB Entstehung Und Materialien in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BGB Entstehung Und Materialien

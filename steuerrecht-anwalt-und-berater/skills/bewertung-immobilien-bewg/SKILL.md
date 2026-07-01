@@ -1,6 +1,6 @@
 ---
 name: bewertung-immobilien-bewg
-description: "Bewertung von Grundvermoegen für Zwecke der Erbschaft- und Schenkungsteuer — Vergleichswertverfahren Ertragswertverfahren Sachwertverfahren nach §§ 176 ff. BewG sowie Nachweis des niedrigeren gemeinen Werts § 198 BewG. Anwendungsfall Finanzamt setzt einen Bedarfswert fest der erkennbar ueber dem..."
+description: "Wenn es um Bewertung von Immobilien für Erbschaft und Schenkung — Paragrafen 176 ff. BewG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bewertung von Immobilien für Erbschaft und Schenkung — §§ 176 ff. BewG

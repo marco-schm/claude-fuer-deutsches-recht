@@ -1,6 +1,6 @@
 ---
 name: inso-p170-verteilung-des-erloses
-description: "§ 170 InsO (Verteilung des Erlöses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 170 InsO (Verteilung des Erlöses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen,..."
+description: "Wenn es um Inso P170 Verteilung Des Erloses in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 170 InsO (Verteilung des Erlöses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

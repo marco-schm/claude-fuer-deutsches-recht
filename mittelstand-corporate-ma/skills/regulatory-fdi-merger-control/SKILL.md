@@ -1,6 +1,6 @@
 ---
 name: regulatory-fdi-merger-control
-description: "Fusionskontrolle und FDI: Freigabe-Landkarte für Kartellrecht GWB/FKVO, AWV-Investitionsprüfung, Sektorregulierung; Multi-Jurisdiction-Filings; §§ 35-44 GWB, Art. 4 FKVO im Mittelstand Corporate Ma."
+description: "Wenn es um Fusionskontrolle und Investitionskontrolle in Mittelstands-Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Fusionskontrolle und Investitionskontrolle

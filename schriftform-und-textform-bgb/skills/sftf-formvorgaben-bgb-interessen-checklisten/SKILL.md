@@ -1,6 +1,6 @@
 ---
 name: sftf-formvorgaben-bgb-interessen-checklisten
-description: "Bauleiter Formvorgaben BGB Paragraf 126 sowie Paragraf 126a sowie Paragraf 126b: Schriftform, elektronische Form, Textform. Prüfraster Vertraege Wohnraum, Arbeit, Verbraucher im Schriftform Und Textform Bgb."
+description: "Wenn es um SfTf: Formvorgaben Bauleiter in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SfTf: Formvorgaben Bauleiter

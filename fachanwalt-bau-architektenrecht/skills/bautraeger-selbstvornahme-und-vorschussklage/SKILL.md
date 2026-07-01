@@ -1,6 +1,6 @@
 ---
 name: bautraeger-selbstvornahme-und-vorschussklage
-description: "Selbstvornahme und Vorschussklage gegen den Bautraeger: Skill klaert das Recht zur Selbstvornahme nach § 637 BGB die Vorschussklage zur Finanzierung der Beseitigung und die typischen Fallgruppen Erwerb..."
+description: "Wenn es um Selbstvornahme und Vorschussklage gegen den Bautraeger in Fachanwalt Bau Architektenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Selbstvornahme und Vorschussklage gegen den Bautraeger

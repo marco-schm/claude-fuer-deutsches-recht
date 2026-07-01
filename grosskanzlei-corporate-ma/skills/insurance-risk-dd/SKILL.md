@@ -1,6 +1,6 @@
 ---
 name: insurance-risk-dd
-description: "Insurance Risk DD und Policies Check: prüft D&O, Cyber, Product Liability, Warranty, Property, Claims History und Versicherbarkeit von Risiken."
+description: "Wenn es um Insurance Risk DD in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Insurance Risk DD

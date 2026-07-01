@@ -1,6 +1,6 @@
 ---
 name: betriebspraktikum-schule-cloud-plattform
-description: "Prüft Schülerpraktikum, Versicherung, Einsatzstelle, Datenschutz und Aufsicht im Schulrecht Länder."
+description: "Wenn es um Betriebspraktikum Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebspraktikum Schule

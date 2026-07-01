@@ -1,6 +1,6 @@
 ---
 name: kv-032-pkv-ktg-bu-au-pkv-ktg-bu-au
-description: "Krankenversicherung: PKV Krankentagegeld Berufsunfähigkeit und Arbeitsunfähigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: PKV Krankentagegeld Berufsunfähigkeit und Arbeitsunfähigkeit in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: PKV Krankentagegeld Berufsunfähigkeit und Arbeitsunfähigkeit

@@ -1,6 +1,6 @@
 ---
 name: offizielle-quellen-ordner-auswahl
-description: "Erzwingt Live-Check von Gesetz, Behörde, Formular, Rechtsprechung und Landesrecht vor verbindlichem Output im Versammlungsrecht."
+description: "Wenn es um Quellenhygiene vor Antwort in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quellenhygiene vor Antwort

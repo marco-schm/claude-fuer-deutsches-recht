@@ -1,6 +1,6 @@
 ---
 name: rechtliche-internationaler-bezug-und-schnittstellen
-description: "Rechtliche: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Rechtliche: Internationaler Bezug und Schnittstellen in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rechtliche: Internationaler Bezug und Schnittstellen

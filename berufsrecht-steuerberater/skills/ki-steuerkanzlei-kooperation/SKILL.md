@@ -1,6 +1,6 @@
 ---
 name: ki-steuerkanzlei-kooperation
-description: "Steuerberater: ki in der steuerkanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Ki Steuerkanzlei Kooperation in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Steuerberater: ki in der steuerkanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

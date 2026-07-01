@@ -1,6 +1,6 @@
 ---
 name: csddd-mandantenkommunikation-entscheidungsvorlage
-description: "Csddd: Mandantenkommunikation und Entscheidungsvorlage im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Csddd: Mandantenkommunikation und Entscheidungsvorlage in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Csddd: Mandantenkommunikation und Entscheidungsvorlage

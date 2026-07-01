@@ -1,6 +1,6 @@
 ---
 name: cloud-act-vs-dsgvo-art-48-dsgvo
-description: "Cloud Act Vs DSGVO Art 48 DSGVO: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Cloud Act Vs DSGVO Art 48 DSGVO in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cloud Act Vs DSGVO Art 48 DSGVO

@@ -1,6 +1,6 @@
 ---
 name: pfarrbrief-katechetisch-pfarrei-pfarrer
-description: "Pfarrbrief katechetisch und lehrtreu: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Pfarrbrief katechetisch und lehrtreu in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Pfarrbrief Katechetisch Pfarrei Pfarrer; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
 ---
 
 # Pfarrbrief katechetisch und lehrtreu

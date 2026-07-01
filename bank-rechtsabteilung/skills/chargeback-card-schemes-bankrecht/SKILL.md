@@ -1,6 +1,6 @@
 ---
 name: chargeback-card-schemes-bankrecht
-description: "Chargeback und Card-Scheme-Disputes rechtlich begleiten: Mastercard/Visa-Regeln, Zahlungsdienstehaftung, Händlerstreit, Fristen, Belege, Kundenerwartung und Kulanzgrenzen im Bank-Rechtsabteilung."
+description: "Wenn es um Chargeback und Kartenstreit in Bank-Rechtsabteilung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chargeback und Kartenstreit

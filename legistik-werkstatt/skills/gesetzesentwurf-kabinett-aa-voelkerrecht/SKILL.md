@@ -1,6 +1,6 @@
 ---
 name: gesetzesentwurf-kabinett-aa-voelkerrecht
-description: "Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden. Beschlussvorlage Kabinett Anschreiben Hausspitze Vorblatt En"
+description: "Wenn es um Gesetzesentwurf Kabinett in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gesetzesentwurf Kabinett Aa Voelkerrecht; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Gesetzesentwurf Kabinett

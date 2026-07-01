@@ -1,6 +1,6 @@
 ---
 name: offboarding-account-sperre-datenuebergabe
-description: "Berliner Start-up-HR Offboarding-Spezialskill: Reihenfolge und Rechtsgrundlagen für Account-Sperre und Datenuebergabe bei E-Mail, Slack, GitHub, CRM, Cloud-Drives und Endgeraeten. Trennt dienstliche und private Daten, regelt Litigation Hold bei drohender Kuendigungsschutzklage oder Strafanzeige,..."
+description: "Wenn es um Offboarding — Account-Sperre und Datenuebergabe in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Offboarding — Account-Sperre und Datenuebergabe

@@ -1,6 +1,6 @@
 ---
 name: haustuergeschaeft-vergleich-vorschlage
-description: "Prüfer: Haustürgeschäft: Vergleich vorschlagen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Haustuergeschaeft Vergleich Vorschlage in Verbraucherschutzrecht Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Haustuergeschaeft Vergleich Vorschlage

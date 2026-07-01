@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-mandatsworkspace-kontexttrennung
-description: 'Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen, damit Mehrfachmandatsanwälte den Kontext eines Mandats sauber von jedem anderen trennen. Wird von allen inhaltlichen Skills gelesen, die wissen müssen, in welchem Mandat sie arbeiten. Lädt bei "neues Mandat", "Mandat wechseln", "Mandate auflisten", "Mandat schließen" oder wenn der Nutzer nur auf Praxisebene arbeiten möchte.'
+description: "Wenn es um Gesellschaftsrechtlicher Mandatsworkspace und Kontexttrennung in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 
 ---
 

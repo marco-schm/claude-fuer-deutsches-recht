@@ -1,6 +1,6 @@
 ---
 name: dokumentation-belegakte-fachplaner
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen..."
+description: "Wenn es um LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Sichert protokolle in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Sichert protokolle

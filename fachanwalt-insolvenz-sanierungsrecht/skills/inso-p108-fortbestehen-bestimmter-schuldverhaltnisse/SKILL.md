@@ -1,6 +1,6 @@
 ---
 name: inso-p108-fortbestehen-bestimmter-schuldverhaltnisse
-description: "§ 108 InsO (Fortbestehen bestimmter Schuldverhältnisse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 108 InsO (Fortbestehen bestimmter Schuldverhältnisse) im Mandat prüfen: Normzweck, T..."
+description: "Wenn es um Inso P108 Fortbestehen Bestimmter Schuldverhaltnisse in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 108 InsO (Fortbestehen bestimmter Schuldverhältnisse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

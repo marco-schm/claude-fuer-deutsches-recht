@@ -1,6 +1,6 @@
 ---
 name: spezial-rechtsanwendung-tatbestand-beweis-und-belege
-description: "Rechtsanwendung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Rechtsanwendung: Tatbestandsmerkmale, Beweisfragen und Beleglage in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsanwendung: Tatbestandsmerkmale, Beweisfragen und Beleglage

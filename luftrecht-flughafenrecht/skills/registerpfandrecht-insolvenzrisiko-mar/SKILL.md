@@ -1,6 +1,6 @@
 ---
 name: registerpfandrecht-insolvenzrisiko-mar
-description: "Schuldner zeigt Insolvenzzeichen; Pfandglaeubigerposition zu sichern. Prüft InsO §§ 21 50 89 Absonderungsrecht Vollstreckungssperre Cape-Town-Art. 30 Insolvenzschutz und liefert Risikoampel für Pfandglaeubiger und Reaktionsplan im Luftrecht Flughafenrecht."
+description: "Wenn es um Registerpfandrecht – Insolvenzrisiko markieren in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerpfandrecht – Insolvenzrisiko markieren

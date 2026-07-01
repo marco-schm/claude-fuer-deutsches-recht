@@ -1,6 +1,6 @@
 ---
 name: drg-107-generalklauseln-als-einbruchstelle-zeitgeist
-description: "Analysiert historische Nutzung von Generalklauseln wie Treu und Glauben, gute Sitten und Gemeinwohlformeln zur Anpassung, Stabilisierung oder Perversion von Rechtsordnungen."
+description: "Wenn es um Generalklauseln als Einbruchstelle des Zeitgeists in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 107 Generalklauseln Als Einbruchstelle Zeitgeist; Arbeitsfeld: Deutsche Rechtsgeschichte."
 ---
 # Generalklauseln als Einbruchstelle des Zeitgeists
 

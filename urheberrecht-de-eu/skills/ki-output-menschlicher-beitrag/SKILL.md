@@ -1,6 +1,6 @@
 ---
 name: ki-output-menschlicher-beitrag
-description: "Prüft, ob KI-unterstuetzte Ergebnisse urheberrechtlich geschuetzt sein koennen und welcher menschliche Beitrag konkret nachweisbar ist."
+description: "Wenn es um digitale Werkzeuge-Output und menschlicher Beitrag in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI-Output und menschlicher Beitrag

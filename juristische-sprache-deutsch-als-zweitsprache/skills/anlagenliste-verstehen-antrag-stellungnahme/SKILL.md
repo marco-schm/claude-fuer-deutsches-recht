@@ -1,6 +1,6 @@
 ---
 name: anlagenliste-verstehen-antrag-stellungnahme
-description: "Hilft bei Anlagenliste Verstehen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache."
+description: "Wenn es um Anlagenliste Verstehen in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anlagenliste Verstehen

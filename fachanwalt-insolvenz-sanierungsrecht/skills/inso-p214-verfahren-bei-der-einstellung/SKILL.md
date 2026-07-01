@@ -1,6 +1,6 @@
 ---
 name: inso-p214-verfahren-bei-der-einstellung
-description: "§ 214 InsO (Verfahren bei der Einstellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 214 InsO (Verfahren bei der Einstellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsf..."
+description: "Wenn es um Inso P214 Verfahren Bei Der Einstellung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 214 InsO (Verfahren bei der Einstellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

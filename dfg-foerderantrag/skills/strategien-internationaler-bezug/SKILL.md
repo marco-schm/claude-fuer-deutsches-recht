@@ -1,6 +1,6 @@
 ---
 name: strategien-internationaler-bezug
-description: "Strategien: Internationaler Bezug und Schnittstellen im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisc..."
+description: "Wenn es um Strategien: Internationaler Bezug und Schnittstellen in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strategien: Internationaler Bezug und Schnittstellen

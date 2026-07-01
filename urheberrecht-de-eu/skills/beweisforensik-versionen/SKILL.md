@@ -1,6 +1,6 @@
 ---
 name: beweisforensik-versionen
-description: "Sichert Belege bei Musik, Text, Code und KI-Output: Versionen, Hashes, Metadaten, Uploads, Screenshots und Chain of Custody im Urheberrecht De Eu."
+description: "Wenn es um Beweisforensik, Versionen und Hashes in Urheberrecht DE EU geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweisforensik, Versionen und Hashes

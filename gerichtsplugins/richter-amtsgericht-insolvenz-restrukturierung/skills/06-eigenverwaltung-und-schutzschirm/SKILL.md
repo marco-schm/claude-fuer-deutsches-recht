@@ -1,6 +1,6 @@
 ---
 name: 06-eigenverwaltung-und-schutzschirm
-description: "Eigenverwaltung Paragrafen 270 ff. InsO, Eigenverwaltungsplanung Paragraf 270a, Schutzschirmverfahren Paragraf 270d, Sachwalter Paragraf 274"
+description: "Wenn es um 06 Eigenverwaltung und Schutzschirm in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 06 Eigenverwaltung und Schutzschirm

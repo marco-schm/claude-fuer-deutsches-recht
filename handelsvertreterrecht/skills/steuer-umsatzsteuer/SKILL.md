@@ -1,6 +1,6 @@
 ---
 name: steuer-umsatzsteuer
-description: "Prüft die umsatzsteuerliche Behandlung des Handelsvertreters: Umsatzsteuerpflicht auf Provisionen nach § 1 UStG, Rechnungsstellung nach § 14 UStG, Vorsteuerabzug des Unternehmers, Kleinunternehmerregelung nach § 19 UStG sowie steuerliche Abgrenzung von Provision und Aufwendungsersatz im Handelsve..."
+description: "Wenn es um Umsatzsteuer im Handelsvertreterverhältnis nach UStG in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umsatzsteuer im Handelsvertreterverhältnis nach UStG

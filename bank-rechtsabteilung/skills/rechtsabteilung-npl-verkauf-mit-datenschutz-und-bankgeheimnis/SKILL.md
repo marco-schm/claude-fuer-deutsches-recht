@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-npl-verkauf-mit-datenschutz-und-bankgeheimnis
-description: "Rechtsabteilungs-Fachmodul für NPL-Verkauf mit Datenschutz und Bankgeheimnis: Notleidende Forderungen werden für Abtretung, Datenraum, Schuldnerinformation und Servicing rechtssicher vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Bank-Rechtsabteilung."
+description: "Wenn es um Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis

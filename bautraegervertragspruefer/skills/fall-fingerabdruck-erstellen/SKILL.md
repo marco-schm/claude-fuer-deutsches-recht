@@ -1,6 +1,6 @@
 ---
 name: fall-fingerabdruck-erstellen
-description: "Erstellt den Fall-Fingerabdruck eines Bautraegervertrags aus Urkunde, Parteien, Einheit, Projekt, Preis, Ratenplan, Sicherheiten, Baubeschreibung, Teilungserklaerung und Baugrund als zwingende Grundlage jeder weiteren Bewertung. Ohne Fingerabdruck darf keine rote oder orange Ampel gesetzt werden."
+description: "Wenn es um Fall-Fingerabdruck erstellen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Fall-Fingerabdruck erstellen

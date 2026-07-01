@@ -1,6 +1,6 @@
 ---
 name: on-orbit-weltraumtourismus
-description: "On-Orbit Servicing (OOS) – rechtliche Qualifikation, Andockgenehmigung, Haftung, Eigentumsübergang im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: On-Orbit Servicing: Andocken, Reparatur und Haftung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: On-Orbit Servicing: Andocken, Reparatur und Haftung

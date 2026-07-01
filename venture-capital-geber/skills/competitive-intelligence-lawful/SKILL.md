@@ -1,6 +1,6 @@
 ---
 name: competitive-intelligence-lawful
-description: "Hilft bei Marktbeobachtung, Wettbewerbertracking, Public Sources, Founder Calls und Datenschutzgrenzen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Lawful Competitive Intelligence in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lawful Competitive Intelligence

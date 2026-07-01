@@ -1,6 +1,6 @@
 ---
 name: anbieter-werden-art-25
-description: "Betreiber Einführer oder Haendler fragt: Werde ich durch mein Verhalten selbst zum Anbieter eines KI-Systems mit allen daraus folgenden Pflichten? Art. 25 KI-VO Re-Provisioning. Prüfraster: vier Fallgruppen wesentliche Änderung des Systems Bestimmungsaenderung Inverkehrbringen unter eigenem Name..."
+description: "Wenn es um Anbieter-Werden — Art. 25 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anbieter-Werden — Art. 25 KI-VO

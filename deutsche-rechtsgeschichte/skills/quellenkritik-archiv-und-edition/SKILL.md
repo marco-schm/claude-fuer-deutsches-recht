@@ -1,6 +1,6 @@
 ---
 name: quellenkritik-archiv-und-edition
-description: "Deutsche Rechtsgeschichte: Quellenkritik für Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergleich, Archivrecherche in Bundes- und Landesarchiven sowie Umgang mit Handschriften und Druckausgaben im Deutsche Rechtsgeschichte."
+description: "Wenn es um Quellenkritik: Archiv und Edition in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quellenkritik: Archiv und Edition

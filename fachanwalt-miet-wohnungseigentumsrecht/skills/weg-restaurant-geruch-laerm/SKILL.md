@@ -1,6 +1,6 @@
 ---
 name: weg-restaurant-geruch-laerm
-description: "Restaurant/Geruch/Lärm in Anlage: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Immissionen, Sondernutzung, Mangel, Unterlassung, Bau-/Gewerberecht; mit Normprüfung, Bew..."
+description: "Wenn es um Restaurant/Geruch/Lärm in Anlage: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Restaurant/Geruch/Lärm in Anlage: Fachmodul im Miet- und Wohnungseigentumsrecht

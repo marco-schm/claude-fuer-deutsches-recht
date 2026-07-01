@@ -1,6 +1,6 @@
 ---
 name: gesindeordnung-1810-folgereformen
-description: "Gesindeordnung 1810 und Folgereformen. Skill überblickt die Reformwellen der preussischen Gesindeordnung und ihre Aufhebung 1918. Liefert chronologische Quellenmatrix."
+description: "Wenn es um Pralr Gesindeordnung 1810 Und Folgereformen in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gesindeordnung 1810 Folgereformen; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Pralr Gesindeordnung 1810 Und Folgereformen

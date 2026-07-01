@@ -1,6 +1,6 @@
 ---
 name: offboarding-account-sperre-und-datenuebergabe
-description: "Berliner Start-up-HR: Account-Sperre und Datenübergabe: E-Mail, Slack, GitHub, Kundenkontakte, private Daten und Litigation Hold. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt."
+description: "Wenn es um Offboarding Account Sperre Und Datenuebergabe in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Offboarding Account Sperre Und Datenuebergabe

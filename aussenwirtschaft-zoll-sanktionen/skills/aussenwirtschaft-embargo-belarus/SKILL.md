@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-belarus
-description: "EU-Belarus-Sanktionsregime nach VO (EU) 765/2006 und VO (EU) 2022/576 (Russland-Belarus-Gueterembargoerweiterung): gelistete Personen und Unternehmen, Guetersanktionen, Dienstleistungsverbote und Exportbeschraenkungen. Besondere Risiken: Umgehung von Russland-Embargo ueber Belarus. Prüfung von H..."
+description: "Wenn es um Embargo Belarus: Sanktionsregime und Umgehungsrisiken in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Embargo Belarus: Sanktionsregime und Umgehungsrisiken

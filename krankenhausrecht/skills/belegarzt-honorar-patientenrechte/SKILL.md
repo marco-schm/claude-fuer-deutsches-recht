@@ -1,6 +1,6 @@
 ---
 name: belegarzt-honorar-patientenrechte
-description: "Belegarzt Honorar und Krankenhausvertrag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht."
+description: "Wenn es um Belegarzt Honorar und Krankenhausvertrag in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Belegarzt Honorar und Krankenhausvertrag

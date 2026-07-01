@@ -1,6 +1,6 @@
 ---
 name: fristenbuch-steuerrecht
-description: "Fristenbuch für steuerrechtliche Verfahren pflegen und Fristen berechnen. Anwendungsfall neue Bescheide oder Entscheidungen eingegangen Fristen muessen sofort eingetragen und ueberwacht werden. Standardfristen Einspruch § 355 AO ein Monat fehlende Belehrung § 356 AO ein Jahr FG-Klage § 47 FGO ein"
+description: "Wenn es um Fristenbuch Steuerrecht in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fristenbuch Steuerrecht; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Fristenbuch Steuerrecht

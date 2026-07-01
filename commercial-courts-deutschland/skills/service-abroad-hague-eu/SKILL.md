@@ -1,6 +1,6 @@
 ---
 name: service-abroad-hague-eu
-description: "Plant Zustellung ins Ausland: EuZVO, Haager Zustellungsübereinkommen, Übersetzung, service agents, Fristen und Nachweis im Commercial Courts Deutschland."
+description: "Wenn es um Service Abroad in commercial-courts-deutschland geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Service Abroad

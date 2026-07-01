@@ -1,6 +1,6 @@
 ---
 name: impressum-pflicht-und-pruefung
-description: "Impressumspflicht und Prüfung im Verlag: DDG § 5, MStV § 18 V. i. S. d. P., Anforderungen Print/Online/Newsletter/Social-Media-Profile, Mustertexte und Prüfcheckliste im Verlagsredaktion."
+description: "Wenn es um Impressums-Pflicht und Prüfung in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Impressums-Pflicht und Prüfung

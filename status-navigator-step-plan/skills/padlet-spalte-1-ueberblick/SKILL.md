@@ -1,6 +1,6 @@
 ---
 name: padlet-spalte-1-ueberblick
-description: "Baut die erste Padlet-Spalte als Pendant zu Reiter 1 der Step-Plan-Excel. Überblick aller erforderlichen Dokumente mit Ampelfaerbung, Sortierung nach Vertragsebene und sieben Kartenfeldern (Dokument, Datum, Verfuegbarkeit, Unterschriftsstatus, Unterzeichnet von, Rechtsgrundlage, Zweck)."
+description: "Wenn es um Padlet Reiter 1 Überblick aufbauen in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Padlet Reiter 1 Überblick aufbauen

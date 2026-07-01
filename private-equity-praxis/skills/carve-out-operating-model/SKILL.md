@@ -1,6 +1,6 @@
 ---
 name: carve-out-operating-model
-description: "Prüft Zielbetriebsmodell, Lizenzen, IT, Shared Services, HR, IP, Real Estate und Transitional Services im Private Equity Praxis."
+description: "Wenn es um Carve-out Operating Model in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Carve-out Operating Model

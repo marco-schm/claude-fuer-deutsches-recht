@@ -1,6 +1,6 @@
 ---
 name: waren-dienstleistungen-ekdb-tmclass-nizza
-description: "Waren- und Dienstleistungsverzeichnis für DPMA, EUIPO und Madrid sauber entwerfen: Nizza-Klassen, eKDB/TMclass, Oberbegriffe, Klarheit, Schutzumfang, Benutzungsrisiko und Kostenstrategie im Markenrecht Fashion Luxus."
+description: "Wenn es um Waren- und Dienstleistungsverzeichnis in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Waren- und Dienstleistungsverzeichnis

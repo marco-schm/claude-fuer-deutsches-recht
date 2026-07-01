@@ -1,6 +1,6 @@
 ---
 name: bess-behoerdenstrategie
-description: "Plant Vorgespräche mit Gemeinde, Bauaufsicht, Immissionsschutz, Feuerwehr, Netzbetreiber, Polizei und Datenschutzaufsicht im Energierecht."
+description: "Wenn es um Behördenstrategie und Bürgerkommunikation in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Behördenstrategie und Bürgerkommunikation

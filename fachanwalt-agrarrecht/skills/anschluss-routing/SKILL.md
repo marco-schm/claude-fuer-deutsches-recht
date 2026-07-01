@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Fachanwalt Agrarrecht: wählt den nächsten Spezial-Skill nach Engpass (Pachtjahr Kündigungsfristen, Pachtvertrag, GAP-Antrag, Grundbuchauszug), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Fachanwalt Agrarrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anschluss-Routing

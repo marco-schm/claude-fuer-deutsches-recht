@@ -1,6 +1,6 @@
 ---
 name: bho-14-funktionenplan-praktisch-anwend
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 14 Funktionenplan praktisch anwenden. BHO § 14 Funktionenplan praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret..."
+description: "Wenn es um Bho 14 Funktionenplan Praktisch Anwend in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 14 Funktionenplan Praktisch Anwend

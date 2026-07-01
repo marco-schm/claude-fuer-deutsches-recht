@@ -1,6 +1,6 @@
 ---
 name: triage-ki-vendor-due-verbotene-praktiken
-description: "Nutzer kommt mit unklarer KI-VO-Frage oder möglicherweise betroffener Software und fragt: Wie starte ich die KI-VO-Prüfung? Eingangs-Triage-Skill. Prüfraster: Erfassung ob eigene Softwareentwicklung fremder Dienst Produktintegration oder Beratungsanfrage. Eingangsfragen zu Systemart Branche Einsa"
+description: "Wenn es um Triage: europäischer Technikregulierungsrahmen-Vorprüfung — Was prüft der Nutzer? in europäischem Technikregulierungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Triage Ki Vendor Due Verbotene Praktiken; Arbeitsfeld: europäischem Technikregulierungsrecht."
 ---
 
 # Triage: KI-VO-Vorprüfung — Was prüft der Nutzer?

@@ -1,6 +1,6 @@
 ---
 name: patronatserklaerung-extern-hart-erzeugen
-description: "Patronatserklaerung Extern Hart Erzeugen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Fortbestehensprognose."
+description: "Wenn es um Harte Patronatserklärung prüfen und erzeugen in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Harte Patronatserklärung prüfen und erzeugen

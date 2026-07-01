@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-bei-kollidierenden-erfindern-kalt
-description: "Patentanwälte: mandatsannahme bei kollidierenden erfindern - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Mandatsannahme Bei Kollidierenden Erfindern Kalt in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: mandatsannahme bei kollidierenden erfindern - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

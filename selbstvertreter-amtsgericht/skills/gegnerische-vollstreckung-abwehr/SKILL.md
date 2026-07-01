@@ -1,6 +1,6 @@
 ---
 name: gegnerische-vollstreckung-abwehr
-description: "Abwehr der Vollstreckung wenn Sie verloren haben. Vollstreckungs-Gegenklage Pfaendungs-Freigrenzen Stundungs-Antrag Ratenzahlung Vollstreckungs-Schutzantrag. Was Sie tun koennen wenn der Gerichtsvollzieher vor der Tuer steht."
+description: "Wenn es um Wenn Sie verlieren: Vollstreckung abwehren oder mildern in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wenn Sie verlieren: Vollstreckung abwehren oder mildern

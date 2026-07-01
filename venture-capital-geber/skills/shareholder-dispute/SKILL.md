@@ -1,6 +1,6 @@
 ---
 name: shareholder-dispute
-description: "Prüft Beschlussmängel, Informationsrechte, Treuepflicht, Einstweiligen Rechtsschutz und Investorenschutz im Startup im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Gesellschafterstreit im Portfolio in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesellschafterstreit im Portfolio

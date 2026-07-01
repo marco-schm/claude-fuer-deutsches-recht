@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Fachanwalt Verkehrsrecht: sortiert Bußgeldbescheid, Polizeiprotokoll, Anhörungsbogen, prüft Datum, Absender, Frist und Beweiswert (Messprotokoll, Eichschein); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

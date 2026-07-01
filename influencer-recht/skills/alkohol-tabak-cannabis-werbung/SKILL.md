@@ -1,6 +1,6 @@
 ---
 name: alkohol-tabak-cannabis-werbung
-description: "Influencer-Recht: Werbung für Alkohol, Tabak und Cannabis – TabakerzG, JuSchG, LMIV, MStV und Werbeverbote im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Alkohol, Tabak und Cannabis – Werberestriktionen in Influencer-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Alkohol, Tabak und Cannabis – Werberestriktionen

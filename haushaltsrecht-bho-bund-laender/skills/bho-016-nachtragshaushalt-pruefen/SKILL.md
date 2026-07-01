@@ -1,6 +1,6 @@
 ---
 name: bho-016-nachtragshaushalt-pruefen
-description: "Haushaltsrecht BHO Bund und Länder: Nachtragshaushalt prüfen. Nachtragshaushalt prüfen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Nachtragshaushalt Pruefen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachtragshaushalt Pruefen

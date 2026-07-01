@@ -1,6 +1,6 @@
 ---
 name: vorhalteverguetung-leistungsgruppen-krankenhausreform
-description: "Vorhaltefinanzierung nach KHVVG: berechnet den Vorhalteanteil je Leistungsgruppe, ordnet die Konvergenzphase 2025 bis 2027, prüft Auswirkungen auf Erloesbudget und Liquiditaet im Krankenhausrecht."
+description: "Wenn es um Vorhalteverguetung Leistungsgruppen Krankenhausreform in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vorhalteverguetung Leistungsgruppen Krankenhausreform

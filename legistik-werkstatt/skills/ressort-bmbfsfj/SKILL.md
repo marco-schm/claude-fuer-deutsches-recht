@@ -1,6 +1,6 @@
 ---
 name: ressort-bmbfsfj
-description: "Heranfuehrung Ressort BMBFSFJ (Bundesministerium für Bildung; Familie; Senioren; Frauen und Jugend). Schwerpunkt: Bildung; Familienleistungen; Jugendhilfe; Gleichstellung; Senioren. Kernnormen: BAfoeG; BBiG; KJHG (SGB VIII); BEEG; UnterhVG; AGG; LFGB; LPartG. Fuenf Spezialfelder: schul-und-berufs..."
+description: "Wenn es um Ressort-Heranfuehrung BMBFSFJ in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressort-Heranfuehrung BMBFSFJ

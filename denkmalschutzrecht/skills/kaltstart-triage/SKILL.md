@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Schnelltriage für ein neues denkmalschutzrechtliches Mandat. Erhebt in einer Sitzung Objektdaten, Schutzstatus, Mandantenrolle, konkrete Maßnahme, drohende Fristen und Eilrisiken. Liefert eine erste Risikoampel und benennt die unverzichtbaren Sofortmaßnahmen (Akteneinsicht, Bauanzeige aussetzen, vorläufige Sicherung)."
+description: "Wenn es um Kaltstart — Denkmalschutzrechtliche Triage in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart — Denkmalschutzrechtliche Triage

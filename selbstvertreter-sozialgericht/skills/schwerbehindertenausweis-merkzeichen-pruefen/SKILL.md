@@ -1,6 +1,6 @@
 ---
 name: schwerbehindertenausweis-merkzeichen-pruefen
-description: "Schwerbehindertenausweis und Merkzeichen prüfen. Skill erklaert die Bedeutung der Merkzeichen ihre Voraussetzungen und die rechtlichen Vorteile (Nachteilsausgleich) wie Steuerermaessigung Parkerleichterung Kuendigungsschutz Zusatzurlaub. Liefert Prüfraster."
+description: "Wenn es um Schwerbehindertenausweis Merkzeichen Prüfen in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schwerbehindertenausweis Merkzeichen Prüfen

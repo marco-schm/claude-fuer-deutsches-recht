@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen
-description: "Rechtsquellen: Quellenprüfung; Compliance-Dokumentation und Aktenvermerk: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Rechtsquellen: Compliance-Dokumentation und Aktenvermerk in Kanzlei-Builder-Hub geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Rechtsquellen: Compliance-Dokumentation und Aktenvermerk

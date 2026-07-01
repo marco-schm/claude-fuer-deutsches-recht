@@ -1,6 +1,6 @@
 ---
 name: widerrufsjoker-formular-portal-und-einreichung
-description: "Widerrufsjoker: Formular, Portal und Einreichungslogik: Widerrufsjoker: Formular, Portal und Einreichungslogik."
+description: "Wenn es um Widerrufsjoker: Formular, Portal und Einreichungslogik in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Widerrufsjoker: Formular, Portal und Einreichungslogik

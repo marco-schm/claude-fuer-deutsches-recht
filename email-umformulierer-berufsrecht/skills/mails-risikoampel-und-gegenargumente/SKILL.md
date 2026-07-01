@@ -1,6 +1,6 @@
 ---
 name: mails-risikoampel-und-gegenargumente
-description: "Mails: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Mails: Risikoampel, Gegenargumente und Verteidigungslinien in E-Mail-Umformulierer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mails Risikoampel Und Gegenargumente; Arbeitsfeld: E-Mail-Umformulierer."
 ---
 
 # Mails: Risikoampel, Gegenargumente und Verteidigungslinien

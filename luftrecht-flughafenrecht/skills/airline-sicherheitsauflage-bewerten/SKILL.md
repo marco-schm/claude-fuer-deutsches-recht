@@ -1,6 +1,6 @@
 ---
 name: airline-sicherheitsauflage-bewerten
-description: "Airline erhaelt LuftSiG oder EASA-Auflage nach Inspektion. Prüft LuftSiG §§ 8-9 Sicherheitsprogramm EU-DVO 2015/1998 Findings-Kategorien Level 1/2/Observation Verhältnismäßigkeit und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk und Muster-Stellungnahme mit Corrective Actio..."
+description: "Wenn es um Airline – Sicherheitsauflage bewerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Airline – Sicherheitsauflage bewerten

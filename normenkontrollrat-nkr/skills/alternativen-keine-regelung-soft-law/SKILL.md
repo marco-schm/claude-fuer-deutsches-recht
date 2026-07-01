@@ -1,6 +1,6 @@
 ---
 name: alternativen-keine-regelung-soft-law
-description: "Systematische Prüfung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem"
+description: "Wenn es um NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Alternativen Keine Regelung Soft Law; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
 ---
 
 # NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug

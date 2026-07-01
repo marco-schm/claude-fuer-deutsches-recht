@@ -1,6 +1,6 @@
 ---
 name: serviceroboter-haushalt-gpsr
-description: "Prüft Service- und Haushaltsroboter: Verbraucherprodukt, GPSR, Instruktionen, Updatepflicht, Sicherheitswarnung und Rückruf."
+description: "Wenn es um Serviceroboter und GPSR in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Serviceroboter und GPSR

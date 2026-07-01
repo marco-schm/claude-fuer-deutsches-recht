@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-mehrparteienkonflikt
-description: "Verbraucherinsolvenz: Mehrparteienkonflikt und Interessenmatrix im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
+description: "Wenn es um Verbraucherinsolvenz: Mehrparteienkonflikt und Interessenmatrix in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbraucherinsolvenz: Mehrparteienkonflikt und Interessenmatrix

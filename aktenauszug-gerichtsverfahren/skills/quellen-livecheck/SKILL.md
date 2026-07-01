@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Quellen-Live-Check für Aktenauszüge zivilgerichtlicher Verfahren: prüft Normen (§ 299 ZPO Akteneinsicht, § 130a ZPO eA-Übermittlung, § 169 GVG Öffentlichkeit) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt AG/LG/OLG und Quellenhygiene nach references/quellenhygiene.md."
+description: "Wenn es um Rechtsquellen-Livecheck in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Rechtsquellen-Livecheck

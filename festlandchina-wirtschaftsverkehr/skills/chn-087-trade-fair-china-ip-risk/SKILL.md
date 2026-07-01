@@ -1,6 +1,6 @@
 ---
 name: chn-087-trade-fair-china-ip-risk
-description: "Festlandchina Wirtschaftsverkehr: Trade Fair China IP Risk. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Trade Fair China IP Risk in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Trade Fair China IP Risk

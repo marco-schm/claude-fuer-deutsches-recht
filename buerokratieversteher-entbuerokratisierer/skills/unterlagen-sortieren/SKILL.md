@@ -1,6 +1,6 @@
 ---
 name: unterlagen-sortieren
-description: "Baut aus unordentlichen Fotos, Scans, Briefen, E-Mails und Formularen eine Chronologie, Anlagenliste und Lückenliste."
+description: "Wenn es um Unterlagen sortieren in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Unterlagen sortieren

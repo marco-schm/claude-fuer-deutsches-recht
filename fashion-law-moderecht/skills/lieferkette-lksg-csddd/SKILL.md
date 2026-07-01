@@ -1,6 +1,6 @@
 ---
 name: lieferkette-lksg-csddd
-description: "Lieferkette nach LkSG und CSDDD einordnen: Risikoanalyse, Beschwerdeverfahren, Supplier Code, Audit, Abhilfe, Textilrisiken und Dokumentation im Fashion Law Moderecht."
+description: "Wenn es um Lieferkette Lksg Csddd in fashion-law-moderecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Lieferkette Lksg Csddd

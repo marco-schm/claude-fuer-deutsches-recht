@@ -1,6 +1,6 @@
 ---
 name: platform-dsa-dma-software
-description: "Prüft DSA/DMA-Fragen bei Softwaremarktplätzen, App Stores, Developer Platforms, Moderation und Gatekeeper-Abhängigkeit im Softwarerecht De Eu Us."
+description: "Wenn es um DSA/DMA für Softwareplattformen in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # DSA/DMA für Softwareplattformen

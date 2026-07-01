@@ -1,6 +1,6 @@
 ---
 name: beirat-startup-investor-director
-description: "Prüft Beiratsfragen zu Startup Investor Director: Zuständigkeit, Satzungsgrundlage, Beschlussweg, Haftung, Belege, Gegenargumente und verwertbaren Output."
+description: "Wenn es um Beirat Startup Investor Director in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Startup Investor Director

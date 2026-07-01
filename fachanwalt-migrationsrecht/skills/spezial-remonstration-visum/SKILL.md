@@ -1,6 +1,6 @@
 ---
 name: spezial-remonstration-visum
-description: "Remonstration/Visumklage: Spezial-Skill im Migrationsrecht; prüft Begründung, Frist, Akteneinsicht, Botschaft, VG Berlin; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Remonstration/Visumklage in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Remonstration/Visumklage

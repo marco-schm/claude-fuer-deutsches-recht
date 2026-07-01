@@ -1,6 +1,6 @@
 ---
 name: one-in-out-bilanz-und-buchung
-description: "One-in-one-out-Regel der Bundesregierung 2015 als Standardpruefelement. Erklaert die Bilanzierung jaehrlich laufender Buerokratie-Belastungen für die Wirtschaft die Entlastungs-Nachweispflicht den Saldo-Zaehler pro Ressort die Behandlung von EU-Umsetzung und Ausnahmen. Mit Prüfraster Mustertexte"
+description: "Wenn es um NKR-One-in-one-out — Bilanz und Buchung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: One In Out Bilanz Und Buchung; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
 ---
 
 # NKR-One-in-one-out — Bilanz und Buchung

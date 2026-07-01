@@ -1,6 +1,6 @@
 ---
 name: positivismus-und-rueckbindung-an-den-text
-description: "Analysiert den juristischen Positivismus als Methodenkonzept und seine Forderung nach strikter Rückbindung an den Normtext im deutschen Zivilrecht. Das Skill zeigt, welche methodischen Konsequenzen ein positivistischer Ansatz hat, wo seine Stärken in Rechtssicherheit und Demokratierespekt liegen..."
+description: "Wenn es um Positivismus und Textrückbindung in der Zivilrechtsmethodik in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Positivismus und Textrückbindung in der Zivilrechtsmethodik

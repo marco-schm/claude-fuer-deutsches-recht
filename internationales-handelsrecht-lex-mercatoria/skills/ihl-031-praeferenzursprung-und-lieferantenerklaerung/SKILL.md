@@ -1,6 +1,6 @@
 ---
 name: ihl-031-praeferenzursprung-und-lieferantenerklaerung
-description: "Internationales Handelsrecht und Lex Mercatoria: Praeferenzursprung Und Lieferantenerklaerung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Praeferenzursprung Und Lieferantenerklaerung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Praeferenzursprung Und Lieferantenerklaerung

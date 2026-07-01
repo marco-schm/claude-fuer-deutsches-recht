@@ -1,6 +1,6 @@
 ---
 name: pralr-049-abschlussmemo-historische-tragfaehigkeit
-description: "PrALR: Abschlussmemo mit Quellenstand, Rechtsstand, Unsicherheiten, Fortwirkungsrisiko und nächsten Schritten erstellen."
+description: "Wenn es um Abschlussmemo in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Pralr 049 Abschlussmemo Historische Tragfaehigkeit; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Abschlussmemo

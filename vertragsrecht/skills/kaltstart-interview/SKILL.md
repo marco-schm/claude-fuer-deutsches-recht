@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "'Führt das Erstgespräch zur Mandatsaufnahme im Vertragsrecht durch und schreibt das Kanzlei- bzw. Mandatsprofil. Lädt beim ersten Einsatz des Plugins, wenn die Konfigurationsdatei noch Platzhalter enthält oder wenn der Nutzer 'Plugin einrichten', 'Profil erstellen', 'Erstgespräch starten' oder 'V..."
+description: "Wenn es um Erstgespräch Vertragsrecht — Mandatsaufnahme in Vertragsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstgespräch Vertragsrecht — Mandatsaufnahme

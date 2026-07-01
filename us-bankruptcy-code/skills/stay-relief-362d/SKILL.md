@@ -1,6 +1,6 @@
 ---
 name: stay-relief-362d
-description: "Prüft Motions for Relief from Stay: cause, lack of adequate protection, no equity, not necessary to reorganization im US Bankruptcy Code."
+description: "Wenn es um Stay Relief Paragraf 362(d) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stay Relief § 362(d)

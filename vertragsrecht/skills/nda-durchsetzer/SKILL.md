@@ -1,6 +1,6 @@
 ---
 name: nda-durchsetzer
-description: "'Überarbeitet ein NDA der Gegenseite **konservativ im Änderungsmodus**, ohne Struktur, Nummerierung, Reihenfolge oder Look-&-Feel zu verändern, und erstellt parallel eine strukturierte Analyse (Executive Summary, struktureller Vergleich, Klausel-für-Klausel-Vergleich mit Risikoampel GÜNSTIG/NEUTR..."
+description: "Wenn es um NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse

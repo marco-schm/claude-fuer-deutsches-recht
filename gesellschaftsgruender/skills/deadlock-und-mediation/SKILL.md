@@ -1,6 +1,6 @@
 ---
 name: deadlock-und-mediation
-description: "Entwirft Deadlock-Mechanismen, Eskalationsleitern und Mediationsklauseln im Gesellschaftsgruender."
+description: "Wenn es um Deadlock und Mediation in gesellschaftsgründer — Gründungsassistent für deutsche geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Deadlock und Mediation

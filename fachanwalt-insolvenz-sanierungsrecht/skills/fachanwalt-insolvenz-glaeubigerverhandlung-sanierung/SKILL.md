@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-glaeubigerverhandlung-sanierung
-description: "Sanierungs-Verhandlung mit Gläubigern vor und in der Insolvenz nach StaRUG und InsO. Anwendungsfall Schuldner will außergerichtlichen Vergleich oder InsO-Plan mit Gläubigern verhandeln. Normen § 270d InsO Schutzschirm §§ 4-65 StaRUG Restrukturierungsplan §§ 112 113 BetrVG Sozialplan § 125 InsO. Prüfraster Gläubigerausschuss-Zusammensetzung Verhandlungsposition Masseverbindlichkeiten Plan-Annahme 75-Prozent-Mehrheit Cross-class Cramdown. Output Verhandlungsstrategie-Memo mit Gläubigerkorrespondenz Vergleichsangebot Plan-Grobentwurf und Zeitplan. Abgrenzung zu fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan."
+description: "Wenn es um Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm in Fachanwalt Insolvenz- und Sanierungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm

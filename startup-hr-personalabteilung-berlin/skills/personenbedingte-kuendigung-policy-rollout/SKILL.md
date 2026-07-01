@@ -1,6 +1,6 @@
 ---
 name: personenbedingte-kuendigung-policy-rollout
-description: "Berliner Start-up-HR: Personenbedingte Kündigung bei Krankheit: negative Prognose, BEM, Interessenabwägung, Datenschutz und milde Mittel. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Personenbedingte Kuendigung Krankheit in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Personenbedingte Kuendigung Krankheit

@@ -1,6 +1,6 @@
 ---
 name: partei-gewerkschaft-verein-veranstalter
-description: "Hilft Parteien, Gewerkschaften, Vereinen, Initiativen und losen Gruppen bei Veranstalterrolle und interner Verantwortlichkeit im Versammlungsrecht."
+description: "Wenn es um Wer lädt eigentlich ein? in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wer lädt eigentlich ein?

@@ -1,6 +1,6 @@
 ---
 name: risikobewertung-enisa-schweregrad
-description: "Wendet die ENISA-Methodik Recommendations for a methodology of the assessment of severity of personal data breaches auf einen konkreten Vorfall an. Behandelt: Data Processing Context DPC; Ease of Identification EI; Circumstances of Breach CB; Schweregradformel SE = DPC × EI + CB; vier Stufen Low..."
+description: "Wenn es um ENISA-Methodik zur Schweregradbewertung von Datenschutzverletzungen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ENISA-Methodik zur Schweregradbewertung von Datenschutzverletzungen

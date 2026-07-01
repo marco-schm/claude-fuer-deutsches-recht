@@ -1,6 +1,6 @@
 ---
 name: dba-quellensteuer-erstattung-bzst-50c
-description: "Quellensteuerentlastung nach § 50c EStG beim Bundeszentralamt für Steuern BZSt. Anwendungsfall ausländischer Empfaenger deutscher Kapitalertraege Lizenzen oder Verguetungen will deutsche Quellensteuer ermäßigen oder erstatten lassen. Freistellungsbescheinigung Erstattungsantrag. § 50a EStG Steue..."
+description: "Wenn es um Quellensteuer-Entlastung beim BZSt (Paragraf 50c EStG) in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Quellensteuer-Entlastung beim BZSt (§ 50c EStG)

@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-mietforderungen
-description: "Verjährung Mietforderungen: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Beginn, Hemmung, Anerkenntnis, Aufrechnung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbei..."
+description: "Wenn es um Verjährung Mietforderungen: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verjährung Mietforderungen: Fachmodul im Miet- und Wohnungseigentumsrecht

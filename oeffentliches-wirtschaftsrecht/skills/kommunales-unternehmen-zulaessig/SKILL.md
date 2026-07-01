@@ -1,6 +1,6 @@
 ---
 name: kommunales-unternehmen-zulaessig
-description: "Öffentliches Wirtschaftsrecht: Kommunales Unternehmen zulässig. Kommunales Unternehmen zulässig im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht."
+description: "Wenn es um Kommunales Unternehmen Zulässig in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunales Unternehmen Zulässig

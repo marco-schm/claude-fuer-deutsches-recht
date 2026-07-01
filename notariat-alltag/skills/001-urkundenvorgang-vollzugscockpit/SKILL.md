@@ -1,6 +1,6 @@
 ---
 name: 001-urkundenvorgang-vollzugscockpit
-description: "Notariat im Alltag: Kaltstart – Urkundenvorgang und Vollzugscockpit. Strukturierte Eingangsdiagnose für jeden neu aufgenommenen Urkundenvorgang: Beteiligte, Vollzugsvoraussetzungen, Fristenrahmen, Kosten und Wiedervorlage."
+description: "Wenn es um Notariat im Alltag: Kaltstart – Urkundenvorgang und Vollzugscockpit in Notariat im Alltag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Kaltstart – Urkundenvorgang und Vollzugscockpit

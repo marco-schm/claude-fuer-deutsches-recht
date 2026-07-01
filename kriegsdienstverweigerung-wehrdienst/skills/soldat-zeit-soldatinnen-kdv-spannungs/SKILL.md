@@ -1,6 +1,6 @@
 ---
 name: soldat-zeit-soldatinnen-kdv-spannungs
-description: "Prüft KDV, § 55 SG und Nebenfolgen bei Soldaten auf Zeit im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Soldat auf Zeit und KDV in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Soldat auf Zeit und KDV

@@ -1,6 +1,6 @@
 ---
 name: ihl-043-qualitaetskontrolle-pre-shipment
-description: "Internationales Handelsrecht und Lex Mercatoria: Qualitaetskontrolle Pre Shipment. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Qualitaetskontrolle Pre Shipment in Internationales Handelsrecht und Lex Mercatoria geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Qualitaetskontrolle Pre Shipment

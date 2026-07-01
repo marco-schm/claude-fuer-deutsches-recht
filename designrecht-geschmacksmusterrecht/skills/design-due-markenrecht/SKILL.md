@@ -1,6 +1,6 @@
 ---
 name: design-due-markenrecht
-description: "Design-Due-Diligence in M&A und Finanzierung: Register, Rechtekette, Lizenzen, Verletzungsstreit, Abhängigkeit von Einzelentwerfern und Werttreiber im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Design Due Diligence Ma in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Design Due Diligence Ma

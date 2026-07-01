@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Betriebliche Altersversorgung im Konzern: trennt fehlende Tatsachen von fehlenden Belegen (Versorgungsordnung, Pensionsfonds-Vereinbarung, Gutachten Pensionsverpflichtungen), nennt pro Lücke Beweisthema, Beschaffungsweg (BaFin (PSV)), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

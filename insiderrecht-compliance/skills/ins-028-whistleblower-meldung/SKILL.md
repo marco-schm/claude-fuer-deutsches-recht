@@ -1,6 +1,6 @@
 ---
 name: ins-028-whistleblower-meldung
-description: "Spezialskill Insiderrecht fuer Whistleblower-Meldung: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Whistleblower-Meldung in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Whistleblower-Meldung

@@ -1,6 +1,6 @@
 ---
 name: db-010-open-data-portal-und-nutzungsbedingungen
-description: "Datenbankrecht: Open Data Portal und Nutzungsbedingungen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Open Data Portal und Nutzungsbedingungen in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Open Data Portal und Nutzungsbedingungen

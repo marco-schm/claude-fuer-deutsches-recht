@@ -1,6 +1,6 @@
 ---
 name: dfg-praeregistrierung-replication-studies
-description: "Praeregistrierung und Replikationsstudien im DFG-Antrag: Hypothesen ex ante festlegen, registered reports, OSF-Praeregistrierung, Replikationsplaene als eigenstaendiges Vorhaben. DFG-Statement to scientific integrity. Vorteile für Reviewer-Akzeptanz, typische Stolpersteine bei der Formulierung."
+description: "Wenn es um Praeregistrierung und Replikation in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Praeregistrierung und Replikation

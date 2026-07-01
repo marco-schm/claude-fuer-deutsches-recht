@@ -1,6 +1,6 @@
 ---
 name: 03-ermittlungsfuehrung-und-ermittlungsanweisung
-description: "Führt Ermittlungen staatsanwaltschaftlich: Anfangsverdacht, Beweisthema, belastende und entlastende Umstände, konkrete Ermittlungsaufträge, Fristen, Verwertbarkeit und nächste Abschlussentscheidung."
+description: "Wenn es um Ermittlungsführung und Ermittlungsanweisung in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ermittlungsführung und Ermittlungsanweisung

@@ -1,6 +1,6 @@
 ---
 name: lehramtspruefung-lrs-hochschule-masterarbeit
-description: "Prüft Modulprüfung, Staatsprüfung, Praxisphase, Unterrichtsbesuch und Wiederholung im Prüfungsrecht Hochschule."
+description: "Wenn es um Lehramtsprüfung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lehramtsprüfung

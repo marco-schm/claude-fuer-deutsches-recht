@@ -1,6 +1,6 @@
 ---
 name: personenkennziffer-und-grundakte
-description: "Erklärt Registrierung, PK, Grundakte und Zuleitung im BAPersBw-Verfahren im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Personenkennziffer und Grundakte in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Personenkennziffer und Grundakte

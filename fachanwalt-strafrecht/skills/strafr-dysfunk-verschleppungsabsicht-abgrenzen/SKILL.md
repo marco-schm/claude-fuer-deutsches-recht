@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-verschleppungsabsicht-abgrenzen
-description: "Verschleppungsabsicht nach § 244 Abs: 3 Satz 3 StPO als Sonderfall der Ablehnung von Beweisantraegen sauber abgrenzen. Doppelte Voraussetzung des Gerichts. Antrag wuerde nicht wesentlich zur Sachaufklaerung beitragen un..."
+description: "Wenn es um Verschleppungsabsicht nach Paragraf 244 Abs in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verschleppungsabsicht nach § 244 Abs

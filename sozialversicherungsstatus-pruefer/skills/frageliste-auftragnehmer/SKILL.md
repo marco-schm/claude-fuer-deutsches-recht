@@ -1,6 +1,6 @@
 ---
 name: frageliste-auftragnehmer
-description: "Erstellt präzise Fragen an Auftragnehmer/Freelancer/Geschäftsführer für Statusprüfung im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Frageliste Auftragnehmer in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frageliste Auftragnehmer

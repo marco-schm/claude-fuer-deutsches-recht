@@ -1,6 +1,6 @@
 ---
 name: international-expansion-us-uk
-description: "Internationale Expansion für Fashion Brands vorbereiten: EU, UK, USA, Zoll, Labeling, Produktsicherheit, IP und lokale Counsel-Fragen im Fashion Law Moderecht."
+description: "Wenn es um International Expansion Us Uk in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # International Expansion Us Uk

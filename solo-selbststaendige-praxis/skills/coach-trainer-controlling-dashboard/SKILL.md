@@ -1,6 +1,6 @@
 ---
 name: coach-trainer-controlling-dashboard
-description: "Solo-Selbstständige: prüft B2C/B2B, Widerruf, Haftung, Datenschutz und Zertifikatsversprechen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Branchenfälle: Prüft b2c/b2b in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Branchenfälle: Prüft b2c/b2b

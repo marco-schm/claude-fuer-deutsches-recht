@@ -1,6 +1,6 @@
 ---
 name: wahlanfechtung-intern
-description: "Prüft Einspruch gegen interne Vorstandswahl oder Kandidatenaufstellung nach Satzung, Frist, Zuständigkeit und Beweisen."
+description: "Wenn es um Interne Wahlanfechtung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Wahlanfechtung Intern; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Interne Wahlanfechtung

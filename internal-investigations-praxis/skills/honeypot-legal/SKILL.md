@@ -1,6 +1,6 @@
 ---
 name: honeypot-legal
-description: "Bewertet das Risiko, dass die Untersuchung selbst zum Honeypot für Behörden, Gegner, US-Discovery oder Presselecks wird im Internal Investigations Praxis."
+description: "Wenn es um Honeypot-Risiko in Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Honeypot-Risiko in Internal Investigations

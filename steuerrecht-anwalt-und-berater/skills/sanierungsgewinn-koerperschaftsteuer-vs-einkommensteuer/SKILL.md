@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-koerperschaftsteuer-vs-einkommensteuer
-description: "Unterschiede in der Sanierungsertragsbehandlung zwischen Körperschaftsteuer und Einkommensteuer. KSt geht über § 8 Absatz 1 KStG auf § 3a EStG; ESt direkt; unterschiedliche Verlustverrechnung und Antragsstruktur im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Sanierungsgewinn — KSt vs. ESt in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Sanierungsgewinn — KSt vs. ESt

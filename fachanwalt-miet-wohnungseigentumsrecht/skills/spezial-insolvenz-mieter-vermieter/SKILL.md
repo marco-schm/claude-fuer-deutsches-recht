@@ -1,6 +1,6 @@
 ---
 name: spezial-insolvenz-mieter-vermieter
-description: "Insolvenz Mieter/Vermieter: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Kündigungssperren, Masseverbindlichkeit, Kaution, Aussonderung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Insolvenz Mieter/Vermieter in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenz Mieter/Vermieter

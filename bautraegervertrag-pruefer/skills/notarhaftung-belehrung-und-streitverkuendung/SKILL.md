@@ -1,6 +1,6 @@
 ---
 name: notarhaftung-belehrung-und-streitverkuendung
-description: "Prüft notarielle Amtspflichten im Bauträgervertrag: § 17 BeurkG, § 14 BNotO, § 19 BNotO, MaBV-/AGB-Klauselkontrolle, Preisanpassung, § 650m-Sicherheit, Niedrig-Grundstücksanteil, Bezugsurkunden und Streitverkündung."
+description: "Wenn es um Notarhaftung, Belehrung und Streitverkündung in Bauträgervertrag-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notarhaftung, Belehrung und Streitverkündung

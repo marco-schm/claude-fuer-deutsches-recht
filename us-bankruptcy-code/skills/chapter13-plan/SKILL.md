@@ -1,6 +1,6 @@
 ---
 name: chapter13-plan
-description: "Prüft Chapter 13 plan, disposable income, best interests, secured claims, arrears, trustee payments and feasibility im US Bankruptcy Code."
+description: "Wenn es um Chapter 13 Plan Confirmation in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chapter 13 Plan Confirmation

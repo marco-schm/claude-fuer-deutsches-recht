@@ -1,6 +1,6 @@
 ---
 name: fzulg-fristen-form
-description: "FZulG: Fristen, Form, Zuständigkeit und Rechtsweg im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kri..."
+description: "Wenn es um FZulG: Fristen, Form, Zuständigkeit und Rechtsweg in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fzulg Fristen Form; Arbeitsfeld: Forschungszulage-Antragstellung."
 ---
 
 # FZulG: Fristen, Form, Zuständigkeit und Rechtsweg

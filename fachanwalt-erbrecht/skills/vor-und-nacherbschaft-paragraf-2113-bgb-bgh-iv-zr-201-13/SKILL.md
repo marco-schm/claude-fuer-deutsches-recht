@@ -1,6 +1,6 @@
 ---
 name: vor-und-nacherbschaft-paragraf-2113-bgb-bgh-iv-zr-201-13
-description: "Vor Und Nacherbschaft Paragraf 2113 BGB BGH Iv Zr 201 13: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Vor Und Nacherbschaft Paragraf 2113 BGB BGH Iv Zr 201 13 in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vor Und Nacherbschaft Paragraf 2113 BGB BGH Iv Zr 201 13

@@ -1,6 +1,6 @@
 ---
 name: themen-fristennotiz-und-naechster-schritt
-description: "Themen: Fristennotiz und nächster Schritt: Themen: Fristennotiz und nächster Schritt."
+description: "Wenn es um Themen: Fristennotiz und nächster Schritt in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Themen: Fristennotiz und nächster Schritt

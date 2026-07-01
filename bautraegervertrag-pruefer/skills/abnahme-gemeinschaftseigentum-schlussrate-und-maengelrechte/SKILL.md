@@ -1,6 +1,6 @@
 ---
 name: abnahme-gemeinschaftseigentum-schlussrate-und-maengelrechte
-description: "Abnahmeprüfung im Bauträgervertrag: Sondereigentum, Gemeinschaftseigentum, Vertreter-/Sachverständigenabnahme, Erstverwalter, § 640 BGB, § 634a BGB, § 3 Abs. 2 MaBV, Schlussrate, Verjährungsbeginn und Nachzügler."
+description: "Wenn es um Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte

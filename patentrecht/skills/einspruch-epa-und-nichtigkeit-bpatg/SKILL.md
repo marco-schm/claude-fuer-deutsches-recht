@@ -1,6 +1,6 @@
 ---
 name: einspruch-epa-und-nichtigkeit-bpatg
-description: "Bereitet EPA-Einspruch und deutsche Nichtigkeitsklage vor: Fristen, Zuständigkeit, Angriffsmittel, Stand der Technik, unzulässige Erweiterung, Ausführbarkeit, Priorität, Hilfsanträge und Prozessstrategie im Patentrecht."
+description: "Wenn es um Einspruch und Nichtigkeit in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einspruch und Nichtigkeit

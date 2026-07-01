@@ -1,6 +1,6 @@
 ---
 name: inso-p260-uberwachung-der-planerfullung
-description: "§ 260 InsO (Überwachung der Planerfüllung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 260 InsO (Überwachung der Planerfüllung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsf..."
+description: "Wenn es um Inso P260 Uberwachung Der Planerfullung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 260 InsO (Überwachung der Planerfüllung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

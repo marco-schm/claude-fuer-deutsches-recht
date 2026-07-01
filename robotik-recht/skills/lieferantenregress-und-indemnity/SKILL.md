@@ -1,6 +1,6 @@
 ---
 name: lieferantenregress-und-indemnity
-description: "Baut Regress- und Freistellungskette gegen Zulieferer, Softwareanbieter, Sensorhersteller, Cloudprovider und Integratoren."
+description: "Wenn es um Lieferantenregress und Indemnity in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lieferantenregress und Indemnity

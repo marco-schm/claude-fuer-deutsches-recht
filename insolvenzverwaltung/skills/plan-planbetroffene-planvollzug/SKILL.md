@@ -1,6 +1,6 @@
 ---
 name: plan-planbetroffene-planvollzug
-description: "Planbetroffene im StaRUG-Verfahren sachgerecht auswaehlen und Nichteinbeziehung begründen. §§ 2 4 StaRUG Gestaltbarkeit. Prüfraster: gestaltbare Rechtsverhältnisse Ausnahmen Arbeitnehmer deliktische Forderungen Nichtunternehmer Begründungspflicht. Output: Planbetroffenenregister Nichtbetroffenenb..."
+description: "Wenn es um IV-integrierte Auswahl der Planbetroffenen in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IV-integrierte Auswahl der Planbetroffenen

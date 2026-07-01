@@ -1,6 +1,6 @@
 ---
 name: spezial-urlaub-livequellen-und-rechtsprechungscheck
-description: "Urlaub: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Urlaub: Livequellen- und Rechtsprechungscheck in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Urlaub: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: baulast-ist-nicht-grundbuch
-description: "Erklärt, warum Baulasten nicht im Grundbuch stehen müssen und wie man Baulastenverzeichnis/Grundbuch zusammenliest im Grundbuchamt Praxis."
+description: "Wenn es um Baulast neben Grundbuch in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Baulast neben Grundbuch

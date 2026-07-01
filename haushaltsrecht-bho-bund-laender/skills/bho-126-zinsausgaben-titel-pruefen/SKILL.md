@@ -1,6 +1,6 @@
 ---
 name: bho-126-zinsausgaben-titel-pruefen
-description: "Haushaltsrecht BHO Bund und Länder: Zinsausgaben: Titel prüfen. Titel prüfen für Zinsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Zinsausgaben Titel Pruefen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zinsausgaben Titel Pruefen

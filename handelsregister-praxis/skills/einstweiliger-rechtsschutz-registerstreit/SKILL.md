@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz-registerstreit
-description: "Plant Schutz gegen drohende Eintragung, Verzögerung, Registersperre, Gesellschafterlistenstreit und Vollzugsschäden im Handelsregister Praxis."
+description: "Wenn es um Eilrechtsschutz bei Registerstillstand in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Eilrechtsschutz bei Registerstillstand

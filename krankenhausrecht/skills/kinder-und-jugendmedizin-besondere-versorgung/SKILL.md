@@ -1,6 +1,6 @@
 ---
 name: kinder-und-jugendmedizin-besondere-versorgung
-description: "Kinder- und Jugendmedizin besondere Versorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht."
+description: "Wenn es um Kinder- und Jugendmedizin besondere Versorgung in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kinder- und Jugendmedizin besondere Versorgung

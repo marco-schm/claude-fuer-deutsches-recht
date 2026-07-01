@@ -1,6 +1,6 @@
 ---
 name: behg-brennstoffemissionen
-description: "Nationaler Brennstoffemissionshandel: Verantwortlicher, Brennstoffmengen, Emissionsbericht, Zertifikate und DEHSt im Berichtspflichten."
+description: "Wenn es um BEHG Brennstoffemissionsbericht in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BEHG Brennstoffemissionsbericht

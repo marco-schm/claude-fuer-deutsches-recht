@@ -1,6 +1,6 @@
 ---
 name: feuerwehr-landesrecht-beschluss
-description: "der Länder: Feuerwehr: Landesrecht routen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Feuerwehr Landesrecht Routen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Feuerwehr Landesrecht Routen

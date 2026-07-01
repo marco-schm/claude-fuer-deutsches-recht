@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-bbplg-leitungsvorhaben-stellungnahme-en
-description: "BBPlG Leitungsvorhaben: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: BBPlG Leitungsvorhaben — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: BBPlG Leitungsvorhaben — Stellungnahme-Entwurf

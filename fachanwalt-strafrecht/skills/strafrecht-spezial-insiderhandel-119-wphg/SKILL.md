@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-insiderhandel-119-wphg
-description: "Insiderhandel § 119 WpHG iVm Art: 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Prüfraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Ar..."
+description: "Wenn es um Insiderhandel Paragraf 119 WpHG iVm Art in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insiderhandel § 119 WpHG iVm Art

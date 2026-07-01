@@ -1,6 +1,6 @@
 ---
 name: software-117-archival-adaptation
-description: "Prüft Computerprogrammkopien, essential step, archival copy, maintenance, migration, SaaS und Lizenzgrenzen im Us Copyright Registrierung Verlag."
+description: "Wenn es um Software Paragraf 117 und Copying in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Software § 117 und Copying

@@ -1,6 +1,6 @@
 ---
 name: tom-und-zertifizierungen-pruefen
-description: "Prüfe technische und organisatorische Maßnahmen des KI-Anbieters und seine Zertifizierungen. Maßstab Art. 32 DS-GVO ISO 27001 BSI C5 (Cloud Computing Compliance Criteria Catalogue) SOC zwei Typ zwei TISAX. Zentral für Berufsrecht no training Zero-Retention EU-Hosting Verschluesselung Löschkonzep..."
+description: "Wenn es um TOM und Zertifizierungen prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # TOM und Zertifizierungen prüfen

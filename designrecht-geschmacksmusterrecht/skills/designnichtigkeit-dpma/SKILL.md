@@ -1,6 +1,6 @@
 ---
 name: designnichtigkeit-dpma
-description: "Designnichtigkeit beim DPMA vorbereiten: fehlende Schutzfähigkeit, ältere Designs, technische Bedingtheit, Rechte Dritter, Antrag, Belege und Kostenrisiko im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Designnichtigkeit Dpma in designrecht-geschmacksmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Designnichtigkeit Dpma

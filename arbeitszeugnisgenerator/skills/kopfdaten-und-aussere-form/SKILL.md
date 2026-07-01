@@ -1,6 +1,6 @@
 ---
 name: kopfdaten-und-aussere-form
-description: "Prüfraster und Generierregeln für Briefkopf, Datum, Unterschrift und äußere Form des Arbeitszeugnisses. Fehlerhafte Formalia sind eigenständige Berichtigungspunkte. Enthält die Anforderungen aus BAG (9 AZR 893/98) zur Unterschrift, das Fließtextgebot aus BAG (9 AZR 262/20) und die Regeln zur elektronischen Form seit dem Vierten Bürokratieentlastungsgesetz (ab 1.1.2025)."
+description: "Wenn es um Kopfdaten und äußere Form in Arbeitszeugnisgenerator geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kopfdaten und äußere Form

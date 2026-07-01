@@ -1,6 +1,6 @@
 ---
 name: subsidiary-parent-success-fee-probability
-description: "Konzernmandat Mutter/Tochter: steuert wer ist Mandant: Mutter, Tochter, Vorstand, Projektgesellschaft oder Gruppe zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Konzernmandat Mutter/Tochter in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konzernmandat Mutter/Tochter

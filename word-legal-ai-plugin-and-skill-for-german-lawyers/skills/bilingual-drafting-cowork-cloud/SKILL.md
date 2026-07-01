@@ -1,6 +1,6 @@
 ---
 name: bilingual-drafting-cowork-cloud
-description: "Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert die Sprachklausel (welche Fassung verbindlich), übersetzt Boi..."
+description: "Wenn es um Bilinguales Drafting Deutsch-Englisch in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Bilinguales Drafting Deutsch-Englisch

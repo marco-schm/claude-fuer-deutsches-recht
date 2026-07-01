@@ -1,6 +1,6 @@
 ---
 name: lph-09-red-team-pruefung
-description: "HOAI LPH 9 Objektbetreuung: sucht Widersprüche, vergessene Beteiligte, falsche Annahmen und unklare Zuständigkeit; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 9 Objektbetreuung: Sucht widersprüche in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 9 Objektbetreuung: Sucht widersprüche

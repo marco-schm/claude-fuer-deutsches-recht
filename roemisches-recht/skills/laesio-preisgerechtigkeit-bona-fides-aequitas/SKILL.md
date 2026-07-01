@@ -1,6 +1,6 @@
 ---
 name: laesio-preisgerechtigkeit-bona-fides-aequitas
-description: "Römisches Recht: Laesio enormis nach C. 4.44.2 (Diokletian 285 n.Chr.) - Anfechtung beim Immobilienkauf unter der Hälfte des wahren Werts, Verhältnis zu iustum pretium und späterem Recht im Römisches Recht."
+description: "Wenn es um Laesio enormis und Preisgerechtigkeit in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laesio enormis und Preisgerechtigkeit

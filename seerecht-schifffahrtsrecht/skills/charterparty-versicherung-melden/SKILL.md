@@ -1,6 +1,6 @@
 ---
 name: charterparty-versicherung-melden
-description: "Charterparty: Schadensereignis an Gechartertes Seeschiff unter Charterparty melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht im Seerech..."
+description: "Wenn es um Charterparty – Schadensfall bei Versicherung melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Charterparty – Schadensfall bei Versicherung melden

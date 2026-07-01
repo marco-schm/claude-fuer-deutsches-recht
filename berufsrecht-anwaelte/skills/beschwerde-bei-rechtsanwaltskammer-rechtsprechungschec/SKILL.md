@@ -1,6 +1,6 @@
 ---
 name: beschwerde-bei-rechtsanwaltskammer-rechtsprechungschec
-description: "Anwälte: beschwerde bei rechtsanwaltskammer - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Beschwerde Bei Rechtsanwaltskammer Rechtsprechungschec in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Anwälte: beschwerde bei rechtsanwaltskammer - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: sachverhaltsermittlung-verifikation
-description: "Sachverhaltsermittlung: Compliance-Dokumentation und Aktenvermerk im Immobilienrechtspraxis."
+description: "Wenn es um Sachverhaltsermittlung: Compliance-Dokumentation und Aktenvermerk in Immobilienrechtspraxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sachverhaltsermittlung: Compliance-Dokumentation und Aktenvermerk

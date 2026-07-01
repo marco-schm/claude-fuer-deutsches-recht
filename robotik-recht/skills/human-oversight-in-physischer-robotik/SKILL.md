@@ -1,6 +1,6 @@
 ---
 name: human-oversight-in-physischer-robotik
-description: "Prüft menschliche Aufsicht bei physischer Robotik: Not-Halt, Override, Monitoring, Kompetenz, Eskalation und Verantwortlichkeit."
+description: "Wenn es um Human Oversight in Robotik in robotik-recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Human Oversight in Robotik

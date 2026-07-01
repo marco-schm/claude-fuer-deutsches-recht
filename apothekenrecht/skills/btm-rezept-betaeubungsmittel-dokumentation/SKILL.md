@@ -1,6 +1,6 @@
 ---
 name: btm-rezept-betaeubungsmittel-dokumentation
-description: "BtM-Rezept Betäubungsmittel Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht im Apothekenrecht."
+description: "Wenn es um BtM-Rezept Betäubungsmittel Dokumentation in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # BtM-Rezept Betäubungsmittel Dokumentation

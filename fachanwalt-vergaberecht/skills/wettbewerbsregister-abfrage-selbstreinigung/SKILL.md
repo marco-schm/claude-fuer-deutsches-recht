@@ -1,6 +1,6 @@
 ---
 name: wettbewerbsregister-abfrage-selbstreinigung
-description: "Wettbewerbsregister, Ausschlussgruende und Selbstreinigung praktisch bearbeiten: Abfragepflicht, Paragraphen 123/124 GWB, Paragraph 125 GWB, Compliance-Maßnahmen und Nachweise: Wettbewerbsregister, Ausschlussgruende und Selbstreinigung praktisch bearbeite..."
+description: "Wenn es um Wettbewerbsregister Abfrage Selbstreinigung in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wettbewerbsregister, Ausschlussgruende und Selbstreinigung praktisch bearbeiten: Abfragepflicht, Paragraphen 123/124 GWB, Paragraph 125 GWB, Compliance-Maßnahmen und Nachweise.

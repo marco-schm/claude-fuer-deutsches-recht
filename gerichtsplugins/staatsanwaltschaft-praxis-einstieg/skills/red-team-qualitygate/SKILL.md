@@ -1,6 +1,6 @@
 ---
 name: red-team-qualitygate
-description: "Red-Team-Qualitygate: Praxis-Skill für neue Staatsanwälte zu prüft Ergebnis auf Fristenfehler, Zuständigkeitsfehler, Scheinpräzision und Ton; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Red-Team-Qualitygate in Staatsanwaltschaft Praxis-Einstieg geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team-Qualitygate

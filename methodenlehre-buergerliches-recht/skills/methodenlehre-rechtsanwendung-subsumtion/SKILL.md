@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-rechtsanwendung-subsumtion
-description: "Dieses Skill leitet die vollständige Rechtsanwendung vom Tatbestand bis zur Beweisführung und Belegsicherung an. Es zeigt, wie Tatbestandsmerkmale operationalisiert, Beweismittel tatbestandsspezifisch zugeordnet und Belege methodisch gesichert werden. Besonderes Gewicht liegt auf der Verbindung v..."
+description: "Wenn es um Rechtsanwendung: Tatbestand, Beweis und Belege in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Rechtsanwendung: Tatbestand, Beweis und Belege

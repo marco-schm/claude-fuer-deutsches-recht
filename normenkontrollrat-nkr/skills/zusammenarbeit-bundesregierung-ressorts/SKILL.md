@@ -1,6 +1,6 @@
 ---
 name: zusammenarbeit-bundesregierung-ressorts
-description: "Verhaltens-Skill für die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts. Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstufen Konfliktbewaeltigung Dialog mit dem federfuehrenden Referat und Schnittstelle Bundesministerium der Justiz als institutionelle..."
+description: "Wenn es um NKR-Zusammenarbeit mit Bundesregierung und Ressorts in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # NKR-Zusammenarbeit mit Bundesregierung und Ressorts

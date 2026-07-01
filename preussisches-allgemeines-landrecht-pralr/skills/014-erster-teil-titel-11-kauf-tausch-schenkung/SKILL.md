@@ -1,6 +1,6 @@
 ---
 name: 014-erster-teil-titel-11-kauf-tausch-schenkung
-description: "PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Pralr Erster Teil Titel 11 Kauf Tausch Schenkung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Erster Teil Titel 11 Kauf Tausch Schenkung

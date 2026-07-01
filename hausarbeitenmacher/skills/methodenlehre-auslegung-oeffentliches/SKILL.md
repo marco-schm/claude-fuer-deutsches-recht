@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-auslegung-oeffentliches
-description: "Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Art. 20 GG. Prüfraster Methoden-Auswahl Anwendung bei unbestim..."
+description: "Wenn es um Methodenlehre und Auslegung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Methodenlehre und Auslegung

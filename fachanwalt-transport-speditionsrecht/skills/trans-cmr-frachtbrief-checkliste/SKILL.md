@@ -1,6 +1,6 @@
 ---
 name: trans-cmr-frachtbrief-checkliste
-description: "Checkliste CMR-Frachtbrief: Pflichtangaben Art: 6 CMR, Haftung Frachtfuehrer Art. 17, Hoechsthaftung 8.33 SZR pro Kilogramm. Prüfraster Schadensanzeige Empfaenger."
+description: "Wenn es um Checkliste CMR-Frachtbrief: Pflichtangaben Art in Fachanwalt Transport Speditionsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Checkliste CMR-Frachtbrief: Pflichtangaben Art

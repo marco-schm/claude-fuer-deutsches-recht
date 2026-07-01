@@ -1,6 +1,6 @@
 ---
 name: umv-016-aktenauswertung-behoerdenordner
-description: "Umweltschutzverband Verbandsklage: Aktenauswertung Behördenordner. Aktenauswertung Behördenordner im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Aktenauswertung Behoerdenordner in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Aktenauswertung Behoerdenordner

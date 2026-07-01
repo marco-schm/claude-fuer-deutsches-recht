@@ -1,6 +1,6 @@
 ---
 name: bess-abfall-recycling-rueckbau
-description: "Prüft Rückbaupflichten, Batterieentsorgung, Recycling, Herstellerpflichten und Grundstücksrückgabe im Energierecht."
+description: "Wenn es um Rückbau, Recycling und Batterierecht in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rückbau, Recycling und Batterierecht

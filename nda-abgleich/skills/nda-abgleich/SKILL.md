@@ -1,6 +1,6 @@
 ---
 name: nda-abgleich
-description: "Empfangende Seite soll NDA der Gegenseite prüfen und verhandeln oder Kanzlei will aus mehreren NDAs einen eigenen Standard destillieren. NDA-Verhandlungshilfe. Modus A Destillation: 1 bis n eigene NDAs in konsolidierten Haltelinien-Standard mit Ampelmatrix ROT/GELB/GRUEN. Modus B Redlining: Gegen"
+description: "Wenn es um NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen in NDA-Abgleich geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Nda Abgleich; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen

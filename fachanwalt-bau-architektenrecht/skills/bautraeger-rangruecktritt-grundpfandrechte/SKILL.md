@@ -1,6 +1,6 @@
 ---
 name: bautraeger-rangruecktritt-grundpfandrechte
-description: "Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung: Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie..."
+description: "Wenn es um Rangrücktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rangrücktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung

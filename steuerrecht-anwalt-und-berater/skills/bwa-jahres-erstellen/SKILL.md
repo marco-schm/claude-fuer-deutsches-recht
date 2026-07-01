@@ -1,6 +1,6 @@
 ---
 name: bwa-jahres-erstellen
-description: "Jahres-BWA als Ergaenzung zum Jahresabschluss. Anwendungsfall Jahresabschluss-Begleitung mit BWA für das Gesamtjahr inkl Vorjahresvergleich Mehrjahrestrend und Mandantenpraesentation. Methodik kumulierte BWA mit Korrekturen Sondereffekten Mehrjahresvergleich. Output Jahres-BWA als Praesentations-"
+description: "Wenn es um Jahres-BWA — Ergaenzung zum Jahresabschluss in Steuerrecht – Steuerberater und Anwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Bwa Jahres Erstellen; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Jahres-BWA — Ergaenzung zum Jahresabschluss

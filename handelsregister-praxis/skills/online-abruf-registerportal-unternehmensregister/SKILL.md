@@ -1,6 +1,6 @@
 ---
 name: online-abruf-registerportal-unternehmensregister
-description: "Führt durch Handelsregister, Unternehmensregister, Bekanntmachungen, Chronologie, Ausdrucke, Screenshots und Beleglog im Handelsregister Praxis."
+description: "Wenn es um Registerabruf richtig dokumentieren in Handelsregister Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Registerabruf richtig dokumentieren

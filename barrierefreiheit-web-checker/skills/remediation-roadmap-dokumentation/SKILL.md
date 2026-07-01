@@ -1,6 +1,6 @@
 ---
 name: remediation-roadmap-dokumentation
-description: "Erstellt Maßnahmenplan für Barrierefreiheits-Fixes: Priorisierung, Nutzerimpact, Rechtsrisiko, Aufwand, Owner, Tickets, Re-Test, Nachweisakte und Management-Reporting. Output: Roadmap und Dokumentation im Barrierefreiheit Web Checker."
+description: "Wenn es um Remediation-Roadmap und Dokumentation in Barrierefreiheit Web Checker geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Remediation-Roadmap und Dokumentation

@@ -1,6 +1,6 @@
 ---
 name: spezial-euipo-dokumentenmatrix-und-lueckenliste
-description: "Euipo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Euipo: Dokumentenmatrix, Lückenliste und Nachforderung in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Euipo: Dokumentenmatrix, Lückenliste und Nachforderung

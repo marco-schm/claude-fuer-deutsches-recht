@@ -1,6 +1,6 @@
 ---
 name: excel-reiter-1-ueberblick
-description: "Baut Reiter 1 der Step-Plan-Excel: Überblick aller fuer die Durchsetzung erforderlichen Dokumente. Spalten Dokument, Datum, Verfuegbarkeit, Unterschriftsstatus, Unterzeichnet von (Partei und Funktion), Rechtsgrundlage (Klausel im zugrunde liegenden Vertrag) und Zweck. Mit Ampelfaerbung und Sorti..."
+description: "Wenn es um Reiter 1 Überblick Statuslage in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Reiter 1 Überblick Statuslage

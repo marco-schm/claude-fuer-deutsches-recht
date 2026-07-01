@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-erweiterte-sicherheit-7
-description: "MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum Ratenmodell: Skill klaert die Voraussetzungen Praxisfragen und das Risiko-Profil aus Erwerberperspektive. Liefert Prüfraster."
+description: "Wenn es um MaBV Paragraf 7 erweiterte Sicherheitsleistung — Alternative zum Ratenmodell in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum Ratenmodell

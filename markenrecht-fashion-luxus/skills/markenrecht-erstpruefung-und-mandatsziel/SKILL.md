@@ -1,6 +1,6 @@
 ---
 name: markenrecht-erstpruefung-und-mandatsziel
-description: "Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel in markenrecht-fashion-luxus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel

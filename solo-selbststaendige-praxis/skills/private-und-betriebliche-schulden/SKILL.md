@@ -1,6 +1,6 @@
 ---
 name: private-und-betriebliche-schulden
-description: "Solo-Selbstständige: trennt Konten, Pfändung, P-Konto und Betriebsfortführung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Krise Schulden und Neustart: Trennt konten in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krise Schulden und Neustart: Trennt konten

@@ -1,6 +1,6 @@
 ---
 name: wirtschaftsrecht-im-20-jahrhundert
-description: "Deutsche Rechtsgeschichte: Wirtschaftsrecht im 20. Jahrhundert. Kriegswirtschaftsrecht 1914-1918, Weimarer Wirtschaftsrecht, NS-Wirtschaftslenkung, Soziale Marktwirtschaft und Ordoliberalismus im Deutsche Rechtsgeschichte."
+description: "Wenn es um Wirtschaftsrecht im 20. Jahrhundert in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsrecht im 20. Jahrhundert

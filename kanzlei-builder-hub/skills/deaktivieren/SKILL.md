@@ -1,6 +1,6 @@
 ---
 name: deaktivieren
-description: "Einzelne Skills oder Plugins temporaer deaktivieren ohne Deinstallation. Normen: technisch/intern. Prüfraster: Abhaengigkeiten, Deaktivierungsumfang, Reaktivierungsweg. Output: Deaktivierungsbestätigung. Abgrenzung: nicht vollständige Deinstallation im Kanzlei Builder Hub."
+description: "Wenn es um /deaktivieren — Skill deaktivieren (ohne Dateilöschung) in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # /deaktivieren — Skill deaktivieren (ohne Dateilöschung)

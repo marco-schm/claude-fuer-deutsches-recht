@@ -1,6 +1,6 @@
 ---
 name: mittlere-art-und-guete-und-din
-description: "Prueft den werkvertraglichen Mindeststandard: anerkannte Regeln der Technik zum Zeitpunkt der Abnahme als Pflichtmassstaab nach Paragraf 633 BGB. DIN-Normen sind keine automatischen anerkannten Regeln der Technik. Klauseln die den Stichtag vorverlegen oder nur auf DIN-Verweise zurueckgreifen sind rot."
+description: "Wenn es um Mittlere Art und Güte und DIN-Normen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mittlere Art und Güte und DIN-Normen

@@ -1,6 +1,6 @@
 ---
 name: anwaltsgericht-brao-ueberblick
-description: "Anwaltsgericht nach BRAO Überblick: prüft Rüge, anwaltsgerichtliches Verfahren, Kammer, Generalstaatsanwaltschaft, Maßnahmen und Rechtsmittel in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtlic..."
+description: "Wenn es um Anwaltsgericht nach BRAO Überblick in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwaltsgericht nach BRAO Überblick

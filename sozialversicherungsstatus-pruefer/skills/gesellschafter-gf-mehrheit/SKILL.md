@@ -1,6 +1,6 @@
 ---
 name: gesellschafter-gf-mehrheit
-description: "Prüft beherrschenden Gesellschafter-Geschäftsführer mit Kapitalmehrheit und Statusfolgen im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Mehrheits-Gesellschafter-Geschäftsführer in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mehrheits-Gesellschafter-Geschäftsführer

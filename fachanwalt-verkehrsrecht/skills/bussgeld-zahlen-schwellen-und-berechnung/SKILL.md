@@ -1,6 +1,6 @@
 ---
 name: bussgeld-zahlen-schwellen-und-berechnung
-description: "Bussgeld: Zahlen, Schwellenwerte und Berechnung: Bussgeld: Zahlen, Schwellenwerte und Berechnung."
+description: "Wenn es um Bussgeld: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Verkehrsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Bussgeld: Zahlen, Schwellenwerte und Berechnung

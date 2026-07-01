@@ -1,6 +1,6 @@
 ---
 name: massenpruefung-interessen
-description: "Massenpruefung: Mehrparteienkonflikt und Interessenmatrix: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kr..."
+description: "Wenn es um Massenpruefung: Mehrparteienkonflikt und Interessenmatrix in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Massenpruefung Interessen; Arbeitsfeld: Tabellenreview 3D."
 ---
 
 # Massenpruefung: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: schuldnerin-mit-immobilie
-description: "Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse: Normanker: InsO §§ 35 und 49; ZVG; BGB..."
+description: "Wenn es um Schuldnerin Mit Immobilie in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.

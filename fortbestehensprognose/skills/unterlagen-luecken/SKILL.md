@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fortbestehensprognose StaRUG/InsO: trennt fehlende Tatsachen von fehlenden Belegen (Liquiditätsplan 24 Monate, Erfolgsplan, Bilanz), nennt pro Lücke Beweisthema, Beschaffungsweg (Insolvenzgericht), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

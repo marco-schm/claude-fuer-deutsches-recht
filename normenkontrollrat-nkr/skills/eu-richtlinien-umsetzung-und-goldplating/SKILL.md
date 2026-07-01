@@ -1,6 +1,6 @@
 ---
 name: eu-richtlinien-umsetzung-und-goldplating
-description: "Detailskill EU-Richtlinienumsetzung und Goldplating-Vermeidung. Beschreibt 1:1-Umsetzungsprinzip Prüfraster für Goldplating Delta-Berechnung und Bezug zur Better-Regulation-Methodik der EU-Kommission. Mit Prüf-Checkliste Mustertexten und Standard-Argumentation gegen nationale Verschaerfung."
+description: "Wenn es um NKR-EU-Richtlinienumsetzung und Goldplating-Vermeidung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NKR-EU-Richtlinienumsetzung und Goldplating-Vermeidung

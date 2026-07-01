@@ -1,6 +1,6 @@
 ---
 name: esg-greenwashing-klimaklagen-verbandsklage
-description: "Esg Greenwashing Csrd: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Umweltrecht."
+description: "Wenn es um ESG, CSRD und Greenwashing-Verteidigung in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ESG, CSRD und Greenwashing-Verteidigung

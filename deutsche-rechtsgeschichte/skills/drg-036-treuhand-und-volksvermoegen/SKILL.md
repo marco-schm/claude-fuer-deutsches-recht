@@ -1,6 +1,6 @@
 ---
 name: drg-036-treuhand-und-volksvermoegen
-description: "Deutsche Rechtsgeschichte: Treuhand Und Volksvermoegen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Treuhand Und Volksvermoegen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Treuhand Und Volksvermoegen

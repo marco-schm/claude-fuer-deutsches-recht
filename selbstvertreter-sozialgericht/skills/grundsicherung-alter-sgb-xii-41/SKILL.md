@@ -1,6 +1,6 @@
 ---
 name: grundsicherung-alter-sgb-xii-41
-description: "Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41 ff. SGB XII. Skill klaert den Anspruch ab Erreichen der Regelaltersgrenze oder bei dauerhafter EM die Bedarfspruefung und die Berechnung. Liefert Antragsvorlage."
+description: "Wenn es um Grundsicherung Alter Sgb Xii 41 in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundsicherung Alter Sgb Xii 41

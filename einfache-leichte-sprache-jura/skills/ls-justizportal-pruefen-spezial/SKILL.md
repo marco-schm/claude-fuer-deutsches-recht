@@ -1,6 +1,6 @@
 ---
 name: ls-justizportal-pruefen-spezial
-description: "Spezialfall Justizportal in Leichte Sprache prüfen: Bayerisches Justizportal, JustizOnline, beA-Frontend. Konkrete Verbesserungsvorschlaege für Navigation, Wegleitsysteme, Antragsformulare. Prüfraster nach Inclusion Europe Regeln."
+description: "Wenn es um LS: Justizportal-Spezial in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LS: Justizportal-Spezial

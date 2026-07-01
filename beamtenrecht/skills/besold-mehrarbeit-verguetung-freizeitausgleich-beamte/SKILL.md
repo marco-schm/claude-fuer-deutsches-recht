@@ -1,6 +1,6 @@
 ---
 name: besold-mehrarbeit-verguetung-freizeitausgleich-beamte
-description: "Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Besold Mehrarbeit Vergütung Freizeitausgleich Beamte in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besold Mehrarbeit Vergütung Freizeitausgleich Beamte

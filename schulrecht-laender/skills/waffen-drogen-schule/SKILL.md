@@ -1,6 +1,6 @@
 ---
 name: waffen-drogen-schule
-description: "Prüft Verdachtsfälle, Durchsuchung, Ordnungsmaßnahme, Polizei und Prävention im Schulrecht Länder."
+description: "Wenn es um Waffen, Drogen und Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Waffen, Drogen und Schule

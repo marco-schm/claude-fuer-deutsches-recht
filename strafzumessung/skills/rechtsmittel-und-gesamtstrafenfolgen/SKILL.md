@@ -1,6 +1,6 @@
 ---
 name: rechtsmittel-und-gesamtstrafenfolgen
-description: "Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Strafzumessung."
+description: "Wenn es um Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung in Strafzumessung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung

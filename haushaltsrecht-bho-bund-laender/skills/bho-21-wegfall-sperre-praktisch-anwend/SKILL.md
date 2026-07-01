@@ -1,6 +1,6 @@
 ---
 name: bho-21-wegfall-sperre-praktisch-anwend
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 21 Wegfall Sperre praktisch anwenden. BHO § 21 Wegfall Sperre praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret..."
+description: "Wenn es um Bho 21 Wegfall Sperre Praktisch Anwend in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 21 Wegfall Sperre Praktisch Anwend

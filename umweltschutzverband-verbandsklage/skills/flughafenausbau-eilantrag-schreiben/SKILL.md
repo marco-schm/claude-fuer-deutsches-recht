@@ -1,6 +1,6 @@
 ---
 name: flughafenausbau-eilantrag-schreiben
-description: "Umweltschutzverband Verbandsklage: Flughafenausbau: Eilantrag schreiben im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Flughafenausbau Eilantrag Schreiben in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Flughafenausbau Eilantrag Schreiben

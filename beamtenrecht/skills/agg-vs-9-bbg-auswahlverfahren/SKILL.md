@@ -1,6 +1,6 @@
 ---
 name: agg-vs-9-bbg-auswahlverfahren
-description: "Skill zum Verhältnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach § 9 BBG bzw. § 9 BeamtStG. Klaert Anwendbarkeit der AGG-Vorschriften auf Auswahlverfahren der öffentlichen Hand Beweislastregeln Anhörung und Anspruchskonkurrenz zum bewerbungsverfahrensr..."
+description: "Wenn es um AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AGG und § 9 BBG — Anspruchskonkurrenz im Auswahlverfahren

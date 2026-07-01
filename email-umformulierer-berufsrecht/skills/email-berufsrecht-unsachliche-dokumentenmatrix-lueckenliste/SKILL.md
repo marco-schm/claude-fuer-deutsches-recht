@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-unsachliche-dokumentenmatrix-lueckenliste
-description: "Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfa..."
+description: "Wenn es um Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung

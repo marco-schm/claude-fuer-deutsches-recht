@@ -1,6 +1,6 @@
 ---
 name: d-o-claims-made-innenhaftung-43-gmbhg
-description: "D&O-Versicherung: Claims-made-Prinzip, Pflichtverletzung, Innenhaftung, Ausschlüsse, Wissentlichkeit, Abwehrkosten und Side-A/B/C-Strukturen im Versicherungsrecht."
+description: "Wenn es um D&O: Claims-made, Innenhaftung und Organstreit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # D&O: Claims-made, Innenhaftung und Organstreit

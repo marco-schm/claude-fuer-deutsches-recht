@@ -1,6 +1,6 @@
 ---
 name: rom-105-justinian-novellen-und-griechische-rechtskultur
-description: "Römisches Recht: Justinianische Novellen, griechische Rechtssprache, kaiserliche Gesetzgebung und Übergang in byzantinische Rechtskultur."
+description: "Wenn es um Justinianische Novellen und griechische Rechtskultur in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Justinianische Novellen und griechische Rechtskultur

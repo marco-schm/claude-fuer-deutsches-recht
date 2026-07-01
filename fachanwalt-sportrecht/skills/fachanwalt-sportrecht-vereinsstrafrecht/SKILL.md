@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-vereinsstrafrecht
-description: "Workflow-Skill zu fachanwalt sportrecht vereinsstrafrecht. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Wenn es um Vereinsstrafrecht in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Sportrecht Vereinsstrafrecht; Arbeitsfeld: Fachanwalt Sportrecht."
 ---
 
 # Vereinsstrafrecht

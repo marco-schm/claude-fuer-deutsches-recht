@@ -1,6 +1,6 @@
 ---
 name: defensive-drafting-deutscher-kanzleistil
-description: "Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Änderungsvorbehalte, kurze Verjährungsverkuerzung, Nachhaftung der Geschäftsführung, Lock-in-Mechanismen Auto-Re..."
+description: "Wenn es um Defensive Drafting und Fallen-Erkennung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Defensive Drafting und Fallen-Erkennung

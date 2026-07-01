@@ -1,6 +1,6 @@
 ---
 name: lph-09-vertrag-und-beauftragungsumfang
-description: "HOAI LPH 9 Objektbetreuung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 9 Objektbetreuung: Ordnet vertrag in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 9 Objektbetreuung: Ordnet vertrag

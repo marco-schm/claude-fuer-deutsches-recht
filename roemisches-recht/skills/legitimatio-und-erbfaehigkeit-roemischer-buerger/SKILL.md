@@ -1,6 +1,6 @@
 ---
 name: legitimatio-und-erbfaehigkeit-roemischer-buerger
-description: "Legitimatio und Erbfaehigkeit im roemischen Recht: wer konnte erben? Skill behandelt die Trennung zivilrechtlicher und praetorischer Erbenstellung Status civitatis als Voraussetzung Sklaven und Peregrini-Sonderregeln. Liefert Quellenmatrix im Römisches Recht."
+description: "Wenn es um Rom 147 Legitimatio Und Erbfaehigkeit Roemischer Buerger in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 147 Legitimatio Und Erbfaehigkeit Roemischer Buerger

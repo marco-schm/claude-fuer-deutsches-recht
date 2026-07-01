@@ -1,6 +1,6 @@
 ---
 name: eu-computer-programs-directive
-description: "Prüft EU-Richtlinie 2009/24/EG, Schutzumfang, Arbeitnehmerregel, Dekompilierung und Vertragsgrenzen im Softwarerecht De Eu Us."
+description: "Wenn es um EU Computer Programs Directive in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU Computer Programs Directive

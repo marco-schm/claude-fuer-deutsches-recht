@@ -1,6 +1,6 @@
 ---
 name: gebrauchsmuster-kaltstart-interview
-description: "Geführtes Kaltstart-Interview für Gebrauchsmuster: Erfindung, Unterlagen, Veröffentlichung, Patentfamilie, Stand der Technik, Gegner, Budget und gewünschter Output."
+description: "Wenn es um Gebrauchsmuster Kaltstart Interview in gebrauchsmusterrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Gebrauchsmuster Kaltstart Interview

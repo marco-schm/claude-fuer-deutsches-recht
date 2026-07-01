@@ -1,6 +1,6 @@
 ---
 name: masseverbindlichkeit-abgrenzen
-description: "Masseverbindlichkeiten von Insolvenzforderungen abgrenzen: Anwendungsfall Insolvenzverwalter erkennt Forderung die nach Verfahrenseroeffnung entstanden sein koennte und muss klären ob es Masseverbindlichkeit oder einfache Insolvenzforderung ist. §§ 53-55 InsO Masseverbindlichkeiten, §§ 38-39 Ins..."
+description: "Wenn es um Masseverbindlichkeit abgrenzen in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Masseverbindlichkeit abgrenzen

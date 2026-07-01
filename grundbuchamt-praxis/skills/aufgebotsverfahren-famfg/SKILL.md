@@ -1,6 +1,6 @@
 ---
 name: aufgebotsverfahren-famfg
-description: "Prüft Zuständigkeit, Antragsberechtigung, Glaubhaftmachung, Aufgebotsfrist, öffentliche Bekanntmachung und Beschlussverwertung im Grundbuchamt Praxis."
+description: "Wenn es um Aufgebotsverfahren planen in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufgebotsverfahren planen

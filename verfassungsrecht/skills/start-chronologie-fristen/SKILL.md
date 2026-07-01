@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Verfassungsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig:..."
+description: "Wenn es um Verfassungsrecht — Allgemein in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Verfassungsrecht — Allgemein

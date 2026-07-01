@@ -1,6 +1,6 @@
 ---
 name: anlagenmatrix-csv-xlsx-aufbau
-description: "Entwirft eine robuste Anlagenmatrix für große Verfahren mit Dok-ID, Nummernkreisen, Schriftsatzstelle, Beweiszweck, Quelle, Hash, Status, Datenschutz und Nachreichung."
+description: "Wenn es um Anlagenmatrix CSV/XLSX Aufbau in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anlagenmatrix CSV/XLSX Aufbau

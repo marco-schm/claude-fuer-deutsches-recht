@@ -1,6 +1,6 @@
 ---
 name: sondergerichte-und-justizgeschichte
-description: "Deutsche Rechtsgeschichte: Sondergerichte und NS-Justizgeschichte. Volksgerichtshof, Sondergerichte 1933, Kriegsgerichtsbarkeit, NS-Richter nach 1945 und Aufarbeitung durch Ingo Mueller im Deutsche Rechtsgeschichte."
+description: "Wenn es um Sondergerichte und NS-Justizgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sondergerichte und NS-Justizgeschichte

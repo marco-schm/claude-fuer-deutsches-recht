@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-ausgleichsanspruch-89b-mit-datenbeweis
-description: "Rechtsabteilungs-Fachmodul für Ausgleichsanspruch § 89b mit Datenbeweis: Neukunden, Unternehmervorteil, Billigkeit und Abwanderungsquote werden tabellarisch bewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsvertreterrecht."
+description: "Wenn es um Rechtsabteilung: Ausgleichsanspruch Paragraf 89b mit Datenbeweis in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Rechtsabteilung: Ausgleichsanspruch § 89b mit Datenbeweis

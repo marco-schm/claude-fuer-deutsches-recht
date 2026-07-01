@@ -1,6 +1,6 @@
 ---
 name: onboarding-verwaltungsanweisungen
-description: "Methodik zur Nutzung und Abgrenzung von Verwaltungsanweisungen im Steuerrecht — BMF-Schreiben Anwendungserlass zur AO Umsatzsteuer-Anwendungserlass Einkommen- und Koerperschaftsteuer-Richtlinien Erbschaftsteuer-Hinweise. Anwendungsfall Berater muss entscheiden ob ein BMF-Schreiben für Mandant gue..."
+description: "Wenn es um BMF-Schreiben AEAO UStAE EStR — Verwaltungsanweisungen richtig nutzen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BMF-Schreiben AEAO UStAE EStR — Verwaltungsanweisungen richtig nutzen

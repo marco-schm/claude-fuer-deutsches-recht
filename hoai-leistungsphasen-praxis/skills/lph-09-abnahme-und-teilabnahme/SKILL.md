@@ -1,6 +1,6 @@
 ---
 name: lph-09-abnahme-und-teilabnahme
-description: "HOAI LPH 9 Objektbetreuung: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 9 Objektbetreuung: Ordnet abnahme in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 9 Objektbetreuung: Ordnet abnahme

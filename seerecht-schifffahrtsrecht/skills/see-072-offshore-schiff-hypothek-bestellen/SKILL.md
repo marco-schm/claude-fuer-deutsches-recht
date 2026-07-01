@@ -1,6 +1,6 @@
 ---
 name: see-072-offshore-schiff-hypothek-bestellen
-description: "See- und Schifffahrtsrecht: Offshore-Schiff: Hypothek bestellen. Hypothek bestellen für Offshore-Schiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Offshore Schiff Hypothek Bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Offshore Schiff Hypothek Bestellen

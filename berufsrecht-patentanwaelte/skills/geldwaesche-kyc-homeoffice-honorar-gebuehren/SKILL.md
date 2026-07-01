@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-kyc-homeoffice-honorar-gebuehren
-description: "Geldwäsche und KYC: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Risikomanagement, Identifizierung, Verdachtsmeldung und Dokumentation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
+description: "Wenn es um Geldwäsche und KYC in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Geldwäsche und KYC

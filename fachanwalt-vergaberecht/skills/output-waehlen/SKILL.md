@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Vergaberecht: stimmt Adressat (Bieter, Öffentlicher Auftraggeber, Vergabekammer), Frist (§ 160 III GWB Rüge unverzüglich (10 Tage)) und Form auf den Zweck ab — typische Outputs: Rüge, Nachprüfungsantrag VK, Sofortige Beschwerde OLG."
+description: "Wenn es um Output wählen in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

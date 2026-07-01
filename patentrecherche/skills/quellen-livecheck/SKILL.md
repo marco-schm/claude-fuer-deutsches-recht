@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Quellen-Live-Check für Patentrecherche (FTO, Validity, Family-Watch): prüft Normen (PatG § 3 Neuheit, § 4 Erfinderischer Schritt, EPÜ Art. 54/56, PCT) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt DPMA und Quellenhygiene nach references/quellenhygiene.md."
+description: "Wenn es um Rechtsquellen-Livecheck in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsquellen-Livecheck

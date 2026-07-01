@@ -1,6 +1,6 @@
 ---
 name: zwangsbehandlung-beweislast-darlegungslast
-description: "Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe i..."
+description: "Wenn es um Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zwangsbehandlung Beweislast Darlegungslast; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-erbrecht
-description: "Erbrechtsmandat schnell einordnen und Sofortmassnahmen bestimmen: §§ 1922 1944 2303 BGB §§ 342 ff. FamFG. Prüfraster: Erbfolge Testament Ausschlagungsfrist Pflichtteil Nachlassinsolvenz. Outp..."
+description: "Wenn es um Erbrechtsmandat schnell einordnen und Sofortmassnahmen bestimmen in Fachanwalt Erbrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbrechtsmandat schnell einordnen und Sofortmassnahmen bestimmen

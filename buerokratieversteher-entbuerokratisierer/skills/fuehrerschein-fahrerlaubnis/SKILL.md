@@ -1,6 +1,6 @@
 ---
 name: fuehrerschein-fahrerlaubnis
-description: "Routet Entziehung, MPU, Punkte, Fahrverbot, Neuerteilung, Anhörung und Widerspruch im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Führerschein / Fahrerlaubnis in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Führerschein / Fahrerlaubnis

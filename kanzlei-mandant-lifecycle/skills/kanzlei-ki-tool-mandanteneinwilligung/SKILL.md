@@ -1,6 +1,6 @@
 ---
 name: kanzlei-ki-tool-mandanteneinwilligung
-description: "KI-Tool und Mandanteneinwilligung: steuert KI-Einsatz im Mandat offenlegen, absichern, begrenzen und dokumentieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um digitale Werkzeuge-Tool und Mandanteneinwilligung in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI-Tool und Mandanteneinwilligung

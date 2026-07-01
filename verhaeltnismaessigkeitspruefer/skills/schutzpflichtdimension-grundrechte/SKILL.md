@@ -1,6 +1,6 @@
 ---
 name: schutzpflichtdimension-grundrechte
-description: Schutzpflichtdimension der Grundrechte als zweite Saeule neben der Abwehrfunktion. Behandelt insbesondere die Schutzpflicht aus Art. 3 Abs. 3 Satz 2 GG bei Behinderung wie sie im Triage-Beschluss des BVerfG vom 16.12.2021 anerkannt wurde. Verhältnismäßigkeit wirkt hier als Untermassverbot. Erklaert wann der Staat aktiv handeln muss und wie die Schutzpflicht ueber die Drittwirkung in Konstellationen zwischen Privaten hineinreicht.
+description: "Wenn es um Schutzpflichtdimension — Verhältnismäßigkeit als Untermassverbot in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schutzpflichtdimension — Verhältnismäßigkeit als Untermassverbot

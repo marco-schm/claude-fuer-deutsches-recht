@@ -1,6 +1,6 @@
 ---
 name: hochschule-professoren-kommunalbeamte
-description: "Hochschulbeamte und Professoren: Berufung, W-Besoldung, Leistungsbezüge, Nebentätigkeit und Freiheit von Forschung und Lehre im Beamtenrecht."
+description: "Wenn es um Hochschule Professoren W Besoldung in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Hochschule Professoren W Besoldung

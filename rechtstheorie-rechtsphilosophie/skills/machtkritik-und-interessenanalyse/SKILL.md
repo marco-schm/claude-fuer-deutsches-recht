@@ -1,6 +1,6 @@
 ---
 name: machtkritik-und-interessenanalyse
-description: "Analysiert, welche Interessen, Rollen und Machtasymmetrien eine Rechtsfigur prägen, ohne daraus automatisch Rechtswidrigkeit abzuleiten."
+description: "Wenn es um Machtkritik und Interessenanalyse in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Machtkritik und Interessenanalyse

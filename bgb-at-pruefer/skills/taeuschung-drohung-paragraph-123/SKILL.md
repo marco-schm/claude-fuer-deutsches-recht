@@ -1,6 +1,6 @@
 ---
 name: taeuschung-drohung-paragraph-123
-description: "Klausurfall zur Anfechtung wegen arglistiger Täuschung oder widerrechtlicher Drohung nach § 123 BGB: Täuschungshandlung und Kausalität, Drohung mit dem versprochenen empfindlichen Übel, Anfechtungsfrist ein Jahr nach § 124 BGB und Ausschluss bei Täuschung durch Dritte."
+description: "Wenn es um Täuschung und Drohung — Paragraf 123 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Täuschung und Drohung — § 123 BGB

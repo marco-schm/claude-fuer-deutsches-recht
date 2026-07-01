@@ -1,6 +1,6 @@
 ---
 name: stimmrechtsmitteilung-social
-description: "Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff. WpHG mit MAR-Insiderrecht: Schwellenberechnungen, Meldefristen und Insider-Trading-Risiken bei Paketkauf im Insiderrecht Compliance."
+description: "Wenn es um Stimmrechtsmitteilungen (Paragrafen 33 ff. WpHG) und Insiderrecht in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stimmrechtsmitteilungen (§§ 33 ff. WpHG) und Insiderrecht

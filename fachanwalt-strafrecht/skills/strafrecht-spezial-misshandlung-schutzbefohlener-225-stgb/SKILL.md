@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-misshandlung-schutzbefohlener-225-stgb
-description: "Misshandlung Schutzbefohlener nach § 225 StGB: Schutz von Personen unter 18 Jahren oder hilflosen Personen. Drei Tatvarianten: quaelen; roh misshandeln; pflichtwidrige Vernachlaessigung. Qualifikation § 225 Abs..."
+description: "Wenn es um Misshandlung Schutzbefohlener nach Paragraf 225 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Misshandlung Schutzbefohlener nach § 225 StGB

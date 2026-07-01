@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-insolvenzverschleppung-15a-inso
-description: "Insolvenzverschleppung nach Paragraph 15a InsO: Antragspflicht des Geschäftsleiters bei Zahlungsunfaehigkeit innerhalb 3 Wochen und bei Ueberschuldung innerhalb 6 Wochen. Strafbarkeit Absatz 4 und 5. Faktisch..."
+description: "Wenn es um Insolvenzverschleppung nach Paragraph 15a InsO in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Insolvenzverschleppung nach Paragraph 15a InsO

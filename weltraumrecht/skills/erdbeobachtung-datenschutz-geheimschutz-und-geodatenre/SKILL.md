@@ -1,6 +1,6 @@
 ---
 name: erdbeobachtung-datenschutz-geheimschutz-und-geodatenre
-description: "Erdbeobachtungsdaten – DSGVO, Geodatenrecht, Geheimschutz sensibler Orte, Copernicus-Lizenz im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Erdbeobachtung: Datenschutz, Geheimschutz und Geodatenrecht in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Erdbeobachtung: Datenschutz, Geheimschutz und Geodatenrecht

@@ -1,6 +1,6 @@
 ---
 name: kommunikation-an-verbraucher
-description: "Verbraucherschutzverband Durchsetzung: Kommunikation an Verbraucher. Kommunikation an Verbraucher im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
+description: "Wenn es um Kommunikation An Verbraucher in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunikation An Verbraucher

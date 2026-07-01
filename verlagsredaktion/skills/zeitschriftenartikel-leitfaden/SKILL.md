@@ -1,6 +1,6 @@
 ---
 name: zeitschriftenartikel-leitfaden
-description: "Leitfaden Zeitschriftenartikel: Auswahl Zeitschrift, Manuskriptregeln, Peer Review, Open Access. Prüfraster für Autorin und Verlag im Verlagsredaktion."
+description: "Wenn es um Verl: Zeitschriftenartikel in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl: Zeitschriftenartikel

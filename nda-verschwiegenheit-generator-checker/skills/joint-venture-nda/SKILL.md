@@ -1,6 +1,6 @@
 ---
 name: joint-venture-nda
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Joint Venture NDA; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Joint Venture NDA in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Joint Venture NDA

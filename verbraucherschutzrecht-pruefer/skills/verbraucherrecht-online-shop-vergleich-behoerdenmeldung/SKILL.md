@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-online-shop-vergleich-behoerdenmeldung
-description: "Prüfer: Online-Shop: Vergleich vorschlagen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Online Shop Vergleich Vorschlagen in Verbraucherschutzrecht Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Online Shop Vergleich Vorschlagen

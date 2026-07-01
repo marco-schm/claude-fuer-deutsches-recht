@@ -1,6 +1,6 @@
 ---
 name: muster-schuldenbereinigungsplan
-description: "Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache: Normanker: InsO §§ 305 und 307-309; liefert k..."
+description: "Wenn es um Muster Schuldenbereinigungsplan in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.

@@ -1,6 +1,6 @@
 ---
 name: 10-entscheidungsvorschlag-familienrichter
-description: "Strukturierter Entscheidungsvorschlag für den Familienrichter: Tenor-Skizze (Scheidungsausspruch, Folgesachen, Sorge/Umgang/Unterhalt), Kindeswohlerwaegungen, Risikohinweise (insbesondere bei Eilanordnungen), ausdrücklich zur richterlichen Prüfung markiert"
+description: "Wenn es um 10 Entscheidungsvorschlag Familienrichter in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 10 Entscheidungsvorschlag Familienrichter

@@ -1,6 +1,6 @@
 ---
 name: ki-nutzung-plagiat-hausarbeit-klassenbildung
-description: "Prüft KI-Nutzung in Unterricht, Hausaufgaben und Prüfungen im Schulrecht Länder."
+description: "Wenn es um digitale Werkzeuge Nutzung Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI Nutzung Schule

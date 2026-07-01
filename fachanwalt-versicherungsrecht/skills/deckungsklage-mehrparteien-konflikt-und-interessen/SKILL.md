@@ -1,6 +1,6 @@
 ---
 name: deckungsklage-mehrparteien-konflikt-und-interessen
-description: "Deckungsklage: Mehrparteienkonflikt und Interessenmatrix: Deckungsklage: Mehrparteienkonflikt und Interessenmatrix."
+description: "Wenn es um Deckungsklage: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Deckungsklage: Mehrparteienkonflikt und Interessenmatrix

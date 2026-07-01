@@ -1,6 +1,6 @@
 ---
 name: offizialat-richter-okumene-interkommunion
-description: "Offizialat, Richter und Tribunal: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Offizialat, Richter und Tribunal in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Offizialat, Richter und Tribunal

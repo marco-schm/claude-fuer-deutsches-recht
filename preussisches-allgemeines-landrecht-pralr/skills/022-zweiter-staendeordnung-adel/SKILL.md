@@ -1,6 +1,6 @@
 ---
 name: 022-zweiter-staendeordnung-adel
-description: "PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern

@@ -1,6 +1,6 @@
 ---
 name: testamentum-per-aes-et-libram-mancipationstestament
-description: "Testamentum per aes et libram: das mancipationstestament als klassische Form. Skill behandelt das Mancipationsritual familiae emptor heredis institutio Nuncupatio und Verdraengung durch das praetorische Tabula-Testament. Liefert Quellenmatrix im Römisches Recht."
+description: "Wenn es um Rom 143 Testamentum Per Aes Et Libram Mancipationstestament in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Testamentum Per Aes Et Libram Mancipationstestament; Arbeitsfeld: Römisches Recht."
 ---
 
 # Rom 143 Testamentum Per Aes Et Libram Mancipationstestament

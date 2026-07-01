@@ -1,6 +1,6 @@
 ---
 name: studiengang-einstellung
-description: "Prüft Einstellung, Änderung und Akkreditierung von Studiengängen im Hochschulrecht Länder."
+description: "Wenn es um Studiengang Einstellung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Studiengang Einstellung

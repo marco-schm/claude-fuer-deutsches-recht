@@ -1,6 +1,6 @@
 ---
 name: verlagsvertrag-paragraf-31-urhg
-description: "Verlagsvertrag § 31 UrhG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Verlagsvertrag Paragraf 31 UrhG in Fachanwalt Urheber Medienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsvertrag § 31 UrhG

@@ -1,6 +1,6 @@
 ---
 name: agb-kontrolle
-description: "Prüft AGB-Klauseln in Handelsvertreterverträgen auf Wirksamkeit nach §§ 305 ff. BGB und § 92c HGB: unangemessene Benachteiligung bei Provisionsregelungen, Ausgleichsausschlüssen, Wettbewerbsverboten sowie unzulässige Abweichungen vom zwingenden Handelsvertreterrecht nach §§ 84-92c HGB im Handelsv..."
+description: "Wenn es um AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB in Handelsvertreterrecht und Vertriebsverträge geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # AGB-Kontrolle im Handelsvertretervertrag nach §§ 305 ff. BGB und § 92c HGB

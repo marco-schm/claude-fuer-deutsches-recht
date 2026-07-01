@@ -1,6 +1,6 @@
 ---
 name: bmf-zoll-und-aussenwirtschaftsrecht
-description: "Sachbereich Zollrecht und Aussenwirtschaftsrecht im Geschäftsbereich BMF: Normbestand (AWG; AWV; ZollVG; UZK (EU); UStG (Einfuhrumsatzsteuer); KrWaffKG.); Akteure (Generalzolldirektion; Bundeszollverwaltung; BAFA (im BMWE); BMF Z-Abteilung.); EU-Bezug (Unionszollkodex; Dual-Use-VO; Sanktionsvero..."
+description: "Wenn es um Zollrecht und Aussenwirtschaftsrecht (BMF) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zollrecht und Aussenwirtschaftsrecht (BMF)

@@ -1,6 +1,6 @@
 ---
 name: untaetigkeitsklage-vwgo-75
-description: "Prüft Rechtsschutz bei Nichtbescheidung und grenzt diffuse Untätigkeitsbeschwerde ab."
+description: "Wenn es um Untätigkeitsklage Paragraf 75 VwGO in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Untätigkeitsklage § 75 VwGO

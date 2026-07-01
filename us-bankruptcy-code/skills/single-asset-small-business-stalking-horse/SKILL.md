@@ -1,6 +1,6 @@
 ---
 name: single-asset-small-business-stalking-horse
-description: "Prüft SARE designation, timelines, stay relief pressure, plan filing and interest payments im US Bankruptcy Code."
+description: "Wenn es um Single Asset Real Estate in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Single Asset Real Estate

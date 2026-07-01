@@ -1,6 +1,6 @@
 ---
 name: fusion-foerderung-beihilfe
-description: "Prüft staatliche Förderung, EU-Beihilfe, IP-Rechte, Kooperation mit Forschungseinrichtungen und Exportkontrolle im Energierecht."
+description: "Wenn es um Fusion: Förderung, Beihilfe und IP in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fusion: Förderung, Beihilfe und IP

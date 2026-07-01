@@ -1,6 +1,6 @@
 ---
 name: workflow-unternehmensgruendung-migration
-description: "Unternehmensgründung Migration: Prüfungslinie für Migrationsrecht: prüft Selbstständigkeit, Businessplan, Finanzierung, regionale Interessen; mit Statusmatrix, Fristenrettung, Staatenbezug,..."
+description: "Wenn es um Unternehmensgründung Migration: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unternehmensgründung Migration: Prüfungslinie für Migrationsrecht

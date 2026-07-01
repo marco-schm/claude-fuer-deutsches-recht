@@ -1,6 +1,6 @@
 ---
 name: sozialleistungen-uebersicht-sgb
-description: "Überblick aller Sozialleistungen und Sozialgesetzbuecher. SGB I bis SGB XIV. Wer ist zuständig für was. Welche Leistung in welchem Buch. Praktischer Leitfaden für Buerger."
+description: "Wenn es um Sozialleistungen — Übersicht aller SGB in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sozialleistungen — Übersicht aller SGB

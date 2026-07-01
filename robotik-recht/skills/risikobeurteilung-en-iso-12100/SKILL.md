@@ -1,6 +1,6 @@
 ---
 name: risikobeurteilung-en-iso-12100
-description: "Prüft Risikobeurteilung nach Stand der Technik: Grenzen, Gefährdungen, Risikominderung, Validierung und Restgefahren."
+description: "Wenn es um Risikobeurteilung EN ISO 12100 in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Risikobeurteilung EN ISO 12100

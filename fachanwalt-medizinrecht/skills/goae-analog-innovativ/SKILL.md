@@ -1,6 +1,6 @@
 ---
 name: goae-analog-innovativ
-description: "GOÄ analog bei Innovation: moderner Medizinrechts-Skill für Neue Methode, Analogbewertung, Steigerungssatz, Begründung und Versicherungsstreit: GOÄ analog bei Innovation: moderner Medizinrechts-Skill für Neue Methode, Analogbewertung, Steigerungssatz, Begrü..."
+description: "Wenn es um Goae Analog Innovativ in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GOÄ analog bei Innovation: moderner Medizinrechts-Skill für Neue Methode, Analogbewertung, Steigerungssatz, Begründung und Versicherungsstreit

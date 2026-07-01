@@ -1,6 +1,6 @@
 ---
 name: spezial-vbuh-verhandlung-vergleich-und-eskalation
-description: "Vbuh: Verhandlung, Vergleich und Eskalation im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Vbuh: Verhandlung, Vergleich und Eskalation in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vbuh: Verhandlung, Vergleich und Eskalation

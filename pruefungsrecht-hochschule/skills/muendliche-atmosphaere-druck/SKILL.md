@@ -1,6 +1,6 @@
 ---
 name: muendliche-atmosphaere-druck
-description: "Prüft unsachliche Atmosphäre, Unterbrechungen, Voreingenommenheit und Protokollbeweis im Prüfungsrecht Hochschule."
+description: "Wenn es um Mündliche Atmosphäre und Druck in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mündliche Atmosphäre und Druck

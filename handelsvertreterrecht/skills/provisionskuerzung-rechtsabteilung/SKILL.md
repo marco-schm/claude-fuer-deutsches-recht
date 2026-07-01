@@ -1,6 +1,6 @@
 ---
 name: provisionskuerzung-rechtsabteilung
-description: "Analysiert unberechtigte Provisionskürzungen durch den Unternehmer: Zulässigkeit von Stornoreserven, Rückforderungen ausgezahlter Provision, AGB-Kontrolle von Kürzungsklauseln sowie Gegenforderungen des Handelsvertreters und Prozessstrategie bei systematischen Provisionskürzungen im Handelsvertre..."
+description: "Wenn es um Unberechtigte Provisionskürzungen — Stornoreserven und Rückforderungen nach Paragraf 87a HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unberechtigte Provisionskürzungen — Stornoreserven und Rückforderungen nach § 87a HGB

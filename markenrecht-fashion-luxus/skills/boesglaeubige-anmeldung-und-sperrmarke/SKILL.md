@@ -1,6 +1,6 @@
 ---
 name: boesglaeubige-anmeldung-und-sperrmarke
-description: "Bösgläubige Markenanmeldung, Sperrmarke und Trittbrettfahrer prüfen: Kenntnis älterer Benutzung, Behinderungsabsicht, Serienanmeldungen, Abmahnmodell, Nichtigkeit, Gegenabmahnung und Beweisführung im Markenrecht Fashion Luxus."
+description: "Wenn es um Bösgläubige Anmeldung und Sperrmarke in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Bösgläubige Anmeldung und Sperrmarke

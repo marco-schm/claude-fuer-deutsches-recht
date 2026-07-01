@@ -1,6 +1,6 @@
 ---
 name: asset-freeze-atlas-ausfuhranmeldung-audit
-description: "Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste für Banken, Notare und Unternehmen: Identifizierung sanktionierbarer Vermoegen, Meldepflich..."
+description: "Wenn es um Asset Freeze: Sofortmassnahmen beim Einfrieren sanktionierten Vermögens in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Asset Freeze: Sofortmassnahmen beim Einfrieren sanktionierten Vermögens

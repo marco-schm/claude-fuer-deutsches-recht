@@ -1,6 +1,6 @@
 ---
 name: krisenfall-profit-warning
-description: "Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-Entstehungszeitpunkt, Ad-hoc-Pflicht, Inhalt und Koordination mit Konsensus-Updates im Insiderrecht Compliance."
+description: "Wenn es um Krisenfall Profit Warning – Ad-hoc und Insiderrecht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Krisenfall Profit Warning – Ad-hoc und Insiderrecht

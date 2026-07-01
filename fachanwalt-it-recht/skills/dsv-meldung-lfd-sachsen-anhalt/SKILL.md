@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-lfd-sachsen-anhalt
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Landesbeauftragter für den Datenschutz Sachsen-Anhalt (LfD ST) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Sachsen-Anhalt und für nicht-öffentliche"
+description: "Wenn es um Reicht eine Meldung nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dsv Meldung Lfd Sachsen Anhalt; Arbeitsfeld: Fachanwalt It Recht."
 ---
 
 # Reicht eine Meldung nach Art

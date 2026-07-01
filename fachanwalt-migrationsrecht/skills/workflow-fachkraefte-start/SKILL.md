@@ -1,6 +1,6 @@
 ---
 name: workflow-fachkraefte-start
-description: "Fachkräfte-Start: Prüfungslinie für Migrationsrecht: klärt Anerkennung, Qualifikation, BA-Zustimmung, Berufsausübung und Visum; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem O..."
+description: "Wenn es um Fachkräfte-Start: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachkräfte-Start: Prüfungslinie für Migrationsrecht

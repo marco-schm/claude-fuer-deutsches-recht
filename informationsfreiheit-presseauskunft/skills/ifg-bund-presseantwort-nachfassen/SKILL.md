@@ -1,6 +1,6 @@
 ---
 name: ifg-bund-presseantwort-nachfassen
-description: "Informationsfreiheit und Presseauskunft: IFG Bund: Presseantwort nachfassen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Ifg Bund Presseantwort Nachfassen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ifg Bund Presseantwort Nachfassen

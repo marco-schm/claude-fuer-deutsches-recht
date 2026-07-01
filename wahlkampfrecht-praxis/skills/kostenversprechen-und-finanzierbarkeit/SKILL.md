@@ -1,6 +1,6 @@
 ---
 name: kostenversprechen-und-finanzierbarkeit
-description: "Wahlkampfrecht Praxis: Kosten- und Finanzierungsversprechen kommunikativ und rechtlich absichern im Wahlkampfrecht."
+description: "Wenn es um Kostenversprechen Und Finanzierbarkeit in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kostenversprechen Und Finanzierbarkeit

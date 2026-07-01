@@ -1,6 +1,6 @@
 ---
 name: transparenz-deepfake-synthetic-content-art-50
-description: "Art. 50 KI-VO für Chatbots, Deepfakes und synthetische Inhalte: Nutzerhinweis, Medien-/Kunst-/Satire-Ausnahmen, Wasserzeichen, interne Freigabe, Plattformkommunikation und Krisenreaktion bei falscher Kennzeichnung."
+description: "Wenn es um Art. 50 europäischer Technikregulierungsrahmen: Transparenz, Deepfakes, synthetische Inhalte in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Art. 50 KI-VO: Transparenz, Deepfakes, synthetische Inhalte

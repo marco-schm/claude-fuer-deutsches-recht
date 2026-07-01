@@ -1,6 +1,6 @@
 ---
 name: abmahnung-einstweilige-verfuegung-sofortplan
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Abmahnung einstweilige Verfügung Sofortplan im Ecommerce Recht."
+description: "Wenn es um Abmahnung einstweilige Verfügung Sofortplan in E-Commerce-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abmahnung einstweilige Verfügung Sofortplan

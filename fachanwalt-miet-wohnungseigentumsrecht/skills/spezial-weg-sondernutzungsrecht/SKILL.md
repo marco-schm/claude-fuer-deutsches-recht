@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-sondernutzungsrecht
-description: "Sondernutzungsrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Inhalt, Grenzen, Übertragung, bauliche Änderung und Störung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Sondernutzungsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sondernutzungsrecht

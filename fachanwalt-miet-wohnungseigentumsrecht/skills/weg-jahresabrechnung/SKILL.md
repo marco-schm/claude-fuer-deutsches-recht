@@ -1,6 +1,6 @@
 ---
 name: weg-jahresabrechnung
-description: "WEG Jahresabrechnung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Abrechnungsspitze, Einzel-/Gesamtabrechnung, Vermögensbericht; mit Normprüfung, Beweisen, Fristen, Risikoampel un..."
+description: "Wenn es um WEG Jahresabrechnung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Jahresabrechnung: Fachmodul im Miet- und Wohnungseigentumsrecht

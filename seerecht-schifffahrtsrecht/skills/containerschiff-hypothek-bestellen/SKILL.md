@@ -1,6 +1,6 @@
 ---
 name: containerschiff-hypothek-bestellen
-description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bestellt Schiffshypothek als Sicherheit für Finanzierung eines Containerlinienfrachtschiff. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Notarielle Bestellungsurkunde, Rangstelle, Sicher..."
+description: "Wenn es um Containerschiff – Schiffshypothek bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Containerschiff – Schiffshypothek bestellen

@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Datenschutzrecht DSGVO/BDSG: wählt den nächsten Spezial-Skill nach Engpass (Art. 33 Meldung 72h, Verarbeitungsverzeichnis, DSFA, AVV), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anschluss-Routing

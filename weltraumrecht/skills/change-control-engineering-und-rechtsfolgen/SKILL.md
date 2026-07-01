@@ -1,6 +1,6 @@
 ---
 name: change-control-engineering-und-rechtsfolgen
-description: "Change Control Board – technische Änderungen und Vertragsrechtsfolgen, Nachtrag, Haftung im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Change Control: Engineering und Rechtsfolgen in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Change Control: Engineering und Rechtsfolgen

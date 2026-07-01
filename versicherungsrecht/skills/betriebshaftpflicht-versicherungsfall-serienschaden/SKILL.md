@@ -1,6 +1,6 @@
 ---
 name: betriebshaftpflicht-versicherungsfall-serienschaden
-description: "Betriebshaftpflichtversicherung: Personen-/Sachschaden, Vermögensfolgeschaden, Serienschadenklausel, Nachhaftung, Ausschlüsse und Abwehrdeckung im Versicherungsrecht."
+description: "Wenn es um Betriebshaftpflicht: Versicherungsfall und Serienschaden in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Betriebshaftpflicht: Versicherungsfall und Serienschaden

@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-akteneinsicht-49-owig-147-stpo
-description: "Datenschutzrecht-Brückenskill: Akteneinsicht § 49 OWiG und § 147 StPO: Behördenakte, Beschwerden, technische Anlagen, Bemessungsunterlagen und interne Vermerke auswerten: Datenschutzrecht-Brückenskill: Akteneinsicht § 49 OWiG und § 147 StPO: Behördenakte, B..."
+description: "Wenn es um Dsv Sanktion Akteneinsicht 49 Owig 147 StPO in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Datenschutzrecht-Brückenskill: Akteneinsicht § 49 OWiG und § 147 StPO: Behördenakte, Beschwerden, technische Anlagen, Bemessungsunterlagen und interne Vermerke auswerten

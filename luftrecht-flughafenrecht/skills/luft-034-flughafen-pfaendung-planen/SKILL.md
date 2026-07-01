@@ -1,6 +1,6 @@
 ---
 name: luft-034-flughafen-pfaendung-planen
-description: "Luftrecht und Flughafenrecht: Flughafen: Pfändung planen. Pfändung planen für Flughafen im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Flughafen Pfaendung Planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flughafen Pfaendung Planen

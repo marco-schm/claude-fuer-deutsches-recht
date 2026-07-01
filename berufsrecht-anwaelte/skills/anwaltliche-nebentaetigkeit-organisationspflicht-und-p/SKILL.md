@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-nebentaetigkeit-organisationspflicht-und-p
-description: "Anwälte: anwaltliche nebentaetigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Anwaltliche Nebentaetigkeit Organisationspflicht Und P in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: anwaltliche nebentaetigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

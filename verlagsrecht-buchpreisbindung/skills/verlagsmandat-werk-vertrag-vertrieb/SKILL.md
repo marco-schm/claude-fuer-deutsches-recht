@@ -1,6 +1,6 @@
 ---
 name: verlagsmandat-werk-vertrag-vertrieb
-description: "Verlagsrecht: Kaltstart-Analyse eines Verlagsmandats — Werk, Vertragstyp, Vertriebskanal und Preisstruktur systematisch erfassen, rechtlich einordnen und handlungsfähig machen."
+description: "Wenn es um Verl-001 · Kaltstart: Verlagsmandat, Werk, Vertrag, Vertrieb, Preis in Verlagsrecht und Buchpreisbindung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verl-001 · Kaltstart: Verlagsmandat, Werk, Vertrag, Vertrieb, Preis

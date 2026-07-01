@@ -1,6 +1,6 @@
 ---
 name: china-de-risking-nicht-strategie
-description: "Operative Umsetzung der EU/Bundesregierungs-De-risking-Strategie: Abgrenzung De-risking vs. Decoupling, Risikoklassifizierung von Lieferanten und Technologien nach Kritikalitäts-Score, AWG/AWV-Sektorenliste, Diversifizierungsfahrplan. Output: De-risking-Fahrplan mit Priorisierungsmatrix und Resso..."
+description: "Wenn es um De-risking statt Decoupling: Strategie und operative Umsetzung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # De-risking statt Decoupling: Strategie und operative Umsetzung

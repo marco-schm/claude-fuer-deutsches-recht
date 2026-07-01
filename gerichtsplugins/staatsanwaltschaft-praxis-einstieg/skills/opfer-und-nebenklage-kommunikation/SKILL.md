@@ -1,6 +1,6 @@
 ---
 name: opfer-und-nebenklage-kommunikation
-description: "Opfer, Nebenklage und Adhäsion: Praxis-Skill für neue Staatsanwälte zu Verletztenrechte, Informationsrechte, Schutzmaßnahmen und Nebenklage ohne Rollenvermischung berücksichtigen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Opfer, Nebenklage und Adhäsion in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Opfer, Nebenklage und Adhäsion

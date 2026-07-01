@@ -1,6 +1,6 @@
 ---
 name: gewerblicher-erstpruefung-und-mandatsziel
-description: "Erstprüfung und Mandatszielbestimmung im gewerblichen Rechtsschutz: strukturiertes Erstgespräch, Rollen- und Interessenklärung, Schutzrechtslandschaft, Falltypisierung und Zieldefinition für anwaltliche Mandate in IP- und Wettbewerbssachen im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Erstprüfung und Mandatsziel im Gewerblichen Rechtsschutz in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Spezial: Erstprüfung und Mandatsziel im Gewerblichen Rechtsschutz

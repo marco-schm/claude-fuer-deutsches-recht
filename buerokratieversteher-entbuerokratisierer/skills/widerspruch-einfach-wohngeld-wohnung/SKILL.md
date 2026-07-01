@@ -1,6 +1,6 @@
 ---
 name: widerspruch-einfach-wohngeld-wohnung
-description: "Erstellt fristwahrenden Widerspruch gegen Verwaltungsakte, wenn Widerspruch statthaft ist, mit knapper Begründung oder Begründungsnachreichung im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Widerspruch einfach in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Widerspruch einfach

@@ -1,6 +1,6 @@
 ---
 name: dba-alle-abkommen-laendermatrix-2026
-description: "DBA-Ländermatrix Deutschland 2026 nach BMF-Stand 01.01.2026. Routet alle deutschen DBA und Sonderfälle nach Staat, Region, Abkommensart, MLI, Erbschaftsteuer-DBA, Amtshilfe, Zeitraum und passendem Detail-Skill. Keine DBA-Antwort ohne konkrete Text- und Quellenprüfung."
+description: "Wenn es um DBA-Ländermatrix 2026 in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA-Ländermatrix 2026

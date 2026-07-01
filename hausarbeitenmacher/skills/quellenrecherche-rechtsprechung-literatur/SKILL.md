@@ -1,6 +1,6 @@
 ---
 name: quellenrecherche-rechtsprechung-literatur
-description: "Student sucht juristische Quellen für Hausarbeit: amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang dejure openJur EUR-Lex Bibliotheksbestand. Frei verfuegbare Alternativen ohne Zugang. Normen Zitierstandards. Prüfraster Quellen-Vollständigkeit Aktualitaet Zugaenglichk..."
+description: "Wenn es um Quellen-Recherche — Rechtsprechung und Literatur in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quellen-Recherche — Rechtsprechung und Literatur

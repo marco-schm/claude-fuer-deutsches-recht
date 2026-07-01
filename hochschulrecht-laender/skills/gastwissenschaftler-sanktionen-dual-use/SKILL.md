@@ -1,6 +1,6 @@
 ---
 name: gastwissenschaftler-sanktionen-dual-use
-description: "Prüft Gastwissenschaftler, Exportkontrolle, Sanktionslisten und sensible Forschung im Hochschulrecht Länder."
+description: "Wenn es um Gastwissenschaftler, Sanktionen und Dual Use in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gastwissenschaftler, Sanktionen und Dual Use

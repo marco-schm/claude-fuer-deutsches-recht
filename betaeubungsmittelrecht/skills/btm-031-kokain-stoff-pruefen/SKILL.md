@@ -1,6 +1,6 @@
 ---
 name: btm-031-kokain-stoff-pruefen
-description: "Betäubungsmittelrecht: Kokain: Stoff prüfen. Stoff prüfen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kokain Stoff Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kokain Stoff Pruefen

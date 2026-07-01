@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-atlas-einfuhr-abgabenbescheid
-description: "Prüfen und Anfechten von ATLAS-Abgabenbescheiden bei der Einfuhr: Zollwert-Berechnung nach UZK Art. 69-76, Zollsatz-Anwendung und Abgabenberechnung (Zoll, EUSt). Verfahren der Einspruchseinlegung beim Hauptzollamt und Klage beim Finanzgericht. Identifiziert Fehler in Tarifierungsbescheiden und U..."
+description: "Wenn es um ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten

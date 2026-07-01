@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Krisenfrüherkennung StaRUG: trennt fehlende Tatsachen von fehlenden Belegen (Liquiditätsplan, Frühwarn-Indikatoren, Sanierungskonzept IDW S 6), nennt pro Lücke Beweisthema, Beschaffungsweg (Restrukturierungsgericht), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

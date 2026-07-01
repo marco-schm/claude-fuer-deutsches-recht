@@ -1,6 +1,6 @@
 ---
 name: db-062-datenbankrecht-und-cyberincident
-description: "Datenbankrecht: Datenbankrecht und Cyberincident mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Datenbankrecht und Cyberincident in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Datenbankrecht und Cyberincident

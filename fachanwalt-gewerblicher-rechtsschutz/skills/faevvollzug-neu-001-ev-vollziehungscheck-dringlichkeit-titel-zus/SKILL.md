@@ -1,6 +1,6 @@
 ---
 name: faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zus
-description: "EV-Vollziehungscheck: Dringlichkeit, Titel und Zustellung bei einstweiliger Verfügung im gewerblichen Rechtsschutz: § 929 ZPO Vollziehungsfri..."
+description: "Wenn es um Faevvollzug Neu 001 Ev Vollziehungscheck Dringlichkeit Titel Zus in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EV-Vollziehungscheck: Dringlichkeit, Titel und Zustellung bei einstweiliger Verfügung im gewerblichen Rechtsschutz

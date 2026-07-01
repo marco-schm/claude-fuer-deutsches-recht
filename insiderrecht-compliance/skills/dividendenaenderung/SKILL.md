@@ -1,6 +1,6 @@
 ---
 name: dividendenaenderung
-description: "Prüft Insiderinformations-Entstehung bei Dividendenaenderungen: Vorstandsvorschlag, AR-Billigung, Kapitalmarktkonsensus-Abweichung und Ad-hoc-Pflicht im Insiderrecht Compliance."
+description: "Wenn es um Dividendenänderung – Insiderrecht und Ad-hoc-Pflicht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Dividendenänderung – Insiderrecht und Ad-hoc-Pflicht

@@ -1,6 +1,6 @@
 ---
 name: vorbenutzungsrecht-paragraph-12-patg
-description: "Prüft Vorbenutzungsrecht nach § 12 PatG: Besitzstand vor Anmeldung/Priorität, Benutzung oder ernsthafte Veranstaltungen, Inland, Redlichkeit, Umfang, Beweisführung und Prozessstrategie im Patentrecht."
+description: "Wenn es um Vorbenutzungsrecht Paragraf 12 PatG in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Vorbenutzungsrecht § 12 PatG

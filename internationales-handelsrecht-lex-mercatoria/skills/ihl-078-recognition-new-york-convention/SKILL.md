@@ -1,6 +1,6 @@
 ---
 name: ihl-078-recognition-new-york-convention
-description: "Internationales Handelsrecht und Lex Mercatoria: Recognition New York Convention. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Recognition New York Convention in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Recognition New York Convention

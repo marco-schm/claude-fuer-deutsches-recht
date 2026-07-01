@@ -1,6 +1,6 @@
 ---
 name: gruppen-schriftsatz-brief-und-memo-bausteine
-description: "Gruppen: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug Planwer..."
+description: "Wenn es um Gruppen: Schriftsatz-, Brief- und Memo-Bausteine in Insolvenzplan- und StaRUG-Planwerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gruppen: Schriftsatz-, Brief- und Memo-Bausteine

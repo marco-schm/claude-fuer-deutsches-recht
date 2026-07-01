@@ -1,6 +1,6 @@
 ---
 name: delikt-vertrag-dienstvertrag
-description: "Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, Anspruchskumulation und Verjährungsunterschiede im BGB BT."
+description: "Wenn es um Delikt-Vertrag Konkurrenz in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Delikt Vertrag Dienstvertrag; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Delikt-Vertrag Konkurrenz

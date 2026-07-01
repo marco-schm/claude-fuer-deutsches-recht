@@ -1,6 +1,6 @@
 ---
 name: klageentwurf-stimmbindungsvertrag
-description: "Gesellschaftsrechtliche Treuepflicht: Klageentwurf Bausteine; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Klageentwurf Bausteine in Gesellschaftsrechtliche Treuepflicht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klageentwurf Bausteine

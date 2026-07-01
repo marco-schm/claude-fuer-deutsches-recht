@@ -1,6 +1,6 @@
 ---
 name: beweissicherung-am-versammlungstag
-description: "Erstellt Beweissicherungsplan für Auflagen, Polizeihandeln, Störer, Wetter, Teilnehmerzahl und Ablauf im Versammlungsrecht."
+description: "Wenn es um Wer später Recht will, braucht Fakten in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wer später Recht will, braucht Fakten

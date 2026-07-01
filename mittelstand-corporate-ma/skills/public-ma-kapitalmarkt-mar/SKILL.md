@@ -1,6 +1,6 @@
 ---
 name: public-ma-kapitalmarkt-mar
-description: "Public M&A Kapitalmarkt und MAR: boersennotierte Transaktionen, WpUEG-Unterlagen, Ad-hoc-Prüfung, Insiderlisten, Stellungnahmen, Marktgerueichte; WpUEG, MAR VO 596/2014, WpHG im Mittelstand Corporate Ma."
+description: "Wenn es um Public M&A, Kapitalmarkt und MAR in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Public M&A, Kapitalmarkt und MAR

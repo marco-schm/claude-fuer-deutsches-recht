@@ -1,6 +1,6 @@
 ---
 name: daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck
-description: "Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz: Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnung..."
+description: "Wenn es um Daseinsvorsorge Verwaltungsrealismus Rechtsstaatscheck in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz.

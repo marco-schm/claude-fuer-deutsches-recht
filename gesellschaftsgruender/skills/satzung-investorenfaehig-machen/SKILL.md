@@ -1,6 +1,6 @@
 ---
 name: satzung-investorenfaehig-machen
-description: Prüft Gründer-Satzungen auf Investorenfähigkeit mit Anteilsstruktur, Vinkulierung, Kapitalmaßnahmen, Drag, Tag, ESOP und Governance.
+description: "Wenn es um Satzung investorenfähig machen in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Satzung investorenfähig machen
 

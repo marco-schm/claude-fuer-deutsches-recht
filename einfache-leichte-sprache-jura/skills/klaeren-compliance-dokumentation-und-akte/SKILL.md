@@ -1,6 +1,6 @@
 ---
 name: klaeren-compliance-dokumentation-und-akte
-description: "Klären: Compliance-Dokumentation und Aktenvermerk: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Klären: Compliance-Dokumentation und Aktenvermerk in Einfache und Leichte Sprache für juristische Texte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Klären: Compliance-Dokumentation und Aktenvermerk

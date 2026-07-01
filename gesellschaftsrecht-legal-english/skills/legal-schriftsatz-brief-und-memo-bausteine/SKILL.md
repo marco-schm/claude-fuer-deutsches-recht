@@ -1,6 +1,6 @@
 ---
 name: legal-schriftsatz-brief-und-memo-bausteine
-description: "Legal: Schriftsatz-, Brief- und Memo-Bausteine im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht Legal English."
+description: "Wenn es um Legal: Schriftsatz-, Brief- und Memo-Bausteine in Didaktisches Gesellschaftsrecht — English Business Terms geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Legal: Schriftsatz-, Brief- und Memo-Bausteine

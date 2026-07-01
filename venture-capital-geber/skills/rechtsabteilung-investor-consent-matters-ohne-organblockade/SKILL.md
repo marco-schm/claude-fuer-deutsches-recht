@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-investor-consent-matters-ohne-organblockade
-description: "Rechtsabteilungs-Fachmodul für Investor Consent Matters ohne Organblockade: Zustimmungskataloge werden zwischen Schutzrecht und faktischer Geschäftsführung austariert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Venture Capital (Geber): prüft konkret die einschl..."
+description: "Wenn es um Rechtsabteilung: Investor Consent Matters ohne Organblockade in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Rechtsabteilung: Investor Consent Matters ohne Organblockade

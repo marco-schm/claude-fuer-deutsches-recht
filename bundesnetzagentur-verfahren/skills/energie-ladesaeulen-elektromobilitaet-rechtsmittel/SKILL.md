@@ -1,6 +1,6 @@
 ---
 name: energie-ladesaeulen-elektromobilitaet-rechtsmittel
-description: "Ladesäulen Elektromobilität: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: Ladesäulen Elektromobilität — Rechtsmittel-Check in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energie-Regulierungsakte: Ladesäulen Elektromobilität — Rechtsmittel-Check

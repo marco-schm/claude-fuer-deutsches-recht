@@ -1,6 +1,6 @@
 ---
 name: agg-systematik-und-verhaeltnismaessigkeit
-description: Allgemeines Gleichbehandlungsgesetz als einfachrechtliche Umsetzung der Unionsrichtlinien zum Diskriminierungsschutz. Erklaert Schutzbereich nach Paragraph 1 AGG Anwendungsbereich nach Paragraph 2 AGG Diskriminierungsformen nach Paragraph 3 AGG sowie die zentralen Rechtfertigungsnormen Paragraph 8 und Paragraph 10 AGG im Arbeitsrecht und Paragraph 20 AGG im Zivilrecht. Verhältnismäßigkeit ist hier eingebauter Prüfungsmassstab innerhalb der Rechtfertigung.
+description: "Wenn es um AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung

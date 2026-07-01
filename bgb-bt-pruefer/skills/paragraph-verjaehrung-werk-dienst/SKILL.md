@@ -1,6 +1,6 @@
 ---
 name: paragraph-verjaehrung-werk-dienst
-description: "Vergleich § 779 BGB: gegenseitiges Nachgeben, Irrtum über Grundlage, Widerruf und Abgrenzung im BGB BT."
+description: "Wenn es um Vergleich Paragraf 779 BGB in BGB BT Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Paragraph Verjaehrung Werk Dienst; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Vergleich § 779 BGB

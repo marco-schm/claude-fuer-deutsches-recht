@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-zerstrittene-gemeinschaft
-description: "Zerstrittene Gemeinschaft: Spezial-Skill im Miet- und Wohnungseigentumsrecht; entwickelt Befriedungsplan, Beschlussreihenfolge, Mediation, Klagerisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Zerstrittene Gemeinschaft in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zerstrittene Gemeinschaft

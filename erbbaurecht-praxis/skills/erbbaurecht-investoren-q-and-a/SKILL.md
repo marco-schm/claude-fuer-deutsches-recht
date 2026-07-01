@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-investoren-q-and-a
-description: "Bereitet Antworten zu Laufzeit, Zins, Heimfall, Finanzierung, Exit und Grundbuch auf im Erbbaurecht Praxis."
+description: "Wenn es um Investor Q&A in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Investor Q&A

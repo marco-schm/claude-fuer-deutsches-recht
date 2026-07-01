@@ -1,6 +1,6 @@
 ---
 name: 04-beweisaufnahme-und-beweisantraege
-description: "Beweisaufnahme nach Paragrafen 244-256 StPO, Umgang mit Beweisantraegen, Praesenzvermutung Paragraf 244 Abs. 6, Wahrunterstellung, Ablehnungsgründe"
+description: "Wenn es um 04 Beweisaufnahme und Beweisantraege in Richter Amtsgericht Strafsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 04 Beweisaufnahme und Beweisantraege

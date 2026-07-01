@@ -1,6 +1,6 @@
 ---
 name: public-to-private-pe
-description: "Begleitet Delisting, Übernahmeangebot, Pflichtangebot, Finanzierung und Squeeze-out-Pfad im Private Equity Praxis."
+description: "Wenn es um Public-to-Private in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Public-to-Private

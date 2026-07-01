@@ -1,6 +1,6 @@
 ---
 name: db-004-wesentlicher-teil-qualitativ-quantitativ-bestimmen
-description: "Datenbankrecht: Wesentlicher Teil qualitativ quantitativ bestimmen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Wesentlicher Teil qualitativ quantitativ bestimmen in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Wesentlicher Teil qualitativ quantitativ bestimmen

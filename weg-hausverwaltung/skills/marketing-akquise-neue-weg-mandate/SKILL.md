@@ -1,6 +1,6 @@
 ---
 name: marketing-akquise-neue-weg-mandate
-description: "Akquise neuer WEG-Verwaltungsmandate (Stand 06/2026): Pitch-Bestandteile, Honorarmatrix, Verwaltervertrag nach § 26 WEG, Uebernahme-Übergabe-Checkliste und Wettbewerbsgrenzen. BGH V ZR 251/21 zur Sondervergütung."
+description: "Wenn es um Marketing: Akquise neuer WEG-Verwaltungsmandate in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Marketing: Akquise neuer WEG-Verwaltungsmandate

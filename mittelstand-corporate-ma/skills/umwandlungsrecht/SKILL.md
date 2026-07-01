@@ -1,6 +1,6 @@
 ---
 name: umwandlungsrecht
-description: "Umwandlungsrecht: Verschmelzung, Spaltung, Ausgliederung, Formwechsel, Einbringung und Vorfeld-Carve-outs nach UmwG mit Normen, BGH-Rechtsprechung und Schritt-Workflow im Mittelstand Corporate Ma."
+description: "Wenn es um Umwandlungsrecht in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Umwandlungsrecht

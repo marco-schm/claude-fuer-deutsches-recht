@@ -1,6 +1,6 @@
 ---
 name: sachenrecht-und-grundbuchgeschichte
-description: "Deutsche Rechtsgeschichte: Sachenrecht und Grundbuchgeschichte. Preussisches Grundbuchrecht, BGB-Sachenrecht 1900, Eintragungsgrundsatz, Grunddienstbarkeiten und Hypothekenrecht im historischen Wandel im Deutsche Rechtsgeschichte."
+description: "Wenn es um Sachenrecht und Grundbuchgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sachenrecht und Grundbuchgeschichte

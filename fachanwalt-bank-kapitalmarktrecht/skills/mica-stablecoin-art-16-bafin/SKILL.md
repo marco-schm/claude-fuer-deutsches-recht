@@ -1,6 +1,6 @@
 ---
 name: mica-stablecoin-art-16-bafin
-description: "Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin: MiCA VO 2023/1114 Art. 16-21 Whitepaper-Pflicht Art. 19 Eigenmittel Art. 35 Reserveaktiva Art..."
+description: "Wenn es um Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin in Fachanwalt Bank Kapitalmarktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin

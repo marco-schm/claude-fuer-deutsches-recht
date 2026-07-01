@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-liquiditaetsvorschau
-description: "Freistehende Liquiditaetsvorschau für Corporate M&A und Distressed M&A: Anwendungsfall Kaeufer Verkaeufer oder Vorstand braucht kurzfristige Zahlungsfähigkeits-Übersicht 3-Wochen bis 13-Wochen-Horizont. Paragraf 17 InsO Zahlungsunfähigkeit, Paragraf 19 InsO Überschuldung, Paragraf 1 StaRUG Sanierung. Prüfraster 3-Woc..."
+description: "Wenn es um Freistehende Liquiditätsvorschau in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freistehende Liquiditätsvorschau

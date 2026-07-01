@@ -1,6 +1,6 @@
 ---
 name: btm-027-cannabis-erlaubnis-pruefen
-description: "Betäubungsmittelrecht: Cannabis: Erlaubnis prüfen. Erlaubnis prüfen für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Cannabis Erlaubnis Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cannabis Erlaubnis Pruefen

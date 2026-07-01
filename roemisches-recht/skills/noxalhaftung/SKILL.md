@@ -1,6 +1,6 @@
 ---
 name: noxalhaftung
-description: "Römisches Recht: Noxalhaftung. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Noxalhaftung in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Noxalhaftung

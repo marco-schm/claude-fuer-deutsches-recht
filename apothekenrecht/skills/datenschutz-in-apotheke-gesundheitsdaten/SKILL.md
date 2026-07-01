@@ -1,6 +1,6 @@
 ---
 name: datenschutz-in-apotheke-gesundheitsdaten
-description: "Datenschutz in Apotheke Gesundheitsdaten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht im Apothekenrecht."
+description: "Wenn es um Datenschutz in Apotheke Gesundheitsdaten in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenschutz in Apotheke Gesundheitsdaten

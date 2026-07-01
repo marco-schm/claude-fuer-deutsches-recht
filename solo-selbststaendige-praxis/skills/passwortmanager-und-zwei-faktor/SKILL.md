@@ -1,6 +1,6 @@
 ---
 name: passwortmanager-und-zwei-faktor
-description: "Solo-Selbstständige: führt durch Passwortmanager, 2FA, Recovery-Codes und Gerätewechsel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Büro Alltag und Tools: Führt durch passwortmanager in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Büro Alltag und Tools: Führt durch passwortmanager

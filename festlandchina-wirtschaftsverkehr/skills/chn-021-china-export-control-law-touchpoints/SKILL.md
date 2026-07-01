@@ -1,6 +1,6 @@
 ---
 name: chn-021-china-export-control-law-touchpoints
-description: "Festlandchina Wirtschaftsverkehr: China Export Control Law Touchpoints. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um China Export Control Law Touchpoints in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # China Export Control Law Touchpoints

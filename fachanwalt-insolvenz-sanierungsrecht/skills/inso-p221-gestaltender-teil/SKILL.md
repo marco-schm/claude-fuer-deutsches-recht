@@ -1,6 +1,6 @@
 ---
 name: inso-p221-gestaltender-teil
-description: "§ 221 InsO (Gestaltender Teil) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 221 InsO (Gestaltender Teil) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittst..."
+description: "Wenn es um Inso P221 Gestaltender Teil in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 221 InsO (Gestaltender Teil) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

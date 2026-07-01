@@ -1,6 +1,6 @@
 ---
 name: workflow-update-und-change-control
-description: "Prüft Softwareupdates, KI-Modellwechsel, Fine-Tuning, Parametrisierung und wesentliche Veränderung mit Dokumentationsspur im Robotik-Recht."
+description: "Wenn es um Update und Change Control in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Workflow Update Und Change Control; Arbeitsfeld: robotik-recht."
 ---
 
 # Update und Change Control

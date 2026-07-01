@@ -1,6 +1,6 @@
 ---
 name: bautraeger-rueckabwicklung-bei-insolvenz
-description: "Bautraeger-Rueckabwicklung bei Insolvenz: Skill klaert das Verfahren der Rueckabwicklung wenn der Bautraeger insolvent geht aber Eigentumsuebertragung noch nicht erfolgt ist Buergschaftsabruf Forderungsanmeldung Woh..."
+description: "Wenn es um Bautraeger-Rueckabwicklung bei Insolvenz in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bautraeger-Rueckabwicklung bei Insolvenz

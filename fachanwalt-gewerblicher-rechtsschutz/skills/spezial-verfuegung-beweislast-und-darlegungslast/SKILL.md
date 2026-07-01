@@ -1,6 +1,6 @@
 ---
 name: spezial-verfuegung-beweislast-und-darlegungslast
-description: "Verfuegung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Verfuegung: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verfuegung: Beweislast, Darlegungslast und Substantiierung

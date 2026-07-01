@@ -1,6 +1,6 @@
 ---
 name: ihl-040-dokumenteninkasso
-description: "Internationales Handelsrecht und Lex Mercatoria: Dokumenteninkasso. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Dokumenteninkasso in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Dokumenteninkasso

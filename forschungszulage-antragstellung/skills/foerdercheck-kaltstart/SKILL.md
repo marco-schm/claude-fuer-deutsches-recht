@@ -1,6 +1,6 @@
 ---
 name: foerdercheck-kaltstart
-description: "Schneller Fördercheck Forschungszulage in zehn Minuten: Anspruchsberechtigung, FuE-Kategorie nach Frascati, KMU-Status, Personalkosten-Schwelle, Projektjahre, Kostenarten, BSFZ-/Finanzamt-Status, Kumulierung, Ausschlussrisiken und realistische Sofortpotenzialschätzung. Liefert Ampelschema und Emp..."
+description: "Wenn es um Fördercheck Kaltstart in Forschungszulage-Antragstellung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fördercheck Kaltstart

@@ -1,6 +1,6 @@
 ---
 name: plain-language-politur
-description: "Output- und Streit-Skill für Plain Language Politur: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen."
+description: "Wenn es um Plain Language Politur in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Plain Language Politur

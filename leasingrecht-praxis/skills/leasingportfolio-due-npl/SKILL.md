@@ -1,6 +1,6 @@
 ---
 name: leasingportfolio-due-npl
-description: "Leasingportfolio Due Diligence: Vertragsanalyse, Risikoklassifizierung, Konzentrations- und Restwertrisikoanalyse, Bewertung für Kauf/Verkauf im Leasingrecht."
+description: "Wenn es um Leasingportfolio Due Diligence in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Leasingportfolio Due Diligence

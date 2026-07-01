@@ -1,6 +1,6 @@
 ---
 name: krankheit-und-ausfall
-description: "Solo-Selbstständige: plant Kundenkommunikation, Fristen, Vertretung und Einnahmeausfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Krise Schulden und Neustart: Plant kundenkommunikation in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krise Schulden und Neustart: Plant kundenkommunikation

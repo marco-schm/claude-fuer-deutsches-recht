@@ -1,6 +1,6 @@
 ---
 name: formalia-fehlerkatalog
-description: "Formalia Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Wenn es um Formalia Fehlerkatalog in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Formalia Fehlerkatalog

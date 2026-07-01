@@ -1,6 +1,6 @@
 ---
 name: transparenz-kontrolle
-description: "Öffentliches Wirtschaftsrecht: Transparenz und Kontrolle. Transparenz und Kontrolle im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht."
+description: "Wenn es um Transparenz Und Kontrolle in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transparenz Und Kontrolle

@@ -1,6 +1,6 @@
 ---
 name: mr-kuendigungsschutz-praxis
-description: "Wohnraum-Kuendigungsschutz Praxis: ordentliche Kuendigung § 573 BGB nur bei berechtigtem Interesse, Eigenbedarf § 573 Abs. 2 Nr. 2 BGB, Kuendigung bei Pflichtverletzung, Zahlungsverzug. Sozialklausel § 574 BGB. Prüfraster im Mietrecht."
+description: "Wenn es um Mietrecht: Kuendigungsschutz in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietrecht: Kuendigungsschutz

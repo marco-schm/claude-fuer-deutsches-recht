@@ -1,6 +1,6 @@
 ---
 name: weg-einladung-tagesordnung
-description: "WEG Einladung/Tagesordnung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Frist, Form, TOP-Bestimmtheit, Unterlagen, Vollmachten; mit Normprüfung, Beweisen, Fristen, Risikoamp..."
+description: "Wenn es um WEG Einladung/Tagesordnung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Einladung/Tagesordnung: Fachmodul im Miet- und Wohnungseigentumsrecht

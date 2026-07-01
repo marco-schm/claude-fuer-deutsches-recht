@@ -1,6 +1,6 @@
 ---
 name: sanktion-behoerdenstrategie-kooperation
-description: "Datenschutzrecht-Brückenskill: Kooperation oder Schweigen strategisch wählen: Kooperationsnutzen, Art.-83-Milderung, Aussagefreiheit, Scope-Erweiterung und Folgeklagen abwägen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rech..."
+description: "Wenn es um Kooperation oder Schweigen strategisch wählen in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kooperation oder Schweigen strategisch wählen

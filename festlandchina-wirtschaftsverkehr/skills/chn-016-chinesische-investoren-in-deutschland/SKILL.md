@@ -1,6 +1,6 @@
 ---
 name: chn-016-chinesische-investoren-in-deutschland
-description: "Festlandchina Wirtschaftsverkehr: Chinesische Investoren In Deutschland. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Chinesische Investoren In Deutschland in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chinesische Investoren In Deutschland

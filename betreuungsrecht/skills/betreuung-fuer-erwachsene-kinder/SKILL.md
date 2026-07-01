@@ -1,6 +1,6 @@
 ---
 name: betreuung-fuer-erwachsene-kinder
-description: "Betreuung für erwachsene Kinder mit Behinderung: Uebergang Vormundschaft zu Betreuung mit 18. Geburtstag, Erfordernis fruehzeitiger Antrag. Vorlage Mandantenkommunikation Eltern."
+description: "Wenn es um Betreuung erwachsener Kinder in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betreuung erwachsener Kinder

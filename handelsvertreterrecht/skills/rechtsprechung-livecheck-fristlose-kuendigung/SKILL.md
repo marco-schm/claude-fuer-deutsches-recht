@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-livecheck-fristlose-kuendigung
-description: "Liefert eine strukturierte Checkliste zur Liveprüfung aktueller BGH- und EuGH-Entscheidungen zum Handelsvertreterrecht: Abfrage maßgeblicher Leitentscheidungen zu § 89b HGB-Ausgleich, § 87c HGB-Buchauszug und § 90a HGB-Wettbewerbsverbot auf Dejure und Openjur sowie Hinweis auf Vorlageverfahren be..."
+description: "Wenn es um Rechtsprechungs-Livecheck BGH und EuGH zum Handelsvertreterrecht in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsprechungs-Livecheck BGH und EuGH zum Handelsvertreterrecht

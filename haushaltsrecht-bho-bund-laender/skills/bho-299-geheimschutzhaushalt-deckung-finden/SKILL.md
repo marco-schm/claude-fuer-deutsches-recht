@@ -1,6 +1,6 @@
 ---
 name: bho-299-geheimschutzhaushalt-deckung-finden
-description: "Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Deckung finden: Deckung finden für Geheimschutzhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatb..."
+description: "Wenn es um Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Deckung finden in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Deckung finden

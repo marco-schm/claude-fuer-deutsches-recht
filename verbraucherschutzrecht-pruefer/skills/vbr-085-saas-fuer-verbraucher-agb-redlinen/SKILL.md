@@ -1,6 +1,6 @@
 ---
 name: vbr-085-saas-fuer-verbraucher-agb-redlinen
-description: "Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: AGB redlinen. AGB redlinen für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Saas Fuer Verbraucher Agb Redlinen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Saas Fuer Verbraucher Agb Redlinen

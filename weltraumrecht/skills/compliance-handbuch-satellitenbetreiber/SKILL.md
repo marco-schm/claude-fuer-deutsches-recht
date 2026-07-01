@@ -1,6 +1,6 @@
 ---
 name: compliance-handbuch-satellitenbetreiber
-description: "Compliance-Handbuch für Satellitenbetreiber – Normenübersicht, Prozesse, Verantwortlichkeiten im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Compliance-Handbuch Satellitenbetreiber in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Compliance-Handbuch Satellitenbetreiber

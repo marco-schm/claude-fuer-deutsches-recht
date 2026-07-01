@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Insolvenzplan / StaRUG: trennt fehlende Tatsachen von fehlenden Belegen (Insolvenzplan, Restrukturierungsplan, Gruppenbildung), nennt pro Lücke Beweisthema, Beschaffungsweg (Insolvenzgericht), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: foerdermittel-verein
-description: "Prüft Zuwendungsbescheid, Eigenanteil, Vergabe, Verwendungsnachweis, Rückforderung und Satzungszweck im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Fördermittel Verein in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fördermittel Verein

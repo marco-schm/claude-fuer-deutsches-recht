@@ -1,6 +1,6 @@
 ---
 name: note-4-formeln-erkennen
-description: Erkennung von Note-4-Formulierungen im Arbeitszeugnis durch Identifikation starker Negativ-Steigerer und klassischer Codephrasen wie bemueht oder im Wesentlichen mit direkter Ampel-Einschaetzung als roter Befund.
+description: "Wenn es um Note-4-Formeln erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Note-4-Formeln erkennen

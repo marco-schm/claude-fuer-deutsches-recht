@@ -1,6 +1,6 @@
 ---
 name: bundle-index-case-management
-description: "Organisiert elektronisches Bundle, Anlagenindex, beA/ERV-Dateinamen, PDF/A, Lesezeichen, Übersetzungen und Exhibit References im Commercial Courts Deutschland."
+description: "Wenn es um Bundle and Filing in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bundle and Filing

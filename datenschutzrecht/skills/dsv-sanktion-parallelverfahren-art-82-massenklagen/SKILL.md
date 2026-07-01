@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-parallelverfahren-art-82-massenklagen
-description: "Datenschutzrecht-Brückenskill: Parallelverfahren Art. 82 DSGVO und Massenklagen: Bußgeldverteidigung mit Schadensersatzabwehr, Massenklagen und Anerkenntnisrisiken abstimmen. Fachmodul für Datenschutz-Sa..."
+description: "Wenn es um Datenschutzrecht-Brückenskill: Parallelverfahren Art in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Datenschutzrecht-Brückenskill: Parallelverfahren Art

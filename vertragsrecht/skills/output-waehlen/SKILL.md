@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Vertragsrecht (BGB-Vertragsrecht): stimmt Adressat (Vertragsparteien, Drittbegünstigte), Frist (Verjährung 3 Jahre § 195 BGB) und Form auf den Zweck ab — typische Outputs: Vertragsentwurf, AGB-Check, Klage Erfüllung."
+description: "Wenn es um Output wählen in Vertragsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

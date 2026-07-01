@@ -1,6 +1,6 @@
 ---
 name: bautraeger-weg-erstverwalter-bestellung
-description: "WEG-Erstverwalter-Bestellung beim Bautraegervertrag: Skill klaert die haeufig umstrittene Erstverwalter-Klausel die Bautraeger oft mit verbundenen Unternehmen verknuepfen sowie das WEG-Reform-2020-Update...."
+description: "Wenn es um WEG-Erstverwalter-Bestellung beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG-Erstverwalter-Bestellung beim Bautraegervertrag

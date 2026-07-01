@@ -1,6 +1,6 @@
 ---
 name: gmbh-gruendung-erstanmeldung
-description: "Checkt Stammkapital, Einzahlung, Geschäftsführer, Versicherung, Musterprotokoll, Gesellschaftsvertrag und Registereintragung im Handelsregister Praxis."
+description: "Wenn es um GmbH/UG-Erstanmeldung in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # GmbH/UG-Erstanmeldung

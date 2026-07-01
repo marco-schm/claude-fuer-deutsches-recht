@@ -1,6 +1,6 @@
 ---
 name: equity-partner-modell
-description: "Analysiert Equity, Fixed Share, Salary Partner, Counsel, Eintritt und Austritt. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Equity-Partner-Modell in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Equity-Partner-Modell

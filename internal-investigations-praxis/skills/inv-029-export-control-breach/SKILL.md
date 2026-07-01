@@ -1,6 +1,6 @@
 ---
 name: inv-029-export-control-breach
-description: "Spezialskill fuer Export Control Breach: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Export Control Breach in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internal Investigation: Export Control Breach

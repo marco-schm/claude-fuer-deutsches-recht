@@ -1,6 +1,6 @@
 ---
 name: medizinalcannabis-erlaubnis-pruefen
-description: "Medizinalcannabis: Erlaubnis prüfen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Medizinalcannabis Erlaubnis Prüfen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medizinalcannabis Erlaubnis Prüfen

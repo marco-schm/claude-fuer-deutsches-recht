@@ -1,6 +1,6 @@
 ---
 name: einziehung-drittbetroffene-anhoerung
-description: "Einziehung mit Drittbetroffenen: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Einziehung mit Drittbetroffenen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Einziehung mit Drittbetroffenen

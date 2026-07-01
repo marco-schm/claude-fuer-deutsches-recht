@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsbescheid-folgen
-description: "Vollstreckungsbescheid Paragrafen 699 und 700 ZPO: Voraussetzung kein Widerspruch innerhalb 2 Wochen Paragraf 692 Abs. 1 Nr. 3 ZPO, Antrag binnen 6 Monaten Paragraf 701 ZPO. Vollstreckungstitel Paragraf 794 Abs. 1 Nr. 4 ZPO. Verjährung 30 Jahre Paragraf 197 Abs. 1 Nr. 4 BGB. Einspruch 2 Wochen Paragraf 700 i.V.m. Paragraf 338 ZPO. Output: VB-Ant..."
+description: "Wenn es um Vollstreckungsbescheid und Folgen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vollstreckungsbescheid und Folgen

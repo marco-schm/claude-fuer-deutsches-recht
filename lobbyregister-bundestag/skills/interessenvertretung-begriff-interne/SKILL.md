@@ -1,6 +1,6 @@
 ---
 name: interessenvertretung-begriff-interne
-description: "Prüft, ob eine Kontaktaufnahme unmittelbare oder mittelbare Einflussnahme auf Willensbildungs- oder Entscheidungsprozesse nach § 1 LobbyRG ist. Abgrenzung zu Information, Petition, Servicekontakt und rein lokalem Anliegen. Output Subsumtionsmatrix im Lobbyregister Bundestag."
+description: "Wenn es um Begriff der Interessenvertretung in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Begriff der Interessenvertretung

@@ -1,6 +1,6 @@
 ---
 name: personalakte-einsicht-datenschutz
-description: "Personalakte, Einsicht, Datenschutz: prüft § 17 SG, Aufnahmerecht, Löschungsansprüche und DSGVO-Rechte. Norm-/Quellenanker: § 17 SG, DSGVO, BDSG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Personalakte, Einsicht und Datenschutz in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Personalakte, Einsicht und Datenschutz

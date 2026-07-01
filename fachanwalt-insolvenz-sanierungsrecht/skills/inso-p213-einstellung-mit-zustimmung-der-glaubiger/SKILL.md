@@ -1,6 +1,6 @@
 ---
 name: inso-p213-einstellung-mit-zustimmung-der-glaubiger
-description: "§ 213 InsO (Einstellung mit Zustimmung der Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 213 InsO (Einstellung mit Zustimmung der Gläubiger) im Mandat prüfen: Normzweck, Tatbe..."
+description: "Wenn es um Inso P213 Einstellung Mit Zustimmung Der Glaubiger in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 213 InsO (Einstellung mit Zustimmung der Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

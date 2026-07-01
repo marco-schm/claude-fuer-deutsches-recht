@@ -1,6 +1,6 @@
 ---
 name: chapter9-plan
-description: "Prüft municipal plan, limited court power, special revenues, bondholders, pensions and essential services im US Bankruptcy Code."
+description: "Wenn es um Chapter 9 Plan Special Rules in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chapter 9 Plan Special Rules

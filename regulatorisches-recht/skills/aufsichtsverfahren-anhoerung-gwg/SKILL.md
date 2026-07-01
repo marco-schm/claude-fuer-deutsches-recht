@@ -1,6 +1,6 @@
 ---
 name: aufsichtsverfahren-anhoerung-gwg
-description: "Aufsichtsverfahren, Anhörung und Maßnahmebescheid: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Regulatorisches Recht."
+description: "Wenn es um Aufsichtsverfahren, Anhörung und Maßnahmebescheid in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Aufsichtsverfahren, Anhörung und Maßnahmebescheid

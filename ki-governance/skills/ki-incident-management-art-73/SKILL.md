@@ -1,6 +1,6 @@
 ---
 name: ki-incident-management-art-73
-description: "Incident-Management nach Art. 73 KI-VO: ernsthafte Vorfaelle melden binnen 15 Tagen, bei Tod oder schwerer Gesundheit binnen 10 Tagen. Pflicht zur Ursachenanalyse, Korrekturmassnahmen. Datenbank der Marktueberwachungsbehoerden. Playbook und Mustermeldung."
+description: "Wenn es um digitale Werkzeuge Incident-Management in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # KI Incident-Management

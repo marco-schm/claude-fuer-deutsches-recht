@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-landesmodell-routing
-description: "Grundsteuer-Landesmodell-Routing: Bundesmodell von Baden-Wuerttemberg, Bayern, Hamburg, Hessen, Niedersachsen und punktuellen Abweichungen trennen; richtige Rechtsquelle, Bescheidart, BFH-/FG-Stand und Argumentationslinie bestimmen."
+description: "Wenn es um Grundsteuer: Landesmodell-Routing in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grundsteuer: Landesmodell-Routing

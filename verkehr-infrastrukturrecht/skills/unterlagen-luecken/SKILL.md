@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Verkehr-Infrastrukturrecht: trennt fehlende Tatsachen von fehlenden Belegen (Planfeststellungsbeschluss, Erörterungstermin-Protokoll), nennt pro Lücke Beweisthema, Beschaffungsweg (Eisenbahn-BBundesamt), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

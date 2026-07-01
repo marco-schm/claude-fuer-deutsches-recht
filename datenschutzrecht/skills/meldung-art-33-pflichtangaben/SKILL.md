@@ -1,6 +1,6 @@
 ---
 name: meldung-art-33-pflichtangaben
-description: "Erstellt eine vollständige Meldung nach Art. 33 DSGVO an die zuständige Aufsichtsbehörde innerhalb der 72-Stunden-Frist. Behandelt: Pflichtangaben nach Art. 33 Abs. 3 lit. a-d DSGVO — Art der Verletzung; Kategorien und ungefähre Zahl der Betroffenen und Datensätze; Name und Kontakt des Datenschut..."
+description: "Wenn es um Meldung nach Art. 33 DSGVO — Pflichtangaben generisch in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meldung nach Art. 33 DSGVO — Pflichtangaben generisch

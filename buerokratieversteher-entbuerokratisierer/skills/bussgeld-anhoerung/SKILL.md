@@ -1,6 +1,6 @@
 ---
 name: bussgeld-anhoerung
-description: "Erklärt Anhörungsbogen, Betroffener, Aussageverweigerung, Fahrerfrage, Fristen und Einspruch im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Bußgeld-Anhörung in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bußgeld-Anhörung

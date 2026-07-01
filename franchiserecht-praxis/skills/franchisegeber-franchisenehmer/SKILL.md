@@ -1,6 +1,6 @@
 ---
 name: franchisegeber-franchisenehmer
-description: "Franchiserecht-Erstkontakt: Systemakte anlegen, Perspektive Franchisegeber oder Franchisenehmer klären, Unterlagen sichern und ersten Handlungsplan aufstellen. Normbasis BGB allgemeiner Teil sowie HGB; Kartell- und Markenrecht im Blick."
+description: "Wenn es um Franchiserecht: Kaltstart – Systemakte anlegen in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Franchiserecht: Kaltstart – Systemakte anlegen

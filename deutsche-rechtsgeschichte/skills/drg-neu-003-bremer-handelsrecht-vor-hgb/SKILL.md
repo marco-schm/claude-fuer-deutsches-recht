@@ -1,6 +1,6 @@
 ---
 name: drg-neu-003-bremer-handelsrecht-vor-hgb
-description: "Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB

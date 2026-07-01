@@ -1,6 +1,6 @@
 ---
 name: flaechennutzungsplaenen-normenkontrolle
-description: "Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Flaechennutzungsplaenen Normenkontrolle; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: banking-behoerden-gericht-und-registerweg
-description: "Banking: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Banking: Behörden-, Gerichts- oder Registerweg in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Banking: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: werbung-robe-wirtschaftspruefer
-description: "Werbung, Robe und Kanzleimarketing (Verteidigungs- und Kammerantwort): steuert Berufswerbung, Robenaufdruck, Spezialisierungswerbung, Bewertungen und Irreführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Fre..."
+description: "Wenn es um Werbung, Robe und Kanzleimarketing: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Werbung, Robe und Kanzleimarketing: Verteidigungs- und Kammerantwort

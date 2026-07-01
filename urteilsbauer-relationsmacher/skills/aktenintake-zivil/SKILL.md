@@ -1,6 +1,6 @@
 ---
 name: aktenintake-zivil
-description: "Eingehende Zivilakte vor erster Prüfung strukturieren: Richter oder Referendar erhalt neue Akte und muss Überblick gewinnen. Normen: § 313 ZPO (Urteilsinhalt), § 286 ZPO (freie Beweiswürdigung), § 139 ZPO (richterliche Hinweispflicht). Prüfraster: Klagschrift mit Anträgen, Streitwert, Sachvortrag..."
+description: "Wenn es um Aktenintake Zivilprozess in Urteilsbauer und Relationsmacher geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Aktenintake Zivilprozess

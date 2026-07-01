@@ -1,6 +1,6 @@
 ---
 name: see-099-kreuzfahrtschiff-klagepfad-waehlen
-description: "See- und Schifffahrtsrecht: Kreuzfahrtschiff: Klagepfad wählen. Klagepfad wählen für Kreuzfahrtschiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kreuzfahrtschiff Klagepfad Waehlen in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kreuzfahrtschiff Klagepfad Waehlen

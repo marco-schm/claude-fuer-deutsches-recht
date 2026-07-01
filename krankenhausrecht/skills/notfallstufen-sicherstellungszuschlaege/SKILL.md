@@ -1,6 +1,6 @@
 ---
 name: notfallstufen-sicherstellungszuschlaege
-description: "Notfallversorgungsstufen nach G-BA-Notfallstufenkonzept und Sicherstellungszuschlaege nach KHEntgG: Eingruppierung, Strukturmerkmale, Vergueterelevanz, Verlust bei Strukturveraenderung im Krankenhausrecht."
+description: "Wenn es um Notfallstufen und Sicherstellungszuschlaege in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Notfallstufen und Sicherstellungszuschlaege

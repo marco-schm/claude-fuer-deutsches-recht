@@ -1,6 +1,6 @@
 ---
 name: eigenverwaltung-nicht-verbraucher
-description: "Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad: Normanker: InsO Eig..."
+description: "Wenn es um Eigenverwaltung Nicht Verbraucher in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.

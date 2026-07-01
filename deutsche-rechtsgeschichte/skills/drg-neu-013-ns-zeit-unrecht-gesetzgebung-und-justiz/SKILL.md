@@ -1,6 +1,6 @@
 ---
 name: drg-neu-013-ns-zeit-unrecht-gesetzgebung-und-justiz
-description: "Deutsche Rechtsgeschichte: NS-Zeit Unrecht Gesetzgebung und Justiz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Deutsche Rechtsgeschichte: NS-Zeit Unrecht Gesetzgebung und Justiz in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: NS-Zeit Unrecht Gesetzgebung und Justiz

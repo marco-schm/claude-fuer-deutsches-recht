@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-uebersicht-aktenvorblatt
-description: "Akteneinsicht systematisch auswerten: Aktenbestandteile (Haupt-, Sonder-, Beweismittelakte), Bandzaehlung, Aktenblattzahl je Band, fehlende Aktenstuecke, Verschluss-Sachen, Tonbaender/Datentraeger, polizeiliche Spurenakten. Fuehrt Prüf-Checkliste und Nachforderungsschreiben an die Staatsanwaltsc..."
+description: "Wenn es um Akteneinsicht-Übersicht in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Akteneinsicht-Übersicht

@@ -1,6 +1,6 @@
 ---
 name: soziale-medien-aeusserungsrecht
-description: "Prüft Äußerungen auf X, LinkedIn, Bewertungsportalen und Kommentarspalten. Bewertet Reichweite, Dauerhaftigkeit, Tags, Bilder, Wiederholung, Prangerwirkung, Plattformregeln und Beweissicherung im Meinungspruefer."
+description: "Wenn es um Soziale Medien: X, LinkedIn, Bewertungsportale in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Soziale Medien: X, LinkedIn, Bewertungsportale

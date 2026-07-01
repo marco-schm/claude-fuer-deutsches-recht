@@ -1,6 +1,6 @@
 ---
 name: mabv-ratenplan-pruefen
-description: "Prueft den Ratenplan eines Bautraegervertrags gegen Paragraf 3 Absatz 2 MaBV. Kontrolliert bis zu sieben Teilbetraege nach tatsaechlichem Baufortschritt, Einhaltung der Prozentsaetze und Vollstaendigkeit der allgemeinen Faelligkeitsvoraussetzungen nach Paragraf 3 Absatz 1 MaBV vor der ersten Zahlung."
+description: "Wenn es um MaBV-Ratenplan prüfen in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # MaBV-Ratenplan prüfen

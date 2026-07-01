@@ -1,6 +1,6 @@
 ---
 name: versand-check-weihnachtskarten
-description: "Pflicht-Pre-Check vor jedem ausgehenden Versand — prüft Dokumentidentität (das richtige PDF? Stand vom richtigen Datum? Aktenzeichen passt?) Unterschrift (durch berechtigte Person? eigenhaendig oder qualifizierte elektronische Signatur?) Adressat (richtiges Gericht / Behörde / Mandant? richtige A..."
+description: "Wenn es um Versand-Vor-Check (Pflicht vor jedem Versand) in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Versand-Vor-Check (Pflicht vor jedem Versand)

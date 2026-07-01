@@ -1,6 +1,6 @@
 ---
 name: fundtier-und-eigentum
-description: "Tierschutzrecht: Fundtier und Eigentum. Fundtier und Eigentum im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht."
+description: "Wenn es um Fundtier Und Eigentum in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fundtier Und Eigentum

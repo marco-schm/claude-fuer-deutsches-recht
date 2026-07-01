@@ -1,6 +1,6 @@
 ---
 name: drg-026-staatsrecht-des-kaiserreichs
-description: "Deutsche Rechtsgeschichte: Staatsrecht Des Kaiserreichs. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Staatsrecht Des Kaiserreichs in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Staatsrecht Des Kaiserreichs

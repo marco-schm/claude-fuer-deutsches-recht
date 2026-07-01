@@ -1,6 +1,6 @@
 ---
 name: beamtenrecht-bundeswehrverwaltung-abgrenzung
-description: "Beamtenrecht Bundeswehrverwaltung Abgrenzung: prüft Status, anwendbares Recht und Rechtsweg. Norm-/Quellenanker: BBG, SG, TVöD, GG Art. 60 im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Beamtenrecht Bundeswehrverwaltung — Abgrenzung Soldat/Beamter/Arbeitnehmer in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beamtenrecht Bundeswehrverwaltung — Abgrenzung Soldat/Beamter/Arbeitnehmer

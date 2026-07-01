@@ -1,6 +1,6 @@
 ---
 name: gmbh-ausschluss-blockade-einziehung
-description: "Gesellschaftsrechtliche Treuepflicht: Gmbh Ausschluss; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Gmbh Ausschluss in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gmbh Ausschluss

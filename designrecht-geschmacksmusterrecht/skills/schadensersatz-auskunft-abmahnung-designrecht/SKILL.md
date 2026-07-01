@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-auskunft-abmahnung-designrecht
-description: "Folgeansprüche nach Designverletzung prüfen: Auskunft, Rechnungslegung, Vernichtung, Rückruf, Schadensersatzmethoden und Vergleichswert im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Schadensersatz Auskunft Vernichtung in designrecht-geschmacksmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Schadensersatz Auskunft Vernichtung

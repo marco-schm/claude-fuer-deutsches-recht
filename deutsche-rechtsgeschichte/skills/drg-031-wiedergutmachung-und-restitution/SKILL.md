@@ -1,6 +1,6 @@
 ---
 name: drg-031-wiedergutmachung-und-restitution
-description: "Deutsche Rechtsgeschichte: Wiedergutmachung Und Restitution. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Wiedergutmachung Und Restitution in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wiedergutmachung Und Restitution

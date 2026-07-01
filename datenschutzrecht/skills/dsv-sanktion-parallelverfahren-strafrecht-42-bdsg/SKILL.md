@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-parallelverfahren-strafrecht-42-bdsg
-description: "Datenschutzrecht-Brückenskill: Parallelverfahren § 42 BDSG und Strafrecht: Strafrechtliche Datenschutzrisiken, Durchsuchung, Aussageverhalten und Verteidigerkoordination erkennen: Datenschutzrecht-Brückenskill: Parallelverfahren § 42 BDSG und Strafrecht: St..."
+description: "Wenn es um Dsv Sanktion Parallelverfahren Strafrecht 42 Bdsg in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Parallelverfahren § 42 BDSG und Strafrecht: Strafrechtliche Datenschutzrisiken, Durchsuchung, Aussageverhalten und Verteidigerkoordination erkennen

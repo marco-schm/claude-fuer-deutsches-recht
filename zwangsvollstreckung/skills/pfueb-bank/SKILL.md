@@ -1,6 +1,6 @@
 ---
 name: pfueb-bank
-description: "Gläubiger pfändet Bankkonto per PfÜB: Titel, Antrag, Drittschuldnerbank, P-Konto, Drittschuldnererklärung und digitale Zustellung an Kreditinstitute ab 2027."
+description: "Wenn es um PfÜB Bankkonto in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # PfÜB Bankkonto

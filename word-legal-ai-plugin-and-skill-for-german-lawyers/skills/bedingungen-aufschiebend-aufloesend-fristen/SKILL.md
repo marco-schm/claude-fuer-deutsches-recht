@@ -1,6 +1,6 @@
 ---
 name: bedingungen-aufschiebend-aufloesend-fristen
-description: "Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufschiebende Bedingung (Eintritt bei Eintritt) vs aufloesende Bedingung (Wegfall bei Eintritt). Potestativbedingung. Closing Conditions in M&A mit Signing/Closing-Logik. Long Stop Date. Fristberechnung nach §§ 187-193 BGB. Mit Tabelle Be..."
+description: "Wenn es um Bedingungen aufschiebend, aufloesend, Fristen in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bedingungen aufschiebend, aufloesend, Fristen

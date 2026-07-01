@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-problem-sortieren
-description: "Sehr allgemeiner Einstiegsskill fuer unklare arbeitsrechtliche Anliegen. Sortiert Gedanken, Rolle, Ziel, Dokumente, Fristen und Konfliktlage, bevor Spezialpruefungen beginnen. Output Problemkarte, Fristenampel, Arbeitsauftrag, passende Folge-Skills und eine entscheidende Rueckfrage."
+description: "Wenn es um Arbeitsrecht - Problem Sortieren in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsrecht - Problem Sortieren

@@ -1,6 +1,6 @@
 ---
 name: spezial-beschlussanfechtung-mehrparteien-konflikt-und-interessen
-description: "Beschlussanfechtung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt handels gesellschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Beschlussanfechtung: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschlussanfechtung: Mehrparteienkonflikt und Interessenmatrix

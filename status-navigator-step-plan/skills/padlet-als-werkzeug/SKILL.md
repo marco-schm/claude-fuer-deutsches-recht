@@ -1,6 +1,6 @@
 ---
 name: padlet-als-werkzeug
-description: "Erläutert, wann Padlet als visuelle Alternative zur Step-Plan-Excel sinnvoll ist und wann nicht. Beschreibt das Format Shelf mit vier Spalten als Mapping der vier Excel-Reiter, Datenschutz-Anforderungen, berufsrechtliche Grenzen sowie das Karten-Format pro Dokument."
+description: "Wenn es um Padlet als Status-Navigator-Werkzeug in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Padlet als Status-Navigator-Werkzeug

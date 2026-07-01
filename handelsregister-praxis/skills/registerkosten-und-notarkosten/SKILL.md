@@ -1,6 +1,6 @@
 ---
 name: registerkosten-und-notarkosten
-description: "Ordnet Register- und Notarkosten grob, vermeidet Doppelvollzug und erklärt Mandanten die Kostenlogik im Handelsregister Praxis."
+description: "Wenn es um Kosten und Gebühren antizipieren in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kosten und Gebühren antizipieren

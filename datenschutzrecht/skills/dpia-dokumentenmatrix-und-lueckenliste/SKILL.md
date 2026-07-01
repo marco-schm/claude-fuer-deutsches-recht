@@ -1,6 +1,6 @@
 ---
 name: dpia-dokumentenmatrix-und-lueckenliste
-description: "Dpia: Dokumentenmatrix, Lückenliste und Nachforderung: Dpia: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Wenn es um Dpia: Dokumentenmatrix, Lückenliste und Nachforderung in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Dpia: Dokumentenmatrix, Lückenliste und Nachforderung

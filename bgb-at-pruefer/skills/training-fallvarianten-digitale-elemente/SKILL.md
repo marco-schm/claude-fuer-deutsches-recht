@@ -1,6 +1,6 @@
 ---
 name: training-fallvarianten-digitale-elemente
-description: "Trainings-Skill mit Fallvarianten zu BGB-AT-Kernthemen für Examensvorbereitung: Variationen zu Geschäftsfähigkeit, Anfechtung, Stellvertretung und Zugang — unterschiedliche Schwierigkeitsgrade, Mustersubsumtionen und Selbstkontrollfragen im BGB AT."
+description: "Wenn es um Training mit Fallvarianten — BGB Allgemeiner Teil Examen in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Auswahlstichwort: Training Fallvarianten Digitale Elemente; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Training mit Fallvarianten — BGB Allgemeiner Teil Examen

@@ -1,6 +1,6 @@
 ---
 name: ttab-opposition-und-cancellation
-description: "TTAB-Opposition und Cancellation in den USA führen: aeltere Marke kollidiert mit US-Anmeldung oder eingetragener Marke. Normen: 37 C.F.R. § 2.101 ff. (Opposition), § 2.111 ff. (Cancellation), 15 U.S.C. § 1125(c) (Dilution), In re Bose 580 F.3d 1240 (Fraud). Prüfraster: Standing, Likelihood of Con..."
+description: "Wenn es um TTAB — Trademark Trial and Appeal Board in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # TTAB — Trademark Trial and Appeal Board

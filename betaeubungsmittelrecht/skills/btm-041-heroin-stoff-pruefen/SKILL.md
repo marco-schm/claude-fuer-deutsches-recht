@@ -1,6 +1,6 @@
 ---
 name: btm-041-heroin-stoff-pruefen
-description: "Betäubungsmittelrecht: Heroin: Stoff prüfen. Stoff prüfen für Heroin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Heroin Stoff Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Heroin Stoff Pruefen

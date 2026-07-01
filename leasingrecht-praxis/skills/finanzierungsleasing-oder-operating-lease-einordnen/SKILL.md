@@ -1,6 +1,6 @@
 ---
 name: finanzierungsleasing-oder-operating-lease-einordnen
-description: "Systematische Einordnung: Finanzierungsleasing vs. Operating-Lease anhand BGH-Kriterien, BMF-Leasingerlass, steuerlicher und bilanzieller Folgen im Leasingrecht."
+description: "Wenn es um Finanzierungsleasing oder Operating-Lease: Systematische Einordnung in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Finanzierungsleasing oder Operating-Lease: Systematische Einordnung

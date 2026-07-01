@@ -1,6 +1,6 @@
 ---
 name: markenbewertung-asset-deal-insolvenz
-description: "Marken als Vermögensgegenstand bewerten und in Asset Deal, Finanzierung oder Insolvenz verwerten: Portfolioqualität, Benutzung, Lizenzen, Streit, Bewertungsmethoden, Sicherheiten, Datenraum und Käuferfragen im Markenrecht Fashion Luxus."
+description: "Wenn es um Markenbewertung, Asset Deal und Insolvenz in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Markenbewertung, Asset Deal und Insolvenz

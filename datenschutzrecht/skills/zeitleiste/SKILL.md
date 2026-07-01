@@ -1,6 +1,6 @@
 ---
 name: zeitleiste
-description: "Erstellt eine minutiös rekonstruierte Zeitleiste vom Eintritt der Verletzung bis zur Meldung und Benachrichtigung. Behandelt: Eintritt; Erstwahrnehmung; Meldung an Service-Desk; Eingang Datenschutzpostfach; Kenntnisbegriff Art. 33 DSGVO; 72-Stunden-Lauf; Sofortmaßnahmen; Forensik-Beauftragung; Me..."
+description: "Wenn es um Zeitleiste des Datenschutzvorfalls — minutiöse Rekonstruktion in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zeitleiste des Datenschutzvorfalls — minutiöse Rekonstruktion

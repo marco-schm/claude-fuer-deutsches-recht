@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-lieferantenpool-npl
-description: "Rechtsabteilungs-Fachmodul für Lieferantenpool und Eigentumsvorbehalt: Aussonderung, Absonderung und Fortlieferung werden im Krisenfenster sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Insolvenzrecht."
+description: "Wenn es um Rechtsabteilung: Lieferantenpool und Eigentumsvorbehalt in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Lieferantenpool und Eigentumsvorbehalt

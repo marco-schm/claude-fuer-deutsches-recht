@@ -1,6 +1,6 @@
 ---
 name: rueckruf-field-action
-description: "Plant freiwillige oder behördliche Korrekturmaßnahme: Risiko, Reichweite, Kundenliste, Software-Patch, Austausch, Stilllegung und Nachweisführung."
+description: "Wenn es um Rückruf und Field Action in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Rueckruf Field Action; Arbeitsfeld: robotik-recht."
 ---
 
 # Rückruf und Field Action

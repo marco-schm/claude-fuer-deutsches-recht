@@ -1,6 +1,6 @@
 ---
 name: spezial-betreuungsrecht-livequellen-und-rechtsprechungscheck
-description: "Betreuungsrecht: Livequellen- und Rechtsprechungscheck im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Betreuungsrecht: Livequellen- und Rechtsprechungscheck in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betreuungsrecht: Livequellen- und Rechtsprechungscheck

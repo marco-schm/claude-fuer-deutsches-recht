@@ -1,6 +1,6 @@
 ---
 name: cash-collateral-363
-description: "Prüft cash collateral, lender consent, adequate protection, budget, reporting and interim/final orders im US Bankruptcy Code."
+description: "Wenn es um Cash Collateral Paragraf 363 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cash Collateral § 363

@@ -1,6 +1,6 @@
 ---
 name: spezial-auslegung-verhandlung-vergleich-und-eskalation
-description: "Auslegung: Verhandlung, Vergleich und Eskalation im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Auslegung: Verhandlung, Vergleich und Eskalation in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auslegung: Verhandlung, Vergleich und Eskalation

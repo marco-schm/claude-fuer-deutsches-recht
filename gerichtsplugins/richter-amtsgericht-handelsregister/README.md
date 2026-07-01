@@ -21,7 +21,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschliessen und dokumentieren.
+Wenn du das hier öffnest, willst du eine Handelsregistersache richterlich oder registergerichtlich prüfen: Anmeldung, Eintragung, Zwischenverfügung, Zurückweisung, Registerklarheit, Vertretungsnachweise und Beschwerde.
 > **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.
 
 > **Kritisch — Hochrisiko-KI und Art. 22 DSGVO beachten.** Der Einsatz von KI in der Rechtspflege ist nach Art. 6 Abs. 2 in Verbindung mit Anhang III Nr. 8 Buchstabe a der KI-Verordnung (VO (EU) 2024/1689) grundsätzlich **Hochrisiko-KI**. Die Rückausnahme des Art. 6 Abs. 3 KI-VO greift nur bei rein vorbereitender Tätigkeit ohne Subsumtion; auch dann besteht Registrierungspflicht nach Art. 49 Abs. 2 KI-VO. Eine Entscheidung mit rechtlicher Wirkung über Menschen darf nicht einer Maschine überlassen werden (Art. 22 DSGVO) — die richterliche Letztentscheidung liegt zwingend beim Menschen. Einzelheiten unten unter „Wichtiger Hinweis vor Verwendung".
@@ -123,17 +123,17 @@ Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `01-anmeldung-pruefen-zustaendigkeit` | Prüfung der Anmeldung: Formerfordernis (notarielle Beglaubigung Paragraf 12 HGB), Aktivlegitimation, Vollständigkeit der Anlagen, örtliche und sachliche Zuständigkeit Paragraf 376 FamFG i.V.m. RPflG |
-| `02-firmenrecht-pruefen` | Firmenprüfung Paragrafen 17-37a HGB: Kennzeichnungseignung, Unterscheidbarkeit (Paragraf 30 HGB), Irrefuehrungsverbot (Paragraf 18 Abs. 2), Rechtsformzusatz, Sitzangabe |
-| `03-gesellschaftsvertrag-pruefen-gmbh` | Prüfung GmbH-Satzung Paragraf 3 GmbHG: Mindestinhalt, Stammkapital, Geschaeftsfuehrervertretung, Gegenstand des Unternehmens, Satzungsstrenge bei Aktiengesellschaft |
-| `04-vertretungsmacht-und-prokura` | Eintragung Geschaeftsfuehrer Paragraf 39 GmbHG, Vorstand Paragraf 81 AktG, Prokura Paragrafen 48-53 HGB (Erteilung, Erloeschen, Gesamtprokura), Handlungsvollmacht Paragraf 54 |
-| `05-kapitalerhoehung-und-kapitalherabsetzung` | Prüfung Kapitalerhoehung GmbH Paragrafen 55-57 GmbHG, AG Paragrafen 182-191 AktG; Kapitalherabsetzung Paragrafen 58-58f GmbHG; Werthaltigkeit Sacheinlage Paragraf 9 GmbHG |
-| `06-umwandlung-eintragen` | Eintragung Umwandlungen Paragrafen 16 und 19 UmwG: Verschmelzung, Spaltung, Formwechsel; Sperrwirkung Paragraf 16 Abs. 2 UmwG, Werthaltigkeit, Gläubigerschutz |
-| `07-zwischenverfuegung-und-beschwerde` | Zwischenverfuegung Paragraf 382 FamFG, Frist setzen, Hinweisbeschluss; Beschwerde Paragrafen 58-72 FamFG, Abhilfe; Rechtsbeschwerde Paragrafen 70 ff. |
-| `08-loeschung-von-amts-wegen` | Loeschung wegen Vermögenslosigkeit Paragraf 394 FamFG; Loeschung wegen Mangel des Gesellschaftsvertrags Paragraf 397 FamFG; Anhörung Steuerverwaltung |
-| `09-vereins-und-genossenschaftsregister` | Vereinsregister Paragrafen 55-79 BGB: Anmeldung Paragraf 59, Eintragung, Vorstandsbestellung, Wahrnehmung wirtschaftlicher Geschaefte (BGH Wertungen); Genossenschaftsregister Paragrafen 156 ff. GenG |
-| `10-entscheidungsvorschlag-register` | Strukturierter Entscheidungsvorschlag für den Registerrichter oder Rechtspfleger: Eintragungsentwurf, Hinweise zur Eintragungsfähigkeit, ggf. Zwischenverfuegungsentwurf, ausdrücklich zur Prüfung markiert |
-| `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (beschluss handelsregister) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
-| `prozessuale-kniffe-und-rechtsprechungsanker` | Verdichtet registergerichtliche Prozesskniffe zu Zwischenverfügung, Anhörung, Prüfungsumfang, Eintragung, Zurückweisung und Beschwerde. |
+| `01-anmeldung-pruefen-zustaendigkeit` | Wenn es um 01 Anmeldung Prüfen Zuständigkeit in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächste... |
+| `02-firmenrecht-pruefen` | Wenn es um 02 Firmenrecht Prüfen in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `03-gesellschaftsvertrag-pruefen-gmbh` | Wenn es um 03 Gesellschaftsvertrag Prüfen Gmbh in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken... |
+| `04-vertretungsmacht-und-prokura` | Wenn es um 04 Vertretungsmacht und Prokura in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
+| `05-kapitalerhoehung-und-kapitalherabsetzung` | Wenn es um 05 Kapitalerhoehung und Kapitalherabsetzung in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten,... |
+| `06-umwandlung-eintragen` | Wenn es um 06 Umwandlung Eintragen in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `07-zwischenverfuegung-und-beschwerde` | Wenn es um 07 Zwischenverfügung und Beschwerde in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `08-loeschung-von-amts-wegen` | Wenn es um 08 Löschung Von Amts Wegen in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachwei... |
+| `09-vereins-und-genossenschaftsregister` | Wenn es um 09 Vereins und Genossenschaftsregister in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
+| `10-entscheidungsvorschlag-register` | Wenn es um 10 Entscheidungsvorschlag Register in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
+| `99-finale-entscheidung-volltext` | Wenn es um Finale Entscheidung als Volltext (Beschluss Handelsregister) in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, P... |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

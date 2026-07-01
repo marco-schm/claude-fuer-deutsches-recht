@@ -1,6 +1,6 @@
 ---
 name: 10-entscheidungsvorschlag-register
-description: "Strukturierter Entscheidungsvorschlag für den Registerrichter oder Rechtspfleger: Eintragungsentwurf, Hinweise zur Eintragungsfähigkeit, ggf. Zwischenverfuegungsentwurf, ausdrücklich zur Prüfung markiert"
+description: "Wenn es um 10 Entscheidungsvorschlag Register in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # 10 Entscheidungsvorschlag Register

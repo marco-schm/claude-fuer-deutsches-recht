@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-3d-datenraum
-description: "3D-Tabellenreview im Datenraum: verbindet M&A-Datenraumprüfung mit interner Review-Matrix für Dokumente, Datenpunkte und Perspektiven Recht/Steuer/Wirtschaft im Mittelstand Corporate Ma."
+description: "Wenn es um 3D-Tabellenreview im Datenraum in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # 3D-Tabellenreview im Datenraum

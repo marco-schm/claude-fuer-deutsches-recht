@@ -1,6 +1,6 @@
 ---
 name: stb-susa-formfehler-pruefen
-description: "SuSa-Prüfung auf Formfehler Plausibilitaet und Differenzen. Anwendungsfall Qualitaetsprüfung der SuSa vor Versand oder Prüfung Buchungsdifferenzen typische Anomalien. Methodik Checkliste Plausibilitaet Differenz-Analyse. Output Fehlerprotokoll Korrekturmassnahmen."
+description: "Wenn es um SuSa-Pruefung — Formfehler, Plausibilitaet, Differenzen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SuSa-Pruefung — Formfehler, Plausibilitaet, Differenzen

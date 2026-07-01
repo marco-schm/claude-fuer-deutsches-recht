@@ -1,6 +1,6 @@
 ---
 name: lohnsteuer-sozialversicherung
-description: "Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, Paragraf 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis: Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, Paragraf 7a SGB IV) und lohnsteuerliche Fragen im..."
+description: "Wenn es um Lohnsteuer Sozialversicherung in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, Paragraf 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis

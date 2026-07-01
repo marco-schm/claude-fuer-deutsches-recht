@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-dokumentenanalyse
-description: "Methodikskill HOAI LPH 8 — Strukturierter für Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Prüfung Lieferscheine und Material..."
+description: "Wenn es um Dokumentenanalyse und Aufmass in der Bauueberwachung LPH 8 in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Dokumentenanalyse und Aufmass in der Bauueberwachung LPH 8

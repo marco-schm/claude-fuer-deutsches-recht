@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-passive-veredelung
-description: "Vertiefter Skill fuer Passive Veredelung. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: "Wenn es um Passive Veredelung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Passive Veredelung

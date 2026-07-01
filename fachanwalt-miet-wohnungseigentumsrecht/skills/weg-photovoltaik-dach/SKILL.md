@@ -1,6 +1,6 @@
 ---
 name: weg-photovoltaik-dach
-description: "WEG Photovoltaik Dach: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Beschlusskompetenz, Statik, Einspeisung, Dachnutzung, Kosten/Nutzen; mit Normprüfung, Beweisen, Fristen, Risiko..."
+description: "Wenn es um WEG Photovoltaik Dach: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Photovoltaik Dach: Fachmodul im Miet- und Wohnungseigentumsrecht

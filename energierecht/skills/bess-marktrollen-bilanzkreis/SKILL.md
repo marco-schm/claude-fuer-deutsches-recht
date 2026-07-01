@@ -1,6 +1,6 @@
 ---
 name: bess-marktrollen-bilanzkreis
-description: "Prüft Betreiber, Lieferant, Direktvermarkter, Bilanzkreis, Redispatch, Fahrplan, MaStR und Datenpflichten im Energierecht."
+description: "Wenn es um Marktrollen, Bilanzkreis und Redispatch in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Marktrollen, Bilanzkreis und Redispatch

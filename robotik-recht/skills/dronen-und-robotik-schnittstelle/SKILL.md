@@ -1,6 +1,6 @@
 ---
 name: dronen-und-robotik-schnittstelle
-description: "Prüft Drohnen als Robotik-Schnittstelle: EU-UAS-Regeln, Kamera, autonome Funktionen, Haftung und Einsatzplanung."
+description: "Wenn es um Drohnen und Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drohnen und Robotik

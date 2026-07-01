@@ -1,6 +1,6 @@
 ---
 name: hgb-compliance-geschaeftsbriefe-impressum
-description: "Prüft Pflichtangaben auf Geschäftsbriefen, E-Mails, Rechnungen und Webseiten im Handelsrecht Hgb."
+description: "Wenn es um HGB Compliance Geschäftsbriefe in Handelsrecht HGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # HGB Compliance Geschäftsbriefe

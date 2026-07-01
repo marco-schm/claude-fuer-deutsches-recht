@@ -1,6 +1,6 @@
 ---
 name: mehrdeutigkeit-305c2
-description: "Norm- und Dogmatik-Skill für Mehrdeutigkeit 305c2: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Mehrdeutigkeit 305c2 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Mehrdeutigkeit 305c2

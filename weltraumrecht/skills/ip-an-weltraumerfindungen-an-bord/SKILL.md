@@ -1,6 +1,6 @@
 ---
 name: ip-an-weltraumerfindungen-an-bord
-description: "Patentrecht für Weltraumerfindungen – Jurisdiktion an Bord, ISS, Arbeitgebererfindung im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: IP an Weltraumerfindungen an Bord in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: IP an Weltraumerfindungen an Bord

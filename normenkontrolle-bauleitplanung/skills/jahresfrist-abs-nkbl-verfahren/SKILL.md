@@ -1,6 +1,6 @@
 ---
 name: jahresfrist-abs-nkbl-verfahren
-description: "Jahresfrist und Präklusion im Normenkontrollverfahren: VwGO § 47, BauGB §§ 214/215, Bekanntmachung, Rüge, Fehlerfolgen und Eilrechtsschutz sauber prüfen."
+description: "Wenn es um Jahresfrist, Rüge und Fehlerfolgen im Normenkontrollverfahren in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jahresfrist, Rüge und Fehlerfolgen im Normenkontrollverfahren

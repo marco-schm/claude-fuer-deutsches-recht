@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476
-description: "Prüft, ob Händler oder Hersteller objektive Anforderungen, digitale Funktionen, Updateversprechen, Kompatibilität oder Interoperabilität wirksam abbedungen haben."
+description: "Wenn es um Kaufrecht: Abweichung von objektiven Anforderungen Paragraf 476 BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kaufrecht: Abweichung von objektiven Anforderungen § 476 BGB

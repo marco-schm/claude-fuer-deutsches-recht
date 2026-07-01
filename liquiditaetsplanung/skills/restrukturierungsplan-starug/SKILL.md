@@ -1,6 +1,6 @@
 ---
 name: restrukturierungsplan-starug
-description: "Liquiditaetsplanung im Restrukturierungsplan StaRUG: Plan-Liquiditaet, Sanierungsbeitraege Gläubiger, Working-Capital-Plan, Cash-Out-Termine. Output: integrierter Plan und Gläubigerverteilungsschema."
+description: "Wenn es um Liqui im StaRUG-Plan in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Liqui im StaRUG-Plan

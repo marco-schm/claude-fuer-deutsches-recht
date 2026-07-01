@@ -1,6 +1,6 @@
 ---
 name: plaedoyer-begruendung-und-verteidigung
-description: "Plädoyer, Begründung und Verteidigung der Forschungszulage: macht aus Technik, Belegen, Kosten und Behördenkritik einen überzeugenden Vortrag für BSFZ, Finanzamt, Einspruch, Mandantenmemo oder Geschäftsführungsentscheidung. Mit Argumentationsarchitektur, Gegenargumenten, Beleganker, Tonalität, Ku"
+description: "Wenn es um Plädoyer, Begründung und Verteidigung der Forschungszulage in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Plaedoyer Begruendung Und Verteidigung; Arbeitsfeld: Forschungszulage-Antragstellung."
 ---
 
 # Plädoyer, Begründung und Verteidigung der Forschungszulage

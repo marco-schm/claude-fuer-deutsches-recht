@@ -1,3 +1,14 @@
+# v406.0.0 — Skill-Auswahl und Einstiegssignale geschärft
+
+- Repo-weiter Sweep der Skill-Beschreibungen: Auswahlsignale nennen jetzt konkreter Anlass, Rechtsbereich, Arbeitsschritt und verwertbares Arbeitsprodukt.
+- Exakte Beschreibungsdoppelungen und abgeschnittene Frontmatter-Sätze bereinigt; Alias-Skills erhalten eigene Auswahlstichwörter.
+- Subsumtionsprüfer-Verweise auf vorhandene Skill-Slugs nachgezogen, damit Anschlussmodule tatsächlich gefunden werden.
+- README-Einstiege in Gericht-, Staatsanwaltschaft-, Straf-, Sozialversicherungsstatus-, Lobbyregister- und Corporate-Plugins fachlich differenziert.
+- Neues Audit-Skript für Auswahlqualität ergänzt; Mitwirkenden-Hinweise an die erlaubten Frontmatter-Felder angepasst.
+- Repo-weiter Versions-Bump auf v406.0.0.
+
+---
+
 # v405.1.0 — Rentenakten-Downloads vervollständigt
 
 - Fünf Rentenrecht-Testakten verlinken nun in ihrer README jeweils das Gesamt-PDF, das Akten-ZIP und das Einzel-PDF-ZIP im üblichen Download-Dreiklang.

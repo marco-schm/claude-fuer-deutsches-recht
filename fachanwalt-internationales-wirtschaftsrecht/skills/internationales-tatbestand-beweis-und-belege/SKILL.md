@@ -1,6 +1,6 @@
 ---
 name: internationales-tatbestand-beweis-und-belege
-description: "Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage: Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Wenn es um Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Internationales Wirtschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage

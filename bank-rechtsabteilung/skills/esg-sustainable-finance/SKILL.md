@@ -1,6 +1,6 @@
 ---
 name: esg-sustainable-finance
-description: "ESG und Sustainable Finance in der Bank: Offenlegung, Taxonomie, Green Claims, Kreditpolitik, Anlageprodukte, Reputationsrisiko und Vorstandskommunikation prüfen im Bank-Rechtsabteilung."
+description: "Wenn es um ESG Sustainable Finance in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # ESG Sustainable Finance

@@ -1,6 +1,6 @@
 ---
 name: bmftr-raumfahrt-und-weltraumrecht-wrgg
-description: "Sachbereich Raumfahrt- und Weltraumrecht im Geschäftsbereich BMFTR: Normbestand (WRG (Weltraumgesetz; geplant); ATG; SatDSiG; WeltraumvertraegeBGBl II.); Akteure (BMFTR; DLR; Bundeswehr (sicherheitsrelevant); ESA.); EU-Bezug (EU Space Act (in Vorbereitung); GovSatCom; Copernicus; Galileo.); typi..."
+description: "Wenn es um Raumfahrt- und Weltraumrecht (BMFTR) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Raumfahrt- und Weltraumrecht (BMFTR)

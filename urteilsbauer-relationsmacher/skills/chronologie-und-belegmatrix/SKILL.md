@@ -1,6 +1,6 @@
 ---
 name: chronologie-und-belegmatrix
-description: "Chronologie und Belegmatrix im Bereich urteilsbauer-relationsmacher: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Chronologie und Belegmatrix in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie und Belegmatrix

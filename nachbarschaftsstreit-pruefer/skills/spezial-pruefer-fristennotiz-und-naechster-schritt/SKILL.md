@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefer-fristennotiz-und-naechster-schritt
-description: "Pruefer: Fristennotiz und nächster Schritt im Plugin nachbarschaftsstreit pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Pruefer: Fristennotiz und nächster Schritt in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pruefer: Fristennotiz und nächster Schritt

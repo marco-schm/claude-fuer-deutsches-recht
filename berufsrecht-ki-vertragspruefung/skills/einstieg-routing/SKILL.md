@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Berufsrechts-KI bei Vertragsprüfung: ordnet Rolle (Anwalt/Kanzlei, Mandant, KI-Anbieter), markiert Frist (Rechtzeitige Mandatsannahme), wählt Norm (§ 43a BRAO, § 50 BRAO Aktenführung, DSGVO Art. 28 AVV) und Zuständigkeit (RAK), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in anwaltlichem Berufsrecht und Vertragsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

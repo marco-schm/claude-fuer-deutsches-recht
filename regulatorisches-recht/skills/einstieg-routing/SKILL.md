@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Regulatorisches Recht (Sektoren): ordnet Rolle (Unternehmen reguliert, Aufsichtsbehörde, Verbraucher/Kunden), markiert Frist (Beschwerdefrist Aufsichtsbescheid), wählt Norm (TKG, EnWG, KWG, VersAufsG, AMG, Branchen-Spezialgesetze) und Zuständigkeit (BNetzA), leite..."
+description: "Wenn es um Einstieg und Routing in Regulatorisches Recht – Plugin für deutsches geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

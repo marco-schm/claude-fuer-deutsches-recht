@@ -1,6 +1,6 @@
 ---
 name: design-uwg-designnichtigkeit-dpma
-description: "Designrecht und UWG-Nachahmungsschutz verbinden: wettbewerbliche Eigenart, vermeidbare Herkunftstäuschung, Rufausbeutung, Schutzlücken nach Ablauf oder fehlender Anmeldung im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Design Und Uwg Nachahmungsschutz in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Design Und Uwg Nachahmungsschutz

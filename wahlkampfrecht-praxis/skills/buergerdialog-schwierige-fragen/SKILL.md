@@ -1,6 +1,6 @@
 ---
 name: buergerdialog-schwierige-fragen
-description: "Wahlkampfrecht Praxis: Buergerdialoge mit unangenehmen, aber legitimen Fragen vorbereiten im Wahlkampfrecht."
+description: "Wenn es um Buergerdialog Schwierige Fragen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergerdialog Schwierige Fragen

@@ -1,6 +1,6 @@
 ---
 name: audit-rights-supplier
-description: "Internationales Handelsrecht: Audit-Rechte gegenüber Lieferanten. Vertragliche Grundlage, Umfang (Qualität, Umwelt, Menschenrechte, Finanzprüfung), Ankündigung, Datenzugang, Ergebnisverwertung und LkSG-Prüfpflichten bei mittelbaren Zulieferern im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Audit-Rechte gegenüber Lieferanten in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Audit-Rechte gegenüber Lieferanten

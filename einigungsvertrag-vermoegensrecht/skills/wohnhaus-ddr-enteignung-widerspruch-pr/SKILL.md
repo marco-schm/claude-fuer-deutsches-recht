@@ -1,6 +1,6 @@
 ---
 name: wohnhaus-ddr-enteignung-widerspruch-pr
-description: "Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Widerspruch prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Wohnhaus Ddr Enteignung Widerspruch Pr in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnhaus Ddr Enteignung Widerspruch Pr

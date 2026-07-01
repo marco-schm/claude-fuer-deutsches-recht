@@ -1,6 +1,6 @@
 ---
 name: polizeifilmerei-beweissicherung-kug-201-stgb
-description: "Versammlungsrecht: Polizeieinsätze, Gegenaufnahmen, Beweissicherung, KUG/KunstUrhG, § 201 StGB, § 201a StGB, Presse- und Versammlungsfreiheit, Vor-Ort-Kommunikation und Nachbereitung im Versammlungsrecht."
+description: "Wenn es um Polizei Filmen Auf Versammlungen in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Polizei Filmen Auf Versammlungen

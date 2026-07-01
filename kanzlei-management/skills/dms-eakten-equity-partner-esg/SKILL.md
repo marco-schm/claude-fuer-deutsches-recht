@@ -1,6 +1,6 @@
 ---
 name: dms-eakten-equity-partner-esg
-description: "Regelt Aktenstruktur, Versionen, Zugriffe, Archiv und Exportfähigkeit. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um DMS und E-Akten Governance in Kanzlei Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # DMS und E-Akten Governance

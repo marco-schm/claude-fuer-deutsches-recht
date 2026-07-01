@@ -1,6 +1,6 @@
 ---
 name: buergergeld-krankenversicherung-umschi
-description: "Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Umschichtung simulieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Buergergeld Krankenversicherung Umschi in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergergeld Krankenversicherung Umschi

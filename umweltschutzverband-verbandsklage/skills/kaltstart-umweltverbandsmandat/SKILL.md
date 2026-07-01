@@ -1,6 +1,6 @@
 ---
 name: kaltstart-umweltverbandsmandat
-description: "Umweltschutzverband Verbandsklage: Kaltstart Umweltverbandsmandat. Kaltstart Umweltverbandsmandat im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Kaltstart Umweltverbandsmandat in Umweltschutzverband Verbandsklage geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Umweltverbandsmandat

@@ -1,6 +1,6 @@
 ---
 name: mandantenfreundliche-quellenkarte-check
-description: "Mandantenfreundliche Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Mandantenfreundliche Quellenkarte Check in Plugin für die studentische Rechtsberatungsstelle geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mandantenfreundliche Quellenkarte Check

@@ -1,6 +1,6 @@
 ---
 name: stammkapital-einzahlung
-description: "Stammkapitaleinzahlung bei GmbH-Gründung nachweisen: Mindesteinzahlung, Bankbescheinigung, Sacheinlage. Normen: Paragraf 7 Abs. 2 und 19 GmbHG. Prüfraster: Mindesteinzahlung 50 Prozent, Bankbescheinigung, Sacheinlageprüfung, verdeckte Sacheinlage. Output: Einzahlungsdokumentation und Bankbescheinigungs..."
+description: "Wenn es um Stammkapital-Einzahlung in gesellschaftsgründer — Gründungsassistent für deutsche geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stammkapital-Einzahlung

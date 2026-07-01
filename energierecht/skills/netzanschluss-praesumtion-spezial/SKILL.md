@@ -1,6 +1,6 @@
 ---
 name: netzanschluss-praesumtion-spezial
-description: "Spezialfall Netzanschluss-Verweigerung trotz EEG-Vorrang: Pflicht zur Optimierung und Verstaerkung § 12 EEG, wirtschaftliche Zumutbarkeit, einstweilige Verfuegung gegen Netzbetreiber. Schriftsatzbausteine und Rechtsprechung BGH und Clearingstelle im Energierecht."
+description: "Wenn es um Energie: Netzanschluss-Verweigerung in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Energie: Netzanschluss-Verweigerung

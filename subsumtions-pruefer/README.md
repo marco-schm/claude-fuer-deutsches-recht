@@ -67,22 +67,22 @@ Normbestimmung
 │
 Subsumtion
 │
-├─ norm-zerlegen-in-tatbestandsmerkmale
+├─ norm-zerlegen-mandantenbrief
 ├─ ungeschriebene-merkmale-judikatur
 ├─ generalklauseln-pruefen
 ├─ unbestimmte-rechtsbegriffe-pruefen
-├─ subsumtion-obersatz-definition-untersatz-ergebnis
+├─ subsumtion-obersatz-rewrite-klausurton-triage
 ├─ beweisbedarf-und-belege-erfassen
 ├─ darlegungs-und-beweislast-verteilen
-├─ gegen-tbm-und-einreden-pruefen
+├─ zerlegen-risikoampel-und-gegenargumente
 │
 Rechtsfolgen
 │
-├─ rechtsfolge-bestimmen
+├─ rechtsfolge-bestimmen-einreden-interaktiver
 ├─ konkurrenzen-anspruchsgrundlagen
 ├─ verjaehrung-fristen-pruefen
-├─ verfahrensart-bestimmen
-├─ eu-vorabentscheidung-pruefen
+├─ verfahrensart-bestimmen-verjaehrung
+├─ eu-vorabentscheidung-falsche-wiese
 ├─ grundrechte-pruefung-de-und-grch
 │
 Ausgabe (wählbar)
@@ -131,24 +131,24 @@ Das System warnt aktiv in folgenden Situationen:
 
 | Skill | Funktion |
 |---|---|
-| `norm-zerlegen-in-tatbestandsmerkmale` | TBM-Liste mit Definitionen |
+| `norm-zerlegen-mandantenbrief` | TBM-Liste mit Definitionen |
 | `ungeschriebene-merkmale-judikatur` | Richterrechtlich entwickelte Merkmale |
 | `generalklauseln-pruefen` | Generalklauseln — Indizien und Fallgruppen |
 | `unbestimmte-rechtsbegriffe-pruefen` | Auslegungsmaßstäbe für unbestimmte Begriffe |
-| `subsumtion-obersatz-definition-untersatz-ergebnis` | Vier-Schritt-Schema je TBM |
+| `subsumtion-obersatz-rewrite-klausurton-triage` | Vier-Schritt-Schema je TBM |
 | `beweisbedarf-und-belege-erfassen` | Beweismittel-Katalog und Tracking |
 | `darlegungs-und-beweislast-verteilen` | Beweislast pro TBM |
-| `gegen-tbm-und-einreden-pruefen` | Einwendungen und Einreden |
+| `zerlegen-risikoampel-und-gegenargumente` | Einwendungen und Einreden |
 
 ### D. Rechtsfolgen, Konkurrenzen, Verfahren
 
 | Skill | Funktion |
 |---|---|
-| `rechtsfolge-bestimmen` | Anspruchsinhalt, Höhe, Nebenansprüche |
+| `rechtsfolge-bestimmen-einreden-interaktiver` | Anspruchsinhalt, Höhe, Nebenansprüche |
 | `konkurrenzen-anspruchsgrundlagen` | Normkonkurrenzen und Spezialität |
 | `verjaehrung-fristen-pruefen` | Verjährung, Hemmung, Neubeginn |
-| `verfahrensart-bestimmen` | Passende Verfahrensart und Zuständigkeit |
-| `eu-vorabentscheidung-pruefen` | Art. 267 AEUV — Voraussetzungen |
+| `verfahrensart-bestimmen-verjaehrung` | Passende Verfahrensart und Zuständigkeit |
+| `eu-vorabentscheidung-falsche-wiese` | Art. 267 AEUV — Voraussetzungen |
 | `grundrechte-pruefung-de-und-grch` | GG und GRCh — Drei-Schritt-Schema |
 
 ### E. Output-Erzeugung
@@ -194,67 +194,67 @@ Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `anwenden-quellenkarte` | Anwenden Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `beweisbedarf-und-belege-erfassen` | Erfasst pro Tatbestandsmerkmal den Beweisbedarf: Beweismittel-Katalog (Urkunden, Zeugen, Sachverständige, Augenschein, Parteivernehmung), Belege hochladen, Tatsachenbehauptung eintragen oder 'beweise ich spaeter'-Markierung setzen. Struk... |
-| `darlegungs-und-beweislast-verteilen` | Verteilt Darlegungs- und Beweislast nach Grundregel (wer Recht behauptet traegt Beweislast), Beweislastumkehr (Produkthaftung, Diskriminierung, DSGVO), sekundaerer Darlegungslast und Anscheinsbeweis. Pro TBM: wer muss was beweisen im Sub... |
-| `dokumente-intake` | Dokumentenintake für Subsumtions-Prüfer (Jura): sortiert Sachverhalt, Lösungsskizze, Norm-Tatbestand, prüft Datum, Absender, Frist und Beweiswert (Urkunden, Zeugen); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
-| `einreden-compliance-dokumentation-und-akte` | Einreden: Compliance-Dokumentation und Aktenvermerk im Subsumtions Prüfer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `einschlaegige-normen-vorschlagen-de` | Schlaegt anhand eines Lebenssachverhalts einschlaegige Normen des deutschen Rechts vor: BGB, HGB, StGB, StPO, ZPO, VwGO, GG, AO, SGB und Nebengesetze. Gibt Prüfungsreihenfolge und Hinweise auf Spezialitaet und konkurrierende Anspruchsgru... |
-| `einschlaegige-normen-vorschlagen-eu` | Schlaegt einschlaegige Normen des Unionsrechts vor: AEUV, EUV, GRCh (Primaerrecht) sowie EU-Verordnungen und Richtlinien (Sekundaerrecht). Gibt Hinweise auf EuGH-Judikatur und Fundstellen bei curia.europa.eu. Klaert unmittelbare Wirkung... |
-| `einstieg-routing` | Einstieg, Triage und Routing für Subsumtions-Prüfer (Jura): ordnet Rolle (Studentenr, Bearbeiter), markiert Frist (keine harten Fristen), wählt Norm (BGB, StGB, GG, Methodenlehre) und Zuständigkeit (zuständige Stelle), leitet zum passend... |
-| `eu-abgrenzung-einschlaegige-normen` | Klaert die Abgrenzung zwischen nationalem deutschen Recht und Unionsrecht: wann gilt AEUV/EUV/GRCh/Verordnung/Richtlinie unmittelbar, wann richtlinienkonforme Auslegung, wann Vorabentscheidungsersuchen Art. 267 AEUV und Anwendungsvorrang... |
-| `eu-vorabentscheidung-falsche-wiese` | Prüft die Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV: Vorlagebefugnis und -pflicht, CILFIT-Ausnahmen (acte clair/eclaire), Consorzio-Erweiterung, Vorlagepflicht letzter Instanz, Formulierung der Vorlagefrage, curi... |
-| `europarecht-fristen-form-und-zustaendigkeit` | Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg im Subsumtions Prüfer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `falsche-wiese-warnung` | Warnt vor typischen Falschverortungen im Recht: Vertrag statt Delikt, Verwaltungsakt vs. Realakt, Strafrecht statt Ordnungswidrigkeit, Unionsrecht statt nationales Recht. Mechanisches Durchprüfen der richtigen Prüfungsebene vor Normanwen... |
-| `fehlerklasse-bgb-at-training` | Ordnet BGB-AT-Fehler in Klausuren: Vertragsschluss, Zugang, Minderjaehrige, Stellvertretung, Anfechtung, Form und Fristen. Trainiert strukturiertes Erkennen, Gewichten und Beheben von Klausurfehlern im Subsumtions Prüfer. |
-| `generalklauseln-pruefen` | Prüft Generalklauseln wie Treu und Glauben (§ 242 BGB), gute Sitten (§ 138 BGB), billiges Ermessen, öffentliches Interesse und Verhältnismäßigkeit. Gibt Indizien und Fallgruppen statt mechanischer Subsumtion. Warnt vor der Grenzen automa... |
-| `grundrechte-pruefung-de-und-grch` | Prüft Grundrechte nach GG (Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung) und GRCh (Art. 51/52 GRCh). Unterscheidet Abwehr-, Leistungs- und Schutzpflichtdimension. Verhältnismäßigkeitsprüfung mit Zweck, Geeignetheit, Erforderlich... |
-| `interaktiver-erstpruefung-und-mandatsziel` | Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Subsumtions Prüfer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `interessen-rechtsberatung-rechtsfolgen` | Prüfen: Mehrparteienkonflikt und Interessenmatrix im Subsumtions Prüfer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `kandidatenloesung-subsumtion-pruefen` | Prüft abgegebene Klausur- oder Probandenloesungen auf Obersatz, Definition, Untersatz, Beleg, Ergebnis und typische Scheinkausalitaet. Gibt Korrekturvermerk mit Punkteindikation und Musterpassage im Subsumtions Prüfer. |
-| `kommentar-literatur-konkurrenzen` | Quellenhinweis für vertiefte Subsumtion. Gibt keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen aus. Markiert, welche Normen vertieft in Literatur oder Datenbanken zu prüfen sind, und fordert Nutzerquellen oder lizenzi... |
-| `konkurrenzen-anspruchsgrundlagen` | Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspruchsgrundlagenkonkurrenz, Spezialitaet, Subsidiaritaet, lex specialis/posterior/superior. Klaert Verhältnis von Vertrags- zu Deliktsrecht, nationalem zu Unio... |
-| `mandatsabbruch-empfehlung-beweisbedarf` | Erkennt Indikatoren für Komplexitaetsgrenzen des mechanischen Prüfens und empfiehlt Abbruch sowie Weiterleitung an Fachanwalt, Notar, Steuerberater oder Behörde. Warnt bei Strafrecht, Verfassungsrecht, internationalem Privatrecht und Exi... |
-| `norm-historie-und-aenderungen` | Prüft die Norm-Historie: geltende Fassung zum massgeblichen Zeitpunkt, Übergangsvorschriften, intertemporales Recht, änderungsrelevante Gesetzgebungsverfahren. Warnt bei Normen, die seit dem Wissensstand des Systems geaendert worden sein... |
-| `norm-zerlegen-mandantenbrief` | Zerlegt eine Norm systematisch in ihre Tatbestandsmerkmale (TBM): geschriebene und ungeschriebene Merkmale, Definitionen aus h.M. und Rechtsprechung, Prüfungsreihenfolge. Grundlage für den Vier-Schritt der Subsumtion je TBM im Subsumtion... |
-| `output-alltagssprache-de` | Gibt das Subsumtionsergebnis in verstaendlicher Alltagssprache aus: ohne Fachbegriffe oder mit Erklärung, für Mandanten, Betroffene oder Behördenmitarbeiter. Behaelt die Strukturierung bei, vermeidet aber Lateinismen und Fachterminologie... |
-| `output-antrag-beschwerde-klageschrift` | Erzeugt Tenor-Bausteine, Rubrum und formale Mindestanforderungen für Antrag, Beschwerde und Klageschrift nach ZPO, VwGO, SGG, FGO und BVerfGG. Gibt Pflichtangaben, Fristen und Einreichungshinweise. Kein anwaltlicher Schriftsatz ohne anwa... |
-| `output-fremdsprachig-en-fr` | Gibt das Subsumtionsergebnis auf Englisch oder Franzoesisch aus. Enthaelt obligatorischen Hinweis auf nicht-amtliche Übersetzung und Abweichung von deutschen Originalnormen. Nuetzlich für internationale Mandanten, grenzüberschreitende Sa... |
-| `output-juristisch-gestochen-de` | Erzeugt Ausgaben im juristischen Schriftsatzstil auf Deutsch: Antrag-Begründung-Beweismittel-Struktur, Subsumtionsdarstellung im Vier-Schritt, Zitierweise nach BGH-Standard, Rubrum, Tenor. Für Schriftsaetze, Klageschriften, Widersprueche... |
-| `output-memo-und-mandantenbrief` | Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbrief als Ausgabe der Subsumtion. Klarer Unterschied: Memo für interne Nutzung mit juristischer Tiefe; Mandantenbrief für Betroffene in verstaendlicher Sprache. Beide mit Pfl... |
-| `output-pruefungsdokument-mit-warnhinweisen` | Erzeugt das vollständige Prüfungsdokument mit Pflicht-Kopfhinweis: kein Rechtsgutachten, kein Rechtsrat, nur mechanische Prüfung anhand Nutzerangaben. Enthaelt alle Warnhinweise an markanten Stellen des Dokuments und Abschluss-Disclaimer... |
-| `rechtsberatung-internationaler-bezug-und-schnittstellen` | Rechtsberatung: Internationaler Bezug und Schnittstellen im Subsumtions Prüfer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `rechtsfolge-bestimmen-einreden-interaktiver` | Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Hoehe, Tenor, Verwaltungsakt-Inhalt, Strafmass-Rahmen. Unterscheidet Primaeranspruch, Sekundaeranspruch und Nebenansprüche. Gibt Berechnungshinweise für Schadensers... |
-| `rechtsfolgen-zahlen-schwellen-und-berechnung` | Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung im Subsumtions Prüfer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `rechtsprechung-recherche-strategie` | Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/BAG/BSG/BVerwG/OLG/EuGH noetig ist. Nennt Fundstellen: curia.europa.eu, dejure.org, openjur, rechtsprechung-im-intern... |
-| `schema-schritt-subsumtions` | Schema: Verhandlung, Vergleich und Eskalation im Subsumtions Prüfer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `schritt-schriftsatz-brief-und-memo-bausteine` | Schritt: Schriftsatz-, Brief- und Memo-Bausteine im Subsumtions Prüfer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `selbst-vorgelegte-subsumtion-zerlegen` | Zerlegt eine vom Nutzer bereits formulierte Subsumtion streng nach Norm, Tatbestandsmerkmal, Tatsache, Beleg, Beweislast und Gegenargument. Liefert eine Lückenmatrix, prüft Beweislastumkehr und formuliert eine gerichtsfeste Gegenposition... |
-| `spezial-anwenden-livequellen-und-rechtsprechungscheck` | Anwenden: Livequellen- und Rechtsprechungscheck. |
-| `spezial-interaktiver-erstpruefung-und-mandatsziel` | Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel. |
-| `spezial-pruefen-mehrparteien-konflikt-und-interessen` | Pruefen: Mehrparteienkonflikt und Interessenmatrix. |
-| `spezial-schritt-schriftsatz-brief-und-memo-bausteine` | Schritt: Schriftsatz-, Brief- und Memo-Bausteine. |
-| `spezial-subsumtions-tatbestand-beweis-und-belege` | Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
-| `spezial-vier-behoerden-gericht-und-registerweg` | Vier: Behörden-, Gerichts- oder Registerweg. |
-| `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Subsumtions Prüfer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Doku... |
-| `subsumtion-obersatz-rewrite-klausurton-triage` | Führt die klassische juristische Vier-Schritt-Subsumtion durch: Obersatz (Norm und Rechtsfolge), Definition (TBM-Inhalt aus h.M./Rspr.), Untersatz (Sachverhalt unter Definition), Ergebnis (TBM erfuellt ja/nein/fraglich). Ein Durchlauf pr... |
-| `subsumtions-rewrite-klausurton` | Schreibt falsche oder lueckenhafte Subsumtionen in einen knappen juristischen Klausurton um, ohne neue Tatsachen zu erfinden. Vier-Schritt-Schema: Obersatz, Definition, Subsumtion, Ergebnis je Tatbestandsmerkmal im Subsumtions Prüfer. |
-| `subsumtions-tatbestand-beweis-und-belege` | Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage im Subsumtions Prüfer. |
-| `tatbestandsmerkmale-vier-zerlegen` | Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung im Subsumtions Prüfer. |
-| `tbm-grundrechte-grch-kandidatenloesung` | Prüft rechtshindernde, rechtsvernichtende und rechtshemmende Einwendungen und Einreden: Nichtigkeitsgründe, Anfechtung, Erfuellung, Aufrechnung, Verjährung, Zurückbehaltungsrecht, Verwirkung, Verzicht. Strukturierte Gegenprüfung nach Ans... |
-| `triage-rechtsfrage-oder-norm` | Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung davon hat. Stellt gezielte Rückfragen und leitet zum passenden naechsten Skill weiter. Warnt vor... |
-| `unbestimmte-rechtsbegriffe-ungeschriebene` | Prüft unbestimmte Rechtsbegriffe: wesentlich, erheblich, zumutbar, geeignet, angemessen, erforderlich. Gibt Auslegungsmassstaeibe aus Rechtsprechung und h.M., Indizien und Fallgruppen. Warnt vor der Grenze mechanischer Subsumtion bei wer... |
-| `ungeschriebene-merkmale-judikatur` | Identifiziert judicativ entwickelte ungeschriebene Tatbestandsmerkmale: Verkehrspflichten, teleologische Reduktion und Extension, richterrechtliche Fortbildung, Analogie. Warnt vor Grenzen der mechanischen Prüfung bei richterrechtlich ge... |
-| `unterlagen-luecken` | Lücken- und Beschaffungsliste für Subsumtions-Prüfer (Jura): trennt fehlende Tatsachen von fehlenden Belegen (Sachverhalt, Lösungsskizze, Norm-Tatbestand), nennt pro Lücke Beweisthema, Beschaffungsweg (zuständige Stelle), Frist und Ersat... |
-| `verfahrensart-bestimmen-verjaehrung` | Bestimmt die passende Verfahrensart: ordentlich (ZPO), einstweilig (§§ 935/940 ZPO), Mahnverfahren, FG-Verfahren, Schiedsverfahren, Insolvenzverfahren, OWi-Verfahren, Verwaltungs-, Straf- und Verfassungsgerichtsverfahren. Gibt formale Mi... |
-| `verjaehrung-fristen-pruefen` | Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhaengige Fristen, absolute 10- und 30-Jahresfristen, Hemmung (§§ 203 ff. BGB), Neubeginn (§ 212 BGB), prozessuale Notfristen und EU-Verjährungsregeln. Ergebnis: ver... |
-| `vier-behoerden-gericht-und-registerweg` | Behörden-, Gerichts- oder Registerweg; prüft welcher Weg zur zuständigen Behörde, zum richtigen Gericht oder zum einschlägigen Register führt. Gibt Normen, Fristen und Zuständigkeitsregeln für die vier klassischen Wege im Subsumtions Prü... |
-| `waehlen-rechtsprechung-recherche-europarecht` | Rechtsprechungsrecherche und Europarechtswahl im Subsumtionsprüfer: nationale Norm, EuGH-/BVerfG-Bezug, Vorlagefrage, Anwendungsvorrang und frei prüfbare Entscheidungsanker sauber trennen. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix für Subsumtion: Tatsachen, Tatbestandsmerkmale, Beweisangebote, Rechtsfolgen und Lücken in einer prüfbaren Matrix verbinden. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel für Subsumtion: Verjährung, Notfristen, Rechtsbehelfe, Ausschlussfristen, Zustellung und Beweisverlust als erste Weiche vor der materiellen Prüfung. |
-| `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
-| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
-| `zerlegen-risikoampel-und-gegenargumente` | Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien im Subsumtions Prüfer. |
-| `ziel-und-rechtsweg-bestimmung` | Ermittelt interaktiv das Nutzerziel (Anspruchsdurchsetzung, Abwehr, Antrag, Beschwerde, Strafverfolgung, Verwaltungsakt-Anfechtung) und leitet daraus den einschlaegigen Rechtsweg ab: ZPO, VwGO, SGG, FGO, StPO, FamFG. Warnt bei Zweifelsfa... |
+| `anwenden-quellenkarte` | Wenn es um Anwenden Quellenkarte in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `beweisbedarf-und-belege-erfassen` | Wenn es um Beweisbedarf und Belege erfassen in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `darlegungs-und-beweislast-verteilen` | Wenn es um Darlegungs- und Beweislast verteilen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `dokumente-intake` | Wenn es um Dokumentenintake in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `einreden-compliance-dokumentation-und-akte` | Wenn es um Einreden: Compliance-Dokumentation und Aktenvermerk in Subsumtions-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `einschlaegige-normen-vorschlagen-de` | Wenn es um Einschlägige Normen vorschlagen — Deutsches Recht in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nac... |
+| `einschlaegige-normen-vorschlagen-eu` | Wenn es um Einschlägige Normen vorschlagen — Unionsrecht in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `einstieg-routing` | Wenn es um Einstieg und Routing in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `eu-abgrenzung-einschlaegige-normen` | Wenn es um Deutsches Recht und Unionsrecht — Abgrenzung in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweis... |
+| `eu-vorabentscheidung-falsche-wiese` | Wenn es um EU-Vorabentscheidung prüfen (Art. 267 AEUV) in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisf... |
+| `europarecht-fristen-form-und-zustaendigkeit` | Wenn es um Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `falsche-wiese-warnung` | Wenn es um Falsche-Wiese-Warnung in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `fehlerklasse-bgb-at-training` | Wenn es um Fehlerklassen im BGB-AT-Training in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `generalklauseln-pruefen` | Wenn es um Generalklauseln prüfen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `grundrechte-pruefung-de-und-grch` | Wenn es um Grundrechte prüfen — GG und GRCh in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `interaktiver-erstpruefung-und-mandatsziel` | Wenn es um Interaktiv: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `interessen-rechtsberatung-rechtsfolgen` | Wenn es um Mehrparteienkonflikt und Interessenmatrix in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kandidatenloesung-subsumtion-pruefen` | Wenn es um Kandidatenlösung auf Subsumtion prüfen in Subsumtions-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kommentar-literatur-konkurrenzen` | Wenn es um Quellenhinweis ohne Blindzitate in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `konkurrenzen-anspruchsgrundlagen` | Wenn es um Konkurrenzen und Anspruchsgrundlagen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `mandatsabbruch-empfehlung-beweisbedarf` | Wenn es um Mandatsabbruch-Empfehlung: Weiterleitung an Fachanwalt in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `norm-historie-und-aenderungen` | Wenn es um Norm-Historie und Änderungen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `norm-zerlegen-mandantenbrief` | Wenn es um Norm zerlegen in Tatbestandsmerkmale in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `output-alltagssprache-de` | Wenn es um Output: Alltagssprache (Deutsch) in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `output-antrag-beschwerde-klageschrift` | Wenn es um Output: Antrag, Beschwerde, Klageschrift in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `output-fremdsprachig-en-fr` | Wenn es um Output: Fremdsprachig (Englisch und Französisch) in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `output-juristisch-gestochen-de` | Wenn es um Output: Juristisch gestochen (Deutsch) in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `output-memo-und-mandantenbrief` | Wenn es um Output: Memo und Mandantenbrief in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `output-pruefungsdokument-mit-warnhinweisen` | Wenn es um Output: Prüfungsdokument mit Warnhinweisen in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `rechtsberatung-internationaler-bezug-und-schnittstellen` | Wenn es um Rechtsberatung: Internationaler Bezug und Schnittstellen in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `rechtsfolge-bestimmen-einreden-interaktiver` | Wenn es um Rechtsfolge bestimmen in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `rechtsfolgen-zahlen-schwellen-und-berechnung` | Wenn es um Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung in Subsumtions-Prüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
+| `rechtsprechung-recherche-strategie` | Wenn es um Rechtsprechung-Recherche-Strategie in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `schema-schritt-subsumtions` | Wenn es um Schema: Verhandlung, Vergleich und Eskalation in Subsumtions-Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `schritt-schriftsatz-brief-und-memo-bausteine` | Wenn es um Schriftsatz-, Brief- und Memo-Bausteine in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `selbst-vorgelegte-subsumtion-zerlegen` | Wenn es um Selbst vorgelegte Subsumtion zerlegen in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-anwenden-livequellen-und-rechtsprechungscheck` | Wenn es um Anwenden: Livequellen- und Rechtsprechungscheck in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-interaktiver-erstpruefung-und-mandatsziel` | Wenn es um Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-pruefen-mehrparteien-konflikt-und-interessen` | Wenn es um Pruefen: Mehrparteienkonflikt und Interessenmatrix in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-schritt-schriftsatz-brief-und-memo-bausteine` | Wenn es um Schritt: Schriftsatz-, Brief- und Memo-Bausteine in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `spezial-subsumtions-tatbestand-beweis-und-belege` | Wenn es um Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-vier-behoerden-gericht-und-registerweg` | Wenn es um Vier: Behörden-, Gerichts- oder Registerweg in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `start-chronologie-fristen` | Wenn es um Subsumtions-Prüfer — Allgemein in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
+| `subsumtion-obersatz-rewrite-klausurton-triage` | Wenn es um Subsumtion: Obersatz – Definition – Untersatz – Ergebnis in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `subsumtions-rewrite-klausurton` | Wenn es um Subsumtion im Klausurton neu schreiben in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `subsumtions-tatbestand-beweis-und-belege` | Wenn es um Subsumtion: Tatbestandsmerkmale, Beweisfragen und Beleglage in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `tatbestandsmerkmale-vier-zerlegen` | Wenn es um Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
+| `tbm-grundrechte-grch-kandidatenloesung` | Wenn es um Gegen-TBM und Einreden prüfen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `triage-rechtsfrage-oder-norm` | Wenn es um Triage: Rechtsfrage oder Norm? in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `unbestimmte-rechtsbegriffe-ungeschriebene` | Wenn es um Unbestimmte Rechtsbegriffe prüfen in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ungeschriebene-merkmale-judikatur` | Wenn es um Ungeschriebene Merkmale und Judikatur in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `verfahrensart-bestimmen-verjaehrung` | Wenn es um Verfahrensart bestimmen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `verjaehrung-fristen-pruefen` | Wenn es um Verjährung und Fristen prüfen in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `vier-behoerden-gericht-und-registerweg` | Wenn es um Behörden-, Gerichts- und Registerweg in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
+| `waehlen-rechtsprechung-recherche-europarecht` | Wenn es um Rechtsprechung, Recherche und Europarechtsbezug wählen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- un... |
+| `workflow-chronologie-und-belegmatrix` | Wenn es um Chronologie und Belegmatrix für Subsumtion in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
+| `workflow-fristen-und-risikoampel` | Wenn es um Fristen- und Risikoampel für Subsumtion in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `workflow-kaltstart-und-routing` | Wenn es um Kaltstart und Routing in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `workflow-unterlagen-lueckenliste` | Wenn es um Unterlagen- und Lückenliste in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
+| `zerlegen-risikoampel-und-gegenargumente` | Wenn es um Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien in Subsumtions-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ziel-und-rechtsweg-bestimmung` | Wenn es um Ziel- und Rechtsweg-Bestimmung in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

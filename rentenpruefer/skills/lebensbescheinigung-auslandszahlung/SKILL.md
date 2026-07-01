@@ -1,6 +1,6 @@
 ---
 name: lebensbescheinigung-auslandszahlung
-description: "Lebensbescheinigung und Auslandszahlung: Nachweise, Botschaft/Konsulat, Fristen, Postprobleme und Zahlungsunterbrechung im Rentenpruefer."
+description: "Wenn es um lebensbescheinigung-und-auslandszahlung in Rentenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # lebensbescheinigung-und-auslandszahlung

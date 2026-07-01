@@ -1,6 +1,6 @@
 ---
 name: investitionsfoerderung-einzelfoerderung
-description: "Investitionsfoerderung nach § 9 KHG und Landeskrankenhausgesetzen: Einzelfoerderung, Pauschalfoerderung, Bauplanungs-/Bauordnungsbezuege, KHZG-Mittel, Antrag, Bescheid, Rueckforderung im Krankenhausrecht."
+description: "Wenn es um Investitionsfoerderung Einzelfoerderung Pauschalfoerderung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Investitionsfoerderung Einzelfoerderung Pauschalfoerderung

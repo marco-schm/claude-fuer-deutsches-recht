@@ -1,6 +1,6 @@
 ---
 name: yachtkauf-kaufvertrag-scopen
-description: "Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus scopet Kaufvertrag für Segel- oder Motorjacht: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007..."
+description: "Wenn es um Yachtkauf – Kaufvertrag scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Yachtkauf – Kaufvertrag scopen

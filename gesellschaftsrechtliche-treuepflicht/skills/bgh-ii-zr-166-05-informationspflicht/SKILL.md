@@ -1,6 +1,6 @@
 ---
 name: bgh-ii-zr-166-05-informationspflicht
-description: "Gesellschaftsrechtliche Treuepflicht: BGH II ZR 166 05 Informationspflicht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um BGH II ZR 166 05 Informationspflicht in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # BGH II ZR 166 05 Informationspflicht

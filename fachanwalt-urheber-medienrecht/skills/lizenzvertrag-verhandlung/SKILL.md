@@ -1,6 +1,6 @@
 ---
 name: lizenzvertrag-verhandlung
-description: "Lizenzvertraege für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten: §§ 31 ff. UrhG Nutzungsrechte §§ 87a ff. UrhG Leistungsschutz. Prüfra..."
+description: "Wenn es um Lizenzvertrag Verhandlung in Fachanwalt Urheber Medienrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Lizenzvertraege für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten

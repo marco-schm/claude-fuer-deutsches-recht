@@ -1,6 +1,6 @@
 ---
 name: aktenplan-infrastruktur
-description: "Straßenrecht und Infrastruktur: Aktenplan Infrastruktur. Aktenplan Infrastruktur im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fris..."
+description: "Wenn es um Aktenplan Infrastruktur in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aktenplan Infrastruktur

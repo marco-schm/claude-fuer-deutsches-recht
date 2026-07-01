@@ -1,6 +1,6 @@
 ---
 name: sklavenrecht-alr-ii-5-196-197
-description: "Sklavenrecht im ALR — die beruehmten Bestimmungen ALR II 5 §§ 196 ff. zur Nichtanerkennung der Sklaverei in Preussen. Skill behandelt den Wortlaut der Schlüsselparagraphen die Wirkung Sklavenstatus bei Grenzuebertritt zu enden die Frage nach einer 1-Jahres-Frist (mit kritischer Auseinandersetzun..."
+description: "Wenn es um Sklavenrecht im ALR — ALR II 5 Paragrafen 196 ff. in Preußisches Allgemeines Landrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sklavenrecht im ALR — ALR II 5 §§ 196 ff.

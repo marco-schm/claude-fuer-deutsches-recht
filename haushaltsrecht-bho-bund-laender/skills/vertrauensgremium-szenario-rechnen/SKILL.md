@@ -1,6 +1,6 @@
 ---
 name: vertrauensgremium-szenario-rechnen
-description: "Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Szenario rechnen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Vertrauensgremium Szenario Rechnen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertrauensgremium Szenario Rechnen

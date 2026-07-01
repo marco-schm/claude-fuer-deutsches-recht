@@ -1,6 +1,6 @@
 ---
 name: grenze-zur-rechtsanwaltsberatung-kammerantwort-u
-description: "Patentanwälte: grenze zur rechtsanwaltsberatung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Grenze Zur Rechtsanwaltsberatung Kammerantwort U in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Patentanwälte: grenze zur rechtsanwaltsberatung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

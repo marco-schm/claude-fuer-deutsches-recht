@@ -1,6 +1,6 @@
 ---
 name: digital-services-datenzugang-forscher-dsa
-description: "Digital Services / Datenzugang Forscher DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren."
+description: "Wenn es um Datenzugang für Forschung nach Art. 40 DSA in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenzugang für Forschung nach Art. 40 DSA

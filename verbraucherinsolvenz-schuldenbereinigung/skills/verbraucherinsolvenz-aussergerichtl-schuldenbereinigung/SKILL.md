@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-aussergerichtl-schuldenbereinigung
-description: "Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO: Skill leitet durch die Erstellung des ersten Vergleichsvorschlags von der Vermögens- und Schuldenliste ueber die Quotenberechnung..."
+description: "Wenn es um Aussergerichtlicher Schuldenbereinigungsplan nach Paragrafen 305 InsO in Verbraucherinsolvenz und Schuldenbereinigung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO

@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "PrALR: Kaltstart, Quellenlage, Textzeugenvergleich, Spezialskill-Routing und erste verwertbare rechtsgeschichtliche Ausgabe."
+description: "Wenn es um PrALR - Allgemeiner Einstieg in Preußisches Allgemeines Landrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Allgemein; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # PrALR - Allgemeiner Einstieg

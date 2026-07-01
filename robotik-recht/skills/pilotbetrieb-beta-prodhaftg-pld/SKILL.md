@@ -1,6 +1,6 @@
 ---
 name: pilotbetrieb-beta-prodhaftg-pld
-description: "Prüft Pilot-/Beta-Betrieb mit Kunden: Haftung, Datenschutz, Kennzeichnung, Verantwortung, Abbruchkriterien und Lessons Learned im Robotik-Recht."
+description: "Wenn es um Pilotbetrieb und Beta Robotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Pilotbetrieb und Beta Robotik

@@ -1,6 +1,6 @@
 ---
 name: rentenauskunft-prognose-variantenvergleich
-description: "Wertet Renteninformation und Rentenauskunft aus: Prognoseannahmen, Wartezeiten, Entgeltpunkte, Abschläge und Beginnvarianten werden in eine verständliche Entscheidungsmatrix übersetzt."
+description: "Wenn es um Rentenauskunft Prognose Variantenvergleich in Rentenprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Rentenauskunft Prognose Variantenvergleich

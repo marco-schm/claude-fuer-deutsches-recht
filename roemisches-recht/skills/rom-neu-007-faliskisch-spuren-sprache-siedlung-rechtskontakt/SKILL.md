@@ -1,6 +1,6 @@
 ---
 name: rom-neu-007-faliskisch-spuren-sprache-siedlung-rechtskontakt
-description: "Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt

@@ -1,6 +1,6 @@
 ---
 name: gegenveranstaltung-trennung-infostand
-description: "Plant konkurrierende Versammlungen, Gegenprotest, Pufferzonen und gleichzeitige Grundrechtsausübung im Versammlungsrecht."
+description: "Wenn es um Gegenprotest ist nicht automatisch Störung in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gegenprotest ist nicht automatisch Störung

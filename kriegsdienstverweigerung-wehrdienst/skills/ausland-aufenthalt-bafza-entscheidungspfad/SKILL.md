@@ -1,6 +1,6 @@
 ---
 name: ausland-aufenthalt-bafza-entscheidungspfad
-description: "Prüft Ruhen der Wehrpflicht und Genehmigungspflichten bei Auslandsaufenthalten im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Auslandsaufenthalt in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auslandsaufenthalt

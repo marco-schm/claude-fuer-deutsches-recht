@@ -1,6 +1,6 @@
 ---
 name: ki-vo-hochrisiko-konformitaetsbewertung
-description: "KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach Art: 16-29 KI-VO 2024/1689. Anwendungsfall Unternehmen entwickelt oder setzt Hochrisiko-KI ein und benoetigt CE-Kennzeichnung und Konf..."
+description: "Wenn es um europäischer Technikregulierungsrahmen-Konformitätsbewertung für Hochrisiko-digitale Werkzeuge-Systeme nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach Art

@@ -1,6 +1,6 @@
 ---
 name: konkurrentenschutz-bestenauslese-art-richter
-description: "Prüfschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG bei Auswahlentscheidungen im öffentlichen Dienst. Liefert Bausteine für Konkurrentenwiderspruch und Konkurrentenklage. Klaert die drei Auswahlkriterien Eignung Befaehigung fachliche Leistung sowie Beurteilungsspielraum Beurteilungs..."
+description: "Wenn es um Konkurrentenschutz — Bestenauslese nach Art. 33 Abs. 2 GG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konkurrentenschutz — Bestenauslese nach Art. 33 Abs. 2 GG

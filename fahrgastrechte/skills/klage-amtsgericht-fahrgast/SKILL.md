@@ -1,6 +1,6 @@
 ---
 name: klage-amtsgericht-fahrgast
-description: "Klageentwurf zum Amtsgericht in Fahrgastrechte-Angelegenheiten. Sachliche Zuständigkeit § 23 Nr. 1 GVG bei Streitwert bis zehntausend Euro (i.d.F. seit 01.01.2026). Oertlich wahlweise Abfahrts- oder Zielbahnhof (Art. 7 Nr. 1 lit. b VO 1215/2012 Bruessel-Ia plus § 29 ZPO) oder Sitz / Niederlassung..."
+description: "Wenn es um Klage zum Amtsgericht (Fahrgastrechte) in Fahrgastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klage zum Amtsgericht (Fahrgastrechte)

@@ -1,6 +1,6 @@
 ---
 name: fahrtenbuchauflage
-description: "Straßenverkehrsrecht StVO: Fahrtenbuchauflage. Fahrtenbuchauflage im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..."
+description: "Wenn es um Fahrtenbuchauflage in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fahrtenbuchauflage

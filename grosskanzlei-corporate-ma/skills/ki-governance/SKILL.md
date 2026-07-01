@@ -1,6 +1,6 @@
 ---
 name: ki-governance
-description: "KI-Einsatz im Transaktionsmandat berufsrechtlich absichern: Anwendungsfall Anwalt moechte KI-Tools für Datenraumanalyse oder Vertragsentwurf nutzen und muss Mandatsgeheimnis, Datenschutz und KI-VO-Betreiberpflichten einhalten. Paragraf 43a BRAO Verschwiegenheit, Paragraf 43e BRAO IT-Dienstleister, Art. 4 KI-VO..."
+description: "Wenn es um digitale Werkzeuge-Governance und Berufsrecht in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI-Governance und Berufsrecht

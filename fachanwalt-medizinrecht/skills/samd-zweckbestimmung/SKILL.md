@@ -1,6 +1,6 @@
 ---
 name: samd-zweckbestimmung
-description: "Software as Medical Device Zweckbestimmung: moderner Medizinrechts-Skill für Softwaregrenze Wellness-App/Medizinprodukt, Zweckbestimmung, CE und ärztliche Anwendung: Software as Medical Device Zweckbestimmung: moderner Medizinrechts-Skill für Softwaregrenze..."
+description: "Wenn es um Samd Zweckbestimmung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Software as Medical Device Zweckbestimmung: moderner Medizinrechts-Skill für Softwaregrenze Wellness-App/Medizinprodukt, Zweckbestimmung, CE und ärztliche Anwendung

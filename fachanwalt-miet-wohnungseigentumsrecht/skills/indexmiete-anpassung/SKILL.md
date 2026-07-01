@@ -1,6 +1,6 @@
 ---
 name: indexmiete-anpassung
-description: "Indexmiete Anpassung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Indexbezug, Erklärung, Sperrfrist, Rechenweg, Mietpreisbremse-Schnittstelle; mit Normprüfung, Beweisen, Fristen,..."
+description: "Wenn es um Indexmiete Anpassung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Indexmiete Anpassung: Fachmodul im Miet- und Wohnungseigentumsrecht

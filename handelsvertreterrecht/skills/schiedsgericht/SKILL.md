@@ -1,6 +1,6 @@
 ---
 name: schiedsgericht
-description: "Prüft Schiedsklauseln in Handelsvertreterverträgen: Wirksamkeit von Schiedsvereinbarungen nach §§ 1029 ff. ZPO, Verhältnis zu zwingenden Schutznormen des § 92c HGB, Vor- und Nachteile des Schiedsverfahrens, Anerkennung und Vollstreckung von Schiedssprüchen sowie Vorsorgemaßnahmen in der Vertragsg..."
+description: "Wenn es um Schiedsklausel im Handelsvertretervertrag nach Paragrafen 1029 ff. ZPO und Paragraf 92c HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Schiedsklausel im Handelsvertretervertrag nach §§ 1029 ff. ZPO und § 92c HGB

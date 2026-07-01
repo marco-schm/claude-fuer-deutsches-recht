@@ -1,6 +1,6 @@
 ---
 name: anderkonto-und-verwahrung-organisationspflicht-und-praev
-description: "Notare: anderkonto und verwahrung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Anderkonto Und Verwahrung Organisationspflicht Und Praev in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: anderkonto und verwahrung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

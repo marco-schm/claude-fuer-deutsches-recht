@@ -1,6 +1,6 @@
 ---
 name: miet-gewerbemiete-vertragsklauseln-spezial
-description: "Spezialfall Gewerbemiete: Wertsicherungsklauseln, Konkurrenzschutz, Schriftform § 550 BGB, Doppelschriftformklausel. Prüfraster für Vermieter und Mieter im Mietrecht."
+description: "Wenn es um Miet: Gewerbemiete-Klauseln in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Miet: Gewerbemiete-Klauseln

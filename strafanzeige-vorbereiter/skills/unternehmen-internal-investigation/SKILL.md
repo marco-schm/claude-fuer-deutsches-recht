@@ -1,6 +1,6 @@
 ---
 name: unternehmen-internal-investigation
-description: "Unternehmensanzeige nach interner Untersuchung: Legal Hold, Mitarbeiterinterviews, Datenschutz, Arbeitsrecht, Beschlagnahmerisiko und Bericht im Strafanzeige-Vorbereitung."
+description: "Wenn es um Unternehmen und Internal Investigation in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Unternehmen und Internal Investigation

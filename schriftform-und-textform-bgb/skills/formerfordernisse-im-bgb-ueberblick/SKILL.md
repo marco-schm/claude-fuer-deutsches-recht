@@ -1,6 +1,6 @@
 ---
 name: formerfordernisse-im-bgb-ueberblick
-description: "Systematik der Formerfordernisse im BGB: gesetzliche vs. gewillkürte Form, Paragrafen 125-129 BGB, Nichtigkeitsfolge Paragraf 125 BGB, Heilungsmöglichkeiten, Formhierarchie von Textform bis notarielle Beurkundung — Einstieg und Überblick für die Kanzleipraxis im Schriftform Und Textform Bgb."
+description: "Wenn es um Formerfordernisse im BGB — Überblick in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Formerfordernisse im BGB — Überblick

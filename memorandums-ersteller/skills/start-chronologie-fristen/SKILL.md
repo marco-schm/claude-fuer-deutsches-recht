@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Memorandums Ersteller-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenstän..."
+description: "Wenn es um Memorandums Ersteller — Allgemein in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Memorandums Ersteller — Allgemein

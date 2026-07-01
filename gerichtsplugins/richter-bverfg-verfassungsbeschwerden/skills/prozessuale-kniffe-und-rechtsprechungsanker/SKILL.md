@@ -1,6 +1,6 @@
 ---
 name: prozessuale-kniffe-und-rechtsprechungsanker
-description: Prüft verfassungsgerichtliche Prozesskniffe zu Zulässigkeit, Subsidiarität, Gehör, Annahme, Folgenabwägung und tenorierter Abhilfe.
+description: "Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Prozessuale Kniffe und Rechtsprechungsanker
 

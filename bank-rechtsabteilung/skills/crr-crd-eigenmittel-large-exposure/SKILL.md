@@ -1,6 +1,6 @@
 ---
 name: crr-crd-eigenmittel-large-exposure
-description: "CRR-, CRD- und Großkredit-Schnittstelle für Juristen: Eigenmittelbegriffe, Large Exposure, Organkredite, Beteiligungen, Limitüberschreitungen und Governance-Freigaben verständlich prüfen im Bank-Rechtsabteilung."
+description: "Wenn es um CRR CRD Eigenmittel und Großkredite in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # CRR CRD Eigenmittel und Großkredite

@@ -1,6 +1,6 @@
 ---
 name: betreiber-checkliste-folgenabschaetzung
-description: "Betreiber von Hochrisiko-KI benoetigt fertige Compliance-Dokumentation für interne Zwecke oder Aufsichtsbehoerde. Art. 26 und 27 KI-VO Betreiber-Compliance-Output. Zwei Output-Dokumente: Betreiber-Compliance-Checkliste Art. 26 mit allen Pflichtpunkten und Muster-Grundrechte-Folgenabschaetzung Art..."
+description: "Wenn es um Output: Betreiber-Checkliste und Grundrechte-Folgenabschätzung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Output: Betreiber-Checkliste und Grundrechte-Folgenabschätzung

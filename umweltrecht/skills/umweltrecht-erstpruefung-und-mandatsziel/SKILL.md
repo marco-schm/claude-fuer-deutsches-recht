@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-erstpruefung-und-mandatsziel
-description: "Umweltrecht: Erstprüfung, Rollenklärung und Mandatsziel im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Umweltrecht: Erstprüfung, Rollenklärung und Mandatsziel in Umweltrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umweltrecht: Erstprüfung, Rollenklärung und Mandatsziel

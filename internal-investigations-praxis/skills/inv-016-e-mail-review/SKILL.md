@@ -1,6 +1,6 @@
 ---
 name: inv-016-e-mail-review
-description: "Spezialskill fuer E-Mail Review: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: E-Mail Review in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Internal Investigation: E-Mail Review

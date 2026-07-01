@@ -1,6 +1,6 @@
 ---
 name: online-plattform-screenshots
-description: "Screenshots, URLs, Zeitstempel, Accountdaten, Plattformmeldungen und Löschrisiko beweissicher sichern im Strafanzeige-Vorbereitung."
+description: "Wenn es um Online-Beweise und Plattform-Screenshots in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Online-Beweise und Plattform-Screenshots

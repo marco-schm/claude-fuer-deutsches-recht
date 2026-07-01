@@ -1,6 +1,6 @@
 ---
 name: klausel-haftung-gewaehrleistung-indemnification
-description: "Haftungs- und Gewaehrleistungsklauseln im Lizenzvertrag: Inhaberschaftsgarantie, Patent-Marketability, IP-Infringement-Indemnification, Haftungshoechstgrenzen, Ausschluesse fuer Vorsatz und grobe Fahrlaessigkeit, Drittansprueche."
+description: "Wenn es um Klausel Haftung, Gewaehrleistung, Indemnification in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Klausel Haftung, Gewaehrleistung, Indemnification

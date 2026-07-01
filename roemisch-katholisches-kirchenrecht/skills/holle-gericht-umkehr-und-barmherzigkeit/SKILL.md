@@ -1,6 +1,6 @@
 ---
 name: holle-gericht-umkehr-und-barmherzigkeit
-description: "Hölle, Gericht, Umkehr und Barmherzigkeit: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Wenn es um Hölle, Gericht, Umkehr und Barmherzigkeit in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Hölle, Gericht, Umkehr und Barmherzigkeit

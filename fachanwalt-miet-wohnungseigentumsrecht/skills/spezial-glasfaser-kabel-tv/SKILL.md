@@ -1,6 +1,6 @@
 ---
 name: spezial-glasfaser-kabel-tv
-description: "Glasfaser/Kabel-TV: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Modernisierung, Telekommunikation, Betriebskostenfähigkeit, WEG-Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Glasfaser/Kabel-TV in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Glasfaser/Kabel-TV

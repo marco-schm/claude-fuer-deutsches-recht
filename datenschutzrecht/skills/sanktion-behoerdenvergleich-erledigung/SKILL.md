@@ -1,6 +1,6 @@
 ---
 name: sanktion-behoerdenvergleich-erledigung
-description: "Datenschutzrecht-Brückenskill: Erledigung mit der Aufsicht verhandeln: Informelle Erledigung, Verwarnung, Auflage, reduzierte Geldbuße oder Rücknahme rechtlich sauber verhandeln. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Re..."
+description: "Wenn es um Erledigung mit der Aufsicht verhandeln in Datenschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Erledigung mit der Aufsicht verhandeln

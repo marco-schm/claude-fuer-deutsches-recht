@@ -1,6 +1,6 @@
 ---
 name: see-057-yachtkauf-local-counsel-instruieren
-description: "See- und Schifffahrtsrecht: Yachtkauf: Local Counsel instruieren. Local Counsel instruieren für Yachtkauf im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Yachtkauf Local Counsel Instruieren in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Yachtkauf Local Counsel Instruieren

@@ -1,6 +1,6 @@
 ---
 name: inso-p322-anfechtbare-rechtshandlungen-des-erben
-description: "§ 322 InsO (Anfechtbare Rechtshandlungen des Erben) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 322 InsO (Anfechtbare Rechtshandlungen des Erben) im Mandat prüfen: Normzweck, Tatbestan..."
+description: "Wenn es um Inso P322 Anfechtbare Rechtshandlungen Des Erben in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 322 InsO (Anfechtbare Rechtshandlungen des Erben) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: designverletzung-fehlerkatalog
-description: "Designverletzung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Wenn es um Designverletzung Fehlerkatalog in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Designverletzung Fehlerkatalog

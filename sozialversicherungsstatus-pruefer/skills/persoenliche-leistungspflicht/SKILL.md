@@ -1,6 +1,6 @@
 ---
 name: persoenliche-leistungspflicht
-description: "Prüft, ob die Person persönlich leisten muss oder echte Vertretung/Substitution möglich ist im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Persönliche Leistungspflicht in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Persönliche Leistungspflicht

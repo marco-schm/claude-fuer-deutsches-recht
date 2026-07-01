@@ -1,6 +1,6 @@
 ---
 name: bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg
-description: "Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach § 20 Abs: 2 Nr. 2 WEG (Stand 06/2026): Anspruch ohne Ermessen, DIN 18040-2, Kostentragung..."
+description: "Wenn es um Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach Paragraf 20 Abs in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach § 20 Abs

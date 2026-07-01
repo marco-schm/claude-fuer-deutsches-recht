@@ -1,6 +1,6 @@
 ---
 name: compliance-schulung-vorstand
-description: "Wahlkampfrecht Praxis: kurze Compliance-Schulung für Vorstand und Kampagnenteam erstellen im Wahlkampfrecht."
+description: "Wenn es um Compliance Schulung Vorstand in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Compliance Schulung Vorstand

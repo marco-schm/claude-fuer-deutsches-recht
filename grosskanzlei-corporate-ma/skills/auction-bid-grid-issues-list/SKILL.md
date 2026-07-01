@@ -1,6 +1,6 @@
 ---
 name: auction-bid-grid-issues-list
-description: Verdichtet Auktionsunterlagen, SPA-Mark-up, Due-Diligence-Funde und Verhandlungspositionen zu Bid Grid, Issues List und Partner-Agenda.
+description: "Wenn es um Auction Bid Grid und Issues List in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 # Auction Bid Grid und Issues List
 

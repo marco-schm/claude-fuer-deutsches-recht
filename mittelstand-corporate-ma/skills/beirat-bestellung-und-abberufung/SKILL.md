@@ -1,6 +1,6 @@
 ---
 name: beirat-bestellung-und-abberufung
-description: "GmbH-Beirat: Beirat Bestellung Und Abberufung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Mittelstand Corporate Ma."
+description: "Wenn es um Beirat Bestellung Und Abberufung in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Bestellung Und Abberufung

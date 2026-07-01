@@ -1,6 +1,6 @@
 ---
 name: agrarfoerderung-fid-ablehnung-paragraf-9-invekos
-description: "Ablehnung der Direktzahlung wegen fehlerhafter Feldstueckabgrenzung mit Paragraf 9 InVeKoSV und VG-Linie zur Bagatellgrenze. Prüfraster fuer den typischen Fall ueberhoehte Beanstandungsquote durch Kontrolle aus der Vogelperspektive."
+description: "Wenn es um Agrarfoerderung Fid Ablehnung Paragraf 9 Invekos in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agrarfoerderung Fid Ablehnung Paragraf 9 Invekos

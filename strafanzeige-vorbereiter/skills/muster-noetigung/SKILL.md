@@ -1,6 +1,6 @@
 ---
 name: muster-noetigung
-description: "Erzeugt eine nüchterne Strafanzeige mit optionalem Strafantrag, Anlagen, Beweismatrix und Risikoformulierungen im Strafanzeige-Vorbereitung."
+description: "Wenn es um Muster-Strafanzeige Generator in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Muster-Strafanzeige Generator

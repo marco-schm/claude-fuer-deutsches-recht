@@ -1,6 +1,6 @@
 ---
 name: absolute-grenze-menschenwuerde-art-1-i-gg
-description: "Absolute Grenze der Verhältnismäßigkeit Art 1 I GG: Menschenwuerde ist abwaegungsfest und unverfuegbar. Mit Objektformel, Kernbereich, Bezug zu Wesensgehalt Art 19 II GG und zentralen BVerfG-Linien Luftsicherheitsgesetz, Lebenslange Freiheitsstrafe, Hartz IV."
+description: "Wenn es um Absolute Grenze: Menschenwuerde Art 1 I GG in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Absolute Grenze: Menschenwuerde Art 1 I GG

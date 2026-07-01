@@ -1,6 +1,6 @@
 ---
 name: haustuerwahlkampf-influencer
-description: "Wahlkampfrecht Praxis: Haustuerwahlkampf rechtlich und praktisch sauber machen im Wahlkampfrecht."
+description: "Wenn es um Haustuerwahlkampf in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haustuerwahlkampf

@@ -1,6 +1,6 @@
 ---
 name: ihl-013-lex-mercatoria-einsatzgrenzen
-description: "Internationales Handelsrecht und Lex Mercatoria: Lex Mercatoria Einsatzgrenzen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Lex Mercatoria Einsatzgrenzen in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lex Mercatoria Einsatzgrenzen

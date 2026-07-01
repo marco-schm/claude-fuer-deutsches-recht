@@ -1,6 +1,6 @@
 ---
 name: routine-monatsabschluss-tage-quartalsabschluss-prozess
-description: "Routine Monatsabschluss im 30-Tage-Zyklus. Anwendungsfall systematische Steuerung der Monatsabschluss-Routine in der Kanzlei mit klaren Deadlines Belegabgabe Buchung BWA-Versand USt-VA. Methodik Termin-Controlling. Output 30-Tage-Plan im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um 30-Tage-Zyklus Monatsabschluss in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Routine Monatsabschluss Tage Quartalsabschluss Prozess; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # 30-Tage-Zyklus Monatsabschluss

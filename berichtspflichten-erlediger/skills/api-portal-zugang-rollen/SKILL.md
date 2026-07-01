@@ -1,6 +1,6 @@
 ---
 name: api-portal-zugang-rollen
-description: "Behördenportale/API-Zugänge: ELSTER, IDEV, LUCID, ear, BAFA, DEHSt, Bundesbank, Rollen, Vertreter und Offboarding im Berichtspflichten."
+description: "Wenn es um Portale, APIs und Rollen sicher verwalten in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Portale, APIs und Rollen sicher verwalten

@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-017-erster-teil-titel-14-gesellschaft-gemeinschaft
-description: "PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung

@@ -1,6 +1,6 @@
 ---
 name: honorarvereinbarung-erfolgshonorar-verteidigung
-description: "Honorarvereinbarung und Erfolgshonorar (Verteidigungs- und Kammerantwort): steuert Vergütungsvereinbarung, Erfolgshonorar, Transparenz, RVG-Abweichung und Rückforderung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfah..."
+description: "Wenn es um Honorarvereinbarung und Erfolgshonorar: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Honorarvereinbarung und Erfolgshonorar: Verteidigungs- und Kammerantwort

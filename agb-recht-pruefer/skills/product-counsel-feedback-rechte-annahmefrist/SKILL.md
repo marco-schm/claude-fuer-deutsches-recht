@@ -1,6 +1,6 @@
 ---
 name: product-counsel-feedback-rechte-annahmefrist
-description: "Output- und Streit-Skill für Product Counsel Workflow: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen im AGB-Recht."
+description: "Wenn es um Product Counsel Workflow in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Product Counsel Workflow

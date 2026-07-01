@@ -1,6 +1,6 @@
 ---
 name: weltraumwetter-solarsturm-und-betreiberpflichten
-description: "Weltraumwetter-Risiken – Solarsturm, Strahlungsschäden, Betreiberpflichten, Versicherungsdeckung im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Weltraumwetter: Solarsturm und Betreiberpflichten in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Weltraumwetter: Solarsturm und Betreiberpflichten

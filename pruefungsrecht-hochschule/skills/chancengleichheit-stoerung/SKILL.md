@@ -1,6 +1,6 @@
 ---
 name: chancengleichheit-stoerung
-description: "Prüft Lärm, Technik, Aufsicht, Täuschungsverdacht und Störungsrüge im Prüfungsrecht Hochschule."
+description: "Wenn es um Chancengleichheit und Störung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chancengleichheit und Störung

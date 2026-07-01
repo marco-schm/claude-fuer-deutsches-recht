@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-nachpruefungsverfahren-vk
-description: "Laufendes Nachprüfungsverfahren vor der Vergabekammer steuern: Rüge- und Zulässigkeitslage, Zuschlagsverbot, Akteneinsicht, Aufklärung, mündliche Verhandlung, § 168-GWB-Abstellungsziel, Kosten und sofortige Beschwerde nach §§ 171 bis 173 GWB sauber vorbereiten."
+description: "Wenn es um Nachprüfungsverfahren vor der Vergabekammer führen in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Nachprüfungsverfahren vor der Vergabekammer führen

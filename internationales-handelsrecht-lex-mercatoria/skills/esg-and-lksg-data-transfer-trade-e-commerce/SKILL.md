@@ -1,6 +1,6 @@
 ---
 name: esg-and-lksg-data-transfer-trade-e-commerce
-description: "Internationales Handelsrecht: ESG in der Lieferkette — LkSG 2023, EU CSDDD 2024 und EU-Taxonomie-VO (EU) 2020/852. Umwelt-, Sozial- und Governance-Pflichten, Berichterstattung (CSRD), Lieferkettenklauseln und Greenwashing-Risiken im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um ESG, LkSG und CSDDD in der Lieferkette in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ESG, LkSG und CSDDD in der Lieferkette

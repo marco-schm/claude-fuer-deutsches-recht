@@ -1,6 +1,6 @@
 ---
 name: monitor-privilege
-description: "Strukturiert das Reporting an einen externen Compliance-Monitor nach DPA/NPA oder Behördenanordnung – Anforderungen, Konfliktmanagement, Exit-Strategie im Internal Investigations Praxis."
+description: "Wenn es um Externer Compliance-Monitor und Monitor-Reporting in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Externer Compliance-Monitor und Monitor-Reporting

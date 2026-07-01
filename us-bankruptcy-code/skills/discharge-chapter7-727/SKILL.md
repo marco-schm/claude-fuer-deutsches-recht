@@ -1,6 +1,6 @@
 ---
 name: discharge-chapter7-727
-description: "Prüft discharge entitlement, objections, concealment, false oath, records and denial-of-discharge risks im US Bankruptcy Code."
+description: "Wenn es um Chapter 7 Discharge Paragraf 727 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chapter 7 Discharge § 727

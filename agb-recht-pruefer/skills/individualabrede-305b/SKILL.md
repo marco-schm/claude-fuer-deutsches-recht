@@ -1,6 +1,6 @@
 ---
 name: individualabrede-305b
-description: "Norm- und Dogmatik-Skill für Individualabrede 305b: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Individualabrede 305b in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Individualabrede 305b

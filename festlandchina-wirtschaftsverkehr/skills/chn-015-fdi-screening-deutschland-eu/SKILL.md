@@ -1,6 +1,6 @@
 ---
 name: chn-015-fdi-screening-deutschland-eu
-description: "Festlandchina Wirtschaftsverkehr: FDI Screening Deutschland EU. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um FDI Screening Deutschland EU in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # FDI Screening Deutschland EU

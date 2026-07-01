@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-btmg-29a-nicht-geringe-menge
-description: "BtMG-Qualifikation § 29a BtMG: nicht geringe Menge: Verbrechen mit Mindeststrafe ein Jahr Freiheitsstrafe. BGH-Mengen-Faustregeln Heroin, Kokain, Amphetamin, MDMA. Minder schwerer Fall § 29a Abs. 2 BtMG. P..."
+description: "Wenn es um BtMG-Qualifikation Paragraf 29a BtMG: nicht geringe Menge in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BtMG-Qualifikation § 29a BtMG: nicht geringe Menge

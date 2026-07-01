@@ -1,6 +1,6 @@
 ---
 name: email-an-behoerde-verstehen-und-schreiben
-description: "E-Mail an Behörde in verständlichem Deutsch: Bescheid, Anhörung, Antrag, Nachfrage, Widerspruchsankündigung oder Fristbitte erkennen, keine ungewollten Zugeständnisse machen und eine höfliche, klare Behördenmail formulieren."
+description: "Wenn es um E-Mail An Behörde Verstehen Und Schreiben in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # E-Mail An Behörde Verstehen Und Schreiben

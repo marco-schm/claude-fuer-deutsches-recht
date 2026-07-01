@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für E-Mail-Umformulierung im Berufsrecht: trennt fehlende Tatsachen von fehlenden Belegen (E-Mail-Entwurf, Mandantenkorrespondenz, Behörden-/Gegnerschreiben), nennt pro Lücke Beweisthema, Beschaffungsweg (RAK), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

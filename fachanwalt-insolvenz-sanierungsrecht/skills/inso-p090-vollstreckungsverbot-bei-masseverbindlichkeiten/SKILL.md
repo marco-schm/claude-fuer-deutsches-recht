@@ -1,6 +1,6 @@
 ---
 name: inso-p090-vollstreckungsverbot-bei-masseverbindlichkeiten
-description: "§ 90 InsO (Vollstreckungsverbot bei Masseverbindlichkeiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 90 InsO (Vollstreckungsverbot bei Masseverbindlichkeiten) im Mandat prüfen: Norm..."
+description: "Wenn es um Inso P090 Vollstreckungsverbot Bei Masseverbindlichkeiten in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 90 InsO (Vollstreckungsverbot bei Masseverbindlichkeiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

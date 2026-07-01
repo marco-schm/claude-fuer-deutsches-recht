@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-liquidation
-description: "Wahlentscheidung Insolvenzplan versus Liquidation und die Steuerfolgen. Bei Liquidation: kein Sanierungsertrag, aber Aufdeckung stiller Reserven, Veraeusserungsgewinn aus Verwertung. Bei der GmbH-Liquidation: Verbindlichkeiten bleiben nach BFH II R 19/01 ueber blosse Vermögenslosigkeit bestehen...."
+description: "Wenn es um Sanierungsgewinn — Liquidation statt Plan, Steuer-Folgen in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsgewinn — Liquidation statt Plan, Steuer-Folgen

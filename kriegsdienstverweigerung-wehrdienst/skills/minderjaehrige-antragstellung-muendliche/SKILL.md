@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-antragstellung-muendliche
-description: "Prüft Antrag sechs Monate vor 18 oder vor 17 unter Sondervoraussetzungen im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Minderjährige Antragstellung in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Minderjährige Antragstellung

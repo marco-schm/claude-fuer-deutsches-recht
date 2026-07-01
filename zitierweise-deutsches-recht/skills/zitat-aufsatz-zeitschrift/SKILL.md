@@ -1,6 +1,6 @@
 ---
 name: zitat-aufsatz-zeitschrift
-description: "Aufsatz in juristischer Zeitschrift nur bei vorliegendem Beitrag zitieren: Verfasser, Titel, Zeitschrift, Jahr, Heft/Seite und Pinpoint aus Nutzerquelle oder Live-Zugriff übernehmen. Keine Aufsatzfundstellen aus Modellwissen."
+description: "Wenn es um Aufsatz in Zeitschrift zitieren in Zitierweise deutsches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Aufsatz in Zeitschrift zitieren

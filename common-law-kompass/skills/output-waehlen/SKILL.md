@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Common Law Kompass: stimmt Adressat (Mandant US/UK, Counsel local, Court), Frist (Statutes of Limitations je Jurisdiction) und Form auf den Zweck ab — typische Outputs: Memo (US-Stil) IRAC, Comparative legal analysis, Choice-of-law-Notiz."
+description: "Wenn es um Output wählen in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

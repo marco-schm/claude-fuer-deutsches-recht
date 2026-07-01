@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-arzt-heim-pflegekasse
-description: "Kommunikation mit Ärzten, Krankenhaus, Heim, Pflegedienst, Pflegekasse und Sozialleistungsträgern; Wunschermittlung und Datenschutz."
+description: "Wenn es um Familienbetreuer: Arzt, Heim, Pflegekasse in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Familienbetreuer: Arzt, Heim, Pflegekasse

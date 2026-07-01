@@ -1,6 +1,6 @@
 ---
 name: vermoegensverfall-zulassungswiderruf
-description: "Vermögensverfall und Zulassungswiderruf (Verteidigungs- und Kammerantwort): steuert Widerruf der Zulassung wegen Vermögensverfall, Gläubigerschutz, Sofortvollzug und Sanierungsnachweis mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsger..."
+description: "Wenn es um Vermögensverfall und Zulassungswiderruf: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vermögensverfall und Zulassungswiderruf: Verteidigungs- und Kammerantwort

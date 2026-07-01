@@ -1,6 +1,6 @@
 ---
 name: margin-squeeze-predation
-description: "Margin Squeeze und Predatory Pricing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kostenmaßstab, Preis-Kosten-Schere, Verdrängungsabsicht und Effizienzverteidigung prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Markta..."
+description: "Wenn es um Margin Squeeze und Predatory Pricing in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Margin Squeeze und Predatory Pricing

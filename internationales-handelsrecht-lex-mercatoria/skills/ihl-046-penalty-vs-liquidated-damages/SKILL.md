@@ -1,6 +1,6 @@
 ---
 name: ihl-046-penalty-vs-liquidated-damages
-description: "Internationales Handelsrecht und Lex Mercatoria: Penalty Vs Liquidated Damages. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Penalty Vs Liquidated Damages in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Penalty Vs Liquidated Damages

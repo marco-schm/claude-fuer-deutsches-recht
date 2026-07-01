@@ -1,6 +1,6 @@
 ---
 name: querela-inofficiosi-testamenti-pflichtteil
-description: "Querela inofficiosi testamenti: roemischer Pflichtteilsschutz. Skill behandelt die Klage des uebergangenen oder ungenuegend bedachten naechsten Verwandten Pflichtteilsbruchteil (portio legitima) Voraussetzungen und Beweislast. Liefert Quellenmatrix im Römisches Recht."
+description: "Wenn es um Rom 145 Querela Inofficiosi Testamenti Pflichtteil in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 145 Querela Inofficiosi Testamenti Pflichtteil

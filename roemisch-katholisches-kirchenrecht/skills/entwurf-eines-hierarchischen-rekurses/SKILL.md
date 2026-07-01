@@ -1,6 +1,6 @@
 ---
 name: entwurf-eines-hierarchischen-rekurses
-description: "Entwurf eines hierarchischen Rekurses: Rekurs mit Entscheidung, Beschwer, Frist, Anträgen und Begründung; CIC can. 1732-1739; KKK 1901-1917; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fri..."
+description: "Wenn es um Entwurf eines hierarchischen Rekurses in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Entwurf eines hierarchischen Rekurses

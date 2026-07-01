@@ -1,6 +1,6 @@
 ---
 name: dienstvergehen-ausser-agg-gleichstellung
-description: "Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserhalb des Dienstes nach § 47 BeamtStG bzw. § 77 BBG. Klaert die Voraussetzung der Eignung zur Beeintraechtigung des Vertrauens den Bezug zur Statusrelevanz und das Verhältnis zwischen privatem Verhalten und dienstlichen Anforderunge..."
+description: "Wenn es um Dienstvergehen ausser Dienst nach Paragraf 47 BeamtStG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dienstvergehen ausser Dienst nach § 47 BeamtStG

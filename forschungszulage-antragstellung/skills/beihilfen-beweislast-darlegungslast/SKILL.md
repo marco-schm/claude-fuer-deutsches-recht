@@ -1,6 +1,6 @@
 ---
 name: beihilfen-beweislast-darlegungslast
-description: "Beihilfen: Beweislast, Darlegungslast und Substantiierung im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
+description: "Wenn es um Beihilfen: Beweislast, Darlegungslast und Substantiierung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beihilfen: Beweislast, Darlegungslast und Substantiierung

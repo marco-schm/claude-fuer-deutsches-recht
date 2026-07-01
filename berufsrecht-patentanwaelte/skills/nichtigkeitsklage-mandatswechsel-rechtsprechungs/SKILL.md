@@ -1,6 +1,6 @@
 ---
 name: nichtigkeitsklage-mandatswechsel-rechtsprechungs
-description: "Patentanwälte: nichtigkeitsklage mandatswechsel - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Nichtigkeitsklage Mandatswechsel Rechtsprechungs in Berufsrecht Patentanwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Patentanwälte: nichtigkeitsklage mandatswechsel - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

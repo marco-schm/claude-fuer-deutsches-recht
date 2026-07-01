@@ -1,6 +1,6 @@
 ---
 name: db-015-produktdaten-pim-datenkatalog-hersteller
-description: "Datenbankrecht: Produktdaten PIM Datenkatalog Hersteller mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Produktdaten PIM Datenkatalog Hersteller in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Produktdaten PIM Datenkatalog Hersteller

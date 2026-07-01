@@ -1,6 +1,6 @@
 ---
 name: pralr-normblock-18001-18100
-description: "PrALR-Normblock §§ 18001-18100: jede Vorschrift im Block einzeln als Normkarte mit Teil/Titel/Paragraph, Textzeuge 1794/1804, OCR-Risiko, historischer Bedeutung und heutiger Anschlussfrage prüfen."
+description: "Wenn es um PrALR-Normblock Paragrafen 18001-18100 in Preußisches Allgemeines Landrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # PrALR-Normblock §§ 18001-18100

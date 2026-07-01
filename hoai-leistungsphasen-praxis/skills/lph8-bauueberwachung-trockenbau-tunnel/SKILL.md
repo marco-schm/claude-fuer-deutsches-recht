@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-trockenbau-tunnel
-description: "Bauueberwachung HOAI LPH 8 für Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Vera..."
+description: "Wenn es um Bauueberwachung Trockenbau F30 und F90 Brandschutzwaende in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Trockenbau F30 und F90 Brandschutzwaende

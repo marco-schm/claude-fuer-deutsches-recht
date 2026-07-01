@@ -1,6 +1,6 @@
 ---
 name: inso-p176-verlauf-des-prufungstermins
-description: "§ 176 InsO (Verlauf des Prüfungstermins) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 176 InsO (Verlauf des Prüfungstermins) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge..."
+description: "Wenn es um Inso P176 Verlauf Des Prufungstermins in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 176 InsO (Verlauf des Prüfungstermins) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

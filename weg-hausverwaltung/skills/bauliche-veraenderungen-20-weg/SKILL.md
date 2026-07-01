@@ -1,6 +1,6 @@
 ---
 name: bauliche-veraenderungen-20-weg
-description: "Prüft bauliche Veränderungen nach §§ 20 und 21 WEG (Stand 05/2026): Anspruch, Gestattung, Grenzen, Kostenfolge, Gebrauch, Auflagen, Rückbau, Beschlussvorschlag und Anfechtungsrisiko, einschließlich der BGH-Linie 2024-2025 zu Klimasplitgeräten, Fassadendurchbrüchen und Mieterhandeln."
+description: "Wenn es um Bauliche Veränderungen nach Paragraf 20 WEG in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Bauliche Veränderungen nach § 20 WEG

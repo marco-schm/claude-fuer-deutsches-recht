@@ -1,6 +1,6 @@
 ---
 name: beirat-gmbh-zustimmungskatalog-und-konfliktmatrix
-description: "Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie: Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vet..."
+description: "Wenn es um Beirat GmbH Zustimmungskatalog Und Konfliktmatrix in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie.

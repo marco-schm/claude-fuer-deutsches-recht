@@ -1,6 +1,6 @@
 ---
 name: entschaedigung-bei-heimfall-und-ablauf
-description: "Prüft Entschädigung bei Heimfall, Zeitablauf, Wohnzweck, Marktwert, Bewertungsunterlagen und Sicherheiten im Erbbaurecht Praxis."
+description: "Wenn es um Entschädigung in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Entschädigung

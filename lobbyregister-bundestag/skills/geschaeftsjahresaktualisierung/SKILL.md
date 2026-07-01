@@ -1,6 +1,6 @@
 ---
 name: geschaeftsjahresaktualisierung
-description: "Führt durch die mindestens jaehrliche vollständige Überprüfung und Bestätigung des Registereintrags nach § 3 und § 4 LobbyRG. Output Jahresupdate-Mappe im Lobbyregister Bundestag."
+description: "Wenn es um Geschaeftsjahresaktualisierung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschaeftsjahresaktualisierung

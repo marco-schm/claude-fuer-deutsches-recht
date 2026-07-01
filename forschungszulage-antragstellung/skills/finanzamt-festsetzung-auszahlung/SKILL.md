@@ -1,6 +1,6 @@
 ---
 name: finanzamt-festsetzung-auszahlung
-description: "Forschungszulage beim Finanzamt beantragen, festsetzen und auszahlen lassen: ELSTER-Antrag, Vorlage der BSFZ-Bescheinigung, Forschungszulagenbescheid, Anrechnung auf Einkommen- oder Körperschaftsteuer, Auszahlung eines Überschusses, Vorauszahlungssenkung. Mit Zeitlinie Q1 bis Q4, Trade-offs Sofor..."
+description: "Wenn es um Finanzamt: Festsetzung und Auszahlung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Finanzamt: Festsetzung und Auszahlung

@@ -1,6 +1,6 @@
 ---
 name: mandat-einordnen-bearbeitungsroute
-description: "Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen: § 14 MarkenG § 139 PatG § 8 UWG GeschmMG UWG. Prüfraster: Schutzrecht Verletzungsart Parteistellung Route..."
+description: "Wenn es um Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen

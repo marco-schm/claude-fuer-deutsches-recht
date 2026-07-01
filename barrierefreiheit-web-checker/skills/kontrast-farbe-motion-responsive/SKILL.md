@@ -1,6 +1,6 @@
 ---
 name: kontrast-farbe-motion-responsive
-description: "Prüft Kontrast, Farbe ohne Farbcodierung, Zoom, Reflow, Textabstände, responsives Layout, Animationen, Motion-Reduction, Hover-Fallen und mobile Nutzung. Output: visuelle Barrierefreiheitsmatrix im Barrierefreiheit Web Checker."
+description: "Wenn es um Kontrast, Farbe, Motion, Responsive in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kontrast, Farbe, Motion, Responsive

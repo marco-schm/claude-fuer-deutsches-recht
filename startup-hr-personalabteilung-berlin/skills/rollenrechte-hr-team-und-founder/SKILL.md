@@ -1,6 +1,6 @@
 ---
 name: rollenrechte-hr-team-und-founder
-description: "Berliner Start-up-HR: Rollenrechte im HR-Team und bei Foundern: wer darf welche Daten sehen, ändern, exportieren oder berichten. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Rollenrechte HR Team Und Founder in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rollenrechte HR Team Und Founder

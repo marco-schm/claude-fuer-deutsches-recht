@@ -1,6 +1,6 @@
 ---
 name: zeugnisklarheit-objektiver-empfaengerhorizont
-description: "Das Gebot der Zeugnisklarheit aus Paragraf 109 Abs. 2 GewO und der BAG-Rechtsprechung (9 AZR 352/04; 9 AZR 386/10). Maßgeblich ist der objektive Empfängerhorizont. Formulierungen müssen das ausdrücken, was ihr Wortlaut besagt — nicht mehr, nicht weniger. Enthält Regeln zur Abgrenzung zulässiger Formulierungsspielräume von unzulässigen Codes."
+description: "Wenn es um Zeugnisklarheit — objektiver Empfängerhorizont (BAG 9 AZR 352/04; 9 AZR 386/10) in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zeugnisklarheit — objektiver Empfängerhorizont (BAG 9 AZR 352/04; 9 AZR 386/10)

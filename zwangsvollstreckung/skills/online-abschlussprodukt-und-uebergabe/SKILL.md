@@ -1,6 +1,6 @@
 ---
 name: online-abschlussprodukt-und-uebergabe
-description: "Online: Abschlussprodukt und Übergabe im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Online: Abschlussprodukt und Übergabe in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Online: Abschlussprodukt und Übergabe

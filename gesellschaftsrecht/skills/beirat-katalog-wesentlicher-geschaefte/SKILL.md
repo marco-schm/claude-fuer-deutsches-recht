@@ -1,6 +1,6 @@
 ---
 name: beirat-katalog-wesentlicher-geschaefte
-description: "GmbH-Beirat: Beirat Katalog Wesentlicher Geschäfte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrecht."
+description: "Wenn es um Beirat Katalog Wesentlicher Geschäfte in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Katalog Wesentlicher Geschäfte

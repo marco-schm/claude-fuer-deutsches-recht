@@ -1,6 +1,6 @@
 ---
 name: betreuung-mehrparteien-konflikt-und-interessen
-description: "Betreuung: Mehrparteienkonflikt und Interessenmatrix im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Betreuung: Mehrparteienkonflikt und Interessenmatrix in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuung Mehrparteien Konflikt Und Interessen; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Betreuung: Mehrparteienkonflikt und Interessenmatrix

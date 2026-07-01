@@ -1,6 +1,6 @@
 ---
 name: real-property-leases-365
-description: "Prüft commercial leases, assumption/rejection deadlines, cure, shopping-center rules, landlord claims and surrender im US Bankruptcy Code."
+description: "Wenn es um Real Property Leases Paragraf 365 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Real Property Leases § 365

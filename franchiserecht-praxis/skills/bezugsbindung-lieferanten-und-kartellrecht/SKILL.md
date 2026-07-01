@@ -1,6 +1,6 @@
 ---
 name: bezugsbindung-lieferanten-und-kartellrecht
-description: "Bezugsbindungen im Franchisesystem kartellrechtlich prüfen: Freistellungsvoraussetzungen nach Vertikal-GVO EU 2022/720 und § 2 GWB, Marktanteilsschwellen, Ausnahmen für Qualitätsstandards, Risiken bei Bezugsverpflichtung über die Kernprodukte hinaus im Franchiserecht."
+description: "Wenn es um Franchiserecht: Bezugsbindung, Lieferanten und Kartellrecht in Franchiserecht Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Franchiserecht: Bezugsbindung, Lieferanten und Kartellrecht

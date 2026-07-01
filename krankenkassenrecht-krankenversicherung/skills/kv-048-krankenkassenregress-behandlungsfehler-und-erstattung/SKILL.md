@@ -1,6 +1,6 @@
 ---
 name: kv-048-krankenkassenregress-behandlungsfehler-und-erstattung
-description: "Krankenversicherung: Krankenkassenregress Behandlungsfehler und Erstattung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Krankenkassenregress Behandlungsfehler und Erstattung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Krankenkassenregress Behandlungsfehler und Erstattung

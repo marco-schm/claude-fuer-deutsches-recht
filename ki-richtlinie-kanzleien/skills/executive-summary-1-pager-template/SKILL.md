@@ -1,6 +1,6 @@
 ---
 name: executive-summary-1-pager-template
-description: "Ein-Seiten-Executive-Summary für KI-Nutzungsrichtlinien einer Kanzlei oder Rechtsabteilung; produziert ein druckfertiges 1-Pager-Dokument mit den Bloecken 'Was ist erlaubt', 'Was ist nicht erlaubt', 'Wo Vorsicht', 'Anlaufstellen' und 'Naechste Revision'; deckt KI-VO 2024/1689 Artikel 4 und 5 und..."
+description: "Wenn es um Executive Summary 1-Pager Template in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Executive Summary 1-Pager Template

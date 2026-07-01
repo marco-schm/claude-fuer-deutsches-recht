@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-frequenzzuteilung-unterlagenanforderung
-description: "Frequenzzuteilung: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren."
+description: "Wenn es um TK-Regulierungsakte: Frequenzzuteilung — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # TK-Regulierungsakte: Frequenzzuteilung — Unterlagenanforderung

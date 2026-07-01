@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-unternehmensgruppe-und-federfuehrende-aufsicht
-description: "Datenschutzrecht-Brückenskill: Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen: Datenschutzrecht-Brückenskill: Unternehmensgruppe und federführende Aufsicht: Hauptnie..."
+description: "Wenn es um Dsv Sanktion Unternehmensgruppe Und Federfuehrende Aufsicht in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen

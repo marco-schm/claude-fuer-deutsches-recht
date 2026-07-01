@@ -1,6 +1,6 @@
 ---
 name: digitale-produkte-und-updatepflichten
-description: "Verbraucherschutzrecht Prüfer: Digitale Produkte und Updatepflichten. Digitale Produkte und Updatepflichten im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
+description: "Wenn es um Digitale Produkte Und Updatepflichten in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitale Produkte Und Updatepflichten

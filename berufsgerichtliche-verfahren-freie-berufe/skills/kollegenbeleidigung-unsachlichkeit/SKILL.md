@@ -1,6 +1,6 @@
 ---
 name: kollegenbeleidigung-unsachlichkeit
-description: "Kollegenbeleidigung und Unsachlichkeit: prüft Sachlichkeitsgebot, Meinungsfreiheit, Verhältnismäßigkeit und Verteidigungslinie in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtliche Verfahren Fr..."
+description: "Wenn es um Kollegenbeleidigung und Unsachlichkeit in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kollegenbeleidigung und Unsachlichkeit

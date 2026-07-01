@@ -1,6 +1,6 @@
 ---
 name: ar-abfindungs-rechner-modular
-description: "Abfindungsrechner modular: Faustformel 0 und5 Monatsgehälter pro Beschäftigungsjahr nach BAG-Linie, Anpassung nach Verhandlungsmacht, Sperrzeit ALG I Paragraf 159 SGB III, steuerliche Fünftelregelung Paragraf 34 EStG: Abfindungsrechner modular: Faustformel 0 und5 Monatsg..."
+description: "Wenn es um Ar Abfindungs Rechner Modular in Fachanwalt Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Abfindungsrechner modular: Faustformel 0 und5 Monatsgehälter pro Beschäftigungsjahr nach BAG-Linie, Anpassung nach Verhandlungsmacht, Sperrzeit ALG I Paragraf 159 SGB III, steuerliche Fünftelregelung Paragraf 34 EStG

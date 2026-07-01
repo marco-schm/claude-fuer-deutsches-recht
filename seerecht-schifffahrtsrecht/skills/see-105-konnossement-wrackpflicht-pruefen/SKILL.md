@@ -1,6 +1,6 @@
 ---
 name: see-105-konnossement-wrackpflicht-pruefen
-description: "See- und Schifffahrtsrecht: Konnossement: Wrackpflicht prüfen. Wrackpflicht prüfen für Konnossement im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Konnossement Wrackpflicht Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konnossement Wrackpflicht Pruefen

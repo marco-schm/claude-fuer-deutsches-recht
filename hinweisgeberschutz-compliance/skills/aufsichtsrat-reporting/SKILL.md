@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-reporting
-description: "Berichtet Hinweisfälle an Aufsichtsrat oder Beirat im Hinweisgeberschutz Compliance."
+description: "Wenn es um Aufsichtsrat Reporting in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufsichtsrat Reporting

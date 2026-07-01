@@ -1,6 +1,6 @@
 ---
 name: eugv-zustaendigkeit-art-7-eugvvo
-description: "Eugv Zustaendigkeit art 7 EuGVVO: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Eugv Zustaendigkeit art 7 EuGVVO in Fachanwalt Internationales Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eugv Zustaendigkeit art 7 EuGVVO

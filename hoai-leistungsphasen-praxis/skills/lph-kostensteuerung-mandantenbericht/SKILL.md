@@ -1,6 +1,6 @@
 ---
 name: lph-kostensteuerung-mandantenbericht
-description: "HOAI LPH 5 Ausführungsplanung: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsp..."
+description: "Wenn es um LPH 5 Ausführungsplanung: Prüft kostenermittlung in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 5 Ausführungsplanung: Prüft kostenermittlung

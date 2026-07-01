@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollpruefung-aussenpruefung
-description: "Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereitung auf Prüfungsankuendigung Prüferempfang Dokumentenvorlage und Nacherhebungsrisiko. Unterschied Zollaußenpruefung und BAFA-Prüfung. Typische Prüfungsschwerpunkte Zollwert Praeferenz und Verfahrens-Compliance. Output: Prüfungsvo..."
+description: "Wenn es um Zollaußenpruefung: Vorbereitung Prüferempfang und Risikobegrenzung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zollaußenpruefung: Vorbereitung Prüferempfang und Risikobegrenzung

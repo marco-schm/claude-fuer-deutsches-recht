@@ -1,6 +1,6 @@
 ---
 name: inso-p102-einschrankung-eines-grundrechts
-description: "§ 102 InsO (Einschränkung eines Grundrechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 102 InsO (Einschränkung eines Grundrechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rec..."
+description: "Wenn es um Inso P102 Einschrankung Eines Grundrechts in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 102 InsO (Einschränkung eines Grundrechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: dpia-en-summary-for-management
-description: "Concise English DPIA management summary aligned with Art. 35 GDPR for board executive committee or non-legal stakeholders. Output: one-pager covering processing necessity risk measures residual risk approval recommendation."
+description: "Wenn es um DPIA Management Summary in English in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DPIA Management Summary in English

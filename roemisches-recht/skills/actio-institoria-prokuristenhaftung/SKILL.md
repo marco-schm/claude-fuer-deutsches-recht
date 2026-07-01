@@ -1,6 +1,6 @@
 ---
 name: actio-institoria-prokuristenhaftung
-description: "Actio institoria: Klage gegen den Geschäftsherrn (dominus) für Verbindlichkeiten aus Handlungen seines institor (Prokuristen). Skill behandelt die Voraussetzungen und die Sonderfaelle bei Sklaven und Familienangehoerigen als institor. Liefert Quellenmatrix."
+description: "Wenn es um Rom 125 Actio Institoria Prokuristenhaftung in Römisches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rom 125 Actio Institoria Prokuristenhaftung

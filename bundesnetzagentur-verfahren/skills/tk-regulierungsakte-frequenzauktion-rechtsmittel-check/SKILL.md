@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-frequenzauktion-rechtsmittel-check
-description: "Frequenzauktion: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren."
+description: "Wenn es um TK-Regulierungsakte: Frequenzauktion — Rechtsmittel-Check in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # TK-Regulierungsakte: Frequenzauktion — Rechtsmittel-Check

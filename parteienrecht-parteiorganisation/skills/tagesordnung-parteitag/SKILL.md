@@ -1,6 +1,6 @@
 ---
 name: tagesordnung-parteitag
-description: "Erstellt Tagesordnung für Vorstandswahl, Anträge, Satzungsänderung, Listenaufstellung, Rechenschaft und Entlastung."
+description: "Wenn es um Tagesordnung Parteitag in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tagesordnung Parteitag

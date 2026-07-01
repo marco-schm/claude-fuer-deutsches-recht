@@ -1,6 +1,6 @@
 ---
 name: sanktion-beschwerde-betroffener
-description: "Datenschutzrecht-Brückenskill: Beschwerde eines Betroffenen als Auslöser: Art.-77-Beschwerde, Behördenprüfung, Betroffenenkommunikation und Art.-82-Folgerisiko sauber steuern. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Recht..."
+description: "Wenn es um Beschwerde eines Betroffenen als Auslöser in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschwerde eines Betroffenen als Auslöser

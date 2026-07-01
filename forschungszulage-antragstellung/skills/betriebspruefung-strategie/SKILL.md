@@ -1,6 +1,6 @@
 ---
 name: betriebspruefung-strategie
-description: "Strategie bei Betriebspruefung mit Schwerpunkt Forschungszulage: Vorbereitung, Selbstanzeige bei Fehlern (auch wenn keine Steuerstraftat), Argumentationspakete, Schlussbesprechung. Prüfraster: Stundennachweise, Auftragsforschungsvertraege, Mitarbeiterzuordnung, FuE-Phasentrennung. Routet in fz-d..."
+description: "Wenn es um FZ: Betriebspruefungs-Strategie in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # FZ: Betriebspruefungs-Strategie

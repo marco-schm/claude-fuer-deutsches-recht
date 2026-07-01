@@ -1,6 +1,6 @@
 ---
 name: hundehaltung-kosten-halterpflichten
-description: "Hundehaltung: Kosten klären im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Hundehaltung Kosten Klären in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hundehaltung Kosten Klären

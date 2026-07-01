@@ -1,6 +1,6 @@
 ---
 name: dezisionismus-ausnahmezustand-red-team
-description: "Red-Team gegen dezisionistische Ausnahmezustandsrhetorik: Krise, Notstand, Souveraenitaet, Exekutivmacht, gerichtliche Kontrolle, Grundrechte und die Gefahr, Recht durch politische Macht zu ersetzen."
+description: "Wenn es um Dezisionismus und Ausnahmezustand: Red-Team in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Dezisionismus und Ausnahmezustand: Red-Team

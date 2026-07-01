@@ -1,6 +1,6 @@
 ---
 name: dsgvo-bussgeld-art-83-eugh-c-807-21
-description: "DSGVO Bussgeld Art 83 EuGH C 807 21: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um DSGVO Bussgeld Art 83 EuGH C 807 21 in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DSGVO Bussgeld Art 83 EuGH C 807 21

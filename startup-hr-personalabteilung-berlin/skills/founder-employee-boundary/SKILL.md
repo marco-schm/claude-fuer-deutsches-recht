@@ -1,6 +1,6 @@
 ---
 name: founder-employee-boundary
-description: "Berliner Start-up-HR: Founder, Advisor, Employee oder Freelancer: Rollen sauber trennen, Beteiligung, IP, Sozialversicherung und Vertretungsmacht. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Ber..."
+description: "Wenn es um Founder Employee Boundary in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Founder Employee Boundary

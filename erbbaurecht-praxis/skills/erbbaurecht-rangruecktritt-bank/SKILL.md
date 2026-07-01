@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-rangruecktritt-bank
-description: "Prüft Eigentümerzustimmung, Erbbauzinsrang, Finanzierungssicherheit und Heimfallkompensation im Erbbaurecht Praxis."
+description: "Wenn es um Rangrücktritt zugunsten Bank in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rangrücktritt zugunsten Bank

@@ -1,6 +1,6 @@
 ---
 name: vermoegensarrest-einziehung
-description: "Vermögensarrest und Einziehung: Praxis-Skill für neue Staatsanwälte zu Einziehung, Arrest, Verletztenrechte und Vermögensabschöpfung früh und verhältnismäßig planen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Vermögensarrest und Einziehung in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vermögensarrest und Einziehung

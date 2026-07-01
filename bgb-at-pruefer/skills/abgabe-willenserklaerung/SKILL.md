@@ -1,6 +1,6 @@
 ---
 name: abgabe-willenserklaerung
-description: "Klausurfall zur Abgabe einer Willenserklärung nach §§ 116 ff. BGB: willentliche Entäußerung unter Anwesenden und Abwesenden, Botenproblematik, E-Mail und Plattform-Postfach, Widerruf vor Abgabe. Output: Gutachtenstil-Lösung mit Subsumtionsraster."
+description: "Wenn es um Abgabe der Willenserklärung — Tatbestand und Zeitpunkt in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abgabe der Willenserklärung — Tatbestand und Zeitpunkt

@@ -1,6 +1,6 @@
 ---
 name: agb-kontrolle-factoringvertrag-rahmenvertrag
-description: "AGB Kontrolle Factoringklauseln B2B: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht."
+description: "Wenn es um AGB Kontrolle Factoringklauseln B2B in Factoring-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AGB Kontrolle Factoringklauseln B2B

@@ -1,6 +1,6 @@
 ---
 name: schriftsatz-vermerk-und-mustertext
-description: "Schriftsatz, Vermerk und Mustertext: prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Wenn es um Schriftsatz, Vermerk und Mustertext in Berufsgerichtliche Verfahren Freie Berufe geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schriftsatz, Vermerk und Mustertext

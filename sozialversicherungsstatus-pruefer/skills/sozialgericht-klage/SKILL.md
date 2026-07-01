@@ -1,6 +1,6 @@
 ---
 name: sozialgericht-klage
-description: "Führt Statusstreit vor Sozialgericht mit Klagebegründung, Beweisanträgen und Vergleichsstrategie im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Sozialgerichtliche Klage in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sozialgerichtliche Klage

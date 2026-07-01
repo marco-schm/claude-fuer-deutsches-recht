@@ -1,6 +1,6 @@
 ---
 name: druckmuster-schluessel-vormerkung-und-zahlung
-description: "Prüft Bauträger-Druckmuster: Schlüssel nur gegen Zahlung, Vormerkungslöschung, Rücktrittsdrohung, Schlussrate trotz Mängeln, Baustellenzugang, § 320 BGB, § 641 Abs. 3 BGB, § 253 StGB und § 309 Nr. 2/12 BGB."
+description: "Wenn es um Druckmuster, Schlüssel, Vormerkung und Zahlung in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Druckmuster, Schlüssel, Vormerkung und Zahlung

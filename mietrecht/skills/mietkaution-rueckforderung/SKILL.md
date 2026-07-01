@@ -1,6 +1,6 @@
 ---
 name: mietkaution-rueckforderung
-description: "Mietkaution Rueckforderung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Mietrecht."
+description: "Wenn es um Mietkaution-Rückforderung in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietkaution-Rückforderung

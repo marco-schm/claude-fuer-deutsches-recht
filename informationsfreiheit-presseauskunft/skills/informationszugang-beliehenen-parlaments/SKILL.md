@@ -1,6 +1,6 @@
 ---
 name: informationszugang-beliehenen-parlaments
-description: "Informationsfreiheit und Presseauskunft: Informationszugang bei beliehenen Privaten. Informationszugang bei beliehenen Privaten im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseau..."
+description: "Wenn es um Informationszugang Bei Beliehenen Priv in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Informationszugang Bei Beliehenen Priv

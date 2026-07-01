@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Liquiditätsplanung: wählt den nächsten Spezial-Skill nach Engpass (Rolling 13-week-Plan, Liquiditätsplan, Bankenstatus, Forderungs-/Verbindlichkeitenliste), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Liquiditätsplanung — Power geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anschluss-Routing

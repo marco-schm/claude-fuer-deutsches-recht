@@ -1,6 +1,6 @@
 ---
 name: workflow-redteam-migration
-description: "Red-Team Migration: Prüfungslinie für Migrationsrecht: findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzb..."
+description: "Wenn es um Red-Team Migration: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team Migration: Prüfungslinie für Migrationsrecht

@@ -1,6 +1,6 @@
 ---
 name: marktueberwachung-dialog
-description: "Bereitet Antworten an Marktüberwachung, BAuA-/Landesbehörden, Safety-Gate-Meldungen, Unterlagenvorlage, Korrekturmaßnahmen und Rückrufkommunikation vor."
+description: "Wenn es um Marktüberwachung Dialog in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Marktueberwachung Dialog; Arbeitsfeld: robotik-recht."
 ---
 
 # Marktüberwachung Dialog

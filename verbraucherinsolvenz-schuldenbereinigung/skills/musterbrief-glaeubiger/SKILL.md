@@ -1,6 +1,6 @@
 ---
 name: musterbrief-glaeubiger
-description: "Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle: Normanker: InsO § 305; BGB Anerkenntnis; liefert konkrete..."
+description: "Wenn es um Musterbrief Glaeubiger in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.

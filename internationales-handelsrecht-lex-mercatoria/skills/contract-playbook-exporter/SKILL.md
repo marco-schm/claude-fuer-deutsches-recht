@@ -1,6 +1,6 @@
 ---
 name: contract-playbook-exporter
-description: "Internationales Handelsrecht: Vertragshandbuch für den Exporteur. Standardpositionen in Verhandlungen, Fallback-Positionen, Prioritäten (Rechtswahl, Schiedsklausel, Haftungsbeschränkung, Eigentumsvorbehalt) und BATNA-Analyse für internationale Kaufverträge im Internationales Handelsrecht Lex Merc..."
+description: "Wenn es um Contract Playbook für Exporteure in Internationales Handelsrecht und Lex Mercatoria geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Contract Playbook für Exporteure

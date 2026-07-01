@@ -1,6 +1,6 @@
 ---
 name: besoldung-bverfg-dreischritt-2025
-description: "Vertiefung amtsangemessene Alimentation nach Art. 33 Abs. 5 GG: BVerfG-Linie 2015/2020/2025, Mindestabstand, Prekaritätsschwelle, Drei-Schritt-Prüfung, Reparaturgesetz und Output für Widerspruch, Vorlageanregung und Mandantenmemo im Beamtenrecht."
+description: "Wenn es um Besoldung - BVerfG-Dreischritt, Mindestabstand und Reformstand in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besoldung - BVerfG-Dreischritt, Mindestabstand und Reformstand

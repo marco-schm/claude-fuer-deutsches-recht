@@ -1,6 +1,6 @@
 ---
 name: compliance-bericht-hv
-description: "Hauptversammlung AG und SE: Compliance Bericht HV; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Compliance Bericht HV in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Compliance Bericht HV

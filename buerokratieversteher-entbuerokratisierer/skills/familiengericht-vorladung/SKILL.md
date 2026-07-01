@@ -1,6 +1,6 @@
 ---
 name: familiengericht-vorladung
-description: "Erklärt Ladung, Beteiligtenrolle, Kindeswohl, Anhörung, Jugendamt, Verfahrensbeistand, Unterlagen und sichere Vorbereitung im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Vorladung Familiengericht in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Vorladung Familiengericht

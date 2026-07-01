@@ -1,6 +1,6 @@
 ---
 name: kita-satzung-gebuehr-kalkulieren
-description: "der Länder: Kita-Satzung: Gebühr kalkulieren im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kita Satzung Gebuehr Kalkulieren in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kita Satzung Gebuehr Kalkulieren

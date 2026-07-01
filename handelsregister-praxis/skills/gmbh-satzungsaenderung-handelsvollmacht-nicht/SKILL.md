@@ -1,6 +1,6 @@
 ---
 name: gmbh-satzungsaenderung-handelsvollmacht-nicht
-description: "Prüft Beschlussmehrheit, notarielle Beurkundung, vollständige Neufassung, Gegenstand, Firma, Sitz, Kapital und Anmeldung im Handelsregister Praxis."
+description: "Wenn es um Satzungsänderung in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Satzungsänderung

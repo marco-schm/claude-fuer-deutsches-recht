@@ -1,6 +1,6 @@
 ---
 name: fahrradreparatur-dienstleistung
-description: "Fahrradreparatur und kleine Dienstleistungen: erklärt Werkvertrag, Kostenvoranschlag, Abnahme, Mangel und Rechnung in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Fahrradreparatur und kleine Dienstleistungen in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fahrradreparatur und kleine Dienstleistungen

@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrer-dashboard
-description: "Management-Dashboard: Top-Fristen, Bußgeldrisiken, Verantwortliche, offene Behördenfragen und Entlastungsmaßnahmen im Berichtspflichten."
+description: "Wenn es um Geschäftsführer-Dashboard Berichtspflichten in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschäftsführer-Dashboard Berichtspflichten

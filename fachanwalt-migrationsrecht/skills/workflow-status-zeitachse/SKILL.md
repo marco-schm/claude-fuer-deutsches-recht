@@ -1,6 +1,6 @@
 ---
 name: workflow-status-zeitachse
-description: "Status-Zeitachse: Prüfungslinie für Migrationsrecht: rekonstruiert Einreise, Titel, Anträge, Fiktionen, Unterbrechungen und Zuständigkeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck un..."
+description: "Wenn es um Status-Zeitachse: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Status-Zeitachse: Prüfungslinie für Migrationsrecht

@@ -1,6 +1,6 @@
 ---
 name: immissionen-compliance-dokumentation-und-akte
-description: "Immissionen: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Immissionen: Compliance-Dokumentation und Aktenvermerk in Nachbarschaftsstreit-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Immissionen: Compliance-Dokumentation und Aktenvermerk

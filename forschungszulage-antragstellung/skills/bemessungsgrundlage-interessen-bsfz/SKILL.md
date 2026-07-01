@@ -1,6 +1,6 @@
 ---
 name: bemessungsgrundlage-interessen-bsfz
-description: "Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix

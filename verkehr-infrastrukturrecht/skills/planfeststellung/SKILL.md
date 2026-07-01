@@ -1,6 +1,6 @@
 ---
 name: planfeststellung
-description: "Planfeststellung für Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begleiten oder anfechten: Vorhabentraeger benoetigt Planfeststellungsbeschluss oder Anlieger klagt dagegen. Normen: § 17 FStrG (Bundesstrasse), § 18 AEG (Eisenbahn), § 28 PBefG (Strassenbahn), § 17 VwVfG (Abwaegungsgebot),..."
+description: "Wenn es um Planfeststellung und Plangenehmigung — Verkehrsinfrastruktur in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Planfeststellung und Plangenehmigung — Verkehrsinfrastruktur

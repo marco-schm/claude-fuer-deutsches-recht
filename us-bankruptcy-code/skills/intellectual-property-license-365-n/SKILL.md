@@ -1,6 +1,6 @@
 ---
 name: intellectual-property-license-365-n
-description: "Prüft licensee rights after rejection, election, royalties, exclusivity and access to embodiments im US Bankruptcy Code."
+description: "Wenn es um Intellectual Property License Paragraf 365(n) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Intellectual Property License § 365(n)

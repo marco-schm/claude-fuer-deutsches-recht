@@ -1,6 +1,6 @@
 ---
 name: staedtebauvertrag-schnittstelle-bautraegervertrag
-description: "Prueft die Schnittstelle zwischen städtebaulichem Vertrag, Bauträgervertrag, Teilung, Kostenweitergabe, Transparenz und Verbraucherschutz."
+description: "Wenn es um Städtebauvertrag und Bauträgervertrag: Schnittstelle in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Städtebauvertrag und Bauträgervertrag: Schnittstelle

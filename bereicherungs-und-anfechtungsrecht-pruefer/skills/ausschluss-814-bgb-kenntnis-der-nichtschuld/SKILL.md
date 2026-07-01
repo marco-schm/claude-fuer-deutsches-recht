@@ -1,6 +1,6 @@
 ---
 name: ausschluss-814-bgb-kenntnis-der-nichtschuld
-description: "Bereicherungsanspruch scheitert an § 814 BGB wegen positiver Kenntnis des Leistenden von der Nichtschuld. Normen: § 814 BGB. Prüfraster: positive Kenntnis vs. bloss Zweifel, Zeitpunkt der Kenntnis, Abgrenzung zu condictio indebiti. Output: Prüfergebnis Ausschlussgrund § 814 BGB mit Begründung. Ab..."
+description: "Wenn es um Ausschluss nach Paragraf 814 BGB — Kenntnis der Nichtschuld in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausschluss nach § 814 BGB — Kenntnis der Nichtschuld

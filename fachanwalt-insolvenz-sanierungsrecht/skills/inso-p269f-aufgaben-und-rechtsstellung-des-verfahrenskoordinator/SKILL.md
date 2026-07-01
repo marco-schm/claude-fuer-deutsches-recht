@@ -1,6 +1,6 @@
 ---
 name: inso-p269f-aufgaben-und-rechtsstellung-des-verfahrenskoordinator
-description: "§ 269f InsO (Aufgaben und Rechtsstellung des Verfahrenskoordinators) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 269f InsO (Aufgaben und Rechtsstellung des Verfahrenskoordinators) im M..."
+description: "Wenn es um Inso P269f Aufgaben Und Rechtsstellung Des Verfahrenskoordinator in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 269f InsO (Aufgaben und Rechtsstellung des Verfahrenskoordinators) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

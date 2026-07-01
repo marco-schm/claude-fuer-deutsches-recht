@@ -1,6 +1,6 @@
 ---
 name: parteivernehmung-vorbereiten
-description: "Bereitet persönliche gerichtliche Befragung ehrlich und konsistent vor im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Parteivernehmung vorbereiten in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parteivernehmung vorbereiten

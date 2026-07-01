@@ -1,6 +1,6 @@
 ---
 name: kostenentscheidung-angreifen
-description: "Ordnungswidrigkeitenrecht: Kostenentscheidung angreifen. Kostenentscheidung angreifen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht."
+description: "Wenn es um Kostenentscheidung Angreifen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kostenentscheidung Angreifen

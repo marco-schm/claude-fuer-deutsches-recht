@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-waffg-strafvorschriften-51-52
-description: "Strafvorschriften des Waffengesetzes Paragraphen 51 und 52 WaffG: Unerlaubter Umgang mit Schusswaffen und Munition Erwerb Besitz Fuehren Verbringen. Erlaubnistatbestaende Wesentliche Bauteile..."
+description: "Wenn es um Strafvorschriften des Waffengesetzes Paragraphen 51 und 52 WaffG in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafvorschriften des Waffengesetzes Paragraphen 51 und 52 WaffG

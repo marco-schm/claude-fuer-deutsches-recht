@@ -1,6 +1,6 @@
 ---
 name: inso-p269-kosten-der-uberwachung
-description: "§ 269 InsO (Kosten der Überwachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 269 InsO (Kosten der Überwachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen,..."
+description: "Wenn es um Inso P269 Kosten Der Uberwachung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 269 InsO (Kosten der Überwachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

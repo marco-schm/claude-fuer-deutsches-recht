@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-sonderfall-edge-case
-description: "Rechtsquellen: Quellenprüfung; Sonderfall und Edge-Case-Prüfung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert"
+description: "Wenn es um Rechtsquellen: Sonderfall und Edge-Case-Prüfung in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsquellen: Sonderfall und Edge-Case-Prüfung

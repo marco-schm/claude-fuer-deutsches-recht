@@ -1,6 +1,6 @@
 ---
 name: bmf-haushalts-und-zuwendungsrecht
-description: "Sachbereich Haushaltsrecht und Zuwendungen im Geschäftsbereich BMF: Normbestand (BHO; HG; VV-BHO; HGrG; ANBest-P; ANBest-I; Zuwendungsbescheid-Muster; SubvG.); Akteure (BMF Z-Abteilung; Bundesrechnungshof; zuwendende Bundesressorts; juris-Finanzrechtsprechung.); EU-Bezug (EU-Beihilferecht; AGVO;..."
+description: "Wenn es um Haushaltsrecht und Zuwendungen (BMF) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Haushaltsrecht und Zuwendungen (BMF)

@@ -1,6 +1,6 @@
 ---
 name: luft-056-registerpfandrecht-sicherheitsauflage
-description: "Luftrecht und Flughafenrecht: Registerpfandrecht: Sicherheitsauflage bewerten. Sicherheitsauflage bewerten für Registerpfandrecht im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Registerpfandrecht Sicherheitsauflage in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerpfandrecht Sicherheitsauflage

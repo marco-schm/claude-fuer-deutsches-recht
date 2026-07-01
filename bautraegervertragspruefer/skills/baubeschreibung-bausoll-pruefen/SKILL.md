@@ -1,6 +1,6 @@
 ---
 name: baubeschreibung-bausoll-pruefen
-description: "Prueft Baubeschreibung und Bausoll nach Paragraf 650k BGB und Artikel 249 EGBGB auf Vollstaendigkeit, Datierung, Mitbeurkundung und Eindeutigkeit. Unklare oder lueckenhafte Klauseln werden gegen den Verwender ausgelegt. Pauschalformulierungen wie mittlere Art und Guete oder marktuebllich erzeugen ein rotes Risiko."
+description: "Wenn es um Baubeschreibung und Bausoll prüfen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Baubeschreibung und Bausoll prüfen

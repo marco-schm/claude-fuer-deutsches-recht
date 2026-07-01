@@ -1,6 +1,6 @@
 ---
 name: legalitaet-und-moral-minimum-red-team
-description: "Prüft, ob formale Legalitaet moralisch relevant ist, ohne Positivismus in Naturrecht oder Moralautomatismus aufzulösen: Mindestbindung, Orientierung, Kontrolle und Unrechtsnaehe."
+description: "Wenn es um Legalität und moralisches Minimum in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Legalität und moralisches Minimum

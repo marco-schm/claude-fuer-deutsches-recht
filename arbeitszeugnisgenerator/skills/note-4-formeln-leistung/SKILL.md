@@ -1,6 +1,6 @@
 ---
 name: note-4-formeln-leistung
-description: "Formulierungskatalog für Leistungsaussagen der Note 4 (ausreichend). Hauptformel 'zur Zufriedenheit' ohne Steigerer. Note 4 ist rechtlich riskant: der Arbeitgeber trägt die Darlegungs- und Beweislast. Generator weist zwingend auf dieses Risiko hin und verlangt Bestätigung, bevor Note-4-Formulierungen erzeugt werden. Enthält auch Grenzformeln und Negativcodes, die unwillentlich Note 4 erzeugen."
+description: "Wenn es um Note 4 — Formeln Leistung in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Note 4 — Formeln Leistung

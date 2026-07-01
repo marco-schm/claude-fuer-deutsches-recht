@@ -1,6 +1,6 @@
 ---
 name: jahresgespraech-mandant-bwa-basis
-description: "Jahresgespraech Mandant auf BWA-Basis. Anwendungsfall jaehrliches Bilanzgespraech nach Jahresabschluss-Erstellung Gesamtjahresblick Mehrjahres-Trend Strategie Folgejahr. Methodik intensive Vorbereitung 2-3 Stunden Termin Dokumentation. Output Gespraechs-Protokoll Strategiepapier."
+description: "Wenn es um Jahresgespraech mit dem Mandanten in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jahresgespraech mit dem Mandanten

@@ -1,6 +1,6 @@
 ---
 name: berufshaftpflicht-und-claim-risk-rechtsprechungs
-description: "Patentanwälte: berufshaftpflicht und claim risk - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Berufshaftpflicht Und Claim Risk Rechtsprechungs in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Patentanwälte: berufshaftpflicht und claim risk - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: konformitaetsbescheinigung-robotik-ki
-description: "Erstellt interne Konformitätsbescheinigung für Robotik mit KI: Scope, Regime, Nachweise, Lücken, Restrisiko, Freigabe."
+description: "Wenn es um Konformitätsbescheinigung Robotik-digitale Werkzeuge in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konformitätsbescheinigung Robotik-KI

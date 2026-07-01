@@ -1,6 +1,6 @@
 ---
 name: eforms-ted-bekanntmachung-check
-description: "eForms, TED und Bekanntmachungen prüfen: Bekanntmachungsfehler, CPV, Fristen, Auftragsbeschreibung, Eignung/Zuschlag, Berichtigung und Rechtsfolgen: eForms, TED und Bekanntmachungen prüfen: Bekanntmachungsfehler, CPV, Fristen, Auftragsbeschreibung, Eignu..."
+description: "Wenn es um Eforms Ted Bekanntmachung Check in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # eForms, TED und Bekanntmachungen prüfen: Bekanntmachungsfehler, CPV, Fristen, Auftragsbeschreibung, Eignung/Zuschlag, Berichtigung und Rechtsfolgen.

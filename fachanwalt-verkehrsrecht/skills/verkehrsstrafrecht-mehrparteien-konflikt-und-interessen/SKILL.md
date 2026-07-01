@@ -1,6 +1,6 @@
 ---
 name: verkehrsstrafrecht-mehrparteien-konflikt-und-interessen
-description: "Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix: Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix."
+description: "Wenn es um Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix

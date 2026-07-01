@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-orientierung
-description: "Einstieg in den Skill-Verbund Verkehrsrecht. Orientierung im Verkehrsrecht FAO Voraussetzungen §§ 14g bis 14i FAO Verkehrsrecht. Typische Mandate Verkehrsunfall Schadensregulierung OWi-Bußgeld Fahrerlaubnis MPU Verkehrsstrafrecht §§ 315c 316 StGB. Normen StVO StVG OWiG StGB VVG. verifizierbare Quellen. Schnittstellen zu fachanwalt-versicherungsrecht und fachanwalt-strafrecht. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-verkehrsrecht (konkrete Falltriage)."
+description: "Wenn es um Fachanwalt für Verkehrsrecht — Orientierung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt für Verkehrsrecht — Orientierung

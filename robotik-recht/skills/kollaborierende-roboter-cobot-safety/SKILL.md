@@ -1,6 +1,6 @@
 ---
 name: kollaborierende-roboter-cobot-safety
-description: "Prüft Cobots: Kraft-/Leistungsbegrenzung, Sicherheitsabstände, Schutzräume, Betriebsarten, Validierung und Arbeitsplatzintegration."
+description: "Wenn es um Cobot Safety in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cobot Safety

@@ -1,6 +1,6 @@
 ---
 name: output-beschwerde-antrag-klage
-description: "Formate im Telekommunikationsrecht: BNetzA-Beschwerde, Verbraucher-Schlichtung, verwaltungsrechtlicher Antrag, Widerspruch/Anfechtung, zivilrechtliche Klage und Stellungnahme."
+description: "Wenn es um Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme in Telekommunikationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme

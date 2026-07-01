@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-bestandskonten-abstimmung
-description: "Bestandskonten-Abstimmung zum Jahresabschluss. Anwendungsfall Endbestaende Bank Kasse Forderungen Verbindlichkeiten Anlagen Eigenkapital abstimmen Inventur-Werte einarbeiten. Methodik Saldenabstimmung Vergleich. Output abgestimmte Bestandskonten."
+description: "Wenn es um Bestandskonten-Abstimmung zum Jahresabschluss in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bestandskonten-Abstimmung zum Jahresabschluss

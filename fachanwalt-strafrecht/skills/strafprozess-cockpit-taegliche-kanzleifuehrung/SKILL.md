@@ -1,6 +1,6 @@
 ---
 name: strafprozess-cockpit-taegliche-kanzleifuehrung
-description: "Tägliches Strafprozess-Cockpit für Verteidiger: bearbeitet Verfahrensstand, Fristen, Haftlage, Akteneinsicht, offene Anträge, Mandantenkommunikation, Beweisfragen, Termine und nächste Schritte in einer laufend aktualisierbaren Verteidigungsübersicht: Tägli..."
+description: "Wenn es um Strafprozess Cockpit Taegliche Kanzleifuehrung in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tägliches Strafprozess-Cockpit für Verteidiger: bearbeitet Verfahrensstand, Fristen, Haftlage, Akteneinsicht, offene Anträge, Mandantenkommunikation, Beweisfragen, Termine und nächste Schritte in einer laufend aktualisierbaren Verteidigungsübersicht.

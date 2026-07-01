@@ -1,6 +1,6 @@
 ---
 name: stadtrat-dashboard-bauen
-description: "der Länder: Stadtrat: Dashboard bauen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Stadtrat Dashboard Bauen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stadtrat Dashboard Bauen

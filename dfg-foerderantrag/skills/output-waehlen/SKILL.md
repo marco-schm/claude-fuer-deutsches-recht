@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für DFG-Förderantrag: stimmt Adressat (Antragsteller, DFG-Gutachter, Universitätsleitung), Frist (Antragsfrist Ausschreibungstermin) und Form auf den Zweck ab — typische Outputs: Projektbeschreibung, Finanzierungsplan, Begründung Personalbedarf."
+description: "Wenn es um Output wählen in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

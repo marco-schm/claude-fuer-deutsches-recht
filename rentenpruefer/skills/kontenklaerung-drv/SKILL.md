@@ -1,6 +1,6 @@
 ---
 name: kontenklaerung-drv
-description: "Kontenklärung bei der Deutschen Rentenversicherung: Versicherungsverlauf lesen, Lücken erkennen, Nachweise anfordern und Antragsschreiben vorbereiten im Rentenpruefer."
+description: "Wenn es um kontenklaerung-drv in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # kontenklaerung-drv

@@ -1,6 +1,6 @@
 ---
 name: entfernung-aus-dem-beamtenverhaeltnis-unterhalt
-description: "Skill zur Entfernung aus dem Beamtenverhaeltnis als schaerfster Disziplinarmassnahme und zum Anspruch auf Unterhaltsbeitrag. Klaert das Verhältnis von Statusverlust und Versorgungsverlust den Anspruch auf Unterhaltsbeitrag nach § 10 BDG die Bemessung des Unterhaltsbeitrags und die Folgen für Kra..."
+description: "Wenn es um Entfernung aus dem Beamtenverhaeltnis und Unterhaltsbeitrag in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Entfernung aus dem Beamtenverhaeltnis und Unterhaltsbeitrag

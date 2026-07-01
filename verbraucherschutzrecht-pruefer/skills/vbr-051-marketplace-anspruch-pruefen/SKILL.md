@@ -1,6 +1,6 @@
 ---
 name: vbr-051-marketplace-anspruch-pruefen
-description: "Verbraucherschutzrecht Prüfer: Marketplace: Anspruch prüfen. Anspruch prüfen für Marketplace im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Marketplace Anspruch Pruefen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Marketplace Anspruch Pruefen

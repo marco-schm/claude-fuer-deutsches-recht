@@ -1,6 +1,6 @@
 ---
 name: kontinuitaet-und-bruch-pruefen
-description: "Deutsche Rechtsgeschichte: Kontinuitaet und Bruch prüfen. Methodisches Werkzeug um echte Rechtsbrueche (NS-Machtuebernahme 1933 / Kriegsende 1945 / GG 1949 / Wiedervereinigung 1990) von Schein-Bruechen zu unterscheiden im Deutsche Rechtsgeschichte."
+description: "Wenn es um Kontinuitaet und Bruch prüfen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kontinuitaet und Bruch prüfen

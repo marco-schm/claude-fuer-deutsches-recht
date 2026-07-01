@@ -1,6 +1,6 @@
 ---
 name: milieuschutz-und-genehmigung-veraendert
-description: "Spezialfall Milieuschutzgebiet (soziale Erhaltungssatzung § 172 BauGB): Genehmigungspflicht von Modernisierungen und Aufteilung, Vorkaufsrecht der Gemeinde, Abwendungsvereinbarungen, Mietpreisbegrenzungen: Spezialfall Milieuschutzgebiet (soziale Erhaltungss..."
+description: "Wenn es um Milieuschutz Und Genehmigung Veraendert in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Milieuschutzgebiet (soziale Erhaltungssatzung § 172 BauGB): Genehmigungspflicht von Modernisierungen und Aufteilung, Vorkaufsrecht der Gemeinde, Abwendungsvereinbarungen, Mietpreisbegrenzungen

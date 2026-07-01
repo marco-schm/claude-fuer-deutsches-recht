@@ -1,6 +1,6 @@
 ---
 name: behoerdenkommunikation-kooperationsstrategie
-description: "Kommunikationsstrategie gegenüber der Bundesnetzagentur: kooperativ, präzise, aktenfest, geheimnisschonend und entscheidungsorientiert im Telekommunikationsrecht."
+description: "Wenn es um Behördenkommunikation mit BNetzA in Telekommunikationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Behördenkommunikation mit BNetzA

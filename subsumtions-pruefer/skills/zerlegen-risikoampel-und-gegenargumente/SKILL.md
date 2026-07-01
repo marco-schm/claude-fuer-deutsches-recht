@@ -1,6 +1,6 @@
 ---
 name: zerlegen-risikoampel-und-gegenargumente
-description: "Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien im Subsumtions Prüfer."
+description: "Wenn es um Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien in Subsumtions-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien

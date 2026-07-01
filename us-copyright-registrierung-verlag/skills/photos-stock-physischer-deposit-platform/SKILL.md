@@ -1,6 +1,6 @@
 ---
 name: photos-stock-physischer-deposit-platform
-description: "Prüft Fotorechte, Social-Media-Reposts, Stock Terms, embedded content, model releases und DMCA-Takedown im Us Copyright Registrierung Verlag."
+description: "Wenn es um Photos, Stock und Social Media in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Photos, Stock und Social Media

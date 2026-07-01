@@ -1,6 +1,6 @@
 ---
 name: verkehrsunfall-paragraf-7-stvg
-description: "Verkehrsunfall § 7 StVG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Verkehrsunfall Paragraf 7 StVG in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verkehrsunfall § 7 StVG

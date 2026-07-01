@@ -1,6 +1,6 @@
 ---
 name: compilations-derivative-works-103
-description: "Prüft Sammelwerke, Datenzusammenstellungen, Bearbeitungen, Übersetzungen und abgeleitete Werke nach 17 USC 103 im Us Copyright Registrierung Verlag."
+description: "Wenn es um Compilations und Derivative Works in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Compilations und Derivative Works

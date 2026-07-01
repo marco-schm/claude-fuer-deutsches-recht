@@ -1,6 +1,6 @@
 ---
 name: pruefungsplanung-und-dokumentationsluecke-organisationspflicht
-description: "Wirtschaftsprüfer: prüfungsplanung und dokumentationsluecke - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Pruefungsplanung Und Dokumentationsluecke Organisationspflicht in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: prüfungsplanung und dokumentationsluecke - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

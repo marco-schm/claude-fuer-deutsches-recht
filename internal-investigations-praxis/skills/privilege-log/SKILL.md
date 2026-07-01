@@ -1,6 +1,6 @@
 ---
 name: privilege-log
-description: "Erstellt und verwaltet das Privilege-Log für privilegierte Untersuchungsdokumente – FRCP Rule 26(b)(5), deutsche Schutzstandards, Waiver-Risiken im Internal Investigations Praxis."
+description: "Wenn es um Privilege-Log in Internal Investigations in Internal Investigations Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Privilege-Log in Internal Investigations

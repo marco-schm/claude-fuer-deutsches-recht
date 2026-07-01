@@ -1,6 +1,6 @@
 ---
 name: see-037-schiffbauwerk-local-counsel-instruiere
-description: "See- und Schifffahrtsrecht: Schiffbauwerk: Local Counsel instruieren. Local Counsel instruieren für Schiffbauwerk im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schiffbauwerk Local Counsel Instruiere in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffbauwerk Local Counsel Instruiere

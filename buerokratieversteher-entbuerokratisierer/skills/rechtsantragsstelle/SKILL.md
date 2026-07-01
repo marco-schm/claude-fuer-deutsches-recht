@@ -1,6 +1,6 @@
 ---
 name: rechtsantragsstelle
-description: "Erklärt, wann Rechtsantragsstelle helfen kann, was sie nicht leistet, welche Unterlagen mitzunehmen sind im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Rechtsantragsstelle in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rechtsantragsstelle

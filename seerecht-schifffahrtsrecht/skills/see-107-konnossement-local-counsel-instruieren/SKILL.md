@@ -1,6 +1,6 @@
 ---
 name: see-107-konnossement-local-counsel-instruieren
-description: "See- und Schifffahrtsrecht: Konnossement: Local Counsel instruieren. Local Counsel instruieren für Konnossement im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Konnossement Local Counsel Instruieren in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konnossement Local Counsel Instruieren

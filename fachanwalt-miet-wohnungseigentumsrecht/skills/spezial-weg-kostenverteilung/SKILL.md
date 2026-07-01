@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-kostenverteilung
-description: "WEG Kostenverteilung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft § 16 WEG, Öffnungsklauseln, Einzelfallkosten, Beschlusswortlaut; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um WEG Kostenverteilung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Kostenverteilung

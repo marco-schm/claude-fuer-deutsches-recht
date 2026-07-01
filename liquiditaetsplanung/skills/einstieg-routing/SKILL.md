@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Liquiditätsplanung: ordnet Rolle (Geschäftsführung, Finanzen/CFO, Bank), markiert Frist (Rolling 13-week-Plan), wählt Norm (IDW S 11 (Sanierung), § 18 InsO drohende ZU) und Zuständigkeit (Bank), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Liquiditätsplanung — Power geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

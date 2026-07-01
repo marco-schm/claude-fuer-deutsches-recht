@@ -1,6 +1,6 @@
 ---
 name: rechtstatsachen-und-sozialgeschichte
-description: "Deutsche Rechtsgeschichte: Rechtstatsachen und Sozialgeschichte des Rechts. Eugen Ehrlichs lebendes Recht, Rechtstatsachenforschung, soziologische Rechtswissenschaft und Recht in der Alltagspraxis im Deutsche Rechtsgeschichte."
+description: "Wenn es um Rechtstatsachen und Sozialgeschichte des Rechts in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtstatsachen und Sozialgeschichte des Rechts

@@ -1,6 +1,6 @@
 ---
 name: gerichtsstand-anwendbares-api-nutzung
-description: "Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständigkeit nach EuGVVO Art. 4 und Art. 7 Nr. 2 (Tatort), Kollisionsrecht nach Art. 8 Rom-II-VO (Schutzlandprinzip), fliegender Gerichtsstand bei Internet-Verletzungen und Schiedsklauseln für Datenbanklizenzen. Bewertet Klage..."
+description: "Wenn es um Gerichtsstand und anwendbares Recht im Datenbankrecht in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gerichtsstand und anwendbares Recht im Datenbankrecht

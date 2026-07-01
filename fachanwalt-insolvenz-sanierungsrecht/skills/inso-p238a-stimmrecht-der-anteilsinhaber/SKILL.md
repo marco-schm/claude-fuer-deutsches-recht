@@ -1,6 +1,6 @@
 ---
 name: inso-p238a-stimmrecht-der-anteilsinhaber
-description: "§ 238a InsO (Stimmrecht der Anteilsinhaber) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 238a InsO (Stimmrecht der Anteilsinhaber) im Mandat prüfen: Normzweck, Tatbestand, Belege, Recht..."
+description: "Wenn es um Inso P238a Stimmrecht Der Anteilsinhaber in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 238a InsO (Stimmrecht der Anteilsinhaber) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

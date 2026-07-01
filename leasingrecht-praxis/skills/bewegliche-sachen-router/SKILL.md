@@ -1,6 +1,6 @@
 ---
 name: bewegliche-sachen-router
-description: "Leasing von Netzwerkequipment (Router, Switches, Access Points): Abnahme, Konfiguration, Datenlöschung, Eigentumsfragen und Rückgabe im Leasingrecht."
+description: "Wenn es um Leasing von Netzwerkequipment: Router, Switches, Access Points in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Leasing von Netzwerkequipment: Router, Switches, Access Points

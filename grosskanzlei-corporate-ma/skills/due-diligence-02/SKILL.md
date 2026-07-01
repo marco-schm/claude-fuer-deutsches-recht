@@ -1,6 +1,6 @@
 ---
 name: due-diligence-02
-description: "Due Diligence Report erstellen und strukturieren: Anwendungsfall After DD-Phase muss Anwalt einen umfassenden DD-Bericht für Kaeufer-Management, Investitionskomitee oder Finanzierungsbank erstellen. SPA-Berichtspflichten, Paragraf 93 AktG Informationsgrundlage. Prüfraster Executive Summary, Risikoklassi..."
+description: "Wenn es um DD Reporting und Legal Fact Book in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DD Reporting und Legal Fact Book

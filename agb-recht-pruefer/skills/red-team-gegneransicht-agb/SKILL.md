@@ -1,6 +1,6 @@
 ---
 name: red-team-gegneransicht-agb
-description: "Einstiegs- und Prüfungslinie für Red Team Gegneransicht AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Wenn es um Red Team Gegneransicht AGB in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Red Team Gegneransicht AGB

@@ -1,6 +1,6 @@
 ---
 name: surrogat-erloes-triage-vermoegensverschiebung
-description: "Anwendungsfall: an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Normen: § 818 Abs. 1 BGB; § 285 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauc..."
+description: "Wenn es um Surrogat, Erlös, Versicherung und Ersatzforderung in bereicherungs-und-anfechtungsrecht-prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Surrogat, Erlös, Versicherung und Ersatzforderung

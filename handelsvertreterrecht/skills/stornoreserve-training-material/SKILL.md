@@ -1,6 +1,6 @@
 ---
 name: stornoreserve-training-material
-description: "Prüft Zulässigkeit und Umfang von Stornoreserven im Handelsvertretervertrag: Einbehalt von Provisionen als Sicherheit gegen Vertragsstornierungen, AGB-Konformität von Stornoreserveklauseln nach § 307 BGB, Auszahlungsbedingungen sowie Zusammenhang mit § 87a Abs. 2 HGB bei Nichtausführung von Vertr..."
+description: "Wenn es um Stornoreserve im Handelsvertretervertrag — Zulässigkeit nach Paragraf 307 BGB und Paragraf 87a HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stornoreserve im Handelsvertretervertrag — Zulässigkeit nach § 307 BGB und § 87a HGB

@@ -1,6 +1,6 @@
 ---
 name: betriebspruefung-apotheke
-description: "Betäubungsmittelrecht: Betriebsprüfung Apotheke. Betriebsprüfung Apotheke im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
+description: "Wenn es um Betriebspruefung Apotheke in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebspruefung Apotheke

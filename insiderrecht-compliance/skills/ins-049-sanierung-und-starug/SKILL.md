@@ -1,6 +1,6 @@
 ---
 name: ins-049-sanierung-und-starug
-description: "Spezialskill Insiderrecht fuer Sanierung und StaRUG: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Sanierung und StaRUG in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Sanierung und StaRUG

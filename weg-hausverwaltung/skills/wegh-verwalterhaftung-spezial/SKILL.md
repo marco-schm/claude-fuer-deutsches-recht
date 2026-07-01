@@ -1,6 +1,6 @@
 ---
 name: wegh-verwalterhaftung-spezial
-description: "Spezialfall Verwalterhaftung WEG §§ 26 ff. WEG nach Reform 2020: Innen- und Aussenhaftung, D-and-O für Verwalter, Haftung für Beschlussumsetzung. Prüfraster für Verwalter."
+description: "Wenn es um WEGh: Verwalterhaftung in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEGh: Verwalterhaftung

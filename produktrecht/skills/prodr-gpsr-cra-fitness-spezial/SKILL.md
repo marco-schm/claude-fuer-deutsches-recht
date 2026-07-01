@@ -1,6 +1,6 @@
 ---
 name: prodr-gpsr-cra-fitness-spezial
-description: "Spezialfall GPSR und CRA Fitness-Check digitale Produkte: Sicherheitsanforderungen, Konformitaetsbewertung, Marktueberwachung. Prüfraster für Hersteller IoT und Software im Produktrecht."
+description: "Wenn es um ProdR: GPSR CRA in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ProdR: GPSR CRA

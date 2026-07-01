@@ -1,6 +1,6 @@
 ---
 name: kueschk-grundwarnung-falsche-wiese-und-haftung
-description: "Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz: Hinweis auf falsche Wiese und Haftungsausschluss: zentraler Warnblock mit Drei-Wochen-Frist n..."
+description: "Wenn es um Kueschk Grundwarnung Falsche Wiese Und Haftung in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz: Hinweis auf falsche Wiese und Haftungsausschluss

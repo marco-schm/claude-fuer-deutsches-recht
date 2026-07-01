@@ -1,6 +1,6 @@
 ---
 name: vbr-089-saas-fuer-verbraucher-vergleich-vorsch
-description: "Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Vergleich vorschlagen. Vergleich vorschlagen für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Saas Fuer Verbraucher Vergleich Vorsch in Verbraucherschutzrecht Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Saas Fuer Verbraucher Vergleich Vorsch

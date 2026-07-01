@@ -1,6 +1,6 @@
 ---
 name: beschlussvorlagen-erstellen
-description: "Erstellt WEG-Beschlussvorlagen mit Beschlusskompetenz, Kostenfolge, Ausführungsdetails, Alternativen, Begründung, Anlagenverweis und Anfechtungsrisiko (Stand 05/2026). Liefert Mustertexte für Abrechnungsspitzen, Sonderumlage, Schlüsseländerung mit sachlichem Grund, bauliche Veränderungen und Verw..."
+description: "Wenn es um Beschlussvorlagen Erstellen in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschlussvorlagen Erstellen

@@ -1,6 +1,6 @@
 ---
 name: leaver-klauseln-mietvertrag-buero-mitarbeiter
-description: "Prüft Good/Bad-Leaver-Klauseln, Abfindung, Einziehung und Durchsetzbarkeit im Gesellschaftsgruender."
+description: "Wenn es um Leaver-Klauseln in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leaver-Klauseln

@@ -1,6 +1,6 @@
 ---
 name: fristenkontrolle
-description: "Fristenkontrolle: vertiefter Berufsrechts-Skill für Steuerberater; prüft Fristenkontrolle im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
+description: "Wenn es um Fristenkontrolle in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristenkontrolle

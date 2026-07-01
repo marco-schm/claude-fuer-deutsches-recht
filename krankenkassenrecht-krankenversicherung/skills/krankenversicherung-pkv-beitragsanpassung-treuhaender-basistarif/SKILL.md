@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-pkv-beitragsanpassung-treuhaender-basistarif
-description: "PKV-Beitragserhöhungen nach § 203 VVG: Treuhänder-Zustimmung, formelle und materielle Anforderungen, BGH-Rechtsprechung und Rückforderungsverjährung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um PKV-Beitragsanpassung: Treuhänder, Begründung und Verjährung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PKV-Beitragsanpassung: Treuhänder, Begründung und Verjährung

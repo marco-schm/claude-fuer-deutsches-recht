@@ -1,6 +1,6 @@
 ---
 name: 03-fruehe-erste-verfuegung-paragraf-139
-description: "Hinweisverfuegung Paragraf 139 ZPO: Hinweise auf rechtliche Bedenken, Auflagen zur Substantiierung, Ergaenzung des Vortrags, Beweisangebote, Fristsetzung; Verfahrensbeschleunigung Paragrafen 282 296"
+description: "Wenn es um 03 Frühe Erste Verfügung Paragraf 139 in Zivilkammer am Landgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 03 Frühe Erste Verfügung Paragraf 139

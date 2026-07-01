@@ -1,6 +1,6 @@
 ---
 name: dsa-art-34-systemische-risikobewertung
-description: "Jaehrliche Risikobewertung nach Art. 34 DSA für VLOP/VLOSE durchführen: Grosse Plattform muss Risikobewertung dokumentieren oder Berater unterstuetzt Compliance-Team. Normen: DSA (EU) 2022/2065 Art. 34 (vier Risikoarten: illegale Inhalte, Grundrechte, zivilgesellschaftlicher Diskurs/Wahlen, Minde..."
+description: "Wenn es um DSA — Systemische Risikobewertung nach Art. 34 in DSA, DMA und Digitalregulierung der EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # DSA — Systemische Risikobewertung nach Art. 34

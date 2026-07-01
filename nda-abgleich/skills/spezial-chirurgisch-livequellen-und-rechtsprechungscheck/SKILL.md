@@ -1,6 +1,6 @@
 ---
 name: spezial-chirurgisch-livequellen-und-rechtsprechungscheck
-description: "Chirurgisch: Livequellen- und Rechtsprechungscheck im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Chirurgisch: Livequellen- und Rechtsprechungscheck in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chirurgisch: Livequellen- und Rechtsprechungscheck

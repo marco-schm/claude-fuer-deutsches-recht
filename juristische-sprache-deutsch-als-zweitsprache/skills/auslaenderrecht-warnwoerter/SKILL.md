@@ -1,6 +1,6 @@
 ---
 name: auslaenderrecht-warnwoerter
-description: "Hilft bei Auslaenderrecht Warnwoerter fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch."
+description: "Wenn es um Auslaenderrecht Warnwoerter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auslaenderrecht Warnwoerter

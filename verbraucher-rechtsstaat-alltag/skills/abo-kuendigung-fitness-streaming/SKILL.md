@@ -1,6 +1,6 @@
 ---
 name: abo-kuendigung-fitness-streaming
-description: "Abo-Kündigung Fitness und Streaming: führt Laien durch Laufzeitvertrag, Kündigungsbutton, automatische Verlängerung, Umzug, Krankheit und Beitragsrückstand. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Abo-Kündigung Fitness und Streaming in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Abo-Kündigung Fitness und Streaming

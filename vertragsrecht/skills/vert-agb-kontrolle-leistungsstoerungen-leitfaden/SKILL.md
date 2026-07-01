@@ -1,6 +1,6 @@
 ---
 name: vert-agb-kontrolle-leistungsstoerungen-leitfaden
-description: "Spezialfall AGB-Kontrolle im B2B-Verkehr §§ 305 ff. BGB: Verwendung gegenueber Unternehmer, Indizwirkung, kaufmaennische Eigenheit. Prüfraster für Standardvertraege im Vertragsrecht."
+description: "Wenn es um Vert: AGB-Kontrolle B2B in Vertragsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vert: AGB-Kontrolle B2B

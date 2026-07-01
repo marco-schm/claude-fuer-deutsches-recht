@@ -1,6 +1,6 @@
 ---
 name: lph-03-fachplaner-schnittstellen
-description: "HOAI LPH 3 Entwurfsplanung: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 3 Entwurfsplanung: Koordiniert architekt in HOAI Leistungsphasen Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # LPH 3 Entwurfsplanung: Koordiniert architekt

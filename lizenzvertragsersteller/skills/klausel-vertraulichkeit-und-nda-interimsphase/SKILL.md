@@ -1,6 +1,6 @@
 ---
 name: klausel-vertraulichkeit-und-nda-interimsphase
-description: "Vertraulichkeitsklausel im Lizenzvertrag sowie NDA fuer Interimsphase vor Vertragsschluss: Definition vertraulicher Informationen, Ausnahmen (oeffentlich, schon bekannt), Dauer (5 Jahre nach Vertragsende), Beweislast, Rueckgabepflicht, vertragsstrafen."
+description: "Wenn es um Klausel Vertraulichkeit + NDA-Interimsphase in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Klausel Vertraulichkeit + NDA-Interimsphase

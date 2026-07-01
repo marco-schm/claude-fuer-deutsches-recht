@@ -1,6 +1,6 @@
 ---
 name: fristenkontrolle
-description: "Fristenkontrolle: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Fristenkontrolle im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
+description: "Wenn es um Fristenkontrolle in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristenkontrolle

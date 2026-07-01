@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-gmbh-unrichtige-darstellung-82-gmbhg
-description: "Falsche Angaben des Geschäftsführers nach Paragraph 82 GmbHG: Strafbarkeit bei unrichtiger Darstellung in Anmeldungen Gesellschafterversammlungen Prüfungsberichten. Schutzgut Vertrauen des R..."
+description: "Wenn es um Falsche Angaben des Geschäftsführers nach Paragraph 82 GmbHG in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Falsche Angaben des Geschäftsführers nach Paragraph 82 GmbHG

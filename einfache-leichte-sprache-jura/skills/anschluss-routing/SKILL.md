@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Einfache/Leichte Sprache Jura: wählt den nächsten Spezial-Skill nach Engpass (keine harten Fristen, Originalbescheid, Vereinfachte Fassung, Lese-Test), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Einfache und Leichte Sprache für juristische Texte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anschluss-Routing

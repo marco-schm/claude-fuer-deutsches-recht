@@ -1,6 +1,6 @@
 ---
 name: inv-009-stpo-beschlagnahme
-description: "Prueft Durchsuchung, Beschlagnahme, § 97 StPO, § 160a StPO, Mandatsbezug und Kanzleiraid-Risiko."
+description: "Wenn es um StPO Beschlagnahme Risiko in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # StPO Beschlagnahme Risiko

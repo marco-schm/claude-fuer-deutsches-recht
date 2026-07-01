@@ -1,6 +1,6 @@
 ---
 name: sanierungsvermerk-und-vorkaufsrechte-kommune
-description: "Prüft Genehmigung, Vorkaufsrecht, Löschung, Bescheinigung und Kaufvertragsvollzug im Grundbuchamt Praxis."
+description: "Wenn es um Sanierungsvermerk und Kommune in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsvermerk und Kommune

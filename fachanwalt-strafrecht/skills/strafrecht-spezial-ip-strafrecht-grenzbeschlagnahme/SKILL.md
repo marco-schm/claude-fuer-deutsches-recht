@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme
-description: "Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG: Antrag auf Taetigwerden der Zollbehoerden AGZ-Antrag. Ausnahme Privatreise. Vereinfachtes Vernich..."
+description: "Wenn es um Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG

@@ -1,6 +1,6 @@
 ---
 name: straf-bussgeld-selbstkorrektur
-description: "Zollstraf- und Bussgeldsachen sowie freiwillige Selbstkorrektur nach § 22 Abs. 4 AWG und § 22 ZollVG: Straftatbestaende (§ 18 AWG Schmuggeldelikt § 370 AO) Ordnungswidrigkeiten und Wirkung der Selbstanzeige. Strafmilderung durch Kooperation und BAFA-Praxis bei freiwilliger Offenlegung. Output: St..."
+description: "Wenn es um Zollstrafrecht und Selbstkorrektur: Strafbarkeit Bussgeld und Selbstanzeige in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zollstrafrecht und Selbstkorrektur: Strafbarkeit Bussgeld und Selbstanzeige

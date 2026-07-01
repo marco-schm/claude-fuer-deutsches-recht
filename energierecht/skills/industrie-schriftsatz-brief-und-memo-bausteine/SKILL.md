@@ -1,6 +1,6 @@
 ---
 name: industrie-schriftsatz-brief-und-memo-bausteine
-description: "Industrie: Schriftsatz-, Brief- und Memo-Bausteine im Energierecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Industrie: Schriftsatz-, Brief- und Memo-Bausteine in Energierecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Industrie: Schriftsatz-, Brief- und Memo-Bausteine

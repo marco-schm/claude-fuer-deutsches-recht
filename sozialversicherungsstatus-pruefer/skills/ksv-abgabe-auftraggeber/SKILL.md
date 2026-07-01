@@ -1,6 +1,6 @@
 ---
 name: ksv-abgabe-auftraggeber
-description: "Prüft Künstlersozialabgabe für Auftraggeber unabhängig von Beschäftigungsstatus im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Künstlersozialabgabe Auftraggeber in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Künstlersozialabgabe Auftraggeber

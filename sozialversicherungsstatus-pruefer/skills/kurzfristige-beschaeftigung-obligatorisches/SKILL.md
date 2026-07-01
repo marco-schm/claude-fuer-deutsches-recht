@@ -1,6 +1,6 @@
 ---
 name: kurzfristige-beschaeftigung-obligatorisches
-description: "Prüft kurzfristige Beschäftigung bei Projekten, Veranstaltungen, Unterrichtsblöcken und Saisonarbeit im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Kurzfristige Beschäftigung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kurzfristige Beschäftigung

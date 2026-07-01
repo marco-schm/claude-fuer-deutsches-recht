@@ -1,6 +1,6 @@
 ---
 name: trans-hgb-spedition-leitfaden
-description: "Leitfaden HGB-Spedition §§ 453 ff: HGB: Speditionsvertrag, Fixkostenspedition, Sammelladungsspedition, ADSp 2017. Prüfraster Spediteur und Auftraggeber."
+description: "Wenn es um Leitfaden HGB-Spedition Paragrafen 453 ff in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leitfaden HGB-Spedition §§ 453 ff

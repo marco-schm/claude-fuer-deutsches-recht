@@ -1,6 +1,6 @@
 ---
 name: referenten-zahlen-schwellenwerte-berechnung
-description: "Referenten: Zahlen, Schwellenwerte und Berechnung im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kri..."
+description: "Wenn es um Referenten: Zahlen, Schwellenwerte und Berechnung in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Referenten: Zahlen, Schwellenwerte und Berechnung

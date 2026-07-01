@@ -1,6 +1,6 @@
 ---
 name: inv-036-third-party-agent
-description: "Spezialskill fuer Third Party Agent: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Third Party Agent in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Internal Investigation: Third Party Agent

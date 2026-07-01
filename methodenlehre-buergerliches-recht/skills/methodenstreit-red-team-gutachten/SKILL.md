@@ -1,6 +1,6 @@
 ---
 name: methodenstreit-red-team-gutachten
-description: "Erstellt systematische Red-Team-Gutachten zu methodisch strittigen Rechtsfragen im Zivilrecht. Das Skill nimmt die stärkste methodische Gegenposition ein, entwickelt die überzeugendsten Argumente gegen die herrschende Meinung oder Gerichtsentscheidung und bewertet die Qualität beider Positionen n..."
+description: "Wenn es um Methodenstreit Red-Team-Gutachten in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Methodenstreit Red-Team-Gutachten

@@ -1,6 +1,6 @@
 ---
 name: kassenfuehrung-gebietsverband
-description: "Hilft Schatzmeisterei bei Belegen, Kasse, Konto, Vier-Augen-Prinzip, Quittungen, Jahresabschluss und Prüfung."
+description: "Wenn es um Kassenführung Gebietsverband in Parteienrecht und Parteiorganisation geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kassenführung Gebietsverband

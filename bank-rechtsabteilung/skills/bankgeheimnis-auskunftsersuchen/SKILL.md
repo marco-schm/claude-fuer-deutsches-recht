@@ -1,6 +1,6 @@
 ---
 name: bankgeheimnis-auskunftsersuchen
-description: "Auskunftsersuchen an Banken prüfen: Polizei, Staatsanwaltschaft, Gericht, Finanzamt, Insolvenzverwalter, Betreuer, Erben, Anwälte und Privatpersonen sicher auseinanderhalten im Bank-Rechtsabteilung."
+description: "Wenn es um Auskunftsersuchen in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auskunftsersuchen

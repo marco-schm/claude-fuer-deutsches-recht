@@ -1,6 +1,6 @@
 ---
 name: ndas-und-geschaeftsgeheimnisse
-description: "Analysiert den Schutz von Geschäftsgeheimnissen und NDA-Vereinbarungen im Handelsvertretervertrag nach § 88 HGB und GeschGehG: Umfang der Geheimhaltungspflicht, Verhältnis von § 88 HGB und GeschGehG, Vertragliche NDA-Klauseln, Schadensersatz bei Verletzung und strafrechtliche Konsequenzen im Hand..."
+description: "Wenn es um Geschäftsgeheimnisse und NDA im Handelsvertretervertrag nach Paragraf 88 HGB und GeschGehG in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschäftsgeheimnisse und NDA im Handelsvertretervertrag nach § 88 HGB und GeschGehG

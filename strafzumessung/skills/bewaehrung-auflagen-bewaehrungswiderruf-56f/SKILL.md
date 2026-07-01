@@ -1,6 +1,6 @@
 ---
 name: bewaehrung-auflagen-bewaehrungswiderruf-56f
-description: "Auflagen § 56b StGB und Weisungen § 56c StGB im Bewaehrungsbeschluss. Auflagen dienen der Genugtuung Wiedergutmachung Geldzahlung gemeinnuetzige Arbeit. Weisungen lenken kuenftiges Verhalten Aufenthalt Beruf Therapie Kontaktverbot. Bewaehrungshelfer § 56d StGB. Aktive Verteidigungsstrategie: Aufl..."
+description: "Wenn es um Auflagen und Weisungen — Paragrafen 56b, 56c StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auflagen und Weisungen — §§ 56b, 56c StGB

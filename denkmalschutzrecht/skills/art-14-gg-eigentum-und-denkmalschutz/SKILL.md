@@ -1,6 +1,6 @@
 ---
 name: art-14-gg-eigentum-und-denkmalschutz
-description: "Art. 14 GG im Denkmalschutz: die Eintragung in die Denkmalliste und die daraus folgenden Erhaltungs-, Duldungs- und Veränderungsverbote sind Inhalts- und Schrankenbestimmung des Eigentums. Skill erklärt Sozialbindung, Zumutbarkeitsgrenze (Rheinland-Pfalz-Beschluss BVerfGE 100 Seite 226), Ausgleichspflicht bei unzumutbarer Belastung und das Eingriffsregime nach Art. 14 Abs. 3 GG bei Enteignung."
+description: "Wenn es um Art. 14 GG — Eigentum und Denkmalschutz in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Art. 14 GG — Eigentum und Denkmalschutz

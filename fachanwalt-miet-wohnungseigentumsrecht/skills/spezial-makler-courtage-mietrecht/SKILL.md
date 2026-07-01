@@ -1,6 +1,6 @@
 ---
 name: spezial-makler-courtage-mietrecht
-description: "Maklercourtage Mietrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Bestellerprinzip, Nachweis, Vermittlung, Provisionsabrede; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Maklercourtage Mietrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Maklercourtage Mietrecht

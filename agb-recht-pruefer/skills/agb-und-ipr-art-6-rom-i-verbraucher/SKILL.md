@@ -1,6 +1,6 @@
 ---
 name: agb-und-ipr-art-6-rom-i-verbraucher
-description: "AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche Prüfung der AGB bei Verbrauchervertraegen mit internationalem Bezug. Klaert die Voraussetzungen der ausgerichteten Taetigkeit nach Art. 6 Abs. 1 Buchst. b Rom-I-VO EuGH-Pammer Linie sowie Wechselwirkung mit Rechtswa"
+description: "Wenn es um Agb Und Ipr Art 6 Rom I Verbraucher in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Und Ipr Art 6 Rom I Verbraucher; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Agb Und Ipr Art 6 Rom I Verbraucher

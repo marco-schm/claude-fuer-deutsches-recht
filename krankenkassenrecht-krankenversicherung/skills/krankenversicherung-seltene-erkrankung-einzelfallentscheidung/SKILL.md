@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-seltene-erkrankung-einzelfallentscheidung
-description: "GKV-Leistungsanspruch bei seltenen Erkrankungen: § 2 Abs. 1a SGB V, Nikolaus-Beschluss des BVerfG, Off-Label-Use ohne Nutzenbewertung und Einzelfallgenehmigung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Seltene Erkrankung: Einzelfallentscheidung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Seltene Erkrankung: Einzelfallentscheidung

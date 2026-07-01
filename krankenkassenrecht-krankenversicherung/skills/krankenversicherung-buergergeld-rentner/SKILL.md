@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-buergergeld-rentner
-description: "Krankenversicherung bei Bürgergeld-Bezug (SGB II) und Rentnern: Pflichtversicherung, Beitragsübernahme, KVdR, Lückenfälle und Widersprüche im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Bürgergeld, Rentner und Krankenversicherungspflicht in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bürgergeld, Rentner und Krankenversicherungspflicht

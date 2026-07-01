@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-fruehstellungnahme-vor-bussgeldbescheid
-description: "Datenschutzrecht-Brückenskill: Frühstellungnahme vor Bußgeldbescheid: Vor Bescheid mit gesicherten Tatsachen Einstellung, Verwarnung oder milde Maßnahme erreichen: Datenschutzrecht-Brückenskill: Frühstellungnahme vor Bußgeldbescheid: Vor Bescheid mit gesich..."
+description: "Wenn es um Dsv Sanktion Fruehstellungnahme Vor Bussgeldbescheid in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Frühstellungnahme vor Bußgeldbescheid: Vor Bescheid mit gesicherten Tatsachen Einstellung, Verwarnung oder milde Maßnahme erreichen

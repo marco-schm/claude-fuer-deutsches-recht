@@ -1,6 +1,6 @@
 ---
 name: musical-compulsory-license-115
-description: "Prüft mechanische Lizenzen, Covers, Downloads, Streams, Notice, MLC und Grenzen der compulsory license im Us Copyright Registrierung Verlag."
+description: "Wenn es um Musical Works Compulsory License Paragraf 115 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Musical Works Compulsory License § 115

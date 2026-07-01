@@ -1,6 +1,6 @@
 ---
 name: gewr-geschaeftsgeheimnisgesetz
-description: "Geschäftsgeheimnisschutz nach GeschGehG: Schutzvoraussetzungen, angemessene Geheimhaltungsmaßnahmen, Verletzungshandlungen, Unterlassung, Schadensersatz und einstweiliger Rechtsschutz. Abgrenzung zu UWG und Strafrecht im Gewerblicher Rechtsschutz."
+description: "Wenn es um GewR: Geschäftsgeheimnisgesetz (GeschGehG) – Spezial in Plugin: Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # GewR: Geschäftsgeheimnisgesetz (GeschGehG) – Spezial

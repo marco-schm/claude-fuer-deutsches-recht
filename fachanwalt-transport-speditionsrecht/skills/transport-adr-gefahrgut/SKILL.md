@@ -1,6 +1,6 @@
 ---
 name: transport-adr-gefahrgut
-description: "Gefahrguttransport-Haftung und ADR-Verstoss klären: Gefahrgutkennzeichnung, Verantwortlichkeiten, Bußgelder: Normen: ADR, §§ 407 ff. HGB, Gefahrgu..."
+description: "Wenn es um Transport Adr Gefahrgut in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gefahrguttransport-Haftung und ADR-Verstoss klären: Gefahrgutkennzeichnung, Verantwortlichkeiten, Bußgelder

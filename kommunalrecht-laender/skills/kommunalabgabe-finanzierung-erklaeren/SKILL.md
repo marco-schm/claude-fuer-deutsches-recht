@@ -1,6 +1,6 @@
 ---
 name: kommunalabgabe-finanzierung-erklaeren
-description: "der Länder: Kommunalabgabe: Finanzierung erklären im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kommunalabgabe Finanzierung Erklaeren in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalabgabe Finanzierung Erklaeren

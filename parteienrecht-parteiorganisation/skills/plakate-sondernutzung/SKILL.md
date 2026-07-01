@@ -1,6 +1,6 @@
 ---
 name: plakate-sondernutzung
-description: "Routet Plakatierung, Sondernutzung, kommunale Satzung, Gleichbehandlung, Fristen und Entfernung."
+description: "Wenn es um Plakate und Sondernutzung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Plakate Sondernutzung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Plakate und Sondernutzung

@@ -1,6 +1,6 @@
 ---
 name: anlagen-fuer-glaubhaftmachung
-description: "Spezialfür Eilverfahren: Anlagen, eidesstattliche Versicherung, Screenshots, E-Mails, Fotos und Glaubhaftmachungsdichte nach § 294 ZPO ordnen."
+description: "Wenn es um Anlagen für Glaubhaftmachung in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anlagen für Glaubhaftmachung

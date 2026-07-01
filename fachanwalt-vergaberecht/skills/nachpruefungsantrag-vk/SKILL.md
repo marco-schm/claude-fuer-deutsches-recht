@@ -1,6 +1,6 @@
 ---
 name: nachpruefungsantrag-vk
-description: "Nachprüfungsantrag bei der Vergabekammer nach §§ 160 ff: GWB stellen: Bieter ist unzulässig ausgeschlossen worden oder Zuschlag soll verhindert werden. Normen: § 160 Abs. 1 GWB (Nachprüfungsantrag), §..."
+description: "Wenn es um Nachprüfungsantrag bei der Vergabekammer nach Paragrafen 160 ff in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Nachprüfungsantrag bei der Vergabekammer nach §§ 160 ff

@@ -1,6 +1,6 @@
 ---
 name: militaerische-nutzung-dual-use-und-friedensgebot
-description: "Militärische Weltraumnutzung – OST Art. IV Friedensgebot, Dual-Use-Recht, ITAR, EU-Exportkontrolle im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Militärische Nutzung, Dual Use und Friedensgebot in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Militärische Nutzung, Dual Use und Friedensgebot

@@ -1,6 +1,6 @@
 ---
 name: laenderrecht-und-rechtszersplitterung
-description: "Deutsche Rechtsgeschichte: Länderrecht und Rechtszersplitterung. Partikularrechtliche Vielfalt vor 1900, EGBGB-Uebergangsrecht, fortgeltendes Landesrecht und foederales Privatrecht heute im Deutsche Rechtsgeschichte."
+description: "Wenn es um Länderrecht und Rechtszersplitterung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Länderrecht und Rechtszersplitterung

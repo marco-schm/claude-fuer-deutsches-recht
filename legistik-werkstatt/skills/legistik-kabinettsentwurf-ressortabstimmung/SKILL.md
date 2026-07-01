@@ -1,6 +1,6 @@
 ---
 name: legistik-kabinettsentwurf-ressortabstimmung
-description: "Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrenss..."
+description: "Wenn es um Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk

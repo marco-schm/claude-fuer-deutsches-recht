@@ -1,6 +1,6 @@
 ---
 name: rollenmodell-use-case-vendor
-description: "Rollenmodell: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Rollenmodell: Formular, Portal und Einreichungslogik in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Rollenmodell: Formular, Portal und Einreichungslogik

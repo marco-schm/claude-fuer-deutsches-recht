@@ -1,6 +1,6 @@
 ---
 name: ordnungsrecht-mehrparteien-konflikt-und-interessen
-description: "Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix: Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix."
+description: "Wenn es um Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix

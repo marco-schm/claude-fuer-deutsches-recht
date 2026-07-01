@@ -1,6 +1,6 @@
 ---
 name: beirat-amtszeit-rotation-bank-sanierung
-description: "GmbH-Beirat: Beirat Amtszeit Und Rotation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Mittelstand Corporate Ma."
+description: "Wenn es um Beirat Amtszeit Und Rotation in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Amtszeit Und Rotation

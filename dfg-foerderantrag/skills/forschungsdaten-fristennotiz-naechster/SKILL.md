@@ -1,6 +1,6 @@
 ---
 name: forschungsdaten-fristennotiz-naechster
-description: "Forschungsdaten: Fristennotiz und nächster Schritt im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?..."
+description: "Wenn es um Forschungsdaten: Fristennotiz und nächster Schritt in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Forschungsdaten Fristennotiz Naechster; Arbeitsfeld: DFG-Förderantrag."
 ---
 
 # Forschungsdaten: Fristennotiz und nächster Schritt

@@ -1,6 +1,6 @@
 ---
 name: zeichenbudgets-verhandlung
-description: "Zeichenbudgets: Verhandlung, Vergleich und Eskalation im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
+description: "Wenn es um Zeichenbudgets: Verhandlung, Vergleich und Eskalation in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zeichenbudgets: Verhandlung, Vergleich und Eskalation

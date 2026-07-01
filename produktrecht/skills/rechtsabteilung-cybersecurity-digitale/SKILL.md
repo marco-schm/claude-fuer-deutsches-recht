@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-cybersecurity-digitale
-description: "Rechtsabteilungs-Fachmodul für Cybersecurity als Produktsicherheitsmerkmal: Connected Products werden auf Security-by-Design und Patchfähigkeit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Produktrecht."
+description: "Wenn es um Rechtsabteilung: Cybersecurity als Produktsicherheitsmerkmal in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Cybersecurity als Produktsicherheitsmerkmal

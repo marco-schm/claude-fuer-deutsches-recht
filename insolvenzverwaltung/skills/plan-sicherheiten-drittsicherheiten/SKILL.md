@@ -1,6 +1,6 @@
 ---
 name: plan-sicherheiten-drittsicherheiten
-description: "Absonderungsrechte und Drittsicherheiten im Insolvenzplan und StaRUG planfest behandeln und Ausfallwerte bestimmen. §§ 49 50 51 224 InsO Absonderung § 2 Abs. 4 StaRUG Drittsicherheiten. Prüfraster: Sicherheitenregister Eingriffsbeschreibung Ausfallwertrechnung Finanzsicherheiten unzulässige Eingr..."
+description: "Wenn es um IV-integrierte Sicherheiten und Drittsicherheiten in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IV-integrierte Sicherheiten und Drittsicherheiten

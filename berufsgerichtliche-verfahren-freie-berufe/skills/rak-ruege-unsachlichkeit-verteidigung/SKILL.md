@@ -1,6 +1,6 @@
 ---
 name: rak-ruege-unsachlichkeit-verteidigung
-description: "RAK-Rüge wegen Unsachlichkeit (Verteidigungs- und Kammerantwort): steuert berufsrechtliche Rüge wegen scharfer Schriftsatzsprache, Social-Media-Äußerung oder Kollegenkonflikt mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche..."
+description: "Wenn es um RAK-Rüge wegen Unsachlichkeit: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # RAK-Rüge wegen Unsachlichkeit: Verteidigungs- und Kammerantwort

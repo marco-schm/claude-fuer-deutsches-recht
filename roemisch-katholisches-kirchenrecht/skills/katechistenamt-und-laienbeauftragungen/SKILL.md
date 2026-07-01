@@ -1,6 +1,6 @@
 ---
 name: katechistenamt-und-laienbeauftragungen
-description: "Katechistenamt und Laienbeauftragungen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Wenn es um Katechistenamt und Laienbeauftragungen in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Katechistenamt und Laienbeauftragungen

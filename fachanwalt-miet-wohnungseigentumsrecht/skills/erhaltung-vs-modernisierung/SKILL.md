@@ -1,6 +1,6 @@
 ---
 name: erhaltung-vs-modernisierung
-description: "Erhaltung vs: Modernisierung: Fachmodul im Miet- und Wohnungseigentumsrecht; trennt Instandsetzung, Verbesserung, Energieeinsparung, Kostenumlage und Beweis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Erhaltung vs in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erhaltung vs

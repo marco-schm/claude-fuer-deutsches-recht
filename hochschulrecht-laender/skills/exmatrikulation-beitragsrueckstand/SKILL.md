@@ -1,6 +1,6 @@
 ---
 name: exmatrikulation-beitragsrueckstand
-description: "Prüft Beitragsrückstand, Mahnung, Verhältnismäßigkeit, Härtefall und Wiedereinschreibung im Hochschulrecht Länder."
+description: "Wenn es um Exmatrikulation wegen Beitragsrückstand in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exmatrikulation wegen Beitragsrückstand

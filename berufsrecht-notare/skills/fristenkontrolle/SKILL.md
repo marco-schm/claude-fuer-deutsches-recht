@@ -1,6 +1,6 @@
 ---
 name: fristenkontrolle
-description: "Fristenkontrolle: vertiefter Berufsrechts-Skill für Notare; prüft Fristenkontrolle im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
+description: "Wenn es um Fristenkontrolle in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristenkontrolle

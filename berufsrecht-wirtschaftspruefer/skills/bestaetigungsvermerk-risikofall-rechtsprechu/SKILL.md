@@ -1,6 +1,6 @@
 ---
 name: bestaetigungsvermerk-risikofall-rechtsprechu
-description: "Wirtschaftsprüfer: bestätigungsvermerk risikofall - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Bestaetigungsvermerk Risikofall Rechtsprechu in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: bestätigungsvermerk risikofall - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

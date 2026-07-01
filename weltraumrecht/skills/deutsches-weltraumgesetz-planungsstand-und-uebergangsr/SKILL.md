@@ -1,6 +1,6 @@
 ---
 name: deutsches-weltraumgesetz-planungsstand-und-uebergangsr
-description: "Raumfahrtgesetzentwurf BMWK – Genehmigungspflicht, Versicherungspflicht, Regressrecht, Übergangsrecht und Lücken im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Deutsches Weltraumgesetz: Planungsstand und Übergangsrisiko in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Deutsches Weltraumgesetz: Planungsstand und Übergangsrisiko

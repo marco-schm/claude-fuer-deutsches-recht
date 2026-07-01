@@ -1,6 +1,6 @@
 ---
 name: inkasso-leasingforderung
-description: "Inkasso von Leasingforderungen: Mahnprozess, Mahnbescheid, Zwangsvollstreckung, Pfändung von Lohn und Konto, Restschuldbefreiung im Leasingrecht."
+description: "Wenn es um Inkasso von Leasingforderungen in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Inkasso von Leasingforderungen

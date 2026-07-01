@@ -1,6 +1,6 @@
 ---
 name: disziplinarrecht-bund-bdg
-description: "Bundesdisziplinarrecht nach BDG: Dienstvergehen, Ermittlungsverfahren, Disziplinarverfügung, Klage und Maßnahmebemessung im Beamtenrecht."
+description: "Wenn es um Disziplinarrecht Bund Bdg in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Disziplinarrecht Bund Bdg

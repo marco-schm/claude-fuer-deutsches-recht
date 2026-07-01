@@ -1,6 +1,6 @@
 ---
 name: bildmarke-und-wort-bild
-description: "Bildmarke und Wort-Bild-Marke für Couture-Logos beim DPMA und EUIPO anmelden: Modehaus will Logo grafisch schützen einschließlich Farbansprüchen. Normen: §§ 3 und 8 MarkenG sowie Art. 4 UMV, Vienna Classification (EUIPO-Bilddatenbank). Prüfraster: Bildbestandteil-Schutzumfang, Farbansprüche RGB/P..."
+description: "Wenn es um Bildmarke und Wort-Bild-Marke für Couture-Logos in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bildmarke und Wort-Bild-Marke für Couture-Logos

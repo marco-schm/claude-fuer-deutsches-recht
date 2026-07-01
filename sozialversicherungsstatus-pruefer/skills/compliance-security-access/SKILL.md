@@ -1,6 +1,6 @@
 ---
 name: compliance-security-access
-description: "Prüft Pflichtschulungen, Compliance-Regeln, Security Policies, Zugangsbeschränkungen und Statusgewicht im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Compliance Security Access in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Compliance Security Access

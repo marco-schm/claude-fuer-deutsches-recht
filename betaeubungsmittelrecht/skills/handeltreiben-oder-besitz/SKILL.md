@@ -1,6 +1,6 @@
 ---
 name: handeltreiben-oder-besitz
-description: "Betäubungsmittelrecht: Handeltreiben oder Besitz. Handeltreiben oder Besitz im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
+description: "Wenn es um Handeltreiben Oder Besitz in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handeltreiben Oder Besitz

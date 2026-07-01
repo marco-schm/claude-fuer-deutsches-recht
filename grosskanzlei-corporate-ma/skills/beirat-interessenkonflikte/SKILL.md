@@ -1,6 +1,6 @@
 ---
 name: beirat-interessenkonflikte
-description: "Prüft Beiratsfragen zu Interessenkonflikte: Zuständigkeit, Satzungsgrundlage, Beschlussweg, Haftung, Belege, Gegenargumente und verwertbaren Output."
+description: "Wenn es um Beirat Interessenkonflikte in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Interessenkonflikte

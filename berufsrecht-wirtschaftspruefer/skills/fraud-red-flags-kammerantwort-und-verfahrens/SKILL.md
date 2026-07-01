@@ -1,6 +1,6 @@
 ---
 name: fraud-red-flags-kammerantwort-und-verfahrens
-description: "Wirtschaftsprüfer: fraud red flags - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Fraud Red Flags Kammerantwort Und Verfahrens in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Wirtschaftsprüfer: fraud red flags - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

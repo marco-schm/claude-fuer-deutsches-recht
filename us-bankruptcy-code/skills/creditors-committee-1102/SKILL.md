@@ -1,6 +1,6 @@
 ---
 name: creditors-committee-1102
-description: "Prüft official committee formation, membership, fiduciary role, professionals, information rights and strategy im US Bankruptcy Code."
+description: "Wenn es um Creditors Committee Paragraf 1102 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Creditors Committee § 1102

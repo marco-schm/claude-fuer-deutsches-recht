@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefen-abschlussprodukt-und-uebergabe
-description: "Pruefen: Abschlussprodukt und Übergabe im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Pruefen: Abschlussprodukt und Übergabe in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pruefen: Abschlussprodukt und Übergabe

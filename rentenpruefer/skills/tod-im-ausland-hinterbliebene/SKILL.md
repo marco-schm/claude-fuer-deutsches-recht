@@ -1,6 +1,6 @@
 ---
 name: tod-im-ausland-hinterbliebene
-description: "Tod im Ausland und Hinterbliebene: Sterbeurkunde, Übersetzung, Witwen-/Waisenrente, Auslandszahlung und Trägerkommunikation im Rentenpruefer."
+description: "Wenn es um tod-im-ausland-hinterbliebene in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # tod-im-ausland-hinterbliebene

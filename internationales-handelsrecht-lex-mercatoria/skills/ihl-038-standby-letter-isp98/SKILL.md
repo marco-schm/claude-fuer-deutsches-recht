@@ -1,6 +1,6 @@
 ---
 name: ihl-038-standby-letter-isp98
-description: "Internationales Handelsrecht und Lex Mercatoria: Standby Letter Isp98. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Standby Letter Isp98 in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Standby Letter Isp98

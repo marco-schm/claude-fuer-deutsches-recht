@@ -1,6 +1,6 @@
 ---
 name: see-114-charterparty-arrest-vorbereiten
-description: "See- und Schifffahrtsrecht: Charterparty: Arrest vorbereiten. Arrest vorbereiten für Charterparty im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Charterparty Arrest Vorbereiten in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Charterparty Arrest Vorbereiten

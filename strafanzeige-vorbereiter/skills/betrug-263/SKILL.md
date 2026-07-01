@@ -1,6 +1,6 @@
 ---
 name: betrug-263
-description: "Betrugsanzeige: Täuschung, Irrtum, Vermögensverfügung, Schaden, Vorsatz, Belege und zivilrechtliche Parallelspur im Strafanzeige-Vorbereitung."
+description: "Wenn es um Betrug Paragraf 263 StGB in Strafanzeige-Vorbereiter geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Betrug § 263 StGB

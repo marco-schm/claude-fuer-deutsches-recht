@@ -1,6 +1,6 @@
 ---
 name: exit-readiness-und-vendor-dd
-description: "Bereitet Exit-Prozess mit Vendor DD, Datenraum, Fact Book, Issues Cure, Management Story und Prozessplan vor im Private Equity Praxis."
+description: "Wenn es um Exit Readiness und Vendor DD in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exit Readiness und Vendor DD

@@ -1,6 +1,6 @@
 ---
 name: workflow-output-gutachten-klage-brief
-description: "Erstellt aus der Prüfung Gutachten, Klageskizze, Mandantenbrief, Vergleichsvorschlag, Anspruchstabelle oder Beweisplan."
+description: "Wenn es um Output-Wahl BGB BT in BGB BT Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 # Output-Wahl BGB BT
 

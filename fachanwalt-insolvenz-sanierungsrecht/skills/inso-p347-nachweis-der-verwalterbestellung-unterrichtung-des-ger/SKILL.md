@@ -1,6 +1,6 @@
 ---
 name: inso-p347-nachweis-der-verwalterbestellung-unterrichtung-des-ger
-description: "§ 347 InsO (Nachweis der Verwalterbestellung: Unterrichtung des Gerichts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung."
+description: "Wenn es um Paragraf 347 InsO (Nachweis der Verwalterbestellung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 347 InsO (Nachweis der Verwalterbestellung

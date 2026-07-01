@@ -1,6 +1,6 @@
 ---
 name: sondernutzungserlaubnis
-description: "Straßenrecht und Infrastruktur: Sondernutzungserlaubnis. Sondernutzungserlaubnis im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fris..."
+description: "Wenn es um Sondernutzungserlaubnis in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sondernutzungserlaubnis

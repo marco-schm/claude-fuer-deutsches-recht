@@ -1,6 +1,6 @@
 ---
 name: umsetzung-versetzung-abordnung-zuweisung
-description: "Umsetzung, Versetzung, Abordnung und Zuweisung: Eingriffsintensität, Ermessen, Fürsorge, Pendelbelastung und Familienbezug im Beamtenrecht."
+description: "Wenn es um Umsetzung Versetzung Abordnung Zuweisung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umsetzung Versetzung Abordnung Zuweisung

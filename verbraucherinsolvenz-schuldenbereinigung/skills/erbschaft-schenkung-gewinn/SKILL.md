@@ -1,6 +1,6 @@
 ---
 name: erbschaft-schenkung-gewinn
-description: "Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei: Normanker: InsO §§ 35 und 295; BGB Erbrecht; liefert konkre..."
+description: "Wenn es um Erbschaft Schenkung Gewinn in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.

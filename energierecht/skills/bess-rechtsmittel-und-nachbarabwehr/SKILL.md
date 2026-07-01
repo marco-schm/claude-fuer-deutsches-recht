@@ -1,6 +1,6 @@
 ---
 name: bess-rechtsmittel-und-nachbarabwehr
-description: "Prüft Widerspruch/Klage, Nachbarrechte, Sofortvollzug, Baustopp, Umweltverbandsklage und Verteidigung im Energierecht."
+description: "Wenn es um Rechtsmittel, Nachbarabwehr und Eilrechtsschutz in Energierecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rechtsmittel, Nachbarabwehr und Eilrechtsschutz

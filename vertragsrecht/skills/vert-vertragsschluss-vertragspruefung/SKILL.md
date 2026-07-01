@@ -1,6 +1,6 @@
 ---
 name: vert-vertragsschluss-vertragspruefung
-description: "Bauleiter Vertragsschluss §§ 145 ff. BGB: Angebot, Annahme, Auslegung, Stellvertretung, kaufmaennisches Bestaetigungsschreiben. Prüfraster für typische Streitfaelle im Vertragsrecht."
+description: "Wenn es um Vert: Vertragsschluss Bauleiter in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vert: Vertragsschluss Bauleiter

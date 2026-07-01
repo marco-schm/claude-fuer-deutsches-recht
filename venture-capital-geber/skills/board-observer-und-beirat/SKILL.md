@@ -1,6 +1,6 @@
 ---
 name: board-observer-und-beirat
-description: "Strukturiert Beirat, Board Observer, Informationsfluss, Vertraulichkeit, Konflikte und Protokollierung im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Board Observer und Beirat in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Board Observer und Beirat

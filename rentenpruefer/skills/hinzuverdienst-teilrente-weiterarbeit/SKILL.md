@@ -1,6 +1,6 @@
 ---
 name: hinzuverdienst-teilrente-weiterarbeit
-description: "Prüft Weiterarbeit neben Rente: Hinzuverdienst, Teilrente, Arbeitgebermeldung, Rentenbeginn, Krankenversicherung, Steuern und sinnvolle Gestaltungsschritte."
+description: "Wenn es um Hinzuverdienst, Teilrente und Weiterarbeit in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Hinzuverdienst, Teilrente und Weiterarbeit

@@ -1,6 +1,6 @@
 ---
 name: wisszeitvg-und-befristung
-description: "Prüft Wissenschaftszeitvertragsrecht im Hochschulkontext im Hochschulrecht Länder."
+description: "Wenn es um Wisszeitvg Und Befristung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wisszeitvg Und Befristung

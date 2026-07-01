@@ -1,6 +1,6 @@
 ---
 name: besold-neu-017-musterverfahren-ruhen-verjaehrung-nachzahlung
-description: "Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung

@@ -1,6 +1,6 @@
 ---
 name: chn-097-red-team-overdependency
-description: "Festlandchina Wirtschaftsverkehr: Red Team Overdependency. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Red Team Overdependency in China-Wirtschaftsverkehr geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red Team Overdependency

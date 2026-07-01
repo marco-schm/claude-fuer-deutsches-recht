@@ -1,6 +1,6 @@
 ---
 name: mandatsbeendigung
-description: "Mandatsbeendigung: vertiefter Berufsrechts-Skill für Notare; prüft Mandatsbeendigung im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
+description: "Wenn es um Mandatsbeendigung in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mandatsbeendigung

@@ -1,6 +1,6 @@
 ---
 name: infl-043-steuerpruefung-creator-unterlagenpaket
-description: "Influencer-Recht: Steuerprüfung Creator Unterlagenpaket mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Steuerprüfung Creator Unterlagenpaket in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Steuerprüfung Creator Unterlagenpaket

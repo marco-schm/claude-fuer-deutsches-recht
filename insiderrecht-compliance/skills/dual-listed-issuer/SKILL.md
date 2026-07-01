@@ -1,6 +1,6 @@
 ---
 name: dual-listed-issuer
-description: "Koordiniert MAR-Pflichten für Dual-Listed-Emittenten: parallele Ad-hoc-Pflichten, Sprachfassungen, Zeitzonenkonflikte und multiple Regulatoren im Insiderrecht Compliance."
+description: "Wenn es um Dual-Listed-Emittent – Parallele MAR-Pflichten in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Dual-Listed-Emittent – Parallele MAR-Pflichten

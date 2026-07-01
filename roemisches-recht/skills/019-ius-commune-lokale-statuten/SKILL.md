@@ -1,6 +1,6 @@
 ---
 name: 019-ius-commune-lokale-statuten
-description: "Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht im Römisches Recht."
+description: "Wenn es um Rom Ius Commune Lokale Statuten Und Gelehrtes Recht in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Ius Commune Lokale Statuten Und Gelehrtes Recht

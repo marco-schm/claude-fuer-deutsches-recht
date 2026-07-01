@@ -1,6 +1,6 @@
 ---
 name: redteam-gruendungspaket
-description: "Prüft das gesamte Gründungspaket auf typische Fehler, Streitbomben und Register-/Bankhindernisse."
+description: "Wenn es um Red-Team Gründungspaket in gesellschaftsgründer — Gründungsassistent für deutsche geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team Gründungspaket

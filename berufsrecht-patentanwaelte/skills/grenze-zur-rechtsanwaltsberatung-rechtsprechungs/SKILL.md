@@ -1,6 +1,6 @@
 ---
 name: grenze-zur-rechtsanwaltsberatung-rechtsprechungs
-description: "Patentanwälte: grenze zur rechtsanwaltsberatung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Grenze Zur Rechtsanwaltsberatung Rechtsprechungs in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Patentanwälte: grenze zur rechtsanwaltsberatung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

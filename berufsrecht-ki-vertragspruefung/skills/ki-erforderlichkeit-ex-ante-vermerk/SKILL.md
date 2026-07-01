@@ -1,6 +1,6 @@
 ---
 name: ki-erforderlichkeit-ex-ante-vermerk
-description: "Ex-ante-Vermerk zur Erforderlichkeit nach § 43e BRAO für KI-Outsourcing: Zweck der Offenlegung, Datenminimierung, Alternativen, Mandatsklassen, Kanzleiinfrastruktur, Einzelmandat, No-Training und Freigabebegründung dokumentieren."
+description: "Wenn es um Ex-ante-Vermerk zur Erforderlichkeit in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Ki Erforderlichkeit Ex Ante Vermerk; Arbeitsfeld: anwaltlichem Berufsrecht und Vertragsprüfung."
 ---
 
 # Ex-ante-Vermerk zur Erforderlichkeit

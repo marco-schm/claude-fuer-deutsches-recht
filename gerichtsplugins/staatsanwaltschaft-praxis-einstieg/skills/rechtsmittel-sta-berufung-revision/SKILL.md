@@ -1,6 +1,6 @@
 ---
 name: rechtsmittel-sta-berufung-revision
-description: "Rechtsmittel der Staatsanwaltschaft: Praxis-Skill für neue Staatsanwälte zu Berufung, Revision, Beschwerde, Frist, Begründung und Zustimmung bei Rücknahme sauber steuern; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Rechtsmittel der Staatsanwaltschaft in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsmittel der Staatsanwaltschaft

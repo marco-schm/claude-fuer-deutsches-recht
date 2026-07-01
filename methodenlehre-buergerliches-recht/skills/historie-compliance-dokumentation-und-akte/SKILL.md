@@ -1,6 +1,6 @@
 ---
 name: historie-compliance-dokumentation-und-akte
-description: "Dieses Skill strukturiert die historische und compliance-relevante Dokumentation eines zivilrechtlichen Mandats: Es zeigt, wie Vertragshistorie,..."
+description: "Wenn es um Historie Compliance Dokumentation Und Akte in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Dieses Skill strukturiert die historische und compliance-relevante Dokumentation eines zivilrechtlichen Mandats

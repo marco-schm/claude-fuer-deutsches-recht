@@ -1,6 +1,6 @@
 ---
 name: fremdsprachige-anlagen-uebersetzung
-description: "Prüft fremdsprachige Anlagen: Relevanz, Übersetzungsbedarf, beglaubigte oder Arbeitsübersetzung, Auszug statt Vollübersetzung, Kosten und Schriftsatzanker."
+description: "Wenn es um Fremdsprachige Anlagen und Übersetzung in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Fremdsprachige Anlagen und Übersetzung

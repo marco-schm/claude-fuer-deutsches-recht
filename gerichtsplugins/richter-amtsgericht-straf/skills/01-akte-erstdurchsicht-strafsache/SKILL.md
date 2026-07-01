@@ -1,6 +1,6 @@
 ---
 name: 01-akte-erstdurchsicht-strafsache
-description: "Strukturierte Erstdurchsicht: Anklagesatz, wesentliches Ergebnis der Ermittlungen, hinreichender Tatverdacht, Beweismittel, BZRG-Auszug, Personalien"
+description: "Wenn es um 01 Akte Erstdurchsicht Strafsache in Richter Amtsgericht Strafsachen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 01 Akte Erstdurchsicht Strafsache

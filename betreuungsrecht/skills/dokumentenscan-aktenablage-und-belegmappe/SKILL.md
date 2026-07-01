@@ -1,6 +1,6 @@
 ---
 name: dokumentenscan-aktenablage-und-belegmappe
-description: "Scan- und Ablagefür Betreuungsakten: sortiert Fotos, PDFs, E-Mails, Bescheide, Kontoauszüge, Heim- und Arztunterlagen in eine gerichtstaugliche Belegmappe mit Fristen, Belegnummern, Datenschutzmarkierung und Lückenliste."
+description: "Wenn es um Dokumentenscan, Aktenablage und Belegmappe in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenscan, Aktenablage und Belegmappe

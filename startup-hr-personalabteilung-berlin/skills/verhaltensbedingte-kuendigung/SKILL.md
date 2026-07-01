@@ -1,6 +1,6 @@
 ---
 name: verhaltensbedingte-kuendigung
-description: "Berliner Start-up-HR: Verhaltensbedingte Kündigung: Abmahnung, Wiederholung, Interessenabwägung, Betriebsrat und Prozessrisiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Verhaltensbedingte Kuendigung in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verhaltensbedingte Kuendigung

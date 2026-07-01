@@ -1,6 +1,6 @@
 ---
 name: erstkontakt-offenlegung
-description: "Formuliert Offenlegung beim erstmaligen Kontakt: Identität, Anliegen, Auftraggeber, Registereintrag und Verhaltenskodizes. Output Kontaktbausteine im Lobbyregister Bundestag."
+description: "Wenn es um Erstkontakt Offenlegung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstkontakt Offenlegung

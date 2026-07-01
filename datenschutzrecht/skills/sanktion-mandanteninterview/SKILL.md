@@ -1,6 +1,6 @@
 ---
 name: sanktion-mandanteninterview
-description: "Datenschutzrecht-Brückenskill: Mandanteninterview ohne Selbstbelastung: Fakten sammeln, ohne neue Eingeständnisse, überschießende Datenoffenlegung oder unkluge Wertungen zu produzieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtli..."
+description: "Wenn es um Mandanteninterview ohne Selbstbelastung in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mandanteninterview ohne Selbstbelastung

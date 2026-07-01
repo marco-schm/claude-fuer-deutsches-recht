@@ -1,6 +1,6 @@
 ---
 name: schnittstelle-mandantenentscheidung
-description: "Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage: Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Wenn es um Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage

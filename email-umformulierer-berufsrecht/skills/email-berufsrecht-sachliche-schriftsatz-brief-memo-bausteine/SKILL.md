@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-sachliche-schriftsatz-brief-memo-bausteine
-description: "Sachliche: Schriftsatz-, Brief- und Memo-Bausteine: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
+description: "Wenn es um Sachliche: Schriftsatz-, Brief- und Memo-Bausteine in E-Mail-Umformulierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sachliche: Schriftsatz-, Brief- und Memo-Bausteine

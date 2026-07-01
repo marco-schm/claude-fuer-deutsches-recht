@@ -1,6 +1,6 @@
 ---
 name: luft-018-insolvenz-fluggesellschaft
-description: "Luftrecht und Flughafenrecht: Insolvenz Fluggesellschaft. Insolvenz Fluggesellschaft im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Insolvenz Fluggesellschaft in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenz Fluggesellschaft

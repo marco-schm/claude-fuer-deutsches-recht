@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-handelskauf-maengelruege-nach-377-hgb
-description: "Rechtsabteilungs-Fachmodul für B2B-Handelskauf und § 377 HGB: Wareneingangskontrolle, Rügefristen, Serienfehler, Beweislast für Mangel bei Gefahrübergang und Abgrenzung zur nur im B2C geltenden § 477-BGB-Vermutung."
+description: "Wenn es um Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB in Handelsrecht HGB geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsabteilung: Handelskauf-Mängelrüge nach § 377 HGB

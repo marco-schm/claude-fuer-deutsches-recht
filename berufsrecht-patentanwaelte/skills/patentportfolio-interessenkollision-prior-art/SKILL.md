@@ -1,6 +1,6 @@
 ---
 name: patentportfolio-interessenkollision-prior-art
-description: "Patentanwälte: patentportfolio und interessenkollision - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Patentportfolio Interessenkollision Prior Art in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Patentanwälte: patentportfolio und interessenkollision - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

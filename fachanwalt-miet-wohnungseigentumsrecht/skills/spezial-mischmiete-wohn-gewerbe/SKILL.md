@@ -1,6 +1,6 @@
 ---
 name: spezial-mischmiete-wohn-gewerbe
-description: "Mischmiete Wohn/Gewerbe: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Schwerpunkt, Schutzregime, Kündigung, Betriebskosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Mischmiete Wohn/Gewerbe in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mischmiete Wohn/Gewerbe

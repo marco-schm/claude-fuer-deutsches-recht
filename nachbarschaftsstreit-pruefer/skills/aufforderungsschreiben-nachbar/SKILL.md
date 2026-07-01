@@ -1,6 +1,6 @@
 ---
 name: aufforderungsschreiben-nachbar
-description: "Aufforderungsschreiben im Nachbarschaftsstreit erstellen: sachlich, beweisstark, fristgebunden, deeskalierend oder druckvoll; für Überbau, Überhang, Einfriedung, Immission, Notweg, Baugrube und Duldung im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Aufforderungsschreiben an den Nachbarn in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufforderungsschreiben an den Nachbarn

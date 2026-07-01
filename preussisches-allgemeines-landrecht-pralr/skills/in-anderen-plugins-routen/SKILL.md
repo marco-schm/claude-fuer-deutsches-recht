@@ -1,6 +1,6 @@
 ---
 name: in-anderen-plugins-routen
-description: "PrALR: Brücken zu Rechtsgeschichte, Methodenlehre, Staatshaftung, Nachbarrecht, Grundbuch und BGB herstellen."
+description: "Wenn es um Routing in andere Plugins in Preußisches Allgemeines Landrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: In Anderen Plugins Routen; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Routing in andere Plugins

@@ -1,6 +1,6 @@
 ---
 name: polen-tk-zasada-proporcjonalnosci
-description: Polnische Verhältnismäßigkeitsdogmatik des Trybunal Konstytucyjny nach Art 31 III Verfassung 1997 als Drei-Stufen-Test Przydatnosc Konieczosc Proporcjonalnosc sensu stricto mit Wesensgehalt-Schutz Istota wolnosci i praw. Mit Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die starke Rezeption deutscher und EGMR-Doktrin sowie die seit 2015 veraenderte Prüfungspraxis.
+description: "Wenn es um Polen TK Zasada Proporcjonalnosci in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Polen TK Zasada Proporcjonalnosci

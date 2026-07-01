@@ -1,6 +1,6 @@
 ---
 name: space-law-opinion-fuer-investoren
-description: "Legal Opinion für Raumfahrtinvestoren – Genehmigungsrisiken, Haftungsexposure, Regulierungsrisiken im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Space Law Opinion für Investoren in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Space Law Opinion für Investoren

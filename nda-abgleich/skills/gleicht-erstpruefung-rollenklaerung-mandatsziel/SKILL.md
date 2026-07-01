@@ -1,6 +1,6 @@
 ---
 name: gleicht-erstpruefung-rollenklaerung-mandatsziel
-description: "Gleicht: Erstprüfung, Rollenklärung und Mandatsziel im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche..."
+description: "Wenn es um Gleicht: Erstprüfung, Rollenklärung und Mandatsziel in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gleicht Erstpruefung Rollenklaerung Mandatsziel; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # Gleicht: Erstprüfung, Rollenklärung und Mandatsziel

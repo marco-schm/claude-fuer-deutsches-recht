@@ -1,6 +1,6 @@
 ---
 name: chronologie-fristen
-description: "Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Gesellschaftsrecht Legal English."
+description: "Wenn es um Chronologie und Belegmatrix in Didaktisches Gesellschaftsrecht — English Business Terms geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie und Belegmatrix

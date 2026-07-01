@@ -1,6 +1,6 @@
 ---
 name: schenkung-leihe-und-unbenannte-zuwendung
-description: "Bei unentgeltliche Zuwendung, Nutzungsüberlassung und Zweckbindung auseinanderfallen können. Normen: §§ 516 und 528 BGB; § 530 BGB; § 812 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und..."
+description: "Wenn es um Schenkung, Leihe und unbenannte Zuwendung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schenkung, Leihe und unbenannte Zuwendung

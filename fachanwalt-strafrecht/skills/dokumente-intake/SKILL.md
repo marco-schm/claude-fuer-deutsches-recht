@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Fachanwalt Strafrecht: sortiert Anklageschrift, Strafbefehl, Ermittlungsakte, prüft Datum, Absender, Frist und Beweiswert (Vernehmungsprotokolle, Spurenakte); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

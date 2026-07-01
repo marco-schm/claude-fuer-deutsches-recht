@@ -1,6 +1,6 @@
 ---
 name: kosten-und-auslagen-anhoerung
-description: "Prüft Auslagen, Entgeltfortzahlung und notwendige Aufwendungen bei Anhörung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Kosten und Auslagen Anhörung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kosten und Auslagen Anhörung

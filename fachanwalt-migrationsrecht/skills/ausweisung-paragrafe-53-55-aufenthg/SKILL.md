@@ -1,6 +1,6 @@
 ---
 name: ausweisung-paragrafe-53-55-aufenthg
-description: "Ausweisung §§ 53 55 AufenthG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Ausweisung Paragrafen 53 55 AufenthG in Fachanwalt Migrationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausweisung §§ 53 55 AufenthG

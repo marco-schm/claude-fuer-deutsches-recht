@@ -1,6 +1,6 @@
 ---
 name: medizinalcannabis-beweis-sichern-einlassung-planen
-description: "Medizinalcannabis: Beweis sichern im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Medizinalcannabis Beweis Sichern in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medizinalcannabis Beweis Sichern

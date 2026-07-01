@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-verwalterzustimmung-weg
-description: "Prüft Teilungserklärung, Verwalternachweis, Beschluss, Form und Nachreichung im Grundbuchamt Praxis."
+description: "Wenn es um WEG-Verwalterzustimmung in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG-Verwalterzustimmung

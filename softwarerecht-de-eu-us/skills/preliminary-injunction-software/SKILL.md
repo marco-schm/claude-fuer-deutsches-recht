@@ -1,6 +1,6 @@
 ---
 name: preliminary-injunction-software
-description: "Prüft Eilrechtsschutz bei Software-IP, Geschäftsgeheimnis, Lizenzverletzung, Source-Code-Abfluss und Plattform-Sperren im Softwarerecht De Eu Us."
+description: "Wenn es um Einstweilige Verfügung Software in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Einstweilige Verfügung Software

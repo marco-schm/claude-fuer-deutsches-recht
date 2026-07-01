@@ -1,6 +1,6 @@
 ---
 name: spezial-gate-red-team-und-qualitaetskontrolle
-description: "Gate: Red-Team und Qualitätskontrolle im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Gate: Red-Team und Qualitätskontrolle in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gate: Red-Team und Qualitätskontrolle

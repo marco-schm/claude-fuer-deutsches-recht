@@ -1,6 +1,6 @@
 ---
 name: vergleichsvereinbarung-patent-settlement-pay-for-delay
-description: "Vergleichsvereinbarung Patent Settlement Pay-for-delay: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA im Kartellrecht (Markta..."
+description: "Wenn es um Vergleichsvereinbarung Patent Settlement Pay-for-delay in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleichsvereinbarung Patent Settlement Pay-for-delay

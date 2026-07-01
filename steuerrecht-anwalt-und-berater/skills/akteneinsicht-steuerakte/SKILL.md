@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-steuerakte
-description: "Akteneinsicht in die Steuerakte beantragen und auswerten — Einspruchsverfahren nach § 364 AO Klageverfahren nach § 78 FGO sowie ergaenzend Art. 15 DSGVO bei personenbezogenen Daten. Anwendungsfall Mandant will Prüfungsbericht Aktenvermerk oder Prüfungsakte einsehen um Einspruch oder Klage zu begr..."
+description: "Wenn es um Akteneinsicht in Steuerakten in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Akteneinsicht in Steuerakten

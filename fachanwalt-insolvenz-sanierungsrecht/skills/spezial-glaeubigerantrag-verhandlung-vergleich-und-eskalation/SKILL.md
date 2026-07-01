@@ -1,6 +1,6 @@
 ---
 name: spezial-glaeubigerantrag-verhandlung-vergleich-und-eskalation
-description: "Glaeubigerantrag: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Glaeubigerantrag: Verhandlung, Vergleich und Eskalation in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Glaeubigerantrag: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: berufspflicht-und-verhaeltnismaessigkeit-verteidigung
-description: "Berufspflicht und Verhältnismäßigkeit (Verteidigungs- und Kammerantwort): steuert Pflichtverletzung, Schuld, Sanktion, Wiederholungsgefahr und mildere Mittel mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie B..."
+description: "Wenn es um Berufspflicht und Verhältnismäßigkeit: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Berufspflicht und Verhältnismäßigkeit: Verteidigungs- und Kammerantwort

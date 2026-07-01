@@ -1,6 +1,6 @@
 ---
 name: staking-lending-token-bank
-description: "Staking, Lending und Yield-Produkte mit Tokenbezug prüfen: Produktqualifikation, MiCAR, KWG/WpIG, AGB, Verbraucherhinweise, Verwahrung, Insolvenztrennung und Reputationsrisiko im Bank-Rechtsabteilung."
+description: "Wenn es um Staking und Token-Lending in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Staking und Token-Lending

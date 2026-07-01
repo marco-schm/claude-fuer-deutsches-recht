@@ -1,6 +1,6 @@
 ---
 name: owi-094-aussenwirtschaft-einspruch-begruenden
-description: "Ordnungswidrigkeitenrecht: Außenwirtschaft: Einspruch begründen. Einspruch begründen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Aussenwirtschaft Einspruch Begruenden in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aussenwirtschaft Einspruch Begruenden

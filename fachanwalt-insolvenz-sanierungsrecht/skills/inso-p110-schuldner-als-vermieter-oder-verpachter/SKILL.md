@@ -1,6 +1,6 @@
 ---
 name: inso-p110-schuldner-als-vermieter-oder-verpachter
-description: "§ 110 InsO (Schuldner als Vermieter oder Verpächter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 110 InsO (Schuldner als Vermieter oder Verpächter) im Mandat prüfen: Normzweck, Tatbest..."
+description: "Wenn es um Inso P110 Schuldner Als Vermieter Oder Verpachter in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 110 InsO (Schuldner als Vermieter oder Verpächter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

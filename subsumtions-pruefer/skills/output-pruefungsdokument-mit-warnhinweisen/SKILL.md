@@ -1,6 +1,6 @@
 ---
 name: output-pruefungsdokument-mit-warnhinweisen
-description: "Erzeugt das vollständige Prüfungsdokument mit Pflicht-Kopfhinweis: kein Rechtsgutachten, kein Rechtsrat, nur mechanische Prüfung anhand Nutzerangaben. Enthaelt alle Warnhinweise an markanten Stellen des Dokuments und Abschluss-Disclaimer im Subsumtions Prüfer."
+description: "Wenn es um Output: Prüfungsdokument mit Warnhinweisen in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Output: Prüfungsdokument mit Warnhinweisen

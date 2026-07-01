@@ -1,6 +1,6 @@
 ---
 name: belegte-compliance-aktenvermerk
-description: "Erstellt Compliance-Aktenvermerke bei Klage-Nichtaufnahme Mandantenfreigabe oder begruendetem Klage-Verzicht. Dokumentiert Sachverhalt Prüfraster Mandantenentscheid und Wiedervorlage. Pinpoints BORA 50 Aktenpflicht BRAO 43a Verschwiegenheit BGB 280 Beratungsfehlerhaftung. Liefert Aktenvermerk-Mu..."
+description: "Wenn es um Belegte Compliance Aktenvermerk in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Belegte Compliance Aktenvermerk

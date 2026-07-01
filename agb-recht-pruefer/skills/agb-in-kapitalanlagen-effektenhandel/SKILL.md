@@ -1,6 +1,6 @@
 ---
 name: agb-in-kapitalanlagen-effektenhandel
-description: "AGB im Kapitalanlage- und Effektenhandel. Skill klaert die AGB-rechtliche Prüfung der Allgemeinen Geschäftsbedingungen für Wertpapiergeschaefte (Sonderbedingungen) der Spar- und Tagesgeldbedingungen sowie der Anforderungen aus MiFID II und WpHG. Liefert Prüfraster."
+description: "Wenn es um Agb In Kapitalanlagen Effektenhandel in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb In Kapitalanlagen Effektenhandel

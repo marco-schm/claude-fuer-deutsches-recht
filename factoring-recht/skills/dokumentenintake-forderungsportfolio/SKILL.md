@@ -1,6 +1,6 @@
 ---
 name: dokumentenintake-forderungsportfolio
-description: "Dokumentenintake Forderungsportfolio: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Wenn es um Dokumentenintake Forderungsportfolio in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Dokumentenintake Forderungsportfolio

@@ -1,6 +1,6 @@
 ---
 name: dora-cyber-abfindung-entschaedigungsquittung
-description: "DORA-Compliance für Versicherer/Vermittler: IKT-Risikomanagement, Ausgliederung, Incident Reporting, Register of Information und Drittanbietersteuerung im Versicherungsrecht."
+description: "Wenn es um DORA für Versicherer und Vermittler in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # DORA für Versicherer und Vermittler

@@ -1,6 +1,6 @@
 ---
 name: mehrdeutigkeit-sinnermittlung-meinung
-description: "Ermittelt den objektiven Sinn einer mehrdeutigen Äußerung nach Wortlaut, Kontext, Begleitumständen und Durchschnittspublikum. Prüft, ob nicht ehrverletzende Deutungen tragfähig ausgeschlossen werden können im Meinungspruefer."
+description: "Wenn es um Mehrdeutigkeit und Sinnermittlung in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mehrdeutigkeit und Sinnermittlung

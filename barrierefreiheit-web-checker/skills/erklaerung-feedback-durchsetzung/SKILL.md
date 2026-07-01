@@ -1,6 +1,6 @@
 ---
 name: erklaerung-feedback-durchsetzung
-description: "Erstellt Barrierefreiheitserklärung, Feedbackmechanismus, Durchsetzungs- und Behördenreaktion. Trennt öffentliche Stellen, BFSG-relevante Dienste und freiwillige Erklärungen. Output: Erklärung, Antwortbrief oder Maßnahmenvermerk im Barrierefreiheit Web Checker."
+description: "Wenn es um Erklärung, Feedback, Durchsetzung in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erklärung, Feedback, Durchsetzung

@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-bundesanzeiger-keine
-description: "Offenlegung beim Unternehmensregister/Bundesanzeiger: Größenklasse, Frist, Erleichterung, Ordnungsgeld und Korrektur im Berichtspflichten."
+description: "Wenn es um Jahresabschluss und Offenlegung in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jahresabschluss und Offenlegung

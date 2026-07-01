@@ -1,6 +1,6 @@
 ---
 name: sachverstaendige-beauftragen-und-befragen
-description: "Sachverständige beauftragen und in der HV befragen: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Sachverständige beauftragen und in der HV befragen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Sachverständige beauftragen und in der HV befragen

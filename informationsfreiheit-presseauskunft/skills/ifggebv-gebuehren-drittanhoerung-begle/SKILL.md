@@ -1,6 +1,6 @@
 ---
 name: ifggebv-gebuehren-drittanhoerung-begle
-description: "Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Drittanhörung begleiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Ifggebv Gebühren Drittanhoerung Begle in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ifggebv Gebühren Drittanhoerung Begle

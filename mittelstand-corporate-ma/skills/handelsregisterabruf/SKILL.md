@@ -1,6 +1,6 @@
 ---
 name: handelsregisterabruf
-description: "Handelsregister- und Registerabruf: offizielle Registerabrufe für Zielgesellschaft, Kaeufer, Erwerber, Beteiligungsketten, KG und Organstellung; §§ 8-10 GmbHG, §§ 29 HGB ff im Mittelstand Corporate Ma."
+description: "Wenn es um Handelsregister- und Registerabruf in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Handelsregister- und Registerabruf

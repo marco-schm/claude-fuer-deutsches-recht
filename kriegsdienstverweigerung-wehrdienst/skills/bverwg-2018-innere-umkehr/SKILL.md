@@ -1,6 +1,6 @@
 ---
 name: bverwg-2018-innere-umkehr
-description: "Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um BVerwG 2018 innere Umkehr in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BVerwG 2018 innere Umkehr

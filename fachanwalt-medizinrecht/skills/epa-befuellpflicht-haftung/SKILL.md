@@ -1,6 +1,6 @@
 ---
 name: epa-befuellpflicht-haftung
-description: "ePA-Befüllpflicht und Haftung: moderner Medizinrechts-Skill für ePA für alle, Befüllungspflichten, Informationspflichten, Widerspruch und Behandlungsfehler durch Datenlücke: ePA-Befüllpflicht und Haftung: moderner Medizinrechts-Skill für ePA für alle, Befül..."
+description: "Wenn es um Epa Befuellpflicht Haftung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ePA-Befüllpflicht und Haftung: moderner Medizinrechts-Skill für ePA für alle, Befüllungspflichten, Informationspflichten, Widerspruch und Behandlungsfehler durch Datenlücke

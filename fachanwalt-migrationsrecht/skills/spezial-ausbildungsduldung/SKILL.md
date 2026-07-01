@@ -1,6 +1,6 @@
 ---
 name: spezial-ausbildungsduldung
-description: "Ausbildungsduldung: Spezial-Skill im Migrationsrecht; prüft Ausbildung, Identität, Ausschlüsse, Fristen, Anschlussaufenthalt; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Ausbildungsduldung in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausbildungsduldung

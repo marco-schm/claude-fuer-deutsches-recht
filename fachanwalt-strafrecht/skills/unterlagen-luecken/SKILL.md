@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Strafrecht: trennt fehlende Tatsachen von fehlenden Belegen (Anklageschrift, Strafbefehl, Ermittlungsakte), nennt pro Lücke Beweisthema, Beschaffungsweg (Staatsanwaltschaft), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

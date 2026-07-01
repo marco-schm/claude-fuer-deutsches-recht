@@ -1,6 +1,6 @@
 ---
 name: besitz-law-and-economics-transaktionskosten
-description: "Analysiert Besitz, Fund, Ersitzung und Eigentumszuordnung oekonomisch: Exklusivitaet, Investitionsanreize, Suchkosten, Beweisverfall, Transaktionskosten, bilaterales Monopol und effiziente Rechtsfolgen ohne Effizienzautomatismus."
+description: "Wenn es um Besitz und Law & Economics: Transaktionskosten in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Besitz und Law & Economics: Transaktionskosten

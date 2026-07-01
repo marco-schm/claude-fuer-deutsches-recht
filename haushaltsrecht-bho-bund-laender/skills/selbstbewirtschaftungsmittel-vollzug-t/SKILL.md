@@ -1,6 +1,6 @@
 ---
 name: selbstbewirtschaftungsmittel-vollzug-t
-description: "Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Vollzug tracken im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Selbstbewirtschaftungsmittel Vollzug T in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Selbstbewirtschaftungsmittel Vollzug T

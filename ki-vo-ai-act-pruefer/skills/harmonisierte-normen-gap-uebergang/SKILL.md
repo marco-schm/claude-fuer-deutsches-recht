@@ -1,6 +1,6 @@
 ---
 name: harmonisierte-normen-gap-uebergang
-description: "Harmonisierte Normen, gemeinsame Spezifikationen und Standards im KI-VO-Übergang: Vermutungswirkung, CEN/CENELEC-Roadmap, ISO/IEC-Abgleich, Evidence-Gap und Auditplan."
+description: "Wenn es um Harmonisierte Normen und Übergang in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Harmonisierte Normen und Übergang

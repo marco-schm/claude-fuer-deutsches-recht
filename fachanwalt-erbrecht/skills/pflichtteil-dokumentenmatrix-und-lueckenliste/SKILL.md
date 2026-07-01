@@ -1,6 +1,6 @@
 ---
 name: pflichtteil-dokumentenmatrix-und-lueckenliste
-description: "Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt..."
+description: "Wenn es um Pflichtteil Dokumentenmatrix Und Lückenliste in Fachanwalt Erbrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

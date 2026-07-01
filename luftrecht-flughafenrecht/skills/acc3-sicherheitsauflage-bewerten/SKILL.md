@@ -1,6 +1,6 @@
 ---
 name: acc3-sicherheitsauflage-bewerten
-description: "ACC3-Carrier erhaelt Sicherheitsauflage nach EU-Luftsicherheits-Inspektion. Prüft EU-DVO 2015/1998 Findings-Kategorien EU-VO 300/2008 LuftSiG § 9 Verhältnismäßigkeit und liefert Auflagen-Bewertungs-Vermerk und Corrective-Action-Plan für ACC3-Betrieb im Luftrecht Flughafenrecht."
+description: "Wenn es um ACC3 – Sicherheitsauflage bewerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ACC3 – Sicherheitsauflage bewerten

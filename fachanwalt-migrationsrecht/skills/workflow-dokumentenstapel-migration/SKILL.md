@@ -1,6 +1,6 @@
 ---
 name: workflow-dokumentenstapel-migration
-description: "Dokumentenstapel Migration: Prüfungslinie für Migrationsrecht: sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quell..."
+description: "Wenn es um Dokumentenstapel Migration: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenstapel Migration: Prüfungslinie für Migrationsrecht

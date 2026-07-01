@@ -1,6 +1,6 @@
 ---
 name: us-counterfeit-und-customs-cbp
-description: "US-Counterfeit-Enforcement und CBP-Recordation: Luxusmarke will gefaelschte Ware in den USA stoppen. Normen: 18 U.S.C. § 2320 (Trademark Counterfeiting Act), 19 C.F.R. § 133 (CBP Recordation), Lanham Act § 34 (Injunctive Relief), § 35 (Statutory/Treble Damages). Prüfraster: IPR e-Recordation bei..."
+description: "Wenn es um US Counterfeit Enforcement und CBP Recordation in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # US Counterfeit Enforcement und CBP Recordation

@@ -1,6 +1,6 @@
 ---
 name: jurisdiktion-zypern-competition-authority
-description: "Jurisdiktionsskill Zypern: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestan..."
+description: "Wenn es um Jurisdiktion Zypern: Competition Authority Check in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jurisdiktion Zypern: Competition Authority Check

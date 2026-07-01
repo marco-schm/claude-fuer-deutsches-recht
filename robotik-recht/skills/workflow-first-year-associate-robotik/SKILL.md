@@ -1,6 +1,6 @@
 ---
 name: workflow-first-year-associate-robotik
-description: "Führt junge Anwälte durch den ersten Robotikfall: Aktenaufnahme, Normenlandkarte, Rückfragen, Quellencheck, Memo und Red-Team im Robotik-Recht."
+description: "Wenn es um First-Year-Associate-Modus in robotik-recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # First-Year-Associate-Modus

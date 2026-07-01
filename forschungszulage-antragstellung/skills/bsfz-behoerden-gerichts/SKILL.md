@@ -1,6 +1,6 @@
 ---
 name: bsfz-behoerden-gerichts
-description: "Bsfz: Behörden-, Gerichts- oder Registerweg im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?..."
+description: "Wenn es um Bsfz: Behörden-, Gerichts- oder Registerweg in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bsfz: Behörden-, Gerichts- oder Registerweg

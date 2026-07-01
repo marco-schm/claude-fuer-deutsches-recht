@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-eeg-netzanschluss
-description: "EEG Netzanschluss Einspeisemanagement: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie Regulierungsakte Eeg Netzanschluss in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energie-Regulierungsakte: EEG Netzanschluss Einspeisemanagement — Fristen- und Bescheidanalyse

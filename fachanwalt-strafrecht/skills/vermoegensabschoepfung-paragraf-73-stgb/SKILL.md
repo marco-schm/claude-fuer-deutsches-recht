@@ -1,6 +1,6 @@
 ---
 name: vermoegensabschoepfung-paragraf-73-stgb
-description: "Vermögensabschoepfung § 73 StGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Vermögensabschoepfung Paragraf 73 StGB in Fachanwalt Strafrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vermögensabschoepfung § 73 StGB

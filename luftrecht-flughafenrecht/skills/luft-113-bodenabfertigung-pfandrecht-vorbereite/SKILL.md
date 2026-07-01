@@ -1,6 +1,6 @@
 ---
 name: luft-113-bodenabfertigung-pfandrecht-vorbereite
-description: "Luftrecht und Flughafenrecht: Bodenabfertigung: Pfandrecht vorbereiten. Pfandrecht vorbereiten für Bodenabfertigung im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bodenabfertigung Pfandrecht Vorbereite in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bodenabfertigung Pfandrecht Vorbereite

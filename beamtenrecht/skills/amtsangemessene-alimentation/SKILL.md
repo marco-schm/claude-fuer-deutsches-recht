@@ -1,6 +1,6 @@
 ---
 name: amtsangemessene-alimentation
-description: "Amtsangemessene Alimentation: Mindestabstand, Familienzuschläge, Nachzahlung, Widerspruch und Musterverfahren im Beamtenrecht."
+description: "Wenn es um Amtsangemessene Alimentation in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Amtsangemessene Alimentation

@@ -1,6 +1,6 @@
 ---
 name: space-012-spaceport-deutschland-standort-kueste-umwelt
-description: "Weltraumrecht: Weltraumbahnhof Deutschland Standortwahl Küste Umwelt und Sicherheit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Weltraumbahnhof Deutschland Standortwahl Küste Umwelt und Sicherheit in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Weltraumbahnhof Deutschland Standortwahl Küste Umwelt und Sicherheit

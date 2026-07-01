@@ -1,6 +1,6 @@
 ---
 name: lease-052-equipment-finance-term-sheet
-description: "Erstellt und prueft Term Sheets fuer bewegliche Leasingobjekte mit Kaufpreis, Laufzeit, Sonderzahlung, Restwert, Sicherheiten und Covenants."
+description: "Wenn es um Equipment-Finance-Term-Sheet in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Equipment-Finance-Term-Sheet

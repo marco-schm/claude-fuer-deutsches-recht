@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-3a-estg-unternehmens-vs-person
-description: "Abgrenzung unternehmensbezogene Sanierung gegen personenbezogene Sanierung im Sinne § 3a EStG. § 3a EStG schützt nur die unternehmensbezogene Variante; Restschuldbefreiung Privatperson fällt unter § 3a Absatz 5 im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Paragraf 3a EStG — unternehmensbezogen vs. personenbezogen in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # § 3a EStG — unternehmensbezogen vs. personenbezogen

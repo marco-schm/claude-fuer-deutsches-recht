@@ -1,6 +1,6 @@
 ---
 name: pralr-normblock-14901-15000
-description: "PrALR-Normblock §§ 14901-15000: jede Vorschrift im Block einzeln als Normkarte mit Teil/Titel/Paragraph, Textzeuge 1794/1804, OCR-Risiko, historischer Bedeutung und heutiger Anschlussfrage prüfen."
+description: "Wenn es um PrALR-Normblock Paragrafen 14901-15000 in Preußisches Allgemeines Landrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # PrALR-Normblock §§ 14901-15000

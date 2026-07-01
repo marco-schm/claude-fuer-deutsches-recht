@@ -1,6 +1,6 @@
 ---
 name: klausel-bibliothek-kuendigungsklauseln
-description: "Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Änderungen Sprachklausel Schriftform Salva..."
+description: "Wenn es um Klauselbibliothek-Katalog in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Klauselbibliothek-Katalog

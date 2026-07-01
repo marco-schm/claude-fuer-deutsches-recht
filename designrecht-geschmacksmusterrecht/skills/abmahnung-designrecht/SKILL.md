@@ -1,6 +1,6 @@
 ---
 name: abmahnung-designrecht
-description: "Designrechtliche Abmahnung erstellen oder verteidigen: Berechtigungsprüfung, Rechtsbestand, Verletzung, Unterlassungserklärung, Kosten, Fristen und Gegenangriff im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Abmahnung Designrecht in designrecht-geschmacksmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abmahnung Designrecht

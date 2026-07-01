@@ -1,6 +1,6 @@
 ---
 name: cra-produkt-mit-digitalen-elementen
-description: "Prüft Cyber Resilience Act für Roboter, Steuerungssoftware, Apps, Cloud-Komponenten und Updatekanäle."
+description: "Wenn es um CRA für Roboter mit digitalen Elementen in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Cra Produkt Mit Digitalen Elementen; Arbeitsfeld: robotik-recht."
 ---
 
 # CRA für Roboter mit digitalen Elementen

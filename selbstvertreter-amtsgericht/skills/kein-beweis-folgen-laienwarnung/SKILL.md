@@ -1,6 +1,6 @@
 ---
 name: kein-beweis-folgen-laienwarnung
-description: "Warnung an Laien was passiert wenn ein Tatbestandsmerkmal nicht bewiesen werden kann. Beweislastniederlage Auswirkung auf das Urteil Gesamtkosten Strategien zur Reduktion des Beweis-Risikos vor Klage."
+description: "Wenn es um Was passiert, wenn Sie eine Tatsache **nicht** beweisen können? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Was passiert, wenn Sie eine Tatsache **nicht** beweisen können?

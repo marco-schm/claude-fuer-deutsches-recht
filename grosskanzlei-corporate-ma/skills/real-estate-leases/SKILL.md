@@ -1,6 +1,6 @@
 ---
 name: real-estate-leases
-description: "Real Estate, Leases und Sites Due Diligence: prüft Grundstuecke, Mietvertraege, Belastungen, Genehmigungen, Umwelt, Change-of-Control und Standortkritikalitaet."
+description: "Wenn es um Real Estate Leases Sites in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Real Estate Leases Sites

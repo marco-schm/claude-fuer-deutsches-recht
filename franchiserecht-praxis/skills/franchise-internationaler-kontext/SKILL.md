@@ -1,6 +1,6 @@
 ---
 name: franchise-internationaler-kontext
-description: "Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Prüfraster für Cross-Border-Franchise im Franchiserecht."
+description: "Wenn es um Franchise Internationaler Kontext in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchise Internationaler Kontext

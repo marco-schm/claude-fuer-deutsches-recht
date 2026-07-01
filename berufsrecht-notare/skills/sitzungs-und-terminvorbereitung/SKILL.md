@@ -1,6 +1,6 @@
 ---
 name: sitzungs-und-terminvorbereitung
-description: "Sitzungs- und Terminvorbereitung: vertiefter Berufsrechts-Skill für Notare; prüft bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
+description: "Wenn es um Sitzungs- und Terminvorbereitung in Berufsrecht Notare geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Sitzungs- und Terminvorbereitung

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-krypto-wallet-nachlass-multisig
-description: "Krypto-Vermögenswerte und digitale Wallets im Erbfall sichern und auf Erben uebertragen. §§ 1922 1967 BGB digitale Nachlasswerte. Prüfraster: Wallet-Zugang Private Keys Multi-Sig Wertermittlung Steuer Erbschaft Sicherung. Output: Sicherungsplan Übergabe-Anleitung Steuerhinweise. Abgrenzung: nicht für allgemeine Nachlassaufnahme."
+description: "Wenn es um Digitaler Nachlass — Krypto-Wallet und Multi-Sig in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitaler Nachlass — Krypto-Wallet und Multi-Sig

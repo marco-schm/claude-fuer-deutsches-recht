@@ -1,6 +1,6 @@
 ---
 name: fa-strafrecht-quellen-frist-next
-description: "Rechtsquellen: Quellenprüfung; Fristennotiz und nächster Schritt: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert"
+description: "Wenn es um Rechtsquellen: Fristennotiz und nächster Schritt in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsquellen: Fristennotiz und nächster Schritt

@@ -1,6 +1,6 @@
 ---
 name: 09-beschluss-familiensache-paragraf-38-famfg
-description: "Erstellt richterliche Beschlüsse in Familiensachen nach Paragraf 38 FamFG mit Rubrum, Tenor, Gründen, Kosten, Vollstreckbarkeit, Rechtsmittelbelehrung und sauberer Nummerierung."
+description: "Wenn es um Beschluss in Familiensachen nach Paragraf 38 FamFG in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beschluss in Familiensachen nach Paragraf 38 FamFG

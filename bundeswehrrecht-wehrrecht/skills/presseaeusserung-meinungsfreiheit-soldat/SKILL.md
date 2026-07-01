@@ -1,6 +1,6 @@
 ---
 name: presseaeusserung-meinungsfreiheit-soldat
-description: "Presseäußerung Meinungsfreiheit Soldat: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrec..."
+description: "Wenn es um Presseäußerung und Meinungsfreiheit des Soldaten in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Presseäußerung und Meinungsfreiheit des Soldaten

@@ -1,6 +1,6 @@
 ---
 name: kanada-oakes-test-uebersicht
-description: Oakes-Test des Supreme Court of Canada aus R v Oakes 1986 als Prüfraster fuer Section 1 der Canadian Charter of Rights and Freedoms 1982. Mit den vier Prongs pressing and substantial objective, rational connection, minimal impairment und proportionality between effects sowie Hinweisen zur Rezeption deutscher Schranken-Schranke und zum Wandel der Kontrolldichte ueber Edwards Books, Irwin Toy und Hutterian Brethren.
+description: "Wenn es um Kanada Oakes Test Übersicht in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanada Oakes Test Übersicht

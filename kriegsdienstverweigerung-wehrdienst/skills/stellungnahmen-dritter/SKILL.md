@@ -1,6 +1,6 @@
 ---
 name: stellungnahmen-dritter
-description: "Prüft, wann Wahrnehmungen Dritter nach § 2 Abs. 3 KDVG helfen im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Stellungnahmen Dritter in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stellungnahmen Dritter

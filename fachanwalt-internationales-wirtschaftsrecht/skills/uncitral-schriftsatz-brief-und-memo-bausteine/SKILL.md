@@ -1,6 +1,6 @@
 ---
 name: uncitral-schriftsatz-brief-und-memo-bausteine
-description: "Uncitral: Schriftsatz-, Brief- und Memo-Bausteine: Uncitral: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Wenn es um Uncitral: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Internationales Wirtschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Uncitral: Schriftsatz-, Brief- und Memo-Bausteine

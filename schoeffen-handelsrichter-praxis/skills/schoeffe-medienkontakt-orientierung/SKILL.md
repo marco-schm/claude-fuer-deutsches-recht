@@ -1,6 +1,6 @@
 ---
 name: schoeffe-medienkontakt-orientierung
-description: "Schöffe und Medienkontakt (Orientierung): hilft ehrenamtlichen Richtern bei Presse, Social Media, laufendes Verfahren, Beratungsgeheimnis und Neutralität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Schöffe und Medienkontakt: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schöffe und Medienkontakt: Orientierung

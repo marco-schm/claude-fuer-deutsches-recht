@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-hypothek-bestellen
-description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel bestellt Schiffshypothek als Sicherheit für Finanzierung eines Neubauprojekt unter Werftvertrag. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Notarielle Bestellungsurkunde, Rangstel..."
+description: "Wenn es um Werftvertrag – Schiffshypothek bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Werftvertrag – Schiffshypothek bestellen

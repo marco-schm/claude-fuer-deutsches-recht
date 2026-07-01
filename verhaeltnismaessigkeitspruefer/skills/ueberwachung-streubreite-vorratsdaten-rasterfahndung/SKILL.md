@@ -1,6 +1,6 @@
 ---
 name: ueberwachung-streubreite-vorratsdaten-rasterfahndung
-description: "Sicherheits- und Ueberwachungsmassnahmen verhältnismäßig prüfen: Streubreite, Anlasslosigkeit, Eingriffstiefe, Zweckbindung, Transparenz, Richtervorbehalt und Loeschung nach Rasterfahndung, Online-Durchsuchung und Vorratsdatenspeicherung."
+description: "Wenn es um Überwachung: Streubreite, Vorratsdaten, Rasterfahndung in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Überwachung: Streubreite, Vorratsdaten, Rasterfahndung

@@ -1,6 +1,6 @@
 ---
 name: space-037-esa-vertrag-programmbeitraege-industrie-rueckfluss
-description: "Weltraumrecht: ESA-Vertrag Programmbeiträge und industrielle Rückflüsse mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: ESA-Vertrag Programmbeiträge und industrielle Rückflüsse in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: ESA-Vertrag Programmbeiträge und industrielle Rückflüsse

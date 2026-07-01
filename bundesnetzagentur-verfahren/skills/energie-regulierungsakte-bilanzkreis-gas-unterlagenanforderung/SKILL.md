@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-bilanzkreis-gas-unterlagenanforderung
-description: "Bilanzkreis Gas: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: Bilanzkreis Gas — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Bilanzkreis Gas — Unterlagenanforderung

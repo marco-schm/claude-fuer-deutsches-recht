@@ -1,6 +1,6 @@
 ---
 name: spezial-entscheidungsgruende-red-team-und-qualitaetskontrolle
-description: "Entscheidungsgruende: Red-Team und Qualitätskontrolle im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Entscheidungsgruende: Red-Team und Qualitätskontrolle in Urteilsbauer und Relationsmacher geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Entscheidungsgruende: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: registerbeanstandung-beantworten
-description: "Hilft bei Zwischenverfügung/Registerbeanstandung nach Gründung oder Änderung im Gesellschaftsgruender."
+description: "Wenn es um Registerbeanstandung beantworten in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerbeanstandung beantworten

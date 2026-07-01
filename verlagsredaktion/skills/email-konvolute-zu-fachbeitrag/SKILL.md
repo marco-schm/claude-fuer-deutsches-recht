@@ -1,6 +1,6 @@
 ---
 name: email-konvolute-zu-fachbeitrag
-description: "Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und Belegmaterial für eine Urteilsanmerkung oder einen Praxisbericht, mit Anonymisierung und Chronologie im Verlagsredaktion."
+description: "Wenn es um E-Mail-Konvolute zu Fachbeitrag in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # E-Mail-Konvolute zu Fachbeitrag

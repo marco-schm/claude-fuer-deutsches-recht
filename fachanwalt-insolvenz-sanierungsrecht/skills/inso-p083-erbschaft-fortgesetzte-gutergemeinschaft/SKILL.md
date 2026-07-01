@@ -1,6 +1,6 @@
 ---
 name: inso-p083-erbschaft-fortgesetzte-gutergemeinschaft
-description: "§ 83 InsO (Erbschaft: Fortgesetzte Gütergemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung."
+description: "Wenn es um Paragraf 83 InsO (Erbschaft in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 83 InsO (Erbschaft

@@ -1,6 +1,6 @@
 ---
 name: drittbeteiligung-bei-betriebsgeheimnis
-description: "Informationsfreiheit und Presseauskunft: Drittbeteiligung bei Betriebsgeheimnissen. Drittbeteiligung bei Betriebsgeheimnissen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseausk..."
+description: "Wenn es um Drittbeteiligung Bei Betriebsgeheimnis in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Drittbeteiligung Bei Betriebsgeheimnis

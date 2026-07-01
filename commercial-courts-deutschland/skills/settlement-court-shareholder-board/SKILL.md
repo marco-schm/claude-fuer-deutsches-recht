@@ -1,6 +1,6 @@
 ---
 name: settlement-court-shareholder-board
-description: "Bereitet gerichtlichen Vergleich, settlement agreement, consent order, Vollstreckbarkeit und mehrsprachige Vergleichsdokumentation vor im Commercial Courts Deutschland."
+description: "Wenn es um Settlement in commercial-courts-deutschland geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Settlement

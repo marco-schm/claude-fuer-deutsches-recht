@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Einfache/Leichte Sprache Jura: ordnet Rolle (Adressat mit Lese-/Lernbeeinträchtigung, Anwalt/Behörde, Übersetzer), markiert Frist (keine harten Fristen), wählt Norm (BGG § 11 Leichte Sprache, UN-BRK Art. 9/21, BFSG) und Zuständigkeit (Behörden mit Verständlichkeit..."
+description: "Wenn es um Einstieg und Routing in Einfache und Leichte Sprache für juristische Texte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

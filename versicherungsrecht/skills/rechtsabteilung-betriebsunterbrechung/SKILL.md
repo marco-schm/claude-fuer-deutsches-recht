@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-betriebsunterbrechung
-description: "Rechtsabteilungs-Fachmodul für Betriebsunterbrechung und Lieferkettenausfall: Unterbrechungsschaden, Trigger, Wartezeit und Mitwirkung werden beweisbar gemacht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Versicherungsrecht."
+description: "Wenn es um Rechtsabteilung: Betriebsunterbrechung und Lieferkettenausfall in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Rechtsabteilung: Betriebsunterbrechung und Lieferkettenausfall

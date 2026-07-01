@@ -1,6 +1,6 @@
 ---
 name: entscheidungsgruende-redaktion-02
-description: "Entscheidungsgründe redaktionell, beweisfest und berufungsfest bauen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output."
+description: "Wenn es um Entscheidungsgründe redaktionell, beweisfest und berufungsfest bauen in Urteilsbauer und Relationsmacher geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Entscheidungsgruende Redaktion 02; Arbeitsfeld: Urteilsbauer und Relationsmacher."
 ---
 
 # Entscheidungsgründe redaktionell, beweisfest und berufungsfest bauen

@@ -1,6 +1,6 @@
 ---
 name: datenraum-aufbau-gap-deal-intake-team
-description: "Datenraum-Aufbau: Strukturiert und bestueckt virtuelle Datenräume für Private M&A, Public M&A, Carve-out und Distressed-Prozesse im Mittelstand Corporate Ma."
+description: "Wenn es um Datenraum-Aufbau in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenraum-Aufbau

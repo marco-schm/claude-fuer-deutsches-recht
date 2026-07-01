@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-privilegierte-massnahmen
-description: "Privilegierte Maßnahmen § 20 WEG: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Barrierefreiheit, E-Laden, Einbruchschutz, Glasfaser, Kosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Privilegierte Maßnahmen Paragraf 20 WEG in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Privilegierte Maßnahmen § 20 WEG

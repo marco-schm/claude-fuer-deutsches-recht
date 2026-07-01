@@ -1,6 +1,6 @@
 ---
 name: wasserentnahme-normenkontrolle-skizzie
-description: "Umweltschutzverband Verbandsklage: Wasserentnahme: Normenkontrolle skizzieren im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Wasserentnahme Normenkontrolle Skizzie in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wasserentnahme Normenkontrolle Skizzie

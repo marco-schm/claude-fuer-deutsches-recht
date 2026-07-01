@@ -1,6 +1,6 @@
 ---
 name: inso-p049-abgesonderte-befriedigung-aus-unbeweglichen-gegenstand
-description: "§ 49 InsO (Abgesonderte Befriedigung aus unbeweglichen Gegenständen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 49 InsO (Abgesonderte Befriedigung aus unbeweglichen Gegenständen) im M..."
+description: "Wenn es um Inso P049 Abgesonderte Befriedigung Aus Unbeweglichen Gegenstand in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 49 InsO (Abgesonderte Befriedigung aus unbeweglichen Gegenständen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

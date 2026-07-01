@@ -1,6 +1,6 @@
 ---
 name: cloud-tk-cookies
-description: "Cloud-PBX/VoIP: Notruf, Standort, Datenschutz, Aufzeichnung, Ausfallsicherheit, Rufnummern und internationale Nutzer im Telekommunikationsrecht."
+description: "Wenn es um Cloud-Telefonie und VoIP in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Cloud-Telefonie und VoIP

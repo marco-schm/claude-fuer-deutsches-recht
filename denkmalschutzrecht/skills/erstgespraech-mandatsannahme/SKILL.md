@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturiert das erste Mandantengespräch im Denkmalschutzrecht. Erhebt die Mandatsgrundlage (Vollmacht, Konfliktcheck, Honorarvereinbarung), das Objekt mit Belegenheit und Schutzstatus, die anstehende Maßnahme und das Mandatsziel. Liefert einen Mandatsannahmevermerk in vollständiger Sprache."
+description: "Wenn es um Erstgespräch — Denkmalschutzrechtliche Mandatsannahme in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstgespräch — Denkmalschutzrechtliche Mandatsannahme

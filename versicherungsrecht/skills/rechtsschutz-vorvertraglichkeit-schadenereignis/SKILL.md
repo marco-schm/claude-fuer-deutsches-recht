@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-vorvertraglichkeit-schadenereignis
-description: "Rechtsschutzversicherung: zeitliche Einordnung des Rechtsschutzfalls, Dauerverstoß, Beratungsrechtsschutz, Wartezeit und Vorvertraglichkeit im Versicherungsrecht."
+description: "Wenn es um Rechtsschutz: Vorvertraglichkeit und Schadenereignis in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsschutz: Vorvertraglichkeit und Schadenereignis

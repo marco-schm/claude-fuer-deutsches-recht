@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan
-description: "Rangruecktritt und Paragraph 5 Absatz 2a EStG im Insolvenz- und StaRUG-Plan. Qualifizierter Rangruecktritt verhindert Passivierung. Abgrenzung zum Forderungsverzicht: bei Rangruecktritt bleibt die Verbindlichkeit zivilrechtlich, faellt aber bilanziell weg, wenn Tilgung nur aus kuenftigen Gewinnen..."
+description: "Wenn es um Sanierungsgewinn — Rangrücktritt und Paragraph 5 Absatz 2a EStG im Plan in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsgewinn — Rangrücktritt und Paragraph 5 Absatz 2a EStG im Plan

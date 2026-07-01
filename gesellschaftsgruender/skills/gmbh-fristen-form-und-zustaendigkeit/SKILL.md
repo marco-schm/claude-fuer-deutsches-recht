@@ -1,6 +1,6 @@
 ---
 name: gmbh-fristen-form-und-zustaendigkeit
-description: "GmbH: Fristen, Form, Zuständigkeit und Rechtsweg im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsgruender."
+description: "Wenn es um GmbH: Fristen, Form, Zuständigkeit und Rechtsweg in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GmbH: Fristen, Form, Zuständigkeit und Rechtsweg

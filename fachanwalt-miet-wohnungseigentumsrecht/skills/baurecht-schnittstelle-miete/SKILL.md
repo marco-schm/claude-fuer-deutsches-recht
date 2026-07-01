@@ -1,6 +1,6 @@
 ---
 name: baurecht-schnittstelle-miete
-description: "Baurecht-Schnittstelle: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Nutzungsuntersagung, Mangel, Genehmigung, Zweckentfremdung; mit Normprüfung, Beweisen, Fristen, Risikoampel u..."
+description: "Wenn es um Baurecht-Schnittstelle: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Baurecht-Schnittstelle: Fachmodul im Miet- und Wohnungseigentumsrecht

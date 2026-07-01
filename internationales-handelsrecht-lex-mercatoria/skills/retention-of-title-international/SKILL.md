@@ -1,6 +1,6 @@
 ---
 name: retention-of-title-international
-description: "Internationales Handelsrecht: Eigentumsvorbehalt (EV) im internationalen Handel. Einfacher, erweiterter und verlängerter Eigentumsvorbehalt, Wirksamkeit nach ausländischem Sachenrecht, Kollisionsrecht (lex situs), Registrierungspflichten und UCC Art. 9 (USA) im Internationales Handelsrecht Lex Me..."
+description: "Wenn es um Eigentumsvorbehalt International in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eigentumsvorbehalt International

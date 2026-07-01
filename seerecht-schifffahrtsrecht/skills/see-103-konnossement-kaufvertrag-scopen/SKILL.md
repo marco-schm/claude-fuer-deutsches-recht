@@ -1,6 +1,6 @@
 ---
 name: see-103-konnossement-kaufvertrag-scopen
-description: "See- und Schifffahrtsrecht: Konnossement: Kaufvertrag scopen. Kaufvertrag scopen für Konnossement im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Konnossement Kaufvertrag Scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konnossement Kaufvertrag Scopen

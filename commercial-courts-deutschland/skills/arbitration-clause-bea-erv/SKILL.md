@@ -1,6 +1,6 @@
 ---
 name: arbitration-clause-bea-erv
-description: "Prüft Konflikte zwischen Schieds-, Gerichtsstands-, Escalation- und Commercial-Court-Klauseln im Commercial Courts Deutschland."
+description: "Wenn es um Arbitration Clause Conflict in commercial-courts-deutschland geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbitration Clause Conflict

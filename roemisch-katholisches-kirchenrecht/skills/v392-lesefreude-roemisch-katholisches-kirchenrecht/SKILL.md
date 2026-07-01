@@ -1,6 +1,6 @@
 ---
 name: v392-lesefreude-roemisch-katholisches-kirchenrecht
-description: "Didaktischer Lesefreude-Skill für Kanonisches Recht: historische Einordnung, Begriffskern, anschauliche Fallvignette, Rezeptionslinie und heutige Grenze werden verständlich zusammengeführt."
+description: "Wenn es um Lesefreude Kanonisches Recht in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Lesefreude Kanonisches Recht

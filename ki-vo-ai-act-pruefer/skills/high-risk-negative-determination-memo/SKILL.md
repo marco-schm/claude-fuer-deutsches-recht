@@ -1,6 +1,6 @@
 ---
 name: high-risk-negative-determination-memo
-description: "Negativvermerk zur Hochrisiko-Einstufung: Art. 6 Abs. 2/Anhang III nicht einschlaegig oder Rueckausnahme Art. 6 Abs. 3. Dokumentiert Zweckbestimmung, tatsächliche Nutzung, Profiling-Sperre, Restpflichten und Re-Evaluation."
+description: "Wenn es um High-Risk Negative Determination Memo in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # High-Risk Negative Determination Memo

@@ -1,6 +1,6 @@
 ---
 name: messegesellschaft-haushalt
-description: "Messegesellschaft: Haushalt anbinden im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Messegesellschaft Haushalt Anbinden in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Messegesellschaft Haushalt Anbinden

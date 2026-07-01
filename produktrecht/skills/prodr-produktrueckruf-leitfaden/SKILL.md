@@ -1,6 +1,6 @@
 ---
 name: prodr-produktrueckruf-leitfaden
-description: "Leitfaden Produktrueckruf: Pflicht zur Sicherheitsmassnahme nach ProdSG / GPSR, Meldung an Marktueberwachungsbehoerde, Kommunikation. Prüfraster für Hersteller im Produktrecht."
+description: "Wenn es um ProdR: Produktrueckruf in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ProdR: Produktrueckruf

@@ -1,6 +1,6 @@
 ---
 name: ki-abschlusspruefung-mangelhafte
-description: "Wirtschaftsprüfer: ki in abschlusspruefung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Ki Abschlusspruefung Mangelhafte in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: ki in abschlusspruefung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

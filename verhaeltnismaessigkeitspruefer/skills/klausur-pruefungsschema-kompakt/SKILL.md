@@ -1,6 +1,6 @@
 ---
 name: klausur-pruefungsschema-kompakt
-description: "Kompaktes Klausur-Prüfungsschema fuer Verhältnismäßigkeit. Reihenfolge der Prüfung, typische Aufbauten in Klausur und Hausarbeit, Standardformulierungen, Tipps fuer Examen und Referendariat, Anti-Patterns die Punkte kosten."
+description: "Wenn es um Klausurschema Verhältnismäßigkeit — kompakt in Verhältnismäßigkeitsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klausurschema Verhältnismäßigkeit — kompakt

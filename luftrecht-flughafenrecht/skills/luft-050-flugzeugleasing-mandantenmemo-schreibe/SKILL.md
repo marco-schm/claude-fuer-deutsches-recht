@@ -1,6 +1,6 @@
 ---
 name: luft-050-flugzeugleasing-mandantenmemo-schreibe
-description: "Luftrecht und Flughafenrecht: Flugzeugleasing: Mandantenmemo schreiben. Mandantenmemo schreiben für Flugzeugleasing im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Flugzeugleasing Mandantenmemo Schreibe in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Flugzeugleasing Mandantenmemo Schreibe

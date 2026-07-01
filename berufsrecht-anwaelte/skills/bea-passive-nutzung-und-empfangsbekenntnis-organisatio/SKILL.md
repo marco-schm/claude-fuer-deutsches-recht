@@ -1,6 +1,6 @@
 ---
 name: bea-passive-nutzung-und-empfangsbekenntnis-organisatio
-description: "Anwälte: bea passive nutzung und empfangsbekenntnis - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Bea Passive Nutzung Und Empfangsbekenntnis Organisatio in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: bea passive nutzung und empfangsbekenntnis - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

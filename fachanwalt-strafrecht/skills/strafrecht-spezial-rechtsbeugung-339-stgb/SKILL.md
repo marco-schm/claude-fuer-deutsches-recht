@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-rechtsbeugung-339-stgb
-description: "Rechtsbeugung nach Paragraph 339 StGB: Sonderdelikt für Richter Schiedsrichter und sonstige Amtstraeger im Rechtsbeugungs-Sinne. Beugen des Rechts zugunsten oder zum Nachteil einer Partei. Sperrwirkung in der Praxis ho..."
+description: "Wenn es um Rechtsbeugung nach Paragraph 339 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsbeugung nach Paragraph 339 StGB

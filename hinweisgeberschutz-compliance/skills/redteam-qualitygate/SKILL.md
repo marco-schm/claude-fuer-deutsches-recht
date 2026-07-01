@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "Finaler Red-Team-Check gegen Repressalien, NDA-Fallen und Papierprozesse. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Redteam Qualitygate in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Redteam Qualitygate

@@ -1,6 +1,6 @@
 ---
 name: incoterms-exportkontrolle-internal
-description: "Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwortung: Bestimmung des Ausfuehrers bei EXW (Abholklausel), Pflichtenuebertragung und Haftungsluecken bei DDP, Verantwortung für Ausfuhranmeldung und Exportkontroll-Compliance je Klausel. Output: Incoterms-Exportkontroll-Matrix und Ver..."
+description: "Wenn es um Incoterms und Exportkontrolle: Verantwortung und Haftungsluecken in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Incoterms und Exportkontrolle: Verantwortung und Haftungsluecken

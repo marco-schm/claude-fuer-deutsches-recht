@@ -1,6 +1,6 @@
 ---
 name: spezial-aerzte-livequellen-und-rechtsprechungscheck
-description: "Aerzte: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Aerzte: Livequellen- und Rechtsprechungscheck in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aerzte: Livequellen- und Rechtsprechungscheck

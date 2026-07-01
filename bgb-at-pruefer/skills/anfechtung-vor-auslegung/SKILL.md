@@ -1,6 +1,6 @@
 ---
 name: anfechtung-vor-auslegung
-description: "Klausurmethodik: Prüfungsreihenfolge Auslegung vor Anfechtung im BGB Allgemeiner Teil — Begründung des Vorrangs der Auslegung, Abgrenzung Inhaltsirrtum und falsa demonstratio, Konsequenzen für Klausuraufbau und Praxismandat."
+description: "Wenn es um Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung

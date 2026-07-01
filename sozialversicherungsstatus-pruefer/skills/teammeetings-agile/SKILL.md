@@ -1,6 +1,6 @@
 ---
 name: teammeetings-agile
-description: "Prüft Dailies, Sprint Planning, Retros, Jour Fixes und Projektmeetings als Statusindizien im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Teammeetings und agile Steuerung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Teammeetings und agile Steuerung

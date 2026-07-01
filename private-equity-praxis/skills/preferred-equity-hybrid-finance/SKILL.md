@@ -1,6 +1,6 @@
 ---
 name: preferred-equity-hybrid-finance
-description: "Prüft Preferred Equity, Mezzanine, Wandeldarlehen, Gesellschafterdarlehen und Rangrücktritt im Private Equity Praxis."
+description: "Wenn es um Preferred Equity und hybride Finanzierung in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Preferred Equity und hybride Finanzierung

@@ -1,6 +1,6 @@
 ---
 name: forderung-werkvertrag-bau
-description: "Werklohnforderung Paragraf 631, Paragraf 641 BGB: Faelligkeit nach Abnahme, Schlussrechnung. Bauvertrag Paragrafen 650a ff. BGB (seit 2018), VOB/B als AGB. Abschlagszahlungen Paragraf 632a BGB, Sicherheit Paragraf 650f BGB. Mangelhaftigkeit Paragraf 640 Abs. 2 BGB Abnahmeverweigerung. Output: Klageschrift Werklohn mit Prüfung Faelligkeit..."
+description: "Wenn es um Werklohnforderung – BGB und Bau in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Werklohnforderung – BGB und Bau

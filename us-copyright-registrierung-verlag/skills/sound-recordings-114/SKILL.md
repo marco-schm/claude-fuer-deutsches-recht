@@ -1,6 +1,6 @@
 ---
 name: sound-recordings-114
-description: "Prüft Rechte an Sound Recordings, digital audio transmissions, SoundExchange, noninteractive services und direct licenses im Us Copyright Registrierung Verlag."
+description: "Wenn es um Sound Recordings Paragraf 114 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sound Recordings § 114

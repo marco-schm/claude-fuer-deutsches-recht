@@ -1,6 +1,6 @@
 ---
 name: grest-bescheid-einspruch-adv-16
-description: "GrESt-Bescheid prüfen und angreifen: Einspruch, Aussetzung der Vollziehung, § 16 GrEStG Rueckgaengigmachung/Korrektur, doppelte Festsetzung, falsche Bemessungsgrundlage, falscher Steuersatz, Verfahrensfehler und FG-Strategie."
+description: "Wenn es um GrESt: Bescheid, Einspruch, AdV und Paragraf 16 in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Grest Bescheid Einspruch Adv 16; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # GrESt: Bescheid, Einspruch, AdV und § 16

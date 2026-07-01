@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Startet die schulrechtliche Prüfung für Eltern, Schüler, Schulen, Schulträger, Anwälte und Behörden."
+description: "Wenn es um Allgemein in Schulrecht der Bundesländer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemein

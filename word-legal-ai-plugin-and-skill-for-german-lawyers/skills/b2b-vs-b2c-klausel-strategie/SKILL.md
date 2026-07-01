@@ -1,6 +1,6 @@
 ---
 name: b2b-vs-b2c-klausel-strategie
-description: "Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (§§ 13 und 14 BGB sowie § 305 II BGB und §§ 308 und 309 BGB direkt anwendbar). B2B im Geschäftsverkehr nach § 310 I BGB erleichtert, aber mit Ausstrahlungswirkung der Klauselverbote über § 307 BGB. Ein einziges Kl..."
+description: "Wenn es um B2B vs. B2C Klauselstrategie in Word-Workflows für deutsche Juristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # B2B vs. B2C Klauselstrategie

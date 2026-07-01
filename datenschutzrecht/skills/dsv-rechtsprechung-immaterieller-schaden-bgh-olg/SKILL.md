@@ -1,6 +1,6 @@
 ---
 name: dsv-rechtsprechung-immaterieller-schaden-bgh-olg
-description: "Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art. 82 DSGVO im Lichte der EuGH-Vorgaben. Behandelt: BGH-Entscheidungen zur Substantiierung; OLG-"
+description: "Wenn es um Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art

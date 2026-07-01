@@ -1,6 +1,6 @@
 ---
 name: verbraucherverband-reiseveranstalter-anspruchsgruppen-bil
-description: "Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Anspruchsgruppen bilden im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Reiseveranstalter Anspruchsgruppen Bil in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reiseveranstalter Anspruchsgruppen Bil

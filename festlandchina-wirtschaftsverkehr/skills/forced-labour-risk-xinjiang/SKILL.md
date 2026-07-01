@@ -1,6 +1,6 @@
 ---
 name: forced-labour-risk-xinjiang
-description: "Zwangsarbeit-Risiko Xinjiang/XUAR: EU-Forced-Labour-VO 2024/3015 Marktverbot-Tatbestand, XUAR-Sektoren (Baumwolle/Polysilizium/Tomaten/Aluminium), Beweislastumkehr gem. VO 2024/3015 Art. 5, LkSG § 5 Risikoindikator Zwangsarbeit, Due-Diligence-Standard Lieferkette, Zertifizierungsgrenzen. Output:..."
+description: "Wenn es um Zwangsarbeit Xinjiang: EU-Forced-Labour-VO und LkSG in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zwangsarbeit Xinjiang: EU-Forced-Labour-VO und LkSG

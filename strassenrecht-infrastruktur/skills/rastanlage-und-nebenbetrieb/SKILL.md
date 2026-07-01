@@ -1,6 +1,6 @@
 ---
 name: rastanlage-und-nebenbetrieb
-description: "Straßenrecht und Infrastruktur: Rastanlage und Nebenbetrieb. Rastanlage und Nebenbetrieb im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkma..."
+description: "Wenn es um Rastanlage Und Nebenbetrieb in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rastanlage Und Nebenbetrieb

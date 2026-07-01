@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Kartellrecht-Marktabgrenzung: stimmt Adressat (Anmelder, Wettbewerber, Kunden/Lieferanten), Frist (FKVO 25 Arbeitstage Phase I) und Form auf den Zweck ab — typische Outputs: Marktdefinitions-Memo, Anmeldung FKVO, Stellungnahme Phase II."
+description: "Wenn es um Output wählen in Kartellrecht — Marktabgrenzungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

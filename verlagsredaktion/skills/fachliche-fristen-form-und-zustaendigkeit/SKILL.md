@@ -1,6 +1,6 @@
 ---
 name: fachliche-fristen-form-und-zustaendigkeit
-description: "Fachliche: Fristen, Form, Zuständigkeit und Rechtsweg im Verlagsredaktion. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Fachliche: Fristen, Form, Zuständigkeit und Rechtsweg in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachliche: Fristen, Form, Zuständigkeit und Rechtsweg

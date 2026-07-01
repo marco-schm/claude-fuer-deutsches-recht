@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-strassenbau-asphalt-mischgut
-description: "Bauueberwachung nach HOAI LPH 8 für Strassenbauarbeiten — Asphaltmischgut-Prüfung nach ZTV Asphalt-StB und TL Asphalt-StB, Verdichtungsgrad Kontroll-Prüfung nach ZTVE-StB, Schichtdicken-Messung mittels Bohrkerne, Ebenheitspruefung nach ZTV Asphalt-StB und Bitumengehalt-Extraktion nach DIN EN 12..."
+description: "Wenn es um Bauueberwachung Strassenbau Asphalt Mischgut (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Strassenbau Asphalt Mischgut (LPH 8)

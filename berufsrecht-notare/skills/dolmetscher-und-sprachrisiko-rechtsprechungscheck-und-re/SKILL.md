@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-und-sprachrisiko-rechtsprechungscheck-und-re
-description: "Notare: dolmetscher und sprachrisiko - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Dolmetscher Und Sprachrisiko Rechtsprechungscheck Und Re in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: dolmetscher und sprachrisiko - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

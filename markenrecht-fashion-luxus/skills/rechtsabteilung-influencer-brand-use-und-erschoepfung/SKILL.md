@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-influencer-brand-use-und-erschoepfung
-description: "Rechtsabteilungs-Fachmodul für Influencer-Brand-Use und Erschöpfung: Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Markenrecht Fashion Luxus."
+description: "Wenn es um Rechtsabteilung: Influencer-Brand-Use und Erschöpfung in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Influencer-Brand-Use und Erschöpfung

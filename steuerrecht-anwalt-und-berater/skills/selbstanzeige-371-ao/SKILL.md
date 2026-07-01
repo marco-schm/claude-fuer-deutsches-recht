@@ -1,6 +1,6 @@
 ---
 name: selbstanzeige-371-ao
-description: "Detail-Skill zur strafbefreienden Selbstanzeige § 371 AO — Vollstaendigkeitsgebot Berichtigung von zehn Jahren Sperrgruende § 371 Abs. 2 AO und Zahlung des Hinterziehungsbetrags nebst Zinsen. Anwendungsfall Mandant erkennt rueckwirkend Unrichtigkeiten in Steuererklaerungen und moechte vor Bekannt..."
+description: "Wenn es um Selbstanzeige — Paragraf 371 AO Wirksamkeit Sperrgruende und Strafmilderung in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Selbstanzeige — § 371 AO Wirksamkeit Sperrgruende und Strafmilderung

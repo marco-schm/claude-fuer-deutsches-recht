@@ -1,6 +1,6 @@
 ---
 name: distressed-ma-aus-insolvenz
-description: "Prüft Asset Deal, Share Deal, Insolvenzplan, StaRUG, Anfechtungsrisiken und Haftungsfreistellung im Private Equity Praxis."
+description: "Wenn es um Distressed M&A aus Krise und Insolvenz in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Distressed M&A aus Krise und Insolvenz

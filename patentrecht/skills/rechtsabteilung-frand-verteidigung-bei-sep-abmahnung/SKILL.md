@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-frand-verteidigung-bei-sep-abmahnung
-description: "Rechtsabteilungs-Fachmodul für FRAND-Verteidigung bei SEP-Abmahnung: Lizenzbereitschaft, Vergleichbarkeit und Hold-out/Hold-up werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Patentrecht."
+description: "Wenn es um Rechtsabteilung: FRAND-Verteidigung bei SEP-Abmahnung in patentrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Rechtsabteilung: FRAND-Verteidigung bei SEP-Abmahnung

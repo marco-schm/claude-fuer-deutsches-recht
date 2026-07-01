@@ -1,6 +1,6 @@
 ---
 name: akkreditiv-ucp-600
-description: "Internationales Handelsrecht: Dokumentenakkreditiv nach UCP 600 (ICC 2007). Abstraktionsprinzip, konforme Dokumentenvorlage, Prüffrist 5 Bankarbeitstage (Art. 14b), Diskrepanzbehandlung, eUCP 2.0 und häufige Fehler bei Akkreditivdokumenten im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Akkreditiv nach UCP 600 in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Akkreditiv nach UCP 600

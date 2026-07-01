@@ -1,6 +1,6 @@
 ---
 name: fallaufnahme-und-pruefprogramm
-description: "Strukturiertes Fallaufnahme- und Prüfprogramm für BGB-AT-Mandate und Klausuren: Sachverhalt vollständig erfassen, Mandatsrolle klären, Prüfprogramm erstellen, offene Tatsachenfragen identifizieren und Prüfungsschwerpunkte setzen."
+description: "Wenn es um Fallaufnahme und Prüfprogramm — BGB Allgemeiner Teil in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Fallaufnahme Und Pruefprogramm; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Fallaufnahme und Prüfprogramm — BGB Allgemeiner Teil

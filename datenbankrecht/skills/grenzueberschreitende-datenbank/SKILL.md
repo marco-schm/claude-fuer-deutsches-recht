@@ -1,6 +1,6 @@
 ---
 name: grenzueberschreitende-datenbank
-description: "Grenzüberschreitendes Datenbankrecht: EU-sui-generis-Schutz (RL 96/9/EG) ohne Äquivalent in den USA (kein sweat-of-the-brow copyright nach Feist), Post-Brexit-Lage in UK (CDPA s. 3A und Database Right), Kollisionsrecht nach Art. 8 Rom-II-VO, Gerichtsstand bei internationalen Verletzungen und DSGV..."
+description: "Wenn es um Grenzüberschreitende Datenbanken — EU, UK und USA im Vergleich in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzüberschreitende Datenbanken — EU, UK und USA im Vergleich

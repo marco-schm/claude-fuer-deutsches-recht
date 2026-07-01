@@ -1,6 +1,6 @@
 ---
 name: agrar-foerderung-gap-strategieplan
-description: "GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen ELER, Junglandwirteprogramm, Agrarinvestitionsfoerderung: GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Einko..."
+description: "Wenn es um Agrar Foerderung Gap Strategieplan in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen ELER, Junglandwirteprogramm, Agrarinvestitionsfoerderung

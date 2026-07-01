@@ -1,6 +1,6 @@
 ---
 name: mitgliedschaft-verein-streit
-description: "Mitgliedschaft im Verein Streit: führt Laien durch Beitrag, Ausschluss, Hausverbot, Mitgliederversammlung und vereinsinterne Rechtsmittel. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Mitgliedschaft im Verein Streit in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mitgliedschaft im Verein Streit

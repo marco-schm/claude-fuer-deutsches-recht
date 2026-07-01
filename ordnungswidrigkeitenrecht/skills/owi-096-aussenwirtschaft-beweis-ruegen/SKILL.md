@@ -1,6 +1,6 @@
 ---
 name: owi-096-aussenwirtschaft-beweis-ruegen
-description: "Ordnungswidrigkeitenrecht: Außenwirtschaft: Beweis rügen. Beweis rügen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Aussenwirtschaft Beweis Ruegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aussenwirtschaft Beweis Ruegen

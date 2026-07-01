@@ -1,6 +1,6 @@
 ---
 name: dfg-grundsystem-foerderlinien
-description: "Grundsystem der DFG-Foerderlinien einfuehrend erklaeren: Sachbeihilfe (Einzelantrag), Emmy Noether, Heisenberg, Reinhart Koselleck, SFB, GRK, Forschergruppen, Schwerpunktprogramme. Pro Linie: Zielgruppe, Hoehe, Dauer, Antragsweg, Begutachtungsstil. Fuer Erstantragsteller mit Entscheidungshilfe zu..."
+description: "Wenn es um Grundsystem DFG-Foerderlinien in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Grundsystem DFG-Foerderlinien

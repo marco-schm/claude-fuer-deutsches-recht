@@ -1,6 +1,6 @@
 ---
 name: lph-03-mandantenbericht
-description: "HOAI LPH 3 Entwurfsplanung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Lph 03 Mandantenbericht in HOAI Leistungsphasen Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # LPH 3 Entwurfsplanung: Erstellt verständlichen statusbericht mit ampel und nächstem schritt

@@ -1,6 +1,6 @@
 ---
 name: rmap-norm-zu-rulemap
-description: "Praxisleitfaden Norm in Rulemap ueberfuehren: Capture (Norm erfassen); Model (Logikmodell zeichnen); Simulate (durchspielen); Verify (Entscheidungen prüfen); Integrate (in System einbinden); Improve (weiterentwickeln). Liefert ein iteratives Vorgehensmodell mit Eingaben; Ausgaben und Prüfpunkte..."
+description: "Wenn es um Von der Norm zur Rulemap - Vorgehensmodell in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Von der Norm zur Rulemap - Vorgehensmodell

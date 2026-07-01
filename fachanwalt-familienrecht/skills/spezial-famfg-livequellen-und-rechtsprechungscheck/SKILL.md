@@ -1,6 +1,6 @@
 ---
 name: spezial-famfg-livequellen-und-rechtsprechungscheck
-description: "Famfg: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Famfg: Livequellen- und Rechtsprechungscheck in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Famfg: Livequellen- und Rechtsprechungscheck

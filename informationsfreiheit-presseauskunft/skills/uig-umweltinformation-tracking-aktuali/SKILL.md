@@ -1,6 +1,6 @@
 ---
 name: uig-umweltinformation-tracking-aktuali
-description: "Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Tracking aktualisieren im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Uig Umweltinformation Tracking Aktuali in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Uig Umweltinformation Tracking Aktuali

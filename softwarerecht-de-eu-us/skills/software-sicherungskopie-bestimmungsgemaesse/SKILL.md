@@ -1,6 +1,6 @@
 ---
 name: software-sicherungskopie-bestimmungsgemaesse
-description: "Prüft § 69d UrhG, notwendige Programmnutzung, Fehlerberichtigung, Backup und vertragliche Einschränkungen im Softwarerecht De Eu Us."
+description: "Wenn es um Sicherungskopie und bestimmungsgemäße Nutzung in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sicherungskopie und bestimmungsgemäße Nutzung

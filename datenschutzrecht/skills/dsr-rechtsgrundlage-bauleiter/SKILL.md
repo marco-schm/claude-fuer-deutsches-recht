@@ -1,6 +1,6 @@
 ---
 name: dsr-rechtsgrundlage-bauleiter
-description: "Bauleiter Rechtsgrundlage Art. 6 DSGVO: Einwilligung, Vertrag, Pflicht, Interesse, öffentliches Interesse. Prüfraster für typische Verarbeitungstaetigkeiten."
+description: "Wenn es um DSR: Rechtsgrundlage Bauleiter in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DSR: Rechtsgrundlage Bauleiter

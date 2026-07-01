@@ -1,6 +1,6 @@
 ---
 name: bverfg-und-nachkriegskonsolidierung
-description: "Deutsche Rechtsgeschichte: BVerfG und Nachkriegskonsolidierung. Errichtung des BVerfG 1951, Fruehe Leitentscheidungen (SRP-Verbot BVerfGE 2-1, KPD-Verbot BVerfGE 5-85), Elfes-Urteil und Aufbau der Grundrechtsdogmatik im Deutsche Rechtsgeschichte."
+description: "Wenn es um BVerfG und Nachkriegskonsolidierung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BVerfG und Nachkriegskonsolidierung

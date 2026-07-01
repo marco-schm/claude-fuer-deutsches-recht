@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-wahltarife-und-sonderkuendigung
-description: "Krankenkassen-Wahltarife und Sonderkuendigungsrecht. Skill klaert das Wechselrecht zur anderen Krankenkasse Sonderkuendigung bei Beitragserhoehung Wahltarife (Selbstbehalt Bonus Krankengeld bei Selbststaendigen) und die Bindungsfristen. Liefert Prüfraster."
+description: "Wenn es um Krankenkassen Wahltarife Und Sonderkuendigung in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenkassen Wahltarife Und Sonderkuendigung

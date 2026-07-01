@@ -1,6 +1,6 @@
 ---
 name: strafr-vermoegensabschoepfung-spezial
-description: "Spezialfall Vermögensabschoepfung §§ 73 ff: StGB nach Reform 2017: Einziehung von Taterzeugnissen, Wertersatzeinziehung, erweiterte Einziehung. Prüfraster für Verteidiger und Drittbetroffene."
+description: "Wenn es um Strafr Vermoegensabschoepfung Spezial in Fachanwalt Strafrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Spezialfall Vermögensabschoepfung §§ 73 ff

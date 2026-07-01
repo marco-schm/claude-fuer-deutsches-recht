@@ -1,6 +1,6 @@
 ---
 name: tax-and-transfer-pricing-touchpoints
-description: "Steuern und Verrechnungspreise im China-Geschäft: Körperschaftsteuer VR China (Enterprise Income Tax 25 Prozent), Quellensteuer Dividenden/Zinsen/Lizenzen (10 Prozent), Doppelbesteuerungsabkommen DE-CN, Verrechnungspreise OECD-Standard vs. CN-Praxis (SAT-Guidance), BEPS-Maßnahmen China. Output:..."
+description: "Wenn es um Steuern und Verrechnungspreise China: EIT/DBA/Verrechnungspreise in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuern und Verrechnungspreise China: EIT/DBA/Verrechnungspreise

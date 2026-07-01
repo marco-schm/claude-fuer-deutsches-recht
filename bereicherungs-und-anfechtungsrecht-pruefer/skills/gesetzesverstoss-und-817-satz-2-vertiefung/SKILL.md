@@ -1,6 +1,6 @@
 ---
 name: gesetzesverstoss-und-817-satz-2-vertiefung
-description: "Bei § 817 S. 2 BGB nach Normzweck und Schutzrichtung geprüft werden muss. Normen: §§ 134 und 138 BGB; § 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öf..."
+description: "Wenn es um Gesetzesverstoß und Paragraf 817 Satz 2 vertieft in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesetzesverstoß und § 817 Satz 2 vertieft

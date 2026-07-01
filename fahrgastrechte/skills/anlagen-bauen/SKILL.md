@@ -1,6 +1,6 @@
 ---
 name: anlagen-bauen
-description: "Baut aus den Belegen eines Fahrgastrechte-Mandats ein beA-konformes Anlagenkonvolut. Verwendet zum bestehenden Schriftsatz (Forderungsschreiben Widerspruch Schlichtungsantrag Klage) die Belege Buchungsbestaetigung E-Ticket Verspaetungsbestaetigung Foto Anzeigetafel App-Screenshots Belege zu Ausla..."
+description: "Wenn es um Fahrgastrechte — Anlagen bauen in Fahrgastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Fahrgastrechte — Anlagen bauen

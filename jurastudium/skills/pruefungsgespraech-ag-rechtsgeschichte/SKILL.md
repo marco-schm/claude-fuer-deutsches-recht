@@ -1,6 +1,6 @@
 ---
 name: pruefungsgespraech-ag-rechtsgeschichte
-description: "Prüfungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft simulieren: Anwendungsfall Student will AG-Diskussion oder Dozentengespraeach simulieren und Argumentation trainieren. Subsumtion, Lösungsschemata, Tatbestaende Zivilrecht Strafrecht öffentliches Recht. Prüfraster Gespraeachsführung So..."
+description: "Wenn es um Prüfungsgespräch nach AG-Tradition in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfungsgespräch nach AG-Tradition

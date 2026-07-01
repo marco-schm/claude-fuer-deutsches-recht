@@ -1,6 +1,6 @@
 ---
 name: chapter13-eligibility
-description: "Prüft Chapter 13 debt limits, regular income, individual-only requirement and consumer/small-business owner issues im US Bankruptcy Code."
+description: "Wenn es um Chapter 13 Eligibility in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chapter 13 Eligibility

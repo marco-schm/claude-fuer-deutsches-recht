@@ -1,6 +1,6 @@
 ---
 name: hr-abschlussprodukt-paket
-description: "Berliner Start-up-HR: Abschlussprodukt-Paket: Memo, Matrix, Briefing, Mustertext, To-do-Liste und Datenschutzvermerk für HR-Fälle. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um HR Abschlussprodukt Paket in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # HR Abschlussprodukt Paket

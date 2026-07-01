@@ -1,6 +1,6 @@
 ---
 name: verweisung-art-4-9-22-fkvo
-description: "Verweisung Art 4 9 22 FKVO: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA im Kartellrecht (Marktabgrenzung): prüft konkret di..."
+description: "Wenn es um Verweisung Art 4 9 22 FKVO in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verweisung Art 4 9 22 FKVO

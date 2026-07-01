@@ -1,6 +1,6 @@
 ---
 name: mietminderung-bemessung
-description: "Mietminderung Bemessung: Fachmodul im Miet- und Wohnungseigentumsrecht: warnt vor Tabellenblindflug und verlangt konkrete Gebrauchsbeeinträchtigung mit Belegen; mit Normprüfung, Beweise..."
+description: "Wenn es um Mietminderung Bemessung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Mietminderung Bemessung: Fachmodul im Miet- und Wohnungseigentumsrecht

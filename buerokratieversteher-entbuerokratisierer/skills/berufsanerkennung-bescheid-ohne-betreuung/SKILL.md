@@ -1,6 +1,6 @@
 ---
 name: berufsanerkennung-bescheid-ohne-betreuung
-description: "Hilft bei Anerkennung ausländischer Abschlüsse, Anpassungslehrgang, Kenntnisprüfung, Fristen und Nachweisen im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Berufsanerkennung in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berufsanerkennung

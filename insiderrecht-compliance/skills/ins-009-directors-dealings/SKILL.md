@@ -1,6 +1,6 @@
 ---
 name: ins-009-directors-dealings
-description: "Prueft Eigengeschaefte von Fuehrungskraeften und nahestehenden Personen, Schwellen, Fristen und Closed Periods."
+description: "Wenn es um Directors Dealings in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Directors Dealings

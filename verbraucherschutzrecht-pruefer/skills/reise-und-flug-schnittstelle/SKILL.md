@@ -1,6 +1,6 @@
 ---
 name: reise-und-flug-schnittstelle
-description: "Verbraucherschutzrecht Prüfer: Reise und Flug Schnittstelle. Reise und Flug Schnittstelle im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
+description: "Wenn es um Reise Und Flug Schnittstelle in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reise Und Flug Schnittstelle

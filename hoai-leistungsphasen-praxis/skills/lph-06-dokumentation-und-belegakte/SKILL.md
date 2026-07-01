@@ -1,6 +1,6 @@
 ---
 name: lph-06-dokumentation-und-belegakte
-description: "HOAI LPH 6 Vorbereitung der Vergabe: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 6 Vorbereitung der Vergabe: Sichert protokolle in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Sichert protokolle

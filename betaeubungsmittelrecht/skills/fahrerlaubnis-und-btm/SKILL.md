@@ -1,6 +1,6 @@
 ---
 name: fahrerlaubnis-und-btm
-description: "Betäubungsmittelrecht: Fahrerlaubnis und BtM. Fahrerlaubnis und BtM im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
+description: "Wenn es um Fahrerlaubnis Und Btm in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fahrerlaubnis Und Btm

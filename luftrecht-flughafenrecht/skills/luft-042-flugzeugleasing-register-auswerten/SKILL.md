@@ -1,6 +1,6 @@
 ---
 name: luft-042-flugzeugleasing-register-auswerten
-description: "Luftrecht und Flughafenrecht: Flugzeugleasing: Register auswerten. Register auswerten für Flugzeugleasing im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Flugzeugleasing Register Auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flugzeugleasing Register Auswerten

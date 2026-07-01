@@ -1,6 +1,6 @@
 ---
 name: mandatskuendigung-vor-frist-organisationspflicht
-description: "Steuerberater: mandatskuendigung vor frist - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Mandatskuendigung Vor Frist Organisationspflicht in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: mandatskuendigung vor frist - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

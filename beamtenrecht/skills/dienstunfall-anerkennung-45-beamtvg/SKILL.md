@@ -1,6 +1,6 @@
 ---
 name: dienstunfall-anerkennung-45-beamtvg
-description: "Skill zur Anerkennung von Dienstunfaellen nach § 31 BeamtVG und zur Einhaltung der Meldefristen nach § 45 BeamtVG. Klaert den Begriff des Dienstunfalls die Konstellation Wegeunfall die Behandlung von Spaetfolgen die Zwei-Jahres-Frist und die zehn-Jahres-Ausschlussfrist sowie die Glaubhaftmachung..."
+description: "Wenn es um Dienstunfall — Anerkennung und Meldefristen in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dienstunfall — Anerkennung und Meldefristen

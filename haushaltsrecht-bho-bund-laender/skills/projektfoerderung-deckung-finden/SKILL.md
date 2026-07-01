@@ -1,6 +1,6 @@
 ---
 name: projektfoerderung-deckung-finden
-description: "Haushaltsrecht BHO Bund und Länder: Projektförderung: Deckung finden im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Projektfoerderung Deckung Finden in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Projektfoerderung Deckung Finden

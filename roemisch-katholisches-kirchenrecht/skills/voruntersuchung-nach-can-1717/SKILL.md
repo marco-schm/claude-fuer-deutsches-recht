@@ -1,6 +1,6 @@
 ---
 name: voruntersuchung-nach-can-1717
-description: "Voruntersuchung nach can. 1717: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Wenn es um Voruntersuchung nach can. 1717 in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Voruntersuchung Nach Can 1717; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
 ---
 
 # Voruntersuchung nach can. 1717

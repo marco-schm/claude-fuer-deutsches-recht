@@ -1,6 +1,6 @@
 ---
 name: bodenabfertigung-genehmigung-pruefen
-description: "Bodenabfertigungsdienstleister braucht Zulassung nach BADV oder Genehmigung des Flughafenbetreibers. Skill prüft BADV EU-RL 96/67 EG Zulassungsvoraussetzungen LuftSiG-Anforderungen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf im Luftrecht Flughafenrecht."
+description: "Wenn es um Bodenabfertigung – Genehmigung prüfen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bodenabfertigung – Genehmigung prüfen

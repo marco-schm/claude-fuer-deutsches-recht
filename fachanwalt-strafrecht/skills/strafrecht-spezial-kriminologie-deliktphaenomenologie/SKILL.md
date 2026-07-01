@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-kriminologie-deliktphaenomenologie
-description: "Deliktsphaenomenologie nach Deliktstyp: Vermögensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung): Deliktsphaenomenologie nach Deliktstyp: Vermögensdelikte (Di..."
+description: "Wenn es um Strafrecht Spezial Kriminologie Deliktphaenomenologie in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deliktsphaenomenologie nach Deliktstyp: Vermögensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung)

@@ -1,6 +1,6 @@
 ---
 name: aufsichtsverfahren-formular-portal-und-einreichung
-description: "Aufsichtsverfahren: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Aufsichtsverfahren: Formular, Portal und Einreichungslogik in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufsichtsverfahren: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: workflow-mieterhoehung-entscheidung
-description: "Mieterhöhung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht: berechnet Zustimmungspflicht, Kappung, Sperrfrist und Einwendungen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skill..."
+description: "Wenn es um Mieterhöhung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Mieterhöhung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht

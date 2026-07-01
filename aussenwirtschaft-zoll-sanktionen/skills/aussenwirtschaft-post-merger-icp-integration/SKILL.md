@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-post-merger-icp-integration
-description: "Integration des Internal Compliance Programme nach M&A: Harmonisierung von ICP-Standards zwischen Kaeufer und Zielunternehmen, Risikolucken-Schliessen, Schulungsrollout für neue Mitarbeiter, BAFA-Mitteilung bei Inhaberwechsel exportkontrollrelevanter Genehmigungen. Output: ICP-Integrationsplan un..."
+description: "Wenn es um Post-Merger ICP-Integration: Harmonisierung und Lueckenschliessung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Post-Merger ICP-Integration: Harmonisierung und Lueckenschliessung

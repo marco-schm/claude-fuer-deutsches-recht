@@ -1,6 +1,6 @@
 ---
 name: richtlinien-anhoerung-red-aufsichtsrecht
-description: "Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Prüfraster: Strukturvergleich inhaltliche Unterschiede Änderungshistorie Bedeutung der Änderungen. Output: Vergleichstabelle Differenzanalyse. Abgrenzung: nicht für Lueckenanal..."
+description: "Wenn es um Richtlinien-Diff in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Richtlinien-Diff

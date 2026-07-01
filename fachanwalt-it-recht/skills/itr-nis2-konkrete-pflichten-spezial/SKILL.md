@@ -1,6 +1,6 @@
 ---
 name: itr-nis2-konkrete-pflichten-spezial
-description: "Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wesentliche und wichtige Einrichtungen, Risikomanagement, Meldepflichten (24/72/30 Tage), Schulungspflichten, Geschäftsführerhaftung: Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wesentliche und wichtig..."
+description: "Wenn es um Itr Nis2 Konkrete Pflichten Spezial in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wesentliche und wichtige Einrichtungen, Risikomanagement, Meldepflichten (24/72/30 Tage), Schulungspflichten, Geschäftsführerhaftung

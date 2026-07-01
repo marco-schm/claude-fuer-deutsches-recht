@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Verbraucherschutzverband Durchsetzung: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
+description: "Wenn es um Verbraucherschutzverband Durchsetzung - Allgemeiner Einstieg in Verbraucherschutzverband Durchsetzung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbraucherschutzverband Durchsetzung - Allgemeiner Einstieg

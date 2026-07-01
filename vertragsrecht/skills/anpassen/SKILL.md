@@ -1,6 +1,6 @@
 ---
 name: anpassen
-description: "Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne Einstellungen ohne erneutes Erstgespräch. Lädt, wenn der Nutzer Profil anpassen, Playbook ändern, Eskalation aktualisieren, Klauselposition ändern oder konfigurieren sagt im Vertragsrecht."
+description: "Wenn es um Kanzleiprofil anpassen in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzleiprofil anpassen

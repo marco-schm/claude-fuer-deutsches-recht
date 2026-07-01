@@ -1,6 +1,6 @@
 ---
 name: fran-023-disclosure-document-fuer-internationale-investoren
-description: "Franchiserecht: Disclosure Document für internationale Investoren mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Disclosure Document für internationale Investoren in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Disclosure Document für internationale Investoren

@@ -1,6 +1,6 @@
 ---
 name: arbeitsrechtliche-ueberzahlung
-description: "Bei arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Normen: § 611a BGB; §§ 812 und 818 BGB; § 199 BGB; tarifliche Ausschlussfristen. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreic..."
+description: "Wenn es um Arbeitsrechtliche Überzahlung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Arbeitsrechtliche Ueberzahlung; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # Arbeitsrechtliche Überzahlung

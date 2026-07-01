@@ -1,6 +1,6 @@
 ---
 name: vergleich-waehrend-insolvenz
-description: "Vergleich während Insolvenz/Wohlverhalten: Drittzahlung, vorzeitige RSB, Gläubigerbefriedigung und Verfahrensende: Normanker: InsO §§ 300 un..."
+description: "Wenn es um Vergleich Waehrend Insolvenz in Verbraucherinsolvenz und Schuldenbereinigung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich während Insolvenz/Wohlverhalten: Drittzahlung, vorzeitige RSB, Gläubigerbefriedigung und Verfahrensende.

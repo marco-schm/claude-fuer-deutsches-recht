@@ -1,6 +1,6 @@
 ---
 name: leak-und-hack-notfall
-description: "Wahlkampfrecht Praxis: auf Leaks, Hacks und veroeffentlichte interne Dokumente reagieren im Wahlkampfrecht."
+description: "Wenn es um Leak Und Hack Notfall in Wahlkampfrecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Leak Und Hack Notfall

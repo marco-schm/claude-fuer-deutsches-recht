@@ -1,6 +1,6 @@
 ---
 name: see-071-offshore-schiff-register-pruefen
-description: "See- und Schifffahrtsrecht: Offshore-Schiff: Register prüfen. Register prüfen für Offshore-Schiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Offshore Schiff Register Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Offshore Schiff Register Pruefen

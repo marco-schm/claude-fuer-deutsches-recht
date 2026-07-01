@@ -1,6 +1,6 @@
 ---
 name: live-mandantenkommunikation
-description: "Live: Mandantenkommunikation und Entscheidungsvorlage im Plugin Liquiditaetsplanung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Wenn es um Live: Mandantenkommunikation und Entscheidungsvorlage in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Live: Mandantenkommunikation und Entscheidungsvorlage

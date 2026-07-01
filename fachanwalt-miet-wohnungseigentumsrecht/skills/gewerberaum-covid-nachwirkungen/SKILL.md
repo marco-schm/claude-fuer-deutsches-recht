@@ -1,6 +1,6 @@
 ---
 name: gewerberaum-covid-nachwirkungen
-description: "Gewerberaum Störung der Geschäftsgrundlage: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Anpassung, Risikoübernahme, Umsatzdaten, Vergleichslinie; mit Normprü..."
+description: "Wenn es um Gewerberaum Störung der Geschäftsgrundlage: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Gewerberaum Störung der Geschäftsgrundlage: Fachmodul im Miet- und Wohnungseigentumsrecht

@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Handels- und Gesellschaftsrecht: stimmt Adressat (Gesellschafter/Aktionäre, Vorstand/Geschäftsführung, Aufsichtsrat), Frist (§ 246 AktG Anfechtung 1 Monat) und Form auf den Zweck ab — typische Outputs: Beschlussanfechtung, Squeeze-out-Klage, Geschäftsführerklage."
+description: "Wenn es um Output wählen in Fachanwalt Handels- und Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

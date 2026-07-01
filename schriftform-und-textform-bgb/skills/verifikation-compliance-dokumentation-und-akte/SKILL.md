@@ -1,6 +1,6 @@
 ---
 name: verifikation-compliance-dokumentation-und-akte
-description: "Verifikation: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Verifikation: Compliance-Dokumentation und Aktenvermerk in Schriftform und Textform im BGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verifikation: Compliance-Dokumentation und Aktenvermerk

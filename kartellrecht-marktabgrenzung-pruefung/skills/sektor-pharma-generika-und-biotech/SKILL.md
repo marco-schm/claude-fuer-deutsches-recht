@@ -1,6 +1,6 @@
 ---
 name: sektor-pharma-generika-und-biotech
-description: "Sektor Pharma, Generika und Biotech: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege u..."
+description: "Wenn es um Sektor Pharma, Generika und Biotech in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sektor Pharma, Generika und Biotech

@@ -1,6 +1,6 @@
 ---
 name: junior-fehler-und-supervision-rechtsprechung
-description: "Wirtschaftsprüfer: junior fehler und supervision - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Junior Fehler Und Supervision Rechtsprechung in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: junior fehler und supervision - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

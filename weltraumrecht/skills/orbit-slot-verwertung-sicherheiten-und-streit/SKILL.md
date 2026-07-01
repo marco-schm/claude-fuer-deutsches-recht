@@ -1,6 +1,6 @@
 ---
 name: orbit-slot-verwertung-sicherheiten-und-streit
-description: "Orbitpositionen als Vermögenswert – ITU-Prioritätsrecht, Verwertung, Kreditsicherheiten, ITU-Streit im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Orbit-Slot: Verwertung, Sicherheiten und Streit in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Orbit-Slot: Verwertung, Sicherheiten und Streit

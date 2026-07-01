@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-miete-polizeirecht-wohlfahrtsstaat
-description: "PrALR: Kauf, Miete, Gefahrtragung, Kauf bricht Miete und historische Modernisierungslinien aufarbeiten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Kauf und Miete in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kaufrecht Miete Polizeirecht Wohlfahrtsstaat; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Kauf und Miete

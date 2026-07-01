@@ -1,6 +1,6 @@
 ---
 name: 10-entscheidungsvorschlag-zur-richterlichen-pruefung
-description: "Strukturierter Entscheidungsvorschlag für den Richter: Tenor-Vorschlag, tragende Gründe in Stichpunkten, Risikohinweise (Beweisrisiko, Verjaehrung, Streitwert), ausdrücklich als Vorschlag zur richterlichen Prüfung markiert"
+description: "Wenn es um 10 Entscheidungsvorschlag Zur Richterlichen Prüfung in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 10 Entscheidungsvorschlag Zur Richterlichen Prüfung

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-dsgvo-und-auftragsverarbeitung
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Datenschutz DSGVO Und Auftragsverarbeitung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Datenschutz DSGVO Und Auftragsverarbeitung in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenschutz DSGVO Und Auftragsverarbeitung

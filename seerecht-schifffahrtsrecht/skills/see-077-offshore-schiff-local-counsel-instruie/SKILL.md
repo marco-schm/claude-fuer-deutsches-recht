@@ -1,6 +1,6 @@
 ---
 name: see-077-offshore-schiff-local-counsel-instruie
-description: "See- und Schifffahrtsrecht: Offshore-Schiff: Local Counsel instruieren. Local Counsel instruieren für Offshore-Schiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Offshore Schiff Local Counsel Instruie in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Offshore Schiff Local Counsel Instruie

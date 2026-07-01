@@ -1,6 +1,6 @@
 ---
 name: belegeinsicht-betriebskosten
-description: "Belegeinsicht Betriebskosten: Rechnungen, Verträge, Originalbelege, Zahlungsbelege, digitale Belege, Datenschutz, Terminorganisation, Zurückbehaltungsrecht und konkrete Einwendungen nach § 556 Abs: Belegeinsicht Betriebskosten: Rechnungen, Verträge, Origina..."
+description: "Wenn es um Belegeinsicht Betriebskosten in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Belegeinsicht Betriebskosten: Rechnungen, Verträge, Originalbelege, Zahlungsbelege, digitale Belege, Datenschutz, Terminorganisation, Zurückbehaltungsrecht und konkrete Einwendungen nach § 556 Abs

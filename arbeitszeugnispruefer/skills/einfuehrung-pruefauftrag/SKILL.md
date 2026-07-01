@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-pruefauftrag
-description: Einstieg in den Pruefauftrag fuer ein vorliegendes deutsches Arbeitszeugnis mit Festlegung des Pruefumfangs nach Paragraf 109 GewO sowie Abgrenzung zwischen einfachem und qualifiziertem Zeugnis.
+description: "Wenn es um Einfuehrung in den Pruefauftrag in Arbeitszeugnispruefer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Einfuehrung in den Pruefauftrag

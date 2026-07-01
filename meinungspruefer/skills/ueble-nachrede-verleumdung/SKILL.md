@@ -1,6 +1,6 @@
 ---
 name: ueble-nachrede-verleumdung
-description: "Prüft § 186 StGB bei ehrenrührigen Tatsachenbehauptungen, die nicht erweislich wahr sind. Trennt Tatsachenkern, Beweislast, Verdachtsäußerung, Öffentlichkeit, § 188 StGB und Art 5 GG im Meinungspruefer."
+description: "Wenn es um Paragraf 186 StGB - üble Nachrede in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 186 StGB - üble Nachrede

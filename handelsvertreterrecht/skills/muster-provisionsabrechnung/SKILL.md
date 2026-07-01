@@ -1,6 +1,6 @@
 ---
 name: muster-provisionsabrechnung
-description: "Erstellt Musterprovisonionsabrechnungen für Handelsvertreter nach § 87c HGB: vollständige Abrechnung mit Nachweis vermittelter Geschäfte, Provisionsberechnung je Auftragsposition, Stornobuchungen mit Begründung sowie Prüfcheckliste für die Handelsvertreterseite zur Kontrolle erhaltener Abrechnung..."
+description: "Wenn es um Muster-Provisionsabrechnung nach Paragraf 87c HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Muster-Provisionsabrechnung nach § 87c HGB

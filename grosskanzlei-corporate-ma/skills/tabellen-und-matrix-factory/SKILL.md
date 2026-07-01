@@ -1,6 +1,6 @@
 ---
 name: tabellen-und-matrix-factory
-description: "Tabellen- und Matrix-Fabrik für M&A: baut DD-Grids, Risk Heatmaps, Issue Lists, CP-Tracker, Authority-Matrizen, Disclosure-Schedules und Registerabgleich als direkt nutzbare Tabellen: Tabellen- und Matrix-Fabrik für M&A: baut DD-Grids, Risk Heatmaps, Issue..."
+description: "Wenn es um Tabellen Und Matrix Factory in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tabellen- und Matrix-Fabrik für M&A: baut DD-Grids, Risk Heatmaps, Issue Lists, CP-Tracker, Authority-Matrizen, Disclosure-Schedules und Registerabgleich als direkt nutzbare Tabellen.

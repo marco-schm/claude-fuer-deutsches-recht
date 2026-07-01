@@ -1,6 +1,6 @@
 ---
 name: dba-oesterreich
-description: "DBA Deutschland Oesterreich aktuelle Fassung mit Protokollen. Anwendungsfall grenzüberschreitende Beschäftigung Grenzgaenger Pensionen Beteiligungen Lizenzen Bauausführung. Grenzgaengerregelung Konsultations-Vereinbarungen Home Office. Methodenartikel Freistellung mit Aktivitaetsklausel. Output..."
+description: "Wenn es um DBA Deutschland-Oesterreich in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Oesterreich

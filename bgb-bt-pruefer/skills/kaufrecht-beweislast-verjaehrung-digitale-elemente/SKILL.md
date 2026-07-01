@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-beweislast-verjaehrung-digitale-elemente
-description: "Prüft im Kaufrecht die Beweislast für den Sachmangel bei Gefahrübergang, die B2C-Vermutung des § 477 BGB nach BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23, die Verjährung nach § 438 BGB, digitale Elemente und die B2B-Abgrenzung mit § 377 HGB."
+description: "Wenn es um Kaufrecht: Beweislast, Verjährung und digitale Elemente in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Kaufrecht: Beweislast, Verjährung und digitale Elemente

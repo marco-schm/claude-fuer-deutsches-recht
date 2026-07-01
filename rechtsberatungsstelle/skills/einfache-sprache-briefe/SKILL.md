@@ -1,6 +1,6 @@
 ---
 name: einfache-sprache-briefe
-description: "Anwalts- und Behördenbriefe in leichte oder einfache Sprache übersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behörde Gericht oder Gegenseite verstehen. BeratungsHiG kostenfreie Beratung, BRAO niedrigschwellige Erstberatung, Lei..."
+description: "Wenn es um [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant` in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant`

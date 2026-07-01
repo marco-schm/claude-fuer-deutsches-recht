@@ -1,6 +1,6 @@
 ---
 name: kanzlei-red-team-und-qualitaetskontrolle
-description: "Kanzlei: Red-Team und Qualitätskontrolle: Kanzlei: Red-Team und Qualitätskontrolle."
+description: "Wenn es um Kanzlei: Red-Team und Qualitätskontrolle in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzlei: Red-Team und Qualitätskontrolle

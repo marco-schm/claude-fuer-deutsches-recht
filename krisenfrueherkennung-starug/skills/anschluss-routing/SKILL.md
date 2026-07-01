@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Krisenfrüherkennung StaRUG: wählt den nächsten Spezial-Skill nach Engpass (Frühzeitige Indikatoren, Liquiditätsplan, Frühwarn-Indikatoren, Sanierungskonzept IDW S 6), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Krisenfrüherkennung und StaRUG-Management geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anschluss-Routing

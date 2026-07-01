@@ -1,6 +1,6 @@
 ---
 name: buchhaltung-konten-kanzlei-erechnung
-description: "Kanzlei-Buchhaltung mit Geschäftskonto offenen Posten Debitoren Kreditoren und Bankmatching. Anwendungsfall Anwalt oder Kanzleibuero will Zahlungseingang prüfen offene Posten abgleichen oder Buchhaltungsuebergabe an DATEV vorbereiten. Normen GoBD § 147 AO Aufbewahrung § 556b BGB. Prüfraster Konte..."
+description: "Wenn es um Kanzlei-Buchhaltung, Konten und Zahlungsabgleich in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzlei-Buchhaltung, Konten und Zahlungsabgleich

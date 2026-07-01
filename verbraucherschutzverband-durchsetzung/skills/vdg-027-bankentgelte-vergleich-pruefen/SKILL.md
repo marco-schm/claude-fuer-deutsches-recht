@@ -1,6 +1,6 @@
 ---
 name: vdg-027-bankentgelte-vergleich-pruefen
-description: "Verbraucherschutzverband Durchsetzung: Bankentgelte: Vergleich prüfen. Vergleich prüfen für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bankentgelte Vergleich Pruefen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Bankentgelte Vergleich Pruefen

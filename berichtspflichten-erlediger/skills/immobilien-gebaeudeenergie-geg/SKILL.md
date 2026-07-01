@@ -1,6 +1,6 @@
 ---
 name: immobilien-gebaeudeenergie-geg
-description: "Gebäudeenergie: Energieausweis, Nachrüstpflichten, Heizungsdaten, Förder-/Meldeunterlagen und Vermieter-/Eigentümerpflichten im Berichtspflichten."
+description: "Wenn es um Gebäudeenergie und GEG-Nachweise in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Gebäudeenergie und GEG-Nachweise

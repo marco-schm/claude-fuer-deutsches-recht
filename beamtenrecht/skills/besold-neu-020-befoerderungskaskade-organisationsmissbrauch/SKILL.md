@@ -1,6 +1,6 @@
 ---
 name: besold-neu-020-befoerderungskaskade-organisationsmissbrauch
-description: "Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team im Beamtenrecht."
+description: "Wenn es um Besold Befoerderungskaskade Organisationsmissbrauch Red in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besold Befoerderungskaskade Organisationsmissbrauch Red

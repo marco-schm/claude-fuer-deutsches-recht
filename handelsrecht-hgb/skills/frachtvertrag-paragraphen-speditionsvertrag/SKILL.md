@@ -1,6 +1,6 @@
 ---
 name: frachtvertrag-paragraphen-speditionsvertrag
-description: "Prüft Frachtvertrag, Frachtbrief, Haftung, Verlust/Beschädigung, Lieferfrist und Haftungsgrenzen im Handelsrecht Hgb."
+description: "Wenn es um Frachtvertrag Paragrafen 407 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frachtvertrag §§ 407 ff. HGB

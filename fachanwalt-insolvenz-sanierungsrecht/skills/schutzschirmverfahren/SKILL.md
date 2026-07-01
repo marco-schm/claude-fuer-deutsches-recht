@@ -1,6 +1,6 @@
 ---
 name: schutzschirmverfahren
-description: "Schutzschirmverfahren § 270d InsO Eigenverwaltung in Insolvenz: Vorlaeufige Eigenverwaltung Antrag drohende Zahlungsunfähigkeit. Sachwalter Aufsicht. Schutzschirm 3 Monate bei Voraussetzung San..."
+description: "Wenn es um Schutzschirmverfahren Paragraf 270d InsO Eigenverwaltung in Insolvenz in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schutzschirmverfahren § 270d InsO Eigenverwaltung in Insolvenz

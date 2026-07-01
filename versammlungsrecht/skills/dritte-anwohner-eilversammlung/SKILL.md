@@ -1,6 +1,6 @@
 ---
 name: dritte-anwohner-eilversammlung
-description: "Bearbeitet Konflikte mit Anwohnern, Geschäften, Schulen, Kirchen, Kliniken, Botschaften oder sensiblen Orten im Versammlungsrecht."
+description: "Wenn es um Drittrechte ernst nehmen ohne Verdrängung in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drittrechte ernst nehmen ohne Verdrängung

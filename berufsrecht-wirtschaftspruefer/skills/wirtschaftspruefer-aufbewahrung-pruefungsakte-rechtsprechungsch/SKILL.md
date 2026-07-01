@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-aufbewahrung-pruefungsakte-rechtsprechungsch
-description: "Wirtschaftsprüfer: aufbewahrung pruefungsakte - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Wirtschaftspruefer Aufbewahrung Pruefungsakte Rechtsprechungsch in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: aufbewahrung pruefungsakte - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

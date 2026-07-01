@@ -1,6 +1,6 @@
 ---
 name: earn-out-kaufpreismechanik
-description: "Fuehrt durch Earn-out, Milestones, Locked Box, Completion Accounts, Leakage, Kaufpreisanpassung und Streitmechanismen im Gesellschaftsrecht Legal English."
+description: "Wenn es um Earn-out und Kaufpreismechanik in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Earn-out und Kaufpreismechanik

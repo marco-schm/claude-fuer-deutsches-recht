@@ -1,6 +1,6 @@
 ---
 name: lph-02-input-und-zielcheck
-description: "HOAI LPH 2 Vorplanung: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 2 Vorplanung: Prüft eingaben in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # LPH 2 Vorplanung: Prüft eingaben

@@ -1,6 +1,6 @@
 ---
 name: ki-im-zivilprozess-rollen-und-grenzen
-description: "KI im Zivilprozess: Einsatz durch Partei, Anwalt, Gericht, Sachverstaendige und Justizverwaltung. Prüft KI-VO, ZPO, Berufsrecht, Beweisrecht, richterliche Verantwortung, rechtliches Gehoer und Grenzen automatisierter Entscheidungsunterstuetzung."
+description: "Wenn es um digitale Werkzeuge im Zivilprozess in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # KI im Zivilprozess

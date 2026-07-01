@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-stimmbindung-und-beschlussmangel-nach-hannover-9
-description: "Rechtsabteilungs-Fachmodul für Stimmbindung und Beschlussmangel nach Hannover-96-Linie: Rechtsabteilungen trennen Satzungsverstoß, schuldrechtliche Stimmbindung und Anfechtbarkeit. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Gesellschaftsrecht."
+description: "Wenn es um Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie

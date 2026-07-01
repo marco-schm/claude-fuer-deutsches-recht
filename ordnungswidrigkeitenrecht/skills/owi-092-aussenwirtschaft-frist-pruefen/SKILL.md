@@ -1,6 +1,6 @@
 ---
 name: owi-092-aussenwirtschaft-frist-pruefen
-description: "Ordnungswidrigkeitenrecht: Außenwirtschaft: Frist prüfen. Frist prüfen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Aussenwirtschaft Frist Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aussenwirtschaft Frist Pruefen

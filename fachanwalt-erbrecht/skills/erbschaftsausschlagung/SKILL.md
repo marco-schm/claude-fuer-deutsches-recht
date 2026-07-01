@@ -1,6 +1,6 @@
 ---
 name: erbschaftsausschlagung
-description: "Erbschaftsausschlagung erläutern und Erklärung formulieren wenn Erbe ueberschuldet ist oder sonstige Gründe vorliegen: §§ 1942 1944 1945..."
+description: "Wenn es um Erbschaftsausschlagung in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erbschaftsausschlagung; Arbeitsfeld: Fachanwalt Erbrecht."
 ---
 
 # Erbschaftsausschlagung erläutern und Erklärung formulieren wenn Erbe ueberschuldet ist oder sonstige Gründe vorliegen

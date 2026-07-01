@@ -1,6 +1,6 @@
 ---
 name: kaltstart-goae-rechnung-pruefen
-description: "Kaltstart GOÄ Rechnung prüfen: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Wenn es um Kaltstart GOÄ Rechnung prüfen in GOÄ Gebührenordnung für Ärzte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart GOÄ Rechnung prüfen

@@ -1,6 +1,6 @@
 ---
 name: spezial-einbuergerung-livequellen-und-rechtsprechungscheck
-description: "Einbuergerung: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Einbuergerung: Livequellen- und Rechtsprechungscheck in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einbuergerung: Livequellen- und Rechtsprechungscheck

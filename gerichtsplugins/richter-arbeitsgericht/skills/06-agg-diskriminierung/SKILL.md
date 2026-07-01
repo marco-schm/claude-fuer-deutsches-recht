@@ -1,6 +1,6 @@
 ---
 name: 06-agg-diskriminierung
-description: "AGG Paragraf 7: Benachteiligungsverbot, geschuetzte Merkmale Paragraf 1, Beweislastregel Paragraf 22, Entschaedigung und Schadensersatz Paragraf 15, Ausschlussfrist Paragraf 15 Abs. 4"
+description: "Wenn es um 06 Agg Diskriminierung in Arbeitsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 06 Agg Diskriminierung

@@ -1,6 +1,6 @@
 ---
 name: workflow-hgb-erstpruefung
-description: "Prüft in fünf Schritten, ob ein HGB-Fall vorliegt und welche Sonderregeln das BGB überlagern im Handelsrecht Hgb."
+description: "Wenn es um HGB Erstprüfung in Handelsrecht HGB geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # HGB Erstprüfung

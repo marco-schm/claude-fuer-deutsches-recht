@@ -1,6 +1,6 @@
 ---
 name: untermassverbot-schutzpflicht-dimension
-description: "Untermassverbot als Spiegelbild des Uebermassverbots. Grundrechte als objektiv-rechtliche Schutzpflicht des Staates: der Schutz muss ausreichend wirksam sein, sonst Verfassungsverstoss. Mit BVerfG-Linie Schwangerschaftsabbruch I+II, Klimaschutz-Beschluss, Reaktorkatastrophen-Schutz."
+description: "Wenn es um Untermassverbot: die andere Seite der Schranken-Schranke in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Untermassverbot: die andere Seite der Schranken-Schranke

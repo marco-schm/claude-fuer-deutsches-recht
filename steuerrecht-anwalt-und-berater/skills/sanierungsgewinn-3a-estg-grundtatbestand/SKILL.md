@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-3a-estg-grundtatbestand
-description: "Tatbestandsmerkmale des § 3a EStG: Sanierungsertrag, unternehmensbezogene Sanierung und die vier Voraussetzungen Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungsabsicht der Gläubiger und Sanierungseignung."
+description: "Wenn es um Paragraf 3a EStG — Grundtatbestand der Sanierungsertragsbefreiung in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # § 3a EStG — Grundtatbestand der Sanierungsertragsbefreiung

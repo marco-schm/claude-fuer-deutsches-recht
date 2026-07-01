@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Schriftform/Textform BGB: sortiert Vertrag, Unterschrift, qualifizierte e-Signatur, prüft Datum, Absender, Frist und Beweiswert (Empfangsbestätigung, Versandbeleg); markiert Lücken; berücksichtigt Mandatsgeheimnis Paragraf 43a BRAO."
+description: "Wenn es um Dokumentenintake in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

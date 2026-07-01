@@ -1,6 +1,6 @@
 ---
 name: entfristung-sachgrund-pruefen-14-abs-1
-description: "Sachgrundprüfung Befristung nach Paragraf 14 Absatz 1 TzBfG: acht Sachgründe; voruebergehender Bedarf; Vertretung; Erprobung; Eigenart der Leistung; haushaltsmittelbedingte Gründe; gerichtlicher Vergleich; BAG-Rechtsprechun..."
+description: "Wenn es um Sachgrundprüfung Befristung nach Paragraf 14 Abs in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sachgrundprüfung Befristung nach Paragraf 14 Abs

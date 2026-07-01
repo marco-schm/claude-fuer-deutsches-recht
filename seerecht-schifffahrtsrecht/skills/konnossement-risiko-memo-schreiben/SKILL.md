@@ -1,6 +1,6 @@
 ---
 name: konnossement-risiko-memo-schreiben
-description: "Konnossement: Gesamtrisikobewertung für Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bei Konnossements-Transaktion (Bill of Lading): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 513-525 Konnossement; HGB §§ 498-..."
+description: "Wenn es um Konnossement – Risiko-Memo schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Konnossement – Risiko-Memo schreiben

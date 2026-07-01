@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmerueberlassung-abgrenzung
-description: "Prüft Drittpersonaleinsatz zwischen Werk-/Dienstvertrag, selbständigem Einsatz und Arbeitnehmerüberlassung im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Arbeitnehmerüberlassung Abgrenzung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Arbeitnehmerüberlassung Abgrenzung

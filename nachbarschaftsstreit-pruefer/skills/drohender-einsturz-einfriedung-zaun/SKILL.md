@@ -1,6 +1,6 @@
 ---
 name: drohender-einsturz-einfriedung-zaun
-description: "Gefährliche Anlagen und drohenden Gebäudeeinsturz prüfen: §§ 907 und 908 BGB, Verkehrssicherung, Beseitigung/Sicherung, Ordnungsamt/Bauaufsicht, Eilrechtsschutz und Beweisplan im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Drohender Einsturz und gefährliche Anlage in Nachbarschaftsstreit-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Drohender Einsturz und gefährliche Anlage

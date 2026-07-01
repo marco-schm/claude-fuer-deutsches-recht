@@ -1,6 +1,6 @@
 ---
 name: widerspruchsfrist-84-sgg
-description: "Die Widerspruchsfrist nach § 84 SGG ist ein Monat. Hier lernen Sie genau Berechnung Bekanntgabefiktion vier Tage nach Postaufgabe Wochenenden Feiertage. Mit Beispielen."
+description: "Wenn es um Die Widerspruchsfrist — Paragraf 84 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Die Widerspruchsfrist — § 84 SGG

@@ -1,6 +1,6 @@
 ---
 name: mitte-internationaler-bezug-schnittstellen
-description: "Mitte: Internationaler Bezug und Schnittstellen im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kriti..."
+description: "Wenn es um Mitte: Internationaler Bezug und Schnittstellen in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mitte Internationaler Bezug Schnittstellen; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Mitte: Internationaler Bezug und Schnittstellen

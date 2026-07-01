@@ -1,6 +1,6 @@
 ---
 name: besoldung-laender-check
-description: "Länderbesoldung: Landesbesoldungsgesetz, Stufen, Sonderzahlungen, Familienzuschläge und landesspezifische Abweichungen im Beamtenrecht."
+description: "Wenn es um Besoldung Länder Check in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besoldung Länder Check

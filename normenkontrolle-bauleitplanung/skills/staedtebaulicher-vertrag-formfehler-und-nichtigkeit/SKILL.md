@@ -1,6 +1,6 @@
 ---
 name: staedtebaulicher-vertrag-formfehler-und-nichtigkeit
-description: "Prueft Schriftform, notarielle Beurkundung, Kopplungsverbot, Teilnichtigkeit und Rueckabwicklung städtebaulicher Verträge nach BauGB, VwVfG und BGB-Grundsaetzen."
+description: "Wenn es um Formfehler und Nichtigkeit städtebaulicher Verträge in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Formfehler und Nichtigkeit städtebaulicher Verträge

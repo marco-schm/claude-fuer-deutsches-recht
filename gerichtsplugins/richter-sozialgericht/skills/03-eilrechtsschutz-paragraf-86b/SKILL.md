@@ -1,6 +1,6 @@
 ---
 name: 03-eilrechtsschutz-paragraf-86b
-description: "Einstweiliger Rechtsschutz Paragraf 86b SGG: Anordnung der aufschiebenden Wirkung Abs. 1, einstweilige Anordnung Abs. 2 (Anordnungsanspruch und -grund), Existenzsicherung in Eilfaellen"
+description: "Wenn es um 03 Eilrechtsschutz Paragraf 86B in Sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 03 Eilrechtsschutz Paragraf 86B

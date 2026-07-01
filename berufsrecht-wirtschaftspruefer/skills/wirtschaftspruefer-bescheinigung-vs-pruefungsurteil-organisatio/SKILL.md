@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-bescheinigung-vs-pruefungsurteil-organisatio
-description: "Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Organisatio in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

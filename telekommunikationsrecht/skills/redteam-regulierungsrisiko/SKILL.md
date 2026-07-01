@@ -1,6 +1,6 @@
 ---
 name: redteam-regulierungsrisiko
-description: "Red-Team für TK-Projekte: Marktmacht, Zugangs-/Entgeltregulierung, Wegerecht, Sicherheit, Datenschutz, BNetzA, Kartellrecht und politische Sichtbarkeit."
+description: "Wenn es um Regulierungsrisiko Red-Team in Telekommunikationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Regulierungsrisiko Red-Team

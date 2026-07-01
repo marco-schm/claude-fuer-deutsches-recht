@@ -1,6 +1,6 @@
 ---
 name: steuerbescheid-laie
-description: "Erklärt Steuerbescheid, Einspruchsfrist, Aussetzung der Vollziehung, Nachzahlung, Vorauszahlung und Belege im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Steuerbescheid für Laien in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerbescheid für Laien

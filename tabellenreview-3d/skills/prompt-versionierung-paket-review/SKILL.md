@@ -1,6 +1,6 @@
 ---
 name: prompt-versionierung-paket-review
-description: "Prompt-Versionen für den 3D-Review verwalten: Versionierung der Spaltenprompts und Zeilenprompts. Normen: technisch/governance. Prüfraster: Versionsnummer, Änderungsprotokoll, aktive Version. Output: Prompt-Versionsprotokoll. Abgrenzung: nicht Prompt-Erstellung im Tabellenreview 3d."
+description: "Wenn es um /tabellenreview-3d:prompt-versionierung in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Prompt Versionierung Paket Review; Arbeitsfeld: Tabellenreview 3D."
 ---
 
 # /tabellenreview-3d:prompt-versionierung

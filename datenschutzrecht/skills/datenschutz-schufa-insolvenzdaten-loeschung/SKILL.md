@@ -1,6 +1,6 @@
 ---
 name: datenschutz-schufa-insolvenzdaten-loeschung
-description: "Löschung von SCHUFA-/Auskunfteidaten zur Restschuldbefreiung nach EuGH C-26/22/C-64/22 mit Art. 5 sowie Art. 17 DSGVO und öffentlichen Insolvenzbekanntmachungen."
+description: "Wenn es um Datenschutz: SCHUFA-Insolvenzdaten löschen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz: SCHUFA-Insolvenzdaten löschen

@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-messverfahren-geschwindigkeit
-description: "Verkehrsowi Messverfahren Geschwindigkeit: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Verkehrsowi Verteidiger."
+description: "Wenn es um Geschwindigkeitsmessung OWi-Verfahren in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschwindigkeitsmessung OWi-Verfahren

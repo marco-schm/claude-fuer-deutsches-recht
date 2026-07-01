@@ -1,6 +1,6 @@
 ---
 name: vorpruefung-schranke-finden
-description: "Vorpruefung Schritt 3 vor der Schranken-Schranke. Welche Schranke ist einschlaegig: einfacher Gesetzesvorbehalt, qualifizierter Gesetzesvorbehalt, kein Vorbehalt (vorbehaltlos), Schranken-Trias des Art 2 I GG. Mit Beispielen und der dogmatischen Bruecke zur Schranken-Schranke."
+description: "Wenn es um Stufe 0c: Welche Schranke gilt? in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Stufe 0c: Welche Schranke gilt?

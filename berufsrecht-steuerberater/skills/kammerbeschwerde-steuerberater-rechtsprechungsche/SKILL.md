@@ -1,6 +1,6 @@
 ---
 name: kammerbeschwerde-steuerberater-rechtsprechungsche
-description: "Steuerberater: kammerbeschwerde steuerberater - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Kammerbeschwerde Steuerberater Rechtsprechungsche in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Steuerberater: kammerbeschwerde steuerberater - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

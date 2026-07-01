@@ -1,6 +1,6 @@
 ---
 name: kommissionaer-abgrenzung
-description: "Prüft die Abgrenzung des Handelsvertreters vom Kommissionär nach §§ 383 ff. HGB: Eigengeschäft des Kommissionärs auf Rechnung des Kommittenten, kein eigener Provisionsanspruch kraft HGB, Anwendbarkeit der §§ 84-92c HGB, Ausgleichsanspruch und Auswirkungen der Qualifikation auf Vertrags- und Haftu..."
+description: "Wenn es um Abgrenzung Handelsvertreter vom Kommissionär nach Paragrafen 383 ff. HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Abgrenzung Handelsvertreter vom Kommissionär nach §§ 383 ff. HGB

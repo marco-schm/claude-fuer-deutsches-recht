@@ -1,6 +1,6 @@
 ---
 name: ausgleich-im-ma-deal
-description: "Analysiert Ausgleichsansprüche bei M&A-Transaktionen: Vertragsübergang nach § 613a BGB analog, Erlöschen des Ausgleichs nach § 89b Abs. 3 Nr. 3 HGB bei Übertragung der Agentur, Gestaltungsmöglichkeiten im Share- vs. Asset-Deal, Haftungszuweisung zwischen Veräußerer und Erwerber sowie Due-Diligenc..."
+description: "Wenn es um Ausgleichsanspruch bei M&A-Transaktionen und Unternehmensübergang in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausgleichsanspruch bei M&A-Transaktionen und Unternehmensübergang

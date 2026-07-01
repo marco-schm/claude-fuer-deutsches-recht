@@ -1,6 +1,6 @@
 ---
 name: leistungsablehnung-pruefen
-description: "Ablehnung des Versicherers prüfen nach §§ 1 28 VVG Obliegenheitsverletzung und Risikoausschluss: Anwendungsfall Versicherung hat Schadensantrag abgelehnt und Ma..."
+description: "Wenn es um Leistungsablehnung Pruefen in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ablehnung des Versicherers prüfen nach §§ 1 28 VVG Obliegenheitsverletzung und Risikoausschluss

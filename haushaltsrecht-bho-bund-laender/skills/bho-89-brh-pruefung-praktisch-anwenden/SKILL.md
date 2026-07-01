@@ -1,6 +1,6 @@
 ---
 name: bho-89-brh-pruefung-praktisch-anwenden
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 89 BRH Prüfung praktisch anwenden. BHO § 89 BRH Prüfung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die e..."
+description: "Wenn es um Bho 89 Brh Prüfung Praktisch Anwenden in Haushaltsrecht BHO Bund und Länder geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bho 89 Brh Prüfung Praktisch Anwenden

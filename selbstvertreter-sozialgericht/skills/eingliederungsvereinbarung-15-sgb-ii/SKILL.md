@@ -1,6 +1,6 @@
 ---
 name: eingliederungsvereinbarung-15-sgb-ii
-description: "Eingliederungsvereinbarung nach § 15 SGB II / nach Reform 2023 Kooperationsplan. Skill erklaert den Kooperationsplan zwischen Buergergeldbeziehenden und Jobcenter Vorgehen Pflichten Verhandlungsmoeglichkeiten und Verweigerungsfolgen. Liefert Prüfraster."
+description: "Wenn es um Eingliederungsvereinbarung 15 Sgb Ii in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eingliederungsvereinbarung 15 Sgb Ii

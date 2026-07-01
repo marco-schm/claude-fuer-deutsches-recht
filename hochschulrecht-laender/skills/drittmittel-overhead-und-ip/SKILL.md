@@ -1,6 +1,6 @@
 ---
 name: drittmittel-overhead-und-ip
-description: "Prüft Drittmittelvertrag, Overhead, Rechte, Publikation und Haushaltsbindung im Hochschulrecht Länder."
+description: "Wenn es um Drittmittel, Overhead und IP in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drittmittel, Overhead und IP

@@ -1,6 +1,6 @@
 ---
 name: legistik-europarechtskonformitaet-notifizierung
-description: "Gesetzesentwurf oder Verordnung auf Vereinbarkeit mit EU-Recht prüfen. Anwendungsfall Referent oder Verband fragt ob nationales Vorhaben mit EU-Recht vereinbar ist oder ob Notifizierungspflicht besteht. Primaerrecht EUV AEUV Grundrechtecharta Sekundaerrecht Verordnungen Richtlinien. Prüfung Anwen"
+description: "Wenn es um Europarechtskonformität in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Legistik Europarechtskonformitaet Notifizierung; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Europarechtskonformität

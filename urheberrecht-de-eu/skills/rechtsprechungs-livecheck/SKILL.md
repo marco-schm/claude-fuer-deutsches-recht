@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungs-livecheck
-description: "Sammelt nur verifizierte Rechtsprechung und amtliche Quellen für Urheberrecht, EU-Recht, Software, Musik und KI im Urheberrecht De Eu."
+description: "Wenn es um Rechtsprechungs- und Quellenlivecheck in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsprechungs- und Quellenlivecheck

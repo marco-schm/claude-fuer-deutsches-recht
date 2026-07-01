@@ -1,6 +1,6 @@
 ---
 name: board-pack-erste-100-tage
-description: "Erstellt Board-/Beiratsunterlagen für die ersten 100 Tage nach Gründung im Gesellschaftsgruender."
+description: "Wenn es um Board Pack erste 100 Tage in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Board Pack erste 100 Tage

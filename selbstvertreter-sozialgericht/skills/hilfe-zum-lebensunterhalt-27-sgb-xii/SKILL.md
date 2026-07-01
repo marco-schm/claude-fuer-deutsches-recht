@@ -1,6 +1,6 @@
 ---
 name: hilfe-zum-lebensunterhalt-27-sgb-xii
-description: "Hilfe zum Lebensunterhalt nach §§ 27 ff. SGB XII. Skill klaert die Sozialhilfe für Erwerbsfaehige ohne Anspruch auf Buergergeld und für voll Erwerbsgeminderte unter 65 Jahre. Verhältnis zu Krankenkasse Pflegekasse Rentenversicherung. Liefert Prüfraster."
+description: "Wenn es um Hilfe Zum Lebensunterhalt 27 Sgb Xii in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hilfe Zum Lebensunterhalt 27 Sgb Xii

@@ -1,6 +1,6 @@
 ---
 name: leichte-einfache-sprache
-description: "Erklärt Behördeninhalte in einfacher Sprache, ohne rechtliche Genauigkeit zu verlieren im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Leichte und einfache Sprache in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leichte und einfache Sprache

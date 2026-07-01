@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-informationsaustausch-im-branchenverband
-description: "Rechtsabteilungs-Fachmodul für Informationsaustausch im Branchenverband: Meetings, Benchmarks und Statistikmeldungen werden auf Zukunftspreise, Kosten und Kapazitäten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Kartellrecht (Marktabgrenzung): prüft konk..."
+description: "Wenn es um Rechtsabteilung: Informationsaustausch im Branchenverband in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Rechtsabteilung: Informationsaustausch im Branchenverband

@@ -1,6 +1,6 @@
 ---
 name: inso-vorsatzanfechtung-133
-description: "Vorsatzanfechtung nach § 133 InsO prüfen: Benachteiligungsvorsatz, Kenntnis, Vermutungsregel, Deckungshandlungen mit Vier-Jahres-Frist, kongruente Deckung mit Zahlungsunfähigkeit, Zahlungserleichterungs-Vermutung, nahestehende Personen und Bargeschäft § 142. Output: Indizienmatrix mit Human-Revie..."
+description: "Wenn es um Vorsatzanfechtung — Paragraf 133 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorsatzanfechtung — § 133 InsO

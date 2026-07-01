@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-mandatsakte-kontexttrennung
-description: "Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen. Verhindert, dass Kontext von einem Mandat in ein anderes übergeht. Relevant für Kanzleien mit mehreren Mandanten; für Syndikusrechtsanwälte deaktiviert."
+description: "Wenn es um Arbeitsrechtliche Mandatsakte und Kontexttrennung in Arbeitsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsrechtliche Mandatsakte und Kontexttrennung

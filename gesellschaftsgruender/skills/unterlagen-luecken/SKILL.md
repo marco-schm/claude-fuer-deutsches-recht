@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Gesellschaftsgründung: trennt fehlende Tatsachen von fehlenden Belegen (Gesellschaftsvertrag, Notarurkunde, Liste Gesellschafter), nennt pro Lücke Beweisthema, Beschaffungsweg (Handelsregister AG), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

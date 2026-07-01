@@ -1,6 +1,6 @@
 ---
 name: kommunalabgabe-gebuehr
-description: "der Länder: Kommunalabgabe: Gebühr kalkulieren im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kommunalabgabe Gebuehr Kalkulieren in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalabgabe Gebuehr Kalkulieren

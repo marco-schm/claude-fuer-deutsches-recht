@@ -1,6 +1,6 @@
 ---
 name: normhierarchie-routing
-description: "Richtige Startbahn und Normebene für ein legistisches Vorhaben bestimmen: Bundesgesetz, Landesgesetz, Rechtsverordnung, Satzung, Verwaltungsvorschrift, parlamentarischer Antrag oder Entschliessungsantrag. Anwendungsfall politische Vorgabe liegt vor und unklar ist, ob Bundesministerium, Bundestag,..."
+description: "Wenn es um Normhierarchie-Routing in Legistik-Werkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Normhierarchie-Routing

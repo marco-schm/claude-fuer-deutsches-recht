@@ -1,6 +1,6 @@
 ---
 name: datenschutz
-description: "Prüft DSGVO/BDSG bei E-Mail-Auswertung, Chatlogs, Forensik, Zugriffen, Drittstaatentransfer und Betroffenenrechten in Internal Investigations im Internal Investigations Praxis."
+description: "Wenn es um Datenschutz in Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenschutz in Internal Investigations

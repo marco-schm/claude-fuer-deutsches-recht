@@ -1,6 +1,6 @@
 ---
 name: bergung-fremder-weltraumgegenstaende-fundrecht-und-voe
-description: "Bergung von Weltraumobjekten – BGB-Fundrecht, ARRA Rückgabepflicht, LIAB, Strafrecht im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Bergung fremder Weltraumgegenstände: Fundrecht und Völkerrecht in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Bergung fremder Weltraumgegenstände: Fundrecht und Völkerrecht

@@ -1,6 +1,6 @@
 ---
 name: due-diligence-urheberrechtliche
-description: "Prüft Rechteportfolio bei Verlag, Label, Softwarehaus, Plattform, M&A und Investment im Urheberrecht De Eu."
+description: "Wenn es um Copyright Due Diligence in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Copyright Due Diligence

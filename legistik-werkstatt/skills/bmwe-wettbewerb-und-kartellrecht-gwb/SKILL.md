@@ -1,6 +1,6 @@
 ---
 name: bmwe-wettbewerb-und-kartellrecht-gwb
-description: "Sachbereich Wettbewerbsrecht und Kartellrecht (GWB) im Geschäftsbereich BMWE: Normbestand (GWB; UWG; FKVO (EU); EU-Wettbewerbsverfahrensregeln.); Akteure (Bundeskartellamt; Monopolkommission; OLG Duesseldorf; EU-Kommission GD COMP.); EU-Bezug (FKVO; Art. 101 und 102 AEUV; DMA (Digital Markets Ac..."
+description: "Wenn es um Wettbewerbsrecht und Kartellrecht (GWB) (BMWE) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wettbewerbsrecht und Kartellrecht (GWB) (BMWE)

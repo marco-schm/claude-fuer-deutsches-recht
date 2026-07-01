@@ -1,6 +1,6 @@
 ---
 name: partg-dokumentenmatrix-und-lueckenliste
-description: "PartG: Dokumentenmatrix, Lückenliste und Nachforderung im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsgruender."
+description: "Wenn es um PartG: Dokumentenmatrix, Lückenliste und Nachforderung in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # PartG: Dokumentenmatrix, Lückenliste und Nachforderung

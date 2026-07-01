@@ -1,6 +1,6 @@
 ---
 name: workflow-mandantenkommunikation
-description: "Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Regulatorisches Recht."
+description: "Wenn es um Mandantenkommunikation in Regulatorisches Recht – Plugin für deutsches geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Mandantenkommunikation

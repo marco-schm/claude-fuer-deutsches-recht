@@ -1,6 +1,6 @@
 ---
 name: transparenzregister-schnittstelle-umwandlung
-description: "Verbindet Handelsregisterdaten mit wirtschaftlich Berechtigten, GwG-Risiken und Meldepflichten im Handelsregister Praxis."
+description: "Wenn es um Transparenzregister-Schnittstelle in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transparenzregister-Schnittstelle

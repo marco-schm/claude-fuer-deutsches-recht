@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-preisangaben-reise
-description: "Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis, Ranking, Zusatzkosten und manipulative Gestaltung.; Normanker: PAngV; UWG §§ 3 und 5 und 5a; DSA-Schnittstellen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht."
+description: "Wenn es um Verbraucherrecht Preisangaben Reise in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis, Ranking, Zusatzkosten und manipulative Gestaltung.

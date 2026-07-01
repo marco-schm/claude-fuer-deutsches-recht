@@ -1,6 +1,6 @@
 ---
 name: tatsaechliche-verstaendigung-schlussbesprechung
-description: "Anw Tatsaechliche Verstaendigung Schlussbesprechung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Tatsächliche Verständigung / Schlussbesprechung / Steuer-Vergleich in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tatsächliche Verständigung / Schlussbesprechung / Steuer-Vergleich

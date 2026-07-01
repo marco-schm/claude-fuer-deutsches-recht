@@ -1,6 +1,6 @@
 ---
 name: mahnung-red-team-und-qualitaetskontrolle
-description: "Mahnung: Red-Team und Qualitätskontrolle im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Mahnung: Red-Team und Qualitätskontrolle in Fluggastrechte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mahnung: Red-Team und Qualitätskontrolle

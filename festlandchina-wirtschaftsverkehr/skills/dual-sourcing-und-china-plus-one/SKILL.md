@@ -1,6 +1,6 @@
 ---
 name: dual-sourcing-und-china-plus-one
-description: "Planung und Umsetzung von Dual-Sourcing-Strategien und China-Plus-One-Modellen: Alternativstandorte (Vietnam/Indien/Mexiko), Make-or-Buy-Analyse, LkSG-Konformität neuer Lieferanten, Kostenmodell, Vertragsstruktur Parallellieferanten, BAFA-Freigabe für Technologietransfer. Output: Dual-Sourcing-Bu..."
+description: "Wenn es um Dual-Sourcing und China-Plus-One: Planung und Umsetzung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dual-Sourcing und China-Plus-One: Planung und Umsetzung

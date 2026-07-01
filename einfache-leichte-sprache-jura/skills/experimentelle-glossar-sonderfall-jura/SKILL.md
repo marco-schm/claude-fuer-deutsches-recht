@@ -1,6 +1,6 @@
 ---
 name: experimentelle-glossar-sonderfall-jura
-description: "Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine in Einfache und Leichte Sprache für juristische Texte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine

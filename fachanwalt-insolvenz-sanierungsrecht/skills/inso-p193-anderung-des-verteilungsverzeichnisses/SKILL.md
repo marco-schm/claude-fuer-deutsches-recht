@@ -1,6 +1,6 @@
 ---
 name: inso-p193-anderung-des-verteilungsverzeichnisses
-description: "§ 193 InsO (Änderung des Verteilungsverzeichnisses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 193 InsO (Änderung des Verteilungsverzeichnisses) im Mandat prüfen: Normzweck, Tatbestan..."
+description: "Wenn es um Inso P193 Anderung Des Verteilungsverzeichnisses in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 193 InsO (Änderung des Verteilungsverzeichnisses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

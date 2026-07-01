@@ -1,6 +1,6 @@
 ---
 name: hauptverhandlung-vorbereiten
-description: "Hauptverhandlung im Strafverfahren vorbereiten: Anwendungsfall Strafverteidiger muss Hauptverhandlung strukturiert vorbereiten mit Einlassung Beweisanträgen und Verfahrenstaktik: Hauptverhandlung im Strafverfahren vorbereiten: Anwendungsfall Strafverteidige..."
+description: "Wenn es um Hauptverhandlung Vorbereiten in Fachanwalt Strafrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Hauptverhandlung im Strafverfahren vorbereiten: Anwendungsfall Strafverteidiger muss Hauptverhandlung strukturiert vorbereiten mit Einlassung Beweisanträgen und Verfahrenstaktik

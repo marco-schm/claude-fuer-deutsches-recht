@@ -1,6 +1,6 @@
 ---
 name: klage-klinikakten-bescheide-klinikverbund
-description: "Klage gegen Budgetbescheid (Land) oder Schiedsstellenentscheidung: Rechtsweg, Verwaltungs- vs. Sozialgericht, Klagearten, Frist, Begruendung, einstweiliger Rechtsschutz im Krankenhausrecht."
+description: "Wenn es um Klage gegen Budgetbescheid oder Schiedsstellenentscheidung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klage gegen Budgetbescheid oder Schiedsstellenentscheidung

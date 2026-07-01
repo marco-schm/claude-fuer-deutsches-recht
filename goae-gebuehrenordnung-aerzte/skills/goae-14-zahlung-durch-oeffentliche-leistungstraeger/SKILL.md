@@ -1,6 +1,6 @@
 ---
 name: goae-14-zahlung-durch-oeffentliche-leistungstraeger
-description: "GOÄ § 14 Zahlung durch öffentliche Leistungsträger: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise im Goae Gebührenordnung..."
+description: "Wenn es um GOÄ Paragraf 14 Zahlung durch öffentliche Leistungsträger in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GOÄ § 14 Zahlung durch öffentliche Leistungsträger

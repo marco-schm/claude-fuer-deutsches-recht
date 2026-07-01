@@ -1,6 +1,6 @@
 ---
 name: stempelt-internationaler-bezug-und-schnittstellen
-description: "Stempelt: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Stempelt: Internationaler Bezug und Schnittstellen in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Stempelt Internationaler Bezug Und Schnittstellen; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Stempelt: Internationaler Bezug und Schnittstellen

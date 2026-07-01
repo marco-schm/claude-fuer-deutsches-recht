@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmas
-description: "Ressortaufgaben BMAS: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium für Arbeit und Soziales. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und..."
+description: "Wenn es um Ressortaufgaben BMAS in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressortaufgaben BMAS

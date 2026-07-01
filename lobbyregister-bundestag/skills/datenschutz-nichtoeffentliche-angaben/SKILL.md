@@ -1,6 +1,6 @@
 ---
 name: datenschutz-nichtoeffentliche-angaben
-description: "Ordnet öffentliche und nicht öffentliche Registerangaben, personenbezogene Daten, interne Nachweise und Portalveröffentlichung. Output Datenschutzkarte im Lobbyregister Bundestag."
+description: "Wenn es um Datenschutz und nicht öffentliche Angaben in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz und nicht öffentliche Angaben

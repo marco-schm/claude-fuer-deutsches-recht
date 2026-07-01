@@ -1,6 +1,6 @@
 ---
 name: binnenschiff-versicherung-melden
-description: "Binnenschiff: Schadensereignis an Binnenmotorgueterschiff; Tanker oder Fahrgastschiff melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht..."
+description: "Wenn es um Binnenschiff – Schadensfall bei Versicherung melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Binnenschiff – Schadensfall bei Versicherung melden

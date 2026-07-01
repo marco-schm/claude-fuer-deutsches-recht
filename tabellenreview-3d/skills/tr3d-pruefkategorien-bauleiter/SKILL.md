@@ -1,6 +1,6 @@
 ---
 name: tr3d-pruefkategorien-bauleiter
-description: "Bauleiter Prüfkategorien für Insolvenztabellenreview: Forderungsgrund, Bewertung, Bestreitenshistorie, Verteilungsquote. Prüfraster für drei-dimensionalen Aufbau."
+description: "Wenn es um TR3D: Prüfkategorien Bauleiter in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tr3d Pruefkategorien Bauleiter; Arbeitsfeld: Tabellenreview 3D."
 ---
 
 # TR3D: Prüfkategorien Bauleiter

@@ -1,6 +1,6 @@
 ---
 name: memorandum-dokumentenmatrix-und-lueckenliste
-description: "Memorandum: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Memorandum: Dokumentenmatrix, Lückenliste und Nachforderung in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Memorandum: Dokumentenmatrix, Lückenliste und Nachforderung

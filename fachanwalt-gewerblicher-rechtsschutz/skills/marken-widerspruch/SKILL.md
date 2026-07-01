@@ -1,6 +1,6 @@
 ---
 name: marken-widerspruch
-description: "Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren: §§ 42 43 MarkenG Widerspruchsverfahren Art. 46 EUTMR. Prüfraster: Widerspruchsfrist Widerspruchsmar..."
+description: "Wenn es um Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren

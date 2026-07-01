@@ -1,6 +1,6 @@
 ---
 name: management-participation-rollover
-description: Strukturisiert Management-Beteiligungen, Rollover, Leaver-Regeln, Vesting, Governance und Deal-Dokumente für M&A-Transaktionen.
+description: "Wenn es um Management Participation und Rollover in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 # Management Participation und Rollover
 

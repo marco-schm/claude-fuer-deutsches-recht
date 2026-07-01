@@ -1,6 +1,6 @@
 ---
 name: note-2-formeln-erkennen
-description: Erkennung von Note-2-Formulierungen im Arbeitszeugnis durch Identifikation der Standardsteigerer wie stets oder jederzeit in Verbindung mit positiven Bewertungsaussagen und Abgrenzung zur Note 1.
+description: "Wenn es um Note-2-Formeln erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Note-2-Formeln erkennen

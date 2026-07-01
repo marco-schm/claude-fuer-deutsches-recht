@@ -1,6 +1,6 @@
 ---
 name: weg-kostenverteilung
-description: "WEG Kostenverteilung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft § 16 WEG, Öffnungsklauseln, Einzelfallkosten, Beschlusswortlaut; mit Normprüfung, Beweisen, Fristen, Risikoampel..."
+description: "Wenn es um WEG Kostenverteilung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Kostenverteilung: Fachmodul im Miet- und Wohnungseigentumsrecht

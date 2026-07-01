@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt
-description: "Workflow-Skill zu fachanwalt familienrecht duesseldorfer tabelle unterhalt. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Wenn es um Unterhaltsberechnung Düsseldorfer Tabelle in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterhaltsberechnung Düsseldorfer Tabelle

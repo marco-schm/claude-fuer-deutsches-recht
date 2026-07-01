@@ -1,6 +1,6 @@
 ---
 name: lohn-umlage-u1-u2-insogeld
-description: "Umlagen U1 U2 Insolvenzgeld-Umlage. Anwendungsfall AG-Umlagen monatlich Erstattung Krankheit Mutterschaft Insolvenz Berechnung Saetze Variabilitaet KK. Methodik Prüfung Pflicht Kleinunternehmer 30 AN. Output Umlage-Berechnung."
+description: "Wenn es um Umlagen U1, U2, Insolvenzgeld in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Lohn Umlage U1 U2 Insogeld; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Umlagen U1, U2, Insolvenzgeld

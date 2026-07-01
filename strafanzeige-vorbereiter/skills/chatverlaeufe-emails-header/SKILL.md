@@ -1,6 +1,6 @@
 ---
 name: chatverlaeufe-emails-header
-description: "Chatverläufe, EML-Dateien, E-Mail-Header, Messenger-Screenshots, Export und Kontext sichern im Strafanzeige-Vorbereitung."
+description: "Wenn es um Chats, E-Mails und Header sichern in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chats, E-Mails und Header sichern

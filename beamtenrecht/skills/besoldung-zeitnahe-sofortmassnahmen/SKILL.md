@@ -1,6 +1,6 @@
 ---
 name: besoldung-zeitnahe-sofortmassnahmen
-description: "Besoldungsnachzahlung praktisch sichern: zeitnahe Geltendmachung, Widerspruch, Antrag, Musterverfahren, Ruhendstellung, Verjährung, Haushaltsjahrlogik und sichere Mandantenkommunikation im Beamtenrecht."
+description: "Wenn es um Besoldung - zeitnahe Geltendmachung und Musterverfahren in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Besoldung - zeitnahe Geltendmachung und Musterverfahren

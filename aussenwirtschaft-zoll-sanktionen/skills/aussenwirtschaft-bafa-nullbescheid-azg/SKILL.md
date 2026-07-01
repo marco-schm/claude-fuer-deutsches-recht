@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-bafa-nullbescheid-azg
-description: "Vertiefter Skill fuer BAFA Nullbescheid Azg. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: "Wenn es um BAFA Nullbescheid Azg in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BAFA Nullbescheid Azg

@@ -1,6 +1,6 @@
 ---
 name: gaststaette-und-sondernutzung
-description: "Erklärt Erlaubnis, Auflagen, Außengastronomie, Sondernutzung, Lärm, Hygiene und Ordnungsamt im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Gaststätte und Sondernutzung in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gaststätte und Sondernutzung

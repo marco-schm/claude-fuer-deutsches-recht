@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-vob-c-din-checklisten
-description: "Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten für die Bauueberwachung. Umfasst Prüfrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten für Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRada..."
+description: "Wenn es um VOB/C-DIN-Checklisten in der Bauueberwachung LPH 8 in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VOB/C-DIN-Checklisten in der Bauueberwachung LPH 8

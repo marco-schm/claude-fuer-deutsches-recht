@@ -1,6 +1,6 @@
 ---
 name: eu-abgrenzung-einschlaegige-normen
-description: "Klaert die Abgrenzung zwischen nationalem deutschen Recht und Unionsrecht: wann gilt AEUV/EUV/GRCh/Verordnung/Richtlinie unmittelbar, wann richtlinienkonforme Auslegung, wann Vorabentscheidungsersuchen Art. 267 AEUV und Anwendungsvorrang im Subsumtions Prüfer."
+description: "Wenn es um Deutsches Recht und Unionsrecht — Abgrenzung in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsches Recht und Unionsrecht — Abgrenzung
@@ -74,7 +74,7 @@ Parallelgrundrechte: Art. 7 GRCh / Art. 2 Abs. 1 GG (Privatleben); Art. 8 GRCh /
 
 ## Ausgabe
 
-Entscheidungsbaum mit Schritt-für-Schritt-Prüfung: Liegt Unionsrechtsbezug vor? → Welche Rechtsquelle? → Anwendungsvorrang? → Richtlinienkonforme Auslegung nötig? → Vorabentscheidungsersuchen prüfen (→ Skill eu-vorabentscheidung-pruefen).
+Entscheidungsbaum mit Schritt-für-Schritt-Prüfung: Liegt Unionsrechtsbezug vor? → Welche Rechtsquelle? → Anwendungsvorrang? → Richtlinienkonforme Auslegung nötig? → Vorabentscheidungsersuchen prüfen (→ Skill eu-vorabentscheidung-falsche-wiese).
 
 ---
 

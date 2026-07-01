@@ -1,6 +1,6 @@
 ---
 name: ihl-034-anti-dumping-und-ausgleichszoelle
-description: "Internationales Handelsrecht und Lex Mercatoria: Anti Dumping Und Ausgleichszoelle. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Anti Dumping Und Ausgleichszoelle in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anti Dumping Und Ausgleichszoelle

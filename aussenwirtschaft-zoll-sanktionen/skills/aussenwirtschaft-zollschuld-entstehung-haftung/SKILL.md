@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollschuld-entstehung-haftung
-description: "Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Überlassung zum zollrechtlich freien Verkehr und Sondertatbestaende (Art. 79 bei Pflichtversto) Schuldnerkreis und gesamtschuldnerische Haftung. Verjährungsfristen Nacherhebungsfristen und Erlaessmoeglichkeiten nach UZK Art. 116 f..."
+description: "Wenn es um Zollschuldentstehung und Haftung: Schuldner Nacherhebung und Erlass in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zollschuldentstehung und Haftung: Schuldner Nacherhebung und Erlass

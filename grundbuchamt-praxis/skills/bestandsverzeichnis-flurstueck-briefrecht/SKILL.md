@@ -1,6 +1,6 @@
 ---
 name: bestandsverzeichnis-flurstueck-briefrecht
-description: "Prüft Grundstück, Flurstück, Gemarkung, Wirtschaftsart, Zuschreibung, Bestandsteil und Katasterabgleich im Grundbuchamt Praxis."
+description: "Wenn es um Bestandsverzeichnis verstehen in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bestandsverzeichnis verstehen

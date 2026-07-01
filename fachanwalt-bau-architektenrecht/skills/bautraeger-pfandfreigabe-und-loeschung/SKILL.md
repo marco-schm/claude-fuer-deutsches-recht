@@ -1,6 +1,6 @@
 ---
 name: bautraeger-pfandfreigabe-und-loeschung
-description: "Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung: Skill klaert das Verfahren wie nach Bezahlung die Pfandentnahme erfolgt und die Wohnung lastenfrei wird. Folgen bei Verweigerung. Liefert P..."
+description: "Wenn es um Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung

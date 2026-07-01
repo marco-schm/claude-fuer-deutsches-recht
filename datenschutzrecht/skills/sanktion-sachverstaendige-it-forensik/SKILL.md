@@ -1,6 +1,6 @@
 ---
 name: sanktion-sachverstaendige-it-forensik
-description: "Datenschutzrecht-Brückenskill: IT-Forensik und Sachverständige: Gutachten zu Logs, TOMs, Verschlüsselung, Löschung, Zugriffen und Datenabfluss gerichtsfest vorbereiten. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz..."
+description: "Wenn es um IT-Forensik und Sachverständige in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IT-Forensik und Sachverständige

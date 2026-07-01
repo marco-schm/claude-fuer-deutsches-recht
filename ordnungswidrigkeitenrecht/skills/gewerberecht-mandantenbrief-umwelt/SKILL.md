@@ -1,6 +1,6 @@
 ---
 name: gewerberecht-mandantenbrief-umwelt
-description: "Gewerberecht: Mandantenbrief schreiben im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Gewerberecht Mandantenbrief Schreiben in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gewerberecht Mandantenbrief Schreiben

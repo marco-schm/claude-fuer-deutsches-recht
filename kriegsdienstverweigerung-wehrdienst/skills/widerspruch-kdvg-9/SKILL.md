@@ -1,6 +1,6 @@
 ---
 name: widerspruch-kdvg-9
-description: "Erstellt Widerspruch gegen Ablehnung oder verfahrensrelevante Entscheidung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Widerspruch Paragraf 9 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Widerspruch § 9 KDVG

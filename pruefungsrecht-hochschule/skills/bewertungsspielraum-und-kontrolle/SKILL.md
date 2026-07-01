@@ -1,6 +1,6 @@
 ---
 name: bewertungsspielraum-und-kontrolle
-description: "Prüft Bewertungsspielraum und gerichtliche Kontrolle im Prüfungsrecht Hochschule."
+description: "Wenn es um Bewertungsspielraum Und Kontrolle in Prüfungsrecht an Hochschulen und Universitäten geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bewertungsspielraum Und Kontrolle

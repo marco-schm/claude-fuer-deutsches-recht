@@ -1,6 +1,6 @@
 ---
 name: begrenzte-dienstfaehigkeit-27-bbg
-description: "Skill zur begrenzten Dienstfaehigkeit nach § 27 BBG bzw. § 27 BeamtStG. Klaert die Voraussetzungen für die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhältnis zu § 26 BBG Dienstunfaehigkeit die Bezuegehoehe bei begrenzter Dienstfaehigkeit und die Auswirkungen auf die V..."
+description: "Wenn es um Begrenzte Dienstfaehigkeit nach Paragraf 27 BBG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Begrenzte Dienstfaehigkeit nach § 27 BBG

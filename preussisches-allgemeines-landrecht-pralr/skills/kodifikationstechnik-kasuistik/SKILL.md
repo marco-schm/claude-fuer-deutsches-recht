@@ -1,6 +1,6 @@
 ---
 name: kodifikationstechnik-kasuistik
-description: "PrALR: kasuistische Regelungstechnik, Richterbindung, Lückensteuerung und Gesetzeskommissionslogik analysieren."
+description: "Wenn es um Kasuistik und Richterbindung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kodifikationstechnik Kasuistik; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Kasuistik und Richterbindung

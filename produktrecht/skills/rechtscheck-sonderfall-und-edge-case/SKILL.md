@@ -1,6 +1,6 @@
 ---
 name: rechtscheck-sonderfall-und-edge-case
-description: "Rechtscheck: Sonderfall und Edge-Case-Prüfung im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Rechtscheck: Sonderfall und Edge-Case-Prüfung in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtscheck: Sonderfall und Edge-Case-Prüfung

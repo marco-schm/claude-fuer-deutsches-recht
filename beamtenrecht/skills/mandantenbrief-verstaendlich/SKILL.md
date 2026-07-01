@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-verstaendlich
-description: "Verständlicher Mandantenbrief: erklärt Beamtenrecht ohne Amtsdeutsch und mit klarer Handlungsliste im Beamtenrecht."
+description: "Wenn es um Mandantenbrief Verstaendlich Beamtenrecht in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mandantenbrief Verstaendlich Beamtenrecht

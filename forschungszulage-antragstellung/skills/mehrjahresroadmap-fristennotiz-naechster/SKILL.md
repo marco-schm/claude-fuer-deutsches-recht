@@ -1,6 +1,6 @@
 ---
 name: mehrjahresroadmap-fristennotiz-naechster
-description: "Mehrjahresroadmap: Fristennotiz und nächster Schritt im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
+description: "Wenn es um Mehrjahresroadmap: Fristennotiz und nächster Schritt in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mehrjahresroadmap Fristennotiz Naechster; Arbeitsfeld: Forschungszulage-Antragstellung."
 ---
 
 # Mehrjahresroadmap: Fristennotiz und nächster Schritt

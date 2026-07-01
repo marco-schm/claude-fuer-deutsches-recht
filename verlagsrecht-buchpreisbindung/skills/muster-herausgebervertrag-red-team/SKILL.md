@@ -1,6 +1,6 @@
 ---
 name: muster-herausgebervertrag-red-team
-description: "Red-Team-Prüfung eines Muster-Herausgebervertrags: Sammelwerk-Besonderheiten nach UrhG § 4, Beitragsautoren-Rechtekette, Vergütung, Haftung und Klauselanalyse."
+description: "Wenn es um Muster-Herausgebervertrag: Red-Team-Prüfung in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Muster-Herausgebervertrag: Red-Team-Prüfung

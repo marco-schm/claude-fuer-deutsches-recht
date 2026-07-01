@@ -1,6 +1,6 @@
 ---
 name: markenanmeldung
-description: "Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten: §§ 3 7 8 9 MarkenG Schutzvoraussetzungen Art. 4 7 EUTMR. Prüfraster: Markenfähigkeit absolute Schutzhindern..."
+description: "Wenn es um Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten

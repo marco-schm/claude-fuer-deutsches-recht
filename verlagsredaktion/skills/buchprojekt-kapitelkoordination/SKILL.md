@@ -1,6 +1,6 @@
 ---
 name: buchprojekt-kapitelkoordination
-description: "Steuert Buchprojekte, Kapitel, Autoren, Herausgeber, Register, Abbildungen, Vorwort, Fristen und Produktionsstand im Verlagsredaktion."
+description: "Wenn es um Buchprojekt- und Kapitelkoordination in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buchprojekt- und Kapitelkoordination

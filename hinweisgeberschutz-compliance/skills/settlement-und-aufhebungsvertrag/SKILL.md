@@ -1,6 +1,6 @@
 ---
 name: settlement-und-aufhebungsvertrag
-description: "Prüft Aufhebungs- und Vergleichsklauseln auf HinSchG-Fallen im Hinweisgeberschutz Compliance."
+description: "Wenn es um Settlement Und Aufhebungsvertrag in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Settlement Und Aufhebungsvertrag

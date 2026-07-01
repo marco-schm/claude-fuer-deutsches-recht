@@ -1,6 +1,6 @@
 ---
 name: lph-09-anwaltlicher-pruefvermerk
-description: "HOAI LPH 9 Objektbetreuung: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 9 Objektbetreuung: Erstellt anwaltliches kurzmemorandum zum lph-stand in HOAI Leistungsphasen Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 9 Objektbetreuung: Erstellt anwaltliches kurzmemorandum zum lph-stand

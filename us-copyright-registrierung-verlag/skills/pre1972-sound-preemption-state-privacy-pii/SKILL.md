@@ -1,6 +1,6 @@
 ---
 name: pre1972-sound-preemption-state-privacy-pii
-description: "Prüft Schutz alter Tonaufnahmen, Term, State-Law-Abloesung, Restoration, Remaster und Library/Archive-Risiken im Us Copyright Registrierung Verlag."
+description: "Wenn es um Pre-1972 Sound Recordings Paragraf 1401 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Pre-1972 Sound Recordings § 1401

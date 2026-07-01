@@ -1,6 +1,6 @@
 ---
 name: cisg-notices-vertragsschluss-wesentliche
-description: "Internationales Handelsrecht: Untersuchungs- und Rügepflicht nach CISG Art. 38-39 und Art. 43. Beginn der Prüffrist, Anforderungen an die Rüge (Spezifizierungspflicht), Zwei-Jahres-Frist Art. 39 Abs. 2 und Entschuldigungsgründe Art. 44 im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Fristen und Notices: Untersuchung und Rüge (CISG Art. 38-44) in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen und Notices: Untersuchung und Rüge (CISG Art. 38-44)

@@ -1,6 +1,6 @@
 ---
 name: generator-red-team-und-qualitaetskontrolle
-description: "Generator: Red-Team und Qualitätskontrolle: Generator: Red-Team und Qualitätskontrolle."
+description: "Wenn es um Generator: Red-Team und Qualitätskontrolle in Datenschutzrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Generator: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: jus-referendariat-stationen-staatsexamen
-description: "Spezialfall Referendariatsstationen Strafrecht / Zivilrecht / Verwaltung / Anwalt / Wahl: Aufgaben, Beurteilung, Aktenvortrag. Prüfraster für Referendar im Jurastudium."
+description: "Wenn es um JuS: Referendariat-Stationen in Jurastudium geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # JuS: Referendariat-Stationen

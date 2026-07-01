@@ -1,6 +1,6 @@
 ---
 name: workflow-studium-ausbildung-start
-description: "Studium/Ausbildung Start: Prüfungslinie für Migrationsrecht: prüft Zulassung, Finanzierung, Sprache, Wechsel, Erwerbstätigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nut..."
+description: "Wenn es um Studium/Ausbildung Start: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Studium/Ausbildung Start: Prüfungslinie für Migrationsrecht

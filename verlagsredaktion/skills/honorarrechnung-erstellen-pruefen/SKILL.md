@@ -1,6 +1,6 @@
 ---
 name: honorarrechnung-erstellen-pruefen
-description: "Honorarrechnung erstellen und prüfen: Pflichtangaben, USt-Behandlung, Kleinunternehmer, Reverse Charge, Auslandsautoren, KSK. Mit Musterrechnungen für Aufsatz, Beitrag, Werk im Verlagsredaktion."
+description: "Wenn es um Honorarrechnung erstellen und prüfen in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Honorarrechnung erstellen und prüfen

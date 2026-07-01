@@ -1,6 +1,6 @@
 ---
 name: sachsenspiegel-und-landrechte
-description: "Deutsche Rechtsgeschichte: Sachsenspiegel (ca. 1220-1235) und mittelalterliche Landrechte. Eike von Repgow, Landrecht und Lehnrecht, Dreistaendeordnung, Ueberlieferung in Handschriften und Einfluss auf spaeteres Recht im Deutsche Rechtsgeschichte."
+description: "Wenn es um Sachsenspiegel und Landrechte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sachsenspiegel und Landrechte

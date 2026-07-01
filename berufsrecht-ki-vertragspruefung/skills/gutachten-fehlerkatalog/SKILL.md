@@ -1,6 +1,6 @@
 ---
 name: gutachten-fehlerkatalog
-description: "Gutachten Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Wenn es um Gutachten Fehlerkatalog in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gutachten Fehlerkatalog

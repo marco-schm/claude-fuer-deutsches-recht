@@ -1,6 +1,6 @@
 ---
 name: luft-015-gefahrgut-luftfracht
-description: "Luftrecht und Flughafenrecht: Gefahrgut Luftfracht. Gefahrgut Luftfracht im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Gefahrgut Luftfracht in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gefahrgut Luftfracht

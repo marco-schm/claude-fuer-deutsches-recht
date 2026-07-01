@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-inklusion-batterie
-description: "Prüft Barrierefreiheit, Inklusion und diskriminierungsarme Bedienung bei Robotikprodukten und Nutzerinterfaces im Robotik-Recht."
+description: "Wenn es um Barrierefreiheit und Inklusion bei Robotern in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Barrierefreiheit Inklusion Batterie; Arbeitsfeld: robotik-recht."
 ---
 
 # Barrierefreiheit und Inklusion bei Robotern

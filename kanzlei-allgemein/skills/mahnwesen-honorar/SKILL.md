@@ -1,6 +1,6 @@
 ---
 name: mahnwesen-honorar
-description: "Mahnwesen für eigene Honorarforderungen der Kanzlei gegenüber Mandanten. Anwendungsfall Mandant hat Rechnung nicht bezahlt und Kanzlei muss mahnen oder klagen. Normen § 286 BGB Verzugsbeginn § 288 BGB Verzugszinsen § 23 Nr. 1 GVG AG-Zuständigkeit bis 10000 EUR ab 01.01.2026 § 688 ff. ZPO Mahnverf..."
+description: "Wenn es um Mahnwesen für Kanzleihonorar in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mahnwesen für Kanzleihonorar

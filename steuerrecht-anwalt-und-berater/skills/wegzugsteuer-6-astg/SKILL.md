@@ -1,6 +1,6 @@
 ---
 name: wegzugsteuer-6-astg
-description: "Vollstaendige Bearbeitung der Wegzugsbesteuerung bei Kapitalanteilen iSd § 17 EStG — Tatbestand Folgen Stundung und Rueckkehrregelung nach der AStG-Reform. Anwendungsfall Mandant zieht ins Ausland oder uebertraegt Anteile an im Ausland Ansaessige — Frage nach fingierten Veraeusserungsgewinnen und"
+description: "Wenn es um Wegzugsteuer — Paragraf 6 AStG nach AStG-Reform 2022 in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Wegzugsteuer 6 Astg; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Wegzugsteuer — § 6 AStG nach AStG-Reform 2022

@@ -1,6 +1,6 @@
 ---
 name: zugang-neu-008-kschklage-frist-streitigem-zugang
-description: "Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang

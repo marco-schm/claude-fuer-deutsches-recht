@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation
-description: "Mandantenkommunikation im Bereich nda-abgleich: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Mandantenkommunikation in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Mandantenkommunikation

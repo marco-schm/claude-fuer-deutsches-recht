@@ -1,6 +1,6 @@
 ---
 name: onboarding-datenschutz-und-it-accounts
-description: "Berliner Start-up-HR: IT-Accounts und Datenschutz beim Onboarding: Rollenrechte, MFA, Geräte, Slack, HRIS, MDM und Zugriffskontrolle. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Onboarding Datenschutz Und IT Accounts in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Onboarding Datenschutz Und IT Accounts

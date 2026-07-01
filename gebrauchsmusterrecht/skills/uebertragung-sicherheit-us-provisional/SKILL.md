@@ -1,6 +1,6 @@
 ---
 name: uebertragung-sicherheit-us-provisional
-description: "Übertragung, Sicherheiten und Registerumschreibung prüfen: Rechtekette, Abtretung, Pfand, Asset Deal, Closing und Registervollzug im Gebrauchsmusterrecht."
+description: "Wenn es um Uebertragung Und Sicherheit in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Uebertragung Und Sicherheit

@@ -1,6 +1,6 @@
 ---
 name: amts-aktenintake-zivil-anspruchsgrundlagen
-description: "Amts: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Amts: Fristen, Form, Zuständigkeit und Rechtsweg in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Amts Aktenintake Zivil Anspruchsgrundlagen; Arbeitsfeld: Urteilsbauer und Relationsmacher."
 ---
 
 # Amts: Fristen, Form, Zuständigkeit und Rechtsweg

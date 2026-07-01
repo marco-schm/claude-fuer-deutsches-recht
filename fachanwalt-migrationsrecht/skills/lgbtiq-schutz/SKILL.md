@@ -1,6 +1,6 @@
 ---
 name: lgbtiq-schutz
-description: "LSBTIQ*-Schutzgründe: Fachmodul im Migrationsrecht: prüft soziale Gruppe, Verfolgung, Diskretionserwartung, Länderquellen sensibel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um LSBTIQ*-Schutzgründe: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LSBTIQ*-Schutzgründe: Fachmodul im Migrationsrecht

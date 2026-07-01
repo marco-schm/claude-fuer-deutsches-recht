@@ -1,6 +1,6 @@
 ---
 name: gwg-kyc-ubo-und-sanctions
-description: "Prüft wirtschaftlich Berechtigte, Mittelherkunft, PEP, Sanktionen, Russland-/China-/Dual-Use-Risiken und Transaktionssperren im Private Equity Praxis."
+description: "Wenn es um GwG, KYC, UBO und Sanktionen in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # GwG, KYC, UBO und Sanktionen

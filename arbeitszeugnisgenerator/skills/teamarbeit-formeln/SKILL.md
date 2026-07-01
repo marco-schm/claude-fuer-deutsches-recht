@@ -1,6 +1,6 @@
 ---
 name: teamarbeit-formeln
-description: "Formulierungskatalog für Teamarbeits- und Kollegialitätsaussagen im Zeugnis. Enthält Formeln für alle Noten sowie eine Liste riskanter Formulierungen, die ungewollt Konfliktsignale oder Alkohol-/Geselligkeitslesarten erzeugen. Die Teamaussage steht im Verhaltensabschnitt und muss zur Gesamtnote passen."
+description: "Wenn es um Teamarbeit-Formeln in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Teamarbeit-Formeln

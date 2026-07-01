@@ -1,6 +1,6 @@
 ---
 name: spendenrecht-partei-sponsoring-staatliche
-description: "Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländische Spenden, Veröffentlichung und Weiterleitung im Parteienrecht."
+description: "Wenn es um Parteispende in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Spendenrecht Partei Sponsoring Staatliche; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Parteispende

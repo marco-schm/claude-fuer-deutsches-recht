@@ -1,6 +1,6 @@
 ---
 name: commodity-trade
-description: "Internationales Handelsrecht: Commodity-Handel — Rohstoff- und Agrarprodukthandel. GAFTA/FOSFA-Standardverträge, ISDA-Rahmenverträge für Derivate, Preissicherung (Hedging), String-Trading-Struktur, Ware-Dokument-Prinzip und CISG-Anwendbarkeit im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Commodity Trade in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Commodity Trade

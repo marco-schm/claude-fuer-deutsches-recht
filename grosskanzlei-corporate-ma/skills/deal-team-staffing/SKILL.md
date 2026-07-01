@@ -1,6 +1,6 @@
 ---
 name: deal-team-staffing
-description: "Deal-Team-Besetzung und Staffing-Plan für Corporate/M&A-Transaktionen: Anwendungsfall Senior-Partner oder Team-Lead muss Workstreams Anwalt, Counsel, Associate, Paralegals und externe Spezialisten zuweisen. Paragraf 43a BRAO Interessenkonflikte, Paragraf 3a RVG Budget. Prüfraster Workstream-Anforderungen, Erf..."
+description: "Wenn es um Deal-Team und Staffing in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deal-Team und Staffing

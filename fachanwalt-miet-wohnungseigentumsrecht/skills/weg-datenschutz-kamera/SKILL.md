@@ -1,6 +1,6 @@
 ---
 name: weg-datenschutz-kamera
-description: "Kamera/Datenschutz WEG: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Zweck, Rechtsgrundlage, Beschluss, Hinweisschilder, Speicherfrist; mit Normprüfung, Beweisen, Fristen, Risiko..."
+description: "Wenn es um Kamera/Datenschutz WEG: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kamera/Datenschutz WEG: Fachmodul im Miet- und Wohnungseigentumsrecht

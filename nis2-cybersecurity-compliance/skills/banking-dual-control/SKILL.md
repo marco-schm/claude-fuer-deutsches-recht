@@ -1,6 +1,6 @@
 ---
 name: banking-dual-control
-description: "Prüft Vier-Augen-Prinzip in Banking, Treasury und Zahlungsfreigaben im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Banking Dual Control in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Banking Dual Control

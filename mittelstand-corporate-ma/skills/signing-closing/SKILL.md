@@ -1,6 +1,6 @@
 ---
 name: signing-closing
-description: "Unternehmen in Krise oder Insolvenz braucht Restrukturierungsplan: StaRUG Insolvenzplan Gläubigerklassen Liquiditaetsprüfung Distressed M&A. Normen §§ 1-93 StaRUG §§ 217-269 InsO §§ 17-19 InsO Antragspflichten. Prüfraster Plan-Optionen Gläubigerklassen Cram-Down Abstimmungsquoren Antragspflicht-P..."
+description: "Wenn es um StaRUG und Insolvenzplan in Mittelstands-Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # StaRUG und Insolvenzplan

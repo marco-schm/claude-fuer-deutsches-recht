@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-social-media-manager
-description: "Influencer-Recht: Arbeitsrecht für Social-Media-Manager – Arbeitsverhältnis, Dienstvertrag, Abgrenzung, Kündigung, Urheberrecht an erstelltem Content im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Arbeitsrecht – Social-Media-Manager in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Influencer-Recht: Arbeitsrecht – Social-Media-Manager

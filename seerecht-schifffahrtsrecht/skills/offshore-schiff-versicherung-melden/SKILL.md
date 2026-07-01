@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-versicherung-melden
-description: "Offshore-Schiff: Schadensereignis an Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristen..."
+description: "Wenn es um Offshore-Schiff – Schadensfall bei Versicherung melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Offshore-Schiff – Schadensfall bei Versicherung melden

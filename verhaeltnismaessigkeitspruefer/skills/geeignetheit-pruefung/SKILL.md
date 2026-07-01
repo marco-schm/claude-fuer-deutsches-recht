@@ -1,6 +1,6 @@
 ---
 name: geeignetheit-pruefung
-description: Stufe 2 der Verhältnismäßigkeit Geeignetheit als Foerderung des Zwecks ohne volle Zweckerreichung. Mit Hinweisen zur Einschaetzungspraerogative des Gesetzgebers und zur ex-ante Perspektive bei Prognosen.
+description: "Wenn es um Geeignetheit Prüfung in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geeignetheit Prüfung

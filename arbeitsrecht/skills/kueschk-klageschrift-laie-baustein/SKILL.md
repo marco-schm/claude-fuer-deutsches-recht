@@ -1,6 +1,6 @@
 ---
 name: kueschk-klageschrift-laie-baustein
-description: "Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage: punktueller Feststellungsantrag nach Paragraf 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-für-Schritt zum..."
+description: "Wenn es um Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage

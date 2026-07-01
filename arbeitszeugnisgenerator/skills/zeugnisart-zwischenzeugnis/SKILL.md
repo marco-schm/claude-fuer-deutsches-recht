@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-zwischenzeugnis
-description: "Aufbau und Besonderheiten des Zwischenzeugnisses bei laufendem Arbeitsverhältnis. Präsens statt Vergangenheit, kein Beendigungssatz, kein Abschlussdatum. Das Zwischenzeugnis ist an dasselbe Qualitätsniveau wie das qualifizierte Endzeugnis gebunden. Typische Anlässe: Vorgesetztenwechsel, Beförderung, Bewerbungsphase, Elternzeit."
+description: "Wenn es um Zeugnisart: Zwischenzeugnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zeugnisart: Zwischenzeugnis

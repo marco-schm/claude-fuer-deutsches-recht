@@ -1,6 +1,6 @@
 ---
 name: 02-firmenrecht-pruefen
-description: "Firmenprüfung Paragrafen 17-37a HGB: Kennzeichnungseignung, Unterscheidbarkeit (Paragraf 30 HGB), Irrefuehrungsverbot (Paragraf 18 Abs. 2), Rechtsformzusatz, Sitzangabe"
+description: "Wenn es um 02 Firmenrecht Prüfen in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 02 Firmenrecht Prüfen

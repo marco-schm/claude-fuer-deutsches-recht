@@ -1,6 +1,6 @@
 ---
 name: telemedizin-im-krankenhaus-und-fernbehandlung
-description: "Telemedizin im Krankenhaus und Fernbehandlung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht."
+description: "Wenn es um Telemedizin im Krankenhaus und Fernbehandlung in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Telemedizin im Krankenhaus und Fernbehandlung

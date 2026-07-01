@@ -1,6 +1,6 @@
 ---
 name: begriffe-uebersetzung-bilingual-contract
-description: "Deutscher Anwalt übersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrechtsordnung-Prüfung Klauselzweck Risiko-Äquivalent False-Frien..."
+description: "Wenn es um Begriffs- und Übersetzungswerkstatt in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Begriffs- und Übersetzungswerkstatt

@@ -1,6 +1,6 @@
 ---
 name: rechenschaft-rechenschaftsbericht-satzung
-description: "Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachweise, Stichproben und Fehlerkorrektur vor im Parteienrecht."
+description: "Wenn es um Prüfung Rechenschaft in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechenschaft Rechenschaftsbericht Satzung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Prüfung Rechenschaft

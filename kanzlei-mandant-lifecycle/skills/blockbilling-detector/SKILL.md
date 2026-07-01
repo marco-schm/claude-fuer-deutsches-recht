@@ -1,6 +1,6 @@
 ---
 name: blockbilling-detector
-description: "Blockbilling Detector: steuert zu grobe Stundenblöcke, doppelte Arbeit, Reisezeit und interne Abstimmungen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Blockbilling Detector in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Blockbilling Detector

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-bundeswehrrecht
-description: "Kaltstart Bundeswehrrecht: schneller Einstieg und Routing zu den passendes Fachmoduls bei unbekanntem Sachverhalt. Norm-/Quellenanker: SG, WBO, WDO, SVG."
+description: "Wenn es um Kaltstart Bundeswehrrecht in Bundeswehrrecht und Wehrrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Bundeswehrrecht

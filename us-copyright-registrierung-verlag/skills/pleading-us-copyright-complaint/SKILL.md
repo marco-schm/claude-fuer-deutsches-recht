@@ -1,6 +1,6 @@
 ---
 name: pleading-us-copyright-complaint
-description: "Bereitet US-Copyright-Complaint oder Response vor: jurisdiction, registration, ownership, infringement, remedies and exhibits im Us Copyright Registrierung Verlag."
+description: "Wenn es um US Copyright Complaint Pleading in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # US Copyright Complaint Pleading

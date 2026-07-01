@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-kunden
-description: "Solo-Selbstständige: ordnet Verträge, Einwilligungen, Fotos, Datenschutz und Zahlung mit Minderjährigen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Grenzen Compliance und Selbstschutz: Ordnet verträge in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzen Compliance und Selbstschutz: Ordnet verträge

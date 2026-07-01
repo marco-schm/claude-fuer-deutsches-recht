@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-vk-aufklaerung-vergleich
-description: "Vergabekammer-Erörterung, Akteneinsicht, Abhilfeverhandlung und Vergleichskorridor im Nachprüfungsverfahren: Sachverhalt schärfen, Aufklärungsverlangen beantworten, § 168-GWB-Abstellungsziel formulieren, Kosten- und OLG-Risiko bewerten und eine prozessual tragfähige Erledigung vorbereiten."
+description: "Wenn es um Vergabekammer-Erörterung, Abhilfe und Vergleichskorridor in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergabekammer-Erörterung, Abhilfe und Vergleichskorridor

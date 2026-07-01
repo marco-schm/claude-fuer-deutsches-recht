@@ -1,6 +1,6 @@
 ---
 name: itr-source-code-escrow-spezial
-description: "Spezialfall Source-Code-Escrow: dreiseitiger Vertrag Lizenzgeber, Lizenznehmer, Escrow-Agent: Release-Trigger (Insolvenz, Vertragsbruch, Einstellung Support), Code..."
+description: "Wenn es um Itr Source Code Escrow Spezial in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Source-Code-Escrow: dreiseitiger Vertrag Lizenzgeber, Lizenznehmer, Escrow-Agent

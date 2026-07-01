@@ -1,6 +1,6 @@
 ---
 name: polizeiliche-ki-vertrauenswuerdigkeit-din-spec
-description: "Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet, Bias, Auditierbarkeit, menschliche Kontrolle, Grundrechtsschutz, Zweckbindung, Beschaffung und Dokumentation für Predictive Policing, Bildanalyse, Lagezentren und Ermittlungsassistenz im Ki Vo Ai Act Prüfer."
+description: "Wenn es um Polizeiliche digitale Werkzeuge: Vertrauenswürdigkeit und Auditierbarkeit in europäischem Technikregulierungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Polizeiliche KI: Vertrauenswürdigkeit und Auditierbarkeit

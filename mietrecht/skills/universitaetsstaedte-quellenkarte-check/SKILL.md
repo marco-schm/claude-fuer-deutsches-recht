@@ -1,6 +1,6 @@
 ---
 name: universitaetsstaedte-quellenkarte-check
-description: "Universitaetsstaedte Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Universitaetsstaedte Quellenkarte Check in Mietrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Universitaetsstaedte Quellenkarte Check

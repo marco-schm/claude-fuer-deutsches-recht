@@ -1,6 +1,6 @@
 ---
 name: versagung-restschuldbefreiung
-description: "Versagungsgründe: falsche Angaben, unangemessene Verbindlichkeiten, Verletzung von Auskunfts-/Mitwirkungspflichten: Normanker: InsO §§ 290..."
+description: "Wenn es um Versagung Restschuldbefreiung in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versagungsgründe: falsche Angaben, unangemessene Verbindlichkeiten, Verletzung von Auskunfts-/Mitwirkungspflichten.

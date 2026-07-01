@@ -1,6 +1,6 @@
 ---
 name: see-027-schiffshypothek-local-counsel-instruie
-description: "See- und Schifffahrtsrecht: Schiffshypothek: Local Counsel instruieren. Local Counsel instruieren für Schiffshypothek im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schiffshypothek Local Counsel Instruie in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffshypothek Local Counsel Instruie

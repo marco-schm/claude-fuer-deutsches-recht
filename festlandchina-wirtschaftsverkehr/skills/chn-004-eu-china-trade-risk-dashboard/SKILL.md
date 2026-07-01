@@ -1,6 +1,6 @@
 ---
 name: chn-004-eu-china-trade-risk-dashboard
-description: "Festlandchina Wirtschaftsverkehr: EU China Trade Risk Dashboard. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um EU China Trade Risk Dashboard in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU China Trade Risk Dashboard

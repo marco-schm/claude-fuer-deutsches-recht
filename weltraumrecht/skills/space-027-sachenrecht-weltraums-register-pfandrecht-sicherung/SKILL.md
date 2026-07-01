@@ -1,6 +1,6 @@
 ---
 name: space-027-sachenrecht-weltraums-register-pfandrecht-sicherung
-description: "Weltraumrecht: Sachenrecht des Weltraums Register Pfandrecht und Sicherungsübereignung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Sachenrecht des Weltraums Register Pfandrecht und Sicherungsübereignung in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Sachenrecht des Weltraums Register Pfandrecht und Sicherungsübereignung

@@ -1,6 +1,6 @@
 ---
 name: kuendigung-ordentlich
-description: "Klausel-Fachmodul für Kündigung Ordentlich: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um Kündigung Ordentlich in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kündigung Ordentlich

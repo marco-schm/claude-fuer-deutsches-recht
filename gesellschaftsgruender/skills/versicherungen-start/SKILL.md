@@ -1,6 +1,6 @@
 ---
 name: versicherungen-start
-description: "Prüft D&O, Betriebshaftpflicht, Cyber, Produkthaftpflicht, Berufshaftpflicht und Key Person im Gesellschaftsgruender."
+description: "Wenn es um Versicherungen für Gründer in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versicherungen für Gründer

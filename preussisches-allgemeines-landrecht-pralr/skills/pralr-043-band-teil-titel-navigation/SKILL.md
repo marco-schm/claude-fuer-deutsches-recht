@@ -1,6 +1,6 @@
 ---
 name: pralr-043-band-teil-titel-navigation
-description: "PrALR: In umfangreichen Bänden nach Teil, Titel, Paragraph, Register und Seitenlogik navigieren."
+description: "Wenn es um Navigation im Band in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 043 Band Teil Titel Navigation; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Navigation im Band

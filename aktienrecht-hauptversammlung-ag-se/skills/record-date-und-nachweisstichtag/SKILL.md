@@ -1,6 +1,6 @@
 ---
 name: record-date-und-nachweisstichtag
-description: "Hauptversammlung AG und SE: Record Date Und Nachweisstichtag; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Record Date Und Nachweisstichtag in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Record Date Und Nachweisstichtag

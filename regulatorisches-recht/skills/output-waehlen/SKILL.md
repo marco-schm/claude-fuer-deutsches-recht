@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Regulatorisches Recht (Sektoren): stimmt Adressat (Unternehmen reguliert, Aufsichtsbehörde, Verbraucher/Kunden), Frist (Beschwerdefrist Aufsichtsbescheid) und Form auf den Zweck ab — typische Outputs: Stellungnahme Aufsicht, Beschwerde, Compliance-Memo."
+description: "Wenn es um Output wählen in Regulatorisches Recht – Plugin für deutsches geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

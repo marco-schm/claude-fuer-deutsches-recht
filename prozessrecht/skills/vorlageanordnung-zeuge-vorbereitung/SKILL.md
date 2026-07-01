@@ -1,6 +1,6 @@
 ---
 name: vorlageanordnung-zeuge-vorbereitung
-description: "Vorlageanordnung nach Paragraf 142 ZPO beantragen: Vorlage von Urkunden durch Gegner oder Dritte. Normen: Paragrafen 142 143 ZPO. Prüfraster: urkundliche Beweise, Pflicht zur Vorlage, Sanktionen bei Weigerung. Output: Antrag auf Urkundenvorlageanordnung. Abgrenzung: nicht Beweissicherungsverfahren Paragrafen 485 ff. ZP..."
+description: "Wenn es um Triage Gerichtliche und Behördliche Beweisanordnungen in Prozessrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Triage Gerichtliche und Behördliche Beweisanordnungen

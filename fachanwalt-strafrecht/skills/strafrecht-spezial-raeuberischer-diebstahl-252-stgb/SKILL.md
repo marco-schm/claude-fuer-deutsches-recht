@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-raeuberischer-diebstahl-252-stgb
-description: "Raeuberischer Diebstahl nach § 252 StGB: Sukzessivraub. Auf frischer Tat betroffener Dieb wendet Gewalt oder Drohung mit gegenwaertiger Gefahr für Leib oder Leben an, um sich im Besitz der gestohlenen Sache zu erhalt..."
+description: "Wenn es um Raeuberischer Diebstahl nach Paragraf 252 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Raeuberischer Diebstahl nach § 252 StGB

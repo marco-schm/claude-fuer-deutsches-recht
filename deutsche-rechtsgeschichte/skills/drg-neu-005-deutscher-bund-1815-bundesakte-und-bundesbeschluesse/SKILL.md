@@ -1,6 +1,6 @@
 ---
 name: drg-neu-005-deutscher-bund-1815-bundesakte-und-bundesbeschluesse
-description: "Deutsche Rechtsgeschichte: Deutscher Bund 1815 Bundesakte und Bundesbeschlüsse mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Deutsche Rechtsgeschichte: Deutscher Bund 1815 Bundesakte und Bundesbeschlüsse in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: Deutscher Bund 1815 Bundesakte und Bundesbeschlüsse

@@ -1,6 +1,6 @@
 ---
 name: legal-realism-und-critical-studies
-description: "American Legal Realism und Critical Legal Studies (CLS). Oliver Wendell Holmes, The Path of the Law 1897. Karl Llewellyn, Jerome Frank. CLS-Bewegung: Roberto Mangabeira Unger, Duncan Kennedy. Kritik an Neutralitaet, Objektivitaet und Systemdenken. Recht als Politik mit anderen Mitteln. Anwendung..."
+description: "Wenn es um American Legal Realism und Critical Legal Studies in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # American Legal Realism und Critical Legal Studies

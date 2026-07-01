@@ -1,6 +1,6 @@
 ---
 name: pflegebudget-vereinbarung
-description: "Pflegebudget nach § 17 KHEntgG / Pflegepersonalkostenausgliederung: Berechnung, Nachweis, Pflegeentgeltwert, MD-Strukturpruefung, Schiedsstellenrisiken und Reformbezuege (PPR 2.0) im Krankenhausrecht."
+description: "Wenn es um Pflegebudget Vereinbarung Nachweis Risiken in Krankenhausrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Pflegebudget Vereinbarung Nachweis Risiken

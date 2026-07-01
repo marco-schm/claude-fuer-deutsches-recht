@@ -1,6 +1,6 @@
 ---
 name: bank-und-finanzierungs-nda
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Bank Und Finanzierungs NDA; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Bank Und Finanzierungs NDA in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bank Und Finanzierungs NDA

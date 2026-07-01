@@ -1,6 +1,6 @@
 ---
 name: inso-p332-verweisung-auf-das-nachlassinsolvenzverfahren
-description: "§ 332 InsO (Verweisung auf das Nachlaßinsolvenzverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 332 InsO (Verweisung auf das Nachlaßinsolvenzverfahren) im Mandat prüfen: Normzwec..."
+description: "Wenn es um Inso P332 Verweisung Auf Das Nachlassinsolvenzverfahren in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 332 InsO (Verweisung auf das Nachlaßinsolvenzverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

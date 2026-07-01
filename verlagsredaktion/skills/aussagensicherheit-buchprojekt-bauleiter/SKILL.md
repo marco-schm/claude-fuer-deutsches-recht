@@ -1,6 +1,6 @@
 ---
 name: aussagensicherheit-buchprojekt-bauleiter
-description: "Prüft im Manuskript jede tragende Aussage darauf ob sie so im Druck stehen darf: Belegtiefe Ehrenschutz Datenschutz Berufsrecht und Aussagewahrheit im Verlagsredaktion."
+description: "Wenn es um Aussagensicherheits-Prüfung (\"darf das so im Druck?\") in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Aussagensicherheits-Prüfung ("darf das so im Druck?")

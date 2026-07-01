@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Adaptiver Einstieg, Schnelltriage und Fallrouting im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeiten, Finanzbedarf, Ethik/Forschungsdaten und Fachmodule im DF..."
+description: "Wenn es um DFG-Förderantrag — Allgemein in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # DFG-Förderantrag — Allgemein

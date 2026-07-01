@@ -1,6 +1,6 @@
 ---
 name: rechtsmonitoring-bank-regress
-description: "Rechtsmonitoring für Banken einrichten: BaFin, Bundesbank, EBA, EZB, EU, Bundesgesetzblatt, Rechtsprechung, Verbände, Relevanzfilter und Umsetzungslog dokumentieren im Bank-Rechtsabteilung."
+description: "Wenn es um Rechtsmonitoring in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsmonitoring

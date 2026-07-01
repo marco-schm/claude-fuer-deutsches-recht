@@ -1,6 +1,6 @@
 ---
 name: rbst-beratungshilfe-prozesskostenhilfe
-description: "Leitfaden Beratungshilfe und Prozesskostenhilfe: Antragsvoraussetzungen, Vermoegen, Erfolgsaussicht, Eigenbeitrag. Prüfraster für Mandant und Rechtsanwalt im Rechtsberatungsstelle."
+description: "Wenn es um RBst: Beratungshilfe PKH in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # RBst: Beratungshilfe PKH

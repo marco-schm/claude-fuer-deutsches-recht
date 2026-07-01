@@ -1,6 +1,6 @@
 ---
 name: haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung
-description: "Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht moeglich ist (Strafe bereits vollstreckt, verjaehrt oder erlassen, Bewaehrung abgelaufen, Auslandsstrafen). BGH-staendige Linie: Schutzzweck des § 55 StGB rechtfertigt Strafabschlag als rechtspolitisches Ausgleichs-Element. Anwendung in Hauptverhandlung und Beschluss-Verfahren. Verteidigerantrag und Begruendungspflicht."
+description: "Wenn es um Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung in Strafzumessung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung

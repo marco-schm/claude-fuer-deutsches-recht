@@ -1,6 +1,6 @@
 ---
 name: eidas-electronic-signatures-software
-description: "Prüft Signatur-, Trust-Service- und Identitätssoftware nach eIDAS, Beweiswert, qES und Anbieterrollen im Softwarerecht De Eu Us."
+description: "Wenn es um eIDAS und Signatursoftware in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # eIDAS und Signatursoftware

@@ -1,6 +1,6 @@
 ---
 name: verbraucherhinweis-honorarvereinbarung
-description: "HOAI-Fachfrage: Honorarvereinbarung mit Verbrauchern nach § 7 HOAI, Textform, Hinweis auf höhere/niedrigere Honorare, Orientierungswerte und Folgen fehlender oder missverständlicher Aufklärung prüfen im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Verbraucherhinweis Und Honorarvereinbarung in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verbraucherhinweis Und Honorarvereinbarung

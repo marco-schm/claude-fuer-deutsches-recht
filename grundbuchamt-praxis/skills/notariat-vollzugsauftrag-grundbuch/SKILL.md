@@ -1,6 +1,6 @@
 ---
 name: notariat-vollzugsauftrag-grundbuch
-description: "Steuert Notarvollzug, Treuhandauflagen, Fälligkeitsmitteilung, Bankunterlagen und Mandantenkommunikation im Grundbuchamt Praxis."
+description: "Wenn es um Notariat und Vollzugsauftrag in Grundbuchamt Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Notariat und Vollzugsauftrag

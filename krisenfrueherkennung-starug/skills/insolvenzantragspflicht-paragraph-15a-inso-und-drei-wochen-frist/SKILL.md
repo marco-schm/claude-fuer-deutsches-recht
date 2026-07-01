@@ -1,6 +1,6 @@
 ---
 name: insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist
-description: "Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF prüft ob Insolvenzantrag gestellt werden muss. Normen: § 15a InsO (Antragspflicht), § 15a Abs. 4 InsO (Strafbarkeit), § 18 InsO (drohende ZU als StaRUG-Tor), § 1 StaRUG (Fruehwarnung). Prüfraster: Triggerlogik (ZU oder Überschuldun..."
+description: "Wenn es um Insolvenzantragspflicht — Paragraf 15a InsO und die Drei-Wochen-Frist in Krisenfrüherkennung und StaRUG-Management geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenzantragspflicht — § 15a InsO und die Drei-Wochen-Frist

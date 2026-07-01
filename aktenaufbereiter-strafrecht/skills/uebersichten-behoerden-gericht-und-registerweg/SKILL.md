@@ -1,6 +1,6 @@
 ---
 name: uebersichten-behoerden-gericht-und-registerweg
-description: "Uebersichten: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Uebersichten: Behörden-, Gerichts- oder Registerweg in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Uebersichten: Behörden-, Gerichts- oder Registerweg

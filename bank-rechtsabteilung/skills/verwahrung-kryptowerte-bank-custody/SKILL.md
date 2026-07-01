@@ -1,6 +1,6 @@
 ---
 name: verwahrung-kryptowerte-bank-custody
-description: "Kryptowerte-Verwahrung und Custody durch Banken prüfen: MiCAR-CASP, alte KWG-Erlaubnisse, Wallet-Control, Schlüsselmanagement, Outsourcing, Haftung, DORA und Kundentrennung im Bank-Rechtsabteilung."
+description: "Wenn es um Krypto-Custody Bank in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Krypto-Custody Bank

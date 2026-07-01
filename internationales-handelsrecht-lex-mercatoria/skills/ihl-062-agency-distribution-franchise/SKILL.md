@@ -1,6 +1,6 @@
 ---
 name: ihl-062-agency-distribution-franchise
-description: "Internationales Handelsrecht und Lex Mercatoria: Agency Distribution Franchise. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Agency Distribution Franchise in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agency Distribution Franchise

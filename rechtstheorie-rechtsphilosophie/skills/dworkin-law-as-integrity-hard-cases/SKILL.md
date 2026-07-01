@@ -1,6 +1,6 @@
 ---
 name: dworkin-law-as-integrity-hard-cases
-description: "Verarbeitet Ronald Dworkins Theorie praktisch: Regeln/Prinzipien, konstruktive Interpretation, Gleichheit der Bürgerinnen vor dem Recht und beste rechtliche Rechtfertigung ohne Richterwillkür."
+description: "Wenn es um Dworkin: Recht als Integrität, Prinzipien und hard cases in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Dworkin: Recht als Integrität, Prinzipien und hard cases

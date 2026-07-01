@@ -1,6 +1,6 @@
 ---
 name: verhaeltnismaessigkeit-einstieg
-description: Einstieg in den Verhältnismäßigkeitspruefer mit Plugin-Karte, Methodik-UEberblick und Empfehlungen welcher Skill bei welchem Fall zu starten ist. Erklaert die vier Stufen kurz und verweist auf vertiefende Skills.
+description: "Wenn es um Verhältnismäßigkeit Einstieg in Verhältnismäßigkeitsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verhältnismäßigkeit Einstieg

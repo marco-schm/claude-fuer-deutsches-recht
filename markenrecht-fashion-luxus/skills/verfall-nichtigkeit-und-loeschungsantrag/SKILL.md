@@ -1,6 +1,6 @@
 ---
 name: verfall-nichtigkeit-und-loeschungsantrag
-description: "Verfall, Nichtigkeit und Löschungsanträge gegen Marken strukturieren: Nichtbenutzung, absolute Schutzhindernisse, ältere Rechte, Bösgläubigkeit, DPMA/EUIPO-Verfahren, Fristen, Belege und Vergleichsoptionen im Markenrecht Fashion Luxus."
+description: "Wenn es um Verfall, Nichtigkeit und Löschung in markenrecht-fashion-luxus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verfall, Nichtigkeit und Löschung

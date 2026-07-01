@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Wandeldarlehen-Lebenszyklus: stimmt Adressat (Investor, Startup, Geschäftsführung), Frist (Wandlungsoption) und Form auf den Zweck ab — typische Outputs: Wandeldarlehensvertrag, Cap-Table-Folgeschritte, Steuermemo Wandlung."
+description: "Wenn es um Output wählen in Wandeldarlehen-Lebenszyklus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

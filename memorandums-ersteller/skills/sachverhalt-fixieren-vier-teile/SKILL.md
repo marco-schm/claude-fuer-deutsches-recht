@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-fixieren-vier-teile
-description: "Sachverhalt sauber fixieren: zeitliche, raeumliche, personelle Ordnung, Unterscheidung 'unstreitig' / 'streitig' / 'unklar' / 'Annahme'. Vermeidet juristisches Wertvokabular im Sachverhalt. Markiert Tatsachen, für die Belege im Mandantendokument noch fehlen im Memorandums Ersteller."
+description: "Wenn es um Memo: Sachverhalt fixieren in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Memo: Sachverhalt fixieren

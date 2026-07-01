@@ -1,6 +1,6 @@
 ---
 name: term-sheet-to-spa
-description: "Term-Sheet-to-SPA-Bridge: übersetzt Term Sheet, LOI oder MoU in SPA-/APA-Struktur, Klauselarchitektur, offene Punkte und Drafting-Anweisungen."
+description: "Wenn es um Term Sheet To SPA Bridge in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Term Sheet To SPA Bridge

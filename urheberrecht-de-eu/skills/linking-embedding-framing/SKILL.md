@@ -1,6 +1,6 @@
 ---
 name: linking-embedding-framing
-description: "Prüft Links, Embeds, Framing, Zugangsbeschränkungen, neue Öffentlichkeit und technische Schutzmaßnahmen im Urheberrecht De Eu."
+description: "Wenn es um Linking, Embedding und Framing in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Linking, Embedding und Framing

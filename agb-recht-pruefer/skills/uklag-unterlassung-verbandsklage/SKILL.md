@@ -1,6 +1,6 @@
 ---
 name: uklag-unterlassung-verbandsklage
-description: "Norm- und Dogmatik-Skill für UKlaG Unterlassung Verbandsklage: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um UKlaG Unterlassung Verbandsklage in AGB-Recht-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # UKlaG Unterlassung Verbandsklage

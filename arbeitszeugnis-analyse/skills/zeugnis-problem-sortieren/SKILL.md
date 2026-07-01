@@ -1,6 +1,6 @@
 ---
 name: zeugnis-problem-sortieren
-description: "Allgemeiner Startskill für Arbeitszeugnisse, wenn der Nutzer nur ein komisches Gefuehl, ein PDF, einen Screenshot oder eine unsortierte Frage hat. Klaert Problem, Zeugnisart, Ziel, Frist, Kontext, Belege und nächsten Arbeitsweg."
+description: "Wenn es um Zeugnisproblem Sortieren in Arbeitszeugnis-Analyse geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zeugnisproblem Sortieren

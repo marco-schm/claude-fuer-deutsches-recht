@@ -1,6 +1,6 @@
 ---
 name: therapie-statt-strafe
-description: "Betäubungsmittelrecht: Therapie statt Strafe. Therapie statt Strafe im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
+description: "Wenn es um Therapie Statt Strafe in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Therapie Statt Strafe

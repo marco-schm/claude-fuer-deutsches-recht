@@ -1,6 +1,6 @@
 ---
 name: arzthonorarprozess-dokumentenplan
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Arzthonorarprozess Dokumentenplan im Goae Gebührenordnung Aerzte."
+description: "Wenn es um Arzthonorarprozess Dokumentenplan in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Arzthonorarprozess Dokumentenplan

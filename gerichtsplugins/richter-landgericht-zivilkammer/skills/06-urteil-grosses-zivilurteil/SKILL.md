@@ -1,6 +1,6 @@
 ---
 name: 06-urteil-grosses-zivilurteil
-description: "Urteilsentwurf nach Paragraf 313 ZPO bei groesserem Streitwert: ausfuehrlicher Tatbestand, gegliederte Entscheidungsgründe (Zulässigkeit, Begründetheit, Anspruchsprüfung, Beweiswürdigung), Nebenentscheidungen, vorläufige Vollstreckbarkeit Paragrafen 708-711"
+description: "Wenn es um 06 Urteil Großes Zivilurteil in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 06 Urteil Großes Zivilurteil

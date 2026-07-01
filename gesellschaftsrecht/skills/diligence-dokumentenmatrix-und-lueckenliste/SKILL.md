@@ -1,6 +1,6 @@
 ---
 name: diligence-dokumentenmatrix-und-lueckenliste
-description: "Diligence: Dokumentenmatrix, Lückenliste und Nachforderung im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht."
+description: "Wenn es um Diligence: Dokumentenmatrix, Lückenliste und Nachforderung in Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Diligence: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: transparenzregister
-description: "Prüft Aktualisierung wirtschaftlich Berechtigter nach Anteilserwerb, Treuhand, Pooling oder Kontrolle im Gesellschaftsgruender."
+description: "Wenn es um Transparenzregister Update in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transparenzregister Update

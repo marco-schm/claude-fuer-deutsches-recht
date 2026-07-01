@@ -1,6 +1,6 @@
 ---
 name: see-053-yachtkauf-kaufvertrag-scopen
-description: "See- und Schifffahrtsrecht: Yachtkauf: Kaufvertrag scopen. Kaufvertrag scopen für Yachtkauf im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Yachtkauf Kaufvertrag Scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Yachtkauf Kaufvertrag Scopen

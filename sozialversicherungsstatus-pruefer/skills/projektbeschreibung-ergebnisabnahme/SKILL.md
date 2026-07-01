@@ -1,6 +1,6 @@
 ---
 name: projektbeschreibung-ergebnisabnahme
-description: "Gestaltet Projektbeschreibungen, Deliverables und Abnahme so, dass echte Selbständigkeit belegbar wird im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Projektbeschreibung und Ergebnisabnahme in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Projektbeschreibung und Ergebnisabnahme

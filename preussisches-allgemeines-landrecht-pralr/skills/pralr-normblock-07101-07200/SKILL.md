@@ -1,6 +1,6 @@
 ---
 name: pralr-normblock-07101-07200
-description: "PrALR-Normblock §§ 7101-7200: jede Vorschrift im Block einzeln als Normkarte mit Teil/Titel/Paragraph, Textzeuge 1794/1804, OCR-Risiko, historischer Bedeutung und heutiger Anschlussfrage prüfen."
+description: "Wenn es um PrALR-Normblock Paragrafen 7101-7200 in Preußisches Allgemeines Landrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # PrALR-Normblock §§ 7101-7200

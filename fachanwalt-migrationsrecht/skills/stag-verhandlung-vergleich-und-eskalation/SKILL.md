@@ -1,6 +1,6 @@
 ---
 name: stag-verhandlung-vergleich-und-eskalation
-description: "Stag: Verhandlung, Vergleich und Eskalation: Stag: Verhandlung, Vergleich und Eskalation."
+description: "Wenn es um Stag: Verhandlung, Vergleich und Eskalation in Fachanwalt Migrationsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Stag: Verhandlung, Vergleich und Eskalation

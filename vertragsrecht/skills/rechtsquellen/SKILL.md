@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen
-description: "Rechtsquellen: Quellenprüfung; Abschlussprodukt und Übergabe: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Rechtsquellen: Abschlussprodukt und Übergabe in Vertragsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Rechtsquellen: Abschlussprodukt und Übergabe

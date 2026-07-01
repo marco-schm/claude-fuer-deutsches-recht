@@ -1,6 +1,6 @@
 ---
 name: chn-099-abschlussmemo-china-deal
-description: "Festlandchina Wirtschaftsverkehr: Abschlussmemo China Deal. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Abschlussmemo China Deal in China-Wirtschaftsverkehr geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Abschlussmemo China Deal

@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Mietrecht (Wohnraum/Gewerbe): stimmt Adressat (Mieter, Vermieter, Hausverwaltung), Frist (§ 573c BGB Kündigung 3 Mon.) und Form auf den Zweck ab — typische Outputs: Kündigungsschreiben, Mietminderungserklärung, Klage AG."
+description: "Wenn es um Output wählen in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

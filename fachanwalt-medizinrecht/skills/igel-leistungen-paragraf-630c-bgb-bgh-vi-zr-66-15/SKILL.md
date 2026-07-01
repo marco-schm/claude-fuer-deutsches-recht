@@ -1,6 +1,6 @@
 ---
 name: igel-leistungen-paragraf-630c-bgb-bgh-vi-zr-66-15
-description: "Igel Leistungen Paragraf 630c BGB BGH Vi Zr 66 15: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Igel Leistungen Paragraf 630c BGB BGH Vi Zr 66 15 in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Igel Leistungen Paragraf 630c BGB BGH Vi Zr 66 15

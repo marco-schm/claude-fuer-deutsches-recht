@@ -1,6 +1,6 @@
 ---
 name: gleichheit-existenzminimum-triage-asylblg
-description: "Art. 3 GG, Menschenwürde, Existenzminimum und Schutzpflichten: Triage, Behinderung, AsylbLG-Grundleistungen, Sozialstaatsprinzip und Begründungslast des Gesetzgebers nach aktueller BVerfG-Rechtsprechung."
+description: "Wenn es um Gleichheit, Existenzminimum und Schutzpflicht in verfassungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gleichheit, Existenzminimum und Schutzpflicht

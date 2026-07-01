@@ -1,6 +1,6 @@
 ---
 name: rueckforderung-unrecht-erstattungsstreit
-description: "Rückforderung von GKV-Leistungen nach §§ 45 und 48 und 50 SGB X: Rücknahme, Widerruf, Erstattung; Vertrauensschutz und Verjährungsfristen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Rückforderung zu Unrecht erbrachter Leistungen in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rückforderung zu Unrecht erbrachter Leistungen

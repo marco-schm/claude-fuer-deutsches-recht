@@ -1,6 +1,6 @@
 ---
 name: owi-099-aussenwirtschaft-rechtsbeschwerde-prue
-description: "Ordnungswidrigkeitenrecht: Außenwirtschaft: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Aussenwirtschaft Rechtsbeschwerde Prue in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aussenwirtschaft Rechtsbeschwerde Prue

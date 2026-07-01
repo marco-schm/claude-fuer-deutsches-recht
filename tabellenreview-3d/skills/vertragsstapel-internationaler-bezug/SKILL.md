@@ -1,6 +1,6 @@
 ---
 name: vertragsstapel-internationaler-bezug
-description: "Vertragsstapel: Internationaler Bezug und Schnittstellen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kri..."
+description: "Wenn es um Vertragsstapel: Internationaler Bezug und Schnittstellen in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vertragsstapel Internationaler Bezug; Arbeitsfeld: Tabellenreview 3D."
 ---
 
 # Vertragsstapel: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: gerichtsschreiben-kuerzung-wegfall
-description: "Gerichtsschreiben zur JVEG-Kostenkuerzung rechtlich prüfen und widersprechen. Normen: §§ 2 4 JVEG, GKG. Prüfraster: Kuerzungsbegründung, fehlerhafte Berechnung, Widerspruchsmöglichkeit. Output: Widerspruchsschreiben gegen JVEG-Kuerzung. Abgrenzung: nicht formelle Beschwerde im Jveg Kostenpruefer."
+description: "Wenn es um JVEG-Gerichtsschreiben-Pruefung in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # JVEG-Gerichtsschreiben-Pruefung

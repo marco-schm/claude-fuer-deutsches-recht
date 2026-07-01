@@ -1,6 +1,6 @@
 ---
 name: handelskauf-paragraphen-handelsmakler
-description: "Prüft Fixhandelskauf, Annahmeverzug, Spezifikationskauf, Untersuchungs- und Rügeobliegenheit im Handelsrecht Hgb."
+description: "Wenn es um Handelskauf Paragrafen 373-381 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelskauf §§ 373-381 HGB

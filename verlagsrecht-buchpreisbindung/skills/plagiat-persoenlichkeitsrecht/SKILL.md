@@ -1,6 +1,6 @@
 ---
 name: plagiat-persoenlichkeitsrecht
-description: "Verlagsrecht: Plagiat im Manuskript — Rechtliche Grundlagen, Prüfverfahren, Vertragsklauseln, Haftung des Autors, Reaktion bei Plagiatsfund und Rückruf nach Erscheinen im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-020 · Plagiat, Manuskript und Quellenprüfung in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-020 · Plagiat, Manuskript und Quellenprüfung

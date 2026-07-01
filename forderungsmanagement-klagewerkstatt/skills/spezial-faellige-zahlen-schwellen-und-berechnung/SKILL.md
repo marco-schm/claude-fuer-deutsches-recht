@@ -1,6 +1,6 @@
 ---
 name: spezial-faellige-zahlen-schwellen-und-berechnung
-description: "Faellige: Zahlen, Schwellenwerte und Berechnung im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Faellige: Zahlen, Schwellenwerte und Berechnung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Faellige: Zahlen, Schwellenwerte und Berechnung

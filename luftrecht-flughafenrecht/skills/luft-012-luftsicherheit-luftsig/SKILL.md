@@ -1,6 +1,6 @@
 ---
 name: luft-012-luftsicherheit-luftsig
-description: "Luftrecht und Flughafenrecht: Luftsicherheit LuftSiG. Luftsicherheit LuftSiG im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Luftsicherheit Luftsig in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Luftsicherheit Luftsig

@@ -1,6 +1,6 @@
 ---
 name: beleganforderung
-description: "Solo-Selbstständige: fordert fehlende Belege freundlich und vollständig an; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Dokumente und Kommunikation: Fordert fehlende belege freundlich und vollständig an in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumente und Kommunikation: Fordert fehlende belege freundlich und vollständig an

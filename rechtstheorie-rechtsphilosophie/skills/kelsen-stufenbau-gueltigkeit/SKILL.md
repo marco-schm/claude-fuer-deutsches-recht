@@ -1,6 +1,6 @@
 ---
 name: kelsen-stufenbau-gueltigkeit
-description: "Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz."
+description: "Wenn es um Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin

@@ -1,6 +1,6 @@
 ---
 name: str-061-gemeindestrasse-baulast-pruefen
-description: "Straßenrecht und Infrastruktur: Gemeindestraße: Baulast prüfen. Baulast prüfen für Gemeindestraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Gemeindestrasse Baulast Pruefen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gemeindestrasse Baulast Pruefen

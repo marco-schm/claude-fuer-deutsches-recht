@@ -1,6 +1,6 @@
 ---
 name: benefits-policy-jobticket-urban-sports
-description: "Berliner Start-up-HR: Benefits-Policy für Jobticket, Urban Sports, Lunch, Kita-Zuschuss, Learning Budget und Gleichbehandlung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Benefits Policy Jobticket Urban Sports in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Benefits Policy Jobticket Urban Sports

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Methodenlehre Bürgerliches Recht: ordnet Rolle (Studentenr, Anwalt, Richter), markiert Frist (keine harten Fristen), wählt Norm (BGB, Art. 20 III GG (Auslegung)) und Zuständigkeit (zuständige Stelle), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

@@ -1,6 +1,6 @@
 ---
 name: kommunaler-finanztransfer-umschichtung
-description: "Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Umschichtung simulieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kommunaler Finanztransfer Umschichtung in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunaler Finanztransfer Umschichtung

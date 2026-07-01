@@ -1,6 +1,6 @@
 ---
 name: schulung-fristennotiz-und-naechster-schritt
-description: "Schulung: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Schulung: Fristennotiz und nächster Schritt in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulung: Fristennotiz und nächster Schritt

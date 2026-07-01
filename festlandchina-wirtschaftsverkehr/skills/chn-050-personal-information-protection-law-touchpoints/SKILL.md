@@ -1,6 +1,6 @@
 ---
 name: chn-050-personal-information-protection-law-touchpoints
-description: "Festlandchina Wirtschaftsverkehr: Personal Information Protection Law Touchpoints. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Personal Information Protection Law Touchpoints in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Personal Information Protection Law Touchpoints

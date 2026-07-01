@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-kaltstart-bescheidkette
-description: "Grundsteuer-Mandat schnell aufnehmen: Grundsteuerwertbescheid, Grundsteuermessbescheid und Grundsteuerbescheid auseinanderhalten, Fristen sichern, Bundesmodell oder Landesmodell routen, Fehlerquellen erkennen und passende Folgeskills laden. Fuer Eigentuemmer, Hausverwaltungen, Vermieter, Steuerbe..."
+description: "Wenn es um Grundsteuer-Kaltstart: Bescheidkette und Sofort-Triage in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundsteuer-Kaltstart: Bescheidkette und Sofort-Triage

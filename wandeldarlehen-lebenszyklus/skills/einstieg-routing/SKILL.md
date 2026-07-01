@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Wandeldarlehen-Lebenszyklus: ordnet Rolle (Investor, Startup, Geschäftsführung), markiert Frist (Wandlungsoption), wählt Norm (BGB §§ 488 ff. Darlehen, GmbHG/AktG, EStG) und Zuständigkeit (Handelsregister), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Wandeldarlehen-Lebenszyklus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

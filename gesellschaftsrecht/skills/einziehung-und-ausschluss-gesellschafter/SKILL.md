@@ -1,6 +1,6 @@
 ---
 name: einziehung-und-ausschluss-gesellschafter
-description: Prüft Einziehung, Ausschluss, Zwangsabtretung und Abfindung mit Satzungsgrundlage, Verfahren, Beschlussrisiken und Streitstrategie.
+description: "Wenn es um Einziehung und Ausschluss von Gesellschaftern in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Einziehung und Ausschluss von Gesellschaftern
 

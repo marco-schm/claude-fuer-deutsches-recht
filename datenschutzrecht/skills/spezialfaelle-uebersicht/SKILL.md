@@ -1,6 +1,6 @@
 ---
 name: spezialfaelle-uebersicht
-description: "Liefert eine schnelle Übersicht über häufige Spezialfälle eines Datenschutzvorfalls und verweist auf vertiefte Skills. Behandelt: Ransomware; Insider-Threat; Fehlversand E-Mail/Brief; Endgeräteverlust; verlorener Datenträger; Cloud-Fehlkonfiguration; offene S3-Buckets; kompromittiertes E-Mail-Kon..."
+description: "Wenn es um Spezialfälle Datenschutzvorfall — Übersicht für die Triage in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfälle Datenschutzvorfall — Übersicht für die Triage

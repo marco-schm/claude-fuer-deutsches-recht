@@ -1,6 +1,6 @@
 ---
 name: erklaerungsbewusstsein-und-potentielles-bewusstsein
-description: "Klausurfall zu Erklärungsbewusstsein und potentiellem Erklärungsbewusstsein: Mindestvoraussetzung des Willenserklärungstatbestands, h.M. und Mindermeinung zum potentiellen Bewusstsein, Trierer Weinversteigerungsfall und Konsequenzen für Anfechtung im BGB AT."
+description: "Wenn es um Erklärungsbewusstsein und Potentielles Bewusstsein — Willenserklärung in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erklaerungsbewusstsein Und Potentielles Bewusstsein; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Erklärungsbewusstsein und Potentielles Bewusstsein — Willenserklärung

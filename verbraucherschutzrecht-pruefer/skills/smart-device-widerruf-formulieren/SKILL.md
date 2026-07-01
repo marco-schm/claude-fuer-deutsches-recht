@@ -1,6 +1,6 @@
 ---
 name: smart-device-widerruf-formulieren
-description: "Prüfer: Smart Device: Widerruf formulieren im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Smart Device Widerruf Formulieren in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Smart Device Widerruf Formulieren

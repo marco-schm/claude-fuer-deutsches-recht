@@ -1,6 +1,6 @@
 ---
 name: lease-055-it-hardware-refresh
-description: "Prueft Leasing von Laptops, Servern, Telefonen und Netzwerkgeraeten mit Asset-Tracking, Datenloeschung, Austausch und Rueckgabe."
+description: "Wenn es um IT-Hardware Refresh Leasing in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IT-Hardware Refresh Leasing

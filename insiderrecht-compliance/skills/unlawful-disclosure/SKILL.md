@@ -1,6 +1,6 @@
 ---
 name: unlawful-disclosure
-description: "Prüft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und grenzt sie von zulaessiger Informationsweitergabe (Market Sounding, Beratung, M&A) ab im Insiderrecht Compliance."
+description: "Wenn es um Unzulässige Offenlegung nach Art. 10 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unzulässige Offenlegung nach Art. 10 MAR

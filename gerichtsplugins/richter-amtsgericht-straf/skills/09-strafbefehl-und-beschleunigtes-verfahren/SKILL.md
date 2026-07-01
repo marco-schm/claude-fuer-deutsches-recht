@@ -1,6 +1,6 @@
 ---
 name: 09-strafbefehl-und-beschleunigtes-verfahren
-description: "Strafbefehlsverfahren Paragrafen 407-412 StPO, Voraussetzungen, Inhalt, Einspruch, Hauptverhandlung nach Einspruch; beschleunigtes Verfahren Paragrafen 417-420 StPO"
+description: "Wenn es um 09 Strafbefehl und Beschleunigtes Verfahren in Richter Amtsgericht Strafsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # 09 Strafbefehl und Beschleunigtes Verfahren

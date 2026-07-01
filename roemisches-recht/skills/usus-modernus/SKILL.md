@@ -1,6 +1,6 @@
 ---
 name: usus-modernus
-description: "Römisches Recht: Usus Modernus. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Usus Modernus in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Usus Modernus

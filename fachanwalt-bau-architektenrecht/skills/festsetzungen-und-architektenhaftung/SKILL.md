@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-und-architektenhaftung
-description: "Prueft Architektenhaftung bei fehlerhafter Auswertung von Bebauungsplan-Festsetzungen, BauNVO-Werten, Abstandsflächen, Befreiungen und Genehmigungsrisiken."
+description: "Wenn es um Festsetzungen und Architektenhaftung in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Festsetzungen und Architektenhaftung

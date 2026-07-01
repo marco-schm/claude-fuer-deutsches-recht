@@ -1,6 +1,6 @@
 ---
 name: onboarding-mandantenkommunikation
-description: "Leitfaden zur Mandantenkommunikation in steuerlichen Mandaten — wann muss aufgeklaert werden wie wird dokumentiert und welche Fallstricke schaffen Haftungsrisiko für Anwalt und Steuerberater. Anwendungsfall Berater hat eine Empfehlung zu unterbreiten die Mehrsteuer Nachzahlungszinsen oder strafre..."
+description: "Wenn es um Mandantenkommunikation und Aufklaerungspflicht im Steuerrecht in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Mandantenkommunikation und Aufklaerungspflicht im Steuerrecht

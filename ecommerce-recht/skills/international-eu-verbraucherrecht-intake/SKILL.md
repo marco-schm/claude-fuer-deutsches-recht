@@ -1,6 +1,6 @@
 ---
 name: international-eu-verbraucherrecht-intake
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema International EU Verbraucherrecht Intake im Ecommerce Recht."
+description: "Wenn es um International EU Verbraucherrecht Intake in E-Commerce-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # International EU Verbraucherrecht Intake

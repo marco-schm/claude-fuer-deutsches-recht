@@ -1,6 +1,6 @@
 ---
 name: bess-projektakte-qualitygate
-description: "Prüft die gesamte Speicherakte auf Lücken, Widersprüche, fehlende Quellen, falsche Rollen und unrealistische Annahmen im Energierecht."
+description: "Wenn es um BESS-Projektakte und Qualitygate in Energierecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BESS-Projektakte und Qualitygate

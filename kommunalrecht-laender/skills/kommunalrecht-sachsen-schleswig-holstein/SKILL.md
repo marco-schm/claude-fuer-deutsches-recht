@@ -1,6 +1,6 @@
 ---
 name: kommunalrecht-sachsen-schleswig-holstein
-description: "Kommunalrecht der Länder: Kommunalrecht Sachsen-Anhalt routen. Kommunalrecht Sachsen-Anhalt routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
+description: "Wenn es um Kommunalrecht Sachsen Anhalt Routen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalrecht Sachsen Anhalt Routen

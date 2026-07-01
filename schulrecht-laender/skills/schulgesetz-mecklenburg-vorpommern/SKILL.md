@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-mecklenburg-vorpommern
-description: "Prüft Schulrecht in Mecklenburg-Vorpommern mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder."
+description: "Wenn es um Schulgesetz Mecklenburg Vorpommern in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulgesetz Mecklenburg Vorpommern

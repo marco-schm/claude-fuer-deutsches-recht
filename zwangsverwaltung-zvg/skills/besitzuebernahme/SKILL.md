@@ -1,6 +1,6 @@
 ---
 name: besitzuebernahme
-description: "Besitzerlangung über das Zwangsverwaltungsobjekt nach § 150 ZVG. Anwendungsfall Zwangsverwalter nimmt erstmals Besitz am Objekt und muss alle Tatsachen dokumentieren. Normen § 150 ZVG Besitzuebernahme § 151 ZVG Rechte und Pflichten § 535 BGB Mietverhältnisse. Prüfraster Vor-Ort-Termin Objektbesch..."
+description: "Wenn es um Besitzerlangung und Objektaufnahme in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besitzerlangung und Objektaufnahme

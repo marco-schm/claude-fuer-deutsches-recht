@@ -1,6 +1,6 @@
 ---
 name: aktenfuehrung-berufsausuebungsgesellschaft
-description: "Aktenführung: vertiefter Berufsrechts-Skill für Steuerberater; prüft Aktenführung im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
+description: "Wenn es um Aktenführung in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Aktenführung

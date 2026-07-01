@@ -1,6 +1,6 @@
 ---
 name: litigation-discovery-ma-commercial-quality
-description: "Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will pleadings discovery disclosure depositions privilege evidence settlement verstehen. Prüfraster Verfahrensphasen-Überblick Privilege-Prüfung Discovery-Scope Settlement-Optionen. Output Verfahrens-Erklärung Checkliste. Abgrenzung zu common..."
+description: "Wenn es um Litigation, Discovery und Evidence in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Litigation, Discovery und Evidence

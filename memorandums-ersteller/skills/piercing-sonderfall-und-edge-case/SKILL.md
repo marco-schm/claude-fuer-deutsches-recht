@@ -1,6 +1,6 @@
 ---
 name: piercing-sonderfall-und-edge-case
-description: "Piercing: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Piercing: Sonderfall und Edge-Case-Prüfung in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Piercing: Sonderfall und Edge-Case-Prüfung

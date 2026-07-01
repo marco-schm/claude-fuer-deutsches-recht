@@ -1,6 +1,6 @@
 ---
 name: cross-border-fund-investment
-description: "Prüft Investoren aus Deutschland in ausländischen Fonds und ausländische Investoren in deutsche PE-Strukturen im Private Equity Praxis."
+description: "Wenn es um Cross-border Fund Investment in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cross-border Fund Investment

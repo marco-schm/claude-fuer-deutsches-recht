@@ -1,6 +1,6 @@
 ---
 name: klausel-verguetung-pauschale-royalty-tiered
-description: "Verguetungsmodelle: Pauschale (Lump Sum), Running Royalty (Stueck / Umsatz / Gewinn), Tiered Royalties (sinkende Raten mit steigendem Umsatz), Mindestlizenzgebuehren, Front Loaded Payments. Mit Rechen-Beispielen."
+description: "Wenn es um Klausel Vergütung — Pauschale, Royalty, Tiered in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Klausel Vergütung — Pauschale, Royalty, Tiered

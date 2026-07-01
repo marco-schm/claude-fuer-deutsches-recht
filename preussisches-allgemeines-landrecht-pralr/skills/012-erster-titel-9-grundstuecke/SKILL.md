@@ -1,6 +1,6 @@
 ---
 name: 012-erster-titel-9-grundstuecke
-description: "PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn

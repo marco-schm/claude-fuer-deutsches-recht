@@ -1,6 +1,6 @@
 ---
 name: krankenhausdigitalisierung-khzg
-description: "Krankenhausdigitalisierung KHZG IT-Sicherheit: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht."
+description: "Wenn es um Krankenhausdigitalisierung KHZG IT-Sicherheit in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Krankenhausdigitalisierung KHZG IT-Sicherheit

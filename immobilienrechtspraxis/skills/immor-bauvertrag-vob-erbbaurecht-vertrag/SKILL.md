@@ -1,6 +1,6 @@
 ---
 name: immor-bauvertrag-vob-erbbaurecht-vertrag
-description: "Leitfaden Bauvertrag VOB-B und BGB-Bauvertrag §§ 650a ff. BGB: Anordnungsrecht, Vereinbarung VOB-B als AGB, Abnahme, Maengelrechte. Prüfraster Bauherr und Unternehmer im Immobilienrechtspraxis."
+description: "Wenn es um ImmoR: Bauvertrag VOB BGB in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ImmoR: Bauvertrag VOB BGB

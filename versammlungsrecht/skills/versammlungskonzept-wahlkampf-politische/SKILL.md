@@ -1,6 +1,6 @@
 ---
 name: versammlungskonzept-wahlkampf-politische
-description: "Erstellt ein belastbares Versammlungskonzept als Anlage zur Anzeige oder als Antwort auf Behördenfragen im Versammlungsrecht."
+description: "Wenn es um Gutes Konzept ohne Selbstfesselung in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gutes Konzept ohne Selbstfesselung

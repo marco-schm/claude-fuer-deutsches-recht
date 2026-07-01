@@ -1,6 +1,6 @@
 ---
 name: luxemburg-cour-constitutionnelle-proportionnalite
-description: Luxemburgische Verhältnismäßigkeitsdogmatik der Cour constitutionnelle nach Art 95ter Verfassung mit Drei-Stufen-Test Adequation Necessite Proportionnalite stricto sensu sowie der reformierten Verfassung 2023 mit Art 32 bis 49bis. Mit starkem EMRK und Charta-Einfluss Prüfungspraxis ueber die Cour superieure de justice und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die enge Naehe zu franzoesischer und belgischer Doktrin.
+description: "Wenn es um Luxemburg Cour Constitutionnelle Proportionnalite in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Luxemburg Cour Constitutionnelle Proportionnalite

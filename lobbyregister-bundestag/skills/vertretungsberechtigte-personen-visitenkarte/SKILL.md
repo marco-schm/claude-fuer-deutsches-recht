@@ -1,6 +1,6 @@
 ---
 name: vertretungsberechtigte-personen-visitenkarte
-description: "Ermittelt gesetzliche Vertretungen, Leitungspersonen und Zeichnungsberechtigte für Registerangaben und Bestätigungsdokument. Normen § 3 und § 4 LobbyRG. Output Vertretungsmatrix im Lobbyregister Bundestag."
+description: "Wenn es um Vertretungsberechtigte Personen in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Vertretungsberechtigte Personen

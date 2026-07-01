@@ -1,6 +1,6 @@
 ---
 name: arbeitsvertrag-founder-nahe-schluesselrolle
-description: "Berliner Start-up-HR: Schlüsselrollen nah an Foundern: VP, Head of, C-Level minus Organstellung, Bonus, Vesting, Geheimnisse und Exit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Arbeitsvertrag Founder Nahe Schlüsselrolle in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsvertrag Founder Nahe Schlüsselrolle

@@ -1,6 +1,6 @@
 ---
 name: automatic-stay-362
-description: "Prüft automatic stay scope, commencement, protected acts, exceptions, notice and violation consequences im US Bankruptcy Code."
+description: "Wenn es um Automatic Stay Paragraf 362 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Automatic Stay § 362

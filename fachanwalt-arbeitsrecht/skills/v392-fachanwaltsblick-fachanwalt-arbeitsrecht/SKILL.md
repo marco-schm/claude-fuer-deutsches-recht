@@ -1,6 +1,6 @@
 ---
 name: v392-fachanwaltsblick-fachanwalt-arbeitsrecht
-description: "Fachanwaltsblick für Arbeitsrecht: Mandantengespräch, typische Fallkonstellationen, FAO-geprägte Themenbreite, Belegbedarf, Schriftsatzstruktur und taktischer nächster Schritt werden zusammengeführt."
+description: "Wenn es um Fachanwaltsblick Arbeitsrecht in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Fachanwaltsblick Arbeitsrecht

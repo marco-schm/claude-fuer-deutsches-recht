@@ -1,6 +1,6 @@
 ---
 name: 08-urteilsbegruendung-paragraf-267-stpo
-description: "Urteilsgründe: Persoenliche Verhaeltnisse, Feststellungen zum Tatgeschehen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Nebenentscheidungen"
+description: "Wenn es um 08 Urteilsbegründung Paragraf 267 Stpo in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 08 Urteilsbegründung Paragraf 267 Stpo

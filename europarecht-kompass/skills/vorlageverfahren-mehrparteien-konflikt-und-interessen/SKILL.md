@@ -1,6 +1,6 @@
 ---
 name: vorlageverfahren-mehrparteien-konflikt-und-interessen
-description: "Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix

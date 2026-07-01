@@ -1,6 +1,6 @@
 ---
 name: berufskrankheit-bk-meldung-bkv
-description: "Berufskrankheit: Meldung und Anerkennung. Skill klaert die BK-Liste der Berufskrankheitenverordnung (BKV) typische BK (Larmschwerhoerigkeit Asbestose Hauterkrankungen) den Wie-Tatbestand (§ 9 Abs. 2 SGB VII) und das aufwendige Anerkennungsverfahren. Liefert Vorlage."
+description: "Wenn es um Berufskrankheit Bk Meldung Bkv in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berufskrankheit Bk Meldung Bkv

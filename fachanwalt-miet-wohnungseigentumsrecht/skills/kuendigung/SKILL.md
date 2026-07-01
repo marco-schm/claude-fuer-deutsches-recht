@@ -1,6 +1,6 @@
 ---
 name: kuendigung
-description: "Vermieter will Mietverhältnis kündigen oder Mieter erhaelt Kündigung und prüft Wirksamkeit: Ordentliche Kündigung § 573 BGB außerordentliche Kündigung §§ 543 569 BGB..."
+description: "Wenn es um Vermieter will Mietverhältnis kündigen oder Mieter erhaelt Kündigung und prüft Wirksamkeit in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vermieter will Mietverhältnis kündigen oder Mieter erhaelt Kündigung und prüft Wirksamkeit

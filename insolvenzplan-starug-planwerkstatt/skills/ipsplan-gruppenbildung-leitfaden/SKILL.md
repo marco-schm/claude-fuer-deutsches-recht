@@ -1,6 +1,6 @@
 ---
 name: ipsplan-gruppenbildung-leitfaden
-description: "Leitfaden Gruppenbildung im Insolvenz- und Restrukturierungsplan §§ 222 InsO, §§ 9 ff. StaRUG: sachgerechte Abgrenzung, Schlechterstellungsverbot. Prüfraster für Planersteller im Insolvenzplan Starug Planwerkstatt."
+description: "Wenn es um IPSPlan: Gruppenbildung in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IPSPlan: Gruppenbildung

@@ -1,6 +1,6 @@
 ---
 name: realvertraege-system
-description: "Römisches Recht: Realvertraege System. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Realvertraege System in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Realvertraege System

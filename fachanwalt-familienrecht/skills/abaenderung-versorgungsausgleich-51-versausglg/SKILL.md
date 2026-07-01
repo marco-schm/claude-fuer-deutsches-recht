@@ -1,6 +1,6 @@
 ---
 name: abaenderung-versorgungsausgleich-51-versausglg
-description: "Familienrechtlicher Skill zu Abänderung Versorgungsausgleich Paragraf 51 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
+description: "Wenn es um Abaenderung Versorgungsausgleich 51 Versausglg in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abänderung Versorgungsausgleich Paragraf 51 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

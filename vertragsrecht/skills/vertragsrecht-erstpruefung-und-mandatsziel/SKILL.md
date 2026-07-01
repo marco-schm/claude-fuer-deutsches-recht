@@ -1,6 +1,6 @@
 ---
 name: vertragsrecht-erstpruefung-und-mandatsziel
-description: "Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel in Vertragsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel

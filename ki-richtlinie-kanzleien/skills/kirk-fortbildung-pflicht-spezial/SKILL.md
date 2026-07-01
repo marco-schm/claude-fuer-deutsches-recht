@@ -1,6 +1,6 @@
 ---
 name: kirk-fortbildung-pflicht-spezial
-description: "Spezialfall Fortbildungspflicht zu KI in der Anwaltschaft: § 43a BRAO, Berufsfortbildung, EU AI Act Art. 4 KI-Kompetenz. Prüfraster für Kanzleimanagement im Ki Richtlinie Kanzleien."
+description: "Wenn es um KIRK: Fortbildung digitale Werkzeuge-Pflicht in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # KIRK: Fortbildung KI-Pflicht

@@ -1,6 +1,6 @@
 ---
 name: chn-067-csddd-readiness
-description: "Festlandchina Wirtschaftsverkehr: CSDDD Readiness. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um CSDDD Readiness in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CSDDD Readiness

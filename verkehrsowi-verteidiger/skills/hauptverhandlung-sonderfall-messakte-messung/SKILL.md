@@ -1,6 +1,6 @@
 ---
 name: hauptverhandlung-sonderfall-messakte-messung
-description: "Hauptverhandlung: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Hauptverhandlung: Sonderfall und Edge-Case-Prüfung in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Hauptverhandlung: Sonderfall und Edge-Case-Prüfung

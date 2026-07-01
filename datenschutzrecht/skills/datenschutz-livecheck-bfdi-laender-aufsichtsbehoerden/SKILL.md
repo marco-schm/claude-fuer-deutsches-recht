@@ -1,6 +1,6 @@
 ---
 name: datenschutz-livecheck-bfdi-laender-aufsichtsbehoerden
-description: "Livecheck-Skill für aktuelle Veroeffentlichungen BfDI und Landesdatenschutzbehoerden vor Abgabe Schriftsatz oder Stellungnahme: S..."
+description: "Wenn es um Datenschutz Livecheck Bfdi Laender Aufsichtsbehoerden in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Livecheck-Skill für aktuelle Veroeffentlichungen BfDI und Landesdatenschutzbehoerden vor Abgabe Schriftsatz oder Stellungnahme

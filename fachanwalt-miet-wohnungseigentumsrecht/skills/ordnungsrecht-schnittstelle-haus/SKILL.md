@@ -1,6 +1,6 @@
 ---
 name: ordnungsrecht-schnittstelle-haus
-description: "Ordnungsrecht-Schnittstelle: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Brandschutz, Hygiene, Lärm, Gefahrenabwehr und Mietfolgen; mit Normprüfung, Beweisen, Fristen, Risi..."
+description: "Wenn es um Ordnungsrecht-Schnittstelle: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ordnungsrecht-Schnittstelle: Fachmodul im Miet- und Wohnungseigentumsrecht

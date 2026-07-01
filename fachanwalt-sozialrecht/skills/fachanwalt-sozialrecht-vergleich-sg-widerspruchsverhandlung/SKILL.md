@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung
-description: "Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behoerde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhoerung GdB-Verfahren Vergleich Schwerbehinderung. Workflow Korrespondenz Behoerde Klagebegründung Vergleichsbereitschaft Gericht."
+description: "Wenn es um Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung in Fachanwalt Sozialrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung

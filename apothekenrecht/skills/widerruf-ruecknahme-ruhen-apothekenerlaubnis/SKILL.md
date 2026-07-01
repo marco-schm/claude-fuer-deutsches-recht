@@ -1,6 +1,6 @@
 ---
 name: widerruf-ruecknahme-ruhen-apothekenerlaubnis
-description: "Widerruf Rücknahme Ruhen Apothekenerlaubnis: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: Norm-/Quellenanke..."
+description: "Wenn es um Widerruf Ruecknahme Ruhen Apothekenerlaubnis in Apothekenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Widerruf Rücknahme Ruhen Apothekenerlaubnis: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

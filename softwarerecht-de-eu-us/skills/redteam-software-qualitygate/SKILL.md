@@ -1,6 +1,6 @@
 ---
 name: redteam-software-qualitygate
-description: "Finaler Qualitätsfilter für Software-Rechtsausgaben gegen Halluzination, fehlende Quellen, übersehene IP-/OSS-/US-Risiken und Vertragswidersprüche."
+description: "Wenn es um Red-Team Software Qualitygate in Softwarerecht Deutschland/EU/International/USA geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Red-Team Software Qualitygate

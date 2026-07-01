@@ -1,6 +1,6 @@
 ---
 name: rechtsfolgenabschaetzung-leitfaden
-description: "Leitfaden Gesetzesfolgenabschaetzung GFA: monetaer, nicht monetaer, KMU-Test, Nachhaltigkeitspruefung. Prüfraster für Ressort und Verband."
+description: "Wenn es um LegW: Gesetzesfolgenabschaetzung in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LegW: Gesetzesfolgenabschaetzung

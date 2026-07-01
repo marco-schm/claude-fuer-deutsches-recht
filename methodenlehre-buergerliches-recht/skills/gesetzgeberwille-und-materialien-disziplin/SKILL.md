@@ -1,6 +1,6 @@
 ---
 name: gesetzgeberwille-und-materialien-disziplin
-description: "Lehrt den methodisch disziplinierten Umgang mit Gesetzgebungsmaterialien bei der historischen Auslegung im Zivilrecht. Das Skill zeigt, welche Materialien zulässigerweise herangezogen werden dürfen, wie ihnen der richtige Stellenwert zugemessen wird und wo die Grenze zwischen legalem Bezug auf de..."
+description: "Wenn es um Gesetzgeberwille und Materialien: Methodische Disziplin in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesetzgeberwille und Materialien: Methodische Disziplin

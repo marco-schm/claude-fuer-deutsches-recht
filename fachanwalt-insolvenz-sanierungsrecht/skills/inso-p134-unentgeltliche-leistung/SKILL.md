@@ -1,6 +1,6 @@
 ---
 name: inso-p134-unentgeltliche-leistung
-description: "§ 134 InsO (Unentgeltliche Leistung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 134 InsO (Unentgeltliche Leistung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Friste..."
+description: "Wenn es um Inso P134 Unentgeltliche Leistung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 134 InsO (Unentgeltliche Leistung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

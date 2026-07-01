@@ -1,6 +1,6 @@
 ---
 name: zitat-leitsatzentscheidung
-description: "Leitsatz-Entscheidung mit Leitsatz zitieren: BGH, Urt. ..., Leitsatz 1 lautet: ... Original-Leitsatz im Wortlaut, dann Begruendung mit Rn. Format für Schriftsatz und Memo."
+description: "Wenn es um Leitsatz-Entscheidung in Zitierweise deutsches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Leitsatz-Entscheidung

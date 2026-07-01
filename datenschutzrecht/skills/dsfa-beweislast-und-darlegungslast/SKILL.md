@@ -1,6 +1,6 @@
 ---
 name: dsfa-beweislast-und-darlegungslast
-description: "Dsfa: Beweislast, Darlegungslast und Substantiierung: Dsfa: Beweislast, Darlegungslast und Substantiierung."
+description: "Wenn es um Dsfa: Beweislast, Darlegungslast und Substantiierung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dsfa Beweislast Und Darlegungslast; Arbeitsfeld: Datenschutzrecht."
 ---
 
 # Dsfa: Beweislast, Darlegungslast und Substantiierung

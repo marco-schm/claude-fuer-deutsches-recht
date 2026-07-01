@@ -1,6 +1,6 @@
 ---
 name: space-026-space-mining-ressourcen-eigentum-sicherheiten
-description: "Weltraumrecht: Space Mining Ressourcenrechte Eigentum und Sicherheiten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Space Mining Ressourcenrechte Eigentum und Sicherheiten in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Space Mining Ressourcenrechte Eigentum und Sicherheiten

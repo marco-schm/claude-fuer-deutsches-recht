@@ -1,6 +1,6 @@
 ---
 name: notaranderkonto-auszahlungsreife-rechtsprechungscheck
-description: "Notare: notaranderkonto auszahlungsreife - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Notaranderkonto Auszahlungsreife Rechtsprechungscheck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: notaranderkonto auszahlungsreife - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

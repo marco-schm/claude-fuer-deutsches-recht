@@ -1,6 +1,6 @@
 ---
 name: redteam
-description: "Stellt Gegenangriffsfragen an jede Untersuchungshypothese, deckt Beweislücken auf und prüft die Verwertbarkeit des Ermittlungsergebnisses."
+description: "Wenn es um Red-Team-Analyse in Internal Investigations in Internal Investigations Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team-Analyse in Internal Investigations

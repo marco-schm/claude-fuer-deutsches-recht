@@ -1,6 +1,6 @@
 ---
 name: tier-071-gefluegelmast-schutzbedarf-pruefen
-description: "Tierschutzrecht: Geflügelmast: Schutzbedarf prüfen. Schutzbedarf prüfen für Geflügelmast im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Gefluegelmast Schutzbedarf Pruefen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gefluegelmast Schutzbedarf Pruefen

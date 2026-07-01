@@ -1,6 +1,6 @@
 ---
 name: chn-040-ip-strategy-before-china-entry
-description: "Festlandchina Wirtschaftsverkehr: IP Strategy Before China Entry. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um IP Strategy Before China Entry in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IP Strategy Before China Entry

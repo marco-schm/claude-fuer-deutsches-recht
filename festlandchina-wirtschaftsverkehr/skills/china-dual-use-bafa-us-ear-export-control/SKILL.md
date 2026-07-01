@@ -1,6 +1,6 @@
 ---
 name: china-dual-use-bafa-us-ear-export-control
-description: "BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-VO 2021/821 Anhang I (AL-Listung), Catch-All-Klausel Art. 4 Abs. 1, End-User-Zertifikat (EUC), Ablehnungsgründe, Strafbarkeit §§ 17 AWG, Unterschied Ausfuhrgenehmigung und Vermarktungsgenehmigung, Einzelfall-Anträge BAFA. Output: Dua..."
+description: "Wenn es um BAFA Dual-Use-Check: Genehmigungspflichten für China-Exporte in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BAFA Dual-Use-Check: Genehmigungspflichten für China-Exporte

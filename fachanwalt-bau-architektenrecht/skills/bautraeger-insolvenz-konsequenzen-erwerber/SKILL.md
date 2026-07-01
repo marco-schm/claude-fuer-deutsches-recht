@@ -1,6 +1,6 @@
 ---
 name: bautraeger-insolvenz-konsequenzen-erwerber
-description: "Bautraeger-Insolvenz Konsequenzen für den Erwerber: Skill klaert die Risikobetrachtung Vormerkungsschutz nicht-fertiggestellte Wohnung Buergschaftsabruf MaBV-Vermögenstrennung Forderungsanmeldung. Liefert..."
+description: "Wenn es um Bautraeger-Insolvenz Konsequenzen für den Erwerber in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bautraeger-Insolvenz Konsequenzen für den Erwerber

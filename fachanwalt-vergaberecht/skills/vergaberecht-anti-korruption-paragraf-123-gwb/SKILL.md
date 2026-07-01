@@ -1,6 +1,6 @@
 ---
 name: vergaberecht-anti-korruption-paragraf-123-gwb
-description: "Vergaberecht Anti Korruption § 123 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Vergaberecht Anti Korruption Paragraf 123 GWB in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vergaberecht Anti Korruption § 123 GWB

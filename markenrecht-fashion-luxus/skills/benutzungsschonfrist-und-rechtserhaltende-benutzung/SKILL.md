@@ -1,6 +1,6 @@
 ---
 name: benutzungsschonfrist-und-rechtserhaltende-benutzung
-description: "Rechtserhaltende Benutzung und Benutzungsschonfrist prüfen: ernsthafte Benutzung, Zeitraum, Gebiet, Waren/Dienstleistungen, Benutzungsunterlagen, Widerspruchseinrede, Verfallsrisiko und Belegpaket im Markenrecht Fashion Luxus."
+description: "Wenn es um Rechtserhaltende Benutzung in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtserhaltende Benutzung

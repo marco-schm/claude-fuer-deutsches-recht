@@ -1,6 +1,6 @@
 ---
 name: zulassungsfragen-kanzleisitz-protokoll
-description: "Patentanwälte: zulassungsfragen und kanzleisitz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Zulassungsfragen Kanzleisitz Protokoll in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: zulassungsfragen und kanzleisitz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

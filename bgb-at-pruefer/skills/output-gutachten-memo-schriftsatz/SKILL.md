@@ -1,6 +1,6 @@
 ---
 name: output-gutachten-memo-schriftsatz
-description: "Output-Skill für BGB-AT-Ergebnisse: Klausurlösung im Gutachtenstil, praxisnahes Mandatsmemo, Subsumtionsraster und Schriftsatzbaustein — abhängig vom Arbeitsziel und Mandantenkontext strukturiert aufbereitet."
+description: "Wenn es um Output-Formate — Gutachten, Memo, Schriftsatz im BGB AT in BGB AT Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Output-Formate — Gutachten, Memo, Schriftsatz im BGB AT

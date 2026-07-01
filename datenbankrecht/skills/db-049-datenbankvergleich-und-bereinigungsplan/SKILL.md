@@ -1,6 +1,6 @@
 ---
 name: db-049-datenbankvergleich-und-bereinigungsplan
-description: "Datenbankrecht: Datenbankvergleich und Bereinigungsplan mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Datenbankvergleich und Bereinigungsplan in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Datenbankvergleich und Bereinigungsplan

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-bedrohung-241-stgb
-description: "Bedrohung nach § 241 StGB: Verschaerfung 2021 durch das Gesetz zur Bekaempfung des Rechtsextremismus und der Hasskriminalitaet. Bedrohung mit Verbrechen oder mit rechtswidriger Tat gegen sexuelle Selbstbestimmung koerperliche Unve..."
+description: "Wenn es um Bedrohung nach Paragraf 241 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bedrohung nach § 241 StGB

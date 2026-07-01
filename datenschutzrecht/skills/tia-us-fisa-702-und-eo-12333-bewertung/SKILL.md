@@ -1,6 +1,6 @@
 ---
 name: tia-us-fisa-702-und-eo-12333-bewertung
-description: "Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Executive Order 12333 für das TIA. Sachstand der EuGH-Kritik aus Schrems II, Reform durch EO 14086 (DPF-Grundlage), Folgen für Cloud-Provider, electronic communication service provider Status. Mit Prüfraster und Texten für Schritt 3 E..."
+description: "Wenn es um US-Ueberwachungsgrundlagen FISA 702 und EO 12333 für das TIA in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # US-Ueberwachungsgrundlagen FISA 702 und EO 12333 für das TIA

@@ -1,6 +1,6 @@
 ---
 name: wandeldarlehen
-description: "Prüft Wandeldarlehen, Discount, Cap, Wandlung, Rang, Prospekt-/Bankaufsichtsrisiken im Gesellschaftsgruender."
+description: "Wenn es um Wandeldarlehen und SAFE-ähnliche Instrumente in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wandeldarlehen und SAFE-ähnliche Instrumente

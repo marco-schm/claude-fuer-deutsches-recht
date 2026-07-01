@@ -1,6 +1,6 @@
 ---
 name: spezial-antennen-satellitenschuessel
-description: "Satellitenschüssel/Antennen: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Informationsfreiheit, Optik, Alternativen, WEG/Miete; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Satellitenschüssel/Antennen in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Satellitenschüssel/Antennen

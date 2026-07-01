@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-unabhaengigkeit-bei-pie-pruefung-organisatio
-description: "Wirtschaftsprüfer: unabhaengigkeit bei pie pruefung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Organisatio in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: unabhaengigkeit bei pie pruefung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: mass-tort-bankruptcy
-description: "Prüft mass tort Chapter 11 issues: claims estimation, channeling, third-party releases, insurance and trust structures im US Bankruptcy Code."
+description: "Wenn es um Mass Tort Bankruptcy in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mass Tort Bankruptcy

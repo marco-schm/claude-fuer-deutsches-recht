@@ -1,6 +1,6 @@
 ---
 name: chn-093-security-of-travel-and-devices
-description: "Festlandchina Wirtschaftsverkehr: Security Of Travel And Devices. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Security Of Travel And Devices in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Security Of Travel And Devices

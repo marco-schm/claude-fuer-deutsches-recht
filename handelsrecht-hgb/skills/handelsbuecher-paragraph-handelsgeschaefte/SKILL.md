@@ -1,6 +1,6 @@
 ---
 name: handelsbuecher-paragraph-handelsgeschaefte
-description: "Prüft Buchführungspflicht, Handelsbriefe, Belegfunktion und Prozessbeweis im Handelsrecht Hgb."
+description: "Wenn es um Handelsbücher Paragraf 238 HGB in Handelsrecht HGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Handelsbücher § 238 HGB

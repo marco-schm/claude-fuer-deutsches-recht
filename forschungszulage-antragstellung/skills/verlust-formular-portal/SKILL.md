@@ -1,6 +1,6 @@
 ---
 name: verlust-formular-portal
-description: "Verlust: Formular, Portal und Einreichungslogik im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kriti..."
+description: "Wenn es um Verlust: Formular, Portal und Einreichungslogik in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlust: Formular, Portal und Einreichungslogik

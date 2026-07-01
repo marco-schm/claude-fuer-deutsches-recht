@@ -1,6 +1,6 @@
 ---
 name: widerruf-fernabsatz
-description: "Unterstützt bei Fragen zum Widerrufsrecht im Fernabsatzrecht nach §§ 312g und 355 BGB: Belehrungspflichten, Fristberechnung, Rechtsfolgen des Widerrufs und Ausnahmen. Lädt, wenn ein Mandat Widerrufsbelehrung, Widerrufsdurchsetzung oder Rückabwicklung eines Fernabsatz- oder Außergeschäftsraumvertr..."
+description: "Wenn es um Widerruf im Fernabsatz- und Außergeschäftsraumvertrag in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Widerruf im Fernabsatz- und Außergeschäftsraumvertrag

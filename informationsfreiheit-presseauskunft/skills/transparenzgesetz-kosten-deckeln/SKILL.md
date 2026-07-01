@@ -1,6 +1,6 @@
 ---
 name: transparenzgesetz-kosten-deckeln
-description: "Informationsfreiheit und Presseauskunft: Transparenzgesetz: Kosten deckeln im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Transparenzgesetz Kosten Deckeln in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transparenzgesetz Kosten Deckeln

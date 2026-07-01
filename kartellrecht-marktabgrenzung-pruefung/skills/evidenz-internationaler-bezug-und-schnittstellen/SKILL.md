@@ -1,6 +1,6 @@
 ---
 name: evidenz-internationaler-bezug-und-schnittstellen
-description: "Evidenz: Internationaler Bezug und Schnittstellen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Evidenz: Internationaler Bezug und Schnittstellen in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Evidenz: Internationaler Bezug und Schnittstellen

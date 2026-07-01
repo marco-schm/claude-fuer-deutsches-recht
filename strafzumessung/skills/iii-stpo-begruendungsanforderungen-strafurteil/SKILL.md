@@ -1,6 +1,6 @@
 ---
 name: iii-stpo-begruendungsanforderungen-strafurteil
-description: "Begruendungsanforderungen an die Strafzumessung im Strafurteil § 267 Abs. 3 StPO. Pflicht zur Mitteilung der bestimmenden Strafzumessungsgruende. Strafrahmen, Schuldrahmen, Strafzumessungstatsachen § 46 Abs. 2 StGB. Bewaehrungs- und Strafaussetzungsbegruendung. Strafzumessungsruege im Revisionsve..."
+description: "Wenn es um Begruendung der Strafzumessung im Urteil — Paragraf 267 Abs. 3 StPO in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Begruendung der Strafzumessung im Urteil — § 267 Abs. 3 StPO

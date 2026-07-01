@@ -1,6 +1,6 @@
 ---
 name: bautraeger-fertigstellungsfrist-und-verzug
-description: "Bautraeger Fertigstellungsfrist und Verzug: Skill klaert die Vereinbarung der Bauzeit Verzugsfolgen Vertragsstrafe und das Verhältnis zur MaBV. BGH-Linie zu zu weiten Verzugsfristen. Liefert Prüfraster."
+description: "Wenn es um Bautraeger Fertigstellungsfrist und Verzug in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bautraeger Fertigstellungsfrist und Verzug

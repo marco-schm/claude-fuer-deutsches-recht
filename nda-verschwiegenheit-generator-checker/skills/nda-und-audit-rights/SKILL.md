@@ -1,6 +1,6 @@
 ---
 name: nda-und-audit-rights
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Audit Rights; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um NDA Und Audit Rights in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # NDA Und Audit Rights

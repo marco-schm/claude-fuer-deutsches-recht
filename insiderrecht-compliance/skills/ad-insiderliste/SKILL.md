@@ -1,6 +1,6 @@
 ---
 name: ad-insiderliste
-description: "Fuehrt durch die vollstaendige Ad-hoc-Pflicht nach Art. 17 MAR: Zeitpunkt, Inhalt, Verbreitung, Website, Sprachfassung, BaFin-Meldung und Dokumentation im Insiderrecht Compliance."
+description: "Wenn es um Ad-hoc-Publizität nach Art. 17 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ad-hoc-Publizität nach Art. 17 MAR

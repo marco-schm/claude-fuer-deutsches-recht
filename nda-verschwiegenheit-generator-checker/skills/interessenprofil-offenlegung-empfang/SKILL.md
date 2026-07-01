@@ -1,6 +1,6 @@
 ---
 name: interessenprofil-offenlegung-empfang
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Interessenprofil Offenlegung Empfang; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Interessenprofil Offenlegung Empfang in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Interessenprofil Offenlegung Empfang

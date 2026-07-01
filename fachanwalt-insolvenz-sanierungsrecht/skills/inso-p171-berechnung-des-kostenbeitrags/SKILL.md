@@ -1,6 +1,6 @@
 ---
 name: inso-p171-berechnung-des-kostenbeitrags
-description: "§ 171 InsO (Berechnung des Kostenbeitrags) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 171 InsO (Berechnung des Kostenbeitrags) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsf..."
+description: "Wenn es um Inso P171 Berechnung Des Kostenbeitrags in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 171 InsO (Berechnung des Kostenbeitrags) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

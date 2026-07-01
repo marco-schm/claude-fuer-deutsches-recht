@@ -1,6 +1,6 @@
 ---
 name: verfassungsrechtliche-pruefung
-description: "Verfassungsrechtliche Prüfung einer Maßnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien Verhältnismäßigkeit EU-Recht. Output: umfassendes Verfassungsprüfmemo. Abgrenzung..."
+description: "Wenn es um Verfassungsrechtliche Prüfung — Master-Workflow in verfassungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verfassungsrechtliche Prüfung — Master-Workflow

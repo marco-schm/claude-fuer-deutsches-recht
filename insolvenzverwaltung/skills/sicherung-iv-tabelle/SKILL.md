@@ -1,6 +1,6 @@
 ---
 name: sicherung-iv-tabelle
-description: "Betrieb in Insolvenz fortführen wenn Massemehrung oder Sanierung geplant ist und Lohn Lieferanten und Auftraege gesichert werden muessen. §§ 22 55 InsO Massebegrundung §§ 113 120 InsO Arbeitsverhältnisse. Prüfraster: Fortführungsziel Cash-Bridge Insolvenzgeldzeitraum kritische Lieferanten operati..."
+description: "Wenn es um Sicherung und Betriebsfortführung in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sicherung und Betriebsfortführung

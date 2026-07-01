@@ -1,6 +1,6 @@
 ---
 name: ueberpositives-recht-als-leerformel-check
-description: "Dieses Skill prüft den argumentativen Einsatz von überpositivem Recht, Naturrecht und ungeschriebenen Verfassungsprinzipien auf ihre methodische Substanz und warnt vor deren Verwendung als inhaltsleere Leerformel. Es zeigt, wann Argumente aus überpositivem Recht methodisch zulässig sind, wann sie..."
+description: "Wenn es um Überpositives Recht als Leerformel: Methodischer Check in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Überpositives Recht als Leerformel: Methodischer Check

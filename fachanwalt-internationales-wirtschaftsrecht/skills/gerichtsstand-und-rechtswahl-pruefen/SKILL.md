@@ -1,6 +1,6 @@
 ---
 name: gerichtsstand-und-rechtswahl-pruefen
-description: "Gerichtsstand Und Rechtswahl Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Gerichtsstand Und Rechtswahl Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtspre..."
+description: "Wenn es um Gerichtsstand Und Rechtswahl Pruefen in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gerichtsstand Und Rechtswahl Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

@@ -1,6 +1,6 @@
 ---
 name: strassenentwaesserung
-description: "Straßenrecht und Infrastruktur: Straßenentwässerung. Straßenentwässerung im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Bel..."
+description: "Wenn es um Strassenentwaesserung in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strassenentwaesserung

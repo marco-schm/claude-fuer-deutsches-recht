@@ -1,6 +1,6 @@
 ---
 name: aussenhandel-zahlen-schwellen-und-berechnung
-description: "Aussenhandel: Zahlen, Schwellenwerte und Berechnung: Aussenhandel: Zahlen, Schwellenwerte und Berechnung."
+description: "Wenn es um Aussenhandel: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Internationales Wirtschaftsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Aussenhandel: Zahlen, Schwellenwerte und Berechnung

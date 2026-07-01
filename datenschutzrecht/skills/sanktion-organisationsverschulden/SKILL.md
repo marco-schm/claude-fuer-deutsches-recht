@@ -1,6 +1,6 @@
 ---
 name: sanktion-organisationsverschulden
-description: "Datenschutzrecht-Brückenskill: Organisationsverschulden ersteinschätzen: Schuldhaftes Unternehmensverhalten nach EuGH C-807/21/C-683/21 anhand Organisation, Wissen und Pflichtverstoß prüfen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und geri..."
+description: "Wenn es um Organisationsverschulden ersteinschätzen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Organisationsverschulden ersteinschätzen

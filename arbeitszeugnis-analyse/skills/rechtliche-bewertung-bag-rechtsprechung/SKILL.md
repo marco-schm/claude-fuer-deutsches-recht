@@ -1,6 +1,6 @@
 ---
 name: rechtliche-bewertung-bag-rechtsprechung
-description: "Rechtliche Einordnung von Zeugnisansprüchen nach Paragraf 109 GewO und BAG-Rechtsprechung für die anwaltliche Praxis. Anwendungsfall Anwalt benötigt Beweislastverteilung und Rechtsgrundlagen für Zeugnisstreit oder Klagebegründung. Normen Paragraf 109 GewO Anspruchsgrundlage Paragraf 611a BGB Paragraf 241 Abs. 2 BGB Wohlwollenspflicht BAG-Linie zur Beweislast. Prüfraster Anspruch auf qualifiziertes Zeugnis Beweislast bei Zeugnisstreit Grenzen Wahrheitspflicht Verjährung. Output Rechtliche Einordnung mit BAG-Nachweisen für Klagebegründung oder Verhandlungsstrategie. Abgrenzung zu klage-strategie-zeugnisberichtigung und aufforderungsschreiben-arbeitgeber."
+description: "Wenn es um Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis

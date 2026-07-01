@@ -1,6 +1,6 @@
 ---
 name: ag-se-boersennotiert-router
-description: "AG/SE-Aufsichtsrat Praxis: AG SE Boersennotiert Router; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um AG SE Boersennotiert Router in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # AG SE Boersennotiert Router

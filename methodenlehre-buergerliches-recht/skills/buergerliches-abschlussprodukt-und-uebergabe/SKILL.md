@@ -1,6 +1,6 @@
 ---
 name: buergerliches-abschlussprodukt-und-uebergabe
-description: "Dieses Skill definiert und strukturiert das juristische Abschlussprodukt eines zivilrechtlichen Mandats und leitet die methodisch korrekte Übergabe an den Mandanten an: Dieses Skill definiert und strukturiert das juristische Abschlussprodukt eines zivilrech..."
+description: "Wenn es um Buergerliches Abschlussprodukt Und Uebergabe in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dieses Skill definiert und strukturiert das juristische Abschlussprodukt eines zivilrechtlichen Mandats und leitet die methodisch korrekte Übergabe an den Mandanten an

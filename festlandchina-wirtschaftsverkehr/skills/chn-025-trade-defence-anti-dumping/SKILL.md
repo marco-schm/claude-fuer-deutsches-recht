@@ -1,6 +1,6 @@
 ---
 name: chn-025-trade-defence-anti-dumping
-description: "Festlandchina Wirtschaftsverkehr: Trade Defence Anti Dumping. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Trade Defence Anti Dumping in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Trade Defence Anti Dumping

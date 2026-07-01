@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Liquiditätsplanung: stimmt Adressat (Geschäftsführung, Finanzen/CFO, Bank), Frist (Rolling 13-week-Plan) und Form auf den Zweck ab — typische Outputs: 13-Wochen-Plan, 24-Monats-Plan, Cash-Pool-Aufstellung."
+description: "Wenn es um Output wählen in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: drv-sozialversicherungspruefung
-description: "Steuerberater-Begleitung der DRV-Sozialversicherungsprüfung nach § 28p SGB IV. Anwendungsfall Mandant-GmbH erhaelt DRV-Prüfankündigung oder Prüfung laeuft bereits. Prüfungsschwerpunkte Statusfeststellung GF Scheinselbstständigkeit Mini- und Midijobs Phantomlohn Mindestlohn BAGB. Strafbarkeit § 26..."
+description: "Wenn es um DRV-Sozialversicherungsprüfung — Steuerberater-Begleitung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DRV-Sozialversicherungsprüfung — Steuerberater-Begleitung

@@ -1,6 +1,6 @@
 ---
 name: lph-09-qualitaetsgate
-description: "HOAI LPH 9 Objektbetreuung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 9 Objektbetreuung: Erstellt ein qualitygate in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 9 Objektbetreuung: Erstellt ein qualitygate

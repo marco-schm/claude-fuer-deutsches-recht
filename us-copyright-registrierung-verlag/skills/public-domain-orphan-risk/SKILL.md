@@ -1,6 +1,6 @@
 ---
 name: public-domain-orphan-risk
-description: "Prüft Public-Domain-Behauptungen, orphan works, alte Formalitäten, renewals, restorations und Risiko bei Backlist/Archive im Us Copyright Registrierung Verlag."
+description: "Wenn es um Public Domain und Orphan Risk in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Public Domain und Orphan Risk

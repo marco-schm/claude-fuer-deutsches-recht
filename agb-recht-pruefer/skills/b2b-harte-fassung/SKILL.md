@@ -1,6 +1,6 @@
 ---
 name: b2b-harte-fassung
-description: "Output- und Streit-Skill für B2B Harte Fassung: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen."
+description: "Wenn es um B2B Harte Fassung in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # B2B Harte Fassung

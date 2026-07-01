@@ -1,6 +1,6 @@
 ---
 name: bag-equal-pay-paarvergleich-8azr30024
-description: "Bag Equal Pay Paarvergleich 8azr30024: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Bag Equal Pay Paarvergleich 8azr30024: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsp..."
+description: "Wenn es um Bag Equal Pay Paarvergleich 8azr30024 in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bag Equal Pay Paarvergleich 8azr30024: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

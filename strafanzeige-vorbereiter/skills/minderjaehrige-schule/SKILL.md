@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-schule
-description: "Strafanzeige bei Minderjährigen/Schule: Jugendstrafrecht, Schutz, Schulrecht, Eltern, Jugendamt und Deeskalation im Strafanzeige-Vorbereitung."
+description: "Wenn es um Minderjährige, Schule und Jugendamt in Strafanzeige-Vorbereiter geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Minderjährige, Schule und Jugendamt

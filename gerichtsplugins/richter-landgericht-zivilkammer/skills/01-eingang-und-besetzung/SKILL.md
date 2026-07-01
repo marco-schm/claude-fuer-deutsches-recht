@@ -1,6 +1,6 @@
 ---
 name: 01-eingang-und-besetzung
-description: "Eingangsprüfung Paragraf 522 ZPO bei Berufung, sachliche Zuständigkeit Paragraf 71 GVG (Erste Instanz) und Paragraf 119 GVG (Berufung gegen Amtsgerichtsurteil), Geschaeftsverteilungsplan, Einzelrichterübertragung Paragraf 348a ZPO"
+description: "Wenn es um 01 Eingang und Besetzung in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 01 Eingang und Besetzung

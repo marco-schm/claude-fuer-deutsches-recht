@@ -1,6 +1,6 @@
 ---
 name: bildrechte-zahlen-schwellen-und-berechnung
-description: "Bildrechte: Zahlen, Schwellenwerte und Berechnung im Verlagsredaktion. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Bildrechte: Zahlen, Schwellenwerte und Berechnung in Verlagsredaktion geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Bildrechte: Zahlen, Schwellenwerte und Berechnung

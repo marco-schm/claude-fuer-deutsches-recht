@@ -1,6 +1,6 @@
 ---
 name: owi-095-aussenwirtschaft-einstellung-anregen
-description: "Ordnungswidrigkeitenrecht: Außenwirtschaft: Einstellung anregen. Einstellung anregen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Aussenwirtschaft Einstellung Anregen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aussenwirtschaft Einstellung Anregen

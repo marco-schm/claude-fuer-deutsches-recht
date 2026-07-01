@@ -1,6 +1,6 @@
 ---
 name: lph-01-grundleistung-besondere-leistung
-description: "HOAI LPH 1 Grundlagenermittlung: grenzt HOAI-Grundleistung, Besondere Leistung und Zusatzauftrag ab; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 1 Grundlagenermittlung: Grenzt hoai-grundleistung in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # LPH 1 Grundlagenermittlung: Grenzt hoai-grundleistung

@@ -1,6 +1,6 @@
 ---
 name: pass-email-und-feedback
-description: "Erstellt faire Absagen, Watchlist-Feedback und Wiedervorlage ohne Haftungs- oder Reputationsrisiko im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Absage und Feedback in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Absage und Feedback

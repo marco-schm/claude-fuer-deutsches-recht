@@ -1,6 +1,6 @@
 ---
 name: klaeren-compliance-dokumentation-aktenvermerk
-description: "Klären: Compliance-Dokumentation und Aktenvermerk im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
+description: "Wenn es um Klären: Compliance-Dokumentation und Aktenvermerk in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klären: Compliance-Dokumentation und Aktenvermerk

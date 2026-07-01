@@ -1,6 +1,6 @@
 ---
 name: heilberuf-nebenpraxis-homeoffice
-description: "Solo-Selbstständige: prüft Berufsrecht, Heilmittelwerbung, Datenschutz und Abrechnung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Branchenfälle: Prüft berufsrecht in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Branchenfälle: Prüft berufsrecht

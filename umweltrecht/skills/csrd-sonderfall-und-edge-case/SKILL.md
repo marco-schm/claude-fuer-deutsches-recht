@@ -1,6 +1,6 @@
 ---
 name: csrd-sonderfall-und-edge-case
-description: "Csrd: Sonderfall und Edge-Case-Prüfung im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Csrd: Sonderfall und Edge-Case-Prüfung in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Csrd: Sonderfall und Edge-Case-Prüfung

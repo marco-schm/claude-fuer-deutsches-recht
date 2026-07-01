@@ -1,6 +1,6 @@
 ---
 name: bess-versicherung-und-schadenfall
-description: "Prüft Property, BI, Cyber, Haftpflicht, Umwelt, Bauleistung, Garantien und Claims-Prozess im Energierecht."
+description: "Wenn es um Versicherung und Schadenfallmanagement in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versicherung und Schadenfallmanagement

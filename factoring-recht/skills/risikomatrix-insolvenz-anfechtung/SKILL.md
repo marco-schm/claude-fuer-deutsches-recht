@@ -1,6 +1,6 @@
 ---
 name: risikomatrix-insolvenz-anfechtung
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Risikomatrix Insolvenz Anfechtung im Factoring Recht."
+description: "Wenn es um Risikomatrix Insolvenz Anfechtung in Factoring-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Risikomatrix Insolvenz Anfechtung

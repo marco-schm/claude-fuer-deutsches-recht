@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-qualifiziert
-description: "Vollständiger Aufbau des qualifizierten Arbeitszeugnisses nach Paragraf 109 Abs. 1 S. 3 GewO. Beschreibt alle Pflichtabschnitte in der richtigen Reihenfolge, Formvorschriften, Fließtextpflicht und Unterschriftserfordernisse. Das qualifizierte Zeugnis ist die häufigste Zeugnisart und enthält immer Aussagen zu Leistung und Verhalten."
+description: "Wenn es um Zeugnisart: Qualifiziertes Arbeitszeugnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zeugnisart: Qualifiziertes Arbeitszeugnis

@@ -1,6 +1,6 @@
 ---
 name: paragraph-102-starug-warnpflicht-bei-rechtsberatern
-description: "Paragraph 102 StaRUG Warnpflicht Bei Rechtsberatern: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Krisenfrueherkennung Starug."
+description: "Wenn es um Paragraf 102 StaRUG — Warnpflicht der Rechtsberater in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 102 StaRUG — Warnpflicht der Rechtsberater

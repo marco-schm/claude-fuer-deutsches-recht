@@ -1,6 +1,6 @@
 ---
 name: kindergeld-familienkasse-einspruch
-description: "Kindergeld und Einspruch bei der Familienkasse. Skill erklaert das duale Kindergeldsystem nach EStG und BKGG Anspruch ab Geburt Verlaengerungen bei Ausbildung Behinderung Auslandskinder Hartz-IV-Bezuge und das Einspruchsverfahren nach AO. Liefert Prüfraster."
+description: "Wenn es um Kindergeld Familienkasse Einspruch in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kindergeld Familienkasse Einspruch

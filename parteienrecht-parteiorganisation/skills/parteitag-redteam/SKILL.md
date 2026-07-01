@@ -1,6 +1,6 @@
 ---
 name: parteitag-redteam
-description: "Letzte Prüfung vor Versammlung: Einladung, Stimmberechtigung, Tagesordnung, Wahlordnung, Formulare, Protokoll."
+description: "Wenn es um Parteitag Red-Team in Parteienrecht und Parteiorganisation geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parteitag Red-Team

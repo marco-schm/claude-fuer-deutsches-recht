@@ -1,6 +1,6 @@
 ---
 name: avv-konzern-und-multi-party-konstellation
-description: "AVV im Konzern und in Multi-Party-Konstellationen. Behandelt Konzern-AVV mit zentraler Group-IT Shared-Service-Center und konzernweiter Liste der Auftragsverarbeiter. Klaert die Frage ob Konzern als Einheit auftritt oder jede Gesellschaft eigenstaendig. Output: Konzern-AVV-Klauselgeruest mit Beit..."
+description: "Wenn es um AVV im Konzern und in Multi-Party-Konstellationen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AVV im Konzern und in Multi-Party-Konstellationen

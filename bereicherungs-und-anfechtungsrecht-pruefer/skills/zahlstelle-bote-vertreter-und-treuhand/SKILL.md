@@ -1,6 +1,6 @@
 ---
 name: zahlstelle-bote-vertreter-und-treuhand
-description: "Bei eine Zwischenperson im Zahlungsweg rechtlich richtig eingeordnet werden muss. Normen: §§ 164 ff. BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften..."
+description: "Wenn es um Zahlstelle, Bote, Vertreter und Treuhand in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zahlstelle, Bote, Vertreter und Treuhand

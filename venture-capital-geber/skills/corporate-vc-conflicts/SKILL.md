@@ -1,6 +1,6 @@
 ---
 name: corporate-vc-conflicts
-description: "Prüft strategische Investorenziele, Wettbewerbsdaten, Commercial Agreements, Exklusivität, IP und Clean Team im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Corporate VC und Konflikte in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Corporate VC und Konflikte

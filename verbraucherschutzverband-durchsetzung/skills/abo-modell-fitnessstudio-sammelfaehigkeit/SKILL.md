@@ -1,6 +1,6 @@
 ---
 name: abo-modell-fitnessstudio-sammelfaehigkeit
-description: "Verbraucherschutzverband Durchsetzung: Abo-Modell: Risiko rot markieren im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Abo Modell Risiko Rot Markieren in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abo Modell Risiko Rot Markieren

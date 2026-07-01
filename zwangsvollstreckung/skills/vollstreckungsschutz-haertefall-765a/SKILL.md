@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsschutz-haertefall-765a
-description: "Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaelle Krankheit Suizidgefahr Obdachlosigkeit Glaubhaftmachung ei..."
+description: "Wenn es um Vollstreckungsschutz Paragraf 765a ZPO — Härtefall in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vollstreckungsschutz § 765a ZPO — Härtefall

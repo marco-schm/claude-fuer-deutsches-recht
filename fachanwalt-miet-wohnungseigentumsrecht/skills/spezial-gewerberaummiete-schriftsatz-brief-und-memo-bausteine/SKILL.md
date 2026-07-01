@@ -1,6 +1,6 @@
 ---
 name: spezial-gewerberaummiete-schriftsatz-brief-und-memo-bausteine
-description: "Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt miet wohnungseigentumsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine

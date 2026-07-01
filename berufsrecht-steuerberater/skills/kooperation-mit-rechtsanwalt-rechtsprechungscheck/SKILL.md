@@ -1,6 +1,6 @@
 ---
 name: kooperation-mit-rechtsanwalt-rechtsprechungscheck
-description: "Steuerberater: kooperation mit rechtsanwalt - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Kooperation Mit Rechtsanwalt Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Steuerberater: kooperation mit rechtsanwalt - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

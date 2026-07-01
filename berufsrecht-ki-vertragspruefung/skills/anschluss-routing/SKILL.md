@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Berufsrechts-KI bei Vertragsprüfung: wählt den nächsten Spezial-Skill nach Engpass (Rechtzeitige Mandatsannahme, AVV-Vertrag, Mandatsvertrag, Datenschutzfolgeabschätzung), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in anwaltlichem Berufsrecht und Vertragsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anschluss-Routing

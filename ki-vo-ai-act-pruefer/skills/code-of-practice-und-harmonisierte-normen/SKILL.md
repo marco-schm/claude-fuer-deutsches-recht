@@ -1,6 +1,6 @@
 ---
 name: code-of-practice-und-harmonisierte-normen
-description: "Normen- und Standards-Landkarte für KI-VO-Compliance: Art. 40 harmonisierte Normen, Art. 41 gemeinsame Spezifikationen, Art. 56 GPAI Code of Practice, ISO/IEC 42001 / 23894 / 22989 / 23053 sowie Sicherheits- und Datenschutzstandards. Erklaert Vermutungswirkung nur bei im EU-Amtsblatt referenziert..."
+description: "Wenn es um Verhaltenskodizes, harmonisierte Normen und ISO-Standards in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Verhaltenskodizes, harmonisierte Normen und ISO-Standards

@@ -1,6 +1,6 @@
 ---
 name: abwesenheiten-urlaub
-description: "Verwaltung von Abwesenheiten in der Kanzlei — Urlaub Krankmeldung Elternzeit Pflegezeit Fortbildung. Anwendungsfall Anwalt oder Mitarbeiter meldet Urlaub oder Krankheit und Kanzlei muss Vertretung für Fristen beA Postlauf Mandantenkommunikation sicherstellen. Normen § 7 BUrlG Resturlaub § 16 BEEG..."
+description: "Wenn es um Abwesenheiten, Urlaub, Krankheit in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abwesenheiten, Urlaub, Krankheit

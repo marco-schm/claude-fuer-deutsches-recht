@@ -1,6 +1,6 @@
 ---
 name: lohn-streitfaelle-bag-bsg-haftungsrisiko
-description: "Lohn-Streitfaelle BAG-Linie BSG-Linie StB-Haftungsrisiko. Anwendungsfall typische Streitfaelle Werkvertrag versus AN Status arbeitsrechtlich vs sozialversicherungsrechtlich Klagerisiko. Methodik Rechtsprechungsanalyse Risikobewertung. Output Memo Haftungsrisiko."
+description: "Wenn es um Lohn-Streitfaelle — BAG, BSG, Haftungsrisiken in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lohn-Streitfaelle — BAG, BSG, Haftungsrisiken

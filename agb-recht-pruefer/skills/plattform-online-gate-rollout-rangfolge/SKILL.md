@@ -1,6 +1,6 @@
 ---
 name: plattform-online-gate-rollout-rangfolge
-description: "Einstiegs- und Prüfungslinie für Plattform und Online Checkout: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich im AGB-Recht."
+description: "Wenn es um Plattform und Online Checkout in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Auswahlstichwort: Plattform Online Gate Rollout Rangfolge; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Plattform und Online Checkout

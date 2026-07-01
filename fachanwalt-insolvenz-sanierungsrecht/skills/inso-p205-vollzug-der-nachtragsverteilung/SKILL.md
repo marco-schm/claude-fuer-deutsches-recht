@@ -1,6 +1,6 @@
 ---
 name: inso-p205-vollzug-der-nachtragsverteilung
-description: "§ 205 InsO (Vollzug der Nachtragsverteilung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 205 InsO (Vollzug der Nachtragsverteilung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rec..."
+description: "Wenn es um Inso P205 Vollzug Der Nachtragsverteilung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 205 InsO (Vollzug der Nachtragsverteilung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

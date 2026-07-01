@@ -1,6 +1,6 @@
 ---
 name: dsfa-fuer-internationale-datentransfers
-description: "DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Integration der Transfer Impact Assessment (TIA) in die DSFA, Prüfung Angemessenheit SCC BCR Ausnahmen Art. 49. Output: erweiterte DSFA-Sektion für Drittlandbezug."
+description: "Wenn es um DSFA bei internationalen Datentransfers in Datenschutzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # DSFA bei internationalen Datentransfers

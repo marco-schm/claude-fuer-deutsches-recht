@@ -1,6 +1,6 @@
 ---
 name: impressum-pflicht
-description: "Prüft die Impressumspflicht für Websites, Apps und Social-Media-Profile nach §§ 5 und 6 DDG und § 18 MStV, erstellt konforme Impressumstexte und identifiziert typische Abmahnrisiken nach UWG. Lädt bei Fragen zu Anbieterkennzeichnung, Impressum-Vollständigkeit und Bußgeldrisiken im Produktrecht."
+description: "Wenn es um Impressumspflicht (Paragrafen 5. 6 DDG, Paragraf 18 MStV) in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Impressumspflicht (§§ 5, 6 DDG, § 18 MStV)

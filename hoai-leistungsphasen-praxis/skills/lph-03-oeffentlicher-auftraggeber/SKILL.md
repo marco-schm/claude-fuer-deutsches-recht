@@ -1,6 +1,6 @@
 ---
 name: lph-03-oeffentlicher-auftraggeber
-description: "HOAI LPH 3 Entwurfsplanung: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 3 Entwurfsplanung: Berücksichtigt vergabe in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # LPH 3 Entwurfsplanung: Berücksichtigt vergabe

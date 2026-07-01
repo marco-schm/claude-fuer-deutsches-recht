@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-unterlagen-sortieren
-description: "Laienverstaendlicher Sozialrechts-Skill zu Unterlagen Sortieren. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung."
+description: "Wenn es um Laienhilfe: Unterlagen Sortieren in Fachanwalt Sozialrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Laienhilfe: Unterlagen Sortieren

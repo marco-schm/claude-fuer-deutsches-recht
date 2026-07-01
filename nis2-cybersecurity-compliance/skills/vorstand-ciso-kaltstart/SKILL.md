@@ -1,6 +1,6 @@
 ---
 name: vorstand-ciso-kaltstart
-description: "Führt Vorstand und CISO durch den ersten strukturierten Cyber-Compliance-Kaltstart."
+description: "Wenn es um Vorstand Ciso Kaltstart in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorstand Ciso Kaltstart

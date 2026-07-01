@@ -1,6 +1,6 @@
 ---
 name: vwgo-normenkontrolle
-description: "Umweltschutzverband Verbandsklage: § 47 VwGO Normenkontrolle. § 47 VwGO Normenkontrolle im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage."
+description: "Wenn es um 47 Vwgo Normenkontrolle in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 47 Vwgo Normenkontrolle

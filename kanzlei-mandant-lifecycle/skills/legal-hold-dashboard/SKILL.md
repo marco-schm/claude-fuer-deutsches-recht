@@ -1,6 +1,6 @@
 ---
 name: legal-hold-dashboard
-description: "Legal Hold Dashboard: steuert Legal Holds mit Custodians, Datenquellen, Bestätigung und Review-Fenstern führen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Legal Hold Dashboard in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Legal Hold Dashboard

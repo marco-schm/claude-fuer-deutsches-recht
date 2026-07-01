@@ -1,6 +1,6 @@
 ---
 name: baugenehmigung-baustatistik
-description: "Baustatistik und Bauunterlagen: Genehmigung, Baubeginn, Fertigstellung, Nutzfläche, Kosten und Statistikbogen im Berichtspflichten."
+description: "Wenn es um Baugenehmigung und Baustatistik in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Baugenehmigung und Baustatistik

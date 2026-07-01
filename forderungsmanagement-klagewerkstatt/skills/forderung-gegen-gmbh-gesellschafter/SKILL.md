@@ -1,6 +1,6 @@
 ---
 name: forderung-gegen-gmbh-gesellschafter
-description: "Forderung gegen GmbH-Gesellschafter persoenlich: Paragraf 13 Abs. 2 GmbHG Trennungsprinzip Haftung nur Gesellschaftsvermoegen. Durchgriff bei Paragraf 19 GmbHG (Einlagepflicht) Paragraf 31 GmbHG (verbotene Auszahlung), existenzvernichtender Eingriff BGH II ZR 256/02 (Trihotel) und BGH II ZR 3/04 (Bremer Vulkan). Outp..."
+description: "Wenn es um Forderung gegen GmbH-Gesellschafter in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Forderung gegen GmbH-Gesellschafter

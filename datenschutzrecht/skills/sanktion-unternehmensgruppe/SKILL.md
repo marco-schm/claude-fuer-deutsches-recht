@@ -1,6 +1,6 @@
 ---
 name: sanktion-unternehmensgruppe
-description: "Datenschutzrecht-Brückenskill: Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschu..."
+description: "Wenn es um Unternehmensgruppe und federführende Aufsicht in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unternehmensgruppe und federführende Aufsicht

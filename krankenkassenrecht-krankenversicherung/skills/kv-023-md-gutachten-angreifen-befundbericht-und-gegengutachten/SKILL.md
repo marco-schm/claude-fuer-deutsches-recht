@@ -1,6 +1,6 @@
 ---
 name: kv-023-md-gutachten-angreifen-befundbericht-und-gegengutachten
-description: "Krankenversicherung: MD-Gutachten angreifen Befundbericht und Gegengutachten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: MD-Gutachten angreifen Befundbericht und Gegengutachten in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: MD-Gutachten angreifen Befundbericht und Gegengutachten

@@ -1,6 +1,6 @@
 ---
 name: auftrag-scope
-description: "Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie möglich und so belastbar wie nötig im Internal Investigations Praxis."
+description: "Wenn es um Untersuchungsauftrag und Scope in Internal Investigations Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Auftrag Scope; Arbeitsfeld: Internal Investigations Praxis."
 ---
 
 # Untersuchungsauftrag und Scope

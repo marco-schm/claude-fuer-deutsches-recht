@@ -1,6 +1,6 @@
 ---
 name: beschlusssammlung-protokoll
-description: "Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung (§ 24 Abs. 7 WEG), Anlagenverweise, Abstimmungsergebnis, Nachversand und Dokumentationsstand (Stand 05/2026). Sorgt dafür, dass Auslegungsfragen späterer Beschlussklagen (z. B. BGH V ZR 102/23 zu Abrechnungsbeschlüssen) nicht en..."
+description: "Wenn es um Beschlusssammlung und Protokoll in WEG- und Hausverwaltung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Beschlusssammlung und Protokoll

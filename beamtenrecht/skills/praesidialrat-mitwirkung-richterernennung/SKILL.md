@@ -1,6 +1,6 @@
 ---
 name: praesidialrat-mitwirkung-richterernennung
-description: "Skill zur Mitwirkung des Praesidialrats bei Richterernennungen und Beförderungen nach §§ 54 ff. DRiG und den Landesrichtergesetzen. Klaert die Beteiligungspflichten die Inhalte der Stellungnahme die Folgen unterlassener Beteiligung und das Verhältnis zum Richterwahlausschuss und zur Personalvert..."
+description: "Wenn es um Praesidialrat — Mitwirkung bei Richterernennungen in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Praesidialrat — Mitwirkung bei Richterernennungen

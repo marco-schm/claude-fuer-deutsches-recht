@@ -1,6 +1,6 @@
 ---
 name: inv-011-reporting
-description: "Erstellt Findings, Executive Summary, Board Memo, Maßnahmenplan und Verteidigungsversion ohne unnoetige Selbstbelastung."
+description: "Wenn es um Bericht und Findings in Internal Investigations Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bericht und Findings

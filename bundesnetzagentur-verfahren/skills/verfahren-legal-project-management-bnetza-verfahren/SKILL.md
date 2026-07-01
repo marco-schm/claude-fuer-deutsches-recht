@@ -1,6 +1,6 @@
 ---
 name: verfahren-legal-project-management-bnetza-verfahren
-description: "Verfahren / Legal Project Management BNetzA-Verfahren: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis im BNetzA-Verfahren."
+description: "Wenn es um Verfahren: Legal Project Management BNetzA-Verfahren in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verfahren: Legal Project Management BNetzA-Verfahren

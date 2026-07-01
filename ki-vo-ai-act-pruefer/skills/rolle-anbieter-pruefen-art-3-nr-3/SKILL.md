@@ -1,6 +1,6 @@
 ---
 name: rolle-anbieter-pruefen-art-3-nr-3
-description: "Unternehmen das Software oder KI entwickelt fragt: Sind wir Anbieter im Sinne der KI-VO und welche Pflichten treffen uns deshalb? Art. 3 Nr. 3 KI-VO Anbieter-Definition. Prüfraster: Entwicklung oder Beauftragung Entwicklung Inverkehrbringen unter eigenem Namen Inbetriebnahme. Abgrenzung zu Betrei..."
+description: "Wenn es um Rolle-Check: Anbieter — Art. 3 Nr. 3 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rolle-Check: Anbieter — Art. 3 Nr. 3 KI-VO

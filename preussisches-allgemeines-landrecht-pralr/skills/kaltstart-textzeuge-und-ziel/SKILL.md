@@ -1,6 +1,6 @@
 ---
 name: kaltstart-textzeuge-und-ziel
-description: "PrALR: Kaltstart für Ausgabejahr, Digitalisat, Textzeugen, Fragestellung, Zitierform und Outputformat."
+description: "Wenn es um Kaltstart: Textzeuge und Ziel in Preußisches Allgemeines Landrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kaltstart Textzeuge Und Ziel; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Kaltstart: Textzeuge und Ziel

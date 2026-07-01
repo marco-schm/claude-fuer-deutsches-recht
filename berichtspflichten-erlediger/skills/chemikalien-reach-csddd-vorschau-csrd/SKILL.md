@@ -1,6 +1,6 @@
 ---
 name: chemikalien-reach-csddd-vorschau-csrd
-description: "Chemikalienrecht: Registrierung, Sicherheitsdatenblatt, CLP-Einstufung, Meldungen, nachgeschalteter Anwender und Stoffbeschränkungen im Berichtspflichten."
+description: "Wenn es um REACH/CLP Bericht und Stoffdaten in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # REACH/CLP Bericht und Stoffdaten

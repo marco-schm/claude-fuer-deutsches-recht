@@ -1,6 +1,6 @@
 ---
 name: china-toy-and-consumer-ip-strategy-before
-description: "Spielzeug und Konsumgüter aus China: EU-Spielzeugrichtlinie 2009/48/EG, GPSR 2023/988, Chemikalienanforderungen (REACH, RoHS), RAPEX-Meldepflichten, Produkthaftung ProdHaftG, CE-Selbsterklärung vs. Zertifizierung, Anti-Dumping Konsumgüter. Output: Import-Compliance-Checkliste Konsumgüter China un..."
+description: "Wenn es um Spielzeug und Konsumgüter China: CE/REACH/Produktsicherheit in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spielzeug und Konsumgüter China: CE/REACH/Produktsicherheit

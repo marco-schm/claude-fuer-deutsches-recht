@@ -1,6 +1,6 @@
 ---
 name: landesstrassengesetz-livecheck
-description: "Straßenrecht und Infrastruktur: Landesstraßengesetz-Livecheck. Landesstraßengesetz-Livecheck im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tatbestandsme..."
+description: "Wenn es um Landesstrassengesetz Livecheck in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landesstrassengesetz Livecheck

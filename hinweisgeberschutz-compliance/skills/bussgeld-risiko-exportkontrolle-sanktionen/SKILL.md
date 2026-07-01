@@ -1,6 +1,6 @@
 ---
 name: bussgeld-risiko-exportkontrolle-sanktionen
-description: "Bewertet Bußgeldrisiken für fehlenden Meldekanal oder Verstöße im Hinweisgeberschutz Compliance."
+description: "Wenn es um Bussgeld Risiko in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bussgeld Risiko

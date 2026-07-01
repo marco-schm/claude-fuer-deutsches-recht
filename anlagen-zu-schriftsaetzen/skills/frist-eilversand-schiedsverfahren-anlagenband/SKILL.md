@@ -1,6 +1,6 @@
 ---
 name: frist-eilversand-schiedsverfahren-anlagenband
-description: "Frist, Eilversand, Schiedsverfahren und Anlagenband: Anlagen in letzter Minute nummerieren, signieren, beA-/Portal-/Kurierfähigkeit und Schiedsregeln prüfen."
+description: "Wenn es um Frist, Eilversand und Anlagenband im Schiedsverfahren in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frist, Eilversand und Anlagenband im Schiedsverfahren

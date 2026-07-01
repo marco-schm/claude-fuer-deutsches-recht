@@ -1,6 +1,6 @@
 ---
 name: franchise-verguetungsmodelle-initial-laufend
-description: "Franchise: Verguetungsmodelle initial und laufend. Skill klaert die Struktur Initial Fee Royalties Marketing Fund Software Fee und ihre AGB-rechtliche Behandlung. Aktuelle Diskussion zur Pflicht zur Marketingfondbeitragsverwendung. Liefert Klauselentwurf im Franchiserecht."
+description: "Wenn es um Franchise Verguetungsmodelle Initial Laufend in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchise Verguetungsmodelle Initial Laufend

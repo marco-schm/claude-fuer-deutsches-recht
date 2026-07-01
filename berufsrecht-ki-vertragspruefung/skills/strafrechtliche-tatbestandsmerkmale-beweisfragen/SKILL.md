@@ -1,6 +1,6 @@
 ---
 name: strafrechtliche-tatbestandsmerkmale-beweisfragen
-description: "Strafrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder V..."
+description: "Wenn es um Strafrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einigungsvertrag und Vermögensrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
+description: "Wenn es um Einigungsvertrag und Vermögensrecht - Allgemeiner Einstieg in Einigungsvertrag und Vermögensrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einigungsvertrag und Vermögensrecht - Allgemeiner Einstieg

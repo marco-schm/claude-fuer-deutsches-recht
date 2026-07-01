@@ -1,6 +1,6 @@
 ---
 name: grenzueberschreitende-behandlung-eu
-description: "Grenzüberschreitende Behandlung EU: moderner Medizinrechts-Skill für Auslandsbehandlung, Richtlinie 2011/24/EU, Erstattung, Haftungsstatut und Beweis: Grenzüberschreitende Behandlung EU: moderner Medizinrechts-Skill für Auslandsbehandlung, Richtlinie 2011/2..."
+description: "Wenn es um Grenzueberschreitende Behandlung EU in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzüberschreitende Behandlung EU: moderner Medizinrechts-Skill für Auslandsbehandlung, Richtlinie 2011/24/EU, Erstattung, Haftungsstatut und Beweis

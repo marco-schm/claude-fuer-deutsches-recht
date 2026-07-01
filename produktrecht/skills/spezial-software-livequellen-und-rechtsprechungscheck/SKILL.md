@@ -1,6 +1,6 @@
 ---
 name: spezial-software-livequellen-und-rechtsprechungscheck
-description: "Software: Livequellen- und Rechtsprechungscheck im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Software: Livequellen- und Rechtsprechungscheck in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Software: Livequellen- und Rechtsprechungscheck

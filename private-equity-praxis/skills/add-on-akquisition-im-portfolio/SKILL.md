@@ -1,6 +1,6 @@
 ---
 name: add-on-akquisition-im-portfolio
-description: "Prüft Buy-and-Build-Deals: Integration, Fusionskontrolle, Finanzierung, Vendor Roll-over, Management und PMI im Private Equity Praxis."
+description: "Wenn es um Add-on-Akquisition im Portfolio in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Add-on-Akquisition im Portfolio

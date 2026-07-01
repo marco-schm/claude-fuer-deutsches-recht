@@ -1,6 +1,6 @@
 ---
 name: inso-p073-vergutung-der-mitglieder-des-glaubigerausschusses
-description: "§ 73 InsO (Vergütung der Mitglieder des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 73 InsO (Vergütung der Mitglieder des Gläubigerausschusses) im Mandat prüfen:..."
+description: "Wenn es um Inso P073 Vergutung Der Mitglieder Des Glaubigerausschusses in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 73 InsO (Vergütung der Mitglieder des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

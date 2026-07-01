@@ -1,6 +1,6 @@
 ---
 name: benefits-mandantenkommunikation-entscheidungsvorlage
-description: "Benefits: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Benefits: Mandantenkommunikation und Entscheidungsvorlage in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Benefits: Mandantenkommunikation und Entscheidungsvorlage

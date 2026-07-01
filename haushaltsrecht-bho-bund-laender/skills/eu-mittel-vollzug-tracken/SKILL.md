@@ -1,6 +1,6 @@
 ---
 name: eu-mittel-vollzug-tracken
-description: "Haushaltsrecht BHO Bund und Länder: EU-Mittel: Vollzug tracken im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Eu Mittel Vollzug Tracken in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eu Mittel Vollzug Tracken

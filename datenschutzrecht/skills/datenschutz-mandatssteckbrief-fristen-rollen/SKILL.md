@@ -1,6 +1,6 @@
 ---
 name: datenschutz-mandatssteckbrief-fristen-rollen
-description: "Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe externe Datenschutzberatung. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht für inhaltliche Datenschutzprüfung."
+description: "Wenn es um Datenschutzmandat: Steckbrief, Fristen, Rollen und Kontexttrennung in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzmandat: Steckbrief, Fristen, Rollen und Kontexttrennung

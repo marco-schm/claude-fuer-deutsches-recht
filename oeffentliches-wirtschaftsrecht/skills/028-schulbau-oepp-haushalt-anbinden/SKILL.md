@@ -1,6 +1,6 @@
 ---
 name: 028-schulbau-oepp-haushalt-anbinden
-description: "Schulbau-ÖPP: Haushalt anbinden im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Schulbau Oepp Haushalt Anbinden in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulbau Oepp Haushalt Anbinden

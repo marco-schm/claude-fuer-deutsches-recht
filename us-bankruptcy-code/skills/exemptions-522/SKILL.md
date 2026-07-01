@@ -1,6 +1,6 @@
 ---
 name: exemptions-522
-description: "Prüft individual debtor exemptions, state opt-out, federal exemptions, homestead, tools, retirement and objections im US Bankruptcy Code."
+description: "Wenn es um Exemptions Paragraf 522 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exemptions § 522

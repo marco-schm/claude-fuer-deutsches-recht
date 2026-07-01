@@ -1,6 +1,6 @@
 ---
 name: franchise-marken-ip-mindestumsatz
-description: "Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenrechtliche und urheberrechtliche Lizenzstruktur Trademark License Trade Dress Know-How-Schutz Software-Lizenz und postvertragliche Pflichten. Liefert Prüfraster im Franchiserecht."
+description: "Wenn es um Franchise Marken Ip Lizenzierung in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchise Marken Ip Lizenzierung

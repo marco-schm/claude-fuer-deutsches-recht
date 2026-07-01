@@ -21,7 +21,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswuerdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
+Wenn du das hier öffnest, willst du eine Strafsache am Amtsgericht richterlich vorbereiten: Eröffnung, Hauptverhandlung, Beweisaufnahme, Beweiswürdigung, Tenor, Strafzumessung und Urteilsgründe.
 > **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.
 
 > **Kritisch — Hochrisiko-KI und Art. 22 DSGVO beachten.** Der Einsatz von KI in der Rechtspflege ist nach Art. 6 Abs. 2 in Verbindung mit Anhang III Nr. 8 Buchstabe a der KI-Verordnung (VO (EU) 2024/1689) grundsätzlich **Hochrisiko-KI**. Die Rückausnahme des Art. 6 Abs. 3 KI-VO greift nur bei rein vorbereitender Tätigkeit ohne Subsumtion; auch dann besteht Registrierungspflicht nach Art. 49 Abs. 2 KI-VO. Eine Entscheidung mit rechtlicher Wirkung über Menschen darf nicht einer Maschine überlassen werden (Art. 22 DSGVO) — die richterliche Letztentscheidung liegt zwingend beim Menschen. Einzelheiten unten unter „Wichtiger Hinweis vor Verwendung".
@@ -122,18 +122,18 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `01-akte-erstdurchsicht-strafsache` | Strukturierte Erstdurchsicht: Anklagesatz, wesentliches Ergebnis der Ermittlungen, hinreichender Tatverdacht, Beweismittel, BZRG-Auszug, Personalien |
-| `02-zustaendigkeit-und-eroeffnungsbeschluss` | Zuständigkeit Strafrichter oder Schöffengericht (Paragraf 25 oder 28 GVG), Eröffnung Paragrafen 199-203 StPO, Nichteröffnung oder Ablehnung mit Begründung |
-| `03-hauptverhandlung-vorbereiten` | Terminierung, Ladung Paragraf 214 StPO, Beweisantraege, Erforderlichkeit Verteidigerbestellung Paragraf 140 StPO, Verständigung Paragraf 257c StPO Risiken |
-| `04-beweisaufnahme-und-beweisantraege` | Beweisaufnahme nach Paragrafen 244-256 StPO, Umgang mit Beweisantraegen, Praesenzvermutung Paragraf 244 Abs. 6, Wahrunterstellung, Ablehnungsgründe |
-| `05-beweiswuerdigung-strafrecht` | Beweiswürdigung Paragraf 261 StPO: Indizien, Aussage gegen Aussage, Glaubhaftigkeit, In-dubio-pro-reo, Sachverständigenkritik |
-| `06-strafzumessung-paragraf-46-stgb` | Strafzumessung Paragraf 46 StGB: Schuld als Grundlage, Strafzumessungstatsachen, Strafrahmen, Strafmilderung Paragrafen 49 49a, Strafaussetzung Paragraf 56, Bewaehrungsauflagen |
-| `07-tenor-und-rechtsmittelbelehrung-straf` | Tenor: Schuldspruch, Strafausspruch, Nebenstrafen, Bewaehrung, Einziehung Paragraf 73 StGB, Kostenentscheidung Paragraf 465 StPO, Rechtsmittelbelehrung Berufung und Revision |
-| `08-urteilsbegruendung-paragraf-267-stpo` | Urteilsgründe: Persoenliche Verhaeltnisse, Feststellungen zum Tatgeschehen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Nebenentscheidungen |
-| `09-strafbefehl-und-beschleunigtes-verfahren` | Strafbefehlsverfahren Paragrafen 407-412 StPO, Voraussetzungen, Inhalt, Einspruch, Hauptverhandlung nach Einspruch; beschleunigtes Verfahren Paragrafen 417-420 StPO |
-| `10-entscheidungsvorschlag-strafrichter` | Strukturierter Entscheidungsvorschlag mit Schuldspruch-Skizze, Strafzumessungs-Skizze, Nebenfolgen, Risikohinweisen, ausdrücklich zur richterlichen Prüfung markiert |
-| `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (urteil strafrichter oder strafbefehl) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
-| `prozessuale-kniffe-und-rechtsprechungsanker` | Bündelt strafgerichtliche Prozesskniffe zu Beweisaufnahme, Hinweisen, Verständigung, Beweiswürdigung, Strafzumessung, Einziehung und revisionsfestem Urteil. |
-| `v392-praxisraster-richter-amtsgericht-straf` | Praxisraster für Amtsgericht Straf: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet. |
+| `01-akte-erstdurchsicht-strafsache` | Wenn es um 01 Akte Erstdurchsicht Strafsache in Richter Amtsgericht Strafsachen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `02-zustaendigkeit-und-eroeffnungsbeschluss` | Wenn es um 02 Zuständigkeit und Eröffnungsbeschluss in Richter Amtsgericht Strafsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächst... |
+| `03-hauptverhandlung-vorbereiten` | Wenn es um 03 Hauptverhandlung Vorbereiten in Richter Amtsgericht Strafsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `04-beweisaufnahme-und-beweisantraege` | Wenn es um 04 Beweisaufnahme und Beweisantraege in Richter Amtsgericht Strafsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `05-beweiswuerdigung-strafrecht` | Wenn es um 05 Beweiswürdigung Strafrecht in Richter Amtsgericht Strafsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `06-strafzumessung-paragraf-46-stgb` | Wenn es um 06 Strafzumessung Paragraf 46 Stgb in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nä... |
+| `07-tenor-und-rechtsmittelbelehrung-straf` | Wenn es um 07 Tenor und Rechtsmittelbelehrung Straf in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken... |
+| `08-urteilsbegruendung-paragraf-267-stpo` | Wenn es um 08 Urteilsbegründung Paragraf 267 Stpo in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `09-strafbefehl-und-beschleunigtes-verfahren` | Wenn es um 09 Strafbefehl und Beschleunigtes Verfahren in Richter Amtsgericht Strafsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `10-entscheidungsvorschlag-strafrichter` | Wenn es um 10 Entscheidungsvorschlag Strafrichter in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken un... |
+| `99-finale-entscheidung-volltext` | Wenn es um Finale Entscheidung als Volltext (Urteil Strafrichter oder Strafbefehl) in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit K... |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Richter Amtsgericht Strafsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `v392-praxisraster-richter-amtsgericht-straf` | Wenn es um Praxisraster Amtsgericht Straf in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

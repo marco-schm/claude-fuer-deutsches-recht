@@ -1,6 +1,6 @@
 ---
 name: standard-verhandlung-vergleich-und-eskalation
-description: "Standard: Verhandlung, Vergleich und Eskalation: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Standard: Verhandlung, Vergleich und Eskalation in Einfache und Leichte Sprache für juristische Texte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Standard: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: verarbeitungsverzeichnis-formular-portal-und-einreichung
-description: "Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik: Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik."
+description: "Wenn es um Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verarbeitungsverzeichnis Formular Portal Und Einreichung; Arbeitsfeld: Datenschutzrecht."
 ---
 
 # Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik

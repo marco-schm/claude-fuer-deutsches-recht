@@ -1,6 +1,6 @@
 ---
 name: inso-p309-ersetzung-der-zustimmung
-description: "§ 309 InsO (Ersetzung der Zustimmung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 309 InsO (Ersetzung der Zustimmung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fris..."
+description: "Wenn es um Inso P309 Ersetzung Der Zustimmung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 309 InsO (Ersetzung der Zustimmung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

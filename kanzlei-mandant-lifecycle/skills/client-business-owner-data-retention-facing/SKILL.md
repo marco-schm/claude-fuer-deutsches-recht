@@ -1,6 +1,6 @@
 ---
 name: client-business-owner-data-retention-facing
-description: "Business Owner Education: steuert Fachbereich lernt, wann Legal einzubinden ist und welche Unterlagen nötig sind zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Business Owner Education in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Business Owner Education

@@ -1,6 +1,6 @@
 ---
 name: lph-02-abnahme-und-teilabnahme
-description: "HOAI LPH 2 Vorplanung: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 2 Vorplanung: Ordnet abnahme in HOAI Leistungsphasen Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # LPH 2 Vorplanung: Ordnet abnahme

@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-frequenzzuteilung-fristen-und-bescheidanalys
-description: "Frequenzzuteilung: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren."
+description: "Wenn es um TK-Regulierungsakte: Frequenzzuteilung — Fristen- und Bescheidanalyse in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # TK-Regulierungsakte: Frequenzzuteilung — Fristen- und Bescheidanalyse

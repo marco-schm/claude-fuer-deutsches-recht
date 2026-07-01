@@ -1,6 +1,6 @@
 ---
 name: pflichtteilsergaenzung-zehnjahresfrist-bgh-iv-zr-249-15
-description: "Pflichtteilsergaenzung Zehnjahresfrist BGH Iv Zr 249 15: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Pflichtteilsergaenzung Zehnjahresfrist BGH Iv Zr 249 15 in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflichtteilsergaenzung Zehnjahresfrist BGH Iv Zr 249 15

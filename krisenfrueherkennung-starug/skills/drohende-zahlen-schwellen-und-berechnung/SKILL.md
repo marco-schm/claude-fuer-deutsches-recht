@@ -1,6 +1,6 @@
 ---
 name: drohende-zahlen-schwellen-und-berechnung
-description: "Drohende: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Drohende: Zahlen, Schwellenwerte und Berechnung in Krisenfrüherkennung und StaRUG-Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Drohende: Zahlen, Schwellenwerte und Berechnung

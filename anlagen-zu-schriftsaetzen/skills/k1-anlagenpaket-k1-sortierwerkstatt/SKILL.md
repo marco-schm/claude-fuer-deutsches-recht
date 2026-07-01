@@ -1,6 +1,6 @@
 ---
 name: k1-anlagenpaket-k1-sortierwerkstatt
-description: "Aus einem Mandantenordner mit beliebigen Dateinamen die erste Anlagenstaffel K1 bis K20 bilden: priorisieren, umbenennen, Lücken markieren, Rückfragen ausgeben im Anlagen zu Schriftsätzen."
+description: "Wenn es um K1 aus Chaosordner bauen in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: K1 Anlagenpaket K1 Sortierwerkstatt; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # K1 aus Chaosordner bauen

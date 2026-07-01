@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollverfahren-bewilligungen
-description: "Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht aktive und passive Veredelung Zolllager Voruebergehende Verwendung Versandverfahren und Endverwendung. Bewilligungsvoraussetzungen wirtschaftliche Voraussetzungen und Vereinfachungen für AEO-Inhaber. Output: Verfahrens-Auswahlmatrix un..."
+description: "Wenn es um Zollverfahren und Bewilligungen: Auswahl wirtschaftliche Voraussetzungen und AEO in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zollverfahren und Bewilligungen: Auswahl wirtschaftliche Voraussetzungen und AEO

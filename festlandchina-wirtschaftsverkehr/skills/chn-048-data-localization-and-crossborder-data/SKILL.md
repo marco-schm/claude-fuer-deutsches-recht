@@ -1,6 +1,6 @@
 ---
 name: chn-048-data-localization-and-crossborder-data
-description: "Festlandchina Wirtschaftsverkehr: Data Localization And Crossborder Data. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Data Localization And Crossborder Data in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Data Localization And Crossborder Data

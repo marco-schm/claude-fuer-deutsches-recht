@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-datenschutz-kamera
-description: "Kamera/Datenschutz WEG: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Zweck, Rechtsgrundlage, Beschluss, Hinweisschilder, Speicherfrist; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Kamera/Datenschutz WEG in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kamera/Datenschutz WEG

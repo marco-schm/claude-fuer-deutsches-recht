@@ -1,6 +1,6 @@
 ---
 name: umform-tonalitaet-bauleiter
-description: "Bauleiter Tonalitaet für Anwalts-E-Mail: sachlich, foerdernd, deeskalierend. Prüfraster für Mandanten- und Kollegenkorrespondenz."
+description: "Wenn es um Umform: Tonalitaet Bauleiter in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umform: Tonalitaet Bauleiter

@@ -1,6 +1,6 @@
 ---
 name: registerrecht-registerzeichen-und-aktenzeichen
-description: "Erklärt HRB, HRA, PR, GnR, VR, Registernummer, Gericht und Aktenzeichenlogik im Handelsregister Praxis."
+description: "Wenn es um Registerzeichen verstehen in Handelsregister Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Registerzeichen verstehen

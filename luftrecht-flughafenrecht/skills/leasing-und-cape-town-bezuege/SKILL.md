@@ -1,6 +1,6 @@
 ---
 name: leasing-und-cape-town-bezuege
-description: "Wet-Lease Dry-Lease oder Finance-Lease eines Flugzeugs mit Cape-Town-Registrierung. Prüft Cape Town Convention Art. 2-9 Internationale Interests LuftFzgG nationales Pfandrecht IDERA Aircraft Protocol Art. XI Alternative A/B und liefert Leasing-Sicherungsstrategie und Vertrags-Prüf-Checkliste im..."
+description: "Wenn es um Leasing und Cape Town – Flugzeugsicherung im internationalen Leasing in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasing und Cape Town – Flugzeugsicherung im internationalen Leasing

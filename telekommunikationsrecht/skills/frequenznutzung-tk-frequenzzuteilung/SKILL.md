@@ -1,6 +1,6 @@
 ---
 name: frequenznutzung-tk-frequenzzuteilung
-description: "Funkstörungen, EMV, Störungsmeldung, Messung, Unterlassung und BNetzA-Eingriff im Telekommunikationsrecht."
+description: "Wenn es um Frequenzstörungen und Funkverträglichkeit in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frequenzstörungen und Funkverträglichkeit

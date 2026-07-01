@@ -1,6 +1,6 @@
 ---
 name: verbraucherschutzgeschichte
-description: "Deutsche Rechtsgeschichte: Geschichte des Verbraucherschutzrechts. AGBG 1976, Haustuerwiderrufsgesetz 1986, Verbraucherkreditgesetz 1990, Schuldrechtsreform 2002 und EU-Verbraucherrichtlinien im Deutsche Rechtsgeschichte."
+description: "Wenn es um Verbraucherschutzgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbraucherschutzgeschichte

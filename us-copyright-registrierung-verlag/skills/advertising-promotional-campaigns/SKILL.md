@@ -1,6 +1,6 @@
 ---
 name: advertising-promotional-campaigns
-description: "Prüft US-Copyright in Kampagnen: copy, music, video, photos, social cutdowns, influencer assets and agency assignments im Us Copyright Registrierung Verlag."
+description: "Wenn es um Advertising und Promotional Campaigns in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Advertising und Promotional Campaigns

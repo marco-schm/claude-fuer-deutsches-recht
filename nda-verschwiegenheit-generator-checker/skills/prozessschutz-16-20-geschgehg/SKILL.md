@@ -1,6 +1,6 @@
 ---
 name: prozessschutz-16-20-geschgehg
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Prozessschutz 16 20 Geschgehg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Prozessschutz 16 20 Geschgehg in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Prozessschutz 16 20 Geschgehg

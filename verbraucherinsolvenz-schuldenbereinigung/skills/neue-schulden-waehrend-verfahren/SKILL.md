@@ -1,6 +1,6 @@
 ---
 name: neue-schulden-waehrend-verfahren
-description: "Neue Schulden während des Verfahrens: Miete, Energie, Bußgeld, Steuern, Unterhalt und RSB-Gefahr: Normanker: InsO §§ 290 und 295 und 296; Vertragsrecht; lief..."
+description: "Wenn es um Neue Schulden Waehrend Verfahren in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Neue Schulden während des Verfahrens: Miete, Energie, Bußgeld, Steuern, Unterhalt und RSB-Gefahr.

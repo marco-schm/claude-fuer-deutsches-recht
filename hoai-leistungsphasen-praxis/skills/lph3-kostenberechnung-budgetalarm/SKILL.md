@@ -1,6 +1,6 @@
 ---
 name: lph3-kostenberechnung-budgetalarm
-description: "HOAI-Fachfrage LPH 3: Kostenberechnung, Budgetalarm, Entwurfsfreigabe, Kostenobergrenze, Fördermittelgrenze und Warnpflicht bei Kostensteigerungen im Entwurf prüfen im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 3 Kostenberechnung Und Budgetalarm in HOAI Leistungsphasen Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # LPH 3 Kostenberechnung Und Budgetalarm

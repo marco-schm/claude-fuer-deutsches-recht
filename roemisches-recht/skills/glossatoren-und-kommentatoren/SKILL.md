@@ -1,6 +1,6 @@
 ---
 name: glossatoren-und-kommentatoren
-description: "Römisches Recht: Glossatoren Und Kommentatoren. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Glossatoren Und Kommentatoren in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Glossatoren Und Kommentatoren

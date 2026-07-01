@@ -1,6 +1,6 @@
 ---
 name: wahrnehmung-berechtigter-zitat
-description: "Prüft § 193 StGB bei Beschwerde, Bewertung, Anzeige, arbeitsbezogener Kritik, Mandatskonflikt, Schulstreit und sonstiger Interessenwahrnehmung. Verbindet Sachbezug, Erforderlichkeit, Form und Art 5 GG im Meinungspruefer."
+description: "Wenn es um Paragraf 193 StGB - Wahrnehmung berechtigter Interessen in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # § 193 StGB - Wahrnehmung berechtigter Interessen

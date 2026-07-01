@@ -1,6 +1,6 @@
 ---
 name: document-production-earn-out
-description: "Prüft Urkundenvorlage und Dokumentenherausgabe nach deutschem Prozessrecht im Commercial-Court-Kontext: § 142 ZPO, Substantiierung, Geheimnisse, proportionality im Commercial Courts Deutschland."
+description: "Wenn es um Document Production in commercial-courts-deutschland geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Document Production

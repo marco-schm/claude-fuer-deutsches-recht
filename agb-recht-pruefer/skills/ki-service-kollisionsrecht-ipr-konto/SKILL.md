@@ -1,6 +1,6 @@
 ---
 name: ki-service-kollisionsrecht-ipr-konto
-description: "Branchen-Fachmodul für KI Service AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen im AGB-Recht."
+description: "Wenn es um digitale Werkzeuge Service AGB in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Ki Service Kollisionsrecht Ipr Konto; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # KI Service AGB

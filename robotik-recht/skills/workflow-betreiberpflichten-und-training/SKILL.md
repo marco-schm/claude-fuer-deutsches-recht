@@ -1,6 +1,6 @@
 ---
 name: workflow-betreiberpflichten-und-training
-description: "Prüft Betreiberpflichten: Arbeitsschutz, BetrSichV-Schnittstelle, Einweisung, Wartung, Betriebsanweisung, Nutzerlogs und Verantwortlichkeiten vor Ort im Robotik-Recht."
+description: "Wenn es um Betreiberpflichten und Training in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Workflow Betreiberpflichten Und Training; Arbeitsfeld: robotik-recht."
 ---
 
 # Betreiberpflichten und Training

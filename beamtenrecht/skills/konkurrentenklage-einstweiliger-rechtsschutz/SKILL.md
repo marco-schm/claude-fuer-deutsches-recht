@@ -1,6 +1,6 @@
 ---
 name: konkurrentenklage-einstweiliger-rechtsschutz
-description: "Eilrechtsschutz nach § 123 VwGO im beamtenrechtlichen Konkurrentenstreit. Skill liefert Schriftsatzgeruest für Antrag auf einstweilige Anordnung mit dem Begehren die Ernennung des ausgewaehlten Konkurrenten zu untersagen bis ueber die Bewerbung des Antragstellers rechtsfehlerfrei entschieden ist...."
+description: "Wenn es um Konkurrentenklage — einstweiliger Rechtsschutz nach Paragraf 123 VwGO in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Konkurrentenklage — einstweiliger Rechtsschutz nach § 123 VwGO

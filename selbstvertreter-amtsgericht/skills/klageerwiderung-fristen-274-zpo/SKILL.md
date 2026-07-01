@@ -1,6 +1,6 @@
 ---
 name: klageerwiderung-fristen-274-zpo
-description: "Fristen zur Klageerwiderung nach § 274 ZPO. Notfrist zur Verteidigungsanzeige Klageerwiderungs-Frist Folge bei Versaeumnis Versaeumnisurteil. Schriftliches Vorverfahren oder frueher erster Termin als Verfahrensgestaltung des Gerichts."
+description: "Wenn es um Sie sind verklagt: Welche Fristen laufen? in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sie sind verklagt: Welche Fristen laufen?

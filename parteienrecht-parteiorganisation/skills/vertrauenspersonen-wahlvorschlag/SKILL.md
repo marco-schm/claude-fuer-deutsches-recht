@@ -1,6 +1,6 @@
 ---
 name: vertrauenspersonen-wahlvorschlag
-description: "Regelt Vertrauenspersonen, Rücknahme/Änderung des Wahlvorschlags, Kommunikation und Risiko interner Konflikte."
+description: "Wenn es um Vertrauenspersonen Wahlvorschlag in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertrauenspersonen Wahlvorschlag

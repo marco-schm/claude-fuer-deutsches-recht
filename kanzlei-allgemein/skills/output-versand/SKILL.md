@@ -1,6 +1,6 @@
 ---
 name: output-versand
-description: "Steuert Output und Versand für Schriftsatz Brief E-Mail Fax beA SMS Messenger Teams und Mandantenportal. Fragt vor beA-Versand ausdrücklich nach Freigabe warnt vor PIN Token und Geheimnissen und dokumentiert Journal Screenshot ZIP-Archiv Anlagen Frist und Protokoll."
+description: "Wenn es um Output und Versandsteuerung in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Output und Versandsteuerung

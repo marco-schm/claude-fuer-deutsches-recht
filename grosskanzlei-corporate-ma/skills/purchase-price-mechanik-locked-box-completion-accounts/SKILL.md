@@ -1,6 +1,6 @@
 ---
 name: purchase-price-mechanik-locked-box-completion-accounts
-description: Prüft und visualisiert Kaufpreismechaniken im Unternehmenskauf mit Leakage, Working Capital, Net Debt, Streitmechanismus und Klauselagenda.
+description: "Wenn es um Kaufpreismechanik Locked Box und Completion Accounts in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Kaufpreismechanik Locked Box und Completion Accounts
 

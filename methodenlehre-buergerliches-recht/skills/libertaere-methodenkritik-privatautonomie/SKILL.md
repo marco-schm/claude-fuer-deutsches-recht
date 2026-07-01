@@ -1,6 +1,6 @@
 ---
 name: libertaere-methodenkritik-privatautonomie
-description: "Analysiert die libertäre Methodenkritik an staatlichen und richterlichen Eingriffen in die Privatautonomie. Das Skill systematisiert die Argumente für maximale Vertragsfreiheit und minimale Inhaltskontrolle und prüft, wo libertäre Methodenpositionen methodisch tragfähig sind und wo sie die notwen..."
+description: "Wenn es um Libertäre Methodenkritik: Privatautonomie und minimale Inhaltskontrolle in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Libertäre Methodenkritik: Privatautonomie und minimale Inhaltskontrolle

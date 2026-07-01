@@ -1,6 +1,6 @@
 ---
 name: freizuegigkeit-eu
-description: "Freizügigkeit EU: Fachmodul im Migrationsrecht: prüft Arbeitnehmer, Selbstständige, Nichterwerbstätige, Familie, Verlust; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Freizügigkeit EU: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freizügigkeit EU: Fachmodul im Migrationsrecht

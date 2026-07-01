@@ -1,6 +1,6 @@
 ---
 name: steuer-krankenversicherung-pflegeversicherung-rente
-description: "Steuer, Kranken- und Pflegeversicherung der Rentner: KVdR, freiwillige Versicherung, PKV, Beitragszuschuss, Ausland und Nettorente im Rentenpruefer."
+description: "Wenn es um steuer-krankenversicherung-pflegeversicherung-rente in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # steuer-krankenversicherung-pflegeversicherung-rente

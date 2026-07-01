@@ -1,6 +1,6 @@
 ---
 name: workflow-weg-anfechtung-start
-description: "WEG-Anfechtung-Start: Prüfungslinie für Miet- und WEG-Recht: prüft Anfechtungsziel, Kläger, Fristen, Beklagte, Beschlussmangel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzb..."
+description: "Wenn es um WEG-Anfechtung-Start: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # WEG-Anfechtung-Start: Prüfungslinie für Miet- und WEG-Recht

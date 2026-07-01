@@ -1,6 +1,6 @@
 ---
 name: zit-kommentar-aufsatzzitierung-spezial
-description: "Spezialfall Kommentar- und Aufsatzzitierung: Bearbeiter, Randnummer, Auflagenjahr, Zeitschrift, Heft, Seite. Prüfraster für wissenschaftliches Schreiben."
+description: "Wenn es um Zit: Kommentar Aufsatz in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zit: Kommentar Aufsatz

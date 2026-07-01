@@ -1,6 +1,6 @@
 ---
 name: mieterhoehung
-description: "Vermieter will Miete erhoehen oder Mieter prüft Zustimmungspflicht zur Mieterhoehung: § 558 BGB ortsuebliche Vergleichsmiete Kappungsgrenze 20 Prozent bzw. 15 Prozent in a..."
+description: "Wenn es um Vermieter will Miete erhoehen oder Mieter prüft Zustimmungspflicht zur Mieterhoehung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vermieter will Miete erhoehen oder Mieter prüft Zustimmungspflicht zur Mieterhoehung

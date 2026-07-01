@@ -1,6 +1,6 @@
 ---
 name: steuerstart-buchhaltung-rechnungsprozess
-description: Organisiert steuerliche Ersterfassung, Buchhaltung, Belegfluss, Umsatzsteuer, Rechnungsangaben und Zusammenarbeit mit Steuerberatung.
+description: "Wenn es um Steuerstart, Buchhaltung und Rechnungsprozess in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 # Steuerstart, Buchhaltung und Rechnungsprozess
 

@@ -1,6 +1,6 @@
 ---
 name: dba-estland
-description: "DBA Deutschland Estland 1996. Anwendungsfall IT-Branche E-Residency Holding Beteiligungen. EU-MTRL ergaenzend. Besonderheit estnisches Steuersystem mit Besteuerung nur bei Ausschuettung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Estland (1996) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Estland (1996)

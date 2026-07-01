@@ -1,6 +1,6 @@
 ---
 name: vergaberecht-raumfahrtauftrag-esa-dlr-eu
-description: "Vergaberecht für Raumfahrtaufträge – ESA-Beschaffungsregeln, DLR-Vergabe, EU-Vergaberichtlinien im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Vergaberecht: Raumfahrtauftrag ESA, DLR, EU in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Vergaberecht: Raumfahrtauftrag ESA, DLR, EU

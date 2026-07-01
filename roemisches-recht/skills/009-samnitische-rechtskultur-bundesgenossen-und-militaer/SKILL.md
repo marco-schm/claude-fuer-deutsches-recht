@@ -1,6 +1,6 @@
 ---
 name: 009-samnitische-rechtskultur-bundesgenossen-und-militaer
-description: "Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung im Römisches Recht."
+description: "Wenn es um Rom Samnitische Rechtskultur Bundesgenossen Und Militaer in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Samnitische Rechtskultur Bundesgenossen Und Militaer

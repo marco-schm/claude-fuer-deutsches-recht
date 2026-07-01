@@ -1,6 +1,6 @@
 ---
 name: globaler-minderausgabe-vollzug-tracken
-description: "Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Vollzug tracken im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Globaler Minderausgabe Vollzug Tracken in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Globaler Minderausgabe Vollzug Tracken

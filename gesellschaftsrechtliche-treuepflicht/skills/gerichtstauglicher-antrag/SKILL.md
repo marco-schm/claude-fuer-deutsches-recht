@@ -1,6 +1,6 @@
 ---
 name: gerichtstauglicher-antrag
-description: "Gesellschaftsrechtliche Treuepflicht: Gerichtstauglicher Antrag; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Gerichtstauglicher Antrag in Gesellschaftsrechtliche Treuepflicht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gerichtstauglicher Antrag

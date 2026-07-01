@@ -1,6 +1,6 @@
 ---
 name: unterzeichnung-elektronisch-wandelereignis
-description: "Elektronische Unterzeichnung von Wandeldarlehensvertraegen und Begleitdokumenten organisieren. §§ 126a 126b BGB eIDAS-VO qualifizierte elektronische Signatur. Prüfraster: Formerfordernis je Dokument einfache QES oder qualifizierte Signatur Anbieterauswahl Nachweispflicht. Output: Unterzeichnungsp..."
+description: "Wenn es um Elektronische Unterzeichnung (DocuSign / Adobe Sign) in Wandeldarlehen-Lebenszyklus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Elektronische Unterzeichnung (DocuSign / Adobe Sign)

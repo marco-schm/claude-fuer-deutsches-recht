@@ -1,6 +1,6 @@
 ---
 name: stvg-fristen-form-und-zustaendigkeit
-description: "Stvg: Fristen, Form, Zuständigkeit und Rechtsweg: Stvg: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Wenn es um Stvg: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stvg: Fristen, Form, Zuständigkeit und Rechtsweg

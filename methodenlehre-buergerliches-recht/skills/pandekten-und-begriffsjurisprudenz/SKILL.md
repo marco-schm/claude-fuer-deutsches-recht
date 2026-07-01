@@ -1,6 +1,6 @@
 ---
 name: pandekten-und-begriffsjurisprudenz
-description: "Pandektenwissenschaft und Begriffsjurisprudenz im 19. Jahrhundert. Georg Friedrich Puchta, Bernhard Windscheid, Hauptvertreter. Begriffspyramide und logisches Ableitungsmodell. Verhältnis zum BGB (1900) und zur heutigen Dogmatik. Wirkung auf das deutsche Privatrecht. Kritik durch Jhering, Heck,..."
+description: "Wenn es um Pandektenwissenschaft und Begriffsjurisprudenz in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pandektenwissenschaft und Begriffsjurisprudenz

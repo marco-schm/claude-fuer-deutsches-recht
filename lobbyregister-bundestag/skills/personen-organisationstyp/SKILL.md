@@ -1,6 +1,6 @@
 ---
 name: personen-organisationstyp
-description: "Bestimmt, ob natuerliche Person, juristische Person, Personengesellschaft, Einzelkaufmann, Netzwerk, Plattform oder sonstige Organisation einzutragen ist. Output Typenentscheidung im Lobbyregister Bundestag."
+description: "Wenn es um Personen- und Organisationstyp in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Personen- und Organisationstyp

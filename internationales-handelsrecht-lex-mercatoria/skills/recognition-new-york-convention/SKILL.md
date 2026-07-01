@@ -1,6 +1,6 @@
 ---
 name: recognition-new-york-convention
-description: "Internationales Handelsrecht: Anerkennung und Vollstreckung ausländischer Schiedssprüche nach New York Convention 1958. Art. V Versagungsgründe (Verfahrensfehler, Ordre public), Formvoraussetzungen Art. IV, Vollstreckungsverfahren in Deutschland und ausgewählten Ländern im Internationales Handels..."
+description: "Wenn es um New York Convention 1958: Anerkennung und Vollstreckung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # New York Convention 1958: Anerkennung und Vollstreckung

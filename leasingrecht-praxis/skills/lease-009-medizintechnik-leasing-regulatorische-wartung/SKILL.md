@@ -1,6 +1,6 @@
 ---
 name: lease-009-medizintechnik-leasing-regulatorische-wartung
-description: "Leasingrecht: Medizintechnik Leasing regulatorische Wartung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Medizintechnik Leasing regulatorische Wartung in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Medizintechnik Leasing regulatorische Wartung

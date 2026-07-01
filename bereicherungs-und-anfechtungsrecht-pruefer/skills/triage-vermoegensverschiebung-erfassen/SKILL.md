@@ -1,6 +1,6 @@
 ---
 name: triage-vermoegensverschiebung-erfassen
-description: "Erster Schritt: Vermögenverschiebung strukturiert erfassen für Bereicherungs- und Anfechtungsrecht. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Wer hat was an wen geleistet, Zeitpunkt, Belegsicherung, Weichenstellung Regelungskreis. Output: Erfassungsbogen Vermögenverschiebung. Abg..."
+description: "Wenn es um Triage: Vermögensverschiebung erfassen in bereicherungs-und-anfechtungsrecht-prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Triage: Vermögensverschiebung erfassen

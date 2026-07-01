@@ -1,6 +1,6 @@
 ---
 name: commercial-chamber-vs-commercial-court
-description: "Vergleicht Commercial Chamber beim Landgericht und Commercial Court beim Oberlandesgericht: Instanz, Zuständigkeit, Streitwert, Verfahrenssprache, Tempo, Rechtsmittel und Mandantenstrategie im Commercial Courts Deutschland."
+description: "Wenn es um Commercial Chamber oder Commercial Court in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Commercial Chamber oder Commercial Court

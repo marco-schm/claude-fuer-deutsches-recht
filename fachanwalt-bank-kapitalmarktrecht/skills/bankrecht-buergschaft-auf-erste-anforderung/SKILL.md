@@ -1,6 +1,6 @@
 ---
 name: bankrecht-buergschaft-auf-erste-anforderung
-description: "Bürgschaft oder Bankgarantie auf erste Anforderung im Mandat prüfen: Zahlungsmechanik, Einwendungen, offensichtlicher Missbrauch, einstweiliger Rechtsschutz, Rückforderung und Regress: Bürgschaft oder Bankgarantie auf erste Anforderung im Mandat prüfen: Za..."
+description: "Wenn es um Bankrecht Buergschaft Auf Erste Anforderung in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bürgschaft oder Bankgarantie auf erste Anforderung im Mandat prüfen: Zahlungsmechanik, Einwendungen, offensichtlicher Missbrauch, einstweiliger Rechtsschutz, Rückforderung und Regress.

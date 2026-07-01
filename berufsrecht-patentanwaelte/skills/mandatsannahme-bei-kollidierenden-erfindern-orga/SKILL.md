@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-bei-kollidierenden-erfindern-orga
-description: "Patentanwälte: mandatsannahme bei kollidierenden erfindern - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Mandatsannahme Bei Kollidierenden Erfindern Orga in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: mandatsannahme bei kollidierenden erfindern - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

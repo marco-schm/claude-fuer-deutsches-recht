@@ -1,6 +1,6 @@
 ---
 name: ungedient-vor-2010
-description: "Wendet § 13 KDVG n. F. auf vor 2010 geborene ungediente Wehrpflichtige an im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Ungediente vor 01.01.2010 in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ungediente vor 01.01.2010

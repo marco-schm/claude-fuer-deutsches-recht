@@ -1,6 +1,6 @@
 ---
 name: strom-emv-und-niederspannung
-description: "Prüft elektrische Sicherheit, EMV, Niederspannung, Ladegeräte und Schnittstelle zur Maschinenverordnung."
+description: "Wenn es um Strom EMV Niederspannung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strom EMV Niederspannung

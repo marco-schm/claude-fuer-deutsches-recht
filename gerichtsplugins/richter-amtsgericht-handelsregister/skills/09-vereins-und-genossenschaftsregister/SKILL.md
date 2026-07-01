@@ -1,6 +1,6 @@
 ---
 name: 09-vereins-und-genossenschaftsregister
-description: "Vereinsregister Paragrafen 55-79 BGB: Anmeldung Paragraf 59, Eintragung, Vorstandsbestellung, Wahrnehmung wirtschaftlicher Geschaefte (BGH Wertungen); Genossenschaftsregister Paragrafen 156 ff. GenG"
+description: "Wenn es um 09 Vereins und Genossenschaftsregister in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # 09 Vereins und Genossenschaftsregister

@@ -1,6 +1,6 @@
 ---
 name: schriftform-paragraph-126-bgb-eigenhaendige-unterschrift
-description: "Vertragspartner bestreitet Schriftform wegen fehlender oder unzureichender Unterschrift. Paragraf 126 BGB Schriftform eigenhaendige Namenszeichnung. Prüfraster: Namenszeichnung vs. Paraphe Urkundeneinheit bei mehrseitigen Vertraegen Blankounterschrift Faksimile-Stempel räumliche Lage der Unterschrift un..."
+description: "Wenn es um Schriftform Paragraf 126 BGB — Eigenhändige Unterschrift in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schriftform Paragraf 126 BGB — Eigenhändige Unterschrift

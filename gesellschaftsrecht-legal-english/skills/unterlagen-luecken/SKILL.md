@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Gesellschaftsrecht in legal English: trennt fehlende Tatsachen von fehlenden Belegen (Articles of Association, Shareholders Agreement, Board Resolutions), nennt pro Lücke Beweisthema, Beschaffungsweg (UK Companies House), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Didaktisches Gesellschaftsrecht — English Business Terms geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

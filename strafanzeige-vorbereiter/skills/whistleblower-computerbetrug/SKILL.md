@@ -1,6 +1,6 @@
 ---
 name: whistleblower-computerbetrug
-description: "Hinweisgebermeldung, interne Stelle, externe Meldung, Strafanzeige und Schutz vor Repressalien koordinieren im Strafanzeige-Vorbereitung."
+description: "Wenn es um Hinweisgeber und Strafanzeige in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hinweisgeber und Strafanzeige

@@ -1,6 +1,6 @@
 ---
 name: interessen-und-vorhabenbereiche
-description: "Ordnet Interessen- und Vorhabenbereiche im Register zu und prüft, ob Themen breit genug und nicht verschleiernd beschrieben sind. Output Bereichsmatrix im Lobbyregister Bundestag."
+description: "Wenn es um Interessen- und Vorhabenbereiche in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Interessen- und Vorhabenbereiche

@@ -1,6 +1,6 @@
 ---
 name: mandanten-oder-beteiligtenkommunikation
-description: "Beteiligtenkommunikation: Praxis-Skill für neue Staatsanwälte zu übersetzt das Ergebnis in klare, taktisch sichere Kommunikation; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Beteiligtenkommunikation in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beteiligtenkommunikation

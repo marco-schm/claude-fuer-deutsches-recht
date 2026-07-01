@@ -1,6 +1,6 @@
 ---
 name: polizei-feuerwehr-praesidialrat-mitwirkung
-description: "Polizei, Feuerwehr, Justizvollzug und sonstige Sonderdienste: Dienstfähigkeit, Schichtdienst, Disziplin und Gefahrennähe im Beamtenrecht."
+description: "Wenn es um Polizei Feuerwehr Vollzug Sonderdienst in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Polizei Feuerwehr Vollzug Sonderdienst

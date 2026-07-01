@@ -1,6 +1,6 @@
 ---
 name: v392-lesefreude-rechtstheorie-rechtsphilosophie
-description: "Didaktischer Lesefreude-Skill für Rechtstheorie und Rechtsphilosophie: historische Einordnung, Begriffskern, anschauliche Fallvignette, Rezeptionslinie und heutige Grenze werden verständlich zusammengeführt."
+description: "Wenn es um Lesefreude Rechtstheorie und Rechtsphilosophie in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Lesefreude Rechtstheorie und Rechtsphilosophie

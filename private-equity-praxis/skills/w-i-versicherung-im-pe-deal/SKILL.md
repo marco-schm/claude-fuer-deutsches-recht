@@ -1,6 +1,6 @@
 ---
 name: w-i-versicherung-im-pe-deal
-description: "Begleitet Underwriting, DD-Anforderungen, Exclusions, Bring-down und Claims-Prozess im Private Equity Praxis."
+description: "Wenn es um W&I-Versicherung im PE-Deal in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # W&I-Versicherung im PE-Deal

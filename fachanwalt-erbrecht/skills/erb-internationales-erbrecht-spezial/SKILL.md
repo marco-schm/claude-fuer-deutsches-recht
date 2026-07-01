@@ -1,6 +1,6 @@
 ---
 name: erb-internationales-erbrecht-spezial
-description: "Spezialfall internationales Erbrecht: EuErbVO 650/2012, gewoehnlicher Aufenthalt als Anknuepfungspunkt, Rechtswahl, Europaeisches Nachlasszeugnis ENZ: Spezialfall internationales Erbrecht: EuErbVO 650/2012, gewoehnlicher Aufenthalt als Anknuepfungspunkt, Re..."
+description: "Wenn es um Erb Internationales Erbrecht Spezial in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall internationales Erbrecht: EuErbVO 650/2012, gewoehnlicher Aufenthalt als Anknuepfungspunkt, Rechtswahl, Europaeisches Nachlasszeugnis ENZ

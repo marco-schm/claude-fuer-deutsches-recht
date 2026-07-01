@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Krisenfrüherkennung StaRUG: ordnet Rolle (Geschäftsführung, Aufsichtsrat, Berater (WP, RA)), markiert Frist (Frühzeitige Indikatoren), wählt Norm (StaRUG § 1 Krisenfrüherkennung, § 18 InsO drohende ZU) und Zuständigkeit (Restrukturierungsgericht), leitet zum passe..."
+description: "Wenn es um Einstieg und Routing in Krisenfrüherkennung und StaRUG-Management geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

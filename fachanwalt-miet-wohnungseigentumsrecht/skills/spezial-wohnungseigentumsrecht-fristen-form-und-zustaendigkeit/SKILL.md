@@ -1,6 +1,6 @@
 ---
 name: spezial-wohnungseigentumsrecht-fristen-form-und-zustaendigkeit
-description: "Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt miet wohnungseigentumsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg

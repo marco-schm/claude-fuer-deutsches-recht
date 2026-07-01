@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-transaktionsstopp-freeze
-description: "Transaktionsstopp Kontoeinfrierung und Nichtdurchführung bei Sanktions- oder Verdachtstreffer. Anwendungsfall Transaktion muss gestoppt oder Konto eingefroren werden weil Sanktionstreffer oder konkreter Verdacht vorliegt. Normen § 40 GwG Nichtdurchführung § 5 AWG Embargo-Befolgung EU-Sanktionsver..."
+description: "Wenn es um Transaktionsstopp, Freeze und Exit in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transaktionsstopp, Freeze und Exit

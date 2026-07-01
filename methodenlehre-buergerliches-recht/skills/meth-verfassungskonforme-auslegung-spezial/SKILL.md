@@ -1,6 +1,6 @@
 ---
 name: meth-verfassungskonforme-auslegung-spezial
-description: "Leitet durch die Methode der verfassungskonformen Auslegung als Spezialinstrument der Normerhaltung im Zivilrecht. Das Skill zeigt, wann und wie Zivilnormen verfassungskonform ausgelegt werden müssen, welche Grenzen das Instrument hat und wann verfassungskonforme Auslegung in unzulässige Normumde..."
+description: "Wenn es um Verfassungskonforme Auslegung: Methodik und Grenzen in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verfassungskonforme Auslegung: Methodik und Grenzen

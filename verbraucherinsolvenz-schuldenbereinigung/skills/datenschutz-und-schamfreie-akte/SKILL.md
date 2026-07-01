@@ -1,6 +1,6 @@
 ---
 name: datenschutz-und-schamfreie-akte
-description: "Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe: Normanker: DSGVO Art. 5 und..."
+description: "Wenn es um Datenschutz Und Schamfreie Akte in Verbraucherinsolvenz und Schuldenbereinigung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.

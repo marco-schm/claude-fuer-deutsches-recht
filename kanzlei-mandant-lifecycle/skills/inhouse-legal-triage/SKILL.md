@@ -1,6 +1,6 @@
 ---
 name: inhouse-legal-triage
-description: "Inhouse Legal Triage: steuert Rechtsabteilung priorisiert Anfragen, externe Kanzleien, Risiko und Budget zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Inhouse Legal Triage in Kanzlei-Mandant Lifecycle geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Inhouse Legal Triage

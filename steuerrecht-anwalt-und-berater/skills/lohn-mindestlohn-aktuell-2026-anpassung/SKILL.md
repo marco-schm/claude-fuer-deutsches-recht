@@ -1,6 +1,6 @@
 ---
 name: lohn-mindestlohn-aktuell-2026-anpassung
-description: "Aktueller Mindestlohn 2026 Anpassung. Anwendungsfall Prüfung des aktuellen MiLo-Wertes Auswirkung auf Mini- Midi-Job-Grenzen Vertragsklauseln Mandanten-Information. Methodik Verifikation amtliche Quellen Mandantenkommunikation. Output MiLo-Übersicht aktuell Verifikations-Hinweis."
+description: "Wenn es um Aktueller Mindestlohn 2026 — Anpassung und Wirkung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aktueller Mindestlohn 2026 — Anpassung und Wirkung

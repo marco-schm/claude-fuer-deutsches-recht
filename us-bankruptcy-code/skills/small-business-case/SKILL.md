@@ -1,6 +1,6 @@
 ---
 name: small-business-case
-description: "Prüft small business debtor rules outside Subchapter V, reporting duties, disclosure statement simplification and deadlines im US Bankruptcy Code."
+description: "Wenn es um Small Business Case in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Small Business Case

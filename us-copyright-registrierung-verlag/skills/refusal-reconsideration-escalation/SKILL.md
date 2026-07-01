@@ -1,6 +1,6 @@
 ---
 name: refusal-reconsideration-escalation
-description: "Refusal, Reconsideration und Eskalation: Ablehnungsgründe verstehen, Nachweise ordnen, Fristen prüfen und US-Counsel gezielt briefen im Us Copyright Registrierung Verlag."
+description: "Wenn es um Refusal, Reconsideration und Eskalation in US Copyright Act und Registrierung für deutsche Verlage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Refusal, Reconsideration und Eskalation

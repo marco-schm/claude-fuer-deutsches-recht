@@ -1,6 +1,6 @@
 ---
 name: bho-269-bund-laender-programm-deckung-finden
-description: "Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Deckung finden. Deckung finden für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bund Laender Programm Deckung Finden in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bund Laender Programm Deckung Finden

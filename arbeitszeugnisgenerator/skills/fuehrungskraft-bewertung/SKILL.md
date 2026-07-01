@@ -1,6 +1,6 @@
 ---
 name: fuehrungskraft-bewertung
-description: "Formulierungskatalog für den Führungsabschnitt in Zeugnissen von Personen mit Leitungsfunktion. Führungszeugnisse haben fünf zusätzliche Pflichtbausteine. Das Fehlen des Führungsabschnitts ist ein eigenständiger Berichtigungspunkt. Enthält Formeln für alle Noten, Loyalitätsaussagen gegenüber Gesellschaftern und Vorstand sowie den Umgang mit Teamgröße und Erfolgsnachweis."
+description: "Wenn es um Führungskraft-Bewertung in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Führungskraft-Bewertung

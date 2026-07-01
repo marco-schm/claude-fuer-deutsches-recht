@@ -1,6 +1,6 @@
 ---
 name: ausgleich-berechnung
-description: "Berechnet Ausgleich mit Transparenz. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Ausgleich Berechnung in Handelsvertreterrecht und Vertriebsverträge geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Ausgleich Berechnung

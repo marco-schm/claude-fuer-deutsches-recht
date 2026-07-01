@@ -1,6 +1,6 @@
 ---
 name: ausschuss-satzung-redlinen
-description: "der Länder: Ausschuss: Satzung redlinen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Ausschuss Satzung Redlinen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausschuss Satzung Redlinen

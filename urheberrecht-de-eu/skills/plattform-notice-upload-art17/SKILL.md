@@ -1,6 +1,6 @@
 ---
 name: plattform-notice-upload-art17
-description: "Prüft Takedown, Counter-Notice, Content-ID, Plattformregeln, DSA-Beschwerde und Parallelstrategie im Urheberrecht De Eu."
+description: "Wenn es um Notice, Takedown und Restore in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notice, Takedown und Restore

@@ -1,6 +1,6 @@
 ---
 name: pinpoint-fehlerkatalog
-description: "Pinpoint Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Wenn es um Pinpoint Fehlerkatalog in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pinpoint Fehlerkatalog

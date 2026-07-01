@@ -1,6 +1,6 @@
 ---
 name: ueberbau-ueberhang-aeste-mediation
-description: "Überbau nach §§ 912-916 BGB prüfen: Gebäude oder Gebäudeteil über Grenze, Vorsatz/grobe Fahrlässigkeit, Widerspruch, Duldungspflicht, Beseitigung, Überbaurente, Abkauf, Beweise und Schreiben im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Überbau-Prüfung in Nachbarschaftsstreit-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Überbau-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: vwgo-schriftsatz-brief-memo
-description: "VwGO: Schriftsatz-, Brief- und Memo-Bausteine: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
+description: "Wenn es um VwGO: Schriftsatz-, Brief- und Memo-Bausteine in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vwgo Schriftsatz Brief Memo; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # VwGO: Schriftsatz-, Brief- und Memo-Bausteine

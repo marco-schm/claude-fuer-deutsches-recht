@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-634a-bgb-hemmung
-description: "Prueft Beginn und Hemmung der fuenfjaehrigen Maengelanspruchs-Verjaehrung nach Paragraf 634a BGB. Thematisiert Hemmung durch Verhandlungen und selbstaendiges Beweisverfahren, die Folgen unwirksamer Abnahmeklauseln fuer den Verjaehrungsbeginn und vertragliche Verkuerzungen als AGB-Problem."
+description: "Wenn es um Verjährung Paragraf 634a BGB und Hemmung in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verjährung Paragraf 634a BGB und Hemmung

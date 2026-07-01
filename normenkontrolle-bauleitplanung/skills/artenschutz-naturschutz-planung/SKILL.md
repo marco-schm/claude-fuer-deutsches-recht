@@ -1,6 +1,6 @@
 ---
 name: artenschutz-naturschutz-planung
-description: "Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Prüfraster: spezielle artenschutzrechtliche Prüfung (saP) CEF-Maßnahmen Eingriffsregelung § 1a Abs. 3 BauGB FFH-Vertraeglichkeit § 34 BNat"
+description: "Wenn es um Artenschutz und Naturschutz in der Bauleitplanung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Artenschutz Naturschutz Planung; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Artenschutz und Naturschutz in der Bauleitplanung

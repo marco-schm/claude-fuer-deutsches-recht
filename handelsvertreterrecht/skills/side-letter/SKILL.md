@@ -1,6 +1,6 @@
 ---
 name: side-letter
-description: "Prüft die Wirksamkeit und rechtliche Bedeutung von Side Letters (Nebenabreden) im Handelsvertretervertrag: Bindungswirkung mündlicher und schriftlicher Nebenabreden, Verhältnis zu Schriftformklauseln, Konsequenzen bei unvereinbarten Zusagen sowie Risiken für Beweisbarkeit und Vertragskonsistenz i..."
+description: "Wenn es um Side Letter und Nebenabreden im Handelsvertretervertrag — Wirksamkeit und Risiken in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Side Letter und Nebenabreden im Handelsvertretervertrag — Wirksamkeit und Risiken

@@ -1,6 +1,6 @@
 ---
 name: hausarbeit-workflow-start
-description: "Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Prüfungslinie: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach… im Hausarbeitenmacher."
+description: "Wenn es um Master-Hausarbeiten- und Seminararbeitenmacher in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Master-Hausarbeiten- und Seminararbeitenmacher

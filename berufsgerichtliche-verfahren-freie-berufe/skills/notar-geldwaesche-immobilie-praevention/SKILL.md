@@ -1,6 +1,6 @@
 ---
 name: notar-geldwaesche-immobilie-praevention
-description: "Notar Geldwäsche Immobilie (Präventions- und Organisationspaket): steuert Immobilienkauf, Barzahlungsverbot, wirtschaftlich Berechtigter, Verdachtsmeldung und Beurkundung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verf..."
+description: "Wenn es um Notar Geldwäsche Immobilie: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notar Geldwäsche Immobilie: Präventions- und Organisationspaket

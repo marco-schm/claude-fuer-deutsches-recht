@@ -1,6 +1,6 @@
 ---
 name: ki-nutzung-offenlegung
-description: "Prüft erlaubte Hilfsmittel, KI-Offenlegung, Eigenständigkeit und Beweislast im Prüfungsrecht Hochschule."
+description: "Wenn es um digitale Werkzeuge-Nutzung und Offenlegung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI-Nutzung und Offenlegung

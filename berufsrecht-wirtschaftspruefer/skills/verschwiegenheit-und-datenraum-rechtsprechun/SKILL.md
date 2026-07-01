@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-und-datenraum-rechtsprechun
-description: "Wirtschaftsprüfer: verschwiegenheit und datenraum - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Verschwiegenheit Und Datenraum Rechtsprechun in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: verschwiegenheit und datenraum - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

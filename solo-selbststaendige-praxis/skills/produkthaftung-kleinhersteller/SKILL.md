@@ -1,6 +1,6 @@
 ---
 name: produkthaftung-kleinhersteller
-description: "Solo-Selbstständige: prüft Produkt, CE, Warnhinweise, Rückruf und Versicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Versicherung Haftung und Risiko: Prüft produkt in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versicherung Haftung und Risiko: Prüft produkt

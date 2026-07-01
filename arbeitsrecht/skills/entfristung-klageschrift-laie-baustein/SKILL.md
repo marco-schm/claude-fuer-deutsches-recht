@@ -1,6 +1,6 @@
 ---
 name: entfristung-klageschrift-laie-baustein
-description: "Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Rubrum: Feststellungsantrag Unbefristetheit; Begründungsbausteine für Schriftformmangel und fehlenden Sachgrund; Beweisangebo..."
+description: "Wenn es um Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Rubrum in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Rubrum

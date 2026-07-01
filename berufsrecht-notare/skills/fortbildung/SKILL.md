@@ -1,6 +1,6 @@
 ---
 name: fortbildung
-description: "Fortbildung: vertiefter Berufsrechts-Skill für Notare; prüft Fortbildung im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
+description: "Wenn es um Fortbildung in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Fortbildung

@@ -1,6 +1,6 @@
 ---
 name: inso-p201-rechte-der-insolvenzglaubiger-nach-verfahrensaufhebung
-description: "§ 201 InsO (Rechte der Insolvenzgläubiger nach Verfahrensaufhebung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 201 InsO (Rechte der Insolvenzgläubiger nach Verfahrensaufhebung) im Man..."
+description: "Wenn es um Inso P201 Rechte Der Insolvenzglaubiger Nach Verfahrensaufhebung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 201 InsO (Rechte der Insolvenzgläubiger nach Verfahrensaufhebung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

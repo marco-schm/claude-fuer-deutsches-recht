@@ -1,6 +1,6 @@
 ---
 name: beirat-private-equity-investor
-description: "GmbH-Beirat: Beirat Private Equity Investor; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrecht."
+description: "Wenn es um Beirat Private Equity Investor in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Private Equity Investor

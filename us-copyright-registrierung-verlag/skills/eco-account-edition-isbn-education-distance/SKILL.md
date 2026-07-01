@@ -1,6 +1,6 @@
 ---
 name: eco-account-edition-isbn-education-distance
-description: "eCO-Organisationskonto für Verlage: zentrale Mailbox, Rollen, Passwort-/MFA-Konzept, Open Cases, Vertretung, Datenschutz und Auditfähigkeit im Us Copyright Registrierung Verlag."
+description: "Wenn es um eCO Account und Organisationskonto in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # eCO Account und Organisationskonto

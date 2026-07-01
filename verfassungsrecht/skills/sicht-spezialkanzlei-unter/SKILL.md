@@ -1,6 +1,6 @@
 ---
 name: sicht-spezialkanzlei-unter
-description: "Sicht: Dokumentenmatrix, Lückenliste und Nachforderung im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Sicht: Dokumentenmatrix, Lückenliste und Nachforderung in verfassungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Sicht: Dokumentenmatrix, Lückenliste und Nachforderung

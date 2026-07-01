@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Familienrecht: trennt fehlende Tatsachen von fehlenden Belegen (Heiratsurkunde, Scheidungsantrag, Vermögensauseinandersetzung), nennt pro Lücke Beweisthema, Beschaffungsweg (Familiengericht (AG)), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Familienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-technologie-transfer-cloud-download
-description: "Exportkontrolle für Technologietransfer durch Cloud-Dienste und Downloads: Genehmigungspflicht nach VO (EU) 2021/821 Art. 2 Nr. 7 (technische Unterstuetzung) und Art. 22 (Brokering) bei Software-Uploads Fernzugriff und E-Mail-Uebermittlung in Drittlaender. Abgrenzung zur physischen Ausfuhr. Outpu..."
+description: "Wenn es um Technologietransfer durch Cloud und Downloads: Exportkontrolle immaterieller Gueter in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Technologietransfer durch Cloud und Downloads: Exportkontrolle immaterieller Gueter

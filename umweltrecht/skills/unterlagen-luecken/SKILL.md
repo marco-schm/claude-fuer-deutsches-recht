@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Umweltrecht: trennt fehlende Tatsachen von fehlenden Belegen (UVP-Bericht, Genehmigungsbescheid, Stellungnahmen Umweltverbände), nennt pro Lücke Beweisthema, Beschaffungsweg (Umweltbehörden Länder), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

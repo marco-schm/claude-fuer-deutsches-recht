@@ -1,6 +1,6 @@
 ---
 name: anfaenger-modus-beamtenrecht
-description: "Anfängerführung für Beamte, Richter, Bewerber und Anwälte: erklärt Begriffe, Verfahrenswege und typische Denkfehler ohne juristische Überwältigung im Beamtenrecht."
+description: "Wenn es um Anfaenger Modus Beamtenrecht in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anfaenger Modus Beamtenrecht

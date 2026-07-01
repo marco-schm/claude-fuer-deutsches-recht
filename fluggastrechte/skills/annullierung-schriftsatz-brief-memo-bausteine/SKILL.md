@@ -1,6 +1,6 @@
 ---
 name: annullierung-schriftsatz-brief-memo-bausteine
-description: "Annullierung: Schriftsatz-, Brief- und Memo-Bausteine im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Wel..."
+description: "Wenn es um Annullierung: Schriftsatz-, Brief- und Memo-Bausteine in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Annullierung: Schriftsatz-, Brief- und Memo-Bausteine

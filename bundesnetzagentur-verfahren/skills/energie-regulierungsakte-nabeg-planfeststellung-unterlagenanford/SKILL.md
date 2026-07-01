@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-nabeg-planfeststellung-unterlagenanford
-description: "NABEG Planfeststellung: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: NABEG Planfeststellung — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: NABEG Planfeststellung — Unterlagenanforderung

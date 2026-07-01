@@ -1,6 +1,6 @@
 ---
 name: digital-products-international
-description: "Internationales Handelsrecht: Digitale Produkte im internationalen Handel. EU-Richtlinie 2019/770 (Digitale Inhalte), CISG-Anwendbarkeit auf Software-Verkauf, Lizenzrecht, AI-Act (EU) 2024/1689 und grenzüberschreitende Softwarelizenzen im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Digitale Produkte im internationalen Handel in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitale Produkte im internationalen Handel

@@ -1,6 +1,6 @@
 ---
 name: fehlerhafte-eintragung-berichtigung
-description: "Prüft Schreibfehler, materiell falsche Eintragung, Amtskorrektur, Löschung, neue Anmeldung und Haftungsnotiz im Handelsregister Praxis."
+description: "Wenn es um Fehlerhafte Eintragung korrigieren in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fehlerhafte Eintragung korrigieren

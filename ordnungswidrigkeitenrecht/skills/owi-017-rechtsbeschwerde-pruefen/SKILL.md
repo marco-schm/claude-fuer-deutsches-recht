@@ -1,6 +1,6 @@
 ---
 name: owi-017-rechtsbeschwerde-pruefen
-description: "Ordnungswidrigkeitenrecht: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Rechtsbeschwerde Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsbeschwerde Pruefen

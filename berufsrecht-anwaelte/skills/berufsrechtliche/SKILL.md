@@ -1,6 +1,6 @@
 ---
 name: berufsrechtliche
-description: "Anwälte: berufsrechtliche notfallkommunikation - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Anwaelte."
+description: "Wenn es um Berufsrechtliche in Berufsrecht Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: berufsrechtliche notfallkommunikation - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

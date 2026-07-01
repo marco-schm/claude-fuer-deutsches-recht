@@ -1,6 +1,6 @@
 ---
 name: gebietsschutz
-description: "Prüft Gebietsschutzvereinbarungen im Handelsvertretervertrag: Umfang und Wirksamkeit von Alleinvertretungsklauseln, Provisionsansprüche bei Direktabschlüssen im Schutzgebiet, Kartellrechtskonformität von Gebietsexklusivität und Schadensersatz bei Verletzung des Gebietsschutzes durch den Unternehm..."
+description: "Wenn es um Gebietsschutz im Handelsvertretervertrag nach Paragraf 87 Abs. 2 HGB und Kartellrecht in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Gebietsschutz im Handelsvertretervertrag nach § 87 Abs. 2 HGB und Kartellrecht

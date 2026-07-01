@@ -1,6 +1,6 @@
 ---
 name: grants-forschungszulage
-description: "Prüft, ob Portfolio-Unternehmen Forschungszulage, Zuschüsse, EU-Förderung oder Investitionsprogramme nutzen kann im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Fördermittel und Forschungszulage in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fördermittel und Forschungszulage

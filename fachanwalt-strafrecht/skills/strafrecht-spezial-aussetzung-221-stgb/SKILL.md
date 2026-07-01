@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussetzung-221-stgb
-description: "Aussetzung nach § 221 StGB: Konkretes Gefaehrdungsdelikt. Versetzen in hilflose Lage oder Imstichlassen bei Obhuts- oder Beistandspflicht. Gefahr des Todes oder einer schweren Gesundheitsschaedigung. Qualifikationen Abs. 2 und Er..."
+description: "Wenn es um Aussetzung nach Paragraf 221 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aussetzung nach § 221 StGB

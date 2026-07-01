@@ -1,6 +1,6 @@
 ---
 name: issues-list-and-roadmap
-description: "Formuliert eine Issues List für Commercial-Court-Verfahren: legal issues, factual issues, evidence issues, quantum, jurisdiction and language im Commercial Courts Deutschland."
+description: "Wenn es um Issues List in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Issues List

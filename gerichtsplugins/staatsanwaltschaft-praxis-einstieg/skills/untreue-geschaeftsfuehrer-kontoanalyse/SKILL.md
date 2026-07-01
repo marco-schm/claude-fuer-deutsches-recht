@@ -1,6 +1,6 @@
 ---
 name: untreue-geschaeftsfuehrer-kontoanalyse
-description: "Untreue des Geschäftsführers: Kontoanalyse und Pflichtwidrigkeit: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Untreue des Geschäftsführers: Kontoanalyse und Pflichtwidrigkeit in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Untreue des Geschäftsführers: Kontoanalyse und Pflichtwidrigkeit

@@ -1,6 +1,6 @@
 ---
 name: zahlungsklage-erstellen
-description: "Zahlungsklage erstellen nach Paragrafen 253 ff. ZPO: Rubrum, Klageantrag, Streitwertangabe, Tatbestand, Beweismittel, Anlagenverzeichnis, Zuständigkeit nach Paragraf 23 Nummer 1 und Nummer 2a GVG sowie Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO."
+description: "Wenn es um Zahlungsklage erstellen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zahlungsklage erstellen

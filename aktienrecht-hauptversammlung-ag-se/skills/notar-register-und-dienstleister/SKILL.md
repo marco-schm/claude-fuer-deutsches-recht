@@ -1,6 +1,6 @@
 ---
 name: notar-register-und-dienstleister
-description: "Hauptversammlung AG und SE: Notar Register Und Dienstleister; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Notar Register Und Dienstleister in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notar Register Und Dienstleister

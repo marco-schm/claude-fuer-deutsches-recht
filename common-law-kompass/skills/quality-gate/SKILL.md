@@ -1,6 +1,6 @@
 ---
 name: quality-gate
-description: "Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet prüfen: Jurisdiktion Quellenstand False Friends UK/US-Trennung Review-Bedarf. Prüfraster Jurisdiktion-Konsistenz Normen-Aktualitaet False-Friends-Scan UK-US-Trennung. Output Qualitaets-Prüfbericht Lueckenliste. Abgrenzung zu common-law-fal..."
+description: "Wenn es um Common-Law-Qualitätstor in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Common-Law-Qualitätstor

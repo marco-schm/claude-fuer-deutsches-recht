@@ -1,6 +1,6 @@
 ---
 name: sicherheit-650m-fuenf-prozent-einbehalt-und-buergschaft
-description: "Prüft die 5-Prozent-Sicherheit des Verbrauchers im Bauträgervertrag: § 650m Abs. 2 BGB, § 309 Nr. 15 BGB, Einbehalt, Bürgschaft, Kostenabwälzung, Transparenz, Verzicht, MaBV-Raten und Verhältnis zu § 7 MaBV."
+description: "Wenn es um Paragraf 650m-Sicherheit, Einbehalt und Bürgschaft in Bauträgervertrag-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 650m-Sicherheit, Einbehalt und Bürgschaft

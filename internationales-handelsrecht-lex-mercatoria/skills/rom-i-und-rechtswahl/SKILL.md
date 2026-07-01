@@ -1,6 +1,6 @@
 ---
 name: rom-i-und-rechtswahl
-description: "Internationales Handelsrecht: Vertragsstatut nach Rom I-VO (EG) 593/2008. Freie Rechtswahl (Art. 3), subsidiäre Anknüpfung (Art. 4), Eingriffsnormen (Art. 9), Verbraucherschutz (Art. 6) und Rechtswahl zugunsten nicht-staatlichen Rechts im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Rom I-VO und Rechtswahl im internationalen Handel in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom I-VO und Rechtswahl im internationalen Handel

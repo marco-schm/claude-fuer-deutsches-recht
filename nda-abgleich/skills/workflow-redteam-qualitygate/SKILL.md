@@ -1,6 +1,6 @@
 ---
 name: workflow-redteam-qualitygate
-description: "Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im NDA-Abgleich."
+description: "Wenn es um Red-Team Qualitygate in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Workflow Redteam Qualitygate; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # Red-Team Qualitygate

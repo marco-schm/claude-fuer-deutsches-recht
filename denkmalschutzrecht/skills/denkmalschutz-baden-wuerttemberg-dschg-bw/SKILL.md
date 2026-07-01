@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-baden-wuerttemberg-dschg-bw
-description: "Denkmalschutzrecht Baden-Württemberg nach dem Gesetz zum Schutz der Kulturdenkmale (DSchG-BW). Skill bündelt zuständige Behörden (Landesamt für Denkmalpflege im Regierungspräsidium Stuttgart), Verfahrensbesonderheiten und Erlaubnistatbestände."
+description: "Wenn es um Denkmalschutz Baden-Württemberg (DSchG-BW) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Baden-Württemberg (DSchG-BW)

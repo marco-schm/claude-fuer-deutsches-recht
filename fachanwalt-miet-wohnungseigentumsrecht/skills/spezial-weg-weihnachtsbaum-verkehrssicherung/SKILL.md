@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-weihnachtsbaum-verkehrssicherung
-description: "Weihnachtsbaum/Verkehrssicherung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Aufstellung, Brandschutz, Haftung, Beschluss, Versicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Weihnachtsbaum/Verkehrssicherung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weihnachtsbaum/Verkehrssicherung

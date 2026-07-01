@@ -1,6 +1,6 @@
 ---
 name: ein-051-bodenreformland-anspruchspfad-pruefen
-description: "Einigungsvertrag und Vermögensrecht: Bodenreformland: Anspruchspfad prüfen. Anspruchspfad prüfen für Bodenreformland im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bodenreformland Anspruchspfad Pruefen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bodenreformland Anspruchspfad Pruefen

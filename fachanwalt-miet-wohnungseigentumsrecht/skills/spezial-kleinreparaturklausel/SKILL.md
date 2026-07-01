@@ -1,6 +1,6 @@
 ---
 name: spezial-kleinreparaturklausel
-description: "Kleinreparaturklausel: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Gegenstandsbereich, Einzelobergrenze, Jahresobergrenze und Transparenz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Kleinreparaturklausel in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kleinreparaturklausel

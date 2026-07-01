@@ -1,6 +1,6 @@
 ---
 name: sage-buchhalter-bwa
-description: "Sage Buchhalter BWA-Konfiguration. Anwendungsfall Mandanten oder Kanzleien mit Sage-Software statt DATEV/Addison. Methodik Unterschiede Konten BWA-Forms. Output BWA in Sage im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Sage Buchhalter BWA in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sage Buchhalter Bwa; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Sage Buchhalter BWA

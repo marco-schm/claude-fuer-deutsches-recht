@@ -1,6 +1,6 @@
 ---
 name: besonders-formular-portal-und-einreichung
-description: "Besonders: Formular, Portal und Einreichungslogik im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Besonders: Formular, Portal und Einreichungslogik in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besonders: Formular, Portal und Einreichungslogik

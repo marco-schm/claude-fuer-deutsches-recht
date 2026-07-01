@@ -1,6 +1,6 @@
 ---
 name: eigenbedarfskuendigung
-description: "Fachanwalt Miet Wohnungseigentumsrecht Eigenbedarfskuendigung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Miet Wohnungseigentumsrecht Eigenbedarfskuendigung: ordnet Normen, Nutzera..."
+description: "Wenn es um Eigenbedarfskuendigung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Miet Wohnungseigentumsrecht Eigenbedarfskuendigung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

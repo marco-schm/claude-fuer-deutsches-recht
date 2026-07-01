@@ -1,6 +1,6 @@
 ---
 name: output-memo-pruefvermerk
-description: "Erzeugt den finalen Prüfvermerk zum Meinungsfall mit Sachverhalt, Wortlaut, Kontext, Normen, Rechtsprechung, Subsumtion, Risikoampel, Belegliste, Alternativformulierungen und Handlungsempfehlung."
+description: "Wenn es um Output: Memo und Prüfvermerk in Meinungsprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output: Memo und Prüfvermerk

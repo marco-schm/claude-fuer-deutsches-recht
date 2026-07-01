@@ -1,6 +1,6 @@
 ---
 name: bundeslaender-synopse
-description: "Erstellt eine Arbeits-Synopse der Landesversammlungsgesetze und markiert, was vor Ausgabe live amtlich zu prüfen ist im Versammlungsrecht."
+description: "Wenn es um Landesrecht als Arbeitskarte in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landesrecht als Arbeitskarte

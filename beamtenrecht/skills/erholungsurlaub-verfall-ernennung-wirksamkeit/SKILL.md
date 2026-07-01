@@ -1,6 +1,6 @@
 ---
 name: erholungsurlaub-verfall-ernennung-wirksamkeit
-description: "Skill zum Verfall des Erholungsurlaubs im Beamtenverhaeltnis nach Massgabe der EuGH-Rechtsprechung Schultz-Hoff und Folgesachen. Klaert die Voraussetzung der Mitwirkungsobliegenheit des Dienstherrn die Konstellation langer Krankheit und Beurlaubung sowie die Differenzierung zwischen unionsrechtli..."
+description: "Wenn es um Erholungsurlaub — Verfall und Mitwirkungsobliegenheit in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erholungsurlaub — Verfall und Mitwirkungsobliegenheit

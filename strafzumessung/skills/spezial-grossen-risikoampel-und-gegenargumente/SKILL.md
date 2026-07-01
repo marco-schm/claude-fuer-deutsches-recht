@@ -1,6 +1,6 @@
 ---
 name: spezial-grossen-risikoampel-und-gegenargumente
-description: "Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Grossen: Risikoampel, Gegenargumente und Verteidigungslinien in Strafzumessung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grossen: Risikoampel, Gegenargumente und Verteidigungslinien

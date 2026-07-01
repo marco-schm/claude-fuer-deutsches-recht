@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Patentrecherche (FTO, Validity, Family-Watch): sortiert Erfindungsmeldung, Anspruchssatz, Recherche-Report, prüft Datum, Absender, Frist und Beweiswert (Espacenet/DEPATISnet-Treffer, USPTO Patent Family); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

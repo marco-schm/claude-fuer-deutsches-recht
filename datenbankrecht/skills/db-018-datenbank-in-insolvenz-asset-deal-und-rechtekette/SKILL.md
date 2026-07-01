@@ -1,6 +1,6 @@
 ---
 name: db-018-datenbank-in-insolvenz-asset-deal-und-rechtekette
-description: "Datenbankrecht: Datenbank in Insolvenz Asset Deal und Rechtekette mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Datenbank in Insolvenz Asset Deal und Rechtekette in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Datenbank in Insolvenz Asset Deal und Rechtekette

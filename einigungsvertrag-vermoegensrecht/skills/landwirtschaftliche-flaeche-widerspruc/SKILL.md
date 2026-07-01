@@ -1,6 +1,6 @@
 ---
 name: landwirtschaftliche-flaeche-widerspruc
-description: "Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Widerspruch prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Landwirtschaftliche Flaeche Widerspruc in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landwirtschaftliche Flaeche Widerspruc

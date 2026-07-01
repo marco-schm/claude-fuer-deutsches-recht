@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-erwerbsminderungsrente-antrag
-description: "Laienverstaendlicher Sozialrechts-Skill zu Erwerbsminderungsrente Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
+description: "Wenn es um Laienhilfe: Erwerbsminderungsrente Antrag in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Laienhilfe: Erwerbsminderungsrente Antrag

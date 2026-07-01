@@ -1,6 +1,6 @@
 ---
 name: verstoesse-melden
-description: "Führt durch Meldung möglicher Verstoesse gegen Verhaltenskodex oder Registerpflichten an lobbyregister-meldung@bundestag.de. Output Meldungsentwurf im Lobbyregister Bundestag."
+description: "Wenn es um Verstoesse melden in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verstoesse melden

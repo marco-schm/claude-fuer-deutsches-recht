@@ -1,6 +1,6 @@
 ---
 name: inso-p091-ausschluss-sonstigen-rechtserwerbs
-description: "§ 91 InsO (Ausschluß sonstigen Rechtserwerbs) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 91 InsO (Ausschluß sonstigen Rechtserwerbs) im Mandat prüfen: Normzweck, Tatbestand, Belege, R..."
+description: "Wenn es um Inso P091 Ausschluss Sonstigen Rechtserwerbs in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 91 InsO (Ausschluß sonstigen Rechtserwerbs) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

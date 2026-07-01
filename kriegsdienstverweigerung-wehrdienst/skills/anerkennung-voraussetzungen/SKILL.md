@@ -1,6 +1,6 @@
 ---
 name: anerkennung-voraussetzungen
-description: "Prüft Vollständigkeit, geeignete Beweggründe und fehlende Wahrheitszweifel im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Anerkennung Paragraf 5 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anerkennung § 5 KDVG

@@ -1,6 +1,6 @@
 ---
 name: estate-property-541
-description: "Prüft estate property, causes of action, IP, proceeds, exclusions, trusts and foreign assets im US Bankruptcy Code."
+description: "Wenn es um Property of the Estate Paragraf 541 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Property of the Estate § 541

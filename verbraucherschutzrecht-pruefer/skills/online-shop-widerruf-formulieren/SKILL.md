@@ -1,6 +1,6 @@
 ---
 name: online-shop-widerruf-formulieren
-description: "Prüfer: Online-Shop: Widerruf formulieren im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Online Shop Widerruf Formulieren in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Online Shop Widerruf Formulieren

@@ -1,6 +1,6 @@
 ---
 name: mandat-red-team-und-qualitaetskontrolle
-description: "Mandat: Red-Team und Qualitätskontrolle im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
+description: "Wenn es um Mandat: Red-Team und Qualitätskontrolle in Insolvenzrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandat: Red-Team und Qualitätskontrolle

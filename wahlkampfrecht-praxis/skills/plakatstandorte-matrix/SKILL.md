@@ -1,6 +1,6 @@
 ---
 name: plakatstandorte-matrix
-description: "Wahlkampfrecht Praxis: Standortmatrix für Plakate mit Sichtbarkeit und Rechtssicherheit erstellen im Wahlkampfrecht."
+description: "Wenn es um Plakatstandorte Matrix in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Plakatstandorte Matrix

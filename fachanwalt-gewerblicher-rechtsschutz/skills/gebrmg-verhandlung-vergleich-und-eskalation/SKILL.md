@@ -1,6 +1,6 @@
 ---
 name: gebrmg-verhandlung-vergleich-und-eskalation
-description: "Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation: GebrMG §§ 1–25, Abgrenzung zum Patent, Schutzansprüche, Verletzungsklage, Löschungsverfahren DPMA, Vergleichsoptionen, Eskalationspfade..."
+description: "Wenn es um Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation

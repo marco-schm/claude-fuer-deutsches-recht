@@ -1,6 +1,6 @@
 ---
 name: lease-058-verbraucherbeweglich
-description: "Prueft Verbraucherleasing bei Widerruf, Pflichtangaben, Effektivkosten, Restwert, Kilometerabrechnung und Rueckgabe."
+description: "Wenn es um Verbraucherleasing beweglicher Sachen in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbraucherleasing beweglicher Sachen

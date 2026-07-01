@@ -1,6 +1,6 @@
 ---
 name: auslandseinsatz-einsatzregeln-beamtenrecht
-description: "Auslandseinsatz Mandat Einsatzregeln: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehrrecht..."
+description: "Wenn es um Auslandseinsatz – Mandat und Einsatzregeln in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auslandseinsatz – Mandat und Einsatzregeln

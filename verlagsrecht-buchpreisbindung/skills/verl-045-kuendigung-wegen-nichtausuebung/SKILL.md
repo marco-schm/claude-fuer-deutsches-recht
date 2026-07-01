@@ -1,6 +1,6 @@
 ---
 name: verl-045-kuendigung-wegen-nichtausuebung
-description: "Verlagsrecht: Kündigung wegen Nichtausübung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Kündigung wegen Nichtausübung in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Kündigung wegen Nichtausübung

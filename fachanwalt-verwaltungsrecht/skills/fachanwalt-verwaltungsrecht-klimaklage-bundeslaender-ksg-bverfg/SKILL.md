@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg
-description: "Workflow-Skill zu fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Wenn es um Klimaklage gegen Bundesländer — KSG / BVerfG 2021 in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klimaklage gegen Bundesländer — KSG / BVerfG 2021

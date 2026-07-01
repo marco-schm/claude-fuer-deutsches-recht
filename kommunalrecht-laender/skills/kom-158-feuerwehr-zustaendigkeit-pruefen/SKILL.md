@@ -1,6 +1,6 @@
 ---
 name: kom-158-feuerwehr-zustaendigkeit-pruefen
-description: "Kommunalrecht der Länder: Feuerwehr: Zuständigkeit prüfen. Zuständigkeit prüfen für Feuerwehr im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Feuerwehr Zustaendigkeit Pruefen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Feuerwehr Zustaendigkeit Pruefen

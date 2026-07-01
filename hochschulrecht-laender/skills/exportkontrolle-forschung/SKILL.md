@@ -1,6 +1,6 @@
 ---
 name: exportkontrolle-forschung
-description: "Prüft Dual-Use, Sanktionen, Gastwissenschaftler, Wissenstransfer und Genehmigungsbedarf im Hochschulrecht Länder."
+description: "Wenn es um Exportkontrolle in der Forschung in Hochschulrecht der Bundesländer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exportkontrolle in der Forschung

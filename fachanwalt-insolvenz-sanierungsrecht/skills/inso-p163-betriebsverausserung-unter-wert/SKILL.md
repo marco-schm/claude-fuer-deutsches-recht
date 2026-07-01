@@ -1,6 +1,6 @@
 ---
 name: inso-p163-betriebsverausserung-unter-wert
-description: "§ 163 InsO (Betriebsveräußerung unter Wert) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 163 InsO (Betriebsveräußerung unter Wert) im Mandat prüfen: Normzweck, Tatbestand, Belege, Recht..."
+description: "Wenn es um Inso P163 Betriebsverausserung Unter Wert in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 163 InsO (Betriebsveräußerung unter Wert) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

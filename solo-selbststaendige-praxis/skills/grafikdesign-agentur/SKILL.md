@@ -1,6 +1,6 @@
 ---
 name: grafikdesign-agentur
-description: "Solo-Selbstständige: prüft Designauftrag, Rechte, Referenzen, KSK und Kundenfreigaben; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Branchenfälle: Prüft designauftrag in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Branchenfälle: Prüft designauftrag

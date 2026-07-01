@@ -1,6 +1,6 @@
 ---
 name: spezial-buyouts-livequellen-und-rechtsprechungscheck
-description: "Buyouts: Livequellen- und Rechtsprechungscheck im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Buyouts: Livequellen- und Rechtsprechungscheck in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buyouts: Livequellen- und Rechtsprechungscheck

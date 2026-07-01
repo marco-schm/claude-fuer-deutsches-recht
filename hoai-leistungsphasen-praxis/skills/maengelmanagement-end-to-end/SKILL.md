@@ -1,6 +1,6 @@
 ---
 name: maengelmanagement-end-to-end
-description: "HOAI-Praxis: ordnet Mangelanzeige, Frist, Ersatzvornahme, Dokumentation und Gewährleistung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um HOAI Querschnitt: Ordnet mangelanzeige in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # HOAI Querschnitt: Ordnet mangelanzeige

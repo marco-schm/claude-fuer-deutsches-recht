@@ -1,6 +1,6 @@
 ---
 name: strafzumessung-schoeffe-orientierung
-description: "Strafzumessung für Schöffen (Orientierung): hilft ehrenamtlichen Richtern bei Schuld, Prävention, Vorleben, Geständnis, Opferfolgen und Bewährung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Strafzumessung für Schöffen: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Strafzumessung für Schöffen: Orientierung

@@ -1,6 +1,6 @@
 ---
 name: ag-typ-kleine-normale-boersennotierte-ag-se
-description: "Hauptversammlung AG und SE: AG Typ Kleine Normale Boersennotierte AG SE; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um AG Typ Kleine Normale Boersennotierte AG SE in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AG Typ Kleine Normale Boersennotierte AG SE

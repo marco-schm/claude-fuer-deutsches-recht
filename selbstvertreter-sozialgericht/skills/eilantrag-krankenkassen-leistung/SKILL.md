@@ -1,6 +1,6 @@
 ---
 name: eilantrag-krankenkassen-leistung
-description: "Eilantrag wenn die Krankenkasse Behandlung Hilfsmittel oder Therapie ablehnt § 86b Abs. 2 SGG. Schwere und unumkehrbare Gesundheitsschaeden Mustertext für Buerger."
+description: "Wenn es um Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können

@@ -1,6 +1,6 @@
 ---
 name: geschaeftsmodell-drehen
-description: "Solo-Selbstständige: bewertet Pivot, neue Leistung, Preismodell und alte Pflichten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Krise Schulden und Neustart: Bewertet pivot in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krise Schulden und Neustart: Bewertet pivot

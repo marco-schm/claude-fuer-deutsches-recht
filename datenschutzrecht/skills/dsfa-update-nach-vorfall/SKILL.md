@@ -1,6 +1,6 @@
 ---
 name: dsfa-update-nach-vorfall
-description: "Aktualisiert die Datenschutz-Folgenabschätzung nach Art. 35 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Erforderlichkeit der DSFA bei voraussichtlich hohem Risiko; Anpassung der Risikoanalyse; Abhilfemaßnahmen; Konsultation der Aufsichtsbehörde nach Art. 36 DSGVO bei verbleibendem hoh..."
+description: "Wenn es um Datenschutz-Folgenabschätzung nach Datenschutzvorfall aktualisieren in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz-Folgenabschätzung nach Datenschutzvorfall aktualisieren

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-meldung-geschaeftsgeheimnis
-description: "Verbindet Hinweis mit GwG/FIU-Pflichten im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Geldwaesche Meldung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geldwaesche Meldung

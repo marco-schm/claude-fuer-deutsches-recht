@@ -1,6 +1,6 @@
 ---
 name: spezial-mietrecht-beweislast-und-darlegungslast
-description: "Mietrecht: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt miet wohnungseigentumsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Mietrecht: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietrecht: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-beweislast-verjaehrung-digitale
-description: "Prüft Beweislastumkehr § 477 BGB, Verjährung § 438 BGB und Besonderheiten bei digitalen Elementen."
+description: "Wenn es um Kaufrecht: Beweislast, Verjährung und digitale Elemente in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaufrecht: Beweislast, Verjährung und digitale Elemente

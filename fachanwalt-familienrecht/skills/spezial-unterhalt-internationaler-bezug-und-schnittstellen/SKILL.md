@@ -1,6 +1,6 @@
 ---
 name: spezial-unterhalt-internationaler-bezug-und-schnittstellen
-description: "Unterhalt: Internationaler Bezug und Schnittstellen im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Unterhalt: Internationaler Bezug und Schnittstellen in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterhalt: Internationaler Bezug und Schnittstellen

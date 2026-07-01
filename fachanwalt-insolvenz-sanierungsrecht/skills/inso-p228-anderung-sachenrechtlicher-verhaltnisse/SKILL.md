@@ -1,6 +1,6 @@
 ---
 name: inso-p228-anderung-sachenrechtlicher-verhaltnisse
-description: "§ 228 InsO (Änderung sachenrechtlicher Verhältnisse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 228 InsO (Änderung sachenrechtlicher Verhältnisse) im Mandat prüfen: Normzweck, Tatbest..."
+description: "Wenn es um Inso P228 Anderung Sachenrechtlicher Verhaltnisse in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 228 InsO (Änderung sachenrechtlicher Verhältnisse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

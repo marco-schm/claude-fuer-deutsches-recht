@@ -1,6 +1,6 @@
 ---
 name: beschwerde-fristen-sofortcheck
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Fristen Sofortcheck."
+description: "Wenn es um Beschwerde Fristen Sofortcheck in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschwerde Fristen Sofortcheck

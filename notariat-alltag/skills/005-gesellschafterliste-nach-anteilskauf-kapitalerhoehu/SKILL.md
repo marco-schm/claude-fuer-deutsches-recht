@@ -1,6 +1,6 @@
 ---
 name: 005-gesellschafterliste-nach-anteilskauf-kapitalerhoehu
-description: "Notariat im Alltag: Gesellschafterliste nach Anteilskauf, Kapitalerhöhung oder Einziehung. Pflichten nach § 40 GmbHG, Inhalt, Einreichung, Registeraktualisierung und Gutglaubensschutz im Notariat."
+description: "Wenn es um Notariat im Alltag: Gesellschafterliste – Anteilskauf, Kapitalerhöhung, Einziehung in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Gesellschafterliste – Anteilskauf, Kapitalerhöhung, Einziehung

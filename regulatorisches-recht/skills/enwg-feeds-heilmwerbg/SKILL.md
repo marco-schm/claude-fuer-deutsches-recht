@@ -1,6 +1,6 @@
 ---
 name: enwg-feeds-heilmwerbg
-description: "Enwg: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Enwg: Dokumentenmatrix, Lückenliste und Nachforderung in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Enwg: Dokumentenmatrix, Lückenliste und Nachforderung

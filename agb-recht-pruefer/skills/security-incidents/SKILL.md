@@ -1,6 +1,6 @@
 ---
 name: security-incidents
-description: "Klausel-Fachmodul für Security Incidents: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um Security Incidents in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Security Incidents

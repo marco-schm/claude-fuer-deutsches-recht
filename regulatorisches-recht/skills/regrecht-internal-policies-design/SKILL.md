@@ -1,6 +1,6 @@
 ---
 name: regrecht-internal-policies-design
-description: "Internal Policies regulatorisch design: Hierarchie (Konzernrichtlinie, Tochterrichtlinie, Arbeitsanweisung, Verfahrensbeschreibung), Pflichtbestandteile, Versionierung, Verteilung, Schulung, Wirksamkeitsmessung. Mustertemplate für Bank- und Versicherungskonzerne im Regulatorisches Recht."
+description: "Wenn es um Regrecht: Internal Policies in Regulatorisches Recht – Plugin für deutsches geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Regrecht: Internal Policies

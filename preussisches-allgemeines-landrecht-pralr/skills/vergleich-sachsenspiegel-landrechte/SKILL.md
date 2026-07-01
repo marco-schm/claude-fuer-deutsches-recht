@@ -1,6 +1,6 @@
 ---
 name: vergleich-sachsenspiegel-landrechte
-description: "PrALR: ältere Landrechte, Sachsenspiegel, Partikularrecht und preußische Vereinheitlichungsambition einordnen."
+description: "Wenn es um Ältere Landrechte in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Vergleich Sachsenspiegel Landrechte; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Ältere Landrechte

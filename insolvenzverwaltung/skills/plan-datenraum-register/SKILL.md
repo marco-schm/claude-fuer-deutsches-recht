@@ -1,6 +1,6 @@
 ---
 name: plan-datenraum-register
-description: "Planbegleitenden Datenraum aufbauen und Dokumentenregister führen wenn alle Planbausteine belegbar sein muessen. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS Vertraege Sicherheiten Luecken Versionskontrolle. Output: Datenraumregister Lue..."
+description: "Wenn es um IV-integrierte Datenraum und Dokumentenregister in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IV-integrierte Datenraum und Dokumentenregister

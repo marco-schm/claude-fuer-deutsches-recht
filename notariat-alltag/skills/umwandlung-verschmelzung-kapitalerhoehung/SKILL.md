@@ -1,6 +1,6 @@
 ---
 name: umwandlung-verschmelzung-kapitalerhoehung
-description: "Notariat im Alltag: Umwandlung – Verschmelzung, Spaltung, Formwechsel, Registervollzug. UmwG-Verfahren, notarielle Beurkundungspflichten, Handelsregisteranmeldung und Vollzugsvoraussetzungen bei Umstrukturierungen im Notariat."
+description: "Wenn es um Notariat im Alltag: Umwandlung – Verschmelzung, Spaltung, Formwechsel, Registervollzug in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Umwandlung – Verschmelzung, Spaltung, Formwechsel, Registervollzug

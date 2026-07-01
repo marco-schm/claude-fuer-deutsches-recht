@@ -1,6 +1,6 @@
 ---
 name: geschaeftsordnung-vorstand-gruendung
-description: "Regelt Sitzungen, Beschlüsse, Ressorts, Zeichnungsrechte, Protokolle und Eilentscheidungen im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Geschäftsordnung Vorstand in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschäftsordnung Vorstand

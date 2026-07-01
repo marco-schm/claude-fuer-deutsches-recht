@@ -1,6 +1,6 @@
 ---
 name: zitat-rechtsprechung-fristennotiz-naechster
-description: "Rechtsprechung ohne amtliche/freie Fundstelle behandeln: Gericht Datum Aktenzeichen sichern, freie Quelle suchen, Datenbanknummern nur als Nutzerquelle/Lizenzfund vermerken und nicht als tragenden Ersatz verwenden im Zitierweise."
+description: "Wenn es um Rechtsprechung ohne amtl. Fundstelle in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsprechung ohne amtl. Fundstelle

@@ -1,6 +1,6 @@
 ---
 name: spezial-chronologie-beweislast-und-darlegungslast
-description: "Chronologie: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Chronologie: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: bwbes-neu-002-wehrsold-freiwilliger-wehrdienst-unterhalt
-description: "Bundeswehrrecht: Wehrsold freiwilliger Wehrdienst und Unterhaltssicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Bundeswehrrecht: Wehrsold freiwilliger Wehrdienst und Unterhaltssicherung in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bundeswehrrecht: Wehrsold freiwilliger Wehrdienst und Unterhaltssicherung

@@ -1,6 +1,6 @@
 ---
 name: urhmr-urhebervertrag-bauleiter
-description: "Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff: UrhG, Bestimmtheitsgrundsatz, angemessene Verguetung § 32 UrhG, Auskunftsrecht § 32d UrhG. Prüfraster für Urheber und Nu..."
+description: "Wenn es um Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten Paragrafen 31 ff in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff

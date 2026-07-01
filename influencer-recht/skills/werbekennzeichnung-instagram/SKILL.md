@@ -1,6 +1,6 @@
 ---
 name: werbekennzeichnung-instagram
-description: "Influencer-Recht: Werbekennzeichnung auf Instagram, TikTok und YouTube – § 5a UWG, § 22 MStV, BGH-Rechtsprechung, plattformspezifische Anforderungen im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Werbekennzeichnung – Instagram Story/Reel, TikTok, YouTube in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Influencer-Recht: Werbekennzeichnung – Instagram Story/Reel, TikTok, YouTube

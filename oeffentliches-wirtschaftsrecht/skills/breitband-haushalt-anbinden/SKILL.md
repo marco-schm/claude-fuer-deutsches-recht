@@ -1,6 +1,6 @@
 ---
 name: breitband-haushalt-anbinden
-description: "Breitband: Haushalt anbinden im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Breitband Haushalt Anbinden in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Breitband Haushalt Anbinden

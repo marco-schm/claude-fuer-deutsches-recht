@@ -1,6 +1,6 @@
 ---
 name: csrd-esrs-lagebericht
-description: "Nachhaltigkeitsberichterstattung: Anwendungsbereich, doppelte Wesentlichkeit, Datenpunkte, Lagebericht, Prüfung und mittelständische Lieferkettenschnittstelle im Berichtspflichten."
+description: "Wenn es um CSRD/ESRS Nachhaltigkeitsbericht in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # CSRD/ESRS Nachhaltigkeitsbericht

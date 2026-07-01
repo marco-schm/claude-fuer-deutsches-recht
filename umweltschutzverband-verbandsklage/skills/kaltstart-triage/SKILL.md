@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Umweltschutzverband Verbandsklage: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
+description: "Wenn es um Umweltschutzverband Verbandsklage - Allgemeiner Einstieg in Umweltschutzverband Verbandsklage geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umweltschutzverband Verbandsklage - Allgemeiner Einstieg

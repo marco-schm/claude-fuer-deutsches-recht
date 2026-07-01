@@ -1,6 +1,6 @@
 ---
 name: parken-halten-ausnahmegenehmigung
-description: "Straßenverkehrsrecht StVO: Parken Halten Abschleppen. Parken Halten Abschleppen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege..."
+description: "Wenn es um Parken Halten Abschleppen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parken Halten Abschleppen

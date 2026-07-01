@@ -1,6 +1,6 @@
 ---
 name: owi-003-anhoerung-richtig-behandeln
-description: "Ordnungswidrigkeitenrecht: Anhörung richtig behandeln. Anhörung richtig behandeln im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Anhoerung Richtig Behandeln in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anhoerung Richtig Behandeln

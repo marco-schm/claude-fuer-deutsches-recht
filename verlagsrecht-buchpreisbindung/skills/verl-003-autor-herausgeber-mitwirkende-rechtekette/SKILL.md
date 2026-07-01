@@ -1,6 +1,6 @@
 ---
 name: verl-003-autor-herausgeber-mitwirkende-rechtekette
-description: "Verlagsrecht: Autor Herausgeber Mitwirkende Rechtekette mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Autor Herausgeber Mitwirkende Rechtekette in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Autor Herausgeber Mitwirkende Rechtekette

@@ -1,6 +1,6 @@
 ---
 name: unternehmerleasing-gewaehrleistung
-description: "Unternehmerleasing: Gewährleistungsabtretung, Durchgriff gegen Lieferant, AGB-Besonderheiten B2B, HGB-Handelskauf und Rügeobliegenheit im Leasingrecht."
+description: "Wenn es um Unternehmerleasing: Gewährleistung und Lieferantendurchgriff in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Unternehmerleasing: Gewährleistung und Lieferantendurchgriff

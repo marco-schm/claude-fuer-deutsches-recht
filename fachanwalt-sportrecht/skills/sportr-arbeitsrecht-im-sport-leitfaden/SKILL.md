@@ -1,6 +1,6 @@
 ---
 name: sportr-arbeitsrecht-im-sport-leitfaden
-description: "Leitfaden Arbeitsrecht im Sport: Spielervertrag als befristeter Arbeitsvertrag, Befristungsrecht BAG, Transferregeln FIFA / DFB, Trainerverträge: Leitfaden Arbeitsrecht im Sport: Spielervertrag als befristeter Arbeitsvertrag, Befristungsrecht BAG, Transferr..."
+description: "Wenn es um Sportr Arbeitsrecht Im Sport Leitfaden in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leitfaden Arbeitsrecht im Sport: Spielervertrag als befristeter Arbeitsvertrag, Befristungsrecht BAG, Transferregeln FIFA / DFB, Trainerverträge

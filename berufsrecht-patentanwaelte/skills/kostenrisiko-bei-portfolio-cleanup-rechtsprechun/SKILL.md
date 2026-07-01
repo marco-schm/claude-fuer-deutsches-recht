@@ -1,6 +1,6 @@
 ---
 name: kostenrisiko-bei-portfolio-cleanup-rechtsprechun
-description: "Patentanwälte: kostenrisiko bei portfolio cleanup - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Kostenrisiko Bei Portfolio Cleanup Rechtsprechun in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Patentanwälte: kostenrisiko bei portfolio cleanup - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

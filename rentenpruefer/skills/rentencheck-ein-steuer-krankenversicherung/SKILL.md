@@ -1,6 +1,6 @@
 ---
 name: rentencheck-ein-steuer-krankenversicherung
-description: "Rentencheck ein Jahr vorher: Antragstiming, letzte Korrekturen, Arbeitgeber, Krankenkasse, Steuer, Ausland und Auszahlung im Rentenpruefer."
+description: "Wenn es um rentencheck-ein-jahr-vorher in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # rentencheck-ein-jahr-vorher

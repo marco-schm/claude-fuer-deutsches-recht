@@ -1,6 +1,6 @@
 ---
 name: digitalisierungstitel-szenario-rechnen
-description: "Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Szenario rechnen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Digitalisierungstitel Szenario Rechnen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitalisierungstitel Szenario Rechnen

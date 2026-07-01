@@ -1,6 +1,6 @@
 ---
 name: verk-fahrtenbuch-anordnung-spezial
-description: "Spezialfall Fahrtenbuchanordnung § 31a StVZO: Voraussetzungen, Ermessen, Mitwirkung, Verhältnismäßigkeit: Prüfraster für Widerspruch und Klage."
+description: "Wenn es um Verk Fahrtenbuch Anordnung Spezial in Fachanwalt Verkehrsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Spezialfall Fahrtenbuchanordnung § 31a StVZO: Voraussetzungen, Ermessen, Mitwirkung, Verhältnismäßigkeit

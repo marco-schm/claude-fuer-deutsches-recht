@@ -1,6 +1,6 @@
 ---
 name: verwahrungsanzeige-und-gnotkg-organisationspflicht-und-p
-description: "Notare: verwahrungsanzeige und gnotkg - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Verwahrungsanzeige Und Gnotkg Organisationspflicht Und P in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: verwahrungsanzeige und gnotkg - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

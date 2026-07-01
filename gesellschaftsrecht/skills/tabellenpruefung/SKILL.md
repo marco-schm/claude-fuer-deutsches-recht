@@ -1,6 +1,6 @@
 ---
 name: tabellenpruefung
-description: "Tabellarische Vertrags- und Datenraumpruefung im Gesellschaftsrecht: Dokumente in Spaltenlogik, Quellenzitate, Ampelstatus und Excel-/Google-Sheets-Ausgabe ueberfuehren; besonders fuer Cap Table, Gesellschafterliste, SHA, Beteiligungsstruktur und M&A-Diligence."
+description: "Wenn es um Tabellenpruefung Gesellschaftsrecht in Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Tabellenpruefung Gesellschaftsrecht

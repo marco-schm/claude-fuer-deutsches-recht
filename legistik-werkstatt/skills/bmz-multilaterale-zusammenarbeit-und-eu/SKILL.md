@@ -1,6 +1,6 @@
 ---
 name: bmz-multilaterale-zusammenarbeit-und-eu
-description: "Sachbereich Multilaterale Zusammenarbeit und EU im Geschäftsbereich BMZ: Normbestand (UN-Charta; UN-Konventionen; EUZBLG; Vertragsgesetze.); Akteure (BMZ; AA; BMF; EU-Generaldirektionen; multilaterale Banken.); EU-Bezug (NDICI; EFAD-Architektur; Team Europe; Pakt für die Zukunft.); typische Legi..."
+description: "Wenn es um Multilaterale Zusammenarbeit und EU (BMZ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Multilaterale Zusammenarbeit und EU (BMZ)

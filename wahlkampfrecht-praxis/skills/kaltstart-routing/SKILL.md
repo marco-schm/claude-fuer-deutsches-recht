@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Wahlkampfrecht Praxis: Kaltstart für jede Wahlkampflage mit Routing zu Recht, Strategie, Digital, Plakatierung, Finanzen oder Krise."
+description: "Wenn es um Allgemeiner Kaltstart in Wahlkampfrecht Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemeiner Kaltstart

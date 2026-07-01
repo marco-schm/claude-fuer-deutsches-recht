@@ -1,6 +1,6 @@
 ---
 name: plan-gruppen-klassenbildung
-description: "Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden um Planbestätigungsrisiken zu minimieren. §§ 222 223 InsO Gruppenbildung §§ 9 10 StaRUG Klassenbildung. Prüfraster: Rechtsstellung wirtschaftliche Interessen Absonderungsrechte Nachrang Anteilsinhaber Gleichbehandlung. Output..."
+description: "Wenn es um IV-integrierte Gruppen- und Klassenbildung in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IV-integrierte Gruppen- und Klassenbildung

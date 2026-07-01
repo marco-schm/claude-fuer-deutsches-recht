@@ -1,6 +1,6 @@
 ---
 name: bea-erv-english-pleadings
-description: "Prüft beA/ERV-Einreichung englischer Schriftsätze: Dateiformat, Signatur, Anlagen, Fristen, Empfangsbekenntnis und Kanzlei-Workflow im Commercial Courts Deutschland."
+description: "Wenn es um Bea Erv English Pleadings in commercial-courts-deutschland geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # beA/ERV

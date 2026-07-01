@@ -1,6 +1,6 @@
 ---
 name: dpma-widerspruch-und-loeschung
-description: "DPMA-Widerspruch und Löschungsantrag gegen kollidierendes Zeichen: Markeninhaber entdeckt juengere aehnliche Marke oder will Lösung. Normen: §§ 42 ff. MarkenG (Widerspruch), § 49 MarkenG (Verfall wegen Nichtbenutzung), § 50 MarkenG (Nichtigkeit), § 66 MarkenG (BPatG-Beschwerde). Prüfraster: Wider..."
+description: "Wenn es um DPMA-Widerspruch und Löschungsverfahren in markenrecht-fashion-luxus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # DPMA-Widerspruch und Löschungsverfahren

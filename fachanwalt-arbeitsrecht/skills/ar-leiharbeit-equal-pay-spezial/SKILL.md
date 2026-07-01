@@ -1,6 +1,6 @@
 ---
 name: ar-leiharbeit-equal-pay-spezial
-description: "Leiharbeit: Equal-Pay-Anspruch Paragraf 8 AÜG, Überlassungshöchstdauer 18 Monate Paragraf 1 Absatz 1b AÜG, Verbot verdeckter Arbeitnehmerüberlassung, Arbeitsverhältnis kraft Gesetzes Paragraf 10 AÜ..."
+description: "Wenn es um Ar Leiharbeit Equal Pay Spezial in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leiharbeit: Equal-Pay-Anspruch Paragraf 8 AÜG, Überlassungshöchstdauer 18 Monate Paragraf 1 Abs

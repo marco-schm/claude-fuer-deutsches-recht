@@ -1,6 +1,6 @@
 ---
 name: lebensmittelrecht-akteneinsicht-schrei
-description: "Lebensmittelrecht: Akteneinsicht schreiben im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Lebensmittelrecht Akteneinsicht Schrei in Ordnungswidrigkeitenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Lebensmittelrecht Akteneinsicht Schrei

@@ -1,6 +1,6 @@
 ---
 name: zahnersatz-heil-und-kostenplan-bonusheft-festzuschuss
-description: "Zahnersatzversorgung in der GKV: Heil- und Kostenplan, Regelversorgung, Festzuschuss, Bonusheft-Regelungen und Mehrkosten bei Privatleistungen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Zahnersatz: Heil- und Kostenplan, Bonusheft, Festzuschuss in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zahnersatz: Heil- und Kostenplan, Bonusheft, Festzuschuss

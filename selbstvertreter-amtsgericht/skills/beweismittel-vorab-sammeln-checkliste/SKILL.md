@@ -1,6 +1,6 @@
 ---
 name: beweismittel-vorab-sammeln-checkliste
-description: "Checkliste für die Sammlung von Beweismitteln vor Klage. Vertrag E-Mail Rechnung Zahlung Lieferschein Foto Zeugen Chronologie. Wie Sie systematisch das Beweismaterial ordnen bevor Sie zur Klage greifen und was bei jedem Beweismittel zu beachten ist."
+description: "Wenn es um Sammeln Sie Beweise — bevor Sie klagen in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sammeln Sie Beweise — bevor Sie klagen

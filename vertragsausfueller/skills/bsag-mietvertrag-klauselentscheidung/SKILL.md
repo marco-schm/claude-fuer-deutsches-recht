@@ -1,6 +1,6 @@
 ---
 name: bsag-mietvertrag-klauselentscheidung
-description: "BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede liegt vor und muss in Mietvertragsvorlage übertragen werden. §§ 535 ff. BGB Mietvertrag, § 9 UStG Umsatzsteueroption, § 550 BGB Schriftformerfordernis. Prüfraster BSAG-Handelsregisterprüfung, Term Sheet vollständig Fläch..."
+description: "Wenn es um BSAG-Mietvertrag in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BSAG-Mietvertrag

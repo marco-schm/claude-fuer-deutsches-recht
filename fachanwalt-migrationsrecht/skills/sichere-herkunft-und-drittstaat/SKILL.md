@@ -1,6 +1,6 @@
 ---
 name: sichere-herkunft-und-drittstaat
-description: "Sichere Herkunft/Drittstaat: Fachmodul im Migrationsrecht: prüft EU/nationalen Listenstatus, Widerlegung, individuelle Risiken; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Sichere Herkunft/Drittstaat: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sichere Herkunft/Drittstaat: Fachmodul im Migrationsrecht

@@ -1,6 +1,6 @@
 ---
 name: design-und-markenrecht-formmarke
-description: "Designrecht und Markenrecht bei Form, Position, Muster und Produktauftritt abgrenzen: kurzfristiger Designschutz, dauerhafte Marke, Verkehrsdurchsetzung und Schutzhindernisse im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Design Und Markenrecht Formmarke in designrecht-geschmacksmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Design Und Markenrecht Formmarke

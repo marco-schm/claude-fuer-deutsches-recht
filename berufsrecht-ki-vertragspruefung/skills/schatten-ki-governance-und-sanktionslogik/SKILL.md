@@ -1,6 +1,6 @@
 ---
 name: schatten-ki-governance-und-sanktionslogik
-description: "Schatten-KI-Governance für Kanzleien: private Tools, Teamdisziplin, Freigabelisten, Verbote, Schulung nach Art. 4 KI-VO, Incident Response, arbeitsrechtliche Sanktionen und berufsrechtliche Organisationspflicht verbinden."
+description: "Wenn es um Schatten-digitale Werkzeuge-Governance und Sanktionslogik in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Schatten-KI-Governance und Sanktionslogik

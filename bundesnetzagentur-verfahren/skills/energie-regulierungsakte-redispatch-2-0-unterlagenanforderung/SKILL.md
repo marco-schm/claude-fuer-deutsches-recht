@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-redispatch-2-0-unterlagenanforderung
-description: "Redispatch 2.0: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: Redispatch 2.0 — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Redispatch 2.0 — Unterlagenanforderung

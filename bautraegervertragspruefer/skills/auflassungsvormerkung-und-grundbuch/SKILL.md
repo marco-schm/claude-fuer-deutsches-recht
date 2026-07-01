@@ -1,6 +1,6 @@
 ---
 name: auflassungsvormerkung-und-grundbuch
-description: "Prueft Auflassungsvormerkung und Freistellung als dingliche Sicherung des Erwerbers gegen Mehrfachverkauf und Bautraeger-Insolvenz. Rang, Freistellungsmechanik, Loeschungsvollmachten und Notaranderkonto nach BGH VII ZB 28/20 werden separat bewertet."
+description: "Wenn es um Auflassungsvormerkung und Grundbuch in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auflassungsvormerkung und Grundbuch

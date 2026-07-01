@@ -1,6 +1,6 @@
 ---
 name: satzungsaenderung-partei-satzungsautonomie
-description: "Prüft Satzungsänderung, Mehrheit, Antragsfrist, Bekanntmachung, Protokoll, Anzeige und Folgeänderungen im Parteienrecht."
+description: "Wenn es um Satzungsänderung Partei in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Satzungsaenderung Partei Satzungsautonomie; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Satzungsänderung Partei

@@ -1,6 +1,6 @@
 ---
 name: bk-cum-ex-mandant-strafrecht-spezial
-description: "Spezialfall Cum-Ex und Cum-Cum Mandate: Steuerstrafrecht § 370 AO, Verjährung, Selbstanzeige, Anrechnung KapErtSt: Verhältnis zu Schadensersa..."
+description: "Wenn es um Bk Cum Ex Mandant Strafrecht Spezial in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Cum-Ex und Cum-Cum Mandate: Steuerstrafrecht § 370 AO, Verjährung, Selbstanzeige, Anrechnung KapErtSt

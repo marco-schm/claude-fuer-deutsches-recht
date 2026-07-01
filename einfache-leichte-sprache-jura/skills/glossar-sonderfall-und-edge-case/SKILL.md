@@ -1,6 +1,6 @@
 ---
 name: glossar-sonderfall-und-edge-case
-description: "Glossar: Sonderfall und Edge-Case-Prüfung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Glossar: Sonderfall und Edge-Case-Prüfung in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Glossar Sonderfall Und Edge Case; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
 ---
 
 # Glossar: Sonderfall und Edge-Case-Prüfung

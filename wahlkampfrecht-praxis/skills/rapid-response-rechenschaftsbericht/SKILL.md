@@ -1,6 +1,6 @@
 ---
 name: rapid-response-rechenschaftsbericht
-description: "Wahlkampfrecht Praxis: akute Wahlkampfkrisen in Social Media, Presse und vor Ort in einen handlungsfähigen Rapid-Response-Prozess übersetzen im Wahlkampfrecht."
+description: "Wenn es um Rapid Response Room in Wahlkampfrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rapid Response Room

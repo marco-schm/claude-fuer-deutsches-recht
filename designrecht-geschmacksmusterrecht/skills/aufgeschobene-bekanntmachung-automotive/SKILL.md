@@ -1,6 +1,6 @@
 ---
 name: aufgeschobene-bekanntmachung-automotive
-description: "Aufgeschobene Bekanntmachung strategisch prüfen: Geheimhaltung, Launch-Timing, 30-Monats-Fenster, Nachholung, Gebühren und Verletzungsrisiko bei noch nicht veröffentlichter Wiedergabe im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Aufgeschobene Bekanntmachung in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Aufgeschobene Bekanntmachung

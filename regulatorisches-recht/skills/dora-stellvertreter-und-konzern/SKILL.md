@@ -1,6 +1,6 @@
 ---
 name: dora-stellvertreter-und-konzern
-description: "DORA-Spezial: Stellvertreter, Konzernregelungen, Outsourcing zum gruppeneigenen IT-Dienstleister, kritische TPP-Registrierung bei ESAs. Prüfraster und Klauseln in Konzern-IT-Vertraegen. Schnittstelle zu Aufsichtsrecht der Toechter im Ausland im Regulatorisches Recht."
+description: "Wenn es um DORA: Konzern und Stellvertreter in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DORA: Konzern und Stellvertreter

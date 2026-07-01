@@ -1,6 +1,6 @@
 ---
 name: konto-sperre-und-sozialleistungen
-description: "Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern: Normanker: ZPO §§ 850k ff.; SGB I, II, XII..."
+description: "Wenn es um Konto Sperre Und Sozialleistungen in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern.

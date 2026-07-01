@@ -1,6 +1,6 @@
 ---
 name: lizenz-patent-patg
-description: "Patentlizenzen nach PatG und EPUe: $$ 9 und 15 PatG Lizenz; Erfinderbenennung $ 63 PatG; ArbnErfG Arbeitnehmererfindergesetz; Zwangslizenz $ 24 PatG; Patent-Pool und FRAND-Lizenz; TT-GVO als Kartellfreistellung."
+description: "Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Lizenz Patent (PatG)

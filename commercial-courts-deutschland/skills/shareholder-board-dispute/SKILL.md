@@ -1,6 +1,6 @@
 ---
 name: shareholder-board-dispute
-description: "Bearbeitet Gesellschafter-, Organ- und Joint-Venture-Streitigkeiten mit englischen Vertragsunterlagen vor deutschen Commercial Courts im Commercial Courts Deutschland."
+description: "Wenn es um Shareholder and Board Disputes in commercial-courts-deutschland geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Shareholder and Board Disputes

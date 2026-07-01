@@ -1,6 +1,6 @@
 ---
 name: aeuv-behoerden-gericht-und-registerweg
-description: "Aeuv: Behörden-, Gerichts- oder Registerweg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Aeuv: Behörden-, Gerichts- oder Registerweg in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aeuv: Behörden-, Gerichts- oder Registerweg

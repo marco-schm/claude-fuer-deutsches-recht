@@ -1,6 +1,6 @@
 ---
 name: auslandsvertreter-correspondent
-description: "Patentanwälte: auslandsvertreter und correspondent risk - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Auslandsvertreter Correspondent in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Patentanwälte: auslandsvertreter und correspondent risk - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

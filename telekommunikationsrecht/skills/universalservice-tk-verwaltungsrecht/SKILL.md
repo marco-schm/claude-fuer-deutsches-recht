@@ -1,6 +1,6 @@
 ---
 name: universalservice-tk-verwaltungsrecht
-description: "Universaldienst/Mindestversorgung mit Telekommunikationsdiensten: Unterversorgung, Anspruch, BNetzA-Verfahren, technische Zumutbarkeit und Alternativen im Telekommunikationsrecht."
+description: "Wenn es um Universaldienst und Mindestversorgung in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Universaldienst und Mindestversorgung

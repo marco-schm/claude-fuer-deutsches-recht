@@ -1,6 +1,6 @@
 ---
 name: aeusserungsrecht-tatbestand-beweis-und-belege
-description: "Aeusserungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Meinungspruefer."
+description: "Wenn es um Aeusserungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Meinungsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Aeusserungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

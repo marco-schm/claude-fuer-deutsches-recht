@@ -1,6 +1,6 @@
 ---
 name: rechtsperversion-ohne-gesetzesaenderung
-description: "Zeigt, wie fortgeltende Gesetze durch Auslegung, neue Rechtsquellenlehren, Verwaltungspraxis und Richterrecht in autoritären Systemen inhaltlich umcodiert werden können im Deutsche Rechtsgeschichte."
+description: "Wenn es um Rechtsperversion ohne Gesetzesänderung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Rechtsperversion Ohne Gesetzesaenderung; Arbeitsfeld: Deutsche Rechtsgeschichte."
 ---
 
 # Rechtsperversion ohne Gesetzesänderung

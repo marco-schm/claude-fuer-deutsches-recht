@@ -1,6 +1,6 @@
 ---
 name: gmbh-und-co-kg-hgb
-description: "Prüft HGB-Struktur der GmbH & Co. KG: Firma, Vertretung, Haftung, Register und Publizität im Handelsrecht Hgb."
+description: "Wenn es um GmbH & Co. KG HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GmbH & Co. KG HGB

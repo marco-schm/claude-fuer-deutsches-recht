@@ -1,6 +1,6 @@
 ---
 name: tabellenimport-175
-description: "Tabelleneintrag und Tabellenimport nach § 175 InsO: Anwendungsfall Forderungen sind geprüft und muessen in gerichtliche Tabelle überführt werden oder CSV-Import in Verwaltungssoftware vorbereitet werden. § 175 InsO Tabelle, § 176 InsO Prüfungstermin, Inso-Table-Standard. Prüfraster Gläubiger Ansp..."
+description: "Wenn es um Tabellenimport nach Paragraf 175 InsO in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tabellenimport nach § 175 InsO

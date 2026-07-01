@@ -1,6 +1,6 @@
 ---
 name: familiengesellschaft-conflict-check-kaltstart
-description: "Steuerberater: familiengesellschaft conflict check - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Familiengesellschaft Conflict Check Kaltstart in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: familiengesellschaft conflict check - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

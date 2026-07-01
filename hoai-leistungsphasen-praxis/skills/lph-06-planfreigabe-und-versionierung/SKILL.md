@@ -1,6 +1,6 @@
 ---
 name: lph-06-planfreigabe-und-versionierung
-description: "HOAI LPH 6 Vorbereitung der Vergabe: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 6 Vorbereitung der Vergabe: Prüft planindex in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Prüft planindex

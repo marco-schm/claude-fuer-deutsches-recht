@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Workflow fuer Insiderrecht, Ad-hoc, Insiderliste, Handelsverbote und BaFin-Kommunikation."
+description: "Wenn es um Kaltstart Insiderrecht in Insiderrecht Compliance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Insiderrecht

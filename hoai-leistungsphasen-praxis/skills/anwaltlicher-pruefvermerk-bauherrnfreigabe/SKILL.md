@@ -1,6 +1,6 @@
 ---
 name: anwaltlicher-pruefvermerk-bauherrnfreigabe
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Anwaltlicher Pruefvermerk Bauherrnfreigabe in HOAI Leistungsphasen Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Erstellt anwaltliches kurzmemorandum zum lph-stand

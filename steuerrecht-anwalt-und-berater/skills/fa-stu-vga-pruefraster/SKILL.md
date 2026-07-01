@@ -1,6 +1,6 @@
 ---
 name: fa-stu-vga-pruefraster
-description: "Pruefraster zur verdeckten Gewinnausschuettung — Vermoegensminderung oder verhinderte Vermoegensmehrung Veranlassung im Gesellschaftsverhaeltnis Auswirkung auf Einkommen Behandlung beim Gesellschafter. Anwendungsfall Aussenpruefung erkennt Geschaeftsfuehrervergueterung Verrechnungspreise oder Gesellschafterdarlehen als verdeckte Ausschuettung und fordert Hinzurechnung. Behandelt klassische Fallgruppen Geschaeftsfuehrer-Gehaltsexzess Beherrschende-Gesellschafter Klarheits- und Rueckwirkungsverbot sowie Folgen Kapitalertragsteuer Anrechnung. Output Argumentationsraster mit Kompensationspruefung. Abgrenzung zu fa-stu-kst-organschaft-14-kstg."
+description: "Wenn es um Verdeckte Gewinnausschuettung — Paragraf 8 Abs. 3 S. 2 KStG Pruefraster in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verdeckte Gewinnausschuettung — § 8 Abs. 3 S. 2 KStG Pruefraster

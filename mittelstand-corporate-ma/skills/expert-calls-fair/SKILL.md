@@ -1,6 +1,6 @@
 ---
 name: expert-calls-fair
-description: "DD Reporting und Legal Fact Book: Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book, Executive Summary und Issues-to-SPA-Mapping im Mittelstand Corporate Ma."
+description: "Wenn es um DD Reporting und Legal Fact Book in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # DD Reporting und Legal Fact Book

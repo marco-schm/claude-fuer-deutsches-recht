@@ -1,6 +1,6 @@
 ---
 name: workflow-datenschutz-hausverwaltung
-description: "Datenschutz Hausverwaltung: Prüfungslinie für Miet- und WEG-Recht: prüft Datenweitergabe, Klingelschilder, Kameras, Umläufe und Auskunft; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-..."
+description: "Wenn es um Datenschutz Hausverwaltung: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Datenschutz Hausverwaltung: Prüfungslinie für Miet- und WEG-Recht

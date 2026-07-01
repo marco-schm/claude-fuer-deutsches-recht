@@ -1,6 +1,6 @@
 ---
 name: livecheck-red-risikoanalyse
-description: "Livecheck: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Livecheck: Red-Team und Qualitätskontrolle in Geldwäscheprävention, AML und KYC geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Livecheck: Red-Team und Qualitätskontrolle

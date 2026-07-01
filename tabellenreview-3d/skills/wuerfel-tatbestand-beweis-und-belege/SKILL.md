@@ -1,6 +1,6 @@
 ---
 name: wuerfel-tatbestand-beweis-und-belege
-description: "Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage in Tabellenreview 3D geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage

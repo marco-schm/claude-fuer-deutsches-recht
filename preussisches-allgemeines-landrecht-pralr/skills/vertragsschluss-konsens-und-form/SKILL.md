@@ -1,6 +1,6 @@
 ---
 name: vertragsschluss-konsens-und-form
-description: "Vertragsschluss im ALR — Konsens und Form. Skill behandelt das Konsensmodell des ALR Formerfordernisse (mancipatio analog stipulatio analog Schriftform) und die Fortwirkung in BGB §§ 145 ff. Liefert Prüfraster."
+description: "Wenn es um Pralr Vertragsschluss Konsens Und Form in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Vertragsschluss Konsens Und Form

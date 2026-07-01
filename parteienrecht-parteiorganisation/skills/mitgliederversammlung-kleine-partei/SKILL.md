@@ -1,6 +1,6 @@
 ---
 name: mitgliederversammlung-kleine-partei
-description: "Kleine Partei Praxis im Parteienrecht: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt? 4. In welcher Sprache und D..."
+description: "Wenn es um Kleine Partei Praxis in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kleine Partei Praxis

@@ -1,6 +1,6 @@
 ---
 name: aufopferung-fortwirkung-bgb
-description: "Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polizei- und Ordnungsrecht. Skill behandelt die heute lebende ungeschriebene Anspruchsgrundlage die spezialgesetzlichen Sondervorschriften (POG IfSG OEG StVG) und die Subsidiaritaet. Liefert Prüfraster."
+description: "Wenn es um Pralr Aufopferung Fortwirkung Bgb Und Polizei in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aufopferung Fortwirkung BGB; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Pralr Aufopferung Fortwirkung Bgb Und Polizei

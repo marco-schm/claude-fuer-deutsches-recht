@@ -1,6 +1,6 @@
 ---
 name: spezial-mietminderung-bemessung
-description: "Mietminderung Bemessung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; warnt vor Tabellenblindflug und verlangt konkrete Gebrauchsbeeinträchtigung mit Belegen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Mietminderung Bemessung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietminderung Bemessung

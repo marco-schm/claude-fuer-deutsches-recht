@@ -1,6 +1,6 @@
 ---
 name: bereicherungsrecht-goa-deliktsrecht
-description: "Römisches Recht: Bereicherungsrecht im Vergleich - röm. condictiones (D. 12, condictio indebiti, ob causam, sine causa) vs. BGB §§ 812-822 und Einheitslehre vs. Trennungslehre im Römisches Recht."
+description: "Wenn es um Bereicherungsrecht im Vergleich in Römisches Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Bereicherungsrecht im Vergleich

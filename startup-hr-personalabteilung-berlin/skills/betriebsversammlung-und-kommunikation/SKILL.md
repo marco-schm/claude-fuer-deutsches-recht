@@ -1,6 +1,6 @@
 ---
 name: betriebsversammlung-und-kommunikation
-description: "Berliner Start-up-HR: Betriebsversammlung und Kommunikation: HR-Rolle, Fragen, Konflikte, Protokollnotiz und keine Behinderung der Betriebsratsarbeit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR..."
+description: "Wenn es um Betriebsversammlung Und Kommunikation in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsversammlung Und Kommunikation

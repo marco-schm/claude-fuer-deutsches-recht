@@ -1,6 +1,6 @@
 ---
 name: stand-technik-startup-schnellschutz
-description: "Stand-der-Technik-Belegpaket bauen: Dokumente, öffentliche Benutzung, Internetarchiv, Produktkatalog, Messe, Zeugen und Datumsnachweise im Gebrauchsmusterrecht."
+description: "Wenn es um Stand Der Technik Belegpaket in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Stand Der Technik Belegpaket

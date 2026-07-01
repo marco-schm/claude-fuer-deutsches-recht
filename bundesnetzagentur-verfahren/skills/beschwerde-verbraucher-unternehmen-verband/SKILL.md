@@ -1,6 +1,6 @@
 ---
 name: beschwerde-verbraucher-unternehmen-verband
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbraucher Unternehmen Verband im BNetzA-Verfahren."
+description: "Wenn es um Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband

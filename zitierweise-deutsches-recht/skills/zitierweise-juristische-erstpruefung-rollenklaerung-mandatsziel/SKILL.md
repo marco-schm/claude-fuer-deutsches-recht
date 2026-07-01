@@ -1,6 +1,6 @@
 ---
 name: zitierweise-juristische-erstpruefung-rollenklaerung-mandatsziel
-description: "Juristische: Erstprüfung, Rollenklärung und Mandatsziel im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe is..."
+description: "Wenn es um Juristische: Erstprüfung, Rollenklärung und Mandatsziel in Zitierweise deutsches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitierweise Juristische Erstpruefung Rollenklaerung Mandatsziel; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Juristische: Erstprüfung, Rollenklärung und Mandatsziel

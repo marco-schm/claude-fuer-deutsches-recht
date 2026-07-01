@@ -1,6 +1,6 @@
 ---
 name: planerhaltung-internationaler-bezug-und-schnittstellen
-description: "Planerhaltung: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Planerhaltung: Internationaler Bezug und Schnittstellen in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Planerhaltung Internationaler Bezug Und Schnittstellen; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Planerhaltung: Internationaler Bezug und Schnittstellen

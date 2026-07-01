@@ -1,6 +1,6 @@
 ---
 name: spezial-klaeren-compliance-dokumentation-und-akte
-description: "Klaeren: Compliance-Dokumentation und Aktenvermerk im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Klaeren: Compliance-Dokumentation und Aktenvermerk in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klaeren: Compliance-Dokumentation und Aktenvermerk

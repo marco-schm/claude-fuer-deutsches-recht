@@ -1,6 +1,6 @@
 ---
 name: refinanzierung-forderungsabtretung-und-servicing
-description: "Leasingrefinanzierung: Forderungsabtretung, ABS-Strukturen, True Sale, Servicing, stille Abtretung und Schuldnerschutz nach § 407 BGB im Leasingrecht."
+description: "Wenn es um Refinanzierung: Forderungsabtretung und Servicing in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Refinanzierung: Forderungsabtretung und Servicing

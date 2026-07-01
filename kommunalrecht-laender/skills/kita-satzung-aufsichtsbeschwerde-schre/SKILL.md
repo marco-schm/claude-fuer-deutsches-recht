@@ -1,6 +1,6 @@
 ---
 name: kita-satzung-aufsichtsbeschwerde-schre
-description: "der Länder: Kita-Satzung: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kita Satzung Aufsichtsbeschwerde Schre in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kita Satzung Aufsichtsbeschwerde Schre

@@ -1,6 +1,6 @@
 ---
 name: vertiefung-01-board-memo
-description: "Internationales Handelsrecht: Board-Memo zu einem internationalen Handelsstreit oder Vertragsrisiko. Führungskräfte-taugliche Kurzdarstellung, Entscheidungsoptionen, Kostenrisikoabwägung, Settlement-Empfehlung und rechtliche Unsicherheiten transparent gemacht im Internationales Handelsrecht Lex M..."
+description: "Wenn es um Board-Memo: Internationaler Handelsstreit in Internationales Handelsrecht und Lex Mercatoria geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Board-Memo: Internationaler Handelsstreit

@@ -1,6 +1,6 @@
 ---
 name: kelsen-normstufen-kompetenz-bgb-methode
-description: "Diszipliniert zivilrechtliche Argumentation durch Quellenklarheit, Normhierarchie, Kompetenz und Trennung von Geltung und Bewertung."
+description: "Wenn es um Kelsen in der Methodenlehre: Normstufen, Kompetenz und BGB-Falllösung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kelsen in der Methodenlehre: Normstufen, Kompetenz und BGB-Falllösung

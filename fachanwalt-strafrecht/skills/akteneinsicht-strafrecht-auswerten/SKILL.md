@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-strafrecht-auswerten
-description: "Strukturierte Auswertung der Strafakte nach Akteneinsicht § 147 StPO: Erstellt Beweismittelverzeichnis (Urkunden Augenscheinsobjekte Zeugen Sachverständige) Personenregister Chronologie A..."
+description: "Wenn es um Strukturierte Auswertung der Strafakte nach Akteneinsicht Paragraf 147 StPO in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Strukturierte Auswertung der Strafakte nach Akteneinsicht § 147 StPO

@@ -1,6 +1,6 @@
 ---
 name: markennutzung-ci-und-qualitaetskontrolle
-description: "Markennutzung im Franchisesystem prüfen: Lizenzierung nach MarkenG, Corporate-Identity-Pflichten, Qualitätskontrollrechte des Franchisegebers, Konsequenzen bei CI-Verstössen und Erschöpfungsgrundsatz. Kennzeichenschutz für Systemname und Logo im Franchiserecht."
+description: "Wenn es um Franchiserecht: Markennutzung, Corporate Identity und Qualitätskontrolle in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Franchiserecht: Markennutzung, Corporate Identity und Qualitätskontrolle

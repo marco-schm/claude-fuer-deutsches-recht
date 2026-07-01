@@ -1,6 +1,6 @@
 ---
 name: gewohnheitsrecht-und-observanz
-description: "Deutsche Rechtsgeschichte: Gewohnheitsrecht und Observanz. Consuetudo im gemeinen Recht, Puchtas Gewohnheitsrechtslehre, Handelsbräuche im HGB und Gewohnheitsrecht im modernen deutschen Recht im Deutsche Rechtsgeschichte."
+description: "Wenn es um Gewohnheitsrecht und Observanz in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewohnheitsrecht und Observanz

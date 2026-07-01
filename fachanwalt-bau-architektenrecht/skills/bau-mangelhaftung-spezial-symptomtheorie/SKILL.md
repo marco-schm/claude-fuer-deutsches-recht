@@ -1,6 +1,6 @@
 ---
 name: bau-mangelhaftung-spezial-symptomtheorie
-description: "Spezialfall Symptomtheorie BGH zur Mangelruege: Beschreibung Symptom statt Ursache reicht, Bauherr muss nicht Ursache benennen: K..."
+description: "Wenn es um Bau Mangelhaftung Spezial Symptomtheorie in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Symptomtheorie BGH zur Mangelruege: Beschreibung Symptom statt Ursache reicht, Bauherr muss nicht Ursache benennen

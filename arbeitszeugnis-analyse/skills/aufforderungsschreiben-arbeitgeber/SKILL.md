@@ -1,6 +1,6 @@
 ---
 name: aufforderungsschreiben-arbeitgeber
-description: "Außergerichtliches Berichtigungsverlangen an den Arbeitgeber. Aufbau mit Mandatsanzeige, konkreter Beanstandung pro Streitstelle (Wortlaut alt, Wortlaut neu, Begründung mit BAG-Rechtsprechung und Geheimcode-Hinweis), Fristsetzung, Klageandrohung und Kostenfolge. Hoeflich-bestimmter Ton, juristisch sauber, ohne Drohgebaerden. Vorlage und Bausteine."
+description: "Wenn es um Aufforderungsschreiben an den Arbeitgeber in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufforderungsschreiben an den Arbeitgeber

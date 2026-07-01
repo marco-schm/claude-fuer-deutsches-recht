@@ -1,6 +1,6 @@
 ---
 name: vergleich-abfindung-entschaedigungsquittung
-description: "Vergleich mit Versicherern: Abfindungserklärung, Erledigungsklausel, Nachschäden, Regress, Steuer, Kosten und Widerruf/Anfechtung im Versicherungsrecht."
+description: "Wenn es um Vergleich, Abfindung und Entschädigungsquittung in Versicherungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich, Abfindung und Entschädigungsquittung

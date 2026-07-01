@@ -1,6 +1,6 @@
 ---
 name: abuse-of-economic-dependence
-description: "Relative Marktmacht und Economic Dependence: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Abhängigkeit, Datenzugang, Plattformen, Lieferstopps und Konditionenmissbrauch prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Ma..."
+description: "Wenn es um Relative Marktmacht und Economic Dependence in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Relative Marktmacht und Economic Dependence

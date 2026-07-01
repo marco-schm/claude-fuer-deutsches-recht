@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-livecheck-formfragen
-description: "Livecheck verifizierter Rechtsprechung zu Schriftform, qES und beA: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Schriftform Und Textform Bgb."
+description: "Wenn es um Livecheck verifizierter Rechtsprechung zu Schriftform, qES und beA in Schriftform und Textform im BGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Livecheck verifizierter Rechtsprechung zu Schriftform, qES und beA

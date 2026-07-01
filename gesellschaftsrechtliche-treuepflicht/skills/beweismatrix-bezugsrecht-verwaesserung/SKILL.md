@@ -1,6 +1,6 @@
 ---
 name: beweismatrix-bezugsrecht-verwaesserung
-description: "Gesellschaftsrechtliche Treuepflicht: Beweis Und Dokumentation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Beweis Und Dokumentation in Gesellschaftsrechtliche Treuepflicht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweis Und Dokumentation

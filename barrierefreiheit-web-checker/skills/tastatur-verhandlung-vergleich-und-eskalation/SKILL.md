@@ -1,6 +1,6 @@
 ---
 name: tastatur-verhandlung-vergleich-und-eskalation
-description: "Tastatur: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Tastatur: Verhandlung, Vergleich und Eskalation in Barrierefreiheit Web Checker geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Tastatur: Verhandlung, Vergleich und Eskalation

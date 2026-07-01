@@ -1,6 +1,6 @@
 ---
 name: 07-buergergeld-und-sgb-ii
-description: "Buergergeld SGB II: Anspruchsberechtigung Paragraf 7 SGB II, Bedarfsgemeinschaft, Regelbedarf Paragraf 20, Kosten der Unterkunft Paragraf 22, Sanktionen Paragraf 31 ff. (jetzt Leistungsminderungen)"
+description: "Wenn es um 07 Bürgergeld und Sgb Ii in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # 07 Bürgergeld und Sgb Ii

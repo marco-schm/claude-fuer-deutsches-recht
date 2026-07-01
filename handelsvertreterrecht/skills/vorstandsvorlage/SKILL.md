@@ -1,6 +1,6 @@
 ---
 name: vorstandsvorlage
-description: "Erstellt entscheidungsreife Vorstandsvorlagen zu Handelsvertreter-Themen: Abschluss oder Kündigung von Handelsvertreterverträgen, Ausgleichszahlungen nach § 89b HGB, Wettbewerbsverbote nach § 90a HGB sowie Due-Diligence-Ergebnisse bei M&A mit Handelsvertreter-Netzwerken im Handelsvertreterrecht."
+description: "Wenn es um Vorstandsvorlage zu Handelsvertreter-Themen nach HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vorstandsvorlage zu Handelsvertreter-Themen nach HGB

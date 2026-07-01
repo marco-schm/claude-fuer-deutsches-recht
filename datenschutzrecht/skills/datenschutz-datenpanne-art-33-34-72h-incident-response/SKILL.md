@@ -1,6 +1,6 @@
 ---
 name: datenschutz-datenpanne-art-33-34-72h-incident-response
-description: "Datenpannen-Incident-Response Art: 33 und 34 DSGVO. 72-Stunden-Frist ab Kenntnis Art. 33 I DSGVO und Benachrichtigung Betroffener bei hohem Risiko Art. 34 I DSGVO. Sieben-Fragen-Diagnose: Wer hat wann was entdeckt Datenkat..."
+description: "Wenn es um Datenpannen-Incident-Response Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenpannen-Incident-Response Art

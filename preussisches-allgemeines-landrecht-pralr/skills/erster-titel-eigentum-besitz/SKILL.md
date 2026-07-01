@@ -1,6 +1,6 @@
 ---
 name: erster-titel-eigentum-besitz
-description: "PrALR: Erster Teil Titel 2 Sachen und Rechte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Pralr Erster Teil Titel 2 Sachen Und Rechte in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Erster Teil Titel 2 Sachen Und Rechte

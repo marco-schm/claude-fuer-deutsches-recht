@@ -1,6 +1,6 @@
 ---
 name: bk-einfuehrung-aufsichtsstruktur
-description: "Aufsichtsstruktur einfuehrend: EZB-SSM, BaFin, Bundesbank, ESMA: KWG, ZAG, WpIG, WpHG, KAGB, MAR. Welche Behörde ist wofür zuständig, wie kommunizieren wir. Tabellarische Uebersicht und Beispi..."
+description: "Wenn es um Aufsichtsstruktur einfuehrend: EZB-SSM, BaFin, Bundesbank, ESMA in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufsichtsstruktur einfuehrend: EZB-SSM, BaFin, Bundesbank, ESMA

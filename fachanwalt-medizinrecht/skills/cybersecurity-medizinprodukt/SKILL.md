@@ -1,6 +1,6 @@
 ---
 name: cybersecurity-medizinprodukt
-description: "Cybersecurity Medizinprodukt: moderner Medizinrechts-Skill für Vernetztes Medizinprodukt, Patch, Ransomware, Manipulation, Patientenschaden und Meldeketten: Cybersecurity Medizinprodukt: moderner Medizinrechts-Skill für Vernetztes Medizinprodukt, Patch, Ran..."
+description: "Wenn es um Cybersecurity Medizinprodukt in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cybersecurity Medizinprodukt: moderner Medizinrechts-Skill für Vernetztes Medizinprodukt, Patch, Ransomware, Manipulation, Patientenschaden und Meldeketten

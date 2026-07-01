@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Verwaltungsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Verwaltungsakt, Widerspruchsbescheid, Klageschrift), nennt pro Lücke Beweisthema, Beschaffungsweg (VG, OVG/VGH, BVerwG), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

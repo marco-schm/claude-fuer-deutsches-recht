@@ -1,6 +1,6 @@
 ---
 name: sbom-und-cyber-dokumentation
-description: "Prüft SBOM, Dependency-Management, CVE-Tracking, Sicherheitsanforderungen und Nachweise für Robotiksoftware."
+description: "Wenn es um SBOM und Cyber-Dokumentation in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # SBOM und Cyber-Dokumentation

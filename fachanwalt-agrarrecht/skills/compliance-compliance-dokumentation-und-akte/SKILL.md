@@ -1,6 +1,6 @@
 ---
 name: compliance-compliance-dokumentation-und-akte
-description: "Compliance: Compliance-Dokumentation und Aktenvermerk: Compliance: Compliance-Dokumentation und Aktenvermerk."
+description: "Wenn es um Compliance: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Agrarrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Compliance: Compliance-Dokumentation und Aktenvermerk

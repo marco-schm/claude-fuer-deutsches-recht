@@ -1,6 +1,6 @@
 ---
 name: polizei-filmen-von-einsaetzen-kug-201-stgb
-description: "Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen: trennt Anfertigung, Veröffentlichung, KUG/KunstUrhG, § 201 StGB, § 201a StGB, Versammlungsfre..."
+description: "Wenn es um Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen

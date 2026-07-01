@@ -1,6 +1,6 @@
 ---
 name: bea-notfall-bgb-675v-erstkontakt-mandant
-description: "Phishing gegen Anwalts-beA: Sofort Karte sperren, BRAK informieren, Mandanten informieren, Datenschutzverstoss prüfen Art. 33 DSGVO (72h-Frist). Berufshaftpflicht informieren § 31 VVG. Output: Notfall-Ablaufplan im Phishing Vorfall Prüfer."
+description: "Wenn es um beA-Notfall bei Anwalts-PC in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # beA-Notfall bei Anwalts-PC

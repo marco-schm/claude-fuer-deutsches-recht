@@ -1,6 +1,6 @@
 ---
 name: 05-eilrechtsschutz-paragraf-80-abs-5
-description: "Eilrechtsschutz Paragraf 80 Abs. 5 VwGO: Anordnung oder Wiederherstellung der aufschiebenden Wirkung, Folgenabwaegung, Erfolgsaussichten der Hauptsache, öffentliches Interesse"
+description: "Wenn es um 05 Eilrechtsschutz Paragraf 80 Abs 5 in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 05 Eilrechtsschutz Paragraf 80 Abs 5

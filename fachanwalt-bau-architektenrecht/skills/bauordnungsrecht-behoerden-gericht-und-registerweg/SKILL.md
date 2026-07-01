@@ -1,6 +1,6 @@
 ---
 name: bauordnungsrecht-behoerden-gericht-und-registerweg
-description: "Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg: Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg."
+description: "Wenn es um Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg

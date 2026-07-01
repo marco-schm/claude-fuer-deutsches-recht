@@ -1,6 +1,6 @@
 ---
 name: nachwahl-evaluation-negative
-description: "Wahlkampfrecht Praxis: Nachwahl-Evaluation ohne Selbstbetrug erstellen im Wahlkampfrecht."
+description: "Wenn es um Nachwahl Evaluation in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachwahl Evaluation

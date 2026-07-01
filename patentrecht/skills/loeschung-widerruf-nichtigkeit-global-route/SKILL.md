@@ -1,6 +1,6 @@
 ---
 name: loeschung-widerruf-nichtigkeit-global-route
-description: "Koordiniert Rechtsbestandsangriffe international: EPA-Einspruch, UPC-Revocation, deutsche Nichtigkeit, UK revocation, US PTAB, Kanada, Japan, Schweiz, Türkei und Israel im Patentrecht."
+description: "Wenn es um Löschung, Widerruf, Nichtigkeit: globale Route in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Löschung, Widerruf, Nichtigkeit: globale Route

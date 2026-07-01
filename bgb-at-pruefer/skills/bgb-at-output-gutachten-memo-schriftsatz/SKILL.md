@@ -1,6 +1,6 @@
 ---
 name: bgb-at-output-gutachten-memo-schriftsatz
-description: "Erstellt aus BGB-AT-Prüfungen wahlweise Gutachten, Klausurlösung, Mandatsmemo, Schriftsatzbaustein, Fristenvermerk, Anspruchsmatrix oder Rückfragenbrief."
+description: "Wenn es um Bgb At Output Gutachten Memo Schriftsatz in BGB AT Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bgb At Output Gutachten Memo Schriftsatz

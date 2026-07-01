@@ -1,6 +1,6 @@
 ---
 name: befangenheit-und-sitzungsleitung
-description: "Hilft bei Leitung, Interessenkonflikten, Ordnungsmaßnahmen, Redeliste und Abstimmungsleitung."
+description: "Wenn es um Befangenheit und Sitzungsleitung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Befangenheit und Sitzungsleitung

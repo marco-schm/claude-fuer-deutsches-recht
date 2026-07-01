@@ -1,6 +1,6 @@
 ---
 name: soldatenversorgungsgesetz-beschaedigtenversorgung
-description: "Soldatenversorgungsgesetz Beschädigtenversorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bun..."
+description: "Wenn es um Soldatenversorgungsgesetz – Beschädigtenversorgung in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Soldatenversorgungsgesetz – Beschädigtenversorgung

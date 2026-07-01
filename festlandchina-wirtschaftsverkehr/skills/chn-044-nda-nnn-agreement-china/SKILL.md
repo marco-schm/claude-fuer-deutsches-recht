@@ -1,6 +1,6 @@
 ---
 name: chn-044-nda-nnn-agreement-china
-description: "Festlandchina Wirtschaftsverkehr: Nda Nnn Agreement China. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Nda Nnn Agreement China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nda Nnn Agreement China

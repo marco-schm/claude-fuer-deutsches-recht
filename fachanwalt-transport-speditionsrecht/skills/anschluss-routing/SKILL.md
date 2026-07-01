@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Fachanwalt Transport- und Speditionsrecht: wählt den nächsten Spezial-Skill nach Engpass (CMR Klage 1 Jahr / 3 Jahre Vorsatz, Frachtbrief, CMR-Frachtbrief, Schadensanzeige), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Fachanwalt Transport Speditionsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anschluss-Routing

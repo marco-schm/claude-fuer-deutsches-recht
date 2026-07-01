@@ -1,6 +1,6 @@
 ---
 name: fashion-week-event
-description: "Fashion Week, Runway und Eventrecht prüfen: Location, Musik, Models, Sponsoren, Presse, Gästeliste, Sicherheit, Streaming und Bildrechte im Fashion Law Moderecht."
+description: "Wenn es um Fashion Week Event in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Fashion Week Event

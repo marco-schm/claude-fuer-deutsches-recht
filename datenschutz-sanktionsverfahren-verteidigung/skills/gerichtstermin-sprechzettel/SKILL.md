@@ -1,6 +1,6 @@
 ---
 name: gerichtstermin-sprechzettel
-description: "Gerichtstermin-Sprechzettel: Hauptverhandlung oder Erörterungstermin mit Rollen, Beweisthemen, Anträgen und Sprechzetteln vorbereiten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen."
+description: "Wenn es um Gerichtstermin-Sprechzettel in Datenschutz-Sanktionsverfahren und Verteidigung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Gerichtstermin-Sprechzettel

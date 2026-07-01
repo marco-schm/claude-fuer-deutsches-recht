@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-kommunikation-konkurrierende
-description: "Formuliert sachliche Anfragen, Nachreichungen, Fristbitten und Beschwerdeankündigungen ohne Vollzug zu gefährden im Grundbuchamt Praxis."
+description: "Wenn es um Schreiben an das Grundbuchamt in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schreiben an das Grundbuchamt

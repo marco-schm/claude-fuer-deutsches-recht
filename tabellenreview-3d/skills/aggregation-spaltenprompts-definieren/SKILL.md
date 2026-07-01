@@ -1,6 +1,6 @@
 ---
 name: aggregation-spaltenprompts-definieren
-description: "Risikoampeln für alle geprüften Positionen aggregieren: rot/gelb/gruen je Dimension. Normen: §§ 174 ff. InsO. Prüfraster: Ampellogik, Schwellenwerte, Gesamtrisikoeinschaetzung. Output: Risikoampel-Aggregationsbericht. Abgrenzung: nicht Kreuzblatt-Konsistenzprüfung im Tabellenreview 3d."
+description: "Wenn es um /tabellenreview-3d:risikoampel-aggregation in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aggregation Spaltenprompts Definieren; Arbeitsfeld: Tabellenreview 3D."
 ---
 
 # /tabellenreview-3d:risikoampel-aggregation

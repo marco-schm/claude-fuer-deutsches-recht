@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fortbestehensprognose StaRUG/InsO: stimmt Adressat (Geschäftsführung, Wirtschaftsprüfer, Insolvenzverwalter), Frist (Antragsfrist 3 Wochen § 15a InsO) und Form auf den Zweck ab — typische Outputs: Fortbestehensprognose IDW S 11, Restrukturierungsplan, Gutachten."
+description: "Wenn es um Output wählen in Fortbestehensprognose geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

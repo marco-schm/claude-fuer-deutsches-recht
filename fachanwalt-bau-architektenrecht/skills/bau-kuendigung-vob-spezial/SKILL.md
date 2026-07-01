@@ -1,6 +1,6 @@
 ---
 name: bau-kuendigung-vob-spezial
-description: "Spezialfall Kuendigung VOB-Bauvertrag: § 8 VOB/B aus wichtigem Grund, Kuendigung aus freier Entscheidung mit Vergueng, Abgrenzung BGB: Spezialfall Kuendigung VOB-Bauvertrag: § 8 VOB/B aus wichtigem Grund, Kuendigung aus freier Entscheidung mit Vergueng, Abg..."
+description: "Wenn es um Bau Kuendigung Vob Spezial in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Kuendigung VOB-Bauvertrag: § 8 VOB/B aus wichtigem Grund, Kuendigung aus freier Entscheidung mit Vergueng, Abgrenzung BGB

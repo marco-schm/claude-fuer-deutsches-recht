@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-mecklenburg-vorpommern
-description: "Prüft Hochschulprüfungsrecht in Mecklenburg-Vorpommern mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule."
+description: "Wenn es um Prüfungsrecht Mecklenburg Vorpommern in Prüfungsrecht an Hochschulen und Universitäten geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Prüfungsrecht Mecklenburg Vorpommern

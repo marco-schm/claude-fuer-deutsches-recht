@@ -1,6 +1,6 @@
 ---
 name: reach-chemikalien-textilien
-description: "REACH, Chemikalien und Materialrisiken bei Textilien prüfen: Farbstoffe, Nickel, Formaldehyd, PFAS-Risiken, Prüfberichte und Supplier-Erklärungen im Fashion Law Moderecht."
+description: "Wenn es um Reach Chemikalien Textilien in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Reach Chemikalien Textilien

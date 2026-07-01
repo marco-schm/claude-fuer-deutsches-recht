@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Arbeitszeugnis-Analyse: ordnet Rolle (Mandant/Arbeitnehmer, Arbeitgeber/HR, Vorgesetzte), markiert Frist (BAG 5.7.2018 – 9 AZR 244/17 Anspruch entstehung), wählt Norm (Paragraf 109 GewO Wohlwollensgrundsatz, Paragraf 109 II GewO Wahrheits-/Klarheitspflicht, BGB Paragrafen 241 II, 280 I Nebenpflicht) und Zuständigkeit (Arbeitsgericht), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Arbeitszeugnis-Analyse geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

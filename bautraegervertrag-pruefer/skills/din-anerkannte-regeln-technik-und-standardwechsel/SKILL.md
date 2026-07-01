@@ -1,6 +1,6 @@
 ---
 name: din-anerkannte-regeln-technik-und-standardwechsel
-description: "Prüft technische Standards im Bauträgervertrag: DIN-Normen, anerkannte Regeln der Technik, Stand der Technik, Stand von Wissenschaft und Technik, Stichtag Abnahme, Standardwechsel, Sowieso-Kosten und Bedenkenhinweis."
+description: "Wenn es um DIN, anerkannte Regeln der Technik und Standardwechsel in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # DIN, anerkannte Regeln der Technik und Standardwechsel

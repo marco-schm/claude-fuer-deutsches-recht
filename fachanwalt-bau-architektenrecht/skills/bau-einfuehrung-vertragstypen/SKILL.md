@@ -1,6 +1,6 @@
 ---
 name: bau-einfuehrung-vertragstypen
-description: "Bau- und Architektenrecht einfuehrend: Bauvertrag § 650a BGB, Verbraucherbauvertrag § 650i BGB, Architektenvertrag § 650p BGB, Ingenieurvertrag, Bautraegervertrag § 650u BGB, VOB Bauvertrag: Bau- und Architektenrecht einfuehrend: Bauvertrag § 650a BGB, Verb..."
+description: "Wenn es um Bau Einfuehrung Vertragstypen in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bau- und Architektenrecht einfuehrend: Bauvertrag § 650a BGB, Verbraucherbauvertrag § 650i BGB, Architektenvertrag § 650p BGB, Ingenieurvertrag, Bautraegervertrag § 650u BGB, VOB Bauvertrag

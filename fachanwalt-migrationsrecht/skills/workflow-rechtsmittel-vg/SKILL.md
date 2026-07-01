@@ -1,6 +1,6 @@
 ---
 name: workflow-rechtsmittel-vg
-description: "Rechtsmittel VG: Prüfungslinie für Migrationsrecht: prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output."
+description: "Wenn es um Rechtsmittel VG: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsmittel VG: Prüfungslinie für Migrationsrecht

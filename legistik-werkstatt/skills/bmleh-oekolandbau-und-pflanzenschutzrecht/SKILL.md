@@ -1,6 +1,6 @@
 ---
 name: bmleh-oekolandbau-und-pflanzenschutzrecht
-description: "Sachbereich Oekolandbau und Pflanzenschutzrecht im Geschäftsbereich BMLEH: Normbestand (OeLG; PflSchG; PflSchAnwV; SaatG; DueV; OeKo-VO (EU).); Akteure (BLE; BVL (Zulassung Pflanzenschutzmittel); Länder-Pflanzenschutzdienste.); EU-Bezug (OeKo-VO 2018/848; PSM-VO 1107/2009; SUR-Entwurf.); typisch"
+description: "Wenn es um Oekolandbau und Pflanzenschutzrecht (BMLEH) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmleh Oekolandbau Und Pflanzenschutzrecht; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Oekolandbau und Pflanzenschutzrecht (BMLEH)

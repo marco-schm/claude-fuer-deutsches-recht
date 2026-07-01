@@ -1,6 +1,6 @@
 ---
 name: kommentar-compliance-dokumentation-und-akte
-description: "Kommentar: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Kommentar: Compliance-Dokumentation und Aktenvermerk in Zitierweise deutsches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kommentar: Compliance-Dokumentation und Aktenvermerk

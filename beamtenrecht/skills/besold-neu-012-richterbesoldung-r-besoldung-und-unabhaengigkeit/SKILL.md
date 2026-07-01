@@ -1,6 +1,6 @@
 ---
 name: besold-neu-012-richterbesoldung-r-besoldung-und-unabhaengigkeit
-description: "Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit

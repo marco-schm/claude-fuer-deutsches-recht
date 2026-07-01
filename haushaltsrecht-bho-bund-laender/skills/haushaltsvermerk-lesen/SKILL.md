@@ -1,6 +1,6 @@
 ---
 name: haushaltsvermerk-lesen
-description: "Haushaltsrecht BHO Bund und Länder: Haushaltsvermerk lesen. Haushaltsvermerk lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale,..."
+description: "Wenn es um Haushaltsvermerk Lesen in Haushaltsrecht BHO Bund und Länder geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haushaltsvermerk Lesen

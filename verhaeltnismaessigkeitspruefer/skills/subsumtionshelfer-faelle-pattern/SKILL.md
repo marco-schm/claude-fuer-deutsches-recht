@@ -1,6 +1,6 @@
 ---
 name: subsumtionshelfer-faelle-pattern
-description: "Pattern-Sammlung typischer Klausur- und Schriftsatz-Konstellationen mit fertigen Subsumtionsbausteinen. 10 Faelle aus Polizeirecht, Versammlung, Datenschutz, Berufsfreiheit, Pandemie, Eigentum, Klimaschutz; pro Fall: Eingriffsbeschreibung, Schrankenfrage, Stufen-Prüfung, Ergebnis."
+description: "Wenn es um Subsumtionshelfer — 10 Pattern-Faelle in Verhältnismäßigkeitsprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Subsumtionshelfer — 10 Pattern-Faelle

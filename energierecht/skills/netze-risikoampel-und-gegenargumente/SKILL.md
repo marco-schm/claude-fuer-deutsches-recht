@@ -1,6 +1,6 @@
 ---
 name: netze-risikoampel-und-gegenargumente
-description: "Netze: Risikoampel, Gegenargumente und Verteidigungslinien im Energierecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Netze: Risikoampel, Gegenargumente und Verteidigungslinien in Energierecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Netze: Risikoampel, Gegenargumente und Verteidigungslinien

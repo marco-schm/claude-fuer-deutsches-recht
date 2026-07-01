@@ -1,6 +1,6 @@
 ---
 name: ki-plagiat-hausarbeit-schule
-description: "Prüft KI-Nutzung, Eigenständigkeitserklärung, Beweiswert und Sanktionen im Schulrecht Länder."
+description: "Wenn es um digitale Werkzeuge, Plagiat und Hausarbeit Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI, Plagiat und Hausarbeit Schule

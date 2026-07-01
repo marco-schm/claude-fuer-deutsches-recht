@@ -1,6 +1,6 @@
 ---
 name: kanada-patentrecht-cipo-federal-court
-description: "Prüft kanadische Patentfragen: CIPO-Recherche und Prosecution, Patent Appeal Board, Re-examination, Federal Court, PM(NOC)-Schnittstellen und bilinguale Local-Counsel-Fragen im Patentrecht."
+description: "Wenn es um Kanada: CIPO, Federal Court und Patentstreit in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kanada: CIPO, Federal Court und Patentstreit

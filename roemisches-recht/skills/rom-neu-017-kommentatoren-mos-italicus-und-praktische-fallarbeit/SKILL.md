@@ -1,6 +1,6 @@
 ---
 name: rom-neu-017-kommentatoren-mos-italicus-und-praktische-fallarbeit
-description: "Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit

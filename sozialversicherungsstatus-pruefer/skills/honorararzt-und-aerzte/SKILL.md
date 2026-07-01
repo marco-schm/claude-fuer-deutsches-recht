@@ -1,6 +1,6 @@
 ---
 name: honorararzt-und-aerzte
-description: "Prüft Honorarärzte, Praxisvertretung, Klinikdienst, Notdienst und Eingliederung in medizinische Organisation im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Honorararzt und Ärzte in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Honorararzt und Ärzte

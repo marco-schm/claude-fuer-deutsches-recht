@@ -1,6 +1,6 @@
 ---
 name: betreuungsverein-behoerde-btr-aufgabenkreise
-description: "Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, Betreuungsbehörde, Einführung, Fortbildung, Vereinbarung nach §§ 15 und 22 BtOG, Verhinderungsbetreuung, Gerichtsauskunft, Formulare und Grenzen der Selbstorganisation im Betreuungsrecht."
+description: "Wenn es um Hilfe holen: Betreuungsverein, Behörde, Gericht in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Betreuungsverein Behoerde Btr Aufgabenkreise; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Hilfe holen: Betreuungsverein, Behörde, Gericht

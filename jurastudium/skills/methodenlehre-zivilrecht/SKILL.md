@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-zivilrecht
-description: "Übt die zivilrechtliche Methodenlehre für Studenten — Anspruchsgrundlagen-Schema, AGL-Reihenfolge (vertraglich, vertragsähnlich, dinglich, deliktisch, bereicherungsrechtlich), Konkurrenzen, Auslegung von Willenserklärungen (§§ 133/157 BGB), Auslegung von AGB (§ 305 ff. BGB), Verkehrssitte. Lädt..."
+description: "Wenn es um Methodenlehre — Zivilrecht in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Methodenlehre — Zivilrecht

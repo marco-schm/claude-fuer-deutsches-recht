@@ -1,6 +1,6 @@
 ---
 name: erb-pflichtteilsanspruch-berechnung-spezial
-description: "Spezialfall Pflichtteilsberechnung detailliert: § 2303 BGB, Hoehe Pflichtteil = halbe gesetzliche Erbquote, Pflichtteilsergaenzungsanspruch § 2325 BGB für Schenkungen 10-Jahres-Frist mit Abschmelzung: Spezialfall Pflichtteilsberechnung detailliert: § 2303 B..."
+description: "Wenn es um Erb Pflichtteilsanspruch Berechnung Spezial in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Pflichtteilsberechnung detailliert: § 2303 BGB, Höhe Pflichtteil = halbe gesetzliche Erbquote, Pflichtteilsergaenzungsanspruch § 2325 BGB für Schenkungen 10-Jahres-Frist mit Abschmelzung

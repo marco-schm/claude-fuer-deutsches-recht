@@ -1,6 +1,6 @@
 ---
 name: flughafenausbau-beteiligung-pruefen
-description: "Umweltschutzverband Verbandsklage: Flughafenausbau: Beteiligung prüfen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Flughafenausbau Beteiligung Prüfen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Flughafenausbau Beteiligung Prüfen

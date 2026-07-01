@@ -1,6 +1,6 @@
 ---
 name: aufschiebende-wirkung-kdvg-3
-description: "Erklärt § 3 KDVG, § 11 KDVG und die Sonderwirkung des § 13 Abs. 3 im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Wirkung des Antrags in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Wirkung des Antrags

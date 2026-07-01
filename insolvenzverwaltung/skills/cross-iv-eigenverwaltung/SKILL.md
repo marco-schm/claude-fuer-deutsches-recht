@@ -1,6 +1,6 @@
 ---
 name: cross-iv-eigenverwaltung
-description: "Insolvenzverwaltung bei Cross-Border-Assets: ausländischer trustee, debtor in possession oder monitor verwertet deutsche GmbH-Anteile, Grundstücke oder Forderungen; Anerkennung, Inzidentprüfung, Register- und Grundbuchvollzug im Insolvenzverwaltung."
+description: "Wenn es um IV Cross-Border Assets — Trustee, DIP, Registervollzug in Insolvenzverwaltung - IV-Cockpit geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # IV Cross-Border Assets — Trustee, DIP, Registervollzug

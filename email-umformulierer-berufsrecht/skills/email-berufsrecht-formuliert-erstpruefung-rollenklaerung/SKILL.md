@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-formuliert-erstpruefung-rollenklaerung
-description: "Formuliert: Erstprüfung, Rollenklärung und Mandatsziel: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrenss..."
+description: "Wenn es um Formuliert: Erstprüfung, Rollenklärung und Mandatsziel in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Formuliert Erstpruefung Rollenklaerung; Arbeitsfeld: E-Mail-Umformulierer."
 ---
 
 # Formuliert: Erstprüfung, Rollenklärung und Mandatsziel

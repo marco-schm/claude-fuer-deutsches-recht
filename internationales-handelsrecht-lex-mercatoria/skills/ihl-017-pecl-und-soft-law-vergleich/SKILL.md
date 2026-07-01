@@ -1,6 +1,6 @@
 ---
 name: ihl-017-pecl-und-soft-law-vergleich
-description: "Internationales Handelsrecht und Lex Mercatoria: Pecl Und Soft Law Vergleich. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Pecl Und Soft Law Vergleich in Internationales Handelsrecht und Lex Mercatoria geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Pecl Und Soft Law Vergleich

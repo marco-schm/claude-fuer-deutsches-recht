@@ -1,6 +1,6 @@
 ---
 name: ivdr-lab-developed-test
-description: "IVDR und Lab Developed Test: moderner Medizinrechts-Skill für In-vitro-Diagnostikum, Labor-Eigenentwicklung, Companion Diagnostics und Übergangsrisiken: IVDR und Lab Developed Test: moderner Medizinrechts-Skill für In-vitro-Diagnostikum, Labor-Eigenentwickl..."
+description: "Wenn es um Ivdr Lab Developed Test in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IVDR und Lab Developed Test: moderner Medizinrechts-Skill für In-vitro-Diagnostikum, Labor-Eigenentwicklung, Companion Diagnostics und Übergangsrisiken

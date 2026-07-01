@@ -1,6 +1,6 @@
 ---
 name: kanzlei-rechtsprechungsrecherche-fristenbuch
-description: "Recherchiert Rechtsprechung zu einer konkreten Sache in amtlichen Datenbanken der Bundesgerichte und Länder, ergänzt OpenJur und dejure.org, bewertet Treffer, erstellt Zitier- und Verwertungsnotizen und legt Fundstellen samt Quellenprotokoll in der Akte oder freigegebenen Online-Ablage ab im Kanz..."
+description: "Wenn es um Rechtsprechungsrecherche und Fundstellenablage in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsprechungsrecherche und Fundstellenablage

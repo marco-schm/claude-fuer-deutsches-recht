@@ -1,6 +1,6 @@
 ---
 name: plattform-analytics-als-beweis
-description: "Influencer-Recht: Plattform-Analytics als Beweismittel – Reichweite, Impressions, Abrechnung, Streit mit Brand und Prozessführung im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Plattform-Analytics als Beweis in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Influencer-Recht: Plattform-Analytics als Beweis

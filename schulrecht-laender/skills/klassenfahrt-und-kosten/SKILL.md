@@ -1,6 +1,6 @@
 ---
 name: klassenfahrt-und-kosten
-description: "Prüft Klassenfahrt, Pflicht, Kosten und Ausschluss im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Klassenfahrt Und Kosten in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klassenfahrt Und Kosten

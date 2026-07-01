@@ -1,6 +1,6 @@
 ---
 name: spezial-geschaeftsfuehrervertrag-livequellen-check
-description: "Geschaeftsfuehrervertrag: Livequellen- und Rechtsprechungscheck im Plugin gesellschaftsgruender; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Geschaeftsfuehrervertrag: Livequellen- und Rechtsprechungscheck in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschaeftsfuehrervertrag: Livequellen- und Rechtsprechungscheck

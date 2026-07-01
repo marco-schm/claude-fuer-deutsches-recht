@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-versicherung-melden
-description: "Kreuzfahrtschiff: Schadensereignis an Kreuzfahrtschiff oder grosses Fahrgastschiff melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht im..."
+description: "Wenn es um Kreuzfahrtschiff – Schadensfall bei Versicherung melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreuzfahrtschiff – Schadensfall bei Versicherung melden

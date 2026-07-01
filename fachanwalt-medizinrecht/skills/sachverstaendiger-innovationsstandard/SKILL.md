@@ -1,6 +1,6 @@
 ---
 name: sachverstaendiger-innovationsstandard
-description: "Sachverständiger und Innovationsstandard: moderner Medizinrechts-Skill für Gerichtsgutachten bei neuer Methode, Leitlinienlücke, Registerdaten und Standardbildung: Sachverständiger und Innovationsstandard: moderner Medizinrechts-Skill für Gerichtsgutachten..."
+description: "Wenn es um Sachverstaendiger Innovationsstandard in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sachverständiger und Innovationsstandard: moderner Medizinrechts-Skill für Gerichtsgutachten bei neuer Methode, Leitlinienlücke, Registerdaten und Standardbildung

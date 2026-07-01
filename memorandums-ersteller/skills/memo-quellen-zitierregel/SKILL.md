@@ -1,6 +1,6 @@
 ---
 name: memo-quellen-zitierregel
-description: "Quellenzitate im Memo nach deutscher Hauszitierweise v4: Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; Literatur, Kommentare und Datenbankfundstellen nur bei Nutzerquelle oder dokumentiertem Live-Zugriff im Memorandums Ersteller."
+description: "Wenn es um Memo: Quellen-Zitierregel in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Memo: Quellen-Zitierregel

@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation
-description: "Mandantenkommunikation in der Liquiditätsplanung: Zahlenanforderung, Annahmen, Krisenfristen, Geschäftsleiterpflichten und klare Entscheidungsnotiz ohne unnötige Rollenabfragen."
+description: "Wenn es um Mandantenkommunikation Liquiditätsplanung in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantenkommunikation Liquiditätsplanung

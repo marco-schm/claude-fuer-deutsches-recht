@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-kcang-cannabisgesetz-konsum-besitz
-description: "Konsumcannabisgesetz KCanG seit 01.04.2024: §§ 2-3 KCanG erlaubter Eigenkonsum, Eigenbesitz 25 g, privater Anbau drei Pflanzen: K..."
+description: "Wenn es um Strafrecht Spezial Kcang Cannabisgesetz Konsum Besitz in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konsumcannabisgesetz KCanG seit 01.04.2024: §§ 2-3 KCanG erlaubter Eigenkonsum, Eigenbesitz 25 g, privater Anbau drei Pflanzen

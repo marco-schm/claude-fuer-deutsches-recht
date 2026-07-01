@@ -1,6 +1,6 @@
 ---
 name: mitarbeiterinterview-arbeitsrecht
-description: "Leitet Mitarbeiterinterviews in Internal Investigations rechtskonform durch – Belehrung, Protokoll, Verwertbarkeit, Schweigerecht im Internal Investigations Praxis."
+description: "Wenn es um Mitarbeiterinterviews in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mitarbeiterinterviews

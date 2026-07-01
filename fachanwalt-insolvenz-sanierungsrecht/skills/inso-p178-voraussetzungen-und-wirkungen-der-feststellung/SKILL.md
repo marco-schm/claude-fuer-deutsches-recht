@@ -1,6 +1,6 @@
 ---
 name: inso-p178-voraussetzungen-und-wirkungen-der-feststellung
-description: "§ 178 InsO (Voraussetzungen und Wirkungen der Feststellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 178 InsO (Voraussetzungen und Wirkungen der Feststellung) im Mandat prüfen: Norm..."
+description: "Wenn es um Inso P178 Voraussetzungen Und Wirkungen Der Feststellung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 178 InsO (Voraussetzungen und Wirkungen der Feststellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

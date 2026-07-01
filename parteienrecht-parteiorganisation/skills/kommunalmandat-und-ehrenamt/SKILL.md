@@ -1,6 +1,6 @@
 ---
 name: kommunalmandat-und-ehrenamt
-description: "Routet kommunale Mandatspflichten, Entschädigung, Transparenz und Trennung von Partei/Fraktion/Gemeinde."
+description: "Wenn es um Kommunalmandat und Ehrenamt in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalmandat und Ehrenamt

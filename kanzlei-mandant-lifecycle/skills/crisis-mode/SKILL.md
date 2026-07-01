@@ -1,6 +1,6 @@
 ---
 name: crisis-mode
-description: "Crisis Mode: steuert Durchsuchung, Presse, Vorstand, Kunden, Behörden und Kanzlei in Stundenlogik koordinieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Crisis Mode in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Crisis Mode

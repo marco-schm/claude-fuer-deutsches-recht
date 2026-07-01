@@ -1,6 +1,6 @@
 ---
 name: workflow-versicherungen-weg-miete
-description: "Versicherungen Miete/WEG: Prüfungslinie für Miet- und WEG-Recht: sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-..."
+description: "Wenn es um Versicherungen Miete/WEG: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Versicherungen Miete/WEG: Prüfungslinie für Miet- und WEG-Recht

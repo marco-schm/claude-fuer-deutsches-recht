@@ -1,6 +1,6 @@
 ---
 name: implantateregister-rueckruf
-description: "Implantateregister und Rückruf: moderner Medizinrechts-Skill für Implantateregister, Rückruf, Field Safety Notice, Patientennachverfolgung und Beweis: Implantateregister und Rückruf: moderner Medizinrechts-Skill für Implantateregister, Rückruf, Field Safety..."
+description: "Wenn es um Implantateregister Rueckruf in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Implantateregister und Rückruf: moderner Medizinrechts-Skill für Implantateregister, Rückruf, Field Safety Notice, Patientennachverfolgung und Beweis

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-bankrott-strafzumessung-und-einziehung
-description: "Strafzumessung bei Bankrott und Insolvenzdelikten: Paragraph 46 StGB Abwaegung. Einziehung nach Paragraph 73 StGB und Wertersatz Paragraph 73c StGB. Berufsverbot Paragraph 70 StGB. BZRG-Eintrag. GF-Sperre P..."
+description: "Wenn es um Strafzumessung bei Bankrott und Insolvenzdelikten in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafzumessung bei Bankrott und Insolvenzdelikten

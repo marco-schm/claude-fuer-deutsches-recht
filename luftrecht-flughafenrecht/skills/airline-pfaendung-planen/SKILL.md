@@ -1,6 +1,6 @@
 ---
 name: airline-pfaendung-planen
-description: "Gläubiger plant Zwangsvollstreckung in Airline-Flugzeug oder Airline wehrt Pfaendung ab. Prüft ZPO §§ 864-871 LuftFzgG §§ 22-28 Zwangsversteigerung Arrestantrag ZPO § 917 Cape-Town-Remedies Art. 8 und InsO § 89 Vollstreckungssperre und liefert Pfaendungsplan oder Abwehrstrategie im Luftrecht Fl..."
+description: "Wenn es um Airline – Pfändung planen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Airline – Pfändung planen

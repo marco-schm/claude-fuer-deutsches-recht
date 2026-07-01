@@ -1,6 +1,6 @@
 ---
 name: designschutz-eu-gemeinschaftsgeschmacksmuster-eugh-c-419-13
-description: "Designschutz EU Gemeinschaftsgeschmacksmuster EuGH C 419 13: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Designschutz EU Gemeinschaftsgeschmacksmuster EuGH C 419 13 in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Designschutz EU Gemeinschaftsgeschmacksmuster EuGH C 419 13

@@ -1,6 +1,6 @@
 ---
 name: zulassungsgrenzen-check-sozialgericht
-description: "Zulassungs- und Rechtsmittelgrenzen im Sozialgerichtsverfahren: § 144 SGG 750 EUR, laufende Leistungen über ein Jahr, Erstattungsstreitigkeiten 10.000 EUR, Berufungszulassung, Nichtzulassungsbeschwerde, Revision, BSG-Anwaltszwang und Kostenrisiken."
+description: "Wenn es um Zulassungsgrenzen-Check Sozialgericht in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zulassungsgrenzen-Check Sozialgericht

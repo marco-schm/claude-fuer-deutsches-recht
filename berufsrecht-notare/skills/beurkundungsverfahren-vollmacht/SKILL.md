@@ -1,6 +1,6 @@
 ---
 name: beurkundungsverfahren-vollmacht
-description: "Notare: beurkundungsverfahren vollmacht - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Notare."
+description: "Wenn es um Beurkundungsverfahren Vollmacht in Berufsrecht Notare geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: beurkundungsverfahren vollmacht - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: schnelltriage-risiko
-description: "Liefert in 15-30 Minuten eine Schnelltriage zum Risiko eines gemeldeten Datenschutzvorfalls als Entscheidungsgrundlage für die 72-Stunden-Meldung. Behandelt: Vertraulichkeits-, Integritäts- und Verfügbarkeitsverletzung; Datenkategorien; Identifizierbarkeit; Anzahl betroffener Personen; Reversibil..."
+description: "Wenn es um Schnelltriage Risikoeinschätzung nach Datenschutzvorfall in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schnelltriage Risikoeinschätzung nach Datenschutzvorfall

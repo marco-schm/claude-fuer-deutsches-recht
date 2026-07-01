@@ -1,6 +1,6 @@
 ---
 name: foto-video-campaign-rights
-description: "Foto-, Video- und Kampagnenrechte prüfen: Fotograf, Agentur, Stylist, Location, Musik, Requisiten, Buyout, Credits und Archivnutzung im Fashion Law Moderecht."
+description: "Wenn es um Foto Video Campaign Rights in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Foto Video Campaign Rights

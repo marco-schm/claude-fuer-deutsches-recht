@@ -1,6 +1,6 @@
 ---
 name: employee-rumor
-description: "Bewertet Mitarbeiter-Geruechte ueber Insiderwissen: Klärungspflichten des Compliance-Officers, Insiderlisten-Folgen und Eskalation im Insiderrecht Compliance."
+description: "Wenn es um Mitarbeiter-Gerüchte über Insiderwissen – Compliance-Reaktion in Insiderrecht Compliance geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Mitarbeiter-Gerüchte über Insiderwissen – Compliance-Reaktion

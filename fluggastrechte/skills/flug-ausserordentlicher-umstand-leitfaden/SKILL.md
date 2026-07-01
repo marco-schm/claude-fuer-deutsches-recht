@@ -1,6 +1,6 @@
 ---
 name: flug-ausserordentlicher-umstand-leitfaden
-description: "Leitfaden ausserordentlicher Umstand: EuGH-Kasuistik Streik / Wetter / technischer Defekt, Beweislast Airline, zumutbare Maßnahmen. Prüfraster für Klägeranwalt."
+description: "Wenn es um Flug: ausserordentlicher Umstand in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flug: ausserordentlicher Umstand

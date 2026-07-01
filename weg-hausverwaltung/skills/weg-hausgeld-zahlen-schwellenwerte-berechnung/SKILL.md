@@ -1,6 +1,6 @@
 ---
 name: weg-hausgeld-zahlen-schwellenwerte-berechnung
-description: "Hausgeld: Zahlen, Schwellenwerte und Berechnung im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Hausgeld: Zahlen, Schwellenwerte und Berechnung in WEG- und Hausverwaltung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Hausgeld: Zahlen, Schwellenwerte und Berechnung

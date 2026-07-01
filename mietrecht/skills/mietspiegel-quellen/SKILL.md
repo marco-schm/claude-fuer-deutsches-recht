@@ -1,6 +1,6 @@
 ---
 name: mietspiegel-quellen
-description: "Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Anwendungsfall: für eine konkrete Adresse die ortsuebliche Vergleichsmiete, die Wohnlage, die Mietpreisbremse oder die Kappungsgrenze geprü..."
+description: "Wenn es um Mietspiegel-Quellen (amtlich) in Mietrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Mietspiegel-Quellen (amtlich)

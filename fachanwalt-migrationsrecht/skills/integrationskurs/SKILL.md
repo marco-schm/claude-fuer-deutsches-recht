@@ -1,6 +1,6 @@
 ---
 name: integrationskurs
-description: "Integrationskurs: Fachmodul im Migrationsrecht: prüft Verpflichtung, Teilnahme, Sanktionen, Nachweis für Titel/StAG; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Integrationskurs: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Integrationskurs: Fachmodul im Migrationsrecht

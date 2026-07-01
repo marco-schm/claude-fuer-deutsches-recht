@@ -1,6 +1,6 @@
 ---
 name: memo-fristen-sofortmassnahmen
-description: "Fristen und Sofortmassnahmen vor dem juristischen Inhalt: ein Memo beginnt mit 'Frist zuerst', wenn sich aus dem Sachverhalt erkennbare Termine ergeben (z. B. Klagefrist Kuendigungsschutzgesetz, Einspruch Strafbefehl). Output: Frist-Box am Anfang im Memorandums Ersteller."
+description: "Wenn es um Memo: Fristen und Sofortmassnahmen in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Memo: Fristen und Sofortmassnahmen

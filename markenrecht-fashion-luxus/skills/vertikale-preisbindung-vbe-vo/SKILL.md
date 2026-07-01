@@ -1,6 +1,6 @@
 ---
 name: vertikale-preisbindung-vbe-vo
-description: "Vertikale Preisbindung und Vertikal-GVO-Compliance für Haendlervertraege: Hersteller oder Haendler will UPE oder Mindestpreise im Vertriebsnetz einsetzen. Normen: Art. 4 lit. a Vertikal-GVO (EU) 2022/720 (Hardcore-Beschraenkung Mindestpreis), Art. 2 (Freistellung), § 1 GWB, EuGH Prestige-Linie. P..."
+description: "Wenn es um Vertikale Preisbindung und Vertikal-GVO in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertikale Preisbindung und Vertikal-GVO

@@ -1,6 +1,6 @@
 ---
 name: art-4-ki-kompetenz-schulungsprogramm
-description: "Art. 4 KI-VO als praktisches Schulungs- und Nachweissystem: Rollendifferenzierte AI-Literacy für Vorstand, Legal, IT, HR, Fachabteilung, Einkauf, Support und externe Dienstleister; mit Kompetenzmatrix, Pflichtenkalender, Schulungsnachweisen, Shadow-AI-Schnittstelle und Audit-Readiness."
+description: "Wenn es um Art. 4 europäischer Technikregulierungsrahmen — digitale Werkzeuge-Kompetenz als Compliance-Programm in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Art. 4 KI-VO — KI-Kompetenz als Compliance-Programm

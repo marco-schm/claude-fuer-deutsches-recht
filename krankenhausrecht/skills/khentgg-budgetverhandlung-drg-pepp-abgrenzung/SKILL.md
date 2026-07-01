@@ -1,6 +1,6 @@
 ---
 name: khentgg-budgetverhandlung-drg-pepp-abgrenzung
-description: "Budgetverhandlung nach KHEntgG und BPflV: trennt DRG (Somatik) von PEPP (Psychiatrie/Psychosomatik), strukturiert E1- und L-Datensatz, AEB-Forderungen, Vereinbarung mit Kassen oder Schiedsstelle im Krankenhausrecht."
+description: "Wenn es um KHEntgG Budgetverhandlung DRG PEPP Abgrenzung in Krankenhausrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # KHEntgG Budgetverhandlung DRG PEPP Abgrenzung

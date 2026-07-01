@@ -1,6 +1,6 @@
 ---
 name: defi-lending-yield-farming-bmf-22-11-2024
-description: "Steuerliche Behandlung von DeFi-Lending Yield Farming Liquidity Mining Staking nach BMF-Schreiben vom 22.11.2024. Anwendungsfall Mandant nutzt DeFi-Protokolle Aave Compound Curve Yearn Uniswap Lido EigenLayer und fragt nach steuerlicher Erklärungspflicht. Einkuenfte § 22 Nr. 3 EStG oder § 20 EStG..."
+description: "Wenn es um DeFi-Lending / Yield Farming — Steuerliche Behandlung (BMF-Schreiben) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DeFi-Lending / Yield Farming — Steuerliche Behandlung (BMF-Schreiben)

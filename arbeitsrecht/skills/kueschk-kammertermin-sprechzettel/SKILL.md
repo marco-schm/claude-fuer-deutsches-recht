@@ -1,6 +1,6 @@
 ---
 name: kueschk-kammertermin-sprechzettel
-description: "Kammertermin Hauptverhandlung im Kündigungsschutzprozess: Sprechzettel mit Anträgen und Reaktionsmustern: Beweismittel-Reihenfolge; Zeugenvernehmung; A..."
+description: "Wenn es um Kueschk Kammertermin Sprechzettel in Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Kammertermin Hauptverhandlung im Kündigungsschutzprozess: Sprechzettel mit Anträgen und Reaktionsmustern

@@ -1,6 +1,6 @@
 ---
 name: aufwendungsersatz-im-vertrag
-description: "Aufwendungsersatz im Vertrag nach ALR. Skill behandelt typische Aufwendungsersatzlagen Auftrag (mandatum) Verwahrung (depositum) Vormundschaft (tutela) sowie das Verhältnis zur GoA. Liefert Prüfraster."
+description: "Wenn es um Pralr Aufwendungsersatz Im Vertrag in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Aufwendungsersatz Im Vertrag

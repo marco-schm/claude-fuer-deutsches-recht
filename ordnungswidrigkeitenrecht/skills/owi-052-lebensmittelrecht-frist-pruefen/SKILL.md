@@ -1,6 +1,6 @@
 ---
 name: owi-052-lebensmittelrecht-frist-pruefen
-description: "Ordnungswidrigkeitenrecht: Lebensmittelrecht: Frist prüfen. Frist prüfen für Lebensmittelrecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Lebensmittelrecht Frist Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lebensmittelrecht Frist Pruefen

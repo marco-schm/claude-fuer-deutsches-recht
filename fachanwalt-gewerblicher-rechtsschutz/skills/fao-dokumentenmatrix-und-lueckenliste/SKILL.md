@@ -1,6 +1,6 @@
 ---
 name: fao-dokumentenmatrix-und-lueckenliste
-description: "FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft gewerblicher Rechtsschutz § 14k FAO: Falllistenführung, Fallgruppen, qualifizierte Fälle, besondere praktische Erf..."
+description: "Wenn es um FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft gewerblicher Rechtsschutz Paragraf 14k FAO in Fachanwalt Gewerblicher Rechtsschutz geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft gewerblicher Rechtsschutz § 14k FAO

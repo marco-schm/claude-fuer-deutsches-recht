@@ -1,6 +1,6 @@
 ---
 name: ressort-bmwe
-description: "Heranfuehrung Ressort BMWE (Bundesministerium für Wirtschaft und Energie). Schwerpunkt: Energie und Netze; Erneuerbare; Industriepolitik; Aussenwirtschaft; Wettbewerb. Kernnormen: EnWG; EEG; WindBG; KWKG; BEHG; AWG; AWV; GWB; UStG; ARegV. Fuenf Spezialfelder: energie-und-netzregulierung-enwg; ern..."
+description: "Wenn es um Ressort-Heranfuehrung BMWE in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressort-Heranfuehrung BMWE

@@ -1,6 +1,6 @@
 ---
 name: zielvereinbarungen
-description: "Prüft Zielvereinbarungen im Handelsvertretervertrag: Rechtmäßigkeit von umsatzabhängigen Bonus- und Zielprämien, Abgrenzung zu festen Provisionsansprüchen nach § 87 HGB, AGB-Konformität von Zielklauseln nach § 307 BGB sowie Ansprüche bei einseitiger Zielveränderung oder Nicht-Erreichbarkeit der Z..."
+description: "Wenn es um Zielvereinbarungen im Handelsvertretervertrag — Bonus und Provision nach Paragraf 87 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zielvereinbarungen im Handelsvertretervertrag — Bonus und Provision nach § 87 HGB

@@ -1,6 +1,6 @@
 ---
 name: umwelt-marpol-itlos-hamburg-dokumenten
-description: "Schiff hat Oel oder Chemikalien ins Meer eingeleitet; Strafanzeige und Bussgeldsverfahren. MARPOL Annex I (Oel) / II (Chemikalien) / VI (Abgase SOx/NOx); OelSG §§ 1-12; SeeUG § 11; StGB §§ 324/326 (Gewaesserschutz). Oil Record Book; Falscheintrag; US APPS Act. Output: Strafverteidigungs-Vermerk u..."
+description: "Wenn es um Umwelt und MARPOL – Öleinleitung und Strafverfolgung in See- und Schifffahrtsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Umwelt und MARPOL – Öleinleitung und Strafverfolgung

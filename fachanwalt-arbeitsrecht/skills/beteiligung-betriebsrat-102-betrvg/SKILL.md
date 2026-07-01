@@ -1,6 +1,6 @@
 ---
 name: beteiligung-betriebsrat-102-betrvg
-description: "Betriebsratsanhörung vor Kündigung: Sachverhalt, Sozialdaten, Kündigungsgrund, Nachschieben und Fehlerfolgen: Normanker: BetrVG Paragraf 102; KSchG; BAG..."
+description: "Wenn es um Beteiligung Betriebsrat 102 Betrvg in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsratsanhörung vor Kündigung: Sachverhalt, Sozialdaten, Kündigungsgrund, Nachschieben und Fehlerfolgen.

@@ -1,6 +1,6 @@
 ---
 name: vvg-versicherung-wohngebaeude-leitungswasser
-description: "Versicherung für fremde Rechnung: wer darf Leistung verlangen, wem stehen Einwendungen entgegen, welche Rolle haben Sicherungsnehmer, Leasinggeber, Mieter, Subunternehmer und Konzernunternehmen? im Versicherungsrecht."
+description: "Wenn es um Versicherung für fremde Rechnung Paragrafen 43–48 VVG in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Versicherung für fremde Rechnung §§ 43–48 VVG

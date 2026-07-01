@@ -1,6 +1,6 @@
 ---
 name: quellen-rechtsprechungscheck
-description: "Quellen- und Rechtsprechungscheck: vertiefter Berufsrechts-Skill für Steuerberater; prüft verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
+description: "Wenn es um Quellen- und Rechtsprechungscheck in Berufsrecht Steuerberater geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Quellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: nda-laufzeit-und-survival
-description: "Laufzeit und Survival der Geheimhaltungspflicht: Festlaufzeit, automatische Verlaengerung, Survival 2/3/5 Jahre nach Vertragsende. Bei Geschäftsgeheimnissen i. S. GeschGehG ist Survival 'so lange die Information Geschäftsgeheimnis ist' moeglich. Empfehlungen je Rolle."
+description: "Wenn es um NDA: Laufzeit/Survival in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NDA: Laufzeit/Survival

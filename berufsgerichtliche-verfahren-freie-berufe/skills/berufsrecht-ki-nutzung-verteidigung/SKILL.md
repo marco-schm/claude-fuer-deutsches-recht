@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-ki-nutzung-verteidigung
-description: "Berufsrecht KI-Nutzung (Verteidigungs- und Kammerantwort): steuert KI-Einsatz in Kanzlei/Praxis, Mandatsdaten, Kontrolle, Transparenz und Dokumentation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Wenn es um Berufsrecht digitale Werkzeuge-Nutzung: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Berufsrecht KI-Nutzung: Verteidigungs- und Kammerantwort

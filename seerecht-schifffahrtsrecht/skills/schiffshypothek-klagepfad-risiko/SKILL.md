@@ -1,6 +1,6 @@
 ---
 name: schiffshypothek-klagepfad-risiko
-description: "Schiffshypothek: Gläubiger oder Reeder waehlt Klagepfad bei Streit um hypothekenbelastetes Seeschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht."
+description: "Wenn es um Schiffshypothek – Klagepfad wählen in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schiffshypothek – Klagepfad wählen

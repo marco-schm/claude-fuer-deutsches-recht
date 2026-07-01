@@ -1,6 +1,6 @@
 ---
 name: ecommerce-checkout-pruefung-spezial
-description: "Spezialpruefung E-Commerce-Checkout: Warenkorb, Adresseingabe, Bezahlung, Bestaetigung. Typische Stolpersteine: AGB-Modal, dynamische Versandkosten, Coupon-Felder, 3D-Secure-Fenster. Prüfraster Tastatur-only-Bestellung und Screenreader-Bestellung Ende-zu-Ende im Barrierefreiheit Web Checker."
+description: "Wenn es um E-Commerce Checkout-Spezial in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # E-Commerce Checkout-Spezial

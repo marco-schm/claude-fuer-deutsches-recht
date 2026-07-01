@@ -1,6 +1,6 @@
 ---
 name: leistungsbeschreibung-scope
-description: "Solo-Selbstständige: schärft Leistungsumfang, Nichtleistungen, Mitwirkung und Abnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Verträge und AGB: Schärft leistungsumfang in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verträge und AGB: Schärft leistungsumfang

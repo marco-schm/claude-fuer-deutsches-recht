@@ -1,6 +1,6 @@
 ---
 name: kuendigung-und-projektabbruch
-description: "Solo-Selbstständige: plant Kündigung, Teilvergütung, Herausgabe, Daten und offene Rechnung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Verträge und AGB: Plant kündigung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verträge und AGB: Plant kündigung

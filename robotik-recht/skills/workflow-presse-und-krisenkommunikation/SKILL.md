@@ -1,6 +1,6 @@
 ---
 name: workflow-presse-und-krisenkommunikation
-description: "Bereitet Kommunikation nach Unfall, Rückruf oder Datenschutzvorfall vor: sachlich, rechtlich vorsichtig, kundenverständlich und belegbar im Robotik-Recht."
+description: "Wenn es um Presse und Krisenkommunikation in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Workflow Presse Und Krisenkommunikation; Arbeitsfeld: robotik-recht."
 ---
 
 # Presse und Krisenkommunikation

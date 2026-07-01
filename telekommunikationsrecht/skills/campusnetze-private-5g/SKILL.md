@@ -1,6 +1,6 @@
 ---
 name: campusnetze-private-5g
-description: "Campusnetze/private 5G: lokale Frequenzen, Betreiberrolle, Sicherheit, SLA, Industrieanwendung und Drittzugang im Telekommunikationsrecht."
+description: "Wenn es um Campusnetze und private 5G-Netze in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Campusnetze und private 5G-Netze

@@ -1,6 +1,6 @@
 ---
 name: laufbahnrecht-laender-matrix
-description: "Länder-Laufbahnrecht-Matrix: fragt Bundesland, Laufbahngruppe, Fachrichtung, Vorbildung und Zielamt ab."
+description: "Wenn es um Laufbahnrecht Laender Matrix in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laufbahnrecht Laender Matrix

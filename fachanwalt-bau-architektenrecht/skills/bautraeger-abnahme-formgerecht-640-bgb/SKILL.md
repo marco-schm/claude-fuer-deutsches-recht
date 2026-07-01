@@ -1,6 +1,6 @@
 ---
 name: bautraeger-abnahme-formgerecht-640-bgb
-description: "Bautraeger-Abnahme formgerecht nach § 640 BGB: Skill klaert das Abnahmeverfahren die Voraussetzungen Vorbehalte (Maengelliste) und die Folgen der wirksamen Abnahme (Beginn Maengelhaftungsverjaehrung Umkehr Bewe..."
+description: "Wenn es um Bautraeger-Abnahme formgerecht nach Paragraf 640 BGB in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bautraeger-Abnahme formgerecht nach § 640 BGB

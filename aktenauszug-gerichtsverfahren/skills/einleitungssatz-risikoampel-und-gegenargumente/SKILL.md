@@ -1,6 +1,6 @@
 ---
 name: einleitungssatz-risikoampel-und-gegenargumente
-description: "Einleitungssatz: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Einleitungssatz: Risikoampel, Gegenargumente und Verteidigungslinien in aktenauszug-gerichtsverfahren geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einleitungssatz: Risikoampel, Gegenargumente und Verteidigungslinien

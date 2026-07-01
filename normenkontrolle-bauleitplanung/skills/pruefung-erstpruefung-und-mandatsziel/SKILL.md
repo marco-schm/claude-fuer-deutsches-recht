@@ -1,6 +1,6 @@
 ---
 name: pruefung-erstpruefung-und-mandatsziel
-description: "Prüfung: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Prüfung: Erstprüfung, Rollenklärung und Mandatsziel in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfung: Erstprüfung, Rollenklärung und Mandatsziel

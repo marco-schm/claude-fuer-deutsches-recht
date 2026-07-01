@@ -1,6 +1,6 @@
 ---
 name: vertreter-ohne-vertretungsmacht
-description: "Klausurfall zum vollmachtlosen Vertreter nach §§ 177 bis 179 BGB: schwebende Unwirksamkeit des Vertreterhandelns, Genehmigung des Vertretenen nach § 177 BGB, Widerrufsrecht des Dritten nach § 178 BGB, Haftung des Vertreters auf Erfüllung oder Schadensersatz nach § 179 BGB."
+description: "Wenn es um Vertreter ohne Vertretungsmacht — Paragrafen 177 bis 179 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Vertreter Ohne Vertretungsmacht; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Vertreter ohne Vertretungsmacht — §§ 177 bis 179 BGB

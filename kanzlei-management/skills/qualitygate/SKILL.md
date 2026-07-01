@@ -1,6 +1,6 @@
 ---
 name: qualitygate
-description: "Finalcheck auf Führbarkeit, Zahlenklarheit, Berufsrecht und Menschenwirkung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene."
+description: "Wenn es um Kanzlei-Management Qualitygate in Kanzlei Management geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzlei-Management Qualitygate

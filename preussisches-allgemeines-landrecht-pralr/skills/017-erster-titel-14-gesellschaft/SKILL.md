@@ -1,6 +1,6 @@
 ---
 name: 017-erster-titel-14-gesellschaft
-description: "PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung

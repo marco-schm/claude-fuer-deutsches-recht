@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für KI-Richtlinie für Kanzleien: ordnet Rolle (Kanzlei, Mandant, KI-Anbieter), markiert Frist (keine harten Fristen), wählt Norm (BRAO § 43e, BORA, DSGVO Art. 28) und Zuständigkeit (RAK), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Kanzleirichtlinien für digitale Werkzeuge geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

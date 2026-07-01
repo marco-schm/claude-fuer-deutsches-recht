@@ -1,6 +1,6 @@
 ---
 name: beihilfen-beweislast-und-darlegungslast
-description: "Beihilfen: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Beihilfen: Beweislast, Darlegungslast und Substantiierung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Beihilfen: Beweislast, Darlegungslast und Substantiierung

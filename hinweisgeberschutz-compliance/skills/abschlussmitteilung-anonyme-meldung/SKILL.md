@@ -1,6 +1,6 @@
 ---
 name: abschlussmitteilung-anonyme-meldung
-description: "Formuliert Abschlussmitteilung an Hinweisgeber im Hinweisgeberschutz Compliance."
+description: "Wenn es um Abschlussmitteilung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abschlussmitteilung

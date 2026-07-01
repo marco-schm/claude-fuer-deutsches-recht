@@ -1,6 +1,6 @@
 ---
 name: bmftr-hochschul-und-wissenschaftsrecht
-description: "Sachbereich Hochschulrecht und Wissenschaftsrecht im Geschäftsbereich BMFTR: Normbestand (HRG; WissZeitVG; LHGs der Länder; WHG (Wissenschaft); ProfBesG.); Akteure (BMFTR; Wissenschaftsrat; DFG; HRK; Länderministerien.); EU-Bezug (ERA; Horizon Europe; Mobilitaetsregeln; Anerkennung.); typische L..."
+description: "Wenn es um Hochschulrecht und Wissenschaftsrecht (BMFTR) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Hochschulrecht und Wissenschaftsrecht (BMFTR)

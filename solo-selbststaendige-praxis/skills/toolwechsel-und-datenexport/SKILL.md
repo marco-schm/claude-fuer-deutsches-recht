@@ -1,6 +1,6 @@
 ---
 name: toolwechsel-und-datenexport
-description: "Solo-Selbstständige: prüft Export, Kündigung, Datenportabilität und Beweisarchiv beim Toolwechsel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Büro Alltag und Tools: Prüft export in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Büro Alltag und Tools: Prüft export

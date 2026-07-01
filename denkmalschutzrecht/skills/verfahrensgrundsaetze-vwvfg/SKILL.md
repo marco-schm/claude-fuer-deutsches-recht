@@ -1,6 +1,6 @@
 ---
 name: verfahrensgrundsaetze-vwvfg
-description: "Verwaltungsverfahrensrecht im Denkmalschutz: Anhörung nach Paragraf 28 VwVfG, schriftlicher Verwaltungsakt mit Begründung und Rechtsbehelfsbelehrung nach Paragrafen 35 37 und 39 VwVfG, Bekanntgabe nach Paragraf 41 VwVfG, Rücknahme rechtswidriger und Widerruf rechtmäßiger Verwaltungsakte nach Paragrafen 48/49 VwVfG. Skill zeigt, wie die Landes-VwVfG inhaltsgleich greifen und welche Verfahrensfehler im Denkmalrecht typisch sind."
+description: "Wenn es um Verfahrensgrundsätze nach VwVfG in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verfahrensgrundsätze nach VwVfG

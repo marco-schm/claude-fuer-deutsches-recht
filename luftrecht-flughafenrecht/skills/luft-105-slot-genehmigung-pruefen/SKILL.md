@@ -1,6 +1,6 @@
 ---
 name: luft-105-slot-genehmigung-pruefen
-description: "Luftrecht und Flughafenrecht: Slot: Genehmigung prüfen. Genehmigung prüfen für Slot im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Slot Genehmigung Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Slot Genehmigung Pruefen

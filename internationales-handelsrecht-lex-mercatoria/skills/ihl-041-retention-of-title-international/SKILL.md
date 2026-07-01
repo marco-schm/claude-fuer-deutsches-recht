@@ -1,6 +1,6 @@
 ---
 name: ihl-041-retention-of-title-international
-description: "Internationales Handelsrecht und Lex Mercatoria: Retention Of Title International. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Retention Of Title International in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Retention Of Title International

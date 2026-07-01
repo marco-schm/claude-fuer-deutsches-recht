@@ -1,6 +1,6 @@
 ---
 name: inv-012-behoerdenstrategie
-description: "Plant Selbstanzeige, Kooperation, Nichtkooperation, Stellungnahme, Akteneinsicht und Parallelverfahren."
+description: "Wenn es um Behördenstrategie in Internal Investigations Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Behördenstrategie

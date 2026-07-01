@@ -1,6 +1,6 @@
 ---
 name: landeswahlkampf-lagekarte
-description: "Wahlkampfrecht Praxis: Landtagswahlkampf mit Landesrecht, Kreisverbaenden und lokalen Behörden strukturieren im Wahlkampfrecht."
+description: "Wenn es um Landeslagekarte in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landeslagekarte

@@ -1,6 +1,6 @@
 ---
 name: slot-genehmigung-pruefen
-description: "Airline braucht Slot-Bestätigung oder neuen Slot und prüft Genehmigungsstand. Prüft VO EWG 95/93 Grandfather Rights Koordinierungsstand FHKV IATA-WSAG Saisonantrag und liefert Slot-Bedarfs-Analyse und Antrags-Checkliste im Luftrecht Flughafenrecht."
+description: "Wenn es um Slot – Genehmigung prüfen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Slot – Genehmigung prüfen

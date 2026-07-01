@@ -1,6 +1,6 @@
 ---
 name: onboarding-festsetzungsverjaehrung
-description: "Vollstaendige Bearbeitung der Festsetzungsverjaehrung — regulaere und verlaengerte Fristen Anlaufhemmung Ablaufhemmung und besondere Verjährungsregeln bei Aussenpruefung Steuerhinterziehung Erbfaellen und ausstehender Steuererklaerung. Anwendungsfall Berater muss prüfen ob ein Steueranspruch noc..."
+description: "Wenn es um Festsetzungsverjaehrung — Paragrafen 169 bis 171 AO in der Praxis in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Festsetzungsverjaehrung — §§ 169 bis 171 AO in der Praxis

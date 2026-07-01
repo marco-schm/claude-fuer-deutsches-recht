@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-durchsuchung-beschlagnahme-und-datenzugriff
-description: "Datenschutzrecht-Brückenskill: Durchsuchung Beschlagnahme und Datenzugriff: Extremfälle von Behördenzugriffen auf Server, Kommunikation, Mandatsunterlagen und Geschäftsgeheimnisse vorbereiten: Datenschutzrecht-Brückenskill: Durchsuchung Beschlagnahme und Da..."
+description: "Wenn es um Dsv Sanktion Durchsuchung Beschlagnahme Und Datenzugriff in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Datenschutzrecht-Brückenskill: Durchsuchung Beschlagnahme und Datenzugriff: Extremfälle von Behördenzugriffen auf Server, Kommunikation, Mandatsunterlagen und Geschäftsgeheimnisse vorbereiten

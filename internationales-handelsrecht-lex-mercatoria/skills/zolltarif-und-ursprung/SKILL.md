@@ -1,6 +1,6 @@
 ---
 name: zolltarif-und-ursprung
-description: "Internationales Handelsrecht: Zolltarif (EU Kombinierte Nomenklatur, HS-Code) und nicht-präferenzieller Ursprung nach UZK Art. 59-63. Einreihung von Waren, wesentliche Be- und Verarbeitung, ursprungsbestimmende Vorgänge und Antidumping-Relevanz im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Zolltarif und nicht-präferenzieller Ursprung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zolltarif und nicht-präferenzieller Ursprung

@@ -1,6 +1,6 @@
 ---
 name: schutz-vor-vorauseilendem-gehorsam
-description: "Hilft, berechtigte Behördenbelange zu berücksichtigen, ohne die Versammlung aus Angst selbst zu entkernen im Versammlungsrecht."
+description: "Wenn es um Keine Schere im Kopf in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Keine Schere im Kopf

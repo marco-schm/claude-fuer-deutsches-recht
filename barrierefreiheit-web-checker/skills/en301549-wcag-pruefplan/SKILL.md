@@ -1,6 +1,6 @@
 ---
 name: en301549-wcag-pruefplan
-description: "Erstellt Prüfkatalog nach EN 301 549 und WCAG. Trennt rechtlich harmonisierten Standard von fachlicher WCAG-2.2-Erweiterung, definiert Seitentypen, Stichprobe, A/AA-Kriterien, manuelle Checks und Nachweise. Output: Auditplan im Barrierefreiheit Web Checker."
+description: "Wenn es um EN 301 549 und WCAG-Prüfplan in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EN 301 549 und WCAG-Prüfplan

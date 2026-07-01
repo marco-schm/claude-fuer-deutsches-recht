@@ -1,6 +1,6 @@
 ---
 name: reklamationsschreiben-cmr-hgb
-description: "Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten: Normen: § 438 HGB, Art. 30 CMR. Prüfraster: Reklamationsfrist sieben Tage, schr..."
+description: "Wenn es um Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten

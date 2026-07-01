@@ -1,6 +1,6 @@
 ---
 name: firma-firmenbildung-formwechsel-registercheck
-description: "Prüft Firmenkern, Unterscheidbarkeit, Irreführung, Rechtsformzusatz, IHK-Stellungnahme und Abgrenzung zu Marke/Domain im Handelsregister Praxis."
+description: "Wenn es um Firma und Firmenbeanstandung in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Firma und Firmenbeanstandung

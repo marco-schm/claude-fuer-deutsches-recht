@@ -1,6 +1,6 @@
 ---
 name: audit-trail-and-logs
-description: "Audit Trail und Logs: steuert wer hat wann was gesehen, geändert, freigegeben oder exportiert zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Audit Trail und Logs in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Audit Trail und Logs

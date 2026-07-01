@@ -1,6 +1,6 @@
 ---
 name: aufsichtsbeschwerde-dienstaufsicht
-description: "Erklärt Unterschied zu Rechtsmittel, sinnvolle Einsatzfälle, Ton und erwartbare Wirkung im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Aufsichts- und Dienstaufsichtsbeschwerde in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufsichts- und Dienstaufsichtsbeschwerde

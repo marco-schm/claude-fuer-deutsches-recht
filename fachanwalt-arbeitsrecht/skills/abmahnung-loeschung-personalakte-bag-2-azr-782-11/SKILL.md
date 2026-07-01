@@ -1,6 +1,6 @@
 ---
 name: abmahnung-loeschung-personalakte-bag-2-azr-782-11
-description: "Abmahnung Entfernung aus Personalakte mit Paragraf 242 BGB und Art 17 DSGVO; Verbrauch der Warnfunktion."
+description: "Wenn es um Abmahnung Loeschung Personalakte BAG 2 Azr 782 11 in Fachanwalt Arbeitsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Abmahnung Loeschung Personalakte BAG 2 Azr 782 11

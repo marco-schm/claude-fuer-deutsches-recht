@@ -1,6 +1,6 @@
 ---
 name: tisax-iso-triage-strafrecht-uk-whistleblowing
-description: "Verknüpft TISAX/ISO-Compliance mit Hinweisgebersystem im Hinweisgeberschutz Compliance."
+description: "Wenn es um Tisax Iso Hinweisgeber in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tisax Iso Hinweisgeber

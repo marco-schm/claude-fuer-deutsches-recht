@@ -1,6 +1,6 @@
 ---
 name: see-048-werftvertrag-closing-planen
-description: "See- und Schifffahrtsrecht: Werftvertrag: Closing planen. Closing planen für Werftvertrag im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Werftvertrag Closing Planen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Werftvertrag Closing Planen

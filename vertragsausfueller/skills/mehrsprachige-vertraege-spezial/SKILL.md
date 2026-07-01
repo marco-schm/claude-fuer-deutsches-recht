@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-vertraege-spezial
-description: "Spezialfall mehrsprachige Vertraege deutsch / englisch: massgebliche Sprache, paralleler Aufbau, Übersetzungsfehler. Prüfraster für internationale Mandate im Vertragsausfueller."
+description: "Wenn es um VAF: Mehrsprachige Verträge in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VAF: Mehrsprachige Verträge

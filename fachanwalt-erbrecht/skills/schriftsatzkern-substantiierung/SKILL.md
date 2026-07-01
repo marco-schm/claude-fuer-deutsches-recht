@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Erbrechtsklage oder erbrechtlichen Antrag substantiiert formulieren: §§ 2303 2353 BGB §§ 253 286 ZPO. Prüfraster: Anspruchsgrundlage Sachverhalt Beweisangebot Antrag Streitwert Fristen. Ou..."
+description: "Wenn es um Erbrechtsklage oder erbrechtlichen Antrag substantiiert formulieren in Fachanwalt Erbrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbrechtsklage oder erbrechtlichen Antrag substantiiert formulieren

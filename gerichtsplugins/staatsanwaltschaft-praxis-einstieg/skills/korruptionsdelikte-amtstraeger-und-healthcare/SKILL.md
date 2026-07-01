@@ -1,6 +1,6 @@
 ---
 name: korruptionsdelikte-amtstraeger-und-healthcare
-description: "Korruption: Amtsträger, Healthcare und Unternehmen: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Korruption: Amtsträger, Healthcare und Unternehmen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Korruption: Amtsträger, Healthcare und Unternehmen

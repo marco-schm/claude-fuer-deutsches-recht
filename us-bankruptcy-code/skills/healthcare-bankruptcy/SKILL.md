@@ -1,6 +1,6 @@
 ---
 name: healthcare-bankruptcy
-description: "Prüft health care business cases, patient care ombudsman, records, regulatory licenses and sale/closure issues im US Bankruptcy Code."
+description: "Wenn es um Health Care Business Bankruptcy in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Health Care Business Bankruptcy

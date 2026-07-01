@@ -1,6 +1,6 @@
 ---
 name: nachtragspruefung-und-fehlerkorrektur-organi
-description: "Wirtschaftsprüfer: nachtragspruefung und fehlerkorrektur - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Nachtragspruefung Und Fehlerkorrektur Organi in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: nachtragspruefung und fehlerkorrektur - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

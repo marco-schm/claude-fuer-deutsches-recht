@@ -1,6 +1,6 @@
 ---
 name: dba-ansaessigkeit-tie-breaker-rules
-description: "Ansaessigkeit nach Art. 4 OECD-Musterabkommen und Tie-Breaker-Regelungen bei mehrfacher Ansaessigkeit. Anwendungsfall natuerliche Person mit Wohnsitz in mehreren Staaten oder Kapitalgesellschaft mit Sitz und tatsaechlicher Geschäftsleitung in unterschiedlichen Staaten. Prüfung ständige Wohnstaett..."
+description: "Wenn es um Ansaessigkeit und Tie-Breaker-Rules (Art. 4 OECD-MA) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Ansaessigkeit und Tie-Breaker-Rules (Art. 4 OECD-MA)

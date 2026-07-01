@@ -1,6 +1,6 @@
 ---
 name: luft-101-slot-zustaendigkeit-pruefen
-description: "Luftrecht und Flughafenrecht: Slot: Zuständigkeit prüfen. Zuständigkeit prüfen für Slot im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Slot Zustaendigkeit Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Slot Zustaendigkeit Pruefen

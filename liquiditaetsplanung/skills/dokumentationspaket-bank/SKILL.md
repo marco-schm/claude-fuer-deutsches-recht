@@ -1,6 +1,6 @@
 ---
 name: dokumentationspaket-bank
-description: "Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Wenn es um Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk

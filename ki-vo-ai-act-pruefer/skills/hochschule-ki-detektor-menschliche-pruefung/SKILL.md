@@ -1,6 +1,6 @@
 ---
 name: hochschule-ki-detektor-menschliche-pruefung
-description: "KI-Detektoren in Schule, Hochschule und Auswahlverfahren: methodische Grenzen, False Positives, Transparenz, Anhörung, menschliche Plausibilitaetspruefung, Datenschutz und Beweisakte. Baut einen belastbaren Entscheidungsvermerk statt Detektor-Automatismus."
+description: "Wenn es um digitale Werkzeuge-Detektor plus menschliche Prüfung in europäischem Technikregulierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # KI-Detektor plus menschliche Prüfung

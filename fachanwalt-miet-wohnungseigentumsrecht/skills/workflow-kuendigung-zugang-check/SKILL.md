@@ -1,6 +1,6 @@
 ---
 name: workflow-kuendigung-zugang-check
-description: "Kündigung-Zugang-Check: Prüfungslinie für Miet- und WEG-Recht: prüft Zugang, Vollmacht, Form, Begründung, Frist und Widerspruch; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nu..."
+description: "Wenn es um Kündigung-Zugang-Check: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Kündigung-Zugang-Check: Prüfungslinie für Miet- und WEG-Recht

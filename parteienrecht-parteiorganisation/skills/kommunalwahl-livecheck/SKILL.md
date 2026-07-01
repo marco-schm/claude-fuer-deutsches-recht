@@ -1,6 +1,6 @@
 ---
 name: kommunalwahl-livecheck
-description: "Routet Kommunalwahlrecht je Land: Wahlgebiet, Listen, Reservelisten, Wahlbezirk, Unterstützungsunterschriften und Fristen."
+description: "Wenn es um Kommunalwahl Live-Check in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalwahl Live-Check

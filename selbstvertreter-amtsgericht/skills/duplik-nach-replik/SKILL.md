@@ -1,6 +1,6 @@
 ---
 name: duplik-nach-replik
-description: "Duplik als Beklagten-Antwort auf die Kläger-Replik. Letzter Schriftsatz vor Termin neue Tatsachen Beweisangebote substantiiertes Bestreiten Reaktion auf Kläger-Replik. Wann ist Duplik noetig wann nicht."
+description: "Wenn es um Duplik: Antwort des Beklagten auf die Replik in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Duplik: Antwort des Beklagten auf die Replik

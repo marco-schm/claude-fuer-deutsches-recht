@@ -1,6 +1,6 @@
 ---
 name: kreistag-aufsichtsbeschwerde-schreiben
-description: "der Länder: Kreistag: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kreistag Aufsichtsbeschwerde Schreiben in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreistag Aufsichtsbeschwerde Schreiben

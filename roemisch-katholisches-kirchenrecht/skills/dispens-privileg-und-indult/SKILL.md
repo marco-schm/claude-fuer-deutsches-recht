@@ -1,6 +1,6 @@
 ---
 name: dispens-privileg-und-indult
-description: "Dispens, Privileg und Indult: Ausnahmeinstrumente, Zuständigkeit, Grund, Form und Widerruf; CIC can. 76-93 und 85-93; KKK 2036-2040; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Be..."
+description: "Wenn es um Dispens, Privileg und Indult in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dispens, Privileg und Indult

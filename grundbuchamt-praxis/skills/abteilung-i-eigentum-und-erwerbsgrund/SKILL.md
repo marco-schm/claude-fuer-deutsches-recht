@@ -1,6 +1,6 @@
 ---
 name: abteilung-i-eigentum-und-erwerbsgrund
-description: "Prüft Eigentümer, Erwerbsgrund, Erbengemeinschaft, Bruchteile, Gesamthand, eGbR und Voreintragung im Grundbuchamt Praxis."
+description: "Wenn es um Abteilung I Eigentum in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abteilung I Eigentum

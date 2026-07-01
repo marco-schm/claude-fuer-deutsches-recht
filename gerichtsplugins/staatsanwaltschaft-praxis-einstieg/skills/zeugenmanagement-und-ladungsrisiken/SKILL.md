@@ -1,6 +1,6 @@
 ---
 name: zeugenmanagement-und-ladungsrisiken
-description: "Zeugenmanagement für die Hauptverhandlung: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Zeugenmanagement für die Hauptverhandlung in Staatsanwaltschaft Praxis-Einstieg geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Zeugenmanagement für die Hauptverhandlung

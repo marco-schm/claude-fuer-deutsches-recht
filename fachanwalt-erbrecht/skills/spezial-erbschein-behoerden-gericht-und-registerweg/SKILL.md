@@ -1,6 +1,6 @@
 ---
 name: spezial-erbschein-behoerden-gericht-und-registerweg
-description: "Erbschein: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Erbschein: Behörden-, Gerichts- oder Registerweg in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbschein: Behörden-, Gerichts- oder Registerweg

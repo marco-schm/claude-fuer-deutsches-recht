@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-unfallversicherung-bg
-description: "Laienverstaendlicher Sozialrechts-Skill zu Unfallversicherung Bg: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch..."
+description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Unfallversicherung Bg in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Unfallversicherung Bg

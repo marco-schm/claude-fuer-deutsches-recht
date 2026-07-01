@@ -1,6 +1,6 @@
 ---
 name: luft-032-flughafen-register-auswerten
-description: "Luftrecht und Flughafenrecht: Flughafen: Register auswerten. Register auswerten für Flughafen im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Flughafen Register Auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flughafen Register Auswerten

@@ -1,6 +1,6 @@
 ---
 name: handelsvollmacht-nicht-eintragungsfaehig
-description: "Erklärt, was nicht ins Register gehört und wie interne Vollmachten dennoch sicher dokumentiert werden im Handelsregister Praxis."
+description: "Wenn es um Handlungsvollmacht richtig abgrenzen in Handelsregister Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Handlungsvollmacht richtig abgrenzen

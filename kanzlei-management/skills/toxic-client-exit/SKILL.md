@@ -1,6 +1,6 @@
 ---
 name: toxic-client-exit
-description: "Plant Ausstieg aus Mandantenbeziehungen, die Team oder Marge beschädigen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Toxic Client Exit in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Toxic Client Exit

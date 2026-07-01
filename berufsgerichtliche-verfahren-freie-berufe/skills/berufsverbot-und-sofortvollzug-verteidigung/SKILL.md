@@ -1,6 +1,6 @@
 ---
 name: berufsverbot-und-sofortvollzug-verteidigung
-description: "Berufsverbot und Sofortvollzug (Verteidigungs- und Kammerantwort): steuert vorläufige Maßnahmen, Sofortvollzug, existenzielle Folgen, Eilrechtsschutz und Kanzleifortführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Ve..."
+description: "Wenn es um Berufsverbot und Sofortvollzug: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Berufsverbot und Sofortvollzug: Verteidigungs- und Kammerantwort

@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz
-description: "Einstweiligen Rechtsschutz nach § 80 Abs: 5 VwGO oder § 123 VwGO beantragen: Dringendes Handlungsbedürftigkeit in einem laufenden Verwaltungsstreit. Normen: § 80 Abs. 5 VwGO (aufschiebende Wirkung), § 123 VwGO (eins..."
+description: "Wenn es um Einstweiligen Rechtsschutz nach Paragraf 80 Abs in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Einstweiligen Rechtsschutz nach § 80 Abs

@@ -1,6 +1,6 @@
 ---
 name: rechenprotokolle-fehlerkatalog
-description: "Rechenprotokolle Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Wenn es um Rechenprotokolle Fehlerkatalog in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechenprotokolle Fehlerkatalog

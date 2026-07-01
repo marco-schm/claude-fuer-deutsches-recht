@@ -1,6 +1,6 @@
 ---
 name: datenraum-index-pe
-description: "Baut oder prüft Datenraum-Index für PE-Buyout, Add-on, Carve-out oder Distressed Deal im Private Equity Praxis."
+description: "Wenn es um Datenraum-Index PE in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenraum-Index PE

@@ -1,6 +1,6 @@
 ---
 name: governance-aufsichtsbehoerden-art-70
-description: "Unternehmen oder Behörde fragt: An wen muss ich mich in Deutschland und Europa wenden wenn ich Fragen zur KI-VO-Aufsicht habe oder eine Meldepflicht erfullen muss? Art. 70 ff. KI-VO Governance. Prüfraster: nationale Aufsichtsbehoerden Art. 70 Europaeisches KI-Buero Art. 64 KI-Ausschuss Art. 65 wi..."
+description: "Wenn es um Governance und Aufsichtsbehörden — Art. 70 ff. europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Governance und Aufsichtsbehörden — Art. 70 ff. KI-VO

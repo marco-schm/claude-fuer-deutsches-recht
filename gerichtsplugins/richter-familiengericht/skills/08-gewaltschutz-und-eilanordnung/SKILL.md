@@ -1,6 +1,6 @@
 ---
 name: 08-gewaltschutz-und-eilanordnung
-description: "Gewaltschutzverfahren GewSchG: Schutzanordnungen Paragraf 1 (Abstand, Naehe, Kontakt), Wohnungszuweisung Paragraf 2, Eilbeschluss Paragraf 214 FamFG, sofortige Wirksamkeit Paragraf 209 FamFG, Strafbewehrung Paragraf 4 GewSchG"
+description: "Wenn es um 08 Gewaltschutz und Eilanordnung in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 08 Gewaltschutz und Eilanordnung

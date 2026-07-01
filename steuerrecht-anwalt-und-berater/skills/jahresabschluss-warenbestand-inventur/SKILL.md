@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-warenbestand-inventur
-description: "Warenbestand und Inventur für Jahresabschluss. Anwendungsfall jaehrliche Inventur Aufnahme Warenbestand permanente Inventur Stichprobeninventur Bewertung. Methodik § 240 HGB GoBD. Output Inventur-Protokoll Warenbestand-Wert."
+description: "Wenn es um Warenbestand und Inventur in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Warenbestand und Inventur

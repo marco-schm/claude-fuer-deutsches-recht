@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-mandanteninterview-ohne-selbstbelastung
-description: "Datenschutzrecht-Brückenskill: Mandanteninterview ohne Selbstbelastung: Fakten sammeln, ohne neue Eingeständnisse, überschießende Datenoffenlegung oder unkluge Wertungen zu produzieren: Datenschutzrecht-Brückenskill: Mandanteninterview ohne Selbstbelastung:..."
+description: "Wenn es um Dsv Sanktion Mandanteninterview Ohne Selbstbelastung in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Datenschutzrecht-Brückenskill: Mandanteninterview ohne Selbstbelastung: Fakten sammeln, ohne neue Eingeständnisse, überschießende Datenoffenlegung oder unkluge Wertungen zu produzieren

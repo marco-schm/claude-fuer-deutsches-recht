@@ -1,6 +1,6 @@
 ---
 name: betriebsuebergang-widerspruch-paragraf-613a-bgb-spaetlauf
-description: "Betriebsuebergang Widerspruchsrecht bei mangelhafter Unterrichtung mit Paragraf 613a VI BGB und BAG 8 AZR 336/19."
+description: "Wenn es um Betriebsuebergang Widerspruch Paragraf 613a BGB Spaetlauf in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsuebergang Widerspruch Paragraf 613a BGB Spaetlauf

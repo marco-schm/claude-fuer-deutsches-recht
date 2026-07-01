@@ -1,6 +1,6 @@
 ---
 name: verguetung-vermittler-dreiecksverhaeltnis-vhs
-description: "Prüft Stundenhonorar, Pauschale, Erfolgshonorar, Retainer, Ausfallvergütung und wirtschaftliche Chance im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Vergütung Zeit oder Erfolg in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vergütung Zeit oder Erfolg

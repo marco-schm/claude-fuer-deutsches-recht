@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Phishing-Vorfall-Prüfer: stimmt Adressat (Geschädigtes Unternehmen, Mitarbeiter, Bank), Frist (Art. 33 DSGVO 72h) und Form auf den Zweck ab — typische Outputs: Vorfallsmeldung Art. 33 DSGVO, BSI-Meldung NIS2, Strafanzeige § 263a StGB."
+description: "Wenn es um Output wählen in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

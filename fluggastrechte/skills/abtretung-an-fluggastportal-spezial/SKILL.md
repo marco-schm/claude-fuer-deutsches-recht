@@ -1,6 +1,6 @@
 ---
 name: abtretung-an-fluggastportal-spezial
-description: "Abtretung an Fluggastrechte-Portale (Flightright, EUclaim, AirHelp): Wirksamkeit nach RDG seit 2021, Provisionen, Vertragsklauseln gegenueber Mandanten. Eigene Vertretung gegen Portale, Vor- und Nachteile der Direktklage gegenueber Portal-Abtretung. Mustertexte."
+description: "Wenn es um Abtretung an Fluggastportale in Fluggastrechte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Abtretung an Fluggastportale

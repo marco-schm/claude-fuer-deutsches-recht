@@ -1,6 +1,6 @@
 ---
 name: richterbeurteilung-praesidialrat
-description: "Richterbeurteilung, Präsidialrat, Richterwahlausschuss und Beteiligung vor Ernennung im Beamtenrecht."
+description: "Wenn es um Richterbeurteilung Praesidialrat in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Richterbeurteilung Praesidialrat

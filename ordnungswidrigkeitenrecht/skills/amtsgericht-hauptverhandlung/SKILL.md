@@ -1,6 +1,6 @@
 ---
 name: amtsgericht-hauptverhandlung
-description: "Ordnungswidrigkeitenrecht: Amtsgericht Hauptverhandlung. Amtsgericht Hauptverhandlung im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht."
+description: "Wenn es um Amtsgericht Hauptverhandlung in Ordnungswidrigkeitenrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Amtsgericht Hauptverhandlung

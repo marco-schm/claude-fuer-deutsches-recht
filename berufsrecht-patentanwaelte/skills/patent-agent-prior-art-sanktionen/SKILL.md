@@ -1,6 +1,6 @@
 ---
 name: patent-agent-prior-art-sanktionen
-description: "Patentanwälte: patent agent title und werbung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Patent Agent Prior Art Sanktionen in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: patent agent title und werbung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: wohnhaus-ddr-enteignung-fristproblem-m
-description: "Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Fristproblem markieren im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Wohnhaus Ddr Enteignung Fristproblem M in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnhaus Ddr Enteignung Fristproblem M

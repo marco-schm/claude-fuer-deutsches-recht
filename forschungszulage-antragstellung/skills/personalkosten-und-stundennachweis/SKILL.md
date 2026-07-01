@@ -1,6 +1,6 @@
 ---
 name: personalkosten-und-stundennachweis
-description: "Foerderfaehige Personalkosten der Forschungszulage: Bruttoarbeitslohn plus Arbeitgeberanteile, Stundenpauschale 70 Euro Eigenunternehmer, Auftragsforschung 60 Prozent (KMU 70 Prozent). Stundennachweissystem: tagesgenau, Aufgabenbezug, Plausibilitaet. Typische Prüfungsfeststellungen des Finanzamt..."
+description: "Wenn es um FZ: Personal und Stundennachweis in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # FZ: Personal und Stundennachweis

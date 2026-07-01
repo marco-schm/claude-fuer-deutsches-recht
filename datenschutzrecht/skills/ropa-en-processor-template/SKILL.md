@@ -1,6 +1,6 @@
 ---
 name: ropa-en-processor-template
-description: "Full English-language template for the Records of Processing Activities (RoPA) of the processor under Article 30(2) GDPR. Four mandatory contents, controller list, processing categories, third-country transfers, sub-processor annex. For hosting providers, payroll, IT outsourcing, and cloud vendor..."
+description: "Wenn es um Records of Processing Activities (RoPA) – Processor Template (English) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Records of Processing Activities (RoPA) – Processor Template (English)

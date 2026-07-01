@@ -1,6 +1,6 @@
 ---
 name: iwr-icc-uncitral-schiedsverfahren
-description: "Mandant hat Schiedsklausel und will internationales Schiedsverfahren einleiten oder sich verteidigen: ICC UNCITRAL SIAC HKIAC Schiedsverfahren. Prüfraster:..."
+description: "Wenn es um Iwr Icc Uncitral Schiedsverfahren in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandant hat Schiedsklausel und will internationales Schiedsverfahren einleiten oder sich verteidigen

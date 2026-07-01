@@ -1,6 +1,6 @@
 ---
 name: ki-erfindung-und-erfinderbenennung-kaltstart
-description: "Patentanwälte: ki erfindung und erfinderbenennung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Ki Erfindung Und Erfinderbenennung Kaltstart in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: ki erfindung und erfinderbenennung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

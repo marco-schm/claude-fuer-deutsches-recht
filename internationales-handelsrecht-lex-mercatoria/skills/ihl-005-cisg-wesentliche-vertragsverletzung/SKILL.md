@@ -1,6 +1,6 @@
 ---
 name: ihl-005-cisg-wesentliche-vertragsverletzung
-description: "Internationales Handelsrecht und Lex Mercatoria: CISG Wesentliche Vertragsverletzung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um CISG Wesentliche Vertragsverletzung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CISG Wesentliche Vertragsverletzung

@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-zivile-bundeswehrbeschaeftigte
-description: "Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft TVöD-Anwendung, Personalrat BPersVG, Kündigung, Versetzung und Rechtsweg. Norm-/Quellenanker: TVöD Bund, BPersVG, KSchG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Arbeitsrecht für zivile Bundeswehrbeschäftigte in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsrecht für zivile Bundeswehrbeschäftigte

@@ -1,6 +1,6 @@
 ---
 name: automotive-supply-chain
-description: "Automobilzuliefererkette China: Einzelteile und Module aus VR China unter EU-Anti-Dumping-Watch (E-Fahrzeuge), LkSG-Risikoanalyse Tier-1 bis Tier-n, XUAR-Bezüge (Aluminium, Baumwolle, Polysilizium), Dual-Use-Prüfung Elektronik-ECU, EU-Batterie-VO 2023/1542 Supply Chain Due Diligence. Output: Auto..."
+description: "Wenn es um Automotive-Lieferkette China: Anti-Dumping/LkSG/Batterie-VO in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Automotive-Lieferkette China: Anti-Dumping/LkSG/Batterie-VO

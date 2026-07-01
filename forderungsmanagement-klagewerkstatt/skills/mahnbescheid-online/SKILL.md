@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid-online
-description: "Mahnbescheid (Paragrafen 688-703d ZPO) online beantragen: zentrales Mahngericht je Bundesland, online-mahnbescheid.de, Widerspruchsfrist 2 Wochen Paragraf 692 ZPO, Vollstreckungsbescheid Paragraf 699 ZPO. Vorteile gegenueber Klage: niedrigere Kosten, schnellere Titulierung. Output: Prüfung ob MB sinnvoll + Antragsdaten."
+description: "Wenn es um Mahnbescheid online in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mahnbescheid online

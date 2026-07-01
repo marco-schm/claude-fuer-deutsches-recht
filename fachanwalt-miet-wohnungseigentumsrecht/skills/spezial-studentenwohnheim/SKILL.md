@@ -1,6 +1,6 @@
 ---
 name: spezial-studentenwohnheim
-description: "Studentenwohnheim: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Sonderregeln, Rotationskonzept, Kündigung, Mieterschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Studentenwohnheim in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Studentenwohnheim

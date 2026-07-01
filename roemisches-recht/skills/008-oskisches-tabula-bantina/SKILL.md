@@ -1,6 +1,6 @@
 ---
 name: 008-oskisches-tabula-bantina
-description: "Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht im Römisches Recht: Bearbeite Oskisches Recht Tabula Bantina und Volksrecht im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen li..."
+description: "Wenn es um Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht in Römisches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht

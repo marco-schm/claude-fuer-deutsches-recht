@@ -1,6 +1,6 @@
 ---
 name: forderung-gegen-verbraucher
-description: "Forderung gegen Verbraucher: Verbraucherschutzregeln nach Paragraf 13 BGB, AGB-Kontrolle Paragrafen 305-309 BGB, Widerrufsrecht bei Fernabsatz Paragrafen 312g und 355 BGB, Belehrungspflicht. Verzugszinsen 5 Prozentpunkte ueber Basiszinssatz Paragraf 288 Abs. 1 BGB. Streitwert AG (bis 10000 EUR ab 01.01.2026). Gerichtsstand Wohns..."
+description: "Wenn es um Forderung gegen Verbraucher in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Forderung gegen Verbraucher

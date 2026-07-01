@@ -1,6 +1,6 @@
 ---
 name: valuation-enterprise
-description: "Prüft valuation evidence for plan, cramdown, adequate protection, 363 sale, solvency and fraudulent transfer im US Bankruptcy Code."
+description: "Wenn es um Enterprise Valuation in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Enterprise Valuation

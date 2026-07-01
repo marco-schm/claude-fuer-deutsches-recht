@@ -1,6 +1,6 @@
 ---
 name: parteivermoegen-grundbuch-auswerten
-description: "Einigungsvertrag und Vermögensrecht: Parteivermögen: Grundbuch auswerten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Parteivermoegen Grundbuch Auswerten in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parteivermoegen Grundbuch Auswerten

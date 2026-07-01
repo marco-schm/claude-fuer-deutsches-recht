@@ -1,6 +1,6 @@
 ---
 name: designportfolio-startup-designrecherche
-description: "Designportfolio für Start-ups und KMU aufbauen: schnelle Anmeldung, Budget, Offenbarung, Investorenfähigkeit, Registerpflege und Copycat-Monitoring im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Designportfolio Startup in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Designportfolio Startup

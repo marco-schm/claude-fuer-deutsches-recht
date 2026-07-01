@@ -1,6 +1,6 @@
 ---
 name: gbr-egbr-grundbuch
-description: "Prüft Gesellschaftsregister, Voreintragung, Vertretung, Gesellschafterwechsel und MoPeG-Folgen im Grundbuchamt Praxis."
+description: "Wenn es um GbR/eGbR im Grundbuch in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GbR/eGbR im Grundbuch

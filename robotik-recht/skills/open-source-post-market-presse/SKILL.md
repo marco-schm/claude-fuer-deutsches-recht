@@ -1,6 +1,6 @@
 ---
 name: open-source-post-market-presse
-description: "Sammelt FOSS, SBOM, Lizenzen, Security Advisories, Maintainer-Risiken und regulatorische Verantwortungsfragen im Robotik-Recht."
+description: "Wenn es um Open Source und SBOM in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Open Source Post Market Presse; Arbeitsfeld: robotik-recht."
 ---
 
 # Open Source und SBOM

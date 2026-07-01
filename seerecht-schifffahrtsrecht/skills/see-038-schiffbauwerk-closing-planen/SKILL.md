@@ -1,6 +1,6 @@
 ---
 name: see-038-schiffbauwerk-closing-planen
-description: "See- und Schifffahrtsrecht: Schiffbauwerk: Closing planen. Closing planen für Schiffbauwerk im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schiffbauwerk Closing Planen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffbauwerk Closing Planen

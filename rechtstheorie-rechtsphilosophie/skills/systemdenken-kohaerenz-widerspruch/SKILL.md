@@ -1,6 +1,6 @@
 ---
 name: systemdenken-kohaerenz-widerspruch
-description: "Prüft, wann System, Kohärenz und Widerspruchsfreiheit gute Argumente sind und wann sie Rechtsfortbildung tarnen."
+description: "Wenn es um Systemdenken und Kohärenz in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Systemdenken und Kohärenz

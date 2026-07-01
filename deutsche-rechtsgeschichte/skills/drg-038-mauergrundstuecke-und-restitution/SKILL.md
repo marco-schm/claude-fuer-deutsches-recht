@@ -1,6 +1,6 @@
 ---
 name: drg-038-mauergrundstuecke-und-restitution
-description: "Deutsche Rechtsgeschichte: Mauergrundstuecke Und Restitution. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Mauergrundstuecke Und Restitution in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mauergrundstuecke Und Restitution

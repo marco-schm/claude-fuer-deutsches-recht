@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Allgemeiner Einstieg ins Telekommunikationsrecht: Anschluss, Internet, Mobilfunk, Anbieterwechsel, BNetzA-Bescheid, Frequenz, Nummerierung, Marktmacht, Datenschutz und Sicherheitsvorfall sortieren."
+description: "Wenn es um Telekommunikationsrecht: Kaltstart und Rechtsweg-Triage in Telekommunikationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Telekommunikationsrecht: Kaltstart und Rechtsweg-Triage

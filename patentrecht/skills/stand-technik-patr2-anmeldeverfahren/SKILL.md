@@ -1,6 +1,6 @@
 ---
 name: stand-technik-patr2-anmeldeverfahren
-description: "Plant eine Stand-der-Technik-Recherche: Suchbegriffe, CPC/IPC-Klassen, Datenbanken, Suchstrings, Trefferbewertung und Übergabe an das Patentrecherche-Plugin im Patentrecht."
+description: "Wenn es um Stand-der-Technik-Recherche — Workflow in patentrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stand-der-Technik-Recherche — Workflow

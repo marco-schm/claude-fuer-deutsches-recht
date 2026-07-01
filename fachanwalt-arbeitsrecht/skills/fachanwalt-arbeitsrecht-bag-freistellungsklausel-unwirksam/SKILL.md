@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam
-description: "Workflow-Skill zu fachanwalt arbeitsrecht bag freistellungsklausel unwirksam. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Wenn es um Rechtsprechung live prüfen in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam; Arbeitsfeld: Fachanwalt Arbeitsrecht."
 ---
 
 # Rechtsprechung live prüfen

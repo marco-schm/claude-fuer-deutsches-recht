@@ -1,6 +1,6 @@
 ---
 name: onboarding-mandatsannahme
-description: "Erstgespraech-Leitfaden für steuerrechtliche Mandate. Anwendungsfall Mandant kommt mit Bescheid Prüfungsanordnung oder Vorladung; Anwalt oder Steuerberater muss in 30 Minuten Sachverhalt Fristen und Risiko klären. Behandelt Mandantenfragebogen Interessenkonflikt § 43a BRAO § 57 StBerG Vollmacht..."
+description: "Wenn es um Mandatsannahme im Steuerrecht — Erstgespraech und Risiko-Triage in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandatsannahme im Steuerrecht — Erstgespraech und Risiko-Triage

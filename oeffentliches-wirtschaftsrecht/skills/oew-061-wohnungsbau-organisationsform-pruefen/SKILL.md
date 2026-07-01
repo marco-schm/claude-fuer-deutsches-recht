@@ -1,6 +1,6 @@
 ---
 name: oew-061-wohnungsbau-organisationsform-pruefen
-description: "Öffentliches Wirtschaftsrecht: Wohnungsbau: Organisationsform prüfen. Organisationsform prüfen für Wohnungsbau im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Wohnungsbau Organisationsform Pruefen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnungsbau Organisationsform Pruefen

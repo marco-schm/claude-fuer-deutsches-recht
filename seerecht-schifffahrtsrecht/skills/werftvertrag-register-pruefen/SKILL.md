@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-register-pruefen
-description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel prüft Schiffbauwerksregister ab Kiellegung auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Klaert Lastenfreiheit vor..."
+description: "Wenn es um Werftvertrag – Registerprüfung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Werftvertrag – Registerprüfung

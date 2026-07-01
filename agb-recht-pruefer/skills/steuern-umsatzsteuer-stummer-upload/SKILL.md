@@ -1,6 +1,6 @@
 ---
 name: steuern-umsatzsteuer-stummer-upload
-description: "Klausel-Fachmodul für Steürn Umsatzsteür: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung im AGB-Recht."
+description: "Wenn es um Steürn Umsatzsteür in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Steuern Umsatzsteuer Stummer Upload; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Steürn Umsatzsteür

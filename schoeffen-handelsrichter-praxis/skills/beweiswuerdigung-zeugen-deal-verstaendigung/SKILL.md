@@ -1,6 +1,6 @@
 ---
 name: beweiswuerdigung-zeugen-deal-verstaendigung
-description: "Beweiswürdigung von Zeugen: erklärt Wahrnehmung, Erinnerung, Aussagekonstanz und Vorsicht vor Bauchgefühl für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Beweiswürdigung von Zeugen in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweiswürdigung von Zeugen

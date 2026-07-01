@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz-ersatzkraefte
-description: "Prüft Eilrechtsschutz, Aussetzung, Vollziehung und Zahlungsdruck bei Beitrags-/Statusstreit im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Einstweiliger Rechtsschutz Sozialgericht in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstweiliger Rechtsschutz Sozialgericht

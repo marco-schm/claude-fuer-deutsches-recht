@@ -1,6 +1,6 @@
 ---
 name: vifr-planfeststellung-strasse-bauleiter
-description: "Bauleiter Planfeststellung Strasse FStrG: Antragsunterlagen, UVP, Anhörungsverfahren, Beschluss: Prüfraster für Vorhabentraeger und Einwender."
+description: "Wenn es um Vifr Planfeststellung Strasse Bauleiter in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bauleiter Planfeststellung Strasse FStrG: Antragsunterlagen, UVP, Anhörungsverfahren, Beschluss

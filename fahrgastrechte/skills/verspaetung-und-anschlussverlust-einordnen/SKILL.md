@@ -1,6 +1,6 @@
 ---
 name: verspaetung-und-anschlussverlust-einordnen
-description: "Ordnet das Stoerungsereignis rechtlich ein: Verspaetung (Art. 19 VO 2021/782 bei mindestens 60 Min Endziel), Zugausfall (Art. 18), verpasster Anschluss unter Durchgangsfahrkarte (Art. 12 Abs. 3) oder Vorverlegung. Differenzierung Fernverkehr vs SPNV (mit § 11 EVO 20 Min Schwelle). Behandelt Mehrf..."
+description: "Wenn es um Verspätung, Zugausfall oder Anschlussverlust einordnen in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verspätung, Zugausfall oder Anschlussverlust einordnen

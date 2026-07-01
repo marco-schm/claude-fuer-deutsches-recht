@@ -1,6 +1,6 @@
 ---
 name: nuernberger-prozesse-und-dokumentenbasis
-description: "Nutzt Nürnberger Verfahren und Folgeprozesse als Quellenscharnier für Rechtsgeschichte: Dokumentensicherung, Verantwortlichkeit staatlicher Akteure, Einsatzgruppen, Juristenrollen und Völkerstrafrecht im Deutsche Rechtsgeschichte."
+description: "Wenn es um Nürnberger Prozesse als Dokumentenbasis in Deutsche Rechtsgeschichte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Nuernberger Prozesse Und Dokumentenbasis; Arbeitsfeld: Deutsche Rechtsgeschichte."
 ---
 
 # Nürnberger Prozesse als Dokumentenbasis

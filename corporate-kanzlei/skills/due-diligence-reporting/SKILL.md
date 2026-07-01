@@ -1,6 +1,6 @@
 ---
 name: due-diligence-reporting
-description: "DD-Reporting: Konsolidiert Legal, Tax, Financial und Commercial Due-Diligence-Workstreams zu einem integrierten DD-Bericht für M&A-Transaktionen. Normen: §§ 311 Abs. 2 und 444 BGB; SPA Representations & Warranties. Prüfraster: Executive Summary, Risikomatrix nach Workstreams, Priorisierung für SP"
+description: "Wenn es um Due Diligence Reporting in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Due Diligence Reporting; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # Due Diligence Reporting

@@ -1,6 +1,6 @@
 ---
 name: unidroit-force-majeure
-description: "Internationales Handelsrecht: Force Majeure nach UNIDROIT Principles Art. 7.1.7 und CISG Art. 79. Befreiungsvoraussetzungen, Hinweispflicht, Rechtsfolgen (kein Schadensersatz aber Aufhebungsrecht) und Abfassung von Force-Majeure-Klauseln im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Force Majeure: PICC Art. 7.1.7 und CISG Art. 79 in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Force Majeure: PICC Art. 7.1.7 und CISG Art. 79

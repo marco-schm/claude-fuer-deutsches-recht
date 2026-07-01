@@ -1,6 +1,6 @@
 ---
 name: kaltstart-bundesnetzagentur-mandat
-description: "Kaltstart Bundesnetzagentur-Mandat: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Wenn es um Kaltstart Bundesnetzagentur-Mandat in Bundesnetzagentur-Verfahren geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Bundesnetzagentur-Mandat

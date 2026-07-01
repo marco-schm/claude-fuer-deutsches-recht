@@ -1,6 +1,6 @@
 ---
 name: technische-stoerung-upload
-description: "Prüft Uploadstörung, Screenshot, Helpdesk, Fristwahrung und Wiedereinsetzung im Prüfungsrecht Hochschule."
+description: "Wenn es um Technische Störung beim Upload in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Technische Störung beim Upload

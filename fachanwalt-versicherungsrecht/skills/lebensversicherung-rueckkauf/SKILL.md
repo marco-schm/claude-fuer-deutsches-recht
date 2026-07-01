@@ -1,6 +1,6 @@
 ---
 name: lebensversicherung-rueckkauf
-description: "Fachanwalt Versicherungsrecht Lebensversicherung Rueckkauf: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Versicherungsrecht Lebensversicherung Rueckkauf: ordnet Normen, Nutzerangaben..."
+description: "Wenn es um Lebensversicherung Rueckkauf in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Versicherungsrecht Lebensversicherung Rueckkauf: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

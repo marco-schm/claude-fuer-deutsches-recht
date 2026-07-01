@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-008-erster-teil-titel-5-vertraege-allgemein-form
-description: "PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung

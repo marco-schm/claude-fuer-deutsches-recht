@@ -1,6 +1,6 @@
 ---
 name: hauptverhandlung-sta-vorbereitung
-description: "Hauptverhandlung vorbereiten: Praxis-Skill für neue Staatsanwälte zu Beweisthemen, Zeugen, Urkunden, Verständigung, Nebenklage und Reaktionsplan aus StA-Sicht ordnen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Hauptverhandlung vorbereiten in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Hauptverhandlung vorbereiten

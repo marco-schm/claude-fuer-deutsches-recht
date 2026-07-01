@@ -1,6 +1,6 @@
 ---
 name: nichtiger-vertrag-134-138-und-rueckforderung
-description: "Bei verbots- oder Sittenwidrigkeit die Rückforderung prägt. Normen: §§ 134 und 138 BGB; §§ 812 und 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentl..."
+description: "Wenn es um Nichtiger Vertrag nach Paragrafen 134 und 138 BGB in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nichtiger Vertrag nach §§ 134 und 138 BGB

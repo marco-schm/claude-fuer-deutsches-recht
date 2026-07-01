@@ -1,6 +1,6 @@
 ---
 name: budget-baseline-und-phasen
-description: "Budget Baseline und Phasenplan: steuert Budget nach Phasen, Annahmen, Exclusions, Triggern und Reforecast-Regeln aufsetzen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Budget Baseline und Phasenplan in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Budget Baseline und Phasenplan

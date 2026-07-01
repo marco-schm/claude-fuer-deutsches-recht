@@ -1,6 +1,6 @@
 ---
 name: euipo-internationaler-bezug-und-schnittstellen
-description: "EUIPO: Internationale Schnittstellen und Verfahren: Unionsmarke UMV, GGM-Verfahren, EUIPO-Beschwerdekammer, EuGH-Vorabentscheidungen, IR-Marke Madrider System, TM5/IP5, WIPO-Schnittstellen, nationale Desig..."
+description: "Wenn es um EUIPO: Internationale Schnittstellen und Verfahren in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EUIPO: Internationale Schnittstellen und Verfahren

@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-anwesenheit-73-owig-vertretung
-description: "Datenschutzrecht-Brückenskill: Anwesenheit und Entbindung § 73 OWiG: Erscheinenspflicht, Entbindung und Vertretung von Unternehmen und Organen im Termin steuern: Datenschutzrecht-Brückenskill: Anwesenheit und Entbindung § 73 OWiG: Erscheinenspflicht, Entbin..."
+description: "Wenn es um Dsv Sanktion Anwesenheit 73 Owig Vertretung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Anwesenheit und Entbindung § 73 OWiG: Erscheinenspflicht, Entbindung und Vertretung von Unternehmen und Organen im Termin steuern

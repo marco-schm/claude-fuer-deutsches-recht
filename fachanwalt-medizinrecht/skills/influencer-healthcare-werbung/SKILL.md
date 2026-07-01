@@ -1,6 +1,6 @@
 ---
 name: influencer-healthcare-werbung
-description: "Influencer Healthcare Werbung: moderner Medizinrechts-Skill für Ärztliche Influencer, Klinikmarketing, Kennzeichnung, Patientengeheimnis und irreführende Claims: Influencer Healthcare Werbung: moderner Medizinrechts-Skill für Ärztliche Influencer, Klinikmar..."
+description: "Wenn es um Influencer Healthcare Werbung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer Healthcare Werbung: moderner Medizinrechts-Skill für Ärztliche Influencer, Klinikmarketing, Kennzeichnung, Patientengeheimnis und irreführende Claims

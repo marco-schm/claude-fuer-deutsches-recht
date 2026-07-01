@@ -1,6 +1,6 @@
 ---
 name: flugzeugleasing-mandantenmemo
-description: "Anwalt schreibt Mandantenmemo für Leasinggeber oder Leasingnehmer zu komplexem Flugzeugleasing-Fall: IDERA-Entregistrierung Insolvenz Cape-Town-Remedies oder Wet-Lease-Genehmigung. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung im Luftrecht Flughafenrecht."
+description: "Wenn es um Flugzeugleasing – Mandantenmemo schreiben in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Flugzeugleasing – Mandantenmemo schreiben

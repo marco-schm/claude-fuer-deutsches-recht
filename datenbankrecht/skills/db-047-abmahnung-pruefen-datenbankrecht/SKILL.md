@@ -1,6 +1,6 @@
 ---
 name: db-047-abmahnung-pruefen-datenbankrecht
-description: "Datenbankrecht: Abmahnung prüfen Datenbankrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Abmahnung prüfen Datenbankrecht in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Abmahnung prüfen Datenbankrecht

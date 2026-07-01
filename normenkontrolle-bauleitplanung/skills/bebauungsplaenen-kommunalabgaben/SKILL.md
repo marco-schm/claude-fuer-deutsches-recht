@@ -1,6 +1,6 @@
 ---
 name: bebauungsplaenen-kommunalabgaben
-description: "Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bebauungsplaenen Kommunalabgaben; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg

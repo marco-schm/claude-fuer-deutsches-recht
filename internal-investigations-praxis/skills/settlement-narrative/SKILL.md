@@ -1,6 +1,6 @@
 ---
 name: settlement-narrative
-description: "Entwickelt das Settlement-Narrativ für Behörden und Öffentlichkeit – DPA/NPA-Formulierungen, Faktenbasis, Schuldanerkenntnis-Grenzen, Präzedenzwirkung im Internal Investigations Praxis."
+description: "Wenn es um Settlement-Narrativ und Verfahrensabschluss in Internal Investigations Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Settlement-Narrativ und Verfahrensabschluss

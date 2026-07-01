@@ -1,6 +1,6 @@
 ---
 name: invest-schutz-bit-icsid-c-284-16
-description: "Invest Schutz Bit Icsid C 284 16: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Invest Schutz Bit Icsid C 284 16 in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Invest Schutz Bit Icsid C 284 16

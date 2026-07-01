@@ -1,6 +1,6 @@
 ---
 name: designverletzung-gesamteindruck
-description: "Designverletzung anhand des Gesamteindrucks prüfen: angegriffene Ausführungsform, informierter Benutzer, Gestaltungsfreiheit, Merkmalsabstand und Verletzungsrisiko im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Designverletzung Gesamteindruck in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Designverletzung Gesamteindruck

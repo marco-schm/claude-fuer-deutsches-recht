@@ -1,6 +1,6 @@
 ---
 name: kanzlei-internationaler-bezug-und-schnittstellen
-description: "Kanzlei: Internationaler Bezug und Schnittstellen im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt: Kanzlei:..."
+description: "Wenn es um Kanzlei Internationaler Bezug Und Schnittstellen in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzlei: Internationaler Bezug und Schnittstellen im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

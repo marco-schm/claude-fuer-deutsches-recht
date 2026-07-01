@@ -1,6 +1,6 @@
 ---
 name: agrar-wolfsschaden-spezial
-description: "Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedigung, Herdenschutz-Förderung, Antrag bei Bewilligungsstelle, Klage bei Versagung: Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedig..."
+description: "Wenn es um Agrar Wolfsschaden Spezial in Fachanwalt Agrarrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedigung, Herdenschutz-Förderung, Antrag bei Bewilligungsstelle, Klage bei Versagung

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-atlas-ausfuhranmeldung-check
-description: "Qualitaetssicherung und Fehleranalyse von ATLAS-Ausfuhranmeldungen (EXA): Prüfung der Pflichtfelder nach UZK Art. 162-163 und DA Anhang B, Einreihung (KN-Code), Warenwerttaetigung, Verfahrenscodes, Lizenz- und Genehmigungshinweise sowie MRN-Status. Identifiziert typische Ablehnungsgruende in ATL..."
+description: "Wenn es um ATLAS-Ausfuhranmeldung: Qualitaetscheck und Fehlerkorrektur in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ATLAS-Ausfuhranmeldung: Qualitaetscheck und Fehlerkorrektur

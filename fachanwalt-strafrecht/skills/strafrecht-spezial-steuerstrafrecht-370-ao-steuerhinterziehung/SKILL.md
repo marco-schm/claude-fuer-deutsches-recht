@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-steuerstrafrecht-370-ao-steuerhinterziehung
-description: "Steuerhinterziehung nach Paragraph 370 AO: Vorsatztatbestand mit Verkuerzungserfolg. Drei Tathandlungen unrichtige Angaben pflichtwidriges Verschweigen Unterlassung. Schwellen besonders schwerer Fall Paragraph 370..."
+description: "Wenn es um Steuerhinterziehung nach Paragraph 370 AO in Fachanwalt Strafrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Steuerhinterziehung nach Paragraph 370 AO

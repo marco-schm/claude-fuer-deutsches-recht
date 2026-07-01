@@ -1,6 +1,6 @@
 ---
 name: erwerbsminderungsrente
-description: "Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist ausgesteuert und fragt nach Rentenanspruch: §§ 43 240 SGB VI. Prüfraster: volle..."
+description: "Wenn es um Erwerbsminderungsrente in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist ausgesteuert und fragt nach Rentenanspruch

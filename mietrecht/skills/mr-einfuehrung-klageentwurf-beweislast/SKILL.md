@@ -1,6 +1,6 @@
 ---
 name: mr-einfuehrung-klageentwurf-beweislast
-description: "Mietrecht einfuehrend: Wohnraum-, Gewerberaum-, Pacht-, Unter-, Index- und Staffelmiete. Schutzvorschriften pro Typ, Kuendigungsregime, typische Klauselrisiken. Entscheidungstabelle im Mietrecht."
+description: "Wenn es um Mietrecht: Vertragstypen in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mietrecht: Vertragstypen

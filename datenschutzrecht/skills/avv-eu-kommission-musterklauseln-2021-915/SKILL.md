@@ -1,6 +1,6 @@
 ---
 name: avv-eu-kommission-musterklauseln-2021-915
-description: "EU-Kommissions-Standardvertragsklauseln zwischen Verantwortlichem und Auftragsverarbeiter nach Beschluss (EU) 2021/915 vom 04.06.2021. Diese Klauseln sind nicht zu verwechseln mit den Drittlands-SCC nach Beschluss (EU) 2021/914. Anwendungsbereich Aufbau und Verwendung als Mustervertragsanlage. Ou..."
+description: "Wenn es um EU-Kommissions-Standardvertragsklauseln Controller-Processor (Beschluss (EU) 2021/915) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU-Kommissions-Standardvertragsklauseln Controller-Processor (Beschluss (EU) 2021/915)

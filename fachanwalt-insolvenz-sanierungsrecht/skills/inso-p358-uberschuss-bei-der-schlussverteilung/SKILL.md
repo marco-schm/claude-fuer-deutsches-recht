@@ -1,6 +1,6 @@
 ---
 name: inso-p358-uberschuss-bei-der-schlussverteilung
-description: "§ 358 InsO (Überschuss bei der Schlussverteilung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 358 InsO (Überschuss bei der Schlussverteilung) im Mandat prüfen: Normzweck, Tatbestand, B..."
+description: "Wenn es um Inso P358 Uberschuss Bei Der Schlussverteilung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 358 InsO (Überschuss bei der Schlussverteilung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: haptik-und-tastmarke
-description: "Haptik- und Tastmarken prüfen: Oberflächenstruktur, Materialgefühl, Darstellbarkeit, Unterscheidungskraft, Verkehrsdurchsetzung, Designschutz, UWG und Produktionsgeheimnisse im Markenrecht Fashion Luxus."
+description: "Wenn es um Tastmarken und Haptik-Marken in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Tastmarken und Haptik-Marken

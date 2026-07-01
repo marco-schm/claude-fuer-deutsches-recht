@@ -1,6 +1,6 @@
 ---
 name: workflow-mdr-und-gesundheitsrobotik
-description: "Routet Gesundheits-, Pflege-, Reha- und OP-Robotik nach MDR, MPDG, Datenschutz, Haftung und klinischen/produktbezogenen Nachweisen im Robotik-Recht."
+description: "Wenn es um MDR und Gesundheitsrobotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # MDR und Gesundheitsrobotik

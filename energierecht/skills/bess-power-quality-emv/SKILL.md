@@ -1,6 +1,6 @@
 ---
 name: bess-power-quality-emv
-description: "Prüft Oberschwingungen, Spannungshaltung, Umrichter, elektromagnetische Verträglichkeit und Nachbar-/Netzbetreiberforderungen im Energierecht."
+description: "Wenn es um Power Quality, EMV und Netzrückwirkungen in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Power Quality, EMV und Netzrückwirkungen

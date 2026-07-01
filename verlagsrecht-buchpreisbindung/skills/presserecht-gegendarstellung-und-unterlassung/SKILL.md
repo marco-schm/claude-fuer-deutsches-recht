@@ -1,6 +1,6 @@
 ---
 name: presserecht-gegendarstellung-und-unterlassung
-description: "Verlagsrecht: Presserecht, Gegendarstellung und Unterlassungsansprüche — Landespressegesetze, Meinungsfreiheit, Schmähkritik, Unterlassung und Schadensersatz bei Pressedelikten im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-031 · Presserecht, Gegendarstellung und Unterlassung in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-031 · Presserecht, Gegendarstellung und Unterlassung

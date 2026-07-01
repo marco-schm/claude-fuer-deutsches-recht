@@ -1,6 +1,6 @@
 ---
 name: bho-37-ueberplanmaessig-praktisch-anwe
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 37 Überplanmäßig praktisch anwenden. BHO § 37 Überplanmäßig praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret d..."
+description: "Wenn es um Bho 37 Ueberplanmaessig Praktisch Anwe in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 37 Ueberplanmaessig Praktisch Anwe

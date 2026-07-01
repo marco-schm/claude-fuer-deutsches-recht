@@ -1,6 +1,6 @@
 ---
 name: ifg-047-ifggebv-gebuehren-antrag-formulieren
-description: "Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Antrag formulieren. Antrag formulieren für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Ifggebv Gebuehren Antrag Formulieren in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ifggebv Gebuehren Antrag Formulieren

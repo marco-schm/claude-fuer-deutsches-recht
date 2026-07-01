@@ -1,6 +1,6 @@
 ---
 name: ksv-paedagogisch-mandanten-intake-mehrere
-description: "Prüft Schnittstelle zwischen Unterricht, Kunst, Publizistik, Künstlersozialversicherung und Beschäftigungsstatus im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um KSV pädagogisch-künstlerisch in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # KSV pädagogisch-künstlerisch

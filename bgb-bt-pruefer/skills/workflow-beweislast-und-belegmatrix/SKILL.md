@@ -1,6 +1,6 @@
 ---
 name: workflow-beweislast-und-belegmatrix
-description: "Beweislast und Belegmatrix im Schuldrecht BT: Beweislastverteilung, Umkehr, Anscheinsbeweis im BGB BT."
+description: "Wenn es um Workflow: Beweislast und Belegmatrix in BGB BT Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Auswahlstichwort: Workflow Beweislast Und Belegmatrix; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Workflow: Beweislast und Belegmatrix

@@ -1,6 +1,6 @@
 ---
 name: claims-proof-claim-501
-description: "Prüft claim filing, bar date, secured/unsecured/priority status, documentation and amendments im US Bankruptcy Code."
+description: "Wenn es um Proof of Claim Paragraf 501 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Proof of Claim § 501

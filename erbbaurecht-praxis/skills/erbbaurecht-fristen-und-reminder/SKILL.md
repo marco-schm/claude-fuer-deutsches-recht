@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-fristen-und-reminder
-description: "Baut Kalender für Zinsanpassung, Laufzeitende, Baupflicht, Versicherungen, Zustimmung und Berichtspflichten im Erbbaurecht Praxis."
+description: "Wenn es um Fristen und Reminder in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen und Reminder

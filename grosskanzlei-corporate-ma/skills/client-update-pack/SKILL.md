@@ -1,6 +1,6 @@
 ---
 name: client-update-pack
-description: "Client Update Pack für M&A-Mandanten: erstellt laufende Statusupdates, Weekly Reports, Entscheidungsvorlagen, Risikoampeln und naechste Mandanten-Requests."
+description: "Wenn es um Client Update Pack in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Client Update Pack

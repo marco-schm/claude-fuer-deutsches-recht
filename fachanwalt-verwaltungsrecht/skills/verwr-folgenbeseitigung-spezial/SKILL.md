@@ -1,6 +1,6 @@
 ---
 name: verwr-folgenbeseitigung-spezial
-description: "Spezialfall Folgenbeseitigungsanspruch: Grundlage Art: 20 Abs. 3 GG, Voraussetzungen rechtswidriger Eingriff, fortdauernde Beeintraechtigung, Wiederherstellungsmoeglichkeit. Prüfraster für Klage."
+description: "Wenn es um Verwr Folgenbeseitigung Spezial in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Folgenbeseitigungsanspruch: Grundlage Art

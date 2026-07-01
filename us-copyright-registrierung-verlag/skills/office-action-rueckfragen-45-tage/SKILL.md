@@ -1,6 +1,6 @@
 ---
 name: office-action-rueckfragen-45-tage
-description: "Office Actions und Rückfragen: Monitoring, Antwortfristen, fehlende Angaben, Claim-Begrenzung, Nachlieferungen und Eskalation zu US-Counsel im Us Copyright Registrierung Verlag."
+description: "Wenn es um Office Actions und Rückfragen in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Office Actions und Rückfragen

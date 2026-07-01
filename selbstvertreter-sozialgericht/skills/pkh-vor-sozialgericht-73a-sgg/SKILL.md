@@ -1,6 +1,6 @@
 ---
 name: pkh-vor-sozialgericht-73a-sgg
-description: "Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG i.V.m. ZPO. Voraussetzungen Erfolgsaussicht Mutwilligkeit Erklärung wirtschaftlicher Verhältnisse Anwaltsbeiordnung."
+description: "Wenn es um Prozesskostenhilfe vor dem SG — Paragraf 73a SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prozesskostenhilfe vor dem SG — § 73a SGG

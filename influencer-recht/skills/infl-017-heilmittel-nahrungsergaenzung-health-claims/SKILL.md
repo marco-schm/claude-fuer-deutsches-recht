@@ -1,6 +1,6 @@
 ---
 name: infl-017-heilmittel-nahrungsergaenzung-health-claims
-description: "Influencer-Recht: Heilmittel Nahrungsergänzung Health Claims mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Heilmittel Nahrungsergänzung Health Claims in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Heilmittel Nahrungsergänzung Health Claims

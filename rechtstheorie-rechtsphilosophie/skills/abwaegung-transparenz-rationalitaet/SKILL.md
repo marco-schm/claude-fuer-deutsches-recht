@@ -1,6 +1,6 @@
 ---
 name: abwaegung-transparenz-rationalitaet
-description: "Macht Abwaegungen transparent: Material, Gewichtung, Intensität, Kontrollmaßstab, Abwaegungslast und Ergebnisoffenheit."
+description: "Wenn es um Abwägung und Rationalität in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abwägung und Rationalität

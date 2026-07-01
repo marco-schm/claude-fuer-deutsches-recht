@@ -1,6 +1,6 @@
 ---
 name: debt-equity-swap-pe
-description: "Prüft Forderungsumwandlung in Eigenkapital, Bewertung, Rang, Planverfahren, Steuer und Governance im Private Equity Praxis."
+description: "Wenn es um Debt-Equity-Swap in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Debt-Equity-Swap

@@ -1,6 +1,6 @@
 ---
 name: plan-planvollzug-monitoring
-description: "Planvollzug nach Bestätigung ueberwachen Zahlungen kontrollieren und Abweichungen dokumentieren. §§ 248 261 InsO Planueberwachung §§ 69 72 StaRUG. Prüfraster: Bedingungen Fälligkeiten Quoten Zahlstellen Covenants Wiederaufleben Abweichungslog. Output: Planvollzugskalender Monitoringbericht Abweic"
+description: "Wenn es um IV-integrierte Planvollzug und Monitoring in Insolvenzverwaltung - IV-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # IV-integrierte Planvollzug und Monitoring

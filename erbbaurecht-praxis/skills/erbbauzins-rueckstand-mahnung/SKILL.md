@@ -1,6 +1,6 @@
 ---
 name: erbbauzins-rueckstand-mahnung
-description: "Erstellt Mahnung, Zahlungsplan, Sicherheitencheck, Heimfallvorprüfung und Vergleichsvorschlag im Erbbaurecht Praxis."
+description: "Wenn es um Erbbauzinsrückstand in Erbbaurecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Erbbauzinsrückstand

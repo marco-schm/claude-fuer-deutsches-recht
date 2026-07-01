@@ -1,6 +1,6 @@
 ---
 name: semesterende-verhandlung-vergleich-und-eskalation
-description: "Semesterende: Verhandlung, Vergleich und Eskalation im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Semesterende: Verhandlung, Vergleich und Eskalation in Plugin für die studentische Rechtsberatungsstelle geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Semesterende: Verhandlung, Vergleich und Eskalation

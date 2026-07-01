@@ -1,6 +1,6 @@
 ---
 name: ins-031-guidance-update
-description: "Spezialskill Insiderrecht fuer Guidance Update: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Guidance Update in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Guidance Update

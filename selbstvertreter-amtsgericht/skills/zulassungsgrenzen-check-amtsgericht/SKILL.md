@@ -1,6 +1,6 @@
 ---
 name: zulassungsgrenzen-check-amtsgericht
-description: "Zulässigkeits-, Zuständigkeits- und Rechtsmittelgrenzen für Selbstvertreter vor dem Amtsgericht: § 23 GVG 10.000 EUR, Sonderzuständigkeiten, § 495a ZPO 1.000 EUR, § 511 ZPO Berufungsbeschwer 1.000 EUR, Übergangsfälle, Anwaltszwang und rote Flaggen."
+description: "Wenn es um Zulassungsgrenzen-Check Amtsgericht in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zulassungsgrenzen-Check Amtsgericht

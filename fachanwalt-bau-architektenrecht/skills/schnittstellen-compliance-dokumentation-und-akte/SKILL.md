@@ -1,6 +1,6 @@
 ---
 name: schnittstellen-compliance-dokumentation-und-akte
-description: "Schnittstellen: Compliance-Dokumentation und Aktenvermerk: Schnittstellen: Compliance-Dokumentation und Aktenvermerk."
+description: "Wenn es um Schnittstellen: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Bau Architektenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schnittstellen: Compliance-Dokumentation und Aktenvermerk

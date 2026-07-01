@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-unternehmensgeldbusse-nach-deutsche-wohnen
-description: "Rechtsabteilungs-Fachmodul für Unternehmensgeldbuße nach Deutsche Wohnen: Rechtsabteilungen verteidigen Bußgelder ohne die falsche Fixierung auf eine identifizierte natürliche Täterperson: Rechtsabteilungs-Fachmodul für Unternehmensgeldbuße nach Deutsche Wo..."
+description: "Wenn es um Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsabteilungs-Fachmodul für Unternehmensgeldbuße nach Deutsche Wohnen: Rechtsabteilungen verteidigen Bußgelder ohne die falsche Fixierung auf eine identifizierte natürliche Täterperson

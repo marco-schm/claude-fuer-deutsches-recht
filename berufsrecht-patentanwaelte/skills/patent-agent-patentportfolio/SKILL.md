@@ -1,6 +1,6 @@
 ---
 name: patent-agent-patentportfolio
-description: "Patentanwälte: patent agent title und werbung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Patent Agent Patentportfolio in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: patent agent title und werbung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

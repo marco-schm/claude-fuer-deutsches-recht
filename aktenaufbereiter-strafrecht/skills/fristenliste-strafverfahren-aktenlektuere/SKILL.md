@@ -1,6 +1,6 @@
 ---
 name: fristenliste-strafverfahren-aktenlektuere
-description: "Fristenliste für ein Strafverfahren: Einspruch gegen Strafbefehl § 410 StPO, Berufung § 314 StPO, Revision § 341 sowie § 345 StPO, Rechtsmittel § 311 StPO, Wiedereinsetzung § 44 StPO, Untersuchungshaft-Prüfung § 117 sowie § 121 StPO. Datum berechnen, Fristbeginn dokumentieren, Verlaengerungsopti..."
+description: "Wenn es um Fristenliste Strafverfahren in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristenliste Strafverfahren

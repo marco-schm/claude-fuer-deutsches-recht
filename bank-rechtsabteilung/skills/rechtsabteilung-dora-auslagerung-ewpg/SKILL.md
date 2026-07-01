@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-dora-auslagerung-ewpg
-description: "Rechtsabteilungs-Fachmodul für DORA-Auslagerung bei kritischem ICT-Dienstleister: ICT-Verträge, Exit-Pläne, Register of Information und Vorstandsvorlagen werden in einem Stresscheck zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Bank-Rechtsabteilung."
+description: "Wenn es um Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister

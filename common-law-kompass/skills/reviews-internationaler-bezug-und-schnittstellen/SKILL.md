@@ -1,6 +1,6 @@
 ---
 name: reviews-internationaler-bezug-und-schnittstellen
-description: "Reviews: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Reviews: Internationaler Bezug und Schnittstellen in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reviews: Internationaler Bezug und Schnittstellen

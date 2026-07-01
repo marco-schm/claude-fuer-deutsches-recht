@@ -1,6 +1,6 @@
 ---
 name: kaltstart-bundeshaushalt-verstehen
-description: "Haushaltsrecht BHO Bund und Länder: Kaltstart Bundeshaushalt verstehen. Kaltstart Bundeshaushalt verstehen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Kaltstart Bundeshaushalt Verstehen in Haushaltsrecht BHO Bund und Länder geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Bundeshaushalt Verstehen

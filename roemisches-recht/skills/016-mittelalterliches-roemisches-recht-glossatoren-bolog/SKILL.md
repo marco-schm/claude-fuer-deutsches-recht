@@ -1,6 +1,6 @@
 ---
 name: 016-mittelalterliches-roemisches-recht-glossatoren-bolog
-description: "Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna im Römisches Recht."
+description: "Wenn es um Rom Mittelalterliches Roemisches Recht Glossatoren Bolog in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Mittelalterliches Roemisches Recht Glossatoren Bolog

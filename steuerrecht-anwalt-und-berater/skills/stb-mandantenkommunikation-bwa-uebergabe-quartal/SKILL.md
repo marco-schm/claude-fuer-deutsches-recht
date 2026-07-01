@@ -1,6 +1,6 @@
 ---
 name: stb-mandantenkommunikation-bwa-uebergabe-quartal
-description: "Quartalsgespraech BWA-Übergabe. Anwendungsfall systematische Quartalskommunikation mit Mandant Ergebnisbesprechung Steuerthemen Investitionsplanung. Methodik Termin-Vorbereitung Agenda Dokumentation. Output Quartalsgespraechs-Protokoll Massnahmen-Liste."
+description: "Wenn es um Quartalsgespraech — BWA-Uebergabe mit dem Mandanten in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quartalsgespraech — BWA-Uebergabe mit dem Mandanten

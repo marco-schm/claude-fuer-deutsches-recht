@@ -1,6 +1,6 @@
 ---
 name: see-100-kreuzfahrtschiff-risiko-memo-schreiben
-description: "See- und Schifffahrtsrecht: Kreuzfahrtschiff: Risiko memo schreiben. Risiko memo schreiben für Kreuzfahrtschiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kreuzfahrtschiff Risiko Memo Schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kreuzfahrtschiff Risiko Memo Schreiben

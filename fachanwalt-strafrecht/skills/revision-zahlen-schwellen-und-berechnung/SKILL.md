@@ -1,6 +1,6 @@
 ---
 name: revision-zahlen-schwellen-und-berechnung
-description: "Revision: Zahlen, Schwellenwerte und Berechnung: Revision: Zahlen, Schwellenwerte und Berechnung."
+description: "Wenn es um Revision: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Strafrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Revision: Zahlen, Schwellenwerte und Berechnung

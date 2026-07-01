@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-verteidigerrolle-dsb-gf-und-externe-berater
-description: "Datenschutzrecht-Brückenskill: Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater: Datenschutzbeauftragten, Geschäftsleitung, externe Anwälte, IT-Forensik und PR-Beratung konfliktfrei koordinieren: Datenschutzrecht-Brückenskill: Rollenklärung Ve..."
+description: "Wenn es um Dsv Sanktion Verteidigerrolle Dsb Gf Und Externe Berater in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater: Datenschutzbeauftragten, Geschäftsleitung, externe Anwälte, IT-Forensik und PR-Beratung konfliktfrei koordinieren

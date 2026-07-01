@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmleh
-description: "Ressortaufgaben BMLEH: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium für Landwirtschaft; Ernaehrung und Heimat. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bunde..."
+description: "Wenn es um Ressortaufgaben BMLEH in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressortaufgaben BMLEH

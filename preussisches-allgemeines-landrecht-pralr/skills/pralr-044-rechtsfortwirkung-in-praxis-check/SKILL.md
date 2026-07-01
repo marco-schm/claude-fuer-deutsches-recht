@@ -1,6 +1,6 @@
 ---
 name: pralr-044-rechtsfortwirkung-in-praxis-check
-description: "PrALR: heutige Praxisfälle mit möglicher Altrechtsfortwirkung strukturiert prüfen und Live-Recherche anfordern."
+description: "Wenn es um Fortwirkung in Praxis in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 044 Rechtsfortwirkung In Praxis Check; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Fortwirkung in Praxis

@@ -1,6 +1,6 @@
 ---
 name: personalakten-lohnsteuer-geheimnis-kaltstart
-description: "Steuerberater: personalakten lohnsteuer geheimnis - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Personalakten Lohnsteuer Geheimnis Kaltstart in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: personalakten lohnsteuer geheimnis - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

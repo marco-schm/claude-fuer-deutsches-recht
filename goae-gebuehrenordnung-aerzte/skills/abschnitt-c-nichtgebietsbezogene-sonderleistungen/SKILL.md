@@ -1,6 +1,6 @@
 ---
 name: abschnitt-c-nichtgebietsbezogene-sonderleistungen
-description: "Abschnitt C nichtgebietsbezogene Sonderleistungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise im Goae Gebührenordnung A..."
+description: "Wenn es um Abschnitt C nichtgebietsbezogene Sonderleistungen in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abschnitt C nichtgebietsbezogene Sonderleistungen

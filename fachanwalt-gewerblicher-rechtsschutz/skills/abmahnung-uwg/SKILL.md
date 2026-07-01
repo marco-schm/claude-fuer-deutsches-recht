@@ -1,6 +1,6 @@
 ---
 name: abmahnung-uwg
-description: "UWG-Abmahnung prüfen versenden oder auf Eingang reagieren: § 8 UWG Unterlassungsanspruch §§ 3 4 5 UWG Verbotsgrunde §§ 12 13 UWG Durchsetzung. Prüfraster: Verletzungshandlung Abmahnberechtigung Fris..."
+description: "Wenn es um UWG-Abmahnung prüfen versenden oder auf Eingang reagieren in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # UWG-Abmahnung prüfen versenden oder auf Eingang reagieren

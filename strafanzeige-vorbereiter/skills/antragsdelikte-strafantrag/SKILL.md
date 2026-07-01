@@ -1,6 +1,6 @@
 ---
 name: antragsdelikte-strafantrag
-description: "Strafantragsfrist und Antragsberechtigung bei Beleidigung, Hausfriedensbruch, einfacher Körperverletzung und weiteren Antragsdelikten im Strafanzeige-Vorbereitung."
+description: "Wenn es um Antragsdelikte und Drei-Monats-Frist in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Antragsdelikte und Drei-Monats-Frist

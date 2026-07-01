@@ -1,6 +1,6 @@
 ---
 name: db-030-lizenzanalogie-und-unterlassungsvertrag
-description: "Datenbankrecht: Lizenzanalogie und Unterlassungsvertrag mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Lizenzanalogie und Unterlassungsvertrag in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Lizenzanalogie und Unterlassungsvertrag

@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-live-erbbaurecht-reminder
-description: "Sichert, dass Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freiem Link genutzt werden im Erbbaurecht Praxis."
+description: "Wenn es um Rechtsprechung live verifizieren in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsprechung live verifizieren

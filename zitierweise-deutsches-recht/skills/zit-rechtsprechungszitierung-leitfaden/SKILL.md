@@ -1,6 +1,6 @@
 ---
 name: zit-rechtsprechungszitierung-leitfaden
-description: "Leitfaden Rechtsprechungszitierung BGH BVerfG EuGH: Gericht, Entscheidungsform, Datum, Aktenzeichen, frei prüfbarer Link dejure.org / openjur.de. Prüfraster für Memos."
+description: "Wenn es um Zit: Rechtsprechungszitierung in Zitierweise deutsches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zit: Rechtsprechungszitierung

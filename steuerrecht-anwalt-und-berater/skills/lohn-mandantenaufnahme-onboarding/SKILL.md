@@ -1,6 +1,6 @@
 ---
 name: lohn-mandantenaufnahme-onboarding
-description: "Onboarding eines neuen Lohn-Mandanten. Anwendungsfall Erstaufnahme Stammdaten Arbeitnehmer-Liste Sozialversicherungs-Anmeldung Mandantenstamm DATEV LODAS oder Lohn und Gehalt. Methodik Checkliste Datenerfassung Prüfungen Dokumente. Output Lohn-Mandantenakte Stammdaten startklar."
+description: "Wenn es um Lohn-Mandantenaufnahme — Onboarding in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lohn-Mandantenaufnahme — Onboarding

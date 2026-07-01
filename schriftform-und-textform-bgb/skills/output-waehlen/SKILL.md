@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Schriftform/Textform BGB: stimmt Adressat (Vertragsparteien), Frist (Form vor Wirksamkeit) und Form auf den Zweck ab — typische Outputs: Schriftform-Memo, Vertrags-Markup, Zugangsnachweis-Plan."
+description: "Wenn es um Output wählen in Schriftform und Textform im BGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: nachtragspruefung
-description: "Wirtschaftsprüfer: nachtragspruefung und fehlerkorrektur - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Nachtragspruefung in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: nachtragspruefung und fehlerkorrektur - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

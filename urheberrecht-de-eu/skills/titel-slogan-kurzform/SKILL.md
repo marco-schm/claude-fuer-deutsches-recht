@@ -1,6 +1,6 @@
 ---
 name: titel-slogan-kurzform
-description: "Prüft kurze Formulierungen zwischen Urheberrecht, Werktitelrecht, Marke, UWG und Gemeingut im Urheberrecht De Eu."
+description: "Wenn es um Titel, Slogan und Kurzform in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Titel, Slogan und Kurzform

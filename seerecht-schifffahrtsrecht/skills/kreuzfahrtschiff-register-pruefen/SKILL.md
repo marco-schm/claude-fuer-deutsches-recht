@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-register-pruefen
-description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Kläger prüft Seeschiffsregister; typisch ausländische Flagge (Bahamas/Malta) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS K..."
+description: "Wenn es um Kreuzfahrtschiff – Registerprüfung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreuzfahrtschiff – Registerprüfung

@@ -1,6 +1,6 @@
 ---
 name: review-sonderfall-und-edge-case
-description: "Sonderfälle und Edge Cases im gewerblichen Rechtsschutz: atypische Konstellationen bei Marke, Patent, Design, Urheberrecht und UWG. Erschöpfung, Verwirkung, FRAND, KI-generierte Inhalte, Open Source, Parallelimporte und weitere Grenzfälle im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Sonderfälle und Edge Cases im Gewerblichen Rechtsschutz in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezial: Sonderfälle und Edge Cases im Gewerblichen Rechtsschutz

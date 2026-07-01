@@ -1,6 +1,6 @@
 ---
 name: dfg-replikationskrise-statistik-spezial
-description: "Spezialfall Statistikabschnitt nach Replikationskrise: a-priori-Power-Analyse, Effektgroessenschaetzung, Vorab-Festlegung Hypothesen, Korrektur für multiple Testung, Sensitivitaetsanalysen. Prüfraster für Reviewer-Akzeptanz."
+description: "Wenn es um DFG: Statistik nach Replikationskrise in DFG-Förderantrag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # DFG: Statistik nach Replikationskrise

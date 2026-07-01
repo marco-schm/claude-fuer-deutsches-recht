@@ -1,6 +1,6 @@
 ---
 name: heilfuersorge-vs-beihilfe-vollzugsdienst
-description: "Skill zur Abgrenzung Heilfürsorge und Beihilfe im Vollzugsdienst. Klaert die Systemunterschiede zwischen freier Heilfürsorge für Polizeibeamte und Soldaten und der Beihilfe der Verwaltungsbeamten. Behandelt die Konstellation Krankenversicherungsschutz bei aktiver Verwendung Uebergang in den Ruhes..."
+description: "Wenn es um Heilfürsorge versus Beihilfe — Vollzugsdienst und Soldaten in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Heilfürsorge versus Beihilfe — Vollzugsdienst und Soldaten

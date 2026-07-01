@@ -1,6 +1,6 @@
 ---
 name: foto-im-wahlraum-und-stimmzettel
-description: "Wahlkampfrecht Praxis: Selfies, Stimmzettelfotos und Wahlgeheimnisrisiken prüfen im Wahlkampfrecht."
+description: "Wenn es um Foto Im Wahlraum Und Stimmzettel in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Foto Im Wahlraum Und Stimmzettel

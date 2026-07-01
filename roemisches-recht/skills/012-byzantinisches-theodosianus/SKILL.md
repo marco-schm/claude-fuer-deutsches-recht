@@ -1,6 +1,6 @@
 ---
 name: 012-byzantinisches-theodosianus
-description: "Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken im Römisches Recht: Bearbeite Byzantinisches Recht Theodosianus Justinian und Basiliken im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer hande..."
+description: "Wenn es um Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken

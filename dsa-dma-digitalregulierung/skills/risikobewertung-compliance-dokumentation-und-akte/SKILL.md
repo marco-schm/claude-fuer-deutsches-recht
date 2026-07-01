@@ -1,6 +1,6 @@
 ---
 name: risikobewertung-compliance-dokumentation-und-akte
-description: "Risikobewertung: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Risikobewertung: Compliance-Dokumentation und Aktenvermerk in DSA, DMA und Digitalregulierung der EU geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Risikobewertung: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: krankenkasse-bescheid
-description: "Routet Krankengeld, Hilfsmittel, Reha, Beitragsbescheid, Widerspruch und Sozialgericht im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Krankenkasse-Bescheid in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenkasse-Bescheid

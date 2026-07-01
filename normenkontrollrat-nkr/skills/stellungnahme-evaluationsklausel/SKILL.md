@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-evaluationsklausel
-description: "Fachmodul für den NKR-Empfehlungs-Baustein Evaluierungsklausel. Liefert Vorlage Klausel-Text Indikatorliste Frist-Vorschlag Berichtsadressat Konkretisierung der Pflichten und Standard-Argumentation warum die Klausel noetig ist. Mit konkreten Bausteinen für die Stellungnahme."
+description: "Wenn es um NKR-Stellungnahme — Vorschlag einer Evaluationsklausel in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NKR-Stellungnahme — Vorschlag einer Evaluationsklausel

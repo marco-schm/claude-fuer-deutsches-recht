@@ -1,6 +1,6 @@
 ---
 name: ins-006-handelsverbot-art14
-description: "Prueft Insiderhandelsverbot, Empfehlung, Verleitung, unrechtmaessige Offenlegung und interne Trading Stops."
+description: "Wenn es um Handelsverbot Art. 14 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsverbot Art. 14 MAR

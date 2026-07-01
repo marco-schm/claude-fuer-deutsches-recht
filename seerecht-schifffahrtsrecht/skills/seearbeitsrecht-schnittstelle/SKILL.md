@@ -1,6 +1,6 @@
 ---
 name: seearbeitsrecht-schnittstelle
-description: "Seemann oder Reederei klaert Arbeitsverhältnis; Heurvertrag; Repatriierung oder MLC-Beschwerde. SeeArbG §§ 1-130 (Seearbeitsgesetz); MLC 2006 Titel 1-4; STCW-Uebereinkommen; Besatzungsstaerke (BSH Safe-Manning); Ruhezeiten-Verstoss; Krankenlohn 16 Wochen. Output: Heurvertrag-Analyse und MLC-Compl..."
+description: "Wenn es um Seearbeitsrecht – Heurvertrag und MLC-Compliance in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Seearbeitsrecht – Heurvertrag und MLC-Compliance

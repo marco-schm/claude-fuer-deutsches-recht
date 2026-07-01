@@ -1,6 +1,6 @@
 ---
 name: familie-partnerschaft-gesellschaftsdruck
-description: "Trennt externe Erwartungen von der eigenen Gewissensentscheidung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Familien- und Gesellschaftsdruck in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Familien- und Gesellschaftsdruck

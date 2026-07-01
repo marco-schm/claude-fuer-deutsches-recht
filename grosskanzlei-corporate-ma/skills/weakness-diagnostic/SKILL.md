@@ -1,6 +1,6 @@
 ---
 name: weakness-diagnostic
-description: "Schwaechen-Diagnose-Coach für Deal-Arbeit: erkennt juristisch duenne Argumente, fehlende Fakten, falsche Begriffe, zu schwache Klauseln, unklare Risiken und baut daraus einen konkreten Verbesserungsplan."
+description: "Wenn es um Weakness Diagnostic Coach in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Weakness Diagnostic; Arbeitsfeld: Großkanzlei Corporate/M&A."
 ---
 
 # Weakness Diagnostic Coach

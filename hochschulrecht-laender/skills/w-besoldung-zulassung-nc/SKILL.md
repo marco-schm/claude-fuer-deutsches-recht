@@ -1,6 +1,6 @@
 ---
 name: w-besoldung-zulassung-nc
-description: "Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen im Hochschulrecht Länder."
+description: "Wenn es um W Besoldung Und Leistungsbezuege in Hochschulrecht der Bundesländer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # W Besoldung Und Leistungsbezuege

@@ -1,6 +1,6 @@
 ---
 name: flughafen-planfeststellung
-description: "Flughafen plant Erweiterung oder Neubau; Mandant ist Vorhabentraeger Anwohner oder Naturschutzverband. Prüft LuftVG §§ 6-10 Planfeststellungspflicht UVP-Pflicht nach UVPG Klagerecht nach UmwRG BVerwG-Leitentscheidungen zu FRA BER Leipzig und liefert Rechtsschutzstrategie-Vermerk im Luftrecht Flu..."
+description: "Wenn es um Flughafen-Planfeststellung – Genehmigung, UVP und Rechtsschutz in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Flughafen-Planfeststellung – Genehmigung, UVP und Rechtsschutz

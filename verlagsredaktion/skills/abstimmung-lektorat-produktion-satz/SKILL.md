@@ -1,6 +1,6 @@
 ---
 name: abstimmung-lektorat-produktion-satz
-description: "Klaert Lektorats- und Redaktionsstandards: wer ist für welchen Prüfschritt zuständig wie wird uebergeben Track-Changes Stand Versionierung Eskalationsregeln im Verlagsredaktion."
+description: "Wenn es um Abstimmung Lektorat / Redaktion (Format-Klärung) in Verlagsredaktion geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Abstimmung Lektorat / Redaktion (Format-Klärung)

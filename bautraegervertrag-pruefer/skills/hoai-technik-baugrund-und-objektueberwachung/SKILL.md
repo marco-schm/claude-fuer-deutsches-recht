@@ -1,6 +1,6 @@
 ---
 name: hoai-technik-baugrund-und-objektueberwachung
-description: "Technischer Realitätscheck im Bauträgerprojekt: HOAI-Leistungsphasen als Prüfraster, Baugrund, Objektüberwachung, anerkannte Regeln der Technik, Schall, Brand, Feuchte, Energie, Tiefgarage, Aufzug und Unterlagen nach § 650n BGB."
+description: "Wenn es um HOAI, Technik, Baugrund und Objektüberwachung in Bauträgervertrag-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # HOAI, Technik, Baugrund und Objektüberwachung

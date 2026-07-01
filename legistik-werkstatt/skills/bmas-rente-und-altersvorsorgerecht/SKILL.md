@@ -1,6 +1,6 @@
 ---
 name: bmas-rente-und-altersvorsorgerecht
-description: "Sachbereich Rente und Altersvorsorgerecht im Geschäftsbereich BMAS: Normbestand (SGB VI; AVG (alt); FRG; ZRBG; Riester; Foerderhinweise Steuer (mit BMF).); Akteure (DRV Bund; Aufsicht ueber Pensionsfonds (BaFin Schnittstelle); ZfA (Zulagenstelle).); EU-Bezug (VO 883/2004; PEPP-VO.); typische Leg..."
+description: "Wenn es um Rente und Altersvorsorgerecht (BMAS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rente und Altersvorsorgerecht (BMAS)

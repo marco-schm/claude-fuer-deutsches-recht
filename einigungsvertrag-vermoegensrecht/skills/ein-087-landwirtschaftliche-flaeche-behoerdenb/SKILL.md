@@ -1,6 +1,6 @@
 ---
 name: ein-087-landwirtschaftliche-flaeche-behoerdenb
-description: "Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Behördenbrief schreiben. Behördenbrief schreiben für Landwirtschaftliche Fläche im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Landwirtschaftliche Flaeche Behoerdenb in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Landwirtschaftliche Flaeche Behoerdenb

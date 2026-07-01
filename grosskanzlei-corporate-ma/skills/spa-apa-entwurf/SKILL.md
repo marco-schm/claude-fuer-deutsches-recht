@@ -1,6 +1,6 @@
 ---
 name: spa-apa-entwurf
-description: "SPA Share Purchase Agreement und APA Asset Purchase Agreement entwerfen: Anwendungsfall Anwalt erstellt Kaufvertrag für Share Deal oder Asset Deal aus Term Sheet DD-Findings und Transaktionsstruktur. Paragraf 433 ff. BGB Kaufrecht, Paragraf 15 GmbHG Abtretung, Paragraf 179 AktG Einbringung, MAC Material Adverse Chan..."
+description: "Wenn es um SPA/APA-Entwurf in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SPA/APA-Entwurf

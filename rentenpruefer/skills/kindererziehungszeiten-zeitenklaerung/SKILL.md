@@ -1,6 +1,6 @@
 ---
 name: kindererziehungszeiten-zeitenklaerung
-description: "Kindererziehungszeiten und Berücksichtigungszeiten: Zuordnung, Antrag, Streit zwischen Elternteilen, Ausland und Nachweise im Rentenpruefer."
+description: "Wenn es um kindererziehungszeiten-und-beruecksichtigungszeiten in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # kindererziehungszeiten-und-beruecksichtigungszeiten

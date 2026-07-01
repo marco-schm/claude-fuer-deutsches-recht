@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-agb-check
-description: "Einstiegs- und Prüfungslinie für Mehrsprachige AGB Check: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Wenn es um Mehrsprachige AGB Check in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Mehrsprachige AGB Check

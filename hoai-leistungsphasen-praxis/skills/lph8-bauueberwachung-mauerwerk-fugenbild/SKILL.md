@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-mauerwerk-fugenbild
-description: "Bauueberwachung HOAI LPH 8 für Mauerwerksbauten mit Fokus auf Fugenbildkontrolle — Prüfung Lagerfugenstärke und Stossflachenvermoelung nach DIN 1053-1 und DIN EN 1996-2, Steinformat- und Druckfestigkeitsklassen nach DIN EN 771-1, Wandscheiben-Stosstoleranzen, Abdichtung Fensterbank und Bruestung..."
+description: "Wenn es um Bauueberwachung Mauerwerk und Fugenbild in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Mauerwerk und Fugenbild

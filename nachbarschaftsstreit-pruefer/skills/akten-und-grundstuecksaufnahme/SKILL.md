@@ -1,6 +1,6 @@
 ---
 name: akten-und-grundstuecksaufnahme
-description: "Grundstücks- und Aktenaufnahme im Nachbarrechtsfall: Grundbuch, Flurkarte, Grenzzeichen, Baulasten, Dienstbarkeiten, Bauakte, Fotos, Chronologie, Besitzverhältnisse und Dokumentenlücken erfassen im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Akten- und Grundstücksaufnahme in Nachbarschaftsstreit-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Akten- und Grundstücksaufnahme

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Agrarrecht: ordnet Rolle (Landwirt, Verpächter/Pächter, Behörde), markiert Frist (Pachtjahr Kündigungsfristen), wählt Norm (BLG, LwAnpG, GAP-Förderung) und Zuständigkeit (Landwirtschaftsbehörden Länder), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Fachanwalt Agrarrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

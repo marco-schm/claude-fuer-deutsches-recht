@@ -1,6 +1,6 @@
 ---
 name: vorfall-fristen-form-und-zustaendigkeit
-description: "Vorfall: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Vorfall: Fristen, Form, Zuständigkeit und Rechtsweg in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorfall: Fristen, Form, Zuständigkeit und Rechtsweg

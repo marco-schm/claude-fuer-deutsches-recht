@@ -1,6 +1,6 @@
 ---
 name: docx-beweislast-darlegungslast
-description: "Docx: Beweislast, Darlegungslast und Substantiierung im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche..."
+description: "Wenn es um Docx: Beweislast, Darlegungslast und Substantiierung in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Docx Beweislast Darlegungslast; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # Docx: Beweislast, Darlegungslast und Substantiierung

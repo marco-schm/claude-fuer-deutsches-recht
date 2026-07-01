@@ -1,6 +1,6 @@
 ---
 name: potenzieller-wettbewerb-marktzutritt
-description: "Behörde oder Gegenseite argumentiert fehlende Markteintrittsbarrieren um Marktbeherrschung zu verneinen. Analysiert Markteintrittsschranken und Wahrscheinlichkeit potenziellen Wettbewerbs im Zeitrahmen 2 bis 3 Jahre. Normen Art. 102 AEUV § 18 GWB FKVO 139/2004 EU-Bekanntmachung Marktdefinition 20..."
+description: "Wenn es um Potenzieller Wettbewerb und Markteintrittsschranken in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Potenzieller Wettbewerb und Markteintrittsschranken

@@ -1,6 +1,6 @@
 ---
 name: miet-mietkaution-streit-spezial
-description: "Spezialfall Mietkaution-Streit: § 551 BGB, Verzinsung, Treuhandkonto, Abrechnungsfrist Auszug, Verjährung: Prüfraster typische Forderungen Vermieter..."
+description: "Wenn es um Miet Mietkaution Streit Spezial in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Mietkaution-Streit: § 551 BGB, Verzinsung, Treuhandkonto, Abrechnungsfrist Auszug, Verjährung

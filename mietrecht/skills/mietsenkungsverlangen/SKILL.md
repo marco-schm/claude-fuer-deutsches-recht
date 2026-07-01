@@ -1,6 +1,6 @@
 ---
 name: mietsenkungsverlangen
-description: "Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoß gegen die Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 (Mietpreisüberhöhung als Ordnungswidrigkeit) und § 291 StGB (Mietwucher als Straftat). Erzeugt eine qualifizierte Rüge nach § 556g Abs. 2 BGB mit B..."
+description: "Wenn es um Mietsenkungsverlangen (Mietpreisbremse, WiStrG 1954, Wucher) in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietsenkungsverlangen (Mietpreisbremse, WiStrG 1954, Wucher)

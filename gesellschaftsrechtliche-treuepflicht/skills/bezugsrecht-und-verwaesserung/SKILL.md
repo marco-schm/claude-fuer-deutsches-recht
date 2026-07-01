@@ -1,6 +1,6 @@
 ---
 name: bezugsrecht-und-verwaesserung
-description: "Gesellschaftsrechtliche Treuepflicht: Bezugsrecht Und Verwaesserung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Bezugsrecht Und Verwaesserung in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bezugsrecht Und Verwaesserung

@@ -1,6 +1,6 @@
 ---
 name: due-diligence-ergebnis-handlungsempfehlung
-description: "Memo Rechtsteil einer Due Diligence: Material Findings, Issues List, Red Flags, Empfehlungen für SPA-Klauseln (Garantien, Freistellungen). Format DD-Memo mit Executive Summary, Detailfindings, Änderungsempfehlungen Kaufvertrag. Output: priorisierte Issue-Liste im Memorandums Ersteller."
+description: "Wenn es um Due-Diligence-Rechtsmemo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Due-Diligence-Rechtsmemo

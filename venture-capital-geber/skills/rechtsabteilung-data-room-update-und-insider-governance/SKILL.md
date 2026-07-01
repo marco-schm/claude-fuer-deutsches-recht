@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-data-room-update-und-insider-governance
-description: "Rechtsabteilungs-Fachmodul für Data Room Update und Insider-Governance: Updates, Privilege, Confidentiality und Follow-on-Risiko werden getrackt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerk..."
+description: "Wenn es um Rechtsabteilung: Data Room Update und Insider-Governance in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Rechtsabteilung: Data Room Update und Insider-Governance

@@ -1,6 +1,6 @@
 ---
 name: inso-p300-entscheidung-uber-die-restschuldbefreiung
-description: "§ 300 InsO (Entscheidung über die Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 300 InsO (Entscheidung über die Restschuldbefreiung) im Mandat prüfen: Normzweck, Tat..."
+description: "Wenn es um Inso P300 Entscheidung Uber Die Restschuldbefreiung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 300 InsO (Entscheidung über die Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

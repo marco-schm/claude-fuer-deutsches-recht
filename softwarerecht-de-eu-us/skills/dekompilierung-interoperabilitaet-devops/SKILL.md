@@ -1,6 +1,6 @@
 ---
 name: dekompilierung-interoperabilitaet-devops
-description: "Prüft Dekompilierung zur Interoperabilität, API-Reverse-Engineering, Vertragsverbote und EU/US-Unterschiede im Softwarerecht De Eu Us."
+description: "Wenn es um Dekompilierung und Interoperabilität in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dekompilierung und Interoperabilität

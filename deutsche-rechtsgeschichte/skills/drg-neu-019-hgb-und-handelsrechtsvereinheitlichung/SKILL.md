@@ -1,6 +1,6 @@
 ---
 name: drg-neu-019-hgb-und-handelsrechtsvereinheitlichung
-description: "Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung

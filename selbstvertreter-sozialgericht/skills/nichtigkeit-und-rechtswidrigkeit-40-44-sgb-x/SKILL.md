@@ -1,6 +1,6 @@
 ---
 name: nichtigkeit-und-rechtswidrigkeit-40-44-sgb-x
-description: "Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach §§ 40-44 SGB X. Skill klaert wann ein Sozialbescheid nichtig ist und wann nur rechtswidrig. Sondertatbestaende. Bedeutung für Vollziehung und Vollstreckung. Liefert Prüfraster."
+description: "Wenn es um Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X in selbstvertreter-sozialgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X

@@ -1,6 +1,6 @@
 ---
 name: anwalt-steuerberater-personalakte
-description: "Berliner Start-up-HR: Externe Anwälte, Steuerberater und Lohnbüro briefen: Sachverhalt, Dokumente, Fragen, Frist und Datenschutzfilter. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Anwalt Und Steuerberater Briefing in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwalt Und Steuerberater Briefing

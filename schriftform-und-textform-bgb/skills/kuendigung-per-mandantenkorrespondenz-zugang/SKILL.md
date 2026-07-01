@@ -1,6 +1,6 @@
 ---
 name: kuendigung-per-mandantenkorrespondenz-zugang
-description: "Anwalt versendet oder empfängt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Prüft Schriftform, beA, qES, Paragraf 130a ZPO, Paragraf 130e ZPO, Paragraf 46h ArbGG, Paragraf 173 ZPO, Paragraf 186 ZPO, Paragraf 298 Abs. 3 ZPO und Paragraf 174 BGB. Output: Form- und Zugangsmatrix mit Zustellungsweg, Vollmachtsrisiko und Empfehlung..."
+description: "Wenn es um Kündigung per Schriftsatz — Zustellung und Formfragen in Schriftform und Textform im BGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kündigung per Schriftsatz — Zustellung und Formfragen

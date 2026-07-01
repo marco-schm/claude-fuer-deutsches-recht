@@ -1,6 +1,6 @@
 ---
 name: sponsoring-und-werbung
-description: "Trennt Spende, Sponsoring, wirtschaftlicher Geschäftsbetrieb, Umsatzsteuer und Vertrag im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Sponsoring und Werbung in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sponsoring und Werbung

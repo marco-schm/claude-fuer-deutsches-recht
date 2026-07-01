@@ -1,6 +1,6 @@
 ---
 name: wohnflaeche-pruefen
-description: "Prueft die vereinbarte Wohnflaeche nach Wohnflaechenverordnung oder DIN 277 auf Toleranzgrenzen, fehlende Berechnungsmethode und Minderungsanspruch bei Unterschreitung. Formularmassige Toleranzklauseln ueber den Bagatellbereich hinaus entwerten die Beschaffenheitsvereinbarung und sind nach Paragraf 307 BGB unwirksam."
+description: "Wenn es um Wohnfläche prüfen in Bauträgervertragspruefer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Wohnfläche prüfen

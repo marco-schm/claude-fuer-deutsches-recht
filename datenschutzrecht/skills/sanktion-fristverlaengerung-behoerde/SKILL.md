@@ -1,6 +1,6 @@
 ---
 name: sanktion-fristverlaengerung-behoerde
-description: "Datenschutzrecht-Brückenskill: Fristverlängerung gegenüber Aufsicht: Fristverlängerung und Teilantwort beantragen, ohne Verzögerung oder Pflichtverletzung einzuräumen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz...."
+description: "Wenn es um Fristverlängerung gegenüber Aufsicht in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristverlängerung gegenüber Aufsicht

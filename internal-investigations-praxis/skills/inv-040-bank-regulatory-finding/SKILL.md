@@ -1,6 +1,6 @@
 ---
 name: inv-040-bank-regulatory-finding
-description: "Spezialskill fuer Bank Regulatory Finding: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Bank Regulatory Finding in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internal Investigation: Bank Regulatory Finding

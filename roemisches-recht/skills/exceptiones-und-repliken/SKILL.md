@@ -1,6 +1,6 @@
 ---
 name: exceptiones-und-repliken
-description: "Römisches Recht: Exceptiones Und Repliken. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Exceptiones Und Repliken in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exceptiones Und Repliken

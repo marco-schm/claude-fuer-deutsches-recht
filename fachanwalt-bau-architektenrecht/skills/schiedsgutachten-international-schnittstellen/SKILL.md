@@ -1,6 +1,6 @@
 ---
 name: schiedsgutachten-international-schnittstellen
-description: "Schiedsgutachten: Internationaler Bezug und Schnittstellen: Schiedsgutachten: Internationaler Bezug und Schnittstellen."
+description: "Wenn es um Schiedsgutachten: Internationaler Bezug und Schnittstellen in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiedsgutachten: Internationaler Bezug und Schnittstellen

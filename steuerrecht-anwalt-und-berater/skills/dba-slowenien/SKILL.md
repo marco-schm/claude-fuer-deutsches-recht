@@ -1,6 +1,6 @@
 ---
 name: dba-slowenien
-description: "DBA Deutschland Slowenien 2006. Anwendungsfall Mittelstand Automotive Tourismus Beteiligungen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Slowenien (2006) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Slowenien (2006)

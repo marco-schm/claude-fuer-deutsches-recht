@@ -1,6 +1,6 @@
 ---
 name: berufsgerichtliche-ruege
-description: "Patentanwälte: berufsgerichtliche ruege - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Patentanwaelte."
+description: "Wenn es um Berufsgerichtliche Ruege in Berufsrecht Patentanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: berufsgerichtliche ruege - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

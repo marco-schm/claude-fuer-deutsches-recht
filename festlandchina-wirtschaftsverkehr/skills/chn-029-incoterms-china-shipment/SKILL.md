@@ -1,6 +1,6 @@
 ---
 name: chn-029-incoterms-china-shipment
-description: "Festlandchina Wirtschaftsverkehr: Incoterms China Shipment. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Incoterms China Shipment in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Incoterms China Shipment

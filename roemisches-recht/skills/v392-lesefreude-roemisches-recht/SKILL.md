@@ -1,6 +1,6 @@
 ---
 name: v392-lesefreude-roemisches-recht
-description: "Didaktischer Lesefreude-Skill für Römisches Recht: historische Einordnung, Begriffskern, anschauliche Fallvignette, Rezeptionslinie und heutige Grenze werden verständlich zusammengeführt."
+description: "Wenn es um Lesefreude Römisches Recht in Römisches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Lesefreude Römisches Recht

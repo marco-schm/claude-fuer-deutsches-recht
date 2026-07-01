@@ -1,6 +1,6 @@
 ---
 name: syndikus-oder-inhouse
-description: "Syndikus oder Inhouse: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Syndikus oder Inhouse im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Syndikus oder Inhouse in Berufsrecht Wirtschaftsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Syndikus oder Inhouse

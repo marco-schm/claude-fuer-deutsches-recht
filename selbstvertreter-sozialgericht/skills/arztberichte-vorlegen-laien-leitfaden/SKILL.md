@@ -1,6 +1,6 @@
 ---
 name: arztberichte-vorlegen-laien-leitfaden
-description: "Arzt-Atteste und Befundberichte gezielt einholen und vorlegen. Was Sie vom Arzt erbitten und wie. Konkrete Formulierungen für Laien Mustertext."
+description: "Wenn es um Arzt-Atteste richtig nutzen in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arzt-Atteste richtig nutzen

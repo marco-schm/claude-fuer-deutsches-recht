@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Migrationsrecht: stimmt Adressat (Mandant Ausländer/Geflüchteter, ABH, BAMF), Frist (§ 74 AsylG Klagefrist 2 Wochen / 1 Mon.) und Form auf den Zweck ab — typische Outputs: Klage VG, Eilantrag § 80 V VwGO, Verlängerungsantrag."
+description: "Wenn es um Output wählen in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

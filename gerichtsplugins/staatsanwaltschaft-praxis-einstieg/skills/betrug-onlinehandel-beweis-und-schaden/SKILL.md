@@ -1,6 +1,6 @@
 ---
 name: betrug-onlinehandel-beweis-und-schaden
-description: "Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife

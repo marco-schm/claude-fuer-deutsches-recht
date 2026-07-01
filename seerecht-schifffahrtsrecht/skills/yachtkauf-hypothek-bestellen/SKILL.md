@@ -1,6 +1,6 @@
 ---
 name: yachtkauf-hypothek-bestellen
-description: "Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bestellt Schiffshypothek als Sicherheit für Finanzierung eines Segel- oder Motorjacht. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede..."
+description: "Wenn es um Yachtkauf – Schiffshypothek bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Yachtkauf – Schiffshypothek bestellen

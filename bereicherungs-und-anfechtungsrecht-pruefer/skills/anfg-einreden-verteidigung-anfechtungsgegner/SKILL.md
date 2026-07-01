@@ -1,6 +1,6 @@
 ---
 name: anfg-einreden-verteidigung-anfechtungsgegner
-description: "Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungsklage verteidigen. Normen: §§ 3 4 11 AnfG, §§ 195 199 BGB, § 142 InsO analog. Prüfraster: Entreicherungseinwand, fehlende Kenntnis des Benachteiligungsvorsatzes, Bargeschäftsargument, Verjährung. Output: Verteidigungsschriftsatz mi"
+description: "Wenn es um Einreden und Verteidigung des Anfechtungsgegners — AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Anfg Einreden Verteidigung Anfechtungsgegner; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # Einreden und Verteidigung des Anfechtungsgegners — AnfG

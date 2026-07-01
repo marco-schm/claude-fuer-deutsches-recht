@@ -1,6 +1,6 @@
 ---
 name: aufhebungsvertrag-und-sperrzeit
-description: "Berliner Start-up-HR: Aufhebungsvertrag: Freiwilligkeit, Bedenkzeit, Sperrzeitrisiko, Abfindung, Zeugnis, Freistellung und Rückgabe. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Aufhebungsvertrag Und Sperrzeit in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufhebungsvertrag Und Sperrzeit

@@ -1,6 +1,6 @@
 ---
 name: 02-hauptverhandlung-grosse-strafkammer
-description: "Hauptverhandlung mit drei Berufs- und zwei Schöffenrichtern Paragraf 76 GVG, Verhandlungsleitung, Ablauf nach Paragraf 243 StPO, Wahrung der Förderungs- und Aufklärungspflicht Paragraf 244 Abs. 2"
+description: "Wenn es um 02 Hauptverhandlung Große Strafkammer in Strafkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # 02 Hauptverhandlung Große Strafkammer

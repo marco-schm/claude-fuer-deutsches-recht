@@ -1,6 +1,6 @@
 ---
 name: erbbau-beschwerde-erbbaugrundbuch-lesen
-description: "Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde im Erbbaurecht Praxis."
+description: "Wenn es um Grundbuchstreit im Erbbaurecht in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundbuchstreit im Erbbaurecht

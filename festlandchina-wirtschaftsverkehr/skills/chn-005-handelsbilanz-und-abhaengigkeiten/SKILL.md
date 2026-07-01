@@ -1,6 +1,6 @@
 ---
 name: chn-005-handelsbilanz-und-abhaengigkeiten
-description: "Festlandchina Wirtschaftsverkehr: Handelsbilanz Und Abhaengigkeiten. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Handelsbilanz Und Abhaengigkeiten in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsbilanz Und Abhaengigkeiten

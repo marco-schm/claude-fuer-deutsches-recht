@@ -1,6 +1,6 @@
 ---
 name: 029-normkarte-nachbarrecht-heutiger
-description: "PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck

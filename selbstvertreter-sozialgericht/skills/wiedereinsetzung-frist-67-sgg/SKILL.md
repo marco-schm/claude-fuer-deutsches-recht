@@ -1,6 +1,6 @@
 ---
 name: wiedereinsetzung-frist-67-sgg
-description: "Wenn Sie eine Frist verpasst haben § 67 SGG Wiedereinsetzung in den vorigen Stand. Wann möglich was vortragen welche Beweise. Mit Mustertext für Buerger ohne Anwalt."
+description: "Wenn es um Frist verpasst? Wiedereinsetzung nach Paragraf 67 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frist verpasst? Wiedereinsetzung nach § 67 SGG

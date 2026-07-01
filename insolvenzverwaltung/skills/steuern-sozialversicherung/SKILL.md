@@ -1,6 +1,6 @@
 ---
 name: steuern-sozialversicherung
-description: "Steuerliche und sozialversicherungsrechtliche Verbindlichkeiten im Insolvenzverfahren klassifizieren und bearbeiten. §§ 38 55 InsO Rangklassen §§ 34 35 AO Haftung. Prüfraster: Insolvenzforderung Masseverbindlichkeit Haftungsrisiken Erklärungspflichten § 15b InsO Steuerprivileg. Output: Klassifizi..."
+description: "Wenn es um Steuern, Sozialversicherung und Abgaben in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuern, Sozialversicherung und Abgaben

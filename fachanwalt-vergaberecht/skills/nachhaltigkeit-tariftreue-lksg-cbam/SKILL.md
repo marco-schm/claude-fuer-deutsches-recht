@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeit-tariftreue-lksg-cbam
-description: "Nachhaltigkeit, soziale Kriterien, Tariftreue, Lieferkette und CO2-Bezug in Vergaben gestalten: Eignung, Ausfuehrungsbedingungen, Zuschlagskriterien und Nachweise: Nachhaltigkeit, soziale Kriterien, Tariftreue, Lieferkette und CO2-Bezug in Vergaben gestalt..."
+description: "Wenn es um Nachhaltigkeit Tariftreue Lksg Cbam in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachhaltigkeit, soziale Kriterien, Tariftreue, Lieferkette und CO2-Bezug in Vergaben gestalten: Eignung, Ausfuehrungsbedingungen, Zuschlagskriterien und Nachweise.

@@ -1,6 +1,6 @@
 ---
 name: sanierung-vorhandener-vertraege
-description: "Sanierung bestehender Risikomodelle durch echte Änderung von Vertrag und Praxis im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Sanierung vorhandener Verträge in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierung vorhandener Verträge

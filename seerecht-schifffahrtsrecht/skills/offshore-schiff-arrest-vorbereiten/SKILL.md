@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-arrest-vorbereiten
-description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bestellt Schiffshypothek als Sicherheit für Finanzierung eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Notarielle Bestellungs..."
+description: "Wenn es um Offshore-Schiff – Schiffshypothek bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Offshore-Schiff – Schiffshypothek bestellen

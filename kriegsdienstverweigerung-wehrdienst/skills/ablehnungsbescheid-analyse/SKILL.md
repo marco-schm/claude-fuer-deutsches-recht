@@ -1,6 +1,6 @@
 ---
 name: ablehnungsbescheid-analyse
-description: "Analysiert Tenor, Begründung, Rechtsbehelfsbelehrung und Fehler eines Ablehnungsbescheids im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Ablehnungsbescheid analysieren in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ablehnungsbescheid analysieren

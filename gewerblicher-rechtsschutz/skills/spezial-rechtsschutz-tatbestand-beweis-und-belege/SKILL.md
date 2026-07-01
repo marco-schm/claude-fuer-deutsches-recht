@@ -1,6 +1,6 @@
 ---
 name: spezial-rechtsschutz-tatbestand-beweis-und-belege
-description: "Rechtsschutz: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Rechtsschutz: Tatbestandsmerkmale, Beweisfragen und Beleglage in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsschutz: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: anti-corruption-fcpa-ukba
-description: "Internationales Handelsrecht: Anti-Korruption im internationalen Handel. US Foreign Corrupt Practices Act (FCPA 1977), UK Bribery Act 2010 (UKBA), OECD-Antikorruptionskonvention 1997, Compliance-Pflichten, Drittpartei-Risiko und Deferred Prosecution Agreements im Internationales Handelsrecht Lex..."
+description: "Wenn es um Anti-Korruption: FCPA und UK Bribery Act in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anti-Korruption: FCPA und UK Bribery Act

@@ -1,6 +1,6 @@
 ---
 name: mandantenmemo-gebrauchsmusterstrategie
-description: "Mandantenmemo zur Gebrauchsmusterstrategie: Schnellschutz, Rechtsbestandsrisiko, Kosten, Fristen, Patentbezug, Durchsetzung und nächste Schritte im Gebrauchsmusterrecht."
+description: "Wenn es um Mandantenmemo Gebrauchsmusterstrategie in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantenmemo Gebrauchsmusterstrategie

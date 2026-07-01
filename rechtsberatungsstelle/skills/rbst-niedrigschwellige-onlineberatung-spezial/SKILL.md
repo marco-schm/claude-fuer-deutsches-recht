@@ -1,6 +1,6 @@
 ---
 name: rbst-niedrigschwellige-onlineberatung-spezial
-description: "Spezialfall niedrigschwellige Onlineberatung mit KI-Unterstuetzung: Hinweispflichten, Verbraucherschutz, Datenschutz, Haftung. Prüfraster für Anbieter im Rechtsberatungsstelle."
+description: "Wenn es um RBst: Onlineberatung digitale Werkzeuge in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # RBst: Onlineberatung KI

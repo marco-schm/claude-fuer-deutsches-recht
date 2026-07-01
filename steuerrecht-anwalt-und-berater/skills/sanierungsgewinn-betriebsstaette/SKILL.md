@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-betriebsstaette
-description: "Internationale Aspekte des Sanierungsertrags: Betriebsstätten-Zuordnung, DBA-Behandlung, Sanierungsforderungsverzicht durch ausländische Gläubiger. § 3a EStG gilt nur für die deutsche Besteuerung."
+description: "Wenn es um Sanierungsgewinn — Betriebsstätte und international in Steuerrecht – Steuerberater und Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Sanierungsgewinn Betriebsstaette; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Sanierungsgewinn — Betriebsstätte und international

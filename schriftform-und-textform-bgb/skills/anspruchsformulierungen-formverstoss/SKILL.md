@@ -1,6 +1,6 @@
 ---
 name: anspruchsformulierungen-formverstoss
-description: "Anspruchsformulierungen Bei Formverstoss: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Schriftform Und Textform Bgb."
+description: "Wenn es um Anspruchsformulierungen bei Formverstoß in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anspruchsformulierungen bei Formverstoß

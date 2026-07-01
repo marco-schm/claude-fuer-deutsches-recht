@@ -1,6 +1,6 @@
 ---
 name: schweiz-patentrecht-bundespatentgericht
-description: "Prüft Schweizer Patentrecht: Swissreg/IGE, nationale Patente, EP-Validierung, Bundespatentgericht, Verletzung, Nichtigkeit, vorsorgliche Maßnahmen und DACH-Abgrenzung im Patentrecht."
+description: "Wenn es um Schweiz: IGE und Bundespatentgericht in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Schweiz: IGE und Bundespatentgericht

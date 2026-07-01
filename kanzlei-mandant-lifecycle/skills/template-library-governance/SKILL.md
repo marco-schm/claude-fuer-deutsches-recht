@@ -1,6 +1,6 @@
 ---
 name: template-library-governance
-description: "Template Library Governance: steuert Mustertexte, Klauseln, Schriftsatzbausteine, Freigaben und Aktualitätscheck verwalten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Template Library Governance in Kanzlei-Mandant Lifecycle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Template Library Governance

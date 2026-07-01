@@ -1,6 +1,6 @@
 ---
 name: telos-mehrparteien-konflikt-und-interessen
-description: "Dieses Skill wendet teleologische Auslegung auf Mehrparteien-Konflikte an und zeigt, wie der Normzweck einer Vorschrift bei komplexen Interessenkonstellationen mit mehr als zwei Beteiligten methodisch ermittelt und auf den Sachverhalt angewendet wird: Diese..."
+description: "Wenn es um Telos Mehrparteien Konflikt Und Interessen in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dieses Skill wendet teleologische Auslegung auf Mehrparteien-Konflikte an und zeigt, wie der Normzweck einer Vorschrift bei komplexen Interessenkonstellationen mit mehr als zwei Beteiligten methodisch ermittelt und auf den Sachverhalt angewendet wird

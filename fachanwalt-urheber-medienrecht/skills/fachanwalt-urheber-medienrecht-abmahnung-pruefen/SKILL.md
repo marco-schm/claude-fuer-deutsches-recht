@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-abmahnung-pruefen
-description: "Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen Inhalt Aktivlegitimation Anspruchsberechtigung Lizenzkette Belege. Vorformulierte Unterlassungserklärung prüfen Vertragsstrafe Hoehe Abgrenzung modifizierte Unterlassungserklärung. Streitwertbegrenzung § 97a Abs. 3 UrhG Verbraucher 1000 EUR Abmahnkostenanspruch. Rückforderung bei missbraeuchlicher Abmahnung § 8c UWG analog. Negative Feststellungsklage."
+description: "Wenn es um Abmahnung prüfen – Fachanwalt Urheber- und Medienrecht in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abmahnung prüfen – Fachanwalt Urheber- und Medienrecht

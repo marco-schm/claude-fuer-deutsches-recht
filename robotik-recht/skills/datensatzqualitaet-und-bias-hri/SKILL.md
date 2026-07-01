@@ -1,6 +1,6 @@
 ---
 name: datensatzqualitaet-und-bias-hri
-description: "Prüft Datenqualität und Bias bei Robotern, die Menschen erkennen, unterstützen, bewerten oder priorisieren."
+description: "Wenn es um Datenqualität und Bias in der Human-Robot Interaction (HRI) in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenqualität und Bias in der Human-Robot Interaction (HRI)

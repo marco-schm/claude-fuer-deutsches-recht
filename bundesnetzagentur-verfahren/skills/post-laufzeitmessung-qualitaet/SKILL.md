@@ -1,6 +1,6 @@
 ---
 name: post-laufzeitmessung-qualitaet
-description: "Post / Laufzeitmessung Qualität: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO im BNetzA-Verfahren."
+description: "Wenn es um Post: Laufzeitmessung Qualität in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Post: Laufzeitmessung Qualität

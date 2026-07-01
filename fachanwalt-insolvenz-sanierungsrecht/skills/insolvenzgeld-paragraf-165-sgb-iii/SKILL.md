@@ -1,6 +1,6 @@
 ---
 name: insolvenzgeld-paragraf-165-sgb-iii
-description: "Insolvenzgeld § 165 sgb iii: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Insolvenzgeld Paragraf 165 sgb iii in Fachanwalt Insolvenz- und Sanierungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenzgeld § 165 sgb iii

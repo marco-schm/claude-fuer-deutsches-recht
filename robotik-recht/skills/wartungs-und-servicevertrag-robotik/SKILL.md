@@ -1,6 +1,6 @@
 ---
 name: wartungs-und-servicevertrag-robotik
-description: "Prüft Wartungs-, Kalibrierungs- und Serviceverträge: Reaktionszeiten, Ersatzteile, Remote-Zugriff, Logdaten, Haftungsgrenzen und Dokumentation."
+description: "Wenn es um Wartungs- und Servicevertrag in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Wartungs- und Servicevertrag

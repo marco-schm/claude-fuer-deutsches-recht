@@ -1,6 +1,6 @@
 ---
 name: insolvenz-mieter-vermieter
-description: "Insolvenz Mieter/Vermieter: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Kündigungssperren, Masseverbindlichkeit, Kaution, Aussonderung; mit Normprüfung, Beweisen, Fristen, R..."
+description: "Wenn es um Insolvenz Mieter/Vermieter: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenz Mieter/Vermieter: Fachmodul im Miet- und Wohnungseigentumsrecht

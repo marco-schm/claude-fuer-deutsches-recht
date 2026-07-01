@@ -1,6 +1,6 @@
 ---
 name: bodenreformland-vergleich-bewerten
-description: "Einigungsvertrag und Vermögensrecht: Bodenreformland: Vergleich bewerten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Bodenreformland Vergleich Bewerten in Einigungsvertrag und Vermögensrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Bodenreformland Vergleich Bewerten

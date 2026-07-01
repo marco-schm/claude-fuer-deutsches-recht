@@ -1,6 +1,6 @@
 ---
 name: beamtenanfaenger-pauschale-beihilfe-laendercheck
-description: "Öffnungsklausel für GKV bei Beamten, pauschale Beihilfe (Baden-Württemberg), Vergleich der Beihilfemodelle in den Bundesländern und GKV-Rückkehroption im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Beamtenanfänger: Pauschale Beihilfe, Ländercheck in Krankenkassenrecht und Krankenversicherung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Beamtenanfänger: Pauschale Beihilfe, Ländercheck

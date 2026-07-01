@@ -1,6 +1,6 @@
 ---
 name: juristisches-beweislast-und-darlegungslast
-description: "Juristisches: Beweislast, Darlegungslast und Substantiierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Juristisches: Beweislast, Darlegungslast und Substantiierung in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Juristisches Beweislast Und Darlegungslast; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
 ---
 
 # Juristisches: Beweislast, Darlegungslast und Substantiierung

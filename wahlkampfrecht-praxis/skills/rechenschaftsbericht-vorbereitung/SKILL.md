@@ -1,6 +1,6 @@
 ---
 name: rechenschaftsbericht-vorbereitung
-description: "Wahlkampfrecht Praxis: Wahlkampfbelege für den Rechenschaftsbericht aufbereiten im Wahlkampfrecht."
+description: "Wenn es um Rechenschaftsbericht Vorbereitung in Wahlkampfrecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechenschaftsbericht Vorbereitung

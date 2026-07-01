@@ -1,6 +1,6 @@
 ---
 name: v392-praxisraster-staatsanwaltschaft-amtsanwaltschaft
-description: "Praxisraster für Staatsanwaltschaft und Amtsanwaltschaft: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet."
+description: "Wenn es um Praxisraster Staatsanwaltschaft und Amtsanwaltschaft in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Praxisraster Staatsanwaltschaft und Amtsanwaltschaft

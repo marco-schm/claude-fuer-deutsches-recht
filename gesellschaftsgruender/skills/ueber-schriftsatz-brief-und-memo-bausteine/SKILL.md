@@ -1,6 +1,6 @@
 ---
 name: ueber-schriftsatz-brief-und-memo-bausteine
-description: "Ueber: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsgruender."
+description: "Wenn es um Über: Schriftsatz-, Brief- und Memo-Bausteine in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Über: Schriftsatz-, Brief- und Memo-Bausteine

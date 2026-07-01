@@ -1,6 +1,6 @@
 ---
 name: spezial-mietspiegel-qualifiziert
-description: "Qualifizierter Mietspiegel: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Anwendbarkeit, Feld, Spanne, Zu-/Abschläge, Begründungsqualität; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Qualifizierter Mietspiegel in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Qualifizierter Mietspiegel

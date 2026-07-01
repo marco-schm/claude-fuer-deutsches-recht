@@ -1,6 +1,6 @@
 ---
 name: bess-finanzierung-bankability
-description: "Prüft Projektfinanzierung, Sicherheiten, Erlösmodell, Netzanschlussrisiko, Bau-/Betriebsrisiko und Insurance DD im Energierecht."
+description: "Wenn es um Finanzierung und Bankability in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Finanzierung und Bankability

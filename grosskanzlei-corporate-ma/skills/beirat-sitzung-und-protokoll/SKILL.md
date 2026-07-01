@@ -1,6 +1,6 @@
 ---
 name: beirat-sitzung-und-protokoll
-description: "Prüft Beiratsfragen zu Sitzung Und Protokoll: Zuständigkeit, Satzungsgrundlage, Beschlussweg, Haftung, Belege, Gegenargumente und verwertbaren Output."
+description: "Wenn es um Beirat Sitzung Und Protokoll in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Sitzung Und Protokoll

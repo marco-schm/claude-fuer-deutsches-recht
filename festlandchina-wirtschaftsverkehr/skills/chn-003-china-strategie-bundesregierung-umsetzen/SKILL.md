@@ -1,6 +1,6 @@
 ---
 name: chn-003-china-strategie-bundesregierung-umsetzen
-description: "Festlandchina Wirtschaftsverkehr: China Strategie Bundesregierung Umsetzen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um China Strategie Bundesregierung Umsetzen in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # China Strategie Bundesregierung Umsetzen

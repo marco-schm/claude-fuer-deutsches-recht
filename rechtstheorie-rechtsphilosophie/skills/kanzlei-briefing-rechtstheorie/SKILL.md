@@ -1,6 +1,6 @@
 ---
 name: kanzlei-briefing-rechtstheorie
-description: "Übersetzt rechtstheoretische Probleme für Kanzlei, Mandanten, Vorstand, Gericht oder Ministerium in klare Sprache und Entscheidungsvorlagen."
+description: "Wenn es um Kanzlei-Briefing Rechtstheorie in Rechtstheorie und Rechtsphilosophie geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Kanzlei-Briefing Rechtstheorie

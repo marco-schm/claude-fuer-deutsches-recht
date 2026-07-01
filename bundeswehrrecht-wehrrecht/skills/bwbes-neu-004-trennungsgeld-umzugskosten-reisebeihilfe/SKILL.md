@@ -1,6 +1,6 @@
 ---
 name: bwbes-neu-004-trennungsgeld-umzugskosten-reisebeihilfe
-description: "Trennungsgeld, Umzugskosten, Reisebeihilfe: prüft TGV, BUKG, Anspruchsvoraussetzungen, Präklusionsfristen und Rückforderungen. Norm-/Quellenanker: TGV, BUKG, BRKG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Trennungsgeld, Umzugskosten und Reisebeihilfe in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Trennungsgeld, Umzugskosten und Reisebeihilfe

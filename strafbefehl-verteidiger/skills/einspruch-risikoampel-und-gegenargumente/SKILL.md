@@ -1,6 +1,6 @@
 ---
 name: einspruch-risikoampel-und-gegenargumente
-description: "Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien in Strafbefehl-Verteidiger geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien

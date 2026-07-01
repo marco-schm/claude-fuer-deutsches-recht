@@ -1,6 +1,6 @@
 ---
 name: humanstudie-ethik-ifg-transparenz
-description: "Prüft Humanstudien, Einwilligung, Ethikvotum, Datenschutz und Studienabbruch im Hochschulrecht Länder."
+description: "Wenn es um Humanstudie Ethik und Datenschutz in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Humanstudie Ethik und Datenschutz

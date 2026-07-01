@@ -1,6 +1,6 @@
 ---
 name: gmbh-gruendung-gesellschafterliste
-description: "Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung. Beurkundung, Handelsregisteranmeldung, Gesellschafterliste und Vollzug nach GmbHG § 2, inkl. Vor-GmbH-Phase, Stammkapitalaufbringung und Geschäftsführerbestellung im Notariat."
+description: "Wenn es um Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung

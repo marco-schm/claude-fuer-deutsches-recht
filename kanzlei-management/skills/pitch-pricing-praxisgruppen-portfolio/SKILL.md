@@ -1,6 +1,6 @@
 ---
 name: pitch-pricing-praxisgruppen-portfolio
-description: "Verknüpft Pitch-Strategie mit Team, Budget, Alternativen und roten Linien. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Pitch Pricing in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pitch Pricing

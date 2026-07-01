@@ -1,6 +1,6 @@
 ---
 name: best-edition-kopienzahl
-description: "Best Edition und Kopienzahl für veröffentlichte Verlagswerke: USA-Erstveröffentlichung, foreign first edition, physische Bücher, Serien und Mandatory-Deposit-Schnittstelle sauber trennen im Us Copyright Registrierung Verlag."
+description: "Wenn es um Best Edition und Kopienzahl in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Best Edition und Kopienzahl

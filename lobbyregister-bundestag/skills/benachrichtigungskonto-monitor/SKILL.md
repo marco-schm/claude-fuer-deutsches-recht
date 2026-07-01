@@ -1,6 +1,6 @@
 ---
 name: benachrichtigungskonto-monitor
-description: "Richtet Beobachtung von Registereintraegen, Aktualisierungen und Entwicklungen über das Benachrichtigungskonto ein. Output Watchlist im Lobbyregister Bundestag."
+description: "Wenn es um Benachrichtigungskonto Monitor in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Benachrichtigungskonto Monitor

@@ -1,6 +1,6 @@
 ---
 name: entfristung-klageschrift-anwalt-baustein
-description: "Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen: Weiterbeschaeftigungsantrag; strukturierte Begründung nach Paragraf 14 Abs. 4 TzBfG und Sachgrundprüfung; Be..."
+description: "Wenn es um Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen

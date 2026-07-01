@@ -1,6 +1,6 @@
 ---
 name: bgh-english-bilingual-client
-description: "Routet englischsprachige Fortführung vor dem Bundesgerichtshof: Voraussetzungen, Übersetzungen, Revisionsbegründung, Tenor und Mandantenkommunikation im Commercial Courts Deutschland."
+description: "Wenn es um BGH in English in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # BGH in English

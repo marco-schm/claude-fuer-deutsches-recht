@@ -1,6 +1,6 @@
 ---
 name: auslandsmandat-und-ethics-code-organisations
-description: "Wirtschaftsprüfer: auslandsmandat und ethics code - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Auslandsmandat Und Ethics Code Organisations in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: auslandsmandat und ethics code - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

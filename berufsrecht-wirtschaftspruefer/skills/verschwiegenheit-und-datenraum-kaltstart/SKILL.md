@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-und-datenraum-kaltstart
-description: "Wirtschaftsprüfer: verschwiegenheit und datenraum - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Verschwiegenheit Und Datenraum Kaltstart in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: verschwiegenheit und datenraum - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

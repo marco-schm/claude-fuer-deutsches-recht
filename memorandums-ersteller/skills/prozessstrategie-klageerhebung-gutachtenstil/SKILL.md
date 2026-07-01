@@ -1,6 +1,6 @@
 ---
 name: prozessstrategie-klageerhebung-gutachtenstil
-description: "Memo zur Prozessstrategie vor Klageerhebung: Erfolgsaussichten, Streitwert, Kosten, Beweislage, Vergleichsbereitschaft Gegner, Vollstreckungsaussichten. Output: Memo mit Empfehlung 'Klage erheben/aussergerichtlich verhandeln/abwarten' und Kosten-Nutzen-Rechnung im Memorandums Ersteller."
+description: "Wenn es um Prozessstrategie-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Prozessstrategie-Memo

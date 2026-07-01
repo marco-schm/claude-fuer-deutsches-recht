@@ -1,6 +1,6 @@
 ---
 name: landeslisten-direktkandidaten
-description: "Wahlkampfrecht Praxis: Landeslisten, Kreiswahlvorschlaege und Direktkandidaturen ordnen im Wahlkampfrecht."
+description: "Wenn es um Landeslisten Und Direktkandidaten in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landeslisten Und Direktkandidaten

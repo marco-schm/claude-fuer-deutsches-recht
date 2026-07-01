@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte-in-gesetzesbegruendung
-description: "Deutsche Rechtsgeschichte: Rechtsgeschichte in der Gesetzesbegründung. Wie historische Normanalyse in Referentenentwuerfe, Begründungen und parlamentarische Materialien korrekt eingebaut wird im Deutsche Rechtsgeschichte."
+description: "Wenn es um Rechtsgeschichte in der Gesetzesbegründung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsgeschichte in der Gesetzesbegründung

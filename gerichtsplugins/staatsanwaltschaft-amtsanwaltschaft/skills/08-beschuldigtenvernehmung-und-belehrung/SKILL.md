@@ -1,6 +1,6 @@
 ---
 name: 08-beschuldigtenvernehmung-und-belehrung
-description: "Vernehmung des Beschuldigten (Paragrafen 133 und 136 und 163a StPO), Belehrung ueber Schweigerecht und Verteidigerkonsultation, verbotene Vernehmungsmethoden (Paragraf 136a StPO), Verwertungsfragen"
+description: "Wenn es um 08 Beschuldigtenvernehmung und Belehrung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 08 Beschuldigtenvernehmung und Belehrung

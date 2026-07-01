@@ -1,6 +1,6 @@
 ---
 name: sachsen-anhalt-spezial-bauhaus-quedlinburg-luther
-description: "Sachsen-Anhaltsche Besonderheit: Bauhausstaetten Dessau (Welterbe seit 1996, Erweiterung 2017), Quedlinburg (Welterbe seit 1994), Luthergedenkstaetten Eisleben und Wittenberg (Welterbe seit 1996), Naumburger Dom (Welterbe seit 2018), Dessauer Gartenreich (Welterbe seit 2000). Skill ordnet die Verfahrenspraxis und die Foerderprogramme."
+description: "Wenn es um Bauhaus, Quedlinburg und Lutherstaetten als UNESCO-Welterbe in Sachsen-Anhalt in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bauhaus, Quedlinburg und Lutherstaetten als UNESCO-Welterbe in Sachsen-Anhalt

@@ -1,6 +1,6 @@
 ---
 name: homeoffice
-description: "Homeoffice: vertiefter Berufsrechts-Skill für Anwälte; prüft Homeoffice im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
+description: "Wenn es um Homeoffice in Berufsrecht Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Homeoffice

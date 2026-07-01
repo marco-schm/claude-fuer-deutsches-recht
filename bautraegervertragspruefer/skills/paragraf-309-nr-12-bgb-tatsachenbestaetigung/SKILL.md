@@ -1,6 +1,6 @@
 ---
 name: paragraf-309-nr-12-bgb-tatsachenbestaetigung
-description: "Prueft Bautraegervertragsklauseln auf Verstoss gegen Paragraf 309 Nummer 12 BGB. Klauseln die Beweislast fuer Umstaende im Verantwortungsbereich des Bautraegers auf den Erwerber verschieben oder pauschale Tatsachenbestaetigungen enthalten sind unwirksam. Ausnahme nur fuer gesondert unterschriebene Empfangsbekenntnisse."
+description: "Wenn es um Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast

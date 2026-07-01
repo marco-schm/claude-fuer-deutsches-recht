@@ -1,6 +1,6 @@
 ---
 name: landesrecht-16-laender-routenplan
-description: "Routenplan für Landesbeamtenrecht aller 16 Länder: Landesbeamtengesetz, Laufbahn, Besoldung, Versorgung, Beihilfe, Disziplinarrecht und Landesrichterrecht ohne falsches Bundesrechts-Autopilotieren im Beamtenrecht."
+description: "Wenn es um Landesrecht - 16-Länder-Routenplan in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Landesrecht - 16-Länder-Routenplan

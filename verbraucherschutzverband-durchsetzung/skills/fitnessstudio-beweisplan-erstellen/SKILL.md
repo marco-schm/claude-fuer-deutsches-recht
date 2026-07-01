@@ -1,6 +1,6 @@
 ---
 name: fitnessstudio-beweisplan-erstellen
-description: "Verbraucherschutzverband Durchsetzung: Fitnessstudio: Beweisplan erstellen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Fitnessstudio Beweisplan Erstellen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fitnessstudio Beweisplan Erstellen

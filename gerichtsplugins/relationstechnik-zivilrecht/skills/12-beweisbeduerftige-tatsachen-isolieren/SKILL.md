@@ -1,6 +1,6 @@
 ---
 name: 12-beweisbeduerftige-tatsachen-isolieren
-description: "Beweisbedürftige Tatsachen isolieren: erhebliche und streitige Tatsachen, Trennung von Rechtsfragen und Tatsachenfragen, Behauptungslast und Beweislast"
+description: "Wenn es um 12 Beweisbedürftige Tatsachen Isolieren in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 12 Beweisbedürftige Tatsachen Isolieren

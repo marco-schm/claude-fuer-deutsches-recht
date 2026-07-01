@@ -1,6 +1,6 @@
 ---
 name: fristenkalender-untaetigkeitstrack-bund-zustaendigkeit
-description: "Informationsfreiheit und Presseauskunft: Fristenkalender und Untätigkeitstracker. Fristenkalender und Untätigkeitstracker im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft..."
+description: "Wenn es um Fristenkalender Und Untaetigkeitstrack in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristenkalender Und Untaetigkeitstrack

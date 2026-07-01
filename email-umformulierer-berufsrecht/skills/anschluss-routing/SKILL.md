@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für E-Mail-Umformulierung im Berufsrecht: wählt den nächsten Spezial-Skill nach Engpass (Mandantenkommunikation unverzüglich, E-Mail-Entwurf, Mandantenkorrespondenz, Behörden-/Gegnerschreiben), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Anschluss-Routing

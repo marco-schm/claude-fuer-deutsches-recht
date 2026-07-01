@@ -1,6 +1,6 @@
 ---
 name: neuheit-pruefen
-description: "Prüft Neuheit nach § 3 PatG und Art. 54 EPUe. Methodisches Schema: ein Anspruch wird in seine Merkmale zerlegt und Merkmal-für-Merkmal gegen genau eine Entgegenhaltung verglichen. Neuheitsschaedlich ist nur die vollständige Vorwegnahme aller Merkmale in einer einzigen Entgegenhaltung (kein Mosaik..."
+description: "Wenn es um neuheit-prüfen in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # neuheit-prüfen

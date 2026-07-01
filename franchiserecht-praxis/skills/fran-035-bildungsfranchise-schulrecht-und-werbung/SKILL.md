@@ -1,6 +1,6 @@
 ---
 name: fran-035-bildungsfranchise-schulrecht-und-werbung
-description: "Franchiserecht: Bildungsfranchise Schulrecht und Werbung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Bildungsfranchise Schulrecht und Werbung in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Bildungsfranchise Schulrecht und Werbung

@@ -1,6 +1,6 @@
 ---
 name: nda-international-arbitration-spezial
-description: "Spezialfall internationale NDAs und Schiedsklauseln: Rechtswahl, Schiedsort, einstweiliger Rechtsschutz, Common-Law-Begriffe Equity. Prüfraster für Cross-Border-Mandat."
+description: "Wenn es um NDA: International Arbitration in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NDA: International Arbitration

@@ -1,6 +1,6 @@
 ---
 name: bmwsb-bauproduktenrecht-technische
-description: "Sachbereich Bauproduktenrecht und technische Normen im Geschäftsbereich BMWSB: Normbestand (BauPG; BauPVO (EU); BauProdRiL; MBO; Landesbauordnungen.); Akteure (DIBt; BMWSB; Notified Bodies; Länder-Bauaufsicht.); EU-Bezug (BauPVO 305/2011; Änderung BauPVO (CRR-Update).); typische Legistik-Aufgab"
+description: "Wenn es um Bauproduktenrecht und technische Normen (BMWSB) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmwsb Bauproduktenrecht Technische; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Bauproduktenrecht und technische Normen (BMWSB)

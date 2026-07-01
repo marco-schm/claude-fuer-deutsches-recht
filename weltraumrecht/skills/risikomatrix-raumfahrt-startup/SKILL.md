@@ -1,6 +1,6 @@
 ---
 name: risikomatrix-raumfahrt-startup
-description: "Risikomatrix für Raumfahrt-Startups – Genehmigung, Haftung, Exportkontrolle, Finanzierungsrisiken im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Risikomatrix Raumfahrt-Startup in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Risikomatrix Raumfahrt-Startup

@@ -1,6 +1,6 @@
 ---
 name: kanalcheck-beweislast-masseverbindlichkeit
-description: "Kanalcheck: Beweislast, Darlegungslast und Substantiierung im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanme..."
+description: "Wenn es um Kanalcheck: Beweislast, Darlegungslast und Substantiierung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanalcheck: Beweislast, Darlegungslast und Substantiierung

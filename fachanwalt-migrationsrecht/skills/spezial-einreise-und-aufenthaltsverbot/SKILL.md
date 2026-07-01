@@ -1,6 +1,6 @@
 ---
 name: spezial-einreise-und-aufenthaltsverbot
-description: "Einreise-/Aufenthaltsverbot: Spezial-Skill im Migrationsrecht; prüft Befristung, Verkürzung, Sperrwirkung, EU-Bezug; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Einreise-/Aufenthaltsverbot in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einreise-/Aufenthaltsverbot

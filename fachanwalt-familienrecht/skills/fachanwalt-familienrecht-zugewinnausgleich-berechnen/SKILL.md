@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-zugewinnausgleich-berechnen
-description: "Berechnet Zugewinnausgleich mit Anfangsvermögen, privilegiertem Erwerb, Endvermögen, illoyaler Vermögensminderung, Auskunft, Stufenklage, Stichtagen, Belegen und beziffertem Antrag."
+description: "Wenn es um Zugewinnausgleich berechnen in Fachanwalt Familienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zugewinnausgleich berechnen

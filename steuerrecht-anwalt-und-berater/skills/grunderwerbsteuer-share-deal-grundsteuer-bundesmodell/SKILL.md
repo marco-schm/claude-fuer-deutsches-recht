@@ -1,6 +1,6 @@
 ---
 name: grunderwerbsteuer-share-deal-grundsteuer-bundesmodell
-description: "Praxis-Skill zu Grunderwerbsteuer-Tatbestaenden bei Anteilsuebertragungen — Änderung des Gesellschafterbestands § 1 Abs. 2a Personengesellschaft § 1 Abs. 2b Kapitalgesellschaft und § 1 Abs. 3 § 1 Abs. 3a GrEStG. Anwendungsfall M und A-Transaktion mit Immobilienvermoegen — Grunderwerbsteuer-Folge"
+description: "Wenn es um Grunderwerbsteuer beim Share Deal — Paragraf 1 Abs. 2a 2b 3 3a GrEStG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Grunderwerbsteuer Share Deal Grundsteuer Bundesmodell; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Grunderwerbsteuer beim Share Deal — § 1 Abs. 2a 2b 3 3a GrEStG

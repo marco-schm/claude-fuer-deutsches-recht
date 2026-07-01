@@ -1,6 +1,6 @@
 ---
 name: fitnessstudio-klageschrift-strukturier
-description: "Verbraucherschutzverband Durchsetzung: Fitnessstudio: Klageschrift strukturieren im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Fitnessstudio Klageschrift Strukturier in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Fitnessstudio Klageschrift Strukturier

@@ -1,6 +1,6 @@
 ---
 name: einstieg-schnelltriage-fallrouting
-description: "Einstieg, Schnelltriage und Fallrouting im Fachanwalt Bank Kapitalmarktrecht-Plugin: Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende..."
+description: "Wenn es um Einstieg, Schnelltriage und Fallrouting in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg, Schnelltriage und Fallrouting im Fachanwalt Bank Kapitalmarktrecht-Plugin

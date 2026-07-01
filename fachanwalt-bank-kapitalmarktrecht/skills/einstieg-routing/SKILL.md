@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Bank- und Kapitalmarktrecht: ordnet Rolle (Anleger/Kunde, Bank/WPI, BaFin), markiert Frist (Widerrufsfrist Verbraucherdarlehen 14 Tage § 355 BGB), wählt Norm (BGB §§ 488/491-505, WpHG, KAGB) und Zuständigkeit (BaFin), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

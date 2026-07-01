@@ -1,6 +1,6 @@
 ---
 name: was-will-dieses-schreiben
-description: "Übersetzt amtliche Schreiben in die vier Fragen: Wer will was, bis wann, warum und was passiert sonst? im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Was will dieses Schreiben? in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Was will dieses Schreiben?

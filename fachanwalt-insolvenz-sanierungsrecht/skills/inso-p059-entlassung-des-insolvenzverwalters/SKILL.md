@@ -1,6 +1,6 @@
 ---
 name: inso-p059-entlassung-des-insolvenzverwalters
-description: "§ 59 InsO (Entlassung des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 59 InsO (Entlassung des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege,..."
+description: "Wenn es um Inso P059 Entlassung Des Insolvenzverwalters in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 59 InsO (Entlassung des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

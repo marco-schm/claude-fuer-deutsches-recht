@@ -1,6 +1,6 @@
 ---
 name: bauen-fristennotiz-und-naechster-schritt
-description: "Bauen: Fristennotiz und nächster Schritt: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Bauen: Fristennotiz und nächster Schritt in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bauen Fristennotiz Und Naechster Schritt; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
 ---
 
 # Bauen: Fristennotiz und nächster Schritt

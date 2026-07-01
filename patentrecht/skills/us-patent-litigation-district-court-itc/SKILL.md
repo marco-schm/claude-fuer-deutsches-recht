@@ -1,6 +1,6 @@
 ---
 name: us-patent-litigation-district-court-itc
-description: "Bereitet US-Patentlitigation aus deutscher Sicht vor: complaint, answer, claim construction, discovery, Markman, damages, injunction, ITC exclusion order und Settlement-Druck im Patentrecht."
+description: "Wenn es um US-Patentprozess: District Court und ITC in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # US-Patentprozess: District Court und ITC

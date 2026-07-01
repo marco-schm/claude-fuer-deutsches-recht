@@ -1,6 +1,6 @@
 ---
 name: kv-055-versicherte-im-ausland-lebend-deutsche-rente
-description: "Krankenversicherung: Versicherte im Ausland lebend deutsche Rente mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Versicherte im Ausland lebend deutsche Rente in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Versicherte im Ausland lebend deutsche Rente

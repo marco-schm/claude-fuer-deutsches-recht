@@ -1,6 +1,6 @@
 ---
 name: testamentsentwurf
-description: "Testament oder Erbvertrag entwerfen wenn Mandant Nachlassplanung vornehmen moechte: §§ 2229 2231 2247 BGB Testament §§ 2274 ff. BGB Erbvertrag. Prüfraster: Testierfähigkeit..."
+description: "Wenn es um Testament oder Erbvertrag entwerfen wenn Mandant Nachlassplanung vornehmen moechte in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Testament oder Erbvertrag entwerfen wenn Mandant Nachlassplanung vornehmen moechte

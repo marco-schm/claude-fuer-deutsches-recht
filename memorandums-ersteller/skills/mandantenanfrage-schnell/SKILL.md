@@ -1,6 +1,6 @@
 ---
 name: mandantenanfrage-schnell
-description: "Schnell-Memo zu eingehender Mandantenanfrage: in 30 Minuten, einseitig, mit 3-Punkte-Plan. Anlass: Erstgespraech, Eilanruf, Hilfeanfrage Kanzleikollege. Format: Frage, Kurzantwort, Risiken, naechster Schritt, offene Punkte. Output: Memo-Entwurf zum Mandantenversand im Memorandums Ersteller."
+description: "Wenn es um Schnell-Memo Mandantenanfrage in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schnell-Memo Mandantenanfrage

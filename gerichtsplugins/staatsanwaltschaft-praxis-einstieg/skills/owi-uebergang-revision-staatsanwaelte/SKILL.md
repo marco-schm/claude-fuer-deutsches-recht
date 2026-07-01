@@ -1,6 +1,6 @@
 ---
 name: owi-uebergang-revision-staatsanwaelte
-description: "Staatsanwaltschaftlicher Skill zu Übergang zwischen Bußgeld- und Strafverfahren: Hinweis, Rollenwechsel und keine Verfahrensfalle: ordnet Tatverdacht, Zuständigkeit, Beweisstand, Verfügung, Frist und Vorlagegrenze."
+description: "Wenn es um Owi Uebergang Revision Staatsanwaelte in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Übergang zwischen Bußgeld- und Strafverfahren: Hinweis, Rollenwechsel und keine Verfahrensfalle

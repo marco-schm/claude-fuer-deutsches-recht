@@ -1,6 +1,6 @@
 ---
 name: sanktionsscreening-embargo-bank
-description: "Sanktionsscreening und Embargo in der Bank: Treffer, False Positive, EU-Sanktionen, OFAC-Berührung, Zahlungsstopp, Kontosperre, Freigabeprozess und Kundenkommunikation steuern im Bank-Rechtsabteilung."
+description: "Wenn es um Sanktionen und Embargo in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Sanktionen und Embargo

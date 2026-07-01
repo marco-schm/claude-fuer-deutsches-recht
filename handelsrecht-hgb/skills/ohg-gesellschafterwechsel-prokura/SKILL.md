@@ -1,6 +1,6 @@
 ---
 name: ohg-gesellschafterwechsel-prokura
-description: "Prüft Eintritt, Ausscheiden, Nachhaftung, Abfindung und Registereintragung im Handelsrecht Hgb."
+description: "Wenn es um OHG Gesellschafterwechsel in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # OHG Gesellschafterwechsel

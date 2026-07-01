@@ -1,6 +1,6 @@
 ---
 name: luft-064-ersatzteillager-pfaendung-planen
-description: "Luftrecht und Flughafenrecht: Ersatzteillager: Pfändung planen. Pfändung planen für Ersatzteillager im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Ersatzteillager Pfaendung Planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ersatzteillager Pfaendung Planen

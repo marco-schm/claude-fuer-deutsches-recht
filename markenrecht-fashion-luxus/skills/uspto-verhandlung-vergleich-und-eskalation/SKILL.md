@@ -1,6 +1,6 @@
 ---
 name: uspto-verhandlung-vergleich-und-eskalation
-description: "USPTO: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um USPTO: Verhandlung, Vergleich und Eskalation in markenrecht-fashion-luxus geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # USPTO: Verhandlung, Vergleich und Eskalation

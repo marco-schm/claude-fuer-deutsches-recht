@@ -1,6 +1,6 @@
 ---
 name: sozialer-humanoider-spielzeug-kinderroboter
-description: "Prüft soziale/humanoide Roboter: Vertrauen, Anthropomorphisierung, Manipulation, Kinder, Pflege, Transparenz und Datenschutz im Robotik-Recht."
+description: "Wenn es um Sozialer humanoider Roboter in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Sozialer humanoider Roboter

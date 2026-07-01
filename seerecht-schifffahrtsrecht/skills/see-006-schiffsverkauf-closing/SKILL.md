@@ -1,6 +1,6 @@
 ---
 name: see-006-schiffsverkauf-closing
-description: "See- und Schifffahrtsrecht: Schiffsverkauf Closing. Schiffsverkauf Closing im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Schiffsverkauf Closing in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffsverkauf Closing

@@ -1,6 +1,6 @@
 ---
 name: antrag-zahlen-schwellen-und-berechnung
-description: "Antrag: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Antrag: Zahlen, Schwellenwerte und Berechnung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Antrag: Zahlen, Schwellenwerte und Berechnung

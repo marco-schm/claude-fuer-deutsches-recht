@@ -1,6 +1,6 @@
 ---
 name: oss-ioss-umsatzsteuer-e-commerce
-description: "OSS/IOSS Umsatzsteuer E-Commerce: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG im Ecommerce Recht."
+description: "Wenn es um OSS/IOSS Umsatzsteuer E-Commerce in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # OSS/IOSS Umsatzsteuer E-Commerce

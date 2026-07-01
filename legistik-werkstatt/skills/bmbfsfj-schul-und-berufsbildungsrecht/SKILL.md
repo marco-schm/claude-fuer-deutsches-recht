@@ -1,6 +1,6 @@
 ---
 name: bmbfsfj-schul-und-berufsbildungsrecht
-description: "Sachbereich Schul- und Berufsbildungsrecht im Geschäftsbereich BMBFSFJ: Normbestand (BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Länder; AufstFoeG.); Akteure (BMBFSFJ; Länder-Kultusministerien; KMK; BIBB; Berufsverbaende.); EU-Bezug (Berufsanerkennungs-RL; Europass; Erasmus+.); typische Legistik-A..."
+description: "Wenn es um Schul- und Berufsbildungsrecht (BMBFSFJ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schul- und Berufsbildungsrecht (BMBFSFJ)

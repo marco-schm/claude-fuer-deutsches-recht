@@ -1,6 +1,6 @@
 ---
 name: arztpraxis-compliance
-description: "Betäubungsmittelrecht: Arztpraxis Compliance. Arztpraxis Compliance im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
+description: "Wenn es um Arztpraxis Compliance in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arztpraxis Compliance

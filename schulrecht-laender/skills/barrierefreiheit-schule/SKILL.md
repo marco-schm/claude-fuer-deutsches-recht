@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-schule
-description: "Prüft bauliche und digitale Barrierefreiheit in Schule im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Barrierefreiheit Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Barrierefreiheit Schule

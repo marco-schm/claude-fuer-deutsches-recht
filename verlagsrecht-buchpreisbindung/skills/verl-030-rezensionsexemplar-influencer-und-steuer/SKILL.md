@@ -1,6 +1,6 @@
 ---
 name: verl-030-rezensionsexemplar-influencer-und-steuer
-description: "Verlagsrecht: Rezensionsexemplar Influencer und Steuer mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Rezensionsexemplar Influencer und Steuer in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Rezensionsexemplar Influencer und Steuer

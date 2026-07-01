@@ -1,6 +1,6 @@
 ---
 name: inso-p266-berucksichtigung-des-nachrangs
-description: "§ 266 InsO (Berücksichtigung des Nachrangs) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 266 InsO (Berücksichtigung des Nachrangs) im Mandat prüfen: Normzweck, Tatbestand, Belege, Recht..."
+description: "Wenn es um Inso P266 Berucksichtigung Des Nachrangs in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 266 InsO (Berücksichtigung des Nachrangs) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

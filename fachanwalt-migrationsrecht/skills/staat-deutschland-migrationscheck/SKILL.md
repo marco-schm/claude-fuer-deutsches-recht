@@ -1,6 +1,6 @@
 ---
 name: staat-deutschland-migrationscheck
-description: "Staaten- und Gebietscheck Deutschland: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung: Staaten- und Gebiets..."
+description: "Wenn es um Staat Deutschland Migrationscheck in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Staaten- und Gebietscheck Deutschland: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.

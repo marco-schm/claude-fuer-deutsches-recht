@@ -1,6 +1,6 @@
 ---
 name: joint-venture-full-function
-description: "Joint Venture Full Function: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Gemeinschaftsunternehmen, Vollfunktion, Spillover, FKVO und Art. 101 AEUV prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft..."
+description: "Wenn es um Joint Venture Full Function in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Joint Venture Full Function

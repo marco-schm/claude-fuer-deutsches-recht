@@ -1,6 +1,6 @@
 ---
 name: it-recht-cloud-vertrag-datenschutz-due-diligence
-description: "Datenschutz-Due-Diligence für Cloud-Vertraege: Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Prüfraster für Art..."
+description: "Wenn es um Datenschutz-Due-Diligence für Cloud-Verträge in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz-Due-Diligence für Cloud-Verträge

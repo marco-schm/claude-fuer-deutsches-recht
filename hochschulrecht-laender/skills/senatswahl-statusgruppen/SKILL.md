@@ -1,6 +1,6 @@
 ---
 name: senatswahl-statusgruppen
-description: "Prüft Senatswahl, Gruppenparität, Wahlordnung, Anfechtung und Mandatsverteilung im Hochschulrecht Länder."
+description: "Wenn es um Senatswahl und Statusgruppen in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Senatswahl und Statusgruppen

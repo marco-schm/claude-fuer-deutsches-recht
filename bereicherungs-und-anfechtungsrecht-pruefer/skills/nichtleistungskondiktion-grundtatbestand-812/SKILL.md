@@ -1,6 +1,6 @@
 ---
 name: nichtleistungskondiktion-grundtatbestand-812
-description: "Nichtleistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB prüfen: in sonstiger Weise ohne Rechtsgrund erlangt. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: kein Leistungsverhältnis, Abgrenzung zur Leistungskondiktion, Zuweisungsgehalt. Output: Prüfergebnis Nichtleistungskondiktion. Abgrenzu"
+description: "Wenn es um Nichtleistungskondiktion — Grundtatbestand Paragraf 812 Abs. 1 S. 1 Alt. 2 BGB in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Auswahlstichwort: Nichtleistungskondiktion Grundtatbestand 812; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # Nichtleistungskondiktion — Grundtatbestand § 812 Abs. 1 S. 1 Alt. 2 BGB

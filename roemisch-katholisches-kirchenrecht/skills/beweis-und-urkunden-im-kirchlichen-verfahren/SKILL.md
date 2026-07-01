@@ -1,6 +1,6 @@
 ---
 name: beweis-und-urkunden-im-kirchlichen-verfahren
-description: "Beweis und Urkunden im kirchlichen Verfahren: Urkunden, Zeugen, Indizien, Gutachten und Glaubwürdigkeit; CIC can. 1526-1586; KKK 2464-2513; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fris..."
+description: "Wenn es um Beweis und Urkunden im kirchlichen Verfahren in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beweis und Urkunden im kirchlichen Verfahren

@@ -1,6 +1,6 @@
 ---
 name: aufgabe-und-kompetenz-nkrg
-description: "Zeigt Aufgabe Zuständigkeit Unabhaengigkeit und Befassungspflichten des Nationalen Normenkontrollrats nach NKRG. Erklaert insbesondere § 1 Einsetzung beim BMJ § 2 Erfuellungsaufwand § 3 Zusammensetzung § 4 Prüfung § 6 Stellungnahme und die institutionelle Stellung als Beratungs- und Kontrollgrem..."
+description: "Wenn es um NKR-Aufgabe und Kompetenz nach NKRG in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NKR-Aufgabe und Kompetenz nach NKRG

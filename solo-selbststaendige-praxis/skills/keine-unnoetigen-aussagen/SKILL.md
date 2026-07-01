@@ -1,6 +1,6 @@
 ---
 name: keine-unnoetigen-aussagen
-description: "Solo-Selbstständige: hilft bei Behörden- und Kundengesprächen, nur Erforderliches sauber mitzuteilen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Grenzen Compliance und Selbstschutz: Hilft bei behörden- und kundengesprächen in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzen Compliance und Selbstschutz: Hilft bei behörden- und kundengesprächen

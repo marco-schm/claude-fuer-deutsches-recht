@@ -1,6 +1,6 @@
 ---
 name: word-zahlen-schwellen-und-berechnung
-description: "Word: Zahlen, Schwellenwerte und Berechnung: Word: Zahlen, Schwellenwerte und Berechnung."
+description: "Wenn es um Word: Zahlen, Schwellenwerte und Berechnung in NDA-Abgleich geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Word: Zahlen, Schwellenwerte und Berechnung

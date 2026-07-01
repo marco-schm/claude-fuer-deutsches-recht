@@ -1,6 +1,6 @@
 ---
 name: sanktion-rechtsweg-router
-description: "Datenschutzrecht-Brückenskill: Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren: Geldbuße, Art.-58-Maßnahme, Art.-82-Schadensersatz und Strafrechtsspur aus demselben Vorfall trennen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und ge..."
+description: "Wenn es um Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren

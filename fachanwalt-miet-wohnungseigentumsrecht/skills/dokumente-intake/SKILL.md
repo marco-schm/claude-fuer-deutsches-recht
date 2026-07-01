@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Fachanwalt Miet- und Wohnungseigentumsrecht: sortiert Mietvertrag, Nebenkostenabrechnung, WEG-Versammlungsprotokoll, prüft Datum, Absender, Frist und Beweiswert (Beschlusssammlung, Mietspiegel); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

@@ -1,6 +1,6 @@
 ---
 name: pruefmodus-fristennotiz-datenraum-sharepoint
-description: "Validiert ein vorhandenes Anlagenpaket und gibt eine kurze Fristennotiz plus nächste Handlung aus im Anlagen zu Schriftsätzen."
+description: "Wenn es um Prüfmodus, Fristennotiz und nächster Schritt in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pruefmodus Fristennotiz Datenraum Sharepoint; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Prüfmodus, Fristennotiz und nächster Schritt

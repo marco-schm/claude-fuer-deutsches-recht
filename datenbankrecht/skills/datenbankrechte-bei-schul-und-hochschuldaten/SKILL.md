@@ -1,6 +1,6 @@
 ---
 name: datenbankrechte-bei-schul-und-hochschuldaten
-description: "Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Lehrmaterialdatenbanken und Hochschularchive, Schranken nach § 60a UrhG (Bildung und Unterricht), Herstellerrecht bei Lernmanagementsystemen und DSGVO-Anforderungen für Schüler- und Studentenndaten. Erstellt Lizenzkonzept und Complianc..."
+description: "Wenn es um Datenbankrechte bei Schul- und Hochschuldaten — Bildungseinrichtungen in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrechte bei Schul- und Hochschuldaten — Bildungseinrichtungen

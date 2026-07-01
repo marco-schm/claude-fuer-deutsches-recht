@@ -1,6 +1,6 @@
 ---
 name: bea-passive-nutzung
-description: "Anwälte: bea passive nutzung und empfangsbekenntnis - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Anwaelte."
+description: "Wenn es um Bea Passive Nutzung in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: bea passive nutzung und empfangsbekenntnis - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: soldatenbesoldung-grundgehalt-und-dienstgrad
-description: "Soldatenbesoldung Grundgehalt Dienstgrad: prüft BBesG-Gruppen, Stufenaufstieg, Dienstgradkorrelation und Rückwirkungsfragen. Norm-/Quellenanker: BBesG Anlagen I, IV, § 27 BBesG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Soldatenbesoldung: Grundgehalt und Dienstgrad in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Soldatenbesoldung: Grundgehalt und Dienstgrad

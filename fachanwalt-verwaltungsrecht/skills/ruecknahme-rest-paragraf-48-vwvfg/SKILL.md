@@ -1,6 +1,6 @@
 ---
 name: ruecknahme-rest-paragraf-48-vwvfg
-description: "Ruecknahme Rest § 48 VwVfG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Ruecknahme Rest Paragraf 48 VwVfG in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ruecknahme Rest § 48 VwVfG

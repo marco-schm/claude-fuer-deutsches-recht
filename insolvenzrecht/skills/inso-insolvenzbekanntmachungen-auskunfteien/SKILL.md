@@ -1,6 +1,6 @@
 ---
 name: inso-insolvenzbekanntmachungen-auskunfteien
-description: "Zusammenspiel öffentlicher Insolvenzbekanntmachungen und privater Auskunfteien: Veröffentlichung, Abruffrist, Weiterverarbeitung und Löschdruck im Insolvenzrecht."
+description: "Wenn es um Insolvenzbekanntmachungen und Auskunfteien in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenzbekanntmachungen und Auskunfteien

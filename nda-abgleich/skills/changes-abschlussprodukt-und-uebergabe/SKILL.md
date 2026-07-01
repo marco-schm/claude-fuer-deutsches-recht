@@ -1,6 +1,6 @@
 ---
 name: changes-abschlussprodukt-und-uebergabe
-description: "Changes: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Changes: Abschlussprodukt und Übergabe in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Changes Abschlussprodukt Und Uebergabe; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # Changes: Abschlussprodukt und Übergabe

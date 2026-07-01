@@ -1,6 +1,6 @@
 ---
 name: luft-007-aircraft-arrest-international
-description: "Luftrecht und Flughafenrecht: Aircraft Arrest international. Aircraft Arrest international im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Aircraft Arrest International in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aircraft Arrest International

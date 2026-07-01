@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Allgemein Kaltstart. Liefert Norm-Pinpoints, Prüfachsen, Red Flags, Varianten und konkrete Output-Bausteine zum Slug-Thema im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Allgemein Kaltstart in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemein Kaltstart

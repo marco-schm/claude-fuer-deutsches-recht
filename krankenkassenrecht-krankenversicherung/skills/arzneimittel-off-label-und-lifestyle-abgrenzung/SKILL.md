@@ -1,6 +1,6 @@
 ---
 name: arzneimittel-off-label-und-lifestyle-abgrenzung
-description: "GKV-Arzneimittelversorgung: Zulassung, Off-Label-Use nach BSG-Maßstäben, Lifestyle-Ausschluss, AMNOG, Nutzenbewertung und Einzelfallentscheidung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Arzneimittel: Off-Label-Use und Lifestyle-Abgrenzung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arzneimittel: Off-Label-Use und Lifestyle-Abgrenzung

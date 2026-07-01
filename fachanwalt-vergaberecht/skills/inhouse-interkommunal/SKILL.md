@@ -1,6 +1,6 @@
 ---
 name: inhouse-interkommunal
-description: "Inhouse-Geschäft und interkommunale Zusammenarbeit vergaberechtlich prüfen: öffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben: Inhouse-Geschäft und interkommunale Zusammenarbeit vergaberechtlich p..."
+description: "Wenn es um Inhouse Interkommunal in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Inhouse-Geschäft und interkommunale Zusammenarbeit vergaberechtlich prüfen: öffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben

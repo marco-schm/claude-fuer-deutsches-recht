@@ -1,6 +1,6 @@
 ---
 name: ein-016-behoerde-und-archiv-finden
-description: "Einigungsvertrag und Vermögensrecht: Behörde und Archiv finden. Behörde und Archiv finden im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Behoerde Und Archiv Finden in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Behoerde Und Archiv Finden

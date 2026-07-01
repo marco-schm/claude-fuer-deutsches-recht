@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-produktsicherheit-vub-schnittstelle
-description: "Schnittstelle zwischen Produktsicherheitsanforderungen und Verboten und Beschraenkungen (VuB) im Zollrecht: CE-Kennzeichnung als Einfuhrvoraussetzung, RAPEX-Meldungen als Zollkontrollausloeser, Marktueberwaecheung und Zollbehordenzusammenarbeit nach VO (EU) 2019/1020. Output: Einfuhr-VuB-Matrix f..."
+description: "Wenn es um Produktsicherheit und Zoll-VuB: CE-Kennzeichnung und RAPEX-Schnittstelle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Produktsicherheit und Zoll-VuB: CE-Kennzeichnung und RAPEX-Schnittstelle

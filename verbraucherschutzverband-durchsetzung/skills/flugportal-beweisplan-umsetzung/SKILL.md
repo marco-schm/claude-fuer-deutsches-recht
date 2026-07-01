@@ -1,6 +1,6 @@
 ---
 name: flugportal-beweisplan-umsetzung
-description: "Verbraucherschutzverband Durchsetzung: Flugportal: Beweisplan erstellen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Flugportal Beweisplan Erstellen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flugportal Beweisplan Erstellen

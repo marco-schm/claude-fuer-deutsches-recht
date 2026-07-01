@@ -1,6 +1,6 @@
 ---
 name: eu-bekanntmachung-marktdefinition-2024
-description: "Skill zur neuen EU-Kommissions-Bekanntmachung zur Marktdefinition (Februar 2024) und ihrer praktischen Anwendung. Vergleich zur Bekanntmachung von 1997. Neue Elemente: digitale Maerkte Innovationswettbewerb Datenmaerkte beidseitiger SSNIP-Test und qualitative Evidenz. Fundstelle ABl 2024/C 1645 i..."
+description: "Wenn es um EU-Bekanntmachung zur Marktdefinition 2024 in Kartellrecht — Marktabgrenzungsprüfung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # EU-Bekanntmachung zur Marktdefinition 2024

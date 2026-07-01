@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-hessen
-description: "Prüft Hochschulprüfungsrecht in Hessen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule."
+description: "Wenn es um Prüfungsrecht Hessen in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfungsrecht Hessen

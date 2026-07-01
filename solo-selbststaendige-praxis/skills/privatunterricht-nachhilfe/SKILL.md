@@ -1,6 +1,6 @@
 ---
 name: privatunterricht-nachhilfe
-description: "Solo-Selbstständige: prüft Status, Datenschutz Minderjährige, AGB und Zahlungsmodell; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Branchenfälle: Prüft status in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Branchenfälle: Prüft status

@@ -1,6 +1,6 @@
 ---
 name: inso-p173-verwertung-durch-den-glaubiger
-description: "§ 173 InsO (Verwertung durch den Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 173 InsO (Verwertung durch den Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Recht..."
+description: "Wenn es um Inso P173 Verwertung Durch Den Glaubiger in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 173 InsO (Verwertung durch den Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

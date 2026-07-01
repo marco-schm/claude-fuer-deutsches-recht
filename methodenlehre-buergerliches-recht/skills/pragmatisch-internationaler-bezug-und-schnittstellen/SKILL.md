@@ -1,6 +1,6 @@
 ---
 name: pragmatisch-internationaler-bezug-und-schnittstellen
-description: "Dieses Skill behandelt die methodisch-pragmatische Bearbeitung von Sachverhalten mit internationalem Bezug im bürgerlichen Recht: Dieses Skill behandelt die methodisch-pragmatische Bearbeitung von Sachverhalten mit internationalem Bezug im bürgerlichen Rech..."
+description: "Wenn es um Pragmatisch Internationaler Bezug Und Schnittstellen in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dieses Skill behandelt die methodisch-pragmatische Bearbeitung von Sachverhalten mit internationalem Bezug im bürgerlichen Recht

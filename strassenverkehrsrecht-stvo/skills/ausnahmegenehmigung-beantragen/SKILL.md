@@ -1,6 +1,6 @@
 ---
 name: ausnahmegenehmigung-beantragen
-description: "Straßenverkehrsrecht StVO: Ausnahmegenehmigung beantragen. Ausnahmegenehmigung beantragen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Friste..."
+description: "Wenn es um Ausnahmegenehmigung Beantragen in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausnahmegenehmigung Beantragen

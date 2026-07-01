@@ -1,6 +1,6 @@
 ---
 name: luft-001-kaltstart-luftrechtsmandat
-description: "Luftrecht und Flughafenrecht: Kaltstart Luftrechtsmandat. Kaltstart Luftrechtsmandat im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Kaltstart Luftrechtsmandat in Luftrecht und Flughafenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Luftrechtsmandat

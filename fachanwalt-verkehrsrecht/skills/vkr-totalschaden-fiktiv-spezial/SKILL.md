@@ -1,6 +1,6 @@
 ---
 name: vkr-totalschaden-fiktiv-spezial
-description: "Spezialfall fiktive Abrechnung beim Totalschaden: Wiederbeschaffungswert minus Restwert, 130-Prozent-Grenze BGH, Verweisung auf guenstigere Reparaturen (BGH-Verweisrechtsprechung): Spezialfall fiktive Abrechnung beim Totalschaden: Wiederbeschaffungswert min..."
+description: "Wenn es um Vkr Totalschaden Fiktiv Spezial in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall fiktive Abrechnung beim Totalschaden: Wiederbeschaffungswert minus Restwert, 130-Prozent-Grenze BGH, Verweisung auf guenstigere Reparaturen (BGH-Verweisrechtsprechung)

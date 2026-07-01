@@ -1,6 +1,6 @@
 ---
 name: spezial-abnahme-livequellen-und-rechtsprechungscheck
-description: "Abnahme: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Abnahme: Livequellen- und Rechtsprechungscheck in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abnahme: Livequellen- und Rechtsprechungscheck

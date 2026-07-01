@@ -1,6 +1,6 @@
 ---
 name: rampe-handlauf-tuerverbreiterung-gemeinschaftsbereich
-description: "Rampe, beidseitige Handläufe, Tuerverbreiterung und Beleuchtungsoptimierung im Gemeinschaftseigentum (Stand 06/2026): DIN 18040 Masszahlen, Kostentragung § 21 WEG, Genehmigungspflicht Landesbauordnung, Beschlussvorlagen: Rampe, beidseitige Handläufe, Tuerv..."
+description: "Wenn es um Rampe Handlauf Tuerverbreiterung Gemeinschaftsbereich in WEG- und Hausverwaltung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Rampe, beidseitige Handläufe, Tuerverbreiterung und Beleuchtungsoptimierung im Gemeinschaftseigentum (Stand 06/2026): DIN 18040 Masszahlen, Kostentragung § 21 WEG, Genehmigungspflicht Landesbauordnung, Beschlussvorlagen.

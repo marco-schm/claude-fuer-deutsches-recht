@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-saarland
-description: "Prüft Hochschulprüfungsrecht in Saarland mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht."
+description: "Wenn es um Pruefungsrecht Saarland in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pruefungsrecht Saarland

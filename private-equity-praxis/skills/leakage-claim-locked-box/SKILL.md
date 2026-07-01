@@ -1,6 +1,6 @@
 ---
 name: leakage-claim-locked-box
-description: "Prüft Permitted Leakage, verbotene Leakage, Belege, Claim-Notice und Vergleichsstrategie im Private Equity Praxis."
+description: "Wenn es um Leakage Claim im Locked-Box Deal in Private Equity Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Leakage Claim im Locked-Box Deal

@@ -1,6 +1,6 @@
 ---
 name: landlord-tenant-retail
-description: "Prüft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims im US Bankruptcy Code."
+description: "Wenn es um Landlord Tenant and Retail Bankruptcy in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landlord Tenant and Retail Bankruptcy

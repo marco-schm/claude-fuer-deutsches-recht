@@ -1,6 +1,6 @@
 ---
 name: spezial-verifizierter-mandantenentscheidung
-description: "Verifizierter: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Verifizierter: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verifizierter: Mandantenkommunikation und Entscheidungsvorlage

@@ -1,6 +1,6 @@
 ---
 name: bundesverfassungsgericht-quellenkarte-check
-description: "BVerfG-Quellenkarte für tragende verfassungsrechtliche Aussagen: amtliche Entscheidung, Aktenzeichen, Entscheidungsform, Datum, Randnummer, Tenorbindung nach § 31 BVerfGG und Übertragbarkeit auf den konkreten Fall."
+description: "Wenn es um Bundesverfassungsgericht Quellenkarte in verfassungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bundesverfassungsgericht Quellenkarte

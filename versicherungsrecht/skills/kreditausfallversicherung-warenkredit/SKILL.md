@@ -1,6 +1,6 @@
 ---
 name: kreditausfallversicherung-warenkredit
-description: "Kreditausfall-/Warenkreditversicherung: Limit, Forderungsausfall, Insolvenztatbestand, Obliegenheiten, Selbstbehalt, Factoring-Schnittstelle und Regress im Versicherungsrecht."
+description: "Wenn es um Kreditausfallversicherung und Warenkreditversicherung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Kreditausfallversicherung und Warenkreditversicherung

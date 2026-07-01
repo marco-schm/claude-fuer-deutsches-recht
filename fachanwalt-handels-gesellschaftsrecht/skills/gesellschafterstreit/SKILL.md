@@ -1,6 +1,6 @@
 ---
 name: gesellschafterstreit
-description: "Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit: ordnet Normen, Nutzerangaben..."
+description: "Wenn es um Gesellschafterstreit in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

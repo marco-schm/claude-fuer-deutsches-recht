@@ -1,6 +1,6 @@
 ---
 name: hundehaltung-strafrisiko-bewerten
-description: "Hundehaltung: Strafrisiko bewerten im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Hundehaltung Strafrisiko Bewerten in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hundehaltung Strafrisiko Bewerten

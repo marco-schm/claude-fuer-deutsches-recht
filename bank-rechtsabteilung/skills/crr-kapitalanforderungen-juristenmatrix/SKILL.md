@@ -1,6 +1,6 @@
 ---
 name: crr-kapitalanforderungen-juristenmatrix
-description: "CRR-Juristenmatrix für Bank-Legal: Art.-4-Begriffe, Eigenmittel, Großkredite, Gruppen verbundener Kunden, Liquidität, Leverage, Sicherheiten, Garantien und Vertragsfolgen in Legal Notes und Vorstandsvorlagen übersetzen im Bank-Rechtsabteilung."
+description: "Wenn es um CRR-Kapitalanforderungen für Juristen in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # CRR-Kapitalanforderungen für Juristen

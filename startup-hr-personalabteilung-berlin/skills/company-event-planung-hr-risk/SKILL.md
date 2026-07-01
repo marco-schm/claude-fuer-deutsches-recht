@@ -1,6 +1,6 @@
 ---
 name: company-event-planung-hr-risk
-description: "Berliner Start-up-HR: Betriebsfeier planen: Alkohol, Awareness, Fotoeinwilligung, Kosten, Arbeitszeit, Versicherung und Eskalationsplan. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Company Event Planung HR Risk in Start-up-HR-Personalabteilung Berlin geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Company Event Planung HR Risk

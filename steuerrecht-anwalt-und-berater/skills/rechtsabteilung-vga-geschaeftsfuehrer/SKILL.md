@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-vga-geschaeftsfuehrer
-description: "Rechtsabteilungs-Fachmodul für vGA bei Geschäftsführer- und Beiratsvergütung: Vergütung, Rückwirkung, Dokumentation und Fremdvergleich werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Wenn es um Rechtsabteilung: vGA bei Geschäftsführer- und Beiratsvergütung in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Rechtsabteilung Vga Geschäftsführer; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Rechtsabteilung: vGA bei Geschäftsführer- und Beiratsvergütung

@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-industrieanlage-medien
-description: "Bauueberwachung nach HOAI LPH 8 für Industrieanlagen mit komplexen Medieninfrastrukturen — Prüfung Druckrohr-Systeme nach DVGW W 400 und TRWI, Ex-Schutzbereich-Abnahme nach ATEX-Richtlinie 2014/34/EU, Druckbehaelterabnahme nach PED 2014/68/EU und Kuehlwasserkreislauf nach DIN EN ISO 13849. Unter..."
+description: "Wenn es um Bauueberwachung Industrieanlage Medien (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Industrieanlage Medien (LPH 8)

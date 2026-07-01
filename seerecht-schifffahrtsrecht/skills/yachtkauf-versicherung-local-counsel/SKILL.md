@@ -1,6 +1,6 @@
 ---
 name: yachtkauf-versicherung-local-counsel
-description: "Yachtkauf: Schadensereignis an Segel- oder Motorjacht melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht im Seerecht Schifffahrtsrecht."
+description: "Wenn es um Yachtkauf – Schadensfall bei Versicherung melden in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Yachtkauf – Schadensfall bei Versicherung melden

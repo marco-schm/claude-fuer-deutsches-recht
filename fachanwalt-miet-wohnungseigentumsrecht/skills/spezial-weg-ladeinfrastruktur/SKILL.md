@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-ladeinfrastruktur
-description: "WEG Ladeinfrastruktur: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Einzelanspruch, Gemeinschaftslösung, Lastmanagement, Brandschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um WEG Ladeinfrastruktur in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Ladeinfrastruktur

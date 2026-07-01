@@ -1,6 +1,6 @@
 ---
 name: kv-024-widerspruch-ablehnung-frist-begruendung
-description: "Krankenversicherung: Widerspruch gegen Leistungsablehnung Frist und Begründung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Widerspruch gegen Leistungsablehnung Frist und Begründung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Widerspruch gegen Leistungsablehnung Frist und Begründung

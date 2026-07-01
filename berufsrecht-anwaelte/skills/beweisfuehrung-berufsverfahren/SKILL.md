@@ -1,6 +1,6 @@
 ---
 name: beweisfuehrung-berufsverfahren
-description: "Anwälte: beweisfuehrung im berufsverfahren - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Beweisfuehrung Berufsverfahren in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: beweisfuehrung im berufsverfahren - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

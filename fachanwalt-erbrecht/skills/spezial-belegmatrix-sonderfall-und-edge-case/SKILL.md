@@ -1,6 +1,6 @@
 ---
 name: spezial-belegmatrix-sonderfall-und-edge-case
-description: "Belegmatrix: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Belegmatrix: Sonderfall und Edge-Case-Prüfung in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Belegmatrix: Sonderfall und Edge-Case-Prüfung

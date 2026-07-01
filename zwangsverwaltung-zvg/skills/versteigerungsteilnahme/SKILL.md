@@ -1,6 +1,6 @@
 ---
 name: versteigerungsteilnahme
-description: "Vorbereitung der Teilnahme am Zwangsversteigerungstermin für Gläubiger oder Bieter. Anwendungsfall Mandant will an Versteigerungstermin teilnehmen und benoetigt vollständige Vorbereitung. Normen §§ 87 ff. ZVG Termin § 74a ZVG geringstes Gebot § 81 ZVG Sicherheitsleistung § 85a ZVG Zuschlagsversag..."
+description: "Wenn es um Teilnahme am Versteigerungstermin in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Teilnahme am Versteigerungstermin

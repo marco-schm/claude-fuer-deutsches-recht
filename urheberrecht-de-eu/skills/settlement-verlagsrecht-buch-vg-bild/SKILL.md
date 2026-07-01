@@ -1,6 +1,6 @@
 ---
 name: settlement-verlagsrecht-buch-vg-bild
-description: "Entwickelt Vergleichsstrategie bei Musik-, KI-, Software- und Content-Streit: Unterlassung, Lizenz, Accounting, Credit, Release im Urheberrecht De Eu."
+description: "Wenn es um Vergleich und Settlement in Urheberrecht DE EU geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich und Settlement

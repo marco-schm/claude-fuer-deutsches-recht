@@ -1,6 +1,6 @@
 ---
 name: open-source-urheberrecht-und-lizenzkette
-description: "Prüft Open-Source-Komponenten als Teil der Software-Rechtekette inklusive Copyleft, Notices, Source-Angebot und M&A-Risiko im Softwarerecht De Eu Us."
+description: "Wenn es um Open Source Rechtekette in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Open Source Rechtekette

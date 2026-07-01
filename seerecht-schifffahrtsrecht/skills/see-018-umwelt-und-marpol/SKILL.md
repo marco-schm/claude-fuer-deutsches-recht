@@ -1,6 +1,6 @@
 ---
 name: see-018-umwelt-und-marpol
-description: "See- und Schifffahrtsrecht: Umwelt und MARPOL. Umwelt und MARPOL im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Umwelt Und Marpol in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umwelt Und Marpol

@@ -1,6 +1,6 @@
 ---
 name: asbestos-channeling-automatic-stay-avoidance
-description: "Prüft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment im US Bankruptcy Code."
+description: "Wenn es um Asbestos Channeling Injunctions Paragraf 524(g) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Asbestos Channeling Injunctions § 524(g)

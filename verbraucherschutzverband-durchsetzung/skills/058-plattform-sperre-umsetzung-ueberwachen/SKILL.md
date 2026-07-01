@@ -1,6 +1,6 @@
 ---
 name: 058-plattform-sperre-umsetzung-ueberwachen
-description: "Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Umsetzung überwachen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Plattform Sperre Umsetzung Ueberwachen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Plattform Sperre Umsetzung Ueberwachen

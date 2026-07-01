@@ -1,6 +1,6 @@
 ---
 name: pflichtteil-vaterschaft-verjaehrung-und-auskunft
-description: "Führt durch Pflichtteilsfälle mit später festgestellter Vaterschaft, § 1600d Abs: 5 BGB, § 2317 BGB, § 199 BGB und Auskunftsansprüchen nach § 2314 BGB."
+description: "Wenn es um Pflichtteil Vaterschaft Verjaehrung Und Auskunft in Fachanwalt Erbrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Führt durch Pflichtteilsfälle mit später festgestellter Vaterschaft, § 1600d Abs

@@ -1,6 +1,6 @@
 ---
 name: battery-ev-solar-supply-chain
-description: "Batterie-, EV- und Solarlieferketten aus China: EU-Batterie-VO 2023/1542 Sorgfaltspflichten, Carbon-Footprint-Deklaration, Recycling-Quoten, Solar-Anti-Dumping-Maßnahmen EU, XUAR-Bezug Polysilizium, Critical Raw Materials Act Lithium/Kobalt, LkSG-Risikoanalyse Bergbau. Output: Supply-Chain-Compli..."
+description: "Wenn es um Batterie/EV/Solar-Lieferkette China: Regulierung und Compliance in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Batterie/EV/Solar-Lieferkette China: Regulierung und Compliance

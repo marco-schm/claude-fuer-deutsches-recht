@@ -1,6 +1,6 @@
 ---
 name: bfsg-tatbestand-beweis-und-belege
-description: "BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage in Barrierefreiheit Web Checker geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage

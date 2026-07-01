@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeit-baupflicht-notar
-description: "Prüft Bauverpflichtung, energetische Standards, Fördermittel, Verzögerung und Sanktionen im Erbbaurecht Praxis."
+description: "Wenn es um Baupflicht und Nachhaltigkeit in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Baupflicht und Nachhaltigkeit

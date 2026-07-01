@@ -1,6 +1,6 @@
 ---
 name: ihl-032-exportkontrolle-dual-use
-description: "Internationales Handelsrecht und Lex Mercatoria: Exportkontrolle Dual Use. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Exportkontrolle Dual Use in Internationales Handelsrecht und Lex Mercatoria geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exportkontrolle Dual Use

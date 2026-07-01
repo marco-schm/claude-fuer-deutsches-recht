@@ -1,6 +1,6 @@
 ---
 name: pferdestall-strafrisiko-bewerten
-description: "Pferdestall: Strafrisiko bewerten im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Pferdestall Strafrisiko Bewerten in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pferdestall Strafrisiko Bewerten

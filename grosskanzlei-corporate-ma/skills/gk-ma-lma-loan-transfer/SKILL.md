@@ -1,6 +1,6 @@
 ---
 name: gk-ma-lma-loan-transfer
-description: "Prüft LMA-basierte Transfermechanik im syndizierten Kredit: Assignment, Novation, Transfer Certificate, Consent, Agent und Register: Prüft LMA-basierte Transfermechanik im syndizierten Kredit: Assignment, Novation, Transfer Certificate, Consent, Agent und..."
+description: "Wenn es um Gk M&A Lma Loan Transfer in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüft LMA-basierte Transfermechanik im syndizierten Kredit: Assignment, Novation, Transfer Certificate, Consent, Agent und Register.

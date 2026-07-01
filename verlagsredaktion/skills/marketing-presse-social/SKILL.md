@@ -1,6 +1,6 @@
 ---
 name: marketing-presse-social
-description: "Erstellt Verlagstexte für Vorschau, Newsletter, Presse, Website und Social Media aus Manuskript, Zielgruppe und Produktnutzen im Verlagsredaktion."
+description: "Wenn es um Marketing, Presse und Social in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Marketing, Presse und Social

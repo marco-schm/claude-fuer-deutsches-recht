@@ -1,6 +1,6 @@
 ---
 name: live-zahlen-schwellen-und-berechnung
-description: "Live: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Live: Zahlen, Schwellenwerte und Berechnung in Schriftform und Textform im BGB geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Live: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Dokumentengetriebene Ersttriage einer Forderungsakte: wertet zuerst Ordner, ZIP, Rechnungen, Mahnungen, Kontoauszuege, Mahnbescheid, Widerspruch oder Klageentwurf aus, bildet eine Aktenhypothese und fragt danach nur echte Luecken ab. Pinpoints ZPO 253/688 ff.; BGB 271/286/288/362/195/199; GVG 23/71."
+description: "Wenn es um Kaltstart-Triage Forderungssache in Forderungsmanagement — Klagewerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kaltstart-Triage Forderungssache

@@ -1,6 +1,6 @@
 ---
 name: weekly-ops-standup
-description: "Führt Fristen, Cash, OPOS, Staffing, IT, HR und blockierte Entscheidungen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Weekly Ops Standup in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weekly Ops Standup

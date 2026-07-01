@@ -1,6 +1,6 @@
 ---
 name: register-filings-implementation
-description: "Register Filings und Implementation Manager: plant Handelsregister, Transparenzregister, Gesellschafterlisten, Umwandlungsanmeldungen, Notarvollzug und Post-Closing-Filings: Register Filings und Implementation Manager: plant Handelsregister, Transparenzreg..."
+description: "Wenn es um Register Filings Implementation in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Register Filings und Implementation Manager: plant Handelsregister, Transparenzregister, Gesellschafterlisten, Umwandlungsanmeldungen, Notarvollzug und Post-Closing-Filings.

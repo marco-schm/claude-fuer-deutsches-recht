@@ -1,6 +1,6 @@
 ---
 name: luft-107-slot-insolvenzrisiko-markieren
-description: "Luftrecht und Flughafenrecht: Slot: Insolvenzrisiko markieren. Insolvenzrisiko markieren für Slot im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Slot Insolvenzrisiko Markieren in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Slot Insolvenzrisiko Markieren

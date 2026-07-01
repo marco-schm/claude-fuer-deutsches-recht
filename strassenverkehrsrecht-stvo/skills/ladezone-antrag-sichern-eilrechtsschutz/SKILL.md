@@ -1,6 +1,6 @@
 ---
 name: ladezone-antrag-sichern-eilrechtsschutz
-description: "StVO: Ladezone: Antrag schreiben im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Ladezone Antrag Schreiben in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ladezone Antrag Schreiben

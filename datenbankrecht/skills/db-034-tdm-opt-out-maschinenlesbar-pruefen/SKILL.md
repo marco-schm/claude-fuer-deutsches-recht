@@ -1,6 +1,6 @@
 ---
 name: db-034-tdm-opt-out-maschinenlesbar-pruefen
-description: "Datenbankrecht: TDM Opt-out maschinenlesbar prüfen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: TDM Opt-out maschinenlesbar prüfen in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: TDM Opt-out maschinenlesbar prüfen

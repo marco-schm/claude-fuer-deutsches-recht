@@ -1,6 +1,6 @@
 ---
 name: notar-gesellschafterliste-fehler-praevention
-description: "Notar Gesellschafterliste Fehler (Präventions- und Organisationspaket): steuert fehlerhafte Gesellschafterliste, Registervollzug, Rechtsschein, Korrektur und Amtshaftung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt."
+description: "Wenn es um Notar Gesellschafterliste Fehler: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Notar Gesellschafterliste Fehler: Präventions- und Organisationspaket

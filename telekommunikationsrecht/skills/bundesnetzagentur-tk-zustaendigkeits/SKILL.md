@@ -1,6 +1,6 @@
 ---
 name: bundesnetzagentur-tk-zustaendigkeits
-description: "Verfahren vor der Bundesnetzagentur: Anhörung, Akteneinsicht, Geschäftsgeheimnisse, Beiladung, Fristen, Beschlusskammerlogik und gerichtliche Anschlussstrategie im Telekommunikationsrecht."
+description: "Wenn es um BNetzA-Verfahren: Akteneinsicht, Anhörung, Fristen in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BNetzA-Verfahren: Akteneinsicht, Anhörung, Fristen

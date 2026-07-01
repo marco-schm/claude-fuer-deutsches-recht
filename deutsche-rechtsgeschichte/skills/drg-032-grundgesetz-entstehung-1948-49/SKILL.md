@@ -1,6 +1,6 @@
 ---
 name: drg-032-grundgesetz-entstehung-1948-49
-description: "Deutsche Rechtsgeschichte: Grundgesetz Entstehung 1948 49. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Grundgesetz Entstehung 1948 49 in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundgesetz Entstehung 1948 49

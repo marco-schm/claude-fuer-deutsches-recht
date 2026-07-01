@@ -1,6 +1,6 @@
 ---
 name: kfe-stabilisierungsanordnung-spezial
-description: "Spezialfall Stabilisierungsanordnung §§ 49 ff. StaRUG: Verwertungs- und Vollstreckungssperre, Voraussetzungen, Befristung. Prüfraster für Antragsteller und betroffene Gläubiger im Krisenfrueherkennung Starug."
+description: "Wenn es um KFE: Stabilisierungsanordnung in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KFE: Stabilisierungsanordnung

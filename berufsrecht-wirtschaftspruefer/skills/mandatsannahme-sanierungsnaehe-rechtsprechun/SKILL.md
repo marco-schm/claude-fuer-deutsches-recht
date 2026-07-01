@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-sanierungsnaehe-rechtsprechun
-description: "Wirtschaftsprüfer: mandatsannahme sanierungsnaehe - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Mandatsannahme Sanierungsnaehe Rechtsprechun in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: mandatsannahme sanierungsnaehe - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: spezial-verkehr-livequellen-und-rechtsprechungscheck
-description: "Verkehr: Livequellen- und Rechtsprechungscheck im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Verkehr: Livequellen- und Rechtsprechungscheck in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verkehr: Livequellen- und Rechtsprechungscheck

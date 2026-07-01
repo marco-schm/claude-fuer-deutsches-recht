@@ -1,6 +1,6 @@
 ---
 name: due-diligence
-description: "Commercial Contracts Due Diligence im M&A-Datenraum: Anwendungsfall Kaeufer-Anwalt prüft wesentliche Kundenvertraege, Lieferantenvertraege, IP-Lizenzen, Change-of-Control-Klauseln und Kündigungsrechte. Paragraf 433 ff. BGB SPA-Garantien, Paragraf 305 ff. BGB AGB-Recht. Prüfraster Change-of-Control-Klauseln,..."
+description: "Wenn es um Kommerzielle Vertrags-DD in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommerzielle Vertrags-DD

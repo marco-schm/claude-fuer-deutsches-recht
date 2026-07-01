@@ -1,6 +1,6 @@
 ---
 name: brki-eu-us-dpf-transferpruefung
-description: "Spezialfall Transfer nach USA unter EU-US-Data-Privacy-Framework DPF: Liste teilnehmender Unternehmen, Prüfraster für Wirksamkeit (Selbstzertifizierung, Annual-Recertification), Backup-Plan SCC Modul 2 plus TIA bei Verlust DPF."
+description: "Wenn es um BRKI: EU-US-DPF Transfer in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # BRKI: EU-US-DPF Transfer

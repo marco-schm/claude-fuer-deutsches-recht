@@ -1,6 +1,6 @@
 ---
 name: rollout-mail-bestandskunden
-description: "Output- und Streit-Skill für Rollout Mail Bestandskunden: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen."
+description: "Wenn es um Rollout Mail Bestandskunden in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Rollout Mail Bestandskunden

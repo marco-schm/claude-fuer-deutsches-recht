@@ -1,6 +1,6 @@
 ---
 name: krankenhausgesellschaft-risiko-verteil
-description: "Krankenhausgesellschaft: Risiko verteilen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Krankenhausgesellschaft Risiko Verteil in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenhausgesellschaft Risiko Verteil

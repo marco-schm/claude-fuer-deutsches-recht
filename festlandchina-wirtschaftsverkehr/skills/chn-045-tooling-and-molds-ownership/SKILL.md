@@ -1,6 +1,6 @@
 ---
 name: chn-045-tooling-and-molds-ownership
-description: "Festlandchina Wirtschaftsverkehr: Tooling And Molds Ownership. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Tooling And Molds Ownership in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tooling And Molds Ownership

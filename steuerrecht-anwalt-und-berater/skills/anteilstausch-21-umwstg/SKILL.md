@@ -1,6 +1,6 @@
 ---
 name: anteilstausch-21-umwstg
-description: "Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualifizierter Anteilstausch Mehrheitsstimmen und Rechtsfolgen Buchwert. Anwendungsfall Eine natuerliche Person oder Personengesellschaft uebertraegt Anteile an einer Kapitalgesellschaft gegen Gewaehrung neuer Anteile an einer anderen Kap..."
+description: "Wenn es um Anteilstausch — Paragraf 21 UmwStG Voraussetzungen und Sperrfrist in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anteilstausch — § 21 UmwStG Voraussetzungen und Sperrfrist

@@ -1,6 +1,6 @@
 ---
 name: pruefungsvorschlaege
-description: "Prüft und genehmigt (oder lehnt ab) ausstehende Playbook-Aktualisierungsvorschläge des Playbook-Monitor-Agenten und überträgt genehmigte Änderungen in das Kanzleiprofil. Lädt, wenn der Monitor Vorschläge gemeldet hat, wenn der Nutzer Playbook-Vorschläge prüfen, welche Playbook-Updates sind ausste..."
+description: "Wenn es um Playbook-Vorschläge prüfen und genehmigen in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Playbook-Vorschläge prüfen und genehmigen

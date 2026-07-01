@@ -1,6 +1,6 @@
 ---
 name: sitzungsplanung-sonderpruefung-forensic
-description: "AG/SE-Aufsichtsrat Praxis: Sitzungsplanung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um Sitzungsplanung in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Sitzungsplanung

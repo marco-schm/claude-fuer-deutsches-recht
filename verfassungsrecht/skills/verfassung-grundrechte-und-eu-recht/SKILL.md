@@ -1,6 +1,6 @@
 ---
 name: verfassung-grundrechte-und-eu-recht
-description: "GG-Grundrechte, EU-Grundrechtecharta und Unionsrecht sauber abgrenzen: Solange, Bananenmarkt, Recht auf Vergessen I/II, Art. 51 GRC, Anwendungsvorrang, Identitätskontrolle und konkrete Vorlagefragen."
+description: "Wenn es um GG-Grundrechte und EU-Grundrechte in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GG-Grundrechte und EU-Grundrechte

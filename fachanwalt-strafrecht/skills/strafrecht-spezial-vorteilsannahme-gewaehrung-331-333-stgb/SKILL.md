@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-vorteilsannahme-gewaehrung-331-333-stgb
-description: "Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB: Anwendungsfall Verteidigung bei Vorwurf Annahme oder Gewaehrung eines Vorteils für die Dienstausuebung eines Amtstraegers: Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB: Anwendungs..."
+description: "Wenn es um Strafrecht Spezial Vorteilsannahme Gewaehrung 331 333 Stgb in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB: Anwendungsfall Verteidigung bei Vorwurf Annahme oder Gewaehrung eines Vorteils für die Dienstausuebung eines Amtstraegers

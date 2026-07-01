@@ -1,6 +1,6 @@
 ---
 name: spezial-passbeschaffung-zumutbarkeit
-description: "Passbeschaffung Zumutbarkeit: Spezial-Skill im Migrationsrecht; prüft Mitwirkung, Botschaftskontakt, Schutzstatus, Beweisalternativen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Passbeschaffung Zumutbarkeit in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Passbeschaffung Zumutbarkeit

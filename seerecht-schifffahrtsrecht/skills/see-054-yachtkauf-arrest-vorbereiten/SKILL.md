@@ -1,6 +1,6 @@
 ---
 name: see-054-yachtkauf-arrest-vorbereiten
-description: "See- und Schifffahrtsrecht: Yachtkauf: Arrest vorbereiten. Arrest vorbereiten für Yachtkauf im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Yachtkauf Arrest Vorbereiten in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Yachtkauf Arrest Vorbereiten

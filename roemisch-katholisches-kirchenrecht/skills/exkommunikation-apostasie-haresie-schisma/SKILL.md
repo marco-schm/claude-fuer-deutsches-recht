@@ -1,6 +1,6 @@
 ---
 name: exkommunikation-apostasie-haresie-schisma
-description: "Exkommunikation, Apostasie, Häresie, Schisma: Tatbestand, Zurechenbarkeit, Strafe, Remission und Sprache; CIC can. 751 und 1311-1399 und 1364; KKK 817-822 und 2089 und 1463; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einsc..."
+description: "Wenn es um Exkommunikation, Apostasie, Häresie, Schisma in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exkommunikation, Apostasie, Häresie, Schisma

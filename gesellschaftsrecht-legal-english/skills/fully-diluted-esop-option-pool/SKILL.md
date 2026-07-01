@@ -1,6 +1,6 @@
 ---
 name: fully-diluted-esop-option-pool
-description: "Fuehrt durch fully diluted basis, ESOP, VSOP, Option Pool, Wandlungsrechte, Verwässerung und die Frage, welche Instrumente in die Berechnung gehoeren im Gesellschaftsrecht Legal English."
+description: "Wenn es um Fully Diluted, ESOP und Option Pool in Didaktisches Gesellschaftsrecht — English Business Terms geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Fully Diluted, ESOP und Option Pool

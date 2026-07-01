@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Vertragsausfüller: trennt fehlende Tatsachen von fehlenden Belegen (Vertragsentwurf, Mustervertrag, Anlagen), nennt pro Lücke Beweisthema, Beschaffungsweg (zuständige Stelle), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

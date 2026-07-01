@@ -1,6 +1,6 @@
 ---
 name: finanzierung-bankfaehigkeit-gemeinde-kirche
-description: "Prüft Beleihbarkeit, Rang, Laufzeitrest, Heimfallrisiko, Erbbauzinsrückstände und Bankauflagen im Erbbaurecht Praxis."
+description: "Wenn es um Finanzierung des Erbbaurechts in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Finanzierung des Erbbaurechts

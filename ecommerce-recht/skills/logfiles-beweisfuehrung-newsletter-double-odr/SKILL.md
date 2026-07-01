@@ -1,6 +1,6 @@
 ---
 name: logfiles-beweisfuehrung-newsletter-double-odr
-description: "Logfiles Beweisführung Checkout: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG im Ecommerce Recht."
+description: "Wenn es um Logfiles Beweisführung Checkout in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Logfiles Beweisführung Checkout

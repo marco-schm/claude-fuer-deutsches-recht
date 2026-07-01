@@ -1,6 +1,6 @@
 ---
 name: frachtfuehrerhaftung-paragraf-425-hgb
-description: "Frachtfuehrerhaftung § 425 HGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Frachtfuehrerhaftung Paragraf 425 HGB in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frachtfuehrerhaftung § 425 HGB

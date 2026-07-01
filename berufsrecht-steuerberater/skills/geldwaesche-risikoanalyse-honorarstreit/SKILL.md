@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-risikoanalyse-honorarstreit
-description: "Steuerberater: geldwaesche risikoanalyse steuerkanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Geldwaesche Risikoanalyse Honorarstreit in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: geldwaesche risikoanalyse steuerkanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

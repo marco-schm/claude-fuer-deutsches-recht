@@ -1,6 +1,6 @@
 ---
 name: mahn-fristen-form-und-zustaendigkeit
-description: "Mahn: Fristen, Form, Zuständigkeit und Rechtsweg im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Mahn: Fristen, Form, Zuständigkeit und Rechtsweg in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mahn: Fristen, Form, Zuständigkeit und Rechtsweg

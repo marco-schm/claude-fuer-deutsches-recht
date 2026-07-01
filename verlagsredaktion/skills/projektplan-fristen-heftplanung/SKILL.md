@@ -1,6 +1,6 @@
 ---
 name: projektplan-fristen-heftplanung
-description: "Erstellt Projektplaene für Heft, Onlinebeitrag, Buchkapitel, Kommentarupdate oder Sonderband mit Deadlines, Abhaengigkeiten und Verantwortlichen im Verlagsredaktion."
+description: "Wenn es um Projektplan, Fristen und Heftplanung in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Projektplan, Fristen und Heftplanung

@@ -1,6 +1,6 @@
 ---
 name: red-team-investment-thesis
-description: "Testet Deal-These gegen Rechts-, Markt-, Finanzierungs-, Regulierungs- und Exit-Risiken."
+description: "Wenn es um Red Team der Investment Thesis in Private Equity Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red Team der Investment Thesis

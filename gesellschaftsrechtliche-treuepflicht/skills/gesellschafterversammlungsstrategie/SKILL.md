@@ -1,6 +1,6 @@
 ---
 name: gesellschafterversammlungsstrategie
-description: "Gesellschaftsrechtliche Treuepflicht: Gesellschafterversammlungsstrategie; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Gesellschafterversammlungsstrategie in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Gesellschafterversammlungsstrategie

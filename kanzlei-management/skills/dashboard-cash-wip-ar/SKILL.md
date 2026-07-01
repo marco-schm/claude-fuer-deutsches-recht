@@ -1,6 +1,6 @@
 ---
 name: dashboard-cash-wip-ar
-description: "Verbindet Cash, WIP, Debitoren, Lock-up, DSO und Partneraktionen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Cash WIP AR Dashboard in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cash WIP AR Dashboard

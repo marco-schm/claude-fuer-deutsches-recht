@@ -1,6 +1,6 @@
 ---
 name: immor-bodenrichtwert-betriebskostenabrechnung
-description: "Spezialfall Bodenrichtwert und Bewertung im Erb- und Steuerfall: ImmoWertV 2021, Vergleichswertverfahren, Ertragswertverfahren. Prüfraster für Finanzamt und Gutachter im Immobilienrechtspraxis."
+description: "Wenn es um ImmoR: Bodenrichtwert-Bewertung in Immobilienrechtspraxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # ImmoR: Bodenrichtwert-Bewertung

@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Gewerblicher Rechtsschutz (allgemein): stimmt Adressat (Schutzrechtsinhaber, Verletzer, Konkurrent), Frist (Markenwiderspruch 3 Monate) und Form auf den Zweck ab — typische Outputs: Anmeldung Marke/Design, Widerspruch, Verletzungsklage."
+description: "Wenn es um Output wählen in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: asymmetrische-demobilisierung
-description: "Wahlkampfrecht Praxis: Demobilisierungsstrategien analysieren im Wahlkampfrecht."
+description: "Wenn es um Asymmetrische Demobilisierung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Asymmetrische Demobilisierung

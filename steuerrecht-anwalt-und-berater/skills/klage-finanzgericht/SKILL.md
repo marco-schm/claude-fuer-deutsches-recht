@@ -1,6 +1,6 @@
 ---
 name: klage-finanzgericht
-description: "Klageschrift zum Finanzgericht nach §§ 40 ff. FGO entwerfen. Anwendungsfall Einspruch wurde zurückgewiesen Mandant will Klage einreichen oder Untätigkeitsklage nach sechs Monaten ohne Entscheidung. Klagefrist ein Monat nach Bekanntgabe Einspruchsentscheidung § 47 Abs. 1 FGO ein Jahr bei fehlender..."
+description: "Wenn es um Klage zum Finanzgericht in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klage zum Finanzgericht

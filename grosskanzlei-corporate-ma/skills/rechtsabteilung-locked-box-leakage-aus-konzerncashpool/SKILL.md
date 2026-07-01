@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-locked-box-leakage-aus-konzerncashpool
-description: "Rechtsabteilungs-Fachmodul für Locked Box Leakage aus Konzerncashpool: Leakage wird aus Zahlungsflüssen, Cashpool, Management Fees und Related-Party-Deals herausgezogen: Rechtsabteilungs-Fachmodul für Locked Box Leakage aus Konzerncashpool: Leakage wird aus..."
+description: "Wenn es um Rechtsabteilung Locked Box Leakage Aus Konzerncashpool in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsabteilungs-Fachmodul für Locked Box Leakage aus Konzerncashpool: Leakage wird aus Zahlungsflüssen, Cashpool, Management Fees und Related-Party-Deals herausgezogen

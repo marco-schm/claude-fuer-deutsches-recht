@@ -1,6 +1,6 @@
 ---
 name: inso-p303-widerruf-der-restschuldbefreiung
-description: "§ 303 InsO (Widerruf der Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 303 InsO (Widerruf der Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, R..."
+description: "Wenn es um Inso P303 Widerruf Der Restschuldbefreiung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 303 InsO (Widerruf der Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

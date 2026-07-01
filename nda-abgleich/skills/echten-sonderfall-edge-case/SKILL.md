@@ -1,6 +1,6 @@
 ---
 name: echten-sonderfall-edge-case
-description: "Echten: Sonderfall und Edge-Case-Prüfung im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente,..."
+description: "Wenn es um Echten: Sonderfall und Edge-Case-Prüfung in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Echten Sonderfall Edge Case; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # Echten: Sonderfall und Edge-Case-Prüfung

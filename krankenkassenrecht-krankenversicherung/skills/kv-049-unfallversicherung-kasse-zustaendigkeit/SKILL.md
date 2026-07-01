@@ -1,6 +1,6 @@
 ---
 name: kv-049-unfallversicherung-kasse-zustaendigkeit
-description: "Krankenversicherung: Unfallversicherung oder Krankenkasse Zuständigkeitsstreit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Unfallversicherung oder Krankenkasse Zuständigkeitsstreit in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Unfallversicherung oder Krankenkasse Zuständigkeitsstreit

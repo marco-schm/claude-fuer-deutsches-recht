@@ -1,6 +1,6 @@
 ---
 name: strafprozess-willensmaengel
-description: "Strafprozess im ALR — Inquisitionsverfahren. Skill behandelt das Inquisitionsprinzip die Folter-Aufhebung Friedrichs II. 1740 die Beweismittel Indizienbeweis Folterabbau und die Reform durch die rheinische Strafprozessordnung 1849 mit Schwurgericht. Liefert Quellenmatrix im Preußisches Allgemeine..."
+description: "Wenn es um Pralr Strafprozess Und Inquisition in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Strafprozess Willensmaengel; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Pralr Strafprozess Und Inquisition

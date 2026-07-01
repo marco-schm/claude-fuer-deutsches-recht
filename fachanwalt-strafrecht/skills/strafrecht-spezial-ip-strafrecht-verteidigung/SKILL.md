@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-ip-strafrecht-verteidigung
-description: "Verteidigung im IP-Strafrecht und Strafantragsfristen: Querschnittsthema zu Paragraphen 106 108 108a 108b UrhG 143 143a 144 MarkenG 142 PatG 51 DesignG 23 GeschGehG. Strafantragsfrist Paragraph 77b StGB..."
+description: "Wenn es um Verteidigung im IP-Strafrecht und Strafantragsfristen in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verteidigung im IP-Strafrecht und Strafantragsfristen

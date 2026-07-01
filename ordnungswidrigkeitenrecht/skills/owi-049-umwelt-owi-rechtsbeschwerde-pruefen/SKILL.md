@@ -1,6 +1,6 @@
 ---
 name: owi-049-umwelt-owi-rechtsbeschwerde-pruefen
-description: "Ordnungswidrigkeitenrecht: Umwelt-OWi: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Umwelt Owi Rechtsbeschwerde Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umwelt Owi Rechtsbeschwerde Pruefen

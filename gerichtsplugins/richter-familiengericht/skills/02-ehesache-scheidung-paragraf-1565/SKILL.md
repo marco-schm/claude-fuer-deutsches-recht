@@ -1,6 +1,6 @@
 ---
 name: 02-ehesache-scheidung-paragraf-1565
-description: "Scheidungsverfahren Paragrafen 1564 ff. BGB i.V.m. Paragrafen 121 ff. FamFG: Trennungsjahr Paragraf 1566, Zerruettung Paragraf 1565, Versorgungsausgleich Paragraf 1587, Folgesachen Paragraf 137 FamFG (Unterhalt, Sorgerecht, Zugewinn, Hausrat, Ehewohnung)"
+description: "Wenn es um 02 Ehesache Scheidung Paragraf 1565 in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 02 Ehesache Scheidung Paragraf 1565

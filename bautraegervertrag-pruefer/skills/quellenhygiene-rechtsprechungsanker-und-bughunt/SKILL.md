@@ -1,6 +1,6 @@
 ---
 name: quellenhygiene-rechtsprechungsanker-und-bughunt
-description: "Quellen- und Bug-Hunt-Skill für Bauträgervertragsprüfungen: verifiziert Normenstand, BGH-/OLG-Rechtsprechung, MaBV, AGB, § 650u/§ 650v BGB, § 650m Abs. 2 BGB, Abnahme, Schlussrate und verhindert BeckRS-/juris-Blindzitate."
+description: "Wenn es um Quellenhygiene, Rechtsprechungsanker und Bug-Hunt in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Quellenhygiene, Rechtsprechungsanker und Bug-Hunt

@@ -1,6 +1,6 @@
 ---
 name: klageerwiderung-replik-anlagen-b1-b2-fortlaufend
-description: "Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen: Beklagter nutzt B1 B2 B3. Kläger nutzt in Replik K-Folge-Nummern ab Klage-Endnummer plus eins. Keine doppelten Num..."
+description: "Wenn es um Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen

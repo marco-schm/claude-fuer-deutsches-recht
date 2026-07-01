@@ -1,6 +1,6 @@
 ---
 name: raeumungsklage-aufbau
-description: "Räumungsklage Aufbau: Fachmodul im Miet- und Wohnungseigentumsrecht: erstellt Antrag, Tatsachenvortrag, Anlagen, Beweise, Nutzungsentschädigung; mit Normprüfung, Beweisen, Fristen, Risikoa..."
+description: "Wenn es um Räumungsklage Aufbau: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Räumungsklage Aufbau: Fachmodul im Miet- und Wohnungseigentumsrecht

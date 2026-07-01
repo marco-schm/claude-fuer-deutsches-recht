@@ -1,6 +1,6 @@
 ---
 name: unterhaltungspflicht-und-winterdienst
-description: "Straßenrecht und Infrastruktur: Unterhaltungspflicht und Winterdienst. Unterhaltungspflicht und Winterdienst im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägig..."
+description: "Wenn es um Unterhaltungspflicht Und Winterdienst in Straßenrecht und Infrastruktur geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Unterhaltungspflicht Und Winterdienst

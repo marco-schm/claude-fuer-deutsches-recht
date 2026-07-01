@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Arbeitsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Arbeitsvertrag, Kündigung, Aufhebungsvertrag), nennt pro Lücke Beweisthema, Beschaffungsweg (Arbeitsgericht (1. Instanz)), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Arbeitsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: zwangsversteigerung-mietrecht
-description: "Zwangsversteigerung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Sonderkündigungsrecht, Kaution, Besitz, Erwerberpflichten; mit Normprüfung, Beweisen, Fristen,..."
+description: "Wenn es um Zwangsversteigerung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zwangsversteigerung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht

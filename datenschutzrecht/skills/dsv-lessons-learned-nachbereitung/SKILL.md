@@ -1,6 +1,6 @@
 ---
 name: dsv-lessons-learned-nachbereitung
-description: "Strukturiert die Lessons-Learned-Nachbereitung eines Datenschutzvorfalls: Behandelt: Post-Mortem-Workshop; Ursachenanalyse Root Cause; Maßnahmenkatalog; Verantwortlichkeiten und Frist"
+description: "Wenn es um Strukturiert die Lessons-Learned-Nachbereitung eines Datenschutzvorfalls in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strukturiert die Lessons-Learned-Nachbereitung eines Datenschutzvorfalls

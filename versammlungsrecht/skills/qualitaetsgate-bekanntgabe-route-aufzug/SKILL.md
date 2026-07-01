@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-bekanntgabe-route-aufzug
-description: "Letzter Check vor öffentlicher Einladung oder Versand der Anzeige im Versammlungsrecht."
+description: "Wenn es um Noch einmal durchatmen in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Noch einmal durchatmen

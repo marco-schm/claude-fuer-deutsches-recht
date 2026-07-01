@@ -1,6 +1,6 @@
 ---
 name: oeffentlich-privat-partnerschaft
-description: "Oeffentlich Privat Partnerschaft: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Öffentlich Privat Partnerschaft in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Öffentlich Privat Partnerschaft

@@ -1,6 +1,6 @@
 ---
 name: manuskriptaufnahme-materialinventar
-description: "Nimmt Manuskripte und Begleitmaterial auf, erstellt ein Materialinventar, trennt Autorenmaterial, Fremdquelle, Redaktionstext, Luecken und Rechtefragen im Verlagsredaktion."
+description: "Wenn es um Manuskriptaufnahme und Materialinventar in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Manuskriptaufnahme und Materialinventar

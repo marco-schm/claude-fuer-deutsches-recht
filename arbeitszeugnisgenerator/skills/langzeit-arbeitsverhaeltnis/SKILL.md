@@ -1,6 +1,6 @@
 ---
 name: langzeit-arbeitsverhaeltnis
-description: "Besonderheiten bei Zeugnissen nach langer Beschäftigungsdauer (zehn Jahre und mehr). Langjährige Beschäftigung erfordert besondere Gewichtung von Loyalität, Unternehmensentwicklung, Kompetenzentwicklung und Bindungsformel. Eine kurze, karge Beschreibung für eine zehnjährige Betriebszugehörigkeit wirkt unglaubwürdig. Enthält Formulierungshinweise und Schlussformel-Empfehlungen."
+description: "Wenn es um Langzeit-Arbeitsverhältnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Langzeit-Arbeitsverhältnis

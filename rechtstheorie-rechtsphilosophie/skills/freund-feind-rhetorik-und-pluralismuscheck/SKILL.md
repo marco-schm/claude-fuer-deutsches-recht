@@ -1,6 +1,6 @@
 ---
 name: freund-feind-rhetorik-und-pluralismuscheck
-description: "Erkennt Freund-Feind-Rhetorik, Entpluralisierung, Loyalitaetszwang und Feinderklaerung in rechtlichen Argumenten; stellt pluralistische, grundrechts- und verfahrensgebundene Gegenpruefungen bereit."
+description: "Wenn es um Freund-Feind-Rhetorik und Pluralismuscheck in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Freund-Feind-Rhetorik und Pluralismuscheck

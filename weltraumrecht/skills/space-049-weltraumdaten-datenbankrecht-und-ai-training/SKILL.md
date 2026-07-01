@@ -1,6 +1,6 @@
 ---
 name: space-049-weltraumdaten-datenbankrecht-und-ai-training
-description: "Weltraumrecht: Weltraumdaten Datenbankrecht und AI Training mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Weltraumdaten Datenbankrecht und digitale Werkzeuge Training in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Weltraumdaten Datenbankrecht und AI Training

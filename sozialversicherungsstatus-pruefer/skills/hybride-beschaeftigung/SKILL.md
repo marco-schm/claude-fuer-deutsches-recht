@@ -1,6 +1,6 @@
 ---
 name: hybride-beschaeftigung
-description: "Prüft parallele Rollen bei demselben Unternehmen oder Konzern: Arbeitnehmer plus Freelancer, GF plus Berater, Dozent plus Angestellter im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Hybride Beschäftigung und Selbständigkeit in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Hybride Beschäftigung und Selbständigkeit

@@ -1,6 +1,6 @@
 ---
 name: registerakte-handelsstreit
-description: "Sortiert Registerauszüge, Gesellschafterlisten, Vollmachten, Notarentwürfe und Beanstandungen im Handelsrecht Hgb."
+description: "Wenn es um Registerakte und Lückenliste in Handelsrecht HGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Registerakte und Lückenliste

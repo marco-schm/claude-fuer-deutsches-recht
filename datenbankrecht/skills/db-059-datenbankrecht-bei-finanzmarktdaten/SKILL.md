@@ -1,6 +1,6 @@
 ---
 name: db-059-datenbankrecht-bei-finanzmarktdaten
-description: "Datenbankrecht: Datenbankrecht bei Finanzmarktdaten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Datenbankrecht bei Finanzmarktdaten in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Datenbankrecht bei Finanzmarktdaten

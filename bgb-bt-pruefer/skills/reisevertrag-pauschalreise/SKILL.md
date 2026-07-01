@@ -1,6 +1,6 @@
 ---
 name: reisevertrag-pauschalreise
-description: "Reisevertrag §§ 651a ff. BGB und Pauschalreiserichtlinie: Mängel, Abhilfe, Minderung, Rücktritt."
+description: "Wenn es um Reisevertrag und Pauschalreise Paragrafen 651a ff. BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Reisevertrag und Pauschalreise §§ 651a ff. BGB

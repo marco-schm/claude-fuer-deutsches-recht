@@ -1,6 +1,6 @@
 ---
 name: famfg-beschwerde-registersache
-description: "Prüft Statthaftigkeit, Beschwer, Frist, Form, Abhilfe, Nichtabhilfe und Beschwerdebegründung gegen Registerentscheidungen im Handelsregister Praxis."
+description: "Wenn es um Beschwerde in Registersachen in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschwerde in Registersachen

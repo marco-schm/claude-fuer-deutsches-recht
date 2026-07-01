@@ -1,6 +1,6 @@
 ---
 name: slot-local-counsel-briefen
-description: "Deutsches Kanzleiteam muss ausländischen Anwalt für Slot-Mandat briefen: Slot-Zuweisung Insolvenz oder Wechsel von koordiniertem Flughafen. Skill erstellt englisches Briefing-Memo mit deutschem Slot-Recht EU-VO und konkreten Fragen im Luftrecht Flughafenrecht."
+description: "Wenn es um Slot – Local Counsel briefen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Slot – Local Counsel briefen

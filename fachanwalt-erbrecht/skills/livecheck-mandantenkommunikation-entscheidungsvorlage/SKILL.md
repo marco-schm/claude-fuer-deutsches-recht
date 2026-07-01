@@ -1,6 +1,6 @@
 ---
 name: livecheck-mandantenkommunikation-entscheidungsvorlage
-description: "Livecheck: Mandantenkommunikation und Entscheidungsvorlage im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt:..."
+description: "Wenn es um Livecheck Mandantenkommunikation Entscheidungsvorlage in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Livecheck: Mandantenkommunikation und Entscheidungsvorlage im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

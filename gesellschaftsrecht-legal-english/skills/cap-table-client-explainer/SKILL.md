@@ -1,6 +1,6 @@
 ---
 name: cap-table-client-explainer
-description: "Erklaert und prüft Cap Table, Gesellschafterliste, wirtschaftliche Beteiligung, Stammkapital, Geschäftsanteile, Verwässerung und Registerrealitaet im Gesellschaftsrecht Legal English."
+description: "Wenn es um Cap Table statt Gesellschafterliste in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Cap Table statt Gesellschafterliste

@@ -1,6 +1,6 @@
 ---
 name: marktueberwachung-meldung-vorfaelle-art-72
-description: "Anbieter oder Betreiber hat einen schwerwiegenden Vorfall mit einem Hochrisiko-KI-System und fragt: Was muss gemeldet werden an wen und innerhalb welcher Fristen? Art. 72 bis 79 KI-VO Post-Market-Monitoring und Meldepflichten. Prüfraster: serious incident reporting Definition schwerwiegender Vorf..."
+description: "Wenn es um Marktüberwachung und Vorfallmeldung — Art. 72 bis 79 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Marktüberwachung und Vorfallmeldung — Art. 72 bis 79 KI-VO

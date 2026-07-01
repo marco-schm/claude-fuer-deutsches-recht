@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-urheberrecht-106-urhg
-description: "Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG: Tatbestand Vervielfaeltigen Verbreiten öffentliche Wiedergabe ohne Einwilligung. Strafrahme..."
+description: "Wenn es um Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG

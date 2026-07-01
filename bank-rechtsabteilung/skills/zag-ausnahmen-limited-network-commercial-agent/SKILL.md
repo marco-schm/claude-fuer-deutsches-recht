@@ -1,6 +1,6 @@
 ---
 name: zag-ausnahmen-limited-network-commercial-agent
-description: "ZAG-Ausnahmen tief prüfen: begrenztes Netz, begrenzte Produktpalette, Handelsvertreterausnahme, technische Dienstleister, Konzernprivileg und digitale Plattformrisiken im Bank-Rechtsabteilung."
+description: "Wenn es um ZAG-Ausnahmen in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # ZAG-Ausnahmen

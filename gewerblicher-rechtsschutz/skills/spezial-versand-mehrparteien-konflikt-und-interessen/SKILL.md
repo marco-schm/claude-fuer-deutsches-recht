@@ -1,6 +1,6 @@
 ---
 name: spezial-versand-mehrparteien-konflikt-und-interessen
-description: "Versand: Mehrparteienkonflikt und Interessenmatrix im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Versand: Mehrparteienkonflikt und Interessenmatrix in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versand: Mehrparteienkonflikt und Interessenmatrix

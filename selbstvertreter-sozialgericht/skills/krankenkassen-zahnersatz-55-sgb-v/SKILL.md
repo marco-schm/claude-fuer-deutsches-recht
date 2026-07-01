@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-zahnersatz-55-sgb-v
-description: "Krankenkassen-Zahnersatz nach § 55 SGB V. Skill klaert das Festzuschuss-System Regelversorgung Mehrkostenvereinbarung Bonusheft Haerteklausel sowie die Implantatregeln. Liefert Prüfraster und Beratungsbausteine."
+description: "Wenn es um Krankenkassen Zahnersatz 55 Sgb V in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenkassen Zahnersatz 55 Sgb V

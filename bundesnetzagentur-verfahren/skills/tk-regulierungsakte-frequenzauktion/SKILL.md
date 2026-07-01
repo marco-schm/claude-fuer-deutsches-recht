@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-frequenzauktion
-description: "Frequenzauktion: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren."
+description: "Wenn es um TK-Regulierungsakte: Frequenzauktion — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # TK-Regulierungsakte: Frequenzauktion — Unterlagenanforderung

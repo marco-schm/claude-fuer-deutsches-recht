@@ -1,6 +1,6 @@
 ---
 name: pralr-037-aktenvermerk-fuer-gericht-oder-gutachten
-description: "PrALR: Aktenvermerk, Gutachtenbaustein oder Schriftsatzpassage zu PrALR-Fortwirkung erstellen."
+description: "Wenn es um Aktenvermerk in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Pralr 037 Aktenvermerk für Gericht Oder Gutachten; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Aktenvermerk

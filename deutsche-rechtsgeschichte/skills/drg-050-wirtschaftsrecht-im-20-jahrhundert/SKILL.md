@@ -1,6 +1,6 @@
 ---
 name: drg-050-wirtschaftsrecht-im-20-jahrhundert
-description: "Deutsche Rechtsgeschichte: Wirtschaftsrecht Im 20 Jahrhundert. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Wirtschaftsrecht Im 20 Jahrhundert in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsrecht Im 20 Jahrhundert

@@ -1,6 +1,6 @@
 ---
 name: luft-065-ersatzteillager-genehmigung-pruefen
-description: "Luftrecht und Flughafenrecht: Ersatzteillager: Genehmigung prüfen. Genehmigung prüfen für Ersatzteillager im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Ersatzteillager Genehmigung Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ersatzteillager Genehmigung Pruefen

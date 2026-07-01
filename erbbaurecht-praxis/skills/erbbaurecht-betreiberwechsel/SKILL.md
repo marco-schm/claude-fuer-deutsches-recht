@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-betreiberwechsel
-description: "Prüft Zustimmung, Bonität, Nutzungsänderung, Gewährleistung und Weitergabeklauseln im Erbbaurecht Praxis."
+description: "Wenn es um Betreiberwechsel in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betreiberwechsel

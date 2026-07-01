@@ -1,6 +1,6 @@
 ---
 name: miet-weg-waermepumpe-geg
-description: "Beschlussfassung WEG zur Waermepumpen-Aufstellung gem: § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschluesse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. A..."
+description: "Wenn es um Beschlussfassung WEG zur Waermepumpen-Aufstellung gem in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschlussfassung WEG zur Waermepumpen-Aufstellung gem

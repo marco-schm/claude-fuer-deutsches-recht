@@ -1,6 +1,6 @@
 ---
 name: goae-6a-stationaere-minderung-25-prozent-15-prozent
-description: "GOÄ § 6a stationäre Minderung 25 Prozent 15 Prozent: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise im Goae Gebührenordnung..."
+description: "Wenn es um GOÄ Paragraf 6a stationäre Minderung 25 Prozent 15 Prozent in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GOÄ § 6a stationäre Minderung 25 Prozent 15 Prozent

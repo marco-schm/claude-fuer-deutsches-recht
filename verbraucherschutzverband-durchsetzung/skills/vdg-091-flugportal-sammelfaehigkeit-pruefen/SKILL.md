@@ -1,6 +1,6 @@
 ---
 name: vdg-091-flugportal-sammelfaehigkeit-pruefen
-description: "Verbraucherschutzverband Durchsetzung: Flugportal: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Flugportal Sammelfaehigkeit Pruefen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flugportal Sammelfaehigkeit Pruefen

@@ -1,6 +1,6 @@
 ---
 name: treuhand-oder-fremdgeld
-description: "Treuhand oder Fremdgeld: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Treuhand oder Fremdgeld im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Treuhand oder Fremdgeld in Berufsrecht Wirtschaftsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuhand oder Fremdgeld

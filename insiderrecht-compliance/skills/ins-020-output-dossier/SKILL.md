@@ -1,6 +1,6 @@
 ---
 name: ins-020-output-dossier
-description: "Erzeugt Insidervermerk, Ad-hoc-Entwurf, Aufschubbeschluss, Insiderlistennotiz, Board Memo und BaFin-Stellungnahme."
+description: "Wenn es um Output Dossier in Insiderrecht Compliance geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Output Dossier

@@ -1,6 +1,6 @@
 ---
 name: reseller-oem-sbom-software-datenabruf-api
-description: "Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing, Support und Haftungskette im Softwarerecht De Eu Us."
+description: "Wenn es um Reseller OEM VAR in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reseller OEM VAR

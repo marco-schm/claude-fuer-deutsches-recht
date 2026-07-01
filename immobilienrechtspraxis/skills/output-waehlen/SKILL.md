@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Immobilienrechtspraxis: stimmt Adressat (Käufer, Verkäufer, Notar), Frist (Vormerkung) und Form auf den Zweck ab — typische Outputs: Kaufvertragsentwurf, Due-Diligence-Bericht, Übergabeprotokoll."
+description: "Wenn es um Output wählen in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

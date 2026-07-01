@@ -1,6 +1,6 @@
 ---
 name: spezial-lanham-livequellen-und-rechtsprechungscheck
-description: "Lanham: Livequellen- und Rechtsprechungscheck im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Lanham: Livequellen- und Rechtsprechungscheck in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lanham: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: neue-psychoaktive-stoffe
-description: "Betäubungsmittelrecht: Neue psychoaktive Stoffe. Neue psychoaktive Stoffe im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
+description: "Wenn es um Neue Psychoaktive Stoffe in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Neue Psychoaktive Stoffe

@@ -1,6 +1,6 @@
 ---
 name: ddr-recht-und-sozialistische-gesetzlichkeit
-description: "Deutsche Rechtsgeschichte: DDR-Recht und sozialistische Gesetzlichkeit. DDR-Verfassung 1949/68/74, ZGB 1975, AGO, StPO-DDR und Charakteristika des sozialistischen Rechtssystems im Deutsche Rechtsgeschichte."
+description: "Wenn es um DDR-Recht und sozialistische Gesetzlichkeit in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DDR-Recht und sozialistische Gesetzlichkeit

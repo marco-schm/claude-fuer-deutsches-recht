@@ -1,6 +1,6 @@
 ---
 name: werbung-mit-erfolgsquoten-rechtsprechungscheck-u
-description: "Patentanwälte: werbung mit erfolgsquoten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Werbung Mit Erfolgsquoten Rechtsprechungscheck U in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Patentanwälte: werbung mit erfolgsquoten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

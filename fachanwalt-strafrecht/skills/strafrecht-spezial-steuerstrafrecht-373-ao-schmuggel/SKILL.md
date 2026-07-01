@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-steuerstrafrecht-373-ao-schmuggel
-description: "Gewerbsmäßiger und bandenmäßiger Schmuggel nach Paragraph 373 AO: Qualifikation des Schmuggels Paragraph 372 AO. Tatbestandsmerkmale Gewerbsmaessigkeit Bandenabrede. Strafrahmen 6 Monate bis..."
+description: "Wenn es um Gewerbsmäßiger und bandenmäßiger Schmuggel nach Paragraph 373 AO in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerbsmäßiger und bandenmäßiger Schmuggel nach Paragraph 373 AO

@@ -1,6 +1,6 @@
 ---
 name: bmv-mobilitaets-und-fuehrerscheinrecht
-description: "Sachbereich Mobilitaets- und Fuehrerscheinrecht im Geschäftsbereich BMV: Normbestand (FeV; StVG; PBefG; CsgG (Carsharinggesetz); GVFG; ElektroMobG.); Akteure (KBA; Fahrerlaubnisbehoerden; Verkehrsministerien der Länder.); EU-Bezug (Fuehrerschein-RL; alternativer Antrieb (RED III; AFIR).); typisc..."
+description: "Wenn es um Mobilitaets- und Fuehrerscheinrecht (BMV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mobilitaets- und Fuehrerscheinrecht (BMV)

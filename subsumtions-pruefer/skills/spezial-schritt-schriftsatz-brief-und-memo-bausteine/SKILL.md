@@ -1,6 +1,6 @@
 ---
 name: spezial-schritt-schriftsatz-brief-und-memo-bausteine
-description: "Schritt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Schritt: Schriftsatz-, Brief- und Memo-Bausteine in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schritt: Schriftsatz-, Brief- und Memo-Bausteine

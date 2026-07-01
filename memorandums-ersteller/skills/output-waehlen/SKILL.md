@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Memorandum-Ersteller: stimmt Adressat (Mandant, Geschäftsleitung, Aufsichtsorgan), Frist (Mandantenbericht-Fristen) und Form auf den Zweck ab — typische Outputs: Memo im Gutachtenstil, Executive Summary, Risikomatrix."
+description: "Wenn es um Output wählen in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: kandidatenscreening-formal
-description: "Checkt Wählbarkeit, Mitgliedschaft, Zustimmung, Wohnsitzfragen soweit relevant, Unvereinbarkeiten und Unterlagen."
+description: "Wenn es um Kandidatenscreening formal in Parteienrecht und Parteiorganisation geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Kandidatenscreening formal

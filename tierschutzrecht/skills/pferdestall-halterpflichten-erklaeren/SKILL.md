@@ -1,6 +1,6 @@
 ---
 name: pferdestall-halterpflichten-erklaeren
-description: "Pferdestall: Halterpflichten erklären im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Pferdestall Halterpflichten Erklaeren in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pferdestall Halterpflichten Erklaeren

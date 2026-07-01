@@ -1,6 +1,6 @@
 ---
 name: workflow-chronologie-und-belegmatrix
-description: "Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Bav Strategie Konzern."
+description: "Wenn es um Chronologie und Belegmatrix in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie und Belegmatrix

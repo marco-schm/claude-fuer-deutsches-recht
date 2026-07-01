@@ -1,6 +1,6 @@
 ---
 name: praktikabilitaet-vollzug-test
-description: "Praktikabilitaetstest für den Vollzug. Prüft ob die Regelung von Behörden und Adressaten ueberhaupt leistbar ist. Faktoren Personalbedarf IT-Voraussetzungen Datenverfuegbarkeit Schulungserfordernisse Vollzugskaskaden Konnexitaet Konfliktloesung mit Adressaten. Mit Mustertexten zur Vollzugskritik..."
+description: "Wenn es um NKR-Praktikabilitaet im Vollzug in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NKR-Praktikabilitaet im Vollzug

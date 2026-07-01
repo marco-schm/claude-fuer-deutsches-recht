@@ -1,6 +1,6 @@
 ---
 name: sanktion-amtsgericht-landgericht-41-bdsg
-description: "Datenschutzrecht-Brückenskill: Zuständigkeit Amtsgericht Landgericht § 41 BDSG: Prüfen, ob wegen Geldbuße über 100.000 EUR das Landgericht statt Amtsgericht entscheidet. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschut..."
+description: "Wenn es um Zuständigkeit Amtsgericht Landgericht Paragraf 41 BDSG in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zuständigkeit Amtsgericht Landgericht § 41 BDSG

@@ -1,6 +1,6 @@
 ---
 name: section-36-vs-deutsche-schranken-schranke
-description: Direkter Vergleich Section 36 SA-Verfassung gegen deutsche Vier-Stufen-Schranken-Schranke. Mit Gegenueberstellung der Prüfungsschritte gemeinsamen Wurzeln Unterschieden bei Wesensgehalt Schutzpflichten und mit Empfehlungen wann welche Methodik staerkere Ergebnisse liefert.
+description: "Wenn es um Section 36 Vs Deutsche Schranken Schranke in Verhältnismäßigkeitsprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Section 36 Vs Deutsche Schranken Schranke

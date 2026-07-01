@@ -1,6 +1,6 @@
 ---
 name: dfg-software-veroeffentlichung-spezial
-description: "Spezialfall Software als Forschungsergebnis: DFG-Hinweise zur Open-Source-Veroeffentlichung, Lizenzwahl (MIT, BSD, Apache-2.0, GPL), Zenodo-DOI, Reproducibility. Prüfraster und Mustertext für Software-Sektion im Arbeitsprogramm."
+description: "Wenn es um DFG: Software-Veroeffentlichung in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Dfg Software Veroeffentlichung Spezial; Arbeitsfeld: DFG-Förderantrag."
 ---
 
 # DFG: Software-Veroeffentlichung

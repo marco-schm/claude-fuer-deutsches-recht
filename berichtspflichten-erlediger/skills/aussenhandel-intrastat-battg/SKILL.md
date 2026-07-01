@@ -1,6 +1,6 @@
 ---
 name: aussenhandel-intrastat-battg
-description: "Intrastat/Außenhandelsstatistik: Eingänge/Versendungen, Schwellen, Warennummer, Ursprungsland, Lieferbedingung und Korrekturmeldung im Berichtspflichten."
+description: "Wenn es um Außenhandel und Intrastat in Berichtspflichten-Erlediger geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Außenhandel und Intrastat

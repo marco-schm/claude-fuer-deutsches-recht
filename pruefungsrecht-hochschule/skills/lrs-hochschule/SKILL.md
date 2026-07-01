@@ -1,6 +1,6 @@
 ---
 name: lrs-hochschule
-description: "Prüft LRS, Schreibzeitverlängerung, Hilfsmittel, Notenschutz und Prüfungszweck im Prüfungsrecht Hochschule."
+description: "Wenn es um LRS in Hochschulprüfungen in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LRS in Hochschulprüfungen

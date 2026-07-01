@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-klagepfad-waehlen-risiko
-description: "Offshore-Schiff: Closing eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan im Seer..."
+description: "Wenn es um Offshore-Schiff – Closing planen in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Offshore-Schiff – Closing planen

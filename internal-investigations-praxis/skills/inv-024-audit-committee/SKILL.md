@@ -1,6 +1,6 @@
 ---
 name: inv-024-audit-committee
-description: "Spezialskill fuer Audit Committee: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Audit Committee in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Internal Investigation: Audit Committee

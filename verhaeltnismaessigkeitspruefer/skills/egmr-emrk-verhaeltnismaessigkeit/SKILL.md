@@ -1,6 +1,6 @@
 ---
 name: egmr-emrk-verhaeltnismaessigkeit
-description: Verhältnismäßigkeitspruefung des Europaeischen Gerichtshofs fuer Menschenrechte nach Art 8 bis 11 EMRK und Art 1 ZP 1 mit den drei Stufen prescribed by law legitimate aim necessary in a democratic society. Mit margin of appreciation pressing social need least restrictive means und fair balance sowie Hinweisen zur Wechselwirkung mit deutscher BVerfG-Dogmatik und zur Rezeption in Goerguelue Caroline und Sahin.
+description: "Wenn es um EGMR EMRK Verhältnismäßigkeit in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # EGMR EMRK Verhältnismäßigkeit

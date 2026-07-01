@@ -1,6 +1,6 @@
 ---
 name: auslandsschule-rueckkehr
-description: "Prüft Anerkennung, Einstufung, Schulartwechsel und Leistungsnachweise nach Auslandsaufenthalt im Schulrecht Länder."
+description: "Wenn es um Auslandsschule und Rückkehr in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auslandsschule und Rückkehr

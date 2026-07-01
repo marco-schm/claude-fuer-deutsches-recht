@@ -1,6 +1,6 @@
 ---
 name: auslegung-paragraphen-133-157
-description: "Klausurfall zur Auslegung von Willenserklärungen und Verträgen nach §§ 133 und 157 BGB: natürliche Auslegung, normative Auslegung nach objektivem Empfängerhorizont, falsa demonstratio non nocet, ergänzende Vertragsauslegung bei Lücken."
+description: "Wenn es um Auslegung von Willenserklärungen und Verträgen — Paragrafen 133 und 157 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Auslegung von Willenserklärungen und Verträgen — §§ 133 und 157 BGB

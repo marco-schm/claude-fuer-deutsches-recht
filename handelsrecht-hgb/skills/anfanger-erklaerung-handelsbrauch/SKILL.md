@@ -1,6 +1,6 @@
 ---
 name: anfanger-erklaerung-handelsbrauch
-description: "Erklärt Handelsrecht laienverständlich: Warum Kaufmannsrecht strenger, schneller und registerorientierter ist im Handelsrecht Hgb."
+description: "Wenn es um Anfänger-Erklärung HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anfänger-Erklärung HGB

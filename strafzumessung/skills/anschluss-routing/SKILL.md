@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Strafzumessung: wählt den nächsten Spezial-Skill nach Engpass (Revision 1 Woche/1 Monat § 341 StPO, Anklageschrift, Urteilsentwurf, Vorverurteilungen BZR), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Strafzumessung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anschluss-Routing

@@ -1,6 +1,6 @@
 ---
 name: beihilfe-chronische-krankheit
-description: "Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Beihilfeverordnungen des Bundes und der Länder. Klaert Definition chronische Krankheit Belastungsgrenze und Eigenbehalt Befreiung von Zuzahlungen Pflegestufe und Pflegegrad sowie Verhältnis zur privaten Krankenversicherung. Behandelt..."
+description: "Wenn es um Beihilfe bei chronischer Krankheit in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beihilfe bei chronischer Krankheit

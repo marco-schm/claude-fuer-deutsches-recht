@@ -1,6 +1,6 @@
 ---
 name: inso-p229-vermogensubersicht-ergebnis-und-finanzplan
-description: "§ 229 InsO (Vermögensübersicht: Ergebnis- und Finanzplan) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung."
+description: "Wenn es um Paragraf 229 InsO (Vermögensübersicht in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 229 InsO (Vermögensübersicht

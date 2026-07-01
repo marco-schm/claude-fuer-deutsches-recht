@@ -1,6 +1,6 @@
 ---
 name: escalation-ladder
-description: "Escalation Ladder: steuert wer wann wen anruft: Associate, Partner, GC, CFO, Vorstand, Fachabteilung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Escalation Ladder in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Escalation Ladder

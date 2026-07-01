@@ -1,6 +1,6 @@
 ---
 name: spezial-designg-behoerden-gericht-und-registerweg
-description: "Designg: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Designg: Behörden-, Gerichts- oder Registerweg in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Designg: Behörden-, Gerichts- oder Registerweg

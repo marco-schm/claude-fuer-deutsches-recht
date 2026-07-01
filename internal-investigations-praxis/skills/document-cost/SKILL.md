@@ -1,6 +1,6 @@
 ---
 name: document-cost
-description: "Definiert Dokumentenaufbewahrungs- und -vernichtungsstrategien für Internal Investigation – HGB-Fristen, DSGVO-Löschpflichten, Legal Hold im Internal Investigations Praxis."
+description: "Wenn es um Dokumentenaufbewahrung und -vernichtung nach Internal Investigations in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenaufbewahrung und -vernichtung nach Internal Investigations

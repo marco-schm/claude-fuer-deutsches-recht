@@ -1,6 +1,6 @@
 ---
 name: dawn-raid-global-war-room
-description: "Global Dawn Raid War Room: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Durchsuchung, Legal Privilege, Datenkopien, Interviews, Siegelung und Krisenkommunikation steuern, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabg..."
+description: "Wenn es um Global Dawn Raid War Room in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Global Dawn Raid War Room

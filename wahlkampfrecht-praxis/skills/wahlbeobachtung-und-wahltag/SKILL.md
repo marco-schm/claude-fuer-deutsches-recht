@@ -1,6 +1,6 @@
 ---
 name: wahlbeobachtung-und-wahltag
-description: "Wahlkampfrecht Praxis: Wahlbeobachtung ohne Eingriff in Wahlhandlung briefen im Wahlkampfrecht."
+description: "Wenn es um Wahlbeobachtung Und Wahltag in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Wahlbeobachtung Und Wahltag

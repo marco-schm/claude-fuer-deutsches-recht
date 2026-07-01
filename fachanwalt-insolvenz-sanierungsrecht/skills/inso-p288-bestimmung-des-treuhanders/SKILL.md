@@ -1,6 +1,6 @@
 ---
 name: inso-p288-bestimmung-des-treuhanders
-description: "§ 288 InsO (Bestimmung des Treuhänders) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 288 InsO (Bestimmung des Treuhänders) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge,..."
+description: "Wenn es um Inso P288 Bestimmung Des Treuhanders in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 288 InsO (Bestimmung des Treuhänders) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

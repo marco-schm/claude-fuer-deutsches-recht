@@ -1,6 +1,6 @@
 ---
 name: due-diligence-commercial-contracts
-description: "Kommerzielle Vertrags-DD: Prüft Kunden-, Lieferanten-, Haendler-, SaaS-, Lizenz- und Materialvertraege auf Change of Control, Kündigung, Exklusivitaet, Haftung, IP und Preisrisiken im Mittelstand Corporate Ma."
+description: "Wenn es um Kommerzielle Vertrags-DD in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kommerzielle Vertrags-DD

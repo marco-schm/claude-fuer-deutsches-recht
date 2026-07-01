@@ -1,6 +1,6 @@
 ---
 name: arbitration-hk-siac-ciamac
-description: "Schiedsgerichtsbarkeit für China-Streitigkeiten: CIETAC (China Int'l Economic and Trade Arbitration Commission), ICC mit Sitz außerhalb CN, HKIAC Hongkong, SIAC Singapore, Vollstreckung New Yorker Übereinkommen in CN, Zwangsvollstreckung aus Schiedsspruch in der VR China, Anti-suit Injunctions. O..."
+description: "Wenn es um Schiedsgerichtsbarkeit China: CIETAC/HKIAC/SIAC-Vergleich in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiedsgerichtsbarkeit China: CIETAC/HKIAC/SIAC-Vergleich

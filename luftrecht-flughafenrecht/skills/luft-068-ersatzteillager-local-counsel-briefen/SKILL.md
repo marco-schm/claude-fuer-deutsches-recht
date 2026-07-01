@@ -1,6 +1,6 @@
 ---
 name: luft-068-ersatzteillager-local-counsel-briefen
-description: "Luftrecht und Flughafenrecht: Ersatzteillager: Local Counsel briefen. Local Counsel briefen für Ersatzteillager im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Ersatzteillager Local Counsel Briefen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ersatzteillager Local Counsel Briefen

@@ -1,6 +1,6 @@
 ---
 name: meldung-grenzueberschreitend
-description: "Steuert die Meldung eines Datenschutzvorfalls mit Bezug zu mehreren Mitgliedstaaten oder Drittstaaten. Behandelt: Lead-Authority-Verfahren Art. 56 DSGVO; parallele Meldung an betroffene Behörden; Sprache der Meldung; Drittstaaten-Aufsichten und ihre Meldepflichten (z.B. UK ICO, Schweiz EDÖB); Sch..."
+description: "Wenn es um Meldung grenzüberschreitender Datenschutzvorfälle — EU und Drittstaaten in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meldung grenzüberschreitender Datenschutzvorfälle — EU und Drittstaaten

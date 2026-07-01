@@ -1,6 +1,6 @@
 ---
 name: see-060-yachtkauf-risiko-memo-schreiben
-description: "See- und Schifffahrtsrecht: Yachtkauf: Risiko memo schreiben. Risiko memo schreiben für Yachtkauf im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Yachtkauf Risiko Memo Schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Yachtkauf Risiko Memo Schreiben

@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-erstpruefung-und-mandatsziel
-description: "Dieses Skill leitet die methodische Erstprüfung eines neuen Mandats an und hilft, das Mandatsziel präzise zu definieren: Es zeigt, wie a..."
+description: "Wenn es um Methodenlehre Erstpruefung Und Mandatsziel in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dieses Skill leitet die methodische Erstprüfung eines neuen Mandats an und hilft, das Mandatsziel präzise zu definieren

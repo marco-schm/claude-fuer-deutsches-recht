@@ -1,6 +1,6 @@
 ---
 name: oew-004-projektfinanzierung-oeffentlich
-description: "Öffentliches Wirtschaftsrecht: Projektfinanzierung öffentlich. Projektfinanzierung öffentlich im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Projektfinanzierung Oeffentlich in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Projektfinanzierung Oeffentlich

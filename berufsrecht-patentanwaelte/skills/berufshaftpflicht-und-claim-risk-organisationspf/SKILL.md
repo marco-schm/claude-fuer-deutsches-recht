@@ -1,6 +1,6 @@
 ---
 name: berufshaftpflicht-und-claim-risk-organisationspf
-description: "Patentanwälte: berufshaftpflicht und claim risk - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Berufshaftpflicht Und Claim Risk Organisationspf in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: berufshaftpflicht und claim risk - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

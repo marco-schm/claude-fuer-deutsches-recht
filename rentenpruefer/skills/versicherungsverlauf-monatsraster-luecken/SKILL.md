@@ -1,6 +1,6 @@
 ---
 name: versicherungsverlauf-monatsraster-luecken
-description: "Liest den DRV-Versicherungsverlauf als Monatsraster: erkennt Lücken, Doppelzeiten, falsche Kategorien, fehlende Arbeitgebermeldungen und baut eine konkrete Kontenklärungsstrategie."
+description: "Wenn es um Versicherungsverlauf Monatsraster Lücken in Rentenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Versicherungsverlauf Monatsraster Lücken

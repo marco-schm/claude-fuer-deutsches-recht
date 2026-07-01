@@ -1,6 +1,6 @@
 ---
 name: drg-005-kanonisches-recht-und-ehe
-description: "Deutsche Rechtsgeschichte: Kanonisches Recht Und Ehe. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Kanonisches Recht Und Ehe in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanonisches Recht Und Ehe

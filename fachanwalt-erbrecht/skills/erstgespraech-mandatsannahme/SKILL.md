@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Erstgespraech im Erbrechtmandat strukturieren und Sachverhalt vollständig aufnehmen: §§ 1922 ff. BGB Erbfolge § 43a BRAO. Prüfraster: Erblasser Testament gesetzliche Erben..."
+description: "Wenn es um Erstgespraech im Erbrechtmandat strukturieren und Sachverhalt vollständig aufnehmen in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstgespraech im Erbrechtmandat strukturieren und Sachverhalt vollständig aufnehmen

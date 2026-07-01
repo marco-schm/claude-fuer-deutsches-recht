@@ -1,6 +1,6 @@
 ---
 name: insurance-press
-description: "Koordiniert die Versicherungsmeldung bei Internal Investigations – D&O, Crime-Versicherung, Cyber-Versicherung, Meldepflichten und Deckungsstrategien im Internal Investigations Praxis."
+description: "Wenn es um Versicherungsmeldung bei Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Versicherungsmeldung bei Internal Investigations

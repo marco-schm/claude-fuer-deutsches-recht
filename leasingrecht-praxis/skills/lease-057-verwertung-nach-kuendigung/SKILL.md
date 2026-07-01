@@ -1,6 +1,6 @@
 ---
 name: lease-057-verwertung-nach-kuendigung
-description: "Prueft Herausgabe, Sicherstellung, Verwertung, Mehrerloes, Mindererloes und Abrechnung nach Leasingkuendigung."
+description: "Wenn es um Verwertung nach Kündigung in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verwertung nach Kündigung

@@ -1,6 +1,6 @@
 ---
 name: angst-karriere-gesundheit-abgrenzen
-description: "Unterscheidet Gewissensgründe von Angst, Karriere, Familienlage und Tauglichkeitsfragen im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Angst Karriere Gesundheit in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Angst Karriere Gesundheit

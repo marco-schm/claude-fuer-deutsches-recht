@@ -1,6 +1,6 @@
 ---
 name: sitzungs-und-terminvorbereitung
-description: "Sitzungs- und Terminvorbereitung: prüft bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtliche Verfahren Freie Ber..."
+description: "Wenn es um Sitzungs- und Terminvorbereitung in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Sitzungs- und Terminvorbereitung

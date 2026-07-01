@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-betriebsratsanhoerung
-description: "Betriebsratsanhoerung nach Paragraf 102 BetrVG vor jeder Kündigung. Anwendungsfall Kündigung soll ausgesprochen werden und BR-Anhoerung muss korrekt durchgeführt werden. Normen Paragraf 102 BetrVG Anhoerungs- und Widerspruchsrecht Paragraf 102 Abs. 1 S. 3 BetrVG Unwirksamkeit bei fehlerhafter Anhoerung Paragraf 102 Abs. 5 BetrVG Weiterbeschaeftigungsanspruch. Prüfraster vollständige Mitteilung Kündigungsgründe subjektive Determinationstheorie Stellungnahmefrist eine Woche ordentlich drei Tage außerordentlich Widerspruchsgründe. Output Anhoerungsschreiben-Vorlage Empfangsprotokoll und Kündigungs-Timing-Plan. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-massenentlassung-17-kschg."
+description: "Wenn es um Anhörung des Betriebsrats (Paragraf 102 BetrVG) in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anhörung des Betriebsrats (Paragraf 102 BetrVG)

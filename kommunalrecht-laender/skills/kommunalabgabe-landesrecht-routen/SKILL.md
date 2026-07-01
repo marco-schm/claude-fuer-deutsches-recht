@@ -1,6 +1,6 @@
 ---
 name: kommunalabgabe-landesrecht-routen
-description: "der Länder: Kommunalabgabe: Landesrecht routen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kommunalabgabe Landesrecht Routen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalabgabe Landesrecht Routen

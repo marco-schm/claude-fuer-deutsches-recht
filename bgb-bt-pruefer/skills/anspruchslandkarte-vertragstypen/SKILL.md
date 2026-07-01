@@ -1,6 +1,6 @@
 ---
 name: anspruchslandkarte-vertragstypen
-description: "Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen strukturiert auffinden und zuordnen."
+description: "Wenn es um Workflow: Anspruchslandkarte BGB BT in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anspruchslandkarte Vertragstypen; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Workflow: Anspruchslandkarte BGB BT

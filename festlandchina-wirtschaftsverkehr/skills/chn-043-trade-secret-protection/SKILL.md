@@ -1,6 +1,6 @@
 ---
 name: chn-043-trade-secret-protection
-description: "Festlandchina Wirtschaftsverkehr: Trade Secret Protection. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Trade Secret Protection in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Trade Secret Protection

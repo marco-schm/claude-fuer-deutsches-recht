@@ -1,6 +1,6 @@
 ---
 name: kreditversicherung-obliegenheiten-limit-pruefung
-description: "Kreditversicherung im laufenden Debitorenmanagement: Limite, Überfälligkeiten, Risikoinformationen, Inkassostart, Meldungen und Streit um Leistungsfreiheit im Versicherungsrecht."
+description: "Wenn es um Kreditversicherung: Limitprüfung und Obliegenheiten in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Kreditversicherung: Limitprüfung und Obliegenheiten

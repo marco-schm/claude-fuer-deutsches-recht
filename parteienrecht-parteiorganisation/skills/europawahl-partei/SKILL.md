@@ -1,6 +1,6 @@
 ---
 name: europawahl-partei
-description: "Prüft Europawahl-Vorschläge, Bundes-/Landesliste, Vertreterversammlung, Formulare und Bundeswahlleiter-Kommunikation."
+description: "Wenn es um Europawahl in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Europawahl Partei; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Europawahl

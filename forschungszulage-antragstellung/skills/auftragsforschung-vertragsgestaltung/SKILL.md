@@ -1,6 +1,6 @@
 ---
 name: auftragsforschung-vertragsgestaltung
-description: "Auftragsforschung im Sinne § 3 Abs. 4 FZulG: Auftraggeber-Auftragnehmer-Konstellation, Pflichten des Auftraggebers (Risikotragung, Verwertung), förderfähige Quote 60 oder 70 Prozent der vereinbarten Vergueng. Prüfraster Vertragsgestaltung: Pflichtenkatalog, Risikoverteilung, IP. Mustertexte."
+description: "Wenn es um FZ: Auftragsforschung gestalten in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # FZ: Auftragsforschung gestalten

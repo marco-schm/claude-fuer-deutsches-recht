@@ -1,6 +1,6 @@
 ---
 name: scope-creep-secretariat-business-staffing
-description: "Erkennt kriechende Mandatserweiterung und erzeugt Nachtragskommunikation. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Scope Creep Control in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Scope Creep Control

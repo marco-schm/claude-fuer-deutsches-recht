@@ -1,6 +1,6 @@
 ---
 name: inso-p184-klage-gegen-einen-widerspruch-des-schuldners
-description: "§ 184 InsO (Klage gegen einen Widerspruch des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 184 InsO (Klage gegen einen Widerspruch des Schuldners) im Mandat prüfen: Normzwec..."
+description: "Wenn es um Inso P184 Klage Gegen Einen Widerspruch Des Schuldners in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 184 InsO (Klage gegen einen Widerspruch des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

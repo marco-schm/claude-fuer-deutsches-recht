@@ -1,6 +1,6 @@
 ---
 name: klage-verwaltungsgericht-einfach
-description: "Erklärt den Weg zur Anfechtungs- oder Verpflichtungsklage, wenn kein Widerspruch möglich ist oder ein Widerspruchsbescheid vorliegt im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Klage Verwaltungsgericht einfach in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klage Verwaltungsgericht einfach

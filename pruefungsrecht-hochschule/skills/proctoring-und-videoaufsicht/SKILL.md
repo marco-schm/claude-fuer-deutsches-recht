@@ -1,6 +1,6 @@
 ---
 name: proctoring-und-videoaufsicht
-description: "Prüft Online-Proctoring und Videoaufsicht im Prüfungsrecht Hochschule. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Proctoring Und Videoaufsicht in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Proctoring Und Videoaufsicht

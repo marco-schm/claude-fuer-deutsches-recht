@@ -1,6 +1,6 @@
 ---
 name: bess-netzanschluss-hoehe-spannung
-description: "Prüft Netzanschlussbegehren, Anschlusszusage, Netzverträglichkeitsprüfung, Kostentragung und Zeitplan im Energierecht."
+description: "Wenn es um Netzanschluss: Hochspannung, Umspannwerk und Kapazität in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Netzanschluss: Hochspannung, Umspannwerk und Kapazität

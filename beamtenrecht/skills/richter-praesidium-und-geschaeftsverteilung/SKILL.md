@@ -1,6 +1,6 @@
 ---
 name: richter-praesidium-und-geschaeftsverteilung
-description: "Präsidium, Geschäftsverteilungsplan, Abordnung und Besetzung mit Proberichtern im Beamtenrecht."
+description: "Wenn es um Richter Praesidium Und Geschäftsverteilung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Richter Praesidium Und Geschäftsverteilung

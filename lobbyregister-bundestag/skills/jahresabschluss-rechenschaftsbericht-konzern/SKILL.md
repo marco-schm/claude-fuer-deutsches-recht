@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-rechenschaftsbericht-konzern
-description: "Prüft Bereitstellung von Jahresabschluss oder Rechenschaftsbericht, Umgang mit noch nicht aufgestellten Unterlagen und Nachreichpflicht. Output Abschluss-Uploadplan im Lobbyregister Bundestag."
+description: "Wenn es um Jahresabschluss und Rechenschaftsbericht in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Jahresabschluss und Rechenschaftsbericht

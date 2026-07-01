@@ -1,6 +1,6 @@
 ---
 name: versicherer-quotenverhandlung-vergleich
-description: "Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich: Versicherer-Verhandlung Unfallregulierung. Prüfraster: Mitverschuldensquote..."
+description: "Wenn es um Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich in Fachanwalt Verkehrsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich

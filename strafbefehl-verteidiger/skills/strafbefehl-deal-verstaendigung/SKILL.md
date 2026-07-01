@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-deal-verstaendigung
-description: "Verständigung nach § 257c StPO im Strafbefehlsverfahren. Voraussetzungen Inhalt Bindungswirkung Belehrung nach § 257c Abs. 4 und 5 StPO. Grenzen: kein Freispruch kein Schuldspruchverzicht. Abgrenzung informelle Absprache. Ablaufprotokoll TOA § 46a StGB im Strafbefehl Verteidiger."
+description: "Wenn es um Verstaendigung im Strafbefehlsverfahren — Paragraf 257c StPO in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verstaendigung im Strafbefehlsverfahren — § 257c StPO

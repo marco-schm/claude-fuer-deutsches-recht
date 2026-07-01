@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Betreuungsrecht: wählt den nächsten Spezial-Skill nach Engpass (Beschwerde 1 Monat § 63 FamFG, Betreuungsbeschluss, Sachverständigengutachten, Vorsorgevollmacht), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anschluss-Routing

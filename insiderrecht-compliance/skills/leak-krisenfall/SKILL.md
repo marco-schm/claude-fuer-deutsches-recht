@@ -1,6 +1,6 @@
 ---
 name: leak-krisenfall
-description: "Steuert die Sofortreaktion auf einen Informationsleck: Veroeffentlichungspflicht, BaFin-Meldung, Medienmanagement und forensische Dokumentation im Insiderrecht Compliance."
+description: "Wenn es um Leak Response – Reaktion auf Informationslecks in Insiderrecht Compliance geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Leak Response – Reaktion auf Informationslecks

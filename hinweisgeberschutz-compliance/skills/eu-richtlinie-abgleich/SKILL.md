@@ -1,6 +1,6 @@
 ---
 name: eu-richtlinie-abgleich
-description: "Vergleicht deutsches HinSchG mit EU-Whistleblower-Richtlinie im Hinweisgeberschutz Compliance."
+description: "Wenn es um EU Richtlinie Abgleich in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # EU Richtlinie Abgleich

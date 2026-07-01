@@ -1,6 +1,6 @@
 ---
 name: auslandsrechte-rezensionsexemplar
-description: "Verlagsrecht: Auslandsrechte, Sanktionsregimes und Exportkontrolle — EU-Sanktionen, US-OFAC, verbotene Lizenznehmer, Due Diligence und Compliance-Anforderungen für internationale Lizenzverträge im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege..."
+description: "Wenn es um Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle

@@ -1,6 +1,6 @@
 ---
 name: zeitwerttabelle-und-fallzahlen
-description: "Praxisleitfaden zu Zeitwerttabellen und Fallzahlenermittlung. Zeigt die Struktur der Leitfaden-Zeitwerttabelle die Komplexitaetsstufen die Standard-Lohnsaetze DESTATIS-Quellen die Datenwege zur Fallzahlenermittlung und die typischen Quellen (Statistisches Bundesamt Bundesregister Ressortdaten Bra..."
+description: "Wenn es um NKR-Zeitwerttabelle und Fallzahlen in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # NKR-Zeitwerttabelle und Fallzahlen

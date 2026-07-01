@@ -1,6 +1,6 @@
 ---
 name: vendor-red-team-und-qualitaetskontrolle
-description: "Vendor: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Vendor: Red-Team und Qualitätskontrolle in Tabellenreview 3D geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vendor: Red-Team und Qualitätskontrolle

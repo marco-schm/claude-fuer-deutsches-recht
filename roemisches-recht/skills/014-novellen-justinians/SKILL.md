@@ -1,6 +1,6 @@
 ---
 name: 014-novellen-justinians
-description: "Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche im Römisches Recht: Bearbeite Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt..."
+description: "Wenn es um Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche

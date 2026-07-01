@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-genehmigung-pension
-description: "Nebentätigkeit, Anzeige, Genehmigung, Untersagung, Ablieferungspflichten und Richter-Sonderregeln im Beamtenrecht."
+description: "Wenn es um Nebentaetigkeit Genehmigung Und Untersagung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nebentaetigkeit Genehmigung Und Untersagung

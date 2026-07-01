@@ -1,6 +1,6 @@
 ---
 name: qualitaetsmanagement-im-notariat-rechtsprechungscheck
-description: "Notare: qualitaetsmanagement im notariat - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Qualitaetsmanagement Im Notariat Rechtsprechungscheck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: qualitaetsmanagement im notariat - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

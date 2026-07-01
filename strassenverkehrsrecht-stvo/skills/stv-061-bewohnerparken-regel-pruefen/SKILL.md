@@ -1,6 +1,6 @@
 ---
 name: stv-061-bewohnerparken-regel-pruefen
-description: "Straßenverkehrsrecht StVO: Bewohnerparken: Regel prüfen. Regel prüfen für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bewohnerparken Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bewohnerparken Regel Pruefen

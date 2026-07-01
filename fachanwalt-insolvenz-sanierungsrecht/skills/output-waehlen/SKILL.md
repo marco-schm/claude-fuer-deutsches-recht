@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Insolvenz- und Sanierungsrecht: stimmt Adressat (Schuldnerunternehmen, Geschäftsführung (Haftung!), Insolvenzverwalter), Frist (§ 15a InsO 3 Wochen Antragspflicht) und Form auf den Zweck ab — typische Outputs: Insolvenzantrag, Sanierungsplan StaRUG, Anfechtungsklage."
+description: "Wenn es um Output wählen in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

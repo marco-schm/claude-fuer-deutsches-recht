@@ -1,6 +1,6 @@
 ---
 name: inso-p233-aussetzung-von-verwertung-und-verteilung
-description: "§ 233 InsO (Aussetzung von Verwertung und Verteilung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 233 InsO (Aussetzung von Verwertung und Verteilung) im Mandat prüfen: Normzweck, Tatbe..."
+description: "Wenn es um Inso P233 Aussetzung Von Verwertung Und Verteilung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 233 InsO (Aussetzung von Verwertung und Verteilung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

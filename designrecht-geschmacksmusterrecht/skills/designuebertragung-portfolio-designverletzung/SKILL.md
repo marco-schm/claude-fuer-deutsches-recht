@@ -1,6 +1,6 @@
 ---
 name: designuebertragung-portfolio-designverletzung
-description: "Designübertragung und Portfolio-Transaktion prüfen: Asset Deal, Konzernumbau, Sicherheiten, Registerumschreibung, Prioritäten, Lizenzen und streitige Rechte im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Designuebertragung Portfolio in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Designuebertragung Portfolio

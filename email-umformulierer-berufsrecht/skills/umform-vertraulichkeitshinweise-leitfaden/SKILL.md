@@ -1,6 +1,6 @@
 ---
 name: umform-vertraulichkeitshinweise-leitfaden
-description: "Leitfaden Vertraulichkeits- und Geheimnishinweise in Anwalts-E-Mails: Mandantengeheimnis, Datenschutz, Disclaimer. Prüfraster für Standardsignatur."
+description: "Wenn es um Umform: Vertraulichkeitshinweise in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umform: Vertraulichkeitshinweise

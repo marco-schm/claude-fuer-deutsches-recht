@@ -1,6 +1,6 @@
 ---
 name: spezial-fao-dokumentenmatrix-und-lueckenliste
-description: "FAO: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um FAO: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # FAO: Dokumentenmatrix, Lückenliste und Nachforderung

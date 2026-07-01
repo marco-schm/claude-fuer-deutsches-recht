@@ -1,6 +1,6 @@
 ---
 name: versicherungsprodukt-agb-betriebshaftpflicht
-description: "AVB-Klauseln nach Transparenz, Überraschung, unangemessener Benachteiligung und VVG-Leitbild prüfen im Versicherungsrecht."
+description: "Wenn es um Versicherungsbedingungen als AGB prüfen in Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versicherungsbedingungen als AGB prüfen

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-schifffahrtsmandat
-description: "'Erstkontakt mit Schifffahrtsmandat: Mandant meldet Schiffsunfall; Arrest oder neues Mandat. Sofort-Triage nach HGB §§ 476-480 (Reeder/Ausruester); SchRG §§ 8-74 (Hypothek); UNCLOS Art. 94 (Flaggenstaat); ISM-Code. Klaert Schiffstyp; Flagge; Registerort; Versicherungsstatus P&I/H&M und naechste F..."
+description: "Wenn es um Kaltstart Schifffahrtsmandat in See- und Schifffahrtsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Schifffahrtsmandat

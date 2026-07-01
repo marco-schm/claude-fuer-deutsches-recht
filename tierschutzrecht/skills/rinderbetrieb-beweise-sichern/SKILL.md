@@ -1,6 +1,6 @@
 ---
 name: rinderbetrieb-beweise-sichern
-description: "Rinderbetrieb: Beweise sichern im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Rinderbetrieb Beweise Sichern in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rinderbetrieb Beweise Sichern

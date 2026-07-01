@@ -1,6 +1,6 @@
 ---
 name: personalakte-einsicht-pflege-beihilfe
-description: "Personalakte, Einsicht, Datenschutz, Berichtigung und Entfernung belastender Unterlagen im Beamtenrecht."
+description: "Wenn es um Personalakte Einsicht Datenschutz in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Personalakte Einsicht Datenschutz

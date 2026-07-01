@@ -1,6 +1,6 @@
 ---
 name: scout-advisor-agreements-angelsyndikat-lead-investor
-description: "Prüft Scout Fees, Finder, Advisory Shares, Interessenkonflikte, Datenschutz, BaFin-/Vermittlungsrisiken und Dokumentation im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Scout- und Advisor Agreements in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Scout- und Advisor Agreements

@@ -1,6 +1,6 @@
 ---
 name: spedition-behoerden-gericht-und-registerweg
-description: "Spedition: Behörden-, Gerichts- oder Registerweg: Spedition: Behörden-, Gerichts- oder Registerweg."
+description: "Wenn es um Spedition: Behörden-, Gerichts- oder Registerweg in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spedition: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: ma-sale-startup
-description: "Prüft Startup-Verkauf, SPA, Drag, Founder Rollover, Earn-out, IP, W&I und Closing im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um M&A Sale Startup in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # M&A Sale Startup

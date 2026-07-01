@@ -1,6 +1,6 @@
 ---
 name: formwahl-zugang-live-prozessablauf
-description: "Formwahl, Zugang und Beweisrisiko im BGB und Prozessrecht: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Schriftform Und Textform Bgb."
+description: "Wenn es um Formwahl, Zugang und Beweisrisiko im BGB und Prozessrecht in Schriftform und Textform im BGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Formwahl, Zugang und Beweisrisiko im BGB und Prozessrecht

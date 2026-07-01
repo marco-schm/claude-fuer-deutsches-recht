@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-pruefen
-description: "Verjährung prüfen: Regelverjaehrung Paragraf 195 BGB drei Jahre, Beginn Paragraf 199 BGB Schluss des Jahres mit Kenntnis. Hoechstfristen Paragraf 199 Abs. 2-4 BGB (10/30 Jahre). Hemmung Paragraf 203 BGB (Verhandlungen), Paragraf 204 BGB (Rechtsverfolgung). Neubeginn Paragraf 212 BGB (Anerkenntnis, Vollstreckung). Sonderfristen Paragraf 196 BGB..."
+description: "Wenn es um Verjährung prüfen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verjährung prüfen

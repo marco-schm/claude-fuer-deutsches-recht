@@ -1,6 +1,6 @@
 ---
 name: redaktionsvertrag-freelancer-und-arbeitnehmer
-description: "Verlagsrecht: Redaktionsverträge mit Freelancern und Arbeitnehmern — Abgrenzung Werkvertrag, Dienstvertrag, Arbeitsverhältnis; Scheinwerkvertrag, Urheberrecht und Sozialversicherung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtspr..."
+description: "Wenn es um Verl-023 · Redaktionsvertrag, Freelancer und Arbeitnehmer in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-023 · Redaktionsvertrag, Freelancer und Arbeitnehmer

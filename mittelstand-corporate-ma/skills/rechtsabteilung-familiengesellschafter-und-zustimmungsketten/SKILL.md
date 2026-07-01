@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-familiengesellschafter-und-zustimmungsketten
-description: "Rechtsabteilungs-Fachmodul für Familiengesellschafter und Zustimmungsketten: Zustimmungen, Vorkaufsrechte, Güterstand und Nachfolge werden vor Signing gesichert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Mittelstand Corporate Ma."
+description: "Wenn es um Rechtsabteilung: Familiengesellschafter und Zustimmungsketten in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Familiengesellschafter und Zustimmungsketten

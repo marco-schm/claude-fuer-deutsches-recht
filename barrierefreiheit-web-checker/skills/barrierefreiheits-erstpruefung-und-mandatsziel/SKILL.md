@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheits-erstpruefung-und-mandatsziel
-description: "Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel in Barrierefreiheit Web Checker geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel

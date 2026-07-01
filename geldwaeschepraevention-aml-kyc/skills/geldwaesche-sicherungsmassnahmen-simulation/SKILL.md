@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-sicherungsmassnahmen-simulation
-description: "Aufbau und Haertung interner Sicherungsmassnahmen ICP nach § 6 GwG. Anwendungsfall Verpflichteter muss ICP aufbauen oder bestehendes Kontrollsystem verbessern. Normen § 4 GwG Bestellung GwG-Beauftragter § 6 GwG interne Maßnahmen § 7 GwG Gruppen-Compliance BaFin-Auslegungs- und Anwendungshinweise..."
+description: "Wenn es um Interne Sicherungsmaßnahmen und ICP in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Interne Sicherungsmaßnahmen und ICP

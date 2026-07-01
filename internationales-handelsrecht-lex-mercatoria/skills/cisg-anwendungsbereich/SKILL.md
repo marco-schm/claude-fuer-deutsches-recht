@@ -1,6 +1,6 @@
 ---
 name: cisg-anwendungsbereich
-description: "Internationales Handelsrecht: CISG Anwendungsbereich nach Art. 1-13 CISG. Räumlicher Anwendungsbereich (Vertragsstaatenprinzip), sachlicher Ausschluss nach Art. 2 CISG (Verbraucher, Wertpapiere, Strom), und Lückenfüllung nach Art. 7 Abs. 2 CISG im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um CISG Anwendungsbereich (Art. 1-13) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # CISG Anwendungsbereich (Art. 1-13)

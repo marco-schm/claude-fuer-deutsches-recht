@@ -1,6 +1,6 @@
 ---
 name: messenger-chatgruppen-insiderhandel
-description: "Prüft Insiderhandel und Marktmanipulation in Messenger-Chat-Gruppen: Tatbestandsmerkmale, Beweis-Fragen und strafrechtliche Risiken nach § 119 WpHG im Insiderrecht Compliance."
+description: "Wenn es um Messenger-Chatgruppen und Insiderhandel in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Messenger-Chatgruppen und Insiderhandel

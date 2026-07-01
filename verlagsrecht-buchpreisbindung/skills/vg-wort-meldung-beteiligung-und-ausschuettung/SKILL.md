@@ -1,6 +1,6 @@
 ---
 name: vg-wort-meldung-beteiligung-und-ausschuettung
-description: "VG Wort: Werkmeldung, Ausschüttungsrecht von Autoren und Verlagen, Wahrnehmungsvertrag, VGG §§ 27 ff. — Fristen, Verteilungsplan und Praxis im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-017 · VG Wort: Meldung, Beteiligung und Ausschüttung in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-017 · VG Wort: Meldung, Beteiligung und Ausschüttung

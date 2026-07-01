@@ -1,6 +1,6 @@
 ---
 name: inso-p287a-entscheidung-des-insolvenzgerichts
-description: "§ 287a InsO (Entscheidung des Insolvenzgerichts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 287a InsO (Entscheidung des Insolvenzgerichts) im Mandat prüfen: Normzweck, Tatbestand, Bel..."
+description: "Wenn es um Inso P287a Entscheidung Des Insolvenzgerichts in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 287a InsO (Entscheidung des Insolvenzgerichts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

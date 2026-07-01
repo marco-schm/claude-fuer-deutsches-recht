@@ -1,6 +1,6 @@
 ---
 name: fraud-red-flags-organisationspflicht-und-praxis
-description: "Wirtschaftsprüfer: fraud red flags - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Fraud Red Flags Organisationspflicht Und Praxis in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: fraud red flags - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

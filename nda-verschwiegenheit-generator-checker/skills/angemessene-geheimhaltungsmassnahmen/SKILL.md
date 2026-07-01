@@ -1,6 +1,6 @@
 ---
 name: angemessene-geheimhaltungsmassnahmen
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Angemessene Geheimhaltungsmassnahmen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Angemessene Geheimhaltungsmassnahmen in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Angemessene Geheimhaltungsmassnahmen

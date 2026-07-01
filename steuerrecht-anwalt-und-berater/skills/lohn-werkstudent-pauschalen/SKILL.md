@@ -1,6 +1,6 @@
 ---
 name: lohn-werkstudent-pauschalen
-description: "Werkstudent SV-Status 20-Stunden-Grenze pauschale Beitraege. Anwendungsfall Beschäftigung Student Werkstudentenprivileg KV-Befreiung RV-Pflicht JAEG nicht relevant Klassifizierung. Methodik Prüfung 20-Stunden-Woche vorlesungsfreie Zeit Antrag KV-Befreiung. Output Werkstudenten-Abrechnung."
+description: "Wenn es um Werkstudent — SV-Status und Pauschalen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Werkstudent — SV-Status und Pauschalen

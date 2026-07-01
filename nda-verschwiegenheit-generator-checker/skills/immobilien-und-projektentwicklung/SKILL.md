@@ -1,6 +1,6 @@
 ---
 name: immobilien-und-projektentwicklung
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Immobilien Und Projektentwicklung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Immobilien Und Projektentwicklung in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Immobilien Und Projektentwicklung

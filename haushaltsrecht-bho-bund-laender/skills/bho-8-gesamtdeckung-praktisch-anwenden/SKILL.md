@@ -1,6 +1,6 @@
 ---
 name: bho-8-gesamtdeckung-praktisch-anwenden
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 8 Gesamtdeckung praktisch anwenden. BHO § 8 Gesamtdeckung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die..."
+description: "Wenn es um Bho 8 Gesamtdeckung Praktisch Anwenden in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 8 Gesamtdeckung Praktisch Anwenden

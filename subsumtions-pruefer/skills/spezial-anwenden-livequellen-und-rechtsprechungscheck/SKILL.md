@@ -1,6 +1,6 @@
 ---
 name: spezial-anwenden-livequellen-und-rechtsprechungscheck
-description: "Anwenden: Livequellen- und Rechtsprechungscheck im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Anwenden: Livequellen- und Rechtsprechungscheck in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwenden: Livequellen- und Rechtsprechungscheck

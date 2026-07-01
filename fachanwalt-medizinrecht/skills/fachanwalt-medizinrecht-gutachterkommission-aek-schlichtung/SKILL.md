@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung
-description: "Gutachterkommissionen und Schlichtungsstellen der Aerztekammern bei Arzthaftung nutzen: Anwendungsfall Patient oder Anwalt erwägt Schlichttungsverfahren vor Aerztekammer als kostenguenstige Alternative zur Klage. § 630a BGB Behandlungsvertrag, Schlichtungsordnung der Aerztekammern, MDK-Prüfung. Prüfraster Schlichttungsverfahren-Zulässigkeit, Korrespondenzstrategie mit Berufshaftpflicht-Versicherer, Gutachten-Strategie, Vergleichsverhandlung foerdern. Output Schlichtungs-Strategie mit Antragsentwurf und Verhandlungs-Memo. Abgrenzung zu Arzthaftungsklage und zu Vergleichsverhandlung-Strategie."
+description: "Wenn es um Arzthaftung — Gutachterkommissionen / Schlichtungsstellen in Fachanwalt Medizinrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Arzthaftung — Gutachterkommissionen / Schlichtungsstellen

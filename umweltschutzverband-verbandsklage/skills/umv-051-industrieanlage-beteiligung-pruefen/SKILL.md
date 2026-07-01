@@ -1,6 +1,6 @@
 ---
 name: umv-051-industrieanlage-beteiligung-pruefen
-description: "Umweltschutzverband Verbandsklage: Industrieanlage: Beteiligung prüfen. Beteiligung prüfen für Industrieanlage im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Industrieanlage Beteiligung Pruefen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Industrieanlage Beteiligung Pruefen

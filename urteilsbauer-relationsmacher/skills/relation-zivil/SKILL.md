@@ -1,6 +1,6 @@
 ---
 name: relation-zivil
-description: "Zivilrechtliche Relation nach klassischer Relationstechnik erstellen: Referendar oder Richter erstellt Entscheidungsunterlage vor Urteilsabfassung. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Streitgegenstand, Zulässigkeitsstation, Schluessigkeitsstation, Kläger-/Beklagten-/..."
+description: "Wenn es um Relation Zivilprozess - Vollrelation nach deutschem Standard in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Relation Zivilprozess - Vollrelation nach deutschem Standard

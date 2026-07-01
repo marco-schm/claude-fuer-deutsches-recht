@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-netzentgelte-strom-unterlagenanforderun
-description: "Netzentgelte Strom: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: Netzentgelte Strom — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Netzentgelte Strom — Unterlagenanforderung

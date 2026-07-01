@@ -1,6 +1,6 @@
 ---
 name: currency-risk-cny-eur-usd
-description: "Währungsrisiko CNY/EUR/USD im China-Handel: Wechselkursschwankungen, Absicherungsinstrumente (Forward, Option), SAFE-Grenzen für CNY-Absicherung, CNH vs. CNY (Offshore/Onshore-Markt), Zahlungswährungswahl im Vertrag, Einfluss chinesischer Geldpolitik auf EUR-Kurs. Output: Währungsrisiko-Analyse u..."
+description: "Wenn es um Währungsrisiko CNY/EUR/USD: Absicherung im China-Handel in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Währungsrisiko CNY/EUR/USD: Absicherung im China-Handel

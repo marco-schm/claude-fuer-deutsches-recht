@@ -1,6 +1,6 @@
 ---
 name: klage-aus-eigenem-skill
-description: "Kanzlei hat hauseigenes Klage-Plugin installiert und will daraus Klagen erstellen. Pruefraster: Sachverhalt, Beklagtenadresse, Zustaendigkeit nach Paragrafen 12 und 13 sowie 29 und 29c ZPO sowie Paragraf 23 Nummer 1 und 2a GVG und Paragraf 71 Absatz 1 GVG."
+description: "Wenn es um Klagewerkstatt — Laufzeit aus eigenem Skill in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klagewerkstatt — Laufzeit aus eigenem Skill

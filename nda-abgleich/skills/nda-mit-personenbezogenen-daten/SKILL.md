@@ -1,6 +1,6 @@
 ---
 name: nda-mit-personenbezogenen-daten
-description: "NDA mit personenbezogenen Daten: ggf. AV-Vertrag § 28 BDSG / Art. 28 DSGVO erforderlich, gemeinsame Verantwortlichkeit Art. 26 DSGVO prüfen. NDA ersetzt AV nicht. Empfehlung: separater AVV anlagengeb."
+description: "Wenn es um Personenbezogene Daten + NDA in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Personenbezogene Daten + NDA

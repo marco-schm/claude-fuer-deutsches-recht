@@ -1,6 +1,6 @@
 ---
 name: disziplinarverfahren-notar-organisationspflicht-und-prae
-description: "Notare: disziplinarverfahren notar - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Disziplinarverfahren Notar Organisationspflicht Und Prae in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: disziplinarverfahren notar - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: buergerversammlung-protokoll-audit
-description: "Mandant war bei Buergerversammlung und moechte Niederschrift auf Vollständigkeit prüfen. § 3 Abs. 1 BauGB Buergerversammlung Eroerterungstermin. Prüfraster: Einladung Tagesordnung Sitzungsleitung Wortbeitraege sinngemäße Niederschrift Vorfestlegungs-Anzeichen Auswertung für Mandantenchronologie...."
+description: "Wenn es um Bürgerversammlung — Protokoll-Audit in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Bürgerversammlung — Protokoll-Audit

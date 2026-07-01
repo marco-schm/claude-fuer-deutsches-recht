@@ -1,6 +1,6 @@
 ---
 name: parteigericht-antrag
-description: "Erstellt Antrag an Parteischiedsgericht: Rubrum, Anträge, Sachverhalt, Satzung, Beweise, Eilbedürftigkeit."
+description: "Wenn es um Parteigerichtlicher Antrag in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Parteigerichtlicher Antrag

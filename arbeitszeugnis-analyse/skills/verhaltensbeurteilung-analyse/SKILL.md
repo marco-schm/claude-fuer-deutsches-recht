@@ -1,6 +1,6 @@
 ---
 name: verhaltensbeurteilung-analyse
-description: "Analysiert Verhaltensbeurteilungen im Arbeitszeugnis: Verhalten zu Vorgesetzten, Kollegen und Kunden. Decodiert die Reihenfolge der Genannten, Qualifikationswörter und die Bedeutung von Auslassungen als versteckte Signale."
+description: "Wenn es um Verhaltensbeurteilung-Analyse in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verhaltensbeurteilung-Analyse

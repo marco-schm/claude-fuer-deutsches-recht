@@ -1,6 +1,6 @@
 ---
 name: 02-sicherungsmassnahmen-vor-eroeffnung
-description: "Sicherungsmaßnahmen Paragraf 21 InsO: vorläufiger Insolvenzverwalter (stark oder schwach), Verfügungsbeschraenkungen, Vollstreckungsverbote, Postsperre, Globalsicherheiten"
+description: "Wenn es um 02 Sicherungsmaßnahmen Vor Eröffnung in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 02 Sicherungsmaßnahmen Vor Eröffnung

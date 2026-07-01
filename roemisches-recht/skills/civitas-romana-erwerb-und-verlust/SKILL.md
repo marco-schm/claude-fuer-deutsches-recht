@@ -1,6 +1,6 @@
 ---
 name: civitas-romana-erwerb-und-verlust
-description: "Civitas Romana: Erwerb und Verlust des roemischen Buergerrechts. Skill behandelt Geburtserwerb adoptio Manumissio Naturalisationsdekrete capitis deminutio media und maxima sowie das Buergerrecht der Latini iuris Latini iuris veteris. Liefert Quellenmatrix und Prüfraster."
+description: "Wenn es um Rom 150 Civitas Romana Erwerb Und Verlust in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 150 Civitas Romana Erwerb Und Verlust

@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Zwangsvollstreckung: stimmt Adressat (Gläubiger, Schuldner, Drittschuldner (Arbeitgeber, Bank)), Frist (Erinnerung § 766 ZPO 2 Wochen) und Form auf den Zweck ab — typische Outputs: Vollstreckungsantrag, PfÜB, Erinnerung § 766 ZPO."
+description: "Wenn es um Output wählen in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: vermoegensverzeichnis-kontodaten
-description: "Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg im Betreuungsrecht."
+description: "Wenn es um Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vermoegensverzeichnis Kontodaten; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg

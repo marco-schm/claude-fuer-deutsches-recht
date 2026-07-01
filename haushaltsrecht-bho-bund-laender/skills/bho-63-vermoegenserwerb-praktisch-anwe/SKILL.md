@@ -1,6 +1,6 @@
 ---
 name: bho-63-vermoegenserwerb-praktisch-anwe
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 63 Vermögenserwerb praktisch anwenden. BHO § 63 Vermögenserwerb praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkr..."
+description: "Wenn es um Bho 63 Vermögenserwerb Praktisch Anwe in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 63 Vermögenserwerb Praktisch Anwe

@@ -1,6 +1,6 @@
 ---
 name: neuheit-erfinderische-patentprozess
-description: "Prüft Patentfähigkeit mit Merkmalsgliederung, Neuheit nach § 3 PatG/Art. 54 EPÜ und erfinderischer Tätigkeit nach § 4 PatG/Art. 56 EPÜ; nutzt Einzeldokumentprüfung und Aufgaben-Lösungs-Ansatz im Patentrecht."
+description: "Wenn es um Neuheit und erfinderische Tätigkeit in patentrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Neuheit und erfinderische Tätigkeit

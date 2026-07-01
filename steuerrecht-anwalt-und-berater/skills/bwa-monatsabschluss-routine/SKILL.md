@@ -1,6 +1,6 @@
 ---
 name: bwa-monatsabschluss-routine
-description: "Routine für den Monatsabschluss in der Steuerberater-Kanzlei. Anwendungsfall monatliche BWA-Erstellung in einem standardisierten 30-Tage-Zyklus mit Belegabgabe Buchung Abstimmung BWA-Versand. Schritte Belegannahme Buchung GoBD-konform OPOS-Pflege Lohnbuchung-Integration Bestand-Schaetzung Periode..."
+description: "Wenn es um Monatsabschluss-Routine für den Steuerberater in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Monatsabschluss-Routine für den Steuerberater

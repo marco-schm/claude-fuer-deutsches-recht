@@ -1,6 +1,6 @@
 ---
 name: 030-normkarte-polizeirecht-ohne-anachronismus
-description: "PrALR: Normkarte Polizeirecht ohne Anachronismus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Pralr Normkarte Polizeirecht Ohne Anachronismus in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Normkarte Polizeirecht Ohne Anachronismus

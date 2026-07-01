@@ -1,6 +1,6 @@
 ---
 name: klage-gegen-vlop-einordnung-art-263-aeuv
-description: "Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA (VLOP-Designation), Art. 3 DMA (Gatekeeper-Designation), Art. 278-279 AEUV (Eilrecht..."
+description: "Wenn es um Klage gegen Designations-Beschluss — Art. 263 AEUV in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klage gegen Designations-Beschluss — Art. 263 AEUV

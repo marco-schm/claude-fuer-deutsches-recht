@@ -1,6 +1,6 @@
 ---
 name: amtsenthebung-vermoegensverfall
-description: "Notare: amtsenthebung vermögensverfall - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Amtsenthebung Vermoegensverfall in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Notare: amtsenthebung vermögensverfall - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

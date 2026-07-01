@@ -1,6 +1,6 @@
 ---
 name: litigation-disputes
-description: "Litigation und Disputes DD: prüft Prozesse, Schiedsverfahren, Verwaltungsverfahren, Threatened Claims, Rueckstellungen und SPA-Risikotransfer."
+description: "Wenn es um Litigation Disputes DD in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Litigation Disputes DD

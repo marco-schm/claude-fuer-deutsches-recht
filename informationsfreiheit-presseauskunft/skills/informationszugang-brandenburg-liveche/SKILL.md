@@ -1,6 +1,6 @@
 ---
 name: informationszugang-brandenburg-liveche
-description: "Informationsfreiheit und Presseauskunft: Informationszugang Brandenburg Livecheck. Informationszugang Brandenburg Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskun..."
+description: "Wenn es um Informationszugang Brandenburg Liveche in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Informationszugang Brandenburg Liveche

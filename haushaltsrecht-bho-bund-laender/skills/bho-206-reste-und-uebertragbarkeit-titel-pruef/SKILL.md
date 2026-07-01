@@ -1,6 +1,6 @@
 ---
 name: bho-206-reste-und-uebertragbarkeit-titel-pruef
-description: "Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Titel prüfen. Titel prüfen für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Reste Und Uebertragbarkeit Titel Pruef in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reste Und Uebertragbarkeit Titel Pruef

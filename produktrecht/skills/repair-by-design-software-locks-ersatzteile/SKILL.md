@@ -1,6 +1,6 @@
 ---
 name: repair-by-design-software-locks-ersatzteile
-description: "Prüft technische und vertragliche Reparaturhindernisse wie Pairing, Seriennummern-Locks, Diagnosezugang, Firmware-Sperren, Ersatzteilbindung, IP- und Cybersecurity-Rechtfertigungen im Produktrecht."
+description: "Wenn es um Repair-by-design, Software-Locks und Ersatzteile in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Repair-by-design, Software-Locks und Ersatzteile

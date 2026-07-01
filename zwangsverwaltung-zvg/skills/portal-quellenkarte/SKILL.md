@@ -1,6 +1,6 @@
 ---
 name: portal-quellenkarte
-description: "Portal Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Portal Quellenkarte in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Portal Quellenkarte

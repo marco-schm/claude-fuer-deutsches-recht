@@ -1,6 +1,6 @@
 ---
 name: appeal-and-revision-614-zpo
-description: "Prüft Rechtsmittel und Revision/BGH-Pfad nach Commercial-Court-Verfahren: Zulassung, Sprache, Transcript, Tatbestand, Rechtsfehler und Strategie im Commercial Courts Deutschland."
+description: "Wenn es um Appeal and Revision in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Appeal and Revision

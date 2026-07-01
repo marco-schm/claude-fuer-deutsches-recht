@@ -1,6 +1,6 @@
 ---
 name: servituten-und-dienstbarkeiten
-description: "Römisches Recht: Servituten Und Dienstbarkeiten. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Servituten Und Dienstbarkeiten in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Servituten Und Dienstbarkeiten

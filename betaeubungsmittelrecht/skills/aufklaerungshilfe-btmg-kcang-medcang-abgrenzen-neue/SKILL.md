@@ -1,6 +1,6 @@
 ---
 name: aufklaerungshilfe-btmg-kcang-medcang-abgrenzen-neue
-description: "Betäubungsmittelrecht: Aufklärungshilfe § 31 BtMG. Aufklärungshilfe § 31 BtMG im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
+description: "Wenn es um Aufklaerungshilfe 31 Btmg in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufklaerungshilfe 31 Btmg

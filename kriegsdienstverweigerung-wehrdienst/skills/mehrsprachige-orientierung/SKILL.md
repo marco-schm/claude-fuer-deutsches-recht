@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-orientierung
-description: "Hilft Nicht-Muttersprachlern mit deutschen KDV-Begriffen ohne falsche Übersetzungssicherheit im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Mehrsprachige Orientierung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mehrsprachige Orientierung

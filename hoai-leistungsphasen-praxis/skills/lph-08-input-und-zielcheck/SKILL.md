@@ -1,6 +1,6 @@
 ---
 name: lph-08-input-und-zielcheck
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen..."
+description: "Wenn es um LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Prüft eingaben in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Prüft eingaben

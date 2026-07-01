@@ -1,6 +1,6 @@
 ---
 name: ein-097-wohnhaus-ddr-enteignung-behoerdenbrief
-description: "Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Behördenbrief schreiben. Behördenbrief schreiben für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Wohnhaus Ddr Enteignung Behoerdenbrief in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Wohnhaus Ddr Enteignung Behoerdenbrief

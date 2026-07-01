@@ -1,6 +1,6 @@
 ---
 name: klage-sozialgericht
-description: "Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden: §§ 87 ff. SGG Klagefrist. Prüfraster: Klagefrist 1 Monat nach Widerspruchsbescheid § 87 Abs. 1..."
+description: "Wenn es um Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden

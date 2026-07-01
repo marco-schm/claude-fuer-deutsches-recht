@@ -1,6 +1,6 @@
 ---
 name: spezial-subsumtions-tatbestand-beweis-und-belege
-description: "Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage

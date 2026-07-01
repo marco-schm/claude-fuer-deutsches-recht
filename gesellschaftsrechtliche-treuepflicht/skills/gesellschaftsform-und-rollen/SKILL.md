@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsform-und-rollen
-description: "Gesellschaftsrechtliche Treuepflicht: Gesellschaftsform Und Rollen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Gesellschaftsform Und Rollen in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gesellschaftsform Und Rollen

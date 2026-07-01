@@ -1,6 +1,6 @@
 ---
 name: konform-interessen-konvertiert-oben
-description: "Konform: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Konform: Mehrparteienkonflikt und Interessenmatrix in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Konform Interessen Konvertiert Oben; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Konform: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: nicht-ausgleichsreife-anrechte-19-versausglg
-description: "Familienrechtlicher Skill zu Nicht ausgleichsreife Anrechte Paragraf 19 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
+description: "Wenn es um Nicht Ausgleichsreife Anrechte 19 Versausglg in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nicht ausgleichsreife Anrechte Paragraf 19 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

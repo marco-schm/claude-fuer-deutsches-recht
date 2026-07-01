@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-ueberpruefungsantrag-44-sgbx
-description: "Laienverstaendlicher Sozialrechts-Skill zu Überprüfungsantrag 44 Sgbx: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörd..."
+description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Überprüfungsantrag 44 Sgbx in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Überprüfungsantrag 44 Sgbx

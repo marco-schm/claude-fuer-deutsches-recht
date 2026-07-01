@@ -1,6 +1,6 @@
 ---
 name: anschluss-router
-description: "Einstieg, Schnelltriage und Fallrouting im Europarecht Kompass-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständi..."
+description: "Wenn es um Europarecht-Kompass — Allgemein in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Europarecht-Kompass — Allgemein

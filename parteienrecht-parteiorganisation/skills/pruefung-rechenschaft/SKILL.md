@@ -1,6 +1,6 @@
 ---
 name: pruefung-rechenschaft
-description: "Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachweise, Stichproben und Fehlerkorrektur vor."
+description: "Wenn es um Prüfung Rechenschaft in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Prüfung Rechenschaft; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Prüfung Rechenschaft

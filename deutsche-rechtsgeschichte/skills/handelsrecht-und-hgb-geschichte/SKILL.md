@@ -1,6 +1,6 @@
 ---
 name: handelsrecht-und-hgb-geschichte
-description: "Deutsche Rechtsgeschichte: Geschichte des Handelsrechts und des HGB. ADHGB 1861, Einheitsrecht im Kaiserreich, HGB 1897, Handelsstand, Handelsregister und Reformgeschichte des 20. Jahrhunderts im Deutsche Rechtsgeschichte."
+description: "Wenn es um Handelsrecht und HGB Geschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsrecht und HGB Geschichte

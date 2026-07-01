@@ -1,6 +1,6 @@
 ---
 name: signing-closing-conditions
-description: "Signing Closing und CPs: Signing-to-Closing-Prozess mit Conditions Precedent, Ordinary Course, Bring-down, Closing Deliverables, Funds Flow und Closing Bible für M&A-Transaktionen im Mittelstand Corporate Ma."
+description: "Wenn es um Signing, Closing und Conditions Precedent in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Signing, Closing und Conditions Precedent

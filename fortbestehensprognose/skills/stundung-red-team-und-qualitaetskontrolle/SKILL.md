@@ -1,6 +1,6 @@
 ---
 name: stundung-red-team-und-qualitaetskontrolle
-description: "Stundung: Red-Team und Qualitätskontrolle im Fortbestehensprognose. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Stundung: Red-Team und Qualitätskontrolle in Fortbestehensprognose geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stundung: Red-Team und Qualitätskontrolle

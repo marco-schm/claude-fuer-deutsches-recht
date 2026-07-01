@@ -1,6 +1,6 @@
 ---
 name: space-066-drohnen-und-high-altitude-platform-abgrenzung
-description: "Weltraumrecht: Drohnen und High Altitude Platform Abgrenzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Drohnen und High Altitude Platform Abgrenzung in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Drohnen und High Altitude Platform Abgrenzung

@@ -1,6 +1,6 @@
 ---
 name: 17-einziehung-und-vermoegensabschoepfung
-description: "Einziehung von Taterträgen (Paragrafen 73 bis 76b StGB), Vermoegensarrest (Paragraf 111e StPO), selbststaendige Einziehung (Paragraf 76a StGB), Wertersatz, Sicherung im Ermittlungsverfahren"
+description: "Wenn es um 17 Einziehung und Vermoegensabschoepfung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 17 Einziehung und Vermoegensabschoepfung

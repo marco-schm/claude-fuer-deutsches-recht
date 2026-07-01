@@ -1,6 +1,6 @@
 ---
 name: dienstunfall-folgekosten-disziplinar
-description: "Dienstunfall-Folgekosten und Unfallfürsorge: Heilverfahren, Sachschäden, Unfallruhegehalt, Meldefrist, Kausalität und spätere Verschlimmerung im Beamtenrecht."
+description: "Wenn es um dienstunfall-folgekosten-unfallfürsorge in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # dienstunfall-folgekosten-unfallfürsorge

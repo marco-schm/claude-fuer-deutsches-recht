@@ -1,6 +1,6 @@
 ---
 name: invoice-review-narratives
-description: "Invoice Review Narratives: steuert Stundenbeschreibungen auf Verständlichkeit, Doppelerfassung, Blockbilling und OCG-Konformität prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecy..."
+description: "Wenn es um Invoice Review Narratives in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Invoice Review Narratives

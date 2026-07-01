@@ -1,6 +1,6 @@
 ---
 name: datenschutzbussgeld-einstellung-anrege
-description: "Datenschutzbußgeld: Einstellung anregen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Datenschutzbussgeld Einstellung Anrege in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzbussgeld Einstellung Anrege

@@ -1,6 +1,6 @@
 ---
 name: aufhebungsvertrag-sperrzeit
-description: "Aufhebungsvertrag mit Sperrzeit-Vermeidung nach Paragraf 159 SGB III bei Eigeninitiative oder drohender Kündigung: Anwendungsfall Arbeitgeber und Arbeitnehm..."
+description: "Wenn es um Aufhebungsvertrag Sperrzeit in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufhebungsvertrag mit Sperrzeit-Vermeidung nach Paragraf 159 SGB III bei Eigeninitiative oder drohender Kündigung

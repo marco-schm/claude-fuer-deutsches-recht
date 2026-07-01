@@ -1,6 +1,6 @@
 ---
 name: grenzueberschreitender-verbrauchervertrag-rom-i-bruessel-ia
-description: "Grenzüberschreitender Verbrauchervertrag Rom I Brüssel Ia: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG im Ecom..."
+description: "Wenn es um Grenzüberschreitender Verbrauchervertrag Rom I Brüssel Ia in E-Commerce-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzüberschreitender Verbrauchervertrag Rom I Brüssel Ia

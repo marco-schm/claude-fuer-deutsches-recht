@@ -1,6 +1,6 @@
 ---
 name: btm-026-cannabis-therapiepfad-pruefen
-description: "Betäubungsmittelrecht: Cannabis: Therapiepfad prüfen. Therapiepfad prüfen für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Cannabis Therapiepfad Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cannabis Therapiepfad Pruefen

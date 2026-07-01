@@ -1,6 +1,6 @@
 ---
 name: ordentliche-kuendigung-laufzeit-verlaengerung
-description: "Ordentliche Kündigung und automatische Verlängerung von Franchiseverträgen prüfen: Laufzeitklauseln, Kündigungsfristen, AGB-Kontrolle nach § 307 BGB, Verlängerungsoptionen und Investitionsschutz des Franchisenehmers bei Nichtverlängerung im Franchiserecht."
+description: "Wenn es um Franchiserecht: Ordentliche Kündigung, Laufzeit und Verlängerung in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Ordentliche Kündigung, Laufzeit und Verlängerung

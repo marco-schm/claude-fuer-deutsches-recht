@@ -1,6 +1,6 @@
 ---
 name: exportkontrolle-dual-use
-description: "Internationales Handelsrecht: Exportkontrolle für Dual-Use-Güter nach EU-Dual-Use-VO (EU) 2021/821. Listengüter (Anhang I), Catch-All-Klausel (Art. 4-5), Genehmigungspflichten, BIS-EAR (USA), ITAR und extraterritorialer Anwendungsbereich im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Exportkontrolle: Dual-Use-Güter in Internationales Handelsrecht und Lex Mercatoria geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exportkontrolle: Dual-Use-Güter

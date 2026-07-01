@@ -1,6 +1,6 @@
 ---
 name: franchisevertrag-agb-redline
-description: "Franchisevertrag auf AGB-Konformität prüfen: Einbeziehung nach §§ 305 ff. BGB, Inhaltskontrolle von Systemhandbuchvorbehalten, Bezugsbindungen und Vertragsstrafen. Redline erstellen und unwirksame Klauseln markieren. Perspektive Franchisegeber oder Franchisenehmer im Franchiserecht."
+description: "Wenn es um Franchiserecht: Franchisevertrag – AGB-Redline in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Franchisevertrag – AGB-Redline

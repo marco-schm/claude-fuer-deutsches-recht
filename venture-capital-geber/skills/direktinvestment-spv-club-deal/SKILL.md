@@ -1,6 +1,6 @@
 ---
 name: direktinvestment-spv-club-deal
-description: "Vergleicht Direktbeteiligung, Treuhand, Pooling-SPV, Club Deal, Angel-Syndikat und Fondsvehikel aus Sicht eines deutschen VC-Gebers im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Direktinvestment, SPV oder Club Deal in Venture Capital Geber geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Direktinvestment, SPV oder Club Deal

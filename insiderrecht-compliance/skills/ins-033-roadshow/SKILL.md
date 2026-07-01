@@ -1,6 +1,6 @@
 ---
 name: ins-033-roadshow
-description: "Spezialskill Insiderrecht fuer Roadshow: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Roadshow in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insiderrecht: Roadshow

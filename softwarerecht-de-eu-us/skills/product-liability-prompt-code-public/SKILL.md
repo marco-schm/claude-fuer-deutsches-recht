@@ -1,6 +1,6 @@
 ---
 name: product-liability-prompt-code-public
-description: "Prüft neue EU-Produkthaftung für Software, KI, Updates, Sicherheitslücken und Herstellerrollen im Softwarerecht De Eu Us."
+description: "Wenn es um Produkthaftung für fehlerhafte Software EU in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Produkthaftung für fehlerhafte Software EU

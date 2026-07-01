@@ -1,6 +1,6 @@
 ---
 name: motion-picture-audiovisual
-description: "Prüft Film, Video, Trailer, Ads, Clips, underlying rights, music sync and work-made-for-hire packaging im Us Copyright Registrierung Verlag."
+description: "Wenn es um Motion Pictures und Audiovisual Works in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Motion Pictures und Audiovisual Works

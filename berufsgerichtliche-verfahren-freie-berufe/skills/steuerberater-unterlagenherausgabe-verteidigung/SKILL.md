@@ -1,6 +1,6 @@
 ---
 name: steuerberater-unterlagenherausgabe-verteidigung
-description: "Steuerberater Unterlagenherausgabe (Verteidigungs- und Kammerantwort): steuert Herausgabe von Buchhaltungsdaten, DATEV-Bestand, Zurückbehaltungsrecht und Mandatswechsel mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfah..."
+description: "Wenn es um Steuerberater Unterlagenherausgabe: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Steuerberater Unterlagenherausgabe: Verteidigungs- und Kammerantwort

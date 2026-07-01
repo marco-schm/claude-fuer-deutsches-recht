@@ -1,6 +1,6 @@
 ---
 name: tabelle-pruefungstermin
-description: "Insolvenztabelle konsolidieren und Prüfungstermin nach §§ 175 ff. InsO vorbereiten. §§ 175 176 177 InsO Tabellenführung und Widersprueche. Prüfraster: Tabellenbereinigung Doubletten Rang Zinsen Widersprueche nach Grund Betrag Rang Terminmappe. Output: Terminmappe Widerspruchserklärungen Feststell..."
+description: "Wenn es um Tabelle und Prüfungstermin in Insolvenzverwaltung - IV-Cockpit geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Tabelle und Prüfungstermin

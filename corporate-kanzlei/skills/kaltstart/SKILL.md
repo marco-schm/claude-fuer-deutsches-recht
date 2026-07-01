@@ -1,6 +1,6 @@
 ---
 name: kaltstart
-description: "Kaltstart Corporate-Kanzlei: Strukturiert den Einstieg in ein neues Corporate/M&A-Mandat mit Schnellerfassung von Parteien, Dealtyp, Phase, ersten Risiken und naechsten Schritten. Normen: BRAO §§ 43a und 49b; GwG § 10 (KYC); MAR Insider-Abgrenzung. Prüfraster: Mandantenrolle (Kaeufer/Verkaeufer/T..."
+description: "Wenn es um Kaltstart Corporate-Kanzlei in Corporate-Kanzlei geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Corporate-Kanzlei

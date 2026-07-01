@@ -1,6 +1,6 @@
 ---
 name: vers-deckungsablehnung-redteam
-description: "Deckungsablehnung des Versicherers zerlegen: Risikoausschluss, Obliegenheit, Kausalität, grobe Fahrlässigkeit, Arglist, Beweislast und Vergleichsfenster systematisch prüfen."
+description: "Wenn es um Deckungsablehnung Red-Team in Versicherungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Deckungsablehnung Red-Team

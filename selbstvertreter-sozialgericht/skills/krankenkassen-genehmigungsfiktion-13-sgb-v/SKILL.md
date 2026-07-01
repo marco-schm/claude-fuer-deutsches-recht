@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-genehmigungsfiktion-13-sgb-v
-description: "Krankenkassen-Genehmigungsfiktion nach § 13 Abs. 3a SGB V. Skill klaert die 3-Wochen-Frist Verlaengerung auf 5 Wochen bei MD-Stellungnahme die Rechtsfolge fiktive Genehmigung und die Voraussetzungen für den Selbstbeschaffungsanspruch. Liefert Prüfraster."
+description: "Wenn es um Krankenkassen Genehmigungsfiktion 13 Sgb V in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenkassen Genehmigungsfiktion 13 Sgb V

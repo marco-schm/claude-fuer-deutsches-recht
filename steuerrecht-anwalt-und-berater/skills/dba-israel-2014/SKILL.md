@@ -1,6 +1,6 @@
 ---
 name: dba-israel-2014
-description: "DBA Deutschland Israel Neufassung 2014 in Kraft 21.5.2016. Anwendungsfall Hightech IT Software-Lizenzen Holdings Pensionen Aliyah-Konstellation. Methodenartikel Anrechnung. MLI relevant. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Israel (2014) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Israel (2014)

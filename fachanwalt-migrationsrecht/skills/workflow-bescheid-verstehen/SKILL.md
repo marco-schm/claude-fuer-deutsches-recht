@@ -1,6 +1,6 @@
 ---
 name: workflow-bescheid-verstehen
-description: "Bescheid verstehen: Prüfungslinie für Migrationsrecht: erkennt aus Bescheid, Rechtsbehelfsbelehrung und Zustellung die nächsten Schritte; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und..."
+description: "Wenn es um Bescheid verstehen: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bescheid verstehen: Prüfungslinie für Migrationsrecht

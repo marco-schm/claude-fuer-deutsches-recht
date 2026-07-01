@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-jahresbericht-aus-notizen
-description: "Jahresbericht für das Betreuungsgericht aus Alltagsnotizen, Kontoübersicht, Wunschermittlung und wichtigen Entscheidungen erstellen."
+description: "Wenn es um Familienbetreuer: Jahresbericht aus Notizen in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Familienbetreuer: Jahresbericht aus Notizen

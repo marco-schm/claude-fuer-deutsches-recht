@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation
-description: "Strukturierte Mandantenkommunikation waehrend einer Forderungssache. Definiert Anlaesse Inhalte und Form für Mandanteninformation Auftragsbestaetigung Sachstand Vergleich Zustimmung und Abschluss. Pinpoints BORA 11 unverzuegliche Information BRAO 49b Mandantenaufklaerung RVG 49b BGB 280 Schadense..."
+description: "Wenn es um Mandantenkommunikation in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Mandantenkommunikation

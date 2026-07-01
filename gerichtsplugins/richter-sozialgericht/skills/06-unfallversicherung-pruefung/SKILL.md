@@ -1,6 +1,6 @@
 ---
 name: 06-unfallversicherung-pruefung
-description: "Gesetzliche Unfallversicherung SGB VII: Arbeitsunfall Paragraf 8, Berufskrankheit Paragraf 9, Versicherte Paragraf 2, Heilbehandlung Paragraf 27, Verletztenrente Paragraf 56"
+description: "Wenn es um 06 Unfallversicherung Prüfung in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # 06 Unfallversicherung Prüfung

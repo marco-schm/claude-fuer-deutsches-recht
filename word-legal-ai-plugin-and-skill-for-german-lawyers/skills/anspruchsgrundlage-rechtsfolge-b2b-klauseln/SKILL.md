@@ -1,6 +1,6 @@
 ---
 name: anspruchsgrundlage-rechtsfolge-b2b-klauseln
-description: "Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen) und Rechtsfolge (Dann-Teil mit Pflichten und Fristen). Anwendungsbeispiele: Maengelhaftung Verzugsklausel Kuendigungsfolgenklausel. Anti-Pattern Mantelklausel mit verschachtel..."
+description: "Wenn es um Anspruchsgrundlage und Rechtsfolgen-Klauseln in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anspruchsgrundlage und Rechtsfolgen-Klauseln

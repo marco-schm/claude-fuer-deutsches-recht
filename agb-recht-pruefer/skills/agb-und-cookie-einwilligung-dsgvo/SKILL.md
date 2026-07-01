@@ -1,6 +1,6 @@
 ---
 name: agb-und-cookie-einwilligung-dsgvo
-description: "AGB und Cookie-Einwilligung nach DSGVO und TTDSG / TDDDG. Skill klaert die Wechselwirkung von AGB-rechtlichen Klauseln und datenschutzrechtlicher Einwilligung Anforderungen an die Einwilligung Differenzierung notwendige Cookies und optionale Cookies sowie BGH-Linie zur Einwilligung im Plattformko..."
+description: "Wenn es um Agb Und Cookie Einwilligung Dsgvo in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Und Cookie Einwilligung Dsgvo

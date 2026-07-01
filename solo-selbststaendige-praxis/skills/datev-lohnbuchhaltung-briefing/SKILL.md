@@ -1,6 +1,6 @@
 ---
 name: datev-lohnbuchhaltung-briefing
-description: "Solo-Selbstständige: erstellt Übergabepaket für Lohnbüro; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Wachstum Zusammenarbeit und Rechtsform: Erstellt übergabepaket für lohnbüro in Solo-Selbstständige Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wachstum Zusammenarbeit und Rechtsform: Erstellt übergabepaket für lohnbüro

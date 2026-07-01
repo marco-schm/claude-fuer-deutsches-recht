@@ -1,6 +1,6 @@
 ---
 name: anspruchsschriftsatz-bausteine
-description: "Bausteinkatalog für eine Anspruchsbegruendung in Klage oder Schriftsatz. Liefert Vorlagen für Rubrum Antrag Tatbestand Anspruchsgrund Faelligkeit Verzug Zinsen Verzugsschaden Nebenforderungen Beweis. Pinpoints ZPO 253 Abs. 2 ZPO 130 Schriftsatzform ZPO 138 substantiierter Vortrag BGB 286 288. Lie..."
+description: "Wenn es um Anspruchsschriftsatz Bausteine in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anspruchsschriftsatz Bausteine

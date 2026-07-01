@@ -1,6 +1,6 @@
 ---
 name: abstimmung
-description: "Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Verlagsredaktion."
+description: "Wenn es um Chronologie und Belegmatrix in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie und Belegmatrix

@@ -1,6 +1,6 @@
 ---
 name: notaranderkonto-auszahlungsreife-kaltstart-und-faktenmat
-description: "Notare: notaranderkonto auszahlungsreife - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Notaranderkonto Auszahlungsreife Kaltstart Und Faktenmat in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: notaranderkonto auszahlungsreife - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

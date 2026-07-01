@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-antidumping-taric-massnahmen
-description: "Identifizierung und Anwendung handelspolitischer Schutzmassnahmen (Antidumping, Ausgleichszoll, Safeguards) im TARIC-System: Zuordnung der KN-Position, Ursprungsland und Hersteller zu geltenden Maßnahmen. Ermittelt TARIC-Zusatzcode, Preisverpflichtungen und Schwellenwerte für relevante Waren. Ou..."
+description: "Wenn es um TARIC-Maßnahmen: Antidumping und Ausgleichszoelle in der Zollabfertigung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # TARIC-Maßnahmen: Antidumping und Ausgleichszoelle in der Zollabfertigung

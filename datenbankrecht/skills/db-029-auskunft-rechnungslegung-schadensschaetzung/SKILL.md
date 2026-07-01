@@ -1,6 +1,6 @@
 ---
 name: db-029-auskunft-rechnungslegung-schadensschaetzung
-description: "Datenbankrecht: Auskunft Rechnungslegung Schadensschätzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Auskunft Rechnungslegung Schadensschätzung in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Auskunft Rechnungslegung Schadensschätzung

@@ -1,6 +1,6 @@
 ---
 name: spezial-betriebskosten-formell
-description: "Betriebskosten formelle Ordnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Abrechnungseinheit, Gesamtkosten, Umlageschlüssel, Vorauszahlungen, Saldo; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Betriebskosten formelle Ordnung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebskosten formelle Ordnung

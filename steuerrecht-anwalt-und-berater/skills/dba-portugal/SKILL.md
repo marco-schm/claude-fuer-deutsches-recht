@@ -1,6 +1,6 @@
 ---
 name: dba-portugal
-description: "DBA Deutschland Portugal. Anwendungsfall Pensionen Algarve NHR-Status Beteiligungen Lizenzen Immobilien. EU-MTRL Madeira-Sondersteuergebiet. Methodenartikel Anrechnung mit Sonderregelungen. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Portugal in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Portugal

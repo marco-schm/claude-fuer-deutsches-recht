@@ -1,6 +1,6 @@
 ---
 name: dokumentationspflichten-protokoll-dsgvo
-description: "Dokumentationspflichten und beweissichere Protokollierung von KI-Nutzung in Kanzleien: Anwendungsfall Kanzlei muss KI-Inputs und KI-Outputs nachvollziehbar dokumentieren für Datenschutzbehörden, Mandanten-Beschwerden oder berufsrechtliche Verfahren. Art. 5 Abs. 2 DSGVO Rechenschaftspflicht, Art...."
+description: "Wenn es um Dokumentationspflichten Protokoll in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Dokumentationspflichten Protokoll

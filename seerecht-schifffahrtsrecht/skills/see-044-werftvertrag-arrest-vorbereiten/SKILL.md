@@ -1,6 +1,6 @@
 ---
 name: see-044-werftvertrag-arrest-vorbereiten
-description: "See- und Schifffahrtsrecht: Werftvertrag: Arrest vorbereiten. Arrest vorbereiten für Werftvertrag im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Werftvertrag Arrest Vorbereiten in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Werftvertrag Arrest Vorbereiten

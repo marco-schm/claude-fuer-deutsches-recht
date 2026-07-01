@@ -1,6 +1,6 @@
 ---
 name: proz-prozessfinanzierung-spezial
-description: "Spezialfall Prozessfinanzierung: Anbieter, Quotenmodelle, RDG-Implikationen, Berufsrecht. Prüfraster für Mandant und Anwalt im Prozessrecht."
+description: "Wenn es um Proz: Prozessfinanzierung in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Proz: Prozessfinanzierung

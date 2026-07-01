@@ -1,6 +1,6 @@
 ---
 name: oeffentlicher-belegmappe-volkseigener
-description: "Einigungsvertrag und Vermögensrecht: Vergleich mit öffentlicher Hand. Vergleich mit öffentlicher Hand im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlä..."
+description: "Wenn es um Vergleich Mit Oeffentlicher Hand in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich Mit Oeffentlicher Hand

@@ -1,6 +1,6 @@
 ---
 name: see-035-schiffbauwerk-wrackpflicht-pruefen
-description: "See- und Schifffahrtsrecht: Schiffbauwerk: Wrackpflicht prüfen. Wrackpflicht prüfen für Schiffbauwerk im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schiffbauwerk Wrackpflicht Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffbauwerk Wrackpflicht Pruefen

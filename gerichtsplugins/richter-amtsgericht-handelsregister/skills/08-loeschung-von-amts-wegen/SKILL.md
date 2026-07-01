@@ -1,6 +1,6 @@
 ---
 name: 08-loeschung-von-amts-wegen
-description: "Loeschung wegen Vermögenslosigkeit Paragraf 394 FamFG; Loeschung wegen Mangel des Gesellschaftsvertrags Paragraf 397 FamFG; Anhörung Steuerverwaltung"
+description: "Wenn es um 08 Löschung Von Amts Wegen in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # 08 Löschung Von Amts Wegen

@@ -1,6 +1,6 @@
 ---
 name: zitierweise-de-recht-start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Zitierweise Deutsches Recht-Plugin. Setzt v4.1 durch: Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Fragt Ziel, Quellenlage und Wunsch-Output ab, schlägt passende Fachmodule aus"
+description: "Wenn es um Zitierweise Deutsches Recht — Allgemein in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Zitierweise Deutsches Recht — Allgemein

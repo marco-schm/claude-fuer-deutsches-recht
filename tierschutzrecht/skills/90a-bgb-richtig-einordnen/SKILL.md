@@ -1,6 +1,6 @@
 ---
 name: 90a-bgb-richtig-einordnen
-description: "Tierschutzrecht: § 90a BGB richtig einordnen. § 90a BGB richtig einordnen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht."
+description: "Wenn es um 90a Bgb Richtig Einordnen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 90a Bgb Richtig Einordnen

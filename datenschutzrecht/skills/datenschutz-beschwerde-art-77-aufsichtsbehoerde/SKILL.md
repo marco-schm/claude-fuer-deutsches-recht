@@ -1,6 +1,6 @@
 ---
 name: datenschutz-beschwerde-art-77-aufsichtsbehoerde
-description: "Beschwerde Art: 77 DSGVO bei zuständiger Aufsichtsbehoerde einreichen oder abwehren. Sieben-Fragen-Diagnose: Beschwerdefuehrer oder Beschwerdegegner Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG Sachverhalt Norm konkret Beweise Manda..."
+description: "Wenn es um Beschwerde Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschwerde Art

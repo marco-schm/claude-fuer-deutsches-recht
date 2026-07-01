@@ -1,6 +1,6 @@
 ---
 name: start-up-und-personengesellschaft
-description: "Start-up- und Personengesellschafts-Konstellation Forschungszulage: GmbH und Co KG, atypisch stille Beteiligung, Mitunternehmerschaft, Verluste in Anfangsjahren mit Zulage als Liquiditaetshebel. Beispielrechnungen, typische Prüfpunkte. Schnittstelle zu Finanzbuchhaltung."
+description: "Wenn es um FZ: Start-up und Personenges. in Forschungszulage-Antragstellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # FZ: Start-up und Personenges.

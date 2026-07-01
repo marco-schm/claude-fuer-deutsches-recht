@@ -1,6 +1,6 @@
 ---
 name: post-ma-pre-litigation
-description: "Bearbeitet Post-M&A Warranty Claims vor Commercial Courts: notice, knowledge qualifiers, baskets, caps, leakage, earn-out, accounts and expert determination im Commercial Courts Deutschland."
+description: "Wenn es um Post-M&A Warranty Claims in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Post-M&A Warranty Claims

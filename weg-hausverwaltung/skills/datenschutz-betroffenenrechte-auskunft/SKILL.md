@@ -1,6 +1,6 @@
 ---
 name: datenschutz-betroffenenrechte-auskunft
-description: "Betroffenenrechte nach DSGVO Art. 15-21 im WEG-Alltag (Stand 06/2026): Auskunft, Loeschung, Einschraenkung, Widerspruch. Fristen, Abgrenzung Anspruchsberechtigte, zulaessige Verweigerungsgruende, EuGH C-307/22."
+description: "Wenn es um Datenschutz: Betroffenenrechte – Auskunft, Löschung, Widerspruch im WEG in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz: Betroffenenrechte – Auskunft, Löschung, Widerspruch im WEG

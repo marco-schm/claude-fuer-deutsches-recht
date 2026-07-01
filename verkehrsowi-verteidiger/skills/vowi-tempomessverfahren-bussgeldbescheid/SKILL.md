@@ -1,6 +1,6 @@
 ---
 name: vowi-tempomessverfahren-bussgeldbescheid
-description: "Spezialfall Tempomessverfahren und Fehlerquellen: Poliscan, ES 3.0, ES 8.0, Riegl, Eichschein, Verkehrsfehlergrenzen. Prüfraster für Verteidiger und Sachverstaendiger im Verkehrsowi Verteidiger."
+description: "Wenn es um VOWi: Tempomessverfahren in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VOWi: Tempomessverfahren

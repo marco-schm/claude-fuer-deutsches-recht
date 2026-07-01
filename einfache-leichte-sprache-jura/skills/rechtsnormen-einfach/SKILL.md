@@ -1,6 +1,6 @@
 ---
 name: rechtsnormen-einfach
-description: "Rechtsnormen in Einfacher/Leichter Sprache wiedergeben: § 17 InsO wird zu 'Eine Firma muss Insolvenz anmelden, wenn sie ihre Rechnungen nicht mehr bezahlen kann. Das gilt drei Wochen nach dem Tag, an dem klar wurde, dass kein Geld da ist.' Vorgehensweise und Beispiele."
+description: "Wenn es um ELS-J: Rechtsnormen einfach in Einfache und Leichte Sprache für juristische Texte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # ELS-J: Rechtsnormen einfach

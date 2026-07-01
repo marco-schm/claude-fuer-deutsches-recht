@@ -1,6 +1,6 @@
 ---
 name: beurkundungsabbruch-faktenmatrix
-description: "Notare: beurkundungsabbruch - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Notare."
+description: "Wenn es um Beurkundungsabbruch Faktenmatrix in Berufsrecht Notare geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: beurkundungsabbruch - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

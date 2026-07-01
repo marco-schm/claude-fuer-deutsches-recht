@@ -1,6 +1,6 @@
 ---
 name: konformitaetsbescheinigung-evidence-pack
-description: "Druckreifes KI-VO-Konformitätspaket erzeugen: interne Konformitätsbescheinigung, EU-Konformitätserklärung nach Art. 47/Anhang V, Art.-43-Bewertungsnachweis, CE-/EU-DB-/Post-Market-Check, Evidence Index und Lückenliste ohne falsche Bescheinigung."
+description: "Wenn es um Output Konformitätsbescheinigung und Evidence-Pack in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Output Konformitätsbescheinigung und Evidence-Pack

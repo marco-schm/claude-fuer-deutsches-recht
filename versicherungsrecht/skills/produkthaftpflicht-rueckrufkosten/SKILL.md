@@ -1,6 +1,6 @@
 ---
 name: produkthaftpflicht-rueckrufkosten
-description: "Produkthaftpflichtversicherung: Produktfehler, Personenschaden, Rückruf, Austauschkosten, Rückrufkostenversicherung und internationale Lieferketten im Versicherungsrecht."
+description: "Wenn es um Produkthaftpflicht und Rückrufkosten in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Produkthaftpflicht und Rückrufkosten

@@ -1,6 +1,6 @@
 ---
 name: lebenslauf-luecken-und-widersprueche
-description: "Bearbeitet frühere Waffenaffinität, Bundeswehrbewerbung oder Lebenslauflücken ehrlich im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Lücken und Widersprüche in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Lücken und Widersprüche

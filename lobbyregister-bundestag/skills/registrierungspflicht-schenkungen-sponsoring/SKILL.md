@@ -1,6 +1,6 @@
 ---
 name: registrierungspflicht-schenkungen-sponsoring
-description: "Prüft § 2 Abs. 1 LobbyRG: regelmäßig, auf Dauer, geschäftsmäßig für Dritte, mehr als 30 Kontakte in drei Monaten, Gegenleistung oder Auftrag. Output Pflichtampel im Lobbyregister Bundestag."
+description: "Wenn es um Registrierungspflicht und Schwellen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registrierungspflicht und Schwellen

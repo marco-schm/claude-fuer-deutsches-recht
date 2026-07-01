@@ -1,6 +1,6 @@
 ---
 name: berufsunfaehigkeit-fristen-form-und-zustaendigkeit
-description: "Berufsunfaehigkeit: Fristen, Form, Zuständigkeit und Rechtsweg: Berufsunfaehigkeit: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Wenn es um Berufsunfaehigkeit: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berufsunfaehigkeit: Fristen, Form, Zuständigkeit und Rechtsweg

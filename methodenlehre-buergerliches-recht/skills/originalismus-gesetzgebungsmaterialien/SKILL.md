@@ -1,6 +1,6 @@
 ---
 name: originalismus-gesetzgebungsmaterialien
-description: "Analysiert den deutschen Originalismus als Auslegungsansatz, der den historischen Gesetzgeberwillen konsequent in den Mittelpunkt stellt, und vergleicht ihn mit dem US-amerikanischen Originalismus. Das Skill zeigt Stärken und Schwächen des originalistischen Ansatzes für das deutsche Zivilrecht un..."
+description: "Wenn es um Originalismus und Gesetzgebungsmaterialien in Deutschland in Methodenlehre bürgerliches Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Originalismus und Gesetzgebungsmaterialien in Deutschland

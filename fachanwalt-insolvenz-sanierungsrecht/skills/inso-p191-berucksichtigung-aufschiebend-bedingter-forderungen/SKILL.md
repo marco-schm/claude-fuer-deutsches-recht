@@ -1,6 +1,6 @@
 ---
 name: inso-p191-berucksichtigung-aufschiebend-bedingter-forderungen
-description: "§ 191 InsO (Berücksichtigung aufschiebend bedingter Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 191 InsO (Berücksichtigung aufschiebend bedingter Forderungen) im Mandat pr..."
+description: "Wenn es um Inso P191 Berucksichtigung Aufschiebend Bedingter Forderungen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 191 InsO (Berücksichtigung aufschiebend bedingter Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: cyberangriff-auf-satellit-nis2-bsi-kritis-und-notfallp
-description: "Cybersicherheit von Satelliten – NIS2-Pflichten, BSI-KRITIS, Incident Response, staatliche Attribution im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Cyberangriff auf Satellit: NIS2, BSI, KRITIS, Notfallplan in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Cyberangriff auf Satellit: NIS2, BSI, KRITIS, Notfallplan

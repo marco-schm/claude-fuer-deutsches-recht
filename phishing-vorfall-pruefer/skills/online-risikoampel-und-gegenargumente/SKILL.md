@@ -1,6 +1,6 @@
 ---
 name: online-risikoampel-und-gegenargumente
-description: "Online: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Online: Risikoampel, Gegenargumente und Verteidigungslinien in Phishing-Vorfall-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Online: Risikoampel, Gegenargumente und Verteidigungslinien

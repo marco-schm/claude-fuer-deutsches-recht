@@ -1,6 +1,6 @@
 ---
 name: nachtraegliche-anmeldung-pruefungstermin
-description: "Verspätete und nachträgliche Forderungsanmeldungen nach § 177 InsO: Anwendungsfall Gläubiger meldet Forderung nach Ablauf der Anmeldefrist an oder ändert bereits angemeldete Forderung. § 177 InsO Nachtragsanmeldung, § 176 InsO Prüfungstermin, § 5 InsO Sondertermin. Prüfraster Fristablauf feststel..."
+description: "Wenn es um Nachträgliche Anmeldung nach Paragraf 177 InsO in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachträgliche Anmeldung nach § 177 InsO

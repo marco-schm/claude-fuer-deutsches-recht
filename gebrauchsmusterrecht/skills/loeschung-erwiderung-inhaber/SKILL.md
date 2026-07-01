@@ -1,6 +1,6 @@
 ---
 name: loeschung-erwiderung-inhaber
-description: "Erwiderung des Inhabers im Löschungsverfahren: Verteidigung, Hilfsanträge, Beschränkung, Belege und Vergleichsoptionen im Gebrauchsmusterrecht."
+description: "Wenn es um Loeschung Erwiderung Inhaber in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Loeschung Erwiderung Inhaber

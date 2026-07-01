@@ -1,6 +1,6 @@
 ---
 name: baden-wuerttemberg-spezial-sachgesamtheiten-gesamtanlagen
-description: "Baden-Wuerttembergische Besonderheit: Sachgesamtheiten und Gesamtanlagen nach DSchG-BW. Skill erlaeutert, wie Doerfer, Stadtquartiere und industrielle Bauensembles als zusammenhaengender Schutzgegenstand behandelt werden, welche Beteiligungs- und Anhoerungsrechte die Eigentuemerinnen haben und wie das Verhaeltnis zur kommunalen Erhaltungssatzung nach Paragraf 172 BauGB greift."
+description: "Wenn es um Sachgesamtheiten und Gesamtanlagen in Baden-Wuerttemberg in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sachgesamtheiten und Gesamtanlagen in Baden-Wuerttemberg

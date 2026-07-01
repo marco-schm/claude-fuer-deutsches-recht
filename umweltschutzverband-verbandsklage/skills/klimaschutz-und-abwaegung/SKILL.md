@@ -1,6 +1,6 @@
 ---
 name: klimaschutz-und-abwaegung
-description: "Umweltschutzverband Verbandsklage: Klimaschutz und Abwägung. Klimaschutz und Abwägung im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage."
+description: "Wenn es um Klimaschutz Und Abwaegung in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klimaschutz Und Abwaegung

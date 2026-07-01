@@ -1,6 +1,6 @@
 ---
 name: interims-vorstand-interne-kontrollsysteme
-description: "AG/SE-Aufsichtsrat Praxis: Interims Vorstand; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um Interims Vorstand in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Interims Vorstand

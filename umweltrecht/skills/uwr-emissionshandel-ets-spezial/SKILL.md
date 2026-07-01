@@ -1,6 +1,6 @@
 ---
 name: uwr-emissionshandel-ets-spezial
-description: "Spezialfall EU-Emissionshandel ETS: Anwendungsbereich, Zuteilung kostenloser Zertifikate, Berichts- und Abgabepflicht, CBAM seit 2026 für Importe. Prüfraster für Industriebetriebe und Sanktionen bei Verstoss im Umweltrecht."
+description: "Wenn es um Umwelt: ETS und CBAM in Umweltrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Umwelt: ETS und CBAM

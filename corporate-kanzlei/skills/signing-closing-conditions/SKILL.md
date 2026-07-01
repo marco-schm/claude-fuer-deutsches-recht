@@ -1,6 +1,6 @@
 ---
 name: signing-closing-conditions
-description: "Signing und Closing Conditions verwalten: M&A-Transaktion naehert sich Signing oder Closing und alle CPs muessen erledigt sein. Normen: § 158 BGB (Bedingungseintritt), SPA Conditions Precedent, § 41 GWB (Vollzugsverbot). Prüfraster: CP-Checkliste, Behördengenehmigungen, Eigentumsuebergang, MAC-Kl..."
+description: "Wenn es um Signing und Closing Conditions in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Signing und Closing Conditions

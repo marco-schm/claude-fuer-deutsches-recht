@@ -1,6 +1,6 @@
 ---
 name: parteivernehmung-445-ff-zpo
-description: "Parteivernehmung nach §§ 445 ff. ZPO. Subsidiaeres Beweismittel auf Antrag oder von Amts wegen. Bedingungen und Beweiswert. Wann lohnt sich Parteivernehmung warum gilt die eigene Aussage als schwach."
+description: "Wenn es um Parteivernehmung: Wenn Sie selbst aussagen in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parteivernehmung: Wenn Sie selbst aussagen

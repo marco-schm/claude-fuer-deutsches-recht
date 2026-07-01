@@ -1,6 +1,6 @@
 ---
 name: analogabrechnung-intake
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Analogabrechnung Intake § 6 GOÄ im Goae Gebührenordnung Aerzte."
+description: "Wenn es um Analogabrechnung Intake Paragraf 6 GOÄ in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Analogabrechnung Intake § 6 GOÄ

@@ -1,6 +1,6 @@
 ---
 name: sportstaetten-immission-paragraf-22-bimschg-bverwg-7-c-21-18
-description: "Sportstaetten Immission Paragraf 22 Bimschg BVerwG 7 C 21 18: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Sportstaetten Immission Paragraf 22 Bimschg BVerwG 7 C 21 18 in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sportstaetten Immission Paragraf 22 Bimschg BVerwG 7 C 21 18

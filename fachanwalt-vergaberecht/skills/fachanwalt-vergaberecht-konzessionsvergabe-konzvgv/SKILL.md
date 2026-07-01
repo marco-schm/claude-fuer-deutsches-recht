@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-konzessionsvergabe-konzvgv
-description: "Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung fuer Bau- oder Dienstleistungskonzession. Normen: GWB §§ 105 ff. und §§ 151 ff., KonzVgV, RL 2014/23/EU. Pruefraster: Konzessionsbegriff Betriebsrisiko, Schwellenwert EUR 5404000 ab Anfang 2026, Verfahrenswahl § 12 KonzVgV, Mindestlaufzeit § 3 KonzVgV, Bekanntmachung, Verhandlungsfreiheit. Output Konzessionsbekanntmachung-Entwurf, Risikoteilungsmatrix. Abgrenzung: Sektoren siehe fachanwalt-vergaberecht-sektorenvergabe-sektvo; Inhouse siehe fachanwalt-vergaberecht-inhouse-interkommunal."
+description: "Wenn es um Konzessionsvergabe (KonzVgV) in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Konzessionsvergabe (KonzVgV)

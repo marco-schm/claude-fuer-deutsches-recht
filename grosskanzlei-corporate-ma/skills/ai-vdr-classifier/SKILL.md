@@ -1,6 +1,6 @@
 ---
 name: ai-vdr-classifier
-description: "AI VDR Classifier: klassifiziert Datenraumdokumente, erkennt Dokumentfamilien, fehlende Anlagen, Widersprueche, Dubletten, Clean-Room-Bedarf und Prüfprioritaeten."
+description: "Wenn es um digitale Werkzeuge VDR Classifier in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # AI VDR Classifier

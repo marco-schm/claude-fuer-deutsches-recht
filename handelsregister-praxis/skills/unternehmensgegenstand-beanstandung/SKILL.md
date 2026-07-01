@@ -1,6 +1,6 @@
 ---
 name: unternehmensgegenstand-beanstandung
-description: "Formuliert eintragungsfähige Gegenstände ohne Erlaubnis-/Aufsichtsrechtsfalle und ohne zu enge Zukunftsfessel im Handelsregister Praxis."
+description: "Wenn es um Unternehmensgegenstand entwerfen in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unternehmensgegenstand entwerfen

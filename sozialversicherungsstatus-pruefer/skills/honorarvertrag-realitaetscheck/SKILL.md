@@ -1,6 +1,6 @@
 ---
 name: honorarvertrag-realitaetscheck
-description: "Prüft Honorarverträge darauf, ob sie Statusrisiken nur sprachlich kaschieren oder wirklich lösen im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Honorarvertrag Realitätscheck in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Honorarvertrag Realitätscheck

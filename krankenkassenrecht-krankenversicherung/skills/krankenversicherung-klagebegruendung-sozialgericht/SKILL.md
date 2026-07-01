@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-klagebegruendung-sozialgericht
-description: "Klagebegründung vor dem Sozialgericht in Krankenversicherungssachen: Struktur, Beweisführung, Gesundheitsakten als Beweismittel, Sachverständige und SGG-Prozessrecht im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Klagebegründung Sozialgericht: Gesundheitsakte in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klagebegründung Sozialgericht: Gesundheitsakte

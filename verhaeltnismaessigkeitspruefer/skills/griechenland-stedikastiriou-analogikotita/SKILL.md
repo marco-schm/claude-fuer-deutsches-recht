@@ -1,6 +1,6 @@
 ---
 name: griechenland-stedikastiriou-analogikotita
-description: Griechische Verhältnismäßigkeitsdogmatik nach Art 25 I 4 Verfassung 1975 idF 2001 mit der archi tis analogikotitas als Drei-Stufen-Test Katallilotita Anagkaiotita Stenh ennoia analogikotitas. Mit Symvoulio tis Epikrateias als Staatsrat und Areios Pagos als oberstem Zivil- und Strafgericht sowie Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die seit 2001 explizite Kodifizierung der Verhältnismäßigkeit in der Verfassung.
+description: "Wenn es um Griechenland Archi tis Analogikotitas in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Griechenland Archi tis Analogikotitas

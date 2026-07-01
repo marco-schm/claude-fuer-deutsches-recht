@@ -1,6 +1,6 @@
 ---
 name: lph-08-terminsteuerung
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphas..."
+description: "Wenn es um LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Baut terminlog in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Baut terminlog

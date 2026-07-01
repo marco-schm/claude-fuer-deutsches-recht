@@ -1,6 +1,6 @@
 ---
 name: deliktsrecht-vergleich
-description: "Römisches Recht: Deliktsrecht Vergleich. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Deliktsrecht Vergleich in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deliktsrecht Vergleich

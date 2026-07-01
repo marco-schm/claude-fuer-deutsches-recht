@@ -1,6 +1,6 @@
 ---
 name: secured-claim-valuation-506
-description: "Prüft secured status, collateral value, bifurcation, adequate protection and cramdown valuation im US Bankruptcy Code."
+description: "Wenn es um Secured Claim Valuation Paragraf 506 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Secured Claim Valuation § 506

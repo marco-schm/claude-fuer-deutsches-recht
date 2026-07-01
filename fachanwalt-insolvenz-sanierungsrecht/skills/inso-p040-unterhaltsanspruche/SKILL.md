@@ -1,6 +1,6 @@
 ---
 name: inso-p040-unterhaltsanspruche
-description: "§ 40 InsO (Unterhaltsansprüche) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 40 InsO (Unterhaltsansprüche) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnitt..."
+description: "Wenn es um Inso P040 Unterhaltsanspruche in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 40 InsO (Unterhaltsansprüche) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: onboarding-verzinsung
-description: "Systematik aller Steuerzinsen — Nachzahlungs- und Erstattungszinsen § 233a AO Hinterziehungszinsen § 235 AO Stundungs- und Aussetzungszinsen §§ 234 237 AO Saeumniszuschlaege § 240 AO und Zinssatzanpassung nach BVerfG-Vorgaben. Anwendungsfall Berater muss Zinsfolge eines Bescheids quantifizieren u..."
+description: "Wenn es um Onboarding Verzinsung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerliche Verzinsung — § 233a AO Nachzahlungs- und Erstattungszinsen sowie Hinterziehungs- und Aussetzungszinsen

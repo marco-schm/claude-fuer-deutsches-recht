@@ -1,6 +1,6 @@
 ---
 name: bodenabfertigung-local-counsel-briefen
-description: "Deutsches Kanzleiteam muss ausländischen Anwalt für Bodenabfertigungs-Mandat briefen: BADV-Zulassung Entgelt-Streit oder Insolvenz einer Handling-Firma. Skill erstellt englisches Briefing-Memo im Luftrecht Flughafenrecht."
+description: "Wenn es um Bodenabfertigung – Local Counsel briefen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bodenabfertigung – Local Counsel briefen

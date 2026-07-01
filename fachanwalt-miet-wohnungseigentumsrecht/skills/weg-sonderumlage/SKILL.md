@@ -1,6 +1,6 @@
 ---
 name: weg-sonderumlage
-description: "WEG Sonderumlage: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Anlass, Höhe, Verteilung, Fälligkeit, Anfechtungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um WEG Sonderumlage: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Sonderumlage: Fachmodul im Miet- und Wohnungseigentumsrecht

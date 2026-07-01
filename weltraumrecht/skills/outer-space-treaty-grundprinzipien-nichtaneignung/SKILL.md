@@ -1,6 +1,6 @@
 ---
 name: outer-space-treaty-grundprinzipien-nichtaneignung
-description: "OST 1967 – Art. I–IX: Nichtaneignungsprinzip, nationale Verantwortung nichtstaatlicher Akteure, Konsultationspflicht im Weltraumrecht."
+description: "Wenn es um Outer Space Treaty Grundprinzipien Nichtaneignung in Weltraumrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Weltraumrecht: Outer Space Treaty: Grundprinzipien, Nichtaneignung und nationale Verantwortung

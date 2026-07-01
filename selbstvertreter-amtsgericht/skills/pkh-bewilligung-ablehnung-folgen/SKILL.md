@@ -1,6 +1,6 @@
 ---
 name: pkh-bewilligung-ablehnung-folgen
-description: "Folgen der PKH-Entscheidung Bewilligung mit oder ohne Raten Beiordnung Anwalt Ablehnung wegen fehlender Erfolgsaussicht Bedürftigkeit oder Mutwilligkeit. Beschwerde gegen ablehnenden PKH-Beschluss nach § 127 ZPO und sofortige Beschwerde."
+description: "Wenn es um Wenn PKH bewilligt oder abgelehnt wird in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Wenn PKH bewilligt oder abgelehnt wird

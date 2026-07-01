@@ -1,6 +1,6 @@
 ---
 name: seerouten-ostia-alexandria-und-importzoll
-description: "Roemische Seerouten und Importzollordnung. Skill behandelt die historische Rechtspraxis des roemischen Welthandels Routen wie Ostia-Alexandria die portoria-Zoelle und die Aufsicht durch die Procuratoren des Fiscus. Liefert Quellenmatrix im Römisches Recht."
+description: "Wenn es um Rom 128 Seerouten Ostia Alexandria Und Importzoll in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 128 Seerouten Ostia Alexandria Und Importzoll

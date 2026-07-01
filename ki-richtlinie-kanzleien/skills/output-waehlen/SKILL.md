@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für KI-Richtlinie für Kanzleien: stimmt Adressat (Kanzlei, Mandant, KI-Anbieter), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Interne KI-Richtlinie, Mandanten-Hinweisblatt, AVV-Checkliste."
+description: "Wenn es um Output wählen in Kanzleirichtlinien für digitale Werkzeuge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

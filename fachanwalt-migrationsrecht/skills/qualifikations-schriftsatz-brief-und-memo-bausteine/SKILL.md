@@ -1,6 +1,6 @@
 ---
 name: qualifikations-schriftsatz-brief-und-memo-bausteine
-description: "Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine: Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Wenn es um Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine

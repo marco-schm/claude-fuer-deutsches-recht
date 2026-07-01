@@ -1,6 +1,6 @@
 ---
 name: wandelt-erstpruefung-und-mandatsziel
-description: "Wandelt: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Wandelt: Erstprüfung, Rollenklärung und Mandatsziel in Memorandums-Ersteller geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wandelt: Erstprüfung, Rollenklärung und Mandatsziel

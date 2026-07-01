@@ -1,6 +1,6 @@
 ---
 name: lph-02-genehmigungen-und-auflagen
-description: "HOAI LPH 2 Vorplanung: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 2 Vorplanung: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten in HOAI Leistungsphasen Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # LPH 2 Vorplanung: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten

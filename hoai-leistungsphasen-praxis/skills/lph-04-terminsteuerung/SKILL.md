@@ -1,6 +1,6 @@
 ---
 name: lph-04-terminsteuerung
-description: "HOAI LPH 4 Genehmigungsplanung: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 4 Genehmigungsplanung: Baut terminlog in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 4 Genehmigungsplanung: Baut terminlog

@@ -1,6 +1,6 @@
 ---
 name: hochschulgesetz-bremen
-description: "Prüft Hochschulrecht in Bremen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder."
+description: "Wenn es um Hochschulgesetz Bremen in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hochschulgesetz Bremen

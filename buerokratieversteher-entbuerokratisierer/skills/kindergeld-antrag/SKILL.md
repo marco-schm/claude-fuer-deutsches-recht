@@ -1,6 +1,6 @@
 ---
 name: kindergeld-antrag
-description: "Erklärt Familienkasse, Antrag, Nachweise, Studium/Ausbildung, Rückforderung, Einspruch und Fristen im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Kindergeld-Antrag in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kindergeld-Antrag

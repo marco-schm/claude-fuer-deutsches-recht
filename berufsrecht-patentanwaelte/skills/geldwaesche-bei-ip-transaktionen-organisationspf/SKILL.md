@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-bei-ip-transaktionen-organisationspf
-description: "Patentanwälte: geldwaesche bei ip transaktionen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Geldwaesche Bei Ip Transaktionen Organisationspf in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: geldwaesche bei ip transaktionen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

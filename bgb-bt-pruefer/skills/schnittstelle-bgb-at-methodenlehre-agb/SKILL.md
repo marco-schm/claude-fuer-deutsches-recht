@@ -1,6 +1,6 @@
 ---
 name: schnittstelle-bgb-at-methodenlehre-agb
-description: "Schnittstelle BGB-AT, Methodenlehre und AGB-Recht §§ 305-310 BGB: Einbeziehung, Inhaltskontrolle, Transparenz."
+description: "Wenn es um Schnittstelle BGB-AT, Methodenlehre und AGB Paragrafen 305-310 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schnittstelle BGB-AT, Methodenlehre und AGB §§ 305-310 BGB

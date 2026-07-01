@@ -1,6 +1,6 @@
 ---
 name: fraktionen-dokumentenmatrix-und-lueckenliste
-description: "Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: kommunalrecht-paragraf-2-go
-description: "Kommunalrecht § 2 go: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Kommunalrecht Paragraf 2 go in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalrecht § 2 go

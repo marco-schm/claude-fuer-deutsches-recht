@@ -1,6 +1,6 @@
 ---
 name: rom-001-kaltstart-institutionensystem
-description: "Römisches Recht: Kaltstart Institutionensystem. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Kaltstart Institutionensystem in Römisches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Institutionensystem

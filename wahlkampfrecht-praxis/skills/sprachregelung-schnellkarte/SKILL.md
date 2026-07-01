@@ -1,6 +1,6 @@
 ---
 name: sprachregelung-schnellkarte
-description: "Wahlkampfrecht Praxis: Sprachregelungen für Kandidierende, Presse und Ehrenamt erstellen im Wahlkampfrecht."
+description: "Wenn es um Sprachregelung Schnellkarte in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sprachregelung Schnellkarte

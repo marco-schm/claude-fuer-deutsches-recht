@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen: § 14 MarkenG § 139 PatG § 8 UWG § 43a BRAO. Prüfraster: Schutzrecht Verletzungshandlung Parteistell..."
+description: "Wenn es um Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen

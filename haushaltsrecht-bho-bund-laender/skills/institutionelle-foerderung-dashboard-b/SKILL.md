@@ -1,6 +1,6 @@
 ---
 name: institutionelle-foerderung-dashboard-b
-description: "Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Dashboard bauen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Institutionelle Förderung Dashboard B in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Institutionelle Förderung Dashboard B

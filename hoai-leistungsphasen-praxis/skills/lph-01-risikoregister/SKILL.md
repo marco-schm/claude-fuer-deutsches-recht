@@ -1,6 +1,6 @@
 ---
 name: lph-01-risikoregister
-description: "HOAI LPH 1 Grundlagenermittlung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 1 Grundlagenermittlung: Baut risiko- in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # LPH 1 Grundlagenermittlung: Baut risiko-

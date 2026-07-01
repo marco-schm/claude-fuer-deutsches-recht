@@ -1,6 +1,6 @@
 ---
 name: rechte-an-rechteclearing-ki-sync
-description: "Prüft Schutz von Prompts, Promptketten, Systemanweisungen, Workflowtexten und KI-Arbeitsmaterial im Urheberrecht De Eu."
+description: "Wenn es um Prompts, Promptbooks und Workflows in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prompts, Promptbooks und Workflows

@@ -1,6 +1,6 @@
 ---
 name: rechenschaftsbericht
-description: "Strukturiert Einnahmen-/Ausgabenrechnung, Vermögensbilanz, Erläuterung, Gebietsverbände und Aufbewahrung im Parteienrecht."
+description: "Wenn es um Rechenschaftsbericht in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechenschaftsbericht; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Rechenschaftsbericht

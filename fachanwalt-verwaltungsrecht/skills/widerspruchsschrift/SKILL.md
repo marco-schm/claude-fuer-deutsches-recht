@@ -1,6 +1,6 @@
 ---
 name: widerspruchsschrift
-description: "Widerspruchsschrift nach §§ 68 ff: VwGO gegen belastenden Verwaltungsakt formulieren: Mandant hat Bescheid erhalten und will innerhalb der Frist Widerspruch einlegen. Normen: § 68 VwGO (Vorverfahren), § 70 Abs. 1 VwGO (Fri..."
+description: "Wenn es um Widerspruchsschrift nach Paragrafen 68 ff in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Widerspruchsschrift nach §§ 68 ff

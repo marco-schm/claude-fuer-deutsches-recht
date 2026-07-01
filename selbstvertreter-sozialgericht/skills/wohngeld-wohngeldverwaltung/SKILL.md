@@ -1,6 +1,6 @@
 ---
 name: wohngeld-wohngeldverwaltung
-description: "Wohngeld nach dem Wohngeldgesetz (WoGG). Skill erklaert die Mietzuschuss/Lastenzuschuss-Logik die Einkommens- und Mietobergrenzen Antragsverfahren und Wohngeldreform 2023. Liefert Prüfraster."
+description: "Wenn es um Wohngeld Wohngeldverwaltung in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohngeld Wohngeldverwaltung

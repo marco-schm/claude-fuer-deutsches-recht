@@ -1,6 +1,6 @@
 ---
 name: watchlist-und-wiedervorlage
-description: "Verwandelt interessante, aber unreife Deals in klare Beobachtungslogik mit Triggern im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Watchlist und Wiedervorlage in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Watchlist und Wiedervorlage

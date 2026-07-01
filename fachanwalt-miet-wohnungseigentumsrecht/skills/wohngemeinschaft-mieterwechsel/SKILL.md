@@ -1,6 +1,6 @@
 ---
 name: wohngemeinschaft-mieterwechsel
-description: "WG und Mieterwechsel: Fachmodul im Miet- und Wohnungseigentumsrecht: klärt Vertragsparteien, Zustimmung, Nachmieter, Kaution, Gesamtschuld; mit Normprüfung, Beweisen, Fristen, Risikoampel..."
+description: "Wenn es um WG und Mieterwechsel: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WG und Mieterwechsel: Fachmodul im Miet- und Wohnungseigentumsrecht

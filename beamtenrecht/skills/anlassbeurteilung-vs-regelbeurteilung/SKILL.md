@@ -1,6 +1,6 @@
 ---
 name: anlassbeurteilung-vs-regelbeurteilung
-description: "Klaert das Verhältnis von Regelbeurteilung und Anlassbeurteilung im Auswahlverfahren des öffentlichen Dienstes. Skill prüf Beurteilungsstichtag Aktualitaet der Beurteilungsgrundlage und Vergleichbarkeit der konkurrierenden Beurteilungen. Behandelt die Konstellation einer Konkurrentensituation i..."
+description: "Wenn es um Anlassbeurteilung vs. Regelbeurteilung — Aktualitaet und Vergleichbarkeit in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anlassbeurteilung vs. Regelbeurteilung — Aktualitaet und Vergleichbarkeit

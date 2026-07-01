@@ -1,6 +1,6 @@
 ---
 name: migrations-und-staatsangehoerigkeitsrecht
-description: "Deutsche Rechtsgeschichte: Migrations- und Staatsangehoerigkeitsrecht. RuStAG 1913, Abstammungsprinzip, Ausländerrecht im 20. Jahrhundert, Aussiedlerrecht und StAG 2000 mit Geburtsortprinzip im Deutsche Rechtsgeschichte."
+description: "Wenn es um Migrations- und Staatsangehoerigkeitsrecht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Migrations- und Staatsangehoerigkeitsrecht

@@ -1,6 +1,6 @@
 ---
 name: gleichstellungs-gendercheck-handelsregister
-description: "Fachmodul Gleichstellungs- und Gendercheck nach § 1 BGleiG und § 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die NKR-Prüfung sich darauf bezieht. Mit Prüfraster Mustertexten und Standardargumenten im Normenkontrollra..."
+description: "Wenn es um NKR-Gleichstellungs- und Gendercheck in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gleichstellungs Gendercheck Handelsregister; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
 ---
 
 # NKR-Gleichstellungs- und Gendercheck

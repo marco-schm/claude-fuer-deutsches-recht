@@ -1,6 +1,6 @@
 ---
 name: konzessionsvergabe-konzvgv
-description: "Konzessionsvergabe nach KonzVgV strukturieren und prüfen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung für Bau- oder Dienstleistungskonzession: Konzessionsvergabe nach KonzVgV strukturieren und prüfen: Konzessionsgeber oder Bieter braucht..."
+description: "Wenn es um Konzessionsvergabe Konzvgv in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konzessionsvergabe nach KonzVgV strukturieren und prüfen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung für Bau- oder Dienstleistungskonzession

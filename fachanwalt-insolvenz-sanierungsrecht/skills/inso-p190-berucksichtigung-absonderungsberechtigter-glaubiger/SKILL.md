@@ -1,6 +1,6 @@
 ---
 name: inso-p190-berucksichtigung-absonderungsberechtigter-glaubiger
-description: "§ 190 InsO (Berücksichtigung absonderungsberechtigter Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 190 InsO (Berücksichtigung absonderungsberechtigter Gläubiger) im Mandat pr..."
+description: "Wenn es um Inso P190 Berucksichtigung Absonderungsberechtigter Glaubiger in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 190 InsO (Berücksichtigung absonderungsberechtigter Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

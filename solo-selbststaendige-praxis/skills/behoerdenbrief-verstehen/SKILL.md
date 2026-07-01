@@ -1,6 +1,6 @@
 ---
 name: behoerdenbrief-verstehen
-description: "Solo-Selbstständige: übersetzt Finanzamt, Gewerbeamt, Krankenkasse oder DRV-Brief in To-dos; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Anmeldung und Behörden: Übersetzt finanzamt in Solo-Selbstständige Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anmeldung und Behörden: Übersetzt finanzamt

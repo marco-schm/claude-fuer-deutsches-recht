@@ -1,6 +1,6 @@
 ---
 name: mitarbeiter-need-non-solicit-permitted
-description: "Mitarbeiter und Need-to-Know: NDA verpflichtet Mitarbeiter ueber Arbeitsvertrag, externe Berater nur ueber separate NDA oder Backup-Klausel. Empfehlung: Liste freigegebener Personen, Bestaetigung Mitarbeiter-NDA, kein Datenraum-Zugriff ohne Logging im NDA-Abgleich."
+description: "Wenn es um NDA: Mitarbeiter/Need-to-Know in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Mitarbeiter Need Non Solicit Permitted; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # NDA: Mitarbeiter/Need-to-Know

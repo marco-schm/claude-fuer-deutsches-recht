@@ -1,6 +1,6 @@
 ---
 name: inv-032-accounting-irregularity
-description: "Spezialskill fuer Accounting Irregularity: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Accounting Irregularity in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internal Investigation: Accounting Irregularity

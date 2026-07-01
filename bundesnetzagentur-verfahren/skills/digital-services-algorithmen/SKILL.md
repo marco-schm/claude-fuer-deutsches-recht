@@ -1,6 +1,6 @@
 ---
 name: digital-services-algorithmen
-description: "Digital Services / Algorithmen Empfehlungssysteme DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren."
+description: "Wenn es um Algorithmen und Empfehlungssysteme nach dem Digital Services Act in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Algorithmen und Empfehlungssysteme nach dem Digital Services Act

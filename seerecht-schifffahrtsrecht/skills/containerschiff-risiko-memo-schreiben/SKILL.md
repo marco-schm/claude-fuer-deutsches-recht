@@ -1,6 +1,6 @@
 ---
 name: containerschiff-risiko-memo-schreiben
-description: "Containerschiff: Gesamtrisikobewertung für Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bei Containerlinienfrachtschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS..."
+description: "Wenn es um Containerschiff – Risiko-Memo schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Containerschiff – Risiko-Memo schreiben

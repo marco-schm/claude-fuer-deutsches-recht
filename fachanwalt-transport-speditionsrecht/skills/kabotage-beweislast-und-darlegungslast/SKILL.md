@@ -1,6 +1,6 @@
 ---
 name: kabotage-beweislast-und-darlegungslast
-description: "Kabotage: Beweislast, Darlegungslast und Substantiierung: Kabotage: Beweislast, Darlegungslast und Substantiierung."
+description: "Wenn es um Kabotage: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kabotage: Beweislast, Darlegungslast und Substantiierung

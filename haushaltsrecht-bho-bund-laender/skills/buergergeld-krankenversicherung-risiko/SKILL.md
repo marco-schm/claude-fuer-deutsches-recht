@@ -1,6 +1,6 @@
 ---
 name: buergergeld-krankenversicherung-risiko
-description: "Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Buergergeld Krankenversicherung Risiko in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergergeld Krankenversicherung Risiko

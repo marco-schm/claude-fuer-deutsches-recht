@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-fristen
-description: "Prüft Verjährung, Dringlichkeit, Plattform-Deadlines, Auskunftsfristen und Reaktionsfristen bei Urheberrechtsfällen im Urheberrecht De Eu."
+description: "Wenn es um Verjährung, Dringlichkeit und Fristen in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verjährung, Dringlichkeit und Fristen

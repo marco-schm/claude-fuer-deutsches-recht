@@ -1,6 +1,6 @@
 ---
 name: drohne-zustaendigkeit-pruefen
-description: "Drohnen-Mandat: unklar ob LBA EASA Landesbehoerde oder Luftraum-Nutzer-Behörde zuständig. Prüft EU-VO 2019/947 Betriebskategorien LuftVG § 21a und U-Space-Regulierung und liefert Zuständigkeits-Vermerk für Drohnen-Genehmigung oder Streit im Luftrecht Flughafenrecht."
+description: "Wenn es um Drohne – Zuständigkeit prüfen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drohne – Zuständigkeit prüfen

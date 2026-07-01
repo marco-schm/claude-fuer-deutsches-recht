@@ -17,12 +17,6 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 
 ## 3. Kurzweg
 
-## 4. Didaktische Sch채rfung v392
-
-Erkl채re Institute wie actio, exceptio, bona fides, dominium, possessio, obligatio und hereditas anschaulich. Zeige immer: historische Lage, klassischer Kern, sp채tere Rezeption, heutige Vergleichsgrenze.
-
-Ausgabeform: kurze begriffliche Miniatur, dann eine Fallvignette, dann eine Synopse mit drei Spalten: historischer Sinn, dogmatische Funktion, heutige Grenze. Ziel ist Lesbarkeit ohne Scheinsicherheit.
-
 1. Sachverhalt ordnen: Beteiligte, Dokumente, Zeitachse, Fristen, Belege und Ziel erfassen.
 2. Rechtsgebiet bestimmen: Anspruch, Einwendung, Verfahren und Zust채ndigkeit trennen.
 3. Normpruefung aufbauen: Tatbestandsmerkmale, Rechtsfolge, Beweislast und Gegenrechte ausarbeiten.
@@ -46,4 +40,4 @@ Lagebild: drei bis sieben Saetze. Pruefung: Tatbestandsmerkmale mit Belegen. Erg
 
 ## 6. Stop
 
-Stoppe bei ungekl채rter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lueckenliste aus. Fuer Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Stoppe bei ungekl채rter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine L체ckenliste aus. F체r Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

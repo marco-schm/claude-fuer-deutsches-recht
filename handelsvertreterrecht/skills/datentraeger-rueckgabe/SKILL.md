@@ -1,6 +1,6 @@
 ---
 name: datentraeger-rueckgabe
-description: "Regelt Herausgabe und Rückgabe von Datenträgern, Kundenlisten, Geschäftsunterlagen und digitalen Zugängen bei Vertragsende nach § 88 HGB und § 667 BGB analog: Umfang der Herausgabepflicht, Vollstreckung bei Verweigerung sowie datenschutzrechtliche Löschpflichten nach DSGVO im Handelsvertreterrecht."
+description: "Wenn es um Rückgabe von Datenträgern und Unterlagen bei Vertragsende nach Paragraf 88 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Rückgabe von Datenträgern und Unterlagen bei Vertragsende nach § 88 HGB

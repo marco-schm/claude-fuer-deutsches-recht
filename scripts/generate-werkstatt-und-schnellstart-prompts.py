@@ -70,6 +70,21 @@ WERKSTATT_FINAL_CHECK_LINES = """- Erstes Ergebnis steht oben, nicht am Ende ver
 - Wenn zwei Wege vertretbar sind, steht die empfohlene Variante mit Grund vor der Alternative.
 - Keine Nebenspur bleibt offen: erledigen, zurückstellen oder nachfordern.
 """
+WERKSTATT_DEPTH_LINES = """1. Rollenwahl: Antragsteller, Antragsgegner, Behörde, Gericht, Gegner oder interner Entscheider klar festlegen.
+2. Sofortausgabe: Kurzlage, stärkster Anker, schwächster Punkt, Frist und nächstes Dokument zuerst liefern.
+3. Beweisarbeit: Jede tragende Tatsache einer Fundstelle, einem Beweismittel oder einer Nachforderung zuordnen.
+4. Gegenposition: Das stärkste Gegenargument nicht verstecken, sondern mit Beweislast und Risiko beantworten.
+5. Varianten: Bei zwei vertretbaren Wegen die schnellere, die belastbarere und die taktisch riskante Variante trennen.
+6. Versandreife: Am Ende prüfen, ob Empfänger, Antrag, Tenor, Anlagen, Fristen und Zustellungsweg zusammenpassen.
+
+| Lage | Schneller Output | Vertiefung |
+| --- | --- | --- |
+| Unterlagen unvollständig | Lückenliste mit Priorität | Warum die Lücke das Ergebnis ändert |
+| Frist oder Form kritisch | Fristenblatt und Sofortmaßnahme | Zustellungs- und Zuständigkeitsprüfung |
+| Streitiger Sachverhalt | Beweis- und Widerspruchsmatrix | Substantiierung, Beweislast, Gegenbeweis |
+| Entwurf gewünscht | verwertbarer Kerntext | Anlagenlogik, Gegenargument, Risiken |
+| Entscheidungsvorlage | Empfehlung mit Alternativen | Kosten, Zeit, Eskalation, Vergleich |
+"""
 
 # Plugins, deren Werkstatt- und Schnellstart-Markdown von Hand gepflegt werden.
 # Der Generator ueberschreibt sie nicht; er meldet sie als uebersprungen.
@@ -151,6 +166,11 @@ def werkstatt_final_check_block(text: str) -> str:
     return f"## {number}. Schlusskontrolle für Tempo\n\n{WERKSTATT_FINAL_CHECK_LINES.rstrip()}\n"
 
 
+def werkstatt_depth_block(text: str) -> str:
+    number = next_top_level_number(text)
+    return f"## {number}. Vertiefungsmodus für belastbare Ausgabe\n\n{WERKSTATT_DEPTH_LINES.rstrip()}\n"
+
+
 def frontmatter_description(text: str) -> str:
     if not text.startswith("---"):
         return ""
@@ -204,6 +224,29 @@ def collect_skill_material(plugin_dir: Path) -> list[dict[str, str]]:
         if len(items) >= 30:
             break
     return items
+
+
+def field_title(desc: str, slug: str) -> str:
+    desc = clean(desc, 240)
+    match = re.match(r"Wenn es um (.+?) in [^:;.]{3,90} geht:", desc)
+    if match:
+        title = match.group(1)
+    else:
+        title = re.split(r"[:.;]", desc, maxsplit=1)[0]
+    title = title.strip(" -;:.")
+    if not title or len(title) < 8:
+        title = slug.replace("-", " ").title()
+    return clean(title, 105)
+
+
+def field_detail(desc: str) -> str:
+    desc = clean(desc, 260)
+    desc = re.sub(r"^Wenn es um .+? geht:\s*", "", desc)
+    desc = re.sub(r"\s*Stichwort für die Auswahl:.*$", "", desc)
+    desc = desc.strip(" .;:")
+    if not desc:
+        return "Tatsachenkern, Norm, Frist, Beweis und Gegenargument zu einem Ergebnisbaustein bündeln"
+    return desc
 
 
 def manifest(plugin_dir: Path) -> dict:
@@ -313,11 +356,20 @@ def build_werkstatt(plugin_dir: Path) -> str:
 
     # Add norms extracted from selected skills without making skill references.
     extracted_norms: list[str] = []
+    norm_pattern = (
+        r"Paragraf(?:en)?\s+"
+        r"\d+[a-z]?"
+        r"(?:\s+(?:Absatz|Abs\.)\s+\d+[a-z]?)?"
+        r"(?:\s+Satz\s+\d+[a-z]?)?"
+        r"(?:\s+Nr\.?\s+\d+[a-z]?)?"
+        r"(?:\s+(?:bis|und)\s+\d+[a-z]?)?"
+        r"\s+(?:BGB|ZPO|StPO|GG|InsO|VwGO|FGO|SGG|ArbGG|FamFG|HGB|GmbHG|AktG|TzBfG|KSchG|BetrVG|AO|EStG|UStG|SGB|GVG)"
+    )
     for item in skill_material:
-        paragraph_pattern = re.escape(chr(167)) + r"{1,2}"
-        norm_pattern = r"(?:Paragraf(?:en)?|" + paragraph_pattern + r")\s*[\w\d .AbsatzSatzNrnummerbisund/-]+(?:BGB|ZPO|StPO|GG|InsO|VwGO|FGO|SGG|ArbGG|FamFG|HGB|GmbHG|AktG|TzBfG|KSchG|BetrVG|DSGVO|AO|EStG|UStG|SGB|GVG)"
         for m in re.finditer(norm_pattern, item["desc"] + " " + item["body"]):
             norm = clean(m.group(0), 160)
+            if any(marker in norm for marker in ("Dieser Skill", "Wenn es um", "Auswahlstichwort")):
+                continue
             if norm and norm not in extracted_norms:
                 extracted_norms.append(norm)
         if len(extracted_norms) >= 8:
@@ -378,14 +430,24 @@ def build_werkstatt(plugin_dir: Path) -> str:
     # Make narrow prompts less skeletal by adding issue catalog derived from skills.
     if skill_material:
         lines += ["", "## 11. Materienbezogene Arbeitsfelder", ""]
-        field_limit = min(36, max(18, len(skill_material)))
-        for idx, item in enumerate(skill_material[:field_limit], 1):
-            desc = clean(item["desc"] or item["body"], 260)
-            if desc:
-                lines.append(f"### 11.{idx}. {desc}")
-                lines.append("")
-                lines.append("Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.")
-                lines.append("")
+        seen_fields: set[str] = set()
+        idx = 0
+        for item in skill_material:
+            desc = item["desc"] or item["body"]
+            if not desc:
+                continue
+            title = field_title(desc, item["slug"])
+            key = re.sub(r"\W+", "", title.lower())
+            if key in seen_fields:
+                continue
+            seen_fields.add(key)
+            idx += 1
+            lines.append(f"### 11.{idx}. {title}")
+            lines.append("")
+            lines.append(f"{field_detail(desc)}. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.")
+            lines.append("")
+            if idx >= 14:
+                break
 
     text = "\n".join(lines).strip() + "\n"
     if len(text.encode("utf-8")) < 12 * 1024 and "Ausgabeformate für schnelle Lieferung" not in text:
@@ -396,6 +458,8 @@ def build_werkstatt(plugin_dir: Path) -> str:
         )
     if len(text.encode("utf-8")) < 12 * 1024 and "Schlusskontrolle für Tempo" not in text:
         text = text.rstrip() + "\n\n" + werkstatt_final_check_block(text).rstrip() + "\n"
+    if len(text.encode("utf-8")) < 12 * 1024 and "Vertiefungsmodus für belastbare Ausgabe" not in text:
+        text = text.rstrip() + "\n\n" + werkstatt_depth_block(text).rstrip() + "\n"
     if profile.oeffnungssatz:
         text = profile.oeffnungssatz + "\n\n" + text
     return sanitize(text)

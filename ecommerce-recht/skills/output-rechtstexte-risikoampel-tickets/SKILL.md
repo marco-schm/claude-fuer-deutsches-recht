@@ -1,6 +1,6 @@
 ---
 name: output-rechtstexte-risikoampel-tickets
-description: "Output Rechtstexte Risikoampel Tickets: Fachlicher Fokus: E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz."
+description: "Wenn es um Output Rechtstexte Risikoampel Tickets in E-Commerce-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output Rechtstexte Risikoampel Tickets

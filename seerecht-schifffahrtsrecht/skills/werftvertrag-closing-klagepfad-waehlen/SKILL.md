@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-closing-klagepfad-waehlen
-description: "Werftvertrag: Closing eines Neubauprojekt unter Werftvertrag-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan im Seerecht Schifffahrtsrecht."
+description: "Wenn es um Werftvertrag – Closing planen in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Werftvertrag – Closing planen

@@ -1,6 +1,6 @@
 ---
 name: lizenz-urheberrecht-und-software-urhg
-description: "Urheberrechts- und Software-Lizenzen nach UrhG: $ 31 ff. UrhG einfache und ausschliessliche Nutzungsrechte, $ 32 angemessene Verguetung, $ 32a Bestseller-Klausel, $ 69a-g UrhG Computerprogramme, $ 137l UrhG unbekannte Nutzungsarten. Mit Klauselbausteinen."
+description: "Wenn es um Lizenz Urheberrecht / Software ($$ 31 ff. UrhG) in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lizenz Urheberrecht / Software ($$ 31 ff. UrhG)

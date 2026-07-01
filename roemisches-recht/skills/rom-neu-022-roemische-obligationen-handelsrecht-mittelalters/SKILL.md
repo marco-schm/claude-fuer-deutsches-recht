@@ -1,6 +1,6 @@
 ---
 name: rom-neu-022-roemische-obligationen-handelsrecht-mittelalters
-description: "Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters

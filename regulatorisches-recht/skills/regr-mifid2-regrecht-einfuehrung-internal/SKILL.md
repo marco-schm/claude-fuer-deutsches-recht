@@ -1,6 +1,6 @@
 ---
 name: regr-mifid2-regrecht-einfuehrung-internal
-description: "Leitfaden MiFID II und MAR: Wohlverhaltenspflichten, Suitability, Ad-hoc-Publizitaet, Insiderrecht. Prüfraster für Emittent und Wertpapierdienstleister im Regulatorisches Recht."
+description: "Wenn es um RegR: MiFID II MAR in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # RegR: MiFID II MAR

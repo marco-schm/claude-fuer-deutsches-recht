@@ -1,6 +1,6 @@
 ---
 name: ggmbh-gemeinnuetzigkeit
-description: "Prüft gGmbH-Gründung, Satzungszweck, Mittelbindung und Finanzamt-Abstimmung im Gesellschaftsgruender."
+description: "Wenn es um gGmbH und Gemeinnützigkeit in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # gGmbH und Gemeinnützigkeit

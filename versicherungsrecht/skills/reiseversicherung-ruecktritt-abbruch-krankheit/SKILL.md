@@ -1,6 +1,6 @@
 ---
 name: reiseversicherung-ruecktritt-abbruch-krankheit
-description: "Reiserücktritts- und Reiseabbruchversicherung: unerwartete schwere Erkrankung, Stornozeitpunkt, Attest, Vorerkrankung, Pandemie, Angehörige und Kreditkartenversicherung im Versicherungsrecht."
+description: "Wenn es um Reiseversicherung: Rücktritt, Abbruch, Krankheit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Reiseversicherung: Rücktritt, Abbruch, Krankheit

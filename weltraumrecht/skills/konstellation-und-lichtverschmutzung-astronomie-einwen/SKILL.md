@@ -1,6 +1,6 @@
 ---
 name: konstellation-und-lichtverschmutzung-astronomie-einwen
-description: "Lichtverschmutzung durch Mega-Konstellationen – Astronomie-Einwendungen, Rechtslage, Abhilfe im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Konstellation und Lichtverschmutzung: Astronomie-Einwendungen in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Konstellation und Lichtverschmutzung: Astronomie-Einwendungen

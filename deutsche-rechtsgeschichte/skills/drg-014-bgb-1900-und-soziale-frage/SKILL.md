@@ -1,6 +1,6 @@
 ---
 name: drg-014-bgb-1900-und-soziale-frage
-description: "Deutsche Rechtsgeschichte: BGB 1900 Und Soziale Frage. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um BGB 1900 Und Soziale Frage in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BGB 1900 Und Soziale Frage

@@ -1,6 +1,6 @@
 ---
 name: bho-286-vertrauensgremium-titel-pruefen
-description: "Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Titel prüfen. Titel prüfen für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Vertrauensgremium Titel Pruefen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertrauensgremium Titel Pruefen

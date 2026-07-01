@@ -1,6 +1,6 @@
 ---
 name: preferences-547
-description: "Prüft preferential transfers, 90-day/insider period, antecedent debt, insolvency presumption and defenses im US Bankruptcy Code."
+description: "Wenn es um Preferences Paragraf 547 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Preferences § 547

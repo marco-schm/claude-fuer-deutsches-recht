@@ -1,6 +1,6 @@
 ---
 name: lizenzvertrag-gebrauchsmuster
-description: "Gebrauchsmusterlizenz prüfen oder entwerfen: Schutzrecht, Know-how, Territory, Field of Use, Royalty, Audit, Rechtsbestand, Kündigung und Nichtigkeitsrisiko im Gebrauchsmusterrecht."
+description: "Wenn es um Lizenzvertrag Gebrauchsmuster in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Lizenzvertrag Gebrauchsmuster

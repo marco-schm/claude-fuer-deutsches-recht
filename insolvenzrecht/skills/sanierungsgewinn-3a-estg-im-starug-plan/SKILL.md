@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-3a-estg-im-starug-plan
-description: "Paragraph 3a EStG bei StaRUG-Restrukturierungsplan (Paragraphen 4 ff. StaRUG). Unterschiede zum Insolvenzplan: kein Insolvenzverfahren, keine Massehaftung, Sanierungsabsicht der Gläubiger im StaRUG-Kontext belegen. Antragsmechanik für den Sanierungsertrag bei vorinsolvenzlicher Restrukturierung...."
+description: "Wenn es um Sanierungsgewinn — Paragraph 3a EStG bei StaRUG-Restrukturierungsplan in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sanierungsgewinn — Paragraph 3a EStG bei StaRUG-Restrukturierungsplan

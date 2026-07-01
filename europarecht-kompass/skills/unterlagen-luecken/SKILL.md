@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Europarecht-Kompass: trennt fehlende Tatsachen von fehlenden Belegen (Klageschrift EuGH, Vorlagebeschluss nationaler Gerichte, Kommissions-Mitteilung), nennt pro Lücke Beweisthema, Beschaffungsweg (EuGH), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

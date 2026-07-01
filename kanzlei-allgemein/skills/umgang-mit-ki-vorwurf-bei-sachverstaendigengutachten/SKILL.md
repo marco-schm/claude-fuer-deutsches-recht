@@ -1,6 +1,6 @@
 ---
 name: umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten
-description: "Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (§ 407a Abs. 1 ZPO), keine generelle KI-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen § 8a Abs. 2,..."
+description: "Wenn es um Umgang mit dem digitale Werkzeuge-Vorwurf bei Sachverständigengutachten in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umgang mit dem KI-Vorwurf bei Sachverständigengutachten

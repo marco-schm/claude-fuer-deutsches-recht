@@ -1,6 +1,6 @@
 ---
 name: anlagen-prozessual-pruefung-spezial
-description: "Spezialfall prozessuale Anlagenpruefung: keine Substantiierung durch blossen Anlagenverweis (BGH-Linie), eigener Vortrag noch im Schriftsatz erforderlich, Tatsachenkern aus Anlage in den Text uebernehmen. Prüfraster und Korrektur-Bausteine."
+description: "Wenn es um Anlagen: Substantiierung BGH in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anlagen: Substantiierung BGH

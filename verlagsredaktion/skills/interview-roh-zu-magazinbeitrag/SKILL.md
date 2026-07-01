@@ -1,6 +1,6 @@
 ---
 name: interview-roh-zu-magazinbeitrag
-description: "Macht aus einem Interview-Transkript eine drucktaugliche Interview-Fassung für Fachmagazin oder Newsletter, mit Autorisierung und Tonalitaetskontrolle im Verlagsredaktion."
+description: "Wenn es um Interview-Roh zu Magazinbeitrag in Verlagsredaktion geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Interview-Roh zu Magazinbeitrag

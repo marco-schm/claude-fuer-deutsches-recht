@@ -1,6 +1,6 @@
 ---
 name: konferenzmitschnitt-zu-tagungsbericht
-description: "Macht aus einem Tagungs- oder Konferenzmitschnitt einen Tagungsbericht für Fachzeitschrift, mit Vortragsuebersicht, Diskussionsskizze und Quellenpflicht im Verlagsredaktion."
+description: "Wenn es um Konferenzmitschnitt zu Tagungsbericht in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Konferenzmitschnitt zu Tagungsbericht

@@ -1,6 +1,6 @@
 ---
 name: freiheitlicher-paternalismus-check-vertrag
-description: "Prüft zivilrechtliche Vertragsregelungen und ihre Auslegung auf versteckten oder offenen Paternalismus gegenüber der Vertragsautonomie. Das Skill hilft, Einschränkungen der Privatautonomie durch Richterrecht, AGB-Kontrolle und zwingende Normen methodisch zu legitimieren oder anzugreifen. Es gibt..."
+description: "Wenn es um Freiheitlicher Paternalismus-Check im Vertragsrecht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freiheitlicher Paternalismus-Check im Vertragsrecht

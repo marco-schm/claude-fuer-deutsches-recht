@@ -1,6 +1,6 @@
 ---
 name: awg-awv-investitionspruefung
-description: "Investitionsprüfung nach AWG §§ 55 ff. und AWV §§ 55-62a: Sektorenüberblick, Erwerbsschwellen (10/25 Prozent Stimmrechte), Anmeldepflicht, Prüffristen, Untersagung, Auflagen, Kooperationspflichten mit EU-Partnern nach EU-VO 2019/452. Fallgruppen KRITIS/Technologie/Medien. Output: AWV-Prüfschema u..."
+description: "Wenn es um AWG/AWV-Investitionsprüfung: Verfahren und Fallgruppen in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AWG/AWV-Investitionsprüfung: Verfahren und Fallgruppen

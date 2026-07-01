@@ -1,6 +1,6 @@
 ---
 name: gewerbe-betriebsschliessung-infektionsschutz
-description: "Betriebsschließungsversicherung: behördliche Verfügung, Krankheitserregerklauseln, dynamische/statische Verweisung, Teilschließung, Umsatzausfall und Vergleich im Versicherungsrecht."
+description: "Wenn es um Betriebsschließungsversicherung und Infektionsschutz in Versicherungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Betriebsschließungsversicherung und Infektionsschutz

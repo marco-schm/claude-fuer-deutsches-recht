@@ -1,6 +1,6 @@
 ---
 name: insolvency-of-foreign-retention-and-setoff
-description: "Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmung im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Insolvenz des ausländischen Käufers in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenz des ausländischen Käufers

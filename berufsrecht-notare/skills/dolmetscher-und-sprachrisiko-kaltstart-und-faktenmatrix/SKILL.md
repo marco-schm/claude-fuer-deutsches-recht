@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-und-sprachrisiko-kaltstart-und-faktenmatrix
-description: "Notare: dolmetscher und sprachrisiko - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Dolmetscher Und Sprachrisiko Kaltstart Und Faktenmatrix in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: dolmetscher und sprachrisiko - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

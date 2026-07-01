@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefen-livequellen-und-rechtsprechungscheck
-description: "Pruefen: Livequellen- und Rechtsprechungscheck im Plugin fluggastrechte; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Pruefen: Livequellen- und Rechtsprechungscheck in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pruefen: Livequellen- und Rechtsprechungscheck

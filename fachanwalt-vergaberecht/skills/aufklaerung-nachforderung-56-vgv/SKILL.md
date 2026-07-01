@@ -1,6 +1,6 @@
 ---
 name: aufklaerung-nachforderung-56-vgv
-description: "Aufklaerung, Nachforderung und Angebotsaufklaerung steuern: fehlende Unterlagen, unklare Preise, ungewoehnlich niedrige Angebote, Gleichbehandlung und Grenzen der Nachbesserung: Aufklaerung, Nachforderung und Angebotsaufklaerung steuern: fehlende Unterlage..."
+description: "Wenn es um Aufklaerung Nachforderung 56 Vgv in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Aufklaerung, Nachforderung und Angebotsaufklaerung steuern: fehlende Unterlagen, unklare Preise, ungewoehnlich niedrige Angebote, Gleichbehandlung und Grenzen der Nachbesserung.

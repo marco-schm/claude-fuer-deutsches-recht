@@ -1,6 +1,6 @@
 ---
 name: studiengebuehren-internationale
-description: "Prüft Gebühren für internationale Studenten, Satzung, Ausnahmen und Rückerstattung im Hochschulrecht Länder."
+description: "Wenn es um Studiengebühren internationale Studenten in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Studiengebühren internationale Studenten

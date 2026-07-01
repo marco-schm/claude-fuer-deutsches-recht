@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-bandenbetrug-263-stgb
-description: "Bandenbetrug § 263 Abs: 5 StGB: Anwendungsfall Verteidigung in Bandenstrukturen bei Online-Betrug, Phishing, Enkeltrick, Schockanruf, Cybertrading. Qualifikation Strafrahmen ein bis zehn Jahre, bei minderschwerer Fall sechs Monate bi..."
+description: "Wenn es um Bandenbetrug Paragraf 263 Abs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bandenbetrug § 263 Abs

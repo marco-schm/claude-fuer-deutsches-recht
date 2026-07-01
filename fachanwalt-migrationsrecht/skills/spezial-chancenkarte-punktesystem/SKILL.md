@@ -1,6 +1,6 @@
 ---
 name: spezial-chancenkarte-punktesystem
-description: "Chancenkarte Punktesystem: Spezial-Skill im Migrationsrecht; prüft Qualifikation, Punkte, Lebensunterhalt, Nebenbeschäftigung und Anschlussstatus; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Chancenkarte Punktesystem in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chancenkarte Punktesystem

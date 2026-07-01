@@ -1,6 +1,6 @@
 ---
 name: sanktion-bescheid-anhoerung-richtig-lesen
-description: "Datenschutzrecht-Brückenskill: Behördenpost richtig lesen: Auskunftsverlangen, Beschwerdeweiterleitung, Anhörung, Verwarnung, Anordnung, Zwangsgeldandrohung und Bußgeldbescheid voneinander unterscheiden. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunika..."
+description: "Wenn es um Behördenpost richtig lesen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Behördenpost richtig lesen

@@ -1,6 +1,6 @@
 ---
 name: recht-auf-entscheidung
-description: "Formuliert grundrechtsbewusst, warum eine ernste Gewissensentscheidung nicht beliebig liegen bleiben darf im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Recht auf Entscheidung in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Recht auf Entscheidung

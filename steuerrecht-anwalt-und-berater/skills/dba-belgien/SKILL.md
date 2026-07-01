@@ -1,6 +1,6 @@
 ---
 name: dba-belgien
-description: "DBA Deutschland Belgien aktuelle Fassung. Anwendungsfall Eupen Malmedy Grenzgaenger Pendler Beteiligungen Lizenzen. Anwendungsbereich Sprachgrenze. Loehne mit 183-Tage-Regelung. Pensionen mit Spezialregelung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Belgien in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Belgien

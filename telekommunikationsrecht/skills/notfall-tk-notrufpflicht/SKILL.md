@@ -1,6 +1,6 @@
 ---
 name: notfall-tk-notrufpflicht
-description: "Notfallkommunikation, Resilienz, Priorisierung, Cell Broadcast, Behördenkommunikation und Business Continuity im Telekommunikationsrecht."
+description: "Wenn es um Notfall- und Katastrophenkommunikation in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notfall- und Katastrophenkommunikation

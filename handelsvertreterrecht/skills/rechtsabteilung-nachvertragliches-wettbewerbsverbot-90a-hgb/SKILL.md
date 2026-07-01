@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-nachvertragliches-wettbewerbsverbot-90a-hgb
-description: "Rechtsabteilungs-Fachmodul für Nachvertragliches Wettbewerbsverbot § 90a HGB: Wettbewerbsverbote werden nach Gebiet, Kundenkreis, Dauer und Entschädigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsvertreterrecht."
+description: "Wenn es um Rechtsabteilung: Nachvertragliches Wettbewerbsverbot Paragraf 90a HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Nachvertragliches Wettbewerbsverbot § 90a HGB

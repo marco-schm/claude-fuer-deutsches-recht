@@ -1,6 +1,6 @@
 ---
 name: sondernutzung-im-strassenraum
-description: "Kommunalrecht der Länder: Sondernutzung im Straßenraum. Sondernutzung im Straßenraum im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
+description: "Wenn es um Sondernutzung Im Strassenraum in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sondernutzung Im Strassenraum

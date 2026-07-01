@@ -1,6 +1,6 @@
 ---
 name: verhaltensabschnitt-pruefen
-description: Pruefung des Verhaltensabschnitts eines qualifizierten Arbeitszeugnisses auf korrekte Reihenfolge der Bezugspersonen und adaequate Formulierungsstufe mit Erkennung negativer Verhaltenscodierungen.
+description: "Wenn es um Verhaltensabschnitt pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verhaltensabschnitt pruefen

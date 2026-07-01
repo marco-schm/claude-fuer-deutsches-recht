@@ -1,6 +1,6 @@
 ---
 name: beitragsbeginn-und-vertrauensschutz
-description: "Prüft Beginn der Versicherungspflicht, Wirkung von Statusbescheiden, Vertrauensschutz und Änderungsfälle im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Beitragsbeginn und Vertrauensschutz in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beitragsbeginn und Vertrauensschutz

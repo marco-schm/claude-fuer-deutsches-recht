@@ -1,6 +1,6 @@
 ---
 name: handwerker-solo
-description: "Prüft Solo-Handwerker, Subunternehmer, Baustellenintegration, eigenes Werkzeug, Gewährleistung und Scheinselbständigkeit im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Solo-Handwerker in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Solo-Handwerker

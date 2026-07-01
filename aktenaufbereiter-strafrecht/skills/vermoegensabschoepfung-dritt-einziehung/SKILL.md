@@ -1,6 +1,6 @@
 ---
 name: vermoegensabschoepfung-dritt-einziehung
-description: "Spezialfall Dritt-Arrest in der Vermögensabschoepfung §§ 111e ff. StPO: Arrest gegen Konten Dritter (Ehepartner, Briefkasten-Gesellschaft), Glaubhaftmachung, Verhältnismäßigkeit, einstweilige Beschwerde § 304 StPO. Prüfraster und Schriftsatzbausteine für Aufhebung im Strafrechts-Aktenaufbere..."
+description: "Wenn es um Strafrecht: Dritt-Arrest in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Strafrecht: Dritt-Arrest

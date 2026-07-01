@@ -1,6 +1,6 @@
 ---
 name: ressort-bmleh
-description: "Heranfuehrung Ressort BMLEH (Bundesministerium für Landwirtschaft; Ernaehrung und Heimat). Schwerpunkt: Agrar; Tierschutz; Lebensmittel; Forst und Jagd; Oekolandbau. Kernnormen: GAKG; TierSchG; LFGB; BWaldG; BJagdG; OeLG; PflSchG; DueV; AgrarZahlG. Fuenf Spezialfelder: agrar-und-foerderungsrecht-..."
+description: "Wenn es um Ressort-Heranfuehrung BMLEH in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressort-Heranfuehrung BMLEH

@@ -1,6 +1,6 @@
 ---
 name: verhaeltnismaessigkeit-mittelbare-diskriminierung
-description: Mittelbare Diskriminierung nach Paragraph 3 Abs. 2 AGG und der EuGH-Linie seit Bilka. Erfasst neutrale Vorschriften oder Kriterien die Traegerinnen eines geschuetzten Merkmals in besonderer Weise benachteiligen koennen. Rechtfertigung nur durch ein rechtmaessiges Ziel und angemessene erforderliche Mittel. Verhältnismäßigkeit ist hier die ausschlaggebende Prüfungsstufe. Behandelt typische Konstellationen wie Teilzeitbenachteiligung Beruflicher Aufstieg Sprachanforderungen und Auswahlkriterien.
+description: "Wenn es um Mittelbare Diskriminierung — Verhältnismäßigkeit als Rechtfertigungsmassstab in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mittelbare Diskriminierung — Verhältnismäßigkeit als Rechtfertigungsmassstab

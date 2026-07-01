@@ -1,6 +1,6 @@
 ---
 name: satzbau-regeln
-description: "Satzbau-Regeln: maximal ein Komma pro Satz in Einfacher Sprache, ueberhaupt keine Kommata in Leichter Sprache, kurze Saetze, aktive Formulierung, Subjekt vor Praedikat. Vermeidung Passiv, Substantivketten, Genitiv."
+description: "Wenn es um ELS-J: Satzbau-Regeln in Einfache und Leichte Sprache für juristische Texte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # ELS-J: Satzbau-Regeln

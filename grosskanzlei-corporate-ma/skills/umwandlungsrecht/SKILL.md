@@ -1,6 +1,6 @@
 ---
 name: umwandlungsrecht
-description: "Umwandlungsrecht Verschmelzung Spaltung Formwechsel und Carve-outs nach UmwG bearbeiten: Anwendungsfall Mandant plant Verschmelzung zweier GmbHs Ausgliederung eines Geschäftsbereichs oder Formwechsel AG zu GmbH im Rahmen einer Transaktion. Paragraf 2-38 UmwG Verschmelzung, Paragraf 123-173 UmwG Spaltung, Paragraf..."
+description: "Wenn es um Umwandlungsrecht in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umwandlungsrecht

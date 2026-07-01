@@ -1,6 +1,6 @@
 ---
 name: space-036-vergaberecht-raumfahrtauftrag-esa-dlr-eu
-description: "Weltraumrecht: Vergaberecht Raumfahrtauftrag ESA DLR EU mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Vergaberecht Raumfahrtauftrag ESA DLR EU in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Vergaberecht Raumfahrtauftrag ESA DLR EU

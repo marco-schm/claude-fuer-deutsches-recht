@@ -1,6 +1,6 @@
 ---
 name: foerdermittel-vergabebindung-rueckforderung
-description: "HOAI-Fachfrage: Fördermittel, Zuwendungsbescheid, Vergabebindungen, Kostensteigerung, Mittelabruf, Dokumentationspflicht und Rückforderungsrisiko in Planung und Bauüberwachung prüfen im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Fördermittel, Vergabebindung Und Rückforderung in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Fördermittel, Vergabebindung Und Rückforderung

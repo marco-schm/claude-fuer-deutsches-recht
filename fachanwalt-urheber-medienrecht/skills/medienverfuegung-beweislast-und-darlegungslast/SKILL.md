@@ -1,6 +1,6 @@
 ---
 name: medienverfuegung-beweislast-und-darlegungslast
-description: "Medienverfuegung: Beweislast, Darlegungslast und Substantiierung: Medienverfuegung: Beweislast, Darlegungslast und Substantiierung."
+description: "Wenn es um Medienverfuegung: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medienverfuegung: Beweislast, Darlegungslast und Substantiierung

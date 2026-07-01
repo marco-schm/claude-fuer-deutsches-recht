@@ -1,6 +1,6 @@
 ---
 name: pruefwarteschlange-red-rbst-recherche
-description: "Prüfwarteschlange: Red-Team und Qualitätskontrolle im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Prüfwarteschlange: Red-Team und Qualitätskontrolle in Plugin für die studentische Rechtsberatungsstelle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfwarteschlange: Red-Team und Qualitätskontrolle

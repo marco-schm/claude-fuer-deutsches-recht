@@ -1,6 +1,6 @@
 ---
 name: adaptiver-dokumentenmatrix-und-lueckenliste
-description: "Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung

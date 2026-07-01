@@ -1,6 +1,6 @@
 ---
 name: gefahrenprognose-redteam
-description: "Zerlegt die behördliche Gefahrenprognose und baut eine eigene, realistische Sicherheitslage auf."
+description: "Wenn es um Konkrete Tatsachen statt Fantasie in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konkrete Tatsachen statt Fantasie

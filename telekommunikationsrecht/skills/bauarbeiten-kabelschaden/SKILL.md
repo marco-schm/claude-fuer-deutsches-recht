@@ -1,6 +1,6 @@
 ---
 name: bauarbeiten-kabelschaden
-description: "Kabelschäden: Leitungsauskunft, Verkehrssicherung, Tiefbau, Schadensersatz, Betriebsunterbrechung und Beweissicherung im Telekommunikationsrecht."
+description: "Wenn es um Kabelschaden durch Bauarbeiten in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Kabelschaden durch Bauarbeiten

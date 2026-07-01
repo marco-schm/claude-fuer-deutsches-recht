@@ -1,6 +1,6 @@
 ---
 name: wohnungs-erbbaurecht-und-weg
-description: "Prüft WEG-Struktur, Teilungserklärung, Erbbaugrundbuch, Sondernutzungsrechte und Verwalterzustimmung im Erbbaurecht Praxis."
+description: "Wenn es um Wohnungserbbaurecht in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnungserbbaurecht

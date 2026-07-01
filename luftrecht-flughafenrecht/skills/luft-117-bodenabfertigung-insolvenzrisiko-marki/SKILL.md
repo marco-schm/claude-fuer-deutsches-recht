@@ -1,6 +1,6 @@
 ---
 name: luft-117-bodenabfertigung-insolvenzrisiko-marki
-description: "Luftrecht und Flughafenrecht: Bodenabfertigung: Insolvenzrisiko markieren. Insolvenzrisiko markieren für Bodenabfertigung im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bodenabfertigung Insolvenzrisiko Marki in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bodenabfertigung Insolvenzrisiko Marki

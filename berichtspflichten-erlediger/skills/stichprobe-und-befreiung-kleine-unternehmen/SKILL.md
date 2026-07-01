@@ -1,6 +1,6 @@
 ---
 name: stichprobe-und-befreiung-kleine-unternehmen
-description: "Prüft bei Statistik- und Berichtspflichten, ob kleine/mittlere Unternehmen wegen Schwellen, Stichprobe, Bagatelle, einmaliger Auswahl oder Härte entlastet werden können im Berichtspflichten."
+description: "Wenn es um Stichprobe, Schwelle und Entlastung kleiner Unternehmen in Berichtspflichten-Erlediger geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Stichprobe, Schwelle und Entlastung kleiner Unternehmen

@@ -1,6 +1,6 @@
 ---
 name: marktanalyse-tk-meldepflicht
-description: "Marktanalyse, Marktdefinition, SMP/beträchtliche Marktmacht, Konsultation, EU-Abstimmung und Regulierungsverfügung im Telekommunikationsrecht."
+description: "Wenn es um Marktanalyse und beträchtliche Marktmacht in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Marktanalyse und beträchtliche Marktmacht

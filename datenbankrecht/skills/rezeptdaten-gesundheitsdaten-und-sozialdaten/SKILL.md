@@ -1,6 +1,6 @@
 ---
 name: rezeptdaten-gesundheitsdaten-und-sozialdaten
-description: "Datenbankrecht für Gesundheitsdatenbanken: §§ 87a-87e UrhG für Arzneimitteldatenbanken und Patientenregister, besonderer Schutz nach Art. 9 DSGVO für Gesundheitsdaten, DSGVO-Zweckbindung und Weitergabe, Forschungsschranken nach § 27 BDSG und KI-Nutzung von Gesundheitsdaten. Erstellt Rechts-Compli..."
+description: "Wenn es um Rezeptdaten, Gesundheitsdaten und Sozialdaten — Datenbankrecht und Datenschutz in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rezeptdaten, Gesundheitsdaten und Sozialdaten — Datenbankrecht und Datenschutz

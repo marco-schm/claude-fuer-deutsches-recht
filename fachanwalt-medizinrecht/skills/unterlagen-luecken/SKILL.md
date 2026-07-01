@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Medizinrecht: trennt fehlende Tatsachen von fehlenden Belegen (Behandlungsvertrag, Patientenakte, Aufklärungsbogen), nennt pro Lücke Beweisthema, Beschaffungsweg (LG (Arzthaftung)), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

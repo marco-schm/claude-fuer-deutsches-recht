@@ -1,6 +1,6 @@
 ---
 name: ttdsg-verhandlung-vergleich-und-eskalation
-description: "Ttdsg: Verhandlung, Vergleich und Eskalation: Ttdsg: Verhandlung, Vergleich und Eskalation."
+description: "Wenn es um Ttdsg: Verhandlung, Vergleich und Eskalation in Fachanwalt It Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Ttdsg: Verhandlung, Vergleich und Eskalation

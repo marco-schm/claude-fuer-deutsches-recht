@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-verzicht-bilanz-im-plan
-description: "Bilanzielle Erfassung des Forderungsverzichts im Insolvenzplan und StaRUG-Plan. Handelsrechtliche und steuerliche Behandlung. Werthaltigkeit der verzichteten Forderung. Verzicht mit und ohne Besserungsschein. Gesellschafterverzicht versus Drittglaeubigerverzicht. Buchungsbeispiele und Auswirkunge..."
+description: "Wenn es um Sanierungsgewinn — Forderungsverzicht im Plan, bilanzielle Folgen in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsgewinn — Forderungsverzicht im Plan, bilanzielle Folgen

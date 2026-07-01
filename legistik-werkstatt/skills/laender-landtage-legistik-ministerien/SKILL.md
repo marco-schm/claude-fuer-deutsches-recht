@@ -1,6 +1,6 @@
 ---
 name: laender-landtage-legistik-ministerien
-description: "Länder: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Länder: Behörden-, Gerichts- oder Registerweg in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Laender Landtage Legistik Ministerien; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Länder: Behörden-, Gerichts- oder Registerweg

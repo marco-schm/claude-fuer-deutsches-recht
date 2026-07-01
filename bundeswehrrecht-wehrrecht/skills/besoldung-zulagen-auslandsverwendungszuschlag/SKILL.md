@@ -1,6 +1,6 @@
 ---
 name: besoldung-zulagen-auslandsverwendungszuschlag
-description: "Besoldung, Zulagen, AVZ: prüft BBesG, AVZ-Berechnung, Erschwernis- und Einsatzzulagen sowie Rückforderungen. Norm-/Quellenanker: BBesG §§ 56–58, EZulV, AuslVZV im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Besoldung, Zulagen und Auslandsverwendungszuschlag in Bundeswehrrecht und Wehrrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Besoldung, Zulagen und Auslandsverwendungszuschlag

@@ -1,6 +1,6 @@
 ---
 name: nichtpraeferenzieller-ursprung-ofac-sdn-post
-description: "Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestimmung durch wesentliche Be- oder Verarbeitung, Listenregeln für HS-Wechsel, Wertschwellen und Letzte-wesentliche-Bearbeitung-Kriterium. Bedeutung für Made-in-Bezeichnung im Handelsrecht, Antidumping-Umgehungspruefung u..."
+description: "Wenn es um Nichtpraeferenzieller Ursprung und Made-in-Bezeichnung: Berechnung und Nachweis in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Nichtpraeferenzieller Ursprung und Made-in-Bezeichnung: Berechnung und Nachweis

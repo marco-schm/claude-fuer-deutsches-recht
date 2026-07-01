@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Zwangsverwaltung ZVG: stimmt Adressat (Gläubiger, Schuldner Eigentümer, Zwangsverwalter), Frist (Beschwerde gegen Anordnung) und Form auf den Zweck ab — typische Outputs: Anordnungsantrag, Verwalterbericht, Erinnerung gegen Anordnung."
+description: "Wenn es um Output wählen in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

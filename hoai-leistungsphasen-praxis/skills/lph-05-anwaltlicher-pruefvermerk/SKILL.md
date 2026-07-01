@@ -1,6 +1,6 @@
 ---
 name: lph-05-anwaltlicher-pruefvermerk
-description: "HOAI LPH 5 Ausführungsplanung: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 5 Ausführungsplanung: Erstellt anwaltliches kurzmemorandum zum lph-stand in HOAI Leistungsphasen Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # LPH 5 Ausführungsplanung: Erstellt anwaltliches kurzmemorandum zum lph-stand

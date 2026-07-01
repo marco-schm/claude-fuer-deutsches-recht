@@ -1,6 +1,6 @@
 ---
 name: use-case-risk-classification
-description: "Use-Case-Risikoklassifizierung nach KI-VO und DSGVO: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Ki Governance."
+description: "Wenn es um Use-Case-Risikoklassifizierung nach europäischer Technikregulierungsrahmen und DSGVO in Technik-Governance geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Use-Case-Risikoklassifizierung nach KI-VO und DSGVO

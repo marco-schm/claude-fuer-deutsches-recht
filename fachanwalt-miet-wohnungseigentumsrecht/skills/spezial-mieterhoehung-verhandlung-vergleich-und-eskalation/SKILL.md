@@ -1,6 +1,6 @@
 ---
 name: spezial-mieterhoehung-verhandlung-vergleich-und-eskalation
-description: "Mieterhoehung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt miet wohnungseigentumsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Mieterhoehung: Verhandlung, Vergleich und Eskalation in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mieterhoehung: Verhandlung, Vergleich und Eskalation

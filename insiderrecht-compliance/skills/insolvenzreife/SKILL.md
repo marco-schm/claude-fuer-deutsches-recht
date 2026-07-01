@@ -1,6 +1,6 @@
 ---
 name: insolvenzreife
-description: "Prüft Insiderrecht-Pflichten bei drohender oder eingetretener Insolvenzreife: Ad-hoc-Pflicht, Handelsverbot, Koordination mit InsO-Antragsfristen im Insiderrecht Compliance."
+description: "Wenn es um Insolvenzreife – Insiderrecht und Ad-hoc-Pflicht in Insiderrecht Compliance geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenzreife – Insiderrecht und Ad-hoc-Pflicht

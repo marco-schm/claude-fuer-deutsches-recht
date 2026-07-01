@@ -1,6 +1,6 @@
 ---
 name: sicherheits-und-ueberwachungsroboter
-description: "Prüft Sicherheitsroboter, Wachroboter und Zugangskontrolle: Hausrecht, Datenschutz, Biometrie, Einsatzgrenzen und Beweisverwertung."
+description: "Wenn es um Sicherheits- und Überwachungsroboter in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sicherheits- und Überwachungsroboter

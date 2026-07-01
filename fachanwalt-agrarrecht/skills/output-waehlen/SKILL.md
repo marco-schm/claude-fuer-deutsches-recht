@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Agrarrecht: stimmt Adressat (Landwirt, Verpächter/Pächter, Behörde), Frist (Pachtjahr Kündigungsfristen) und Form auf den Zweck ab — typische Outputs: Pachtvertrag, Hofübergabe-Beratung, GAP-Beschwerde."
+description: "Wenn es um Output wählen in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

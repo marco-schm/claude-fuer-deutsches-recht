@@ -1,6 +1,6 @@
 ---
 name: 18-entscheidungsgruende-aufbauen
-description: "Entscheidungsgründe aufbauen: Zulässigkeit, Begründetheit (Anspruchsprüfung Schritt für Schritt), Beweiswürdigung, Nebenanspruchsprüfung, Behandlung erfolgloser Anspruchsgrundlagen kurz"
+description: "Wenn es um 18 Entscheidungsgründe Aufbauen in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 18 Entscheidungsgründe Aufbauen

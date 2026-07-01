@@ -1,6 +1,6 @@
 ---
 name: kolonialrecht-kritisch-einordnen
-description: "Deutsche Rechtsgeschichte: Kolonialrecht kritisch einordnen. Deutsche Kolonialgesetzgebung 1885-1914, Herero-Nama-Voelkermord, Kolonialrechtliche Diskriminierung und Aufarbeitung nach 1919 und heute im Deutsche Rechtsgeschichte."
+description: "Wenn es um Kolonialrecht kritisch einordnen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kolonialrecht kritisch einordnen

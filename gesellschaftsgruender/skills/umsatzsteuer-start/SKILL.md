@@ -1,6 +1,6 @@
 ---
 name: umsatzsteuer-start
-description: "Prüft USt-Startfragen, Kleinunternehmer, Reverse Charge, innergemeinschaftliche Lieferungen und Rechnungen im Gesellschaftsgruender."
+description: "Wenn es um Umsatzsteuer Start in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umsatzsteuer Start

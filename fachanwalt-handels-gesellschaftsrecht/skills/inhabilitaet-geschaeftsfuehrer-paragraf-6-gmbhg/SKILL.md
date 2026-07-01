@@ -1,6 +1,6 @@
 ---
 name: inhabilitaet-geschaeftsfuehrer-paragraf-6-gmbhg
-description: "Inhabilitaet Geschäftsführer § 6 GmbHG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Inhabilitaet Geschäftsführer Paragraf 6 GmbHG in Fachanwalt Handels- und Gesellschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Inhabilitaet Geschäftsführer § 6 GmbHG

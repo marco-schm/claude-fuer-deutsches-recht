@@ -1,6 +1,6 @@
 ---
 name: ermittlungsverfahren-vergleich-eskalation
-description: "Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation: Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation."
+description: "Wenn es um Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation in Fachanwalt Strafrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation

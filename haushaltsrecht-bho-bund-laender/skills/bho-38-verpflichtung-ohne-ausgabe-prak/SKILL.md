@@ -1,6 +1,6 @@
 ---
 name: bho-38-verpflichtung-ohne-ausgabe-prak
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 38 Verpflichtung ohne Ausgabe praktisch anwenden. BHO § 38 Verpflichtung ohne Ausgabe praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht..."
+description: "Wenn es um Bho 38 Verpflichtung Ohne Ausgabe Prak in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 38 Verpflichtung Ohne Ausgabe Prak

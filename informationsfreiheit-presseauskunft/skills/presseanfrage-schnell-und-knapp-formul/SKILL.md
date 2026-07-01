@@ -1,6 +1,6 @@
 ---
 name: presseanfrage-schnell-und-knapp-formul
-description: "Informationsfreiheit und Presseauskunft: Presseanfrage schnell und knapp formulieren. Presseanfrage schnell und knapp formulieren im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presse..."
+description: "Wenn es um Presseanfrage Schnell Und Knapp Formul in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Presseanfrage Schnell Und Knapp Formul

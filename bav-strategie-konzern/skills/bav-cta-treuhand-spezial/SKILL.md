@@ -1,6 +1,6 @@
 ---
 name: bav-cta-treuhand-spezial
-description: "Spezialfall Contractual Trust Arrangement CTA: doppelseitige Treuhand, Insolvenzschutz durch Verpfaendung an Arbeitnehmer, IFRS-Status Trust Assets, deutsche HGB-Bilanzierung. Prüfraster und Mustertexte für Trust-Setup im Konzern im Bav Strategie Konzern."
+description: "Wenn es um bAV: CTA Treuhand in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # bAV: CTA Treuhand

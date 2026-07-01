@@ -1,6 +1,6 @@
 ---
 name: invitatio-ad-offerendum-und-werbung
-description: "Klausurfall zur Abgrenzung von Angebot und invitatio ad offerendum nach §§ 145 bis 147 BGB: Werbung im Schaufenster und Online-Shop als bloße Aufforderung zur Angebotsabgabe, verbindliche Preisauszeichnung, automatisierte Bestellbestätigung. Output: Subsumtionsraster und Gutachtenstil."
+description: "Wenn es um Invitatio ad offerendum und Werbung — Angebot oder Aufforderung? in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Invitatio ad offerendum und Werbung — Angebot oder Aufforderung?

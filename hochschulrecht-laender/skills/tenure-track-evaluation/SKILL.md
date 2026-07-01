@@ -1,6 +1,6 @@
 ---
 name: tenure-track-evaluation
-description: "Prüft Tenure-Track-Zwischenevaluation, Endbewertung, Transparenz und Rechtsschutz im Hochschulrecht Länder."
+description: "Wenn es um Tenure Track Evaluation in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tenure Track Evaluation

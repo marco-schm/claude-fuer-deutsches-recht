@@ -1,6 +1,6 @@
 ---
 name: persoenlichkeitsrecht-im-sachbuch
-description: "Verlagsrecht: Persönlichkeitsrechte im Sachbuch — allgemeines Persönlichkeitsrecht, Recht am eigenen Bild, Gegendarstellung, Unterlassung und Haftung von Autor und Verlag im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-021 · Persönlichkeitsrecht im Sachbuch in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-021 · Persönlichkeitsrecht im Sachbuch

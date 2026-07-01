@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Verkehrs-OWi-Verteidigung: trennt fehlende Tatsachen von fehlenden Belegen (Bußgeldbescheid, Anhörungsbogen, Messprotokoll), nennt pro Lücke Beweisthema, Beschaffungsweg (Bußgeldbehörde), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

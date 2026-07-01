@@ -1,6 +1,6 @@
 ---
 name: wasserentnahme-einwendung-bauen
-description: "Umweltschutzverband Verbandsklage: Wasserentnahme: Einwendung bauen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Wasserentnahme Einwendung Bauen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Wasserentnahme Einwendung Bauen

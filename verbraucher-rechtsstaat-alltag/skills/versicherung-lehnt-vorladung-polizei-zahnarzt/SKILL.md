@@ -1,6 +1,6 @@
 ---
 name: versicherung-lehnt-vorladung-polizei-zahnarzt
-description: "Versicherung lehnt ab: führt Laien durch Ablehnung von Hausrat, Haftpflicht, Rechtsschutz oder Berufsunfähigkeit im Alltag. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Versicherung lehnt ab in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versicherung lehnt ab

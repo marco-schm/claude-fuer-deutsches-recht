@@ -1,6 +1,6 @@
 ---
 name: testdaten-und-validierung-vor-marktstart
-description: "Prüft Testdaten, Validierungsplan, Feldtest, Pilotkunden, Beta-Betrieb und regulatorische Grenzen vor Marktstart."
+description: "Wenn es um Testdaten und Validierung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Testdaten und Validierung

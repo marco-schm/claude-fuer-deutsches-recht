@@ -1,6 +1,6 @@
 ---
 name: jugendliche-und-btm
-description: "Betäubungsmittelrecht: Jugendliche und BtM. Jugendliche und BtM im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
+description: "Wenn es um Jugendliche Und Btm in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jugendliche Und Btm

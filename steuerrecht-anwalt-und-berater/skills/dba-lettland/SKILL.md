@@ -1,6 +1,6 @@
 ---
 name: dba-lettland
-description: "DBA Deutschland Lettland 1997. Anwendungsfall Mittelstand IT Holding Beteiligungen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Lettland (1997) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Lettland (1997)

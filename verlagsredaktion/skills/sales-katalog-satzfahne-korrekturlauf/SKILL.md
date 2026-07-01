@@ -1,6 +1,6 @@
 ---
 name: sales-katalog-satzfahne-korrekturlauf
-description: "Bereitet Vertriebs-, Katalog-, VLB- und Buchhandelsdaten mit Zielgruppen, Verkaufsargumenten, Warengruppe, Schlagworten und Vergleichstiteln vor im Verlagsredaktion."
+description: "Wenn es um Sales, Katalog und Buchhandel in Verlagsredaktion geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Sales, Katalog und Buchhandel

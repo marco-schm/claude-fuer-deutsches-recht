@@ -1,6 +1,6 @@
 ---
 name: zweitkorrektur-neubewertung-zweitpruefer
-description: "Prüft Zweitkorrektur, Neubewertung und Austausch des Prüfers im Prüfungsrecht Hochschule."
+description: "Wenn es um Zweitkorrektur Und Neubewertung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zweitkorrektur Und Neubewertung

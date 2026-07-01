@@ -1,6 +1,6 @@
 ---
 name: organwechsel-ssm-imas-mvp
-description: "Organwechsel bei SI, LSI und Zahlungsinstituten über SSM-IMAS, MVP oder Formulare steuern: Zuständigkeit, Einreichkanal, Fristen, Unterlagen, Nachfragen und Vorstandsbüro-Briefing im Bank-Rechtsabteilung."
+description: "Wenn es um Organwechsel Einreichkanal in Bank-Rechtsabteilung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Organwechsel Einreichkanal

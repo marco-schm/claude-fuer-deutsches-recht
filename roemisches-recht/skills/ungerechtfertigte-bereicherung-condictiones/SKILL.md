@@ -1,6 +1,6 @@
 ---
 name: ungerechtfertigte-bereicherung-condictiones
-description: "Römisches Recht: Condictiones als Bereicherungsklagen nach D. 12 und D. 44.7 - condictio indebiti, condictio causa data causa non secuta, condictio ob turpem causam und die allgemeine condictio sine causa im Römisches Recht."
+description: "Wenn es um Ungerechtfertigte Bereicherung: condictiones in Römisches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ungerechtfertigte Bereicherung: condictiones

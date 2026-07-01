@@ -1,6 +1,6 @@
 ---
 name: cost-recovery-employee
-description: "Macht Untersuchungskosten und Schäden gegen verantwortliche Mitarbeiter und Organmitglieder geltend – § 93 AktG, § 249 BGB, Verjährung im Internal Investigations Praxis."
+description: "Wenn es um Kostenerstattung und Schadensersatz gegen Mitarbeiter in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kostenerstattung und Schadensersatz gegen Mitarbeiter

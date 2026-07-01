@@ -1,6 +1,6 @@
 ---
 name: inso-p307-zustellung-an-die-glaubiger
-description: "§ 307 InsO (Zustellung an die Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 307 InsO (Zustellung an die Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge..."
+description: "Wenn es um Inso P307 Zustellung An Die Glaubiger in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 307 InsO (Zustellung an die Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

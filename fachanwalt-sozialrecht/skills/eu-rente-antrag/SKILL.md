@@ -1,6 +1,6 @@
 ---
 name: eu-rente-antrag
-description: "Versicherter mit Beschäftigungszeiten im EU-Ausland fragt nach Rente und wie die ausländischen Zeiten angerechnet werden: VO (EG) 883..."
+description: "Wenn es um EU Rente Antrag in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Versicherter mit Beschäftigungszeiten im EU-Ausland fragt nach Rente und wie die ausländischen Zeiten angerechnet werden

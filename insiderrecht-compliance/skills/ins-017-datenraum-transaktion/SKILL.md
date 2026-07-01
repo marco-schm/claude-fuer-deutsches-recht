@@ -1,6 +1,6 @@
 ---
 name: ins-017-datenraum-transaktion
-description: "Prueft Insiderrecht im Datenraum: Stufenfreigabe, Clean Team, Q&A, Logging, Cleansing und Bieterkreis."
+description: "Wenn es um Datenraum in Transaktionen in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenraum in Transaktionen

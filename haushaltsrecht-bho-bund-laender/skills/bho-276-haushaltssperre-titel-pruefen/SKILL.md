@@ -1,6 +1,6 @@
 ---
 name: bho-276-haushaltssperre-titel-pruefen
-description: "Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Titel prüfen. Titel prüfen für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Haushaltssperre Titel Pruefen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haushaltssperre Titel Pruefen

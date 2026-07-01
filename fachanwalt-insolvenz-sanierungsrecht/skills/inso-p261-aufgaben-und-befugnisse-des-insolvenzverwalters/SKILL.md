@@ -1,6 +1,6 @@
 ---
 name: inso-p261-aufgaben-und-befugnisse-des-insolvenzverwalters
-description: "§ 261 InsO (Aufgaben und Befugnisse des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 261 InsO (Aufgaben und Befugnisse des Insolvenzverwalters) im Mandat prüfen: No..."
+description: "Wenn es um Inso P261 Aufgaben Und Befugnisse Des Insolvenzverwalters in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 261 InsO (Aufgaben und Befugnisse des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

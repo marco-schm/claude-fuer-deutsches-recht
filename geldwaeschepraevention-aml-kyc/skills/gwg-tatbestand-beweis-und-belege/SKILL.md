@@ -1,6 +1,6 @@
 ---
 name: gwg-tatbestand-beweis-und-belege
-description: "GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage in Geldwäscheprävention, AML und KYC geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage

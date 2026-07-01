@@ -1,6 +1,6 @@
 ---
 name: warenderivate
-description: "Prüft Insiderrecht und Marktmanipulationsverbot für Warenderivate: MAR-Anwendungsbereich, Spot-Market-Verzahnung und REMIT für Energiemaerkte im Insiderrecht Compliance."
+description: "Wenn es um Warenderivate – MAR und REMIT in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Warenderivate – MAR und REMIT

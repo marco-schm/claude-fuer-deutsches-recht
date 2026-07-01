@@ -1,6 +1,6 @@
 ---
 name: forensik-und-logfiles
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forensik Und Logfiles; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Forensik Und Logfiles in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Forensik Und Logfiles

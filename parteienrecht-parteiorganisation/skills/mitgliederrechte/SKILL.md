@@ -1,6 +1,6 @@
 ---
 name: mitgliederrechte
-description: "Erklärt Aufnahme, Stimmrecht, Antragsrecht, Gleichbehandlung, Datenschutz, Mitgliedsbeiträge und Austritt im Parteienrecht."
+description: "Wenn es um Mitgliederrechte in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Mitgliederrechte; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Mitgliederrechte

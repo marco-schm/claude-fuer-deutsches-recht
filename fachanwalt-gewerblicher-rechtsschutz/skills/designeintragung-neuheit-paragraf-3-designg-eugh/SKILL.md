@@ -1,6 +1,6 @@
 ---
 name: designeintragung-neuheit-paragraf-3-designg-eugh
-description: "Designeintragung Neuheit Paragraf 3 Designg EuGH: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Designeintragung Neuheit Paragraf 3 Designg EuGH in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Designeintragung Neuheit Paragraf 3 Designg EuGH

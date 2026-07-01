@@ -1,6 +1,6 @@
 ---
 name: ins-005-insiderliste-art18
-description: "Fuehrt Insiderlisten, Projektlisten, permanente Insider, Aktualisierung, Belehrung und Abrufbereitschaft fuer BaFin-Anfragen."
+description: "Wenn es um Insiderliste Art. 18 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insiderliste Art. 18 MAR

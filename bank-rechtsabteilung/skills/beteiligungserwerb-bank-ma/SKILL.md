@@ -1,6 +1,6 @@
 ---
 name: beteiligungserwerb-bank-ma
-description: "Beteiligungserwerb, M&A und strategische Kooperation einer Bank prüfen: Erlaubnisse, Inhaberkontrolle, Beteiligungsgrenzen, Due Diligence, Kartell, Datenschutz, Sanierung und Gremien im Bank-Rechtsabteilung."
+description: "Wenn es um Beteiligung und M&A in Bank-Rechtsabteilung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Beteiligung und M&A

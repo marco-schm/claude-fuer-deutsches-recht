@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg
-description: "Konkurrenz und Wechselwirkung von Forderungsverzicht (Paragraf 3a EStG) und schädlichem Beteiligungserwerb (Paragraf 8c KStG). Beschreibt die fatale Konstellation, in der eine Sanierung mit Anteilseignerwechsel den Verlustvortrag vor seinem Einsatz im Sanierungsertrag zerstört. Liefert Konkurrenzanalyse, Vermeidungsstrategien, Reihenfolge-Optimierung und Paragraf 8d KStG als Rettungsanker. Adressat ist das Großkanzlei-Team bei kombinierten Restrukturierungs- und Investoren-Transaktionen. Quellen Stand 06/2026."
+description: "Wenn es um Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf Paragraf 8c KStG in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf Paragraf 8c KStG

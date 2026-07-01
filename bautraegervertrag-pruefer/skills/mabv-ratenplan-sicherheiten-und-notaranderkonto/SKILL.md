@@ -1,6 +1,6 @@
 ---
 name: mabv-ratenplan-sicherheiten-und-notaranderkonto
-description: "MaBV-Prüfung aus Erwerbersicht: § 3 Abs. 1/2 MaBV, sieben Raten, § 7 MaBV, § 12 MaBV, § 650v BGB, 5-%-Sicherheit nach § 650m Abs. 2 BGB, Reservierung, Sonderwünsche, Notaranderkonto und Vermischungsverbot."
+description: "Wenn es um MaBV-Ratenplan, Sicherheiten und Notaranderkonto in Bauträgervertrag-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # MaBV-Ratenplan, Sicherheiten und Notaranderkonto

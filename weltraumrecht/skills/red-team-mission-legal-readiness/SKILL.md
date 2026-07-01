@@ -1,6 +1,6 @@
 ---
 name: red-team-mission-legal-readiness
-description: "Red-Team-Analyse für Weltraummissionen – rechtliche Schwachstellen, adversariale Szenarien."
+description: "Wenn es um Weltraumrecht: Red Team: Space Mission Legal Readiness in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Red Team: Space Mission Legal Readiness

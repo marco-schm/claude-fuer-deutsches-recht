@@ -1,6 +1,6 @@
 ---
 name: geldwaeschepruefung-immobilienkauf-organisationspflicht
-description: "Notare: geldwaeschepruefung immobilienkauf - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Geldwaeschepruefung Immobilienkauf Organisationspflicht in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: geldwaeschepruefung immobilienkauf - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

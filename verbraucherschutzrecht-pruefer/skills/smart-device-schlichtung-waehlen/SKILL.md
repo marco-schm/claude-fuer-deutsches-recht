@@ -1,6 +1,6 @@
 ---
 name: smart-device-schlichtung-waehlen
-description: "Prüfer: Smart Device: Schlichtung wählen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Smart Device Schlichtung Wählen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Smart Device Schlichtung Wählen

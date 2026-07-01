@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation-redteam-qualitygate
-description: "Red-Team und Quality-Gate für Liquiditätskommunikation: Plausibilitätscheck, Haftungsrisiken, Zahlenlücken, Sanierungsannahmen und versandfähige Mandanten-/Geschäftsleiternotiz."
+description: "Wenn es um Liquiditätskommunikation Red-Team und Quality-Gate in Liquiditätsplanung — Power geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Liquiditätskommunikation Red-Team und Quality-Gate

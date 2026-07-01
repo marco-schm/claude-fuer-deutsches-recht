@@ -1,6 +1,6 @@
 ---
 name: lst-haftung-42d-estg
-description: "Detaillierte Prüfung der Lohnsteuerhaftung — wann haftet der Arbeitgeber als Gesamtschuldner mit dem Arbeitnehmer welche Verteidigungsmoeglichkeiten gibt es. Anwendungsfall Lohnsteueraussenpruefung endet mit Haftungsbescheid wegen pauschaler Geldzuwendungen Sachzuwendungen oder Reisekostenproble..."
+description: "Wenn es um Lohnsteuerhaftung des Arbeitgebers — Paragraf 42d EStG in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lohnsteuerhaftung des Arbeitgebers — § 42d EStG

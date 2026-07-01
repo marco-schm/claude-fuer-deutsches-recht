@@ -1,6 +1,6 @@
 ---
 name: allgemeiner-einstieg-cic-katechismus-und-pastorale-lage
-description: "Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage: Sprache, Rolle, Status, Normspur, Lehrspur, Zuständigkeit und Ausgabeformat; CIC can. 1-22 und 96-112 und 204-223; KKK Prolog, 748-945 und 2030-2051; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Ki..."
+description: "Wenn es um Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage

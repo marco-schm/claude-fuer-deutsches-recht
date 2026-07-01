@@ -1,6 +1,6 @@
 ---
 name: owi-022-datenschutzbussgeld-frist-pruefen
-description: "Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Frist prüfen. Frist prüfen für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Datenschutzbussgeld Frist Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzbussgeld Frist Pruefen

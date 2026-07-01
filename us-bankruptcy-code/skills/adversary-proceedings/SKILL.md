@@ -1,6 +1,6 @@
 ---
 name: adversary-proceedings
-description: "Prüft when adversary proceeding is required: dischargeability, lien validity, turnover, avoidance, injunctions and complaints im US Bankruptcy Code."
+description: "Wenn es um Adversary Proceedings in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Adversary Proceedings

@@ -1,6 +1,6 @@
 ---
 name: spezial-asyl-anhoerung-glaubhaftigkeit
-description: "Asylanhörung/Glaubhaftigkeit: Spezial-Skill im Migrationsrecht; bereitet Kernschilderung, Widersprüche, Chronologie und Beweismittel vor; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Asylanhörung/Glaubhaftigkeit in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Asylanhörung/Glaubhaftigkeit

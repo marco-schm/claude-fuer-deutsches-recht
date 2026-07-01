@@ -1,6 +1,6 @@
 ---
 name: tierschutz-ueblerede
-description: "Tierschutzanzeige: erhebliche Schmerzen/Leiden, Rohheit, länger anhaltende Wiederholung, Veterinäramt und Beweise im Strafanzeige-Vorbereitung."
+description: "Wenn es um Tierschutzstrafrecht Paragraf 17 TierSchG in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Tierschutzstrafrecht § 17 TierSchG

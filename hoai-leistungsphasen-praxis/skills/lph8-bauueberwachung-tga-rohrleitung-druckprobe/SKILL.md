@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-tga-rohrleitung-druckprobe
-description: "Bauueberwachung HOAI LPH 8 für TGA-Rohrleitungen mit Schwerpunkt Druckpruefung — Heizung Rohrleitungen nach DVGW TRGI und DIN EN 12828, Trinkwasser nach DVGW W 551 und DIN 1988-100, Abwasser Dichtheitspruefung nach EN 1610 und DIN 1986-30, Druckpruefprotokolle, Druckverlustmessung Heizkreise, Spu..."
+description: "Wenn es um Bauueberwachung TGA Rohrleitungen und Druckpruefung in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung TGA Rohrleitungen und Druckpruefung

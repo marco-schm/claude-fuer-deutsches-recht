@@ -1,6 +1,6 @@
 ---
 name: qualitaetskontrolle-und-inspektion-rechtspre
-description: "Wirtschaftsprüfer: qualitaetskontrolle und inspektion - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Qualitaetskontrolle Und Inspektion Rechtspre in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: qualitaetskontrolle und inspektion - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

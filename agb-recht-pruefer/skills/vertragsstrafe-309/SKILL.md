@@ -1,6 +1,6 @@
 ---
 name: vertragsstrafe-309
-description: "Norm- und Dogmatik-Skill für Vertragsstrafe 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Vertragsstrafe 309 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Vertragsstrafe 309

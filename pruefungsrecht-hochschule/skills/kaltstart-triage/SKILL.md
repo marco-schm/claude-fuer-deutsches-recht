@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Startet Hochschulprüfungsrecht für Klausur, Hausarbeit, Abschlussarbeit, Drittversuch, Täuschung, Krankheit und Rechtsschutz."
+description: "Wenn es um Allgemein in Prüfungsrecht an Hochschulen und Universitäten geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemein

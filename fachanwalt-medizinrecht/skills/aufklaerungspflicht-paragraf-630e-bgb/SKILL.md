@@ -1,6 +1,6 @@
 ---
 name: aufklaerungspflicht-paragraf-630e-bgb
-description: "Aufklaerungspflicht § 630e BGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Aufklaerungspflicht Paragraf 630e BGB in Fachanwalt Medizinrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufklaerungspflicht § 630e BGB

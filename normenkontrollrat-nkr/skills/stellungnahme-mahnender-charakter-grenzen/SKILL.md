@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-mahnender-charakter-grenzen
-description: "Beschäftigt sich mit dem mahnenden Charakter der NKR-Stellungnahme und ihren Grenzen. Wann darf der NKR mahnen wann sollte er konstruktiv bleiben wann hat die Mahnung politische Wirkung wo verlaeuft die rote Linie zur politischen Bewertung. Mit Stufenvokabular Beispielen und politischen Wirkungs..."
+description: "Wenn es um NKR-Stellungnahme — Mahnender Charakter und seine Grenzen in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # NKR-Stellungnahme — Mahnender Charakter und seine Grenzen

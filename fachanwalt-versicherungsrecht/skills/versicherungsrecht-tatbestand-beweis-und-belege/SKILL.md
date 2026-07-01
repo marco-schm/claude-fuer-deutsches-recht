@@ -1,6 +1,6 @@
 ---
 name: versicherungsrecht-tatbestand-beweis-und-belege
-description: "Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Wenn es um Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

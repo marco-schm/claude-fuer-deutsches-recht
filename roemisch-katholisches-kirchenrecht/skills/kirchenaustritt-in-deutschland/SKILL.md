@@ -1,6 +1,6 @@
 ---
 name: kirchenaustritt-in-deutschland
-description: "Kirchenaustritt in Deutschland: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Wenn es um Kirchenaustritt in Deutschland in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kirchenaustritt in Deutschland

@@ -1,6 +1,6 @@
 ---
 name: bess-naturschutz-artenschutz
-description: "Prüft Eingriffsregelung, Artenschutz, Ausgleich, Landschaftsbild, Ackerflächen und FFH/Vogelschutz im Energierecht."
+description: "Wenn es um Naturschutz, Artenschutz und Flächenkonkurrenz in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Naturschutz, Artenschutz und Flächenkonkurrenz

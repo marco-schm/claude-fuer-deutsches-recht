@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Ordnungswidrigkeitenrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
+description: "Wenn es um Ordnungswidrigkeitenrecht - Allgemeiner Einstieg in Ordnungswidrigkeitenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ordnungswidrigkeitenrecht - Allgemeiner Einstieg

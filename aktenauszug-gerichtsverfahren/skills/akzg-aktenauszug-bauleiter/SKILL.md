@@ -1,6 +1,6 @@
 ---
 name: akzg-aktenauszug-bauleiter
-description: "Bauleiter Aktenauszug für Gerichtsverfahren: Sachverhalt, Streitstand, Beweisangebote, Schlussantraege. Prüfraster Vollstaendigkeit für Berufung und Revision im Aktenauszug Gerichtsverfahren."
+description: "Wenn es um AkzG: Aktenauszug Bauleiter in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # AkzG: Aktenauszug Bauleiter

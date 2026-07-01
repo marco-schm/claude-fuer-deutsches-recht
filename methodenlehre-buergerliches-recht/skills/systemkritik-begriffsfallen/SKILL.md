@@ -1,6 +1,6 @@
 ---
 name: systemkritik-begriffsfallen
-description: "Dieses Skill schult die Fähigkeit, juristische Begriffsfallen zu erkennen und methodisch zu vermeiden. Es zeigt, wie Rechtsbegriffe durch Überausdehnung, Unterdehnung oder unbemerkte Bedeutungsverschiebungen zu falschen Subsumtionsergebnissen führen und wie eine methodisch saubere Begriffskritik..."
+description: "Wenn es um Systemkritik und Begriffsfallen in der juristischen Methodik in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Systemkritik und Begriffsfallen in der juristischen Methodik

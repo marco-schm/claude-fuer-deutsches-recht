@@ -1,6 +1,6 @@
 ---
 name: kauf-due-kita-sozialimmobilie
-description: "Baut DD-Liste: Vertrag, Grundbuch, Laufzeit, Zins, Zustimmung, Heimfall, Bank, Bauzustand und Exit im Erbbaurecht Praxis."
+description: "Wenn es um Erbbaurecht kaufen in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbbaurecht kaufen

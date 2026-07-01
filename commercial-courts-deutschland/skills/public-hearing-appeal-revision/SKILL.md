@@ -1,6 +1,6 @@
 ---
 name: public-hearing-appeal-revision
-description: "Steuert Öffentlichkeit, Presse, Public Relations und sensitive Unternehmenskommunikation bei hochkarätigen Commercial-Court-Verfahren im Commercial Courts Deutschland."
+description: "Wenn es um Öffentlichkeit und Presse in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Öffentlichkeit und Presse

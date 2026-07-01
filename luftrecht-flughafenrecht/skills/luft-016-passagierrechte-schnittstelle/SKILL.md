@@ -1,6 +1,6 @@
 ---
 name: luft-016-passagierrechte-schnittstelle
-description: "Luftrecht und Flughafenrecht: Passagierrechte Schnittstelle. Passagierrechte Schnittstelle im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Passagierrechte Schnittstelle in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Passagierrechte Schnittstelle

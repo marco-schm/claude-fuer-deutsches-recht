@@ -1,6 +1,6 @@
 ---
 name: rdg-pruefung-chatbot
-description: "Rdg Prüfung Chatbot: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Ki Richtlinie Kanzleien."
+description: "Wenn es um RDG-Prüfung Chatbot in Kanzleirichtlinien für digitale Werkzeuge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # RDG-Prüfung Chatbot

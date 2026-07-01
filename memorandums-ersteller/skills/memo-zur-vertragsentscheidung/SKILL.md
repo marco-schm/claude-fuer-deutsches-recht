@@ -1,6 +1,6 @@
 ---
 name: memo-zur-vertragsentscheidung
-description: "Vertragsentscheidungs-Memo: Soll der Mandant Vertrag X mit Bedingungen Y abschliessen? Prüfung wirtschaftliche und rechtliche Risiken, Verhandlungsspielraum, BATNA, Empfehlung. Output: Memo mit klarer Empfehlung 'abschliessen/nachverhandeln/ablehnen' und Begruendung im Memorandums Ersteller."
+description: "Wenn es um Vertragsentscheidungs-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vertragsentscheidungs-Memo

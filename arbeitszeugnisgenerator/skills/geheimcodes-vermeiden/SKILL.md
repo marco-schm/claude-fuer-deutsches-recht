@@ -1,6 +1,6 @@
 ---
 name: geheimcodes-vermeiden
-description: "Vollständiger Katalog der Negativcodes der deutschen Zeugnissprache, die der Generator unter keinen Umständen produzieren darf. Unterteilt nach Themen: Suchtmittel-Lesarten, Krankheit/Fehlzeiten, Vertrauensbruch, Konflikte, Loyalität, Betriebsratstätigkeit, Grenzverletzungen, Mitläufertum. Jeder Code ist mit seiner riskanten Lesart erklärt."
+description: "Wenn es um Geheimcodes vermeiden in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geheimcodes vermeiden

@@ -1,6 +1,6 @@
 ---
 name: workflow-rechtsmittel-miet-weg
-description: "Rechtsmittel Miet/WEG: Prüfungslinie für Miet- und WEG-Recht: prüft Berufung, Beschwer, Zulassung, Frist, Vollstreckungsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutz..."
+description: "Wenn es um Rechtsmittel Miet/WEG: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Rechtsmittel Miet/WEG: Prüfungslinie für Miet- und WEG-Recht

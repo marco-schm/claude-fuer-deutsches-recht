@@ -1,6 +1,6 @@
 ---
 name: workflow-one-shot-verbraucherpruefung
-description: "One-Shot-Workflow für die verbraucherseitige Prüfung eines deutschen Bauträgervertrags: startet aus Vertrag oder Aktenordner, bildet Fall-Fingerabdruck, prüft MaBV, § 650u/§ 650v BGB, § 650m Abs. 2 BGB, AGB, Bausoll, Abnahme, WEG, Insolvenzpfad und erzeugt drei fertige Dokumente."
+description: "Wenn es um One-Shot-Verbraucherprüfung Bauträgervertrag in Bauträgervertrag-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # One-Shot-Verbraucherprüfung Bauträgervertrag

@@ -1,6 +1,6 @@
 ---
 name: eiopa-grenzueberschreitender-vertrieb
-description: "Grenzüberschreitender Versicherungsvertrieb: Niederlassungs-/Dienstleistungsfreiheit, Host-/Home-Aufsicht, EIOPA, Passporting, Verbraucherbeschwerden und Sprach-/Informationspflichten im Versicherungsrecht."
+description: "Wenn es um EIOPA und grenzüberschreitender Versicherungsvertrieb in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # EIOPA und grenzüberschreitender Versicherungsvertrieb

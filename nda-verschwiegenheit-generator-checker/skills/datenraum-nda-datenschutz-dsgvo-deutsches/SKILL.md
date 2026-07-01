@@ -1,6 +1,6 @@
 ---
 name: datenraum-nda-datenschutz-dsgvo-deutsches
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Datenraum NDA Checkliste; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Datenraum NDA Checkliste in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Datenraum NDA Checkliste

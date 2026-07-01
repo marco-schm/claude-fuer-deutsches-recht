@@ -1,6 +1,6 @@
 ---
 name: bmukn-naturschutz-und-artenschutzrecht
-description: "Sachbereich Naturschutz- und Artenschutzrecht im Geschäftsbereich BMUKN: Normbestand (BNatSchG; NatschGesetze der Länder; CITES; BJagdG (Schnittstelle).); Akteure (BfN; UBA; Länder-Naturschutzbehoerden; Untere Naturschutzbehoerden.); EU-Bezug (FFH-RL; Vogelschutz-RL; Wiederherstellungs-VO (Natur..."
+description: "Wenn es um Naturschutz- und Artenschutzrecht (BMUKN) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Naturschutz- und Artenschutzrecht (BMUKN)

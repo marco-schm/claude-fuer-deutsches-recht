@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-olg-sofortige-beschwerde
-description: "Sofortige Beschwerde gegen VK-Entscheidung beim OLG-Vergabesenat erstellen: Bieter oder Auftraggeber will VK-Beschluss angreifen oder verteidigen. Normen: §§ 171-184 GWB (Beschwerde), § 172 GWB (Frist zwei Wochen ab Zustellung), § 173 GWB (aufschiebende Wirkung), § 176 GWB (Verlaengerung), § 178 GWB (Entscheidung). Pruefraster: Beschwerdebefugnis, Frist, Form, Begruendungstiefe, Antraege, aufschiebende Wirkung beantragen, Eilantrag § 173 Abs. 1 S. 3 GWB. Output Beschwerdeschriftsatz-Geruest, Fristenkalender, Antraege-Set. Abgrenzung: VK-Verfahren siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk; Schadensersatz siehe fachanwalt-vergaberecht-schadensersatz-181-gwb."
+description: "Wenn es um Sofortige Beschwerde OLG-Vergabesenat in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sofortige Beschwerde OLG-Vergabesenat

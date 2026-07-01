@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Migrationsrecht: ordnet Rolle (Mandant Ausländer/Geflüchteter, ABH, BAMF), markiert Frist (§ 74 AsylG Klagefrist 2 Wochen / 1 Mon.), wählt Norm (AufenthG, FreizügG/EU, AsylG, StAG, Aufenthaltsverordnung, EU-Familienzusammenführungs-RL) und Zuständigkeit..."
+description: "Wenn es um Einstieg und Routing in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

@@ -1,6 +1,6 @@
 ---
 name: zivil-schreiben-tenor-bauen-urb-mehrere
-description: "Tatbestand eines Zivilurteils nach § 313 Abs. 2 ZPO schreiben: Richter muss den Prozessstoff sachlich und knapp wiedergeben. Normen: § 313 Abs. 2 ZPO (Tatbestand-Anforderungen), § 314 ZPO (Beweiskraft des Tatbestands). Prüfraster: Einleitungssatz, unstreitiger Sachverhalt, streitiges Klägervorbr"
+description: "Wenn es um Tatbestand schreiben in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zivil Schreiben Tenor Bauen Urb Mehrere; Arbeitsfeld: Urteilsbauer und Relationsmacher."
 ---
 
 # Tatbestand schreiben

@@ -1,6 +1,6 @@
 ---
 name: kammer-handelssachen-kfh
-description: "Handelsrichter in der Kammer für Handelssachen: erklärt KfH-Zuständigkeit, wirtschaftliche Expertise, Beratung und Vergleichsdynamik für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Scho..."
+description: "Wenn es um Handelsrichter in der Kammer für Handelssachen in Schöffen und Handelsrichter Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Handelsrichter in der Kammer für Handelssachen

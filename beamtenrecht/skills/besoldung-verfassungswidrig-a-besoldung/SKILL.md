@@ -1,6 +1,6 @@
 ---
 name: besoldung-verfassungswidrig-a-besoldung
-description: "Skill zur Geltendmachung verfassungswidriger A-Besoldung im Land. Prüfschema für den Verstoss gegen die amtsangemessene Alimentation in der A-Besoldung unter Beruecksichtigung des Mindestabstandsgebots zum sozialhilferechtlichen Grundsicherungsniveau. Behandelt die Konstellationen Familienzuschl..."
+description: "Wenn es um Verfassungswidrige A-Besoldung — Mindestabstandsgebot und Geltendmachung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verfassungswidrige A-Besoldung — Mindestabstandsgebot und Geltendmachung

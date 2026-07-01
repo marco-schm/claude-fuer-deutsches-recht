@@ -1,6 +1,6 @@
 ---
 name: nis2-kritis-bsi-schnittstelle
-description: "NIS2/KRITIS/BSI-Anforderungen für TK-Unternehmen, Rechenzentren, Managed Services und kritische Kommunikation im Telekommunikationsrecht."
+description: "Wenn es um NIS2, KRITIS und BSI-Schnittstelle in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NIS2, KRITIS und BSI-Schnittstelle

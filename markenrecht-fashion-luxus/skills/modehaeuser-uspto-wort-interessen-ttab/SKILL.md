@@ -1,6 +1,6 @@
 ---
 name: modehaeuser-uspto-wort-interessen-ttab
-description: "Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung

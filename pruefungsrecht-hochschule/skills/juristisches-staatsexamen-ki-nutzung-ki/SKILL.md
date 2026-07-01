@@ -1,6 +1,6 @@
 ---
 name: juristisches-staatsexamen-ki-nutzung-ki
-description: "Prüft Klausuren, mündliche Prüfung, Schwerpunkt, Akteneinsicht und Prüfungsrüge im Prüfungsrecht Hochschule."
+description: "Wenn es um Juristisches Staatsexamen in Prüfungsrecht an Hochschulen und Universitäten geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Juristisches Staatsexamen

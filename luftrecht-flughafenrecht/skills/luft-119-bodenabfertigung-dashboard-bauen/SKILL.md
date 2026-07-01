@@ -1,6 +1,6 @@
 ---
 name: luft-119-bodenabfertigung-dashboard-bauen
-description: "Luftrecht und Flughafenrecht: Bodenabfertigung: Dashboard bauen. Dashboard bauen für Bodenabfertigung im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bodenabfertigung Dashboard Bauen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bodenabfertigung Dashboard Bauen

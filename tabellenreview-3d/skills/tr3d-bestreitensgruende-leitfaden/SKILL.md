@@ -1,6 +1,6 @@
 ---
 name: tr3d-bestreitensgruende-leitfaden
-description: "Leitfaden Bestreitensgruende systematisch: dem Grunde, der Hoehe, dem Rang, Verjährung, Aufrechnung. Prüfraster für Tabellenpruefer."
+description: "Wenn es um TR3D: Bestreitensgruende in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # TR3D: Bestreitensgruende

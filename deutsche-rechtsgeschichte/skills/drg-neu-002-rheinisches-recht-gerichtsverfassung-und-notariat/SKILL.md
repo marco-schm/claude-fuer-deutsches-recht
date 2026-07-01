@@ -1,6 +1,6 @@
 ---
 name: drg-neu-002-rheinisches-recht-gerichtsverfassung-und-notariat
-description: "Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat

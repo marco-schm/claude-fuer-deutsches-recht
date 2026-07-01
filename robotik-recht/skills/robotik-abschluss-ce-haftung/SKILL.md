@@ -1,6 +1,6 @@
 ---
 name: robotik-abschluss-ce-haftung
-description: "Red-Team-Check für jedes Ergebnis: Normenstand, Quellen, fehlende Tatsachen, Gegenargumente, technische Annahmen, Datenschutz und Haftungsfolgen."
+description: "Wenn es um Abschlussqualität und Red-Team in robotik-recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Abschlussqualität und Red-Team

@@ -1,6 +1,6 @@
 ---
 name: sondereffekt-grossauftrag-stundungs
-description: "Liqui Sondereffekt Grossauftrag Stundungs im Plugin Liquiditaetsplanung: prüft konkret Sondereffekt Grossauftrag in Liquiditaetsplanung, Stundungs-Strategie mit Finanzamt, Krankenkassen, Lieferanten."
+description: "Wenn es um Liqui Sondereffekt Grossauftrag Stundungs in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Liqui Sondereffekt Grossauftrag Stundungs

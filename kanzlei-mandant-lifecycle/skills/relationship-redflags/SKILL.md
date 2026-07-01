@@ -1,6 +1,6 @@
 ---
 name: relationship-redflags
-description: "Relationship Red Flags: steuert Warnzeichen: Funkstille, Überraschungsrechnung, Scope-Unklarheit, Strategiedrift, Fristdruck zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Relationship Red Flags in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Relationship Red Flags

@@ -1,6 +1,6 @@
 ---
 name: arbeitsblatt-schriftsatz-brief-und-memo-bausteine
-description: "Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine in Tabellenreview 3D geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine

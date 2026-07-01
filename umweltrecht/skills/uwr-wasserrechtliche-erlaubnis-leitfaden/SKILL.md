@@ -1,6 +1,6 @@
 ---
 name: uwr-wasserrechtliche-erlaubnis-leitfaden
-description: "Leitfaden wasserrechtliche Erlaubnis WHG: Bewirtschaftungsermessen, Benutzung, Stand der Technik: Prüfraster für Industrieanlagen und kommunale Vorhaben."
+description: "Wenn es um Uwr Wasserrechtliche Erlaubnis Leitfaden in Umweltrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Leitfaden wasserrechtliche Erlaubnis WHG: Bewirtschaftungsermessen, Benutzung, Stand der Technik

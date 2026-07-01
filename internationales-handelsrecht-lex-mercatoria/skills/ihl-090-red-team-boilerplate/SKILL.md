@@ -1,6 +1,6 @@
 ---
 name: ihl-090-red-team-boilerplate
-description: "Internationales Handelsrecht und Lex Mercatoria: Red Team Boilerplate. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Red Team Boilerplate in Internationales Handelsrecht und Lex Mercatoria geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red Team Boilerplate

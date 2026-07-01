@@ -1,6 +1,6 @@
 ---
 name: plan-insolvenzplan-minderheitenschutz
-description: "Vollständigen Insolvenzplan nach §§ 217 ff. InsO von Grund auf strukturieren. §§ 217 220 221 InsO Planarchitektur. Prüfraster: Planvorlageberechtigung darstellender gestaltender Teil Anlagen Gruppen Sicherheiten Planvollzug. Output: Insolvenzplan-Skelett Bausteinliste Schnittstellenrisiken. Abgre..."
+description: "Wenn es um IV-integrierte Insolvenzplan-Architektur in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IV-integrierte Insolvenzplan-Architektur

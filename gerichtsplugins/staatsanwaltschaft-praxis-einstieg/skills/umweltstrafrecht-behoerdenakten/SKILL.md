@@ -1,6 +1,6 @@
 ---
 name: umweltstrafrecht-behoerdenakten
-description: "Umweltstrafrecht: Behördenakten und technische Beweise: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Umweltstrafrecht: Behördenakten und technische Beweise in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Umweltstrafrecht: Behördenakten und technische Beweise

@@ -1,6 +1,6 @@
 ---
 name: 09-vergleich-und-mediation
-description: "Vergleichsgespraech leiten Paragraf 278 ZPO, Mediation Paragraf 278a ZPO, Prozessvergleich Paragraf 794 Abs. 1 Nr. 1, Vollstreckungstitel, Vollstreckungsklausel Paragrafen 724 ff."
+description: "Wenn es um 09 Vergleich und Mediation in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # 09 Vergleich und Mediation

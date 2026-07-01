@@ -1,6 +1,6 @@
 ---
 name: organhaftung-business-judgment
-description: "Organhaftung und Business Judgment Rule in der Bank: Vorstand, Aufsichtsrat, Ausschüsse, Informationsgrundlage, Interessenkonflikte, Dokumentation und D&O-Risiken prüfen im Bank-Rechtsabteilung."
+description: "Wenn es um Organhaftung in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Organhaftung

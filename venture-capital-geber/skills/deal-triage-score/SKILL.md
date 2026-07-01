@@ -1,6 +1,6 @@
 ---
 name: deal-triage-score
-description: "Bewertet frühe Deals nach Team, Markt, Traktion, Timing, Deal Terms, Recht, Kapitalbedarf, Signalqualität und VC-Fit im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Deal-Triage-Score in Venture Capital Geber geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deal-Triage-Score

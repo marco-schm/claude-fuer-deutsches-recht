@@ -1,6 +1,6 @@
 ---
 name: mitte-internationaler-bezug-und-schnittstellen
-description: "Mitte: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Mitte: Internationaler Bezug und Schnittstellen in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mitte Internationaler Bezug Und Schnittstellen; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Mitte: Internationaler Bezug und Schnittstellen

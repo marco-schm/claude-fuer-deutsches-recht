@@ -1,6 +1,6 @@
 ---
 name: dsv-benachrichtigung-art-34-betroffene
-description: "Erstellt das Benachrichtigungsschreiben an die von einer Datenschutzverletzung betroffenen Personen nach Art: 34 DSGVO. Behandelt: Pflichtinhalte n"
+description: "Wenn es um Dsv Benachrichtigung Art 34 Betroffene in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstellt das Benachrichtigungsschreiben an die von einer Datenschutzverletzung betroffenen Personen nach Art

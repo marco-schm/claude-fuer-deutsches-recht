@@ -1,6 +1,6 @@
 ---
 name: preussisches-allgemeines-landrecht
-description: "Deutsche Rechtsgeschichte: Preussisches Allgemeines Landrecht (ALR) von 1794. Entstehung unter Friedrich dem Grossen und Svarez, kasuistische Kodifikationstechnik, Inhalt und Scheitern als gesamtdeutsches Zivilrecht im Deutsche Rechtsgeschichte."
+description: "Wenn es um Preussisches Allgemeines Landrecht (ALR 1794) in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Preussisches Allgemeines Landrecht (ALR 1794)

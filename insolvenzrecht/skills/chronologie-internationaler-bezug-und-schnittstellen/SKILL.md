@@ -1,6 +1,6 @@
 ---
 name: chronologie-internationaler-bezug-und-schnittstellen
-description: "Chronologie: Internationaler Bezug und Schnittstellen im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
+description: "Wenn es um Chronologie: Internationaler Bezug und Schnittstellen in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie: Internationaler Bezug und Schnittstellen

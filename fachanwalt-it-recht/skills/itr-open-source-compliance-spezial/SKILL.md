@@ -1,6 +1,6 @@
 ---
 name: itr-open-source-compliance-spezial
-description: "Spezialfall Open-Source-Compliance: Copyleft GPL/AGPL/LGPL, Permissive MIT/Apache, SBOM: Prüfraster Embedded-Software, IoT, KI-Modelle. Mustertext Open-Source-Notice."
+description: "Wenn es um Itr Open Source Compliance Spezial in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Open-Source-Compliance: Copyleft GPL/AGPL/LGPL, Permissive MIT/Apache, SBOM

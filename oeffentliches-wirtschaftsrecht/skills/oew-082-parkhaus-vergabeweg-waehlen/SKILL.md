@@ -1,6 +1,6 @@
 ---
 name: oew-082-parkhaus-vergabeweg-waehlen
-description: "Öffentliches Wirtschaftsrecht: Parkhaus: Vergabeweg wählen. Vergabeweg wählen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Parkhaus Vergabeweg Waehlen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parkhaus Vergabeweg Waehlen

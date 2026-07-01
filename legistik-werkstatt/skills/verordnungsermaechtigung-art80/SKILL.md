@@ -1,6 +1,6 @@
 ---
 name: verordnungsermaechtigung-art80
-description: "Verordnungsermaechtigung nach Art. 80 Abs. 1 GG prüfen bevor Rechtsverordnung entworfen wird. Anwendungsfall geplante Rechtsverordnung und Anwalt oder Referent fragt ob Ermaechtigungsgrundlage genuegend bestimmt ist. Bestimmtheitstrias Inhalt Zweck Ausmass muessen im ermaechtigenden Gesetz stehen..."
+description: "Wenn es um Verordnungsermaechtigung Art. 80 GG in Legistik-Werkstatt geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verordnungsermaechtigung Art. 80 GG

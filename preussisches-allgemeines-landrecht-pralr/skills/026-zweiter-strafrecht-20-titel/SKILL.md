@@ -1,6 +1,6 @@
 ---
 name: 026-zweiter-strafrecht-20-titel
-description: "PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch

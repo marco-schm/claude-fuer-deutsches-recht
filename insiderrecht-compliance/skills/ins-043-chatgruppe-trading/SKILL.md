@@ -1,6 +1,6 @@
 ---
 name: ins-043-chatgruppe-trading
-description: "Spezialskill Insiderrecht fuer Chatgruppe Trading: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Chatgruppe Trading in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Chatgruppe Trading

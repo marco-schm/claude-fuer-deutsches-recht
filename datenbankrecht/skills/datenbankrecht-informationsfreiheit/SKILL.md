@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-informationsfreiheit
-description: "Datenbankrecht für Behörden und öffentliche Stellen: Behörden als Datenbankherstellerinnen nach § 87a UrhG, Verhältnis zu § 5 UrhG (amtliche Werke), IWG-Weiterverwendungspflichten, Open-Data-RL 2019/1024 und DSGVO-Anforderungen für Behördendatenbanken. Erstellt Datenbankrechte-Konzept für öffentl..."
+description: "Wenn es um Datenbankrecht für Behörden — Herstellerrecht und Weiterverwendungspflichten in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht für Behörden — Herstellerrecht und Weiterverwendungspflichten

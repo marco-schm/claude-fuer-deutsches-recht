@@ -1,6 +1,6 @@
 ---
 name: gw-einfuehrung-rechtsschutzwege
-description: "Gewerblicher Rechtsschutz einfuehrend: Markenrecht, UWG, Designrecht, Patentrecht, Geschaeftsgeheimnisschutz. Rechtsschutzwege einstweilige Verfuegung, Klage, Verbandsklage, Schiedsklage. Entscheidungstabelle."
+description: "Wenn es um GW: Rechtsschutzwege in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GW: Rechtsschutzwege

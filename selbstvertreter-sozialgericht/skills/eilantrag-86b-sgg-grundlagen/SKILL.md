@@ -1,6 +1,6 @@
 ---
 name: eilantrag-86b-sgg-grundlagen
-description: "Eilrechtsschutz nach § 86b SGG für Buerger. Aufschiebende Wirkung und einstweilige Anordnung. Anordnungsanspruch Anordnungsgrund existenzielle Leistungen Pflegegrad Buergergeld Krankenkasse."
+description: "Wenn es um Eilrechtsschutz beim Sozialgericht — Paragraf 86b SGG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Eilrechtsschutz beim Sozialgericht — § 86b SGG

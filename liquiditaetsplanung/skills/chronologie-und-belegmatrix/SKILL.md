@@ -1,6 +1,6 @@
 ---
 name: chronologie-und-belegmatrix
-description: "Chronologie und Belegmatrix der Liquiditätsplanung: Kontostände, OP-Listen, Fälligkeiten, Planannahmen, Krisenentscheidungen und Nachweisfähigkeit zusammenführen."
+description: "Wenn es um Chronologie und Belegmatrix Liquiditätsplanung in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie und Belegmatrix Liquiditätsplanung

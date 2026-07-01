@@ -1,6 +1,6 @@
 ---
 name: sprachtest-auslaenderrecht
-description: "Prüft Sprachprüfungen, Zertifikate, Anerkennung, Täuschungsvorwurf und Fristen im Prüfungsrecht Hochschule."
+description: "Wenn es um Sprachtest und Aufenthaltsrecht in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sprachtest und Aufenthaltsrecht

@@ -1,6 +1,6 @@
 ---
 name: nebenabrede-paragraf-58-vgv
-description: "Nebenabrede § 58 VgV: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Nebenabrede Paragraf 58 VgV in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nebenabrede § 58 VgV

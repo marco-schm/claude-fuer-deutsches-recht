@@ -1,6 +1,6 @@
 ---
 name: upstream-security-financial-assistance
-description: "Markiert Upstream Loan, Upstream Security, Upstream Guarantee, Financial Assistance, Kapitalerhaltung, Corporate Benefit und Organpflichten im Gesellschaftsrecht Legal English."
+description: "Wenn es um Upstream Security und Financial Assistance in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Upstream Security und Financial Assistance

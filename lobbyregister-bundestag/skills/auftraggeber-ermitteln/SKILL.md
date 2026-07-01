@@ -1,6 +1,6 @@
 ---
 name: auftraggeber-ermitteln
-description: "Erfasst Auftraggeberinnen und Auftraggeber bei Interessenvertretung im Auftrag Dritter und die jeweils beauftragte Interessenvertretung. Output Auftraggebermatrix im Lobbyregister Bundestag."
+description: "Wenn es um Auftraggeber ermitteln in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auftraggeber ermitteln

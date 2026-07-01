@@ -1,6 +1,6 @@
 ---
 name: dba-rumaenien
-description: "DBA Deutschland Rumaenien 2001. Anwendungsfall Automotive-Produktion IT Pflege Holding Beteiligungen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Rumaenien (2001) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Rumaenien (2001)

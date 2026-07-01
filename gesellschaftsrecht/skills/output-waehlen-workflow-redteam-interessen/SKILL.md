@@ -1,6 +1,6 @@
 ---
 name: output-waehlen-workflow-redteam-interessen
-description: "Output wählen: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung im Gesellschaftsrecht."
+description: "Wenn es um Output wählen in Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: obersatzbildung-wertungsoffen
-description: "Lehrt die methodisch korrekte Bildung wertungsoffener Obersätze für die juristische Gutachtentechnik im Zivilrecht. Das Skill zeigt, wie Obersätze so formuliert werden, dass sie das rechtliche Problem vollständig erfassen und einer wertungsoffenen Subsumtion zugänglich sind, ohne das Ergebnis vor..."
+description: "Wenn es um Obersatzbildung: Wertungsoffene Formulierung im Gutachten in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Obersatzbildung: Wertungsoffene Formulierung im Gutachten

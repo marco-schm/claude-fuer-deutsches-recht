@@ -1,6 +1,6 @@
 ---
 name: consent-request-pass-email-rechtsabteilung
-description: "Prüft Zustimmungsanfragen zu Budget, Debt, Hiring, IP, M&A, Related Party und Kapitalmaßnahmen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Consent Request Workflow in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Consent Request Workflow

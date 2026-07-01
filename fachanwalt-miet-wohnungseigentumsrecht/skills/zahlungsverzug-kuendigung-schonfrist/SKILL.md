@@ -1,6 +1,6 @@
 ---
 name: zahlungsverzug-kuendigung-schonfrist
-description: "Zahlungsverzug, Kündigung und Schonfrist: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Rückstandshöhe, Fälligkeit, Tilgung, Schonfristzahlung, hilfsweise ordent..."
+description: "Wenn es um Zahlungsverzug, Kündigung und Schonfrist: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zahlungsverzug, Kündigung und Schonfrist: Fachmodul im Miet- und Wohnungseigentumsrecht

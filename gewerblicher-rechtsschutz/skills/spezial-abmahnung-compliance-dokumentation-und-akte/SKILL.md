@@ -1,6 +1,6 @@
 ---
 name: spezial-abmahnung-compliance-dokumentation-und-akte
-description: "Abmahnung: Compliance-Dokumentation und Aktenvermerk im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Abmahnung: Compliance-Dokumentation und Aktenvermerk in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abmahnung: Compliance-Dokumentation und Aktenvermerk

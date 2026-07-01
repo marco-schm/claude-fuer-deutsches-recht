@@ -1,6 +1,6 @@
 ---
 name: dokumentenintake-und-aktenlog
-description: "Dokumentenintake und Aktenlog: erklärt ordnet Uploads, Eingangspost, Aktenbestandteile und fehlende Unterlagen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung."
+description: "Wenn es um Dokumentenintake und Aktenlog in Schöffen und Handelsrichter Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Dokumentenintake und Aktenlog

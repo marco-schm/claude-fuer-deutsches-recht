@@ -1,6 +1,6 @@
 ---
 name: fruehere-interessenvertretung
-description: "Führt durch Anzeige, dass keine registrierungspflichtige Interessenvertretung mehr betrieben wird, sowie Archivierung und Monitoring der Liste frueherer Eintraege. Output Exit-Akte im Lobbyregister Bundestag."
+description: "Wenn es um Exit und fruehere Interessenvertretung in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Exit und fruehere Interessenvertretung

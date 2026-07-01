@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf
-description: "Workflow-Skill zu fachanwalt versicherungsrecht lebensversicherung rueckkauf. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Wenn es um Lebensversicherung Rückkauf in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lebensversicherung Rückkauf

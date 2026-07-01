@@ -1,6 +1,6 @@
 ---
 name: sprachlektorat-stil-tonalitaet
-description: "Verbessert Sprache, Stil, Tonalitaet, Satzbau, Lesbarkeit, Gender- und Hausstilfragen für juristische und fachliche Verlagstexte im Verlagsredaktion."
+description: "Wenn es um Sprachlektorat und Stil in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sprachlektorat und Stil

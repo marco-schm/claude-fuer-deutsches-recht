@@ -1,6 +1,6 @@
 ---
 name: kaltstart-schuldenbild-glaeubiger-sofortschutz
-description: "Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.; Normanker: InsO §§ 304-314 und 286-303; ZPO §§ 850 ff.; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und..."
+description: "Wenn es um Kaltstart Schuldenbild Glaeubiger Sofortschutz in Verbraucherinsolvenz und Schuldenbereinigung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.

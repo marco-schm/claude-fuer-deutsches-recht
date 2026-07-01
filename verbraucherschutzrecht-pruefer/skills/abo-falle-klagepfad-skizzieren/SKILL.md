@@ -1,6 +1,6 @@
 ---
 name: abo-falle-klagepfad-skizzieren
-description: "Prüfer: Abo-Falle: Klagepfad skizzieren im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Abo Falle Klagepfad Skizzieren in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Abo Falle Klagepfad Skizzieren

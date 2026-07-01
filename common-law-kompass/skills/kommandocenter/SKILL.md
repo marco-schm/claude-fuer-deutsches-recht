@@ -1,6 +1,6 @@
 ---
 name: kommandocenter
-description: "Kanzlei startet Common-Law- UK- US- oder bilinguales Drafting-Mandat und braucht strukturierten Einstieg. Jurisdiktionscheck False-Friends-Scan Arbeitsplan. Prüfraster Jurisdiktion-Identifikation Primaeranliegen-Erfassung Skill-Routing. Output Mandat-Karte Jurisdiktion-Check Arbeitsplan. Abgrenzu..."
+description: "Wenn es um Common-Law-Kommandocenter in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Common-Law-Kommandocenter

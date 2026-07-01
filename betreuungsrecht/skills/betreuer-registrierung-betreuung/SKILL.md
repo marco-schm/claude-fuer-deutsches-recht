@@ -1,6 +1,6 @@
 ---
 name: betreuer-registrierung-betreuung
-description: "Betreuer Als Erbe: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Betreuungsrecht."
+description: "Wenn es um Betreuer als Erbe und Beschenkter in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuer Registrierung Betreuung; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Betreuer als Erbe und Beschenkter

@@ -1,6 +1,6 @@
 ---
 name: forderung-mietruckstand-zahlungsklage
-description: "Mietrueckstand: Zahlungsklage parallel zur Raeumungsklage mit Wohnraum-Sonderzustaendigkeit nach Paragraf 23 Nummer 2a GVG, Schonfrist nach Paragraf 569 Absatz 3 BGB und Gewerberaum-Weiche nach Paragraf 23 Nummer 1 und Paragraf 71 Absatz 1 GVG."
+description: "Wenn es um Mietrueckstands-Klage in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietrueckstands-Klage

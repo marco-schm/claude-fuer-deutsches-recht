@@ -1,6 +1,6 @@
 ---
 name: orientierung-mandat-fachanwaltschaft
-description: "Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO: Anwendungsfall Kanzlei will IT-Mandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung IT-Recht vor. Normen DS..."
+description: "Wenn es um Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO

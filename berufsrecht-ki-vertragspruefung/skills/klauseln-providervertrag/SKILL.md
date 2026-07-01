@@ -1,6 +1,6 @@
 ---
 name: klauseln-providervertrag
-description: "Liefere konkrete Mustertexte für Vertragsklauseln mit dem KI-Anbieter. Bausteine Verschwiegenheit Belehrung §§ 203 204 StGB Subunternehmer no training Zero-Retention EU-Hosting Audit-Recht Löschkonzept Professional Secrecy Addendum für US-Anbieter Gerichtsstand Anlage Normtext. Bausteine sind Vor"
+description: "Wenn es um Klauselvorschläge — Bausteine in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Klauseln Providervertrag."
 ---
 
 # Klauselvorschläge — Bausteine

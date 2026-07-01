@@ -1,6 +1,6 @@
 ---
 name: robot-as-a-service-vertrag
-description: "Entwirft und prüft Robot-as-a-Service-Verträge: Leistungsbeschreibung, SLA, Updates, Daten, Haftung, Wartung, Exit und Versicherung."
+description: "Wenn es um Robot-as-a-Service-Vertrag in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Robot-as-a-Service-Vertrag

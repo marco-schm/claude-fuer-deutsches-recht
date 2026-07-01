@@ -1,6 +1,6 @@
 ---
 name: agrarflaeche-erwerbsbeschraenkung-paragraf-9-grdstvg-hofstelle
-description: "Genehmigungspflicht Agrarflaechenverkauf an Investor mit Paragraf 9 GrdstVG und BGH BLw 2/16 Vorkaufsrecht Siedlungsunternehmen. Prüfraster Versagungsgrund Vorkaufsrecht Aufstockungsbetrieb."
+description: "Wenn es um Agrarflaeche Erwerbsbeschraenkung Paragraf 9 Grdstvg Hofstelle in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agrarflaeche Erwerbsbeschraenkung Paragraf 9 Grdstvg Hofstelle

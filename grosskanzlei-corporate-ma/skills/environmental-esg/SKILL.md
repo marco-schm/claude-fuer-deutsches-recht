@@ -1,6 +1,6 @@
 ---
 name: environmental-esg
-description: "Environmental, ESG und Compliance DD für M&A: prüft Umweltgenehmigungen, Lieferketten, Sanktionen, Anti-Korruption, ESG-Offenlegung und Reputationsrisiken."
+description: "Wenn es um Environmental ESG Compliance DD in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Environmental ESG Compliance DD

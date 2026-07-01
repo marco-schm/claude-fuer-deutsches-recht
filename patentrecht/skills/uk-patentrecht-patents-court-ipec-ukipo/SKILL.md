@@ -1,6 +1,6 @@
 ---
 name: uk-patentrecht-patents-court-ipec-ukipo
-description: "Routet UK-Patentfragen: UKIPO Register, Patents Court, IPEC, opinions service, revocation, declaration of non-infringement, quia timet injunction und Kostenrisiko im Patentrecht."
+description: "Wenn es um UK: UKIPO, Patents Court und IPEC in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # UK: UKIPO, Patents Court und IPEC

@@ -1,6 +1,6 @@
 ---
 name: treuhaender-kommunikation
-description: "Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten: Normanker: InsO §§ 80 und 292 und 295;..."
+description: "Wenn es um Treuhaender Kommunikation in Verbraucherinsolvenz und Schuldenbereinigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten.

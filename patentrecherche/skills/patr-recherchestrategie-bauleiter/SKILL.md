@@ -1,6 +1,6 @@
 ---
 name: patr-recherchestrategie-bauleiter
-description: "Bauleiter Patentrecherche-Strategie: Stichwort- und Klassifikationssuche, IPC und CPC, Volltext und Familien. Prüfraster für Neuheits- und Freedom-to-Operate-Recherche im Patentrecherche."
+description: "Wenn es um PatR: Recherchestrategie in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PatR: Recherchestrategie

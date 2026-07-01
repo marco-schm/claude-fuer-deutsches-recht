@@ -1,6 +1,6 @@
 ---
 name: grossprojekt-zahlen-schwellen-und-berechnung
-description: "Grossprojekt: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Grossprojekt: Zahlen, Schwellenwerte und Berechnung in Verkehrs- und Infrastrukturrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Grossprojekt: Zahlen, Schwellenwerte und Berechnung

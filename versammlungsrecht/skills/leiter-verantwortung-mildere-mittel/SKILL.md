@@ -1,6 +1,6 @@
 ---
 name: leiter-verantwortung-mildere-mittel
-description: "Erklärt Rolle, Rechte und Pflichten der Versammlungsleitung vor, während und nach der Versammlung im Versammlungsrecht."
+description: "Wenn es um Leitung ist nicht Befehlsempfänger der Polizei in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leitung ist nicht Befehlsempfänger der Polizei

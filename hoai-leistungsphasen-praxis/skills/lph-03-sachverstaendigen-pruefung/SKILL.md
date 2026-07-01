@@ -1,6 +1,6 @@
 ---
 name: lph-03-sachverstaendigen-pruefung
-description: "HOAI LPH 3 Entwurfsplanung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 3 Entwurfsplanung: Übersetzt den lph-stand in gutachterfragen und prüfspur in HOAI Leistungsphasen Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # LPH 3 Entwurfsplanung: Übersetzt den lph-stand in gutachterfragen und prüfspur

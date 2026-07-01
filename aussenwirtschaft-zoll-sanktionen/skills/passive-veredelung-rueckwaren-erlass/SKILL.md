@@ -1,6 +1,6 @@
 ---
 name: passive-veredelung-rueckwaren-erlass
-description: "Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Beantragung der Bewilligung beim Hauptzollamt, Abgabenprivileg für Veredelungserzeugnisse, Ausgleichserzeugnisse, Warenidentitaet, Frist und Zollwertberechnungsmethoden (Abzugsmethode). Output: Bewilligungsantrag und Zollwert-Berechnun..."
+description: "Wenn es um Passive Veredelung: Bewilligung, Warenidentitaet und Zollwertberechnung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Passive Veredelung: Bewilligung, Warenidentitaet und Zollwertberechnung

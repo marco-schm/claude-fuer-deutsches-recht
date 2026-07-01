@@ -1,6 +1,6 @@
 ---
 name: verhandlungsposition-und-fallbacks
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verhandlungsposition Und Fallbacks; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Verhandlungsposition Und Fallbacks in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Verhandlungsposition Und Fallbacks

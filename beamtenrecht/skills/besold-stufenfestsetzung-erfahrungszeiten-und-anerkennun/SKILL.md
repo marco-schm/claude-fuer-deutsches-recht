@@ -1,6 +1,6 @@
 ---
 name: besold-stufenfestsetzung-erfahrungszeiten-und-anerkennun
-description: "Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung im Beamtenrecht."
+description: "Wenn es um Besold Stufenfestsetzung Erfahrungszeiten Und Anerkennun in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besold Stufenfestsetzung Erfahrungszeiten Und Anerkennun

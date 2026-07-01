@@ -1,6 +1,6 @@
 ---
 name: pacht-abgrenzung
-description: "Pacht vs: Miete: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Fruchtziehung, Inventar, Betrieb, Kündigungsregime und Vertragsauslegung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Pacht vs in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pacht vs

@@ -1,6 +1,6 @@
 ---
 name: parteienrolle-klaeren-lizenzgeber-nehmer-sicherheiten-verwahrer
-description: "Rollenmatrix fuer Lizenzvertraege: Lizenzgeber, Lizenznehmer, Sicherheitengeber, Sicherheitennehmer, Verwahrer (Source-Code-Escrow), Konzernlizenzen, Cross-License. Mit Klärungs-Checkliste pro Rolle."
+description: "Wenn es um Parteienrollen klären in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Parteienrollen klären

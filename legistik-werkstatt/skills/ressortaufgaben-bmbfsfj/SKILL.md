@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmbfsfj
-description: "Ressortaufgaben BMBFSFJ: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium für Bildung; Familie; Senioren; Frauen und Jugend. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestags..."
+description: "Wenn es um Ressortaufgaben BMBFSFJ in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressortaufgaben BMBFSFJ

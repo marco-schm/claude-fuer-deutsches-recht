@@ -1,6 +1,6 @@
 ---
 name: kv-073-private-krankenversicherung-kuendigung-wechsel-schulden
-description: "Krankenversicherung: Private Krankenversicherung Kündigung Wechsel und Schulden mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Private Krankenversicherung Kündigung Wechsel und Schulden in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Private Krankenversicherung Kündigung Wechsel und Schulden

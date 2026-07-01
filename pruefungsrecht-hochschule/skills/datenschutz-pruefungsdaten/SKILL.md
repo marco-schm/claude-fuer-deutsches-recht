@@ -1,6 +1,6 @@
 ---
 name: datenschutz-pruefungsdaten
-description: "Prüft Datenschutz bei Prüfungsdaten. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Datenschutz Pruefungsdaten in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz Pruefungsdaten

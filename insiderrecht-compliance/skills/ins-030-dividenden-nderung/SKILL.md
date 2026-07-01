@@ -1,6 +1,6 @@
 ---
 name: ins-030-dividenden-nderung
-description: "Spezialskill Insiderrecht fuer Dividendenänderung: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Dividendenänderung in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Dividendenänderung

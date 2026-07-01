@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-prozess
-description: "Einfuehrung Prozess Vertragsausfueller: vom Mandanteninterview ueber Variableninventar zum Template, Klauselentscheidung, Plausibilitaetscheck, Quality Gate. Schaubild und Reihenfolge der Sub-Skills im Vertragsausfueller."
+description: "Wenn es um VAF: Prozess einfuehrend in Vertragsausfüller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # VAF: Prozess einfuehrend

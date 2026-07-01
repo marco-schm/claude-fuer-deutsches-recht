@@ -1,6 +1,6 @@
 ---
 name: reserve-litigation-rfp-kanzleiauswahl-risk
-description: "Reserve Litigation Risk: steuert Rückstellung und Prozessrisiko so formulieren, dass Legal und Finance beide damit arbeiten können zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Reserve Litigation Risk in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reserve Litigation Risk

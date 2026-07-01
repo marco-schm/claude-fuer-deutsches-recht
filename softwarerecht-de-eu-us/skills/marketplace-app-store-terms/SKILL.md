@@ -1,6 +1,6 @@
 ---
 name: marketplace-app-store-terms
-description: "Prüft App-Store-, Cloud-Marketplace- und Plattformbedingungen für Softwareanbieter und Unternehmenskunden im Softwarerecht De Eu Us."
+description: "Wenn es um Marketplace und App-Store Terms in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Marketplace und App-Store Terms

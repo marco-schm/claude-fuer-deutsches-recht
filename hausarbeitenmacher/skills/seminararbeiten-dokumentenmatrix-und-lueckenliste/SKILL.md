@@ -1,6 +1,6 @@
 ---
 name: seminararbeiten-dokumentenmatrix-und-lueckenliste
-description: "Seminararbeiten: Dokumentenmatrix, Lückenliste und Nachforderung im Hausarbeitenmacher."
+description: "Wenn es um Seminararbeiten: Dokumentenmatrix, Lückenliste und Nachforderung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Seminararbeiten: Dokumentenmatrix, Lückenliste und Nachforderung

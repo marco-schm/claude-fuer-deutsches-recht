@@ -1,6 +1,6 @@
 ---
 name: vorabinformation-protective-zulaessige
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Vorabinformation Und Protective Order; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Vorabinformation Und Protective Order in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vorabinformation Und Protective Order

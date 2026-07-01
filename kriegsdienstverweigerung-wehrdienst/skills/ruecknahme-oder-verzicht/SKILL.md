@@ -1,6 +1,6 @@
 ---
 name: ruecknahme-oder-verzicht
-description: "Erklärt Rücknahme eines Antrags oder Verzicht auf Anerkennung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Rücknahme oder Verzicht in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rücknahme oder Verzicht

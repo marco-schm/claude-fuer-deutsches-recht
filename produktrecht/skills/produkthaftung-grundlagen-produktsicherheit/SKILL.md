@@ -1,6 +1,6 @@
 ---
 name: produkthaftung-grundlagen-produktsicherheit
-description: "Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/2853 im Produktrecht."
+description: "Wenn es um Produkthaftung: Grundlagen, digitales Produkt und Lifecycle in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Produkthaftung: Grundlagen, digitales Produkt und Lifecycle

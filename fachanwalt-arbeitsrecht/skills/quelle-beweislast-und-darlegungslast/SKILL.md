@@ -1,6 +1,6 @@
 ---
 name: quelle-beweislast-und-darlegungslast
-description: "Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG Paragraf 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze: Quellenregel, Bewei..."
+description: "Wenn es um Quelle Beweislast Und Darlegungslast in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG Paragraf 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze.

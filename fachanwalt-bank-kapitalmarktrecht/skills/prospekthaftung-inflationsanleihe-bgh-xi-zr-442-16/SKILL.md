@@ -1,6 +1,6 @@
 ---
 name: prospekthaftung-inflationsanleihe-bgh-xi-zr-442-16
-description: "Prospekthaftung inflationsindexierte Anleihe Paragraf 21 WpPG mit BGH XI ZR 442/16."
+description: "Wenn es um Prospekthaftung Inflationsanleihe BGH Xi Zr 442 16 in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prospekthaftung Inflationsanleihe BGH Xi Zr 442 16

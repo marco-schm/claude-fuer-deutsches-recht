@@ -1,6 +1,6 @@
 ---
 name: ip-indemnity
-description: "Prüft Freistellungen für IP Claims, Open Source, Patente, Third-Party-Code, Remedies und Kontrolle der Verteidigung im Softwarerecht De Eu Us."
+description: "Wenn es um IP-Indemnity Software in Softwarerecht Deutschland/EU/International/USA geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # IP-Indemnity Software

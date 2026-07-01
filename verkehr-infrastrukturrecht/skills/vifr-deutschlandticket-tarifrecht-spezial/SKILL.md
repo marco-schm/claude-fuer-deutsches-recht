@@ -1,6 +1,6 @@
 ---
 name: vifr-deutschlandticket-tarifrecht-spezial
-description: "Spezialfall Deutschlandticket und Tarifrecht OePNV: Finanzierungsvereinbarungen Bund-Länder, AGB Verkehrsverbund, Verbraucherrechte. Prüfraster für Verbraucherzentrale und Verkehrsverbund im Verkehr Infrastrukturrecht."
+description: "Wenn es um ViFR: Deutschlandticket Tarifrecht in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ViFR: Deutschlandticket Tarifrecht

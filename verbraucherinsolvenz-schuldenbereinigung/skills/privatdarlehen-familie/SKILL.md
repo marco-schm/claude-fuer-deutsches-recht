@@ -1,6 +1,6 @@
 ---
 name: privatdarlehen-familie
-description: "Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote: Normanker: InsO Forderungsanmeldung; BGB Darleh..."
+description: "Wenn es um Privatdarlehen Familie in Verbraucherinsolvenz und Schuldenbereinigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote.

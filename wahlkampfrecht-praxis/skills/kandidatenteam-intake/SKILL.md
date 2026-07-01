@@ -1,6 +1,6 @@
 ---
 name: kandidatenteam-intake
-description: "Wahlkampfrecht Praxis: Kandidatenteam aufnehmen und biografische, digitale und organisatorische Schwachstellen erkennen im Wahlkampfrecht."
+description: "Wenn es um Kandidatenteam Intake in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kandidatenteam Intake

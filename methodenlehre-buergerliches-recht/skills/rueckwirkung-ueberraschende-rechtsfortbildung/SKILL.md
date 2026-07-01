@@ -1,6 +1,6 @@
 ---
 name: rueckwirkung-ueberraschende-rechtsfortbildung
-description: "Prüft Rueckwirkung, Vertrauensschutz und Ueberraschung bei neuer Auslegung oder Rechtsfortbildung im Zivilrecht mit Art. 20 Abs. 3 GG, Dispositionsschutz und Prozessstrategie."
+description: "Wenn es um Rückwirkung und überraschende Rechtsfortbildung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rückwirkung und überraschende Rechtsfortbildung

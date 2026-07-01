@@ -1,6 +1,6 @@
 ---
 name: presserecht-richtigstellung
-description: "Wahlkampfrecht Praxis: Richtigstellung, Gegendarstellung und Unterlassung im Wahlkampf einordnen im Wahlkampfrecht."
+description: "Wenn es um Presserecht Richtigstellung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Presserecht Richtigstellung

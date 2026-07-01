@@ -1,6 +1,6 @@
 ---
 name: data-act-bei-backup-export
-description: "Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im Verhältnis zum Datenbankherstellerrecht: Art. 4-8 Data Act (Nutzerzugangsrechte), Art. 17 (Wechselrecht Cloud), Verhältnis zu §§ 87a-87e UrhG, Betriebs- und Geschäftsgeheimnisschutz als Grenze und DSGVO-Schnittmenge. Erstellt Compliance-Konzep..."
+description: "Wenn es um Data Act und Zugang zu IoT-Daten — Verhältnis zum Datenbankherstellerrecht in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Data Act und Zugang zu IoT-Daten — Verhältnis zum Datenbankherstellerrecht

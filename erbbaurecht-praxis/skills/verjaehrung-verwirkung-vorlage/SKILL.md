@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-verwirkung-vorlage
-description: "Prüft, ob lange geduldete Nutzungen, verspätete Zinsforderungen oder alte Pflichtverletzungen noch durchsetzbar sind und welche Beweislage gebraucht wird im Erbbaurecht Praxis."
+description: "Wenn es um Verjährung, Verwirkung und Duldung in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Verjährung, Verwirkung und Duldung

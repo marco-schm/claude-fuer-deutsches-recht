@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-transport-speditionsrecht
-description: "Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs: international. Normen: §§ 407 454 HGB, CMR. Prüfraster: Vertragstyp, Schadens..."
+description: "Wenn es um Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs in Fachanwalt Transport Speditionsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs

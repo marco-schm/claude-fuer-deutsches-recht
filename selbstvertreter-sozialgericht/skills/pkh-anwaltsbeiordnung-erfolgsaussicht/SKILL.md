@@ -1,6 +1,6 @@
 ---
 name: pkh-anwaltsbeiordnung-erfolgsaussicht
-description: "Erfolgsaussicht in der PKH-Prüfung. Wann bewilligt das SG PKH wann nicht. Mutwilligkeit Beweise Klagebegründung als Hebel. Tipps für den Buerger ohne Anwalt."
+description: "Wenn es um PKH-Bewilligung — die Erfolgsaussicht in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PKH-Bewilligung — die Erfolgsaussicht

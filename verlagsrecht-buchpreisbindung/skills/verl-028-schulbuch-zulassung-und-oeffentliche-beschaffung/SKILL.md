@@ -1,6 +1,6 @@
 ---
 name: verl-028-schulbuch-zulassung-und-oeffentliche-beschaffung
-description: "Verlagsrecht: Schulbuch Zulassung und öffentliche Beschaffung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Schulbuch Zulassung und öffentliche Beschaffung in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Schulbuch Zulassung und öffentliche Beschaffung

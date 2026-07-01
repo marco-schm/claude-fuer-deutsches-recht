@@ -1,6 +1,6 @@
 ---
 name: 018-erster-teil-titel-15-buergschaft-pfand-und-sicherh
-description: "PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Pralr Erster Teil Titel 15 Buergschaft Pfand Und Sicherh in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Erster Teil Titel 15 Buergschaft Pfand Und Sicherh

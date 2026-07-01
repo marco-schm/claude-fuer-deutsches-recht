@@ -1,6 +1,6 @@
 ---
 name: internationales-versicherungsprogramm-master-local-policy
-description: "Master Policy, Local Policy, admitted/non-admitted insurance, Claims Handling und internationale Deckungskoordination prüfen im Versicherungsrecht."
+description: "Wenn es um Internationale Versicherungsprogramme: Master und Local Policy in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationale Versicherungsprogramme: Master und Local Policy

@@ -1,6 +1,6 @@
 ---
 name: direktanspruch-pflichtversicherung-eiopa
-description: "Direktanspruch gegen Haftpflichtversicherer: Pflichtversicherung, Geschädigter, Insolvenz, Kfz, Berufshaftpflicht, Deckungsgrenzen und Einwendungen im Versicherungsrecht."
+description: "Wenn es um Direktanspruch in Pflichtversicherung Paragraf 115 VVG in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Direktanspruch in Pflichtversicherung § 115 VVG

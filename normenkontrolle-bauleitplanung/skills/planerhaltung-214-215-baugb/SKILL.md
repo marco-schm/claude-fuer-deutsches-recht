@@ -1,6 +1,6 @@
 ---
 name: planerhaltung-214-215-baugb
-description: "Gemeinde oder Vorhabentraeger prüft ob erkannte Planfehler zur Unwirksamkeit führen oder durch Planerhaltung geheilt werden. §§ 214 215 BauGB Planerhaltung und Ruegefrist. Prüfraster: § 214 Abs. 1 bis 3 beachtliche Fehler § 215 BauGB Ruegefrist ein Jahr ab Bekanntmachung schriftliche Ruege an Gem..."
+description: "Wenn es um Planerhaltung — Paragraf 214/215 BauGB in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Planerhaltung — § 214/215 BauGB

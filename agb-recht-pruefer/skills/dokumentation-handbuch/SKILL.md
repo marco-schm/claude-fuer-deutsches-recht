@@ -1,6 +1,6 @@
 ---
 name: dokumentation-handbuch
-description: "Klausel-Fachmodul für Dokumentation Handbuch: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um Dokumentation Handbuch in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentation Handbuch

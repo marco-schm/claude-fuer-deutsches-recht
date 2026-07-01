@@ -1,6 +1,6 @@
 ---
 name: spezial-interaktiver-erstpruefung-und-mandatsziel
-description: "Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: chn-076-exit-plan-china-operations
-description: "Festlandchina Wirtschaftsverkehr: Exit Plan China Operations. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Exit Plan China Operations in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exit Plan China Operations

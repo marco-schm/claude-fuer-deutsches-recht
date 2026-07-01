@@ -1,6 +1,6 @@
 ---
 name: notruf-online
-description: "Akute Gefahr, laufende Tat, Selbst-/Fremdgefährdung: Sofort Polizei/112/110 statt Entwurf im Strafanzeige-Vorbereitung."
+description: "Wenn es um Akute Gefahr: Notruf statt Plugin in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Akute Gefahr: Notruf statt Plugin

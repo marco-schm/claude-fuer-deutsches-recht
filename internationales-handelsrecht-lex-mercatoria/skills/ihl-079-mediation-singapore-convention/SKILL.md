@@ -1,6 +1,6 @@
 ---
 name: ihl-079-mediation-singapore-convention
-description: "Internationales Handelsrecht und Lex Mercatoria: Mediation Singapore Convention. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Mediation Singapore Convention in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mediation Singapore Convention

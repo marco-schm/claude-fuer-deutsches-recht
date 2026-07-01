@@ -1,6 +1,6 @@
 ---
 name: upc-unified-patent-court-spezial
-description: "Unified Patent Court UPC seit 2023 Spezial: Zuständigkeit, Opt-out, Klage- und Nichtigkeitsverfahren, Local und Central Division, Pace und Sprache, Schadensersatz, Bifurcation: Unified Patent Court UPC seit 2023 Spezial: Zuständigkeit, Opt-out, Klage- und N..."
+description: "Wenn es um Upc Unified Patent Court Spezial in patentrecherche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Unified Patent Court UPC seit 2023 Spezial: Zuständigkeit, Opt-out, Klage- und Nichtigkeitsverfahren, Local und Central Division, Pace und Sprache, Schadensersatz, Bifurcation

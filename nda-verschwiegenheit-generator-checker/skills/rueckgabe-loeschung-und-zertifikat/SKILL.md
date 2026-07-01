@@ -1,6 +1,6 @@
 ---
 name: rueckgabe-loeschung-und-zertifikat
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Rueckgabe Loeschung Und Zertifikat; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Rueckgabe Loeschung Und Zertifikat in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rueckgabe Loeschung Und Zertifikat

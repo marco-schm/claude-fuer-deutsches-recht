@@ -1,6 +1,6 @@
 ---
 name: bauherrnentscheidung-matrix
-description: "HOAI-Praxis: macht Entscheidungen beweisbar, datiert und kostenbewusst; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um HOAI Querschnitt: Macht entscheidungen beweisbar in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # HOAI Querschnitt: Macht entscheidungen beweisbar

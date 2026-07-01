@@ -1,6 +1,6 @@
 ---
 name: stellungnahmen-gutachten-suche-open
-description: "Prüft Bereitstellungspflicht für grundlegende Stellungnahmen oder Gutachten zu Regelungsvorhaben und Quartalsfrist. Norm § 3 LobbyRG. Output Upload-Log im Lobbyregister Bundestag."
+description: "Wenn es um Stellungnahmen und Gutachten Upload in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stellungnahmen und Gutachten Upload

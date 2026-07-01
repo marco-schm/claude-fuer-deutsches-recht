@@ -1,6 +1,6 @@
 ---
 name: verfahrensart-rechtsweg-zustaendigkeit
-description: "Verfahrensart, Rechtsweg und Zuständigkeit als Startweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Prozessrecht."
+description: "Wenn es um Verfahrensart, Rechtsweg und Zuständigkeit als Startweiche in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verfahrensart, Rechtsweg und Zuständigkeit als Startweiche

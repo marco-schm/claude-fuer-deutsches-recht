@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Verlagsredaktion: stimmt Adressat (Verlag, Autor, Redakteur), Frist (Gegendarstellungsanspruch unverzüglich) und Form auf den Zweck ab — typische Outputs: Verlagsvertrag, Pressemitteilung, Gegendarstellung."
+description: "Wenn es um Output wählen in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

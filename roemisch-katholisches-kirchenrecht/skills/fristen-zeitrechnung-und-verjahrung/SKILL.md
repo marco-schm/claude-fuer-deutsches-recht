@@ -1,6 +1,6 @@
 ---
 name: fristen-zeitrechnung-und-verjahrung
-description: "Fristen, Zeitrechnung und Verjährung: Rekursfristen, Verjährung und preskriptive Effekte; CIC can. 200-203 und 197-199; KKK 1950-1974; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen,..."
+description: "Wenn es um Fristen, Zeitrechnung und Verjährung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen, Zeitrechnung und Verjährung

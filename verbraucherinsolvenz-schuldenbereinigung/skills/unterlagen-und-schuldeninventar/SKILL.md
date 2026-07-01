@@ -1,6 +1,6 @@
 ---
 name: unterlagen-und-schuldeninventar
-description: "Unterlagen- und Schuldeninventar: Gläubiger, Forderungsgrund, Titel, Inkasso, Vollstreckung, Sicherheiten und bestrittene Forderungen beweisfest erfassen.; Normanker: InsO § 305 Abs. 1; InsO §§ 174 ff.; ZPO Vollstreckungstitel; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textb..."
+description: "Wenn es um Unterlagen Und Schuldeninventar in Verbraucherinsolvenz und Schuldenbereinigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Unterlagen- und Schuldeninventar: Gläubiger, Forderungsgrund, Titel, Inkasso, Vollstreckung, Sicherheiten und bestrittene Forderungen beweisfest erfassen.

@@ -1,6 +1,6 @@
 ---
 name: epo-opposition-strategie
-description: "EPO-Einspruch (Opposition) Strategie: 9-Monatsfrist nach Erteilung, Einspruchsgruende Art. 100 EPC, schriftliches Verfahren, muendliche Verhandlung, Beschwerde Boards of Appeal. Beispieltaktiken und Erfolgsfaktoren. Mustertexte für Einspruchsschriftsatz im Patentrecherche."
+description: "Wenn es um EPO-Einspruch: Strategie in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EPO-Einspruch: Strategie

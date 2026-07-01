@@ -1,6 +1,6 @@
 ---
 name: fertigstellungssicherheit-650m-pruefen
-description: "Prueft die Pflicht des Bautraegers zur Gewaehrung einer Sicherheit von fuenf Prozent nach Paragraf 650m Absatz 2 BGB bei der ersten Abschlagszahlung. Paragraf 650u Absatz 2 BGB schliesst diese Norm nicht aus. Fehlt oder reduziert die Sicherheit, ist zusaetzlich Paragraf 309 Nummer 15 BGB zu pruefen."
+description: "Wenn es um Fertigstellungssicherheit Paragraf 650m Absatz 2 BGB prüfen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Fertigstellungssicherheit Paragraf 650m Absatz 2 BGB prüfen

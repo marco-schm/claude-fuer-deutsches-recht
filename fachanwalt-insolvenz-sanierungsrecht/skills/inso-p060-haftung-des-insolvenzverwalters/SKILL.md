@@ -1,6 +1,6 @@
 ---
 name: inso-p060-haftung-des-insolvenzverwalters
-description: "§ 60 InsO (Haftung des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 60 InsO (Haftung des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Recht..."
+description: "Wenn es um Inso P060 Haftung Des Insolvenzverwalters in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 60 InsO (Haftung des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: eurodac-treffer
-description: "EURODAC-Treffer: Fachmodul im Migrationsrecht: prüft Trefferart, Datum, Mitgliedstaat, Datenschutz, Zuständigkeit; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um EURODAC-Treffer: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EURODAC-Treffer: Fachmodul im Migrationsrecht

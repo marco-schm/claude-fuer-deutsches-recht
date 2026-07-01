@@ -1,6 +1,6 @@
 ---
 name: zollwert-unionszollkodex
-description: "Praxisbearbeitung zollrechtlicher Mandate — Tarifierung Art. 56 UZK Zollwert Art. 70 ff. UZK Praeferenzen und Zollverfahren. Anwendungsfall Importeur erhaelt Nacherhebung wegen falscher Tarifierung oder das Hauptzollamt setzt einen erhoehten Zollwert fest. Behandelt Transaktionswertmethode Folgem..."
+description: "Wenn es um Zollwert und Tarifierung — Unionszollkodex (UZK) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zollwert und Tarifierung — Unionszollkodex (UZK)

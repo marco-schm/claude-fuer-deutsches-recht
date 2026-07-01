@@ -1,6 +1,6 @@
 ---
 name: schnittstelle-internationaler-bezug-und-schnittstellen
-description: "Schnittstelle: Internationaler Bezug und Schnittstellen: Schnittstelle: Internationaler Bezug und Schnittstellen."
+description: "Wenn es um Schnittstelle: Internationaler Bezug und Schnittstellen in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schnittstelle: Internationaler Bezug und Schnittstellen

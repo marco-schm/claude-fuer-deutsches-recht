@@ -1,6 +1,6 @@
 ---
 name: ausschuss-beschluss-bauen
-description: "der Länder: Ausschuss: Beschluss bauen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Ausschuss Beschluss Bauen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausschuss Beschluss Bauen

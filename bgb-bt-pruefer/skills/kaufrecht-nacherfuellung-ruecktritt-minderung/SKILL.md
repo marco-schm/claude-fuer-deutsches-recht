@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-nacherfuellung-ruecktritt-minderung
-description: "Prüft Nacherfüllung § 439 BGB, Rücktritt § 437 Nr. 2 BGB, Minderung, Schadensersatz, Beweislast für den Sachmangel bei Gefahrübergang und die B2C/B2B-Weiche zwischen § 477 BGB und § 377 HGB."
+description: "Wenn es um Kaufrecht: Nacherfüllung, Rücktritt und Minderung in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaufrecht: Nacherfüllung, Rücktritt und Minderung

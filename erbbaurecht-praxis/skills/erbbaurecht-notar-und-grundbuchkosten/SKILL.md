@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-notar-und-grundbuchkosten
-description: "Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragung, Belastung, Löschung, Heimfall und Zwangsversteigerung und erklärt sie mandantenverständlich im Erbbaurecht Praxis."
+description: "Wenn es um Notar-, Grundbuch- und Transaktionskosten in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Notar-, Grundbuch- und Transaktionskosten

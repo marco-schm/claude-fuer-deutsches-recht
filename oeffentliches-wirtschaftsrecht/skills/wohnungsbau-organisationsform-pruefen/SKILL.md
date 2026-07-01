@@ -1,6 +1,6 @@
 ---
 name: wohnungsbau-organisationsform-pruefen
-description: "Wohnungsbau: Organisationsform prüfen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Wohnungsbau Organisationsform Prüfen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnungsbau Organisationsform Prüfen

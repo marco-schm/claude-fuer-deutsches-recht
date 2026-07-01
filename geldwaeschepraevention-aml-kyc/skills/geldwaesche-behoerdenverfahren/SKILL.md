@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-behoerdenverfahren
-description: "Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Maßnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bußgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Prüfraster..."
+description: "Wenn es um Aufsicht, Prüfung und Behördenverfahren in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufsicht, Prüfung und Behördenverfahren

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht
-description: "Corporate Housekeeping und Register-Prüfung im M&A-Kontext: Anwendungsfall Anwalt prüft für Kaeufer oder Verkaeufer HRB/HRA-Eintrag, Gesellschafterlisten, Satzungen, Beschluesse, Vollmachten und Organstellung der Zielgesellschaft. Paragraf 8-11 GmbHG, Paragraf 39-40 AktG, Paragraf 29 ff. HGB. Prüfraster aktueller..."
+description: "Wenn es um Corporate Housekeeping und Register in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Corporate Housekeeping und Register

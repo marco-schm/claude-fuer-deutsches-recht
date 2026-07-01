@@ -1,6 +1,6 @@
 ---
 name: spezial-uebergabe-fristennotiz-und-naechster-schritt
-description: "Uebergabe: Fristennotiz und nächster Schritt im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Uebergabe: Fristennotiz und nächster Schritt in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Uebergabe: Fristennotiz und nächster Schritt

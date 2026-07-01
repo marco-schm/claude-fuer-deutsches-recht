@@ -1,6 +1,6 @@
 ---
 name: inso-p015a-antragspflicht-bei-juristischen-personen-und-rechtsfa
-description: "§ 15a InsO (Antragspflicht bei juristischen Personen und rechtsfähigen Personengesellschaften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 15a InsO (Antragspflicht bei juristischen Per..."
+description: "Wenn es um Inso P015a Antragspflicht Bei Juristischen Personen Und Rechtsfa in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 15a InsO (Antragspflicht bei juristischen Personen und rechtsfähigen Personengesellschaften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: buergschaft-einreden-und-akzessorietaet
-description: "Prüft Akzessorietät der Bürgschaft, Einreden des Bürgen §§ 768–770 BGB und Auswirkungen von Hauptschuld-Veränderungen."
+description: "Wenn es um Bürgschaft: Einreden und Akzessorietät in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bürgschaft: Einreden und Akzessorietät

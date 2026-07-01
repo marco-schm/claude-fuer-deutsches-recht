@@ -1,6 +1,6 @@
 ---
 name: werkmangel-pruefen
-description: "Werkmaengel an Bauwerk nach BGB und VOB/B prüfen: Beschaffenheitsvereinbarung, Ist-Zustand, Ursache: Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: Man..."
+description: "Wenn es um Werkmangel Pruefen in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Werkmaengel an Bauwerk nach BGB und VOB/B prüfen: Beschaffenheitsvereinbarung, Ist-Zustand, Ursache

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für KI-Governance: ordnet Rolle (Anbieter, Betreiber, Importeur, Händler, Aufsicht), markiert Frist (KI-VO-Geltung gestaffelt 2025-2027), wählt Norm (KI-VO EU 2024/1689, DSGVO, Produkthaftung) und Zuständigkeit (KI-Aufsichtsbehörde national), leitet zum passenden Spez..."
+description: "Wenn es um Einstieg und Routing in Technik-Governance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

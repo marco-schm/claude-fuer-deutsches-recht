@@ -1,6 +1,6 @@
 ---
 name: rueckrufpflicht-und-safety-gate
-description: "Prüft Rückruf, Warnung, Korrekturmaßnahme, Safety-Gate-Meldung, Kundenkommunikation und Behördenunterrichtung."
+description: "Wenn es um Rückrufpflicht und Safety Gate in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rueckrufpflicht Und Safety Gate; Arbeitsfeld: robotik-recht."
 ---
 
 # Rückrufpflicht und Safety Gate

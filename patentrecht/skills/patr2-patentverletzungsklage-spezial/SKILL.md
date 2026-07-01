@@ -1,6 +1,6 @@
 ---
 name: patr2-patentverletzungsklage-spezial
-description: "Spezialfall Patentverletzungsklage: äquivalente Verletzung, Unterlassung, Auskunft, Schadensersatz, Anspruchsberechnung Lizenzanalogie. Prüfraster für Kläger und Beklagter im Patentrecht."
+description: "Wenn es um PatR2: Patentverletzungsklage in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # PatR2: Patentverletzungsklage

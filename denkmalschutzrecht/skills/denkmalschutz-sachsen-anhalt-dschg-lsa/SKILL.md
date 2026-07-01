@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-sachsen-anhalt-dschg-lsa
-description: "Denkmalschutzrecht Sachsen-Anhalt nach dem Denkmalschutzgesetz des Landes Sachsen-Anhalt. Skill bündelt zuständige Behörden (Ministerium für Wissenschaft, Energie, Klimaschutz und Umwelt; Landesamt für Denkmalpflege und Archäologie Sachsen-Anhalt in Halle; Untere Denkmalschutzbehörden bei den Landkreisen) und die zahlreichen Welterbestätten (Quedlinburg, Wittenberg, Dessauer Gartenreich, Bauhaus, Naumburger Dom, Himmelsscheibe von Nebra)."
+description: "Wenn es um Denkmalschutz Sachsen-Anhalt (DSchG-LSA) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Sachsen-Anhalt (DSchG-LSA)

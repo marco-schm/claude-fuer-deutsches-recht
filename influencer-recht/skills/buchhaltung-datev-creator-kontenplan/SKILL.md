@@ -1,6 +1,6 @@
 ---
 name: buchhaltung-datev-creator-kontenplan
-description: "Influencer-Recht: Buchhaltung und DATEV für Creator – Kontenplan, EÜR-Struktur, digitale Belege und Steuerberaterschnittstelle im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Buchhaltung, DATEV und Creator-Kontenplan in Influencer-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Influencer-Recht: Buchhaltung, DATEV und Creator-Kontenplan

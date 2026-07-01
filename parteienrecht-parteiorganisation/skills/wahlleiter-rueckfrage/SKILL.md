@@ -1,6 +1,6 @@
 ---
 name: wahlleiter-rueckfrage
-description: "Beantwortet Beanstandungen von Kreis-, Landes- oder Bundeswahlleitung mit Korrekturpfad und Unterlagenliste."
+description: "Wenn es um Wahlleiter-Rückfrage in Parteienrecht und Parteiorganisation geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Wahlleiter-Rückfrage

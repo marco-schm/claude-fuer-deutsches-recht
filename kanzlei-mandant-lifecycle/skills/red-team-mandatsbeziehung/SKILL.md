@@ -1,6 +1,6 @@
 ---
 name: red-team-mandatsbeziehung
-description: "Red Team Mandatsbeziehung: steuert Ergebnis, Dashboard, Rechnung und Beziehung auf Missverständnisse, Halluzinationen und Risiken prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene."
+description: "Wenn es um Red Team Mandatsbeziehung in Kanzlei-Mandant Lifecycle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red Team Mandatsbeziehung

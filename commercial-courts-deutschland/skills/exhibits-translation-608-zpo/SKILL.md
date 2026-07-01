@@ -1,6 +1,6 @@
 ---
 name: exhibits-translation-608-zpo
-description: "Plant Anlagen, Übersetzungen und Sprache: welche Dokumente englisch bleiben können, wann Übersetzung nötig ist, wie Exhibit Index und Bundle aussehen im Commercial Courts Deutschland."
+description: "Wenn es um Exhibits und Übersetzung in commercial-courts-deutschland geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Exhibits und Übersetzung

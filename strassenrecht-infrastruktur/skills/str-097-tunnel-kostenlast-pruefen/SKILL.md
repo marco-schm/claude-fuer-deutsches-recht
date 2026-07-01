@@ -1,6 +1,6 @@
 ---
 name: str-097-tunnel-kostenlast-pruefen
-description: "Straßenrecht und Infrastruktur: Tunnel: Kostenlast prüfen. Kostenlast prüfen für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Tunnel Kostenlast Pruefen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tunnel Kostenlast Pruefen

@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-interessenkollision-beratung-und-pruefung-2
-description: "Wirtschaftsprüfer: interessenkollision beratung und pruefung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Wirtschaftspruefer Interessenkollision Beratung Und Prüfung 2 in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Wirtschaftsprüfer: interessenkollision beratung und pruefung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

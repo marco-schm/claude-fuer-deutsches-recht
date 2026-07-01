@@ -1,6 +1,6 @@
 ---
 name: sammelgenehmigung-export-schulung
-description: "Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuhrgenehmigungen EU001-EU008, nationale AGG, globale Einzelgenehmigungen; Voraussetzungen ICP, Berichtspflichten und Ablauf des Antragsverfahrens ueber ELAN-K2. Output: Sammelgenehmigungsantrag und Nutzungsprotokoll im Außenwirtschaf..."
+description: "Wenn es um Sammelgenehmigungen und AGG für Dual-Use-Exporte: Beantragung und Nutzung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sammelgenehmigungen und AGG für Dual-Use-Exporte: Beantragung und Nutzung

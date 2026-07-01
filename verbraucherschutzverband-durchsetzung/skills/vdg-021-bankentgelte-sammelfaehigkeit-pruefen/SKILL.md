@@ -1,6 +1,6 @@
 ---
 name: vdg-021-bankentgelte-sammelfaehigkeit-pruefen
-description: "Verbraucherschutzverband Durchsetzung: Bankentgelte: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bankentgelte Sammelfaehigkeit Pruefen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bankentgelte Sammelfaehigkeit Pruefen

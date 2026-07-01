@@ -1,6 +1,6 @@
 ---
 name: fa-stu-onboarding-beratungsstruktur
-description: "Methodisches Pruefungsschema fuer jedes steuerliche Mandat — vom Sachverhalt ueber die Norm zur Subsumtion und Strategie. Anwendungsfall Berufstraeger braucht ein wiederverwendbares Geruest fuer steuerliche Stellungnahmen Gutachten und Schriftsaetze. Behandelt Sachverhaltsaufnahme Beweismittelmatrix Norm-Identifikation Rechtsfolgenermittlung Belastungsvergleich Alternativen-Gegenueberstellung und Mandantenkommunikation. Output Aktenraster und Pruefungsbogen. Abgrenzung zu fa-stu-onboarding-mandatsannahme (Erstgespraech) und fa-stu-onboarding-fristen-uebersicht (Termin-Triage)."
+description: "Wenn es um Beratungsstruktur im Steuerrecht — Pruefungsschema vom Sachverhalt zur Loesung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beratungsstruktur im Steuerrecht — Pruefungsschema vom Sachverhalt zur Loesung

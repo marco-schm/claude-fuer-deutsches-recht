@@ -1,6 +1,6 @@
 ---
 name: umstufung-und-teileinziehung
-description: "Straßenrecht und Infrastruktur: Umstufung und Teileinziehung. Umstufung und Teileinziehung im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerk..."
+description: "Wenn es um Umstufung Und Teileinziehung in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umstufung Und Teileinziehung

@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmererfindung-und-inhaberschaft
-description: "Arbeitnehmererfindung, Erfinderstellung und Inhaberschaft prüfen: Meldung, Inanspruchnahme, Rechtekette, Vergütung und Dokumentation im Gebrauchsmusterrecht."
+description: "Wenn es um Arbeitnehmererfindung Und Inhaberschaft in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Arbeitnehmererfindung Und Inhaberschaft

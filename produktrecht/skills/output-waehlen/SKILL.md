@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Produktrecht (ProdSG/CE): stimmt Adressat (Hersteller, Importeur, Händler), Frist (RAPEX-Meldung unverzüglich) und Form auf den Zweck ab — typische Outputs: Konformitätsdossier, Rückrufaktion, Mängelfeststellung."
+description: "Wenn es um Output wählen in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

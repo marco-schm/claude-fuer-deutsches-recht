@@ -1,6 +1,6 @@
 ---
 name: verletztengeld-krankengeld-abgrenzung
-description: "Abgrenzung Verletztengeld (BG, § 45 SGB VII) und Krankengeld (GKV, § 44 SGB V): Zuständigkeit bei Arbeitsunfall, Höhe, Übergang und Gleichzeitigkeit im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verletztengeld und Krankengeld: Abgrenzung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verletztengeld und Krankengeld: Abgrenzung

@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Legistik-Werkstatt (Gesetzgebung): sortiert Referentenentwurf, Kabinettvorlage, BR-Drucksache, prüft Datum, Absender, Frist und Beweiswert (Folgenabschätzung, Stellungnahmen Verbände); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

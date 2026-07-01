@@ -1,6 +1,6 @@
 ---
 name: actiones-in-rem-in-personam
-description: "Römisches Recht: Actiones In Rem In Personam. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Actiones In Rem In Personam in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Actiones In Rem In Personam

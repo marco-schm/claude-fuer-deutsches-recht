@@ -1,6 +1,6 @@
 ---
 name: interne-ermittlung-junior
-description: "Wirtschaftsprüfer: interne ermittlung und reporting - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Interne Ermittlung Junior in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: interne ermittlung und reporting - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

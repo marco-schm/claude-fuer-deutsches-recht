@@ -1,6 +1,6 @@
 ---
 name: fallzahlen-schaetzung-bandbreiten
-description: "Methodischer Fachmodul für Schaetzungen mit Bandbreiten wenn keine harten Statistik-Daten vorliegen. Beschreibt Plausibilitaetsraster Sensitivitaetsanalyse Min-Max-Punkt-Schaetzung Dunkelzifferproblematik und Begruendungstiefe. Mit Mustertexten zur Bandbreitenangabe und Sensitivitaetsbeschreibung..."
+description: "Wenn es um NKR-Fallzahlen — Schaetzung und Bandbreiten in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # NKR-Fallzahlen — Schaetzung und Bandbreiten

@@ -1,6 +1,6 @@
 ---
 name: db-039-open-source-datenbank-und-open-data-commons
-description: "Datenbankrecht: Open Source Datenbank und Open Data Commons mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Open Source Datenbank und Open Data Commons in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Open Source Datenbank und Open Data Commons

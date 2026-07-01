@@ -1,6 +1,6 @@
 ---
 name: regulated-bank-fintech-target
-description: "Prüft Erwerb regulierter Finanzunternehmen, Inhaberkontrolle, ZAG/PSD, MiCAR und Outsourcing im Private Equity Praxis."
+description: "Wenn es um Bank-/FinTech-Target im PE-Deal in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bank-/FinTech-Target im PE-Deal

@@ -1,6 +1,6 @@
 ---
 name: patent-agent-title-und-werbung-kammerantwort
-description: "Patentanwälte: patent agent title und werbung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Patent Agent Title Und Werbung Kammerantwort in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Patentanwälte: patent agent title und werbung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

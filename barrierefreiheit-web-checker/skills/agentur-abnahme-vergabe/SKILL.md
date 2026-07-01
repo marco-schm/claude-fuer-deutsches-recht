@@ -1,6 +1,6 @@
 ---
 name: agentur-abnahme-vergabe
-description: "Unterstützt Agentursteuerung, Ausschreibung, Lastenheft und Abnahme barrierefreier Websites. Formuliert Anforderungen, Akzeptanzkriterien, Nachweis- und Re-Test-Pflichten, Pflegeprozess und Gewährleistungsfragen. Output: Lastenheft oder Abnahmeprotokoll im Barrierefreiheit Web Checker."
+description: "Wenn es um Agentur, Abnahme, Vergabe in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agentur, Abnahme, Vergabe

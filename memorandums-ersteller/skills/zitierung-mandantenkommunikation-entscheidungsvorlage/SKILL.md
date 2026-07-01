@@ -1,6 +1,6 @@
 ---
 name: zitierung-mandantenkommunikation-entscheidungsvorlage
-description: "Zitierung: Mandantenkommunikation und Entscheidungsvorlage: Zitierung: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Wenn es um Zitierung: Mandantenkommunikation und Entscheidungsvorlage in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Zitierung: Mandantenkommunikation und Entscheidungsvorlage

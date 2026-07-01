@@ -1,6 +1,6 @@
 ---
 name: klage-einfach-formulieren
-description: "Hilft bei Klage Einfach Formulieren für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache."
+description: "Wenn es um Klage Einfach Formulieren in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klage Einfach Formulieren

@@ -1,6 +1,6 @@
 ---
 name: claim-intake-chamber-vs-conference
-description: "Macht aus unordentlichen Deal-Unterlagen ein Claim Intake: Parteien, Vertrag, Breach, Damages, Exhibits, Timeline und Streitwert im Commercial Courts Deutschland."
+description: "Wenn es um Claim Intake in commercial-courts-deutschland geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Claim Intake

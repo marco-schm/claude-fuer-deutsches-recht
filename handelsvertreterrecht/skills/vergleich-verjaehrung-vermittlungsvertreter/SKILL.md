@@ -1,6 +1,6 @@
 ---
 name: vergleich-verjaehrung-vermittlungsvertreter
-description: "Unterstützt bei der Aushandlung und Gestaltung von außergerichtlichen Vergleichen im Handelsvertreterrecht: Ausgleich nach § 89b HGB, Provisionsstreitigkeiten nach § 87 HGB, Wettbewerbsverbote nach § 90a HGB, Abfindungsvereinbarungen sowie Vollständigkeitsklauseln und Verzichtsregelungen in Vergl..."
+description: "Wenn es um Vergleich und außergerichtliche Einigung im Handelsvertreterstreit in Handelsvertreterrecht und Vertriebsverträge geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich und außergerichtliche Einigung im Handelsvertreterstreit

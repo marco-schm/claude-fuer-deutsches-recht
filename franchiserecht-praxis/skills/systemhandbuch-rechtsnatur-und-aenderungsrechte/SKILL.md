@@ -1,6 +1,6 @@
 ---
 name: systemhandbuch-rechtsnatur-und-aenderungsrechte
-description: "Rechtsnatur des Systemhandbuchs im Franchiserecht klären: AGB-Einbeziehung, einseitige Änderungsrechte des Franchisegebers, Grenzen nach §§ 307 ff. BGB und Systemtreuepflicht nach § 242 BGB. Know-how-Schutz nach GeschGehG einbeziehen im Franchiserecht."
+description: "Wenn es um Franchiserecht: Systemhandbuch – Rechtsnatur und Änderungsrechte in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Franchiserecht: Systemhandbuch – Rechtsnatur und Änderungsrechte

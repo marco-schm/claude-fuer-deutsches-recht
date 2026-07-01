@@ -1,6 +1,6 @@
 ---
 name: hoai-honorar-mindestsaetze
-description: "HOAI-Honorar für Architekten und Ingenieure berechnen und Mindestsaetze-Unterschreitung prüfen: Normen: HOAI, §§ 650p ff. BGB. Prüfraster: Leistungsphasen, anrec..."
+description: "Wenn es um Hoai Honorar Mindestsaetze in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # HOAI-Honorar für Architekten und Ingenieure berechnen und Mindestsaetze-Unterschreitung prüfen

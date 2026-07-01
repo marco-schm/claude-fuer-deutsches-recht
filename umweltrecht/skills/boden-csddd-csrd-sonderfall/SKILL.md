@@ -1,6 +1,6 @@
 ---
 name: boden-csddd-csrd-sonderfall
-description: "Boden: Behörden-, Gerichts- oder Registerweg im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Boden: Behörden-, Gerichts- oder Registerweg in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Boden: Behörden-, Gerichts- oder Registerweg

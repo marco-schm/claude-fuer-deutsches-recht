@@ -1,6 +1,6 @@
 ---
 name: digitaler-zwilling-und-simulation
-description: "Prüft digitalen Zwilling, Simulation, Validierung, virtuelle Inbetriebnahme und Beweiswert für Konformität und Haftung."
+description: "Wenn es um Digitaler Zwilling und Simulation in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitaler Zwilling und Simulation

@@ -1,6 +1,6 @@
 ---
 name: drv-statusfeststellung-paragraph-7a
-description: "Solo-Selbstständige: bereitet Statusfeststellungsverfahren mit Belegen und Argumentmatrix vor; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um DRV Statusfeststellung Paragraph 7a in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Scheinselbstständigkeit und Status: Bereitet statusfeststellungsverfahren mit belegen und argumentmatrix vor

@@ -1,6 +1,6 @@
 ---
 name: equipment-finance-cnc-maschine
-description: "Equipment Finance Term Sheet: Strukturierung, Kernparameter, Verhandlungspunkte, Due-Diligence-Vorbedingungen und Abschluss im Leasingrecht."
+description: "Wenn es um Equipment Finance Term Sheet in Leasingrecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Equipment Finance Term Sheet

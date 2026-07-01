@@ -1,6 +1,6 @@
 ---
 name: landeshochschulgesetz-router
-description: "Routet Hochschulrecht in das richtige Bundesland, Hochschulgesetz und die passende Satzung im Hochschulrecht Länder."
+description: "Wenn es um Landeshochschulgesetz Router in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landeshochschulgesetz Router

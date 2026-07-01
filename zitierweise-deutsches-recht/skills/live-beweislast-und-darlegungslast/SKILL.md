@@ -1,6 +1,6 @@
 ---
 name: live-beweislast-und-darlegungslast
-description: "Live: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Live: Beweislast, Darlegungslast und Substantiierung in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Live Beweislast Und Darlegungslast; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Live: Beweislast, Darlegungslast und Substantiierung

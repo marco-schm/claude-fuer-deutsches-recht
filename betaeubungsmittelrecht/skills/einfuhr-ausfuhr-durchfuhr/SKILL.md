@@ -1,6 +1,6 @@
 ---
 name: einfuhr-ausfuhr-durchfuhr
-description: "Betäubungsmittelrecht: Einfuhr Ausfuhr Durchfuhr. Einfuhr Ausfuhr Durchfuhr im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
+description: "Wenn es um Einfuhr Ausfuhr Durchfuhr in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einfuhr Ausfuhr Durchfuhr

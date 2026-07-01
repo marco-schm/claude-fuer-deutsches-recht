@@ -1,6 +1,6 @@
 ---
 name: vollzugs-checkliste
-description: "Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend: nimmt neue Einträge aus DD-Findings und Anlage-Erstellung auf. Trigger: Vollzugscheckliste, Closing-Checkliste, was fehlt noch zum Closing,..."
+description: "Wenn es um Vollzugscheckliste M&A in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vollzugscheckliste M&A

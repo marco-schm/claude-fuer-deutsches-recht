@@ -1,6 +1,6 @@
 ---
 name: berufsausuebungsgesellschaft
-description: "Berufsausübungsgesellschaft: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Gesellschaftsform, Fremdbeteiligung, Geschäftsführung, Compliance und Register, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtsch..."
+description: "Wenn es um Berufsausübungsgesellschaft in Berufsrecht Wirtschaftsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berufsausübungsgesellschaft

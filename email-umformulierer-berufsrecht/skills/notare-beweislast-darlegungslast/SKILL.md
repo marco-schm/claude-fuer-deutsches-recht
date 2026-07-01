@@ -1,6 +1,6 @@
 ---
 name: notare-beweislast-darlegungslast
-description: "Notare: Beweislast, Darlegungslast und Substantiierung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrenss..."
+description: "Wenn es um Notare: Beweislast, Darlegungslast und Substantiierung in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Notare Beweislast Darlegungslast; Arbeitsfeld: E-Mail-Umformulierer."
 ---
 
 # Notare: Beweislast, Darlegungslast und Substantiierung

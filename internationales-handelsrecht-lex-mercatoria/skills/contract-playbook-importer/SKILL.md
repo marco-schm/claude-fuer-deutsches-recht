@@ -1,6 +1,6 @@
 ---
 name: contract-playbook-importer
-description: "Internationales Handelsrecht: Vertragshandbuch für den Importeur. Käufer-Standardpositionen, Qualitätssicherungsklauseln, Lieferantenbewertung, Preisanpassung, Zahlungsbedingungen und Defensivstrategie bei Lieferverzug und Qualitätsmängeln im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Contract Playbook für Importeure in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Contract Playbook für Importeure

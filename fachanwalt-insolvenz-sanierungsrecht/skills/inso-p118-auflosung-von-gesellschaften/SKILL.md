@@ -1,6 +1,6 @@
 ---
 name: inso-p118-auflosung-von-gesellschaften
-description: "§ 118 InsO (Auflösung von Gesellschaften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 118 InsO (Auflösung von Gesellschaften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfol..."
+description: "Wenn es um Inso P118 Auflosung Von Gesellschaften in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 118 InsO (Auflösung von Gesellschaften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

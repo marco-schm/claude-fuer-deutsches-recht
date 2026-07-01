@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation-pe
-description: "Übersetzt komplexe PE-, Credit- und Regulatory-Findings in klare Partner-/Mandantenmails im Private Equity Praxis."
+description: "Wenn es um Mandantenkommunikation im PE-Deal in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantenkommunikation im PE-Deal

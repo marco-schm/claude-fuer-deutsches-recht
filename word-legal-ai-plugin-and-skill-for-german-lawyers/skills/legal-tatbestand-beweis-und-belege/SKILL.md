@@ -1,6 +1,6 @@
 ---
 name: legal-tatbestand-beweis-und-belege
-description: "Legal: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Legal: Tatbestandsmerkmale, Beweisfragen und Beleglage in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Legal: Tatbestandsmerkmale, Beweisfragen und Beleglage

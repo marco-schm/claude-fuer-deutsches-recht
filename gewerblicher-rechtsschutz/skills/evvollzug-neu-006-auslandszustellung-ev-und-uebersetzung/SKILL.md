@@ -1,6 +1,6 @@
 ---
 name: evvollzug-neu-006-auslandszustellung-ev-und-uebersetzung
-description: "Gewerblicher Rechtsschutz: Auslandszustellung eV und Übersetzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Gewerblicher Rechtsschutz: Auslandszustellung eV und Übersetzung in Plugin: Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerblicher Rechtsschutz: Auslandszustellung eV und Übersetzung

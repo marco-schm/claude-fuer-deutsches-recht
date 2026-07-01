@@ -1,6 +1,6 @@
 ---
 name: widerrufsbelehrung-digitale-waren-dienstleistungen
-description: "Widerrufsbelehrung digitale Waren Dienstleistungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG im Ecommerce R..."
+description: "Wenn es um Widerrufsbelehrung digitale Waren Dienstleistungen in E-Commerce-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Widerrufsbelehrung digitale Waren Dienstleistungen

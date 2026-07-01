@@ -1,6 +1,6 @@
 ---
 name: bescheid-lesen-beweissicherung-am
-description: "Analysiert versammlungsrechtliche Bescheide, Auflagenkataloge, Verbote, Telefonnotizen und E-Mails der Behörde im Versammlungsrecht."
+description: "Wenn es um Erst Bescheidtyp verstehen in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erst Bescheidtyp verstehen

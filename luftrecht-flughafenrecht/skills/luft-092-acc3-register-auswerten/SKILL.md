@@ -1,6 +1,6 @@
 ---
 name: luft-092-acc3-register-auswerten
-description: "Luftrecht und Flughafenrecht: ACC3: Register auswerten. Register auswerten für ACC3 im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Acc3 Register Auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Acc3 Register Auswerten

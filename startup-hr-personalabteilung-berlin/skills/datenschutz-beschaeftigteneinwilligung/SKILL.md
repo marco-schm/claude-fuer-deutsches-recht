@@ -1,6 +1,6 @@
 ---
 name: datenschutz-beschaeftigteneinwilligung
-description: "Berliner Start-up-HR: Beschäftigteneinwilligung: Freiwilligkeit, Alternative, Widerruf, Machtgefälle und Dokumentation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Datenschutz Beschäftigteneinwilligung in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenschutz Beschäftigteneinwilligung

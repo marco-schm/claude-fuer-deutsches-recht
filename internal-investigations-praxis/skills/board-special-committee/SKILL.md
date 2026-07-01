@@ -1,6 +1,6 @@
 ---
 name: board-special-committee
-description: "Richtet ein Sonderuntersuchungsausschuss des Vorstands oder Aufsichtsrats ein – Mandat, Besetzung, Unabhängigkeit und Berichtspflichten im Internal Investigations Praxis."
+description: "Wenn es um Board Special Committee und Sonderuntersuchungsausschuss in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Board Special Committee und Sonderuntersuchungsausschuss

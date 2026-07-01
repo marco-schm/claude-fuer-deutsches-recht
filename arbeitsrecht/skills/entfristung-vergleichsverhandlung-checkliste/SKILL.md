@@ -1,6 +1,6 @@
 ---
 name: entfristung-vergleichsverhandlung-checkliste
-description: "Typische Vergleichsbausteine in der Entfristungsklage: Entfristungsbestätigung oder Beendigungsdatum mit Abfindung: Weiterbeschaeftigung oder..."
+description: "Wenn es um Entfristung Vergleichsverhandlung Checkliste in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Typische Vergleichsbausteine in der Entfristungsklage: Entfristungsbestätigung oder Beendigungsdatum mit Abfindung

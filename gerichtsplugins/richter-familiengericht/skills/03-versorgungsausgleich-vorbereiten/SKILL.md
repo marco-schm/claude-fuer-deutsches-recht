@@ -1,6 +1,6 @@
 ---
 name: 03-versorgungsausgleich-vorbereiten
-description: "Bereitet den Versorgungsausgleich richterlich vor: Ehezeit, Versorgungsträgerauskünfte, interne und externe Teilung, Geringfügigkeit, Härte, Anhörung, Nachforderung und tenorierungsfähiger Beschluss."
+description: "Wenn es um Versorgungsausgleich vorbereiten in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Versorgungsausgleich vorbereiten

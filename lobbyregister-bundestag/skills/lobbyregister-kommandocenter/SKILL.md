@@ -1,6 +1,6 @@
 ---
 name: lobbyregister-kommandocenter
-description: "Master-Routing für Lobbyregister-Mandate: Pflichtcheck, Registrierung, Aktualisierung, Verhaltenskodex, Meldung, Sanktion, Unterlagen und naechster Skill. Normen LobbyRG §§ 1 bis 7. Output Mandatskarte, Routing und Qualitaetsgate im Lobbyregister Bundestag."
+description: "Wenn es um Lobbyregister-Kommandocenter in Lobbyregister Bundestag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Lobbyregister-Kommandocenter

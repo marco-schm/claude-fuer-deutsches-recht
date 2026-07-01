@@ -1,6 +1,6 @@
 ---
 name: geldwaeschepflicht-kanzlei
-description: "Geldwäschepflichten der Kanzlei (Präventions- und Organisationspaket): steuert GwG-Pflichten bei Immobilie, Gesellschaftsrecht, Treuhand und Verdachtsmeldung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie B..."
+description: "Wenn es um Geldwäschepflichten der Kanzlei: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Geldwäschepflichten der Kanzlei: Präventions- und Organisationspaket

@@ -1,6 +1,6 @@
 ---
 name: ki-registerakte-nachlass
-description: "Zwingt zu Belegpfad, Registerauszug, Aktenzeichen, Normenanker und klarer Kennzeichnung nicht verifizierter Annahmen im Handelsregister Praxis."
+description: "Wenn es um digitale Werkzeuge-Halluzinationsschutz in Registerakten in Handelsregister Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # KI-Halluzinationsschutz in Registerakten

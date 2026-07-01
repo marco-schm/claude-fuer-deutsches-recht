@@ -1,6 +1,6 @@
 ---
 name: beirat-bank-und-sanierung
-description: "Prüft Beiratsfragen zu Bank Und Sanierung: Zuständigkeit, Satzungsgrundlage, Beschlussweg, Haftung, Belege, Gegenargumente und verwertbaren Output."
+description: "Wenn es um Beirat Bank Und Sanierung in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Bank Und Sanierung

@@ -1,6 +1,6 @@
 ---
 name: public-kapitalmarkt
-description: "Post-Closing Integration: DD-Findings, SPA-Pflichten und Synergieannahmen in PMI-Plan; Earn-Out-Monitoring, Post-Closing-Ansprüche, Betriebsuebergang, § 613a BGB im Mittelstand Corporate Ma."
+description: "Wenn es um Post-Closing Integration in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Post-Closing Integration

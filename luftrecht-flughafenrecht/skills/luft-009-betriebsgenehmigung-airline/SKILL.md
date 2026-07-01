@@ -1,6 +1,6 @@
 ---
 name: luft-009-betriebsgenehmigung-airline
-description: "Luftrecht und Flughafenrecht: Betriebsgenehmigung Airline. Betriebsgenehmigung Airline im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Betriebsgenehmigung Airline in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsgenehmigung Airline

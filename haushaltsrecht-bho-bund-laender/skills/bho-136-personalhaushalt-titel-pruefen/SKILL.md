@@ -1,6 +1,6 @@
 ---
 name: bho-136-personalhaushalt-titel-pruefen
-description: "Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Titel prüfen. Titel prüfen für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Personalhaushalt Titel Pruefen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Personalhaushalt Titel Pruefen

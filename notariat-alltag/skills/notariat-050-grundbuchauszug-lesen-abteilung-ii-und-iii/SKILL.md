@@ -1,6 +1,6 @@
 ---
 name: notariat-050-grundbuchauszug-lesen-abteilung-ii-und-iii
-description: "Notariat im Alltag: Grundbuchauszug lesen Abteilung II und III mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Notariat im Alltag: Grundbuchauszug lesen Abteilung II und III in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Grundbuchauszug lesen Abteilung II und III

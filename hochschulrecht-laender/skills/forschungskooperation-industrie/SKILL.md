@@ -1,6 +1,6 @@
 ---
 name: forschungskooperation-industrie
-description: "Prüft Forschungskooperation, Publikationssperre, IP, Interessenkonflikte und Compliance im Hochschulrecht Länder."
+description: "Wenn es um Forschungskooperation mit Industrie in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Forschungskooperation mit Industrie

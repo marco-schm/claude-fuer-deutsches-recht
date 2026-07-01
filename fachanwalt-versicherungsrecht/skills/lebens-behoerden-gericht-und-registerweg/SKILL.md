@@ -1,6 +1,6 @@
 ---
 name: lebens-behoerden-gericht-und-registerweg
-description: "Lebens: Behörden-, Gerichts- oder Registerweg: Lebens: Behörden-, Gerichts- oder Registerweg."
+description: "Wenn es um Lebens: Behörden-, Gerichts- oder Registerweg in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lebens: Behörden-, Gerichts- oder Registerweg

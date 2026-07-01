@@ -1,6 +1,6 @@
 ---
 name: richterstaat-risikomatrix
-description: "Dieses Skill erstellt eine strukturierte Risikomatrix für Sachverhalte, in denen richterliche Rechtsfortbildung oder Ermessen erhebliche Rechtsunsicherheit erzeugt. Es bewertet das Risiko einer richtungsändernden Rechtsprechung, identifiziert Einflussfaktoren auf Gerichte und hilft Mandanten, str..."
+description: "Wenn es um Richterstaat-Risikomatrix in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Richterstaat-Risikomatrix

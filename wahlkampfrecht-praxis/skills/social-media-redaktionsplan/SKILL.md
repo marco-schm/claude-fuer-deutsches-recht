@@ -1,6 +1,6 @@
 ---
 name: social-media-redaktionsplan
-description: "Wahlkampfrecht Praxis: rechtssicheren Redaktionsplan für Social Media bauen im Wahlkampfrecht."
+description: "Wenn es um Social Media Redaktionsplan in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Social Media Redaktionsplan

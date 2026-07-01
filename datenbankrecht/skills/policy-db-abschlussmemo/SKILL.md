@@ -1,6 +1,6 @@
 ---
 name: policy-db-abschlussmemo
-description: "Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b und 60d UrhG, Data Act 2023/2854. Mandant benötigt eine rechtssichere Data-Governance-P..."
+description: "Wenn es um Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung

@@ -1,6 +1,6 @@
 ---
 name: inv-048-document-retention
-description: "Spezialskill fuer Document Retention: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Document Retention in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internal Investigation: Document Retention

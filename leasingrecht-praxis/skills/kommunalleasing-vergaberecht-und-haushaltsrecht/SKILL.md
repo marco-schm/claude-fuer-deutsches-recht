@@ -1,6 +1,6 @@
 ---
 name: kommunalleasing-vergaberecht-und-haushaltsrecht
-description: "Kommunalleasing: Vergabepflicht, Wirtschaftlichkeitsnachweis, kreditähnliche Rechtsgeschäfte, Genehmigungspflicht und historisches Cross-Border-Leasing im Leasingrecht."
+description: "Wenn es um Kommunalleasing: Vergaberecht und Haushaltsrecht in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kommunalleasing: Vergaberecht und Haushaltsrecht

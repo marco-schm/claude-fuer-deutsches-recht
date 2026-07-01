@@ -1,6 +1,6 @@
 ---
 name: anlagen-tatbestand-beweis-und-belege
-description: "Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage

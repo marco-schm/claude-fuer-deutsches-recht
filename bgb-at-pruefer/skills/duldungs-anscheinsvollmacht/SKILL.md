@@ -1,6 +1,6 @@
 ---
 name: duldungs-anscheinsvollmacht
-description: "Klausurfall zu Duldungs- und Anscheinsvollmacht im BGB AT nach BGH-Rechtsprechung: Voraussetzungen der Duldungsvollmacht (Kenntnis und Dulden), Anscheinsvollmacht (Erkennbarkeit bei pflichtgemäßer Sorgfalt) und Rechtsfolgen für Vertragspartner."
+description: "Wenn es um Duldungs- und Anscheinsvollmacht — Rechtsscheinvollmacht nach BGH in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Duldungs- und Anscheinsvollmacht — Rechtsscheinvollmacht nach BGH

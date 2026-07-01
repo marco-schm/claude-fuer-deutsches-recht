@@ -1,6 +1,6 @@
 ---
 name: security-procurement-training-management
-description: "Prüft IT-Security-Anforderungen in Einkauf, Ausschreibung und Beschaffung von SaaS, Hardware, OT, Managed Services und Cyberdienstleistungen im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Security Procurement Tender in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Security Procurement Tender

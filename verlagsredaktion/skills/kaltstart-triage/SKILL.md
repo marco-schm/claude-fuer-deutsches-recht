@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Cooler Einstieg für das Verlagsredaktion-Plugin: stummer Upload, Morgenlage, Eingangskorb, Fristen, Rechteampel, Manuskriptstatus und Routing zu den Verlagsdesk-Skills."
+description: "Wenn es um Verlagsredaktion — Startdesk in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsredaktion — Startdesk

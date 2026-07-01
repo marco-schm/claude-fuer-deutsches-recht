@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-erinnerung
-description: "Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt: § 43a Abs. 2 BRAO Schweigepflicht. Prüfraster: Schweigepflicht gilt erst nach Mandatsbeginn vorher allgemeine Diskretion. Überg..."
+description: "Wenn es um Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt

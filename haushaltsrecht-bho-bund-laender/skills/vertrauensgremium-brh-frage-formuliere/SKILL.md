@@ -1,6 +1,6 @@
 ---
 name: vertrauensgremium-brh-frage-formuliere
-description: "Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: BRH-Frage formulieren. BRH- im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Vertrauensgremium Brh Frage Formuliere in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertrauensgremium Brh Frage Formuliere

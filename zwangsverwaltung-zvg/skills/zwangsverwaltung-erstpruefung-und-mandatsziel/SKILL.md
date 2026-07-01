@@ -1,6 +1,6 @@
 ---
 name: zwangsverwaltung-erstpruefung-und-mandatsziel
-description: "Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-legal-tech-dd
-description: "Rechtsabteilungs-Fachmodul für Legal Tech DD mit Halluzinationsschutz: AI-gestützte DD wird mit Quellenregister, Privilege-Log und Red-Flag-Audit kontrolliert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Wenn es um Rechtsabteilung: Legal Tech DD mit Halluzinationsschutz in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Rechtsabteilung: Legal Tech DD mit Halluzinationsschutz

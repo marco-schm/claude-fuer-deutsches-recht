@@ -1,6 +1,6 @@
 ---
 name: inso-tabelle-verbraucherinsolvenz-leitfaden
-description: "Spezialfall Tabelle und Feststellung: § 175 InsO Tabelle, § 176 InsO Prüfungstermin, § 178 InsO Wirkungen festgestellter Forderungen, Widerspruch durch Insolvenzverwalter oder anderen Gläubiger. Prüfraster und Mustertexte im Insolvenzrecht."
+description: "Wenn es um InsO: Tabelle und Feststellung in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # InsO: Tabelle und Feststellung

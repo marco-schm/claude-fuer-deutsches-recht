@@ -1,6 +1,6 @@
 ---
 name: stammdaten-erhebung
-description: "Erhebt alle Pflichtdaten für den Zeugniskopf: vollständiger Name, Geburtsdatum, Eintrittsdatum, Austrittsdatum, exakte Positionsbezeichnung mit Hierarchiestufe, Abteilung und Unternehmen. Fehlende Daten werden als gekennzeichnete Platzhalter geführt. Diskrepanzen zwischen Vertrag und tatsächlicher Funktion werden als Hinweis notiert."
+description: "Wenn es um Stammdaten-Erhebung in Arbeitszeugnisgenerator geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Stammdaten-Erhebung

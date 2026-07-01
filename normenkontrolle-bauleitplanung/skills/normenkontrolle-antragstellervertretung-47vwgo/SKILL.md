@@ -1,6 +1,6 @@
 ---
 name: normenkontrolle-antragstellervertretung-47vwgo
-description: "Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verf..."
+description: "Wenn es um Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Normenkontrolle Antragstellervertretung 47vwgo; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: kleinunternehmer-paragraph-19-ustg
-description: "Solo-Selbstständige: prüft die aktuelle Kleinunternehmerregelung mit Umsatzgrenzen und Opt-out; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Kleinunternehmer Paragraph 19 Ustg in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechnung und Umsatzsteuer: Prüft die aktuelle kleinunternehmerregelung mit umsatzgrenzen und opt-out

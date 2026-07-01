@@ -1,6 +1,6 @@
 ---
 name: genehmigungspflichten-dokumentenmatrix-und-lueckenliste
-description: "Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung im Betreuungsrecht."
+description: "Wenn es um Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: mit-apache-bsd
-description: "Prüft permissive Open-Source-Lizenzen, Notices, Patent Grant, Attribution und Haftungsausschlüsse im Softwarerecht De Eu Us."
+description: "Wenn es um MIT Apache BSD in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # MIT Apache BSD

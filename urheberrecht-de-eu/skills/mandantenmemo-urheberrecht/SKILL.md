@@ -1,6 +1,6 @@
 ---
 name: mandantenmemo-urheberrecht
-description: "Formt die Prüfung in ein klares Memo für Verlag, Label, Künstler, Plattform, Softwarehaus oder Kanzlei im Urheberrecht De Eu."
+description: "Wenn es um Mandantenmemo Urheberrecht in Urheberrecht DE EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mandantenmemo Urheberrecht

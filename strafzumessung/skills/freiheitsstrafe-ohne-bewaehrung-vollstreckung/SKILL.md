@@ -1,6 +1,6 @@
 ---
 name: freiheitsstrafe-ohne-bewaehrung-vollstreckung
-description: "Freiheitsstrafe ohne Bewaehrung. Anrechnung Untersuchungshaft und Auslieferungshaft § 51 StGB. Vollstreckungsplanung Reststrafenaussetzung § 57 StGB Halbstrafe Drittel. Lebenslang § 57a StGB. Strafaufschub § 456 StPO. Strafunterbrechung § 455 StPO. § 35 BtMG Therapie statt Strafe. Beleidigte Voll..."
+description: "Wenn es um Freiheitsstrafe ohne Bewaehrung — Vollstreckung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freiheitsstrafe ohne Bewaehrung — Vollstreckung

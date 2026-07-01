@@ -1,6 +1,6 @@
 ---
 name: betreuerpflichten-genehmigung-bericht
-description: "Betreuerpflichten, Genehmigung und Berichtswesen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output."
+description: "Wenn es um Betreuerpflichten, Genehmigung und Berichtswesen in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Betreuerpflichten Genehmigung Bericht; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Betreuerpflichten, Genehmigung und Berichtswesen

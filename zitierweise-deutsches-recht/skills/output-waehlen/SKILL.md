@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Zitierweise deutsches Recht: stimmt Adressat (Autor, Korrektor, Mandant), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Zitiernachweis, Quellenverzeichnis, Korrektur falsch zitierter Stellen."
+description: "Wenn es um Output wählen in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

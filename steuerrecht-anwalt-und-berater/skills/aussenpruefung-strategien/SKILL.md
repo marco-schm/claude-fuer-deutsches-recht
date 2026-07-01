@@ -1,6 +1,6 @@
 ---
 name: aussenpruefung-strategien
-description: "Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. AO. Anwendungsfall Mandant erhaelt Prüfungsanordnung § 196 AO oder Prüfung laeuft bereits. Prüfraster Umfang § 194 AO Mitwirkungspflichten § 200 AO Datenzugriff § 147 AO Auskunftsverweigerungsrecht §§ 102 103 AO Trennungsp..."
+description: "Wenn es um Außenprüfung — Strategien und Begleitung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Außenprüfung — Strategien und Begleitung

@@ -1,6 +1,6 @@
 ---
 name: steigerungsadverbien-katalog
-description: "Vollständige Referenzliste aller Steigerungsadverbien der Zeugnissprache mit Notenwert. Ein Adverb fehlt, eine Note fällt. Trennt echte Steigerer (stets, jederzeit, vollkommen, höchst) von scheinbaren Steigerern (regelmäßig, überwiegend, weitgehend) und Frequenzadverbien (oft, meist, gelegentlich) und ordnet jede Kombination einer Schulnote zu."
+description: "Wenn es um Steigerungsadverbien-Katalog in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steigerungsadverbien-Katalog

@@ -1,6 +1,6 @@
 ---
 name: 06-massnahmen-paragraf-61-stgb
-description: "Maßnahmen der Besserung und Sicherung Paragraf 61 StGB: Unterbringung im psychiatrischen Krankenhaus Paragraf 63, Entziehungsanstalt Paragraf 64, Sicherungsverwahrung Paragraf 66, Fuehrungsaufsicht"
+description: "Wenn es um 06 Maßnahmen Paragraf 61 Stgb in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 06 Maßnahmen Paragraf 61 Stgb

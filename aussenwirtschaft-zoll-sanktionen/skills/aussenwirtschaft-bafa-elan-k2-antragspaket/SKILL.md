@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-bafa-elan-k2-antragspaket
-description: "Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ueber das BAFA-Online-System ELAN-K2: technische Gueterbeschreibung nach Anhang I VO (EU) 2021/821 oder nationaler Gueterliste, Endverwendungserklaerung (EUC), Lieferplandokument und begleitende Compliance-Nachweise. Output: Vollstae..."
+description: "Wenn es um BAFA ELAN-K2: Vollstaendiges Genehmigungsantragspaket aufbauen in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # BAFA ELAN-K2: Vollstaendiges Genehmigungsantragspaket aufbauen

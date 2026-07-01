@@ -1,6 +1,6 @@
 ---
 name: evaluation-jahresbericht-fallzahlen
-description: "Beschreibt Evaluierungspraxis ex-post-Prüfung und Jahresbericht des NKR nach § 7 NKRG. Erklaert wie der NKR vergangene Stellungnahmen bilanziert wie er Trends im Buerokratiekostenstand identifiziert und wie der Jahresbericht politisch wirkt. Mit Bausteinen für Jahresberichts-Bezugnahmen und ex-p"
+description: "Wenn es um NKR-Evaluation und Jahresbericht in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # NKR-Evaluation und Jahresbericht

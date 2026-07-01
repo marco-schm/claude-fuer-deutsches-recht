@@ -1,6 +1,6 @@
 ---
 name: unternehmenskennzeichen-werktitel-domain
-description: "Unternehmenskennzeichen, besondere Geschäftsbezeichnungen, Werktitel, Domains und Social-Media-Handles markenrechtlich einordnen: Entstehung ohne Register, Priorität, Reichweite, Verwechslungsgefahr und Durchsetzung im Markenrecht Fashion Luxus."
+description: "Wenn es um Unternehmenskennzeichen, Werktitel und Domains in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Unternehmenskennzeichen, Werktitel und Domains

@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-ladung-und-ersatzmitglieder-pruefen
-description: "Betriebsrat Ladung Und Ersatzmitglieder Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Betriebsrat Ladung Und Ersatzmitglieder Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und..."
+description: "Wenn es um Betriebsrat Ladung Und Ersatzmitglieder Pruefen in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsrat Ladung Und Ersatzmitglieder Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

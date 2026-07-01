@@ -1,6 +1,6 @@
 ---
 name: fa-stu-grundsteuer-bundesmodell
-description: "Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem reformierten Modell — Bundesmodell und Laendermodelle Baden-Wuerttemberg Bayern Hamburg Hessen Niedersachsen sowie verfassungsrechtliche Bedenken. Anwendungsfall Mandant erhaelt Bescheid mit erkennbar uebersetztem Bodenrichtwert oder fehlerhaften Flaechenangaben. Behandelt Einsprueche gegen Grundsteuerwert- und Messbescheid Aussetzung der Vollziehung und Musterverfahren beim BFH und BVerfG. Output Pruefraster und Einspruchsmuster. Abgrenzung zu fa-stu-bewertung-immobilien-bewg."
+description: "Wenn es um Grundsteuer — Reform 2025 Bundesmodell und Laendermodelle in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grundsteuer — Reform 2025 Bundesmodell und Laendermodelle

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-marktmanipulation-120-wphg
-description: "Marktmanipulation § 120 WpHG iVm Art: 15 MAR: Anwendungsfall Verteidigung bei Vorwurf handelsgestuetzter informationsgestuetzter oder handlungsgestuetzter Marktmanipulation. Prüfraster Art. 12 MAR Manipulationsbegriff..."
+description: "Wenn es um Marktmanipulation Paragraf 120 WpHG iVm Art in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Marktmanipulation § 120 WpHG iVm Art

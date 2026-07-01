@@ -1,6 +1,6 @@
 ---
 name: matter-file
-description: "Deal-Akte und Matter-Workspace anlegen: Anwendungsfall bei Mandatsannahme wird strukturierter Matter-Workspace benoetigt mit allen Workstreams, Datenraumspiegel, Register-Links, Q&A-Tracker und Closing-Archiv. Paragraf 43a BRAO Aktenführung, GoBD Aufbewahrung. Prüfraster Ordnerstruktur 00-90-Archive, De..."
+description: "Wenn es um Deal-Akte in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Deal-Akte

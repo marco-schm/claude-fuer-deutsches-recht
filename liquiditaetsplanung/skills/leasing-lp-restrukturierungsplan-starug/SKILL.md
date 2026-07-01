@@ -1,6 +1,6 @@
 ---
 name: leasing-lp-restrukturierungsplan-starug
-description: "Liqui Leasing LP Restrukturierungsplan Starug im Plugin Liquiditaetsplanung: prüft konkret Leasing- und Lebenspartnerzahlungen in Liquiditaetsplan, Liquiditaetsplanung im Restrukturierungsplan StaRUG, Saisonalitaet erkennen."
+description: "Wenn es um Liqui Leasing LP Restrukturierungsplan Starug in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Liqui Leasing LP Restrukturierungsplan Starug

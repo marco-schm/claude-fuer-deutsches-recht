@@ -1,6 +1,6 @@
 ---
 name: stoerung-tk-streitbeilegung
-description: "Internet-/Telefonstörung: Minderung, Ausfallentschädigung, Entstörungspflichten, Messprotokolle, SLA und Schadensersatz im Telekommunikationsrecht."
+description: "Wenn es um Störung, Minderung und Ausfallentschädigung in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Störung, Minderung und Ausfallentschädigung

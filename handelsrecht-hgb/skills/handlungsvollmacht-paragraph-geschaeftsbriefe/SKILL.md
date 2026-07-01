@@ -1,6 +1,6 @@
 ---
 name: handlungsvollmacht-paragraph-geschaeftsbriefe
-description: "Prüft Artvollmacht, Gattungsvollmacht, Spezialvollmacht und Grenzen im Handelsrecht Hgb."
+description: "Wenn es um Handlungsvollmacht Paragraf 54 HGB in Handelsrecht HGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Handlungsvollmacht § 54 HGB

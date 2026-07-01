@@ -1,6 +1,6 @@
 ---
 name: kein-risiko-dokumentation
-description: "Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an die Aufsichtsbehörde gemeldet wird, weil voraussichtlich kein Risiko für die Rechte und Freiheiten besteht. Behandelt: Pflichtangaben nach Art. 33 Abs. 5 DSGVO; Sachverhalt; Auswirkungen; Abhilfemaßnahmen; Begründung der N..."
+description: "Wenn es um Kein-Risiko-Dokumentation nach Art. 33 Abs. 5 DSGVO in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kein-Risiko-Dokumentation nach Art. 33 Abs. 5 DSGVO

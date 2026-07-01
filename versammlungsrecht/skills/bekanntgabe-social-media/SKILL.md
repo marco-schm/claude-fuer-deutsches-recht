@@ -1,6 +1,6 @@
 ---
 name: bekanntgabe-social-media
-description: "Prüft, wann Flyer, Website, Messenger, Pressemitteilung oder Social-Media-Post die Bekanntgabe oder Einladung auslösen im Versammlungsrecht."
+description: "Wenn es um Bekanntgabe ist der Fristanker in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bekanntgabe ist der Fristanker

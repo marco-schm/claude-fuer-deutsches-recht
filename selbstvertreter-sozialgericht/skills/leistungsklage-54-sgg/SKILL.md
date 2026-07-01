@@ -1,6 +1,6 @@
 ---
 name: leistungsklage-54-sgg
-description: "Die Leistungsklage nach § 54 Abs. 5 SGG. Wenn die Behörde konkret zahlen oder handeln muss. Schlichte Geldforderung Beispiele Mustertext für Buerger."
+description: "Wenn es um Die Leistungsklage — Paragraf 54 Abs. 5 SGG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Die Leistungsklage — § 54 Abs. 5 SGG

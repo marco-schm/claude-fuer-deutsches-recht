@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Allgemeiner Kaltstart und Routing: vertiefter Berufsrechts-Skill für Anwälte; führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung."
+description: "Wenn es um Allgemeiner Kaltstart und Routing in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Allgemeiner Kaltstart und Routing

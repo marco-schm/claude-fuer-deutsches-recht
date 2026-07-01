@@ -1,6 +1,6 @@
 ---
 name: strafverteidigung-tatbestand-beweis-und-belege
-description: "Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage

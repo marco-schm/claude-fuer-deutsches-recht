@@ -1,6 +1,6 @@
 ---
 name: games-software-gebuehren-paygov-government
-description: "Prüft Games als Bündel aus Code, Audio, Grafik, Story, Characters, UI, engine assets and licenses im Us Copyright Registrierung Verlag."
+description: "Wenn es um Games, Software und AV Assets in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Games, Software und AV Assets

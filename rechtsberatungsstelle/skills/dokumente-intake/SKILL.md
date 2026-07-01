@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Rechtsberatungsstelle (RDG): sortiert Beratungshilfeschein, Vermögenserklärung, Bescheide Sozialleistungen, prüft Datum, Absender, Frist und Beweiswert (Einkommensnachweise, Bescheide); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

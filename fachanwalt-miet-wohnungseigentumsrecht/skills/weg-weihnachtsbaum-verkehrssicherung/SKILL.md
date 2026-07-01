@@ -1,6 +1,6 @@
 ---
 name: weg-weihnachtsbaum-verkehrssicherung
-description: "Weihnachtsbaum/Verkehrssicherung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Aufstellung, Brandschutz, Haftung, Beschluss, Versicherung; mit Normprüfung, Beweisen, Fr..."
+description: "Wenn es um Weihnachtsbaum/Verkehrssicherung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weihnachtsbaum/Verkehrssicherung: Fachmodul im Miet- und Wohnungseigentumsrecht

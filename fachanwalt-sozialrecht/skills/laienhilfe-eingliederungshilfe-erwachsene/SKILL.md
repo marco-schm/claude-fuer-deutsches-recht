@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-eingliederungshilfe-erwachsene
-description: "Laienverstaendlicher Sozialrechts-Skill zu Eingliederungshilfe Erwachsene. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
+description: "Wenn es um Laienhilfe: Eingliederungshilfe Erwachsene in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienhilfe: Eingliederungshilfe Erwachsene

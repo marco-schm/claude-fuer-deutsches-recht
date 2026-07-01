@@ -1,6 +1,6 @@
 ---
 name: bautraeger-belehrungspflicht-17-beurkg
-description: "Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag: Skill klaert den Umfang die Pflicht zur Erläuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach §..."
+description: "Wenn es um Notar-Belehrungspflicht nach Paragraf 17 BeurkG beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag

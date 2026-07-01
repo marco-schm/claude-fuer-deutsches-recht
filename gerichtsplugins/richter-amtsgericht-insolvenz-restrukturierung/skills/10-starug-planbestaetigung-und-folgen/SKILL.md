@@ -1,6 +1,6 @@
 ---
 name: 10-starug-planbestaetigung-und-folgen
-description: "Planabstimmung Paragrafen 17 ff. StaRUG, gruppeninternes Mehrheitserfordernis, gruppenübergreifender Cramdown Paragraf 26 StaRUG, gerichtliche Planbestätigung Paragrafen 60 ff., Wirkungen Paragraf 67"
+description: "Wenn es um 10 StaRUG Planbestätigung und Folgen in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 10 StaRUG Planbestätigung und Folgen

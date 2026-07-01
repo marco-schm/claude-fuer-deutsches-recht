@@ -1,6 +1,6 @@
 ---
 name: vvg-falligkeit-14-abschlagszahlung
-description: "Fälligkeit des Versicherungsanspruchs, Ermittlungsdauer, Abschlagszahlung, Verzug und taktische Beschleunigung bei großen Schäden im Versicherungsrecht."
+description: "Wenn es um Fälligkeit und Abschlagszahlung Paragraf 14 VVG in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fälligkeit und Abschlagszahlung § 14 VVG

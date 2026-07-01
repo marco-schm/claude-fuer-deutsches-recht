@@ -1,6 +1,6 @@
 ---
 name: rom-104-byzantinisches-recht-kaltstart
-description: "Römisches Recht: Einstieg in byzantinisches Recht von Justinian bis Basiliken, Kaiserrecht, Verwaltung, Kirche und griechischer Rechtssprache."
+description: "Wenn es um Byzantinisches Recht - Kaltstart in Römisches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rom 104 Byzantinisches Recht Kaltstart; Arbeitsfeld: Römisches Recht."
 ---
 
 # Byzantinisches Recht - Kaltstart

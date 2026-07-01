@@ -1,6 +1,6 @@
 ---
 name: 029-zwoelftafelrecht-heutiger
-description: "Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit im Römisches Recht: Bearbeite Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer han..."
+description: "Wenn es um Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit

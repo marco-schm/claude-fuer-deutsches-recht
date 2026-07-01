@@ -1,6 +1,6 @@
 ---
 name: auflassung-und-eigentumsumschreibung
-description: "Prüft Auflassung, Antrag, Voreintragung, Unbedenklichkeitsbescheinigung, Genehmigungen und Vollzug im Grundbuchamt Praxis."
+description: "Wenn es um Auflassung und Umschreibung in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Auflassung und Umschreibung

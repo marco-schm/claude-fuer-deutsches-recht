@@ -1,6 +1,6 @@
 ---
 name: wohngebaeude-leitungswasser-sturm-hagel-brand
-description: "Wohngebäudeversicherung: Leitungswasser, Sturm/Hagel, Brand, Elementarschaden, grobe Fahrlässigkeit, Obliegenheiten und Sanierungskosten im Versicherungsrecht."
+description: "Wenn es um Wohngebäudeversicherung: Leitungswasser, Sturm, Brand in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wohngebäudeversicherung: Leitungswasser, Sturm, Brand

@@ -1,6 +1,6 @@
 ---
 name: dsgvo-sonderfall-und-edge-case
-description: "DSGVO: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um DSGVO: Sonderfall und Edge-Case-Prüfung in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DSGVO: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: verwr-vorlaeufiger-rechtsschutz-leitfaden
-description: "Leitfaden vorläufiger Rechtsschutz VwGO: § 80 Abs: 5 Antrag, § 123 einstweilige Anordnung. Prüfraster Eilbeduerftigkeit und Anordnungsanspruch. Mustertext Eilantrag."
+description: "Wenn es um Leitfaden vorläufiger Rechtsschutz VwGO: Paragraf 80 Abs in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Leitfaden vorläufiger Rechtsschutz VwGO: § 80 Abs

@@ -1,6 +1,6 @@
 ---
 name: internationale-studierende-krankenversicherung
-description: "Krankenversicherungspflicht für ausländische Studenten in Deutschland: GKV-Pflicht, Befreiungsmöglichkeiten, private Alternativen und Nachweispflichten im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Internationale Studenten: Krankenversicherung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Internationale Studenten: Krankenversicherung

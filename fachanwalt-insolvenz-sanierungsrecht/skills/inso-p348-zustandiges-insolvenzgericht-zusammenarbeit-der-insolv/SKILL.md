@@ -1,6 +1,6 @@
 ---
 name: inso-p348-zustandiges-insolvenzgericht-zusammenarbeit-der-insolv
-description: "§ 348 InsO (Zuständiges Insolvenzgericht: Zusammenarbeit der Insolvenzgerichte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung."
+description: "Wenn es um Paragraf 348 InsO (Zuständiges Insolvenzgericht in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 348 InsO (Zuständiges Insolvenzgericht

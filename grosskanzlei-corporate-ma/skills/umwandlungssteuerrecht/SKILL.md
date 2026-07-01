@@ -1,6 +1,6 @@
 ---
 name: umwandlungssteuerrecht
-description: "Umwandlungssteuerrecht Buchwertantrag steuerliche Rückwirkung und Verlustuntergang prüfen: Anwendungsfall Corporate-Team und Steuerteam muessen umwandlungssteuerliche Strukturentscheidung abstimmen: Umwandlungssteuerrecht Buchwertantrag steuerliche Rückwirk..."
+description: "Wenn es um Umwandlungssteuerrecht in Großkanzlei Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Umwandlungssteuerrecht; Arbeitsfeld: Großkanzlei Corporate/M&A."
 ---
 
 # Umwandlungssteuerrecht Buchwertantrag steuerliche Rückwirkung und Verlustuntergang prüfen: Anwendungsfall Corporate-Team und Steuerteam müssen umwandlungssteuerliche Strukturentscheidung abstimmen

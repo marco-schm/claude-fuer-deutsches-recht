@@ -1,6 +1,6 @@
 ---
 name: okrs-kanzlei
-description: "Setzt wenige Kanzleiziele mit messbaren Key Results und Ownern. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um OKR und Prioritäten in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # OKR und Prioritäten

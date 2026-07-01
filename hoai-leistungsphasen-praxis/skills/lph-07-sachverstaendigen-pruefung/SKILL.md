@@ -1,6 +1,6 @@
 ---
 name: lph-07-sachverstaendigen-pruefung
-description: "HOAI LPH 7 Mitwirkung bei der Vergabe: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 7 Mitwirkung bei der Vergabe: Übersetzt den lph-stand in gutachterfragen und prüfspur in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Übersetzt den lph-stand in gutachterfragen und prüfspur

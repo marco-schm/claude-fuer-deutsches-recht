@@ -1,6 +1,6 @@
 ---
 name: acc3-insolvenzrisiko-markieren
-description: "ACC3-Carrier zeigt Insolvenzzeichen. Prüft InsO §§ 15a 17-19 EU-VO 1008/2008 Art. 9 Betriebsgenehmigung Cape-Town-Remedies und liefert Risikoampel für Gläubiger und Geschäftspartner des ACC3-Carriers im Luftrecht Flughafenrecht."
+description: "Wenn es um ACC3 – Insolvenzrisiko markieren in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ACC3 – Insolvenzrisiko markieren

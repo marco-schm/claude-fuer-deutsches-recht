@@ -1,6 +1,6 @@
 ---
 name: verfassung-bund-laender-streit
-description: "Bund-Länder-Streit Art. 93 Abs. 1 Nr. 3 GG, §§ 68 ff. BVerfGG: Streitigkeiten Bund/Land oder Land/Land. Prüfraster und Beispiele (Finanzausgleich, Schulrecht, Polizeirecht) im Verfassungsrecht."
+description: "Wenn es um Bund-Länder-Streit in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bund-Länder-Streit

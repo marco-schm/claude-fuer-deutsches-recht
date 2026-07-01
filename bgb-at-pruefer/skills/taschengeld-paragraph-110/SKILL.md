@@ -1,6 +1,6 @@
 ---
 name: taschengeld-paragraph-110
-description: "Klausurfall zur Taschengeldparagraph nach § 110 BGB: Minderjähriger bewirkt Leistung aus eigenen Mitteln, die ihm zu freiem Verfügen überlassen wurden. Abgrenzung zu Schenkung, Aufwendungsersatz und zur beschränkten Geschäftsfähigkeit nach §§ 106 bis 108 BGB."
+description: "Wenn es um Taschengeldparagraph — Paragraf 110 BGB in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Taschengeld Paragraph 110; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Taschengeldparagraph — § 110 BGB

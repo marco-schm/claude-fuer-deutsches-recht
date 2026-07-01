@@ -1,6 +1,6 @@
 ---
 name: grundrechte-folgenabschaetzung-art-27-praxis
-description: "Grundrechte-Folgenabschaetzung nach Art. 27 KI-VO in der Praxis: betroffene Gruppen, Zweck, Risiko, Diskriminierung, Datenschutz, menschliche Aufsicht, Beteiligung, Abhilfe, Residualrisiko und Board-Vorlage."
+description: "Wenn es um Grundrechte-Folgenabschätzung nach Art. 27 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Grundrechte-Folgenabschätzung nach Art. 27 KI-VO

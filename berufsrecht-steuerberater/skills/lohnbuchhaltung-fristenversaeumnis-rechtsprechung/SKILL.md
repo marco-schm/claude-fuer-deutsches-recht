@@ -1,6 +1,6 @@
 ---
 name: lohnbuchhaltung-fristenversaeumnis-rechtsprechung
-description: "Steuerberater: lohnbuchhaltung fristenversaeumnis - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Lohnbuchhaltung Fristenversaeumnis Rechtsprechung in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: lohnbuchhaltung fristenversaeumnis - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

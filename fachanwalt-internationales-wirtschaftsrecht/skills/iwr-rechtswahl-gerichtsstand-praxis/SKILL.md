@@ -1,6 +1,6 @@
 ---
 name: iwr-rechtswahl-gerichtsstand-praxis
-description: "Rechtswahl und Gerichtsstand in der Praxis: Prüfraster Art: 3 ROM I, Art. 25 EuGVVO, asymmetrische Klauseln, Schiedsklausel statt staatlicher Gerichtsstand. Mustertexte für typische Konstellation..."
+description: "Wenn es um Rechtswahl und Gerichtsstand in der Praxis: Prüfraster Art in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtswahl und Gerichtsstand in der Praxis: Prüfraster Art

@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-meldepflichten-bafin
-description: "AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Meldepflichten Bafin; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um Aufsichtsrat Meldepflichten Bafin in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Aufsichtsrat Meldepflichten Bafin

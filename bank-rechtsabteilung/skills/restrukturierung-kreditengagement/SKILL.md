@@ -1,6 +1,6 @@
 ---
 name: restrukturierung-kreditengagement
-description: "Restrukturierung eines Kreditengagements steuern: Strategie, Sicherheiten, Pool, StaRUG-/InsO-Schnittstelle, Sanierungsbeiträge, Kommunikation und interne Kreditakte ordnen im Bank-Rechtsabteilung."
+description: "Wenn es um Kreditrestrukturierung in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Kreditrestrukturierung

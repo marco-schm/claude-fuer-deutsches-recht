@@ -1,6 +1,6 @@
 ---
 name: carry-waterfall-und-clawback
-description: "Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, European/American Waterfall und Clawback im Private Equity Praxis."
+description: "Wenn es um Carry, Waterfall und Clawback in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Carry, Waterfall und Clawback

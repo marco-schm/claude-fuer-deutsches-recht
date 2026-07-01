@@ -1,6 +1,6 @@
 ---
 name: tod-des-mieters
-description: "Tod des Mieters: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Eintrittsrechte, Erben, Kündigung, Räumung, Nachlass; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Tod des Mieters: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tod des Mieters: Fachmodul im Miet- und Wohnungseigentumsrecht

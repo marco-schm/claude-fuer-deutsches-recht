@@ -1,6 +1,6 @@
 ---
 name: spendenannahme-sponsoring
-description: "Wahlkampfrecht Praxis: Parteispenden und Sachleistungen vor Annahme prüfen im Wahlkampfrecht."
+description: "Wenn es um Spendenannahme Prüfung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spendenannahme Prüfung

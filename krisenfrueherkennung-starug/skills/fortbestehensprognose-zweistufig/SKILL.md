@@ -1,6 +1,6 @@
 ---
 name: fortbestehensprognose-zweistufig
-description: "Zweistufige Fortbestehensprognose nach IDW S 11 erstellen: Unternehmen ist möglicherweise ueberschuldet und braucht positive Fortführungsprognose. Normen: § 19 InsO (Überschuldungsbegriff modifiziert), IDW S 11 (Fortbestehensprognose-Standard). Prüfraster: Stufe 1 Fortführungswille, Stufe 2 Fortf..."
+description: "Wenn es um Fortbestehensprognose — Zweistufiges Modell nach IDW S 11 in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fortbestehensprognose — Zweistufiges Modell nach IDW S 11

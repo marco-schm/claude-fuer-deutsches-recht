@@ -1,6 +1,6 @@
 ---
 name: beweissicherung
-description: "Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Beweismittel in einem späteren Bußgeldverfahren, Strafverfahren oder Zivilprozess verwertbar bleiben. Behandelt: Chain of Custody; Logging-Sicherung; Speicherabbilder; Hashes; Zeugenidentifikation; Dokumentation der Wahrn..."
+description: "Wenn es um Beweissicherung nach Datenschutzvorfall — Chain of Custody in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweissicherung nach Datenschutzvorfall — Chain of Custody

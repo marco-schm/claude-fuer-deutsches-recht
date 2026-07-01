@@ -1,6 +1,6 @@
 ---
 name: pfueb-802l-arbeit
-description: "Gläubiger will Mietforderung Steuererstattung oder Forderung gegen sonstigen Drittschuldner pfaenden. §§ 829 835 851 850b ZPO sonstige Drittschuldner. Prüfraster: Mieter Mietzinsforderung Finanzamt Steuererstattung Kranken-kasse Krankengeld Versicherung Rückkaufswert Geschäftspartner Rechnungen...."
+description: "Wenn es um PfÜB Mieter, Finanzamt, sonstige Drittschuldner in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PfÜB Mieter, Finanzamt, sonstige Drittschuldner

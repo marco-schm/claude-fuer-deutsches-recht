@@ -1,6 +1,6 @@
 ---
 name: livequellen-hgb
-description: "Zwingt HGB-Normen und Rechtsprechung vor Ausgabe zu aktueller freier Quellenprüfung."
+description: "Wenn es um Livequellen HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Livequellen HGB

@@ -1,6 +1,6 @@
 ---
 name: landesverband-ohne-untergliederung
-description: "Prüft Sonderlage kleiner Parteien ohne Kreisverbände: Satzung, Vorstand, Wahlvorschläge, Delegation."
+description: "Wenn es um Landesverband ohne Untergliederung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landesverband ohne Untergliederung

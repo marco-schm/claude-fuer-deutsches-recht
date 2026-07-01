@@ -1,6 +1,6 @@
 ---
 name: belehrungspflicht-verbraucher
-description: "Notare: belehrungspflicht und verbraucher - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Belehrungspflicht Verbraucher in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Notare: belehrungspflicht und verbraucher - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: workflow-verhandlung-handelsstreit
-description: "Macht Verhandlungsplan bei Liefer-, Register-, Handelsvertreter- oder Gesellschafterstreit im Handelsrecht Hgb."
+description: "Wenn es um Verhandlung im Handelsstreit in Handelsrecht HGB geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Verhandlung im Handelsstreit

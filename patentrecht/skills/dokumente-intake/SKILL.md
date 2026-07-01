@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Patentrecht (Verfahren, Verletzung): sortiert Patentschrift, Einspruchsschrift, Verletzungsanalyse, prüft Datum, Absender, Frist und Beweiswert (Stand-der-Technik-Dokumente, FTO-Analyse); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in patentrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

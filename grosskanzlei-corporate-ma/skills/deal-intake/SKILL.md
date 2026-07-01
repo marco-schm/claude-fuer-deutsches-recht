@@ -1,6 +1,6 @@
 ---
 name: deal-intake
-description: "Nimmt ein neues M&A-Mandat strukturiert auf: Rolle, Deal-Typ, Parteien, Zielgesellschaft, Timing, Konflikte, Workstreams, Freigaben und erstes Partner-Memo."
+description: "Wenn es um Deal-Intake in Großkanzlei Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Deal-Intake

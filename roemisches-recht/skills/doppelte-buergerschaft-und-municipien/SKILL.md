@@ -1,6 +1,6 @@
 ---
 name: doppelte-buergerschaft-und-municipien
-description: "Doppelte Buergerschaft und Municipien. Skill behandelt die roemisch-rechtliche Stellung der municipes als Doppelbuerger (Buerger der Heimatstadt und Roms) das Verhältnis zwischen Stadtrecht und Reichsrecht. Liefert Quellenmatrix."
+description: "Wenn es um Rom 157 Doppelte Buergerschaft Und Municipien in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 157 Doppelte Buergerschaft Und Municipien

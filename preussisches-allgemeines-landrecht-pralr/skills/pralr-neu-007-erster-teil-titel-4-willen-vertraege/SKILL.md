@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-007-erster-teil-titel-4-willen-vertraege
-description: "PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge

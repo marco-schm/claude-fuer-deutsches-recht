@@ -1,6 +1,6 @@
 ---
 name: personalausweis-pass-petition-buergeranliegen
-description: "Erklärt Antrag, Verlust, Sperrung, vorläufige Dokumente, Reiseproblem und Zuständigkeit im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Personalausweis und Pass in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Personalausweis und Pass

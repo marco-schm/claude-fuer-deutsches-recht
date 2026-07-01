@@ -1,6 +1,6 @@
 ---
 name: mietminderung-schimmel
-description: "Fachanwalt Miet Wohnungseigentumsrecht Mietminderung Schimmel: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Miet Wohnungseigentumsrecht Mietminderung Schimmel: ordnet Normen, Nutzera..."
+description: "Wenn es um Mietminderung Schimmel in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Miet Wohnungseigentumsrecht Mietminderung Schimmel: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

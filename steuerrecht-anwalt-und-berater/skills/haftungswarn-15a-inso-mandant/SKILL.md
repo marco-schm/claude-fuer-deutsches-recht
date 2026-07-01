@@ -1,6 +1,6 @@
 ---
 name: haftungswarn-15a-inso-mandant
-description: "Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestellter Insolvenzreife nach §§ 17 19 InsO. Anwendungsfall GmbH-GF spricht beim Anwalt vor weil Steuerberater Krisensignale gemeldet hat. Antragspflicht § 15a InsO drei Wochen Zahlungsunfähigkeit sechs Wochen Überschuldung"
+description: "Wenn es um Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht) in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Haftungswarn 15a Inso Mandant; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht)

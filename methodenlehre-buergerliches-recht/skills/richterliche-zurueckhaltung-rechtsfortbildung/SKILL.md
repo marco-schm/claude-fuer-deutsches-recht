@@ -1,6 +1,6 @@
 ---
 name: richterliche-zurueckhaltung-rechtsfortbildung
-description: "Analysiert das Prinzip richterlicher Zurückhaltung als methodisches Gebot im Zivilrecht und klärt, wann Gerichte trotz offener Normfragen die Entscheidung dem Gesetzgeber überlassen sollten. Das Skill systematisiert die Abwägung zwischen aktivem Judizieren und institutioneller Selbstbeschränkung..."
+description: "Wenn es um Richterliche Zurückhaltung und Rechtsfortbildung: Methodische Grenzziehung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Richterliche Zurückhaltung und Rechtsfortbildung: Methodische Grenzziehung

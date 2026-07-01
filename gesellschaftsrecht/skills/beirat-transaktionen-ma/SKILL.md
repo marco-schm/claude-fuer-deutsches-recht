@@ -1,6 +1,6 @@
 ---
 name: beirat-transaktionen-ma
-description: "GmbH-Beirat: Beirat Transaktionen M&A; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrecht."
+description: "Wenn es um Beirat Transaktionen M&A in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Transaktionen M&A

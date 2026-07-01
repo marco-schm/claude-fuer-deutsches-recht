@@ -1,6 +1,6 @@
 ---
 name: genehmigung-red-team-und-qualitaetskontrolle
-description: "Genehmigung: Red-Team und Qualitätskontrolle im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Genehmigung: Red-Team und Qualitätskontrolle in Betreuungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Genehmigung: Red-Team und Qualitätskontrolle

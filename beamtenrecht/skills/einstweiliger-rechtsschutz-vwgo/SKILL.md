@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz-vwgo
-description: "Einstweiliger Rechtsschutz: § 80, § 80a, § 123 VwGO, Sicherungsanordnung und Regelungsanordnung im Beamtenrecht."
+description: "Wenn es um Einstweiliger Rechtsschutz Vwgo in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstweiliger Rechtsschutz Vwgo

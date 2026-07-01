@@ -1,6 +1,6 @@
 ---
 name: personalakten-struktur-und-zugriff
-description: "Berliner Start-up-HR: Personalaktenstruktur mit Rollenrechten, Ablageplan, Audit-Trail, Trennung sensibler Daten und Löschlogik. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Personalakten Struktur Und Zugriff in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Personalakten Struktur Und Zugriff

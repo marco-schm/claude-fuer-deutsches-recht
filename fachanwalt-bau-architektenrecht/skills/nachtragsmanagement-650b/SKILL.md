@@ -1,6 +1,6 @@
 ---
 name: nachtragsmanagement-650b
-description: "Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Änderungsanordnung: Normen: §§ 650b 650c BGB, §§ 1 2 VOB/B. Prüfraste..."
+description: "Wenn es um Nachtragsmanagement 650b in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Änderungsanordnung

@@ -1,6 +1,6 @@
 ---
 name: vertiefung-interessen-wurzeln-zaun
-description: "Vertiefung: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Vertiefung: Mehrparteienkonflikt und Interessenmatrix in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertiefung: Mehrparteienkonflikt und Interessenmatrix

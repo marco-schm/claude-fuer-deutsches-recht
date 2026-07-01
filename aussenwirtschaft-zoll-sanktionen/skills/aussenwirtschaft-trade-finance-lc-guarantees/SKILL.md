@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-trade-finance-lc-guarantees
-description: "Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv (Letter of Credit) Bankgarantien Avale und Dokumenteninkasso unter Beruecksichtigung von VO (EU) 833/2014 Art. 5a (Finanzhilfen) und Korrespondenzbanken-Verboten. Prüfraster für Bank-Compliance und Handelsfinanzieru..."
+description: "Wenn es um Trade Finance und Sanktionen: Akkreditive Garantien und Finanzhilfe-Verbote in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Trade Finance und Sanktionen: Akkreditive Garantien und Finanzhilfe-Verbote

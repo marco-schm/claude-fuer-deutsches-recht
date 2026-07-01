@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-dachdeckung-flachdach-attika
-description: "Bauueberwachung HOAI LPH 8 für Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Prüfung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flu..."
+description: "Wenn es um Bauueberwachung Flachdach und Attika in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Flachdach und Attika

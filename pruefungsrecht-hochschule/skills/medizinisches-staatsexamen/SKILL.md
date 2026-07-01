@@ -1,6 +1,6 @@
 ---
 name: medizinisches-staatsexamen
-description: "Prüft M1/M2/M3, IMPP, Prüfungsrücktritt, Nachteilsausgleich und Bescheide im Prüfungsrecht Hochschule."
+description: "Wenn es um Medizinisches Staatsexamen in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medizinisches Staatsexamen

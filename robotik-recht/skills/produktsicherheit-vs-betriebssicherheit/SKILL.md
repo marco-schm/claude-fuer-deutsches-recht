@@ -1,6 +1,6 @@
 ---
 name: produktsicherheit-vs-betriebssicherheit
-description: "Trennt Inverkehrbringen/Produktsicherheit von Betrieb/Arbeitsschutz und verhindert falsche Verantwortungszuordnung."
+description: "Wenn es um Produktsicherheit vs Betriebssicherheit in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Produktsicherheit vs Betriebssicherheit

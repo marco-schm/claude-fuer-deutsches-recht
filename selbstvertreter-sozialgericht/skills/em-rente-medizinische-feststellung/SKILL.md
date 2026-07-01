@@ -1,6 +1,6 @@
 ---
 name: em-rente-medizinische-feststellung
-description: "Erwerbsminderungsrente medizinische Feststellung. Skill klaert die Voraussetzungen volle EM-Rente teilweise EM-Rente versicherungsrechtliche Voraussetzungen 5-Jahres-Wartezeit 3-Jahres-Belegungspflicht. Aktuelle Reform Anhebung des Zugangsfaktors. Liefert Prüfraster."
+description: "Wenn es um Em Rente Medizinische Feststellung in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Em Rente Medizinische Feststellung

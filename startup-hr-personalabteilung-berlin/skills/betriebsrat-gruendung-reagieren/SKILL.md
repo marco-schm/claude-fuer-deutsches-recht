@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-gruendung-reagieren
-description: "Berliner Start-up-HR: Wenn Beschäftigte Betriebsrat gründen wollen: neutral bleiben, Schutzrechte, Kommunikation, Wahlvorstand und Management-Briefing. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-H..."
+description: "Wenn es um Betriebsrat Gruendung Reagieren in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsrat Gruendung Reagieren

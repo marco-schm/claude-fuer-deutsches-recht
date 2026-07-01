@@ -1,6 +1,6 @@
 ---
 name: slots-und-koordination
-description: "Airline verliert Slot oder klagt gegen Slotzuweisung der Flughafenkoordinatorin Fluko. Prüft VO EWG 95/93 Slotverordnung Grandfather Rights Use-it-or-lose-it FHKV Verwaltungsgerichtsweg und EuGH-Rechtsprechung zu Slot-Uebertragbarkeit und liefert Rechtsmittel-Vermerk und Klagebaustein im Luftrec..."
+description: "Wenn es um Slots und Koordination – Slotzuweisung, Verlust und Rechtsschutz in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Slots und Koordination – Slotzuweisung, Verlust und Rechtsschutz

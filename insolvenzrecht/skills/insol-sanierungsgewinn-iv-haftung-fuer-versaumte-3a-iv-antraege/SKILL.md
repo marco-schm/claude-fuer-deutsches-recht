@@ -1,6 +1,6 @@
 ---
 name: insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege
-description: "Haftung des Insolvenzverwalters und Sachwalters nach Paragraph 60 InsO fuer versaeumte oder verspaetete Antraege rund um den Sanierungsertrag. Welche Pflichten treffen den IV im Steuerteil des Plans. Wann liegt eine schuldhafte Pflichtverletzung vor. Verteidigungsstrategie und Versicherungsdeckung. Mustertext fuer Verteidigungsschriftsatz und fuer praeventive Aktendokumentation."
+description: "Wenn es um Sanierungsgewinn — IV-Haftung fuer versaeumte Paragraph 3a-Antraege in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Sanierungsgewinn — IV-Haftung fuer versaeumte Paragraph 3a-Antraege

@@ -1,6 +1,6 @@
 ---
 name: spezial-reiseausweis-fluechtling
-description: "Reiseausweis Flüchtling: Spezial-Skill im Migrationsrecht; prüft Anspruch, Passbeschaffung, Zumutbarkeit, Reise-/Heimatstaatrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Reiseausweis Flüchtling in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reiseausweis Flüchtling

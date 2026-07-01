@@ -1,6 +1,6 @@
 ---
 name: mandat-arbeitsbereich
-description: "Mandats-Arbeitsbereiche verwalten – neu, liste, wechseln, schließen oder keines (Praxisebene). Datei- Verwaltungslogik, um den Kontext eines Mandanten oder Auftrags von jedem anderen zu trennen. Verwenden, wenn mandatsübergreifend gearbeitet wird, wenn der Nutzer sagt neues Mandat, Mandat wechsel..."
+description: "Wenn es um /mandat-arbeitsbereich in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # /mandat-arbeitsbereich

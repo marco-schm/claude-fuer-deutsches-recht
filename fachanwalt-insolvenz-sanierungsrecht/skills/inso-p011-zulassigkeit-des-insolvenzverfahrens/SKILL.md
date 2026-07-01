@@ -1,6 +1,6 @@
 ---
 name: inso-p011-zulassigkeit-des-insolvenzverfahrens
-description: "§ 11 InsO (Zulässigkeit des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 11 InsO (Zulässigkeit des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Bel..."
+description: "Wenn es um Inso P011 Zulassigkeit Des Insolvenzverfahrens in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 11 InsO (Zulässigkeit des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

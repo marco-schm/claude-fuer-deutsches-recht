@@ -1,6 +1,6 @@
 ---
 name: lph-03-bauherrnfreigabe
-description: "HOAI LPH 3 Entwurfsplanung: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 3 Entwurfsplanung: Strukturiert freigabeentscheidung in HOAI Leistungsphasen Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # LPH 3 Entwurfsplanung: Strukturiert freigabeentscheidung

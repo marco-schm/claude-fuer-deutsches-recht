@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-arztbrief-anspruchsbegruendung-uebersetzen
-description: "Methodik zur Transformation medizinischer Arztbriefe in rechtlich verwertbare Anspruchsbegründungen gegenüber GKV und PKV im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Arztbrief in Anspruchsbegründung übersetzen in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Arztbrief in Anspruchsbegründung übersetzen

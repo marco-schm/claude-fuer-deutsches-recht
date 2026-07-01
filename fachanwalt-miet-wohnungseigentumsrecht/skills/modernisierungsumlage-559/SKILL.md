@@ -1,6 +1,6 @@
 ---
 name: modernisierungsumlage-559
-description: "Modernisierungsumlage § 559 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht: berechnet Kostenabzug Erhaltung, Kappung, Drittmittel, Erläuterung; mit Normprüfung, Beweisen, Fr..."
+description: "Wenn es um Modernisierungsumlage Paragraf 559 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Modernisierungsumlage § 559 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht

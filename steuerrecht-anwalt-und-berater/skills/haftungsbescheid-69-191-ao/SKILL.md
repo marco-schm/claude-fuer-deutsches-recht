@@ -1,6 +1,6 @@
 ---
 name: haftungsbescheid-69-191-ao
-description: "Materielle Prüfung und Abwehr von Haftungsbescheiden — Geschäftsführerhaftung § 69 AO Steuerhinterzieherhaftung § 71 AO Lohnsteuerhaftung § 42d EStG und Verfahrensvorschriften § 191 AO. Anwendungsfall Geschäftsführer oder GmbH-Beirat erhaelt Haftungsbescheid wegen rueckstaendiger Steuern der..."
+description: "Wenn es um Haftungsbescheid — Paragraf 69 AO Paragraf 71 AO und Verfahren Paragraf 191 AO in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haftungsbescheid — § 69 AO § 71 AO und Verfahren § 191 AO

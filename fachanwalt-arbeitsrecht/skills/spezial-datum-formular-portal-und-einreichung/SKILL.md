@@ -1,6 +1,6 @@
 ---
 name: spezial-datum-formular-portal-und-einreichung
-description: "Datum: Formular, Portal und Einreichungslogik im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Datum: Formular, Portal und Einreichungslogik in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datum: Formular, Portal und Einreichungslogik

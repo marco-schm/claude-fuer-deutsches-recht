@@ -1,6 +1,6 @@
 ---
 name: local-counsel-loeschung-erwiderung
-description: "Local-Counsel-Briefing für ausländische Utility-Model-Fragen erstellen: technische Lehre, Priorität, Offenbarung, Produkt, Gegner und gewünschte Maßnahme im Gebrauchsmusterrecht."
+description: "Wenn es um Local Counsel Briefing Ausland in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Local Counsel Briefing Ausland

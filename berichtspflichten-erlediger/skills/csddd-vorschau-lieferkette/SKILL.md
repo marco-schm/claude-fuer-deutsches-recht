@@ -1,6 +1,6 @@
 ---
 name: csddd-vorschau-lieferkette
-description: "CSDDD-Vorschau: künftige EU-Sorgfaltspflichten, Vertragskaskaden, Klimaplan und Übergangsmanagement im Berichtspflichten."
+description: "Wenn es um CSDDD Vorschau und Lieferkettenbericht in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CSDDD Vorschau und Lieferkettenbericht

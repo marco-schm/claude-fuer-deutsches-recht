@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-gruppenweite-compliance
-description: "Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaften und Dienstleistern. Anwendungsfall Muttergesellschaft will gruppenweite AML-Compliance sicherstellen und Tochtergesellschaften einbinden. Normen § 9 GwG Gruppenweite Pflichten § 25n KWG Auslagerung Art. 45 AMLD Gruppenweite Ver..."
+description: "Wenn es um Gruppenweite Compliance und Outsourcing in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gruppenweite Compliance und Outsourcing

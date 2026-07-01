@@ -1,6 +1,6 @@
 ---
 name: kommunalrecht-in-einfacher-sprache
-description: "Kommunalrecht der Länder: Kommunalrecht in einfacher Sprache. Kommunalrecht in einfacher Sprache im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
+description: "Wenn es um Kommunalrecht In Einfacher Sprache in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalrecht In Einfacher Sprache

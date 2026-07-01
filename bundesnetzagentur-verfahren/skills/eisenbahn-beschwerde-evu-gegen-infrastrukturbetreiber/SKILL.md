@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-beschwerde-evu-gegen-infrastrukturbetreiber
-description: "Eisenbahn / Beschwerde EVU gegen Infrastrukturbetreiber: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren."
+description: "Wenn es um Beschwerde eines EVU gegen den Infrastrukturbetreiber nach Paragraf 66 ERegG in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beschwerde eines EVU gegen den Infrastrukturbetreiber nach § 66 ERegG

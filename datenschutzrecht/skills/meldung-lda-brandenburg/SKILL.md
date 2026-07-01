@@ -1,6 +1,6 @@
 ---
 name: meldung-lda-brandenburg
-description: "Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg (LDA BB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Brandenburg und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pfl..."
+description: "Wenn es um Meldung Art. 33 DSGVO an die LDA BB in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meldung Art. 33 DSGVO an die LDA BB

@@ -1,6 +1,6 @@
 ---
 name: handelsrichter-gesellschafterstreit-orientierung
-description: "Handelsrichter Gesellschafterstreit (Orientierung): hilft ehrenamtlichen Richtern bei GmbH/OHG/KG-Streit, Beschlussmängel, Treuepflicht und einstweiliger Rechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Handelsrichter Gesellschafterstreit: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Handelsrichter Gesellschafterstreit: Orientierung

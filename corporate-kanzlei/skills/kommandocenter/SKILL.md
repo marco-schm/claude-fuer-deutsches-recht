@@ -1,6 +1,6 @@
 ---
 name: kommandocenter
-description: "Deal-Kommandocenter Corporate/M&A: Schnellstart für Mandate. Erkennt Dealtyp, Phase und Parteiperspektive; erzeugt Deal-Karte mit Ampel, Rollen, naechster Aktion und Freigabegrad. Routet an passenden Fachmodul (SPA, DD, StaRUG, Kapitalmarkt, Register)."
+description: "Wenn es um Deal-Kommandocenter — Corporate/M&A in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kommandocenter; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # Deal-Kommandocenter — Corporate/M&A

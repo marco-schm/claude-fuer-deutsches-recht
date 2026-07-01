@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-google-ads-und-keyword-kollision
-description: "Rechtsabteilungs-Fachmodul für Google Ads und Keyword-Kollision: Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Markenrecht Fashion Luxus."
+description: "Wenn es um Rechtsabteilung: Google Ads und Keyword-Kollision in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Rechtsabteilung: Google Ads und Keyword-Kollision

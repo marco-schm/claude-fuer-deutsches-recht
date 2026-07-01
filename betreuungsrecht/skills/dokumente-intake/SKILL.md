@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Betreuungsrecht: sortiert Betreuungsbeschluss, Sachverständigengutachten, Vorsorgevollmacht, prüft Datum, Absender, Frist und Beweiswert (Ärztliches Gutachten, Persönliche Anhörung Betroffener); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

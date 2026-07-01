@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-rechtsschutzversicherung-im-massenverfahren
-description: "Rechtsabteilungs-Fachmodul für Rechtsschutzversicherung im Massenverfahren: Deckungsanfrage, Stichentscheid und Erfolgsaussicht werden taktisch vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Versicherungsrecht."
+description: "Wenn es um Rechtsabteilung: Rechtsschutzversicherung im Massenverfahren in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Rechtsschutzversicherung im Massenverfahren

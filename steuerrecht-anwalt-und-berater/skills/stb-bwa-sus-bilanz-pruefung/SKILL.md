@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-sus-bilanz-pruefung
-description: "BWA, SuSa und Bilanzentwurf auf Krisensignale pruefen: Zahlungsunfaehigkeit, Ueberschuldung, Fortbestehensprognose, StaRUG-Hinweispflichten und steuerberaterliche Dokumentation mit konkretem Eskalationsvermerk."
+description: "Wenn es um BWA-, SuSa- und Bilanzpruefung bei Krisensignalen in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # BWA-, SuSa- und Bilanzpruefung bei Krisensignalen

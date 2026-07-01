@@ -1,6 +1,6 @@
 ---
 name: palliativmedizin-haftung
-description: "Palliativmedizin Haftung: moderner Medizinrechts-Skill für Symptomkontrolle, Sedierung, Patientenwille, Angehörigenkonflikt und Dokumentation: Palliativmedizin Haftung: moderner Medizinrechts-Skill für Symptomkontrolle, Sedierung, Patientenwille, Angehörige..."
+description: "Wenn es um Palliativmedizin Haftung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Palliativmedizin Haftung: moderner Medizinrechts-Skill für Symptomkontrolle, Sedierung, Patientenwille, Angehörigenkonflikt und Dokumentation

@@ -1,6 +1,6 @@
 ---
 name: inso-p300a-neuerwerb-im-laufenden-insolvenzverfahren
-description: "§ 300a InsO (Neuerwerb im laufenden Insolvenzverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 300a InsO (Neuerwerb im laufenden Insolvenzverfahren) im Mandat prüfen: Normzweck, T..."
+description: "Wenn es um Inso P300a Neuerwerb Im Laufenden Insolvenzverfahren in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 300a InsO (Neuerwerb im laufenden Insolvenzverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

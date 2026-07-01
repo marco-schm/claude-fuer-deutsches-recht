@@ -1,6 +1,6 @@
 ---
 name: chat-review
-description: "Sichert und wertet Chat-Kommunikation (Teams, Slack, WhatsApp, Signal) in Internal Investigations aus – Retention, Forensik, DSGVO im Internal Investigations Praxis."
+description: "Wenn es um Chat-Review in Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Chat-Review in Internal Investigations

@@ -1,6 +1,6 @@
 ---
 name: inso-p074-einberufung-der-glaubigerversammlung
-description: "§ 74 InsO (Einberufung der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 74 InsO (Einberufung der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand, Bel..."
+description: "Wenn es um Inso P074 Einberufung Der Glaubigerversammlung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 74 InsO (Einberufung der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

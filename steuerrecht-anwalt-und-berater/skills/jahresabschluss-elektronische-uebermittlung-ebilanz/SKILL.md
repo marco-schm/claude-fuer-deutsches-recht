@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-elektronische-uebermittlung-ebilanz
-description: "E-Bilanz § 5b EStG elektronische Übermittlung. Anwendungsfall Bilanzierer Pflicht zur elektronischen Übermittlung der Steuerbilanz an FA Taxonomie-Standard. Methodik DATEV-E-Bilanz Modul. Output E-Bilanz uebermittelt im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um E-Bilanz — Paragraf 5b EStG elektronische Uebermittlung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Jahresabschluss Elektronische Uebermittlung Ebilanz; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # E-Bilanz — § 5b EStG elektronische Uebermittlung

@@ -1,6 +1,6 @@
 ---
 name: erforderlichkeit-dokumentieren
-description: "Prüfe die Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenüber dem KI-Dienstleister nach Absatz eins der einschlaegigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). Bezugspunkt ist der Zweck der konkreten Offenlegung, nicht die abstrakte KI-Strategie der Kanzlei. Erstelle einen..."
+description: "Wenn es um Erforderlichkeit dokumentieren in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Erforderlichkeit dokumentieren

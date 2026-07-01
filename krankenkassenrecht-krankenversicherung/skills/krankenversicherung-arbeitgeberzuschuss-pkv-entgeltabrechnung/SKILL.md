@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-arbeitgeberzuschuss-pkv-entgeltabrechnung
-description: "AG-Zuschuss zur PKV nach § 257 SGB V: Höhe, Berechnung, Sozialversicherungsfreiheit, falsche Abrechnung und Rückforderungsrisiken im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Arbeitgeberzuschuss PKV und Entgeltabrechnung in Krankenkassenrecht und Krankenversicherung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Arbeitgeberzuschuss PKV und Entgeltabrechnung

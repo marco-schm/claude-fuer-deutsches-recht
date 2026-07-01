@@ -1,6 +1,6 @@
 ---
 name: spezial-wohnsitzauflage
-description: "Wohnsitzauflage: Spezial-Skill im Migrationsrecht; prüft Verpflichtung, Änderung, Familie, Arbeit, Integration; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Wohnsitzauflage in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnsitzauflage

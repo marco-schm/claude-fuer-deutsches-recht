@@ -1,6 +1,6 @@
 ---
 name: claims-trading-confirmation-contested-matters
-description: "Prüft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy im US Bankruptcy Code."
+description: "Wenn es um Claims Trading Rule 3001(e) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Claims Trading Rule 3001(e)

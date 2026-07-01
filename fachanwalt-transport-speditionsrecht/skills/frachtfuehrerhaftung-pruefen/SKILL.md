@@ -1,6 +1,6 @@
 ---
 name: frachtfuehrerhaftung-pruefen
-description: "Frachtführerhaftung für Verlust oder Beschaedigung des Gutes nach HGB prüfen: Normen: §§ 425 427 428 HGB. Prüfraster: Obhutszeitraum, Haftungsbefreiungstatbestaende, Haftungshoech..."
+description: "Wenn es um Frachtführerhaftung für Verlust oder Beschaedigung des Gutes nach HGB prüfen in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frachtführerhaftung für Verlust oder Beschaedigung des Gutes nach HGB prüfen

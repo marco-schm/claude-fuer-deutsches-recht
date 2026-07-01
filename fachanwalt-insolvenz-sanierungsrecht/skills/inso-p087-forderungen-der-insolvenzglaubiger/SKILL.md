@@ -1,6 +1,6 @@
 ---
 name: inso-p087-forderungen-der-insolvenzglaubiger
-description: "§ 87 InsO (Forderungen der Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 87 InsO (Forderungen der Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege,..."
+description: "Wenn es um Inso P087 Forderungen Der Insolvenzglaubiger in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 87 InsO (Forderungen der Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

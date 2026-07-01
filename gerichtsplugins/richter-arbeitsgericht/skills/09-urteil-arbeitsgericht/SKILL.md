@@ -1,6 +1,6 @@
 ---
 name: 09-urteil-arbeitsgericht
-description: "Urteil Paragraf 60 ArbGG i.V.m. Paragrafen 313 ZPO, Tenor, Tatbestand, Entscheidungsgründe, Streitwert (3 Bruttomonatsgehaelter bei Kündigung), Berufung an LAG Paragraf 64 ArbGG, Revision an BAG Paragraf 72 ArbGG"
+description: "Wenn es um 09 Urteil Arbeitsgericht in Arbeitsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 09 Urteil Arbeitsgericht

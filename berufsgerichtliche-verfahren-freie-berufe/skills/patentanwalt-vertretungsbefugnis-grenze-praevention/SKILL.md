@@ -1,6 +1,6 @@
 ---
 name: patentanwalt-vertretungsbefugnis-grenze-praevention
-description: "Patentanwalt Vertretungsbefugnis Grenze (Präventions- und Organisationspaket): steuert Grenzen patentanwaltlicher Beratung, Rechtsdienstleistung, Prozessvertretung und Kooperation mit Rechtsanwälten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsproduk..."
+description: "Wenn es um Patentanwalt Vertretungsbefugnis Grenze: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Patentanwalt Vertretungsbefugnis Grenze: Präventions- und Organisationspaket

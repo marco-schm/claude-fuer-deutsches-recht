@@ -1,6 +1,6 @@
 ---
 name: workflow-fristen-und-risikoampel
-description: "Fristen- und Risikoampel für Subsumtion: Verjährung, Notfristen, Rechtsbehelfe, Ausschlussfristen, Zustellung und Beweisverlust als erste Weiche vor der materiellen Prüfung."
+description: "Wenn es um Fristen- und Risikoampel für Subsumtion in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen- und Risikoampel für Subsumtion

@@ -1,6 +1,6 @@
 ---
 name: anfg-rechtsfolge-rueckgewaehr-11
-description: "Rechtsfolge bei erfolgreicher AnfG-Anfechtung bestimmen: Duldungspflicht des Anfechtungsgegners und Wertersatz nach § 11 AnfG. Normen: § 11 AnfG, §§ 819 ff. BGB analog. Prüfraster: Duldung vs. Wertersatz, Bösgläubigkeit, Umfang der Rückgewähr. Output: Tenorvorschlag Duldungsurteil und Wertersatzb..."
+description: "Wenn es um Rechtsfolge: Rückgewähr — Paragraf 11 AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsfolge: Rückgewähr — § 11 AnfG

@@ -1,6 +1,6 @@
 ---
 name: mandantenmemo-strategie-manufacturing
-description: "Mandantenmemo für Fashion-Law-Strategie erstellen: kurze Lage, Optionen, Risiken, Kosten, Timeline, Verantwortliche und nächste Entscheidungen im Fashion Law Moderecht."
+description: "Wenn es um Mandantenmemo Fashion Strategie in fashion-law-moderecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Mandantenmemo Fashion Strategie

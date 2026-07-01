@@ -1,6 +1,6 @@
 ---
 name: systemwechsel-rebranding-franchise-m
-description: "Systemwechsel und Rebranding im Franchiserecht abwickeln: Vertragsrechtliche Folgen der Marken- und Systemänderung, Zustimmungserfordernisse der Franchisenehmer, AGB-Kontrolle von Rebranding-Klauseln, Investitionsschutz und Übergangsfristen im Franchiserecht."
+description: "Wenn es um Franchiserecht: Systemwechsel und Rebranding in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Systemwechsel und Rebranding

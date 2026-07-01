@@ -1,6 +1,6 @@
 ---
 name: dfg-erstantragsteller-besondere-checks
-description: "Erstantragsteller-Spezialcheck: Promotion abgeschlossen, gute eigene Vorarbeit (Publikationen Erst- und Letztautor), Anbindung an erfahrene Person ohne Co-Antragstellung wenn moeglich, Lebenslauf mit Eltern- und Pflegezeiten transparent, Track-Record auch ohne Drittmittelhistorie. Prüfraster und..."
+description: "Wenn es um Erstantragsteller-Sondercheck in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Erstantragsteller-Sondercheck

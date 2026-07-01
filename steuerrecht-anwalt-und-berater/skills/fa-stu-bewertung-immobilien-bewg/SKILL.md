@@ -1,6 +1,6 @@
 ---
 name: fa-stu-bewertung-immobilien-bewg
-description: "Bewertung von Grundvermoegen fuer Zwecke der Erbschaft- und Schenkungsteuer — Vergleichswertverfahren Ertragswertverfahren Sachwertverfahren nach §§ 176 ff. BewG sowie Nachweis des niedrigeren gemeinen Werts § 198 BewG. Anwendungsfall Finanzamt setzt einen Bedarfswert fest der erkennbar ueber dem tatsaechlichen Verkehrswert liegt — Mandant moechte niedrigeren Wert nachweisen. Behandelt Verfahrensauswahl Bewertungsparameter Sachverstaendigengutachten und Verfassungsfragen nach Aenderung 2023. Output Pruefraster und Antrag § 198 BewG. Abgrenzung zu fa-stu-erbsch-betriebsvermoegen-13a-13b-erbstg."
+description: "Wenn es um Bewertung von Immobilien fuer Erbschaft und Schenkung — Paragrafen 176 ff. BewG in Steuerrecht – Steuerberater und Anwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Bewertung von Immobilien fuer Erbschaft und Schenkung — §§ 176 ff. BewG

@@ -1,6 +1,6 @@
 ---
 name: onboarding-rechtsbehelfssystematik
-description: "Vollstaendige Uebersicht aller steuerlichen Rechtsbehelfe — auf welcher Stufe welcher Rechtsbehelf zuständig ist welche Frist gilt und welche Zwischenanordnungen verfuegbar sind. Anwendungsfall Berater muss bei Mandatsannahme strategisch entscheiden welche Verfahrenswege offen sind und welche Erf..."
+description: "Wenn es um Rechtsbehelfe im Steuerrecht — Systematik vom Einspruch bis zur Verfassungsbeschwerde in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsbehelfe im Steuerrecht — Systematik vom Einspruch bis zur Verfassungsbeschwerde

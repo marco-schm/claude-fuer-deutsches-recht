@@ -1,6 +1,6 @@
 ---
 name: unterlagen-zugaenglichmachen
-description: "Hauptversammlung AG und SE: Unterlagen Zugaenglichmachen. Liefert Norm-Pinpoints, Prüfachsen, Red Flags, Varianten und konkrete Output-Bausteine zum Slug-Thema im Aktienrecht — Hauptversammlung AG und SE."
+description: "Wenn es um Unterlagen Zugaenglichmachen in Hauptversammlung AG und SE geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Unterlagen Zugaenglichmachen

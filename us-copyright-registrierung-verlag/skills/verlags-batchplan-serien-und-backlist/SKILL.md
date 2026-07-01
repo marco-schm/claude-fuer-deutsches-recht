@@ -1,6 +1,6 @@
 ---
 name: verlags-batchplan-serien-und-backlist
-description: "Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness im Us Copyright Registrierung Verlag."
+description: "Wenn es um Verlags-Batchplan, Serien und Backlist in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verlags-Batchplan, Serien und Backlist

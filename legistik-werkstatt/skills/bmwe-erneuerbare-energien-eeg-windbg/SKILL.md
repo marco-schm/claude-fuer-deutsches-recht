@@ -1,6 +1,6 @@
 ---
 name: bmwe-erneuerbare-energien-eeg-windbg
-description: "Sachbereich Erneuerbare Energien (EEG; WindBG) im Geschäftsbereich BMWE: Normbestand (EEG; WindBG; KWKG; SolarSpitzenG; BImSchG-Bezuege; ROG.); Akteure (Bundesnetzagentur; Bafa; Länderbehoerden Genehmigung; Planungsbehoerden.); EU-Bezug (RED III; State Aid Guidelines for Energy and Environment.)..."
+description: "Wenn es um Erneuerbare Energien (EEG; WindBG) (BMWE) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Erneuerbare Energien (EEG; WindBG) (BMWE)

@@ -1,6 +1,6 @@
 ---
 name: minderheitenrechte-partei
-description: "Prüft Antragsrechte, Sonderparteitag, Delegiertenprüfung, Informationsrechte und Gleichbehandlung."
+description: "Wenn es um Minderheitenrechte in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Minderheitenrechte Partei; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Minderheitenrechte

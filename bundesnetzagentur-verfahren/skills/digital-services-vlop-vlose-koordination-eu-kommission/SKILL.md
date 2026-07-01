@@ -1,6 +1,6 @@
 ---
 name: digital-services-vlop-vlose-koordination-eu-kommission
-description: "Digital Services / VLOP VLOSE Koordination EU-Kommission: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren."
+description: "Wenn es um VLOP/VLOSE-Koordination zwischen EU-Kommission und BNetzA in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # VLOP/VLOSE-Koordination zwischen EU-Kommission und BNetzA

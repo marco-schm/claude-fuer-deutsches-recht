@@ -1,6 +1,6 @@
 ---
 name: zag-e-geld-institut-emoney
-description: "E-Geld-Institut und E-Geld-Geschäft nach ZAG prüfen: Ausgabe, Rücktausch, monetärer Wert, Akzeptanzstellen, Sicherungsmittel, Eigenmittel, Vertrieb und Abgrenzung zu Gutschein, Token und Einlage im Bank-Rechtsabteilung."
+description: "Wenn es um E-Geld-Institut und E-Geld-Geschäft nach ZAG in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # E-Geld-Institut und E-Geld-Geschäft nach ZAG

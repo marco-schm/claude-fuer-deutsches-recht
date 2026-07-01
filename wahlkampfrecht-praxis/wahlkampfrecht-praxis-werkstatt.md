@@ -126,122 +126,58 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. Wahlkampfrecht Praxis: die letzten 72 Stunden vor Wahl, Debatte oder Krise planen im Wahlkampfrecht.
+### 11.1. 72 Stunden Sprint
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Wahlkampfrecht Praxis: Anzeigenbibliothek- und Transparenznotizen erstellen im Wahlkampfrecht.
+### 11.2. Ad Library Transparenz
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Wahlkampfrecht Praxis: Agentur-, Media- und Beratungsvertraege im Wahlkampf prüfen im Wahlkampfrecht.
+### 11.3. Agenturvertrag Compliance
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Wahlkampfrecht Praxis: Kampagnenakte so strukturieren, dass sie später prüfbar bleibt im Wahlkampfrecht.
+### 11.4. Aktenplan Und Beweisarchiv
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Wahlkampfrecht Praxis: Auftritte von Regierungsmitgliedern, Buergermeistern und Abgeordneten prüfen im Wahlkampfrecht.
+### 11.5. Amtstraeger Ressourcen
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. Wahlkampfrecht Praxis: Kritik an Wahlorganisation ohne Vertrauenszerstoerung formulieren im Wahlkampfrecht.
+### 11.6. Angriff Auf Wahlleitung Vermeiden
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Wahlkampfrecht Praxis: Beschäftigung, Minijobs, Freelancer und Ehrenamt im Wahlkampf prüfen im Wahlkampfrecht.
+### 11.7. Arbeitsrecht Kampagnenteam
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Wahlkampfrecht Praxis: digitale Beweise für schnelle Praxis sichern im Wahlkampfrecht.
+### 11.8. Archivierung Screenshots
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Wahlkampfrecht Praxis: Demobilisierungsstrategien analysieren im Wahlkampfrecht.
+### 11.9. Asymmetrische Demobilisierung
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Wahlkampfrecht Praxis: mehrsprachige und barrierefreie Kampagneninformationen rechtssicher planen im Wahlkampfrecht.
+### 11.10. Barrierefreie Und Mehrsprachige Information
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Wahlkampfrecht Praxis: barrierearme Wahlkampfkommunikation und Veranstaltungen planen im Wahlkampfrecht.
+### 11.11. Barrierefreiheit Und Inklusion
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Wahlkampfrecht Praxis: koordinierte inauthentische Kommunikation erkennen und vermeiden im Wahlkampfrecht.
+### 11.12. Bots Und Inauthentisches Verhalten
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Wahlkampfrecht Praxis: Flyer- und Briefkastenaktionen prüfen im Wahlkampfrecht.
+### 11.13. Briefkasten Flyer
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Wahlkampfrecht Praxis: Kommunikation ueber Briefwahl ohne Irrefuehrung prüfen im Wahlkampfrecht.
+### 11.14. Briefwahlkommunikation
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.15. Wahlkampfrecht Praxis: Buergerdialoge mit unangenehmen, aber legitimen Fragen vorbereiten im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.16. Wahlkampfrecht Praxis: Bundeswahlkampf als rechtlich sauberes Operating Model bauen im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.17. Wahlkampfrecht Praxis: Community Manager für Kommentare, Beleidigungen und Fragen briefen im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.18. Wahlkampfrecht Praxis: kurze Compliance-Schulung für Vorstand und Kampagnenteam erstellen im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.19. Wahlkampfrecht Praxis: Kampagnen-IT gegen Accountuebernahmen und Leaks sichern im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.20. Wahlkampfrecht Praxis: prüfen, ob politische Datenverarbeitung eine DSFA braucht im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.21. Wahlkampfrecht Praxis: Kandidierende auf Debatte, Townhall oder TV-Runde vorbereiten im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.22. Wahlkampfrecht Praxis: KI-generierte Inhalte, Deepfakes und synthetische Stimmen prüfen im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.23. Wahlkampfrecht Praxis: Desinformation und Manipulationsnarrative monitoren im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.24. Wahlkampfrecht Praxis: Bundestag, Europa, Landtag, Kommunalwahl, Buergermeisterwahl und Sonderlagen sauber unterscheiden im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.25. Wahlkampfrecht Praxis: Ehrenamtliche schnell und verstaendlich kampagnentauglich machen im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.26. Wahlkampfrecht Praxis: politische Werbung nach EU-Verordnung 2024/900 prüfen im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.27. Wahlkampfrecht Praxis: sachliche Gegenrede gegen falsche Wahlkampfnarrative erstellen im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.28. Wahlkampfrecht Praxis: auf Informationsflutung reagieren, ohne selbst Muell zu produzieren im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.29. Wahlkampfrecht Praxis: Anzeichen ausländischer Einflussnahme bewerten im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.30. Wahlkampfrecht Praxis: Selfies, Stimmzettelfotos und Wahlgeheimnisrisiken prüfen im Wahlkampfrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

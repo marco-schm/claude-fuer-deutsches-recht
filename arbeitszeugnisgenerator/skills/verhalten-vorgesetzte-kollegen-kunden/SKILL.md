@@ -1,6 +1,6 @@
 ---
 name: verhalten-vorgesetzte-kollegen-kunden
-description: "Formulierungskatalog für den Verhaltensabschnitt im qualifizierten Zeugnis. Die Reihenfolge Vorgesetzte vor Kollegen vor Kunden ist Pflicht — eine falsche Reihenfolge ist ein eigenständiger Berichtigungspunkt. Enthält Formeln für alle Noten (1 bis 4) sowie Hinweise auf riskante Formulierungen, die ungewollt Negativsignale senden."
+description: "Wenn es um Verhalten gegenüber Vorgesetzten, Kollegen und Kunden in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verhalten gegenüber Vorgesetzten, Kollegen und Kunden

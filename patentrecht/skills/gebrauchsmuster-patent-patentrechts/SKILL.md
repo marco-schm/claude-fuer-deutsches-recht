@@ -1,6 +1,6 @@
 ---
 name: gebrauchsmuster-patent-patentrechts
-description: "Prüft strategisch Patent, Gebrauchsmuster, EP/PCT, Geheimhaltung, defensive Veröffentlichung oder keine Anmeldung; berücksichtigt Offenbarung, Geschwindigkeit, Kosten, Technikart und Zielmärkte im Patentrecht."
+description: "Wenn es um Gebrauchsmuster oder Patent in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Gebrauchsmuster oder Patent

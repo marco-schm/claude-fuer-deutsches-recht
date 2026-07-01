@@ -1,6 +1,6 @@
 ---
 name: est-werbungskosten-systematik
-description: "Systematische Prüfung der Abzugsfaehigkeit von Aufwendungen — von der Veranlassungspruefung ueber Aufteilungsgebot und Aufteilungsverbot bis zu Sonderfaellen wie haeuslichem Arbeitszimmer doppelter Haushaltsfuehrung und Bewirtungskosten. Anwendungsfall Mandant macht Aufwendungen geltend deren Ab..."
+description: "Wenn es um Werbungskosten und Betriebsausgaben — Paragraf 9 EStG Paragraf 4 Abs. 4 EStG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Werbungskosten und Betriebsausgaben — § 9 EStG § 4 Abs. 4 EStG

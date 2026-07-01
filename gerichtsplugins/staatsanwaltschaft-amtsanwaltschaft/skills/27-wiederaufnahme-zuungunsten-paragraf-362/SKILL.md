@@ -1,6 +1,6 @@
 ---
 name: 27-wiederaufnahme-zuungunsten-paragraf-362
-description: "Antrag der Staatsanwaltschaft auf Wiederaufnahme zuungunsten des Verurteilten oder Freigesprochenen (Paragraf 362 StPO), Pruefungsschema der Wiederaufnahmegruende, formale Anforderungen (Paragraf 366 StPO), Verfahren nach Paragrafen 367 bis 373a StPO"
+description: "Wenn es um 27 Wiederaufnahme Zuungunsten Paragraf 362 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 27 Wiederaufnahme Zuungunsten Paragraf 362

@@ -1,6 +1,6 @@
 ---
 name: wphg-dokumentenmatrix-und-lueckenliste
-description: "Wphg: Dokumentenmatrix, Lückenliste und Nachforderung: Wphg: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Wenn es um Wphg: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Bank Kapitalmarktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Wphg: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: insolvenz-leasingnehmer-aussonderung-fortfuehrung
-description: "Insolvenz des Leasingnehmers: §§ 108 und 109 InsO, Aussonderungsrecht, Wahlrecht des Insolvenzverwalters, offene Forderungen, Sanierungsoptionen im Leasingrecht."
+description: "Wenn es um Insolvenz des Leasingnehmers: Aussonderung und Fortführung in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Insolvenz des Leasingnehmers: Aussonderung und Fortführung

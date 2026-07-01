@@ -1,6 +1,6 @@
 ---
 name: englische-vertraege-deutsches-recht
-description: "Englische Verträge nach deutschem Recht stil- und risikofest formulieren: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Wenn es um Englische Verträge nach deutschem Recht stil- und risikofest formulieren in Word-Workflows für deutsche Juristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Englische Verträge nach deutschem Recht stil- und risikofest formulieren

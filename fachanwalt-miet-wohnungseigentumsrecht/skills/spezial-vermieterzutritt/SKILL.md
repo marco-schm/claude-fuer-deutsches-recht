@@ -1,6 +1,6 @@
 ---
 name: spezial-vermieterzutritt
-description: "Vermieterzutritt: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Anlass, Ankündigung, Notfall, Besichtigung, Verkauf, Beweisaufnahme; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Vermieterzutritt in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vermieterzutritt

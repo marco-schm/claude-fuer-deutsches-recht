@@ -1,6 +1,6 @@
 ---
 name: suborbitalflug-luftrecht-oder-weltraumrecht
-description: "Suborbitalflug – Abgrenzung Luftraum/Weltraum, Kármán-Linie, FAA AST, EU-Recht im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Suborbitalflug: Luftrecht oder Weltraumrecht? in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Suborbitalflug: Luftrecht oder Weltraumrecht?

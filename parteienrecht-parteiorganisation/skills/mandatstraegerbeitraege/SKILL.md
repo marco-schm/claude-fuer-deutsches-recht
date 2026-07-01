@@ -1,6 +1,6 @@
 ---
 name: mandatstraegerbeitraege
-description: "Prüft satzungsrechtliche Mandatsträgerbeiträge, Abgrenzung Spende/Beitrag und Abgeordnetenrecht im Parteienrecht."
+description: "Wenn es um Mandatsträgerbeiträge in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mandatstraegerbeitraege; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Mandatsträgerbeiträge

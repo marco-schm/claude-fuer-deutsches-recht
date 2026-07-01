@@ -1,6 +1,6 @@
 ---
 name: expert-calls-transkripte
-description: "Anwalt wertet Management Presentations Expert Calls und Verhandlungstranskripte für DD und SPA-Vorbereitung aus. Normen §§ 311 241 BGB Vorvertragspflichten Geheimhaltungsvereinbarungen NDA. Prüfraster Kernaussagen-Extrakt Widerspruecheprüfung DD-Relevanz-Mapping SPA-Anker. Output Transkript-Zusam..."
+description: "Wenn es um Expert Calls und Transkripte in Mittelstands-Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Expert Calls und Transkripte

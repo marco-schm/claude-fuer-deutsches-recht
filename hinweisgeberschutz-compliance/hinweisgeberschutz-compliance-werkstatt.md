@@ -126,122 +126,58 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. Formuliert Abschlussmitteilung an Hinweisgeber im Hinweisgeberschutz Compliance.
+### 11.1. Abschlussmitteilung
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Bewertet anonyme Meldungen und freiwillige Annahmeprozesse im Hinweisgeberschutz Compliance.
+### 11.2. Anonyme Meldung
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Formuliert Antworten an Hinweisgeber rechtssicher im Hinweisgeberschutz Compliance.
+### 11.3. Antwortschreiben Hinweisgeber
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Prüft anwaltliche Meldestelle und Berufsgeheimnis im Hinweisgeberschutz Compliance.
+### 11.4. Anwaltliche Meldestelle
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Bereitet arbeitsgerichtliche Klage wegen Repressalie vor im Hinweisgeberschutz Compliance.
+### 11.5. Arbeitsgericht Klage
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. Prüft Arbeitsschutz-Hinweise und Eskalation im Hinweisgeberschutz Compliance.
+### 11.6. Arbeitsschutz
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Prüft Arbeitsvertragsklauseln gegen Hinweisgeberrechte im Hinweisgeberschutz Compliance.
+### 11.7. Arbeitsvertrag Klauseln
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Baut abrufen-Nachweis für das Hinweisgebersystem im Hinweisgeberschutz Compliance.
+### 11.8. abrufen Nachweis
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Steuert Kommunikation mit Aufsichtsbehörden im Hinweisgeberschutz Compliance.
+### 11.9. Aufsichtsbehoerdenkommunikation
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Berichtet Hinweisfälle an Aufsichtsrat oder Beirat im Hinweisgeberschutz Compliance.
+### 11.10. Aufsichtsrat Reporting
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Prüft Barrierefreiheit des Meldekanals im Hinweisgeberschutz Compliance.
+### 11.11. Barrierefreiheit Meldekanal
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Klärt Beschäftigtenzählung, Konzernlösung und gemeinsame Ressourcen im Hinweisgeberschutz Compliance.
+### 11.12. Beschäftigtenzahl Konzern
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Balanciert Hinweisgeberschutz und Rechte beschuldigter Personen im Hinweisgeberschutz Compliance.
+### 11.13. Beschuldigtenrechte
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Grenzt Hinweis, Beschwerde, Grievance und HR-Konflikt ab im Hinweisgeberschutz Compliance.
+### 11.14. Beschwerde Management
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.15. Prüft Mitbestimmung bei Meldesystem und Untersuchungen im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.16. Prüft Beweislastumkehr nach Meldung im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.17. Prüft Bewerber und ehemalige Beschäftigte im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.18. Behandelt bewusst falsche oder missbräuchliche Meldungen im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.19. Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.20. Bewertet Bußgeldrisiken für fehlenden Meldekanal oder Verstöße im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.21. Prüft technisches Case-Management für Hinweisfälle im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.22. Prüft Cloudhosting für Meldekanal im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.23. Prüft Hotline-Provider und Case-Management-Tools im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.24. Baut Datenschutzkonzept für die Meldeakte im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.25. Routet Hinweise zu Datenschutzpannen im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.26. Prüft Dokumentation eingehender Meldungen im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.27. Sichert Unterlagen nach Eingang eines Hinweises im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.28. Prüft E-Discovery und Forensik im deutschen Rahmen im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.29. Steuert Eingangsbestätigung und Fristen sauber im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.30. Prüft Eilrechtsschutz gegen Repressalien im Hinweisgeberschutz Compliance.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Fortbestehensprognose StaRUG/InsO: wählt den nächsten Spezial-Skill nach Engpass (Antragsfrist 3 Wochen § 15a InsO, Liquiditätsplan 24 Monate, Erfolgsplan, Bilanz), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Fortbestehensprognose geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anschluss-Routing

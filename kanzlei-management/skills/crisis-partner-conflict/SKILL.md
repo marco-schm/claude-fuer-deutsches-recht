@@ -1,6 +1,6 @@
 ---
 name: crisis-partner-conflict
-description: "Führt Partnereskalationen mit Fakten, Mandatsschutz und Beschlussfähigkeit. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Partnerkonflikt Krise in Kanzlei Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Partnerkonflikt Krise

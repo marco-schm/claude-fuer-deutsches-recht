@@ -1,6 +1,6 @@
 ---
 name: agb-im-mietrecht-wohnraum-vs-gewerbe
-description: "AGB im Mietrecht: Wohnraum- und Gewerberaummiete. Skill differenziert die AGB-rechtliche Behandlung typischer Mietklauseln Schoenheitsreparaturen Quotenklauseln Endrenovierung Mieterhoehungsvereinbarungen Versetzungsklauseln Anpassungsklauseln. Behandelt die strenge BGH-Linie im Wohnraummietrecht..."
+description: "Wenn es um Agb Im Mietrecht Wohnraum Vs Gewerbe in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Im Mietrecht Wohnraum Vs Gewerbe

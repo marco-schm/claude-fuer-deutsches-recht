@@ -1,6 +1,6 @@
 ---
 name: stbv-einspruch-strafbefehl-fahrerlaubnis
-description: "Leitfaden Einspruch gegen Strafbefehl: Form, Frist, Beschraenkung auf Rechtsfolge, taktische Erwaegungen. Prüfraster für Verteidiger im Strafbefehl Verteidiger."
+description: "Wenn es um StBV: Einspruch Strafbefehl in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # StBV: Einspruch Strafbefehl

@@ -1,6 +1,6 @@
 ---
 name: it-recht-datenschutz-im-it-vertrag
-description: "Datenschutzklauseln im IT-Vertrag prüfen und gestalten: Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten R..."
+description: "Wenn es um Datenschutzklauseln im IT-Vertrag prüfen und gestalten in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzklauseln im IT-Vertrag prüfen und gestalten

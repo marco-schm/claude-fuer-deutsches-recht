@@ -1,6 +1,6 @@
 ---
 name: inso-p297a-nachtraglich-bekannt-gewordene-versagungsgrunde
-description: "§ 297a InsO (Nachträglich bekannt gewordene Versagungsgründe) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 297a InsO (Nachträglich bekannt gewordene Versagungsgründe) im Mandat prüfen:..."
+description: "Wenn es um Inso P297a Nachtraglich Bekannt Gewordene Versagungsgrunde in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 297a InsO (Nachträglich bekannt gewordene Versagungsgründe) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

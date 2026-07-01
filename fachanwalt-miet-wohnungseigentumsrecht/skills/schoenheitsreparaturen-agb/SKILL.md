@@ -1,6 +1,6 @@
 ---
 name: schoenheitsreparaturen-agb
-description: "Schönheitsreparaturen AGB: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft starre Fristen, Anfangszustand, Quotenklausel, Endrenovierung; mit Normprüfung, Beweisen, Fristen, Risi..."
+description: "Wenn es um Schönheitsreparaturen AGB: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schönheitsreparaturen AGB: Fachmodul im Miet- und Wohnungseigentumsrecht

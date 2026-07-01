@@ -1,6 +1,6 @@
 ---
 name: ins-036-warenderivate
-description: "Spezialskill Insiderrecht fuer Warenderivate: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Warenderivate in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insiderrecht: Warenderivate

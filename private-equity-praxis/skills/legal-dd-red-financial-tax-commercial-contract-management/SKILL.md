@@ -1,6 +1,6 @@
 ---
 name: legal-dd-red-financial-tax-commercial-contract-management
-description: "Erstellt einen fokussierten Red-Flag-Report aus Datenraum, Q&A und Management-Call im Private Equity Praxis."
+description: "Wenn es um Legal DD: Red-Flag-Report für PE in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Legal DD: Red-Flag-Report für PE

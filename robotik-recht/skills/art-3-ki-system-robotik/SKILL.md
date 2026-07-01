@@ -1,6 +1,6 @@
 ---
 name: art-3-ki-system-robotik
-description: "Prüft, ob die Software im Roboter ein KI-System nach Art. 3 KI-VO ist, inklusive Autonomie, Inferenz, Output und Zweck."
+description: "Wenn es um Art. 3 digitale Werkzeuge-System Robotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Art. 3 KI-System Robotik

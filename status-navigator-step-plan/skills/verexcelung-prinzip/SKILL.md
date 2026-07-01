@@ -1,6 +1,6 @@
 ---
 name: verexcelung-prinzip
-description: "Erklaert das Prinzip der Verexcelung: nicht nur eine Tabelle im Chatfenster, sondern eine echte Excel-Arbeitsmappe mit mehreren Reitern. Begruendet, warum die Verexcelung das Arbeitsergebnis sofort weiterverwendbar macht."
+description: "Wenn es um Verexcelung Prinzip in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verexcelung Prinzip

@@ -1,6 +1,6 @@
 ---
 name: objektiv-teleologische-auslegung-red-team
-description: "Erstellt Red-Team-Analysen zur objektiv-teleologischen Auslegungsmethode im Zivilrecht. Das Skill entwickelt die stärksten Argumente gegen eine objektivteleolagische Auslegungsentscheidung, zeigt deren Grenzen auf und hilft dabei, zu entscheiden, wann der objektive Normzweck gegenüber dem histori..."
+description: "Wenn es um Objektiv-teleologische Auslegung: Red-Team-Analyse in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Objektiv-teleologische Auslegung: Red-Team-Analyse

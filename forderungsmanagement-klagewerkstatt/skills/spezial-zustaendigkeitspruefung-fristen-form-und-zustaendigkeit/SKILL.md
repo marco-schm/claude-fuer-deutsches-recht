@@ -1,6 +1,6 @@
 ---
 name: spezial-zustaendigkeitspruefung-fristen-form-und-zustaendigkeit
-description: "Zustaendigkeitspruefung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Zustaendigkeitspruefung: Fristen, Form, Zuständigkeit und Rechtsweg in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zustaendigkeitspruefung: Fristen, Form, Zuständigkeit und Rechtsweg

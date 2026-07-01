@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-brandenburg-bremen-hamburg
-description: "Prüft Hochschulprüfungsrecht in Brandenburg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule."
+description: "Wenn es um Prüfungsrecht Brandenburg in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfungsrecht Brandenburg

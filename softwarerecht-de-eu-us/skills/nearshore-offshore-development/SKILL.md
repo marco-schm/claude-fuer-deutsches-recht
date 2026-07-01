@@ -1,6 +1,6 @@
 ---
 name: nearshore-offshore-development
-description: "Prüft internationale Entwicklerteams, Subunternehmerketten, Arbeits-/IP-Flow-downs, Datenzugriff und Exportkontrolle im Softwarerecht De Eu Us."
+description: "Wenn es um Nearshore/Offshore Development in Softwarerecht Deutschland/EU/International/USA geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Nearshore/Offshore Development

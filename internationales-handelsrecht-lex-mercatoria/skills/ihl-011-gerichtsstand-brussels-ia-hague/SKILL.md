@@ -1,6 +1,6 @@
 ---
 name: ihl-011-gerichtsstand-brussels-ia-hague
-description: "Internationales Handelsrecht und Lex Mercatoria: Gerichtsstand Brussels Ia Hague. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Gerichtsstand Brussels Ia Hague in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gerichtsstand Brussels Ia Hague

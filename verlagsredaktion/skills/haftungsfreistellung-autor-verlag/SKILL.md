@@ -1,6 +1,6 @@
 ---
 name: haftungsfreistellung-autor-verlag
-description: "Haftungsfreistellung zwischen Autor und Verlag: Klauselbaustein im Verlagsvertrag, Reichweite, AGB-Schranken, Versicherungsfragen, Praxis bei Abmahnung und Klage im Verlagsredaktion."
+description: "Wenn es um Haftungsfreistellung Autor / Verlag in Verlagsredaktion geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Haftungsfreistellung Autor / Verlag

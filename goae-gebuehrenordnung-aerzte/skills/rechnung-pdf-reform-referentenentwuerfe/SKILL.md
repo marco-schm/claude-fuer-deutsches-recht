@@ -1,6 +1,6 @@
 ---
 name: rechnung-pdf-reform-referentenentwuerfe
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema GOÄ Rechnung aus PDF extrahieren im Goae Gebührenordnung Aerzte."
+description: "Wenn es um GOÄ Rechnung aus PDF extrahieren in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GOÄ Rechnung aus PDF extrahieren

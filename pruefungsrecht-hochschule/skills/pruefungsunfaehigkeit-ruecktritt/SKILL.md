@@ -1,6 +1,6 @@
 ---
 name: pruefungsunfaehigkeit-ruecktritt
-description: "Prüft Rücktritt, Unverzüglichkeit, Attest, Prüfungsantritt und Kenntnisprobleme im Prüfungsrecht Hochschule."
+description: "Wenn es um Prüfungsunfähigkeit und Rücktritt in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfungsunfähigkeit und Rücktritt

@@ -1,6 +1,6 @@
 ---
 name: besitzschutz-vergleich-bgb
-description: "Römisches Recht: Besitzschutz Vergleich BGB. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Besitzschutz Vergleich BGB in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besitzschutz Vergleich BGB

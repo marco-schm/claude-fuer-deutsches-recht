@@ -1,6 +1,6 @@
 ---
 name: studierendenwerk-beitrag
-description: "Prüft Studentennwerksbeitrag, Satzung, Rückerstattung und Härtefall im Hochschulrecht Länder."
+description: "Wenn es um Studentennwerk und Beitrag in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Studentennwerk und Beitrag

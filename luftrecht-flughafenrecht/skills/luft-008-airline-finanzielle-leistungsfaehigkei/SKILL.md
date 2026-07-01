@@ -1,6 +1,6 @@
 ---
 name: luft-008-airline-finanzielle-leistungsfaehigkei
-description: "Luftrecht und Flughafenrecht: Airline finanzielle Leistungsfähigkeit. Airline finanzielle Leistungsfähigkeit im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Airline Finanzielle Leistungsfaehigkei in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Airline Finanzielle Leistungsfaehigkei

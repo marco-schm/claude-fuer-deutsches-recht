@@ -1,6 +1,6 @@
 ---
 name: anhoerung-vor-bescheid
-description: "Anhörung nach § 28 VwVfG: Bedeutung, Pflicht der Behörde, Ausnahmen, Inhalt einer guten Stellungnahme, Heilung versaeumter Anhörung und Sofortmassnahmen vor belastender Entscheidung im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Anhörung vor Bescheid in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anhörung vor Bescheid

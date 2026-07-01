@@ -1,6 +1,6 @@
 ---
 name: transportversicherung-ware-lagerung
-description: "Transportversicherung: Güterschaden, Verlust, Lagerung, Incoterms, multimodaler Transport, Regress gegen Frachtführer und Versicherungswert im Versicherungsrecht."
+description: "Wenn es um Transportversicherung: Ware, Lagerung, Lieferkette in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Transportversicherung: Ware, Lagerung, Lieferkette

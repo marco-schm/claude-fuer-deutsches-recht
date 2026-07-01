@@ -1,6 +1,6 @@
 ---
 name: kcang-und-medcang-abgrenzen
-description: "Betäubungsmittelrecht: KCanG und MedCanG abgrenzen. KCanG und MedCanG abgrenzen im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
+description: "Wenn es um Kcang Und Medcang Abgrenzen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kcang Und Medcang Abgrenzen

@@ -1,6 +1,6 @@
 ---
 name: menschenwuerde-grundrechte-theoriekern
-description: "Prüft Menschenwuerde, Grundrechte und objektive Wertordnung als rechtstheoretische Anker ohne inflationären Grundrechtsgebrauch."
+description: "Wenn es um Menschenwürde und Grundrechte in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Menschenwürde und Grundrechte

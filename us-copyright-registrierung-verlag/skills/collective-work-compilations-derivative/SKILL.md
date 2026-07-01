@@ -1,6 +1,6 @@
 ---
 name: collective-work-compilations-derivative
-description: "Sammelwerke, Beiträge, Periodika und Herausgeberbände: kollektiven Schutz, Einzelbeiträge, Fremdbeiträge und Gruppenoptionen sauber auseinanderhalten im Us Copyright Registrierung Verlag."
+description: "Wenn es um Collective Work, Beiträge und Periodika in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Collective Work, Beiträge und Periodika

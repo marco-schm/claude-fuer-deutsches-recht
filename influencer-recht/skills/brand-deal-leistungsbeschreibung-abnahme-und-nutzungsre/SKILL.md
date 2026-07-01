@@ -1,6 +1,6 @@
 ---
 name: brand-deal-leistungsbeschreibung-abnahme-und-nutzungsre
-description: "Influencer-Recht: Brand-Deal-Vertragsgestaltung – Leistungsbeschreibung, Abnahme, Nutzungsrechte und Vergütungsstruktur im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Brand Deal – Leistungsbeschreibung, Abnahme und Nutzungsrechte in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Influencer-Recht: Brand Deal – Leistungsbeschreibung, Abnahme und Nutzungsrechte

@@ -1,6 +1,6 @@
 ---
 name: gemeines-recht-und-partikularrecht
-description: "Deutsche Rechtsgeschichte: Gemeines Recht und Partikularrecht im 16.-19. Jahrhundert. Ius commune vs. Territorialrecht, Subsidiaritaet des roemischen Rechts, Preussens Sonderweg und Aufloesung durch die BGB-Kodifikation im Deutsche Rechtsgeschichte."
+description: "Wenn es um Gemeines Recht und Partikularrecht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gemeines Recht und Partikularrecht

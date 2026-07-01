@@ -1,6 +1,6 @@
 ---
 name: gesetzliche-vertreter-rechtsbehelfe
-description: "Erklärt Rechte gesetzlicher Vertreter im Widerspruchs- und Gerichtsverfahren im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Gesetzliche Vertreter in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesetzliche Vertreter

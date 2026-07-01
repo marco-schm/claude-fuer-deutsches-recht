@@ -1,6 +1,6 @@
 ---
 name: stbv-strafbefehl-auslaendischer-mandant-spezial
-description: "Spezialfall Strafbefehl gegen ausländischen Mandanten: Übersetzungspflicht, Auslieferung, Eintrag im Bundeszentralregister, Einreise. Prüfraster für Verteidiger im Strafbefehl Verteidiger."
+description: "Wenn es um StBV: Strafbefehl Ausländer in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # StBV: Strafbefehl Ausländer

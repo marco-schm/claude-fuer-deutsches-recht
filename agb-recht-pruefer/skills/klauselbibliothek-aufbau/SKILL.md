@@ -1,6 +1,6 @@
 ---
 name: klauselbibliothek-aufbau
-description: "Einstiegs- und Prüfungslinie für Klauselbibliothek Aufbau: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Wenn es um Klauselbibliothek Aufbau in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Klauselbibliothek Aufbau

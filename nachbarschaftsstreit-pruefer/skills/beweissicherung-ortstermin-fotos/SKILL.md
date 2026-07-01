@@ -1,6 +1,6 @@
 ---
 name: beweissicherung-ortstermin-fotos
-description: "Beweissicherung im Nachbarrechtsfall planen: Ortstermin, Fotodokumentation, Messpunkte, Zeugen, Vermessung, Sachverständige, Lärm-/Geruchsprotokoll, Rissmonitoring und selbständiges Beweisverfahren im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Beweissicherung, Ortstermin und Fotos in Nachbarschaftsstreit-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweissicherung, Ortstermin und Fotos

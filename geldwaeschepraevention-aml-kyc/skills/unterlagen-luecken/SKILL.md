@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Geldwäscheprävention AML/KYC: trennt fehlende Tatsachen von fehlenden Belegen (KYC-Akte, Risk Assessment, Compliance-Manual), nennt pro Lücke Beweisthema, Beschaffungsweg (FIU), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

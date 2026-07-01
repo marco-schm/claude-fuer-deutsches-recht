@@ -1,6 +1,6 @@
 ---
 name: altlasten-rueckbau-erbbaurecht
-description: "Ordnet Baugrund, Kontamination, Rückbaupflicht, Kostenverteilung und Beweissicherung im Erbbaurecht Praxis."
+description: "Wenn es um Altlasten und Rückbau in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Altlasten und Rückbau

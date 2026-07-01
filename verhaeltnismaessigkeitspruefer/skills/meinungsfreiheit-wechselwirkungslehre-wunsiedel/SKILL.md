@@ -1,6 +1,6 @@
 ---
 name: meinungsfreiheit-wechselwirkungslehre-wunsiedel
-description: "Art. 5 GG verhältnismäßig prüfen: Wechselwirkungslehre, allgemeine Gesetze, Sonderrecht, Wunsiedel-Ausnahme, Meinungskampf, Strafrecht und schonende Auslegung grundrechtsbeschraenkender Normen."
+description: "Wenn es um Meinungsfreiheit: Wechselwirkungslehre und Wunsiedel in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meinungsfreiheit: Wechselwirkungslehre und Wunsiedel

@@ -1,6 +1,6 @@
 ---
 name: elternrechte-und-sorgerecht
-description: "Prüft Elternrechte bei gemeinsamer Sorge, Trennung und Information im Schulrecht Länder."
+description: "Wenn es um Elternrechte Und Sorgerecht in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Elternrechte Und Sorgerecht

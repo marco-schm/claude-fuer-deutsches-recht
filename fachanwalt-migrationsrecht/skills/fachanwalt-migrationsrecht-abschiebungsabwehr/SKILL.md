@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-abschiebungsabwehr
-description: "Abschiebung abwehren — Duldung § 60a AufenthG Abschiebungsverbote § 60 Abs. 5 und 7 AufenthG Eilrechtsschutz § 123 VwGO bzw. § 80 Abs. 5 VwGO. Inlandsbezogene Vollstreckungshindernisse Art. 6 GG Familieneinheit Art. 8 EMRK Privat- und Familienleben Reiseunfähigkeit. Petitions- und Haerteverfahren. Asylfolgeantrag § 71 AsylG. Verfassungsbeschwerde nach Erschoepfung Rechtsweg."
+description: "Wenn es um Abschiebungsabwehr in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abschiebungsabwehr

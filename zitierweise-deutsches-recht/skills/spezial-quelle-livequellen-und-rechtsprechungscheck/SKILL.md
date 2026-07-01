@@ -1,6 +1,6 @@
 ---
 name: spezial-quelle-livequellen-und-rechtsprechungscheck
-description: "Quelle: Livequellen- und Rechtsprechungscheck im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Quelle: Livequellen- und Rechtsprechungscheck in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quelle: Livequellen- und Rechtsprechungscheck

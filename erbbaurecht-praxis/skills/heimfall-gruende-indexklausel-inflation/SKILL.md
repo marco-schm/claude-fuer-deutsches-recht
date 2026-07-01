@@ -1,6 +1,6 @@
 ---
 name: heimfall-gruende-indexklausel-inflation
-description: "Prüft Vertragsgrund, Verzug, Pflichtverletzung, Fristen, Verhältnismäßigkeit, Entschädigung und Grundbuchvollzug im Erbbaurecht Praxis."
+description: "Wenn es um Heimfall prüfen in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Heimfall prüfen

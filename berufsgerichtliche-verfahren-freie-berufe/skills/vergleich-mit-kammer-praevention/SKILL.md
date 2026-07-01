@@ -1,6 +1,6 @@
 ---
 name: vergleich-mit-kammer-praevention
-description: "Vergleich mit Kammer oder Aufsicht (Präventions- und Organisationspaket): steuert informelle Erledigung, Auflagen, Rüge, Belehrung, Schulungsnachweis und Kosten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Frei..."
+description: "Wenn es um Vergleich mit Kammer oder Aufsicht: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich mit Kammer oder Aufsicht: Präventions- und Organisationspaket

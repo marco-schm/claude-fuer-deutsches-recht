@@ -1,6 +1,6 @@
 ---
 name: 06-ust-pruefungsschema
-description: "Umsatzsteuer: Steuerbarkeit Paragraf 1 UStG, Steuerpflicht und Steuerbefreiung Paragraf 4, Bemessungsgrundlage Paragraf 10, Vorsteuerabzug Paragraf 15, Rechnungsanforderungen Paragraf 14"
+description: "Wenn es um 06 USt Prüfungsschema in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # 06 USt Prüfungsschema

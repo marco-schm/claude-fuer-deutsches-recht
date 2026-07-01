@@ -1,6 +1,6 @@
 ---
 name: verwahrungsanzeige-gnotkg
-description: "Notare: verwahrungsanzeige und gnotkg - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Verwahrungsanzeige Gnotkg in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Notare: verwahrungsanzeige und gnotkg - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: workflow-fristenrettung-asyl-aufenthalt
-description: "Fristenrettung Asyl/Aufenthalt: Prüfungslinie für Migrationsrecht: priorisiert Klage, Eilantrag, Dublin, Fiktion, Ablauf Titel und Abschiebung; mit Statusmatrix, Fristenrettung, Staatenbezug..."
+description: "Wenn es um Fristenrettung Asyl/Aufenthalt: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristenrettung Asyl/Aufenthalt: Prüfungslinie für Migrationsrecht

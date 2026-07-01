@@ -1,6 +1,6 @@
 ---
 name: deckungsklage
-description: "Deckungsklage gegen Versicherer auf Versicherungsleistung nach erfolgloser außergerichtlicher Phase: Anwendungsfall Versicherer verweigert Leistung endguelt..."
+description: "Wenn es um Deckungsklage in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Deckungsklage; Arbeitsfeld: Fachanwalt Versicherungsrecht."
 ---
 
 # Deckungsklage gegen Versicherer auf Versicherungsleistung nach erfolgloser außergerichtlicher Phase

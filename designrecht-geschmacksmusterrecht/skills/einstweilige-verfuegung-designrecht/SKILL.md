@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung-designrecht
-description: "Einstweilige Verfügung im Designrecht vorbereiten oder abwehren: Dringlichkeit, Registerlage, Verletzungsbilder, Nichtigkeitsrisiko, Schutzschrift und Vollziehung im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Einstweilige Verfuegung Designrecht in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Einstweilige Verfuegung Designrecht

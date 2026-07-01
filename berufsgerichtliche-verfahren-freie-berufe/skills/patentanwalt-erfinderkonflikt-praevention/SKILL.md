@@ -1,6 +1,6 @@
 ---
 name: patentanwalt-erfinderkonflikt-praevention
-description: "Patentanwalt Erfinderkonflikt (Präventions- und Organisationspaket): steuert Konflikt zwischen Erfinder, Arbeitgeber, Anmelder, Investor und mehreren Schutzrechtsinhabern mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verf..."
+description: "Wenn es um Patentanwalt Erfinderkonflikt: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Patentanwalt Erfinderkonflikt: Präventions- und Organisationspaket

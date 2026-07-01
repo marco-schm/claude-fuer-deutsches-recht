@@ -1,6 +1,6 @@
 ---
 name: vdg-013-vergleich-und-austritt-pruefen
-description: "Verbraucherschutzverband Durchsetzung: Vergleich und Austritt prüfen. Vergleich und Austritt prüfen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Vergleich Und Austritt Pruefen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich Und Austritt Pruefen

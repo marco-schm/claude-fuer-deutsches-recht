@@ -1,6 +1,6 @@
 ---
 name: zusammenfassungen-mehrparteien-konflikt-und-interessen
-description: "Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix

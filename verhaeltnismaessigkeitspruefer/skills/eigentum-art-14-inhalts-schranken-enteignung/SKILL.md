@@ -1,6 +1,6 @@
 ---
 name: eigentum-art-14-inhalts-schranken-enteignung
-description: "Art. 14 GG verhältnismäßig prüfen: Inhalts- und Schrankenbestimmung, Enteignung, Ausgleichspflichten, Eigentumsbindung, Atomausstieg-Linie und Abgrenzung zu Berufsfreiheit und Gleichheit."
+description: "Wenn es um Eigentum Art. 14: Inhaltsgrenze, Enteignung, Ausgleich in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Eigentum Art. 14: Inhaltsgrenze, Enteignung, Ausgleich

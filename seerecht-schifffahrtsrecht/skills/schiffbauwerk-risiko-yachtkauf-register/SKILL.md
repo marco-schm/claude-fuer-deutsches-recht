@@ -1,6 +1,6 @@
 ---
 name: schiffbauwerk-risiko-yachtkauf-register
-description: "Schiffbauwerk: Gesamtrisikobewertung für Werft; Auftraggeber-Reeder; finanzierende Bank bei Schiff im Bau (Schiffbauwerk): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag...."
+description: "Wenn es um Schiffbauwerk – Risiko-Memo schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schiffbauwerk – Risiko-Memo schreiben

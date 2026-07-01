@@ -1,6 +1,6 @@
 ---
 name: muster-autorenvertrag-red-team
-description: "Red-Team-Prüfung eines Muster-Autorenvertrags: kritische Klauselanalyse zu Nutzungsrechten, Honorar, § 32a UrhG, § 32d UrhG, Laufzeit, Rückruf und Kündigung."
+description: "Wenn es um Muster-Autorenvertrag: Red-Team-Prüfung in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Muster-Autorenvertrag: Red-Team-Prüfung

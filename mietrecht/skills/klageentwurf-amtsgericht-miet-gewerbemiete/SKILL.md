@@ -1,6 +1,6 @@
 ---
 name: klageentwurf-amtsgericht-miet-gewerbemiete
-description: "Klageentwurf fuer Mietstreitigkeiten mit sauberer Trennung von Wohnraum und Gewerberaum: Wohnraum nach Paragraf 23 Nummer 2a GVG stets Amtsgericht ohne Anwaltszwang in erster Instanz; Gewerberaum streitwertabhaengig nach Paragraf 23 Nummer 1 und Paragraf 71 Absatz 1 GVG."
+description: "Wenn es um Klageentwurf zum Amtsgericht (Mietsache) in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klageentwurf zum Amtsgericht (Mietsache)

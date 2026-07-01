@@ -1,6 +1,6 @@
 ---
 name: eilantrag-notfall
-description: "Erkennt Notlagen, in denen Widerspruch/Klage nicht reicht: Existenz, Wohnung, Schule, Aufenthalt, Gesundheit, Kinderschutz, Vollziehung im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Eilantrag Notfall in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Eilantrag Notfall

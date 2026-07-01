@@ -1,6 +1,6 @@
 ---
 name: hochschulerfindungen-und-ip
-description: "Prüft Hochschulerfindungen, Software und Ausgründungen im Hochschulrecht Länder."
+description: "Wenn es um Hochschulerfindungen Und Ip in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hochschulerfindungen Und Ip

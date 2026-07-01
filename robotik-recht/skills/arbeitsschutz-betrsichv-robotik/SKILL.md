@@ -1,6 +1,6 @@
 ---
 name: arbeitsschutz-betrsichv-robotik
-description: "Prüft Arbeitsschutz und Betriebssicherheit bei Robotern im Betrieb: Gefährdungsbeurteilung, Unterweisung, Prüfungen, Betriebsanweisung."
+description: "Wenn es um Arbeitsschutz und BetrSichV in der Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsschutz und BetrSichV in der Robotik

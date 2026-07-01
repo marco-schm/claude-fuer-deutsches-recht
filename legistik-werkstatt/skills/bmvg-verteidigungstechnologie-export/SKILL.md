@@ -1,6 +1,6 @@
 ---
 name: bmvg-verteidigungstechnologie-export
-description: "Sachbereich Verteidigungstechnologie und Exportkontrolle im Geschäftsbereich BMVg: Normbestand (KrWaffKG; AWG; AWV; Dual-Use-VO (EU); SicherungsG.); Akteure (BAFA; AA; BMVg; Bundessicherheitsrat; Bundeskanzleramt.); EU-Bezug (Common Position 2008/944/GASP; Wassenaar; MTCR.); typische Legistik-Au..."
+description: "Wenn es um Verteidigungstechnologie und Exportkontrolle (BMVg) in Legistik-Werkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verteidigungstechnologie und Exportkontrolle (BMVg)

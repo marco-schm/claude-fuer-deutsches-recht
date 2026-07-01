@@ -1,6 +1,6 @@
 ---
 name: beihilfe-und-heilfuersorge
-description: "Beihilfe, Heilfürsorge, Erstattungsbescheid, Fristen und medizinische Notwendigkeit im Beamtenrecht."
+description: "Wenn es um Beihilfe Und Heilfürsorge in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beihilfe Und Heilfürsorge

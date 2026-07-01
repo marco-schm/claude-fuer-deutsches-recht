@@ -1,6 +1,6 @@
 ---
 name: handelsvertreter-showroom-influencer-social
-description: "Handelsvertreter, Agent, Distributor und Showroom unterscheiden: Provision, Kundenstamm, Ausgleich, Exklusivität, Musterkollektion und Territory im Fashion Law Moderecht."
+description: "Wenn es um Handelsvertreter Und Showroom in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Handelsvertreter Und Showroom

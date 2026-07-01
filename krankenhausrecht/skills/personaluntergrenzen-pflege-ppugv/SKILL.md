@@ -1,6 +1,6 @@
 ---
 name: personaluntergrenzen-pflege-ppugv
-description: "Pflegepersonaluntergrenzen-Verordnung (PpUGV): pflegesensitive Bereiche, Quotenberechnung, Schichten, Meldepflicht, Sanktionen und Strukturpruefung im Krankenhausrecht."
+description: "Wenn es um Personaluntergrenzen Pflege PpUGV in Krankenhausrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Personaluntergrenzen Pflege PpUGV

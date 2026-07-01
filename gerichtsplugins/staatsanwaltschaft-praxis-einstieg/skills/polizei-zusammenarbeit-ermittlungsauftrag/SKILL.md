@@ -1,6 +1,6 @@
 ---
 name: polizei-zusammenarbeit-ermittlungsauftrag
-description: "Zusammenarbeit mit der Polizei: Praxis-Skill für neue Staatsanwälte zu Ermittlungsaufträge so schreiben, dass die Polizei weiß, was beweiserheblich ist und was nicht; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Zusammenarbeit mit der Polizei in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Zusammenarbeit mit der Polizei

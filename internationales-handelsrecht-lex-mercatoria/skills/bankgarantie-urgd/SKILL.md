@@ -1,6 +1,6 @@
 ---
 name: bankgarantie-urgd
-description: "Internationales Handelsrecht: Nachfrage-Bankgarantien nach URDG 758 (ICC 2010). Demand-Charakter, Unabhängigkeitsprinzip, Arten (Bietungsgarantie, Erfüllungsgarantie, Anzahlungsgarantie), Gegengarantie und Missbrauchsschutz im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Bankgarantien nach URDG 758 in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bankgarantien nach URDG 758

@@ -1,6 +1,6 @@
 ---
 name: setoff-recoupment-553
-description: "Prüft mutuality, prepetition debts, stay implications, recoupment distinction and financial counterparty issues im US Bankruptcy Code."
+description: "Wenn es um Setoff and Recoupment Paragraf 553 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Setoff and Recoupment § 553

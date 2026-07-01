@@ -1,6 +1,6 @@
 ---
 name: vergleichskorridor
-description: "Gesellschaftsrechtliche Treuepflicht: Vergleichskorridor; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Vergleichskorridor in Gesellschaftsrechtliche Treuepflicht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleichskorridor

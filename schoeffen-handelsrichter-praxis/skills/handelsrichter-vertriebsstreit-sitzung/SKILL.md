@@ -1,6 +1,6 @@
 ---
 name: handelsrichter-vertriebsstreit-sitzung
-description: "Handelsrichter Vertriebsstreit (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Handelsvertreter, Vertragshändler, Ausgleichsanspruch, Kündigung und Provisionsstreit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Handelsrichter Vertriebsstreit: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Handelsrichter Vertriebsstreit: Sitzungspraxis

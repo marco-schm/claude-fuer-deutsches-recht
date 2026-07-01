@@ -1,6 +1,6 @@
 ---
 name: klageerzwingung-172-stpo
-description: "Nach Einstellung: Beschwerde, Klageerzwingung, Fristen, Verletztenstellung und anwaltliche Schwelle im Strafanzeige-Vorbereitung."
+description: "Wenn es um Klageerzwingung Paragraf 172 StPO in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klageerzwingung § 172 StPO

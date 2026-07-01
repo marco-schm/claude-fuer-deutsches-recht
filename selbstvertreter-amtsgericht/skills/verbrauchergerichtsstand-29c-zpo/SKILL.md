@@ -1,6 +1,6 @@
 ---
 name: verbrauchergerichtsstand-29c-zpo
-description: "Verbrauchergerichtsstand § 29c ZPO. Bei Haustuergeschäften und Außergeschäftsraum-Vertraegen kann der Verbraucher am eigenen Wohnsitz klagen oder verklagt werden. Voraussetzungen und Beispiele aus dem Versandhandel Online-Verkauf und Fernabsatzvertraegen."
+description: "Wenn es um Verbrauchergerichtsstand: Klagen am eigenen Wohnsitz in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verbrauchergerichtsstand: Klagen am eigenen Wohnsitz

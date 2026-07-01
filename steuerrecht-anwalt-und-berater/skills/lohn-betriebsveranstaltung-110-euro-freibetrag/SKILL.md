@@ -1,6 +1,6 @@
 ---
 name: lohn-betriebsveranstaltung-110-euro-freibetrag
-description: "Betriebsveranstaltung 110 EUR-Freibetrag § 19 Abs 1 Nr 1a EStG. Anwendungsfall Firmenfeier Sommerfest Weihnachtsfeier Kostenkalkulation 110 EUR pro AN Pauschalierung. Methodik Berechnung Prüfung Belege. Output Lohn-Abrechnung mit Betriebsveranstaltung im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Betriebsveranstaltung — 110-EUR-Freibetrag Paragraf 19 Abs. 1 Nr. 1a EStG in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Lohn Betriebsveranstaltung 110 Euro Freibetrag; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Betriebsveranstaltung — 110-EUR-Freibetrag § 19 Abs. 1 Nr. 1a EStG

@@ -1,6 +1,6 @@
 ---
 name: landwirtschaftliche-flaeche
-description: "Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Grundbuch auswerten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Landwirtschaftliche Flaeche Grundbuch in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landwirtschaftliche Flaeche Grundbuch

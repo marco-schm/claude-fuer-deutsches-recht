@@ -1,6 +1,6 @@
 ---
 name: konzernleasing-transfer-franchise
-description: "Konzerninternes Leasing: Verrechnungspreise, § 1 AStG, BEPS-Aktionsplan, Fremdvergleichsgrundsatz, Dokumentationspflichten und länderbezogene Steuerrisiken im Leasingrecht."
+description: "Wenn es um Konzerninternes Leasing: Transfer Pricing und Verrechnungspreise in Leasingrecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Konzerninternes Leasing: Transfer Pricing und Verrechnungspreise

@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-kassenfuehrung-gobd
-description: "Kassenführung GoBD-Pflichten. Anwendungsfall Mandanten mit Bargeschäft Kasse Aufzeichnungspflichten Kassenbuch elektronische Aufzeichnungssysteme TSE technische Sicherheitseinrichtung. Methodik Prüfung Sorgfalt. Output GoBD-konforme Kassenführung."
+description: "Wenn es um Kassenfuehrung — GoBD-Pflichten in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Jahresabschluss Kassenfuehrung Gobd; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Kassenfuehrung — GoBD-Pflichten

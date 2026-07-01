@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-erechnung-gobd
-description: "Kanzlei braucht GoBD-konforme E-Rechnung für M&A-Mandat: XRechnung-XML ZUGFeRD Workstream-Abrechnung revisionssicheren Buchungsnachweis. Normen GoBD BMF-Schreiben 2019 UStG §§ 14 14a ZUGFeRD EN 16931. Prüfraster Pflichtfelder XRechnung Pflichtangaben Narrative Revisionssicherheit Archivierung. Ou..."
+description: "Wenn es um Freistehender Billing-, GoBD- und E-Rechnungs(Mittelstand) in Mittelstands-Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freistehender Billing-, GoBD- und E-Rechnungs(Mittelstand)

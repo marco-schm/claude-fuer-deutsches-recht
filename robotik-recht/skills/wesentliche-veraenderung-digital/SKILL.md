@@ -1,6 +1,6 @@
 ---
 name: wesentliche-veraenderung-digital
-description: "Prüft wesentliche physische oder digitale Veränderung durch Umbau, Retrofit, Update, Fine-Tuning oder neue Sensorik."
+description: "Wenn es um Wesentliche Veränderung digital in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wesentliche Veränderung digital

@@ -1,6 +1,6 @@
 ---
 name: vob-schiedsgutachten-schlichtung
-description: "VOB/B-Schiedsgutachten und Schlichtung als Alternative zum Bauprozess nutzen: Normen: §§ 18 Abs. 3 18b VOB/B, §§ 1025 ff. ZPO. Prüfraster: Schiedsgutachter-Auswahl, Bindungswirkun..."
+description: "Wenn es um VOB/B-Schiedsgutachten und Schlichtung als Alternative zum Bauprozess nutzen in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VOB/B-Schiedsgutachten und Schlichtung als Alternative zum Bauprozess nutzen

@@ -1,6 +1,6 @@
 ---
 name: konvertiert-zahlen-schwellen-und-berechnung
-description: "Prüft PDF-Konvertierung, Dateigrößen, Seitenzahlen, OCR und technische Schwellen vor Versand im Anlagen zu Schriftsätzen."
+description: "Wenn es um Konvertierung, Zahlen und technische Schwellen in Anlagen zu Schriftsätzen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Konvertiert Zahlen Schwellen Und Berechnung; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Konvertierung, Zahlen und technische Schwellen

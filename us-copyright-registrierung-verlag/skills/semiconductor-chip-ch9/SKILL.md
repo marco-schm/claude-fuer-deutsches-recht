@@ -1,6 +1,6 @@
 ---
 name: semiconductor-chip-ch9
-description: "Prüft Mask Works, Semiconductor Chip Protection Act, registration, scope and term for chip layouts im Us Copyright Registrierung Verlag."
+description: "Wenn es um Semiconductor Chip Protection in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Semiconductor Chip Protection

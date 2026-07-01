@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für E-Mail-Umformulierung im Berufsrecht: ordnet Rolle (Anwalt, Mandant, Gegner), markiert Frist (Mandantenkommunikation unverzüglich), wählt Norm (§ 43a BRAO, § 49b BRAO, BORA) und Zuständigkeit (RAK), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

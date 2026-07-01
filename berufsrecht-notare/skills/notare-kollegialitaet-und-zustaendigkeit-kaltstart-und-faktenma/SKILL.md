@@ -1,6 +1,6 @@
 ---
 name: notare-kollegialitaet-und-zustaendigkeit-kaltstart-und-faktenma
-description: "Notare: kollegialitaet und zustaendigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Notare Kollegialitaet Und Zuständigkeit Kaltstart Und Faktenma in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: kollegialitaet und zustaendigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

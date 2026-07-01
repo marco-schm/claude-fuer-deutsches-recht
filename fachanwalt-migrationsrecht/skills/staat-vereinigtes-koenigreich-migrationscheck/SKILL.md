@@ -1,6 +1,6 @@
 ---
 name: staat-vereinigtes-koenigreich-migrationscheck
-description: "Staaten- und Gebietscheck Vereinigtes Königreich: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung: Staaten-..."
+description: "Wenn es um Staat Vereinigtes Koenigreich Migrationscheck in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Staaten- und Gebietscheck Vereinigtes Königreich: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.

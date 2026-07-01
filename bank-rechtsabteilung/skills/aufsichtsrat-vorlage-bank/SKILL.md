@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-vorlage-bank
-description: "Aufsichtsrats- und Ausschussvorlagen einer Bank vorbereiten: Informationspflicht, Beschlusskompetenz, Risikoausschuss, Prüfungsausschuss, Vertraulichkeit, Protokollfestigkeit und Follow-up im Bank-Rechtsabteilung."
+description: "Wenn es um Aufsichtsrat und Ausschüsse in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Aufsichtsrat und Ausschüsse

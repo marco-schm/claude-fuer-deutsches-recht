@@ -1,6 +1,6 @@
 ---
 name: bmas-sozialversicherungsrecht-sgb
-description: "Sachbereich Sozialversicherungsrecht (SGB) im Geschäftsbereich BMAS: Normbestand (SGB I bis SGB XII; ASVG-Äquivalent; AsylbLG (mit BMI).); Akteure (DRV Bund; BA; GKV-Spitzenverband; BAS (Bundesamt für Soziale Sicherung); SGericht.); EU-Bezug (VO 883/2004 (Koordinierung); EFTA; bilaterale Abkomm..."
+description: "Wenn es um Sozialversicherungsrecht (SGB) (BMAS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Sozialversicherungsrecht (SGB) (BMAS)

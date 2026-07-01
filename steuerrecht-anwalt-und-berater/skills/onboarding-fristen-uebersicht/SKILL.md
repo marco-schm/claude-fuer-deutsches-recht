@@ -1,6 +1,6 @@
 ---
 name: onboarding-fristen-uebersicht
-description: "Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung Verjährung Festsetzungsfrist Zahlungsverjaehrung Aussenpruefung Selbstanzeige. Anwendungsfall Anwalt oder Steuerberater muss bei Mandatsuebernahme in Minuten klären welche Fris..."
+description: "Wenn es um Steuerrechtliche Fristen — der Überblick in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerrechtliche Fristen — der Überblick

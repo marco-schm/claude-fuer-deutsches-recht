@@ -1,6 +1,6 @@
 ---
 name: spezial-betriebsrat-zahlen-schwellen-und-berechnung
-description: "Betriebsrat: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Betriebsrat: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsrat: Zahlen, Schwellenwerte und Berechnung

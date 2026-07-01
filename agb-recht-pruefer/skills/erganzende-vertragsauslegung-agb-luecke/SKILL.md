@@ -1,6 +1,6 @@
 ---
 name: erganzende-vertragsauslegung-agb-luecke
-description: "Norm- und Dogmatik-Skill für Erganzende Vertragsauslegung AGB Lücke: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Erganzende Vertragsauslegung AGB Lücke in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Erganzende Vertragsauslegung AGB Lücke

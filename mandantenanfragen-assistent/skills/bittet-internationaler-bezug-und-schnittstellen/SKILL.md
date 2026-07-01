@@ -1,6 +1,6 @@
 ---
 name: bittet-internationaler-bezug-und-schnittstellen
-description: "Bittet: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Bittet: Internationaler Bezug und Schnittstellen in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bittet: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: haftung-leben-koerper-gesundheit-309
-description: "Norm- und Dogmatik-Skill für Haftung Leben Koerper Gesundheit 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Haftung Leben Koerper Gesundheit 309 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Haftung Leben Koerper Gesundheit 309

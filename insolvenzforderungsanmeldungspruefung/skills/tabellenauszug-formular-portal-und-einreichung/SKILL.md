@@ -1,6 +1,6 @@
 ---
 name: tabellenauszug-formular-portal-und-einreichung
-description: "Tabellenauszug: Formular, Portal und Einreichungslogik im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldun..."
+description: "Wenn es um Tabellenauszug: Formular, Portal und Einreichungslogik in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tabellenauszug: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefungsgespraech-fristen-form-und-zustaendigkeit
-description: "Pruefungsgespraech: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Pruefungsgespraech: Fristen, Form, Zuständigkeit und Rechtsweg in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pruefungsgespraech: Fristen, Form, Zuständigkeit und Rechtsweg

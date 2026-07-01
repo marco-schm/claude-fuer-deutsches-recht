@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-und-alttitel
-description: "Verjährung und Alttitel: dreißigjähriger Titel, Zinsverjährung, Hemmung und Vergleichsverhandlung: Normanker: BGB §§ 195 und 197 und 199 und 212; liefert ko..."
+description: "Wenn es um Verjaehrung Und Alttitel in Verbraucherinsolvenz und Schuldenbereinigung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Verjährung und Alttitel: dreißigjähriger Titel, Zinsverjährung, Hemmung und Vergleichsverhandlung.

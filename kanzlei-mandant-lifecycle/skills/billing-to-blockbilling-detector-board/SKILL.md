@@ -1,6 +1,6 @@
 ---
 name: billing-to-blockbilling-detector-board
-description: "Billing to XRechnung: steuert Kanzleirechnung in E-Rechnung/XRechnung, Kostenstellen und Prüfüberführen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Billing to XRechnung in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Billing to XRechnung

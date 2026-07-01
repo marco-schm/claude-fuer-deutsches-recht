@@ -1,6 +1,6 @@
 ---
 name: inso-p212-einstellung-wegen-wegfalls-des-eroffnungsgrunds
-description: "§ 212 InsO (Einstellung wegen Wegfalls des Eröffnungsgrunds) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 212 InsO (Einstellung wegen Wegfalls des Eröffnungsgrunds) im Mandat prüfen: No..."
+description: "Wenn es um Inso P212 Einstellung Wegen Wegfalls Des Eroffnungsgrunds in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 212 InsO (Einstellung wegen Wegfalls des Eröffnungsgrunds) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

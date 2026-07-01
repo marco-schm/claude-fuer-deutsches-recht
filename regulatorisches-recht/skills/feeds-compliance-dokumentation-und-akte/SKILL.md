@@ -1,6 +1,6 @@
 ---
 name: feeds-compliance-dokumentation-und-akte
-description: Compliance-Dokumentation und Aktenvermerk fuer regulatorische Verfahren. Eingangsdaten ordnen, Schwellenwerte und Meldepflichten erfassen, Beweismittel listen und Aktenvermerk anlegen.
+description: "Wenn es um Compliance-Dokumentation und Aktenvermerk (regulatorische Verfahren) in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Compliance-Dokumentation und Aktenvermerk (regulatorische Verfahren)

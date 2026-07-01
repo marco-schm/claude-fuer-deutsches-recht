@@ -1,6 +1,6 @@
 ---
 name: stb-mandantenanfrage-reaktion-frist-laufend
-description: "Mandantenanfragen Reaktionsfristen Servicelevel. Anwendungsfall Standardisierte Reaktion auf Mandantenanfragen klare Service-Versprechen Eskalation. Methodik SLA-Festlegung. Output Service-Standard-Dokument."
+description: "Wenn es um Reaktionsfristen fuer Mandantenanfragen — Servicelevel in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reaktionsfristen fuer Mandantenanfragen — Servicelevel

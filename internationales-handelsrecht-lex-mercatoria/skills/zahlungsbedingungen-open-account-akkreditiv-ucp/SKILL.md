@@ -1,6 +1,6 @@
 ---
 name: zahlungsbedingungen-open-account-akkreditiv-ucp
-description: "Internationales Handelsrecht: Zahlungsbedingungen im internationalen Handel. Open Account, Cash in Advance, Dokumenteninkasso (URC 522), Akkreditiv (UCP 600) und Bankgarantie (URDG 758) im Risikoranking. Zahlungsverzug (EU-ZahlungsverzugsRL 2011/7/EU) im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Zahlungsbedingungen: Open Account und Trade Finance in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zahlungsbedingungen: Open Account und Trade Finance

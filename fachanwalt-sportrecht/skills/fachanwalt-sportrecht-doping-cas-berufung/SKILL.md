@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-doping-cas-berufung
-description: "Athlet muss Doping-Sperre vor CAS anfechten oder WADA/NADA legt Berufung gegen Freispruch ein. WADA-Code strict liability Therapeutic Use Exemption Sanktion 2-4 Jahre. Normen WADA-Code Art. 2 10 13 CAS Code AntiDopG § 4. Prüfraster Strict-Liability-Prüfung TUE No-Fault-Nachweis Art. 10 Abs. 5 CAS-Fristen. Output CAS-Berufungsschrift TUE-Antrag Sanktions-Reduktions-Argumentation. Abgrenzung zu cas-berufung-vorbereiten (allg. Berufung) und fachanwalt-sportrecht-doping-verfahren (NADA-Erstverfahren)."
+description: "Wenn es um Doping-Berufung CAS in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Doping-Berufung CAS

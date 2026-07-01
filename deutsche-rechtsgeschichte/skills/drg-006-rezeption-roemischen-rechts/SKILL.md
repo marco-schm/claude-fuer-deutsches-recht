@@ -1,6 +1,6 @@
 ---
 name: drg-006-rezeption-roemischen-rechts
-description: "Deutsche Rechtsgeschichte: Rezeption Roemischen Rechts. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Rezeption Roemischen Rechts in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rezeption Roemischen Rechts

@@ -1,6 +1,6 @@
 ---
 name: pruefungstermin-176
-description: "Prüfungstermin nach § 176 InsO vorbereiten: Anwendungsfall Prüfungstermin beim Insolvenzgericht naht und Insolvenzverwalter muss Einzelforderungen, Widersprüche und Erörterungspunkte aufbereiten. § 176 InsO Prüfungstermin, § 178 InsO Tabelle Feststellung. Prüfraster streitige Forderungen identifi..."
+description: "Wenn es um Prüfungstermin vorbereiten in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfungstermin vorbereiten

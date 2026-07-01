@@ -1,6 +1,6 @@
 ---
 name: tuerkei-patentrecht-turkpatent-ip-courts
-description: "Orientiert in türkischen Patentfragen: TURKPATENT-Register, nationale Phase/EP-Validierung, Opposition/Invalidity, Verletzung, einstweilige Maßnahmen, Zoll und lokale Counsel-Schnittstelle im Patentrecht."
+description: "Wenn es um Türkei: TURKPATENT und IP-Gerichte in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Türkei: TURKPATENT und IP-Gerichte

@@ -1,6 +1,6 @@
 ---
 name: landesrecht-und-bundesrecht-trennen
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Landesrecht und Bundesrecht trennen im Krankenhausrecht."
+description: "Wenn es um Landesrecht und Bundesrecht trennen in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landesrecht und Bundesrecht trennen

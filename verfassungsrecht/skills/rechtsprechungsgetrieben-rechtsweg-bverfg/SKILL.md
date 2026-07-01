@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungsgetrieben-rechtsweg-bverfg
-description: "Rechtsprechungsgetrieben: Behörden-, Gerichts- oder Registerweg im Verfassungsrecht."
+description: "Wenn es um Rechtsprechungsgetrieben: Behörden-, Gerichts- oder Registerweg in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsprechungsgetrieben: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: ein-078-kommunalvermoegen-widerspruch-pruefen
-description: "Einigungsvertrag und Vermögensrecht: Kommunalvermögen: Widerspruch prüfen. Widerspruch prüfen für Kommunalvermögen im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kommunalvermoegen Widerspruch Pruefen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalvermoegen Widerspruch Pruefen

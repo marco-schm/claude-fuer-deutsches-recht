@@ -1,6 +1,6 @@
 ---
 name: saas-vertrag-b2b
-description: "Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit, Datenschutz, Exit, Security und Haftung im Softwarerecht De Eu Us."
+description: "Wenn es um SaaS-Vertrag B2B in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SaaS-Vertrag B2B

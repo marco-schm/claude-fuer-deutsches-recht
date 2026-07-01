@@ -1,6 +1,6 @@
 ---
 name: tatsache-dokumentenmatrix-und-lueckenliste
-description: "Tatsache: Dokumentenmatrix, Lückenliste und Nachforderung im Meinungspruefer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Tatsache: Dokumentenmatrix, Lückenliste und Nachforderung in Meinungsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Tatsache: Dokumentenmatrix, Lückenliste und Nachforderung

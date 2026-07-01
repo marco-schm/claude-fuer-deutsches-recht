@@ -1,6 +1,6 @@
 ---
 name: werkvertrag-maengelrechte
-description: "Werkvertrag-Mängelrechte §§ 633-638 BGB: Nacherfüllung, Selbstvornahme, Minderung, Schadensersatz."
+description: "Wenn es um Werkvertrag Mängelrechte Paragrafen 633-638 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Werkvertrag Maengelrechte; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Werkvertrag Mängelrechte §§ 633-638 BGB

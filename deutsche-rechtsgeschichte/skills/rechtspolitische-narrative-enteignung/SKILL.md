@@ -1,6 +1,6 @@
 ---
 name: rechtspolitische-narrative-enteignung
-description: "Deutsche Rechtsgeschichte: Rechtspolitische Narrative prüfen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet im Deutsche Rechtsgeschichte."
+description: "Wenn es um Rechtspolitische Narrative prüfen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtspolitische Narrative prüfen

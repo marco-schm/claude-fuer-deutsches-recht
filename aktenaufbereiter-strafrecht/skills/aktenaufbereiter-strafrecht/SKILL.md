@@ -1,6 +1,6 @@
 ---
 name: aktenaufbereiter-strafrecht
-description: "Strafverteidiger erhaelt Strafakte nach § 147 StPO Akteneinsicht und will diese strukturiert aufbereiten. Wirtschaftsstrafverfahren BtM-Verfahren Vermögensdelikte komplexe Strafverfahren. Sechs Übersichten: Aktenvorblatt Personenverzeichnis Tatkomplex-Vorwurfsverzeichnis Beziehungsverzeichnis Chr..."
+description: "Wenn es um Aktenaufbereiter Strafrecht in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Aktenaufbereiter Strafrecht

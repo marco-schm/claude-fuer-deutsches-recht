@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-anhoerung-55-owig
-description: "Datenschutzrecht-Brückenskill: Anhörung nach § 55 OWiG: Reaktion auf Anhörung vorbereiten, Aussagefreiheit wahren und Akteneinsicht anstoßen: Datenschutzrecht-Brückenskill: Anhörung nach § 55 OWiG: Reaktion auf Anhörung vorbereiten, Aussagefreiheit wahren u..."
+description: "Wenn es um Dsv Sanktion Anhoerung 55 Owig in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenschutzrecht-Brückenskill: Anhörung nach § 55 OWiG: Reaktion auf Anhörung vorbereiten, Aussagefreiheit wahren und Akteneinsicht anstoßen

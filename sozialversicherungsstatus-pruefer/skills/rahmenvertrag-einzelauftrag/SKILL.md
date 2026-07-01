@@ -1,6 +1,6 @@
 ---
 name: rahmenvertrag-einzelauftrag
-description: "Prüft Rahmenverträge, Einzelabrufe, Statements of Work und tatsächliche Projektsteuerung im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Rahmenvertrag und Einzelauftrag in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rahmenvertrag und Einzelauftrag

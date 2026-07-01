@@ -1,6 +1,6 @@
 ---
 name: bautraeger-gemeinschaftliche-maengelverfolgung-weg
-description: "Gemeinschaftliche Maengelverfolgung in der WEG: Skill klaert wie die Wohnungseigentuemergemeinschaft Maengel am Gemeinschaftseigentum verfolgt und welche Kompetenzen einzelnen Eigentuemern bleiben. Reform 2020..."
+description: "Wenn es um Gemeinschaftliche Maengelverfolgung in der WEG in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gemeinschaftliche Maengelverfolgung in der WEG

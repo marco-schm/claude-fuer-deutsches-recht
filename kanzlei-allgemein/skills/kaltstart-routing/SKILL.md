@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Kaltstart des Kanzlei-Allgemein-Plugins und Erfassung des Kanzleiprofils. Anwendungsfall erstes Oeffnen des Plugins oder Kanzlei will Stammprofil neu einrichten. Abfrageraster Kanzleiprofil Aktenzeichen-Konvention Eingangskanale Integrationen Fristen HR Honorarpraxis UStVA Kanzleikalender Simulat..."
+description: "Wenn es um Kanzlei-Allgemein Kaltstart in Kanzlei-Allgemein geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzlei-Allgemein-Plugin Kaltstart

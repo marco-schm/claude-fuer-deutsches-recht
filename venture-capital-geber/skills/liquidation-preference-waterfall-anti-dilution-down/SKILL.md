@@ -1,6 +1,6 @@
 ---
 name: liquidation-preference-waterfall-anti-dilution-down
-description: "Rechnet non-participating, participating, multiple, cap und Erlösverteilung über mehrere Runden im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Liquidation Preference und Waterfall in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Liquidation Preference und Waterfall

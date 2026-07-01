@@ -1,6 +1,6 @@
 ---
 name: verkehrsstrafrecht-strafbefehl
-description: "Verkehrsstrafrecht und Strafbefehl: Praxis-Skill für neue Staatsanwälte zu Paragrafen 142/315c/316 StGB, Entziehung, Sperre, Fahrverbot und Strafbefehl routiniert bearbeiten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Verkehrsstrafrecht und Strafbefehl in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verkehrsstrafrecht und Strafbefehl

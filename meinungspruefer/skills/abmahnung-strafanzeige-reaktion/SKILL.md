@@ -1,6 +1,6 @@
 ---
 name: abmahnung-strafanzeige-reaktion
-description: "Hilft bei Reaktion auf Abmahnung, Strafanzeige, polizeiliche Anhörung, Plattformmeldung oder Löschungsverlangen wegen einer Äußerung. Erstellt Fristencheck, Beweisplan und Verteidigungsstrategie im Meinungspruefer."
+description: "Wenn es um Reaktion auf Abmahnung oder Strafanzeige in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reaktion auf Abmahnung oder Strafanzeige

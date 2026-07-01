@@ -1,6 +1,6 @@
 ---
 name: parteivermoegen-akte-anfordern
-description: "Einigungsvertrag und Vermögensrecht: Parteivermögen: Akte anfordern im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Parteivermoegen Akte Anfordern in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Parteivermoegen Akte Anfordern

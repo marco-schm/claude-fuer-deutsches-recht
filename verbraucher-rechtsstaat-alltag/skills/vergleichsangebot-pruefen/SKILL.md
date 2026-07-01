@@ -1,6 +1,6 @@
 ---
 name: vergleichsangebot-pruefen
-description: "Vergleichsangebot prüfen: führt Laien durch Vergleich, Ratenzahlung, Verzicht, Erledigungsklausel und Kostenfolge. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Vergleichsangebot prüfen in Verbraucher im Rechtsstaat Alltag geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleichsangebot prüfen

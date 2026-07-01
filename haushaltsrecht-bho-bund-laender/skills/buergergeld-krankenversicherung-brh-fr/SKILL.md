@@ -1,6 +1,6 @@
 ---
 name: buergergeld-krankenversicherung-brh-fr
-description: "Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: BRH-Frage formulieren. BRH- im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Buergergeld Krankenversicherung Brh Fr in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergergeld Krankenversicherung Brh Fr

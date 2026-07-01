@@ -1,6 +1,6 @@
 ---
 name: inso-p162-betriebsverausserung-an-besonders-interessierte
-description: "§ 162 InsO (Betriebsveräußerung an besonders Interessierte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 162 InsO (Betriebsveräußerung an besonders Interessierte) im Mandat prüfen: Norm..."
+description: "Wenn es um Inso P162 Betriebsverausserung An Besonders Interessierte in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 162 InsO (Betriebsveräußerung an besonders Interessierte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

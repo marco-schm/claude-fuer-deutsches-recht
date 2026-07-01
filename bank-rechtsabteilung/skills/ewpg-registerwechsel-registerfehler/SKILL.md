@@ -1,6 +1,6 @@
 ---
 name: ewpg-registerwechsel-registerfehler
-description: "Registerwechsel, Registerfehler und Anlegerrechte bei elektronischen Wertpapieren prüfen: Berichtigung, Übertragung, Funktionsstörung, Kündigungsrechte, Haftung und Kommunikationspflichten im Bank-Rechtsabteilung."
+description: "Wenn es um eWpG Registerfehler in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # eWpG Registerfehler

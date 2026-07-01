@@ -1,6 +1,6 @@
 ---
 name: energiepreiserhoehung-registertext-sch
-description: "Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Registertext schreiben im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Energiepreiserhoehung Registertext Sch in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energiepreiserhoehung Registertext Sch

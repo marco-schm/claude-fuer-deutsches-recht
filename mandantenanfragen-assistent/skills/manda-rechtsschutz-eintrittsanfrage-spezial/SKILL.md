@@ -1,6 +1,6 @@
 ---
 name: manda-rechtsschutz-eintrittsanfrage-spezial
-description: "Spezialfall Rechtsschutzversicherung-Eintrittsanfrage: Deckungsanfrage, Stichentscheid, Mustertext für Auseinandersetzung mit Rechtsschutzversicherer. Prüfraster Mandant und Anwalt im Mandantenanfragen Assistent."
+description: "Wenn es um Manda: RS-Eintrittsanfrage in mandantenanfragen-assistent geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Manda: RS-Eintrittsanfrage

@@ -1,6 +1,6 @@
 ---
 name: bess-co-location-pv-wind
-description: "Prüft Batteriespeicher neben Erneuerbaren: gemeinsame Messeinrichtung, Förderlogik, Netzanschluss, Direktleitung und Curtailment im Energierecht."
+description: "Wenn es um Co-Location mit Wind/PV in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Co-Location mit Wind/PV

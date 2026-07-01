@@ -1,6 +1,6 @@
 ---
 name: diga-hersteller-arzt-haftung
-description: "DiGA: Hersteller, Arzt und Haftung: moderner Medizinrechts-Skill für Digitale Gesundheitsanwendung, Verschreibung, positive Versorgungseffekte, Fehlfunktion und Verantwortungsgrenzen: DiGA: Hersteller, Arzt und Haftung: moderner Medizinrechts-Skill für Digi..."
+description: "Wenn es um Diga Hersteller Arzt Haftung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DiGA: Hersteller, Arzt und Haftung: moderner Medizinrechts-Skill für Digitale Gesundheitsanwendung, Verschreibung, positive Versorgungseffekte, Fehlfunktion und Verantwortungsgrenzen

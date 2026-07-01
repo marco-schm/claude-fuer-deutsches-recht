@@ -1,6 +1,6 @@
 ---
 name: inso-p126-beschlussverfahren-zum-kundigungsschutz
-description: "§ 126 InsO (Beschlußverfahren zum Kündigungsschutz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 126 InsO (Beschlußverfahren zum Kündigungsschutz) im Mandat prüfen: Normzweck, Tatbestan..."
+description: "Wenn es um Inso P126 Beschlussverfahren Zum Kundigungsschutz in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 126 InsO (Beschlußverfahren zum Kündigungsschutz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

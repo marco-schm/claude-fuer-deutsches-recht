@@ -1,6 +1,6 @@
 ---
 name: inso-p208-anzeige-der-masseunzulanglichkeit
-description: "§ 208 InsO (Anzeige der Masseunzulänglichkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 208 InsO (Anzeige der Masseunzulänglichkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege,..."
+description: "Wenn es um Inso P208 Anzeige Der Masseunzulanglichkeit in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 208 InsO (Anzeige der Masseunzulänglichkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

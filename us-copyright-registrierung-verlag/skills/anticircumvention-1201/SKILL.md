@@ -1,6 +1,6 @@
 ---
 name: anticircumvention-1201
-description: "Prüft Zugriffsschutz, Technological Protection Measures, Umgehung, Tools, Exemptions und Security-Research-Risiken im Us Copyright Registrierung Verlag."
+description: "Wenn es um Anti-Circumvention Paragraf 1201 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anti-Circumvention § 1201

@@ -1,6 +1,6 @@
 ---
 name: mod-erklaerung
-description: "Modifizierte Unterlassungserklärung als Alternative zur strafbewehrten UE prüfen und formulieren: § 97a UrhG Abmahnung und UE § 339 BGB Vertragsstrafe. Prüfras..."
+description: "Wenn es um Mod Erklaerung in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Modifizierte Unterlassungserklärung als Alternative zur strafbewehrten UE prüfen und formulieren

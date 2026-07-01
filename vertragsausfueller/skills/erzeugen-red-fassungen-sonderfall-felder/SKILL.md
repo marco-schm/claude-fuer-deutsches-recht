@@ -1,6 +1,6 @@
 ---
 name: erzeugen-red-fassungen-sonderfall-felder
-description: "Erzeugen: Red-Team und Qualitätskontrolle im Vertragsausfueller. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Erzeugen: Red-Team und Qualitätskontrolle in Vertragsausfüller geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erzeugen: Red-Team und Qualitätskontrolle

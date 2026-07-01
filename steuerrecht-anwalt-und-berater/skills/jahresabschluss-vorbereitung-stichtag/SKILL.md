@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-vorbereitung-stichtag
-description: "Jahresabschluss-Vorbereitung Stichtag. Anwendungsfall systematische JA-Vorbereitung Inventur Periodenabgrenzung Rückstellungen Anlagenspiegel. Methodik 8-Wochen-Vorlauf. Output JA-Vorbereitungs-Routine."
+description: "Wenn es um Jahresabschluss-Vorbereitung zum Stichtag in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jahresabschluss-Vorbereitung zum Stichtag

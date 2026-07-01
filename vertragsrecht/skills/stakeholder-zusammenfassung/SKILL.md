@@ -1,6 +1,6 @@
 ---
 name: stakeholder-zusammenfassung
-description: "Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für Geschäftsführung, Vorstand oder Einkauf — kein Rechtsgutachten, sondern eine klare Entscheidungsgrundlage. Lädt, wenn der Nutzer Zusammenfassung für Geschäftsführung, für den Vorstand aufbereiten, Managementzusammenfassung, für Einkau..."
+description: "Wenn es um Mandantenzusammenfassung Vertragsrecht in Vertragsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mandantenzusammenfassung Vertragsrecht

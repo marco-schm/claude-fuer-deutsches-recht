@@ -1,6 +1,6 @@
 ---
 name: scheidung-versorgungsausgleich-folgen
-description: "Scheidung und Versorgungsausgleich: Rentenanrechte, interne/externe Teilung, Anpassung wegen Tod oder Unterhalt und Bescheidprüfung im Rentenpruefer."
+description: "Wenn es um scheidung-versorgungsausgleich-folgen in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # scheidung-versorgungsausgleich-folgen

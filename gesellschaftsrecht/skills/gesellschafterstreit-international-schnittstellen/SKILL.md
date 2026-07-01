@@ -1,6 +1,6 @@
 ---
 name: gesellschafterstreit-international-schnittstellen
-description: "Gesellschafterstreit: Internationaler Bezug und Schnittstellen im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht."
+description: "Wenn es um Gesellschafterstreit: Internationaler Bezug und Schnittstellen in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesellschafterstreit: Internationaler Bezug und Schnittstellen

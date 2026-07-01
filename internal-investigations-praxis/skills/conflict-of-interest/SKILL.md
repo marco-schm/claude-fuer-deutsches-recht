@@ -1,6 +1,6 @@
 ---
 name: conflict-of-interest
-description: "Untersucht Interessenkonflikte von Mitarbeitern und Organmitgliedern – Offenlegungspflichten, § 93 AktG, § 34 HGB, Insider-Geschäfte im Internal Investigations Praxis."
+description: "Wenn es um Interessenkonflikte – Untersuchung und Prävention in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Interessenkonflikte – Untersuchung und Prävention

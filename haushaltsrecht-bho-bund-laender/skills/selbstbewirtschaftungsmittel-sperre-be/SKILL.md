@@ -1,6 +1,6 @@
 ---
 name: selbstbewirtschaftungsmittel-sperre-be
-description: "Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Sperre bewerten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Selbstbewirtschaftungsmittel Sperre Be in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Selbstbewirtschaftungsmittel Sperre Be

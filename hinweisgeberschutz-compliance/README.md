@@ -79,106 +79,106 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abschlussmitteilung-anonyme-meldung` | Formuliert Abschlussmitteilung an Hinweisgeber im Hinweisgeberschutz Compliance. |
-| `anonyme-meldung` | Bewertet anonyme Meldungen und freiwillige Annahmeprozesse im Hinweisgeberschutz Compliance. |
-| `antwortschreiben-hinweisgeber` | Formuliert Antworten an Hinweisgeber rechtssicher im Hinweisgeberschutz Compliance. |
-| `anwaltliche-meldestelle` | Prüft anwaltliche Meldestelle und Berufsgeheimnis im Hinweisgeberschutz Compliance. |
-| `arbeitsgericht-klage-arbeitsschutz-audit` | Bereitet arbeitsgerichtliche Klage wegen Repressalie vor im Hinweisgeberschutz Compliance. |
-| `arbeitsschutz` | Prüft Arbeitsschutz-Hinweise und Eskalation im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `arbeitsvertrag-klauseln-settlement` | Prüft Arbeitsvertragsklauseln gegen Hinweisgeberrechte im Hinweisgeberschutz Compliance. |
-| `audit-nachweis` | Baut Audit-Nachweis für das Hinweisgebersystem im Hinweisgeberschutz Compliance. |
-| `aufsichtsbehoerdenkommunikation-internal` | Steuert Kommunikation mit Aufsichtsbehörden im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `aufsichtsrat-reporting` | Berichtet Hinweisfälle an Aufsichtsrat oder Beirat im Hinweisgeberschutz Compliance. |
-| `barrierefreiheit-meldekanal` | Prüft Barrierefreiheit des Meldekanals im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `beschaeftigtenzahl-konzern` | Klärt Beschäftigtenzählung, Konzernlösung und gemeinsame Ressourcen im Hinweisgeberschutz Compliance. |
-| `beschuldigtenrechte` | Balanciert Hinweisgeberschutz und Rechte beschuldigter Personen im Hinweisgeberschutz Compliance. |
-| `beschwerde-management` | Grenzt Hinweis, Beschwerde, Grievance und HR-Konflikt ab im Hinweisgeberschutz Compliance. |
-| `betriebsrat-mitbestimmung-beweislastumkehr` | Prüft Mitbestimmung bei Meldesystem und Untersuchungen im Hinweisgeberschutz Compliance. |
-| `beweislastumkehr` | Prüft Beweislastumkehr nach Meldung im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `bewerber-ehemalige` | Prüft Bewerber und ehemalige Beschäftigte im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `boesglaeubige-meldung` | Behandelt bewusst falsche oder missbräuchliche Meldungen im Hinweisgeberschutz Compliance. |
-| `bonus-versetzung-case-management-cloud` | Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis im Hinweisgeberschutz Compliance. |
-| `bussgeld-risiko-exportkontrolle-sanktionen` | Bewertet Bußgeldrisiken für fehlenden Meldekanal oder Verstöße im Hinweisgeberschutz Compliance. |
-| `case-management-tool` | Prüft technisches Case-Management für Hinweisfälle im Hinweisgeberschutz Compliance. |
-| `cloud-hosting-meldekanal` | Prüft Cloudhosting für Meldekanal im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `compliance-hotline-provider` | Prüft Hotline-Provider und Case-Management-Tools im Hinweisgeberschutz Compliance. |
-| `datenschutz-dsgvo-meldeakte` | Baut Datenschutzkonzept für die Meldeakte im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `datenschutzpanne-meldung` | Routet Hinweise zu Datenschutzpannen im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `dokumentationspflicht` | Prüft Dokumentation eingehender Meldungen im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `dokumente-sichern-e-discovery-einstweiliger` | Sichert Unterlagen nach Eingang eines Hinweises im Hinweisgeberschutz Compliance. |
-| `e-discovery-forensik` | Prüft E-Discovery und Forensik im deutschen Rahmen im Hinweisgeberschutz Compliance. |
-| `eingangsfrist-7-tage` | Steuert Eingangsbestätigung und Fristen sauber im Hinweisgeberschutz Compliance. |
-| `einstweiliger-rechtsschutz` | Prüft Eilrechtsschutz gegen Repressalien im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `eu-richtlinie-abgleich` | Vergleicht deutsches HinSchG mit EU-Whistleblower-Richtlinie im Hinweisgeberschutz Compliance. |
-| `exportkontrolle-sanktionen` | Routet Sanktions- und Exportkontrollhinweise im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `externe-meldung-externes-bfj-faq-mitarbeiter` | Prüft externe Meldung beim Bundesamt für Justiz und andere Stellen im Hinweisgeberschutz Compliance. |
-| `externes-bfj-formular` | Bereitet Kommunikation mit externer Meldestelle vor im Hinweisgeberschutz Compliance. |
-| `faq-fuer-mitarbeiter` | Schreibt verständliche Mitarbeiter-FAQ im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `folgeaktionen` | Plant zulässige und angemessene Folgemaßnahmen im Hinweisgeberschutz Compliance. |
-| `fristenkalender` | Erzeugt Fristenkalender für Hinweisfälle im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `geldwaesche-meldung-geschaeftsgeheimnis` | Verbindet Hinweis mit GwG/FIU-Pflichten im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `gerichtliche-rechtsprechung-eingangsfrist` | Erzwingt Rechtsprechungs-Livecheck ohne BeckRS-Blindzitate im Hinweisgeberschutz Compliance. |
-| `geschaeftsgeheimnis-geschgehg` | Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen im Hinweisgeberschutz Compliance. |
-| `geschuetzte-verstoesse-paragraf2` | Ordnet gemeldete Verstöße in den sachlichen Anwendungsbereich ein im Hinweisgeberschutz Compliance. |
-| `hinweis-von-externer-person` | Prüft Meldungen von Lieferanten, Kunden oder Dritten im Hinweisgeberschutz Compliance. |
-| `hinweisgeber-betriebsrat-personenkreis` | Prüft Betriebsratsmitglieder als Hinweisgeber oder Beschuldigte im Hinweisgeberschutz Compliance. |
-| `hinweisgeber-personenkreis` | Prüft, ob die meldende Person geschützt ist im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `internal-investigation` | Steuert interne Untersuchung praktisch im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `international-subsidiaries` | Prüft internationale Tochtergesellschaften und mehrsprachige Kanäle im Hinweisgeberschutz Compliance. |
-| `jahresbericht-compliance` | Erstellt Jahresbericht ohne Identitätsrisiko im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `kaltstart-triage` | Startet das HinSchG-Kommandocenter für Meldestelle, Hinweis, NDA-Konflikt und Folgemaßnahmen. |
-| `kanzlei-berufsgeheimnis-kartellrecht` | Prüft Hinweise in Kanzleien und Berufsgeheimnisträger-Umfeld im Hinweisgeberschutz Compliance. |
-| `kartellrecht` | Routet Kartellhinweise im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `kommunikation-an-betroffene` | Formuliert Kommunikation an beschuldigte und betroffene Personen im Hinweisgeberschutz Compliance. |
-| `konflikt-nda-due-diligence` | Prüft NDA-Konflikte in M&A-Due-Diligence und Datenräumen im Hinweisgeberschutz Compliance. |
-| `konzernmeldestelle-kuendigung-laender` | Prüft konzernweite Meldestelle und lokale Verantwortlichkeit im Hinweisgeberschutz Compliance. |
-| `kuendigung-nach-meldung` | Prüft Kündigung oder Abmahnung nach Hinweis im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `laender-meldestellen` | Prüft länderspezifische externe Meldestellen und Spezialzuständigkeiten im Hinweisgeberschutz Compliance. |
-| `legal-hold` | Baut Legal Hold für Whistleblower-Fälle im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `lieferkette-lksg-massnahmenplan-meldekanal` | Verknüpft Hinweise mit Lieferkette und Menschenrechten im Hinweisgeberschutz Compliance. |
-| `loeschfristen` | Steuert Löschung und Archivierung von HinSchG-Akten im Hinweisgeberschutz Compliance. |
-| `ma-transaktion-whistleblower` | Steuert Whistleblower-Risiken in Transaktionen im Hinweisgeberschutz Compliance. |
-| `massnahmenplan` | Priorisiert Verbesserungen am HinSchG-System im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `meldekanal-design` | Gestaltet Meldekanäle schriftlich, mündlich, persönlich und digital im Hinweisgeberschutz Compliance. |
-| `meldeprozess-sla` | Baut Service-Level für Bearbeitung von Hinweisen im Hinweisgeberschutz Compliance. |
-| `missbrauchsabwehr-mobbing-retaliation-nda` | Baut Missbrauchsabwehr ohne Abschreckung echter Hinweise im Hinweisgeberschutz Compliance. |
-| `mobbing-retaliation` | Erkennt informelle Repressalien und Mobbing im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `nda-konflikt` | Löst Konflikt zwischen NDA, Verschwiegenheit und Hinweisgeberschutz im Hinweisgeberschutz Compliance. |
-| `offenlegung-an-presse` | Prüft Offenlegung an Öffentlichkeit oder Presse im Hinweisgeberschutz Compliance. |
-| `outsourcing-ombudsperson-personenbezogene` | Prüft Outsourcing an Ombudsperson oder Dienstleister im Hinweisgeberschutz Compliance. |
-| `personenbezogene-daten-dritter` | Schützt Daten Dritter in Meldungen im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `pflicht-interne-meldestelle` | Prüft, ob und wie eine interne Meldestelle einzurichten ist im Hinweisgeberschutz Compliance. |
-| `policy-generator` | Erzeugt Hinweisgeber-Policy für Unternehmen im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `presse-offenlegung-produktsicherheit-public` | Bereitet Reaktion auf Presseoffenlegung vor im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `produktsicherheit` | Prüft Produkt- und Sicherheitsverstöße aus Hinweisen im Hinweisgeberschutz Compliance. |
-| `public-sector-beamte` | Prüft Hinweisgeberschutz im öffentlichen Dienst im Hinweisgeberschutz Compliance. |
-| `redteam-qualitygate` | Finaler Red-Team-Check gegen Repressalien, NDA-Fallen und Papierprozesse. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `repressalienverbot` | Prüft Repressalien und schützt Betroffene prozessfest im Hinweisgeberschutz Compliance. |
-| `risikomatrix-rueckmeldung-monate-schulung` | Erstellt Risikomatrix für Hinweise im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `rueckmeldung-3-monate` | Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler im Hinweisgeberschutz Compliance. |
-| `schadensersatz` | Prüft Schadensersatzansprüche bei Repressalien im Hinweisgeberschutz Compliance. |
-| `schulung-fuehrungskraefte` | Schult Führungskräfte gegen Repressalienfehler im Hinweisgeberschutz Compliance. |
-| `schutzvoraussetzungen` | Prüft guten Glauben, Tatsachengrundlage und Schutzschwelle im Hinweisgeberschutz Compliance. |
-| `schwerbehinderung-agg-shared-resources-speak` | Prüft AGG-/Schwerbehindertenbezug in Hinweisfällen im Hinweisgeberschutz Compliance. |
-| `settlement-und-aufhebungsvertrag` | Prüft Aufhebungs- und Vergleichsklauseln auf HinSchG-Fallen im Hinweisgeberschutz Compliance. |
-| `shared-resources` | Gestaltet geteilte Ressourcen mittelgroßer Unternehmen im Hinweisgeberschutz Compliance. |
-| `speak-up-kultur` | Baut Speak-up-Kultur ohne Compliance-Theater im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `sprachliche-zugaenglichkeit` | Gestaltet Meldesystem sprachlich verständlich im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `steuerrecht-grenzen` | Prüft Steuerhinweise und Grenzen interner Aufklärung im Hinweisgeberschutz Compliance. |
-| `tisax-iso-triage-strafrecht-uk-whistleblowing` | Verknüpft TISAX/ISO-Compliance mit Hinweisgebersystem im Hinweisgeberschutz Compliance. |
-| `triage-strafrecht` | Routet Hinweise mit Strafrechtsbezug im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `uk-whistleblowing-abgrenzung` | Grenzt UK Whistleblowing bei Niederlassungen ab im Hinweisgeberschutz Compliance. |
-| `umweltverstoss` | Prüft Umweltverstöße im Hinweisgebersystem im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `untersuchung-datenschutz-dsgvo` | Plant Compliance-Untersuchung nach Hinweis im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `untersuchungsbericht-untersuchungsplan-us-sox` | Erstellt Untersuchungsbericht ohne Quellenpreisgabe im Hinweisgeberschutz Compliance. |
-| `untersuchungsplan` | Baut Untersuchungsplan mit Hypothesen und Beweisen im Hinweisgeberschutz Compliance. |
-| `us-sox-doddfrank-abgrenzung` | Grenzt US SOX/Dodd-Frank-Hinweise bei Konzernen ab im Hinweisgeberschutz Compliance. |
-| `vergleichsklausel` | Entwirft Vergleichsklauseln hinweisgeberfest im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `verschwiegenheitsklauseln-redline` | Redlinet Verschwiegenheitsklauseln hinweisgeberfest im Hinweisgeberschutz Compliance. |
-| `vertraulichkeit-identitaet` | Prüft Identitätsschutz für Hinweisgeber, Betroffene und Dritte im Hinweisgeberschutz Compliance. |
-| `vertraulichkeit-vs-anhoerung` | Balanciert Vertraulichkeit mit Anhörungspflichten. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `vertraulichkeit-vs-zugriffskonzept` | Balanciert Vertraulichkeit mit Anhörungspflichten im Hinweisgeberschutz Compliance. |
-| `vorstandshaftung` | Prüft Organhaftung bei ignorierten Hinweisen im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `zugriffskonzept` | Baut Zugriffskonzept für Case-Management-Systeme im Hinweisgeberschutz Compliance. |
+| `abschlussmitteilung-anonyme-meldung` | Wenn es um Abschlussmitteilung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `anonyme-meldung` | Wenn es um Anonyme Meldung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `antwortschreiben-hinweisgeber` | Wenn es um Antwortschreiben Hinweisgeber in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `anwaltliche-meldestelle` | Wenn es um Anwaltliche Meldestelle in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `arbeitsgericht-klage-arbeitsschutz-audit` | Wenn es um Arbeitsgericht Klage in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenl... |
+| `arbeitsschutz` | Wenn es um Arbeitsschutz in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `arbeitsvertrag-klauseln-settlement` | Wenn es um Arbeitsvertrag Klauseln in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `audit-nachweis` | Wenn es um Audit Nachweis in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `aufsichtsbehoerdenkommunikation-internal` | Wenn es um Aufsichtsbehoerdenkommunikation in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `aufsichtsrat-reporting` | Wenn es um Aufsichtsrat Reporting in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `barrierefreiheit-meldekanal` | Wenn es um Barrierefreiheit Meldekanal in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `beschaeftigtenzahl-konzern` | Wenn es um Beschäftigtenzahl Konzern in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `beschuldigtenrechte` | Wenn es um Beschuldigtenrechte in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `beschwerde-management` | Wenn es um Beschwerde Management in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `betriebsrat-mitbestimmung-beweislastumkehr` | Wenn es um Betriebsrat Mitbestimmung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `beweislastumkehr` | Wenn es um Beweislastumkehr in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `bewerber-ehemalige` | Wenn es um Bewerber Ehemalige in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `boesglaeubige-meldung` | Wenn es um Boesglaeubige Meldung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `bonus-versetzung-case-management-cloud` | Wenn es um Bonus Versetzung Bewertung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `bussgeld-risiko-exportkontrolle-sanktionen` | Wenn es um Bussgeld Risiko in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `case-management-tool` | Wenn es um Case Management Tool in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `cloud-hosting-meldekanal` | Wenn es um Cloud Hosting Meldekanal in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `compliance-hotline-provider` | Wenn es um Compliance Hotline Provider in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `datenschutz-dsgvo-meldeakte` | Wenn es um Datenschutz DSGVO Meldeakte in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem... |
+| `datenschutzpanne-meldung` | Wenn es um Datenschutzpanne Meldung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `dokumentationspflicht` | Wenn es um Dokumentationspflicht in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `dokumente-sichern-e-discovery-einstweiliger` | Wenn es um Dokumente Sichern in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
+| `e-discovery-forensik` | Wenn es um E Discovery Forensik in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `eingangsfrist-7-tage` | Wenn es um Eingangsfrist 7 Tage in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `einstweiliger-rechtsschutz` | Wenn es um Einstweiliger Rechtsschutz in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `eu-richtlinie-abgleich` | Wenn es um EU Richtlinie Abgleich in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `exportkontrolle-sanktionen` | Wenn es um Exportkontrolle Sanktionen in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `externe-meldung-externes-bfj-faq-mitarbeiter` | Wenn es um Externe Meldung BfJ in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `externes-bfj-formular` | Wenn es um Externes BfJ Formular in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `faq-fuer-mitarbeiter` | Wenn es um FAQ Für Mitarbeiter in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `folgeaktionen` | Wenn es um Folgeaktionen in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `fristenkalender` | Wenn es um Fristenkalender in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `geldwaesche-meldung-geschaeftsgeheimnis` | Wenn es um Geldwaesche Meldung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `gerichtliche-rechtsprechung-eingangsfrist` | Wenn es um Gerichtliche Rechtsprechung Livecheck in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `geschaeftsgeheimnis-geschgehg` | Wenn es um Geschäftsgeheimnis Geschgehg in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `geschuetzte-verstoesse-paragraf2` | Wenn es um Geschuetzte Verstoesse Paragraf2 in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `hinweis-von-externer-person` | Wenn es um Hinweis Von Externer Person in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `hinweisgeber-betriebsrat-personenkreis` | Wenn es um Hinweisgeber Im Betriebsrat in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `hinweisgeber-personenkreis` | Wenn es um Hinweisgeber Personenkreis in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `internal-investigation` | Wenn es um Internal Investigation in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `international-subsidiaries` | Wenn es um International Subsidiaries in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `jahresbericht-compliance` | Wenn es um Jahresbericht Compliance in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kaltstart-triage` | Wenn es um Allgemein in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kanzlei-berufsgeheimnis-kartellrecht` | Wenn es um Kanzlei Berufsgeheimnis in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kartellrecht` | Wenn es um Kartellrecht in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kommunikation-an-betroffene` | Wenn es um Kommunikation An Betroffene in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `konflikt-nda-due-diligence` | Wenn es um Konflikt NDA Due Diligence in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `konzernmeldestelle-kuendigung-laender` | Wenn es um Konzernmeldestelle in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kuendigung-nach-meldung` | Wenn es um Kuendigung Nach Meldung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `laender-meldestellen` | Wenn es um Länder Meldestellen in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `legal-hold` | Wenn es um Legal Hold in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `lieferkette-lksg-massnahmenplan-meldekanal` | Wenn es um Lieferkette LkSG CSDDD in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `loeschfristen` | Wenn es um Loeschfristen in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ma-transaktion-whistleblower` | Wenn es um Ma Transaktion Whistleblower in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `massnahmenplan` | Wenn es um Maßnahmenplan in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `meldekanal-design` | Wenn es um Meldekanal Design in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `meldeprozess-sla` | Wenn es um Meldeprozess SLA in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `missbrauchsabwehr-mobbing-retaliation-nda` | Wenn es um Missbrauchsabwehr in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `mobbing-retaliation` | Wenn es um Mobbing Retaliation in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `nda-konflikt` | Wenn es um NDA Konflikt in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `offenlegung-an-presse` | Wenn es um Offenlegung An Presse in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `outsourcing-ombudsperson-personenbezogene` | Wenn es um Outsourcing Ombudsperson in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `personenbezogene-daten-dritter` | Wenn es um Personenbezogene Daten Dritter in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `pflicht-interne-meldestelle` | Wenn es um Pflicht Interne Meldestelle in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `policy-generator` | Wenn es um Policy Generator in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `presse-offenlegung-produktsicherheit-public` | Wenn es um Presse Und Offenlegung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `produktsicherheit` | Wenn es um Produktsicherheit in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `public-sector-beamte` | Wenn es um Public Sector Beamte in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `redteam-qualitygate` | Wenn es um Redteam Qualitygate in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `repressalienverbot` | Wenn es um Repressalienverbot in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `risikomatrix-rueckmeldung-monate-schulung` | Wenn es um Risikomatrix in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `rueckmeldung-3-monate` | Wenn es um Rueckmeldung 3 Monate in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `schadensersatz` | Wenn es um Schadensersatz in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `schulung-fuehrungskraefte` | Wenn es um Schulung Fuehrungskraefte in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `schutzvoraussetzungen` | Wenn es um Schutzvoraussetzungen in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `schwerbehinderung-agg-shared-resources-speak` | Wenn es um Schwerbehinderung Agg in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `settlement-und-aufhebungsvertrag` | Wenn es um Settlement Und Aufhebungsvertrag in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `shared-resources` | Wenn es um Shared Resources in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `speak-up-kultur` | Wenn es um Speak Up Kultur in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `sprachliche-zugaenglichkeit` | Wenn es um Sprachliche Zugaenglichkeit in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `steuerrecht-grenzen` | Wenn es um Steuerrecht Grenzen in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `tisax-iso-triage-strafrecht-uk-whistleblowing` | Wenn es um Tisax Iso Hinweisgeber in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `triage-strafrecht` | Wenn es um Triage Strafrecht in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `uk-whistleblowing-abgrenzung` | Wenn es um Uk Whistleblowing Abgrenzung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `umweltverstoss` | Wenn es um Umweltverstoss in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `untersuchung-datenschutz-dsgvo` | Wenn es um Compliance Untersuchung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `untersuchungsbericht-untersuchungsplan-us-sox` | Wenn es um Untersuchungsbericht in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `untersuchungsplan` | Wenn es um Untersuchungsplan in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `us-sox-doddfrank-abgrenzung` | Wenn es um Us Sox Doddfrank Abgrenzung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `vergleichsklausel` | Wenn es um Vergleichsklausel in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `verschwiegenheitsklauseln-redline` | Wenn es um Verschwiegenheitsklauseln Redline in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `vertraulichkeit-identitaet` | Wenn es um Vertraulichkeit Identitaet in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `vertraulichkeit-vs-anhoerung` | Wenn es um Vertraulichkeit Vs Anhoerung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `vertraulichkeit-vs-zugriffskonzept` | Wenn es um Vertraulichkeit Vs Anhörung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `vorstandshaftung` | Wenn es um Vorstandshaftung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `zugriffskonzept` | Wenn es um Zugriffskonzept in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

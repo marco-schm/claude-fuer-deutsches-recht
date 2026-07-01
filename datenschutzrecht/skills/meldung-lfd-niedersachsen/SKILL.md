@@ -1,6 +1,6 @@
 ---
 name: meldung-lfd-niedersachsen
-description: "Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für den Datenschutz Niedersachsen (LfD NI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Niedersachsen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge d..."
+description: "Wenn es um Meldung Art. 33 DSGVO an die LfD NI in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meldung Art. 33 DSGVO an die LfD NI

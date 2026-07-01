@@ -1,6 +1,6 @@
 ---
 name: protective-provisions-veto
-description: "Prüft Zustimmungsvorbehalte, Reserved Matters, Budget, Hiring, M&A, Debt, IP, Related-Party und Deadlock im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Protective Provisions und Vetorechte in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Protective Provisions und Vetorechte

@@ -1,6 +1,6 @@
 ---
 name: micar-casp-notifikation-bank-art60
-description: "MiCAR-CASP-Notifikation für Banken nach Art. 60 prüfen: bestehende Erlaubnis, Kryptowerte-Dienstleistung, 40-Arbeitstage-Frist, Unterlagen, BaFin/Bundesbank-Kommunikation und DORA-Schnittstelle im Bank-Rechtsabteilung."
+description: "Wenn es um MiCAR CASP für Banken in Bank-Rechtsabteilung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # MiCAR CASP für Banken

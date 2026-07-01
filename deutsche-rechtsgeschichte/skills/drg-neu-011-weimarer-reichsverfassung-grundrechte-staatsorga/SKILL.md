@@ -1,6 +1,6 @@
 ---
 name: drg-neu-011-weimarer-reichsverfassung-grundrechte-staatsorga
-description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation

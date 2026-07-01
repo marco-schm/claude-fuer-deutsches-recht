@@ -1,6 +1,6 @@
 ---
 name: steuer-schnittstelle-vermietung
-description: "Steuer-Schnittstelle Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht: erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail; mit Normprüf..."
+description: "Wenn es um Steuer-Schnittstelle Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuer-Schnittstelle Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht

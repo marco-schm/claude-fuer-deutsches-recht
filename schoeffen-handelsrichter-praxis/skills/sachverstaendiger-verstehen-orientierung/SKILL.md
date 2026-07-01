@@ -1,6 +1,6 @@
 ---
 name: sachverstaendiger-verstehen-orientierung
-description: "Sachverständige verstehen (Orientierung): hilft ehrenamtlichen Richtern bei Gutachten lesen, Nachfragen, Methodenkritik und Grenzen eigener Sachkunde mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Sachverständige verstehen: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sachverständige verstehen: Orientierung

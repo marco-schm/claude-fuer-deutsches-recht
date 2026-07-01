@@ -1,6 +1,6 @@
 ---
 name: kollegialitaetsgebot-pruefung
-description: "E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. A"
+description: "Wenn es um Kollegialitätsgebot-Prüfung in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kollegialitaetsgebot Prüfung; Arbeitsfeld: E-Mail-Umformulierer."
 ---
 
 # Kollegialitätsgebot-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Markenrecht Fashion/Luxus: ordnet Rolle (Markeninhaber, Verletzer, Konkurrent), markiert Frist (Widerspruch 3 Monate § 42 MarkenG), wählt Norm (MarkenG, UMV (EU), UWG §§ 3/5) und Zuständigkeit (DPMA), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in markenrecht-fashion-luxus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

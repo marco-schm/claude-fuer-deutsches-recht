@@ -1,6 +1,6 @@
 ---
 name: betreuung-grenzueberschreitend-betreuungsantrag
-description: "Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Prüfraster für im Ausland lebende Betroffene im Betreuungsrecht."
+description: "Wenn es um Grenzueberschreitende Betreuung in Betreuungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Grenzueberschreitende Betreuung

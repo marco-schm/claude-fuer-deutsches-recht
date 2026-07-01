@@ -1,6 +1,6 @@
 ---
 name: uk-sanctions-us-ear-voruebergehende
-description: "UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA 2018 OFSI-Richtlinien und UK-Konsolidierte-Sanktionsliste nach Brexit. Vergleich mit EU-Sanktionen bei Transaktionen ueber UK-Tochtergesellschaften oder UK-Banken. Output: UK-EU-Sanktionsvergleich und Handlungsempfehlung für Trans..."
+description: "Wenn es um UK-Sanktionen als Touchpoint: SAMLA und OFSI nach Brexit in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # UK-Sanktionen als Touchpoint: SAMLA und OFSI nach Brexit

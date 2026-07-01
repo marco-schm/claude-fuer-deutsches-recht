@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-behoerdenvergleich-erledigung-und-auflagen
-description: "Datenschutzrecht-Brückenskill: Erledigung mit der Aufsicht verhandeln: Informelle Erledigung, Verwarnung, Auflage, reduzierte Geldbuße oder Rücknahme rechtlich sauber verhandeln: Datenschutzrecht-Brückenskill: Erledigung mit der Aufsicht verhandeln: Informe..."
+description: "Wenn es um Dsv Sanktion Behoerdenvergleich Erledigung Und Auflagen in Datenschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Datenschutzrecht-Brückenskill: Erledigung mit der Aufsicht verhandeln: Informelle Erledigung, Verwarnung, Auflage, reduzierte Geldbuße oder Rücknahme rechtlich sauber verhandeln

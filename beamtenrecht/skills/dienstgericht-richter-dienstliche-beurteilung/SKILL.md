@@ -1,6 +1,6 @@
 ---
 name: dienstgericht-richter-dienstliche-beurteilung
-description: "Skill zum Dienstgericht für Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zuständigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Prüfverfahren die Besetzung des Spruchkoerpers mit beruflichen und ehrenamtlichen Richtern und das Verfahrensr..."
+description: "Wenn es um Dienstgericht für Richter in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dienstgericht für Richter

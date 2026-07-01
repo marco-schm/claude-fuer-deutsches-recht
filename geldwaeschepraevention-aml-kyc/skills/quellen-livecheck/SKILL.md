@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Quellen-Live-Check für Geldwäscheprävention AML/KYC: prüft Normen (GwG, FATF 40 Recommendations, EU-AMLD VI) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt FIU und Quellenhygiene nach references/quellenhygiene.md."
+description: "Wenn es um Rechtsquellen-Livecheck in Geldwäscheprävention, AML und KYC geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsquellen-Livecheck

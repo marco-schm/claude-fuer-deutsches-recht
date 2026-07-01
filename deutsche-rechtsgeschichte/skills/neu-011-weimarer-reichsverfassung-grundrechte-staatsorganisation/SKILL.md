@@ -1,6 +1,6 @@
 ---
 name: neu-011-weimarer-reichsverfassung-grundrechte-staatsorganisation
-description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation im Deutsche Rechtsgeschichte."
+description: "Wenn es um Deutsche Rechtsgeschichte: 011 Weimarer Reichsverfassung Grundrechte Staatsorganisation in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: 011 Weimarer Reichsverfassung Grundrechte Staatsorganisation

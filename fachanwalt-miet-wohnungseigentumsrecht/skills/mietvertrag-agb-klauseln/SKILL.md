@@ -1,6 +1,6 @@
 ---
 name: mietvertrag-agb-klauseln
-description: "Mietvertrag AGB-Klauseln: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft typische Klauseln auf Transparenz, Überraschung und unangemessene Benachteiligung; mit Normprüfung, Bewei..."
+description: "Wenn es um Mietvertrag AGB-Klauseln: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietvertrag AGB-Klauseln: Fachmodul im Miet- und Wohnungseigentumsrecht

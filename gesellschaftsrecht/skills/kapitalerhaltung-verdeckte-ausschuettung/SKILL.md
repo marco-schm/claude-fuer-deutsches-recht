@@ -1,6 +1,6 @@
 ---
 name: kapitalerhaltung-verdeckte-ausschuettung
-description: Prüft Zahlungen an Gesellschafter, Upstream Loans, Sicherheiten, Management Fees und verdeckte Ausschüttungen auf Kapitalerhaltung und Haftung.
+description: "Wenn es um Kapitalerhaltung und verdeckte Ausschüttung in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 # Kapitalerhaltung und verdeckte Ausschüttung
 

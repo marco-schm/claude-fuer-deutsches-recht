@@ -1,6 +1,6 @@
 ---
 name: familienrecht-tatbestand-beweis-und-belege
-description: "Familienrechtlicher Skill zu Familienrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
+description: "Wenn es um Familienrecht Tatbestand Beweis Und Belege in Fachanwalt Familienrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Familienrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

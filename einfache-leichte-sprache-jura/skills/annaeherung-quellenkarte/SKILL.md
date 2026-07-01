@@ -1,6 +1,6 @@
 ---
 name: annaeherung-quellenkarte
-description: "Annaeherung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Annaeherung Quellenkarte in Einfache und Leichte Sprache für juristische Texte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Annaeherung Quellenkarte

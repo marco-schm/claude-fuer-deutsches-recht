@@ -1,6 +1,6 @@
 ---
 name: sanktionen-raumfahrtkooperation-russland-china-iran
-description: "Sanktionen und Raumfahrt – EU/US-Sanktionsregime, ISS-Zukunft, Straftatbestände, Compliance im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Sanktionen: Raumfahrtkooperation Russland, China, Iran in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Sanktionen: Raumfahrtkooperation Russland, China, Iran

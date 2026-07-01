@@ -1,6 +1,6 @@
 ---
 name: writing-einstieg-routing
-description: "Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Wenn es um Einstieg und Routing in Word-Workflows für deutsche Juristen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

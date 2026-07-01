@@ -1,6 +1,6 @@
 ---
 name: beschuldigtenvernehmung-anhoerung
-description: "Beschuldigtenvernehmung und Anhörung: Praxis-Skill für neue Staatsanwälte zu Belehrung, Schweigerecht, Verteidigerkontakt und Vernehmungsplanung rechtssicher steuern; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Beschuldigtenvernehmung und Anhörung in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beschuldigtenvernehmung und Anhörung

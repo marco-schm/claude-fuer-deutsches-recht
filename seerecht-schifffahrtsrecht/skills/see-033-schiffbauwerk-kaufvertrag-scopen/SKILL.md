@@ -1,6 +1,6 @@
 ---
 name: see-033-schiffbauwerk-kaufvertrag-scopen
-description: "See- und Schifffahrtsrecht: Schiffbauwerk: Kaufvertrag scopen. Kaufvertrag scopen für Schiffbauwerk im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schiffbauwerk Kaufvertrag Scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffbauwerk Kaufvertrag Scopen

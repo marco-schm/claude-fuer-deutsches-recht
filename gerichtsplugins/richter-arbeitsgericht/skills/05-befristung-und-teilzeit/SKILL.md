@@ -1,6 +1,6 @@
 ---
 name: 05-befristung-und-teilzeit
-description: "Befristungskontrolle TzBfG: sachgrundlose Befristung Paragraf 14 Abs. 2, Sachgrundbefristung Paragraf 14 Abs. 1, Zweckbefristung; Teilzeit Paragraf 8 TzBfG (Anspruch auf Verringerung)"
+description: "Wenn es um 05 Befristung und Teilzeit in Arbeitsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 05 Befristung und Teilzeit

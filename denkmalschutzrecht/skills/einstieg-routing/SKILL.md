@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstiegsskill für das Denkmalschutzrecht-Plugin. Sortiert das Mandat, klärt Belegenheit des Objekts und damit das anwendbare Landesgesetz, ermittelt Rolle (Eigentümer, Erwerber, Behörde, Nachbar, Förderantragsteller), Fristen und gewünschtes Arbeitsprodukt. Routet anschließend in die passenden Querschnitts- und Landesskills."
+description: "Wenn es um Einstieg — Routing im Denkmalschutzrecht in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg — Routing im Denkmalschutzrecht

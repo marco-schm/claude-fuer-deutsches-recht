@@ -1,6 +1,6 @@
 ---
 name: beanstandung-durch-aufsichtsbehoerde-anhoerung
-description: "Beanstandung durch Aufsichtsbehörde Anhörung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht im Apothekenrecht."
+description: "Wenn es um Beanstandung durch Aufsichtsbehörde Anhörung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beanstandung durch Aufsichtsbehörde Anhörung

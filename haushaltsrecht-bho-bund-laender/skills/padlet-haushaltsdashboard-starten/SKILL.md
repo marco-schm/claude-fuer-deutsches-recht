@@ -1,6 +1,6 @@
 ---
 name: padlet-haushaltsdashboard-starten
-description: "Haushaltsrecht BHO Bund und Länder: Padlet Haushaltsdashboard starten. Padlet Haushaltsdashboard starten im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen..."
+description: "Wenn es um Padlet Haushaltsdashboard Starten in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Padlet Haushaltsdashboard Starten

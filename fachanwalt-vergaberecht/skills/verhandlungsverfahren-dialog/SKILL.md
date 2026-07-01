@@ -1,6 +1,6 @@
 ---
 name: verhandlungsverfahren-dialog
-description: "Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog strukturieren: Auftraggeber braucht flexibles Verfahren für komplexe Beschaffung: Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog strukturieren: Auftraggeber..."
+description: "Wenn es um Verhandlungsverfahren Dialog in Fachanwalt Vergaberecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog strukturieren: Auftraggeber braucht flexibles Verfahren für komplexe Beschaffung

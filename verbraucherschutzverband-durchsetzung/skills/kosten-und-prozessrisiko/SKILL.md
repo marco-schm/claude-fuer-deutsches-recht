@@ -1,6 +1,6 @@
 ---
 name: kosten-und-prozessrisiko
-description: "Verbraucherschutzverband Durchsetzung: Kosten- und Prozessrisiko. Kosten- und Prozessrisiko im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
+description: "Wenn es um Kosten Und Prozessrisiko in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kosten Und Prozessrisiko

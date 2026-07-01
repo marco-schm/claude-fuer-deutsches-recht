@@ -1,6 +1,6 @@
 ---
 name: freelancer-einkaufen
-description: "Solo-Selbstständige: erstellt Subunternehmer-Check mit Rechtekette und Statusrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Freelancer Einkaufen in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wachstum Zusammenarbeit und Rechtsform: Erstellt subunternehmer-check mit rechtekette und statusrisiko

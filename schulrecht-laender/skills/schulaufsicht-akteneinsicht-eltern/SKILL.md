@@ -1,6 +1,6 @@
 ---
 name: schulaufsicht-akteneinsicht-eltern
-description: "Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrechte im Schulrecht Länder."
+description: "Wenn es um Schulaufsicht und Akteneinsicht der Eltern in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Schulaufsicht und Akteneinsicht der Eltern

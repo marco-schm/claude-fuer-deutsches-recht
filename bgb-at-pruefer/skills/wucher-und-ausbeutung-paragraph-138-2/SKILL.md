@@ -1,6 +1,6 @@
 ---
 name: wucher-und-ausbeutung-paragraph-138-2
-description: "Klausurfall zu Wucher und wucherähnlichen Geschäften nach § 138 Abs. 2 BGB: Leistung und Gegenleistung in auffälligem Missverhältnis, Ausbeutung einer Zwangslage oder Unerfahrenheit, subjektives Wucherelement, Abgrenzung zur Sittenwidrigkeit nach § 138 Abs. 1 BGB."
+description: "Wenn es um Wucher und Ausbeutung — Paragraf 138 Abs. 2 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wucher und Ausbeutung — § 138 Abs. 2 BGB

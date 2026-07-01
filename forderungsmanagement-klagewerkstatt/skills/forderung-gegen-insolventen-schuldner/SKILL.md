@@ -1,6 +1,6 @@
 ---
 name: forderung-gegen-insolventen-schuldner
-description: "Forderung gegen insolventen Schuldner: Anmeldung zur Insolvenztabelle Paragraf 174 InsO binnen Anmeldefrist mit Grund und Hoehe. Aussonderung Paragraf 47 InsO. Absonderungsrecht Paragrafen 49-52 InsO. Massenforderung Paragraf 55 InsO. Nachrangige Paragraf 39 InsO. Vollstreckungsverbot Paragraf 89 InsO. Output: Forderungsanmeldung formgere..."
+description: "Wenn es um Forderung gegen insolventen Schuldner in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Forderung gegen insolventen Schuldner

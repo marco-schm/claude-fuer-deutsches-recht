@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-missionskontrolle-schichtbetrieb-sicherhe
-description: "Arbeitsrecht in der Missionskontrolle – Schichtarbeit, Bereitschaft, Arbeitssicherheit, Strahlung im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Arbeitsrecht: Missionskontrolle, Schichtbetrieb, Sicherheit in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Arbeitsrecht: Missionskontrolle, Schichtbetrieb, Sicherheit

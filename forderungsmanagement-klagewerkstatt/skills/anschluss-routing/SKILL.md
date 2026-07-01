@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Forderungsmanagement Klagewerkstatt: wählt den nächsten Spezial-Skill nach Engpass (Mahnbescheid-Widerspruch 2 Wochen, Mahnung, Mahnbescheid, Vollstreckungsbescheid), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Forderungsmanagement — Klagewerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anschluss-Routing

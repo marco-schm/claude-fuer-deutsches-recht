@@ -1,6 +1,6 @@
 ---
 name: quellenkritik-fraktur-ocr
-description: "PrALR: Fraktur-, Antiqua-, OCR- und Transkriptionsfehler erkennen, protokollieren und entschärfen."
+description: "Wenn es um Fraktur und OCR in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Quellenkritik Fraktur Ocr; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Fraktur und OCR

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-dokumentenfreigabe
-description: "Prüft Datenschutz und Dokumentenfreigaben in der Hausverwaltung (Stand 05/2026): Eigentümerlisten, Belegeinsicht, Handwerkerdaten, Mieterbeschwerden, Cloud-Ordner, Schwärzungen und Versandkreis. Schnittstelle zum Datenschutzrecht-Plugin bei hohem Risiko; Belegeinsicht nach § 18 Abs. 4 WEG (Verwal..."
+description: "Wenn es um Datenschutz und Dokumentenfreigabe in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenschutz und Dokumentenfreigabe

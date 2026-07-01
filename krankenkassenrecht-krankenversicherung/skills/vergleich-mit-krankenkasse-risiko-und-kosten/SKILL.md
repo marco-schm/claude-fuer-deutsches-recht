@@ -1,6 +1,6 @@
 ---
 name: vergleich-mit-krankenkasse-risiko-und-kosten
-description: "Strategische Bewertung von Vergleichsangeboten der GKV im Widerspruchs- oder Klageverfahren: Risiko-Nutzen-Analyse, Formulierungshinweise und Abgeltungsklauseln im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Vergleich mit Krankenkasse: Risiko und Kosten in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vergleich mit Krankenkasse: Risiko und Kosten

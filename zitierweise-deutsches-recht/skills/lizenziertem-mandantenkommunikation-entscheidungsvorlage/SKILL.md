@@ -1,6 +1,6 @@
 ---
 name: lizenziertem-mandantenkommunikation-entscheidungsvorlage
-description: "Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Lizenziertem Mandantenkommunikation Entscheidungsvorlage; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage

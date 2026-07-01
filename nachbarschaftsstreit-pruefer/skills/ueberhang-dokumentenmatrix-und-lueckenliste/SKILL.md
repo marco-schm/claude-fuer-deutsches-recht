@@ -1,6 +1,6 @@
 ---
 name: ueberhang-dokumentenmatrix-und-lueckenliste
-description: "Überhang: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Überhang: Dokumentenmatrix, Lückenliste und Nachforderung in Nachbarschaftsstreit-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Überhang: Dokumentenmatrix, Lückenliste und Nachforderung

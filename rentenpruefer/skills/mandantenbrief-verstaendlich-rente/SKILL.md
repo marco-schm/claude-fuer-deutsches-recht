@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-verstaendlich-rente
-description: "Mandantenbrief in verständlicher Sprache: Rentenbescheid, Versicherungsverlauf, Ausland, Versorgungswerk oder Nachversicherung einfach erklären im Rentenpruefer."
+description: "Wenn es um mandantenbrief-verstaendlich-rente in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # mandantenbrief-verstaendlich-rente

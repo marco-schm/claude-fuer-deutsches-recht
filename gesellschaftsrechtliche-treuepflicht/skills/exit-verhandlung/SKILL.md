@@ -1,6 +1,6 @@
 ---
 name: exit-verhandlung
-description: "Gesellschaftsrechtliche Treuepflicht: Exit Verhandlung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Exit Verhandlung in Gesellschaftsrechtliche Treuepflicht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Exit Verhandlung

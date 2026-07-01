@@ -1,6 +1,6 @@
 ---
 name: spezial-icsid-livequellen-und-rechtsprechungscheck
-description: "Icsid: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Icsid: Livequellen- und Rechtsprechungscheck in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Icsid: Livequellen- und Rechtsprechungscheck

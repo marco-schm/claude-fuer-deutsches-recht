@@ -1,6 +1,6 @@
 ---
 name: bverfg-polizeirecht-gefahrenprognose
-description: "Polizeiliche und sicherheitsrechtliche Maßnahmen mit BVerfG-Rechtsprechung prüfen: legitimer Sicherheitszweck, Gefahrenschwelle, Prognosebasis, Bestimmtheit, Richtervorbehalt und verfahrensrechtliche Sicherungen."
+description: "Wenn es um Polizeirecht und Gefahrenprognose nach BVerfG-Maßstab in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Polizeirecht und Gefahrenprognose nach BVerfG-Maßstab

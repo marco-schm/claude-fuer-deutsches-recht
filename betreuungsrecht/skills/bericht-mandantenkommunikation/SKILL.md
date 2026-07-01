@@ -1,6 +1,6 @@
 ---
 name: bericht-mandantenkommunikation
-description: "Bericht: Mandantenkommunikation und Entscheidungsvorlage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kriti..."
+description: "Wenn es um Bericht: Mandantenkommunikation und Entscheidungsvorlage in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bericht Mandantenkommunikation; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Bericht: Mandantenkommunikation und Entscheidungsvorlage

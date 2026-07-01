@@ -1,6 +1,6 @@
 ---
 name: umweltinformationen-abgrenzen-verbraucherinformationen-nutze
-description: "Informationsfreiheit und Presseauskunft: UIG und Umweltinformationen abgrenzen. UIG und Umweltinformationen abgrenzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: pr..."
+description: "Wenn es um Uig Und Umweltinformationen Abgrenzen in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Uig Und Umweltinformationen Abgrenzen

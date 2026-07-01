@@ -1,6 +1,6 @@
 ---
 name: raumstation-miet-orbit-slot
-description: "Nutzungsverträge für Raumstationsmodule – Jurisdiktion, Mietrecht, Nutzungsgebühren im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Raumstation: Miet- und Nutzungsverträge, Module, Rack Time in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Raumstation: Miet- und Nutzungsverträge, Module, Rack Time

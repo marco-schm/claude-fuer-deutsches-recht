@@ -1,6 +1,6 @@
 ---
 name: data-board
-description: "Richtet einen sicheren virtuellen Data Room für externe Counsel, Behörden und US-Discovery ein – Zugang, Privilegierung, Protokollierung im Internal Investigations Praxis."
+description: "Wenn es um Sicherer Data Room für Counsel und Behörden in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sicherer Data Room für Counsel und Behörden

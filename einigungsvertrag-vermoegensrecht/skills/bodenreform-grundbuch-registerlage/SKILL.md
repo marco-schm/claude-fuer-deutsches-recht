@@ -1,6 +1,6 @@
 ---
 name: bodenreform-grundbuch-registerlage
-description: "Einigungsvertrag und Vermögensrecht: Bodenreform-Grundbuch lesen. Bodenreform-Grundbuch lesen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Ta..."
+description: "Wenn es um Bodenreform Grundbuch Lesen in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Bodenreform Grundbuch Lesen

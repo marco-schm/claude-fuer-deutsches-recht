@@ -1,6 +1,6 @@
 ---
 name: erbvertrag-testament-belehrung-rechtsprechungscheck
-description: "Notare: erbvertrag testament belehrung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Erbvertrag Testament Belehrung Rechtsprechungscheck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: erbvertrag testament belehrung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

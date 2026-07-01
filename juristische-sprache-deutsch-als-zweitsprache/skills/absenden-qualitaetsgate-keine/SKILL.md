@@ -1,6 +1,6 @@
 ---
 name: absenden-qualitaetsgate-keine
-description: "Hilft bei Prüfung Vor Absenden für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache."
+description: "Wenn es um Prüfung Vor Absenden in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfung Vor Absenden

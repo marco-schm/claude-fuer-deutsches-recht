@@ -1,6 +1,6 @@
 ---
 name: konto-kuendigung-sperre
-description: "Klausel-Fachmodul für Konto Kündigung Sperre: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um Konto Kündigung Sperre in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konto Kündigung Sperre

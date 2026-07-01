@@ -1,6 +1,6 @@
 ---
 name: infl-035-mitarbeiter-posten-fuer-unternehmen
-description: "Influencer-Recht: Mitarbeiter posten für Unternehmen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Mitarbeiter posten für Unternehmen in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Mitarbeiter posten für Unternehmen

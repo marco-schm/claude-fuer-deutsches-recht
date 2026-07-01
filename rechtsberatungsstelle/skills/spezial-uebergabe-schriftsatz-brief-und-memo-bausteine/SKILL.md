@@ -1,6 +1,6 @@
 ---
 name: spezial-uebergabe-schriftsatz-brief-und-memo-bausteine
-description: "Uebergabe: Schriftsatz-, Brief- und Memo-Bausteine im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Uebergabe: Schriftsatz-, Brief- und Memo-Bausteine in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Uebergabe: Schriftsatz-, Brief- und Memo-Bausteine

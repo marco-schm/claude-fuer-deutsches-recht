@@ -1,6 +1,6 @@
 ---
 name: pflegeversicherung-pflegegrad
-description: "Pflegeversicherung Pflegegrad: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Pflegeversicherung Pflegegrad in Fachanwalt Sozialrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflegeversicherung Pflegegrad

@@ -1,6 +1,6 @@
 ---
 name: flugportal-betroffenenformular-bauen
-description: "Verbraucherschutzverband Durchsetzung: Flugportal: Betroffenenformular bauen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Flugportal Betroffenenformular Bauen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flugportal Betroffenenformular Bauen

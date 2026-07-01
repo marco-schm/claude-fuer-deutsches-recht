@@ -1,6 +1,6 @@
 ---
 name: lessons-learned-post-mortem
-description: "Lessons Learned und Deal Post-Mortem Skill: analysiert abgeschlossene Deals, Fehler, Prozessbremsen, gute Klauseln, Knowledge-Management und Playbook-Updates: Lessons Learned und Deal Post-Mortem Skill: analysiert abgeschlossene Deals, Fehler, Prozessbrems..."
+description: "Wenn es um Lessons Learned Post Mortem in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lessons Learned und Deal Post-Mortem Skill: analysiert abgeschlossene Deals, Fehler, Prozessbremsen, gute Klauseln, Knowledge-Management und Playbook-Updates.

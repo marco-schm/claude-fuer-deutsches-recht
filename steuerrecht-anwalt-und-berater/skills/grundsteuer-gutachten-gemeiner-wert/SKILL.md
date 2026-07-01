@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-gutachten-gemeiner-wert
-description: "Grundsteuer-Gegenbeweis mit gemeinem Wert vorbereiten: Kaufpreis, Verkehrswertgutachten, Maklerbewertung, Gutachterausschuss, Sonderfaktoren und BFH-AdV-Linie zu deutlich niedrigerem gemeinem Wert dokumentieren."
+description: "Wenn es um Grundsteuer: Gemeiner Wert und Gutachtenstrategie in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Grundsteuer: Gemeiner Wert und Gutachtenstrategie

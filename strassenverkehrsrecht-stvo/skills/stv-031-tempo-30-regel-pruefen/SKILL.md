@@ -1,6 +1,6 @@
 ---
 name: stv-031-tempo-30-regel-pruefen
-description: "Straßenverkehrsrecht StVO: Tempo 30: Regel prüfen. Regel prüfen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Tempo 30 Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tempo 30 Regel Pruefen

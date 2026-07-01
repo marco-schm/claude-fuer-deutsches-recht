@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Executive Cockpit mit Rollen, Zahlen, Menschenrisiken und nächster Entscheidung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene."
+description: "Wenn es um Kaltstart Kanzlei-Management in Kanzlei Management geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Kanzlei-Management

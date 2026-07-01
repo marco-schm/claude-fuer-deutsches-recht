@@ -1,6 +1,6 @@
 ---
 name: bverfg-grenzen-richterlicher
-description: "Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht. Das Skill systematisiert die maßgebliche Verfassungsrechtsprechung zu Art. 20 Abs. 3 GG und Art. 2 Abs. 1 GG und zeigt auf, wann Zivilgerichte die verfassungsrechtlich zulässige Rechtsfortbildung überschrei..."
+description: "Wenn es um BVerfG-Grenzen richterlicher Rechtsfortbildung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BVerfG-Grenzen richterlicher Rechtsfortbildung

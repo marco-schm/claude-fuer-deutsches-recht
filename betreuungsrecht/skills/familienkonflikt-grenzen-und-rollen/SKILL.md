@@ -1,6 +1,6 @@
 ---
 name: familienkonflikt-grenzen-und-rollen
-description: "Familienkonflikte in der Betreuung: trennt Betreuerrolle, Angehörigenrolle und Eigeninteressen, prüft Kontaktkonflikte, Geldmisstrauen, Geschwisterstreit, Heimdruck, Datenschutz und gerichtliche Eskalation mit klarer Rollen- und Belegmatrix."
+description: "Wenn es um Familienkonflikt, Grenzen und Rollen in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Familienkonflikt, Grenzen und Rollen

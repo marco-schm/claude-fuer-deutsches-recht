@@ -1,6 +1,6 @@
 ---
 name: lph-04-rechnung-und-prueffaehigkeit
-description: "HOAI LPH 4 Genehmigungsplanung: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 4 Genehmigungsplanung: Prüft abschlag in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # LPH 4 Genehmigungsplanung: Prüft abschlag

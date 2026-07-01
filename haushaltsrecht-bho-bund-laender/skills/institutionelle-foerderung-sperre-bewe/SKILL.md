@@ -1,6 +1,6 @@
 ---
 name: institutionelle-foerderung-sperre-bewe
-description: "Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Sperre bewerten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Institutionelle Förderung Sperre Bewe in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Institutionelle Förderung Sperre Bewe

@@ -1,6 +1,6 @@
 ---
 name: datenraum-behoerden-gericht-und-registerweg
-description: "Datenraum: Behörden-, Gerichts- oder Registerweg im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht."
+description: "Wenn es um Datenraum: Behörden-, Gerichts- oder Registerweg in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenraum: Behörden-, Gerichts- oder Registerweg

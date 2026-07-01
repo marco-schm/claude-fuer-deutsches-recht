@@ -1,6 +1,6 @@
 ---
 name: auskunft-rechnungslegung-schadensschaetzung
-description: "Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung (konkreter Schaden, Herausgabe Verletzergewinn, Lizenzanalogie), Auskunftsanspruch gegen Verletzer und ISP, Rechnungslegungsvollstreckung sowie Besonderheiten bei Datenbankschut..."
+description: "Wenn es um Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht in Datenbankrecht und Datenbankherstellerrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht

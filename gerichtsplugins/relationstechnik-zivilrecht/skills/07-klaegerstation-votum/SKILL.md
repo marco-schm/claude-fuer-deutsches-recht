@@ -1,6 +1,6 @@
 ---
 name: 07-klaegerstation-votum
-description: "Schriftliches Votum der Klägerstation: Anspruchsgrundlage, geprüfte Tatbestandsmerkmale, schluessige Rechtsfolge oder nicht schluessig, Hinweise nach Paragraf 139 ZPO"
+description: "Wenn es um 07 Klägerstation Votum in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # 07 Klägerstation Votum

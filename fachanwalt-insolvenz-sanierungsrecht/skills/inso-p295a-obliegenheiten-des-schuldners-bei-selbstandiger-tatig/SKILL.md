@@ -1,6 +1,6 @@
 ---
 name: inso-p295a-obliegenheiten-des-schuldners-bei-selbstandiger-tatig
-description: "§ 295a InsO (Obliegenheiten des Schuldners bei selbständiger Tätigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 295a InsO (Obliegenheiten des Schuldners bei selbständiger Tätigkeit..."
+description: "Wenn es um Inso P295a Obliegenheiten Des Schuldners Bei Selbstandiger Tatig in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 295a InsO (Obliegenheiten des Schuldners bei selbständiger Tätigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

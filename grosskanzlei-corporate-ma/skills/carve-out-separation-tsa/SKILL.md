@@ -1,6 +1,6 @@
 ---
 name: carve-out-separation-tsa
-description: "Carve-out Separation und TSA Deep Dive: plant Herausloesung von Geschäftsbereichen, Assets, Mitarbeitern, IT, Daten, Genehmigungen und Uebergangsleistungen: Carve-out Separation und TSA Deep Dive: plant Herausloesung von Geschäftsbereichen, Assets, Mitar..."
+description: "Wenn es um Carve Out Separation Tsa in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Carve-out Separation und TSA Deep Dive: plant Herausloesung von Geschäftsbereichen, Assets, Mitarbeitern, IT, Daten, Genehmigungen und Uebergangsleistungen.

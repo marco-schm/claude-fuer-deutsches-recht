@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-insolvenzrechtlich
-description: "Prüft insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau mit Passiva-Logik, streitigen Forderungen, Titeln, Stundungen und Sanierungsübergabe."
+description: "Wenn es um Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau

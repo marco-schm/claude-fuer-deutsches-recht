@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb
-description: "Bestechung und Bestechlichkeit im geschäftlichen Verkehr § 299 StGB: Anwendungsfall Verteidigung bei Vorteilszuwendungen zwischen Angestellten und Geschäftspartnern im privaten Sektor: Bestechung und Bestechlichkeit im geschäftlichen Verkehr § 299 StGB:..."
+description: "Wenn es um Strafrecht Spezial Bestechung Im Geschaeftsverkehr 299 Stgb in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bestechung und Bestechlichkeit im geschäftlichen Verkehr § 299 StGB: Anwendungsfall Verteidigung bei Vorteilszuwendungen zwischen Angestellten und Geschäftspartnern im privaten Sektor

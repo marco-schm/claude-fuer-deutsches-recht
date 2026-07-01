@@ -1,6 +1,6 @@
 ---
 name: eilversammlung
-description: "Prüft Eilversammlungen, bei denen ein Veranstalter existiert, der Zweck aber bei voller Fristeinhaltung vereitelt würde im Versammlungsrecht."
+description: "Wenn es um Eilversammlung: anzeigen sobald es geht in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eilversammlung: anzeigen sobald es geht

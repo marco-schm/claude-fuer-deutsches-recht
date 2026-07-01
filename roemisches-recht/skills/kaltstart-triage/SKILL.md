@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Römisches Recht: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe."
+description: "Wenn es um Römisches Recht - Allgemeiner Einstieg in Römisches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht - Allgemeiner Einstieg

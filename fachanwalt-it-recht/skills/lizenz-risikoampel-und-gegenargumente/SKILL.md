@@ -1,6 +1,6 @@
 ---
 name: lizenz-risikoampel-und-gegenargumente
-description: "Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien: Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Wenn es um Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt It Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien

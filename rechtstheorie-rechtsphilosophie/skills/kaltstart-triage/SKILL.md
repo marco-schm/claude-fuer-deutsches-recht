@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg und Fallrouting für rechtstheoretische und rechtsphilosophische Fragen: Rechtsbegriff, Methode, Abwaegung, Demokratie, Moral, Sprache, Machtkritik und Outputwahl."
+description: "Wenn es um Allgemeiner Einstieg in Rechtstheorie und Rechtsphilosophie geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Allgemeiner Einstieg

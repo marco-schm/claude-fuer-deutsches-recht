@@ -1,6 +1,6 @@
 ---
 name: aufsichtsbehoerdenkommunikation-internal
-description: "Steuert Kommunikation mit Aufsichtsbehörden im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Aufsichtsbehoerdenkommunikation in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufsichtsbehoerdenkommunikation

@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-digital-services-trusted-flagger
-description: "Digital Services / Transparenzberichte Online-Plattformen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren."
+description: "Wenn es um Transparenzberichte nach DSA: Art. 15. 24. 42 in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Transparenzberichte nach DSA: Art. 15, 24, 42

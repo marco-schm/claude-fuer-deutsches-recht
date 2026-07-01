@@ -1,6 +1,6 @@
 ---
 name: spezial-gutachtenstil-risikoampel-und-gegenargumente
-description: "Gutachtenstil: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Gutachtenstil: Risikoampel, Gegenargumente und Verteidigungslinien in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gutachtenstil: Risikoampel, Gegenargumente und Verteidigungslinien

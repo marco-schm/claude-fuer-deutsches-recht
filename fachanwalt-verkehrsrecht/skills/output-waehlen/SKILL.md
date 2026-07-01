@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Verkehrsrecht: stimmt Adressat (Betroffener/Geschädigter, Behörde, Versicherer), Frist (§ 67 OWiG Einspruch 2 Wochen) und Form auf den Zweck ab — typische Outputs: Einspruch OWi, Strafbefehlseinspruch, MPU-Beratung."
+description: "Wenn es um Output wählen in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

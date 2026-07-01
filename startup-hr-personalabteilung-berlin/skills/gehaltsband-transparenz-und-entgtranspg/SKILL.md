@@ -1,6 +1,6 @@
 ---
 name: gehaltsband-transparenz-und-entgtranspg
-description: "Berliner Start-up-HR: Gehaltsbänder, Entgelttransparenz und Fair-Pay-Check: Auskunft, Dokumentation, Diskriminierungsrisiko und Chefbriefing. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Gehaltsband Transparenz Und Entgtranspg in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gehaltsband Transparenz Und Entgtranspg

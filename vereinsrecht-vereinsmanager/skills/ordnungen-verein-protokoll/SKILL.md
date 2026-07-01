@@ -1,6 +1,6 @@
 ---
 name: ordnungen-verein-protokoll
-description: "Entwirft Beitragsordnung, Geschäftsordnung, Wahlordnung, Ehrenordnung, Datenschutzordnung und Jugendordnung im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Vereinsordnungen in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vereinsordnungen

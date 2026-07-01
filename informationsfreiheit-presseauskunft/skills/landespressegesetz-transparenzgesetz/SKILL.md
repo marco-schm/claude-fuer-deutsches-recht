@@ -1,6 +1,6 @@
 ---
 name: landespressegesetz-transparenzgesetz
-description: "Informationsfreiheit und Presseauskunft: Landespressegesetz: Tracking aktualisieren im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Landespressegesetz Tracking Aktualisie in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landespressegesetz Tracking Aktualisie

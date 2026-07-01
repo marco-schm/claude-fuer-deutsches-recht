@@ -1,6 +1,6 @@
 ---
 name: quality-gate-vor-rollout
-description: "Output- und Streit-Skill für Quality Gate Vor Rollout: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen."
+description: "Wenn es um Quality Gate Vor Rollout in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Quality Gate Vor Rollout

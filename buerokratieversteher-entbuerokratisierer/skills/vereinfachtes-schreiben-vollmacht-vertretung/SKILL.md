@@ -1,6 +1,6 @@
 ---
 name: vereinfachtes-schreiben-vollmacht-vertretung
-description: "Erzeugt aus Ziel und Fakten ein knappes Behördenanschreiben mit Betreff, Aktenzeichen, Antrag, Begründung, Anlagen und Frist im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Schreiben-Generator in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schreiben-Generator

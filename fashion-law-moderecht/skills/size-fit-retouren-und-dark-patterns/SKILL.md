@@ -1,6 +1,6 @@
 ---
 name: size-fit-retouren-und-dark-patterns
-description: "Size/Fit, Retouren und Dark Patterns im Fashion E-Commerce prüfen: Größentabellen, virtuelle Passformberatung, Widerruf, Retourenkommunikation, irreführende Knappheit, Checkout-Friktion und Verbraucherbeschwerden im Fashion Law Moderecht."
+description: "Wenn es um Size Fit Retouren Und Dark Patterns in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Size Fit Retouren Und Dark Patterns

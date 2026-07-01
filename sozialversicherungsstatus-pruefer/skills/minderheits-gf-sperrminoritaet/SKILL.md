@@ -1,6 +1,6 @@
 ---
 name: minderheits-gf-sperrminoritaet
-description: "Prüft Minderheitsgesellschafter-Geschäftsführer mit echter umfassender Sperrminorität im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Minderheits-GF mit Sperrminorität in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Minderheits-GF mit Sperrminorität

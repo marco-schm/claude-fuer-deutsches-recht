@@ -1,6 +1,6 @@
 ---
 name: verzug-vob-b-paragraf-5-vob-b-bgh-vii-zr-71-15
-description: "Verzug Vob B Paragraf 5 Vob B BGH Vii Zr 71 15: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Verzug Vob B Paragraf 5 Vob B BGH Vii Zr 71 15 in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verzug Vob B Paragraf 5 Vob B BGH Vii Zr 71 15

@@ -1,6 +1,6 @@
 ---
 name: ziviler-ersatzdienst-art-12a
-description: "Erklärt Ersatzdienst nach Art. 12a GG und § 1 Abs. 2 KDVG im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Ziviler Ersatzdienst in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ziviler Ersatzdienst

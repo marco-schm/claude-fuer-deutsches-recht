@@ -1,6 +1,6 @@
 ---
 name: fristversaeumnis-und-wiedereinsetzung-kammerantwort
-description: "Anwälte: fristversaeumnis und wiedereinsetzung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Fristversaeumnis Und Wiedereinsetzung Kammerantwort in Berufsrecht Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: fristversaeumnis und wiedereinsetzung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: low-performer-kuendigung-bag-2-azr-359-02
-description: "Verhaltensbedingte Kuendigung Low Performer mit BAG 2 AZR 359/02; Vergleichsmassstab Kollegen."
+description: "Wenn es um Low Performer Kuendigung BAG 2 Azr 359 02 in Fachanwalt Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Low Performer Kuendigung BAG 2 Azr 359 02

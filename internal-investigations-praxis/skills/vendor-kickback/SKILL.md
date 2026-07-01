@@ -1,6 +1,6 @@
 ---
 name: vendor-kickback
-description: "Untersucht Lieferanten-Kickbacks – forensische Zahlungsanalyse, Vergabeverfahren-Review, Täteridentifizierung, strafrechtliche und arbeitsrechtliche Konsequenzen im Internal Investigations Praxis."
+description: "Wenn es um Lieferanten-Kickback-Untersuchung in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Lieferanten-Kickback-Untersuchung

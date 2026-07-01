@@ -1,6 +1,6 @@
 ---
 name: schulaufsichtsbeschwerde
-description: "Erstellt Schulaufsichtsbeschwerde und Dienstaufsichtsbeschwerde im Schulrecht Länder."
+description: "Wenn es um Schulaufsichtsbeschwerde in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulaufsichtsbeschwerde

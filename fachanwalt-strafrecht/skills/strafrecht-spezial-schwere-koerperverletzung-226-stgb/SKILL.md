@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-schwere-koerperverletzung-226-stgb
-description: "Schwere Koerperverletzung nach § 226 StGB: Erfolgsqualifikation mit schweren Folgen Verlust eines wichtigen Glieds; Sehfaehigkeit / Sprachvermoegen / Fortpflanzungsfaehigkeit; entstellender Schaden; Siechtum oder L..."
+description: "Wenn es um Schwere Koerperverletzung nach Paragraf 226 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schwere Koerperverletzung nach § 226 StGB

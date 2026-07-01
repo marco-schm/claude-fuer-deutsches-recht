@@ -1,6 +1,6 @@
 ---
 name: formular-ausfuellen
-description: "Hilft beim Ausfüllen von Papier- oder Onlineformularen, ohne unbeabsichtigte Rechtsbehauptungen oder unnötige Angaben zu machen im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Formular ausfüllen in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Formular ausfüllen

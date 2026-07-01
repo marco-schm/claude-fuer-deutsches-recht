@@ -1,6 +1,6 @@
 ---
 name: phish-incident-meldepflichten-arten-erkennen
-description: "Bauleiter Phishing-Incident-Triage: Erstbewertung, Containment, Beweissicherung, betroffene Konten, Hauptansprechpartner. Prüfraster für IT-Sec und Datenschutz im Phishing Vorfall Prüfer."
+description: "Wenn es um Phish: Incident-Triage in Phishing-Vorfall-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Phish: Incident-Triage

@@ -1,6 +1,6 @@
 ---
 name: blitzer-messung-paragraf-3-stvo
-description: "Blitzer Messung § 3 StVO: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Blitzer Messung Paragraf 3 StVO in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Blitzer Messung § 3 StVO

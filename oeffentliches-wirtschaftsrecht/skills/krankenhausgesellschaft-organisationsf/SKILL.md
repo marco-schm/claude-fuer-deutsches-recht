@@ -1,6 +1,6 @@
 ---
 name: krankenhausgesellschaft-organisationsf
-description: "Krankenhausgesellschaft: Organisationsform prüfen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Krankenhausgesellschaft Organisationsf in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenhausgesellschaft Organisationsf

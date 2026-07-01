@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Meinungsfreiheit/Persönlichkeitsrecht-Prüfer: sortiert Beanstandetes Statement (Print/Online), Gegendarstellungsverlangen, Unterlassungserklärung, prüft Datum, Absender, Frist und Beweiswert (Screenshots mit Zeitstempel, Zeugen); markiert Lücken; berücksichtigt Mandatsgeheimn..."
+description: "Wenn es um Dokumentenintake in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

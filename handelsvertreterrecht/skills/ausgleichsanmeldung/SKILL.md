@@ -1,6 +1,6 @@
 ---
 name: ausgleichsanmeldung
-description: "Unterstützt bei fristgerechter Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB: Einhaltung der Jahresfrist ab Vertragsende, Inhalt und Form der Anmeldung, Wahrung gegenüber dem Unternehmer und Rechtsfolgen bei Fristversäumnis; Musterschreiben für Handelsvertreter und Unternehmerseite im H..."
+description: "Wenn es um Anmeldung des Ausgleichsanspruchs nach Paragraf 89b Abs. 4 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB

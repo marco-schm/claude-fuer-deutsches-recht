@@ -1,6 +1,6 @@
 ---
 name: see-003-schiffsregister-und-eigentum
-description: "See- und Schifffahrtsrecht: Schiffsregister und Eigentum. Schiffsregister und Eigentum im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Schiffsregister Und Eigentum in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffsregister Und Eigentum

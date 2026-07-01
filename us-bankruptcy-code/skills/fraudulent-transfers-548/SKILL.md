@@ -1,6 +1,6 @@
 ---
 name: fraudulent-transfers-548
-description: "Prüft actual and constructive fraudulent transfers, two-year lookback, value, insolvency and insider transactions im US Bankruptcy Code."
+description: "Wenn es um Fraudulent Transfers Paragraf 548 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fraudulent Transfers § 548

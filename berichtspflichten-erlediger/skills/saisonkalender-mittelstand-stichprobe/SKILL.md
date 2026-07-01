@@ -1,6 +1,6 @@
 ---
 name: saisonkalender-mittelstand-stichprobe
-description: "Jahresrhythmus typischer Berichtspflichten im Mittelstand: monatlich, quartalsweise, jährlich, ad hoc im Berichtspflichten."
+description: "Wenn es um Saisonkalender Mittelstand in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Saisonkalender Mittelstand

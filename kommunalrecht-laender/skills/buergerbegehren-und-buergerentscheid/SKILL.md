@@ -1,6 +1,6 @@
 ---
 name: buergerbegehren-und-buergerentscheid
-description: "Kommunalrecht der Länder: Bürgerbegehren und Bürgerentscheid. Bürgerbegehren und Bürgerentscheid im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
+description: "Wenn es um Buergerbegehren Und Buergerentscheid in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergerbegehren Und Buergerentscheid

@@ -1,6 +1,6 @@
 ---
 name: aufsatz-interessen-beckrs-blindzitate
-description: "Aufsatz: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Aufsatz: Mehrparteienkonflikt und Interessenmatrix in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aufsatz Interessen Beckrs Blindzitate; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Aufsatz: Mehrparteienkonflikt und Interessenmatrix

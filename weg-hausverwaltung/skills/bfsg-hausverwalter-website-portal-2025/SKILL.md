@@ -1,6 +1,6 @@
 ---
 name: bfsg-hausverwalter-website-portal-2025
-description: "Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 für Verwalter-Websites und Eigentuemer-Portale (Stand 06/2026): Anwendungsbereich, Kleinstunternehmen-Ausnahme, WCAG 2.1 AA, Bussgeld bis 100000 Euro, Pflicht-Erklaerung."
+description: "Wenn es um BFSG: Barrierefreiheitspflicht für Verwalter-Websites und Eigentümer-Portale in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # BFSG: Barrierefreiheitspflicht für Verwalter-Websites und Eigentümer-Portale

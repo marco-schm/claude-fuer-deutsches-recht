@@ -1,6 +1,6 @@
 ---
 name: ai-einsatz-transparenz-datenschutz
-description: "Dokumentiert KI-Einsatz, Vertraulichkeit, Datenschutz, Autorenmaterial, Fremdrechte, Trainingsverbot, Freigaben und interne Verlagspolitik im Verlagsredaktion."
+description: "Wenn es um digitale Werkzeuge-Einsatz, Transparenz und Datenschutz in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI-Einsatz, Transparenz und Datenschutz

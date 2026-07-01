@@ -1,6 +1,6 @@
 ---
 name: datenabruf-api-bedingungen
-description: "Prüft automatisierten Datenabruf, API-Nutzung, Robots, Vertragsbedingungen, Datenbankrecht, Computer Misuse und Fair Use im Softwarerecht De Eu Us."
+description: "Wenn es um Datenabruf und API-Bedingungen in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Datenabruf und API-Bedingungen

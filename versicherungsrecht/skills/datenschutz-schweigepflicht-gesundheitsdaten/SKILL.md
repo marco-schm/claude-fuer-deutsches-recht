@@ -1,6 +1,6 @@
 ---
 name: datenschutz-schweigepflicht-gesundheitsdaten
-description: "Gesundheitsdaten im Versicherungsmandat: Schweigepflichtentbindung, DSGVO, Datensparsamkeit, Arztanfragen, Gutachter, PKV/BU/Unfall und Aktenführung im Versicherungsrecht."
+description: "Wenn es um Gesundheitsdaten, Schweigepflicht und Versicherer in Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Gesundheitsdaten, Schweigepflicht und Versicherer

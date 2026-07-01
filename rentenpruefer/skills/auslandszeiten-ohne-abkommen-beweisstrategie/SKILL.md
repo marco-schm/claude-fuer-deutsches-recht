@@ -1,6 +1,6 @@
 ---
 name: auslandszeiten-ohne-abkommen-beweisstrategie
-description: "Auslandszeiten ohne Sozialversicherungsabkommen: Beweisführung, ausländische Renten, deutsche Wartezeiten, Übersetzungen und realistische Grenzen im Rentenpruefer."
+description: "Wenn es um auslandszeiten-ohne-abkommen-beweisstrategie in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # auslandszeiten-ohne-abkommen-beweisstrategie

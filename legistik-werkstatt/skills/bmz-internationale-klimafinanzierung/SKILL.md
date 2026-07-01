@@ -1,6 +1,6 @@
 ---
 name: bmz-internationale-klimafinanzierung
-description: "Sachbereich Internationale Klimafinanzierung im Geschäftsbereich BMZ: Normbestand (Pariser Abkommen; KSG; HG; bilaterale Klimavereinbarungen.); Akteure (BMZ; BMUKN; KfW; Green Climate Fund; AWB.); EU-Bezug (EU-Klimafinanzierungsziele; Green Deal; CBAM (Schnittstelle).); typische Legistik-Aufgabe..."
+description: "Wenn es um Internationale Klimafinanzierung (BMZ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationale Klimafinanzierung (BMZ)

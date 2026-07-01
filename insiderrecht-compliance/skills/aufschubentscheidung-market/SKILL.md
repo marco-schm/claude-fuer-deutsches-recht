@@ -1,6 +1,6 @@
 ---
 name: aufschubentscheidung-market
-description: "Prüft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, dokumentiert die Aufschubakte und steuert die Aufhebungspflicht im Insiderrecht Compliance."
+description: "Wenn es um Aufschubentscheidung nach Art. 17 Abs. 4 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufschubentscheidung nach Art. 17 Abs. 4 MAR

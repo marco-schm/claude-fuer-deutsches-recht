@@ -1,6 +1,6 @@
 ---
 name: werbung-social-media-steuern-rechtsprechungscheck
-description: "Steuerberater: werbung social media steuern - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Werbung Social Media Steuern Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Steuerberater: werbung social media steuern - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

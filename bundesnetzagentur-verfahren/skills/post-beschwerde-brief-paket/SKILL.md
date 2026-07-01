@@ -1,6 +1,6 @@
 ---
 name: post-beschwerde-brief-paket
-description: "Post / Beschwerde Brief Paket: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO im BNetzA-Verfahren."
+description: "Wenn es um Post: Beschwerde Brief Paket in Bundesnetzagentur-Verfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Post: Beschwerde Brief Paket

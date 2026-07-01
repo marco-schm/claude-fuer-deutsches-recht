@@ -1,6 +1,6 @@
 ---
 name: informationszugang-niedersachsen-livec-nordrhein-westfalen
-description: "Informationsfreiheit und Presseauskunft: Informationszugang Niedersachsen Livecheck. Informationszugang Niedersachsen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseau..."
+description: "Wenn es um Informationszugang Niedersachsen Livec in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Informationszugang Niedersachsen Livec

@@ -1,6 +1,6 @@
 ---
 name: bmvg-wehrrecht-und-soldatenstatus
-description: "Sachbereich Wehrrecht und Soldatenstatus im Geschäftsbereich BMVg: Normbestand (SG; WStG; SUG; ResG; WPflG; WDO; UZwGBw.); Akteure (BMVg; Wehrdisziplinaranwaltschaft; Bundeswehrgerichtsbarkeit (BVerwG-Wehrdienstsenat); BAPersBw.); EU-Bezug (PESCO; EDF; EU-Verteidigungsbeschaffung.); typische Leg..."
+description: "Wenn es um Wehrrecht und Soldatenstatus (BMVg) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wehrrecht und Soldatenstatus (BMVg)

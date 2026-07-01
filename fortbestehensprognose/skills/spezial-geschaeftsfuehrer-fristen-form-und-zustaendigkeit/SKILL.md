@@ -1,6 +1,6 @@
 ---
 name: spezial-geschaeftsfuehrer-fristen-form-und-zustaendigkeit
-description: "Geschaeftsfuehrer: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fortbestehensprognose; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Geschaeftsfuehrer: Fristen, Form, Zuständigkeit und Rechtsweg in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschaeftsfuehrer: Fristen, Form, Zuständigkeit und Rechtsweg

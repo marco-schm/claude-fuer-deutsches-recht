@@ -1,6 +1,6 @@
 ---
 name: gesr-gesellschaftsformwahl-aufsichtsrat
-description: "Bauleiter Gesellschaftsformwahl: GmbH, UG, GmbH und Co. KG, AG, eG, Stiftung. Prüfraster Haftung, Steuern, Mitbestimmung, Publizitaet. Entscheidungstabelle im Gesellschaftsrecht."
+description: "Wenn es um GesR: Gesellschaftsformwahl in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GesR: Gesellschaftsformwahl

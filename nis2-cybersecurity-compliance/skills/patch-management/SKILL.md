@@ -1,6 +1,6 @@
 ---
 name: patch-management
-description: "Prüft Patch-Management bei Servern, Clients, Cloud und OT im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Patch Management in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patch Management

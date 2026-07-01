@@ -1,6 +1,6 @@
 ---
 name: falsche-wiese-warnung-ki-vo
-description: "Nutzer fragt eine KI-VO-Frage die eigentlich unter DSGVO Produkthaftung MDR oder Maschinenverordnung faellt. Warnt vor typischen Rechtsgebiets-Verwechslungen KI-VO versus DSGVO versus Produkthaftungsrichtlinie versus Medizinprodukteverordnung versus Maschinenverordnung versus Cyber Resilience Act..."
+description: "Wenn es um Warnung: Falsche Wiese — Verwechslung der Rechtsgebiete in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Warnung: Falsche Wiese — Verwechslung der Rechtsgebiete

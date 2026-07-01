@@ -1,6 +1,6 @@
 ---
 name: ki-kunst-lizenzierung-kennzeichnung
-description: "KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll, Trainings-/Referenzrisiko, Stilnaehe, Rechtefreigabe, Art.-50-Kennzeichnung, Lizenzvertrag und Dokumentation für Agenturen, Verlage, Kanzleien und Unternehmen."
+description: "Wenn es um digitale Werkzeuge-Kunst: Lizenzierung und Kennzeichnung in europäischem Technikregulierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Ki Kunst Lizenzierung Kennzeichnung; Arbeitsfeld: europäischem Technikregulierungsrecht."
 ---
 
 # KI-Kunst: Lizenzierung und Kennzeichnung

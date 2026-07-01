@@ -1,6 +1,6 @@
 ---
 name: insolvenz-fortbestand-paragraf-103-inso-lizenz
-description: "Insolvenzfestigkeit von Lizenzen $ 103 InsO: Wahlrecht des Verwalters, BGH-Linie zur Lizenz-Behandlung bei Lizenzgeber-Insolvenz; Sicherungslizenz; Escrow als praktische Loesung; Vertragsklauseln zur Vermeidung der Wahl."
+description: "Wenn es um Insolvenz-Fortbestand der Lizenz ($ 103 InsO) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Insolvenz-Fortbestand der Lizenz ($ 103 InsO)

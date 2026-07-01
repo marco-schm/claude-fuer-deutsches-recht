@@ -1,6 +1,6 @@
 ---
 name: examiner-1104
-description: "Prüft appointment of examiner, investigation scope, trustee alternative and litigation leverage im US Bankruptcy Code."
+description: "Wenn es um Examiner Paragraf 1104 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Examiner § 1104

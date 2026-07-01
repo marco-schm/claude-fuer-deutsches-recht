@@ -1,6 +1,6 @@
 ---
 name: cap-table-grundlagen
-description: "Erklärt und prüft Beteiligungsquoten, Verwässerung, Gesellschafterliste, VSOP/ESOP, Pools und fully diluted Betrachtung im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Cap Table Grundlagen in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cap Table Grundlagen

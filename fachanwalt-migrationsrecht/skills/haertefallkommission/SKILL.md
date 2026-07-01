@@ -1,6 +1,6 @@
 ---
 name: haertefallkommission
-description: "Härtefallkommission: Fachmodul im Migrationsrecht: prüft Landesrecht, humanitäre Gründe, Ausschlüsse, Dossier; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Härtefallkommission: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Härtefallkommission: Fachmodul im Migrationsrecht

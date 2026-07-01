@@ -1,6 +1,6 @@
 ---
 name: war-room-betriebsmodell
-description: "Wahlkampfrecht Praxis: Wahlkampfzentrale mit Entscheidungswegen, Freigaben und Eskalation aufsetzen im Wahlkampfrecht."
+description: "Wenn es um War Room Betriebsmodell in Wahlkampfrecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # War Room Betriebsmodell

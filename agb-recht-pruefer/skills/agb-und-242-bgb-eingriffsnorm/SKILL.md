@@ -1,6 +1,6 @@
 ---
 name: agb-und-242-bgb-eingriffsnorm
-description: "Diskussion um § 242 BGB als Eingriffsnorm im Sinne Art. 9 Rom-I-VO. Skill problematisiert die in der Literatur vereinzelt vertretene These das gesamte AGB-Recht greife international durch weil § 242 BGB ein verbindlicher Grundsatz von Treu und Glauben sei. Liefert Pro- und Contra-Argumente Bedeut..."
+description: "Wenn es um Agb Und 242 Bgb Eingriffsnorm in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Und 242 Bgb Eingriffsnorm

@@ -1,6 +1,6 @@
 ---
 name: hochschullehrbeauftragte
-description: "Prüft Lehrbeauftragte, Hochschulorganisation, Prüfungen, Deputat, Freiheit der Lehre und Sozialversicherung im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Hochschullehrbeauftragte in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Hochschullehrbeauftragte

@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-bestimmtheit-und-erforderlichkeit
-description: "Prueft Bestimmtheit und Erforderlichkeit von Bebauungsplan-Festsetzungen nach BauGB Paragraf 1 Absatz 3, Paragraf 1 Absatz 7 und Paragraf 9."
+description: "Wenn es um Bestimmtheit und Erforderlichkeit von Festsetzungen in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bestimmtheit und Erforderlichkeit von Festsetzungen

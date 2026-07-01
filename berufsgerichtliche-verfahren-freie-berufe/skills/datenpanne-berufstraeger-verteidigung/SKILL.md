@@ -1,6 +1,6 @@
 ---
 name: datenpanne-berufstraeger-verteidigung
-description: "Datenpanne beim Berufsträger (Verteidigungs- und Kammerantwort): steuert verlorener Laptop, Fehlversand, Cloud-Leak, Mandatsgeheimnis und Meldestrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Wenn es um Datenpanne beim Berufsträger: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Datenpanne beim Berufsträger: Verteidigungs- und Kammerantwort

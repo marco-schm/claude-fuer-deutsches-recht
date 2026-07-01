@@ -1,6 +1,6 @@
 ---
 name: digital-audio-recording-act
-description: "Prüft Chapter 10: digital audio recording devices, media, serial copy management und royalty-Schnittstellen im Us Copyright Registrierung Verlag."
+description: "Wenn es um Digital Audio Recording Act in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Digital Audio Recording Act

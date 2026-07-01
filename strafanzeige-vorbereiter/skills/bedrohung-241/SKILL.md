@@ -1,6 +1,6 @@
 ---
 name: bedrohung-241
-description: "Bedrohung anzeigen: Inhalt, Ernstlichkeit, Adressat, Beweise, Schutzmaßnahmen im Strafanzeige-Vorbereitung."
+description: "Wenn es um Bedrohung Paragraf 241 StGB in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bedrohung § 241 StGB

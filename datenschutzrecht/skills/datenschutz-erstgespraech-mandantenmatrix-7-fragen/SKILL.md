@@ -1,6 +1,6 @@
 ---
 name: datenschutz-erstgespraech-mandantenmatrix-7-fragen
-description: "Strukturiertes Erstgespraech im Datenschutzmandat: Sieben gezielte Fragen ordnen den Sachverhalt in eine Mandantenmatrix ein: Rolle nach Art. 4 DSGVO Verantwortlicher oder Auftragsverarbeiter oder gemeinsam..."
+description: "Wenn es um Strukturiertes Erstgespraech im Datenschutzmandat in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strukturiertes Erstgespraech im Datenschutzmandat

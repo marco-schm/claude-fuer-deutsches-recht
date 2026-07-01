@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-roaming-eu-schnittstelle
-description: "Telekommunikation / Roaming EU Schnittstelle: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln im BNetzA-Verfahren."
+description: "Wenn es um Telekommunikation: Roaming EU Schnittstelle in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Telekommunikation: Roaming EU Schnittstelle

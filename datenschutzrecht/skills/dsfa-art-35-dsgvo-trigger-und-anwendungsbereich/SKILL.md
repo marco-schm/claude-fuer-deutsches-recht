@@ -1,6 +1,6 @@
 ---
 name: dsfa-art-35-dsgvo-trigger-und-anwendungsbereich
-description: "Prüfung wann eine DSFA nach Art: 35 DSGVO ueberhaupt erforderlich ist. Trigger-Prüfung Anwendungsbereich Schwellwert. Generalklausel Art. 35 Abs. 1 voraussichtlich hohes Risiko; Regelbeispiele Art. 35 Abs. 3; Pflichtliste..."
+description: "Wenn es um Prüfung wann eine DSFA nach Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfung wann eine DSFA nach Art

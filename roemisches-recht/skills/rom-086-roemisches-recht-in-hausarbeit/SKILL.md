@@ -1,6 +1,6 @@
 ---
 name: rom-086-roemisches-recht-in-hausarbeit
-description: "Römisches Recht: Roemisches Recht In Hausarbeit. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Roemisches Recht In Hausarbeit in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Roemisches Recht In Hausarbeit

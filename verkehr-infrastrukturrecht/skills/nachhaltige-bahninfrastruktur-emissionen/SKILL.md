@@ -1,6 +1,6 @@
 ---
 name: nachhaltige-bahninfrastruktur-emissionen
-description: "Nachhaltige Bahninfrastruktur und Emissionen: Trassenpreis, Elektrifizierungsfoerderung, Verlagerung Schiene, ETS und Strassenverkehr, CBAM-Bezug für Stahl/Schienen-Lieferungen. Compliance-Roadmap für DB-Auftraggeber und Bauunternehmen im Verkehr Infrastrukturrecht."
+description: "Wenn es um Bahninfrastruktur: Emissionen in Verkehrs- und Infrastrukturrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bahninfrastruktur: Emissionen

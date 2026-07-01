@@ -1,6 +1,6 @@
 ---
 name: ressort-bmv
-description: "Heranfuehrung Ressort BMV (Bundesministerium für Verkehr). Schwerpunkt: Strasse; Schiene; Luft; Wasser; Mobilitaet und Fuehrerschein. Kernnormen: StVG; StVO; FeV; AEG; ERegG; LuftVG; SeeAufgG; BinSchG; PBefG. Fuenf Spezialfelder: strassenverkehrsrecht-und-stvg-stvo; schienen-und-bahnregulierung-a..."
+description: "Wenn es um Ressort-Heranfuehrung BMV in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressort-Heranfuehrung BMV

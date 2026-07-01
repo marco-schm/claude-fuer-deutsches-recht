@@ -1,6 +1,6 @@
 ---
 name: r-d-nda-grundstruktur-international
-description: "NDA bei F&E-Kooperation: Background-IP / Foreground-IP-Trennung, IP-Zuordnung bei gemeinsamer Erfindung, Foerderrechtshinweise (BMBF/EU). Empfehlung: NDA + Pre-LoI mit IP-Grundsaetzen im NDA-Abgleich."
+description: "Wenn es um NDA bei F&E-Kooperation in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: R D Nda Grundstruktur International; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # NDA bei F&E-Kooperation

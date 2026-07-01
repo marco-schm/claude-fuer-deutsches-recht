@@ -1,6 +1,6 @@
 ---
 name: vdg-087-reiseveranstalter-vergleich-pruefen
-description: "Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Vergleich prüfen. Vergleich prüfen für Reiseveranstalter im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Reiseveranstalter Vergleich Pruefen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Reiseveranstalter Vergleich Pruefen

@@ -1,6 +1,6 @@
 ---
 name: vertraegen-strafprozessuale-regelung
-description: "Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung

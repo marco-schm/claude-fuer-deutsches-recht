@@ -1,6 +1,6 @@
 ---
 name: sanierungskonzept-starug-spezial-teil
-description: "Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolv..."
+description: "Wenn es um Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien in Insolvenzplan- und StaRUG-Planwerkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien

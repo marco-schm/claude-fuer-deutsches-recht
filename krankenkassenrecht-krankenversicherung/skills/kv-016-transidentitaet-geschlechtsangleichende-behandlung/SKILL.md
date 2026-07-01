@@ -1,6 +1,6 @@
 ---
 name: kv-016-transidentitaet-geschlechtsangleichende-behandlung
-description: "Krankenversicherung: Transidentität geschlechtsangleichende Behandlung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Transidentität geschlechtsangleichende Behandlung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Transidentität geschlechtsangleichende Behandlung

@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-stimmrechtsvollmacht
-description: "Gesellschaftsrechtliche Treuepflicht: Treuepflicht Stimmrechtsvollmacht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Treuepflicht Stimmrechtsvollmacht in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuepflicht Stimmrechtsvollmacht

@@ -1,6 +1,6 @@
 ---
 name: nda-bei-r-d-kooperation
-description: "NDA bei F&E-Kooperation: Background-IP / Foreground-IP-Trennung, IP-Zuordnung bei gemeinsamer Erfindung, Foerderrechtshinweise (BMBF/EU). Empfehlung: NDA + Pre-LoI mit IP-Grundsaetzen."
+description: "Wenn es um NDA bei F&E-Kooperation in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nda Bei R D Kooperation; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # NDA bei F&E-Kooperation

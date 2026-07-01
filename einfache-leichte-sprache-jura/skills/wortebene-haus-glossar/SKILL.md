@@ -1,6 +1,6 @@
 ---
 name: wortebene-haus-glossar
-description: "Hauseigenes Glossar: typische juristische Begriffe und deren Übersetzungen. Beispiele: 'Beklagter' = 'die Person, gegen die geklagt wird'; 'Frist' = 'Zeitraum, in dem etwas getan werden muss'. Aufnahme in Kanzlei-Wiki."
+description: "Wenn es um ELS-J: Wortebene Glossar in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ELS-J: Wortebene Glossar

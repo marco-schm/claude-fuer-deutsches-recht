@@ -1,6 +1,6 @@
 ---
 name: 001-fruehformen-zwoelftafelrecht-sakrale-spruchform
-description: "Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel im Römisches Recht."
+description: "Wenn es um Rom Fruehformen Zwoelftafelrecht Sakrale Spruchform Und in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Fruehformen Zwoelftafelrecht Sakrale Spruchform Und

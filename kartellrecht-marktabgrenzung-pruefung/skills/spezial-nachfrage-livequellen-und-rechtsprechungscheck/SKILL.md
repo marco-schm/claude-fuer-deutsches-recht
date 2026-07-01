@@ -1,6 +1,6 @@
 ---
 name: spezial-nachfrage-livequellen-und-rechtsprechungscheck
-description: "Nachfrage: Livequellen- und Rechtsprechungscheck im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Nachfrage: Livequellen- und Rechtsprechungscheck in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachfrage: Livequellen- und Rechtsprechungscheck

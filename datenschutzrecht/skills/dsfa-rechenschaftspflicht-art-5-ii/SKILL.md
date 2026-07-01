@@ -1,6 +1,6 @@
 ---
 name: dsfa-rechenschaftspflicht-art-5-ii
-description: "Dokumentation der DSFA als Beleg der Rechenschaftspflicht nach Art. 5 Abs. 2 DSGVO: Aktenstruktur Versionierung Aufbewahrung Beweiswert. Output: DSFA-Akte mit Aktenuebersicht und Aufbewahrungsregeln."
+description: "Wenn es um DSFA-Dokumentation und Rechenschaftspflicht in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # DSFA-Dokumentation und Rechenschaftspflicht

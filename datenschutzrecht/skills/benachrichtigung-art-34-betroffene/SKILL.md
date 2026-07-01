@@ -1,6 +1,6 @@
 ---
 name: benachrichtigung-art-34-betroffene
-description: "Erstellt das Benachrichtigungsschreiben an die von einer Datenschutzverletzung betroffenen Personen nach Art. 34 DSGVO. Behandelt: Pflichtinhalte nach Art. 34 Abs. 2 DSGVO; klare und einfache Sprache; Beschreibung der Art der Verletzung; Kontaktdaten des Datenschutzbeauftragten; wahrscheinliche F..."
+description: "Wenn es um Benachrichtigung der Betroffenen nach Art. 34 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Benachrichtigung der Betroffenen nach Art. 34 DSGVO

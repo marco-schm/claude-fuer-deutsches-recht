@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-wrackpflicht
-description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Kläger analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Kreuzfahrtschiff oder grosses Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 536-556 Befoer..."
+description: "Wenn es um Kreuzfahrtschiff – Wrackbeseitigungspflicht prüfen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreuzfahrtschiff – Wrackbeseitigungspflicht prüfen

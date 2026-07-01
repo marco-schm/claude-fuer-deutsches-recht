@@ -1,6 +1,6 @@
 ---
 name: e-commerce-fuer-apotheken-medizinprodukte-lebensmittel
-description: "E-Commerce für Apotheken Medizinprodukte Lebensmittel: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG im Ecommerc..."
+description: "Wenn es um E-Commerce für Apotheken Medizinprodukte Lebensmittel in E-Commerce-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # E-Commerce für Apotheken Medizinprodukte Lebensmittel

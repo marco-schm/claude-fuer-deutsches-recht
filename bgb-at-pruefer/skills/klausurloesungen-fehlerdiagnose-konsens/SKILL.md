@@ -1,6 +1,6 @@
 ---
 name: klausurloesungen-fehlerdiagnose-konsens
-description: "Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüfungsreihenfolge (Auslegung vor Anfechtung), übersehene Normen wie § 122 BGB und § 179 BGB, unvollständige Subsumtion. Output: annotiertes Feedback und Verbesserungsvorschläge im..."
+description: "Wenn es um Klausurlösungen — Fehlerdiagnose und Verbesserung in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klausurlösungen — Fehlerdiagnose und Verbesserung

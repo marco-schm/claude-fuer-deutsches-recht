@@ -1,6 +1,6 @@
 ---
 name: vorschuss-risikoampel-und-gegenargumente
-description: "Vorschuss: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Vorschuss: Risikoampel, Gegenargumente und Verteidigungslinien in JVEG-Kostenprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorschuss: Risikoampel, Gegenargumente und Verteidigungslinien

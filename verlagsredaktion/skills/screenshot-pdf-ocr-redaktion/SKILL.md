@@ -1,6 +1,6 @@
 ---
 name: screenshot-pdf-ocr-redaktion
-description: "Fuehrt einen sauberen OCR-für gescannte PDFs und Screenshots zu redaktionellem Manuskript, mit Fehlerquoten-Stichprobe und Pinpoint-Erhalt im Verlagsredaktion."
+description: "Wenn es um Screenshot / PDF-OCR-Workflow in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Screenshot / PDF-OCR-Workflow

@@ -1,6 +1,6 @@
 ---
 name: vereinsvermoegen-konto-versicherung-verein
-description: "Hilft bei Kontoeröffnung, Zeichnungsberechtigung, Barkasse, Inventar, Zuschüssen und Vermögensbindung im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Vereinsvermögen und Konto in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vereinsvermögen und Konto

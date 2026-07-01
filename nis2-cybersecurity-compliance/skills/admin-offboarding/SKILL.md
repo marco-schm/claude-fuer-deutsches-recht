@@ -1,6 +1,6 @@
 ---
 name: admin-offboarding
-description: "Prüft Admin-Offboarding nach Kündigung oder Dienstleisterwechsel im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Admin Offboarding in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Admin Offboarding

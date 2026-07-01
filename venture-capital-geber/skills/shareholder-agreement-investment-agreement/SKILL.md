@@ -1,6 +1,6 @@
 ---
 name: shareholder-agreement-investment-agreement
-description: "Prüft Gesellschaftervereinbarung, Investment Agreement, Covenants, Garantien, Conditions Precedent und Enforcement im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um SHA und Investment Agreement in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SHA und Investment Agreement

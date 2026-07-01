@@ -1,6 +1,6 @@
 ---
 name: bwa-mandantengespraech-uebergabe
-description: "BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persönliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klärung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechs..."
+description: "Wenn es um BWA-Übergabegespraech mit dem Mandanten in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # BWA-Übergabegespraech mit dem Mandanten

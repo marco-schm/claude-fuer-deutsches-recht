@@ -1,6 +1,6 @@
 ---
 name: uebernahmeangebot
-description: "Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten: Insiderinformation des Bieters, Ad-hoc, Angebotsunterlage, Insiderlisten beider Seiten im Insiderrecht Compliance."
+description: "Wenn es um Übernahmeangebot – MAR und WpÜG in Insiderrecht Compliance geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Übernahmeangebot – MAR und WpÜG

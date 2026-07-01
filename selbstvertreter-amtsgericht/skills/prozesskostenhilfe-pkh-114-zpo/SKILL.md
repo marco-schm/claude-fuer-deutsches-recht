@@ -1,6 +1,6 @@
 ---
 name: prozesskostenhilfe-pkh-114-zpo
-description: "Antrag auf Prozesskostenhilfe nach § 114 ZPO. Voraussetzungen Bedürftigkeit Erfolgsaussicht keine Mutwilligkeit. Antragsformular Belege Einkommensnachweise. Wirkung Befreiung von Gerichtskosten und Anwaltskosten. Hinweise für Selbstvertreter."
+description: "Wenn es um Prozesskostenhilfe (PKH): Klage trotz Geldknappheit in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Prozesskostenhilfe (PKH): Klage trotz Geldknappheit

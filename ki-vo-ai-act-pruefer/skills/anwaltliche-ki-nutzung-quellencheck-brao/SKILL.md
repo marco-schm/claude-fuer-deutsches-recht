@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-ki-nutzung-quellencheck-brao
-description: "Anwaltliche KI-Nutzung ohne Halluzinationsschaden: Quellencheck, § 43a BRAO, Wahrheitspflicht/Sachlichkeit, Mandatsgeheimnis, DSGVO, Schriftsatzkontrolle, Prompt-Governance und Freigabevermerk für Kanzlei und Rechtsabteilung."
+description: "Wenn es um Anwaltliche digitale Werkzeuge-Nutzung und Quellencheck in europäischem Technikregulierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Anwaltliche Ki Nutzung Quellencheck Brao; Arbeitsfeld: europäischem Technikregulierungsrecht."
 ---
 
 # Anwaltliche KI-Nutzung und Quellencheck

@@ -1,6 +1,6 @@
 ---
 name: bankrecht-privatbuergschaft-sittenwidrigkeit
-description: "Privat-, Ehegatten- und Angehörigenbürgschaft prüfen: § 138 BGB, krasse finanzielle Überforderung, emotionaler Druck, Eigeninteresse, Bankkenntnis, Schriftform und Vergleichsstrategie: Privat-, Ehegatten- und Angehörigenbürgschaft prüfen: § 138 BGB, krasse..."
+description: "Wenn es um Bankrecht Privatbuergschaft Sittenwidrigkeit in Fachanwalt Bank Kapitalmarktrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Privat-, Ehegatten- und Angehörigenbürgschaft prüfen: § 138 BGB, krasse finanzielle Überforderung, emotionaler Druck, Eigeninteresse, Bankkenntnis, Schriftform und Vergleichsstrategie.

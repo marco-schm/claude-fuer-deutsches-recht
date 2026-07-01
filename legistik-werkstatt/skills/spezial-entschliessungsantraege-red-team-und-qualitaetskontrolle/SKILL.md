@@ -1,6 +1,6 @@
 ---
 name: spezial-entschliessungsantraege-red-team-und-qualitaetskontrolle
-description: "Entschliessungsantraege: Red-Team und Qualitätskontrolle im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Entschliessungsantraege: Red-Team und Qualitätskontrolle in Legistik-Werkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Entschliessungsantraege: Red-Team und Qualitätskontrolle

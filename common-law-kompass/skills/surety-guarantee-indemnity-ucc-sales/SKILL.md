@@ -1,6 +1,6 @@
 ---
 name: surety-guarantee-indemnity-ucc-sales
-description: "Anwalt prüft Sicherheitenklausel und muss zwischen Buergschaft Garantie suretyship guarantee indemnity primary obligation accessory liability unterscheiden. Prüfraster Klausel-Typ-Identifikation Akzessorietaet Durchsetzbarkeit Regress. Output Sicherheiten-Klassifikation Risikomatrix Klausel-Empfe..."
+description: "Wenn es um Surety, Guarantee und Indemnity in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Surety, Guarantee und Indemnity

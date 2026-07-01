@@ -1,6 +1,6 @@
 ---
 name: karrierecenter-bapersbw-kdvg-neun-kein
-description: "Erklärt Behördennamen, Wehrersatzbehörde und frühere Kreiswehrersatzamt-Begriffe im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Karrierecenter und BAPersBw in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Karrierecenter und BAPersBw

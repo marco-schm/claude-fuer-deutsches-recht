@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Gesellschaftsgründung: ordnet Rolle (Gründer, Notar, Handelsregister), markiert Frist (Handelsregistereintragung), wählt Norm (GmbHG, AktG, HGB, Paragraf 5a GmbHG UG, GenG) und Zuständigkeit (Handelsregister AG), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in gesellschaftsgründer — Gründungsassistent für deutsche geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

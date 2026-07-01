@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-gewerberechtliche-folgen
-description: "MaBV-Verstoss gewerberechtliche Folgen: Skill behandelt die gewerberechtlichen Sanktionen bei Verstoessen Bussgeld Erlaubnisentzug und das Verhältnis zum zivilrechtlichen Schutz. Liefert Prüfraster."
+description: "Wenn es um MaBV-Verstoss gewerberechtliche Folgen in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # MaBV-Verstoss gewerberechtliche Folgen

@@ -1,6 +1,6 @@
 ---
 name: freispruch-zweifel-orientierung
-description: "Freispruch bei Zweifel (Orientierung): hilft ehrenamtlichen Richtern bei in dubio pro reo, Beweiswürdigung, Aussage gegen Aussage und innere Überzeugung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Freispruch bei Zweifel: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Freispruch bei Zweifel: Orientierung

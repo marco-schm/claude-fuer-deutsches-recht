@@ -1,6 +1,6 @@
 ---
 name: insolvenzrisiken-bautraeger
-description: "Prueft Insolvenzrisiken beim Bautraeger: Vormerkungsschutz nach Paragraf 106 Insolvenzordnung, Freistellungsmechanik, Eigentumsumschreibung, Sicherheitenschichten und Wahlrecht des Insolvenzverwalters nach Paragraf 103 Insolvenzordnung. Vorinsolvenzzeichen erkennen und Zahlungsstopp bei unklarer Lage."
+description: "Wenn es um Insolvenzrisiken Bauträger in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Insolvenzrisiken Bauträger

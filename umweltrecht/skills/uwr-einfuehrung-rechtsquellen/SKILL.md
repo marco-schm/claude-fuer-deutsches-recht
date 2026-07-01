@@ -1,6 +1,6 @@
 ---
 name: uwr-einfuehrung-rechtsquellen
-description: "Umweltrecht einfuehrend: BImSchG, BNatSchG, WHG, KrWG, BBodSchG, USchadG, EU-IED, REACH. Pro Norm Anwendungsbereich, Aufsicht, typische Mandantenfragen. Entscheidungstabelle."
+description: "Wenn es um Umweltrecht: Rechtsquellen in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umweltrecht: Rechtsquellen

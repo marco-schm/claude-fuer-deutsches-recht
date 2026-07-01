@@ -1,6 +1,6 @@
 ---
 name: testamentsvollstrecker-kontrolle-haftung
-description: "Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung: Normanker: BGB §§ 2197 ff., 2218 und 2227 und 2219; fragt..."
+description: "Wenn es um Testamentsvollstrecker Kontrolle Haftung in Fachanwalt Erbrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.

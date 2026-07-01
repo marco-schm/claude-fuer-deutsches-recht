@@ -1,6 +1,6 @@
 ---
 name: schiffbauwerk-kaufvertrag-scopen
-description: "Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank scopet Kaufvertrag für Schiff im Bau (Schiffbauwerk): Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Outpu..."
+description: "Wenn es um Schiffbauwerk – Kaufvertrag scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffbauwerk – Kaufvertrag scopen

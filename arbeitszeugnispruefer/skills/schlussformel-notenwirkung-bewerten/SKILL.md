@@ -1,6 +1,6 @@
 ---
 name: schlussformel-notenwirkung-bewerten
-description: Bewertung der Notenwirkung der Schlussformel anhand der vorhandenen Bausteine mit Einordnung in die Ampel-Skala und Kommunikation der taktischen Konsequenzen fuer Verhandlung und Klage.
+description: "Wenn es um Schlussformel-Notenwirkung bewerten in Arbeitszeugnispruefer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schlussformel-Notenwirkung bewerten

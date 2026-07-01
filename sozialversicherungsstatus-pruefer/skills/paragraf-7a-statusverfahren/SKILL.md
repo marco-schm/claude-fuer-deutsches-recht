@@ -1,6 +1,6 @@
 ---
 name: paragraf-7a-statusverfahren
-description: "Führt durch das Anfrageverfahren nach § 7a SGB IV mit Antrag, Beteiligten, Anhörung, Bescheid und Rechtsbehelf im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Paragraf 7a SGB IV Statusfeststellung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # § 7a SGB IV Statusfeststellung

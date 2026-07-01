@@ -1,6 +1,6 @@
 ---
 name: datenminimierung-geheimnisschutz
-description: "Schutz von personenbezogenen Daten und Geschäftsgeheimnissen bei Meldungen, Statistiken und Kundenfragebögen im Berichtspflichten."
+description: "Wenn es um Datenminimierung und Geheimnisschutz in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenminimierung und Geheimnisschutz

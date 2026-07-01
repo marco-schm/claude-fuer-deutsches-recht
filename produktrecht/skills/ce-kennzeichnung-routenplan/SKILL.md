@@ -1,6 +1,6 @@
 ---
 name: ce-kennzeichnung-routenplan
-description: "CE-Kennzeichnung systematisch planen: Identifikation einschlaegiger Richtlinien (Maschinen, Niederspannung, EMV, RED, Medizinprodukte, Spielzeug, PSA), Konformitaetsbewertungsverfahren wie Modul A bis H, technische Dokumentation, EU-Konformitaetserklaerung, Notified Body. Checkliste vom Markteint..."
+description: "Wenn es um CE-Kennzeichnung Routenplan in Produkthaftung und Produktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # CE-Kennzeichnung Routenplan

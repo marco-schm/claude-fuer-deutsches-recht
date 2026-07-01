@@ -1,6 +1,6 @@
 ---
 name: interne-richtlinie-policy-drafting
-description: "Interne Richtlinien und Policies für Banken entwerfen: Normenbasis, Zielgruppe, Rollen, Kontrollen, Eskalation, Dokumentation, Versionierung, Schulung und Vorstandsbeschluss im Bank-Rechtsabteilung."
+description: "Wenn es um Policy Drafting Bank in Bank-Rechtsabteilung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Policy Drafting Bank

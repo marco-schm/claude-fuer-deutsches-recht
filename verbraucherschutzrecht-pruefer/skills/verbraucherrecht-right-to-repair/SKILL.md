@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-right-to-repair
-description: "Right to Repair und Reparaturanspruch: Nacherfüllung, Ersatzteile, Reparaturinformation, Herstellergarantie und Nachhaltigkeitsargument.; Normanker: BGB §§ 439 und 475; EU-Reparaturregime; Produktsicherheitsrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbrauc..."
+description: "Wenn es um Verbraucherrecht Right To Repair in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Right to Repair und Reparaturanspruch: Nacherfüllung, Ersatzteile, Reparaturinformation, Herstellergarantie und Nachhaltigkeitsargument.

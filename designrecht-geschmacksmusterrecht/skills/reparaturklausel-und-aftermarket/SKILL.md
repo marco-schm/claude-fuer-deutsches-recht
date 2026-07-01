@@ -1,6 +1,6 @@
 ---
 name: reparaturklausel-und-aftermarket
-description: "Reparaturklausel und Ersatzteilmarkt nach Designrecht und EU-Reform prüfen: Sichtbarkeit, Reparatur, Herkunftshinweise, Produktaufmachung und nationale Umsetzung im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Reparaturklausel Und Aftermarket in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Reparaturklausel Und Aftermarket

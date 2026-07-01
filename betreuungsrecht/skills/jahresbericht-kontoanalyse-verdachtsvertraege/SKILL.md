@@ -1,6 +1,6 @@
 ---
 name: jahresbericht-kontoanalyse-verdachtsvertraege
-description: "Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Betreuungsrecht."
+description: "Wenn es um Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage

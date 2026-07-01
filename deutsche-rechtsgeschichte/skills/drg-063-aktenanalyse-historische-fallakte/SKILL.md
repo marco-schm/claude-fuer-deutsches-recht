@@ -1,6 +1,6 @@
 ---
 name: drg-063-aktenanalyse-historische-fallakte
-description: "Deutsche Rechtsgeschichte: Aktenanalyse Historische Fallakte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Aktenanalyse Historische Fallakte in Deutsche Rechtsgeschichte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Aktenanalyse Historische Fallakte

@@ -1,6 +1,6 @@
 ---
 name: pruefen-abschlussprodukt-und-uebergabe
-description: "Prüfen: Abschlussprodukt und Übergabe: Prüfen: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Prüfen: Abschlussprodukt und Übergabe in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfen: Abschlussprodukt und Übergabe

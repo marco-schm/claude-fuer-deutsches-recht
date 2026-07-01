@@ -1,6 +1,6 @@
 ---
 name: phishing-arten-erkennen
-description: "Phishing-Arten erkennen: E-Mail-Phishing, Smishing (SMS), Vishing (Anruf), Spear-Phishing, Pharming, Man-in-the-Middle (Tan-Abfangen). Indikatoren pro Art. Speziell: pushTAN-Aktivierung auf Angreiferseite, Verifizierungsanruf 'Bank-Sicherheitsabteilung' im Phishing Vorfall Prüfer."
+description: "Wenn es um Phishing-Arten erkennen in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Phishing-Arten erkennen

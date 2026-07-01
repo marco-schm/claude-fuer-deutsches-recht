@@ -1,6 +1,6 @@
 ---
 name: klassenbildung-und-zuteilung
-description: "Prüft Klassenbildung, Klassenzuteilung, Kapazität und Härtefallargumente im Schulrecht Länder."
+description: "Wenn es um Klassenbildung und Zuteilung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klassenbildung und Zuteilung

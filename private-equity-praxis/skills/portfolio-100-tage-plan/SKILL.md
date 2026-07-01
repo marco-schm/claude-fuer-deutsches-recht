@@ -1,6 +1,6 @@
 ---
 name: portfolio-100-tage-plan
-description: "Erstellt Post-Closing-Plan für Corporate Housekeeping, Verträge, Compliance, HR, IP, Versicherungen und Reporting im Private Equity Praxis."
+description: "Wenn es um Portfolio: 100-Tage-Plan Legal in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Portfolio: 100-Tage-Plan Legal

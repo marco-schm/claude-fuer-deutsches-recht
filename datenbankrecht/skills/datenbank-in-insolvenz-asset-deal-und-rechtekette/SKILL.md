@@ -1,6 +1,6 @@
 ---
 name: datenbank-in-insolvenz-asset-deal-und-rechtekette
-description: "Datenbankrecht in der Insolvenz: Übergang von Datenbankherstellerrechten (§§ 87a-87e UrhG) im Insolvenzverfahren und Asset Deal, Due-Diligence-Prüfung der Rechtekette, Freigabe durch den Insolvenzverwalter und DSGVO-Pflichten bei Übertragung personenbezogener Datensätze. Erstellt Transaktions-Che..."
+description: "Wenn es um Datenbank in der Insolvenz — Asset Deal und Rechtekette in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbank in der Insolvenz — Asset Deal und Rechtekette

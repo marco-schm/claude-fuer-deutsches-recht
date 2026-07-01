@@ -1,6 +1,6 @@
 ---
 name: nda-anwendbares-recht-gerichtsstand
-description: "Anwendbares Recht und Gerichtsstand bei NDA: Empfehlung deutsches Recht + LG Sitz des Discloser; Schiedsklausel (DIS Regeln) ab hoeherer Bedeutung. Prüfraster: internationale NDAs vs. nationale, Verbraucherbeteiligung."
+description: "Wenn es um NDA: Recht und Gerichtsstand in NDA-Abgleich geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # NDA: Recht und Gerichtsstand

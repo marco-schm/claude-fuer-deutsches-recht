@@ -1,6 +1,6 @@
 ---
 name: luft-114-bodenabfertigung-pfaendung-planen
-description: "Luftrecht und Flughafenrecht: Bodenabfertigung: Pfändung planen. Pfändung planen für Bodenabfertigung im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bodenabfertigung Pfaendung Planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bodenabfertigung Pfaendung Planen

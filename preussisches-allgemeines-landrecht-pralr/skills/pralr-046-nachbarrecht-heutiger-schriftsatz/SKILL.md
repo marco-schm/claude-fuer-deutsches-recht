@@ -1,6 +1,6 @@
 ---
 name: pralr-046-nachbarrecht-heutiger-schriftsatz
-description: "PrALR: historische Nachbarrechtsnormen in heutiger Streitakte prüfen, beweisen und abgrenzen."
+description: "Wenn es um Nachbarrecht im Schriftsatz in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Pralr 046 Nachbarrecht Heutiger Schriftsatz; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Nachbarrecht im Schriftsatz

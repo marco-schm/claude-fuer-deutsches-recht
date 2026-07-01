@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-vob-a-bauvergabe
-description: "VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: oeffentlicher Auftraggeber bei Bauleistungen oder Bieter im Bauvergabeverfahren. Normen: VOB-A Abschnitt 1 (Unterschwelle), VOB-A Abschnitt 2 (Oberschwelle, ergaenzend zu VgV-Baubereich), §§ 1-22 VOB-A. Pruefraster: Anwendungsbereich Bauleistung § 1 VOB-A, Verfahrenstypen (oeffentlich, beschraenkt mit/ohne TW, freihaendig), Leistungsbeschreibung § 7 VOB-A, Nebenangebote § 8, Wertung § 16d, Schnittstelle VOB-B-Vertrag. Output Verfahrenswahl-Pruefvermerk, Leistungsbeschreibungs-Checkliste. Abgrenzung: Unterschwelle Liefer-/Dienstleistung siehe fachanwalt-vergaberecht-uvgo-unterschwellenvergabe; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema."
+description: "Wenn es um VOB-A-Bauvergabe (Abschnitte 1 und 2) in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # VOB-A-Bauvergabe (Abschnitte 1 und 2)

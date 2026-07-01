@@ -1,6 +1,6 @@
 ---
 name: elektronische-paragraph-formerfordernisse
-description: "Elektronische Form Paragraph 126a BGB Qes: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Schriftform Und Textform Bgb."
+description: "Wenn es um Elektronische Form Paragraf 126a BGB — Qualifizierte elektronische Signatur in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Elektronische Form Paragraf 126a BGB — Qualifizierte elektronische Signatur

@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmer-urheber-architektur-angewandte
-description: "Prüft Werke im Arbeitsverhältnis, Software-Sonderregel, Auftragsproduktion, Freelancer, Hochschule und Agentur im Urheberrecht De Eu."
+description: "Wenn es um Arbeitnehmerurheber und Auftragswerke in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitnehmerurheber und Auftragswerke

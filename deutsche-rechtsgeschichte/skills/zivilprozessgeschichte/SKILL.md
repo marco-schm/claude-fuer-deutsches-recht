@@ -1,6 +1,6 @@
 ---
 name: zivilprozessgeschichte
-description: "Deutsche Rechtsgeschichte: Zivilprozessgeschichte. Gemeines Prozessrecht, ZPO 1877, Eventualitaetsmaxime, Vereinfachungsnovelle 1977, ZPO-Reform 2002 und Kosten des Zivilprozesses im Deutsche Rechtsgeschichte."
+description: "Wenn es um Zivilprozessgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zivilprozessgeschichte

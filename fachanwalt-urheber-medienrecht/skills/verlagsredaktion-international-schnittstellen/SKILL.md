@@ -1,6 +1,6 @@
 ---
 name: verlagsredaktion-international-schnittstellen
-description: "Verlagsredaktion: Internationaler Bezug und Schnittstellen: Verlagsredaktion: Internationaler Bezug und Schnittstellen."
+description: "Wenn es um Verlagsredaktion: Internationaler Bezug und Schnittstellen in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsredaktion: Internationaler Bezug und Schnittstellen

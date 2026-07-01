@@ -1,6 +1,6 @@
 ---
 name: satire-meme-und-zitatrecht
-description: "Influencer-Recht: Satire, Memes und Zitatrecht – Kunstfreiheit, Grenzen, Markenparodie, UrhG und strafrechtliche Risiken im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Satire, Memes und Zitatrecht in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Influencer-Recht: Satire, Memes und Zitatrecht

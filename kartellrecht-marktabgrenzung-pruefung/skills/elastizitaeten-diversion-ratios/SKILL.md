@@ -1,6 +1,6 @@
 ---
 name: elastizitaeten-diversion-ratios
-description: "Oekonomischer Gutachter oder Mandant legt Elastizitaetsdaten oder Diversion-Ratio-Analyse vor und Belastbarkeit ist zu prüfen. Prüft Eigenpreis-Elastizitaet Kreuzpreis-Elastizitaet und Diversion Ratios als Instrumente quantitativer Marktabgrenzung. Normen EU-Bekanntmachung Marktdefinition 2024 SS..."
+description: "Wenn es um Elastizitäten und Diversion Ratios in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Elastizitäten und Diversion Ratios

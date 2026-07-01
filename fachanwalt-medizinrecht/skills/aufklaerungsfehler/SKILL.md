@@ -1,6 +1,6 @@
 ---
 name: aufklaerungsfehler
-description: "Fachanwalt Medizinrecht Aufklaerungsfehler: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Medizinrecht Aufklaerungsfehler: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizier..."
+description: "Wenn es um Aufklaerungsfehler in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Medizinrecht Aufklaerungsfehler: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

@@ -1,6 +1,6 @@
 ---
 name: weg-mehrheiten-stimmrechte
-description: "WEG Mehrheiten/Stimmrechte: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Kopf-/Objekt-/Wertprinzip, Stimmverbot, Umlaufbeschluss; mit Normprüfung, Beweisen, Fristen, Risikoam..."
+description: "Wenn es um WEG Mehrheiten/Stimmrechte: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Mehrheiten/Stimmrechte: Fachmodul im Miet- und Wohnungseigentumsrecht

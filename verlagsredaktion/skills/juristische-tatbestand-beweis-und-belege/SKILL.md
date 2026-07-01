@@ -1,6 +1,6 @@
 ---
 name: juristische-tatbestand-beweis-und-belege
-description: "Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage im Verlagsredaktion."
+description: "Wenn es um Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage

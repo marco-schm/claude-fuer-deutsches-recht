@@ -1,6 +1,6 @@
 ---
 name: 02-amtsermittlung-sozialgericht
-description: "Amtsermittlungsgrundsatz Paragraf 103 SGG: Beweisaufnahme von Amts wegen, Sachverständigengutachten Paragraf 109 SGG (Anhörung eines bestimmten Arztes), Beiziehung medizinischer Unterlagen"
+description: "Wenn es um 02 Amtsermittlung Sozialgericht in Sozialgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # 02 Amtsermittlung Sozialgericht

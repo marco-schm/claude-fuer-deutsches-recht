@@ -1,6 +1,6 @@
 ---
 name: meth-auslegung-vertrag-leitfaden
-description: "Bietet einen vollständigen methodischen Leitfaden für die Auslegung von Verträgen im deutschen Zivilrecht. Das Skill führt sequenziell durch alle Auslegungsstufen von der Ermittlung des übereinstimmenden wirklichen Willens bis zur normativen und ergänzenden Vertragsauslegung. Es hilft Anwälten un..."
+description: "Wenn es um Vertragsauslegung: Vollständiger Methodenleitfaden in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertragsauslegung: Vollständiger Methodenleitfaden

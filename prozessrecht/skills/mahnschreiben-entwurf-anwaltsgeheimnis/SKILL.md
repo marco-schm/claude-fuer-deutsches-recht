@@ -1,6 +1,6 @@
 ---
 name: mahnschreiben-entwurf-anwaltsgeheimnis
-description: "Vorgerichtliches Mahnschreiben entwerfen: Zahlungsaufforderung mit Frist und Klageankündigung. Normen: Paragrafen 286 288 BGB, Paragrafen 204 ff. BGB. Prüfraster: Verjaebrungshemmung, Verzugsbeginn, Schadensersatz, Klageandrohung. Output: Mahnschreiben-Entwurf mit Fristsetzung. Abgrenzung: nicht Mahnbescheid (ge..."
+description: "Wenn es um Mahnschreiben / Vorgerichtliche Aufforderung in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mahnschreiben / Vorgerichtliche Aufforderung

@@ -1,6 +1,6 @@
 ---
 name: erbengemeinschaft-blockade-auseinandersetzung
-description: "Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan: Normanker: BGB §§ 203..."
+description: "Wenn es um Erbengemeinschaft Blockade Auseinandersetzung in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan.

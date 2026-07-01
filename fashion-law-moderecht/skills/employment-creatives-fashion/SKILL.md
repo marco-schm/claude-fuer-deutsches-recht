@@ -1,6 +1,6 @@
 ---
 name: employment-creatives-fashion
-description: "Arbeitsrecht für Kreativteams im Fashion-Bereich prüfen: Designer, Pattern Maker, Store Staff, Überstunden, Reise, Incentives, IP und Geheimhaltung im Fashion Law Moderecht."
+description: "Wenn es um Employment Creatives Fashion in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Employment Creatives Fashion

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Kommunalrecht der Länder: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
+description: "Wenn es um Kommunalrecht der Länder - Allgemeiner Einstieg in Kommunalrecht der Länder geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalrecht der Länder - Allgemeiner Einstieg

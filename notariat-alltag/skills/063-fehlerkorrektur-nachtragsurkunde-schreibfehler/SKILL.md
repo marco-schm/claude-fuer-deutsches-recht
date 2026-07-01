@@ -1,6 +1,6 @@
 ---
 name: 063-fehlerkorrektur-nachtragsurkunde-schreibfehler
-description: "Notariat im Alltag: Fehlerkorrektur – Nachtragsurkunde, Schreibfehler und offensichtliche Unrichtigkeit. Möglichkeiten zur Korrektur von Fehlern in notariellen Urkunden und im Grundbuch im Notariat."
+description: "Wenn es um Fehlerkorrektur Nachtragsurkunde Schreibfehler in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Fehlerkorrektur – Nachtragsurkunde, Schreibfehler, offensichtliche Unrichtigkeit

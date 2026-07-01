@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Anwalts-Dashboard fuer den Lizenzvertragsersteller: Sofort-Triage (IP-Typ, Parteien, Sprache, Rechtswahl), Risiko-Ampel, Anschluss-Skill-Router, Norm-Radar, Leitentscheidungs-Anker; maximal eine Rueckfrage."
+description: "Wenn es um Anwalts-Dashboard Lizenzvertragsersteller in Lizenzvertragsersteller geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Anwalts-Dashboard Lizenzvertragsersteller

@@ -1,6 +1,6 @@
 ---
 name: forschungsdaten-fristennotiz-und-naechster-schritt
-description: "Forschungsdaten: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Forschungsdaten: Fristennotiz und nächster Schritt in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Forschungsdaten Fristennotiz Und Naechster Schritt; Arbeitsfeld: DFG-Förderantrag."
 ---
 
 # Forschungsdaten: Fristennotiz und nächster Schritt

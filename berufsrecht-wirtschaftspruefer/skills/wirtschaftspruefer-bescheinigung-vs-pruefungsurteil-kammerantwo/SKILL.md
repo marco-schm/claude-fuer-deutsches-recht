@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-bescheinigung-vs-pruefungsurteil-kammerantwo
-description: "Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Kammerantwo in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

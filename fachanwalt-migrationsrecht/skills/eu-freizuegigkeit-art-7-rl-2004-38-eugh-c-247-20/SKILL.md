@@ -1,6 +1,6 @@
 ---
 name: eu-freizuegigkeit-art-7-rl-2004-38-eugh-c-247-20
-description: "EU Freizuegigkeit Art 7 Rl 2004 38 EuGH C 247 20: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um EU Freizuegigkeit Art 7 Rl 2004 38 EuGH C 247 20 in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU Freizuegigkeit Art 7 Rl 2004 38 EuGH C 247 20

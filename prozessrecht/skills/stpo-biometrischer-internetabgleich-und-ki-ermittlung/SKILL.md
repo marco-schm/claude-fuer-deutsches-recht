@@ -1,6 +1,6 @@
 ---
 name: stpo-biometrischer-internetabgleich-und-ki-ermittlung
-description: "StPO-Spezialprüfung zu digitalen Ermittlungsmaßnahmen: Paragraf 98d StPO-E biometrischer Internetabgleich, Paragraf 98e StPO-E Analyseplattform, Paragraf 101 StPO-E Benachrichtigung, Paragrafen 161 163 StPO als Grenzen manueller OSINT, KI-VO-Hochrisiko, Grundrechte, Akteneinsicht und prozessuale Angriffslogik im Prozessrecht."
+description: "Wenn es um StPO: Biometrischer Internetabgleich und digitale Werkzeuge-Ermittlung in Prozessrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # StPO: Biometrischer Internetabgleich und KI-Ermittlung

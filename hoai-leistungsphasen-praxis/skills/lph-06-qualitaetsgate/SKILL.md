@@ -1,6 +1,6 @@
 ---
 name: lph-06-qualitaetsgate
-description: "HOAI LPH 6 Vorbereitung der Vergabe: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 6 Vorbereitung der Vergabe: Erstellt ein qualitygate in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Erstellt ein qualitygate

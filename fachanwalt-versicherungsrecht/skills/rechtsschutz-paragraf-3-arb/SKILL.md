@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-paragraf-3-arb
-description: "Rechtsschutz § 3 arb: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Rechtsschutz Paragraf 3 arb in Fachanwalt Versicherungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsschutz § 3 arb

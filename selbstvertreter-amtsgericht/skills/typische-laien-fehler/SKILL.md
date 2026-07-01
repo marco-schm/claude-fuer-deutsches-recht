@@ -1,6 +1,6 @@
 ---
 name: typische-laien-fehler
-description: "Die häufigsten Fehler von Buergern in der Selbstvertretung vor dem Amtsgericht. Versaeumte Fristen pauschaler Vortrag fehlende Beweisangebote Antrag unbestimmt Notfristen unterschaetzt. Mit konkreten Gegenmassnahmen."
+description: "Wenn es um Die haeufigsten Fehler — und wie Sie sie vermeiden in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Die haeufigsten Fehler — und wie Sie sie vermeiden

@@ -1,6 +1,6 @@
 ---
 name: exportkontrolle-sanktionen
-description: "Routet Sanktions- und Exportkontrollhinweise im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Exportkontrolle Sanktionen in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exportkontrolle Sanktionen

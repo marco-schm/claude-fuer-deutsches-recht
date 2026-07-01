@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-maengelmatrix-notariat
-description: "Klassifiziert jedes Hindernis nach Form, Berechtigung, Genehmigung, Rang, Kosten, Steuer und Inhalt im Grundbuchamt Praxis."
+description: "Wenn es um Mängelmatrix Grundbuch in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mängelmatrix Grundbuch

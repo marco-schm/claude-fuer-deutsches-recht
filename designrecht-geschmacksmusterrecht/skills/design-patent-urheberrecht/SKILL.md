@@ -1,6 +1,6 @@
 ---
 name: design-patent-urheberrecht
-description: "Design, Patent und Gebrauchsmuster abgrenzen: sichtbare Gestaltung gegen technische Lehre, Kombination von Schutzrechten und Offenbarungsfallen im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Design Und Patent Gebrauchsmuster Abgrenzung in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Design Und Patent Gebrauchsmuster Abgrenzung

@@ -1,6 +1,6 @@
 ---
 name: personal-information-protection-law-touchpoints
-description: "PIPL VR China 2021 (Personal Information Protection Law) Berührungspunkte: Grundsätze, Rechtsgrundlagen (Einwilligung CN), betroffene Personenkategorien, grenzüberschreitende Verarbeitung, Bußgeldsystem, Verhältnis DSGVO/PIPL im internationalen Konzernverbund, CAC-Aufsicht. Output: PIPL-DSGVO-Ver..."
+description: "Wenn es um PIPL China 2021: Pflichten und Verhältnis zur DSGVO in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PIPL China 2021: Pflichten und Verhältnis zur DSGVO

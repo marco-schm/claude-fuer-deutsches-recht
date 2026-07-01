@@ -1,6 +1,6 @@
 ---
 name: ins-021-kapitalerh-hung
-description: "Spezialskill Insiderrecht fuer Kapitalerhöhung: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Kapitalerhöhung in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Kapitalerhöhung

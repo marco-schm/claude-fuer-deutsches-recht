@@ -1,6 +1,6 @@
 ---
 name: staendische-ordnung
-description: "PrALR: ständische Ordnung, Adel, Bauern, Gutsuntertänigkeit, Zunft- und Statuslogik quellenkritisch prüfen."
+description: "Wenn es um Ständische Ordnung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Staendische Ordnung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Ständische Ordnung

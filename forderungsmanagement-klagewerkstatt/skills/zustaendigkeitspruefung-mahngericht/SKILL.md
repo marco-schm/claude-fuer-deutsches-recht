@@ -1,6 +1,6 @@
 ---
 name: zustaendigkeitspruefung-mahngericht
-description: "Sachliche Zustaendigkeit nach Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG, Wohnraum-Sonderzustaendigkeit nach Paragraf 23 Nummer 2a GVG, oertliche Gerichtsstaende nach ZPO, internationale Zustaendigkeit und Mahngericht nach Paragraf 689 ZPO."
+description: "Wenn es um Zuständigkeitspruefung in Forderungsmanagement — Klagewerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zuständigkeitspruefung

@@ -1,6 +1,6 @@
 ---
 name: konjunktur-und-produktionsstatistik
-description: "Produktions-, Monats-, Jahres- und Konjunkturstatistiken für produzierende Betriebe: Erzeugnisse, Mengen, Umsätze, Auftragseingang im Berichtspflichten."
+description: "Wenn es um Konjunktur- und Produktionsstatistik in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Konjunktur- und Produktionsstatistik

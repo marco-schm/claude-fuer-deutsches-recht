@@ -1,6 +1,6 @@
 ---
 name: umsatzsteuer-fallen-digitalleistungen
-description: "Solo-Selbstständige: prüft digitale Produkte, Kurse, Downloads, Mitgliedschaften und Leistungsort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Rechnung und Umsatzsteuer: Prüft digitale produkte in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechnung und Umsatzsteuer: Prüft digitale produkte

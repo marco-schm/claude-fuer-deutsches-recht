@@ -1,6 +1,6 @@
 ---
 name: bmbfsfj-senioren-pflegevorbeugungsrecht
-description: "Sachbereich Seniorenrecht und Pflegevorbeugung im Geschäftsbereich BMBFSFJ: Normbestand (SGB XI; ALeistungsG; Pflege-Bahr; HeimG der Länder; HGB-Bezuege.); Akteure (BMBFSFJ; BMG (Schnittstelle Pflege); Länder-Heimaufsichten.); EU-Bezug (Care-Strategy der EU.); typische Legistik-Aufgaben und Prue"
+description: "Wenn es um Seniorenrecht und Pflegevorbeugung (BMBFSFJ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmbfsfj Senioren Pflegevorbeugungsrecht; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Seniorenrecht und Pflegevorbeugung (BMBFSFJ)

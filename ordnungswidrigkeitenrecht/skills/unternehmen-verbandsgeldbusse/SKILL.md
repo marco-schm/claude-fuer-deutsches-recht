@@ -1,6 +1,6 @@
 ---
 name: unternehmen-verbandsgeldbusse
-description: "Ordnungswidrigkeitenrecht: Unternehmen und Verbandsgeldbuße. Unternehmen und Verbandsgeldbuße im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht."
+description: "Wenn es um Unternehmen Und Verbandsgeldbusse in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unternehmen Und Verbandsgeldbusse

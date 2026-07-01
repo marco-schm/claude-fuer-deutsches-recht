@@ -1,6 +1,6 @@
 ---
 name: verein-registerschnittstelle-verschmelzung
-description: "Klärt, wann Vereinsregisterlogik statt Handelsregisterlogik greift und welche Beschlüsse/Protokolle gebraucht werden im Handelsregister Praxis."
+description: "Wenn es um Vereinsregister-Schnittstelle in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Vereinsregister-Schnittstelle

@@ -1,6 +1,6 @@
 ---
 name: girokonto-firmenkunden-risk-exit
-description: "Firmenkunden-Girokonto, Risk Exit und De-Risking prüfen: Kündigung, Sperre, AML, Sanktionen, Diskriminierungsrisiko, Zahlungsverkehrsabhängigkeit und saubere Kundenkommunikation im Bank-Rechtsabteilung."
+description: "Wenn es um Firmenkunden Risk Exit in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Firmenkunden Risk Exit

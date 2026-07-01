@@ -1,6 +1,6 @@
 ---
 name: nachtraegliche-gesamtstrafenbildung-55-stgb
-description: "Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung: spaetere Tat wurde **vor** einer frueheren Verurteilung begangen (Zaesurwirkung). Beschluss-Verfahren § 460 StPO. Einbeziehung rechtskraeftiger Strafen. Haerteausgleich, wenn die Einbeziehung nicht moeglich ist (Bewaehrung bereits..."
+description: "Wenn es um Nachtraegliche Gesamtstrafenbildung — Paragraf 55 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachtraegliche Gesamtstrafenbildung — § 55 StGB

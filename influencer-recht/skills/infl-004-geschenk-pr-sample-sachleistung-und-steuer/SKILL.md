@@ -1,6 +1,6 @@
 ---
 name: infl-004-geschenk-pr-sample-sachleistung-und-steuer
-description: "Influencer-Recht: Geschenk PR Sample Sachleistung und Steuer mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Geschenk PR Sample Sachleistung und Steuer in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Geschenk PR Sample Sachleistung und Steuer

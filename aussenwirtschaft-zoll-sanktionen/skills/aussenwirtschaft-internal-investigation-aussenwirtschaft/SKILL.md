@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-internal-investigation-aussenwirtschaft
-description: "Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll- oder Sanktionsrecht: Sicherung digitaler und physischer Beweise (Legal Hold), Mitarbeiterbefragungen, Compliance-Bericht, Schadensquantifizierung und Weichenstellung für freiwillige Offenlegung oder Verteidigung. Output: Investiga..."
+description: "Wenn es um Interne Ermittlung bei Exportkontroll- und Sanktionsverstoss in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Interne Ermittlung bei Exportkontroll- und Sanktionsverstoss

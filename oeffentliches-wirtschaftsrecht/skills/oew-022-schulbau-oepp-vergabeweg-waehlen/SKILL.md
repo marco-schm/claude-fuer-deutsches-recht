@@ -1,6 +1,6 @@
 ---
 name: oew-022-schulbau-oepp-vergabeweg-waehlen
-description: "Öffentliches Wirtschaftsrecht: Schulbau-ÖPP: Vergabeweg wählen. Vergabeweg wählen für Schulbau-ÖPP im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schulbau Oepp Vergabeweg Waehlen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulbau Oepp Vergabeweg Waehlen

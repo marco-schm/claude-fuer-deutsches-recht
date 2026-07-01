@@ -1,6 +1,6 @@
 ---
 name: review-prodr-produkthaftung-digital
-description: "Review: Fristen, Form, Zuständigkeit und Rechtsweg im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Review: Fristen, Form, Zuständigkeit und Rechtsweg in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Review: Fristen, Form, Zuständigkeit und Rechtsweg

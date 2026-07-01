@@ -1,6 +1,6 @@
 ---
 name: hochschulrat-aufsicht-ministerium
-description: "Prüft Hochschulrat, Rechtsaufsicht, Fachaufsichtsgrenzen und ministerielle Beanstandung im Hochschulrecht Länder."
+description: "Wenn es um Hochschulrat, Aufsicht und Ministerium in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hochschulrat, Aufsicht und Ministerium

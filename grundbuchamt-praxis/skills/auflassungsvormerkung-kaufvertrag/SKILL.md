@@ -1,6 +1,6 @@
 ---
 name: auflassungsvormerkung-kaufvertrag
-description: "Prüft Vormerkungszweck, Rang, Löschung, Sicherung gegen Zwischenverfügungen und Käufer-/Bankenschutz im Grundbuchamt Praxis."
+description: "Wenn es um Auflassungsvormerkung in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auflassungsvormerkung

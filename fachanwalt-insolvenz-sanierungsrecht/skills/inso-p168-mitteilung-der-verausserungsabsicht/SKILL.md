@@ -1,6 +1,6 @@
 ---
 name: inso-p168-mitteilung-der-verausserungsabsicht
-description: "§ 168 InsO (Mitteilung der Veräußerungsabsicht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 168 InsO (Mitteilung der Veräußerungsabsicht) im Mandat prüfen: Normzweck, Tatbestand, Beleg..."
+description: "Wenn es um Inso P168 Mitteilung Der Verausserungsabsicht in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 168 InsO (Mitteilung der Veräußerungsabsicht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

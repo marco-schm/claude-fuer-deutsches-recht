@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-rufnummernmissbrauch-stellungnahme-entwurf
-description: "Rufnummernmissbrauch: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren."
+description: "Wenn es um TK-Regulierungsakte: Rufnummernmissbrauch — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # TK-Regulierungsakte: Rufnummernmissbrauch — Stellungnahme-Entwurf

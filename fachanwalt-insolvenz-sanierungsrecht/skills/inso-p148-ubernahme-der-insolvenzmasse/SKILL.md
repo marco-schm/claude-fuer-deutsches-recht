@@ -1,6 +1,6 @@
 ---
 name: inso-p148-ubernahme-der-insolvenzmasse
-description: "§ 148 InsO (Übernahme der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 148 InsO (Übernahme der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfol..."
+description: "Wenn es um Inso P148 Ubernahme Der Insolvenzmasse in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 148 InsO (Übernahme der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

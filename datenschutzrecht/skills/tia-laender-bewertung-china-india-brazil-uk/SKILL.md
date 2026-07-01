@@ -1,6 +1,6 @@
 ---
 name: tia-laender-bewertung-china-india-brazil-uk
-description: "TIA-Länderbewertung jenseits der USA: Vereinigtes Koenigreich (Angemessenheit), China (PIPL, Sicherheitsgesetze), Indien (DPDPA), Brasilien (LGPD). Prüfraster für Drittlandsrecht Behördenzugriff Praxis und Empfehlung Transferinstrument für Schritt 3 der EDPB-Roadmap."
+description: "Wenn es um TIA-Länderbewertung: UK, China, Indien, Brasilien in Datenschutzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # TIA-Länderbewertung: UK, China, Indien, Brasilien

@@ -1,6 +1,6 @@
 ---
 name: risk-heatmap-board
-description: "Risk Heatmap Board für Corporate/M&A: visualisiert Risiken nach Wahrscheinlichkeit, Impact, Verhandelbarkeit, Quellenstaerke, Owner und Deal-Blocker-Potential."
+description: "Wenn es um Risk Heatmap Board in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Risk Heatmap Board

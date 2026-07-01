@@ -1,6 +1,6 @@
 ---
 name: schriftsatz-anlagen-mapping
-description: "Schriftsatzstellen, Tatsachenbehauptungen, Beweisangebote und Anlagen in eine Matrix bringen; erkennt fehlende, doppelte und nur scheinbar belegte Anlagen."
+description: "Wenn es um Schriftsatz-Anlagen-Mapping in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schriftsatz-Anlagen-Mapping

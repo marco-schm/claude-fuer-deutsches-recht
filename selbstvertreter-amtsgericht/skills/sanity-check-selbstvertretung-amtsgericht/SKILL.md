@@ -1,6 +1,6 @@
 ---
 name: sanity-check-selbstvertretung-amtsgericht
-description: "Letzter Sanity-Check vor Klage, Klageerwiderung, Replik, Termin, Vergleich oder Rechtsmittel beim Amtsgericht. Prüft Fristen, Zuständigkeit, Anwaltszwang, Streitwert, Antrag, Tatsachenvortrag, Beweise, Anlagen, Kosten, Zustellung und rote Warnsignale."
+description: "Wenn es um Sanity-Check Selbstvertretung Amtsgericht in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sanity-Check Selbstvertretung Amtsgericht

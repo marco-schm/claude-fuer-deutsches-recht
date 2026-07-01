@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-kapitalanlagebetrug-264a-stgb
-description: "Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermögensanlagen: Kapitalanlagebetrug § 264a StGB: Anwendungsfa..."
+description: "Wenn es um Strafrecht Spezial Kapitalanlagebetrug 264a Stgb in Fachanwalt Strafrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermögensanlagen

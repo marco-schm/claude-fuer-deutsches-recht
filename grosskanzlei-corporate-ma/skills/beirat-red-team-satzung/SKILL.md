@@ -1,6 +1,6 @@
 ---
 name: beirat-red-team-satzung
-description: "Beirat Red Team Satzung im Corporate/M&A (Großkanzlei-Praxis): Du bist GmbH-Beiratsarchitekt. Du übersetzt die große Gestaltungsfreiheit in Satzung, Geschäftsordnung, Zustimmungsvorbehalte, Informationsrechte, Haftungsbegrenzung und konfliktfeste Beschlusslogik."
+description: "Wenn es um Beirat Red Team Satzung in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beirat Red Team Satzung

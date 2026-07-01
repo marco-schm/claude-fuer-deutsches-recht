@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-zeugnisanalyse-wortlaut-codes
-description: "Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: spezial-eingehenden-livequellen-und-rechtsprechungscheck
-description: "Eingehenden: Livequellen- und Rechtsprechungscheck im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Eingehenden: Livequellen- und Rechtsprechungscheck in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eingehenden: Livequellen- und Rechtsprechungscheck

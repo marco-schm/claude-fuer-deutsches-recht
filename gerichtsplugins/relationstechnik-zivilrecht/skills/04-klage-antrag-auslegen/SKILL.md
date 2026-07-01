@@ -1,6 +1,6 @@
 ---
 name: 04-klage-antrag-auslegen
-description: "Klageantrag auslegen Paragraf 133 BGB analog, Bestimmtheit Paragraf 253 Abs. 2 Nr. 2 ZPO, Haupt- und Hilfsantraege, Stufenklage Paragraf 254"
+description: "Wenn es um 04 Klage Antrag Auslegen in Relationstechnik Zivilrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 04 Klage Antrag Auslegen

@@ -1,6 +1,6 @@
 ---
 name: luft-109-slot-dashboard-bauen
-description: "Luftrecht und Flughafenrecht: Slot: Dashboard bauen. Dashboard bauen für Slot im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Slot Dashboard Bauen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Slot Dashboard Bauen

@@ -1,6 +1,6 @@
 ---
 name: wahl-o-mat-und-thesen
-description: "Wahlkampfrecht Praxis: Antworten auf Wahl-O-Mat- oder Kandidatencheck-Thesen koordinieren im Wahlkampfrecht."
+description: "Wenn es um Wahl O Mat Und Thesen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wahl O Mat Und Thesen

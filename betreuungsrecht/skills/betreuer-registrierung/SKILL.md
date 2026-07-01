@@ -1,6 +1,6 @@
 ---
 name: betreuer-registrierung
-description: "Erklärt die Abgrenzung beruflicher / ehrenamtlicher (privater) Betreuer nach BtOG seit 01.01.2023 sowie den Weg zur Registrierung als beruflicher Betreuer nach Paragraphen 23 ff. BtOG und der Betreuerregistrierungsverordnung. Behandelt Sachkundenachweis (270 Stunden, Anerkennung für Volljuristen..."
+description: "Wenn es um Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung

@@ -1,6 +1,6 @@
 ---
 name: auskunft-und-rechnungslegung
-description: "Gesellschaftsrechtliche Treuepflicht: Auskunft Und Rechnungslegung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Auskunft Und Rechnungslegung in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auskunft Und Rechnungslegung

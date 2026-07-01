@@ -1,6 +1,6 @@
 ---
 name: notrufpflicht-112
-description: "Notruf 112/110, Standortdaten, Ausfallsicherheit, VoIP, Alarmierung, Unternehmensanschlüsse und Haftungsrisiko im Telekommunikationsrecht."
+description: "Wenn es um Notrufpflicht und Ausfallsicherheit in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notrufpflicht und Ausfallsicherheit

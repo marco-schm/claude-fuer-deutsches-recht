@@ -1,6 +1,6 @@
 ---
 name: professionals-retention-327
-description: "Prüft retention of attorneys, financial advisors, investment bankers, disinterestedness and conflicts im US Bankruptcy Code."
+description: "Wenn es um Professionals Retention Paragraf 327 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Professionals Retention § 327

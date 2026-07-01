@@ -1,6 +1,6 @@
 ---
 name: preisbindung-der-zweiten-hand-rpm
-description: "Preisbindung der zweiten Hand RPM: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA im Kartellrecht (Marktabgrenzung): prüft kon..."
+description: "Wenn es um Preisbindung der zweiten Hand RPM in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Preisbindung der zweiten Hand RPM

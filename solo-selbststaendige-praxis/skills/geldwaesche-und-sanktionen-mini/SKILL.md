@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-und-sanktionen-mini
-description: "Solo-Selbstständige: sensibilisiert bei ungewöhnlichen Zahlungen, Auslandskunden und Sanktionsrisiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Grenzen Compliance und Selbstschutz: Sensibilisiert bei ungewöhnlichen zahlungen in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzen Compliance und Selbstschutz: Sensibilisiert bei ungewöhnlichen zahlungen

@@ -1,6 +1,6 @@
 ---
 name: diskurstheorie-habermas-alexy
-description: "Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhältnis allgemein-praktischer und juristischer Diskurs. Konsequenzen für Ausleg..."
+description: "Wenn es um Diskurstheorie und juristische Argumentation (Habermas / Alexy) in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Diskurstheorie und juristische Argumentation (Habermas / Alexy)

@@ -1,6 +1,6 @@
 ---
 name: subsumtionslehre-risikoampel-und-gegenargumente
-description: "Subsumtionslehre: Risikoampel, Gegenargumente und Verteidigungslinien im Jurastudium."
+description: "Wenn es um Subsumtionslehre: Risikoampel, Gegenargumente und Verteidigungslinien in Jurastudium geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Subsumtionslehre: Risikoampel, Gegenargumente und Verteidigungslinien

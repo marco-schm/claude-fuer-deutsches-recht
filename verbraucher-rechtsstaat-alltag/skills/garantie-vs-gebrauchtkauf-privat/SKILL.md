@@ -1,6 +1,6 @@
 ---
 name: garantie-vs-gebrauchtkauf-privat
-description: "Garantie versus Gewährleistung: führt Laien durch Herstellergarantie, gesetzliche Mängelrechte, Fristen und richtige Anspruchsgegner. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Garantie versus Gewährleistung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Garantie versus Gewährleistung

@@ -1,6 +1,6 @@
 ---
 name: konform-interessen
-description: "Konform: Mehrparteienkonflikt und Interessenmatrix: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
+description: "Wenn es um Konform: Mehrparteienkonflikt und Interessenmatrix in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Konform Interessen; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Konform: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für E-Mail-Umformulierung im Berufsrecht: stimmt Adressat (Anwalt, Mandant, Gegner), Frist (Mandantenkommunikation unverzüglich) und Form auf den Zweck ab — typische Outputs: Umformulierter E-Mail-Entwurf, Tonalitäts-Variante (sachlich/streng/empathisch)."
+description: "Wenn es um Output wählen in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

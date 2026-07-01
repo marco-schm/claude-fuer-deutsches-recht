@@ -1,6 +1,6 @@
 ---
 name: fremdgeld-und-anderkonto-kaltstart-und-faktenmatrix
-description: "Anwälte: fremdgeld und anderkonto - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Fremdgeld Und Anderkonto Kaltstart Und Faktenmatrix in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: fremdgeld und anderkonto - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

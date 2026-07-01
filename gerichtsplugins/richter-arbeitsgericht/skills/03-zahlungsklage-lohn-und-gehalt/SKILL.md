@@ -1,6 +1,6 @@
 ---
 name: 03-zahlungsklage-lohn-und-gehalt
-description: "Zahlungsklage: faelliger Arbeitslohn, Annahmeverzug Paragrafen 615 BGB, Urlaubsabgeltung Paragraf 7 Abs. 4 BUrlG, Entgeltfortzahlung im Krankheitsfall Paragraf 3 EFZG, Verzugspauschale Paragraf 288 Abs. 5 BGB"
+description: "Wenn es um 03 Zahlungsklage Lohn und Gehalt in Arbeitsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 03 Zahlungsklage Lohn und Gehalt

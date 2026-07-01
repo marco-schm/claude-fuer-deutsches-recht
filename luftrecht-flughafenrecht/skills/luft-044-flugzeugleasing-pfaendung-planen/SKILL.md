@@ -1,6 +1,6 @@
 ---
 name: luft-044-flugzeugleasing-pfaendung-planen
-description: "Luftrecht und Flughafenrecht: Flugzeugleasing: Pfändung planen. Pfändung planen für Flugzeugleasing im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Flugzeugleasing Pfaendung Planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flugzeugleasing Pfaendung Planen

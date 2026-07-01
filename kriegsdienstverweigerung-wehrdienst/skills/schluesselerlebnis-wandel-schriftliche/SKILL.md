@@ -1,6 +1,6 @@
 ---
 name: schluesselerlebnis-wandel-schriftliche
-description: "Unterscheidet einzelne Schlüsselerlebnisse und längere innere Wandelungsprozesse im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Schlüsselerlebnis oder Wandel in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schlüsselerlebnis oder Wandel

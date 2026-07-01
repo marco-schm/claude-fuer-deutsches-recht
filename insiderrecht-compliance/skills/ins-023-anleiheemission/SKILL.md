@@ -1,6 +1,6 @@
 ---
 name: ins-023-anleiheemission
-description: "Spezialskill Insiderrecht fuer Anleiheemission: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Anleiheemission in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Anleiheemission

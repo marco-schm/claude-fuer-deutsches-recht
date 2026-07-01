@@ -1,6 +1,6 @@
 ---
 name: see-011-pfaendung-und-arrest-schiff
-description: "See- und Schifffahrtsrecht: Pfändung und Arrest Schiff. Pfändung und Arrest Schiff im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Pfaendung Und Arrest Schiff in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pfaendung Und Arrest Schiff

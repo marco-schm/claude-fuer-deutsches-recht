@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsy-tuechtigkeit-bereitschaft
-description: "Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs: Aussagebereitschaft als motivationaler Wille zur Aussage. Prüfkriterien, Auswirkung auf Beweiswuerdigung, Verteidi..."
+description: "Wenn es um Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs

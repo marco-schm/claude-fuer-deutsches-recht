@@ -1,6 +1,6 @@
 ---
 name: inso-p078-aufhebung-eines-beschlusses-der-glaubigerversammlung
-description: "§ 78 InsO (Aufhebung eines Beschlusses der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 78 InsO (Aufhebung eines Beschlusses der Gläubigerversammlung) im Mandat pr..."
+description: "Wenn es um Inso P078 Aufhebung Eines Beschlusses Der Glaubigerversammlung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 78 InsO (Aufhebung eines Beschlusses der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: freiheitsentziehende-massnahmen-1831
-description: "Freiheitsentziehende Maßnahmen § 1831 BGB: Fixierung, geschlossene Unterbringung, sedierende Medikation. Voraussetzungen Genehmigung Betreuungsgericht, regelmäßige Prüfung. EuGH-/EGMR-Vorgaben."
+description: "Wenn es um Freiheitsentziehende Maßnahmen in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freiheitsentziehende Maßnahmen

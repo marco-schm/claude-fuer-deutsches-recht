@@ -1,6 +1,6 @@
 ---
 name: verhaeltnismaessigkeit-aus-sicht
-description: "Verhältnismäßigkeit aus NKR-Sicht: keine grundrechtliche Prüfung sondern Kosten-Nutzen- und Eingriffstiefe-Prüfung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand uebertraegt und wo die Abgrenzung zur BMJ-Prüfung liegt. M"
+description: "Wenn es um NKR-Verhältnismäßigkeit aus NKR-Sicht in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verhaeltnismaessigkeit Aus Sicht; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
 ---
 
 # NKR-Verhältnismäßigkeit aus NKR-Sicht

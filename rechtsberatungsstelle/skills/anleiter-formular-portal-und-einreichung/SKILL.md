@@ -1,6 +1,6 @@
 ---
 name: anleiter-formular-portal-und-einreichung
-description: "Anleiter: Formular, Portal und Einreichungslogik im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Anleiter: Formular, Portal und Einreichungslogik in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anleiter: Formular, Portal und Einreichungslogik

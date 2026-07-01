@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-asyl-folgeantrag-71
-description: "Asylantrag wurde abgelehnt und Mandant will neuen Antrag stellen oder hat neue Beweise oder Lage hat sich geaendert. Prüfraster § 71 AsylG Folgeantrag Voraussetzungen Wiederaufgreifensgründe Aenderung Sachlage neue Beweismittel. Frist drei Monate ab Kenntnis der neuen Umstaende Folge-Folgeantrag Dublin-III-Überstellungs-Sperre. Output Folgeantrag-Entwurf mit Begründung neuer Umstaende und Sperr-Argument für Dublin-Überstellung. Abgrenzung: asyl-anhoerung-vorbereiten für Erst-Anhoerung fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Gefahr."
+description: "Wenn es um Asyl-Folgeantrag Paragraf 71 AsylG in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Asyl-Folgeantrag § 71 AsylG

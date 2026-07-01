@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Common Law Kompass: trennt fehlende Tatsachen von fehlenden Belegen (Pleadings, Discovery requests, Affidavits), nennt pro Lücke Beweisthema, Beschaffungsweg (UK Supreme Court, US Supreme Court), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: ai-generated-material-disclosure
-description: "KI-generierte oder KI-assistierte Inhalte im Verlagstitel erkennen, Human-Authorship-Anteile abgrenzen, AI-Material disclaimen und eCO-Angaben vorsichtig vorbereiten im Us Copyright Registrierung Verlag."
+description: "Wenn es um digitale Werkzeuge Generated Material Disclosure in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # AI Generated Material Disclosure

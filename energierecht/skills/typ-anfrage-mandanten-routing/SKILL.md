@@ -1,6 +1,6 @@
 ---
 name: typ-anfrage-mandanten-routing
-description: "Anfrage-Routing im Energierecht: 5 typische Mandantenanfragen (Anschluss, Vertrag, Förderung, Verfahren, Streit) und ihre Sub-Skills im Plugin. Entscheidungsbaum, der zur richtigen Detail-Skill leitet im Energierecht."
+description: "Wenn es um Energie: Anfrage-Routing in Energierecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energie: Anfrage-Routing

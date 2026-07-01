@@ -1,6 +1,6 @@
 ---
 name: approbation-digitales-fehlverhalten
-description: "Approbation und digitales Fehlverhalten: moderner Medizinrechts-Skill für Telemedizin-Fehlverhalten, Social Media, Abrechnungsbetrug, Unwürdigkeit/Unzuverlässigkeit: Approbation und digitales Fehlverhalten: moderner Medizinrechts-Skill für Telemedizin-Fehlv..."
+description: "Wenn es um Approbation Digitales Fehlverhalten in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Approbation und digitales Fehlverhalten: moderner Medizinrechts-Skill für Telemedizin-Fehlverhalten, Social Media, Abrechnungsbetrug, Unwürdigkeit/Unzuverlässigkeit

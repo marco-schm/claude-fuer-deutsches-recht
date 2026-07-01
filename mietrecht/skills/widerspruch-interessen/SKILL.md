@@ -1,6 +1,6 @@
 ---
 name: widerspruch-interessen
-description: "Widerspruch: Mehrparteienkonflikt und Interessenmatrix im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht."
+description: "Wenn es um Widerspruch: Mehrparteienkonflikt und Interessenmatrix in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Widerspruch: Mehrparteienkonflikt und Interessenmatrix

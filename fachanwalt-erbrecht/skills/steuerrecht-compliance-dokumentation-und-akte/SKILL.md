@@ -1,6 +1,6 @@
 ---
 name: steuerrecht-compliance-dokumentation-und-akte
-description: "Steuerrecht: Compliance-Dokumentation und Aktenvermerk im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt: Ste..."
+description: "Wenn es um Steuerrecht Compliance Dokumentation Und Akte in Fachanwalt Erbrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerrecht: Compliance-Dokumentation und Aktenvermerk im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

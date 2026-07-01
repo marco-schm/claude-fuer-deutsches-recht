@@ -1,6 +1,6 @@
 ---
 name: einsichts-und-pruefungsrechte-111-aktg
-description: "AG/SE-Aufsichtsrat Praxis: Einsichts Und Prüfungsrechte 111 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um Einsichts Und Prüfungsrechte 111 Aktg in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Einsichts Und Prüfungsrechte 111 Aktg

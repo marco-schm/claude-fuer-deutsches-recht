@@ -1,6 +1,6 @@
 ---
 name: schiedsverfahren-anlagenband-und-datentraeger
-description: "Plant Anlagenbände im Schiedsverfahren: mehrere Originale, USB-Sticks, PDF-Bundles, Index, Hashliste, Verfahrensanordnung und parallele elektronische Struktur."
+description: "Wenn es um Schiedsverfahren: Anlagenband und Datenträger in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Schiedsverfahren: Anlagenband und Datenträger

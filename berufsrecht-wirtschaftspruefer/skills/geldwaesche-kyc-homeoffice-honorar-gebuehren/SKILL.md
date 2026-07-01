@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-kyc-homeoffice-honorar-gebuehren
-description: "Geldwäsche und KYC: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Risikomanagement, Identifizierung, Verdachtsmeldung und Dokumentation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Geldwäsche und KYC in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Geldwäsche und KYC

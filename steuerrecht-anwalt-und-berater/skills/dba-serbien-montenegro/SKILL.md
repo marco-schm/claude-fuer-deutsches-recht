@@ -1,6 +1,6 @@
 ---
 name: dba-serbien-montenegro
-description: "Nachfolge-DBA Jugoslawien für Serbien und Montenegro. Anwendungsfall Mittelstand Diaspora Pensionen Bauausführung Beteiligungen. Aelteres DBA mit roemischen Artikelnummern. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Serbien/Montenegro (Nachfolge Jugoslawien) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Serbien/Montenegro (Nachfolge Jugoslawien)

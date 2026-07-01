@@ -1,6 +1,6 @@
 ---
 name: wochen-liqui-ausgabengruppen-cash
-description: "Wochen Liqui Ausgabengruppen Cash im Plugin Liquiditaetsplanung: prüft konkret Wochen, Ausgabengruppen systematisch erfassen, Cash-Pooling im Konzern."
+description: "Wenn es um Wochen Liqui Ausgabengruppen Cash in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wochen Liqui Ausgabengruppen Cash

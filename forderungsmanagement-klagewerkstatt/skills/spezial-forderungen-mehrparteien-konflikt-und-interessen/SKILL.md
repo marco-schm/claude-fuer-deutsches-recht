@@ -1,6 +1,6 @@
 ---
 name: spezial-forderungen-mehrparteien-konflikt-und-interessen
-description: "Forderungen: Mehrparteienkonflikt und Interessenmatrix im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Forderungen: Mehrparteienkonflikt und Interessenmatrix in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Forderungen: Mehrparteienkonflikt und Interessenmatrix

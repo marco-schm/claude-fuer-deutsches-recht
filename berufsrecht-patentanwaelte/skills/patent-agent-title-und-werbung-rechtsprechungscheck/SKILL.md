@@ -1,6 +1,6 @@
 ---
 name: patent-agent-title-und-werbung-rechtsprechungscheck
-description: "Patentanwälte: patent agent title und werbung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Patent Agent Title Und Werbung Rechtsprechungscheck in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Patentanwälte: patent agent title und werbung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

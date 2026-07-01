@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Einfache/Leichte Sprache Jura: stimmt Adressat (Adressat mit Lese-/Lernbeeinträchtigung, Anwalt/Behörde, Übersetzer), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Bescheid in Leichter Sprache, Mandantenbrief in einfacher Sprache, Glossar."
+description: "Wenn es um Output wählen in Einfache und Leichte Sprache für juristische Texte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

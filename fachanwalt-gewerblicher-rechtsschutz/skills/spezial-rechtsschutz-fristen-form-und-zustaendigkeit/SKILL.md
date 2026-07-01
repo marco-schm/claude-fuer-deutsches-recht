@@ -1,6 +1,6 @@
 ---
 name: spezial-rechtsschutz-fristen-form-und-zustaendigkeit
-description: "Rechtsschutz: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Rechtsschutz: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsschutz: Fristen, Form, Zuständigkeit und Rechtsweg

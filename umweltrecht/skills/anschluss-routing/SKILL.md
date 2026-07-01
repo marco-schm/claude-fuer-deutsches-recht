@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Umweltrecht: wählt den nächsten Spezial-Skill nach Engpass (Klagefrist UVPG, UVP-Bericht, Genehmigungsbescheid, Stellungnahmen Umweltverbände), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Umweltrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anschluss-Routing

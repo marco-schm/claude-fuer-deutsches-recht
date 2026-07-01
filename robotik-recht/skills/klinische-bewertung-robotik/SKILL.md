@@ -1,6 +1,6 @@
 ---
 name: klinische-bewertung-robotik
-description: "Prüft klinische Bewertung und Zweckbestimmung bei medizinischer Robotik mit KI-Funktion."
+description: "Wenn es um Klinische Bewertung Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klinische Bewertung Robotik

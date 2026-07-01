@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-schuldnerbeguenstigung-283d-stgb
-description: "Schuldnerbeguenstigung nach Paragraph 283d StGB: Strafbarkeit Dritter die in Kenntnis der drohenden Insolvenz Schuldnervermoegen beiseiteschaffen oder verheimlichen. Strohmann-Faelle Familienangehoerige Mitve..."
+description: "Wenn es um Schuldnerbeguenstigung nach Paragraph 283d StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schuldnerbeguenstigung nach Paragraph 283d StGB

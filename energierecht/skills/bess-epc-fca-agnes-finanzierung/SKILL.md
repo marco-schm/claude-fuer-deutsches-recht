@@ -1,6 +1,6 @@
 ---
 name: bess-epc-fca-agnes-finanzierung
-description: "Prüft Bau-/Liefervertrag, O&M, Garantien, Degradation, Availability, LDs, Ersatzteile und Cyberpflichten im Energierecht."
+description: "Wenn es um EPC, O&M und Herstellerverträge in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EPC, O&M und Herstellerverträge

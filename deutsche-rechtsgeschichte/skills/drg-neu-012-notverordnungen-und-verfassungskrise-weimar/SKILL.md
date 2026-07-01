@@ -1,6 +1,6 @@
 ---
 name: drg-neu-012-notverordnungen-und-verfassungskrise-weimar
-description: "Deutsche Rechtsgeschichte: Notverordnungen und Verfassungskrise Weimar mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Deutsche Rechtsgeschichte: Notverordnungen und Verfassungskrise Weimar in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: Notverordnungen und Verfassungskrise Weimar

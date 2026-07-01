@@ -1,6 +1,6 @@
 ---
 name: gkv-mitgliedschaft-pflicht-freiwillig-familienversicherun
-description: "Versicherungspflicht (§ 5 SGB V), freiwillige Versicherung (§ 9 SGB V) und Familienversicherung (§ 10 SGB V) prüfen und abgrenzen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um GKV-Mitgliedschaft: Pflicht, freiwillig, Familienversicherung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GKV-Mitgliedschaft: Pflicht, freiwillig, Familienversicherung

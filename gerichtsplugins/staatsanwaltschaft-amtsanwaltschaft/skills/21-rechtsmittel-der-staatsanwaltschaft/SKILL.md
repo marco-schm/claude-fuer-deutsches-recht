@@ -1,6 +1,6 @@
 ---
 name: 21-rechtsmittel-der-staatsanwaltschaft
-description: "Rechtsmittel der Staatsanwaltschaft: Berufung (Paragrafen 312 ff. StPO), Revision (Paragrafen 333 ff. StPO), Beschwerde (Paragrafen 304 ff. StPO), zugunsten und zuungunsten des Angeklagten (Paragraf 296 Abs. 2 StPO), Fristen und Begruendung"
+description: "Wenn es um 21 Rechtsmittel Der Staatsanwaltschaft in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 21 Rechtsmittel Der Staatsanwaltschaft

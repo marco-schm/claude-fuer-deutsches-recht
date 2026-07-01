@@ -1,6 +1,6 @@
 ---
 name: edition-isbn-title-variants
-description: "Editionen, ISBN, Titelvarianten und Umlaute: Antragstitel, Originaltitel, Reihenangaben, Neuauflagen und Backlist konsistent verwalten im Us Copyright Registrierung Verlag."
+description: "Wenn es um Edition, ISBN und Titelvarianten in US Copyright Act und Registrierung für deutsche Verlage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Edition, ISBN und Titelvarianten

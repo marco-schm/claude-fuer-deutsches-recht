@@ -1,6 +1,6 @@
 ---
 name: dsfa-edpb-leitlinien-9-19-anwendung
-description: "Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die neun Kriterien für voraussichtlich hohes Risiko strukturiert prüfen. Output: Kriterien-Tabelle mit Subsumtion und Schwellwertergebnis."
+description: "Wenn es um Anwendung der EDPB-Leitlinien WP 248 rev.01 zur DSFA in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwendung der EDPB-Leitlinien WP 248 rev.01 zur DSFA

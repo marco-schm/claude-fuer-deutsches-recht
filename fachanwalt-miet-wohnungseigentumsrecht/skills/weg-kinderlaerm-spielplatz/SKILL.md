@@ -1,6 +1,6 @@
 ---
 name: weg-kinderlaerm-spielplatz
-description: "Kinderlärm/Spielplatz: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Sozialadäquanz, Hausordnung, Rücksichtnahme, bauliche Maßnahmen; mit Normprüfung, Beweisen, Fristen, Risikoampe..."
+description: "Wenn es um Kinderlärm/Spielplatz: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kinderlärm/Spielplatz: Fachmodul im Miet- und Wohnungseigentumsrecht

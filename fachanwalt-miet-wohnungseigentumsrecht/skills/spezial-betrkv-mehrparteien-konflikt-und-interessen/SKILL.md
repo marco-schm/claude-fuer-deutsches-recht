@@ -1,6 +1,6 @@
 ---
 name: spezial-betrkv-mehrparteien-konflikt-und-interessen
-description: "Betrkv: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt miet wohnungseigentumsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Betrkv: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betrkv: Mehrparteienkonflikt und Interessenmatrix

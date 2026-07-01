@@ -1,6 +1,6 @@
 ---
 name: kv-059-selbstbehalt-wahltarif-und-kuendigung
-description: "Krankenversicherung: Selbstbehalt Wahltarif und Kündigung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Selbstbehalt Wahltarif und Kündigung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Selbstbehalt Wahltarif und Kündigung

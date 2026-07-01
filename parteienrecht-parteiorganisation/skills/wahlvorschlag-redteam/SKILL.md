@@ -1,6 +1,6 @@
 ---
 name: wahlvorschlag-redteam
-description: "Letzte Prüfung vor Einreichung von Wahlvorschlag, Liste, Niederschrift, Zustimmung, Versicherungen und Unterstützungsunterschriften."
+description: "Wenn es um Wahlvorschlag Red-Team in Parteienrecht und Parteiorganisation geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wahlvorschlag Red-Team

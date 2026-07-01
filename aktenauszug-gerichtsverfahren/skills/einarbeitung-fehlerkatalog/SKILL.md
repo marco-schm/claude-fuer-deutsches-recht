@@ -1,6 +1,6 @@
 ---
 name: einarbeitung-fehlerkatalog
-description: "Einarbeitung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Wenn es um Einarbeitung Fehlerkatalog in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einarbeitung Fehlerkatalog

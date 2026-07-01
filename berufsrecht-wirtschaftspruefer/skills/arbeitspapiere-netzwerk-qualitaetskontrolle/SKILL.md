@@ -1,6 +1,6 @@
 ---
 name: arbeitspapiere-netzwerk-qualitaetskontrolle
-description: "Wirtschaftsprüfer: mangelhafte arbeitspapiere - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Arbeitspapiere Netzwerk Qualitaetskontrolle in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: mangelhafte arbeitspapiere - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

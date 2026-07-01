@@ -1,6 +1,6 @@
 ---
 name: vzta-antrag-warennummer-hs-wto-handelspolitik
-description: "Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff: Antragsqualitaet Warenbezeichnung technische Unterlagen Muster und Lieferfrist. Behoerdliche Bindungswirkung und Rechtschutz gegen ablehnenden Bescheid oder abweichende Einreihung. Qualitaetsgate vor Antragsstellung. Output: vZTA-Antragsm..."
+description: "Wenn es um vZTA-Antrag: Qualitaetsgate für verbindliche Zolltarifauskuenfte in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # vZTA-Antrag: Qualitaetsgate für verbindliche Zolltarifauskuenfte

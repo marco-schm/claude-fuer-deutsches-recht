@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-gefaehrliche-koerperverletzung-224-stgb
-description: "Gefaehrliche Koerperverletzung nach § 224 StGB: Qualifikationen Nr. 1 Gift und gesundheitsschaedliche Stoffe; Nr. 2 Waffe oder gefaehrliches Werkzeug; Nr. 3 hinterlistiger Ueberfall; Nr. 4 mit anderen Beteilig..."
+description: "Wenn es um Gefaehrliche Koerperverletzung nach Paragraf 224 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gefaehrliche Koerperverletzung nach § 224 StGB

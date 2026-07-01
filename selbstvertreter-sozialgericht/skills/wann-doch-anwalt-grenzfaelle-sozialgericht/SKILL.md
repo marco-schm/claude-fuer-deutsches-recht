@@ -1,6 +1,6 @@
 ---
 name: wann-doch-anwalt-grenzfaelle-sozialgericht
-description: "Wann sollten Sie als Buerger doch einen Anwalt einschalten. Komplexe medizinische Fragen mehrere Bescheide LSG-Verfahren Beratungshilfe PKH. Entscheidungshilfe."
+description: "Wenn es um Wann sollten Sie doch einen Anwalt einschalten? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Wann sollten Sie doch einen Anwalt einschalten?

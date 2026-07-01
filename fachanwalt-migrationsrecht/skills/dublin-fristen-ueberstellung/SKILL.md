@@ -1,6 +1,6 @@
 ---
 name: dublin-fristen-ueberstellung
-description: "Dublin-Fristen/Überstellung: Fachmodul im Migrationsrecht: prüft Aufnahme-/Wiederaufnahme, Überstellungsfrist, Kirchenasyl, Aussetzung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellen..."
+description: "Wenn es um Dublin-Fristen/Überstellung: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dublin-Fristen/Überstellung: Fachmodul im Migrationsrecht

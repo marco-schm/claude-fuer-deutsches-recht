@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-beistandsleistung-137-stpo
-description: "§ 137 Abs: 1 StPO als zentrales Schutzschild gegen den Vorwurf dysfunktionaler Strafverteidigung nutzen. Verteidiger leistet Beistand des Beschuldigten in jeder Lage des Verfahrens. Privilegierung schuetzt aktives Eintreten gegen Belastung. Sie e..."
+description: "Wenn es um Paragraf 137 Abs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 137 Abs

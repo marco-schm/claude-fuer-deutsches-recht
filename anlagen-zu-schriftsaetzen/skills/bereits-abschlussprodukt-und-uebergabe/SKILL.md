@@ -1,6 +1,6 @@
 ---
 name: bereits-abschlussprodukt-und-uebergabe
-description: "Bereits: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Bereits: Abschlussprodukt und Übergabe in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bereits Abschlussprodukt Und Uebergabe; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Bereits: Abschlussprodukt und Übergabe

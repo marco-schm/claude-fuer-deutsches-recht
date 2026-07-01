@@ -1,6 +1,6 @@
 ---
 name: protokoll-nachbereitung-rechnungseinzug-red-team-korrektur
-description: "Protokoll und Nachbereitung: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftsp..."
+description: "Wenn es um Protokoll und Nachbereitung in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Protokoll und Nachbereitung

@@ -1,6 +1,6 @@
 ---
 name: schrems-ii-drittlandsuebermittlung-c-311-18
-description: "Schrems Ii Drittlandsuebermittlung C 311 18: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Schrems Ii Drittlandsuebermittlung C 311 18 in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schrems Ii Drittlandsuebermittlung C 311 18

@@ -1,6 +1,6 @@
 ---
 name: bayvgh-bekanntmachung-beweislast-eilantrag
-description: "Bayvgh: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Bayvgh: Verhandlung, Vergleich und Eskalation in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bayvgh: Verhandlung, Vergleich und Eskalation

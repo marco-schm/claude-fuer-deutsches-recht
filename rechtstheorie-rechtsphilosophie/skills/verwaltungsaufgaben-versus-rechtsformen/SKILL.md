@@ -1,6 +1,6 @@
 ---
 name: verwaltungsaufgaben-versus-rechtsformen
-description: "Balanciert Aufgabenlogik und Rechtsformen in der Verwaltung: Funktion, Effektivitaet, Gesetzesbindung, Verwaltungsakt, Vertrag, Satzung, Planung, Ermessen und Rechtsschutz."
+description: "Wenn es um Verwaltungsaufgabe versus Rechtsform in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verwaltungsaufgabe versus Rechtsform

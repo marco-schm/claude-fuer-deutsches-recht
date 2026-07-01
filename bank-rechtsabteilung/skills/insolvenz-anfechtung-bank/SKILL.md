@@ -1,6 +1,6 @@
 ---
 name: insolvenz-anfechtung-bank
-description: "Insolvenzanfechtung gegen Banken vorbeugen und verteidigen: Sicherheitenbestellung, Rückführung, Kontokorrent, inkongruente Deckung, Kenntnis, Bargeschäft und Anfechtungsgegner-Argumente prüfen im Bank-Rechtsabteilung."
+description: "Wenn es um Insolvenzanfechtung Bank in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Insolvenzanfechtung Bank

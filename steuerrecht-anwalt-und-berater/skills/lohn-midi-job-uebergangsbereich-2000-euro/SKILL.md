@@ -1,6 +1,6 @@
 ---
 name: lohn-midi-job-uebergangsbereich-2000-euro
-description: "Midi-Job-Übergangsbereich 538 EUR/01 bis 2000 EUR Stand 2023. Anwendungsfall geminderte AN-SV-Beitraege in der Gleitzone Berechnung Faktor F Anpassung 2026. Methodik Berechnungsmodul SV-Beitrag AN Gleitzone. Output Midi-Job-Abrechnung."
+description: "Wenn es um Midi-Job / Uebergangsbereich — 538.01 bis 2.000 EUR in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Midi-Job / Uebergangsbereich — 538,01 bis 2.000 EUR

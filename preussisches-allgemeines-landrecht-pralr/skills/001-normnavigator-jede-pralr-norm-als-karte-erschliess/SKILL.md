@@ -1,6 +1,6 @@
 ---
 name: 001-normnavigator-jede-pralr-norm-als-karte-erschliess
-description: "PrALR: Normnavigator jede PrALR-Norm als Karte erschließen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Pralr Normnavigator Jede Pralr Norm Als Karte Erschliess in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Normnavigator Jede Pralr Norm Als Karte Erschliess

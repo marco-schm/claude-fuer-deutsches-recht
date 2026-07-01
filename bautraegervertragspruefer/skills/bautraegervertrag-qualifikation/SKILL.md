@@ -1,6 +1,6 @@
 ---
 name: bautraegervertrag-qualifikation
-description: "Qualifiziert den Vertragstyp nach Paragraf 650u und 650v BGB: liegt ein Bautraegervertrag vor oder ein reiner Kauf- oder Werkvertrag? Entscheidet welche Normen anwendbar oder ausgeschlossen sind und ob MaBV und Paragraf 650m Absatz 2 BGB greifen."
+description: "Wenn es um Bauträgervertrag-Qualifikation in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauträgervertrag-Qualifikation

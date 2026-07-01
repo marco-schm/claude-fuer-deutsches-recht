@@ -1,6 +1,6 @@
 ---
 name: agb-im-bankvertrag-sparkassen-und-banken
-description: "AGB-Kontrolle im Bankvertrag. Skill behandelt die Banken-AGB Sparkassen-AGB und Allgemeinen Geschäftsbedingungen der Volks- und Raiffeisenbanken Klauseln zu Entgelten Änderungen einseitige Vertragsanpassung BGH-Linie zu Gebührenklauseln. Behandelt aktuelle Themen Negativzinsen Verwahrentgelte P"
+description: "Wenn es um Agb Im Bankvertrag Sparkassen Und Banken in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Im Bankvertrag Sparkassen Und Banken; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Agb Im Bankvertrag Sparkassen Und Banken

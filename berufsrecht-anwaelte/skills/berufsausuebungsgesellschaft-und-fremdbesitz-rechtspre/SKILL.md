@@ -1,6 +1,6 @@
 ---
 name: berufsausuebungsgesellschaft-und-fremdbesitz-rechtspre
-description: "Anwälte: berufsausuebungsgesellschaft und fremdbesitz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Berufsausuebungsgesellschaft Und Fremdbesitz Rechtspre in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Anwälte: berufsausuebungsgesellschaft und fremdbesitz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: romanisch-byzantinische-synopse
-description: "Römisches Recht: Synopse von Zwölftafelgesetz, klassischem Recht, Justinian, byzantinischer Fortbildung und späterer Rezeption."
+description: "Wenn es um Romanisch-byzantinische Synopse in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Romanisch Byzantinische Synopse; Arbeitsfeld: Römisches Recht."
 ---
 
 # Romanisch-byzantinische Synopse

@@ -1,6 +1,6 @@
 ---
 name: rotation-cooling
-description: "Wirtschaftsprüfer: rotation und cooling off - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Rotation Cooling in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: rotation und cooling off - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

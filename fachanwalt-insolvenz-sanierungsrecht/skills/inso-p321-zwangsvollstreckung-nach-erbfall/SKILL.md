@@ -1,6 +1,6 @@
 ---
 name: inso-p321-zwangsvollstreckung-nach-erbfall
-description: "§ 321 InsO (Zwangsvollstreckung nach Erbfall) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 321 InsO (Zwangsvollstreckung nach Erbfall) im Mandat prüfen: Normzweck, Tatbestand, Belege, R..."
+description: "Wenn es um Inso P321 Zwangsvollstreckung Nach Erbfall in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 321 InsO (Zwangsvollstreckung nach Erbfall) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

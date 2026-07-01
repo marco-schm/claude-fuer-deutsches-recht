@@ -1,6 +1,6 @@
 ---
 name: eigentuemsuebergang-und-sicherheiten
-description: "Internationales Handelsrecht: Eigentumsübergang bei Warenkauf international. CISG-Lücke (Art. 4b), lex situs, Traditio vs. Konsensualprinzip, Kreditsicherheiten in der Lieferkette und Floating Charge (englisches Recht) im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Eigentumsübergang und Kreditsicherheiten in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eigentumsübergang und Kreditsicherheiten

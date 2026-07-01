@@ -1,6 +1,6 @@
 ---
 name: rechtsgrund-und-behaltensgrund-pruefen
-description: "Bereicherungsrechtliche Kernfrage prüfen: nicht nur Zufluss, sondern Rechtsgrund und Behaltensgrund. Normen: §§ 812 ff. BGB. Output: Behaltensgrund-Matrix mit Darlegungslast und Verteidigungsrisiken."
+description: "Wenn es um Rechtsgrund und Behaltensgrund prüfen in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsgrund und Behaltensgrund prüfen

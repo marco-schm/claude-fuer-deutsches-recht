@@ -1,6 +1,6 @@
 ---
 name: datenschutz-beschwerde-aufsicht-auskunftei
-description: "Beschwerde nach Art. 77 DSGVO gegen SCHUFA/Credit Agency: Zuständigkeit, Sachverhalt, Anträge, Belege, gerichtliche Kontrolle."
+description: "Wenn es um Aufsichtsbeschwerde gegen Auskunftei in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufsichtsbeschwerde gegen Auskunftei

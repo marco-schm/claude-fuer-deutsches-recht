@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen
-description: "Rechtsquellen: Quellenprüfung; Internationaler Bezug und Schnittstellen: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Rechtsquellen: Internationaler Bezug und Schnittstellen in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsquellen: Internationaler Bezug und Schnittstellen

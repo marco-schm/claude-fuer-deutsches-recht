@@ -1,6 +1,6 @@
 ---
 name: publication-status-usa-ausland-online
-description: "Publication-Status klären: veröffentlicht/unveröffentlicht, U.S.-Erstveröffentlichung, ausländische Erstveröffentlichung, Online-only und gleichzeitige Verbreitung im Us Copyright Registrierung Verlag."
+description: "Wenn es um Publication Status USA, Ausland und Online in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Publication Status USA, Ausland und Online

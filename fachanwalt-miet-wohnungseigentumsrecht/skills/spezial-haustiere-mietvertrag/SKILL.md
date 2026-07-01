@@ -1,6 +1,6 @@
 ---
 name: spezial-haustiere-mietvertrag
-description: "Haustiere im Mietverhältnis: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft AGB-Klausel, Interessenabwägung, Störung, Erlaubnis und Widerruf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Haustiere im Mietverhältnis in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haustiere im Mietverhältnis

@@ -1,6 +1,6 @@
 ---
 name: vier-behoerden-gericht-und-registerweg
-description: "Behörden-, Gerichts- oder Registerweg; prüft welcher Weg zur zuständigen Behörde, zum richtigen Gericht oder zum einschlägigen Register führt. Gibt Normen, Fristen und Zuständigkeitsregeln für die vier klassischen Wege im Subsumtions Prüfer."
+description: "Wenn es um Behörden-, Gerichts- und Registerweg in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Behörden-, Gerichts- und Registerweg
@@ -79,4 +79,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 2. **Weg bestimmen:** Ordentliche Gerichtsbarkeit, VwGO, Register oder Behörde?
 3. **Fristen prüfen:** Klagefrist, Widerspruchsfrist, Verjährung, Ausschlussfristen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen und Alternativwegen.
-5. **Anschluss bauen:** Passende weitere Skills vorschlagen (z. B. verfahrensart-bestimmen, ziel-und-rechtsweg-bestimmung).
+5. **Anschluss bauen:** Passende weitere Skills vorschlagen (z. B. verfahrensart-bestimmen-verjaehrung, ziel-und-rechtsweg-bestimmung).

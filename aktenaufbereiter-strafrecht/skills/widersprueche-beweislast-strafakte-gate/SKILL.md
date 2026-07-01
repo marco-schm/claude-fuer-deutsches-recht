@@ -1,6 +1,6 @@
 ---
 name: widersprueche-beweislast-strafakte-gate
-description: "Widersprueche: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Widersprueche: Beweislast, Darlegungslast und Substantiierung in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Widersprueche: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: krankenkassenfusion-und-bestandsschutz
-description: "Fusion von Krankenkassen nach §§ 171a ff. SGB V: Rechtsfolgen für Versicherte, Bestandsschutz für Tarife und Wahlarife, Schließung und Insolvenz im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Krankenkassenfusion und Bestandsschutz in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenkassenfusion und Bestandsschutz

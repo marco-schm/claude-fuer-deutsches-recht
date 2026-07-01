@@ -1,6 +1,6 @@
 ---
 name: copyrightability-idea-facts-methods
-description: "Schutzgegenstand eingrenzen: Ideen, Methoden, Fakten, amtliche Texte, Tabellenlogik und bloße Daten von konkreter Ausdrucksgestaltung trennen im Us Copyright Registrierung Verlag."
+description: "Wenn es um Copyrightability, Ideen, Fakten und Methoden in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Copyrightability, Ideen, Fakten und Methoden

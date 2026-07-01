@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-grundlagen
-description: "Übt die juristische Methodenlehre für Studenten — Auslegung nach Wortlaut/Systematik/Historie/Telos, Analogie, teleologische Reduktion, Auslegung gegen den Wortlaut, verfassungskonforme und unionsrechtskonforme Auslegung, Argumentationslast. Lädt, wenn der Nutzer Methodenlehre üben, auslegen, A..."
+description: "Wenn es um Methodenlehre — Grundlagen in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Methodenlehre — Grundlagen

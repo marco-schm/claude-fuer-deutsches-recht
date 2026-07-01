@@ -1,6 +1,6 @@
 ---
 name: kwkg-netzanschluss-netze-praesumtion-red-team-korrektur
-description: "Kwkg: Verhandlung, Vergleich und Eskalation im Energierecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Kwkg: Verhandlung, Vergleich und Eskalation in Energierecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kwkg: Verhandlung, Vergleich und Eskalation

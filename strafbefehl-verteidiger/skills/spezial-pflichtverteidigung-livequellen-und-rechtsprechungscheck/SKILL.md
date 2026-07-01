@@ -1,6 +1,6 @@
 ---
 name: spezial-pflichtverteidigung-livequellen-und-rechtsprechungscheck
-description: "Pflichtverteidigung: Livequellen- und Rechtsprechungscheck im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Pflichtverteidigung: Livequellen- und Rechtsprechungscheck in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflichtverteidigung: Livequellen- und Rechtsprechungscheck

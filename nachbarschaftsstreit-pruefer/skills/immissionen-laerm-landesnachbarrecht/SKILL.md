@@ -1,6 +1,6 @@
 ---
 name: immissionen-laerm-landesnachbarrecht
-description: "Nachbarliche Immissionen prüfen: Lärm, Geruch, Rauch, Grill, Kamin, Licht, Erschütterung, § 906 BGB, Wesentlichkeit, Ortsüblichkeit, Richtwerte, Duldung, Unterlassung, Ausgleich und Beweissicherung im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Immissionen: Lärm, Geruch, Rauch, Licht in Nachbarschaftsstreit-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Immissionen: Lärm, Geruch, Rauch, Licht

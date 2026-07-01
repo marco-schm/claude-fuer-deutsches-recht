@@ -1,6 +1,6 @@
 ---
 name: anonyme-meldung
-description: "Bewertet anonyme Meldungen und freiwillige Annahmeprozesse im Hinweisgeberschutz Compliance."
+description: "Wenn es um Anonyme Meldung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anonyme Meldung

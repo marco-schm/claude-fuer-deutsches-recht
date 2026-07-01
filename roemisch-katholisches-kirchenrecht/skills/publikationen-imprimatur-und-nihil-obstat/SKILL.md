@@ -1,6 +1,6 @@
 ---
 name: publikationen-imprimatur-und-nihil-obstat
-description: "Publikationen, Imprimatur und nihil obstat: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Publikationen, Imprimatur und nihil obstat in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Publikationen, Imprimatur und nihil obstat

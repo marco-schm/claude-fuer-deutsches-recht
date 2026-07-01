@@ -1,6 +1,6 @@
 ---
 name: dba-spanien-2011
-description: "DBA Deutschland Spanien Neufassung 2011 in Kraft seit 2012. Anwendungsfall Mittelstand Immobilien Mallorca-Konstellation Pensionen Beteiligungen. EU-MTRL Subject-to-Tax-Klausel. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Spanien (2011) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Spanien (2011)

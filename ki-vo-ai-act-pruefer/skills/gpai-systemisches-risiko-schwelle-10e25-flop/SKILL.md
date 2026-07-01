@@ -1,6 +1,6 @@
 ---
 name: gpai-systemisches-risiko-schwelle-10e25-flop
-description: "Anbieter eines sehr grossen Basismodells fragt: Haben wir die Schwelle für systemisches Risiko ueberschritten und welche Zusatzpflichten gelten dann? Art. 51 und 55 KI-VO GPAI systemisches Risiko. Prüfraster: Schwellenwert 10 hoch 25 FLOP Trainingsrechenleistung Notifikationspflicht Kommission Ar"
+description: "Wenn es um GPAI-Modelle mit systemischem Risiko — Art. 51 bis 55 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Gpai Systemisches Risiko Schwelle 10e25 Flop; Arbeitsfeld: europäischem Technikregulierungsrecht."
 ---
 
 # GPAI-Modelle mit systemischem Risiko — Art. 51 bis 55 KI-VO

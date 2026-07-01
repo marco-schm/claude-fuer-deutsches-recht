@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-bremen-spezial-rathaus-und-roland-welterbe
-description: "Bremer Besonderheit: Bremer Rathaus und Roland am Marktplatz sind seit 2004 UNESCO-Welterbe. Skill erlaeutert die Pufferzone, die ICOMOS-Begutachtung, das Verhaeltnis zur Bremischen Bauordnung und die Verfahrenspraxis bei Bauvorhaben in der Pufferzone (Sichtachsenschutz, Hoehenbegrenzung, Materialvorgaben)."
+description: "Wenn es um Rathaus und Roland Bremen als UNESCO-Welterbe in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rathaus und Roland Bremen als UNESCO-Welterbe

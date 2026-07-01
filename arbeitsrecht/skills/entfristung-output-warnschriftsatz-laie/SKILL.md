@@ -1,6 +1,6 @@
 ---
 name: entfristung-output-warnschriftsatz-laie
-description: "Vollständige Klageschrift Entfristungsklage mit Pflicht-Disclaimer für Laien; Zusammenführung aller Bausteine; Ausfuellanleitung; Einreichungshinweise; Dreiwochenfrist-Warnblock prominent am Anfang."
+description: "Wenn es um Ausgabe: Vollständige Klageschrift Entfristungsklage mit Pflicht-Disclaimer (Laie) in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausgabe: Vollständige Klageschrift Entfristungsklage mit Pflicht-Disclaimer (Laie)

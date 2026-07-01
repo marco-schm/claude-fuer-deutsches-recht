@@ -1,6 +1,6 @@
 ---
 name: angemessenheit-abwaegung
-description: Stufe 4 der Verhältnismäßigkeit Angemessenheit als Abwaegung zwischen Eingriffsschwere und Gewicht des Zwecks. Mit dem Gewichtungsraster Wahrscheinlichkeit Intensitaet Reversibilitaet und Hinweisen wie eine Abwaegung methodisch kontrollierbar bleibt.
+description: "Wenn es um Angemessenheit Abwaegung in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Angemessenheit Abwaegung

@@ -1,6 +1,6 @@
 ---
 name: pruefungsordnung-aenderung-uebergangsrecht
-description: "Prüft neue Prüfungsordnung, Vertrauensschutz, Übergangsfristen und Härtefall im Prüfungsrecht Hochschule."
+description: "Wenn es um Prüfungsordnungsänderung und Übergangsrecht in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfungsordnungsänderung und Übergangsrecht

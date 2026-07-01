@@ -1,6 +1,6 @@
 ---
 name: abmahnung-erhalten
-description: "Solo-Selbstständige: sortiert UWG/Urheber/Marke/DSGVO-Abmahnung und Fristen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Abmahnung Erhalten in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Marketing E-Commerce und Plattformen: Sortiert uwg/urheber/marke/dsgvo-abmahnung und fristen

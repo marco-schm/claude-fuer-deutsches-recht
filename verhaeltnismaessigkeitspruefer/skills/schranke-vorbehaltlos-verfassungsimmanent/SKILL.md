@@ -1,6 +1,6 @@
 ---
 name: schranke-vorbehaltlos-verfassungsimmanent
-description: "Spezial-Prüfraster fuer vorbehaltlose Grundrechte: Eingriffe nur ueber verfassungsimmanente Schranken, dh kollidierende Verfassungsgueter mit Rang. Anwendung praktischer Konkordanz, BVerfG-Linien Kruzifix, Mephisto, Reiten im Walde, Brokdorf."
+description: "Wenn es um Vorbehaltlose Grundrechte und verfassungsimmanente Schranken in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vorbehaltlose Grundrechte und verfassungsimmanente Schranken

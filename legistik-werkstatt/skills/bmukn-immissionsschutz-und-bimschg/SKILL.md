@@ -1,6 +1,6 @@
 ---
 name: bmukn-immissionsschutz-und-bimschg
-description: "Sachbereich Immissionsschutz (BImSchG) im Geschäftsbereich BMUKN: Normbestand (BImSchG; BImSchV (1-44; TA Luft; TA Laerm); BBodSchG; UVPG; UmwRG.); Akteure (UBA; BfS (Strahlen); Länder-Genehmigungsbehoerden; Bundesverwaltung Verkehr.); EU-Bezug (IED-RL; Luftqualitaets-RL; Umgebungslaerm-RL.); ty..."
+description: "Wenn es um Immissionsschutz (BImSchG) (BMUKN) in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Immissionsschutz (BImSchG) (BMUKN)

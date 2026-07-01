@@ -1,6 +1,6 @@
 ---
 name: mieterhoehung-verhandlung-vergleich-und-eskalation
-description: "Mieterhoehung: Verhandlung, Vergleich und Eskalation im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitspro..."
+description: "Wenn es um Mieterhoehung Verhandlung Vergleich Und Eskalation in Fachanwalt Miet- und Wohnungseigentumsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Mieterhoehung: Verhandlung, Vergleich und Eskalation im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

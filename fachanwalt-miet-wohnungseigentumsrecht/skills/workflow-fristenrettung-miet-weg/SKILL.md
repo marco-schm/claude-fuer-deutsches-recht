@@ -1,6 +1,6 @@
 ---
 name: workflow-fristenrettung-miet-weg
-description: "Fristenrettung Miet/WEG: Prüfungslinie für Miet- und WEG-Recht: erkennt Sofortfristen und erzeugt eine Rettungsliste mit Verantwortlichen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Sk..."
+description: "Wenn es um Fristenrettung Miet/WEG: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Fristenrettung Miet/WEG: Prüfungslinie für Miet- und WEG-Recht

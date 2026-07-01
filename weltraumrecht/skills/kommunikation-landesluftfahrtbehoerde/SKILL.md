@@ -1,6 +1,6 @@
 ---
 name: kommunikation-landesluftfahrtbehoerde
-description: "Behördenkommunikation für Raumfahrtprojekte – Antragsverfahren, Zuständigkeiten, Koordination im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Kommunikation mit Landesluftfahrtbehörde, BNetzA, BMWK, DLR in Weltraumrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Weltraumrecht: Kommunikation mit Landesluftfahrtbehörde, BNetzA, BMWK, DLR

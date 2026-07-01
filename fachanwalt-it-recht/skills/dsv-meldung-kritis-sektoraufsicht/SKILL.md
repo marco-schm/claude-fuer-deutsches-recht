@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-kritis-sektoraufsicht
-description: "Steuert die parallele Meldung an Sektoraufsichten neben der Datenschutzaufsicht: Behandelt: § 8b BSIG für KRITIS; NIS-2-Umsetzung mit erweiterten Meldepflichten; BaFin BAIT/MaR"
+description: "Wenn es um Steuert die parallele Meldung an Sektoraufsichten neben der Datenschutzaufsicht in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuert die parallele Meldung an Sektoraufsichten neben der Datenschutzaufsicht

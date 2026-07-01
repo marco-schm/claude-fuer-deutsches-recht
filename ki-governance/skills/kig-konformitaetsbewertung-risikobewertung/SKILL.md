@@ -1,6 +1,6 @@
 ---
 name: kig-konformitaetsbewertung-risikobewertung
-description: "Spezialfall Konformitaetsbewertungsverfahren Hochrisiko-KI Art. 43 AI Act: interne Kontrolle, benannte Stelle, EU-Konformitaetserklaerung, CE-Kennzeichnung. Prüfraster für Anbieter im Ki Governance."
+description: "Wenn es um KIG: Konformitaetsbewertung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # KIG: Konformitaetsbewertung

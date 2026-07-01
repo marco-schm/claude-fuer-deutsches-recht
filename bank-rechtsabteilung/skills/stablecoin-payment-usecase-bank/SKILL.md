@@ -1,6 +1,6 @@
 ---
 name: stablecoin-payment-usecase-bank
-description: "Stablecoin-Zahlungsusecase für Banken prüfen: EMT/ART, E-Geld, Zahlungsdienst, Wallet, Händlerakzeptanz, Reserve, Rücktausch, Sanktionsscreening und Settlement im Bank-Rechtsabteilung."
+description: "Wenn es um Stablecoin Payments in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Stablecoin Payments

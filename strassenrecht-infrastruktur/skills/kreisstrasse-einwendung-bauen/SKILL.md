@@ -1,6 +1,6 @@
 ---
 name: kreisstrasse-einwendung-bauen
-description: "Kreisstraße: Einwendung bauen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kreisstrasse Einwendung Bauen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreisstrasse Einwendung Bauen

@@ -1,6 +1,6 @@
 ---
 name: ins-013-berater-kanzlei-bank
-description: "Steuert Insiderinformationen bei Kanzleien, Investmentbanken, Wirtschaftsprüfern und Due-Diligence-Teams."
+description: "Wenn es um Berater, Kanzlei und Bank in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berater, Kanzlei und Bank

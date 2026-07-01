@@ -1,6 +1,6 @@
 ---
 name: kuendigung-wichtigem-ordentliche
-description: "Ausserordentliche Kündigung eines Franchisevertrags prüfen: wichtiger Grund nach § 314 BGB, Abmahnungserfordernis, Beweisanforderungen und Rechtsfolgen. Typische Kündigungsgründe im Franchiserecht aus Franchisegeber- und Franchisenehmerperspektive im Franchiserecht."
+description: "Wenn es um Franchiserecht: Kündigung aus wichtigem Grund in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Franchiserecht: Kündigung aus wichtigem Grund

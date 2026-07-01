@@ -1,6 +1,6 @@
 ---
 name: cannabis-menge-strafrahmen-routen-sichern
-description: "Cannabis: Menge einordnen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Cannabis Menge Einordnen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cannabis Menge Einordnen

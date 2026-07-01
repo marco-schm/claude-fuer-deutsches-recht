@@ -1,6 +1,6 @@
 ---
 name: drg-neu-018-bgb-inkrafttreten-und-partikularrechtsabloesung
-description: "Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung

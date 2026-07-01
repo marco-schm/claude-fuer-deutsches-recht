@@ -1,6 +1,6 @@
 ---
 name: drg-012-historische-schule-und-pandekten
-description: "Deutsche Rechtsgeschichte: Historische Schule Und Pandekten. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Historische Schule Und Pandekten in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Historische Schule Und Pandekten

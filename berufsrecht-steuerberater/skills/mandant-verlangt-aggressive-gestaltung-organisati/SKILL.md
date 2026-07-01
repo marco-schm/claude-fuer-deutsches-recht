@@ -1,6 +1,6 @@
 ---
 name: mandant-verlangt-aggressive-gestaltung-organisati
-description: "Steuerberater: mandant verlangt aggressive gestaltung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Mandant Verlangt Aggressive Gestaltung Organisati in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: mandant verlangt aggressive gestaltung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

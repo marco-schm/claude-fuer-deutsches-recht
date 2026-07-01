@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-hinweis-auf-heilbaren-fehler
-description: "Hinweis auf einen heilbaren Fehler im Ablehnungs- oder Sanktionsbeschluss als Verteidigungswerkzeug: Statt sofortiger Eskalation eine schriftliche Erinnerun..."
+description: "Wenn es um Strafr Dysfunk Hinweis Auf Heilbaren Fehler in Fachanwalt Strafrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Hinweis auf einen heilbaren Fehler im Ablehnungs- oder Sanktionsbeschluss als Verteidigungswerkzeug

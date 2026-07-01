@@ -1,6 +1,6 @@
 ---
 name: spezial-medizinische-abschiebungshindernisse
-description: "Medizinische Abschiebungshindernisse: Spezial-Skill im Migrationsrecht; prüft qualifiziertes Attest, Behandlung, Reisefähigkeit, Zielstaat; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Medizinische Abschiebungshindernisse in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medizinische Abschiebungshindernisse

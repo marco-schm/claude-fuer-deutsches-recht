@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefung-erstpruefung-und-mandatsziel
-description: "Pruefung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Pruefung: Erstprüfung, Rollenklärung und Mandatsziel in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pruefung: Erstprüfung, Rollenklärung und Mandatsziel

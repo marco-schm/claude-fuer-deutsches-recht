@@ -1,6 +1,6 @@
 ---
 name: inso-p311-aufnahme-des-verfahrens-uber-den-eroffnungsantrag
-description: "§ 311 InsO (Aufnahme des Verfahrens über den Eröffnungsantrag) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 311 InsO (Aufnahme des Verfahrens über den Eröffnungsantrag) im Mandat prüfen..."
+description: "Wenn es um Inso P311 Aufnahme Des Verfahrens Uber Den Eroffnungsantrag in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 311 InsO (Aufnahme des Verfahrens über den Eröffnungsantrag) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

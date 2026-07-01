@@ -1,6 +1,6 @@
 ---
 name: legat-und-fideikommiss
-description: "Römisches Recht: Legat Und Fideikommiss. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Legat Und Fideikommiss in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Legat Und Fideikommiss

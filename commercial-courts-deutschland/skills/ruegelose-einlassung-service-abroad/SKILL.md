@@ -1,6 +1,6 @@
 ---
 name: ruegelose-einlassung-service-abroad
-description: "Warnt vor rügeloser Einlassung: Zuständigkeit, Sprache, Einlassungsfrist, Verteidigungsanzeige, Prozessstrategie und Mandantenfreigabe im Commercial Courts Deutschland."
+description: "Wenn es um Rügelose Einlassung in commercial-courts-deutschland geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rügelose Einlassung

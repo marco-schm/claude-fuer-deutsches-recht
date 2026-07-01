@@ -1,6 +1,6 @@
 ---
 name: wettbewerbsabrede-90a
-description: "Prüft nachvertragliche Wettbewerbsverbote nach § 90a HGB: Voraussetzungen der Wirksamkeit (Schriftform, max. zwei Jahre, Karenzentschädigung mind. 50 Prozent der zuletzt bezogenen Vergütung), Rechtsfolgen bei unwirksamem Verbot, Wahlrecht des Handelsvertreters sowie Abwehr unzumutbarer Klauseln i..."
+description: "Wenn es um Nachvertragliches Wettbewerbsverbot nach Paragraf 90a HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachvertragliches Wettbewerbsverbot nach § 90a HGB

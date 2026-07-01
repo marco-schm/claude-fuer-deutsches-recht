@@ -1,6 +1,6 @@
 ---
 name: bfsg-zeitleiste-ecommerce-checkout-en301549
-description: "Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und Pflichten einfuehrend: Inkrafttreten 28.06.2025, betroffene Produkte (PC, Smartphone, Selbstbedienungsterminal), Dienstleistungen (E-Commerce, E-Books, Bankdienstleistungen, Personenbefoerderung). Pflichten Hersteller, Importeur, Haendler, Die..."
+description: "Wenn es um BFSG: Zeitleiste und Pflichten in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BFSG: Zeitleiste und Pflichten

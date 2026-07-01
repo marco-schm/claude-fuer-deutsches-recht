@@ -1,6 +1,6 @@
 ---
 name: spezial-vermoegensauskunft-zahlen-schwellen-und-berechnung
-description: "Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung

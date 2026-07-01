@@ -1,6 +1,6 @@
 ---
 name: dma-business-user-gatekeeper
-description: "Spezialfall Business-User-Zugang zu Daten und Tools Art. 6 Abs. 9 ff. DMA: Datenportabilitaet in Echtzeit, FRAND-Zugang zu Schnittstellen und Funktionen, Reporting. Prüfraster für Drittanbieter und Verhandlung mit Gatekeeper im Dsa Dma Digitalregulierung."
+description: "Wenn es um DMA: Business-User-Zugang in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DMA: Business-User-Zugang

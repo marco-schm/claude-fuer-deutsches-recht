@@ -1,6 +1,6 @@
 ---
 name: on-prem-lizenzvertrag
-description: "Prüft klassische On-Prem-Lizenzen, Installation, Nutzungsumfang, Wartung, Audit, Updates und Virtualisierung im Softwarerecht De Eu Us."
+description: "Wenn es um On-Premise-Lizenzvertrag in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # On-Premise-Lizenzvertrag

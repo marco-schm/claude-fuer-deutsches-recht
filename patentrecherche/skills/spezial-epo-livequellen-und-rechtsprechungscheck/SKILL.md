@@ -1,6 +1,6 @@
 ---
 name: spezial-epo-livequellen-und-rechtsprechungscheck
-description: "EPO: Livequellen- und Rechtsprechungscheck im Plugin patentrecherche; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um EPO: Livequellen- und Rechtsprechungscheck in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EPO: Livequellen- und Rechtsprechungscheck

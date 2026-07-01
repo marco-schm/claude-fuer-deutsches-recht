@@ -1,6 +1,6 @@
 ---
 name: abfallnachweis-nachwv-api-zugang
-description: "Abfallrechtliche Nachweise: gefährliche Abfälle, eANV, Register, Entsorgungsnachweise, Begleitscheine und Abfallbilanz im Berichtspflichten."
+description: "Wenn es um Abfallnachweis und Entsorgung in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Abfallnachweis und Entsorgung

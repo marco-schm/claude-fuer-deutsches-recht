@@ -1,6 +1,6 @@
 ---
 name: open-operate-reaktion
-description: "Formulare und Portale im gewerblichen Rechtsschutz: Welches Formular wird für welches Verfahren bei DPMA, EUIPO, EPA, BPatG und Gerichten benötigt? Einreichungswege, technische Voraussetzungen und Fehlervermeidung im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Formulare, Portale und Einreichungswege in Plugin: Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Spezial: Formulare, Portale und Einreichungswege

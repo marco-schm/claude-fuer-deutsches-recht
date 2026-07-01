@@ -1,6 +1,6 @@
 ---
 name: lohn-elternzeit-mutterschutz
-description: "Elternzeit Mutterschutz Mutterschaftsgeld Elterngeld lohnrelevant. Anwendungsfall AN-Schwangerschaft Geburt Antrag Mutterschutz Elternzeit Auswirkung auf Lohn SV-Status Steuerprogression. Methodik Prüfung MuschG Beschäftigungsverbot BEEG. Output Lohn-Abrechnung Elternzeit Bescheinigung."
+description: "Wenn es um Elternzeit, Mutterschutz, Mutterschaftsgeld, Elterngeld in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Elternzeit, Mutterschutz, Mutterschaftsgeld, Elterngeld

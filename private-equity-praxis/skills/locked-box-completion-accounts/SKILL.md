@@ -1,6 +1,6 @@
 ---
 name: locked-box-completion-accounts
-description: "Prüft Kaufpreismechanik, Leakage, Permitted Leakage, Net Debt, Working Capital und Streitmechanik im Private Equity Praxis."
+description: "Wenn es um Locked Box und Completion Accounts in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Locked Box und Completion Accounts

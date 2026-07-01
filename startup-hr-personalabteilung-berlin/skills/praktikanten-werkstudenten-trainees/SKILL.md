@@ -1,6 +1,6 @@
 ---
 name: praktikanten-werkstudenten-trainees
-description: "Berliner Start-up-HR: Praktikanten, Werkstudenten und Trainees: Vertragstyp, Vergütung, Arbeitszeit, Lernziel und Status. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Praktikanten Werkstudenten Trainees in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Praktikanten Werkstudenten Trainees

@@ -1,6 +1,6 @@
 ---
 name: spezial-zitate-livequellen-und-rechtsprechungscheck
-description: "Zitate: Livequellen- und Rechtsprechungscheck im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Zitate: Livequellen- und Rechtsprechungscheck in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zitate: Livequellen- und Rechtsprechungscheck

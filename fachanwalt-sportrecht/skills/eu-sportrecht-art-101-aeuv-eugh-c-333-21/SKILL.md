@@ -1,6 +1,6 @@
 ---
 name: eu-sportrecht-art-101-aeuv-eugh-c-333-21
-description: "EU Sportrecht Art 101 Aeuv EuGH C 333 21: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um EU Sportrecht Art 101 Aeuv EuGH C 333 21 in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU Sportrecht Art 101 Aeuv EuGH C 333 21

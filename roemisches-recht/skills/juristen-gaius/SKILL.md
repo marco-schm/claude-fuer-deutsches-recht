@@ -1,6 +1,6 @@
 ---
 name: juristen-gaius
-description: "Römisches Recht: Juristen Gaius. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Juristen Gaius in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Juristen Gaius

@@ -1,6 +1,6 @@
 ---
 name: fahrtkosten-zeugen-pkh-erstattung
-description: "Fahrtkosten Zeugenauslagen und Erstattungen im SG-Verfahren. JVEG für Zeugen Sachverständige und Sie selbst. Praktischer Leitfaden."
+description: "Wenn es um Fahrtkosten und Zeugen-Auslagen erstatten in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fahrtkosten und Zeugen-Auslagen erstatten

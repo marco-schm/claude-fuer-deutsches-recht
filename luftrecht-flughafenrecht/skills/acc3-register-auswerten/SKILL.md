@@ -1,6 +1,6 @@
 ---
 name: acc3-register-auswerten
-description: "Mandant will ACC3-Designierungsstatus und Validierungsstand eines Carriers auswerten. Prüft EU-DVO 2015/1998 EU-Datenbank für ACC3-designierte Carrier RA3/KC3-Status und Validierungsgueltigkeit und liefert Compliance-Status-Bericht im Luftrecht Flughafenrecht."
+description: "Wenn es um ACC3 – Register auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ACC3 – Register auswerten

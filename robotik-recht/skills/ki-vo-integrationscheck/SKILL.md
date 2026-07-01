@@ -1,6 +1,6 @@
 ---
 name: ki-vo-integrationscheck
-description: "Prüft integrierte KI-Systeme, Sicherheitskomponenten, Anhang III, Hochrisiko-Nähe, Anbieter-/Betreiberpflichten und Zweckänderungen."
+description: "Wenn es um europäischer Technikregulierungsrahmen Integrationscheck in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI-VO Integrationscheck

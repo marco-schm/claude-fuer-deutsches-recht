@@ -1,6 +1,6 @@
 ---
 name: va-und-insolvenz-eines-versorgungstraegers
-description: "Familienrechtlicher Skill zu VA und Insolvenz eines Versorgungsträgers: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
+description: "Wenn es um Va Und Insolvenz Eines Versorgungstraegers in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VA und Insolvenz eines Versorgungsträgers: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

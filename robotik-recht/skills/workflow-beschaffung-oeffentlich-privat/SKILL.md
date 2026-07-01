@@ -1,6 +1,6 @@
 ---
 name: workflow-beschaffung-oeffentlich-privat
-description: "Unterstützt Beschaffung von Robotik durch Unternehmen oder öffentliche Hand: Lastenheft, Vergabe, Compliance-Kriterien, Abnahme, Gewährleistung und Exit im Robotik-Recht."
+description: "Wenn es um Beschaffung Robotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Workflow Beschaffung Oeffentlich Privat; Arbeitsfeld: robotik-recht."
 ---
 
 # Beschaffung Robotik

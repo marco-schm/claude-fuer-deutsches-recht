@@ -1,6 +1,6 @@
 ---
 name: space-074-orbit-slot-verwertung-sicherheiten-und-streit
-description: "Weltraumrecht: Orbit Slot Verwertung Sicherheiten und Streit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Orbit Slot Verwertung Sicherheiten und Streit in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Orbit Slot Verwertung Sicherheiten und Streit

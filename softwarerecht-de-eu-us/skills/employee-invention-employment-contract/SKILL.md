@@ -1,6 +1,6 @@
 ---
 name: employee-invention-employment-contract
-description: "Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, PatG und Schnittstelle zu § 69b UrhG im Softwarerecht De Eu Us."
+description: "Wenn es um Arbeitnehmererfindungen und Softwarepatente DE in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitnehmererfindungen und Softwarepatente DE

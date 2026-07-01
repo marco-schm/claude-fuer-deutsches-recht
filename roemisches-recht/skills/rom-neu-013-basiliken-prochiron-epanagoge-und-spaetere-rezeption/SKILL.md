@@ -1,6 +1,6 @@
 ---
 name: rom-neu-013-basiliken-prochiron-epanagoge-und-spaetere-rezeption
-description: "Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption

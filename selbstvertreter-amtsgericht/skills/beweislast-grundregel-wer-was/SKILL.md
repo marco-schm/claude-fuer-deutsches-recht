@@ -1,6 +1,6 @@
 ---
 name: beweislast-grundregel-wer-was
-description: "Grundregel der Beweislast im Zivilprozess. Wer eine Norm zu seinen Gunsten geltend macht muss ihre Voraussetzungen beweisen. Beweislast-Umkehr in Sondernormen Anscheinsbeweis Indizien-Beweis und sekundaere Darlegungslast."
+description: "Wenn es um Wer beweist was? Die Beweislast im Zivilprozess in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Wer beweist was? Die Beweislast im Zivilprozess

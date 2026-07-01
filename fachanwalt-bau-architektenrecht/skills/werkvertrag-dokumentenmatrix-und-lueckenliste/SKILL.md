@@ -1,6 +1,6 @@
 ---
 name: werkvertrag-dokumentenmatrix-und-lueckenliste
-description: "Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung: Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Wenn es um Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Bau Architektenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung

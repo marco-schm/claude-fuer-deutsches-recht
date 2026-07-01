@@ -1,6 +1,6 @@
 ---
 name: anwaelte-vermoegensverfall-und-zulassungswiderruf-kammerantwort
-description: "Anwälte: vermoegensverfall und zulassungswiderruf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Anwaelte Vermoegensverfall Und Zulassungswiderruf Kammerantwort in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Anwälte: vermoegensverfall und zulassungswiderruf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

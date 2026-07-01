@@ -1,6 +1,6 @@
 ---
 name: fuehrt-risikoampel-und-gegenargumente
-description: "Fuehrt: Risikoampel, Gegenargumente und Verteidigungslinien im Hausarbeitenmacher."
+description: "Wenn es um Fuehrt: Risikoampel, Gegenargumente und Verteidigungslinien in hausarbeitenmacher — Didaktisches Plugin für juristische geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fuehrt: Risikoampel, Gegenargumente und Verteidigungslinien

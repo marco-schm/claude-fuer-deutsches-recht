@@ -1,6 +1,6 @@
 ---
 name: spezial-paragraf-dokumentenmatrix-und-lueckenliste
-description: "Paragraf: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Paragraf: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Paragraf: Dokumentenmatrix, Lückenliste und Nachforderung

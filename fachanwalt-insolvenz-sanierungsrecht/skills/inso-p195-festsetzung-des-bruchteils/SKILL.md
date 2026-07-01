@@ -1,6 +1,6 @@
 ---
 name: inso-p195-festsetzung-des-bruchteils
-description: "§ 195 InsO (Festsetzung des Bruchteils) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 195 InsO (Festsetzung des Bruchteils) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge,..."
+description: "Wenn es um Inso P195 Festsetzung Des Bruchteils in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 195 InsO (Festsetzung des Bruchteils) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

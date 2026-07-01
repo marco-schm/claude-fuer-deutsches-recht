@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Nachbarschaftsstreit: trennt fehlende Tatsachen von fehlenden Belegen (Schiedsamtsprotokoll, Lärmaufzeichnung, Lichtbilder Grenzbau), nennt pro Lücke Beweisthema, Beschaffungsweg (Amtsgericht), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

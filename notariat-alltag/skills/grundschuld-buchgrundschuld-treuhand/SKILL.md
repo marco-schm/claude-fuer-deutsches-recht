@@ -1,6 +1,6 @@
 ---
 name: grundschuld-buchgrundschuld-treuhand
-description: "Notariat im Alltag: Grundschuld – Brief- oder Buchgrundschuld, Vollstreckungsunterwerfung und Sicherungszweck. Bestellung, Sicherungsabrede, sofortige Vollstreckungsunterwerfung nach § 794 ZPO und Bankauflagen im Notariat."
+description: "Wenn es um Grundschuld Buchgrundschuld Treuhand in Notariat im Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Notariat im Alltag: Grundschuld – Brief- oder Buchgrundschuld, Unterwerfung, Sicherungszweck

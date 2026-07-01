@@ -1,6 +1,6 @@
 ---
 name: urheberrecht-markenrecht
-description: "IP-Strafanzeigen bei Urheber-, Marken-, Design- und Patentrechtsverletzungen: Strafantrag, Testkauf, Originalitätsnachweis, Zoll im Strafanzeige-Vorbereitung."
+description: "Wenn es um IP-Strafanzeige Urheber/Marke/Design in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # IP-Strafanzeige Urheber/Marke/Design

@@ -1,6 +1,6 @@
 ---
 name: auslaendischer-wehrdienst-und-asyl
-description: "Trennt deutsche KDV von Asyl-, Auslieferungs- und ausländischem Wehrrecht im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Ausländischer Wehrdienst in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausländischer Wehrdienst

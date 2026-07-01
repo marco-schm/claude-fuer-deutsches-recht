@@ -1,6 +1,6 @@
 ---
 name: verleumdung-187
-description: "Prüft § 187 StGB bei bewusst unwahren ehrverletzenden Tatsachenbehauptungen. Fokussiert Wissen um Unwahrheit, Beweisstand, Rufschädigung, Öffentlichkeitswirkung und zivilrechtliche Anschlussrisiken im Meinungspruefer."
+description: "Wenn es um Paragraf 187 StGB - Verleumdung in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 187 StGB - Verleumdung

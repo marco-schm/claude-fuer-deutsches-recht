@@ -1,6 +1,6 @@
 ---
 name: pyramide-check-dsgvo-p2b-anti-steering
-description: "Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU) 2024/1689, NIS-2, DORA, CRA, eIDAS 2.0, DDG, P2B-VO, § 19a GWB. Prüfraster: Akt..."
+description: "Wenn es um Digitalregulierung — Pyramiden-Check in DSA, DMA und Digitalregulierung der EU geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Digitalregulierung — Pyramiden-Check

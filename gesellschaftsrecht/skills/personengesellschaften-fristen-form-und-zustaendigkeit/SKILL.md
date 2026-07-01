@@ -1,6 +1,6 @@
 ---
 name: personengesellschaften-fristen-form-und-zustaendigkeit
-description: "Personengesellschaften: Fristen, Form, Zuständigkeit und Rechtsweg im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht."
+description: "Wenn es um Personengesellschaften: Fristen, Form, Zuständigkeit und Rechtsweg in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Personengesellschaften: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: rabatte-maengelexemplar
-description: "Buchpreisbindungsgesetz: Rabatte an Bibliotheken, Schulen, Bundleangebote und Serienpreise — BuchPrG §§ 5–6 und Sonderkonditionenpraxis im deutschen Buchhandel im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-010 · Rabatte, Bibliotheken, Schulen, Bundles und Serien in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-010 · Rabatte, Bibliotheken, Schulen, Bundles und Serien

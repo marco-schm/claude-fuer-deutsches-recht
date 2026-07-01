@@ -1,6 +1,6 @@
 ---
 name: schriftsatz-verhandlung-vergleich
-description: "Schriftsatz: Verhandlung, Vergleich und Eskalation: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
+description: "Wenn es um Schriftsatz: Verhandlung, Vergleich und Eskalation in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schriftsatz: Verhandlung, Vergleich und Eskalation

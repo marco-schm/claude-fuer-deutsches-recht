@@ -1,6 +1,6 @@
 ---
 name: hinweisgeberschutz-jahresreport-idev
-description: "Hinweisgeberstelle: Fallregister, Rückmeldefristen, Vertraulichkeit, Maßnahmen, Statistik und Geschäftsleitungsreport im Berichtspflichten."
+description: "Wenn es um HinSchG Reporting und Fallregister in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # HinSchG Reporting und Fallregister

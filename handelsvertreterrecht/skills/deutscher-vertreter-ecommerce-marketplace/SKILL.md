@@ -1,6 +1,6 @@
 ---
 name: deutscher-vertreter-ecommerce-marketplace
-description: "Unterstützt deutsche Handelsvertreter, die für ausländische Unternehmer tätig sind: anwendbares Recht nach Rom-I-VO, Schutz durch § 92c HGB und RL 86/653/EWG auch bei ausländischer Rechtswahl, Gerichtsstand in Deutschland und Durchsetzung von Ausgleichsansprüchen gegen ausländische Unternehmer im..."
+description: "Wenn es um Deutscher Handelsvertreter für ausländischen Unternehmer — Rechtsschutz und Gerichtsstand in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutscher Handelsvertreter für ausländischen Unternehmer — Rechtsschutz und Gerichtsstand

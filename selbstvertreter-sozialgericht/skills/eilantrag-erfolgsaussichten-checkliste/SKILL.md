@@ -1,6 +1,6 @@
 ---
 name: eilantrag-erfolgsaussichten-checkliste
-description: "Checkliste zur Beurteilung Ihrer Eilantrags-Chancen vor dem Sozialgericht. Anordnungsanspruch und Anordnungsgrund Glaubhaftmachung typische Stolpersteine."
+description: "Wenn es um Werden Sie mit dem Eilantrag Erfolg haben? — Checkliste in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Werden Sie mit dem Eilantrag Erfolg haben? — Checkliste

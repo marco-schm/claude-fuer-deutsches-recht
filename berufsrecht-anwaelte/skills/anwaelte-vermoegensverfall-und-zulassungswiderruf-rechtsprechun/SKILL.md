@@ -1,6 +1,6 @@
 ---
 name: anwaelte-vermoegensverfall-und-zulassungswiderruf-rechtsprechun
-description: "Anwälte: vermoegensverfall und zulassungswiderruf - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Anwaelte Vermoegensverfall Und Zulassungswiderruf Rechtsprechun in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Anwälte: vermoegensverfall und zulassungswiderruf - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

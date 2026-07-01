@@ -1,6 +1,6 @@
 ---
 name: lp-transfer-und-secondary
-description: "Begleitet die Übertragung von Fondsanteilen, Zustimmungserfordernisse, KYC-Neuaufnahme und Käufer-DD im Private Equity Praxis."
+description: "Wenn es um LP-Transfer und Secondary Interest Sale in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LP-Transfer und Secondary Interest Sale

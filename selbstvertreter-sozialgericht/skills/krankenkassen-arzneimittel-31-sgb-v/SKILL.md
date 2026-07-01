@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-arzneimittel-31-sgb-v
-description: "Krankenkassen-Arzneimittel nach § 31 SGB V. Skill klaert die Arzneimittelversorgung Erstattung Rezeptgebuehr Festbetrag verschreibungspflichtige vs. apothekenpflichtige Arzneimittel Off-Label-Use und die Notwendigkeit von individueller Erstattung. Liefert Prüfraster."
+description: "Wenn es um Krankenkassen Arzneimittel 31 Sgb V in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenkassen Arzneimittel 31 Sgb V

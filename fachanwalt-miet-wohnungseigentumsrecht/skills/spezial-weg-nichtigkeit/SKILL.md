@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-nichtigkeit
-description: "WEG Nichtigkeit: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft besonders schwere Mängel, Kompetenzüberschreitung, Bestimmtheit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um WEG Nichtigkeit in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Nichtigkeit

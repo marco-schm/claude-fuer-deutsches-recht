@@ -1,6 +1,6 @@
 ---
 name: inso-p269g-vergutung-des-verfahrenskoordinators
-description: "§ 269g InsO (Vergütung des Verfahrenskoordinators) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 269g InsO (Vergütung des Verfahrenskoordinators) im Mandat prüfen: Normzweck, Tatbestand,..."
+description: "Wenn es um Inso P269g Vergutung Des Verfahrenskoordinators in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 269g InsO (Vergütung des Verfahrenskoordinators) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

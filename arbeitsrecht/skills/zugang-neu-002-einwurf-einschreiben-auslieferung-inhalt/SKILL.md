@@ -1,6 +1,6 @@
 ---
 name: zugang-neu-002-einwurf-einschreiben-auslieferung-inhalt
-description: "Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand in Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand

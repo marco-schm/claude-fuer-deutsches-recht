@@ -1,6 +1,6 @@
 ---
 name: oepp-struktur-pruefen
-description: "Öffentliches Wirtschaftsrecht: ÖPP-Struktur prüfen. ÖPP-Struktur prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht."
+description: "Wenn es um Oepp Struktur Prüfen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Oepp Struktur Prüfen

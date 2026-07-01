@@ -1,6 +1,6 @@
 ---
 name: satellitenkampagne-durch
-description: "Wahlkampfrecht Praxis: Satellitenkampagne eines Vereins oder Dritten auf Zurechnung und Spendenrecht prüfen im Wahlkampfrecht."
+description: "Wenn es um Satellitenkampagne Durch Verein in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Satellitenkampagne Durch Verein

@@ -1,6 +1,6 @@
 ---
 name: zeugenentschaedigung-dokumentenmatrix-und-lueckenliste
-description: "Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung: Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Wenn es um Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung in JVEG-Kostenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung

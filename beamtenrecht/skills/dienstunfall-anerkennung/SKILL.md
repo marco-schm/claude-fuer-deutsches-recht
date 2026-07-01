@@ -1,6 +1,6 @@
 ---
 name: dienstunfall-anerkennung
-description: "Dienstunfall, Wegeunfall, psychische Dienstunfallfolgen und Unfallfürsorge im Beamtenrecht."
+description: "Wenn es um Dienstunfall Anerkennung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dienstunfall Anerkennung

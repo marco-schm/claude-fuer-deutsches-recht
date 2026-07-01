@@ -1,6 +1,6 @@
 ---
 name: ausnahmen-aussergewoehnliche-umstaende-02
-description: "Prüfungslinie für ausnahmen aussergewoehnliche umstaende prüfen im Fluggastrechte."
+description: "Wenn es um Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004) in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ausnahmen Aussergewoehnliche Umstaende 02; Arbeitsfeld: Fluggastrechte."
 ---
 
 # Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004)

@@ -1,6 +1,6 @@
 ---
 name: risikoampel-gegenargumente
-description: "Leichte: Risikoampel, Gegenargumente und Verteidigungslinien im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfah..."
+description: "Wenn es um Leichte: Risikoampel, Gegenargumente und Verteidigungslinien in Einfache und Leichte Sprache für juristische Texte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Risikoampel Gegenargumente; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
 ---
 
 # Leichte: Risikoampel, Gegenargumente und Verteidigungslinien

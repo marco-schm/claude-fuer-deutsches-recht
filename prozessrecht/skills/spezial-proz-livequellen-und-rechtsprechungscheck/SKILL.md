@@ -1,6 +1,6 @@
 ---
 name: spezial-proz-livequellen-und-rechtsprechungscheck
-description: "Proz: Livequellen- und Rechtsprechungscheck im Plugin prozessrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Proz: Livequellen- und Rechtsprechungscheck in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Proz: Livequellen- und Rechtsprechungscheck

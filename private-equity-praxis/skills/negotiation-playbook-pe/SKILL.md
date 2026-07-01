@@ -1,6 +1,6 @@
 ---
 name: negotiation-playbook-pe
-description: "Erstellt Verhandlungspositionen, Fallbacks, Red Lines und Commercial-Risk-Trade-offs im Private Equity Praxis."
+description: "Wenn es um Negotiation Playbook PE in Private Equity Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Negotiation Playbook PE

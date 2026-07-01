@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-konformitaet-formular-portal-einreichungslogik
-description: "Konformitaet: Formular, Portal und Einreichungslogik: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstu..."
+description: "Wenn es um Konformitaet: Formular, Portal und Einreichungslogik in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Konformitaet Formular Portal Einreichungslogik; Arbeitsfeld: E-Mail-Umformulierer."
 ---
 
 # Konformitaet: Formular, Portal und Einreichungslogik

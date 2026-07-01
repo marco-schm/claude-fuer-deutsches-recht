@@ -1,6 +1,6 @@
 ---
 name: ransomware-verhandlungsverbot-remote-access
-description: "Prüft Ransomware-Entscheidungen und Grenzen von Zahlungen im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Ransomware Verhandlungsverbot in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Ransomware Verhandlungsverbot

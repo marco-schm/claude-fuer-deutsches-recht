@@ -1,6 +1,6 @@
 ---
 name: audiovisuelle-leitentscheidungen-sammlung
-description: Kuratierte Quellenkarte zu frei prüfbaren audiovisuellen und amtlichen Materialien zu Leitentscheidungen des Bundesverfassungsgerichts. Keine behaupteten Mitschnitte ohne Permalink; jede Fundstelle braucht Gericht, Datum, Aktenzeichen und stabile Quelle.
+description: "Wenn es um Audiovisuelle Leitentscheidungen Sammlung in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Audiovisuelle Leitentscheidungen Sammlung

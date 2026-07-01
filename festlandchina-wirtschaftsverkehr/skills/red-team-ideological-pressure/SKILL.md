@@ -1,6 +1,6 @@
 ---
 name: red-team-ideological-pressure
-description: "'Red-Team-Analyse ideologischer Drucksituationen im China-Geschäft: CCP-Zellenpräsenz, Markennamen-/Kartographiepolitik (Taiwan als Teil Chinas), Mitarbeiterloyalitäts-Anforderungen, Anti-Sanktions-Gesetz CN 2021 Gegenmaßnahmen, Abgrenzung Compliance vs. Konformitätsdruck. Output: Red-Team-Beric..."
+description: "Wenn es um Red-Team: Ideologischer Druck auf Unternehmen in VR China in China-Wirtschaftsverkehr geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team: Ideologischer Druck auf Unternehmen in VR China

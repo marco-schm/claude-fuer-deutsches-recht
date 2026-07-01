@@ -1,6 +1,6 @@
 ---
 name: mitnutzung-gebaeude-netze
-description: "Mitnutzung von Gebäudenetzen, Leerrohren, Masten, Schächten und passiver Infrastruktur im Telekommunikationsrecht."
+description: "Wenn es um Mitnutzung von Gebäudenetzen und passiver Infrastruktur in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mitnutzung von Gebäudenetzen und passiver Infrastruktur

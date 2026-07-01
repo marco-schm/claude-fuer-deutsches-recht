@@ -1,6 +1,6 @@
 ---
 name: bmftr-kuenstliche-intelligenz
-description: "Sachbereich Kuenstliche Intelligenz und Technikregulierung im Geschäftsbereich BMFTR: Normbestand (KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.); Akteure (BSI; Marktueberwachung der Länder; BNetzA; ggf. KI-Marktaufsicht.); EU-Bezug (KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.);"
+description: "Wenn es um Kuenstliche Intelligenz und Technikregulierung (BMFTR) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmftr Kuenstliche Intelligenz; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Kuenstliche Intelligenz und Technikregulierung (BMFTR)

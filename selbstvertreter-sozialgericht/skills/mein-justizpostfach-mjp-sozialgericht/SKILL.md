@@ -1,6 +1,6 @@
 ---
 name: mein-justizpostfach-mjp-sozialgericht
-description: "Mein Justizpostfach (MJP) für Buerger seit 2024. Online-Einreichung von Klagen und Schriftsaetzen beim Sozialgericht. Anmeldung Identifikation PDF-Anlagen Sicherheit."
+description: "Wenn es um Mein Justizpostfach — digitale Einreichung beim SG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mein Justizpostfach — digitale Einreichung beim SG

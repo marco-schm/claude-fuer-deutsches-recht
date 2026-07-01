@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-erkennung
-description: "Unterscheidet qualifiziertes Endzeugnis einfaches Zeugnis Zwischenzeugnis und Ausbildungszeugnis am Beginn jeder Analyse. Anwendungsfall Zeugnis liegt vor und muss bevor Analyse startet der richtigen Zeugnisart zugeordnet werden. Normen Paragraf 109 GewO qualifiziertes vs. einfaches Zeugnis Paragraf 16 BBiG Ausbildungszeugnis. Prüfraster Inhalt Zeitbezug Position Stichtag Ausstellungsanlass. Output Zeugnisart-Klassifikation mit Erlauterungen zu Inhalt Erwartungshaltung und Interpretationsrahmen für alle Folge-Skills. Abgrenzung zu zeugnis-überblick-extraktion (Kopfdaten) und notenrelevante-saetze-identifizieren."
+description: "Wenn es um Zeugnisart-Erkennung in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zeugnisart-Erkennung

@@ -1,6 +1,6 @@
 ---
 name: hoeferecht-fristen-form-und-zustaendigkeit
-description: "Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg: Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Wenn es um Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg

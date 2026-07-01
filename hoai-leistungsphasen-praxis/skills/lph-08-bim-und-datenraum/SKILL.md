@@ -1,6 +1,6 @@
 ---
 name: lph-08-bim-und-datenraum
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen P..."
+description: "Wenn es um LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Ordnet digitale modelle in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Ordnet digitale modelle

@@ -1,6 +1,6 @@
 ---
 name: spezial-gruen-red-team-und-qualitaetskontrolle
-description: "Gruen: Red-Team und Qualitätskontrolle im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Gruen: Red-Team und Qualitätskontrolle in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gruen: Red-Team und Qualitätskontrolle

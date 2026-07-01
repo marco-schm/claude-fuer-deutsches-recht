@@ -1,6 +1,6 @@
 ---
 name: ins-024-covenant-breach
-description: "Spezialskill Insiderrecht fuer Covenant Breach: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Covenant Breach in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Covenant Breach

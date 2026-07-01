@@ -1,6 +1,6 @@
 ---
 name: klausel-lizenzgegenstand-und-anlage-ip-liste
-description: "Klausel Lizenzgegenstand mit Anlage A (IP-Liste): pro IP-Typ Identifikation, Schutzrechtsregister-Nummern, Schutzgebiete, Lebensdauer, Belastungen; mit Praezisierungstechniken (Patente per Anspruch, Marken per Nizza-Klasse, Software per Repository-Hash)."
+description: "Wenn es um Klausel Lizenzgegenstand + Anlage A in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Klausel Lizenzgegenstand + Anlage A

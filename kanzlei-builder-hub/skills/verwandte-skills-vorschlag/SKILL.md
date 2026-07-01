@@ -1,6 +1,6 @@
 ---
 name: verwandte-skills-vorschlag
-description: "Verwandte Skills zu einem Mandat oder Rechtsproblem vorschlagen: Ergaenzungsempfehlungen. Normen: technisch/intern. Prüfraster: Rechtsgebiet, Verfahrensphase, Mandantentyp. Output: Vorschlagsliste verwandter Skills. Abgrenzung: nicht Kommandocenter-Navigation."
+description: "Wenn es um /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung

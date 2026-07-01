@@ -1,6 +1,6 @@
 ---
 name: inso-p003b-fortbestehen-des-gruppen-gerichtsstands
-description: "§ 3b InsO (Fortbestehen des Gruppen-Gerichtsstands) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 3b InsO (Fortbestehen des Gruppen-Gerichtsstands) im Mandat prüfen: Normzweck, Tatbestan..."
+description: "Wenn es um Inso P003b Fortbestehen Des Gruppen Gerichtsstands in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 3b InsO (Fortbestehen des Gruppen-Gerichtsstands) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

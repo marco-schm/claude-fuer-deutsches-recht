@@ -1,6 +1,6 @@
 ---
 name: schoeffe-polizeizeuge-orientierung-sitzung
-description: "Polizeizeuge würdigen (Orientierung): hilft ehrenamtlichen Richtern bei Routineaussagen, Erinnerungsstützen, Einsatzberichte und Glaubhaftigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Polizeizeuge würdigen: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Polizeizeuge würdigen: Orientierung

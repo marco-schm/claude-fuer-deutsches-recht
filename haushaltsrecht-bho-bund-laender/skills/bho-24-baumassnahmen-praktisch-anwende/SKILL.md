@@ -1,6 +1,6 @@
 ---
 name: bho-24-baumassnahmen-praktisch-anwende
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 24 Baumaßnahmen praktisch anwenden. BHO § 24 Baumaßnahmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die..."
+description: "Wenn es um Bho 24 Baumassnahmen Praktisch Anwende in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 24 Baumassnahmen Praktisch Anwende

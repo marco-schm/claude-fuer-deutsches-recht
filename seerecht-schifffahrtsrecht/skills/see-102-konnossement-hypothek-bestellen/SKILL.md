@@ -1,6 +1,6 @@
 ---
 name: see-102-konnossement-hypothek-bestellen
-description: "See- und Schifffahrtsrecht: Konnossement: Hypothek bestellen. Hypothek bestellen für Konnossement im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Konnossement Hypothek Bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konnossement Hypothek Bestellen

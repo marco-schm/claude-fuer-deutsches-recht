@@ -1,6 +1,6 @@
 ---
 name: stv-078-lieferzone-behoerde-anschreiben
-description: "Straßenverkehrsrecht StVO: Lieferzone: Behörde anschreiben. Behörde anschreiben für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Lieferzone Behoerde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lieferzone Behoerde Anschreiben

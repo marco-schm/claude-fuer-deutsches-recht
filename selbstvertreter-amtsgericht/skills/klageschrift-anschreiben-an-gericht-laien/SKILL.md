@@ -1,6 +1,6 @@
 ---
 name: klageschrift-anschreiben-an-gericht-laien
-description: "Anschreiben Anrede und Form für Klage und sonstige Schriftsaetze an das Amtsgericht. Hoeflichkeitsform Gericht-Ansprache Aktenzeichen Briefkopf und uebliche Schlussformeln aus der Perspektive eines Selbstvertreters."
+description: "Wenn es um Wie schreibe ich foermlich ans Amtsgericht? in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Wie schreibe ich foermlich ans Amtsgericht?

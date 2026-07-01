@@ -1,6 +1,6 @@
 ---
 name: gewr-einstweilige-verfuegung-eilverfahren-spezial
-description: "Spezialfall einstweilige Verfuegung im UWG / Markenrecht: Dringlichkeitsvermutung § 12 Abs. 2 UWG, Selbstwiderlegung, Schutzschrift. Pruefraster fuer Verfuegungs- und Antragsgegnerseite."
+description: "Wenn es um GewR: EV Eilverfahren in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GewR: EV Eilverfahren

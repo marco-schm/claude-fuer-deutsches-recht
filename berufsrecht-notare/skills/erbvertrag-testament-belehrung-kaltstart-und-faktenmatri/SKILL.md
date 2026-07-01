@@ -1,6 +1,6 @@
 ---
 name: erbvertrag-testament-belehrung-kaltstart-und-faktenmatri
-description: "Notare: erbvertrag testament belehrung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Erbvertrag Testament Belehrung Kaltstart Und Faktenmatri in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: erbvertrag testament belehrung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

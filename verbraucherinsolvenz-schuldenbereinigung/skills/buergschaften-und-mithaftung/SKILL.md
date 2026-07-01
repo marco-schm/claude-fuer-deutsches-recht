@@ -1,6 +1,6 @@
 ---
 name: buergschaften-und-mithaftung
-description: "Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress: Normanker: BGB §§ 765 ff., 138; InsO Forderungsprüfung; liefert konkr..."
+description: "Wenn es um Buergschaften Und Mithaftung in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.

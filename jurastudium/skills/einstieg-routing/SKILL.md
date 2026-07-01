@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Jurastudium (Klausur, AG, Examen): ordnet Rolle (Studentenr, Repetitor, Korrektor), markiert Frist (Klausurzeit), wählt Norm (BGB, StGB, GG, ZPO/StPO/VwGO) und Zuständigkeit (Universität), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Jurastudium geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

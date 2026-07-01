@@ -1,6 +1,6 @@
 ---
 name: agio-und-kapitalruecklage
-description: "Echtes (korporatives) und unechtes (schuldrechtliches) Agio in der GmbH bei Gründung und Kapitalerhöhung; Paragraf 3 Abs. 2 GmbHG als Anker; Paragraf 272 Abs. 2 Nr. 1 vs. Nr. 4 HGB; Sachagio im Rahmen des qualifizierten Anteilstauschs nach Paragraf 21 UmwStG; steuerliches Einlagekonto Paragraf 27 KStG; Differenzierung nach..."
+description: "Wenn es um Agio und Kapitalrücklage in der GmbH in Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Agio und Kapitalrücklage in der GmbH

@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren: § 14 MarkenG § 139 PatG § 8 UWG §§ 253 286 ZPO. Prüfraster: Anspruchsgrundlage Sachverhalt Beweisangebo..."
+description: "Wenn es um Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren

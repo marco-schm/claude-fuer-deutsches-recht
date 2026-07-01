@@ -1,6 +1,6 @@
 ---
 name: dokumentationsakte-revisionsspur-drehtuer
-description: "Baut Aktenstruktur für Belege, Freigaben, Portal-Screenshots, Kontaktlogs, Kostenmethodik, RfS-Kommunikation und Jahresupdates. Output Aktenplan im Lobbyregister Bundestag."
+description: "Wenn es um Dokumentationsakte und Revisionsspur in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Dokumentationsakte und Revisionsspur

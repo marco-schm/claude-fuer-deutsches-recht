@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-001-normnavigator-jede-pralr-norm-karte-erschliessen
-description: "PrALR: Normnavigator jede PrALR-Norm als Karte erschließen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um PrALR: Normnavigator jede PrALR-Norm als Karte erschließen in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PrALR: Normnavigator jede PrALR-Norm als Karte erschließen

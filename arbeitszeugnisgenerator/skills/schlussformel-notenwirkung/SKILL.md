@@ -1,6 +1,6 @@
 ---
 name: schlussformel-notenwirkung
-description: "Ordnet jede Schlussformel-Variante der entsprechenden Notenwirkung im Bewerbungsverkehr zu. Die Schlussformel hat keine eigenständige Klagbarkeit, aber eine klare Signalwirkung. Tabelle mit allen relevanten Kombination von Bausteinen und ihrer Signalwirkung sowie Hinweise auf Widersprüche zwischen Hauptnote und Schlussformel."
+description: "Wenn es um Schlussformel-Notenwirkung in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schlussformel-Notenwirkung

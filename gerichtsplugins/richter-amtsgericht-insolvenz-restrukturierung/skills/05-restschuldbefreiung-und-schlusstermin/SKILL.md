@@ -1,6 +1,6 @@
 ---
 name: 05-restschuldbefreiung-und-schlusstermin
-description: "Schlusstermin Paragraf 197 InsO, Schlussverteilung, Restschuldbefreiungsverfahren Paragrafen 286 ff. InsO, Versagungsgründe Paragraf 290, Obliegenheiten Paragraf 295"
+description: "Wenn es um 05 Restschuldbefreiung und Schlusstermin in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 05 Restschuldbefreiung und Schlusstermin

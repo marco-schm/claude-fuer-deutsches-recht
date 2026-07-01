@@ -1,6 +1,6 @@
 ---
 name: first-day-motions
-description: "Prüft first-day relief: cash management, wages, taxes, insurance, utilities, cash collateral, DIP, critical vendors im US Bankruptcy Code."
+description: "Wenn es um First-Day Motions in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # First-Day Motions

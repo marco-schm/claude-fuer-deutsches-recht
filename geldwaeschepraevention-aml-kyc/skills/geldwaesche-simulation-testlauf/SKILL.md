@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-simulation-testlauf
-description: "Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verdachtsprüfung und Behördenfragen. Anwendungsfall Team will GwG-Workflows trainieren oder Plugin demonstrieren. Deckt Onboarding Alert UBO-Luecke Sanktionshit Verdachtsprüfung Schulung und Behördenfrage ab. Output Simulationsprotokol..."
+description: "Wenn es um AML/KYC-Simulationsmodus in Geldwäscheprävention, AML und KYC geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # AML/KYC-Simulationsmodus

@@ -1,6 +1,6 @@
 ---
 name: tier-016-tiertransport-pruefen
-description: "Tierschutzrecht: Tiertransport prüfen. Tiertransport prüfen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Tiertransport Pruefen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tiertransport Pruefen

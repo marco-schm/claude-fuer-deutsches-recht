@@ -1,6 +1,6 @@
 ---
 name: recherche-zahlen-schwellen-und-berechnung
-description: "Recherche: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Recherche: Zahlen, Schwellenwerte und Berechnung in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Recherche: Zahlen, Schwellenwerte und Berechnung

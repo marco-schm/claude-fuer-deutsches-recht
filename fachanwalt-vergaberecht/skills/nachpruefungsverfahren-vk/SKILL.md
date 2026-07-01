@@ -1,6 +1,6 @@
 ---
 name: nachpruefungsverfahren-vk
-description: "Vergabekammerverfahren operativ führen: Zulässigkeit, Rügepräklusion, Zuschlagsverbot, Akteneinsicht, Aufklärung, mündliche Verhandlung, Abhilfe nach § 168 GWB, Kosten und OLG-Beschwerde nach §§ 171 bis 173 GWB in einen verwertbaren Schriftsatz- und Fristenplan bringen."
+description: "Wenn es um Vergabekammerverfahren operativ führen in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vergabekammerverfahren operativ führen

@@ -1,6 +1,6 @@
 ---
 name: unter-tatbestand-beweis-und-belege
-description: "Unter: Tatbestandsmerkmale, Beweisfragen und Beleglage im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Unter: Tatbestandsmerkmale, Beweisfragen und Beleglage in verfassungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Unter: Tatbestandsmerkmale, Beweisfragen und Beleglage

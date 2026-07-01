@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-bond-restructuring
-description: "Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellschaften. Behandelt die Besonderheiten der Anleihegläubiger-Strukturen, das Schuldverschreibungsgesetz, Mehrheitsentscheidungen der Anleihegläubigerversammlung, Lock-up Agreements, Schemes of Arrangement nach englischem Recht und die..."
+description: "Wenn es um Sanierungsgewinn – Bond Restructuring und Finanzgesellschaften in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsgewinn – Bond Restructuring und Finanzgesellschaften

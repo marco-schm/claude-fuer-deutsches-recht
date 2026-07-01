@@ -1,6 +1,6 @@
 ---
 name: drucke-pauli-decker-nauck
-description: "PrALR: Drucke, Verleger, Schriftarten, Bandzählungen und bibliographische Identität vorsichtig unterscheiden."
+description: "Wenn es um Drucke und Verleger in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Drucke Pauli Decker Nauck; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Drucke und Verleger

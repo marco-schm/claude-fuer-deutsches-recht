@@ -1,6 +1,6 @@
 ---
 name: inv-041-gdpr-fine-parallel
-description: "Spezialskill fuer GDPR Fine Parallel: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: GDPR Fine Parallel in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internal Investigation: GDPR Fine Parallel

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-btmg-30a-schwerer-bandenhandel
-description: "§ 30a BtMG: schwerer Banden- und bewaffneter Handel: Verbrechen mit fuenf Jahren Mindeststrafe. Abs. 1 Bandenhandel mit nicht geringer Menge. Abs. 2 Schusswaffe oder gefaehrliche Werkzeuge. Minder schwere..."
+description: "Wenn es um Paragraf 30a BtMG: schwerer Banden- und bewaffneter Handel in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 30a BtMG: schwerer Banden- und bewaffneter Handel

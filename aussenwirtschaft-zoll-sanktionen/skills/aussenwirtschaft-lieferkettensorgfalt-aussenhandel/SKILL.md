@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-lieferkettensorgfalt-aussenhandel
-description: "Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach LkSG und EU-Lieferkettengesetz (CSDDD): Risikoanalyse im Aussenhandel, Menschenrechtspruefung bei Importguetererzeugern, Sanktions-Ueberschneidungen mit LkSG-Pflichten und Dokumentationsanforderungen. Output: LkSG-Risikomatrix für Im..."
+description: "Wenn es um Lieferkettensorgfaltspflichten im Aussenhandel: LkSG und CSDDD in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Lieferkettensorgfaltspflichten im Aussenhandel: LkSG und CSDDD

@@ -1,6 +1,6 @@
 ---
 name: register-gutachten-klage
-description: "Erstellt Registeranmeldungsskizze, Gutachten, Klagebaustein, Rügebrief, Protokoll oder Mandantenbrief."
+description: "Wenn es um Output Register/Gutachten/Klage in Handelsrecht HGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Output Register/Gutachten/Klage

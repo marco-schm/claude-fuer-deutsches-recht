@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Internationales Wirtschaftsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Internationaler Vertrag, Schiedsklage, Choice-of-law-Klausel), nennt pro Lücke Beweisthema, Beschaffungsweg (Schiedsgerichte (DIS, ICC)), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Internationales Wirtschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: stellungnahmen-beweislast-und-darlegungslast
-description: "Stellungnahmen: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Stellungnahmen: Beweislast, Darlegungslast und Substantiierung in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stellungnahmen: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: ins-003-ad-hoc-art17
-description: "Fuehrt durch Ad-hoc-Pflicht, Zeitpunkt, Inhalt, Verbreitung, Website, Sprachfassung und Dokumentation."
+description: "Wenn es um Ad-hoc-Publizität Art. 17 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ad-hoc-Publizität Art. 17 MAR

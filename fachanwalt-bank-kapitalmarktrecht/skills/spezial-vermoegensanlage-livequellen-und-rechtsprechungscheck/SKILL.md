@@ -1,6 +1,6 @@
 ---
 name: spezial-vermoegensanlage-livequellen-und-rechtsprechungscheck
-description: "Vermoegensanlage: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Vermoegensanlage: Livequellen- und Rechtsprechungscheck in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vermoegensanlage: Livequellen- und Rechtsprechungscheck

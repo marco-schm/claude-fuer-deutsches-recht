@@ -1,6 +1,6 @@
 ---
 name: rom-neu-019-ius-commune-lokale-statuten-und-gelehrtes-recht
-description: "Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht

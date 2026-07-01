@@ -1,6 +1,6 @@
 ---
 name: coach-trainer-program-drittpersonal-security
-description: "Prüft Coaches, Trainer, Seminarleiter und Corporate Learning mit Vorgaben, Materialien und eigener Marktstellung im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Coach Trainer Seminarleiter in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Coach Trainer Seminarleiter

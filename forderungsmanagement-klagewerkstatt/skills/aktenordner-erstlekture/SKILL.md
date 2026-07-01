@@ -1,6 +1,6 @@
 ---
 name: aktenordner-erstlekture
-description: "Aktenordner-Erstlektüre fuer Forderungsakten: liest zuerst vorhandene Dokumente, Dateinamen und sichtbare Aktenlogik, rekonstruiert Parteien, Forderung, Zahlungen, Mahnstand, Fristen und naechsten Prozessschritt und fragt danach nur noch gezielte Luecken ab."
+description: "Wenn es um Aktenordner-Erstlektüre in Forderungsmanagement — Klagewerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aktenordner-Erstlektüre

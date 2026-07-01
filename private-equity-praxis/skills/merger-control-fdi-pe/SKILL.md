@@ -1,6 +1,6 @@
 ---
 name: merger-control-fdi-pe
-description: "Prüft GWB/FKVO/AWV-Anmeldepflichten, Vollzugsverbot, Gun Jumping und Multi-Jurisdiction-Filings im Private Equity Praxis."
+description: "Wenn es um Fusionskontrolle und FDI für PE in Private Equity Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fusionskontrolle und FDI für PE

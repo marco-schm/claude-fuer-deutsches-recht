@@ -1,6 +1,6 @@
 ---
 name: ausgleich-internationaler-bezug-und-schnittstellen
-description: "Ausgleich: Internationaler Bezug und Schnittstellen im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Ausgleich: Internationaler Bezug und Schnittstellen in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ausgleich Internationaler Bezug Und Schnittstellen; Arbeitsfeld: Fluggastrechte."
 ---
 
 # Ausgleich: Internationaler Bezug und Schnittstellen

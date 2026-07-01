@@ -1,6 +1,6 @@
 ---
 name: dora-finanzsektor-abgrenzung
-description: "Grenzt NIS-2 zu DORA bei Banken, Zahlungsdiensten und IKT-Drittparteien ab im Nis2 Cybersecurity Compliance."
+description: "Wenn es um DORA Finanzsektor Abgrenzung in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DORA Finanzsektor Abgrenzung

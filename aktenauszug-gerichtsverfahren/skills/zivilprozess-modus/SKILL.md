@@ -1,6 +1,6 @@
 ---
 name: zivilprozess-modus
-description: "Aktenauszug für ZPO-Verfahren erstellen: ordentliche Klage muendliche Verhandlung Berufung §§ 511 ff: ZPO Revision §§ 542 ff. ZPO einstweilige Verfuegung §..."
+description: "Wenn es um Zivilprozess Modus in aktenauszug-gerichtsverfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Aktenauszug für ZPO-Verfahren erstellen: ordentliche Klage muendliche Verhandlung Berufung §§ 511 ff

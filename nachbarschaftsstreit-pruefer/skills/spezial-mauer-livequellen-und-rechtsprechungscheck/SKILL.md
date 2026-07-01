@@ -1,6 +1,6 @@
 ---
 name: spezial-mauer-livequellen-und-rechtsprechungscheck
-description: "Mauer: Livequellen- und Rechtsprechungscheck im Plugin nachbarschaftsstreit pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Mauer: Livequellen- und Rechtsprechungscheck in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mauer: Livequellen- und Rechtsprechungscheck

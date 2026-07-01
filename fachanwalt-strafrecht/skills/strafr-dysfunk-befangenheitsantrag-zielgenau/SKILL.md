@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-befangenheitsantrag-zielgenau
-description: "Befangenheitsantrag nach § 24 StPO zielgenau formulieren ohne sich dem Vorwurf der Konflikt- oder dysfunktionalen Verteidigung auszusetzen: Befangenheitsantrag nach § 24 StPO zielgenau formulieren ohne sich dem Vorwurf der Konflikt- oder dysfunktionalen Ver..."
+description: "Wenn es um Strafr Dysfunk Befangenheitsantrag Zielgenau in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Befangenheitsantrag nach § 24 StPO zielgenau formulieren ohne sich dem Vorwurf der Konflikt- oder dysfunktionalen Verteidigung auszusetzen

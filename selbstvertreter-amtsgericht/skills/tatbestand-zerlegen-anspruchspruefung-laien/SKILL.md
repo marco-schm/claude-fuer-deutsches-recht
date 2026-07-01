@@ -1,6 +1,6 @@
 ---
 name: tatbestand-zerlegen-anspruchspruefung-laien
-description: "Den Tatbestand einer Anspruchsnorm in einzelne Merkmale zerlegen. Sie muessen jedes Merkmal vortragen und beweisen koennen. Mit Beispielen § 433 BGB § 823 BGB § 280 BGB und einer Methode wie Laien die Tatbestandsmerkmale identifizieren."
+description: "Wenn es um Den Tatbestand zerlegen: Jedes Merkmal beweisen in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Den Tatbestand zerlegen: Jedes Merkmal beweisen

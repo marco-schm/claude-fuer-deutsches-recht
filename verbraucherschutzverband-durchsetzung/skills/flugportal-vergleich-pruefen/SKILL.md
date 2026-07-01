@@ -1,6 +1,6 @@
 ---
 name: flugportal-vergleich-pruefen
-description: "Verbraucherschutzverband Durchsetzung: Flugportal: Vergleich prüfen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Flugportal Vergleich Prüfen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Flugportal Vergleich Prüfen

@@ -1,6 +1,6 @@
 ---
 name: zinsausgaben-parlamentsfrage-vorbereit
-description: "Haushaltsrecht BHO Bund und Länder: Zinsausgaben: Parlamentsfrage vorbereiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Zinsausgaben Parlamentsfrage Vorbereit in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zinsausgaben Parlamentsfrage Vorbereit

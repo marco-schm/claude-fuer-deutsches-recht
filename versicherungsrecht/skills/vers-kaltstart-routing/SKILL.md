@@ -1,6 +1,6 @@
 ---
 name: vers-kaltstart-routing
-description: "Allgemeiner Einstieg ins Versicherungsrecht: Police, Bedingungen, Schadenereignis, Ablehnung, Fristen, Aufsicht, Ombudsmann und Klageweg strukturiert erfassen und passende Fachmodule vorschlagen."
+description: "Wenn es um Versicherungsrecht: Kaltstart, Rollenklärung und Triage in Versicherungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versicherungsrecht: Kaltstart, Rollenklärung und Triage

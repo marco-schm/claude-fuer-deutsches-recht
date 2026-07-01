@@ -1,6 +1,6 @@
 ---
 name: spezial-diskriminierung-agg-vermietung
-description: "AGG bei Vermietung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Massengeschäft, Auswahl, Indizien, Schadensersatz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um AGG bei Vermietung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AGG bei Vermietung

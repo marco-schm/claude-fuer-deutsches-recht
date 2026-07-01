@@ -1,6 +1,6 @@
 ---
 name: aussenpruefung-anordnung-pruefung
-description: "Praxis-Skill zur Begleitung von Aussenpruefungen — Prüfungsanordnung §§ 196 197 AO Prüfungserweiterung Schlussbesprechung § 201 AO Prüfungsbericht und Auswirkungen auf Folgejahre. Anwendungsfall Mandant erhaelt Prüfungsanordnung — Berater muss in zehn Minuten Erweiterungsangriffe Mitwirkungsg..."
+description: "Wenn es um Aussenpruefung — Prüfungsanordnung Prüfungserweiterung und Mitwirkung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aussenpruefung — Prüfungsanordnung Prüfungserweiterung und Mitwirkung

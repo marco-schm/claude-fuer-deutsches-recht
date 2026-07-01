@@ -1,6 +1,6 @@
 ---
 name: datenschutz-scoring-art22-schufa-c63421
-description: "Bonitätsscoring nach EuGH C-634/21: automatisierte Entscheidung, maßgebliches Kriterium für Dritte, Transparenz, Auskunft, Widerspruch und DSFA."
+description: "Wenn es um Scoring und Art. 22 DSGVO nach EuGH C-634/21 in Datenschutzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Scoring und Art. 22 DSGVO nach EuGH C-634/21

@@ -1,6 +1,6 @@
 ---
 name: markeng-risikoampel-und-gegenargumente
-description: "MarkenG: Risikoampel und Gegenargumente: Verwechslungsgefahr § 9 MarkenG, Erschöpfung § 24 MarkenG, Nichtbenutzungseinrede § 26, relative Schutzhindernisse, Gegenrechte bei Abmahnung, Verteidigungslinien und Prüfmatrix."
+description: "Wenn es um MarkenG: Risikoampel und Gegenargumente in Fachanwalt Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # MarkenG: Risikoampel und Gegenargumente

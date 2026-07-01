@@ -1,6 +1,6 @@
 ---
 name: sanktion-einspruch-67-owig-frist-und-form
-description: "Datenschutzrecht-Brückenskill: Einspruch § 67 OWiG Frist und Form: Zweiwochenfrist sichern und fristwahrenden Einspruch ohne unnötige Begründung einlegen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem..."
+description: "Wenn es um Einspruch Paragraf 67 OWiG Frist und Form in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einspruch § 67 OWiG Frist und Form

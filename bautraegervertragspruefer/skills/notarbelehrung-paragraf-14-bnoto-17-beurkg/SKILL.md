@@ -1,6 +1,6 @@
 ---
 name: notarbelehrung-paragraf-14-bnoto-17-beurkg
-description: "Prueft Belehrungs- und Pruefpflichten des Notars nach Paragraf 17 BeurkG und Paragraf 14 BNotO bei Bautraegervertraegen: rechtzeitige Entwurfsuebersendung, Belehrung ueber MaBV, Sicherheiten, Abnahme und Preisanpassung, Dokumentation von Verbrauchereinwaenden und Haftungsfolgen nach Paragraf 19 BNotO."
+description: "Wenn es um Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG in Bauträgervertragspruefer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG

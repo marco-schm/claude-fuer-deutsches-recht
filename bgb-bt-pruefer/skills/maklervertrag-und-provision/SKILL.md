@@ -1,6 +1,6 @@
 ---
 name: maklervertrag-und-provision
-description: "Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, Doppelmakler und Bestellerprinzip."
+description: "Wenn es um Maklervertrag und Provision Paragrafen 652 ff. BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Maklervertrag Und Provision; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Maklervertrag und Provision §§ 652 ff. BGB

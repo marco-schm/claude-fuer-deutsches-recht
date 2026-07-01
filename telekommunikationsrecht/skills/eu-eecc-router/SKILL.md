@@ -1,6 +1,6 @@
 ---
 name: eu-eecc-router
-description: "EU-Router für TK-Recht: Richtlinie (EU) 2018/1972, Verbraucherrechte, Marktregulierung, Nummerierung, Universaldienst, Netzneutralität und nationale Umsetzung im TKG im Telekommunikationsrecht."
+description: "Wenn es um EU Electronic Communications Code Router in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU Electronic Communications Code Router

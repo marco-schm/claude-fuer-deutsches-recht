@@ -1,6 +1,6 @@
 ---
 name: fp-einfuehrung-pflicht-und-zweck
-description: "Fortbestehensprognose einfuehrend: Pflicht zur Erstellung bei Anhaltspunkten für Zahlungsunfaehigkeit, Geltung im Sinne § 19 InsO Ueberschuldungspruefung, Verzahnung mit Krisenfrueherkennung StaRUG § 1. Wer muss erstellen, wann, wozu im Fortbestehensprognose."
+description: "Wenn es um FP: Pflicht und Zweck in Fortbestehensprognose geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # FP: Pflicht und Zweck

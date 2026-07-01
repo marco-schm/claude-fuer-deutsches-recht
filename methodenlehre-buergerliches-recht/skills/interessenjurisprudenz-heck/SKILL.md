@@ -1,6 +1,6 @@
 ---
 name: interessenjurisprudenz-heck
-description: "Interessenjurisprudenz nach Philipp Heck. Gegenbewegung zur Begriffsjurisprudenz im fruehen 20. Jahrhundert. Hauptwerk Heck, Begriffsbildung und Interessenjurisprudenz 1932. Gesetz als Interessenkonflikt-Loesung. Methodische Folgen: ratio legis als Interessenabwaegung. Vorlaeufer der Wertungsjuri..."
+description: "Wenn es um Interessenjurisprudenz nach Philipp Heck in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Interessenjurisprudenz nach Philipp Heck

@@ -1,6 +1,6 @@
 ---
 name: treuhandkonto-versteigerung
-description: "Treuhandkonto: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Treuhandkonto: Behörden-, Gerichts- oder Registerweg in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Treuhandkonto: Behörden-, Gerichts- oder Registerweg

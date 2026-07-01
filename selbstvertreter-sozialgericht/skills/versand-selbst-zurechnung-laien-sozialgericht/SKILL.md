@@ -1,6 +1,6 @@
 ---
 name: versand-selbst-zurechnung-laien-sozialgericht
-description: "Beweise für den Versand sicher organisieren. Einlieferungsschein Rückschein Fax-Sendebericht MJP-Quittung Empfangsstempel. Aufbewahrung Frist-Sicherung."
+description: "Wenn es um Versand-Beweise sicher aufheben in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versand-Beweise sicher aufheben

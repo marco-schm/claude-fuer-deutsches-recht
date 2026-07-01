@@ -1,6 +1,6 @@
 ---
 name: verbot-beschraenkung-verkehr-rettungswege
-description: "Entwickelt Gegenstrategie gegen Verbot, faktische Verhinderung oder so einschneidende Beschränkung, dass der Zweck leerläuft im Versammlungsrecht."
+description: "Wenn es um Verbot ist Ultima Ratio in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Verbot ist Ultima Ratio

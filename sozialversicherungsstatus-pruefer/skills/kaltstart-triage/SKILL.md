@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Startet die Prüfung, ob eine Person abhängig beschäftigt oder selbständig ist, inklusive DRV-Statusverfahren, Geschäftsführer, Freelancer und Lehrkräfte."
+description: "Wenn es um Kaltstart Sozialversicherungsstatus in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kaltstart Sozialversicherungsstatus

@@ -1,6 +1,6 @@
 ---
 name: bess-dieselgenerator-notstrom
-description: "Prüft, ob Dieselgeneratoren als Nebenanlage genehmigungspflichtig, emissionsrelevant oder sicherheitskritisch sind im Energierecht."
+description: "Wenn es um Dieselgenerator, Notstrom und Schwarzstart in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dieselgenerator, Notstrom und Schwarzstart

@@ -1,6 +1,6 @@
 ---
 name: bgb-verhandlung-vergleich-und-eskalation
-description: "BGB: Verhandlung, Vergleich und Eskalation: BGB: Verhandlung, Vergleich und Eskalation."
+description: "Wenn es um BGB: Verhandlung, Vergleich und Eskalation in Fachanwalt Agrarrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # BGB: Verhandlung, Vergleich und Eskalation

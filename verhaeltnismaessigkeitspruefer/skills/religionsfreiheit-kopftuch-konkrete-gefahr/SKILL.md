@@ -1,6 +1,6 @@
 ---
 name: religionsfreiheit-kopftuch-konkrete-gefahr
-description: "Art. 4 GG und staatliche Neutralitaet verhältnismäßig prüfen: Kruzifix, Kopftuch I/II, konkrete Gefahr statt Pauschalverbot, praktische Konkordanz in Schule, Dienstrecht und oeffentlichen Einrichtungen."
+description: "Wenn es um Religionsfreiheit: Kopftuch, Neutralität, konkrete Gefahr in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Religionsfreiheit: Kopftuch, Neutralität, konkrete Gefahr

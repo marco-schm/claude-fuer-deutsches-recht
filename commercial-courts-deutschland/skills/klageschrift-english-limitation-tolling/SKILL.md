@@ -1,6 +1,6 @@
 ---
 name: klageschrift-english-limitation-tolling
-description: "Erstellt eine englische Commercial-Court-Klageschrift mit deutschem ZPO-Unterbau: parties, jurisdiction, facts, causes of action, relief sought, evidence und exhibits im Commercial Courts Deutschland."
+description: "Wenn es um Statement of Claim in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Statement of Claim

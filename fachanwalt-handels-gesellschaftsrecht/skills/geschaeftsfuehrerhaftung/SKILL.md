@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrerhaftung
-description: "Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung: ordnet Normen, Nutze..."
+description: "Wenn es um Geschaeftsfuehrerhaftung in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

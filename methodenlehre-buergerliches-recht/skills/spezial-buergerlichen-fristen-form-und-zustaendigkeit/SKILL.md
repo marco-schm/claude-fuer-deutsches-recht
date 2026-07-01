@@ -1,6 +1,6 @@
 ---
 name: spezial-buergerlichen-fristen-form-und-zustaendigkeit
-description: "Buergerlichen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Buergerlichen: Fristen, Form, Zuständigkeit und Rechtsweg in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergerlichen: Fristen, Form, Zuständigkeit und Rechtsweg

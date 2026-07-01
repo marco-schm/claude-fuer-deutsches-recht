@@ -1,6 +1,6 @@
 ---
 name: agb-versionierung-aenderungshistorie
-description: "Einstiegs- und Prüfungslinie für AGB Versionierung Änderungshistorie: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Wenn es um AGB Versionierung Änderungshistorie in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # AGB Versionierung Änderungshistorie

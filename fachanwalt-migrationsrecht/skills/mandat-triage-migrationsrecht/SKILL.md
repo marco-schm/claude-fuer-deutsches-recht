@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-migrationsrecht
-description: "Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung: Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asyls..."
+description: "Wenn es um Mandat Triage Migrationsrecht in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung

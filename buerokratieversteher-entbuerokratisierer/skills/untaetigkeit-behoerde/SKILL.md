@@ -1,6 +1,6 @@
 ---
 name: untaetigkeit-behoerde
-description: "Hilft bei Sachstandsanfrage, Erinnerung, Fristsetzung und Untätigkeitsklage-Überlegung im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Untätigkeit der Behörde in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Untätigkeit der Behörde

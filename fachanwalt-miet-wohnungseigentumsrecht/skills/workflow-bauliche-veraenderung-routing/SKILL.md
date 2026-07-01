@@ -1,6 +1,6 @@
 ---
 name: workflow-bauliche-veraenderung-routing
-description: "Bauliche-Veränderung-Routing: Prüfungslinie für Miet- und WEG-Recht: ordnet § 20 WEG, Privilegierung, Kostenfolge und Gebrauchsnachteil; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss..."
+description: "Wenn es um Bauliche-Veränderung-Routing: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Bauliche-Veränderung-Routing: Prüfungslinie für Miet- und WEG-Recht

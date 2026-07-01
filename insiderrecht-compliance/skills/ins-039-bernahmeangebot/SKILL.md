@@ -1,6 +1,6 @@
 ---
 name: ins-039-bernahmeangebot
-description: "Spezialskill Insiderrecht fuer Übernahmeangebot: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Übernahmeangebot in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Übernahmeangebot

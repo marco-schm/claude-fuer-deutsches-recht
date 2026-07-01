@@ -1,6 +1,6 @@
 ---
 name: familienrecht-und-gleichberechtigung
-description: "Deutsche Rechtsgeschichte: Familienrecht und Gleichberechtigung. BGB-Eherecht 1900 (maennliches Entscheidungsrecht), WRV Art. 119, GG Art. 3 Abs. 2, Gleichberechtigungsgesetz 1957 und EheRG 1976 im Deutsche Rechtsgeschichte."
+description: "Wenn es um Familienrecht und Gleichberechtigung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Familienrecht und Gleichberechtigung

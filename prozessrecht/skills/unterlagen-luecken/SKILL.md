@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Prozessrecht (ZPO/VwGO/StPO/SGG): trennt fehlende Tatsachen von fehlenden Belegen (Klageschrift, Klageerwiderung, Schriftsätze), nennt pro Lücke Beweisthema, Beschaffungsweg (Erste Instanz / Rechtsmittelgerichte), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

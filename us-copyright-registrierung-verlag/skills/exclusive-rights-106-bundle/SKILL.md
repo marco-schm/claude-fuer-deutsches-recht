@@ -1,6 +1,6 @@
 ---
 name: exclusive-rights-106-bundle
-description: "Prüft Reproduction, Derivative, Distribution, Public Performance, Display und Digital Audio Transmission als Rechtebündel im Us Copyright Registrierung Verlag."
+description: "Wenn es um Exclusive Rights Bundle Paragraf 106 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Exclusive Rights Bundle § 106

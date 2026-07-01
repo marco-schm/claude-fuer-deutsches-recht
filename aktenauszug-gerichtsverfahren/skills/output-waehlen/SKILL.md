@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Aktenauszüge zivilgerichtlicher Verfahren: stimmt Adressat (Mandant, Gegenpartei, Gericht), Frist (Akteneinsicht im laufenden Verfahren jederzeit) und Form auf den Zweck ab — typische Outputs: Aktenauszug mit Inhaltsverzeichnis, Chronologie, Beweisindex."
+description: "Wenn es um Output wählen in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Output wählen

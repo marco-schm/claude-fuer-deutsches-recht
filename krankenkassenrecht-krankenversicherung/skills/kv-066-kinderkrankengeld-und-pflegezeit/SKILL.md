@@ -1,6 +1,6 @@
 ---
 name: kv-066-kinderkrankengeld-und-pflegezeit
-description: "Krankenversicherung: Kinderkrankengeld und Pflegezeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Kinderkrankengeld und Pflegezeit in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Kinderkrankengeld und Pflegezeit

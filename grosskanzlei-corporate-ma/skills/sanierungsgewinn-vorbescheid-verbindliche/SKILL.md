@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-vorbescheid-verbindliche
-description: "Verbindliche Auskunft nach Paragraf 89 AO im Sanierungskontext. Beschreibt Antragsstruktur, Sachverhaltsdarstellung, Tatsachen- und Rechtsfragen, Bindungswirkung und Reichweite. Liefert Antrags-Template, Sachverhalts-Dossier-Struktur, Kommunikationsstrategie mit dem Finanzamt und Timeline-Planung. Adres..."
+description: "Wenn es um Sanierungsgewinn – Vorbescheid und verbindliche Auskunft in Großkanzlei Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Sanierungsgewinn – Vorbescheid und verbindliche Auskunft

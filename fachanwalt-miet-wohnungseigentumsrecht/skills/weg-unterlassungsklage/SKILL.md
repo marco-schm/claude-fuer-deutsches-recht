@@ -1,6 +1,6 @@
 ---
 name: weg-unterlassungsklage
-description: "WEG Unterlassungsklage: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Störer, Anspruchsinhaber, Gemeinschaft, Eilbedürftigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und..."
+description: "Wenn es um WEG Unterlassungsklage: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Unterlassungsklage: Fachmodul im Miet- und Wohnungseigentumsrecht

@@ -1,6 +1,6 @@
 ---
 name: mpdg-compliance-dokumentation-und-akte
-description: "Mpdg: Compliance-Dokumentation und Aktenvermerk: Mpdg: Compliance-Dokumentation und Aktenvermerk."
+description: "Wenn es um Mpdg: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mpdg: Compliance-Dokumentation und Aktenvermerk

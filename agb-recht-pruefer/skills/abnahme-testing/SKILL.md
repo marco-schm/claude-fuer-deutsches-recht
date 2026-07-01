@@ -1,6 +1,6 @@
 ---
 name: abnahme-testing
-description: "Klausel-Fachmodul für Abnahme Testing: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um Abnahme Testing in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abnahme Testing

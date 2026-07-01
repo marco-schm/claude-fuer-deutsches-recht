@@ -1,6 +1,6 @@
 ---
 name: flugzeugleasing-genehmigung
-description: "Genehmigungsstand für geleastes Flugzeug prüfen: AOC Betriebsgenehmigung Wet-Lease-Genehmigung EU-VO 1008/2008 Art. 13 und LuftVG § 21a. Skill prüft welche Genehmigungen für Wet-Lease Dry-Lease und Sub-Lease benoetigt werden und liefert Genehmigungsstatus-Vermerk im Luftrecht Flughafenrecht."
+description: "Wenn es um Flugzeugleasing – Genehmigung prüfen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flugzeugleasing – Genehmigung prüfen

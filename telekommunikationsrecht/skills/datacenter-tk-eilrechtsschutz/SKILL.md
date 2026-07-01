@@ -1,6 +1,6 @@
 ---
 name: datacenter-tk-eilrechtsschutz
-description: "Rechenzentrumskonnektivität: Carrier Meet-Me, Cross-Connects, SLA, Wegerecht im Gebäude, Datenschutz/Sicherheit und Ausfallhaftung im Telekommunikationsrecht."
+description: "Wenn es um Datacenter Connectivity und Carrier Meet-Me in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datacenter Connectivity und Carrier Meet-Me

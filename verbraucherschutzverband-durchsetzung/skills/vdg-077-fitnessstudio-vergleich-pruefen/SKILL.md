@@ -1,6 +1,6 @@
 ---
 name: vdg-077-fitnessstudio-vergleich-pruefen
-description: "Verbraucherschutzverband Durchsetzung: Fitnessstudio: Vergleich prüfen. Vergleich prüfen für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Fitnessstudio Vergleich Pruefen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Fitnessstudio Vergleich Pruefen

@@ -1,6 +1,6 @@
 ---
 name: seeunglueck-versicherung-und-risiko
-description: "Seeunglueck Versicherung und Risiko im roemischen Seerecht. Skill behandelt die Risikoverteilung bei Seetransporten lex Rhodia fenus nauticum receptum nautarum und die Frage was bei Untergang oder Verlust geschuldet ist. Liefert Prüfraster."
+description: "Wenn es um Rom 131 Seeunglueck Versicherung Und Risiko in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 131 Seeunglueck Versicherung Und Risiko

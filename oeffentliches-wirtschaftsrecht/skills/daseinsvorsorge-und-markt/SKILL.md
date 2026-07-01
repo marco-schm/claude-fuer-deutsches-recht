@@ -1,6 +1,6 @@
 ---
 name: daseinsvorsorge-und-markt
-description: "Öffentliches Wirtschaftsrecht: Daseinsvorsorge und Markt. Daseinsvorsorge und Markt im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht."
+description: "Wenn es um Daseinsvorsorge Und Markt in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Daseinsvorsorge Und Markt

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Führt durch Eigentum, Belastungen, Vollzugsziel, Grundbuchbezirk, Urkundentyp, Nachweise, Rang, Fristdruck und Kommunikationsweg mit dem Grundbuchamt."
+description: "Wenn es um Kaltstart Grundbuchamt in Grundbuchamt Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Grundbuchamt

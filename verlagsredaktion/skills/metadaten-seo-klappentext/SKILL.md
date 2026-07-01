@@ -1,6 +1,6 @@
 ---
 name: metadaten-seo-klappentext
-description: "Erstellt Titelvarianten, Untertitel, Abstract, Schlagworte, Klappentext, Webteaser, Kurzbeschreibung und Metadaten aus Manuskriptmaterial im Verlagsredaktion."
+description: "Wenn es um Metadaten, SEO und Klappentext in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Metadaten, SEO und Klappentext

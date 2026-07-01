@@ -1,6 +1,6 @@
 ---
 name: polizeirecht-paragraf-9-polg
-description: "Polizeirecht § 9 Polg: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Polizeirecht Paragraf 9 Polg in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Polizeirecht § 9 Polg

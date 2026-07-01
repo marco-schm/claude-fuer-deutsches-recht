@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-merkzeichen
-description: "Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung."
+description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen

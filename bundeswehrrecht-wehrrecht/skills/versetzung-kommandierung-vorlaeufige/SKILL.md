@@ -1,6 +1,6 @@
 ---
 name: versetzung-kommandierung-vorlaeufige
-description: "Versetzung, Kommandierung, Abordnung: prüft SG §§ 22–27, Voraussetzungen, Rechtsbehelfe und Besoldungsfolgen. Norm-/Quellenanker: SG §§ 22–27, WBO, TGV im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Versetzung, Kommandierung und Abordnung in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versetzung, Kommandierung und Abordnung

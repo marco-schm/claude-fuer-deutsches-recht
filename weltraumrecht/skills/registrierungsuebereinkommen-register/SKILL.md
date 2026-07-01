@@ -1,6 +1,6 @@
 ---
 name: registrierungsuebereinkommen-register
-description: "Registration Convention 1975 (REG) – Pflichtregistrierung, UN-Register, nationale Register, Jurisdiktion und Kontrolle im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Registrierungsübereinkommen: Register, Staat, Zuständigkeit, Kontrolle in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Registrierungsübereinkommen: Register, Staat, Zuständigkeit, Kontrolle

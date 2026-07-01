@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-ueberbaubare-flaeche-bauweise
-description: "Prueft Bauweise, Baulinien, Baugrenzen und ueberbaubare Grundstuecksflaechen nach BauNVO Paragrafen 22 und 23 mit Nachbarbezug und Bestimmtheitskontrolle."
+description: "Wenn es um Überbaubare Grundstücksflächen und Bauweise in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Überbaubare Grundstücksflächen und Bauweise

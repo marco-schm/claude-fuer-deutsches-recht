@@ -1,6 +1,6 @@
 ---
 name: weitere-beschwerde-und-gerichtlicher-antrag-wehrdienstgericht
-description: "Weitere Beschwerde und gerichtlicher Antrag TDG: prüft § 16 WBO, § 17 WBO, TDG-Verfahren und BVerwG-Berufung. Norm-/Quellenanker: §§ 16–22a WBO, TDG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht in Bundeswehrrecht und Wehrrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht

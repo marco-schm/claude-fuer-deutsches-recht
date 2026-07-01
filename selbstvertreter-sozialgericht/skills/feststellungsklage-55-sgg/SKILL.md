@@ -1,6 +1,6 @@
 ---
 name: feststellungsklage-55-sgg
-description: "Die Feststellungsklage nach § 55 SGG. Wenn ein Rechtsverhältnis geklaert werden muss. Versicherungspflicht Versicherungsstatus berechtigtes Interesse Mustertext."
+description: "Wenn es um Die Feststellungsklage — Paragraf 55 SGG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Die Feststellungsklage — § 55 SGG

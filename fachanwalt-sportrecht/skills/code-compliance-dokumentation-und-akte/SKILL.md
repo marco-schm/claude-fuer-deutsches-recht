@@ -1,6 +1,6 @@
 ---
 name: code-compliance-dokumentation-und-akte
-description: "Code: Compliance-Dokumentation und Aktenvermerk: Code: Compliance-Dokumentation und Aktenvermerk."
+description: "Wenn es um Code: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Sportrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Code: Compliance-Dokumentation und Aktenvermerk

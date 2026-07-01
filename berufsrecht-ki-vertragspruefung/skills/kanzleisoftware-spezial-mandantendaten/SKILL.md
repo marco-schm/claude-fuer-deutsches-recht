@@ -1,6 +1,6 @@
 ---
 name: kanzleisoftware-spezial-mandantendaten
-description: "Spezialfall Kanzleisoftware mit KI-Funktionen (RA-MICRO, Datev DMS, Acta Nova, vRA): Mandantendaten in Cloud, KI-Funktion Volltextsuche, Diktat, Vertragsanalyse. Prüfraster für Einwilligung Mandant, Auftragsverarbeitung, Loeschkonzepte."
+description: "Wenn es um Kanzleisoftware-digitale Werkzeuge in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kanzleisoftware-KI

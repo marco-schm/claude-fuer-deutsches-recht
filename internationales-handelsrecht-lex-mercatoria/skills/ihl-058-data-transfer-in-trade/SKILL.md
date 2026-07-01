@@ -1,6 +1,6 @@
 ---
 name: ihl-058-data-transfer-in-trade
-description: "Internationales Handelsrecht und Lex Mercatoria: Data Transfer In Trade. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Data Transfer In Trade in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Data Transfer In Trade

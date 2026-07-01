@@ -1,6 +1,6 @@
 ---
 name: spezial-datenschutzrecht-red-team-und-qualitaetskontrolle
-description: "Datenschutzrecht: Red-Team und Qualitätskontrolle im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Datenschutzrecht: Red-Team und Qualitätskontrolle in Fachanwalt It Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht: Red-Team und Qualitätskontrolle

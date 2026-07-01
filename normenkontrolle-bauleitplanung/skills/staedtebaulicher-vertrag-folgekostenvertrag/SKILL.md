@@ -1,6 +1,6 @@
 ---
 name: staedtebaulicher-vertrag-folgekostenvertrag
-description: "Prueft Folgekostenverträge nach BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 3: Bedarf, Gesamtkonzept, Kausalitaet, Angemessenheit, Umlagegrenzen und Rueckzahlungsrisiko."
+description: "Wenn es um Folgekostenvertrag: Bedarf, Kausalität und Gesamtkonzept in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Folgekostenvertrag: Bedarf, Kausalität und Gesamtkonzept

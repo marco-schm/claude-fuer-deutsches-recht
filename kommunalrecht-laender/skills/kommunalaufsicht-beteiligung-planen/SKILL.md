@@ -1,6 +1,6 @@
 ---
 name: kommunalaufsicht-beteiligung-planen
-description: "der Länder: Kommunalaufsicht: Beteiligung planen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kommunalaufsicht Beteiligung Planen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalaufsicht Beteiligung Planen

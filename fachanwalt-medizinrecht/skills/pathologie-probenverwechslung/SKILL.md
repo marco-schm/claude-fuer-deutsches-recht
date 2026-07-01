@@ -1,6 +1,6 @@
 ---
 name: pathologie-probenverwechslung
-description: "Pathologie Probenverwechslung: moderner Medizinrechts-Skill für Gewebeprobe, Barcode, Präanalytik, Chain of Custody und falsche Krebsdiagnose: Pathologie Probenverwechslung: moderner Medizinrechts-Skill für Gewebeprobe, Barcode, Präanalytik, Chain of Custod..."
+description: "Wenn es um Pathologie Probenverwechslung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pathologie Probenverwechslung: moderner Medizinrechts-Skill für Gewebeprobe, Barcode, Präanalytik, Chain of Custody und falsche Krebsdiagnose

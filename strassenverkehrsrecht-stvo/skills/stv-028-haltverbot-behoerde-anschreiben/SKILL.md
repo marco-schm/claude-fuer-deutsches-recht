@@ -1,6 +1,6 @@
 ---
 name: stv-028-haltverbot-behoerde-anschreiben
-description: "Straßenverkehrsrecht StVO: Haltverbot: Behörde anschreiben. Behörde anschreiben für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Haltverbot Behoerde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haltverbot Behoerde Anschreiben

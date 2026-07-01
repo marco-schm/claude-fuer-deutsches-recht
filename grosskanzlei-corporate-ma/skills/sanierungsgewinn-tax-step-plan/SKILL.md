@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-tax-step-plan
-description: "Tax Step Plan für komplexe Restrukturierungen mit Sanierungsgewinn-Bezug. Reihenfolge der Strukturschritte zwischen Kapitalmaßnahmen, Forderungsverzicht, Debt-Equity-Swap, Anteilsübertragung und Antragstellung nach Paragraf 3a EStG. Modelliert die Wechselwirkung mit Paragraf 8c KStG, Paragraf 8d KStG, Paragraf 4h EStG und Paragraf..."
+description: "Wenn es um Sanierungsgewinn – Tax Step Plan in der Restrukturierung in Großkanzlei Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sanierungsgewinn – Tax Step Plan in der Restrukturierung

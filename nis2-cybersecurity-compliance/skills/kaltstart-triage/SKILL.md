@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Startet die IT-Sicherheits- und NIS-2-Prüfung für Geschäftsführung, Vorstand, CISO, Rechtsabteilung und externe Berater."
+description: "Wenn es um Allgemein in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemein

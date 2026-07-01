@@ -1,6 +1,6 @@
 ---
 name: verein-und-social-media
-description: "Regelt Impressum, Bildrechte, Datenschutz, Adminrechte, Krisenpost und Löschung im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Social Media im Verein in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Social Media im Verein

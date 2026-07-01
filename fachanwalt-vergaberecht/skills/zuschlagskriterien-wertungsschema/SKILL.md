@@ -1,6 +1,6 @@
 ---
 name: zuschlagskriterien-wertungsschema
-description: "Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix: Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmat..."
+description: "Wenn es um Zuschlagskriterien Wertungsschema in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix

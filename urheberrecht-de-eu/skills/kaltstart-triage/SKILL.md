@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Kaltstart für deutsches und EU-Urheberrecht: sortiert Werk, Rechte, Nutzung, KI, Software, Musik, Schranken, Fristen, Beweise und passende Anschluss-Skills."
+description: "Wenn es um Urheberrecht DE/EU Kaltstart und Routing in Urheberrecht DE EU geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Urheberrecht DE/EU Kaltstart und Routing

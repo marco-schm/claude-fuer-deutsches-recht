@@ -1,6 +1,6 @@
 ---
 name: airline-local-dashboard-bauen
-description: "Deutsches Kanzleiteam muss ausländischen Anwalt für Airline-Mandat briefen: Arrest Insolvenz Cape-Town oder Betriebsgenehmigung. Skill erstellt strukturiertes englisches Briefing-Memo mit Sachverhalt deutschem Rechtsrahmen Cape-Town-Status IDERA und konkreten Fragen an Local Counsel im Luftrecht..."
+description: "Wenn es um Airline – Local Counsel briefen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Airline – Local Counsel briefen

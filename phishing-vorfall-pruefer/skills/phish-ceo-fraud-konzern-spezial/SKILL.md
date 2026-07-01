@@ -1,6 +1,6 @@
 ---
 name: phish-ceo-fraud-konzern-spezial
-description: "Spezialfall CEO-Fraud im Konzern: interne Kontrollen, Vier-Augen-Prinzip, Schadensersatz Geschäftsleitung, Versicherer D-and-O / Cyber. Prüfraster für Konzern im Phishing Vorfall Prüfer."
+description: "Wenn es um Phish: CEO-Fraud Konzern in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Phish: CEO-Fraud Konzern

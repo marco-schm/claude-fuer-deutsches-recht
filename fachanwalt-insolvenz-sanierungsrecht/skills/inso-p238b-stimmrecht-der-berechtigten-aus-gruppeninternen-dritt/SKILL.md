@@ -1,6 +1,6 @@
 ---
 name: inso-p238b-stimmrecht-der-berechtigten-aus-gruppeninternen-dritt
-description: "§ 238b InsO (Stimmrecht der Berechtigten aus gruppeninternen Drittsicherheiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 238b InsO (Stimmrecht der Berechtigten aus gruppeninternen D..."
+description: "Wenn es um Inso P238b Stimmrecht Der Berechtigten Aus Gruppeninternen Dritt in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 238b InsO (Stimmrecht der Berechtigten aus gruppeninternen Drittsicherheiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

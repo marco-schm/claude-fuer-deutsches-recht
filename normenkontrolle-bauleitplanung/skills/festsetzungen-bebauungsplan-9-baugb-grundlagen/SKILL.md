@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-bebauungsplan-9-baugb-grundlagen
-description: "Prueft Festsetzungen eines Bebauungsplans nach BauGB Paragraf 9: Rechtsgrundlage, Bestimmtheit, Erforderlichkeit, Abwaegung, Planzeichnung, Textfestsetzung und Planerhaltung."
+description: "Wenn es um Festsetzungen im Bebauungsplan: Grundlagen nach BauGB Paragraf 9 in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Festsetzungen im Bebauungsplan: Grundlagen nach BauGB Paragraf 9

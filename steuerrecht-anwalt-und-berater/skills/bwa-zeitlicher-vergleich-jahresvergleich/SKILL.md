@@ -1,6 +1,6 @@
 ---
 name: bwa-zeitlicher-vergleich-jahresvergleich
-description: "Zeitvergleich Vorjahr und Vormonat in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Gegenüberstellung Vorjahres-Periode kumulierter Jahresvergleich Abweichungs-Analyse Trendaussage. Methodik gleicher Zeitraum gleiches Geschäftsmodell Bereinigung Sondereffekte. Output Tabelle mit Soll Ist..."
+description: "Wenn es um Zeitlicher Vergleich in der BWA — Vorjahr und Vormonat in Steuerrecht – Steuerberater und Anwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Zeitlicher Vergleich in der BWA — Vorjahr und Vormonat

@@ -1,6 +1,6 @@
 ---
 name: coach-berater-trainer
-description: "Solo-Selbstständige: prüft Coaching/Training, persönliche Leistung und Sozialversicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Scheinselbstständigkeit und Status: Prüft coaching/training in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Scheinselbstständigkeit und Status: Prüft coaching/training

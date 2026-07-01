@@ -1,6 +1,6 @@
 ---
 name: nachweise-nebenbestimmungen-auflagen-notfall
-description: "Erklärt, welche Nachweise wirklich gebraucht werden, wie man sie schwärzt, nummeriert und nachreicht im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Nachweise und Belege in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachweise und Belege

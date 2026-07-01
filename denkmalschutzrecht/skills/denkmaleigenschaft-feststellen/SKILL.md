@@ -1,6 +1,6 @@
 ---
 name: denkmaleigenschaft-feststellen
-description: "Materielle Prüfung der Denkmaleigenschaft im Sinne der Landesgesetze: Sache von künstlerischem, geschichtlichem, wissenschaftlichem, städtebaulichem, volkskundlichem oder technischem Wert, an deren Erhaltung ein öffentliches Interesse besteht. Skill ordnet die Tatbestandsmerkmale und liefert eine Argumentationsspur für oder gegen die Denkmaleigenschaft eines konkreten Objekts."
+description: "Wenn es um Denkmaleigenschaft feststellen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Denkmaleigenschaft feststellen

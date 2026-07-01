@@ -1,6 +1,6 @@
 ---
 name: brki-rollout-trainings-workflow
-description: "BRKI: Rollout-Trainings: 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Sachverhalt: Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch? 3. Fristen: Gibt es Termi..."
+description: "Wenn es um BRKI: Rollout-Trainings in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BRKI: Rollout-Trainings

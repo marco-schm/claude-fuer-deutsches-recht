@@ -1,6 +1,6 @@
 ---
 name: tierschutzverein-handlungsoptionen
-description: "Tierschutzrecht: Tierschutzverein Handlungsoptionen. Tierschutzverein Handlungsoptionen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht."
+description: "Wenn es um Tierschutzverein Handlungsoptionen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tierschutzverein Handlungsoptionen

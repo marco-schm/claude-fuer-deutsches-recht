@@ -1,6 +1,6 @@
 ---
 name: statusbericht-an-verlagsleitung
-description: "Statusbericht an die Verlagsleitung: knappe Lagedarstellung zu Projekt, Frist, Kosten, Risiko und Eskalation. Mustertexte für monatliches Reporting und Ad-hoc-Alarm im Verlagsredaktion."
+description: "Wenn es um Statusbericht an die Verlagsleitung in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Statusbericht an die Verlagsleitung

@@ -1,6 +1,6 @@
 ---
 name: lma-facility-review-deutsch
-description: "Prüft hochgeladene LMA-basierte Facility Agreements auf deutsche Rechts-/Deal-Schnittstellen im Private Equity Praxis."
+description: "Wenn es um LMA Facility Review im deutschen Deal in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LMA Facility Review im deutschen Deal

@@ -1,6 +1,6 @@
 ---
 name: mancipatio-und-in-iure-cessio
-description: "Römisches Recht: Mancipatio Und In Iure Cessio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Mancipatio Und In Iure Cessio in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mancipatio Und In Iure Cessio

@@ -1,6 +1,6 @@
 ---
 name: bmjv-verbraucherschutz-unlauterer
-description: "Sachbereich Verbraucherschutz und Wettbewerbsrecht (UWG) im Geschäftsbereich BMJV: Normbestand (UWG; UKlaG; BGB-Verbraucherrecht; ProdSG; PreisangabenV.); Akteure (BMJV; vzbv; Wettbewerbszentrale; Landesbehoerden Verbraucherschutz.); EU-Bezug (Verbraucherrechte-RL; Omnibus-RL; Geoblocking-VO; DS"
+description: "Wenn es um Verbraucherschutz und Wettbewerbsrecht (UWG) (BMJV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmjv Verbraucherschutz Unlauterer; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Verbraucherschutz und Wettbewerbsrecht (UWG) (BMJV)

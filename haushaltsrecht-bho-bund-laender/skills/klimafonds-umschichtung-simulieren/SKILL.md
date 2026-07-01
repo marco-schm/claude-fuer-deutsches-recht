@@ -1,6 +1,6 @@
 ---
 name: klimafonds-umschichtung-simulieren
-description: "Haushaltsrecht BHO Bund und Länder: Klimafonds: Umschichtung simulieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Klimafonds Umschichtung Simulieren in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klimafonds Umschichtung Simulieren

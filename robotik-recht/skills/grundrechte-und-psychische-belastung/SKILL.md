@@ -1,6 +1,6 @@
 ---
 name: grundrechte-und-psychische-belastung
-description: "Prüft grundrechtliche und soziale Risiken: Nähe, Druck, Überwachung, Pflegeabhängigkeit, Kinder, Arbeitsplatz und Würde."
+description: "Wenn es um Grundrechte und psychische Belastung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundrechte und psychische Belastung

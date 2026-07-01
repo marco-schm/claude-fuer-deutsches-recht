@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-kita-integration
-description: "Laienverstaendlicher Sozialrechts-Skill zu Kita Integration. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
+description: "Wenn es um Laienhilfe: Kita Integration in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienhilfe: Kita Integration

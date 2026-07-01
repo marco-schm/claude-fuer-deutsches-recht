@@ -1,6 +1,6 @@
 ---
 name: messegesellschaft-wirtschaftlichkeit-r
-description: "Messegesellschaft: Wirtschaftlichkeit rechnen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Messegesellschaft Wirtschaftlichkeit R in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Messegesellschaft Wirtschaftlichkeit R

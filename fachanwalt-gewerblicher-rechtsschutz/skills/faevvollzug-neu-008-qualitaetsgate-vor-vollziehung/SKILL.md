@@ -1,6 +1,6 @@
 ---
 name: faevvollzug-neu-008-qualitaetsgate-vor-vollziehung
-description: "Qualitätsgate vor EV-Vollziehung: Letzter Check vor Zustellung der einstweiligen Verfügung: Titel, Dringlichkeit, Zustellungsweg, Schutzschrift, Kosten-Nutzen, Red-T..."
+description: "Wenn es um Qualitätsgate vor EV-Vollziehung: Letzter Check vor Zustellung der einstweiligen Verfügung in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Qualitätsgate vor EV-Vollziehung: Letzter Check vor Zustellung der einstweiligen Verfügung

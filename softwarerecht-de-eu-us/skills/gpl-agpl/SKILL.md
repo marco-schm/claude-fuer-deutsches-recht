@@ -1,6 +1,6 @@
 ---
 name: gpl-agpl
-description: "Prüft GPL/AGPL-Pflichten, Copyleft-Auslöser, Source-Angebot, Netzwerkinteraktion und SaaS-Sonderrisiken im Softwarerecht De Eu Us."
+description: "Wenn es um GPL und AGPL in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GPL und AGPL

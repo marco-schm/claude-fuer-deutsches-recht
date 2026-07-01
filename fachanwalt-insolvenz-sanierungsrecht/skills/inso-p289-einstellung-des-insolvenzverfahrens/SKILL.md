@@ -1,6 +1,6 @@
 ---
 name: inso-p289-einstellung-des-insolvenzverfahrens
-description: "§ 289 InsO (Einstellung des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 289 InsO (Einstellung des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Bel..."
+description: "Wenn es um Inso P289 Einstellung Des Insolvenzverfahrens in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 289 InsO (Einstellung des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

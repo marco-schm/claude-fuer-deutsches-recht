@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-steuer-compliance
-description: "AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Steuer Compliance; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um Aufsichtsrat Steuer Compliance in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Aufsichtsrat Steuer Compliance

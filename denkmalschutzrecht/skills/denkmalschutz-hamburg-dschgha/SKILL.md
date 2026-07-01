@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-hamburg-dschgha
-description: "Denkmalschutzrecht Freie und Hansestadt Hamburg nach dem Hamburgischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Behörde für Kultur und Medien; Denkmalschutzamt; Bezirksämter als untere Denkmalschutzbehörden) und die Reform der konstitutiven Eintragung nach dem Gesetz vom 5. April 2013."
+description: "Wenn es um Denkmalschutz Hamburg (DSchG-HA) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Hamburg (DSchG-HA)

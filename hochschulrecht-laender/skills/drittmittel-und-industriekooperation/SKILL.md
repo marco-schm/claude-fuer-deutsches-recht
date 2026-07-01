@@ -1,6 +1,6 @@
 ---
 name: drittmittel-und-industriekooperation
-description: "Prüft Drittmittel, Forschungskooperation und Industrieeinfluss im Hochschulrecht Länder."
+description: "Wenn es um Drittmittel Und Industriekooperation in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drittmittel Und Industriekooperation

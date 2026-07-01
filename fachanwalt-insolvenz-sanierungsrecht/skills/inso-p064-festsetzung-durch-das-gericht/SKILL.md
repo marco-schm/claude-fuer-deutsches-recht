@@ -1,6 +1,6 @@
 ---
 name: inso-p064-festsetzung-durch-das-gericht
-description: "§ 64 InsO (Festsetzung durch das Gericht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 64 InsO (Festsetzung durch das Gericht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfol..."
+description: "Wenn es um Inso P064 Festsetzung Durch Das Gericht in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 64 InsO (Festsetzung durch das Gericht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

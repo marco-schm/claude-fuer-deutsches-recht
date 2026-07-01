@@ -1,6 +1,6 @@
 ---
 name: lph-02-foerdermittel-und-nachweis
-description: "HOAI LPH 2 Vorplanung: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 2 Vorplanung: Prüft fördermittelbedingungen in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # LPH 2 Vorplanung: Prüft fördermittelbedingungen

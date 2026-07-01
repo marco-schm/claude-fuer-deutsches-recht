@@ -1,6 +1,6 @@
 ---
 name: sozialversicherung-schnittstelle-titel
-description: "Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Sozialversicherung Schnittstelle Titel in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sozialversicherung Schnittstelle Titel

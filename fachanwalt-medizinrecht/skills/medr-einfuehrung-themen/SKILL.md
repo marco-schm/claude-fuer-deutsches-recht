@@ -1,6 +1,6 @@
 ---
 name: medr-einfuehrung-themen
-description: "Medizinrecht einfuehrend: Arzthaftung, Berufsrecht, Vertragsarztrecht, Krankenhausrecht, Arzneimittel- und Medizinprodukterecht, Heilmittelwerberecht, MVZ-Strukturen: Medizinrecht einfuehrend: Arzthaftung, Berufsrecht, Vertragsarztrecht, Krankenhausrecht, A..."
+description: "Wenn es um Medr Einfuehrung Themen in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medizinrecht einfuehrend: Arzthaftung, Berufsrecht, Vertragsarztrecht, Krankenhausrecht, Arzneimittel- und Medizinprodukterecht, Heilmittelwerberecht, MVZ-Strukturen

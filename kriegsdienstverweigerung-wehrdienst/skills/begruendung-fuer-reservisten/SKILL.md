@@ -1,6 +1,6 @@
 ---
 name: begruendung-fuer-reservisten
-description: "Spezialwerkstatt für Reservisten mit früherem Dienst und aktueller Heranziehungsnähe im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Begründung Reservisten in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Begründung Reservisten

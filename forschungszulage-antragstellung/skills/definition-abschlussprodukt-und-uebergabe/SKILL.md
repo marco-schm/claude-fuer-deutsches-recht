@@ -1,6 +1,6 @@
 ---
 name: definition-abschlussprodukt-und-uebergabe
-description: "Definition: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Definition: Abschlussprodukt und Übergabe in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Definition: Abschlussprodukt und Übergabe

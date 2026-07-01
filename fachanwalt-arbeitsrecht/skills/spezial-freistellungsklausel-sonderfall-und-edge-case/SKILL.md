@@ -1,6 +1,6 @@
 ---
 name: spezial-freistellungsklausel-sonderfall-und-edge-case
-description: "Freistellungsklausel: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Freistellungsklausel: Sonderfall und Edge-Case-Prüfung in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freistellungsklausel: Sonderfall und Edge-Case-Prüfung

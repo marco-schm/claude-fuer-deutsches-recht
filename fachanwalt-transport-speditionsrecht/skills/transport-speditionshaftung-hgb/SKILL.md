@@ -1,6 +1,6 @@
 ---
 name: transport-speditionshaftung-hgb
-description: "Speditionshaftung nach HGB prüfen: Fixkostenspediteur, Sammelladungsspediteur, Haftungsgrenzen: Normen: §§ 454 ff. HGB. Prüfraster: Speditionsauftrag, Selbsteint..."
+description: "Wenn es um Transport Speditionshaftung HGB in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Speditionshaftung nach HGB prüfen: Fixkostenspediteur, Sammelladungsspediteur, Haftungsgrenzen

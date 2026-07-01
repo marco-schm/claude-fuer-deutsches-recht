@@ -1,6 +1,6 @@
 ---
 name: selbst-vorgelegte-subsumtion-zerlegen
-description: "Zerlegt eine vom Nutzer bereits formulierte Subsumtion streng nach Norm, Tatbestandsmerkmal, Tatsache, Beleg, Beweislast und Gegenargument. Liefert eine Lückenmatrix, prüft Beweislastumkehr und formuliert eine gerichtsfeste Gegenposition oder eine reparierte Fassung."
+description: "Wenn es um Selbst vorgelegte Subsumtion zerlegen in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Selbst vorgelegte Subsumtion zerlegen

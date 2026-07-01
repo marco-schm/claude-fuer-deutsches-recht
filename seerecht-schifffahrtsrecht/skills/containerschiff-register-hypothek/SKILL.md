@@ -1,6 +1,6 @@
 ---
 name: containerschiff-register-hypothek
-description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft prüft Seeschiffsregister oder Auslandsregister unter Bare-Boat auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Klaert Las..."
+description: "Wenn es um Containerschiff – Registerprüfung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Containerschiff – Registerprüfung

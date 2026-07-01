@@ -1,6 +1,6 @@
 ---
 name: sofortvollzug-und-anordnung
-description: "Prüft Sofortvollzug und aufschiebende Wirkung im KDV-Kontext im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Sofortvollzug Paragraf 80 VwGO in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sofortvollzug § 80 VwGO

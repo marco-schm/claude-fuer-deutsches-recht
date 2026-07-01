@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Internationales Handelsrecht und Lex Mercatoria: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe."
+description: "Wenn es um Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg in Internationales Handelsrecht und Lex Mercatoria geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg

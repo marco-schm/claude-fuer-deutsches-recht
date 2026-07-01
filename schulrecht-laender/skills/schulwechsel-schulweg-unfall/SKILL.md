@@ -1,6 +1,6 @@
 ---
 name: schulwechsel-schulweg-unfall
-description: "Prüft Schulwechsel zwischen Schulen, Schularten und Bundesländern im Schulrecht Länder."
+description: "Wenn es um Schulwechsel in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulwechsel

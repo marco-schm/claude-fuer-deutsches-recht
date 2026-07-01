@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Tabellenreview (Excel/CSV): trennt fehlende Tatsachen von fehlenden Belegen (Excel-/CSV-Datei, Formelreview, Datenqualitätsbericht), nennt pro Lücke Beweisthema, Beschaffungsweg (Finanzamt), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

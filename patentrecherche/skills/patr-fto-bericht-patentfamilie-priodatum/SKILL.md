@@ -1,6 +1,6 @@
 ---
 name: patr-fto-bericht-patentfamilie-priodatum
-description: "Leitfaden Freedom-to-Operate-Bericht: Recherchescope, Trefferbewertung, juristische Einordnung, Empfehlungen. Prüfraster für Patentanwalt und Mandant im Patentrecherche."
+description: "Wenn es um PatR: FTO-Bericht in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PatR: FTO-Bericht

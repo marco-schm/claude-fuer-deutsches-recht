@@ -1,6 +1,6 @@
 ---
 name: digital-services-nationale-koordinierung-dsa-behoerden
-description: "Digital Services / Nationale Koordinierung DSA Behörden: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren."
+description: "Wenn es um Nationale Koordinierung der DSA-Behörden in Deutschland in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Nationale Koordinierung der DSA-Behörden in Deutschland

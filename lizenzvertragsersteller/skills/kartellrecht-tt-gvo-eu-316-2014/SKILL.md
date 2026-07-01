@@ -1,6 +1,6 @@
 ---
 name: kartellrecht-tt-gvo-eu-316-2014
-description: "Kartellrecht im Lizenzvertrag: TT-GVO VO (EU) 316/2014 Technologietransfer-Gruppenfreistellung; Marktanteilsschwellen 20 / 30 Prozent; Kernbeschraenkungen Art. 4; nicht-freigestellte Beschraenkungen Art. 5; Schranken bei vertikalen Vertraegen."
+description: "Wenn es um Kartellrecht — TT-GVO (EU) 316/2014 in Lizenzvertragsersteller geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Kartellrecht — TT-GVO (EU) 316/2014

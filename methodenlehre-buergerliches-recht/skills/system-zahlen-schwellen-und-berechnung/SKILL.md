@@ -1,6 +1,6 @@
 ---
 name: system-zahlen-schwellen-und-berechnung
-description: "Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte und Berechnungsformeln im bürgerlichen Recht und Zivilprozess: Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte und Berechnungsformeln im bürgerlich..."
+description: "Wenn es um System Zahlen Schwellen Und Berechnung in Methodenlehre bürgerliches Recht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte und Berechnungsformeln im bürgerlichen Recht und Zivilprozess

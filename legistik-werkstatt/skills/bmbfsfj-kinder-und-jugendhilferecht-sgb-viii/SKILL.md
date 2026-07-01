@@ -1,6 +1,6 @@
 ---
 name: bmbfsfj-kinder-und-jugendhilferecht-sgb-viii
-description: "Sachbereich Kinder- und Jugendhilferecht (SGB VIII) im Geschäftsbereich BMBFSFJ: Normbestand (SGB VIII; KJSG; BKSchG; AdoptionsG; UVG.); Akteure (Jugendaemter; Landesjugendaemter; Bundesjugendamt; Bundeszentrale für Kinder- und Jugend-medienschutz (BzKJ).); EU-Bezug (Kinderschutz-Strategie EU; U"
+description: "Wenn es um Kinder- und Jugendhilferecht (SGB VIII) (BMBFSFJ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Bmbfsfj Kinder Und Jugendhilferecht Sgb Viii; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Kinder- und Jugendhilferecht (SGB VIII) (BMBFSFJ)

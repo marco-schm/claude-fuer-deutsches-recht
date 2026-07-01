@@ -1,6 +1,6 @@
 ---
 name: fragerecht-ohne-freispruch-zweifel
-description: "Fragerecht ohne Vorwegnahme: erklärt Fragen sachlich, offen und ohne Wertung stellen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Fragerecht ohne Vorwegnahme in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Fragerecht ohne Vorwegnahme

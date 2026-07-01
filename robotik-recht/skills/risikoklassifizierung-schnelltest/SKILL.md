@@ -1,6 +1,6 @@
 ---
 name: risikoklassifizierung-schnelltest
-description: "Führt durch Risikoklassen: Maschine, Sicherheitsbauteil, Hochrisiko-KI, Medizinprodukt, Verbraucherprodukt, kritische Infrastruktur, Beschäftigtendaten."
+description: "Wenn es um Risikoklassifizierung Schnelltest in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Risikoklassifizierung Schnelltest; Arbeitsfeld: robotik-recht."
 ---
 
 # Risikoklassifizierung Schnelltest

@@ -1,6 +1,6 @@
 ---
 name: kommunaler-finanztransfer-dashboard-ba
-description: "Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Dashboard bauen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kommunaler Finanztransfer Dashboard Ba in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunaler Finanztransfer Dashboard Ba

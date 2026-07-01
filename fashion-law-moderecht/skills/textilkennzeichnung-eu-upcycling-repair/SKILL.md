@@ -1,6 +1,6 @@
 ---
 name: textilkennzeichnung-eu-upcycling-repair
-description: "Textilkennzeichnung nach VO (EU) 1007/2011 prüfen: Faserbezeichnungen, Zusammensetzung, Etikett, Online-Shop, Sprache, Verantwortlichkeit und Korrektur im Fashion Law Moderecht."
+description: "Wenn es um Textilkennzeichnung Eu 1007 in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Textilkennzeichnung Eu 1007

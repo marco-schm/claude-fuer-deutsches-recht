@@ -1,6 +1,6 @@
 ---
 name: compliance-dokumentation-aktenvermerk
-description: "Normenkontrolle: Compliance-Dokumentation und Aktenvermerk: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahre..."
+description: "Wenn es um Normenkontrolle: Compliance-Dokumentation und Aktenvermerk in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Compliance Dokumentation Aktenvermerk; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Normenkontrolle: Compliance-Dokumentation und Aktenvermerk

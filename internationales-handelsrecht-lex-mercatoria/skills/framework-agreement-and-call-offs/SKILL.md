@@ -1,6 +1,6 @@
 ---
 name: framework-agreement-and-call-offs
-description: "Internationales Handelsrecht: Rahmenvertrag (Framework Agreement) und Abrufaufträge (Call-Offs). Verhältnis Rahmen- zu Einzelauftrag, CISG-Anwendbarkeit auf Abrufaufträge, Mindestmengen, Exklusivität, Preisrecht und Kündigung im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Rahmenvertrag und Abrufaufträge in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rahmenvertrag und Abrufaufträge

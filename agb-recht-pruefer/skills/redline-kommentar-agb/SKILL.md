@@ -1,6 +1,6 @@
 ---
 name: redline-kommentar-agb
-description: "Output- und Streit-Skill für Redline Kommentar AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen."
+description: "Wenn es um Redline Kommentar AGB in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Redline Kommentar AGB

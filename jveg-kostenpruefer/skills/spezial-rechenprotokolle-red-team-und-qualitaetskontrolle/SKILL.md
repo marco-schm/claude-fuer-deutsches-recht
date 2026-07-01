@@ -1,6 +1,6 @@
 ---
 name: spezial-rechenprotokolle-red-team-und-qualitaetskontrolle
-description: "Rechenprotokolle: Red-Team und Qualitätskontrolle im Plugin jveg kostenpruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Rechenprotokolle: Red-Team und Qualitätskontrolle in JVEG-Kostenprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechenprotokolle: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: ordner-auswahl
-description: "Hilft bei Auswahl, Anzahl, Zuverlässigkeit und Briefing von Ordnerinnen und Ordnern im Versammlungsrecht."
+description: "Wenn es um Ordner sind Schutz, kein Privatpolizei-Ersatz in Versammlungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ordner sind Schutz, kein Privatpolizei-Ersatz

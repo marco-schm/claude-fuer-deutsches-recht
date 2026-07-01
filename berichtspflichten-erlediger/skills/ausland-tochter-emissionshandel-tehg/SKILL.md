@@ -1,6 +1,6 @@
 ---
 name: ausland-tochter-emissionshandel-tehg
-description: "Auslandstochter/deutsches Unternehmen: AWV, Konzernbericht, Lieferkette, Steuer, Beschäftigte und Statistik-Schnittstellen im Berichtspflichten."
+description: "Wenn es um Auslandstöchter und deutsche Berichtspflichten in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auslandstöchter und deutsche Berichtspflichten

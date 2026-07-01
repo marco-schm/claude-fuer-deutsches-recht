@@ -1,6 +1,6 @@
 ---
 name: besonders-wichtige-wichtige-einrichtung
-description: "Unterscheidet besonders wichtige und wichtige Einrichtungen und leitet Aufsichtstiefe ab im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Besonders Wichtige Wichtige Einrichtung in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besonders Wichtige Wichtige Einrichtung

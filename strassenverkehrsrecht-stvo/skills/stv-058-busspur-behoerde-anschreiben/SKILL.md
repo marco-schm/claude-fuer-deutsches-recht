@@ -1,6 +1,6 @@
 ---
 name: stv-058-busspur-behoerde-anschreiben
-description: "Straßenverkehrsrecht StVO: Busspur: Behörde anschreiben. Behörde anschreiben für Busspur im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Busspur Behoerde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Busspur Behoerde Anschreiben

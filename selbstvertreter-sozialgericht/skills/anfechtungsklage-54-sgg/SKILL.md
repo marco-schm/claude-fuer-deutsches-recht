@@ -1,6 +1,6 @@
 ---
 name: anfechtungsklage-54-sgg
-description: "Die Anfechtungsklage nach § 54 Abs. 1 SGG. Wann passt sie. Beispiele Bescheid weghaben Sanktion aufheben. Antrag Mustertext für Buerger ohne Anwalt."
+description: "Wenn es um Die Anfechtungsklage — Paragraf 54 Abs. 1 SGG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Die Anfechtungsklage — § 54 Abs. 1 SGG

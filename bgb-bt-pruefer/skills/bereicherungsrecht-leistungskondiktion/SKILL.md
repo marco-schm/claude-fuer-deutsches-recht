@@ -1,6 +1,6 @@
 ---
 name: bereicherungsrecht-leistungskondiktion
-description: "Prüft Leistungskondiktion §§ 812 ff. BGB: Kondiktionstypen, Leistungsbegriff, Rechtsgrund und Subsidiarität."
+description: "Wenn es um Bereicherungsrecht: Leistungskondiktion in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bereicherungsrecht: Leistungskondiktion

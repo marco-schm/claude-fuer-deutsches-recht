@@ -1,6 +1,6 @@
 ---
 name: nda-vor-kundenpitch
-description: "Solo-Selbstständige: ordnet Verschwiegenheit, Pitch-Unterlagen, Ideen und Referenzen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Verträge und AGB: Ordnet verschwiegenheit in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verträge und AGB: Ordnet verschwiegenheit

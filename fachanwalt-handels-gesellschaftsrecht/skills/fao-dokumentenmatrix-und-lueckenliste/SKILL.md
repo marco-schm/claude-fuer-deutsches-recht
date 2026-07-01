@@ -1,6 +1,6 @@
 ---
 name: fao-dokumentenmatrix-und-lueckenliste
-description: "FAO: Dokumentenmatrix, Lückenliste und Nachforderung im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbar..."
+description: "Wenn es um Fao Dokumentenmatrix Und Lückenliste in Fachanwalt Handels- und Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # FAO: Dokumentenmatrix, Lückenliste und Nachforderung im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

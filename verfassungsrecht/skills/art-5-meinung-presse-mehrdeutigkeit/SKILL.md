@@ -1,6 +1,6 @@
 ---
 name: art-5-meinung-presse-mehrdeutigkeit
-description: "Art. 5 GG für Meinungs-, Presse- und Rundfunkfreiheit: Meinungsbegriff, Tatsachenbehauptung, Schmähkritik, mehrdeutige Äußerung, strafgerichtliche Deutung, Lebensmittelkontrolle und Wechselwirkungslehre."
+description: "Wenn es um Art. 5 GG: Meinung, Presse und Mehrdeutigkeit in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Art. 5 GG: Meinung, Presse und Mehrdeutigkeit

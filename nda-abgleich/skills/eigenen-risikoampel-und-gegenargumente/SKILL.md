@@ -1,6 +1,6 @@
 ---
 name: eigenen-risikoampel-und-gegenargumente
-description: "Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eigenen Risikoampel Und Gegenargumente; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien

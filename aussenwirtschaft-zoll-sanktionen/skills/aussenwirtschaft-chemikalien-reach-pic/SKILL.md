@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-chemikalien-reach-pic
-description: "Vertiefter Skill fuer Chemikalien Reach Pic. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: "Wenn es um Chemikalien Reach Pic in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chemikalien Reach Pic

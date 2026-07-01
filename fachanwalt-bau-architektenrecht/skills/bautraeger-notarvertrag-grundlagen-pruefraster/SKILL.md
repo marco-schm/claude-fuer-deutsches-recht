@@ -1,6 +1,6 @@
 ---
 name: bautraeger-notarvertrag-grundlagen-pruefraster
-description: "Bautraegervertrag notarieller Prüfraster Grundlagen: Skill bietet das systematische Prüfraster für den notariellen Bautraegervertrag von Praeambel ueber Leistungsbeschreibung Zahlungsregelung Sicherhei..."
+description: "Wenn es um Bautraegervertrag notarieller Prüfraster Grundlagen in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bautraegervertrag notarieller Prüfraster Grundlagen

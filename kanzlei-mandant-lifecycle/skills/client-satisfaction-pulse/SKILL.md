@@ -1,6 +1,6 @@
 ---
 name: client-satisfaction-pulse
-description: "Client Satisfaction Pulse: steuert kurzer Beziehungspuls: Vertrauen, Tempo, Verständlichkeit, Kosten, Strategieklarheit zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Client Satisfaction Pulse in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Client Satisfaction Pulse

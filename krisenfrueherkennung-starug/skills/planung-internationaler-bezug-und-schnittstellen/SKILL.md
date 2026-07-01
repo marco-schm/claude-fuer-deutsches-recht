@@ -1,6 +1,6 @@
 ---
 name: planung-internationaler-bezug-und-schnittstellen
-description: "Planung: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Planung: Internationaler Bezug und Schnittstellen in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Planung: Internationaler Bezug und Schnittstellen

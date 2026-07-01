@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsychologie-kindliche-zeugen
-description: "Kindliche Zeugen: Entwicklungspsychologische Grundlagen, altersabhaengige Aussagefaehigkeit, Suggestibilitaet, Quellenamnesie, audiovisuelle Vernehmung nach § 58a StPO: Kindliche Zeugen: Entwicklungspsychologische Grundlagen, altersabhaengige Aussagefaehigk..."
+description: "Wenn es um Strafrecht Spezial Aussagepsychologie Kindliche Zeugen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kindliche Zeugen: Entwicklungspsychologische Grundlagen, altersabhaengige Aussagefaehigkeit, Suggestibilitaet, Quellenamnesie, audiovisuelle Vernehmung nach § 58a StPO

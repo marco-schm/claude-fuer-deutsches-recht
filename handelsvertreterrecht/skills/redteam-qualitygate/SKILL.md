@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "'Stellt einen Red-Team-Qualitätscheck für Handelsvertreter-Rechtsdokumente bereit: Überprüfung von Provisionsberechnungen auf Rechenfehler, Validierung von Ausgleichsberechnungen nach § 89b HGB, Prüfung von Vertragsklauseln auf AGB-Konformität und Widerspruchsfreiheit sowie Liveprüfung zitierter..."
+description: "Wenn es um Red-Team Qualitätssicherung für Handelsvertreter-Rechtsdokumente in Handelsvertreterrecht und Vertriebsverträge geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team Qualitätssicherung für Handelsvertreter-Rechtsdokumente

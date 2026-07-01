@@ -1,6 +1,6 @@
 ---
 name: whistleblower-forensic
-description: "Bewertet Whistleblower-Meldungen rechtssicher – HinSchG 2023, EU-Richtlinie 2019/1937, Schutzumfang, Meldestellen und Reaktionspflichten im Internal Investigations Praxis."
+description: "Wenn es um Whistleblower-Schutz und -Management in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Whistleblower-Schutz und -Management

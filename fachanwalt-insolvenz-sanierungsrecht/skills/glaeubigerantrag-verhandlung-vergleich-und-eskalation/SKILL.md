@@ -1,6 +1,6 @@
 ---
 name: glaeubigerantrag-verhandlung-vergleich-und-eskalation
-description: "Gläubigerantrag: Verhandlung, Vergleich und Eskalation im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzba..."
+description: "Wenn es um Glaeubigerantrag Verhandlung Vergleich Und Eskalation in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gläubigerantrag: Verhandlung, Vergleich und Eskalation im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

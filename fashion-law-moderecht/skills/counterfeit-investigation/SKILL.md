@@ -1,6 +1,6 @@
 ---
 name: counterfeit-investigation
-description: "Counterfeit Investigation für Fashion Brands: Testkauf, Lieferkette, Plattform, Zoll, Zahlungsströme, Belege und Eskalation im Fashion Law Moderecht."
+description: "Wenn es um Counterfeit Investigation in fashion-law-moderecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Counterfeit Investigation

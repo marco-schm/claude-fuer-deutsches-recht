@@ -1,6 +1,6 @@
 ---
 name: datenschutz-kameras-und-sensorik
-description: "Prüft Kameras, Lidar, Mikrofone, Tiefensensoren und Umgebungsdaten von Robotern nach DSGVO und BDSG."
+description: "Wenn es um Datenschutz Sensorik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenschutz Kameras Und Sensorik; Arbeitsfeld: robotik-recht."
 ---
 
 # Datenschutz Sensorik

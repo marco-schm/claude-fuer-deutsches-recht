@@ -1,6 +1,6 @@
 ---
 name: einbuergerung-quellenkarte
-description: "Einbuergerung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Einbuergerung Quellenkarte in Fachanwalt Migrationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Einbuergerung Quellenkarte

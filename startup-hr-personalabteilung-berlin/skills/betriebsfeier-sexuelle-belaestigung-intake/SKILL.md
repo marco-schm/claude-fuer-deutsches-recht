@@ -1,6 +1,6 @@
 ---
 name: betriebsfeier-sexuelle-belaestigung-intake
-description: "Berliner Start-up-HR: Sexuelle Belästigung bei Betriebsfeier: Sofortschutz, AGG-Beschwerde, Untersuchung, Verhältnismäßigkeit und Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Betriebsfeier Sexuelle Belaestigung Intake in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Betriebsfeier Sexuelle Belaestigung Intake

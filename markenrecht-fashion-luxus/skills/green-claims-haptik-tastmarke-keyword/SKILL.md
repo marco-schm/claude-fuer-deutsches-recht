@@ -1,6 +1,6 @@
 ---
 name: green-claims-haptik-tastmarke-keyword
-description: "Nachhaltigkeitsmarken und Green Claims prüfen: Markenanmeldung, beschreibende Umweltangaben, Täuschungsgefahr, UWG, Nachweisführung, Zertifizierungszeichen, Greenwashing-Risiko und Produktkommunikation im Markenrecht Fashion Luxus."
+description: "Wenn es um Green Claims und Nachhaltigkeitsmarken in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Green Claims und Nachhaltigkeitsmarken

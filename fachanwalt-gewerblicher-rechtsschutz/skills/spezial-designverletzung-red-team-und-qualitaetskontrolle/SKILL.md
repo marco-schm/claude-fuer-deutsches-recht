@@ -1,6 +1,6 @@
 ---
 name: spezial-designverletzung-red-team-und-qualitaetskontrolle
-description: "Designverletzung: Red-Team und Qualitätskontrolle im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Designverletzung: Red-Team und Qualitätskontrolle in Fachanwalt Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Designverletzung: Red-Team und Qualitätskontrolle

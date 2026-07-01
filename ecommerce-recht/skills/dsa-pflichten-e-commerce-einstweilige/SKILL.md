@@ -1,6 +1,6 @@
 ---
 name: dsa-pflichten-e-commerce-einstweilige
-description: "DSA Pflichten Vermittlungsdienste Online-Plattformen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG im Ecommerce..."
+description: "Wenn es um DSA Pflichten Vermittlungsdienste Online-Plattformen in E-Commerce-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DSA Pflichten Vermittlungsdienste Online-Plattformen

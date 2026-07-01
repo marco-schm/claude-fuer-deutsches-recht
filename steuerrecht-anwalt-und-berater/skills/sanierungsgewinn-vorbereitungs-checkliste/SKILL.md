@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-vorbereitungs-checkliste
-description: "Operative Checkliste zur Vorbereitung des Antrags nach Paragraf 3a Absatz 4 EStG. Listet pro Phase die zu beschaffenden Unterlagen, die einzubindenden Berater und die zu führenden Beweise für die vier Voraussetzungen der unternehmensbezogenen Sanierung."
+description: "Wenn es um Sanierungsgewinn — operative Vorbereitungs-Checkliste in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sanierungsgewinn — operative Vorbereitungs-Checkliste

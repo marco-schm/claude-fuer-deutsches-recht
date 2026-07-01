@@ -1,6 +1,6 @@
 ---
 name: versicherungsvermittler-abgrenzung
-description: "Prüft die Abgrenzung zwischen Handelsvertreter nach HGB und Versicherungsvermittler nach § 59 VVG und GewO: Anwendbarkeit des HGB auf Versicherungsvertreter, Sonderregeln nach §§ 59 ff. VVG, Provisions- und Ausgleichsansprüche sowie berufsrechtliche Anforderungen nach § 34d GewO im Handelsvertret..."
+description: "Wenn es um Versicherungsvermittler: Abgrenzung HGB-Handelsvertreter zu Paragraf 59 ff. VVG in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Versicherungsvermittler: Abgrenzung HGB-Handelsvertreter zu § 59 ff. VVG

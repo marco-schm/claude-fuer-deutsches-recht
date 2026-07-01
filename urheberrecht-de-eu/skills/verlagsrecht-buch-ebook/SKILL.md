@@ -1,6 +1,6 @@
 ---
 name: verlagsrecht-buch-ebook
-description: "Prüft Autorenvertrag, Verlagsrecht, E-Book, Hörbuch, Übersetzung, Nebenrechte, Remission und KI-Nutzungen im Urheberrecht De Eu."
+description: "Wenn es um Verlagsrecht Buch und E-Book in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht Buch und E-Book

@@ -1,6 +1,6 @@
 ---
 name: geschaeftsgeheimnis-schutz-gehg-bgh-i-zb-117-19
-description: "Geschäftsgeheimnis Schutz Gehg BGH I Zb 117 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Geschäftsgeheimnis Schutz Gehg BGH I Zb 117 19 in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschäftsgeheimnis Schutz Gehg BGH I Zb 117 19

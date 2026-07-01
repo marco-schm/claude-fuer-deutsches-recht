@@ -1,6 +1,6 @@
 ---
 name: oew-081-parkhaus-organisationsform-pruefen
-description: "Öffentliches Wirtschaftsrecht: Parkhaus: Organisationsform prüfen. Organisationsform prüfen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Parkhaus Organisationsform Pruefen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parkhaus Organisationsform Pruefen

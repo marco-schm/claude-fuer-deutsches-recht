@@ -1,6 +1,6 @@
 ---
 name: ki-arbeitsauftrag-mahnwesen-honorar
-description: "Kanzleiweiter Skill, der aus einer unklaren Bitte, einem Dokumentenpaket oder einer Sprachnotiz einen praezisen KI-Arbeitsauftrag macht. Klaert Ziel, Kontext, Outputformat, Grenzen, Quellenstandard, Datenschutz, Fristen und Abnahmekriterien im Kanzlei Allgemein."
+description: "Wenn es um digitale Werkzeuge-Arbeitsauftrag Briefing in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # KI-Arbeitsauftrag Briefing

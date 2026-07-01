@@ -1,6 +1,6 @@
 ---
 name: lph-06-rechnung-und-prueffaehigkeit
-description: "HOAI LPH 6 Vorbereitung der Vergabe: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 6 Vorbereitung der Vergabe: Prüft abschlag in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Prüft abschlag

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg für Internal Investigations: Anlass, Auftrag, Scope, Sofortmassnahmen, Interviews, Datenschutz, Privilege-Risiko und Bericht."
+description: "Wenn es um Kaltstart Internal Investigation in Internal Investigations Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kaltstart Triage; Arbeitsfeld: Internal Investigations Praxis."
 ---
 
 # Kaltstart Internal Investigation

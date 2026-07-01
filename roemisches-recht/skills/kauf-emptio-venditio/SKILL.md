@@ -1,6 +1,6 @@
 ---
 name: kauf-emptio-venditio
-description: "Römisches Recht: Kauf Emptio Venditio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Kauf Emptio Venditio in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kauf Emptio Venditio

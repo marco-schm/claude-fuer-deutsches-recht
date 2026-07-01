@@ -1,6 +1,6 @@
 ---
 name: podcast-onlineportal
-description: "Verlagsrecht: Podcast-Produktion aus Verlagsinhalten — Nutzungsrechte, GEMA, Sprecher-Leistungsschutz, Content-Recycling-Klauseln und medienrechtliche Anforderungen im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-035 · Podcast und Verlag: Content-Recycling in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-035 · Podcast und Verlag: Content-Recycling

@@ -1,6 +1,6 @@
 ---
 name: nachversicherung-beamte-referendare-soldaten
-description: "Nachversicherung nach Ausscheiden aus versicherungsfreier Beschäftigung: Beamte, Referendare, Soldaten, Kirchenbeamte, Aufschub und Zielsystem im Rentenpruefer."
+description: "Wenn es um nachversicherung-beamte-referendare-soldaten in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # nachversicherung-beamte-referendare-soldaten

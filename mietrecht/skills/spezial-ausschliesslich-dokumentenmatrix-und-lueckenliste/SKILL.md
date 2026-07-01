@@ -1,6 +1,6 @@
 ---
 name: spezial-ausschliesslich-dokumentenmatrix-und-lueckenliste
-description: "Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin mietrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung

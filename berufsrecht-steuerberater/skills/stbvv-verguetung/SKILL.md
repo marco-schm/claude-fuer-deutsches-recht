@@ -1,6 +1,6 @@
 ---
 name: stbvv-verguetung
-description: "Steuerberater: stbvv vergütung und transparenz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Stbvv Verguetung in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: stbvv vergütung und transparenz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

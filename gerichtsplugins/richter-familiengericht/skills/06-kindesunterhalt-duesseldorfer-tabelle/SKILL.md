@@ -1,6 +1,6 @@
 ---
 name: 06-kindesunterhalt-duesseldorfer-tabelle
-description: "Prüft Kindesunterhalt richterlich mit Bedarf, Einkommen, Leistungsfähigkeit, Düsseldorfer Tabelle, Leitlinien, Selbstbehalt, Mangelfall, dynamischem Titel und vollstreckbarem Tenor."
+description: "Wenn es um Kindesunterhalt und Düsseldorfer Tabelle in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kindesunterhalt und Düsseldorfer Tabelle

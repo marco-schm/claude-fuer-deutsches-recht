@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Führt durch Grundstück, Erbbauberechtigte, Eigentümer, Laufzeit, Bauwerk, Erbbauzins, Heimfall, Finanzierung, Zustimmung und Grundbuchvollzug."
+description: "Wenn es um Kaltstart Erbbaurecht in Erbbaurecht Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kaltstart Erbbaurecht

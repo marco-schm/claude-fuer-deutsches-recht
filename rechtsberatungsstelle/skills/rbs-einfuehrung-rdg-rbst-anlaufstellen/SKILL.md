@@ -1,6 +1,6 @@
 ---
 name: rbs-einfuehrung-rdg-rbst-anlaufstellen
-description: "Rechtsberatungsstelle einfuehrend: typische Beratungsfelder Mietrecht, Sozialrecht, Familienrecht, Arbeitsrecht, Verbraucherrecht. Schutzfunktion für Beratungsberechtigte, Schnittstelle Beratungshilfe BerHG. Entscheidungstabelle im Rechtsberatungsstelle."
+description: "Wenn es um Rbs: Themen-Map in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rbs: Themen-Map

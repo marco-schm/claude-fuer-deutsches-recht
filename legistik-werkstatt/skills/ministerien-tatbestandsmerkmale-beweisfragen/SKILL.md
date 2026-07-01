@@ -1,6 +1,6 @@
 ---
 name: ministerien-tatbestandsmerkmale-beweisfragen
-description: "Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensst..."
+description: "Wenn es um Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage

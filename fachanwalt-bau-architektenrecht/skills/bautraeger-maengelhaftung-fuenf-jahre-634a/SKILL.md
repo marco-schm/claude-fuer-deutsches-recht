@@ -1,6 +1,6 @@
 ---
 name: bautraeger-maengelhaftung-fuenf-jahre-634a
-description: "Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB: Skill klaert die Verjährungsfrist Bauwerk Beginn der Frist (Abnahme) Hemmung Unterbrechung sowie die Kategorisierung der Maengel offene und versteckte. Lie..."
+description: "Wenn es um Bautraeger-Maengelhaftung 5 Jahre nach Paragraf 634a BGB in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB

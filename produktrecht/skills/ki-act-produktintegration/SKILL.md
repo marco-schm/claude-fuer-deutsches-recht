@@ -1,6 +1,6 @@
 ---
 name: ki-act-produktintegration
-description: "KI-Verordnung-Integration in Produkte: Hochrisiko-KI nach Anhang III, Konformitaetsbewertung mit CE-Kennzeichnung, Verzahnung mit Maschinen-VO und Medizinprodukten. Prüfraster für Produktverantwortliche, ab welchen KI-Bausteinen welche Pflichten ausgeloest werden im Produktrecht."
+description: "Wenn es um europäischer Technikregulierungsrahmen: Produktintegration in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI-VO: Produktintegration

@@ -1,6 +1,6 @@
 ---
 name: bankrecht-buergschaft-aval-garantie-routing
-description: "Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen: Bürge, Bank, Begünstigter oder Kunde: §§ 765 ff. BGB, §§ 349 und 350 HGB, erstes Anford..."
+description: "Wenn es um Bankrecht Buergschaft Aval Garantie Routing in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen: Bürge, Bank, Begünstigter oder Kunde

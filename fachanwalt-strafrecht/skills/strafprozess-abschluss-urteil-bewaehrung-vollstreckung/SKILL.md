@@ -1,6 +1,6 @@
 ---
 name: strafprozess-abschluss-urteil-bewaehrung-vollstreckung
-description: "Abschlussnach Urteil, Einstellung oder Verständigung: sichert Rechtsmittelfristen, Bewährungsauflagen, Zahlungspflichten, Führungszeugnisfolgen, Vollstreckung, Mandantenbrief, Aktenabschluss und Wiedervorlagen: Abschlussnach Urteil, Einstellung oder Verstä..."
+description: "Wenn es um Strafprozess Abschluss Urteil Bewaehrung Vollstreckung in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abschlussnach Urteil, Einstellung oder Verständigung: sichert Rechtsmittelfristen, Bewährungsauflagen, Zahlungspflichten, Führungszeugnisfolgen, Vollstreckung, Mandantenbrief, Aktenabschluss und Wiedervorlagen.

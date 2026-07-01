@@ -1,6 +1,6 @@
 ---
 name: haftpflichtdeckung-berufsverfahren-praevention
-description: "Haftpflichtdeckung im Berufsverfahren (Präventions- und Organisationspaket): steuert Berufshaftpflicht, Deckungsanzeige, Ausschluss, Selbstbehalt und Interessenkonflikt mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfah..."
+description: "Wenn es um Haftpflichtdeckung im Berufsverfahren: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Haftpflichtdeckung im Berufsverfahren: Präventions- und Organisationspaket

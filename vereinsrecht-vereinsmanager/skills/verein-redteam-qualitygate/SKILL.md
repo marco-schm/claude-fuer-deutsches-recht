@@ -1,6 +1,6 @@
 ---
 name: verein-redteam-qualitygate
-description: "Letzte Prüfung von Satzung, Einladung, Protokoll, Beschluss, Registeranmeldung oder Finanzamtsschreiben."
+description: "Wenn es um Red-Team Vereinsrecht in Vereinsrecht und Vereinsmanager geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team Vereinsrecht

@@ -1,6 +1,6 @@
 ---
 name: kanzlei-mandantenkommunikation-entscheidungsvorlage
-description: "Kanzlei: Mandantenkommunikation und Entscheidungsvorlage: Kanzlei: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Wenn es um Kanzlei: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzlei: Mandantenkommunikation und Entscheidungsvorlage

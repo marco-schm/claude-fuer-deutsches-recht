@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagedelikte-154-stgb-meineid
-description: "Meineid nach Paragraph 154 StGB: Vereidigung als Voraussetzung. Qualifikation der falschen uneidlichen Aussage Paragraph 153 StGB. Eidesformel und Versicherungsformeln. Subjektiver Tatbestand Vorsatz. Berichtigungsmoeglichke..."
+description: "Wenn es um Meineid nach Paragraph 154 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meineid nach Paragraph 154 StGB

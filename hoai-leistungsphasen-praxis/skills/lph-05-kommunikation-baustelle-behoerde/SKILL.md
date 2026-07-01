@@ -1,6 +1,6 @@
 ---
 name: lph-05-kommunikation-baustelle-behoerde
-description: "HOAI LPH 5 Ausführungsplanung: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen..."
+description: "Wenn es um LPH 5 Ausführungsplanung: Formuliert klare e-mails an bauherr in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 5 Ausführungsplanung: Formuliert klare e-mails an bauherr

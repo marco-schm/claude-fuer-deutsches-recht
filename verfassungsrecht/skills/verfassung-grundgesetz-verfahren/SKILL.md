@@ -1,6 +1,6 @@
 ---
 name: verfassung-grundgesetz-verfahren
-description: "Verfassungsänderung nach Art. 79 GG prüfen: Änderungsform, Zwei-Drittel-Mehrheiten in Bundestag und Bundesrat, Art. 79 Abs. 3 GG, Identitätskern, Bundesstaats- und Demokratiegrenzen, europäische Integrationsschnittstelle und Formulierung verfassungsfester Änderungsalternativen."
+description: "Wenn es um Verfassungsänderung nach Art. 79 GG in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verfassungsänderung nach Art. 79 GG

@@ -1,6 +1,6 @@
 ---
 name: gesellschafts-compliance
-description: "Gesellschafts-Compliance-Tracker – Initialisierung, Fälligkeitsbericht, Status-Update, Gesundheits-Audit, Export. Pflegt eine compliance-tracker.yaml aus der Gesellschaftstabelle, berechnet Einreichungsfristen nach Rechtsträger und Rechtsordnung und zeigt auf, was in den nächsten 30/60/90 Tagen f..."
+description: "Wenn es um Gesellschafts Compliance in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesellschafts-Compliance (Paragraf 325 HGB Bilanzpublizität; Paragraf 20 GwG Transparenzregister)

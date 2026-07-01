@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation-redteam-qualitygate-vermieter
-description: "Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Mietrecht."
+description: "Wenn es um Mandantenkommunikation in Mietrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Mandantenkommunikation

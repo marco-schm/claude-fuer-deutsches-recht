@@ -1,6 +1,6 @@
 ---
 name: regress-forderungsuebergang-und-sicherheitenfreigabe
-description: "Regress nach Bürgschafts-, Aval- oder Garantiezahlung prüfen: Forderungsübergang § 774 BGB, Kundenbelastung, Sicherheitenverwertung, Mitbürgen, Freigabepflichten, Insolvenz und Vergleich im Bank-Rechtsabteilung."
+description: "Wenn es um Regress, Forderungsübergang und Sicherheitenfreigabe in Bank-Rechtsabteilung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Regress, Forderungsübergang und Sicherheitenfreigabe

@@ -1,6 +1,6 @@
 ---
 name: dfg-kollegen-review-organisieren
-description: "Kollegen-Review eines DFG-Antrags strukturiert organisieren: 2 erfahrene Profs aus dem Fach plus 1 Methodik-Kollege, Briefing-Mail, Review-Raster (Originalitaet, Arbeitsprogramm, Finanzplan, Vorarbeiten), 1-Wochen-Frist. Output Vorlage Briefing und Review-Raster."
+description: "Wenn es um DFG: Kollegen-Review organisieren in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DFG: Kollegen-Review organisieren

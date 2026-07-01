@@ -1,6 +1,6 @@
 ---
 name: hamburg-spezial-speicherstadt-kontorhausviertel
-description: "Hamburger Besonderheit: Speicherstadt und Kontorhausviertel mit Chilehaus seit 2015 UNESCO-Welterbe. Skill erlaeutert die Schutzkategorien (Welterbe-Kernzone, Pufferzone, Erhaltungssatzung HafenCity), das Beteiligungsrecht des Denkmalschutzamts in Bauvorhaben und die typischen Konflikte zwischen wirtschaftlicher Umnutzung der Speicherstadt-Lager und Welterbeschutz."
+description: "Wenn es um Speicherstadt und Kontorhausviertel mit Chilehaus als UNESCO-Welterbe in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Speicherstadt und Kontorhausviertel mit Chilehaus als UNESCO-Welterbe

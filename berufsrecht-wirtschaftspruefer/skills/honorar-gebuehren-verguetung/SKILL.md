@@ -1,6 +1,6 @@
 ---
 name: honorar-gebuehren-verguetung
-description: "Honorar, Gebühren und Vergütung: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Vergütungsvereinbarung, Gebührenrecht, Vorschuss, Erfolgshonorargrenzen und Rechnung, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrec..."
+description: "Wenn es um Honorar, Gebühren und Vergütung in Berufsrecht Wirtschaftsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Honorar, Gebühren und Vergütung

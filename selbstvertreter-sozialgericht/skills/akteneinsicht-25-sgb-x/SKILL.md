@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-25-sgb-x
-description: "Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschäftsgeheimnisse Schutz Dritter) und das Verhältnis zur DSGVO-Auskunft. Liefert Antragsvorlage."
+description: "Wenn es um Akteneinsicht 25 Sgb X in selbstvertreter-sozialgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Akteneinsicht 25 Sgb X

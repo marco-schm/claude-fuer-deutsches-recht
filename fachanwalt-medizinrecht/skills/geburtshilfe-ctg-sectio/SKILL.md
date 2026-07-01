@@ -1,6 +1,6 @@
 ---
 name: geburtshilfe-ctg-sectio
-description: "Geburtshilfe CTG und Sectio: moderner Medizinrechts-Skill für Pathologisches CTG, Entscheidungs-Entbindungszeit, Hebammen-/Ärzteteam und grober Fehler: Geburtshilfe CTG und Sectio: moderner Medizinrechts-Skill für Pathologisches CTG, Entscheidungs-Entbindun..."
+description: "Wenn es um Geburtshilfe Ctg Sectio in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geburtshilfe CTG und Sectio: moderner Medizinrechts-Skill für Pathologisches CTG, Entscheidungs-Entbindungszeit, Hebammen-/Ärzteteam und grober Fehler

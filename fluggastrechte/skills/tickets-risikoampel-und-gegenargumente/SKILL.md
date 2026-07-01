@@ -1,6 +1,6 @@
 ---
 name: tickets-risikoampel-und-gegenargumente
-description: "Tickets: Risikoampel, Gegenargumente und Verteidigungslinien im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Tickets: Risikoampel, Gegenargumente und Verteidigungslinien in Fluggastrechte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tickets Risikoampel Und Gegenargumente; Arbeitsfeld: Fluggastrechte."
 ---
 
 # Tickets: Risikoampel, Gegenargumente und Verteidigungslinien

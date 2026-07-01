@@ -1,6 +1,6 @@
 ---
 name: foerderverein-schule-fusion-vereine
-description: "Regelt Gemeinnützigkeit, Schulförderung, Kita-Nähe, Mittelverwendung, Datenschutz und Interessenkonflikte im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Förderverein Schule/Kita in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Förderverein Schule/Kita

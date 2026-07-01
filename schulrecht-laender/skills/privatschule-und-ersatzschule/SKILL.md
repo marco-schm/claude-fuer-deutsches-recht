@@ -1,6 +1,6 @@
 ---
 name: privatschule-und-ersatzschule
-description: "Prüft private Schulen, Ersatzschule, Ergänzungsschule und Schulvertrag im Schulrecht Länder."
+description: "Wenn es um Privatschule Und Ersatzschule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Privatschule Und Ersatzschule

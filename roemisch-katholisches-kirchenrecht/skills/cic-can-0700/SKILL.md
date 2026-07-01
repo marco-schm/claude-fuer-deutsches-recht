@@ -1,6 +1,6 @@
 ---
 name: cic-can-0700
-description: "CIC can. 700: Normnavigator fuer Buch II - Volk Gottes (can. 204-746); amtlichen Canon-Text live pruefen, Tatbestand, Zuständigkeit, Partikularrecht, Katechismusbezug und pastorale Ausgabe sauber trennen."
+description: "Wenn es um CIC can. 700 - Buch II - Volk Gottes in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # CIC can. 700 - Buch II - Volk Gottes

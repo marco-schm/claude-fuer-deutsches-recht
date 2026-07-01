@@ -1,6 +1,6 @@
 ---
 name: bmds-digitale-verwaltung-ozg-und-egovg
-description: "Sachbereich Digitale Verwaltung (OZG; EGovG) im Geschäftsbereich BMDS: Normbestand (OZG; OZG-AeG; EGovG; EGovG-Länder; eIDAS-DurchG; XOeV.); Akteure (BMDS; ITZBund; FITKO; Länder-CIOs; Bundesdruckerei.); EU-Bezug (Single Digital Gateway; eIDAS 2.0; EU Digital Wallet.); typische Legistik-Aufgaben..."
+description: "Wenn es um Digitale Verwaltung (OZG; EGovG) (BMDS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Digitale Verwaltung (OZG; EGovG) (BMDS)

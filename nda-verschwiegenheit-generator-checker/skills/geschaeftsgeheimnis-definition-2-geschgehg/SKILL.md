@@ -1,6 +1,6 @@
 ---
 name: geschaeftsgeheimnis-definition-2-geschgehg
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geschäftsgeheimnis Definition 2 Geschgehg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Geschäftsgeheimnis Definition 2 Geschgehg in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Geschäftsgeheimnis Definition 2 Geschgehg

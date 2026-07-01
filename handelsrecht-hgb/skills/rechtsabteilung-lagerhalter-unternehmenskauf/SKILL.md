@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-lagerhalter-unternehmenskauf
-description: "Rechtsabteilungs-Fachmodul für Lagerhalter- und Speditionshaftung: Schaden, Haftungsgrenzen und Regressketten werden schnell berechnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsrecht Hgb."
+description: "Wenn es um Rechtsabteilung: Lagerhalter- und Speditionshaftung in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsabteilung: Lagerhalter- und Speditionshaftung

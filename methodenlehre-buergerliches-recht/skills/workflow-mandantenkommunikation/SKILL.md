@@ -1,6 +1,6 @@
 ---
 name: workflow-mandantenkommunikation
-description: "Dieses Skill strukturiert die anwaltliche Mandantenkommunikation im Verlauf zivilrechtlicher Mandate: Es zeigt, wie rechtliche Einschätzungen mandantengere..."
+description: "Wenn es um Workflow Mandantenkommunikation in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dieses Skill strukturiert die anwaltliche Mandantenkommunikation im Verlauf zivilrechtlicher Mandate

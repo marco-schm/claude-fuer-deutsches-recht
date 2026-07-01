@@ -1,6 +1,6 @@
 ---
 name: asylantrag-folgeverfahren-paragraf-71-asylg
-description: "Asylantrag Folgeverfahren § 71 AsylG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Asylantrag Folgeverfahren Paragraf 71 AsylG in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Asylantrag Folgeverfahren § 71 AsylG

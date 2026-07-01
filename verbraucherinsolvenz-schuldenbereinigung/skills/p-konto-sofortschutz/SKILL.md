@@ -1,6 +1,6 @@
 ---
 name: p-konto-sofortschutz
-description: "P-Konto-Sofortschutz: Umwandlung, Freibeträge, Bescheinigung, Nachzahlungen, Kindergeld und Doppelpfändung: Normanker: ZPO §§ 850k ff.; Pfändungssc..."
+description: "Wenn es um P Konto Sofortschutz in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # P-Konto-Sofortschutz: Umwandlung, Freibeträge, Bescheinigung, Nachzahlungen, Kindergeld und Doppelpfändung.

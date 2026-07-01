@@ -1,6 +1,6 @@
 ---
 name: digitale-inhalte-vergleich-vorschlagen
-description: "Prüfer: Digitale Inhalte: Vergleich vorschlagen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Digitale Inhalte Vergleich Vorschlagen in Verbraucherschutzrecht Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Digitale Inhalte Vergleich Vorschlagen

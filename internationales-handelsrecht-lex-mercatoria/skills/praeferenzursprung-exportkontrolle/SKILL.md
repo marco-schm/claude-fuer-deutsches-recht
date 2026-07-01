@@ -1,6 +1,6 @@
 ---
 name: praeferenzursprung-exportkontrolle
-description: "Internationales Handelsrecht: Präferenzieller Ursprung in EU-Freihandelsabkommen (CETA, EUSFTA, EU-UK TCA). Listenregeln, Kumulierung, REX-System, Lieferantenerklärungen nach VO (EU) 2015/2447 Art. 62 und Präferenznachweise (EUR.1, A.TR, REX) im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Präferenzieller Ursprung und Lieferantenerklärungen in Internationales Handelsrecht und Lex Mercatoria geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Präferenzieller Ursprung und Lieferantenerklärungen

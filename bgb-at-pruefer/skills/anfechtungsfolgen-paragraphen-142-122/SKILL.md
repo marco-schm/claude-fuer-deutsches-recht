@@ -1,6 +1,6 @@
 ---
 name: anfechtungsfolgen-paragraphen-142-122
-description: "Klausurfall zu Anfechtungsfolgen nach §§ 142 und 122 BGB: ex-tunc-Nichtigkeit des angefochtenen Rechtsgeschäfts, Rückabwicklung nach §§ 812 ff. BGB, Vertrauensschaden des Anfechtungsgegners und Abgrenzung zum Erfüllungsinteresse."
+description: "Wenn es um Anfechtungsfolgen — Paragrafen 142 und 122 BGB in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Anfechtungsfolgen Paragraphen 142 122; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Anfechtungsfolgen — §§ 142 und 122 BGB

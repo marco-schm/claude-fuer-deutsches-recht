@@ -1,6 +1,6 @@
 ---
 name: spezial-erkennt-red-team-und-qualitaetskontrolle
-description: "Erkennt: Red-Team und Qualitätskontrolle im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Erkennt: Red-Team und Qualitätskontrolle in Aktenaufbereiter Strafrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erkennt: Red-Team und Qualitätskontrolle

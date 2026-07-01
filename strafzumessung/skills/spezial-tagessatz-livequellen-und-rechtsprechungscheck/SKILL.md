@@ -1,6 +1,6 @@
 ---
 name: spezial-tagessatz-livequellen-und-rechtsprechungscheck
-description: "Tagessatz: Livequellen- und Rechtsprechungscheck im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Tagessatz: Livequellen- und Rechtsprechungscheck in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tagessatz: Livequellen- und Rechtsprechungscheck

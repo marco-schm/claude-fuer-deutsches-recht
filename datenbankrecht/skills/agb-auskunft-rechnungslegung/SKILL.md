@@ -1,6 +1,6 @@
 ---
 name: agb-auskunft-rechnungslegung
-description: "Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Auslesen-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schrank..."
+description: "Wenn es um Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung

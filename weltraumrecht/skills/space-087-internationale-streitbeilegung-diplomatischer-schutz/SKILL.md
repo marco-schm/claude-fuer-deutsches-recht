@@ -1,6 +1,6 @@
 ---
 name: space-087-internationale-streitbeilegung-diplomatischer-schutz
-description: "Weltraumrecht: Internationale Streitbeilegung diplomatischer Schutz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Internationale Streitbeilegung diplomatischer Schutz in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Internationale Streitbeilegung diplomatischer Schutz

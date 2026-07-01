@@ -1,6 +1,6 @@
 ---
 name: anlagen-duplikate-versionen-hashlog
-description: "Erkennt doppelte Dateien, verschiedene Fassungen desselben Dokuments, OCR-Kopien, E-Mail-Anhänge und manipulativ wirkende Metadatenbrüche; erzeugt ein Hash- und Versionenprotokoll."
+description: "Wenn es um Duplikate, Fassungen und Hashlog in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Duplikate, Fassungen und Hashlog

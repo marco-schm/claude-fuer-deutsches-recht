@@ -1,6 +1,6 @@
 ---
 name: memo-ergebnis-handlungsempfehlung
-description: "Ergebnis und Handlungsempfehlung trennen: Ergebnis ist die rechtliche Antwort, Handlungsempfehlung ist die operative Konsequenz. Empfehlung mit Optionen, Risikoabschaetzung, Kostenrahmen, naechster Schritt mit verantwortlicher Person und Frist im Memorandums Ersteller."
+description: "Wenn es um Memo: Ergebnis + Handlungsempfehlung in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Memo: Ergebnis + Handlungsempfehlung

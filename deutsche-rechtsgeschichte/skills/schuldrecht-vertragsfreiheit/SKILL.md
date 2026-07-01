@@ -1,6 +1,6 @@
 ---
 name: schuldrecht-vertragsfreiheit
-description: "Deutsche Rechtsgeschichte: Schuldrecht und Vertragsfreiheit. BGB-Schuldrecht 1900, Vertragsfreiheit und ihre Schranken, Schuldrechtsreform 2002 und europaeische Ueberformung des Vertragsrechts im Deutsche Rechtsgeschichte."
+description: "Wenn es um Schuldrecht und Vertragsfreiheit in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schuldrecht und Vertragsfreiheit

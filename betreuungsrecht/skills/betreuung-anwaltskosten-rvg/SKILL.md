@@ -1,6 +1,6 @@
 ---
 name: betreuung-anwaltskosten-rvg
-description: "Anwaltskosten im Betreuungsverfahren: RVG, Verfahrenspflegerbestellung, Verfahrenskostenhilfe nach § 76 FamFG. Empfehlung Mandantenkommunikation Kosten."
+description: "Wenn es um Betreuung: Anwaltskosten in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betreuung: Anwaltskosten

@@ -1,6 +1,6 @@
 ---
 name: drag-tag-piggyback
-description: "Unterscheidet Drag-along, Tag-along und Piggyback Rights mit Triggern, Mehrheiten, Minderheitenschutz, Vollzug und deutscher Dokumentenlogik im Gesellschaftsrecht Legal English."
+description: "Wenn es um Drag, Tag und Piggyback in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Drag, Tag und Piggyback

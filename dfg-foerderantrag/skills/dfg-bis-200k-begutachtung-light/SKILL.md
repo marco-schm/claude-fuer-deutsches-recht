@@ -1,6 +1,6 @@
 ---
 name: dfg-bis-200k-begutachtung-light
-description: "Kleine und mittlere DFG-Anträge bis 200.000 Euro begutachtungsfreundlich bauen: klare Kernfrage, schlanker Finanzplan, ein Gutachten möglich, schnelle Lesbarkeit, Fortsetzungsfähigkeit."
+description: "Wenn es um DFG-Antrag bis 200.000 Euro in DFG-Förderantrag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # DFG-Antrag bis 200.000 Euro

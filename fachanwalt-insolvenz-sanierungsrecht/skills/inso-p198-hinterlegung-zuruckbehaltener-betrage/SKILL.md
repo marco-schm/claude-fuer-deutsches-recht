@@ -1,6 +1,6 @@
 ---
 name: inso-p198-hinterlegung-zuruckbehaltener-betrage
-description: "§ 198 InsO (Hinterlegung zurückbehaltener Beträge) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 198 InsO (Hinterlegung zurückbehaltener Beträge) im Mandat prüfen: Normzweck, Tatbestand,..."
+description: "Wenn es um Inso P198 Hinterlegung Zuruckbehaltener Betrage in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 198 InsO (Hinterlegung zurückbehaltener Beträge) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

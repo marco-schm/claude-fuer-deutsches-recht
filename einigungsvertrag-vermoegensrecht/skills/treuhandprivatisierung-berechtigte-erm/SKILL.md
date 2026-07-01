@@ -1,6 +1,6 @@
 ---
 name: treuhandprivatisierung-berechtigte-erm
-description: "Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Berechtigte ermitteln im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Treuhandprivatisierung Berechtigte Erm in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Treuhandprivatisierung Berechtigte Erm

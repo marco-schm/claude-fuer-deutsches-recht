@@ -1,6 +1,6 @@
 ---
 name: db-054-metadaten-katalog-und-thesaurus
-description: "Datenbankrecht: Metadaten Katalog und Thesaurus mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Metadaten Katalog und Thesaurus in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Metadaten Katalog und Thesaurus

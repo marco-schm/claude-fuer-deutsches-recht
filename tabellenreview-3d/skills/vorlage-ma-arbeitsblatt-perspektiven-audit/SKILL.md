@@ -1,6 +1,6 @@
 ---
 name: vorlage-ma-arbeitsblatt-perspektiven-audit
-description: "Vorlagetabelle für M-und-A-Due-Diligence im 3D-Format: Forderungen, Verbindlichkeiten, Rechtsrisiken. Normen: GmbHG, AktG, HGB, InsO. Prüfraster: Vertragsrisiken, Haftungsuebernahme, steuerliche Lasten. Output: Due-Diligence-Tabelle für M-und-A-Transaktionen. Abgrenzung: nicht allgemeines M-und-A"
+description: "Wenn es um /tabellenreview-3d:vorlage-ma-due-diligence in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vorlage M&A Arbeitsblatt Perspektiven Audit; Arbeitsfeld: Tabellenreview 3D."
 ---
 
 # /tabellenreview-3d:vorlage-ma-due-diligence

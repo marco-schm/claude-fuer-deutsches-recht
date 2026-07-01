@@ -1,6 +1,6 @@
 ---
 name: drg-028-notverordnung-und-demokratiekrise
-description: "Deutsche Rechtsgeschichte: Notverordnung Und Demokratiekrise. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Notverordnung Und Demokratiekrise in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notverordnung Und Demokratiekrise

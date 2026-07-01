@@ -1,6 +1,6 @@
 ---
 name: spezial-forderungsmanagement-tatbestand-beweis-und-belege
-description: "Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage

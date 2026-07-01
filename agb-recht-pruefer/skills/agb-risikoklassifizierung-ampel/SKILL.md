@@ -1,6 +1,6 @@
 ---
 name: agb-risikoklassifizierung-ampel
-description: "Einstiegs- und Prüfungslinie für AGB Risikoklassifizierung Ampel: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Wenn es um AGB Risikoklassifizierung Ampel in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # AGB Risikoklassifizierung Ampel

@@ -1,6 +1,6 @@
 ---
 name: workflow-fristen-und-uebergangsrecht
-description: "Erstellt Fristenplan für Maschinenverordnung, MaschinenDG, CRA, KI-VO, Produkthaftungsrichtlinie, Meldungen, Rückruf und Prozessfristen im Robotik-Recht."
+description: "Wenn es um Fristen und Übergangsrecht in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Workflow Fristen Und Uebergangsrecht; Arbeitsfeld: robotik-recht."
 ---
 
 # Fristen und Übergangsrecht

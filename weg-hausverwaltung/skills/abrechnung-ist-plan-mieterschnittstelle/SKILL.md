@@ -1,6 +1,6 @@
 ---
 name: abrechnung-ist-plan-mieterschnittstelle
-description: "Jahresabrechnung, Wirtschaftsplan und Mieterschnittstelle: trennt § 28 WEG-Nachschüsse/Vorschussanpassung von mietrechtlicher Betriebskostenabrechnung, prüft Ist-/Plan-Abweichungen, Umlagefähigkeit, Gewerbeanteile, Belege, Heizkosten/CO2 und Eigentümerdatenpakete."
+description: "Wenn es um Abrechnung, Ist/Plan und Mieterschnittstelle in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Abrechnung, Ist/Plan und Mieterschnittstelle

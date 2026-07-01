@@ -1,6 +1,6 @@
 ---
 name: secure-development-contract
-description: "Entwirft Security-by-Design-Pflichten in Entwicklungsverträgen: SSDLC, threat modeling, secure coding, tests und remediation im Softwarerecht De Eu Us."
+description: "Wenn es um Secure Development Contract in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Secure Development Contract

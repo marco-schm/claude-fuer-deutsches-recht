@@ -1,6 +1,6 @@
 ---
 name: sonderwuensche-preisanpassung-und-ausstattungswahl
-description: "Sonderwünsche und Bemusterung im Bauträgervertrag: prüft Form, MaBV-Einordnung, Vorauszahlung, Ausstattungswahl, Mehr-/Minderpreise, Lieferbarkeit, Fristversäumnis, Bauzeitfolgen und Änderung des Sondereigentums."
+description: "Wenn es um Sonderwünsche, Bemusterung und Ausstattungswahl in Bauträgervertrag-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sonderwünsche, Bemusterung und Ausstattungswahl

@@ -1,6 +1,6 @@
 ---
 name: meldung-kritis-sektoraufsicht
-description: "Steuert die parallele Meldung an Sektoraufsichten neben der Datenschutzaufsicht. Behandelt: § 8b BSIG für KRITIS; NIS-2-Umsetzung mit erweiterten Meldepflichten; BaFin BAIT/MaRisk für Finanzinstitute; BNetzA für TK- und Postdienste; Meldungen nach § 168 TKG; Konsistenz der Meldetexte; Datenschutz..."
+description: "Wenn es um Parallele Meldung KRITIS und Sektoraufsicht — BSIG, BaFin, BNetzA, NIS-2 in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parallele Meldung KRITIS und Sektoraufsicht — BSIG, BaFin, BNetzA, NIS-2

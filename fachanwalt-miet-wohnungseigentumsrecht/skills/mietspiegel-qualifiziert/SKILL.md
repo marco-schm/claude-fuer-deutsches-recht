@@ -1,6 +1,6 @@
 ---
 name: mietspiegel-qualifiziert
-description: "Qualifizierter Mietspiegel: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Anwendbarkeit, Feld, Spanne, Zu-/Abschläge, Begründungsqualität; mit Normprüfung, Beweisen, Fristen,..."
+description: "Wenn es um Qualifizierter Mietspiegel: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Qualifizierter Mietspiegel: Fachmodul im Miet- und Wohnungseigentumsrecht

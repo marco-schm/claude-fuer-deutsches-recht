@@ -1,6 +1,6 @@
 ---
 name: datev-lohn-modul-eau-elektronische-arbeitsunfaehigkeit
-description: "DATEV LODAS und Lohn und Gehalt LUG. Anwendungsfall Lohnabrechnung in DATEV-Welt Konfiguration ELSTER ELStAM sv.net Schnittstellen. Methodik Unterschiede LODAS vs Lohn und Gehalt Praxis-Tipps. Output Lohnprogramm konfiguriert im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um DATEV LODAS und Lohn und Gehalt in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datev Lohn Modul Eau Elektronische Arbeitsunfaehigkeit; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # DATEV LODAS und Lohn und Gehalt

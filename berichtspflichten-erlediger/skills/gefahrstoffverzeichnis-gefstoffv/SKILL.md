@@ -1,6 +1,6 @@
 ---
 name: gefahrstoffverzeichnis-gefstoffv
-description: "Gefahrstoffverzeichnis, Betriebsanweisungen, Unterweisung, Sicherheitsdatenblätter und behördliche Nachweise im Berichtspflichten."
+description: "Wenn es um Gefahrstoffverzeichnis und Arbeitsschutz in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gefahrstoffverzeichnis und Arbeitsschutz

@@ -1,6 +1,6 @@
 ---
 name: zeugnisklarheit-objektiver-empfaengerhorizont
-description: Pruefung eines Arbeitszeugnisses auf das Gebot der Zeugnisklarheit nach Paragraf 109 Absatz 2 GewO mit Anwendung des objektiven Empfaengerhorizonts als Massstab gemaess der BAG-Rechtsprechung (9 AZR 352.04; 9 AZR 386.10).
+description: "Wenn es um Zeugnisklarheit nach dem objektiven Empfaengerhorizont (BAG 9 AZR 352.04; 9 AZR 386.10) in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zeugnisklarheit nach dem objektiven Empfaengerhorizont (BAG 9 AZR 352.04; 9 AZR 386.10)

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-amtsdelikte-340-stgb-koerperverletzung-im-amt
-description: "Koerperverletzung im Amt nach Paragraph 340 StGB: Sonderdelikt für Amtstraeger insbesondere Polizeibeamte. Qualifikation der Paragraphen 223 224 226 StGB. In Ausübung des Dienstes oder Beziehung darauf. Prak..."
+description: "Wenn es um Koerperverletzung im Amt nach Paragraph 340 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Koerperverletzung im Amt nach Paragraph 340 StGB

@@ -1,6 +1,6 @@
 ---
 name: schmaehkritik-formalbeleidigung-schnelltriage
-description: "Prüft die engen Ausnahmefälle Schmähkritik, Formalbeleidigung und Menschenwürdeangriff. Verhindert, dass Fachgerichte oder Nutzer die Art 5 GG Normalabwägung vorschnell abschneiden im Meinungspruefer."
+description: "Wenn es um Schmähkritik, Formalbeleidigung, Menschenwürde in Meinungsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schmähkritik, Formalbeleidigung, Menschenwürde

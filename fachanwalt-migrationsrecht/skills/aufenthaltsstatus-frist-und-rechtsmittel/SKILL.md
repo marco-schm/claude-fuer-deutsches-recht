@@ -1,6 +1,6 @@
 ---
 name: aufenthaltsstatus-frist-und-rechtsmittel
-description: "Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output: Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche: führt schnell durch Sachv..."
+description: "Wenn es um Aufenthaltsstatus Frist Und Rechtsmittel in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.

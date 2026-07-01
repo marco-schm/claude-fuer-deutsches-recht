@@ -1,6 +1,6 @@
 ---
 name: spezial-milieuschutz-umwandlung
-description: "Milieuschutz/Umwandlung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Erhaltungssatzung, Genehmigung, Abwendung, Vorkauf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Milieuschutz/Umwandlung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Milieuschutz/Umwandlung

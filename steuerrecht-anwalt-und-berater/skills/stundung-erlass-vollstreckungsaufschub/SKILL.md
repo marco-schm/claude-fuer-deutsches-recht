@@ -1,6 +1,6 @@
 ---
 name: stundung-erlass-vollstreckungsaufschub
-description: "Anträge auf Stundung Erlass und Vollstreckungsaufschub bei Zahlungsproblemen stellen. Anwendungsfall Mandant kann fällige Steuerschulden vorueber-gehend oder dauerhaft nicht zahlen Vollstreckung droht. Stundung erhebliche Haerte § 222 AO ohne Anspruchsgefaehrdung. Erlass aus persönlichen oder sac..."
+description: "Wenn es um Anw Stundung Erlass Vollstreckungsaufschub in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Anw Stundung Erlass Vollstreckungsaufschub

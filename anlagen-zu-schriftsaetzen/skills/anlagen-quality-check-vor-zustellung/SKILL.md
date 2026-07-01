@@ -1,6 +1,6 @@
 ---
 name: anlagen-quality-check-vor-zustellung
-description: "Quality-Check für Anlagenpaket vor Zustellung: Vollstaendigkeit (alle Bezuege im Schriftsatz haben passende Anlage), Lesbarkeit (OCR, kein Schwarzbalken), Schwaerzung (DSGVO und Mandantengeheimnisse), Format (PDF/A wo gefordert). Prüfliste mit Befund."
+description: "Wenn es um Anlagen: Quality-Check vor Zustellung in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Anlagen Quality Check Vor Zustellung; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Anlagen: Quality-Check vor Zustellung

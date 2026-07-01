@@ -1,6 +1,6 @@
 ---
 name: executive-summary
-description: "Executive Summary und Onepager für Board, Investment Committee und Partner: verdichtet komplexe M&A-Befunde in klare, entscheidbare, nicht ueberverkaufte Kurzformate."
+description: "Wenn es um Executive Summary Onepager in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Executive Summary Onepager

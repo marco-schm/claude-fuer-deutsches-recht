@@ -1,6 +1,6 @@
 ---
 name: globaler-minderausgabe-sperre-bewerten
-description: "Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Sperre bewerten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Globaler Minderausgabe Sperre Bewerten in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Globaler Minderausgabe Sperre Bewerten

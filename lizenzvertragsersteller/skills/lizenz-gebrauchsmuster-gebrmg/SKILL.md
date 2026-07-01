@@ -1,6 +1,6 @@
 ---
 name: lizenz-gebrauchsmuster-gebrmg
-description: "Gebrauchsmusterlizenzen nach GebrMG: kleine Schwester des Patents, ohne Prüfverfahren; Schutzdauer 10 Jahre; eintragungsbeduerftiges Recht; Erfindungshoehe geringer als Patent; Zweigutachten-Strategie (parallel zu Patent)."
+description: "Wenn es um Lizenz Gebrauchsmuster (GebrMG) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Lizenz Gebrauchsmuster (GebrMG)

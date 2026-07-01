@@ -1,6 +1,6 @@
 ---
 name: ablehnungsgruende-kdvg-7
-description: "Zerlegt Ablehnungen wegen Musterungsverweigerung, Unvollständigkeit, ungeeigneter Gründe oder Zweifel im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Ablehnungsgründe Paragraf 7 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Ablehnungsgründe § 7 KDVG

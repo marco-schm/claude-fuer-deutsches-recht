@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Strafzumessung: ordnet Rolle (Angeklagter, Verteidiger, Staatsanwaltschaft), markiert Frist (Revision 1 Woche/1 Monat § 341 StPO), wählt Norm (§ 46 StGB, §§ 47-50 StGB Strafmilderung/-schärfung, BGH-Strafzumessungsleitlinien) und Zuständigkeit (Strafgericht (Amts-..."
+description: "Wenn es um Einstieg und Routing in Strafzumessung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

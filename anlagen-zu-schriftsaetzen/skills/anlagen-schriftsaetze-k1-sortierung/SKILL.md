@@ -1,6 +1,6 @@
 ---
 name: anlagen-schriftsaetze-k1-sortierung
-description: "Baut aus Schriftsatz und Dateiliste eine Matrix mit Tatsachen, Belegen, fehlenden Anlagen und Nachforderungen."
+description: "Wenn es um Dokumentenmatrix und Lückenliste in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Anlagen Schriftsaetze K1 Sortierung; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Dokumentenmatrix und Lückenliste

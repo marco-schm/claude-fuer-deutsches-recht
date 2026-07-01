@@ -1,6 +1,6 @@
 ---
 name: marketing-newsletter-eigentuemerkommunikation
-description: "Eigentuemerinfo vs. E-Mail-Werbung klar trennen (Stand 06/2026): § 7 UWG Double-Opt-In, Einwilligungspflicht, Versicherungswerbung nach § 34d GewO, DSGVO Art. 6. BGH VI ZR 225/17 zu unerlaubter E-Mail-Werbung."
+description: "Wenn es um Marketing: Newsletter und Eigentümerkommunikation in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Marketing: Newsletter und Eigentümerkommunikation

@@ -1,6 +1,6 @@
 ---
 name: questions-fristennotiz-und-naechster-schritt
-description: "Questions: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Questions: Fristennotiz und nächster Schritt in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Questions: Fristennotiz und nächster Schritt

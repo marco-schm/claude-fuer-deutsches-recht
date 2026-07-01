@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-kartellschadenersatz-nach-behoerdenentscheidung
-description: "Rechtsabteilungs-Fachmodul für Kartellschadenersatz nach Behördenentscheidung: Follow-on-Claims werden mit Passing-on, Verjährung und Datenanforderung aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Kartellrecht (Marktabgrenzung): prüft konkret die einsc..."
+description: "Wenn es um Rechtsabteilung: Kartellschadenersatz nach Behördenentscheidung in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Rechtsabteilung: Kartellschadenersatz nach Behördenentscheidung

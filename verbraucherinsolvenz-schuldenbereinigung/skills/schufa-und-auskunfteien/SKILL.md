@@ -1,6 +1,6 @@
 ---
 name: schufa-und-auskunfteien
-description: "SCHUFA/Auskunfteien nach Insolvenz: Löschung, Restschuldbefreiung, falsche Einträge und Datenschutzbeschwerde: Normanker: DSGVO Art. 5 und 6 und..."
+description: "Wenn es um Schufa Und Auskunfteien in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SCHUFA/Auskunfteien nach Insolvenz: Löschung, Restschuldbefreiung, falsche Einträge und Datenschutzbeschwerde.

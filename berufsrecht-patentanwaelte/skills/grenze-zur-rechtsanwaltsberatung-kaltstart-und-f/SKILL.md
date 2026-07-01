@@ -1,6 +1,6 @@
 ---
 name: grenze-zur-rechtsanwaltsberatung-kaltstart-und-f
-description: "Patentanwälte: grenze zur rechtsanwaltsberatung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Grenze Zur Rechtsanwaltsberatung Kaltstart Und F in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: grenze zur rechtsanwaltsberatung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

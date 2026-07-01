@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-pflegeheim-brandabschnitte
-description: "Bauueberwachung nach HOAI LPH 8 für Pflegeheime und Seniorenresidenzen — Brandabschnitte und Fluchtwegebeschaffenheit nach LBO und Pflege-Richtlinie, Schallschutz Pflegezimmer nach DIN 4109, barrierefreie Ausgestaltung nach DIN 18040-2, Rauch- und Brandmeldeanlage nach DIN 14675 sowie hygienische..."
+description: "Wenn es um Bauueberwachung Pflegeheim Brandabschnitte (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Pflegeheim Brandabschnitte (LPH 8)

@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-und-schadenmeldung-rechtsprechungscheck
-description: "Notare: haftpflicht und schadenmeldung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Haftpflicht Und Schadenmeldung Rechtsprechungscheck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: haftpflicht und schadenmeldung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

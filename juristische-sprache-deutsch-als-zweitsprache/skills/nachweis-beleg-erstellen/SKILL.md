@@ -1,6 +1,6 @@
 ---
 name: nachweis-beleg-erstellen
-description: "Hilft bei Beweis Nachweis Beleg für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache."
+description: "Wenn es um Beweis Nachweis Beleg in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beweis Nachweis Beleg

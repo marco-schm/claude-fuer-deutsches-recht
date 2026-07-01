@@ -1,6 +1,6 @@
 ---
 name: erstattung-zu-unrecht-50-sgb-x
-description: "Erstattung zu Unrecht erbrachter Leistungen nach § 50 SGB X. Skill klaert wann der Buerger zurueckzahlen muss Voraussetzungen Hoehe Aufrechnung und Verhältnis zu Stundung oder Erlass. Liefert Verteidigungsbausteine."
+description: "Wenn es um Erstattung Zu Unrecht 50 Sgb X in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstattung Zu Unrecht 50 Sgb X

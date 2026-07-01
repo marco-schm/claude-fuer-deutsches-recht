@@ -1,6 +1,6 @@
 ---
 name: cl-vertragsklauseln-vertragsbegriffe-cl
-description: "Typische Common-Law-Klauseln uebersichtlich erklaeren: Indemnification, Representations and Warranties, Limitation of Liability, Entire Agreement, Severability, Governing Law, Boilerplate. Pro Klausel Funktion, deutsche Entsprechung und typische Stolpersteine im Common Law Kompass."
+description: "Wenn es um Common Law: Vertragsklauseln in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Common Law: Vertragsklauseln

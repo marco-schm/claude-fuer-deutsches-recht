@@ -1,6 +1,6 @@
 ---
 name: lohn-jahresmeldungen-ahn-asn-besondere
-description: "Jahresmeldungen DEUEV Jahreslohnsumme Abmelde- und Sondermeldungen. Anwendungsfall Jahresende-Meldungen 15. Februar Folgejahr AN-Jahresarbeitsentgelt-Meldung Sondermeldungen Lohnsteuerbescheinigung. Methodik Standardablauf. Output Jahresmeldungen Bescheinigungen."
+description: "Wenn es um Jahresmeldungen — Lohnsumme, Sondermeldungen, LSt-Bescheinigung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jahresmeldungen — Lohnsumme, Sondermeldungen, LSt-Bescheinigung

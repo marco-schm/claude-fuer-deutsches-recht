@@ -1,6 +1,6 @@
 ---
 name: patentprozess-einstweilige-verfuegung
-description: "Plant einstweiligen Rechtsschutz in Patentverletzungssachen vor deutschen Gerichten und UPC: Dringlichkeit, Schutzrechtsbestand, Verletzungsnachweis, Schutzschrift, Sicherheitsleistung und Vollziehung im Patentrecht."
+description: "Wenn es um Patentprozess: Einstweilige Verfügung DE/UPC in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Patentprozess: Einstweilige Verfügung DE/UPC

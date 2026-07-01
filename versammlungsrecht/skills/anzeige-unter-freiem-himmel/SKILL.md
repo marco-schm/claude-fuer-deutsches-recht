@@ -1,6 +1,6 @@
 ---
 name: anzeige-unter-freiem-himmel
-description: "Führt durch die Anzeige einer öffentlichen Versammlung unter freiem Himmel oder eines Aufzugs, ohne sie fälschlich als Genehmigungsantrag zu behandeln im Versammlungsrecht."
+description: "Wenn es um Anzeige, nicht Erlaubnis in Versammlungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anzeige, nicht Erlaubnis

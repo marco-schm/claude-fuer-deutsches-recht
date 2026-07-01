@@ -1,6 +1,6 @@
 ---
 name: kinderzuschlag
-description: "Hilft bei KiZ-Antrag, Einkommen, Wohnkosten, Nachweisen, Ablehnung und Schnittstelle Wohngeld/Bürgergeld im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Kinderzuschlag in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kinderzuschlag

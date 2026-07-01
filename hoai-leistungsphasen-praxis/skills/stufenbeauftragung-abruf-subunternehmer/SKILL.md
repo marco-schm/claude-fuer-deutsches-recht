@@ -1,6 +1,6 @@
 ---
 name: stufenbeauftragung-abruf-subunternehmer
-description: "HOAI-Fachfrage: Stufenbeauftragung, Optionsabruf, Nichtabruf weiterer Leistungsphasen, Kündigung, Vergütung, Vorleistung und Akquisitionsrisiko im Architektenvertrag prüfen im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Stufenbeauftragung, Abruf Und Nichtabruf in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Stufenbeauftragung, Abruf Und Nichtabruf

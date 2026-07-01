@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-vollstaendigkeitserklaerung-7
-description: "MaBV § 7 Vollstaendigkeitserklaerung als Alternative: Skill klaert wann der Bautraeger die volle Vertragssumme im Voraus verlangen darf wenn er die nach § 7 vorgesehene Sicherheit stellt. Liefert Prüfra..."
+description: "Wenn es um MaBV Paragraf 7 Vollstaendigkeitserklaerung als Alternative in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # MaBV § 7 Vollstaendigkeitserklaerung als Alternative

@@ -1,6 +1,6 @@
 ---
 name: bwbes-neu-007-versorgung-dienstunfall-wehrdienstschaden
-description: "Bundeswehrrecht: Soldatenversorgung Dienstunfall Wehrdienstbeschädigung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Bundeswehrrecht: Soldatenversorgung Dienstunfall Wehrdienstbeschädigung in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bundeswehrrecht: Soldatenversorgung Dienstunfall Wehrdienstbeschädigung

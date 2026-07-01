@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-notruf-und-standortdaten
-description: "Telekommunikation / Notruf und Standortdaten: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln im BNetzA-Verfahren."
+description: "Wenn es um Telekommunikation: Notruf und Standortdaten in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Telekommunikation: Notruf und Standortdaten

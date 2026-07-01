@@ -1,6 +1,6 @@
 ---
 name: schutzschirm-270d
-description: "Schutzschirmverfahren nach § 270d InsO begleiten von Antrag und Bescheinigung bis Planvorlageschluss. § 270d InsO Schutzschirm §§ 270 274 InsO Eigenverwaltung Sachwaltung. Prüfraster: Voraussetzungen Bescheinigung drohende ZU keine ZU Planfrist Sachwaltervorschlag Zahlungsunfähigkeitsanzeige. Out..."
+description: "Wenn es um Schutzschirmverfahren Paragraf 270d InsO in Insolvenzverwaltung - IV-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schutzschirmverfahren § 270d InsO

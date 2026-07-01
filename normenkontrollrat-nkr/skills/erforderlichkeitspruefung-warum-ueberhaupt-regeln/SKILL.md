@@ -1,6 +1,6 @@
 ---
 name: erforderlichkeitspruefung-warum-ueberhaupt-regeln
-description: "Erforderlichkeitspruefung als erster Prüfschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Prüfraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen für die Stellungnahme und einer Heuristik"
+description: "Wenn es um NKR-Erforderlichkeitspruefung — Warum ueberhaupt regeln in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erforderlichkeitspruefung Warum Ueberhaupt Regeln; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
 ---
 
 # NKR-Erforderlichkeitspruefung — Warum ueberhaupt regeln

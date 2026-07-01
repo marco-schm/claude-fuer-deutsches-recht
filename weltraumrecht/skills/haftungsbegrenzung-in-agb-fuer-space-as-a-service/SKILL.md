@@ -1,6 +1,6 @@
 ---
 name: haftungsbegrenzung-in-agb-fuer-space-as-a-service
-description: "Space-as-a-Service-AGB – Haftungsbegrenzung, Inhaltskontrolle, B2B vs. B2C im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Haftungsbegrenzung in AGB für Space-as-a-Service in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Haftungsbegrenzung in AGB für Space-as-a-Service

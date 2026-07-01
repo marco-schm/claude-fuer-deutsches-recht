@@ -1,6 +1,6 @@
 ---
 name: kinderkleidung-und-besondere-sicherheitsrisiken
-description: "Kinderkleidung und besondere Sicherheitsrisiken im Fashion Law prüfen: Kordeln, Kleinteile, Entflammbarkeit, Warnhinweise, GPSR, Rückverfolgbarkeit, Online-Angebote, Reklamationen und Rückrufschwellen im Fashion Law Moderecht."
+description: "Wenn es um Kinderkleidung Und Besondere Sicherheitsrisiken in fashion-law-moderecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Kinderkleidung Und Besondere Sicherheitsrisiken

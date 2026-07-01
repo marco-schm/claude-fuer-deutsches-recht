@@ -1,6 +1,6 @@
 ---
 name: habilitation-verfahren
-description: "Prüft Habilitationsverfahren, Gutachten, Lehrbefähigung, Fristen und Gremien im Prüfungsrecht Hochschule."
+description: "Wenn es um Habilitation Verfahren in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Habilitation Verfahren

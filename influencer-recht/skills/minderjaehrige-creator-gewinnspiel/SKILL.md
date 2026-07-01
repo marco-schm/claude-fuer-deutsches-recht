@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-creator-gewinnspiel
-description: "Influencer-Recht: Minderjährige Creator – elterliche Einwilligung, Jugendschutz, JuSchG, JMStV, Kooperationsverträge und Vermögensrecht im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Minderjährige Creator – Eltern, Jugendschutz, Vertragsrecht in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Influencer-Recht: Minderjährige Creator – Eltern, Jugendschutz, Vertragsrecht

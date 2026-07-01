@@ -1,6 +1,6 @@
 ---
 name: betreuung-demenz-erbe-werden-erwachsene
-description: "Betreuung bei Demenz: Geschäftsfaehigkeit § 104 BGB, Lichte-Momente-Lehre, Einwilligung Aerztliche Behandlung, Pflegeentscheidungen. Vorgehen bei spaet diagnostizierter Demenz und Wirksamkeit frueherer Vertraege im Betreuungsrecht."
+description: "Wenn es um Betreuung bei Demenz in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuung Demenz Erbe Werden Erwachsene; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Betreuung bei Demenz

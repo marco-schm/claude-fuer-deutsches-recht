@@ -1,6 +1,6 @@
 ---
 name: klage-zusammenstellen-komplettes-bundle
-description: "Klage und Anlagen als komplettes Paket für das Amtsgericht. Reihenfolge Klageschrift Anlagenverzeichnis Anlagen K1 K2 K3. Heftung Bindung Abschriften. Was muss zum Gericht was bleibt bei Ihnen. Anwendbar auch für Klageerwiderung und Replik mit B-Anlagen."
+description: "Wenn es um Klage komplett zusammenstellen — Schritt für Schritt in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klage komplett zusammenstellen — Schritt für Schritt

@@ -1,6 +1,6 @@
 ---
 name: ein-061-parteivermoegen-anspruchspfad-pruefen
-description: "Einigungsvertrag und Vermögensrecht: Parteivermögen: Anspruchspfad prüfen. Anspruchspfad prüfen für Parteivermögen im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Parteivermoegen Anspruchspfad Pruefen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parteivermoegen Anspruchspfad Pruefen

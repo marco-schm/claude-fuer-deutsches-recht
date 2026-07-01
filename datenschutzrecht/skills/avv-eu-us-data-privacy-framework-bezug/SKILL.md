@@ -1,6 +1,6 @@
 ---
 name: avv-eu-us-data-privacy-framework-bezug
-description: "Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Angemessenheitsbeschluss EU-Kommission vom 10.07.2023 Beschluss (EU) 2023/1795. Anforderungen an Selbstzertifizierung Prüfung der Listung Fallback ueber SCC 2021/914 und Transfer Impact Assessment. Output: AVV-Klauselbausteine für DPF und..."
+description: "Wenn es um EU-US Data Privacy Framework (DPF) im AVV in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU-US Data Privacy Framework (DPF) im AVV

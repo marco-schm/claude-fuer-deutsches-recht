@@ -1,6 +1,6 @@
 ---
 name: bodenreformland-widerspruch-pruefen
-description: "Einigungsvertrag und Vermögensrecht: Bodenreformland: Widerspruch prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Bodenreformland Widerspruch Prüfen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bodenreformland Widerspruch Prüfen

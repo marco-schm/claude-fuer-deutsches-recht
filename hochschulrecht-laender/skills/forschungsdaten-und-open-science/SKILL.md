@@ -1,6 +1,6 @@
 ---
 name: forschungsdaten-und-open-science
-description: "Prüft Forschungsdaten, Open Science und Repositorien im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Forschungsdaten Und Open Science in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Forschungsdaten Und Open Science

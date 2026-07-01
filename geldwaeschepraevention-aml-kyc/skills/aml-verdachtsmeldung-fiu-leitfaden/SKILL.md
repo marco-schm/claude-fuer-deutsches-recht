@@ -1,6 +1,6 @@
 ---
 name: aml-verdachtsmeldung-fiu-leitfaden
-description: "Leitfaden Verdachtsmeldung an FIU: goAML, Schwellen, Tippoff-Verbot, Schutz der Mitarbeitern. Prüfraster für Geldwaeschebeauftragten im Geldwaeschepraevention Aml Kyc."
+description: "Wenn es um AML: FIU-Verdachtsmeldung in Geldwäscheprävention, AML und KYC geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # AML: FIU-Verdachtsmeldung

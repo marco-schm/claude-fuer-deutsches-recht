@@ -1,6 +1,6 @@
 ---
 name: registerrecht-se-und-europaeische-gesellschaft
-description: "Prüft SE-Firma, Sitz, monistisches/dualistisches System, Leitung, Verwaltungsrat und grenzüberschreitende Bezüge im Handelsregister Praxis."
+description: "Wenn es um SE Registervollzug in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SE Registervollzug

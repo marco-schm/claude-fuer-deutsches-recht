@@ -1,6 +1,6 @@
 ---
 name: patentprozess-negative-schutzschrift
-description: "Prüft negative Feststellungsklagen, Nichtverletzungserklärungen, Forum-Risiken, Abmahnreaktionen und grenzüberschreitende Koordination bei Patentstreitigkeiten im Patentrecht."
+description: "Wenn es um Patentprozess: Negative Feststellung und Torpedo-Risiken in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Patentprozess: Negative Feststellung und Torpedo-Risiken

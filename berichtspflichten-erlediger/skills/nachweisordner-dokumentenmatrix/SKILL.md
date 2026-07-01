@@ -1,6 +1,6 @@
 ---
 name: nachweisordner-dokumentenmatrix
-description: "Dokumentenmatrix für Berichtspflichten: Datenquelle, Beleg, Berechnung, Freigabe, Abgabe, Versandnachweis und Aufbewahrung im Berichtspflichten."
+description: "Wenn es um Nachweisordner und Dokumentenmatrix in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Nachweisordner und Dokumentenmatrix

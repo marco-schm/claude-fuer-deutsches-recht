@@ -1,6 +1,6 @@
 ---
 name: notariat-005-gesellschafterliste-anteilskauf-kapitalerhoehung
-description: "Notariat im Alltag: Gesellschafterliste nach Anteilskauf Kapitalerhoehung oder Einziehung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Notariat im Alltag: Gesellschafterliste nach Anteilskauf Kapitalerhoehung oder Einziehung in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Gesellschafterliste nach Anteilskauf Kapitalerhoehung oder Einziehung

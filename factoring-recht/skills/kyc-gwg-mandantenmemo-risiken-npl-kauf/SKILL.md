@@ -1,6 +1,6 @@
 ---
 name: kyc-gwg-mandantenmemo-risiken-npl-kauf
-description: "KYC GwG Factoringinstitut wirtschaftlich Berechtigte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht."
+description: "Wenn es um KYC GwG Factoringinstitut wirtschaftlich Berechtigte in Factoring-Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # KYC GwG Factoringinstitut wirtschaftlich Berechtigte

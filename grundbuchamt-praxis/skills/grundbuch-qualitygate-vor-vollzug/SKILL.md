@@ -1,6 +1,6 @@
 ---
 name: grundbuch-qualitygate-vor-vollzug
-description: "Prüft Antrag, Bewilligung, Rang, Nachweise, Anlagen, Genehmigungen, Urkundenform und Zahlungslogik."
+description: "Wenn es um Quality Gate vor Einreichung in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quality Gate vor Einreichung

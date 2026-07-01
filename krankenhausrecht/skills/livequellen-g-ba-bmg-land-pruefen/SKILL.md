@@ -1,6 +1,6 @@
 ---
 name: livequellen-g-ba-bmg-land-pruefen
-description: "Livequellen G-BA BMG Land prüfen: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Livequellen G-BA BMG Land prüfen in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Livequellen G-BA BMG Land prüfen

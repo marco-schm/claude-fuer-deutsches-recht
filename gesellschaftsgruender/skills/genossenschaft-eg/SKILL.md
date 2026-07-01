@@ -1,6 +1,6 @@
 ---
 name: genossenschaft-eg
-description: "Prüft, ob eine eG statt GmbH/GbR sinnvoll ist im Gesellschaftsgruender. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Genossenschaft eG in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Genossenschaft eG

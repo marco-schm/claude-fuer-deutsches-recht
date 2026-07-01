@@ -1,6 +1,6 @@
 ---
 name: gmbh-liquidation-und-loeschung
-description: "Führt durch Auflösung, Liquidatoren, Sperrjahr, Schlussbilanz, Löschung, Nachtragsliquidation und Registerkommunikation im Handelsregister Praxis."
+description: "Wenn es um Liquidation und Löschung in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Liquidation und Löschung

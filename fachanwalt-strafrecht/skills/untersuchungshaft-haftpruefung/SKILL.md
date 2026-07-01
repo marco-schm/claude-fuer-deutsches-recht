@@ -1,6 +1,6 @@
 ---
 name: untersuchungshaft-haftpruefung
-description: "Untersuchungshaft und Haftprüfung nach §§ 112 ff: StPO: Anwendungsfall Mandant wurde verhaftet und Strafverteidiger muss Haftbefehl anfechten oder Haftprüfungsantrag stellen. §§ 112-113 StPO Haftgründe Fluch..."
+description: "Wenn es um Untersuchungshaft und Haftprüfung nach Paragrafen 112 ff in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Untersuchungshaft und Haftprüfung nach §§ 112 ff

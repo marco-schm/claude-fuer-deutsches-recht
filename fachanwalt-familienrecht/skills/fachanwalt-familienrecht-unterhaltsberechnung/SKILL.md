@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-unterhaltsberechnung
-description: "Berechnet Kindes-, Trennungs- und nachehelichen Unterhalt mit bereinigtem Einkommen, Bedarf, Leistungsfähigkeit, Selbstbehalt, Mangelfall, Auskunftsstufe, Tabellenbezug und konkretem Antrag."
+description: "Wenn es um Unterhaltsberechnung in Fachanwalt Familienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Unterhaltsberechnung

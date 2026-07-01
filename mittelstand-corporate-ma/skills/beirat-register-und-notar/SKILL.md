@@ -1,6 +1,6 @@
 ---
 name: beirat-register-und-notar
-description: "GmbH-Beirat: Beirat Register Und Notar; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Mittelstand Corporate Ma."
+description: "Wenn es um Beirat Register Und Notar in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Beirat Register Und Notar

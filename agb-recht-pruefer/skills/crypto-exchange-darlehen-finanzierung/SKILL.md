@@ -1,6 +1,6 @@
 ---
 name: crypto-exchange-darlehen-finanzierung
-description: "Branchen-Fachmodul für Crypto Exchange AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen im AGB-Recht."
+description: "Wenn es um Crypto Exchange AGB in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Crypto Exchange Darlehen Finanzierung; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Crypto Exchange AGB

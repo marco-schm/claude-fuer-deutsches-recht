@@ -1,6 +1,6 @@
 ---
 name: subchapter-v-overview
-description: "Prüft Subchapter V small business reorganization: eligibility, trustee, streamlined plan and cost/speed tradeoffs im US Bankruptcy Code."
+description: "Wenn es um Subchapter V Overview in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Subchapter V Overview

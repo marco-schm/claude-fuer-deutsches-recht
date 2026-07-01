@@ -1,6 +1,6 @@
 ---
 name: teaser-im-processdocs
-description: "Teaser, Information Memorandum und Prozessdokumente für M&A-Auktionsprozesse erstellen: Verkaeuferkanzlei oder Investmentbank benoetigt anonymisierten Teaser, IM und VDD. Normen: § 311 Abs. 2 BGB (vorvertragliche Haftung), MAR (Insiderinformationen), WpueG (Public M&A). Prüfraster: Anonymisierung..."
+description: "Wenn es um Teaser, Information Memorandum und Prozessdokumente in Corporate-Kanzlei geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Teaser, Information Memorandum und Prozessdokumente

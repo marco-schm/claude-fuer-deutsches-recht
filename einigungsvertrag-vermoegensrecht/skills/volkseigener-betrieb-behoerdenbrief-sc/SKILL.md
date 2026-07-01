@@ -1,6 +1,6 @@
 ---
 name: volkseigener-betrieb-behoerdenbrief-sc
-description: "Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Behördenbrief schreiben im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Volkseigener Betrieb Behördenbrief Sc in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Volkseigener Betrieb Behördenbrief Sc

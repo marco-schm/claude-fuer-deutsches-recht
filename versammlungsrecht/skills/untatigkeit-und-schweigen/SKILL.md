@@ -1,6 +1,6 @@
 ---
 name: untatigkeit-und-schweigen
-description: "Reagiert, wenn Behörde auf Anzeige oder Rückfrage nicht antwortet und der Termin näher rückt im Versammlungsrecht."
+description: "Wenn es um Schweigen ist kein Plan in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schweigen ist kein Plan

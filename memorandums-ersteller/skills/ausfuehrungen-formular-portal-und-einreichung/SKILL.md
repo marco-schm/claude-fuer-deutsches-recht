@@ -1,6 +1,6 @@
 ---
 name: ausfuehrungen-formular-portal-und-einreichung
-description: "Ausfuehrungen: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Ausfuehrungen: Formular, Portal und Einreichungslogik in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ausfuehrungen: Formular, Portal und Einreichungslogik

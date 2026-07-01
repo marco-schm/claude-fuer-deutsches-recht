@@ -1,6 +1,6 @@
 ---
 name: software-ip-chain-of-title
-description: "Prüft die Rechtekette an Code, Dokumentation, APIs, Datenbanken, Designs, KI-Code und Third-Party-Komponenten im Softwarerecht De Eu Us."
+description: "Wenn es um Software IP Chain of Title in Softwarerecht Deutschland/EU/International/USA geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Software IP Chain of Title

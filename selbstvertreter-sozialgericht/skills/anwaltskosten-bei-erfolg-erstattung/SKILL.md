@@ -1,6 +1,6 @@
 ---
 name: anwaltskosten-bei-erfolg-erstattung
-description: "Anwaltskosten bei Erfolg vor dem SG erstattet bekommen. RVG-Saetze Streitwert PKH Beiordnung. Praxis für Buerger und ihre Anwaelte."
+description: "Wenn es um Anwaltskosten erstattet bekommen in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwaltskosten erstattet bekommen

@@ -1,6 +1,6 @@
 ---
 name: 013-basiliken-prochiron-epanagoge
-description: "Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption im Römisches Recht."
+description: "Wenn es um Rom Basiliken Prochiron Epanagoge Und Spaetere Rezeption in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Basiliken Prochiron Epanagoge Und Spaetere Rezeption

@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "Finaler Red-Team-Check gegen Papiercompliance und blinde Flecken. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Redteam Qualitygate in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Redteam Qualitygate

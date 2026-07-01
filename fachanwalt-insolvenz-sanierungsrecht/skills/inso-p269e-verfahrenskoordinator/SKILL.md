@@ -1,6 +1,6 @@
 ---
 name: inso-p269e-verfahrenskoordinator
-description: "§ 269e InsO (Verfahrenskoordinator) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 269e InsO (Verfahrenskoordinator) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen,..."
+description: "Wenn es um Inso P269e Verfahrenskoordinator in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 269e InsO (Verfahrenskoordinator) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

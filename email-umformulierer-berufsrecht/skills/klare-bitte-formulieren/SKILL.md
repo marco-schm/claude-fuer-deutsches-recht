@@ -1,6 +1,6 @@
 ---
 name: klare-bitte-formulieren
-description: "Unklare oder versteckte Bitten und Forderungen in Anwaltskorrespondenz klar und direkt formulieren. § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Klarheit der Bitte Unmissverstaendlichkeit Handlungsaufforderung Reaktionsfrist. Output: klar formulierte Version mit Erklärung. Abgrenzung: nicht für..."
+description: "Wenn es um Klare Bitten formulieren in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klare Bitten formulieren

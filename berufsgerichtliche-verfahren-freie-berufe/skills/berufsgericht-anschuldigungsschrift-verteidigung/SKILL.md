@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-anschuldigungsschrift-verteidigung
-description: "Berufsgericht Anschuldigungsschrift (Verteidigungs- und Kammerantwort): steuert Anschuldigungsschrift, Tatvorwurf, Verfahrenshindernisse, Beweisanträge und Terminstrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Ver..."
+description: "Wenn es um Berufsgericht Anschuldigungsschrift: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Berufsgericht Anschuldigungsschrift: Verteidigungs- und Kammerantwort

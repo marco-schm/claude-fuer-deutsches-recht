@@ -1,6 +1,6 @@
 ---
 name: ueberstunden-kompensation-urlaubskalender
-description: "Berliner Start-up-HR: Überstunden: Anordnung, Duldung, Erfassung, Vergütung, Freizeitausgleich und Führungskräftekommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Ueberstunden Und Kompensation in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ueberstunden Und Kompensation

@@ -1,6 +1,6 @@
 ---
 name: gerichtskostenvorschuss-12-gkg
-description: "Gerichtskostenvorschuss nach § 12 GKG. Klage wird erst zugestellt wenn Vorschuss eingegangen ist. Berechnung Zahlung Bedeutung für § 167 ZPO und Verjährungs-Hemmung. Was tun bei finanziellen Schwierigkeiten PKH-Antrag."
+description: "Wenn es um Gerichtskostenvorschuss: Klage wird erst nach Zahlung zugestellt in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gerichtskostenvorschuss: Klage wird erst nach Zahlung zugestellt

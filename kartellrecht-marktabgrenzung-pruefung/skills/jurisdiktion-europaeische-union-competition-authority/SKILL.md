@@ -1,6 +1,6 @@
 ---
 name: jurisdiktion-europaeische-union-competition-authority
-description: "Jurisdiktionsskill Europäische Union: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägige..."
+description: "Wenn es um Jurisdiktion Europäische Union: Competition Authority Check in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jurisdiktion Europäische Union: Competition Authority Check

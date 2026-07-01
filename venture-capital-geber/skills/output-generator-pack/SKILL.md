@@ -1,6 +1,6 @@
 ---
 name: output-generator-pack
-description: "Erzeugt aus geprüfter Akte konkrete Dokumente: IC-Memo, Update-Recap, Term-Sheet-Fragen, Deal-Cockpit, Board-Note und Follow-on-Memo."
+description: "Wenn es um Output Generator Pack in Venture Capital Geber geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Output Generator Pack

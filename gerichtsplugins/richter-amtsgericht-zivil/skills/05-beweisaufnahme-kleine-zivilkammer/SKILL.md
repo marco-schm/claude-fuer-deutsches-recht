@@ -1,6 +1,6 @@
 ---
 name: 05-beweisaufnahme-kleine-zivilkammer
-description: "Beweisbeschluss formulieren (Paragrafen 358-360 ZPO), Zeugenladung, Sachverständigenauswahl, Beweistermin protokollieren, Beweiswürdigung Paragraf 286 ZPO"
+description: "Wenn es um 05 Beweisaufnahme Kleine Zivilkammer in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 05 Beweisaufnahme Kleine Zivilkammer

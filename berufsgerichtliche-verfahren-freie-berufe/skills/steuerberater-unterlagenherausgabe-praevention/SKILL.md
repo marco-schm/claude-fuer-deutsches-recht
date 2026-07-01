@@ -1,6 +1,6 @@
 ---
 name: steuerberater-unterlagenherausgabe-praevention
-description: "Steuerberater Unterlagenherausgabe (Präventions- und Organisationspaket): steuert Herausgabe von Buchhaltungsdaten, DATEV-Bestand, Zurückbehaltungsrecht und Mandatswechsel mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Ver..."
+description: "Wenn es um Steuerberater Unterlagenherausgabe: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Steuerberater Unterlagenherausgabe: Präventions- und Organisationspaket

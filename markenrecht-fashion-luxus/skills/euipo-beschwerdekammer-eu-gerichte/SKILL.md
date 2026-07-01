@@ -1,6 +1,6 @@
 ---
 name: euipo-beschwerdekammer-eu-gerichte
-description: "EUIPO-Rechtsmittelroute steuern: Beschwerdekammer, Begründung, Belege, Fristen, Amtssprache, Vergleich, Gericht der EU, EuGH-Rechtsmittel und nationale Parallelverfahren im Markenrecht Fashion Luxus."
+description: "Wenn es um EUIPO-Beschwerde und EU-Gerichte in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EUIPO-Beschwerde und EU-Gerichte

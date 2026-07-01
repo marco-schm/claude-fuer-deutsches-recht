@@ -1,6 +1,6 @@
 ---
 name: versicherung-verein
-description: "Ordnet Vereinshaftpflicht, Veranstalterhaftpflicht, D&O, Unfallversicherung, Kfz und Vermögensschaden im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Versicherungen in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versicherungen

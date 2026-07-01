@@ -1,6 +1,6 @@
 ---
 name: probeabo-widerruf-kuendigung
-description: "Probeabo, automatische Verlängerung und Widerruf: prüft kostenlose Testphase, spätere Zahlungspflicht, § 312j/312k/355 BGB, EuGH C-565/22 Sofatutor, Kündigungsbutton, Beweisführung und Forderungsabwehr im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Probeabo Widerruf Kündigung in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Probeabo Widerruf Kündigung

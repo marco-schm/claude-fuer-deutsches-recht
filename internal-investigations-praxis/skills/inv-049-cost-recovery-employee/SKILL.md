@@ -1,6 +1,6 @@
 ---
 name: inv-049-cost-recovery-employee
-description: "Spezialskill fuer Cost Recovery Employee: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Cost Recovery Employee in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internal Investigation: Cost Recovery Employee

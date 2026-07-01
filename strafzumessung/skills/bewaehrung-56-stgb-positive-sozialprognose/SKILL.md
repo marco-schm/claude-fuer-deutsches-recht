@@ -1,6 +1,6 @@
 ---
 name: bewaehrung-56-stgb-positive-sozialprognose
-description: "Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB. Voraussetzungen positive Sozialprognose Abs. 1 bis 1 Jahr; besondere Umstaende Abs. 2 bis 2 Jahre; Verteidigung der Rechtsordnung Abs. 3. Prognose-Faktoren Vorleben, soziale Bindungen, Reue, Wiedergutmachung, Therapiebereitschaft. Bewaeh..."
+description: "Wenn es um Strafaussetzung zur Bewaehrung — Paragraf 56 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafaussetzung zur Bewaehrung — § 56 StGB

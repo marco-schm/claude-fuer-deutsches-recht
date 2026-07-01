@@ -1,6 +1,6 @@
 ---
 name: robotik-gutachten-memo-output
-description: "Wählt den passenden Output: Kurzvermerk, Vorstandsvorlage, Gutachten, Behördenantwort, Rückrufplan, Vertragsredline, Klageskizze oder Counsel-Briefing."
+description: "Wenn es um Gutachten und Memo Output in robotik-recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gutachten und Memo Output

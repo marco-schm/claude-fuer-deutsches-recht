@@ -1,6 +1,6 @@
 ---
 name: fran-039-kfz-franchise-und-selektivvertrieb
-description: "Franchiserecht: Kfz Franchise und Selektivvertrieb mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Kfz Franchise und Selektivvertrieb in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Kfz Franchise und Selektivvertrieb

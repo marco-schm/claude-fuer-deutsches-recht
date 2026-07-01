@@ -1,6 +1,6 @@
 ---
 name: drg-104-ddr-unrechtsstaat-und-juristische-aufarbeitung
-description: "Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht."
+description: "Wenn es um DDR-Recht und juristische Aufarbeitung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 # DDR-Recht und juristische Aufarbeitung
 

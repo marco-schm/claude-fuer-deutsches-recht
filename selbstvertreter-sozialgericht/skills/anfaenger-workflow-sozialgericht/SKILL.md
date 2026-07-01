@@ -1,6 +1,6 @@
 ---
 name: anfaenger-workflow-sozialgericht
-description: "Anfänger-Sozialgericht im Selbstvertretung am Sozialgericht: Dieser Skill ist der ruhige Einstieg für Menschen, die mit Jobcenter, Krankenkasse, Rentenversicherung, Pflegekasse, Versorgungsamt oder Berufsgenossenschaft streiten und noch nie vor dem Sozialgericht waren."
+description: "Wenn es um Anfänger-Sozialgericht in selbstvertreter-sozialgericht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anfänger-Sozialgericht

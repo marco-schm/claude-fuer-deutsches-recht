@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-thueringen
-description: "Prüft Schulrecht in Thüringen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder."
+description: "Wenn es um Schulgesetz Thueringen in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulgesetz Thueringen

@@ -1,6 +1,6 @@
 ---
 name: inso-fristen-form-und-zustaendigkeit
-description: "InsO: Fristen, Form, Zuständigkeit und Rechtsweg im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldungsprue..."
+description: "Wenn es um InsO: Fristen, Form, Zuständigkeit und Rechtsweg in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # InsO: Fristen, Form, Zuständigkeit und Rechtsweg

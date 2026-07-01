@@ -1,6 +1,6 @@
 ---
 name: gesundheitsdatenpanne-klinik
-description: "Gesundheitsdatenpanne Klinik: moderner Medizinrechts-Skill für Fehlversand Arztbrief, Portalzugriff, Ransomware, Meldung, Benachrichtigung und Schadensersatz: Gesundheitsdatenpanne Klinik: moderner Medizinrechts-Skill für Fehlversand Arztbrief, Portalzugrif..."
+description: "Wenn es um Gesundheitsdatenpanne Klinik in Fachanwalt Medizinrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gesundheitsdatenpanne Klinik: moderner Medizinrechts-Skill für Fehlversand Arztbrief, Portalzugriff, Ransomware, Meldung, Benachrichtigung und Schadensersatz

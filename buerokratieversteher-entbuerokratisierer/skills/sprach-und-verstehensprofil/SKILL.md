@@ -1,6 +1,6 @@
 ---
 name: sprach-und-verstehensprofil
-description: "Fragt zu Beginn respektvoll, in welcher Sprache, Detailtiefe und Tonalität erklärt werden soll; berücksichtigt Deutsch als Zweitsprache und Juristendeutsch-Hürden im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Sprache und Verstehensprofil in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Sprache und Verstehensprofil

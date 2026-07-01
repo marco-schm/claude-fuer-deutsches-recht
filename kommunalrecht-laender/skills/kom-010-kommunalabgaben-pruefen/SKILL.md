@@ -1,6 +1,6 @@
 ---
 name: kom-010-kommunalabgaben-pruefen
-description: "Kommunalrecht der Länder: Kommunalabgaben prüfen. Kommunalabgaben prüfen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Kommunalabgaben Pruefen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalabgaben Pruefen

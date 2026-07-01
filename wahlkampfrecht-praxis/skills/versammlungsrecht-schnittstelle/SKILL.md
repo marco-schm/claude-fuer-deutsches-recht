@@ -1,6 +1,6 @@
 ---
 name: versammlungsrecht-schnittstelle
-description: "Wahlkampfrecht Praxis: politische Kundgebungen ins Versammlungsrecht routen im Wahlkampfrecht."
+description: "Wenn es um Versammlungsrecht Schnittstelle in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versammlungsrecht Schnittstelle

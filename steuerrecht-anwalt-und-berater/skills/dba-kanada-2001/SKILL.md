@@ -1,6 +1,6 @@
 ---
 name: dba-kanada-2001
-description: "DBA Deutschland Kanada 2001. Anwendungsfall RRSP RRIF Pensionen Beteiligungen Branch Profits Tax. Auswanderung Quebec. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Kanada (2001) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Kanada (2001)

@@ -1,6 +1,6 @@
 ---
 name: lph-07-bim-und-datenraum
-description: "HOAI LPH 7 Mitwirkung bei der Vergabe: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 7 Mitwirkung bei der Vergabe: Ordnet digitale modelle in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Ordnet digitale modelle

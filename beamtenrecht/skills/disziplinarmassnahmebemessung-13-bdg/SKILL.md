@@ -1,6 +1,6 @@
 ---
 name: disziplinarmassnahmebemessung-13-bdg
-description: "Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und den Landesdisziplinargesetzen. Klaert die Stufen Verweis Geldbusse Kuerzung der Dienstbezuege Zuruecksstufung Entfernung aus dem Beamtenverhaeltnis. Prüf die Bemessungskriterien Schwere des Dienstvergehens Persoenlichkeitsbild Vertra..."
+description: "Wenn es um Disziplinarmassnahmebemessung Paragraf 13 BDG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Disziplinarmassnahmebemessung § 13 BDG

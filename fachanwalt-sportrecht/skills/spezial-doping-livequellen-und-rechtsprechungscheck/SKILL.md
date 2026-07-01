@@ -1,6 +1,6 @@
 ---
 name: spezial-doping-livequellen-und-rechtsprechungscheck
-description: "Doping: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Doping: Livequellen- und Rechtsprechungscheck in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Doping: Livequellen- und Rechtsprechungscheck

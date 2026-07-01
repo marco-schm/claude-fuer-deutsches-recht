@@ -1,6 +1,6 @@
 ---
 name: versicherung-und-praemienrueckforderung
-description: "Bei prämien und Leistungen im Versicherungsverhältnis zurückgefordert werden. Normen: §§ 1 und 39 VVG; § 152 VVG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadense..."
+description: "Wenn es um Versicherung und Prämienrückforderung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versicherung und Prämienrückforderung

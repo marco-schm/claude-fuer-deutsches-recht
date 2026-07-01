@@ -1,6 +1,6 @@
 ---
 name: erstpruefung-rollenklaerung
-description: "Legistik: Erstprüfung, Rollenklärung und Mandatsziel im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
+description: "Wenn es um Legistik: Erstprüfung, Rollenklärung und Mandatsziel in Legistik-Werkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erstpruefung Rollenklaerung; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Legistik: Erstprüfung, Rollenklärung und Mandatsziel

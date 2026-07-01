@@ -1,6 +1,6 @@
 ---
 name: weg-teilungsgrundbuch-zwischenverfuegung
-description: "Prüft Teilungserklärung, Aufteilungsplan, Abgeschlossenheit, Sonder-/Gemeinschaftseigentum, Sondernutzungsrechte und Grundbuchblätter im Grundbuchamt Praxis."
+description: "Wenn es um WEG und Teileigentum in Grundbuchamt Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # WEG und Teileigentum

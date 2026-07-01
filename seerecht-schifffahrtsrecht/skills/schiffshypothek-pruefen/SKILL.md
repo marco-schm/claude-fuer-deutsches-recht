@@ -1,6 +1,6 @@
 ---
 name: schiffshypothek-pruefen
-description: "Mandant (Bank oder Kaeufer) prüft bestehende Schiffshypothek: Valutierung; Rang; Sicherungsvertrag nach SchRG §§ 8-74. Hoechstbetragshypothek (SchRG § 75); Sicherungsabrede; Mithaftung Zubehoer (SchRG § 31); Kreditkuendigungsvoraussetzungen. Schiffsglaeubigerrecht-Vorrang (HGB §§ 596-601). Outpu..."
+description: "Wenn es um Schiffshypothek prüfen in See- und Schifffahrtsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Schiffshypothek prüfen

@@ -1,6 +1,6 @@
 ---
 name: open-source-persoenlichkeitsrecht-stimme
-description: "Prüft Open-Source-Pflichten, Copyleft, SaaS, interne Tools, KI-Codegeneratoren und Lizenzkompatibilität im Urheberrecht De Eu."
+description: "Wenn es um Open Source und Softwarelizenzen in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Open Source und Softwarelizenzen

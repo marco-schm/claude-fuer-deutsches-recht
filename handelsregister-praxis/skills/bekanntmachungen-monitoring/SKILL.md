@@ -1,6 +1,6 @@
 ---
 name: bekanntmachungen-monitoring
-description: "Erstellt Monitoringplan für Bekanntmachungen, Friststart, Einspruchsfenster und Mandantenalerts im Handelsregister Praxis."
+description: "Wenn es um Registerbekanntmachungen überwachen in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerbekanntmachungen überwachen

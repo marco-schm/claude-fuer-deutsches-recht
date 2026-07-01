@@ -1,6 +1,6 @@
 ---
 name: verkehr-rettungswege-oepnv
-description: "Bearbeitet Verkehr, ÖPNV, Rettungswege, Baustellen, Umleitungen und Straßenverkehrsbehörden im Versammlungsrecht."
+description: "Wenn es um Verkehr ist wichtig, aber kein Pauschalverbot in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verkehr ist wichtig, aber kein Pauschalverbot

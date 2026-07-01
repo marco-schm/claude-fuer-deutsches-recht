@@ -1,6 +1,6 @@
 ---
 name: verdienststatistik-verdstatg
-description: "Verdienst-/Entgeltstatistik: Auswahl, Beschäftigtengruppen, Entgeltbestandteile, Arbeitszeit, Datenschutz und Plausibilität im Berichtspflichten."
+description: "Wenn es um Verdienststatistik und Entgeltdaten in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verdienststatistik und Entgeltdaten

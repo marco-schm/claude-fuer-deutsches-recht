@@ -1,6 +1,6 @@
 ---
 name: spezial-markenrecherche-risikoampel-und-gegenargumente
-description: "Markenrecherche: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Markenrecherche: Risikoampel, Gegenargumente und Verteidigungslinien in Plugin: Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Markenrecherche: Risikoampel, Gegenargumente und Verteidigungslinien

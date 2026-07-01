@@ -1,6 +1,6 @@
 ---
 name: kontodaten-vertragsverdacht-pruefung
-description: "Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Missbrauch prüfen: ungewöhnliche Zahlungen, verdächtige Dauerverträge, Fernwartung, Telefonbetrug, riskante Anlagen, Angehörigendruck und Auslandsüberweisungen zum Nachteil der betreuten Person. Prüft Aufgabenkreis, Wunschlage (§ 1821 BG..."
+description: "Wenn es um Kontodaten- und Vertragsverdacht-Prüfung in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Kontodaten- und Vertragsverdacht-Prüfung

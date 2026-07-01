@@ -1,6 +1,6 @@
 ---
 name: holding-gesellschafter-honorararzt-aerzte
-description: "Prüft mittelbare Beteiligung über Holding, Stimmdurchgriff, Pooling und Status eines Geschäftsführers im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Holding-Gesellschafter-Geschäftsführer in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Holding-Gesellschafter-Geschäftsführer

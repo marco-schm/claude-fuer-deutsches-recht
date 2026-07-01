@@ -1,6 +1,6 @@
 ---
 name: bevollmaechtigter-produkthersteller-pflichten
-description: "Drittstaaten-Anbieter ohne EU-Niederlassung oder Produkthersteller fragt: Wer vertritt uns in der EU und wer haftet für integrierte KI-Komponenten? Art. 22 KI-VO Bevollmaechtigter Art. 25 Produkthersteller. Prüfraster: Bevollmaechtigter als EU-Vertreter für Drittstaaten-Anbieter schriftliches Man..."
+description: "Wenn es um Bevollmächtigter und Produkthersteller — Art. 22 und 25 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bevollmächtigter und Produkthersteller — Art. 22 und 25 KI-VO

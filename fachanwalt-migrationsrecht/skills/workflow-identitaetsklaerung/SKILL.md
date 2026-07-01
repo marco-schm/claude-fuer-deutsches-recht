@@ -1,6 +1,6 @@
 ---
 name: workflow-identitaetsklaerung
-description: "Identitätsklärung: Prüfungslinie für Migrationsrecht: führt durch Passbeschaffung, Mitwirkung, Zumutbarkeit und Beweisalternativen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzba..."
+description: "Wenn es um Identitätsklärung: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Identitätsklärung: Prüfungslinie für Migrationsrecht

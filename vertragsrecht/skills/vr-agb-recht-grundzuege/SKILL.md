@@ -1,6 +1,6 @@
 ---
 name: vr-agb-recht-grundzuege
-description: "AGB-Recht Grundzuege §§ 305 ff. BGB: Einbeziehung, Inhaltskontrolle § 307 BGB, Klauselverbote §§ 308 / 309 BGB, B2B mit eingeschraenkter Kontrolle, Drittwirkung. Aktuelle BGH-Linie und Prüfraster im Vertragsrecht."
+description: "Wenn es um Vertragsrecht: AGB-Recht in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertragsrecht: AGB-Recht

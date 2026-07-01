@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Insolvenzforderungsanmeldung: ordnet Rolle (Gläubiger, Insolvenzverwalter, Schuldner), markiert Frist (Anmeldefrist im Eröffnungsbeschluss), wählt Norm (§§ 174 ff. InsO, InsVV, Tabelle § 175 InsO) und Zuständigkeit (Insolvenzgericht), leitet zum passenden Spezial-..."
+description: "Wenn es um Einstieg und Routing in Insolvenzforderungsanmeldungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-gueterlisten-klassifizierung
-description: "Technische Klassifizierung von Waren, Software und Technologie nach Gueterlisten: EU-Dual-Use-Liste Anhang I VO (EU) 2021/821, Kriegswaffenkontrollliste (KrWaffKontrG), MTCR, NSG und Wassenaar-Arrangement. Abgrenzung ML-Gueter von EG-Dual-Use. Output: Klassifizierungsgutachten mit Listenpositione..."
+description: "Wenn es um Aussenwirtschaft Gueterlisten Klassifizierung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gueterlistenklassifizierung: Systematische Einreihung in Dual-Use und Ruestungsgueterlisten

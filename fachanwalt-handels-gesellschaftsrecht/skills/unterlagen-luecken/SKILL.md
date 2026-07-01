@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Handels- und Gesellschaftsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Satzung, Gesellschafterbeschluss, HV-Protokoll), nennt pro Lücke Beweisthema, Beschaffungsweg (Handelsregister), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

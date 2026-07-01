@@ -1,6 +1,6 @@
 ---
 name: abmahnung-compliance-dokumentation-und-akte
-description: "Abmahnung im gewerblichen Rechtsschutz: Compliance-Dokumentation und Aktenführung. Wie Abmahnvorgänge vollständig dokumentiert, Fristen gesichert und Entscheidungen nachvollziehbar gemacht werden – für Anwaltskanzlei und Unternehmens-Rechtsabteilung im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung in Plugin: Gewerblicher Rechtsschutz geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung

@@ -1,6 +1,6 @@
 ---
 name: erbbauzins-struktur-erbbauzinsanpassung
-description: "Prüft dingliche Sicherung, Fälligkeit, Wertsicherung, Anpassung, Rückstände und Rang im Erbbaurecht Praxis."
+description: "Wenn es um Erbbauzins und Reallast in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbbauzins und Reallast

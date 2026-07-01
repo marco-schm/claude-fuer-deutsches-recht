@@ -1,6 +1,6 @@
 ---
 name: treuhand-parteivermoegen-vermoegensgesetz
-description: "Einigungsvertrag und Vermögensrecht: Treuhand-Zuordnung rekonstruieren. Treuhand-Zuordnung rekonstruieren im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die eins..."
+description: "Wenn es um Treuhand Zuordnung Rekonstruieren in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuhand Zuordnung Rekonstruieren

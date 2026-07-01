@@ -1,6 +1,6 @@
 ---
 name: db-003-datenbankherstellerrecht-wesentliche-investition
-description: "Datenbankrecht: Datenbankherstellerrecht wesentliche Investition mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Datenbankherstellerrecht wesentliche Investition in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Datenbankherstellerrecht wesentliche Investition

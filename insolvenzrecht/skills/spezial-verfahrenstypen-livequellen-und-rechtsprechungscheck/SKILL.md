@@ -1,6 +1,6 @@
 ---
 name: spezial-verfahrenstypen-livequellen-und-rechtsprechungscheck
-description: "Verfahrenstypen: Livequellen- und Rechtsprechungscheck im Plugin insolvenzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Verfahrenstypen: Livequellen- und Rechtsprechungscheck in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verfahrenstypen: Livequellen- und Rechtsprechungscheck

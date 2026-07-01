@@ -1,6 +1,6 @@
 ---
 name: trennungsunterhalt-bedarfspruefung-bgh-xii-zr-181-22
-description: "Trennungsunterhalt Bedarfspruefung BGH Xii Zr 181 22: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Trennungsunterhalt Bedarfspruefung BGH Xii Zr 181 22 in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Trennungsunterhalt Bedarfspruefung BGH Xii Zr 181 22

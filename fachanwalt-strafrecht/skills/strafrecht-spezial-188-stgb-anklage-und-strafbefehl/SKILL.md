@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-188-stgb-anklage-und-strafbefehl
-description: "Reaktion auf Anklage, Strafbefehl oder Eröffnungsverfahren wegen § 188 StGB: Baut eine schnelle Verteidigungsakte mit Fristen, Einspruch, Akteneinsicht, § 199 StPO-Erwiderung, § 20..."
+description: "Wenn es um Reaktion auf Anklage, Strafbefehl oder Eröffnungsverfahren wegen Paragraf 188 StGB in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reaktion auf Anklage, Strafbefehl oder Eröffnungsverfahren wegen § 188 StGB

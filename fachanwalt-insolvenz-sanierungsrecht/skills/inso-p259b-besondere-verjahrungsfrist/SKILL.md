@@ -1,6 +1,6 @@
 ---
 name: inso-p259b-besondere-verjahrungsfrist
-description: "§ 259b InsO (Besondere Verjährungsfrist) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 259b InsO (Besondere Verjährungsfrist) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge..."
+description: "Wenn es um Inso P259b Besondere Verjahrungsfrist in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 259b InsO (Besondere Verjährungsfrist) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-geheimnisschutz-werbung
-description: "Verschwiegenheit und Geheimnisschutz: vertiefter Berufsrechts-Skill für Notare; prüft Berufsgeheimnis, Hilfspersonen, IT-Dienstleister, Auslagerung und Aktenzugriff, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
+description: "Wenn es um Verschwiegenheit und Geheimnisschutz in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verschwiegenheit und Geheimnisschutz

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-steuerstrafrecht-371-ao-selbstanzeige
-description: "Selbstanzeige nach Paragraph 371 AO: Strafbefreiungsgrund bei vorsaetzlicher Steuerhinterziehung. Strenge Voraussetzungen seit Reform 2015. Vollstaendigkeitsgebot Sperrgruende Absatz 2 fristgerechte Zahlung. Abgrenzung z..."
+description: "Wenn es um Selbstanzeige nach Paragraph 371 AO in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Selbstanzeige nach Paragraph 371 AO

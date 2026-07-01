@@ -1,6 +1,6 @@
 ---
 name: frist-und-zustaendigkeit-cockpit
-description: "Fristen- und Zuständigkeitscockpit: vertiefter Berufsrechts-Skill für Patentanwälte; prüft macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patent..."
+description: "Wenn es um Fristen- und Zuständigkeitscockpit in Berufsrecht Patentanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen- und Zuständigkeitscockpit

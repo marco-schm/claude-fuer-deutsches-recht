@@ -1,6 +1,6 @@
 ---
 name: richterwahl-art-33-ii-und-praesidialrat
-description: "Richterwahl, Art. 33 Abs. 2 GG, Richterwahlausschuss, Präsidialrat, Bundesrichterwahl, Begründungspflichten, Konkurrentenstreit und politische Wahlspielräume im Beamtenrecht."
+description: "Wenn es um Richterwahl, Bestenauslese und Präsidialrat in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Richterwahl, Bestenauslese und Präsidialrat

@@ -1,6 +1,6 @@
 ---
 name: spontanversammlung-strafrecht-versg
-description: "Prüft echte Spontanversammlungen, bei denen Anlass und Bildung so unmittelbar zusammenfallen, dass vorherige Anzeige nicht möglich war im Versammlungsrecht."
+description: "Wenn es um Spontan heißt nicht schlecht vorbereitet verstecken in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Spontan heißt nicht schlecht vorbereitet verstecken

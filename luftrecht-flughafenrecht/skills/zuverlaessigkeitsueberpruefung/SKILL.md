@@ -1,6 +1,6 @@
 ---
 name: zuverlaessigkeitsueberpruefung
-description: "Person wurde Zuverlässigkeit nach LuftSiG § 7 versagt oder widerrufen. Prüft Versagungsgruende Vorstrafen Verfassungsschutz-Erkenntnisse Gesamtwürdigung Anhörungspflicht Rechtsschutz vor VG und BVerfG 2 BvL 8/07 Grundrechtskonformitaet und liefert Widerspruchs-Schriftsatz-Baustein im Luftrecht F..."
+description: "Wenn es um Zuverlässigkeitsüberprüfung LuftSiG Paragraf 7 – Versagung, Widerruf und Rechtsschutz in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zuverlässigkeitsüberprüfung LuftSiG § 7 – Versagung, Widerruf und Rechtsschutz

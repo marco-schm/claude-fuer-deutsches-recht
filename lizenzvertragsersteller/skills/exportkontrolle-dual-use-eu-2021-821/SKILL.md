@@ -1,6 +1,6 @@
 ---
 name: exportkontrolle-dual-use-eu-2021-821
-description: "Exportkontrolle bei Lizenzvertraegen: VO (EU) 2021/821 (Dual-Use); AWG / AWV; Embargo-/Sanktions-Listen; Technologie-Transfer als genehmigungspflichtige Ausfuhr; Cloud-Lizenzen mit Cross-Border-Datenzugriff."
+description: "Wenn es um Exportkontrolle — Dual-Use und Lizenz in Lizenzvertragsersteller geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Exportkontrolle — Dual-Use und Lizenz

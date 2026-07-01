@@ -1,6 +1,6 @@
 ---
 name: plattformmeldung-dsa-podium
-description: "Wahlkampfrecht Praxis: Plattformmeldewege und DSA-Mechanismen bei rechtswidrigen Inhalten nutzen im Wahlkampfrecht."
+description: "Wenn es um Plattformmeldung Dsa in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Plattformmeldung Dsa

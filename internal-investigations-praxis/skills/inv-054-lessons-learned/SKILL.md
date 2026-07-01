@@ -1,6 +1,6 @@
 ---
 name: inv-054-lessons-learned
-description: "Zieht strukturierte Lessons Learned aus abgeschlossenen Internal Investigations – Systemische Schwächen, Compliance-Verbesserungen, Dokumentation für Aufsicht: Zieht strukturierte Lessons Learned aus abgeschlossenen Internal Investigations – Systemische Sc..."
+description: "Wenn es um Inv 054 Lessons Learned in Internal Investigations Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Zieht strukturierte Lessons Learned aus abgeschlossenen Internal Investigations – Systemische Schwächen, Compliance-Verbesserungen, Dokumentation für Aufsicht.

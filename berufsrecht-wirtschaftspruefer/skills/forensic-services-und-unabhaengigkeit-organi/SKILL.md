@@ -1,6 +1,6 @@
 ---
 name: forensic-services-und-unabhaengigkeit-organi
-description: "Wirtschaftsprüfer: forensic services und unabhaengigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Forensic Services Und Unabhaengigkeit Organi in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: forensic services und unabhaengigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

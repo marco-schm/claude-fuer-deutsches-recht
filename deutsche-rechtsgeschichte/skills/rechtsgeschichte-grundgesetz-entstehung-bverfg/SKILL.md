@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte-grundgesetz-entstehung-bverfg
-description: "Deutsche Rechtsgeschichte: Entstehung des Grundgesetzes 1948-49. Herrenchiemseer Konvent, Parlamentarischer Rat, Frankfurter Dokumente, Bewusste Lehren aus WRV und Inkrafttreten 23. Mai 1949 im Deutsche Rechtsgeschichte."
+description: "Wenn es um Grundgesetz Entstehung 1948-49 in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundgesetz Entstehung 1948-49

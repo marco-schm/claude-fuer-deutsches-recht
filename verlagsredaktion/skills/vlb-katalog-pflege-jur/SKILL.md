@@ -1,6 +1,6 @@
 ---
 name: vlb-katalog-pflege-jur
-description: "VLB-Katalog (Verzeichnis lieferbarer Buecher) pflegen: ONIX-Metadaten, Schlagworte, Klappentext, Reihen, Preisbindung, Erscheinungstermin-Pflege. Konsistenz mit Webshop, beck-online und Buchhandel im Verlagsredaktion."
+description: "Wenn es um VLB-Katalog (Verzeichnis lieferbarer Buecher) in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # VLB-Katalog (Verzeichnis lieferbarer Buecher)

@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Umweltrecht: stimmt Adressat (Vorhabenträger, Behörde, Umweltverband), Frist (Klagefrist UVPG) und Form auf den Zweck ab — typische Outputs: UVP-Bericht, Verbandsklage, Genehmigungsantrag."
+description: "Wenn es um Output wählen in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

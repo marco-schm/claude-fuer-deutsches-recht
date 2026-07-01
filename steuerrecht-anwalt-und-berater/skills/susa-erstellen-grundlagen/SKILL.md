@@ -1,6 +1,6 @@
 ---
 name: susa-erstellen-grundlagen
-description: "Summen- und Saldenliste SuSa erstellen Grundlagen. Anwendungsfall monatliche Erstellung aus Finanzbuchhaltung Hauptbuchkonten Personenkonten Erfolgskonten Bestandsbuchungen. Methodik Aufbau Prüfung Verwendung. Output SuSa-Datei als Excel oder PDF mit Sollsalden Habensalden."
+description: "Wenn es um Summen- und Saldenliste — Erstellung und Grundlagen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Summen- und Saldenliste — Erstellung und Grundlagen

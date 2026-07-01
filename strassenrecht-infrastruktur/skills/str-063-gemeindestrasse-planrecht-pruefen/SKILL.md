@@ -1,6 +1,6 @@
 ---
 name: str-063-gemeindestrasse-planrecht-pruefen
-description: "Straßenrecht und Infrastruktur: Gemeindestraße: Planrecht prüfen. Planrecht prüfen für Gemeindestraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Gemeindestrasse Planrecht Pruefen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gemeindestrasse Planrecht Pruefen

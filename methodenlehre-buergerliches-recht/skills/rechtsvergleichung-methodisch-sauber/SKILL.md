@@ -1,6 +1,6 @@
 ---
 name: rechtsvergleichung-methodisch-sauber
-description: "Leitet durch die methodisch saubere Anwendung von Rechtsvergleichung als Auslegungshilfe im deutschen Zivilrecht. Das Skill zeigt, wann und wie ausländisches Recht zur Auslegung und Fortbildung inländischen Rechts herangezogen werden darf, welche methodischen Anforderungen dabei gelten und wie di..."
+description: "Wenn es um Rechtsvergleichung: Methodisch sauberer Einsatz im Zivilrecht in Methodenlehre bürgerliches Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Rechtsvergleichung: Methodisch sauberer Einsatz im Zivilrecht

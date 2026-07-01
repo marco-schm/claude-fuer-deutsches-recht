@@ -1,6 +1,6 @@
 ---
 name: patentportfolio-und-technikstrategie
-description: "Unterstützt Patentportfolio- und Technikstrategie: Schutzzaun, Roadmap, Wettbewerbsmonitoring, defensive Veröffentlichungen, Anmeldepriorisierung, Länderstrategie und Budgetsteuerung im Patentrecht."
+description: "Wenn es um Patentportfolio und Technikstrategie in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Patentportfolio und Technikstrategie

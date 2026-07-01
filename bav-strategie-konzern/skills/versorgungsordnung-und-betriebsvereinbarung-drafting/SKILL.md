@@ -1,6 +1,6 @@
 ---
 name: versorgungsordnung-und-betriebsvereinbarung-drafting
-description: "Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen: Normen: §§ 1 17 BetrAVG, §§ 77 87 BetrVG. Prüfraster: Leistungszusagen, Unverfallbarkeit, Mitbestimmung, Fina..."
+description: "Wenn es um Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen

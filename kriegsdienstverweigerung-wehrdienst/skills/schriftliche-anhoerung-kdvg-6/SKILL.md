@@ -1,6 +1,6 @@
 ---
 name: schriftliche-anhoerung-kdvg-6
-description: "Beantwortet Zweifel des BAFzA konkret, wahrhaftig und belegbar im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Schriftliche Anhörung Paragraf 6 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Schriftliche Anhörung § 6 KDVG

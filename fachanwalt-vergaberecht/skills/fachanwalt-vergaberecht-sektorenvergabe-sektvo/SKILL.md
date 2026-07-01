@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-sektorenvergabe-sektvo
-description: "Sektorenvergabe nach SektVO durchfuehren und angreifen: Sektorenauftraggeber Wasser/Energie/Verkehr/Post oder Bieter will SektVO-konformes Verfahren oder Ruege. Normen: §§ 100-104 GWB (Sektorenauftraggeber), SektVO, RL 2014/25/EU. Pruefraster: Sektorenauftraggeberbegriff § 100 GWB, ausschliesslicher/besonderer Recht, Schwellenwert EUR 432000 ab 01.01.2026, Verfahrenswahl § 13 SektVO, Verhandlungsspielraum, Praequalifikation § 48 SektVO. Output Verfahrensentwurf, Pruefvermerk Verfahrenswahl. Abgrenzung: Allgemein VgV siehe fachanwalt-vergaberecht-orientierung; Konzessionen siehe fachanwalt-vergaberecht-konzessionsvergabe-konzvgv."
+description: "Wenn es um Sektorenvergabe (SektVO) in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sektorenvergabe (SektVO)

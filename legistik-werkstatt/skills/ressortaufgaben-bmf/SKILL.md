@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmf
-description: "Ressortaufgaben BMF: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium der Finanzen. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnet..."
+description: "Wenn es um Ressortaufgaben BMF in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressortaufgaben BMF

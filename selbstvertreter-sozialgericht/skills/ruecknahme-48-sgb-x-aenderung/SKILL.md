@@ -1,6 +1,6 @@
 ---
 name: ruecknahme-48-sgb-x-aenderung
-description: "Änderung von Dauerverwaltungsakten bei wesentlicher Änderung der Verhältnisse nach § 48 SGB X. Skill klaert die Voraussetzungen Vertrauensschutz Frist Aufhebung mit Wirkung für die Zukunft oder rueckwirkend. Liefert Prüfraster."
+description: "Wenn es um Rücknahme 48 Sgb X Änderung in selbstvertreter-sozialgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rücknahme 48 Sgb X Änderung

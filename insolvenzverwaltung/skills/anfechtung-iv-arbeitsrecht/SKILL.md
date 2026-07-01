@@ -1,6 +1,6 @@
 ---
 name: anfechtung-iv-arbeitsrecht
-description: "Insolvenzanfechtungsansprüche nach §§ 129-147 InsO aus Verwaltersicht prüfen und verfolgen. Enthält KI-gestütztes Schuldnerakten-Screening, Kandidatenmatrix, §§ 130/131/133/134/135, Bargeschäft § 142, Rechtsfolgen §§ 143-147, Verjährung § 146 und Grenzen bei § 133-Wertungen sowie Dreiecksverhältn..."
+description: "Wenn es um Insolvenzanfechtung Paragrafen 129 ff. InsO in Insolvenzverwaltung - IV-Cockpit geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Insolvenzanfechtung §§ 129 ff. InsO

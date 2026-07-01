@@ -1,6 +1,6 @@
 ---
 name: aussergewoehnliche-umstaende-strikt
-description: "Streng auszulegende aussergewoehnliche Umstaende Art. 5 Abs. 3 VO 261: Wetter, Streik nicht eigener Mitarbeiter, gerichtlich verfuegte Flugverbote, Wildschlag in Triebwerk. Keine aussergewoehnlichen Umstaende: technische Defekte (EuGH Wallentin-Hermann), Krankheit Crew, ATC-Engpaesse mit Routine...."
+description: "Wenn es um Aussergewoehnliche Umstaende in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aussergewoehnliche Umstaende

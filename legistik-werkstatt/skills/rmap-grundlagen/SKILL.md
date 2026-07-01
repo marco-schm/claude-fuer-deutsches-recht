@@ -1,6 +1,6 @@
 ---
 name: rmap-grundlagen
-description: "Grundlagen der Rulemapping-Methode: Law as Code; Rulemap als visuelles Entscheidungsmodell; Wenn-Dann-Logik mit Tatbestand; Rechtsfolge; Ausnahme; Verweisung. Akteure (Rulemapping-Group; Prof. Breidenbach; SPRIN-D-Förderung; BMJ als Anwender). Ziel: Norm parallel als Text und als Rulemap entwerfe..."
+description: "Wenn es um Rulemapping - Grundlagen und Begriffe in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rulemapping - Grundlagen und Begriffe

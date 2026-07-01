@@ -1,6 +1,6 @@
 ---
 name: governing-law-hearing-script
-description: "Prüft anwendbares Recht: Rom I/Rom II, Rechtswahl, Eingriffsnormen, UN-Kaufrecht, Beweis fremden Rechts und Übersetzung der Normbegriffe im Commercial Courts Deutschland."
+description: "Wenn es um Governing Law in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Governing Law

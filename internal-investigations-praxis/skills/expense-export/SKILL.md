@@ -1,6 +1,6 @@
 ---
 name: expense-export
-description: "Untersucht Spesenabrechungs- und Reisekostenbetrug – forensische Buchprüfung, Beweissicherung, arbeitsrechtliche und strafrechtliche Konsequenzen im Internal Investigations Praxis."
+description: "Wenn es um Spesenbetrug und Reisekostenmissbrauch in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Spesenbetrug und Reisekostenmissbrauch

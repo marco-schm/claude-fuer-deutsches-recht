@@ -1,6 +1,6 @@
 ---
 name: mauergrundstueck-behoerdenbrief-schrei
-description: "Einigungsvertrag und Vermögensrecht: Mauergrundstück: Behördenbrief schreiben im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Mauergrundstueck Behördenbrief Schrei in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mauergrundstueck Behördenbrief Schrei

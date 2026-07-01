@@ -1,6 +1,6 @@
 ---
 name: auftragsverarbeitungsvertrag-pruefen
-description: "Auftragsverarbeitungsvertrag nach Art. 28 DSGVO bei KI-Anbietern prüfen: Anwendungsfall Kanzlei schließt Vertrag mit KI-Dienstleister und muss AVV auf DSGVO-Konformität prüfen. Art. 28 DSGVO AVV-Pflicht, § 43e BRAO IT-Dienstleister, AI Act Betreiberpflichten. Prüfraster Subprozessoren-Genehmigung..."
+description: "Wenn es um Auftragsverarbeitungsvertrag prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Auftragsverarbeitungsvertrag prüfen

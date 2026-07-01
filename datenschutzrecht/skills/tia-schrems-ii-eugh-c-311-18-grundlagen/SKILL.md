@@ -1,6 +1,6 @@
 ---
 name: tia-schrems-ii-eugh-c-311-18-grundlagen
-description: "Schrems II als Grundlage des Transfer Impact Assessment. EuGH Urteil C-311/18 vom 16.07.2020 Facebook Ireland und Schrems. Tragende Aussagen, Folgen für Art. 46 DSGVO, Pflicht zur Prüfung der Schutzgleichwertigkeit (essentially equivalent), EDPB-Empfehlung 01/2020 als Konkretisierung."
+description: "Wenn es um Schrems II – Grundlagen für Transfer Impact Assessment in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schrems II – Grundlagen für Transfer Impact Assessment

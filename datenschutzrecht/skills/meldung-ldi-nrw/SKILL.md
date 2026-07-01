@@ -1,6 +1,6 @@
 ---
 name: meldung-ldi-nrw
-description: "Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen (LDI NRW) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Nordrhein-Westfalen und für nicht-öffentliche Stellen; Online-Formular und Postweg; P..."
+description: "Wenn es um Meldung Art. 33 DSGVO an die LDI NRW in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meldung Art. 33 DSGVO an die LDI NRW

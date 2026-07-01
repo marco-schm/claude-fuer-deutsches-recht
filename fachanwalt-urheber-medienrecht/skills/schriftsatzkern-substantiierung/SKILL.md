@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Schriftsatzkern für urheber- und medienrechtliche Klagen und Anträge substantiiert ausformulieren: §§ 97 97a 101 UrhG §§ 935 940 ZPO einstweilige Verfuegung...."
+description: "Wenn es um Schriftsatzkern Substantiierung in Fachanwalt Urheber Medienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schriftsatzkern für urheber- und medienrechtliche Klagen und Anträge substantiiert ausformulieren

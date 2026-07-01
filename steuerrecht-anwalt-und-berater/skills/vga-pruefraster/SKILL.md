@@ -1,6 +1,6 @@
 ---
 name: vga-pruefraster
-description: "Prüfraster zur verdeckten Gewinnausschuettung — Vermögensminderung oder verhinderte Vermögensmehrung Veranlassung im Gesellschaftsverhaeltnis Auswirkung auf Einkommen Behandlung beim Gesellschafter. Anwendungsfall Aussenpruefung erkennt Geschäftsführervergueterung Verrechnungspreise oder Ges..."
+description: "Wenn es um Verdeckte Gewinnausschuettung — Paragraf 8 Abs. 3 S. 2 KStG Prüfraster in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verdeckte Gewinnausschuettung — § 8 Abs. 3 S. 2 KStG Prüfraster

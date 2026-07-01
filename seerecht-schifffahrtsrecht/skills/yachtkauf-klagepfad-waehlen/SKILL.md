@@ -1,6 +1,6 @@
 ---
 name: yachtkauf-klagepfad-waehlen
-description: "Yachtkauf: Gläubiger oder Reeder waehlt Klagepfad bei Streit um Segel- oder Motorjacht: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht."
+description: "Wenn es um Yachtkauf – Klagepfad wählen in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Yachtkauf – Klagepfad wählen

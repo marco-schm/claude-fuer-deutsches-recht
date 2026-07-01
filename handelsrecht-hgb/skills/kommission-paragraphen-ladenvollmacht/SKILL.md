@@ -1,6 +1,6 @@
 ---
 name: kommission-paragraphen-ladenvollmacht
-description: "Prüft Kommissionsgeschäft, Selbsteintritt, Ausführung, Provision, Pfandrecht im Handelsrecht Hgb."
+description: "Wenn es um Kommission Paragrafen 383 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommission §§ 383 ff. HGB

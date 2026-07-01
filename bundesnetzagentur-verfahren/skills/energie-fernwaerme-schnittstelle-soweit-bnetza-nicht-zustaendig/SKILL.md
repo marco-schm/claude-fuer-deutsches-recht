@@ -1,6 +1,6 @@
 ---
 name: energie-fernwaerme-schnittstelle-soweit-bnetza-nicht-zustaendig
-description: "Energie / Fernwärme Schnittstelle soweit BNetzA nicht zuständig: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT im BNetzA-Verfahren."
+description: "Wenn es um Energie: Fernwärme Schnittstelle soweit BNetzA nicht zuständig in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Energie: Fernwärme Schnittstelle soweit BNetzA nicht zuständig

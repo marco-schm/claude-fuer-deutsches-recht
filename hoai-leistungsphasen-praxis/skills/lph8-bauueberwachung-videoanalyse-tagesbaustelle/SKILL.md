@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-videoanalyse-tagesbaustelle
-description: "Methodikskill HOAI LPH 8 — Strukturierter für die Videoanalyse der Tagesbaustelle mit Webcams Mobotix und Zeitrafferkameras GoPro HERO 11 und 360-Grad-Aufnahmen Matterport und Vuze XR, Bauzeitenanalyse und Fortschrittsmessung. Umfasst Integration in PlanRadar, BIM360 und SAP PS zur Baufortschritt..."
+description: "Wenn es um Videoanalyse Tagesbaustelle in der Bauueberwachung LPH 8 in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Videoanalyse Tagesbaustelle in der Bauueberwachung LPH 8

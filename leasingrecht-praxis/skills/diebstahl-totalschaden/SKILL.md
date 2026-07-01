@@ -1,6 +1,6 @@
 ---
 name: diebstahl-totalschaden
-description: "Diebstahl und Totalschaden im Leasing: Gefahrtragung, Ratenpflicht nach Untergang, Versicherungsabwicklung, Anzeigeobliegenheiten und Sorgfaltspflichten im Leasingrecht."
+description: "Wenn es um Diebstahl und Totalschaden: Gefahrtragung im Leasingrecht in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Diebstahl und Totalschaden: Gefahrtragung im Leasingrecht

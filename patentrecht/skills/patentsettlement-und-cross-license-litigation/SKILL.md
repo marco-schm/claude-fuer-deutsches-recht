@@ -1,6 +1,6 @@
 ---
 name: patentsettlement-und-cross-license-litigation
-description: "Unterstützt Patentvergleiche: Cross-License, Covenant not to sue, Territory, Field of Use, Release, Rückruf, Kosten, Kartellrecht, Geheimhaltung und Vollstreckbarkeit im Patentrecht."
+description: "Wenn es um Patentvergleich und Cross-License im Streit in patentrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Patentvergleich und Cross-License im Streit

@@ -1,6 +1,6 @@
 ---
 name: dba-kuenstler-sportler-art-17-ma
-description: "Kuenstler und Sportler nach Art. 17 OECD-MA mit Auftrittsstaat-Besteuerung. Anwendungsfall Musiker Schauspieler Sportler mit Auftritten in mehreren Staaten. Quellensteuer und BZSt-Anträge Anti-Treaty-Shopping nach § 50d Abs. 3 EStG. Output Mandanten-Memo BZSt-Antragspaket Berechnungsbeispiel."
+description: "Wenn es um Kuenstler und Sportler (Art. 17 OECD-MA) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kuenstler und Sportler (Art. 17 OECD-MA)

@@ -1,6 +1,6 @@
 ---
 name: baut-beweislast-darlegungslast
-description: "Prüft, ob die Anlage eine konkrete Darlegung trägt oder nur einen pauschalen Anlagenverweis kaschiert; trennt Tatsachenvortrag, Beweisangebot und bloße Hintergrundunterlage."
+description: "Wenn es um Beweislast, Darlegungslast und Anlagen in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Baut Beweislast Darlegungslast; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Beweislast, Darlegungslast und Anlagen

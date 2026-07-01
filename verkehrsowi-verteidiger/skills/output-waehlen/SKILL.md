@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Verkehrs-OWi-Verteidigung: stimmt Adressat (Betroffener, Bußgeldbehörde, AG), Frist (Einspruch 2 Wochen § 67 OWiG) und Form auf den Zweck ab — typische Outputs: Einspruch, Akteneinsicht-Antrag, Sachverständigen-Antrag Messung."
+description: "Wenn es um Output wählen in VerkehrsOWi-Verteidiger geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

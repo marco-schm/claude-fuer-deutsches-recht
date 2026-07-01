@@ -1,6 +1,6 @@
 ---
 name: gruendung-eingetragener-verein
-description: "Führt zur e.-V.-Gründung: sieben Mitglieder, Satzung, Gründungsprotokoll, Vorstand, notarielle Anmeldung, Vereinsregister im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Eingetragener Verein gründen in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Eingetragener Verein gründen

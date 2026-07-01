@@ -1,6 +1,6 @@
 ---
 name: risikomemo-auftraggeber-risikoregister
-description: "Solo-Selbstständige: erstellt ein Memo für Kunden, warum die Zusammenarbeit sauber selbstständig ist oder nicht; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Scheinselbstständigkeit und Status: Erstellt ein memo für kunden in Solo-Selbstständige Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Scheinselbstständigkeit und Status: Erstellt ein memo für kunden

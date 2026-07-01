@@ -1,6 +1,6 @@
 ---
 name: 23-klageerzwingung-und-beschwerdebescheid-paragraf-172
-description: "Bescheid auf Beschwerde des Anzeigeerstatters (Paragraf 171 StPO), Vorschaltbeschwerde und Klageerzwingungsverfahren (Paragraf 172 StPO), Begruendungsanforderungen, Vorlage an Generalstaatsanwaltschaft"
+description: "Wenn es um 23 Klageerzwingung und Beschwerdebescheid Paragraf 172 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 23 Klageerzwingung und Beschwerdebescheid Paragraf 172

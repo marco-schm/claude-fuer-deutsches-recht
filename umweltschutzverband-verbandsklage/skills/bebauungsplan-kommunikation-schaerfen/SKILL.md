@@ -1,6 +1,6 @@
 ---
 name: bebauungsplan-kommunikation-schaerfen
-description: "Umweltschutzverband Verbandsklage: Bebauungsplan: Kommunikation schärfen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Bebauungsplan Kommunikation Schaerfen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bebauungsplan Kommunikation Schaerfen

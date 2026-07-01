@@ -1,6 +1,6 @@
 ---
 name: chn-027-customs-tariff-origin-china
-description: "Festlandchina Wirtschaftsverkehr: Customs Tariff Origin China. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Customs Tariff Origin China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Customs Tariff Origin China

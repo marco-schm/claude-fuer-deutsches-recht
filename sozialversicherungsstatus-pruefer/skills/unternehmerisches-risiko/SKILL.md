@@ -1,6 +1,6 @@
 ---
 name: unternehmerisches-risiko
-description: "Prüft echtes Unternehmerrisiko, Kapitaleinsatz, Gewinnchance, Verlustgefahr, Gewährleistung und Marktauftritt im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Unternehmerisches Risiko in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Unternehmerisches Risiko

@@ -1,6 +1,6 @@
 ---
 name: untreue-paragraf-266-stgb-bverfg-2-bvr-105-09
-description: "Untreue Paragraf 266 StGB BVerfG 2 Bvr 105 09: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Untreue Paragraf 266 StGB BVerfG 2 Bvr 105 09 in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Untreue Paragraf 266 StGB BVerfG 2 Bvr 105 09

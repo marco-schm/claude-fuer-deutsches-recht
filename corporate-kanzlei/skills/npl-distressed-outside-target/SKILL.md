@@ -1,6 +1,6 @@
 ---
 name: npl-distressed-outside-target
-description: "Prüft Erwerb/Verkauf notleidender Darlehen im Corporate-Kontext: KrZwMG-Rollen, Datenschutz, Sicherheiten, Borrower Notices, Portfolio-DD und Enforcement im Corporate Kanzlei."
+description: "Wenn es um Corporate: NPL und Distressed Loan Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Npl Distressed Outside Target; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # Corporate: NPL und Distressed Loan Transfer

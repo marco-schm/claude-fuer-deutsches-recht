@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-und-datenraum-kammerantwort-und-verfahr
-description: "Notare: verschwiegenheit und datenraum - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Verschwiegenheit Und Datenraum Kammerantwort Und Verfahr in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Notare: verschwiegenheit und datenraum - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

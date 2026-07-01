@@ -1,6 +1,6 @@
 ---
 name: model-weights-software-license
-description: "Prüft Lizenzen für Modelle, Weights, Checkpoints, Inference-Code, Datasets und kommerzielle Nutzung im Softwarerecht De Eu Us."
+description: "Wenn es um Model Weights Software License in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Model Weights Software License

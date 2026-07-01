@@ -1,6 +1,6 @@
 ---
 name: warnpflicht-schriftsatz-brief-und-memo-bausteine
-description: "Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine in Krisenfrüherkennung und StaRUG-Management geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine

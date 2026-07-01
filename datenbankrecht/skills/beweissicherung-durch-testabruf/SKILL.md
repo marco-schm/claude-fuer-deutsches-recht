@@ -1,6 +1,6 @@
 ---
 name: beweissicherung-durch-testabruf
-description: "Rechtssichere Beweissicherung durch Testabruf-Werkzeug bei Datenbankrechts-Verletzungen: Aufbau und Betrieb eines eigenen Testabruf-Werkzeugs zur Verletzungsdokumentation, Verwertbarkeit der Ergebnisse als Beweismittel, notarielle Begleitung und Verhältnis zu § 202a StGB und DSGVO. Erstellt Testabruf-Werkzeug-Protoko..."
+description: "Wenn es um Beweissicherung durch Testabruf-Werkzeug — Zulässigkeit und Verwertbarkeit in Datenbankrecht und Datenbankherstellerrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweissicherung durch Testabruf-Werkzeug — Zulässigkeit und Verwertbarkeit

@@ -1,6 +1,6 @@
 ---
 name: inso-p263-zustimmungsbedurftige-geschafte
-description: "§ 263 InsO (Zustimmungsbedürftige Geschäfte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 263 InsO (Zustimmungsbedürftige Geschäfte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rec..."
+description: "Wenn es um Inso P263 Zustimmungsbedurftige Geschafte in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 263 InsO (Zustimmungsbedürftige Geschäfte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

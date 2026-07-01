@@ -1,6 +1,6 @@
 ---
 name: kundenliste-herausgabe-kundenschutz-makler
-description: "Prüft Herausgabepflichten und Nutzungsrechte an Kundenlisten bei Vertragsende: Anspruch des Unternehmers auf Herausgabe nach § 667 BGB analog und § 88 HGB, Zurückbehaltungsrecht des Handelsvertreters, Datenschutzrecht nach DSGVO sowie Vollstreckung bei Verweigerung und Schadensersatz bei Datenmis..."
+description: "Wenn es um Kundenliste und Herausgabepflicht bei Vertragsende nach Paragraf 88 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kundenliste und Herausgabepflicht bei Vertragsende nach § 88 HGB

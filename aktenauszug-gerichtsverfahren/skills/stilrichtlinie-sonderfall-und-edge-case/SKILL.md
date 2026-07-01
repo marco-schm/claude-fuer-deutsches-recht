@@ -1,6 +1,6 @@
 ---
 name: stilrichtlinie-sonderfall-und-edge-case
-description: "Stilrichtlinie: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Stilrichtlinie: Sonderfall und Edge-Case-Prüfung in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stilrichtlinie: Sonderfall und Edge-Case-Prüfung

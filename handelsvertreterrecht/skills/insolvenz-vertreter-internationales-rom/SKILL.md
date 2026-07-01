@@ -1,6 +1,6 @@
 ---
 name: insolvenz-vertreter-internationales-rom
-description: "Analysiert die Insolvenz des Handelsvertreters: Auswirkungen auf laufende Vertreterverträge, Kündigung durch den Unternehmer bei Insolvenz des Vertreters, Pfändbarkeit von Provisionsansprüchen, Massezugehörigkeit des Ausgleichsanspruchs und Gläubigerrechte im Insolvenzverfahren des Handelsvertret..."
+description: "Wenn es um Insolvenz des Handelsvertreters — Vertragsbeendigung und Anspruchsübertragung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenz des Handelsvertreters — Vertragsbeendigung und Anspruchsübertragung

@@ -1,6 +1,6 @@
 ---
 name: strassenbau-eilantrag-normenkontrolle
-description: "Umweltschutzverband Verbandsklage: Straßenbau: Eilantrag schreiben im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Strassenbau Eilantrag Schreiben in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strassenbau Eilantrag Schreiben

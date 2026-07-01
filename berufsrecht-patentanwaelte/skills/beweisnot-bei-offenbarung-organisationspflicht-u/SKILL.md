@@ -1,6 +1,6 @@
 ---
 name: beweisnot-bei-offenbarung-organisationspflicht-u
-description: "Patentanwälte: beweisnot bei offenbarung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Beweisnot Bei Offenbarung Organisationspflicht U in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: beweisnot bei offenbarung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: eviktion-und-sachmaengel
-description: "Römisches Recht: Eviktion Und Sachmaengel. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Eviktion Und Sachmaengel in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eviktion Und Sachmaengel

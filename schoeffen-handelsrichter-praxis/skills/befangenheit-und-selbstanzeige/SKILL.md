@@ -1,6 +1,6 @@
 ---
 name: befangenheit-und-selbstanzeige
-description: "Befangenheit und Selbstanzeige: erklärt persönliche Nähe, Vorwissen, Social Media, Branchenkontakt und Neutralität erkennen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Han..."
+description: "Wenn es um Befangenheit und Selbstanzeige in Schöffen und Handelsrichter Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Befangenheit und Selbstanzeige

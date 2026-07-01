@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-schreibcanvas
-description: "Freistehender Corporate-Schreibcanvas für SPA Board Paper und DD-Report: Anwendungsfall Anwalt entwirft SPA-Klausel Markup-Antwort DD-Report oder Mandatsvereinbarung und braucht substanzorientierten Schreibbegleiter der unsubstantiierte Aussagen erkennt. Paragraf 433 ff. BGB Vertragsrecht, Paragraf 93 AktG Or..."
+description: "Wenn es um Freistehender Corporate-Schreibcanvas in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freistehender Corporate-Schreibcanvas

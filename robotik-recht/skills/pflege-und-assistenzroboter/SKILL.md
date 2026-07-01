@@ -1,6 +1,6 @@
 ---
 name: pflege-und-assistenzroboter
-description: "Prüft Pflege- und Assistenzrobotik in Heim, Klinik und Haushalt: Würde, Aufsicht, Einwilligung, Haftung, MDR-Nähe und Datenschutz."
+description: "Wenn es um Pflege- und Assistenzroboter in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflege- und Assistenzroboter

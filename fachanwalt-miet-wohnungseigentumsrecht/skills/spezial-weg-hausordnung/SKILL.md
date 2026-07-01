@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-hausordnung
-description: "Hausordnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Beschlusskompetenz, Gebrauch, Ruhezeiten, Kinder, Tiere, Grillen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Hausordnung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hausordnung

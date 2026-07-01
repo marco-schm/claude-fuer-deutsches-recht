@@ -1,6 +1,6 @@
 ---
 name: betreuung-erbe-werden
-description: "Betreuer als Erbe oder Beschenkter: § 1825 BGB Verbot, Genehmigungspflicht, Anfechtbarkeit. Prüfraster für Notarpraxis und Konflikt-Anzeige beim Betreuungsgericht."
+description: "Wenn es um Betreuer als Erbe in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betreuer als Erbe

@@ -1,6 +1,6 @@
 ---
 name: signing-closing-02
-description: "Signing- und Closing-Room-Manager: koordiniert Execution-Versionen, Signaturseiten, CPs, Bring-downs, Funds Flow, Closing Minutes und Post-Closing-Ablage."
+description: "Wenn es um Signing Closing Room Manager in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Signing Closing Room Manager

@@ -1,6 +1,6 @@
 ---
 name: sondervermoegen-bundeswehr-umschichtun
-description: "Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Umschichtung simulieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Sondervermoegen Bundeswehr Umschichtun in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sondervermoegen Bundeswehr Umschichtun

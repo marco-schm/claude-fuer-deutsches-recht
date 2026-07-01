@@ -1,6 +1,6 @@
 ---
 name: auskunft-und-einsicht
-description: "Prüft Auskunfts- und Einsichtsrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Auskunft Und Einsicht in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auskunft Und Einsicht

@@ -1,6 +1,6 @@
 ---
 name: staedtebauvertrag-haftung-und-rueckabwicklung
-description: "Prueft Haftung und Rueckabwicklung bei unwirksamen städtebaulichen Verträgen: Zahlung, Kostenweitergabe, Projektabbruch, Planbindung und Regress."
+description: "Wenn es um Haftung und Rückabwicklung städtebaulicher Verträge in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Haftung und Rückabwicklung städtebaulicher Verträge

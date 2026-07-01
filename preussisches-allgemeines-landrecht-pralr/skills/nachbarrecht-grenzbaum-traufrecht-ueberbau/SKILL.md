@@ -1,6 +1,6 @@
 ---
 name: nachbarrecht-grenzbaum-traufrecht-ueberbau
-description: "Nachbarrecht im ALR — Grenzbaum Traufrecht Ueberbau. Skill behandelt typische nachbarrechtliche Konstellationen Grenzbaeume Überhang Wegerecht und das Verhältnis zu Landesnachbarrecht und § 906 BGB. Liefert Prüfraster: prüft konkret die einschlägigen Tatbes..."
+description: "Wenn es um Pralr Nachbarrecht Grenzbaum Traufrecht Ueberbau in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nachbarrecht Grenzbaum Traufrecht Ueberbau; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Pralr Nachbarrecht Grenzbaum Traufrecht Ueberbau

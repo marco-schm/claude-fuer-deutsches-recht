@@ -1,6 +1,6 @@
 ---
 name: see-062-containerschiff-hypothek-bestellen
-description: "See- und Schifffahrtsrecht: Containerschiff: Hypothek bestellen. Hypothek bestellen für Containerschiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Containerschiff Hypothek Bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Containerschiff Hypothek Bestellen

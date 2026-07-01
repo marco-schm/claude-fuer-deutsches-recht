@@ -1,6 +1,6 @@
 ---
 name: real-estate-opco-propco-und-pe
-description: "Prüft Immobilien, Mietverträge, Sale-and-Leaseback, PropCo-Struktur, GrESt und Betriebsimmobilien im Private Equity Praxis."
+description: "Wenn es um Real Estate, OpCo/PropCo und PE in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Real Estate, OpCo/PropCo und PE

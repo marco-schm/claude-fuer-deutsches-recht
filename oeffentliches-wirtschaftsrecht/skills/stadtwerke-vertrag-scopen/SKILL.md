@@ -1,6 +1,6 @@
 ---
 name: stadtwerke-vertrag-scopen
-description: "Stadtwerke: Vertrag scopen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Stadtwerke Vertrag Scopen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stadtwerke Vertrag Scopen

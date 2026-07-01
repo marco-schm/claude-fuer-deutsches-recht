@@ -1,6 +1,6 @@
 ---
 name: landeshaushalt-saarland-lesen
-description: "Haushaltsrecht BHO Bund und Länder: Landeshaushalt Saarland lesen. Landeshaushalt Saarland lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbest..."
+description: "Wenn es um Landeshaushalt Saarland Lesen in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Landeshaushalt Saarland Lesen

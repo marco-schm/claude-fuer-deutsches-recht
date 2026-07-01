@@ -1,6 +1,6 @@
 ---
 name: ai-act-art-6-hochrisiko-ki
-description: "AI Act Art 6 Hochrisiko KI: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um digitale Werkzeuge Act Art 6 Hochrisiko digitale Werkzeuge in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AI Act Art 6 Hochrisiko KI

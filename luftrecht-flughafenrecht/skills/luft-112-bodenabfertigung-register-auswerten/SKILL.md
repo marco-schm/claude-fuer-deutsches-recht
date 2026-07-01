@@ -1,6 +1,6 @@
 ---
 name: luft-112-bodenabfertigung-register-auswerten
-description: "Luftrecht und Flughafenrecht: Bodenabfertigung: Register auswerten. Register auswerten für Bodenabfertigung im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bodenabfertigung Register Auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bodenabfertigung Register Auswerten

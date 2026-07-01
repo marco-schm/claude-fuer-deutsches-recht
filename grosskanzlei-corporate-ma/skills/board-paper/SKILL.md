@@ -1,6 +1,6 @@
 ---
 name: board-paper
-description: "Board Paper und Business Judgment Rule Prüfung für M&A-Entscheidungen: Anwendungsfall Vorstand AG Geschäftsführer GmbH oder Aufsichtsrat muss Transaktionsentscheidung formal absichern. Paragraf 93 Abs. 1 Satz 2 AktG Business Judgment Rule Informationsgrundlage, Paragraf 179a AktG Hauptversammlungsvorbehalt, Paragraf..."
+description: "Wenn es um Board Paper und Business Judgment (Corporate M&A) in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Board Paper und Business Judgment (Corporate M&A)

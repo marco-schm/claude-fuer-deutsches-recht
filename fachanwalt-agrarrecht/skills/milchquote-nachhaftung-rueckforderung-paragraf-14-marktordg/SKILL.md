@@ -1,6 +1,6 @@
 ---
 name: milchquote-nachhaftung-rueckforderung-paragraf-14-marktordg
-description: "Nachhaftung des Verpaechters fuer rueckwirkende Milchquote-Rueckforderungen mit Paragraf 14 MOG und EuGH C-275/05 Alvis und BVerwG 3 C 38.06 als Loesungsweg. Prüfraster fuer den typischen Fall verpachtete Milchquote vor 2015 mit nachtraeglicher EU-Rueckforderung."
+description: "Wenn es um Milchquote Nachhaftung Rueckforderung Paragraf 14 Marktordg in Fachanwalt Agrarrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Milchquote Nachhaftung Rueckforderung Paragraf 14 Marktordg

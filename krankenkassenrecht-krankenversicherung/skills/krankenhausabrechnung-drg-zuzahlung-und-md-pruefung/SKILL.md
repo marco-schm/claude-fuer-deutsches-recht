@@ -1,6 +1,6 @@
 ---
 name: krankenhausabrechnung-drg-zuzahlung-und-md-pruefung
-description: "Krankenhausabrechnung im DRG-System: Kodierung, Zuzahlungspflicht, MD-Prüfverfahren, Kürzungen und Widerspruchsstrategien im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Krankenhausabrechnung: DRG, Zuzahlung und MD-Prüfung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenhausabrechnung: DRG, Zuzahlung und MD-Prüfung

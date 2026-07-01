@@ -1,6 +1,6 @@
 ---
 name: arbeitsgerichtsbarkeit
-description: "Deutsche Rechtsgeschichte: Geschichte der Arbeitsgerichtsbarkeit. Gewerbegerichte des Kaiserreichs, Arbeitsgerichtsgesetz 1926, NS-Gleichschaltung, ArbGG 1953 und Bundesarbeitsgericht seit 1954 im Deutsche Rechtsgeschichte."
+description: "Wenn es um Arbeitsgerichtsbarkeit Geschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsgerichtsbarkeit Geschichte

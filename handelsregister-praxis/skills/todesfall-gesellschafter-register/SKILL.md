@@ -1,6 +1,6 @@
 ---
 name: todesfall-gesellschafter-register
-description: "Prüft Erbnachweis, Sonderrechtsnachfolge, Testamentsvollstrecker, Liste und Registerkommunikation im Handelsregister Praxis."
+description: "Wenn es um Todesfall eines Gesellschafters in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Todesfall eines Gesellschafters

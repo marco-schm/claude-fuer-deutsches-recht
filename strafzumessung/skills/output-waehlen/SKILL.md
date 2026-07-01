@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Strafzumessung: stimmt Adressat (Angeklagter, Verteidiger, Staatsanwaltschaft), Frist (Revision 1 Woche/1 Monat § 341 StPO) und Form auf den Zweck ab — typische Outputs: Strafzumessungs-Memo, Plädoyer, Revisionsbegründung Strafzumessung."
+description: "Wenn es um Output wählen in Strafzumessung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

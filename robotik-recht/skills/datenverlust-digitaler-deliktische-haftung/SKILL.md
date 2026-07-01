@@ -1,6 +1,6 @@
 ---
 name: datenverlust-digitaler-deliktische-haftung
-description: "Bewertet Schäden durch Datenverlust, Fehlsteuerung, Produktionsstillstand, Privacy-Schäden und reine Vermögensschäden im Robotik-Recht."
+description: "Wenn es um Datenverlust und digitaler Schaden in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenverlust Digitaler Deliktische Haftung; Arbeitsfeld: robotik-recht."
 ---
 
 # Datenverlust und digitaler Schaden

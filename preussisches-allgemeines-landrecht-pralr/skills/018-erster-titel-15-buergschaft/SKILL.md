@@ -1,6 +1,6 @@
 ---
 name: 018-erster-titel-15-buergschaft
-description: "PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten

@@ -1,6 +1,6 @@
 ---
 name: boesglaeubige-meldung
-description: "Behandelt bewusst falsche oder missbräuchliche Meldungen im Hinweisgeberschutz Compliance."
+description: "Wenn es um Boesglaeubige Meldung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Boesglaeubige Meldung

@@ -1,6 +1,6 @@
 ---
 name: pflegegrad-widerspruch
-description: "Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse verweigert Pflegegrad: Widerspruch gegen Pflegegrad-Bescheid nach SGB XI. Prüfraster: sechs Module § 15 SGB XI Mobilitae..."
+description: "Wenn es um Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse verweigert Pflegegrad in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse verweigert Pflegegrad

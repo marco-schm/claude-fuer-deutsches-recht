@@ -1,6 +1,6 @@
 ---
 name: sponsoring-internationaler-bezug-und-schnittstellen
-description: "Sponsoring: Internationaler Bezug und Schnittstellen: Sponsoring: Internationaler Bezug und Schnittstellen."
+description: "Wenn es um Sponsoring: Internationaler Bezug und Schnittstellen in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sponsoring: Internationaler Bezug und Schnittstellen

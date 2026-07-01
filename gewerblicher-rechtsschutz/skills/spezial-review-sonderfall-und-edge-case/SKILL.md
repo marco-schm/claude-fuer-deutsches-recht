@@ -1,6 +1,6 @@
 ---
 name: spezial-review-sonderfall-und-edge-case
-description: "Review: Sonderfall und Edge-Case-Prüfung im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Review: Sonderfall und Edge-Case-Prüfung in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Review: Sonderfall und Edge-Case-Prüfung

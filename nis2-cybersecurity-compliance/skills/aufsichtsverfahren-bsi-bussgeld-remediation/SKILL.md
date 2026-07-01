@@ -1,6 +1,6 @@
 ---
 name: aufsichtsverfahren-bsi-bussgeld-remediation
-description: "Begleitet BSI-Aufsichtsverfahren und Nachweisverlangen im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Aufsichtsverfahren BSI in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufsichtsverfahren BSI

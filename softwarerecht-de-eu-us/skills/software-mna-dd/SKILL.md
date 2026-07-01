@@ -1,6 +1,6 @@
 ---
 name: software-mna-dd
-description: "Prüft Software-IP, OSS, Datenschutz, Security, Verträge, Kundenlizenzen, Mitarbeiter/Freelancer und technische Schulden im Deal im Softwarerecht De Eu Us."
+description: "Wenn es um Software M&A Due Diligence in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Software M&A Due Diligence

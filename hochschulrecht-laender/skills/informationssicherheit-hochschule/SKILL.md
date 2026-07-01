@@ -1,6 +1,6 @@
 ---
 name: informationssicherheit-hochschule
-description: "Prüft IT-Sicherheit, Forschungsdaten, Ransomware, Hochschul-CERT und Verantwortlichkeiten im Hochschulrecht Länder."
+description: "Wenn es um Informationssicherheit Hochschule in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Informationssicherheit Hochschule

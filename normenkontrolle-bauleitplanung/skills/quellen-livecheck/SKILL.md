@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Quellen-Live-Check für Normenkontrolle Bauleitplanung: prüft Normen (BauGB §§ 1/2/10, § 47 VwGO Normenkontrolle) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt OVG/VGH und Quellenhygiene nach references/quellenhygiene.md."
+description: "Wenn es um Rechtsquellen-Livecheck in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Rechtsquellen-Livecheck

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-preisanpassung
-description: "Rechtsabteilungs-Fachmodul für Preisanpassung bei Dauerverträgen nach Energiekosten-Schock: Preisgleitklauseln werden nach Anlass, Parameter, Transparenz, Kündigungsrecht und Mitteilungsmechanik bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Wenn es um Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Rechtsabteilung Preisanpassung; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock

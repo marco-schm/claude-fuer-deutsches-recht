@@ -1,6 +1,6 @@
 ---
 name: vbr-082-saas-fuer-verbraucher-widerruf-formuli
-description: "Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Widerruf formulieren. Widerruf formulieren für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Saas Fuer Verbraucher Widerruf Formuli in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Saas Fuer Verbraucher Widerruf Formuli

@@ -1,6 +1,6 @@
 ---
 name: inso-p147-rechtshandlungen-nach-verfahrenseroffnung
-description: "§ 147 InsO (Rechtshandlungen nach Verfahrenseröffnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 147 InsO (Rechtshandlungen nach Verfahrenseröffnung) im Mandat prüfen: Normzweck, Tat..."
+description: "Wenn es um Inso P147 Rechtshandlungen Nach Verfahrenseroffnung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 147 InsO (Rechtshandlungen nach Verfahrenseröffnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

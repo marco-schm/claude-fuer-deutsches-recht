@@ -1,6 +1,6 @@
 ---
 name: einstieg-in-den-skill-verbund-sozialrecht
-description: "Einstieg in den Skill-Verbund Sozialrecht: Orientierung im Sozialrecht Fachanwaltschaft nach § 14 FAO Weiterbildungspflicht. SGB I bis XIV im Überblick SGB II Buergergeld SGB VI Rente SGB V Krankenversicherung SGB..."
+description: "Wenn es um Einstieg in den Skill-Verbund Sozialrecht in Fachanwalt Sozialrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg in den Skill-Verbund Sozialrecht

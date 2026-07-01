@@ -1,6 +1,6 @@
 ---
 name: mabv-sicherheit-paragraf-7-pruefen
-description: "Prueft die alternative Sicherung nach Paragraf 7 MaBV: alle Rueckgewaehr- und Auszahlungsansprueche des Erwerbers muessen abgesichert sein bis Paragraf 3 Absatz 1 MaBV erfuellt und das Objekt vollstaendig fertiggestellt ist. Vermischungsverbot mit dem Paragraf-3-Modell und Anforderungen an Buergschaftstext und -dauer."
+description: "Wenn es um MaBV-Sicherheit Paragraf 7 prüfen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # MaBV-Sicherheit Paragraf 7 prüfen

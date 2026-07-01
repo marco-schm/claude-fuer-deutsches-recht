@@ -1,6 +1,6 @@
 ---
 name: ip-rechteuebertragung-und-lizenzen
-description: "Drafting von IP-Klauseln. Urheberrecht (UrhG) kennt keine vollständige Übertragung des Stammrechts (§ 29 UrhG); zulässig ist nur die Einräumung von Nutzungsrechten als einfache oder ausschließliche Lizenz mit räumlicher, zeitlicher und inhaltlicher Beschränkung. Marken und Patente sind dagegen vo..."
+description: "Wenn es um IP-Rechteübertragung und Lizenzen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # IP-Rechteübertragung und Lizenzen

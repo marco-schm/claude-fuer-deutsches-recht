@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Gesellschaftsrecht in legal English: stimmt Adressat (Shareholders, Board of Directors, Investors), Frist (UK confirmation statement annual) und Form auf den Zweck ab — typische Outputs: Memo English, SPA-Markup, Drag-Along/Tag-Along clauses."
+description: "Wenn es um Output wählen in Didaktisches Gesellschaftsrecht — English Business Terms geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

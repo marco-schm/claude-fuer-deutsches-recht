@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Verlagsredaktion: trennt fehlende Tatsachen von fehlenden Belegen (Verlagsvertrag, Manuskript, Bildrechtevereinbarung), nennt pro Lücke Beweisthema, Beschaffungsweg (Presserat), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

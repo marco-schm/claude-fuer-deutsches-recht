@@ -1,6 +1,6 @@
 ---
 name: spezial-erhaltung-vs-modernisierung
-description: "Erhaltung vs. Modernisierung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; trennt Instandsetzung, Verbesserung, Energieeinsparung, Kostenumlage und Beweis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Erhaltung vs. Modernisierung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Erhaltung vs. Modernisierung

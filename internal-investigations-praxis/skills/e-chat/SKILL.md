@@ -1,6 +1,6 @@
 ---
 name: e-chat
-description: "Strukturiert den E-Mail-Review in Internal Investigations – Keyword-Suche, TAR, Privilege-Log, DSGVO und Verwertbarkeit im Internal Investigations Praxis."
+description: "Wenn es um E-Mail-Review in Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # E-Mail-Review in Internal Investigations

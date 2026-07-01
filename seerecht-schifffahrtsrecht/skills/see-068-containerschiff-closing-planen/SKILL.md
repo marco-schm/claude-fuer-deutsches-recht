@@ -1,6 +1,6 @@
 ---
 name: see-068-containerschiff-closing-planen
-description: "See- und Schifffahrtsrecht: Containerschiff: Closing planen. Closing planen für Containerschiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Containerschiff Closing Planen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Containerschiff Closing Planen

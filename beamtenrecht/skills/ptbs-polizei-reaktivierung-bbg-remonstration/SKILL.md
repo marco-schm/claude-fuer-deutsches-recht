@@ -1,6 +1,6 @@
 ---
 name: ptbs-polizei-reaktivierung-bbg-remonstration
-description: "Skill zur Anerkennung der posttraumatischen Belastungsstoerung als Dienstunfall bei Polizei Justizvollzug Feuerwehr und Soldaten. Klaert die Anforderungen an die Glaubhaftmachung eines auslosenden Ereignisses die Anforderungen an den Kausalitaetsnachweis bei psychiatrischer Diagnose nach ICD-10 o..."
+description: "Wenn es um PTBS und Dienstunfall im Vollzugsdienst in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PTBS und Dienstunfall im Vollzugsdienst

@@ -1,6 +1,6 @@
 ---
 name: note-2-formeln-leistung
-description: "Vollständiger Formulierungskatalog für Leistungsaussagen der Note 2 (gut). Enthält Hauptformel, Standardsteigerer, Einzelsatz-Varianten für alle Bewertungsachsen. Note 2 setzt 'stets' vor 'volle Zufriedenheit' voraus — fehlt das Adverb, rutscht die Note auf 3. Alle Formeln sind klar positiv, aber eine Stufe unter dem Maximalbereich."
+description: "Wenn es um Note 2 — Formeln Leistung in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Note 2 — Formeln Leistung

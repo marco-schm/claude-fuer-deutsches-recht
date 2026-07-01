@@ -1,6 +1,6 @@
 ---
 name: pruefung-sachverstaendigengutachten-ki-deklaration
-description: "KI-Deklaration in Sachverständigengutachten prüfen: Hat der Sachverständige KI-Nutzung offengelegt? Normen: §§ 404 ff. ZPO, JVEG. Prüfraster: Deklarationspflicht, Methodentransparenz, Beeinflussung des Gutachtenwertes. Output: Prüfergebnis KI-Deklaration mit Handlungsempfehlung. Abgrenzung: nicht..."
+description: "Wenn es um Prüfung Sachverständigengutachten — digitale Werkzeuge-Deklaration und JVEG in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfung Sachverständigengutachten — KI-Deklaration und JVEG

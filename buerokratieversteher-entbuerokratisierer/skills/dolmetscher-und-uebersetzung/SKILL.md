@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-und-uebersetzung
-description: "Klären, wann Übersetzung, Dolmetscher, einfache Sprache, fremdsprachiger Begleittext oder amtliche Übersetzung nötig ist im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Dolmetscher und Übersetzung in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Dolmetscher und Übersetzung

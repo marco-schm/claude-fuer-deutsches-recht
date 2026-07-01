@@ -1,6 +1,6 @@
 ---
 name: kodifikationstechnik-historisch
-description: "Deutsche Rechtsgeschichte: Kodifikationstechnik im historischen Vergleich. ALR 1794 als kasuistisches System, BGB-Abstraktion und Pandektistik, DDR-ZGB 1975 und moderne Schuldrechtsreform 2002 im Deutsche Rechtsgeschichte."
+description: "Wenn es um Kodifikationstechnik historisch in Deutsche Rechtsgeschichte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Kodifikationstechnik historisch

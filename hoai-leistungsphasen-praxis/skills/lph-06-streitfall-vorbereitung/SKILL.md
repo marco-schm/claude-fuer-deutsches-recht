@@ -1,6 +1,6 @@
 ---
 name: lph-06-streitfall-vorbereitung
-description: "HOAI LPH 6 Vorbereitung der Vergabe: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Lph 06 Streitfall Vorbereitung in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Macht aus der phase eine prozess-/schiedsgutachten- oder vergleichsakte

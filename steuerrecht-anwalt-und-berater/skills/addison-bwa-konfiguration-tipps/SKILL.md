@@ -1,6 +1,6 @@
 ---
 name: addison-bwa-konfiguration-tipps
-description: "Addison BWA-Konfiguration. Anwendungsfall Kanzleien mit Wolters Kluwer Addison statt DATEV. Methodik Unterschiede zu DATEV Konten-Konfiguration Branchenanpassung. Output BWA in Addison."
+description: "Wenn es um Addison BWA-Konfiguration in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Addison BWA-Konfiguration

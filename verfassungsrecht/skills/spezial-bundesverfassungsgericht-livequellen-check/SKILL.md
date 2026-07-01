@@ -1,6 +1,6 @@
 ---
 name: spezial-bundesverfassungsgericht-livequellen-check
-description: "Livequellen-Check für BVerfG-Zitate: entscheidet, ob Entscheidung, Pressemitteilung, Leitsatz, Randnummer und Tenor wirklich die konkrete verfassungsrechtliche Aussage tragen."
+description: "Wenn es um Bundesverfassungsgericht: Livequellen-Check in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bundesverfassungsgericht: Livequellen-Check

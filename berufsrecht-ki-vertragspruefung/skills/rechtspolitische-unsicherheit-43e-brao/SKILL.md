@@ -1,6 +1,6 @@
 ---
 name: rechtspolitische-unsicherheit-43e-brao
-description: "Rechtsunsicherheit bei § 43e BRAO und KI-Outsourcing dokumentieren: abweichende Kammer-/Verbandspositionen, fehlende höchstrichterliche KI-Rechtsprechung, Reformmonitor, Safe-Harbor-Argumente und Mandatsrisiko transparent machen."
+description: "Wenn es um Rechtsunsicherheit zu Paragraf 43e BRAO dokumentieren in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsunsicherheit zu § 43e BRAO dokumentieren

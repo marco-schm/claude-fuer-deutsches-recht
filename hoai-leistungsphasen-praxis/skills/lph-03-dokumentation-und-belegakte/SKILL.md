@@ -1,6 +1,6 @@
 ---
 name: lph-03-dokumentation-und-belegakte
-description: "HOAI LPH 3 Entwurfsplanung: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 3 Entwurfsplanung: Sichert protokolle in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # LPH 3 Entwurfsplanung: Sichert protokolle

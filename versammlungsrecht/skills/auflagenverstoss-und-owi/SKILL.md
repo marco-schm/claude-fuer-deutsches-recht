@@ -1,6 +1,6 @@
 ---
 name: auflagenverstoss-und-owi
-description: "Prüft Ordnungswidrigkeiten- und Strafrisiken bei nicht angezeigten Versammlungen, Auflagenverstößen und Auflösung im Versammlungsrecht."
+description: "Wenn es um Risiko realistisch, nicht panisch in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Risiko realistisch, nicht panisch

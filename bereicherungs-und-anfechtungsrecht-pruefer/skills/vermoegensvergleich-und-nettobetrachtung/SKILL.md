@@ -1,6 +1,6 @@
 ---
 name: vermoegensvergleich-und-nettobetrachtung
-description: "Bei der bereicherungsrechtliche Netto-Vorteil statt nur der äußere Zufluss gesucht wird. Normen: §§ 812 und 818 BGB; Saldotheorie und Zweikondiktionentheorie. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe..."
+description: "Wenn es um Vermögensvergleich und Nettobetrachtung in bereicherungs-und-anfechtungsrecht-prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vermögensvergleich und Nettobetrachtung

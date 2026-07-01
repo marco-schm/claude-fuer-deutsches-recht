@@ -1,6 +1,6 @@
 ---
 name: ressort-bmftr
-description: "Heranfuehrung Ressort BMFTR (Bundesministerium für Forschung; Technologie und Raumfahrt). Schwerpunkt: Hochschule und Wissenschaft; Raumfahrt; Forschungsfoerderung; KI; Biotechnologie. Kernnormen: HRG; WissZeitVG; WRG; WissTrAG; ATG; BNatSchG (Biotech); GenTG; KI-VO (EU). Fuenf Spezialfelder: hoc..."
+description: "Wenn es um Ressort-Heranfuehrung BMFTR in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressort-Heranfuehrung BMFTR

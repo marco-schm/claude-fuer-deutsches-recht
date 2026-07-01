@@ -1,6 +1,6 @@
 ---
 name: criminal-copyright-customs-border-database
-description: "Prüft strafrechtliche Copyright-Risiken, willfulness, commercial advantage, prerelease works und Schnittstelle zu 18 USC 2319 im Us Copyright Registrierung Verlag."
+description: "Wenn es um Criminal Copyright Paragraf 506 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Criminal Copyright § 506

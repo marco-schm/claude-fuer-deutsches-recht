@@ -1,6 +1,6 @@
 ---
 name: see-058-yachtkauf-closing-planen
-description: "See- und Schifffahrtsrecht: Yachtkauf: Closing planen. Closing planen für Yachtkauf im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Yachtkauf Closing Planen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Yachtkauf Closing Planen

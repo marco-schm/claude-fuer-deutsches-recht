@@ -1,6 +1,6 @@
 ---
 name: warnschreiben-krisensignale
-description: "Prüfungslinie für stb warnschreiben krisensignale im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Warnschreiben Steuerberater an Mandant bei Krisensignalen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Warnschreiben Steuerberater an Mandant bei Krisensignalen

@@ -1,6 +1,6 @@
 ---
 name: satellitenbetrieb-deutschland
-description: "Genehmigungsverfahren für Satellitenbetrieb aus Deutschland – zuständige Behörden, Versicherungspflichten, laufende Aufsicht im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Satellitenbetrieb aus Deutschland: Genehmigung, Versicherung, Aufsicht in Weltraumrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Weltraumrecht: Satellitenbetrieb aus Deutschland: Genehmigung, Versicherung, Aufsicht

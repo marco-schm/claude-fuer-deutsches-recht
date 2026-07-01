@@ -1,6 +1,6 @@
 ---
 name: aktenaufnahme-in-pfarrei-ordinariat-und-offizialat
-description: "Aktenaufnahme in Pfarrei, Ordinariat und Offizialat: Register, Urkunden, Gesprächsnotizen, E-Mails, Bescheide und Seelsorgegeschichte; CIC can. 486-491 und 535 und 537; KKK 871-945; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret d..."
+description: "Wenn es um Aktenaufnahme in Pfarrei, Ordinariat und Offizialat in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Aktenaufnahme in Pfarrei, Ordinariat und Offizialat

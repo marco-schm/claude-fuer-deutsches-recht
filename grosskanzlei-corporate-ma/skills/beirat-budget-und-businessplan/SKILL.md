@@ -1,6 +1,6 @@
 ---
 name: beirat-budget-und-businessplan
-description: "Prüft Beiratsfragen zu Budget Und Businessplan: Zuständigkeit, Satzungsgrundlage, Beschlussweg, Haftung, Belege, Gegenargumente und verwertbaren Output."
+description: "Wenn es um Beirat Budget Und Businessplan in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Budget Und Businessplan

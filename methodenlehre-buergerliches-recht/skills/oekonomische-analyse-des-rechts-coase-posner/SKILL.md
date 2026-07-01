@@ -1,6 +1,6 @@
 ---
 name: oekonomische-analyse-des-rechts-coase-posner
-description: "Oekonomische Analyse des Rechts (Law and Economics). Ronald H. Coase, The Problem of Social Cost 1960. Richard A. Posner, Economic Analysis of Law 1973. Coase-Theorem, Transaktionskosten, Effizienz als Auslegungsmassstab. Anwendung im deutschen Zivilrecht (Schadensrecht, Vertragsrecht, Nachbarrec..."
+description: "Wenn es um Oekonomische Analyse des Rechts (Law and Economics) in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Oekonomische Analyse des Rechts (Law and Economics)

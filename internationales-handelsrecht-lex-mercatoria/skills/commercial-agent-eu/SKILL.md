@@ -1,6 +1,6 @@
 ---
 name: commercial-agent-eu
-description: "Internationales Handelsrecht: EU-Handelsvertreterrecht nach RL 86/653/EWG und HGB §§ 84-92c. Vergütung (Provision), Ausgleichsanspruch § 89b HGB, Kundschutzliste, Delkrederepflicht und Kollisionsrecht bei ausländischen HV-Klauseln im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um EU-Handelsvertreterrecht in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU-Handelsvertreterrecht

@@ -1,6 +1,6 @@
 ---
 name: einreichung-130a-zpo-elektronisch-buerger
-description: "Elektronische Einreichung nach § 130a ZPO für Buerger. Sichere Übermittlungswege qualifizierte elektronische Signatur Bedeutung der Eingangsbestätigung. Abgrenzung zu Email und einfachem Scan. Wann ist elektronische Einreichung fristwahrend."
+description: "Wenn es um Elektronische Einreichung nach Paragraf 130a ZPO in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Elektronische Einreichung nach § 130a ZPO

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Aktenauszüge zivilgerichtlicher Verfahren: ordnet Rolle (Mandant, Gegenpartei, Gericht), markiert Frist (Akteneinsicht im laufenden Verfahren jederzeit), wählt Norm (§ 299 ZPO Akteneinsicht, § 130a ZPO eA-Übermittlung, § 169 GVG Öffentlichkeit) und Zuständigkeit (..."
+description: "Wenn es um Einstieg und Routing in aktenauszug-gerichtsverfahren geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

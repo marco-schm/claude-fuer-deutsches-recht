@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-pruefungsakte
-description: "Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen im Prüfungsrecht Hochschule."
+description: "Wenn es um Akteneinsicht Prüfungsakte in Prüfungsrecht an Hochschulen und Universitäten geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Akteneinsicht Prüfungsakte

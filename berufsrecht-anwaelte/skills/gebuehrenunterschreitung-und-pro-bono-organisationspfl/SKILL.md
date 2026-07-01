@@ -1,6 +1,6 @@
 ---
 name: gebuehrenunterschreitung-und-pro-bono-organisationspfl
-description: "Anwälte: gebuehrenunterschreitung und pro bono - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Gebuehrenunterschreitung Und Pro Bono Organisationspfl in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: gebuehrenunterschreitung und pro bono - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

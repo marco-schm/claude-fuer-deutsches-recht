@@ -1,6 +1,6 @@
 ---
 name: weg-wirtschaftsplan-hausgeld
-description: "Wirtschaftsplan: Verhandlung, Vergleich und Eskalation im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Wirtschaftsplan: Verhandlung, Vergleich und Eskalation in WEG- und Hausverwaltung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Wirtschaftsplan: Verhandlung, Vergleich und Eskalation

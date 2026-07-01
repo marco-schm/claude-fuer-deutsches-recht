@@ -1,6 +1,6 @@
 ---
 name: lead-authority-konzern
-description: "Bestimmt die federführende Aufsichtsbehörde bei grenzüberschreitender Verarbeitung im Konzern nach Art. 56 DSGVO. Behandelt: Hauptniederlassung; entscheidungsmächtige Stelle; Konzernstruktur; EDSA-Leitlinien zur Lead Authority; Kooperationsverfahren Art. 60 DSGVO; Konsistenzverfahren Art. 63; Mel..."
+description: "Wenn es um Federführende Aufsichtsbehörde im Konzern — Art. 56 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Federführende Aufsichtsbehörde im Konzern — Art. 56 DSGVO

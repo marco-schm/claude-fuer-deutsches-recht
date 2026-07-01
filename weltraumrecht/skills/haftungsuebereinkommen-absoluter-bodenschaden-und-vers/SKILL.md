@@ -1,6 +1,6 @@
 ---
 name: haftungsuebereinkommen-absoluter-bodenschaden-und-vers
-description: "Liability Convention 1972 – Art. II–V: Gefährdungshaftung am Boden, Verschuldenshaftung im Weltraum, Anspruchsverfahren im Weltraumrecht."
+description: "Wenn es um Haftungsuebereinkommen Absoluter Bodenschaden Und Vers in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Haftungsübereinkommen: Absoluter Bodenschaden und Verschuldenshaftung im All

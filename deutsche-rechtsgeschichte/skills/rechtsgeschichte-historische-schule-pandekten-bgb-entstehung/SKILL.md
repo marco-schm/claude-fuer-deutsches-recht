@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte-historische-schule-pandekten-bgb-entstehung
-description: "Deutsche Rechtsgeschichte: Historische Rechtsschule und Pandektistik. Savigny, Puchta, Windscheid, Jhering und die Pandektenwissenschaft als Grundlage des BGB 1900 im Deutsche Rechtsgeschichte."
+description: "Wenn es um Historische Rechtsschule und Pandektistik in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Historische Rechtsschule und Pandektistik

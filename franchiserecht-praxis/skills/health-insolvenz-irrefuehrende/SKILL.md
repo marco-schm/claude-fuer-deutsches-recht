@@ -1,6 +1,6 @@
 ---
 name: health-insolvenz-irrefuehrende
-description: "Fachmodul Franchiserecht für Health- und Pflege-Franchise mit HWG-Risiko: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage..."
+description: "Wenn es um Franchise: Health- und Pflege-Franchise mit HWG-Risiko in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Franchise: Health- und Pflege-Franchise mit HWG-Risiko

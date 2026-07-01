@@ -1,6 +1,6 @@
 ---
 name: inso-p022a-bestellung-eines-vorlaufigen-glaubigerausschusses
-description: "§ 22a InsO (Bestellung eines vorläufigen Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 22a InsO (Bestellung eines vorläufigen Gläubigerausschusses) im Mandat prüfen..."
+description: "Wenn es um Inso P022a Bestellung Eines Vorlaufigen Glaubigerausschusses in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 22a InsO (Bestellung eines vorläufigen Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

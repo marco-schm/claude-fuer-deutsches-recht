@@ -1,6 +1,6 @@
 ---
 name: ls-bescheid-uebersetzen-workflow
-description: "Bescheid in Leichte Sprache übersetzen Workflow: Originalbescheid, Kernaussagen extrahieren, je Aussage 1 kurzer Satz, Prüfung mit Zielgruppen-Vertreter, Layout (Bilder, Schriftgroesse), Prüfsiegel. Routet in einfache-leichte-sprache-jura."
+description: "Wenn es um LS: Bescheid übersetzen in Einfache und Leichte Sprache für juristische Texte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # LS: Bescheid übersetzen

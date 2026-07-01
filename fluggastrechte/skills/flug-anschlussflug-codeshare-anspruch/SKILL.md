@@ -1,6 +1,6 @@
 ---
 name: flug-anschlussflug-codeshare-anspruch
-description: "Spezialfall Anschlussflug und Codeshare: einheitliche Buchung, ausfuehrendes Luftfahrtunternehmen, Drittland-Strecken nach EuGH wegfin. Prüfraster für Klagezuständigkeit im Fluggastrechte."
+description: "Wenn es um Flug: Anschlussflug Codeshare in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Flug Anschlussflug Codeshare Anspruch; Arbeitsfeld: Fluggastrechte."
 ---
 
 # Flug: Anschlussflug Codeshare

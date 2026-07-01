@@ -1,6 +1,6 @@
 ---
 name: datenqualitaet-xai-qualitaetskontrolle
-description: "Datenqualität und XAI-Qualitätskontrolle: Sichert KI-gestuetzte M&A-Arbeit gegen Halluzination, Bias, Black-Box-Probleme und schlechte Datenqualität ab im Mittelstand Corporate Ma."
+description: "Wenn es um Datenqualität und XAI-Qualitätskontrolle in Mittelstands-Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Datenqualität und XAI-Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: geschaeftsgeheimnis-geschgehg
-description: "NDA als angemessene Geheimhaltungsmassnahme i. S. § 2 Nr. 1 b GeschGehG: NDA allein reicht nicht, technisch-organisatorische Maßnahmen erforderlich (Zugangsschutz, Klassifizierung, Logging). Prüfraster im NDA-Abgleich."
+description: "Wenn es um NDA + GeschGehG-Maßnahmen in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Geschaeftsgeheimnis Geschgehg; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # NDA + GeschGehG-Maßnahmen

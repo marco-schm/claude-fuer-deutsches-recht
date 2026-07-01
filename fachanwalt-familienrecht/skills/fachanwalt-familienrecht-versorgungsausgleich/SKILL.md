@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-versorgungsausgleich
-description: "Bereitet den Versorgungsausgleich im Scheidungsverbund vor: Ehezeit, Versorgungsträgerauskünfte, interne und externe Teilung, Ausgleichswert, Geringfügigkeit, Härte, Vereinbarung und Beschlussvorschlag."
+description: "Wenn es um Versorgungsausgleich in Fachanwalt Familienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Versorgungsausgleich

@@ -1,6 +1,6 @@
 ---
 name: kokain-akteneinsicht-vorbereiten
-description: "Kokain: Akteneinsicht vorbereiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kokain Akteneinsicht Vorbereiten in Betäubungsmittelrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kokain Akteneinsicht Vorbereiten

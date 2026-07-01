@@ -1,6 +1,6 @@
 ---
 name: steuerberater-vorbehaltsaufgabe-kammer
-description: "Steuerberater Vorbehaltsaufgabe (Verteidigungs- und Kammerantwort): steuert Abgrenzung Steuerberatung, Rechtsdienstleistung, Lohnbuchhaltung, Förderantrag und betriebswirtschaftliche Beratung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Be..."
+description: "Wenn es um Steuerberater Vorbehaltsaufgabe: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Steuerberater Vorbehaltsaufgabe: Verteidigungs- und Kammerantwort

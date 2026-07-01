@@ -1,6 +1,6 @@
 ---
 name: cybercrime-logfiles-und-chain-of-custody
-description: "Cybercrime: Logfiles und Chain of Custody: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Cybercrime: Logfiles und Chain of Custody in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Cybercrime Logfiles Und Chain Of Custody; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
 ---
 
 # Cybercrime: Logfiles und Chain of Custody

@@ -1,6 +1,6 @@
 ---
 name: fluglaerm-anwohner-insolvenz
-description: "Anwohner klagt gegen Fluglaerm oder Flughafen baut Schallschutzprogramm auf. Prüft FluglaermG §§ 1-9 Laermschutzbereiche Tagschutzzone 65-60 dB Nachtschutzzone 55 dB BImSchG § 41 und Schallschutzansprueche und liefert Klagebaustein und Schallschutzanspruchs-Checkliste mit Fristen im Luftrecht Fl..."
+description: "Wenn es um Fluglärm und Anwohner – Lärmschutzbereiche und Schallschutzansprüche in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fluglärm und Anwohner – Lärmschutzbereiche und Schallschutzansprüche

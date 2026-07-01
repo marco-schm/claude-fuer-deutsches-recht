@@ -1,6 +1,6 @@
 ---
 name: psychische-belastung-und-beratung
-description: "Routet Belastungen durch Gewissenskonflikt zu Hilfe ohne Pathologisierung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Psychische Belastung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Psychische Belastung

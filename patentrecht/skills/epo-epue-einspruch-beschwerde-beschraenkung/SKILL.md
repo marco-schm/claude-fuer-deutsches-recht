@@ -1,6 +1,6 @@
 ---
 name: epo-epue-einspruch-beschwerde-beschraenkung
-description: "Vertieft EPA/EPO-Verfahren: Einspruch, Beschwerde, zentrale Beschränkung, Hilfsanträge, Verfahrenssprache, mündliche Verhandlung und Übergang zu UPC/nationaler Durchsetzung im Patentrecht."
+description: "Wenn es um EPÜ: Einspruch, Beschwerde und Beschränkung in patentrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # EPÜ: Einspruch, Beschwerde und Beschränkung

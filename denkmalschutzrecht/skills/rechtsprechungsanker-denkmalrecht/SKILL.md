@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungsanker-denkmalrecht
-description: "Kuratierte Sammlung der zentralen Leitentscheidungen im deutschen Denkmalschutzrecht: Bundesverfassungsgericht zum Verhaeltnis von Art. 14 GG und Erhaltungspflichten, Bundesverwaltungsgericht zur konstitutiven Eintragung und zum Erlaubnisermessen, ausgewaehlte Oberverwaltungsgerichts-Linien zur Zumutbarkeit und zum Umgebungsschutz. Skill nennt Gericht, Datum und Aktenzeichen mit ausdruecklichem Live-Verifikations-Hinweis."
+description: "Wenn es um Rechtsprechungsanker Denkmalrecht in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsprechungsanker Denkmalrecht

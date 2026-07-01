@@ -1,6 +1,6 @@
 ---
 name: 03-beweisantraege-und-ablehnung
-description: "Beweisantraege Paragraf 244 StPO, Ablehnungsgründe, Wahrunterstellung, Hilfsbeweisantraege, Konnexitaet, Beweisaufnahme im Selbstleseverfahren Paragraf 249 Abs. 2"
+description: "Wenn es um 03 Beweisantraege und Ablehnung in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 03 Beweisantraege und Ablehnung

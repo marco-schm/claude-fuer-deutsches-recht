@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Führt durch das erste Registerproblem: Wer meldet was an, welche Gesellschaft, welches Registerblatt, welches Ziel, welcher Fristdruck, welche Urkunden, welche Entscheidungsperson und welches Eskalationsniveau."
+description: "Wenn es um Kaltstart-Interview und Registerfahrplan in Handelsregister Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart-Interview und Registerfahrplan

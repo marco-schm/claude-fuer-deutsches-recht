@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Betriebliche Altersversorgung im Konzern: wählt den nächsten Spezial-Skill nach Engpass (Anpassungsprüfung alle 3 Jahre § 16 BetrAVG, Versorgungsordnung, Pensionsfonds-Vereinbarung, Gutachten Pensionsverpflichtungen), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anschluss-Routing

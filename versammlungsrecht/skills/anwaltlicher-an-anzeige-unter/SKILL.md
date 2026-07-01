@@ -1,6 +1,6 @@
 ---
 name: anwaltlicher-an-anzeige-unter
-description: "Entwirft einen anwaltlichen oder sehr sachlichen Laienbrief gegen problematische Behördenkommunikation im Versammlungsrecht."
+description: "Wenn es um Klar, fest, ohne Theater in Versammlungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klar, fest, ohne Theater

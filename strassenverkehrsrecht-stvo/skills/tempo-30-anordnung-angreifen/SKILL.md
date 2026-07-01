@@ -1,6 +1,6 @@
 ---
 name: tempo-30-anordnung-angreifen
-description: "StVO: Tempo 30: Anordnung angreifen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Tempo 30 Anordnung Angreifen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tempo 30 Anordnung Angreifen

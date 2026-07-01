@@ -1,6 +1,6 @@
 ---
 name: anlagen-aus-mandantenmaterial
-description: "Mandantenmaterial in Anlagen umwandeln: Posteingang, E-Mails, PDFs, Vertraege, Rechnungen, Korrespondenz. Markiert geschwaerzte Stellen, prüft Vollstaendigkeit, schlaegt sinnvolle Kuerzungen vor. Erkennt vertrauliche Inhalte, die für das Verfahren nicht relevant sind."
+description: "Wenn es um Anlagen aus Mandantenmaterial in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anlagen aus Mandantenmaterial

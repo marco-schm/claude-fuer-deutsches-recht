@@ -1,6 +1,6 @@
 ---
 name: auslandreise-auftrag-cloud-ordner-digital
-description: "Solo-Selbstständige: prüft Reisekosten, Arbeitsmittel, Steuer und Versicherung im Ausland; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Internationales und Auslandskunden: Prüft reisekosten in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Internationales und Auslandskunden: Prüft reisekosten

@@ -1,6 +1,6 @@
 ---
 name: pacht-leihe-schnittstelle-at
-description: "Pacht §§ 581 ff., Leihe §§ 598 ff. und Verwahrung §§ 688 ff. BGB: Pflichten, Haftung und Abgrenzung im BGB BT."
+description: "Wenn es um Pacht, Leihe und Verwahrung BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pacht Leihe Schnittstelle At; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Pacht, Leihe und Verwahrung BGB

@@ -1,6 +1,6 @@
 ---
 name: auslegung-verhandlung-vergleich-und-eskalation
-description: "Dieses Skill bearbeitet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement: Dieses Skill bearbeitet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung un..."
+description: "Wenn es um Auslegung Verhandlung Vergleich Und Eskalation in Methodenlehre bürgerliches Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Dieses Skill bearbeitet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement

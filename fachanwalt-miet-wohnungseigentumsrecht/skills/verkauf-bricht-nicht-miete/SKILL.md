@@ -1,6 +1,6 @@
 ---
 name: verkauf-bricht-nicht-miete
-description: "Kauf bricht nicht Miete: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Eigentümerwechsel, Kaution, Betriebskosten, Kündigungssperren; mit Normprüfung, Beweisen, Fristen, Risikoam..."
+description: "Wenn es um Kauf bricht nicht Miete: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kauf bricht nicht Miete: Fachmodul im Miet- und Wohnungseigentumsrecht

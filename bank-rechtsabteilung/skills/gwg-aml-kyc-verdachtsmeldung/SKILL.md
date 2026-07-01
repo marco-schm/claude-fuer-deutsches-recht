@@ -1,6 +1,6 @@
 ---
 name: gwg-aml-kyc-verdachtsmeldung
-description: "GwG-, AML- und KYC-Prüfung für Banken: Risikoanalyse, wirtschaftlich Berechtigte, PEP, Sanktionen, Transaktionsmonitoring, Verdachtsmeldung und Dokumentation ohne unnötige Selbstbelastung strukturieren im Bank-Rechtsabteilung."
+description: "Wenn es um GwG AML KYC in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # GwG AML KYC

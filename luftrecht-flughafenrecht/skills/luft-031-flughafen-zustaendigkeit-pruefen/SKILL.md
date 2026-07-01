@@ -1,6 +1,6 @@
 ---
 name: luft-031-flughafen-zustaendigkeit-pruefen
-description: "Luftrecht und Flughafenrecht: Flughafen: Zuständigkeit prüfen. Zuständigkeit prüfen für Flughafen im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Flughafen Zustaendigkeit Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flughafen Zustaendigkeit Pruefen

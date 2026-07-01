@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für E-Mail-Umformulierung im Berufsrecht: sortiert E-Mail-Entwurf, Mandantenkorrespondenz, Behörden-/Gegnerschreiben, prüft Datum, Absender, Frist und Beweiswert (Frühere Mails (Tonalitäts-Beleg)); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

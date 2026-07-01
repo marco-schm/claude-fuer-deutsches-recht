@@ -1,6 +1,6 @@
 ---
 name: ki-anbieter-pruefung
-description: "Prüft KI-Anbieterverträge gegen die unternehmenseigenen Governance- Positionen; kennzeichnet Training auf Daten, Haftung, Modelländerungen und KI-Richtlinien-Konsistenz. Unterscheidet Anbieter/Betreiber-Rolle nach Art. 3 KI-VO; prüft Vertragspflichten nach Art. 25 KI-VO. Lädt, wenn der Nutzer KI-..."
+description: "Wenn es um digitale Werkzeuge-Anbieterprüfung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # KI-Anbieterprüfung

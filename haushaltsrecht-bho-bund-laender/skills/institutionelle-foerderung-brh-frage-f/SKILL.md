@@ -1,6 +1,6 @@
 ---
 name: institutionelle-foerderung-brh-frage-f
-description: "Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: BRH-Frage formulieren. BRH- im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Institutionelle Förderung Brh Frage F in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Institutionelle Förderung Brh Frage F

@@ -1,6 +1,6 @@
 ---
 name: darstellender-teil
-description: "Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Maßnahmen Finanzplanung Vergleichsrechnung Sonderaktiva Sicherheiten Steuerfolgen Offenlegung Widerspruchsfreiheit. Output: Darstellender Teil..."
+description: "Wenn es um Darstellender Teil in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Darstellender Teil

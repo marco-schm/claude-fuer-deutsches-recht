@@ -1,6 +1,6 @@
 ---
 name: lph-05-outputpaket
-description: "HOAI LPH 5 Ausführungsplanung: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsp..."
+description: "Wenn es um LPH 5 Ausführungsplanung: Liefert alle dokumente in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # LPH 5 Ausführungsplanung: Liefert alle dokumente

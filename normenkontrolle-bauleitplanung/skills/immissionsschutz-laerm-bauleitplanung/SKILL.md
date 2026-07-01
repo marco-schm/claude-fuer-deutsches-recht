@@ -1,6 +1,6 @@
 ---
 name: immissionsschutz-laerm-bauleitplanung
-description: "Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Prüfraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsatz § 50 BImSchG aktive vs. passive Maßnahmen Verkehrslaerm B"
+description: "Wenn es um Immissionsschutz und Lärm in der Bauleitplanung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Immissionsschutz Laerm Bauleitplanung; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Immissionsschutz und Lärm in der Bauleitplanung

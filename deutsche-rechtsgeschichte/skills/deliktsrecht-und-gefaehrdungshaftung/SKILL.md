@@ -1,6 +1,6 @@
 ---
 name: deliktsrecht-und-gefaehrdungshaftung
-description: "Deutsche Rechtsgeschichte: Deliktsrecht und Gefaehrdungshaftung. BGB §§ 823-853, Haftpflichtgesetz 1871, Gefaehrdungshaftung im Industriezeitalter und Produkthaftungsgesetz 1989 im Deutsche Rechtsgeschichte."
+description: "Wenn es um Deliktsrecht und Gefaehrdungshaftung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deliktsrecht und Gefaehrdungshaftung

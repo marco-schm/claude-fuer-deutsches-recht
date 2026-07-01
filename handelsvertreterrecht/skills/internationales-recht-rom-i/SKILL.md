@@ -1,6 +1,6 @@
 ---
 name: internationales-recht-rom-i
-description: "Analysiert das auf Handelsvertreterverträge anwendbare Recht nach der Rom-I-Verordnung: Rechtswahl, objektive Anknüpfung nach Art. 4 Abs. 1 lit. b oder Abs. 2 Rom-I-VO, Eingriffsnormen nach Art. 9 Rom-I-VO und zwingende Schutzvorschriften nach § 92c HGB für in Deutschland tätige Vertreter im Hand..."
+description: "Wenn es um Anwendbares Recht auf Handelsvertreterverträge nach Rom-I-Verordnung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwendbares Recht auf Handelsvertreterverträge nach Rom-I-Verordnung

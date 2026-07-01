@@ -1,6 +1,6 @@
 ---
 name: ki-im-notariat-grenzen-kaltstart-und-faktenmatrix
-description: "Notare: ki im notariat grenzen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Ki Im Notariat Grenzen Kaltstart Und Faktenmatrix in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: ki im notariat grenzen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: mandatsbeendigung
-description: "Mandatsbeendigung: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Mandatsbeendigung im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Mandatsbeendigung in Berufsrecht Wirtschaftsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mandatsbeendigung

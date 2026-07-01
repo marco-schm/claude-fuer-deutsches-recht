@@ -1,6 +1,6 @@
 ---
 name: vorsatzanfechtung-133-inso
-description: "Vorsatzanfechtung 133 Inso: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Insolvenzrecht."
+description: "Wenn es um Vorsatzanfechtung Paragraf 133 InsO in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorsatzanfechtung § 133 InsO

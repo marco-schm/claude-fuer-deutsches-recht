@@ -1,6 +1,6 @@
 ---
 name: aussageanalyse-aussagepsychologie
-description: "Zeugenaussage mit aussagepsychologischen Realkennzeichen analysieren: logische Konsistenz, quantitative Detailfuelle, Detailverknuepfung, Selbstbelastung, ungewoehnliche Details, Nichtsteuerungsmerkmale. Hypothesentest Falschaussage. Sinnvoll bei Aussage-gegen-Aussage. Output strukturiertes Gutac..."
+description: "Wenn es um Aussageanalyse Aussagepsychologie in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aussageanalyse Aussagepsychologie

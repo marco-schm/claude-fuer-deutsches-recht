@@ -1,6 +1,6 @@
 ---
 name: ihl-093-vertiefung-01-quellenmatrix
-description: "Internationales Handelsrecht und Lex Mercatoria: Vertiefung 01 Quellenmatrix. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Vertiefung 01 Quellenmatrix in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertiefung 01 Quellenmatrix

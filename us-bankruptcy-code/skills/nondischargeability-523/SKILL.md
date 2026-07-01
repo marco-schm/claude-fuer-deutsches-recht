@@ -1,6 +1,6 @@
 ---
 name: nondischargeability-523
-description: "Prüft debts excepted from discharge: fraud, fiduciary defalcation, willful injury, taxes, domestic support, student loans im US Bankruptcy Code."
+description: "Wenn es um Nondischargeability Paragraf 523 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Nondischargeability § 523

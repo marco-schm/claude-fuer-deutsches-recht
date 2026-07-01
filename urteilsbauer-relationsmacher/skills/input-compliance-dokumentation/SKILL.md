@@ -1,6 +1,6 @@
 ---
 name: input-compliance-dokumentation
-description: Compliance-Dokumentation und Aktenvermerk fuer das Urteilsbauer- und Relationsverfahren. Eingaben strukturieren, Beweismittel auflisten, Risiken markieren und die Akte zur Schluessbesprechung anlegen.
+description: "Wenn es um Compliance-Dokumentation und Aktenvermerk (Urteilsbauer) in Urteilsbauer und Relationsmacher geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Compliance-Dokumentation und Aktenvermerk (Urteilsbauer)

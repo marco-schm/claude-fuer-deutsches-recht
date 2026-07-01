@@ -1,6 +1,6 @@
 ---
 name: inso-inkongruente-deckung-131
-description: "Inkongruente Deckungsanfechtung nach § 131 InsO prüfen: Sicherung oder Befriedigung, die der Gläubiger nicht, nicht in der Art oder nicht zu der Zeit beanspruchen konnte. Fristen letzter Monat, zweiter oder dritter Monat; Zahlungsunfähigkeit oder Kenntnis der Gläubigerbenachteiligung. Output: Nor..."
+description: "Wenn es um Inkongruente Deckung — Paragraf 131 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Inkongruente Deckung — § 131 InsO

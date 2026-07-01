@@ -1,6 +1,6 @@
 ---
 name: spezial-kuendigung-livequellen-und-rechtsprechungscheck
-description: "Kuendigung: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt miet wohnungseigentumsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Kuendigung: Livequellen- und Rechtsprechungscheck in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kuendigung: Livequellen- und Rechtsprechungscheck

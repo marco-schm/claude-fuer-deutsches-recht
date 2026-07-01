@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-amtswiderspruch-und-richtigstellung
-description: "Prüft offensichtliche Unrichtigkeit, Amtswiderspruch, Amtslöschung, Berichtigung und Rechtsschutz im Grundbuchamt Praxis."
+description: "Wenn es um Amtswiderspruch in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Amtswiderspruch

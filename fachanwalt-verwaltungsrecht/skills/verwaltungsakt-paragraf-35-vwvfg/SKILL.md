@@ -1,6 +1,6 @@
 ---
 name: verwaltungsakt-paragraf-35-vwvfg
-description: "Verwaltungsakt § 35 VwVfG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Verwaltungsakt Paragraf 35 VwVfG in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verwaltungsakt § 35 VwVfG

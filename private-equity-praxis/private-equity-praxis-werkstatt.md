@@ -126,122 +126,58 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. Prüft Buy-and-Build-Deals: Integration, Fusionskontrolle, Finanzierung, Vendor Roll-over, Management und PMI im Private Equity Praxis.
+### 11.1. Add-on-Akquisition im Portfolio
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Strukturiert Spezial-AIF für PE/Private Credit mit Anlegeraufnahme, Anlagebedingungen und Berichtspflichten im Private Equity Praxis.
+### 11.2. Spezial-AIF: professionelle und semiprofessionelle Anleger
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Erklärt Private Equity, Sponsor, Fund, GP/LP, Carry, Waterfall, Leverage, Multiple, IRR, Co-Invest und Exit anhand eines konkreten Mandats im Private Equity Praxis.
+### 11.3. Anfänger-Modus: PE-Begriffe ohne Gesichtsverlust
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Prüft Korruption, Kartell, Sanktionen, Whistleblowing, interne Untersuchungen und Compliance-Risiken im Private Equity Praxis.
+### 11.4. ABC/Compliance DD
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Strukturiert Asset Deal und Carve-out: Perimeter, Übertragung einzelner Assets, Verträge, Arbeitnehmer, TSAs und Übergang im Private Equity Praxis.
+### 11.5. APA und Carve-out
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. Prüft Betriebsübergang, Betriebsrat, Tarifbindung, Incentives, Kündigungen, Change of Control und HR-Risiken im Private Equity Praxis.
+### 11.6. Arbeitsrecht, Betriebsrat und Managementwechsel
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Prüft Akquisitionsholding, Lux/DE/UK-Elemente, Gesellschafterdarlehen, Cash Flows und Sicherheiten im Private Equity Praxis.
+### 11.7. BidCo-Stack und Holdingstruktur
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Prüft Deal-Abbruch, Exklusivität, Break Fee, Kostentragung, Vertraulichkeit und Datenlöschung im Private Equity Praxis.
+### 11.8. Broken Deal: Abbruch, Kosten und Haftung
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Prüft Kapitalabrufe, Säumnisfolgen, Verwässerung, Verzugszinsen, Ausschluss und Enforcement gegen Anleger im Private Equity Praxis.
+### 11.9. Capital Calls und Defaulting LP
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, European/American Waterfall und Clawback im Private Equity Praxis.
+### 11.10. Carry, Waterfall und Clawback
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Prüft Zielbetriebsmodell, Lizenzen, IT, Shared Services, HR, IP, Real Estate und Transitional Services im Private Equity Praxis.
+### 11.11. Carve-out Operating Model
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Baut CP-Tracker, Closing Agenda, Deliverables, Notar-/Registerlogik und Zahlungsflussplan im Private Equity Praxis.
+### 11.12. Closing, CPs und Funds Flow
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Prüft Governance, Lead Investor, Voting, Deadlock, Costs Sharing, Confidentiality und Exit-Regeln im Private Equity Praxis.
+### 11.13. Club Deal und Investorenkonsortium
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Strukturiert Co-Investments neben Fondsvehikel, Sponsor-SPV, Informationsrechte und Konflikte im Private Equity Praxis.
+### 11.14. Co-Investment und SPV-Struktur
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.15. Prüft, ob Kunden-, Lieferanten-, Händler- und Plattformverträge den Investment Case tragen im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.16. Strukturiert Wettbewerberdaten, Preislisten, Kundenlisten, Management Calls und Austausch im Bieterprozess im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.17. Prüft Financial Covenants, Information Undertakings, MAC, Events of Default, Cure Rights und Waiver-Prozess im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.18. Prüft Investoren aus Deutschland in ausländischen Fonds und ausländische Investoren in deutsche PE-Strukturen im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.19. Prüft personenbezogene Daten, Cybervorfälle, KI-Systeme, SaaS-Verträge, Open Source und IT-Abhängigkeiten im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.20. Baut oder prüft Datenraum-Index für PE-Buyout, Add-on, Carve-out oder Distressed Deal im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.21. Erstellt Deal-Zeitplan von NDA bis Closing mit Legal, Tax, Finance, Regulatory, Financing und Management im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.22. Prüft Forderungsumwandlung in Eigenkapital, Bewertung, Rang, Planverfahren, Steuer und Governance im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.23. Prüft tokenisierte Beteiligungen, eWpG, MiCAR, Kryptoverwahrung und digitale Investor-Register im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.24. Prüft Erwerb notleidender Forderungen mit Ziel Kontrolle, Debt-Equity-Swap, Insolvenzplan oder Enforcement im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.25. Prüft Asset Deal, Share Deal, Insolvenzplan, StaRUG, Anfechtungsrisiken und Haftungsfreistellung im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.26. Prüft Ausschüttungen, Refinanzierung, Kapitalerhaltung, Covenants, Solvency und Gläubigerschutz im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.27. Vergleicht IPO, Trade Sale, Secondary Buyout und Continuation Fund mit Aufwand, Timing, Risiko und Output im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.28. Prüft Earn-out-Streit über KPI, Accounting, Management Conduct, Information Rights und Expert Determination im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.29. Prüft nachgelagerte Kaufpreisbestandteile, Verkäuferdarlehen, Covenants, Sicherheiten und Konfliktpunkte im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.30. Prüft, wann ein ELTIF als reguliertes Vehikel für Private Equity, Infrastruktur oder Private Debt sinnvoll ist im Private Equity Praxis.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

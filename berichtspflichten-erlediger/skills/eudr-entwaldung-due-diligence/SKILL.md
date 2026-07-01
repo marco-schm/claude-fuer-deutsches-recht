@@ -1,6 +1,6 @@
 ---
 name: eudr-entwaldung-due-diligence
-description: "EUDR: relevante Rohstoffe/Produkte, Sorgfaltserklärung, Geolokalisierung, Risikobewertung und Lieferantendaten im Berichtspflichten."
+description: "Wenn es um EUDR Entwaldungsfreie Lieferketten in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EUDR Entwaldungsfreie Lieferketten

@@ -1,6 +1,6 @@
 ---
 name: robotik-haftungsampel
-description: "Erstellt Haftungsampel für Hersteller, Integrator, Betreiber, Händler, Wartung, KI-Anbieter, Versicherer und Geschädigte."
+description: "Wenn es um Haftungsampel in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Robotik Haftungsampel; Arbeitsfeld: robotik-recht."
 ---
 
 # Haftungsampel

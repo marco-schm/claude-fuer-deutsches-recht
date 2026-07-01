@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-insolvenzreife
-description: "Massehaftungsbefreiung und bilanzielle Verbuchung des Sanierungsertrags. Buchungstechnik bei Verzicht: Verbindlichkeit weg, ausserordentlicher Ertrag. Auswirkung auf Eigenkapital. Schnittstelle Masse versus Insolvenzforderungen. Massehaftungsbefreiung Paragraph 60 InsO bei korrekter Buchung. Stil..."
+description: "Wenn es um Sanierungsgewinn — Massehaftungsbefreiung und Bilanzbuchung in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsgewinn — Massehaftungsbefreiung und Bilanzbuchung

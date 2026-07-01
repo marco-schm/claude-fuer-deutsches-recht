@@ -1,6 +1,6 @@
 ---
 name: erstpruefung-rollenklaerung-mandatsziel
-description: "Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Law: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/M&A), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Corporate: Erstprüfung, Rollenklärung und Mandatsziel in Corporate-Kanzlei geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Corporate: Erstprüfung, Rollenklärung und Mandatsziel

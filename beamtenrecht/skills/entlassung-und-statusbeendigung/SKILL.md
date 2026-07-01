@@ -1,6 +1,6 @@
 ---
 name: entlassung-und-statusbeendigung
-description: "Entlassung, Verlust der Beamtenrechte, Altersgrenze, einstweiliger Ruhestand und Statusbeendigung im Beamtenrecht."
+description: "Wenn es um Entlassung Und Statusbeendigung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Entlassung Und Statusbeendigung

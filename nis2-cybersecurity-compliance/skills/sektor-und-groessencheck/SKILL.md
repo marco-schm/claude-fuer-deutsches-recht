@@ -1,6 +1,6 @@
 ---
 name: sektor-und-groessencheck
-description: "Ordnet Tätigkeiten in NIS-2-Sektoren und Unternehmensgrößen ein im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Sektor Und Groessencheck in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sektor Und Groessencheck

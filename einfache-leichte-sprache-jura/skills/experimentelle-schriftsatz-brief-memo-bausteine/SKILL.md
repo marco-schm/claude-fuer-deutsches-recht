@@ -1,6 +1,6 @@
 ---
 name: experimentelle-schriftsatz-brief-memo-bausteine
-description: "Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrenss..."
+description: "Wenn es um Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine in Einfache und Leichte Sprache für juristische Texte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine

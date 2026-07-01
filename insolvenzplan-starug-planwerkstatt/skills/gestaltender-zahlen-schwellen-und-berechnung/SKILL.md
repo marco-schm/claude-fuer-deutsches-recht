@@ -1,6 +1,6 @@
 ---
 name: gestaltender-zahlen-schwellen-und-berechnung
-description: "Gestaltender: Zahlen, Schwellenwerte und Berechnung im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug Plan..."
+description: "Wenn es um Gestaltender: Zahlen, Schwellenwerte und Berechnung in Insolvenzplan- und StaRUG-Planwerkstatt geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Gestaltender: Zahlen, Schwellenwerte und Berechnung

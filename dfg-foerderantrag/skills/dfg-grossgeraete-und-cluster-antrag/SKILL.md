@@ -1,6 +1,6 @@
 ---
 name: dfg-grossgeraete-und-cluster-antrag
-description: "Grossgeraete und Cluster-Geraete in DFG-Antrag: Geraete ab 50.000 Euro mit zusaetzlicher Wirtschaftlichkeit, Auslastungsplan, technische Anschlussbedingungen, Wartungsvertrag, Folgekosten. Eigene Geraetekommission der DFG. Prüfraster für Beschaffungsbegruendung und Marktrecherche."
+description: "Wenn es um DFG: Grossgeraete und Cluster in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # DFG: Grossgeraete und Cluster

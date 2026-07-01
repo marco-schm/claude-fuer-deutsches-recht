@@ -1,6 +1,6 @@
 ---
 name: schiffshypothek-register-pruefen
-description: "Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank prüft Seeschiffsregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefpr..."
+description: "Wenn es um Schiffshypothek – Registerprüfung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffshypothek – Registerprüfung

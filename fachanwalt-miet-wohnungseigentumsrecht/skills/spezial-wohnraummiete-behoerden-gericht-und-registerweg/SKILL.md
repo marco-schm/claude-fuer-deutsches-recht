@@ -1,6 +1,6 @@
 ---
 name: spezial-wohnraummiete-behoerden-gericht-und-registerweg
-description: "Wohnraummiete: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt miet wohnungseigentumsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Wohnraummiete: Behörden-, Gerichts- oder Registerweg in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnraummiete: Behörden-, Gerichts- oder Registerweg

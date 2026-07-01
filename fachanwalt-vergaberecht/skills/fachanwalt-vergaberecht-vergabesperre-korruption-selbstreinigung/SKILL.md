@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-vergabesperre-korruption-selbstreinigung
-description: "Vergabesperre und fakultative Ausschlussgruende mit Selbstreinigung nach § 125 GWB managen: Bieter will Sperre abwenden oder beenden; Auftraggeber will sperren. Normen: §§ 123-126 GWB (zwingende und fakultative Ausschlussgruende), § 125 GWB (Selbstreinigung), Wettbewerbsregister § 8 WRegG. Pruefraster: Tatbestand § 123 zwingend vs. § 124 fakultativ, Sperrfristen § 126 GWB (drei Jahre § 123; zwei Jahre § 124), Selbstreinigungs-Trias Schadenswiedergutmachung Kooperation Compliance, Wettbewerbsregister-Eintrag pruefen. Output Selbstreinigungs-Memo, Sperraufhebungs-Antragsentwurf. Abgrenzung: Eignung siehe fachanwalt-vergaberecht-eignungspruefung."
+description: "Wenn es um Vergabesperre und Selbstreinigung in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vergabesperre und Selbstreinigung

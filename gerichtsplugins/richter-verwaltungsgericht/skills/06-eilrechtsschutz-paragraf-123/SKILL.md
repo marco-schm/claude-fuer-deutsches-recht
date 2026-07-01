@@ -1,6 +1,6 @@
 ---
 name: 06-eilrechtsschutz-paragraf-123
-description: "Einstweilige Anordnung Paragraf 123 VwGO: Sicherungs- und Regelungsanordnung, Anordnungsanspruch und -grund, Vorwegnahme der Hauptsache (Ausnahme)"
+description: "Wenn es um 06 Eilrechtsschutz Paragraf 123 in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # 06 Eilrechtsschutz Paragraf 123

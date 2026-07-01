@@ -1,6 +1,6 @@
 ---
 name: gruendungsassistent-erstpruefung-und-mandatsziel
-description: "Gruendungsassistent: Erstprüfung, Rollenklärung und Mandatsziel im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaft..."
+description: "Wenn es um Gruendungsassistent: Erstprüfung, Rollenklärung und Mandatsziel in gesellschaftsgründer — Gründungsassistent für deutsche geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gruendungsassistent: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: verwaltungsgericht-kdvg-10
-description: "Routet Klage und gerichtliche Besonderheiten in KDV-Sachen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Verwaltungsgericht Paragraf 10 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verwaltungsgericht § 10 KDVG

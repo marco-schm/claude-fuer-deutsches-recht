@@ -1,6 +1,6 @@
 ---
 name: hybride-virtuelle-versammlung
-description: "Prüft § 32 BGB, Satzung, Teilnahme-/Abstimmungsrechte, technische Hinweise, Identität und Protokoll im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Hybride und virtuelle Versammlung in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hybride und virtuelle Versammlung

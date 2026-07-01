@@ -1,6 +1,6 @@
 ---
 name: beirat-sitzung-und-protokoll
-description: "GmbH-Beirat: Beirat Sitzung Und Protokoll; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrecht."
+description: "Wenn es um Beirat Sitzung Und Protokoll in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Sitzung Und Protokoll

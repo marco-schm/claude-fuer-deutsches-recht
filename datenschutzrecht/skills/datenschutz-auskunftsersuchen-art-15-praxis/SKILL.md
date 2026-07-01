@@ -1,6 +1,6 @@
 ---
 name: datenschutz-auskunftsersuchen-art-15-praxis
-description: "Auskunftsersuchen nach Art. 15 DSGVO praxisgerecht abarbeiten. Frist Art. 12 III DSGVO ein Monat Verlaengerung um zwei Monate moeglich Begruendung im ersten Monat. Sieben-Fragen-Diagnose zur Mandantenbeurteilung. Schritt-für-Schritt-Anleitung: Identitaet prüfen Datenkategorien sammeln Empfaenger..."
+description: "Wenn es um Datenschutz Auskunftsersuchen — Art. 15 DSGVO in der Praxis in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz Auskunftsersuchen — Art. 15 DSGVO in der Praxis

@@ -1,6 +1,6 @@
 ---
 name: lieferbindung-eigenmarken-und-einkaufsmacht
-description: "Fachmodul Franchiserecht für Lieferbindung, Eigenmarken und Einkaufsmacht: Bezugsbindungen, zentrale Einkaufsvergütungen, Kickbacks und Eigenmarken werden kartell-, AGB- und treuwidrigkeitsfest abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechts..."
+description: "Wenn es um Franchise: Lieferbindung, Eigenmarken und Einkaufsmacht in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Franchise: Lieferbindung, Eigenmarken und Einkaufsmacht

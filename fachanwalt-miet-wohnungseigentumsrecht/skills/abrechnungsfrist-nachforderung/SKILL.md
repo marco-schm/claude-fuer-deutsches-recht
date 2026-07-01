@@ -1,6 +1,6 @@
 ---
 name: abrechnungsfrist-nachforderung
-description: "Abrechnungsfrist und Nachforderung aus Betriebskosten: § 556 Abs: 3 BGB, Zugang, Jahresfrist, Vermieter-Nichtvertretenmüssen, Guthaben, Korrekturen, WEG-Verzögerung, Gewerberaumabweichungen u..."
+description: "Wenn es um Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abrechnungsfrist und Nachforderung aus Betriebskosten: § 556 Abs

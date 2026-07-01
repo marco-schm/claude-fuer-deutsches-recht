@@ -1,6 +1,6 @@
 ---
 name: luft-014-drohnen-uas-betrieb
-description: "Luftrecht und Flughafenrecht: Drohnen UAS Betrieb. Drohnen UAS Betrieb im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Drohnen Uas Betrieb in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drohnen Uas Betrieb

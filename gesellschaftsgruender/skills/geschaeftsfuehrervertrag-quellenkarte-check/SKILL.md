@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrervertrag-quellenkarte-check
-description: "Geschäftsführervertrag Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Geschäftsführervertrag Quellenkarte Check in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Geschäftsführervertrag Quellenkarte Check

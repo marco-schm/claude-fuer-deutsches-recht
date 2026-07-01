@@ -1,6 +1,6 @@
 ---
 name: 15-antrag-beschleunigtes-verfahren-paragraf-417
-description: "Antrag im beschleunigten Verfahren (Paragrafen 417 bis 420 StPO), Eignung wegen einfachen Sachverhalts oder klarer Beweislage, Rechtsfolgenbegrenzung (Paragraf 419 StPO), muendlicher oder schriftlicher Antrag"
+description: "Wenn es um 15 Antrag Beschleunigtes Verfahren Paragraf 417 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 15 Antrag Beschleunigtes Verfahren Paragraf 417

@@ -1,6 +1,6 @@
 ---
 name: anerkennung-und-dienstfolgen
-description: "Ordnet Folgen der Anerkennung für Wehrpflichtige, Soldaten und Reservisten im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Anerkennung und Dienstfolgen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anerkennung und Dienstfolgen

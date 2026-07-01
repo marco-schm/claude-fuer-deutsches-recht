@@ -1,6 +1,6 @@
 ---
 name: spezial-quelle-beweislast-und-darlegungslast
-description: "Quelle: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Quelle: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quelle: Beweislast, Darlegungslast und Substantiierung

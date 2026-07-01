@@ -1,6 +1,6 @@
 ---
 name: strafprozess-sitzungsprotokoll-und-revisionssicherung
-description: "Sitzungsprotokoll und Revisionssicherung: beobachtet Hauptverhandlung, Protokollierungsfragen, absolute und relative Revisionsrisiken, Anträge, Beschlüsse, Belehrungen, Verständigung, letztes Wort und Nachbereitung nach §§ 273 ff: Sitzungsprotokoll und Revi..."
+description: "Wenn es um Strafprozess Sitzungsprotokoll Und Revisionssicherung in Fachanwalt Strafrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Sitzungsprotokoll und Revisionssicherung: beobachtet Hauptverhandlung, Protokollierungsfragen, absolute und relative Revisionsrisiken, Anträge, Beschlüsse, Belehrungen, Verständigung, letztes Wort und Nachbereitung nach §§ 273 ff

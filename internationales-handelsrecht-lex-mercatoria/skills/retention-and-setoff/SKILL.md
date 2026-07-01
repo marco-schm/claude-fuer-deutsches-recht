@@ -1,6 +1,6 @@
 ---
 name: retention-and-setoff
-description: "Internationales Handelsrecht: Einbehalt und Aufrechnung im internationalen Kaufvertrag. Zurückbehaltungsrecht (CISG Art. 58, BGB § 273), Aufrechnung (BGB §§ 387-396), CISG-Schweigen zur Aufrechnung, grenzüberschreitende Aufrechnung und Insolvenzaufrechnung im Internationales Handelsrecht Lex Merc..."
+description: "Wenn es um Zurückbehaltungsrecht und Aufrechnung International in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zurückbehaltungsrecht und Aufrechnung International

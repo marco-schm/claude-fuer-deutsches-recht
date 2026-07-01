@@ -1,6 +1,6 @@
 ---
 name: vvt-update-nach-vorfall
-description: "Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art. 30 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Identifikation der betroffenen Verarbeitungen; Anpassung der technischen und organisatorischen Maßnahmen; neue Risikoeinschätzung; Auftragsverarbeiter-Up..."
+description: "Wenn es um Aktualisierung des Verfahrensverzeichnisses nach Datenschutzvorfall in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aktualisierung des Verfahrensverzeichnisses nach Datenschutzvorfall

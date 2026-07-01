@@ -1,6 +1,6 @@
 ---
 name: 09-urteil-finanzgericht-und-revision
-description: "Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgründe, Tenor; Revision Paragraf 115 FGO an BFH (grundsaetzliche Bedeutung, Fortbildung des Rechts, Divergenz), Nichtzulassungsbeschwerde"
+description: "Wenn es um 09 Urteil Finanzgericht und Revision in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # 09 Urteil Finanzgericht und Revision

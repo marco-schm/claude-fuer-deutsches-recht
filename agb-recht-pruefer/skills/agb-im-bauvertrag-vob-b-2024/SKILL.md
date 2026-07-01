@@ -1,6 +1,6 @@
 ---
 name: agb-im-bauvertrag-vob-b-2024
-description: "AGB-Kontrolle der VOB-B im Bauvertrag. Skill klaert die BGH-Linie zur AGB-rechtlichen Behandlung der VOB-B insgesamt und einzelner Klauseln. Behandelt das Privileg der VOB-B unter § 310 Abs. 1 BGB Erlass des § 308 und § 309 BGB bei vollstaendiger Einbeziehung. Aktuelle Änderungen VOB-B 2024 und..."
+description: "Wenn es um Agb Im Bauvertrag Vob B 2024 in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Im Bauvertrag Vob B 2024

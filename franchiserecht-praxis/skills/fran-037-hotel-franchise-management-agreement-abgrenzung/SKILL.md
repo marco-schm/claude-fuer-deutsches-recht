@@ -1,6 +1,6 @@
 ---
 name: fran-037-hotel-franchise-management-agreement-abgrenzung
-description: "Franchiserecht: Hotel Franchise Management Agreement Abgrenzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Hotel Franchise Management Agreement Abgrenzung in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Hotel Franchise Management Agreement Abgrenzung

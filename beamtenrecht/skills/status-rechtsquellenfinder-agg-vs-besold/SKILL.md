@@ -1,6 +1,6 @@
 ---
 name: status-rechtsquellenfinder-agg-vs-besold
-description: "Statusklärung und Rechtsquellenfinder für Bund, Länder, Kommunen, Richterdienst, Professoren, Anwärter, Wahlbeamte und Tarifbeschäftigte im Beamtenrecht."
+description: "Wenn es um Status Und Rechtsquellenfinder in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Status Und Rechtsquellenfinder

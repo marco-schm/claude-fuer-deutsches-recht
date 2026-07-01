@@ -1,6 +1,6 @@
 ---
 name: einstellung-153-153a-auflagen
-description: "Einstellung nach Paragrafen 153/153a StPO: Auflagen sauber begründen: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Einstellung nach Paragrafen 153/153a StPO: Auflagen sauber begründen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Einstellung nach Paragrafen 153/153a StPO: Auflagen sauber begründen

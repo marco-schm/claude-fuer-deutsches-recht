@@ -1,6 +1,6 @@
 ---
 name: kommunalvermoegen-klage-skizzieren
-description: "Einigungsvertrag und Vermögensrecht: Kommunalvermögen: Klage skizzieren im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kommunalvermoegen Klage Skizzieren in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kommunalvermoegen Klage Skizzieren

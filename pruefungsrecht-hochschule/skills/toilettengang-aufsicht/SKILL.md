@@ -1,6 +1,6 @@
 ---
 name: toilettengang-aufsicht
-description: "Prüft Aufsichtsregeln, Verdachtsmomente, Gleichbehandlung und Täuschungsvorwurf im Prüfungsrecht Hochschule."
+description: "Wenn es um Toilettengang und Aufsicht in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Toilettengang und Aufsicht

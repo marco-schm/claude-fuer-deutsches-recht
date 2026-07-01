@@ -1,6 +1,6 @@
 ---
 name: risikomatrix-status
-description: "Bewertet Statusrisiken nach Personencluster, Zeitraum, Beitragsvolumen, Strafrisiko und Sanierbarkeit im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Risikomatrix Status in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Risikomatrix Status

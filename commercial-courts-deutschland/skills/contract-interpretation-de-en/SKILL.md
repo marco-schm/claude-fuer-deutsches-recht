@@ -1,6 +1,6 @@
 ---
 name: contract-interpretation-de-en
-description: "Erklärt und prüft englische Vertragsbegriffe unter deutschem Recht: reasonable efforts, best endeavours, indemnity, warranty, termination, material adverse change im Commercial Courts Deutschland."
+description: "Wenn es um Contract Interpretation DE/EN in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Contract Interpretation DE/EN

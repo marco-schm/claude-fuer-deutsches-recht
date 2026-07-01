@@ -1,6 +1,6 @@
 ---
 name: ihl-003-cisg-ausschluss-und-rechtswahl
-description: "Internationales Handelsrecht und Lex Mercatoria: CISG Ausschluss Und Rechtswahl. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um CISG Ausschluss Und Rechtswahl in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CISG Ausschluss Und Rechtswahl

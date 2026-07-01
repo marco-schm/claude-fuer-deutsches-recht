@@ -1,6 +1,6 @@
 ---
 name: sicht-tatbestand-beweis-und-belege
-description: "Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzverwaltung: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeits..."
+description: "Wenn es um Sicht Tatbestand Beweis Und Belege in Insolvenzverwaltung - IV-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzverwaltung: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

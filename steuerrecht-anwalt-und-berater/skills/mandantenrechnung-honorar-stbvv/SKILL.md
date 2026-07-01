@@ -1,6 +1,6 @@
 ---
 name: mandantenrechnung-honorar-stbvv
-description: "Mandantenrechnung Honorar StBVV. Anwendungsfall Honorarabrechnung Pauschal- Zeit- und Gegenstandswert-Honorar Steuerberatergebührenverordnung. Methodik Rechnungsschreibung Gebührensaetze § 33 35 35a. Output Mandantenrechnung."
+description: "Wenn es um Mandantenrechnung — Honorar nach StBVV in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantenrechnung — Honorar nach StBVV

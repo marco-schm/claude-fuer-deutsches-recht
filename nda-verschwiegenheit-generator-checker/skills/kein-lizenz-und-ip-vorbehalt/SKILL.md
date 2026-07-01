@@ -1,6 +1,6 @@
 ---
 name: kein-lizenz-und-ip-vorbehalt
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kein Lizenz Und IP Vorbehalt; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Kein Lizenz Und IP Vorbehalt in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kein Lizenz Und IP Vorbehalt

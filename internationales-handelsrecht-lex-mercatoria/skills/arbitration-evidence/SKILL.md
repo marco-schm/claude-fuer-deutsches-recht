@@ -1,6 +1,6 @@
 ---
 name: arbitration-evidence
-description: "Internationales Handelsrecht: Beweisrecht in internationaler Schiedsgerichtsbarkeit. IBA Rules on the Taking of Evidence 2020, Document Production, Zeugenaussagen, Sachverständige, Beweiswürdigung und Verhältnis zu nationaler ZPO im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Beweisrecht in der internationalen Schiedsgerichtsbarkeit in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beweisrecht in der internationalen Schiedsgerichtsbarkeit

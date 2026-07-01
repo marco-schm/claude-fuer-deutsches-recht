@@ -1,6 +1,6 @@
 ---
 name: selbsthilfe-und-eskalationsgrenzen
-description: "Selbsthilfe im Nachbarrecht prüfen: Rückschnitt, Betreten, Beseitigung, Besitzschutz, Sachbeschädigungsrisiko, Naturschutz, Fristsetzung, Verhältnismäßigkeit und sichere Eskalationsreihenfolge im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Selbsthilfe und Eskalationsgrenzen in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Selbsthilfe und Eskalationsgrenzen

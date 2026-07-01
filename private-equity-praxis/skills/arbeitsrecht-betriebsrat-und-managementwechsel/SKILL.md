@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-betriebsrat-und-managementwechsel
-description: "Prüft Betriebsübergang, Betriebsrat, Tarifbindung, Incentives, Kündigungen, Change of Control und HR-Risiken im Private Equity Praxis."
+description: "Wenn es um Arbeitsrecht, Betriebsrat und Managementwechsel in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsrecht, Betriebsrat und Managementwechsel

@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-lizenzanalogie
-description: "Berechnet Schadensersatz im Urheberrecht über konkreten Schaden, Verletzergewinn, Lizenzanalogie und Zuschläge im Urheberrecht De Eu."
+description: "Wenn es um Schadensersatz und Lizenzanalogie in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schadensersatz und Lizenzanalogie

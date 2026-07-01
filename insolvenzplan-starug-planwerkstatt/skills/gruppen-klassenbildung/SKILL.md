@@ -1,6 +1,6 @@
 ---
 name: gruppen-klassenbildung
-description: "Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden. §§ 222 223 InsO §§ 9 10 StaRUG Klassenbildung. Prüfraster: Rechtsstellung Absonderung Insolvenzgläubiger Nachrang Anteilsinhaber Gruppeninterne wirtschaftliche Interessen Gleichbehandlung. Output: Gruppenmatrix Klassenmatrix..."
+description: "Wenn es um Gruppen- und Klassenbildung in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gruppen- und Klassenbildung

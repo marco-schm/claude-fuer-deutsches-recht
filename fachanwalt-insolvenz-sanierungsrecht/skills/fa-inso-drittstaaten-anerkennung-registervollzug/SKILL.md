@@ -1,6 +1,6 @@
 ---
 name: fa-inso-drittstaaten-anerkennung-registervollzug
-description: "Fachanwaltlicher Fachmodul für Drittstaateninsolvenz in Deutschland: Anerkennung nach §§ 335 ff., 343 InsO, Inzidentprüfung, office holder, debtor in possession, GmbH-Anteile, Grundbuch, Handelsregister und Nachweispaket: Fachanwaltlicher Fachmodul für Dri..."
+description: "Wenn es um Fa Inso Drittstaaten Anerkennung Registervollzug in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwaltlicher Fachmodul für Drittstaateninsolvenz in Deutschland: Anerkennung nach §§ 335 ff., 343 InsO, Inzidentprüfung, office holder, debtor in possession, GmbH-Anteile, Grundbuch, Handelsregister und Nachweispaket.

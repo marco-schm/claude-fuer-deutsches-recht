@@ -1,6 +1,6 @@
 ---
 name: ins-027-gerichtsverfahren
-description: "Spezialskill Insiderrecht fuer Gerichtsverfahren: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Gerichtsverfahren in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Gerichtsverfahren

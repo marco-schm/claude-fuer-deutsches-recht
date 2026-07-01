@@ -1,6 +1,6 @@
 ---
 name: gebuehrenunterschreitung-und-pro-bono-rechtsprechungsc
-description: "Anwälte: gebuehrenunterschreitung und pro bono - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Anwälte: gebuehrenunterschreitung und pro bono - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

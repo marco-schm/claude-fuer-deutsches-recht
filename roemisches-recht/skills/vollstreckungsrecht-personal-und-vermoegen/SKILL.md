@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsrecht-personal-und-vermoegen
-description: "Personalexekution und Vermögensexekution im roemischen Recht. Skill behandelt die historische Entwicklung von der manus iniectio des Zwoelftafelgesetzes ueber das nexum zur praetorischen Vermögensvollstreckung Trennung personale Haftung Schuldknechtschaft und Pfaendung Vermoegen. Liefert Quelle"
+description: "Wenn es um Rom 110 Vollstreckungsrecht Personal Und Vermögen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vollstreckungsrecht Personal Und Vermoegen; Arbeitsfeld: Römisches Recht."
 ---
 
 # Rom 110 Vollstreckungsrecht Personal Und Vermögen

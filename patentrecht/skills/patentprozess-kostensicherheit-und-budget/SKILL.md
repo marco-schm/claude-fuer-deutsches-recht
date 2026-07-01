@@ -1,6 +1,6 @@
 ---
 name: patentprozess-kostensicherheit-und-budget
-description: "Erstellt Kosten- und Risikoüberblick für Patentstreitigkeiten: Gerichtskosten, Anwalt, Patentanwalt, Sachverständige, Übersetzungen, Sicherheitsleistung, UPC-/Auslandsbudget und Vergleichswert im Patentrecht."
+description: "Wenn es um Patentprozess: Kosten, Sicherheit und Budget in patentrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Patentprozess: Kosten, Sicherheit und Budget

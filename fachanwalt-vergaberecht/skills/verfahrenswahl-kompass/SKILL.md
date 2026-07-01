@@ -1,6 +1,6 @@
 ---
 name: verfahrenswahl-kompass
-description: "Verfahrensart waehlen und begruenden: offen, nichtoffen, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft, UVgO-Verfahren, VOB/A und Direktvergabe: Verfahrensart waehlen und begruenden: offen, nichtoffen, Verhandlungsverfahren, wett..."
+description: "Wenn es um Verfahrenswahl Kompass in Fachanwalt Vergaberecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Verfahrensart waehlen und begruenden: offen, nichtoffen, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft, UVgO-Verfahren, VOB/A und Direktvergabe.

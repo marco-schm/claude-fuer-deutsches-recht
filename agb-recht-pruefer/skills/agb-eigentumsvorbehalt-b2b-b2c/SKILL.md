@@ -1,6 +1,6 @@
 ---
 name: agb-eigentumsvorbehalt-b2b-b2c
-description: "Klausel-Fachmodul für Eigentumsvorbehalt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um Eigentumsvorbehalt in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Eigentumsvorbehalt B2b B2c; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Eigentumsvorbehalt

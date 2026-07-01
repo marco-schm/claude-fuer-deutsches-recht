@@ -1,6 +1,6 @@
 ---
 name: handelsvertreterausgleich-paragraph
-description: "Prüft Ausgleichsanspruch, Unternehmervorteile, Billigkeit, Höchstgrenze und Ausschlüsse im Handelsrecht Hgb."
+description: "Wenn es um Handelsvertreterausgleich Paragraf 89b HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsvertreterausgleich § 89b HGB

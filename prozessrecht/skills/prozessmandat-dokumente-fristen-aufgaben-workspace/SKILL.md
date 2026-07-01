@@ -1,6 +1,6 @@
 ---
 name: prozessmandat-dokumente-fristen-aufgaben-workspace
-description: "Digitaler Arbeitsbereich für Prozessmandate: Dokumentenablage, Aufgabenverteilung, Fristentracking. Normen: ZPO, BRAO. Prüfraster: Dokumentenstruktur, Aufgabenliste, Fristverwaltung. Output: Mandats-Arbeitsbereich-Struktur. Abgrenzung: nicht Kanzlei-Builder-Hub-Skill."
+description: "Wenn es um Mandatsworkspace, Kontexttrennung und Fristensteuerung in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandatsworkspace, Kontexttrennung und Fristensteuerung

@@ -1,6 +1,6 @@
 ---
 name: inso-p018-drohende-zahlungsunfahigkeit
-description: "§ 18 InsO (Drohende Zahlungsunfähigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 18 InsO (Drohende Zahlungsunfähigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge..."
+description: "Wenn es um Inso P018 Drohende Zahlungsunfahigkeit in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 18 InsO (Drohende Zahlungsunfähigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

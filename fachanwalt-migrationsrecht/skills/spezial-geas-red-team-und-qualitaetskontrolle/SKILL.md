@@ -1,6 +1,6 @@
 ---
 name: spezial-geas-red-team-und-qualitaetskontrolle
-description: "Geas: Red-Team und Qualitätskontrolle im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Geas: Red-Team und Qualitätskontrolle in Fachanwalt Migrationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geas: Red-Team und Qualitätskontrolle

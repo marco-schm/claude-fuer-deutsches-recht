@@ -1,6 +1,6 @@
 ---
 name: chn-084-quality-crisis-and-recall
-description: "Festlandchina Wirtschaftsverkehr: Quality Crisis And Recall. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Quality Crisis And Recall in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quality Crisis And Recall

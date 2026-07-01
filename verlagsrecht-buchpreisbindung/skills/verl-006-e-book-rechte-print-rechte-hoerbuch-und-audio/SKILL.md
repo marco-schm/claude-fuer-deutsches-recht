@@ -1,6 +1,6 @@
 ---
 name: verl-006-e-book-rechte-print-rechte-hoerbuch-und-audio
-description: "Verlagsrecht: E-Book Rechte Print Rechte Hörbuch und Audio mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: E-Book Rechte Print Rechte Hörbuch und Audio in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: E-Book Rechte Print Rechte Hörbuch und Audio

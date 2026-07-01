@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Gesellschaftsrecht in legal English: ordnet Rolle (Shareholders, Board of Directors, Investors), markiert Frist (UK confirmation statement annual), wählt Norm (UK Companies Act 2006, Delaware GCL, MBCA (US)) und Zuständigkeit (UK Companies House), leitet zum passe..."
+description: "Wenn es um Einstieg und Routing in Didaktisches Gesellschaftsrecht — English Business Terms geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

@@ -1,6 +1,6 @@
 ---
 name: containerschiff-arrest-vorbereiten
-description: "Containerschiff: Gläubiger sichert Anspruch an Containerlinienfrachtschiff durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zei..."
+description: "Wenn es um Containerschiff – Arrest vorbereiten in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Containerschiff – Arrest vorbereiten

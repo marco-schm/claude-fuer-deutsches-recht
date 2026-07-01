@@ -1,6 +1,6 @@
 ---
 name: opferzeugen-besondere-faelle
-description: "Opferzeugen bei Sexualdelikten, Kindern, Schutzschriftsachen behandeln: Nebenklage § 395 StPO, Verletztenrechte §§ 406d ff. StPO, audiovisuelle Vernehmung § 58a StPO, Zeugenbeistand § 68b StPO, Ausschluss des Beschuldigten § 247 StPO. Verteidigungspflicht und Konfrontationsrecht Art. 6 EMRK im St..."
+description: "Wenn es um Opferzeugen-Sonderfaelle in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Opferzeugen-Sonderfaelle

@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-sitzungspolizei-ordnungsmittel
-description: "Sitzungspolizei §§ 176 ff: GVG und Ordnungsmittel § 178 GVG souveraen navigieren. Verteidiger als Verfahrenssubjekt grundsaetzlich nicht Adressat zwangsweiser Maßnahmen § 177 GVG seit 1921. Wortentzug Sitzungsausschluss und Ordnu..."
+description: "Wenn es um Sitzungspolizei Paragrafen 176 ff in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sitzungspolizei §§ 176 ff

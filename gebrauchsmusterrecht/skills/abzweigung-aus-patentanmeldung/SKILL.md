@@ -1,6 +1,6 @@
 ---
 name: abzweigung-aus-patentanmeldung
-description: "Abzweigung aus Patentanmeldung prüfen: Fristen, Anmeldetag, Inhalt, strategischer Schnellschutz und Kollisionsrisiken mit eigener Offenbarung im Gebrauchsmusterrecht."
+description: "Wenn es um Abzweigung Aus Patentanmeldung in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abzweigung Aus Patentanmeldung

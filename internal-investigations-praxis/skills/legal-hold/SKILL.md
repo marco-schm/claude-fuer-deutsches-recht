@@ -1,6 +1,6 @@
 ---
 name: legal-hold
-description: "Implementiert Legal Hold – Sicherung, Sperrung und Dokumentation aller potenziell relevanten Beweismittel ab Verdachtsmoment im Internal Investigations Praxis."
+description: "Wenn es um Legal Hold in Internal Investigations Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Legal Hold

@@ -1,6 +1,6 @@
 ---
 name: sozialrecht-formular-portal-und-einreichung
-description: "Sozialrecht: Formular, Portal und Einreichungslogik: Sozialrecht: Formular, Portal und Einreichungslogik."
+description: "Wenn es um Sozialrecht: Formular, Portal und Einreichungslogik in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sozialrecht: Formular, Portal und Einreichungslogik

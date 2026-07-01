@@ -1,6 +1,6 @@
 ---
 name: entlassmanagement-39-abs-1a-sgb-v
-description: "Entlassmanagement nach § 39 Abs. 1a SGB V: Rahmenvertrag Entlassmanagement, Patienteneinwilligung, Verordnungsbefugnis (AU, Heil-/Hilfsmittel, AM), Schnittstelle ambulante Versorgung im Krankenhausrecht."
+description: "Wenn es um Entlassmanagement Paragraf 39 Abs. 1a SGB V in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Entlassmanagement § 39 Abs. 1a SGB V

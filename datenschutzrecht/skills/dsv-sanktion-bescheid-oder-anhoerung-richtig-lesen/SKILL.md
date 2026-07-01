@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-bescheid-oder-anhoerung-richtig-lesen
-description: "Datenschutzrecht-Brückenskill: Behördenpost richtig lesen: Auskunftsverlangen, Beschwerdeweiterleitung, Anhörung, Verwarnung, Anordnung, Zwangsgeldandrohung und Bußgeldbescheid voneinander unterscheiden: Datenschutzrecht-Brückenskill: Behördenpost richtig l..."
+description: "Wenn es um Dsv Sanktion Bescheid Oder Anhoerung Richtig Lesen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Behördenpost richtig lesen: Auskunftsverlangen, Beschwerdeweiterleitung, Anhörung, Verwarnung, Anordnung, Zwangsgeldandrohung und Bußgeldbescheid voneinander unterscheiden

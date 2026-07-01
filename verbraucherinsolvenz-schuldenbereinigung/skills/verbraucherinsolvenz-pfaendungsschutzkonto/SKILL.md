@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-pfaendungsschutzkonto
-description: "Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto: Skill klaert die rechtliche Konstruktion des Pfaendungsschutzkontos nach §§ 850k 850l ZPO Grundfreibetraege Erhoehungsbetraege Antrag und Beweisfuehrun..."
+description: "Wenn es um Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto

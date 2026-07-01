@@ -1,6 +1,6 @@
 ---
 name: anlagen-zur-substantiierung-pflicht
-description: "Anlagen ersetzen keine Substantiierung im Schriftsatz: 'wegen der weiteren Einzelheiten wird auf Anlage K5 verwiesen' ist nicht ausreichend (BGH X ZR 39/16). Prüfraster: Welche Behauptung wird substanziiert, welche durch Anlage nur belegt? Output Hinweis für den Schriftsatz-Autor mit konkreten S..."
+description: "Wenn es um Anlagen vs. Substantiierungspflicht in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Anlagen vs. Substantiierungspflicht

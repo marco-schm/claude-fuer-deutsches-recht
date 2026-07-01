@@ -1,6 +1,6 @@
 ---
 name: widerspruch-gegen-gutachten-laien
-description: "Wie Sie sich gegen ein negatives Gutachten wehren. Schriftliche Stellungnahme Frage nach Erläuterung neuer Beweisantrag. Schritte für den Buerger ohne Anwalt."
+description: "Wenn es um Sich gegen ein negatives Gutachten wehren in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sich gegen ein negatives Gutachten wehren

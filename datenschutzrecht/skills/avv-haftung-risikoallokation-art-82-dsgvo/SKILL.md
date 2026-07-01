@@ -1,6 +1,6 @@
 ---
 name: avv-haftung-risikoallokation-art-82-dsgvo
-description: "Haftungsverteilung Risikoallokation und Haftungscaps im AVV im Lichte von Art. 82 DSGVO. Klaert Aussenhaftung gegenueber Betroffenen Innenregress zwischen Verantwortlichem und Auftragsverarbeiter sowie zulaessige und unzulaessige vertragliche Begrenzungen. Output: Klausel-Bausteine für Innen- und..."
+description: "Wenn es um AVV-Haftung und Risikoallokation – Art. 82 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AVV-Haftung und Risikoallokation – Art. 82 DSGVO

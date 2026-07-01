@@ -1,6 +1,6 @@
 ---
 name: massenschaden-datenmodell-rechtsabteilung
-description: "Output- und Streit-Skill für Massenschaden Datenmodell: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen im AGB-Recht."
+description: "Wenn es um Massenschaden Datenmodell in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Massenschaden Datenmodell Rechtsabteilung; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Massenschaden Datenmodell

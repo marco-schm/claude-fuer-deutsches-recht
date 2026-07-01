@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-risikoanalyse-steuerkanzlei-rechtspre
-description: "Steuerberater: geldwaesche risikoanalyse steuerkanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Geldwaesche Risikoanalyse Steuerkanzlei Rechtspre in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Steuerberater: geldwaesche risikoanalyse steuerkanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

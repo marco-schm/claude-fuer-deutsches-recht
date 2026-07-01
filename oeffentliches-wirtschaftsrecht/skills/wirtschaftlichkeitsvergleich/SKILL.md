@@ -1,6 +1,6 @@
 ---
 name: wirtschaftlichkeitsvergleich
-description: "Öffentliches Wirtschaftsrecht: Wirtschaftlichkeitsvergleich. Wirtschaftlichkeitsvergleich im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht."
+description: "Wenn es um Wirtschaftlichkeitsvergleich in Öffentliches Wirtschaftsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Wirtschaftlichkeitsvergleich

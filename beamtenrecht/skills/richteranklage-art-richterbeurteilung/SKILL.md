@@ -1,6 +1,6 @@
 ---
 name: richteranklage-art-richterbeurteilung
-description: "Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrechtlichen Vorschriften. Klaert die Voraussetzungen für ein Verfahren beim Bundesverfassungsgericht gegen einen Bundesrichter den verfassungsrechtlichen Tatbestand der Amtsverletzung das Antragsverfahren auf Versetzung i..."
+description: "Wenn es um Richteranklage Art. 98 GG in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Richteranklage Art. 98 GG

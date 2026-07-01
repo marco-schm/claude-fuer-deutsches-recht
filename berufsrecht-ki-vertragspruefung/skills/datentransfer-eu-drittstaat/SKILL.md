@@ -1,6 +1,6 @@
 ---
 name: datentransfer-eu-drittstaat
-description: "Datentransfer EU nach Drittstaat: Angemessenheitsbeschluss EU-US-Data-Privacy-Framework, Standardvertragsklauseln Modul 2, Transfer Impact Assessment nach EuGH Schrems II. Prüfraster für US-KI-Anbieter, technische Maßnahmen wie Tokenisierung, Pseudonymisierung. Schriftsatzbausteine."
+description: "Wenn es um EU- nach Drittstaat-Datentransfer in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU- nach Drittstaat-Datentransfer

@@ -1,6 +1,6 @@
 ---
 name: musterung-verweigert-ablehnung
-description: "Erklärt Ablehnungsrisiko bei Musterungsverweigerung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Musterung verweigert Risiko in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Musterung verweigert Risiko

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-beide-seiten-dashboard
-description: "Kaltstart für beide Seiten: steuert gemeinsamer Einstieg für Kanzlei, Einzelanwalt, Rechtsabteilung und Fachabteilung mit Rollen, Zielbild, Budget und Vertraulichkeitsgrenzen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Q..."
+description: "Wenn es um Kaltstart für beide Seiten in Kanzlei-Mandant Lifecycle geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart für beide Seiten

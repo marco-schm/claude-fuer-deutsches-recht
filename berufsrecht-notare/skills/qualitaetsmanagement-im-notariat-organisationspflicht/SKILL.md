@@ -1,6 +1,6 @@
 ---
 name: qualitaetsmanagement-im-notariat-organisationspflicht
-description: "Notare: qualitaetsmanagement im notariat - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Qualitaetsmanagement Im Notariat Organisationspflicht in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: qualitaetsmanagement im notariat - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

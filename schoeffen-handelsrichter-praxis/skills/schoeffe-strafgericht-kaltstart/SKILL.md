@@ -1,6 +1,6 @@
 ---
 name: schoeffe-strafgericht-kaltstart
-description: "Schöffe am Strafgericht Kaltstart: erklärt Ladung, Sitzungstag, Beweisaufnahme, Fragerecht und Beratung verstehen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung."
+description: "Wenn es um Schöffe am Strafgericht Kaltstart in Schöffen und Handelsrichter Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Schöffe am Strafgericht Kaltstart

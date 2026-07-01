@@ -1,6 +1,6 @@
 ---
 name: open-source-datenbank-und-open-data-commons
-description: "Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ODbL (Open Database Licence), PDDL (Public Domain Dedication and Licence) und CC0 im Verhältnis zu §§ 87a-87e UrhG, Sharealike-Copyleft-Wirkung auf abgeleitete Datenbanken, Attribution-Pflichten und Kompatibilitätsfragen b..."
+description: "Wenn es um Open-Source-Datenbanken und Open-Data-Commons-Lizenzen in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Open-Source-Datenbanken und Open-Data-Commons-Lizenzen

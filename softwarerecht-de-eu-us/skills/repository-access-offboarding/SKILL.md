@@ -1,6 +1,6 @@
 ---
 name: repository-access-offboarding
-description: "Prüft Repository-Zugänge, Schlüssel, Secrets, Adminrechte, Offboarding, BYOD und Beweissicherung im Softwarerecht De Eu Us."
+description: "Wenn es um Repository Access und Offboarding in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Repository Access und Offboarding

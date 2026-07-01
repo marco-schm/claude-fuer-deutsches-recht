@@ -1,6 +1,6 @@
 ---
 name: earn-out-accounting-dispute
-description: "Strukturiert Earn-out- und Kaufpreisanpassungsstreitigkeiten: accounting principles, expert determination, disclosure, damages and procedural tactics im Commercial Courts Deutschland."
+description: "Wenn es um Earn-out Disputes in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Earn-out Disputes

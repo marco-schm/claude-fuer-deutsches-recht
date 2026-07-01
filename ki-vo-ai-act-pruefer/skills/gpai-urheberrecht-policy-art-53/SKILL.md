@@ -1,6 +1,6 @@
 ---
 name: gpai-urheberrecht-policy-art-53
-description: "GPAI-Urheberrechtspflichten nach Art. 53 KI-VO: Copyright-Policy, Trainingsdaten-Zusammenfassung, Rechtekette, TDM/Opt-out, Output-Risiko, Anbieterkommunikation und Evidence-Pack für Basismodelle und darauf aufsetzende Systeme."
+description: "Wenn es um GPAI: Urheberrechtliche Policy nach Art. 53 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # GPAI: Urheberrechtliche Policy nach Art. 53 KI-VO

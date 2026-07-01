@@ -1,6 +1,6 @@
 ---
 name: nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung
-description: "Trennt den Erfuellungsaufwand methodisch nach den drei Adressatengruppen Buerger Wirtschaft Verwaltung. Erklaert Spezifika je Gruppe Standard-Zeitwerte Lohnsaetze Bandbreiten und die typischen Falltypen. Mit Mustertabelle fuer die Stellungnahme und Bausteinen zur Plausibilisierung pro Gruppe."
+description: "Wenn es um NKR-Erfuellungsaufwand fuer Buerger, Wirtschaft und Verwaltung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NKR-Erfuellungsaufwand fuer Buerger, Wirtschaft und Verwaltung

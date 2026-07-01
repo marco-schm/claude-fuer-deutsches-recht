@@ -1,6 +1,6 @@
 ---
 name: tenor-internationaler-bezug
-description: "Tenor: Internationaler Bezug und Schnittstellen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
+description: "Wenn es um Tenor: Internationaler Bezug und Schnittstellen in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tenor Internationaler Bezug; Arbeitsfeld: Urteilsbauer und Relationsmacher."
 ---
 
 # Tenor: Internationaler Bezug und Schnittstellen

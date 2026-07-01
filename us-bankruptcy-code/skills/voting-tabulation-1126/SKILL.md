@@ -1,6 +1,6 @@
 ---
 name: voting-tabulation-1126
-description: "Prüft acceptance, impaired classes, ballots, designation, numerosity/amount tests and solicitation problems im US Bankruptcy Code."
+description: "Wenn es um Voting and Tabulation Paragraf 1126 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Voting and Tabulation § 1126

@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Bau- und Architektenrecht: stimmt Adressat (Bauherr, Bauunternehmer, Architekt), Frist (Verjährung 5 Jahre § 634a BGB) und Form auf den Zweck ab — typische Outputs: Mängelrüge, Klage Werklohn / Schadensersatz Mängel, Selbstständiges Beweisverfahren."
+description: "Wenn es um Output wählen in Fachanwalt Bau Architektenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

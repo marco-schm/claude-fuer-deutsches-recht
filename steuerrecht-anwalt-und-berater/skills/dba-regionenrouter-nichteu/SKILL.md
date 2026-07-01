@@ -1,6 +1,6 @@
 ---
 name: dba-regionenrouter-nichteu
-description: "DBA-Regionenrouter für Nicht-EU- und Sonderstaaten: USA, Kanada, UK, Schweiz, Türkei, Israel, China, Indien, Japan, Australien, Lateinamerika, Afrika, Nahost, Zentralasien, Alt-DBA und fortgeltende UdSSR/Jugoslawien-Abkommen."
+description: "Wenn es um DBA-Regionenrouter Nicht-EU in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # DBA-Regionenrouter Nicht-EU

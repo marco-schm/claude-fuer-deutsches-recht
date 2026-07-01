@@ -1,6 +1,6 @@
 ---
 name: drohne-genehmigung-pruefen
-description: "Drohnenbetreiber braucht Genehmigung für Spezialoperationen oder hat Betriebsgenehmigung verloren. Prüft EU-VO 2019/947 Betriebskategorien LuftVG § 21a LBA-Genehmigungsverfahren und Specific Category Operational Authorization und liefert Genehmigungsstatus-Vermerk im Luftrecht Flughafenrecht."
+description: "Wenn es um Drohne – Genehmigung prüfen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drohne – Genehmigung prüfen

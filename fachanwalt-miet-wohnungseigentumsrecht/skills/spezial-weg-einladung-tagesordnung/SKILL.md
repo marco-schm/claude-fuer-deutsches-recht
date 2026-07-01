@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-einladung-tagesordnung
-description: "WEG Einladung/Tagesordnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Frist, Form, TOP-Bestimmtheit, Unterlagen, Vollmachten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um WEG Einladung/Tagesordnung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Einladung/Tagesordnung

@@ -1,6 +1,6 @@
 ---
 name: chronologie-und-belegmatrix
-description: "Chronologie und Belegmatrix im Bereich einfache-leichte-sprache-jura: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Chronologie und Belegmatrix in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie und Belegmatrix

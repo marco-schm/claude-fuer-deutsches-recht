@@ -1,6 +1,6 @@
 ---
 name: kueschk-guetetermin-strategie-und-sprechzettel
-description: "Guetetermin nach Paragraf 54 ArbGG: Ablauf und Funktion: was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-F..."
+description: "Wenn es um Guetetermin nach Paragraf 54 ArbGG: Ablauf und Funktion in Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Guetetermin nach Paragraf 54 ArbGG: Ablauf und Funktion

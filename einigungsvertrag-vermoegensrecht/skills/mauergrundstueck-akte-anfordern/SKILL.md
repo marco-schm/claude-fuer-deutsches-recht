@@ -1,6 +1,6 @@
 ---
 name: mauergrundstueck-akte-anfordern
-description: "Einigungsvertrag und Vermögensrecht: Mauergrundstück: Akte anfordern im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Mauergrundstueck Akte Anfordern in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mauergrundstueck Akte Anfordern

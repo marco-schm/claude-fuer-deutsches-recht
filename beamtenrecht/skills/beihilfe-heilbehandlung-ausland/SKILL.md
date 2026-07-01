@@ -1,6 +1,6 @@
 ---
 name: beihilfe-heilbehandlung-ausland
-description: "Skill zur beamtenrechtlichen Beihilfefaehigkeit von Heilbehandlung im Ausland nach BBhV und den Landesbeihilfeverordnungen. Klaert die Konstellationen geplante Behandlung im EU-Ausland Notfallbehandlung Beihilfehoehe und Begrenzung auf das Inlandsniveau Beihilfe bei Reha im Ausland und Auslandsdi..."
+description: "Wenn es um Beihilfe Heilbehandlung im Ausland in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beihilfe Heilbehandlung im Ausland

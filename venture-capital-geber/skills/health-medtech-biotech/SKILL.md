@@ -1,6 +1,6 @@
 ---
 name: health-medtech-biotech
-description: "Prüft Medizinprodukte, Studien, Zulassung, Datenschutz, GOÄ/Erstattung, IP und Haftung bei Health-Startups im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Health, MedTech und Biotech in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Health, MedTech und Biotech

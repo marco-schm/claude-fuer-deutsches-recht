@@ -1,6 +1,6 @@
 ---
 name: schutzdauer-gemeinfreiheit-software-69a
-description: "Prüft Schutzdauer, Miturheberschaft, anonyme Werke, Leistungsschutzdauer, gemeinfreie Vorlagen und neue Bearbeitungen im Urheberrecht De Eu."
+description: "Wenn es um Schutzdauer und Gemeinfreiheit in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schutzdauer und Gemeinfreiheit

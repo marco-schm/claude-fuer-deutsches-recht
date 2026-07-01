@@ -1,6 +1,6 @@
 ---
 name: bankentgelte-registertext
-description: "Verbraucherschutzverband Durchsetzung: Bankentgelte: Registertext schreiben im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Bankentgelte Registertext Schreiben in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bankentgelte Registertext Schreiben

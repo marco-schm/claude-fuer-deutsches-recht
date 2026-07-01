@@ -1,6 +1,6 @@
 ---
 name: bundesfernstrasse-landesstrasse
-description: "Straßenrecht und Infrastruktur: Bundesfernstraße oder Landesstraße. Bundesfernstraße oder Landesstraße im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tat..."
+description: "Wenn es um Bundesfernstrasse Oder Landesstrasse in Straßenrecht und Infrastruktur geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bundesfernstrasse Oder Landesstrasse

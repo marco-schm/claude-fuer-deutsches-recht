@@ -1,6 +1,6 @@
 ---
 name: luft-108-slot-local-counsel-briefen
-description: "Luftrecht und Flughafenrecht: Slot: Local Counsel briefen. Local Counsel briefen für Slot im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Slot Local Counsel Briefen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Slot Local Counsel Briefen

@@ -1,6 +1,6 @@
 ---
 name: avoidance-litigation
-description: "Organisiert estate avoidance litigation: target selection, demand letters, complaints, defenses, settlement and collection im US Bankruptcy Code."
+description: "Wenn es um Avoidance Litigation Strategy in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Avoidance Litigation Strategy

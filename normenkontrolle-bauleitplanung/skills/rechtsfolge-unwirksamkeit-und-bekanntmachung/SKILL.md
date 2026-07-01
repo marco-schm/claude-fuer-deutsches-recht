@@ -1,6 +1,6 @@
 ---
 name: rechtsfolge-unwirksamkeit-und-bekanntmachung
-description: "Rechtsfolge der Unwirksamkeit: Allgemeinverbindlichkeit, Veröffentlichung, Folgebescheide, Rückabwicklung und Vertrauensschutz.; Normanker: VwGO § 47 Abs. 5; Landesrecht; VwVfG/Spezialrecht; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar."
+description: "Wenn es um Rechtsfolge Unwirksamkeit Und Bekanntmachung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Rechtsfolge der Unwirksamkeit: Allgemeinverbindlichkeit, Veröffentlichung, Folgebescheide, Rückabwicklung und Vertrauensschutz.

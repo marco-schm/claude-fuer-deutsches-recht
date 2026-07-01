@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-gesellschaftsrechtliche-vertretung
-description: "Prüft Handelsregister, Gesellschafterliste, Geschäftsführer, Prokura, Liquidator und ausländische Vertreter im Grundbuchamt Praxis."
+description: "Wenn es um Gesellschaft als Eigentümerin in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesellschaft als Eigentümerin

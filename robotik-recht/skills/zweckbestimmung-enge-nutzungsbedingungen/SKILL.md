@@ -1,6 +1,6 @@
 ---
 name: zweckbestimmung-enge-nutzungsbedingungen
-description: "Bewertet enge Zweckbestimmungen, Nutzungsbedingungen, vorhersehbare Fehlanwendung und regulatorische Verlagerung auf Betreiber."
+description: "Wenn es um Zweckbestimmung und Nutzungsbedingungen in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zweckbestimmung und Nutzungsbedingungen

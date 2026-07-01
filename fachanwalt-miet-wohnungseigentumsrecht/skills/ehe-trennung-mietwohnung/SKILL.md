@@ -1,6 +1,6 @@
 ---
 name: ehe-trennung-mietwohnung
-description: "Trennung/Ehewohnung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Besitz, Vertrag, Zuweisung, Kündigung, Gesamtschuld; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitspro..."
+description: "Wenn es um Trennung/Ehewohnung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Trennung/Ehewohnung: Fachmodul im Miet- und Wohnungseigentumsrecht

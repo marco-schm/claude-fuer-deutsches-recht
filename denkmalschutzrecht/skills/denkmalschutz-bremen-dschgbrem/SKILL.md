@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-bremen-dschgbrem
-description: "Denkmalschutzrecht Freie Hansestadt Bremen nach dem Bremischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Landesamt für Denkmalpflege Bremen, Stadtamt Bremerhaven als untere Denkmalschutzbehörde im Stadtgebiet Bremerhaven) und die Verfahrensbesonderheiten in der Zwei-Städte-Konstellation."
+description: "Wenn es um Denkmalschutz Bremen (DSchG-Brem) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Bremen (DSchG-Brem)

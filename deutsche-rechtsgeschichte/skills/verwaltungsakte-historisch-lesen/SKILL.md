@@ -1,6 +1,6 @@
 ---
 name: verwaltungsakte-historisch-lesen
-description: "Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Formular-Kanzleisprache des 18./19. Jh., Unterschied zu heutigen Verwaltungsakten, Quellenkritik bei historischen Behördendokumenten im Deutsche Rechtsgeschichte."
+description: "Wenn es um Verwaltungsakte historisch lesen in Deutsche Rechtsgeschichte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verwaltungsakte historisch lesen

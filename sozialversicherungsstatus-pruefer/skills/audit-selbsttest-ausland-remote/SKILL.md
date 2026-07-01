@@ -1,6 +1,6 @@
 ---
 name: audit-selbsttest-ausland-remote
-description: "Führt einen internen Audit-Selbsttest für Sozialversicherungsstatus und Scheinselbständigkeit durch im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Audit-Selbsttest Unternehmen in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Audit-Selbsttest Unternehmen

@@ -1,6 +1,6 @@
 ---
 name: datenbankherstellerrecht-gegen-ex-mitarbeiter
-description: "Datenbankherstellerrecht und arbeitsrechtliche Ansprüche gegen ausscheidende Mitarbeiter: § 87b UrhG bei Datenexport, GeschGehG § 4 bei Geheimnisverrat, nachvertragliches Wettbewerbsverbot (§ 74 HGB), Herausgabe- und Unterlassungsansprüche sowie Kündigung und Schadensersatz. Erstellt Präventionsp..."
+description: "Wenn es um Datenbankherstellerrecht gegen Ex-Mitarbeiter — Datenexport und Wettbewerbsverbot in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankherstellerrecht gegen Ex-Mitarbeiter — Datenexport und Wettbewerbsverbot

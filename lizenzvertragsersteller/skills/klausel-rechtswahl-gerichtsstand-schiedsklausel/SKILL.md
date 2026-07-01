@@ -1,6 +1,6 @@
 ---
 name: klausel-rechtswahl-gerichtsstand-schiedsklausel
-description: "Rechtswahl-, Gerichtsstands- und Schiedsklauseln im Lizenzvertrag: Rom-I-VO Art. 4, deutsches Recht, Schweizer Recht, English Law, NY Law; ICC, DIS, LCIA, Stockholm Schiedsklauseln; Mediation-Vorschaltung."
+description: "Wenn es um Klausel Rechtswahl, Gerichtsstand, Schiedsklausel in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klausel Rechtswahl, Gerichtsstand, Schiedsklausel

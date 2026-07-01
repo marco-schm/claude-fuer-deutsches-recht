@@ -1,6 +1,6 @@
 ---
 name: reichskammergericht-und-reichshofrat
-description: "Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zuständigkeit, Rezeption des gelehrten Rechts, Konkurrenz beider Gerichte und Bedeutung als Vorlaeufer moderner Obergerichte im Deutsche Rechtsgeschichte."
+description: "Wenn es um Reichskammergericht und Reichshofrat in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reichskammergericht und Reichshofrat

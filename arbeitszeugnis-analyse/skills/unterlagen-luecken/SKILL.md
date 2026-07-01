@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Arbeitszeugnis-Analyse: trennt fehlende Tatsachen von fehlenden Belegen (Erstes Zeugnis, Berichtigungszeugnis, Zwischenzeugnis), nennt pro Lücke Beweisthema, Beschaffungsweg (Arbeitsgericht), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

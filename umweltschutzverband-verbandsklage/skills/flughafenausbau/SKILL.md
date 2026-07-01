@@ -1,6 +1,6 @@
 ---
 name: flughafenausbau
-description: "Umweltschutzverband Verbandsklage: Flughafenausbau: Nebenbestimmung fordern im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Flughafenausbau Nebenbestimmung Forder in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Flughafenausbau Nebenbestimmung Forder

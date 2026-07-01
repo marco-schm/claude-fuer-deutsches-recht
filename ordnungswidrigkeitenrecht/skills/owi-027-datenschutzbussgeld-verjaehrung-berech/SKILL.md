@@ -1,6 +1,6 @@
 ---
 name: owi-027-datenschutzbussgeld-verjaehrung-berech
-description: "Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Verjährung berechnen. Verjährung berechnen für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Datenschutzbussgeld Verjaehrung Berech in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzbussgeld Verjaehrung Berech

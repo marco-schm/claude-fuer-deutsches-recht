@@ -1,6 +1,6 @@
 ---
 name: patentprozess-besichtigung-beweissicherung
-description: "Strukturiert Besichtigung, Beweissicherung und technische Dokumentation in Patentstreitigkeiten: Produktzugang, Geheimnisschutz, Sachverständige, Testkäufe, Reverse Engineering und chain of custody im Patentrecht."
+description: "Wenn es um Patentprozess: Besichtigung und Beweissicherung in patentrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Patentprozess: Besichtigung und Beweissicherung

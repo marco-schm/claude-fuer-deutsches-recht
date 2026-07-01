@@ -1,6 +1,6 @@
 ---
 name: informationszugang-sachsen-anhalt-live
-description: "Informationsfreiheit und Presseauskunft: Informationszugang Sachsen-Anhalt Livecheck. Informationszugang Sachsen-Anhalt Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presse..."
+description: "Wenn es um Informationszugang Sachsen Anhalt Live in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Informationszugang Sachsen Anhalt Live

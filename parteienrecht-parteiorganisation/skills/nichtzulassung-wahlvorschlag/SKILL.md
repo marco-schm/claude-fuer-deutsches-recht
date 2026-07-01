@@ -1,6 +1,6 @@
 ---
 name: nichtzulassung-wahlvorschlag
-description: "Routet Beschwerde/Einspruch gegen Nichtzulassung eines Wahlvorschlags nach jeweiligem Wahlrecht."
+description: "Wenn es um Nichtzulassung Wahlvorschlag in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nichtzulassung Wahlvorschlag

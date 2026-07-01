@@ -1,6 +1,6 @@
 ---
 name: vereins-und-parteienrecht
-description: "Deutsche Rechtsgeschichte: Vereins- und Parteienrecht. BGB-Vereinsrecht, Sozialistengesetz 1878, Weimarer Koalitionsfreiheit, GG Art. 21 und Parteiengesetz 1967 im Deutsche Rechtsgeschichte."
+description: "Wenn es um Vereins- und Parteienrecht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vereins- und Parteienrecht

@@ -1,6 +1,6 @@
 ---
 name: saumselig-sonderfall-edge-case
-description: "Spezielle Fallkonstellationen die vom Standard abweichen. Schuldner ist unbekannt verstorben verzogen ins Ausland oder unter Betreuung. Pinpoints ZPO 185 öffentliche Zustellung BGB 1922 Erbfolge BGB 1896 Betreuung ZPO 50 Parteifaehigkeit. Liefert Behandlungsstrategien je Sonderfall."
+description: "Wenn es um Saumselige Sonderfaelle in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Saumselige Sonderfaelle

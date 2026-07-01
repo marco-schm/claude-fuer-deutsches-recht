@@ -1,6 +1,6 @@
 ---
 name: englische-verfahrenssprache-late-submissions
-description: "Prüft und gestaltet die englische Verfahrenssprache: Parteivereinbarung, Schriftsätze, Anlagen, mündliche Verhandlung, Protokoll, Urteil, Übersetzungen und BGH-Fortsetzung im Commercial Courts Deutschland."
+description: "Wenn es um Verfahrenssprache Englisch in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Verfahrenssprache Englisch

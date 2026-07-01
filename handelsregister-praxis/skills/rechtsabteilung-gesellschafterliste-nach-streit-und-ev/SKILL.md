@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-gesellschafterliste-nach-streit-und-ev
-description: "Rechtsabteilungs-Fachmodul für Gesellschafterliste nach Streit und EV: Rechtsabteilungen bauen registertaugliche Listenpakete und Widerspruchsstrategien. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsregister Praxis."
+description: "Wenn es um Rechtsabteilung: Gesellschafterliste nach Streit und EV in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Rechtsabteilung: Gesellschafterliste nach Streit und EV

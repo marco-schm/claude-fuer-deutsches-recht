@@ -1,6 +1,6 @@
 ---
 name: nda-mit-kartellsensitiven-daten
-description: "NDA mit kartellsensitiven Daten (Preise, Mengen, Kunden): Clean Team Agreement, Aggregation, externe Berater zwischen den Parteien. Empfehlung: Vorabklaerung ob Daten ueberhaupt ausgetauscht werden duerfen."
+description: "Wenn es um Kartellsensitive Daten in NDA in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kartellsensitive Daten in NDA

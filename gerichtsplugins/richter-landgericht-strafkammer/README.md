@@ -21,7 +21,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswuerdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
+Wenn du das hier öffnest, willst du eine Strafkammersache richterlich führen: Eröffnung, Besetzung, Hauptverhandlung, Beweisaufnahme, Verständigung, Beweiswürdigung, Strafzumessung, Tenor und Urteilsgründe.
 > **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.
 
 > **Kritisch — Hochrisiko-KI und Art. 22 DSGVO beachten.** Der Einsatz von KI in der Rechtspflege ist nach Art. 6 Abs. 2 in Verbindung mit Anhang III Nr. 8 Buchstabe a der KI-Verordnung (VO (EU) 2024/1689) grundsätzlich **Hochrisiko-KI**. Die Rückausnahme des Art. 6 Abs. 3 KI-VO greift nur bei rein vorbereitender Tätigkeit ohne Subsumtion; auch dann besteht Registrierungspflicht nach Art. 49 Abs. 2 KI-VO. Eine Entscheidung mit rechtlicher Wirkung über Menschen darf nicht einer Maschine überlassen werden (Art. 22 DSGVO) — die richterliche Letztentscheidung liegt zwingend beim Menschen. Einzelheiten unten unter „Wichtiger Hinweis vor Verwendung".
@@ -123,18 +123,18 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `01-eroeffnungsverfahren-strafkammer` | Eröffnungsverfahren Paragrafen 199-203 StPO bei der Strafkammer, hinreichender Tatverdacht, Verlesung der Anklage, Eröffnungsbeschluss, Zulassung der Anklage |
-| `02-hauptverhandlung-grosse-strafkammer` | Hauptverhandlung mit drei Berufs- und zwei Schöffenrichtern Paragraf 76 GVG, Verhandlungsleitung, Ablauf nach Paragraf 243 StPO, Wahrung der Förderungs- und Aufklärungspflicht Paragraf 244 Abs. 2 |
-| `03-beweisantraege-und-ablehnung` | Beweisantraege Paragraf 244 StPO, Ablehnungsgründe, Wahrunterstellung, Hilfsbeweisantraege, Konnexitaet, Beweisaufnahme im Selbstleseverfahren Paragraf 249 Abs. 2 |
-| `04-beweiswuerdigung-strafkammer` | Beweiswürdigung Paragraf 261 StPO bei komplexen Sachverhalten, Aussage gegen Aussage, Indizienprozess, In-dubio-pro-reo, Behandlung von Sachverständigengutachten, Glaubhaftigkeitsfaktoren |
-| `05-strafzumessung-grosse-strafkammer` | Strafzumessung Paragrafen 46-49 StGB: Strafzumessungstatsachen, Strafrahmenverschiebung, besondere gesetzliche Milderungsgründe, Strafaussetzung Paragraf 56 (Bewaehrungsentscheidung), Verwarnung mit Strafvorbehalt Paragraf 59 |
-| `06-massnahmen-paragraf-61-stgb` | Maßnahmen der Besserung und Sicherung Paragraf 61 StGB: Unterbringung im psychiatrischen Krankenhaus Paragraf 63, Entziehungsanstalt Paragraf 64, Sicherungsverwahrung Paragraf 66, Fuehrungsaufsicht |
-| `07-urteilsbegruendung-paragraf-267-lg` | Urteilsgründe Paragraf 267 StPO bei umfangreichen Strafverfahren: Persoenliche Verhaeltnisse, Tatfeststellungen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Maßnahmen |
-| `08-berufung-strafkammer` | Berufung gegen Amtsgerichtsurteil (Kleine Strafkammer Paragraf 76 GVG), Prüfungsumfang Paragraf 327 StPO, Tatsacheninstanz, Verbot der Schlechterstellung Paragraf 331 StPO |
-| `09-rechtsmittelbelehrung-strafkammer` | Tenor Strafkammer, Rechtsmittelbelehrung Revision Paragrafen 333 ff. StPO, Annahmeberufung, Frist, Form, Begründungserfordernis Paragraf 344 StPO |
-| `10-entscheidungsvorschlag-strafkammer` | Strukturierter Entscheidungsvorschlag für die Kammerberatung: Schuldspruch-Skizze, Strafzumessungs-Skizze, Bewaehrungsentscheidung, Maßnahmenkonzept, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert |
-| `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (urteil strafkammer) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
-| `prozessuale-kniffe-und-rechtsprechungsanker` | Bündelt strafgerichtliche Prozesskniffe zu Beweisaufnahme, Hinweisen, Verständigung, Beweiswürdigung, Strafzumessung, Einziehung und revisionsfestem Urteil. |
-| `v392-praxisraster-richter-landgericht-strafkammer` | Praxisraster für Landgericht Strafkammer: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet. |
+| `01-eroeffnungsverfahren-strafkammer` | Wenn es um 01 Eröffnungsverfahren Strafkammer in Strafkammer am Landgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `02-hauptverhandlung-grosse-strafkammer` | Wenn es um 02 Hauptverhandlung Große Strafkammer in Strafkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `03-beweisantraege-und-ablehnung` | Wenn es um 03 Beweisantraege und Ablehnung in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `04-beweiswuerdigung-strafkammer` | Wenn es um 04 Beweiswürdigung Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `05-strafzumessung-grosse-strafkammer` | Wenn es um 05 Strafzumessung Große Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächst... |
+| `06-massnahmen-paragraf-61-stgb` | Wenn es um 06 Maßnahmen Paragraf 61 Stgb in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sch... |
+| `07-urteilsbegruendung-paragraf-267-lg` | Wenn es um 07 Urteilsbegründung Paragraf 267 Lg in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `08-berufung-strafkammer` | Wenn es um 08 Berufung Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `09-rechtsmittelbelehrung-strafkammer` | Wenn es um 09 Rechtsmittelbelehrung Strafkammer in Strafkammer am Landgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `10-entscheidungsvorschlag-strafkammer` | Wenn es um 10 Entscheidungsvorschlag Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näch... |
+| `99-finale-entscheidung-volltext` | Wenn es um Finale Entscheidung als Volltext (Urteil Strafkammer) in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigke... |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Strafkammer am Landgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `v392-praxisraster-richter-landgericht-strafkammer` | Wenn es um Praxisraster Landgericht Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

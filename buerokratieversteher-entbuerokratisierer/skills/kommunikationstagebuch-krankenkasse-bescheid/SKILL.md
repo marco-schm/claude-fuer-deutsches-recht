@@ -1,6 +1,6 @@
 ---
 name: kommunikationstagebuch-krankenkasse-bescheid
-description: "Erstellt Behörden-Kommunikationsjournal mit Datum, Person, Inhalt, Zusage, Frist und nächster Aktion im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Kommunikationstagebuch in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunikationstagebuch

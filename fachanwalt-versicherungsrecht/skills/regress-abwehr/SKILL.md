@@ -1,6 +1,6 @@
 ---
 name: regress-abwehr
-description: "Regressabwehr gegen Sozialversicherungstraeger und Versicherungstraeger nach Schadensersatzleistung: Anwendungsfall Sozialversicherungstraeger oder Versiche..."
+description: "Wenn es um Regress Abwehr in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Regressabwehr gegen Sozialversicherungstraeger und Versicherungstraeger nach Schadensersatzleistung

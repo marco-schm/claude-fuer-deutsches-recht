@@ -1,6 +1,6 @@
 ---
 name: parkraum-planfeststellung-strassenbahn
-description: "Parkraum: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Parkraum: Schriftsatz-, Brief- und Memo-Bausteine in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Parkraum: Schriftsatz-, Brief- und Memo-Bausteine

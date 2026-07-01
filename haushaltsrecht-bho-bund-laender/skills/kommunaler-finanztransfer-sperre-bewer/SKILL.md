@@ -1,6 +1,6 @@
 ---
 name: kommunaler-finanztransfer-sperre-bewer
-description: "Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Sperre bewerten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kommunaler Finanztransfer Sperre Bewer in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunaler Finanztransfer Sperre Bewer

@@ -1,6 +1,6 @@
 ---
 name: data-act-roboterdaten
-description: "Prüft Data-Act-Fragen bei vernetzten Robotern: Nutzerdatenzugang, B2B-Datenbereitstellung, Geschäftsgeheimnisse und Cloudwechsel."
+description: "Wenn es um Data Act bei vernetzten Robotern in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Data Act bei vernetzten Robotern

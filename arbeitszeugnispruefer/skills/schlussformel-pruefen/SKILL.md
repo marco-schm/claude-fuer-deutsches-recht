@@ -1,6 +1,6 @@
 ---
 name: schlussformel-pruefen
-description: Pruefung der Schlussformel eines Arbeitszeugnisses auf Vollstaendigkeit der fuenf Bausteine Bedauern, Dank, beruflicher Wunsch, persoenlicher Wunsch und Erfolgswunsch mit Bewertung der Signalwirkung nach BAG-Linie.
+description: "Wenn es um Schlussformel pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schlussformel pruefen

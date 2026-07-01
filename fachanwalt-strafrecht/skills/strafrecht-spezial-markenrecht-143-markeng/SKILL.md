@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-markenrecht-143-markeng
-description: "Strafvorschriften nach Paragraph 143 MarkenG: Vorsaetzliche Markenrechtsverletzung Doppelidentitaet Verwechslungsgefahr Bekanntheitsschutz. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt..."
+description: "Wenn es um Strafvorschriften nach Paragraph 143 MarkenG in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Strafvorschriften nach Paragraph 143 MarkenG

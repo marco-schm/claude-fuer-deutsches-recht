@@ -1,6 +1,6 @@
 ---
 name: lph-04-outputpaket
-description: "HOAI LPH 4 Genehmigungsplanung: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphase..."
+description: "Wenn es um LPH 4 Genehmigungsplanung: Liefert alle dokumente in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # LPH 4 Genehmigungsplanung: Liefert alle dokumente

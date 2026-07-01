@@ -1,6 +1,6 @@
 ---
 name: nebenkostenabrechnung-pruefen
-description: "Betriebskostenabrechnung prüfen aus Mietersicht: formelle Mindestangaben, Frist, Umlagefähigkeit, Belegeinsicht, Zahlungsbelege, HeizkostenV, CO2KostAufG, Rechenkontrolle, Einwendungen und temporäres Zurückbehaltungsrecht im Mietrecht."
+description: "Wenn es um Betriebskostenabrechnung prüfen in Mietrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebskostenabrechnung prüfen

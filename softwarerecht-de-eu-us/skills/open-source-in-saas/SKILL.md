@@ -1,6 +1,6 @@
 ---
 name: open-source-in-saas
-description: "Prüft Open Source bei SaaS ohne klassische Distribution, AGPL, managed services und Kundenverträge im Softwarerecht De Eu Us."
+description: "Wenn es um Open Source in SaaS in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Open Source in SaaS

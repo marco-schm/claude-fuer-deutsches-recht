@@ -1,6 +1,6 @@
 ---
 name: lizenzanalogie-und-unterlassungsvertrag
-description: "Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach § 97 Abs. 2 UrhG für Datenbankherstellerrechts-Verletzungen, Unterlassungsvertrags-Klauseln (Vertragsstrafe nach § 339 BGB) als Alternative zur Klage und Abgrenzung von Abschlusserklärung zu t..."
+description: "Wenn es um Lizenzanalogie und Unterlassungsvertrag im Datenbankrecht in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Lizenzanalogie und Unterlassungsvertrag im Datenbankrecht

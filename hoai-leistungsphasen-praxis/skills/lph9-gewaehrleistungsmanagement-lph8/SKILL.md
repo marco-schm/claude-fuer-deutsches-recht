@@ -1,6 +1,6 @@
 ---
 name: lph9-gewaehrleistungsmanagement-lph8
-description: "HOAI-Fachfrage LPH 9: Objektbetreuung, Gewährleistungsfristen, Mängel vor Fristablauf, Begehung, Unternehmerverfolgung, Planerhaftung und Abschlussdokumentation prüfen im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 9 Gewährleistungsmanagement Und Fristen in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 9 Gewährleistungsmanagement Und Fristen

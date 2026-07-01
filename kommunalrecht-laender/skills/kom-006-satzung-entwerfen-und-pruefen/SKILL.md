@@ -1,6 +1,6 @@
 ---
 name: kom-006-satzung-entwerfen-und-pruefen
-description: "Kommunalrecht der Länder: Satzung entwerfen und prüfen. Satzung entwerfen und prüfen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Satzung Entwerfen Und Pruefen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Satzung Entwerfen Und Pruefen

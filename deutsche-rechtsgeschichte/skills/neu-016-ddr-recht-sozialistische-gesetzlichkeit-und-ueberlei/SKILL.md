@@ -1,6 +1,6 @@
 ---
 name: neu-016-ddr-recht-sozialistische-gesetzlichkeit-und-ueberlei
-description: "Deutsche Rechtsgeschichte: DDR-Recht sozialistische Gesetzlichkeit und Überleitung im Deutsche Rechtsgeschichte."
+description: "Wenn es um Deutsche Rechtsgeschichte: 016 Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: 016 Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei

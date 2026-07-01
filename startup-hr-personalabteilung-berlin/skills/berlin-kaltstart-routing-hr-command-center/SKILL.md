@@ -1,6 +1,6 @@
 ---
 name: berlin-kaltstart-routing-hr-command-center
-description: "Berliner Start-up-HR: HR-Command-Center für Berliner Start-up-Alltag: Mitarbeiterbestand, Rollen, Payroll, Personalakte, Fristen, Eskalation und Datenschutzmodus. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt."
+description: "Wenn es um Allgemein Kaltstart HR Command Center in Start-up-HR-Personalabteilung Berlin geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemein Kaltstart HR Command Center

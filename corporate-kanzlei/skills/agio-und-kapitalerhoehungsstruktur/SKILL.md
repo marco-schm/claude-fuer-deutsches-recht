@@ -1,6 +1,6 @@
 ---
 name: agio-und-kapitalerhoehungsstruktur
-description: "Strukturierung von Kapitalerhöhungen mit Agio bei VC-Finanzierungsrunden Holding-Aufbauten und M&A-Sekundärfinanzierungen. Übersetzung US-Term-Sheet-Begriffe (Original Purchase Price Par Value APIC Liquidation Preference) in deutsche Kategorien (Ausgabebetrag Nennbetrag Kapitalrücklage Vorzugsrec"
+description: "Wenn es um Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis in Corporate-Kanzlei geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Agio Und Kapitalerhoehungsstruktur; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis

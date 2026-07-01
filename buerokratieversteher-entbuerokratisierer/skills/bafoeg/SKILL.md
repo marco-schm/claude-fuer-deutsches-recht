@@ -1,6 +1,6 @@
 ---
 name: bafoeg
-description: "Erklärt BAföG-Antrag, Leistungsnachweise, Einkommen der Eltern, Vorausleistung, Rückforderung und Widerspruch im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Bafoeg in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # BAföG

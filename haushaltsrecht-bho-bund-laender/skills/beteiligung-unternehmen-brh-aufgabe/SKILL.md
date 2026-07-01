@@ -1,6 +1,6 @@
 ---
 name: beteiligung-unternehmen-brh-aufgabe
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 65 Beteiligung Unternehmen praktisch anwenden. BHO § 65 Beteiligung Unternehmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/L..."
+description: "Wenn es um Bho 65 Beteiligung Unternehmen Praktis in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 65 Beteiligung Unternehmen Praktis

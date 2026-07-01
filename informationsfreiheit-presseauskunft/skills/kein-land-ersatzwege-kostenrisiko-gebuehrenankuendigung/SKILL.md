@@ -1,6 +1,6 @@
 ---
 name: kein-land-ersatzwege-kostenrisiko-gebuehrenankuendigung
-description: "Informationsfreiheit und Presseauskunft: Kein IFG im Land: Ersatzwege finden. Kein IFG im Land: Ersatzwege finden im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: prüft..."
+description: "Wenn es um Kein Ifg Im Land Ersatzwege Finden in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Kein Ifg Im Land Ersatzwege Finden

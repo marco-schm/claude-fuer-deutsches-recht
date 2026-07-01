@@ -1,6 +1,6 @@
 ---
 name: rechtsanwendung-tatbestand-beweis-und-belege
-description: "Dieses Skill leitet die vollständige Rechtsanwendung vom Tatbestand bis zur Beweisführung und Belegsicherung an: Es zeigt, wie Tatbestandsmerkma..."
+description: "Wenn es um Rechtsanwendung Tatbestand Beweis Und Belege in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Dieses Skill leitet die vollständige Rechtsanwendung vom Tatbestand bis zur Beweisführung und Belegsicherung an

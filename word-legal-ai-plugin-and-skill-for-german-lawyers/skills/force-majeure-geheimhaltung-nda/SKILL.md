@@ -1,6 +1,6 @@
 ---
 name: force-majeure-geheimhaltung-nda
-description: "Drafting und Abgrenzung von Force-Majeure-Klauseln und § 313 BGB (Wegfall der Geschäftsgrundlage). Strukturiert Definition höherer Gewalt, Anzeigepflicht, Suspendierung der Leistungspflicht und Kaskade bis zur Long-Stop-Kündigung. Klärt die Voraussetzungen des § 313 BGB (schwerwiegende Veränderun..."
+description: "Wenn es um Force Majeure und Paragraf 313 BGB (Wegfall der Geschäftsgrundlage) in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Force Majeure und § 313 BGB (Wegfall der Geschäftsgrundlage)

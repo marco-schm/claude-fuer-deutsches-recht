@@ -1,6 +1,6 @@
 ---
 name: sozialgerichtsbarkeit-geschichte
-description: "Deutsche Rechtsgeschichte: Geschichte der Sozialgerichtsbarkeit. Entstehung der Sozialversicherung 1883-1889, Spruchkoerper der Sozialversicherung, Sozialgerichtsgesetz 1953 und Bundessozialgericht seit 1954 im Deutsche Rechtsgeschichte."
+description: "Wenn es um Sozialgerichtsbarkeit Geschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sozialgerichtsbarkeit Geschichte

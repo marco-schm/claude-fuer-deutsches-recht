@@ -1,6 +1,6 @@
 ---
 name: absolute-grenze-wesensgehalt-art-19-ii-gg
-description: "Wesensgehaltsgarantie Art 19 II GG als absolute Grenze der Verhältnismäßigkeit. Mit objektiv-relativem und subjektiv-absolutem Verstaendnis, Beispielen aus der BVerfG-Rspr und der dogmatischen Bruecke zum Uebermassverbot und zur Menschenwuerde."
+description: "Wenn es um Absolute Grenze: Wesensgehalt Art 19 II GG in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Absolute Grenze: Wesensgehalt Art 19 II GG

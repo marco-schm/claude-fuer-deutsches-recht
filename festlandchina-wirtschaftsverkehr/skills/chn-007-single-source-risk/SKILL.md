@@ -1,6 +1,6 @@
 ---
 name: chn-007-single-source-risk
-description: "Festlandchina Wirtschaftsverkehr: Single Source Risk. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Single Source Risk in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Single Source Risk

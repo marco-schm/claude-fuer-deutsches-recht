@@ -1,6 +1,6 @@
 ---
 name: ingenieur-perspektive
-description: "HOAI-Praxis: ordnet TGA/Tragwerk/Ingenieurbau-Schnittstellen; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um HOAI Querschnitt: Ordnet tga/tragwerk/ingenieurbau-schnittstellen in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # HOAI Querschnitt: Ordnet tga/tragwerk/ingenieurbau-schnittstellen

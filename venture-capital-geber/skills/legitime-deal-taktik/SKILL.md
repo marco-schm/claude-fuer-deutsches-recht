@@ -1,6 +1,6 @@
 ---
 name: legitime-deal-taktik
-description: "Ordnet harte VC-Taktiken wie pro rata, veto, pay-to-play, bridge terms, information pressure und syndicate leverage rechtlich und ethisch ein im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Legitime Deal-Taktik und rote Linien in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Legitime Deal-Taktik und rote Linien

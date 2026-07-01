@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-vergaberecht
-description: "Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check: Normen: § 106 GWB (EU..."
+description: "Wenn es um Mandat Triage Vergaberecht in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check

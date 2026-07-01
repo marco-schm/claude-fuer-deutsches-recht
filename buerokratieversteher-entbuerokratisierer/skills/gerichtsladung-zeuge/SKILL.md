@@ -1,6 +1,6 @@
 ---
 name: gerichtsladung-zeuge
-description: "Erklärt Pflicht zum Erscheinen, Wahrheitspflicht, Auslagen, Zeugnisverweigerungsrechte und Risiken eines Rollenwechsels im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Gerichtsladung als Zeuge in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gerichtsladung als Zeuge

@@ -1,6 +1,6 @@
 ---
 name: salvatorische-klausel
-description: "Klausel-Fachmodul für Salvatorische Klausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um Salvatorische Klausel in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Salvatorische Klausel

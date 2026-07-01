@@ -1,6 +1,6 @@
 ---
 name: redaktionelle-rueckmeldung-formulieren
-description: "Formuliert Autoren-Rueckmeldungen kollegial und praezise: trennt klar Stops von Wuenschen vermeidet Praedigtton und gibt der Autorin handhabbare Aufgaben im Verlagsredaktion."
+description: "Wenn es um Redaktionelle Rueckmeldung formulieren in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Redaktionelle Rueckmeldung formulieren

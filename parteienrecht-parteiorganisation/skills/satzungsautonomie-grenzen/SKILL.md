@@ -1,6 +1,6 @@
 ---
 name: satzungsautonomie-grenzen
-description: "Erklärt, wo Partei frei regeln kann und wo PartG, Wahlrecht oder demokratische Mindeststandards Grenzen setzen."
+description: "Wenn es um Satzungsautonomie Grenzen in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Satzungsautonomie Grenzen

@@ -1,6 +1,6 @@
 ---
 name: infl-034-ugc-kampagne-rechte-der-follower
-description: "Influencer-Recht: UGC Kampagne Rechte der Follower mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: UGC Kampagne Rechte der Follower in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: UGC Kampagne Rechte der Follower

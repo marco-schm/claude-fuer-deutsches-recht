@@ -1,6 +1,6 @@
 ---
 name: bess-bimschg-und-4-bimschv
-description: "Prüft, ob Batteriespeicher immissionsschutzrechtlich genehmigungsbedürftig ist oder Nebenanlagen/Generatoren den Weg ändern im Energierecht."
+description: "Wenn es um BImSchG-Screening für Batteriespeicher in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # BImSchG-Screening für Batteriespeicher

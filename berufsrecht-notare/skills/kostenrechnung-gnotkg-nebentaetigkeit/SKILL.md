@@ -1,6 +1,6 @@
 ---
 name: kostenrechnung-gnotkg-nebentaetigkeit
-description: "Notare: kostenrechnung gnotkg beschwerde - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Kostenrechnung Gnotkg Nebentaetigkeit in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: kostenrechnung gnotkg beschwerde - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

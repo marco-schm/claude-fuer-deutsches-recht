@@ -1,6 +1,6 @@
 ---
 name: robotik-ki-anhang-iii-artikel-system
-description: "Prüft Anhang-III-Fälle bei Robotik: Beschäftigung, Bildung, Gesundheit/Versorgung, öffentliche Leistungen, Grenzkontrolle, Strafverfolgung und Justiznähe im Robotik-Recht."
+description: "Wenn es um Anhang III Robotik Use Cases in robotik-recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Robotik Ki Anhang Iii Artikel System; Arbeitsfeld: robotik-recht."
 ---
 
 # Anhang III Robotik Use Cases

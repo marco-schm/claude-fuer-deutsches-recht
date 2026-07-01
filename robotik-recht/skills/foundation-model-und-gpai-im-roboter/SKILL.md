@@ -1,6 +1,6 @@
 ---
 name: foundation-model-und-gpai-im-roboter
-description: "Prüft GPAI-/Foundation-Model-Komponenten im Roboter: Anbieterrolle, Integrationspflichten, Zweckbestimmung, Logging und Instructions."
+description: "Wenn es um GPAI im Roboter in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GPAI im Roboter

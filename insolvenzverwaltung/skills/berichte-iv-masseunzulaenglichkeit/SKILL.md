@@ -1,6 +1,6 @@
 ---
 name: berichte-iv-masseunzulaenglichkeit
-description: "Zwischenberichte Sachstandsberichte und Beschlussvorlagen für Insolvenzgericht Gläubiger­ausschuss und Gläubiger­versammlung erstellen. §§ 58 66 79 InsO Berichtspflichten. Prüfraster: Stichtag Massestand Tabelle Verwertung Prozesse Personal Steuern Risiken. Output: strukturierter Bericht Entschei..."
+description: "Wenn es um Berichte an Gericht und Gläubigerorgane in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berichte an Gericht und Gläubigerorgane

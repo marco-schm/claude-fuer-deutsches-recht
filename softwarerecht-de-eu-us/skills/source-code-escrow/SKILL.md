@@ -1,6 +1,6 @@
 ---
 name: source-code-escrow
-description: "Entwirft und prüft Source-Code-Escrow für kritische Software, Trigger, Verifikation, Buildfähigkeit und Herausgabe im Softwarerecht De Eu Us."
+description: "Wenn es um Source-Code-Escrow in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Source-Code-Escrow

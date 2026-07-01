@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-gesellschafterliste
-description: "Rechtsabteilungs-Fachmodul für Gesellschafterliste und Registerstreit: Liste, Legitimationswirkung, Widerspruch und Registersperre werden als Fristenplan bearbeitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Gesellschaftsrecht."
+description: "Wenn es um Rechtsabteilung: Gesellschafterliste und Registerstreit in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsabteilung: Gesellschafterliste und Registerstreit

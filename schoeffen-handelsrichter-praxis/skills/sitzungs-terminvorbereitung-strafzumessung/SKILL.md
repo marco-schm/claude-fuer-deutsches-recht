@@ -1,6 +1,6 @@
 ---
 name: sitzungs-terminvorbereitung-strafzumessung
-description: "Sitzungs- und Terminvorbereitung: erklärt bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Hande..."
+description: "Wenn es um Sitzungs- und Terminvorbereitung in Schöffen und Handelsrichter Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Sitzungs- und Terminvorbereitung

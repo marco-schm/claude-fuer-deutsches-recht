@@ -1,6 +1,6 @@
 ---
 name: energiepreiserhoehung-beweisplan-erste
-description: "Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Beweisplan erstellen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Energiepreiserhoehung Beweisplan Erste in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energiepreiserhoehung Beweisplan Erste

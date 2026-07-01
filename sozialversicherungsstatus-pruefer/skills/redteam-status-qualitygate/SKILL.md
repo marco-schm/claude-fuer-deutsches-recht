@@ -1,6 +1,6 @@
 ---
 name: redteam-status-qualitygate
-description: "Finaler Qualitätsfilter gegen Scheinsicherheit, Wunschdenken, falsche BSG-Zitate und fehlende Praxisbelege."
+description: "Wenn es um Red-Team Status Qualitygate in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team Status Qualitygate

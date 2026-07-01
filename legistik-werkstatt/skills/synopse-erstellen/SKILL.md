@@ -1,6 +1,6 @@
 ---
 name: synopse-erstellen
-description: "Synopse als Dreispalten-Tabelle bisheriges Recht neues Recht Änderungsbefehl erstellen. Anwendungsfall Ressortabstimmung Bundestag oder Bundesrat brauchen vergleichende Darstellung um Änderungen schnell zu erfassen. Pro geaendertem Paragrafen eine Zeile oder Block pro Stammgesetz eigene Synopse..."
+description: "Wenn es um Synopse erstellen in Legistik-Werkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Synopse erstellen

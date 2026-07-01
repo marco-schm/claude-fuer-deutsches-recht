@@ -1,6 +1,6 @@
 ---
 name: lksg-compliance-dokumentation-und-akte
-description: "Lksg: Compliance-Dokumentation und Aktenvermerk: Lksg: Compliance-Dokumentation und Aktenvermerk."
+description: "Wenn es um Lksg: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Internationales Wirtschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Lksg: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: sicherungslizenz-pfandrecht-an-immaterialguetern
-description: "Sicherungslizenz und Pfandrecht an Immaterialguetern: Verpfaendung von Patenten/Marken nach $$ 1273 ff. BGB analog; Sicherungsabtretung; aufschiebend bedingte Lizenz; Verwertung im Sicherungsfall; Eintragungsfaehigkeit DPMA."
+description: "Wenn es um Sicherungslizenz und Pfandrecht an Immaterialguetern in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sicherungslizenz und Pfandrecht an Immaterialguetern

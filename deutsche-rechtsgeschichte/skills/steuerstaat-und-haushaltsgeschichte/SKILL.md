@@ -1,6 +1,6 @@
 ---
 name: steuerstaat-und-haushaltsgeschichte
-description: "Deutsche Rechtsgeschichte: Steuerstaat und Haushaltsgeschichte. Matrikularbeitraege des Deutschen Bundes, Erzberger-Steuerreform 1919-1920, Reichsabgabenordnung, Finanzausgleich und GG Art. 105-108 im Deutsche Rechtsgeschichte."
+description: "Wenn es um Steuerstaat und Haushaltsgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerstaat und Haushaltsgeschichte

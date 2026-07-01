@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-interessenkollision-beratung-und-pruefung-or
-description: "Wirtschaftsprüfer: interessenkollision beratung und pruefung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Wirtschaftspruefer Interessenkollision Beratung Und Prüfung Or in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: interessenkollision beratung und pruefung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-strafrecht
-description: "Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechensaufbau (Tatbestand, Rechtswidrigkeit, Schuld), Trennung objektiver/subjektiver Tatbestand, Konkurrenzlehre (Tateinheit § 52, Tatmehrheit § 53, Gesetzeskonkurrenz), Analogieverbot Art. 103 II GG, Auslegung im Lichte des Bestimmtheitsg..."
+description: "Wenn es um Methodenlehre — Strafrecht in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Methodenlehre — Strafrecht

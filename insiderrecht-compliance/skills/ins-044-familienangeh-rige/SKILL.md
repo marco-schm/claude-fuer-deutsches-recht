@@ -1,6 +1,6 @@
 ---
 name: ins-044-familienangeh-rige
-description: "Spezialskill Insiderrecht fuer Familienangehörige: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Familienangehörige in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Familienangehörige

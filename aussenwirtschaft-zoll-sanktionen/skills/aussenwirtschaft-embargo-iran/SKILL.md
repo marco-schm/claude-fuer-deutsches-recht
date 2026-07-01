@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-iran
-description: "Vertiefter Skill fuer Embargo Iran. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: "Wenn es um Embargo Iran in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Embargo Iran

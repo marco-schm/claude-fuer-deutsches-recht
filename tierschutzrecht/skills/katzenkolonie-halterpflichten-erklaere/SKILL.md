@@ -1,6 +1,6 @@
 ---
 name: katzenkolonie-halterpflichten-erklaere
-description: "Katzenkolonie: Halterpflichten erklären im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Katzenkolonie Halterpflichten Erklaere in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Katzenkolonie Halterpflichten Erklaere

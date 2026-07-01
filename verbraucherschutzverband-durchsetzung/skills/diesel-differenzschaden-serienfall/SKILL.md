@@ -1,6 +1,6 @@
 ---
 name: diesel-differenzschaden-serienfall
-description: "Verbraucherzentrale: Diesel- und Fahrzeug-Serienfälle nach EuGH C-100/21 und BGH VIa ZR 335/21/533/21/1031/22 strukturieren; Differenzschaden, Anspruchsgruppen, Beweise, Verjährung und Vergleichsstrategie im Verbraucherverband-Durchsetzung."
+description: "Wenn es um VDG 106 Diesel Differenzschaden Serienfall in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # VDG 106 Diesel Differenzschaden Serienfall

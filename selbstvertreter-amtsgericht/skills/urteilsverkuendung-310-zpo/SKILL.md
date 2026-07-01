@@ -1,6 +1,6 @@
 ---
 name: urteilsverkuendung-310-zpo
-description: "Urteilsverkündung nach § 310 ZPO. Ende der muendlichen Verhandlung Verkündungs-Termin Zustellung schriftliches Urteil Tenor Form und Inhalt. Was Sie als Partei beim Termin und nach Verkündung erleben."
+description: "Wenn es um Urteilsverkuendung: So endet das Verfahren in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Urteilsverkuendung: So endet das Verfahren

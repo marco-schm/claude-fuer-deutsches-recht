@@ -1,6 +1,6 @@
 ---
 name: luft-024-airline-pfaendung-planen
-description: "Luftrecht und Flughafenrecht: Airline: Pfändung planen. Pfändung planen für Airline im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Airline Pfaendung Planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Airline Pfaendung Planen

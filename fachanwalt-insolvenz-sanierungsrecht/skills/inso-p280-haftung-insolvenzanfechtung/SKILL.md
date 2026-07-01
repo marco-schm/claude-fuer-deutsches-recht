@@ -1,6 +1,6 @@
 ---
 name: inso-p280-haftung-insolvenzanfechtung
-description: "§ 280 InsO (Haftung: Insolvenzanfechtung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung."
+description: "Wenn es um Paragraf 280 InsO (Haftung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 280 InsO (Haftung

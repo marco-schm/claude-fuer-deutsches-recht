@@ -1,6 +1,6 @@
 ---
 name: dual-licensing
-description: "Prüft Dual-Licensing-Geschäftsmodelle, OSS-Core, Commercial License, Contributor-Rechte und Copyleft-Hebel im Softwarerecht De Eu Us."
+description: "Wenn es um Dual Licensing in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dual Licensing

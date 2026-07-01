@@ -1,6 +1,6 @@
 ---
 name: bwa-vorlaeufiges-ergebnis-darstellung
-description: "Darstellung vorläufiges Ergebnis in Quartals- und Halbjahres-BWA. Anwendungsfall unterjaehrige BWA mit Vorlaeufigkeitsvermerk Bestand-Schaetzung noch nicht abgeschlossene Periodenabgrenzung. Methodik klare Trennung gebuchte versus geschaetzte Posten Hinweis-Pflichten gegenüber Mandant. Output BWA..."
+description: "Wenn es um Vorlaeufiges Ergebnis in der unterjaehrigen BWA in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorlaeufiges Ergebnis in der unterjaehrigen BWA

@@ -1,6 +1,6 @@
 ---
 name: kommunikation-familie-kosten-auslagen
-description: "Erklärt KDV ruhig gegenüber Familie und Umfeld ohne private Überoffenbarung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Kommunikation mit Familie in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunikation mit Familie

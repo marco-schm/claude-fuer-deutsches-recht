@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-koerperliche-vermoegensgefaehrdung-untreue
-description: "Konkrete Vermögensgefaehrdung als Schadensaequivalent bei Paragraph 266 StGB: BVerfG-Linie zur Bezifferbarkeit. Risikogeschaefte Schwarze Kassen Kreditvergabe Anlageentscheidung..."
+description: "Wenn es um Konkrete Vermögensgefaehrdung als Schadensaequivalent bei Paragraph 266 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konkrete Vermögensgefaehrdung als Schadensaequivalent bei Paragraph 266 StGB

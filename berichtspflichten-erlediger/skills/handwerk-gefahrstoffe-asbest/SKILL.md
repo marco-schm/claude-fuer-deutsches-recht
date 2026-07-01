@@ -1,6 +1,6 @@
 ---
 name: handwerk-gefahrstoffe-asbest
-description: "Handwerksbetriebe: Asbest-/Gefahrstoffarbeiten, Anzeigen, Sachkunde, Schutzmaßnahmen und Dokumentation im Berichtspflichten."
+description: "Wenn es um Handwerk: Asbest, Gefahrstoffe und Anzeigen in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Handwerk: Asbest, Gefahrstoffe und Anzeigen

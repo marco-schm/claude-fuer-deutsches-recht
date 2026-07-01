@@ -1,6 +1,6 @@
 ---
 name: inso-starug-planwerkstatt-start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Insolvenzplan Starug Planwerkstatt-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Sk..."
+description: "Wenn es um Insolvenzplan und StaRUG-Planwerkstatt — Allgemein in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Insolvenzplan und StaRUG-Planwerkstatt — Allgemein

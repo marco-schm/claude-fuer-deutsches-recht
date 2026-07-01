@@ -1,6 +1,6 @@
 ---
 name: kondiktion-bei-schwarzarbeit-und-illegalitaet
-description: "Bei illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Normen: §§ 134 und 817 BGB; SchwarzArbG. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, S..."
+description: "Wenn es um Kondiktion bei Schwarzarbeit und Illegalität in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kondiktion bei Schwarzarbeit und Illegalität

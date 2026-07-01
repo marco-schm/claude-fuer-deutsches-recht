@@ -1,6 +1,6 @@
 ---
 name: auftrag-und-unentgeltliche-taetigkeit
-description: "Prüft Auftrag §§ 662 ff. BGB, Weisungen, Auskunft, Rechenschaft, Aufwendungsersatz, Herausgabe und Kündigung."
+description: "Wenn es um Auftrag und unentgeltliche Tätigkeit in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auftrag und unentgeltliche Tätigkeit

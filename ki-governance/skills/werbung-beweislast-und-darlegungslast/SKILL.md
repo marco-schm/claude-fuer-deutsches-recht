@@ -1,6 +1,6 @@
 ---
 name: werbung-beweislast-und-darlegungslast
-description: "Werbung: Beweislast, Darlegungslast und Substantiierung: Werbung: Beweislast, Darlegungslast und Substantiierung."
+description: "Wenn es um Werbung: Beweislast, Darlegungslast und Substantiierung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Werbung: Beweislast, Darlegungslast und Substantiierung

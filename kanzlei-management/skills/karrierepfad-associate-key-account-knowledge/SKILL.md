@@ -1,6 +1,6 @@
 ---
 name: karrierepfad-associate-key-account-knowledge
-description: "Macht Erwartungen, Fachlichkeit, BD und Führung sichtbar. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Karrierepfad Associate Counsel Partner in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Karrierepfad Associate Counsel Partner

@@ -1,6 +1,6 @@
 ---
 name: 01-zustaendigkeit-und-zuteilung-familiensache
-description: "Prüfung Zuständigkeit Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG, örtliche Zuständigkeit Paragrafen 122-124 FamFG, Geschaeftsverteilung; Verbund Paragraf 137 FamFG bei Scheidung; Verfahrenskostenhilfe Paragraf 76 FamFG"
+description: "Wenn es um 01 Zuständigkeit und Zuteilung Familiensache in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 01 Zuständigkeit und Zuteilung Familiensache

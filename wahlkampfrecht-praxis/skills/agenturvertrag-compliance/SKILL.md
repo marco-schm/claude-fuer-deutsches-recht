@@ -1,6 +1,6 @@
 ---
 name: agenturvertrag-compliance
-description: "Wahlkampfrecht Praxis: Agentur-, Media- und Beratungsvertraege im Wahlkampf prüfen im Wahlkampfrecht."
+description: "Wenn es um Agenturvertrag Compliance in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agenturvertrag Compliance

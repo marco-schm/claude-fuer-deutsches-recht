@@ -1,6 +1,6 @@
 ---
 name: dsv-paragraf-203-stgb-berufsgeheimnis
-description: "Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach § 203 StGB: Behandelt: Ärzte; Rechtsanwälte; Steuerberater; Wirtschaftsprüfer; Psychotherapeuten; Sozialarbeiter;"
+description: "Wenn es um Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach Paragraf 203 StGB in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach § 203 StGB

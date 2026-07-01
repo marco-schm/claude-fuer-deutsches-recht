@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Fachanwalt Familienrecht: sortiert Heiratsurkunde, Scheidungsantrag, Vermögensauseinandersetzung, prüft Datum, Absender, Frist und Beweiswert (Einkommensnachweise, Vermögensauskunft); markiert Lücken; berücksichtigt Mandatsgeheimnis Paragraf 43a BRAO."
+description: "Wenn es um Dokumentenintake in Fachanwalt Familienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

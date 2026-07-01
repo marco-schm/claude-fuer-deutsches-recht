@@ -1,6 +1,6 @@
 ---
 name: schiffsverkauf-closing
-description: "Mandant schliesst Schiffsveraeusserung ab: MOA (Norwegian Saleform/Nipponsale) prufen; Closing-Bedingungen; Eigentumsuebergang (SchRG § 2); Flaggenwechsel; Loeschung alter Hypotheken (SchRG § 19); P&I-Abrechnung; Zertifikats-Ummeldung. FlaggRG §§ 3-5. Output: Closing-Checkliste und Übergabe-Prot..."
+description: "Wenn es um Schiffsverkauf Closing – Durchführung und Übergabe in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffsverkauf Closing – Durchführung und Übergabe

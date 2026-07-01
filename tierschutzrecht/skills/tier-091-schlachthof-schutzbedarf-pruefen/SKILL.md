@@ -1,6 +1,6 @@
 ---
 name: tier-091-schlachthof-schutzbedarf-pruefen
-description: "Tierschutzrecht: Schlachthof: Schutzbedarf prüfen. Schutzbedarf prüfen für Schlachthof im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schlachthof Schutzbedarf Pruefen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schlachthof Schutzbedarf Pruefen

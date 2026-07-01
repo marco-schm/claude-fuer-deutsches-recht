@@ -1,6 +1,6 @@
 ---
 name: db-024-stellenanzeigen-jobportal-und-datenabruf
-description: "Datenbankrecht: Stellenanzeigen Jobportal und automatisiertes Auslesen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Stellenanzeigen Jobportal und automatisiertes Auslesen in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Stellenanzeigen Jobportal und automatisiertes Auslesen

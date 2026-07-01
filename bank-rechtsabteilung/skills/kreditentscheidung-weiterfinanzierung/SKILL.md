@@ -1,6 +1,6 @@
 ---
 name: kreditentscheidung-weiterfinanzierung
-description: "Kreditentscheidung und Weiterfinanzierung: neue Auszahlung, Prolongation, Covenant-Bruch, Sanierungsphase, Risikovotum, Organpflichten und Dokumentation der Bankentscheidung prüfen im Bank-Rechtsabteilung."
+description: "Wenn es um Weiterfinanzierung in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Weiterfinanzierung

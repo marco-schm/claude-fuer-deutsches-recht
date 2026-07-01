@@ -1,6 +1,6 @@
 ---
 name: fachabteilung-briefing
-description: "Fachabteilung Briefing: steuert Business-Leute so briefen, dass Kanzlei keine unbrauchbaren oder gefährlichen Fakten bekommt zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Fachabteilung Briefing in Kanzlei-Mandant Lifecycle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachabteilung Briefing

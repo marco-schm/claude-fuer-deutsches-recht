@@ -1,6 +1,6 @@
 ---
 name: anw-stundung-erlass-vollstreckungsaufschub
-description: "Anträge auf Stundung Erlass und Vollstreckungsaufschub bei Zahlungsproblemen stellen. Anwendungsfall Mandant kann fällige Steuerschulden vorueber-gehend oder dauerhaft nicht zahlen Vollstreckung droht. Stundung erhebliche Haerte § 222 AO ohne Anspruchsgefaehrdung. Erlass aus persoenlichen oder sachlichen Billigkeitsgründen § 227 AO. Vollstreckungsaufschub bei unbilligem Vollstreckungserfolg § 258 AO Verzinsung bei Stundung § 234 AO. Output Antrag mit Begründung Sicherheitsleistung Ratenzahlungsplan. Abgrenzung zu anw-aussetzung-vollziehung AdV und anw-insolvenzreife-prüfung-17-19-inso."
+description: "Wenn es um Stundung Paragraf 222 AO / Erlass Paragraf 227 AO / Vollstreckungsaufschub Paragraf 258 AO in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stundung § 222 AO / Erlass § 227 AO / Vollstreckungsaufschub § 258 AO

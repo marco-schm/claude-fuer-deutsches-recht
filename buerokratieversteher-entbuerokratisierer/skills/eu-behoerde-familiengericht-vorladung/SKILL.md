@@ -1,6 +1,6 @@
 ---
 name: eu-behoerde-familiengericht-vorladung
-description: "Routet EU-Freizügigkeit, Berufsanerkennung, Binnenmarktproblem, SOLVIT und nationale Behörde im Bürokratie-Entbürokratisierung."
+description: "Wenn es um EU-Behörde und SOLVIT in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU-Behörde und SOLVIT

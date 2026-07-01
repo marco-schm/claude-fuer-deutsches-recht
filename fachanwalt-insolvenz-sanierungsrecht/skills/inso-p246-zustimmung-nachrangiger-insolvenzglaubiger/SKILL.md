@@ -1,6 +1,6 @@
 ---
 name: inso-p246-zustimmung-nachrangiger-insolvenzglaubiger
-description: "§ 246 InsO (Zustimmung nachrangiger Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 246 InsO (Zustimmung nachrangiger Insolvenzgläubiger) im Mandat prüfen: Normzweck, T..."
+description: "Wenn es um Inso P246 Zustimmung Nachrangiger Insolvenzglaubiger in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 246 InsO (Zustimmung nachrangiger Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

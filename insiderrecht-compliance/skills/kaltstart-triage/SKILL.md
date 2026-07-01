@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Kaltstart Insiderrecht im Insiderrecht und Compliance: Erzwingt eine prüfbare Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt."
+description: "Wenn es um Kaltstart Insiderrecht in Insiderrecht Compliance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Kaltstart Insiderrecht

@@ -1,6 +1,6 @@
 ---
 name: wortmarke-anmeldung-dpma
-description: "DPMA-Anmeldung einer Wortmarke: Mandant will Markennamen in Deutschland schützen. Normen: §§ 32 ff. MarkenG (Anmeldung), § 8 MarkenG (absolute Schutzhindernisse: fehlende Unterscheidungskraft, Freihaltebedürftigkeit, beschreibende Angaben). Prüfraster: Unterscheidungskraft, Freihaltebedürftigkeit..."
+description: "Wenn es um Wortmarken-Anmeldung beim DPMA in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wortmarken-Anmeldung beim DPMA

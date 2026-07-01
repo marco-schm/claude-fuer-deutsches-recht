@@ -1,6 +1,6 @@
 ---
 name: expert-calls-transkripte
-description: "Expert Calls und Transkript-Auswertung in M&A-Due-Diligence: DD-Team führt Experten-Interviews durch und will strukturierte Findings extrahieren. Normen: § 17 UWG (Geschäftsgeheimnis), DSGVO Art. 6, MAR Insider-Abgrenzung, Expert Network Compliance. Prüfraster: Insider-Risiko-Check, Wettbewerbsre..."
+description: "Wenn es um Expert Calls und Transkripte in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Expert Calls und Transkripte

@@ -1,6 +1,6 @@
 ---
 name: beschwerde-besoldung-zulagen-beurteilung
-description: "Beschwerde gegen Beurteilung und Laufbahnentscheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG i..."
+description: "Wenn es um Beschwerde gegen Beurteilung und Laufbahnentscheidung in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beschwerde gegen Beurteilung und Laufbahnentscheidung

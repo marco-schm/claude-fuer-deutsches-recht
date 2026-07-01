@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-sachsen-anhalt-schleswig-holstein
-description: "Prüft Schulrecht in Sachsen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder."
+description: "Wenn es um Schulgesetz Sachsen in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulgesetz Sachsen

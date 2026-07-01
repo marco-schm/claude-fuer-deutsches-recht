@@ -1,6 +1,6 @@
 ---
 name: bereicherung-bereicherungsausgleich
-description: "Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten nach § 822 BGB prüfen. Normen: § 822 BGB. Prüfraster: Unentgeltlichkeit der Weitergabe, Entreicherung des Erstempfängers, Subsidiarität des Drittanspruchs. Output: Prüfergebnis Anspruchskette Dritter. Abgrenzung: nic"
+description: "Wenn es um Bereicherung eines Dritten — Paragraf 822 BGB in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bereicherung Bereicherungsausgleich; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # Bereicherung eines Dritten — § 822 BGB

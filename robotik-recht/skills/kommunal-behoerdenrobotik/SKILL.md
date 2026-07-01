@@ -1,6 +1,6 @@
 ---
 name: kommunal-behoerdenrobotik
-description: "Prüft Robotik in Verwaltung, ÖPNV, Polizei-/Ordnungsnähe und öffentlichen Einrichtungen mit Grundrechts- und Vergabeblick im Robotik-Recht."
+description: "Wenn es um Kommunal- und Behördenrobotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kommunal Behoerdenrobotik; Arbeitsfeld: robotik-recht."
 ---
 
 # Kommunal- und Behördenrobotik

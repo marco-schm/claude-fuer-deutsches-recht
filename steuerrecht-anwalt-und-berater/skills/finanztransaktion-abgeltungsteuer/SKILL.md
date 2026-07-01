@@ -1,6 +1,6 @@
 ---
 name: finanztransaktion-abgeltungsteuer
-description: "Bearbeitung der Kapitaleinkuenfte und der Abgeltungsteuer — § 20 EStG § 32d EStG Antragsveranlagung Wahl Teileinkuenfteverfahren bei wesentlichen Beteiligungen. Anwendungsfall Anleger mit ggf. anrechenbarer Quellensteuer oder Beteiligungsanteilen ueber 1 Prozent moechte Veranlagung optimieren. Be..."
+description: "Wenn es um Abgeltungsteuer und Kapitaleinkuenfte — Paragraf 32d EStG und Teileinkuenfteverfahren in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Abgeltungsteuer und Kapitaleinkuenfte — § 32d EStG und Teileinkuenfteverfahren

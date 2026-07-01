@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-sonderpruefung-insiderrecht
-description: "Prüft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht im Insiderrecht Compliance."
+description: "Wenn es um Aufsichtsrats-Sonderprüfung – Insiderrecht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Aufsichtsrats-Sonderprüfung – Insiderrecht

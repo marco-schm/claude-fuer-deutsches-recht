@@ -1,6 +1,6 @@
 ---
 name: kaltstart-institutionensystem
-description: "Römisches Recht: Systemüberblick nach Gaius Inst. 1.8 (personae, res, actiones), Corpus Iuris Civilis (Institutiones, Digesta, Codex, Novellae) - Einstieg in Quellen, Epochen und Methodik."
+description: "Wenn es um Kaltstart: Das Institutionensystem des römischen Rechts in Römisches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart: Das Institutionensystem des römischen Rechts

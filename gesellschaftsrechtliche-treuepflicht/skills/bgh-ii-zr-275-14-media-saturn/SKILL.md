@@ -1,6 +1,6 @@
 ---
 name: bgh-ii-zr-275-14-media-saturn
-description: "Gesellschaftsrechtliche Treuepflicht: BGH II ZR 275 14 Media Saturn; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um BGH II ZR 275 14 Media Saturn in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # BGH II ZR 275 14 Media Saturn

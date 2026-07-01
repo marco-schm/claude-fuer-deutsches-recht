@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-hamburg
-description: "Prüft Schulrecht in Hamburg mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder."
+description: "Wenn es um Schulgesetz Hamburg in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulgesetz Hamburg

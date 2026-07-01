@@ -1,6 +1,6 @@
 ---
 name: risikoregister-sachverstaendigen-pruefung
-description: "HOAI LPH 6 Vorbereitung der Vergabe: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 6 Vorbereitung der Vergabe: Baut risiko- in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Baut risiko-

@@ -1,6 +1,6 @@
 ---
 name: notarielle-verwahrung-von-daten-rechtsprechungscheck
-description: "Notare: notarielle verwahrung von daten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Notarielle Verwahrung Von Daten Rechtsprechungscheck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: notarielle verwahrung von daten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-russland
-description: "EU-Russland-Sanktionsregime: VO (EU) 833/2014 (Sektoral/Gueter) und VO (EU) 269/2014 (Finanzsanktionen). Verbotene Gueter (Anhaenge VO 833/2014), No-Russia-Clause Art. 12g, Dienstleistungsverbote (Art. 5n), Umgehungsverbot. Catch-All und Red-Flags. Mandant prüft Lieferkette auf Russland-Kontamin..."
+description: "Wenn es um Embargo Russland: Sektoralsanktionen und Umgehungsverbote in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Embargo Russland: Sektoralsanktionen und Umgehungsverbote

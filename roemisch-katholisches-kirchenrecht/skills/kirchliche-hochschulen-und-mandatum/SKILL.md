@@ -1,6 +1,6 @@
 ---
 name: kirchliche-hochschulen-und-mandatum
-description: "Kirchliche Hochschulen und Mandatum: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Wenn es um Kirchliche Hochschulen und Mandatum in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kirchliche Hochschulen und Mandatum

@@ -1,6 +1,6 @@
 ---
 name: kg-haftung-ohg-vertretung
-description: "Prüft Außenhaftung, Einlage, Rückzahlung, Registerpublizität und Wiederaufleben im Handelsrecht Hgb."
+description: "Wenn es um Kommanditistenhaftung Paragrafen 171. 172 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommanditistenhaftung §§ 171, 172 HGB

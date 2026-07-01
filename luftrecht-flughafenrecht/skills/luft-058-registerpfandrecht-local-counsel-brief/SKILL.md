@@ -1,6 +1,6 @@
 ---
 name: luft-058-registerpfandrecht-local-counsel-brief
-description: "Luftrecht und Flughafenrecht: Registerpfandrecht: Local Counsel briefen. Local Counsel briefen für Registerpfandrecht im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Registerpfandrecht Local Counsel Brief in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Registerpfandrecht Local Counsel Brief

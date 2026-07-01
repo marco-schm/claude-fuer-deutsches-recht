@@ -1,6 +1,6 @@
 ---
 name: frequenzadverbien-pruefen
-description: Pruefung der Frequenzadverbien im Arbeitszeugnis als eigene Adverbklasse mit spezifischer Notenwirkung, die Haeufigkeit statt Qualitaet beschreibt und dadurch von Steigerungsadverbien abzugrenzen ist.
+description: "Wenn es um Frequenzadverbien pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Frequenzadverbien pruefen

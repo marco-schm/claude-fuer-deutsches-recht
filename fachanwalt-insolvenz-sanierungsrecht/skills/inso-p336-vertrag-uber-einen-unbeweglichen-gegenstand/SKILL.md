@@ -1,6 +1,6 @@
 ---
 name: inso-p336-vertrag-uber-einen-unbeweglichen-gegenstand
-description: "§ 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im Mandat prüfen: Normzweck,..."
+description: "Wenn es um Inso P336 Vertrag Uber Einen Unbeweglichen Gegenstand in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

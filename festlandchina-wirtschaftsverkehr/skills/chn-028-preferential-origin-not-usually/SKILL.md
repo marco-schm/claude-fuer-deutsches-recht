@@ -1,6 +1,6 @@
 ---
 name: chn-028-preferential-origin-not-usually
-description: "Festlandchina Wirtschaftsverkehr: Preferential Origin Not Usually. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Preferential Origin Not Usually in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Preferential Origin Not Usually

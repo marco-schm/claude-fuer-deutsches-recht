@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für JVEG-Kostenprüfer: trennt fehlende Tatsachen von fehlenden Belegen (SV-Rechnung, Reisekostenabrechnung, Stundennachweise), nennt pro Lücke Beweisthema, Beschaffungsweg (Gericht), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

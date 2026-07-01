@@ -1,6 +1,6 @@
 ---
 name: gdpr-fine-parallel
-description: "Koordiniert parallele DSGVO-Bußgeldverfahren mit Internal Investigations – Aufsichtsbehörden-Kommunikation, Selbstbelastungsschutz, Kooperation im Internal Investigations Praxis."
+description: "Wenn es um Parallele DSGVO-Bußgeldverfahren in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Parallele DSGVO-Bußgeldverfahren

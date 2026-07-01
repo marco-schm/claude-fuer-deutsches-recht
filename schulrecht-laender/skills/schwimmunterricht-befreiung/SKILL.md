@@ -1,6 +1,6 @@
 ---
 name: schwimmunterricht-befreiung
-description: "Prüft Schwimmunterricht, religiöse/gesundheitliche Gründe, Attest und Teilnahmepflicht im Schulrecht Länder."
+description: "Wenn es um Schwimmunterricht und Befreiung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schwimmunterricht und Befreiung

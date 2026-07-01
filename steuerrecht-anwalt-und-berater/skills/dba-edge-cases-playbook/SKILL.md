@@ -1,6 +1,6 @@
 ---
 name: dba-edge-cases-playbook
-description: "DBA-Edge-Case-Playbook für realistische Sonderlagen: doppelte Ansässigkeit, Home-Office, Betriebsstätte ohne Büro, Vertreterbetriebsstätte, Hybridgesellschaft, Quellensteuer, Pension, Stock Options, Künstler/Sportler, Immobiliengesellschaft, Wegzug und Dreieckssachverhalte."
+description: "Wenn es um DBA-Edge-Case-Playbook in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # DBA-Edge-Case-Playbook

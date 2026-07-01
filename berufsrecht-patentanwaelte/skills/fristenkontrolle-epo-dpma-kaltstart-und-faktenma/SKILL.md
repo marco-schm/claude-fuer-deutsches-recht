@@ -1,6 +1,6 @@
 ---
 name: fristenkontrolle-epo-dpma-kaltstart-und-faktenma
-description: "Patentanwälte: fristenkontrolle epo dpma - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Fristenkontrolle Epo Dpma Kaltstart Und Faktenma in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: fristenkontrolle epo dpma - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

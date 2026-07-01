@@ -1,6 +1,6 @@
 ---
 name: spezial-richtlinie-red-team-und-qualitaetskontrolle
-description: "Richtlinie: Red-Team und Qualitätskontrolle im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Richtlinie: Red-Team und Qualitätskontrolle in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Richtlinie: Red-Team und Qualitätskontrolle

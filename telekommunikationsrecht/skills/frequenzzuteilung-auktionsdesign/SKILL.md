@@ -1,6 +1,6 @@
 ---
 name: frequenzzuteilung-auktionsdesign
-description: "Frequenzzuteilung, Vergabeverfahren, Auktionsdesign, Versorgungsauflagen, Nebenbestimmungen und Rechtsschutz im Telekommunikationsrecht."
+description: "Wenn es um Frequenzzuteilung und Auktionen in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frequenzzuteilung und Auktionen

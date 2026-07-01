@@ -1,6 +1,6 @@
 ---
 name: klausel-mindestlizenzen-meldungen-audit
-description: "Mindestlizenzen, Reporting, Audit-Recht: Berichtspflichten quartalsweise, jaehrliche Prüfer-Audit, Strafzinsen bei Verzug, Beschraenkung Audit-Frequenz. Mit Mustertext und Eskalationsstufen."
+description: "Wenn es um Klausel Mindestlizenzen, Meldungen, Audit in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Klausel Mindestlizenzen, Meldungen, Audit

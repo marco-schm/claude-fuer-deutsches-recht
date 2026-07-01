@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-rheinland-pfalz-dschpflg
-description: "Denkmalschutzrecht Rheinland-Pfalz nach dem Denkmalschutz- und -pflegegesetz Rheinland-Pfalz. Skill bündelt zuständige Behörden (Ministerium des Innern und für Sport; Generaldirektion Kulturelles Erbe Rheinland-Pfalz; Untere Denkmalbehörden bei den Landkreisen und kreisfreien Städten) und die Bedeutung des Rheinland-Pfalz-Beschlusses BVerfGE 100 Seite 226 als verfassungsrechtliche Leitentscheidung zum Denkmalschutz."
+description: "Wenn es um Denkmalschutz Rheinland-Pfalz (DSchPflG) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Rheinland-Pfalz (DSchPflG)

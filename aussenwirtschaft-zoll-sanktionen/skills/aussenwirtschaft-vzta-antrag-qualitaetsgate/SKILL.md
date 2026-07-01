@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-vzta-antrag-qualitaetsgate
-description: "Vertiefter Skill fuer VZTA Antrag Qualitaetsgate. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: "Wenn es um VZTA Antrag Qualitaetsgate in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VZTA Antrag Qualitaetsgate

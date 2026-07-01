@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-reihenfolge-bausteine-schriftsatz-brief-memo
-description: "Dieses Skill definiert die methodisch optimale Reihenfolge und Bausteinstruktur für juristische Schriftsätze, anwaltliche Briefe und interne Rechtsmemos. Es zeigt, wie die Gliederung eines Schriftsatzes die Überzeugungskraft maximiert, welche Standardbausteine für Klageschriften, Klageerwiderunge..."
+description: "Wenn es um Reihenfolge und Bausteine für Schriftsatz, Brief und Memo in Methodenlehre bürgerliches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Reihenfolge und Bausteine für Schriftsatz, Brief und Memo

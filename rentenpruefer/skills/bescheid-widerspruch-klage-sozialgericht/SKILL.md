@@ -1,6 +1,6 @@
 ---
 name: bescheid-widerspruch-klage-sozialgericht
-description: "Führt vom Rentenbescheid über Widerspruch und Widerspruchsbescheid bis zur Klage vor dem Sozialgericht: Fristen, Anträge, Akteneinsicht, Beweise und Schriftsatzkern."
+description: "Wenn es um Bescheid Widerspruch Klage Sozialgericht in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bescheid Widerspruch Klage Sozialgericht

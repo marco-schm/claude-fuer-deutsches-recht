@@ -1,6 +1,6 @@
 ---
 name: closing-handelregister-einstweiliger
-description: "Prüft CP/CS, Eintragungsabhängigkeiten, Vollzugsreihenfolge, Escrow, Notarbestätigung und Bring-down im Handelsregister Praxis."
+description: "Wenn es um Registervollzug im Closing in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registervollzug im Closing

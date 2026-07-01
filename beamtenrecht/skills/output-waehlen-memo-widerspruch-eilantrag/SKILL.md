@@ -1,6 +1,6 @@
 ---
 name: output-waehlen-memo-widerspruch-eilantrag
-description: "Output-Navigator: Mandantenbrief, Behördenanschreiben, Widerspruch, Klage, Eilantrag, Gegenvorstellung, Remonstration oder Verhandlungsnotiz."
+description: "Wenn es um Output Wählen Memo Widerspruch Eilantrag in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Output Wählen Memo Widerspruch Eilantrag

@@ -1,6 +1,6 @@
 ---
 name: rehabilitations-exoskelett-remote-update
-description: "Prüft Reha-Roboter und Exoskelette: Medizinprodukt, Arbeitsschutz, Körpernähe, Training, Fehlbedienung und Kostenträger-Schnittstelle im Robotik-Recht."
+description: "Wenn es um Reha- und Exoskelett-Robotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Reha- und Exoskelett-Robotik

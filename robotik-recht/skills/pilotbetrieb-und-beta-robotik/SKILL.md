@@ -1,6 +1,6 @@
 ---
 name: pilotbetrieb-und-beta-robotik
-description: "Prüft Pilot-/Beta-Betrieb mit Kunden: Haftung, Datenschutz, Kennzeichnung, Verantwortung, Abbruchkriterien und Lessons Learned."
+description: "Wenn es um Pilotbetrieb und Beta Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pilotbetrieb und Beta Robotik

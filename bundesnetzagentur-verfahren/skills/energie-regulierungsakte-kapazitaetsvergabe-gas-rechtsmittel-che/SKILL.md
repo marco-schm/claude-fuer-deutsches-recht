@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-kapazitaetsvergabe-gas-rechtsmittel-che
-description: "Kapazitätsvergabe Gas: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: Kapazitätsvergabe Gas — Rechtsmittel-Check in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: Kapazitätsvergabe Gas — Rechtsmittel-Check

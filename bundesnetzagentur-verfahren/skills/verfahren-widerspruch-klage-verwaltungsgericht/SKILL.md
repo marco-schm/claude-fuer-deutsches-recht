@@ -1,6 +1,6 @@
 ---
 name: verfahren-widerspruch-klage-verwaltungsgericht
-description: "Verfahren / Widerspruch Klage Verwaltungsgericht: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis im BNetzA-Verfahren."
+description: "Wenn es um Verfahren: Widerspruch Klage Verwaltungsgericht in Bundesnetzagentur-Verfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verfahren: Widerspruch Klage Verwaltungsgericht

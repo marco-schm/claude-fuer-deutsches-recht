@@ -1,6 +1,6 @@
 ---
 name: juristisches-schreiben
-description: "Juristisches Schreiben trainieren für Klausur und Seminararbeit: Anwendungsfall Student will Schreibstil verbessern und benoetigt Feedback zu Formulierungen Argumentationsstruktur und Praegnanz. Gutachtenstil, Lösungsschemata, Subsumtion Methodenlehre Buergerliches Recht. Prüfraster Satzstruktur..."
+description: "Wenn es um Juristisches Schreiben in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Juristische Schreibberatung

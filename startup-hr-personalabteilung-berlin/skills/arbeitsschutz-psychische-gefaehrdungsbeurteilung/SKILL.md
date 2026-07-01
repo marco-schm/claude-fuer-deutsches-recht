@@ -1,6 +1,6 @@
 ---
 name: arbeitsschutz-psychische-gefaehrdungsbeurteilung
-description: "Berliner Start-up-HR: Arbeitsschutz und psychische Gefährdungsbeurteilung: Start-up-gerecht, dokumentiert und ohne Wellness-Fassade. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Arbeitsschutz Psychische Gefaehrdungsbeurteilung in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsschutz Psychische Gefaehrdungsbeurteilung

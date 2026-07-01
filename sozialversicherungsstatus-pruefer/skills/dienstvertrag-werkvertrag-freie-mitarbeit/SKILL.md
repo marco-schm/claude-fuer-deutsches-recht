@@ -1,6 +1,6 @@
 ---
 name: dienstvertrag-werkvertrag-freie-mitarbeit
-description: "Prüft, wie Dienst- oder Werkvertragskonstruktionen statusrechtlich wirken und wo sie täuschen im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Dienst-/Werkvertrag im Statusrecht in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dienst-/Werkvertrag im Statusrecht

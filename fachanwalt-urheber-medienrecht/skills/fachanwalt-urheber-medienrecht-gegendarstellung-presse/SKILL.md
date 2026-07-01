@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-gegendarstellung-presse
-description: "Gegendarstellung Pressefreiheit § 11 BlnPresseG analog Landes-Presse-Gesetze. Voraussetzung Tatsachen-Behauptung Betroffener berechtigtes Interesse Frist 3 Monate. Verlangen schriftlich Form. Klage AG / LG bei Verweigerung. Workflow Prüfung Schriftsatz Klage."
+description: "Wenn es um Gegendarstellung Presserecht in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gegendarstellung Presserecht

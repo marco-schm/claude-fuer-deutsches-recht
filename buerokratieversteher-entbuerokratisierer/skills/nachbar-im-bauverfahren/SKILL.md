@@ -1,6 +1,6 @@
 ---
 name: nachbar-im-bauverfahren
-description: "Erklärt Nachbarrechte, Akteneinsicht, Einwendungen, Frist, Rücksichtnahme und Widerspruch/Klage im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Nachbar im Bauverfahren in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachbar im Bauverfahren

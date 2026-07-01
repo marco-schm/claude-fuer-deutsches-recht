@@ -1,6 +1,6 @@
 ---
 name: plan-abstimmung-anlagenpaket
-description: "Abstimmungsmehrheiten für Insolvenzplan und StaRUG-Plan simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Kopf- und Summenmehrheit §§ 25 26 StaRUG Klassenmehrheit. Prüfraster: Stimmberechtigte Forderungshoehen Ausfallwerte bestrittene Rechte Ablehnungsszenarien. Output: Abstimmungsrec..."
+description: "Wenn es um IV-integrierte Abstimmung und Mehrheiten in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IV-integrierte Abstimmung und Mehrheiten

@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefen-mehrparteien-konflikt-und-interessen
-description: "Pruefen: Mehrparteienkonflikt und Interessenmatrix im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Pruefen: Mehrparteienkonflikt und Interessenmatrix in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pruefen: Mehrparteienkonflikt und Interessenmatrix

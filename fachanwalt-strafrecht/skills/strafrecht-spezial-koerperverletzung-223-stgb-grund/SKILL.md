@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-koerperverletzung-223-stgb-grund
-description: "Koerperverletzung nach § 223 StGB Grundtatbestand: Praxisleitfaden zu koerperlicher Misshandlung und Gesundheitsschaedigung. Strafantrag § 230 StGB. Einwilligung § 228 StGB. Versuch ist strafbar. Abgrenzung..."
+description: "Wenn es um Koerperverletzung nach Paragraf 223 StGB Grundtatbestand in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Koerperverletzung nach § 223 StGB Grundtatbestand

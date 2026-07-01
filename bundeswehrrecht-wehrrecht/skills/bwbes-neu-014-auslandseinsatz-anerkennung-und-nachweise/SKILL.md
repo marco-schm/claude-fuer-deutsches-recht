@@ -1,6 +1,6 @@
 ---
 name: bwbes-neu-014-auslandseinsatz-anerkennung-und-nachweise
-description: "Bundeswehrrecht: Auslandseinsatz Anerkennung und Nachweise mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Bundeswehrrecht: Auslandseinsatz Anerkennung und Nachweise in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bundeswehrrecht: Auslandseinsatz Anerkennung und Nachweise

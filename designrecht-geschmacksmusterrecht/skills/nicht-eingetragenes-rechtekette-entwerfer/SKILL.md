@@ -1,6 +1,6 @@
 ---
 name: nicht-eingetragenes-rechtekette-entwerfer
-description: "Nicht eingetragenes EU-Design prüfen: erste Offenbarung in der EU, dreijähriger Schutz, Nachahmungsnachweis, Beweisprobleme und Verhältnis zur späteren Anmeldung im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Nicht Eingetragenes Eu Design in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Nicht Eingetragenes Eu Design

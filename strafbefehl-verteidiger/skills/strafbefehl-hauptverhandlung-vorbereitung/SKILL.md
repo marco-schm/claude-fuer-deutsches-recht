@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-hauptverhandlung-vorbereitung
-description: "Hauptverhandlung nach § 411 StPO bei Einspruch. Termin Vorbereitungspflichten. Beweisanträge § 244 StPO. Einlassung oder Schweigen. Strafzumessung § 46 StGB. Befangenheitsantrag § 24 StPO. Entbindung von Erscheinungspflicht § 411 Abs. 2 StPO. Schlussvortrag § 258 StPO im Strafbefehl Verteidiger."
+description: "Wenn es um Hauptverhandlung nach Einspruch — Paragraf 411 StPO in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Hauptverhandlung nach Einspruch — § 411 StPO

@@ -1,6 +1,6 @@
 ---
 name: presseanfrage-antwortleiter
-description: "Wahlkampfrecht Praxis: Presseanfragen in Sofortantwort, Hintergrund, Kein-Kommentar und Rechtspruefung sortieren im Wahlkampfrecht."
+description: "Wenn es um Presseanfrage Antwortleiter in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Presseanfrage Antwortleiter

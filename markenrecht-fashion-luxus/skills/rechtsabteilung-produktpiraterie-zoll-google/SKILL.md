@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-produktpiraterie-zoll-google
-description: "Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf Tätigwerden AWA). Prüfraster: AWA-Antrag bei Zollbehoerden, IP-Enforcement-Database Eint..."
+description: "Wenn es um Produktpiraterie und Zollbeschlagnahme in markenrecht-fashion-luxus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Produktpiraterie und Zollbeschlagnahme

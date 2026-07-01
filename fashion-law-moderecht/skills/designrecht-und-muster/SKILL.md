@@ -1,6 +1,6 @@
 ---
 name: designrecht-und-muster
-description: "Designrecht für Kollektionen, Accessoires, Prints und Produktformen prüfen: Registerdesign, nicht eingetragenes EU-Design, Offenbarung, Saisonware und Copycats im Fashion Law Moderecht."
+description: "Wenn es um Designrecht Und Muster in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Designrecht Und Muster

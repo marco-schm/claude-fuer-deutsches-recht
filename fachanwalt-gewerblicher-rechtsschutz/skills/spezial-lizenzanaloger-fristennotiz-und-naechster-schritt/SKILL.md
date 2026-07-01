@@ -1,6 +1,6 @@
 ---
 name: spezial-lizenzanaloger-fristennotiz-und-naechster-schritt
-description: "Lizenzanaloger: Fristennotiz und nächster Schritt im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Lizenzanaloger: Fristennotiz und nächster Schritt in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lizenzanaloger: Fristennotiz und nächster Schritt

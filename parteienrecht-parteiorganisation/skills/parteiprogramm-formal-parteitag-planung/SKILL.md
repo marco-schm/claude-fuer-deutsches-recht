@@ -1,6 +1,6 @@
 ---
 name: parteiprogramm-formal-parteitag-planung
-description: "Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung im Parteienrecht."
+description: "Wenn es um Parteiprogramm formal in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Parteiprogramm Formal Parteitag Planung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Parteiprogramm formal

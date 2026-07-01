@@ -1,6 +1,6 @@
 ---
 name: hr-mail-an-mitarbeiter-konfliktarm
-description: "Berliner Start-up-HR: HR-Mail an Beschäftigte: freundlich, klar, rechtlich vorsichtig, keine Drohung, keine unnötigen Daten. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um HR Mail An Mitarbeiter Konfliktarm in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # HR Mail An Mitarbeiter Konfliktarm

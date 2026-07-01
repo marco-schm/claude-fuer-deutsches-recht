@@ -1,6 +1,6 @@
 ---
 name: simulation-bidder-process
-description: "Auktionsprozess und Bieter-Perspektive in M&A-Transaktionen simulieren: Verkaeufer-Kanzlei plant Bieter-Prozess oder Kaeufer bereitet NBO/BO vor. Normen: SPA, WpueG (Public M&A), Marktstandard M&A-Auktion. Prüfraster: Process Letter, Bieteranforderungen, NBO-Vergleich, Final Bid Instructions, Exk"
+description: "Wenn es um Simulation Bieter-Prozess in Corporate-Kanzlei geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Simulation Bidder Process; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # Simulation Bieter-Prozess

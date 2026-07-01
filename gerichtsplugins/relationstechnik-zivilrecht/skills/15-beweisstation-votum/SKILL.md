@@ -1,6 +1,6 @@
 ---
 name: 15-beweisstation-votum
-description: "Schriftliches Votum der Beweisstation: Streitpunkt, Erheblichkeit, Beweislast, Beweismittel, Beweisbeschluss, Würdigung und non-liquet-Folge."
+description: "Wenn es um 15 Beweisstation Votum in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 15 Beweisstation Votum

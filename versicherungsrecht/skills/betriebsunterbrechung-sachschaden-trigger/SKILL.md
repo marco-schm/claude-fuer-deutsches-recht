@@ -1,6 +1,6 @@
 ---
 name: betriebsunterbrechung-sachschaden-trigger
-description: "Betriebsunterbrechungsversicherung: versicherter Sachschaden als Trigger, Unterbrechungsschaden, Mehrkosten, Unterversicherung, Kausalität und Zeitraum im Versicherungsrecht."
+description: "Wenn es um Betriebsunterbrechung: Sachschaden-Trigger in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Betriebsunterbrechung: Sachschaden-Trigger

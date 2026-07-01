@@ -1,6 +1,6 @@
 ---
 name: ideenpool-priorisierung-impressum
-description: "Verwaltet einen Ideen-Backlog der Verlagsredaktion mit Priorisierungsmatrix, Zustandskategorien und Eskalationsregeln für entscheidungsreife Themen im Verlagsredaktion."
+description: "Wenn es um Ideenpool und Priorisierung in Verlagsredaktion geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Ideenpool und Priorisierung

@@ -1,6 +1,6 @@
 ---
 name: datenpanne-pruefungsakte-rechtsprechungschec
-description: "Wirtschaftsprüfer: datenpanne prüfungsakte - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Datenpanne Pruefungsakte Rechtsprechungschec in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: datenpanne prüfungsakte - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

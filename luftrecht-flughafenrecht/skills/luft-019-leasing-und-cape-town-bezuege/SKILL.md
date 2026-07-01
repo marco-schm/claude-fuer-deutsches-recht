@@ -1,6 +1,6 @@
 ---
 name: luft-019-leasing-und-cape-town-bezuege
-description: "Luftrecht und Flughafenrecht: Leasing und Cape-Town-Bezüge. Leasing und Cape-Town-Bezüge im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Leasing Und Cape Town Bezuege in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasing Und Cape Town Bezuege

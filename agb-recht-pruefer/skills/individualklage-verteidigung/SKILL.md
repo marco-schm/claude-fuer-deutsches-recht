@@ -1,6 +1,6 @@
 ---
 name: individualklage-verteidigung
-description: "Output- und Streit-Skill für Individualklage Verteidigung: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen."
+description: "Wenn es um Individualklage Verteidigung in AGB-Recht-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Individualklage Verteidigung

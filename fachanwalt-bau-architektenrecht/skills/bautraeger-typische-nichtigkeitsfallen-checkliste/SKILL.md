@@ -1,6 +1,6 @@
 ---
 name: bautraeger-typische-nichtigkeitsfallen-checkliste
-description: "Bautraeger typische Nichtigkeitsfallen und Erwerber-Strategie: Skill listet die haeufigsten Nichtigkeitstatbestaende und entwickelt Strategien für den Erwerber wann Nichtigkeit zu seinem Vorteil..."
+description: "Wenn es um Bautraeger typische Nichtigkeitsfallen und Erwerber-Strategie in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bautraeger typische Nichtigkeitsfallen und Erwerber-Strategie

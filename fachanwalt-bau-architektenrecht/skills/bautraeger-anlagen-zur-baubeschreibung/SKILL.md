@@ -1,6 +1,6 @@
 ---
 name: bautraeger-anlagen-zur-baubeschreibung
-description: "Anlagen zur Baubeschreibung beim Bautraegervertrag: Skill listet typische Anlagen Plaene Grundriss Schnitt Ansicht Wohnflaechenberechnung Energieausweis Teilungserklaerung. Folgen fehlender oder veralteter..."
+description: "Wenn es um Anlagen zur Baubeschreibung beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Anlagen zur Baubeschreibung beim Bautraegervertrag

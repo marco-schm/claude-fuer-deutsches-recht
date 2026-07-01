@@ -1,6 +1,6 @@
 ---
 name: beruht-verhandlung-vergleich-und-eskalation
-description: "Beruht: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Beruht: Verhandlung, Vergleich und Eskalation in diesem Spezialbereich geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Beruht: Verhandlung, Vergleich und Eskalation

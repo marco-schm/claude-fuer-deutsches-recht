@@ -1,6 +1,6 @@
 ---
 name: sanktion-akteneinsicht-49-owig-147-stpo
-description: "Datenschutzrecht-Brückenskill: Akteneinsicht § 49 OWiG und § 147 StPO: Behördenakte, Beschwerden, technische Anlagen, Bemessungsunterlagen und interne Vermerke auswerten. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschu..."
+description: "Wenn es um Akteneinsicht Paragraf 49 OWiG und Paragraf 147 StPO in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Akteneinsicht § 49 OWiG und § 147 StPO

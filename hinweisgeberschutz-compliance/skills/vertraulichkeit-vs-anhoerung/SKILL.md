@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-vs-anhoerung
-description: "Balanciert Vertraulichkeit mit Anhörungspflichten. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Vertraulichkeit Vs Anhoerung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertraulichkeit Vs Anhoerung

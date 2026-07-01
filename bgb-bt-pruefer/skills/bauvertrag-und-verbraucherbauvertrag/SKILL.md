@@ -1,6 +1,6 @@
 ---
 name: bauvertrag-und-verbraucherbauvertrag
-description: "Prüft Bauvertrag §§ 650a ff. BGB, Verbraucherbauvertrag, Abnahme, Mängel und Vergütung."
+description: "Wenn es um Bauvertrag und Verbraucherbauvertrag in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauvertrag und Verbraucherbauvertrag

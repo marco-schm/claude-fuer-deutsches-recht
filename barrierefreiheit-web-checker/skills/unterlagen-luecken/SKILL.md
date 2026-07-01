@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Barrierefreiheit Web BFSG/WCAG: trennt fehlende Tatsachen von fehlenden Belegen (Konformitätserklärung, Auditbericht, Screenshots), nennt pro Lücke Beweisthema, Beschaffungsweg (BFA (Bundesfachstelle Barrierefreiheit)), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: red-team-modernisierung
-description: "Römisches Recht: Red-Team-Analyse zur Modernisierung - Grenzen der röm.-rechtl. Analogie für heutige Rechtsfragen, methodische Risiken, Scheinlegalität durch selektive Zitation und Kritik der Pandektistik."
+description: "Wenn es um Red Team: Grenzen der Modernisierung des römischen Rechts in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red Team: Grenzen der Modernisierung des römischen Rechts

@@ -1,6 +1,6 @@
 ---
 name: bho-114-entlastung-praktisch-anwenden
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 114 Entlastung praktisch anwenden. BHO § 114 Entlastung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die e..."
+description: "Wenn es um Bho 114 Entlastung Praktisch Anwenden in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 114 Entlastung Praktisch Anwenden

@@ -1,6 +1,6 @@
 ---
 name: chef-briefing-ohne-datenschutzbruch
-description: "Berliner Start-up-HR: Briefing an Chefs/Chefinnen ohne Datenschutzbruch: Ampel, aggregierte Daten, erforderliche Details und klare Entscheidungsvorlage. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-..."
+description: "Wenn es um Chef Briefing Ohne Datenschutzbruch in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chef Briefing Ohne Datenschutzbruch

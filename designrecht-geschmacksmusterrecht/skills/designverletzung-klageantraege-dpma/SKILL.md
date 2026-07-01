@@ -1,6 +1,6 @@
 ---
 name: designverletzung-klageantraege-dpma
-description: "Klageanträge im Designrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Schadensersatzfeststellung, Anlagen und Bestimmtheit im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Designverletzung Klageantraege in designrecht-geschmacksmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Designverletzung Klageantraege

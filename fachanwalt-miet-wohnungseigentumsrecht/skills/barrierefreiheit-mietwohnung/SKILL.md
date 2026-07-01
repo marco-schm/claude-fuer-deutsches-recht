@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-mietwohnung
-description: "Barrierefreiheit Mietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft bauliche Veränderung, Sicherheit, Rückbau, Kosten; mit Normprüfung, Beweisen, Fristen, Risikoampe..."
+description: "Wenn es um Barrierefreiheit Mietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Barrierefreiheit Mietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht

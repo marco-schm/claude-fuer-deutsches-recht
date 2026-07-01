@@ -1,6 +1,6 @@
 ---
 name: need-to-know-empfaengerkreis
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Need To Know Empfaengerkreis; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Need To Know Empfaengerkreis in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Need To Know Empfaengerkreis

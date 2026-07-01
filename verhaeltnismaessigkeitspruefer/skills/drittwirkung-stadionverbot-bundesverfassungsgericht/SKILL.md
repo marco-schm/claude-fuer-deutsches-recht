@@ -1,6 +1,6 @@
 ---
 name: drittwirkung-stadionverbot-bundesverfassungsgericht
-description: Stadionverbot-Entscheidung BVerfGE 148 267 als seltenes Beispiel einer eingriffsaehnlichen Drittwirkung. Wo Private faktisch oeffentliche Funktionen wahrnehmen und einen monopolartigen Zugang gewaehren strahlen Grundrechte besonders stark in die Vertragsfreiheit ein. Verhältnismäßigkeit wird zum Prüfungsmassstab fuer Hausrechtsausuebung Plattformausschluesse und vergleichbare Konstellationen mit oeffentlicher Funktion.
+description: "Wenn es um Stadionverbot — Verhältnismäßigkeit zwischen Privaten bei oeffentlicher Funktion in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stadionverbot — Verhältnismäßigkeit zwischen Privaten bei oeffentlicher Funktion

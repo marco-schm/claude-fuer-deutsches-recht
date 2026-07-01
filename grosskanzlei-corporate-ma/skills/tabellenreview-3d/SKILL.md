@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-3d
-description: "3D-Tabellenreview M&A-Datenraum: Dokumente Datenpunkte und Perspektiven Recht/Steuer/Wirtschaft verbinden: Anwendungsfall Deal-Team prüft Datenraum-Dokumente systematisch mit internem Review-Cube nach mehreren Workstream-Perspektiven. SPA Due Diligence. Prüfraster Spaltenprompts für Datenpunkte,..."
+description: "Wenn es um 3D-Tabellenreview im Datenraum in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # 3D-Tabellenreview im Datenraum

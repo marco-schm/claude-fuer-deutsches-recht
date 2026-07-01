@@ -1,6 +1,6 @@
 ---
 name: workflow-unterlagen-lueckenliste
-description: "Unterlagen- und Lückenliste im Plugin zwangsverwaltung-zvg: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen."
+description: "Wenn es um Unterlagen- und Lückenliste in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Unterlagen- und Lückenliste

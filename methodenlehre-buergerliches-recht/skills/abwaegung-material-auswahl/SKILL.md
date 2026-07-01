@@ -1,6 +1,6 @@
 ---
 name: abwaegung-material-auswahl
-description: "Leitet durch die methodisch begründete Auswahl von Abwägungsmaterial im Zivilrecht. Das Skill zeigt, welche Fakten, Normen, Präjudizien und Wertungsgesichtspunkte in eine Abwägungsentscheidung einbezogen werden dürfen und welche ausgeblendet werden müssen. Es schützt vor willkürlicher Materialaus..."
+description: "Wenn es um Abwägung: Materialauswahl und Abwägungsgrundlagen in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abwägung: Materialauswahl und Abwägungsgrundlagen

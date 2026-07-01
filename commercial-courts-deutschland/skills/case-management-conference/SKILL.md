@@ -1,6 +1,6 @@
 ---
 name: case-management-conference
-description: "Bereitet Case-Management-Termin vor: issues list, timetable, evidence, confidentiality, settlement, transcript, language and hearing logistics im Commercial Courts Deutschland."
+description: "Wenn es um Case Management Conference in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Case Management Conference

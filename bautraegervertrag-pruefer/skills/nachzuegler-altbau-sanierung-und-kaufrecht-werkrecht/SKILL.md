@@ -1,6 +1,6 @@
 ---
 name: nachzuegler-altbau-sanierung-und-kaufrecht-werkrecht
-description: "Prüft Sonderfälle des Bauträgervertrags: Nachzügler nach Abnahme, vermietete Einheiten, Altbau- und Sanierungsobjekte, werkvertragliche Mängelrechte, Kaufrecht, § 650u BGB, § 634a BGB und Abnahmesicherung."
+description: "Wenn es um Nachzügler, Altbau, Sanierung und Kaufrecht/Werkrecht in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Nachzügler, Altbau, Sanierung und Kaufrecht/Werkrecht

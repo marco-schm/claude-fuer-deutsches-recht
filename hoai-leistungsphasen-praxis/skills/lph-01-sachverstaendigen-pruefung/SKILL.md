@@ -1,6 +1,6 @@
 ---
 name: lph-01-sachverstaendigen-pruefung
-description: "HOAI LPH 1 Grundlagenermittlung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 1 Grundlagenermittlung: Übersetzt den lph-stand in gutachterfragen und prüfspur in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # LPH 1 Grundlagenermittlung: Übersetzt den lph-stand in gutachterfragen und prüfspur

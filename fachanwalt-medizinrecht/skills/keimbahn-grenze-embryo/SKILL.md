@@ -1,6 +1,6 @@
 ---
 name: keimbahn-grenze-embryo
-description: "Keimbahn-Grenze und Embryonenschutz: moderner Medizinrechts-Skill für Keimbahneingriff, Embryonen-/Fortpflanzungsmedizin und rote Linien bei innovativer Therapie: Keimbahn-Grenze und Embryonenschutz: moderner Medizinrechts-Skill für Keimbahneingriff, Embryo..."
+description: "Wenn es um Keimbahn Grenze Embryo in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Keimbahn-Grenze und Embryonenschutz: moderner Medizinrechts-Skill für Keimbahneingriff, Embryonen-/Fortpflanzungsmedizin und rote Linien bei innovativer Therapie

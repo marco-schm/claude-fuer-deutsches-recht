@@ -1,6 +1,6 @@
 ---
 name: ethikkommission-forschung-exmatrikulation
-description: "Prüft Ethikkommission, Forschungsvorhaben und Verantwortung im Hochschulrecht Länder."
+description: "Wenn es um Ethikkommission Und Forschung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ethikkommission Und Forschung

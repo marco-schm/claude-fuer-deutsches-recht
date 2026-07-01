@@ -1,6 +1,6 @@
 ---
 name: verbraucherbauvertrag-650i-650u-widerruf-und-unterlagen
-description: "Trennt Verbraucherbauvertrag nach § 650i BGB vom Bauträgervertrag nach § 650u BGB: § 650l-Widerruf, § 650k Abs. 2/3 BGB, § 650n BGB, §§ 312 ff. BGB, Einzelgewerkvergabe und § 650f Abs. 6 BGB."
+description: "Wenn es um Verbraucherbauvertrag, Bauträgervertrag, Widerruf und Unterlagen in Bauträgervertrag-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Verbraucherbauvertrag, Bauträgervertrag, Widerruf und Unterlagen

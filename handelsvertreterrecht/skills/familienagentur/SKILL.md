@@ -1,6 +1,6 @@
 ---
 name: familienagentur
-description: "Prüft Besonderheiten der Familienhandelsvertretung: Mitarbeit von Familienangehörigen im Handelsvertreterbetrieb, arbeitsrechtliche Einordnung mitarbeitender Familienmitglieder, Haftung bei Familiengesellschaften, Übertragung der Agentur auf Familienangehörige und Auswirkungen auf Ausgleich und E..."
+description: "Wenn es um Familienhandelsvertretung — Mitarbeit von Angehörigen und Agenturübertragung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Familienhandelsvertretung — Mitarbeit von Angehörigen und Agenturübertragung

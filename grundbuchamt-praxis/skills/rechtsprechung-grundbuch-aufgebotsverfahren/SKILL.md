@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-grundbuch-aufgebotsverfahren
-description: "Verlangt bei jeder Entscheidung Gericht, Datum, Aktenzeichen und frei zugänglichen Link, sonst nur als Prüfbedarf ausgeben im Grundbuchamt Praxis."
+description: "Wenn es um Rechtsprechung live verifizieren in Grundbuchamt Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsprechung live verifizieren

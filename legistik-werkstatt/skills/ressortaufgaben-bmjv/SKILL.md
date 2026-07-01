@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmjv
-description: "Ressortaufgaben BMJV: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium der Justiz und für Verbraucherschutz. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-B..."
+description: "Wenn es um Ressortaufgaben BMJV in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressortaufgaben BMJV

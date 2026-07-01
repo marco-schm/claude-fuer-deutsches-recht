@@ -1,6 +1,6 @@
 ---
 name: management-rollover
-description: "Prüft Reinvestment des Managements, Bewertung, Finanzierung, Leaver, Vesting, Garantien und Interessenkonflikte im Private Equity Praxis."
+description: "Wenn es um Management Roll-over in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Management Roll-over

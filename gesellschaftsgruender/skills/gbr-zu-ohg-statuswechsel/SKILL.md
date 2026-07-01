@@ -1,6 +1,6 @@
 ---
 name: gbr-zu-ohg-statuswechsel
-description: "Prüft MoPeG-Statuswechsel von eGbR zu OHG/KG bei wachsendem Geschäftsbetrieb im Gesellschaftsgruender."
+description: "Wenn es um GbR zu OHG Statuswechsel in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GbR zu OHG Statuswechsel

@@ -1,6 +1,6 @@
 ---
 name: subsumtions-tatbestand-beweis-und-belege
-description: "Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage im Subsumtions Prüfer."
+description: "Wenn es um Subsumtion: Tatbestandsmerkmale, Beweisfragen und Beleglage in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Subsumtion: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: 13-strafbefehlsantrag-paragraf-407
-description: "Erstellt einen Strafbefehlsantrag nach Paragrafen 407 bis 408a StPO mit hinreichendem Tatverdacht, konkretem Tatvorwurf, zulässiger Rechtsfolge, Tagessatzprüfung und Einspruchsrisiko."
+description: "Wenn es um Strafbefehlsantrag nach Paragraf 407 StPO in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Strafbefehlsantrag nach Paragraf 407 StPO

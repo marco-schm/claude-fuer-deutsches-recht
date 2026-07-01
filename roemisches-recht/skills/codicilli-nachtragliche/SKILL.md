@@ -1,6 +1,6 @@
 ---
 name: codicilli-nachtragliche
-description: "Codicilli: nachtraegliche letztwillige Verfuegungen im roemischen Recht. Skill behandelt die ad-hoc-Form ihre Bindung an ein bestehendes Testament und die Bedeutung für Legate und Fideikommisse. Liefert Quellenmatrix."
+description: "Wenn es um Rom 148 Codicilli Und Nachtragliche Erbverfuegungen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Codicilli Nachtragliche; Arbeitsfeld: Römisches Recht."
 ---
 
 # Rom 148 Codicilli Und Nachtragliche Erbverfuegungen

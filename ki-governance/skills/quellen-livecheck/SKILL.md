@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Quellen-Live-Check für KI-Governance: prüft Normen (KI-VO EU 2024/1689, DSGVO, Produkthaftung) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt KI-Aufsichtsbehörde national und Quellenhygiene nach references/quellenhygiene.md."
+description: "Wenn es um Rechtsquellen-Livecheck in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsquellen-Livecheck

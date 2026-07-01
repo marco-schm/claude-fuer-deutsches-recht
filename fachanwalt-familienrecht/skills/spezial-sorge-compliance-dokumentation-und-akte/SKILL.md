@@ -1,6 +1,6 @@
 ---
 name: spezial-sorge-compliance-dokumentation-und-akte
-description: "Sorge: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Sorge: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sorge: Compliance-Dokumentation und Aktenvermerk

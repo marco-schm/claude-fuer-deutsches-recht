@@ -1,6 +1,6 @@
 ---
 name: antennen-satellitenschuessel
-description: "Satellitenschüssel/Antennen: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Informationsfreiheit, Optik, Alternativen, WEG/Miete; mit Normprüfung, Beweisen, Fristen, Risikoamp..."
+description: "Wenn es um Satellitenschüssel/Antennen: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Satellitenschüssel/Antennen: Fachmodul im Miet- und Wohnungseigentumsrecht

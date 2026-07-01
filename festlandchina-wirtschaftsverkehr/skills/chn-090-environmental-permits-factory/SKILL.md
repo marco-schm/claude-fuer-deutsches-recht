@@ -1,6 +1,6 @@
 ---
 name: chn-090-environmental-permits-factory
-description: "Festlandchina Wirtschaftsverkehr: Environmental Permits Factory. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Environmental Permits Factory in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Environmental Permits Factory

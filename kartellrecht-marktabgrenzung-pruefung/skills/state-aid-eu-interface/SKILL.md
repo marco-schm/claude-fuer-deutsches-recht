@@ -1,6 +1,6 @@
 ---
 name: state-aid-eu-interface
-description: "EU State Aid Schnittstelle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Beihilfen, IPCEI, Services of General Economic Interest und nationale Förderungen erkennen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzun..."
+description: "Wenn es um EU State Aid Schnittstelle in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU State Aid Schnittstelle

@@ -1,6 +1,6 @@
 ---
 name: status-navigator-einstieg
-description: "Einstiegs-Skill fuer den Status-Navigator: nimmt einen ungeordneten Dokumentenklumpatsch entgegen und liefert die ersten Antworten auf die zwei Kernfragen — was ist eigentlich los und was muss als Naechstes geschehen. Setzt den Rahmen fuer alle Folgeschritte und erzeugt eine erste grobe Bestandsa..."
+description: "Wenn es um Einstieg: Was haben wir und was muss geschehen in Plugin: status-navigator-step-plan geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg: Was haben wir und was muss geschehen

@@ -1,6 +1,6 @@
 ---
 name: umwelt-owi-frist-pruefen
-description: "Umwelt-OWi: Frist prüfen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Umwelt Owi Frist Prüfen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umwelt Owi Frist Prüfen

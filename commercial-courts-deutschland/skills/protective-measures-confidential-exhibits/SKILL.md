@@ -1,6 +1,6 @@
 ---
 name: protective-measures-confidential-exhibits
-description: "Plant Schutzmaßnahmen für vertrauliche Anlagen: redactions, confidentiality club, restricted access, sealed bundles und Verhandlungsorganisation im Commercial Courts Deutschland."
+description: "Wenn es um Confidential Exhibits in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Confidential Exhibits

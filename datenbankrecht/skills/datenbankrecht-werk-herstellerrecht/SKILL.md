@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-werk-herstellerrecht
-description: "'Einstiegs-Skill für Mandantenfälle im Datenbankrecht: Weichenstellung zwischen Datenbankwerk (§ 4 Abs. 2 UrhG) und sui-generis-Herstellerrecht (§§ 87a-87e UrhG / RL 96/9/EG). Erhebt Sachverhalt, klärt Schutzrichtung, benennt EuGH-Leitentscheidungen (BHB/William Hill C-203/02; Apis/Lakorda C-545/..."
+description: "Wenn es um Kaltstart Datenbankrecht: Werk oder Herstellerrecht? in Datenbankrecht und Datenbankherstellerrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kaltstart Datenbankrecht: Werk oder Herstellerrecht?

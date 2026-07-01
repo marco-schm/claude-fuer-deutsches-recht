@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-f-gase-ozonstoffe
-description: "Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) nach VO (EU) 517/2014 und ozonabbauende Stoffe nach VO (EG) 1005/2009: Quotensystem, F-Gas-Zertifizierungspflicht, Einfuhrgenehmigung beim Umweltbundesamt, TARIC-Sondervorschriften. Output: Einfuhr-Compliance-Prüfbericht und Genehmi..."
+description: "Wenn es um F-Gase und Ozonschutzstoffe: Einfuhrkontrolle und Quotenmanagement in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # F-Gase und Ozonschutzstoffe: Einfuhrkontrolle und Quotenmanagement

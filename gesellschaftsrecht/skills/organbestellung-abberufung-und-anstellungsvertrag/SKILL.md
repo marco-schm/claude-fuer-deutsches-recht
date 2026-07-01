@@ -1,6 +1,6 @@
 ---
 name: organbestellung-abberufung-und-anstellungsvertrag
-description: Trennt Organstellung und Dienstvertrag, prüft Bestellung, Abberufung, Kündigung, Vertretung, Registerfolge und Haftungsrisiken.
+description: "Wenn es um Organbestellung, Abberufung und Anstellungsvertrag in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Organbestellung, Abberufung und Anstellungsvertrag
 

@@ -1,6 +1,6 @@
 ---
 name: aufsatz-interessen
-description: "Aufsatz: Mehrparteienkonflikt und Interessenmatrix im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kri..."
+description: "Wenn es um Aufsatz: Mehrparteienkonflikt und Interessenmatrix in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aufsatz Interessen; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Aufsatz: Mehrparteienkonflikt und Interessenmatrix

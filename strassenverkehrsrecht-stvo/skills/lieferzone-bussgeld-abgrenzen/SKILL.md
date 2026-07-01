@@ -1,6 +1,6 @@
 ---
 name: lieferzone-bussgeld-abgrenzen
-description: "StVO: Lieferzone: Bußgeld abgrenzen. Buß im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Lieferzone Bussgeld Abgrenzen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lieferzone Bussgeld Abgrenzen

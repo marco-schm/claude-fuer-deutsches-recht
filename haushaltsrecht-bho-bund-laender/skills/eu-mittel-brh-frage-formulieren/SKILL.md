@@ -1,6 +1,6 @@
 ---
 name: eu-mittel-brh-frage-formulieren
-description: "Haushaltsrecht BHO Bund und Länder: EU-Mittel: BRH-Frage formulieren. BRH- im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Eu Mittel Brh Frage Formulieren in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eu Mittel Brh Frage Formulieren

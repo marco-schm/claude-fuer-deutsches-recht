@@ -1,6 +1,6 @@
 ---
 name: agency-distribution-franchise
-description: "Internationales Handelsrecht: Handelsvertreter, Vertriebsvertrag und Franchise im internationalen Vergleich. EU-Handelsvertreter-RL 86/653/EWG (Ausgleichsanspruch), Alleinvertrieb, Wettbewerbsverbot, Franchise-Disclosure und Kündigungsschutz im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Handelsvertreter, Vertriebsvertrag und Franchise in Internationales Handelsrecht und Lex Mercatoria geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Handelsvertreter, Vertriebsvertrag und Franchise

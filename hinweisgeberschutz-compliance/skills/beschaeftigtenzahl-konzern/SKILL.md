@@ -1,6 +1,6 @@
 ---
 name: beschaeftigtenzahl-konzern
-description: "Klärt Beschäftigtenzählung, Konzernlösung und gemeinsame Ressourcen im Hinweisgeberschutz Compliance."
+description: "Wenn es um Beschäftigtenzahl Konzern in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschäftigtenzahl Konzern

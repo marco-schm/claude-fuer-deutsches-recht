@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-freie-berufe-quellen-rspr-fristen
-description: "Quellen- und Rechtsprechungscheck: prüft verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Wenn es um Quellen- und Rechtsprechungscheck in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quellen- und Rechtsprechungscheck

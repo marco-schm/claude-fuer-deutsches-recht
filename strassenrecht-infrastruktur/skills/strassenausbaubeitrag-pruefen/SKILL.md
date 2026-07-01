@@ -1,6 +1,6 @@
 ---
 name: strassenausbaubeitrag-pruefen
-description: "Straßenrecht und Infrastruktur: Straßenausbaubeitrag prüfen. Straßenausbaubeitrag prüfen im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkma..."
+description: "Wenn es um Strassenausbaubeitrag Prüfen in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strassenausbaubeitrag Prüfen

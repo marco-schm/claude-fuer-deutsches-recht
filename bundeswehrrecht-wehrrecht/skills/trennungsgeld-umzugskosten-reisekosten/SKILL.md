@@ -1,6 +1,6 @@
 ---
 name: trennungsgeld-umzugskosten-reisekosten
-description: "Trennungsgeld, Umzugskosten, Reisekosten: prüft TGV, BUKG, BRKG im Bundeswehr-Kontext. Norm-/Quellenanker: TGV, BUKG, BRKG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Trennungsgeld, Umzugskosten und Reisekosten in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Trennungsgeld, Umzugskosten und Reisekosten

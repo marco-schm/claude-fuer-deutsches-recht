@@ -1,6 +1,6 @@
 ---
 name: due-diligence-legal
-description: "Legal Due Diligence: standardisierte Legal DD mit Findings, Materiality, Quellenbelegen, Human-in-the-loop und Red-Flag-Report für Share Deal und Asset Deal im Mittelstand Corporate Ma."
+description: "Wenn es um Legal Due Diligence in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Legal Due Diligence

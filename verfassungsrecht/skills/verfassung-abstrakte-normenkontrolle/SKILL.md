@@ -1,6 +1,6 @@
 ---
 name: verfassung-abstrakte-normenkontrolle
-description: "Abstrakte Normenkontrolle Art. 93 Abs. 1 Nr. 2 GG, §§ 76 ff. BVerfGG: Antragsteller (BReg, Landesregierung, ein Viertel BT-Mitglieder), Verfahrensgegenstand Bundes- oder Landesgesetz. Prüfraster im Verfassungsrecht."
+description: "Wenn es um Abstrakte Normenkontrolle in verfassungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abstrakte Normenkontrolle

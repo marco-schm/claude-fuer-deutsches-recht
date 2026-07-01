@@ -1,6 +1,6 @@
 ---
 name: ifggebv-gebuehren-klage-vorbereiten
-description: "Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Widerspruch bauen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Ifggebv Gebühren Widerspruch Bauen in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ifggebv Gebühren Widerspruch Bauen

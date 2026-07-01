@@ -1,6 +1,6 @@
 ---
 name: krisenkommunikation-shitstorm-und-richtigstellung
-description: "Influencer-Recht: Krisenkommunikation bei Shitstorm – rechtliche Grenzen, Richtigstellung, Löschpflichten, Widerruf und Persönlichkeitsrecht im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Krisenkommunikation – Shitstorm und Richtigstellung in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Influencer-Recht: Krisenkommunikation – Shitstorm und Richtigstellung

@@ -1,6 +1,6 @@
 ---
 name: kreisstrasse-kostenlast-pruefen
-description: "Kreisstraße: Kostenlast prüfen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kreisstrasse Kostenlast Prüfen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreisstrasse Kostenlast Prüfen

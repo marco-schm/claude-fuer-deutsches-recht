@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Berufsrechts-KI bei Vertragsprüfung: sortiert AVV-Vertrag, Mandatsvertrag, Datenschutzfolgeabschätzung, prüft Datum, Absender, Frist und Beweiswert (Tool-Dokumentation, Auftragsverarbeitungs-Verzeichnis); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in anwaltlichem Berufsrecht und Vertragsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-dokumentenmatrix-und-lueckenliste
-description: "Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung in Strafbefehl-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung

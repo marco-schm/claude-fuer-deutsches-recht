@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-art-82
-description: "Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art. 82 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Anspruchsvoraussetzungen; materieller und immaterieller Schaden; EuGH-Rechtsprechung (insbesondere Österreichische Post C-300/21; Saturn C-687/21); Substantiierungsan..."
+description: "Wenn es um Schadensersatz nach Art. 82 DSGVO — Verteidigung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schadensersatz nach Art. 82 DSGVO — Verteidigung

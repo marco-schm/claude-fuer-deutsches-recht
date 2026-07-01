@@ -1,6 +1,6 @@
 ---
 name: ladeinfrastruktur-spezial-vertragskette
-description: "Spezialfall Ladeinfrastruktur: Vertragskette Standortgeber, CPO, eMSP, Roaming-Hub. Rechte aus AFIR (Alternative Fuels Infrastructure Regulation), Anforderungen an Bezahlsysteme, Preis-Transparenz, ad-hoc-Laden. Mustertexte und typische Konflikte im Energierecht."
+description: "Wenn es um Ladeinfrastruktur-Vertragskette in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ladeinfrastruktur-Vertragskette

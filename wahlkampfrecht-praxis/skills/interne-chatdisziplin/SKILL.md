@@ -1,6 +1,6 @@
 ---
 name: interne-chatdisziplin
-description: "Wahlkampfrecht Praxis: interne Chats so briefen, dass sie nicht zur Brandquelle werden im Wahlkampfrecht."
+description: "Wenn es um Interne Chatdisziplin in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Interne Chatdisziplin

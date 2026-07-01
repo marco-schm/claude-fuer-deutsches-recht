@@ -1,6 +1,6 @@
 ---
 name: gesellschafterliste-compliance-dokumentation-und-akte
-description: "Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrech..."
+description: "Wenn es um Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk

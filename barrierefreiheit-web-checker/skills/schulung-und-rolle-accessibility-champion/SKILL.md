@@ -1,6 +1,6 @@
 ---
 name: schulung-und-rolle-accessibility-champion
-description: "Schulungsprogramm und Accessibility-Champion-Modell in der Organisation aufbauen: Rollendefinition, Aufgaben, Zeitbudget, Trainingsplan für Design, Entwicklung, QA, Content, Marketing. Prüfraster für Reifegrad und Schulungslevel im Barrierefreiheit Web Checker."
+description: "Wenn es um Schulung und Champion-Modell in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Schulung und Champion-Modell

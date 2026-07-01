@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-screening-tool-validierung
-description: "Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: Testfall-Design für SDN/EU-Konsolidierte-Liste, Trefferqualitaet (False Positives/Negatives), Fuzzy-Match-Schwellenwerte und Audit-Readiness nach BAFA- und Bankaufsichtsanforderungen. Bewertet ob das eingesetzte Tool die regulatori..."
+description: "Wenn es um Screening-Tool-Validierung: Trefferqualitaet und Audit-Readiness in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Screening-Tool-Validierung: Trefferqualitaet und Audit-Readiness

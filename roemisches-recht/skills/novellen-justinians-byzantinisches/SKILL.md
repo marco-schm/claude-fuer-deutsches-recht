@@ -1,6 +1,6 @@
 ---
 name: novellen-justinians-byzantinisches
-description: "Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche im Römisches Recht."
+description: "Wenn es um Rom Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki

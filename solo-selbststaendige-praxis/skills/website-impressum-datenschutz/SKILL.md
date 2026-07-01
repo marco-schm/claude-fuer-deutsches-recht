@@ -1,6 +1,6 @@
 ---
 name: website-impressum-datenschutz
-description: "Solo-Selbstständige: prüft Impressum, Datenschutzerklärung, Kontaktformular und Tracking; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Datenschutz IT und Website: Prüft impressum in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz IT und Website: Prüft impressum

@@ -1,6 +1,6 @@
 ---
 name: anti-bribery-and-gifts
-description: "Anti-Korruption und Geschenke im China-Geschäft: FCPA (US) bei US-Nexus, UK Bribery Act, § 299 StGB (DE), chinesisches Anti-Korruptionsrecht (Criminal Law Art. 391-396), Geschenke- und Bewirtungsrichtlinien, Red-Flag-Indikatoren, Whistleblower-Schutz, Behördliche Ermittlungen CN. Output: Anti-Br..."
+description: "Wenn es um Anti-Korruption China: FCPA/Paragraf 299 StGB/CN-Recht in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anti-Korruption China: FCPA/§ 299 StGB/CN-Recht

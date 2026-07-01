@@ -1,6 +1,6 @@
 ---
 name: lohn-sachbezuege-50-euro-freigrenze
-description: "Sachbezuege 50 EUR Freigrenze § 8 Abs 2 EStG. Anwendungsfall geldwerte Vorteile Gutscheine Sachgeschenke Aufmerksamkeiten Begründung steuerfrei wenn unter 50 EUR/Monat. Methodik Prüfung Sachbezugs-Typ Geldzuwendung-Abgrenzung Loyalitaetsprogramme. Output Sachbezugs-Abrechnung Dokumentation."
+description: "Wenn es um Sachbezuege — 50-EUR-Freigrenze Paragraf 8 Abs. 2 EStG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Sachbezuege — 50-EUR-Freigrenze § 8 Abs. 2 EStG

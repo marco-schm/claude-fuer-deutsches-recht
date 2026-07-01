@@ -1,6 +1,6 @@
 ---
 name: koordinierung-zwei
-description: "Koordinierung Forschungszulage mit anderen Foerderwegen: keine Doppelfoerderung derselben Kosten, aber Kombination ueber Modulgrenze hinweg (ZIM, IGF, Horizon Europe, Landesfoerderung). Prüfraster für Kostentrennung, Buchhaltung, Bescheinigungslogik. Vermeidung von Anrechnungsrisiken im Forschun..."
+description: "Wenn es um FZ: Foerderkoordinierung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # FZ: Foerderkoordinierung

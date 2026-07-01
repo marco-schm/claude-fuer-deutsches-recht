@@ -1,6 +1,6 @@
 ---
 name: personenreihenfolge-pruefen
-description: Pruefung der Reihenfolge der Bezugspersonen im Verhaltensabschnitt eines Arbeitszeugnisses als eigenstaendiger Berichtigungspunkt mit hoher Klagbarkeit bei Abweichung vom Standard Vorgesetzte vor Kollegen vor Kunden.
+description: "Wenn es um Personenreihenfolge pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Personenreihenfolge pruefen

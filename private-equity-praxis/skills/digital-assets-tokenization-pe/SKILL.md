@@ -1,6 +1,6 @@
 ---
 name: digital-assets-tokenization-pe
-description: "Prüft tokenisierte Beteiligungen, eWpG, MiCAR, Kryptoverwahrung und digitale Investor-Register im Private Equity Praxis."
+description: "Wenn es um Digital Assets und Tokenisierung in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digital Assets und Tokenisierung

@@ -1,6 +1,6 @@
 ---
 name: bmv-luft-und-luftverkehrsrecht
-description: "Sachbereich Luft- und Luftverkehrsrecht im Geschäftsbereich BMV: Normbestand (LuftVG; LuftVO; LuftBO; LuftVZO; LuftSiG; EU-VO 2018/1139.); Akteure (Luftfahrt-Bundesamt; BAF; DFS; EASA (EU).); EU-Bezug (EU-Luftverkehrs-VO; Single European Sky; EASA-Verordnung.); typische Legistik-Aufgaben und Pru..."
+description: "Wenn es um Luft- und Luftverkehrsrecht (BMV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Luft- und Luftverkehrsrecht (BMV)

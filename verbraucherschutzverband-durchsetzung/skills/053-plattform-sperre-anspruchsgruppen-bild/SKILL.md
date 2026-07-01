@@ -1,6 +1,6 @@
 ---
 name: 053-plattform-sperre-anspruchsgruppen-bild
-description: "Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Anspruchsgruppen bilden im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Plattform Sperre Anspruchsgruppen Bild in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Plattform Sperre Anspruchsgruppen Bild

@@ -1,6 +1,6 @@
 ---
 name: investorprofil-family-office-fonds-angel
-description: "Baut aus Herkunft des Geldes, Mandat, Risikoappetit, Ticketgröße, Haltedauer, Steuer, Reputation und Regulatorik ein VC-Investorprofil im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Investorprofil: Family Office, Fonds, Angel in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Investorprofil: Family Office, Fonds, Angel

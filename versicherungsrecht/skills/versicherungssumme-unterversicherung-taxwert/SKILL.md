@@ -1,6 +1,6 @@
 ---
 name: versicherungssumme-unterversicherung-taxwert
-description: "Versicherungssumme, Unterversicherung, gleitender Neuwert, Taxe, Summenausgleich und Vorsorgeversicherung prüfen im Versicherungsrecht."
+description: "Wenn es um Versicherungssumme, Unterversicherung und Taxwert in Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versicherungssumme, Unterversicherung und Taxwert

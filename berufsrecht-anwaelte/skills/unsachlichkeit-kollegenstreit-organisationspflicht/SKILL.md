@@ -1,6 +1,6 @@
 ---
 name: unsachlichkeit-kollegenstreit-organisationspflicht
-description: "Anwälte: unsachlichkeit kollegenstreit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Unsachlichkeit Kollegenstreit Organisationspflicht in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: unsachlichkeit kollegenstreit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

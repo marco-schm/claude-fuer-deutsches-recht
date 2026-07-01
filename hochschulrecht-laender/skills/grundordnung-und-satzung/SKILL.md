@@ -1,6 +1,6 @@
 ---
 name: grundordnung-und-satzung
-description: "Prüft Grundordnung, Satzungskompetenz und Bekanntmachung im Hochschulrecht Länder."
+description: "Wenn es um Grundordnung Und Satzung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundordnung Und Satzung

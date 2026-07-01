@@ -1,6 +1,6 @@
 ---
 name: npl-leasingforderungen-verkauf
-description: "NPL-Leasingforderungen: Definition, Bewertung, Verkaufsprozess, Inkasso, regulatorische Anforderungen und Restrukturierung im Leasingrecht."
+description: "Wenn es um NPL-Leasingforderungen: Verkauf und Restrukturierung in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NPL-Leasingforderungen: Verkauf und Restrukturierung

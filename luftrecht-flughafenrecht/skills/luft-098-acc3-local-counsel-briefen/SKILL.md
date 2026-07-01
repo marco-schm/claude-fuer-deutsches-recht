@@ -1,6 +1,6 @@
 ---
 name: luft-098-acc3-local-counsel-briefen
-description: "Luftrecht und Flughafenrecht: ACC3: Local Counsel briefen. Local Counsel briefen für ACC3 im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Acc3 Local Counsel Briefen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Acc3 Local Counsel Briefen

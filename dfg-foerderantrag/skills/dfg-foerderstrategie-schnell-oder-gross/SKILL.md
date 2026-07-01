@@ -1,6 +1,6 @@
 ---
 name: dfg-foerderstrategie-schnell-oder-gross
-description: "Strategischer DFG-Router: entscheidet zwischen kleiner schneller Sachbeihilfe, normalem Antrag über 200.000 Euro, Koselleck ab 500.000 Euro oder anderem DFG-Programm. Enthält Spatz-in-der-Hand-Logik, Kürzungsrisiko, Begutachtungsdichte und Zeitstrategie."
+description: "Wenn es um DFG-Förderstrategie: schnell, schlank oder groß? in DFG-Förderantrag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Dfg Foerderstrategie Schnell Oder Gross; Arbeitsfeld: DFG-Förderantrag."
 ---
 
 # DFG-Förderstrategie: schnell, schlank oder groß?

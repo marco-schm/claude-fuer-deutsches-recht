@@ -1,6 +1,6 @@
 ---
 name: muellsortierung-kosten
-description: "Müllsortierung/Kosten: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Fehlwürfe, Sonderkosten, Umlage, Abmahnung, Beweis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeits..."
+description: "Wenn es um Müllsortierung/Kosten: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Müllsortierung/Kosten: Fachmodul im Miet- und Wohnungseigentumsrecht

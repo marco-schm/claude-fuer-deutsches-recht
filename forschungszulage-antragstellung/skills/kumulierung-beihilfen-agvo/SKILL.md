@@ -1,6 +1,6 @@
 ---
 name: kumulierung-beihilfen-agvo
-description: "Kumulierung Forschungszulage mit anderen Förderungen und Beihilfen sauber prüfen: AGVO Art. 25, EU/EWR-Auftragsforschung, ZIM, BMBF-Programme, Landesprogramme, De-minimis-Nähe, Horizon, Doppelförderung, Nachweis- und Abzugslogik. Mit Kumulierungstabelle je Projekt und Höchstintensitäten je Katego..."
+description: "Wenn es um Kumulierung und Beihilfen (AGVO) in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kumulierung und Beihilfen (AGVO)

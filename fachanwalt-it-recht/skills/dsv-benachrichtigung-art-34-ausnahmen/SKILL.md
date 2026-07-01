@@ -1,6 +1,6 @@
 ---
 name: dsv-benachrichtigung-art-34-ausnahmen
-description: "Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art: 34 Abs. 3 DSGVO. Behandelt: lit. a technische und organisatorische Maßnahmen (insb. Verschlüsselung) die Daten unverständlich mache"
+description: "Wenn es um Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art

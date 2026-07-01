@@ -1,6 +1,6 @@
 ---
 name: fuersorgepflicht-mobbing-konflikt
-description: "Fürsorgepflicht, Mobbing, Konflikte, Überlastung und Schutzpflichten des Dienstherrn im Beamtenrecht."
+description: "Wenn es um Fürsorgepflicht Mobbing Konflikt in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fürsorgepflicht Mobbing Konflikt

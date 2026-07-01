@@ -1,6 +1,6 @@
 ---
 name: ins-026-produktzulassung
-description: "Spezialskill Insiderrecht fuer Produktzulassung: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Produktzulassung in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Produktzulassung

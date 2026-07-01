@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-mit-autor
-description: "Vergleichsverhandlung mit Autor: Aufbau einer Verhandlungslinie bei Honorar-, Tantieme- oder Rueckforderungsstreit, BATNA, Eskalationsstufen, schriftlicher Vergleich und Abgeltungsklausel im Verlagsredaktion."
+description: "Wenn es um Vergleichsverhandlung mit Autor in Verlagsredaktion geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleichsverhandlung mit Autor

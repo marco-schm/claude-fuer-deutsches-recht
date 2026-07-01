@@ -1,6 +1,6 @@
 ---
 name: missio-in-bona-praetorische-vermoegensergreifung
-description: "Missio in bona: praetorische Einweisung des Gläubigers in das Vermoegen des Schuldners. Skill behandelt die Voraussetzungen die Rolle des magister bonorum den Aufschub von 30 oder 60 Tagen sowie die Folge der bonorum venditio. Klaert das Verhältnis zur missio in possessionem rei servandae causa"
+description: "Wenn es um Rom 112 Missio In Bona Praetorische Vermögensergreifung in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 112 Missio In Bona Praetorische Vermögensergreifung

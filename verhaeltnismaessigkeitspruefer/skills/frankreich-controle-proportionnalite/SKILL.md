@@ -1,6 +1,6 @@
 ---
 name: frankreich-controle-proportionnalite
-description: Franzoesische Verhältnismäßigkeitsdogmatik des Conseil constitutionnel und des Conseil d Etat mit Triple Test des CE seit Ville Nouvelle Est Adequation Necessite Proportionnalite stricto sensu und dem QPC-Verfahren seit 2010. Mit Conciliation Argumentation des Conseil constitutionnel Erreur manifeste Plein contentieux Police und Hinweisen auf Strukturunterschiede zur deutschen Vier-Stufen-Prüfung und zur Rezeption ueber Art 6 EMRK und Charta.
+description: "Wenn es um Frankreich Controle de Proportionnalite in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Frankreich Controle de Proportionnalite

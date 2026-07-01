@@ -1,6 +1,6 @@
 ---
 name: drg-074-vergleich-brd-ddr-recht
-description: "Deutsche Rechtsgeschichte: Vergleich BRD DDR Recht. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Vergleich BRD DDR Recht in Deutsche Rechtsgeschichte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich BRD DDR Recht

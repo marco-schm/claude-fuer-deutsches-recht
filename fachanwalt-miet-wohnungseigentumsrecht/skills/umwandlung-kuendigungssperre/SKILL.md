@@ -1,6 +1,6 @@
 ---
 name: umwandlung-kuendigungssperre
-description: "Umwandlung/Kündigungssperre: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft § 577a BGB, Erwerber, Gebiet, Eigenbedarfssperre; mit Normprüfung, Beweisen, Fristen, Risikoampel u..."
+description: "Wenn es um Umwandlung/Kündigungssperre: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umwandlung/Kündigungssperre: Fachmodul im Miet- und Wohnungseigentumsrecht

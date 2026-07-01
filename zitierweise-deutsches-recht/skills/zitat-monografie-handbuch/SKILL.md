@@ -1,6 +1,6 @@
 ---
 name: zitat-monografie-handbuch
-description: "Monografie oder Handbuch nur bei vorliegender Quelle zitieren: Verfasser/Bearbeiter, Titel, Auflage/Stand, Jahr, Kapitel/Norm, Seite/Rn. Keine Handbuchfundstellen aus Modellwissen."
+description: "Wenn es um Monografie/Handbuch zitieren in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitat Monografie Handbuch; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Monografie/Handbuch zitieren

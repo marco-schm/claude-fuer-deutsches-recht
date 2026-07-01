@@ -1,6 +1,6 @@
 ---
 name: spezial-nis2-livequellen-und-rechtsprechungscheck
-description: "Nis2: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Nis2: Livequellen- und Rechtsprechungscheck in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nis2: Livequellen- und Rechtsprechungscheck

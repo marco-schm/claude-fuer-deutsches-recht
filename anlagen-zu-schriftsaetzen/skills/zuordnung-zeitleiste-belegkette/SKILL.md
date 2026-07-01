@@ -1,6 +1,6 @@
 ---
 name: zuordnung-zeitleiste-belegkette
-description: "Zuordnung: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Zuordnung: Erstprüfung, Rollenklärung und Mandatsziel in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Zuordnung: Erstprüfung, Rollenklärung und Mandatsziel

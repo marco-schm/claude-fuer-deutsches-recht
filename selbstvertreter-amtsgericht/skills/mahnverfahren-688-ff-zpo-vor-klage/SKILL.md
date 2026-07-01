@@ -1,6 +1,6 @@
 ---
 name: mahnverfahren-688-ff-zpo-vor-klage
-description: "Mahnbescheid nach §§ 688 ff. ZPO als guenstige Alternative zur Klage. Online-Formular Mahngerichte Widerspruchs-Folgen Vollstreckungsbescheid. Wann ist Mahnverfahren sinnvoll wann nicht. Mit Hinweisen zur Hemmung der Verjährung."
+description: "Wenn es um Mahnbescheid statt Klage: schnell und billig in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mahnbescheid statt Klage: schnell und billig

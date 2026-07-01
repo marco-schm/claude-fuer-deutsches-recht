@@ -1,6 +1,6 @@
 ---
 name: erstberatung-rdg-grenzen-und-triage
-description: "Erstberatung mit RDG-Grenzen und Triage: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Rechtsberatungsstelle."
+description: "Wenn es um Erstberatung mit RDG-Grenzen und Triage in Plugin für die studentische Rechtsberatungsstelle geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Erstberatung mit RDG-Grenzen und Triage

@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-ladesaeulen-elektromobilitaet-stellungn
-description: "Ladesäulen Elektromobilität: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: Ladesäulen Elektromobilität — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Energie-Regulierungsakte: Ladesäulen Elektromobilität — Stellungnahme-Entwurf

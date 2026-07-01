@@ -1,6 +1,6 @@
 ---
 name: online-vertrieb-konflikt
-description: "Prüft Konflikte zwischen stationärem Handelsvertreter-Vertrieb und Online-Direktvertrieb des Unternehmers: Provisionsanspruch bei Online-Bestellungen aus dem Vertretergebiet nach § 87 Abs. 2 HGB, AGB-Kontrolle von Online-Kanal-Ausnahmen, Bezirksschutz im digitalen Zeitalter und Ausgleich bei Onli..."
+description: "Wenn es um Online-Vertriebskonflikt — Bezirksschutz vs. E-Commerce nach Paragraf 87 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Online-Vertriebskonflikt — Bezirksschutz vs. E-Commerce nach § 87 HGB

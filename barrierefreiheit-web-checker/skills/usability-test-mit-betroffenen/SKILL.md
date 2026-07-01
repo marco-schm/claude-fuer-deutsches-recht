@@ -1,6 +1,6 @@
 ---
 name: usability-test-mit-betroffenen
-description: "Usability-Test mit Betroffenen organisieren: Auswahl Teilnehmender (Sehbehinderung, Blindheit, motorische Einschraenkungen, Hoerbehinderung, kognitive Behinderung), Hilfsmittel, Aufgaben-Szenarien, Ethik-Einverstaendnis, Aufwandsentschaedigung. Bericht mit Schweregraden und Maßnahmen im Barriere..."
+description: "Wenn es um Usability-Test mit Betroffenen in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Usability-Test mit Betroffenen

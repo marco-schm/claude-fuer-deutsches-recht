@@ -1,6 +1,6 @@
 ---
 name: koexistenz-abgrenzungsvereinbarung-vertikale
-description: "Koexistenz-, Abgrenzungs- und Vergleichsvereinbarungen im Markenrecht entwerfen: Zeichenabstand, Warenabgrenzung, Territorium, Online-Nutzung, Vertragsstrafe, Registermaßnahmen und Zukunftsmarken im Markenrecht Fashion Luxus."
+description: "Wenn es um Koexistenz und Abgrenzungsvereinbarung in markenrecht-fashion-luxus geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Koexistenz und Abgrenzungsvereinbarung

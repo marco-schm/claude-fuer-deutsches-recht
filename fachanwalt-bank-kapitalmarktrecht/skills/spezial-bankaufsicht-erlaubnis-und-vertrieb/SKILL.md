@@ -1,6 +1,6 @@
 ---
 name: spezial-bankaufsicht-erlaubnis-und-vertrieb
-description: "Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output."
+description: "Wenn es um Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken in Fachanwalt Bank Kapitalmarktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken

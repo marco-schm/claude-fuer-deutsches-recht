@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-nordrhein-westfalen
-description: "Prüft Hochschulprüfungsrecht in Nordrhein-Westfalen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule."
+description: "Wenn es um Prüfungsrecht Nordrhein Westfalen in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfungsrecht Nordrhein Westfalen

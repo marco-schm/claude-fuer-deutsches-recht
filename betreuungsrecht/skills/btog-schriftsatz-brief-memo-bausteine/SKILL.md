@@ -1,6 +1,6 @@
 ---
 name: btog-schriftsatz-brief-memo-bausteine
-description: "Btog: Schriftsatz-, Brief- und Memo-Bausteine: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Wel..."
+description: "Wenn es um Btog: Schriftsatz-, Brief- und Memo-Bausteine in Betreuungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Btog: Schriftsatz-, Brief- und Memo-Bausteine

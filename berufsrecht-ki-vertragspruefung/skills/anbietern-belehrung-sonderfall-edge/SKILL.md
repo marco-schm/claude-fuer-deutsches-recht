@@ -1,6 +1,6 @@
 ---
 name: anbietern-belehrung-sonderfall-edge
-description: "Anbietern: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Anbietern Belehrung Sonderfall Edge in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 ## Memo-Baustein für Geschäftsleitung
 - **Empfehlung in 3 Optionen**: (1) Freigeben mit Auflagen, (2) Pilotbetrieb mit eingeschränkten Daten, (3) Sperren.

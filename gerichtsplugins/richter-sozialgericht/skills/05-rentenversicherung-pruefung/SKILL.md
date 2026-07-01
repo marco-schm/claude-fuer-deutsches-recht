@@ -1,6 +1,6 @@
 ---
 name: 05-rentenversicherung-pruefung
-description: "Gesetzliche Rentenversicherung SGB VI: Altersrente Paragrafen 35 ff., Erwerbsminderungsrente Paragraf 43, Wartezeit, Mindestbeitragszeiten, Hinterbliebenenrente"
+description: "Wenn es um 05 Rentenversicherung Prüfung in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # 05 Rentenversicherung Prüfung

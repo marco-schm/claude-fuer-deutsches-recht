@@ -1,6 +1,6 @@
 ---
 name: kvg-erlaubnis-registrierung-auslagerung
-description: "Ermittelt, ob eine KVG-Erlaubnis, Registrierung oder Auslagerungsstruktur erforderlich ist im Private Equity Praxis."
+description: "Wenn es um KVG: Erlaubnis, Registrierung und Auslagerung in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KVG: Erlaubnis, Registrierung und Auslagerung

@@ -1,6 +1,6 @@
 ---
 name: luft-118-bodenabfertigung-local-counsel-briefen
-description: "Luftrecht und Flughafenrecht: Bodenabfertigung: Local Counsel briefen. Local Counsel briefen für Bodenabfertigung im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bodenabfertigung Local Counsel Briefen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bodenabfertigung Local Counsel Briefen

@@ -1,6 +1,6 @@
 ---
 name: see-087-binnenschiff-local-counsel-instruieren
-description: "See- und Schifffahrtsrecht: Binnenschiff: Local Counsel instruieren. Local Counsel instruieren für Binnenschiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Binnenschiff Local Counsel Instruieren in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Binnenschiff Local Counsel Instruieren

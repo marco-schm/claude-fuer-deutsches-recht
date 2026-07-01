@@ -1,6 +1,6 @@
 ---
 name: forderung-im-ausland-vollstrecken
-description: "Forderung im EU-Ausland vollstrecken: Bruessel Ia VO 1215/2012 (Anerkennung ohne Exequatur), Europaeischer Vollstreckungstitel EuVTVO 805/2004, Europaeischer Zahlungsbefehl EuMVVO 1896/2006, geringfuegige Forderung EuGFVO 861/2007. Drittstaat: Anerkennung nach IPR und bilateralen Abkommen. Output..."
+description: "Wenn es um Forderung im Ausland vollstrecken in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Forderung im Ausland vollstrecken

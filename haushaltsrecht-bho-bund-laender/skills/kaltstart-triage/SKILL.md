@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Haushaltsrecht BHO Bund und Länder: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
+description: "Wenn es um Haushaltsrecht BHO Bund und Länder - Allgemeiner Einstieg in Haushaltsrecht BHO Bund und Länder geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haushaltsrecht BHO Bund und Länder - Allgemeiner Einstieg

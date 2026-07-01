@@ -1,6 +1,6 @@
 ---
 name: gesinderecht-dienstvertraege-zuechtigung
-description: "Gesinderecht Dienstvertraege und Zuechtigungsbefugnis. Skill behandelt die Vertragsbedingungen ALR II 5 die Zuechtigungsregeln (mit historisch-kritischem Vorbehalt) Misshandlungsschutz und Klagewege für das Gesinde. Liefert Quellenmatrix: prüft konkret die ein..."
+description: "Wenn es um Pralr Gesinderecht Dienstvertraege Zuechtigung in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Pralr Gesinderecht Dienstvertraege Zuechtigung

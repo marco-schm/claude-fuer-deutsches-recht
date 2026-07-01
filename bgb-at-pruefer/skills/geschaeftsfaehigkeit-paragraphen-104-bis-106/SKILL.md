@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfaehigkeit-paragraphen-104-bis-106
-description: "Klausurfall zu Geschäftsfähigkeit nach §§ 104 bis 106 BGB: Geschäftsunfähigkeit unter sieben Jahren und bei dauerhafter Bewusstseinsabwesenheit, beschränkte Geschäftsfähigkeit von sieben bis siebzehn Jahren und Abgrenzungsfragen."
+description: "Wenn es um Geschäftsfähigkeit — Paragrafen 104 bis 106 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Geschäftsfähigkeit — §§ 104 bis 106 BGB

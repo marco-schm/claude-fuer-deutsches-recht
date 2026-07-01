@@ -1,6 +1,6 @@
 ---
 name: kv-039-betriebliche-krankenversicherung-und-datenschutz
-description: "Krankenversicherung: Betriebliche Krankenversicherung und Datenschutz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Betriebliche Krankenversicherung und Datenschutz in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Betriebliche Krankenversicherung und Datenschutz

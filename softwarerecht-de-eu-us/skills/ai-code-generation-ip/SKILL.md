@@ -1,6 +1,6 @@
 ---
 name: ai-code-generation-ip
-description: "Prüft KI-generierten Code, Trainingsrisiken, Output-Ownership, OSS-Leakage, Warranties und Entwickler-Policies im Softwarerecht De Eu Us."
+description: "Wenn es um digitale Werkzeuge Code Generation IP in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AI Code Generation IP

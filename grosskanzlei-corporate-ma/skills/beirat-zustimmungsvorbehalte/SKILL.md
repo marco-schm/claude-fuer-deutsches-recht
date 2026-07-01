@@ -1,6 +1,6 @@
 ---
 name: beirat-zustimmungsvorbehalte
-description: "Prüft und entwirft Zustimmungsvorbehalte für Beirat, Gesellschafterkreis oder Aufsichtsgremium mit Schwellen, Eilkompetenz und Deadlock-Folge."
+description: "Wenn es um Beirat Zustimmungsvorbehalte in Großkanzlei Corporate/M&A geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Beirat Zustimmungsvorbehalte

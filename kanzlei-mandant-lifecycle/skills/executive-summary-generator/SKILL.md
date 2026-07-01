@@ -1,6 +1,6 @@
 ---
 name: executive-summary-generator
-description: "Executive Summary Generator: steuert eine Seite für GC/Vorstand: Lage, Risiko, Entscheidung, Kosten, Timing zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Executive Summary Generator in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Executive Summary Generator

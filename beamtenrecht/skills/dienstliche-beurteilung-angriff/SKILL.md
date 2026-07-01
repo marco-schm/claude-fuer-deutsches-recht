@@ -1,6 +1,6 @@
 ---
 name: dienstliche-beurteilung-angriff
-description: "Dienstliche Beurteilung angreifen: Beurteilungsmaßstab, Beurteilerzuständigkeit, Beiträge, Plausibilität, Quoten und Nachzeichnung im Beamtenrecht."
+description: "Wenn es um Dienstliche Beurteilung Angriff in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Dienstliche Beurteilung Angriff

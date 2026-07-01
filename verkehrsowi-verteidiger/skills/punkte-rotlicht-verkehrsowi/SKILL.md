@@ -1,6 +1,6 @@
 ---
 name: punkte-rotlicht-verkehrsowi
-description: "Punkte: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Punkte: Risikoampel, Gegenargumente und Verteidigungslinien in VerkehrsOWi-Verteidiger geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Punkte: Risikoampel, Gegenargumente und Verteidigungslinien

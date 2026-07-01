@@ -1,6 +1,6 @@
 ---
 name: begruendung-redaktion-ohne-schablone
-description: "Überarbeitet persönliche Begründung sprachlich, ohne sie zu standardisieren im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Redaktion ohne Schablone in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Redaktion ohne Schablone

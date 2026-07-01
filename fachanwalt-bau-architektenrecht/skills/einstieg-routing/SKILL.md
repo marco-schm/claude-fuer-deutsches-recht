@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Bau- und Architektenrecht: ordnet Rolle (Bauherr, Bauunternehmer, Architekt), markiert Frist (Verjährung 5 Jahre § 634a BGB), wählt Norm (BGB §§ 631 ff., 650a ff. Bauvertrag, 650u ff. Bauträger, HOAI, VOB/B) und Zuständigkeit (Zivilgericht (LG meist)),..."
+description: "Wenn es um Einstieg und Routing in Fachanwalt Bau Architektenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

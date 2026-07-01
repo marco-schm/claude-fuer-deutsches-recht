@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit
-description: "Vertragsparteien aus verschiedenen Laendern streiten über Vertragsrecht und fragen: Nach welchem Recht wird der Vertrag beurteilt? VO (EG) 593/2008 Rom-I. Prüfraster: Rechtswahl Art. 3 objektive Anknuepfung Art. 4 charakteristische Leistung Sondervorschriften Verbrauchervertraege Art. 6 Befoerderung Art. 5 Arbeitsvertraege Art. 8 international zwingende Eingriffsnormen Art. 9 ordre public Art. 21. Output: Rechtsanwendbarkeits-Analyse. Abgrenzung zu fachanwalt-iwr-brussels-ia-zuständigkeit (gerichtliche Zuständigkeit) und gerichtsstand-und-rechtswahl-prüfen."
+description: "Wenn es um Rom-I-Anwendbarkeit in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom-I-Anwendbarkeit

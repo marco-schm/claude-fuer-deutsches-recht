@@ -1,6 +1,6 @@
 ---
 name: gemeinde-kirche-stiftung-als-eigentuemer
-description: "Prüft Beschluss, Genehmigung, Gemeinwohlbindung, Vergabe-/Beihilfefragen und Zustimmungspraxis im Erbbaurecht Praxis."
+description: "Wenn es um Gemeinde/Kirche/Stiftung als Grundstückseigentümer in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gemeinde/Kirche/Stiftung als Grundstückseigentümer

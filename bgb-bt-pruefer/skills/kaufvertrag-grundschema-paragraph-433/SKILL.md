@@ -1,6 +1,6 @@
 ---
 name: kaufvertrag-grundschema-paragraph-433
-description: "Kaufvertrag § 433 BGB: Primär- und Sekundäransprüche, Übergabe, Eigentumsverschaffung, AGB und Verbraucherschutz."
+description: "Wenn es um Kaufvertrag Grundschema Paragraf 433 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaufvertrag Grundschema § 433 BGB

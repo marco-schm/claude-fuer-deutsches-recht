@@ -1,6 +1,6 @@
 ---
 name: transportvertrag-see
-description: "Internationales Handelsrecht: Seetransportrecht — Haager-Visby-Regeln (HVR), Hamburger Regeln 1978 und Rotterdamer Regeln 2009. Haftungsregime des Reeders, Seefrachtbrief vs. Konnossement, Haftungsgrenzen und Anwendbarkeit nach Staat im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Seetransportrecht: Haag-Visby, Hamburg, Rotterdam in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Seetransportrecht: Haag-Visby, Hamburg, Rotterdam

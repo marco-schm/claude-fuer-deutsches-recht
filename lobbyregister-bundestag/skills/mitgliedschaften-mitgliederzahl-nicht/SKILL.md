@@ -1,6 +1,6 @@
 ---
 name: mitgliedschaften-mitgliederzahl-nicht
-description: "Erfasst Mitgliederzahl, mitgliedschaftliche Organisation und relevante Mitgliedschaften im Zusammenhang mit Interessenvertretung. Output Mitgliederkarte im Lobbyregister Bundestag."
+description: "Wenn es um Mitgliedschaften und Mitgliederzahl in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mitgliedschaften und Mitgliederzahl

@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-beirat-haftung
-description: "Verwaltungsbeirat Haftung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Kontrollpflicht, Belege, Interessenkonflikt, Entlastung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Verwaltungsbeirat Haftung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verwaltungsbeirat Haftung

@@ -1,6 +1,6 @@
 ---
 name: kart-marktdefinition-bauleiter
-description: "Bauleiter Marktdefinition: sachlich, raeumlich, zeitlich. SSNIP-Test, Hypothetischer Monopolist, Mehrproduktmaerkte. Prüfraster für typische Branchen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Kart: Marktdefinition Bauleiter in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kart: Marktdefinition Bauleiter

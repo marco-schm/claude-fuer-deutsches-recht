@@ -1,6 +1,6 @@
 ---
 name: regelbeispiele-stgb-strafbefehl
-description: "Regelbeispiele: Internationaler Bezug und Schnittstellen im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Regelbeispiele: Internationaler Bezug und Schnittstellen in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Regelbeispiele: Internationaler Bezug und Schnittstellen

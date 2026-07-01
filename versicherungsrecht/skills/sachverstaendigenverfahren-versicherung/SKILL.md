@@ -1,6 +1,6 @@
 ---
 name: sachverstaendigenverfahren-versicherung
-description: "Sachverständigenverfahren: Obmann, Gutachterauftrag, Bindungswirkung, Kosten, Beweiswert und Schnittstelle zum Prozess im Versicherungsrecht."
+description: "Wenn es um Sachverständigenverfahren in der Versicherung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Sachverständigenverfahren in der Versicherung

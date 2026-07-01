@@ -1,6 +1,6 @@
 ---
 name: flugzeugleasing-zustaendigkeit-pruefen
-description: "Flugzeugleasing-Mandat: unklar welche Behörde zuständig ist LBA EASA Cape-Town-Registry oder ausländische Luftfahrtbehoerde. Prüft EU-VO 1008/2008 Art. 13 LuftVG § 21a Cape-Town-Registrierung und liefert Zuständigkeits-Vermerk für Wet-Dry-Finance-Lease-Situationen im Luftrecht Flughafenrecht."
+description: "Wenn es um Flugzeugleasing – Zuständigkeit prüfen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flugzeugleasing – Zuständigkeit prüfen

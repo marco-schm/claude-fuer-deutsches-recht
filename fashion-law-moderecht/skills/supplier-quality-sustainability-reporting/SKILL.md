@@ -1,6 +1,6 @@
 ---
 name: supplier-quality-sustainability-reporting
-description: "Supplier-Mängel und Qualitätsprobleme prüfen: Musterfreigabe, Toleranzen, Nähfehler, Farbabweichung, Lieferverzug, Nachbesserung und Beweisproben im Fashion Law Moderecht."
+description: "Wenn es um Supplier Quality Defects in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Supplier Quality Defects

@@ -1,6 +1,6 @@
 ---
 name: leichte-sprache
-description: "Kanzlei oder Behörde will juristischen Text für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur erklärte Woerter. Normen BGG § 11 BITV 2.0 Netzwerk Leichte Sprache Regeln. Prüf"
+description: "Wenn es um Leichte Sprache in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Leichte Sprache; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
 ---
 
 # Leichte Sprache

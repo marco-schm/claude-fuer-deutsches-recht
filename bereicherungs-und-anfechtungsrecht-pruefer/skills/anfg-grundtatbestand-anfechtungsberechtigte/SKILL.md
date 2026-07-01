@@ -1,6 +1,6 @@
 ---
 name: anfg-grundtatbestand-anfechtungsberechtigte
-description: "Grundvoraussetzungen der außerinsolvenzlichen Gläubigeranfechtung klären: vollstreckbarer Titel, fällige Forderung, Gläubigerbenachteiligung. Normen: §§ 1 2 AnfG, §§ 195 199 BGB. Prüfraster: Anfechtungsberechtigung, Rechtshandlungsbegriff, Schuldnereigenschaft. Output: Prüfergebnis Anspruchsgrund"
+description: "Wenn es um AnfG-Grundtatbestand und Anfechtungsberechtigte in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfg Grundtatbestand Anfechtungsberechtigte; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # AnfG-Grundtatbestand und Anfechtungsberechtigte

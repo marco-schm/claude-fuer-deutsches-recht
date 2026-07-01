@@ -1,6 +1,6 @@
 ---
 name: telefonat-behoerde-termin-vorbereiten
-description: "Bereitet Telefonate vor: Ziel, Fragenliste, keine spontanen Zugeständnisse, Gesprächsnotiz, Bestätigung per E-Mail oder Brief im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Telefonat mit Behörde in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Telefonat mit Behörde

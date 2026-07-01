@@ -1,6 +1,6 @@
 ---
 name: bmjv-gerichtsverfassungs-prozessrecht
-description: "Sachbereich Gerichtsverfassungs- und Prozessrecht im Geschäftsbereich BMJV: Normbestand (GVG; ZPO; StPO; VwGO; SGG; FGO; ArbGG; EGGVG.); Akteure (BMJV; Bundesgerichte; Justizverwaltungen der Länder.); EU-Bezug (EuGVVO; EU-Zustellungs-VO; EU-Beweis-VO.); typische Legistik-Aufgaben und Prüfpunkte"
+description: "Wenn es um Gerichtsverfassungs- und Prozessrecht (BMJV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Bmjv Gerichtsverfassungs Prozessrecht; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Gerichtsverfassungs- und Prozessrecht (BMJV)

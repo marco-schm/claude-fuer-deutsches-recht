@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-software-verschluesselung-kryptografie
-description: "Vertiefter Skill fuer Software Verschluesselung Kryptografie. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: "Wenn es um Software Verschluesselung Kryptografie in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Software Verschluesselung Kryptografie

@@ -1,6 +1,6 @@
 ---
 name: ropa-art-30-controller-deutsch-vorlage
-description: "Vollvorlage für das Verzeichnis von Verarbeitungstaetigkeiten des Verantwortlichen nach Art. 30 Abs. 1 DSGVO. Tabellenstruktur mit allen sieben Mindestinhalten, ausgefuelltes Beispiel für Personalverwaltung, Mandantenakte, Kontaktformular, CRM. Direkt nutzbare Vorlage für Kanzleien und Unternehmen."
+description: "Wenn es um RoPA-Vorlage Verantwortlicher (Controller) – Deutsch in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # RoPA-Vorlage Verantwortlicher (Controller) – Deutsch

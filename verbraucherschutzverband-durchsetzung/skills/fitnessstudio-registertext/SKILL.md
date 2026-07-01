@@ -1,6 +1,6 @@
 ---
 name: fitnessstudio-registertext
-description: "Verbraucherschutzverband Durchsetzung: Fitnessstudio: Registertext schreiben im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Fitnessstudio Registertext Schreiben in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fitnessstudio Registertext Schreiben

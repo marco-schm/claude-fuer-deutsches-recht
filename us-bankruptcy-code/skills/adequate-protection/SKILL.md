@@ -1,6 +1,6 @@
 ---
 name: adequate-protection
-description: "Prüft adequate protection for secured creditors: payments, replacement liens, reporting, insurance and collateral value im US Bankruptcy Code."
+description: "Wenn es um Adequate Protection in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Adequate Protection

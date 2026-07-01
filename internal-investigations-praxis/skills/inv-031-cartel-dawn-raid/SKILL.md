@@ -1,6 +1,6 @@
 ---
 name: inv-031-cartel-dawn-raid
-description: "Spezialskill fuer Cartel Dawn Raid: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Cartel Dawn Raid in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Internal Investigation: Cartel Dawn Raid

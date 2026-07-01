@@ -1,6 +1,6 @@
 ---
 name: frist-und-vollzugslog-register
-description: "Baut ein Log für Beanstandungsfristen, Eintragungsdatum, Bekanntmachung, Closing-Abhängigkeit und Mandantenbericht im Handelsregister Praxis."
+description: "Wenn es um Fristen- und Vollzugslog in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen- und Vollzugslog

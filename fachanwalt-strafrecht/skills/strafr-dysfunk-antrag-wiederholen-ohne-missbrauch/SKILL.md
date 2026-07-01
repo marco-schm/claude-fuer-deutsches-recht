@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-antrag-wiederholen-ohne-missbrauch
-description: "Wiederholung eines Antrags ohne Eroeffnung des Missbrauchsvorwurfs: Neuer Vortrag neue Tatsachen oder geaenderte Sachlage als legitime Begruendung. Sauber argumentieren warum die fruehere A..."
+description: "Wenn es um Wiederholung eines Antrags ohne Eroeffnung des Missbrauchsvorwurfs in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Wiederholung eines Antrags ohne Eroeffnung des Missbrauchsvorwurfs

@@ -1,6 +1,6 @@
 ---
 name: grundbegriffe-cashflow-kreditlinien
-description: "Liqui Grundbegriffe Cashflow Kreditlinien im Plugin Liquiditaetsplanung: prüft konkret Liquiditaetsplanung Grundbegriffe, Kreditlinien prüfen, Debitorenseite optimieren."
+description: "Wenn es um Liqui Grundbegriffe Cashflow Kreditlinien in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Liqui Grundbegriffe Cashflow Kreditlinien

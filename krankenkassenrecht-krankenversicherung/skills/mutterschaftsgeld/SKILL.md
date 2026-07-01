@@ -1,6 +1,6 @@
 ---
 name: mutterschaftsgeld
-description: "GKV-Leistungen für Schwangere und Mütter: Mutterschaftsgeld (§ 24i SGB V), Schwangerschaftsvorsorge, Entbindungsleistungen und Nachsorge im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Mutterschaftsgeld und Schwangerschaftsleistungen in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mutterschaftsgeld und Schwangerschaftsleistungen

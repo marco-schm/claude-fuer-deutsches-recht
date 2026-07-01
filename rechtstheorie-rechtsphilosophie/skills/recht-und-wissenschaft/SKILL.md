@@ -1,6 +1,6 @@
 ---
 name: recht-und-wissenschaft
-description: "Prüft die Rolle von Rechtswissenschaft: Ordnung, Kritik, Systematisierung, Reformimpuls und Grenze zur Autoritätsbehauptung."
+description: "Wenn es um Recht und Wissenschaft in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Recht und Wissenschaft

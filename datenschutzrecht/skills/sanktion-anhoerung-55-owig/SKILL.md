@@ -1,6 +1,6 @@
 ---
 name: sanktion-anhoerung-55-owig
-description: "Datenschutzrecht-Brückenskill: Anhörung nach § 55 OWiG: Reaktion auf Anhörung vorbereiten, Aussagefreiheit wahren und Akteneinsicht anstoßen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- ode..."
+description: "Wenn es um Anhörung nach Paragraf 55 OWiG in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anhörung nach § 55 OWiG

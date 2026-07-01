@@ -1,6 +1,6 @@
 ---
 name: bodenabfertigung-dashboard-bauen
-description: "Flughafen oder Bodenabfertigungsunternehmen braucht Dashboard: Zulassungsstatus Entgelt-Genehmigungen LuftSiG-Findings Personalzuverlässigkeit Finanzkennzahlen. Skill strukturiert Datenquellen BADV LuftSiG und liefert befuellbares Dashboard-Template im Luftrecht Flughafenrecht."
+description: "Wenn es um Bodenabfertigung – Dashboard bauen in Luftrecht und Flughafenrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Bodenabfertigung – Dashboard bauen

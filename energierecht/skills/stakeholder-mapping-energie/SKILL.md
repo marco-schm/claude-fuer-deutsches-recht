@@ -1,6 +1,6 @@
 ---
 name: stakeholder-mapping-energie
-description: "Stakeholder-Mapping für Energieprojekte: Vorhabentraeger, Netzbetreiber, BNetzA, Landesregulierer, Kommune, Naturschutz, Anwohnerinitiativen, Foerdergeber. Pro Stakeholder Interesse, Hebel, Risiko. Mustertabelle für Projektsteuerung im Energierecht."
+description: "Wenn es um Energie: Stakeholder-Mapping in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Energie: Stakeholder-Mapping

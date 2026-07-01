@@ -1,6 +1,6 @@
 ---
 name: 72-stunden-sprint
-description: "Wahlkampfrecht Praxis: die letzten 72 Stunden vor Wahl, Debatte oder Krise planen im Wahlkampfrecht."
+description: "Wenn es um 72 Stunden Sprint in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 72 Stunden Sprint

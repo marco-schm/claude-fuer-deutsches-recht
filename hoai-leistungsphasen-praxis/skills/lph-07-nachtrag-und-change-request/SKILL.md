@@ -1,6 +1,6 @@
 ---
 name: lph-07-nachtrag-und-change-request
-description: "HOAI LPH 7 Mitwirkung bei der Vergabe: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 7 Mitwirkung bei der Vergabe: Erkennt planungsänderung in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Erkennt planungsänderung

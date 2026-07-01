@@ -1,6 +1,6 @@
 ---
 name: lizenz-geschmacksmuster-design-designg
-description: "Designlizenzen nach DesignG (frueher GeschmacksmusterG): $ 31 DesignG Uebertragung und Lizenz; Eintragung DPMA/EUIPO; Schutzdauer max 25 Jahre; EU-Gemeinschaftsgeschmacksmuster GGV 6/2002; nicht eingetragenes Gemeinschaftsgeschmacksmuster (3 Jahre Schutz)."
+description: "Wenn es um Lizenz Design (DesignG / EU-Verordnung) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Lizenz Design (DesignG / EU-Verordnung)

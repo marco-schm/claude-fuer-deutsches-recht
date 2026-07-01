@@ -1,6 +1,6 @@
 ---
 name: 06-umwandlung-eintragen
-description: "Eintragung Umwandlungen Paragrafen 16 und 19 UmwG: Verschmelzung, Spaltung, Formwechsel; Sperrwirkung Paragraf 16 Abs. 2 UmwG, Werthaltigkeit, Gläubigerschutz"
+description: "Wenn es um 06 Umwandlung Eintragen in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 06 Umwandlung Eintragen

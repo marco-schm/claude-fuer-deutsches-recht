@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-und-disziplinarverfahren
-description: "Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Skill für Notare; prüft Einleitung, Verteidigung, Maßnahmen, Öffentlichkeit, Beweis und Rechtsmittel, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
+description: "Wenn es um Berufsgericht und Disziplinarverfahren in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Berufsgericht und Disziplinarverfahren

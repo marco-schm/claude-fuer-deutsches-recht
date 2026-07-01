@@ -1,6 +1,6 @@
 ---
 name: notar-weg-grundbuch
-description: "Notar/Grundbuch WEG: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Teilungserklärung, Auflassung, Grundbuchstand, Belastungen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arb..."
+description: "Wenn es um Notar/Grundbuch WEG: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notar/Grundbuch WEG: Fachmodul im Miet- und Wohnungseigentumsrecht

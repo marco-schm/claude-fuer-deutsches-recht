@@ -1,6 +1,6 @@
 ---
 name: spezial-schulung-livequellen-und-rechtsprechungscheck
-description: "Schulung: Livequellen- und Rechtsprechungscheck im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Schulung: Livequellen- und Rechtsprechungscheck in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulung: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: infrastruktur-foerderung-nachhaltige
-description: "Foerderprogramme Verkehrsinfrastruktur uebersichtlich: GVFG, KfW, EU CEF, NIP, Foerderaufruf BMDV, Land-Programme. Pro Programm: Foerdergegenstand, Quote, Antragsweg, Berichtspflichten. Routet in verkehr-infrastrukturrecht-foerderung-vergabe im Verkehr Infrastrukturrecht."
+description: "Wenn es um Infrastruktur-Förderung in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Infrastruktur-Förderung

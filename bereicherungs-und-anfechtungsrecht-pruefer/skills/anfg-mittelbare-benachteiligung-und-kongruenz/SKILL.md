@@ -1,6 +1,6 @@
 ---
 name: anfg-mittelbare-benachteiligung-und-kongruenz
-description: "Kongruente und inkongruente Deckung sowie mittelbare Gläubigerbenachteiligung im AnfG-Kontext analysieren. Normen: §§ 1 3 4 AnfG. Prüfraster: unmittelbar vs. mittelbar begünstigende Rechtshandlung, Kongruenz, abstrakte Benachteiligungsmöglichkeit. Output: Prüfliste Benachteiligungs- und Kongruenz..."
+description: "Wenn es um Mittelbare Benachteiligung und Kongruenz — AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mittelbare Benachteiligung und Kongruenz — AnfG

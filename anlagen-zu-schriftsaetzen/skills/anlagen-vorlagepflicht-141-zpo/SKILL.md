@@ -1,6 +1,6 @@
 ---
 name: anlagen-vorlagepflicht-141-zpo
-description: "Anordnung der Urkundenvorlage nach § 142 ZPO und § 421 ZPO: wann kann das Gericht die Vorlage einer Urkunde anordnen, wann hat ein Beweisfuehrer Anspruch auf Vorlage durch den Gegner. Prüfraster, Antragsformulierung und Folgen Nichtvorlage (§ 427 ZPO)."
+description: "Wenn es um Urkundenvorlage Paragrafen 142. 421 ZPO in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Urkundenvorlage §§ 142, 421 ZPO

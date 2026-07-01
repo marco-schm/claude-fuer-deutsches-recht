@@ -1,6 +1,6 @@
 ---
 name: mpu-und-fahreignung
-description: "Straßenverkehrsrecht StVO: MPU und Fahreignung. MPU und Fahreignung im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtspr..."
+description: "Wenn es um Mpu Und Fahreignung in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mpu Und Fahreignung

@@ -1,6 +1,6 @@
 ---
 name: geschaeftsgeheimnisschutz-china-geschgehg-und-cn-recht
-description: "Geschäftsgeheimnisschutz in China-Operationen: Chinesisches UWG (Anti-Unfair Competition Law) und Trade-Secret-Definitionen, GeschGehG (DE) §§ 2 ff. im internationalen Kontext, Schutzmaßnahmen vor Mitarbeiterübertritt, NDA/NNN-Verträge, Digital-Forensics bei Verdacht, Strafverfolgung CN. Output:..."
+description: "Wenn es um Geschäftsgeheimnisschutz China: GeschGehG und CN-Recht in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschäftsgeheimnisschutz China: GeschGehG und CN-Recht

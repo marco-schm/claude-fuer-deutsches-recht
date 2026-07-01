@@ -1,6 +1,6 @@
 ---
 name: klimaklagen-verbandsklage-umwrg
-description: "Klimaklagen Verbandsklage Umwrg: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Umweltrecht."
+description: "Wenn es um Klimaklagen und Verbandsklagen nach UmwRG in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klimaklagen und Verbandsklagen nach UmwRG

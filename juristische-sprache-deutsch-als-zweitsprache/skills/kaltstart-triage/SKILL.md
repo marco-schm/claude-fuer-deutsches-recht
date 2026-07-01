@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Hilft bei Allgemein für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch."
+description: "Wenn es um Allgemein in Juristische Sprache Deutsch als Zweitsprache geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemein

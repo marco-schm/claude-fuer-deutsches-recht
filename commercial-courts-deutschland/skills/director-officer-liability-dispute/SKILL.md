@@ -1,6 +1,6 @@
 ---
 name: director-officer-liability-dispute
-description: "Prüft D&O-/Organhaftungsstreitigkeiten im Commercial-Court-Kontext: business judgment, damages, insurance, privilege-like concerns and evidence im Commercial Courts Deutschland."
+description: "Wenn es um D&O Disputes in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # D&O Disputes

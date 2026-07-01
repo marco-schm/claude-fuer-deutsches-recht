@@ -1,6 +1,6 @@
 ---
 name: begruendung-ueber-schwellenwert-redigieren
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Begründung über Schwellenwert redigieren im Goae Gebührenordnung Aerzte."
+description: "Wenn es um Begründung über Schwellenwert redigieren in GOÄ Gebührenordnung für Ärzte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Begründung über Schwellenwert redigieren

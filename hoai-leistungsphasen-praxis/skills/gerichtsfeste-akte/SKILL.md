@@ -1,6 +1,6 @@
 ---
 name: gerichtsfeste-akte
-description: "HOAI-Praxis: macht aus Projektdaten eine Prozessakte mit Belegpfad und Zeugenliste; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um HOAI Querschnitt: Macht aus projektdaten eine prozessakte mit belegpfad und zeugenliste in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # HOAI Querschnitt: Macht aus projektdaten eine prozessakte mit belegpfad und zeugenliste

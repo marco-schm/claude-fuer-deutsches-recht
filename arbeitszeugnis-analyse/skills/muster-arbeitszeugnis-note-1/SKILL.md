@@ -1,6 +1,6 @@
 ---
 name: muster-arbeitszeugnis-note-1
-description: "Vollständiges Musterarbeitszeugnis Note 1 als Referenzdokument für Vergleich und Berichtigung. Anwendungsfall Anwalt oder Mandant will wissen wie ein optimales Zeugnis aussieht. Alle Kernbausteine in grüner Formulierung: Kopfdaten, Aufgabenbeschreibung, Leistungsbeurteilung, Verhaltensbeurteilung und warme Schlussformel. Output Musterdokument mit Erläuterungen je Baustein als Referenz für Zeugnisberichtigungsantrag. Abgrenzung zu muster-arbeitszeugnis-mit-roten-flaggen und verbesserungsvorschlaege-formulieren."
+description: "Wenn es um Muster-Arbeitszeugnis Note 1 (Referenzdokument) in Arbeitszeugnis-Analyse geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Muster-Arbeitszeugnis Note 1 (Referenzdokument)

@@ -1,6 +1,6 @@
 ---
 name: loeschungsbewilligung-bank-nacherbenvermerk
-description: "Checkt Bankformular, Unterschriften, Vertretungsmacht, Briefvorlage, Teillöschung und Verwahrstelle im Grundbuchamt Praxis."
+description: "Wenn es um Löschungsbewilligung Bank in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Löschungsbewilligung Bank

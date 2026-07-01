@@ -1,6 +1,6 @@
 ---
 name: bescheidanalyse
-description: "Mandant hat Sozialleistungsbescheid erhalten und Anwalt muss dessen Inhalt rechtlich aufschluesseln: §§ 33 35 SGB X Form und Begründungspflicht § 24 SGB X A..."
+description: "Wenn es um Bescheidanalyse in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandant hat Sozialleistungsbescheid erhalten und Anwalt muss dessen Inhalt rechtlich aufschluesseln

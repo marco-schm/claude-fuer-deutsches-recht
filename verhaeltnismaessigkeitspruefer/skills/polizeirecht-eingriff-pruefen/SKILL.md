@@ -1,6 +1,6 @@
 ---
 name: polizeirecht-eingriff-pruefen
-description: Polizeirechtlicher Eingriff durch die vier Stufen der Verhältnismäßigkeit prüfen mit Standardmuster Polizeiverfuegung. Mit Gefahrenprognose Stoererhaftung Anscheinsstoerer und Hinweisen zur Einschaetzungspraerogative der Polizeibehoerde.
+description: "Wenn es um Polizeirecht Eingriff Prüfen in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Polizeirecht Eingriff Prüfen

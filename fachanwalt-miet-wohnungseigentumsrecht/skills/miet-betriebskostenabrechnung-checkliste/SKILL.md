@@ -1,6 +1,6 @@
 ---
 name: miet-betriebskostenabrechnung-checkliste
-description: "Betriebskostenabrechnung im Fachanwaltsmandat schnell prüfen oder erstellen: Mietvertragsklausel, § 556 BGB, BetrKV, HeizkostenV, CO2KostAufG, formelle Mindestangaben, materielle Umlagefähigkeit, Belegeinsicht, Zahlungsbelege, Einwendungsfristen und verwert..."
+description: "Wenn es um Miet Betriebskostenabrechnung Checkliste in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebskostenabrechnung im Fachanwaltsmandat schnell prüfen oder erstellen: Mietvertragsklausel, § 556 BGB, BetrKV, HeizkostenV, CO2KostAufG, formelle Mindestangaben, materielle Umlagefähigkeit, Belegeinsicht, Zahlungsbelege, Einwendungsfristen und verwertbare Schreiben.

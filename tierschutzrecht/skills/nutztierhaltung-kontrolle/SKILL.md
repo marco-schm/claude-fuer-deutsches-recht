@@ -1,6 +1,6 @@
 ---
 name: nutztierhaltung-kontrolle
-description: "Tierschutzrecht: Nutztierhaltung Kontrolle. Nutztierhaltung Kontrolle im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht."
+description: "Wenn es um Nutztierhaltung Kontrolle in Tierschutzrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nutztierhaltung Kontrolle

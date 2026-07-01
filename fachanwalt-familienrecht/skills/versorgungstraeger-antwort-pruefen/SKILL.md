@@ -1,6 +1,6 @@
 ---
 name: versorgungstraeger-antwort-pruefen
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsträger Antwort prüfen: zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsträger Antwort prüfen."
+description: "Wenn es um Versorgungstraeger Antwort Pruefen in Fachanwalt Familienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsträger Antwort prüfen.

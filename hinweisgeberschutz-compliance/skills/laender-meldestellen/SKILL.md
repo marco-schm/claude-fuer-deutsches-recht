@@ -1,6 +1,6 @@
 ---
 name: laender-meldestellen
-description: "Prüft länderspezifische externe Meldestellen und Spezialzuständigkeiten im Hinweisgeberschutz Compliance."
+description: "Wenn es um Länder Meldestellen in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Länder Meldestellen

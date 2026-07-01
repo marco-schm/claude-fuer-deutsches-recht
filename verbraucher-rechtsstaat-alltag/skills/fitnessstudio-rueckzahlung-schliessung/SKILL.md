@@ -1,6 +1,6 @@
 ---
 name: fitnessstudio-rueckzahlung-schliessung
-description: "Fitnessstudio, Schließung und Rückzahlung: prüft Mitgliedsbeiträge, Unmöglichkeit, Vertragsverlängerung, BGH XII ZR 64/21, Kündigung, Gutscheinlösung, Krankheit, Umzug und Beitragsinkasso im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Fitnessstudio Rückzahlung Schließung in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Fitnessstudio Rückzahlung Schließung

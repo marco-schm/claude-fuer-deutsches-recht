@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-steuerstrafrecht-370a-ao-bandenmaessig
-description: "Paragraph 370a AO historisch — gewerbsmäßige oder bandenmäßige Steuerhinterziehung: Tatbestand 2008 vom BVerfG für nichtig erklaert und ausser Kraft. Skill markiert die hist..."
+description: "Wenn es um Paragraph 370a AO historisch — gewerbsmäßige oder bandenmäßige Steuerhinterziehung in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Paragraph 370a AO historisch — gewerbsmäßige oder bandenmäßige Steuerhinterziehung

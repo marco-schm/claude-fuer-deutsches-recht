@@ -1,6 +1,6 @@
 ---
 name: schuldschein-darlehen
-description: "Prüft Schuldscheindarlehen in Corporate/M&A, Refinanzierung und Secondary Trades: Darlehensgeberregister, Zahlstelle, Abtretung, Zustimmung, Sicherheiten und Notice."
+description: "Wenn es um Corporate: Schuldscheindarlehen und Übertragung in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Schuldschein Darlehen; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # Corporate: Schuldscheindarlehen und Übertragung

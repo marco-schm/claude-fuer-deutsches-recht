@@ -1,6 +1,6 @@
 ---
 name: vs-eigentum-erbbauzins-rueckstand
-description: "Erklärt den dogmatischen Unterschied zu Eigentum, Miete, Nießbrauch, Dienstbarkeit und WEG im Erbbaurecht Praxis."
+description: "Wenn es um Erbbaurecht verständlich erklären in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbbaurecht verständlich erklären

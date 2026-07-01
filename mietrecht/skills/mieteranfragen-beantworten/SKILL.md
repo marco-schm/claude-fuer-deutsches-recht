@@ -1,6 +1,6 @@
 ---
 name: mieteranfragen-beantworten
-description: "Vermieter- und Hausverwaltungssicht — beantworte Mieteranfragen sachlich und ehrlich. Deckt typische Themen ab (Mietminderung Mangelanzeige Modernisierungsankündigung Schoenheitsreparaturen Hausordnung Kaution Eigenbedarfskündigung Belegeinsicht zur Nebenkostenabrechnung). Anweisung — nicht abwim..."
+description: "Wenn es um Mieteranfragen beantworten (Vermieter / Hausverwaltung) in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mieteranfragen beantworten (Vermieter / Hausverwaltung)

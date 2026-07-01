@@ -1,6 +1,6 @@
 ---
 name: output-vorstandsvorlage-behoerdenbrief-klage
-description: "Output Vorstandsvorlage Behördenbrief Klage: Fachlicher Fokus: Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance."
+description: "Wenn es um Output Vorstandsvorlage Behördenbrief Klage in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Output Vorstandsvorlage Behördenbrief Klage

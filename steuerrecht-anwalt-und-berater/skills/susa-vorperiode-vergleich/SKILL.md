@@ -1,6 +1,6 @@
 ---
 name: susa-vorperiode-vergleich
-description: "SuSa-Periodenvergleich Vormonat und Vorjahr. Anwendungsfall Prüfung Salden-Konsistenz Saldenentwicklung Vergleich der einzelnen Konten über Perioden. Methodik Differenz-Tabelle Auffälligkeit Hinweis-Liste. Output SuSa mit Vergleichsspalten Auswertung Differenzen."
+description: "Wenn es um SuSa-Periodenvergleich — Vormonat und Vorjahres-Periode in Steuerrecht – Steuerberater und Anwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # SuSa-Periodenvergleich — Vormonat und Vorjahres-Periode

@@ -1,6 +1,6 @@
 ---
 name: kostenrahmen-kostenschaetzung-kostenberechnung
-description: "HOAI-Praxis: vergleicht Kostenermittlungsstufen und Warnpflichten; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um HOAI Querschnitt: Vergleicht kostenermittlungsstufen und warnpflichten in HOAI Leistungsphasen Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # HOAI Querschnitt: Vergleicht kostenermittlungsstufen und warnpflichten

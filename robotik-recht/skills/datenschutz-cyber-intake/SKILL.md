@@ -1,6 +1,6 @@
 ---
 name: datenschutz-cyber-intake
-description: "Startet Datenschutz- und Cyberprüfung: Kameras, Mikrofone, Telemetrie, biometrische Daten, Beschäftigte, Patienten, DSFA, TOMs und CRA-Schnittstelle."
+description: "Wenn es um Datenschutz-Cyber-Intake in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Datenschutz Cyber Intake; Arbeitsfeld: robotik-recht."
 ---
 
 # Datenschutz-Cyber-Intake

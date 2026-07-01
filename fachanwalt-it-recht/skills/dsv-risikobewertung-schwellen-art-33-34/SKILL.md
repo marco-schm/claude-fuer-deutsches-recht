@@ -1,6 +1,6 @@
 ---
 name: dsv-risikobewertung-schwellen-art-33-34
-description: "Strukturiert die Schwellenwertentscheidung nach Art: 33 und Art. 34 DSGVO als anwaltlichen Entscheidungsbaum. Behandelt: voraussichtlich-kein-Risiko-Schwelle Art. 33 Abs. 1; Meldeschwelle; voraussichtlich"
+description: "Wenn es um Strukturiert die Schwellenwertentscheidung nach Art in Fachanwalt It Recht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Strukturiert die Schwellenwertentscheidung nach Art

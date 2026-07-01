@@ -1,6 +1,6 @@
 ---
 name: umzug-vertragsanpassung
-description: "Umzug bei TK-Vertrag: Fortführung, Sonderkündigung, Leistungsfähigkeit am neuen Standort, Glasfaser-/Kabelanschluss und Kosten im Telekommunikationsrecht."
+description: "Wenn es um Umzug und Telekommunikationsvertrag in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Umzug und Telekommunikationsvertrag

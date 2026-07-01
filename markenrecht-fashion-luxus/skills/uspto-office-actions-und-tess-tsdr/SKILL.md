@@ -1,6 +1,6 @@
 ---
 name: uspto-office-actions-und-tess-tsdr
-description: "USPTO Office Actions beantworten und TESS/TSDR-Datenbankrecherche: Prüfungsbescheid des USPTO nach Markenanmeldung erhalten. Normen: 15 U.S.C. § 1052 (Section 2-Versagungsgründe), In re E.I. DuPont 476 F.2d 1357 (DuPont Factors Likelihood of Confusion). Prüfraster: Section 2(d) Verwechslungsgefah..."
+description: "Wenn es um USPTO Office Actions und TESS/TSDR-Recherche in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # USPTO Office Actions und TESS/TSDR-Recherche

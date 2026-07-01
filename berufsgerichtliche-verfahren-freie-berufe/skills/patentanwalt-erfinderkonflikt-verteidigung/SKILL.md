@@ -1,6 +1,6 @@
 ---
 name: patentanwalt-erfinderkonflikt-verteidigung
-description: "Patentanwalt Erfinderkonflikt (Verteidigungs- und Kammerantwort): steuert Konflikt zwischen Erfinder, Arbeitgeber, Anmelder, Investor und mehreren Schutzrechtsinhabern mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahr..."
+description: "Wenn es um Patentanwalt Erfinderkonflikt: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Patentanwalt Erfinderkonflikt: Verteidigungs- und Kammerantwort

@@ -1,6 +1,6 @@
 ---
 name: eskalation-sonderfall-und-edge-case
-description: "Eskalation: Sonderfall und Edge-Case-Prüfung im Fortbestehensprognose. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Eskalation: Sonderfall und Edge-Case-Prüfung in Fortbestehensprognose geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Eskalation: Sonderfall und Edge-Case-Prüfung

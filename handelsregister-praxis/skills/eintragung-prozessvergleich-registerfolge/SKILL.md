@@ -1,6 +1,6 @@
 ---
 name: eintragung-prozessvergleich-registerfolge
-description: "Übersetzt gerichtliche Vergleiche in Beschluss, Anmeldung, Liste, Löschung oder Berichtigung im Handelsregister Praxis."
+description: "Wenn es um Prozessvergleich mit Registerfolge in Handelsregister Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Prozessvergleich mit Registerfolge

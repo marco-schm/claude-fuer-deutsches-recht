@@ -1,6 +1,6 @@
 ---
 name: mifid-behoerden-gericht-und-registerweg
-description: "Mifid: Behörden-, Gerichts- oder Registerweg: Mifid: Behörden-, Gerichts- oder Registerweg."
+description: "Wenn es um Mifid: Behörden-, Gerichts- oder Registerweg in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mifid: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: 20-plaedoyer-und-schlussvortrag-paragraf-258
-description: "Schlussvortrag der Staatsanwaltschaft (Paragraf 258 StPO), Wuerdigung des Beweisergebnisses, rechtliche Bewertung, konkreter Antrag zu Schuld- und Rechtsfolgenausspruch, Strafzumessungsantrag (Paragraf 46 StGB)"
+description: "Wenn es um 20 Plaedoyer und Schlussvortrag Paragraf 258 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 20 Plaedoyer und Schlussvortrag Paragraf 258

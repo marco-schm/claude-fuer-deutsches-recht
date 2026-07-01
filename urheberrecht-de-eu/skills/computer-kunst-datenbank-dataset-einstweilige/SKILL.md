@@ -1,6 +1,6 @@
 ---
 name: computer-kunst-datenbank-dataset-einstweilige
-description: "Prüft digitale Kunst, generative Systeme, Zufall, Parameterkunst, Codekunst und menschliche Auswahlentscheidung im Urheberrecht De Eu."
+description: "Wenn es um Computerkunst und generative Modelle in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Computerkunst und generative Modelle

@@ -1,6 +1,6 @@
 ---
 name: grundbuch-vollzugslog-amtswiderspruch
-description: "Erstellt Fristen-, Rang- und Nachweisliste mit Verantwortlichen, Stand und nächstem Schritt im Grundbuchamt Praxis."
+description: "Wenn es um Vollzugslog Grundbuch in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vollzugslog Grundbuch

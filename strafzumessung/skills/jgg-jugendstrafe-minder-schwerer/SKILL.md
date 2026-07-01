@@ -1,6 +1,6 @@
 ---
 name: jgg-jugendstrafe-minder-schwerer
-description: "Strafzumessung im Jugendstrafrecht. Erziehungsgedanke § 2 JGG. Maßnahmen-Trio: Erziehungsmassregeln §§ 9-12 JGG, Zuchtmittel §§ 13-16 JGG, Jugendstrafe §§ 17-18 JGG. Voraussetzung Jugendstrafe schaedliche Neigungen oder Schwere der Schuld § 17 JGG. Strafrahmen Jugendstrafe 6 Monate bis 5 Jahre,..."
+description: "Wenn es um Strafzumessung im Jugendstrafrecht in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafzumessung im Jugendstrafrecht

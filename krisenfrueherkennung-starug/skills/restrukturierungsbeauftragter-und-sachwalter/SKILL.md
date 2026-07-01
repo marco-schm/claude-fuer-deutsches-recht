@@ -1,6 +1,6 @@
 ---
 name: restrukturierungsbeauftragter-und-sachwalter
-description: "Restrukturierungsbeauftragter und Sachwalter nach § 73 StaRUG: GF oder Gläubigervertreter prüft Bestellung und Aufgaben. Normen: § 73 StaRUG (Restrukturierungsbeauftragter), §§ 74-77 StaRUG (Pflichtbeauftragung), § 76 StaRUG (Sachwalter). Prüfraster: Bestellung (freiwillig vs. Pflicht), Aufgaben,..."
+description: "Wenn es um Restrukturierungsbeauftragter und Sachwalter — Paragraf 73 StaRUG in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Restrukturierungsbeauftragter und Sachwalter — § 73 StaRUG

@@ -1,6 +1,6 @@
 ---
 name: gebietsschutz-standortanalyse-und-kannibalisierung
-description: "Gebietsschutz im Franchiserecht prüfen: exklusiver vs. relativer Gebietsschutz, Kannibalisierung durch Nachbar-Franchisees und Online-Direktvertrieb. Kartellrechtliche Grenzen der Gebietsabschottung nach Vertikal-GVO EU 2022/720 und § 1 GWB im Franchiserecht."
+description: "Wenn es um Franchiserecht: Gebietsschutz, Standortanalyse und Kannibalisierung in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Gebietsschutz, Standortanalyse und Kannibalisierung

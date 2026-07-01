@@ -1,6 +1,6 @@
 ---
 name: nebenkostenpruefung-prozessstrategie
-description: "Nebenkostenprüfung als Einreichungs- und Verfahrensworkflow: Belegeinsicht verlangen, Einwendungen fristwahrend formulieren, Rückzahlungsanspruch beziffern, Mahnung/Mahnverfahren/Klage behandeln und Unterlagen für Amtsgericht oder Mieter-/Vermieterportal ordnen im Mietrecht."
+description: "Wenn es um Nebenkostenprüfung: Einreichung, Portal und Amtsgericht in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nebenkostenprüfung: Einreichung, Portal und Amtsgericht

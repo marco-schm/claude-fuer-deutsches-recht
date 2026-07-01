@@ -1,6 +1,6 @@
 ---
 name: red-team
-description: "Fuehrt adversariales Red-Team-Review gegen Insiderrecht-Compliance-Argumente durch: Findet Schwachstellen, baut Gegenthesen und empfiehlt Absicherung."
+description: "Wenn es um Red-Team-Review für Insiderrecht-Compliance in Insiderrecht Compliance geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Red-Team-Review für Insiderrecht-Compliance

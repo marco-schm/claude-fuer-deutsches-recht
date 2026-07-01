@@ -1,6 +1,6 @@
 ---
 name: anschluss-router
-description: "Einstieg, Schnelltriage und Fallrouting im Nachbarschaftsstreit-Prüfer. Fragt Grundstücke, Grenze, Bundesland, Streitgegenstand, Gefahr, Fristen, Beweise, bisherige Kommunikation und Ziel ab; schlägt passende Fachmodule zu Überbau, Überhang, Ästen/Wurzeln, Einfriedung, Immissionen, Notweg, Beweis..."
+description: "Wenn es um Nachbarschaftsstreit-Prüfer — Allgemein in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachbarschaftsstreit-Prüfer — Allgemein

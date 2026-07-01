@@ -1,6 +1,6 @@
 ---
 name: selbststaendigkeit-beendet
-description: "Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko: Normanker..."
+description: "Wenn es um Selbststaendigkeit Beendet in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko.

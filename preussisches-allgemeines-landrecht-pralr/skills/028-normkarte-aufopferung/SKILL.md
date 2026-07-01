@@ -1,6 +1,6 @@
 ---
 name: 028-normkarte-aufopferung
-description: "PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft

@@ -1,6 +1,6 @@
 ---
 name: netzsegmentierung-nis2-betroffenheitscheck
-description: "Prüft Netzsegmentierung und Trennung kritischer Systeme im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Netzsegmentierung in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Netzsegmentierung

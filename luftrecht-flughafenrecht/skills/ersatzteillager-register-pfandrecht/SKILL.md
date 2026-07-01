@@ -1,6 +1,6 @@
 ---
 name: ersatzteillager-register-pfandrecht
-description: "Mandant will Register-/Inventar-Status für Luftfahrzeug-Ersatzteile auswerten. Prüft EASA Part-145 AMO-Zertifizierung LuftVG-Eintragung Cape-Town-Convention für Triebwerke und Luftfahrzeugteile und liefert Bestandsaufnahme-Bericht mit Zertifizierungsstatus im Luftrecht Flughafenrecht."
+description: "Wenn es um Ersatzteillager – Register auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ersatzteillager – Register auswerten

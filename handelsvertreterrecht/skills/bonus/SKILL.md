@@ -1,6 +1,6 @@
 ---
 name: bonus
-description: "Prüft Bonuszahlungen und leistungsbezogene Vergütungsbestandteile im Handelsvertretervertrag: Abgrenzung von Provision und Bonus, Entstehung und Fälligkeit von Bonusansprüchen, Wirksamkeit von Zielvereinbarungen, AGB-Kontrolle von Klauseln sowie Einbeziehung von Boni in die Ausgleichsberechnung n..."
+description: "Wenn es um Bonus und leistungsbezogene Vergütung im Handelsvertretervertrag in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bonus und leistungsbezogene Vergütung im Handelsvertretervertrag

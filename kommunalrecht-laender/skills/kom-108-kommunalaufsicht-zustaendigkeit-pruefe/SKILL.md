@@ -1,6 +1,6 @@
 ---
 name: kom-108-kommunalaufsicht-zustaendigkeit-pruefe
-description: "Kommunalrecht der Länder: Kommunalaufsicht: Zuständigkeit prüfen. Zuständigkeit prüfen für Kommunalaufsicht im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kommunalaufsicht Zustaendigkeit Pruefe in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalaufsicht Zustaendigkeit Pruefe

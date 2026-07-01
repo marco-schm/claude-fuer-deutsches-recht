@@ -1,6 +1,6 @@
 ---
 name: dispokredit-zinsanpassung-bgh-xi-zr-78-08
-description: "Dispokredit Zinsanpassungsklausel ohne Referenzbindung mit BGH XI ZR 78/08. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Dispokredit Zinsanpassung BGH Xi Zr 78 08 in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dispokredit Zinsanpassung BGH Xi Zr 78 08

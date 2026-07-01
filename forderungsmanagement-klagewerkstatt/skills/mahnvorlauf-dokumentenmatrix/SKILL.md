@@ -1,6 +1,6 @@
 ---
 name: mahnvorlauf-dokumentenmatrix
-description: "Dokumentiert den aussergerichtlichen Mahnvorlauf in einer Matrix von Erstmahnung bis letzter Frist. Verknuepft Datum Mahnstufe Empfaenger Zugang Zahlungseingang. Pinpoints BGB 286 Abs. 1 Verzug durch Mahnung Abs. 2 Nr. 1 kalendarische Bestimmung ZPO 174 Zugangsfiktion. Liefert Matrix-Vorlage und..."
+description: "Wenn es um Mahnvorlauf Dokumentenmatrix in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mahnvorlauf Dokumentenmatrix

@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-brief-vs-buchrecht-erklaerung
-description: "Erklärt Mandanten, warum der Briefkörper zählt und warum Kopien nicht reichen im Grundbuchamt Praxis."
+description: "Wenn es um Briefrecht vs. Buchrecht erklären in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Briefrecht vs. Buchrecht erklären

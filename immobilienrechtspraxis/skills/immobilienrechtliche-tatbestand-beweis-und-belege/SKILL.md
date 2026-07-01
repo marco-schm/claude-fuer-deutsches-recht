@@ -1,6 +1,6 @@
 ---
 name: immobilienrechtliche-tatbestand-beweis-und-belege
-description: "Immobilienrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage im Immobilienrechtspraxis."
+description: "Wenn es um Immobilienrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage in Immobilienrechtspraxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Immobilienrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage

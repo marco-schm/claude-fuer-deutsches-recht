@@ -1,6 +1,6 @@
 ---
 name: ticket-und-reisedaten-erfassen
-description: "Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestaetigungen Reservierungen Foto-Belegen für Fahrgastrechte-Mandate. Extrahiert Buchungscode (PNR) Auftragsnummer Reisetag Strecke Operating EVU Ticketart (Flexpreis Sparpreis Super Sparpreis BC100 Deutschlandticket Zeitkarte) Klasse Preis..."
+description: "Wenn es um Ticket- und Reisedaten erfassen in Fahrgastrechte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Ticket- und Reisedaten erfassen

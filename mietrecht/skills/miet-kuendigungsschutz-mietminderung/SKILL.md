@@ -1,6 +1,6 @@
 ---
 name: miet-kuendigungsschutz-mietminderung
-description: "Checkliste Kuendigungsschutz Wohnraum §§ 573 ff. BGB: Eigenbedarf, Vertragsverletzung, Zahlungsverzug, Sozialklausel § 574 BGB. Prüfraster für Mieter und Vermieter im Mietrecht."
+description: "Wenn es um Miet: Kuendigungsschutz in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Miet: Kuendigungsschutz

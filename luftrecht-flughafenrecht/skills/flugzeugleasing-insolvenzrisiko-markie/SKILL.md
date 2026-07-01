@@ -1,6 +1,6 @@
 ---
 name: flugzeugleasing-insolvenzrisiko-markie
-description: "Leasinggeber oder Leasingnehmer zeigt Insolvenzzeichen. Prüft InsO §§ 15a 17-19 47 103 108 Leasingvertrag in Insolvenz Cape-Town-Convention Art. XI Aircraft Protocol Alternative A und IDERA und liefert Risikoampel-Bewertung und Gegenstrategien für Leasinggeber im Luftrecht Flughafenrecht."
+description: "Wenn es um Flugzeugleasing – Insolvenzrisiko markieren in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flugzeugleasing – Insolvenzrisiko markieren

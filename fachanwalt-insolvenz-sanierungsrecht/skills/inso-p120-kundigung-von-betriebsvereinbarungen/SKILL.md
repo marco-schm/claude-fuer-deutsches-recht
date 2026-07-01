@@ -1,6 +1,6 @@
 ---
 name: inso-p120-kundigung-von-betriebsvereinbarungen
-description: "§ 120 InsO (Kündigung von Betriebsvereinbarungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 120 InsO (Kündigung von Betriebsvereinbarungen) im Mandat prüfen: Normzweck, Tatbestand, B..."
+description: "Wenn es um Inso P120 Kundigung Von Betriebsvereinbarungen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 120 InsO (Kündigung von Betriebsvereinbarungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

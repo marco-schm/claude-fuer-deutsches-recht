@@ -1,6 +1,6 @@
 ---
 name: note-5-formeln-leistung
-description: "Formulierungskatalog für Leistungsaussagen der Note 5 (mangelhaft). Hauptformel 'im Großen und Ganzen zur Zufriedenheit'. Note 5 ist die schärfste reguläre Bewertung in der deutschen Zeugnissprache und nur bei schwerwiegenden, nachgewiesenen Leistungsmängeln vertretbar. Der Generator verlangt ausdrückliche Bestätigung und weist auf erhöhtes Klagerisiko hin."
+description: "Wenn es um Note 5 — Formeln Leistung in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Note 5 — Formeln Leistung

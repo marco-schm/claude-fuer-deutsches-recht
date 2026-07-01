@@ -1,6 +1,6 @@
 ---
 name: euipo-nichtigkeit-eu-design
-description: "Nichtigkeitsantrag gegen ein EU-Design beim EUIPO: Grounds, Beweismittel, Sprache, Parallelverfahren, Vergleich und spätere Gerichtsroute im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Euipo Nichtigkeit Eu Design in designrecht-geschmacksmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Euipo Nichtigkeit Eu Design

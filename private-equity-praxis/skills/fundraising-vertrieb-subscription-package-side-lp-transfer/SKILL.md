@@ -1,6 +1,6 @@
 ---
 name: fundraising-vertrieb-subscription-package-side-lp-transfer
-description: "Prüft Pitch Deck, PPM, Zeichnungsschein, Vertriebsanzeige, Reverse Solicitation und Anlegerkommunikation im Private Equity Praxis."
+description: "Wenn es um Fundraising und Vertrieb: Teaser bis Subscription in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fundraising und Vertrieb: Teaser bis Subscription

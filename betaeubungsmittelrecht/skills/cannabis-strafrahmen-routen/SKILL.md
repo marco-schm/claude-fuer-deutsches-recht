@@ -1,6 +1,6 @@
 ---
 name: cannabis-strafrahmen-routen
-description: "Cannabis: Strafrahmen routen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Cannabis Strafrahmen Routen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cannabis Strafrahmen Routen

@@ -1,6 +1,6 @@
 ---
 name: verbraucherklage-rdg-grenzen
-description: "Prüfung was Inkassodienstleister und Rechtsanwaelte gegenueber Verbrauchern duerfen und was nicht. Trennt Inkassoerlaubnis von anwaltlicher Vertretung. Pinpoints RDG 2 RDG 10 RDG 11a Hinweispflicht BGB 312j AGB-Kontrolle 305 ff. Liefert Prüfraster Hinweistexte und Klagestrategie."
+description: "Wenn es um Verbraucherklage RDG-Grenzen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verbraucherklage RDG-Grenzen

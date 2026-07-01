@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-baunutzungsverordnung-art-mass
-description: "Prueft Art und Mass der baulichen Nutzung nach BauNVO: Gebietstyp, Feinsteuerung, GRZ, GFZ, Hoehe, Vollgeschosse, Ausnahmen, Ausschluesse und Abwaegung."
+description: "Wenn es um BauNVO: Art und Maß der baulichen Nutzung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # BauNVO: Art und Maß der baulichen Nutzung

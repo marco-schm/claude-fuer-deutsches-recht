@@ -1,6 +1,6 @@
 ---
 name: riester-basisrente-nettoentscheidung
-description: "Bewertet Riester- und Basisrenten im Rentenmix: Zulagen, Sonderausgaben, Verrentung, Kapitalwahl, Förderfehler, Steuerfolge, Versorgungslücke und Anbieterkommunikation."
+description: "Wenn es um Riester, Basisrente und Nettoentscheidung in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Riester, Basisrente und Nettoentscheidung

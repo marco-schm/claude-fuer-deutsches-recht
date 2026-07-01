@@ -1,6 +1,6 @@
 ---
 name: leistungsbeurteilung-analyse
-description: "Analysiert Sätze zur Arbeitsqualität, Arbeitsbereitschaft, Arbeitsweise, Arbeitstempo und Belastbarkeit im Arbeitszeugnis. Decodiert Formulierungen wie 'stets sorgfältig', 'bemüht' oder 'im Wesentlichen' und ordnet sie dem Ampelsystem zu."
+description: "Wenn es um Leistungsbeurteilung-Analyse in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leistungsbeurteilung-Analyse

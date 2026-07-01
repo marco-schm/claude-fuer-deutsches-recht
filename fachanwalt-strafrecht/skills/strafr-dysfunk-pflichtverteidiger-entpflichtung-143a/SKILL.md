@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-pflichtverteidiger-entpflichtung-143a
-description: "Entpflichtung des Pflichtverteidigers nach § 143a Abs: 2 StPO insbesondere Variante 2 (zerruettetes Vertrauensverhaeltnis) abwehren. Strenge Voraussetzungen. Konkrete Tatsachen die das Vertrauensverhael..."
+description: "Wenn es um Entpflichtung des Pflichtverteidigers nach Paragraf 143a Abs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Entpflichtung des Pflichtverteidigers nach § 143a Abs

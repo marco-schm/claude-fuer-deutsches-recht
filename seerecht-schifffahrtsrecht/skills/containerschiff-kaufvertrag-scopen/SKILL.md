@@ -1,6 +1,6 @@
 ---
 name: containerschiff-kaufvertrag-scopen
-description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft scopet Kaufvertrag für Containerlinienfrachtschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code..."
+description: "Wenn es um Containerschiff – Kaufvertrag scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Containerschiff – Kaufvertrag scopen

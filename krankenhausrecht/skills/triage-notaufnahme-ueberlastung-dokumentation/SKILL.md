@@ -1,6 +1,6 @@
 ---
 name: triage-notaufnahme-ueberlastung-dokumentation
-description: "Triage in der Notaufnahme: Manchester-/ESI-System, Wartezeit, Ueberlastung, Sekundaer-Triage Intensiv, ex-post Triage rechtlich, Dokumentationspflicht und Haftung."
+description: "Wenn es um Triage Notaufnahme Ueberlastung Dokumentation in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Triage Notaufnahme Ueberlastung Dokumentation

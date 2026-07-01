@@ -1,6 +1,6 @@
 ---
 name: db-037-backup-export-und-vendor-lock-in
-description: "Datenbankrecht: Backup Export und Vendor Lock-in mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Backup Export und Vendor Lock-in in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Backup Export und Vendor Lock-in

@@ -1,6 +1,6 @@
 ---
 name: eilantrag-pflegekassen-pflegehilfsmittel
-description: "Eilantrag gegen Pflegekasse wenn Pflegehilfsmittel Pflegegrad oder Verhinderungspflege blockiert wird. § 86b Abs. 2 SGG Mustertext für betroffene Personen oder Angehoerige."
+description: "Wenn es um Eilantrag gegen die Pflegekasse in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Eilantrag gegen die Pflegekasse

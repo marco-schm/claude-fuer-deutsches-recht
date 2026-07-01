@@ -1,6 +1,6 @@
 ---
 name: software-scope-und-rechtsgebiet-router
-description: "Ordnet ein Softwaremandat in Urheberrecht, Vertragsrecht, Datenschutz, Produktsicherheit, Patente, Open Source und Export ein im Softwarerecht De Eu Us."
+description: "Wenn es um Scope- und Rechtsgebietsrouter in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Scope- und Rechtsgebietsrouter

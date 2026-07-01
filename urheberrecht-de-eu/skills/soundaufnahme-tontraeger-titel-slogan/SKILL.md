@@ -1,6 +1,6 @@
 ---
 name: soundaufnahme-tontraeger-titel-slogan
-description: "Prüft Tontraeger-, ausuebenden Kuenstler- und Produzentenrechte bei Master, Stem, Sample, Remix, Re-Recording und Streaming im Urheberrecht De Eu."
+description: "Wenn es um Tonaufnahme und Leistungsschutzrechte in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Tonaufnahme und Leistungsschutzrechte

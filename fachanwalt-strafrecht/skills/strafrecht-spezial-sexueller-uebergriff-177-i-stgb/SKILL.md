@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-sexueller-uebergriff-177-i-stgb
-description: "Sexueller Uebergriff nach § 177 Abs: 1 StGB. Reform 2016 Nein heisst Nein. Sexuelle Handlung gegen den erkennbaren Willen einer anderen Person ohne Erfordernis von Gewalt oder qualifizierter Drohung. Strafrahmen sechs Mo..."
+description: "Wenn es um Sexueller Uebergriff nach Paragraf 177 Abs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sexueller Uebergriff nach § 177 Abs

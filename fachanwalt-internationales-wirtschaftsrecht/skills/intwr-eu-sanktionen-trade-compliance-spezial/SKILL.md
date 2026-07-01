@@ -1,6 +1,6 @@
 ---
 name: intwr-eu-sanktionen-trade-compliance-spezial
-description: "Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot: Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektor..."
+description: "Wenn es um Intwr EU Sanktionen Trade Compliance Spezial in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot

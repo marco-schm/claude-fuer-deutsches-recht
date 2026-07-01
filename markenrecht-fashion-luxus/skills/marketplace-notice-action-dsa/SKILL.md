@@ -1,6 +1,6 @@
 ---
 name: marketplace-notice-action-dsa
-description: "Marketplace-Enforcement nach MarkenG und Digital Services Act: Notice-and-Action, Trusted Flagger, Plattformhaftung, Wiederholungstäter, Belegpaket, Gegenanzeige und Eskalation gegen Online-Marktplätze im Markenrecht Fashion Luxus."
+description: "Wenn es um Marketplace Notice-and-Action in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Marketplace Notice-and-Action

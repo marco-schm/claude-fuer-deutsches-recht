@@ -1,6 +1,6 @@
 ---
 name: infostand-versammlung
-description: "Prüft Infostand, Sondernutzung, Versammlungsrecht, Auflagen, Datenschutz und Haftung."
+description: "Wenn es um Infostand und Versammlung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Infostand und Versammlung

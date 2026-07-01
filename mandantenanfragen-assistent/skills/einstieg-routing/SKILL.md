@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Mandantenanfragen-Assistent: ordnet Rolle (Mandant, Anwalt, Sekretariat), markiert Frist (Unverzügliche Antwort), wählt Norm (BRAO § 43 Sachlichkeit, BORA) und Zuständigkeit (zuständige Stelle), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in mandantenanfragen-assistent geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

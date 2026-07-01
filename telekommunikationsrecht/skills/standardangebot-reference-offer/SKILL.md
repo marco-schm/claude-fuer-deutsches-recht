@@ -1,6 +1,6 @@
 ---
 name: standardangebot-reference-offer
-description: "Standardangebotspflichten, Prüfung von Klauseln, Änderungsanordnung, Zugangsnachfrage und Nichtdiskriminierung im Telekommunikationsrecht."
+description: "Wenn es um Standardangebot und Reference Offer in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Standardangebot und Reference Offer

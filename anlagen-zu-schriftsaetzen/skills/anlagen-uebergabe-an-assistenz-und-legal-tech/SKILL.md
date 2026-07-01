@@ -1,6 +1,6 @@
 ---
 name: anlagen-uebergabe-an-assistenz-und-legal-tech
-description: "Erzeugt klare Arbeitsanweisungen für Kanzleiteam, Assistenz, Legal Tech oder externen Dienstleister: was umbenennen, scannen, stempeln, schwärzen, prüfen."
+description: "Wenn es um Übergabe an Assistenz und Legal Tech in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Anlagen Uebergabe An Assistenz Und Legal Tech; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Übergabe an Assistenz und Legal Tech

@@ -1,6 +1,6 @@
 ---
 name: bodenreform-und-vermoegensrecht
-description: "Deutsche Rechtsgeschichte: Bodenreform in der SBZ/DDR 1945-1949, Enteignungen ohne Entschaedigung, Fortgeltungsausschluss im Einigungsvertrag 1990 und BVerfGE 84-90 als Grundsatzentscheidung im Deutsche Rechtsgeschichte."
+description: "Wenn es um Bodenreform und Vermögensrecht (1945-1990) in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bodenreform und Vermögensrecht (1945-1990)

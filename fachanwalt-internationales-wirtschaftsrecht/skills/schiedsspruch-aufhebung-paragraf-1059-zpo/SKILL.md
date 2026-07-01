@@ -1,6 +1,6 @@
 ---
 name: schiedsspruch-aufhebung-paragraf-1059-zpo
-description: "Schiedsspruch Aufhebung § 1059 zpo: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Schiedsspruch Aufhebung Paragraf 1059 zpo in Fachanwalt Internationales Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiedsspruch Aufhebung § 1059 zpo

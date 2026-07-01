@@ -1,6 +1,6 @@
 ---
 name: zustimmung-veraeusserung-zwangsversteigerung
-description: "Prüft Zustimmungserfordernis, Versagungsgründe, Frist, Ersatz durch Gericht und Bankfähigkeit im Erbbaurecht Praxis."
+description: "Wenn es um Zustimmung zur Veräußerung/Belastung in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zustimmung zur Veräußerung/Belastung

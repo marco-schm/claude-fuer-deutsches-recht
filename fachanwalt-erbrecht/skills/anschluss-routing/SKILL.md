@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Fachanwalt Erbrecht: wählt den nächsten Spezial-Skill nach Engpass (Ausschlagung 6 Wochen § 1944 BGB, Testament/Erbvertrag, Erbschein-Antrag, Nachlassverzeichnis), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Fachanwalt Erbrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anschluss-Routing

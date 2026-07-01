@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Geldwäscheprävention AML/KYC: stimmt Adressat (Verpflichteter (Bank, Anwalt, Notar), Kunde, FIU), Frist (Verdachtsmeldung unverzüglich § 43 GwG) und Form auf den Zweck ab — typische Outputs: KYC-Dossier, SAR-Entwurf, Risikoklassifizierung."
+description: "Wenn es um Output wählen in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

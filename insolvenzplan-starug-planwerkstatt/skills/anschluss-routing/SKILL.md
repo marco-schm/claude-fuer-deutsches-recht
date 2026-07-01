@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Insolvenzplan / StaRUG: wählt den nächsten Spezial-Skill nach Engpass (Erörterungstermin, Insolvenzplan, Restrukturierungsplan, Gruppenbildung), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Insolvenzplan- und StaRUG-Planwerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anschluss-Routing

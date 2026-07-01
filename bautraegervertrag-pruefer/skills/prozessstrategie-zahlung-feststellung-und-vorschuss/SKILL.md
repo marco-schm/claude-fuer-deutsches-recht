@@ -1,6 +1,6 @@
 ---
 name: prozessstrategie-zahlung-feststellung-und-vorschuss
-description: "Entwickelt Prozessstrategie im Bauträgerstreit: Feststellung nicht fälliger Raten, Vorschuss nach § 637 BGB, Klage/Widerklage, Zahlung unter Vorbehalt, Beweislast, Sachverständige, Zinsen und Vergleich."
+description: "Wenn es um Prozessstrategie Zahlung, Feststellung und Vorschuss in Bauträgervertrag-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Prozessstrategie Zahlung, Feststellung und Vorschuss

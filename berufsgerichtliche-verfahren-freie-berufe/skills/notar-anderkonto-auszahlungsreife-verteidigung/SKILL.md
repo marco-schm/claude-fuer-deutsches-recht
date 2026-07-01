@@ -1,6 +1,6 @@
 ---
 name: notar-anderkonto-auszahlungsreife-verteidigung
-description: "Notaranderkonto Auszahlungsreife (Verteidigungs- und Kammerantwort): steuert Treuhandauflage, Anderkonto, Auszahlungsreife, Vormerkung und Insolvenzrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Wenn es um Notaranderkonto Auszahlungsreife: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notaranderkonto Auszahlungsreife: Verteidigungs- und Kammerantwort

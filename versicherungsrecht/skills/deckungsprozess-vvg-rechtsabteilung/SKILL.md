@@ -1,6 +1,6 @@
 ---
 name: deckungsprozess-vvg-rechtsabteilung
-description: "Deckungsprozess gegen Versicherer: Anspruchsgrundlage, Klageantrag, örtliche Zuständigkeit § 215 VVG, Beweislast, Streitwert, Feststellungs-/Leistungsklage im Versicherungsrecht."
+description: "Wenn es um Deckungsprozess und Gerichtsstand Paragraf 215 VVG in Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Deckungsprozess und Gerichtsstand § 215 VVG

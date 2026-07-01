@@ -1,6 +1,6 @@
 ---
 name: eintragungsverfahren-allgemein
-description: "Verfahren zur Eintragung eines Objekts in die Denkmalliste. Skill ordnet die typischen Verfahrensschritte (Anhörung, sachverständige Stellungnahme, Eintragungsverfügung, Bekanntgabe), erläutert konstitutive und nachrichtliche Eintragung und liefert eine Verteidigungslinie für die Eigentümerin gegen eine drohende Eintragung sowie eine Antragslinie für eine begehrte Eintragung."
+description: "Wenn es um Eintragungsverfahren allgemein in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eintragungsverfahren allgemein

@@ -1,6 +1,6 @@
 ---
 name: training-generativer-modelle-tdm-opt-out
-description: "Training generativer Modelle mit Text, Bild, Musik, Code und Datenbanken: TDM-Schranken, maschinenlesbarer Rechtevorbehalt, Datenbankrecht, GPAI-Transparenz und Beweisprotokoll."
+description: "Wenn es um Training generativer Modelle: TDM und Opt-out in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Training generativer Modelle: TDM und Opt-out

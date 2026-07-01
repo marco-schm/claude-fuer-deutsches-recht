@@ -1,6 +1,6 @@
 ---
 name: medr-mvz-strukturierung-spezial
-description: "Spezialfall MVZ-Strukturierung: Traegerschaft GmbH, KH, Vertragsarzt, Genossenschaft: Investorenbeteiligung, fachuebergreifend, Spezialregelung Zahnarzt-MVZ, Zulassungsaus..."
+description: "Wenn es um Medr Mvz Strukturierung Spezial in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall MVZ-Strukturierung: Traegerschaft GmbH, KH, Vertragsarzt, Genossenschaft

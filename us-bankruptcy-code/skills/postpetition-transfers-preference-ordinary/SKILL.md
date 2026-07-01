@@ -1,6 +1,6 @@
 ---
 name: postpetition-transfers-preference-ordinary
-description: "Prüft unauthorized postpetition transfers, ordinary course, court authorization and recovery im US Bankruptcy Code."
+description: "Wenn es um Postpetition Transfers Paragraf 549 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Postpetition Transfers § 549

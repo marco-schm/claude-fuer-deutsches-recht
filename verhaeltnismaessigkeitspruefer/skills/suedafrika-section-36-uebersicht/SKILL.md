@@ -1,6 +1,6 @@
 ---
 name: suedafrika-section-36-uebersicht
-description: Section 36 der Verfassung Suedafrikas 1996 als Limitation Clause mit fuenf Kriterien Bedeutung der Rechte Bedeutung des Zwecks Eingriffsintensitaet Verhältnis Mittel-Zweck und mildere Mittel. Mit Hinweisen zur Rezeption deutscher Methodik und Constitutional Court Praxis.
+description: "Wenn es um Suedafrika Section 36 Übersicht in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Suedafrika Section 36 Übersicht

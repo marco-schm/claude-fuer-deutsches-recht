@@ -1,6 +1,6 @@
 ---
 name: ki-upload-kleinunternehmer-paragraph
-description: "Solo-Selbstständige: entscheidet, was nicht in KI-Systeme gehört; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Dokumente und Kommunikation: Entscheidet in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumente und Kommunikation: Entscheidet

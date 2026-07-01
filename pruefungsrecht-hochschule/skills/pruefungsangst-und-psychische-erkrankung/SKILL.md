@@ -1,6 +1,6 @@
 ---
 name: pruefungsangst-und-psychische-erkrankung
-description: "Prüft Prüfungsangst, psychische Erkrankung und Rücktritt im Prüfungsrecht Hochschule."
+description: "Wenn es um Prüfungsangst Und Psychische Erkrankung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfungsangst Und Psychische Erkrankung

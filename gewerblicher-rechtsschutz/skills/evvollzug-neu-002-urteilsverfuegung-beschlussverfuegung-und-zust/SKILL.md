@@ -1,6 +1,6 @@
 ---
 name: evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung-und-zust
-description: "EV-Vollzug: Unterschied Urteilsverfügung und Beschlussverfügung, Zustellwege und Vollziehungsmodalitäten im gewerblichen Rechtsschutz. Amts- vs. Parteizustellung, Fristfolgen, Strategiewahl für Marken-, Patent- und UWG-Fälle im Gewerblicher Rechtsschutz."
+description: "Wenn es um EV-Vollzug 002: Urteilsverfügung, Beschlussverfügung und Zustellweg in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EV-Vollzug 002: Urteilsverfügung, Beschlussverfügung und Zustellweg

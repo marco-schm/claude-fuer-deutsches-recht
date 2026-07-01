@@ -1,6 +1,6 @@
 ---
 name: betriebskostenabrechnung-pruefen-asset-management
-description: "Betriebskostenabrechnung im Immobilienportfolio prüfen: formelle Mindestangaben, Fristen, Umlagefähigkeit, Buchhaltungsabgleich, WEG-zu-Mieter-Übersetzung, Zahlungsbelege, Wirtschaftlichkeit, HeizkostenV, CO2KostAufG und Streitwertkalkulation im Immobilienrechtspraxis."
+description: "Wenn es um Betriebskostenabrechnung prüfen in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebskostenabrechnung prüfen

@@ -1,6 +1,6 @@
 ---
 name: landesrecht-router
-description: "Findet das richtige Landeswahl-, Kommunalwahl- und Abgeordnetenrecht je Bundesland und markiert Live-Checks."
+description: "Wenn es um Landesrecht-Router Parteien in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landesrecht-Router Parteien

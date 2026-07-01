@@ -1,6 +1,6 @@
 ---
 name: spezial-vlop-livequellen-und-rechtsprechungscheck
-description: "Vlop: Livequellen- und Rechtsprechungscheck im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Vlop: Livequellen- und Rechtsprechungscheck in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vlop: Livequellen- und Rechtsprechungscheck

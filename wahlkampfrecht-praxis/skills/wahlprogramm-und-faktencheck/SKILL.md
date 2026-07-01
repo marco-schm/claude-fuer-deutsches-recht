@@ -1,6 +1,6 @@
 ---
 name: wahlprogramm-und-faktencheck
-description: "Wahlkampfrecht Praxis: Wahlprogramm und Kurzforderungen auf belegbare Tatsachenbasis prüfen im Wahlkampfrecht."
+description: "Wenn es um Wahlprogramm Und Faktencheck in Wahlkampfrecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Wahlprogramm Und Faktencheck

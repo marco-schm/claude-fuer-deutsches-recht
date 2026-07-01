@@ -1,6 +1,6 @@
 ---
 name: post-postg-2025-reformcheck
-description: "Post / PostG 2025 Reformcheck: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO im BNetzA-Verfahren."
+description: "Wenn es um Post: PostG 2025 Reformcheck in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Post: PostG 2025 Reformcheck

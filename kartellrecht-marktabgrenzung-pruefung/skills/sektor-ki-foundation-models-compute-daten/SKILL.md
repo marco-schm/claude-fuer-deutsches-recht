@@ -1,6 +1,6 @@
 ---
 name: sektor-ki-foundation-models-compute-daten
-description: "Sektor KI-Foundation-Models, Compute und Daten: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Friste..."
+description: "Wenn es um Sektor digitale Werkzeuge-Foundation-Models, Compute und Daten in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sektor KI-Foundation-Models, Compute und Daten

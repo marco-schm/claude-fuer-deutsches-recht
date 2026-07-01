@@ -1,6 +1,6 @@
 ---
 name: eidesstattliche-versicherung-294-zpo
-description: "Eidesstattliche Versicherung nach § 294 ZPO als Glaubhaftmachung. Nicht Strengbeweis nur für Glaubhaftmachung bei PKH-Antrag Wiedereinsetzung einstweiligem Rechtsschutz. Strafbarkeit der falschen eidesstattlichen Versicherung § 156 StGB."
+description: "Wenn es um Eidesstattliche Versicherung: nur Glaubhaftmachung, kein Beweis! in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Eidesstattliche Versicherung: nur Glaubhaftmachung, kein Beweis!

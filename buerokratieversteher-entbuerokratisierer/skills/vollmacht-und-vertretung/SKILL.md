@@ -1,6 +1,6 @@
 ---
 name: vollmacht-und-vertretung
-description: "Erstellt einfache Vollmacht, Begleitschreiben und Grenzen der Vertretung für Familie, Freunde, Beratungsstelle oder Anwalt im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Vollmacht und Vertretung in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vollmacht und Vertretung

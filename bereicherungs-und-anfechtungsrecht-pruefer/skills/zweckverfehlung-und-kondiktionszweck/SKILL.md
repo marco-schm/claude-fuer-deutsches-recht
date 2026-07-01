@@ -1,6 +1,6 @@
 ---
 name: zweckverfehlung-und-kondiktionszweck
-description: "Zweckverfehlung, Wegfall des Leistungszwecks und kondiktionsrechtliche Zweckabreden prüfen. Normen: § 812 Abs. 1 S. 2 BGB. Output: Zweckkondiktions-Prüfbogen."
+description: "Wenn es um Zweckverfehlung und Kondiktionszweck in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zweckverfehlung und Kondiktionszweck

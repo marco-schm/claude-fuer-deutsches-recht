@@ -1,6 +1,6 @@
 ---
 name: einbuergerung-mehrstaatigkeit
-description: "Einbürgerung Mehrstaatigkeit: Fachmodul im Migrationsrecht: prüft Reformstand, Staatsangehörigkeitsrecht, Dokumente, Risiken; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Einbürgerung Mehrstaatigkeit: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einbürgerung Mehrstaatigkeit: Fachmodul im Migrationsrecht

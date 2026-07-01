@@ -1,6 +1,6 @@
 ---
 name: kita-platz-kleinanzeige-betrug-kleine
-description: "Kita-Platz abgelehnt: führt Laien durch Anspruch auf Betreuung, Eilverfahren, Schadensersatz und kommunale Zuständigkeit. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Kita-Platz abgelehnt in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kita-Platz abgelehnt

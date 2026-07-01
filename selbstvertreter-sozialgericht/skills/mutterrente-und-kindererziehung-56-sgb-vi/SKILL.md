@@ -1,6 +1,6 @@
 ---
 name: mutterrente-und-kindererziehung-56-sgb-vi
-description: "Mutterrente und Kindererziehungszeiten nach § 56 SGB VI. Skill erklaert die Beruecksichtigung der Erziehungszeiten 1986-Stichtag spaetere Reformen (Mutterrente I II III) Aufteilung zwischen Eltern und die Geltendmachung. Liefert Prüfraster."
+description: "Wenn es um Mutterrente Und Kindererziehung 56 Sgb Vi in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mutterrente Und Kindererziehung 56 Sgb Vi

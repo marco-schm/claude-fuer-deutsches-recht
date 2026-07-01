@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-mandantengespraech-uebergabe
-description: "BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persoenliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechsnotiz mit Massnahmen-Liste."
+description: "Wenn es um BWA-Uebergabegespraech mit dem Mandanten in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BWA-Uebergabegespraech mit dem Mandanten

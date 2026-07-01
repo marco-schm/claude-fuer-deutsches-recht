@@ -1,6 +1,6 @@
 ---
 name: patentanwalt-fristenversaeumnis-epo-dpma-praevention
-description: "Patentanwalt Fristenversäumnis DPMA/EPO (Präventions- und Organisationspaket): steuert Fristversäumnis, Wiedereinsetzung, Mandanteninformation und berufsrechtliche Aufarbeitung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtlich..."
+description: "Wenn es um Patentanwalt Fristenversäumnis DPMA/EPO: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwalt Fristenversäumnis DPMA/EPO: Präventions- und Organisationspaket

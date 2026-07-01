@@ -1,6 +1,6 @@
 ---
 name: eigenverwaltung-sachwaltung
-description: "Sachwalter­kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §§ 270 ff. InsO. §§ 270 274 275 InsO Sachwalterbefugnisse und Kontrollrechte. Prüfraster: Rollenabgrenzung Finanzplankontrolle Rechnungslegung Anfechtung Haftung Gläubigerinformation. Output: Sachwalterberichte Beanstandun..."
+description: "Wenn es um Eigenverwaltung und Sachwaltung in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eigenverwaltung und Sachwaltung

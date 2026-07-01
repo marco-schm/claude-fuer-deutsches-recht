@@ -1,6 +1,6 @@
 ---
 name: fristkalender-partei
-description: "Erstellt Fristenkalender für Versammlungen, Wahlvorschläge, Rechenschaft, Spendenmeldungen, Satzungsfristen."
+description: "Wenn es um Fristkalender Partei in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fristkalender Partei; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Fristkalender Partei

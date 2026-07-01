@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Common Law Kompass: ordnet Rolle (Mandant US/UK, Counsel local, Court), markiert Frist (Statutes of Limitations je Jurisdiction), wählt Norm (UK/US/Commonwealth common law, Restatements (US), ECHR/EU-CFR) und Zuständigkeit (UK Supreme Court, US Supreme Court), lei..."
+description: "Wenn es um Einstieg und Routing in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

@@ -1,6 +1,6 @@
 ---
 name: fachzeitschrift-peer-review-und-haftung
-description: "Verlagsrecht: Fachzeitschriften, Peer-Review-Verfahren, Haftung für fehlerhafte Fachinformation und Autorenrechte — UrhG §§ 38 und 32d, wissenschaftliche Publikationsstandards im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-029 · Fachzeitschrift, Peer Review und Haftung in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-029 · Fachzeitschrift, Peer Review und Haftung

@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-hebesatz-zahlungsplan
-description: "Kommunalen Grundsteuerbescheid prüfen: Hebesatz, Satzung, Fälligkeiten, Zahlungsplan, Stundung, Erlass, Vollstreckungsaufschub, Abgrenzung Finanzamt/Gemeinde und Kommunikation mit Hausverwaltung oder Kommune."
+description: "Wenn es um Grundsteuer: Hebesatz, Zahlung und Gemeindeebene in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grundsteuer: Hebesatz, Zahlung und Gemeindeebene

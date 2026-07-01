@@ -1,6 +1,6 @@
 ---
 name: terminvorbereitung-laien-checkliste
-description: "Detaillierte Vorbereitung auf den SG-Termin. Was sage ich was nehme ich mit was muss ich vorher wissen. Vor allem zum Vortrag zum Antrag und zur Reaktion auf Fragen."
+description: "Wenn es um Terminvorbereitung — Checkliste für Laien in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Terminvorbereitung — Checkliste für Laien

@@ -1,6 +1,6 @@
 ---
 name: anfechtung-142-und-rueckabwicklung
-description: "Bei eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Normen: §§ 119 bis 124 BGB sowie §§ 142 und 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersat..."
+description: "Wenn es um Anfechtung nach Paragraf 142 BGB und Rückabwicklung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anfechtung nach § 142 BGB und Rückabwicklung

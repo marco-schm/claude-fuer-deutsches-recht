@@ -1,6 +1,6 @@
 ---
 name: rueckversicherung-cut-through-und-fronting
-description: "Rückversicherung, Fronting-Strukturen, Captives, Cut-through-Klauseln und Insolvenzrisiken rechtlich einordnen im Versicherungsrecht."
+description: "Wenn es um Rückversicherung, Cut-through und Fronting in Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rückversicherung, Cut-through und Fronting

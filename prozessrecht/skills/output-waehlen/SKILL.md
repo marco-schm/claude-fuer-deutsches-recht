@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Prozessrecht (ZPO/VwGO/StPO/SGG): stimmt Adressat (Mandant, Gegner, Gericht), Frist (Berufung 1 Mon. Paragraf 517 ZPO) und Form auf den Zweck ab — typische Outputs: Klage, Klageerwiderung, Beweisantrag."
+description: "Wenn es um Output wählen in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

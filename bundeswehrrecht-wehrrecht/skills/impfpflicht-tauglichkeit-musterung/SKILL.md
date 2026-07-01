@@ -1,6 +1,6 @@
 ---
 name: impfpflicht-tauglichkeit-musterung
-description: "Impfpflicht, Tauglichkeit und Musterung: prüft Impfpflicht Soldaten, Weigerungsrecht, Tauglichkeitsfeststellung und Rechtsmittel. Norm-/Quellenanker: SG § 17a, IfSG, WPflG, DV 46/1 im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Impfpflicht, Tauglichkeit und Musterung in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Impfpflicht, Tauglichkeit und Musterung

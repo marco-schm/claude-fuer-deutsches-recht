@@ -1,6 +1,6 @@
 ---
 name: beschluss-tatbestandsmerkmale
-description: "Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrens..."
+description: "Wenn es um Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage

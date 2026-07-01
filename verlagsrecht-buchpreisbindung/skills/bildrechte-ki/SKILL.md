@@ -1,6 +1,6 @@
 ---
 name: bildrechte-ki
-description: "Verlagsrecht: Bildrechte, Kartenrechte, Tabellen und sonstiges Drittmaterial im Buch — Nutzungsrechte einholen, Bildrechtsverträge, CC-Lizenzen und Haftung bei Fehlern im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-018 · Bildrechte, Karten, Tabellen und Drittmaterial in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-018 · Bildrechte, Karten, Tabellen und Drittmaterial

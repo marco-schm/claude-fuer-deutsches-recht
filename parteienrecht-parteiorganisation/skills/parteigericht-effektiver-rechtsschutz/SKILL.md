@@ -1,6 +1,6 @@
 ---
 name: parteigericht-effektiver-rechtsschutz
-description: "Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch effektiven Rechtsschutz bietet oder staatlicher Eilrechtsschutz parallel vorbereitet werden muss."
+description: "Wenn es um Parteigericht: Effektiver Rechtsschutz in Parteienrecht und Parteiorganisation geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Parteigericht Effektiver Rechtsschutz; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Parteigericht: Effektiver Rechtsschutz

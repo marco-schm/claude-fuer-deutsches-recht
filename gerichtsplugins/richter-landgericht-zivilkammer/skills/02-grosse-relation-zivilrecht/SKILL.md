@@ -1,6 +1,6 @@
 ---
 name: 02-grosse-relation-zivilrecht
-description: "Vollständige zivilrechtliche Relation: Schluessigkeitsprüfung (Klägerstation), Erheblichkeitsprüfung (Beklagtenstation), beweisbedürftige Tatsachen, Beweislastverteilung, Plausibilisierung, schriftliches Votum für die Kammerberatung"
+description: "Wenn es um 02 Große Relation Zivilrecht in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 02 Große Relation Zivilrecht

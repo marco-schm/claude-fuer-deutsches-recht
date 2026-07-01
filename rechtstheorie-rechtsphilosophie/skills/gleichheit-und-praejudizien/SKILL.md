@@ -1,6 +1,6 @@
 ---
 name: gleichheit-und-praejudizien
-description: "Prüft Gleichbehandlung durch Praejudizien: ratio, Vergleichbarkeit, Abweichungslast, Fortentwicklung und institutionelle Kontinuität."
+description: "Wenn es um Gleichheit und Präjudizien in Rechtstheorie und Rechtsphilosophie geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Gleichheit und Präjudizien

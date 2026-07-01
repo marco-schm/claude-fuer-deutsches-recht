@@ -1,6 +1,6 @@
 ---
 name: susa-monatlich-quartalsweise
-description: "Periodische SuSa-Erstellung monatlich oder quartalsweise. Anwendungsfall standardisierter Erstellungsprozess Wahl der Periodizitaet Belegvolumen Mandantengroesse. Methodik Wahl der Frequenz Kommunikations-Routine. Output Periodische SuSa mit Dokumentation."
+description: "Wenn es um Periodische SuSa-Erstellung — Monat oder Quartal in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Periodische SuSa-Erstellung — Monat oder Quartal

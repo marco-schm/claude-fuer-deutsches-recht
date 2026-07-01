@@ -1,6 +1,6 @@
 ---
 name: klageerwiderung-substantiiertes-bestreiten
-description: "Drafting einer Klageerwiderung mit korrekter Bestreitenshöhe nach § 138 ZPO. Wahrheits- und Substantiierungslast als Drafting-Treiber. Unterscheidung zwischen einfachem Bestreiten und substantiiertem Bestreiten mit Behauptung des Gegenteils. Beweislastverteilung steuert die Architektur. Aufbau: E..."
+description: "Wenn es um Klageerwiderung und substantiiertes Bestreiten in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klageerwiderung und substantiiertes Bestreiten

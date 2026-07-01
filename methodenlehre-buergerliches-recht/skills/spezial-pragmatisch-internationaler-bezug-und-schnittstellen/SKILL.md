@@ -1,6 +1,6 @@
 ---
 name: spezial-pragmatisch-internationaler-bezug-und-schnittstellen
-description: "Pragmatisch: Internationaler Bezug und Schnittstellen im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Pragmatisch: Internationaler Bezug und Schnittstellen in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pragmatisch: Internationaler Bezug und Schnittstellen

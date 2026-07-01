@@ -1,6 +1,6 @@
 ---
 name: muster-anzeige-eilantrag
-description: "Erstellt eine präzise Anzeige für Kundgebung, Mahnwache, Demonstrationszug, Fahrradaufzug oder Dauerversammlung im Versammlungsrecht."
+description: "Wenn es um Formular und Freitext in einem in Versammlungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Formular und Freitext in einem

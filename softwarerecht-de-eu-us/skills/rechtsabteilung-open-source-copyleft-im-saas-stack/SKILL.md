@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-open-source-copyleft-im-saas-stack
-description: "Rechtsabteilungs-Fachmodul für Open-Source-Copyleft im SaaS-Stack: Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Softwarerecht De Eu Us."
+description: "Wenn es um Rechtsabteilung: Open-Source-Copyleft im SaaS-Stack in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Open-Source-Copyleft im SaaS-Stack

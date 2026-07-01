@@ -1,6 +1,6 @@
 ---
 name: lph-06-verbraucher-privater-bauherr
-description: "HOAI LPH 6 Vorbereitung der Vergabe: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 6 Vorbereitung der Vergabe: Erklärt pflichten in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Erklärt pflichten

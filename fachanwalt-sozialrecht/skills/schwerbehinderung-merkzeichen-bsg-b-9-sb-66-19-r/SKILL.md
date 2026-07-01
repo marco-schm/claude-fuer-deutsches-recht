@@ -1,6 +1,6 @@
 ---
 name: schwerbehinderung-merkzeichen-bsg-b-9-sb-66-19-r
-description: "Schwerbehinderung Merkzeichen Bsg B 9 Sb 66 19 R: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Schwerbehinderung Merkzeichen Bsg B 9 Sb 66 19 R in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schwerbehinderung Merkzeichen Bsg B 9 Sb 66 19 R

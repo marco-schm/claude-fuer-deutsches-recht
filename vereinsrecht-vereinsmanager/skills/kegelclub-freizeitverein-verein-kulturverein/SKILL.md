@@ -1,6 +1,6 @@
 ---
 name: kegelclub-freizeitverein-verein-kulturverein
-description: "Minimalregeln für kleine Freizeitvereine: Kasse, Beiträge, Protokoll, Haftung, Austritt und Streitvermeidung im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Kegelclub/Freizeitverein in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kegelclub/Freizeitverein

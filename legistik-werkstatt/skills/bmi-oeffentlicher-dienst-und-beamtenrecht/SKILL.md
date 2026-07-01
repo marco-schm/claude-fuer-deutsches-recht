@@ -1,6 +1,6 @@
 ---
 name: bmi-oeffentlicher-dienst-und-beamtenrecht
-description: "Sachbereich Oeffentlicher Dienst und Beamtenrecht im Geschäftsbereich BMI: Normbestand (BBG; BeamtStG; BBesG; BVwVfG; LRG; BLV; BUVO; SBG.); Akteure (BMI; Bundesverwaltungsamt; Bundespersonalausschuss; oberste Dienstbehoerden.); EU-Bezug (Freizuegigkeit der Arbeitnehmer Art. 45 AEUV; Gleichbehan"
+description: "Wenn es um Oeffentlicher Dienst und Beamtenrecht (BMI) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmi Oeffentlicher Dienst Und Beamtenrecht; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Oeffentlicher Dienst und Beamtenrecht (BMI)

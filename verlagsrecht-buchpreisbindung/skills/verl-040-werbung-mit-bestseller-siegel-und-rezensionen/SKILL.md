@@ -1,6 +1,6 @@
 ---
 name: verl-040-werbung-mit-bestseller-siegel-und-rezensionen
-description: "Verlagsrecht: Werbung mit Bestseller Siegel und Rezensionen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Werbung mit Bestseller Siegel und Rezensionen in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Werbung mit Bestseller Siegel und Rezensionen

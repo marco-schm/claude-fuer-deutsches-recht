@@ -1,6 +1,6 @@
 ---
 name: gesellschafterstreit-einstweiliger-rechtsschutz
-description: Strukturiert Gesellschafterstreitigkeiten mit Beschlussmängeln, Informationsrechten, Unterlassung, Listenkorrektur und Eilrechtsschutz.
+description: "Wenn es um Gesellschafterstreit und einstweiliger Rechtsschutz in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Gesellschafterstreit und einstweiliger Rechtsschutz
 

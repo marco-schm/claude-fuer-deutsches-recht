@@ -1,6 +1,6 @@
 ---
 name: computerprogramm-verfahrensausschluss
-description: "Computerprogramm-, Verfahrens- und Methodenabgrenzung prüfen: wann Gebrauchsmuster ausscheidet und ob Patent, Urheberrecht oder Geheimhaltung besser passt im Gebrauchsmusterrecht."
+description: "Wenn es um Computerprogramm Und Verfahrensausschluss in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Computerprogramm Und Verfahrensausschluss

@@ -1,6 +1,6 @@
 ---
 name: apa-carve-out-pe
-description: "Strukturiert Asset Deal und Carve-out: Perimeter, Übertragung einzelner Assets, Verträge, Arbeitnehmer, TSAs und Übergang im Private Equity Praxis."
+description: "Wenn es um APA und Carve-out in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # APA und Carve-out

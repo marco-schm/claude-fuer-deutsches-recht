@@ -1,6 +1,6 @@
 ---
 name: umv-021-windpark-beteiligung-pruefen
-description: "Umweltschutzverband Verbandsklage: Windpark: Beteiligung prüfen. Beteiligung prüfen für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Windpark Beteiligung Pruefen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Windpark Beteiligung Pruefen

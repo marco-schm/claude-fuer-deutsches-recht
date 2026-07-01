@@ -1,6 +1,6 @@
 ---
 name: word
-description: "Bereitet Word-, PDF- und Scan-Anlagen für Gerichts- oder Behördenwege vor: Konvertierung, Lesezeichen, PDF/A, Dateiname, Deckblatt."
+description: "Wenn es um Word/PDF-Umwandlung für Gericht und Behörden in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Word/PDF-Umwandlung für Gericht und Behörden

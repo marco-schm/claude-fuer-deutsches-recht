@@ -1,6 +1,6 @@
 ---
 name: rare-earths-and-critical-raw-materials
-description: "Kritische Rohstoffe aus VR China (Seltene Erden, Gallium, Germanium, Graphit): Exportrestriktionen CN (seit 2023 Gallium/Germanium-Lizenzvorbehalt), Critical Raw Materials Act EU 2024/1252 Diversifizierungspflichten, Beschaffungsalternativen, Lagerstrategien, LkSG § 5 Risikobewertung, Vertraglich..."
+description: "Wenn es um Seltene Erden und kritische Rohstoffe: Risiken und Diversifizierung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Seltene Erden und kritische Rohstoffe: Risiken und Diversifizierung

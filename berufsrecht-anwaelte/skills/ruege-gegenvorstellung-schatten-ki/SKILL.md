@@ -1,6 +1,6 @@
 ---
 name: ruege-gegenvorstellung-schatten-ki
-description: "Anwälte: ruege und gegenvorstellung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Ruege Gegenvorstellung Schatten Ki in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: ruege und gegenvorstellung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: bora-internationaler-bezug-und-schnittstellen
-description: "Bora: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Bora: Internationaler Bezug und Schnittstellen in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bora Internationaler Bezug Und Schnittstellen; Arbeitsfeld: E-Mail-Umformulierer."
 ---
 
 # Bora: Internationaler Bezug und Schnittstellen

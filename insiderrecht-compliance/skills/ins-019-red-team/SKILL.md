@@ -1,6 +1,6 @@
 ---
 name: ins-019-red-team
-description: "Findet Schwachstellen in Insidervermerk, Aufschubakte, Insiderliste, Ad-hoc-Entwurf und Handelsfreigabe."
+description: "Wenn es um Red-Team Insiderrecht in Insiderrecht Compliance geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team Insiderrecht

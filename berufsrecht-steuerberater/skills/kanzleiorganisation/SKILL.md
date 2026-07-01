@@ -1,6 +1,6 @@
 ---
 name: kanzleiorganisation
-description: "Kanzleiorganisation: vertiefter Berufsrechts-Skill für Steuerberater; prüft Kanzleiorganisation im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
+description: "Wenn es um Kanzleiorganisation in Berufsrecht Steuerberater geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kanzleiorganisation

@@ -1,6 +1,6 @@
 ---
 name: emails-chats-screenshots-als-anlagen
-description: "Macht aus EML/MSG, Chatverläufen und Screenshots gerichtstaugliche Anlagen mit Headern, Kontext, Exportlogik, Vollständigkeitswarnung und Beweiszweck."
+description: "Wenn es um E-Mails, Chats und Screenshots als Anlagen in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # E-Mails, Chats und Screenshots als Anlagen

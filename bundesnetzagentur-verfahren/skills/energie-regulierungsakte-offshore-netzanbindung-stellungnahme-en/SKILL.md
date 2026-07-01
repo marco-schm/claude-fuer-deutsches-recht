@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-offshore-netzanbindung-stellungnahme-en
-description: "Offshore-Netzanbindung: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: Offshore-Netzanbindung — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: Offshore-Netzanbindung — Stellungnahme-Entwurf

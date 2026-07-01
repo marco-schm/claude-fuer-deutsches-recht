@@ -1,6 +1,6 @@
 ---
 name: lohnpfaendung-und-arbeitgeber
-description: "Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz: Normanker: ZPO §§ 850 ff.; InsO..."
+description: "Wenn es um Lohnpfaendung Und Arbeitgeber in Verbraucherinsolvenz und Schuldenbereinigung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.

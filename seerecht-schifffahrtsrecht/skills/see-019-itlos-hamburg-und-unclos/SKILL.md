@@ -1,6 +1,6 @@
 ---
 name: see-019-itlos-hamburg-und-unclos
-description: "See- und Schifffahrtsrecht: ITLOS Hamburg und UNCLOS. ITLOS Hamburg und UNCLOS im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Itlos Hamburg Und Unclos in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Itlos Hamburg Und Unclos

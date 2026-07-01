@@ -1,6 +1,6 @@
 ---
 name: chn-051-employee-data-china-operations
-description: "Festlandchina Wirtschaftsverkehr: Employee Data China Operations. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Employee Data China Operations in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Employee Data China Operations

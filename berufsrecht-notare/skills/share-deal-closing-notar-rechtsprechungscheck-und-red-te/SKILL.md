@@ -1,6 +1,6 @@
 ---
 name: share-deal-closing-notar-rechtsprechungscheck-und-red-te
-description: "Notare: share deal closing notar - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Share Deal Closing Notar Rechtsprechungscheck Und Red Te in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: share deal closing notar - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

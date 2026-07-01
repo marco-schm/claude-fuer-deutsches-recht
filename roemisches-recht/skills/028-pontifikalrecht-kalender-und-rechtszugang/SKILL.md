@@ -1,6 +1,6 @@
 ---
 name: 028-pontifikalrecht-kalender-und-rechtszugang
-description: "Römisches Recht: Pontifikalrecht Kalender und Rechtszugang im Römisches Recht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Rom Pontifikalrecht Kalender Und Rechtszugang in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Pontifikalrecht Kalender Und Rechtszugang

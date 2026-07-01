@@ -1,6 +1,6 @@
 ---
 name: rom-neu-020-rezeption-deutschland-rkg-usus-modernus
-description: "Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus

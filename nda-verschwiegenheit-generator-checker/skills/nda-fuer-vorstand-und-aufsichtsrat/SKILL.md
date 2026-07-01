@@ -1,6 +1,6 @@
 ---
 name: nda-fuer-vorstand-und-aufsichtsrat
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Vorstand Und Aufsichtsrat; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um NDA Für Vorstand Und Aufsichtsrat in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # NDA Für Vorstand Und Aufsichtsrat

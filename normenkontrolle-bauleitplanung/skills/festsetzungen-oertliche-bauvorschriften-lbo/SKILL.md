@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-oertliche-bauvorschriften-lbo
-description: "Prueft oertliche Bauvorschriften im Bebauungsplan nach BauGB Paragraf 9 Absatz 4 und Landesbauordnung: Gestaltung, Dach, Einfriedung, Stellplatz und Kompetenzgrenze."
+description: "Wenn es um Örtliche Bauvorschriften im Bebauungsplan in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Örtliche Bauvorschriften im Bebauungsplan

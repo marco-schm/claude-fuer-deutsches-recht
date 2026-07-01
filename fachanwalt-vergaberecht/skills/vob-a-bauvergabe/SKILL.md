@@ -1,6 +1,6 @@
 ---
 name: vob-a-bauvergabe
-description: "VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: öffentlicher Auftraggeber bei Bauleistungen oder Bieter im Bauvergabeverfahren: VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: öffentlicher Auftraggeber bei Bauleistungen..."
+description: "Wenn es um Vob A Bauvergabe in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: öffentlicher Auftraggeber bei Bauleistungen oder Bieter im Bauvergabeverfahren

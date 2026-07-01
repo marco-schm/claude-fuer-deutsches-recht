@@ -1,6 +1,6 @@
 ---
 name: foto-video-einwilligung-schule
-description: "Prüft Bilder, Videos, Klassenchat, Einwilligungen, DSGVO und schulische Öffentlichkeitsarbeit im Schulrecht Länder."
+description: "Wenn es um Foto, Video und Einwilligung Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Foto, Video und Einwilligung Schule

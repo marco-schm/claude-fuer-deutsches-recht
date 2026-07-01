@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-grosshandelsdaten-transparenz-fristen-u
-description: "Großhandelsdaten Transparenz: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: Großhandelsdaten Transparenz — Fristen- und Bescheidanalyse in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energie-Regulierungsakte: Großhandelsdaten Transparenz — Fristen- und Bescheidanalyse

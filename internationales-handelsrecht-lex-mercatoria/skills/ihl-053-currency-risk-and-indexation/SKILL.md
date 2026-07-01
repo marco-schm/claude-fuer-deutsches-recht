@@ -1,6 +1,6 @@
 ---
 name: ihl-053-currency-risk-and-indexation
-description: "Internationales Handelsrecht und Lex Mercatoria: Currency Risk And Indexation. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Currency Risk And Indexation in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Currency Risk And Indexation

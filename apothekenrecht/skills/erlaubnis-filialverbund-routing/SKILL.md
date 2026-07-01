@@ -1,6 +1,6 @@
 ---
 name: erlaubnis-filialverbund-routing
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Erlaubnis Filialverbund Routing im Apothekenrecht."
+description: "Wenn es um Erlaubnis Filialverbund Routing in Apothekenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erlaubnis Filialverbund Routing

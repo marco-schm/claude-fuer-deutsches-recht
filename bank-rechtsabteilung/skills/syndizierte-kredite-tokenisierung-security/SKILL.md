@@ -1,6 +1,6 @@
 ---
 name: syndizierte-kredite-tokenisierung-security
-description: "Syndizierte Kredite, Facility Agent und Security Trustee prüfen: Rollen, Mehrheitsentscheidungen, Sicherheitenpool, Parallel Debt, deutsches Recht, Enforcement und Sanierungsfall im Bank-Rechtsabteilung."
+description: "Wenn es um Syndizierter Kredit in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Syndizierter Kredit

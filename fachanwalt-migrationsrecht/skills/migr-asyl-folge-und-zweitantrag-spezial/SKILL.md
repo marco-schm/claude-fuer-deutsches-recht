@@ -1,6 +1,6 @@
 ---
 name: migr-asyl-folge-und-zweitantrag-spezial
-description: "Spezialfall Asyl-Folge- und Zweitantrag: § 71 AsylG, neue Beweismittel, geaenderte Sachlage: Antragsbegruendung, Erfolgschancen, Eilantrag Aufschiebende Wirkung. Mu..."
+description: "Wenn es um Migr Asyl Folge Und Zweitantrag Spezial in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Spezialfall Asyl-Folge- und Zweitantrag: § 71 AsylG, neue Beweismittel, geaenderte Sachlage

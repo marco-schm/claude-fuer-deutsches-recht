@@ -1,6 +1,6 @@
 ---
 name: output-zweisprachig-bilingual-deutsch-englisch
-description: "Output: zweisprachiger Lizenzvertrag mit Massgeb-Sprache. Side-by-side DE/EN; Massgeb-Klausel bei Divergenz; sprachliche Sorgfalt; Glossar; Vorteile und Risiken bilingualer Gestaltung."
+description: "Wenn es um Output: Zweisprachiger Lizenzvertrag DE/EN in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output: Zweisprachiger Lizenzvertrag DE/EN

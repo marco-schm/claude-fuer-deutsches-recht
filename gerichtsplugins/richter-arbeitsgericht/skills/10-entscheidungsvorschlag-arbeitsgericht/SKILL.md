@@ -1,6 +1,6 @@
 ---
 name: 10-entscheidungsvorschlag-arbeitsgericht
-description: "Strukturierter Entscheidungsvorschlag: Tenor-Skizze, Kündigungsprüfungsschema, Anspruchsprüfung, Vergleichsvorschlag für Guetetermin, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert"
+description: "Wenn es um 10 Entscheidungsvorschlag Arbeitsgericht in Arbeitsgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # 10 Entscheidungsvorschlag Arbeitsgericht

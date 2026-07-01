@@ -1,6 +1,6 @@
 ---
 name: private-rentenversicherung-vertragscheck
-description: "Prüft private Rentenversicherungen: Garantierente, Überschüsse, Kapitalwahlrecht, Kosten, Rentenfaktor, Bezugsrecht, Kündigung, Beitragsfreistellung und Vergleich zur DRV-Strategie."
+description: "Wenn es um Private Rentenversicherung im Rentenfahrplan in Rentenprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Private Rentenversicherung im Rentenfahrplan

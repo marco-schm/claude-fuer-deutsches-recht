@@ -1,6 +1,6 @@
 ---
 name: agb-fuer-vereinsausschluss-und-haftung
-description: "AGB-Klauseln zum Vereinsausschluss und zur Haftung im Verein. Skill klaert die AGB-rechtliche Prüfung von Ausschlussklauseln in Vereinssatzungen und Beitrittsformularen das Verhältnis zur Vereinsautonomie und das gerichtliche Prüfraster bei Vereinsausschluessen. Liefert Klauselentwurf."
+description: "Wenn es um Agb Für Vereinsausschluss Und Haftung in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Für Vereinsausschluss Und Haftung

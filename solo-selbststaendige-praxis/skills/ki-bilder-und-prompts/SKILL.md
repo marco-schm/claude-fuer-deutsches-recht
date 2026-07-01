@@ -1,6 +1,6 @@
 ---
 name: ki-bilder-und-prompts
-description: "Solo-Selbstständige: prüft KI-Bilder, Trainingsdatenrisiko, Lizenz und Kundenfreigabe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um IP Content und Arbeitsergebnisse: Prüft ki-bilder in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IP Content und Arbeitsergebnisse: Prüft ki-bilder

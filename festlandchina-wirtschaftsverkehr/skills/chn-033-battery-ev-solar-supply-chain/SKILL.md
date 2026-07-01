@@ -1,6 +1,6 @@
 ---
 name: chn-033-battery-ev-solar-supply-chain
-description: "Festlandchina Wirtschaftsverkehr: Battery Ev Solar Supply Chain. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Battery Ev Solar Supply Chain in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Battery Ev Solar Supply Chain

@@ -1,6 +1,6 @@
 ---
 name: klageschrift-tatsachenvortrag-strukturieren
-description: "Strukturierung des Tatsachenvortrags in der Klageschrift. Chronologische Schilderung pro Tatbestandsmerkmal Beweis-Junktur und rechtliche Würdigung in einfacher Sprache. Mit Mustertext Vermeidung von Pauschalbehauptungen und Standard-Fehlern."
+description: "Wenn es um Den Sachverhalt richtig in die Klage schreiben in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Den Sachverhalt richtig in die Klage schreiben

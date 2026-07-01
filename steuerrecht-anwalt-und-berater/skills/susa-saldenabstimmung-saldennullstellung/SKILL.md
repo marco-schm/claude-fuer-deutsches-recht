@@ -1,6 +1,6 @@
 ---
 name: susa-saldenabstimmung-saldennullstellung
-description: "Saldenabstimmung und Saldenbestätigung im Jahresabschluss-Anlass. Anwendungsfall Bilanzvorbereitung Stichtag Forderungen und Verbindlichkeiten Lieferanten Kunden Banken. Methodik Abstimmungsschreiben Antwortauswertung Differenzklaerung. Output Saldenbestätigungs-Mappe im Steuerrecht Anwalt Und Be..."
+description: "Wenn es um Saldenabstimmung — Bestaetigung der Stichtagssalden in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Susa Saldenabstimmung Saldennullstellung; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Saldenabstimmung — Bestaetigung der Stichtagssalden

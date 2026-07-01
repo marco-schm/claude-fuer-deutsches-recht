@@ -1,6 +1,6 @@
 ---
 name: transparenzgesetz-frist-setzen
-description: "Informationsfreiheit und Presseauskunft: Transparenzgesetz: Frist setzen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Transparenzgesetz Frist Setzen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transparenzgesetz Frist Setzen

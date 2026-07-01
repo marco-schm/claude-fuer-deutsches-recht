@@ -1,6 +1,6 @@
 ---
 name: sozialgerichtsverfahren
-description: "Sozialgerichtsverfahren in Einfacher Sprache: Klageeinreichung Niederschrift § 90 SGG, kein Anwaltszwang, ehrenamtliche Richter. Vorlage Mandanteninformation 'Was passiert vor dem Sozialgericht'."
+description: "Wenn es um ELS-J Sozialgerichtsverfahren in Einfache und Leichte Sprache für juristische Texte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # ELS-J Sozialgerichtsverfahren

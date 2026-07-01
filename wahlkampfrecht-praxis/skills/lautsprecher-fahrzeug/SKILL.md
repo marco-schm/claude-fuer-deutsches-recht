@@ -1,6 +1,6 @@
 ---
 name: lautsprecher-fahrzeug
-description: "Wahlkampfrecht Praxis: Lautsprecherwagen und mobile Wahlwerbung prüfen im Wahlkampfrecht."
+description: "Wenn es um Lautsprecher Fahrzeug in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lautsprecher Fahrzeug

@@ -1,6 +1,6 @@
 ---
 name: fran-009-markennutzung-ci-und-qualitaetskontrolle
-description: "Franchiserecht: Markennutzung CI und Qualitätskontrolle mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Markennutzung CI und Qualitätskontrolle in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Markennutzung CI und Qualitätskontrolle

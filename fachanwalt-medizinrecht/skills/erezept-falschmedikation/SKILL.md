@@ -1,6 +1,6 @@
 ---
 name: erezept-falschmedikation
-description: "E-Rezept und Falschmedikation: moderner Medizinrechts-Skill für E-Rezept, Medikationsliste, Wechselwirkung, Apotheken-/Arztfehler und Nachweisführung: E-Rezept und Falschmedikation: moderner Medizinrechts-Skill für E-Rezept, Medikationsliste, Wechselwirkung..."
+description: "Wenn es um Erezept Falschmedikation in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # E-Rezept und Falschmedikation: moderner Medizinrechts-Skill für E-Rezept, Medikationsliste, Wechselwirkung, Apotheken-/Arztfehler und Nachweisführung

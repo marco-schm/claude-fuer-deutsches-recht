@@ -1,6 +1,6 @@
 ---
 name: ecommerce-marketplace
-description: "Analysiert Provisionsansprüche und Ausgleich bei E-Commerce- und Marketplace-Vertrieb: Einordnung von Plattformvermittlern als Handelsvertreter oder Makler, Provision bei Online-Abschlüssen durch Dritte, Bezirksschutz im digitalen Vertrieb und Auswirkungen von Marktplatzbeziehungen auf Ausgleichs..."
+description: "Wenn es um E-Commerce und Marketplace-Vertrieb im Handelsvertreterrecht nach Paragrafen 84 und 87 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # E-Commerce und Marketplace-Vertrieb im Handelsvertreterrecht nach §§ 84 und 87 HGB

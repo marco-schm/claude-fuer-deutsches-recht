@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungsradar-nachtragsverteilung-schufa-neustart
-description: "Verbraucherinsolvenz-Rechtsprechungsradar zu Restschuldbefreiung, Nachtragsverteilung, Steuererstattung und Auskunftei-Neustart: verbindet InsO, InsBekV, ZPO und DSGVO mit verifizierten BGH-/EuGH-Ankern."
+description: "Wenn es um Rechtsprechungsradar: Nachtragsverteilung, SCHUFA und Neustart in Verbraucherinsolvenz und Schuldenbereinigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsprechungsradar: Nachtragsverteilung, SCHUFA und Neustart

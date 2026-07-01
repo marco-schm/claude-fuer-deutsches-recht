@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Einfache/Leichte Sprache Jura: sortiert Originalbescheid, Vereinfachte Fassung, Lese-Test, prüft Datum, Absender, Frist und Beweiswert (Verständlichkeits-Test, Lese-Probanden-Feedback); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

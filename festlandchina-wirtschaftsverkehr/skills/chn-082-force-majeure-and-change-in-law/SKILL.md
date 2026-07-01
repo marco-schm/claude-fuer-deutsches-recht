@@ -1,6 +1,6 @@
 ---
 name: chn-082-force-majeure-and-change-in-law
-description: "Festlandchina Wirtschaftsverkehr: Force Majeure And Change In Law. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Force Majeure And Change In Law in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Force Majeure And Change In Law

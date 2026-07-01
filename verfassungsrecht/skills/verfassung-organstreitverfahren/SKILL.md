@@ -1,6 +1,6 @@
 ---
 name: verfassung-organstreitverfahren
-description: "Organstreitverfahren Art. 93 Abs. 1 Nr. 1 GG, § 13 Nr. 5, §§ 63 ff. BVerfGG: Antragsteller (Verfassungsorgane, mit eigenen Rechten ausgestattete Teile), Antragsgegenstand Maßnahme Verfassungsorgan, Frist 6 Monate. Prüfraster im Verfassungsrecht."
+description: "Wenn es um Organstreitverfahren in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Organstreitverfahren

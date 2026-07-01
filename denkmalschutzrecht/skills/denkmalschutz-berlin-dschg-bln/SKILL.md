@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-berlin-dschg-bln
-description: "Denkmalschutzrecht Berlin nach dem Gesetz zum Schutz von Denkmalen in Berlin (DSchG-Bln). Skill bündelt zuständige Behörden (Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt; Landesdenkmalamt Berlin; Untere Denkmalschutzbehörden in den Bezirksämtern), das Listenprinzip und die Verfahrensbesonderheiten in der einzigen Stadt-Land-Konstellation."
+description: "Wenn es um Denkmalschutz Berlin (DSchG-Bln) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Berlin (DSchG-Bln)

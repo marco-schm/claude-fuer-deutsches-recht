@@ -1,6 +1,6 @@
 ---
 name: inso-p352-unterbrechung-und-aufnahme-eines-rechtsstreits
-description: "§ 352 InsO (Unterbrechung und Aufnahme eines Rechtsstreits) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 352 InsO (Unterbrechung und Aufnahme eines Rechtsstreits) im Mandat prüfen: Norm..."
+description: "Wenn es um Inso P352 Unterbrechung Und Aufnahme Eines Rechtsstreits in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 352 InsO (Unterbrechung und Aufnahme eines Rechtsstreits) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

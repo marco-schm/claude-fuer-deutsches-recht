@@ -1,6 +1,6 @@
 ---
 name: werbung-amtsbezeichnung-amtsenthebung
-description: "Notare: werbung und amtsbezeichnung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Werbung Amtsbezeichnung Amtsenthebung in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: werbung und amtsbezeichnung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

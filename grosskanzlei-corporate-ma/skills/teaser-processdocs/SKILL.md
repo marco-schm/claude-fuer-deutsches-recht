@@ -1,6 +1,6 @@
 ---
 name: teaser-processdocs
-description: "Investment Teaser Information Memorandum und Prozessdokumente erstellen: Anwendungsfall Sell-side-Mandat braucht Teaser für erste Bieterkontakte, Information Memorandum und Process Letter für strukturierten Auktionsprozess. SPA M&A-Prozess, MAR Vertraulichkeit. Prüfraster Teaser-Inhalte aus Manda..."
+description: "Wenn es um Teaser, IM und Prozessdokumente in Großkanzlei Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Teaser, IM und Prozessdokumente

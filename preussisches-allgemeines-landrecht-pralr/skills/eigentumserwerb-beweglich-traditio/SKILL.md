@@ -1,6 +1,6 @@
 ---
 name: eigentumserwerb-beweglich-traditio
-description: "Eigentumserwerb an beweglichen Sachen — traditio im ALR. Skill behandelt die roemisch-rechtliche traditio den iustus titulus und das Verhältnis zum BGB-Trennungs- und Abstraktionsprinzip. Liefert Quellenmatrix."
+description: "Wenn es um Pralr Eigentumserwerb Beweglich Traditio in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eigentumserwerb Beweglich Traditio; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Pralr Eigentumserwerb Beweglich Traditio

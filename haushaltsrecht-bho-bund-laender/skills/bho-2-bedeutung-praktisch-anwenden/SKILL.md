@@ -1,6 +1,6 @@
 ---
 name: bho-2-bedeutung-praktisch-anwenden
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 2 Bedeutung praktisch anwenden. BHO § 2 Bedeutung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschl..."
+description: "Wenn es um Bho 2 Bedeutung Praktisch Anwenden in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bho 2 Bedeutung Praktisch Anwenden

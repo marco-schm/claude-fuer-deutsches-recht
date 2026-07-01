@@ -1,6 +1,6 @@
 ---
 name: verkehrsunfall-video
-description: "Unerlaubtes Entfernen vom Unfallort: Schaden, Wartepflicht, Feststellungen, Dashcam/Zeugen, Selbstmeldung im Strafanzeige-Vorbereitung."
+description: "Wenn es um Unfallflucht Paragraf 142 StGB in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unfallflucht § 142 StGB

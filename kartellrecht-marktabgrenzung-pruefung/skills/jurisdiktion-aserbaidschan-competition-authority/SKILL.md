@@ -1,6 +1,6 @@
 ---
 name: jurisdiktion-aserbaidschan-competition-authority
-description: "Jurisdiktionsskill Aserbaidschan: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Ta..."
+description: "Wenn es um Jurisdiktion Aserbaidschan: Competition Authority Check in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jurisdiktion Aserbaidschan: Competition Authority Check

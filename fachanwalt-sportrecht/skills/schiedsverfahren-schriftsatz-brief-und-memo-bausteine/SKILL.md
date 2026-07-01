@@ -1,6 +1,6 @@
 ---
 name: schiedsverfahren-schriftsatz-brief-und-memo-bausteine
-description: "Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine: Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Wenn es um Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Sportrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine

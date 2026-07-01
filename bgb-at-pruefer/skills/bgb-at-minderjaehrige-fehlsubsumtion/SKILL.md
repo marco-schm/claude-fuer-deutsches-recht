@@ -1,6 +1,6 @@
 ---
 name: bgb-at-minderjaehrige-fehlsubsumtion
-description: "Findet typische Fehler bei §§ 104-113 BGB: rechtlich vorteilhaft, Taschengeld, Genehmigung, einseitige Geschaefte und Erwerbsgeschaeft."
+description: "Wenn es um Minderjährigenrecht: Fehlsubsumtion erkennen in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Minderjährigenrecht: Fehlsubsumtion erkennen

@@ -1,6 +1,6 @@
 ---
 name: zustellung-und-vertreter-art-13-dsa-art-37-dma
-description: "Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Kläger will Schriftstuecke zustellen oder Behörde will Plattform erreichen: Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Kläger will Schri..."
+description: "Wenn es um Zustellung Und Vertreter Art 13 Dsa Art 37 Dma in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Kläger will Schriftstuecke zustellen oder Behörde will Plattform erreichen

@@ -1,6 +1,6 @@
 ---
 name: bedingungen-aufschiebend
-description: "Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Wenn es um Fristen- und Risikoampel in Word-Workflows für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen- und Risikoampel

@@ -1,6 +1,6 @@
 ---
 name: konservative-methodenkritik-gesetzesbindung
-description: "Analysiert die konservative Methodenkritik an einer als zu weitgehend empfundenen richterlichen Rechtsfortbildung und Abkehr von der Gesetzesbindung. Das Skill systematisiert die Argumente für eine strikte Rückbindung an den Normtext und den Gesetzgeberwillen, bewertet ihre methodische Tragfähigk..."
+description: "Wenn es um Konservative Methodenkritik: Gesetzesbindung und Texttreue in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konservative Methodenkritik: Gesetzesbindung und Texttreue

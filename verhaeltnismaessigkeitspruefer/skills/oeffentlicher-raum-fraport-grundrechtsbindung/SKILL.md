@@ -1,6 +1,6 @@
 ---
 name: oeffentlicher-raum-fraport-grundrechtsbindung
-description: "Verhältnismäßigkeit in oeffentlich beherrschten Privatrechtsraeumen: Fraport-Linie, Grundrechtsbindung, Hausrecht, Flughafen, Bahnhof, Messe, kommunale GmbH und schonende Ausuebung von Art. 5 und Art. 8 GG."
+description: "Wenn es um Öffentlicher Raum: Fraport und Grundrechtsbindung in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Öffentlicher Raum: Fraport und Grundrechtsbindung

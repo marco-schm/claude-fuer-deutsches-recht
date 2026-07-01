@@ -1,6 +1,6 @@
 ---
 name: lph-04-sachverstaendigen-pruefung
-description: "HOAI LPH 4 Genehmigungsplanung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 4 Genehmigungsplanung: Übersetzt den lph-stand in gutachterfragen und prüfspur in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # LPH 4 Genehmigungsplanung: Übersetzt den lph-stand in gutachterfragen und prüfspur

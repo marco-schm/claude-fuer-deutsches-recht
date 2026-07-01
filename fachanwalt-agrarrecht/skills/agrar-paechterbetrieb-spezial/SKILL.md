@@ -1,6 +1,6 @@
 ---
 name: agrar-paechterbetrieb-spezial
-description: "Spezialfall Paechterbetrieb: Verhältnis Verpaechter-Paechter, Höhepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des Paechters, Verlaengerung, ausserordentliche Kuendigung: Spezialfall Paechterbetrieb: Verhältnis Verpaechter-Paechter, Höhepunkt 12 Jahre..."
+description: "Wenn es um Agrar Paechterbetrieb Spezial in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Paechterbetrieb: Verhältnis Verpaechter-Paechter, Höhepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des Paechters, Verlaengerung, ausserordentliche Kuendigung

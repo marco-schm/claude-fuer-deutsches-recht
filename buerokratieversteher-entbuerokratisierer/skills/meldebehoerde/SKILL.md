@@ -1,6 +1,6 @@
 ---
 name: meldebehoerde
-description: "Hilft bei Anmeldung, Ummeldung, Auskunftssperre, Meldebescheinigung, Bußgeldandrohung und Nachweisen im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Meldebehörde in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meldebehörde

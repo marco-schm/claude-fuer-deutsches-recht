@@ -1,6 +1,6 @@
 ---
 name: drg-neu-010-november-1918-uebergangsrecht-revolution
-description: "Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität

@@ -1,6 +1,6 @@
 ---
 name: preisanpassung-und-sonderwuensche
-description: "Prueft Preisanpassungsklauseln auf AGB-Wirksamkeit nach Paragraf 309 Nummer 1 BGB und Paragraf 307 BGB: keine kurzfristige Erhoehung in den ersten vier Monaten, Saldierungsgrundsatz, Loesungsrecht des Erwerbers ab Schwelle. Sonderwuensche duerfen die MaBV-Ratenlogik nicht umgehen."
+description: "Wenn es um Preisanpassung und Sonderwünsche in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Preisanpassung und Sonderwünsche

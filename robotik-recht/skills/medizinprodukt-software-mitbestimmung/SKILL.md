@@ -1,6 +1,6 @@
 ---
 name: medizinprodukt-software-mitbestimmung
-description: "Prüft Zusammenspiel von MDR, KI-VO und Software als Bestandteil medizinischer Robotik im Robotik-Recht."
+description: "Wenn es um Medizinprodukt-Software-digitale Werkzeuge-Roboter in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Medizinprodukt Software Mitbestimmung; Arbeitsfeld: robotik-recht."
 ---
 
 # Medizinprodukt-Software-KI-Roboter

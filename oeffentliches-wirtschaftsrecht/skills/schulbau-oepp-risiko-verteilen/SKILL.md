@@ -1,6 +1,6 @@
 ---
 name: schulbau-oepp-risiko-verteilen
-description: "Schulbau-ÖPP: Risiko verteilen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Schulbau Oepp Risiko Verteilen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulbau Oepp Risiko Verteilen

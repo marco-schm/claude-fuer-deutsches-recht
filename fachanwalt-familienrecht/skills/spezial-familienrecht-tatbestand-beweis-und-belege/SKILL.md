@@ -1,6 +1,6 @@
 ---
 name: spezial-familienrecht-tatbestand-beweis-und-belege
-description: "Familienrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Familienrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Familienrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: involuntary-petition-303
-description: "Prüft creditor-filed involuntary bankruptcy, creditor numerosity, bona fide dispute, gap period and damages risk im US Bankruptcy Code."
+description: "Wenn es um Involuntary Petition Paragraf 303 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Involuntary Petition § 303

@@ -1,6 +1,6 @@
 ---
 name: ihl-045-late-delivery-liquidated-damages
-description: "Internationales Handelsrecht und Lex Mercatoria: Late Delivery Liquidated Damages. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Late Delivery Liquidated Damages in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Late Delivery Liquidated Damages

@@ -1,6 +1,6 @@
 ---
 name: rechtsfolge-306-kein-blue-pencil
-description: "Norm- und Dogmatik-Skill für Rechtsfolge 306 Kein Blü Pencil: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Rechtsfolge 306 Kein Blü Pencil in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Rechtsfolge 306 Kein Blue Pencil; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Rechtsfolge 306 Kein Blü Pencil

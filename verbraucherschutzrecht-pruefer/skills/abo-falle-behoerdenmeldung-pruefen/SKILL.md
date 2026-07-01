@@ -1,6 +1,6 @@
 ---
 name: abo-falle-behoerdenmeldung-pruefen
-description: "Prüfer: Abo-Falle: Behördenmeldung prüfen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Abo Falle Behördenmeldung Prüfen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abo Falle Behördenmeldung Prüfen

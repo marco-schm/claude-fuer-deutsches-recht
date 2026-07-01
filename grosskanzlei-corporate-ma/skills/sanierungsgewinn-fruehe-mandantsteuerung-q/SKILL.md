@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-fruehe-mandantsteuerung-q
-description: "Q-12-Frühwarn-Skill für Großkanzlei-Mandate mit absehbarem Sanierungsbedarf. Steuert die Mandantenkommunikation zwölf Monate vor der formellen Anzeige eines Restrukturierungsplans oder StaRUG-Verfahrens und bindet die Steuerseite (Paragraf 3a EStG / Paragraf 7b GewStG / Paragraf 8c und Paragraf 8d KStG) frühzeitig ein. Adre..."
+description: "Wenn es um Sanierungsgewinn – Frühe Mandantsteuerung Q-12 in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsgewinn – Frühe Mandantsteuerung Q-12

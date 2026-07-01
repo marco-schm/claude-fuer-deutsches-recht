@@ -1,6 +1,6 @@
 ---
 name: gefahrgut-luftfracht
-description: "Absender Spedition oder Airline hat Gefahrgut-Luftfrachtproblem: fehlerhafte Deklaration Versand verbotener Gueter oder Behördenuntersuchung. Prüft ICAO TI Doc 9284 IATA DGR LuftVG § 27 Gefahrgutbeauftragter und Strafbarkeit nach LuftVG § 58 und liefert Compliance-Check und Stellungnahme-Baustei..."
+description: "Wenn es um Gefahrgut-Luftfracht – Klassifizierung, Compliance und Haftung in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gefahrgut-Luftfracht – Klassifizierung, Compliance und Haftung

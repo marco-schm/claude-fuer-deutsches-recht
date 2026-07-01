@@ -1,6 +1,6 @@
 ---
 name: spezial-freedom-schriftsatz-brief-und-memo-bausteine
-description: "Freedom: Schriftsatz-, Brief- und Memo-Bausteine im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Freedom: Schriftsatz-, Brief- und Memo-Bausteine in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Freedom: Schriftsatz-, Brief- und Memo-Bausteine

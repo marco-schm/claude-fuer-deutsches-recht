@@ -1,6 +1,6 @@
 ---
 name: forderung-mietrueckstand-zahlungsklage
-description: "Mietrueckstand und Klageweg: Zahlungsklage parallel zur Raeumungsklage, Wohnraum-Sonderzustaendigkeit nach Paragraf 23 Nummer 2a GVG, kein Anwaltszwang in erster Instanz, Gewerberaum nach Paragraf 23 Nummer 1 und Paragraf 71 Absatz 1 GVG streitwertabhaengig."
+description: "Wenn es um Mietrueckstand – Zahlungsklage Wohnraum in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mietrueckstand – Zahlungsklage Wohnraum

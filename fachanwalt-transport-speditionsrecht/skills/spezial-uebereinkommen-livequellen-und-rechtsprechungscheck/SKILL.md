@@ -1,6 +1,6 @@
 ---
 name: spezial-uebereinkommen-livequellen-und-rechtsprechungscheck
-description: "Uebereinkommen: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Uebereinkommen: Livequellen- und Rechtsprechungscheck in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Uebereinkommen: Livequellen- und Rechtsprechungscheck

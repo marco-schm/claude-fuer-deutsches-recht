@@ -1,6 +1,6 @@
 ---
 name: nkr-pruefumfang-was-prueft-der-nkr-nicht
-description: "Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zustaendigkeitsanmassung und liefert Standardbausteine fuer die Stellungnahme zur Kompetenzabgrenzung."
+description: "Wenn es um NKR-Pruefumfang — was prueft der NKR nicht in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NKR-Pruefumfang — was prueft der NKR nicht

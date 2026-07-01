@@ -1,6 +1,6 @@
 ---
 name: spenden-stiftungen-und-zweckbindung
-description: "Spenden, Stiftungen und Zweckbindung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Wenn es um Spenden, Stiftungen und Zweckbindung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Spenden, Stiftungen und Zweckbindung

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-awv-bundesbank
-description: "Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z15-Formulare für Zahlungsmeldungen, Kapitalverkehrsmeldungen und Bestandserhebungen. Einordnung von Zahlungen, Wertpapiergeschaeften und Direktinvestitionsaenderungen. Fristenkontrolle für monatliche und jaehrliche Me..."
+description: "Wenn es um AWV-Bundesbank-Meldungen: Z-Formulare und Kapitalverkehrspflichten in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AWV-Bundesbank-Meldungen: Z-Formulare und Kapitalverkehrspflichten

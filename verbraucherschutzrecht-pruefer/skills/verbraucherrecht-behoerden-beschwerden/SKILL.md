@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-behoerden-beschwerden
-description: "Behörden- und Ombudsstellenrouter: Verbraucherzentrale, Schlichtung, BaFin, BNetzA, Datenschutz, Marktüberwachung.; Normanker: VSBG; Fachaufsichtsrecht; DSGVO; EnWG/BNetzA; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht."
+description: "Wenn es um Verbraucherrecht Behoerden Beschwerden in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Behörden- und Ombudsstellenrouter: Verbraucherzentrale, Schlichtung, BaFin, BNetzA, Datenschutz, Marktüberwachung.

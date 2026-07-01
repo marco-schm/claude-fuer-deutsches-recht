@@ -1,6 +1,6 @@
 ---
 name: gerichtsverfahren-sanktionen
-description: "Prüft Insiderinformations-Qualitaet laufender Gerichtsverfahren und Schiedsverfahren: Kursrelevanz, Ad-hoc-Pflicht und Verteidigungsinteressen im Insiderrecht Compliance."
+description: "Wenn es um Gerichtsverfahren und Schiedsverfahren – Insiderrecht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Gerichtsverfahren und Schiedsverfahren – Insiderrecht

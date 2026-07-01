@@ -1,6 +1,6 @@
 ---
 name: ziel-und-rechtsweg-bestimmung
-description: "Ermittelt interaktiv das Nutzerziel (Anspruchsdurchsetzung, Abwehr, Antrag, Beschwerde, Strafverfolgung, Verwaltungsakt-Anfechtung) und leitet daraus den einschlaegigen Rechtsweg ab: ZPO, VwGO, SGG, FGO, StPO, FamFG. Warnt bei Zweifelsfaellen im Subsumtions Prüfer."
+description: "Wenn es um Ziel- und Rechtsweg-Bestimmung in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ziel- und Rechtsweg-Bestimmung
@@ -80,11 +80,11 @@ Ist eine Behörde beteiligt?
 
 - **Doppelte Rechtswegmöglichkeit:** Bei gemischten Sachverhalten (z. B. Amtshaftung § 839 BGB: ordentliche Gerichtsbarkeit; Hoheitsakt: VwGO) ist Trennungsprinzip zu beachten.
 - **Rüge der Unzuständigkeit (§ 17a GVG):** Rechtzeitig erheben; Verweisung an zuständiges Gericht möglich.
-- **Unionsrecht:** Nationales Gericht wendet EU-Recht an; bei Auslegungsfragen: Vorabentscheidungsersuchen (Art. 267 AEUV; → eu-vorabentscheidung-pruefen).
+- **Unionsrecht:** Nationales Gericht wendet EU-Recht an; bei Auslegungsfragen: Vorabentscheidungsersuchen (Art. 267 AEUV; → eu-vorabentscheidung-falsche-wiese).
 
 ## Ausgabe
 
-Rechtsweg-Bestimmung mit Entscheidungsbaum, Klageart, Zuständigkeit, Frist und Warnungen bei Zweifelsfällen. Empfehlung zur Folgeskill-Nutzung (z. B. verfahrensart-bestimmen, workflow-fristen-und-risikoampel).
+Rechtsweg-Bestimmung mit Entscheidungsbaum, Klageart, Zuständigkeit, Frist und Warnungen bei Zweifelsfällen. Empfehlung zur Folgeskill-Nutzung (z. B. verfahrensart-bestimmen-verjaehrung, workflow-fristen-und-risikoampel).
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: familienangehoerige
-description: "Prüft Handelsverbote und Meldepflichten für Familienangehoerige und nahestehende Personen von PDMRs: Wissenszurechnung, Art. 19 MAR, Tipping-Risiko im Insiderrecht Compliance."
+description: "Wenn es um Familienangehörige und nahestehende Personen – Insiderrecht in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Familienangehörige und nahestehende Personen – Insiderrecht

@@ -1,6 +1,6 @@
 ---
 name: nda-mitarbeiter-need-to-know
-description: "Mitarbeiter und Need-to-Know: NDA verpflichtet Mitarbeiter ueber Arbeitsvertrag, externe Berater nur ueber separate NDA oder Backup-Klausel. Empfehlung: Liste freigegebener Personen, Bestaetigung Mitarbeiter-NDA, kein Datenraum-Zugriff ohne Logging."
+description: "Wenn es um NDA: Mitarbeiter/Need-to-Know in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Nda Mitarbeiter Need To Know; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # NDA: Mitarbeiter/Need-to-Know

@@ -1,6 +1,6 @@
 ---
 name: standard-terms-crossborder
-description: "Internationales Handelsrecht: Einbeziehung von AGB im grenzüberschreitenden B2B-Handel. Unterschiede CISG-Regime vs. nationales AGB-Recht, Sprachanforderungen, Überraschungsklauseln (PICC Art. 2.1.20) und branchenspezifische Standardbedingungen im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Standard Terms im grenzüberschreitenden Handel in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Standard Terms im grenzüberschreitenden Handel

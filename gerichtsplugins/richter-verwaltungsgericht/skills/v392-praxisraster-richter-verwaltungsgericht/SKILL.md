@@ -1,6 +1,6 @@
 ---
 name: v392-praxisraster-richter-verwaltungsgericht
-description: "Praxisraster für Verwaltungsgericht: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet."
+description: "Wenn es um Praxisraster Verwaltungsgericht in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Praxisraster Verwaltungsgericht

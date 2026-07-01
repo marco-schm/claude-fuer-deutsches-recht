@@ -1,6 +1,6 @@
 ---
 name: zuschlagsverbot-paragraf-169-gwb
-description: "Zuschlagsverbot § 169 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Zuschlagsverbot Paragraf 169 GWB in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zuschlagsverbot § 169 GWB

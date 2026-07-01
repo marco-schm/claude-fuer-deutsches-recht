@@ -1,6 +1,6 @@
 ---
 name: companion-diagnostic-atmp
-description: "Companion Diagnostic bei ATMP: moderner Medizinrechts-Skill für Therapieselektion durch Biomarker, Testqualität, falsche Negativ-/Positivbefunde und Erstattung: Companion Diagnostic bei ATMP: moderner Medizinrechts-Skill für Therapieselektion durch Biomarke..."
+description: "Wenn es um Companion Diagnostic Atmp in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Companion Diagnostic bei ATMP: moderner Medizinrechts-Skill für Therapieselektion durch Biomarker, Testqualität, falsche Negativ-/Positivbefunde und Erstattung

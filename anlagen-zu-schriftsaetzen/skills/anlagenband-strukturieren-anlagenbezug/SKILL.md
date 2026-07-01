@@ -1,6 +1,6 @@
 ---
 name: anlagenband-strukturieren-anlagenbezug
-description: "Anlagenband strukturieren: Trennblaetter, Inhaltsverzeichnis, Reihenfolge nach Schriftsatzbezug, durchgehende Foliierung. Anweisung für Kanzleimitarbeiter zur physischen oder elektronischen Erstellung. Fuer beA-Versand zusaetzlich ein durchsuchbares PDF mit Lesezeichen im Anlagen zu Schriftsätzen."
+description: "Wenn es um Anlagenband strukturieren in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Anlagenband Strukturieren Anlagenbezug; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Anlagenband strukturieren

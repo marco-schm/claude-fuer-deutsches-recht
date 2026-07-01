@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-kampagnenteam
-description: "Wahlkampfrecht Praxis: Beschäftigung, Minijobs, Freelancer und Ehrenamt im Wahlkampf prüfen im Wahlkampfrecht."
+description: "Wenn es um Arbeitsrecht Kampagnenteam in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsrecht Kampagnenteam

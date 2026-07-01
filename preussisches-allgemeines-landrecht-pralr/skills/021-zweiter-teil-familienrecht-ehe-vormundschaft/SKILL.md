@@ -1,6 +1,6 @@
 ---
 name: 021-zweiter-teil-familienrecht-ehe-vormundschaft
-description: "PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft

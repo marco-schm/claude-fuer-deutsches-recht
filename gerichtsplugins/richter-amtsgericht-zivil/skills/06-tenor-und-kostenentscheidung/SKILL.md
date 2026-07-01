@@ -1,6 +1,6 @@
 ---
 name: 06-tenor-und-kostenentscheidung
-description: "Tenor formulieren (Hauptsache, Nebenforderungen, Zinsen, Kosten Paragraf 91 ZPO, vorläufige Vollstreckbarkeit Paragrafen 708-711 ZPO), Beschwer berechnen"
+description: "Wenn es um 06 Tenor und Kostenentscheidung in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 06 Tenor und Kostenentscheidung

@@ -1,6 +1,6 @@
 ---
 name: anpassen
-description: "Anpassung und Konfiguration des Plugins gewerblicher-rechtsschutz: Mandatsprofil, Kanzleipräferenzen, Normenauswahl, Sprachstil und Outputformat an konkreten Bedarf anpassen. Skill für Kanzleien, die den Plugin-Rahmen ihrem Arbeitsalltag anpassen wollen im Gewerblicher Rechtsschutz."
+description: "Wenn es um Gewerblicher Rechtsschutz: Plugin anpassen in Plugin: Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Gewerblicher Rechtsschutz: Plugin anpassen

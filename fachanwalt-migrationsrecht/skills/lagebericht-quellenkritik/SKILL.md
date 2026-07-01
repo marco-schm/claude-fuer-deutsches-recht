@@ -1,6 +1,6 @@
 ---
 name: lagebericht-quellenkritik
-description: "Länderquellen-Kritik: Fachmodul im Migrationsrecht: prüft AA-Lagebericht, EUAA, UNHCR, NGOs, Aktualität, Widersprüche; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Länderquellen-Kritik: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Länderquellen-Kritik: Fachmodul im Migrationsrecht

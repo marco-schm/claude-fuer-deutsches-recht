@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Kartellrecht-Marktabgrenzung: ordnet Rolle (Anmelder, Wettbewerber, Kunden/Lieferanten), markiert Frist (FKVO 25 Arbeitstage Phase I), wählt Norm (§§ 18-19 GWB Marktbeherrschung, §§ 35 ff. GWB Fusionskontrolle, Art. 101/102 AEUV) und Zuständigkeit (BKartA), leitet..."
+description: "Wenn es um Einstieg und Routing in Kartellrecht — Marktabgrenzungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

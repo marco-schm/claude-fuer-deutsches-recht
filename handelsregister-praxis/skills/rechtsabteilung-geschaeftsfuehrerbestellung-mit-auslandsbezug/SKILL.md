@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-geschaeftsfuehrerbestellung-mit-auslandsbezug
-description: "Rechtsabteilungs-Fachmodul für Geschäftsführerbestellung mit Auslandsbezug: Identität, Versicherung, Unterschrift und Übersetzung werden sauber vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsregister Praxis."
+description: "Wenn es um Rechtsabteilung: Geschäftsführerbestellung mit Auslandsbezug in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsabteilung: Geschäftsführerbestellung mit Auslandsbezug

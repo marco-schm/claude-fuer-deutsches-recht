@@ -1,6 +1,6 @@
 ---
 name: fa-stu-aussenpruefung-anordnung-pruefung
-description: "Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanordnung §§ 196 197 AO Pruefungserweiterung Schlussbesprechung § 201 AO Pruefungsbericht und Auswirkungen auf Folgejahre. Anwendungsfall Mandant erhaelt Pruefungsanordnung — Berater muss in zehn Minuten Erweiterungsangriffe Mitwirkungsgrenzen und Belege-Bereitstellung klaeren. Behandelt Pruefungsumfang Mitwirkungspflicht § 200 AO digitaler Datenzugriff GoBD und Ablaufhemmung § 171 Abs. 4 AO. Output Pruefraster und Schriftsatz gegen unwirksame Pruefungsanordnung. Abgrenzung zu fa-stu-betriebspruefung-strafrecht-393-ao und fa-stu-tatsaechliche-verstaendigung."
+description: "Wenn es um Aussenpruefung — Pruefungsanordnung Pruefungserweiterung und Mitwirkung in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Aussenpruefung — Pruefungsanordnung Pruefungserweiterung und Mitwirkung

@@ -1,6 +1,6 @@
 ---
 name: abmahnung-buchpreisbindung
-description: "Buchpreisbindungsgesetz: Abmahnung wegen Preisbindungsverstoßes — BuchPrG §§ 9–11, Abmahnung verfassen und beantworten, Unterlassungserklärung, Schadensersatz und Prozessstrategie im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..."
+description: "Wenn es um Verl-041 · Abmahnung Buchpreisbindung in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-041 · Abmahnung Buchpreisbindung

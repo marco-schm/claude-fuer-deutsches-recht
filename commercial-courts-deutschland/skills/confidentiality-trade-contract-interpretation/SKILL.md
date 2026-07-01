@@ -1,6 +1,6 @@
 ---
 name: confidentiality-trade-contract-interpretation
-description: "Schützt Geschäftsgeheimnisse: Geheimhaltungsantrag, abgestufter Zugang, redacted exhibits, in camera concerns, Trade Secrets Act und Prozessstrategie im Commercial Courts Deutschland."
+description: "Wenn es um Confidentiality and Trade Secrets in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Confidentiality and Trade Secrets

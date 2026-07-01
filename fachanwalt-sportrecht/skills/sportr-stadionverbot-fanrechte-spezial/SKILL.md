@@ -1,6 +1,6 @@
 ---
 name: sportr-stadionverbot-fanrechte-spezial
-description: "Spezialfall Stadionverbot und Fanrechte: bundesweite und oertliche Stadionverbote, BGH-Rechtsprechung zu Anhörung, gleichbehandlungsrechtliche Aspekte: Spezialfall Stadionverbot und Fanrechte: bundesweite und oertliche Stadionverbote, BGH-Rechtsprechung zu..."
+description: "Wenn es um Sportr Stadionverbot Fanrechte Spezial in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Stadionverbot und Fanrechte: bundesweite und oertliche Stadionverbote, BGH-Rechtsprechung zu Anhörung, gleichbehandlungsrechtliche Aspekte

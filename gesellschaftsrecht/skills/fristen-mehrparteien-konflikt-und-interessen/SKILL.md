@@ -1,6 +1,6 @@
 ---
 name: fristen-mehrparteien-konflikt-und-interessen
-description: "Fristen: Mehrparteienkonflikt und Interessenmatrix im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht."
+description: "Wenn es um Fristen: Mehrparteienkonflikt und Interessenmatrix in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen: Mehrparteienkonflikt und Interessenmatrix

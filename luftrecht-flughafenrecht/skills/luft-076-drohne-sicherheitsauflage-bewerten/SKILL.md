@@ -1,6 +1,6 @@
 ---
 name: luft-076-drohne-sicherheitsauflage-bewerten
-description: "Luftrecht und Flughafenrecht: Drohne: Sicherheitsauflage bewerten. Sicherheitsauflage bewerten für Drohne im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Drohne Sicherheitsauflage Bewerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drohne Sicherheitsauflage Bewerten

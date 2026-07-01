@@ -1,6 +1,6 @@
 ---
 name: eilantrag-buergergeld-jobcenter
-description: "Eilantrag beim SG gegen Jobcenter. Buergergeld gestoppt Sanktion Vorlaeufige Leistung. § 86b Abs. 2 SGG einstweilige Anordnung. Glaubhaftmachung Existenzminimum Mustertext."
+description: "Wenn es um Eilantrag gegen das Jobcenter — Buergergeld retten in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Eilantrag gegen das Jobcenter — Buergergeld retten

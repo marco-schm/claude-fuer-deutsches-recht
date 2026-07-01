@@ -1,6 +1,6 @@
 ---
 name: risikobewertung-edsa-leitlinie
-description: "Führt die Risikobewertung eines Datenschutzvorfalls anhand der EDSA-Leitlinie 9/2022 zu Beispielen für die Meldung von Datenschutzverletzungen durch. Behandelt: Beispielfallgruppen Ransomware; Datenexfiltration; Insider; Verlust; Fehlversand; soziale Ingenieurkunst; jeweils mit Schwere-Schwellen..."
+description: "Wenn es um Risikobewertung nach EDSA-Leitlinie 9/2022 in Datenschutzrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Risikobewertung nach EDSA-Leitlinie 9/2022

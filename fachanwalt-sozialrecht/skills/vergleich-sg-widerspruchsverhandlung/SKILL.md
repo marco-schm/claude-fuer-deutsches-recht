@@ -1,6 +1,6 @@
 ---
 name: vergleich-sg-widerspruchsverhandlung
-description: "Vergleich vor Sozialgericht § 101 SGG: Widerspruchsverhandlung Behörde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhörung GdB-Verfahren Vergleich Schwerbehinderung. Korrespondenz Behörde Klagebegründung..."
+description: "Wenn es um Vergleich vor Sozialgericht Paragraf 101 SGG in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vergleich vor Sozialgericht § 101 SGG

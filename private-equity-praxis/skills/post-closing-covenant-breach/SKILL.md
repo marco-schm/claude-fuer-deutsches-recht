@@ -1,6 +1,6 @@
 ---
 name: post-closing-covenant-breach
-description: "Prüft Pflichtverletzungen nach Closing, Ordinary Course, Non-Compete, Transitional Services und Cooperation im Private Equity Praxis."
+description: "Wenn es um Post-Closing Covenant Breach in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Post-Closing Covenant Breach

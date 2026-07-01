@@ -1,6 +1,6 @@
 ---
 name: kueschk-anwendbarkeit-kschg-pruefen
-description: "Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach Paragraf 1 Absatz 1 KSchG; Schwellenwert zehn Arbeitnehmer nach Paragraf 23 KSchG; Berechnung von Teilzeitkr..."
+description: "Wenn es um Kueschk Anwendbarkeit Kschg Pruefen in Arbeitsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach Paragraf 1 Abs

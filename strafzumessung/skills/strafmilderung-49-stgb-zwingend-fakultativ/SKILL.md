@@ -1,6 +1,6 @@
 ---
 name: strafmilderung-49-stgb-zwingend-fakultativ
-description: "Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe ermaessigt; bei lebenslang 3 bis 15 Jahre. Abs. 2 fakultative Milderung bis zum gesetzlichen Mindestmass. Anwendungsfaelle Versuch § 23 Abs. 2, Beihilfe § 27 Abs. 2, persönliche Me..."
+description: "Wenn es um Strafmilderung — Paragraf 49 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafmilderung — § 49 StGB

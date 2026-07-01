@@ -1,6 +1,6 @@
 ---
 name: lagebild-medienresonanz
-description: "Wahlkampfrecht Praxis: Medien-, Social- und Vor-Ort-Lage ohne Panikmetriken verdichten im Wahlkampfrecht."
+description: "Wenn es um Lagebild Medienresonanz in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lagebild Medienresonanz

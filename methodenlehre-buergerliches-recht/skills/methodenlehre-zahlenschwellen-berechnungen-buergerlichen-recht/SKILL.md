@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-zahlenschwellen-berechnungen-buergerlichen-recht
-description: "Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte und Berechnungsformeln im bürgerlichen Recht und Zivilprozess. Es zeigt, wie Streitwerte berechnet werden, welche Betragsgrenzen für Zuständigkeiten und Rechtsmittelzulassungen gelten, wie Zinsen und Schadensersatzbetr..."
+description: "Wenn es um Zahlenschwellen und Berechnungen im bürgerlichen Recht in Methodenlehre bürgerliches Recht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Zahlenschwellen und Berechnungen im bürgerlichen Recht

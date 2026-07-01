@@ -1,6 +1,6 @@
 ---
 name: sanktionen-art-bussgeldverteidigung-bildung
-description: "Unternehmen moechte die Kostenrisiken einer KI-VO-Verletzung einschaetzen oder Vorstand über Bußgelddimensionen informieren. Art. 99 bis 101 KI-VO Sanktionen. Prüfraster: bis 35 Mio EUR oder 7 Prozent Konzernumsatz bei verbotenen Praktiken bis 15 Mio EUR oder 3 Prozent bei sonstigen Verstoszen bi"
+description: "Wenn es um Sanktionen — Art. 99 bis 101 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Sanktionen Art Bussgeldverteidigung Bildung; Arbeitsfeld: europäischem Technikregulierungsrecht."
 ---
 
 # Sanktionen — Art. 99 bis 101 KI-VO

@@ -1,6 +1,6 @@
 ---
 name: spezial-zustellung-red-team-und-qualitaetskontrolle
-description: "Zustellung: Red-Team und Qualitätskontrolle im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Zustellung: Red-Team und Qualitätskontrolle in DSA, DMA und Digitalregulierung der EU geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zustellung: Red-Team und Qualitätskontrolle

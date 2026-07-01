@@ -1,6 +1,6 @@
 ---
 name: spezial-historie-compliance-dokumentation-und-akte
-description: "Historie: Compliance-Dokumentation und Aktenvermerk im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Historie: Compliance-Dokumentation und Aktenvermerk in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Historie: Compliance-Dokumentation und Aktenvermerk

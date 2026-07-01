@@ -1,6 +1,6 @@
 ---
 name: beschlagnahme-oder-pfaendung-von-satellitenrechten
-description: "Pfändung und Beschlagnahme von Satelliten und Frequenzrechten – Vollstreckungsrecht, Staatlichkeit im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Beschlagnahme oder Pfändung von Satellitenrechten in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Beschlagnahme oder Pfändung von Satellitenrechten

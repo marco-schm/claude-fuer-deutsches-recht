@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-fristennotiz-und-naechster-schritt
-description: "Dieses Skill systematisiert die Berechnung und Überwachung aller mandatsrelevanten Verjährungsfristen im bürgerlichen Recht und erstellt strukturierte Fristennotizen mit konkreten nächsten Schritten: Dieses Skill systematisiert die Berechnung und Überwachun..."
+description: "Wenn es um Verjaehrung Fristennotiz Und Naechster Schritt in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dieses Skill systematisiert die Berechnung und Überwachung aller mandatsrelevanten Verjährungsfristen im bürgerlichen Recht und erstellt strukturierte Fristennotizen mit konkreten nächsten Schritten

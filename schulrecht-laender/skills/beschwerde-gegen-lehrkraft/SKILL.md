@@ -1,6 +1,6 @@
 ---
 name: beschwerde-gegen-lehrkraft
-description: "Prüft Beschwerden gegen Lehrkräfte, Dienstaufsicht, pädagogische Bewertung und Deeskalation im Schulrecht Länder."
+description: "Wenn es um Beschwerde gegen Lehrkraft in Schulrecht der Bundesländer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Beschwerde gegen Lehrkraft

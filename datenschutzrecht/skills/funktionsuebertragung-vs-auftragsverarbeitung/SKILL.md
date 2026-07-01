@@ -1,6 +1,6 @@
 ---
 name: funktionsuebertragung-vs-auftragsverarbeitung
-description: "Abgrenzung Funktionsuebertragung gegen Auftragsverarbeitung Art. 28 DSGVO bei Berufsgeheimnistraegern Inkasso Steuerberatung Wirtschaftspruefung und externe Rechtsdienstleistung. Wann handelt der Dritte als eigener Verantwortlicher und wann als Auftragsverarbeiter. § 203 StGB § 43a Abs. 2 BRAO. O..."
+description: "Wenn es um Funktionsuebertragung versus Auftragsverarbeitung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Funktionsuebertragung versus Auftragsverarbeitung

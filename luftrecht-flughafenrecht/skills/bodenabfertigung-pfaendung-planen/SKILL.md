@@ -1,6 +1,6 @@
 ---
 name: bodenabfertigung-pfaendung-planen
-description: "Gläubiger will Bodenabfertigungs-Equipment oder Entgelt-Forderungen pfaenden. Prüft ZPO § 808 Mobiliarpfaendung ZPO §§ 828 ff. Forderungspfaendung InsO-Vollstreckungssperre und liefert Pfaendungsplan im Luftrecht Flughafenrecht."
+description: "Wenn es um Bodenabfertigung – Pfändung planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bodenabfertigung – Pfändung planen

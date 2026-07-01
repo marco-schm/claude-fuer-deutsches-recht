@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-schwerer-raub-250-stgb
-description: "Schwerer Raub nach § 250 Abs: 1 und Abs. 2 StGB. Qualifikationen Mit-sich-Fuehren von Waffe; Bande; Lebensgefaehrdung; schwere koerperliche Misshandlung. Verwendungsvariante § 250 Abs. 2 StGB Verwenden einer Waffe. Strafrahmen..."
+description: "Wenn es um Schwerer Raub nach Paragraf 250 Abs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schwerer Raub nach § 250 Abs

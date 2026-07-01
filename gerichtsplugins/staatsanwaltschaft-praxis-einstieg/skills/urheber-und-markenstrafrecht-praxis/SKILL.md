@@ -1,6 +1,6 @@
 ---
 name: urheber-und-markenstrafrecht-praxis
-description: "Urheber- und Markenstrafrecht: Akten schnell sortieren: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Urheber- und Markenstrafrecht: Akten schnell sortieren in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Urheber- und Markenstrafrecht: Akten schnell sortieren

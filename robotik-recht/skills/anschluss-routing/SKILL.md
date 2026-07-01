@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Robotik-Recht: wählt den nächsten Spezial-Skill nach Engpass (CE-Konformität vor Inverkehrbringen, Konformitätserklärung, Risikobewertung, Bedienungsanleitung), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in robotik-recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anschluss-Routing

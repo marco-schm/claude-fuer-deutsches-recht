@@ -1,6 +1,6 @@
 ---
 name: 02-parteivortrag-strukturieren
-description: "Kläger- und Beklagtenvortrag in Behauptungen, Bestreiten, Nichtwissen Paragraf 138 Abs. 4 ZPO, Gestaendnis Paragraf 288 zerlegen"
+description: "Wenn es um 02 Parteivortrag Strukturieren in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 02 Parteivortrag Strukturieren

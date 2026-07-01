@@ -1,6 +1,6 @@
 ---
 name: weg-anfechtungsklage-44
-description: "Fachanwalt Miet Wohnungseigentumsrecht Weg Anfechtungsklage 44: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Miet Wohnungseigentumsrecht Weg Anfechtungsklage 44: ordnet Normen, Nutze..."
+description: "Wenn es um Weg Anfechtungsklage 44 in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Miet Wohnungseigentumsrecht Weg Anfechtungsklage 44: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

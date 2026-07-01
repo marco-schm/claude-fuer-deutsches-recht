@@ -1,6 +1,6 @@
 ---
 name: schnellpruefung-fuenfminuten-express
-description: "Express-Verhältnismäßigkeitspruefung in fuenf Minuten: 12-Punkte-Checkliste mit Sofort-Ergebnis fuer Klausur, Schriftsatz oder Mandantenmeeting. Schnelltriage fuer Schutzbereich, Schranke, Zitiergebot, vier Stufen, Wesensgehalt; mit Entscheidungsbaum, Express-Tabelle und Fallstrick-Liste."
+description: "Wenn es um Schnellpruefung — Verhältnismäßigkeit in fuenf Minuten in Verhältnismäßigkeitsprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schnellpruefung — Verhältnismäßigkeit in fuenf Minuten

@@ -1,6 +1,6 @@
 ---
 name: ersitzung-und-verjaehrung-eigentum
-description: "Ersitzung und Verjährung beim Eigentum nach ALR. Skill behandelt die ALR-Ersitzungsfristen für bewegliche und unbewegliche Sachen Voraussetzungen iustus titulus und bona fides und das Verhältnis zur BGB-Ersitzung. Liefert Prüfraster."
+description: "Wenn es um Pralr Ersitzung Und Verjährung Eigentum in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Ersitzung Und Verjährung Eigentum

@@ -1,6 +1,6 @@
 ---
 name: eu-cyber-resilience-act-software
-description: "Prüft CRA-Pflichten für Produkte mit digitalen Elementen, Security by Design, Vulnerabilities, CE und Updates im Softwarerecht De Eu Us."
+description: "Wenn es um Cyber Resilience Act Software in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cyber Resilience Act Software

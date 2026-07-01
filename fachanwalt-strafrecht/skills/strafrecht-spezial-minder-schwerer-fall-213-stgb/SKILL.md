@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-minder-schwerer-fall-213-stgb
-description: "Minder schwerer Fall des Totschlags nach § 213 StGB: Privilegierung mit zwei Varianten: durch Misshandlung oder schwere Beleidigung des Opfers zum Zorn gereizt sowie sonstiger minder schwerer Fall. Strafr..."
+description: "Wenn es um Minder schwerer Fall des Totschlags nach Paragraf 213 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Minder schwerer Fall des Totschlags nach § 213 StGB

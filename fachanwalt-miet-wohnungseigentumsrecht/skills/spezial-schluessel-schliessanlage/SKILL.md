@@ -1,6 +1,6 @@
 ---
 name: spezial-schluessel-schliessanlage
-description: "Schlüssel/Schließanlage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Verlust, Kosten, Austausch, Beweis, Kaution; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Schlüssel/Schließanlage in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schlüssel/Schließanlage

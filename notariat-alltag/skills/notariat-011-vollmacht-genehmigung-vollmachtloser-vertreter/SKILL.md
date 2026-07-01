@@ -1,6 +1,6 @@
 ---
 name: notariat-011-vollmacht-genehmigung-vollmachtloser-vertreter
-description: "Notariat im Alltag: Vollmacht Genehmigung vollmachtloser Vertreter und Nachgenehmigung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Notariat im Alltag: Vollmacht Genehmigung vollmachtloser Vertreter und Nachgenehmigung in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Vollmacht Genehmigung vollmachtloser Vertreter und Nachgenehmigung

@@ -1,6 +1,6 @@
 ---
 name: stgb-risikoampel-und-gegenargumente
-description: "Stgb: Risikoampel, Gegenargumente und Verteidigungslinien: Stgb: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Wenn es um Stgb: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Strafrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stgb: Risikoampel, Gegenargumente und Verteidigungslinien

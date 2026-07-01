@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-kdv-aktenvernichtung-kdvg
-description: "Routet Akteneinsicht bei BAFzA, BAPersBw und Gericht im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Akteneinsicht KDV in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Akteneinsicht KDV

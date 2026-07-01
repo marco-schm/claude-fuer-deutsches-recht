@@ -1,6 +1,6 @@
 ---
 name: onboarding-korrekturnormen
-description: "Systematischer Vergleich der Korrekturnormen — wann ist welche Vorschrift einschlaegig wann begruendet sie Änderung zugunsten oder zu Lasten des Steuerpflichtigen und welche Frist gilt. Anwendungsfall Berater hat einen bestandskraeftigen Bescheid und sucht den richtigen Änderungstatbestand oder..."
+description: "Wenn es um Korrektur von Steuerbescheiden — Paragrafen 129 164 165 172 173 174 175 AO im Überblick in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Korrektur von Steuerbescheiden — §§ 129 164 165 172 173 174 175 AO im Überblick

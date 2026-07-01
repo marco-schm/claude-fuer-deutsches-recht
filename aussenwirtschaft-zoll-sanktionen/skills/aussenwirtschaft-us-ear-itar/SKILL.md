@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-us-ear-itar
-description: "US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administration Regulations 15 CFR Parts 730-774) ITAR (22 CFR Parts 120-130) und ECCN-Klassifizierung. De-minimis-Regel und Foreign-Direct-Product-Rule als Risiken für EU-Reexporte. Output: US-Touchpoint-Vermerk und Abgrenzung zu..."
+description: "Wenn es um US-Exportkontrolle EAR und ITAR als Touchpoint im EU-Mandat in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # US-Exportkontrolle EAR und ITAR als Touchpoint im EU-Mandat

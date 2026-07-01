@@ -1,6 +1,6 @@
 ---
 name: agrar-einfuehrung-rechtsquellen
-description: "Agrarrecht einfuehrend: Schlüsselnormen BGB-Landpacht, GrdstVG, LPachtVG, LwAnpG, EU-GAP-Strategieplan, Duengeverordnung, BNatSchG, BImSchG, TierSchG. Pro Norm Anwendungsbereich, Behörde, typische Mandantenfragen. Entscheidungstabelle."
+description: "Wenn es um Agrarrecht: Rechtsquellen in Fachanwalt Agrarrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Agrarrecht: Rechtsquellen

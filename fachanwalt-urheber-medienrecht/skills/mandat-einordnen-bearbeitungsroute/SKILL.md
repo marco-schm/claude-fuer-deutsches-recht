@@ -1,6 +1,6 @@
 ---
 name: mandat-einordnen-bearbeitungsroute
-description: "Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen: §§ 1 2 7 UrhG §§ 97 ff. UrhG §§ 22 ff. KUG. Prüfraster: Schutzgegenstand Verletzungshandlung Parteistellung..."
+description: "Wenn es um Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen

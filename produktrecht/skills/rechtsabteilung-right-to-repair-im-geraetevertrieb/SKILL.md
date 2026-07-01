@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-right-to-repair-im-geraetevertrieb
-description: "Rechtsabteilungs-Fachmodul für Right to Repair im Gerätevertrieb: Reparaturpflichten, Ersatzteile, Garantietexte und Service-Netz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Produktrecht."
+description: "Wenn es um Rechtsabteilung: Right to Repair im Gerätevertrieb in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Right to Repair im Gerätevertrieb

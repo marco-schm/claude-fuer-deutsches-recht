@@ -1,6 +1,6 @@
 ---
 name: third-party-notice-607-zpo
-description: "Prüft Streitverkündung, Nebenintervention und Drittbeteiligung bei englischsprachigen Commercial-Court-Verfahren im Commercial Courts Deutschland."
+description: "Wenn es um Third Party Notice in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Third Party Notice

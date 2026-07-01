@@ -1,6 +1,6 @@
 ---
 name: kirchlicher-verwaltungsakt-und-dekret
-description: "Kirchlicher Verwaltungsakt und Dekret: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Wenn es um Kirchlicher Verwaltungsakt und Dekret in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kirchlicher Verwaltungsakt und Dekret

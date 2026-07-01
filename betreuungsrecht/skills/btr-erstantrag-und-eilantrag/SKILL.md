@@ -1,6 +1,6 @@
 ---
 name: btr-erstantrag-und-eilantrag
-description: "Erstantrag auf Betreuung beim Amtsgericht: § 1814 BGB Voraussetzungen seit Reform 2023, Eilantrag bei Gefahr im Verzug, einstweilige Anordnung § 300 FamFG. Strukturierte Antragsvorlage und Erfordernisse Sachverstaendigengutachten."
+description: "Wenn es um Btr: Erst- und Eilantrag in Betreuungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Btr Erstantrag Und Eilantrag; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Btr: Erst- und Eilantrag

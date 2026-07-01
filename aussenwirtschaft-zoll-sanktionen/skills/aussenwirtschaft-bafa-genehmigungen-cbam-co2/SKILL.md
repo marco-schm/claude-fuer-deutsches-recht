@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-bafa-genehmigungen-cbam-co2
-description: "BAFA-Exportgenehmigungsverfahren für Dual-Use-Gueter und kontrollierte Technologien: Einzelgenehmigung, Sammelgenehmigung, Globalgenehmigung und Nullbescheid nach AWG/AWV und VO (EU) 2021/821. Steuerung des Antragsverfahrens ueber ELAN-K2, Bearbeitungsfristen, Nachfragen und Widerspruchsverfahren..."
+description: "Wenn es um BAFA-Genehmigungsverfahren: Einzel- Sammel- und Globalgenehmigung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BAFA-Genehmigungsverfahren: Einzel- Sammel- und Globalgenehmigung

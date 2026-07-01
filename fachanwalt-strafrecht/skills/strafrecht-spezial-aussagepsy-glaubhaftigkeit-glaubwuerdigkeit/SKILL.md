@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsy-glaubhaftigkeit-glaubwuerdigkeit
-description: "Begriffsdifferenzierung: Glaubhaftigkeit bezieht sich auf die Aussage (Inhalt, Konstanz, Realkennzeichen): Glaubwuerdigkeit bezieht sich auf die Perso..."
+description: "Wenn es um Strafrecht Spezial Aussagepsy Glaubhaftigkeit Glaubwuerdigkeit in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Begriffsdifferenzierung: Glaubhaftigkeit bezieht sich auf die Aussage (Inhalt, Konstanz, Realkennzeichen)

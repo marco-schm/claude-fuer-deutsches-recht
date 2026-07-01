@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-verantwortung-organisationspflich
-description: "Steuerberater: jahresabschluss verantwortung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Jahresabschluss Verantwortung Organisationspflich in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: jahresabschluss verantwortung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: phish-meldepflichten-leitfaden
-description: "Leitfaden Meldepflichten Phishing: Art. 33 DSGVO Aufsichtsbehoerde 72 Stunden, Art. 34 Betroffene, BSI bei KRITIS, Versicherer. Prüfraster Eskalationsstufen im Phishing Vorfall Prüfer."
+description: "Wenn es um Phish: Meldepflichten in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Phish: Meldepflichten

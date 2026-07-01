@@ -1,6 +1,6 @@
 ---
 name: niessbrauch-wohnungsrecht
-description: "Prüft Berechtigte, Inhalt, Rang, Löschung, Tod, Heimunterbringung, Vermietung und Finanzierungskonflikt im Grundbuchamt Praxis."
+description: "Wenn es um Nießbrauch und Wohnungsrecht in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nießbrauch und Wohnungsrecht

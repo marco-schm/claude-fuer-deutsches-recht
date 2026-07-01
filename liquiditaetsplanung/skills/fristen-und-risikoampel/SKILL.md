@@ -1,6 +1,6 @@
 ---
 name: fristen-und-risikoampel
-description: "Fristen- und Risikoampel der Liquiditätsplanung: Insolvenzreife, Antragspflicht, Steuer-/SV-Fälligkeiten, Lohnrisiken, Bankfristen und Maßnahmenplan."
+description: "Wenn es um Fristen- und Risikoampel Liquiditätsplanung in Liquiditätsplanung — Power geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen- und Risikoampel Liquiditätsplanung

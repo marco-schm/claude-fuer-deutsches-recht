@@ -1,6 +1,6 @@
 ---
 name: fallfremde-textbausteine-prozessrisiko
-description: "Fallfremde KI-Textbausteine erkennen und entschärfen: Namen, Daten, Aktenzeichen, Tatvorwürfe, falsche Anlagen, fremde Prozessgeschichte und bewusst/unbewusst irreführender Vortrag in Schriftsatz, Einspruch, Klage oder Behördenantwort."
+description: "Wenn es um Fallfremde Textbausteine in europäischem Technikregulierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Fallfremde Textbausteine

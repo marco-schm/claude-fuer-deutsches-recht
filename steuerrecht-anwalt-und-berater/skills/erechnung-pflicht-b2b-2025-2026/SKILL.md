@@ -1,6 +1,6 @@
 ---
 name: erechnung-pflicht-b2b-2025-2026
-description: "eRechnung-Pflicht B2B seit 01.01.2025 § 14 UStG ViDA. Anwendungsfall Prüfung Mandantenbetrieb eRechnungs-Empfang Versand Übergangsfristen PDF reicht nicht mehr. Methodik Format XRechnung ZUGFeRD. Output eRechnungs-Konfiguration."
+description: "Wenn es um eRechnung-Pflicht B2B seit 01.01.2025 in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # eRechnung-Pflicht B2B seit 01.01.2025

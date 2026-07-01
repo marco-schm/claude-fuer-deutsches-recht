@@ -1,6 +1,6 @@
 ---
 name: rechtstheorie-rechtsphilosophie-seminararbeit
-description: "Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Geltungsgrund Rechtsbegriff Auslegung Gerechtigkeit. Normen Art. 20 GG Rechtsstaatsprinzip. Prüfraster Theorien-Zuordnung Argumentations-Qualitaet Reflexions-Tiefe. Output rechts..."
+description: "Wenn es um Rechtstheorie und Rechtsphilosophie — Anbindung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtstheorie und Rechtsphilosophie — Anbindung

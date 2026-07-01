@@ -1,6 +1,6 @@
 ---
 name: schutzrechts-fristennotiz-ip-klausel
-description: "Schutzrechts-Fristennotiz und nächster Schritt: Schnellerfassung aller relevanten Fristen bei einem IP-Mandat, sofortige Bewertung der Handlungsdringlichkeit und konkreter nächster Schritt für Anwalt und Mandant im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Schutzrechts-Fristennotiz und nächster Schritt in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezial: Schutzrechts-Fristennotiz und nächster Schritt

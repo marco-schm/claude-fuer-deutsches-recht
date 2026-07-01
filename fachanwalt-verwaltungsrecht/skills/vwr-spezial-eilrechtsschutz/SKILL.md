@@ -1,6 +1,6 @@
 ---
 name: vwr-spezial-eilrechtsschutz
-description: "Spezialfall Eilrechtsschutz vor Verwaltungsgericht: § 80 Abs: 5 VwGO Aussetzung der Vollziehung, § 123 VwGO einstweilige Anordnung, Abwaegungspruefung, Begruendungsanforderungen. Prüfraster und..."
+description: "Wenn es um Vwr Spezial Eilrechtsschutz in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Eilrechtsschutz vor Verwaltungsgericht: § 80 Abs

@@ -1,6 +1,6 @@
 ---
 name: einwilligungsunfaehigkeit-ablehnung
-description: "Einwilligungsunfähigkeit und Ablehnung: moderner Medizinrechts-Skill für Therapieablehnung, natürliche Wille, Zwangsbehandlung, Betreuungsgericht und Klinikalltag: Einwilligungsunfähigkeit und Ablehnung: moderner Medizinrechts-Skill für Therapieablehnung, n..."
+description: "Wenn es um Einwilligungsunfaehigkeit Ablehnung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einwilligungsunfähigkeit und Ablehnung: moderner Medizinrechts-Skill für Therapieablehnung, natürliche Wille, Zwangsbehandlung, Betreuungsgericht und Klinikalltag

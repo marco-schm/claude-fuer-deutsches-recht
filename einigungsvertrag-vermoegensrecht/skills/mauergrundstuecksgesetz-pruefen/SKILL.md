@@ -1,6 +1,6 @@
 ---
 name: mauergrundstuecksgesetz-pruefen
-description: "Einigungsvertrag und Vermögensrecht: Mauergrundstücksgesetz prüfen. Mauergrundstücksgesetz prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägige..."
+description: "Wenn es um Mauergrundstuecksgesetz Prüfen in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mauergrundstuecksgesetz Prüfen

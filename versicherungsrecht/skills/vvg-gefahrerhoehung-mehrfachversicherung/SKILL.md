@@ -1,6 +1,6 @@
 ---
 name: vvg-gefahrerhoehung-mehrfachversicherung
-description: "Gefahrerhöhung vor und nach Vertragsschluss: willentlich/unwillentlich, Anzeige, Kündigung, Leistungsfreiheit und Kausalitätsprüfung in Sach-, Haftpflicht- und Personenversicherungen im Versicherungsrecht."
+description: "Wenn es um Gefahrerhöhung Paragrafen 23–27 VVG in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Gefahrerhöhung §§ 23–27 VVG

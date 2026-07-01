@@ -1,6 +1,6 @@
 ---
 name: fallloesung-im-institutionensystem
-description: "Römisches Recht: Fallloesung Im Institutionensystem. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Fallloesung Im Institutionensystem in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fallloesung Im Institutionensystem

@@ -1,6 +1,6 @@
 ---
 name: towerco-tk-traffic
-description: "Mobilfunkstandorte: Miet-/Gestattungsvertrag, Baurecht, Immissionsschutz, Standortsharing, Rückbau und Eigentümerkonflikt im Telekommunikationsrecht."
+description: "Wenn es um TowerCo und Mobilfunkstandortmiete in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # TowerCo und Mobilfunkstandortmiete

@@ -1,6 +1,6 @@
 ---
 name: fertilitaetsmedizin-recht
-description: "Fertilitätsmedizin Recht: moderner Medizinrechts-Skill für IVF, Samenspende, Embryonenschutz, Abstammung, Aufklärung und Haftung: Fertilitätsmedizin Recht: moderner Medizinrechts-Skill für IVF, Samenspende, Embryonenschutz, Abstammung, Aufklärung und Haftun..."
+description: "Wenn es um Fertilitaetsmedizin Recht in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fertilitätsmedizin Recht: moderner Medizinrechts-Skill für IVF, Samenspende, Embryonenschutz, Abstammung, Aufklärung und Haftung

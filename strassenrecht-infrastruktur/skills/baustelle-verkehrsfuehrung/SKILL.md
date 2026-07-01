@@ -1,6 +1,6 @@
 ---
 name: baustelle-verkehrsfuehrung
-description: "Straßenrecht und Infrastruktur: Baustelle und Verkehrsführung. Baustelle und Verkehrsführung im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tatbestandsme..."
+description: "Wenn es um Baustelle Und Verkehrsfuehrung in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Baustelle Und Verkehrsfuehrung

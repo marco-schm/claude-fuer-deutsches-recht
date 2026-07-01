@@ -1,6 +1,6 @@
 ---
 name: automatisierter-bescheid
-description: "Erklärt vollständig automatisierte Verwaltungsakte, Plausibilitätsfehler, Datenbasis und Widerspruch im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Automatisierter Bescheid in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Automatisierter Bescheid

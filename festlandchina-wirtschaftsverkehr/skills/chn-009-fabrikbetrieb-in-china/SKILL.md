@@ -1,6 +1,6 @@
 ---
 name: chn-009-fabrikbetrieb-in-china
-description: "Festlandchina Wirtschaftsverkehr: Fabrikbetrieb In China. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Fabrikbetrieb In China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fabrikbetrieb In China

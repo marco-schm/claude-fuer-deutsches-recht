@@ -1,6 +1,6 @@
 ---
 name: missbrauch-vertretungsmacht
-description: "Klausurfall zum Missbrauch der Vertretungsmacht: kollusives Zusammenwirken von Vertreter und Drittem zum Nachteil des Vertretenen, Kenntnis oder Kennenmüssen des Dritten, Rechtsfolge der Unwirksamkeit analog § 138 BGB oder § 242 BGB. BGH-Linie zum Evidenzmaßstab."
+description: "Wenn es um Missbrauch der Vertretungsmacht in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Missbrauch der Vertretungsmacht

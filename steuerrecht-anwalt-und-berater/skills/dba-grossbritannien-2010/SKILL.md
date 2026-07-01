@@ -1,6 +1,6 @@
 ---
 name: dba-grossbritannien-2010
-description: "DBA Deutschland Vereinigtes Koenigreich 2010 mit Protokollen 2014 und 2021. Anwendungsfall Brexit-Folgen Holding-Strukturen City-Branchen Pensionen Finanzdienstleistungen. Keine EU-Richtlinien nach Brexit. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Vereinigtes Koenigreich (2010) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Vereinigtes Koenigreich (2010)

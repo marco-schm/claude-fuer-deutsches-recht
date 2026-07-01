@@ -1,6 +1,6 @@
 ---
 name: ki-vo-laienmodus-robotikrecht-litigation
-description: "Prüft integrierte KI-Systeme, Sicherheitskomponenten, Anhang III, Hochrisiko-Nähe, Anbieter-/Betreiberpflichten und Zweckänderungen im Robotik-Recht."
+description: "Wenn es um europäischer Technikregulierungsrahmen Integrationscheck in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI-VO Integrationscheck

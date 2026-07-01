@@ -1,6 +1,6 @@
 ---
 name: chn-071-hong-kong-risk-scenario
-description: "Festlandchina Wirtschaftsverkehr: Hong Kong Risk Scenario. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Hong Kong Risk Scenario in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hong Kong Risk Scenario

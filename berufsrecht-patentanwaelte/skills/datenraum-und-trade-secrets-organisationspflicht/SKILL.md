@@ -1,6 +1,6 @@
 ---
 name: datenraum-und-trade-secrets-organisationspflicht
-description: "Patentanwälte: datenraum und trade secrets - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Datenraum Und Trade Secrets Organisationspflicht in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: datenraum und trade secrets - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

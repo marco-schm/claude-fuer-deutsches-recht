@@ -1,6 +1,6 @@
 ---
 name: einwilligung-genehmigung-paragraphen-107
-description: "Klausurfall zu Einwilligung und Genehmigung bei beschränkt Geschäftsfähigen nach §§ 107 bis 109 BGB: schwebende Unwirksamkeit, Genehmigungsfiktion nach § 108 Abs. 2 BGB, Widerrufsrecht des Vertragspartners und Wirkung der Genehmigung ex tunc."
+description: "Wenn es um Einwilligung und Genehmigung — Paragrafen 107 bis 109 BGB in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Einwilligung Genehmigung Paragraphen 107; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Einwilligung und Genehmigung — §§ 107 bis 109 BGB

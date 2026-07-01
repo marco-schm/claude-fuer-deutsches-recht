@@ -1,6 +1,6 @@
 ---
 name: abstimmung-mit-vertrieb-marketing
-description: "Briefing für Vertrieb und Marketing zu einem Verlagsprodukt: Zielgruppe Kernnutzen Vergleichstitel Preisarchitektur und Material für Katalog Webseite Veranstaltungen im Verlagsredaktion."
+description: "Wenn es um Abstimmung mit Vertrieb / Marketing in Verlagsredaktion geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Abstimmung mit Vertrieb / Marketing

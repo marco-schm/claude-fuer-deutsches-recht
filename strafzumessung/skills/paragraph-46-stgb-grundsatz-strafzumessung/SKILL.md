@@ -1,6 +1,6 @@
 ---
 name: paragraph-46-stgb-grundsatz-strafzumessung
-description: "Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1), praeventive Wirkungen auf das kuenftige Leben des Taeters (Abs. 1 Satz 2), Katalog der Strafzumessungstatsachen (Abs. 2), Doppelverwertungsverbot (Abs. 3). Anwendung in Hauptverhandlung, Urteilsbegruendung und Revis..."
+description: "Wenn es um Paragraf 46 StGB — Grundsatz der Strafzumessung in Strafzumessung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # § 46 StGB — Grundsatz der Strafzumessung

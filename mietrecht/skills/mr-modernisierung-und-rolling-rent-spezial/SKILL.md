@@ -1,6 +1,6 @@
 ---
 name: mr-modernisierung-und-rolling-rent-spezial
-description: "Spezialfall Modernisierungs-Umlage in der laufenden Mieterhoehung: Verhältnis § 559 BGB zur ortsueblichen Vergleichsmiete § 558 BGB, Kappungsgrenze, Haerteeinwand. Aktuelle Rechtsprechung BGH. Prüfraster im Mietrecht."
+description: "Wenn es um Mietrecht: Modernisierung-Rolling-Rent in Mietrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Mietrecht: Modernisierung-Rolling-Rent

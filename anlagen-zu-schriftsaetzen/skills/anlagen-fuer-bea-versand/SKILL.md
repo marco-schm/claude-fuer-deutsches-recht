@@ -1,6 +1,6 @@
 ---
 name: anlagen-fuer-bea-versand
-description: "Anlagen für beA-Versand vorbereiten: PDF/A-konform, max. zulaessige Dateigroesse beachten, OCR ueber Scans laufen lassen, korrekt strukturiertes XJustiz-Begleitformular. Liste der Anlagen pro Schriftsatz mit Prüfsumme. Verhindert wiederholte Zurueckweisung."
+description: "Wenn es um Anlagen für beA-Versand in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anlagen für beA-Versand

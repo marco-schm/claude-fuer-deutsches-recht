@@ -1,6 +1,6 @@
 ---
 name: 06-schluessigkeit-pruefen
-description: "Schlüssigkeitsprüfung in der Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsachenvortrag, Rechtsfolge, Nebenforderung und Hinweisbedarf sauber trennen."
+description: "Wenn es um 06 Schlüssigkeit Prüfen in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # 06 Schlüssigkeit Prüfen

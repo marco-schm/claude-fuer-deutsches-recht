@@ -1,6 +1,6 @@
 ---
 name: workflow-normen-und-standardrecherche
-description: "Plant Recherche nach harmonisierten Normen, ISO/IEC-Standards, C-Normen, Stand der Technik und behördlichen Leitlinien ohne Normenblindflug im Robotik-Recht."
+description: "Wenn es um Normen- und Standardrecherche in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Auswahlstichwort: Workflow Normen Und Standardrecherche; Arbeitsfeld: robotik-recht."
 ---
 
 # Normen- und Standardrecherche

@@ -1,6 +1,6 @@
 ---
 name: polizei-vorladung-rechtsantragsstelle
-description: "Erklärt, wer geladen hat, ob Erscheinen Pflicht ist, was Aussage bedeutet und wann Beratung vor Aussage sinnvoll ist im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Polizei-Vorladung als Zeuge in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Polizei-Vorladung als Zeuge

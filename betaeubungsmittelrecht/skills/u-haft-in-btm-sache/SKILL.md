@@ -1,6 +1,6 @@
 ---
 name: u-haft-in-btm-sache
-description: "Betäubungsmittelrecht: U-Haft in BtM-Sache. U-Haft in BtM-Sache im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
+description: "Wenn es um U Haft In Btm Sache in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # U Haft In Btm Sache

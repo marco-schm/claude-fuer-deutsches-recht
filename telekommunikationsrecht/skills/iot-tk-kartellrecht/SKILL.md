@@ -1,6 +1,6 @@
 ---
 name: iot-tk-kartellrecht
-description: "IoT-/M2M-Konnektivität: SIM-Karten, Roaming, Nummerierung, Sicherheit, Datenzugriff, Produkthaftung und Vertragsketten im Telekommunikationsrecht."
+description: "Wenn es um IoT, M2M und SIM-Karten in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # IoT, M2M und SIM-Karten

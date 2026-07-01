@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-krypto-und-kontoarrest
-description: "Geldwäsche mit Krypto- oder Kontospuren: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Geldwäsche mit Krypto- oder Kontospuren in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Geldwaesche Krypto Und Kontoarrest; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
 ---
 
 # Geldwäsche mit Krypto- oder Kontospuren

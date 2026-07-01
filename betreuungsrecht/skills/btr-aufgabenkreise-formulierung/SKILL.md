@@ -1,6 +1,6 @@
 ---
 name: btr-aufgabenkreise-formulierung
-description: "Aufgabenkreise praezise formulieren: Vermögenssorge, Gesundheitssorge, Aufenthaltsbestimmung, Wohnungsangelegenheiten, Vertretung gegenueber Behörden, Postangelegenheiten. Prüfraster für Mass und Mindestmass nach Reform 2023."
+description: "Wenn es um Btr: Aufgabenkreise in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Btr: Aufgabenkreise

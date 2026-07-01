@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungschat-sozialgericht
-description: "Geführter Rechtsprechungschat für Selbstvertreter im Sozialgerichtsverfahren. Hilft, BSG-, LSG-, BVerfG- und EuGH-Rechtsprechung zu Sozialleistungen, Eilrechtsschutz, Amtsermittlung, Gutachten und Berufung zu finden, zu verstehen und laiengerecht zu verwenden."
+description: "Wenn es um Rechtsprechungschat Sozialgericht in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsprechungschat Sozialgericht

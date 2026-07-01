@@ -1,6 +1,6 @@
 ---
 name: status
-description: "Fallstatuszusammenfassung nach Zielgruppe — mandantengerichtet (verständliche Sprache), intern (für den Supervisor) oder gerichts-/behördengerichtet (formale Schriftsatzform per Verfahrensordnung). Gleiche Fakten, unterschiedliche Darstellung und Tiefe. Lädt, wenn ein Studentenr den Mandanten i..."
+description: "Wenn es um Fallstatus: Zielgruppengerechte Fallzusammenfassung in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Fallstatus: Zielgruppengerechte Fallzusammenfassung

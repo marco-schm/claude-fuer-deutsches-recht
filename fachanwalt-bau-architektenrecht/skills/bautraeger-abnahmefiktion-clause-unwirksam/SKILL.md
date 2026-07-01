@@ -1,6 +1,6 @@
 ---
 name: bautraeger-abnahmefiktion-clause-unwirksam
-description: "Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit: Skill behandelt die haeufige Bautraeger-Klausel zur fiktiven Abnahme bei Einzug oder nach Frist die BGH-Linie zu deren Unwirksamkeit und die Konsequenz..."
+description: "Wenn es um Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit

@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg
-description: "Stille-Reserven-Klausel des Paragraf 8c Abs: 4 KStG und Paragraf 8d KStG als Schutzmechanismen für Verlustvorträge bei einem schädlichen Beteiligungserwerb. Beschreibt die Tatbestandsmerkmale, die Berechnungsmechanik, die Ermittlung..."
+description: "Wenn es um Stille-Reserven-Klausel des Paragraf 8c Abs in Großkanzlei Corporate/M&A geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Stille-Reserven-Klausel des Paragraf 8c Abs

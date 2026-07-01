@@ -1,6 +1,6 @@
 ---
 name: sanktion-behoerdenkommunikation
-description: "Datenschutzrecht-Brückenskill: Behördenkommunikation mit Reputationsschutz: Ton, Timing, Presse, Veröffentlichung, Kundenkommunikation und Verteidigungsrechte koordinieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtssc..."
+description: "Wenn es um Behördenkommunikation mit Reputationsschutz in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Behördenkommunikation mit Reputationsschutz

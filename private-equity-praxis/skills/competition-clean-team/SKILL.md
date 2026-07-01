@@ -1,6 +1,6 @@
 ---
 name: competition-clean-team
-description: "Strukturiert Wettbewerberdaten, Preislisten, Kundenlisten, Management Calls und Austausch im Bieterprozess im Private Equity Praxis."
+description: "Wenn es um Clean Team und Kartellrecht im PE-Prozess in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Clean Team und Kartellrecht im PE-Prozess

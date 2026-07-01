@@ -1,6 +1,6 @@
 ---
 name: foreign-publisher-us-distribution
-description: "Deutscher Verlag mit US-Vertrieb: Import, Distributor, Plattformverkauf, first foreign edition, U.S.-Mandatory-Deposit-Risiko und Registrierungsstrategie im Us Copyright Registrierung Verlag."
+description: "Wenn es um Foreign Publisher und US Distribution in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Foreign Publisher und US Distribution

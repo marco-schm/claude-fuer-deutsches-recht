@@ -1,6 +1,6 @@
 ---
 name: firmenfortfuehrung-paragraphen-21-25-hgb
-description: "Prüft Firmenfortführung, Unternehmenserwerb, Haftung und Haftungsausschluss im Handelsrecht Hgb."
+description: "Wenn es um Firmenfortführung Paragrafen 21-25 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Firmenfortführung §§ 21-25 HGB

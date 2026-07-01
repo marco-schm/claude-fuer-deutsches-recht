@@ -1,6 +1,6 @@
 ---
 name: versr-d-o-claims-made-ausschluesse
-description: "D&O-Deckung bei Organhaftung: Claims-made, Notice, Wissentlichkeit, Innenhaftung, Insolvenz, Abwehrkosten und Vergleichskontrolle: D&O-Deckung bei Organhaftung: Claims-made, Notice, Wissentlichkeit, Innenhaftung, Insolvenz, Abwehrkosten und Vergleichskontr..."
+description: "Wenn es um Versr D O Claims Made Ausschluesse in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # D&O-Deckung bei Organhaftung: Claims-made, Notice, Wissentlichkeit, Innenhaftung, Insolvenz, Abwehrkosten und Vergleichskontrolle.

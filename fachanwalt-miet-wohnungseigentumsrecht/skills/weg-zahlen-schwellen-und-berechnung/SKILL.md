@@ -1,6 +1,6 @@
 ---
 name: weg-zahlen-schwellen-und-berechnung
-description: "WEG: Zahlen, Schwellenwerte und Berechnung im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt: WEG..."
+description: "Wenn es um Weg Zahlen Schwellen Und Berechnung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # WEG: Zahlen, Schwellenwerte und Berechnung im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

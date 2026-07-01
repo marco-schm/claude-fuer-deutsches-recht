@@ -1,6 +1,6 @@
 ---
 name: liquidated-damages-us-uk-vergleich
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Liquidated Damages US Uk Vergleich; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Liquidated Damages US Uk Vergleich in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Liquidated Damages US Uk Vergleich

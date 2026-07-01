@@ -1,6 +1,6 @@
 ---
 name: space-032-bodensegment-teleport-rz-kritische-infra
-description: "Weltraumrecht: Bodensegment Teleport Rechenzentrum und kritische Infrastruktur mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Bodensegment Teleport Rechenzentrum und kritische Infrastruktur in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Bodensegment Teleport Rechenzentrum und kritische Infrastruktur

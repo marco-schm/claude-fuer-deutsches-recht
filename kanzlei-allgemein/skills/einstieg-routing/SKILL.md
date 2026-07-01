@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Kanzlei-Allgemein: ordnet Rolle (Anwalt, Mandant, Mitarbeiter), markiert Frist (Mandatsannahme), wählt Norm (BRAO, BORA, FAO, RVG, DSGVO) und Zuständigkeit (RAK), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Kanzlei-Allgemein geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

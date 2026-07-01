@@ -1,6 +1,6 @@
 ---
 name: tutela-fiduciaria-und-pflegevormundschaft-vermoegen
-description: "Tutela fiduciaria und Pflegevormundschaft: Vermögensverwaltung für Minderjaehrige und Frauen im roemischen Recht. Skill behandelt die Stellung des Tutor die actio tutelae direkter und konträrer Klage Schutzbestimmungen gegen Untreue des Tutors. Liefert Quellenmatrix im Römisches Recht."
+description: "Wenn es um Rom 140 Tutela Fiduciaria Und Pflegevormundschaft Vermögen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tutela Fiduciaria Und Pflegevormundschaft Vermoegen; Arbeitsfeld: Römisches Recht."
 ---
 
 # Rom 140 Tutela Fiduciaria Und Pflegevormundschaft Vermögen

@@ -1,6 +1,6 @@
 ---
 name: projektfinanzierung-stadtwerke-system
-description: "Projektfinanzierung: Compliance-Dokumentation und Aktenvermerk im Energierecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Projektfinanzierung: Compliance-Dokumentation und Aktenvermerk in Energierecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Projektfinanzierung: Compliance-Dokumentation und Aktenvermerk

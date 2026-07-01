@@ -1,6 +1,6 @@
 ---
 name: cives-sine-suffragio-municipia-iure
-description: "Cives sine suffragio und municipia sine iure suffragii: roemische Halbbuerger und ihre Gemeinden. Skill behandelt die historische Konstruktion der Buergerschaft ohne Stimmrecht ihre Rechtsfolgen und die Aufhebung im 1. Jh. v. Chr. Liefert Quellenmatrix."
+description: "Wenn es um Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii

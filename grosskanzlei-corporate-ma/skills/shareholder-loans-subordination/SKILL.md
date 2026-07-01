@@ -1,6 +1,6 @@
 ---
 name: shareholder-loans-subordination
-description: "Shareholder Loans, Rangruecktritt und Gesellschafterfinanzierung im M&A: prüft Darlehen, Nachrang, Insolvenznahe, Debt Pushdown, Verzicht und SPA-Behandlung: Shareholder Loans, Rangruecktritt und Gesellschafterfinanzierung im M&A: prüft Darlehen, Nachran..."
+description: "Wenn es um Shareholder Loans Subordination in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Shareholder Loans, Rangrücktritt und Gesellschafterfinanzierung im M&A: prüft Darlehen, Nachrang, Insolvenznahe, Debt Pushdown, Verzicht und SPA-Behandlung.

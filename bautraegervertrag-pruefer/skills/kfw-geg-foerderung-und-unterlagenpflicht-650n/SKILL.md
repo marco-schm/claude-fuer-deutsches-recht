@@ -1,6 +1,6 @@
 ---
 name: kfw-geg-foerderung-und-unterlagenpflicht-650n
-description: "Prüft Förder-, Energie- und Nachweisunterlagen beim Bauträgervertrag: § 650n BGB, Art. 249 EGBGB, GEG, KfW-/BEG-Versprechen, Energieausweis, Fachunternehmererklärungen, Nachweisrisiko und Schaden."
+description: "Wenn es um KfW/GEG, Förderung und Unterlagenpflicht Paragraf 650n BGB in Bauträgervertrag-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # KfW/GEG, Förderung und Unterlagenpflicht § 650n BGB

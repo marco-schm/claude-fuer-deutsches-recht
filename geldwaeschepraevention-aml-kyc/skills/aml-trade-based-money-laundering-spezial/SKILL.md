@@ -1,6 +1,6 @@
 ---
 name: aml-trade-based-money-laundering-spezial
-description: "Spezialfall Trade-Based-Money-Laundering: Over- und Underinvoicing, mehrfache Rechnungsstellung, Phantomgueter. Prüfraster für Handelsfinanzierung im Geldwaeschepraevention Aml Kyc."
+description: "Wenn es um AML: Trade-Based in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AML: Trade-Based

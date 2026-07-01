@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Sportrecht: ordnet Rolle (Sportler, Verein/Verband, Disziplinarausschuss), markiert Frist (Berufung CAS 21 Tage), wählt Norm (Verbandsrecht (DFB, DOSB), CAS-Code, WADA-Code) und Zuständigkeit (Verbandsschiedsgerichte), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

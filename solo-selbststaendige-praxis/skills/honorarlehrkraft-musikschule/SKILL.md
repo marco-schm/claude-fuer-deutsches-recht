@@ -1,6 +1,6 @@
 ---
 name: honorarlehrkraft-musikschule
-description: "Solo-Selbstständige: prüft Lehrkräfte, Kursplan, Material, Vertretung und Schulorganisation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Scheinselbstständigkeit und Status: Prüft lehrkräfte in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Scheinselbstständigkeit und Status: Prüft lehrkräfte

@@ -1,6 +1,6 @@
 ---
 name: autonomous-driving-interessen-grossprojekt
-description: "Autonomous: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Autonomous: Compliance-Dokumentation und Aktenvermerk in Verkehrs- und Infrastrukturrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Autonomous: Compliance-Dokumentation und Aktenvermerk

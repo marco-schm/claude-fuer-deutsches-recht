@@ -1,6 +1,6 @@
 ---
 name: spezial-ordnungsrecht-schnittstelle-haus
-description: "Ordnungsrecht-Schnittstelle: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Brandschutz, Hygiene, Lärm, Gefahrenabwehr und Mietfolgen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Ordnungsrecht-Schnittstelle in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ordnungsrecht-Schnittstelle

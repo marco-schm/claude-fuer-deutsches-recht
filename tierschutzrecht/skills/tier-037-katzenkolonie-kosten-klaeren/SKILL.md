@@ -1,6 +1,6 @@
 ---
 name: tier-037-katzenkolonie-kosten-klaeren
-description: "Tierschutzrecht: Katzenkolonie: Kosten klären. Kosten klären für Katzenkolonie im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Katzenkolonie Kosten Klaeren in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Katzenkolonie Kosten Klaeren

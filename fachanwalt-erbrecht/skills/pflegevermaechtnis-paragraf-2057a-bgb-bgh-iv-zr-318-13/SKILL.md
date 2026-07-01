@@ -1,6 +1,6 @@
 ---
 name: pflegevermaechtnis-paragraf-2057a-bgb-bgh-iv-zr-318-13
-description: "Pflegevermaechtnis Paragraf 2057a BGB BGH Iv Zr 318 13: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Pflegevermaechtnis Paragraf 2057a BGB BGH Iv Zr 318 13 in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflegevermaechtnis Paragraf 2057a BGB BGH Iv Zr 318 13

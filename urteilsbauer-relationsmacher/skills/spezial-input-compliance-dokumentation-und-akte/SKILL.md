@@ -1,6 +1,6 @@
 ---
 name: spezial-input-compliance-dokumentation-und-akte
-description: "Input: Compliance-Dokumentation und Aktenvermerk im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Input: Compliance-Dokumentation und Aktenvermerk in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Input: Compliance-Dokumentation und Aktenvermerk

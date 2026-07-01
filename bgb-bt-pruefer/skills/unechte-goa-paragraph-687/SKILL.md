@@ -1,6 +1,6 @@
 ---
 name: unechte-goa-paragraph-687
-description: "Unechte GoA § 687 BGB: eigenmächtige Durchführung eines fremden Geschäfts als eigenes."
+description: "Wenn es um Unechte GoA Paragraf 687 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unechte GoA § 687 BGB

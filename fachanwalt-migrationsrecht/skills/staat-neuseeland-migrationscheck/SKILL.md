@@ -1,6 +1,6 @@
 ---
 name: staat-neuseeland-migrationscheck
-description: "Staaten- und Gebietscheck Neuseeland: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung: Staaten- und Gebietsc..."
+description: "Wenn es um Staat Neuseeland Migrationscheck in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Staaten- und Gebietscheck Neuseeland: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.

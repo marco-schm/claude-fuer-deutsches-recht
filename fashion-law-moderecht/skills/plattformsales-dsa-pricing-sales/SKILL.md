@@ -1,6 +1,6 @@
 ---
 name: plattformsales-dsa-pricing-sales
-description: "Plattformverkauf und DSA für Fashion prüfen: Händlerdaten, Notice-and-Action, Counterfeit-Meldung, Ranking, Sperrung, Beschwerde und Wiederholungstäter im Fashion Law Moderecht."
+description: "Wenn es um Plattformsales Dsa Marketplace in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Plattformsales Dsa Marketplace

@@ -1,6 +1,6 @@
 ---
 name: handelsrichter-bilanzstreit-sitzung
-description: "Handelsrichter Bilanzstreit (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Jahresabschluss, Gewährleistung, Earn-out, Bilanzgarantie und kaufmännische Plausibilität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Handelsrichter Bilanzstreit: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Handelsrichter Bilanzstreit: Sitzungspraxis

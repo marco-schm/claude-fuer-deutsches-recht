@@ -1,6 +1,6 @@
 ---
 name: abstimmung-mit-produktion-satz-druck
-description: "Klaert die Schnittstelle zur Produktion: Satzdaten Format Bildaufloesung Schriftrechte Fahnenlauf Druckfreigabe Online-Auslieferung und Reklamationswege im Verlagsredaktion."
+description: "Wenn es um Abstimmung Produktion / Satz / Druck in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Abstimmung Produktion / Satz / Druck

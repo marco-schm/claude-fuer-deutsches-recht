@@ -1,6 +1,6 @@
 ---
 name: mauergrundstueck-berechtigte-ermitteln
-description: "Einigungsvertrag und Vermögensrecht: Mauergrundstück: Berechtigte ermitteln im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Mauergrundstueck Berechtigte Ermitteln in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mauergrundstueck Berechtigte Ermitteln

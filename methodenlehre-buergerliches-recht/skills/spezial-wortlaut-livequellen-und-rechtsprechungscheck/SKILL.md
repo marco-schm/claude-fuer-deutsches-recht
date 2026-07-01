@@ -1,6 +1,6 @@
 ---
 name: spezial-wortlaut-livequellen-und-rechtsprechungscheck
-description: "Wortlaut: Livequellen- und Rechtsprechungscheck im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Wortlaut: Livequellen- und Rechtsprechungscheck in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wortlaut: Livequellen- und Rechtsprechungscheck

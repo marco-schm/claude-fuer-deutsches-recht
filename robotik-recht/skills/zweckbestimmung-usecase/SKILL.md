@@ -1,6 +1,6 @@
 ---
 name: zweckbestimmung-usecase
-description: "Kläre Zweckbestimmung, vernünftigerweise vorhersehbaren Gebrauch, Fehlanwendung, Hochrisiko-Nähe und spätere Zweckänderung."
+description: "Wenn es um Zweckbestimmung und Use Case in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zweckbestimmung und Use Case

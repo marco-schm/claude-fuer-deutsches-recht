@@ -1,6 +1,6 @@
 ---
 name: ins-055-incident-drill
-description: "Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Prüfer und BaFin-Kommunikation unter Zeitdruck: Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufs..."
+description: "Wenn es um Ins 055 Incident Drill in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Prüfer und BaFin-Kommunikation unter Zeitdruck.

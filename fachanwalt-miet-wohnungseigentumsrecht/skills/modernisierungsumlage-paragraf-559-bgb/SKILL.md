@@ -1,6 +1,6 @@
 ---
 name: modernisierungsumlage-paragraf-559-bgb
-description: "Modernisierungsumlage § 559 BGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Modernisierungsumlage Paragraf 559 BGB in Fachanwalt Miet- und Wohnungseigentumsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Modernisierungsumlage § 559 BGB

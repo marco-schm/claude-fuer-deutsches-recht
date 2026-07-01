@@ -1,6 +1,6 @@
 ---
 name: chn-001-kaltstart-china-geschaeft-sortieren
-description: "Festlandchina Wirtschaftsverkehr: Kaltstart China Geschaeft Sortieren. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Kaltstart China Geschaeft Sortieren in China-Wirtschaftsverkehr geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart China Geschaeft Sortieren

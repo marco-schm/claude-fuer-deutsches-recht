@@ -1,6 +1,6 @@
 ---
 name: vertragsmandat-workspace-kontexttrennung
-description: "Verwaltet Mandatsarbeitsbereiche — neu anlegen, auflisten, wechseln, abschließen oder von Mandatsebene auf Kanzleiebene wechseln. Lädt, wenn ein Anwalt mit mehreren Mandanten ein neues Mandat anlegen, zum aktiven Mandat wechseln, Mandate auflisten, ein Mandat archivieren oder auf kanzleiweiten Kontext umschalten möchte."
+description: "Wenn es um Mandatsworkspace, Kontexttrennung und Fristensteuerung Vertragsrecht in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandatsworkspace, Kontexttrennung und Fristensteuerung Vertragsrecht

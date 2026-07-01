@@ -1,6 +1,6 @@
 ---
 name: gruppenausarbeitung-taeuschung
-description: "Prüft Gruppenarbeiten, Zurechnung, Eigenanteil und Täuschungsvorwurf im Prüfungsrecht Hochschule."
+description: "Wenn es um Gruppenausarbeitung und Täuschung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gruppenausarbeitung und Täuschung

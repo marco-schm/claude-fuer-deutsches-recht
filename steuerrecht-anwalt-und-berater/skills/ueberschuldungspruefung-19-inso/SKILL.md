@@ -1,6 +1,6 @@
 ---
 name: ueberschuldungspruefung-19-inso
-description: "Prüfungslinie für stb ueberschuldungspruefung 19 inso im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Überschuldungsprüfung Paragraf 19 InsO (Steuerberater-Sicht) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Überschuldungsprüfung § 19 InsO (Steuerberater-Sicht)

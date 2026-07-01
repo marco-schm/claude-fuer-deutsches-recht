@@ -1,6 +1,6 @@
 ---
 name: dfg-software-veroeffentlichung-tieforschung
-description: "Spezialfall Software als Forschungsergebnis: DFG-Hinweise zur Open-Source-Veroeffentlichung, Lizenzwahl (MIT, BSD, Apache-2.0, GPL), Zenodo-DOI, Reproducibility. Prüfraster und Mustertext für Software-Sektion im Arbeitsprogramm im DFG-Förderantrag."
+description: "Wenn es um DFG: Software-Veroeffentlichung in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Dfg Software Veroeffentlichung Tieforschung; Arbeitsfeld: DFG-Förderantrag."
 ---
 
 # DFG: Software-Veroeffentlichung

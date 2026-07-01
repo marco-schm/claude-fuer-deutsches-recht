@@ -1,6 +1,6 @@
 ---
 name: 17-tatbestand-schreiben
-description: "Tatbestand Paragraf 313 Abs. 1 Nr. 5 ZPO: gestraffter unstreitiger Sachverhalt, streitiger Klägervortrag, streitiger Beklagtenvortrag, Antraege, prozessgeschichtliche Notizen; klare, einfache Sprache"
+description: "Wenn es um 17 Tatbestand Schreiben in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 17 Tatbestand Schreiben

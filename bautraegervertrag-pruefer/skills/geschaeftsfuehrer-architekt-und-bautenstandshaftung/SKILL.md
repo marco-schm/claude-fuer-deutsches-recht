@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrer-architekt-und-bautenstandshaftung
-description: "Prüft Drittansprüche bei Bauträgerprojekten: Geschäftsführerhaftung nach § 823 Abs. 2 BGB i.V.m. § 3/§ 7 MaBV, § 263 StGB, unrichtige Bautenstandsbestätigung, Architekt/Bauleiter, Schutzwirkung zugunsten Erwerber."
+description: "Wenn es um Geschäftsführer-, Architekten- und Bautenstandshaftung in Bauträgervertrag-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschäftsführer-, Architekten- und Bautenstandshaftung

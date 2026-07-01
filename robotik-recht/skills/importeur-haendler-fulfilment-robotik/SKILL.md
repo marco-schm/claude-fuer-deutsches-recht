@@ -1,6 +1,6 @@
 ---
 name: importeur-haendler-fulfilment-robotik
-description: "Prüft Importeur-, Händler- und Fulfilment-Pflichten bei Robotern aus Drittstaaten und Plattformvertrieb."
+description: "Wenn es um Importeur Händler Fulfilment in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Importeur Händler Fulfilment

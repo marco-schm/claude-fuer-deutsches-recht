@@ -1,6 +1,6 @@
 ---
 name: rechtsstand-mai-2026-faktenbank
-description: "Faktenbank und Quellen-Gate für aktuelle mietrechtliche und WEG-rechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu Mietpreisbremse, Mieterhöhung, Betriebskosten, Kündigung, Kaution, Steckersolargeräten, virtueller Eigentümerversammlung, WEG-Beschluss..."
+description: "Wenn es um Rechtsstand Mai 2026 — Faktenbank Mietrecht und WEG in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsstand Mai 2026 — Faktenbank Mietrecht und WEG

@@ -1,6 +1,6 @@
 ---
 name: bwa-betriebsergebnis-deckungsbeitrag
-description: "Ausweis Betriebsergebnis vor und nach Zinsen Deckungsbeitragsstruktur in der BWA. Anwendungsfall analytische BWA mit Stufendeckungsbeitrag EBITDA EBIT EBT Mandant aus Industrie Handel Dienstleistung. Methodik fixe und variable Kosten Identifikation Branchenkennzahl. Output BWA mit Ergebnis-Pyrami"
+description: "Wenn es um Betriebsergebnis und Deckungsbeitrag in der BWA in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bwa Betriebsergebnis Deckungsbeitrag; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Betriebsergebnis und Deckungsbeitrag in der BWA

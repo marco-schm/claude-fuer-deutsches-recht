@@ -1,6 +1,6 @@
 ---
 name: unionsmarken-anmeldung
-description: "Unionsmarke beim EUIPO anmelden nach UMV (EU) 2017/1001: Modehaus will EU-weiten Markenschutz in einem Verfahren. Normen: Art. 32 ff. UMV (Anmeldeerfordernisse), Art. 7 UMV (absolute Schutzhindernisse), Art. 119 UMV (Vertretungszwang). Prüfraster: e-Filing-Checkliste, Waren-/Dienstleistungsverzei..."
+description: "Wenn es um Unionsmarken-Anmeldung beim EUIPO in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unionsmarken-Anmeldung beim EUIPO

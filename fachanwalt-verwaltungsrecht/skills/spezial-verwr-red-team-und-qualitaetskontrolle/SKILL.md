@@ -1,6 +1,6 @@
 ---
 name: spezial-verwr-red-team-und-qualitaetskontrolle
-description: "Verwr: Red-Team und Qualitätskontrolle im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Verwr: Red-Team und Qualitätskontrolle in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verwr: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: luft-094-acc3-pfaendung-planen
-description: "Luftrecht und Flughafenrecht: ACC3: Pfändung planen. Pfändung planen für ACC3 im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Acc3 Pfaendung Planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Acc3 Pfaendung Planen

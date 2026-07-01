@@ -1,6 +1,6 @@
 ---
 name: ihl-059-e-commerce-crossborder-b2b
-description: "Internationales Handelsrecht und Lex Mercatoria: E Commerce Crossborder B2b. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um E Commerce Crossborder B2b in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # E Commerce Crossborder B2b

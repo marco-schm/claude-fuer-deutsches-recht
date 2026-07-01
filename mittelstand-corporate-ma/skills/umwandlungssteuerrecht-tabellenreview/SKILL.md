@@ -1,6 +1,6 @@
 ---
 name: umwandlungssteuerrecht-tabellenreview
-description: "Umwandlungssteuerrecht: UmwStG-Strukturfragen, Buchwertantrag, steuerliche Rückwirkung, § 8c KStG Verlustuntergang, GrESt-Ergaenzungstatbestand, Einbringung §§ 20-24 UmwStG im Mittelstand Corporate Ma."
+description: "Wenn es um Umwandlungssteuerrecht in Mittelstands-Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Umwandlungssteuerrecht

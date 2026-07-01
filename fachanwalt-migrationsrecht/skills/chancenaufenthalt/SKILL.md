@@ -1,6 +1,6 @@
 ---
 name: chancenaufenthalt
-description: "Chancen-Aufenthalt: Fachmodul im Migrationsrecht: prüft Voraufenthalt, Bekenntnis, Straftaten, Identität und Anschluss; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Chancen-Aufenthalt: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chancen-Aufenthalt: Fachmodul im Migrationsrecht

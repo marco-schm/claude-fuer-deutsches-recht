@@ -1,6 +1,6 @@
 ---
 name: vertragsverlaengerungs-monitor
-description: "'Zeigt Verträge mit ablaufenden Kündigungsfristen an und warnt rechtzeitig, bevor Verlängerungs-/Kündigungsfenster schließen. Relevant insbesondere bei § 309 Nr. 9 BGB (automatische Verlängerung). Laden, wenn der Nutzer fragt 'welche Verträge laufen aus', 'wann muss ich kündigen', 'habe ich eine..."
+description: "Wenn es um Verlängerungstracker in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlängerungstracker

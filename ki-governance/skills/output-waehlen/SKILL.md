@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für KI-Governance: stimmt Adressat (Anbieter, Betreiber, Importeur, Händler, Aufsicht), Frist (KI-VO-Geltung gestaffelt 2025-2027) und Form auf den Zweck ab — typische Outputs: KI-Governance-Memo, Risikoklassifizierung, Konformitätsbewertungsplan."
+description: "Wenn es um Output wählen in Technik-Governance geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: relative-schutzhindernisse-verwechslungsgefahr
-description: "Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG und UMV prüfen: Zeichenähnlichkeit, Waren- und Dienstleistungsähnlichkeit, Kennzeichnungskraft, Serienzeichen, Bekanntheitsschutz und Widerspruchsstrategie im Markenrecht Fashion Luxus."
+description: "Wenn es um Relative Schutzhindernisse und Verwechslungsgefahr in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Relative Schutzhindernisse und Verwechslungsgefahr

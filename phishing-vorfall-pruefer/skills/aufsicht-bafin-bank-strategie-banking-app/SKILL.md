@@ -1,6 +1,6 @@
 ---
 name: aufsicht-bafin-bank-strategie-banking-app
-description: "BaFin-Beschwerde gegen Bank bei verweigerter Rueckbuchung: § 4 Abs. 4 FinDAG, BaFin-Verbraucherbeschwerde. Output: Beschwerde-Entwurf, Eskalationsstrategie im Phishing Vorfall Prüfer."
+description: "Wenn es um BaFin-Beschwerde gegen Bank in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BaFin-Beschwerde gegen Bank

@@ -1,6 +1,6 @@
 ---
 name: traffic-location-data-privacy
-description: "Verkehrsdaten, Standortdaten, Einzelverbindungsnachweis, Abrechnung, Einwilligung, Sicherheit und Löschung im Telekommunikationsrecht."
+description: "Wenn es um Verkehrs- und Standortdaten in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verkehrs- und Standortdaten

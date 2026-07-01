@@ -1,6 +1,6 @@
 ---
 name: investmentsteuer-invstg
-description: "Skill zum Investmentsteuergesetz seit 2018 — Investmentfonds Teilfreistellungen Vorabpauschale und Spezial-Investmentfonds Kapitel 3. Anwendungsfall Anleger mit Fondsbestand fragt nach Belastung der Vorabpauschale und Teilfreistellungen oder ein Spezialfonds plant Umstrukturierung. Behandelt § 6..."
+description: "Wenn es um Investmentsteuerrecht — InvStG 2018 in der Anwendung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Investmentsteuerrecht — InvStG 2018 in der Anwendung

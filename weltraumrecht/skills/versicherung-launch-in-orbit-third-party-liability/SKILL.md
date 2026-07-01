@@ -1,6 +1,6 @@
 ---
 name: versicherung-launch-in-orbit-third-party-liability
-description: "Raumfahrtversicherung – Launch-Deckung, In-Orbit-Deckung, Third Party Liability, Cross-Waiver im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Versicherung: Launch, In-Orbit, Third Party Liability in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Versicherung: Launch, In-Orbit, Third Party Liability

@@ -1,6 +1,6 @@
 ---
 name: stbv-fahrerlaubnis-bei-strafbefehl-spezial
-description: "Spezialfall Fahrerlaubnis bei Strafbefehl § 111a StPO und § 69 StGB: vorläufige Entziehung, Sperrfrist, Wiedererteilung. Prüfraster für Verteidiger und Fahrerlaubnisbehoerde im Strafbefehl Verteidiger."
+description: "Wenn es um StBV: Fahrerlaubnis Strafbefehl in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # StBV: Fahrerlaubnis Strafbefehl

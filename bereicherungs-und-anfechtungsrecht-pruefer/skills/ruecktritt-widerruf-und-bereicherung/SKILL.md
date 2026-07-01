@@ -1,6 +1,6 @@
 ---
 name: ruecktritt-widerruf-und-bereicherung
-description: "Bei rücktritts- oder Widerrufsfolgen neben Bereicherungsrecht stehen. Normen: §§ 346 bis 359 BGB; § 812 BGB; §§ 355 bis 361 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schad..."
+description: "Wenn es um Rücktritt, Widerruf und Bereicherung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rücktritt, Widerruf und Bereicherung

@@ -1,6 +1,6 @@
 ---
 name: 13-beweislastverteilung-pruefen
-description: "Beweislastverteilung in der Beweisstation: anspruchsbegründende, rechtshindernde, rechtsvernichtende und rechtshemmende Tatsachen samt Sonderregeln trennen."
+description: "Wenn es um 13 Beweislastverteilung Prüfen in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 13 Beweislastverteilung Prüfen

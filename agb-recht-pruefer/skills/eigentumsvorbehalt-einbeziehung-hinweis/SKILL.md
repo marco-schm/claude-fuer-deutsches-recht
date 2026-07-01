@@ -1,6 +1,6 @@
 ---
 name: eigentumsvorbehalt-einbeziehung-hinweis
-description: "Klausel-Fachmodul für Eigentumsvorbehalt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung im AGB-Recht."
+description: "Wenn es um Eigentumsvorbehalt in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eigentumsvorbehalt Einbeziehung Hinweis; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Eigentumsvorbehalt

@@ -1,6 +1,6 @@
 ---
 name: schlussformel-baukasten
-description: "Vollständiger Baukasten für Schlussformeln im Arbeitszeugnis mit allen fünf Bausteinen: Bedauern, Dank, beruflicher Wunsch, persönlicher Wunsch, Erfolgswunsch. Jeder Baustein trägt zur Signalwirkung bei. Kein gesetzlicher Anspruch auf eine Schlussformel nach BAG (9 AZR 44/00; 9 AZR 227/11) — aber im Bewerbungsverkehr das stärkste Signal neben der Hauptformel."
+description: "Wenn es um Schlussformel-Baukasten in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schlussformel-Baukasten

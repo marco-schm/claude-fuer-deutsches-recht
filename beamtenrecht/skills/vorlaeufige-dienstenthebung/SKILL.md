@@ -1,6 +1,6 @@
 ---
 name: vorlaeufige-dienstenthebung
-description: "Skill zur vorläufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Prüfdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhältnis zur Suspendie..."
+description: "Wenn es um Vorlaeufige Dienstenthebung Paragraf 38 BDG in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vorlaeufige Dienstenthebung § 38 BDG

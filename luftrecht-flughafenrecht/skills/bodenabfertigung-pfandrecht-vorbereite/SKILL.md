@@ -1,6 +1,6 @@
 ---
 name: bodenabfertigung-pfandrecht-vorbereite
-description: "Kreditgeber will Pfandrecht an Bodenabfertigungs-Equipment als Sicherheit bestellen. Skill prüft BGB §§ 1204 ff. Mobiliarpfandrecht BADV-Zulassung als Wertfaktor und liefert Sicherungsstruktur-Vermerk im Luftrecht Flughafenrecht."
+description: "Wenn es um Bodenabfertigung – Pfandrecht vorbereiten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bodenabfertigung – Pfandrecht vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-stille-reserven-klausel
-description: "Stille-Reserven-Klausel des Paragraf 8c Abs. 4 KStG und Paragraf 8d KStG als Schutzmechanismen für Verlustvorträge bei einem schädlichen Beteiligungserwerb. Beschreibt die Tatbestandsmerkmale, die Berechnungsmechanik, die Ermittlung der stillen Reserven, die Anforderungen an den Paragraf 8d-Antrag und die Fortführung..."
+description: "Wenn es um Sanierungsgewinn – Stille-Reserven-Klausel Paragraf 8c Abs. 4 KStG und Paragraf 8d KStG in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sanierungsgewinn – Stille-Reserven-Klausel Paragraf 8c Abs. 4 KStG und Paragraf 8d KStG

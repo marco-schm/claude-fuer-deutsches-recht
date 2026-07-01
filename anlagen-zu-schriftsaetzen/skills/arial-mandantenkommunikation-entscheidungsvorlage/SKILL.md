@@ -1,6 +1,6 @@
 ---
 name: arial-mandantenkommunikation-entscheidungsvorlage
-description: "Entscheidet Stempelbild, Deckblatt, Anlagenverzeichnis und Mandantenfreigabe so, dass die Anlage optisch und logisch eindeutig ist im Anlagen zu Schriftsätzen."
+description: "Wenn es um Stempelbild und Entscheidungsvorlage in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Stempelbild und Entscheidungsvorlage

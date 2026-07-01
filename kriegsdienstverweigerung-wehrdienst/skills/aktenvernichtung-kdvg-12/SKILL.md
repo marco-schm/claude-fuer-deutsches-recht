@@ -1,6 +1,6 @@
 ---
 name: aktenvernichtung-kdvg-12
-description: "Erklärt Aufbewahrung und Löschung von KDV-Akten. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Aktenvernichtung Paragraf 12 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Aktenvernichtung § 12 KDVG

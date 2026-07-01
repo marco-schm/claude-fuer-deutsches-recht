@@ -1,6 +1,6 @@
 ---
 name: dashboard-associate-health
-description: "Misst Auslastung, Lernkurve, Feedback, Urlaub und Kündigungsrisiko. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Associate Health Dashboard in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Associate Health Dashboard

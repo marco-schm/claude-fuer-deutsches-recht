@@ -1,6 +1,6 @@
 ---
 name: polizeirecht-und-wohlfahrtsstaat
-description: "PrALR: Polizeirecht, Wohlfahrt, Gefahrenabwehr, Staatszweck und Verwaltungsmacht historisch einordnen."
+description: "Wenn es um Polizeirecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Polizeirecht Und Wohlfahrtsstaat; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Polizeirecht

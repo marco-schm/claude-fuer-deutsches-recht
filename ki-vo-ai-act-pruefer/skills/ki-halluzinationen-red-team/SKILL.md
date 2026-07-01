@@ -1,6 +1,6 @@
 ---
 name: ki-halluzinationen-red-team
-description: "Schriftsatz-Red-Team gegen KI-Halluzinationen: erfundene Rechtsprechung, falsche Zitate, unpassende Randnummern, fallfremde Textbausteine, prozessuale und berufsrechtliche Risiken. Liefert Kontrollliste und Korrekturvermerk vor Einreichung."
+description: "Wenn es um Schriftsatz-Red-Team gegen digitale Werkzeuge-Halluzinationen in europäischem Technikregulierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Schriftsatz-Red-Team gegen KI-Halluzinationen

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-kameras-digitaler-zwilling-dronen
-description: "Prüft Kameras, Lidar, Mikrofone, Tiefensensoren und Umgebungsdaten von Robotern nach DSGVO und BDSG im Robotik-Recht."
+description: "Wenn es um Datenschutz Sensorik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenschutz Kameras Digitaler Zwilling Dronen; Arbeitsfeld: robotik-recht."
 ---
 
 # Datenschutz Sensorik

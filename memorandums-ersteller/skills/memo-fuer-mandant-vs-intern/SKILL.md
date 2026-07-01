@@ -1,6 +1,6 @@
 ---
 name: memo-fuer-mandant-vs-intern
-description: "Memo für Mandanten unterscheidet sich vom internen Memo: weniger Streitstaende, mehr Empfehlungs-Klartext, Glossar für Fachbegriffe, klare Antwort 'ja/nein/teils' am Anfang. Internes Memo: vollstaendige Streitstaende, Risikobewertung, alternative Strategien im Memorandums Ersteller."
+description: "Wenn es um Mandantenmemo vs. internes Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mandantenmemo vs. internes Memo

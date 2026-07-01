@@ -1,6 +1,6 @@
 ---
 name: ergaenzbar-formular-portal-und-einreichung
-description: "Ergaenzbar: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Ergaenzbar: Formular, Portal und Einreichungslogik in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ergaenzbar: Formular, Portal und Einreichungslogik

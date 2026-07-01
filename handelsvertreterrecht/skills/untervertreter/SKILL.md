@@ -1,6 +1,6 @@
 ---
 name: untervertreter
-description: "Prüft Rechtsverhältnisse beim Einsatz von Untervertretern: Zulässigkeit der Unterbeauftragung nach § 84 HGB, Haftung des Hauptvertreters für den Untervertreter, Provisionsaufteilung, Vertragsverhältnisse zu Unternehmer und Untervertreter sowie Ausgleichsansprüche beider Ebenen bei Vertragsende im..."
+description: "Wenn es um Untervertreter im Handelsvertreterrecht — Zulässigkeit und Haftung nach Paragraf 84 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Untervertreter im Handelsvertreterrecht — Zulässigkeit und Haftung nach § 84 HGB

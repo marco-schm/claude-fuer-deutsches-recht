@@ -1,6 +1,6 @@
 ---
 name: workflow-unterlagen-lueckenliste
-description: "Unterlagen- und Lückenliste im Plugin dsa-dma-digitalregulierung: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen."
+description: "Wenn es um Unterlagen- und Lückenliste in DSA, DMA und Digitalregulierung der EU geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Unterlagen- und Lückenliste

@@ -1,6 +1,6 @@
 ---
 name: bess-kaltstart-projektaufnahme
-description: "Batteriespeicherprojekt aufnehmen: Projektgröße, Standort, Netzebene, Betreiberrolle, Fristen, Unterlagen und Zieloutput."
+description: "Wenn es um BESS-Kaltstart: Projekt, Rolle und Genehmigungsweg in Energierecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BESS-Kaltstart: Projekt, Rolle und Genehmigungsweg

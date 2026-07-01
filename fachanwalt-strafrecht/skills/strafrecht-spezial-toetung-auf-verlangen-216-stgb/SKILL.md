@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-toetung-auf-verlangen-216-stgb
-description: "Toetung auf Verlangen nach § 216 StGB: Privilegierter Tatbestand bei ausdruecklichem und ernstlichem Verlangen des Opfers. Abgrenzung zur straflosen Beihilfe zum Suizid sowie zu § 217 StGB (geschäftsmäßige Förderung d..."
+description: "Wenn es um Toetung auf Verlangen nach Paragraf 216 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Toetung auf Verlangen nach § 216 StGB

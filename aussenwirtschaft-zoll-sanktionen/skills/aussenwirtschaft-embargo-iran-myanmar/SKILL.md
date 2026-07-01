@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-iran-myanmar
-description: "EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU) 359/2011 (Menschenrechte): gelistete Personen, Finanzsanktionen, Guetersanktionen und Dienstleistungsverbote. Besondere Risiken im Dual-Use-Bereich und bei Oel/Gas-Sektor. Fallkonstellation: Unternehmen erhalt Anfrage aus Iran. O..."
+description: "Wenn es um Embargo Iran: Nukleare Sanktionen und Doppelverwendungsrisiken in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Embargo Iran: Nukleare Sanktionen und Doppelverwendungsrisiken

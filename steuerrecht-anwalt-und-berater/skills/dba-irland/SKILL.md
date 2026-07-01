@@ -1,6 +1,6 @@
 ---
 name: dba-irland
-description: "DBA Deutschland Irland 2011. Anwendungsfall IT- und Pharma-Holdings (Apple Google Pfizer), Holding-Strukturen, Lizenzeinkuenfte. EU-MTRL ergaenzend. Substanz Anti-Treaty-Shopping. Methodenartikel Anrechnung. Output Mandanten-Memo Holding-Substanz-Memo BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Irland (2011) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Irland (2011)

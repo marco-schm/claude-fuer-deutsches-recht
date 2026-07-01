@@ -1,6 +1,6 @@
 ---
 name: nichtigkeit-125-ao
-description: "Prüfung und Geltendmachung der Nichtigkeit eines Steuerbescheids nach § 125 AO — wann liegt ein besonders schwerer offenkundiger Fehler vor und welche Folgen ergeben sich. Anwendungsfall Bescheid leidet an gravierendem Mangel etwa Adressat unbestimmt Steuerschuldner nicht existent kein Steuertat..."
+description: "Wenn es um Nichtigkeit eines Steuerbescheids — Paragraf 125 AO in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nichtigkeit eines Steuerbescheids — § 125 AO

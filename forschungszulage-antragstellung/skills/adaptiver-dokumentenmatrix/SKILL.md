@@ -1,6 +1,6 @@
 ---
 name: adaptiver-dokumentenmatrix
-description: "Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstuf..."
+description: "Wenn es um Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: zwvw-versteigerung-vs-verwaltung-spezial
-description: "Spezialfall Zusammenspiel Zwangsversteigerung und Zwangsverwaltung: Aufhebung, Vorrang, Auskehrung: Prüfraster für Gläubiger und Schuldner."
+description: "Wenn es um Zwvw Versteigerung Vs Verwaltung Spezial in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Zusammenspiel Zwangsversteigerung und Zwangsverwaltung: Aufhebung, Vorrang, Auskehrung

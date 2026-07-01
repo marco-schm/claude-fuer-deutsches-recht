@@ -1,6 +1,6 @@
 ---
 name: chn-058-litigation-risk-china
-description: "Festlandchina Wirtschaftsverkehr: Litigation Risk China. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Litigation Risk China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Litigation Risk China

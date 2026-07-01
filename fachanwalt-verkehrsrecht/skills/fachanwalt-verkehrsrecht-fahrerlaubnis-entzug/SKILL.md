@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-fahrerlaubnis-entzug
-description: "Mandant hat Führerschein entzogen bekommen oder befuerchtet Entziehung und fragt nach Möglichkeiten. § 69 StGB strafgerichtlich § 3 StVG verwaltungsrechtlich. Prüfraster: Sperrfrist § 69a StGB vorlaeufige Entziehung § 111a StPO Wiedererteilung § 20 FeV MPU-Anordnung §§ 13 14 FeV Beschwerde § 304 StPO Widerspruch Verwaltungsverfahren Punkteabbau § 4 Abs. 7 StVG. Output: Verteidigungsstrategie und Antragsschriftsatz. Abgrenzung zu fachanwalt-verkehrsrecht-mpu-vorbereitung (MPU-Prep) und mandat-triage-verkehrsrecht."
+description: "Wenn es um Fahrerlaubnis-Entzug in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fahrerlaubnis-Entzug

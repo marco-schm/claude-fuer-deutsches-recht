@@ -1,6 +1,6 @@
 ---
 name: ihl-099-vertiefung-01-board-memo
-description: "Internationales Handelsrecht und Lex Mercatoria: Vertiefung 01 Board Memo. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Vertiefung 01 Board Memo in Internationales Handelsrecht und Lex Mercatoria geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vertiefung 01 Board Memo

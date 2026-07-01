@@ -1,6 +1,6 @@
 ---
 name: immo-zwangsversteigerung-frist-naechster
-description: "Zwangsversteigerung Verfahren: Antrag, Wertgutachten, Termin, Mindestgebot, Sicherheitsleistung. Strategie für Gläubiger und für Schuldner (Vollstreckungsschutz § 765a ZPO) im Immobilienrechtspraxis."
+description: "Wenn es um Zwangsversteigerung in Immobilienrechtspraxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zwangsversteigerung

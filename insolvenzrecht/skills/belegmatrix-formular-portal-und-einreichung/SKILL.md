@@ -1,6 +1,6 @@
 ---
 name: belegmatrix-formular-portal-und-einreichung
-description: "Belegmatrix: Formular, Portal und Einreichungslogik im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
+description: "Wenn es um Belegmatrix: Formular, Portal und Einreichungslogik in Insolvenzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Belegmatrix: Formular, Portal und Einreichungslogik

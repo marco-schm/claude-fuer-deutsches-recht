@@ -1,6 +1,6 @@
 ---
 name: medr-igel-leistung-spezial
-description: "Spezialfall IGeL Individuelle Gesundheitsleistung: GOAE Abrechnung, Aufklaerung wirtschaftlich, Schriftform der Vereinbarung, Werbung: Spezialfall IGeL Individuelle Gesundheitsleistung: GOAE Abrechnung, Aufklaerung wirtschaftlich, Schriftform der Vereinbaru..."
+description: "Wenn es um Medr Igel Leistung Spezial in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall IGeL Individuelle Gesundheitsleistung: GOAE Abrechnung, Aufklaerung wirtschaftlich, Schriftform der Vereinbarung, Werbung

@@ -72,61 +72,61 @@ Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `anfanger-erklaerung-handelsbrauch` | Erklärt Handelsrecht laienverständlich: Warum Kaufmannsrecht strenger, schneller und registerorientierter ist im Handelsrecht Hgb. |
-| `firma-paragraphen-firmenfortfuehrung` | Prüft Firmenbildung, Kennzeichnungskraft, Irreführung, Rechtsformzusatz und Geschäftsbriefe im Handelsrecht Hgb. |
-| `firmenfortfuehrung-paragraphen-21-25-hgb` | Prüft Firmenfortführung, Unternehmenserwerb, Haftung und Haftungsausschluss im Handelsrecht Hgb. |
-| `formkaufmann-paragraph-gmbh-co` | Prüft Kaufmannseigenschaft kraft Rechtsform bei Handelsgesellschaften und juristischen Personen im Handelsrecht Hgb. |
-| `frachtvertrag-paragraphen-speditionsvertrag` | Prüft Frachtvertrag, Frachtbrief, Haftung, Verlust/Beschädigung, Lieferfrist und Haftungsgrenzen im Handelsrecht Hgb. |
-| `gmbh-und-co-kg-hgb` | Prüft HGB-Struktur der GmbH & Co. KG: Firma, Vertretung, Haftung, Register und Publizität im Handelsrecht Hgb. |
-| `handelsbuecher-paragraph-handelsgeschaefte` | Prüft Buchführungspflicht, Handelsbriefe, Belegfunktion und Prozessbeweis im Handelsrecht Hgb. |
-| `handelsgeschaefte-paragraphen-343-344` | Prüft beiderseitige/einseitige Handelsgeschäfte und Vermutung geschäftlicher Zugehörigkeit im Handelsrecht Hgb. |
-| `handelskauf-fristenampel-hgb` | Macht Fristenampel für Rüge, Lieferung, Fixgeschäft, Annahmeverzug, Verjährung und Beweise im Handelsrecht Hgb. |
-| `handelskauf-paragraphen-handelsmakler` | Prüft Fixhandelskauf, Annahmeverzug, Spezifikationskauf, Untersuchungs- und Rügeobliegenheit im Handelsrecht Hgb. |
-| `handelsmakler-paragraphen-93-104-hgb` | Prüft Handelsmakler, Schlussnote, Tagebuch, Provision und Haftung im Handelsrecht Hgb. |
-| `handelsregister-paragraphen-8-16-hgb` | Prüft Handelsregister, Einsicht, Bekanntmachung, negative/positive Publizität und Eintragungswirkung im Handelsrecht Hgb. |
-| `handelsvertreter-paragraph-provision` | Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler im Handelsrecht Hgb. |
-| `handelsvertreter-provision` | Prüft Provisionsanspruch, Entstehen, Fälligkeit, Stornoreserve und Abrechnung im Handelsrecht Hgb. |
-| `handelsvertreterausgleich-paragraph` | Prüft Ausgleichsanspruch, Unternehmervorteile, Billigkeit, Höchstgrenze und Ausschlüsse im Handelsrecht Hgb. |
-| `handlungsgehilfen-und-wettbewerbsverbot` | Prüft Handlungsgehilfe, Wettbewerbsverbot, Karenz und arbeitsrechtliche Schnittstellen im Handelsrecht Hgb. |
-| `handlungsvollmacht-paragraph-geschaeftsbriefe` | Prüft Artvollmacht, Gattungsvollmacht, Spezialvollmacht und Grenzen im Handelsrecht Hgb. |
-| `hgb-compliance-geschaeftsbriefe-impressum` | Prüft Pflichtangaben auf Geschäftsbriefen, E-Mails, Rechnungen und Webseiten im Handelsrecht Hgb. |
-| `hgb-red-team` | Findet Gegenargumente in Handelsrechtsfällen: Nichtkaufmann, Vertretungsmangel, verspätete Rüge, Registerpublizität, Firmenirreführung. |
-| `international-cisg-handelsregister` | Prüft HGB bei internationalem Handelskauf, CISG-Abgrenzung, Rom I und Gerichtsstand im Handelsrecht Hgb. |
-| `jahresabschluss-hgb-grundlagen` | Prüft Aufstellung, Unterzeichnung, Gliederung, Offenlegung und Größenklassen in Grundzügen im Handelsrecht Hgb. |
-| `kaltstart-triage` | Einstieg, Schnelltriage und Skill-Routing für HGB-Fälle: Kaufmann, Register, Firma, Vertretung, Handelsgeschäft, OHG/KG, Handelskauf und Handelsbücher. |
-| `kannkaufmann-paragraphen-kaufmaennisches` | Prüft freiwillige Eintragung kleiner Gewerbe sowie Land-/Forstwirtschaft im Handelsrecht Hgb. |
-| `kaufmaennisches-bestaetigungsschreiben` | Prüft Voraussetzungen und Wirkung des kaufmännischen Bestätigungsschreibens im Handelsrecht Hgb. |
-| `kaufmann-paragraph-kg-begriff` | Prüft Istkaufmann und Handelsgewerbe nach Art und Umfang im Handelsrecht Hgb. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `kg-begriff-kommanditist` | Prüft KG, Komplementär, Kommanditist, Hafteinlage, Pflichteinlage und Haftsumme im Handelsrecht Hgb. |
-| `kg-haftung-ohg-vertretung` | Prüft Außenhaftung, Einlage, Rückzahlung, Registerpublizität und Wiederaufleben im Handelsrecht Hgb. |
-| `kommission-paragraphen-ladenvollmacht` | Prüft Kommissionsgeschäft, Selbsteintritt, Ausführung, Provision, Pfandrecht im Handelsrecht Hgb. |
-| `ladenvollmacht-paragraph-56-hgb` | Prüft Laden-/Warenlagerangestellte und Verkehrsschutz im Handelsrecht Hgb. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
-| `lagergeschaeft-paragraphen-maengelruege` | Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht im Handelsrecht Hgb. |
-| `livequellen-hgb` | Zwingt HGB-Normen und Rechtsprechung vor Ausgabe zu aktueller freier Quellenprüfung. |
-| `maengelruege-paragraph-377-hgb` | Prüft beim beiderseitigen Handelskauf die Untersuchungs- und Rügeobliegenheit nach § 377 HGB, Wareneingangskontrolle, Beweislast für Mangel bei Gefahrübergang, offene und verdeckte Mängel, Rechtsverlust und die klare Abgrenzung zur nur i... |
-| `ohg-anmeldung-begriff` | Prüft Anmeldung, Statuswechsel aus Gesellschaftsregister, Registerlogik und Fehlerfolgen im Handelsrecht Hgb. |
-| `ohg-begriff-und-entstehung-paragraph-105` | Prüft OHG nach MoPeG: Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma und BGB-Verweis im Handelsrecht Hgb. |
-| `ohg-gesellschafterwechsel-prokura` | Prüft Eintritt, Ausscheiden, Nachhaftung, Abfindung und Registereintragung im Handelsrecht Hgb. |
-| `ohg-vertretung-und-haftung` | Prüft Vertretung, Geschäftsführung, persönliche Haftung und Einwendungen der Gesellschafter im Handelsrecht Hgb. |
-| `prokura-paragraphen-48-53-hgb` | Prüft Erteilung, Umfang, Grenzen, Gesamtprokura, Filialprokura und Registereintragung im Handelsrecht Hgb. |
-| `prozessuale-beweisfragen-rechtsabteilung` | Prüft Handelsbücher, Bestätigungsschreiben, Registerauszug, Zeugen aus Organisation und Urkundenbeweis im Handelsrecht Hgb. |
-| `rechtsabteilung-handelskauf-maengelruege-nach-377-hgb` | Rechtsabteilungs-Fachmodul für B2B-Handelskauf und § 377 HGB: Wareneingangskontrolle, Rügefristen, Serienfehler, Beweislast für Mangel bei Gefahrübergang und Abgrenzung zur nur im B2C geltenden § 477-BGB-Vermutung. |
-| `rechtsabteilung-kaufmaennisches` | Rechtsabteilungs-Fachmodul für Kaufmännisches Bestätigungsschreiben im Konzernalltag: Schweigen, E-Mail-Thread und Bestellplattform werden auf Bindungswirkung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungs... |
-| `rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler` | Rechtsabteilungs-Fachmodul für Kommissionsgeschäft und Plattformhändler: Kommission, Eigenhandel und Marktplatzrolle werden rechtlich sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsrecht Hgb. |
-| `rechtsabteilung-lagerhalter-unternehmenskauf` | Rechtsabteilungs-Fachmodul für Lagerhalter- und Speditionshaftung: Schaden, Haftungsgrenzen und Regressketten werden schnell berechnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsrecht Hgb. |
-| `rechtsabteilung-prokura-registerbeanstandung` | Rechtsabteilungs-Fachmodul für Prokura und Grundstücksgeschäft: Registerlage, Spezialvollmacht und Gutglaubensschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsrecht Hgb. |
-| `register-gutachten-klage` | Erstellt Registeranmeldungsskizze, Gutachten, Klagebaustein, Rügebrief, Protokoll oder Mandantenbrief. |
-| `registerakte-handelsstreit` | Sortiert Registerauszüge, Gesellschafterlisten, Vollmachten, Notarentwürfe und Beanstandungen im Handelsrecht Hgb. |
-| `registerbeanstandung-und-beschwerde` | Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht im Handelsrecht Hgb. |
-| `registerpublizitaet-paragraph-scheinkaufmann` | Prüft negative und positive Publizität des Handelsregisters im Handelsrecht Hgb. |
-| `sanierung-krise-jahresabschluss-grundlagen` | Prüft handelsrechtliche Pflichten in Unternehmenskrise: Buchführung, Register, Haftung, Gesellschafterwechsel, Fortführung im Handelsrecht Hgb. |
-| `scheinkaufmann-und-rechtsschein` | Prüft Rechtsschein kaufmännischen Auftretens und Vertrauensschutz im Handelsrecht Hgb. |
-| `speditionsvertrag-paragraphen-453-466-hgb` | Prüft Spediteur, Besorgung der Versendung, Selbsteintritt, Sammelladung, Haftung im Handelsrecht Hgb. |
-| `stille-gesellschaft-zweigniederlassung` | Prüft stille Beteiligung, Gewinn/Verlust, Auskunft, Insolvenz und Abgrenzung partiarisches Darlehen im Handelsrecht Hgb. |
-| `unternehmenskauf-hgb-haftung` | Prüft Firmenfortführung, Handelsgeschäft, Prokura, Vertragsübernahme und Haftungsrisiken im Asset Deal im Handelsrecht Hgb. |
-| `workflow-handelsbrauch-beweis` | Prüft Handelsbrauch, Verkehrssitte, kaufmännisches Bestätigungsschreiben und Beweisfragen im Handelsrecht Hgb. |
-| `workflow-hgb-erstpruefung` | Prüft in fünf Schritten, ob ein HGB-Fall vorliegt und welche Sonderregeln das BGB überlagern im Handelsrecht Hgb. |
-| `workflow-verhandlung-handelsstreit` | Macht Verhandlungsplan bei Liefer-, Register-, Handelsvertreter- oder Gesellschafterstreit im Handelsrecht Hgb. |
-| `zweigniederlassung-und-niederlassung` | Prüft Haupt-/Zweigniederlassung, Firma, Register, Geschäftsbriefe und Vertretung im Handelsrecht Hgb. |
+| `anfanger-erklaerung-handelsbrauch` | Wenn es um Anfänger-Erklärung HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `firma-paragraphen-firmenfortfuehrung` | Wenn es um Firma Paragrafen 17 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `firmenfortfuehrung-paragraphen-21-25-hgb` | Wenn es um Firmenfortführung Paragrafen 21-25 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `formkaufmann-paragraph-gmbh-co` | Wenn es um Formkaufmann Paragraf 6 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `frachtvertrag-paragraphen-speditionsvertrag` | Wenn es um Frachtvertrag Paragrafen 407 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `gmbh-und-co-kg-hgb` | Wenn es um GmbH & Co. KG HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `handelsbuecher-paragraph-handelsgeschaefte` | Wenn es um Handelsbücher Paragraf 238 HGB in Handelsrecht HGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `handelsgeschaefte-paragraphen-343-344` | Wenn es um Handelsgeschäfte Paragrafen 343. 344 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `handelskauf-fristenampel-hgb` | Wenn es um Handelskauf-Fristenampel in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `handelskauf-paragraphen-handelsmakler` | Wenn es um Handelskauf Paragrafen 373-381 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `handelsmakler-paragraphen-93-104-hgb` | Wenn es um Handelsmakler Paragrafen 93-104 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `handelsregister-paragraphen-8-16-hgb` | Wenn es um Handelsregister Paragrafen 8 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `handelsvertreter-paragraph-provision` | Wenn es um Handelsvertreter Paragraf 84 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `handelsvertreter-provision` | Wenn es um Handelsvertreter Provision in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `handelsvertreterausgleich-paragraph` | Wenn es um Handelsvertreterausgleich Paragraf 89b HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `handlungsgehilfen-und-wettbewerbsverbot` | Wenn es um Handlungsgehilfen und Wettbewerbsverbot in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `handlungsvollmacht-paragraph-geschaeftsbriefe` | Wenn es um Handlungsvollmacht Paragraf 54 HGB in Handelsrecht HGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `hgb-compliance-geschaeftsbriefe-impressum` | Wenn es um HGB Compliance Geschäftsbriefe in Handelsrecht HGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `hgb-red-team` | Wenn es um HGB Red-Team in Handelsrecht HGB geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `international-cisg-handelsregister` | Wenn es um Internationaler Bezug und CISG-Schnittstelle in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `jahresabschluss-hgb-grundlagen` | Wenn es um Jahresabschluss HGB Grundlagen in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kaltstart-triage` | Wenn es um HGB Kommandocenter in Handelsrecht HGB geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
+| `kannkaufmann-paragraphen-kaufmaennisches` | Wenn es um Kannkaufmann Paragrafen 2. 3 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kaufmaennisches-bestaetigungsschreiben` | Wenn es um Kaufmännisches Bestätigungsschreiben in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kaufmann-paragraph-kg-begriff` | Wenn es um Kaufmann Paragraf 1 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kg-begriff-kommanditist` | Wenn es um KG Begriff und Kommanditist in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kg-haftung-ohg-vertretung` | Wenn es um Kommanditistenhaftung Paragrafen 171. 172 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kommission-paragraphen-ladenvollmacht` | Wenn es um Kommission Paragrafen 383 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ladenvollmacht-paragraph-56-hgb` | Wenn es um Ladenvollmacht Paragraf 56 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `lagergeschaeft-paragraphen-maengelruege` | Wenn es um Lagergeschäft Paragrafen 467 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `livequellen-hgb` | Wenn es um Livequellen HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `maengelruege-paragraph-377-hgb` | Wenn es um Mängelrüge Paragraf 377 HGB in Handelsrecht HGB geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
+| `ohg-anmeldung-begriff` | Wenn es um OHG Anmeldung und Statuswechsel Paragraf 106 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ohg-begriff-und-entstehung-paragraph-105` | Wenn es um OHG Begriff und Entstehung Paragraf 105 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ohg-gesellschafterwechsel-prokura` | Wenn es um OHG Gesellschafterwechsel in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ohg-vertretung-und-haftung` | Wenn es um OHG Vertretung und Haftung in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `prokura-paragraphen-48-53-hgb` | Wenn es um Prokura Paragrafen 48-53 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `prozessuale-beweisfragen-rechtsabteilung` | Wenn es um Prozessuale HGB-Beweisfragen in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `rechtsabteilung-handelskauf-maengelruege-nach-377-hgb` | Wenn es um Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB in Handelsrecht HGB geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `rechtsabteilung-kaufmaennisches` | Wenn es um Rechtsabteilung: Kaufmännisches Bestätigungsschreiben im Konzernalltag in Handelsrecht HGB geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpu... |
+| `rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler` | Wenn es um Rechtsabteilung: Kommissionsgeschäft und Plattformhändler in Handelsrecht HGB geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risike... |
+| `rechtsabteilung-lagerhalter-unternehmenskauf` | Wenn es um Rechtsabteilung: Lagerhalter- und Speditionshaftung in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `rechtsabteilung-prokura-registerbeanstandung` | Wenn es um Rechtsabteilung: Prokura und Grundstücksgeschäft in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `register-gutachten-klage` | Wenn es um Output Register/Gutachten/Klage in Handelsrecht HGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `registerakte-handelsstreit` | Wenn es um Registerakte und Lückenliste in Handelsrecht HGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
+| `registerbeanstandung-und-beschwerde` | Wenn es um Registerbeanstandung und Beschwerde in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `registerpublizitaet-paragraph-scheinkaufmann` | Wenn es um Registerpublizität Paragraf 15 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `sanierung-krise-jahresabschluss-grundlagen` | Wenn es um HGB in Krise und Sanierung in Handelsrecht HGB geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
+| `scheinkaufmann-und-rechtsschein` | Wenn es um Scheinkaufmann und Rechtsschein in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `speditionsvertrag-paragraphen-453-466-hgb` | Wenn es um Speditionsvertrag Paragrafen 453 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stille-gesellschaft-zweigniederlassung` | Wenn es um Stille Gesellschaft Paragraf 230 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `unternehmenskauf-hgb-haftung` | Wenn es um Unternehmenskauf HGB-Haftung in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `workflow-handelsbrauch-beweis` | Wenn es um Handelsbrauch und Beweis in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `workflow-hgb-erstpruefung` | Wenn es um HGB Erstprüfung in Handelsrecht HGB geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `workflow-verhandlung-handelsstreit` | Wenn es um Verhandlung im Handelsstreit in Handelsrecht HGB geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
+| `zweigniederlassung-und-niederlassung` | Wenn es um Zweigniederlassung und Niederlassung in Handelsrecht HGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

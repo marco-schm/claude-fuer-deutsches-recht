@@ -1,6 +1,6 @@
 ---
 name: dsv-spezialfaelle-uebersicht
-description: "Liefert eine schnelle Übersicht über häufige Spezialfälle eines Datenschutzvorfalls und verweist auf vertiefte Skills: Behandelt: Ransomwa"
+description: "Wenn es um Dsv Spezialfaelle Uebersicht in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Liefert eine schnelle Übersicht über häufige Spezialfälle eines Datenschutzvorfalls und verweist auf vertiefte Skills

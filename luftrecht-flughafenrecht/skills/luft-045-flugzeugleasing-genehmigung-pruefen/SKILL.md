@@ -1,6 +1,6 @@
 ---
 name: luft-045-flugzeugleasing-genehmigung-pruefen
-description: "Luftrecht und Flughafenrecht: Flugzeugleasing: Genehmigung prüfen. Genehmigung prüfen für Flugzeugleasing im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Flugzeugleasing Genehmigung Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flugzeugleasing Genehmigung Pruefen

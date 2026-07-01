@@ -1,6 +1,6 @@
 ---
 name: notariat-009-geldwaeschepruefung-immobilientransaktion-risiko
-description: "Notariat im Alltag: Geldwäscheprüfung Immobilientransaktion wirtschaftlich Berechtigter und Risiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Notariat 009 Geldwaeschepruefung Immobilientransaktion Risiko in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Geldwäscheprüfung Immobilientransaktion wirtschaftlich Berechtigter und Risiko

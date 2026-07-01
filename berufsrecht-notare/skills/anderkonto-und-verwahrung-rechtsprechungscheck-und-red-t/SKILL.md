@@ -1,6 +1,6 @@
 ---
 name: anderkonto-und-verwahrung-rechtsprechungscheck-und-red-t
-description: "Notare: anderkonto und verwahrung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Anderkonto Und Verwahrung Rechtsprechungscheck Und Red T in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: anderkonto und verwahrung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: form-checker-fuer-vertrag-oder-willenserklaerung
-description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge Paragraf 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftfor..."
+description: "Wenn es um Form-Checker — Vertrag oder Willenserklärung in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Form-Checker — Vertrag oder Willenserklärung

@@ -1,6 +1,6 @@
 ---
 name: annahmefrist-verspaetung-paragraphen-147-149
-description: "Klausurfall zur Annahmefrist nach §§ 147 bis 149 BGB: Annahme unter Anwesenden sofort, unter Abwesenden in angemessener Frist, verspätete Annahme als neues Angebot und Rechtsfolgen des Verspätungsanzeigeverzichts nach § 149 BGB."
+description: "Wenn es um Annahmefrist und verspätete Annahme — Paragrafen 147 bis 149 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Annahmefrist und verspätete Annahme — §§ 147 bis 149 BGB

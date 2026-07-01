@@ -1,6 +1,6 @@
 ---
 name: datenschutz-auskunft-behoerde
-description: "Hilft bei DSGVO-Auskunft, Berichtigung, Löschung, Akteneinsicht und Datenschutzbeschwerde gegen öffentliche Stellen im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Datenschutz-Auskunft in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenschutz-Auskunft

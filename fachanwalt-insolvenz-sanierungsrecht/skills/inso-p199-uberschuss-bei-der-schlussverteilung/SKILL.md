@@ -1,6 +1,6 @@
 ---
 name: inso-p199-uberschuss-bei-der-schlussverteilung
-description: "§ 199 InsO (Überschuß bei der Schlußverteilung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 199 InsO (Überschuß bei der Schlußverteilung) im Mandat prüfen: Normzweck, Tatbestand, Beleg..."
+description: "Wenn es um Inso P199 Uberschuss Bei Der Schlussverteilung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 199 InsO (Überschuß bei der Schlußverteilung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

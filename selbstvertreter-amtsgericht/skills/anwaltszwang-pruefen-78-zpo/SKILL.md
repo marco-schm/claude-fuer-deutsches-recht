@@ -1,6 +1,6 @@
 ---
 name: anwaltszwang-pruefen-78-zpo
-description: "Prüfung des Anwaltszwangs nach § 78 ZPO. Vor dem Amtsgericht im Zivilprozess besteht grundsaetzlich kein Anwaltszwang. Klaert Ausnahmen Familiensachen ZPO-Spezialverfahren und die Folge für Buerger die sich selbst vertreten wollen."
+description: "Wenn es um Brauche ich vor dem Amtsgericht einen Anwalt? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Brauche ich vor dem Amtsgericht einen Anwalt?

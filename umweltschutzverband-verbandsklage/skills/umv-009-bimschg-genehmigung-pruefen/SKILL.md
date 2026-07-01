@@ -1,6 +1,6 @@
 ---
 name: umv-009-bimschg-genehmigung-pruefen
-description: "Umweltschutzverband Verbandsklage: BImSchG-Genehmigung prüfen. BImSchG-Genehmigung prüfen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Bimschg Genehmigung Pruefen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bimschg Genehmigung Pruefen

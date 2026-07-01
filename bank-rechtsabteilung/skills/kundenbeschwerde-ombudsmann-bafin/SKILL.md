@@ -1,6 +1,6 @@
 ---
 name: kundenbeschwerde-ombudsmann-bafin
-description: "Kundenbeschwerden, Ombudsmann, BaFin-Beschwerde und Eskalation: Sachverhalt, Anspruch, Kulanz, Reputationsrisiko, Fristen, Ton und interne Learnings für Banken steuern im Bank-Rechtsabteilung."
+description: "Wenn es um Beschwerdemanagement in Bank-Rechtsabteilung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschwerdemanagement

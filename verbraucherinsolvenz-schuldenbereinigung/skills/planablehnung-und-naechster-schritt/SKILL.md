@@ -1,6 +1,6 @@
 ---
 name: planablehnung-und-naechster-schritt
-description: "Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen: Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Do..."
+description: "Wenn es um Planablehnung Und Naechster Schritt in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen.

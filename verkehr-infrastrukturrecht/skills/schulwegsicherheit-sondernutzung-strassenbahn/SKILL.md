@@ -1,6 +1,6 @@
 ---
 name: schulwegsicherheit-sondernutzung-strassenbahn
-description: "Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule, Eltern oder Kommune will Schulwegplan umsetzen oder gegen Unfall auf Schulweg vorgehen. Normen: § 45 StVO (Schulweghelfer, Schulstrassen, 30er-Zone), § 839 BGB i.V.m. Art. 34 GG (Amtshaftung). Prüfraster: Schulwegpla..."
+description: "Wenn es um Schulwegsicherheit in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulwegsicherheit

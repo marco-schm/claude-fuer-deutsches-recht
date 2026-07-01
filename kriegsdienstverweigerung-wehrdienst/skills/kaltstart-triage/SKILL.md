@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Kaltstart für Kriegsdienstverweigerung aus Gewissensgründen: Status, Verfahrenslage, Gewissenskern, Antragspfad, Fristen, Rechtsschutz und passende Fachmodule auswählen."
+description: "Wenn es um KDV-Einsatzleitstelle in Kriegsdienstverweigerung und Wehrdienst geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KDV-Einsatzleitstelle

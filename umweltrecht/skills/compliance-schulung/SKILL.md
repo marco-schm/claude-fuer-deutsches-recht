@@ -1,6 +1,6 @@
 ---
 name: compliance-schulung
-description: "Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstellen für Immissionsschutzbeauftragte Abfallverantwortliche. Normen BImSchG §§ 53-58 KrWG §§ 59 60 WHG §§ 64 65. Prüfraster Schulungspflichten Dokumentationspflichten Audit-Planung. Output Schulungsplan-Template Jahresa..."
+description: "Wenn es um Compliance, Beauftragte und Schulung im Umweltrecht in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Compliance, Beauftragte und Schulung im Umweltrecht

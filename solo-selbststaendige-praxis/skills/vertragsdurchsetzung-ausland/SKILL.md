@@ -1,6 +1,6 @@
 ---
 name: vertragsdurchsetzung-ausland
-description: "Solo-Selbstständige: prüft Inkasso, Gerichtsstand, Mahnverfahren und Beweis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Internationales und Auslandskunden: Prüft inkasso in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Internationales und Auslandskunden: Prüft inkasso

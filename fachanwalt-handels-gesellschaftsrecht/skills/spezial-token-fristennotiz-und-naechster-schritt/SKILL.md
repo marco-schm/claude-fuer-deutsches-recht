@@ -1,6 +1,6 @@
 ---
 name: spezial-token-fristennotiz-und-naechster-schritt
-description: "Token: Fristennotiz und nächster Schritt im Plugin fachanwalt handels gesellschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Token: Fristennotiz und nächster Schritt in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Token: Fristennotiz und nächster Schritt

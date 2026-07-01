@@ -1,6 +1,6 @@
 ---
 name: vob-b-bgb-vermischung-bgh-vii-zr-235-15
-description: "Vob B BGB Vermischung BGH Vii Zr 235 15: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Vob B BGB Vermischung BGH Vii Zr 235 15 in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vob B BGB Vermischung BGH Vii Zr 235 15

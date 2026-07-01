@@ -1,6 +1,6 @@
 ---
 name: livecheck-compliance-dokumentation-und-akte
-description: "Livecheck: Compliance-Dokumentation und Aktenvermerk im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
+description: "Wenn es um Livecheck: Compliance-Dokumentation und Aktenvermerk in Insolvenzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Livecheck: Compliance-Dokumentation und Aktenvermerk

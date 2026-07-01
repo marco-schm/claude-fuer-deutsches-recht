@@ -1,6 +1,6 @@
 ---
 name: unterricht-seminar-mueller-arnold
-description: "PrALR: Unterrichts-, Seminar- und Vortragsmodule zum PrALR mit Quellenarbeit und Diskussionsfragen bauen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Unterricht und Seminar in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Unterricht Seminar Mueller Arnold; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Unterricht und Seminar

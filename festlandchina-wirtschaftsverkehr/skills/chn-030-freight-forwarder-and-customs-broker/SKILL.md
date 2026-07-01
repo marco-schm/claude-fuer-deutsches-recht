@@ -1,6 +1,6 @@
 ---
 name: chn-030-freight-forwarder-and-customs-broker
-description: "Festlandchina Wirtschaftsverkehr: Freight Forwarder And Customs Broker. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Freight Forwarder And Customs Broker in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freight Forwarder And Customs Broker

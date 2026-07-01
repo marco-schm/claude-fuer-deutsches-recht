@@ -1,6 +1,6 @@
 ---
 name: inso-p004b-ruckzahlung-und-anpassung-der-gestundeten-betrage
-description: "§ 4b InsO (Rückzahlung und Anpassung der gestundeten Beträge) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 4b InsO (Rückzahlung und Anpassung der gestundeten Beträge) im Mandat prüfen:..."
+description: "Wenn es um Inso P004b Ruckzahlung Und Anpassung Der Gestundeten Betrage in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 4b InsO (Rückzahlung und Anpassung der gestundeten Beträge) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

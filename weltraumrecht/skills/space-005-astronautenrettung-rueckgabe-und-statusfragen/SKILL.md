@@ -1,6 +1,6 @@
 ---
 name: space-005-astronautenrettung-rueckgabe-und-statusfragen
-description: "Weltraumrecht: Astronautenrettung Rückgabe und Statusfragen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Astronautenrettung Rückgabe und Statusfragen in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Astronautenrettung Rückgabe und Statusfragen

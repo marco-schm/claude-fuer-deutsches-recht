@@ -1,6 +1,6 @@
 ---
 name: weg-baumaengel-gemeinschaft
-description: "WEG Baumängel/Gemeinschaft: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Vergemeinschaftung, Ansprüche, Beweissicherung, Verjährung; mit Normprüfung, Beweisen, Fristen, Risik..."
+description: "Wenn es um WEG Baumängel/Gemeinschaft: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Baumängel/Gemeinschaft: Fachmodul im Miet- und Wohnungseigentumsrecht

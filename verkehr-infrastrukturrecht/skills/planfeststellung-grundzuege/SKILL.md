@@ -1,6 +1,6 @@
 ---
 name: planfeststellung-grundzuege
-description: "Planfeststellung in Grundzuegen: §§ 72 ff. VwVfG, fachgesetzliche Planfeststellung Strasse, Schiene, Wasser, Energie. Antragsunterlagen, Anhörungsverfahren, Beschluss, Klage. Verhältnis zur Plangenehmigung. Routet in verkehr-infrastrukturrecht-planfeststellung im Verkehr Infrastrukturrecht."
+description: "Wenn es um Planfeststellung: Grundzuege in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Planfeststellung: Grundzuege

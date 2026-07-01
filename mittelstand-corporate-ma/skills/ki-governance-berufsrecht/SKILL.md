@@ -1,6 +1,6 @@
 ---
 name: ki-governance-berufsrecht
-description: "KI-Governance und Berufsrecht: Prüft KI-Einsatz im Transaktionsmandat unter Mandatsgeheimnis, Need-to-know, Datenschutz, KI-VO, Dienstleistereinsatz und Mandantenfreigabe im Mittelstand Corporate Ma."
+description: "Wenn es um digitale Werkzeuge-Governance und Berufsrecht in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI-Governance und Berufsrecht

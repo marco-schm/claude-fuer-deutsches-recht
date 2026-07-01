@@ -1,6 +1,6 @@
 ---
 name: schwarzarbeit-werklohnanspruch-bgh-vii-zr-6-13
-description: "Schwarzarbeit Werklohnanspruch BGH Vii Zr 6 13: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Schwarzarbeit Werklohnanspruch BGH Vii Zr 6 13 in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schwarzarbeit Werklohnanspruch BGH Vii Zr 6 13

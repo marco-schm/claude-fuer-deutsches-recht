@@ -1,6 +1,6 @@
 ---
 name: saas-fuer-verbraucher-anspruch-pruefen
-description: "Prüfer: SaaS für Verbraucher: Anspruch prüfen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Saas Für Verbraucher Anspruch Prüfen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Saas Für Verbraucher Anspruch Prüfen

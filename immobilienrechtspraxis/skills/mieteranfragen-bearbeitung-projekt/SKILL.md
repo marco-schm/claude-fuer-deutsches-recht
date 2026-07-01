@@ -1,6 +1,6 @@
 ---
 name: mieteranfragen-bearbeitung-projekt
-description: "Mieteranfragen im Immobilienportfolio bearbeiten: Mängel, Betriebskosten, Belegeinsicht, Kündigung, Mieterhöhung und Mietpreisbremse; mit Fristen, Zuständigkeit, Antwortentwurf, Aktenvermerk und Anschluss an die Betriebskosten-/WEG-Datenpaket-Skills im Immobilienrechtspraxis."
+description: "Wenn es um Mieteranfragen Bearbeitung in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mieteranfragen Bearbeitung

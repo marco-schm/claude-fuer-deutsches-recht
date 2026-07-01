@@ -1,6 +1,6 @@
 ---
 name: beirat-bestellung-und-abberufung
-description: "Prüft Beiratsfragen zu Bestellung Und Abberufung: Zuständigkeit, Satzungsgrundlage, Beschlussweg, Haftung, Belege, Gegenargumente und verwertbaren Output."
+description: "Wenn es um Beirat Bestellung Und Abberufung in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Bestellung Und Abberufung

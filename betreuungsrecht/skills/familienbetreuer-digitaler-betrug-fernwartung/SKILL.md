@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-digitaler-betrug-fernwartung
-description: "Betrugsschutz bei betreuten Personen: Romance Scam, Enkeltrick, Fernwartungssoftware, Onlinebanking, Abos, Krypto und Strafanzeige."
+description: "Wenn es um Familienbetreuer: digitaler Betrug und Fernwartung stoppen in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Familienbetreuer: digitaler Betrug und Fernwartung stoppen

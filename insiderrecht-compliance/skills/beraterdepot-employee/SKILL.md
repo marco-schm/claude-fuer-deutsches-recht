@@ -1,6 +1,6 @@
 ---
 name: beraterdepot-employee
-description: "Prüft Compliance-Risiken bei Berater-Depots und Treuhandkonten: Wissenszurechnung, Handelsverbote, chinesische Mauern und Monitoring-Pflichten im Insiderrecht Compliance."
+description: "Wenn es um Berater-Depot und Treuhandkonten – Insiderrecht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Berater-Depot und Treuhandkonten – Insiderrecht

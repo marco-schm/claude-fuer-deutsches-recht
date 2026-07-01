@@ -1,6 +1,6 @@
 ---
 name: sanctions-cartel
-description: "Reagiert auf einen Sanktionstreffer – EU-Sanktionsverordnungen, OFAC, Einfrierung, Meldepflichten, Strafrisiken und Behördenstrategie im Internal Investigations Praxis."
+description: "Wenn es um Sanktionstreffer – Sofortmaßnahmen und Behördenstrategie in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Sanktionstreffer – Sofortmaßnahmen und Behördenstrategie

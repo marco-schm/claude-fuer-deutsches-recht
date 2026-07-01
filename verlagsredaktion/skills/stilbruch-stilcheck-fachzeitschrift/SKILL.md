@@ -1,6 +1,6 @@
 ---
 name: stilbruch-stilcheck-fachzeitschrift
-description: "Spuert Stilbrueche im Fachzeitschriften-Manuskript auf: gemischte Stilebenen Ironie Umgangssprache Floskeln Marketingsprache und KI-typische Phrasen im Verlagsredaktion."
+description: "Wenn es um Stilbruch- und Stilcheck Fachzeitschrift in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Stilbruch- und Stilcheck Fachzeitschrift

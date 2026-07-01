@@ -1,6 +1,6 @@
 ---
 name: autor-herausgeber-mitwirkende-rechtekette
-description: "Verlagsrecht: Rechtekette bei Sammelwerken — Autor, Herausgeber, Mitwirkende, Übersetzer und Verlag; Klärung von Urheber-, Nutzungs- und Vergütungsrechten nach UrhG und VerlG im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk

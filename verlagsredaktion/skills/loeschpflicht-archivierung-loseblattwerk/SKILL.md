@@ -1,6 +1,6 @@
 ---
 name: loeschpflicht-archivierung-loseblattwerk
-description: "Loeschpflicht und Archivierung bei juristischer Fachzeitschrift: DSGVO Art. 17 Recht auf Vergessen, Online-Archiv, Aktenzeichen-Anonymisierung, Pressefreiheitsabwaegung, Versionierung im Verlagsredaktion."
+description: "Wenn es um Loeschpflicht und Archivierung in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Loeschpflicht und Archivierung

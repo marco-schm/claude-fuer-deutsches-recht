@@ -1,6 +1,6 @@
 ---
 name: inso-p084-auseinandersetzung-einer-gesellschaft-oder-gemeinschaf
-description: "§ 84 InsO (Auseinandersetzung einer Gesellschaft oder Gemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 84 InsO (Auseinandersetzung einer Gesellschaft oder Gemeinschaft) im Man..."
+description: "Wenn es um Inso P084 Auseinandersetzung Einer Gesellschaft Oder Gemeinschaf in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 84 InsO (Auseinandersetzung einer Gesellschaft oder Gemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

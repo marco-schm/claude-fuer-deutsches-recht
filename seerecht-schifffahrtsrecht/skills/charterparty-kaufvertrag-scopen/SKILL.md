@@ -1,6 +1,6 @@
 ---
 name: charterparty-kaufvertrag-scopen
-description: "Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer scopet Kaufvertrag für Gechartertes Seeschiff unter Charterparty: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYP..."
+description: "Wenn es um Charterparty – Kaufvertrag scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Charterparty – Kaufvertrag scopen

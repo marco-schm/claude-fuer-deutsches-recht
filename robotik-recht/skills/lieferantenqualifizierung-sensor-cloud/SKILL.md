@@ -1,6 +1,6 @@
 ---
 name: lieferantenqualifizierung-sensor-cloud
-description: "Prüft Lieferantenqualifizierung für Sensoren, Aktoren, Batterien, Cloud, KI-Modell, FOSS und Wartung."
+description: "Wenn es um Lieferantenqualifizierung Sensor Cloud in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Lieferantenqualifizierung Sensor Cloud; Arbeitsfeld: robotik-recht."
 ---
 
 # Lieferantenqualifizierung Sensor Cloud

@@ -1,6 +1,6 @@
 ---
 name: anspruchsberechtigung-antragsgenerator
-description: "Anspruchsberechtigung nach JVEG prüfen: Sachverständiger, Zeuge, Dolmetscher, Anwalt. Normen: §§ 1 2 JVEG. Prüfraster: Personenkategorie, Beauftragung durch Gericht, Verfahrensart. Output: Prüfergebnis Anspruchsberechtigung JVEG. Abgrenzung: nicht Verguetungsberechnung im Jveg Kostenpruefer."
+description: "Wenn es um JVEG-Anspruchsberechtigung in JVEG-Kostenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # JVEG-Anspruchsberechtigung

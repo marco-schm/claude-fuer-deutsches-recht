@@ -1,6 +1,6 @@
 ---
 name: immo-mietkaufvertrag
-description: "Mietkaufvertrag: Aufbau, Steuerrecht, Kostenfallen, Reform 2025 (falls relevant). Prüfraster Vor- und Nachteile vs. klassischem Kaufvertrag im Immobilienrechtspraxis."
+description: "Wenn es um Mietkaufvertrag in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietkaufvertrag

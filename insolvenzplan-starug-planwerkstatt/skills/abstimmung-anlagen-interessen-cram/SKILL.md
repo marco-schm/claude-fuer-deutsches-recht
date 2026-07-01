@@ -1,6 +1,6 @@
 ---
 name: abstimmung-anlagen-interessen-cram
-description: "Abstimmung: Internationaler Bezug und Schnittstellen im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug Pla..."
+description: "Wenn es um Abstimmung: Internationaler Bezug und Schnittstellen in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abstimmung: Internationaler Bezug und Schnittstellen

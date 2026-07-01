@@ -1,6 +1,6 @@
 ---
 name: umstaende-compliance-dokumentation-und-akte
-description: "Umstaende: Compliance-Dokumentation und Aktenvermerk im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Umstaende: Compliance-Dokumentation und Aktenvermerk in Fluggastrechte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Umstaende: Compliance-Dokumentation und Aktenvermerk

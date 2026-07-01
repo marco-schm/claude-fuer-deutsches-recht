@@ -1,6 +1,6 @@
 ---
 name: dokumentenintake-datenraum
-description: "Liest Robotik-Datenräume mit Anleitungen, CE-Unterlagen, Risikobeurteilung, Logs, Verträgen, Incident Reports und ordnet die nächsten Prüfschritte."
+description: "Wenn es um Dokumentenintake Datenraum in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Dokumentenintake Datenraum

@@ -1,6 +1,6 @@
 ---
 name: abnahme-und-acceptance-tests
-description: "Gestaltet Abnahme, Testfälle, UAT, Go-live, Teilabnahme, Fiktion und Mängelvorbehalte im Softwarerecht De Eu Us."
+description: "Wenn es um Abnahme und Acceptance Tests in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abnahme und Acceptance Tests

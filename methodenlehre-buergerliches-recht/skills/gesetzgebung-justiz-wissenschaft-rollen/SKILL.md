@@ -1,6 +1,6 @@
 ---
 name: gesetzgebung-justiz-wissenschaft-rollen
-description: "Analysiert die methodischen Rollen und institutionellen Grenzen von Gesetzgebung, Justiz und Rechtswissenschaft im deutschen Rechtssystem. Das Skill klärt, welche Akteure welche rechtsnormsetzende oder normanwendende Funktion haben, wie Rollenkonfusionen erkannt werden und wie methodisch korrekt..."
+description: "Wenn es um Gesetzgebung, Justiz und Wissenschaft: Institutionelle Rollen in der Rechtsbildung in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gesetzgebung, Justiz und Wissenschaft: Institutionelle Rollen in der Rechtsbildung

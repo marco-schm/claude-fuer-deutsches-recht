@@ -1,6 +1,6 @@
 ---
 name: pralr-030-vergleich-roemisches-recht-gemeines-recht
-description: "PrALR: Verhältnis zu römischem Recht, gemeinem Recht, Naturrecht und preußischer Kodifikationstechnik prüfen."
+description: "Wenn es um Römisches und gemeines Recht in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Pralr 030 Vergleich Roemisches Recht Gemeines Recht; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Römisches und gemeines Recht

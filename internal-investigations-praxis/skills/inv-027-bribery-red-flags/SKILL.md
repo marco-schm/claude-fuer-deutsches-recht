@@ -1,6 +1,6 @@
 ---
 name: inv-027-bribery-red-flags
-description: "Spezialskill fuer Bribery Red Flags: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Bribery Red Flags in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Internal Investigation: Bribery Red Flags

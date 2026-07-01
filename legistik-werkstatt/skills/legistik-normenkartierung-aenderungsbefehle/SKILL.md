@@ -1,6 +1,6 @@
 ---
 name: legistik-normenkartierung-aenderungsbefehle
-description: "Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Änderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert werden. Such-Strategie BGBl-Online Bundesrecht.de Landesrech"
+description: "Wenn es um Normenkartierung in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Legistik Normenkartierung Aenderungsbefehle; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Normenkartierung

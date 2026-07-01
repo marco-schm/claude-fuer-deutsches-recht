@@ -1,6 +1,6 @@
 ---
 name: spezial-gewerblichen-tatbestand-beweis-und-belege
-description: "Gewerblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Gewerblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage

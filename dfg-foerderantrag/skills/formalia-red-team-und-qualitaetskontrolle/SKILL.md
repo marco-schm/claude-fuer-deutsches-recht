@@ -1,6 +1,6 @@
 ---
 name: formalia-red-team-und-qualitaetskontrolle
-description: "Formalia: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Formalia: Red-Team und Qualitätskontrolle in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Formalia: Red-Team und Qualitätskontrolle

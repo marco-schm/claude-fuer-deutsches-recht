@@ -1,6 +1,6 @@
 ---
 name: opferschutz-nebenklage
-description: "Rechte Verletzter: Nebenklage, psychosoziale Prozessbegleitung, Adhäsion, Schutzanordnung, Akteneinsicht im Strafanzeige-Vorbereitung."
+description: "Wenn es um Opferschutz, Nebenklage, Adhäsion in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Opferschutz, Nebenklage, Adhäsion

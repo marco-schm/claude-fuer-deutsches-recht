@@ -1,6 +1,6 @@
 ---
 name: cisg-ausschluss-und-rechtswahl
-description: "Internationales Handelsrecht: CISG Ausschluss nach Art. 6 CISG und Rechtswahl nach Rom I (EG) 593/2008. Formulierung wirksamer Ausschlussklauseln, Teilausschluss einzelner Artikel und Zusammenspiel mit nationaler Kaufrechtsergänzung im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um CISG-Ausschluss und Rechtswahl in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CISG-Ausschluss und Rechtswahl

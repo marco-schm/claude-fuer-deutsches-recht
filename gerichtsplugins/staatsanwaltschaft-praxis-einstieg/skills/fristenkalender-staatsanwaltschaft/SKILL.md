@@ -1,6 +1,6 @@
 ---
 name: fristenkalender-staatsanwaltschaft
-description: "Fristenkalender im Dezernat: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Fristenkalender im Dezernat in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristenkalender im Dezernat

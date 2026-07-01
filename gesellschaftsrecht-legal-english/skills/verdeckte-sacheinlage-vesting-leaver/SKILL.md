@@ -1,6 +1,6 @@
 ---
 name: verdeckte-sacheinlage-vesting-leaver
-description: "Erkennt und prüft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen im Gesellschaftsrecht Le..."
+description: "Wenn es um Verdeckte Sacheinlage und Hin-und-Her-Zahlung in Didaktisches Gesellschaftsrecht — English Business Terms geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verdeckte Sacheinlage und Hin-und-Her-Zahlung

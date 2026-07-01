@@ -1,6 +1,6 @@
 ---
 name: forderung-an-db-erste-stufe
-description: "Erstes Forderungsschreiben an das DB-Servicecenter Fahrgastrechte. Erfasst Anspruchsteller (alle Reisenden mit Vollmachten) Anspruchsgrundlage Art. 19 VO 2021/782 plus Art. 18 und Art. 20 sowie ggf. § 11 EVO konkrete Berechnung Frist zur Zahlung (typisch vier Wochen) Bankverbindung. Zwei Variante..."
+description: "Wenn es um Forderungsschreiben — Erste Stufe in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Forderungsschreiben — Erste Stufe

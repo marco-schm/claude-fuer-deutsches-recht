@@ -1,6 +1,6 @@
 ---
 name: insolvenz-retail-international-expansion
-description: "Insolvenz, Retoure und Warenbestand im Fashion Retail prüfen: Eigentum, Kommission, Sicherheiten, Lizenzen, Outlet-Verwertung und Markenimage im Fashion Law Moderecht."
+description: "Wenn es um Insolvenz Retail Stock in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Insolvenz Retail Stock

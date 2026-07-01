@@ -1,6 +1,6 @@
 ---
 name: public-sector-bsi-anforderungen
-description: "Prüft BSI-Anforderungen für öffentliche Auftraggeber und Lieferanten im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Public Sector BSI Anforderungen in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Public Sector BSI Anforderungen

@@ -1,6 +1,6 @@
 ---
 name: chapter13-codebtor-stay-discharge-eligibility
-description: "Prüft co-debtor stay, consumer debts, relief motions and guarantor/co-signer strategy im US Bankruptcy Code."
+description: "Wenn es um Chapter 13 Co-Debtor Stay in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chapter 13 Co-Debtor Stay

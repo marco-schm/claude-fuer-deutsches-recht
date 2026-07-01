@@ -1,6 +1,6 @@
 ---
 name: bmi-sicherheits-und-polizeirecht
-description: "Sachbereich Sicherheits- und Polizeirecht im Geschäftsbereich BMI: Normbestand (BPolG; BKAG; BNDG; BVerfSchG; G10G; PassG; PStG; WaffG; SprengG; VersG.); Akteure (BPOL; BKA; BfV; BND; ZITiS; Bundespolizeipraesidium.); EU-Bezug (Schengen; Europol; Eurodac; Frontex; PNR-RL.); typische Legistik-Auf..."
+description: "Wenn es um Sicherheits- und Polizeirecht (BMI) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Sicherheits- und Polizeirecht (BMI)

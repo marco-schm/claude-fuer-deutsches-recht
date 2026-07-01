@@ -1,6 +1,6 @@
 ---
 name: cross-selling
-description: "Analysiert Provisionsansprüche bei Cross-Selling im Handelsvertretervertrag: Provision für Produkte außerhalb des ursprünglichen Vertragsgebiets oder Sortiments, Erweiterung des Provisionsanspruchs bei mehreren vertretenen Produktlinien, Abgrenzung von Haupt- und Nebenprodukten sowie vertragliche..."
+description: "Wenn es um Cross-Selling und Multi-Produkt-Provision im Handelsvertretervertrag in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cross-Selling und Multi-Produkt-Provision im Handelsvertretervertrag

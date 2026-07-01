@@ -1,6 +1,6 @@
 ---
 name: aufsicht-anhoerung-ordnungswidrigkeit
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsicht Anhörung Ordnungswidrigkeit im Apothekenrecht."
+description: "Wenn es um Aufsicht Anhörung Ordnungswidrigkeit in Apothekenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufsicht Anhörung Ordnungswidrigkeit

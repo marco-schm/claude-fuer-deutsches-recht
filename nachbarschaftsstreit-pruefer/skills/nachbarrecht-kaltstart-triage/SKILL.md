@@ -1,6 +1,6 @@
 ---
 name: nachbarrecht-kaltstart-triage
-description: "Erstaufnahme eines Nachbarrechtsfalls: Beteiligte, Grundstücke, Bundesland, Grenze, Streitgegenstand, Gefahr, Fristen, Beweise, bisherige Eskalation und Ziel klären; danach in die passenden Fachmodule routen."
+description: "Wenn es um Nachbarrecht-Kaltstart-Triage in Nachbarschaftsstreit-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachbarrecht-Kaltstart-Triage

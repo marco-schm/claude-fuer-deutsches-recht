@@ -1,6 +1,6 @@
 ---
 name: weg-tatbestandsmerkmale-beweisfragen-beleglage
-description: "WEG: Tatbestandsmerkmale, Beweisfragen und Beleglage im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um WEG: Tatbestandsmerkmale, Beweisfragen und Beleglage in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # WEG: Tatbestandsmerkmale, Beweisfragen und Beleglage

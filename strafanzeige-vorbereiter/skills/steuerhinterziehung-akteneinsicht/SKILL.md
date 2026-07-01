@@ -1,6 +1,6 @@
 ---
 name: steuerhinterziehung-akteneinsicht
-description: "Steuerstraftaten anzeigen oder Selbstbelastung vermeiden: Drittanzeige, Selbstanzeige-Abgrenzung, Belege, Finanzamt/Steufa im Strafanzeige-Vorbereitung."
+description: "Wenn es um Steuerhinterziehung Paragraf 370 AO in Strafanzeige-Vorbereiter geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerhinterziehung § 370 AO

@@ -1,6 +1,6 @@
 ---
 name: baubesprechung-protokoll-baugrund
-description: "HOAI-Praxis: erstellt präzises Protokoll mit Verantwortlichen, Fristen und Beweiswert; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um HOAI Querschnitt: Erstellt präzises protokoll mit verantwortlichen in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # HOAI Querschnitt: Erstellt präzises protokoll mit verantwortlichen

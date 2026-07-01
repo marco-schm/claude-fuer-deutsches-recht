@@ -1,6 +1,6 @@
 ---
 name: verletzung-dokumentieren-hashlog-screenshot-abrufprotokoll
-description: "Beweissicherung bei Datenbankrechts-Verletzungen: Methoden zur gerichtsfesten Dokumentation von automatisiertes Auslesen und unerlaubter Entnahme durch Hash-Logs, Screenshot-Serien, Abruflauf-Protokolle, Honey-Pot-Datensätze und notarielle Sicherung. Erstellt Beweis-Checkliste für § 87b UrhG-Klagen und einstweilige..."
+description: "Wenn es um Verletzung dokumentieren — Hash-Logs, Screenshots und Abruflauf-Protokolle in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verletzung dokumentieren — Hash-Logs, Screenshots und Abruflauf-Protokolle

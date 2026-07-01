@@ -1,6 +1,6 @@
 ---
 name: design-logo-digitale-produkte
-description: "Solo-Selbstständige: prüft Logoerstellung, Rechtekette, Fonts, Stockmaterial und Übergabe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um IP Content und Arbeitsergebnisse: Prüft logoerstellung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IP Content und Arbeitsergebnisse: Prüft logoerstellung

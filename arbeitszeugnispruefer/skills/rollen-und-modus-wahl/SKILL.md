@@ -1,6 +1,6 @@
 ---
 name: rollen-und-modus-wahl
-description: Bestimmung der Pruefer-Perspektive und des Ausgabemodus vor der Zeugnisanalyse mit Unterscheidung zwischen Arbeitnehmer- und HR-Perspektive sowie interaktivem und nicht-interaktivem Einsatz.
+description: "Wenn es um Rollen- und Moduswahl vor der Zeugnispruefung in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rollen- und Moduswahl vor der Zeugnispruefung

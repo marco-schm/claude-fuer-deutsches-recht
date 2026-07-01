@@ -1,6 +1,6 @@
 ---
 name: unidroit-principles-als-transportvertrag-see
-description: "Internationales Handelsrecht: UNIDROIT Principles of International Commercial Contracts 2016. Anwendungsfälle nach der Präambel, Art. 1.1 Vertragsfreiheit, Art. 1.7 Treu und Glauben, Art. 1.8 Widerspruchsverbot und Verhältnis zu CISG und nationalem Recht im Internationales Handelsrecht Lex Mercat..."
+description: "Wenn es um UNIDROIT Principles 2016 als Vertragsrecht in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # UNIDROIT Principles 2016 als Vertragsrecht

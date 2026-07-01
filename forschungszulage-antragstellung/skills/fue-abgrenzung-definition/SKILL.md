@@ -1,6 +1,6 @@
 ---
 name: fue-abgrenzung-definition
-description: "FuE-Definition Grenzfaelle nach Frascati-Manual und FZulG: Neuheit und Unsicherheit, Routinearbeiten gegen Versuch und Irrtum. Beispielszenarien Software-Entwicklung, klinische Studien, Produktoptimierung, Reverse Engineering. Prüfraster und typische BSFZ-Argumentationen im Forschungszulage."
+description: "Wenn es um FZ: FuE-Abgrenzung Grenzfaelle in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Fue Abgrenzung Definition; Arbeitsfeld: Forschungszulage-Antragstellung."
 ---
 
 # FZ: FuE-Abgrenzung Grenzfaelle

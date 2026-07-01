@@ -1,6 +1,6 @@
 ---
 name: beratungshaftung-zahlen-schwellen-und-berechnung
-description: "Beratungshaftung: Zahlen, Schwellenwerte und Berechnung: Beratungshaftung: Zahlen, Schwellenwerte und Berechnung."
+description: "Wenn es um Beratungshaftung: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Bank Kapitalmarktrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Beratungshaftung: Zahlen, Schwellenwerte und Berechnung

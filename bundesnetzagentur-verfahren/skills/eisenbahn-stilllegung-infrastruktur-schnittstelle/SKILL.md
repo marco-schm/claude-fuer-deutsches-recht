@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-stilllegung-infrastruktur-schnittstelle
-description: "Eisenbahn / Stilllegung Infrastruktur Schnittstelle: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren."
+description: "Wenn es um Eisenbahn: Stilllegung Infrastruktur Schnittstelle in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Eisenbahn: Stilllegung Infrastruktur Schnittstelle

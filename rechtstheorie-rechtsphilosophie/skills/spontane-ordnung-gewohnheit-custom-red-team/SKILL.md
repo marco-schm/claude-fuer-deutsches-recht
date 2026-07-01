@@ -1,6 +1,6 @@
 ---
 name: spontane-ordnung-gewohnheit-custom-red-team
-description: "Red-Team für spontane Ordnung, Gewohnheit, Branchenuebung und Custom: erkennt Informationswert, Erwartungsschutz und Evolutionslogik, prüft aber Kartell-, Umwelt-, Drittwirkungs-, Traegheits- und Machtmissbrauchsrisiken."
+description: "Wenn es um Spontane Ordnung, Gewohnheit und Custom: Red-Team in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Spontane Ordnung, Gewohnheit und Custom: Red-Team

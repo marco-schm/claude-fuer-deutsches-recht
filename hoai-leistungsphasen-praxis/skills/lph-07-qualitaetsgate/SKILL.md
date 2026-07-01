@@ -1,6 +1,6 @@
 ---
 name: lph-07-qualitaetsgate
-description: "HOAI LPH 7 Mitwirkung bei der Vergabe: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 7 Mitwirkung bei der Vergabe: Erstellt ein qualitygate in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Erstellt ein qualitygate

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-management-participation-sweet-equity
-description: "Rechtsabteilungs-Fachmodul für Management Participation Sweet Equity: Sweet Equity wird steuerlich, arbeitsrechtlich und vesting-seitig in eine Risikoampel übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Private Equity Praxis."
+description: "Wenn es um Rechtsabteilung: Management Participation Sweet Equity in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsabteilung: Management Participation Sweet Equity

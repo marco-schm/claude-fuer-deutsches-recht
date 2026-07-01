@@ -1,6 +1,6 @@
 ---
 name: inso-p274-rechtsstellung-des-sachwalters
-description: "§ 274 InsO (Rechtsstellung des Sachwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 274 InsO (Rechtsstellung des Sachwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Recht..."
+description: "Wenn es um Inso P274 Rechtsstellung Des Sachwalters in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 274 InsO (Rechtsstellung des Sachwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

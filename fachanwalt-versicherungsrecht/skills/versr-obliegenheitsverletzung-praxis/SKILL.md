@@ -1,6 +1,6 @@
 ---
 name: versr-obliegenheitsverletzung-praxis
-description: "Obliegenheitsverletzung in der Praxis: § 28 VVG, Aufklaerungspflicht, Anzeigepflicht: Folgen Leistungsfreiheit bei Vorsatz, Quotelung bei grober Fahrlaessigkeit, Kausalita..."
+description: "Wenn es um Obliegenheitsverletzung in der Praxis: Paragraf 28 VVG, Aufklaerungspflicht, Anzeigepflicht in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Obliegenheitsverletzung in der Praxis: § 28 VVG, Aufklaerungspflicht, Anzeigepflicht

@@ -1,6 +1,6 @@
 ---
 name: software-and-saas-agency-distribution-franchise
-description: "Internationales Handelsrecht: Software- und SaaS-Verträge im grenzüberschreitenden B2B-Kontext. Lizenzrecht, Service Level Agreements (SLA), Daten-Portabilität, Exit-Klauseln, Exportkontrolle für Kryptographie (EAR Cat. 5 Part 2) und Gerichtsstand im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Software- und SaaS-Verträge im grenzüberschreitenden B2B in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Software- und SaaS-Verträge im grenzüberschreitenden B2B

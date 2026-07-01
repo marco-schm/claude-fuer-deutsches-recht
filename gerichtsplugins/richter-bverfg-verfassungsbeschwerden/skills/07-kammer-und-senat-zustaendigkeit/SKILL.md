@@ -1,6 +1,6 @@
 ---
 name: 07-kammer-und-senat-zustaendigkeit
-description: "Zuständigkeit Kammer (drei Richter) Paragraf 93b BVerfGG vs. Senatszuständigkeit, Annahmebeschluss durch Kammer, Senatsannahme bei besonderer Bedeutung, einstimmige Nichtannahme"
+description: "Wenn es um 07 Kammer und Senat Zuständigkeit in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 07 Kammer und Senat Zuständigkeit

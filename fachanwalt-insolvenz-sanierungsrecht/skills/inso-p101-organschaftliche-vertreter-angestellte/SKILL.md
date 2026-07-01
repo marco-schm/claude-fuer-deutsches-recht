@@ -1,6 +1,6 @@
 ---
 name: inso-p101-organschaftliche-vertreter-angestellte
-description: "§ 101 InsO (Organschaftliche Vertreter: Angestellte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung."
+description: "Wenn es um Paragraf 101 InsO (Organschaftliche Vertreter in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 101 InsO (Organschaftliche Vertreter

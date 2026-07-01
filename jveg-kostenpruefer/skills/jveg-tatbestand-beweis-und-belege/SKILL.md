@@ -1,6 +1,6 @@
 ---
 name: jveg-tatbestand-beweis-und-belege
-description: "JVEG: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um JVEG: Tatbestandsmerkmale, Beweisfragen und Beleglage in JVEG-Kostenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # JVEG: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: 14-beweismittel-wuerdigen
-description: "Beweismittel und ihre Würdigung: Augenschein Paragrafen 371 ff. ZPO, Zeuge Paragrafen 373 ff., Sachverständiger Paragrafen 402 ff., Urkunde Paragrafen 415 ff., Parteivernehmung Paragrafen 445 ff."
+description: "Wenn es um 14 Beweismittel Wuerdigen in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 14 Beweismittel Wuerdigen

@@ -1,6 +1,6 @@
 ---
 name: inso-p209-befriedigung-der-masseglaubiger
-description: "§ 209 InsO (Befriedigung der Massegläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 209 InsO (Befriedigung der Massegläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rec..."
+description: "Wenn es um Inso P209 Befriedigung Der Masseglaubiger in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 209 InsO (Befriedigung der Massegläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: wo-bin-ich-gerade
-description: "Solo-Selbstständige: erstellt eine Lagekarte vom Gedankenchaos bis zum konkreten nächsten Schritt; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Wo Bin Ich Gerade in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart und Orientierung: Erstellt eine lagekarte vom gedankenchaos bis zum konkreten nächsten schritt

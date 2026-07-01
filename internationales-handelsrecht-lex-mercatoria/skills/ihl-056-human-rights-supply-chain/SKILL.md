@@ -1,6 +1,6 @@
 ---
 name: ihl-056-human-rights-supply-chain
-description: "Internationales Handelsrecht und Lex Mercatoria: Human Rights Supply Chain. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Human Rights Supply Chain in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Human Rights Supply Chain

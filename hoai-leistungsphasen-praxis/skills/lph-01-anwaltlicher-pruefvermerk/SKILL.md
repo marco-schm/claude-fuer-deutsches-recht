@@ -1,6 +1,6 @@
 ---
 name: lph-01-anwaltlicher-pruefvermerk
-description: "HOAI LPH 1 Grundlagenermittlung: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 1 Grundlagenermittlung: Erstellt anwaltliches kurzmemorandum zum lph-stand in HOAI Leistungsphasen Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # LPH 1 Grundlagenermittlung: Erstellt anwaltliches kurzmemorandum zum lph-stand

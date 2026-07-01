@@ -1,6 +1,6 @@
 ---
 name: consulting-agb
-description: "Branchen-Fachmodul für Consulting AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Wenn es um Consulting AGB in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Consulting AGB

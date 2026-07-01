@@ -1,6 +1,6 @@
 ---
 name: inso-tatbestand-beweis-und-belege
-description: "InsO: Tatbestandsmerkmale, Beweisfragen und Beleglage im Fortbestehensprognose. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um InsO: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # InsO: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: insanw-eigenverwaltung-schutzschirm-spezial
-description: "Spezialfall Eigenverwaltung und Schutzschirmverfahren §§ 270 ff: InsO: Bescheinigung nach § 270d InsO, Sachwalter, Gläubigerausschuss, Drittsicherheiten. Prüfraster für Bescheinigungsersteller."
+description: "Wenn es um Insanw Eigenverwaltung Schutzschirm Spezial in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Spezialfall Eigenverwaltung und Schutzschirmverfahren §§ 270 ff

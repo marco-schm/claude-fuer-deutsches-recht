@@ -1,6 +1,6 @@
 ---
 name: dba-grenzgaenger-oesterreich-rueckkehr
-description: "Grenzgaengerregelung DBA Oesterreich mit Wohnsitz in der Grenznaehe und arbeitstaeglicher Rückkehr. Anwendungsfall Arbeitnehmer Wohnsitz Bayern oder Salzburg/Tirol Tätigkeit auf der anderen Seite. Home-Office-Konsultationsvereinbarung. Output Mandanten-Memo Grenzgaengernachweis."
+description: "Wenn es um Grenzgaengerregelung DBA-Oesterreich in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzgaengerregelung DBA-Oesterreich

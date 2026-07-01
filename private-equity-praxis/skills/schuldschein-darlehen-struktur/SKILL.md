@@ -1,6 +1,6 @@
 ---
 name: schuldschein-darlehen-struktur
-description: "Erklärt Schuldschein, Zahlstelle/Arrangeur, Darlehensgeberregister, Tranchen, Covenants und Übertragbarkeit im Private Equity Praxis."
+description: "Wenn es um Schuldscheindarlehen: Struktur und Dokumente in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schuldscheindarlehen: Struktur und Dokumente

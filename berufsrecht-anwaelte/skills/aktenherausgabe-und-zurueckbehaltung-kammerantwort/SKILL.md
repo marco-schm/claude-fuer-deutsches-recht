@@ -1,6 +1,6 @@
 ---
 name: aktenherausgabe-und-zurueckbehaltung-kammerantwort
-description: "Anwälte: aktenherausgabe und zurueckbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Aktenherausgabe Und Zurueckbehaltung Kammerantwort in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Anwälte: aktenherausgabe und zurueckbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

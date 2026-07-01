@@ -1,6 +1,6 @@
 ---
 name: anlagen-konvention-k-b-erlaeutert
-description: "Konvention erklaert und korrekt eingesetzt: K-Anlagen Kläger, B-Anlagen Beklagter, ZN-Anlagen Zeugen, GA-Anlagen Gutachten, AS-Anlagen Anlagenband. Wann Klein-/Grosschreibung, wann Bindestrich. Wechselt sauber, wenn der Mandant im Vorprozess Beklagter war und in der Berufung Kläger wird."
+description: "Wenn es um K/B-Konvention erläutert in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # K/B-Konvention erläutert

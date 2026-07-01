@@ -1,6 +1,6 @@
 ---
 name: bildung-pruefungsrecht-anhang-iii-monitoring
-description: "Anhang III KI-VO für Bildung, Prüfung, Zulassung und Lernsteuerung: Hochrisiko-Check für KI in Hochschulen, Schulen, EdTech, Proctoring, Zulassungsranking, Plagiats-/KI-Erkennung und Lernstandsdiagnostik."
+description: "Wenn es um Bildung und Prüfungsrecht nach Anhang III in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bildung und Prüfungsrecht nach Anhang III

@@ -1,6 +1,6 @@
 ---
 name: lph-06-input-und-zielcheck
-description: "HOAI LPH 6 Vorbereitung der Vergabe: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 6 Vorbereitung der Vergabe: Prüft eingaben in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Prüft eingaben

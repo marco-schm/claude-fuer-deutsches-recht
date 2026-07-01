@@ -1,6 +1,6 @@
 ---
 name: rmap-bestimmtheit-und-justitiabilitaet
-description: "Verfassungsrechtliche Prüfung: hat die Rulemap-Modellierung die Bestimmtheit der Norm erhoeht (gut) oder unzulaessig verkuerzt (schlecht)? Justitiabilitaet und Begruendungspflicht im Verwaltungsverfahren. Output Bestimmtheits- und Justitiabilitaetsbericht mit Empfehlungen. Anschluss verfassungsm..."
+description: "Wenn es um Bestimmtheit und Justitiabilitaet bei Rulemap-Normen in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bestimmtheit und Justitiabilitaet bei Rulemap-Normen

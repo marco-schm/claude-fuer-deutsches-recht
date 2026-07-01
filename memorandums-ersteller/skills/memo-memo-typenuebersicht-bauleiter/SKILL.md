@@ -1,6 +1,6 @@
 ---
 name: memo-memo-typenuebersicht-bauleiter
-description: "Bauleiter Memo-Typen: Kurz-Memo, Standard-Memo, Long-Form-Memo, Risk-Memo. Prüfraster für Zielgruppe, Tiefe und Format. Mustertext Inhaltsverzeichnis pro Typ im Memorandums Ersteller."
+description: "Wenn es um Memo: Typen-Übersicht in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Memo: Typen-Übersicht

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-freiwillige-offenlegung-bafa-zoll
-description: "Strategische und operative Vorbereitung einer freiwilligen Selbstanzeige bei BAFA oder Hauptzollamt nach §§ 22 Abs. 4 AWG und 371 AO analog: Strafmildernde Wirkung, Sachverhaltsaufklaerung, Zeitpunkt, Form und Inhalt der Anzeige, Koordination mit Strafverfolgungsbehoerden. Output: Selbstanzeigens..."
+description: "Wenn es um Freiwillige Offenlegung bei BAFA und Zoll: Strategie und Vorbereitung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freiwillige Offenlegung bei BAFA und Zoll: Strategie und Vorbereitung

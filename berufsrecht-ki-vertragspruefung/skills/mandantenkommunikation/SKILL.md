@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation
-description: "Mandantenkommunikation im Bereich berufsrecht-ki-vertragspruefung: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Mandantenkommunikation in anwaltlichem Berufsrecht und Vertragsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Mandantenkommunikation

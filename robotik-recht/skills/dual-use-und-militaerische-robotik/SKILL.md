@@ -1,6 +1,6 @@
 ---
 name: dual-use-und-militaerische-robotik
-description: "Prüft Dual-Use, Exportkontrolle und militärische Robotik-Schnittstellen, ohne zivile Produktpflichten zu übersehen."
+description: "Wenn es um Dual-Use und militärische Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dual Use Und Militaerische Robotik; Arbeitsfeld: robotik-recht."
 ---
 
 # Dual-Use und militärische Robotik

@@ -1,6 +1,6 @@
 ---
 name: sepa-direct-debit-return-disputes
-description: "SEPA-Lastschrift-Rückgaben und Mandatsstreit prüfen: Core/B2B, Mandat, Rückgabefristen, Erstattungsanspruch, Firmenkundenrisiko, Händlerkommunikation und Prozessbelege im Bank-Rechtsabteilung."
+description: "Wenn es um SEPA Lastschriftstreit in Bank-Rechtsabteilung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SEPA Lastschriftstreit

@@ -1,6 +1,6 @@
 ---
 name: mietkaution-rueckzahlung-mitgliedschaft
-description: "Mietkaution Rückzahlung: führt Laien durch Kaution nach Auszug, Abrechnungsfrist, Gegenforderungen und Nebenkostenreserve. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Mietkaution Rückzahlung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietkaution Rückzahlung

@@ -1,6 +1,6 @@
 ---
 name: drg-067-kontinuitaet-und-bruch-pruefen
-description: "Deutsche Rechtsgeschichte: Kontinuitaet Und Bruch Pruefen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Kontinuitaet Und Bruch Pruefen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kontinuitaet Und Bruch Pruefen

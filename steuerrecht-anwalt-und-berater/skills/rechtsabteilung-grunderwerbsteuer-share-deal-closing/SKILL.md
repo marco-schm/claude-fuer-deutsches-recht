@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-grunderwerbsteuer-share-deal-closing
-description: "Rechtsabteilungs-Fachmodul für Grunderwerbsteuer-Share-Deal-Closing: Signing, Closing, Anteilsvereinigung und Doppelbelastungsrisiko werden in eine Steuermatrix übertragen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Rechtsabteilung: Grunderwerbsteuer-Share-Deal-Closing in Steuerrecht – Steuerberater und Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Rechtsabteilung Grunderwerbsteuer Share Deal Closing; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Rechtsabteilung: Grunderwerbsteuer-Share-Deal-Closing

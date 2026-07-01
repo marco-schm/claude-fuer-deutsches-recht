@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-betriebsuebergang-im-asset-deal
-description: "Rechtsabteilungs-Fachmodul für Betriebsübergang im Asset Deal: Informationsschreiben, Widerspruchsrisiko und Closing-Unterlagen werden koordiniert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Mittelstand Corporate Ma."
+description: "Wenn es um Rechtsabteilung: Betriebsübergang im Asset Deal in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Rechtsabteilung: Betriebsübergang im Asset Deal

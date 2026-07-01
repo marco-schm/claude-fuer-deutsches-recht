@@ -1,6 +1,6 @@
 ---
 name: beitraege-luecken-und-nachzahlung
-description: "Beitragslücken und Nachzahlung: freiwillige Beiträge, Ausbildungszeiten, besondere Nachzahlungsmöglichkeiten und Fristen im Rentenpruefer."
+description: "Wenn es um beitraege-luecken-und-nachzahlung in Rentenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # beitraege-luecken-und-nachzahlung

@@ -1,6 +1,6 @@
 ---
 name: see-002-seeschiff-oder-binnenschiff
-description: "See- und Schifffahrtsrecht: Seeschiff oder Binnenschiff. Seeschiff oder Binnenschiff im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Seeschiff Oder Binnenschiff in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Seeschiff Oder Binnenschiff

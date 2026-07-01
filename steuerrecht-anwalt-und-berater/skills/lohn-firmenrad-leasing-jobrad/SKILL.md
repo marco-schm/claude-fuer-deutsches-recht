@@ -1,6 +1,6 @@
 ---
 name: lohn-firmenrad-leasing-jobrad
-description: "JobRad Dienstrad Leasingmodell steuerliche Behandlung. Anwendungsfall AG-Leasing eines Fahrrads oder E-Bikes Überlassung an AN durch Gehaltsumwandlung Sachbezug von einem Viertel Prozent. Methodik Prüfung Konfiguration Leasingvertrag. Output Lohn-Abrechnung mit JobRad."
+description: "Wenn es um JobRad / Dienstrad — Steuerliche Behandlung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # JobRad / Dienstrad — Steuerliche Behandlung

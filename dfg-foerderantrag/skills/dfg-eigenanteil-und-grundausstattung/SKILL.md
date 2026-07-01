@@ -1,6 +1,6 @@
 ---
 name: dfg-eigenanteil-und-grundausstattung
-description: "Eigenanteil und Grundausstattung der Hochschule sauber von DFG-Förderung abgrenzen: Was muss die Hochschule stellen (Buero, Standardrechner, Sekretariat, Bibliothek), was darf die DFG finanzieren (projektspezifische Geraete, Personal ueber Stelleninhaber hinaus, Verbrauch). Hochschulleitung-Besta..."
+description: "Wenn es um Eigenanteil und Grundausstattung in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Eigenanteil und Grundausstattung

@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Fachanwalt Bank- und Kapitalmarktrecht: wählt den nächsten Spezial-Skill nach Engpass (Widerrufsfrist Verbraucherdarlehen 14 Tage § 355 BGB, Darlehensvertrag, Wertpapierorder, Beratungsprotokoll), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anschluss-Routing

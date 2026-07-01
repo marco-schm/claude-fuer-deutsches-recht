@@ -1,6 +1,6 @@
 ---
 name: workflow-dublin-geas-start
-description: "Dublin/GEAS Start: Prüfungslinie für Migrationsrecht: prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output."
+description: "Wenn es um Dublin/GEAS Start: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dublin/GEAS Start: Prüfungslinie für Migrationsrecht

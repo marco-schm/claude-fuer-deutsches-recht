@@ -1,6 +1,6 @@
 ---
 name: widerspruch-und-eilrechtsschutz-schule
-description: "Baut Widerspruch und Eilantrag im Schulrecht im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Widerspruch Und Eilrechtsschutz Schule in Schulrecht der Bundesländer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Widerspruch Und Eilrechtsschutz Schule

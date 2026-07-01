@@ -1,6 +1,6 @@
 ---
 name: bho-156-zuwendung-an-verband-titel-pruefen
-description: "Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Titel prüfen. Titel prüfen für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Zuwendung An Verband Titel Pruefen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zuwendung An Verband Titel Pruefen

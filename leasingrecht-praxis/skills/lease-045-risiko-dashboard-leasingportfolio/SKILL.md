@@ -1,6 +1,6 @@
 ---
 name: lease-045-risiko-dashboard-leasingportfolio
-description: "Leasingrecht: Risiko-Dashboard Leasingportfolio mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Risiko-Dashboard Leasingportfolio in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Risiko-Dashboard Leasingportfolio

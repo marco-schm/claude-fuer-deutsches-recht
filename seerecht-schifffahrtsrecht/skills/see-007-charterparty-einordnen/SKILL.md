@@ -1,6 +1,6 @@
 ---
 name: see-007-charterparty-einordnen
-description: "See- und Schifffahrtsrecht: Charterparty einordnen. Charterparty einordnen im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Charterparty Einordnen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Charterparty Einordnen

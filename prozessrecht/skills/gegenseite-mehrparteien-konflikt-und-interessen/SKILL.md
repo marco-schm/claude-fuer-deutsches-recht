@@ -1,6 +1,6 @@
 ---
 name: gegenseite-mehrparteien-konflikt-und-interessen
-description: "Gegenseite: Mehrparteienkonflikt und Interessenmatrix im Prozessrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Gegenseite: Mehrparteienkonflikt und Interessenmatrix in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gegenseite: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: tracking-pixel-cookies
-description: "Wahlkampfrecht Praxis: Kampagnenwebsite, Pixel, Conversiontracking und Cookies prüfen im Wahlkampfrecht."
+description: "Wenn es um Tracking Pixel Cookies in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tracking Pixel Cookies

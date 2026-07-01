@@ -1,6 +1,6 @@
 ---
 name: mehrjahresroadmap-fristennotiz-fz
-description: "Mehrjahresroadmap: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Mehrjahresroadmap: Fristennotiz und nächster Schritt in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mehrjahresroadmap Fristennotiz Fz; Arbeitsfeld: Forschungszulage-Antragstellung."
 ---
 
 # Mehrjahresroadmap: Fristennotiz und nächster Schritt

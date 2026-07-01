@@ -1,6 +1,6 @@
 ---
 name: qa-kanzleiweit-templating-praxis-verwalter
-description: "Skills kanzleiweit unter QA-Kontrolle halten: zentrale Skill-Bibliothek, Versionsverwaltung, Änderungsfreigaben, Validatoren, Tests. Prüfraster für ausreichende Qualitaet bevor ein Skill in Produktion geht im Kanzlei Builder Hub."
+description: "Wenn es um Skill-QA kanzleiweit in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Skill-QA kanzleiweit

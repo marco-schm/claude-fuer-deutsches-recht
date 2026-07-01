@@ -1,6 +1,6 @@
 ---
 name: rechtsberatung-uebergabe-schriftsatz-brief-memo-bausteine-status
-description: "Übergabe: Schriftsatz-, Brief- und Memo-Bausteine im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Übergabe: Schriftsatz-, Brief- und Memo-Bausteine in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Übergabe: Schriftsatz-, Brief- und Memo-Bausteine

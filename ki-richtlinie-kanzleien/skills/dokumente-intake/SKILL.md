@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für KI-Richtlinie für Kanzleien: sortiert KI-Richtlinie intern, AVV-Mustertext, Mandantenhinweis, prüft Datum, Absender, Frist und Beweiswert (Tool-Bewertung, AVV-Dokumentation); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Kanzleirichtlinien für digitale Werkzeuge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

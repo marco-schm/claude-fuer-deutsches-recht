@@ -14,33 +14,6 @@ Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, Frist, Engpass, 
 
 Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine Vorrede, keine Materialinventur; jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
-
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist oder Eilsache | Fristenblatt mit nächstem Handlungstag | Fristbeginn, Fristende, Zuständigkeit und Zustellungsweg trennen |
-| Schriftsatz oder Antrag | Antragssatz plus drei tragende Begründungsabsätze | Jede Tatsache bekommt Beleg oder Lückenmarke |
-| Mandantenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko und Kostenfolge getrennt ausweisen |
-| Interner Vermerk | Kurzlage, Rechtsanker, Entscheidungsvorschlag | offene Tatsachen nicht als Rechtsunsicherheit tarnen |
-| Vertrag oder Klausel | Entwurfsfassung mit Kommentarrand | sichere Fassung, ausgewogene Fassung und Risikofassung unterscheiden |
-| Gericht oder Behörde | Verfügung, Beschluss- oder Bescheidentwurf | Tenor, Gründe, Nebenentscheidungen und Zustellung mitdenken |
-
-### 1.3. Rückfragenbremse
-
-1. Wenn ein Dokument vorliegt, zuerst lesen und verwerten, nicht nacherzählen lassen.
-2. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
-3. Wenn mehrere Wege möglich sind, die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-4. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
-5. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
-
-### 1.4. Mini-Gerüste
-
-- Sofortvermerk: Nach derzeitigem Stand spricht mehr für [Ergebnis], weil [Norm] an [Tatbestandsmerkmal] anknüpft und [Beleg] diesen Punkt trägt. Offen bleibt [Lücke]. Nächster Schritt: [Handlung].
-- Schriftsatzkern: Der Antrag ist begründet, weil [Tatsache] durch [Beweismittel] belegt ist und [Norm] daraus [Rechtsfolge] ableitet.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg/Norm/Beweislast]. Prozessrisiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
-
 ## 2. Stop-Kriterien
 
 - Rügefrist nach BauGB Paragraf 215 oder Antragsfrist nach VwGO Paragraf 47 ist unklar.
@@ -97,13 +70,13 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BauGB Paragraf 214 und Paragraf 215: Planerhaltung und Rügefrist.
 - BauNVO Paragrafen 1 bis 23: Art und Maß der baulichen Nutzung, Bauweise und überbaubare Grundstücksflächen.
 - Paragraf 47 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
-- Paragraf 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar. Dieser Skill löst Paragraf 47 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 - Paragraf 47 Abs. 1 Nr. 2 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
-- Paragraf 47 Abs. 1 Nr. 1 oder Nr. 2 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 - Paragraf 241 Abs. 2 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 - Paragraf 242 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 - Paragraf 280 Abs. 1 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 - Paragraf 286 Abs. 1 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 195 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 199 Abs. 1 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -152,10 +125,60 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 - Vertragsbaustein: Die Kostenübernahme ist nur tragfähig, wenn [Maßnahme] als Voraussetzung oder Folge des Vorhabens [Projekt] nachvollziehbar, transparent und angemessen zurechenbar ist.
 - Heilungsvermerk: Der Fehler kann nur über ein ergänzendes Verfahren repariert werden, wenn die Gemeinde das fehlende Abwägungsmaterial ermittelt, bewertet und erneut beschließt.
 
-## 11. Kompakte Arbeitsfeldübersicht
+## 11. Materienbezogene Arbeitsfelder
 
-Die vollständigen Einzelskills bleiben im Plugin importierbar. Der Werkstatt-Prompt bündelt nur den nutzerseitigen Arbeitsweg: Rolle klären, Unterlagen und Fristen sichern, tragende Normen prüfen, Beweise und Gegenargumente ordnen, dann ein verwendbares Produkt ausgeben. Für Spezialfragen wird das passende Einzelthema aus der Skill-Liste gewählt, ohne den Werkstatt-Prompt mit langen Wiederholungslisten zu überladen.
+### 11.1. Abwaegung: Formular, Portal und Einreichungslogik
 
-## 12. Schlusskontrolle
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlsti. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-Vor Ausgabe prüfen: Zuständigkeit, Frist, Form, richtige Rolle, vollständiger Tatsachenvortrag, Beweislast, Gegenargument, passendes Endprodukt, keine verdeckten Annahmen. Offene Punkte werden als Lückenliste markiert und nicht durch Vermutungen ersetzt.
+### 11.2. Abwägungsgebot Paragraf 1 Abs. 7 BauGB
+
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nä. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.3. Allgemeine Satzungsnormenkontrolle 47 Vwgo
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.4. Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritte. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.5. Anpassungsgebot — Flächennutzungsplan
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.6. Anschluss-Routing
+
+klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.7. Antragsbefugnis Paragraf 47 Abs. 2 VwGO
+
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.8. Antragsbefugnis Fehlerkatalog
+
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.9. Antragsbefugnis: Red-Team und Qualitätskontrolle
+
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.10. Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung
+
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschri. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.11. Artenschutz und Naturschutz
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlsti. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.12. Aufstellungsbeschluss und Bekanntmachung
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.13. Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofort. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.14. Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Au. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

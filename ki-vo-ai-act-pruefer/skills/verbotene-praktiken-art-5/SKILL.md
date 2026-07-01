@@ -1,6 +1,6 @@
 ---
 name: verbotene-praktiken-art-5
-description: "Unternehmen prüft ob ein KI-Einsatz in den Bereich der absolut verbotenen KI-Praktiken faellt. Art. 5 KI-VO Verbotskatalog. Prüfraster: alle acht verbotenen Praktiken subliminale Techniken Vulnerabilitaetsausnutzung Social Scoring Predictive Policing biometrisches Categorisierung Echtzeit-RBI öff..."
+description: "Wenn es um Verbotene Praktiken — Art. 5 europäischer Technikregulierungsrahmen (Entscheidungsbaum) in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verbotene Praktiken — Art. 5 KI-VO (Entscheidungsbaum)

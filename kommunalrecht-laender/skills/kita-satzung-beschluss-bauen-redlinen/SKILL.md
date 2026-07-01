@@ -1,6 +1,6 @@
 ---
 name: kita-satzung-beschluss-bauen-redlinen
-description: "der Länder: Kita-Satzung: Landesrecht routen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kita Satzung Landesrecht Routen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kita Satzung Landesrecht Routen

@@ -1,6 +1,6 @@
 ---
 name: vfgr-bundestreue-foederalismus
-description: "Spezialfall Bundestreue und Foederalismus: ungeschriebener Verfassungsgrundsatz, Pflicht zur Rücksicht. Prüfraster für Bund-Länder-Konflikte und Klagen Karlsruhe im Verfassungsrecht."
+description: "Wenn es um VfgR: Bundestreue Foederalismus in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VfgR: Bundestreue Foederalismus

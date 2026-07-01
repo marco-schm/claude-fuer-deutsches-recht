@@ -1,6 +1,6 @@
 ---
 name: buergschaft-und-gewaehrleistung-umschi
-description: "Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Umschichtung simulieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Buergschaft Und Gewaehrleistung Umschi in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergschaft Und Gewaehrleistung Umschi

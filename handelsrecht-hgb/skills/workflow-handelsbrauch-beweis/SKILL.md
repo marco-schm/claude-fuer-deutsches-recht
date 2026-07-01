@@ -1,6 +1,6 @@
 ---
 name: workflow-handelsbrauch-beweis
-description: "Prüft Handelsbrauch, Verkehrssitte, kaufmännisches Bestätigungsschreiben und Beweisfragen im Handelsrecht Hgb."
+description: "Wenn es um Handelsbrauch und Beweis in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsbrauch und Beweis

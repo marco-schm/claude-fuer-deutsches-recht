@@ -1,6 +1,6 @@
 ---
 name: digitale-gesundheitsanwendungen-diga-antrag-und-erprobung
-description: "GKV-Leistungsanspruch auf DiGA (§ 33a SGB V): Verzeichnis, Verordnung, Freischaltung, Erprobungsphase und Nutzenbewertung durch BfArM im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung

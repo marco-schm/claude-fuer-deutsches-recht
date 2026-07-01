@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-warennummer-hs-cn-taric-einreihung
-description: "Wareneinreihung nach Harmonisiertem System (HS) Kombinierter Nomenklatur (KN) und TARIC: Anwendung der Allgemeinen Vorschriften (AV 1-6) ErlBem und Einreihungsverordnungen. Typische Problemfelder wie Sets Teile Zubehoer Konfektionierung und Mischprodukte. Output: Einreihungsvermerk mit Normbegrün..."
+description: "Wenn es um Wareneinreihung HS/KN/TARIC: Allgemeine Vorschriften und Problemfelder in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wareneinreihung HS/KN/TARIC: Allgemeine Vorschriften und Problemfelder

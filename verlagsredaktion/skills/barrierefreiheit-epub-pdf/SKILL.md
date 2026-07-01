@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-epub-pdf
-description: "Prüft Verlagsoutputs auf Struktur, Alt-Texte, Tabellenlesbarkeit, Ueberschriftenlogik, PDF- und EPUB-Zugaenglichkeit im Verlagsredaktion."
+description: "Wenn es um Barrierefreiheit EPUB/PDF in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Barrierefreiheit EPUB/PDF

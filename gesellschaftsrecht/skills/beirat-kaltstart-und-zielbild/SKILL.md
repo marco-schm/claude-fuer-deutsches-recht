@@ -1,6 +1,6 @@
 ---
 name: beirat-kaltstart-und-zielbild
-description: "Beirat Kaltstart Und Zielbild: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad"
+description: "Wenn es um Beirat Kaltstart Und Zielbild in Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beirat Kaltstart Und Zielbild

@@ -1,6 +1,6 @@
 ---
 name: digitaler-nachlass-facebook-bgh-iii-zr-183-17
-description: "Digitaler Nachlass Facebook BGH Iii Zr 183 17: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Digitaler Nachlass Facebook BGH Iii Zr 183 17 in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitaler Nachlass Facebook BGH Iii Zr 183 17

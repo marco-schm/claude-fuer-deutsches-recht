@@ -1,6 +1,6 @@
 ---
 name: exclusivity-no-shop
-description: "Exclusivity, No-Shop und Prozessdisziplin Skill: entwirft und prüft Exklusivitaet, Break Fees, Fiduciary Out, Prozessverstoss und Kommunikationsregeln."
+description: "Wenn es um Exclusivity No Shop Process Discipline in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Exclusivity No Shop Process Discipline

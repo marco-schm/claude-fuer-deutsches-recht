@@ -1,6 +1,6 @@
 ---
 name: rechtsberatung-internationaler-bezug-und-schnittstellen
-description: "Rechtsberatung: Internationaler Bezug und Schnittstellen im Subsumtions Prüfer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Rechtsberatung: Internationaler Bezug und Schnittstellen in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsberatung: Internationaler Bezug und Schnittstellen
@@ -85,4 +85,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 2. **Rechtsrahmen setzen:** Kollisionsrecht, Zuständigkeit, Fristen, Formfragen prüfen.
 3. **Prüfpunkte abarbeiten:** Anwendbares Recht, Gerichtsstand, Vollstreckung, Drittstaatenproblematik trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und Alternativwegen.
-5. **Anschluss bauen:** Passende weitere Skills vorschlagen (z. B. eu-vorabentscheidung-pruefen, spezial-europarecht-fristen-form-und-zuständigkeit).
+5. **Anschluss bauen:** Passende weitere Skills vorschlagen (z. B. eu-vorabentscheidung-falsche-wiese, spezial-europarecht-fristen-form-und-zuständigkeit).

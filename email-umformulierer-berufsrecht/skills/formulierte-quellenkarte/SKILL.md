@@ -1,6 +1,6 @@
 ---
 name: formulierte-quellenkarte
-description: "Formulierte Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Formulierte Quellenkarte in E-Mail-Umformulierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Formulierte Quellenkarte

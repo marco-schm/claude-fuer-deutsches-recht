@@ -1,6 +1,6 @@
 ---
 name: db-045-beweissicherung-durch-testabruf
-description: "Datenbankrecht: Beweissicherung durch Testabruf-Werkzeug mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Beweissicherung durch Testabruf-Werkzeug in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Beweissicherung durch Testabruf-Werkzeug

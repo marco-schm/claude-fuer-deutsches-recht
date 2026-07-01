@@ -1,6 +1,6 @@
 ---
 name: vk-aufklaerung-vergleich
-description: "VK-Aufklärung und prozessuale Erledigung im Vergabenachprüfungsverfahren: Fragen der Vergabekammer beantworten, Akteneinsicht nach § 165 GWB nutzen, Abhilfe nach § 168 GWB konkretisieren und Rücknahme-, Erledigungs-, Kosten- oder OLG-Beschwerdeszenario sauber vorbereiten."
+description: "Wenn es um VK-Aufklärung, Abhilfe und prozessuale Erledigung in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # VK-Aufklärung, Abhilfe und prozessuale Erledigung

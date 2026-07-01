@@ -1,6 +1,6 @@
 ---
 name: fristen-form-zustaendigkeit-rechtsweg
-description: "Einfache: Fristen, Form, Zuständigkeit und Rechtsweg im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstuf..."
+description: "Wenn es um Einfache: Fristen, Form, Zuständigkeit und Rechtsweg in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einfache: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt IT-Recht: stimmt Adressat (Auftraggeber, Software-Hersteller, Cloud-Anbieter), Frist (Mängelfristen Software) und Form auf den Zweck ab — typische Outputs: Software-Vertrag, SLA-Markup, Mängelklage Software."
+description: "Wenn es um Output wählen in Fachanwalt It Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: nis2-bsi-incident
-description: "IT-Sicherheitsmeldungen: NIS2/BSI, Geschäftsleitung, Incident-Kategorien, Fristen, Nachbericht und Beweissicherung im Berichtspflichten."
+description: "Wenn es um NIS2/BSI Incident Reporting in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NIS2/BSI Incident Reporting

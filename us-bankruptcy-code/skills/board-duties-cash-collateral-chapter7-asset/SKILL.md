@@ -1,6 +1,6 @@
 ---
 name: board-duties-cash-collateral-chapter7-asset
-description: "Prüft US board duties near insolvency, fiduciary risk, filing decision, lender pressure and restructuring alternatives im US Bankruptcy Code."
+description: "Wenn es um Board Duties and Zone of Insolvency in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Board Duties and Zone of Insolvency

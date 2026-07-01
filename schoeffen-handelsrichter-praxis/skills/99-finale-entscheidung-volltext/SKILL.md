@@ -1,6 +1,6 @@
 ---
 name: 99-finale-entscheidung-volltext
-description: Erzeugt die finale entscheidung als volltext (beratungs-votum mit tenor-vorschlag) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung.
+description: "Wenn es um Finale Entscheidung als Volltext (Beratungs-Votum mit Tenor-Vorschlag) in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Finale Entscheidung als Volltext (Beratungs-Votum mit Tenor-Vorschlag)

@@ -1,6 +1,6 @@
 ---
 name: res-sachen-und-einteilungen
-description: "Römisches Recht: Res Sachen Und Einteilungen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Res Sachen Und Einteilungen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Res Sachen Und Einteilungen

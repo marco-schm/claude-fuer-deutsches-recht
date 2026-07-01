@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-auslaendischer-insolvenzverwalter-in-deutschland
-description: "Rechtsabteilungs-Fachmodul für Ausländischer Insolvenzverwalter in Deutschland: Inzidente Anerkennung, Vertretungsmacht und Nachweisform werden als Checkliste geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Insolvenzrecht."
+description: "Wenn es um Rechtsabteilung: Ausländischer Insolvenzverwalter in Deutschland in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsabteilung: Ausländischer Insolvenzverwalter in Deutschland

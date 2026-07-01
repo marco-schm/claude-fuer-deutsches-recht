@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-bmf-ankoppelung-strategie
-description: "BMF-Ankoppelung und strategische Auseinandersetzung mit den Verwaltungsanweisungen zu Paragraf 3a EStG. Analysiert das BMF-Schreiben vom 27.04.2017 und nachfolgende Verlautbarungen sowie die Wirkungen des Wachstumschancengesetzes und weiterer Gesetzgebungsvorhaben mit Sanierungsbezug. Liefert Verwaltung..."
+description: "Wenn es um Sanierungsgewinn – BMF-Ankoppelung und Strategie in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sanierungsgewinn Bmf Ankoppelung Strategie; Arbeitsfeld: Großkanzlei Corporate/M&A."
 ---
 
 # Sanierungsgewinn – BMF-Ankoppelung und Strategie

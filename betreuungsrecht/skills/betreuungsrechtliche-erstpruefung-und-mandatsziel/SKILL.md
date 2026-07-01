@@ -1,6 +1,6 @@
 ---
 name: betreuungsrechtliche-erstpruefung-und-mandatsziel
-description: "Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Betreuungsrecht."
+description: "Wenn es um Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel

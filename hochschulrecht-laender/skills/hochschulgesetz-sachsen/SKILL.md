@@ -1,6 +1,6 @@
 ---
 name: hochschulgesetz-sachsen
-description: "Prüft Hochschulrecht in Sachsen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder."
+description: "Wenn es um Hochschulgesetz Sachsen in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hochschulgesetz Sachsen

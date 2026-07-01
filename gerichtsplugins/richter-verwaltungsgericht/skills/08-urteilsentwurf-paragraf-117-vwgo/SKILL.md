@@ -1,6 +1,6 @@
 ---
 name: 08-urteilsentwurf-paragraf-117-vwgo
-description: "Urteilsentwurf Paragraf 117 VwGO: Tenor, Tatbestand (Sachverhalt), Entscheidungsgründe (Zulässigkeit, Begründetheit), Nebenentscheidungen Paragraf 154 VwGO, Streitwert"
+description: "Wenn es um 08 Urteilsentwurf Paragraf 117 Vwgo in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # 08 Urteilsentwurf Paragraf 117 Vwgo

@@ -1,6 +1,6 @@
 ---
 name: bmg-krankenversicherungs-und-leistungsrecht-sgb-v
-description: "Sachbereich Krankenversicherungs- und Leistungsrecht (SGB V) im Geschäftsbereich BMG: Normbestand (SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.); Akteure (GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.); EU-Bezug (EU-Patientenrechte-RL; HTA-VO.); typische Legistik-Aufgaben und Pru"
+description: "Wenn es um Krankenversicherungs- und Leistungsrecht (SGB V) (BMG) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmg Krankenversicherungs Und Leistungsrecht Sgb V; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Krankenversicherungs- und Leistungsrecht (SGB V) (BMG)

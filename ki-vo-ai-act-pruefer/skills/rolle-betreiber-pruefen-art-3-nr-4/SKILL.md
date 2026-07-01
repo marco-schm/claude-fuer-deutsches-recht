@@ -1,6 +1,6 @@
 ---
 name: rolle-betreiber-pruefen-art-3-nr-4
-description: "Unternehmen kauft oder lizenziert ein KI-System von einem Anbieter und fragt: Sind wir Betreiber im Sinne der KI-VO und was muessen wir tun? Art. 3 Nr. 4 KI-VO Betreiber-Definition. Prüfraster: Verwendung in eigener Verantwortung Abgrenzung zu persönlicher nicht beruflicher Nutzung Abgrenzung zu..."
+description: "Wenn es um Rolle-Check: Betreiber — Art. 3 Nr. 4 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rolle-Check: Betreiber — Art. 3 Nr. 4 KI-VO

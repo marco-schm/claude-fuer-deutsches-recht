@@ -1,6 +1,6 @@
 ---
 name: pacht-leihe-und-verwahrung
-description: "Pacht §§ 581 ff., Leihe §§ 598 ff. und Verwahrung §§ 688 ff. BGB: Pflichten, Haftung und Abgrenzung."
+description: "Wenn es um Pacht, Leihe und Verwahrung BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pacht Leihe Und Verwahrung; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Pacht, Leihe und Verwahrung BGB

@@ -1,6 +1,6 @@
 ---
 name: finanzierungsrunde-seed
-description: "Führt durch Seed-Runde: Term Sheet, Bewertung, Verwässerung, Cap Table, Satzung, SHA, Closing im Gesellschaftsgruender."
+description: "Wenn es um Seed-Finanzierungsrunde in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Seed-Finanzierungsrunde

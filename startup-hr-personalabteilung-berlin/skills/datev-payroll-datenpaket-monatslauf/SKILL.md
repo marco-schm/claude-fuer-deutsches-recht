@@ -1,6 +1,6 @@
 ---
 name: datev-payroll-datenpaket-monatslauf
-description: "Berliner Start-up-HR: Monatslauf an Lohnbuchhaltung/DATEV: Neueintritte, Austritte, variable Vergütung, Fehlzeiten, Sachbezüge, Benefits und Freigabe. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR..."
+description: "Wenn es um DATEV Payroll Datenpaket Monatslauf in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DATEV Payroll Datenpaket Monatslauf

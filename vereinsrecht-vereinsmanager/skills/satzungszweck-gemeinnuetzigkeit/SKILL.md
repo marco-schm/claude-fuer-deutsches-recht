@@ -1,6 +1,6 @@
 ---
 name: satzungszweck-gemeinnuetzigkeit
-description: "Gleicht Vereinszweck mit AO-Gemeinnützigkeit, Selbstlosigkeit, Ausschließlichkeit, Unmittelbarkeit und Vermögensbindung ab im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Satzungszweck und Gemeinnützigkeit in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Satzungszweck und Gemeinnützigkeit

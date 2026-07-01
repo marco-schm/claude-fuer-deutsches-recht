@@ -1,6 +1,6 @@
 ---
 name: force-majeure-and-change-in-law
-description: "Force Majeure und Change-in-Law-Klauseln im China-Kontext: CN-Civil-Code Art. 180 Force Majeure, CISG Art. 79, Exportverbot als Force-Majeure-Ereignis (streitig), Change-in-Law-Klauseln bei Exportkontrollen/Sanktionen, Vertragsanpassung § 313 BGB, Haftungsausschluss und Schadensersatz. Output: Kl..."
+description: "Wenn es um Force Majeure und Change-in-Law China: Klauselgestaltung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Force Majeure und Change-in-Law China: Klauselgestaltung

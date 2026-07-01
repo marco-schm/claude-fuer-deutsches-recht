@@ -1,6 +1,6 @@
 ---
 name: schnittstelle-formular-portal-und-einreichung
-description: "Schnittstelle: Formular, Portal und Einreichungslogik: Schnittstelle: Formular, Portal und Einreichungslogik."
+description: "Wenn es um Schnittstelle: Formular, Portal und Einreichungslogik in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schnittstelle: Formular, Portal und Einreichungslogik

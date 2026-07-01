@@ -1,6 +1,6 @@
 ---
 name: mitarbeiter
-description: "Mitarbeiter: vertiefter Berufsrechts-Skill für Steuerberater; prüft Mitarbeiter im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
+description: "Wenn es um Mitarbeiter in Berufsrecht Steuerberater geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mitarbeiter

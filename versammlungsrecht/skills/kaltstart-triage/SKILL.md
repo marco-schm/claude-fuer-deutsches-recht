@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Allgemeiner Kaltstart im Versammlungsrecht: Land und Ort, Art der Versammlung, Frist, Behörde, Risiko und Ziel klären, dann passende Fachmodule und nächsten Output auswählen."
+description: "Wenn es um Einsatzleitstelle für den ersten Kontakt in Versammlungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einsatzleitstelle für den ersten Kontakt

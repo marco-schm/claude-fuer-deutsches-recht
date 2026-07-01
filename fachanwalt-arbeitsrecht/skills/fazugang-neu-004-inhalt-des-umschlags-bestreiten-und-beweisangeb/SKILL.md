@@ -1,6 +1,6 @@
 ---
 name: fazugang-neu-004-inhalt-des-umschlags-bestreiten-und-beweisangeb
-description: "Bestreiten des Inhalts eines zugestellten Umschlags: zulässige Einwände, Beweislast des Arbeitgebers für Schriftform und Inhalt, Gegenbeweis-Möglichkeiten, Prozessstrategie, Abgrenzung zu unzulässiger Schutzbehauptung: Bestreiten des Inhalts eines zugestel..."
+description: "Wenn es um Fazugang Neu 004 Inhalt Des Umschlags Bestreiten Und Beweisangeb in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bestreiten des Inhalts eines zugestellten Umschlags: zulässige Einwände, Beweislast des Arbeitgebers für Schriftform und Inhalt, Gegenbeweis-Möglichkeiten, Prozessstrategie, Abgrenzung zu unzulässiger Schutzbehauptung.

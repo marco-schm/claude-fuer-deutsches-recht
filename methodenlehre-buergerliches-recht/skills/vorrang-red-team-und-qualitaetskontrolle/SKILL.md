@@ -1,6 +1,6 @@
 ---
 name: vorrang-red-team-und-qualitaetskontrolle
-description: "Dieses Skill führt eine methodische Red-Team-Analyse und Qualitätskontrolle für juristische Arbeitsergebnisse durch: Es trainiert die Fähigk..."
+description: "Wenn es um Vorrang Red Team Und Qualitaetskontrolle in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dieses Skill führt eine methodische Red-Team-Analyse und Qualitätskontrolle für juristische Arbeitsergebnisse durch

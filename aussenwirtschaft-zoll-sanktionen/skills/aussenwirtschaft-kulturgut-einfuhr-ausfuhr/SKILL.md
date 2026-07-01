@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-kulturgut-einfuhr-ausfuhr
-description: "Rechtliche Anforderungen bei grenzueberschreitender Bewegung von Kulturguetern nach VO (EU) 2019/880 und KGSG: Importlizenz für archaeologische Gegenstande und Kunstwerke ab Schwellenwert, Ausfuhrgenehmigung nach KGSG, UNESCO-Konvention-Sorgfaltspflichten. Output: Kulturgut-Compliance-Prüfberich..."
+description: "Wenn es um Kulturgutschutz: Einfuhr- und Ausfuhranforderungen für Kunstwerke und Antiquitaeten in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Kulturgutschutz: Einfuhr- und Ausfuhranforderungen für Kunstwerke und Antiquitaeten

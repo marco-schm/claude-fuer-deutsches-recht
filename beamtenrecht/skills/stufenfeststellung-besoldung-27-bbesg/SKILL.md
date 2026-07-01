@@ -1,6 +1,6 @@
 ---
 name: stufenfeststellung-besoldung-27-bbesg
-description: "Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe nach § 27 BBesG bzw. den landesrechtlichen Parallelvorschriften. Klaert Anerkennung beruflicher Vorzeiten Wartezeiten Stufenaufstieg Verzoegerungstatbestaende Hemmungen durch Beurlaubung Elternzeit und Teilzeitbeschaeftigung. Behand..."
+description: "Wenn es um Stufenfeststellung Besoldung nach Paragraf 27 BBesG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stufenfeststellung Besoldung nach § 27 BBesG

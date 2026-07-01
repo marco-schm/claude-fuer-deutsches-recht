@@ -1,6 +1,6 @@
 ---
 name: ki-vo-anhang-iii-robotik-usecases
-description: "Prüft Anhang-III-Fälle bei Robotik: Beschäftigung, Bildung, Gesundheit/Versorgung, öffentliche Leistungen, Grenzkontrolle, Strafverfolgung und Justiznähe."
+description: "Wenn es um Anhang III Robotik Use Cases in robotik-recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Ki Vo Anhang Iii Robotik Usecases; Arbeitsfeld: robotik-recht."
 ---
 
 # Anhang III Robotik Use Cases

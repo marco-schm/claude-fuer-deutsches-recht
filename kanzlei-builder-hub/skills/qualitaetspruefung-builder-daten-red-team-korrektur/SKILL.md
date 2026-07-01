@@ -1,6 +1,6 @@
 ---
 name: qualitaetspruefung-builder-daten-red-team-korrektur
-description: "Qualitaet installierter Skills prüfen: Normaktualitaet, Description-Qualitaet, Struktur-Compliance. Normen: technisch/intern, SKILL.md-Schema. Prüfraster: Description-Laenge, Normverankerung, Frontmatter-Vollständigkeit. Output: Qualitaetsprüfungs-Bericht Skills. Abgrenzung: nicht inhaltliche Rec..."
+description: "Wenn es um Skills-QA in Kanzlei-Builder-Hub geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Skills-QA

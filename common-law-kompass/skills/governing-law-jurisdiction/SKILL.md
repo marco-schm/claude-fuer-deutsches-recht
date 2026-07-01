@@ -1,6 +1,6 @@
 ---
 name: governing-law-jurisdiction
-description: "Vertragsparteien muessen Rechtswahlklausel Gerichtsstand und Durchsetzbarkeit für grenzüberschreitenden Vertrag klären. UK US oder deutsches Recht. Prüfraster Rechtswahl-Klausel Forum-Venue-Service Arbitrations-Option Vollstreckbarkeit EU/UK/US. Output Rechtswahl-Empfehlung Klausel-Entwurf Risik..."
+description: "Wenn es um Governing Law, Jurisdiction und Forum in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Governing Law, Jurisdiction und Forum

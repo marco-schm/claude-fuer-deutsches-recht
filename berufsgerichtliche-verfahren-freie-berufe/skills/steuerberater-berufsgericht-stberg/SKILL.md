@@ -1,6 +1,6 @@
 ---
 name: steuerberater-berufsgericht-stberg
-description: "Steuerberater Berufsgericht StBerG: prüft Warnung, Verweis, Geldbuße, Berufsverbot und Ausschließung nach StBerG in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Wenn es um Steuerberater Berufsgericht StBerG in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater Berufsgericht StBerG

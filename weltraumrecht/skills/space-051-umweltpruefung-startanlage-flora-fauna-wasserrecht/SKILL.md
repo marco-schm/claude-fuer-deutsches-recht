@@ -1,6 +1,6 @@
 ---
 name: space-051-umweltpruefung-startanlage-flora-fauna-wasserrecht
-description: "Weltraumrecht: Umweltprüfung Startanlage Flora Fauna Wasserrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Umweltprüfung Startanlage Flora Fauna Wasserrecht in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Umweltprüfung Startanlage Flora Fauna Wasserrecht

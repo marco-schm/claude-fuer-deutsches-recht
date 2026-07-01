@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Umweltrecht: sortiert UVP-Bericht, Genehmigungsbescheid, Stellungnahmen Umweltverbände, prüft Datum, Absender, Frist und Beweiswert (Immissionsmessungen, Bodengutachten); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

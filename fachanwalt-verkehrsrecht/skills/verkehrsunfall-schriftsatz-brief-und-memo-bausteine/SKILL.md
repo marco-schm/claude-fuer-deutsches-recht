@@ -1,6 +1,6 @@
 ---
 name: verkehrsunfall-schriftsatz-brief-und-memo-bausteine
-description: "Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine: Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Wenn es um Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Verkehrsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine

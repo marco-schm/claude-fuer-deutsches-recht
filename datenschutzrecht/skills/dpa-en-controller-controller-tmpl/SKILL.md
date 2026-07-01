@@ -1,6 +1,6 @@
 ---
 name: dpa-en-controller-controller-tmpl
-description: "English language Controller-to-Controller data sharing agreement template used between two independent controllers exchanging personal data under the GDPR: English language Controller-to-Controller data sharing agreement template used between two independen..."
+description: "Wenn es um Dpa En Controller Controller Tmpl in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # English language Controller-to-Controller data sharing agreement template used between two independent controllers exchanging personal data under the GDPR

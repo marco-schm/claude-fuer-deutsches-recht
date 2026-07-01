@@ -1,6 +1,6 @@
 ---
 name: portaltexte-schriftsatz-brief-und-memo-bausteine
-description: "Portaltexte: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine

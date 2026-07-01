@@ -1,6 +1,6 @@
 ---
 name: zivilklage-tk-abhoerschnittstellen
-description: "Zivilrechtliche TK-Klagen: Entgeltforderungen, Rückzahlung, Schadensersatz, SLA, AGB, Minderung und Verbraucher-/Businessstreit im Telekommunikationsrecht."
+description: "Wenn es um Zivilklage: Entgelt, Schaden, Vertrag in Telekommunikationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zivilklage: Entgelt, Schaden, Vertrag

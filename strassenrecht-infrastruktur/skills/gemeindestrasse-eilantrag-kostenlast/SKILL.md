@@ -1,6 +1,6 @@
 ---
 name: gemeindestrasse-eilantrag-kostenlast
-description: "Gemeindestraße: Eilantrag skizzieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Gemeindestrasse Eilantrag Skizzieren in Straßenrecht und Infrastruktur geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gemeindestrasse Eilantrag Skizzieren

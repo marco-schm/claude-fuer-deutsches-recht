@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Verfassungsrecht: stimmt Adressat (Beschwerdeführer, Beschwerdegegner, BVerfG), Frist (§ 93 BVerfGG 1 Monat Verfassungsbeschwerde) und Form auf den Zweck ab — typische Outputs: Verfassungsbeschwerde, Vorlagebeschluss, Stellungnahme."
+description: "Wenn es um Output wählen in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

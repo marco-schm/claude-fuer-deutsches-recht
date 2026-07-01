@@ -1,6 +1,6 @@
 ---
 name: transparenzgesetz-widerspruch-bauen
-description: "Informationsfreiheit und Presseauskunft: Transparenzgesetz: Widerspruch bauen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Transparenzgesetz Widerspruch Bauen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transparenzgesetz Widerspruch Bauen

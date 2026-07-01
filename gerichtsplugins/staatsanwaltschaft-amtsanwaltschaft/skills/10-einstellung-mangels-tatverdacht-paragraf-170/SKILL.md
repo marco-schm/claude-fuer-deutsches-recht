@@ -1,6 +1,6 @@
 ---
 name: 10-einstellung-mangels-tatverdacht-paragraf-170
-description: "Einstellung des Verfahrens mangels hinreichenden Tatverdachts (Paragraf 170 Abs. 2 StPO), Abschlussverfuegung, Bescheid an Anzeigeerstatter und Beschuldigten, Negativ-Prognose, Wiederaufnahme"
+description: "Wenn es um 10 Einstellung Mangels Tatverdacht Paragraf 170 in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 10 Einstellung Mangels Tatverdacht Paragraf 170

@@ -1,6 +1,6 @@
 ---
 name: planfeststellung-dokumentenmatrix-und-lueckenliste
-description: "Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung in Verkehrs- und Infrastrukturrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung

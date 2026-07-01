@@ -1,6 +1,6 @@
 ---
 name: credo-glaubensbekenntnis-diakonat-dienst
-description: "Credo und Glaubensbekenntnis: Glaubensartikel und Gehorsamspflicht; CIC can. 750-754; KKK 185-1065; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Credo und Glaubensbekenntnis in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Credo Glaubensbekenntnis Diakonat Dienst; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
 ---
 
 # Credo und Glaubensbekenntnis

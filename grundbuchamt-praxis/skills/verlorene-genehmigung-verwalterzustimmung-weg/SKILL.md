@@ -1,6 +1,6 @@
 ---
 name: verlorene-genehmigung-verwalterzustimmung-weg
-description: "Prüft, wie eine verlorene familiengerichtliche, betreuungsgerichtliche, sanierungsrechtliche oder behördliche Genehmigung grundbuchtauglich ersetzt oder erneut beschafft wird im Grundbuchamt Praxis."
+description: "Wenn es um Verlorene Genehmigung und Ersatznachweis in Grundbuchamt Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verlorene Genehmigung und Ersatznachweis

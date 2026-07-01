@@ -1,6 +1,6 @@
 ---
 name: sexualdelikte-aussage-gegen
-description: "Sexualdelikte: Aussage-gegen-Aussage ohne Abkürzung: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Sexualdelikte: Aussage-gegen-Aussage ohne Abkürzung in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Sexualdelikte Aussage Gegen; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
 ---
 
 # Sexualdelikte: Aussage-gegen-Aussage ohne Abkürzung

@@ -1,6 +1,6 @@
 ---
 name: rechtecheck-urhg-verlg
-description: "Erstellt eine redaktionelle Rechteampel zu UrhG, Verlagsgesetz, Nutzungsrechten, Zitatrecht, Bearbeitung, Zweitveroeffentlichung und Freigaben im Verlagsredaktion."
+description: "Wenn es um Rechtecheck UrhG und Verlagsgesetz in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtecheck UrhG und Verlagsgesetz

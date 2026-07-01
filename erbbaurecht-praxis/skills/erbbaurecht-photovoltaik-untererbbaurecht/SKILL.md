@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-photovoltaik-untererbbaurecht
-description: "Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung im Erbbaurecht Praxis."
+description: "Wenn es um PV, Wärmepumpe, Ladepunkte in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PV, Wärmepumpe, Ladepunkte

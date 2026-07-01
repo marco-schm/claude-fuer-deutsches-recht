@@ -1,6 +1,6 @@
 ---
 name: beschwerde-tk-beweisplan
-description: "Dashboard für Massenbeschwerden: Anbieterwechsel, Störung, Rufnummer, Werbeanruf, Rechnung, Missbrauch und Fristen im Telekommunikationsrecht."
+description: "Wenn es um BNetzA-Beschwerde-Dashboard in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BNetzA-Beschwerde-Dashboard

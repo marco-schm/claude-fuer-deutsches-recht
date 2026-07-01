@@ -1,6 +1,6 @@
 ---
 name: gerichtlicher-mahnbescheid-laie
-description: "Gerichtlicher Mahnbescheid für Laien: führt Laien durch Mahnbescheid, Vollstreckungsbescheid, Widerspruch, Einspruch und Kostenrisiko. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Gerichtlicher Mahnbescheid für Laien in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gerichtlicher Mahnbescheid für Laien

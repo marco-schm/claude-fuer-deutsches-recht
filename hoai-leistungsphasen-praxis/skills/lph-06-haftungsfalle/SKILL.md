@@ -1,6 +1,6 @@
 ---
 name: lph-06-haftungsfalle
-description: "HOAI LPH 6 Vorbereitung der Vergabe: identifiziert typische Haftungsrisiken und Beweisvorsorge; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 6 Vorbereitung der Vergabe: Identifiziert typische haftungsrisiken und beweisvorsorge in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Identifiziert typische haftungsrisiken und beweisvorsorge

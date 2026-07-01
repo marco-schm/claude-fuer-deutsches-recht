@@ -1,6 +1,6 @@
 ---
 name: argumentationsarchitektur-schreiben
-description: "Baut die Argumentationsarchitektur für Schriftsatz, Memo oder Verhandlungsposition. Ordnet These, Norm, Tatsache, Beleg, Gegenargument, Antwort und Ergebnis. Erkennt Sprünge, verdeckte Prämissen, fehlende Beweisangebote und unklare Rechtsfolge und erzeugt eine tragfähige Gliederung im Word Legal..."
+description: "Wenn es um Argumentationsarchitektur Schreiben in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Argumentationsarchitektur Schreiben

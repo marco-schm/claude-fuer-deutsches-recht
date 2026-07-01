@@ -1,6 +1,6 @@
 ---
 name: urhmr-leistungsschutzrecht-presse-spezial
-description: "Spezialfall Leistungsschutzrecht Presseverleger §§ 87f ff: UrhG nach DSM-Reform: Snippet-Lizenz, Aggregator-Plattformen, Vergaberecht. Prüfraster Verlag und Plattform."
+description: "Wenn es um Urhmr Leistungsschutzrecht Presse Spezial in Fachanwalt Urheber Medienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Spezialfall Leistungsschutzrecht Presseverleger §§ 87f ff

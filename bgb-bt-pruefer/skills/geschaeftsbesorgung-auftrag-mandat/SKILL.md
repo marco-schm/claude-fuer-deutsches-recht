@@ -1,6 +1,6 @@
 ---
 name: geschaeftsbesorgung-auftrag-mandat
-description: "Prüft entgeltliche Geschäftsbesorgung § 675 BGB, Anwalts- und Steuerberaterauftrag und Haftung für Beratungsfehler."
+description: "Wenn es um Geschäftsbesorgung, Auftrag und Mandat in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschäftsbesorgung, Auftrag und Mandat

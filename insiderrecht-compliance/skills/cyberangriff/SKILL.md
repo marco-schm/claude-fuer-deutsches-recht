@@ -1,6 +1,6 @@
 ---
 name: cyberangriff
-description: "Prüft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafverfolgung und Koordination mit IT-Forensik im Insiderrecht Compliance."
+description: "Wenn es um Cyberangriff – Insiderrecht und Ad-hoc-Pflicht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Cyberangriff – Insiderrecht und Ad-hoc-Pflicht

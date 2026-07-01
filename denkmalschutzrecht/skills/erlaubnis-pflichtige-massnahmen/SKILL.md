@@ -1,6 +1,6 @@
 ---
 name: erlaubnis-pflichtige-massnahmen
-description: "Erlaubnisvorbehalt für Maßnahmen an Denkmalen: Veränderung, Beseitigung, Verbringung, Umsetzung, Wiederherstellung. Skill erläutert das Antrags- und Erteilungsverfahren, das Verhältnis zur Baugenehmigung (oft kombinierte Erlaubnis), Versagungsgründe und das Ermessen der Behörde, das nach Art. 14 GG eigentumsfreundlich auszuüben ist."
+description: "Wenn es um Erlaubnispflichtige Maßnahmen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erlaubnispflichtige Maßnahmen

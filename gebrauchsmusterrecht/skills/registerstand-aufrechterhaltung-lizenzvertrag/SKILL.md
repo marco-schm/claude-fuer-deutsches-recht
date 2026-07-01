@@ -1,6 +1,6 @@
 ---
 name: registerstand-aufrechterhaltung-lizenzvertrag
-description: "Registerstand, Fälligkeiten und Aufrechterhaltung prüfen: DPMAregister, Laufzeit, Gebühren, Umschreibung, Löschung, Fristen und Portfolioüberwachung im Gebrauchsmusterrecht."
+description: "Wenn es um Registerstand Fristen Aufrechterhaltung in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerstand Fristen Aufrechterhaltung

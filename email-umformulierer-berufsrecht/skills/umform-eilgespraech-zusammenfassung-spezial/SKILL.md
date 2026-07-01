@@ -1,6 +1,6 @@
 ---
 name: umform-eilgespraech-zusammenfassung-spezial
-description: "Spezialfall Zusammenfassung eines Eilgespraechs als E-Mail an Mandant: Sachverhalt, Optionen, Entscheidungsvorschlag, Frist. Prüfraster für Mandant."
+description: "Wenn es um Umform: Eilgespraech-Zusammenfassung in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Umform Eilgespraech Zusammenfassung Spezial; Arbeitsfeld: E-Mail-Umformulierer."
 ---
 
 # Umform: Eilgespraech-Zusammenfassung

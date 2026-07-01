@@ -1,6 +1,6 @@
 ---
 name: mieten-risikoampel-und-gegenargumente
-description: "Mieten: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Mieten: Risikoampel, Gegenargumente und Verteidigungslinien in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mieten: Risikoampel, Gegenargumente und Verteidigungslinien

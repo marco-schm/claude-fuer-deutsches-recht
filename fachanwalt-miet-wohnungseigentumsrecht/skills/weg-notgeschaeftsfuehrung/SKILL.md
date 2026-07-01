@@ -1,6 +1,6 @@
 ---
 name: weg-notgeschaeftsfuehrung
-description: "Notgeschäftsführung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Gefahr im Verzug, Kompetenz, Dokumentation, Kostenerstattung; mit Normprüfung, Beweisen, Fristen, Risikoampel und A..."
+description: "Wenn es um Notgeschäftsführung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notgeschäftsführung: Fachmodul im Miet- und Wohnungseigentumsrecht

@@ -1,6 +1,6 @@
 ---
 name: gartenpflege-baumfaellung
-description: "Gartenpflege/Baumfällung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft laufende Kosten, Instandhaltung, Sondermaßnahme, Verkehrssicherung; mit Normprüfung, Beweisen, Fristen, R..."
+description: "Wenn es um Gartenpflege/Baumfällung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gartenpflege/Baumfällung: Fachmodul im Miet- und Wohnungseigentumsrecht

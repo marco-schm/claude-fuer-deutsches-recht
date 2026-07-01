@@ -1,6 +1,6 @@
 ---
 name: rmap-tatbestand-und-rechtsfolge
-description: "Knotenmodellierung in der Rulemap: jeden Tatbestand als prüfbare Bedingung; jede Rechtsfolge als Aktionsknoten. Konjunktion; Disjunktion; Negation; Schwellenwerte sauber abbilden. Output Tatbestands-Rechtsfolge-Liste mit Knoten-IDs; Datentypen und Prüfnotizen. Anschluss legw-rmap-verweisungen-u..."
+description: "Wenn es um Tatbestand und Rechtsfolge als Knoten modellieren in Legistik-Werkstatt geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Tatbestand und Rechtsfolge als Knoten modellieren

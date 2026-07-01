@@ -1,6 +1,6 @@
 ---
 name: international-subsidiaries
-description: "Prüft internationale Tochtergesellschaften und mehrsprachige Kanäle im Hinweisgeberschutz Compliance."
+description: "Wenn es um International Subsidiaries in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # International Subsidiaries

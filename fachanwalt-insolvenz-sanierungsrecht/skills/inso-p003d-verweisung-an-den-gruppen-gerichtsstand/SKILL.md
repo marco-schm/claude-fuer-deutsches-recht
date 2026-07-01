@@ -1,6 +1,6 @@
 ---
 name: inso-p003d-verweisung-an-den-gruppen-gerichtsstand
-description: "§ 3d InsO (Verweisung an den Gruppen-Gerichtsstand) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 3d InsO (Verweisung an den Gruppen-Gerichtsstand) im Mandat prüfen: Normzweck, Tatbestan..."
+description: "Wenn es um Inso P003d Verweisung An Den Gruppen Gerichtsstand in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 3d InsO (Verweisung an den Gruppen-Gerichtsstand) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

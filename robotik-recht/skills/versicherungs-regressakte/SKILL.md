@@ -1,6 +1,6 @@
 ---
 name: versicherungs-regressakte
-description: "Ordnet Versicherung, Produkthaftpflicht, Cyberversicherung, D&O, Regress gegen Lieferanten und Schadensdokumentation."
+description: "Wenn es um Versicherung und Regress in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Versicherungs Regressakte; Arbeitsfeld: robotik-recht."
 ---
 
 # Versicherung und Regress

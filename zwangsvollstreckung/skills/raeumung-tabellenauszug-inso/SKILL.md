@@ -1,6 +1,6 @@
 ---
 name: raeumung-tabellenauszug-inso
-description: "Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a ZPO Berliner Modell § 885a ZPO beschraenkter Räumungsauftra..."
+description: "Wenn es um Räumung Paragraf 885 ZPO / Berliner Räumung Paragraf 885a ZPO in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Räumung § 885 ZPO / Berliner Räumung § 885a ZPO

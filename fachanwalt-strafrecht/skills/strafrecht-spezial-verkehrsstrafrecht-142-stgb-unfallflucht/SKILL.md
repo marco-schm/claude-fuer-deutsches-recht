@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-verkehrsstrafrecht-142-stgb-unfallflucht
-description: "Unerlaubtes Entfernen vom Unfallort nach Paragraph 142 StGB: Wartepflicht und Nachholobliegenheit. Vier Tatbestandsvarianten Absatz 1 Nummer 1 bis 2 und Absatz 2 Nummer 1 bis 2. Bagatellschaden-St..."
+description: "Wenn es um Unerlaubtes Entfernen vom Unfallort nach Paragraph 142 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unerlaubtes Entfernen vom Unfallort nach Paragraph 142 StGB

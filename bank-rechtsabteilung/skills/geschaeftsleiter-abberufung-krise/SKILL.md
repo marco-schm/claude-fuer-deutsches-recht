@@ -1,6 +1,6 @@
 ---
 name: geschaeftsleiter-abberufung-krise
-description: "Abberufung, Suspendierung oder Ressortentzug von Geschäftsleitern in Banken prüfen: KWG, Organrecht, Dienstvertrag, BaFin-Risiko, Aufsichtsratskompetenz, Ad-hoc-Krise und Kommunikationsplan im Bank-Rechtsabteilung."
+description: "Wenn es um Geschäftsleiterabberufung und Krise in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Geschäftsleiterabberufung und Krise

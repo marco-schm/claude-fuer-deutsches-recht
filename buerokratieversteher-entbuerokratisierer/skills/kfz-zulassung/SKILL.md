@@ -1,6 +1,6 @@
 ---
 name: kfz-zulassung
-description: "Hilft bei Zulassung, Stilllegung, Halterdaten, Versicherung, Steuer, Gebühren und Behördenkommunikation im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Kfz-Zulassung in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kfz-Zulassung

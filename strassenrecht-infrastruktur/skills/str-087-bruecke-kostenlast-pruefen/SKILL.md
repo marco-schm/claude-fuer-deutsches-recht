@@ -1,6 +1,6 @@
 ---
 name: str-087-bruecke-kostenlast-pruefen
-description: "Straßenrecht und Infrastruktur: Brücke: Kostenlast prüfen. Kostenlast prüfen für Brücke im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bruecke Kostenlast Pruefen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bruecke Kostenlast Pruefen

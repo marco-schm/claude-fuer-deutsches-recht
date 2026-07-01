@@ -1,6 +1,6 @@
 ---
 name: rookie-modus-vc-begriffe
-description: "Erklärt Pre-Seed, Seed, Series A/B, bridge, runway, lead, follow-on, pro rata, SAFE, cap table und liquidation preference auf Deutsch im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Rookie-Modus Venture Capital in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rookie-Modus Venture Capital

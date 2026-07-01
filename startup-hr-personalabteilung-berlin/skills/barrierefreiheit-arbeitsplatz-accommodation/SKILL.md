@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-arbeitsplatz-accommodation
-description: "Berliner Start-up-HR: Angemessene Vorkehrungen am Arbeitsplatz: Hilfsmittel, Arbeitszeit, Remote, Kosten, Integrationsamt und Teamkommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Barrierefreiheit Arbeitsplatz Accommodation in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Barrierefreiheit Arbeitsplatz Accommodation

@@ -1,6 +1,6 @@
 ---
 name: prodr-machinery-produktrueckruf
-description: "Spezialfall Maschinenverordnung VO 2023 / 1230 Machinery Regulation: KI in Maschinen, Wesentliche Änderung, Modernisierung Bestandsmaschinen. Prüfraster für Hersteller im Produktrecht."
+description: "Wenn es um ProdR: Machinery Regulation in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # ProdR: Machinery Regulation

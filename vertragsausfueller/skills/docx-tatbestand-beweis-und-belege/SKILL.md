@@ -1,6 +1,6 @@
 ---
 name: docx-tatbestand-beweis-und-belege
-description: "Docx: Tatbestandsmerkmale, Beweisfragen und Beleglage im Vertragsausfueller. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Docx: Tatbestandsmerkmale, Beweisfragen und Beleglage in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Docx: Tatbestandsmerkmale, Beweisfragen und Beleglage

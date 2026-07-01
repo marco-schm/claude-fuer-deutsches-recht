@@ -1,6 +1,6 @@
 ---
 name: sanktion-durchsuchung-beschlagnahme
-description: "Datenschutzrecht-Brückenskill: Durchsuchung Beschlagnahme und Datenzugriff: Extremfälle von Behördenzugriffen auf Server, Kommunikation, Mandatsunterlagen und Geschäftsgeheimnisse vorbereiten. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und ge..."
+description: "Wenn es um Durchsuchung Beschlagnahme und Datenzugriff in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Durchsuchung Beschlagnahme und Datenzugriff

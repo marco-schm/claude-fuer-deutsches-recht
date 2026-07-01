@@ -1,6 +1,6 @@
 ---
 name: spezial-orientierung-mandantenkommunikation-entscheidungsvorlage
-description: "Orientierung: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt miet wohnungseigentumsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Orientierung: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Orientierung: Mandantenkommunikation und Entscheidungsvorlage

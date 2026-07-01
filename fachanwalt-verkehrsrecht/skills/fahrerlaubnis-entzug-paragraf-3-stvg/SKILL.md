@@ -1,6 +1,6 @@
 ---
 name: fahrerlaubnis-entzug-paragraf-3-stvg
-description: "Fahrerlaubnis Entzug § 3 StVG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Fahrerlaubnis Entzug Paragraf 3 StVG in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fahrerlaubnis Entzug § 3 StVG

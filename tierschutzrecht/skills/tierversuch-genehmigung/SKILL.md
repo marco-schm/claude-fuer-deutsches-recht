@@ -1,6 +1,6 @@
 ---
 name: tierversuch-genehmigung
-description: "Tierschutzrecht: Tierversuch Genehmigung. Tierversuch Genehmigung im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht."
+description: "Wenn es um Tierversuch Genehmigung in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tierversuch Genehmigung

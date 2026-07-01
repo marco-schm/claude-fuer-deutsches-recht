@@ -1,6 +1,6 @@
 ---
 name: sportr-athletenvertrag-bauleiter
-description: "Bauleiter Athletenvertrag: Verguetung, Image- und Vermarktungsrechte, Trainingspflichten, Wettkampfteilnahme, Dopingklausel, Beendigung: Bauleiter Athletenvertrag: Verguetung, Image- und Vermarktungsrechte, Trainingspflichten, Wettkampfteilnahme, Dopingklau..."
+description: "Wenn es um Sportr Athletenvertrag Bauleiter in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauleiter Athletenvertrag: Vergütung, Image- und Vermarktungsrechte, Trainingspflichten, Wettkampfteilnahme, Dopingklausel, Beendigung

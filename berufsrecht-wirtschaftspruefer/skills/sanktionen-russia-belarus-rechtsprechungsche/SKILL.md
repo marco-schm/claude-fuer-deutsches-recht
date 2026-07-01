@@ -1,6 +1,6 @@
 ---
 name: sanktionen-russia-belarus-rechtsprechungsche
-description: "Wirtschaftsprüfer: sanktionen russia belarus - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Sanktionen Russia Belarus Rechtsprechungsche in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: sanktionen russia belarus - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

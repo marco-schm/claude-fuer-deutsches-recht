@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung-fto-schutzbereich
-description: "Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlichkeit, Rechtsbestand, Recherche, Verletzung, Glaubhaftmachung und Vollziehung im Gebrauchsmusterrecht."
+description: "Wenn es um Einstweilige Verfuegung Gebrauchsmuster in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Einstweilige Verfuegung Gebrauchsmuster

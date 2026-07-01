@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-btmg-31-aufklaerungshilfe-kronzeuge
-description: "§ 31 BtMG kleine Kronzeugenregelung: Strafmilderung oder Absehen von Strafe bei wesentlicher Aufklaerungshilfe: Abgrenzung zu § 46b StGB grosse K..."
+description: "Wenn es um Strafrecht Spezial Btmg 31 Aufklaerungshilfe Kronzeuge in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 31 BtMG kleine Kronzeugenregelung: Strafmilderung oder Absehen von Strafe bei wesentlicher Aufklaerungshilfe

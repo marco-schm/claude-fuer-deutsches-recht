@@ -1,6 +1,6 @@
 ---
 name: zitierweise-literatur-formular-portal-einreichungslogik
-description: "Literatur: Formular, Portal und Einreichungslogik im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist krit..."
+description: "Wenn es um Literatur: Formular, Portal und Einreichungslogik in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitierweise Literatur Formular Portal Einreichungslogik; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Literatur: Formular, Portal und Einreichungslogik

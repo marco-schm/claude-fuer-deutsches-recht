@@ -1,6 +1,6 @@
 ---
 name: data-ai-und-cyber-dd
-description: "Prüft Datenschutz, AI-Act-Risiko, Trainingsdaten, Cybervorfälle, NIS2-Schnittstelle, DPA/AVV und SaaS-Abhängigkeiten im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Data, digitale Werkzeuge und Cyber DD in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Data, AI und Cyber DD

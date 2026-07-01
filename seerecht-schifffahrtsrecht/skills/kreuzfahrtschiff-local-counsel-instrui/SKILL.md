@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-local-counsel-instrui
-description: "Kreuzfahrtschiff: Ausländischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Kreuzfahrtschiff oder grosses Fahrgastschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schif..."
+description: "Wenn es um Kreuzfahrtschiff – Local Counsel instruieren in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kreuzfahrtschiff – Local Counsel instruieren

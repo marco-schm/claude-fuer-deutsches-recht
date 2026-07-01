@@ -1,6 +1,6 @@
 ---
 name: international-cisg-handelsregister
-description: "Prüft HGB bei internationalem Handelskauf, CISG-Abgrenzung, Rom I und Gerichtsstand im Handelsrecht Hgb."
+description: "Wenn es um Internationaler Bezug und CISG-Schnittstelle in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Internationaler Bezug und CISG-Schnittstelle

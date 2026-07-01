@@ -1,6 +1,6 @@
 ---
 name: reste-und-uebertragbarkeit-brh-frage-f
-description: "Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: BRH-Frage formulieren. BRH- im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Reste Und Uebertragbarkeit Brh Frage F in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reste Und Uebertragbarkeit Brh Frage F

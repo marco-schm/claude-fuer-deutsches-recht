@@ -1,6 +1,6 @@
 ---
 name: 04-krankenversicherung-pruefung
-description: "Krankenversicherung SGB V: Versicherungspflicht Paragraf 5, Leistungsanspruch Paragraf 27 (Krankenbehandlung), Hilfsmittel Paragraf 33, Krankengeld Paragraf 44, ambulante und stationaere Behandlung"
+description: "Wenn es um 04 Krankenversicherung Prüfung in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # 04 Krankenversicherung Prüfung

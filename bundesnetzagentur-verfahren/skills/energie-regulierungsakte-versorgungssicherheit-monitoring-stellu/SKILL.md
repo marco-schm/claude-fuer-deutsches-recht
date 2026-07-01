@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-versorgungssicherheit-monitoring-stellu
-description: "Versorgungssicherheit Monitoring: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: Versorgungssicherheit Monitoring — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: Versorgungssicherheit Monitoring — Stellungnahme-Entwurf

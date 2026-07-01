@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Geldwäscheprävention AML/KYC: sortiert KYC-Akte, Risk Assessment, Compliance-Manual, prüft Datum, Absender, Frist und Beweiswert (Dokumente wirtschaftlich Berechtigter, Transaction Logs); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

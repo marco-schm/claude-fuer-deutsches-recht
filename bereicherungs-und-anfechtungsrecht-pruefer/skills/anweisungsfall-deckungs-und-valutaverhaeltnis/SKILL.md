@@ -1,6 +1,6 @@
 ---
 name: anweisungsfall-deckungs-und-valutaverhaeltnis
-description: "Bei ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Normen: § 670 BGB und §§ 812 ff. BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehler..."
+description: "Wenn es um Anweisungsfall: Deckungs- und Valutaverhältnis in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anweisungsfall: Deckungs- und Valutaverhältnis

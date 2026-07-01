@@ -1,6 +1,6 @@
 ---
 name: familiennachzug-kind
-description: "Kindernachzug: Fachmodul im Migrationsrecht: prüft Alter, Sorgerecht, Kindeswohl, Lebensunterhalt, Sprach-/Integrationsfragen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Kindernachzug: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kindernachzug: Fachmodul im Migrationsrecht

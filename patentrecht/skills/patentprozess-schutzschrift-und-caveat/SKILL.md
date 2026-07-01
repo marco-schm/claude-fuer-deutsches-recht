@@ -1,6 +1,6 @@
 ---
 name: patentprozess-schutzschrift-und-caveat
-description: "Erstellt Schutzschrift-/Protective-Letter-Strategien für deutsche Patentgerichte, UPC und ausländische Eilrisiken, inklusive Nichtverletzung, Rechtsbestand, Dringlichkeit und Geheimhaltungsanträgen im Patentrecht."
+description: "Wenn es um Patentprozess: Schutzschrift und Protective Letter in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Patentprozess: Schutzschrift und Protective Letter

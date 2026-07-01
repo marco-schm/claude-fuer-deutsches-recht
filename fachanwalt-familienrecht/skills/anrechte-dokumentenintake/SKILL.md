@@ -1,6 +1,6 @@
 ---
 name: anrechte-dokumentenintake
-description: "Anrechte Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Wenn es um Anrechte Dokumentenintake in Fachanwalt Familienrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Anrechte Dokumentenintake

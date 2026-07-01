@@ -1,6 +1,6 @@
 ---
 name: saas-tracking-vert
-description: "Saas: Risikoampel, Gegenargumente und Verteidigungslinien im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Saas: Risikoampel, Gegenargumente und Verteidigungslinien in Vertragsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Saas: Risikoampel, Gegenargumente und Verteidigungslinien

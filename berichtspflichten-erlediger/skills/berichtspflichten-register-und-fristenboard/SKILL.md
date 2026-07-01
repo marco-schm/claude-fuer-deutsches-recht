@@ -1,6 +1,6 @@
 ---
 name: berichtspflichten-register-und-fristenboard
-description: "Zentrales Fristen- und Zuständigkeitsboard für wiederkehrende Unternehmensmeldungen: Statistik, Steuer, Sozialversicherung, Umwelt, Produkt, Lieferkette und Aufsicht im Berichtspflichten."
+description: "Wenn es um Register und Fristenboard für Berichtspflichten in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Register und Fristenboard für Berichtspflichten

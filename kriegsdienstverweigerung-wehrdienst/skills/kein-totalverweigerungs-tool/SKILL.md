@@ -1,6 +1,6 @@
 ---
 name: kein-totalverweigerungs-tool
-description: "Grenzt KDV vom bewussten Bruch mit jeder Dienst- oder Ersatzdienstpflicht ab im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Keine Totalverweigerung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Keine Totalverweigerung

@@ -1,6 +1,6 @@
 ---
 name: inso-npl-kreditkauf-restschuldbefreiung
-description: "Prüft Kreditkauf notleidender Darlehen vor und im Insolvenzverfahren: Kreditkäufer, Kreditdienstleister, Datenschutz, Notices, Sicherheiten und Enforcement im Insolvenzrecht."
+description: "Wenn es um Insolvenz: NPL-Kreditkauf und KrZwMG in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Insolvenz: NPL-Kreditkauf und KrZwMG

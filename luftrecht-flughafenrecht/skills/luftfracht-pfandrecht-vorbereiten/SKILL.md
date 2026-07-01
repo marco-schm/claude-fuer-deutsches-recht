@@ -1,6 +1,6 @@
 ---
 name: luftfracht-pfandrecht-vorbereiten
-description: "Luftfrachtfuehrer will Pfandrecht an Fracht geltend machen oder Gläubiger will Fracht pfaenden. Prüft HGB § 440 Frachtfuehrerpfandrecht Montreal Convention Art. 9 und ZPO-Pfaendungsrecht und liefert Sicherungsstruktur-Vermerk für Luftfracht-Finanzierung im Luftrecht Flughafenrecht."
+description: "Wenn es um Luftfracht – Pfandrecht vorbereiten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Luftfracht – Pfandrecht vorbereiten

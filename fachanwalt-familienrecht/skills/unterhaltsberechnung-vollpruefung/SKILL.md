@@ -1,6 +1,6 @@
 ---
 name: unterhaltsberechnung-vollpruefung
-description: "Vollprüfung für Unterhaltsberechnung im deutschen Familienrecht: Kindesunterhalt, Trennungsunterhalt und nachehelicher Unterhalt mit Einkommensbereinigung, Rangfolge, Selbstbehalt, Auskunft, Stufenklage, Verzug, Tabellenverifikation und ausformuliertem Ergebnis."
+description: "Wenn es um Unterhaltsberechnung im Familienrecht: Vollprüfung in Fachanwalt Familienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Unterhaltsberechnung im Familienrecht: Vollprüfung

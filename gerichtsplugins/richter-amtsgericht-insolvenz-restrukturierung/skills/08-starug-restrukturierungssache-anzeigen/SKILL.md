@@ -1,6 +1,6 @@
 ---
 name: 08-starug-restrukturierungssache-anzeigen
-description: "Anzeige Restrukturierungssache Paragrafen 31 ff. StaRUG, Restrukturierungsbeauftragter Paragraf 73 StaRUG, Restrukturierungsforum, öffentliche oder nicht-öffentliche Sache"
+description: "Wenn es um 08 StaRUG Restrukturierungssache Anzeigen in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 08 StaRUG Restrukturierungssache Anzeigen

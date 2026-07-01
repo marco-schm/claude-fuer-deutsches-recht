@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-ki-einsatz-und-governance
-description: "AG/SE-Aufsichtsrat Praxis: Aufsichtsrat KI Einsatz Und Governance; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um Aufsichtsrat digitale Werkzeuge Einsatz Und Governance in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Aufsichtsrat KI Einsatz Und Governance

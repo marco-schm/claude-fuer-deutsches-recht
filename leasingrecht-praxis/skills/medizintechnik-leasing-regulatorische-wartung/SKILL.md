@@ -1,6 +1,6 @@
 ---
 name: medizintechnik-leasing-regulatorische-wartung
-description: "Medizintechnik-Leasing: MDR/IVDR-Anforderungen, Wartung, Betreiberverantwortung, Zulassung und Haftung bei Fehlfunktion im Leasingrecht."
+description: "Wenn es um Medizintechnik-Leasing: Regulatorische Anforderungen und Wartung in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medizintechnik-Leasing: Regulatorische Anforderungen und Wartung

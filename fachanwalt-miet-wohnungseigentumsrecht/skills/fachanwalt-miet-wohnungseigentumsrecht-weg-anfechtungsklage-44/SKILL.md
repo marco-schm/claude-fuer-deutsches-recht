@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44
-description: "Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht weg anfechtungsklage 44. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Wenn es um WEG-Anfechtungsklage Paragraf 44 WEG in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # WEG-Anfechtungsklage § 44 WEG

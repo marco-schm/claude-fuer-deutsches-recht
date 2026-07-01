@@ -1,6 +1,6 @@
 ---
 name: 03-gesellschaftsvertrag-pruefen-gmbh
-description: "Prüfung GmbH-Satzung Paragraf 3 GmbHG: Mindestinhalt, Stammkapital, Geschaeftsfuehrervertretung, Gegenstand des Unternehmens, Satzungsstrenge bei Aktiengesellschaft"
+description: "Wenn es um 03 Gesellschaftsvertrag Prüfen Gmbh in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 03 Gesellschaftsvertrag Prüfen Gmbh

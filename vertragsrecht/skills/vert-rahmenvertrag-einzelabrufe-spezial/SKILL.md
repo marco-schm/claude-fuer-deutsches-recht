@@ -1,6 +1,6 @@
 ---
 name: vert-rahmenvertrag-einzelabrufe-spezial
-description: "Spezialfall Rahmenvertrag und Einzelabrufe: Wechselwirkung, Battle of Forms, Hierarchie der Dokumente. Prüfraster für Einkauf und Vertrieb im Vertragsrecht."
+description: "Wenn es um Vert: Rahmenvertrag Einzelabrufe in Vertragsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vert: Rahmenvertrag Einzelabrufe

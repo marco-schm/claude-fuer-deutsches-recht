@@ -1,6 +1,6 @@
 ---
 name: bverwg-2021-parteivernehmung
-description: "Bereitet persönliche gerichtliche Befragung nach BVerwG 31.03.2021 vor im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um BVerwG 2021 Parteivernehmung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BVerwG 2021 Parteivernehmung

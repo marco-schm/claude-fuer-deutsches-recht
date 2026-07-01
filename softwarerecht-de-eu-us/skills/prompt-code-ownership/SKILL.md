@@ -1,6 +1,6 @@
 ---
 name: prompt-code-ownership
-description: "Prüft Rechte an Prompts, Generated Code, Agent Workflows, Copilot-Ausgaben und internen Promptbibliotheken im Softwarerecht De Eu Us."
+description: "Wenn es um Prompt und Code Ownership in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prompt und Code Ownership

@@ -1,6 +1,6 @@
 ---
 name: v392-praxisraster-richter-sozialgericht
-description: "Praxisraster für Sozialgericht: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet."
+description: "Wenn es um Praxisraster Sozialgericht in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Praxisraster Sozialgericht

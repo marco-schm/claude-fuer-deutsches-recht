@@ -1,6 +1,6 @@
 ---
 name: inso-p002-amtsgericht-als-insolvenzgericht
-description: "§ 2 InsO (Amtsgericht als Insolvenzgericht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 2 InsO (Amtsgericht als Insolvenzgericht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Recht..."
+description: "Wenn es um Inso P002 Amtsgericht Als Insolvenzgericht in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 2 InsO (Amtsgericht als Insolvenzgericht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

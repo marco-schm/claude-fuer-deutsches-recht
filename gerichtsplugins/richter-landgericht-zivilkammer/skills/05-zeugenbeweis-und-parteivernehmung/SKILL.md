@@ -1,6 +1,6 @@
 ---
 name: 05-zeugenbeweis-und-parteivernehmung
-description: "Zeugenbeweis Paragrafen 373-401 ZPO, Beweisaufnahme im Termin, Belehrung, Glaubhaftigkeit, Parteivernehmung Paragrafen 445-455 ZPO, Aussagewert"
+description: "Wenn es um 05 Zeugenbeweis und Parteivernehmung in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 05 Zeugenbeweis und Parteivernehmung

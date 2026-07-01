@@ -1,6 +1,6 @@
 ---
 name: social-media-partei
-description: "Regelt Impressum, Verantwortlichkeit, Accounts, Kandidatenposts, Datenschutz, Archivierung und Krisenreaktion."
+description: "Wenn es um Social Media Partei in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Social Media Partei

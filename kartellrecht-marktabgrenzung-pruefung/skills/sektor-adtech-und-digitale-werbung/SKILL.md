@@ -1,6 +1,6 @@
 ---
 name: sektor-adtech-und-digitale-werbung
-description: "Sektor AdTech und digitale Werbung: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege un..."
+description: "Wenn es um Sektor AdTech und digitale Werbung in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sektor AdTech und digitale Werbung

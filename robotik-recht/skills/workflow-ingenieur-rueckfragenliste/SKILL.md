@@ -1,6 +1,6 @@
 ---
 name: workflow-ingenieur-rueckfragenliste
-description: "Erzeugt präzise Rückfragen an Technik, QM, Datenschutz, IT-Security, Vertrieb und Service, damit das Recht nicht im Nebel prüft im Robotik-Recht."
+description: "Wenn es um Ingenieur-Rückfragenliste in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Ingenieur-Rückfragenliste

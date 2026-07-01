@@ -1,6 +1,6 @@
 ---
 name: nummerierung-tk-open
-description: "Rufnummernzuteilung, Nutzung, Entzug, Mehrwertdienste, geografische Nummern, 0800/0900, M2M und Nummernportierung im Telekommunikationsrecht."
+description: "Wenn es um Nummerierung und Rufnummernzuteilung in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Nummerierung und Rufnummernzuteilung

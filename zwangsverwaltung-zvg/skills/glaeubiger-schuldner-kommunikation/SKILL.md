@@ -1,6 +1,6 @@
 ---
 name: glaeubiger-schuldner-kommunikation
-description: "Schriftwechsel in der Zwangsverwaltung mit Schuldner Gläubiger Mieter Gericht Versicherern und Dienstleistern. Anwendungsfall Zwangsverwalter muss formgerechte Schreiben an alle Beteiligten erstellen. Normen §§ 150 151 ZVG § 154 ZVG Pflichten § 543 BGB Kündigung § 535 BGB Mietrecht. Prüfraster Ad..."
+description: "Wenn es um Gläubiger-, Schuldner- und Drittschuldnerkommunikation in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gläubiger-, Schuldner- und Drittschuldnerkommunikation

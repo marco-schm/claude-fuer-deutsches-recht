@@ -1,6 +1,6 @@
 ---
 name: gewr-markenanmeldung-bauleiter
-description: "Markenanmeldung als strukturierter Bauleiter: Recherche, Klassenwahl, Anmeldeweg (DPMA/EUIPO/Madrid), Formvoraussetzungen, Fristen und Nachverfolgung. Praxisfür Anwälte und Unternehmen, die eine Marke anmelden oder betreuen wollen im Gewerblicher Rechtsschutz."
+description: "Wenn es um GewR: Markenanmeldung – Strukturierter Bauleiter in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GewR: Markenanmeldung – Strukturierter Bauleiter

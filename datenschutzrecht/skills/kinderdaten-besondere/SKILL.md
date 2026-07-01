@@ -1,6 +1,6 @@
 ---
 name: kinderdaten-besondere
-description: "Bewertet einen Datenschutzvorfall mit Daten von Minderjährigen unter Berücksichtigung der besonderen Schutzbedürftigkeit nach Erwägungsgrund 38 DSGVO. Behandelt: Schulen; Kitas; Vereine; Jugendamt; Online-Dienste mit Altersbezug; Identitätsdiebstahl-Risiko; lebenslange Schadensdauer; Pflicht zur..."
+description: "Wenn es um Kinderdaten im Datenschutzvorfall — besondere Schutzbedürftigkeit in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kinderdaten im Datenschutzvorfall — besondere Schutzbedürftigkeit

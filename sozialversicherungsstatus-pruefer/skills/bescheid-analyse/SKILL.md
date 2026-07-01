@@ -1,6 +1,6 @@
 ---
 name: bescheid-analyse
-description: "Analysiert Status-, Betriebsprüfungs- und Beitragsbescheide auf Tenor, Begründung, Fristen und Fehler im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Bescheidanalyse Status/Beiträge in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bescheidanalyse Status/Beiträge

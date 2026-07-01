@@ -1,6 +1,6 @@
 ---
 name: betreuung-und-vorsorgevollmacht
-description: "Hilft bei Behördenkontakt für Angehörige, Vollmacht, Betreuung, Einwilligungsfähigkeit und Datenschutz im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Betreuung und Vorsorgevollmacht in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betreuung und Vorsorgevollmacht

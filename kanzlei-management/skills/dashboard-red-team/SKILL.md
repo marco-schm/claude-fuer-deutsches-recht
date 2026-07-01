@@ -1,6 +1,6 @@
 ---
 name: dashboard-red-team
-description: "Prüft Dashboards auf falsche Präzision, Datenlücken und politische Ampeln. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene."
+description: "Wenn es um Dashboard Red Team in Kanzlei Management geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dashboard Red Team

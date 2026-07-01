@@ -1,6 +1,6 @@
 ---
 name: rmap-entscheidungsbaum-validierung
-description: "Simulation und Verifikation der Rulemap: Faelle generieren; Pfadabdeckung messen; Soll-Ist-Vergleich gegen juristische Erwartung. Werkzeuge im Rulemap Builder: Capture; Simulate; Verify. Output Validierungsprotokoll mit Pfaddeckung; Trefferquote; offenen Punkten. Anschluss legw-rmap-bestimmtheit-..."
+description: "Wenn es um Entscheidungsbaum-Simulation und Verifikation in Legistik-Werkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Entscheidungsbaum-Simulation und Verifikation

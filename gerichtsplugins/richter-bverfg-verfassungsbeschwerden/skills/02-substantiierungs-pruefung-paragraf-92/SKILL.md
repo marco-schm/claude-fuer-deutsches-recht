@@ -1,6 +1,6 @@
 ---
 name: 02-substantiierungs-pruefung-paragraf-92
-description: "Substantiierungspflicht Paragraf 92 BVerfGG: konkrete Bezeichnung des verletzten Rechts, Sachverhaltsdarstellung, Auseinandersetzung mit angegriffenen Entscheidungen, Beifuegung der Entscheidungen"
+description: "Wenn es um 02 Substantiierungs Prüfung Paragraf 92 in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 02 Substantiierungs Prüfung Paragraf 92

@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-vorlaeufige-zulassung
-description: "Prüft Vergleichslösungen im Prüfungsrecht im Prüfungsrecht Hochschule. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Vergleich Und Prüfungsrecht in Prüfungsrecht an Hochschulen und Universitäten geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich Und Prüfungsrecht

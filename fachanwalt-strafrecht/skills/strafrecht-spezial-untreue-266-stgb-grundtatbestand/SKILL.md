@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-untreue-266-stgb-grundtatbestand
-description: "Untreue nach Paragraph 266 StGB Grundtatbestand: Missbrauchstatbestand und Treubruchstatbestand. Vermögensbetreuungspflicht aufgrund Gesetz Rechtsgeschaeft oder Treueverhaeltnis. Vermögensschaden mit BGH-St..."
+description: "Wenn es um Untreue nach Paragraph 266 StGB Grundtatbestand in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Untreue nach Paragraph 266 StGB Grundtatbestand

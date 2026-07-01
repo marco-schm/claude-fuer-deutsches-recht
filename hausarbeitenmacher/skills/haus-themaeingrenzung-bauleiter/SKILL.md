@@ -1,6 +1,6 @@
 ---
 name: haus-themaeingrenzung-bauleiter
-description: "Bauleiter Themaeingrenzung Hausarbeit: Forschungsfrage, Gliederungsentwurf, Literatursichtung. Prüfraster für Erstsemester und Examenskandidaten im Hausarbeitenmacher."
+description: "Wenn es um Haus: Themaeingrenzung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haus: Themaeingrenzung

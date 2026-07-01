@@ -1,6 +1,6 @@
 ---
 name: see-063-containerschiff-kaufvertrag-scopen
-description: "See- und Schifffahrtsrecht: Containerschiff: Kaufvertrag scopen. Kaufvertrag scopen für Containerschiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Containerschiff Kaufvertrag Scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Containerschiff Kaufvertrag Scopen

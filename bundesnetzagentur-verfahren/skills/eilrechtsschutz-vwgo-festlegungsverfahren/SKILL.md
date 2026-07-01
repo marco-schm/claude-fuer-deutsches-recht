@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-vwgo-festlegungsverfahren
-description: "Verfahren / Eilrechtsschutz § 80 VwGO: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis im BNetzA-Verfahren."
+description: "Wenn es um Verfahren: Eilrechtsschutz Paragraf 80 VwGO in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verfahren: Eilrechtsschutz § 80 VwGO

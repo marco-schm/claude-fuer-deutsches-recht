@@ -1,6 +1,6 @@
 ---
 name: umsatzsteuer-vorsteuerabzug-pruefen
-description: "Prüfungslinie für anw umsatzsteuer vorsteuerabzug prüfen im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Umsatzsteuer-Vorsteuerabzug prüfen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umsatzsteuer-Vorsteuerabzug prüfen

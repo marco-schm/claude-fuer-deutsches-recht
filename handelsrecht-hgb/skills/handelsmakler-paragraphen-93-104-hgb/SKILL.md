@@ -1,6 +1,6 @@
 ---
 name: handelsmakler-paragraphen-93-104-hgb
-description: "Prüft Handelsmakler, Schlussnote, Tagebuch, Provision und Haftung im Handelsrecht Hgb."
+description: "Wenn es um Handelsmakler Paragrafen 93-104 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsmakler §§ 93-104 HGB

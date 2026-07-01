@@ -1,6 +1,6 @@
 ---
 name: 01-eroeffnungsantrag-pruefen-insolvenz
-description: "Prüfung des Eröffnungsantrags Paragrafen 13-15 InsO, Zulässigkeit, Insolvenzgrund (Paragrafen 17-19 InsO), Verfahrenskostendeckung, Anhörung des Schuldners"
+description: "Wenn es um 01 Eröffnungsantrag Prüfen Insolvenz in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 01 Eröffnungsantrag Prüfen Insolvenz

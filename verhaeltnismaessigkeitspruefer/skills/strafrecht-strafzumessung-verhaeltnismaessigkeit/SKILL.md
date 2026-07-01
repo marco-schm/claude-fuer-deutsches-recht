@@ -1,6 +1,6 @@
 ---
 name: strafrecht-strafzumessung-verhaeltnismaessigkeit
-description: Strafzumessung Paragraf 46 StGB als anwendungsfall der Verhältnismäßigkeit mit Strafrahmen Tatschuld Praevention und Prüfung wann die Strafhoehe unverhaeltnismaessig ist. Mit Hinweisen auf BVerfG-Rechtsprechung zu strafrechtlichen Eingriffen.
+description: "Wenn es um Strafrecht Strafzumessung Verhältnismäßigkeit in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Strafrecht Strafzumessung Verhältnismäßigkeit

@@ -1,6 +1,6 @@
 ---
 name: workflow-rechtsregime-matrix
-description: "Baut eine Regime-Matrix aus Maschinenverordnung, KI-VO, ProdSG/GPSR, ProdHaftG/PLD, MDR, DSGVO, CRA, Data Act, NIS2 und Vertrag im Robotik-Recht."
+description: "Wenn es um Rechtsregime-Matrix in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsregime-Matrix

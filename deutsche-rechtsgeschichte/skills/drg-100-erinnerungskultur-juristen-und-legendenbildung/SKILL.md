@@ -1,6 +1,6 @@
 ---
 name: drg-100-erinnerungskultur-juristen-und-legendenbildung
-description: "Prüft geschönte juristische Geschichtsbilder, Nachrufe, Festschriften und Selbstzeugnisse auf Auslassungen, Rollenwechsel, Entlastungsnarrative und überprüfbare Gegenbelege."
+description: "Wenn es um Drg 100 Erinnerungskultur Juristen Und Legendenbildung in Deutsche Rechtsgeschichte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 # Juristische Erinnerungskultur und Legendenbildung
 

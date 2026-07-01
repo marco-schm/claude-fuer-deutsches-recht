@@ -1,6 +1,6 @@
 ---
 name: luft-036-flughafen-sicherheitsauflage-bewerten
-description: "Luftrecht und Flughafenrecht: Flughafen: Sicherheitsauflage bewerten. Sicherheitsauflage bewerten für Flughafen im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Flughafen Sicherheitsauflage Bewerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flughafen Sicherheitsauflage Bewerten

@@ -1,6 +1,6 @@
 ---
 name: routerfreiheit-tk-rufnummernmissbrauch
-description: "Routerfreiheit, Netzabschlusspunkt, Endgerätefreiheit, Providerrouter, Konfigurationsdaten, Glasfaser-ONT und Gewährleistung/Sicherheit im Telekommunikationsrecht."
+description: "Wenn es um Routerfreiheit und Endgeräte in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Routerfreiheit und Endgeräte

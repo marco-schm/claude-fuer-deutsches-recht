@@ -1,6 +1,6 @@
 ---
 name: lma-transfer-assignment-schuldschein-darlehen-struktur-npl
-description: "Prüft Übertragung von Kreditanteilen in syndizierten Finanzierungen, Consent, Agent-Prozess, Borrower Notices und Register im Private Equity Praxis."
+description: "Wenn es um LMA-Transfer: Assignment, Novation, Transfer Certificate in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # LMA-Transfer: Assignment, Novation, Transfer Certificate

@@ -1,6 +1,6 @@
 ---
 name: verkehrsrechtliche-anordnung-pruefen
-description: "Straßenverkehrsrecht StVO: Verkehrsrechtliche Anordnung prüfen. Verkehrsrechtliche Anordnung prüfen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkma..."
+description: "Wenn es um Verkehrsrechtliche Anordnung Prüfen in Straßenverkehrsrecht StVO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verkehrsrechtliche Anordnung Prüfen

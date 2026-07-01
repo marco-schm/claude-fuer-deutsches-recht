@@ -1,6 +1,6 @@
 ---
 name: technische-besichtigung-und-geheimnisschutz
-description: "Plant gerichtliche oder außergerichtliche Besichtigung eines Roboters mit Geheimnisschutz, Sachverständigem und Testprotokoll."
+description: "Wenn es um Technische Besichtigung und Geheimnisschutz in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Technische Besichtigung und Geheimnisschutz

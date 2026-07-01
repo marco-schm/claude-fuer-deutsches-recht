@@ -1,6 +1,6 @@
 ---
 name: musterprotokoll-vs-individuelle-satzung
-description: "Entscheidet, ob Musterprotokoll reicht oder individuelle Satzung nötig ist im Gesellschaftsgruender."
+description: "Wenn es um Musterprotokoll vs individuelle Satzung in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Musterprotokoll vs individuelle Satzung

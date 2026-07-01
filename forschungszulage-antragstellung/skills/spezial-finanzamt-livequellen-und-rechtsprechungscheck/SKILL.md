@@ -1,6 +1,6 @@
 ---
 name: spezial-finanzamt-livequellen-und-rechtsprechungscheck
-description: "Finanzamt: Livequellen- und Rechtsprechungscheck im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Finanzamt: Livequellen- und Rechtsprechungscheck in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Finanzamt: Livequellen- und Rechtsprechungscheck

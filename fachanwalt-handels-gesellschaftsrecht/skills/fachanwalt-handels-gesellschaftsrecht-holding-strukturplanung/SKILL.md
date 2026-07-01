@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung
-description: "Holding-Strukturplanung: § 8b KStG Schachtelprivileg (95 % steuerfreier Exit), Varianten Einzel-Holding, Vermögens-Holding, Doppel-Holding mit Familienstiftung. Gewerbesteuerkürzung § 9 Nr. 1 S. 2 GewStG Immobilien-Holding. Zeitreihenfolge Holding vor Gründung der Tochter. Wegzugsbesteuerung § 6 AStG. Pflichtteilsschutz § 2325 BGB. Praktische Rechenbeispiele Exit-Vorteil. GmbH-Gründungsaufwand, Notarkosten. Schriftsatzvorlagen Anteilsübertragungsvertrag, Holding-GmbH-Gründung."
+description: "Wenn es um Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung in Fachanwalt Handels- und Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 ## Mandantenfragen beim Kaltstart

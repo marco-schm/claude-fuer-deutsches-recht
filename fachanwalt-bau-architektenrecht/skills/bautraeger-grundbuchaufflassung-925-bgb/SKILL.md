@@ -1,6 +1,6 @@
 ---
 name: bautraeger-grundbuchaufflassung-925-bgb
-description: "Aufflassung nach § 925 BGB beim Bautraegervertrag: Skill klaert die Form der Aufflassung den Zeitpunkt der Eigentumsuebertragung und das Verhältnis zur Vormerkung. Notarielle Beurkundung. Liefert Prüfraster."
+description: "Wenn es um Aufflassung nach Paragraf 925 BGB beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Aufflassung nach § 925 BGB beim Bautraegervertrag

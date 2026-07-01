@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-verfassungscheck-bundesmodell
-description: "Verfassungsrechtlicher Grundsteuer-Check nach der Reform: BVerfG 10.04.2018 zur alten Einheitsbewertung, BFH 27.05.2024 AdV, BFH 12.11.2025 zum Bundesmodell, Art. 3 GG, Typisierung, gemeiner Wert, Landesmodelle und offene Verfahren sauber einordnen."
+description: "Wenn es um Grundsteuer: Verfassungscheck Bundesmodell und Reformstand in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grundsteuer: Verfassungscheck Bundesmodell und Reformstand

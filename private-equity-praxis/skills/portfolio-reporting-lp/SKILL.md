@@ -1,6 +1,6 @@
 ---
 name: portfolio-reporting-lp
-description: "Erstellt LP-Report, KPI, ESG, Valuation, Material Events, Covenant-Status und Litigation Update im Private Equity Praxis."
+description: "Wenn es um Portfolio Reporting an LPs in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Portfolio Reporting an LPs

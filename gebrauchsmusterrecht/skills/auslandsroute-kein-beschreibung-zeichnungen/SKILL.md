@@ -1,6 +1,6 @@
 ---
 name: auslandsroute-kein-beschreibung-zeichnungen
-description: "Auslandsroute erklären: kein einheitliches EU-Gebrauchsmuster, nationale Utility Models, Patent/PCT, lokale Besonderheiten und Counsel-Briefing im Gebrauchsmusterrecht."
+description: "Wenn es um Auslandsroute Kein Eu Gebrauchsmuster in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Auslandsroute Kein Eu Gebrauchsmuster

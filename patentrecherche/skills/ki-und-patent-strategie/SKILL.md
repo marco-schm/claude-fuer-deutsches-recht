@@ -1,6 +1,6 @@
 ---
 name: ki-und-patent-strategie
-description: "Spezialfall KI-Erfindungen Patent-Strategie: DABUS-Entscheidungen DPMA und EPA und BPatG, Erfinderbenennung nur natuerliche Person, Beitrag der KI in Beschreibung, Daten- und Modellrechte. Strategie für KI-getriebene FuE und Patent-Portfolio. Mustertexte im Patentrecherche."
+description: "Wenn es um digitale Werkzeuge-Erfindungen: Strategie in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # KI-Erfindungen: Strategie

@@ -1,6 +1,6 @@
 ---
 name: nachvertragliches-wettbewerbsverbot-im-franchise
-description: "Fachmodul Franchiserecht für Nachvertragliches Wettbewerbsverbot im Franchise: Wettbewerbsverbote werden nach Vertragsende nicht pauschal akzeptiert, sondern räumlich, sachlich, zeitlich und systemschutzbezogen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorl..."
+description: "Wenn es um Franchise: Nachvertragliches Wettbewerbsverbot im Franchise in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Franchise: Nachvertragliches Wettbewerbsverbot im Franchise

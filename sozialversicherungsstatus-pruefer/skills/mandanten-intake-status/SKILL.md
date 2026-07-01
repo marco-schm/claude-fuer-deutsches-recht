@@ -1,6 +1,6 @@
 ---
 name: mandanten-intake-status
-description: "Erfasst alle Tatsachen für eine belastbare Statusprüfung ohne vorschnelle rechtliche Etiketten im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Mandanten-Intake Statusprüfung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandanten-Intake Statusprüfung

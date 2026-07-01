@@ -1,6 +1,6 @@
 ---
 name: idev-estatistik-core
-description: "Elektronische Statistikmeldungen über IDEV/eSTATISTIK.core: Zugang, Rollen, Importdateien, Plausibilitätsprüfung, Versandnachweis und interne Ablage im Berichtspflichten."
+description: "Wenn es um IDEV und eSTATISTIK.core praktisch nutzen in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # IDEV und eSTATISTIK.core praktisch nutzen

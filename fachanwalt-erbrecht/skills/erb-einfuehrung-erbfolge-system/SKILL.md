@@ -1,6 +1,6 @@
 ---
 name: erb-einfuehrung-erbfolge-system
-description: "Erbfolge-System einfuehrend: gesetzliche Erbfolge §§ 1924 ff: BGB, Verwandtenerbrecht in Ordnungen, Ehegattenerbrecht § 1931 BGB mit Zugewinngemeinschaft § 1371 BGB, Pflichtteil §§ 2303 ff. BGB...."
+description: "Wenn es um Erbfolge-System einfuehrend: gesetzliche Erbfolge Paragrafen 1924 ff in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbfolge-System einfuehrend: gesetzliche Erbfolge §§ 1924 ff

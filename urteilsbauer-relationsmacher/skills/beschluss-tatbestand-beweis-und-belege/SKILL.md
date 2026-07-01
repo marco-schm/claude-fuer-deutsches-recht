@@ -1,6 +1,6 @@
 ---
 name: beschluss-tatbestand-beweis-und-belege
-description: "Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage in Urteilsbauer und Relationsmacher geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage

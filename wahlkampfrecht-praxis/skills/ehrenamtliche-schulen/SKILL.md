@@ -1,6 +1,6 @@
 ---
 name: ehrenamtliche-schulen
-description: "Wahlkampfrecht Praxis: Ehrenamtliche schnell und verstaendlich kampagnentauglich machen im Wahlkampfrecht."
+description: "Wenn es um Ehrenamtliche Schulen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ehrenamtliche Schulen

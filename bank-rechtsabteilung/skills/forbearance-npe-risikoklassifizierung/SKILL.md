@@ -1,6 +1,6 @@
 ---
 name: forbearance-npe-risikoklassifizierung
-description: "Forbearance, NPE und Risikoklassifizierung juristisch begleiten: Zugeständnisse, Ausfallnähe, Melde- und Dokumentationsfolgen, Kreditakte und Kommunikation mit Risk sauber halten im Bank-Rechtsabteilung."
+description: "Wenn es um Forbearance und NPE in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Forbearance und NPE

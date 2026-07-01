@@ -1,6 +1,6 @@
 ---
 name: gerichtskostenfreiheit-183-sgg
-description: "Kein Geld für das Gericht. § 183 SGG erklärt die Kostenfreiheit für Versicherte Leistungsempfaenger und Behinderte. Wer zahlt was und was nicht. Anwaltskosten Fahrtkosten Auslagen."
+description: "Wenn es um Das Gericht ist für Sie kostenfrei — Paragraf 183 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Das Gericht ist für Sie kostenfrei — § 183 SGG

@@ -1,6 +1,6 @@
 ---
 name: mandat-einordnen-bearbeitungsroute
-description: "Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und erste Prioritaeten setzen: §§ 1922 2229 2303 BGB § 43a BRAO. Prüfraster: Erbfolge Testament Pflichtteil Ausschlagu..."
+description: "Wenn es um Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und erste Prioritaeten setzen in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und erste Prioritaeten setzen

@@ -1,6 +1,6 @@
 ---
 name: english-canon-law-memo
-description: "English Canon Law Memo: precise English canonical terminology; CIC can. 1-22 und 1400-1752; KKK CCC Prologue, 871-945 und 2030-2051; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Be..."
+description: "Wenn es um English Canon Law Memo in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # English Canon Law Memo

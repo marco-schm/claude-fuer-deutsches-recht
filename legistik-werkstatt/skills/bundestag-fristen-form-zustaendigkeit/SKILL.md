@@ -1,6 +1,6 @@
 ---
 name: bundestag-fristen-form-zustaendigkeit
-description: "Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
+description: "Wenn es um Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bundestag Fristen Form Zuständigkeit; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg

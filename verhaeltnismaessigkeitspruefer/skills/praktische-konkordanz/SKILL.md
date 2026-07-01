@@ -1,6 +1,6 @@
 ---
 name: praktische-konkordanz
-description: Praktische Konkordanz als Methodik zur Aufloesung von Grundrechtskollisionen ohne Hierarchisierung mit dem Ziel beide Verfassungsgueter zu optimieren. Mit Abgrenzung zur klassischen Abwaegung und Beispielen aus Kunstfreiheit und Pressefreiheit.
+description: "Wenn es um Praktische Konkordanz in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Praktische Konkordanz

@@ -1,6 +1,6 @@
 ---
 name: spezial-umlageschluessel
-description: "Umlageschlüssel: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Vertrag, Wohnfläche, Verbrauch, Personen, Änderung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Umlageschlüssel in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umlageschlüssel

@@ -1,6 +1,6 @@
 ---
 name: spenden-redteam
-description: "Prüft Zuwendung vor Annahme: Identität, Höhe, Herkunft, Veröffentlichungs-/Meldepflicht, Verbot und Dokumentation."
+description: "Wenn es um Spenden Red-Team in Parteienrecht und Parteiorganisation geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spenden Red-Team

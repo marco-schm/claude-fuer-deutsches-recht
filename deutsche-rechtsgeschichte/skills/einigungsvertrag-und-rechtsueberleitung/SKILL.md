@@ -1,6 +1,6 @@
 ---
 name: einigungsvertrag-und-rechtsueberleitung
-description: "Deutsche Rechtsgeschichte: Einigungsvertrag 1990 und Rechtsueberleitung. Hauptvertrag BGBl. II 1990 (Nr. 885), Weitergeltung DDR-Rechts, Ueberleitungsregeln und erste BVerfG-Entscheidungen zur Wiedervereinigung im Deutsche Rechtsgeschichte."
+description: "Wenn es um Einigungsvertrag und Rechtsueberleitung (1990) in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einigungsvertrag und Rechtsueberleitung (1990)

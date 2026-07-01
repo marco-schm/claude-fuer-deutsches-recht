@@ -1,6 +1,6 @@
 ---
 name: rechtsbereinigung-spezial
-description: "Spezialfall Rechtsbereinigung und Entbuerokratisierung: Wegfallpruefung, Konsolidierung, Befristung Sunset-Klausel. Prüfraster für Ministerien."
+description: "Wenn es um LegW: Rechtsbereinigung in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LegW: Rechtsbereinigung

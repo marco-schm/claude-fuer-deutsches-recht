@@ -1,6 +1,6 @@
 ---
 name: spezial-staatenlosigkeit
-description: "Staatenlosigkeit: Spezial-Skill im Migrationsrecht; prüft Status, Dokumente, Schutz, Reiseausweis und Einbürgerungsweg; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Staatenlosigkeit in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Staatenlosigkeit

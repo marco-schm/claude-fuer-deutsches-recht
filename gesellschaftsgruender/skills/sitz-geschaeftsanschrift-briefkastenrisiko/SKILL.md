@@ -1,6 +1,6 @@
 ---
 name: sitz-geschaeftsanschrift-briefkastenrisiko
-description: Prüft Satzungssitz, inländische Geschäftsanschrift, Erreichbarkeit, Coworking-Modelle, Postvollmacht und Registerrisiken.
+description: "Wenn es um Sitz, Geschäftsanschrift und Briefkastenrisiko in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 # Sitz, Geschäftsanschrift und Briefkastenrisiko
 

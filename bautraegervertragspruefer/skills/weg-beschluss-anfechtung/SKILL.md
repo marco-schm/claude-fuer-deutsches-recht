@@ -1,6 +1,6 @@
 ---
 name: weg-beschluss-anfechtung
-description: "Prueft WEG-Beschluesse auf Beschlusskompetenz und ordnungsgemaesse Verwaltung nach Paragrafen 18 und 45 WEG. Zeigt Anfechtungsfristen, Beschlussmaengel, Nichtigkeitsgrenzen und die Unterscheidung zwischen anfechtbaren und nichtigen Beschluessen sowie die Bedeutung fuer Gewaehrleistungsstrategien der Erwerbergemeinschaft."
+description: "Wenn es um WEG-Beschluss-Anfechtung in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG-Beschluss-Anfechtung

@@ -1,6 +1,6 @@
 ---
 name: freiwillige-beitraege-fremdrentengesetz
-description: "Freiwillige Beiträge und Rentenoptimierung: Wartezeiten, Mindest-/Höchstbeiträge, Ausgleich von Abschlägen und Liquiditätsentscheidung im Rentenpruefer."
+description: "Wenn es um freiwillige-beitraege-und-rentenoptimierung in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # freiwillige-beitraege-und-rentenoptimierung

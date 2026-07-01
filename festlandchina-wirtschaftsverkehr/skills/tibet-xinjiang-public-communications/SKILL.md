@@ -1,6 +1,6 @@
 ---
 name: tibet-xinjiang-public-communications
-description: "Unternehmenskommunikation zu Tibet und Xinjiang: Reputationsrisiken bei Quellenoffenlegung, chinesisches Anti-Sanktions-Gesetz 2021 Gegenmaßnahmen gegen Boykotte, LkSG-Berichtspflichten vs. China-Retaliation-Risiko, Balance Menschenrechtsbericht und Marktinteresse CN, Abstimmung PR/Rechtsabteilun..."
+description: "Wenn es um Kommunikation zu Tibet/Xinjiang: Rechts- und Reputationsrisiken in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunikation zu Tibet/Xinjiang: Rechts- und Reputationsrisiken

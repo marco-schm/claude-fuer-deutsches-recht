@@ -1,6 +1,6 @@
 ---
 name: ausgleichsanspruch
-description: "Fachmodul Franchiserecht für Ausgleichsanspruch nach Vertragsende und Kundendaten: Franchisenehmer-Ausgleich analog § 89b HGB wird nicht als Automat behandelt, sondern über Kundenstamm, Überlassungspflicht, Datennutzung und anonymes Massengeschäft aufgebaut. Mit Normen, Rechtsprechungsanker, Bele..."
+description: "Wenn es um Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten

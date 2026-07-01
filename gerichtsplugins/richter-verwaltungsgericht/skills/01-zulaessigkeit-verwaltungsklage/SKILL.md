@@ -1,6 +1,6 @@
 ---
 name: 01-zulaessigkeit-verwaltungsklage
-description: "Zulässigkeit der Klage: Verwaltungsrechtsweg Paragraf 40 VwGO, Klagearten Paragrafen 42 113 (Anfechtung Verpflichtung Feststellung), Klagebefugnis, Vorverfahren Paragraf 68, Frist Paragraf 74"
+description: "Wenn es um 01 Zulässigkeit Verwaltungsklage in Verwaltungsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 01 Zulässigkeit Verwaltungsklage

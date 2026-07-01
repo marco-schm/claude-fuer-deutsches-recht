@@ -1,6 +1,6 @@
 ---
 name: owi-opportunitaet-einstellung-47
-description: "Opportunität im OWi-Verfahren: Paragraf 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren: OWiG-Praxis-Skill für junge Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene."
+description: "Wenn es um Owi Opportunitaet Einstellung 47 in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Opportunität im OWi-Verfahren: Paragraf 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren

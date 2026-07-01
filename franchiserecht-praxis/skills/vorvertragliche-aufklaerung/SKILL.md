@@ -1,6 +1,6 @@
 ---
 name: vorvertragliche-aufklaerung
-description: "Vorvertragliche Aufklärungspflichten des Franchisegebers prüfen: Disclosure-Dokument, Rentabilitätsprognose, BGH-Linie zu culpa in contrahendo. Schadensersatz- und Anfechtungsrisiken bewerten. Perspektive Franchisegeber oder Franchisenehmer im Franchiserecht."
+description: "Wenn es um Franchiserecht: Vorvertragliche Aufklärung und Rentabilitätsprognose in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Franchiserecht: Vorvertragliche Aufklärung und Rentabilitätsprognose

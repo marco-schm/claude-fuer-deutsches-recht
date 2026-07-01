@@ -1,6 +1,6 @@
 ---
 name: schlachtenplan-ethik-und-taktik
-description: "Wahlkampfrecht Praxis: harten, aber demokratisch sauberen Kampagnenplan entwickeln im Wahlkampfrecht."
+description: "Wenn es um Schlachtenplan Ethik Und Taktik in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schlachtenplan Ethik Und Taktik

@@ -1,6 +1,6 @@
 ---
 name: ablehnung-nachbesserung-einspruch
-description: "Ablehnung oder Nachforderung bei Forschungszulage strukturiert bearbeiten: BSFZ-Rückfrage, negative Bescheinigung, BSFZ-Widerspruch, Finanzamt-Kürzung, Einspruch nach AO, neue Tatsachen, Beleg- und Textreparatur, Klage Finanzgericht als Ultima Ratio. Mit Fristenmatrix, Reparaturplan und Mustertex..."
+description: "Wenn es um Ablehnung, Nachbesserung, Einspruch in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ablehnung, Nachbesserung, Einspruch

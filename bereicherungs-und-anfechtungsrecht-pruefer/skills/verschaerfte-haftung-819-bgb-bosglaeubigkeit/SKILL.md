@@ -1,6 +1,6 @@
 ---
 name: verschaerfte-haftung-819-bgb-bosglaeubigkeit
-description: "Verschärfte Bereicherungshaftung nach § 819 BGB bei Bösgläubigkeit oder Rechtshängigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschärfte Haftung, Rechtshängigkeitswirkung. Output: Prüfergebnis verschärfte Haftung mit Berechnungshinweis. Abgre"
+description: "Wenn es um Verschärfte Haftung — Paragraf 819 BGB bei Bösgläubigkeit in bereicherungs-und-anfechtungsrecht-prüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Verschaerfte Haftung 819 BGB Bosglaeubigkeit; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # Verschärfte Haftung — § 819 BGB bei Bösgläubigkeit

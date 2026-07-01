@@ -1,6 +1,6 @@
 ---
 name: kanzlei-outsourcing-zivilprozess-rollen-liegt
-description: "KI-Outsourcing für Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsverarbeitung, Berufsrecht, Datenklassen, Subdienstleister, Drittlandtransfer, Prompt-Logging, Loeschung, Audit und Mandantenfreigabe im Ki Vo Ai Act Prüfer."
+description: "Wenn es um Kanzlei-digitale Werkzeuge-Outsourcing und Berufsgeheimnis in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Kanzlei Outsourcing Zivilprozess Rollen Liegt; Arbeitsfeld: europäischem Technikregulierungsrecht."
 ---
 
 # Kanzlei-KI-Outsourcing und Berufsgeheimnis

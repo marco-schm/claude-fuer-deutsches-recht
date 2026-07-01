@@ -1,6 +1,6 @@
 ---
 name: qualitygate-gebrmg
-description: "Qualitygate für Gebrauchsmusteroutputs: Normen, DPMAregister, Fristen, Recherche, Stand der Technik, Rechtsprechung, Paywall-Vermeidung und offene Tatsachen."
+description: "Wenn es um Qualitygate Gebrmg in gebrauchsmusterrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Qualitygate Gebrmg

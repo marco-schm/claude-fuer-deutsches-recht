@@ -1,6 +1,6 @@
 ---
 name: ehegattenrecht-internationales-art-13-egbgb
-description: "Ehegattenrecht Internationales Art 13 Egbgb: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Ehegattenrecht Internationales Art 13 Egbgb in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ehegattenrecht Internationales Art 13 Egbgb

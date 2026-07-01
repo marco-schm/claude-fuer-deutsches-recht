@@ -1,6 +1,6 @@
 ---
 name: bmbfsfj-familien-und-elterngeldrecht
-description: "Sachbereich Familien- und Elterngeldrecht im Geschäftsbereich BMBFSFJ: Normbestand (BEEG; BKGG; UnterhVG; FamFG (familienverfahrensrechtlich); MuSchG.); Akteure (Elterngeldstellen der Länder; BMBFSFJ; Familiengerichte.); EU-Bezug (Work-Life-Balance-RL; Mutterschutz-RL.); typische Legistik-Aufgab..."
+description: "Wenn es um Familien- und Elterngeldrecht (BMBFSFJ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Familien- und Elterngeldrecht (BMBFSFJ)

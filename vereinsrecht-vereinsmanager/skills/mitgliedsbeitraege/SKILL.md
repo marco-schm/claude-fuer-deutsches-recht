@@ -1,6 +1,6 @@
 ---
 name: mitgliedsbeitraege
-description: "Gestaltet Beitragsordnung, Fälligkeit, Mahnung, Sozialklausel, Umlagen und Beitragserhöhung im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Mitgliedsbeiträge in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mitgliedsbeiträge

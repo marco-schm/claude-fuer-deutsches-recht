@@ -1,6 +1,6 @@
 ---
 name: ortschaftsrat-finanzierung-erklaeren
-description: "der Länder: Ortschaftsrat: Finanzierung erklären im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Ortschaftsrat Finanzierung Erklaeren in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ortschaftsrat Finanzierung Erklaeren

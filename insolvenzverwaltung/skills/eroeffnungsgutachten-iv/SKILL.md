@@ -1,6 +1,6 @@
 ---
 name: eroeffnungsgutachten-iv
-description: "Eroeffnungsgutachten als Sachverständiger oder vorläufiger Insolvenzverwalter erstellen wenn Gericht Prüfauftrag erteilt. §§ 17 18 19 InsO Eroffnungsgründe §§ 26 54 InsO Massekostendeckung. Prüfraster: Zahlungsunfähigkeit drohende ZU Überschuldung Massekosten Sicherungsbedarf Fortführungsempfehlu..."
+description: "Wenn es um Eröffnungsgutachten in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eröffnungsgutachten

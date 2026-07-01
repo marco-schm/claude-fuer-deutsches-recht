@@ -1,6 +1,6 @@
 ---
 name: us-software-patent-101
-description: "Prüft US-Patentfähigkeit softwarebezogener Erfindungen nach § 101, abstract idea, practical application und eligibility guidance im Softwarerecht De Eu Us."
+description: "Wenn es um US Software Patent Paragraf 101 in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # US Software Patent § 101

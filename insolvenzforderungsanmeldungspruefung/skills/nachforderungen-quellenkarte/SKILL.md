@@ -1,6 +1,6 @@
 ---
 name: nachforderungen-quellenkarte
-description: "Nachforderungen Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Nachforderungen Quellenkarte in Insolvenzforderungsanmeldungsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Nachforderungen Quellenkarte

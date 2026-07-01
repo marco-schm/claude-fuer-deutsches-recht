@@ -1,6 +1,6 @@
 ---
 name: verbraucherverband-inkasso-konzerninkasso-musterfeststellung
-description: "Verbraucherzentrale: Inkasso- und Konzerninkasso-Serienfälle nach BGH VIII ZR 138/23 prüfen; Verzug, Erstattungsfähigkeit, Gebührenhöhe, RDG, Anspruchsgruppen und Kommunikation für Musterverfahren im Verbraucherverband-Durchsetzung."
+description: "Wenn es um VDG 102 Inkasso Konzerninkasso Musterfeststellung in Verbraucherschutzverband Durchsetzung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # VDG 102 Inkasso Konzerninkasso Musterfeststellung

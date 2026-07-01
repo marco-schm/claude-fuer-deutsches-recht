@@ -1,6 +1,6 @@
 ---
 name: gewerblicher-rs-mandantenkommunikation-redteam-qualitygate
-description: "Mandantenkommunikation im gewerblichen Rechtsschutz: strukturierte Kommunikation in IP-Mandaten – Erstinformation, Statusupdates, Entscheidungsvorlagen, Kostenhinweise und Abschlussberichte. Templates und Tonalitätsregeln für Kanzlei und Rechtsabteilung im Gewerblicher Rechtsschutz."
+description: "Wenn es um Workflow: Mandantenkommunikation in Plugin: Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Workflow: Mandantenkommunikation

@@ -1,6 +1,6 @@
 ---
 name: datenraum-dokumentenintake-aktenlog
-description: "Datenraum: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Datenraum im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Datenraum in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenraum

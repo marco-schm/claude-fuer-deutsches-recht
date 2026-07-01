@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrechtliche-zuwendungen
-description: "Bei gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabgewickelt werden dürfen. Normen: §§ 30 und 31 GmbHG; §§ 57 und 62 AktG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rü..."
+description: "Wenn es um Gesellschaftsrechtliche Zuwendungen in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesellschaftsrechtliche Zuwendungen

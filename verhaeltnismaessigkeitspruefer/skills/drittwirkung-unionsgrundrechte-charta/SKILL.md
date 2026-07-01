@@ -1,6 +1,6 @@
 ---
 name: drittwirkung-unionsgrundrechte-charta
-description: Horizontale Wirkung der Unionsgrundrechte aus der Charta der Grundrechte und der unionsrechtlichen Diskriminierungsverbote. Erläutert EuGH-Linie Mangold Kuecuekdeveci Egenberger Bauer und IR zur Drittwirkung im Anwendungsbereich des Unionsrechts. Wann eine Charta-Norm zwischen Privaten unmittelbar wirkt wann nur ueber richtlinienkonforme Auslegung und wie Verhältnismäßigkeit nach Art. 52 Abs. 1 GRCh in der horizontalen Konstellation greift.
+description: "Wenn es um Drittwirkung der Unionsgrundrechte — Charta und EuGH-Linie in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drittwirkung der Unionsgrundrechte — Charta und EuGH-Linie

@@ -1,6 +1,6 @@
 ---
 name: lohn-abfindungen-besteuerung-funftel
-description: "Abfindungen Besteuerung Fuenftel-Regelung § 34 EStG. Anwendungsfall Aufhebungsvertrag Kündigung mit Abfindung Prüfung Voraussetzungen Fuenftel-Regel Berechnung Vorteilsvergleich. Methodik Berechnung mit DATEV LODAS. Output Lohn-Abrechnung Abfindung mit ermäßigter Besteuerung."
+description: "Wenn es um Abfindungen — Besteuerung mit Fuenftel-Regelung Paragraf 34 EStG in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abfindungen — Besteuerung mit Fuenftel-Regelung § 34 EStG

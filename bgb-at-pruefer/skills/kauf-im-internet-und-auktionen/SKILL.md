@@ -1,6 +1,6 @@
 ---
 name: kauf-im-internet-und-auktionen
-description: "Prüft Vertragsschluss beim Online-Kauf und Internet-Auktionen: invitatio ad offerendum vs. Angebot, automatisierte Annahmeerklärungen, eBay-Versteigerungsregeln nach § 156 BGB und BGH-Rechtsprechung zu Scheinversteigerungen, Fernabsatzrecht §§ 312b ff. BGB."
+description: "Wenn es um Kauf im Internet und Auktionen — Vertragsschluss digital in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kauf im Internet und Auktionen — Vertragsschluss digital

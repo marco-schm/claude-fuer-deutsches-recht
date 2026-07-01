@@ -1,6 +1,6 @@
 ---
 name: institutionelle-folgen-und-regelbindung
-description: "Analysiert die institutionellen Folgen von Rechtsanwendungsentscheidungen und die Forderung nach Regelbindung statt Einzelfallgerechtigkeit. Das Skill zeigt, wann Regelbindung als methodisches Gebot institutionell notwendig ist und wann Einzelfallgerechtigkeit überwiegt. Es hilft, in Gutachten un..."
+description: "Wenn es um Institutionelle Folgen und Regelbindung in der Rechtsanwendung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Institutionelle Folgen und Regelbindung in der Rechtsanwendung

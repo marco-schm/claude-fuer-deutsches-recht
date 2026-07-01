@@ -1,6 +1,6 @@
 ---
 name: fuhrpark-telemetrie-datenschutz
-description: "Fuhrparkdaten: Fahrer, Unfall, Fahrtenbuch, Maut, Tachograf, Telematik, Datenschutz und Steuer-/Arbeitsrecht im Berichtspflichten."
+description: "Wenn es um Fuhrpark, Telemetrie und Meldedaten in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fuhrpark, Telemetrie und Meldedaten

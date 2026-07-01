@@ -1,6 +1,6 @@
 ---
 name: media-and-public-affairs
-description: "Medien und Public Affairs im China-Kontext: Staatliche Medien VR China (Xinhua/CGTN/Global Times), Umgang mit chinesischen Journalistenanfragen, Social-Media-Regulierung CN (Weibo/WeChat), Krisenkommunikation bei China-Themen in Deutschland, Abstimmung Pressemitteilungen mit CN-Rechtsstatus, Repu..."
+description: "Wenn es um Medien und Public Affairs China: Staatspresse/Social Media/Krisenkomm in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medien und Public Affairs China: Staatspresse/Social Media/Krisenkomm

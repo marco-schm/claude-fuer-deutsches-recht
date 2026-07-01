@@ -1,6 +1,6 @@
 ---
 name: workflow-anschluss-skills-router
-description: "Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Ki Governance."
+description: "Wenn es um Anschluss-Skills Router in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Anschluss-Skills Router

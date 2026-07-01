@@ -1,6 +1,6 @@
 ---
 name: rechtsschein-redteam
-description: "Red-Team-Skill für Rechtsschein-Argumentation im BGB AT: Vollmachtsrechtsschein, Duldungs- und Anscheinsvollmacht nach BGH-Rechtsprechung, Entgegenstehende Argumente prüfen, schwache Rechtsschein-Positionen identifizieren."
+description: "Wenn es um Rechtsschein Red-Team — Vollmacht und Duldungs-Anscheinsvollmacht in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Rechtsschein Red-Team — Vollmacht und Duldungs-Anscheinsvollmacht

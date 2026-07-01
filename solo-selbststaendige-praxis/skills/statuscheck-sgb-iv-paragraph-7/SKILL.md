@@ -1,6 +1,6 @@
 ---
 name: statuscheck-sgb-iv-paragraph-7
-description: "Solo-Selbstständige: prüft Weisung, Eingliederung, Unternehmerrisiko und Marktauftritt; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Scheinselbstständigkeit und Status: Prüft weisung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Scheinselbstständigkeit und Status: Prüft weisung

@@ -1,6 +1,6 @@
 ---
 name: methoden-mix-in-der-praxis-anwaltsschriftsatz
-description: "Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Situation das staerkste Argument liefert. Strategie für offene..."
+description: "Wenn es um Methoden-Mix in der Praxis (Anwaltsschriftsatz) in Methodenlehre bürgerliches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Methoden-Mix in der Praxis (Anwaltsschriftsatz)

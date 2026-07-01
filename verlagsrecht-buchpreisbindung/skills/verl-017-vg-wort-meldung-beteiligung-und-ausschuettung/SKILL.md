@@ -1,6 +1,6 @@
 ---
 name: verl-017-vg-wort-meldung-beteiligung-und-ausschuettung
-description: "Verlagsrecht: VG Wort Meldung Beteiligung und Ausschüttung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: VG Wort Meldung Beteiligung und Ausschüttung in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: VG Wort Meldung Beteiligung und Ausschüttung

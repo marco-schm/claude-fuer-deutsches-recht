@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-risiko-memo-schreiben
-description: "Offshore-Schiff: Gesamtrisikobewertung für Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bei Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 476 ff.; MODU-..."
+description: "Wenn es um Offshore-Schiff – Risiko-Memo schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Offshore-Schiff – Risiko-Memo schreiben

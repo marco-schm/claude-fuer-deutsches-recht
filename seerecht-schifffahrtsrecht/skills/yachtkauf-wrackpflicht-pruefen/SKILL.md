@@ -1,6 +1,6 @@
 ---
 name: yachtkauf-wrackpflicht-pruefen
-description: "Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Segel- oder Motorjacht. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eing..."
+description: "Wenn es um Yachtkauf – Wrackbeseitigungspflicht prüfen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Yachtkauf – Wrackbeseitigungspflicht prüfen

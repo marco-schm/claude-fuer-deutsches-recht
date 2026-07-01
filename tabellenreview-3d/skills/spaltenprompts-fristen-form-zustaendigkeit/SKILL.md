@@ -1,6 +1,6 @@
 ---
 name: spaltenprompts-fristen-form-zustaendigkeit
-description: "Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
+description: "Wenn es um Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Spaltenprompts Fristen Form Zuständigkeit; Arbeitsfeld: Tabellenreview 3D."
 ---
 
 # Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg

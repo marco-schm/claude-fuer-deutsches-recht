@@ -1,6 +1,6 @@
 ---
 name: tempo-30-zeichen-auslegen
-description: "StVO: Tempo 30: Zeichen auslegen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Tempo 30 Zeichen Auslegen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tempo 30 Zeichen Auslegen

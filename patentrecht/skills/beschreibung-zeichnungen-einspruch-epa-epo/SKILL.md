@@ -1,6 +1,6 @@
 ---
 name: beschreibung-zeichnungen-einspruch-epa-epo
-description: "Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführungsbeispiele einer Patentanmeldung auf Offenbarungsstütze, Verständlichkeit, Anspruchskonsistenz, Varianten und formale Lücken im Patentrecht."
+description: "Wenn es um Beschreibung und Zeichnungen prüfen in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Beschreibung und Zeichnungen prüfen

@@ -1,6 +1,6 @@
 ---
 name: w-i-insurance-underwriting-bridge
-description: Übersetzt Due-Diligence-Befunde in W&I-Fragen, Exclusions, Disclosure-Strategie und SPA-Anpassungen für versicherte Unternehmenskäufe.
+description: "Wenn es um W&I-Insurance Underwriting Bridge in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # W&I-Insurance Underwriting Bridge
 

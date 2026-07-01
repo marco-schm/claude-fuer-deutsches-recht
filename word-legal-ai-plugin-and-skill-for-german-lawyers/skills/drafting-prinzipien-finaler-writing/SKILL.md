@@ -1,6 +1,6 @@
 ---
 name: drafting-prinzipien-finaler-writing
-description: "Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumtion moeglich; § 253 Abs. 2 Nr. 2 ZPO; AGB-Transparenzgebot § 307 Abs. 1 Satz 2 BGB) und Praezision (kein ueberfluessiges Wort) als prüfbare Anforderungen umsetzen. Mit Anti-Beis..."
+description: "Wenn es um Drafting-Prinzipien: Klarheit, Bestimmtheit, Praezision in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Drafting-Prinzipien: Klarheit, Bestimmtheit, Praezision

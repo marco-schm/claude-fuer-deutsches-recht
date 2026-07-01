@@ -1,6 +1,6 @@
 ---
 name: inso-p254a-rechte-an-gegenstanden-sonstige-wirkungen-des-plans
-description: "§ 254a InsO (Rechte an Gegenständen: Sonstige Wirkungen des Plans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung."
+description: "Wenn es um Paragraf 254a InsO (Rechte an Gegenständen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 254a InsO (Rechte an Gegenständen

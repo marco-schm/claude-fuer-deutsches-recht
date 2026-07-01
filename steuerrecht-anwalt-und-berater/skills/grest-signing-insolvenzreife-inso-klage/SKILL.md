@@ -1,6 +1,6 @@
 ---
 name: grest-signing-insolvenzreife-inso-klage
-description: "GrESt Signing/Closing Fachmodul: auseinanderfallendes schuldrechtliches Erwerbsgeschaeft und dingliche Anteilsuebertragung, doppelte Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG, BFH II B 13/25, II B 23/25, II B 47/25, AdV und Verteidigung gegen Mehrfachbelastung im Steuerrecht Anwalt Und B..."
+description: "Wenn es um GrESt: Signing, Closing und Doppelfestsetzung in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # GrESt: Signing, Closing und Doppelfestsetzung

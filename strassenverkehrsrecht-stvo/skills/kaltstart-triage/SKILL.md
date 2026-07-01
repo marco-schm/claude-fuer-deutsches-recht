@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Straßenverkehrsrecht StVO: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
+description: "Wenn es um Straßenverkehrsrecht StVO - Allgemeiner Einstieg in Straßenverkehrsrecht StVO geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Straßenverkehrsrecht StVO - Allgemeiner Einstieg

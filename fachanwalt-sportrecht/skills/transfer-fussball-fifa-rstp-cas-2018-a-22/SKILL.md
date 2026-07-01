@@ -1,6 +1,6 @@
 ---
 name: transfer-fussball-fifa-rstp-cas-2018-a-22
-description: "Transfer Fussball Fifa Rstp Cas 2018 A 22: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Transfer Fussball Fifa Rstp Cas 2018 A 22 in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transfer Fussball Fifa Rstp Cas 2018 A 22

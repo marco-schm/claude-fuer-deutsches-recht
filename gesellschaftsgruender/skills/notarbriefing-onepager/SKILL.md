@@ -1,6 +1,6 @@
 ---
 name: notarbriefing-onepager
-description: "Erstellt einen sendefertigen Notar-Onepager für Gründung oder Änderung mit Firma, Sitz, Gegenstand, Kapital, Gesellschaftern und Registerfolge."
+description: "Wenn es um Notarbriefing Onepager in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Notarbriefing Onepager

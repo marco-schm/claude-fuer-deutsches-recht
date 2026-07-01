@@ -126,122 +126,58 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. Weltraumobjekt-Absturz in Deutschland – Fundrecht, Eigentumsrechte, Beweissicherung, Staatshaftung im Weltraumrecht.
+### 11.1. Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Amateurfunksatelliten – ITU-Amateurfrequenzen, IARU-Koordinierung, nationale Genehmigung, BNetzA im Weltraumrecht.
+### 11.2. Weltraumrecht: Amateurfunk-Satellit und Frequenznutzung
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: zerstoerende ASAT-Tests Voelkerrechtsbewertung UN-Resolutionslinie und kommerzielle Konsequenzen für Operator Versicherer Investoren Lieferanten. Klaert Geltung des Outer Space Treaty bei ASAT Liability Conve.
+### 11.3. Anti-Satellite-Test-Ban und Orbital-Debris-Pledge
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Arbeitsrecht in der Missionskontrolle – Schichtarbeit, Bereitschaft, Arbeitssicherheit, Strahlung im Weltraumrecht.
+### 11.4. Weltraumrecht: Arbeitsrecht: Missionskontrolle, Schichtbetrieb, Sicherheit
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Artemis Accords 2020 – Inhalt, Rechtsnatur, Verhältnis zu OST/LIAB/REG, Safety Zones, Ressourcenextraktion im Weltraumrecht.
+### 11.5. Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. Astronautenausbildungsverträge – Arbeitsrecht, Haftung für Ausbildungsunfälle, Versicherung, Fürsorge im Weltraumrecht.
+### 11.6. Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Rescue Agreement 1968 – Rettungs- und Rückgabepflicht, Botschafter der Menschheit, Status kommerzieller Raumfahrer im Weltraumrecht.
+### 11.7. Weltraumrecht: Astronautenrettung: Rückgabe und Statusfragen
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Stratosphären-Ballonmissionen – Luftraumgenehmigung, Gefahrgut, Grenzüberschreitung, Datenrecht im Weltraumrecht.
+### 11.8. Weltraumrecht: Ballonmission Stratosphäre: Genehmigung
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Bergung von Weltraumobjekten – BGB-Fundrecht, ARRA Rückgabepflicht, LIAB, Strafrecht im Weltraumrecht.
+### 11.9. Weltraumrecht: Bergung fremder Weltraumgegenstände: Fundrecht und Völkerrecht
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Pfändung und Beschlagnahme von Satelliten und Frequenzrechten – Vollstreckungsrecht, Staatlichkeit im Weltraumrecht.
+### 11.10. Weltraumrecht: Beschlagnahme oder Pfändung von Satellitenrechten
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Board-Memo Raumfahrthaftung – D&O-Relevanz, Versicherungsdeckung, Governance im Weltraumrecht.
+### 11.11. Weltraumrecht: Board-Memo: Raumfahrt, Haftung und Versicherung
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Grundstücksrecht am Startplatz – Lärmimmissionen, Erschütterungen, Nachbarrechtsansprüche im Weltraumrecht.
+### 11.12. Weltraumrecht: Bodeneigentümer Startplatz: Lärm, Erschütterung, Nachbarrecht
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Bodensegment-Sicherheit – Teleport, Rechenzentrum, KRITIS, physische Sicherheit im Weltraumrecht.
+### 11.13. Weltraumrecht: Bodensegment: Teleport, Rechenzentrum, Kritische Infrastruktur
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Bürgeranfragen zu Satelliten – Störungsrecht, Nachbarrecht, Frequenzinterferenz, Behördenweg im Weltraumrecht.
+### 11.14. Weltraumrecht: Bürgeranfrage: Satellit stört Grundstück oder Empfang
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.15. Change Control Board – technische Änderungen und Vertragsrechtsfolgen, Nachtrag, Haftung im Weltraumrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.16. Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab Haven-1 als ISS-Nachfolge. Klaert NASA-Commercial-LEO-Programme Phase 2 Vertragsarchitektur Space Act Agreement Service Level Agreements zwi.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.17. Compliance-Handbuch für Satellitenbetreiber – Normenübersicht, Prozesse, Verantwortlichkeiten im Weltraumrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.18. Cybersicherheit von Satelliten – NIS2-Pflichten, BSI-KRITIS, Incident Response, staatliche Attribution im Weltraumrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.19. Raumfahrtgesetzentwurf BMWK – Genehmigungspflicht, Versicherungspflicht, Regressrecht, Übergangsrecht und Lücken im Weltraumrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.20. DLR-Forschungsverträge – IP-Eigentumsregelung, Haftungsbegrenzung, Publikationspflichten im Weltraumrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.21. Drohnen und HAPS – Abgrenzung Luftrecht/Weltraumrecht, Zulassung, Frequenzen im Weltraumrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.22. Erdbeobachtungsdaten – Datenschutz-Grundverordnung, Geodatenrecht, Geheimschutz sensibler Orte, Copernicus-Lizenz im Weltraumrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.23. ESA-Vertragsrecht – Programmbeiträge, Juste Retour, industrielle Rückflüsse, IP-Regelungen im Weltraumrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.24. Exportkontrolle für Raumfahrttechnik – ITAR-Listenprüfung, EAR, EU Dual-Use-VO, BAFA-Verfahren im Weltraumrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.25. Tokenisierung von Satellitenerträgen – Kryptowertpapiere, BaFin-Aufsicht, MiCAR im Weltraumrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.26. Satellitenfinanzierung – Projektfinanzierung, Lender Step-in-Rechte, Sicherheiten, Frequenzrechte im Weltraumrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.27. Force Majeure in Raumfahrtverträgen – Definition, Nachweispflicht, Folgen, COVID-19-Präzedenz im Weltraumrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.28. Frequenzzuteilung für Satelliten – ITU Radio Regulations, BNetzA-Verfahren, Koordinierung, Interferenz-Beschwerden im Weltraumrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.29. Galileo-Haftungsrecht – Signalausfall, SLA, Nutzerhaftung, PRS-Zugang im Weltraumrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.30. Schadensfälle durch Raketenstufen – LIAB Art. II, nationales Deliktsrecht, Beweislast im Weltraumrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

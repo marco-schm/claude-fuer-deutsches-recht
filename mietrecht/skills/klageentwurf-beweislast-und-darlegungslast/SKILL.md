@@ -1,6 +1,6 @@
 ---
 name: klageentwurf-beweislast-und-darlegungslast
-description: "Klageentwurf: Beweislast, Darlegungslast und Substantiierung im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht."
+description: "Wenn es um Klageentwurf: Beweislast, Darlegungslast und Substantiierung in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klageentwurf: Beweislast, Darlegungslast und Substantiierung

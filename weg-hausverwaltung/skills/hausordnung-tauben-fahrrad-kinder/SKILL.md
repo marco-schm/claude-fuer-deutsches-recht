@@ -1,6 +1,6 @@
 ---
 name: hausordnung-tauben-fahrrad-kinder
-description: "Ordnet Alltagskonflikte in WEG-Anlagen: Tauben auf Balkonen, Fahrradkeller, Diebstahl, Kinderlärm, Spielhof, Weihnachtsbaum, Brandschutz, Hausordnung und Kommunikation. Output: Maßnahmenmatrix und deeskalierende Schreiben."
+description: "Wenn es um Hausordnung: Tauben, Fahrrad, Kinder, Weihnachtsbaum in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Hausordnung: Tauben, Fahrrad, Kinder, Weihnachtsbaum

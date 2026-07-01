@@ -1,6 +1,6 @@
 ---
 name: master-franchise-und-grenzueberschreitende-expansion
-description: "Fachmodul Franchiserecht für Master-Franchise und grenzüberschreitende Expansion: Master-Franchise, Development Schedule, Subfranchising, Quellensteuer, Exportkontrolle und Lokalisierung werden in einem Internationalisierungsmodell gebearbeitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und s..."
+description: "Wenn es um Franchise: Master-Franchise und grenzüberschreitende Expansion in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Franchise: Master-Franchise und grenzüberschreitende Expansion

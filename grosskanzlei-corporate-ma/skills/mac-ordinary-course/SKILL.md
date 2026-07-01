@@ -1,6 +1,6 @@
 ---
 name: mac-ordinary-course
-description: "MAC, Ordinary Course und Interim Covenants: prüft Signing-to-Closing-Pflichten, Zustimmungsvorbehalte, Notice-Prozesse und Covenant-Verstoesse."
+description: "Wenn es um MAC Ordinary Course Covenants in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # MAC Ordinary Course Covenants

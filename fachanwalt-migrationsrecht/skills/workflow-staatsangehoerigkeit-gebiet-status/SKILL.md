@@ -1,6 +1,6 @@
 ---
 name: workflow-staatsangehoerigkeit-gebiet-status
-description: "Staatsangehörigkeit/Gebiet/Status: Prüfungslinie für Migrationsrecht: klärt Staatenlosigkeit, umstrittene Gebiete, Mehrstaatigkeit und Dokumentenlage; mit Statusmatrix, Fristenrettung, St..."
+description: "Wenn es um Staatsangehörigkeit/Gebiet/Status: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Staatsangehörigkeit/Gebiet/Status: Prüfungslinie für Migrationsrecht

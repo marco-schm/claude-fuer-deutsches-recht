@@ -1,6 +1,6 @@
 ---
 name: inkasso-mahnung-vollstreckung
-description: "Inkasso, Mahnung und Vollstreckung: erklärt Forderung prüfen, nicht vorschnell anerkennen, Frist sichern in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Inkasso, Mahnung und Vollstreckung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Inkasso, Mahnung und Vollstreckung

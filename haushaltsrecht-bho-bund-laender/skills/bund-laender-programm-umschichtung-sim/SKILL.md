@@ -1,6 +1,6 @@
 ---
 name: bund-laender-programm-umschichtung-sim
-description: "Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Umschichtung simulieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Bund Länder Programm Umschichtung Sim in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bund Länder Programm Umschichtung Sim

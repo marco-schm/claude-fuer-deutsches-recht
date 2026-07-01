@@ -1,6 +1,6 @@
 ---
 name: klauselinventar-und-scope
-description: "Einstiegs- und Prüfungslinie für Klauselinventar und Scope: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Wenn es um Klauselinventar und Scope in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Klauselinventar und Scope

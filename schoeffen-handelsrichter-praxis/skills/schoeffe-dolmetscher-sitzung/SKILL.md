@@ -1,6 +1,6 @@
 ---
 name: schoeffe-dolmetscher-sitzung
-description: "Schöffe und Dolmetscher (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Verdolmetschung, Verständnisprobleme, Nachfragen und Protokollklarheit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Schöffe und Dolmetscher: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Schöffe und Dolmetscher: Sitzungspraxis

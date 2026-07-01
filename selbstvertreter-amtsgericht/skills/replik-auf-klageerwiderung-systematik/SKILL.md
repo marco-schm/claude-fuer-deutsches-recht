@@ -1,6 +1,6 @@
 ---
 name: replik-auf-klageerwiderung-systematik
-description: "Replik als Kläger-Antwort auf die Klageerwiderung. Pro Beklagten-Punkt Stellungnahme neuer Sachvortrag Beweisangebote substantiiertes Bestreiten der Beklagten-Behauptungen. Wann ist Replik notwendig wann reicht Schweigen."
+description: "Wenn es um Replik: Wie Sie als Kläger auf die Klageerwiderung antworten in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Replik: Wie Sie als Kläger auf die Klageerwiderung antworten

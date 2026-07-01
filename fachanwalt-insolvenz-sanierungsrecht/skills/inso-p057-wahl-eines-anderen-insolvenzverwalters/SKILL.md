@@ -1,6 +1,6 @@
 ---
 name: inso-p057-wahl-eines-anderen-insolvenzverwalters
-description: "§ 57 InsO (Wahl eines anderen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 57 InsO (Wahl eines anderen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand,..."
+description: "Wenn es um Inso P057 Wahl Eines Anderen Insolvenzverwalters in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 57 InsO (Wahl eines anderen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

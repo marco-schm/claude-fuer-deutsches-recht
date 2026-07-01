@@ -1,6 +1,6 @@
 ---
 name: mdr-gesundheitsrobotik
-description: "Routet Gesundheits-, Pflege-, Reha- und OP-Robotik nach MDR, MPDG, Datenschutz, Haftung und klinischen/produktbezogenen Nachweisen."
+description: "Wenn es um MDR und Gesundheitsrobotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # MDR und Gesundheitsrobotik

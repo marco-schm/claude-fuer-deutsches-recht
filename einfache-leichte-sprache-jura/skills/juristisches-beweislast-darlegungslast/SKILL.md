@@ -1,6 +1,6 @@
 ---
 name: juristisches-beweislast-darlegungslast
-description: "Juristisches: Beweislast, Darlegungslast und Substantiierung im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfah..."
+description: "Wenn es um Juristisches: Beweislast, Darlegungslast und Substantiierung in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Juristisches Beweislast Darlegungslast; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
 ---
 
 # Juristisches: Beweislast, Darlegungslast und Substantiierung

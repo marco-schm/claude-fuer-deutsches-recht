@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-heilmittel-physiotherapie-ergotherapie
-description: "Heilmittelanspruch nach § 32 SGB V: Heilmittel-Richtlinie, Verordnungsmengen, Langfristgenehmigung, Wirtschaftlichkeitsprüfung und Widerspruch im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Heilmittel: Physiotherapie, Ergotherapie und Genehmigung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Heilmittel: Physiotherapie, Ergotherapie und Genehmigung

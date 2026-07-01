@@ -1,6 +1,6 @@
 ---
 name: micar-whitepaper-marketing-bank
-description: "MiCAR-Whitepaper und Marketing für Kryptowerte prüfen: Pflichtinhalte, Notifizierung, Werbung, Risikoangaben, Website, Social Media, Vertriebspartner und Haftungsrisiken im Bank-Rechtsabteilung."
+description: "Wenn es um MiCAR Whitepaper und Werbung in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # MiCAR Whitepaper und Werbung

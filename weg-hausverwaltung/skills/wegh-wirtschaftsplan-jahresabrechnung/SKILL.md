@@ -1,6 +1,6 @@
 ---
 name: wegh-wirtschaftsplan-jahresabrechnung
-description: "WEG-Leitfaden Wirtschaftsplan und Jahresabrechnung nach § 28 WEG: Vorschüsse, Nachschüsse, Abrechnungsspitzen, Einzelabrechnungen, Vermögensbericht, Beschlussformulierung, Anfechtungsrisiko und Mieterschnittstelle."
+description: "Wenn es um WEG: Wirtschaftsplan und Jahresabrechnung in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # WEG: Wirtschaftsplan und Jahresabrechnung

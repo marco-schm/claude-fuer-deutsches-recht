@@ -1,6 +1,6 @@
 ---
 name: start-up-equipment-leasing-covenants
-description: "Start-up Equipment-Leasing: Kreditwürdigkeitsprüfung, Financial Covenants, persönliche Bürgschaft, Anlaufrisikoklauseln und typische Verhandlungspunkte im Leasingrecht."
+description: "Wenn es um Start-up Equipment-Leasing: Covenants und Risikoabsicherung in Leasingrecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Start-up Equipment-Leasing: Covenants und Risikoabsicherung

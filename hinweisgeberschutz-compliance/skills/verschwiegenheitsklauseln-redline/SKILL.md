@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheitsklauseln-redline
-description: "Redlinet Verschwiegenheitsklauseln hinweisgeberfest im Hinweisgeberschutz Compliance."
+description: "Wenn es um Verschwiegenheitsklauseln Redline in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verschwiegenheitsklauseln Redline

@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-kollidierenden
-description: "Patentanwälte: mandatsannahme bei kollidierenden erfindern - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Mandatsannahme Kollidierenden in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Patentanwälte: mandatsannahme bei kollidierenden erfindern - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

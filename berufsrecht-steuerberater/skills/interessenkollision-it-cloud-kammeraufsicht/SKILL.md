@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-it-cloud-kammeraufsicht
-description: "Interessenkollision: vertiefter Berufsrechts-Skill für Steuerberater; prüft Konfliktprüfung, Mandatsannahme, Sozietätswechsel und Tätigkeitsverbote, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
+description: "Wenn es um Interessenkollision in Berufsrecht Steuerberater geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Interessenkollision

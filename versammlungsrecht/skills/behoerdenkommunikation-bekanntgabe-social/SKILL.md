@@ -1,6 +1,6 @@
 ---
 name: behoerdenkommunikation-bekanntgabe-social
-description: "Formuliert kluge Mails und Telefonnotizen an Versammlungsbehörde, Polizei, Ordnungsamt und Straßenverkehrsbehörde im Versammlungsrecht."
+description: "Wenn es um Knapp, freundlich, rechtlich klar in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Knapp, freundlich, rechtlich klar

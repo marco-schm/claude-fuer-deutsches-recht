@@ -1,6 +1,6 @@
 ---
 name: abschluss-vor-abgabe
-description: "Solo-Selbstständige: macht den finalen Selbstcheck vor Vertrag, Rechnung, Behördenantwort oder Upload; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Grenzen Compliance und Selbstschutz: Macht den finalen selbstcheck vor vertrag in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzen Compliance und Selbstschutz: Macht den finalen selbstcheck vor vertrag

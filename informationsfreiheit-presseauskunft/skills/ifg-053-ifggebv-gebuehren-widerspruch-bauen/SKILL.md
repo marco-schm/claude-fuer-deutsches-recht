@@ -1,6 +1,6 @@
 ---
 name: ifg-053-ifggebv-gebuehren-widerspruch-bauen
-description: "Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Widerspruch bauen. Widerspruch bauen für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Ifggebv Gebuehren Widerspruch Bauen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ifggebv Gebuehren Widerspruch Bauen

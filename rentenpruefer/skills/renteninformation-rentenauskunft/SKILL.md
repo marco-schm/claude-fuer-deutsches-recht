@@ -1,6 +1,6 @@
 ---
 name: renteninformation-rentenauskunft
-description: "Renteninformation und Rentenauskunft verständlich auswerten: Prognose, Versicherungsverlauf, Wartezeiten, Abschläge, Grundannahmen und Unsicherheiten im Rentenpruefer."
+description: "Wenn es um renteninformation-rentenauskunft-verstehen in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # renteninformation-rentenauskunft-verstehen

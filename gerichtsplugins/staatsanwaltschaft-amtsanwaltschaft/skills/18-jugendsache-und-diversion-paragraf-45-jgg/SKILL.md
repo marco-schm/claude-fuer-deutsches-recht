@@ -1,6 +1,6 @@
 ---
 name: 18-jugendsache-und-diversion-paragraf-45-jgg
-description: "Jugendstaatsanwaltschaftliche Bearbeitung, Diversion (Paragraf 45 JGG), Absehen von der Verfolgung, erzieherische Massnahmen, Heranwachsende (Paragraf 105 JGG), Anklage zur Jugendkammer oder zum Jugendrichter"
+description: "Wenn es um 18 Jugendsache und Diversion Paragraf 45 JGG in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 18 Jugendsache und Diversion Paragraf 45 JGG

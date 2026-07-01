@@ -1,6 +1,6 @@
 ---
 name: 675w-zahlen-schwellen-und-berechnung
-description: "675W: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um 675W: Zahlen, Schwellenwerte und Berechnung in Phishing-Vorfall-Prüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # 675W: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: cloud-server-drittlandtransfer
-description: "Steuerberater: cloud server drittlandtransfer - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Steuerberater."
+description: "Wenn es um Cloud Server Drittlandtransfer in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: cloud server drittlandtransfer - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

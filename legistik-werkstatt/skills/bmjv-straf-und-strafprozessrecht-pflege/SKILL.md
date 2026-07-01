@@ -1,6 +1,6 @@
 ---
 name: bmjv-straf-und-strafprozessrecht-pflege
-description: "Sachbereich Straf- und Strafprozessrecht-Pflege im Geschäftsbereich BMJV: Normbestand (StGB; StPO; OWiG; JGG; GVG; EGStGB.); Akteure (BMJV; Generalbundesanwalt; BGH-Strafsenate; Staatsanwaltschaften; LKA und BKA.); EU-Bezug (Strafrechtsharmonisierung Art. 83 AEUV; EuStA; Eurojust.); typische Leg..."
+description: "Wenn es um Straf- und Strafprozessrecht-Pflege (BMJV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Straf- und Strafprozessrecht-Pflege (BMJV)

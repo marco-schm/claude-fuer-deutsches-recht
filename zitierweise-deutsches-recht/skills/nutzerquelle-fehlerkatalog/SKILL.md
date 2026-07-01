@@ -1,6 +1,6 @@
 ---
 name: nutzerquelle-fehlerkatalog
-description: "Nutzerquelle Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Wenn es um Nutzerquelle Fehlerkatalog in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nutzerquelle Fehlerkatalog

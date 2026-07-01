@@ -1,6 +1,6 @@
 ---
 name: inso-p353-vollstreckbarkeit-auslandischer-entscheidungen
-description: "§ 353 InsO (Vollstreckbarkeit ausländischer Entscheidungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 353 InsO (Vollstreckbarkeit ausländischer Entscheidungen) im Mandat prüfen: Norm..."
+description: "Wenn es um Inso P353 Vollstreckbarkeit Auslandischer Entscheidungen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 353 InsO (Vollstreckbarkeit ausländischer Entscheidungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

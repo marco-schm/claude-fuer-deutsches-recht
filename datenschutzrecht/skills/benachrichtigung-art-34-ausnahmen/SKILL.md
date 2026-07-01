@@ -1,6 +1,6 @@
 ---
 name: benachrichtigung-art-34-ausnahmen
-description: "Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO. Behandelt: lit. a technische und organisatorische Maßnahmen (insb. Verschlüsselung) die Daten unverständlich machen; lit. b nachträgliche Maßnahmen die hohes Risiko nicht mehr eintreten lassen; lit. c unverhältnismäßi..."
+description: "Wenn es um Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO

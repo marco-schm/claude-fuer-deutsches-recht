@@ -1,6 +1,6 @@
 ---
 name: erfassen-behoerden-gerichts-registerweg
-description: "Erfassen: Behörden-, Gerichts- oder Registerweg im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Do..."
+description: "Wenn es um Erfassen: Behörden-, Gerichts- oder Registerweg in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erfassen Behoerden Gerichts Registerweg; Arbeitsfeld: Fluggastrechte."
 ---
 
 # Erfassen: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: weg-baum-fassade-dach
-description: "Baum/Fassade/Dach: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Erhaltung, Sondernutzung, Verkehrssicherung, Kostenverteilung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbe..."
+description: "Wenn es um Baum/Fassade/Dach: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Baum/Fassade/Dach: Fachmodul im Miet- und Wohnungseigentumsrecht

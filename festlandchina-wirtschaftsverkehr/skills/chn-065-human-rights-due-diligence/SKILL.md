@@ -1,6 +1,6 @@
 ---
 name: chn-065-human-rights-due-diligence
-description: "Festlandchina Wirtschaftsverkehr: Human Rights Due Diligence. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Human Rights Due Diligence in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Human Rights Due Diligence

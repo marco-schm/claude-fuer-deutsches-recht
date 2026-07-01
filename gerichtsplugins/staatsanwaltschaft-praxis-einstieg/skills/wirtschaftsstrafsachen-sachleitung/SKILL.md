@@ -1,6 +1,6 @@
 ---
 name: wirtschaftsstrafsachen-sachleitung
-description: "Wirtschaftsstrafsachen sachleiten: Praxis-Skill für neue Staatsanwälte zu komplexe Tatkomplexe, Gutachten, Finanzdaten, Durchsuchung, Arrest und Verständigung koordinieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Wirtschaftsstrafsachen sachleiten in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wirtschaftsstrafsachen sachleiten

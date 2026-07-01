@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagedelikte-153-stgb-uneidlich
-description: "Falsche uneidliche Aussage nach Paragraph 153 StGB: Aussagedelikte vor Gericht und parlamentarischen Untersuchungsausschuessen. Zeugenstellung Vereidigung. Subjektiver Tatbestand Vorsatz. Berichtigungsmoeg..."
+description: "Wenn es um Falsche uneidliche Aussage nach Paragraph 153 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Falsche uneidliche Aussage nach Paragraph 153 StGB

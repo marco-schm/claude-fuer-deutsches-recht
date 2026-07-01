@@ -1,6 +1,6 @@
 ---
 name: enterprise-license-metrics
-description: "Prüft komplexe Lizenzmetriken: Seats, named users, concurrent users, devices, cores, revenue, affiliates und API calls im Softwarerecht De Eu Us."
+description: "Wenn es um Enterprise-Lizenzmetriken in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Enterprise-Lizenzmetriken

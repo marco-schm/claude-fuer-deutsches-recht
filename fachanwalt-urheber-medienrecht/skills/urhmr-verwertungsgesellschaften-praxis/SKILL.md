@@ -1,6 +1,6 @@
 ---
 name: urhmr-verwertungsgesellschaften-praxis
-description: "Verwertungsgesellschaften GEMA, VG Wort, VG Bild-Kunst in der Praxis: Wahrnehmungsvertrag, Pauschalverguen, Tarife, Auskunftsansprueche, Reklamation: Verwertungsgesellschaften GEMA, VG Wort, VG Bild-Kunst in der Praxis: Wahrnehmungsvertrag, Pauschalverguen,..."
+description: "Wenn es um Urhmr Verwertungsgesellschaften Praxis in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verwertungsgesellschaften GEMA, VG Wort, VG Bild-Kunst in der Praxis: Wahrnehmungsvertrag, Pauschalverguen, Tarife, Auskunftsansprueche, Reklamation

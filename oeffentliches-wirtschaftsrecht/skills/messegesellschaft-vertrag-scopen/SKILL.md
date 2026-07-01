@@ -1,6 +1,6 @@
 ---
 name: messegesellschaft-vertrag-scopen
-description: "Messegesellschaft: Vertrag scopen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Messegesellschaft Vertrag Scopen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Messegesellschaft Vertrag Scopen

@@ -1,6 +1,6 @@
 ---
 name: schufa-zahlungsstoerungen-speicherfrist-bgh-2025
-description: "Datenschutzrechtlicher Spezialskill zu SCHUFA-/Auskunftei-Speicherung erledigter Zahlungsstörungen nach BGH I ZR 97/25, EuGH C-26/22/C-64/22 sowie Art. 6 und 17 DSGVO."
+description: "Wenn es um SCHUFA-Zahlungsstörungen: Speicherfrist nach BGH 2025 in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SCHUFA-Zahlungsstörungen: Speicherfrist nach BGH 2025

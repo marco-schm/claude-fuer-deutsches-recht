@@ -1,6 +1,6 @@
 ---
 name: gebuehrenbescheid
-description: "Prüft Gebühren, Auslagen, Fälligkeit, Rechtsgrundlage, Billigkeit, Stundung, Erlass und Widerspruch im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Gebührenbescheid in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gebührenbescheid

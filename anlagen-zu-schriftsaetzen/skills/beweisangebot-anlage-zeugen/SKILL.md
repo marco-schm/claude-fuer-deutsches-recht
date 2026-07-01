@@ -1,6 +1,6 @@
 ---
 name: beweisangebot-anlage-zeugen
-description: "Zeugenbeweis korrekt ueber Anlagen unterstuetzen: schriftliche Zeugenaussagen sind keine Anlagen-Beweismittel im Strengbeweis, koennen aber als praeprozessuale Information dienen. Anlagen, die die Glaubhaftigkeit stuetzen (Chatverlauf, E-Mail, Foto). Prüfraster und Beweisangebot-Wortlaute."
+description: "Wenn es um Beweisangebot über Anlagen (Zeugen) in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweisangebot über Anlagen (Zeugen)

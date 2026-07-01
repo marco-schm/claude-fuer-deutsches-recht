@@ -1,6 +1,6 @@
 ---
 name: lph-06-red-team-pruefung
-description: "HOAI LPH 6 Vorbereitung der Vergabe: sucht Widersprüche, vergessene Beteiligte, falsche Annahmen und unklare Zuständigkeit; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume."
+description: "Wenn es um LPH 6 Vorbereitung der Vergabe: Sucht widersprüche in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Sucht widersprüche

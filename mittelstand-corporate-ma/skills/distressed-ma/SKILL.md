@@ -1,6 +1,6 @@
 ---
 name: distressed-ma
-description: "Distressed M&A: Unternehmenskauf in Krise, vorläufiger Insolvenz, StaRUG, Insolvenzplan oder Asset Deal aus der Insolvenz; §§ 17-19 InsO, § 15a InsO, § 135 InsO, §§ 1-93 StaRUG im Mittelstand Corporate Ma."
+description: "Wenn es um Distressed M&A in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Distressed M&A

@@ -1,6 +1,6 @@
 ---
 name: vertiefung-01-red-team-gegenposition
-description: "Deutsche Rechtsgeschichte Vertiefung: Red-Team-Gegenposition zu einer rechtshistorischen These. Systematische Prüfung auf schwache Belege, Anachronismus, Quellenluecken und alternative Interpretationen."
+description: "Wenn es um Vertiefung: Red-Team Gegenposition in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertiefung: Red-Team Gegenposition

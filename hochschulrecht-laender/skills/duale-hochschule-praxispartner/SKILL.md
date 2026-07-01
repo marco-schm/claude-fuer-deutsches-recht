@@ -1,6 +1,6 @@
 ---
 name: duale-hochschule-praxispartner
-description: "Prüft Praxispartner, Studienvertrag, Exmatrikulation, Akkreditierung und Status im Hochschulrecht Länder."
+description: "Wenn es um Duale Hochschule und Praxispartner in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Duale Hochschule und Praxispartner

@@ -1,6 +1,6 @@
 ---
 name: bereicherungsrecht-nichtleistungskondiktion
-description: "Prüft Nichtleistungskondiktion §§ 812 ff. BGB: Eingriffskondiktion, Rückgriffskondiktion und Verwendungskondiktion."
+description: "Wenn es um Bereicherungsrecht: Nichtleistungskondiktion in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bereicherungsrecht: Nichtleistungskondiktion

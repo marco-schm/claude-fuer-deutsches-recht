@@ -1,6 +1,6 @@
 ---
 name: nda-grundstruktur-pruefen
-description: "NDA-Grundstruktur prüfen: Parteien, Zweck der Offenlegung, Definition Vertrauliche Information, Pflichten, Laufzeit, Aufbewahrung/Rueckgabe, Vertragsstrafe, Geheimhaltungsdauer nach Vertragsende, Jurisdiction. Prüfraster gegen marktueblichen Standard."
+description: "Wenn es um NDA-Grundstruktur in NDA-Abgleich geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # NDA-Grundstruktur

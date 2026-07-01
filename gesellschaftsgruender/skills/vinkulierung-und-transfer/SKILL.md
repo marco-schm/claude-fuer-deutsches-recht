@@ -1,6 +1,6 @@
 ---
 name: vinkulierung-und-transfer
-description: "Prüft Vinkulierung, Zustimmung, Vorerwerbsrechte, Drag/Tag und Joinder im Gesellschaftsgruender."
+description: "Wenn es um Vinkulierung und Anteilsübertragung in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vinkulierung und Anteilsübertragung

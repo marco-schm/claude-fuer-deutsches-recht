@@ -1,6 +1,6 @@
 ---
 name: kreuzblatt-konsistenzpruefung
-description: "Kreuzblatt-Konsistenzprüfung: Abgleich der drei Dimensionen Forderung-Prüfung-Stellung auf Widerspruchsfreiheit. Normen: §§ 174 ff. InsO. Prüfraster: Betragsabweichungen, Statusinkonsistenzen, fehlende Eintraege. Output: Konsistenz-Prüfbericht mit Fehlerliste. Abgrenzung: nicht Risikoampel-Aggreg..."
+description: "Wenn es um /tabellenreview-3d:kreuzblatt-konsistenzprüfung in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # /tabellenreview-3d:kreuzblatt-konsistenzprüfung

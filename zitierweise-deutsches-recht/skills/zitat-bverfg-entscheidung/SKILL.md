@@ -1,6 +1,6 @@
 ---
 name: zitat-bverfg-entscheidung
-description: "BVerfG-Entscheidung zitieren: Senatsnummer, Datum, Aktenzeichen, BVerfGE, ggf. Kammerbeschluss. BVerfGE-Band und Seitenzahl nur übernehmen, wenn sie amtlich oder frei verifizierbar sind; andernfalls mit Gericht, Entscheidungsform, Datum und Aktenzeichen zitieren. Kammerentscheidung BVerfG (K), Be..."
+description: "Wenn es um BVerfG-Entscheidung zitieren in Zitierweise deutsches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # BVerfG-Entscheidung zitieren

@@ -1,6 +1,6 @@
 ---
 name: mandatskuendigung-zur-unzeit-kammerantwort-und-verfahr
-description: "Anwälte: mandatskuendigung zur unzeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Mandatskuendigung Zur Unzeit Kammerantwort Und Verfahr in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Anwälte: mandatskuendigung zur unzeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

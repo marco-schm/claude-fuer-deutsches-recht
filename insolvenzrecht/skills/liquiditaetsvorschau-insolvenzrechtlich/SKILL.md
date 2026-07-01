@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-insolvenzrechtlich
-description: "Erstellt und bewertet die rollierende Liquiditätsvorschau als strukturierte Arbeitsgrundlage für insolvenzrechtliche Tatbestände nach § 17 InsO (Zahlungsunfähigkeit) und § 19 Abs. 2 InsO (Fortbestehensprognose). Lädt, wenn geprüft werden soll, ob/wann Zahlungsunfähigkeit eingetreten ist, eine Liq..."
+description: "Wenn es um Liquiditätsvorschau als insolvenzrechtliches Beweismittel in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Liquiditätsvorschau als insolvenzrechtliches Beweismittel

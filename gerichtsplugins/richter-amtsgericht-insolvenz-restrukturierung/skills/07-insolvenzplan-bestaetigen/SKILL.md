@@ -1,6 +1,6 @@
 ---
 name: 07-insolvenzplan-bestaetigen
-description: "Insolvenzplanverfahren Paragrafen 217 ff. InsO: Vorprüfung Paragraf 231, Anhörung, Erlaeuterungs- und Abstimmungstermin Paragrafen 235-238, gerichtliche Bestätigung Paragraf 248, Minderheitenschutz Paragraf 251"
+description: "Wenn es um 07 Insolvenzplan Bestaetigen in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 07 Insolvenzplan Bestaetigen

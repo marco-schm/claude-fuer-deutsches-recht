@@ -1,6 +1,6 @@
 ---
 name: dsfa-bfdi-und-laender-blacklist
-description: "Abgleich einer Verarbeitung mit der BfDI-Pflichtliste nach Art. 35 Abs. 4 DSGVO und mit den Listen der Landesdatenschutzbehoerden. Output: dokumentierter Listenabgleich mit Trefferanalyse und ggf. Verweis auf zwingende DSFA."
+description: "Wenn es um BfDI- und Länder-Blacklist Abgleich in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BfDI- und Länder-Blacklist Abgleich

@@ -1,6 +1,6 @@
 ---
 name: immo-gewerbliche-mieter-konkurs
-description: "Gewerbliche Mieter in der Insolvenz: § 109 InsO Wahlrecht Insolvenzverwalter, Kuendigung trotz fester Mietzeit. Prüfraster für Vermieter im Immobilienrechtspraxis."
+description: "Wenn es um Gewerbemieter in Insolvenz in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerbemieter in Insolvenz

@@ -1,6 +1,6 @@
 ---
 name: aufenthaltsrecht-mandant-betreuung
-description: "Aufenthaltsrechtliche Mandantenkommunikation: AufenthG, Asyl, Familiennachzug. Anschreiben Ausländerbehoerde Begleitschreiben für Mandanten. Vorlage Bescheid-Erklaerung im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um ELS-J Aufenthaltsrecht in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aufenthaltsrecht Mandant Betreuung; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
 ---
 
 # ELS-J Aufenthaltsrecht

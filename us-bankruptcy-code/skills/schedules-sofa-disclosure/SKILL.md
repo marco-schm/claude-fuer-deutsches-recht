@@ -1,6 +1,6 @@
 ---
 name: schedules-sofa-disclosure
-description: "Prüft schedules, statement of financial affairs, assets, liabilities, executory contracts, transfers and accuracy risks im US Bankruptcy Code."
+description: "Wenn es um Schedules and SOFA Disclosure in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Schedules and SOFA Disclosure

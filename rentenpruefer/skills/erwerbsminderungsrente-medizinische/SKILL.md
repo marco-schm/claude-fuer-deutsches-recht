@@ -1,6 +1,6 @@
 ---
 name: erwerbsminderungsrente-medizinische
-description: "Erwerbsminderungsrente: medizinische Unterlagen, Leistungsvermögen, Reha-vor-Rente, Gutachtenkritik und Widerspruchsstrategie."
+description: "Wenn es um erwerbsminderungsrente-medizinische-unterlagen in Rentenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # erwerbsminderungsrente-medizinische-unterlagen

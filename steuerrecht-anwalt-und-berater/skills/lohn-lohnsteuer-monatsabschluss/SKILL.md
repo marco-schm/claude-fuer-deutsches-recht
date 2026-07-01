@@ -1,6 +1,6 @@
 ---
 name: lohn-lohnsteuer-monatsabschluss
-description: "Monatlicher Lohnsteuer-Monatsabschluss. Anwendungsfall regulaere Lohnabrechnung Bruttolohn LSt KiSt SolZ pauschalierte Loehne SV-Abrechnung Auszahlung Anmeldung. Methodik Standard-Abrechnungsschritte 39e Tabelle. Output Lohnabrechnungen LSt-Anmeldung Bankueberweisung."
+description: "Wenn es um Lohnsteuer-Monatsabschluss in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lohnsteuer-Monatsabschluss

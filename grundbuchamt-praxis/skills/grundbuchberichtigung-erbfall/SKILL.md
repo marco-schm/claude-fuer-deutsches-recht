@@ -1,6 +1,6 @@
 ---
 name: grundbuchberichtigung-erbfall
-description: "Prüft Erbschein, notarielle Verfügung von Todes wegen, Europäisches Nachlasszeugnis, Grundbuchberichtigung und Kostenfristen im Grundbuchamt Praxis."
+description: "Wenn es um Grundbuchberichtigung nach Erbfall in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundbuchberichtigung nach Erbfall

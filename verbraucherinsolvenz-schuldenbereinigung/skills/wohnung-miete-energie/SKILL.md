@@ -1,6 +1,6 @@
 ---
 name: wohnung-miete-energie
-description: "Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung: Normanker: BGB Mietrecht; InsO § 109; SGB II/SG..."
+description: "Wenn es um Wohnung Miete Energie in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.

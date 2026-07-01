@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-dingliche-vorkaufsrechte
-description: "Prüft vertragliche und dingliche Vorkaufsrechte, Ausübungsfall, Rang und Löschung im Erbbaurecht Praxis."
+description: "Wenn es um Vorkaufsrechte im Erbbaurecht in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorkaufsrechte im Erbbaurecht

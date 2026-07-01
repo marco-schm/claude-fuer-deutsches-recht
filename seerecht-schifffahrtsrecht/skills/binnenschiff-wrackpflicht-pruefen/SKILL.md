@@ -1,6 +1,6 @@
 ---
 name: binnenschiff-wrackpflicht-pruefen
-description: "Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. BinSchG §§ 1-133; SchRG §§..."
+description: "Wenn es um Binnenschiff – Wrackbeseitigungspflicht prüfen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Binnenschiff – Wrackbeseitigungspflicht prüfen

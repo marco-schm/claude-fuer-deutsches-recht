@@ -1,6 +1,6 @@
 ---
 name: notariat-022-zwischenverfuegung-registergericht-antwortstrategie
-description: "Notariat im Alltag: Zwischenverfügung Registergericht Antwortstrategie und Frist mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Notariat im Alltag: Zwischenverfügung Registergericht Antwortstrategie und Frist in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Zwischenverfügung Registergericht Antwortstrategie und Frist

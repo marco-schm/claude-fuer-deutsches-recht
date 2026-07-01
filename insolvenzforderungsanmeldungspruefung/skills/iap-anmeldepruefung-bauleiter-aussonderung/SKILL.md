@@ -1,6 +1,6 @@
 ---
 name: iap-anmeldepruefung-bauleiter-aussonderung
-description: "Bauleiter Prüfung von Insolvenzforderungsanmeldungen: Grund, Hoehe, Rang, Bestreiten. Prüfraster für Insolvenzverwalter im Insolvenzforderungsanmeldungspruefung."
+description: "Wenn es um IAP: Anmeldepruefung Bauleiter in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IAP: Anmeldepruefung Bauleiter

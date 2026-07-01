@@ -1,6 +1,6 @@
 ---
 name: kirchliche-arbeitsverhaltnisse-und-loyalitat
-description: "Kirchliche Arbeitsverhältnisse und Loyalität: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Kirchliche Arbeitsverhältnisse und Loyalität in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kirchliche Arbeitsverhältnisse und Loyalität

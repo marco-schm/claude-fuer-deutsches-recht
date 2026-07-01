@@ -1,6 +1,6 @@
 ---
 name: plan-anlagenpaket
-description: "Anlagenpaket für Insolvenzplan oder StaRUG-Plan vollständig zusammenstellen. §§ 229 230 InsO Plananlagen §§ 14 15 StaRUG Unterlagen. Prüfraster: Pflichtanlagen je Route Vermögensuebersicht Finanzplan Erklärungen Beteiligtenlisten Unterschriften. Output: Anlagencheckliste Dateinamensschema Untersc..."
+description: "Wenn es um IV-integrierte Anlagenpaket in Insolvenzverwaltung - IV-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # IV-integrierte Anlagenpaket

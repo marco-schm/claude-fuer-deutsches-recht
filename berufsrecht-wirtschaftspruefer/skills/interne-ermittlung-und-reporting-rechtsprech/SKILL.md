@@ -1,6 +1,6 @@
 ---
 name: interne-ermittlung-und-reporting-rechtsprech
-description: "Wirtschaftsprüfer: interne ermittlung und reporting - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Interne Ermittlung Und Reporting Rechtsprech in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: interne ermittlung und reporting - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

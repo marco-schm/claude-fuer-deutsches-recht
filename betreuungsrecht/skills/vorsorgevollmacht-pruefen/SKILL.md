@@ -1,6 +1,6 @@
 ---
 name: vorsorgevollmacht-pruefen
-description: "Vorsorgevollmacht prüfen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Prüfraster für den Vergleich Vollmacht/Betreuungsbedarf."
+description: "Wenn es um Vorsorgevollmacht prüfen in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vorsorgevollmacht Pruefen; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Vorsorgevollmacht prüfen

@@ -1,6 +1,6 @@
 ---
 name: evvollzug-neu-005-ordnungsmittel-vollstreckung
-description: "Gewerblicher Rechtsschutz: Ordnungsmittelantrag Vollstreckung Unterlassungstitel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Gewerblicher Rechtsschutz: Ordnungsmittelantrag Vollstreckung Unterlassungstitel in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerblicher Rechtsschutz: Ordnungsmittelantrag Vollstreckung Unterlassungstitel

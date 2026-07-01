@@ -1,6 +1,6 @@
 ---
 name: spezial-kuendigung-form-vollmacht-zugang
-description: "Kündigungsform/Vollmacht/Zugang: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Schriftform, Vertretung, Originalvollmacht, Briefkasten, Bote, Einschreiben; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Kündigungsform/Vollmacht/Zugang in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kündigungsform/Vollmacht/Zugang

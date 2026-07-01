@@ -1,6 +1,6 @@
 ---
 name: geschaeftsgeheimnisse-und-logdaten
-description: "Prüft Schutz von Geschäftsgeheimnissen in Logs, Diagnosedaten, Trainingsdaten, Quellcode, Sachverständigenverfahren und Behördenkontakten."
+description: "Wenn es um Geschäftsgeheimnisse und Logdaten in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Geschaeftsgeheimnisse Und Logdaten; Arbeitsfeld: robotik-recht."
 ---
 
 # Geschäftsgeheimnisse und Logdaten

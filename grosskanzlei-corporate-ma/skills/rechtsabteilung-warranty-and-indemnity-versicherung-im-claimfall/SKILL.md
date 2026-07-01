@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-warranty-and-indemnity-versicherung-im-claimfall
-description: "Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Auslesen, Exclusions und Claim Preservation werden als geführt: Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-..."
+description: "Wenn es um Rechtsabteilung Warranty And Indemnity Versicherung Im Claimfall in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Auslesen, Exclusions und Claim Preservation werden als geführt

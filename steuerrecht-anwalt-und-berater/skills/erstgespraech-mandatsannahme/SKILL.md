@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden für Steuerrechtsmandate — Mandatsannahme von der ersten Kontaktaufnahme bis zur Vollmachtserteilung. Anwendungsfall Mandant ruft erstmals an oder kommt zum Erstgespraech Steuerrecht Beratung oder Prozess. Prüfraster Konflikt- und GwG-Check §§ 10 ff. GwG Voll..."
+description: "Wenn es um Erstgespraech und Mandatsannahme im Steuerrecht (Beratung und Prozess) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstgespraech und Mandatsannahme im Steuerrecht (Beratung und Prozess)

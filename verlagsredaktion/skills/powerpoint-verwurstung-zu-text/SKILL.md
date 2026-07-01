@@ -1,6 +1,6 @@
 ---
 name: powerpoint-verwurstung-zu-text
-description: "Macht aus einer schlechten Vortrags-PPT einen Fliesstextbeitrag für Fachzeitschrift oder Tagungsband, ohne Bullet-Wuesten und mit Quellenrekonstruktion im Verlagsredaktion."
+description: "Wenn es um Powerpoint-Verwurstung zu Text in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Powerpoint-Verwurstung zu Text

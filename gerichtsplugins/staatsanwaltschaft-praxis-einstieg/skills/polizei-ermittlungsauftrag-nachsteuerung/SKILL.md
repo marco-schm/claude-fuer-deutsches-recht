@@ -1,6 +1,6 @@
 ---
 name: polizei-ermittlungsauftrag-nachsteuerung
-description: "Ermittlungsauftrag an die Polizei: Nachsteuerung: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Ermittlungsauftrag an die Polizei: Nachsteuerung in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Ermittlungsauftrag an die Polizei: Nachsteuerung

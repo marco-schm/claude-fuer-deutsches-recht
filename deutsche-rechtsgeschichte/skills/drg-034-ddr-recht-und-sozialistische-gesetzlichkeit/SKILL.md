@@ -1,6 +1,6 @@
 ---
 name: drg-034-ddr-recht-und-sozialistische-gesetzlichkeit
-description: "Deutsche Rechtsgeschichte: DDR Recht Und Sozialistische Gesetzlichkeit. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um DDR Recht Und Sozialistische Gesetzlichkeit in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DDR Recht Und Sozialistische Gesetzlichkeit

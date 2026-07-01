@@ -1,6 +1,6 @@
 ---
 name: spesen-reisekosten-stammdaten-qualitaetscheck
-description: "Berliner Start-up-HR: Spesen- und Reisekostenpolicy: Belege, Freigaben, steuerliche Plausibilität, Workation, Bahncard, Hotel und Bewirtung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Spesen Reisekosten Policy in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Spesen Reisekosten Policy

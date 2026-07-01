@@ -1,6 +1,6 @@
 ---
 name: vertragsausfueller-erstpruefung-und-mandatsziel
-description: "Vertragsausfueller: Erstprüfung, Rollenklärung und Mandatsziel im Vertragsausfueller."
+description: "Wenn es um Vertragsausfueller: Erstprüfung, Rollenklärung und Mandatsziel in Vertragsausfüller geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertragsausfueller: Erstprüfung, Rollenklärung und Mandatsziel

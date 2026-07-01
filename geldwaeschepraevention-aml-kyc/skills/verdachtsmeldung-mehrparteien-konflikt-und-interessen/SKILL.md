@@ -1,6 +1,6 @@
 ---
 name: verdachtsmeldung-mehrparteien-konflikt-und-interessen
-description: "Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix: Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix."
+description: "Wenn es um Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix

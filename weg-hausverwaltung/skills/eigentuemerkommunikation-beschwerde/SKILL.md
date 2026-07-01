@@ -1,6 +1,6 @@
 ---
 name: eigentuemerkommunikation-beschwerde
-description: "Formuliert klare, deeskalierende und dokumentationssichere Kommunikation an Eigentümer, Beirat, Mieter und Handwerker bei Beschwerden, Rückfragen, Fristen und Beschlussumsetzung (Stand 05/2026). Berücksichtigt aktuelle BGH-Linien (Abrechnung, Vorbefassung, Schlüsseländerung, vermietender Eigentüm..."
+description: "Wenn es um Eigentümerkommunikation und Beschwerden in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eigentümerkommunikation und Beschwerden

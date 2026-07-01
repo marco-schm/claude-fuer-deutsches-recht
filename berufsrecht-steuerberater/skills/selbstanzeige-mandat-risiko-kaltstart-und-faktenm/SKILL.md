@@ -1,6 +1,6 @@
 ---
 name: selbstanzeige-mandat-risiko-kaltstart-und-faktenm
-description: "Steuerberater: selbstanzeige mandat risiko - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Selbstanzeige Mandat Risiko Kaltstart Und Faktenm in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: selbstanzeige mandat risiko - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

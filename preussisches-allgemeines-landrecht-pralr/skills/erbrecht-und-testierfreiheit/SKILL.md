@@ -1,6 +1,6 @@
 ---
 name: erbrecht-und-testierfreiheit
-description: "PrALR: Erbrecht, Testierfreiheit, Familienbindung, Pflichtteile und ständische Vermögensordnung strukturieren."
+description: "Wenn es um Erbrecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erbrecht Und Testierfreiheit; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Erbrecht

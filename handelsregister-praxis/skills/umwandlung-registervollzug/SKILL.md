@@ -1,6 +1,6 @@
 ---
 name: umwandlung-registervollzug
-description: "Prüft Verschmelzung, Spaltung, Formwechsel, Registerreihenfolge, Schlussbilanz und Bekanntmachung im Handelsregister Praxis."
+description: "Wenn es um Umwandlung im Register in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umwandlung im Register

@@ -1,6 +1,6 @@
 ---
 name: haus-fussnotenstil-spezial
-description: "Spezialfall Fussnotenstil deutsche Jurahausarbeit: Erstzitat, Folgezitat, ebenda, aaO, Mehrfachverweis. Prüfraster für einheitliche Zitierweise im Hausarbeitenmacher."
+description: "Wenn es um Haus: Fussnotenstil in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haus: Fussnotenstil

@@ -1,6 +1,6 @@
 ---
 name: nachbarrecht-erstpruefung-und-mandatsziel
-description: "Nachbarrecht: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Nachbarrecht: Erstprüfung, Rollenklärung und Mandatsziel in Nachbarschaftsstreit-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachbarrecht: Erstprüfung, Rollenklärung und Mandatsziel

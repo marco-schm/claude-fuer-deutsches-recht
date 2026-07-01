@@ -1,6 +1,6 @@
 ---
 name: post-market-monitoring
-description: "Baut Post-Market-Monitoring für Robotik: Reklamationen, Vorfälle, Patches, Trends, Rückrufschwellen und Management-Review."
+description: "Wenn es um Post-Market-Monitoring in robotik-recht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Post Market Monitoring; Arbeitsfeld: robotik-recht."
 ---
 
 # Post-Market-Monitoring

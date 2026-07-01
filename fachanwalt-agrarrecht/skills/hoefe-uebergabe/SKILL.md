@@ -1,6 +1,6 @@
 ---
 name: hoefe-uebergabe
-description: "Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein): Hofeigenschaft § 1 HoefeO Mindestwirtschaftswert. Hoferbe § 4 HoefeO Anerbenfolge. Hofuebergabe zu Lebzeiten al..."
+description: "Wenn es um Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein) in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein)

@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-dokument-behoerden-gerichts-registerweg
-description: "Dokument: Behörden-, Gerichts- oder Registerweg: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Wenn es um Dokument: Behörden-, Gerichts- oder Registerweg in Tabellenreview 3D geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Dokument: Behörden-, Gerichts- oder Registerweg

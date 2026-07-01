@@ -1,6 +1,6 @@
 ---
 name: verfahrensgang-referentenentwurf-bis-bundestag
-description: "Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referentenentwurf Ressortabstimmung NKR-Befassung Länder- und Verbaendeanhoerung Kabinett Bundesrat Bundestag und Verkuendung mit den jeweiligen NKR-Andockpunkten und kritischen Fristen. Liefert eine Phase-zu-Andockpunkt-Tabel"
+description: "Wenn es um NKR-Verfahrensgang Referentenentwurf bis Bundestag in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verfahrensgang Referentenentwurf Bis Bundestag; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
 ---
 
 # NKR-Verfahrensgang Referentenentwurf bis Bundestag

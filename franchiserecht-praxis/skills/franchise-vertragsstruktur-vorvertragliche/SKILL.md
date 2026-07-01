@@ -1,6 +1,6 @@
 ---
 name: franchise-vertragsstruktur-vorvertragliche
-description: "Franchise: Vertragsstruktur Master-Agreement und Unit-Agreements. Skill behandelt die hierarchische Vertragsstruktur in internationalen Franchise-Systemen Master-Franchisee Sub-Franchisee Anpassung an nationales Recht. Klaert das Spannungsverhaeltnis zwischen einheitlichem System und lokaler Mark..."
+description: "Wenn es um Franchise Vertragsstruktur Master Unit in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchise Vertragsstruktur Master Unit

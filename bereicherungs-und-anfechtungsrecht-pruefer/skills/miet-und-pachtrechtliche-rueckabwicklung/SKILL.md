@@ -1,6 +1,6 @@
 ---
 name: miet-und-pachtrechtliche-rueckabwicklung
-description: "Bei miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewickelt werden. Normen: §§ 535 bis 580a BGB; §§ 812 und 818 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schaden..."
+description: "Wenn es um Miet- und pachtrechtliche Rückabwicklung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Miet- und pachtrechtliche Rückabwicklung

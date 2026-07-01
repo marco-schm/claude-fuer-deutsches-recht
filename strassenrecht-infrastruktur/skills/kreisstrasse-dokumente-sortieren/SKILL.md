@@ -1,6 +1,6 @@
 ---
 name: kreisstrasse-dokumente-sortieren
-description: "Kreisstraße: Dokumente sortieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kreisstrasse Dokumente Sortieren in Straßenrecht und Infrastruktur geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kreisstrasse Dokumente Sortieren

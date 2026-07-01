@@ -1,6 +1,6 @@
 ---
 name: chn-014-m-and-a-in-china
-description: "Festlandchina Wirtschaftsverkehr: M And A In China. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um M And A In China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # M And A In China

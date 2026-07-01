@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-mandantenwarnung-iv-und-cro
-description: "Mandantenbrief an Insolvenzverwalter, Sachwalter, CRO und Schuldner zur rechtzeitigen Einbeziehung steuerlicher Beratung beim Sanierungsgewinn. Standardisierter Brief: was steuerlich VOR der Plan-Vorlage zu klären ist, welche Haftung droht bei Versaeumnis (Paragraph 60 InsO, ggf. Paragraph 130 O..."
+description: "Wenn es um Sanierungsgewinn — Mandantenwarnung an Insolvenzverwalter / CRO / Schuldner in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sanierungsgewinn — Mandantenwarnung an Insolvenzverwalter / CRO / Schuldner

@@ -1,6 +1,6 @@
 ---
 name: outside-in-target-screening
-description: "Outside-in Target Screening: Erstellt fruehe Zielobjekt- und Pipeline-Analysen aus öffentlichen Informationen, Nachrichten, Registern, Finanzdaten und Branchenhinweisen im Mittelstand Corporate Ma."
+description: "Wenn es um Outside-in Target Screening in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Outside-in Target Screening

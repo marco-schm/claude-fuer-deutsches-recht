@@ -1,6 +1,6 @@
 ---
 name: signing-closing
-description: "Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Transaktionen: Anwendungsfall nach Signing muessen alle Closing-Bedingungen erfuellt und Closing Deliverables koordiniert werden. SPA Closing Conditions, Paragraf 179a AktG Hauptversammlungsvorbehalt, Paragraf 35 ff. GWB Kartellfreigabe. Prüfraster a..."
+description: "Wenn es um Signing, Closing und Conditions Precedent in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Signing, Closing und Conditions Precedent

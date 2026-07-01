@@ -1,6 +1,6 @@
 ---
 name: lph-08-haftungsfalle
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: identifiziert typische Haftungsrisiken und Beweisvorsorge; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Lph 08 Haftungsfalle in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Identifiziert typische haftungsrisiken und beweisvorsorge

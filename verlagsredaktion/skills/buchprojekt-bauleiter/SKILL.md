@@ -1,6 +1,6 @@
 ---
 name: buchprojekt-bauleiter
-description: "Bauleiter juristisches Buchprojekt: Konzept, Autorenvertrag, Manuskripteinreichung, Lektorat, Druck. Prüfraster für Herausgeber und Verlag im Verlagsredaktion."
+description: "Wenn es um Verl: Buchprojekt Bauleiter in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl: Buchprojekt Bauleiter

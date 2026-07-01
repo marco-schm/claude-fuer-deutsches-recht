@@ -1,6 +1,6 @@
 ---
 name: verein-und-politik
-description: "Warnt bei politischer Betätigung, Gemeinnützigkeit, Neutralität, Veranstaltungen und Parteispendennähe im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Verein und Politik in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verein und Politik

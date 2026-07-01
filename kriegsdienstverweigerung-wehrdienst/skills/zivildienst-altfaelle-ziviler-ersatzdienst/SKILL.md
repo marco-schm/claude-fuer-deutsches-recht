@@ -1,6 +1,6 @@
 ---
 name: zivildienst-altfaelle-ziviler-ersatzdienst
-description: "Prüft Dienstzeit- oder Anerkennungsbescheinigungen aus früherem Zivildienst im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Zivildienst-Altfall in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zivildienst-Altfall

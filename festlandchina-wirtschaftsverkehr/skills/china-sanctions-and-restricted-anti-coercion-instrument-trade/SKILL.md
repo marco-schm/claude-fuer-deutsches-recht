@@ -1,6 +1,6 @@
 ---
 name: china-sanctions-and-restricted-anti-coercion-instrument-trade
-description: "Sanktionen und Restricted-Party-Screening im China-Geschäft: EU-Sanktionen (keine umfassenden China-Sanktionen, aber Dual-Use-Beschränkungen), US-SDN-Liste, Entity-List BIS, chinesische Unreliable Entity List, Matching-Algorithmen, False-Positives-Handling, BAFA-Meldepflichten, Re-Export-Risiken..."
+description: "Wenn es um Sanktionen und Restricted-Party-Screening: China-Spezifika in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanktionen und Restricted-Party-Screening: China-Spezifika

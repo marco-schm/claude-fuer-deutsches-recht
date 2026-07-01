@@ -1,6 +1,6 @@
 ---
 name: cyber-vorfall-sofortmassnahmen
-description: "Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack: Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behörden Cybercrim..."
+description: "Wenn es um Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack

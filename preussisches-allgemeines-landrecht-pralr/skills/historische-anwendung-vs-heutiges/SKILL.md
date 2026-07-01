@@ -1,6 +1,6 @@
 ---
 name: historische-anwendung-vs-heutiges
-description: "PrALR: historische Anwendung, heutige Fortwirkung und bloße Argumentationsgeschichte strikt trennen."
+description: "Wenn es um Historisch oder heute? in Preußisches Allgemeines Landrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Historische Anwendung Vs Heutiges; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Historisch oder heute?

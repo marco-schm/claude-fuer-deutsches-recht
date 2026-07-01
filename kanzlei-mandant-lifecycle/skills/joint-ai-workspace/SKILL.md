@@ -1,6 +1,6 @@
 ---
 name: joint-ai-workspace
-description: "Gemeinsamer KI-Workspace: steuert Kanzlei und Mandant arbeiten in einem KI-System mit getrennten Rollen, Logs und Freigaben zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Gemeinsamer digitale Werkzeuge-Workspace in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gemeinsamer KI-Workspace

@@ -1,6 +1,6 @@
 ---
 name: gr-mitbewerberabmahnung-aktivlegitimation-spezial
-description: "Aktivlegitimation bei Mitbewerberabmahnung: konkretes Wettbewerbsverhältnis § 2 Abs: 1 Nr. 4 UWG, Mitbewerberbegriff BGH, Verbands- und Kammerbefugnis § 8 Abs. 3 UWG, Missb..."
+description: "Wenn es um Aktivlegitimation bei Mitbewerberabmahnung: konkretes Wettbewerbsverhältnis Paragraf 2 Abs in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aktivlegitimation bei Mitbewerberabmahnung: konkretes Wettbewerbsverhältnis § 2 Abs

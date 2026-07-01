@@ -1,6 +1,6 @@
 ---
 name: fernabsatz-beschwerde-schlichtung-waehlen
-description: "Prüfer: Fernabsatz: Beschwerde schreiben im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Fernabsatz Beschwerde Schreiben in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fernabsatz Beschwerde Schreiben

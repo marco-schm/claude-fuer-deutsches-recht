@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-und-urhebervertragsrecht
-description: "Datenbankrecht im Urhebervertragsrecht: §§ 31-44 UrhG für Datenbankwerke (§ 4 Abs. 2 UrhG) — Einräumung und Rückruf von Nutzungsrechten, angemessene Vergütung (§ 32 UrhG), Bestseller-Klausel (§ 32a UrhG) und Verlagsrecht. Abgrenzung zur Übertragung des Datenbankherstellerrechts (§ 87a Abs. 2 UrhG..."
+description: "Wenn es um Datenbankrecht und Urhebervertragsrecht — Nutzungsrechte für Datenbankwerke in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht und Urhebervertragsrecht — Nutzungsrechte für Datenbankwerke

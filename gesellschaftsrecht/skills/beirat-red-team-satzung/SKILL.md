@@ -1,6 +1,6 @@
 ---
 name: beirat-red-team-satzung
-description: "GmbH-Beirat: Beirat Red Team Satzung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrecht."
+description: "Wenn es um Beirat Red Team Satzung in Gesellschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Beirat Red Team Satzung

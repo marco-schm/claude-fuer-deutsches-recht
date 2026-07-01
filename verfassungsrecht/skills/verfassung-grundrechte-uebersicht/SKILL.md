@@ -1,6 +1,6 @@
 ---
 name: verfassung-grundrechte-uebersicht
-description: "Grundrechte des GG Überblick: Art. 1 Wuerde, Art. 2 freie Entfaltung, Art. 3 Gleichheit, Art. 4 Glaubensfreiheit, Art. 5 Meinungsfreiheit, Art. 8 Versammlung, Art. 12 Berufsfreiheit, Art. 14 Eigentum. Schutzbereich, Eingriff, Schranken, Schranken-Schranken im Verfassungsrecht."
+description: "Wenn es um Grundrechte Überblick in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundrechte Überblick

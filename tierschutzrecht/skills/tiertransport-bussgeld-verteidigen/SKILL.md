@@ -1,6 +1,6 @@
 ---
 name: tiertransport-bussgeld-verteidigen
-description: "Tiertransport: Bußgeld verteidigen. Buß im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Tiertransport Bussgeld Verteidigen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tiertransport Bussgeld Verteidigen

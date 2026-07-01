@@ -1,6 +1,6 @@
 ---
 name: bmleh-forst-und-jagdrecht
-description: "Sachbereich Forst- und Jagdrecht im Geschäftsbereich BMLEH: Normbestand (BWaldG; BJagdG; LJagdGes der Länder; FleischhygieneG; ForstWG.); Akteure (BLE; Länder-Forstaemter und Jagdbehoerden; BMLEH.); EU-Bezug (EUDR (Verordnung gegen Entwaldung); Vogelschutz-RL.); typische Legistik-Aufgaben und Pr..."
+description: "Wenn es um Forst- und Jagdrecht (BMLEH) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Forst- und Jagdrecht (BMLEH)

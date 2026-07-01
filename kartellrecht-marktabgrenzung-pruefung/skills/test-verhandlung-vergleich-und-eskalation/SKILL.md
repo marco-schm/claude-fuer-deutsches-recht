@@ -1,6 +1,6 @@
 ---
 name: test-verhandlung-vergleich-und-eskalation
-description: "Test: Verhandlung, Vergleich und Eskalation: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Test: Verhandlung, Vergleich und Eskalation in Kartellrecht — Marktabgrenzungsprüfung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Test: Verhandlung, Vergleich und Eskalation

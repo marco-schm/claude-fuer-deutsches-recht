@@ -1,6 +1,6 @@
 ---
 name: space-020-militaerische-nutzung-dual-use-und-friedensgebot
-description: "Weltraumrecht: Militärische Nutzung Dual Use und Friedensgebot mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Militärische Nutzung Dual Use und Friedensgebot in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Militärische Nutzung Dual Use und Friedensgebot

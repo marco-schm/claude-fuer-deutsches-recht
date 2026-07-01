@@ -1,6 +1,6 @@
 ---
 name: arbeitsschutz
-description: "Prüft Arbeitsschutz-Hinweise und Eskalation im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Arbeitsschutz in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Arbeitsschutz

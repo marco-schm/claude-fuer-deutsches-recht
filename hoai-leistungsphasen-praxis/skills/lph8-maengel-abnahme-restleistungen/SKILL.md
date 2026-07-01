@@ -1,6 +1,6 @@
 ---
 name: lph8-maengel-abnahme-restleistungen
-description: "HOAI-Fachfrage LPH 8: Mängelmanagement, Vorbegehung, Abnahme, Restleistungen, Zustandsfeststellung, Sicherheitsleistung, Fristen und Beweisführung prüfen im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 8 Mängel, Abnahme Und Restleistungen in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 8 Mängel, Abnahme Und Restleistungen

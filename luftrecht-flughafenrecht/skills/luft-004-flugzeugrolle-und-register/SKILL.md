@@ -1,6 +1,6 @@
 ---
 name: luft-004-flugzeugrolle-und-register
-description: "Luftrecht und Flughafenrecht: Flugzeugrolle und Register. Flugzeugrolle und Register im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Flugzeugrolle Und Register in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flugzeugrolle Und Register

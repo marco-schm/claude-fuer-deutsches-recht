@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-hr-ai-als-hochrisikosystem
-description: "Rechtsabteilungs-Fachmodul für HR-AI als Hochrisikosystem: Recruiting, Beförderung, Kündigungsrisiko und Beschäftigtendaten werden als Complianceakte geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Wenn es um Rechtsabteilung: HR-digitale Werkzeuge als Hochrisikosystem in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt Stichwort für die Auswahl: Rechtsabteilung Hr Ai Als Hochrisikosystem."
 ---
 
 # Rechtsabteilung: HR-AI als Hochrisikosystem

@@ -1,6 +1,6 @@
 ---
 name: opferrechte-nebenklage-adhaesion
-description: "Opferrechte, Nebenklage und Adhäsion: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Opferrechte, Nebenklage und Adhäsion in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Opferrechte Nebenklage Adhaesion; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
 ---
 
 # Opferrechte, Nebenklage und Adhäsion

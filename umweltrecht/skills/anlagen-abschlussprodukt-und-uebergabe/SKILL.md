@@ -1,6 +1,6 @@
 ---
 name: anlagen-abschlussprodukt-und-uebergabe
-description: "Anlagen: Abschlussprodukt und Übergabe im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Anlagen: Abschlussprodukt und Übergabe in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anlagen: Abschlussprodukt und Übergabe

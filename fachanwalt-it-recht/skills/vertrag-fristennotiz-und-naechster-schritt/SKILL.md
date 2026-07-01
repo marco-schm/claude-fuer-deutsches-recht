@@ -1,6 +1,6 @@
 ---
 name: vertrag-fristennotiz-und-naechster-schritt
-description: "Vertrag: Fristennotiz und nächster Schritt: Vertrag: Fristennotiz und nächster Schritt."
+description: "Wenn es um Vertrag: Fristennotiz und nächster Schritt in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertrag: Fristennotiz und nächster Schritt

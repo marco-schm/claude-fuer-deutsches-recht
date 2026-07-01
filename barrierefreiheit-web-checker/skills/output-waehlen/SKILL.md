@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Barrierefreiheit Web BFSG/WCAG: stimmt Adressat (Betreiber Website/App, Aufsichtsbehörde, Nutzer mit Behinderung), Frist (Gilt ab 28.06.2025) und Form auf den Zweck ab — typische Outputs: Konformitätsbericht, Mängelliste mit WCAG-Referenz, Roadmap Behebung."
+description: "Wenn es um Output wählen in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

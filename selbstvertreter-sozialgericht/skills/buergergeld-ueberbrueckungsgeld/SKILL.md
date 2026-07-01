@@ -1,6 +1,6 @@
 ---
 name: buergergeld-ueberbrueckungsgeld
-description: "Buergergeld Ueberbrueckungsgeld bei Haftentlassung. Skill klaert die Sondervorschrift für Haftentlassene den Anspruch auf Soforthilfe Bedarfsfeststellung im JVA-Kontext und Schnittstelle zu Sozialamt. Liefert Prüfraster."
+description: "Wenn es um Buergergeld Ueberbrueckungsgeld in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergergeld Ueberbrueckungsgeld

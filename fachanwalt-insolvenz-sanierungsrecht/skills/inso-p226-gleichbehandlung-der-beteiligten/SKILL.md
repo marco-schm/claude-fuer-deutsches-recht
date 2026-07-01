@@ -1,6 +1,6 @@
 ---
 name: inso-p226-gleichbehandlung-der-beteiligten
-description: "§ 226 InsO (Gleichbehandlung der Beteiligten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 226 InsO (Gleichbehandlung der Beteiligten) im Mandat prüfen: Normzweck, Tatbestand, Belege, R..."
+description: "Wenn es um Inso P226 Gleichbehandlung Der Beteiligten in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 226 InsO (Gleichbehandlung der Beteiligten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

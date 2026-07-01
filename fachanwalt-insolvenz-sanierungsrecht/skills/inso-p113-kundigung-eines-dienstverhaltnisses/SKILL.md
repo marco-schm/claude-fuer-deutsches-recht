@@ -1,6 +1,6 @@
 ---
 name: inso-p113-kundigung-eines-dienstverhaltnisses
-description: "§ 113 InsO (Kündigung eines Dienstverhältnisses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 113 InsO (Kündigung eines Dienstverhältnisses) im Mandat prüfen: Normzweck, Tatbestand, Bel..."
+description: "Wenn es um Inso P113 Kundigung Eines Dienstverhaltnisses in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 113 InsO (Kündigung eines Dienstverhältnisses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

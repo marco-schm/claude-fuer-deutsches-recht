@@ -1,6 +1,6 @@
 ---
 name: foederalismusreform-kompetenzmatrix-beamtenrecht
-description: "Kompetenzmatrix seit der Föderalismusreform 2006: Bund, Länder, Art. 70/73/74 Abs. 1 Nr. 27, Art. 125a GG, BeamtStG, BBG, Besoldung, Versorgung, Laufbahn und Richterrecht sauber trennen im Beamtenrecht."
+description: "Wenn es um Föderalismusreform - Kompetenzmatrix Beamtenrecht in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Föderalismusreform - Kompetenzmatrix Beamtenrecht

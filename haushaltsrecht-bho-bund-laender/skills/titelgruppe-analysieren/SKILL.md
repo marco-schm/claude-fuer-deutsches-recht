@@ -1,6 +1,6 @@
 ---
 name: titelgruppe-analysieren
-description: "Haushaltsrecht BHO Bund und Länder: Titelgruppe analysieren. Titelgruppe analysieren im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale..."
+description: "Wenn es um Titelgruppe Analysieren in Haushaltsrecht BHO Bund und Länder geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Titelgruppe Analysieren

@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-vo-261
-description: "Einfuehrung VO (EG) 261/2004: Anwendungsbereich (Abflug aus EU, Ankunft in EU mit EU-Carrier), Annullierung, Verspaetung ab 3 Stunden (EuGH-Sturgeon), Nichtbefoerderung. Ausgleichsstufen 250 Euro / 400 Euro / 600 Euro. Betreuungsleistungen Art. 9. Erstattungs- vs. Umbuchungswahlrecht."
+description: "Wenn es um Fluggastrechte VO 261: Einfuehrung in Fluggastrechte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fluggastrechte VO 261: Einfuehrung

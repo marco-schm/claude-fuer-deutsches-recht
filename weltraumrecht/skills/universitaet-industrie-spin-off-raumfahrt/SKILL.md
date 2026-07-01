@@ -1,6 +1,6 @@
 ---
 name: universitaet-industrie-spin-off-raumfahrt
-description: "Raumfahrt-Spin-off aus Universität – IP-Übertragung, Beteiligungsvereinbarungen, BAFA im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Universität-Industrie Spin-off Raumfahrt in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Universität-Industrie Spin-off Raumfahrt

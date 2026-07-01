@@ -1,6 +1,6 @@
 ---
 name: sale-bidding-schedules-sofa-secured-claim
-description: "Prüft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline im US Bankruptcy Code."
+description: "Wenn es um Sale Process and Bidding Procedures in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Sale Process and Bidding Procedures

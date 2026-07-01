@@ -1,6 +1,6 @@
 ---
 name: polizei-zusammenarbeit-presse-oeffentlichkeit
-description: "Staatsanwaltschaftlicher Skill zu Zusammenarbeit mit der Polizei: ordnet Tatverdacht, Zuständigkeit, Beweisstand, Verfügung, Frist und Vorlagegrenze."
+description: "Wenn es um Zusammenarbeit mit der Polizei in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zusammenarbeit mit der Polizei

@@ -1,6 +1,6 @@
 ---
 name: abmahnung-markenrecht-euipo-beschwerdekammer
-description: "Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklärung erstellen: Mandant hat Markenverletzung entdeckt und will Abmahnung aussprechen oder hat Abmahnung erhalten und muss reagieren. Normen: § 14 MarkenG (Verletzungsansprüche), § 8 UWG (Unterlassung), § 14 Abs. 1 UWG n.F. 2021 (Kost..."
+description: "Wenn es um Markenrechtliche Abmahnung und Unterlassungserklärung in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Markenrechtliche Abmahnung und Unterlassungserklärung

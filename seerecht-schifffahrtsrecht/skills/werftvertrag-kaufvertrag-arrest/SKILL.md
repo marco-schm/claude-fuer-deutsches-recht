@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-kaufvertrag-arrest
-description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel scopet Kaufvertrag für Neubauprojekt unter Werftvertrag: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CIS..."
+description: "Wenn es um Werftvertrag – Kaufvertrag scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Werftvertrag – Kaufvertrag scopen

@@ -1,6 +1,6 @@
 ---
 name: zuwendung-nach-bho
-description: "Haushaltsrecht BHO Bund und Länder: Zuwendung nach BHO. Zuwendung nach BHO im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen,..."
+description: "Wenn es um Zuwendung Nach Bho in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zuwendung Nach Bho

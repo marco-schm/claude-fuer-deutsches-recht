@@ -1,6 +1,6 @@
 ---
 name: leitende-positionen-zeugnisse
-description: "Analyse von Arbeitszeugnissen für Führungskräfte und leitende Angestellte. Besondere Formulierungen zu Mitarbeiterführung, Personalentwicklung, strategischer Verantwortung und Repräsentation. Fehlende Führungsbausteine als Ampelsignale."
+description: "Wenn es um Arbeitszeugnisse für leitende Positionen in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitszeugnisse für leitende Positionen

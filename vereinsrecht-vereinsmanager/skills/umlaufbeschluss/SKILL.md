@@ -1,6 +1,6 @@
 ---
 name: umlaufbeschluss
-description: "Prüft Beschlüsse ohne Versammlung, Textform, Einstimmigkeit oder Satzungsregel, Dokumentation und Grenzen im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Umlaufbeschluss in Vereinsrecht und Vereinsmanager geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Umlaufbeschluss

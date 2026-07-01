@@ -1,6 +1,6 @@
 ---
 name: kurzfristige-preiserhoehung-lieferfrist
-description: "Norm- und Dogmatik-Skill für Kurzfristige Preiserhöhung 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung im AGB-Recht."
+description: "Wenn es um Kurzfristige Preiserhöhung 309 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kurzfristige Preiserhoehung Lieferfrist; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Kurzfristige Preiserhöhung 309

@@ -1,6 +1,6 @@
 ---
 name: fundstellenglattzieher
-description: "Fundstellen und Zitate in deutschen Rechtstexten glätten: Normzitate, Gerichtsentscheidungen, Aktenzeichen, Zeitschriftenfundstellen und Quellenwarnungen vereinheitlichen, ohne BeckRS-/juris-Blindzitate oder erfundene Rechtsprechung zu erzeugen."
+description: "Wenn es um Fundstellenglattzieher in Kanzlei-Builder-Hub geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fundstellenglattzieher

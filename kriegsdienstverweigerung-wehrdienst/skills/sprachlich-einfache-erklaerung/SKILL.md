@@ -1,6 +1,6 @@
 ---
 name: sprachlich-einfache-erklaerung
-description: "Erklärt KDV in einfacher Sprache für Menschen ohne Juristensprache im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Einfache Erklärung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einfache Erklärung

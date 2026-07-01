@@ -1,6 +1,6 @@
 ---
 name: taegliches-briefing
-description: "Wahlkampfrecht Praxis: taegliches Lagebriefing für Spitze, Stab und Kreisverbaende erstellen im Wahlkampfrecht."
+description: "Wenn es um Taegliches Briefing in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Taegliches Briefing

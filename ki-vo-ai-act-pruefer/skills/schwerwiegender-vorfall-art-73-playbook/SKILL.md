@@ -1,6 +1,6 @@
 ---
 name: schwerwiegender-vorfall-art-73-playbook
-description: "Schwerwiegender KI-Vorfall nach Art. 73 KI-VO: Erkennen, Stabilisieren, Melden, Ursachenanalyse, Nutzerkommunikation, Marktaufsicht, Produkthaftungs-/DSGVO-Schnittstellen und Vorstandslagebild."
+description: "Wenn es um Schwerwiegender Vorfall — Art. 73 Playbook in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Schwerwiegender Vorfall — Art. 73 Playbook

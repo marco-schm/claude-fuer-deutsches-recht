@@ -1,6 +1,6 @@
 ---
 name: pflegekasse-verhinderungs-und-kurzzeitpflege
-description: "Pflegekasse Verhinderungspflege und Kurzzeitpflege. Skill klaert die Verhinderungspflege § 39 SGB XI Kurzzeitpflege § 42 SGB XI Voraussetzungen Hoechstbetraege Kombinierbarkeit und die Anrechnungsregeln. Liefert Antragsvorlage."
+description: "Wenn es um Pflegekasse Verhinderungs Und Kurzzeitpflege in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflegekasse Verhinderungs Und Kurzzeitpflege

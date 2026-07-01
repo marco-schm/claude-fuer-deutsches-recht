@@ -1,6 +1,6 @@
 ---
 name: bewertungen-red-team-impressumspflicht
-description: "Bewertungen: Behörden-, Gerichts- oder Registerweg im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Bewertungen: Behörden-, Gerichts- oder Registerweg in Produkthaftung und Produktrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bewertungen: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: kandidatenbriefing-kamera
-description: "Wahlkampfrecht Praxis: Kandidierende für Kamera, Smartphone-Clips und spontane Fragen trainieren im Wahlkampfrecht."
+description: "Wenn es um Kandidatenbriefing Kamera in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kandidatenbriefing Kamera

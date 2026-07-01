@@ -1,6 +1,6 @@
 ---
 name: regeln-prinzipien-abwaegung
-description: "Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen, wann Subsumtion reicht und wann Abwaegung noetig ist."
+description: "Wenn es um Regeln, Prinzipien und Abwägung in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Regeln, Prinzipien und Abwägung

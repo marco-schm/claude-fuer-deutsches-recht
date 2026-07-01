@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Hauptversammlung AG und SE: Allgemein Kaltstart. Liefert Norm-Pinpoints, Prüfachsen, Red Flags, Varianten und konkrete Output-Bausteine zum Slug-Thema im Aktienrecht — Hauptversammlung AG und SE."
+description: "Wenn es um Allgemein Kaltstart in Hauptversammlung AG und SE geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemein Kaltstart

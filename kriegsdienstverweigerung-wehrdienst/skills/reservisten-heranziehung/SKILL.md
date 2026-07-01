@@ -1,6 +1,6 @@
 ---
 name: reservisten-heranziehung
-description: "Prüft KDV bei Beorderung, Heranziehungsbescheid und Übungen im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Reservisten und Heranziehung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reservisten und Heranziehung

@@ -1,6 +1,6 @@
 ---
 name: parkhaus-risiko-verteilen
-description: "Parkhaus: Risiko verteilen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Parkhaus Risiko Verteilen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parkhaus Risiko Verteilen

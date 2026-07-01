@@ -1,6 +1,6 @@
 ---
 name: patentportfolio-und-interessenkollision-kammeran
-description: "Patentanwälte: patentportfolio und interessenkollision - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Patentportfolio Und Interessenkollision Kammeran in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Patentanwälte: patentportfolio und interessenkollision - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

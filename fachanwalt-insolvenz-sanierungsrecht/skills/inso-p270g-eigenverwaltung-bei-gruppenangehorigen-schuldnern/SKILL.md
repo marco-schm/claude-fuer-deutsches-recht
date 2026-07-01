@@ -1,6 +1,6 @@
 ---
 name: inso-p270g-eigenverwaltung-bei-gruppenangehorigen-schuldnern
-description: "§ 270g InsO (Eigenverwaltung bei gruppenangehörigen Schuldnern) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 270g InsO (Eigenverwaltung bei gruppenangehörigen Schuldnern) im Mandat prüf..."
+description: "Wenn es um Inso P270g Eigenverwaltung Bei Gruppenangehorigen Schuldnern in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 270g InsO (Eigenverwaltung bei gruppenangehörigen Schuldnern) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

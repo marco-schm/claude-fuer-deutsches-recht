@@ -1,6 +1,6 @@
 ---
 name: inso-p282-verwertung-von-sicherungsgut
-description: "§ 282 InsO (Verwertung von Sicherungsgut) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 282 InsO (Verwertung von Sicherungsgut) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfol..."
+description: "Wenn es um Inso P282 Verwertung Von Sicherungsgut in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 282 InsO (Verwertung von Sicherungsgut) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: veranstalterhaftung-fehlerkatalog
-description: "Veranstalterhaftung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Wenn es um Veranstalterhaftung Fehlerkatalog in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Veranstalterhaftung Fehlerkatalog

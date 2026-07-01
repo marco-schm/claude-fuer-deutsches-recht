@@ -1,6 +1,6 @@
 ---
 name: chn-019-dual-use-bafa-check
-description: "Festlandchina Wirtschaftsverkehr: Dual Use BAFA Check. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Dual Use BAFA Check in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dual Use BAFA Check

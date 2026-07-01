@@ -1,6 +1,6 @@
 ---
 name: markenanmeldung-dpma-markenrecherche-open
-description: "Mandant moechte eine Marke beim DPMA anmelden oder Widerspruch gegen eine eingetragene Marke einlegen. §§ 32 ff. MarkenG Markenanmeldung. Prüfraster: Nizza-Klassifikation Anmeldegebühren absolute Eintragungshindernisse § 8 MarkenG Widerspruchsverfahren § 42 MarkenG Beschwerde BPatG § 66 MarkenG...."
+description: "Wenn es um Markenanmeldung beim DPMA in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Markenanmeldung beim DPMA

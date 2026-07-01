@@ -1,6 +1,6 @@
 ---
 name: betreiber-deployer-bevollmaechtigter
-description: "Unternehmen oder Behörde setzt ein Hochrisiko-KI-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 KI-VO: bestimmungsgemaesse Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen, Informationspflichten; Art. 27 Grundrechte-Folgenab"
+description: "Wenn es um Betreiber-Pflichten (Deployer) — Art. 26 und 27 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Betreiber Deployer Bevollmaechtigter; Arbeitsfeld: europäischem Technikregulierungsrecht."
 ---
 
 # Betreiber-Pflichten (Deployer) — Art. 26 und 27 KI-VO

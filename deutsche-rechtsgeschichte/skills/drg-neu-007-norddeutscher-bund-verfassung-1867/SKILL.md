@@ -1,6 +1,6 @@
 ---
 name: drg-neu-007-norddeutscher-bund-verfassung-1867
-description: "Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867 mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867 in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867

@@ -1,6 +1,6 @@
 ---
 name: sektor-telekommunikation-infrastruktur-sharing
-description: "Sektor Telekommunikation und Infrastructure Sharing: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, F..."
+description: "Wenn es um Sektor Telekommunikation und Infrastructure Sharing in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sektor Telekommunikation und Infrastructure Sharing

@@ -1,6 +1,6 @@
 ---
 name: space-083-universitaet-industrie-spin-off-raumfahrt
-description: "Weltraumrecht: Universität Industrie Spin-off Raumfahrt mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Universität Industrie Spin-off Raumfahrt in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Universität Industrie Spin-off Raumfahrt

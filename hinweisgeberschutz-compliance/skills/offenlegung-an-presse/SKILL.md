@@ -1,6 +1,6 @@
 ---
 name: offenlegung-an-presse
-description: "Prüft Offenlegung an Öffentlichkeit oder Presse im Hinweisgeberschutz Compliance."
+description: "Wenn es um Offenlegung An Presse in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Offenlegung An Presse

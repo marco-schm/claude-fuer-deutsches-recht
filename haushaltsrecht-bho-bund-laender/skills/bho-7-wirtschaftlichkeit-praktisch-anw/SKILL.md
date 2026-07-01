@@ -1,6 +1,6 @@
 ---
 name: bho-7-wirtschaftlichkeit-praktisch-anw
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 7 Wirtschaftlichkeit praktisch anwenden. BHO § 7 Wirtschaftlichkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft k..."
+description: "Wenn es um Bho 7 Wirtschaftlichkeit Praktisch Anw in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 7 Wirtschaftlichkeit Praktisch Anw

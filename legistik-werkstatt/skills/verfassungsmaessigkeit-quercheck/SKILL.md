@@ -1,6 +1,6 @@
 ---
 name: verfassungsmaessigkeit-quercheck
-description: "Querschnittsprüfung Verfassungsmäßigkeit eines Gesetzesentwurfs oder einer Verordnung. Anwendungsfall Entwurf soll vor Ressortabstimmung oder NKR-Vorlage verfassungsrechtlich abgesichert werden oder Verband prüft eingegangenen Entwurf. Grundrechte Schutzbereich Eingriff Rechtfertigung Verhältnism..."
+description: "Wenn es um Verfassungsmaessigkeit-Quercheck in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verfassungsmaessigkeit-Quercheck

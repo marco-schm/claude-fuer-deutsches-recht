@@ -1,6 +1,6 @@
 ---
 name: teilzeit-beurlaubung-umsetzung-versetzung
-description: "Teilzeit, Beurlaubung, Elternzeit, Pflegezeit und Rückkehr in den Dienst im Beamtenrecht."
+description: "Wenn es um Teilzeit Beurlaubung Familienpflege in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Teilzeit Beurlaubung Familienpflege

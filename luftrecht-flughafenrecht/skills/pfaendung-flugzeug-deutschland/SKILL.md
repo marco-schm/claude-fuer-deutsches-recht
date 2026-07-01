@@ -1,6 +1,6 @@
 ---
 name: pfaendung-flugzeug-deutschland
-description: "Gläubiger will inlaendisches Flugzeug pfaenden oder Schuldner wehrt Pfaendung ab. Prüft ZPO §§ 808 864-871 Mobiliarpfaendung vs. Luftfahrzeug-Zwangsversteigerung LuftFzgG Pfandrechtsregister AG Braunschweig Arrestgrund ZPO § 917 und liefert Pfaendungsstrategie oder Abwehr-Schriftsatz-Baustein i..."
+description: "Wenn es um Pfändung Flugzeug Deutschland – Zwangsvollstreckung und Gegenargumentation in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Pfändung Flugzeug Deutschland – Zwangsvollstreckung und Gegenargumentation

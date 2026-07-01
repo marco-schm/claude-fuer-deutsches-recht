@@ -1,6 +1,6 @@
 ---
 name: nis2-betreiber-kritische-sektoren
-description: "Prüft NIS2-Schnittstellen, wenn Roboter in kritischen Sektoren, Gesundheit, Logistik, Energie oder öffentlicher Verwaltung eingesetzt werden."
+description: "Wenn es um NIS2 Betreiber kritische Sektoren in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # NIS2 Betreiber kritische Sektoren

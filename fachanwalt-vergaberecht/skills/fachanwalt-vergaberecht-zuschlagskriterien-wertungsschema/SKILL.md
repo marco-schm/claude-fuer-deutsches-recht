@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema
-description: "Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix; Bieter will mangelhafte Wertung ruegen. Normen: § 127 GWB (Zuschlag), § 58 VgV (Wertung), § 31 SektVO, § 16 KonzVgV, VOB-A § 16d. Pruefraster: Auftragsbezug, Diskriminierungsverbot, Transparenz, Gewichtung, Unterkriterien, Punktevergabe, Preis-Leistungs-Relation, Lebenszykluskosten § 59 VgV. Output Wertungsmatrix-Entwurf, Pruefvermerk Wertungsruege. Abgrenzung: Eignungspruefung siehe fachanwalt-vergaberecht-eignungspruefung; Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag."
+description: "Wenn es um Zuschlagskriterien und Wertungsschema in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Zuschlagskriterien und Wertungsschema

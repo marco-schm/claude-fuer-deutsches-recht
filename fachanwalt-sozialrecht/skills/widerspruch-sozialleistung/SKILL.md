@@ -1,6 +1,6 @@
 ---
 name: widerspruch-sozialleistung
-description: "Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert Widerspruch: § 84 SGG Widerspruchsfrist ein Monat. Prüfraster: Frist (Bekanntgabe Vier-Tage-Fiktion § 37 Abs...."
+description: "Wenn es um Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert Widerspruch in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert Widerspruch

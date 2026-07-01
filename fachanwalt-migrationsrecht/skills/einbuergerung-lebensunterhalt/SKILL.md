@@ -1,6 +1,6 @@
 ---
 name: einbuergerung-lebensunterhalt
-description: "Einbürgerung Lebensunterhalt: Fachmodul im Migrationsrecht: prüft Einkommen, Sozialleistungen, Prognose, Ausnahmegründe; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Einbürgerung Lebensunterhalt: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einbürgerung Lebensunterhalt: Fachmodul im Migrationsrecht

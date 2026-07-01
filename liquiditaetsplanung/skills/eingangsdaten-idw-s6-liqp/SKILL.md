@@ -1,6 +1,6 @@
 ---
 name: eingangsdaten-idw-s6-liqp
-description: "Liqui Eingangsdaten IDW S6 Liqp im Plugin Liquiditaetsplanung: prüft konkret Eingangsdaten-Checkliste für Liquiditaetsplanung, Verbindet Liquiditätsvorschau, GuV-Planung und Planbilanz zu einer Sanierungspla, Leitfaden Bankenreporting bei Krise."
+description: "Wenn es um Liqui Eingangsdaten IDW S6 Liqp in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Liqui Eingangsdaten IDW S6 Liqp

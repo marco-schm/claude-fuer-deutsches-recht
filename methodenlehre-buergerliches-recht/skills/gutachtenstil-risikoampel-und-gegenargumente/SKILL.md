@@ -1,6 +1,6 @@
 ---
 name: gutachtenstil-risikoampel-und-gegenargumente
-description: "Dieses Skill bearbeitet den klassischen juristischen Gutachtenstil mit einem praktischen Risikoampelsystem und der systematischen Erarbeitung von Gegenargumenten: Dieses Skill bearbeitet den klassischen juristischen Gutachtenstil mit einem praktischen Risik..."
+description: "Wenn es um Gutachtenstil Risikoampel Und Gegenargumente in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dieses Skill bearbeitet den klassischen juristischen Gutachtenstil mit einem praktischen Risikoampelsystem und der systematischen Erarbeitung von Gegenargumenten

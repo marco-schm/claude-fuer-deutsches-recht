@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-dauerhafte-bereitstellung-digitaler
-description: "Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475c BGB und Folgen bei Pflichtverletzung."
+description: "Wenn es um Kaufrecht: Dauerhafte Bereitstellung digitaler Elemente Paragraf 475c BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kaufrecht Dauerhafte Bereitstellung Digitaler; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Kaufrecht: Dauerhafte Bereitstellung digitaler Elemente § 475c BGB

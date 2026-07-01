@@ -1,6 +1,6 @@
 ---
 name: horrorfall-aktenauswertung
-description: "Große, unordentliche Nachbarschaftsstreit-Akten auswerten: viele Dokumente, Fotos, Chatverläufe, Bauamt, Baum, Überbau, Immissionen, Baugrube und Vergleichsversuche in Streitstränge, Beweise, Risiken und nächste Schritte zerlegen im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Horrorfall-Aktenauswertung in Nachbarschaftsstreit-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Horrorfall-Aktenauswertung

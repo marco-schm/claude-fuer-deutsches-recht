@@ -1,6 +1,6 @@
 ---
 name: legal-hold-lieferanten-onboarding
-description: "Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sanktionsermittlungen: Sicherung von ATLAS-Daten, ERP-Exportdaten, E-Mail-Archiven und Zollanmeldungen, DSGVO-Konformitaet der Datensicherung, eDiscovery-Anforderungen bei US-Behörden. Output: Legal-Hold-Anordnung und Datensicherungs..."
+description: "Wenn es um Legal Hold und Datenextraktion bei Aussenwirtschafts-Ermittlungen in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Legal Hold und Datenextraktion bei Aussenwirtschafts-Ermittlungen

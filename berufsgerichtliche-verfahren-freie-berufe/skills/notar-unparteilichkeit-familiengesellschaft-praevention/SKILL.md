@@ -1,6 +1,6 @@
 ---
 name: notar-unparteilichkeit-familiengesellschaft-praevention
-description: "Notar Unparteilichkeit Familiengesellschaft (Präventions- und Organisationspaket): steuert Unparteilichkeit bei Familiengesellschaft, Näheverhältnis, Belehrungspflichten und Ablehnung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgeri..."
+description: "Wenn es um Notar Unparteilichkeit Familiengesellschaft: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notar Unparteilichkeit Familiengesellschaft: Präventions- und Organisationspaket

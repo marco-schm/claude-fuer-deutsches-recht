@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-prokura-registerbeanstandung
-description: "Rechtsabteilungs-Fachmodul für Prokura und Grundstücksgeschäft: Registerlage, Spezialvollmacht und Gutglaubensschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsrecht Hgb."
+description: "Wenn es um Rechtsabteilung: Prokura und Grundstücksgeschäft in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsabteilung: Prokura und Grundstücksgeschäft

@@ -1,6 +1,6 @@
 ---
 name: ki-generierte-inhalte-im-verlag
-description: "Verlagsrecht: KI-generierte Texte, Bilder und Übersetzungen im Verlag — Urheberrechtsstatus, Kennzeichnungspflichten, Vertragsklauseln und Haftungsrisiken (EU AI Act, UrhG) im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-019 · digitale Werkzeuge-generierte Inhalte im Verlag in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-019 · KI-generierte Inhalte im Verlag

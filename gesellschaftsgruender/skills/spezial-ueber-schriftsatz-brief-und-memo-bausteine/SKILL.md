@@ -1,6 +1,6 @@
 ---
 name: spezial-ueber-schriftsatz-brief-und-memo-bausteine
-description: "Ueber: Schriftsatz-, Brief- und Memo-Bausteine im Plugin gesellschaftsgruender; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Ueber: Schriftsatz-, Brief- und Memo-Bausteine in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ueber: Schriftsatz-, Brief- und Memo-Bausteine

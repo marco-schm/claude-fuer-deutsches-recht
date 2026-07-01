@@ -1,6 +1,6 @@
 ---
 name: slot-dashboard-bauen
-description: "Airline braucht Slot-Dashboard für laufendes Saison-Management: Bestand Nutzungsquote Waiver-Status Fristen Koordinierungsantraege. Skill strukturiert Datenquellen Fluko VO EWG 95/93 und liefert befuellbares Slot-Management-Dashboard im Luftrecht Flughafenrecht."
+description: "Wenn es um Slot – Dashboard bauen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Slot – Dashboard bauen

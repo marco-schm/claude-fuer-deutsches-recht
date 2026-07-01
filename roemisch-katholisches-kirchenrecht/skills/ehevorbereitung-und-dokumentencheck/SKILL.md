@@ -1,6 +1,6 @@
 ---
 name: ehevorbereitung-und-dokumentencheck
-description: "Ehevorbereitung und Dokumentencheck: Dokumentenliste, Traugespräch, Hindernisprüfung und Dispensbedarf; CIC can. 1063-1072; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Frist..."
+description: "Wenn es um Ehevorbereitung und Dokumentencheck in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ehevorbereitung und Dokumentencheck

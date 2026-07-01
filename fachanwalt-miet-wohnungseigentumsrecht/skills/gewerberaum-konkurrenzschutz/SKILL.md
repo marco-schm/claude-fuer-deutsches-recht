@@ -1,6 +1,6 @@
 ---
 name: gewerberaum-konkurrenzschutz
-description: "Konkurrenzschutz: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft ausdrücklichen/vertragsimmanenten Schutz, Sortimente, Center, Unterlassung; mit Normprüfung, Beweisen, Fristen, Risikoamp..."
+description: "Wenn es um Konkurrenzschutz: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konkurrenzschutz: Fachmodul im Miet- und Wohnungseigentumsrecht

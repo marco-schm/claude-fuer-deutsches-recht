@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Führt neue Staatsanwälte vom ersten Aktenblick in den richtigen Arbeitsmodus: Anfangsverdacht, Zuständigkeit, Beweisziel, Eingriff, Abschlussoption, Verfügung und Wiedervorlage."
+description: "Wenn es um Allgemeiner Kaltstart und Routing in Staatsanwaltschaft Praxis-Einstieg geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Allgemeiner Kaltstart und Routing

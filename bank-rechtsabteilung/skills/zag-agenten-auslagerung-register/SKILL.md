@@ -1,6 +1,6 @@
 ---
 name: zag-agenten-auslagerung-register
-description: "ZAG-Agenten, E-Geld-Agenten und Auslagerung prüfen: Register, Haftung, Weisungen, Schulungen, AML, Kundenkommunikation, Passporting und Abgrenzung zum bloßen Dienstleister im Bank-Rechtsabteilung."
+description: "Wenn es um ZAG-Agenten, E-Geld-Agenten und Auslagerung in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # ZAG-Agenten, E-Geld-Agenten und Auslagerung

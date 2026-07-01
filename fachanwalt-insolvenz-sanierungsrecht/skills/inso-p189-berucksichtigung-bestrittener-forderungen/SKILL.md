@@ -1,6 +1,6 @@
 ---
 name: inso-p189-berucksichtigung-bestrittener-forderungen
-description: "§ 189 InsO (Berücksichtigung bestrittener Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 189 InsO (Berücksichtigung bestrittener Forderungen) im Mandat prüfen: Normzweck, Tat..."
+description: "Wenn es um Inso P189 Berucksichtigung Bestrittener Forderungen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 189 InsO (Berücksichtigung bestrittener Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

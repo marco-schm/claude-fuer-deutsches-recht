@@ -1,6 +1,6 @@
 ---
 name: 007-faliskische-spuren-sprache
-description: "Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt im Römisches Recht."
+description: "Wenn es um Rom Faliskische Spuren Sprache Siedlung Und Rechtskontak in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Faliskische Spuren Sprache Siedlung Und Rechtskontak

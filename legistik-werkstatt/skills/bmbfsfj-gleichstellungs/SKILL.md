@@ -1,6 +1,6 @@
 ---
 name: bmbfsfj-gleichstellungs
-description: "Sachbereich Gleichstellungs- und Antidiskriminierungsrecht im Geschäftsbereich BMBFSFJ: Normbestand (AGG; BGleiG; LGleiG; Lohngerechtigkeitsgesetz (EntgTranspG); StaatszielG GG Art. 3.); Akteure (Antidiskriminierungsstelle des Bundes; Gleichstellungsbeauftragte; Tarifpartner.); EU-Bezug (Gleichb"
+description: "Wenn es um Gleichstellungs- und Antidiskriminierungsrecht (BMBFSFJ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmbfsfj Gleichstellungs; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Gleichstellungs- und Antidiskriminierungsrecht (BMBFSFJ)

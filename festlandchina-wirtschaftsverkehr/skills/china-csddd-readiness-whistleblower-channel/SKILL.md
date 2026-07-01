@@ -1,6 +1,6 @@
 ---
 name: china-csddd-readiness-whistleblower-channel
-description: "EU CSDDD-Readiness für China-Lieferketten: EU-RL 2024/1760 Anforderungen, Anwendungsbereich und Fristen, Sorgfaltspflichten gegenüber eigenen Tätigkeiten und Geschäftspartnern in CN, Umwelt- und Menschenrechtsindikatoren, Zivilrechtliche Haftung Art. 29 CSDDD, Verhältnis zu LkSG. Output: CSDDD-G..."
+description: "Wenn es um EU CSDDD-Readiness China: Gap-Analyse und Umsetzung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU CSDDD-Readiness China: Gap-Analyse und Umsetzung

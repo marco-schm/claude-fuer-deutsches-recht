@@ -1,6 +1,6 @@
 ---
 name: see-093-kreuzfahrtschiff-kaufvertrag-scopen
-description: "See- und Schifffahrtsrecht: Kreuzfahrtschiff: Kaufvertrag scopen. Kaufvertrag scopen für Kreuzfahrtschiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kreuzfahrtschiff Kaufvertrag Scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreuzfahrtschiff Kaufvertrag Scopen

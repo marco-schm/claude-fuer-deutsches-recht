@@ -1,6 +1,6 @@
 ---
 name: arbeitsvertrag-klauseln-settlement
-description: "Prüft Arbeitsvertragsklauseln gegen Hinweisgeberrechte im Hinweisgeberschutz Compliance."
+description: "Wenn es um Arbeitsvertrag Klauseln in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsvertrag Klauseln

@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-und-interessenkollision-organisationspfl
-description: "Notare: nebentaetigkeit und interessenkollision - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Nebentaetigkeit Und Interessenkollision Organisationspfl in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: nebentaetigkeit und interessenkollision - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

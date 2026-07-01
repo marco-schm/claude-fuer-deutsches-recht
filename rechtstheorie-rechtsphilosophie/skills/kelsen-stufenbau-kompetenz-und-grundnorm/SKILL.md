@@ -1,6 +1,6 @@
 ---
 name: kelsen-stufenbau-kompetenz-und-grundnorm
-description: "Ordnet Normen im Stufenbau: Verfassung, Gesetz, Verordnung, Satzung, Verwaltungsakt, Vertrag, Urteil, Unionsrecht und Voelkerrecht; klaert Kompetenzketten und bricht falsche Autoritaetsbehauptungen auf."
+description: "Wenn es um Stufenbau, Kompetenz und Normkette in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Stufenbau, Kompetenz und Normkette

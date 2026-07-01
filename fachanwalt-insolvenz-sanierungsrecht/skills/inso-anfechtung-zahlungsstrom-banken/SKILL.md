@@ -1,6 +1,6 @@
 ---
 name: inso-anfechtung-zahlungsstrom-banken
-description: "Spezialfall Insolvenzanfechtung Zahlungsstrom Banken: Konto-Korrent-Wirkung, Stehenlassen Kontokorrent, Verrechnung mit eigenen Forderungen, § 96 InsO: Spezialfall Insolvenzanfechtung Zahlungsstrom Banken: Konto-Korrent-Wirkung, Stehenlassen Kontokorrent, V..."
+description: "Wenn es um Inso Anfechtung Zahlungsstrom Banken in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Insolvenzanfechtung Zahlungsstrom Banken: Konto-Korrent-Wirkung, Stehenlassen Kontokorrent, Verrechnung mit eigenen Forderungen, § 96 InsO

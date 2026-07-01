@@ -1,6 +1,6 @@
 ---
 name: message-house-authentizitaet
-description: "Wahlkampfrecht Praxis: Message House entwickeln, das Kandidierende nicht kuenstlich verbiegt im Wahlkampfrecht."
+description: "Wenn es um Message House Authentizitaet in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Message House Authentizitaet

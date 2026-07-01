@@ -1,6 +1,6 @@
 ---
 name: inso-p276a-mitwirkung-der-uberwachungsorgane
-description: "§ 276a InsO (Mitwirkung der Überwachungsorgane) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 276a InsO (Mitwirkung der Überwachungsorgane) im Mandat prüfen: Normzweck, Tatbestand, Beleg..."
+description: "Wenn es um Inso P276a Mitwirkung Der Uberwachungsorgane in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 276a InsO (Mitwirkung der Überwachungsorgane) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

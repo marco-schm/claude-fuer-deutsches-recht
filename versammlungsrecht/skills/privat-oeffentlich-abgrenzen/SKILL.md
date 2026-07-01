@@ -1,6 +1,6 @@
 ---
 name: privat-oeffentlich-abgrenzen
-description: "Prüft, ob eine Zusammenkunft öffentlich, privat, vereinsintern, parteiintern, betrieblich oder nur ein Gesprächskreis ist im Versammlungsrecht."
+description: "Wenn es um Öffentlichkeit sauber bestimmen in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Öffentlichkeit sauber bestimmen

@@ -1,6 +1,6 @@
 ---
 name: handelsverbot-unlawful
-description: "Prüft Insiderhandelsverbot nach Art. 14 MAR, abgrenzt Wissen von Absicht, analysiert Safe-Harbour-Ausnahmen und stellt Verteidigungsdokumentation sicher im Insiderrecht Compliance."
+description: "Wenn es um Insiderhandelsverbot nach Art. 14 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insiderhandelsverbot nach Art. 14 MAR

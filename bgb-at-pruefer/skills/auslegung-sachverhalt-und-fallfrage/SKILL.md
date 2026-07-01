@@ -1,6 +1,6 @@
 ---
 name: auslegung-sachverhalt-und-fallfrage
-description: "Methodik zur Sachverhaltsanalyse und Fallfrage-Auslegung in BGB-AT-Klausuren: Trennung von Tatsachen und rechtlicher Qualifikation, Identifikation des relevanten Lebenssachverhalts, strukturierte Fallfragebeantwortung im Gutachtenstil."
+description: "Wenn es um Sachverhaltsauslegung und Fallfrage — Klausur-Methodik BGB AT in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Auslegung Sachverhalt Und Fallfrage; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Sachverhaltsauslegung und Fallfrage — Klausur-Methodik BGB AT

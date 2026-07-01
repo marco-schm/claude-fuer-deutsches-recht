@@ -1,6 +1,6 @@
 ---
 name: wehrbeschwerdeordnung-beschwerde
-description: "Wehrbeschwerdeordnung Beschwerde Frist Form: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswe..."
+description: "Wenn es um Wehrbeschwerdeordnung – Beschwerde, Frist und Form in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wehrbeschwerdeordnung – Beschwerde, Frist und Form

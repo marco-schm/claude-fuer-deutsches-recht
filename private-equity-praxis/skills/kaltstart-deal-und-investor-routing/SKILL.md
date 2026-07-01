@@ -1,6 +1,6 @@
 ---
 name: kaltstart-deal-und-investor-routing
-description: "Führt in 60 Sekunden durch Rolle, Deal-Phase, Ticketgröße, Fonds-/Direktinvestment, Fristen, Unterlagen und gewünschten Output."
+description: "Wenn es um Kaltstart: Investor, Kanzlei, Fonds oder Target richtig einordnen in Private Equity Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart: Investor, Kanzlei, Fonds oder Target richtig einordnen

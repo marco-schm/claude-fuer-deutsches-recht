@@ -1,6 +1,6 @@
 ---
 name: migr-ausweisung-abschiebung-spezial
-description: "Spezialfall Ausweisung und Abschiebung §§ 53 ff: AufenthG: Abwaegung Ausweisungsinteresse vs. Bleibeinteresse, Verhältnismäßigkeit Art. 8 EMRK, EuGH Ziebell. Prüfraster für Anhörung und Klage."
+description: "Wenn es um Migr Ausweisung Abschiebung Spezial in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Ausweisung und Abschiebung §§ 53 ff

@@ -1,6 +1,6 @@
 ---
 name: konfliktdeeskalation-formulierungen
-description: "Eskalierte oder hitzige Korrespondenz deeskalieren und konstruktive Kommunikationsbasis herstellen. § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Eskalationsniveau Interessenidentifikation deeskalierende Formulierungen Angebote zur Lösung. Output: deeskalierende Version Kommunikationsstrategie...."
+description: "Wenn es um Konfliktdeeskalation: Formulierungsbausteine in E-Mail-Umformulierer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Konfliktdeeskalation: Formulierungsbausteine

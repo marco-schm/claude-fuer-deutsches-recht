@@ -1,6 +1,6 @@
 ---
 name: rotation-und-cooling-off-organisationspflich
-description: "Wirtschaftsprüfer: rotation und cooling off - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Rotation Und Cooling Off Organisationspflich in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: rotation und cooling off - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

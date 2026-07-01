@@ -1,6 +1,6 @@
 ---
 name: cashburn
-description: "Prüft Liquiditätsreichweite, Stammkapitalverlust, Zahlungsunfähigkeit und Überschuldungswarnungen im Gesellschaftsgruender."
+description: "Wenn es um Cash Burn und Insolvenzfrühwarnung in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cash Burn und Insolvenzfrühwarnung

@@ -1,6 +1,6 @@
 ---
 name: chn-013-wfoe-joint-venture-repraesentanz
-description: "Festlandchina Wirtschaftsverkehr: WFOE Joint Venture Repraesentanz. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um WFOE Joint Venture Repraesentanz in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WFOE Joint Venture Repraesentanz

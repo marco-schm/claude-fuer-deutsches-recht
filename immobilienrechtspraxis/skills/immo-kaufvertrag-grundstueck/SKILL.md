@@ -1,6 +1,6 @@
 ---
 name: immo-kaufvertrag-grundstueck
-description: "Grundstueckskaufvertrag prüfen: § 311b BGB notarielle Beurkundung, Auflassung § 925 BGB, Eintragung Auflassungsvormerkung § 883 BGB, Kaufpreiszahlung, Vollzugspflichten, Sicherheiten. Prüfraster im Immobilienrechtspraxis."
+description: "Wenn es um Grundstueckskaufvertrag in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grundstueckskaufvertrag

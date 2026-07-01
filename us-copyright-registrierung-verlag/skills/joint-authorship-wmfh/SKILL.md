@@ -1,6 +1,6 @@
 ---
 name: joint-authorship-wmfh
-description: "Prüft Mitautorenschaft, collective intent, employee works, specially ordered works und deutsche Vertragsmissverstaendnisse im Us Copyright Registrierung Verlag."
+description: "Wenn es um Joint Authorship und Work Made for Hire in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Joint Authorship und Work Made for Hire

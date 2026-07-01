@@ -1,6 +1,6 @@
 ---
 name: datentransfer-mandant-cloud-dsgvo
-description: "Datentransfer Mandant zu Cloud DSGVO-Aspekte. Anwendungsfall Prüfung der DSGVO-Konformität beim Cloud-Datentransfer AVV Auftragsverarbeitung TOM technisch-organisatorische Maßnahmen Drittlandtransfer. Methodik Prüfliste. Output DSGVO-Compliance-Dokument."
+description: "Wenn es um Datentransfer Mandant-Cloud — DSGVO-Aspekte in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datentransfer Mandant-Cloud — DSGVO-Aspekte

@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-kurzzeitvermietung
-description: "Kurzzeitvermietung in WEG: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Zweckbestimmung, Beschluss, Störungen, kommunale Regeln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Kurzzeitvermietung in WEG in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kurzzeitvermietung in WEG

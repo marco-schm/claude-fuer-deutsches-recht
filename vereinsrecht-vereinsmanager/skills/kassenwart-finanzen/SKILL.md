@@ -1,6 +1,6 @@
 ---
 name: kassenwart-finanzen
-description: "Strukturiert Kassenführung, Vier-Augen-Prinzip, Belege, Konten, Budget und Bericht im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Kassenwart und Finanzen in Vereinsrecht und Vereinsmanager geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kassenwart und Finanzen

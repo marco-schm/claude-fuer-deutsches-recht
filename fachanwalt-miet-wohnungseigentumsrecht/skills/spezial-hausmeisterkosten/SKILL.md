@@ -1,6 +1,6 @@
 ---
 name: spezial-hausmeisterkosten
-description: "Hausmeisterkosten: Spezial-Skill im Miet- und Wohnungseigentumsrecht; trennt umlagefähige Arbeiten, Verwaltung, Instandhaltung, Doppelerfassung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Hausmeisterkosten in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Spezial Hausmeisterkosten; Arbeitsfeld: Fachanwalt Miet- und Wohnungseigentumsrecht."
 ---
 
 # Hausmeisterkosten

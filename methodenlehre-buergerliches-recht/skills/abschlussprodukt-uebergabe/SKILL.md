@@ -1,6 +1,6 @@
 ---
 name: abschlussprodukt-uebergabe
-description: "Dieses Skill definiert und strukturiert das juristische Abschlussprodukt eines zivilrechtlichen Mandats und leitet die methodisch korrekte Übergabe an den Mandanten an. Es zeigt, welche Dokumente am Ende eines Mandats zu übergeben sind, wie ein Abschlussprotokoll erstellt wird, wie offene Risiken..."
+description: "Wenn es um Bürgerliches Abschlussprodukt und Übergabe in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bürgerliches Abschlussprodukt und Übergabe

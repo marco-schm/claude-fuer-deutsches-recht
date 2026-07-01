@@ -1,6 +1,6 @@
 ---
 name: injunction-impoundment-502-503
-description: "Prüft einstweiligen und endgültigen Rechtsschutz, Impoundment, Destruction, Seizure und praktische Vollstreckungsfolgen im Us Copyright Registrierung Verlag."
+description: "Wenn es um Injunction und Impoundment in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Injunction und Impoundment

@@ -1,6 +1,6 @@
 ---
 name: mandant-redteam-gate
-description: "Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Immobilienrechtspraxis."
+description: "Wenn es um Mandantenkommunikation in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Mandantenkommunikation

@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Gesellschaftsrecht: sortiert Satzung, Geschäftsführerdienstvertrag, Hauptversammlungsprotokoll, prüft Datum, Absender, Frist und Beweiswert (HR-Auszug, Gesellschafterbeschluss); markiert Lücken; berücksichtigt Mandatsgeheimnis Paragraf 43a BRAO."
+description: "Wenn es um Dokumentenintake in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

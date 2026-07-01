@@ -1,6 +1,6 @@
 ---
 name: bho-116-digitalisierungstitel-titel-pruefen
-description: "Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Titel prüfen. Titel prüfen für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Digitalisierungstitel Titel Pruefen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitalisierungstitel Titel Pruefen

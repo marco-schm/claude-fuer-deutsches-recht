@@ -1,6 +1,6 @@
 ---
 name: archivierung
-description: "Sichert MAR-konforme Archivierung aller Insiderrecht-Compliance-Dokumente: Fristen, Formate, Zugriffssicherung und Loeschkonzept im Insiderrecht Compliance."
+description: "Wenn es um Archivierung – MAR-konforme Aufbewahrung in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Archivierung – MAR-konforme Aufbewahrung

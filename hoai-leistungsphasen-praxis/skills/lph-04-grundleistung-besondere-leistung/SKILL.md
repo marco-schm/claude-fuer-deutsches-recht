@@ -1,6 +1,6 @@
 ---
 name: lph-04-grundleistung-besondere-leistung
-description: "HOAI LPH 4 Genehmigungsplanung: grenzt HOAI-Grundleistung, Besondere Leistung und Zusatzauftrag ab; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 4 Genehmigungsplanung: Grenzt hoai-grundleistung in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # LPH 4 Genehmigungsplanung: Grenzt hoai-grundleistung

@@ -1,6 +1,6 @@
 ---
 name: agb-haendlervertrag-luxus
-description: "AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qualitätskriterien, Plattformverbote, MFN, Vertragsstrafe, MAP/UPE, Vertikal-GVO, B2B-AGB-Kontrolle und markenrechtliche Brand-Control im Markenrecht Fashion Luxus."
+description: "Wenn es um AGB im Händlervertrag für Luxus-Selektivvertrieb in markenrecht-fashion-luxus geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # AGB im Händlervertrag für Luxus-Selektivvertrieb

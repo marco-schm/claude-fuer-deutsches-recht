@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Strafzumessung: trennt fehlende Tatsachen von fehlenden Belegen (Anklageschrift, Urteilsentwurf, Vorverurteilungen BZR), nennt pro Lücke Beweisthema, Beschaffungsweg (Strafgericht (Amts-/Landgericht)), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Strafzumessung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-vergleich-mit-finanzamt-und-stundung
-description: "Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als Auffanglinien für den verbleibenden steuerbaren Restsanierungsertrag. Wenn Paragraph 3a EStG-Voraussetzungen nicht eindeutig erfuellt sind oder ein Restbetrag steuerpflichtig bleibt: persönliche und sachliche Unbilligkeit begruenden, Vermo..."
+description: "Wenn es um Sanierungsgewinn — Vergleich mit Finanzamt und Stundung in Insolvenzrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Sanierungsgewinn — Vergleich mit Finanzamt und Stundung

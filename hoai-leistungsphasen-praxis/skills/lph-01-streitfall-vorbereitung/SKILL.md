@@ -1,6 +1,6 @@
 ---
 name: lph-01-streitfall-vorbereitung
-description: "HOAI LPH 1 Grundlagenermittlung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Lph 01 Streitfall Vorbereitung in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # LPH 1 Grundlagenermittlung: Macht aus der phase eine prozess-/schiedsgutachten- oder vergleichsakte

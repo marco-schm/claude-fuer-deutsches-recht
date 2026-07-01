@@ -1,6 +1,6 @@
 ---
 name: pipeline-crm-kanban
-description: "Baut ein VC-Tracking-System mit Status, Fristen, Reminder, Verantwortlichen, Investor-Updates und Follow-on-Signalen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Pipeline-CRM und Kanban in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pipeline-CRM und Kanban

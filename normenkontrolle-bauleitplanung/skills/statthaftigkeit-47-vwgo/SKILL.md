@@ -1,6 +1,6 @@
 ---
 name: statthaftigkeit-47-vwgo
-description: "Mandant fragt ob Normenkontrollantrag gegen eine bestimmte Planung zulässig ist. § 47 Abs. 1 VwGO Statthaftigkeit Normenkontrolle. Prüfraster: Antragsgegenstand Bebauungsplan § 10 BauGB vorhabenbezogener B-Plan § 12 BauGB § 13a-B-Plan örtliche Bauvorschriften Art. 81 BayBO FNP grundsaetzlich nich..."
+description: "Wenn es um Statthaftigkeit Paragraf 47 VwGO in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Statthaftigkeit § 47 VwGO

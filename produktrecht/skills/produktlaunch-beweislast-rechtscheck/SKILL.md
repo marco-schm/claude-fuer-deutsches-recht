@@ -1,6 +1,6 @@
 ---
 name: produktlaunch-beweislast-rechtscheck
-description: "Produktlaunch: Beweislast, Darlegungslast und Substantiierung im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Produktlaunch: Beweislast, Darlegungslast und Substantiierung in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Produktlaunch: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: chn-063-supplier-audit-without-window-dressing
-description: "Festlandchina Wirtschaftsverkehr: Supplier Audit Without Window Dressing. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Supplier Audit Without Window Dressing in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Supplier Audit Without Window Dressing

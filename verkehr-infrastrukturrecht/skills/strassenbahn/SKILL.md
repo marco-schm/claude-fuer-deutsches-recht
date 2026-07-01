@@ -1,6 +1,6 @@
 ---
 name: strassenbahn
-description: "Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder Planfeststellung, oder Gemeinde will Linie neu planen. Normen: § 9 PBefG (Konzession), § 28 PBefG (Planfeststellung Strassenbahn), § 39 PBefG (Linienbuendelung), § 8a PBefG (Direktvergabe), § 41 BImSchG (Laermschutz)...."
+description: "Wenn es um Strassenbahn und OEPNV — Infrastrukturrecht in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Strassenbahn und OEPNV — Infrastrukturrecht

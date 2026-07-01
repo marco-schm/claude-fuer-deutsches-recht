@@ -1,6 +1,6 @@
 ---
 name: verlust-zeichenbudgets
-description: "Verlust: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Verlust: Formular, Portal und Einreichungslogik in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verlust: Formular, Portal und Einreichungslogik

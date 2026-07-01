@@ -1,6 +1,6 @@
 ---
 name: inkasso-risikoampel
-description: "Bewertung der Erfolgswahrscheinlichkeit einer Forderungseinziehung anhand Schuldnerprofil Belegstand Verjährungslage und Vermögenslage. Pinpoints ZPO 802c Vermögensauskunft ZPO 882b Schuldnerverzeichnis InsO 14 Gläubigerantrag. Liefert Ampel und Empfehlung."
+description: "Wenn es um Inkasso-Risikoampel in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Inkasso-Risikoampel

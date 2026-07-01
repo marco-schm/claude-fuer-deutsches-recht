@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Medizinrecht: stimmt Adressat (Patient, Arzt/Krankenhaus, Krankenkasse), Frist (Verjährung 3 Jahre § 195 BGB) und Form auf den Zweck ab — typische Outputs: Arzthaftungsklage, Selbstständiges Beweisverfahren, KV-Widerspruch."
+description: "Wenn es um Output wählen in Fachanwalt Medizinrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: gesellschafterliste-aktualisieren
-description: "Gesellschafterliste nach Kapitalerhohung durch Wandlung aktualisieren und beim Handelsregister einreichen. § 40 GmbHG Gesellschafterliste § 16 GmbHG Legitimationswirkung. Prüfraster: neue Gesellschafter Anteile Stammnummern Notar Einreichungsfrist. Output: aktualisierte Gesellschafterliste Einrei..."
+description: "Wenn es um Gesellschafterliste aktualisieren (Paragraf 40 GmbHG) in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesellschafterliste aktualisieren (§ 40 GmbHG)

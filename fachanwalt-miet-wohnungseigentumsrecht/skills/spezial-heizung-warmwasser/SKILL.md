@@ -1,6 +1,6 @@
 ---
 name: spezial-heizung-warmwasser
-description: "Heizung und Warmwasser: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Mindesttemperatur, Ausfallzeit, Notmaßnahmen, Minderung, einstweilige Verfügung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Heizung und Warmwasser in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Heizung und Warmwasser

@@ -1,6 +1,6 @@
 ---
 name: besold-neu-019-beurteilung-plausi-anlassbeurteilung
-description: "Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung

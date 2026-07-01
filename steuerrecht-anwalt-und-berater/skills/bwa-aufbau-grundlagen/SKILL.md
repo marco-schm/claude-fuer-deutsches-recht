@@ -1,6 +1,6 @@
 ---
 name: bwa-aufbau-grundlagen
-description: "Aufbau der Standard-BWA für Steuerberater erläutern und konfigurieren. Anwendungsfall monatliche oder quartalsweise BWA-Erstellung für GmbH oder Personenunternehmen mit SKR 03 oder SKR 04. Struktur Umsatzerlöse Material Personal sonstige betriebliche Aufwendungen Abschreibungen Zinsergebnis Steu"
+description: "Wenn es um Aufbau der Standard-BWA — Grundlagen für Steuerberater in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bwa Aufbau Grundlagen; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Aufbau der Standard-BWA — Grundlagen für Steuerberater

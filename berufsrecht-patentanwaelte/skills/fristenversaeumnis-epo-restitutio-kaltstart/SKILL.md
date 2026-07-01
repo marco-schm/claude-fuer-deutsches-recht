@@ -1,6 +1,6 @@
 ---
 name: fristenversaeumnis-epo-restitutio-kaltstart
-description: "Patentanwälte: fristenversaeumnis epo restitutio - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Fristenversaeumnis Epo Restitutio Kaltstart in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: fristenversaeumnis epo restitutio - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

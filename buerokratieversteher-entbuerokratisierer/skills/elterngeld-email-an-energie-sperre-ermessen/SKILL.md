@@ -1,6 +1,6 @@
 ---
 name: elterngeld-email-an-energie-sperre-ermessen
-description: "Erklärt Antrag, Bezugsmonate, Partnerschaftsbonus, Einkommen, Nachweise, Bescheid und Widerspruch im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Elterngeld in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Elterngeld

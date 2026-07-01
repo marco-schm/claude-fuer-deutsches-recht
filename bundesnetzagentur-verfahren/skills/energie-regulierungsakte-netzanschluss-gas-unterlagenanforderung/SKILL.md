@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-netzanschluss-gas-unterlagenanforderung
-description: "Netzanschluss Gas: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: Netzanschluss Gas — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Netzanschluss Gas — Unterlagenanforderung

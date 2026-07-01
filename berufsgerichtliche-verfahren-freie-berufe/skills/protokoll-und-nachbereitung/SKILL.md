@@ -1,6 +1,6 @@
 ---
 name: protokoll-und-nachbereitung
-description: "Protokoll und Nachbereitung: prüft sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Wenn es um Protokoll und Nachbereitung in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Protokoll und Nachbereitung

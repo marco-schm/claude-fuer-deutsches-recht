@@ -1,6 +1,6 @@
 ---
 name: aeussere-form-und-briefkopf
-description: Pruefung der aeusseren Form eines Arbeitszeugnisses auf Briefkopf, Fliesstext-Gebot, Unterschrift durch die berechtigte Person und Einhaltung der geschaeftsueblichen Anforderungen nach BAG-Rechtsprechung.
+description: "Wenn es um Aeussere Form und Briefkopf pruefen in Arbeitszeugnispruefer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Aeussere Form und Briefkopf pruefen

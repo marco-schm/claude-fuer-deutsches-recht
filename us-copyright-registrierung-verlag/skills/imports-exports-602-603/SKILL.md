@@ -1,6 +1,6 @@
 ---
 name: imports-exports-602-603
-description: "Prüft Import/Export verletzender Kopien, Parallelimporte, Customs, Gray Market und Grenzbeschlagnahme im Us Copyright Registrierung Verlag."
+description: "Wenn es um Importation und Exportation Paragrafen 602-603 in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Importation und Exportation §§ 602-603

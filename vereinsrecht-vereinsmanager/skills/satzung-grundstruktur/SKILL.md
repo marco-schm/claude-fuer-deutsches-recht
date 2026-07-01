@@ -1,6 +1,6 @@
 ---
 name: satzung-grundstruktur
-description: "Entwirft oder prüft Vereinszweck, Name, Sitz, Mitgliedschaft, Beiträge, Organe, Vorstand, Versammlung, Beschlüsse, Auflösung im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Satzung Grundstruktur in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Satzung Grundstruktur

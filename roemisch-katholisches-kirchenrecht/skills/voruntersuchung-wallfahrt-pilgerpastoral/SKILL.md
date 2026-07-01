@@ -1,6 +1,6 @@
 ---
 name: voruntersuchung-wallfahrt-pilgerpastoral
-description: "Voruntersuchung nach can. 1717: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Voruntersuchung nach can. 1717 in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Voruntersuchung Wallfahrt Pilgerpastoral; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
 ---
 
 # Voruntersuchung nach can. 1717

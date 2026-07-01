@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-nummernverwaltung-unterlagenanforderung
-description: "Nummernverwaltung: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren."
+description: "Wenn es um TK-Regulierungsakte: Nummernverwaltung — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # TK-Regulierungsakte: Nummernverwaltung — Unterlagenanforderung

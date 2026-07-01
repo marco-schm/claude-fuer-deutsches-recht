@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Internationales Wirtschaftsrecht: ordnet Rolle (Internationale Vertragspartner, Schiedsrichter), markiert Frist (Schiedsklage-Fristen je Regelwerk), wählt Norm (Rom I/II VO, CISG, ICC Incoterms) und Zuständigkeit (Schiedsgerichte (DIS, ICC)), leitet zum..."
+description: "Wenn es um Einstieg und Routing in Fachanwalt Internationales Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

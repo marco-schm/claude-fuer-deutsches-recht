@@ -1,6 +1,6 @@
 ---
 name: kv-036-pkv-auslandsreise-und-ruecktransport
-description: "Krankenversicherung: PKV Auslandsreise und Rücktransport mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: PKV Auslandsreise und Rücktransport in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: PKV Auslandsreise und Rücktransport

@@ -1,6 +1,6 @@
 ---
 name: produkthaftung-medizinprodukt-pld
-description: "Produkthaftung Medizinprodukt PLD 2024: moderner Medizinrechts-Skill für Defektes Medizinprodukt, Software, KI, Updatepflicht, Beweiserleichterung und Wirtschaftsakteure: Produkthaftung Medizinprodukt PLD 2024: moderner Medizinrechts-Skill für Defektes Medi..."
+description: "Wenn es um Produkthaftung Medizinprodukt Pld in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Produkthaftung Medizinprodukt PLD 2024: moderner Medizinrechts-Skill für Defektes Medizinprodukt, Software, KI, Updatepflicht, Beweiserleichterung und Wirtschaftsakteure

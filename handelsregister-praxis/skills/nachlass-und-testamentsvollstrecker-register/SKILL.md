@@ -1,6 +1,6 @@
 ---
 name: nachlass-und-testamentsvollstrecker-register
-description: "Prüft Erbschein, Europäisches Nachlasszeugnis, Testamentsvollstreckerzeugnis und Vertretungsmacht im Handelsregister Praxis."
+description: "Wenn es um Nachlassvertretung im Register in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachlassvertretung im Register

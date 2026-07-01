@@ -1,6 +1,6 @@
 ---
 name: pruefungsamt-kommunikation
-description: "Baut klare Kommunikation mit Prüfungsamt und Ausschuss im Prüfungsrecht Hochschule."
+description: "Wenn es um Prüfungsamt Kommunikation in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfungsamt Kommunikation

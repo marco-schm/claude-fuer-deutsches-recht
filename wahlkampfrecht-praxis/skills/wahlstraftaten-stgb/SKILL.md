@@ -1,6 +1,6 @@
 ---
 name: wahlstraftaten-stgb
-description: "Wahlkampfrecht Praxis: Wahlstraftaten und strafrechtliche Nebenrisiken routen im Wahlkampfrecht."
+description: "Wenn es um Wahlstraftaten Stgb in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wahlstraftaten Stgb

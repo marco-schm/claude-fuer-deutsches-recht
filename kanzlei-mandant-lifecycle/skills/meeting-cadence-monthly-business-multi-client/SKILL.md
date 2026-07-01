@@ -1,6 +1,6 @@
 ---
 name: meeting-cadence-monthly-business-multi-client
-description: "Meeting Cadence: steuert Jour fixe, Steering Committee, Ad-hoc Calls, Minuten und Action Items sinnvoll takten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Meeting Cadence in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meeting Cadence

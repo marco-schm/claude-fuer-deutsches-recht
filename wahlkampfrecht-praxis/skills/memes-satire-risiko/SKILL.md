@@ -1,6 +1,6 @@
 ---
 name: memes-satire-risiko
-description: "Wahlkampfrecht Praxis: Memes, Satire und Bildmontagen prüfen im Wahlkampfrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Memes Satire Risiko in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Memes Satire Risiko

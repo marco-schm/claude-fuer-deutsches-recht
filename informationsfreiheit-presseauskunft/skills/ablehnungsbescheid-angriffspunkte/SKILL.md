@@ -1,6 +1,6 @@
 ---
 name: ablehnungsbescheid-angriffspunkte
-description: "Informationsfreiheit und Presseauskunft: Ablehnungsbescheid in Angriffspunkte zerlegen. Ablehnungsbescheid in Angriffspunkte zerlegen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Pr..."
+description: "Wenn es um Ablehnungsbescheid In Angriffspunkte Z in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Ablehnungsbescheid In Angriffspunkte Z

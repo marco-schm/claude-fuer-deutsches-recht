@@ -1,6 +1,6 @@
 ---
 name: nachvertragliche-provision-rechtsabteilung
-description: "Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach § 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach § 87 Abs. 1 HGB und Verjährung nachvertraglicher Provisionsansprüche i..."
+description: "Wenn es um Provision nach Vertragsende nach Paragraf 87 Abs. 3 HGB — Folgeprovision und Nachwirkung in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Provision nach Vertragsende nach § 87 Abs. 3 HGB — Folgeprovision und Nachwirkung

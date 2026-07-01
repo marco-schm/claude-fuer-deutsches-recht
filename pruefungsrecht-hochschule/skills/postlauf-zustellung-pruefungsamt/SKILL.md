@@ -1,6 +1,6 @@
 ---
 name: postlauf-zustellung-pruefungsamt
-description: "Prüft Zugang, Postlauf, E-Mail, Portalnachricht und Nachweisprobleme im Prüfungsrecht Hochschule."
+description: "Wenn es um Postlauf und Zustellung Prüfungsamt in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Postlauf und Zustellung Prüfungsamt

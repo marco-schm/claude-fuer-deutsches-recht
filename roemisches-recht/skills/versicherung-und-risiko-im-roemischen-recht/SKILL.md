@@ -1,6 +1,6 @@
 ---
 name: versicherung-und-risiko-im-roemischen-recht
-description: "Versicherung und Risikoverteilung im roemischen Recht. Skill behandelt das Fehlen einer eigenstaendigen Versicherungslehre und die funktionalen Ersatzinstrumente fenus nauticum lex Rhodia receptum nautarum gemeinsame Gefahrtragung. Liefert Synopse zur heutigen Versicherungslandschaft im Römisches..."
+description: "Wenn es um Rom 139 Versicherung Und Risiko Im Roemischen Recht in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 139 Versicherung Und Risiko Im Roemischen Recht

@@ -1,6 +1,6 @@
 ---
 name: workflow-aufenthaltstitel-router
-description: "Aufenthaltstitel-Router: Prüfungslinie für Migrationsrecht: wählt Visum, Aufenthaltserlaubnis, Blaue Karte, ICT, Chancenkarte, NE, Daueraufenthalt; mit Statusmatrix, Fristenrettung, Staatenbezug, Q..."
+description: "Wenn es um Aufenthaltstitel-Router: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufenthaltstitel-Router: Prüfungslinie für Migrationsrecht

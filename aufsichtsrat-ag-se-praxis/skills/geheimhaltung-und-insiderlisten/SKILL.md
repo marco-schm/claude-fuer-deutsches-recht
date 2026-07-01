@@ -1,6 +1,6 @@
 ---
 name: geheimhaltung-und-insiderlisten
-description: "AG/SE-Aufsichtsrat Praxis: Geheimhaltung Und Insiderlisten; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um Geheimhaltung Und Insiderlisten in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Geheimhaltung Und Insiderlisten

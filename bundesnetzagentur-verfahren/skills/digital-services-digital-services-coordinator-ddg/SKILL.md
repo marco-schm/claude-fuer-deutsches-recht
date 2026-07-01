@@ -1,6 +1,6 @@
 ---
 name: digital-services-digital-services-coordinator-ddg
-description: "Digital Services / Digital Services Coordinator DDG: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren."
+description: "Wenn es um Digital Services Coordinator nach DDG: Behördenstruktur und Verfahren in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Digital Services Coordinator nach DDG: Behördenstruktur und Verfahren

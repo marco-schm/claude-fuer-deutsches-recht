@@ -1,6 +1,6 @@
 ---
 name: besold-neu-018-konkurrentenschutz-eilrechtsschutz-ernennungssper
-description: "Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre im Beamtenrecht."
+description: "Wenn es um Besold Konkurrentenschutz Eilrechtsschutz Ernennungssper in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besold Konkurrentenschutz Eilrechtsschutz Ernennungssper

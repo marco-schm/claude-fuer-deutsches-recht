@@ -1,6 +1,6 @@
 ---
 name: success-fee-compliance
-description: "Success Fee Compliance: steuert Erfolgsvergütung, Bonus, Premium, Discount und gesetzliche Grenzen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Success Fee Compliance in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Success Fee Compliance

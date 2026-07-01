@@ -1,6 +1,6 @@
 ---
 name: klage-mandantenkommunikation-entscheidungsvorlage
-description: "Klage: Mandantenkommunikation und Entscheidungsvorlage im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Klage: Mandantenkommunikation und Entscheidungsvorlage in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Klage: Mandantenkommunikation und Entscheidungsvorlage

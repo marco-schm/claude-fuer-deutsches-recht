@@ -1,6 +1,6 @@
 ---
 name: mahnung-zahlungsverzug-mieter
-description: "Vermietersicht — verfasse Mahnung und ggf. fristlose Kündigung bei Zahlungsverzug des Mieters. Prüfroutine deckt Verzug nach § 286 BGB Fälligkeit der Miete (§ 556b Abs. 1 BGB) Mahnschreiben Aufrechnungsverbot fristlose Kündigung nach § 543 Abs. 2 Nr. 3 BGB (eine Monatsmiete plus zwei aufeinanderf..."
+description: "Wenn es um Mahnung und Kündigung bei Zahlungsverzug (Vermieter / Hausverwaltung) in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mahnung und Kündigung bei Zahlungsverzug (Vermieter / Hausverwaltung)

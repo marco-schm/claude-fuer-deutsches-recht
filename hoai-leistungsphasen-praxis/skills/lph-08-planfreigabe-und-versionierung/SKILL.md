@@ -1,6 +1,6 @@
 ---
 name: lph-08-planfreigabe-und-versionierung
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Prüft planindex in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Prüft planindex

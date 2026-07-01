@@ -1,6 +1,6 @@
 ---
 name: sachschaden-quellenkarte
-description: "Sachschaden Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Sachschaden Quellenkarte in Fachanwalt Verkehrsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Sachschaden Quellenkarte

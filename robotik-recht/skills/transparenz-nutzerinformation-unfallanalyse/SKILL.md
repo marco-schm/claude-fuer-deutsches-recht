@@ -1,6 +1,6 @@
 ---
 name: transparenz-nutzerinformation-unfallanalyse
-description: "Prüft Informationspflichten, Piktogramme, Bedienoberfläche, Datenschutzhinweise und KI-Transparenz für Mensch-Roboter-Interaktion im Robotik-Recht."
+description: "Wenn es um Transparenz und Nutzerinformation in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Transparenz und Nutzerinformation

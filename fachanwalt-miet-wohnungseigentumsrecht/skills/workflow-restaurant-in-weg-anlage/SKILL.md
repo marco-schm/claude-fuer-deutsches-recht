@@ -1,6 +1,6 @@
 ---
 name: workflow-restaurant-in-weg-anlage
-description: "Restaurant in WEG-Anlage: Prüfungslinie für Miet- und WEG-Recht: sortiert Geruch, Lärm, Sondernutzung, Bauordnungsrecht und Beschlusskompetenz; mit Kaltstart, Fristencheck, Belegmatrix, Anschl..."
+description: "Wenn es um Restaurant in WEG-Anlage: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Restaurant in WEG-Anlage: Prüfungslinie für Miet- und WEG-Recht

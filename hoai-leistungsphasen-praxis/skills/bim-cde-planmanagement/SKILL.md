@@ -1,6 +1,6 @@
 ---
 name: bim-cde-planmanagement
-description: "HOAI-Praxis: ordnet BIM, CDE, Modellstände, Planfreigabe und Datenhoheit; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um HOAI Querschnitt: Ordnet bim in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # HOAI Querschnitt: Ordnet bim

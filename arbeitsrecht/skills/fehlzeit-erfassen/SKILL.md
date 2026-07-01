@@ -1,6 +1,6 @@
 ---
 name: fehlzeit-erfassen
-description: "Neue Abwesenheit oder neuen Urlaubseintrag im Register anlegen – mit allen für die Fristenberechnung nach BUrlG, EFZG, MuSchG und BEEG notwendigen Informationen: Neue Abwesenheit oder neuen Urlaubseintrag im Register anlegen – mit allen für die Fristenberec..."
+description: "Wenn es um Fehlzeit Erfassen in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Neue Abwesenheit oder neuen Urlaubseintrag im Register anlegen – mit allen für die Fristenberechnung nach BUrlG, EFZG, MuSchG und BEEG notwendigen Informationen

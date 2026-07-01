@@ -1,6 +1,6 @@
 ---
 name: internationales-drittstaaten-konzerninsolvenz
-description: "Drittstaatliche Insolvenzverfahren in Deutschland prüfen: keine Chapter-15-Logik, sondern Anerkennung nach §§ 335 ff., 343 InsO und praktische Inzidentprüfung durch Notar, Grundbuchamt, Registergericht, Bank oder Vertragspartner im Insolvenzrecht."
+description: "Wenn es um Internationales Insolvenzrecht Drittstaaten — Inzidentprüfung in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Internationales Insolvenzrecht Drittstaaten — Inzidentprüfung

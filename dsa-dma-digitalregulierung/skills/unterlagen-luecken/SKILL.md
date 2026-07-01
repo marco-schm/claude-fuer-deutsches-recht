@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für DSA/DMA Digitalregulierung: trennt fehlende Tatsachen von fehlenden Belegen (AGB, Risikobewertung, Transparenzberichte), nennt pro Lücke Beweisthema, Beschaffungsweg (EU-Kommission), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

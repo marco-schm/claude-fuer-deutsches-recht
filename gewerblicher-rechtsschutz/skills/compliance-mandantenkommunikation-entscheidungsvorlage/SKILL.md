@@ -1,6 +1,6 @@
 ---
 name: compliance-mandantenkommunikation-entscheidungsvorlage
-description: "Compliance-Mandantenkommunikation im gewerblichen Rechtsschutz: Entscheidungsvorlagen strukturiert erstellen, Handlungsoptionen mit Kosten und Risiken darstellen und Mandantenentscheidungen dokumentieren. Für Kanzleien und Rechtsabteilungen im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Compliance – Mandantenkommunikation und Entscheidungsvorlage in Plugin: Gewerblicher Rechtsschutz geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Spezial: Compliance – Mandantenkommunikation und Entscheidungsvorlage

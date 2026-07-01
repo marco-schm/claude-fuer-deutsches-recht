@@ -1,6 +1,6 @@
 ---
 name: datenschutz-vvt-tom-avv-hausverwaltung
-description: "VVT nach Art. 30 DSGVO, TOM nach Art. 32 und AVV nach Art. 28 DSGVO für die typische Hausverwaltung (Stand 06/2026): Verarbeitungsverzeichnis-Muster, TOM-Mindeststandards, AVV-Pflichten gegenueber Buchhaltungssoftware und Cloud-Diensten."
+description: "Wenn es um Datenschutz: VVT, TOM und AVV für die Hausverwaltung in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz: VVT, TOM und AVV für die Hausverwaltung

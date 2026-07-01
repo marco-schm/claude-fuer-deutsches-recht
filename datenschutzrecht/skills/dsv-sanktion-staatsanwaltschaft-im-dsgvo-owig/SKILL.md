@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-staatsanwaltschaft-im-dsgvo-owig
-description: "Datenschutzrecht-Brückenskill: Staatsanwaltschaft im DSGVO-OWiG-Verfahren: Rolle der Staatsanwaltschaft nach Akteneingang und Zustimmungserfordernis der Aufsicht bei Einstellung erklären: Datenschutzrecht-Brückenskill: Staatsanwaltschaft im DSGVO-OWiG-Verfa..."
+description: "Wenn es um Dsv Sanktion Staatsanwaltschaft Im Dsgvo Owig in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenschutzrecht-Brückenskill: Staatsanwaltschaft im DSGVO-OWiG-Verfahren: Rolle der Staatsanwaltschaft nach Akteneingang und Zustimmungserfordernis der Aufsicht bei Einstellung erklären

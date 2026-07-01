@@ -1,6 +1,6 @@
 ---
 name: umgang-mit-provokateuren
-description: "Wahlkampfrecht Praxis: Umgang mit Provokateuren bei Veranstaltungen und Strassenwahlkampf planen im Wahlkampfrecht."
+description: "Wenn es um Umgang Mit Provokateuren in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umgang Mit Provokateuren

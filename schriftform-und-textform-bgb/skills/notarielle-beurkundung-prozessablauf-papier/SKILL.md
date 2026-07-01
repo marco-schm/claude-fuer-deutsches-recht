@@ -1,6 +1,6 @@
 ---
 name: notarielle-beurkundung-prozessablauf-papier
-description: "Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. Paragrafen 128 129 BGB Beurkundungsgesetz. Prüfraster: Beurkundungspflicht Paragraf 311b BGB Grundstueck Paragraf 15 GmbHG GmbH-Anteilsuebertragung Paragraf 1410 BGB Ehevertrag Paragraf 2276 BGB Erbvertrag. A..."
+description: "Wenn es um Notarielle Beurkundung und Öffentliche Beglaubigung in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notarielle Beurkundung und Öffentliche Beglaubigung

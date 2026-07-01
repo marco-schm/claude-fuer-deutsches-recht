@@ -1,6 +1,6 @@
 ---
 name: 99-finale-entscheidung-volltext
-description: Erzeugt Anklageschrift, Strafbefehlsantrag, Einstellungs- oder Abschlussverfügung als zeichnungsreifen staatsanwaltschaftlichen Volltext mit Tatvorwurf, Beweisstand, Verfügungssatz und Rechtsbehelfshinweis.
+description: "Wenn es um Finale Entscheidung Volltext in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Finale Entscheidung als Volltext (Anklageschrift, Strafbefehlsantrag oder Einstellungsverfügung)

@@ -1,6 +1,6 @@
 ---
 name: ihl-069-ip-license-in-supply-chain
-description: "Internationales Handelsrecht und Lex Mercatoria: IP License In Supply Chain. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um IP License In Supply Chain in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IP License In Supply Chain

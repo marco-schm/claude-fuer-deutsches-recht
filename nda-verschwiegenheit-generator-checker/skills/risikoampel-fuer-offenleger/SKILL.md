@@ -1,6 +1,6 @@
 ---
 name: risikoampel-fuer-offenleger
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Risikoampel Fuer Offenleger; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Risikoampel Für Offenleger in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Risikoampel Für Offenleger

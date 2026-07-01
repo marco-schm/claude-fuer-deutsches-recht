@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-verkehrs-und-gruenflaechen
-description: "Prueft Verkehrsflächen, Gruenflächen, Gemeinbedarfsflächen und Versorgungsflächen im Bebauungsplan nach BauGB Paragraf 9 mit Erschliessung, Widmung und Abwaegung."
+description: "Wenn es um Verkehrs-, Grün- und Versorgungsflächen in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verkehrs-, Grün- und Versorgungsflächen

@@ -1,6 +1,6 @@
 ---
 name: widerspruch-klage-sozialgericht
-description: "Führt durch Widerspruch, Klage und sozialgerichtliche Strategie gegen Status- oder Beitragsbescheide im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Widerspruch und Sozialgericht in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Widerspruch und Sozialgericht

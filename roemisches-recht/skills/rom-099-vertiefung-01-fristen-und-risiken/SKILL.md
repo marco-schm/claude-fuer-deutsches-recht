@@ -1,6 +1,6 @@
 ---
 name: rom-099-vertiefung-01-fristen-und-risiken
-description: "Römisches Recht: Vertiefung 01 Fristen Und Risiken. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Vertiefung 01 Fristen Und Risiken in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertiefung 01 Fristen Und Risiken

@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Erbrecht: stimmt Adressat (Erblasser (Beratung), Erben, Vermächtnisnehmer), Frist (Ausschlagung 6 Wochen § 1944 BGB) und Form auf den Zweck ab — typische Outputs: Testamentsentwurf, Erbscheinantrag, Pflichtteilsklage."
+description: "Wenn es um Output wählen in Fachanwalt Erbrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: output-vertrag-englisch-fertigentwurf
-description: "Output: vollstaendiger Lizenzvertrag in englischer Sprache (Licence Agreement). Standard-Klauseln in English Law / German-Law-Variante; Royalty / Sublicensing / Indemnification / Governing Law / Arbitration. Bilingual-faehig."
+description: "Wenn es um Output: Licence Agreement in English in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output: Licence Agreement in English

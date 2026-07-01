@@ -1,6 +1,6 @@
 ---
 name: desinformation-monitoring
-description: "Wahlkampfrecht Praxis: Desinformation und Manipulationsnarrative monitoren im Wahlkampfrecht."
+description: "Wenn es um Desinformation Monitoring in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Desinformation Monitoring

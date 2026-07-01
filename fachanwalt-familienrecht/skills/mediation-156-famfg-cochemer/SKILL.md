@@ -1,6 +1,6 @@
 ---
 name: mediation-156-famfg-cochemer
-description: "Familienrechtlicher Skill zu Familienrechtliche Mediation nach Paragraf 156 FamFG und Cochemer Modell: Vermittlungsverfahren Paragraf 165 FamFG bei Umgangsverweigerung, ADR-Pfade (Familienmediation DGFM, Familiengerichts-Mediation Paragraf 278a ZPO analog, Cochemer Praxis), Hochkonflikt-Familien, Schutzklausel Paragraf 1666 BGB, interdisziplinäre Zusammenarbeit mit Jugendamt, BKKJ und Verfahrensbeistand, Beurkundung Paragraf 127a BGB, MediationsG, Kostentragung, Abgrenzung zur streitigen Entscheidung nach Paragraf 1684 BGB: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
+description: "Wenn es um Mediation 156 Famfg Cochemer in Fachanwalt Familienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Familienrechtliche Mediation nach Paragraf 156 FamFG und Cochemer Modell: Vermittlungsverfahren Paragraf 165 FamFG bei Umgangsverweigerung, ADR-Pfade (Familienmediation DGFM, Familiengerichts-Mediation Paragraf 278a ZPO analog, Cochemer Praxis), Hochkonflikt-Familien, Schutzklausel Paragraf 1666 BGB, interdisziplinäre Zusammenarbeit mit Jugendamt, BKKJ und Verfahrensbeistand, Beurkundung Paragraf 127a BGB, MediationsG, Kostentragung, Abgrenzung zur streitigen Entscheidung nach Paragraf 1684 BGB.

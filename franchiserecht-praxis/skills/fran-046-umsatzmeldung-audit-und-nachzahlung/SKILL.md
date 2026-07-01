@@ -1,6 +1,6 @@
 ---
 name: fran-046-umsatzmeldung-audit-und-nachzahlung
-description: "Franchiserecht: Umsatzmeldung Audit und Nachzahlung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Umsatzmeldung Audit und Nachzahlung in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Umsatzmeldung Audit und Nachzahlung

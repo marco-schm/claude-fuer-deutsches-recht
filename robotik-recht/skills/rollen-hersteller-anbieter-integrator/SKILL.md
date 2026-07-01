@@ -1,6 +1,6 @@
 ---
 name: rollen-hersteller-anbieter-integrator
-description: "Prüft Hersteller-, Anbieter- und Integratorrollen bei Robotern mit Hardware, Software, KI-Modell und eigenem Markenauftritt."
+description: "Wenn es um Rollen Hersteller Anbieter Integrator in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rollen Hersteller Anbieter Integrator

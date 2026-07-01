@@ -1,6 +1,6 @@
 ---
 name: vbr-030-haustuergeschaeft-behoerdenmeldung-pru
-description: "Verbraucherschutzrecht Prüfer: Haustürgeschäft: Behördenmeldung prüfen. Behördenmeldung prüfen für Haustürgeschäft im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Haustuergeschaeft Behoerdenmeldung Pru in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haustuergeschaeft Behoerdenmeldung Pru

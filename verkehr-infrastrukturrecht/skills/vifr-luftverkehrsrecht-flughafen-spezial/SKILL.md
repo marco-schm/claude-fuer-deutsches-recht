@@ -1,6 +1,6 @@
 ---
 name: vifr-luftverkehrsrecht-flughafen-spezial
-description: "Spezialfall Luftverkehrsrecht und Flughafenausbau: Planfeststellung LuftVG, Nachtflug, Anwohnerklagen, EU-Slot-VO. Prüfraster für Flughafenbetreiber und Anwohner im Verkehr Infrastrukturrecht."
+description: "Wenn es um ViFR: Luftverkehr Flughafen in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # ViFR: Luftverkehr Flughafen

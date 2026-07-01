@@ -1,6 +1,6 @@
 ---
 name: zinsausgaben-brh-frage-formulieren
-description: "Haushaltsrecht BHO Bund und Länder: Zinsausgaben: BRH-Frage formulieren. BRH- im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Zinsausgaben Brh Frage Formulieren in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zinsausgaben Brh Frage Formulieren

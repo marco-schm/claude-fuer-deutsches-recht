@@ -1,6 +1,6 @@
 ---
 name: insurance-dd-und-risk
-description: "Prüft Versicherungsschutz, Claims, D&O, Cyber, Produkthaftung, W&I und Post-Closing-Deckung im Private Equity Praxis."
+description: "Wenn es um Insurance DD und Risk Allocation in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insurance DD und Risk Allocation

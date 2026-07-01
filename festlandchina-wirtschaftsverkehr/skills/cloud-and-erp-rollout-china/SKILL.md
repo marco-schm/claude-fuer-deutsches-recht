@@ -1,6 +1,6 @@
 ---
 name: cloud-and-erp-rollout-china
-description: "Cloud und ERP-Rollout in China: ICP-Lizenz-Anforderungen, Datenlokalisierung (Cybersecurity Law Art. 37), MLPS-Zertifizierung, Rechenzentrum-Anforderungen, Besonderheiten internationaler Cloud-Anbieter (AWS/Azure/Google – Joint Ventures in CN), SAP/Oracle China-Compliance, Behördenabnahme ERP. Ou..."
+description: "Wenn es um Cloud und ERP in China: ICP/MLPS/Datenlokalisierung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cloud und ERP in China: ICP/MLPS/Datenlokalisierung

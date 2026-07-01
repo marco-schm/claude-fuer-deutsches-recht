@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-fristen-form-zustaendigkeit-buergerlichen-recht
-description: "Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zuständigkeitsregeln im bürgerlichen Recht und Zivilprozess. Es trainiert die methodische Prüfung, ob eine Handlung fristgerecht, formwirksam und beim zuständigen Gericht oder der zuständigen Stelle einzureichen ist. Besond..."
+description: "Wenn es um Fristen, Form und Zuständigkeit im bürgerlichen Recht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen, Form und Zuständigkeit im bürgerlichen Recht

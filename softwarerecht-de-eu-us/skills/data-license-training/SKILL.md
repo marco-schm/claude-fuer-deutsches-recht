@@ -1,6 +1,6 @@
 ---
 name: data-license-training
-description: "Prüft Datenlizenzen für Softwaretraining, Analytics, Benchmarking, KI, Produktverbesserung und Weitergabe im Softwarerecht De Eu Us."
+description: "Wenn es um Datenlizenz für Training und Software in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenlizenz für Training und Software

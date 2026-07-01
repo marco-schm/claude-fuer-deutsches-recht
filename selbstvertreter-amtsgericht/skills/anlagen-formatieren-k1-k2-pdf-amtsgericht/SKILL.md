@@ -1,6 +1,6 @@
 ---
 name: anlagen-formatieren-k1-k2-pdf-amtsgericht
-description: "Anlagen K1 K2 K3 richtig formatieren für Klage Klageerwiderung Replik. Schriftart Times New Roman oder Arial 12pt. Position der Anlagen-Beschriftung oben rechts. Seitenzahlen. Stempel-Vorlage. PDF-Tipps für Buerger ohne Anwalt am Amtsgericht."
+description: "Wenn es um Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt

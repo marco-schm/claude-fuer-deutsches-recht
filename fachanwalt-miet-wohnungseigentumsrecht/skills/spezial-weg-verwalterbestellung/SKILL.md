@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-verwalterbestellung
-description: "Verwalterbestellung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Bestellung, Vertrag, zertifizierter Verwalter, Laufzeit, Abberufung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Verwalterbestellung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verwalterbestellung

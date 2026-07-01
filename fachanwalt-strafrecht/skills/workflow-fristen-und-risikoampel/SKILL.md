@@ -1,6 +1,6 @@
 ---
 name: workflow-fristen-und-risikoampel
-description: "Fristen- und Risikoampel: Fristen- und Risikoampel: macht aus Strafbefehl, Urteil, Beschluss, Ladung, Haftbefehl, beA-/EGVP-Eingang oder Aktennachlieferung eine Sofortampel für Frist, Zuständigkeit, U-Haft, Rechtsmittel, Eilb..."
+description: "Wenn es um Fristen- und Risikoampel in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen- und Risikoampel

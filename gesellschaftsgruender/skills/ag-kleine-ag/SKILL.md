@@ -1,6 +1,6 @@
 ---
 name: ag-kleine-ag
-description: "Prüft AG-Gründung, Satzung, Vorstand, Aufsichtsrat, Kapital und Investorenfähigkeit im Gesellschaftsgruender."
+description: "Wenn es um Kleine AG in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kleine AG

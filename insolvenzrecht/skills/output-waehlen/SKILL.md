@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Insolvenzrecht (Allgemein): stimmt Adressat (Schuldner GmbH/Person, Gläubiger, Verwalter), Frist (§ 15a Antragspflicht 3 Wochen) und Form auf den Zweck ab — typische Outputs: Insolvenzantrag, Gutachten, Anfechtungsklage."
+description: "Wenn es um Output wählen in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

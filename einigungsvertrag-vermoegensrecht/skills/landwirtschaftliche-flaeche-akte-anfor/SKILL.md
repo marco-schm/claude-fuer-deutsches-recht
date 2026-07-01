@@ -1,6 +1,6 @@
 ---
 name: landwirtschaftliche-flaeche-akte-anfor
-description: "Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Akte anfordern im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Landwirtschaftliche Flaeche Akte Anfor in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Landwirtschaftliche Flaeche Akte Anfor

@@ -1,6 +1,6 @@
 ---
 name: entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung
-description: "Sachgrundlose Befristung nach Paragraf 14 Absatz 2 TzBfG: zwei Jahre Gesamtdauer; dreimal verlaengerbar; Vorbeschaeftigungsverbot; BVerfG-Entscheidung 2018; BAG-Folgerechtsprechung; Karenzzeit-Diskussion; Rechtsfolge Paragraf 16 TzBfG."
+description: "Wenn es um Sachgrundlose Befristung nach Paragraf 14 Abs in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sachgrundlose Befristung nach Paragraf 14 Abs

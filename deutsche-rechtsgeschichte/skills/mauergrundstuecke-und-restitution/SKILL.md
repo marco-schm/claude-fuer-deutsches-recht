@@ -1,6 +1,6 @@
 ---
 name: mauergrundstuecke-und-restitution
-description: "Deutsche Rechtsgeschichte: Mauergrundstücke und Restitution nach 1990. Enteignungen für den Grenzstreifen, Vermögensgesetz, Rückübertragungsansprueche und BVerwG-Rechtsprechung zu Mauergrundstücken im Deutsche Rechtsgeschichte."
+description: "Wenn es um Mauergrundstücke und Restitution in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mauergrundstücke und Restitution

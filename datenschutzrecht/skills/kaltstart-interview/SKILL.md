@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Neues Datenschutzmandat durch strukturiertes Erstgespraech aufnehmen. Art. 5 6 DSGVO Grundsaetze § 26 BDSG Beschäftigtendaten. Prüfraster: Verarbeitungszweck Datenarten betroffene Personen Empfaenger Aufbewahrungsdauer Risiken. Output: Mandatssteckbrief Verarbeitungsregister-Entwurf fehlende Inf..."
+description: "Wenn es um Kaltstart-Interview – Datenschutzrecht in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart-Interview – Datenschutzrecht

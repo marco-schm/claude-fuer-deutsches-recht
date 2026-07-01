@@ -1,6 +1,6 @@
 ---
 name: prozessuale-kniffe-und-rechtsprechungsanker
-description: Verdichtet registergerichtliche Prozesskniffe zu Zwischenverfügung, Anhörung, Prüfungsumfang, Eintragung, Zurückweisung und Beschwerde.
+description: "Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Prozessuale Kniffe und Rechtsprechungsanker
 

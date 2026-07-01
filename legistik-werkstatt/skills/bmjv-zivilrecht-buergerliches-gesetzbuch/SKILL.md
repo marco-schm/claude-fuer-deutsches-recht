@@ -1,6 +1,6 @@
 ---
 name: bmjv-zivilrecht-buergerliches-gesetzbuch
-description: "Sachbereich Zivilrecht und BGB-Pflege im Geschäftsbereich BMJV: Normbestand (BGB; HGB; EGBGB; BeurkG; AGG; AGB-Recht; Verbraucherregelungen.); Akteure (BMJV; BGH; OLGs; juristische Fakultaeten als Sachverstaendige.); EU-Bezug (Verbraucher-RL; Pauschalreise-RL; Warenkauf-RL; Digitale-Inhalte-RL.)"
+description: "Wenn es um Zivilrecht und BGB-Pflege (BMJV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmjv Zivilrecht Buergerliches Gesetzbuch; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Zivilrecht und BGB-Pflege (BMJV)

@@ -1,6 +1,6 @@
 ---
 name: humanistische-pazifistische-gruende
-description: "Formt säkulare Ethik in eine persönliche KDV-Begründung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Humanistische pazifistische Gründe in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Humanistische pazifistische Gründe

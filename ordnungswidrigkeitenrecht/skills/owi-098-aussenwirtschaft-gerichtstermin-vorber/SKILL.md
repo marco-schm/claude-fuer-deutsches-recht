@@ -1,6 +1,6 @@
 ---
 name: owi-098-aussenwirtschaft-gerichtstermin-vorber
-description: "Ordnungswidrigkeitenrecht: Außenwirtschaft: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Aussenwirtschaft Gerichtstermin Vorber in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aussenwirtschaft Gerichtstermin Vorber

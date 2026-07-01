@@ -1,6 +1,6 @@
 ---
 name: ristbv-verfuegungstechnik-standard
-description: "RiStBV-Verfügungstechnik und Dezernatsstandard: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um RiStBV-Verfügungstechnik und Dezernatsstandard in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # RiStBV-Verfügungstechnik und Dezernatsstandard

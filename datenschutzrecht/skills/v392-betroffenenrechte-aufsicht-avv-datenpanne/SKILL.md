@@ -1,6 +1,6 @@
 ---
 name: v392-betroffenenrechte-aufsicht-avv-datenpanne
-description: "Kernworkflow Datenschutzrecht für Auskunft, Löschung, Aufsichtsbehördenbeschwerde, Auftragsverarbeitung und Datenpanne mit Fristen, Belegen, Risikoschwellen und konkreten Arbeitsprodukten."
+description: "Wenn es um Kernworkflow Datenschutzrecht in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kernworkflow Datenschutzrecht

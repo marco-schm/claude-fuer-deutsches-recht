@@ -1,6 +1,6 @@
 ---
 name: inside-information-und-marktmissbrauch
-description: "Warnt bei börsennahen Targets, Token, Secondaries, Corporate VC und vertraulichen Finanzierungsrunden vor Insider-/MAR-Risiken im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Inside Information und Marktmissbrauch in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Inside Information und Marktmissbrauch

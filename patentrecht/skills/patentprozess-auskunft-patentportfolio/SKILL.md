@@ -1,6 +1,6 @@
 ---
 name: patentprozess-auskunft-patentportfolio
-description: "Bereitet Folgeansprüche nach Patentverletzung vor: Auskunft, Rechnungslegung, Rückruf, Vernichtung, Schadensberechnung, Lizenzanalogie, Verletzergewinn und Daten-/Geheimnisschutz im Patentrecht."
+description: "Wenn es um Patentprozess: Auskunft, Rechnungslegung, Schadensersatz in patentrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Patentprozess: Auskunft, Rechnungslegung, Schadensersatz

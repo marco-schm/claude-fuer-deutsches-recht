@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-garantiekatalog-vendor-due
-description: "Rechtsabteilungs-Fachmodul für Garantiekatalog ohne Großkanzlei-Overkill: Garantien werden für Mittelstandstransaktionen risikobasiert gestrafft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Mittelstand Corporate Ma."
+description: "Wenn es um Rechtsabteilung: Garantiekatalog ohne Großkanzlei-Overkill in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Garantiekatalog ohne Großkanzlei-Overkill

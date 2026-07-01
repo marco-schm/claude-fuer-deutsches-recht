@@ -1,6 +1,6 @@
 ---
 name: dokumente-sichern-e-discovery-einstweiliger
-description: "Sichert Unterlagen nach Eingang eines Hinweises im Hinweisgeberschutz Compliance."
+description: "Wenn es um Dokumente Sichern in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Dokumente Sichern

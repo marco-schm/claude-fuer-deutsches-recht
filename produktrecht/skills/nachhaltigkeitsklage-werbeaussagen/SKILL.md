@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeitsklage-werbeaussagen
-description: "Nachhaltigkeits- und Greenwashing-Klagen nach UWG sowie Empowering-Consumers-Richtlinie EU 2024 825: konkrete Anforderungen an Klimaneutralitaets-Claims, Recyclingangaben, Kompensationsangaben. Substanziierungspflicht, Lebenszyklus-Daten, Drittzertifizierung. Prüfraster und Abwehrlinie gegen Ver..."
+description: "Wenn es um Greenwashing-Verteidigung in Produkthaftung und Produktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Greenwashing-Verteidigung

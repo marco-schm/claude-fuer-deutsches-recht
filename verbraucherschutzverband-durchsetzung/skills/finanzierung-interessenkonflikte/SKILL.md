@@ -1,6 +1,6 @@
 ---
 name: finanzierung-interessenkonflikte
-description: "Verbraucherschutzverband Durchsetzung: Finanzierung und Interessenkonflikte. Finanzierung und Interessenkonflikte im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
+description: "Wenn es um Finanzierung Und Interessenkonflikte in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Finanzierung Und Interessenkonflikte

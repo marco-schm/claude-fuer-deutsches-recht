@@ -1,6 +1,6 @@
 ---
 name: zugunstenantrag-44-sgb-x-bestandskraft
-description: "Zugunstenantrag nach § 44 SGB X: Antrag auf Aufhebung eines bestandskraeftigen rechtswidrigen Verwaltungsakts zugunsten des Buergers. Klaert Voraussetzungen Frist Rueckwirkung bis zu 4 Jahre. Skill liefert Antragsvorlage."
+description: "Wenn es um Zugunstenantrag 44 Sgb X Bestandskraft in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zugunstenantrag 44 Sgb X Bestandskraft

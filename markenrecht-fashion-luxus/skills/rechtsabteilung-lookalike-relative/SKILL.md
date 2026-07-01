@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-lookalike-relative
-description: "Rechtsabteilungs-Fachmodul für Lookalike-Produkte und Rufausbeutung: Luxury-Counsel trennt Marke, Design, Nachahmung und wettbewerbliche Eigenart. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Markenrecht Fashion Luxus."
+description: "Wenn es um Rechtsabteilung: Lookalike-Produkte und Rufausbeutung in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsabteilung: Lookalike-Produkte und Rufausbeutung

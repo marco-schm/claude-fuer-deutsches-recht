@@ -1,6 +1,6 @@
 ---
 name: parteikommunikation-mitglieder
-description: "Erstellt Rundmail, Einladung, Datenschutz-Hinweis, Beschlussinformation, Konfliktkommunikation und Fristenhinweis."
+description: "Wenn es um Mitgliederkommunikation in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mitgliederkommunikation

@@ -1,6 +1,6 @@
 ---
 name: zaun-verhandlung-vergleich-und-eskalation
-description: "Zaun: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Zaun: Verhandlung, Vergleich und Eskalation in Nachbarschaftsstreit-Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Zaun: Verhandlung, Vergleich und Eskalation

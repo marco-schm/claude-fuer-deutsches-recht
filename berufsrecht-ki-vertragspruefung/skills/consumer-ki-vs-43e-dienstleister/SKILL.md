@@ -1,6 +1,6 @@
 ---
 name: consumer-ki-vs-43e-dienstleister
-description: "Consumer-KI, Enterprise-KI, Kanzleisoftware und §-43e-Dienstleister trennen: prüft Mandatsdaten, Vertragsbindung, Toolzweck, Subunternehmer, Anonymisierungspflicht, Mandanteninformation und Freigabeentscheidung."
+description: "Wenn es um Consumer-digitale Werkzeuge vs. Paragraf-43e-Dienstleister in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Consumer Ki Vs 43e Dienstleister; Arbeitsfeld: anwaltlichem Berufsrecht und Vertragsprüfung."
 ---
 
 # Consumer-KI vs. §-43e-Dienstleister

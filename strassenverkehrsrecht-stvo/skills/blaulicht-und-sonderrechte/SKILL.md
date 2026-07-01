@@ -1,6 +1,6 @@
 ---
 name: blaulicht-und-sonderrechte
-description: "Straßenverkehrsrecht StVO: Blaulicht und Sonderrechte. Blaulicht und Sonderrechte im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Beleg..."
+description: "Wenn es um Blaulicht Und Sonderrechte in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Blaulicht Und Sonderrechte

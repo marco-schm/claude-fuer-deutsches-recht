@@ -1,6 +1,6 @@
 ---
 name: itil-sla-vertragsstrafe
-description: "Itil sla Vertragsstrafe: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Itil sla Vertragsstrafe in Fachanwalt It Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Itil sla Vertragsstrafe

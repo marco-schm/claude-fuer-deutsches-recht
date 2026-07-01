@@ -1,6 +1,6 @@
 ---
 name: vertragsmodell-strasse-app-spezial
-description: "Spezialfall App- und Plattform-Vertraege im öffentlichen Personennahverkehr: Mobility-as-a-Service-Vertraege, Datenraum, P2B-Verordnung, DSGVO, Verkehrsvertraege nach VO 1370/2007. Schiedsklauseln und Vergaberecht. Prüfraster für Kommunen im Verkehr Infrastrukturrecht."
+description: "Wenn es um OePNV-App und Plattform in Verkehrs- und Infrastrukturrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # OePNV-App und Plattform

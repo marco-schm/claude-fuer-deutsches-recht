@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Deutsche Rechtsgeschichte: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe."
+description: "Wenn es um Deutsche Rechtsgeschichte - Allgemeiner Einstieg in Deutsche Rechtsgeschichte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte - Allgemeiner Einstieg

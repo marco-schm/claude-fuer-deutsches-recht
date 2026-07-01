@@ -1,6 +1,6 @@
 ---
 name: cic-can-0218
-description: "CIC can. 218: Normnavigator fuer Buch II - Volk Gottes (can. 204-746); amtlichen Canon-Text live pruefen, Tatbestand, Zuständigkeit, Partikularrecht, Katechismusbezug und pastorale Ausgabe sauber trennen."
+description: "Wenn es um CIC can. 218 - Buch II - Volk Gottes in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # CIC can. 218 - Buch II - Volk Gottes

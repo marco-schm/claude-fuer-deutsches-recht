@@ -1,6 +1,6 @@
 ---
 name: verschmelzung-gmbh-registercheck
-description: "Checkt Verschmelzungsvertrag, Zustimmungsbeschlüsse, Registeranmeldungen, Gläubigerschutz und Wirksamkeitszeitpunkt im Handelsregister Praxis."
+description: "Wenn es um Verschmelzung GmbH Registercheck in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Verschmelzung GmbH Registercheck

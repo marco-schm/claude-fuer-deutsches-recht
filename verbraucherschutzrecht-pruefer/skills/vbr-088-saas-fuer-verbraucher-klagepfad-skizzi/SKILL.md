@@ -1,6 +1,6 @@
 ---
 name: vbr-088-saas-fuer-verbraucher-klagepfad-skizzi
-description: "Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Klagepfad skizzieren. Klagepfad skizzieren für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Saas Fuer Verbraucher Klagepfad Skizzi in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Saas Fuer Verbraucher Klagepfad Skizzi

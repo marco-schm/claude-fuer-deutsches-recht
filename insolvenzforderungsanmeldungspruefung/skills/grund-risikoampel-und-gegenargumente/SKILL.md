@@ -1,6 +1,6 @@
 ---
 name: grund-risikoampel-und-gegenargumente
-description: "Grund: Risikoampel, Gegenargumente und Verteidigungslinien im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanme..."
+description: "Wenn es um Grund: Risikoampel, Gegenargumente und Verteidigungslinien in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grund: Risikoampel, Gegenargumente und Verteidigungslinien

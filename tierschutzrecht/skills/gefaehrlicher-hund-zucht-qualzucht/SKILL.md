@@ -1,6 +1,6 @@
 ---
 name: gefaehrlicher-hund-zucht-qualzucht
-description: "Tierschutzrecht: Gefährlicher Hund Landesrecht. Gefährlicher Hund Landesrecht im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht."
+description: "Wenn es um Gefaehrlicher Hund Landesrecht in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gefaehrlicher Hund Landesrecht

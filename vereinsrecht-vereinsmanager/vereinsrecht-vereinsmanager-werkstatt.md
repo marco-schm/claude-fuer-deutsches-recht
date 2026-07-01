@@ -79,7 +79,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
-- Paragraf 32 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -127,122 +126,58 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. Prüft fehlerhafte Einladung, Tagesordnung, Mehrheit, Stimmrecht, Befangenheit und Vorgehen gegen Beschlüsse im Vereinsrecht Vereinsmanager.
+### 11.1. Beschlussmängel
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Begleitet Auflösung, Liquidatoren, Sperrjahr, Vermögensanfall, Register und Finanzamt im Vereinsrecht Vereinsmanager.
+### 11.2. Auflösung und Liquidation
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Formuliert rechtssichere Beschlussvorschläge für Versammlung, Vorstand oder Ausschuss im Vereinsrecht Vereinsmanager.
+### 11.3. Beschlussvorlagen
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Regelt Mitgliederverwaltung, Verteiler, Fotos, WhatsApp-Gruppen, Cloud, Einwilligung und Löschung im Vereinsrecht Vereinsmanager.
+### 11.4. Datenschutz Mitgliederliste
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Gestaltet Delegiertenversammlung, Sparten, Abteilungen, Jugendordnung und interne Kompetenzen im Vereinsrecht Vereinsmanager.
+### 11.5. Delegierte und Abteilungen
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. Erklärt steuerfreie Pauschalen, Voraussetzungen, Dokumentation, Kombination und Grenzen im Vereinsrecht Vereinsmanager.
+### 11.6. Ehrenamtspauschale und Übungsleiter
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Erklärt Entlastung, Reichweite, Interessenkonflikte und Beschlussformulierung im Vereinsrecht Vereinsmanager.
+### 11.7. Entlastung Vorstand
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Prüft Zuwendungsbescheid, Eigenanteil, Vergabe, Verwendungsnachweis, Rückforderung und Satzungszweck im Vereinsrecht Vereinsmanager.
+### 11.8. Fördermittel Verein
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Regelt Gemeinnützigkeit, Schulförderung, Kita-Nähe, Mittelverwendung, Datenschutz und Interessenkonflikte im Vereinsrecht Vereinsmanager.
+### 11.9. Förderverein Schule/Kita
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Prüft Zusammenschluss, Vermögensübertragung, Mitgliederzustimmung, Satzungen und Registerpfad im Vereinsrecht Vereinsmanager.
+### 11.10. Fusion und Zusammenschluss
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Bereitet Satzungsprüfung, Feststellung nach AO, Finanzamt-Kommunikation und Zuwendungsbestätigungen vor im Vereinsrecht Vereinsmanager.
+### 11.11. Gemeinnützigkeit Antrag
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Regelt Sitzungen, Beschlüsse, Ressorts, Zeichnungsrechte, Protokolle und Eilentscheidungen im Vereinsrecht Vereinsmanager.
+### 11.12. Geschäftsordnung Vorstand
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Führt zur e.-V.-Gründung: sieben Mitglieder, Satzung, Gründungsprotokoll, Vorstand, notarielle Anmeldung, Vereinsregister im Vereinsrecht Vereinsmanager.
+### 11.13. Eingetragener Verein gründen
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Begleitet Gründung und Grundordnung eines nicht eingetragenen Vereins mit Mindestregeln, Haftungs- und Kontofragen im Vereinsrecht Vereinsmanager.
+### 11.14. Nicht eingetragener Verein
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.15. Prüft Sorgfalt, Ressortverteilung, Ehrenamtspauschale, Versicherung, Innenhaftung und Außenhaftung im Vereinsrecht Vereinsmanager.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.16. Prüft mildtätige Zwecke, Bedürftigkeitsnachweis, Hilfeleistungen, Datenschutz und Zweckbetrieb im Vereinsrecht Vereinsmanager.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.17. Prüft Paragraf 32 BGB, Satzung, Teilnahme-/Abstimmungsrechte, technische Hinweise, Identität und Protokoll im Vereinsrecht Vereinsmanager.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.18. Einstieg und Routing für Gründung, Satzung, Vorstand, Mitgliederversammlung, Register, Gemeinnützigkeit, Finanzen, Haftung, Konflikte und Auflösung.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.19. Strukturiert Kassenführung, Vier-Augen-Prinzip, Belege, Konten, Budget und Bericht im Vereinsrecht Vereinsmanager.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.20. Minimalregeln für kleine Freizeitvereine: Kasse, Beiträge, Protokoll, Haftung, Austritt und Streitvermeidung im Vereinsrecht Vereinsmanager.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.21. Moderiert Streit: Vorstand vs. Mitglieder, Akteneinsicht, Sonderversammlung, Abwahl, Ausschluss und Vergleich im Vereinsrecht Vereinsmanager.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.22. Spezialfragen Kultur: Veranstaltungen, Künstlerverträge, GEMA, Fördermittel, Spenden, Gemeinnützigkeit im Vereinsrecht Vereinsmanager.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.23. Prüft Mitgliedschaft, Zustimmung Eltern, Aufsicht, Fotos, Schutzkonzept und Kinderschutz im Vereinsrecht Vereinsmanager.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.24. Erstellt Einladung, Fristcheck, Tagesordnung, Beschlussgegenstände und Versandnachweis im Vereinsrecht Vereinsmanager.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.25. Gestaltet Beitragsordnung, Fälligkeit, Mahnung, Sozialklausel, Umlagen und Beitragserhöhung im Vereinsrecht Vereinsmanager.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.26. Regelt Aufnahme, Ablehnung, Rechte, Pflichten, Beiträge, Datenschutz und Minderjährige im Vereinsrecht Vereinsmanager.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.27. Prüft Austritt, Beitragsrückstand, Ausschlussverfahren, Anhörung, Fairness und Dokumentation im Vereinsrecht Vereinsmanager.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.28. Bereitet Notartermin und Registeranmeldung für Gründung, Vorstand, Satzungsänderung und Auflösung vor im Vereinsrecht Vereinsmanager.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.29. Entwirft Beitragsordnung, Geschäftsordnung, Wahlordnung, Ehrenordnung, Datenschutzordnung und Jugendordnung im Vereinsrecht Vereinsmanager.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.30. Erstellt Protokoll mit Anwesenheit, Versammlungsleitung, Beschlussfähigkeit, Abstimmung, Ergebnissen und Anlagen im Vereinsrecht Vereinsmanager.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

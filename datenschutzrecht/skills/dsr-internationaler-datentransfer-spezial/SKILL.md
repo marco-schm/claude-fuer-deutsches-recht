@@ -1,6 +1,6 @@
 ---
 name: dsr-internationaler-datentransfer-spezial
-description: "Spezialfall internationaler Datentransfer Art. 44 ff. DSGVO: Angemessenheitsbeschluss, SCC, Transfer Impact Assessment, US-Datenschutzrahmen. Prüfraster für Konzern."
+description: "Wenn es um DSR: Internationaler Datentransfer in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DSR: Internationaler Datentransfer

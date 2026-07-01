@@ -1,6 +1,6 @@
 ---
 name: vowi-bussgeldbescheid-pruefung-bauleiter
-description: "Bauleiter Pruefung Bussgeldbescheid OWiG: Tatvorwurf, Beweismittel, Hoehe, Rechtsfolgen Punkte und Fahrverbot. Pruefraster fuer Verteidiger im Erstgespraech."
+description: "Wenn es um VOWi: Bussgeldbescheid-Pruefung in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VOWi: Bussgeldbescheid-Pruefung

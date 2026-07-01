@@ -1,6 +1,6 @@
 ---
 name: h2-electrolyseur-foerderung
-description: "Spezialfall Wasserstoff-Elektrolyseur: Foerderwege (Wasserstoffstrategie Bund, EU-Wasserstoffbank, IPCEI), Strompreisbedingungen Industrieprivileg, Anschluss Netz, Sicherheitsabstaende BImSchG, Hochdruck-Pipeline-Genehmigung. Prüfraster Projektentwicklung im Energierecht."
+description: "Wenn es um H2-Elektrolyseur-Spezial in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # H2-Elektrolyseur-Spezial

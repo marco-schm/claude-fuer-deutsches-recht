@@ -1,6 +1,6 @@
 ---
 name: werkdaten-standard-zertifikat-archiv
-description: "Werkdaten für die Standard Application: Titel, Autorenschaft, Claimant, Publication, Transfer Statement, Rights-and-Permissions und ausgeschlossene Inhalte präzise erfassen im Us Copyright Registrierung Verlag."
+description: "Wenn es um Werkdaten für die Standard Application in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Werkdaten für die Standard Application

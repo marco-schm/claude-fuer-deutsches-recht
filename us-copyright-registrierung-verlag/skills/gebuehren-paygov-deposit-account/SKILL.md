@@ -1,6 +1,6 @@
 ---
 name: gebuehren-paygov-deposit-account
-description: "Gebühren- und Zahlungsworkflow: Fee Schedule live prüfen, Pay.gov, Kreditkarte/ACH, Deposit Account, Special Handling und Kostenstellen sauber dokumentieren im Us Copyright Registrierung Verlag."
+description: "Wenn es um Gebühren, Pay.gov und Deposit Account in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Gebühren, Pay.gov und Deposit Account

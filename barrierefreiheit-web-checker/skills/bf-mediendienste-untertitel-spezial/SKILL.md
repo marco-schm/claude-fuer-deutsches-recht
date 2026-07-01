@@ -1,6 +1,6 @@
 ---
 name: bf-mediendienste-untertitel-spezial
-description: "Spezialfall Mediendienste: Untertitel, Audiodeskription, Gebaerdensprache, ARD/ZDF-Linie, AVMD-Richtlinie, MStV. Pflichten für Streaming-Anbieter und Mediatheken. Prüfraster für Eigenproduktionen Kanzlei (Podcasts, Webinare, Videos) im Barrierefreiheit Web Checker."
+description: "Wenn es um BF: Mediendienste-Spezial in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BF: Mediendienste-Spezial

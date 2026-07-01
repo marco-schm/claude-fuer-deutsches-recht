@@ -1,6 +1,6 @@
 ---
 name: e-commerce-employment-creatives
-description: "E-Commerce-Pflichten für Fashion prüfen: Produktinformationen, Widerruf, Größen, Retouren, Preisangaben, Button-Lösung, Verbraucherschutz und AGB im Fashion Law Moderecht."
+description: "Wenn es um E Commerce Widerruf Fashion in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # E Commerce Widerruf Fashion

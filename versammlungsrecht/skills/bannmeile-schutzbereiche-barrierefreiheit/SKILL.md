@@ -1,6 +1,6 @@
 ---
 name: bannmeile-schutzbereiche-barrierefreiheit
-description: "Prüft befriedete Bezirke, Bannmeilen und Schutzbereiche um Bundestag, Bundesrat, Landtage und besondere Orte im Versammlungsrecht."
+description: "Wenn es um Bannmeile ist Zusatzregime in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bannmeile ist Zusatzregime

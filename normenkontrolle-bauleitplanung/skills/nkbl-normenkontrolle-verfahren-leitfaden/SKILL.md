@@ -1,6 +1,6 @@
 ---
 name: nkbl-normenkontrolle-verfahren-leitfaden
-description: "Leitfaden Normenkontrollverfahren § 47 VwGO: Antragsbefugnis, Antragsfrist, Prüfungsumfang. Prüfraster für Antragsteller und Gemeinde."
+description: "Wenn es um NkBl: Normenkontrolle-Verfahren in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NkBl: Normenkontrolle-Verfahren

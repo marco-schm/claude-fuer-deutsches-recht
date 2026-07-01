@@ -1,6 +1,6 @@
 ---
 name: bho-246-kommunaler-finanztransfer-titel-pruefe
-description: "Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Titel prüfen. Titel prüfen für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kommunaler Finanztransfer Titel Pruefe in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunaler Finanztransfer Titel Pruefe

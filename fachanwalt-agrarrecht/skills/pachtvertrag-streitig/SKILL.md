@@ -1,6 +1,6 @@
 ---
 name: pachtvertrag-streitig
-description: "Landpachtvertrags-Streitigkeiten LPachtVG: Pachtanzeige binnen 1 Monat. Aufhebungsantrag § 4 LPachtVG bei Unwirksamkeit. Pachtzins-Anpassung § 593 BGB. Verlaengerung Schriftform § 585a BGB. Vorpacht / Vorpfand-Rech..."
+description: "Wenn es um Landpachtvertrags-Streitigkeiten LPachtVG in Fachanwalt Agrarrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Landpachtvertrags-Streitigkeiten LPachtVG

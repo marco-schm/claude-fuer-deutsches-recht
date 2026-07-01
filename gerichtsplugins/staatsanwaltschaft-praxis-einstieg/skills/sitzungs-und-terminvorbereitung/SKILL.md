@@ -1,6 +1,6 @@
 ---
 name: sitzungs-und-terminvorbereitung
-description: "Sitzungs- und Terminvorbereitung: Praxis-Skill für neue Staatsanwälte zu bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Sitzungs- und Terminvorbereitung in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Sitzungs- und Terminvorbereitung

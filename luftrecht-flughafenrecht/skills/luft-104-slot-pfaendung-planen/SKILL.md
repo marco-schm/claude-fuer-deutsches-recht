@@ -1,6 +1,6 @@
 ---
 name: luft-104-slot-pfaendung-planen
-description: "Luftrecht und Flughafenrecht: Slot: Pfändung planen. Pfändung planen für Slot im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Slot Pfaendung Planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Slot Pfaendung Planen

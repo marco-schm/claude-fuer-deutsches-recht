@@ -1,6 +1,6 @@
 ---
 name: mandantengutachten-aufbau
-description: "Strukturiert das ausfuehrliche Mandantengutachten fuer Bautraegervertraege mit Sachverhalt, Quellenstand, Klauselmatrix, rechtlicher und technischer Wuerdigung, Ampelbefunden, Gegenargumenten und konkreten Aenderungszielen. Jeder rote Befund braucht Norm, Fundstelle oder klar gekennzeichnete Argumentationslinie."
+description: "Wenn es um Mandantengutachten Aufbau in Bauträgervertragspruefer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mandantengutachten Aufbau

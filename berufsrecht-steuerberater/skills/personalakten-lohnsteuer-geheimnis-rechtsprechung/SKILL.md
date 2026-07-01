@@ -1,6 +1,6 @@
 ---
 name: personalakten-lohnsteuer-geheimnis-rechtsprechung
-description: "Steuerberater: personalakten lohnsteuer geheimnis - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Personalakten Lohnsteuer Geheimnis Rechtsprechung in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Steuerberater: personalakten lohnsteuer geheimnis - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

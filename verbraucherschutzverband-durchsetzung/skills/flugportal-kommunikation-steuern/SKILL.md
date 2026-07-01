@@ -1,6 +1,6 @@
 ---
 name: flugportal-kommunikation-steuern
-description: "Verbraucherschutzverband Durchsetzung: Flugportal: Kommunikation steuern im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Flugportal Kommunikation Steuern in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flugportal Kommunikation Steuern

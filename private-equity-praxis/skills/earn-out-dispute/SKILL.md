@@ -1,6 +1,6 @@
 ---
 name: earn-out-dispute
-description: "Prüft Earn-out-Streit über KPI, Accounting, Management Conduct, Information Rights und Expert Determination im Private Equity Praxis."
+description: "Wenn es um Earn-out Dispute in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Earn-out Dispute

@@ -1,6 +1,6 @@
 ---
 name: ins-045-beraterdepot
-description: "Spezialskill Insiderrecht fuer Beraterdepot: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Beraterdepot in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insiderrecht: Beraterdepot

@@ -1,6 +1,6 @@
 ---
 name: wochendigest-interessen-wphg-stellungnahmen
-description: "Wochendigest: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Wochendigest: Mehrparteienkonflikt und Interessenmatrix in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wochendigest: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: lksg-bafa-bericht
-description: "Lieferkettensorgfalt: Risikoanalyse, Beschwerdeverfahren, Präventionsmaßnahmen, Bericht/BAFA und Lieferantendokumentation im Berichtspflichten."
+description: "Wenn es um LkSG BAFA-Bericht und Risikoanalyse in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # LkSG BAFA-Bericht und Risikoanalyse

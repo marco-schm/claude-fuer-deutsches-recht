@@ -1,6 +1,6 @@
 ---
 name: special-handling-standard-vs-statutory
-description: "Special Handling bei Eilbedarf: Litigation, Customs, Vertragsfristen und Marktfenster prüfen, Kosten/Nutzen abwägen und Begründung vorbereiten im Us Copyright Registrierung Verlag."
+description: "Wenn es um Special Handling und Eilbedarf in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Special Handling und Eilbedarf

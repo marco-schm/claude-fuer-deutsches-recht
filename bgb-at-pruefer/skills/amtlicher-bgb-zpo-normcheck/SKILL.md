@@ -1,6 +1,6 @@
 ---
 name: amtlicher-bgb-zpo-normcheck
-description: "Amtlicher Normcheck für BGB-AT-Fälle: gleicht Geschäftsfähigkeit, Willenserklärung, Form, Zugang, Vertragsschluss, Stellvertretung, Fristen, Verjährung und ZPO-Schnittstellen gegen die aktuelle Gesetze-im-Internet-Fassung ab im BGB AT."
+description: "Wenn es um Amtlicher BGB/ZPO-Normcheck in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Amtlicher BGB/ZPO-Normcheck

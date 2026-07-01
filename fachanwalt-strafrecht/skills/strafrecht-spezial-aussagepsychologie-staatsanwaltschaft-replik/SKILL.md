@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik
-description: "Verteidigerwerkzeug: methodisch fundierte Replik gegen typische StA-Argumentationen wie der Zeuge luegt, die Aussage ist detailreich also wahr, die Inkonstanzen sind traumatypisch. Replik-Schemata fuer Schlussplaedoyer, Hilfsbeweisantraege, Revisionsruegen."
+description: "Wenn es um Replik gegen staatsanwaltliche Aussagebewertung in Fachanwalt Strafrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Replik gegen staatsanwaltliche Aussagebewertung

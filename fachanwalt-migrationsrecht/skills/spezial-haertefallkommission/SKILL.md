@@ -1,6 +1,6 @@
 ---
 name: spezial-haertefallkommission
-description: "Härtefallkommission: Spezial-Skill im Migrationsrecht; prüft Landesrecht, humanitäre Gründe, Ausschlüsse, Dossier; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Härtefallkommission in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Härtefallkommission

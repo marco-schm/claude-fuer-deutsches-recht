@@ -1,6 +1,6 @@
 ---
 name: buergergeld-sanktionen-31a-sgb-ii
-description: "Buergergeld Sanktionen nach § 31a SGB II. Skill klaert die Sanktionstatbestaende Pflichtverletzungen und Meldeversaeumnisse die Stufung und das Verfahren nach der Reform 2023. Aktuelle BVerfG-Linie. Liefert Verteidigungsbausteine."
+description: "Wenn es um Buergergeld Sanktionen 31A Sgb Ii in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergergeld Sanktionen 31A Sgb Ii

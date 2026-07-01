@@ -1,6 +1,6 @@
 ---
 name: umfassende-sperrminoritaet-unternehmerisches
-description: "Vertieft die Anforderungen an eine umfassende statusrelevante Sperrminorität bei Gesellschafter-GF im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Umfassende Sperrminorität in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umfassende Sperrminorität

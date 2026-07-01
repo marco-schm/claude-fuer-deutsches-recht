@@ -1,6 +1,6 @@
 ---
 name: historie-und-rechtsgrundlagen
-description: "Historie und Rechtsgrundlagen der steuerlichen Forschungszulage einfuehrend: FZulG seit 2020, Wachstumschancengesetz 2024 mit Erhoehung auf 10 Mio. Euro Bemessungsgrundlage, KMU-Bonus 5 Mio. Euro. Verhältnis zu Projektfoerderung (Bund, Land, EU). Steuerliche Behandlung als Zulage, nicht Subventi..."
+description: "Wenn es um FZ: Historie und Rechtsgrundlagen in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # FZ: Historie und Rechtsgrundlagen

@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-formulare-portale-elektronische-einreichung
-description: "Dieses Skill behandelt die methodisch korrekte Handhabung von starren Formularvordrucken, elektronischen Gerichtsportalen und behördlichen Einreichungsverfahren im bürgerlichen Recht. Es zeigt, wie Formularerfordernisse mit dem materiellen Recht in Einklang gebracht werden, welche Fallstricke bei..."
+description: "Wenn es um Formulare, Portale und elektronische Einreichung im bürgerlichen Recht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Formulare, Portale und elektronische Einreichung im bürgerlichen Recht

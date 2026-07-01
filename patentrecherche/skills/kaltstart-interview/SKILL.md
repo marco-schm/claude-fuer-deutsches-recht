@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Kaltstart-Interview für das Patentrecherche-Plugin. Stellt fest wer recherchiert (Patentanwaeltin Patentanwalt Patentassessor Patentingenieur Recherchekraft) welche Kanzlei und welche Technikgebiete (Mechanik Elektrotechnik Chemie Biotech Informatik Verfahrenstechnik) welcher Mandant und welcher..."
+description: "Wenn es um kaltstart-interview in patentrecherche geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # kaltstart-interview

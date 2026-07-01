@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-eilfall-rangverlust-erbbaurecht
-description: "Erarbeitet Sofortplan bei drohendem Rangverlust oder konkurrierendem Antrag im Grundbuchamt Praxis."
+description: "Wenn es um Eilfall Rangverlust in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Eilfall Rangverlust

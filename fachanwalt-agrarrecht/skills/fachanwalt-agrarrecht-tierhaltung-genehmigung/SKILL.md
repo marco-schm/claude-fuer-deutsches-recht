@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-tierhaltung-genehmigung
-description: "Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten. UVP-Pflicht UVPG. Tierschutz-Nutztierhaltungsverordnung. Standortgebundenheit BauGB § 35 Privilegierung. Stallneubau Stallerweiterung. Immissionsschutz Geruch TA Luft. Anhoerung Buergerbeteiligung. Widerspruch Klage Eilantrag."
+description: "Wenn es um Tierhaltungs-Genehmigung in Fachanwalt Agrarrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Tierhaltungs-Genehmigung

@@ -1,6 +1,6 @@
 ---
 name: third-vendor
-description: "Überprüft Third-Party-Agenten und Intermediäre auf FCPA/UK-Bribery-Risiken – Due Diligence, Verträge, Red Flags und Vertragsbeendigung im Internal Investigations Praxis."
+description: "Wenn es um Third-Party-Due-Diligence und Agenten-Untersuchung in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Third-Party-Due-Diligence und Agenten-Untersuchung

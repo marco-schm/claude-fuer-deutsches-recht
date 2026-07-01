@@ -1,6 +1,6 @@
 ---
 name: anlagen-format-und-dateinamen
-description: "Format und Dateinamen für Anlagen: K-01_2024-03-12_Mietvertrag.pdf. Maschinenlesbar, sortierbar, beA-kompatibel. Maximal 3 Ebenen Unterordner, keine Sonderzeichen, keine Umlaute in Dateinamen, durchgehend kleingeschrieben."
+description: "Wenn es um Anlagen: Format und Dateinamen in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anlagen: Format und Dateinamen

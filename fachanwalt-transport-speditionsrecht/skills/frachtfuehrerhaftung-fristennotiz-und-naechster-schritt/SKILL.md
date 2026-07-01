@@ -1,6 +1,6 @@
 ---
 name: frachtfuehrerhaftung-fristennotiz-und-naechster-schritt
-description: "Frachtfuehrerhaftung: Fristennotiz und nächster Schritt: Frachtfuehrerhaftung: Fristennotiz und nächster Schritt."
+description: "Wenn es um Frachtfuehrerhaftung: Fristennotiz und nächster Schritt in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frachtfuehrerhaftung: Fristennotiz und nächster Schritt

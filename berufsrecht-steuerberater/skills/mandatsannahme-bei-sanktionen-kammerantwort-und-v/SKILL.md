@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-bei-sanktionen-kammerantwort-und-v
-description: "Steuerberater: mandatsannahme bei sanktionen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Mandatsannahme Bei Sanktionen Kammerantwort Und V in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Steuerberater: mandatsannahme bei sanktionen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

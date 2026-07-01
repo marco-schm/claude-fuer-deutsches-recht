@@ -1,6 +1,6 @@
 ---
 name: testament-auslegung-und-andeutung
-description: "Testamentsauslegung: Andeutung, Erblasserwille, Wortlautgrenzen, laienhafte Begriffe und Beweisquellen: Normanker: BGB §§ 133 und 2084 und 2065; FamFG..."
+description: "Wenn es um Testament Auslegung Und Andeutung in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Testamentsauslegung: Andeutung, Erblasserwille, Wortlautgrenzen, laienhafte Begriffe und Beweisquellen.

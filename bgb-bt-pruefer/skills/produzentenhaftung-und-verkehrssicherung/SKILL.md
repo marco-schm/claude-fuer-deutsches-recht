@@ -1,6 +1,6 @@
 ---
 name: produzentenhaftung-und-verkehrssicherung
-description: "Produzentenhaftung § 823 BGB und Produkthaftungsgesetz: Fehler, Kausalität, Verkehrssicherungspflichten."
+description: "Wenn es um Produzentenhaftung und Verkehrssicherung in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Produzentenhaftung Und Verkehrssicherung; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Produzentenhaftung und Verkehrssicherung

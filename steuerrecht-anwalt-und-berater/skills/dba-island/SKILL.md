@@ -1,6 +1,6 @@
 ---
 name: dba-island
-description: "DBA Deutschland Island. Anwendungsfall Fischerei Geothermie Tourismus Pensionen Beteiligungen. EWR-Status keine MTRL. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Island in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Island

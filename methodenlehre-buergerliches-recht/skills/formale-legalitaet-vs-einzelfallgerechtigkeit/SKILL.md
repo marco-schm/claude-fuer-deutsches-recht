@@ -1,6 +1,6 @@
 ---
 name: formale-legalitaet-vs-einzelfallgerechtigkeit
-description: "Balanciert formale Legalitaet und Einzelfallgerechtigkeit im BGB: Wortlautbindung, Generalklauseln, Billigkeit, Rechtsfortbildung, Vertrauensschutz und offene Begruendung."
+description: "Wenn es um Formale Legalität vs. Einzelfallgerechtigkeit in Methodenlehre bürgerliches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Formale Legalität vs. Einzelfallgerechtigkeit

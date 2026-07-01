@@ -1,6 +1,6 @@
 ---
 name: zitierweise-pruefung-zeitschrift-jus-njw
-description: "Prüft die Zitierweise in Manuskripten gegen die jeweiligen Hausnormen von NJW NZA JuS JZ und verwandten Fachzeitschriften ohne Halluzination im Verlagsredaktion."
+description: "Wenn es um Zitierweise-Prüfung (NJW, NZA, JuS, JZ, ) in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Zitierweise-Prüfung (NJW, NZA, JuS, JZ, ...)

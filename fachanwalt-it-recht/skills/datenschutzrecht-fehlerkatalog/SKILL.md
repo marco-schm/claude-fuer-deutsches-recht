@@ -1,6 +1,6 @@
 ---
 name: datenschutzrecht-fehlerkatalog
-description: "Datenschutzrecht Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Wenn es um Datenschutzrecht Fehlerkatalog in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht Fehlerkatalog

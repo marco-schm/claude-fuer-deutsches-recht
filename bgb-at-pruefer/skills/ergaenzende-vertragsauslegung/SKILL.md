@@ -1,6 +1,6 @@
 ---
 name: ergaenzende-vertragsauslegung
-description: "Klausurfall zur ergänzenden Vertragsauslegung nach §§ 133 und 157 BGB: planwidrige Regelungslücke feststellen, hypothetischen Parteiwillen ermitteln, Abgrenzung zu dispositiven Gesetzesnormen und Grenze der Auslegung zur richterlichen Rechtsfortbildung."
+description: "Wenn es um Ergänzende Vertragsauslegung — Paragrafen 133 und 157 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Ergänzende Vertragsauslegung — §§ 133 und 157 BGB

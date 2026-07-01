@@ -1,6 +1,6 @@
 ---
 name: inso-p080-ubergang-des-verwaltungs-und-verfugungsrechts
-description: "§ 80 InsO (Übergang des Verwaltungs- und Verfügungsrechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 80 InsO (Übergang des Verwaltungs- und Verfügungsrechts) im Mandat prüfen: Normzw..."
+description: "Wenn es um Inso P080 Ubergang Des Verwaltungs Und Verfugungsrechts in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 80 InsO (Übergang des Verwaltungs- und Verfügungsrechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

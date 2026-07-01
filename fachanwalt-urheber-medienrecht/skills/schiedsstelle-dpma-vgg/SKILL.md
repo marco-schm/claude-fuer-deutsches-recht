@@ -1,6 +1,6 @@
 ---
 name: schiedsstelle-dpma-vgg
-description: "Schiedsstellenverfahren beim DPMA nach VGG einleiten oder verteidigen: §§ 92 ff. VGG Schiedsstelle § 128 VGG. Prüfraster: Zuständigkeit Verfahrensvoraussetzungen Antrag Fristen Verhandlu..."
+description: "Wenn es um Schiedsstellenverfahren beim DPMA nach VGG einleiten oder verteidigen in Fachanwalt Urheber Medienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiedsstellenverfahren beim DPMA nach VGG einleiten oder verteidigen

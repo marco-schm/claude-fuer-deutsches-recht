@@ -1,6 +1,6 @@
 ---
 name: kanzlei-workflow-urheber
-description: "Organisiert Mandat, Dokumente, Beweise, Fristen, Rechtekette, Gegnerkommunikation und Outputformat im Urheberrechtsfall."
+description: "Wenn es um Kanzlei-Workflow und Aktenführung in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzlei-Workflow und Aktenführung

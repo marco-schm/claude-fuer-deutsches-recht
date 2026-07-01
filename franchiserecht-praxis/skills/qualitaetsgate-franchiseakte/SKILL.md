@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-franchiseakte
-description: "Qualitätsgate-Prüfung der vollständigen Franchiseakte: Vollständigkeit der Systemunterlagen, Kohärenz von Vertrag und Systemhandbuch, Schutzrechtebestand, offene Fristen und finale Plausibilitätsprüfung aller wesentlichen Franchise-Rechtspositionen im Franchiserecht."
+description: "Wenn es um Franchiserecht: Qualitätsgate – Franchiseakte in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Qualitätsgate – Franchiseakte

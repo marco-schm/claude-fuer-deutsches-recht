@@ -1,6 +1,6 @@
 ---
 name: internationaler-datenaustausch-formulare
-description: "Internationaler Datenaustausch und Formulare: EU-/Abkommensformulare, Weiterleitung, Mehrstaatenbiografien und Behördenkommunikation im Rentenpruefer."
+description: "Wenn es um internationaler-datenaustausch-formulare in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # internationaler-datenaustausch-formulare

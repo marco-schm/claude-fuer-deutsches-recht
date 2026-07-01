@@ -1,6 +1,6 @@
 ---
 name: haertefall-574-bgb
-description: "Härtefall § 574 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht: bereitet Sozialwiderspruch, Gesundheit, Ersatzwohnraum, Alter, Schule und Abwägung auf; mit Normprüfung, Beweisen, Friste..."
+description: "Wenn es um Härtefall Paragraf 574 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Härtefall § 574 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht

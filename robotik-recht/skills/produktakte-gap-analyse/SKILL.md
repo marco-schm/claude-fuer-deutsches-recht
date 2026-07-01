@@ -1,6 +1,6 @@
 ---
 name: produktakte-gap-analyse
-description: "Führt Gap-Analyse der Produktakte durch: fehlende Nachweise, falsche Annahmen, ungeklärte Rollen, nicht belegte Standards."
+description: "Wenn es um Produktakte Gap-Analyse in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Produktakte Gap Analyse; Arbeitsfeld: robotik-recht."
 ---
 
 # Produktakte Gap-Analyse

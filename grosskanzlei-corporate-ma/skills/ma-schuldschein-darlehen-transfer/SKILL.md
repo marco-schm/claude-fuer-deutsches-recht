@@ -1,6 +1,6 @@
 ---
 name: ma-schuldschein-darlehen-transfer
-description: "Begleitet Übertragung von Schuldscheindarlehen in M&A, Refinanzierung, Distressed Debt und Portfoliotransaktionen."
+description: "Wenn es um Big Law M&A: Schuldschein Transfer in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Big Law M&A: Schuldschein Transfer

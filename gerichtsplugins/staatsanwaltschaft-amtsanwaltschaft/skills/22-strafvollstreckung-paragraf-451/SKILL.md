@@ -1,6 +1,6 @@
 ---
 name: 22-strafvollstreckung-paragraf-451
-description: "Strafvollstreckung durch die Staatsanwaltschaft als Vollstreckungsbehoerde (Paragrafen 449 ff. StPO, Paragraf 451 StPO), Vollstreckungsplan, Ladung zum Strafantritt, Vollstreckungsaufschub (Paragraf 456 StPO), StVollstrO"
+description: "Wenn es um 22 Strafvollstreckung Paragraf 451 in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 22 Strafvollstreckung Paragraf 451

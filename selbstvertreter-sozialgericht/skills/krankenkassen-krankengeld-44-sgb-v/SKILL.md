@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-krankengeld-44-sgb-v
-description: "Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Wegfall bei Aussteuerung Sondervorschriften für Selbststaendige. Liefert Prüfraster und Strategie bei Streit."
+description: "Wenn es um Krankenkassen Krankengeld 44 Sgb V in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenkassen Krankengeld 44 Sgb V

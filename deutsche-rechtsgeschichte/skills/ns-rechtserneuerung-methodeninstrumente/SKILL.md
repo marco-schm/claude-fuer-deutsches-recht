@@ -1,6 +1,6 @@
 ---
 name: ns-rechtserneuerung-methodeninstrumente
-description: "Erkennt historische Instrumente der Rechtsperversion: neue Rechtsidee, neue Rechtsquellen, objektive Auslegung, Generalklauseln, Wesensargumente, Führerwille und völkische Begriffe im Deutsche Rechtsgeschichte."
+description: "Wenn es um Methodeninstrumente der NS-Rechtserneuerung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Ns Rechtserneuerung Methodeninstrumente; Arbeitsfeld: Deutsche Rechtsgeschichte."
 ---
 
 # Methodeninstrumente der NS-Rechtserneuerung

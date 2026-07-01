@@ -1,6 +1,6 @@
 ---
 name: lagergeschaeft-paragraphen-maengelruege
-description: "Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht im Handelsrecht Hgb."
+description: "Wenn es um Lagergeschäft Paragrafen 467 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lagergeschäft §§ 467 ff. HGB

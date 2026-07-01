@@ -1,6 +1,6 @@
 ---
 name: kirk-prompts-templates-versionierung-spezial
-description: "Spezialfall Prompts und Templates: Versionierung, Reviewprozess, Geheimhaltung, Test. Prüfraster für Knowledge-Management im Ki Richtlinie Kanzleien."
+description: "Wenn es um KIRK: Prompts Versionierung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # KIRK: Prompts Versionierung

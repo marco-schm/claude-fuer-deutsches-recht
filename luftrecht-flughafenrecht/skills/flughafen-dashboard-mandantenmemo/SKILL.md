@@ -1,6 +1,6 @@
 ---
 name: flughafen-dashboard-mandantenmemo
-description: "Kanzlei oder Mandant braucht Dashboard für Flughafen-Mandat: Genehmigungsstatus LuftSiG-Findings Passagierzahlen Finanzlage Grundbuch. Skill strukturiert Datenquellen LuftVG-Genehmigungsregister LuftSiG Grundbuch Fluko und liefert befuellbares Dashboard-Template im Luftrecht Flughafenrecht."
+description: "Wenn es um Flughafen – Dashboard bauen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Flughafen – Dashboard bauen

@@ -1,6 +1,6 @@
 ---
 name: aussenauftritt-marktchance
-description: "Prüft Website, Branding, Akquise, Preise, eigene Angebote, Versicherungen und Marktteilnahme im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Außenauftritt und Marktchance in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Außenauftritt und Marktchance

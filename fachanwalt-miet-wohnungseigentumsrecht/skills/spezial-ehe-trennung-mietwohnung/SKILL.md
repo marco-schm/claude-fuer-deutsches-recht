@@ -1,6 +1,6 @@
 ---
 name: spezial-ehe-trennung-mietwohnung
-description: "Trennung/Ehewohnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Besitz, Vertrag, Zuweisung, Kündigung, Gesamtschuld; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Trennung/Ehewohnung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Trennung/Ehewohnung

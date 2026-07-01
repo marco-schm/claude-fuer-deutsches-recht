@@ -1,6 +1,6 @@
 ---
 name: lobbyregister-hauptfinanzierungsquellen-angaben
-description: "Strukturiert Hauptfinanzierungsquellen nach § 3 LobbyRG und grenzt Umsaetze, Beitraege, Zuwendungen, Schenkungen und sonstige Einnahmen ab. Output Finanzquellenmatrix im Lobbyregister Bundestag."
+description: "Wenn es um Hauptfinanzierungsquellen in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Hauptfinanzierungsquellen

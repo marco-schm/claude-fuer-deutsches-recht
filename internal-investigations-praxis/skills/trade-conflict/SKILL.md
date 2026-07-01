@@ -1,6 +1,6 @@
 ---
 name: trade-conflict
-description: "Untersucht Geheimnisverrat und Trade-Secret-Leaks – GeschGehG, § 17 UWG a.F., Täteridentifizierung, einstweilige Verfügung, Strafanzeige im Internal Investigations Praxis."
+description: "Wenn es um Trade-Secret-Leak und Geheimnisverrat in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Trade-Secret-Leak und Geheimnisverrat

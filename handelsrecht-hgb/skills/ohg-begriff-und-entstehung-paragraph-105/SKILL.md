@@ -1,6 +1,6 @@
 ---
 name: ohg-begriff-und-entstehung-paragraph-105
-description: "Prüft OHG nach MoPeG: Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma und BGB-Verweis im Handelsrecht Hgb."
+description: "Wenn es um OHG Begriff und Entstehung Paragraf 105 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # OHG Begriff und Entstehung § 105 HGB

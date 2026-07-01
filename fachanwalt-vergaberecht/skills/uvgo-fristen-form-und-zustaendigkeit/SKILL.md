@@ -1,6 +1,6 @@
 ---
 name: uvgo-fristen-form-und-zustaendigkeit
-description: "Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg: Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Wenn es um Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg

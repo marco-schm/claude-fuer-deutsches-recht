@@ -1,6 +1,6 @@
 ---
 name: abgeordnetengesetz-bund
-description: "Routet Transparenz, Zuwendungen, Spenden an Abgeordnete, Nebentätigkeiten und Verhaltensregeln."
+description: "Wenn es um Abgeordnetengesetz Bund in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abgeordnetengesetz Bund

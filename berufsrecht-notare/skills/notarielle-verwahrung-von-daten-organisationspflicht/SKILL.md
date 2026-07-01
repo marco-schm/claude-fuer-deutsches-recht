@@ -1,6 +1,6 @@
 ---
 name: notarielle-verwahrung-von-daten-organisationspflicht
-description: "Notare: notarielle verwahrung von daten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Notarielle Verwahrung Von Daten Organisationspflicht in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: notarielle verwahrung von daten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

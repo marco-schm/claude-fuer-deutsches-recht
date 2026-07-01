@@ -1,6 +1,6 @@
 ---
 name: bmf-geldwaesche-und-sanktionsrecht
-description: "Sachbereich Geldwaescherecht und Sanktionsrecht im Geschäftsbereich BMF: Normbestand (GwG; KWG; AnzeigeV; SanktDG; AWG (Sanktionsumsetzung).); Akteure (FIU; BaFin; Zoll; Justiz; LKA.); EU-Bezug (EU-Geldwaescherichtlinie und kommende AMLR; AMLA-Aufsichtsbehoerde.); typische Legistik-Aufgaben und..."
+description: "Wenn es um Geldwaescherecht und Sanktionsrecht (BMF) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Geldwaescherecht und Sanktionsrecht (BMF)

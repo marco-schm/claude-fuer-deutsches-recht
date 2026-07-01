@@ -1,6 +1,6 @@
 ---
 name: lizenz-marke-markeng
-description: "Markenrechtslizenzen nach MarkenG $ 30: Qualitaetskontrolle, Bezeichnungspflicht, Eintragungspflicht im DPMA-Register $ 30 III, Erloeschen nicht-genutzter Marken $ 26, EU-Marken EUIPO. Mit Klauselbausteinen Qualitaetskontrolle."
+description: "Wenn es um Lizenz Marke (MarkenG) in Lizenzvertragsersteller geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Lizenz Marke (MarkenG)

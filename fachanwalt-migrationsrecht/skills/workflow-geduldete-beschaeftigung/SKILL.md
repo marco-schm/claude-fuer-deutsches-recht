@@ -1,6 +1,6 @@
 ---
 name: workflow-geduldete-beschaeftigung
-description: "Geduldete Beschäftigung: Prüfungslinie für Migrationsrecht: prüft Arbeitserlaubnis, Identität, Voraufenthalt, Lebensunterhalt und Spurwechsel; mit Statusmatrix, Fristenrettung, Staatenbezug, Quelle..."
+description: "Wenn es um Geduldete Beschäftigung: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geduldete Beschäftigung: Prüfungslinie für Migrationsrecht

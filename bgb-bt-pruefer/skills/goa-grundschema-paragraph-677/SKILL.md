@@ -1,6 +1,6 @@
 ---
 name: goa-grundschema-paragraph-677
-description: "Prüft Geschäftsführung ohne Auftrag §§ 677 ff. BGB: echte GoA, Fremdgeschäftsführungswille, Aufwendungsersatz und Herausgabepflicht."
+description: "Wenn es um GoA Grundschema Paragraf 677 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GoA Grundschema § 677 BGB

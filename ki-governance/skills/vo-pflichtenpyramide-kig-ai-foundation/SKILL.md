@@ -1,6 +1,6 @@
 ---
 name: vo-pflichtenpyramide-kig-ai-foundation
-description: "Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 in Verbindung mit Anhang III, GPAI (General Purpose AI) Art. 51 ff., begrenztes Risiko mit Transparenzpflichten Art. 50, minimales Risiko. Tabellarische Uebersicht mit Pflichten je Stufe. Routet in anwendungsfall-triag..."
+description: "Wenn es um europäischer Technikregulierungsrahmen Pflichtenpyramide in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # KI-VO Pflichtenpyramide

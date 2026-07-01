@@ -1,6 +1,6 @@
 ---
 name: zitat-verboten-anwalt24-beckrs
-description: "Verbotene Zitate vermeiden: anwalt24.de (kein primaerer Rechtsstand), BeckRS allein (interne Beck-Online-ID), 'lawblog'-Eintraege. Speziell bei Schriftsaetzen: Gericht prüft Originalquelle. Empfehlung: immer dejure.org oder Originalentscheidung referenzieren."
+description: "Wenn es um Verbotene Zitate in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbotene Zitate

@@ -1,6 +1,6 @@
 ---
 name: satzungsgestaltung-gmbh-kernklauseln
-description: Entwirft und prüft GmbH-Satzungen mit Kernklauseln zu Geschäftsanteilen, Zustimmung, Einziehung, Beschlussfassung, Vinkulierung und Streitvorsorge.
+description: "Wenn es um Satzungsgestaltung GmbH-Kernklauseln in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 # Satzungsgestaltung GmbH-Kernklauseln
 

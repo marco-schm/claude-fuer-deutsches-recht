@@ -1,6 +1,6 @@
 ---
 name: markenuebertragung-chain-of-title
-description: "Markenübertragung und Chain-of-Title prüfen: Asset Deal, Share Deal, Konzernumhängung, Registerumschreibung, Vollmachten, Prioritätsrechte, Lizenzen, Sicherheiten und internationale Portfolios im Markenrecht Fashion Luxus."
+description: "Wenn es um Markenübertragung und Chain of Title in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Markenübertragung und Chain of Title

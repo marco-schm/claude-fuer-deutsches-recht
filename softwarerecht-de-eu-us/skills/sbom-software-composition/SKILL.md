@@ -1,6 +1,6 @@
 ---
 name: sbom-software-composition
-description: "Erstellt SBOM- und Software-Composition-Workflows für OSS, Security, CRA, Kundenverträge und M&A im Softwarerecht De Eu Us."
+description: "Wenn es um SBOM Software Composition in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SBOM Software Composition

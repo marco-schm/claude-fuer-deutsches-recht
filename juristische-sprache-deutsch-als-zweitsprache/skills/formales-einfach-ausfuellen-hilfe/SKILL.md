@@ -1,6 +1,6 @@
 ---
 name: formales-einfach-ausfuellen-hilfe
-description: "Hilft bei Formales Deutsch Zu Einfach für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache."
+description: "Wenn es um Formales Deutsch Zu Einfach in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Formales Deutsch Zu Einfach

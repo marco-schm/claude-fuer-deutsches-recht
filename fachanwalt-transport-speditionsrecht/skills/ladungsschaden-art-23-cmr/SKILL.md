@@ -1,6 +1,6 @@
 ---
 name: ladungsschaden-art-23-cmr
-description: "Ladungsschaden art 23 CMR: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Ladungsschaden art 23 CMR in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ladungsschaden art 23 CMR

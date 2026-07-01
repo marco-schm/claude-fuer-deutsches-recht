@@ -1,6 +1,6 @@
 ---
 name: beweise-red-team-und-qualitaetskontrolle
-description: "Beweise: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Beweise: Red-Team und Qualitätskontrolle in Nachbarschaftsstreit-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beweise: Red-Team und Qualitätskontrolle

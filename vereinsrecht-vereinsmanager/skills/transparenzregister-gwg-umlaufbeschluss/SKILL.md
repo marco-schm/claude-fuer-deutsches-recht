@@ -1,6 +1,6 @@
 ---
 name: transparenzregister-gwg-umlaufbeschluss
-description: "Prüft Transparenzregisterdaten, wirtschaftlich Berechtigte, Registerabgleich und Meldepflichten im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Transparenzregister und GwG in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transparenzregister und GwG

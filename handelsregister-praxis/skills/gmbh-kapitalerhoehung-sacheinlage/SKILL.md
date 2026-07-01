@@ -1,6 +1,6 @@
 ---
 name: gmbh-kapitalerhoehung-sacheinlage
-description: "Prüft Sacheinlagebericht, Werthaltigkeit, verdeckte Sacheinlage, Anmeldung und Beanstandungsrisiko im Handelsregister Praxis."
+description: "Wenn es um Sachkapitalerhöhung in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sachkapitalerhöhung

@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-akteneinsicht-laie
-description: "Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht Laie. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
+description: "Wenn es um Laienhilfe: Akteneinsicht Laie in Fachanwalt Sozialrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Laienhilfe: Akteneinsicht Laie

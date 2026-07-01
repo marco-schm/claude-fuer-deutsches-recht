@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-agb-310-abs4
-description: "Norm- und Dogmatik-Skill für Arbeitsrecht AGB 310 Abs. 4: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Arbeitsrecht AGB 310 Abs. 4 in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Arbeitsrecht AGB 310 Abs. 4

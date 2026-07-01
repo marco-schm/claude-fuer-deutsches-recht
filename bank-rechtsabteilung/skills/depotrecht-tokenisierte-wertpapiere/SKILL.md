@@ -1,6 +1,6 @@
 ---
 name: depotrecht-tokenisierte-wertpapiere
-description: "Depotrecht und tokenisierte Wertpapiere prüfen: Depotvertrag, Verwahrung, Registereintragung, Abwicklung, Bestandsschutz, Anlegerauskunft, Verlustfall und Schnittstelle zu eWpG/MiFID im Bank-Rechtsabteilung."
+description: "Wenn es um Depotrecht Tokenpapiere in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Depotrecht Tokenpapiere

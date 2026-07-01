@@ -1,6 +1,6 @@
 ---
 name: betriebsausgaben-werbungskosten
-description: "Prüfungslinie für anw betriebsausgaben werbungskosten prüfraster im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Betriebsausgaben Werbungskosten — Prüfraster in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betriebsausgaben Werbungskosten; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Betriebsausgaben Werbungskosten — Prüfraster

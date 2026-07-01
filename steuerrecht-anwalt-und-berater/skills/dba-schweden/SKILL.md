@@ -1,6 +1,6 @@
 ---
 name: dba-schweden
-description: "DBA Deutschland Schweden 1992. Anwendungsfall Mittelstand Maschinenbau Pendler Pensionen Beteiligungen Lizenzen. EU-MTRL ergaenzend. Methodenartikel Freistellung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Schweden (1992) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Schweden (1992)

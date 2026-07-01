@@ -1,6 +1,6 @@
 ---
 name: ihl-067-oem-odm-private-label
-description: "Internationales Handelsrecht und Lex Mercatoria: Oem Odm Private Label. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Oem Odm Private Label in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Oem Odm Private Label

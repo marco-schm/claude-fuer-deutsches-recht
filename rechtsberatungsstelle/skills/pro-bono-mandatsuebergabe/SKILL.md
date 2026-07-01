@@ -1,6 +1,6 @@
 ---
 name: pro-bono-mandatsuebergabe
-description: "Pro-Bono-Mandatsübergabe mit Fristen und Zuständigkeiten: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Rechtsberatungsstelle."
+description: "Wenn es um Pro-Bono-Mandatsübergabe mit Fristen und Zuständigkeiten in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pro-Bono-Mandatsübergabe mit Fristen und Zuständigkeiten

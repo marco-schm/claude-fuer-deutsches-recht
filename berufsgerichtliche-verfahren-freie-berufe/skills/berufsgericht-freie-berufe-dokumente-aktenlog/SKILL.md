@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-freie-berufe-dokumente-aktenlog
-description: "Dokumentenintake und Aktenlog: prüft ordnet Uploads, Eingangspost, Aktenbestandteile und fehlende Unterlagen in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur."
+description: "Wenn es um Dokumentenintake und Aktenlog in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Dokumentenintake und Aktenlog

@@ -1,6 +1,6 @@
 ---
 name: satellite-cable-security-interests
-description: "Prüft statutory licenses für Cable, Satellite, retransmission, reporting und payment issues im Us Copyright Registrierung Verlag."
+description: "Wenn es um Cable und Satellite Licenses in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cable und Satellite Licenses

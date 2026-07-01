@@ -1,6 +1,6 @@
 ---
 name: ombudsmann-gdv-schlichtung
-description: "Außergerichtliche Schlichtung über Versicherungs-Ombudsmann oder PKV-Ombudsmann als Alternative zur Klage: Anwendungsfall Streitwert bis 10000 EUR ode..."
+description: "Wenn es um Ombudsmann Gdv Schlichtung in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Außergerichtliche Schlichtung über Versicherungs-Ombudsmann oder PKV-Ombudsmann als Alternative zur Klage

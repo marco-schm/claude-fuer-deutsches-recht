@@ -1,6 +1,6 @@
 ---
 name: englische-hv-unterlagen
-description: "Hauptversammlung AG und SE: Englische HV Unterlagen. Liefert Norm-Pinpoints, Prüfachsen, Red Flags, Varianten und konkrete Output-Bausteine zum Slug-Thema im Aktienrecht — Hauptversammlung AG und SE."
+description: "Wenn es um Englische HV Unterlagen in Hauptversammlung AG und SE geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Englische HV Unterlagen

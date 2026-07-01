@@ -1,6 +1,6 @@
 ---
 name: markenlizenz-und-qualitaetskontrolle
-description: "Markenlizenzverträge entwerfen und prüfen: exklusive/nicht-exklusive Lizenz, Territorium, Waren, Qualitätskontrolle, Unterlizenz, Register, Royalty, Audit, Kündigung, Erschöpfung und Insolvenzrisiko im Markenrecht Fashion Luxus."
+description: "Wenn es um Markenlizenz und Qualitätskontrolle in markenrecht-fashion-luxus geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Markenlizenz und Qualitätskontrolle

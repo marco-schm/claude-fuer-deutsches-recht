@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Vertragsausfüller: stimmt Adressat (Vertragsparteien, Berater), Frist (Schriftform/Textform-Fristen) und Form auf den Zweck ab — typische Outputs: Ausgefüllter Vertrag mit kommentierten Lücken, Issue List, Risikomemo."
+description: "Wenn es um Output wählen in Vertragsausfüller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

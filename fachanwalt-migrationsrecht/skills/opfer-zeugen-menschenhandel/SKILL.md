@@ -1,6 +1,6 @@
 ---
 name: opfer-zeugen-menschenhandel
-description: "Opfer/Zeugen/Menschenhandel: Fachmodul im Migrationsrecht: prüft Schutzstatus, Kooperation, Sicherheit, Sozialleistungen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Opfer/Zeugen/Menschenhandel: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Opfer/Zeugen/Menschenhandel: Fachmodul im Migrationsrecht

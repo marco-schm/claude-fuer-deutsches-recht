@@ -1,6 +1,6 @@
 ---
 name: ein-057-bodenreformland-behoerdenbrief-schreib
-description: "Einigungsvertrag und Vermögensrecht: Bodenreformland: Behördenbrief schreiben. Behördenbrief schreiben für Bodenreformland im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bodenreformland Behoerdenbrief Schreib in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bodenreformland Behoerdenbrief Schreib

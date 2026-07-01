@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-erechnung-gobd
-description: "Freistehender Billing- GoBD- und E-Rechnungsfür M&A-Mandate: Anwendungsfall Kanzlei muss für M&A-Mandat GoBD-konforme Rechnung XRechnung-XML und ZUGFeRD-Prüfpaket erstellen. Paragraf 3a RVG Stundenhonorar, GoBD Aufbewahrung, ZUGFeRD XRechnung Standard. Prüfraster Big-Law-Narrative, Phasenbudget WIP, Cap..."
+description: "Wenn es um Freistehender Billing-, GoBD- und E-Rechnungsworkflow in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freistehender Billing-, GoBD- und E-Rechnungsworkflow

@@ -1,6 +1,6 @@
 ---
 name: landespressegesetz-frist-setzen
-description: "Informationsfreiheit und Presseauskunft: Landespressegesetz: Frist setzen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Landespressegesetz Frist Setzen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landespressegesetz Frist Setzen

@@ -1,6 +1,6 @@
 ---
 name: keine-pflicht-begruendet-ablehnen
-description: "Wenn keine Berichtspflicht besteht: rechtssicher antworten, ohne unnötig Daten zu liefern oder Konflikt zu eskalieren im Berichtspflichten."
+description: "Wenn es um Keine Pflicht: sauber begründet ablehnen in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Keine Pflicht: sauber begründet ablehnen

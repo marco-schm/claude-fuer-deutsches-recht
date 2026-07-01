@@ -1,6 +1,6 @@
 ---
 name: rechtsberatungsstelle-formular-portal-und-einreichung
-description: "Rechtsberatungsstelle: Formular, Portal und Einreichungslogik: Rechtsberatungsstelle: Formular, Portal und Einreichungslogik."
+description: "Wenn es um Rechtsberatungsstelle: Formular, Portal und Einreichungslogik in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsberatungsstelle: Formular, Portal und Einreichungslogik

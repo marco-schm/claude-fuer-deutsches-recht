@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-verwalterpflichtverletzung
-description: "Verwalterpflichtverletzung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Pflicht, Beschlussumsetzung, Schaden, Entlastung, Abberufung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Verwalterpflichtverletzung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verwalterpflichtverletzung

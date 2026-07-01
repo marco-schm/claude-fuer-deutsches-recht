@@ -1,6 +1,6 @@
 ---
 name: key-account-kommissionaer-abgrenzung
-description: "Prüft Konflikte zwischen Handelsvertretern und Unternehmen bei Key-Account-Betreuung: Ausnahme von Key Accounts vom Gebietsschutz, Provision bei Direktbetreuung durch Unternehmer, Abgrenzung Stammkunde und neuer Großkunde sowie vertragliche Gestaltung von Key-Account-Klauseln im Handelsvertreterr..."
+description: "Wenn es um Key-Account-Konflikte im Handelsvertretervertrag — Gebietsschutz und Provision in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Key-Account-Konflikte im Handelsvertretervertrag — Gebietsschutz und Provision

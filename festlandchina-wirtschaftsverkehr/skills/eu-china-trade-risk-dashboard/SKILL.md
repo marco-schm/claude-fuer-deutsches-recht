@@ -1,6 +1,6 @@
 ---
 name: eu-china-trade-risk-dashboard
-description: "Aufbau eines EU-China-Handelsrisiko-Dashboards für Unternehmen: Datenquellen (Eurostat, BMWK, BAFA), Abhängigkeitsindikatoren, Sektorrisiko-Scores, De-risking-Fortschritts-KPIs, Anti-Dumping/Countervailing-Watch, FDI-Meldestatus. Output: Dashboard-Struktur mit Datenquellen-Matrix und Aktualisieru..."
+description: "Wenn es um EU-China Trade-Risk-Dashboard: Aufbau und Betrieb in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU-China Trade-Risk-Dashboard: Aufbau und Betrieb

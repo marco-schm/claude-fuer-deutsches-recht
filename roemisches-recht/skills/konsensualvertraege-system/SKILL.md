@@ -1,6 +1,6 @@
 ---
 name: konsensualvertraege-system
-description: "Römisches Recht: Konsensualvertraege System. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Konsensualvertraege System in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konsensualvertraege System

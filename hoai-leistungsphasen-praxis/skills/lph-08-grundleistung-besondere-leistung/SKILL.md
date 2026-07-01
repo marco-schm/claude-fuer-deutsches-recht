@@ -1,6 +1,6 @@
 ---
 name: lph-08-grundleistung-besondere-leistung
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: grenzt HOAI-Grundleistung, Besondere Leistung und Zusatzauftrag ab; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen..."
+description: "Wenn es um LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Grenzt hoai-grundleistung in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Grenzt hoai-grundleistung

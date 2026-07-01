@@ -1,6 +1,6 @@
 ---
 name: ropa-en-controller-template
-description: "Full English-language template for the Records of Processing Activities (RoPA) of the controller under Article 30(1) GDPR. Seven mandatory contents, cover sheet, three worked examples (HR, client files, CRM with US sub-processor), and a versioning footer. Suitable for German law firms with intern..."
+description: "Wenn es um Records of Processing Activities (RoPA) – Controller Template (English) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Records of Processing Activities (RoPA) – Controller Template (English)

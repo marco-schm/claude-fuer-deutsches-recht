@@ -1,6 +1,6 @@
 ---
 name: berufliche-folgen-berufssoldaten-kdv-bescheid
-description: "Prüft Arbeitgeber, Ausbildung, Studium und Nachweise außerhalb der Bundeswehr im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Berufliche Folgen zivil in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berufliche Folgen zivil

@@ -1,6 +1,6 @@
 ---
 name: dba-grundprinzip-oecd-musterabkommen
-description: "Grundprinzipien des OECD-Musterabkommens 2017 inkl. BEPS-Anpassungen und MLI für die Prüfung deutscher Doppelbesteuerungsabkommen. Anwendungsfall Steuerberater oder Steueranwalt arbeitet einen DBA-Sachverhalt vom Prüfungsschema her auf. Aufbau eines DBA Praeambel Anwendungsbereich Begriffsbestimm..."
+description: "Wenn es um DBA-Grundprinzip: OECD-Musterabkommen 2017 und Anwendungsschritte in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA-Grundprinzip: OECD-Musterabkommen 2017 und Anwendungsschritte

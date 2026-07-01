@@ -1,6 +1,6 @@
 ---
 name: btm-037-kokain-erlaubnis-pruefen
-description: "Betäubungsmittelrecht: Kokain: Erlaubnis prüfen. Erlaubnis prüfen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kokain Erlaubnis Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kokain Erlaubnis Pruefen

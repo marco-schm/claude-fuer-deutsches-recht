@@ -1,6 +1,6 @@
 ---
 name: bauleitplanung-interessen
-description: "Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahren..."
+description: "Wenn es um Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bauleitplanung Interessen; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix

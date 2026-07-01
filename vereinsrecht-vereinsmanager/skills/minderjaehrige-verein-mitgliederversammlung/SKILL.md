@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-verein-mitgliederversammlung
-description: "Prüft Mitgliedschaft, Zustimmung Eltern, Aufsicht, Fotos, Schutzkonzept und Kinderschutz im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Minderjährige im Verein in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Minderjährige im Verein

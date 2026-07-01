@@ -1,6 +1,6 @@
 ---
 name: konformitaetsbewertung-modulwahl
-description: "Wählt Konformitätsbewertungsverfahren, interne Fertigungskontrolle, Baumusterprüfung oder Qualitätssicherung mit benannter Stelle."
+description: "Wenn es um Konformitätsbewertung Modulwahl in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konformitätsbewertung Modulwahl

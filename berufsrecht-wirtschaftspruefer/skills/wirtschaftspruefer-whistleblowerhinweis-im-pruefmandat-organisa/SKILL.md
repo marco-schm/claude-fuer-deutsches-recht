@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-whistleblowerhinweis-im-pruefmandat-organisa
-description: "Wirtschaftsprüfer: whistleblowerhinweis im pruefmandat - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Wirtschaftspruefer Whistleblowerhinweis Im Pruefmandat Organisa in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: whistleblowerhinweis im pruefmandat - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

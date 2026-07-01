@@ -1,6 +1,6 @@
 ---
 name: rechtsformwahl
-description: "Vergleicht GmbH, UG, GbR, eGbR, KG, PartG, AG und Sonderformen nach Haftung, Kapital, Steuern, Investorenfähigkeit, Aufwand und Exit-Plan."
+description: "Wenn es um Rechtsformwahl in gesellschaftsgründer — Gründungsassistent für deutsche geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Rechtsformwahl

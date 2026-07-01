@@ -1,6 +1,6 @@
 ---
 name: spezial-mandate-risikoampel-und-gegenargumente
-description: "Mandate: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Mandate: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Familienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandate: Risikoampel, Gegenargumente und Verteidigungslinien

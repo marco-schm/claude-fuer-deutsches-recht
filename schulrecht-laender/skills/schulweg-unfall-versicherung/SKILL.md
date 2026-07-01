@@ -1,6 +1,6 @@
 ---
 name: schulweg-unfall-versicherung
-description: "Prüft Schulwegunfall, Unfallanzeige, gesetzliche Unfallversicherung und Aufsicht im Schulrecht Länder."
+description: "Wenn es um Schulweg, Unfall und Versicherung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulweg, Unfall und Versicherung

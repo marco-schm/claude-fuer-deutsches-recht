@@ -1,6 +1,6 @@
 ---
 name: warranty-catalogue
-description: "Warranty Catalogue Negotiation: baut und prüft Garantiepakete für Corporate, Accounts, Tax, Employment, IP, IT, Data, Compliance, Real Estate und Material Contracts."
+description: "Wenn es um Warranty Catalogue Negotiation in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Warranty Catalogue Negotiation

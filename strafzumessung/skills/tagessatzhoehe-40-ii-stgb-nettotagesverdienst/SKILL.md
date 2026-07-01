@@ -1,6 +1,6 @@
 ---
 name: tagessatzhoehe-40-ii-stgb-nettotagesverdienst
-description: "Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Hoehe richtet sich nach Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Sonderfaelle Arbeitslose, Buergergeld-Empfaenger, Studenten, Selbststaendige, Unterhaltspflichtige, Rentner. Antrag a..."
+description: "Wenn es um Tagessatzhoehe — Paragraf 40 Abs. 2 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tagessatzhoehe — § 40 Abs. 2 StGB

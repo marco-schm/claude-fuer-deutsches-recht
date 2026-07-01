@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilungen-fristen-form-und-zustaendigkeit
-description: "Rechtsabteilungen: Fristen, Form, Zuständigkeit und Rechtsweg im Immobilienrechtspraxis."
+description: "Wenn es um Rechtsabteilungen: Fristen, Form, Zuständigkeit und Rechtsweg in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsabteilungen: Fristen, Form, Zuständigkeit und Rechtsweg

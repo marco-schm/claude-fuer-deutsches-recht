@@ -1,6 +1,6 @@
 ---
 name: wi-insurance-aktenanlage-erechnung-gobd
-description: "W&I-Versicherung: W&I-Prozess, Underwriting, DD-Berichte, Deckungsausschluesse, AI-DD-Transparenz, Synthetic Warranties, Materiality Auslesen und Disclosure Letter für M&A im Mittelstand Corporate Ma."
+description: "Wenn es um W&I-Versicherung in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # W&I-Versicherung

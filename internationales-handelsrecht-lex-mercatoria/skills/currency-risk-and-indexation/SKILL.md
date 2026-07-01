@@ -1,6 +1,6 @@
 ---
 name: currency-risk-and-indexation
-description: "Internationales Handelsrecht: Währungsrisiko und Indexklauseln in internationalen Verträgen. Wechselkursrisiko-Allokation, Hard-Currency-Klauseln, Zahlungswährung vs. Rechnungswährung, CISG Art. 54 Zahlungspflicht und IWF-SZR-Referenzierung im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Währungsrisiko und Indexklauseln in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Währungsrisiko und Indexklauseln

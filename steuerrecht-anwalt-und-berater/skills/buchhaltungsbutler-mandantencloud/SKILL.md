@@ -1,6 +1,6 @@
 ---
 name: buchhaltungsbutler-mandantencloud
-description: "BuchhaltungsButler und vergleichbare Cloud-Buchhaltung beim Mandanten. Anwendungsfall Mandant arbeitet mit BuchhaltungsButler sevDesk Lexware Office Candis StB-Schnittstelle DATEV-Export Datenqualitaetsprüfung AVV. Methodik Konfiguration BelegGoBD-Risiken Honoraranpassung. Output eingerichtete Cl..."
+description: "Wenn es um BuchhaltungsButler — Mandanten-Cloud-Loesung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BuchhaltungsButler — Mandanten-Cloud-Loesung

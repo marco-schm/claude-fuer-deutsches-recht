@@ -1,6 +1,6 @@
 ---
 name: werkvertrag-grundschema-paragraph-631
-description: "Werkvertrag § 631 BGB: Grundschema, Vergütung, Abnahme, Mängelrechte und Kündigung."
+description: "Wenn es um Werkvertrag Grundschema Paragraf 631 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Werkvertrag Grundschema § 631 BGB

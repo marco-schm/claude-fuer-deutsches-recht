@@ -1,6 +1,6 @@
 ---
 name: verfahrensidentifikation
-description: "Verfahrensidentifikation: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Verfahrensidentifikation: Dokumentenmatrix, Lückenliste und Nachforderung in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Verfahrensidentifikation: Dokumentenmatrix, Lückenliste und Nachforderung

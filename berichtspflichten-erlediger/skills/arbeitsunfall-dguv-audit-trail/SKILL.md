@@ -1,6 +1,6 @@
 ---
 name: arbeitsunfall-dguv-audit-trail
-description: "Arbeitsunfall/Berufskrankheit melden: Drei-Tage-Regel, Unfallanzeige, Betriebsrat, Fachkraft, Berufsgenossenschaft und Dokumentation im Berichtspflichten."
+description: "Wenn es um Arbeitsunfallanzeige DGUV in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Arbeitsunfallanzeige DGUV

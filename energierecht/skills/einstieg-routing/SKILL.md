@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Energierecht (EnWG, EEG): ordnet Rolle (Erzeuger, Netzbetreiber, BNetzA), markiert Frist (Beschwerde BNetzA-Beschluss 1 Monat § 75 EnWG), wählt Norm (EnWG, EEG, KWKG) und Zuständigkeit (BNetzA), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Energierecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

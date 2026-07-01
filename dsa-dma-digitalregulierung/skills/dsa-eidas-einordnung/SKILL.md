@@ -1,6 +1,6 @@
 ---
 name: dsa-eidas-einordnung
-description: "DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage in DSA, DMA und Digitalregulierung der EU geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: liegt-ki-system-vor-art-3-nr-1
-description: "Erster Schritt jeder KI-VO-Prüfung: Ist die Software, API, App, Automatisierung oder Modellkette ein KI-System nach Art. 3 Nr. 1 KI-VO? Prüft maschinenbasiertes System, Autonomie, optionale Adaptivitaet, Ziele, Inferenz, Output-Typen und Umweltbeeinflussung nach den Kommissionsleitlinien. Probl..."
+description: "Wenn es um Liegt ein digitale Werkzeuge-System vor? — Art. 3 Nr. 1 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Liegt ein KI-System vor? — Art. 3 Nr. 1 KI-VO

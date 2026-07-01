@@ -1,6 +1,6 @@
 ---
 name: missbrauchsverbot-modus
-description: "Unternehmen in marktbeherrschender Stellung soll auf Missbrauch geprüft werden oder Wettbewerber klagt auf Missbrauch. Prüft Marktabgrenzung und Missbrauchstatbestaende Art. 102 AEUV § 19 GWB. Prüfraster Behinderungsmissbrauch (Kampfpreise Margin Squeeze Refusal to Deal Selbstbeguenstigung) Ausbe..."
+description: "Wenn es um Missbrauchsverbot — Modus in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Missbrauchsverbot — Modus

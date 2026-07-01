@@ -1,6 +1,6 @@
 ---
 name: opposition-risikoampel-und-gegenargumente
-description: "Opposition: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Opposition: Risikoampel, Gegenargumente und Verteidigungslinien in Legistik-Werkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Opposition Risikoampel Und Gegenargumente; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Opposition: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,6 +1,6 @@
 ---
 name: stvo-dokumentenmatrix-und-lueckenliste
-description: "Stvo: Dokumentenmatrix, Lückenliste und Nachforderung: Stvo: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Wenn es um Stvo: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Verkehrsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Stvo: Dokumentenmatrix, Lückenliste und Nachforderung

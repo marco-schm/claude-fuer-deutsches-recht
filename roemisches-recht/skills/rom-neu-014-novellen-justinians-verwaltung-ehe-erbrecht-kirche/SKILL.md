@@ -1,6 +1,6 @@
 ---
 name: rom-neu-014-novellen-justinians-verwaltung-ehe-erbrecht-kirche
-description: "Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche

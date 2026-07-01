@@ -1,6 +1,6 @@
 ---
 name: support-maintenance-sla
-description: "Prüft Wartung, Updates, Patches, Support-Level, Reaktionszeiten, Credits und End-of-Life im Softwarerecht De Eu Us."
+description: "Wenn es um Support Maintenance SLA in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Support Maintenance SLA

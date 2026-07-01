@@ -1,6 +1,6 @@
 ---
 name: strassenverkehr-einstellung-ruegen
-description: "Straßenverkehr: Einstellung anregen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Strassenverkehr Einstellung Anregen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strassenverkehr Einstellung Anregen

@@ -1,6 +1,6 @@
 ---
 name: bgb-at-fallaufnahme-und-pruefprogramm
-description: "Fallaufnahme für BGB-AT-Konstellationen mit sauberem Prüfprogramm: Sachverhalt, Anspruchsziel, Personen, Erklärungen, Kommunikationswege, Zeitpunkte, Form, Genehmigungen, Vollmachten, Anfechtung und Fristen."
+description: "Wenn es um Bgb At Fallaufnahme Und Pruefprogramm in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bgb At Fallaufnahme Und Pruefprogramm

@@ -1,6 +1,6 @@
 ---
 name: klausel-entwerfen-balanced
-description: "Output- und Streit-Skill für Klausel Entwerfen Balanced: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen."
+description: "Wenn es um Klausel Entwerfen Balanced in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Klausel Entwerfen Balanced; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Klausel Entwerfen Balanced

@@ -1,6 +1,6 @@
 ---
 name: brki-rag-vertraulichkeit-spezial
-description: "Spezialfall RAG-Architekturen mit Mandantenakten: Embedding-Speicher, Vektor-DB im EU-Hosting, Loeschkonzept Embedding bei Mandantenwiderruf, Trennung pro Mandat. Prüfraster und technische Mindestanforderungen."
+description: "Wenn es um BRKI: RAG-Vertraulichkeit in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen Stichwort für die Auswahl: Brki Rag Vertraulichkeit Spezial."
 ---
 
 # BRKI: RAG-Vertraulichkeit

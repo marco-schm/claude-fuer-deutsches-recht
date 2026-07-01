@@ -1,6 +1,6 @@
 ---
 name: workflow-schimmel-lueften-heizen
-description: "Schimmel/Lüften/Heizen: Prüfungslinie für Miet- und WEG-Recht: führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills u..."
+description: "Wenn es um Schimmel/Lüften/Heizen: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Schimmel/Lüften/Heizen: Prüfungslinie für Miet- und WEG-Recht

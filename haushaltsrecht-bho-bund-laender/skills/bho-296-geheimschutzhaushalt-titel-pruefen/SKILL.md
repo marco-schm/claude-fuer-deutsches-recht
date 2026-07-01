@@ -1,6 +1,6 @@
 ---
 name: bho-296-geheimschutzhaushalt-titel-pruefen
-description: "Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Titel prüfen. Titel prüfen für Geheimschutzhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Geheimschutzhaushalt Titel Pruefen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geheimschutzhaushalt Titel Pruefen

@@ -1,6 +1,6 @@
 ---
 name: video-hearing-128a-284-zpo
-description: "Prüft Videoverhandlung, hybride Beweisaufnahme, ausländische Zeugen, Techniktest und Protokollierung im Commercial Courts Deutschland."
+description: "Wenn es um Video Hearing in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Video Hearing

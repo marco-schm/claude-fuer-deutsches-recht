@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-protokoll
-description: "Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitzungen (AG, Paragraf 107 AktG) und Gesellschafterversammlungen (GmbH, Paragraf 48 GmbHG) im Hausformat. Erkennt bevorstehende Organsitzungen aus dem Kalender, fragt nach Tagesordnung und Materialien und erstellt einen vollständigen Entwurf. Trigg..."
+description: "Wenn es um Vorstands- und Aufsichtsratsprotokoll (AG: Paragraf 107 AktG; GmbH: Paragraf 48 GmbHG) in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorstands- und Aufsichtsratsprotokoll (AG: Paragraf 107 AktG; GmbH: Paragraf 48 GmbHG)

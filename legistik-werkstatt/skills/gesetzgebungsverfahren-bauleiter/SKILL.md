@@ -1,6 +1,6 @@
 ---
 name: gesetzgebungsverfahren-bauleiter
-description: "Bauleiter Gesetzgebungsverfahren Bund: Referentenentwurf, Kabinettsbeschluss, Bundesrat, Bundestag. Prüfraster für Verbandsstellungnahme."
+description: "Wenn es um LegW: Gesetzgebungsverfahren in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LegW: Gesetzgebungsverfahren

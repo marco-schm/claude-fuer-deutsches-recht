@@ -1,6 +1,6 @@
 ---
 name: laufbahnrecht-laender-lehrer-schule-live
-description: "Länder-Laufbahnrecht-Matrix: fragt Bundesland, Laufbahngruppe, Fachrichtung, Vorbildung und Zielamt ab im Beamtenrecht."
+description: "Wenn es um Laufbahnrecht Länder Matrix in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laufbahnrecht Länder Matrix

@@ -1,6 +1,6 @@
 ---
 name: personalhaushalt-dashboard-bauen
-description: "Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Dashboard bauen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Personalhaushalt Dashboard Bauen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Personalhaushalt Dashboard Bauen

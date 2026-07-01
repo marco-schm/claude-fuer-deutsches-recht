@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-ausbildungszeugnis-16-bbig
-description: "Aufbau und Pflichtinhalt des Ausbildungszeugnisses nach Paragraf 16 BBiG. Unterscheidet einfaches und qualifiziertes Ausbildungszeugnis (auf Verlangen). Enthält Formulierungskatalog für Lernfortschritt, Berufsschulleistungen und Verhalten bei Auszubildenden sowie typische Codes für unterdurchschnittliche Leistungen im Ausbildungskontext."
+description: "Wenn es um Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG

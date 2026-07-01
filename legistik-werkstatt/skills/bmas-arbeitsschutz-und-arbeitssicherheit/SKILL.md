@@ -1,6 +1,6 @@
 ---
 name: bmas-arbeitsschutz-und-arbeitssicherheit
-description: "Sachbereich Arbeitsschutz und Arbeitssicherheit im Geschäftsbereich BMAS: Normbestand (ArbSchG; ArbStaettV; BetrSichV; BiostoffV; LasthandhabV; PSA-BV; ArbMedVV.); Akteure (BAuA; UVT (Berufsgenossenschaften); Länder-Arbeitsschutzbehoerden; KomNet.); EU-Bezug (Arbeitsschutz-Rahmenrichtlinie 89/39..."
+description: "Wenn es um Arbeitsschutz und Arbeitssicherheit (BMAS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsschutz und Arbeitssicherheit (BMAS)

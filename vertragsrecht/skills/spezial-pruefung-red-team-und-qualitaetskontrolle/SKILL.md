@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefung-red-team-und-qualitaetskontrolle
-description: "Pruefung: Red-Team und Qualitätskontrolle im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Pruefung: Red-Team und Qualitätskontrolle in Vertragsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pruefung: Red-Team und Qualitätskontrolle

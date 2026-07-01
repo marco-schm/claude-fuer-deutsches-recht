@@ -1,6 +1,6 @@
 ---
 name: vorkaufsrecht-mieter
-description: "Mieter-Vorkaufsrecht: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Aufteilung, Verkauf, Mitteilung, Ausübung, Schadensersatz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Ar..."
+description: "Wenn es um Mieter-Vorkaufsrecht: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mieter-Vorkaufsrecht: Fachmodul im Miet- und Wohnungseigentumsrecht

@@ -1,6 +1,6 @@
 ---
 name: employment-works-council-613a
-description: "Employment, Works Council und Betriebsuebergang Skill: prüft Arbeitnehmer, Betriebsrat, Mitbestimmung, Paragraf 613a BGB, Retention, Bonus, Change of Control und Restrukturierung: Employment, Works Council und Betriebsuebergang Skill: prüft Arbeitnehmer, Betrie..."
+description: "Wenn es um Employment Works Council 613a in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Employment, Works Council und Betriebsuebergang Skill: prüft Arbeitnehmer, Betriebsrat, Mitbestimmung, Paragraf 613a BGB, Retention, Bonus, Change of Control und Restrukturierung.

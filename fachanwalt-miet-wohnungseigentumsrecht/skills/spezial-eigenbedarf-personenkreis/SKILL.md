@@ -1,6 +1,6 @@
 ---
 name: spezial-eigenbedarf-personenkreis
-description: "Eigenbedarf Personenkreis: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Bedarfsperson, Nutzungswunsch, Vorratskündigung, Alternativwohnung und Widerspruch; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Eigenbedarf Personenkreis in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eigenbedarf Personenkreis

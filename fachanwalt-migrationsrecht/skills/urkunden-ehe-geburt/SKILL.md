@@ -1,6 +1,6 @@
 ---
 name: urkunden-ehe-geburt
-description: "Ehe-/Geburtsurkunden: Fachmodul im Migrationsrecht: prüft Echtheit, Register, Übersetzung, Legalisation/Apostille und Plausibilität; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Ehe-/Geburtsurkunden: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ehe-/Geburtsurkunden: Fachmodul im Migrationsrecht

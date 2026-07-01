@@ -1,6 +1,6 @@
 ---
 name: memo-zur-rechtsmittelentscheidung
-description: "Rechtsmittel-Memo: Berufung/Revision/Beschwerde nach erstinstanzlicher Niederlage. Erfolgsaussichten, Kosten, Zeitfaktor, Mandantenpraeferenz. Prüfraster: Welche Beanstandungen tragen wirklich? Mandantenrisiko bei Verschlechterung. Output: Klare Empfehlung mit alternativer Verhandlungsstrategie..."
+description: "Wenn es um Rechtsmittel-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rechtsmittel-Memo

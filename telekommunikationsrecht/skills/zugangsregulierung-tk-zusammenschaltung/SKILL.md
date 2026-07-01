@@ -1,6 +1,6 @@
 ---
 name: zugangsregulierung-tk-zusammenschaltung
-description: "Zugang zu Netzen, Vorleistungsprodukten, TAL/Bitstrom, Glasfaser, Nichtdiskriminierung und technische Schnittstellen im Telekommunikationsrecht."
+description: "Wenn es um Zugangsregulierung und Vorleistungen in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zugangsregulierung und Vorleistungen

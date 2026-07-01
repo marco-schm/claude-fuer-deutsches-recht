@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation
-description: "Dieses Skill strukturiert die anwaltliche Mandantenkommunikation im Verlauf zivilrechtlicher Mandate. Es zeigt, wie rechtliche Einschätzungen mandantengerecht übersetzt werden, welche Informationen zu welchem Zeitpunkt des Mandats mitgeteilt werden müssen und wie schriftliche und mündliche Kommun..."
+description: "Wenn es um Mandantenkommunikation in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantenkommunikation

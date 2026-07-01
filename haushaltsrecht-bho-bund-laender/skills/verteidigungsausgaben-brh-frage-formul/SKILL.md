@@ -1,6 +1,6 @@
 ---
 name: verteidigungsausgaben-brh-frage-formul
-description: "Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: BRH-Frage formulieren. BRH- im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Verteidigungsausgaben Brh Frage Formul in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verteidigungsausgaben Brh Frage Formul

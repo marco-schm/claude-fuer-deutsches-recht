@@ -1,6 +1,6 @@
 ---
 name: swiss-software-contracts
-description: "Prüft Schweizer Softwareverträge mit Urheberrecht, Auftrags-/Werkvertragslogik, Datenschutz und Gerichtsstand im Softwarerecht De Eu Us."
+description: "Wenn es um Schweizer Softwareverträge in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schweizer Softwareverträge

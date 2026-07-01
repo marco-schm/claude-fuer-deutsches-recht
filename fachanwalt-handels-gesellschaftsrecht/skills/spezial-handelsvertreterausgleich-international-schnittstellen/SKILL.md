@@ -1,6 +1,6 @@
 ---
 name: spezial-handelsvertreterausgleich-international-schnittstellen
-description: "Handelsvertreterausgleich: Internationaler Bezug und Schnittstellen im Plugin fachanwalt handels gesellschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Handelsvertreterausgleich: Internationaler Bezug und Schnittstellen in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsvertreterausgleich: Internationaler Bezug und Schnittstellen

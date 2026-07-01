@@ -1,6 +1,6 @@
 ---
 name: slot-mandantenmemo-schreiben
-description: "Anwalt schreibt Mandantenmemo für Airline zu Slot-Verlust Use-it-or-lose-it Waiver-Ablehnung oder Slot-Insolvenzfragen. Skill strukturiert Memo mit Sachverhalt Slot-Recht Handlungsoptionen und Empfehlung im Luftrecht Flughafenrecht."
+description: "Wenn es um Slot – Mandantenmemo schreiben in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Slot – Mandantenmemo schreiben

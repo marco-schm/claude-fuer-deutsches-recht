@@ -1,6 +1,6 @@
 ---
 name: studentenwohnheim
-description: "Studentenwohnheim: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Sonderregeln, Rotationskonzept, Kündigung, Mieterschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitspro..."
+description: "Wenn es um Studentenwohnheim: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Studentenwohnheim: Fachmodul im Miet- und Wohnungseigentumsrecht

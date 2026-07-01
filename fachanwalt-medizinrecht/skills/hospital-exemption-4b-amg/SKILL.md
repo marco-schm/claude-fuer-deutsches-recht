@@ -1,6 +1,6 @@
 ---
 name: hospital-exemption-4b-amg
-description: "Hospital Exemption § 4b AMG: moderner Medizinrechts-Skill für Nicht routinemäßige ATMP-Anwendung im Krankenhaus, Einzelfallherstellung, Qualitätsstandards und PEI-Genehmigung: Hospital Exemption § 4b AMG: moderner Medizinrechts-Skill für Nicht routinemäßige..."
+description: "Wenn es um Hospital Exemption 4b Amg in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hospital Exemption § 4b AMG: moderner Medizinrechts-Skill für Nicht routinemäßige ATMP-Anwendung im Krankenhaus, Einzelfallherstellung, Qualitätsstandards und PEI-Genehmigung

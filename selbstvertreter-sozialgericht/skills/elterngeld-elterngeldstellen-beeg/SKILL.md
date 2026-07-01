@@ -1,6 +1,6 @@
 ---
 name: elterngeld-elterngeldstellen-beeg
-description: "Elterngeld nach dem BEEG. Skill klaert die Voraussetzungen Hoehe (Basiselterngeld ElterngeldPlus Partnerschaftsbonus) Antrag bei der Elterngeldstelle Sondervorschriften für Selbststaendige und Mehrkindersituationen. Liefert Prüfraster."
+description: "Wenn es um Elterngeld Elterngeldstellen Beeg in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Elterngeld Elterngeldstellen Beeg

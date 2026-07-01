@@ -1,6 +1,6 @@
 ---
 name: nis2-quellenkarte
-description: "Nis2 Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Nis2 Quellenkarte in Fachanwalt It Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Nis2 Quellenkarte

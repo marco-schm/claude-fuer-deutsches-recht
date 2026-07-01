@@ -1,6 +1,6 @@
 ---
 name: chn-069-politically-sensitive-products
-description: "Festlandchina Wirtschaftsverkehr: Politically Sensitive Products. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Politically Sensitive Products in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Politically Sensitive Products

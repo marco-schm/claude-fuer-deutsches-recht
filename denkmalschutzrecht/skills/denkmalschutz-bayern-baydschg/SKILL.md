@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-bayern-baydschg
-description: "Denkmalschutzrecht Bayern nach dem Bayerischen Denkmalschutzgesetz (BayDSchG). Skill bündelt zuständige Behörden (Bayerisches Landesamt für Denkmalpflege in München, Außenstellen, untere Denkmalschutzbehörden bei den Kreisverwaltungsbehörden), das Konzept der Bauerlaubnis nach Art. 6 BayDSchG und die Denkmalliste als nachrichtliches Verzeichnis."
+description: "Wenn es um Denkmalschutz Bayern (BayDSchG) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Bayern (BayDSchG)

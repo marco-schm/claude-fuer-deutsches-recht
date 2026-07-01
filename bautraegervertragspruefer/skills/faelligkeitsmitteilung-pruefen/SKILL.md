@@ -1,6 +1,6 @@
 ---
 name: faelligkeitsmitteilung-pruefen
-description: "Prueft ob eine Faelligkeitsmitteilung des Bautraegers die kumulativen Voraussetzungen nach Paragraf 3 MaBV erfuellt. Vor jeder Zahlung sind Vormerkung, Freistellung, Baugenehmigung und tatsaechlicher Baufortschritt zu verifizieren. Einseitige Bauleiterbestaetigung ohne Erwerberkontrolle ist unzureichend."
+description: "Wenn es um Fälligkeitsmitteilung prüfen in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fälligkeitsmitteilung prüfen

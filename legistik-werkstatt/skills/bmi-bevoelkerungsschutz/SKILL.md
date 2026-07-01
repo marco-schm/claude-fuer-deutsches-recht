@@ -1,6 +1,6 @@
 ---
 name: bmi-bevoelkerungsschutz
-description: "Sachbereich Bevoelkerungsschutz und Katastrophenrecht im Geschäftsbereich BMI: Normbestand (ZSKG; BBK-G; KritisDachG; THWG; BSIG (Krisen).); Akteure (BBK; THW; Länder-Katastrophenschutz; KRITIS-Aufsichten.); EU-Bezug (EU-Katastrophenschutzmechanismus; CER-Richtlinie; NIS2.); typische Legistik-Au"
+description: "Wenn es um Bevoelkerungsschutz und Katastrophenrecht (BMI) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmi Bevoelkerungsschutz; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Bevoelkerungsschutz und Katastrophenrecht (BMI)

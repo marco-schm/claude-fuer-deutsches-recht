@@ -1,6 +1,6 @@
 ---
 name: kv-060-beitragsbemessung-kapitalauszahlung-betriebsrente
-description: "Krankenversicherung: Beitragsbemessung Kapitalauszahlung Betriebsrente mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Beitragsbemessung Kapitalauszahlung Betriebsrente in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Beitragsbemessung Kapitalauszahlung Betriebsrente

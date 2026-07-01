@@ -1,6 +1,6 @@
 ---
 name: recherche-verhandlung-vergleich-und-eskalation
-description: "Recherche: Verhandlung, Vergleich und Eskalation im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Recherche: Verhandlung, Vergleich und Eskalation in verfassungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Recherche: Verhandlung, Vergleich und Eskalation

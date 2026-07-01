@@ -1,6 +1,6 @@
 ---
 name: immo-energieausweis
-description: "Energieausweis: Pflicht GEG 2024, Vorlage bei Verkauf/Vermietung, Bussgeldrisiko. Beratung Verkaeufer/Vermieter Beschaffung im Immobilienrechtspraxis."
+description: "Wenn es um Energieausweis (GEG) in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energieausweis (GEG)

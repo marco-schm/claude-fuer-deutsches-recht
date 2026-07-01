@@ -1,6 +1,6 @@
 ---
 name: sprache-dokumentenmatrix-und-lueckenliste
-description: "Sprache: Dokumentenmatrix, Lückenliste und Nachforderung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Sprache: Dokumentenmatrix, Lückenliste und Nachforderung in Einfache und Leichte Sprache für juristische Texte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Sprache: Dokumentenmatrix, Lückenliste und Nachforderung

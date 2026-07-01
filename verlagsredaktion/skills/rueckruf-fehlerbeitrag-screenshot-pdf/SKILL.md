@@ -1,6 +1,6 @@
 ---
 name: rueckruf-fehlerbeitrag-screenshot-pdf
-description: "Rueckruf bei spaet erkanntem Fehlerbeitrag: Rechtsfolgenpruefung BGB § 824, UrhG § 14, Aeusserungsrecht. Eskalationsplan, Mustertexte für Print- und Online-Rueckruf, Kostenabwaegung im Verlagsredaktion."
+description: "Wenn es um Rueckruf bei spaet erkanntem Fehlerbeitrag in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rueckruf bei spaet erkanntem Fehlerbeitrag

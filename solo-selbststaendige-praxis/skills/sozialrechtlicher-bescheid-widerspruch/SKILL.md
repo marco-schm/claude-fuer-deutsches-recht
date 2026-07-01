@@ -1,6 +1,6 @@
 ---
 name: sozialrechtlicher-bescheid-widerspruch
-description: "Solo-Selbstständige: macht aus Kasse/DRV/KSK-Bescheid eine verständliche Widerspruchsstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Sozialrechtlicher Bescheid Widerspruch in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sozialversicherung und Vorsorge: Macht aus kasse/drv/ksk-bescheid eine verständliche widerspruchsstrategie

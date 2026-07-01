@@ -1,6 +1,6 @@
 ---
 name: yachtkauf-risiko-memo-schreiben
-description: "Yachtkauf: Gesamtrisikobewertung für Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bei Segel- oder Motorjacht: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC..."
+description: "Wenn es um Yachtkauf – Risiko-Memo schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Yachtkauf – Risiko-Memo schreiben

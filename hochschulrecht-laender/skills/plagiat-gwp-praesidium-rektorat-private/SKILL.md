@@ -1,6 +1,6 @@
 ---
 name: plagiat-gwp-praesidium-rektorat-private
-description: "Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte im Hochschulrecht Länder."
+description: "Wenn es um Plagiat und GWP an Hochschulen in Hochschulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Plagiat und GWP an Hochschulen

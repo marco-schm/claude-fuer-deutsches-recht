@@ -1,6 +1,6 @@
 ---
 name: gegendarstellung-entschuldigung-deeskalation
-description: "Entwickelt Reaktionsoptionen bei eskalierten Äußerungen: Klarstellung, Entschuldigung, Löschung, Gegendarstellung, Antwort, Gesprächsangebot und Vergleich ohne unnötiges Schuldanerkenntnis im Meinungspruefer."
+description: "Wenn es um Gegendarstellung, Entschuldigung, Deeskalation in Meinungsprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Gegendarstellung, Entschuldigung, Deeskalation

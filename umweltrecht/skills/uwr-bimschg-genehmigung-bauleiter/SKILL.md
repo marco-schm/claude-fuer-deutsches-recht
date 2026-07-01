@@ -1,6 +1,6 @@
 ---
 name: uwr-bimschg-genehmigung-bauleiter
-description: "Bauleiter BImSchG-Genehmigung: Verfahrensarten foermlich und vereinfacht, öffentliche Auslegung, Nebenbestimmungen. Prüfraster für Antragsteller und Einwender im Umweltrecht."
+description: "Wenn es um UwR: BImSchG-Genehmigung in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # UwR: BImSchG-Genehmigung

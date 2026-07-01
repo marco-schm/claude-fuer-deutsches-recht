@@ -1,6 +1,6 @@
 ---
 name: 015-erster-titel-12-darlehen
-description: "PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe

@@ -1,6 +1,6 @@
 ---
 name: lph-08-schnittstelle-vob-bgb
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Prüft vob/b in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Prüft vob/b

@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-hauptverhandlung-71-owig
-description: "Datenschutzrecht-Brückenskill: Hauptverhandlung § 71 OWiG: Hauptverhandlung mit StPO-Logik, Beweisaufnahme, Zeugen, Sachverständigen und Anträgen vorbereiten: Datenschutzrecht-Brückenskill: Hauptverhandlung § 71 OWiG: Hauptverhandlung mit StPO-Logik, Beweis..."
+description: "Wenn es um Dsv Sanktion Hauptverhandlung 71 Owig in Datenschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Datenschutzrecht-Brückenskill: Hauptverhandlung § 71 OWiG: Hauptverhandlung mit StPO-Logik, Beweisaufnahme, Zeugen, Sachverständigen und Anträgen vorbereiten

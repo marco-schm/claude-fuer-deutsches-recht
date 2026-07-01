@@ -1,6 +1,6 @@
 ---
 name: methadon-strafrahmen-routen
-description: "Methadon: Strafrahmen routen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Methadon Strafrahmen Routen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Methadon Strafrahmen Routen

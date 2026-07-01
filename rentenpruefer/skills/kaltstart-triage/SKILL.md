@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Kaltstart und Fallrouting im Rentenprüfer: klärt gesetzliche Rente, Versorgungswerk, Ausland, Nachversicherung, Fristen, Unterlagen und Wunsch-Output und schlägt passende Fachmodule vor."
+description: "Wenn es um allgemein in Rentenprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # allgemein

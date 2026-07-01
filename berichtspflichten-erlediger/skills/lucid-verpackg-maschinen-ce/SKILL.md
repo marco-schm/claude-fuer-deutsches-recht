@@ -1,6 +1,6 @@
 ---
 name: lucid-verpackg-maschinen-ce
-description: "VerpackG: LUCID-Registrierung, Systembeteiligung, Datenmeldung, Vollständigkeit und Marktplatz-/Fulfillment-Konstellationen im Berichtspflichten."
+description: "Wenn es um LUCID Registrierung und Datenmeldung in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # LUCID Registrierung und Datenmeldung

@@ -122,18 +122,18 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `01-zustaendigkeit-und-guetetermin` | Sachliche Zuständigkeit Paragraf 2 ArbGG, örtliche Zuständigkeit Paragraf 48 ArbGG i.V.m. Paragrafen 12 ff. ZPO, Klagezustellung, Anberaumung Guetetermin Paragraf 54 ArbGG |
-| `02-kuendigungsschutzklage-pruefen` | Kündigungsschutzklage Paragraf 4 KSchG: Klagefrist 3 Wochen, Kündigungsgründe (personenbedingt verhaltensbedingt betriebsbedingt) Paragraf 1 KSchG, Sozialauswahl Paragraf 1 Abs. 3 KSchG |
-| `03-zahlungsklage-lohn-und-gehalt` | Zahlungsklage: faelliger Arbeitslohn, Annahmeverzug Paragrafen 615 BGB, Urlaubsabgeltung Paragraf 7 Abs. 4 BUrlG, Entgeltfortzahlung im Krankheitsfall Paragraf 3 EFZG, Verzugspauschale Paragraf 288 Abs. 5 BGB |
-| `04-betriebsuebergang-und-tarif` | Betriebsübergang Paragraf 613a BGB, Eintritt in Arbeitsverhältnisse, Widerspruchsrecht, Informationspflichten Abs. 5; Tarifgebundenheit Paragraf 3 TVG, Tariftreue, Nachwirkung Paragraf 4 Abs. 5 |
-| `05-befristung-und-teilzeit` | Befristungskontrolle TzBfG: sachgrundlose Befristung Paragraf 14 Abs. 2, Sachgrundbefristung Paragraf 14 Abs. 1, Zweckbefristung; Teilzeit Paragraf 8 TzBfG (Anspruch auf Verringerung) |
-| `06-agg-diskriminierung` | AGG Paragraf 7: Benachteiligungsverbot, geschuetzte Merkmale Paragraf 1, Beweislastregel Paragraf 22, Entschaedigung und Schadensersatz Paragraf 15, Ausschlussfrist Paragraf 15 Abs. 4 |
-| `07-einstweilige-verfuegung-arbeitsrecht` | Einstweilige Verfügung im Arbeitsrecht: Verfügungsanspruch und -grund Paragraf 940 ZPO, Schutz von Beschaeftigungsanspruch, Wettbewerbsverbot, Verschwiegenheit; Eilbeschluss |
-| `08-betriebsverfassung-beschlussverfahren` | Beschlussverfahren Paragrafen 80 ff. ArbGG: Beteiligte, Verfahrensgegenstand (Mitbestimmung Paragraf 87 BetrVG, Einigungsstelle Paragraf 76 BetrVG), Antrag im Beschlussverfahren |
-| `09-urteil-arbeitsgericht` | Urteil Paragraf 60 ArbGG i.V.m. Paragrafen 313 ZPO, Tenor, Tatbestand, Entscheidungsgründe, Streitwert (3 Bruttomonatsgehaelter bei Kündigung), Berufung an LAG Paragraf 64 ArbGG, Revision an BAG Paragraf 72 ArbGG |
-| `10-entscheidungsvorschlag-arbeitsgericht` | Strukturierter Entscheidungsvorschlag: Tenor-Skizze, Kündigungsprüfungsschema, Anspruchsprüfung, Vergleichsvorschlag für Guetetermin, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert |
-| `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (urteil arbeitsgericht) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
-| `prozessuale-kniffe-und-rechtsprechungsanker` | Bündelt arbeitsgerichtliche Prozesskniffe zu Güteverhandlung, Kammertermin, Hinweis, Darlegungslast, Vergleich, Tenor und Vollstreckbarkeit. |
-| `v392-praxisraster-richter-arbeitsgericht` | Praxisraster für Arbeitsgericht: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet. |
+| `01-zustaendigkeit-und-guetetermin` | Wenn es um 01 Zuständigkeit und Guetetermin in Arbeitsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `02-kuendigungsschutzklage-pruefen` | Wenn es um 02 Kündigungsschutzklage Prüfen in Arbeitsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `03-zahlungsklage-lohn-und-gehalt` | Wenn es um 03 Zahlungsklage Lohn und Gehalt in Arbeitsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `04-betriebsuebergang-und-tarif` | Wenn es um 04 Betriebsübergang und Tarif in Arbeitsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `05-befristung-und-teilzeit` | Wenn es um 05 Befristung und Teilzeit in Arbeitsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `06-agg-diskriminierung` | Wenn es um 06 Agg Diskriminierung in Arbeitsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `07-einstweilige-verfuegung-arbeitsrecht` | Wenn es um 07 Einstweilige Verfügung Arbeitsrecht in Arbeitsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `08-betriebsverfassung-beschlussverfahren` | Wenn es um 08 Betriebsverfassung Beschlussverfahren in Arbeitsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `09-urteil-arbeitsgericht` | Wenn es um 09 Urteil Arbeitsgericht in Arbeitsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `10-entscheidungsvorschlag-arbeitsgericht` | Wenn es um 10 Entscheidungsvorschlag Arbeitsgericht in Arbeitsgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `99-finale-entscheidung-volltext` | Wenn es um Finale Entscheidung als Volltext (Urteil Arbeitsgericht) in Arbeitsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und... |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Arbeitsgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `v392-praxisraster-richter-arbeitsgericht` | Wenn es um Praxisraster Arbeitsgericht in Arbeitsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

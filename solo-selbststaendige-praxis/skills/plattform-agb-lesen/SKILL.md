@@ -1,6 +1,6 @@
 ---
 name: plattform-agb-lesen
-description: "Solo-Selbstständige: übersetzt Plattform-AGB, Gebühren, Sperren und Auszahlungsvorbehalte; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Marketing E-Commerce und Plattformen: Übersetzt plattform-agb in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Marketing E-Commerce und Plattformen: Übersetzt plattform-agb

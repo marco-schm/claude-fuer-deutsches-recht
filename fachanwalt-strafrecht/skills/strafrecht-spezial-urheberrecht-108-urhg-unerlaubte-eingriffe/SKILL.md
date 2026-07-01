@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe
-description: "Unerlaubte Eingriffe in verwandte Schutzrechte nach Paragraph 108 UrhG: Lichtbildner Tontraegerhersteller Sendeunternehmen Filmhersteller Datenbankhersteller ausuebende Kuenstler. Verwe..."
+description: "Wenn es um Unerlaubte Eingriffe in verwandte Schutzrechte nach Paragraph 108 UrhG in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unerlaubte Eingriffe in verwandte Schutzrechte nach Paragraph 108 UrhG

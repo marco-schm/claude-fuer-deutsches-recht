@@ -1,6 +1,6 @@
 ---
 name: rollen-und-harness-wahl
-description: "Bestimmt nach der Rollenklärung, welches der vier Zeugnis-Harnesses aktiviert wird: qualifiziertes Zeugnis, einfaches Zeugnis, Zwischenzeugnis oder Ausbildungszeugnis nach Paragraf 16 BBiG. Jedes Harness hat einen eigenen Pflichtaufbau, eigene Bewertungsachsen und eigene rechtliche Grundlage. Die Wahl ist bindend für alle nachfolgenden Generier-Schritte."
+description: "Wenn es um Rollen und Harness-Wahl in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rollen und Harness-Wahl

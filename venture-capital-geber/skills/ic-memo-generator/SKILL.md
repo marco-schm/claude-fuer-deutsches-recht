@@ -1,6 +1,6 @@
 ---
 name: ic-memo-generator
-description: "Erzeugt IC-Memo mit These, Deal Terms, Risiken, Checks, Alternativen, Follow-on und Beschlussvorschlag im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Investment Committee Memo in Venture Capital Geber geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Investment Committee Memo

@@ -1,6 +1,6 @@
 ---
 name: vertriebsumstellung
-description: "Prüft rechtliche Konsequenzen einer Vertriebsumstellung durch den Unternehmer: Umstellung von Handelsvertreter- auf Direktvertrieb oder E-Commerce, Kürzung des Vertriebsgebiets, Änderungskündigung sowie Ausgleichsansprüche nach § 89b HGB bei wesentlicher Verschlechterung der Provisionsgrundlage i..."
+description: "Wenn es um Vertriebsumstellung durch den Unternehmer — Ausgleich und Kündigung nach Paragraf 89b HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertriebsumstellung durch den Unternehmer — Ausgleich und Kündigung nach § 89b HGB

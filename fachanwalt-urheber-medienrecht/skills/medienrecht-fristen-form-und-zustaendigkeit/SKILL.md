@@ -1,6 +1,6 @@
 ---
 name: medienrecht-fristen-form-und-zustaendigkeit
-description: "Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg: Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Wenn es um Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg

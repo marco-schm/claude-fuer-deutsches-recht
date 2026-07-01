@@ -1,6 +1,6 @@
 ---
 name: infl-032-virtueller-influencer-rechte-und-kennzeichnung
-description: "Influencer-Recht: Virtueller Influencer Rechte und Kennzeichnung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Virtueller Influencer Rechte und Kennzeichnung in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Virtueller Influencer Rechte und Kennzeichnung

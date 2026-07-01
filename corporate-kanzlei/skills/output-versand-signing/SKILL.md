@@ -1,6 +1,6 @@
 ---
 name: output-versand-signing
-description: "Signing-Management und Output-Verteilung für M&A-Vertraege: Koordiniert physisches und virtuelles Signing, Signaturseiten-Protokoll, qualifizierte eSignatur (QES), Exekution und Verteilung. Normen: §§ 126 und 126a und 127 BGB (Schriftform, eSignatur), BeurkG (Notarerfordernis), eIDAS-VO. Prüfrast..."
+description: "Wenn es um Output, Versand und Signing-Management in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output, Versand und Signing-Management

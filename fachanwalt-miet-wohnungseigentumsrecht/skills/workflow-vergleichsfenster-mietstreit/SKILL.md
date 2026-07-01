@@ -1,6 +1,6 @@
 ---
 name: workflow-vergleichsfenster-mietstreit
-description: "Vergleichsfenster Mietstreit: Prüfungslinie für Miet- und WEG-Recht: ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten; mit Kaltstart, Fristencheck, Belegmatrix, Anschl..."
+description: "Wenn es um Vergleichsfenster Mietstreit: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Vergleichsfenster Mietstreit: Prüfungslinie für Miet- und WEG-Recht

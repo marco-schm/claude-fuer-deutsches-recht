@@ -1,6 +1,6 @@
 ---
 name: kartellrecht-vertikal
-description: "Prüft kartellrechtliche Anforderungen an vertikale Vertriebsvereinbarungen mit Handelsvertretern: Preisbindung der zweiten Hand, Gebietsschutz und Kundengruppen unter der Vertikal-GVO, Einzelfreistellung nach Art. 101 Abs. 3 AEUV sowie Abgrenzung zulässiger Empfehlungen von verbotener Preisbindun..."
+description: "Wenn es um Kartellrecht und vertikale Beschränkungen im Handelsvertretervertrieb nach Art. 101 AEUV in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kartellrecht und vertikale Beschränkungen im Handelsvertretervertrieb nach Art. 101 AEUV

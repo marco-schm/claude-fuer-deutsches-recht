@@ -1,6 +1,6 @@
 ---
 name: mietrecht-kuendigungserklaerung
-description: "Wohnungsmietrecht in einfacher Sprache für Mieter: Kuendigung erklaert (Frist, Form, Schriftform § 568 BGB), Schonfristzahlung § 569 Abs. 3 BGB, Mieterhoehung, Betriebskostenabrechnung. Mandantenformularsatz."
+description: "Wenn es um ELS-J Wohnungsmietrecht in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ELS-J Wohnungsmietrecht

@@ -1,6 +1,6 @@
 ---
 name: verl-008-open-access-creative-commons-und-verlagspolitik
-description: "Verlagsrecht: Open Access Creative Commons und Verlagspolitik mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Open Access Creative Commons und Verlagspolitik in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Open Access Creative Commons und Verlagspolitik

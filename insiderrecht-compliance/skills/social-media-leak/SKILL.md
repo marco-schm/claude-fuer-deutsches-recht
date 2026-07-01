@@ -1,6 +1,6 @@
 ---
 name: social-media-leak
-description: "Reagiert auf Social-Media-Leaks (Twitter/X, LinkedIn, Reddit): Kursrelevanz-Bewertung, Ad-hoc-Pflicht, Nichtoeffentlichkeit und forensische Dokumentation im Insiderrecht Compliance."
+description: "Wenn es um Social-Media-Leak – Insiderrecht und Ad-hoc-Reaktion in Insiderrecht Compliance geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Social-Media-Leak – Insiderrecht und Ad-hoc-Reaktion

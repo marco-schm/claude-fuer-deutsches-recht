@@ -1,6 +1,6 @@
 ---
 name: bmf-schreiben-radar-2026
-description: "Bündelt die wichtigsten amtlichen BMF-/BZSt-Anker für laufende Steuerberatung und verteilt sie in Prüfpfade statt Blindzitate zu erzeugen."
+description: "Wenn es um BMF-Schreiben-Radar 2026: E-Rechnung, Forschungszulage, Mindeststeuer, GrESt und UmwSt in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BMF-Schreiben-Radar 2026: E-Rechnung, Forschungszulage, Mindeststeuer, GrESt und UmwSt

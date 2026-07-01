@@ -1,6 +1,6 @@
 ---
 name: wahlpruefung-nachwahl
-description: "Wahlkampfrecht Praxis: Wahlpruefung und Einspruch nach Wahlfehlern vorbereiten im Wahlkampfrecht."
+description: "Wenn es um Wahlpruefung Nachwahl in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wahlpruefung Nachwahl

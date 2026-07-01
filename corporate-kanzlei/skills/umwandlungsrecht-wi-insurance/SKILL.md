@@ -1,6 +1,6 @@
 ---
 name: umwandlungsrecht-wi-insurance
-description: "Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensuebertragung nach UmwG. Normen: §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung), §§ 190-304 UmwG (Formwechsel). Schlüsselentscheidungen BGH und BayObLG im Corporate Kanzlei."
+description: "Wenn es um Umwandlungsrecht — Verschmelzung, Spaltung, Formwechsel in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Umwandlungsrecht Wi Insurance; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # Umwandlungsrecht — Verschmelzung, Spaltung, Formwechsel

@@ -1,6 +1,6 @@
 ---
 name: geheimschutz-sicherheitsueberpruefung-sueg
-description: "Geheimschutz und Sicherheitsüberprüfung SÜG: prüft Ü1–Ü3-Verfahren, Anhörungsrecht, Rechtsschutz und Datenschutz. Norm-/Quellenanker: SÜG, MADG, SG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Geheimschutz und Sicherheitsüberprüfung (SÜG) in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geheimschutz und Sicherheitsüberprüfung (SÜG)

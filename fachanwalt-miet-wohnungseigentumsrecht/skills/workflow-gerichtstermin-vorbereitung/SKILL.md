@@ -1,6 +1,6 @@
 ---
 name: workflow-gerichtstermin-vorbereitung
-description: "Gerichtstermin Vorbereitung: Prüfungslinie für Miet- und WEG-Recht: macht Parteivortrag, Beweise, Vergleichslinie und Fragenliste; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills..."
+description: "Wenn es um Gerichtstermin Vorbereitung: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Gerichtstermin Vorbereitung: Prüfungslinie für Miet- und WEG-Recht

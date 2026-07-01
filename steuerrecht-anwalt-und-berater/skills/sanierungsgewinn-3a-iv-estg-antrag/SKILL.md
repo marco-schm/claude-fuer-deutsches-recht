@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-3a-iv-estg-antrag
-description: "Antrag nach § 3a Absatz 4 EStG: Form, Frist, Inhalt und Bindungswirkung. Nach Feststellung des Sanierungserfolgs ist der Antrag nicht mehr zurücknehmbar; strategische Konsequenzen sind vor Antragstellung abzuwägen."
+description: "Wenn es um Paragraf 3a Abs. 4 EStG — Antrag und Bindungswirkung in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Sanierungsgewinn 3a Iv Estg Antrag; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # § 3a Abs. 4 EStG — Antrag und Bindungswirkung

@@ -1,6 +1,6 @@
 ---
 name: markt-mehrparteien-konflikt-und-interessen
-description: "Markt: Mehrparteienkonflikt und Interessenmatrix: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Markt: Mehrparteienkonflikt und Interessenmatrix in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Markt: Mehrparteienkonflikt und Interessenmatrix

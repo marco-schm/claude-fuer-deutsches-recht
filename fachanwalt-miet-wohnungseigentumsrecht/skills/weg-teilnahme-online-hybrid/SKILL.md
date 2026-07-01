@@ -1,6 +1,6 @@
 ---
 name: weg-teilnahme-online-hybrid
-description: "Online-/Hybridversammlung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Beschlussgrundlage, Zugang, Identität, Protokoll, Technikrisiko; mit Normprüfung, Beweisen, Fristen, Ri..."
+description: "Wenn es um Online-/Hybridversammlung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Online-/Hybridversammlung: Fachmodul im Miet- und Wohnungseigentumsrecht

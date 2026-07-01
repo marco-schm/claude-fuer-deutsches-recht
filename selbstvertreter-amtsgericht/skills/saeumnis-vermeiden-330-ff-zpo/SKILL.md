@@ -1,6 +1,6 @@
 ---
 name: saeumnis-vermeiden-330-ff-zpo
-description: "Versaeumnisurteil verhindern §§ 330 ff. ZPO. Folgen des Schweigens als Beklagter Verteidigungsanzeige Klageerwiderung Termin-Erscheinung Einspruch gegen Versaeumnisurteil mit 2-Wochen-Frist § 339 ZPO."
+description: "Wenn es um Versaeumnisurteil verhindern und ggf. einlegen in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Versaeumnisurteil verhindern und ggf. einlegen

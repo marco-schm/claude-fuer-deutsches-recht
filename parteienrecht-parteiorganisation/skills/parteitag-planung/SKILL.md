@@ -1,6 +1,6 @@
 ---
 name: parteitag-planung
-description: "Plant Parteitag/Hauptversammlung: Einladung, Antragsfristen, Wahlordnung, Mandatsprüfung, Präsidium, Protokoll."
+description: "Wenn es um Parteitag Planung in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parteitag Planung

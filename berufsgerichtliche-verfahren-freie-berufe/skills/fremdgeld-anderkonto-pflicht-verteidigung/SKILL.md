@@ -1,6 +1,6 @@
 ---
 name: fremdgeld-anderkonto-pflicht-verteidigung
-description: "Fremdgeld und Anderkonto (Verteidigungs- und Kammerantwort): steuert Fremdgeldverwahrung, verspätete Auskehrung, Aufrechnung, Treuhandauflage und Kontenorganisation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren..."
+description: "Wenn es um Fremdgeld und Anderkonto: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fremdgeld und Anderkonto: Verteidigungs- und Kammerantwort

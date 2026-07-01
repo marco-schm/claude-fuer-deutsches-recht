@@ -1,6 +1,6 @@
 ---
 name: dsfa-update-bei-aenderungen-und-revision
-description: "Aktualisierung einer DSFA bei wesentlichen Änderungen der Verarbeitung nach Art. 35 Abs. 11 DSGVO. Output: Revisionsplan mit Trigger-Liste Änderungsanalyse Risikoreassessment und Versionshistorie."
+description: "Wenn es um DSFA Update bei Änderungen und Revision in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DSFA Update bei Änderungen und Revision

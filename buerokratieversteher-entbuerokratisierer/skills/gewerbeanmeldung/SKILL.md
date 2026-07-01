@@ -1,6 +1,6 @@
 ---
 name: gewerbeanmeldung
-description: "Hilft bei Gewerbeanmeldung, Erlaubnissen, IHK/HWK, Steuernummer, Nebengewerbe und Auflagen im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Gewerbeanmeldung in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerbeanmeldung

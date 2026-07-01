@@ -1,6 +1,6 @@
 ---
 name: altersteilzeit-93-bbg-blockmodell
-description: "Skill zur Altersteilzeit der Beamten nach § 93 BBG bzw. § 9 BeamtStG i.V.m. den Landesregelungen. Klaert die zwei Modelle Teilzeitmodell und Blockmodell die Bezuegehoehe waehrend Aktiv- und Freistellungsphase die Auswirkungen auf das Ruhegehalt und auf den Versorgungsabschlag nach § 14 BeamtVG. B..."
+description: "Wenn es um Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Altersteilzeit § 93 BBG — Blockmodell und Teilzeitmodell

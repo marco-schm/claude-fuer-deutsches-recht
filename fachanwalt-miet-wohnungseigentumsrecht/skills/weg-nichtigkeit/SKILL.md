@@ -1,6 +1,6 @@
 ---
 name: weg-nichtigkeit
-description: "WEG Nichtigkeit: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft besonders schwere Mängel, Kompetenzüberschreitung, Bestimmtheit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeit..."
+description: "Wenn es um WEG Nichtigkeit: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Nichtigkeit: Fachmodul im Miet- und Wohnungseigentumsrecht

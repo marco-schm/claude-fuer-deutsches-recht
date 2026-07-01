@@ -1,6 +1,6 @@
 ---
 name: rechtsinhalt-interessen
-description: "Rechtsinhalt: Mehrparteienkonflikt und Interessenmatrix im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrenss..."
+description: "Wenn es um Rechtsinhalt: Mehrparteienkonflikt und Interessenmatrix in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechtsinhalt Interessen; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
 ---
 
 # Rechtsinhalt: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: cic-can-0832
-description: "CIC can. 832: Normnavigator fuer Buch III - Verkündigungsdienst (can. 747-833); amtlichen Canon-Text live pruefen, Tatbestand, Zuständigkeit, Partikularrecht, Katechismusbezug und pastorale Ausgabe sauber trennen."
+description: "Wenn es um CIC can. 832 - Buch III - Verkündigungsdienst in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # CIC can. 832 - Buch III - Verkündigungsdienst

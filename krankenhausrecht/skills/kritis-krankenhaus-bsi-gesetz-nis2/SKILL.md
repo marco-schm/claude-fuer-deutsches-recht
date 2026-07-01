@@ -1,6 +1,6 @@
 ---
 name: kritis-krankenhaus-bsi-gesetz-nis2
-description: "KRITIS Krankenhaus BSI-Gesetz NIS2: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht."
+description: "Wenn es um KRITIS Krankenhaus BSI-Gesetz NIS2 in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # KRITIS Krankenhaus BSI-Gesetz NIS2

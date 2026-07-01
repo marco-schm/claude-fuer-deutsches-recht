@@ -1,6 +1,6 @@
 ---
 name: bwa-fehlerquellen-haeufig
-description: "Typische Fehlerquellen in der BWA. Anwendungsfall Qualitaetsprüfung BWA durch Berufstraeger interne Stichprobe Fehler in Periodenabgrenzung Buchungsfehler Bestandsveraenderung Lohnbuchungen. Methodik Checkliste Plausibilitaetsprüfung. Output Fehlerprotokoll Korrekturmassnahmen Schulungsbedarf Que..."
+description: "Wenn es um Typische BWA-Fehlerquellen und Plausibilitaetspruefung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Typische BWA-Fehlerquellen und Plausibilitaetspruefung

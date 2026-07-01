@@ -1,6 +1,6 @@
 ---
 name: kanzlei-compliance-dokumentation-und-akte
-description: "Kanzlei: Compliance-Dokumentation und Aktenvermerk: Kanzlei: Compliance-Dokumentation und Aktenvermerk."
+description: "Wenn es um Kanzlei: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kanzlei: Compliance-Dokumentation und Aktenvermerk

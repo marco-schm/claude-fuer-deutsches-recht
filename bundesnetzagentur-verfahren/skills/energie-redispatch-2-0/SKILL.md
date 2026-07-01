@@ -1,6 +1,6 @@
 ---
 name: energie-redispatch-2-0
-description: "Energie / Redispatch 2.0: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT im BNetzA-Verfahren."
+description: "Wenn es um Energie: Redispatch 2.0 in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Energie: Redispatch 2.0

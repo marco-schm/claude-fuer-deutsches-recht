@@ -1,6 +1,6 @@
 ---
 name: pralr-025-strafvollzug-und-strafzwecke
-description: "PrALR: Strafvollzug, Freiheitsstrafe, Leibesstrafen, Abschreckung und historische Strafzwecke einordnen."
+description: "Wenn es um Strafvollzug in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 025 Strafvollzug Und Strafzwecke; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Strafvollzug

@@ -1,6 +1,6 @@
 ---
 name: buergerentscheid-strassenbahn-spezial
-description: "Spezialfall Buergerentscheid zur Strassenbahn oder Stadtbahn: kommunalrechtliche Voraussetzungen, Verhältnis zum Beschluss des Gemeinderats, planungsrechtliche Folgen, Foerderfaehigkeit nach GVFG bei Verzoegerung. Prüfraster im Verkehr Infrastrukturrecht."
+description: "Wenn es um Buergerentscheid Strassenbahn in Verkehrs- und Infrastrukturrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Buergerentscheid Strassenbahn

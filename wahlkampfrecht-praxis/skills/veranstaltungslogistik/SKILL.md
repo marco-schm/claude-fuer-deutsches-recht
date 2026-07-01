@@ -1,6 +1,6 @@
 ---
 name: veranstaltungslogistik
-description: "Wahlkampfrecht Praxis: Kundgebung, Saalveranstaltung oder Marktplatztermin planen im Wahlkampfrecht."
+description: "Wenn es um Veranstaltungslogistik in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Veranstaltungslogistik

@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-conflict-gwg
-description: "Mandatsannahme, Conflict und GwG: steuert Konfliktprüfung, wirtschaftlich Berechtigte, Sanktions-/PEP-Hinweise, Scope und Ablehnungsszenarien zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-..."
+description: "Wenn es um Mandatsannahme, Conflict und GwG in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandatsannahme, Conflict und GwG

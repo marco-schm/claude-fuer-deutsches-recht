@@ -1,6 +1,6 @@
 ---
 name: schwerbehinderung-bem-gleichstellung
-description: "Schwerbehinderung, Gleichstellung, BEM, Nachteilsausgleich und Beteiligung der Schwerbehindertenvertretung im Beamtenrecht."
+description: "Wenn es um Schwerbehinderung Bem Gleichstellung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schwerbehinderung Bem Gleichstellung

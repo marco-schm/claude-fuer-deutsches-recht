@@ -1,6 +1,6 @@
 ---
 name: pruefen-formular-portal-und-einreichung
-description: "Prüfen: Formular, Portal und Einreichungslogik: Prüfen: Formular, Portal und Einreichungslogik."
+description: "Wenn es um Prüfen: Formular, Portal und Einreichungslogik in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfen: Formular, Portal und Einreichungslogik

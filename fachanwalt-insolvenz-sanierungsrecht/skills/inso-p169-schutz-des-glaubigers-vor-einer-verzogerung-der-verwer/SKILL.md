@@ -1,6 +1,6 @@
 ---
 name: inso-p169-schutz-des-glaubigers-vor-einer-verzogerung-der-verwer
-description: "§ 169 InsO (Schutz des Gläubigers vor einer Verzögerung der Verwertung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 169 InsO (Schutz des Gläubigers vor einer Verzögerung der Verwertung..."
+description: "Wenn es um Inso P169 Schutz Des Glaubigers Vor Einer Verzogerung Der Verwer in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 169 InsO (Schutz des Gläubigers vor einer Verzögerung der Verwertung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

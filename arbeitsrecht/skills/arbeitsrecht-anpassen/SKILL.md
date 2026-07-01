@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-anpassen
-description: "Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einstellungsregeln, Kündigungsregeln, Handbuchpositionen oder Untersuchungseinstellungen ändern, ohne das gesamte Kaltstart-Interview neu zu durchlaufen."
+description: "Wenn es um /arbeitsrecht:arbeitsrecht-anpassen in Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # /arbeitsrecht:arbeitsrecht-anpassen

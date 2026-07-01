@@ -1,6 +1,6 @@
 ---
 name: rechtsanwaltliche-vollmacht
-description: "Erstellt Vollmacht, Akteneinsicht und Zustellungsbitte im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Anwaltliche Vollmacht in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anwaltliche Vollmacht

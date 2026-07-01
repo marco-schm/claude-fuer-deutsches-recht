@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulage-Plugin. Führt Einsteiger, Technikteams, CFOs und Steuerberater unterschiedlich, klärt Unternehmen, FuE-Vorhaben, Wirtschaftsjahre, BSFZ-Status, Finanzamt-Antrag, Liquidität, Dokumentation und Fachmodule und liefert sofort Kurzbild"
+description: "Wenn es um Forschungszulage — Allgemein in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Forschungszulage — Allgemein

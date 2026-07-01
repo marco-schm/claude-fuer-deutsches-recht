@@ -1,6 +1,6 @@
 ---
 name: expert-management
-description: "Expert Management: steuert Sachverständige, Privatgutachten, Gutachterbudget, Briefing und Unabhängigkeit steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Expert Management in Kanzlei-Mandant Lifecycle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Expert Management

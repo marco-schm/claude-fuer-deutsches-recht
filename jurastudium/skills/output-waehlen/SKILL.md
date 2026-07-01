@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Jurastudium (Klausur, AG, Examen): stimmt Adressat (Studentenr, Repetitor, Korrektor), Frist (Klausurzeit) und Form auf den Zweck ab — typische Outputs: Klausurlösung Gutachtenstil, Hausarbeit, AG-Lösung."
+description: "Wenn es um Output wählen in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: pruefer-uebergabe-paket
-description: "Übergabepaket für Prüferwechsel im 3D-Review zusammenstellen: aktueller Stand, offene Positionen. Normen: §§ 174 ff. InsO. Prüfraster: Fortschrittsstand, kritische Punkte, Dokumentation. Output: Übergabedokument für naechsten Prüfer. Abgrenzung: nicht Audit-Trail."
+description: "Wenn es um /tabellenreview-3d:prüfer-übergabe-paket in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # /tabellenreview-3d:prüfer-übergabe-paket

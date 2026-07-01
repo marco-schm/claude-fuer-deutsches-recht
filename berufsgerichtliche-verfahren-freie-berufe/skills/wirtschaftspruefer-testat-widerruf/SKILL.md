@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-testat-widerruf
-description: "Wirtschaftsprüfer Testat Widerruf (Verteidigungs- und Kammerantwort): steuert fehlerhaftes Testat, Nachtragsprüfung, Widerruf, Marktinformation und Haftung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Ber..."
+description: "Wenn es um Wirtschaftsprüfer Testat Widerruf: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wirtschaftsprüfer Testat Widerruf: Verteidigungs- und Kammerantwort

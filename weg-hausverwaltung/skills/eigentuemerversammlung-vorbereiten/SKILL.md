@@ -1,6 +1,6 @@
 ---
 name: eigentuemerversammlung-vorbereiten
-description: "Plant eine Eigentümerversammlung (Stand 05/2026) von Themenstapel, Beschlussbedarf, Unterlagen, Beiratsabstimmung, Einladungszeitplan, Raum/virtueller Teilnahme bis zur Nachbereitung. Berücksichtigt § 23 Abs. 1a WEG, BGH-Linie zu Vorbefassung (V ZR 86/24), Abrechnung (V ZR 102/23) und Schlüsselän..."
+description: "Wenn es um Eigentümerversammlung Vorbereiten in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Eigentümerversammlung Vorbereiten

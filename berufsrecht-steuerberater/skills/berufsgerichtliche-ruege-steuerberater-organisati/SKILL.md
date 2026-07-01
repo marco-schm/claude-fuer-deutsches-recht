@@ -1,6 +1,6 @@
 ---
 name: berufsgerichtliche-ruege-steuerberater-organisati
-description: "Steuerberater: berufsgerichtliche ruege steuerberater - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Berufsgerichtliche Ruege Steuerberater Organisati in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: berufsgerichtliche ruege steuerberater - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

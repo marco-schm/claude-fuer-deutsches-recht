@@ -1,6 +1,6 @@
 ---
 name: customs-border-copyright
-description: "Prüft Grenzschutz, CBP recordation, infringing imports, counterfeit-adjacent goods and takedown at border im Us Copyright Registrierung Verlag."
+description: "Wenn es um Customs and Border Copyright in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Customs and Border Copyright

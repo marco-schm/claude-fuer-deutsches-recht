@@ -1,6 +1,6 @@
 ---
 name: modernisierungsankuendigung
-description: "Modernisierungsankündigung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Inhalt, Frist, Härteeinwand, Energieeffekte und Duldungsanspruch; mit Normprüfung, Beweisen, Fristen,..."
+description: "Wenn es um Modernisierungsankündigung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Modernisierungsankündigung: Fachmodul im Miet- und Wohnungseigentumsrecht

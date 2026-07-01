@@ -1,6 +1,6 @@
 ---
 name: kommunikation-presse-kunden
-description: "Steuert Kommunikation an Kunden, Presse, Behörden und Mitarbeiter im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Kommunikation Presse Kunden in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunikation Presse Kunden

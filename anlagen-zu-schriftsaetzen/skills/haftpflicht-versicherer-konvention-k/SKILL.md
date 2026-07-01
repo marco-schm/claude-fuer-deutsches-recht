@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-versicherer-konvention-k
-description: "Anlagen-Pflicht gegenueber Haftpflichtversicherer (Berufshaftpflicht, Hausratversicherung, KFZ): welche Anlagen muessen mit Schadenanzeige eingereicht werden, was der Versicherer im Regulierungsverfahren erwartet. Prüfraster aus § 31 VVG (Auskuenfte). Beispiele Personenschaden, Sachschaden, Verm"
+description: "Wenn es um Anlagen für Haftpflichtversicherer in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Haftpflicht Versicherer Konvention K; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Anlagen für Haftpflichtversicherer

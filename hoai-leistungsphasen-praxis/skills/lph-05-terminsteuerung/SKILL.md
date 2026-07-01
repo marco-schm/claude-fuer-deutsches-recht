@@ -1,6 +1,6 @@
 ---
 name: lph-05-terminsteuerung
-description: "HOAI LPH 5 Ausführungsplanung: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 5 Ausführungsplanung: Baut terminlog in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 5 Ausführungsplanung: Baut terminlog

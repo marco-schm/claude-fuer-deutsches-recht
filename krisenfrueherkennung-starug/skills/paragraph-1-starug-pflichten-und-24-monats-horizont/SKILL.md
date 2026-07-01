@@ -1,6 +1,6 @@
 ---
 name: paragraph-1-starug-pflichten-und-24-monats-horizont
-description: "§ 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklären und umsetzen: GF oder Berater fragt was StaRUG konkret verlangt. Normen: § 1 StaRUG (Frueherkennungspflicht GmbH/AG), § 18 InsO (drohende ZU als StaRUG-Zugang). Prüfraster: Adressatenkreis nach Rechtsform, 24-Monats-Planungsho..."
+description: "Wenn es um Paragraf 1 StaRUG — Krisenfrüherkennungspflicht und 24-Monats-Horizont in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 1 StaRUG — Krisenfrüherkennungspflicht und 24-Monats-Horizont

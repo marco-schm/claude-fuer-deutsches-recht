@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-leichte-sprache
-description: "Erklärung eines sozialrechtlichen Bescheids für den Mandanten in einfacher oder leichter Sprache: Drei Stufen Standardbrief (B1) Einfache Sprache (A2 nach GER)..."
+description: "Wenn es um Mandantenbrief Leichte Sprache in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Erklärung eines sozialrechtlichen Bescheids für den Mandanten in einfacher oder leichter Sprache

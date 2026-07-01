@@ -1,6 +1,6 @@
 ---
 name: intake-und-stammdaten-pruefen
-description: Erfassung und Pruefung der Stammdaten eines vorgelegten Arbeitszeugnisses auf Vollstaendigkeit und Richtigkeit ohne vorheriges Interview mit dem Mandanten.
+description: "Wenn es um Intake und Stammdaten pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Intake und Stammdaten pruefen

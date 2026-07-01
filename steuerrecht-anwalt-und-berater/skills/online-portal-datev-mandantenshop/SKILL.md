@@ -1,6 +1,6 @@
 ---
 name: online-portal-datev-mandantenshop
-description: "DATEV Unternehmen Online Mandantenshop. Anwendungsfall Belegtransfer Bank-Abruf Auswertungs-Download Mandantenakte digital für Mandant. Methodik Konfiguration Benutzer Schulung Mandant. Output eingerichtetes Portal."
+description: "Wenn es um DATEV Unternehmen Online — Mandantenshop in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DATEV Unternehmen Online — Mandantenshop

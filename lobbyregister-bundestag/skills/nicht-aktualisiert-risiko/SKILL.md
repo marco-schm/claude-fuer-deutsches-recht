@@ -1,6 +1,6 @@
 ---
 name: nicht-aktualisiert-risiko
-description: "Prüft Kennzeichnung nicht aktualisiert, Nachholfristen, Übertragung in fruehere Interessenvertreter und Reputationsfolgen. Output Rettungsplan im Lobbyregister Bundestag."
+description: "Wenn es um Nicht-aktualisiert Risiko in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nicht-aktualisiert Risiko

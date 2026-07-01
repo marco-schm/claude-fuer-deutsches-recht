@@ -1,6 +1,6 @@
 ---
 name: rom-085-roemisches-recht-fuer-anfaenger
-description: "Römisches Recht: Roemisches Recht Fuer Anfaenger. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Roemisches Recht Fuer Anfaenger in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Roemisches Recht Fuer Anfaenger

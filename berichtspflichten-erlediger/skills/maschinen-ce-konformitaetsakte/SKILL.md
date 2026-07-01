@@ -1,6 +1,6 @@
 ---
 name: maschinen-ce-konformitaetsakte
-description: "Maschinen/Anlagen: CE, Konformitätserklärung, technische Dokumentation, Risikobeurteilung und Marktüberwachung im Berichtspflichten."
+description: "Wenn es um Maschinen CE und technische Dokumentation in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Maschinen CE und technische Dokumentation

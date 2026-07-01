@@ -1,6 +1,6 @@
 ---
 name: foerderung-und-steuerliche-abschreibung
-description: "Förderung von Denkmalsanierung: direkte Zuschüsse der Länder und Kommunen, Bundesförderung über die Beauftragte der Bundesregierung für Kultur und Medien (BKM) und die Deutsche Stiftung Denkmalschutz, vor allem aber die steuerliche Förderung nach Paragrafen 7i und 11b EStG (Vermietung) sowie Paragraf 10f EStG (selbstgenutzt). Skill ordnet das Zusammenspiel von Denkmalbescheinigung und Steuerrecht."
+description: "Wenn es um Förderung und steuerliche Abschreibung in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Förderung und steuerliche Abschreibung

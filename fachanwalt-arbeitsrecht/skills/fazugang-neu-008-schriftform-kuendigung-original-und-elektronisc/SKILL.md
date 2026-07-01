@@ -1,6 +1,6 @@
 ---
 name: fazugang-neu-008-schriftform-kuendigung-original-und-elektronisc
-description: "Schriftform Kündigung Paragraf 623 BGB: Originalunterschrift zwingend, Faksimile unzulässig, elektronische Kommunikation (E-Mail, WhatsApp, Fax, Teams) genügt nicht: Schriftform Kündigung Paragraf 623 BGB: Originalunterschrift zwingend, Faksimile unzulässig, elektronisch..."
+description: "Wenn es um Fazugang Neu 008 Schriftform Kuendigung Original Und Elektronisc in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schriftform Kündigung Paragraf 623 BGB: Originalunterschrift zwingend, Faksimile unzulässig, elektronische Kommunikation (E-Mail, WhatsApp, Fax, Teams) genügt nicht

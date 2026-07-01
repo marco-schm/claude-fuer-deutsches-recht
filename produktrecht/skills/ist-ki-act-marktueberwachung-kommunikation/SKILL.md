@@ -1,6 +1,6 @@
 ---
 name: ist-ki-act-marktueberwachung-kommunikation
-description: "Schnelle Ist-das-ein-Problem?-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden wenn der Nutzer sagt ist das ein Problem, kurze Frage, können wir X machen, brauche ich rechtliche Prüfung für, Plausibilitätsprüfung, oder eine PM-Frage einfügt die eine Gleich-..."
+description: "Wenn es um /ist-das-ein-problem – Schnellprüfung in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # /ist-das-ein-problem – Schnellprüfung

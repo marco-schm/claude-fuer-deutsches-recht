@@ -1,6 +1,6 @@
 ---
 name: devops-cloud-control
-description: "Prüft DevOps-Verträge, CI/CD, Infrastructure as Code, Cloud Credentials, Betriebsverantwortung und Auditierbarkeit im Softwarerecht De Eu Us."
+description: "Wenn es um DevOps und Cloud Control in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # DevOps und Cloud Control

@@ -1,6 +1,6 @@
 ---
 name: lph-06-mangel-claim-vorsorge
-description: "HOAI LPH 6 Vorbereitung der Vergabe: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 6 Vorbereitung der Vergabe: Sichert spätere mängel- in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Sichert spätere mängel-

@@ -1,6 +1,6 @@
 ---
 name: versorgungswerk-rentenantrag
-description: "Rentenantrag beim Versorgungswerk: Satzung, Altersrente, Berufsunfähigkeitsrente, Hinterbliebenenversorgung, Beiträge und Nachweise im Rentenpruefer."
+description: "Wenn es um versorgungswerk-rentenantrag in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # versorgungswerk-rentenantrag

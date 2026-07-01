@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-endverwendung-endverwender-euc
-description: "Endverwender-Prüfung und End-Use-Certificate (EUC): Identifizierung des tatsaechlichen Endverwenders, Prüfen des Endverwendungszwecks und Authentizitaet der Endverwendungserklaerung nach BAFA-Anforderungen und VO (EU) 2021/821. Besondere Risiken bei Staatsunternehmen, Forschungseinrichtungen un..."
+description: "Wenn es um Endverwender-Prüfung und EUC: Authentizitaet und Risikoeinschaetzung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Endverwender-Prüfung und EUC: Authentizitaet und Risikoeinschaetzung

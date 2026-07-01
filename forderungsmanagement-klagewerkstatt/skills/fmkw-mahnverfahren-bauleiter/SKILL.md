@@ -1,6 +1,6 @@
 ---
 name: fmkw-mahnverfahren-bauleiter
-description: "Bauleiter automatisiertes Mahnverfahren Paragrafen 688 ff. ZPO: Mahnbescheid, Widerspruch, Vollstreckungsbescheid. Pruefraster fuer Glaeubiger und Inkassodienstleister."
+description: "Wenn es um FMKW: Mahnverfahren Bauleiter in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # FMKW: Mahnverfahren Bauleiter

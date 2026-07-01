@@ -1,6 +1,6 @@
 ---
 name: zuschauerhaftung-paragraf-9a-veranstg
-description: "Zuschauerhaftung § 9a Veranstg: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Zuschauerhaftung Paragraf 9a Veranstg in Fachanwalt Sportrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zuschauerhaftung § 9a Veranstg

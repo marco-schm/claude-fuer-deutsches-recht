@@ -1,6 +1,6 @@
 ---
 name: franchisenehmer-exit-qualitaetsgate
-description: "Exit-Strategie für Franchisenehmer entwickeln: ordentliche und ausserordentliche Kündigung, Übertragung des Franchisebetriebs auf Dritten mit Franchisegeberzustimmung, Ausgleichsansprüche nach § 89b HGB analog und Nachfolge- oder Verkaufsoptionen im Franchiserecht."
+description: "Wenn es um Franchiserecht: Franchisenehmer-Exit-Plan in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Franchiserecht: Franchisenehmer-Exit-Plan

@@ -1,6 +1,6 @@
 ---
 name: einstieg-schnelltriage-fallrouting
-description: "Einstieg, Schnelltriage und Fallrouting im Fachanwalt Migrationsrecht-Plugin: führt durch Aufenthaltstitel, Blaue Karte EU, Visum, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Abschiebungsabwehr, Ausweisung, Staaten-/Gebietsbezug, Sprache, Fristen und..."
+description: "Wenn es um Einstieg Schnelltriage Fallrouting in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg, Schnelltriage und Fallrouting im Fachanwalt Migrationsrecht-Plugin: führt durch Aufenthaltstitel, Blaue Karte EU, Visum, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Abschiebungsabwehr, Ausweisung, Staaten-/Gebietsbezug, Sprache, Fristen und passende Anschluss-Skills.

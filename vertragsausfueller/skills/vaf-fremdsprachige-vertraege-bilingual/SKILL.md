@@ -1,6 +1,6 @@
 ---
 name: vaf-fremdsprachige-vertraege-bilingual
-description: "Spezialfall fremdsprachige und bilinguale Vertraege: Sprache fuer rechtlich verbindliche Auslegung definieren, Konsistenz Glossar, Uebersetzung als Anlage. Risiken bei Verwendung von DeepL und LLM. Pruefraster und Mustertexte."
+description: "Wenn es um Bilinguale Vertraege in Vertragsausfüller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bilinguale Vertraege

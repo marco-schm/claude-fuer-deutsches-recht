@@ -1,6 +1,6 @@
 ---
 name: arbeitsnaher-dienstvertrag-bgb
-description: "Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB."
+description: "Wenn es um Arbeitsnaher Dienstvertrag im BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsnaher Dienstvertrag im BGB

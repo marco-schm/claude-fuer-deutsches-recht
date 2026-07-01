@@ -1,6 +1,6 @@
 ---
 name: ein-099-wohnhaus-ddr-enteignung-klage-skizzier
-description: "Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Klage skizzieren: Klage skizzieren für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Z..."
+description: "Wenn es um Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Klage skizzieren in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Klage skizzieren

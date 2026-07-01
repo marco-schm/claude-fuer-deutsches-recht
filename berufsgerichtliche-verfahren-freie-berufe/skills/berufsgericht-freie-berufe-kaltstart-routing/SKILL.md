@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-freie-berufe-kaltstart-routing
-description: "Allgemeiner Kaltstart und Routing: führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur."
+description: "Wenn es um Allgemeiner Kaltstart und Routing in Berufsgerichtliche Verfahren Freie Berufe geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Allgemeiner Kaltstart und Routing

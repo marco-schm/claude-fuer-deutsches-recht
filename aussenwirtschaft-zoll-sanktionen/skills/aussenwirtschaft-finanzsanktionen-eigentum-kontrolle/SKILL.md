@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-finanzsanktionen-eigentum-kontrolle
-description: "Prüfung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Personen nach Art. 2 Abs. 1 lit. a VO (EU) 269/2014 und EU-Leitlinien zur 50-%-Regel: Mehrheitsbesitz, mittelbare Kontrolle, Treuhandstrukturen. Umgehungsrisiken bei Tochtergesellschaften und Geschäftspartnern. Output:..."
+description: "Wenn es um 50-Prozent-Regel bei Sanktionen: Eigentum, Kontrolle und Umgehungsrisiken in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 50-Prozent-Regel bei Sanktionen: Eigentum, Kontrolle und Umgehungsrisiken

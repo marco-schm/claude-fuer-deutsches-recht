@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-cbam-zertifikate-kosten
-description: "Kosten und Beschaffung von CBAM-Zertifikaten ab 2026: Berechnung der erforderlichen Zertifikatsanzahl, Kauf ueber nationales CBAM-Konto, Anrechnung ausländischer CO2-Preise und Jahresabgabe. Risikomanagement bei schwankenden ETS-Preisen. Output: CBAM-Zertifikatsstrategie mit Kostenmodell und Bes..."
+description: "Wenn es um CBAM-Zertifikate: Beschaffung, Kosten und Jahresabgabepflicht in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # CBAM-Zertifikate: Beschaffung, Kosten und Jahresabgabepflicht

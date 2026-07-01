@@ -1,6 +1,6 @@
 ---
 name: auflagen-auflagenverstoss-owi
-description: "Prüft Beschränkungen, Auflagen und Nebenbestimmungen auf Rechtsgrundlage, Tatsachenbasis und Verhältnismäßigkeit im Versammlungsrecht."
+description: "Wenn es um Auflagen brauchen mehr als Bauchgefühl in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auflagen brauchen mehr als Bauchgefühl

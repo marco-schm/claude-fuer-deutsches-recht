@@ -1,6 +1,6 @@
 ---
 name: antrag-stellungnahme-erklaerung
-description: "Hilft bei Antrag Stellungnahme Erklaerung für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache."
+description: "Wenn es um Antrag Stellungnahme Erklaerung in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Antrag Stellungnahme Erklaerung

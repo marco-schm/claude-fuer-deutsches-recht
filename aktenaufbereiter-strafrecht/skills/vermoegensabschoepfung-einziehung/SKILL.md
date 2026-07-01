@@ -1,6 +1,6 @@
 ---
 name: vermoegensabschoepfung-einziehung
-description: "Vermögensabschoepfung §§ 73 ff. StGB prüfen und angreifen: Brutto-Prinzip, erweiterte Einziehung § 73a StGB, Wertersatzeinziehung § 73c StGB, gutglaeubige Dritte § 73e StGB. Prüfraster, Antragsentwurf gegen Einziehung, Saemtliche Sicherstellungen prüfen (§§ 111b ff. StPO) im Strafrechts-Akten..."
+description: "Wenn es um Vermögensabschoepfung/Einziehung in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vermögensabschoepfung/Einziehung

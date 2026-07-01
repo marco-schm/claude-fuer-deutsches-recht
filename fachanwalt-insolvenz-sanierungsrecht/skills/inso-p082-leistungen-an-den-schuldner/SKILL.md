@@ -1,6 +1,6 @@
 ---
 name: inso-p082-leistungen-an-den-schuldner
-description: "§ 82 InsO (Leistungen an den Schuldner) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 82 InsO (Leistungen an den Schuldner) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge,..."
+description: "Wenn es um Inso P082 Leistungen An Den Schuldner in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 82 InsO (Leistungen an den Schuldner) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

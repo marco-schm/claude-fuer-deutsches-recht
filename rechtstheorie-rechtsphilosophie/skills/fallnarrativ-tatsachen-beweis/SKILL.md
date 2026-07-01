@@ -1,6 +1,6 @@
 ---
 name: fallnarrativ-tatsachen-beweis
-description: "Prüft, wie Narrativ, Tatsachen, Beweis und Normauswahl zusammenwirken und wo Erzählungen die Rechtsfrage verschieben."
+description: "Wenn es um Fallnarrativ, Tatsachen, Beweis in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fallnarrativ, Tatsachen, Beweis

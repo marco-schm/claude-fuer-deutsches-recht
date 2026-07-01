@@ -1,6 +1,6 @@
 ---
 name: 08-votum-wissenschaftlicher-mitarbeiter
-description: "Strukturiertes Votum: Sachverhalt verkuerzt, Prüfungspunkte Zulässigkeit (Frist Substantiierung Rechtsweg Subsidiaritaet), Prüfungspunkte Begründetheit (Schutzbereich Eingriff Rechtfertigung), Entscheidungsvorschlag (Annahme, Nichtannahme, Hinweise auf Senatszuständigkeit)"
+description: "Wenn es um 08 Votum Wissenschaftlicher Mitarbeiter in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 08 Votum Wissenschaftlicher Mitarbeiter

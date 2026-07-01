@@ -1,6 +1,6 @@
 ---
 name: spezial-kschg-risikoampel-und-gegenargumente
-description: "Kschg: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Kschg: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kschg: Risikoampel, Gegenargumente und Verteidigungslinien

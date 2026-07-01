@@ -1,6 +1,6 @@
 ---
 name: spezial-rechtsprechung-livequellen-und-rechtsprechungscheck
-description: "Rechtsprechung: Livequellen- und Rechtsprechungscheck im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Rechtsprechung: Livequellen- und Rechtsprechungscheck in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsprechung: Livequellen- und Rechtsprechungscheck

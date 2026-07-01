@@ -1,6 +1,6 @@
 ---
 name: lease-053-cnc-maschine-abnahme-maengel
-description: "Prueft Maschinenleasing bei Abnahme, Stillstand, Softwaresteuerung, Lieferantenmangel, Durchgriff und Produktionsausfall."
+description: "Wenn es um CNC-Maschine Abnahme und Mängel in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CNC-Maschine Abnahme und Mängel

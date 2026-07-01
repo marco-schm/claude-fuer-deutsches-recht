@@ -1,6 +1,6 @@
 ---
 name: dba-ungarn
-description: "DBA Deutschland Ungarn 2011. Anwendungsfall Automotive-Zulieferer Holding Beteiligungen Pensionen Lizenzen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Ungarn (2011) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Ungarn (2011)

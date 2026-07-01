@@ -1,6 +1,6 @@
 ---
 name: internationale-country-route-design
-description: "Internationale Designstrategie für USA, UK, China, Japan, Schweiz und weitere Märkte vorbereiten: Hague oder national, Fristen, lokale Besonderheiten und Counsel-Fragen im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Internationale Country Route Design in designrecht-geschmacksmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Internationale Country Route Design

@@ -1,6 +1,6 @@
 ---
 name: dsv-art-9-besondere-kategorien
-description: "Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art: 9 DSGVO. Behandelt: rassische/ethnische Herkunft; politische Meinunge"
+description: "Wenn es um Dsv Art 9 Besondere Kategorien in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art

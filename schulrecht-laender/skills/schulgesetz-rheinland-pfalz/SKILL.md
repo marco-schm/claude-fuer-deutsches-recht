@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-rheinland-pfalz
-description: "Prüft Schulrecht in Rheinland-Pfalz mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder."
+description: "Wenn es um Schulgesetz Rheinland Pfalz in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulgesetz Rheinland Pfalz

@@ -1,6 +1,6 @@
 ---
 name: bmwe-industriepolitik-foerderrecht-und-beihilfen
-description: "Sachbereich Industriepolitik; Foerderrecht; EU-Beihilfen im Geschäftsbereich BMWE: Normbestand (BHO; SubvG; AGVO; Notifizierungspflicht (Art. 108 AEUV); ggf. IPCEI-Regeln.); Akteure (BMWE; Bafa; Projekttraeger; EU-Kommission GD COMP.); EU-Bezug (AGVO; KMU-Definition; Klimaschutz-Beihilfeleitlini"
+description: "Wenn es um Industriepolitik; Foerderrecht; EU-Beihilfen (BMWE) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmwe Industriepolitik Foerderrecht Und Beihilfen; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Industriepolitik; Foerderrecht; EU-Beihilfen (BMWE)

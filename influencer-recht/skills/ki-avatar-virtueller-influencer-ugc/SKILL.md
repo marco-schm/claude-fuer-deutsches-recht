@@ -1,6 +1,6 @@
 ---
 name: ki-avatar-virtueller-influencer-ugc
-description: "Influencer-Recht: KI-Avatar und Deepfakes – Einwilligung, Persönlichkeitsrecht, KUG, strafrechtliche Risiken und EU AI Act im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: digitale Werkzeuge-Avatar, Deepfake und Einwilligung in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Influencer-Recht: KI-Avatar, Deepfake und Einwilligung

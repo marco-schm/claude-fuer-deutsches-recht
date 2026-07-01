@@ -1,6 +1,6 @@
 ---
 name: notariat-032-kapitalerhoehung-bar-sache-bezugsrecht
-description: "Notariat im Alltag: Kapitalerhöhung Barkapital Sachkapital Bezugsrecht und Handelsregister mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Notariat im Alltag: Kapitalerhöhung Barkapital Sachkapital Bezugsrecht und Handelsregister in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Kapitalerhöhung Barkapital Sachkapital Bezugsrecht und Handelsregister

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Datenschutzrecht DSGVO/BDSG: ordnet Rolle (Verantwortlicher, Auftragsverarbeiter, Betroffener), markiert Frist (Art. 33 Meldung 72h), wählt Norm (DSGVO Art. 5/6/13/15/28/32/33/35, BDSG, TTDSG) und Zuständigkeit (BfDI Bund), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

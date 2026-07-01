@@ -1,6 +1,6 @@
 ---
 name: auslandsdienstbezuege-bbesg
-description: "Skill zu Auslandsdienstbezuegen im Auswaertigen Dienst und in der Auslandsverwendung. Klaert Auslandszuschlag Kaufkraftausgleich Mietzuschuss Auslandskinderzuschlag Bewertung der Auslandsdienstpostenkategorie und Bezuege bei Hardship-Posten. Behandelt das Verhältnis zur Bundesbesoldung und die B..."
+description: "Wenn es um Auslandsdienstbezuege nach BBesG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auslandsdienstbezuege nach BBesG

@@ -1,6 +1,6 @@
 ---
 name: mehrparteien-rollen-und-praefixe
-description: "Entwirft Nummernkreise bei Streitgenossen, Nebenintervention, Widerklage, Drittwiderklage, selbständigem Beweisverfahren und parallelen Verfahren."
+description: "Wenn es um Mehrparteien, Rollen und Präfixe in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mehrparteien, Rollen und Präfixe

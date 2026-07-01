@@ -1,6 +1,6 @@
 ---
 name: empirie-im-zivilrecht-quellenkritik
-description: "Prüft den methodisch korrekten Umgang mit empirischen Quellen in zivilrechtlichen Entscheidungen und Gutachten. Das Skill analysiert, welche empirischen Befunde in rechtliche Argumentation einbezogen werden dürfen, wie Studien und Statistiken quellenkritisch bewertet werden und wo die Grenzen zwi..."
+description: "Wenn es um Empirie im Zivilrecht: Quellenkritik und methodischer Umgang in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Empirie im Zivilrecht: Quellenkritik und methodischer Umgang

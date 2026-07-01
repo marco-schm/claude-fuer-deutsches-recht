@@ -1,6 +1,6 @@
 ---
 name: netzentgelte-rechtsfragen-redispatch-spezial-typ-anfrage
-description: "Netzentgelte aktuell: § 19 Abs. 2 StromNEV individuelle Netzentgelte, BNetzA-Festlegung StromNEV 2027 ff., Stationaere Speicher, Industriestromentgelt. Praxis: Antragsverfahren, Anwendungsfaelle Energieintensive, Klagewege gegen BNetzA-Festlegungen im Energierecht."
+description: "Wenn es um Netzentgelte: Rechtsfragen in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Netzentgelte: Rechtsfragen

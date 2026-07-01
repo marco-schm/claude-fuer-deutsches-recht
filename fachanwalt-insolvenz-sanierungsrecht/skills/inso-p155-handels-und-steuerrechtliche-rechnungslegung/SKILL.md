@@ -1,6 +1,6 @@
 ---
 name: inso-p155-handels-und-steuerrechtliche-rechnungslegung
-description: "§ 155 InsO (Handels- und steuerrechtliche Rechnungslegung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 155 InsO (Handels- und steuerrechtliche Rechnungslegung) im Mandat prüfen: Normzw..."
+description: "Wenn es um Inso P155 Handels Und Steuerrechtliche Rechnungslegung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 155 InsO (Handels- und steuerrechtliche Rechnungslegung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

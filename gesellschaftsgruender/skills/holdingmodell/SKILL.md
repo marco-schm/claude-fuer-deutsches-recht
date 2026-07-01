@@ -1,6 +1,6 @@
 ---
 name: holdingmodell
-description: "Prüft Holding vor operativer Gesellschaft, Beteiligungen, Steuer-/Haftungs- und Governancefragen im Gesellschaftsgruender."
+description: "Wenn es um Holdingmodell Gründer in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Holdingmodell Gründer

@@ -1,6 +1,6 @@
 ---
 name: archivierung-screenshots
-description: "Wahlkampfrecht Praxis: digitale Beweise für schnelle Praxis sichern im Wahlkampfrecht."
+description: "Wenn es um Archivierung Screenshots in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Archivierung Screenshots

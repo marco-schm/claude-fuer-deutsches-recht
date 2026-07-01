@@ -1,6 +1,6 @@
 ---
 name: hoai-bauueberwachung-private-bauueberwachung
-description: "Prueft HOAI-Leistungsphasen als Planungs- und Ueberwachungsraster beim Bautraegervertrag. Schwerpunkt Leistungsphase 8 Objektueberwachung und Dokumentation. Erwerber darf eigene Sachverstaendige hinzuziehen; Klauseln die private Baukontrolle pauschal ausschliessen sind rot."
+description: "Wenn es um HOAI, Bauüberwachung und private Bauüberwachung in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # HOAI, Bauüberwachung und private Bauüberwachung

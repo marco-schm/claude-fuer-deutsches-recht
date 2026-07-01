@@ -1,6 +1,6 @@
 ---
 name: sozialamt-grundsicherung
-description: "Hilft bei Grundsicherung, Hilfe zum Lebensunterhalt, Mehrbedarf, Unterkunft, Rückforderung und Widerspruch im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Sozialamt / Grundsicherung in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sozialamt / Grundsicherung

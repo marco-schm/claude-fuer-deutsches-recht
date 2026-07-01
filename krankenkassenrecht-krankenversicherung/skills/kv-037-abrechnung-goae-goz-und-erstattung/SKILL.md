@@ -1,6 +1,6 @@
 ---
 name: kv-037-abrechnung-goae-goz-und-erstattung
-description: "Krankenversicherung: Abrechnung GOÄ GOZ und Erstattung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Abrechnung GOÄ GOZ und Erstattung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Abrechnung GOÄ GOZ und Erstattung

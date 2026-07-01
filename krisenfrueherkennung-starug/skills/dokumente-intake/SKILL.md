@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Krisenfrüherkennung StaRUG: sortiert Liquiditätsplan, Frühwarn-Indikatoren, Sanierungskonzept IDW S 6, prüft Datum, Absender, Frist und Beweiswert (Forderungen offen, Bankenrunde-Protokolle); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

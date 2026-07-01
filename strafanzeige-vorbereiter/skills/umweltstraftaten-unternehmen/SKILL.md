@@ -1,6 +1,6 @@
 ---
 name: umweltstraftaten-unternehmen
-description: "Umweltstraftaten anzeigen: Gewässer, Boden, Luft, Abfall, Genehmigungen, Beweise und Umweltbehörde im Strafanzeige-Vorbereitung."
+description: "Wenn es um Umweltstraftaten Paragrafen 324 ff. StGB in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Umweltstraftaten §§ 324 ff. StGB

@@ -1,6 +1,6 @@
 ---
 name: bsfz-bescheinigung-projektbeschreibung
-description: "BSFZ-Antrag und FuE-Projektbeschreibung praxistauglich erstellen: Portaltexte mit Zeichenbudgets, Ausgangsproblem, Stand der Technik, Neuheit, technisches Risiko, systematisches Vorgehen, Arbeitspakete, Prüferlogik, Anti-Floskel-Regeln und Strategie Einzelantrag vs. Projektbündel."
+description: "Wenn es um BSFZ-Bescheinigung und Projektbeschreibung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # BSFZ-Bescheinigung und Projektbeschreibung

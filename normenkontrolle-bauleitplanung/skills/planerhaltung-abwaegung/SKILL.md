@@ -1,6 +1,6 @@
 ---
 name: planerhaltung-abwaegung
-description: "Planerhaltung, Abwägung und Antragsbefugnis: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Normenkontrolle Bauleitplanung."
+description: "Wenn es um Planerhaltung, Abwägung und Antragsbefugnis in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Planerhaltung, Abwägung und Antragsbefugnis

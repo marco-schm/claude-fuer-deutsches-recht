@@ -1,6 +1,6 @@
 ---
 name: standardvertragsklauseln-scc-paket
-description: "Standardvertragsklauseln für Drittlandtransfers nach Art. 46 DSGVO vorbereiten: SCC-Modulwahl 1-4, Annex I-III, Subprozessoren, TOMs, AVV-Schnittstelle, TIA-Andockung, Signatur- und Behördenpaket ohne Veränderung der offiziellen Klauseln."
+description: "Wenn es um Standardvertragsklauseln-SCC-Paket in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Standardvertragsklauseln-SCC-Paket

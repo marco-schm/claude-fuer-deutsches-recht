@@ -1,6 +1,6 @@
 ---
 name: inso-p341-ausubung-von-glaubigerrechten
-description: "§ 341 InsO (Ausübung von Gläubigerrechten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 341 InsO (Ausübung von Gläubigerrechten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsf..."
+description: "Wenn es um Inso P341 Ausubung Von Glaubigerrechten in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 341 InsO (Ausübung von Gläubigerrechten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

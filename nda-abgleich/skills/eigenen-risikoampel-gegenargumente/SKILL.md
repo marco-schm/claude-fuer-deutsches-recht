@@ -1,6 +1,6 @@
 ---
 name: eigenen-risikoampel-gegenargumente
-description: "Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4..."
+description: "Wenn es um Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eigenen Risikoampel Gegenargumente; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien

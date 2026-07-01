@@ -1,6 +1,6 @@
 ---
 name: automation-monitoring
-description: "Automationen und Monitoring: Entwirft Monitore für Datenraum-Neuzugaenge, Q&A-Status, CP-Deadlines, Registerupdates, MAR-Signale und PMI-Aufgaben im Corporate/M&A-Kontext. Normen: MAR Art. 17, § 41 GWB (Vollzugsverbot), § 56 AWV."
+description: "Wenn es um Automationen und Monitoring in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Automation Monitoring; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # Automationen und Monitoring

@@ -1,6 +1,6 @@
 ---
 name: heilpraktiker-alternative-medizin-und-tarifbedingungen
-description: "Erstattung von Heilpraktiker-Behandlungen und alternativer Medizin in PKV und GKV: Tarif­bedingungen, Leistungsumfang, Evidenzanforderungen und Ablehnungsgründe im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Heilpraktiker, Alternative Medizin und Tarifbedingungen in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Heilpraktiker, Alternative Medizin und Tarifbedingungen

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-verkehrsstrafrecht-316-stgb-trunkenheit
-description: "Trunkenheit im Verkehr nach Paragraph 316 StGB: Abstraktes Gefaehrdungsdelikt ohne konkrete Gefahr. Absolute Fahruntuechtigkeit ab 1.1 Promille Blutalkoholkonzentration; relative Fahruntuechtigkeit ab 0.3 Prom..."
+description: "Wenn es um Trunkenheit im Verkehr nach Paragraph 316 StGB in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Trunkenheit im Verkehr nach Paragraph 316 StGB

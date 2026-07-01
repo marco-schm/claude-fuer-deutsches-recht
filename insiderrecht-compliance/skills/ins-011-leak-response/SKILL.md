@@ -1,6 +1,6 @@
 ---
 name: ins-011-leak-response
-description: "Fuehrt durch Geruecht, Presseleck, Kursbewegung, Anfrage BaFin/Boerse und beschleunigte Ad-hoc-Entscheidung."
+description: "Wenn es um Leak Response in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leak Response

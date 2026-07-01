@@ -1,6 +1,6 @@
 ---
 name: rechnungserstellung-rvg
-description: "Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG Gebührentabelle) oder nach Honorarvereinbarung mit Stundensatz. Pflichtangaben § 10 RVG (Aktenzeichen Mandant Gegenstand der Tätigkeit Verguetungstatbestaende Stundensaetze Auslagen Umsatzsteuer Gesamtbetrag Zahlungsweg Belehrung)...."
+description: "Wenn es um Rechnungserstellung Honorar (RVG oder Vereinbarung) in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Rechnungserstellung Honorar (RVG oder Vereinbarung)

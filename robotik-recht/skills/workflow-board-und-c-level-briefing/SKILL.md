@@ -1,6 +1,6 @@
 ---
 name: workflow-board-und-c-level-briefing
-description: "Übersetzt komplexes Robotikrecht in entscheidungsfähige Vorstands-/C-Level-Vorlagen mit Risiko, Optionen, Zeitplan und Budget im Robotik-Recht."
+description: "Wenn es um Board- und C-Level-Briefing in robotik-recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Workflow Board Und C Level Briefing; Arbeitsfeld: robotik-recht."
 ---
 
 # Board- und C-Level-Briefing

@@ -1,6 +1,6 @@
 ---
 name: inso-p111-verausserung-des-miet-oder-pachtobjekts
-description: "§ 111 InsO (Veräußerung des Miet- oder Pachtobjekts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 111 InsO (Veräußerung des Miet- oder Pachtobjekts) im Mandat prüfen: Normzweck, Tatbest..."
+description: "Wenn es um Inso P111 Verausserung Des Miet Oder Pachtobjekts in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 111 InsO (Veräußerung des Miet- oder Pachtobjekts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

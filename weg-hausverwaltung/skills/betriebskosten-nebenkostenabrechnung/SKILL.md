@@ -1,6 +1,6 @@
 ---
 name: betriebskosten-nebenkostenabrechnung
-description: "WEG- und Hausverwaltungs-Schnittstelle Betriebskosten: erstellt und kontrolliert mietrechtliche Betriebskostenabrechnungen aus WEG-Jahresabrechnung, Wirtschaftsplan, Heizkostenabrechnung und Belegen; mit BetrKV, HeizkostenV, CO2KostAufG, § 556 BGB, Abrechnungsspitze und Datenpaket für vermietende..."
+description: "Wenn es um Betriebskosten und Nebenkosten in der WEG-Verwaltung in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Betriebskosten und Nebenkosten in der WEG-Verwaltung

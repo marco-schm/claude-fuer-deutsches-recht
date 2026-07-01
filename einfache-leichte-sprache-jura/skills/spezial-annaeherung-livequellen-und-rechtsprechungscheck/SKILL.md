@@ -1,6 +1,6 @@
 ---
 name: spezial-annaeherung-livequellen-und-rechtsprechungscheck
-description: "Annaeherung: Livequellen- und Rechtsprechungscheck im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Annaeherung: Livequellen- und Rechtsprechungscheck in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Annaeherung: Livequellen- und Rechtsprechungscheck

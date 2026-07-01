@@ -1,6 +1,6 @@
 ---
 name: sanierung-insolvenzreife
-description: "Prüft Insiderrecht-Pflichten in Restrukturierungsverfahren (StaRUG, Schutzschirm, Insolvenzplan): Insiderinformations-Zeitpunkte, Ad-hoc und Gläubiger-Informationsfluss im Insiderrecht Compliance."
+description: "Wenn es um Sanierung und StaRUG – Insiderrecht bei Restrukturierung in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sanierung und StaRUG – Insiderrecht bei Restrukturierung

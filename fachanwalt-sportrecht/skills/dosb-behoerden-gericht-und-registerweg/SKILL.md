@@ -1,6 +1,6 @@
 ---
 name: dosb-behoerden-gericht-und-registerweg
-description: "Dosb: Behörden-, Gerichts- oder Registerweg: Dosb: Behörden-, Gerichts- oder Registerweg."
+description: "Wenn es um Dosb: Behörden-, Gerichts- oder Registerweg in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dosb: Behörden-, Gerichts- oder Registerweg

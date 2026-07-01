@@ -1,6 +1,6 @@
 ---
 name: negotiorum-gestio-ungerechtfertigte
-description: "Römisches Recht: Negotiorum gestio (Geschäftsführung ohne Auftrag) nach D. 3.5 und Iust. Inst. 3.27 - utiliter gestum, actio negotiorum gestorum directa/contraria und Haftungsmaßstab im Römisches Recht."
+description: "Wenn es um Negotiorum gestio - Geschäftsführung ohne Auftrag in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Negotiorum gestio - Geschäftsführung ohne Auftrag

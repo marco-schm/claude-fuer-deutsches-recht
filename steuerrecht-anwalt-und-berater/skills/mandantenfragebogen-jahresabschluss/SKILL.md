@@ -1,6 +1,6 @@
 ---
 name: mandantenfragebogen-jahresabschluss
-description: "Mandantenfragebogen zum Jahresabschluss. Anwendungsfall JA-Vorbereitung systematische Datenerhebung vom Mandanten Bestaende Forderungen Verbindlichkeiten Rückstellungen Sondervorgaenge. Methodik strukturierter Fragebogen Prüfliste. Output ausgefuellter Fragebogen Datenbasis für Jahresabschluss."
+description: "Wenn es um Mandantenfragebogen zum Jahresabschluss in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantenfragebogen zum Jahresabschluss

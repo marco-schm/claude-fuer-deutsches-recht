@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-memo
-description: "Gesellschaftsrechtliche Treuepflicht: Treuepflicht Memo; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
+description: "Wenn es um Treuepflicht Memo in Gesellschaftsrechtliche Treuepflicht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Treuepflicht Memo

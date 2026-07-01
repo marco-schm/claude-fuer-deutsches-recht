@@ -1,6 +1,6 @@
 ---
 name: kanzlei-mehrparteien-konflikt-und-interessen
-description: "Kanzlei: Mehrparteienkonflikt und Interessenmatrix: Kanzlei: Mehrparteienkonflikt und Interessenmatrix."
+description: "Wenn es um Kanzlei: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzlei: Mehrparteienkonflikt und Interessenmatrix

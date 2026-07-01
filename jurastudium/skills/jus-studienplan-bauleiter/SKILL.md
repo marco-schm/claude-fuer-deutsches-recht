@@ -1,6 +1,6 @@
 ---
 name: jus-studienplan-bauleiter
-description: "Bauleiter Studienplan Jura: Pflichtfaecher, Schwerpunktbereich, Examensvorbereitung, Auslandssemester. Prüfraster für typische Prüfungsordnungen im Jurastudium."
+description: "Wenn es um JuS: Studienplan Bauleiter in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # JuS: Studienplan Bauleiter

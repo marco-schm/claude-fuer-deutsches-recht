@@ -1,6 +1,6 @@
 ---
 name: versorgungsabschlag-14-beamtvg
-description: "Skill zum Versorgungsabschlag bei vorzeitigem Eintritt in den Ruhestand nach § 14 Abs. 3 BeamtVG. Klaert die Hoehe des Abschlags die Konstellationen Antragsruhestand vor Erreichen der Regelaltersgrenze und Ruhestand wegen Dienstunfaehigkeit sowie die Ausnahmen für schwerbehinderte Beamte und für..."
+description: "Wenn es um Versorgungsabschlag Paragraf 14 Abs. 3 BeamtVG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versorgungsabschlag § 14 Abs. 3 BeamtVG

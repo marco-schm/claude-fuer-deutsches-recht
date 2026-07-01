@@ -1,6 +1,6 @@
 ---
 name: lohn-direktversicherung-3-nr-63-estg
-description: "Direktversicherung Steuerfreiheit § 3 Nr 63 EStG bis 8 Prozent BBG SV-frei bis 4 Prozent BBG. Anwendungsfall Entgeltumwandlung Direktversicherung Konfiguration Mandant AG-Zuschuss 15 Prozent. Methodik Beitragsberechnung Beitragsbemessung Auswirkung Netto. Output Lohn-Konfiguration mit Direktversi..."
+description: "Wenn es um Direktversicherung — Paragraf 3 Nr. 63 EStG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Direktversicherung — § 3 Nr. 63 EStG

@@ -1,6 +1,6 @@
 ---
 name: landrat-finanzierung-erklaeren
-description: "der Länder: Landrat: Finanzierung erklären im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Landrat Finanzierung Erklaeren in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landrat Finanzierung Erklaeren

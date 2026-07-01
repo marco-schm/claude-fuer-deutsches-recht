@@ -1,6 +1,6 @@
 ---
 name: orientierung
-description: "Orientierungs-Skill für Anwaeltinnen und Anwaelte im Steuerrecht. Anwendungsfall Einstieg in das Plugin oder Überblick über verfuegbare Skills gewuenscht. Zentrale Gesetze AO EStG KStG UStG GewStG ErbStG GrEStG. Verfahrenswege Einspruch § 347 AO AdV § 361 AO Aussenprüfung §§ 193 ff. AO FG-Klage F..."
+description: "Wenn es um Anwalt im Steuerrecht — Orientierung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwalt im Steuerrecht — Orientierung

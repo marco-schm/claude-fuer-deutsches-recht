@@ -1,6 +1,6 @@
 ---
 name: zitat-bag-bfh-bsg
-description: "Fachgerichtsbarkeit zitieren: BAG, BFH, BSG, BVerwG, BGH. Format Senat, Datum, Aktenzeichen, amtliche Sammlung sowie Parallel-Fundstelle. Beispiel BAG, Urt. v. 12.09.2023 9 AZR 372 aus 22, BAGE 178 S. 199 = NZA 2023 S. 1521."
+description: "Wenn es um Fachgerichtsbarkeit zitieren in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitat Bag Bfh Bsg; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Fachgerichtsbarkeit zitieren

@@ -1,6 +1,6 @@
 ---
 name: inso-p103-wahlrecht-des-insolvenzverwalters
-description: "§ 103 InsO (Wahlrecht des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 103 InsO (Wahlrecht des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege,..."
+description: "Wenn es um Inso P103 Wahlrecht Des Insolvenzverwalters in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 103 InsO (Wahlrecht des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: luft-052-registerpfandrecht-register-auswerten
-description: "Luftrecht und Flughafenrecht: Registerpfandrecht: Register auswerten. Register auswerten für Registerpfandrecht im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Registerpfandrecht Register Auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerpfandrecht Register Auswerten

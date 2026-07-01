@@ -1,6 +1,6 @@
 ---
 name: antragspflicht-15a-17-19
-description: "Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
+description: "Wenn es um Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung

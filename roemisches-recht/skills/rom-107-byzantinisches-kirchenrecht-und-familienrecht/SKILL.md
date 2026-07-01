@@ -1,6 +1,6 @@
 ---
 name: rom-107-byzantinisches-kirchenrecht-und-familienrecht
-description: "Römisches Recht: Byzantinische Schnittstelle von Kirchenrecht, Ehe, Familie, Erbe, Moralordnung und kaiserlicher Gesetzgebung."
+description: "Wenn es um Byzantinisches Kirchenrecht und Familienrecht in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Byzantinisches Kirchenrecht und Familienrecht

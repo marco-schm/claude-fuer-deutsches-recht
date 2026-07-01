@@ -1,6 +1,6 @@
 ---
 name: kom-128-strassenreinigung-zustaendigkeit-pruef
-description: "Kommunalrecht der Länder: Straßenreinigung: Zuständigkeit prüfen. Zuständigkeit prüfen für Straßenreinigung im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Strassenreinigung Zustaendigkeit Pruef in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strassenreinigung Zustaendigkeit Pruef

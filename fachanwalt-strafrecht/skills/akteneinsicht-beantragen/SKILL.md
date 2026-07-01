@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-beantragen
-description: "Akteneinsicht § 147 StPO: Verteidigerrecht nach Abs: 1, Teilversagung im laufenden Ermittlungsverfahren nur bei Gefaehrdung des Untersuchungszwecks, U-Haft-Mindestinformationen nach Abs. 2 S. 2, eigenes A..."
+description: "Wenn es um Akteneinsicht Paragraf 147 StPO: Verteidigerrecht nach Abs in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Akteneinsicht § 147 StPO: Verteidigerrecht nach Abs

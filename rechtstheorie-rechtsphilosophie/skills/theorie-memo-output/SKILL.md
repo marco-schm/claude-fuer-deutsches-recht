@@ -1,6 +1,6 @@
 ---
 name: theorie-memo-output
-description: "Erstellt aus rechtstheoretischer Analyse ein nutzbares Memo mit These, Begriffsarbeit, Methodenpfad, Gegenargument und Praxisfolge."
+description: "Wenn es um Theorie-Memo als Output in Rechtstheorie und Rechtsphilosophie geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Theorie-Memo als Output

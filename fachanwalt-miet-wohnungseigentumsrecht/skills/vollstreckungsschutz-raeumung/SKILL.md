@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsschutz-raeumung
-description: "Vollstreckungsschutz Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft § 765a ZPO, Räumungsfrist, Gesundheitsgefahr, Ersatzwohnraum; mit Normprüfung, Beweisen, Fristen,..."
+description: "Wenn es um Vollstreckungsschutz Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vollstreckungsschutz Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht

@@ -1,6 +1,6 @@
 ---
 name: versammlungsfreiheit-brokdorf-auflagen-verbot
-description: "Art. 8 GG bei Demonstrationsauflagen, Verboten, Aufloesungen und Eilrechtsschutz: Brokdorf-Linie, konkrete Gefahrenprognose, Kooperationsgebot, Auflage-vor-Verbot und verhältnismäßige Versammlungssteuerung."
+description: "Wenn es um Versammlungsfreiheit: Brokdorf, Auflagen, Verbot in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versammlungsfreiheit: Brokdorf, Auflagen, Verbot

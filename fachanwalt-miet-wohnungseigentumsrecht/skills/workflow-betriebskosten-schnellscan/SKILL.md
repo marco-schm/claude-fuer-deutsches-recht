@@ -1,6 +1,6 @@
 ---
 name: workflow-betriebskosten-schnellscan
-description: "Betriebskosten-Schnellscan: Prüfungslinie für Miet- und WEG-Recht: entscheidet formeller Fehler, materieller Fehler, Belegeinsicht und Einwendungsfrist; mit Kaltstart, Fristencheck, Belegmat..."
+description: "Wenn es um Betriebskosten-Schnellscan: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebskosten-Schnellscan: Prüfungslinie für Miet- und WEG-Recht

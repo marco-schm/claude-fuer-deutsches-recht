@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-hotel-zimmerfertigung
-description: "Bauueberwachung nach HOAI LPH 8 für Hotelneubauten mit modular vorgefertigten Zimmern — Modulverbindungen Stahlrahmen und Betonkern, Schallschutzanforderungen nach DIN 4109 Schallschutzklasse IV, Sprinkler-Anlage nach DIN EN 12845, barrierefreie Zimmer nach DIN 18040-1 und Energieeffizienz-Anford..."
+description: "Wenn es um Bauueberwachung Hotel Zimmerfertigung (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Hotel Zimmerfertigung (LPH 8)

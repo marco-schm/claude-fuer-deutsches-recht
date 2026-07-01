@@ -1,6 +1,6 @@
 ---
 name: fran-036-pflege-oder-medizin-franchise-regulatorische-grenzen
-description: "Franchiserecht: Pflege oder Medizin Franchise regulatorische Grenzen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Pflege oder Medizin Franchise regulatorische Grenzen in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Pflege oder Medizin Franchise regulatorische Grenzen

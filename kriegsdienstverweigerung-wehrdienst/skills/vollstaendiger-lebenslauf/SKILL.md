@@ -1,6 +1,6 @@
 ---
 name: vollstaendiger-lebenslauf
-description: "Erstellt einen vollständigen, datensparsamen Lebenslauf mit gewissensrelevanten Stationen im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Tabellarischer Lebenslauf in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tabellarischer Lebenslauf

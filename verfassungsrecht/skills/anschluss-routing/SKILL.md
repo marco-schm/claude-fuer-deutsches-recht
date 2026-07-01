@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Verfassungsrecht: wählt den nächsten Spezial-Skill nach Engpass (§ 93 BVerfGG 1 Monat Verfassungsbeschwerde, Letzter fachgerichtl. Beschluss, Verfassungsbeschwerde-Schriftsatz, Vorlagebeschluss), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in verfassungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anschluss-Routing

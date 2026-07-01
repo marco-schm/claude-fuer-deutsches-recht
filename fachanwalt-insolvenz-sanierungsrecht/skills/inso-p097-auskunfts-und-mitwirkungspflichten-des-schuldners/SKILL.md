@@ -1,6 +1,6 @@
 ---
 name: inso-p097-auskunfts-und-mitwirkungspflichten-des-schuldners
-description: "§ 97 InsO (Auskunfts- und Mitwirkungspflichten des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 97 InsO (Auskunfts- und Mitwirkungspflichten des Schuldners) im Mandat prüfen..."
+description: "Wenn es um Inso P097 Auskunfts Und Mitwirkungspflichten Des Schuldners in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 97 InsO (Auskunfts- und Mitwirkungspflichten des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

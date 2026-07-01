@@ -1,6 +1,6 @@
 ---
 name: quellen-schriftsatz-brief-und-memo-bausteine
-description: Schriftsatz-, Brief- und Memo-Bausteine fuer das Mietrecht. Normenradar BGB/BetrKV/HeizkostenV, Tatbestands- und Beweislastmatrix, Fristen- und Formcheck, Gegenargumente, Fehlerbremse und direkt nutzbares Arbeitsprodukt.
+description: "Wenn es um Schriftsatz-, Brief- und Memo-Bausteine (Mietrecht) in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schriftsatz-, Brief- und Memo-Bausteine (Mietrecht)

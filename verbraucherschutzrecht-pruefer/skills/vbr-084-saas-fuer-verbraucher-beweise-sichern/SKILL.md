@@ -1,6 +1,6 @@
 ---
 name: vbr-084-saas-fuer-verbraucher-beweise-sichern
-description: "Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Beweise sichern. Beweise sichern für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Saas Fuer Verbraucher Beweise Sichern in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Saas Fuer Verbraucher Beweise Sichern

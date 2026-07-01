@@ -1,6 +1,6 @@
 ---
 name: redteam-bankruptcy-qualitygate
-description: "Prüft jede Bankruptcy-Ausgabe auf falsches Chapter, Stay-Verstoß, Fristenfehler, Local-Rule-Lücke and US-counsel need."
+description: "Wenn es um Bankruptcy Red-Team Qualitygate in US Bankruptcy Code geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bankruptcy Red-Team Qualitygate

@@ -1,6 +1,6 @@
 ---
 name: dokumentationsstandard
-description: "AG/SE-Aufsichtsrat Praxis: Dokumentationsstandard; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um Dokumentationsstandard in AG/SE-Aufsichtsrat Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Dokumentationsstandard

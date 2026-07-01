@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-computerbetrug-263a-stgb
-description: "Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manipulation EC- und Kreditkarte, Skimming, Phishing, missbraeuchliche Online-Banking-Nutzung, Crypto-Wallet-Drainage: Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manipulation EC- u..."
+description: "Wenn es um Strafrecht Spezial Computerbetrug 263a Stgb in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manipulation EC- und Kreditkarte, Skimming, Phishing, missbraeuchliche Online-Banking-Nutzung, Crypto-Wallet-Drainage

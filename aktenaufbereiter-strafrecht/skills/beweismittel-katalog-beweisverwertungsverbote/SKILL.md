@@ -1,6 +1,6 @@
 ---
 name: beweismittel-katalog-beweisverwertungsverbote
-description: "Beweismittel-Katalog für die Verteidigung: Urkunden, Augenschein, Zeugen, Sachverstaendige, Beschuldigtenaussage, Spuren, Datentraeger, Telekommunikationsueberwachung, Observation. Beweisthema, Beweismittel, Fundstelle in der Akte, Beweisverwertungsfragen (§ 136a sowie §§ 252 und 261 StPO) im Str..."
+description: "Wenn es um Beweismittel-Katalog in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweismittel-Katalog

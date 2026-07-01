@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-saarland-spezial-voelklinger-huette-welterbe
-description: "Saarlaendische Besonderheit: Voelklinger Huette seit 1994 UNESCO-Welterbe als bedeutendstes Industrie-Welterbe der Eisen- und Stahlproduktion. Skill ordnet die Schutzkonzeption (vollumfaengliche Erhaltung der industriellen Anlagen), die Foerderprogramme des Bundes (BKM) und des Landes sowie die Mandatslagen bei Investitionen in das Welterbe-Areal und in der direkten Umgebung."
+description: "Wenn es um Voelklinger Huette als UNESCO-Welterbe im Saarland in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Voelklinger Huette als UNESCO-Welterbe im Saarland

@@ -1,6 +1,6 @@
 ---
 name: stadtwerke-organisationsform-pruefen
-description: "Stadtwerke: Organisationsform prüfen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Stadtwerke Organisationsform Prüfen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stadtwerke Organisationsform Prüfen

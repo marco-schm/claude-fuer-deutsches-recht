@@ -1,6 +1,6 @@
 ---
 name: 19-sitzungsdienst-und-fragerecht-hauptverhandlung
-description: "Sitzungsvertretung der Staatsanwaltschaft (Paragraf 226 StPO), Fragerecht (Paragraf 240 StPO), Beweisantraege und Erklaerungen (Paragraf 257 StPO), Reaktion auf Antraege der Verteidigung, Vorhalt und Beweisaufnahme"
+description: "Wenn es um 19 Sitzungsdienst und Fragerecht Hauptverhandlung in Staatsanwaltschaft und Amtsanwaltschaft geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 19 Sitzungsdienst und Fragerecht Hauptverhandlung

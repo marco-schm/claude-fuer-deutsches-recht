@@ -1,6 +1,6 @@
 ---
 name: berufsunfaehigkeit-klage
-description: "Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung: Anwendungsfall BU-Versicherung hat Leistungsantrag abgelehnt oder Verweisung auf andere Tätigkeit ausgesprochen. Normen §§ 172 ff..."
+description: "Wenn es um Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung

@@ -1,6 +1,6 @@
 ---
 name: sanktion-verteidigerrolle-dsb-gf-externe
-description: "Datenschutzrecht-Brückenskill: Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater: Datenschutzbeauftragten, Geschäftsleitung, externe Anwälte, IT-Forensik und PR-Beratung konfliktfrei koordinieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkom..."
+description: "Wenn es um Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater

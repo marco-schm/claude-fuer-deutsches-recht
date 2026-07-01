@@ -1,6 +1,6 @@
 ---
 name: anzv-kwg-anzeigenkalender-bafin-bundesbank
-description: "AnzV-Anzeigenkalender für KWG-Institute: Organpersonen, LEI, Beteiligungen, enge Verbindungen, Auslandsbeziehungen, Auslagerungen, Vergütung, Einreichweg und BaFin-/Bundesbank-Nachweise in einen fristfesten Legal-bringen im Bank-Rechtsabteilung."
+description: "Wenn es um AnzV/KWG-Anzeigenkalender BaFin und Bundesbank in Bank-Rechtsabteilung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AnzV/KWG-Anzeigenkalender BaFin und Bundesbank

@@ -1,6 +1,6 @@
 ---
 name: 02-zustaendigkeit-sta-und-amtsanwaltschaft
-description: "Sachliche und oertliche Zustaendigkeit (Paragrafen 142 und 143 GVG), Abgrenzung Staatsanwalt und Amtsanwalt nach OrgStA, Dezernatszustaendigkeit, Abgabe und Uebernahme, Zustaendigkeit beim Amtsgericht und Landgericht"
+description: "Wenn es um 02 Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 02 Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft

@@ -1,6 +1,6 @@
 ---
 name: markenrecht-benutzungsschonfrist-loeschung
-description: "Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Markenrecht Fashion Luxus."
+description: "Wenn es um Chronologie und Belegmatrix in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie und Belegmatrix

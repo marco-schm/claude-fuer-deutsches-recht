@@ -1,6 +1,6 @@
 ---
 name: breitband-red-parkhaus-organisationsform
-description: "Breitband: Red Flags listen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Breitband Red Flags Listen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Breitband Red Flags Listen

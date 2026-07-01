@@ -1,6 +1,6 @@
 ---
 name: 029-familiengesellschaft-poolvertrag-und-minderjaehrige
-description: "Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderjährige. Gestaltung von Familien-GmbH und GbR, Poolverträge zur Sicherung von Gesellschaftermehrheiten, Beteiligung Minderjähriger und familiengerichtliche Genehmigung im Notariat."
+description: "Wenn es um Notariat im Alltag: Familiengesellschaft, Poolvertrag, Minderjährige in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Familiengesellschaft, Poolvertrag, Minderjährige

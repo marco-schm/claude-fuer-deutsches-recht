@@ -1,6 +1,6 @@
 ---
 name: raeumlicher-markt-abgrenzung
-description: "Prüft den räumlich relevanten Markt: national europaeisch global. Analysiert Preisstrukturen Transportkosten regulatorische Unterschiede Homogenitaetsannahmen Handelsstroeme und Arbitragemoeaeglichkeiten. Bewertet ob nationale Marktdefinition europarechtskonform oder globalere Abgrenzung geboten..."
+description: "Wenn es um Räumlicher Markt — Abgrenzung in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Räumlicher Markt — Abgrenzung

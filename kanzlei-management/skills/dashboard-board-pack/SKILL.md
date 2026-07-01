@@ -1,6 +1,6 @@
 ---
 name: dashboard-board-pack
-description: "Erstellt MC-Pack mit Zahlen, Kommentierung, Entscheidungen und Anhang. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Board Pack fürs Management Committee in Kanzlei Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Board Pack fürs Management Committee

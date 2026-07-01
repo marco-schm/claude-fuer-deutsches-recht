@@ -1,6 +1,6 @@
 ---
 name: mieterhoehungs-compliance-dokumentation-und-akte
-description: "Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht."
+description: "Wenn es um Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk

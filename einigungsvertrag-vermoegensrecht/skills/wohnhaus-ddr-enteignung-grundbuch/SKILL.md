@@ -1,6 +1,6 @@
 ---
 name: wohnhaus-ddr-enteignung-grundbuch
-description: "Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Berechtigte ermitteln im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Wohnhaus Ddr Enteignung Berechtigte Er in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnhaus Ddr Enteignung Berechtigte Er

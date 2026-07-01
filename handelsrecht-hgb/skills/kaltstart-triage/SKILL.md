@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Skill-Routing für HGB-Fälle: Kaufmann, Register, Firma, Vertretung, Handelsgeschäft, OHG/KG, Handelskauf und Handelsbücher."
+description: "Wenn es um HGB Kommandocenter in Handelsrecht HGB geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # HGB Kommandocenter

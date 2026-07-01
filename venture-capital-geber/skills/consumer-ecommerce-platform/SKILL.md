@@ -1,6 +1,6 @@
 ---
 name: consumer-ecommerce-platform
-description: "Prüft Verbraucherrecht, AGB, Widerruf, Plattformregeln, DSA, Dark Patterns, Marketing und Produkthaftung im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Consumer, E-Commerce und Plattformen in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Consumer, E-Commerce und Plattformen

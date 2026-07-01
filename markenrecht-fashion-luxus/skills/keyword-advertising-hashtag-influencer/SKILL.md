@@ -1,6 +1,6 @@
 ---
 name: keyword-advertising-hashtag-influencer
-description: "Keyword Advertising, Hashtags, Influencer-Posts und Metatags markenrechtlich prüfen: Benutzung im geschäftlichen Verkehr, Herkunftsfunktion, Anzeigenkontext, vergleichende Werbung, Plattformbelege und UWG-Schnittstelle im Markenrecht Fashion Luxus."
+description: "Wenn es um Keyword Advertising, Hashtags und Influencer in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Keyword Advertising, Hashtags und Influencer

@@ -1,6 +1,6 @@
 ---
 name: wahlvorschlag-bundestag-einreichen
-description: "Erstellt Einreichungscheck für Kreiswahlvorschlag und Landesliste nach BWahlG/BWO und Bundeswahlleiter-Hinweisen."
+description: "Wenn es um Bundestag Wahlvorschlag einreichen in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bundestag Wahlvorschlag einreichen

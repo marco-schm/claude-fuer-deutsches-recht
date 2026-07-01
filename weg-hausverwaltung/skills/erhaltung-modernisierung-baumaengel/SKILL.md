@@ -1,6 +1,6 @@
 ---
 name: erhaltung-modernisierung-baumaengel
-description: "Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel, Gewährleistungsfristen, Gutachten, Sofortmaßnahmen, Beschlussbedarf und Kommunikation mit Eigentümern (Stand 05/2026). Berücksichtigt GEG § 71 (65 % erneuerbare Energien beim Heizungstausch) und CO2KostAufG bei Heizungsentscheidungen."
+description: "Wenn es um Erhaltung, Modernisierung und Baumängel in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erhaltung, Modernisierung und Baumängel

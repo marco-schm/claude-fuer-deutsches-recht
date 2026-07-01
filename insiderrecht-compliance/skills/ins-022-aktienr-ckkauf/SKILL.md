@@ -1,6 +1,6 @@
 ---
 name: ins-022-aktienr-ckkauf
-description: "Spezialskill Insiderrecht fuer Aktienrückkauf: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Aktienrückkauf in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insiderrecht: Aktienrückkauf

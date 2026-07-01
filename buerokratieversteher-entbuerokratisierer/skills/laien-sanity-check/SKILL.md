@@ -1,6 +1,6 @@
 ---
 name: laien-sanity-check
-description: "Letzte Prüfung: Habe ich verstanden, was passiert, welche Frist läuft, was ich sende und was ich nicht sende? im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Laien-Sanity-Check in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laien-Sanity-Check

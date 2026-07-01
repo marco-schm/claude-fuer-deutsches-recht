@@ -1,6 +1,6 @@
 ---
 name: abschiebungsabwehr
-description: "Abschiebung abwehren — Duldung § 60a AufenthG Abschiebungsverbote § 60 Abs: 5 und 7 AufenthG Eilrechtsschutz § 123 VwGO bzw. § 80 Abs. 5 VwGO. Inlandsbezogene Vollstreckungshinderni..."
+description: "Wenn es um Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abschiebung abwehren — Duldung § 60a AufenthG Abschiebungsverbote § 60 Abs

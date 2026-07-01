@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-uvgo-unterschwellenvergabe
-description: "Unterschwellenvergabe nach UVgO durchfuehren und angreifen: Auftraggeber unter EU-Schwellenwert oder Bieter will UVgO-Verstoss ruegen. Normen: UVgO (Bund seit 2017, Laender ueberwiegend), § 55 BHO, LHO der Laender, Primaerrechtsschutz vor VG nicht VK. Pruefraster: Anwendungsbereich UVgO (LD/D oberhalb Direktauftragsgrenze, unterhalb EU-Schwelle), Verfahrenstypen (oeffentlich, beschraenkt, Verhandlung), Bekanntmachung, Wertungsschema, Rechtsschutz Primaer (VG/OVG) und Sekundaer (LG-Zivilklage). Output Verfahrensentwurf, VG-Eilantrag-Geruest. Abgrenzung: Oberschwelle siehe fachanwalt-vergaberecht-orientierung; VOB-A Abschn. 1 siehe fachanwalt-vergaberecht-vob-a-bauvergabe."
+description: "Wenn es um UVgO und Unterschwellenvergabe in Fachanwalt Vergaberecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # UVgO und Unterschwellenvergabe

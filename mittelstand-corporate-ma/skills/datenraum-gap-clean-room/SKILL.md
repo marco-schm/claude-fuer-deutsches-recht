@@ -1,6 +1,6 @@
 ---
 name: datenraum-gap-clean-room
-description: "Datenraum-Gap-Analyse und Clean Room: Prüft Datenraum, Teaser, IM, IRL und Disclosure-Konzept auf Luecken, Widersprueche, Dubletten und Clean-Room-Bedarf im Mittelstand Corporate Ma."
+description: "Wenn es um Datenraum-Gap-Analyse und Clean Room in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenraum-Gap-Analyse und Clean Room

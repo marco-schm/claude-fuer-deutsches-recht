@@ -1,6 +1,6 @@
 ---
 name: wohnhaus-ddr-enteignung-chronologie-ba
-description: "Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Chronologie bauen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Wohnhaus Ddr Enteignung Chronologie Ba in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Wohnhaus Ddr Enteignung Chronologie Ba

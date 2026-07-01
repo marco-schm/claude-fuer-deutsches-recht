@@ -1,6 +1,6 @@
 ---
 name: see-021-schiffshypothek-register-pruefen
-description: "See- und Schifffahrtsrecht: Schiffshypothek: Register prüfen. Register prüfen für Schiffshypothek im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schiffshypothek Register Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffshypothek Register Pruefen

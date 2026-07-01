@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-nichtpraeferenzieller-ursprung-made-in
-description: "Vertiefter Skill fuer Nichtpraeferenzieller Ursprung Made In. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: "Wenn es um Nichtpraeferenzieller Ursprung Made In in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nichtpraeferenzieller Ursprung Made In

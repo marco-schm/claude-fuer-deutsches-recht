@@ -1,6 +1,6 @@
 ---
 name: soldatinnen-und-kdv
-description: "Stellt KDV-Rechte von Frauen dar, die dienen oder früher gedient haben im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Soldatinnen und KDV in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Soldatinnen und KDV

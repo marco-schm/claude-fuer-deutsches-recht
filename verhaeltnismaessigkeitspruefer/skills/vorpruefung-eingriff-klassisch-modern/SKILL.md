@@ -1,6 +1,6 @@
 ---
 name: vorpruefung-eingriff-klassisch-modern
-description: "Vorpruefung Schritt 2 vor der Schranken-Schranke. Eingriffsbegriff in klassischer (final, unmittelbar, rechtsfoermig, imperativ) und moderner Pragmatik (jede zurechenbare Beeintraechtigung), mit BVerfG-Linien zu faktisch-mittelbaren Eingriffen, staatlichem Informationshandeln und Drittwirkung."
+description: "Wenn es um Stufe 0b: Liegt ein Eingriff vor? in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Stufe 0b: Liegt ein Eingriff vor?

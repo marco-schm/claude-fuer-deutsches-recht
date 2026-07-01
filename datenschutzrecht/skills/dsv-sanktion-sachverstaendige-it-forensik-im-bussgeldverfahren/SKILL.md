@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-sachverstaendige-it-forensik-im-bussgeldverfahren
-description: "Datenschutzrecht-Brückenskill: IT-Forensik und Sachverständige: Gutachten zu Logs, TOMs, Verschlüsselung, Löschung, Zugriffen und Datenabfluss gerichtsfest vorbereiten: Datenschutzrecht-Brückenskill: IT-Forensik und Sachverständige: Gutachten zu Logs, TOMs,..."
+description: "Wenn es um Dsv Sanktion Sachverstaendige It Forensik Im Bussgeldverfahren in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: IT-Forensik und Sachverständige: Gutachten zu Logs, TOMs, Verschlüsselung, Löschung, Zugriffen und Datenabfluss gerichtsfest vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: widerspruch-ohne-anwalt-einreichen
-description: "Wie und wo Sie den Widerspruch einreichen. Brief Einschreiben Fax Mein Justizpostfach persönliche Abgabe zur Niederschrift. Sicherer Versandweg für Buerger ohne Anwalt."
+description: "Wenn es um Widerspruch einreichen — die sicheren Wege in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Widerspruch einreichen — die sicheren Wege

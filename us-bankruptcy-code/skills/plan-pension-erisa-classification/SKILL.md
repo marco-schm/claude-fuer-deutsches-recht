@@ -1,6 +1,6 @@
 ---
 name: plan-pension-erisa-classification
-description: "Prüft pension obligations, PBGC claims, retiree benefits, collective bargaining and plan treatment im US Bankruptcy Code."
+description: "Wenn es um Pension, ERISA and PBGC in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pension, ERISA and PBGC

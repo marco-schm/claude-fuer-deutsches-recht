@@ -1,6 +1,6 @@
 ---
 name: rom-093-vertiefung-01-red-team-gegenposition
-description: "Römisches Recht: Vertiefung 01 Red Team Gegenposition. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Vertiefung 01 Red Team Gegenposition in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertiefung 01 Red Team Gegenposition

@@ -1,6 +1,6 @@
 ---
 name: capital-calls-und-defaulting-lp
-description: "Prüft Kapitalabrufe, Säumnisfolgen, Verwässerung, Verzugszinsen, Ausschluss und Enforcement gegen Anleger im Private Equity Praxis."
+description: "Wenn es um Capital Calls und Defaulting LP in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Capital Calls und Defaulting LP

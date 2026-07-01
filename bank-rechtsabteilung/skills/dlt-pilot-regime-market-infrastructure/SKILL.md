@@ -1,6 +1,6 @@
 ---
 name: dlt-pilot-regime-market-infrastructure
-description: "DLT Pilot Regime für Marktinfrastrukturen prüfen: DLT-MTF, DLT-SS, DLT-TSS, Token Settlement, Ausnahmen, Aufsicht, Depot-/CSD-Schnittstellen und Bankrollen im Bank-Rechtsabteilung."
+description: "Wenn es um DLT Pilot Regime in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # DLT Pilot Regime

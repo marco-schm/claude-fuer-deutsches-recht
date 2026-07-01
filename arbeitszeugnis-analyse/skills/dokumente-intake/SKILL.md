@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Arbeitszeugnis-Analyse: sortiert Erstes Zeugnis, Berichtigungszeugnis, Zwischenzeugnis, prüft Datum, Absender, Frist und Beweiswert (Leistungsbeurteilungen, E-Mail-Verkehr HR); markiert Lücken; berücksichtigt Mandatsgeheimnis Paragraf 43a BRAO."
+description: "Wenn es um Dokumentenintake in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

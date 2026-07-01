@@ -1,6 +1,6 @@
 ---
 name: rom-098-vertiefung-01-vergleichende-synopse
-description: "Römisches Recht: Vertiefung 01 Vergleichende Synopse. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Vertiefung 01 Vergleichende Synopse in Römisches Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vertiefung 01 Vergleichende Synopse

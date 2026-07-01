@@ -1,6 +1,6 @@
 ---
 name: freedom-to-operate-und-schutzbereich
-description: "Prüft Freedom-to-Operate und Schutzbereich: Zielprodukt, Territory, Registerstand, Anspruchsmerkmale, wortsinngemäße Verwirklichung, Äquivalenz, Design-around und Risikomemo im Patentrecht."
+description: "Wenn es um Freedom-to-Operate und Schutzbereich in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Freedom-to-Operate und Schutzbereich

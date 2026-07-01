@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-schadensersatz-181-gwb
-description: "Schadensersatz nach § 181 GWB und BGB-Vorvertragsrecht bei vergaberechtswidriger Zuschlagsentscheidung geltend machen: Bieter hat Zuschlag verloren und will Vertrauensschaden oder positives Interesse einklagen. Normen: § 181 GWB (Schadensersatz), §§ 280 und 311 BGB (vorvertragliches Schuldverhaeltnis), § 124 GWB (Ausschluss). Pruefraster: Anspruchsgrundlage, Kausalitaet, Echte-Chance-Doktrin BGH X ZR 100/04, Vertrauensschaden vs. positives Interesse, Mitverschulden, Verjaehrung. Output Klageschrift-Geruest LG, Schadensberechnung. Abgrenzung: VK-Verfahren siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk; De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage."
+description: "Wenn es um Schadensersatz nach Paragraf 181 GWB in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schadensersatz nach § 181 GWB

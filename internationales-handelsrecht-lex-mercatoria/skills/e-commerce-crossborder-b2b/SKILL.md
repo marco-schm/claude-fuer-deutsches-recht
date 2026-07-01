@@ -1,6 +1,6 @@
 ---
 name: e-commerce-crossborder-b2b
-description: "Internationales Handelsrecht: Grenzüberschreitender B2B-E-Commerce. EU-E-Commerce-RL 2000/31/EG (Herkunftslandprinzip), Vertragsschluss online (CISG Art. 14-24), elektronische Signaturen (eIDAS-VO), Digital Markets Act und Plattformhaftung im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Grenzüberschreitender B2B-E-Commerce in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzüberschreitender B2B-E-Commerce

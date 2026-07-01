@@ -1,6 +1,6 @@
 ---
 name: bedingung-befristung-paragraphen-158-163
-description: "Klausurfall zu Bedingung und Befristung nach §§ 158 bis 163 BGB: aufschiebende und auflösende Bedingung, Zeitbestimmung, Vereitelung des Bedingungseintritts nach § 162 BGB, Rückwirkung nach § 159 BGB und Zwischenverfügungen."
+description: "Wenn es um Bedingung und Befristung — Paragrafen 158 bis 163 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bedingung und Befristung — §§ 158 bis 163 BGB

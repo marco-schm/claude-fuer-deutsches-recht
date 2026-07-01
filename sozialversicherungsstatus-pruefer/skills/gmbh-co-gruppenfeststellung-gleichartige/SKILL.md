@@ -1,6 +1,6 @@
 ---
 name: gmbh-co-gruppenfeststellung-gleichartige
-description: "Prüft Status in GmbH & Co. KG-Strukturen, Komplementär-GmbH, Kommanditistenrechte und Geschäftsführung im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um GmbH & Co. KG Kommanditist/GF in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # GmbH & Co. KG Kommanditist/GF

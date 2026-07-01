@@ -1,6 +1,6 @@
 ---
 name: mietkauf-abgrenzung-eigentumsuebergang
-description: "Mietkauf vs. Leasing: Abgrenzung, automatischer Eigentumsübergang, steuerliche und bilanzielle Folgen, AGB-Wirksamkeit im Leasingrecht."
+description: "Wenn es um Mietkauf und Leasing: Abgrenzung und Eigentumsübergang in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietkauf und Leasing: Abgrenzung und Eigentumsübergang

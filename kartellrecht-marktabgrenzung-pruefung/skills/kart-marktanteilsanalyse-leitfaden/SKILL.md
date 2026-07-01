@@ -1,6 +1,6 @@
 ---
 name: kart-marktanteilsanalyse-leitfaden
-description: "Leitfaden Marktanteilsanalyse: Umsatz- und Mengenmarktanteile, HHI, Marktstrukturmerkmale. Prüfraster für Fusionskontrollmeldung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Kart: Marktanteilsanalyse in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kart: Marktanteilsanalyse

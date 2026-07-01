@@ -1,6 +1,6 @@
 ---
 name: weg-sondereigentum-gemeinschaftseigentum
-description: "Sondereigentum/Gemeinschaftseigentum: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Bauteile, Teilungserklärung, Kostentragung, Beschlusszuständigkeit; mit Normprüfu..."
+description: "Wenn es um Sondereigentum/Gemeinschaftseigentum: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sondereigentum/Gemeinschaftseigentum: Fachmodul im Miet- und Wohnungseigentumsrecht

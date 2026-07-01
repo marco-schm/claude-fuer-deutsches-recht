@@ -1,6 +1,6 @@
 ---
 name: drg-027-weimarer-reichsverfassung
-description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Weimarer Reichsverfassung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weimarer Reichsverfassung

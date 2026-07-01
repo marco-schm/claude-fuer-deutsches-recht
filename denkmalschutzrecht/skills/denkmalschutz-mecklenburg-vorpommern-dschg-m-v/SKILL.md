@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-mecklenburg-vorpommern-dschg-m-v
-description: "Denkmalschutzrecht Mecklenburg-Vorpommern nach dem Denkmalschutzgesetz Mecklenburg-Vorpommern. Skill bündelt zuständige Behörden (Ministerium für Wissenschaft, Kultur, Bundes- und Europaangelegenheiten; Landesamt für Kultur und Denkmalpflege in Schwerin; Untere Denkmalschutzbehörden bei den Landkreisen) und das nachrichtliche Eintragungssystem mit besonderem Augenmerk auf maritime und Backsteindenkmale."
+description: "Wenn es um Denkmalschutz Mecklenburg-Vorpommern (DSchG M-V) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Mecklenburg-Vorpommern (DSchG M-V)

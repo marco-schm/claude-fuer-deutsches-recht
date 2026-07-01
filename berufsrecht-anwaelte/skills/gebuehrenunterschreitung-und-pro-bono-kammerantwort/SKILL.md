@@ -1,6 +1,6 @@
 ---
 name: gebuehrenunterschreitung-und-pro-bono-kammerantwort
-description: "Anwälte: gebuehrenunterschreitung und pro bono - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Gebuehrenunterschreitung Und Pro Bono Kammerantwort in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Anwälte: gebuehrenunterschreitung und pro bono - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

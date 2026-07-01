@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionsrecht-ladungsschaden
-description: "Ladungsschaden im Gueterverkehr prüfen und geltend machen: Nachweis, Schadensberechnung, Haftungslimits. Normen: §§ 425 431 HGB, Art. 17 23 CMR. Prüfraster: Schadensnachweis, Haftungsgrenze je Kilogramm, Totalschaden, Sonderinteresse. Output: Ladungsschadens-Prüfergebnis und Anspruchsschreiben. Abgrenzung: nicht Lieferverzug."
+description: "Wenn es um Ladungsschaden – Innerdeutscher Frachtverkehr (HGB) in Fachanwalt Transport Speditionsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Ladungsschaden – Innerdeutscher Frachtverkehr (HGB)

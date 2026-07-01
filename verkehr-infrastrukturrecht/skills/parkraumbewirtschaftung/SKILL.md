@@ -1,6 +1,6 @@
 ---
 name: parkraumbewirtschaftung
-description: "Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten: Kommune einführt Bewohnerparkausweis oder Abschleppung wird angefochten. Normen: § 45 StVO (Bewohnerparkausweis, Verkehrszeichen), StVG § 12 (Haltverbot), VwVfG (Verwaltungsakt Abschleppung). Prüfraster: Rechtsgrundlage Parkgebühr..."
+description: "Wenn es um Parkraumbewirtschaftung in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parkraumbewirtschaftung

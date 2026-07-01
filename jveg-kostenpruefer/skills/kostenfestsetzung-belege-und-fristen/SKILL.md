@@ -1,6 +1,6 @@
 ---
 name: kostenfestsetzung-belege-und-fristen
-description: "Kostenfestsetzung mit Belegen, Fristen und Erinnerung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Jveg Kostenpruefer."
+description: "Wenn es um Kostenfestsetzung mit Belegen, Fristen und Erinnerung in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kostenfestsetzung mit Belegen, Fristen und Erinnerung

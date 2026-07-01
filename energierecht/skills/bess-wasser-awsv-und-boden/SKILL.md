@@ -1,6 +1,6 @@
 ---
 name: bess-wasser-awsv-und-boden
-description: "Prüft Kühlmittel, Transformatorenöl, Löschwasser, Bodenversiegelung, Havariebecken und Grundwasserschutz im Energierecht."
+description: "Wenn es um Wasser, AwSV, Boden und Havarie in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wasser, AwSV, Boden und Havarie

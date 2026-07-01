@@ -1,6 +1,6 @@
 ---
 name: hochschulautonomie-und-aufsicht
-description: "Prüft Hochschulautonomie, Rechtsaufsicht und Fachaufsicht im Hochschulrecht Länder."
+description: "Wenn es um Hochschulautonomie Und Aufsicht in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hochschulautonomie Und Aufsicht

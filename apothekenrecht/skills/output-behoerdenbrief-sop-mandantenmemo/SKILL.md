@@ -1,6 +1,6 @@
 ---
 name: output-behoerdenbrief-sop-mandantenmemo
-description: "Output Behördenbrief SOP Mandantenmemo: Fachlicher Fokus: Apothekenrecht zwischen ApoG, ApBetrO, AMG, AMPreisV, SGB V, HWG, BtMG, Datenschutz, Aufsicht, Versandhandel, E-Rezept und Apothekenpraxis."
+description: "Wenn es um Output Behördenbrief SOP Mandantenmemo in Apothekenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Output Behördenbrief SOP Mandantenmemo

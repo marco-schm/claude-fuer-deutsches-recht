@@ -1,6 +1,6 @@
 ---
 name: szenario-faelligstellung-vollstreckung
-description: "Anwendungsszenario gescheiterte Finanzierung mit Vorbereitung von Faelligstellung und Vollstreckung. Status-Navigator erfasst Darlehensvertraege, Kuendigungs- und Faelligstellungsschreiben, Zustellungsnachweise und Sicherheiten. Workflow zeigt die naechsten Schritte fuer die Vollstreckung."
+description: "Wenn es um Szenario gescheiterte Finanzierung in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Szenario gescheiterte Finanzierung

@@ -1,6 +1,6 @@
 ---
 name: nda-m-und-a-clean-team-spezial
-description: "Spezialfall NDA für M-and-A und Clean-Team-Arrangements: Datenraum, Sondervertraulichkeit Wettbewerbsdaten, Kartellrecht. Prüfraster für Antitrust-Counsel."
+description: "Wenn es um NDA: M-and-A Clean-Team in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NDA: M-and-A Clean-Team

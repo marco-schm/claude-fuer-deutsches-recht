@@ -1,6 +1,6 @@
 ---
 name: ressort-bmz
-description: "Heranfuehrung Ressort BMZ (Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung). Schwerpunkt: Entwicklungszusammenarbeit; humanitaere Hilfe; Klimafinanzierung; Lieferketten; Multilaterales. Kernnormen: Bilaterale Abkommen; LkSG; KSG; Pariser Abkommen (BGBl); EUZBLG; HBKG. Fuenf S..."
+description: "Wenn es um Ressort-Heranfuehrung BMZ in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressort-Heranfuehrung BMZ

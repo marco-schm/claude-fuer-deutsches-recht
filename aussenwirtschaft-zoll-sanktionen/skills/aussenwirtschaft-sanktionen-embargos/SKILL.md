@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-sanktionen-embargos
-description: "Überblick und Triage ueber EU-Sanktionen und Embargos: Russland (VO 833/2014 und 269/2014), Iran (VO 267/2012), Belarus (VO 765/2006), Nordkorea, Myanmar, Syrien. Bereitstellungsverbote, Sektorensanktionen, Finanzsanktionen und Reisebeschraenkungen. Output: Sanktionslage-Uebersicht und Erstbewer..."
+description: "Wenn es um EU-Sanktionen und Embargos: Triage und Sanktionslage-Übersicht in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU-Sanktionen und Embargos: Triage und Sanktionslage-Übersicht

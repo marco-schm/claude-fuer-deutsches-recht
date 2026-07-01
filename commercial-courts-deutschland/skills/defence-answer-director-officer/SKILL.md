@@ -1,6 +1,6 @@
 ---
 name: defence-answer-director-officer
-description: "Bereitet Klageerwiderung/Statement of Defence vor: Zuständigkeitsrügen, Sprachrügen, Bestreiten, Einwendungen, Counterclaim, Set-off und Beweise im Commercial Courts Deutschland."
+description: "Wenn es um Statement of Defence in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Statement of Defence

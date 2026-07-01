@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-pkv-vertrag-antrag-betriebliche
-description: "Vorvertragliche Anzeigepflicht in der PKV (§§ 19–22 VVG): Gesundheitsfragen, Risikoausschlüsse, Leistungsausschlüsse, Anfechtung wegen arglistiger Täuschung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um PKV-Vertrag: Antrag, Gesundheitsfragen und Anzeigepflicht in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # PKV-Vertrag: Antrag, Gesundheitsfragen und Anzeigepflicht

@@ -1,6 +1,6 @@
 ---
 name: china-counterfeit-and-parallel-trade-fair
-description: "Produktpiraterie und Grauimporte aus/über China: Grenzbeschlagnahme EU (EU-VO 608/2013), CNIPA-Enforcement, chinesische Zollregistrierung IP-Rechte, Parallelimporte (Erschöpfung EU vs. CN), Abmahnverfahren DE, Zoll-Alarm-System COPIS, Strafverfolgung Produktpiraterie § 143 MarkenG. Output: Anti-P..."
+description: "Wenn es um Produktpiraterie und Grauimporte China: Grenzbeschlagnahme/CNIPA in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Produktpiraterie und Grauimporte China: Grenzbeschlagnahme/CNIPA

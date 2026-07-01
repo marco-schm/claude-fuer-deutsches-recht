@@ -1,6 +1,6 @@
 ---
 name: inso-p096-unzulassigkeit-der-aufrechnung
-description: "§ 96 InsO (Unzulässigkeit der Aufrechnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 96 InsO (Unzulässigkeit der Aufrechnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsf..."
+description: "Wenn es um Inso P096 Unzulassigkeit Der Aufrechnung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 96 InsO (Unzulässigkeit der Aufrechnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: praediktive-genetik-familie
-description: "Prädiktive Genetik und Familie: moderner Medizinrechts-Skill für Prädiktiver Test, Angehörigeninformation, Recht auf Nichtwissen und Beratungsdokumentation: Prädiktive Genetik und Familie: moderner Medizinrechts-Skill für Prädiktiver Test, Angehörigeninform..."
+description: "Wenn es um Praediktive Genetik Familie in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Prädiktive Genetik und Familie: moderner Medizinrechts-Skill für Prädiktiver Test, Angehörigeninformation, Recht auf Nichtwissen und Beratungsdokumentation

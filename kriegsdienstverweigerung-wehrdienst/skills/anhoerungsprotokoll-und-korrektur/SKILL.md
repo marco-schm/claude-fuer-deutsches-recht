@@ -1,6 +1,6 @@
 ---
 name: anhoerungsprotokoll-und-korrektur
-description: "Prüft Protokoll der Anhörung auf Missverständnisse und Ergänzungsbedarf im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Anhörungsprotokoll prüfen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anhörungsprotokoll prüfen

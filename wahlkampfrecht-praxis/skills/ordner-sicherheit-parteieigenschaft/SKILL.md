@@ -1,6 +1,6 @@
 ---
 name: ordner-sicherheit-parteieigenschaft
-description: "Wahlkampfrecht Praxis: Ordner, Security und Deeskalation bei Wahlkampfterminen organisieren im Wahlkampfrecht."
+description: "Wenn es um Ordner Und Sicherheit in Wahlkampfrecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Ordner Und Sicherheit

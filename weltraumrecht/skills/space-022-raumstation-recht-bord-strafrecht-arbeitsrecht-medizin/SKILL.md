@@ -1,6 +1,6 @@
 ---
 name: space-022-raumstation-recht-bord-strafrecht-arbeitsrecht-medizin
-description: "Weltraumrecht: Raumstation Recht an Bord Strafrecht Arbeitsrecht und medizinische Fragen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Raumstation Recht an Bord Strafrecht Arbeitsrecht und medizinische Fragen in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Raumstation Recht an Bord Strafrecht Arbeitsrecht und medizinische Fragen

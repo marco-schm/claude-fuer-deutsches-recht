@@ -1,6 +1,6 @@
 ---
 name: cashflow-13-wochen
-description: "Erstellt rollierende Liquiditätsvorschau mit Gehältern, Miete, Steuern und Entnahmen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um 13-Wochen-Cashflow in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 13-Wochen-Cashflow

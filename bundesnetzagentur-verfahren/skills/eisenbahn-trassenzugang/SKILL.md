@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-trassenzugang
-description: "Eisenbahn / Trassenzugang: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren."
+description: "Wenn es um Eisenbahn: Trassenzugang in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Eisenbahn: Trassenzugang

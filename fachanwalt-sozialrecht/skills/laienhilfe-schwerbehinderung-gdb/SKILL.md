@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-schwerbehinderung-gdb
-description: "Laienverstaendlicher Sozialrechts-Skill zu Schwerbehinderung Gdb: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch..."
+description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Schwerbehinderung Gdb in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Schwerbehinderung Gdb

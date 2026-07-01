@@ -1,6 +1,6 @@
 ---
 name: remote-work-policy
-description: "Berliner Start-up-HR: Remote-Work-Policy: Deutschland, EU-Ausland, Drittstaat, Arbeitszeit, Datenschutz, Steuer/SV-Routing und Genehmigungsprozess. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Be..."
+description: "Wenn es um Remote Work Policy in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Remote Work Policy

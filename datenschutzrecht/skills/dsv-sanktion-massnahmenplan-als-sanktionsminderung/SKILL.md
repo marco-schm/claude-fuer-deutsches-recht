@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-massnahmenplan-als-sanktionsminderung
-description: "Datenschutzrecht-Brückenskill: Maßnahmenplan als Sanktionsminderung: Root Cause, Sofortmaßnahme, Owner, Budget, Wirksamkeitsmessung und Nachweise bußgeldmindernd aufbereiten: Datenschutzrecht-Brückenskill: Maßnahmenplan als Sanktionsminderung: Root Cause, S..."
+description: "Wenn es um Dsv Sanktion Massnahmenplan Als Sanktionsminderung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Maßnahmenplan als Sanktionsminderung: Root Cause, Sofortmaßnahme, Owner, Budget, Wirksamkeitsmessung und Nachweise bußgeldmindernd aufbereiten

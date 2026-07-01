@@ -1,6 +1,6 @@
 ---
 name: anlagen-aus-edv-systemen
-description: "Anlagen aus IT-Systemen (ERP-Auszuege, Datenbankexporte, Logdateien): Beweiskraft, Manipulationsschutz, Hashverfahren, Begleitvermerk Erstellung. Empfehlung: Export mit Zeitstempel, Hashprotokoll, ggf. Sachverstaendigenanhoerung Authentizitaet. Output: Begleitvermerk-Vorlage."
+description: "Wenn es um Anlagen aus IT-Systemen in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Anlagen aus IT-Systemen

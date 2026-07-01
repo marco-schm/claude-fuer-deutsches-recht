@@ -1,6 +1,6 @@
 ---
 name: anlagen-qualitygate-finalcheck
-description: "Finaler Red-Team-Check vor Einreichung: Nummern, Schriftsatzverweise, Dateien, Stempel, OCR, Schwärzung, Dateinamen, beA-Paket, Lücken und Begleitvermerk."
+description: "Wenn es um Anlagen-Qualitygate vor Versand in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Anlagen-Qualitygate vor Versand

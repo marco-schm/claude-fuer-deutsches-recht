@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-unabhaengigkeit-bei-pie-pruefung-kaltstart-u
-description: "Wirtschaftsprüfer: unabhaengigkeit bei pie pruefung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kaltstart U in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: unabhaengigkeit bei pie pruefung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

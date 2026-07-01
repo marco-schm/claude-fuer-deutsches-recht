@@ -1,6 +1,6 @@
 ---
 name: investor-dd-vorbereiten
-description: "Baut Datenraum für Investor-DD: Corporate, Finance, IP, HR, Datenschutz, Verträge im Gesellschaftsgruender."
+description: "Wenn es um Investor Due Diligence vorbereiten in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Investor Due Diligence vorbereiten

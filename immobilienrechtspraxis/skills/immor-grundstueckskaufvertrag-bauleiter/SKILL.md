@@ -1,6 +1,6 @@
 ---
 name: immor-grundstueckskaufvertrag-bauleiter
-description: "Bauleiter Grundstueckskaufvertrag: Form § 311b BGB, Belastungsvollmacht, Faelligkeitsvoraussetzungen, Abloesung Grundpfandrechte. Prüfraster Kaeufer und Verkaeufer im Immobilienrechtspraxis."
+description: "Wenn es um ImmoR: Grundstueckskaufvertrag in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ImmoR: Grundstueckskaufvertrag

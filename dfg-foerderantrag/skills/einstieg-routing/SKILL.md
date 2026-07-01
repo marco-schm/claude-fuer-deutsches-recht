@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für DFG-Förderantrag: ordnet Rolle (Antragsteller, DFG-Gutachter, Universitätsleitung), markiert Frist (Antragsfrist Ausschreibungstermin), wählt Norm (DFG-Verwendungsrichtlinien, Wissenschaftsfreiheit Art. 5 III GG) und Zuständigkeit (Deutsche Forschungsgemeinschaft)..."
+description: "Wenn es um Einstieg und Routing in DFG-Förderantrag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

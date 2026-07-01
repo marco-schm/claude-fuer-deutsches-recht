@@ -1,6 +1,6 @@
 ---
 name: amtshaftung-paragraf-839-bgb-art-34-gg
-description: "Amtshaftung § 839 BGB art 34 GG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Amtshaftung Paragraf 839 BGB art 34 GG in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Amtshaftung § 839 BGB art 34 GG

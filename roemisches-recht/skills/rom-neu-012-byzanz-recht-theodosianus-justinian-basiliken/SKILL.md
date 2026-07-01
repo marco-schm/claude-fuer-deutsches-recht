@@ -1,6 +1,6 @@
 ---
 name: rom-neu-012-byzanz-recht-theodosianus-justinian-basiliken
-description: "Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken

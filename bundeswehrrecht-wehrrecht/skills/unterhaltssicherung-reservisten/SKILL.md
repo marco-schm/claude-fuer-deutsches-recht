@@ -1,6 +1,6 @@
 ---
 name: unterhaltssicherung-reservisten
-description: "Unterhaltssicherung Reservisten: prüft UhSiG, Anspruchsberechtigte, Berechnung, Verfahren und Rechtsbehelfe. Norm-/Quellenanker: UhSiG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Unterhaltssicherung für Reservisten in Bundeswehrrecht und Wehrrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Unterhaltssicherung für Reservisten

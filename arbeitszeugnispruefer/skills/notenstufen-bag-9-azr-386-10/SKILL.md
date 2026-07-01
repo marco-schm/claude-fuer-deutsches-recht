@@ -1,6 +1,6 @@
 ---
 name: notenstufen-bag-9-azr-386-10
-description: Anwendung der BAG-Notenstufenmatrix mit Zuordnung von Zufriedenheitsformeln zu Noten 1 bis 6 auf der Grundlage von BAG 9 AZR 386.10 und 9 AZR 352.04 sowie Grenzen des Formulierungsspielraums des Arbeitgebers.
+description: "Wenn es um Notenstufen nach BAG 9 AZR 386.10 in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Notenstufen nach BAG 9 AZR 386.10

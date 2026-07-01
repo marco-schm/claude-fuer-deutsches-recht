@@ -1,6 +1,6 @@
 ---
 name: verlagsinsolvenz-rechte-rueckfall-und-lagerbestand
-description: "Verlagsrecht: Verlagsinsolvenz — Rückfall von Nutzungsrechten an Autoren, Lagerbestandsverwertung, InsO §§ 103–119, UrhG §§ 41–42 und praktische Schritte für betroffene Autoren im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-025 · Verlagsinsolvenz: Rechterückfall und Lagerbestand in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-025 · Verlagsinsolvenz: Rechterückfall und Lagerbestand

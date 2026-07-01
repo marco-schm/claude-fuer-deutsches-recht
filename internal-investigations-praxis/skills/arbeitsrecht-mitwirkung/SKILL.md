@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-mitwirkung
-description: "Klärt arbeitsrechtliche Mitwirkungspflichten, Auskunftspflichten und Grenzen bei Mitarbeiterbefragungen in Internal Investigations im Internal Investigations Praxis."
+description: "Wenn es um Arbeitsrechtliche Mitwirkungspflichten in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Arbeitsrechtliche Mitwirkungspflichten

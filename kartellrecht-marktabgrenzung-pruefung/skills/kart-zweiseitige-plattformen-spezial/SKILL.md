@@ -1,6 +1,6 @@
 ---
 name: kart-zweiseitige-plattformen-spezial
-description: "Spezialfall zweiseitige Plattformen / Mehrseitige Maerkte: Netzwerkeffekte, Tipping, DMA-Gatekeeper. Prüfraster für Digitalplattformen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Kart: Zweiseitige Plattformen in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kart: Zweiseitige Plattformen

@@ -1,6 +1,6 @@
 ---
 name: v392-praxisraster-richter-amtsgericht-straf
-description: "Praxisraster für Amtsgericht Straf: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet."
+description: "Wenn es um Praxisraster Amtsgericht Straf in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Praxisraster Amtsgericht Straf

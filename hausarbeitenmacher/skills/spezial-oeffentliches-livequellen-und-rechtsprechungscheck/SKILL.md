@@ -1,6 +1,6 @@
 ---
 name: spezial-oeffentliches-livequellen-und-rechtsprechungscheck
-description: "Oeffentliches: Livequellen- und Rechtsprechungscheck im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Oeffentliches: Livequellen- und Rechtsprechungscheck in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Oeffentliches: Livequellen- und Rechtsprechungscheck

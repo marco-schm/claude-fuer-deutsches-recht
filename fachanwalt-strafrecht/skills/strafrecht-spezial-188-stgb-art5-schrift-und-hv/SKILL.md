@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-188-stgb-art5-schrift-und-hv
-description: "Art.-5-GG-Verteidigung bei § 188 StGB in Schriftsatz und Hauptverhandlung: Entwickelt Argumentation zu politischer Machtkritik, Deutung der Äußerung, Meinung/Tatsache, § 193 StGB, Sc..."
+description: "Wenn es um Art.-5-GG-Verteidigung bei Paragraf 188 StGB in Schriftsatz und Hauptverhandlung in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Art.-5-GG-Verteidigung bei § 188 StGB in Schriftsatz und Hauptverhandlung

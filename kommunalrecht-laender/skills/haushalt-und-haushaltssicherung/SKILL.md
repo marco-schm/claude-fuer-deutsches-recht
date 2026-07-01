@@ -1,6 +1,6 @@
 ---
 name: haushalt-und-haushaltssicherung
-description: "Kommunalrecht der Länder: Haushalt und Haushaltssicherung. Haushalt und Haushaltssicherung im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
+description: "Wenn es um Haushalt Und Haushaltssicherung in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haushalt Und Haushaltssicherung

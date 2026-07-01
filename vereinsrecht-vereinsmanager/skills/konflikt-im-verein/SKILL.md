@@ -1,6 +1,6 @@
 ---
 name: konflikt-im-verein
-description: "Moderiert Streit: Vorstand vs. Mitglieder, Akteneinsicht, Sonderversammlung, Abwahl, Ausschluss und Vergleich im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Konflikt im Verein in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konflikt im Verein

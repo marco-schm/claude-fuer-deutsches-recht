@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-verhandlungsverfahren-dialog
-description: "Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog strukturieren: Auftraggeber braucht flexibles Verfahren fuer komplexe Beschaffung. Normen: §§ 119 GWB, 17 VgV (Verhandlungsverfahren), § 18 VgV (Wettbewerblicher Dialog), § 19 VgV (Innovationspartnerschaft). Pruefraster: Voraussetzungen § 14 Abs. 3 VgV, Teilnahmewettbewerb, Mindestanforderungen, Verhandlungsphasen, Reduktion Loesungen, Wahrung Gleichbehandlung waehrend Verhandlung. Output Verfahrensplan, Bewertungsmatrix Verhandlungsphasen. Abgrenzung: Offenes Verfahren siehe fachanwalt-vergaberecht-orientierung; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema."
+description: "Wenn es um Verhandlungsverfahren und wettbewerblicher Dialog in Fachanwalt Vergaberecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Verhandlungsverfahren und wettbewerblicher Dialog

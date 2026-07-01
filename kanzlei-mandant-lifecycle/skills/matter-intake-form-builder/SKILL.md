@@ -1,6 +1,6 @@
 ---
 name: matter-intake-form-builder
-description: "Matter Intake Form Builder: steuert ein Intake-Formular bauen, das genug fragt und nicht nervt zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Matter Intake Form Builder in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Matter Intake Form Builder

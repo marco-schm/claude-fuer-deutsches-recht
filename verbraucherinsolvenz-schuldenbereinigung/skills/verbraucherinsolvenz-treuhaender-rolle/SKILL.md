@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-treuhaender-rolle
-description: "Verbraucherinsolvenz: Rolle des Treuhaenders: Skill behandelt die Aufgaben des Treuhaenders in der Wohlverhaltensphase Vermögensaufsicht Verteilung Forderungspruefung Gläubigerinformation. Verguetung und Koste..."
+description: "Wenn es um Verbraucherinsolvenz: Rolle des Treuhaenders in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbraucherinsolvenz: Rolle des Treuhaenders

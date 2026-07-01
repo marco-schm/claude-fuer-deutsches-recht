@@ -1,6 +1,6 @@
 ---
 name: aufzugskosten
-description: "Aufzugskosten: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Umlage, Erdgeschoss, Gewerbe, Instandhaltung, Modernisierung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Aufzugskosten: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufzugskosten: Fachmodul im Miet- und Wohnungseigentumsrecht

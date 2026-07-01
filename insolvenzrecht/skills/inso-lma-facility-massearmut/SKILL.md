@@ -1,6 +1,6 @@
 ---
 name: inso-lma-facility-massearmut
-description: "Prüft syndizierte LMA-Finanzierung in Insolvenz/StaRUG: Facility Agent, Security Agent, Majority Lenders, Waiver, Standstill, Acceleration und Forderungsanmeldung im Insolvenzrecht."
+description: "Wenn es um Insolvenz: LMA Facility, Agent und Syndikat in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Insolvenz: LMA Facility, Agent und Syndikat

@@ -1,6 +1,6 @@
 ---
 name: gruppenfeststellung-gleichartige-auftraege
-description: "Prüft Möglichkeiten einer übergreifenden Beurteilung gleichartiger Auftragsverhältnisse und ihre Grenzen im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Gruppenfeststellung gleichartige Aufträge in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gruppenfeststellung gleichartige Aufträge

@@ -1,6 +1,6 @@
 ---
 name: bewaehrungswiderruf-56f-stgb
-description: "Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhältnismäßigkeitspruefung. Beschluss-Verfahren § 453 StPO. Sofortige Beschwerde. Verteidigungsstrategie..."
+description: "Wenn es um Bewaehrungswiderruf — Paragraf 56f StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bewaehrungswiderruf — § 56f StGB

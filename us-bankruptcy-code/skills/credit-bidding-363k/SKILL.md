@@ -1,6 +1,6 @@
 ---
 name: credit-bidding-363k
-description: "Prüft secured creditor credit bid rights, cause to limit, lien disputes, plan sale and loan-to-own strategy im US Bankruptcy Code."
+description: "Wenn es um Credit Bidding Paragraf 363(k) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Credit Bidding § 363(k)

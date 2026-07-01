@@ -1,6 +1,6 @@
 ---
 name: hessen-spezial-limes-bergpark-wilhelmshoehe
-description: "Hessische Besonderheit: Obergermanisch-Raetischer Limes (Welterbe seit 2005, gemeinsam mit Bayern und Rheinland-Pfalz und Baden-Wuerttemberg), Bergpark Wilhelmshoehe in Kassel (Welterbe seit 2013) und Grube Messel (Welterbe seit 1995). Skill erlaeutert die Schutzpraxis im Limes-Korridor, die Grabungsregelungen, die Begleitung der Wasserspielanlagen in Kassel und die geologische Schutzpraxis der Grube Messel."
+description: "Wenn es um Limes und Bergpark Wilhelmshoehe als UNESCO-Welterbe in Hessen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Limes und Bergpark Wilhelmshoehe als UNESCO-Welterbe in Hessen

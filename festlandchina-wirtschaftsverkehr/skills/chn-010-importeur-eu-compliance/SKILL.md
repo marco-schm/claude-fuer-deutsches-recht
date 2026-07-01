@@ -1,6 +1,6 @@
 ---
 name: chn-010-importeur-eu-compliance
-description: "Festlandchina Wirtschaftsverkehr: Importeur EU Compliance. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Importeur EU Compliance in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Importeur EU Compliance

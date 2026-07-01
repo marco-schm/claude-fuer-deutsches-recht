@@ -1,6 +1,6 @@
 ---
 name: wissensproblem-dezentrale-information
-description: "Prüft das Wissensproblem im Recht: dezentrale Information, lokale Praxis, Preissignale, Verwaltungskapazitaet, Gesetzgebung, Gerichte und die Grenze zentraler Planung ohne Anti-Gestaltungsdogma."
+description: "Wenn es um Wissensproblem, dezentrale Information und Recht in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Wissensproblem, dezentrale Information und Recht

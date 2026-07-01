@@ -1,6 +1,6 @@
 ---
 name: ehegattenvertretung-1358-bgb
-description: "Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023: Voraussetzungen, sechsmonatige Befristung, Pflichten, Abgrenzung zur Betreuung. Vorlage Information Mandanten."
+description: "Wenn es um Paragraf 1358 BGB Ehegattenvertretung in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ehegattenvertretung 1358 BGB; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # § 1358 BGB Ehegattenvertretung

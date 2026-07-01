@@ -1,6 +1,6 @@
 ---
 name: lueth-urteil-bverfge-7-198
-description: Lueth-Urteil BVerfGE Band 7 Seite 198 vom 15.01.1958 als Grundlage der mittelbaren Drittwirkung Grundrechte als objektive Wertordnung. Mit Sachverhalt Boykott-Aufruf Veit Harlan und Bedeutung fuer Abwaegungslogik im Zivilrecht.
+description: "Wenn es um Lueth Urteil BVerfGE 7 198 in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lueth Urteil BVerfGE 7 198

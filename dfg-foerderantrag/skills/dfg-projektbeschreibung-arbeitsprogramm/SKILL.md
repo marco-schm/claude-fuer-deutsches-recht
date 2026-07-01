@@ -1,6 +1,6 @@
 ---
 name: dfg-projektbeschreibung-arbeitsprogramm
-description: "DFG-Projektbeschreibung und Arbeitsprogramm ausarbeiten: Forschungslücke, Stand der Forschung, Ziele, Hypothesen, Methoden, Arbeitspakete, Meilensteine, Risiken, Forschungsdaten und verwertbare Antragssprache."
+description: "Wenn es um Projektbeschreibung und Arbeitsprogramm in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Projektbeschreibung und Arbeitsprogramm

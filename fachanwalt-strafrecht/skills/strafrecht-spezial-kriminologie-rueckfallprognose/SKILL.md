@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-kriminologie-rueckfallprognose
-description: "Kriminalprognostische Verfahren: PCL-R (Psychopathy Checklist), HCR-20 (Historical Clinical Risk Management), FOTRES (Forensisches Operationalisiertes Therapie-Risiko-Evaluations-System), MPU-Kriterien: Kriminalprognostische Verfahren: PCL-R (Psychopathy Ch..."
+description: "Wenn es um Strafrecht Spezial Kriminologie Rueckfallprognose in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kriminalprognostische Verfahren: PCL-R (Psychopathy Checklist), HCR-20 (Historical Clinical Risk Management), FOTRES (Forensisches Operationalisiertes Therapie-Risiko-Evaluations-System), MPU-Kriterien

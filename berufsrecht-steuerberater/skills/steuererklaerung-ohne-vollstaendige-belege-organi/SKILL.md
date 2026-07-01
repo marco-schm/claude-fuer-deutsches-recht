@@ -1,6 +1,6 @@
 ---
 name: steuererklaerung-ohne-vollstaendige-belege-organi
-description: "Steuerberater: steuererklaerung ohne vollstaendige belege - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Steuererklaerung Ohne Vollstaendige Belege Organi in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: steuererklaerung ohne vollstaendige belege - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

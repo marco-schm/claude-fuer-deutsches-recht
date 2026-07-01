@@ -1,6 +1,6 @@
 ---
 name: forschungsdaten-datenschutz
-description: "Prüft Forschungsdaten, DSGVO, Ethik, Löschung, Open Data und Zweckbindung im Hochschulrecht Länder."
+description: "Wenn es um Forschungsdaten und Datenschutz in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Forschungsdaten und Datenschutz

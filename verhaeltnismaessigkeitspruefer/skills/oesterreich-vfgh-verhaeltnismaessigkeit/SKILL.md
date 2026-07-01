@@ -1,6 +1,6 @@
 ---
 name: oesterreich-vfgh-verhaeltnismaessigkeit
-description: Oesterreichische Verhältnismäßigkeitsdogmatik des Verfassungsgerichtshofs mit dem Drei-Stufen-Test Geeignetheit Erforderlichkeit Adaequanz nach Art 7 B-VG Gleichheit und EMRK-Pendants. Mit Gesetzesvorbehalt nach EMRK und Charta Wesensgehalt-Funktionsschutz Prüfung von einfachen Bundesgesetzen und Landesgesetzen ueber Art 140 B-VG und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die starke Rezeption deutscher Lehre.
+description: "Wenn es um Oesterreich VfGH Verhältnismäßigkeit in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Oesterreich VfGH Verhältnismäßigkeit

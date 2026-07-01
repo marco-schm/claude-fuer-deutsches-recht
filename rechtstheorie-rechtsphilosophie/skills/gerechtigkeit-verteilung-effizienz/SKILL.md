@@ -1,6 +1,6 @@
 ---
 name: gerechtigkeit-verteilung-effizienz
-description: "Prüft Verteilungs-, Korrektur- und Effizienzargumente, ohne wirtschaftliche Zweckmaessigkeit als Recht zu verkaufen."
+description: "Wenn es um Gerechtigkeit, Verteilung, Effizienz in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gerechtigkeit, Verteilung, Effizienz

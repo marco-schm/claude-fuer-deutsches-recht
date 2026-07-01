@@ -1,6 +1,6 @@
 ---
 name: spezial-notare-livequellen-und-rechtsprechungscheck
-description: "Notare: Livequellen- und Rechtsprechungscheck im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Notare: Livequellen- und Rechtsprechungscheck in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: Livequellen- und Rechtsprechungscheck

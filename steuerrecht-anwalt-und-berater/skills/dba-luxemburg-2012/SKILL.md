@@ -1,6 +1,6 @@
 ---
 name: dba-luxemburg-2012
-description: "DBA Deutschland Luxemburg aktuelle Fassung 2012 mit Änderungsprotokollen. Anwendungsfall Holding-Konstruktionen Soparfi Fondsstrukturen grenzüberschreitende Arbeitsverhältnisse mit hoher Pendlerzahl. Substanz Anti-Treaty-Shopping MLI Hybrid-Regelungen. Output Mandanten-Memo Holding-Substanztest-..."
+description: "Wenn es um DBA Deutschland-Luxemburg (2012) in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # DBA Deutschland-Luxemburg (2012)

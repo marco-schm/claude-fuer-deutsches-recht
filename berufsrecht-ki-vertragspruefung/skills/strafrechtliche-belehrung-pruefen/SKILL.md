@@ -1,6 +1,6 @@
 ---
 name: strafrechtliche-belehrung-pruefen
-description: "Prüfe die strafrechtliche Belehrung des Dienstleisters nach Absatz drei Satz zwei Nummer eins der einschlaegigen Dienstleisterregelung. Pflichtinhalte § 203 Absatz eins drei vier und sechs StGB und § 204 StGB. Empfehlung Normtext als Vertragsanlage. Hinweis auf Sekundaerpflicht des Dienstleisters..."
+description: "Wenn es um Strafrechtliche Belehrung prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Strafrechtliche Belehrung prüfen

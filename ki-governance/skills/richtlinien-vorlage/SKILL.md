@@ -1,6 +1,6 @@
 ---
 name: richtlinien-vorlage
-description: "Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter Musterrichtlinien und des Praxisprofils — Recherche- und Synthese-Tool, dessen Ausgabe ein Entwurf für die anwaltliche Prüfung und Freigabe ist, keine fertige Richtlinie. Lädt, wenn der Nutzer KI-Richtlinie entwerfen, wir brau..."
+description: "Wenn es um digitale Werkzeuge-Richtlinien-Starter in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # KI-Richtlinien-Starter

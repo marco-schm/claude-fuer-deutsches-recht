@@ -1,6 +1,6 @@
 ---
 name: handelskauf-fristenampel-hgb
-description: "Macht Fristenampel für Rüge, Lieferung, Fixgeschäft, Annahmeverzug, Verjährung und Beweise im Handelsrecht Hgb."
+description: "Wenn es um Handelskauf-Fristenampel in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelskauf-Fristenampel

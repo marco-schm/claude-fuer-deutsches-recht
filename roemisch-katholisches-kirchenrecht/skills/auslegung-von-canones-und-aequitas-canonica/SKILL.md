@@ -1,6 +1,6 @@
 ---
 name: auslegung-von-canones-und-aequitas-canonica
-description: "Auslegung von Canones und aequitas canonica: Wortlaut, Kontext, Parallelstellen, Zweck, Tradition, Billigkeit und Heil der Seelen; CIC can. 17-19 und 1752; KKK 1950-1974 und 2038-2046; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkre..."
+description: "Wenn es um Auslegung von Canones und aequitas canonica in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auslegung von Canones und aequitas canonica

@@ -1,6 +1,6 @@
 ---
 name: vorsicht-bei-auskuenften
-description: "Hilft, vor Behördenkontakt nur notwendige, geprüfte und belegbare Angaben zu machen und unnötige Selbstbelastung oder Datenpreisgabe zu vermeiden im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Vorsicht bei Auskünften in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vorsicht bei Auskünften

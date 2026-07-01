@@ -1,6 +1,6 @@
 ---
 name: honorarstreit-und-schlichtung-kaltstart-und-fakte
-description: "Steuerberater: honorarstreit und schlichtung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Honorarstreit Und Schlichtung Kaltstart Und Fakte in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: honorarstreit und schlichtung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

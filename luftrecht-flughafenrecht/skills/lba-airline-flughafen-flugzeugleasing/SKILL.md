@@ -1,6 +1,6 @@
 ---
 name: lba-airline-flughafen-flugzeugleasing
-description: "Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder Landesbehoerde zuständig ist. Prüft §§ 29 31 LuftVG Zuständigkeitsabgrenzung LBA vs. Landesluftfahrtbehoerde EU-VO 1008/2008 Art. 4 Aufsichtsstaat und liefert Zuständigkeitsvermerk mit richtigem Adressaten für Widerspruch oder Klage im Luftrech..."
+description: "Wenn es um LBA-Zuständigkeit prüfen – Behörde korrekt adressieren in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # LBA-Zuständigkeit prüfen – Behörde korrekt adressieren

@@ -1,6 +1,6 @@
 ---
 name: private-devices-byod
-description: "Klärt die Grenzen des Arbeitgeberzugriffs auf private Geräte (BYOD) in Internal Investigations – Einwilligung, Verhältnismäßigkeit, § 202a StGB im Internal Investigations Praxis."
+description: "Wenn es um Private Geräte und BYOD in Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Private Geräte und BYOD in Internal Investigations

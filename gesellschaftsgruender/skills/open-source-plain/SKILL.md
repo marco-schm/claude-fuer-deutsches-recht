@@ -1,6 +1,6 @@
 ---
 name: open-source-plain
-description: "Prüft Open-Source-Risiken vor Gründung, Finanzierung und Due Diligence im Gesellschaftsgruender."
+description: "Wenn es um Open-Source-Check Startup in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Open-Source-Check Startup

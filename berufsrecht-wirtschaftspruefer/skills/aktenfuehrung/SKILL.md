@@ -1,6 +1,6 @@
 ---
 name: aktenfuehrung
-description: "Aktenführung: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Aktenführung im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Aktenführung in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Aktenführung

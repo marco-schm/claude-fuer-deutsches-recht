@@ -1,6 +1,6 @@
 ---
 name: aufsichtspflicht-und-unfall
-description: "Prüft Aufsichtspflicht, Unfall, Haftung und gesetzliche Unfallversicherung im Schulrecht Länder."
+description: "Wenn es um Aufsichtspflicht Und Unfall in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufsichtspflicht Und Unfall

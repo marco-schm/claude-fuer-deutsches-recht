@@ -1,6 +1,6 @@
 ---
 name: bmleh-agrar-und-foerderungsrecht-gak-gap
-description: "Sachbereich Agrar- und Förderungsrecht (GAK; GAP) im Geschäftsbereich BMLEH: Normbestand (GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.); Akteure (BLE; Länder-Landwirtschaftsministerien; Generaldirektion AGRI; BMEL/BMLEH.); EU-Bezug (GAP-Reform; Direktzahlungen-VO; ELER-VO;"
+description: "Wenn es um Agrar- und Förderungsrecht (GAK; GAP) (BMLEH) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmleh Agrar Und Foerderungsrecht Gak Gap; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Agrar- und Förderungsrecht (GAK; GAP) (BMLEH)

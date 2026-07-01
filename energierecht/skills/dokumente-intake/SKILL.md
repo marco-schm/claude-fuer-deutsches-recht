@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Energierecht (EnWG, EEG): sortiert Netzanschlussvertrag, EEG-Vergütungsbescheid, Marktstammdatenregister-Eintrag, prüft Datum, Absender, Frist und Beweiswert (Messdaten, Anschlussberichte); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-gesellschafter
-description: "Prüft Minderjährige in Gesellschaften: Vertretung, Familiengericht, Haftung und Genehmigungen im Gesellschaftsgruender."
+description: "Wenn es um Minderjährige Gesellschafter in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Minderjährige Gesellschafter

@@ -1,6 +1,6 @@
 ---
 name: rechtsstand-mai-2026-faktenbank
-description: "Faktenbank und Quellen-Gate für aktuelle steuerrechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu E-Rechnung, Umsatzsteuer, Krypto, Grundsteuer, Mindeststeuer, DBA, Betriebsprüfung, Einspruch, AdV und Steuer-/SV-Schnittstellen. Zitiert nur freie amtl..."
+description: "Wenn es um Rechtsstand Mai 2026 — Faktenbank Steuerrecht in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsstand Mai 2026 — Faktenbank Steuerrecht

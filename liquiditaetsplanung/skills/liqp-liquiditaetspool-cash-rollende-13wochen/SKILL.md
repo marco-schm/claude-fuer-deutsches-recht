@@ -1,6 +1,6 @@
 ---
 name: liqp-liquiditaetspool-cash-rollende-13wochen
-description: "Liqp Liquiditaetspool Cash Rollende 13wochen im Plugin Liquiditaetsplanung: prüft konkret Spezialfall Liquiditaetspool und Cash-Pooling im Konzern, Bauleiter rollende 13-Wochen-Liquiditaetsplanung, Spezialfall Warenkredit und Skontostrategien in der Krise."
+description: "Wenn es um Liqp Liquiditaetspool Cash Rollende 13wochen in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Liqp Liquiditaetspool Cash Rollende 13wochen

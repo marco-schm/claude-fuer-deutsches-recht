@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-behoerdenstrategie-kooperation-oder-schweigen
-description: "Datenschutzrecht-Brückenskill: Kooperation oder Schweigen strategisch wählen: Kooperationsnutzen, Art.-83-Milderung, Aussagefreiheit, Scope-Erweiterung und Folgeklagen abwägen: Datenschutzrecht-Brückenskill: Kooperation oder Schweigen strategisch wählen: Ko..."
+description: "Wenn es um Dsv Sanktion Behoerdenstrategie Kooperation Oder Schweigen in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Datenschutzrecht-Brückenskill: Kooperation oder Schweigen strategisch wählen: Kooperationsnutzen, Art.-83-Milderung, Aussagefreiheit, Scope-Erweiterung und Folgeklagen abwägen

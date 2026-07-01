@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-hgr-dlt-pilotregime-token
-description: "EU-DLT-Pilotregime VO 2022/858 (anwendbar 23.3.2023, verlängert voraussichtlich bis 23.3.2029) für DLT-basierte Wertpapierinfrastruktur. Tokenisierte Aktien und elektronische Wertpapiere (eWpG). Plattformtypen DLT-MTF (500 Mio. EUR) / DLT-TSS (6 Mrd. EUR) / DLT-SS. BaFin-Lizenzverfahren. Krypto-Wertpapierregister § 16 eWpG. Schwellenwerte, Compliance-Workflow, Risikomatrix, DORA-Schnittstelle, MiCA-Abgrenzung. Schriftsatzvorlagen BaFin-Antrag, Smart-Contract-Checkliste."
+description: "Wenn es um Fachanwalt Hgr Dlt Pilotregime Token in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 ## Mandantenfragen beim Kaltstart

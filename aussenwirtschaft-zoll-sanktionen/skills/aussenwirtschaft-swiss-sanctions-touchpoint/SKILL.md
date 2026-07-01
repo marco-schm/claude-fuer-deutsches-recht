@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-swiss-sanctions-touchpoint
-description: "Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embargogesetz SR 946.231) SECO-Sanktionslisten und deren Konvergenz und Divergenz zu EU-Sanktionen. Relevant bei in der Schweiz ansaessigen Konzerntochtern oder Transaktionen ueber Schweizer Banken. Output: Kurzvergleich EU..."
+description: "Wenn es um Schweizer Sanktionen als Touchpoint: EmbG und SECO-Listen im EU-Mandat in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Schweizer Sanktionen als Touchpoint: EmbG und SECO-Listen im EU-Mandat

@@ -1,6 +1,6 @@
 ---
 name: gesamtschuld-und-regress-bgb-bt
-description: "Prüft Gesamtschuld §§ 421 ff. BGB, Innenausgleich nach § 426 BGB und Regress im Schuldrecht BT."
+description: "Wenn es um Gesamtschuld und Regress BGB BT in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesamtschuld und Regress BGB BT

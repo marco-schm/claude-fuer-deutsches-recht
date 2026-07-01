@@ -1,6 +1,6 @@
 ---
 name: erbe-compliance-dokumentation-aktenvermerk
-description: "Erbe: Compliance-Dokumentation und Aktenvermerk: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. W..."
+description: "Wenn es um Erbe: Compliance-Dokumentation und Aktenvermerk in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbe: Compliance-Dokumentation und Aktenvermerk

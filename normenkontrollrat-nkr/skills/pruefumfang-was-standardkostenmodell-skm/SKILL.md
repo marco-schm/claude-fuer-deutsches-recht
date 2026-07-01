@@ -1,6 +1,6 @@
 ---
 name: pruefumfang-was-standardkostenmodell-skm
-description: "Negativabgrenzung des NKR-Prüfumfangs. Erklaert was der NKR ausdruecklich nicht prüft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prüft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zuständigkeitsanmassung und liefert Stand"
+description: "Wenn es um NKR-Prüfumfang — was prüft der NKR nicht in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pruefumfang Was Standardkostenmodell Skm; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
 ---
 
 # NKR-Prüfumfang — was prüft der NKR nicht

@@ -1,6 +1,6 @@
 ---
 name: workflow-kindeswohl-familie
-description: "Kindeswohl/Familie: Prüfungslinie für Migrationsrecht: prüft Art. 6 GG, Art. 8 EMRK, Schule, Sorge, Umgang und Trennung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output."
+description: "Wenn es um Kindeswohl/Familie: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kindeswohl/Familie: Prüfungslinie für Migrationsrecht

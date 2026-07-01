@@ -1,6 +1,6 @@
 ---
 name: accuracy-robustness-cybersecurity-ai
-description: "Prüft Genauigkeit, Robustheit und Cybersicherheit von KI-Funktionen im Roboter mit realistischen Einsatzgrenzen."
+description: "Wenn es um Accuracy, Robustness, Cybersecurity bei digitale Werkzeuge im Roboter in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Accuracy, Robustness, Cybersecurity bei KI im Roboter

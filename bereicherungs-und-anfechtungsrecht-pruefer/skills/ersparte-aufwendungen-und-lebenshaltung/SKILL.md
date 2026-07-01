@@ -1,6 +1,6 @@
 ---
 name: ersparte-aufwendungen-und-lebenshaltung
-description: "Bei verbrauch des Erlangten mit ersparten eigenen Ausgaben kollidiert. Normen: § 818 Abs. 2 und Abs. 3 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvortei..."
+description: "Wenn es um Ersparte Aufwendungen und Lebenshaltung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ersparte Aufwendungen und Lebenshaltung

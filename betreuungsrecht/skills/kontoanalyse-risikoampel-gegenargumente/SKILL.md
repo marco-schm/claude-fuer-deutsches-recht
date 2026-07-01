@@ -1,6 +1,6 @@
 ---
 name: kontoanalyse-risikoampel-gegenargumente
-description: "Kontoanalyse: Risikoampel, Gegenargumente und Verteidigungslinien: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
+description: "Wenn es um Kontoanalyse: Risikoampel, Gegenargumente und Verteidigungslinien in Betreuungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kontoanalyse Risikoampel Gegenargumente; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Kontoanalyse: Risikoampel, Gegenargumente und Verteidigungslinien

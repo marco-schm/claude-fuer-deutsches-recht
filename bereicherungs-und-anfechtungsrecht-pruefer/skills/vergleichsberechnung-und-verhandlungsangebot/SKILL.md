@@ -1,6 +1,6 @@
 ---
 name: vergleichsberechnung-und-verhandlungsangebot
-description: "Bei bereicherungsrechtliche Risiken in einen Vergleichskorridor übersetzt werden. Normen: §§ 812 und 818 BGB; § 779 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für W..."
+description: "Wenn es um Vergleichsberechnung und Verhandlungsangebot in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vergleichsberechnung und Verhandlungsangebot

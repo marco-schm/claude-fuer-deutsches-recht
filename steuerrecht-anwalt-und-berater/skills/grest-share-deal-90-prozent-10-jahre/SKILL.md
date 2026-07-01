@@ -1,6 +1,6 @@
 ---
 name: grest-share-deal-90-prozent-10-jahre
-description: "GrESt Share Deal vertieft: § 1 Abs. 2a/2b/3/3a GrEStG, 90-Prozent-Schwelle, 10-Jahres-Zeitraum, unmittelbare und mittelbare Beteiligungen, RETT-Blocker, Altgesellschafter, Kapital- und Personengesellschaften."
+description: "Wenn es um GrESt: Share Deal, 90 % und 10 Jahre in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GrESt: Share Deal, 90 % und 10 Jahre

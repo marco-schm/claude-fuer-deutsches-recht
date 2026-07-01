@@ -1,6 +1,6 @@
 ---
 name: reste-und-uebertragbarkeit-dashboard-b
-description: "Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Dashboard bauen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Reste Und Uebertragbarkeit Dashboard B in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reste Und Uebertragbarkeit Dashboard B

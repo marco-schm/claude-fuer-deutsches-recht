@@ -1,6 +1,6 @@
 ---
 name: insolvenz-erbbauberechtigter
-description: "Ordnet Erbbauzins, Heimfall, Verwertung, Masse, Finanzierung und Grundbuchvollzug im Erbbaurecht Praxis."
+description: "Wenn es um Insolvenz des Erbbauberechtigten in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenz des Erbbauberechtigten

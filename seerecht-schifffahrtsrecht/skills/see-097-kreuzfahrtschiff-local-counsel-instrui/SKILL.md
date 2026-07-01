@@ -1,6 +1,6 @@
 ---
 name: see-097-kreuzfahrtschiff-local-counsel-instrui
-description: "See- und Schifffahrtsrecht: Kreuzfahrtschiff: Local Counsel instruieren. Local Counsel instruieren für Kreuzfahrtschiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kreuzfahrtschiff Local Counsel Instrui in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreuzfahrtschiff Local Counsel Instrui

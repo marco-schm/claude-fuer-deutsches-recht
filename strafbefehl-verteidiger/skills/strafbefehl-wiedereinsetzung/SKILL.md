@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-wiedereinsetzung
-description: "Wiedereinsetzung in den vorigen Stand nach § 44 StPO bei versaeumter Einspruchsfrist. Voraussetzungen: kein Verschulden. Antragsfrist 1 Woche. Glaubhaftmachung § 45 StPO. Zustellungsfiktion entgegnen. Eidesstattliche Versicherung. Wiedereinsetzung und gleichzeitiger Einspruch im Strafbefehl Verte..."
+description: "Wenn es um Wiedereinsetzung nach versaeumter Einspruchsfrist — Paragraf 44 StPO in Strafbefehl-Verteidiger geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wiedereinsetzung nach versaeumter Einspruchsfrist — § 44 StPO

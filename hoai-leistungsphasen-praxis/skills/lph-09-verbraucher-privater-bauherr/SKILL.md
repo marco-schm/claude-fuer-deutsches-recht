@@ -1,6 +1,6 @@
 ---
 name: lph-09-verbraucher-privater-bauherr
-description: "HOAI LPH 9 Objektbetreuung: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 9 Objektbetreuung: Erklärt pflichten in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 9 Objektbetreuung: Erklärt pflichten

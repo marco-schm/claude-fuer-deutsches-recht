@@ -1,6 +1,6 @@
 ---
 name: hochschulfusion-neugliederung
-description: "Prüft Fusion, Standortschließung, Personal, Gremien und Übergangsrecht im Hochschulrecht Länder."
+description: "Wenn es um Hochschulfusion und Neugliederung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hochschulfusion und Neugliederung

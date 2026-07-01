@@ -1,6 +1,6 @@
 ---
 name: dsr-betroffenenrechte-prozess-leitfaden
-description: "Leitfaden Betroffenenrechte-Prozess Art. 15 ff. DSGVO: Auskunft, Berichtigung, Loeschung, Datenuebertragbarkeit. Prüfraster für Verantwortlichen und Auftragsverarbeiter."
+description: "Wenn es um DSR: Betroffenenrechte-Prozess in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DSR: Betroffenenrechte-Prozess

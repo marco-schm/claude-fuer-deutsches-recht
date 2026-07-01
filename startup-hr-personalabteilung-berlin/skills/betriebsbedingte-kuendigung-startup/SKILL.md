@@ -1,6 +1,6 @@
 ---
 name: betriebsbedingte-kuendigung-startup
-description: "Berliner Start-up-HR: Betriebsbedingte Kündigung im Start-up: Unternehmerentscheidung, Wegfall, Sozialauswahl, Weiterbeschäftigung und Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR..."
+description: "Wenn es um Betriebsbedingte Kuendigung Startup in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsbedingte Kuendigung Startup

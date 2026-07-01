@@ -1,6 +1,6 @@
 ---
 name: patientenverfuegung-klinik
-description: "Patientenverfügung in der Klinik: moderner Medizinrechts-Skill für Auslegung von Patientenverfügung, Vorsorgevollmacht, Ethikkomitee und Haftungsangst: Patientenverfügung in der Klinik: moderner Medizinrechts-Skill für Auslegung von Patientenverfügung, Vors..."
+description: "Wenn es um Patientenverfuegung Klinik in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patientenverfügung in der Klinik: moderner Medizinrechts-Skill für Auslegung von Patientenverfügung, Vorsorgevollmacht, Ethikkomitee und Haftungsangst

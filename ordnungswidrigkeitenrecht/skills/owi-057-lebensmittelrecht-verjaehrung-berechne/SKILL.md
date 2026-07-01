@@ -1,6 +1,6 @@
 ---
 name: owi-057-lebensmittelrecht-verjaehrung-berechne
-description: "Ordnungswidrigkeitenrecht: Lebensmittelrecht: Verjährung berechnen. Verjährung berechnen für Lebensmittelrecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Lebensmittelrecht Verjaehrung Berechne in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lebensmittelrecht Verjaehrung Berechne

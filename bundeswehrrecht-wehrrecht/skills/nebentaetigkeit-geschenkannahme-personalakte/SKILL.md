@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-geschenkannahme-personalakte
-description: "Nebentätigkeit Geschenkannahme Compliance: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehr..."
+description: "Wenn es um Nebentätigkeit und Geschenkannahme – Compliance des Soldaten in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nebentätigkeit und Geschenkannahme – Compliance des Soldaten

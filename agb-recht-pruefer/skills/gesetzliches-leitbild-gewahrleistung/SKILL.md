@@ -1,6 +1,6 @@
 ---
 name: gesetzliches-leitbild-gewahrleistung
-description: "Norm- und Dogmatik-Skill für Gesetzliches Leitbild Abweichung 307: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung im AGB-Recht."
+description: "Wenn es um Gesetzliches Leitbild Abweichung 307 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Gesetzliches Leitbild Gewahrleistung; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Gesetzliches Leitbild Abweichung 307

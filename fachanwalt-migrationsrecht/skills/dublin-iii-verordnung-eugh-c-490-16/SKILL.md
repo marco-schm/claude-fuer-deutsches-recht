@@ -1,6 +1,6 @@
 ---
 name: dublin-iii-verordnung-eugh-c-490-16
-description: "Dublin Iii Verordnung EuGH C 490 16: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Dublin Iii Verordnung EuGH C 490 16 in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dublin Iii Verordnung EuGH C 490 16

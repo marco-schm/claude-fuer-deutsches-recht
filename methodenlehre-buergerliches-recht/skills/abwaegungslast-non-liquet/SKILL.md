@@ -1,6 +1,6 @@
 ---
 name: abwaegungslast-non-liquet
-description: "Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist, in denen das Material keine eindeutige Entscheidung erlaubt. Das Skill systematisiert die Non-liquet-Problematik im Zivilrecht und zeigt, welche Entscheidungsregeln bei Abwägungsunklarheit greifen — Beweislastverteilung, Regel..."
+description: "Wenn es um Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage

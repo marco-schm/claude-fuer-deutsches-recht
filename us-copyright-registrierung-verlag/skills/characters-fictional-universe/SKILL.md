@@ -1,6 +1,6 @@
 ---
 name: characters-fictional-universe
-description: "Prüft Schutz fiktiver Figuren, Universen, character bible, merchandising and derivative exploitation im Us Copyright Registrierung Verlag."
+description: "Wenn es um Characters und Fictional Universe in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Characters und Fictional Universe

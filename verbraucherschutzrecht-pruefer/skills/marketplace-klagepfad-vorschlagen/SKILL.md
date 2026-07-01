@@ -1,6 +1,6 @@
 ---
 name: marketplace-klagepfad-vorschlagen
-description: "Prüfer: Marketplace: Klagepfad skizzieren im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Marketplace Klagepfad Skizzieren in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Marketplace Klagepfad Skizzieren

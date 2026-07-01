@@ -1,6 +1,6 @@
 ---
 name: agb-rechtswahl-schweizer-recht-rom-i
-description: "Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Prüfung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verw"
+description: "Wenn es um Agb Rechtswahl Schweizer Recht Rom I in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Rechtswahl Schweizer Recht Rom I; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Agb Rechtswahl Schweizer Recht Rom I

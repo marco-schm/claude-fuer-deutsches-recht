@@ -1,6 +1,6 @@
 ---
 name: dma-compliance-dokumentation-und-akte
-description: "DMA: Compliance-Dokumentation und Aktenvermerk: DMA: Compliance-Dokumentation und Aktenvermerk."
+description: "Wenn es um DMA: Compliance-Dokumentation und Aktenvermerk in Fachanwalt It Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # DMA: Compliance-Dokumentation und Aktenvermerk

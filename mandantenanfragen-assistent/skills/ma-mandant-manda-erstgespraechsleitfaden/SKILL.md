@@ -1,6 +1,6 @@
 ---
 name: ma-mandant-manda-erstgespraechsleitfaden
-description: "Spezialfall Mandant mit gesetzlicher Betreuung oder Vorsorgevollmacht: Prüfen der Vertretungsmacht, Einwilligungsfaehigkeit, Schweigepflicht gegenueber Betreuer, Beauftragung nur für den Aufgabenkreis. Mustertexte und Prüfraster. Routet in passende Skills im Betreuungsrechts-Plugin im Mandanten..."
+description: "Wenn es um Mandant mit Betreuung in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandant mit Betreuung

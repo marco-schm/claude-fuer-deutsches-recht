@@ -1,6 +1,6 @@
 ---
 name: engagement-motivation-formeln
-description: "Formulierungskatalog für Engagement- und Motivationsaussagen im Zeugnis. Enthält Formeln für alle Noten, Abgrenzung zwischen echter Motivation und Mitläufertum-Signalen sowie eine Liste von Formulierungen, die ungewollt Passivität oder Opportunismus signalisieren."
+description: "Wenn es um Engagement- und Motivations-Formeln in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Engagement- und Motivations-Formeln

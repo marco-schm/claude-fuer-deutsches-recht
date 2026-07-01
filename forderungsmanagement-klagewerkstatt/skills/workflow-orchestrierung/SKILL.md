@@ -1,6 +1,6 @@
 ---
 name: workflow-orchestrierung
-description: "Steuert den Gesamtablauf einer Forderungsakte vom Eingang bis zur Vollstreckung oder Abschreibung. Definiert Workflow-Stufen Eingang Prüfung Mahnung Mahnbescheid Klage Titel Vollstreckung Erloesverwertung. Pinpoints ZPO 91 Kostenfolge ZPO 167 Rueckwirkung Zustellung ZPO 696 Abgabe nach Widerspru..."
+description: "Wenn es um Workflow-Orchestrierung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Workflow-Orchestrierung

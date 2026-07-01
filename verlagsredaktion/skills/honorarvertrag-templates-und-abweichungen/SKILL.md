@@ -1,6 +1,6 @@
 ---
 name: honorarvertrag-templates-und-abweichungen
-description: "Honorarvertragstemplates für juristische Werke: Standardvertrag Aufsatz, Buch, Kommentar, Herausgeberwerk. Abweichungspruefung gegen UrhG § 32 angemessene Verguetung im Verlagsredaktion."
+description: "Wenn es um Honorarvertrags-Templates in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Honorarvertrags-Templates

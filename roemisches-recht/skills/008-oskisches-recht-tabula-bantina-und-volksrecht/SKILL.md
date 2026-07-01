@@ -1,6 +1,6 @@
 ---
 name: 008-oskisches-recht-tabula-bantina-und-volksrecht
-description: "Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht im Römisches Recht."
+description: "Wenn es um Rom Oskisches Recht Tabula Bantina Und Volksrecht in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Oskisches Recht Tabula Bantina Und Volksrecht

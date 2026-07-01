@@ -1,6 +1,6 @@
 ---
 name: sbv-und-integrationsamt-kuendigungsschutz
-description: "Berliner Start-up-HR: Schwerbehindertenvertretung, Integrationsamt und besonderer Kündigungsschutz: HR-Fristen und Eskalation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um SBV Und Integrationsamt Kuendigungsschutz in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SBV Und Integrationsamt Kuendigungsschutz

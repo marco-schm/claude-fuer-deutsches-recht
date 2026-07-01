@@ -1,6 +1,6 @@
 ---
 name: strafverfolgung-beweisbewertung-ki-anhang-iii
-description: "KI in Strafverfolgung und Beweisbewertung: Anhang III, Verdachtsgenerierung, Datenanalyse, Encro-/Messenger-Auswertung, Bild-/Audioanalyse, Beweisverwertungsrisiken, Akteneinsicht, Verteidigungsangriffe und Behörden-Governance."
+description: "Wenn es um Strafverfolgung: digitale Werkzeuge und Beweisbewertung in europäischem Technikregulierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Strafverfolgung Beweisbewertung Ki Anhang Iii; Arbeitsfeld: europäischem Technikregulierungsrecht."
 ---
 
 # Strafverfolgung: KI und Beweisbewertung

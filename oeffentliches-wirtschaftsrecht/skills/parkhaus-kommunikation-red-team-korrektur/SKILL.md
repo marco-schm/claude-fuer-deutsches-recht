@@ -1,6 +1,6 @@
 ---
 name: parkhaus-kommunikation-red-team-korrektur
-description: "Parkhaus: Kommunikation schreiben im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Parkhaus Kommunikation Schreiben in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parkhaus Kommunikation Schreiben

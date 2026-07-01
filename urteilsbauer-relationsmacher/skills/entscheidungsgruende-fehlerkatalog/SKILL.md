@@ -1,6 +1,6 @@
 ---
 name: entscheidungsgruende-fehlerkatalog
-description: "Entscheidungsgruende Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Wenn es um Entscheidungsgruende Fehlerkatalog in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Entscheidungsgruende Fehlerkatalog

@@ -1,6 +1,6 @@
 ---
 name: spezial-daueraufenthalt-eu
-description: "Daueraufenthalt-EU: Spezial-Skill im Migrationsrecht; prüft Zeiten, Lebensunterhalt, Sprachkenntnisse, Ausschlüsse, Mobilität; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Daueraufenthalt-EU in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Daueraufenthalt-EU

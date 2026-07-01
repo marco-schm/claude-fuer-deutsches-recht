@@ -1,6 +1,6 @@
 ---
 name: kuendigungsschutzklage
-description: "Kündigungsschutzklage nach Paragraf 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung: Anwendungsfall Arbeitnehmer erhaelt Kündigung und will Klage..."
+description: "Wenn es um Kuendigungsschutzklage in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kündigungsschutzklage nach Paragraf 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung

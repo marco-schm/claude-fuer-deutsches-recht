@@ -1,6 +1,6 @@
 ---
 name: papierpost-scannen
-description: "Solo-Selbstständige: macht aus Papierpost scanbare Aufgaben mit Frist, Quelle und Ablageort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Büro Alltag und Tools: Macht aus papierpost scanbare aufgaben mit frist in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Büro Alltag und Tools: Macht aus papierpost scanbare aufgaben mit frist

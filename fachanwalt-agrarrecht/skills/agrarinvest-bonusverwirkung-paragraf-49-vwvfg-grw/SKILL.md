@@ -1,6 +1,6 @@
 ---
 name: agrarinvest-bonusverwirkung-paragraf-49-vwvfg-grw
-description: "Bonusverwirkung bei Agrarinvest-Foerderung durch verspaetete Verwendung mit Paragraf 49 VwVfG und VO 2021/1060 Art 64. Prüfraster Vertrauensschutz Bagatellgrenze Vorhabensteuerung."
+description: "Wenn es um Agrarinvest Bonusverwirkung Paragraf 49 Vwvfg Grw in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agrarinvest Bonusverwirkung Paragraf 49 Vwvfg Grw

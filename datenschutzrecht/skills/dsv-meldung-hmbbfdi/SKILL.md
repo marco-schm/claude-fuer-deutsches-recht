@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-hmbbfdi
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Hamburgischer Beauftragter für Datenschutz und Informationsfreiheit (HmbBfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Hamburg und für nicht-öffe"
+description: "Wenn es um Reicht eine Meldung nach Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dsv Meldung Hmbbfdi; Arbeitsfeld: Datenschutzrecht."
 ---
 
 # Reicht eine Meldung nach Art

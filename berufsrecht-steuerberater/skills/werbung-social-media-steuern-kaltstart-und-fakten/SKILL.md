@@ -1,6 +1,6 @@
 ---
 name: werbung-social-media-steuern-kaltstart-und-fakten
-description: "Steuerberater: werbung social media steuern - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Werbung Social Media Steuern Kaltstart Und Fakten in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: werbung social media steuern - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

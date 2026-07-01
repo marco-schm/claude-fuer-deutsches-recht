@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-bei-mehrfachvertretung-kaltstart-u
-description: "Anwälte: interessenkollision bei mehrfachvertretung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Interessenkollision Bei Mehrfachvertretung Kaltstart U in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: interessenkollision bei mehrfachvertretung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

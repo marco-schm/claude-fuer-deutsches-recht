@@ -1,6 +1,6 @@
 ---
 name: azubi-zeugnis-analyse
-description: "Analyse von Ausbildungszeugnissen nach Paragraf 16 BBiG bei Zeugnisstreit oder Berichtigungsverlangen. Anwendungsfall Auszubildender hat Ausbildungszeugnis erhalten das er für schlecht hält. Normen Paragraf 16 BBiG Zeugnispflicht Paragraf 109 GewO analog. Prüfraster Lernfortschritt Berufsschulleistungen praktische Ausbildungsaufgaben Verhalten im Betrieb Ampelzuordnung branchenspezifische Formulierungen. Output Ampeltabelle mit Notentendenzen Begründungen und Verbesserungsvorschlaegen. Abgrenzung zu leistungsbeurteilung-analyse und schlussformel-bewertung (Arbeitszeugnisse Erwachsener)."
+description: "Wenn es um Ausbildungszeugnis-Analyse (Azubi-Zeugnis) in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausbildungszeugnis-Analyse (Azubi-Zeugnis)

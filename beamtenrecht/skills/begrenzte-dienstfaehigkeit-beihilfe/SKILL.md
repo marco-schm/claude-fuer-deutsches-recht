@@ -1,6 +1,6 @@
 ---
 name: begrenzte-dienstfaehigkeit-beihilfe
-description: "Begrenzte Dienstfähigkeit, Wiedereingliederung, Reaktivierung und Untersuchungsanordnung im Beamtenrecht."
+description: "Wenn es um Begrenzte Dienstfaehigkeit Und Reaktivierung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Begrenzte Dienstfaehigkeit Und Reaktivierung

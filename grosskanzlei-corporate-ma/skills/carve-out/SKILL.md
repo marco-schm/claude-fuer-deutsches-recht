@@ -1,6 +1,6 @@
 ---
 name: carve-out
-description: "Carve-out Separation und TSA Deep Dive: plant Herausloesung von Geschäftsbereichen, Assets, Mitarbeitern, IT, Daten, Genehmigungen und Uebergangsleistungen."
+description: "Wenn es um Carve Out Separation TSA in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Carve Out Separation TSA

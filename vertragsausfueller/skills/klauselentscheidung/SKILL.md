@@ -1,6 +1,6 @@
 ---
 name: klauselentscheidung
-description: "Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwendungsfall Vertrag enthält optionale Klauseln wie Umsatzsteueroption Indexierung Konkurrenzschutz Rückbau oder Betriebspflicht die aktiv angekreuzt oder formuliert werden müssen. §§ 307-309 BGB AGB-Kontrolle, § 557b BGB Indexmiete,..."
+description: "Wenn es um Klauselentscheidungen in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klauselentscheidungen

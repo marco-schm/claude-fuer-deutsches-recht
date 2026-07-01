@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Produktrecht (ProdSG/CE): trennt fehlende Tatsachen von fehlenden Belegen (Konformitätserklärung, Technisches Dossier, Risikobewertung), nennt pro Lücke Beweisthema, Beschaffungsweg (Marktüberwachung Länder), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

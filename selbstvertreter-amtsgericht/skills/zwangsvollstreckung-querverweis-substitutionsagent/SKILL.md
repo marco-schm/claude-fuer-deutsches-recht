@@ -1,6 +1,6 @@
 ---
 name: zwangsvollstreckung-querverweis-substitutionsagent
-description: "Querverweis zum Substitutionsagenten für die Zwangsvollstreckung nach Urteil: Dieses Plugin behandelt die Vollstreckung nicht inhaltlich. Hinweis welche Schritte als naechstes ans..."
+description: "Wenn es um Querverweis zum Substitutionsagenten für die Zwangsvollstreckung nach Urteil in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Querverweis zum Substitutionsagenten für die Zwangsvollstreckung nach Urteil

@@ -1,6 +1,6 @@
 ---
 name: vvg-arglist-taeuschung-anfechtung
-description: "Arglistanfechtung nach § 22 VVG/BGB § 123: Gesundheitsangaben, Schadenhergang, Vorschäden, subjektives Element, Indizien und Gegenbeweis im Versicherungsrecht."
+description: "Wenn es um Arglistanfechtung des Versicherers in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Arglistanfechtung des Versicherers

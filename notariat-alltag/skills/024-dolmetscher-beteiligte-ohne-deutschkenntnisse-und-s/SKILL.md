@@ -1,6 +1,6 @@
 ---
 name: 024-dolmetscher-beteiligte-ohne-deutschkenntnisse-und-s
-description: "Notariat im Alltag: Dolmetscher, Beteiligte ohne Deutschkenntnisse und Sprachvermerk. Anforderungen nach § 16 BeurkG, Dolmetscherqualifikation, Sprachvermerk in der Urkunde und zweisprachige Beurkundung im Notariat."
+description: "Wenn es um Notariat im Alltag: Dolmetscher, Beteiligte ohne Deutschkenntnisse, Sprachvermerk in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Dolmetscher, Beteiligte ohne Deutschkenntnisse, Sprachvermerk

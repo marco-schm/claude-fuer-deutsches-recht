@@ -1,6 +1,6 @@
 ---
 name: messakte-formular-portal-und-einreichung
-description: "Messakte: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Messakte: Formular, Portal und Einreichungslogik in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Messakte: Formular, Portal und Einreichungslogik

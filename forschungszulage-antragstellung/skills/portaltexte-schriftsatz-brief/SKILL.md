@@ -1,6 +1,6 @@
 ---
 name: portaltexte-schriftsatz-brief
-description: "Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahren..."
+description: "Wenn es um Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine

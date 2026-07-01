@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-personengesellschaft
-description: "Besonderheiten der Sanierungsertragsbehandlung bei Personengesellschaften und Mitunternehmern. Anteilige Zurechnung Sanierungsertrag; getrennter Antrag § 3a Absatz 4 EStG je Mitunternehmer; Sonderbetriebsvermögen."
+description: "Wenn es um Sanierungsgewinn — Personengesellschaft und Mitunternehmer in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sanierungsgewinn Personengesellschaft; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Sanierungsgewinn — Personengesellschaft und Mitunternehmer

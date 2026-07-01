@@ -1,6 +1,6 @@
 ---
 name: tarifbeschaeftigte-abgrenzung-tv-l
-description: "Abgrenzung Beamte zu Tarifbeschäftigten nach TVöD/TV-L und Folgen für Rechtsschutz im Beamtenrecht."
+description: "Wenn es um Tarifbeschaeftigte Abgrenzung Tv L in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tarifbeschaeftigte Abgrenzung Tv L

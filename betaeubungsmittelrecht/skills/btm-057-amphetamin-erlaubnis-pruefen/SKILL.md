@@ -1,6 +1,6 @@
 ---
 name: btm-057-amphetamin-erlaubnis-pruefen
-description: "Betäubungsmittelrecht: Amphetamin: Erlaubnis prüfen. Erlaubnis prüfen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Amphetamin Erlaubnis Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Amphetamin Erlaubnis Pruefen

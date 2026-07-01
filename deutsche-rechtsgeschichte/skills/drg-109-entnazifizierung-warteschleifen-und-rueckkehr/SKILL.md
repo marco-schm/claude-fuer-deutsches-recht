@@ -1,6 +1,6 @@
 ---
 name: drg-109-entnazifizierung-warteschleifen-und-rueckkehr
-description: "Prüft Entnazifizierung, Berufsverbote, Rückkehr in Fakultäten und Justiz, wirtschaftliche Ersatzkarrieren und die Folgen für demokratische Rechtskultur."
+description: "Wenn es um Entnazifizierung, Warteschleifen und Rückkehr in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 # Entnazifizierung, Warteschleifen und Rückkehr
 

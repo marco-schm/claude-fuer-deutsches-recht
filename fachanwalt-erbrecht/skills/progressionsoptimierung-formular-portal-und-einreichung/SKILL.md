@@ -1,6 +1,6 @@
 ---
 name: progressionsoptimierung-formular-portal-und-einreichung
-description: "Progressionsoptimierung: Formular, Portal und Einreichungslogik im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprod..."
+description: "Wenn es um Progressionsoptimierung Formular Portal Und Einreichung in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Progressionsoptimierung: Formular, Portal und Einreichungslogik im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

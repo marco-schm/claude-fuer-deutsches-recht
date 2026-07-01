@@ -1,6 +1,6 @@
 ---
 name: ropa-konzernumlauf-und-multi-entity
-description: "Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und Multi-Entity-Strukturen. Konzernklausel-Mythos, Rollenverteilung (Verantwortlicher gemeinsam Verantwortlich Auftragsverarbeiter), zentrale vs. dezentrale Pflege, Intercompany-Datenfluesse, BCR-Verweis. Mit Strukturskizze und Vorlage für Ma..."
+description: "Wenn es um RoPA im Konzern und in Multi-Entity-Strukturen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # RoPA im Konzern und in Multi-Entity-Strukturen

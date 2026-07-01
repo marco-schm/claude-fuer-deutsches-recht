@@ -1,6 +1,6 @@
 ---
 name: luft-102-slot-register-auswerten
-description: "Luftrecht und Flughafenrecht: Slot: Register auswerten. Register auswerten für Slot im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Slot Register Auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Slot Register Auswerten

@@ -1,6 +1,6 @@
 ---
 name: spezial-belegeinsicht-betriebskosten
-description: "Belegeinsicht Betriebskosten: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Ort, Kopien, Digitalbelege, Datenschutz, Zurückbehaltungsrecht; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Belegeinsicht Betriebskosten in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Belegeinsicht Betriebskosten

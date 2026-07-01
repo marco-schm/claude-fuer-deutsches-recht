@@ -1,6 +1,6 @@
 ---
 name: klage-versicherer-strategie
-description: "Klagestrategie gegen Versicherer nach erfolgloser außergerichtlicher Korrespondenz: Anwendungsfall alle außergerichtlichen Einigungsversuche sind gescheitert und Klage muss..."
+description: "Wenn es um Klagestrategie gegen Versicherer nach erfolgloser außergerichtlicher Korrespondenz in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klagestrategie gegen Versicherer nach erfolgloser außergerichtlicher Korrespondenz

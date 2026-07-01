@@ -1,6 +1,6 @@
 ---
 name: retouren-reklamationen
-description: "Prüft Auswirkungen von Retouren und Reklamationen auf den Provisionsanspruch: Kürzung der Provision bei Warenrücksendungen, Vertragliche Rücktrittsklauseln, Auswirkung auf den Buchauszug und Stornoreserven sowie Abgrenzung zwischen berechtigter und unberechtigter Provisionskürzung durch den Unter..."
+description: "Wenn es um Retouren und Reklamationen — Auswirkungen auf die Provision nach Paragraf 87a HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Retouren und Reklamationen — Auswirkungen auf die Provision nach § 87a HGB

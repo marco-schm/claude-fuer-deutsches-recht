@@ -1,6 +1,6 @@
 ---
 name: insolvenzlage-fehlerkatalog
-description: "Insolvenzlage Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Wenn es um Insolvenzlage Fehlerkatalog in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenzlage Fehlerkatalog

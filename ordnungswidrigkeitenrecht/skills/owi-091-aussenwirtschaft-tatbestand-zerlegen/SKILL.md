@@ -1,6 +1,6 @@
 ---
 name: owi-091-aussenwirtschaft-tatbestand-zerlegen
-description: "Ordnungswidrigkeitenrecht: Außenwirtschaft: Tatbestand zerlegen. Tatbestand zerlegen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Aussenwirtschaft Tatbestand Zerlegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aussenwirtschaft Tatbestand Zerlegen

@@ -1,6 +1,6 @@
 ---
 name: fluggastrechte-anlagen-bauen
-description: "BeA-faehiges Anlagenkonvolut fuer Fluggastrechte-Mandate: Buchung, Boardingpass, Fluginformation, Airline-Korrespondenz, Ersatzbelege und Vollmacht in K-Anlagen ordnen, stempeln und als PDF-Paket zum Forderungsschreiben oder zur Klage vorbereiten."
+description: "Wenn es um Fluggastrechte-Anlagen bauen in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Fluggastrechte-Anlagen bauen

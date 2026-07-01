@@ -1,6 +1,6 @@
 ---
 name: digitale-versammlung-screenreader-untertitel
-description: "Hybride und rein digitale Eigentuemerversammlung nach § 23 Abs. 1 WEG barrierefrei durchfuehren (Stand 06/2026): Live-Untertitel Zoom/Teams, Screenreader-kompatible Abstimmung, Tonqualitaet, Vollmacht in Textform. BGH V ZR 33/24."
+description: "Wenn es um Digitale Versammlung: Screenreader, Untertitel und Barrierefreiheit in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitale Versammlung: Screenreader, Untertitel und Barrierefreiheit

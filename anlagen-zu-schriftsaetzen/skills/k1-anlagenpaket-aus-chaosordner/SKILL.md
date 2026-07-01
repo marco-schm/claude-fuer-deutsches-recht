@@ -1,6 +1,6 @@
 ---
 name: k1-anlagenpaket-aus-chaosordner
-description: "Aus einem Mandantenordner mit beliebigen Dateinamen die erste Anlagenstaffel K1 bis K20 bilden: priorisieren, umbenennen, Lücken markieren, Rückfragen ausgeben."
+description: "Wenn es um K1 aus Chaosordner bauen in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: K1 Anlagenpaket Aus Chaosordner; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # K1 aus Chaosordner bauen

@@ -1,6 +1,6 @@
 ---
 name: produktfehler-verbrauchererwartung-robotik
-description: "Prüft Produktfehler bei Robotern: berechtigte Sicherheitserwartung, Lernfähigkeit, Updates, Warnungen, Autonomie und Einsatzumgebung."
+description: "Wenn es um Produktfehler und Sicherheitserwartung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Produktfehler und Sicherheitserwartung

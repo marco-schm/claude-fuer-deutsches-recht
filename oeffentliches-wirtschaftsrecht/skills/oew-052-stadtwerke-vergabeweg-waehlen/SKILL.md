@@ -1,6 +1,6 @@
 ---
 name: oew-052-stadtwerke-vergabeweg-waehlen
-description: "Öffentliches Wirtschaftsrecht: Stadtwerke: Vergabeweg wählen. Vergabeweg wählen für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Stadtwerke Vergabeweg Waehlen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stadtwerke Vergabeweg Waehlen

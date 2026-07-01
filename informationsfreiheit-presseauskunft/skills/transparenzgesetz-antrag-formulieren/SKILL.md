@@ -1,6 +1,6 @@
 ---
 name: transparenzgesetz-antrag-formulieren
-description: "Informationsfreiheit und Presseauskunft: Transparenzgesetz: Antrag formulieren im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Transparenzgesetz Antrag Formulieren in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Transparenzgesetz Antrag Formulieren

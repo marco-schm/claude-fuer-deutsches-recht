@@ -1,6 +1,6 @@
 ---
 name: lph-09-planfreigabe-und-versionierung
-description: "HOAI LPH 9 Objektbetreuung: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 9 Objektbetreuung: Prüft planindex in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 9 Objektbetreuung: Prüft planindex

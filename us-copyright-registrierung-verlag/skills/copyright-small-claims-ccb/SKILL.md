@@ -1,6 +1,6 @@
 ---
 name: copyright-small-claims-ccb
-description: "Prüft Copyright Small Claims, opt-out, damages cap, procedure, foreign claimant issues und taktische Eignung im Us Copyright Registrierung Verlag."
+description: "Wenn es um Copyright Claims Board CCB in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Copyright Claims Board CCB

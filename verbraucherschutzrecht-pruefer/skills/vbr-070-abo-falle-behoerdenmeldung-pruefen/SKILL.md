@@ -1,6 +1,6 @@
 ---
 name: vbr-070-abo-falle-behoerdenmeldung-pruefen
-description: "Verbraucherschutzrecht Prüfer: Abo-Falle: Behördenmeldung prüfen. Behördenmeldung prüfen für Abo-Falle im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Abo Falle Behoerdenmeldung Pruefen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abo Falle Behoerdenmeldung Pruefen

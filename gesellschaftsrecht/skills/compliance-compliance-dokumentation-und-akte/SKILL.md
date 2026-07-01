@@ -1,6 +1,6 @@
 ---
 name: compliance-compliance-dokumentation-und-akte
-description: "Compliance: Compliance-Dokumentation und Aktenvermerk im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht."
+description: "Wenn es um Compliance: Compliance-Dokumentation und Aktenvermerk in Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Compliance: Compliance-Dokumentation und Aktenvermerk

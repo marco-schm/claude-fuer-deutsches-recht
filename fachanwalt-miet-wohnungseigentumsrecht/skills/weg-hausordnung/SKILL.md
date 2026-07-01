@@ -1,6 +1,6 @@
 ---
 name: weg-hausordnung
-description: "Hausordnung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Beschlusskompetenz, Gebrauch, Ruhezeiten, Kinder, Tiere, Grillen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Hausordnung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hausordnung: Fachmodul im Miet- und Wohnungseigentumsrecht

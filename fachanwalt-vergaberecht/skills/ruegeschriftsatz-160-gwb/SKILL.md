@@ -1,6 +1,6 @@
 ---
 name: ruegeschriftsatz-160-gwb
-description: "Ruegeschriftsatz im Vergabeverfahren nach § 160 Abs: 3 GWB ausarbeiten: Bieter will Ruege inhaltlich stark begründen. Normen: § 160 Abs. 3 GWB (Ruege als Zulassigkeitsvoraussetzung), §§ 97 ff. GWB. Prüfra..."
+description: "Wenn es um Ruegeschriftsatz im Vergabeverfahren nach Paragraf 160 Abs in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ruegeschriftsatz im Vergabeverfahren nach § 160 Abs

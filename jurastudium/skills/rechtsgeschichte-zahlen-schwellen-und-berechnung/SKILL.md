@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte-zahlen-schwellen-und-berechnung
-description: "Rechtsgeschichte: Zahlen, Schwellenwerte und Berechnung im Jurastudium. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Rechtsgeschichte: Zahlen, Schwellenwerte und Berechnung in Jurastudium geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Rechtsgeschichte: Zahlen, Schwellenwerte und Berechnung

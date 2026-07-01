@@ -1,6 +1,6 @@
 ---
 name: kaltstart-drafting-kommandocenter
-description: "Kaltstart-Kommandocenter für Word Legal AI. Führt deutsche Anwälte in maximal fünf Fragen vom diffusen Schreibauftrag zum Arbeitsmodus, Stilprofil, Dokumentgerüst, nächster Skill-Kette und erstem verwertbarem Output. Nutzt das Plugin word-legal-ai-plugin-and-skill-for-german-lawyers als Routing-Z..."
+description: "Wenn es um Kaltstart-Drafting-Kommandocenter in diesem Spezialbereich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart-Drafting-Kommandocenter

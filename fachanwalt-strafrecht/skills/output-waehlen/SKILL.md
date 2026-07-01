@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Strafrecht: stimmt Adressat (Beschuldigter/Angeklagter, Staatsanwaltschaft, Verletzte/Nebenkläger), Frist (Revision 1 Woche/1 Mon. § 341 StPO) und Form auf den Zweck ab — typische Outputs: Akteneinsicht-Antrag, Beweisantrag, Plädoyer."
+description: "Wenn es um Output wählen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: erbbaurechtsvertrag-pflichtinhalt
-description: "Prüft Grundstück, Bauwerk, Laufzeit, Nutzung, Erbbauzins, Heimfall, Zustimmung, Versicherung, Instandhaltung und Entschädigung im Erbbaurecht Praxis."
+description: "Wenn es um Erbbaurechtsvertrag entwerfen in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Erbbaurechtsvertrag entwerfen

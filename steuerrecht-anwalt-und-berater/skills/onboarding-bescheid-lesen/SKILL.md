@@ -1,6 +1,6 @@
 ---
 name: onboarding-bescheid-lesen
-description: "Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — von der Bekanntgabe bis zur Rechtsbehelfsbelehrung. Anwendungsfall Mandant bringt einen Bescheid Anwalt oder Steuerberater muss in zehn Minuten Einspruchsbedarf Fristen und materielle Angriffspunkte erkennen. Behandelt Be"
+description: "Wenn es um Steuerbescheid lesen — die ersten 10 Minuten in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Onboarding Bescheid Lesen; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Steuerbescheid lesen — die ersten 10 Minuten

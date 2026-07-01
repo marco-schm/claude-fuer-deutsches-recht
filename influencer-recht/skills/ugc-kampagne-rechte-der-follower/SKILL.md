@@ -1,6 +1,6 @@
 ---
 name: ugc-kampagne-rechte-der-follower
-description: "Influencer-Recht: UGC-Kampagnen – Rechte der Follower, Einwilligung, Nutzungsrechtserwerb, DSGVO und Kennzeichnung im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: UGC-Kampagne – Rechte der Follower in Influencer-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: UGC-Kampagne – Rechte der Follower

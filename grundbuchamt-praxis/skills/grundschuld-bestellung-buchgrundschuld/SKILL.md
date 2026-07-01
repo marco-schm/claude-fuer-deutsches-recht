@@ -1,6 +1,6 @@
 ---
 name: grundschuld-bestellung-buchgrundschuld
-description: "Prüft Bewilligung, Rang, Betrag, Zinsen, Nebenleistung, Unterwerfung und Sicherungsabrede im Grundbuchamt Praxis."
+description: "Wenn es um Buchgrundschuld bestellen in Grundbuchamt Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Buchgrundschuld bestellen

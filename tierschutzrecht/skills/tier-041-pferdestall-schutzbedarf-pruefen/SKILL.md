@@ -1,6 +1,6 @@
 ---
 name: tier-041-pferdestall-schutzbedarf-pruefen
-description: "Tierschutzrecht: Pferdestall: Schutzbedarf prüfen. Schutzbedarf prüfen für Pferdestall im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Pferdestall Schutzbedarf Pruefen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pferdestall Schutzbedarf Pruefen

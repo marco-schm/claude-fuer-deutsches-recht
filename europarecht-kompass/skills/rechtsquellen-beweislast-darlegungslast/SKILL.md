@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-beweislast-darlegungslast
-description: "Rechtsquellen: Quellenprüfung; Beweislast, Darlegungslast und Substantiierung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert"
+description: "Wenn es um Rechtsquellen: Beweislast, Darlegungslast und Substantiierung in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsquellen: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-verlag-quellen-zitate
-description: "Schlusspruefung für Verlagsoutputs vor Autorenversand, Satz, Onlinegang oder Druck mit Rechte-, Quellen-, Stil-, Fristen- und Produktionsampel im Verlagsredaktion."
+description: "Wenn es um Qualitätstor Verlag in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Qualitätstor Verlag

@@ -1,6 +1,6 @@
 ---
 name: spezial-methodenlehre-erstpruefung-und-mandatsziel
-description: "Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel

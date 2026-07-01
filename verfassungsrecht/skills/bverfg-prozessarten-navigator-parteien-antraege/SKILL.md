@@ -1,6 +1,6 @@
 ---
 name: bverfg-prozessarten-navigator-parteien-antraege
-description: "BVerfG-Prozessarten vollständig routen: Verfassungsbeschwerde, § 32 BVerfGG, Organstreit, Bund-Länder-Streit, abstrakte/konkrete Normenkontrolle, Wahlprüfung, Parteiverbot, Finanzierungsausschluss, Grundrechtsverwirkung, Präsidentenanklage, Richteranklage, Völkerrechtsregelprüfung und parteibezogene Anträge."
+description: "Wenn es um BVerfG-Prozessarten-Navigator in verfassungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # BVerfG-Prozessarten-Navigator

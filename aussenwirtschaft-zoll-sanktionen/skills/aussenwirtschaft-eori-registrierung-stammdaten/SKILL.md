@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-eori-registrierung-stammdaten
-description: "EORI-Nummer-Registrierung und Stammdatenpflege nach UZK Art. 9: Beantragung beim Hauptzollamt, erforderliche Informationen und Update-Pflichten. Bedeutung der EORI-Nummer in ATLAS und beim AEO-Antrag. Grenzueberschreitende EORI-Anerkennung und Probleme bei UK post-Brexit. Output: EORI-Antragsform..."
+description: "Wenn es um EORI-Registrierung: Beantragung und Stammdatenpflege in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # EORI-Registrierung: Beantragung und Stammdatenpflege

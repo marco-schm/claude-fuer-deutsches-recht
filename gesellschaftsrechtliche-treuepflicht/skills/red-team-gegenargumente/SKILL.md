@@ -1,6 +1,6 @@
 ---
 name: red-team-gegenargumente
-description: "Gesellschaftsrechtliche Treuepflicht: Red Team Gegenargumente. Liefert Norm-Pinpoints, Prüfachsen, Red Flags, Varianten und konkrete Output-Bausteine zum Slug-Thema im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Red Team Gegenargumente in Gesellschaftsrechtliche Treuepflicht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red Team Gegenargumente

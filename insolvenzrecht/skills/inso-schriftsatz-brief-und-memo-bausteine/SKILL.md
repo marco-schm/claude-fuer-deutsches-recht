@@ -1,6 +1,6 @@
 ---
 name: inso-schriftsatz-brief-und-memo-bausteine
-description: "InsO: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
+description: "Wenn es um InsO: Schriftsatz-, Brief- und Memo-Bausteine in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # InsO: Schriftsatz-, Brief- und Memo-Bausteine

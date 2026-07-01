@@ -1,6 +1,6 @@
 ---
 name: abwaegungszustaendigkeit-institutionen
-description: "Klärt, welche Institution im Rechtssystem für eine konkrete Abwägungsentscheidung zuständig ist — Gesetzgeber, Gericht, Behörde oder Schiedsgericht. Das Skill verhindert Kompetenzkonfusionen und stärkt die demokratische Legitimation richterlicher Abwägung. Es analysiert Abwägungsöffnungen in Norm..."
+description: "Wenn es um Abwägungszuständigkeit: Welche Institution darf abwägen? in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Abwägungszuständigkeit: Welche Institution darf abwägen?

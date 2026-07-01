@@ -1,6 +1,6 @@
 ---
 name: inso-p166-verwertung-beweglicher-gegenstande
-description: "§ 166 InsO (Verwertung beweglicher Gegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 166 InsO (Verwertung beweglicher Gegenstände) im Mandat prüfen: Normzweck, Tatbestand, Beleg..."
+description: "Wenn es um Inso P166 Verwertung Beweglicher Gegenstande in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 166 InsO (Verwertung beweglicher Gegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

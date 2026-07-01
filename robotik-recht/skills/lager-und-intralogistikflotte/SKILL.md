@@ -1,6 +1,6 @@
 ---
 name: lager-und-intralogistikflotte
-description: "Prüft Roboterflotten in Lager und Intralogistik: Flottensteuerung, Zonen, Mitarbeiterschutz, Telemetrie, Wartung und Incident Logs."
+description: "Wenn es um Lager- und Intralogistikflotte in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lager- und Intralogistikflotte

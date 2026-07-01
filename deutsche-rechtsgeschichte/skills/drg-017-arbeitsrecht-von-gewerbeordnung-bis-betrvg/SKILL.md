@@ -1,6 +1,6 @@
 ---
 name: drg-017-arbeitsrecht-von-gewerbeordnung-bis-betrvg
-description: "Deutsche Rechtsgeschichte: Arbeitsrecht Von Gewerbeordnung Bis Betrvg. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Arbeitsrecht Von Gewerbeordnung Bis Betrvg in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsrecht Von Gewerbeordnung Bis Betrvg

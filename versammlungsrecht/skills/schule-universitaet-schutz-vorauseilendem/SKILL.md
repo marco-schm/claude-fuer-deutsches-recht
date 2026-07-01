@@ -1,6 +1,6 @@
 ---
 name: schule-universitaet-schutz-vorauseilendem
-description: "Prüft Schüler-, Studentenn-, Hochschul- und Jugendversammlungen samt Aufsicht, Schulrecht und Hausrecht im Versammlungsrecht."
+description: "Wenn es um Junge Versammlungen brauchen klare Rollen in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Junge Versammlungen brauchen klare Rollen

@@ -1,6 +1,6 @@
 ---
 name: output-warnschriftsatz-laie
-description: "Ausgabe vollständige Klageschrift mit Pflicht-Disclaimer-Kopf für Laien; Zusammenführung aller Bausteine zu einem druckfertigen Schriftsatz; Ausfuellanleitung; Einreichungshinweise für Arbeitsgericht."
+description: "Wenn es um Ausgabe: Vollständige Klageschrift mit Pflicht-Disclaimer (Laie) in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ausgabe: Vollständige Klageschrift mit Pflicht-Disclaimer (Laie)

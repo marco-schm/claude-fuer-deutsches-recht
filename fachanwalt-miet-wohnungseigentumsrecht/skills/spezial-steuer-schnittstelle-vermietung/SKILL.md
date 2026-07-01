@@ -1,6 +1,6 @@
 ---
 name: spezial-steuer-schnittstelle-vermietung
-description: "Steuer-Schnittstelle Vermietung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Steuer-Schnittstelle Vermietung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuer-Schnittstelle Vermietung

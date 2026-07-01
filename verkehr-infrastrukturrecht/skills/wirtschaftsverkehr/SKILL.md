@@ -1,6 +1,6 @@
 ---
 name: wirtschaftsverkehr
-description: "Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistikunternehmen oder Kommune plant Lieferzonen, Beschilderung oder Ausnahmegenehmigungen. Normen: § 12 StVO (Haltverbot), § 45 StVO (Sonderregelungen), § 46 StVO (Ausnahmegenehmigungen), VwV-StVO (Ladezonen). Prüfraster: L..."
+description: "Wenn es um Wirtschaftsverkehr — Liefer- und Ladezonen, Logistikrecht in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsverkehr — Liefer- und Ladezonen, Logistikrecht

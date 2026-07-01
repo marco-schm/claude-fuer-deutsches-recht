@@ -1,6 +1,6 @@
 ---
 name: dienstunfaehigkeit-entlassung-dienstzeit
-description: "Dienstunfähigkeit Entlassung Zurruhesetzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswe..."
+description: "Wenn es um Dienstunfähigkeit – Entlassung und Zurruhesetzung in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dienstunfähigkeit – Entlassung und Zurruhesetzung

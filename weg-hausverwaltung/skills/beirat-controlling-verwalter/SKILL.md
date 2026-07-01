@@ -1,6 +1,6 @@
 ---
 name: beirat-controlling-verwalter
-description: "Unterstützt Verwaltungsbeiräte bei Rechnungsprüfung, Angebotskontrolle, Beschlussvorbereitung, Protokollcheck, Verwalterkommunikation und Eskalationsnotizen (Stand 05/2026); berücksichtigt BGH V ZR 34/24 (Schadensersatzweg über GdWE) und V ZR 167/23 (Abrechnungsanspruch gegen GdWE)."
+description: "Wenn es um Beirat: Controlling und Verwalterbegleitung in WEG- und Hausverwaltung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Beirat: Controlling und Verwalterbegleitung

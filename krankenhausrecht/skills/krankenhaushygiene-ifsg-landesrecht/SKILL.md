@@ -1,6 +1,6 @@
 ---
 name: krankenhaushygiene-ifsg-landesrecht
-description: "Krankenhaushygiene zwischen IfSG, KRINKO-Empfehlungen und Landeshygieneverordnungen: Hygieneplan, MRE, Meldewege, Ausbruchsmanagement, Aufsichtsdialog mit Gesundheitsamt im Krankenhausrecht."
+description: "Wenn es um Krankenhaushygiene IfSG Landesrecht in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Krankenhaushygiene IfSG Landesrecht

@@ -1,6 +1,6 @@
 ---
 name: bankentgelte-risiko-rot-markieren
-description: "Verbraucherschutzverband Durchsetzung: Bankentgelte: Risiko rot markieren im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Bankentgelte Risiko Rot Markieren in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bankentgelte Risiko Rot Markieren

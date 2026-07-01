@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-lph2
-description: "Bauueberwachung HOAI LPH 8 für Erdbauarbeiten mit Fokus auf Bodenkennwerte — Verdichtungspruefungen nach DIN 18127 Proctor und DIN 18134 Plattendruckversuch Ev2, Bodenklassen nach DIN 18300 und DIN 18196, Baugrubensicherung nach EAB und DIN 4124, Setzungsmonitoring nach EC7, Schichtenverzeichnis..."
+description: "Wenn es um Bauueberwachung Erdbau und Bodenkennwerte in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Erdbau und Bodenkennwerte

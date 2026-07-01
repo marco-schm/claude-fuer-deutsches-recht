@@ -1,6 +1,6 @@
 ---
 name: nachmeldung-aktualisierung-art-33-abs-4
-description: "Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung nach Art. 33 Abs. 4 DSGVO. Behandelt: 14-Tage-Frist der Berliner Praxis; Ergänzung der Datenarten; Korrektur der Anzahl Betroffener; Update der Gegenmaßnahmen; Information zur Pressemitteilung; Verweis auf Forensikbericht; Mitteilung zur S..."
+description: "Wenn es um Nachmeldung und Aktualisierung nach Art. 33 Abs. 4 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachmeldung und Aktualisierung nach Art. 33 Abs. 4 DSGVO

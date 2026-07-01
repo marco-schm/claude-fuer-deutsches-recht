@@ -1,6 +1,6 @@
 ---
 name: stalking-238-stgb-gewschg-schnittstelle
-description: "Stalking Paragraf 238 StGB und GewSchG-Schnittstelle: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Stalking Paragraf 238 StGB und GewSchG-Schnittstelle in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Stalking Paragraf 238 StGB und GewSchG-Schnittstelle

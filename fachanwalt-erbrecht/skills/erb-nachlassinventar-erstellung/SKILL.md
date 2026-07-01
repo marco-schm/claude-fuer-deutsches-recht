@@ -1,6 +1,6 @@
 ---
 name: erb-nachlassinventar-erstellung
-description: "Nachlassinventar erstellen: Aktiva (Konten, Immobilien, Beteiligungen, Hausrat), Passiva (Schulden, Pflichtteile, Vermaechtnisse), Stichtagsbewertung, Sicherung des Nachlasses: Nachlassinventar erstellen: Aktiva (Konten, Immobilien, Beteiligungen, Hausrat),..."
+description: "Wenn es um Erb Nachlassinventar Erstellung in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachlassinventar erstellen: Aktiva (Konten, Immobilien, Beteiligungen, Hausrat), Passiva (Schulden, Pflichtteile, Vermaechtnisse), Stichtagsbewertung, Sicherung des Nachlasses

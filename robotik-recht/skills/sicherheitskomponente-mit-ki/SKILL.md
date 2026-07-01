@@ -1,6 +1,6 @@
 ---
 name: sicherheitskomponente-mit-ki
-description: "Prüft KI als Sicherheitskomponente einer Maschine: Schutzfunktion, Konformitätsbewertung, Hochrisiko-KI und technische Dokumentation."
+description: "Wenn es um digitale Werkzeuge-Sicherheitskomponente in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # KI-Sicherheitskomponente

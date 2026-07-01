@@ -1,6 +1,6 @@
 ---
 name: zuwendung-an-verband-deckung-finden
-description: "Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Deckung finden im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Zuwendung An Verband Deckung Finden in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zuwendung An Verband Deckung Finden

@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-belegchaos-strukturieren
-description: "Schuldnerberatungsstelle: Strukturierung des Belegchaos: Skill liefert die Methodik wie Schuldnerberater die ungeordneten Belege Mahnungen Vollstreckungsbescheide Inkassobriefe und Bankauszuege des Sc..."
+description: "Wenn es um Schuldnerberatungsstelle: Strukturierung des Belegchaos in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schuldnerberatungsstelle: Strukturierung des Belegchaos

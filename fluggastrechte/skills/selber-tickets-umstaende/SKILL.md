@@ -1,6 +1,6 @@
 ---
 name: selber-tickets-umstaende
-description: "Selber: Tatbestandsmerkmale, Beweisfragen und Beleglage im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Selber: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fluggastrechte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Selber: Tatbestandsmerkmale, Beweisfragen und Beleglage

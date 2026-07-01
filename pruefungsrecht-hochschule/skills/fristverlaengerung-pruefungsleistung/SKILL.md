@@ -1,6 +1,6 @@
 ---
 name: fristverlaengerung-pruefungsleistung
-description: "Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen im Prüfungsrecht Hochschule."
+description: "Wenn es um Fristverlängerung Prüfungsleistung in Prüfungsrecht an Hochschulen und Universitäten geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristverlängerung Prüfungsleistung

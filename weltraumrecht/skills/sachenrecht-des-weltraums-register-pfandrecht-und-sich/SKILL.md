@@ -1,6 +1,6 @@
 ---
 name: sachenrecht-des-weltraums-register-pfandrecht-und-sich
-description: "Sachenrecht für Satelliten – nationales Register, Pfandrechte, Cape-Town-Protokoll, Sicherungsübereignung im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Sachenrecht des Weltraums: Register, Pfandrecht, Sicherungsübereignung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Sachenrecht des Weltraums: Register, Pfandrecht, Sicherungsübereignung

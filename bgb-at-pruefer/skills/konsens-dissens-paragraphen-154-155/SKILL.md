@@ -1,6 +1,6 @@
 ---
 name: konsens-dissens-paragraphen-154-155
-description: "Prüft offenen und versteckten Dissens nach §§ 154 und 155 BGB: fehlende Einigung über Nebenpunkte, Vorbehalt der Beurkundung, ergänzende Vertragsauslegung als Heilungsmechanismus, Abgrenzung von Anfechtung und Dissens. Klausurfall mit Lösungsskizze."
+description: "Wenn es um Konsens und Dissens — Paragrafen 154 und 155 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Konsens und Dissens — §§ 154 und 155 BGB

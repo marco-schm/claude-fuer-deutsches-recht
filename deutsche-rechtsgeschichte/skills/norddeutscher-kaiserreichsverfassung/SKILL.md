@@ -1,6 +1,6 @@
 ---
 name: norddeutscher-kaiserreichsverfassung
-description: "Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867 im Deutsche Rechtsgeschichte."
+description: "Wenn es um Deutsche Rechtsgeschichte: 007 Norddeutscher Bund Verfassung 1867 in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: 007 Norddeutscher Bund Verfassung 1867

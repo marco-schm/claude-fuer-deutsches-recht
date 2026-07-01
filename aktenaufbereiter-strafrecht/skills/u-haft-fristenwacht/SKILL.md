@@ -1,6 +1,6 @@
 ---
 name: u-haft-fristenwacht
-description: "U-Haft-Fristen ueberwachen: 6-Monats-Prüfung § 121 StPO durch das OLG, Haftpruefung § 117 StPO und Haftbeschwerde § 117 Abs. 1 StPO, Aussetzung gegen Auflagen § 116 StPO. Prüfraster: dringender Tatverdacht, Haftgrund, Verhältnismäßigkeit, Beschleunigungsgebot. Output Antragsentwuerfe und Fri..."
+description: "Wenn es um U-Haft-Fristenwacht in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # U-Haft-Fristenwacht

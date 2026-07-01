@@ -1,6 +1,6 @@
 ---
 name: zolltarif-vzta-zollwert-royalties-ursprung
-description: "Zolltarifrecht und verbindliche Zolltarifauskuenfte (vZTA) nach UZK Art. 33: Systematik der Kombinierten Nomenklatur EU-Zolltarif TARIC Allgemeine Praeferenzsystem (APS/GSP) und Zollaussetzungen. Verfahren zur Erlangung von Zollbeguenstigungen und deren Kumulierung. Output: Zolltarif-Optimierungs..."
+description: "Wenn es um Zolltarifrecht und vZTA: Systematik APS und Zolloptimierung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zolltarifrecht und vZTA: Systematik APS und Zolloptimierung

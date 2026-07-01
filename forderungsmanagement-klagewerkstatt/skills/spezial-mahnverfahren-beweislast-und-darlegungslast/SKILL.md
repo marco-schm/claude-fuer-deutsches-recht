@@ -1,6 +1,6 @@
 ---
 name: spezial-mahnverfahren-beweislast-und-darlegungslast
-description: "Mahnverfahren: Beweislast, Darlegungslast und Substantiierung im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Mahnverfahren: Beweislast, Darlegungslast und Substantiierung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mahnverfahren: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: insolvenz-schnittstelle-instandhaltung
-description: "Schnittstelle Zwangsverwaltung und Insolvenz bei Insolvenz des Schuldners. Anwendungsfall Schuldner wird insolvent waehrend Zwangsverwaltung laeuft und Verwalter muss Koordination mit Insolvenzverwalter klären. Normen § 165 InsO Absonderungsrecht § 49 InsO Grundpfandgläubiger § 155 ZVG Einnahmen..."
+description: "Wenn es um Schnittstelle zur Insolvenz in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schnittstelle zur Insolvenz

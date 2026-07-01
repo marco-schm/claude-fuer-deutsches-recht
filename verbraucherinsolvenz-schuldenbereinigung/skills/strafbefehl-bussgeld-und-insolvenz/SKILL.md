@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-bussgeld-und-insolvenz
-description: "Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten: Normanker: InsO § 302; StGB Geldstrafe; OWiG; l..."
+description: "Wenn es um Strafbefehl Bussgeld Und Insolvenz in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.

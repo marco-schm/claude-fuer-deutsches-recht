@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Tabellenreview (Excel/CSV): ordnet Rolle (Datenverantwortlicher, Prüfer), markiert Frist (keine harten Fristen), wählt Norm (GoBD, Tax compliance) und Zuständigkeit (Finanzamt), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Tabellenreview 3D geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

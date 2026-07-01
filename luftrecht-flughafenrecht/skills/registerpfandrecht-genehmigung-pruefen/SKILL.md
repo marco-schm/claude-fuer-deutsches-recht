@@ -1,6 +1,6 @@
 ---
 name: registerpfandrecht-genehmigung-pruefen
-description: "Pfandrecht an Luftfahrzeug soll bestellt werden; Prüfung ob Genehmigungen der Luftfahrtbehörde nötig sind. Prüft LuftFzgG LuftVG § 64 Cape-Town-Voraussetzungen und liefert Genehmigungs-Checkliste für Pfandrechtsbestellung an Luftfahrzeugen im Luftrecht Flughafenrecht."
+description: "Wenn es um Registerpfandrecht – Genehmigung prüfen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerpfandrecht – Genehmigung prüfen

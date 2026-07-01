@@ -1,6 +1,6 @@
 ---
 name: eingliederung-arbeitsorganisation
-description: "Prüft Eingliederung in Betrieb, Teams, Tools, Räume, Hierarchie, Prozesse und Außendarstellung im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Eingliederung in Arbeitsorganisation in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eingliederung in Arbeitsorganisation

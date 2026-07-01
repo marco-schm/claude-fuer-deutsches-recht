@@ -1,6 +1,6 @@
 ---
 name: zulassung-bestellung-und-register
-description: "Zulassung, Bestellung und Register: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Zulassungsvoraussetzungen, Register, Kammerdaten, Meldepflichten und Widerrufsrisiken, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Beruf..."
+description: "Wenn es um Zulassung, Bestellung und Register in Berufsrecht Wirtschaftsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zulassung, Bestellung und Register

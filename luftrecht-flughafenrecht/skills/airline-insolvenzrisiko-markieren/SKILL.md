@@ -1,6 +1,6 @@
 ---
 name: airline-insolvenzrisiko-markieren
-description: "Mandant will Insolvenzrisiko einer Airline fruehzeitig erkennen: sinkende Liquiditaet schlechte Ratings Zahlungsrueckstaende. Prüft EU-VO 1008/2008 Art. 9 Fruehwarnindikatoren InsO §§ 15a 17-19 Antragspflicht und Haftungsrisiken Geschäftsführer und liefert Risikoampel-Bewertung und Geschäftsf..."
+description: "Wenn es um Airline – Insolvenzrisiko markieren in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Airline – Insolvenzrisiko markieren

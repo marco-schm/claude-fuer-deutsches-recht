@@ -1,6 +1,6 @@
 ---
 name: beschlussanfechtung-risiko
-description: "Prüft Beschlüsse auf Anfechtungs- und Nichtigkeitsrisiken nach §§ 44 und 45 WEG (Stand 05/2026): Frist, Beschlusskompetenz, Einladung, Tagesordnung, Mehrheit, Kostenfolge, Bestimmtheit, ordnungsmäßige Verwaltung sowie BGH-Linie zu Schlüsseländerung (V ZR 236/23, V ZR 128/23), Abrechnungsauslegung..."
+description: "Wenn es um Beschlussanfechtung Risiko in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschlussanfechtung Risiko

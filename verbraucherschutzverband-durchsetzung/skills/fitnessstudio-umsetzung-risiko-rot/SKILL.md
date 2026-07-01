@@ -1,6 +1,6 @@
 ---
 name: fitnessstudio-umsetzung-risiko-rot
-description: "Verbraucherschutzverband Durchsetzung: Fitnessstudio: Umsetzung überwachen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Fitnessstudio Umsetzung Ueberwachen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fitnessstudio Umsetzung Ueberwachen

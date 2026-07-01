@@ -1,6 +1,6 @@
 ---
 name: spezial-integrationskurs
-description: "Integrationskurs: Spezial-Skill im Migrationsrecht; prüft Verpflichtung, Teilnahme, Sanktionen, Nachweis für Titel/StAG; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Integrationskurs in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Integrationskurs

@@ -1,6 +1,6 @@
 ---
 name: anlagen-bezeichnen-sortieren-sozialgericht
-description: "Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-Anlagen für Kläger Anlagenverzeichnis Lesbarkeit. Tipps für Buerger im SG-Verfahren."
+description: "Wenn es um Anlagen zur Klage — sortieren und bezeichnen in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anlagen zur Klage — sortieren und bezeichnen

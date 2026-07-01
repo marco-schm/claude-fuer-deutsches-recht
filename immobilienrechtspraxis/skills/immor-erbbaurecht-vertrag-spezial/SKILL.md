@@ -1,6 +1,6 @@
 ---
 name: immor-erbbaurecht-vertrag-spezial
-description: "Spezialfall Erbbaurechtsvertrag: ErbbauRG, Erbbauzins, Heimfall, Entschaedigung. Prüfraster für kirchliche und kommunale Grundstuecksverwaltung im Immobilienrechtspraxis."
+description: "Wenn es um ImmoR: Erbbaurecht-Vertrag in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ImmoR: Erbbaurecht-Vertrag

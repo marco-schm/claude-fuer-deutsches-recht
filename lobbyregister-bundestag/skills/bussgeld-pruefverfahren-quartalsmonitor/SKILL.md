@@ -1,6 +1,6 @@
 ---
 name: bussgeld-pruefverfahren-quartalsmonitor
-description: "Reaktionsbei RfS-Prüfung, Anhörung, Bußgeldrisiko nach § 7 LobbyRG und Kodexverstoss. Output Verteidigungs- und Remediationplan im Lobbyregister Bundestag."
+description: "Wenn es um Bussgeld und Pruefverfahren in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bussgeld und Pruefverfahren

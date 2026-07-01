@@ -1,6 +1,6 @@
 ---
 name: spezial-internationale-red-team-und-qualitaetskontrolle
-description: "Internationale: Red-Team und Qualitätskontrolle im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Internationale: Red-Team und Qualitätskontrolle in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Internationale: Red-Team und Qualitätskontrolle

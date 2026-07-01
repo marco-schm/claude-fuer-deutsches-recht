@@ -1,6 +1,6 @@
 ---
 name: deal-timeline-und-workstreams
-description: "Erstellt Deal-Zeitplan von NDA bis Closing mit Legal, Tax, Finance, Regulatory, Financing und Management im Private Equity Praxis."
+description: "Wenn es um Deal Timeline und Workstreams in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Deal Timeline und Workstreams

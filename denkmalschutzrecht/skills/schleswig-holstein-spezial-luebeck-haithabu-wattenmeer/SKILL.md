@@ -1,6 +1,6 @@
 ---
 name: schleswig-holstein-spezial-luebeck-haithabu-wattenmeer
-description: "Schleswig-holsteinische Besonderheit: Hansestadt Luebeck (Welterbe seit 1987), archaeologisches Grenzlandschaft Haithabu / Danewerk (Welterbe seit 2018) und Wattenmeer (Welterbe seit 2009). Skill ordnet die Verfahrenspraxis je Welterbestaette und die Verzahnung mit dem Welterbe-Land Daenemark."
+description: "Wenn es um Luebeck, Haithabu-Danewerk und Wattenmeer als UNESCO-Welterbe in Schleswig-Holstein in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Luebeck, Haithabu-Danewerk und Wattenmeer als UNESCO-Welterbe in Schleswig-Holstein

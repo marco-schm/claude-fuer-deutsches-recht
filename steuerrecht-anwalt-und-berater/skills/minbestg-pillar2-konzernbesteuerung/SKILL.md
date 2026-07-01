@@ -1,6 +1,6 @@
 ---
 name: minbestg-pillar2-konzernbesteuerung
-description: "Beratung zur globalen Mindestbesteuerung Pillar Two MinBestG für Konzerne ab 750 Mio EUR Umsatz. Anwendungsfall Konzern fragt nach GloBE-Pflichten Compliance-Aufbau oder Country-by-Country Reporting ab 01.01.2024. MinBestG vom 21.12.2023. GloBE-Regeln IIR Income Inclusion Rule UTPR Undertaxed Pro..."
+description: "Wenn es um Mindestbesteuerung Pillar Two / MinBestG — Konzernbesteuerung 15 % in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mindestbesteuerung Pillar Two / MinBestG — Konzernbesteuerung 15 %

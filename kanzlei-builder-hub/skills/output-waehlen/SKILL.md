@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Kanzlei-Builder-Hub (Plugins/Skills): stimmt Adressat (Kanzleiinhaber, IT-Verantwortlicher, Mitarbeiter), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Plugin-Skizze, Skill-Entwurf, Validierungsbericht."
+description: "Wenn es um Output wählen in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

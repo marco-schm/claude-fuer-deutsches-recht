@@ -1,6 +1,6 @@
 ---
 name: erste-woche-staatsanwaltschaft
-description: "Erster Tag und erste Woche als Staatsanwältin oder Staatsanwalt: Onboarding-Leitfaden für den Berufseinstieg mit Rollenklärung Dezernent/Sitzungsdienst/Bereitschaft, Dezernatsübernahme, Fristen- und Haftsachenkontrolle, erste Eingangsverfügung, typischen Anfängerfehlern und ihren Vermeidungswegen, Entscheidungsbäumen für Einstellung gegen Anklage gegen Strafbefehl sowie Formulierungsbausteinen für die häufigsten Verfügungen; mit RiStBV-/StPO-Quellencheck, Datenschutz-/Aktengeheimniswarnung, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Erster Tag und erste Woche als Staatsanwältin oder Staatsanwalt in Staatsanwaltschaft Praxis-Einstieg geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erster Tag und erste Woche als Staatsanwältin oder Staatsanwalt

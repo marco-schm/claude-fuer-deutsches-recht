@@ -1,6 +1,6 @@
 ---
 name: energievertrag-und-abschlag
-description: "Verbraucherschutzrecht Prüfer: Energievertrag und Abschlag. Energievertrag und Abschlag im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
+description: "Wenn es um Energievertrag Und Abschlag in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energievertrag Und Abschlag

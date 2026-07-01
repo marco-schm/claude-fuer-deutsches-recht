@@ -1,6 +1,6 @@
 ---
 name: verlegerrecht-historisch-und-heutige-grenzen
-description: "Verlagsrecht: Verlegerrecht historisch und heute — Leistungsschutzrecht des Presseverlegers (§ 87f UrhG), BGH-Verlegeranteil-Entscheidung und Grenzen des Verlegerschutzes im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-043 · Verlegerrecht: Historisch und heutige Grenzen in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-043 · Verlegerrecht: Historisch und heutige Grenzen

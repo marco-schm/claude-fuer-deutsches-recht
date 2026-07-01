@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-closing-planen
-description: "Kreuzfahrtschiff: Closing eines Kreuzfahrtschiff oder grosses Fahrgastschiff-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan im Seerecht Schifffah..."
+description: "Wenn es um Kreuzfahrtschiff – Closing planen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreuzfahrtschiff – Closing planen

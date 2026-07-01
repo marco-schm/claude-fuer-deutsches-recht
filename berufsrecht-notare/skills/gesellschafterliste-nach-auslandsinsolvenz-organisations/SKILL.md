@@ -1,6 +1,6 @@
 ---
 name: gesellschafterliste-nach-auslandsinsolvenz-organisations
-description: "Notare: gesellschafterliste nach auslandsinsolvenz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Gesellschafterliste Nach Auslandsinsolvenz Organisations in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: gesellschafterliste nach auslandsinsolvenz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

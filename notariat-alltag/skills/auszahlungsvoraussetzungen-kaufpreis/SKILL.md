@@ -1,6 +1,6 @@
 ---
 name: auszahlungsvoraussetzungen-kaufpreis
-description: "Notariat im Alltag: Auszahlungsvoraussetzungen – Kaufpreis und Löschungsunterlagen. Vollständige Prüfung aller Fälligkeitsvoraussetzungen vor Fälligkeitsmitteilung, Löschungsunterlagen-Management und Direktzahlung an Grundpfandgläubiger im Notariat."
+description: "Wenn es um Notariat im Alltag: Auszahlungsvoraussetzungen – Kaufpreis, Löschungsunterlagen in Notariat im Alltag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Notariat im Alltag: Auszahlungsvoraussetzungen – Kaufpreis, Löschungsunterlagen

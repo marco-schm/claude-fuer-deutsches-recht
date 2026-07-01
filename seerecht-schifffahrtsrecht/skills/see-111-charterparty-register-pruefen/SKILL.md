@@ -1,6 +1,6 @@
 ---
 name: see-111-charterparty-register-pruefen
-description: "See- und Schifffahrtsrecht: Charterparty: Register prüfen. Register prüfen für Charterparty im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Charterparty Register Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Charterparty Register Pruefen

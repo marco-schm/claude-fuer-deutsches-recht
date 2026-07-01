@@ -1,6 +1,6 @@
 ---
 name: unmittelbare-risikoampel-und-gegenargumente
-description: "Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien in Europarecht-Kompass für deutsche Juristen geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien

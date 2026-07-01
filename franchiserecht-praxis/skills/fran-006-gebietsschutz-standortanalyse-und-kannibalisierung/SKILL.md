@@ -1,6 +1,6 @@
 ---
 name: fran-006-gebietsschutz-standortanalyse-und-kannibalisierung
-description: "Franchiserecht: Gebietsschutz Standortanalyse und Kannibalisierung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Gebietsschutz Standortanalyse und Kannibalisierung in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Gebietsschutz Standortanalyse und Kannibalisierung

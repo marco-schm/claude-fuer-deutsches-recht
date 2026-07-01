@@ -1,6 +1,6 @@
 ---
 name: offizialat-richter-und-tribunal
-description: "Offizialat, Richter und Tribunal: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Wenn es um Offizialat, Richter und Tribunal in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Offizialat, Richter und Tribunal

@@ -1,6 +1,6 @@
 ---
 name: rohmanuskript-anschubhilfe
-description: "Baut aus Diktaten, Folien, Notizen und E-Mails ein klar markiertes Rohmanuskript als Anschubhilfe, ohne Autorenstimme und Redaktion zu vermischen im Verlagsredaktion."
+description: "Wenn es um Rohmanuskript-Anschubhilfe in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rohmanuskript-Anschubhilfe

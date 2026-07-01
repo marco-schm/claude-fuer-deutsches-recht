@@ -1,6 +1,6 @@
 ---
 name: national-appropriation-versus-resource-extraction
-description: "Nationale Aneignung vs. Ressourcenextraktion – OST Art. II, US SPACE Act, Luxemburger Recht, Praxisfälle im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: National Appropriation vs. Resource Extraction in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: National Appropriation vs. Resource Extraction

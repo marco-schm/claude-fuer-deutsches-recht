@@ -1,6 +1,6 @@
 ---
 name: weg-verwalterpflichtverletzung
-description: "Verwalterpflichtverletzung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Pflicht, Beschlussumsetzung, Schaden, Entlastung, Abberufung; mit Normprüfung, Beweisen, Fristen, Ris..."
+description: "Wenn es um Verwalterpflichtverletzung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verwalterpflichtverletzung: Fachmodul im Miet- und Wohnungseigentumsrecht

@@ -1,6 +1,6 @@
 ---
 name: beweisfuehrung-berufsverfahren-fremdgeld
-description: "Anwälte: beweisfuehrung im berufsverfahren - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Beweisfuehrung Berufsverfahren Fremdgeld in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: beweisfuehrung im berufsverfahren - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

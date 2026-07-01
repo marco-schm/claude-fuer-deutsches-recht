@@ -1,6 +1,6 @@
 ---
 name: landtagswahl-livecheck
-description: "Routet je Bundesland: Landeswahlgesetz, Landeswahlordnung, Wahlleiter, Fristen, Formulare und Aufstellungsanforderungen."
+description: "Wenn es um Landtagswahl Live-Check in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landtagswahl Live-Check

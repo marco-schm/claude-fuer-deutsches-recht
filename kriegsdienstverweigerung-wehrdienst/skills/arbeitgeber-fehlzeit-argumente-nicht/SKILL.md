@@ -1,6 +1,6 @@
 ---
 name: arbeitgeber-fehlzeit-argumente-nicht
-description: "Kommuniziert Anhörungstermine datensparsam gegenüber Arbeitgebern im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Arbeitgeber und Fehlzeit in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitgeber und Fehlzeit

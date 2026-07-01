@@ -1,6 +1,6 @@
 ---
 name: kontrolle-abwaegungsentscheidungen
-description: "Systematisiert die methodischen Anforderungen an die gerichtliche und behördliche Kontrolle von Abwägungsentscheidungen im Zivilrecht und öffentlichen Recht. Das Skill zeigt, wie die Kontrolldichte bei Abwägungsentscheidungen bestimmt wird, welche Fehlertypen bei Abwägungen rügbar sind und wie di..."
+description: "Wenn es um Kontrolle von Abwägungsentscheidungen in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kontrolle von Abwägungsentscheidungen

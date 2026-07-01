@@ -1,6 +1,6 @@
 ---
 name: space-086-raumfahrt-im-krieg-neutralitaet-und-sanktionen
-description: "Weltraumrecht: Raumfahrt im Krieg Neutralität und Sanktionen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Raumfahrt im Krieg Neutralität und Sanktionen in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Raumfahrt im Krieg Neutralität und Sanktionen

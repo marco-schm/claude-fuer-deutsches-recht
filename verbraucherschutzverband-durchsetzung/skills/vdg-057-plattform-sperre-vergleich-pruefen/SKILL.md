@@ -1,6 +1,6 @@
 ---
 name: vdg-057-plattform-sperre-vergleich-pruefen
-description: "Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Vergleich prüfen. Vergleich prüfen für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Plattform Sperre Vergleich Pruefen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Plattform Sperre Vergleich Pruefen

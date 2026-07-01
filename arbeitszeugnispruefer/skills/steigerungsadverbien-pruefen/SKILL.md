@@ -1,6 +1,6 @@
 ---
 name: steigerungsadverbien-pruefen
-description: Systematische Pruefung der Steigerungsadverbien im Arbeitszeugnis mit Zuordnung jedes Adverbs zu einer Notenwirkung von Maximalsteigerer bis Starknegativsteigerer als zentralem Bewertungswerkzeug der deutschen Zeugnissprache.
+description: "Wenn es um Steigerungsadverbien pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steigerungsadverbien pruefen

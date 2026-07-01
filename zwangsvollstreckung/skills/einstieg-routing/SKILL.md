@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Zwangsvollstreckung: ordnet Rolle (Gläubiger, Schuldner, Drittschuldner (Arbeitgeber, Bank)), markiert Frist (Erinnerung § 766 ZPO 2 Wochen), wählt Norm (ZPO §§ 704-945 (Vollstreckung), GVGA, InsO) und Zuständigkeit (Vollstreckungsgericht), leitet zum passenden Sp..."
+description: "Wenn es um Einstieg und Routing in Zwangsvollstreckung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

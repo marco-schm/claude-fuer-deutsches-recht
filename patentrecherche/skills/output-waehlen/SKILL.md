@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Patentrecherche (FTO, Validity, Family-Watch): stimmt Adressat (Anmelder, Erfinder, Patentanwalt), Frist (Prioritätsjahr 12 Monate) und Form auf den Zweck ab — typische Outputs: FTO-Bericht, Validity-Analyse, Stand der Technik-Liste."
+description: "Wenn es um Output wählen in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

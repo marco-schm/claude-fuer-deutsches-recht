@@ -1,6 +1,6 @@
 ---
 name: 041-konflikttraechtige-mandanten-und-neutrale-amtsfuehr
-description: "Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung. Umgang mit streitigen Beteiligten im Beurkundungsverfahren, Grenzen der notariellen Mitwirkung und Ablehnung der Beurkundung im Notariat."
+description: "Wenn es um Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung

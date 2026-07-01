@@ -1,6 +1,6 @@
 ---
 name: ausbildung-studium-bundeswehr-rueckforderung-ausbildungskosten
-description: "Rückforderung Ausbildungskosten Bundeswehr: prüft § 56 SG, Zeitstaffelung, Verhältnismäßigkeit und Billigkeitserlass. Norm-/Quellenanker: § 56 SG, Art. 12 GG, BVerwG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Ausbildung, Studium und Rückforderung von Ausbildungskosten in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausbildung, Studium und Rückforderung von Ausbildungskosten

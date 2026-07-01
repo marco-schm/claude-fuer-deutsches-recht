@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-mehrere-parallel
-description: "Wandeldarlehensmandat einordnen Verfahrensroute bestimmen und erste Prioritaeten setzen. §§ 488 ff. BGB §§ 53 55 GmbHG. Prüfraster: Vertragstyp SAFE Convertible Note Laufzeit Wandlungsereignisse offene Punkte. Output: Mandatssteckbrief Routen-Empfehlung Datenliste. Abgrenzung: Triage und Einstieg..."
+description: "Wenn es um Mandat-Triage Wandeldarlehen – Erstgespräch in Wandeldarlehen-Lebenszyklus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandat-Triage Wandeldarlehen – Erstgespräch

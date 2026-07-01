@@ -1,6 +1,6 @@
 ---
 name: beweisprotokoll-verletzung-china-nda-clause
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Beweisprotokoll Verletzung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Beweisprotokoll Verletzung in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweisprotokoll Verletzung

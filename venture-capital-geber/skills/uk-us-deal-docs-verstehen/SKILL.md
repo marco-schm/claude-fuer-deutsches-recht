@@ -1,6 +1,6 @@
 ---
 name: uk-us-deal-docs-verstehen
-description: "Übersetzt US-/UK-Terms wie SAFE, NVCA, Delaware flip, preferred stock, reps und board rights in deutsche VC-Logik im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um UK/US Deal Docs verstehen in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # UK/US Deal Docs verstehen

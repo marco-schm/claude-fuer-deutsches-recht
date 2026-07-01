@@ -1,6 +1,6 @@
 ---
 name: produktlaunch-rechtscheck
-description: "Produktlaunch-Rechtscheck von Impressum bis Marktüberwachung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Produktrecht."
+description: "Wenn es um Produktlaunch-Rechtscheck von Impressum bis Marktüberwachung in Produkthaftung und Produktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Produktlaunch-Rechtscheck von Impressum bis Marktüberwachung

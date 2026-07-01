@@ -1,6 +1,6 @@
 ---
 name: oben-formular-portal-und-einreichung
-description: "Prüft, wie Anlagen technisch eingereicht werden: beA, ERV, Portal, Datenträger, mehrere Teilpakete, Begleitvermerk und Eingangsprüfung im Anlagen zu Schriftsätzen."
+description: "Wenn es um Portal, beA und Einreichungslogik in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Portal, beA und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: stadtwerke-wirtschaftlichkeit-rechnen
-description: "Stadtwerke: Wirtschaftlichkeit rechnen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Stadtwerke Wirtschaftlichkeit Rechnen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stadtwerke Wirtschaftlichkeit Rechnen

@@ -1,6 +1,6 @@
 ---
 name: pauschalpreis-risiko-personalakte-kleinstart
-description: "Solo-Selbstständige: prüft Pauschalpreise gegen Scope Creep und Nachtragsbedarf; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Pauschalpreis Risiko Personalakte Kleinstart in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pricing Liquidität und Wachstum: Prüft pauschalpreise gegen scope creep und nachtragsbedarf

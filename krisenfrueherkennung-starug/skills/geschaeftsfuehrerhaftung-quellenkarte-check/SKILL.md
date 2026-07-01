@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrerhaftung-quellenkarte-check
-description: "Geschäftsführerhaftung Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Geschäftsführerhaftung Quellenkarte Check in Krisenfrüherkennung und StaRUG-Management geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Geschäftsführerhaftung Quellenkarte Check

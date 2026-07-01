@@ -1,6 +1,6 @@
 ---
 name: mietrecht-wohnungspolitik-familienrecht
-description: "Deutsche Rechtsgeschichte: Mietrecht und Wohnungspolitik historisch. BGB-Mietrecht 1900, Mieterschutzrecht im Ersten Weltkrieg, Weimarer Wohnungspolitik, NS-Wohnungsrecht und BGB-Mietrechtsreform 2001 im Deutsche Rechtsgeschichte."
+description: "Wenn es um Mietrecht und Wohnungspolitik historisch in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietrecht und Wohnungspolitik historisch

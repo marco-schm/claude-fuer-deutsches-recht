@@ -1,6 +1,6 @@
 ---
 name: vorstand-rollen
-description: "Klärt BGB-Vorstand, erweiterter Vorstand, Geschäftsführung, Ressorts, Vertretungsmacht und Innen-/Außenverhältnis im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Vorstand und Rollen in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vorstand und Rollen

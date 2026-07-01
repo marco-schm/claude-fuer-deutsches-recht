@@ -1,6 +1,6 @@
 ---
 name: ma-transaktion-board-paper
-description: "AG/SE-Aufsichtsrat Praxis: M&A Transaktion Board Paper; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um M&A Transaktion Board Paper in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # M&A Transaktion Board Paper

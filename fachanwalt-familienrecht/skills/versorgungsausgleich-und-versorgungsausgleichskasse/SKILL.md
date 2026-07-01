@@ -1,6 +1,6 @@
 ---
 name: versorgungsausgleich-und-versorgungsausgleichskasse
-description: "Familienrechtlicher Skill zu Versorgungsausgleich und Versorgungsausgleichskasse: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
+description: "Wenn es um Versorgungsausgleich Und Versorgungsausgleichskasse in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versorgungsausgleich und Versorgungsausgleichskasse: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

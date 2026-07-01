@@ -1,6 +1,6 @@
 ---
 name: verl-021-persoenlichkeitsrecht-im-sachbuch
-description: "Verlagsrecht: Persönlichkeitsrecht im Sachbuch mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Persönlichkeitsrecht im Sachbuch in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Persönlichkeitsrecht im Sachbuch

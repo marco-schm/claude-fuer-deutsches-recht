@@ -1,6 +1,6 @@
 ---
 name: staatsanwaltschaft-uebergabe-zwischen-dezernaten
-description: "Dezernatsuebergabe in der Staatsanwaltschaft: prüft Aktenstand, Fristen, Haft, offene Ermittlungsauftraege, Beweisrisiken und Abschlussreife mit Übergabevermerk und naechstem Schritt im Staatsanwaltschafts-Praxis."
+description: "Wenn es um Dezernatsübergabe zwischen Staatsanwaltschaftsdezernaten in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Staatsanwaltschaft Uebergabe Zwischen Dezernaten; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
 ---
 
 # Dezernatsübergabe zwischen Staatsanwaltschaftsdezernaten

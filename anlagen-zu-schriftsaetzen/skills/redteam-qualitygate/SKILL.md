@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "Red-Team Qualitygate: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand"
+description: "Wenn es um Red-Team Qualitygate in Anlagen zu Schriftsätzen geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team Qualitygate

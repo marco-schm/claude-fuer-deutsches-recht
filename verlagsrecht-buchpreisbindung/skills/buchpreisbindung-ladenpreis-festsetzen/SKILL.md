@@ -1,6 +1,6 @@
 ---
 name: buchpreisbindung-ladenpreis-festsetzen
-description: "Buchpreisbindungsgesetz: Ladenpreis rechtssicher festsetzen — BuchPrG §§ 3–5, Preismeldung, Ausnahmen, E-Book-Besonderheiten und Durchsetzungspraxis im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-009 · Buchpreisbindung: Ladenpreis festsetzen in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-009 · Buchpreisbindung: Ladenpreis festsetzen

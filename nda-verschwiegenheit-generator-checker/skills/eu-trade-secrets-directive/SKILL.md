@@ -1,6 +1,6 @@
 ---
 name: eu-trade-secrets-directive
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: EU Trade Secrets Directive; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um EU Trade Secrets Directive in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU Trade Secrets Directive

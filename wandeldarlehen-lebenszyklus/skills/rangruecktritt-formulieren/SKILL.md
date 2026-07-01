@@ -1,6 +1,6 @@
 ---
 name: rangruecktritt-formulieren
-description: "Formuliert qualifizierten Rangrücktritt für Wandeldarlehen mit vorinsolvenzlicher Sperre, freiem Überschuss, Drittschutz, Steuerweiche und Prüferbestätigung."
+description: "Wenn es um Qualifizierten Rangrücktritt formulieren in Wandeldarlehen-Lebenszyklus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Qualifizierten Rangrücktritt formulieren

@@ -1,6 +1,6 @@
 ---
 name: rezeptur-plausibilitaetspruefung-herstellungsanweisung
-description: "Rezeptur Plausibilitätsprüfung Herstellungsanweisung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht im Apothekenrecht."
+description: "Wenn es um Rezeptur Plausibilitätsprüfung Herstellungsanweisung in Apothekenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rezeptur Plausibilitätsprüfung Herstellungsanweisung

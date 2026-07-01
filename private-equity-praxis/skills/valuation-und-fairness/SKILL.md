@@ -1,6 +1,6 @@
 ---
 name: valuation-und-fairness
-description: "Prüft Bewertung in Secondary, Management Roll-over, Exit, Impairment und Streitfällen im Private Equity Praxis."
+description: "Wenn es um Valuation, Fairness und Bewertungsstreit in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Valuation, Fairness und Bewertungsstreit

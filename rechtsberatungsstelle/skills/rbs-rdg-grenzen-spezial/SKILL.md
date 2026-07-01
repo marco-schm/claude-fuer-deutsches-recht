@@ -1,6 +1,6 @@
 ---
 name: rbs-rdg-grenzen-spezial
-description: "Spezialfall RDG-Grenzen: was darf eine Rechtsberatungsstelle, ehrenamtlich vs. Anwalt, Erlaubnistatbestaende. Schnittstelle Verbraucherschuldnerberatung, Mieterverein, Sozialverband. Prüfraster und Mandanteninformation im Rechtsberatungsstelle."
+description: "Wenn es um Rbs: RDG-Grenzen in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rbs: RDG-Grenzen

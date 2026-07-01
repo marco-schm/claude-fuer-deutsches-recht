@@ -1,6 +1,6 @@
 ---
 name: schuldenbremse-und-kreditaufnahme
-description: "Haushaltsrecht BHO Bund und Länder: Schuldenbremse und Kreditaufnahme. Schuldenbremse und Kreditaufnahme im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen..."
+description: "Wenn es um Schuldenbremse Und Kreditaufnahme in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Schuldenbremse Und Kreditaufnahme

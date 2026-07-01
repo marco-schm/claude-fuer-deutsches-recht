@@ -1,6 +1,6 @@
 ---
 name: 03-rechtswegerschoepfung-paragraf-90-abs-2
-description: "Rechtswegerschoepfung Paragraf 90 Abs. 2 BVerfGG: vollständige Erschoepfung des fachgerichtlichen Instanzenzugs, Nichtzulassungsbeschwerde, Anhörungsrüge, Ausnahmen (allgemeine Bedeutung)"
+description: "Wenn es um 03 Rechtswegerschoepfung Paragraf 90 Abs 2 in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 03 Rechtswegerschoepfung Paragraf 90 Abs 2

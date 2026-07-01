@@ -1,6 +1,6 @@
 ---
 name: einbuergerung-strafen
-description: "Einbürgerung Vorstrafen: Fachmodul im Migrationsrecht: prüft Bagatellgrenzen, Register, Tilgung, Ausschlüsse; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Einbürgerung Vorstrafen: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einbürgerung Vorstrafen: Fachmodul im Migrationsrecht

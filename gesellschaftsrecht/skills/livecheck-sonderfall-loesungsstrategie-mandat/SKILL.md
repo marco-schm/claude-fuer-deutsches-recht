@@ -1,6 +1,6 @@
 ---
 name: livecheck-sonderfall-loesungsstrategie-mandat
-description: "Livecheck: Sonderfall und Edge-Case-Prüfung im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht."
+description: "Wenn es um Livecheck: Sonderfall und Edge-Case-Prüfung in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Livecheck: Sonderfall und Edge-Case-Prüfung

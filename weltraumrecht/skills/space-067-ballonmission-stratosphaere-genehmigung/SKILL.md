@@ -1,6 +1,6 @@
 ---
 name: space-067-ballonmission-stratosphaere-genehmigung
-description: "Weltraumrecht: Ballonmission Stratosphäre Genehmigung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Ballonmission Stratosphäre Genehmigung in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Ballonmission Stratosphäre Genehmigung

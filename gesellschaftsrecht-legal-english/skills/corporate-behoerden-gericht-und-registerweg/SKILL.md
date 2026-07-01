@@ -1,6 +1,6 @@
 ---
 name: corporate-behoerden-gericht-und-registerweg
-description: "Corporate: Behörden-, Gerichts- oder Registerweg im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht Legal English."
+description: "Wenn es um Corporate: Behörden-, Gerichts- oder Registerweg in Didaktisches Gesellschaftsrecht — English Business Terms geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Corporate: Behörden-, Gerichts- oder Registerweg

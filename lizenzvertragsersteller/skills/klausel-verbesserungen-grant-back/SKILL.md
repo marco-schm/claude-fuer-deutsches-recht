@@ -1,6 +1,6 @@
 ---
 name: klausel-verbesserungen-grant-back
-description: "Grant-Back-Klauseln fuer Verbesserungen und Weiterentwicklungen: Pflichtmeldung; nicht-ausschliessliches vs. ausschliessliches Grant-Back; Field-of-Use-Trennung; kartellrechtliche Grenzen TT-GVO Art. 5."
+description: "Wenn es um Klausel Verbesserungen (Grant-Back) in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klausel Verbesserungen (Grant-Back)

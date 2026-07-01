@@ -1,6 +1,6 @@
 ---
 name: textile-and-fashion-sourcing
-description: "Textil- und Modesourcing aus China: XUAR-Baumwolle-Risiko (Forced Labour), LkSG §§ 3-10 Sorgfaltspflichten Textil, EU-Textilstrategie 2022, OECD-Leitfäden Textil-Due-Diligence, Anti-Dumping Textil, Markenrechtsverstöße durch chinesische Hersteller, Zertifizierungen (GOTS, OEKO-TEX). Output: Texti..."
+description: "Wenn es um Textil-Sourcing China: XUAR-Risiko/LkSG/Markenrecht in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Textil-Sourcing China: XUAR-Risiko/LkSG/Markenrecht

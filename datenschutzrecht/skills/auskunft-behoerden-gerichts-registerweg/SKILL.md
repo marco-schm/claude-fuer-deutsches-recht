@@ -1,6 +1,6 @@
 ---
 name: auskunft-behoerden-gerichts-registerweg
-description: "Auskunft: Behörden-, Gerichts- oder Registerweg im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche..."
+description: "Wenn es um Auskunft: Behörden-, Gerichts- oder Registerweg in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Auskunft Behoerden Gerichts Registerweg; Arbeitsfeld: Datenschutzrecht."
 ---
 
 # Auskunft: Behörden-, Gerichts- oder Registerweg

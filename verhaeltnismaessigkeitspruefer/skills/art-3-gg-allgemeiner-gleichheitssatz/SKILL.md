@@ -1,6 +1,6 @@
 ---
 name: art-3-gg-allgemeiner-gleichheitssatz
-description: Allgemeiner Gleichheitssatz Art. 3 Abs. 1 GG als Spezialfall der Verhältnismäßigkeitspruefung. Willkuerformel, Neue Formel des BVerfG, gleitender Maßstab nach Regelungsdichte, Verhältnismäßigkeit der Differenzierung. Klaert wann strenge und wann zurueckhaltende Prüfung greift und welche Stufen der Prüfung zu durchlaufen sind.
+description: "Wenn es um Allgemeiner Gleichheitssatz — Art. 3 Abs. 1 GG als Differenzierungspruefung in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Allgemeiner Gleichheitssatz — Art. 3 Abs. 1 GG als Differenzierungspruefung

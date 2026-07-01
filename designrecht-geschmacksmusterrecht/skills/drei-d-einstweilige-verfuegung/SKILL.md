@@ -1,6 +1,6 @@
 ---
 name: drei-d-einstweilige-verfuegung
-description: "3D-Druck, digitale Design-Dateien und virtuelle Produkte prüfen: CAD-Dateien, Online-Verbreitung, Reparatur, Ersatzteile, Plattform-Takedown und Beweissicherung im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Drei D Druck Digitales Design in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Drei D Druck Digitales Design

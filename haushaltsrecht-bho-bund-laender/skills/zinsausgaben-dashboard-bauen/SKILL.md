@@ -1,6 +1,6 @@
 ---
 name: zinsausgaben-dashboard-bauen
-description: "Haushaltsrecht BHO Bund und Länder: Zinsausgaben: Dashboard bauen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Zinsausgaben Dashboard Bauen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zinsausgaben Dashboard Bauen

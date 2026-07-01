@@ -1,6 +1,6 @@
 ---
 name: gewr-geschaeftsgeheimnisgesetz-spezial
-description: "Spezialfall Geschaeftsgeheimnisgesetz GeschGehG: angemessene Geheimhaltungsmassnahmen, erlaubter Reverse Engineering, Whistleblower-Ausnahme. Pruefraster Schutzmassnahmen und Klage."
+description: "Wenn es um GewR: GeschGehG-Spezial in Plugin: Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # GewR: GeschGehG-Spezial

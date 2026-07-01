@@ -1,6 +1,6 @@
 ---
 name: aufopferung-historische-faelle-pockenimpfung
-description: "Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Faelle Pockenimpfungsschaeden und Sonderopfer-Lehre. Skill behandelt die Pockenimpfungspflicht des 19. Jahrhunderts (Reichsimpfgesetz 1874) und die rechtshistorische Linie zur heutigen Impfschadensversorgung nach IfSG. Liefert Quellenmatr..."
+description: "Wenn es um Pralr Aufopferung Historische Faelle Pockenimpfung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aufopferung Historische Faelle Pockenimpfung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Pralr Aufopferung Historische Faelle Pockenimpfung

@@ -1,6 +1,6 @@
 ---
 name: wechat-business-records
-description: "WeChat als Geschäftskommunikation in China: Archivierungspflichten für Unternehmen, PIPL-Einwilligungsanforderungen, Ermittlungsrisiken (Behördenzugriff WeChat-Daten), E-Discovery-Problematik, alternative Kommunikationskanäle, Datensicherheit bei WeChat Work (Qiyeweixin). Output: WeChat-Complian..."
+description: "Wenn es um WeChat Business Records: Archivierung/Behördenzugriff/Datenschutz in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WeChat Business Records: Archivierung/Behördenzugriff/Datenschutz

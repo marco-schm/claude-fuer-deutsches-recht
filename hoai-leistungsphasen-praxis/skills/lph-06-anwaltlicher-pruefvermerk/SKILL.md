@@ -1,6 +1,6 @@
 ---
 name: lph-06-anwaltlicher-pruefvermerk
-description: "HOAI LPH 6 Vorbereitung der Vergabe: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 6 Vorbereitung der Vergabe: Erstellt anwaltliches kurzmemorandum zum lph-stand in HOAI Leistungsphasen Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Erstellt anwaltliches kurzmemorandum zum lph-stand

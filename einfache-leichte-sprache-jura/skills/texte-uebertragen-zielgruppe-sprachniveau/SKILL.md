@@ -1,6 +1,6 @@
 ---
 name: texte-uebertragen-zielgruppe-sprachniveau
-description: "Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage in Einfache und Leichte Sprache für juristische Texte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage

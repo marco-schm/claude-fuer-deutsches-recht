@@ -1,6 +1,6 @@
 ---
 name: informationszugang-mecklenburg-vorpomm
-description: "Informationsfreiheit und Presseauskunft: Informationszugang Mecklenburg-Vorpommern Livecheck. Informationszugang Mecklenburg-Vorpommern Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Information..."
+description: "Wenn es um Informationszugang Mecklenburg Vorpomm in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Informationszugang Mecklenburg Vorpomm

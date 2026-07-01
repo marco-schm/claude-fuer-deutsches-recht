@@ -1,6 +1,6 @@
 ---
 name: tr3d-massearmut-tabelle-spezial
-description: "Spezialfall Tabellenfuehrung bei Massearmut: vereinfachte Quote, vereinfachtes Tabellenformat, BGH-Rechtsprechung. Prüfraster für Verwalter und Insolvenzgericht."
+description: "Wenn es um TR3D: Massearmut Tabelle in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # TR3D: Massearmut Tabelle

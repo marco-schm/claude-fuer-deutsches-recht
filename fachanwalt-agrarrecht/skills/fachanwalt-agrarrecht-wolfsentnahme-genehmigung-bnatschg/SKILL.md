@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg
-description: "Workflow-Skill zu fachanwalt agrarrecht wolfsentnahme genehmigung bnatschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Wenn es um Wolfsentnahme — Schnellabschuss-Verfahren Paragraf 45 BNatSchG in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wolfsentnahme — Schnellabschuss-Verfahren § 45 BNatSchG

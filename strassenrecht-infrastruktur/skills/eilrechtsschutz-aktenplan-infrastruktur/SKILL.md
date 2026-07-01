@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-aktenplan-infrastruktur
-description: "Straßenrecht und Infrastruktur: Eilrechtsschutz gegen Bau. Eilrechtsschutz gegen Bau im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale,..."
+description: "Wenn es um Eilrechtsschutz Gegen Bau in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eilrechtsschutz Gegen Bau

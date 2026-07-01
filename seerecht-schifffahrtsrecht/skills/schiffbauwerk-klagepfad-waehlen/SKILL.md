@@ -1,6 +1,6 @@
 ---
 name: schiffbauwerk-klagepfad-waehlen
-description: "Schiffbauwerk: Gläubiger oder Reeder waehlt Klagepfad bei Streit um Schiff im Bau (Schiffbauwerk): Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht."
+description: "Wenn es um Schiffbauwerk – Klagepfad wählen in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schiffbauwerk – Klagepfad wählen

@@ -1,6 +1,6 @@
 ---
 name: op-komplexe-patientenbrief-einwendung
-description: "OP-Komplexe Narkose Assistenz Zuschläge: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise im Goae Gebührenordnung Aerzte."
+description: "Wenn es um OP-Komplexe Narkose Assistenz Zuschläge in GOÄ Gebührenordnung für Ärzte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # OP-Komplexe Narkose Assistenz Zuschläge

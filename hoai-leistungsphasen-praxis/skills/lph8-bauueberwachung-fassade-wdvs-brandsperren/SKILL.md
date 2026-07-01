@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-fassade-wdvs-brandsperren
-description: "Bauueberwachung HOAI LPH 8 für Waermedaemm-Verbundsysteme WDVS und vorgehaengte Fassaden — Kontrolle WDVS-Kleber und Duebel nach DIBt-Zulassung und ETAG 004, Brandsperren EPS-Mineralwolle-Lamellenstreifen nach MBO § 28 und LBO, Putztraeger-Armierungsgewebe-Einbettung, Anschlussdetails Fensterstur..."
+description: "Wenn es um Bauueberwachung WDVS-Fassade und Brandsperren in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung WDVS-Fassade und Brandsperren

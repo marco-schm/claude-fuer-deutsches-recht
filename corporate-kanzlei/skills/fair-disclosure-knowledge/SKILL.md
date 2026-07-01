@@ -1,6 +1,6 @@
 ---
 name: fair-disclosure-knowledge
-description: "Fair Disclosure und Knowledge Management: Steuert Informationsfluss in M&A-Transaktionen nach MAR, Kartellrecht-Clean-Team und Insider-Regelungen. Normen: Art. 17-18 MAR, §§ 1 und 41 GWB, § 43a BRAO. Insider-Log, Need-to-know, Firewall."
+description: "Wenn es um Fair Disclosure und Knowledge Management in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Fair Disclosure Knowledge; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # Fair Disclosure und Knowledge Management

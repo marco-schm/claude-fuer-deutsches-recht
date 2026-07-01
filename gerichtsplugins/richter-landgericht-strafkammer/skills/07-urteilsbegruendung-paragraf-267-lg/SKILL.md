@@ -1,6 +1,6 @@
 ---
 name: 07-urteilsbegruendung-paragraf-267-lg
-description: "Urteilsgründe Paragraf 267 StPO bei umfangreichen Strafverfahren: Persoenliche Verhaeltnisse, Tatfeststellungen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Maßnahmen"
+description: "Wenn es um 07 Urteilsbegründung Paragraf 267 Lg in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 07 Urteilsbegründung Paragraf 267 Lg

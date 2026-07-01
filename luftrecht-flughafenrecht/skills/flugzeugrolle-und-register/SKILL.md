@@ -1,6 +1,6 @@
 ---
 name: flugzeugrolle-und-register
-description: "Mandant will Luftfahrzeugrolle abfragen Eigentuemer klären oder Halteraenderung eintragen. Prüft LuftVG §§ 64-65 LuftVZO §§ 14-24 Rollenanforderungen Datenabruf LBA Braunschweig Pfandrechtsregister AG Braunschweig und Cape-Town-ICAO-Register und liefert Registerauszugs-Auswertung mit Handlungso..."
+description: "Wenn es um Luftfahrzeugrolle und Register – Registerabfrage und Eintragsänderung in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Luftfahrzeugrolle und Register – Registerabfrage und Eintragsänderung

@@ -1,6 +1,6 @@
 ---
 name: parteieigenschaft-bundeswahlausschuss
-description: "Wahlkampfrecht Praxis: Parteieigenschaft und Beteiligungsanzeige vorbereiten im Wahlkampfrecht."
+description: "Wenn es um Parteieigenschaft Bundeswahlausschuss in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parteieigenschaft Bundeswahlausschuss

@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-schleswig-holstein-dschg-sh
-description: "Denkmalschutzrecht Schleswig-Holstein nach dem Denkmalschutzgesetz Schleswig-Holstein. Skill bündelt zuständige Behörden (Ministerium für Allgemeine und Berufliche Bildung, Wissenschaft, Forschung und Kultur; Landesamt für Denkmalpflege Schleswig-Holstein in Kiel; Untere Denkmalschutzbehörden bei den Kreisen und kreisfreien Städten) und die Reform des nachrichtlichen Eintragungsmodells."
+description: "Wenn es um Denkmalschutz Schleswig-Holstein (DSchG-SH) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Schleswig-Holstein (DSchG-SH)

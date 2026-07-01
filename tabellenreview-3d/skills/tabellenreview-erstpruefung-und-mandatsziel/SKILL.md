@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-erstpruefung-und-mandatsziel
-description: "Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel in Tabellenreview 3D geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tabellenreview Erstpruefung Und Mandatsziel; Arbeitsfeld: Tabellenreview 3D."
 ---
 
 # Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel

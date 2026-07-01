@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Erbrechtlichen Streit durch Vergleich lösen und Verhandlungsstrategie entwickeln: §§ 2303 2042 BGB §§ 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Nachlasswert Kosten..."
+description: "Wenn es um Erbrechtlichen Streit durch Vergleich lösen und Verhandlungsstrategie entwickeln in Fachanwalt Erbrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Erbrechtlichen Streit durch Vergleich lösen und Verhandlungsstrategie entwickeln

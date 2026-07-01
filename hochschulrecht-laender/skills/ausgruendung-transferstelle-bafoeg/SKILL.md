@@ -1,6 +1,6 @@
 ---
 name: ausgruendung-transferstelle-bafoeg
-description: "Prüft Spin-off, Beteiligung, Nebentätigkeit, IP-Lizenz und Hochschulressourcen im Hochschulrecht Länder."
+description: "Wenn es um Ausgründung und Transferstelle in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausgründung und Transferstelle

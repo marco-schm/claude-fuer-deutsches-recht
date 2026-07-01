@@ -1,6 +1,6 @@
 ---
 name: amtsermittlungsgrundsatz-103-sgg
-description: "Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein grosser Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern."
+description: "Wenn es um Das Gericht ermittelt für Sie — Paragraf 103 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Das Gericht ermittelt für Sie — § 103 SGG

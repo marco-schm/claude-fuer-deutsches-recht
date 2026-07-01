@@ -1,6 +1,6 @@
 ---
 name: verletzungsklage-sonderfall-edge-case
-description: "Verletzungsklage: Sonderfälle und Edge Cases: Mittelbare Patentverletzung § 10 PatG, Erschöpfungseinwand § 24 MarkenG, Vorbenutzungsrecht § 12 PatG, Markenrechtliche Erschöpfung bei Reimport, fehlerhafte Schutzr..."
+description: "Wenn es um Verletzungsklage: Sonderfälle und Edge Cases in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verletzungsklage: Sonderfälle und Edge Cases

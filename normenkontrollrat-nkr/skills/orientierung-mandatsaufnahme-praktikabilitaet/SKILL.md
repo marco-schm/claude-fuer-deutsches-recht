@@ -1,6 +1,6 @@
 ---
 name: orientierung-mandatsaufnahme-praktikabilitaet
-description: "Einstiegs-Skill für NKR-Prüfauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Prüfweg liegt. Liefert sofort einen Pr"
+description: "Wenn es um NKR-Orientierung und Mandatsaufnahme in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Orientierung Mandatsaufnahme Praktikabilitaet; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
 ---
 
 # NKR-Orientierung und Mandatsaufnahme

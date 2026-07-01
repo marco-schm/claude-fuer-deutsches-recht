@@ -1,6 +1,6 @@
 ---
 name: cum-ex-beihilfe-bgh-1-str-519-20
-description: "Cum-Ex Phantom-Verluste Beihilfe Paragraf 263 StGB und BGH 1 StR 519/20. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Cum Ex Beihilfe BGH 1 Str 519 20 in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cum Ex Beihilfe BGH 1 Str 519 20

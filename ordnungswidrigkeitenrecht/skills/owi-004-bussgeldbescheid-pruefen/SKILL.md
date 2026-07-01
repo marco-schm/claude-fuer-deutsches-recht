@@ -1,6 +1,6 @@
 ---
 name: owi-004-bussgeldbescheid-pruefen
-description: "Ordnungswidrigkeitenrecht: Bußgeldbescheid prüfen. Bußgeldbescheid prüfen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Bussgeldbescheid Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bussgeldbescheid Pruefen

@@ -1,6 +1,6 @@
 ---
 name: truppendienstgericht-zustaendigkeit-verfahren
-description: "Truppendienstgericht Zuständigkeit Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundesw..."
+description: "Wenn es um Truppendienstgericht – Zuständigkeit und Verfahren in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Truppendienstgericht – Zuständigkeit und Verfahren

@@ -1,6 +1,6 @@
 ---
 name: chn-034-machinery-import-and-factory-equipment
-description: "Festlandchina Wirtschaftsverkehr: Machinery Import And Factory Equipment. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Machinery Import And Factory Equipment in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Machinery Import And Factory Equipment

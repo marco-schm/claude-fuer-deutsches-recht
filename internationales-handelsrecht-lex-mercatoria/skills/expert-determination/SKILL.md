@@ -1,6 +1,6 @@
 ---
 name: expert-determination
-description: "Internationales Handelsrecht: Expert Determination (Sachverständigenentscheidung) im internationalen Handelsrecht. Abgrenzung zu Schiedsgerichtsbarkeit, Verbindlichkeit, ICC Expert Rules 2015, Einsatzgebiete (Preis, Qualität, Bilanzen) und Anfechtbarkeit im Internationales Handelsrecht Lex Mercat..."
+description: "Wenn es um Expert Determination in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Expert Determination

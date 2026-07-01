@@ -1,6 +1,6 @@
 ---
 name: deckungsfaehigkeit-pruefen
-description: "Haushaltsrecht BHO Bund und Länder: Deckungsfähigkeit prüfen. Deckungsfähigkeit prüfen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkma..."
+description: "Wenn es um Deckungsfaehigkeit Prüfen in Haushaltsrecht BHO Bund und Länder geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deckungsfaehigkeit Prüfen

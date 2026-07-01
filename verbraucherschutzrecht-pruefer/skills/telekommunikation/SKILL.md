@@ -1,6 +1,6 @@
 ---
 name: telekommunikation
-description: "Verbraucherschutzrecht Prüfer: Telekommunikation und Laufzeit. Telekommunikation und Laufzeit im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
+description: "Wenn es um Telekommunikation Und Laufzeit in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Telekommunikation Und Laufzeit

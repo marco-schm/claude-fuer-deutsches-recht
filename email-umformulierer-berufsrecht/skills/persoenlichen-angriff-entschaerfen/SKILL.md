@@ -1,6 +1,6 @@
 ---
 name: persoenlichen-angriff-entschaerfen
-description: "Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persönliche Angriffe Beleidigungen herabsetzende Formulierungen. Output: entschaerfte sachliche Version mit Erklärung. Abgrenz"
+description: "Wenn es um Persönlichen Angriff entschärfen in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Persoenlichen Angriff Entschaerfen; Arbeitsfeld: E-Mail-Umformulierer."
 ---
 
 # Persönlichen Angriff entschärfen

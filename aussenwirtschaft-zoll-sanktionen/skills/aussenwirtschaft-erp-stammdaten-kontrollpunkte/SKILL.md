@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-erp-stammdaten-kontrollpunkte
-description: "Exportkontroll-Kontrollpunkte in ERP-Systemen (SAP GTS, Oracle GTM): Konfiguration und Qualitaetssicherung exportkontrollrelevanter Stammdaten wie Gueterklassifizierung (ECCN/Dual-Use-Code), Embargo-Blocker, Sanktionslisten-Integration und Dokumentenabruf. Identifiziert typische Konfigurationsfeh..."
+description: "Wenn es um ERP-Stammdaten für Exportkontrolle: Konfiguration und Qualitaetssicherung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ERP-Stammdaten für Exportkontrolle: Konfiguration und Qualitaetssicherung

@@ -1,6 +1,6 @@
 ---
 name: agrar-logistik-cyberincident
-description: "Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwerke, Data Act (VO 2023/2854) Zugangsrechte für Landwirte, Verhältnis zu Geschäftsgeheimnissen (GeschGehG) bei Erntedaten und DSGVO-Anforderungen bei personenbezogenen Agrardaten..."
+description: "Wenn es um Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT

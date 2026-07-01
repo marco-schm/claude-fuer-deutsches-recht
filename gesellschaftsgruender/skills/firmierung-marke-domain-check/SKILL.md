@@ -1,6 +1,6 @@
 ---
 name: firmierung-marke-domain-check
-description: Prüft Firmenname, Unterscheidungskraft, Rechtsformzusatz, Markenrisiko, Domain, Social Handles und Registerfähigkeit für Gründer.
+description: "Wenn es um Firmierung, Marke und Domain-Check in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Firmierung, Marke und Domain-Check
 

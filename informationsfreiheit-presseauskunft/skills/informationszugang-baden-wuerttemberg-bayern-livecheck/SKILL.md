@@ -1,6 +1,6 @@
 ---
 name: informationszugang-baden-wuerttemberg-bayern-livecheck
-description: "Informationsfreiheit und Presseauskunft: Informationszugang Baden-Württemberg Livecheck. Informationszugang Baden-Württemberg Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/..."
+description: "Wenn es um Informationszugang Baden Wuerttemberg in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Informationszugang Baden Wuerttemberg

@@ -1,6 +1,6 @@
 ---
 name: workflow-privacy-by-design-sprint
-description: "Führt Produktteam durch Privacy-by-Design für Roboter: Sensorik, lokale Verarbeitung, Datenminimierung, Rollen, Transparenz und Löschkonzept im Robotik-Recht."
+description: "Wenn es um Privacy-by-Design-Sprint in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Workflow Privacy By Design Sprint; Arbeitsfeld: robotik-recht."
 ---
 
 # Privacy-by-Design-Sprint

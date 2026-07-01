@@ -1,6 +1,6 @@
 ---
 name: free-clear-sale-363f
-description: "Prüft sale free and clear of interests, liens attaching to proceeds, consent, bona fide dispute and statutory bases im US Bankruptcy Code."
+description: "Wenn es um Free and Clear Sale Paragraf 363(f) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Free and Clear Sale § 363(f)

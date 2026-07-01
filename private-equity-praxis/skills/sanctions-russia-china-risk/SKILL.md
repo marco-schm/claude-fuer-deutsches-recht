@@ -1,6 +1,6 @@
 ---
 name: sanctions-russia-china-risk
-description: "Prüft Exportkontrolle, Sanktionen, UBO, China-/Russland-Bezüge, Dual-Use und FDI-Exposure im Private Equity Praxis."
+description: "Wenn es um Sanktions- und geopolitische Risiken in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanktions- und geopolitische Risiken

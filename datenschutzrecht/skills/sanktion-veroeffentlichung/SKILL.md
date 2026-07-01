@@ -1,6 +1,6 @@
 ---
 name: sanktion-veroeffentlichung
-description: "Datenschutzrecht-Brückenskill: Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei..."
+description: "Wenn es um Veröffentlichung von Bußgeldentscheidungen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Veröffentlichung von Bußgeldentscheidungen

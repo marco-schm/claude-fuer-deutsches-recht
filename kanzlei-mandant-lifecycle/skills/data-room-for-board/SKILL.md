@@ -1,6 +1,6 @@
 ---
 name: data-room-for-board
-description: "Datenraum für Board/Gremien: steuert Gremienunterlagen, Rechte, Versionen, Beschlüsse und Kanzleiinput sicher teilen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Datenraum für Board/Gremien in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenraum für Board/Gremien

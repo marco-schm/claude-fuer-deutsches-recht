@@ -1,6 +1,6 @@
 ---
 name: ust-vorsteuerabzug-15-ustg
-description: "Vollstaendige Prüfung des Vorsteuerabzugs nach § 15 UStG — Unternehmereigenschaft Leistungsbezug für das Unternehmen ordnungsgemaesse Rechnung Ausschlusstatbestaende und EuGH-Rechtsprechung zum formellen Mangel. Anwendungsfall Aussenpruefung versagt Vorsteuerabzug wegen formeller Rechnungsmaenge..."
+description: "Wenn es um Vorsteuerabzug — Paragraf 15 UStG materielle und formelle Voraussetzungen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorsteuerabzug — § 15 UStG materielle und formelle Voraussetzungen

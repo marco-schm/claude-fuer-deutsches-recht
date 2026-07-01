@@ -1,6 +1,6 @@
 ---
 name: zwvw-anordnung-zwangsverwaltung
-description: "Bauleiter Anordnung Zwangsverwaltung ZVG: Gläubigerantrag, Anordnungsbeschluss, Verwalterbestellung. Prüfraster für Gläubiger und Eigentuemer im Zwangsverwaltung Zvg."
+description: "Wenn es um ZwVw: Anordnung Bauleiter in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # ZwVw: Anordnung Bauleiter

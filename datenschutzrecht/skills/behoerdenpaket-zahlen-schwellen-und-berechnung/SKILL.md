@@ -1,6 +1,6 @@
 ---
 name: behoerdenpaket-zahlen-schwellen-und-berechnung
-description: "Behördenpaket: Zahlen, Schwellenwerte und Berechnung: Behördenpaket: Zahlen, Schwellenwerte und Berechnung."
+description: "Wenn es um Behördenpaket: Zahlen, Schwellenwerte und Berechnung in Datenschutzrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Behördenpaket: Zahlen, Schwellenwerte und Berechnung

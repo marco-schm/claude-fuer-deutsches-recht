@@ -1,6 +1,6 @@
 ---
 name: remedies-damages-representations-warranties
-description: "Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und fragt nach Rechtsfolgen: damages specific performance injunction rescission restitution equitable relief punitive damages. Prüfraster Remedy-Auswahl Schadensmass Equity-Voraussetzungen Enforcement. Output Remedy-Analyse Schadensberechnung..."
+description: "Wenn es um Remedies, Damages und Equity in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Remedies, Damages und Equity

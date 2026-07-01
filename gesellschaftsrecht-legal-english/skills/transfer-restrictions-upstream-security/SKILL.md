@@ -1,6 +1,6 @@
 ---
 name: transfer-restrictions-upstream-security
-description: "Erklaert Transfer Restrictions, Vinkulierung, ROFR, ROFO, Lock-up, Permitted Transfers und Vollzug bei deutschen Anteilen im Gesellschaftsrecht Legal English."
+description: "Wenn es um Transfer Restrictions und Vinkulierung in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Transfer Restrictions und Vinkulierung

@@ -1,6 +1,6 @@
 ---
 name: authority-matrix
-description: "Authority Matrix und Approvals Skill: prüft Zeichnungsberechtigungen, Gremienkompetenzen, Vollmachten, Gesellschafterbeschluesse, Board Consents und interne Freigaben."
+description: "Wenn es um Authority Matrix Approvals in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Authority Matrix Approvals

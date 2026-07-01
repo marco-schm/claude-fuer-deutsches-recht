@@ -1,6 +1,6 @@
 ---
 name: kaltstart-einigungsvertrag-akte
-description: "Einigungsvertrag und Vermögensrecht: Kaltstart Einigungsvertrag-Akte. Kaltstart Einigungsvertrag-Akte im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Kaltstart Einigungsvertrag Akte in Einigungsvertrag und Vermögensrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Einigungsvertrag Akte

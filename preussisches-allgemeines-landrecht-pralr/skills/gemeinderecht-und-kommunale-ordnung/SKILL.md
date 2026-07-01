@@ -1,6 +1,6 @@
 ---
 name: gemeinderecht-und-kommunale-ordnung
-description: "PrALR: Gemeinderecht, lokale Ordnung, Städte, Dörfer und subsidiäre Rechtsquellen im preußischen Raum analysieren."
+description: "Wenn es um Gemeinderecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gemeinderecht Und Kommunale Ordnung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Gemeinderecht

@@ -1,6 +1,6 @@
 ---
 name: lease-016-kuendigung-zahlungsverzug-rueckholung-und-verwertung
-description: "Leasingrecht: Kündigung Zahlungsverzug Rückholung und Verwertung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Kündigung Zahlungsverzug Rückholung und Verwertung in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Kündigung Zahlungsverzug Rückholung und Verwertung

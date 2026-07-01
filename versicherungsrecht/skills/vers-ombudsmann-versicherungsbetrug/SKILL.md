@@ -1,6 +1,6 @@
 ---
 name: vers-ombudsmann-versicherungsbetrug
-description: "Eskalationsrouting im Versicherungsrecht: Versicherungsombudsmann, PKV-Ombudsmann, BaFin-Beschwerde, Deckungsklage, einstweiliger Rechtsschutz und Vergleichsdruck sauber unterscheiden im Versicherungsrecht."
+description: "Wenn es um Ombudsmann, BaFin-Beschwerde oder Klage? in Versicherungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ombudsmann, BaFin-Beschwerde oder Klage?

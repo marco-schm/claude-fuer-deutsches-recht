@@ -1,6 +1,6 @@
 ---
 name: abschlussmemo-romanistische
-description: "Römisches Recht: Abschlussmemo Romanistische Tragfaehigkeit. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Abschlussmemo Romanistische Tragfaehigkeit in Römisches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Abschlussmemo Romanistische Tragfaehigkeit

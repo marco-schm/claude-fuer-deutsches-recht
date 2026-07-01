@@ -1,6 +1,6 @@
 ---
 name: kom-088-ausschuss-zustaendigkeit-pruefen
-description: "Kommunalrecht der Länder: Ausschuss: Zuständigkeit prüfen. Zuständigkeit prüfen für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Ausschuss Zustaendigkeit Pruefen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausschuss Zustaendigkeit Pruefen

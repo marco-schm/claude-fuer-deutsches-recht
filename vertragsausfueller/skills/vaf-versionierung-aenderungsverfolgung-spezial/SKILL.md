@@ -1,6 +1,6 @@
 ---
 name: vaf-versionierung-aenderungsverfolgung-spezial
-description: "Spezialfall Versionierung und Änderungsverfolgung in Vertragsdokumenten: Track Changes, Blackline, automatisierter Diff: Prüfraster f..."
+description: "Wenn es um Vaf Versionierung Aenderungsverfolgung Spezial in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Spezialfall Versionierung und Änderungsverfolgung in Vertragsdokumenten: Track Changes, Blackline, automatisierter Diff

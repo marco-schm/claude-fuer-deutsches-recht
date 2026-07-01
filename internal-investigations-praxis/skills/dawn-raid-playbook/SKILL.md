@@ -1,6 +1,6 @@
 ---
 name: dawn-raid-playbook
-description: "Playbook für den Umgang mit Durchsuchungen (Dawn Raids) durch Staatsanwaltschaft, Kartellbehörden oder Regulatoren – Verhalten, Protokoll, Eskalation im Internal Investigations Praxis."
+description: "Wenn es um Dawn Raid Playbook in Internal Investigations Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Dawn Raid Playbook

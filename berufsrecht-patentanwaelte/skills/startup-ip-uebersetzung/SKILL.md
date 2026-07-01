@@ -1,6 +1,6 @@
 ---
 name: startup-ip-uebersetzung
-description: "Patentanwälte: startup ip budget warnung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Startup Ip Uebersetzung in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Patentanwälte: startup ip budget warnung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

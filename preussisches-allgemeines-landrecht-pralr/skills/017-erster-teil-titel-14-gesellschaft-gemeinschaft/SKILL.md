@@ -1,6 +1,6 @@
 ---
 name: 017-erster-teil-titel-14-gesellschaft-gemeinschaft
-description: "PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Pralr Erster Teil Titel 14 Gesellschaft Gemeinschaft Und in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Erster Teil Titel 14 Gesellschaft Gemeinschaft Und

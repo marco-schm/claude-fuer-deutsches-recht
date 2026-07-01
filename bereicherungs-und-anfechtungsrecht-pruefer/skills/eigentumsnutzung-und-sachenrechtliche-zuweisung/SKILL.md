@@ -1,6 +1,6 @@
 ---
 name: eigentumsnutzung-und-sachenrechtliche-zuweisung
-description: "Anwendungsfall: fremdes Eigentum wirtschaftlich genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 818 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden An..."
+description: "Wenn es um Eigentumsnutzung und sachenrechtliche Zuweisung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eigentumsnutzung Und Sachenrechtliche Zuweisung; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # Eigentumsnutzung und sachenrechtliche Zuweisung

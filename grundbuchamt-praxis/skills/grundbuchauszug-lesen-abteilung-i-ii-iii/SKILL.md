@@ -1,6 +1,6 @@
 ---
 name: grundbuchauszug-lesen-abteilung-i-ii-iii
-description: "Erklärt Bestandsverzeichnis, Abteilung I, II und III mit Warnsystem gegen übersehene Dienstbarkeiten, Vormerkungen, Verfügungsbeschränkungen und Rangfallen im Grundbuchamt Praxis."
+description: "Wenn es um Grundbuchauszug richtig lesen in Grundbuchamt Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Grundbuchauszug richtig lesen

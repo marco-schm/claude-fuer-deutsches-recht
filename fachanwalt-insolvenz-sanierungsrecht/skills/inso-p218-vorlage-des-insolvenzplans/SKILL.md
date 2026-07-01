@@ -1,6 +1,6 @@
 ---
 name: inso-p218-vorlage-des-insolvenzplans
-description: "§ 218 InsO (Vorlage des Insolvenzplans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 218 InsO (Vorlage des Insolvenzplans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge,..."
+description: "Wenn es um Inso P218 Vorlage Des Insolvenzplans in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 218 InsO (Vorlage des Insolvenzplans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

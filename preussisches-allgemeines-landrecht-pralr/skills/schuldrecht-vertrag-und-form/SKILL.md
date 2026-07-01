@@ -1,6 +1,6 @@
 ---
 name: schuldrecht-vertrag-und-form
-description: "PrALR: Schuldrecht, Vertragsschluss, Formzwang, Schriftlichkeit und historische Verkehrssicherheit analysieren."
+description: "Wenn es um Vertrag und Form in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Schuldrecht Vertrag Und Form; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Vertrag und Form

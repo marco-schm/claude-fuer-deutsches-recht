@@ -1,6 +1,6 @@
 ---
 name: versicherungsbetrug-verdachtsfall-kooperation-strafrecht
-description: "Versicherungsrechtlicher Umgang mit Betrugsverdacht: Auskunft, Leistungsprüfung, Strafanzeige, Datenschutz, Zivilprozess und Verteidigungsrisiken im Versicherungsrecht."
+description: "Wenn es um Verdacht Versicherungsbetrug und Kooperation mit Strafrecht in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verdacht Versicherungsbetrug und Kooperation mit Strafrecht

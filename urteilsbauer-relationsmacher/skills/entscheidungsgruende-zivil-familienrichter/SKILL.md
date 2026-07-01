@@ -1,6 +1,6 @@
 ---
 name: entscheidungsgruende-zivil-familienrichter
-description: "Entscheidungsgründe eines Zivilurteils im Urteilsstil schreiben: Richter hat Beweise erhoben und muss Begründung formulieren. Normen: § 313 Abs. 3 ZPO (Entscheidungsgründe), § 286 ZPO. Prüfraster: Urteilsstil (kein Gutachtenstil), Obersatz, Anspruchsgrundlage, Subsumtion, Beweiswürdigung, Einwend"
+description: "Wenn es um Entscheidungsgründe schreiben in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Entscheidungsgruende Zivil Familienrichter; Arbeitsfeld: Urteilsbauer und Relationsmacher."
 ---
 
 # Entscheidungsgründe schreiben

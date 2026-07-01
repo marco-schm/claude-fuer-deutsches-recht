@@ -1,6 +1,6 @@
 ---
 name: chn-092-union-and-labour-touchpoints
-description: "Festlandchina Wirtschaftsverkehr: Union And Labour Touchpoints. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Union And Labour Touchpoints in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Union And Labour Touchpoints

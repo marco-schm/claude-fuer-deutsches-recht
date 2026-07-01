@@ -1,6 +1,6 @@
 ---
 name: ristbv-finden-anwenden
-description: "Staatsanwaltschaftlicher Skill zu RiStBV finden und anwenden: ordnet Tatverdacht, Zuständigkeit, Beweisstand, Verfügung, Frist und Vorlagegrenze."
+description: "Wenn es um RiStBV finden und anwenden in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # RiStBV finden und anwenden

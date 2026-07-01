@@ -1,6 +1,6 @@
 ---
 name: hta-jca-atmp-onkologie
-description: "EU-HTA/JCA bei ATMP und Onkologie: moderner Medizinrechts-Skill für Gemeinsame klinische Bewertung seit 2025 für Krebsarzneimittel und ATMP, Schnittstelle zum nationalen Nutzenbewertungsweg: EU-HTA/JCA bei ATMP und Onkologie: moderner Medizinrechts-Skill fü..."
+description: "Wenn es um Hta Jca Atmp Onkologie in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU-HTA/JCA bei ATMP und Onkologie: moderner Medizinrechts-Skill für Gemeinsame klinische Bewertung seit 2025 für Krebsarzneimittel und ATMP, Schnittstelle zum nationalen Nutzenbewertungsweg

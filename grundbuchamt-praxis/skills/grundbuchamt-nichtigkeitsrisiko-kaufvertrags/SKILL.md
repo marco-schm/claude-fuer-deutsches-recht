@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-nichtigkeitsrisiko-kaufvertrags
-description: "Prüft, ob ein möglicher Form-, Genehmigungs-, Vertretungs- oder Verbotsgesetzmangel den Grundbuchvollzug blockiert und wie Zwischenverfügung, Nachgenehmigung oder Rückabwicklung vorbereitet werden im Grundbuchamt Praxis."
+description: "Wenn es um Nichtigkeitsrisiko im Kaufvertragsvollzug in Grundbuchamt Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Nichtigkeitsrisiko im Kaufvertragsvollzug

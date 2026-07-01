@@ -1,6 +1,6 @@
 ---
 name: gruendungskosten-und-budgetplan
-description: Erstellt einen realistischen Kosten- und Budgetplan für Gründung, Notar, Register, Beratung, Bank, Steuerstart und erste Betriebsausgaben.
+description: "Wenn es um Gründungskosten und Budgetplan in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Gründungskosten und Budgetplan
 

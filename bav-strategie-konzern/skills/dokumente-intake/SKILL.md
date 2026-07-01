@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Betriebliche Altersversorgung im Konzern: sortiert Versorgungsordnung, Pensionsfonds-Vereinbarung, Gutachten Pensionsverpflichtungen, prüft Datum, Absender, Frist und Beweiswert (Aktuarisches Gutachten, Tarifverträge); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

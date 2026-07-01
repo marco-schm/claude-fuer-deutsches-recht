@@ -1,6 +1,6 @@
 ---
 name: itr-saas-vertragstypen-praxis
-description: "SaaS-Vertragstypen in der Praxis: Mietvertrag, Werkvertrag, Dienstvertrag oder eigenes IT-Vertragstyp: Auswirkungen auf Maengel, Kuendigung, Vergueng. BGH..."
+description: "Wenn es um Itr Saas Vertragstypen Praxis in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SaaS-Vertragstypen in der Praxis: Mietvertrag, Werkvertrag, Dienstvertrag oder eigenes IT-Vertragstyp

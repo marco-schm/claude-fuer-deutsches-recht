@@ -1,6 +1,6 @@
 ---
 name: agb-bei-plattformnutzung-app-stores
-description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Skill klaert die AGB-rechtlichen Kontrollfaktoren der Standardvertraege Marktstellung und Marktmacht (Art. 102 AEUV) sowie das Verhältnis zur P2B-Verordnung. Behandelt aktuelle BGH-Rechtsprechung zu Marketplace-AGB. Liefert Prüfraster."
+description: "Wenn es um Agb Bei Plattformnutzung App Stores in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Bei Plattformnutzung App Stores; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Agb Bei Plattformnutzung App Stores

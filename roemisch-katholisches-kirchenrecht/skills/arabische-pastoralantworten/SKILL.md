@@ -1,6 +1,6 @@
 ---
 name: arabische-pastoralantworten
-description: "Arabische Pastoralantworten: arabische Antworten zu Sakrament, Communio und Rückkehr; CIC can. 747-755 und 843; KKK 748-856 und 1422-1498; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Frist..."
+description: "Wenn es um Arabische Pastoralantworten in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arabische Pastoralantworten

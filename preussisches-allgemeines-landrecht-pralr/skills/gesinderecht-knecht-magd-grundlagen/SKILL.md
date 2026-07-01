@@ -1,6 +1,6 @@
 ---
 name: gesinderecht-knecht-magd-grundlagen
-description: "Gesinderecht im ALR Grundlagen. Skill behandelt die Stellung des Gesindes (Knecht Magd) nach ALR II 5 das Dienstverhaeltnis Anstellung Loehnung Disziplin und Beendigung. Historischer Kontext bis zur Aufhebung des Gesinderechts 1918/1923. Liefert Quellenmatrix:..."
+description: "Wenn es um Pralr Gesinderecht Knecht Magd Grundlagen in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gesinderecht Knecht Magd Grundlagen; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Pralr Gesinderecht Knecht Magd Grundlagen

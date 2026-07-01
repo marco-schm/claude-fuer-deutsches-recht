@@ -1,6 +1,6 @@
 ---
 name: spezial-nutzen-red-team-und-qualitaetskontrolle
-description: "Nutzen: Red-Team und Qualitätskontrolle im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Nutzen: Red-Team und Qualitätskontrolle in Einfache und Leichte Sprache für juristische Texte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nutzen: Red-Team und Qualitätskontrolle

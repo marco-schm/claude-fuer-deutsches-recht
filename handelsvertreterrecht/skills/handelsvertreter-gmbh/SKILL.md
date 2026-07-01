@@ -1,6 +1,6 @@
 ---
 name: handelsvertreter-gmbh
-description: "Analysiert die Handelsvertretung durch eine GmbH: Haftungsvorteile der GmbH gegenüber dem Einzelkaufmann, Auswirkungen auf den Ausgleichsanspruch nach § 89b HGB (kein Ausschluss wegen juristischer Person), Geschäftsführerhaftung, Gesellschafterwechsel und Auflösung der GmbH sowie Pfändungsschutz..."
+description: "Wenn es um Handelsvertreter-GmbH — Rechtsformwahl und Ausgleichsanspruch nach Paragraf 89b HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsvertreter-GmbH — Rechtsformwahl und Ausgleichsanspruch nach § 89b HGB

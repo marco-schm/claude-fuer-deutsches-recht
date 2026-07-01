@@ -1,6 +1,6 @@
 ---
 name: strafakte-quality-gate
-description: "Quality-Gate für eine aufbereitete Strafakte: Vollstaendigkeit (alle Baende, Aktenblattzahl), Konsistenz (Personenverzeichnis gegen Anklageschrift), Suchbarkeit (OCR, Volltext), Sensibilitaet (verschluss-Sachen separat). Output Prüfliste mit Befund je Punkt und Naechster-Schritt-Empfehlung im St..."
+description: "Wenn es um Strafakte: Quality Gate in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Strafakte: Quality Gate

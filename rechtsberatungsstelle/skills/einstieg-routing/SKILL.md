@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Rechtsberatungsstelle (RDG): ordnet Rolle (Hilfesuchender, Berater, Amtsgericht), markiert Frist (Beratungshilfe-Antrag vor Tätigkeit), wählt Norm (RDG, BeratungshilfeG, Prozesskostenhilfe ZPO §§ 114 ff.) und Zuständigkeit (Amtsgericht), leitet zum passenden Spezi..."
+description: "Wenn es um Einstieg und Routing in Plugin für die studentische Rechtsberatungsstelle geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

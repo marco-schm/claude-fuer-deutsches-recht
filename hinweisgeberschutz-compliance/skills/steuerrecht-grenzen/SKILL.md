@@ -1,6 +1,6 @@
 ---
 name: steuerrecht-grenzen
-description: "Prüft Steuerhinweise und Grenzen interner Aufklärung im Hinweisgeberschutz Compliance."
+description: "Wenn es um Steuerrecht Grenzen in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerrecht Grenzen

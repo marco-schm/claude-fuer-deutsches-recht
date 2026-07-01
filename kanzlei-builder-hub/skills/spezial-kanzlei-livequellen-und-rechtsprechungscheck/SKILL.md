@@ -1,6 +1,6 @@
 ---
 name: spezial-kanzlei-livequellen-und-rechtsprechungscheck
-description: "Kanzlei: Livequellen- und Rechtsprechungscheck im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Kanzlei: Livequellen- und Rechtsprechungscheck in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzlei: Livequellen- und Rechtsprechungscheck

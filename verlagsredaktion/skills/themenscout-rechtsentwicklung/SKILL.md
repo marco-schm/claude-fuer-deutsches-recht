@@ -1,6 +1,6 @@
 ---
 name: themenscout-rechtsentwicklung
-description: "Identifiziert Trends in BGH-/EuGH-/BVerfG-/BMF-Rechtsprechung und Gesetzgebungsverfahren als Themenkandidaten für Aufsaetze und Heftaufmacher im Verlagsredaktion."
+description: "Wenn es um Themenscout Rechtsentwicklung in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Themenscout Rechtsentwicklung

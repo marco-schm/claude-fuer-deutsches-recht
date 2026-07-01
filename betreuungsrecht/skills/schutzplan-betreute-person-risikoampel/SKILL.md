@@ -1,6 +1,6 @@
 ---
 name: schutzplan-betreute-person-risikoampel
-description: "Schutzplan für die betreute Person: prüft Risiken bei Gesundheit, Wohnen, Vermögen, Einsamkeit, Verträgen, digitalem Betrug, Angehörigenkonflikt, Pflege, Heim und Selbstgefährdung und erzeugt eine klare Risikoampel mit mildesten geeigneten Maßnahmen."
+description: "Wenn es um Schutzplan und Risikoampel in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schutzplan und Risikoampel

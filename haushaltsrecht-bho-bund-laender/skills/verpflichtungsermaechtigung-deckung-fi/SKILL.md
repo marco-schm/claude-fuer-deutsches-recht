@@ -1,6 +1,6 @@
 ---
 name: verpflichtungsermaechtigung-deckung-fi
-description: "Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Deckung finden im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Verpflichtungsermaechtigung Deckung Fi in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verpflichtungsermaechtigung Deckung Fi

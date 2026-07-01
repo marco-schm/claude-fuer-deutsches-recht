@@ -1,6 +1,6 @@
 ---
 name: spezial-portal-livequellen-und-rechtsprechungscheck
-description: "Portal: Livequellen- und Rechtsprechungscheck im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Portal: Livequellen- und Rechtsprechungscheck in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Portal: Livequellen- und Rechtsprechungscheck

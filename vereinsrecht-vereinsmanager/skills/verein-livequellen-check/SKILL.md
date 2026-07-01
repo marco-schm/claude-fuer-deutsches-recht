@@ -1,6 +1,6 @@
 ---
 name: verein-livequellen-check
-description: "Sammelt aktuelle amtliche Quellen zu BGB, AO, Registergericht, Finanzamt, Landesrecht und Satzung vor Ausgabe."
+description: "Wenn es um Livequellen-Check Vereinsrecht in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Livequellen-Check Vereinsrecht

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Startet Hochschulrecht für Universitäten, Hochschulen, Studenten, Lehrer, Kanzler, Präsidien und Rechtsabteilungen."
+description: "Wenn es um Allgemein in Hochschulrecht der Bundesländer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemein

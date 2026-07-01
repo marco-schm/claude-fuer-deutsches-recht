@@ -1,6 +1,6 @@
 ---
 name: geschuetzte-verstoesse-paragraf2
-description: "Ordnet gemeldete Verstöße in den sachlichen Anwendungsbereich ein im Hinweisgeberschutz Compliance."
+description: "Wenn es um Geschuetzte Verstoesse Paragraf2 in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschuetzte Verstoesse Paragraf2

@@ -1,6 +1,6 @@
 ---
 name: einstieg-in-den-skill-verbund-verkehrsrecht
-description: "Einstieg in den Skill-Verbund Verkehrsrecht: Orientierung im Verkehrsrecht FAO Voraussetzungen §§ 14g bis 14i FAO Verkehrsrecht. Typische Mandate Verkehrsunfall Schadensregulierung OWi-Bußgeld Fahrerlaubnis MPU V..."
+description: "Wenn es um Einstieg in den Skill-Verbund Verkehrsrecht in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg in den Skill-Verbund Verkehrsrecht

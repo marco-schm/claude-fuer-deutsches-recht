@@ -1,6 +1,6 @@
 ---
 name: landwirtschaftliche-flaeche-berechtigt
-description: "Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Berechtigte ermitteln im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Landwirtschaftliche Flaeche Berechtigt in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landwirtschaftliche Flaeche Berechtigt

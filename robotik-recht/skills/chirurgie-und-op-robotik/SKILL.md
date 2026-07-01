@@ -1,6 +1,6 @@
 ---
 name: chirurgie-und-op-robotik
-description: "Prüft OP- und Chirurgierobotik: MDR-Klasse, klinische Bewertung, Vigilanz, Betreiber, Aufklärung, Wartung und Behandlungsfehlernähe."
+description: "Wenn es um Chirurgie- und OP-Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chirurgie- und OP-Robotik

@@ -1,6 +1,6 @@
 ---
 name: verfassung-grundrechte-juristische-uebersicht
-description: "Grundrechtsfaehigkeit juristischer Personen Art. 19 Abs. 3 GG: inlaendische jur. Personen, Wesensmaessigkeitsklausel. Beispiele: Wirtschafts-Grundrechte ja, Wuerde nein. Ausländische jur. Personen jetzt teilweise EuGH-konform anerkannt im Verfassungsrecht."
+description: "Wenn es um Grundrechte jur. Personen in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Grundrechte jur. Personen

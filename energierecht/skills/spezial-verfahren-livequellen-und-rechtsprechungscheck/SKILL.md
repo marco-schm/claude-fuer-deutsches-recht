@@ -1,6 +1,6 @@
 ---
 name: spezial-verfahren-livequellen-und-rechtsprechungscheck
-description: "Verfahren: Livequellen- und Rechtsprechungscheck im Plugin energierecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Verfahren: Livequellen- und Rechtsprechungscheck in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verfahren: Livequellen- und Rechtsprechungscheck

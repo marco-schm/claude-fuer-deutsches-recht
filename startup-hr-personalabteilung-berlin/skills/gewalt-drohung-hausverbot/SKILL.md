@@ -1,6 +1,6 @@
 ---
 name: gewalt-drohung-hausverbot
-description: "Berliner Start-up-HR: Drohung, Gewalt, Hausverbot und Sicherheitslage: Sofortmaßnahmen, Polizei, Kündigung, Datenschutz und Teamkommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Gewalt Drohung Hausverbot in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Gewalt Drohung Hausverbot

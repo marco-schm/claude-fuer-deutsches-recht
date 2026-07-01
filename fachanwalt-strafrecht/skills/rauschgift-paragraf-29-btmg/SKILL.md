@@ -1,6 +1,6 @@
 ---
 name: rauschgift-paragraf-29-btmg
-description: "Rauschgift § 29 BtMG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Rauschgift Paragraf 29 BtMG in Fachanwalt Strafrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rauschgift § 29 BtMG

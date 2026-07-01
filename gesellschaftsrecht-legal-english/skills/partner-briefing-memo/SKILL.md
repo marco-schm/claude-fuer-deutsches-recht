@@ -1,6 +1,6 @@
 ---
 name: partner-briefing-memo
-description: "Schreibt ein knappes Partnerbriefing zu Corporate-English-Fragen mit Issue, Rechtsanker, wirtschaftlicher Wirkung, Empfehlung und Rueckfragen im Gesellschaftsrecht Legal English."
+description: "Wenn es um Partnerbriefing Memo in Didaktisches Gesellschaftsrecht — English Business Terms geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Partnerbriefing Memo

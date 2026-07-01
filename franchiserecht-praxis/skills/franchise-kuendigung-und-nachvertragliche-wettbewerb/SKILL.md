@@ -1,6 +1,6 @@
 ---
 name: franchise-kuendigung-und-nachvertragliche-wettbewerb
-description: "Franchise: Kuendigung und nachvertragliche Wettbewerbsklausel. Skill behandelt ordentliche und ausserordentliche Kuendigung Vertragsstrafe nachvertragliches Wettbewerbsverbot Karenzentschaedigung und Geheimhaltungspflicht. BGH-Linie zur Wirksamkeit. Liefert Prüfraster im Franchiserecht."
+description: "Wenn es um Franchise Kuendigung Und Nachvertragliche Wettbewerb in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchise Kuendigung Und Nachvertragliche Wettbewerb

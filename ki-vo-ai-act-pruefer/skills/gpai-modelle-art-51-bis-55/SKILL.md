@@ -1,6 +1,6 @@
 ---
 name: gpai-modelle-art-51-bis-55
-description: "Entwickler oder Anbieter eines Sprachmodells oder Basismodells fragt: Fallen wir unter die GPAI-Pflichten der KI-VO und was muessen wir konkret tun? Art. 51 bis 55 KI-VO GPAI-Modelle. Prüfraster: technische Dokumentation Anhang XI Urheberrechts-Compliance-Strategie Art. 53 Abs. 1 lit. c Zusammenf..."
+description: "Wenn es um GPAI-Modelle — Art. 51 bis 55 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # GPAI-Modelle — Art. 51 bis 55 KI-VO

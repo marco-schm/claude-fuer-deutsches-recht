@@ -1,6 +1,6 @@
 ---
 name: sexuelle-belaestigung-social-media
-description: "Sexuelle Belästigung, Beschwerde, Schutzpflicht: prüft SoldGG, AGG § 3 Abs. 4, SG §§ 10 und 12, Beschwerdewege und Schutzmaßnahmen. Norm-/Quellenanker: SoldGG, AGG, WBO im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Sexuelle Belästigung, Beschwerde und Schutzpflicht in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sexuelle Belästigung, Beschwerde und Schutzpflicht

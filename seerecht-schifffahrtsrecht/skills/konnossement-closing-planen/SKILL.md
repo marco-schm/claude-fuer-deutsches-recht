@@ -1,6 +1,6 @@
 ---
 name: konnossement-closing-planen
-description: "Konnossement: Closing eines Konnossements-Transaktion (Bill of Lading)-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan im Seerecht Schifffahrtsrecht."
+description: "Wenn es um Konnossement – Closing planen in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Konnossement – Closing planen

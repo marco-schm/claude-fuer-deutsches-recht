@@ -1,6 +1,6 @@
 ---
 name: 11-einstellung-aus-opportunitaet-paragraf-153-und-153a
-description: "Einstellung wegen Geringfuegigkeit (Paragraf 153 StPO) und gegen Auflagen und Weisungen (Paragraf 153a StPO), Zustimmung des Gerichts, geringe Schuld, oeffentliches Interesse, Auflagenkatalog"
+description: "Wenn es um 11 Einstellung Aus Opportunitaet Paragraf 153 und 153a in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 11 Einstellung Aus Opportunitaet Paragraf 153 und 153a

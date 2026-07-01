@@ -1,6 +1,6 @@
 ---
 name: umfang-der-herausgabe-818-bgb-und-entreicherung
-description: "Umfang der Bereicherungshaftung nach § 818 BGB bestimmen: Erlangtes, Nutzungen, Surrogate, Wertersatz, Entreicherung, ersparte Aufwendungen und Zurechnung des Wegfalls. Output: Werttabelle mit Einredeprüfung im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale,..."
+description: "Wenn es um Umfang der Herausgabe — Paragraf 818 BGB und Entreicherung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umfang der Herausgabe — § 818 BGB und Entreicherung

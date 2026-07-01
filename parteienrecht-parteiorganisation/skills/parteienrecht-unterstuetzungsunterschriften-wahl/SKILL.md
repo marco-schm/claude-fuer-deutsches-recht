@@ -1,6 +1,6 @@
 ---
 name: parteienrecht-unterstuetzungsunterschriften-wahl
-description: "Prüft, ob Unterstützungsunterschriften nötig sind, Formblätter, Wahlberechtigung, Bescheinigung, Sammlung und Fehlerquellen."
+description: "Wenn es um Unterstützungsunterschriften in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterstützungsunterschriften

@@ -1,6 +1,6 @@
 ---
 name: emissionshandel-tehg-dehst
-description: "EU-Emissionshandel: Monitoringkonzept, jährlicher Emissionsbericht, Verifizierung, Abgabe von Zertifikaten und DEHSt-Fristen im Berichtspflichten."
+description: "Wenn es um TEHG Emissionsbericht und DEHSt in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # TEHG Emissionsbericht und DEHSt

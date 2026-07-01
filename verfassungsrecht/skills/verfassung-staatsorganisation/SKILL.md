@@ -1,6 +1,6 @@
 ---
 name: verfassung-staatsorganisation
-description: "Staatsorganisation des GG: Demokratieprinzip Art. 20, Rechtsstaatsprinzip, Bundesstaatsprinzip, Sozialstaatsprinzip, Republikprinzip. Bundesorgane: BT, BR, BReg, BPraes, BVerfG. Prüfraster Staatsfunktionen im Verfassungsrecht."
+description: "Wenn es um Staatsorganisation GG in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Staatsorganisation GG

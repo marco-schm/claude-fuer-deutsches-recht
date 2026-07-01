@@ -1,6 +1,6 @@
 ---
 name: bro-grundlagen-ki-einsatz
-description: "BRAO-Grundlagen für KI-Einsatz in der Kanzlei einfuehrend: § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienste, § 203 StGB Strafbarkeit Geheimnisverletzung, Datenschutz nach DSGVO und BDSG. Strukturierte Uebersicht zur Pflichtenkette beim Outsourcing an KI-Anbieter."
+description: "Wenn es um BRAO und digitale Werkzeuge: Grundlagen in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # BRAO und KI: Grundlagen

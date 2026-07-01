@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Rechtsberatungsstelle (RDG): stimmt Adressat (Hilfesuchender, Berater, Amtsgericht), Frist (Beratungshilfe-Antrag vor Tätigkeit) und Form auf den Zweck ab — typische Outputs: Erstberatungsmemo, Beratungshilfeantrag, Weiterleitung Anwalt."
+description: "Wenn es um Output wählen in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

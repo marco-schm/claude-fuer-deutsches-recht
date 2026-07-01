@@ -1,6 +1,6 @@
 ---
 name: gewerberaummiete-paragraph-550-bgb-langzeitform
-description: "Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? Paragraf 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster: Schriftformerfordernis Mietvertraege über 1 Jahr Folge Verstoß ordentliche Kündigung möglich Heil..."
+description: "Wenn es um Gewerberaummiete Paragraf 550 BGB — Langzeitform in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerberaummiete Paragraf 550 BGB — Langzeitform

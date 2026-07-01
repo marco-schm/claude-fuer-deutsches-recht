@@ -1,6 +1,6 @@
 ---
 name: verfassung-petition-und-verfassungsschutz
-description: "Petitionsrecht Art. 17 GG und Verfassungsschutz: Verhältnis demokratische Teilhabe und Sicherheitsbehoerden. Beobachtung politischer Parteien und Akteure, Rechtsschutz vor VG im Verfassungsrecht."
+description: "Wenn es um Petition + Verfassungsschutz in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Petition + Verfassungsschutz

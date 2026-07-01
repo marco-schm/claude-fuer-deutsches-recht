@@ -1,6 +1,6 @@
 ---
 name: schatten-ki-und-team-policy
-description: "Schatten-KI in der Kanzlei verhindern: private Accounts, Smartphones, Übersetzungstools, Diktat, Recherche und Dokumenten-Uploads erfassen; § 43 BRAO, § 43a BRAO, § 2 BORA, § 203 StGB, Art. 4 KI-VO und Team-Policy verbinden im Berufsrecht Anwaelte."
+description: "Wenn es um Schatten-digitale Werkzeuge und Kanzlei-Team-Policy in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schatten-KI und Kanzlei-Team-Policy

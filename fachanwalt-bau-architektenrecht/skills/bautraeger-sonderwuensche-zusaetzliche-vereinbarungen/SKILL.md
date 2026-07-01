@@ -1,6 +1,6 @@
 ---
 name: bautraeger-sonderwuensche-zusaetzliche-vereinbarungen
-description: "Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen: Skill klaert die Behandlung von Sonderwuensche Mehrpreisen Änderungen der Baubeschreibung Schriftform und das Verhältnis zur urspruenglic..."
+description: "Wenn es um Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen

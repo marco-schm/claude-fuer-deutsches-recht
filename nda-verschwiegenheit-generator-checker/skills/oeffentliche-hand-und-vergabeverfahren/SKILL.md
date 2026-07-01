@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-hand-und-vergabeverfahren
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Oeffentliche Hand Und Vergabeverfahren; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Oeffentliche Hand Und Vergabeverfahren in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Oeffentliche Hand Und Vergabeverfahren

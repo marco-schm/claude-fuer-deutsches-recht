@@ -1,6 +1,6 @@
 ---
 name: actio-exercitoria-reederhaftung
-description: "Actio exercitoria: Klage gegen den Reeder (exercitor navis) für Verbindlichkeiten aus Handlungen seines magister navis. Skill behandelt die Voraussetzungen die Vollhaftung des Reeders und den Vergleich zum modernen Schifffahrtsrecht. Liefert Quellenmatrix."
+description: "Wenn es um Rom 124 Actio Exercitoria Reederhaftung in Römisches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rom 124 Actio Exercitoria Reederhaftung

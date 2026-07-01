@@ -1,6 +1,6 @@
 ---
 name: plan-darstellender-gerichtliche
-description: "Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig und widerspruchsfrei verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Maßnahmen Vergleichsrechnung Sonderaktiva Sicherheiten Steuerfolgen Offenlegung. Output: Darstellender Teil als Entwurf Ri..."
+description: "Wenn es um IV-integrierte Darstellender Teil in Insolvenzverwaltung - IV-Cockpit geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # IV-integrierte Darstellender Teil

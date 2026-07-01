@@ -1,6 +1,6 @@
 ---
 name: red-team-rentenbescheid
-description: "Red-Team-Prüfung eines Rentenbescheids oder Rentenmemos: Rechenfehler, fehlende Zeiten, falscher Träger, Auslandslogik und Beweisdefizite finden."
+description: "Wenn es um red-team-rentenbescheid in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # red-team-rentenbescheid

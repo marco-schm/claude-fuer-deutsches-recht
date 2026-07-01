@@ -1,6 +1,6 @@
 ---
 name: pen-test-red-team
-description: "Prüft Pentest- und Red-Team-Programme rechtlich und technisch. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Pen Test Red Team in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pen Test Red Team

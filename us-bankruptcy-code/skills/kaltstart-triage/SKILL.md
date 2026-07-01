@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Kaltstart für Title 11: Chapter-Wahl, debtor/creditor role, automatic stay, claims, assets, financing, plan route and US-counsel package."
+description: "Wenn es um US Bankruptcy Code Kaltstart in US Bankruptcy Code geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # US Bankruptcy Code Kaltstart

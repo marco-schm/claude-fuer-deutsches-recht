@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-ausfuhrverantwortlicher-organisation
-description: "Benennung und Organisation des Ausfuhrverantwortlichen nach AWG § 7 und BAFA-Anforderungen: Aufgaben, Vollmachten und Haftung des Ausfuhrverantwortlichen, Einbindung in Compliance-Struktur, interne Berichtslinien und Vertretungsregeln. Fallkonstellation: KMU richtet erstmals Exportkontroll-Funkti..."
+description: "Wenn es um Ausfuhrverantwortlicher: Funktion, Haftung und Organisation in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausfuhrverantwortlicher: Funktion, Haftung und Organisation

@@ -1,6 +1,6 @@
 ---
 name: 01-eingangspruefung-zustaendigkeit
-description: "Prüfung Zuständigkeit (Paragraf 23 GVG sachlich, Paragrafen 12 ff. ZPO örtlich), Klagezustellung, Pflichtangaben Paragraf 253 ZPO, Anordnung des schriftlichen Vorverfahrens oder fruehen ersten Termins"
+description: "Wenn es um 01 Eingangsprüfung Zuständigkeit in Richter Amtsgericht Zivilsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 01 Eingangsprüfung Zuständigkeit

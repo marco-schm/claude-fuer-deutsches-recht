@@ -1,6 +1,6 @@
 ---
 name: third-party-time-entry-translation-management
-description: "Third Party Funding: steuert Prozessfinanzierer einbinden, Interessenkonflikt, Vergleichshoheit und Reporting zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Third Party Funding in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Third Party Funding

@@ -1,6 +1,6 @@
 ---
 name: verpflichtungsklage-und-eilrechtsschut
-description: "Informationsfreiheit und Presseauskunft: Verpflichtungsklage und Eilrechtsschutz. Verpflichtungsklage und Eilrechtsschutz im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft..."
+description: "Wenn es um Verpflichtungsklage Und Eilrechtsschut in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verpflichtungsklage Und Eilrechtsschut

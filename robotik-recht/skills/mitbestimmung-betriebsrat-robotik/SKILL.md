@@ -1,6 +1,6 @@
 ---
 name: mitbestimmung-betriebsrat-robotik
-description: "Prüft Betriebsratsrechte bei Robotik, Leistungs-/Verhaltenskontrolle, Arbeitsabläufen, Schulung und Gesundheitsschutz."
+description: "Wenn es um Mitbestimmung Betriebsrat Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mitbestimmung Betriebsrat Robotik

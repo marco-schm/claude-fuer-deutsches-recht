@@ -1,6 +1,6 @@
 ---
 name: verg-rahmenvereinbarung-konzession-spezial
-description: "Spezialfall Rahmenvereinbarung und Konzessionsvergabe KonzVgV: Vertragslaufzeit, Anpassungsklauseln, einseitige Vertragsaenderung: Spezialfall Rahmenvereinbarung und Konzessionsvergabe KonzVgV: Vertragslaufzeit, Anpassungsklauseln, einseitige Vertragsaender..."
+description: "Wenn es um Verg Rahmenvereinbarung Konzession Spezial in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Rahmenvereinbarung und Konzessionsvergabe KonzVgV: Vertragslaufzeit, Anpassungsklauseln, einseitige Vertragsaenderung

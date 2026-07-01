@@ -1,6 +1,6 @@
 ---
 name: inso-p027-eroffnungsbeschluss
-description: "§ 27 InsO (Eröffnungsbeschluß) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 27 InsO (Eröffnungsbeschluß) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittst..."
+description: "Wenn es um Inso P027 Eroffnungsbeschluss in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 27 InsO (Eröffnungsbeschluß) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

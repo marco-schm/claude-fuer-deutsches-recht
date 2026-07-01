@@ -1,6 +1,6 @@
 ---
 name: syndikusrechtsanwalt-abgrenzung-organisationspflicht-u
-description: "Anwälte: syndikusrechtsanwalt abgrenzung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Syndikusrechtsanwalt Abgrenzung Organisationspflicht U in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: syndikusrechtsanwalt abgrenzung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: schwerbehinderte-bewerber-165-sgb-9
-description: "Skill zur Pruefung der Pflichten oeffentlicher Arbeitgeber bei Bewerbungen schwerbehinderter Menschen nach § 165 SGB IX. Klaert Einladungspflicht zum Vorstellungsgespraech Pruefpflicht bei interner Besetzung Beruecksichtigung der Eignung Sonderfall offensichtlich fachlich ungeeignet Beteiligung der Schwerbehindertenvertretung nach §§ 178 179 SGB IX und die Indizwirkung von Verstoessen im AGG-Entschaedigungsprozess. Liefert Pruefraster Schriftsatzbausteine fuer Eilantrag Entschaedigungsforderung und Konkurrentenklage."
+description: "Wenn es um Schwerbehinderte Bewerber im oeffentlichen Dienst — Paragraf 165 SGB IX in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schwerbehinderte Bewerber im oeffentlichen Dienst — § 165 SGB IX

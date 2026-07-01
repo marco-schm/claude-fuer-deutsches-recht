@@ -1,6 +1,6 @@
 ---
 name: db-058-datenbankrecht-app-store-und-app-daten
-description: "Datenbankrecht: Datenbankrecht App Store und App-Daten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Datenbankrecht App Store und App-Daten in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Datenbankrecht App Store und App-Daten

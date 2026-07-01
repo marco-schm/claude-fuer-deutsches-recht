@@ -1,6 +1,6 @@
 ---
 name: spielzeug-und-kinderroboter
-description: "Prüft Kinder-, Lern- und Spielzeugroboter: Spielzeugrecht, GPSR, Datenschutz Minderjähriger, KI-Transparenz und Verbraucherschutz."
+description: "Wenn es um Spielzeug- und Kinderroboter in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spielzeug- und Kinderroboter

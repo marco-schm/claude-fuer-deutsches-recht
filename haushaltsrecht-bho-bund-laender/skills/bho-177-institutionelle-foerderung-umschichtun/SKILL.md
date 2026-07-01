@@ -1,6 +1,6 @@
 ---
 name: bho-177-institutionelle-foerderung-umschichtun
-description: "Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Umschichtung simulieren. Umschichtung simulieren für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Institutionelle Foerderung Umschichtun in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Institutionelle Foerderung Umschichtun

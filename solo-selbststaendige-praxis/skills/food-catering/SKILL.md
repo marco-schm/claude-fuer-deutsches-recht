@@ -1,6 +1,6 @@
 ---
 name: food-catering
-description: "Solo-Selbstständige: prüft Hygiene, Genehmigung, Veranstaltung, AGB und Haftung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Branchenfälle: Prüft hygiene in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Branchenfälle: Prüft hygiene

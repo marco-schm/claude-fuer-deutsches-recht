@@ -1,6 +1,6 @@
 ---
 name: hoerbuch-fachzeitschrift
-description: "Verlagsrecht: Hörbuch-Produktion — Sprechervertrag, Leistungsschutzrechte des ausübenden Künstlers (UrhG §§ 73–83), GEMA, Preisbindung und Plattformverträge im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-034 · Hörbuch, Sprechervertrag und Leistungsschutzrechte in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-034 · Hörbuch, Sprechervertrag und Leistungsschutzrechte

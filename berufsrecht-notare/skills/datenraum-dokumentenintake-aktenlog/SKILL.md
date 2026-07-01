@@ -1,6 +1,6 @@
 ---
 name: datenraum-dokumentenintake-aktenlog
-description: "Datenraum: vertiefter Berufsrechts-Skill für Notare; prüft Datenraum im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
+description: "Wenn es um Datenraum in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenraum

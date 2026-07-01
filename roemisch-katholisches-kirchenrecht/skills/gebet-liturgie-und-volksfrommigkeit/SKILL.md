@@ -1,6 +1,6 @@
 ---
 name: gebet-liturgie-und-volksfrommigkeit
-description: "Gebet, Liturgie und Volksfrömmigkeit: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Wenn es um Gebet, Liturgie und Volksfrömmigkeit in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Gebet, Liturgie und Volksfrömmigkeit

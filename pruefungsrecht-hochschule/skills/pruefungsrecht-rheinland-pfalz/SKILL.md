@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-rheinland-pfalz
-description: "Prüft Hochschulprüfungsrecht in Rheinland-Pfalz mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule."
+description: "Wenn es um Prüfungsrecht Rheinland Pfalz in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfungsrecht Rheinland Pfalz

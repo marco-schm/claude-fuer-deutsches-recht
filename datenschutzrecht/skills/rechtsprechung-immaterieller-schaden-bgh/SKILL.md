@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-immaterieller-schaden-bgh
-description: "Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art. 82 DSGVO im Lichte der EuGH-Vorgaben. Behandelt: BGH-Entscheidungen zur Substantiierung; OLG-Linien zur Bagatellschwelle; OLG-Entscheidungen zur Beweislast bei Kontrollverlust; LG-Streuung bei Datenleck-Massenklagen..."
+description: "Wenn es um Rechtsprechung BGH und OLG zum immateriellen Schaden Art. 82 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsprechung BGH und OLG zum immateriellen Schaden Art. 82 DSGVO

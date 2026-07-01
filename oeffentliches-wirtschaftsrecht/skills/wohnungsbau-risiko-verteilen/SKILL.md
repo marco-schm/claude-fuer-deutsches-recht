@@ -1,6 +1,6 @@
 ---
 name: wohnungsbau-risiko-verteilen
-description: "Wohnungsbau: Risiko verteilen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Wohnungsbau Risiko Verteilen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnungsbau Risiko Verteilen

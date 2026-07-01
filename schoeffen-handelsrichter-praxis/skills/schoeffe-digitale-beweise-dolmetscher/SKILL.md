@@ -1,6 +1,6 @@
 ---
 name: schoeffe-digitale-beweise-dolmetscher
-description: "Digitale Beweise verstehen (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Chats, Screenshots, EncroChat, Standortdaten, Hashwerte und Beweisverwertung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Digitale Beweise verstehen: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Digitale Beweise verstehen: Sitzungspraxis

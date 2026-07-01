@@ -1,6 +1,6 @@
 ---
 name: landeshaushalt-mecklenburg-vorpommern
-description: "Haushaltsrecht BHO Bund und Länder: Landeshaushalt Mecklenburg-Vorpommern lesen. Landeshaushalt Mecklenburg-Vorpommern lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkr..."
+description: "Wenn es um Landeshaushalt Mecklenburg Vorpommern in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Landeshaushalt Mecklenburg Vorpommern

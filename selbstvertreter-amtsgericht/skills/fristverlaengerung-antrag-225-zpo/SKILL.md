@@ -1,6 +1,6 @@
 ---
 name: fristverlaengerung-antrag-225-zpo
-description: "Antrag auf Fristverlaengerung nach § 224 II und § 225 ZPO. Welche Fristen verlaengerbar sind welche nicht (Notfristen). Begründung Frist-Antrag rechtzeitig stellen Folge bei nicht-Bewilligung Substituierende Strategie."
+description: "Wenn es um Eine Frist verlaengern: Antrag richtig stellen in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eine Frist verlaengern: Antrag richtig stellen

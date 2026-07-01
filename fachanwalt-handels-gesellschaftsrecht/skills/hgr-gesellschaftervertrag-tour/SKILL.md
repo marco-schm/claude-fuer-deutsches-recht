@@ -1,6 +1,6 @@
 ---
 name: hgr-gesellschaftervertrag-tour
-description: "Gesellschaftervertrags-Tour: GmbH-Standardklauseln Vinkulierung, Wettbewerbsverbot, Abfindungsklausel, Gesellschafterversammlung, Tag-along / Drag-along: Gesellschaftervertrags-Tour: GmbH-Standardklauseln Vinkulierung, Wettbewerbsverbot, Abfindungsklausel,..."
+description: "Wenn es um Hgr Gesellschaftervertrag Tour in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesellschaftervertrags-Tour: GmbH-Standardklauseln Vinkulierung, Wettbewerbsverbot, Abfindungsklausel, Gesellschafterversammlung, Tag-along / Drag-along

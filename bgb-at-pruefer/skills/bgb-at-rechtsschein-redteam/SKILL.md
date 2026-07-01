@@ -1,6 +1,6 @@
 ---
 name: bgb-at-rechtsschein-redteam
-description: "Prueft Duldungs- und Anscheinsvollmacht gegen vorschnelle Behauptungen: Zurechnung, Wiederholung, Vertrauen, Gutglaeubigkeit und Missbrauch."
+description: "Wenn es um Rechtsscheinvollmacht Red-Team in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsscheinvollmacht Red-Team

@@ -1,6 +1,6 @@
 ---
 name: risikomatrix-ampel
-description: "Erzeugt eine verständliche Risikoampel für Äußerungen mit Strafrecht, Zivilrecht, Plattformrisiko, arbeits- oder schulbezogenem Risiko, Beleglage, Verteidigungslinie und empfohlenem nächsten Schritt im Meinungspruefer."
+description: "Wenn es um Risikomatrix Ampel in Meinungsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Risikomatrix Ampel

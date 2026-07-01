@@ -1,6 +1,6 @@
 ---
 name: workflow-gewerberaum-intake
-description: "Gewerberaum-Intake: Prüfungslinie für Miet- und WEG-Recht: klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung; mit Kaltstart, Fristencheck, Belegmatrix, Anschl..."
+description: "Wenn es um Gewerberaum-Intake: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Gewerberaum-Intake: Prüfungslinie für Miet- und WEG-Recht

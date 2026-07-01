@@ -1,6 +1,6 @@
 ---
 name: vbr-047-online-shop-schlichtung-waehlen
-description: "Verbraucherschutzrecht Prüfer: Online-Shop: Schlichtung wählen. Schlichtung wählen für Online-Shop im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Online Shop Schlichtung Waehlen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Online Shop Schlichtung Waehlen

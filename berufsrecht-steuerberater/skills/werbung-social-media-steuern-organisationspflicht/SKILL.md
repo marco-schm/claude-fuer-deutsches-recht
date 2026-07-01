@@ -1,6 +1,6 @@
 ---
 name: werbung-social-media-steuern-organisationspflicht
-description: "Steuerberater: werbung social media steuern - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Werbung Social Media Steuern Organisationspflicht in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: werbung social media steuern - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

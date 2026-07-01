@@ -1,6 +1,6 @@
 ---
 name: notariat-023-identitaetspruefung-videoident-praesenztermin
-description: "Notariat im Alltag: Identitätsprüfung Videoident und Präsenztermin Grenzen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Notariat im Alltag: Identitätsprüfung Videoident und Präsenztermin Grenzen in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Identitätsprüfung Videoident und Präsenztermin Grenzen

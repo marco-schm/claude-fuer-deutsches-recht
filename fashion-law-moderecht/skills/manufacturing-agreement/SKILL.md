@@ -1,6 +1,6 @@
 ---
 name: manufacturing-agreement
-description: "Manufacturing Agreement für Mode prüfen: Spezifikation, Qualität, IP, Audit, Liefertermine, Mängel, Sozialstandards, Unterauftragnehmer und Tooling im Fashion Law Moderecht."
+description: "Wenn es um Manufacturing Agreement in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Manufacturing Agreement

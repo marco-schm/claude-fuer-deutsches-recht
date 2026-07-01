@@ -1,6 +1,6 @@
 ---
 name: cl-prozesskostenrisiko-each-party-bears-own
-description: "Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Prüfraster für Mandanten-Risikoanalyse im Common Law Kompass."
+description: "Wenn es um Common Law: Each-party-bears-own in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Common Law: Each-party-bears-own

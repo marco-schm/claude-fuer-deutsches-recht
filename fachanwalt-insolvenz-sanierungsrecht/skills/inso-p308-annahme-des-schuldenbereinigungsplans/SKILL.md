@@ -1,6 +1,6 @@
 ---
 name: inso-p308-annahme-des-schuldenbereinigungsplans
-description: "§ 308 InsO (Annahme des Schuldenbereinigungsplans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 308 InsO (Annahme des Schuldenbereinigungsplans) im Mandat prüfen: Normzweck, Tatbestand,..."
+description: "Wenn es um Inso P308 Annahme Des Schuldenbereinigungsplans in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 308 InsO (Annahme des Schuldenbereinigungsplans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

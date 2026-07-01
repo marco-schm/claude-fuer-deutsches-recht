@@ -1,6 +1,6 @@
 ---
 name: liqp-warenkredit-skonto-szenarien-spezial
-description: "Spezialfall Warenkredit und Skontostrategien in der Krise: Lieferantenverhandlung, Vorkasse, verlaengerter Eigentumsvorbehalt, Factoring. Prüfraster für Treasury."
+description: "Wenn es um LiqP: Warenkredit Skonto in Liquiditätsplanung — Power geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # LiqP: Warenkredit Skonto

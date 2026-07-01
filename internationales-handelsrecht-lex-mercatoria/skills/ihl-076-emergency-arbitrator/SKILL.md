@@ -1,6 +1,6 @@
 ---
 name: ihl-076-emergency-arbitrator
-description: "Internationales Handelsrecht und Lex Mercatoria: Emergency Arbitrator. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Emergency Arbitrator in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Emergency Arbitrator

@@ -1,6 +1,6 @@
 ---
 name: machtkritik-amtstraeger
-description: "Prüft Kritik an Amtsträgern, Behörden, Schulleitung, Bürgermeister, Justiz und Verwaltung. Gewichtet Machtkritik, Sachbezug, Amtsrolle, private Sphäre, Öffentlichkeit, § 188 StGB und Art 5 GG im Meinungspruefer."
+description: "Wenn es um Machtkritik und Amtsträger in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Machtkritik und Amtsträger

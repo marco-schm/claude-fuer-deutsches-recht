@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-cross-border-shop-eu-verbraucherrecht
-description: "Rechtsabteilungs-Fachmodul für Cross-Border-Shop EU-Verbraucherrecht: Rechtswahl, Gerichtsstand, Sprachversionen und Lieferlandrisiken werden sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ecommerce Recht."
+description: "Wenn es um Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht in E-Commerce-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht

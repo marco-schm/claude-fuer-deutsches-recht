@@ -1,6 +1,6 @@
 ---
 name: inso-p236-verbindung-mit-dem-prufungstermin
-description: "§ 236 InsO (Verbindung mit dem Prüfungstermin) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 236 InsO (Verbindung mit dem Prüfungstermin) im Mandat prüfen: Normzweck, Tatbestand, Belege,..."
+description: "Wenn es um Inso P236 Verbindung Mit Dem Prufungstermin in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 236 InsO (Verbindung mit dem Prüfungstermin) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: pensionsmodelle-risikoampel-und-gegenargumente
-description: "Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien

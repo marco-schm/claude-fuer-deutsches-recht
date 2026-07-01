@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Festlandchina Wirtschaftsverkehr: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe."
+description: "Wenn es um Festlandchina Wirtschaftsverkehr - Allgemeiner Einstieg in China-Wirtschaftsverkehr geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Festlandchina Wirtschaftsverkehr - Allgemeiner Einstieg

@@ -1,6 +1,6 @@
 ---
 name: 043-kanzleiorganisation-vier-augen-prinzip-und-fehlerku
-description: "Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip und Fehlerkultur. Organisatorische Anforderungen an das Notariat, Qualitätssicherung, Fehlermanagement und Lernkultur im Notariat."
+description: "Wenn es um Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip, Fehlerkultur in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip, Fehlerkultur

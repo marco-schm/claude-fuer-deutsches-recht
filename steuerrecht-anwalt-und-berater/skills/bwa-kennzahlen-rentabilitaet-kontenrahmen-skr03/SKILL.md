@@ -1,6 +1,6 @@
 ---
 name: bwa-kennzahlen-rentabilitaet-kontenrahmen-skr03
-description: "Rentabilitaetskennzahlen Eigenkapitalrendite Gesamtkapitalrendite ROI Umsatzrentabilitaet. Anwendungsfall Quartals- oder Jahresauswertung Beratungsgespraech Investor-Update. Methodik Berechnung Bewertung Branchenvergleich Praktische Aussage. Output Rentabilitaets-Kennzahlenblatt mit Erläuterung..."
+description: "Wenn es um Rentabilitaetskennzahlen — Eigenkapital- Gesamtkapital-Rendite ROI in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Bwa Kennzahlen Rentabilitaet Kontenrahmen Skr03; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Rentabilitaetskennzahlen — Eigenkapital- Gesamtkapital-Rendite ROI

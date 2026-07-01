@@ -1,6 +1,6 @@
 ---
 name: literatur-quellen-prompting-leitfaden-rdg
-description: "Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will Richtlinie auf dem neuesten Stand halten und benoetigt strukturierte Quellenübersicht. BRAK-Hinweise, DAV-Stellungnahmen, EU-Kommissionsmaterial, BNetzA-Hinweise und KI-VO EU 2024/1689...."
+description: "Wenn es um Literatur und Quellen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Literatur und Quellen

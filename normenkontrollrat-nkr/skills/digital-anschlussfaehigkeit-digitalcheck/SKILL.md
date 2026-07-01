@@ -1,6 +1,6 @@
 ---
 name: digital-anschlussfaehigkeit-digitalcheck
-description: "Prüfskill Digitaltauglichkeit. Adressiert die seit 2022 geltende Pflicht zum Digitalcheck (Bundesregelungsvorhaben muessen digital praktikabel sein) und die OZG-Anschlussfaehigkeit. Mit Standardpruefraster Anschluss an bestehende Standards (XOEV FIM ELSTER beA) Once-Only-Prinzip Schnittstellen D"
+description: "Wenn es um NKR-Digitaltauglichkeit / Digital-Anschlussfaehigkeit in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Digital Anschlussfaehigkeit Digitalcheck; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
 ---
 
 # NKR-Digitaltauglichkeit / Digital-Anschlussfaehigkeit

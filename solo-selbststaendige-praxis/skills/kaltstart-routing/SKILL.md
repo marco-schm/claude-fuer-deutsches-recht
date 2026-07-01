@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Solo-Selbstständige: ordnet Tätigkeit, Branche, Haupt-/Nebenerwerb, Umsätze, Risiken und erste To-dos; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis."
+description: "Wenn es um Kaltstart und Orientierung: Ordnet tätigkeit in Solo-Selbstständige Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart und Orientierung: Ordnet tätigkeit

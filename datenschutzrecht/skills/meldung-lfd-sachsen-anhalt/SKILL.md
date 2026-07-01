@@ -1,6 +1,6 @@
 ---
 name: meldung-lfd-sachsen-anhalt
-description: "Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz Sachsen-Anhalt (LfD ST) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Sachsen-Anhalt und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolg..."
+description: "Wenn es um Meldung Art. 33 DSGVO an die LfD ST in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meldung Art. 33 DSGVO an die LfD ST

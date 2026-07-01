@@ -1,6 +1,6 @@
 ---
 name: lohn-mehrarbeit-zuschlaege-39b-estg
-description: "Sonn- Feiertag- und Nachtarbeitszuschlaege § 3b EStG. Anwendungsfall Lohnabrechnung mit Schichtzuschlaegen Gastronomie Pflege Sicherheitsdienst LSt-Freiheit SV-Freiheit in Grenzen. Methodik Prüfung Begrenzung Grundlohn Pflichtdokumentation. Output Lohn-Abrechnung mit korrekter Zuschlag-Behandlung."
+description: "Wenn es um Sonn- Feiertag- und Nachtarbeitszuschlaege Paragraf 3b EStG in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sonn- Feiertag- und Nachtarbeitszuschlaege § 3b EStG

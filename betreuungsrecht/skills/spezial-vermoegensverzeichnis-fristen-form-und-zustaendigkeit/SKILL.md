@@ -1,6 +1,6 @@
 ---
 name: spezial-vermoegensverzeichnis-fristen-form-und-zustaendigkeit
-description: "Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg

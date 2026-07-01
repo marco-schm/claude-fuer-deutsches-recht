@@ -1,6 +1,6 @@
 ---
 name: review-richtlinie
-description: "Prüfung: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Prüfung: Internationaler Bezug und Schnittstellen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Prüfung: Internationaler Bezug und Schnittstellen

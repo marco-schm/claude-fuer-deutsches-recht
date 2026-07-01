@@ -1,6 +1,6 @@
 ---
 name: krisenstadien-stakeholder-strategie-ergebnis-liquiditaet
-description: "IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Maßnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-, Ertrags-, Liquiditaetskrise), § 1 StaRUG. Prüfraster: Erkennungsmerkmale je Stadiu..."
+description: "Wenn es um Krisenstadien-Diagnostik — IDW S 6 Stadienlehre in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krisenstadien-Diagnostik — IDW S 6 Stadienlehre

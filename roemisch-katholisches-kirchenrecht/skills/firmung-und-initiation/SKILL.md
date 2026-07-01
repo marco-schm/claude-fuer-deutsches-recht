@@ -1,6 +1,6 @@
 ---
 name: firmung-und-initiation
-description: "Firmung und Initiation: Firmspender, Alter, Vorbereitung, Nachweis und Nachholung; CIC can. 879-896; KKK 1285-1321; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtspr..."
+description: "Wenn es um Firmung und Initiation in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Firmung und Initiation

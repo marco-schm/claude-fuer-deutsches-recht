@@ -1,6 +1,6 @@
 ---
 name: krankenhausfinanzierungsgesetz-khg-grundstruktur
-description: "Grundstruktur des KHG nach Reform 2025: duale Finanzierung, Landesplanung, Investitionsfoerderung, Leistungsgruppen und Bund-Länder-Aufgabenteilung im Überblick im Krankenhausrecht."
+description: "Wenn es um Krankenhausfinanzierungsgesetz KHG Grundstruktur in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Krankenhausfinanzierungsgesetz KHG Grundstruktur

@@ -1,6 +1,6 @@
 ---
 name: loeschungsantrag-dpma-mandantenmemo
-description: "Löschungsantrag beim DPMA vorbereiten: fehlende Schutzfähigkeit, Stand der Technik, unzulässige Erweiterung, Antrag, Begründung und Kosten im Gebrauchsmusterrecht."
+description: "Wenn es um Loeschungsantrag Dpma in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Loeschungsantrag Dpma

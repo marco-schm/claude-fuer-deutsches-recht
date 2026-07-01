@@ -1,6 +1,6 @@
 ---
 name: abmahnung-urheberrecht-erfindungsmeldung
-description: "Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrechtsverletzung. § 97a UrhG Abmahnung und Unterlassung. Prüfraster: modifizierte Unterlassungserklärung Deckelung Abmahnkosten § 97a Abs. 3 UrhG im privaten Bereich Filesharing-Prax..."
+description: "Wenn es um Urheberrechtliche Abmahnung – Paragraf 97a UrhG in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Urheberrechtliche Abmahnung – § 97a UrhG

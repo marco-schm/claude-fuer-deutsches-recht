@@ -1,6 +1,6 @@
 ---
 name: chapter7-asset-distribution
-description: "Prüft asset liquidation, sale, abandoned property, claims waterfall, trustee commissions and closing im US Bankruptcy Code."
+description: "Wenn es um Chapter 7 Assets and Distribution in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chapter 7 Assets and Distribution

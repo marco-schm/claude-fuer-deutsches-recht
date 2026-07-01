@@ -1,6 +1,6 @@
 ---
 name: board-paper-rechtsprechungsradar-gmbh-governance
-description: "Corporate-Board-Paper-Skill für aktuelle GmbH-Governance-Rechtsprechung: Abberufung, Weisungen, Binnenpflichtverletzung, Registervollzug und Deal-Risiko nach BGH II ZR 71/23."
+description: "Wenn es um Board Paper: Rechtsprechungsradar GmbH-Governance in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Board Paper: Rechtsprechungsradar GmbH-Governance

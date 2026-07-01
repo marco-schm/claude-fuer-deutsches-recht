@@ -1,6 +1,6 @@
 ---
 name: zolllager-freilager-aussenwirtschaft
-description: "Zolllager und Freilager nach UZK Art. 240 ff: Bewilligungsvoraussetzungen Lagerhalterpflichten Bestandsbuchfuehrung Abgabenaussetzung und Aufforderungsverfahren bei Fehlmengen. Unterschied öffentliches und privates Zolllager und Sonderform Freilager. AEO-Erleichterungen. Output: Bewilligungsantra..."
+description: "Wenn es um Zolllager und Freilager: Bewilligung Lagerhalterpflichten und Bestandskontrolle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zolllager und Freilager: Bewilligung Lagerhalterpflichten und Bestandskontrolle

@@ -1,6 +1,6 @@
 ---
 name: hochschulgesetz-hamburg-hessen-mecklenburg
-description: "Prüft Hochschulrecht in Hamburg mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder."
+description: "Wenn es um Hochschulgesetz Hamburg in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hochschulgesetz Hamburg

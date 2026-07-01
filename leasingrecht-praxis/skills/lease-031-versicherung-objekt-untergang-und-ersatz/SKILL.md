@@ -1,6 +1,6 @@
 ---
 name: lease-031-versicherung-objekt-untergang-und-ersatz
-description: "Leasingrecht: Versicherung Objekt Untergang und Ersatz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Versicherung Objekt Untergang und Ersatz in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Versicherung Objekt Untergang und Ersatz

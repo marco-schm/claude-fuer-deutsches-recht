@@ -1,6 +1,6 @@
 ---
 name: vwgo-fristen-form-und-zustaendigkeit
-description: "VwGO: Fristen, Form, Zuständigkeit und Rechtsweg: VwGO: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Wenn es um VwGO: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VwGO: Fristen, Form, Zuständigkeit und Rechtsweg

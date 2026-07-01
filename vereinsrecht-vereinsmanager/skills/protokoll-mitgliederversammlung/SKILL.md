@@ -1,6 +1,6 @@
 ---
 name: protokoll-mitgliederversammlung
-description: "Erstellt Protokoll mit Anwesenheit, Versammlungsleitung, Beschlussfähigkeit, Abstimmung, Ergebnissen und Anlagen im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Protokoll Mitgliederversammlung in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Protokoll Mitgliederversammlung

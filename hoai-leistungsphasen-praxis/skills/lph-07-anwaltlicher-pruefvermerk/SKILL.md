@@ -1,6 +1,6 @@
 ---
 name: lph-07-anwaltlicher-pruefvermerk
-description: "HOAI LPH 7 Mitwirkung bei der Vergabe: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 7 Mitwirkung bei der Vergabe: Erstellt anwaltliches kurzmemorandum zum lph-stand in HOAI Leistungsphasen Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Erstellt anwaltliches kurzmemorandum zum lph-stand

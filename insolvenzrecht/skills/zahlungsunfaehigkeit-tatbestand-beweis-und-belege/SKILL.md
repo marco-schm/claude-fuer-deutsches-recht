@@ -1,6 +1,6 @@
 ---
 name: zahlungsunfaehigkeit-tatbestand-beweis-und-belege
-description: "Zahlungsunfaehigkeit: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
+description: "Wenn es um Zahlungsunfaehigkeit: Tatbestandsmerkmale, Beweisfragen und Beleglage in Insolvenzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Zahlungsunfaehigkeit: Tatbestandsmerkmale, Beweisfragen und Beleglage

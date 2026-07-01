@@ -1,6 +1,6 @@
 ---
 name: kommunikationssperre
-description: "Etabliert eine interne und externe Kommunikationssperre nach einem Datenschutzvorfall, um voreilige Aussagen, Beweismittelvernichtung und Sammelklagenrisiken zu vermeiden. Behandelt: Single-Point-of-Contact-Regelung; interne Sprachregelung; Holdingstatement; Kunden-Hotline; Pressekontakte; Mitarb..."
+description: "Wenn es um Kommunikationssperre nach Datenschutzvorfall in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kommunikationssperre nach Datenschutzvorfall

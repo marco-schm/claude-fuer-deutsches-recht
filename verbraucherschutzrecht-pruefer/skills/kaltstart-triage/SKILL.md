@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Verbraucherschutzrecht Prüfer: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
+description: "Wenn es um Verbraucherschutzrecht Prüfer - Allgemeiner Einstieg in Verbraucherschutzrecht Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbraucherschutzrecht Prüfer - Allgemeiner Einstieg

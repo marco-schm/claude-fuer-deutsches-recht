@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-kommandocenter
-description: "Steuerungsmodul für Mandanten mit mehreren parallelen Aussenwirtschafts-Sachverhalten: gleichzeitige Handhabung von Zoll-, Sanktions-, Exportkontroll- und AWV-Verfahren, Prioritaetensetzung, Ressourcenplanung und Eskalationsmanagement. Output: Sachverhalts-Priorisierungsmatrix und Koordinationspl..."
+description: "Wenn es um Kommandocenter Außenwirtschaft: Mehrfach-Sachverhalts-Steuerung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Kommandocenter Außenwirtschaft: Mehrfach-Sachverhalts-Steuerung

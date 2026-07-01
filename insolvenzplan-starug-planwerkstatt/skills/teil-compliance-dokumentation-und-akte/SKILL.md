@@ -1,6 +1,6 @@
 ---
 name: teil-compliance-dokumentation-und-akte
-description: "Teil: Compliance-Dokumentation und Aktenvermerk im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug Planwerk..."
+description: "Wenn es um Teil: Compliance-Dokumentation und Aktenvermerk in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Teil: Compliance-Dokumentation und Aktenvermerk

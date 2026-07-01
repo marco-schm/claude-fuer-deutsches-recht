@@ -1,6 +1,6 @@
 ---
 name: eidesstattliche-versicherung-eilrechtsschutz
-description: "Prüft, ob eidesstattliche Versicherungen zulässig oder sinnvoll sind im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Eidesstattliche Versicherung Grenzen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eidesstattliche Versicherung Grenzen

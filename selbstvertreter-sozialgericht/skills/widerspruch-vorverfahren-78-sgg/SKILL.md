@@ -1,6 +1,6 @@
 ---
 name: widerspruch-vorverfahren-78-sgg
-description: "Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen Sie Widerspruch einlegen. Welche Behörde was prüft und wie das Ganze ablaeuft. Mit Mustertext."
+description: "Wenn es um Das Widerspruchsverfahren — Paragraf 78 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Das Widerspruchsverfahren — § 78 SGG

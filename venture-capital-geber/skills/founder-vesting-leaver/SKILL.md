@@ -1,6 +1,6 @@
 ---
 name: founder-vesting-leaver
-description: "Prüft Founder Vesting, Good/Bad Leaver, Cliff, Acceleration, Call Rights und Vesting-Streit im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Founder Vesting und Leaver in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Founder Vesting und Leaver

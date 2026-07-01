@@ -1,6 +1,6 @@
 ---
 name: eu-oss-und-digitale-leistungen
-description: "Solo-Selbstständige: prüft OSS/MOSS-Logik bei digitalen Leistungen an Verbraucher; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um EU Oss Und Digitale Leistungen in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Internationales und Auslandskunden: Prüft oss/moss-logik bei digitalen leistungen an verbraucher

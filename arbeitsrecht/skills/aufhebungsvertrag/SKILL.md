@@ -1,6 +1,6 @@
 ---
 name: aufhebungsvertrag
-description: "Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags: Lädt, wenn ein Arbeitsverhältnis einvernehmlich beendet werden soll – mit Fokus auf Schriftform (Paragraf 623 BGB), Sperrzeit..."
+description: "Wenn es um Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags in Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags

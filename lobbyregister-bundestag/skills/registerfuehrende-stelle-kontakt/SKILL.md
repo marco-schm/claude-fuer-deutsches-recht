@@ -1,6 +1,6 @@
 ---
 name: registerfuehrende-stelle-kontakt
-description: "Bereitet Anfragen an die registerführende Stelle, Nachweisantworten, Korrekturen und Telefonnotizen vor. Output RfS-Kommunikationsakte im Lobbyregister Bundestag."
+description: "Wenn es um Registerfuehrende Stelle Kontakt in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerfuehrende Stelle Kontakt

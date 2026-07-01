@@ -1,6 +1,6 @@
 ---
 name: false-fristen-form-und-zustaendigkeit
-description: "False: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um False: Fristen, Form, Zuständigkeit und Rechtsweg in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # False: Fristen, Form, Zuständigkeit und Rechtsweg

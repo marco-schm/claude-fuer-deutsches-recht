@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für WEG/Hausverwaltung: stimmt Adressat (WEG-Eigentümer, Verwalter, Mehrheit/Minderheit), Frist (§ 44 WEG Beschlussanfechtung 1 Mon.) und Form auf den Zweck ab — typische Outputs: Beschlussklage, Beschlussersetzungsklage, Verwalter-Memo."
+description: "Wenn es um Output wählen in WEG- und Hausverwaltung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

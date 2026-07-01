@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Gewerblicher Rechtsschutz (allgemein): ordnet Rolle (Schutzrechtsinhaber, Verletzer, Konkurrent), markiert Frist (Markenwiderspruch 3 Monate), wählt Norm (MarkenG, PatG, GeschmMG, GebrMG, UrhG, UWG) und Zuständigkeit (DPMA), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

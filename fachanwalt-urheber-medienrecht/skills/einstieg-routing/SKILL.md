@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Urheber- und Medienrecht: ordnet Rolle (Urheber/Rechteinhaber, Verwerter/Nutzer, Plattform), markiert Frist (Verjährung 3 Jahre § 102 UrhG), wählt Norm (UrhG, UrhDaG (DSM-RL), MStV) und Zuständigkeit (LG (Verletzung)), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Fachanwalt Urheber Medienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

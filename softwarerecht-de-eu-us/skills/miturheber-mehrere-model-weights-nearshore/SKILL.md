@@ -1,6 +1,6 @@
 ---
 name: miturheber-mehrere-model-weights-nearshore
-description: "Prüft Teams, Co-Authors, Modulbeiträge, Joint Ownership und praktische Verwertung bei deutscher und US-Softwareentwicklung im Softwarerecht De Eu Us."
+description: "Wenn es um Mehrere Entwickler und Miturheberschaft in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mehrere Entwickler und Miturheberschaft

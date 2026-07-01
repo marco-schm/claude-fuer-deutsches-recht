@@ -1,6 +1,6 @@
 ---
 name: aif-und-professionelle-anleger
-description: "Strukturiert Spezial-AIF für PE/Private Credit mit Anlegeraufnahme, Anlagebedingungen und Berichtspflichten im Private Equity Praxis."
+description: "Wenn es um Spezial-AIF: professionelle und semiprofessionelle Anleger in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezial-AIF: professionelle und semiprofessionelle Anleger

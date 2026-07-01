@@ -1,6 +1,6 @@
 ---
 name: workflow-asyl-start
-description: "Asyl-Start: Prüfungslinie für Migrationsrecht: klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output."
+description: "Wenn es um Asyl-Start: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Asyl-Start: Prüfungslinie für Migrationsrecht

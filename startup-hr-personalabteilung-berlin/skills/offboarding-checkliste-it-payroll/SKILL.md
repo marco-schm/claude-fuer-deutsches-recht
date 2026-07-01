@@ -1,6 +1,6 @@
 ---
 name: offboarding-checkliste-it-payroll
-description: "Berliner Start-up-HR: Offboarding-Checkliste: Kündigungsgrund, Zeugnis, Resturlaub, Equipment, Accounts, Payroll, Geheimnisse und Alumni-Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-H..."
+description: "Wenn es um Offboarding Checkliste IT Payroll in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Offboarding Checkliste IT Payroll

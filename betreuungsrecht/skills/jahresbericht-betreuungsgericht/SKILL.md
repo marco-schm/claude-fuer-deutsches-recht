@@ -1,6 +1,6 @@
 ---
 name: jahresbericht-betreuungsgericht
-description: "Jahresbericht und Anfangs-/Schlussbericht für das Betreuungsgericht nach § 1863 BGB erstellen: persönliche Kontakte, Wünsche der betreuten Person, Ziele, Maßnahmen, Gründe für Fortbestand oder Änderung der Betreuung, Vermögens-Eckdaten und Anlagen. Für Berufsbetreuer ebenso wie ehrenamtliche Fami..."
+description: "Wenn es um Jahresbericht des Betreuers ans Betreuungsgericht (Paragraf 1863 BGB) in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Jahresbericht des Betreuers ans Betreuungsgericht (§ 1863 BGB)

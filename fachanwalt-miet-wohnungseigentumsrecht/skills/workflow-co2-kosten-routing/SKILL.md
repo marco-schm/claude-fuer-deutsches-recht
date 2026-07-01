@@ -1,6 +1,6 @@
 ---
 name: workflow-co2-kosten-routing
-description: "CO2-Kosten-Routing: Prüfungslinie für Miet- und WEG-Recht: klärt Wohn-/Nichtwohngebäude, Stufenmodell, 50/50-Regel und Abrechnungsweg; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und..."
+description: "Wenn es um CO2-Kosten-Routing: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # CO2-Kosten-Routing: Prüfungslinie für Miet- und WEG-Recht

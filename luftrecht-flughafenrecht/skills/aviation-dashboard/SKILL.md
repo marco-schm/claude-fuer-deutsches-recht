@@ -1,6 +1,6 @@
 ---
 name: aviation-dashboard
-description: "Mandant braucht Echtzeit-Lageueberblick ueber eine Airline: Betriebsgenehmigung AOC Flotte Slots Sicherheitsstatus Insolvenzrisiko. Skill erstellt Dashboard-Matrix aus LBA-Register EU-VO 1008/2008 Art. 9 Indikatoren FluglaermG-Zonen und Cape-Town-Register und liefert einseitige Lagebewertung mit..."
+description: "Wenn es um Aviation Dashboard – Lageüberblick Airline und Flughafen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aviation Dashboard – Lageüberblick Airline und Flughafen

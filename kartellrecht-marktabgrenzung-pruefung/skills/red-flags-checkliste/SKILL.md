@@ -1,6 +1,6 @@
 ---
 name: red-flags-checkliste
-description: "Strukturierte Checkliste problematischer Muster in Marktabgrenzungen: ergebnisgetriebene Argumentation Zirkelschluesse fehlende oekonomische Fundierung selektive Datenwahl kuenstliche Marktverengung oder -erweiterung und Präzedenzfall-Missbrauch. Ausgabe als priorisierte Mängelliste im Kartellrec..."
+description: "Wenn es um Red-Flag-Checkliste — Marktabgrenzung in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Flag-Checkliste — Marktabgrenzung

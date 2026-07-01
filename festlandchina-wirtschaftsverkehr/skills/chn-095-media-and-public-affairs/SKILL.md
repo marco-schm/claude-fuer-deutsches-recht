@@ -1,6 +1,6 @@
 ---
 name: chn-095-media-and-public-affairs
-description: "Festlandchina Wirtschaftsverkehr: Media And Public Affairs. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Media And Public Affairs in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Media And Public Affairs

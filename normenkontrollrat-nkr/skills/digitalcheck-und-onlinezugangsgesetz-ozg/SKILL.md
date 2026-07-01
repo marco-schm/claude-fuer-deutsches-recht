@@ -1,6 +1,6 @@
 ---
 name: digitalcheck-und-onlinezugangsgesetz-ozg
-description: "Fachmodul OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Prinzip und die ab dem 1. Januar 2023 anwendbare Digitalcheck-Methodik nach § 4 Abs. 3 i.V.m. § 9 NKRG für Bundesregelungsvorhaben. Mit Schnittstellen-Checkliste FIM XOEV ELSTER b..."
+description: "Wenn es um NKR-Digitalcheck und Onlinezugangsgesetz (OZG) in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NKR-Digitalcheck und Onlinezugangsgesetz (OZG)

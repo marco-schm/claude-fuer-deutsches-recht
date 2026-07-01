@@ -1,6 +1,6 @@
 ---
 name: immobilienleasing-erbbaurecht-und-grundbuch
-description: "Immobilienleasing: Erbbaurecht, Grundbucheintragung, Bilanzierung, steuerliche Zurechnung und Besonderheiten gegenüber Mietkauf im Leasingrecht."
+description: "Wenn es um Immobilienleasing: Erbbaurecht und Grundbuch in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Immobilienleasing: Erbbaurecht und Grundbuch

@@ -1,6 +1,6 @@
 ---
 name: oeffentlicher-dienst-pflegezeiten
-description: "Zusatzversorgung öffentlicher Dienst, VBL und kommunale Kassen: Pflichtversicherung, Startgutschrift, Rentenbescheid und Schnittstelle zur DRV im Rentenpruefer."
+description: "Wenn es um öffentlicher-dienst-vbl-und-zusatzversorgung in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # öffentlicher-dienst-vbl-und-zusatzversorgung

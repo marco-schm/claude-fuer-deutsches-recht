@@ -1,6 +1,6 @@
 ---
 name: stgb-formular-portal-und-einreichung
-description: "Stgb: Formular, Portal und Einreichungslogik: Stgb: Formular, Portal und Einreichungslogik."
+description: "Wenn es um Stgb: Formular, Portal und Einreichungslogik in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stgb: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: einstieg-schnelltriage-fallrouting
-description: "Einstieg, Schnelltriage und Fallrouting im Fachanwalt Verwaltungsrecht-Plugin: Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule a..."
+description: "Wenn es um Einstieg, Schnelltriage und Fallrouting in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg, Schnelltriage und Fallrouting im Fachanwalt Verwaltungsrecht-Plugin

@@ -1,6 +1,6 @@
 ---
 name: escrow-quellcode-verwahrer-vereinbarung
-description: "Source-Code-Escrow-Vereinbarung: drei-Parteien-Vertrag Lizenzgeber - Lizenznehmer - Escrow-Agent; Hinterlegungsumfang; Release-Trigger (Insolvenz, Wartungsausfall); Aktualisierungspflicht; bekannte Escrow-Anbieter; insolvenzfeste Gestaltung."
+description: "Wenn es um Escrow / Quellcode-Verwahrer-Vereinbarung in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Escrow / Quellcode-Verwahrer-Vereinbarung

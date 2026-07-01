@@ -1,6 +1,6 @@
 ---
 name: bei-drohender-zahlungsunfaehigkeit
-description: "Liquiditaetsplanung bei drohender Zahlungsunfaehigkeit § 18 InsO: 24-Monats-Planung, Zugang StaRUG-Restrukturierung, Geschäftsleiterpflichten. Prüfraster und Schnittstelle Insolvenzantrag."
+description: "Wenn es um Liqui: drohende ZU in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Liqui: drohende ZU

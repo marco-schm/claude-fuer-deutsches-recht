@@ -1,6 +1,6 @@
 ---
 name: transparenz-und-nutzerinformation
-description: "Prüft Informationspflichten, Piktogramme, Bedienoberfläche, Datenschutzhinweise und KI-Transparenz für Mensch-Roboter-Interaktion."
+description: "Wenn es um Transparenz und Nutzerinformation in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transparenz und Nutzerinformation

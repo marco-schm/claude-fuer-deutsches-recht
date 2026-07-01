@@ -1,6 +1,6 @@
 ---
 name: articles-association-satzung
-description: "Vergleicht Articles of Association mit Satzung und Gesellschaftsvertrag, prüft Registerfaehigkeit, Pflichtinhalt, Nebenabreden und englische Fassungen im Gesellschaftsrecht Legal English."
+description: "Wenn es um Articles of Association und Satzung in Didaktisches Gesellschaftsrecht — English Business Terms geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Articles of Association und Satzung

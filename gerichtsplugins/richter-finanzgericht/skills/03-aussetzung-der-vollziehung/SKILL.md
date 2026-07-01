@@ -1,6 +1,6 @@
 ---
 name: 03-aussetzung-der-vollziehung
-description: "Aussetzung der Vollziehung Paragraf 69 FGO bzw. Paragraf 361 AO: ernstliche Zweifel an der Rechtmaessigkeit, unbillige Haerte, Sicherheitsleistung, Verfahren"
+description: "Wenn es um 03 Aussetzung Der Vollziehung in Finanzgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 03 Aussetzung Der Vollziehung

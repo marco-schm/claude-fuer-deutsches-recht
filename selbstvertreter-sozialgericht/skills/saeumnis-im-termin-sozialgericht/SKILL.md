@@ -1,6 +1,6 @@
 ---
 name: saeumnis-im-termin-sozialgericht
-description: "Wenn Sie zum SG-Termin nicht erscheinen koennen oder unterlassen haben. Folgen § 137 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps für Buerger."
+description: "Wenn es um Wenn Sie zum Termin nicht können oder es vergessen in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wenn Sie zum Termin nicht können oder es vergessen

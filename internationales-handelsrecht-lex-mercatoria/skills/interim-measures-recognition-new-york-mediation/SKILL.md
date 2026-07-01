@@ -1,6 +1,6 @@
 ---
 name: interim-measures-recognition-new-york-mediation
-description: "Internationales Handelsrecht: Einstweilige Maßnahmen in der internationalen Schiedsgerichtsbarkeit. UNCITRAL Model Law Art. 17-17J, Schiedsgericht vs. staatlicher Rechtsschutz, Asset Freezing Orders, Mareva Injunctions und Anti-Suit Injunctions im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Einstweilige Maßnahmen in der Schiedsgerichtsbarkeit in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstweilige Maßnahmen in der Schiedsgerichtsbarkeit

@@ -1,6 +1,6 @@
 ---
 name: formularmythen-social-media
-description: "Entlarvt falsche Tipps zu Adresse, Mustern, Fristen und angeblichen Automatismen im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Social-Media-Mythen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Social-Media-Mythen

@@ -1,6 +1,6 @@
 ---
 name: methodenkritik-larenz-canaris-ordnung-und-system
-description: "Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe, Scheinobjektivität und biografische Belastung nein: Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe..."
+description: "Wenn es um Methodenkritik Larenz Canaris Ordnung Und System in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe, Scheinobjektivität und biografische Belastung nein.

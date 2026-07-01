@@ -1,6 +1,6 @@
 ---
 name: strafrechtliche-tatbestand-beweis-und-belege
-description: "Strafrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Strafrechtliche Tatbestand Beweis Und Belege in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 Offenbaren ist jede Form der Kenntnisverschaffung Dritter. Bei KI-Tools relevant:
 - **Übermittlung** an den Anbieter (Upload, API-Call) — offenbarungsfähig.

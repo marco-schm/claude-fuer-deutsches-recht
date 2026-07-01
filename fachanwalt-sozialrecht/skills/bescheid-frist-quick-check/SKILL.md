@@ -1,6 +1,6 @@
 ---
 name: bescheid-frist-quick-check
-description: "60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids: Eingabe Datum der Bekanntgabe (Zugang) und Datum des Bescheids und Status der Rechtsbehelfsbelehrung. Berechnung Wi..."
+description: "Wenn es um 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids

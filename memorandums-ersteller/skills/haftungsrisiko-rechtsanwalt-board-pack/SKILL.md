@@ -1,6 +1,6 @@
 ---
 name: haftungsrisiko-rechtsanwalt-board-pack
-description: "Internes Memo zur Haftungspruefung: Mandantenbeziehung, vereinbarte Leistung, denkbare Pflichtverletzung, Schaden, Kausalitaet, Verjährung. Output: Haftungs-Memo für Kanzleileitung und Berufshaftpflichtversicherer. Pflicht-Hinweise an Versicherer beachten (§ 31 VVG) im Memorandums Ersteller."
+description: "Wenn es um Haftungsrisiko-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Haftungsrisiko-Memo

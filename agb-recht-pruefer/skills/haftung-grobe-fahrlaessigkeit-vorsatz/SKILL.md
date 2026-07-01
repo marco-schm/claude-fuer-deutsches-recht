@@ -1,6 +1,6 @@
 ---
 name: haftung-grobe-fahrlaessigkeit-vorsatz
-description: "Klausel-Fachmodul für Haftung Grobe Fahrlaessigkeit Vorsatz: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um Haftung Grobe Fahrlaessigkeit Vorsatz in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haftung Grobe Fahrlaessigkeit Vorsatz

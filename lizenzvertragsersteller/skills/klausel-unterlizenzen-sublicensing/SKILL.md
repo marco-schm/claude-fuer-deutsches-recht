@@ -1,6 +1,6 @@
 ---
 name: klausel-unterlizenzen-sublicensing
-description: "Sublizenz-Klauseln $ 35 UrhG: Zustimmung des Lizenzgebers, Konzern-Sublizenzen ohne Zustimmung, Sub-Royalty-Beteiligung, Kettendurchgriff, Haftungskette bei Sub-Lizenznehmer-Versagen."
+description: "Wenn es um Klausel Unterlizenzen (Sub-Licensing) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Klausel Unterlizenzen (Sub-Licensing)

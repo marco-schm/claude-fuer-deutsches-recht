@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-vub-einfuhr-ausfuhr
-description: "Verbote und Beschraenkungen VuB für besondere Waren wie Dual-Use Kulturgut CITES F-Gase Lebensmittel und Russland-Iranembargos. Anwendungsfall Import oder Export einer Ware koennte VuB-Beschraenkungen unterliegen. Normen CITES-Verordnung EU 338/97 F-Gas-Verordnung 517/2014 Iran-VO 267/2012 Russland-VO 833/2014 Kulturgutschutzgesetz. Prüfraster Dual-Use Kulturgut CITES F-Gase Veterinaeranforderungen Lebensmittelsicherheit Luxuswaren Iran-Nordkorea-Russland-Bezuege Dokumentencodes. Output VuB-Prüfbericht mit Warenklassifizierung Beschraenkungsnachweis und Genehmigungsplan. Abgrenzung zu aussenwirtschaft-exportkontrolle-dual-use und aussenwirtschaft-zolltarif-vzta."
+description: "Wenn es um Verbote und Beschränkungen bei Ein- und Ausfuhr in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbote und Beschränkungen bei Ein- und Ausfuhr

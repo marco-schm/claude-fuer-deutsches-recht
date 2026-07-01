@@ -1,6 +1,6 @@
 ---
 name: drittleistung-267-bgb-und-rueckgriff
-description: "Bei ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Normen: §§ 267 und 268 BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehun..."
+description: "Wenn es um Drittleistung nach Paragraf 267 BGB und Rückgriff in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Drittleistung 267 BGB Und Rueckgriff; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # Drittleistung nach § 267 BGB und Rückgriff

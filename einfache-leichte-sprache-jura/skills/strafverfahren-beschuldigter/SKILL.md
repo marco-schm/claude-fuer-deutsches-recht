@@ -1,6 +1,6 @@
 ---
 name: strafverfahren-beschuldigter
-description: "Strafverfahren in Einfacher Sprache für Beschuldigte: Belehrung § 136 StPO, Rechte des Beschuldigten, Akteneinsicht, Wahlverteidiger/Pflichtverteidiger. Pflichtbelehrung in einfacher Sprache (BVerfG 2 BvR 1568/19)."
+description: "Wenn es um ELS-J im Strafverfahren in Einfache und Leichte Sprache für juristische Texte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # ELS-J im Strafverfahren

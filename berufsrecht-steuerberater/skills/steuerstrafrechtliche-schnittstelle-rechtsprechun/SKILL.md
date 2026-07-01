@@ -1,6 +1,6 @@
 ---
 name: steuerstrafrechtliche-schnittstelle-rechtsprechun
-description: "Steuerberater: steuerstrafrechtliche schnittstelle - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Steuerstrafrechtliche Schnittstelle Rechtsprechun in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Steuerberater: steuerstrafrechtliche schnittstelle - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

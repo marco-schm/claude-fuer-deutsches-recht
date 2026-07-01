@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-grundsatzfeststellung
-description: "Schreibt den Eingangsabschnitt Grundsatzfeststellung einer NKR-Stellungnahme. Drei Saetze: (1) Was will das Vorhaben (2) Position zur Erforderlichkeit (3) Position zur Ausgestaltung. Mit Standardformeln Tonalitaet Verbindlichkeit und typischen Variationen je nach Mahnungs- oder Lobcharakter."
+description: "Wenn es um NKR-Stellungnahme — Grundsatzfeststellung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NKR-Stellungnahme — Grundsatzfeststellung

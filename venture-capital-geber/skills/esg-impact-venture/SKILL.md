@@ -1,6 +1,6 @@
 ---
 name: esg-impact-venture
-description: "Prüft Impact-Claims, Greenwashing, SFDR-Schnittstellen, KPIs, Mission Lock und Reporting im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um ESG, Impact und Mission in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ESG, Impact und Mission

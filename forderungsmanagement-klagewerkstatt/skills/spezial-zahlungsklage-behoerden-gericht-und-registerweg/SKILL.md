@@ -1,6 +1,6 @@
 ---
 name: spezial-zahlungsklage-behoerden-gericht-und-registerweg
-description: "Zahlungsklage: Behörden-, Gerichts- oder Registerweg im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Zahlungsklage: Behörden-, Gerichts- oder Registerweg in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zahlungsklage: Behörden-, Gerichts- oder Registerweg

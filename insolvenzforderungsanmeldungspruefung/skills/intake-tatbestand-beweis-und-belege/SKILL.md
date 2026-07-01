@@ -1,6 +1,6 @@
 ---
 name: intake-tatbestand-beweis-und-belege
-description: "Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldu..."
+description: "Wenn es um Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage in Insolvenzforderungsanmeldungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage

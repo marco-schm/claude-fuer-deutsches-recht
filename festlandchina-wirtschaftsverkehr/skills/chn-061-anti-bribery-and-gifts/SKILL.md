@@ -1,6 +1,6 @@
 ---
 name: chn-061-anti-bribery-and-gifts
-description: "Festlandchina Wirtschaftsverkehr: Anti Bribery And Gifts. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Anti Bribery And Gifts in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anti Bribery And Gifts

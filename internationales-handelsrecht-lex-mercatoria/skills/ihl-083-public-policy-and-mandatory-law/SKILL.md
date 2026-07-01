@@ -1,6 +1,6 @@
 ---
 name: ihl-083-public-policy-and-mandatory-law
-description: "Internationales Handelsrecht und Lex Mercatoria: Public Policy And Mandatory Law. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Public Policy And Mandatory Law in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Public Policy And Mandatory Law

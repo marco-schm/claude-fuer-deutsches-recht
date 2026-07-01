@@ -1,6 +1,6 @@
 ---
 name: frist-stunden-kosten-haftung
-description: "Berechnet die versammlungsrechtliche 48-Stunden-Frist bis zur Bekanntgabe oder Einladung und markiert Landesabweichungen im Versammlungsrecht."
+description: "Wenn es um Die 48 Stunden laufen oft vor der Bekanntgabe in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Die 48 Stunden laufen oft vor der Bekanntgabe

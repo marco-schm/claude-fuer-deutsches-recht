@@ -1,6 +1,6 @@
 ---
 name: verletztengeld-46-sgb-vii
-description: "Verletztengeld nach § 46 SGB VII. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Sonderfall fortgesetzte AU und das Verhältnis zur Verletztenrente. Liefert Prüfraster."
+description: "Wenn es um Verletztengeld 46 Sgb Vii in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verletztengeld 46 Sgb Vii

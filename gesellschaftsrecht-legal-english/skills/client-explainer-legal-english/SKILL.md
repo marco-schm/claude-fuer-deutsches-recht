@@ -1,6 +1,6 @@
 ---
 name: client-explainer-legal-english
-description: "Erstellt mandantenfreundliche Erklaerungen von Corporate-Legal-English-Begriffen ohne Jargon, mit Beispielen, Risiken und naechsten Entscheidungen im Gesellschaftsrecht Legal English."
+description: "Wenn es um Client Explainer in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Client Explainer

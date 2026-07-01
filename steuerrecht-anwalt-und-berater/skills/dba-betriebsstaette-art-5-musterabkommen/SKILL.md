@@ -1,6 +1,6 @@
 ---
 name: dba-betriebsstaette-art-5-musterabkommen
-description: "Betriebsstaette nach Art. 5 OECD-Musterabkommen einschließlich BEPS- und MLI-Anpassungen. Anwendungsfall Steuerberater prüfen ob ausländische Aktivitaet eines deutschen Unternehmens oder umgekehrt eine Betriebsstaette begründet. Feste Geschäftseinrichtung Bauausführung Vertreterbetriebsstaette A..."
+description: "Wenn es um Betriebsstaette nach Art. 5 OECD-MA (mit BEPS und MLI) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Betriebsstaette nach Art. 5 OECD-MA (mit BEPS und MLI)

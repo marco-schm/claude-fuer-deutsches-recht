@@ -1,6 +1,6 @@
 ---
 name: visum-national-d
-description: "Nationales Visum D: Fachmodul im Migrationsrecht: prüft Botschaft, Unterlagen, Zweck, Finanzierung, Remonstrations-/Klageweg; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Nationales Visum D: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nationales Visum D: Fachmodul im Migrationsrecht

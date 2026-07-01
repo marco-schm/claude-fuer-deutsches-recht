@@ -1,6 +1,6 @@
 ---
 name: lohn-bav-doppelversorgung-foerderung
-description: "bAV bei mehreren Durchführungswegen Doppelversorgung Förderung. Anwendungsfall AN hat Direktversicherung und Pensionskasse Beitragsobergrenzen gemeinsame Prüfung Hoechstforderung. Methodik kumulierte 8-Prozent-Prüfung. Output bAV-Prüfnotiz."
+description: "Wenn es um bAV bei mehreren Durchfuehrungswegen — Doppelversorgung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # bAV bei mehreren Durchfuehrungswegen — Doppelversorgung

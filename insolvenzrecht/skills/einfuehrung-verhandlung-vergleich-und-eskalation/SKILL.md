@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-verhandlung-vergleich-und-eskalation
-description: "Einfuehrung: Verhandlung, Vergleich und Eskalation im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
+description: "Wenn es um Einfuehrung: Verhandlung, Vergleich und Eskalation in Insolvenzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Einfuehrung: Verhandlung, Vergleich und Eskalation

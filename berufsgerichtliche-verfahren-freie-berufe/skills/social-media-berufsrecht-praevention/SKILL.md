@@ -1,6 +1,6 @@
 ---
 name: social-media-berufsrecht-praevention
-description: "Social Media Berufsrecht (Präventions- und Organisationspaket): steuert LinkedIn, X, Kanzleivideo, Fachanwaltstitel, Mandatswerbung und öffentliche Streitkultur mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt."
+description: "Wenn es um Social Media Berufsrecht: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Social Media Berufsrecht: Präventions- und Organisationspaket

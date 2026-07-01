@@ -1,6 +1,6 @@
 ---
 name: aufenthalt-paragraf-25a-aufenthg
-description: "Aufenthalt § 25a AufenthG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Aufenthalt Paragraf 25a AufenthG in Fachanwalt Migrationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufenthalt § 25a AufenthG

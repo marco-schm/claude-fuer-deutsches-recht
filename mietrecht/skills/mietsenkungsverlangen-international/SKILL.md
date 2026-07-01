@@ -1,6 +1,6 @@
 ---
 name: mietsenkungsverlangen-international
-description: "Mietrecht: Erstprüfung, Rollenklärung und Mandatsziel im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht."
+description: "Wenn es um Mietrecht: Erstprüfung, Rollenklärung und Mandatsziel in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietrecht: Erstprüfung, Rollenklärung und Mandatsziel

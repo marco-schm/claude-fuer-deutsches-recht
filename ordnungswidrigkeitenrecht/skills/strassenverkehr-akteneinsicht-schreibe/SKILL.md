@@ -1,6 +1,6 @@
 ---
 name: strassenverkehr-akteneinsicht-schreibe
-description: "Straßenverkehr: Akteneinsicht schreiben im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Strassenverkehr Akteneinsicht Schreibe in Ordnungswidrigkeitenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Strassenverkehr Akteneinsicht Schreibe

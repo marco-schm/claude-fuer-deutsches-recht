@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für NDA-Abgleich: stimmt Adressat (Vertragspartner, Berater, Aufsichtsorgan), Frist (Geltungsdauer NDA (5-10 Jahre)) und Form auf den Zweck ab — typische Outputs: Markup mit Kommentaren, Issue List, Mandantenmemo Risiken."
+description: "Wenn es um Output wählen in NDA-Abgleich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: triage-rechtsfrage-oder-norm
-description: "Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung davon hat. Stellt gezielte Rückfragen und leitet zum passenden naechsten Skill weiter. Warnt vor typischen Eingabefehlern im Subsumtions Prüfer."
+description: "Wenn es um Triage: Rechtsfrage oder Norm? in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Triage: Rechtsfrage oder Norm?
@@ -78,7 +78,7 @@ Das System prüft:
 Sachverhalt ohne Norm?
 ├─ Ja → einschlaegige-normen-vorschlagen-de / -eu
 Norm bereits bekannt?
-├─ Ja → norm-zerlegen-in-tatbestandsmerkmale
+├─ Ja → norm-zerlegen-mandantenbrief
 Unklares Ziel?
 ├─ Ja → ziel-und-rechtsweg-bestimmung
 Komplexitätsgrenze?

@@ -1,6 +1,6 @@
 ---
 name: berufung-beschwerde-und-neue-anlagen
-description: "Prüft Anlagen in Rechtsmittelverfahren: Übernahme alter Nummern, neue Anlagen, § 531 ZPO-Risiken, Verweis auf Vorinstanz und Synchronisation."
+description: "Wenn es um Berufung, Beschwerde und neue Anlagen in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Berufung, Beschwerde und neue Anlagen

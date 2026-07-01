@@ -1,6 +1,6 @@
 ---
 name: steuerberater-153-ao-berichtigung-verteidigung
-description: "Steuerberater § 153 AO Berichtigung (Verteidigungs- und Kammerantwort): steuert Berichtigungspflicht, Selbstanzeigegrenze, Mandantenweisung und Berufsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Be..."
+description: "Wenn es um Steuerberater Paragraf 153 AO Berichtigung: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater § 153 AO Berichtigung: Verteidigungs- und Kammerantwort

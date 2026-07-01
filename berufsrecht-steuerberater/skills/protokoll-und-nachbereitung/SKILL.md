@@ -1,6 +1,6 @@
 ---
 name: protokoll-und-nachbereitung
-description: "Protokoll und Nachbereitung: vertiefter Berufsrechts-Skill für Steuerberater; prüft sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
+description: "Wenn es um Protokoll und Nachbereitung in Berufsrecht Steuerberater geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Protokoll und Nachbereitung

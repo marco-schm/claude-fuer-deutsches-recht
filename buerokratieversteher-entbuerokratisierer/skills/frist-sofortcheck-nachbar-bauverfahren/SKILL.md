@@ -1,6 +1,6 @@
 ---
 name: frist-sofortcheck-nachbar-bauverfahren
-description: "Fristen-Sofortcheck bei Bescheiden: Zugangsfiktion, Monatsfrist, Rechtsbehelfsbelehrung, fehlerhafte Belehrung, Sofortmassnahmen vor Fristablauf, Berechnung nach VwVfG und ZPO im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Frist Sofortcheck in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frist Sofortcheck

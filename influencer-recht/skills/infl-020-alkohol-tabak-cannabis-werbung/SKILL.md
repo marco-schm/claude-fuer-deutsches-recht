@@ -1,6 +1,6 @@
 ---
 name: infl-020-alkohol-tabak-cannabis-werbung
-description: "Influencer-Recht: Alkohol Tabak Cannabis Werbung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Alkohol Tabak Cannabis Werbung in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Alkohol Tabak Cannabis Werbung

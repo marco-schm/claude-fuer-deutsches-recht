@@ -1,6 +1,6 @@
 ---
 name: gatekeeper-verhandlung-vergleich
-description: "Prüfraster vor Eintritt in Vergleichsverhandlungen. Erhebt Mandantenziel Untergrenzen Sicherheitsbedarf Vollstreckbarkeit. Pinpoints BGB 779 Vergleich ZPO 794 Abs. 1 Nr. 1 Prozessvergleich ZPO 796a anwaltlicher Vergleich. Liefert Verhandlungsmandat-Vorlage und Untergrenzen-Tabelle."
+description: "Wenn es um Gatekeeper Verhandlung und Vergleich in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gatekeeper Verhandlung und Vergleich

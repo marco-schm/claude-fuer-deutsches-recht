@@ -1,6 +1,6 @@
 ---
 name: volkszaehlung-bverfge-65-1
-description: Volkszaehlungs-Urteil BVerfGE Band 65 Seite 1 vom 15.12.1983 als Begruendung des Rechts auf informationelle Selbstbestimmung. Mit Eingriffsbegriff Verarbeitungskontext und der Aussage es gibt kein belangloses Datum mehr.
+description: "Wenn es um Volkszaehlung BVerfGE 65 1 in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Volkszaehlung BVerfGE 65 1

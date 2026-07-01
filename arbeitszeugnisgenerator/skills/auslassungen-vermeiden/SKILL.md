@@ -1,6 +1,6 @@
 ---
 name: auslassungen-vermeiden
-description: "Schweigen als Negativcode im Zeugnis erkennen und vermeiden. Fehlende Pflichtaussagen für eine Position sind eigenständige Berichtigungspunkte. Enthält eine vollständige Tabelle der positionsabhängigen Pflichtaussagen und erklärt, was das Weglassen jeweils signalisiert. Branchenspezifische Auslassungsregeln für Vertrieb, Recht, IT, Pflege, Finanzwesen, Personalwesen, Einzelhandel und öffentlichen Dienst."
+description: "Wenn es um Auslassungen vermeiden in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auslassungen vermeiden

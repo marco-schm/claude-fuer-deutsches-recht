@@ -1,6 +1,6 @@
 ---
 name: handelsvertreter-paragraph-provision
-description: "Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler im Handelsrecht Hgb."
+description: "Wenn es um Handelsvertreter Paragraf 84 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsvertreter § 84 HGB

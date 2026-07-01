@@ -1,6 +1,6 @@
 ---
 name: tickets-risikoampel-gegenargumente
-description: "Tickets: Risikoampel, Gegenargumente und Verteidigungslinien im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?..."
+description: "Wenn es um Tickets: Risikoampel, Gegenargumente und Verteidigungslinien in Fluggastrechte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tickets Risikoampel Gegenargumente; Arbeitsfeld: Fluggastrechte."
 ---
 
 # Tickets: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,6 +1,6 @@
 ---
 name: spezial-erbfall-intake-und-nachlassordnung
-description: "Erbfall-Intake, Nachlassordnung und erste Fristen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output."
+description: "Wenn es um Erbfall-Intake, Nachlassordnung und erste Fristen in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbfall-Intake, Nachlassordnung und erste Fristen

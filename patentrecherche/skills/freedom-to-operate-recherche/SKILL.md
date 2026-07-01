@@ -1,6 +1,6 @@
 ---
 name: freedom-to-operate-recherche
-description: "Freedom-to-Operate-Recherche (FTO) vor Markteintritt eines konkreten Produkts oder Verfahrens der Mandantin. Sucht **in Kraft befindliche** Patente und Gebrauchsmuster Dritter im Zielmarkt deren Schutzbereich nach § 14 PatG Art. 69 EPUe das Produkt erreichen koennte. Anders als Stand-der-Technik-..."
+description: "Wenn es um freedom-to-operate-recherche in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # freedom-to-operate-recherche

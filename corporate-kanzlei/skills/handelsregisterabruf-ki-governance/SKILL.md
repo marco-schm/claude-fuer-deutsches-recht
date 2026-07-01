@@ -1,6 +1,6 @@
 ---
 name: handelsregisterabruf-ki-governance
-description: "Handelsregister-Daten abrufen und analysieren: Anwalt oder Mandant benoetigt Gesellschaftsstruktur, Haftungsverhältnisse, Offenlegungspflichten aus HRA/HRB, Bundesanzeiger und Transparenzregister. Normen: §§ 8-15 HGB, § 9 GmbHG, §§ 67-68 AktG, GwG §§ 18-20 (Transparenzregister). Prüfraster: Gesel"
+description: "Wenn es um Handelsregisterabruf und -analyse in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Handelsregisterabruf Ki Governance; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # Handelsregisterabruf und -analyse

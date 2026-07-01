@@ -1,6 +1,6 @@
 ---
 name: eingangsdaten-checkliste
-description: "Eingangsdaten-Checkliste für Liquiditaetsplanung: BWA, OPOS Debitoren/Kreditoren, Kontoauszuege, Steuerkonten, SV-Konten, Personalkosten, Investitionsplanung. Prüfliste Quellen und Vollstaendigkeit. Output: standardisiertes Datentemplate."
+description: "Wenn es um Liqui: Eingangsdaten-Checkliste in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Liqui: Eingangsdaten-Checkliste

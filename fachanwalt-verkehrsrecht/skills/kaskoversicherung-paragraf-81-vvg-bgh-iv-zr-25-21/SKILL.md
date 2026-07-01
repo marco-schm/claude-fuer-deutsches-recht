@@ -1,6 +1,6 @@
 ---
 name: kaskoversicherung-paragraf-81-vvg-bgh-iv-zr-25-21
-description: "Kaskoversicherung Paragraf 81 Vvg BGH Iv Zr 25 21: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Kaskoversicherung Paragraf 81 Vvg BGH Iv Zr 25 21 in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaskoversicherung Paragraf 81 Vvg BGH Iv Zr 25 21

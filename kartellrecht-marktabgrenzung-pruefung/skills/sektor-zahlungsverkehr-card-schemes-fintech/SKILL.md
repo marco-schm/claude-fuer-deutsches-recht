@@ -1,6 +1,6 @@
 ---
 name: sektor-zahlungsverkehr-card-schemes-fintech
-description: "Sektor Zahlungsverkehr, Card Schemes und FinTech: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fris..."
+description: "Wenn es um Sektor Zahlungsverkehr, Card Schemes und FinTech in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sektor Zahlungsverkehr, Card Schemes und FinTech

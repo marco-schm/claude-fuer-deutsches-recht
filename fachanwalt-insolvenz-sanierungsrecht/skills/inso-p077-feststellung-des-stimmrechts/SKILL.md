@@ -1,6 +1,6 @@
 ---
 name: inso-p077-feststellung-des-stimmrechts
-description: "§ 77 InsO (Feststellung des Stimmrechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 77 InsO (Feststellung des Stimmrechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge..."
+description: "Wenn es um Inso P077 Feststellung Des Stimmrechts in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 77 InsO (Feststellung des Stimmrechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

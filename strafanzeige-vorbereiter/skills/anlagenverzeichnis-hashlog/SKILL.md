@@ -1,6 +1,6 @@
 ---
 name: anlagenverzeichnis-hashlog
-description: "Anlagen zu Strafanzeigen: Nummerierung, Hashwerte, Originale, Kopien, Versandnachweis und digitale Kette im Strafanzeige-Vorbereitung."
+description: "Wenn es um Anlagenverzeichnis und Hashlog in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anlagenverzeichnis und Hashlog

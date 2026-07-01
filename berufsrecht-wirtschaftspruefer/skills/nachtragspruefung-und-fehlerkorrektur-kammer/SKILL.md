@@ -1,6 +1,6 @@
 ---
 name: nachtragspruefung-und-fehlerkorrektur-kammer
-description: "Wirtschaftsprüfer: nachtragspruefung und fehlerkorrektur - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Nachtragspruefung Und Fehlerkorrektur Kammer in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Wirtschaftsprüfer: nachtragspruefung und fehlerkorrektur - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

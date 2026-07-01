@@ -1,6 +1,6 @@
 ---
 name: sondervermoegen-einordnen
-description: "Haushaltsrecht BHO Bund und Länder: Sondervermögen einordnen. Sondervermögen einordnen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkma..."
+description: "Wenn es um Sondervermoegen Einordnen in Haushaltsrecht BHO Bund und Länder geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sondervermoegen Einordnen

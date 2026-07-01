@@ -1,6 +1,6 @@
 ---
 name: ausgleich-internationaler-bezug-schnittstellen
-description: "Ausgleich: Internationaler Bezug und Schnittstellen im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welch..."
+description: "Wenn es um Ausgleich: Internationaler Bezug und Schnittstellen in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ausgleich Internationaler Bezug Schnittstellen; Arbeitsfeld: Fluggastrechte."
 ---
 
 # Ausgleich: Internationaler Bezug und Schnittstellen

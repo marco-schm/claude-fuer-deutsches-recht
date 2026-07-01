@@ -1,6 +1,6 @@
 ---
 name: gleicht-erstpruefung-und-mandatsziel
-description: "Gleicht: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Gleicht: Erstprüfung, Rollenklärung und Mandatsziel in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gleicht Erstpruefung Und Mandatsziel; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # Gleicht: Erstprüfung, Rollenklärung und Mandatsziel

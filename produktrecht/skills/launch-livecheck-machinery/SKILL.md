@@ -1,6 +1,6 @@
 ---
 name: launch-livecheck-machinery
-description: "Launch: Tatbestandsmerkmale, Beweisfragen und Beleglage im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Launch: Tatbestandsmerkmale, Beweisfragen und Beleglage in Produkthaftung und Produktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Launch: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: gefahrenstelle-melden-schulweg
-description: "Straßenverkehrsrecht StVO: Gefahrenstelle melden. Gefahrenstelle melden im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rech..."
+description: "Wenn es um Gefahrenstelle Melden in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gefahrenstelle Melden

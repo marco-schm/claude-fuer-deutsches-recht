@@ -1,6 +1,6 @@
 ---
 name: mehrsprachiges-output-dossier
-description: "Mehrsprachiges Output-Dossier: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Wenn es um Mehrsprachiges Output-Dossier in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mehrsprachiges Output-Dossier

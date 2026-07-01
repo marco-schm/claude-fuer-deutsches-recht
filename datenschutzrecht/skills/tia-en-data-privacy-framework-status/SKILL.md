@@ -1,6 +1,6 @@
 ---
 name: tia-en-data-privacy-framework-status
-description: "English-language assessment of the current EU-US Data Privacy Framework (DPF) as Art. 45 GDPR transfer instrument. Commission Implementing Decision (EU) 2023/1795 of 10 July 2023, Executive Order 14086 basis, listing process, HR/Non-HR coverage, onward transfers, Schrems III. Test criteria for DP..."
+description: "Wenn es um EU-US Data Privacy Framework – Current Status (English) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU-US Data Privacy Framework – Current Status (English)

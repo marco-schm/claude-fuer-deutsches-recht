@@ -1,6 +1,6 @@
 ---
 name: bwbes-neu-015-ruhensregelungen-versorgung-und-erwerbseinkommen
-description: "Bundeswehrrecht: Ruhensregelungen Versorgung und Erwerbseinkommen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Bundeswehrrecht: Ruhensregelungen Versorgung und Erwerbseinkommen in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bundeswehrrecht: Ruhensregelungen Versorgung und Erwerbseinkommen

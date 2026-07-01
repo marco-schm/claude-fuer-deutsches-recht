@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-versagungsgruende
-description: "Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermögensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigu..."
+description: "Wenn es um Verbraucherinsolvenz: Versagungsgruende in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbraucherinsolvenz: Versagungsgruende

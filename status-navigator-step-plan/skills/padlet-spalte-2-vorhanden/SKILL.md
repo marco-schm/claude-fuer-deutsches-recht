@@ -1,6 +1,6 @@
 ---
 name: padlet-spalte-2-vorhanden
-description: "Baut die zweite Padlet-Spalte als Pendant zu Reiter 2 der Step-Plan-Excel. Vorliegende Dokumente mit Type-Tag (Vertrag, Bescheid, Erklaerung, Beschluss, Schreiben) und Statusbadge fuer den Unterschriftsstatus."
+description: "Wenn es um Padlet Reiter 2 Verfuegbar aufbauen in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Padlet Reiter 2 Verfuegbar aufbauen

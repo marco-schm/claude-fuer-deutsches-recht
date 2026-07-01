@@ -1,6 +1,6 @@
 ---
 name: preemption-301-state-law
-description: "Prüft Copyright-Preemption, contract claims, unfair competition, right of publicity, trade secrets und extra element im Us Copyright Registrierung Verlag."
+description: "Wenn es um Preemption Paragraf 301 und State Law in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Preemption § 301 und State Law

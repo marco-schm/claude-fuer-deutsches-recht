@@ -1,6 +1,6 @@
 ---
 name: baugrund-altlasten-untersuchungsbedarf
-description: "HOAI-Fachfrage: Baugrund, Altlasten, Schadstoffe, Bestandserkundung, Untersuchungsbedarf, besondere Leistungen und Haftungs-/Nachtragsfolgen im Planungsprozess prüfen im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Baugrund, Altlasten Und Untersuchungsbedarf in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Baugrund, Altlasten Und Untersuchungsbedarf

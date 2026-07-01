@@ -1,6 +1,6 @@
 ---
 name: lph-07-schnittstelle-vob-bgb
-description: "HOAI LPH 7 Mitwirkung bei der Vergabe: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 7 Mitwirkung bei der Vergabe: Prüft vob/b in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Prüft vob/b

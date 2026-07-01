@@ -1,6 +1,6 @@
 ---
 name: inso-p245a-schlechterstellung-bei-naturlichen-personen
-description: "§ 245a InsO (Schlechterstellung bei natürlichen Personen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 245a InsO (Schlechterstellung bei natürlichen Personen) im Mandat prüfen: Normzwec..."
+description: "Wenn es um Inso P245a Schlechterstellung Bei Naturlichen Personen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 245a InsO (Schlechterstellung bei natürlichen Personen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: audit-trail-freigabe
-description: "Audit-Trail für Meldungen: Version, Quelle, Berechnung, Prüfung, Freigabe, Versand und Korrekturhistorie im Berichtspflichten."
+description: "Wenn es um Audit-Trail und Vier-Augen-Freigabe in Berichtspflichten-Erlediger geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Audit-Trail und Vier-Augen-Freigabe

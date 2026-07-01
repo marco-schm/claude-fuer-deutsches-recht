@@ -1,6 +1,6 @@
 ---
 name: art-73-gg-laenderzustaendigkeit
-description: "Bundesstaatlicher Rahmen des Denkmalschutzes: Denkmalschutz ist keine konkurrierende Bundesmaterie nach Art. 73 oder 74 GG, sondern nach Art. 70 GG ausschließlich Sache der Länder. Skill ordnet, welche Aspekte trotzdem bundesrechtlich überlagert sind (Eigentumsgarantie nach Art. 14 GG, Verwaltungsverfahrensrecht, Strafrecht und Ordnungswidrigkeitenrecht, steuerliche Förderung nach EStG, Grundbuch- und Bauplanungsrecht)."
+description: "Wenn es um Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz

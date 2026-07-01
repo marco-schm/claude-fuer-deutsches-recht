@@ -1,6 +1,6 @@
 ---
 name: autobahnprojekt-kontrolle-sichern
-description: "Autobahnprojekt: Kontrolle sichern im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Autobahnprojekt Kontrolle Sichern in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Autobahnprojekt Kontrolle Sichern

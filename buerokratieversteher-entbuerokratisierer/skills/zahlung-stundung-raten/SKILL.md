@@ -1,6 +1,6 @@
 ---
 name: zahlung-stundung-raten
-description: "Formuliert Stundungs-, Ratenzahlungs-, Erlass- oder Aussetzungsantrag bei Forderungen öffentlicher Stellen im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Zahlung, Stundung, Raten in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zahlung, Stundung, Raten

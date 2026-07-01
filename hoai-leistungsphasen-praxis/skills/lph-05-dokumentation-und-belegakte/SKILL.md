@@ -1,6 +1,6 @@
 ---
 name: lph-05-dokumentation-und-belegakte
-description: "HOAI LPH 5 Ausführungsplanung: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 5 Ausführungsplanung: Sichert protokolle in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # LPH 5 Ausführungsplanung: Sichert protokolle

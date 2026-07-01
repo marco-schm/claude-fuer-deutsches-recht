@@ -1,6 +1,6 @@
 ---
 name: einwendungsfrist
-description: "Umweltschutzverband Verbandsklage: Einwendungsfrist und Präklusion. Einwendungsfrist und Präklusion im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage."
+description: "Wenn es um Einwendungsfrist Und Praeklusion in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einwendungsfrist Und Praeklusion

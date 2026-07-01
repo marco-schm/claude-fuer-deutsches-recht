@@ -1,6 +1,6 @@
 ---
 name: lease-054-fahrzeugflotte-telematik
-description: "Prueft Flottenleasing bei Telematik, Fahrerdaten, Wartung, Mehrkilometer, Schaeden, Rueckgabe und Datenschutz."
+description: "Wenn es um Fahrzeugflotte und Telematik in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fahrzeugflotte und Telematik

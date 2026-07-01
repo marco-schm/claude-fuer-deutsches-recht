@@ -1,6 +1,6 @@
 ---
 name: flooding-gegenrede-statt-muell
-description: "Wahlkampfrecht Praxis: auf Informationsflutung reagieren, ohne selbst Muell zu produzieren im Wahlkampfrecht."
+description: "Wenn es um Flooding Gegenrede Statt Muell in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flooding Gegenrede Statt Muell

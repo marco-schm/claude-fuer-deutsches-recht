@@ -1,6 +1,6 @@
 ---
 name: bescheidmodus-02
-description: "Bescheide einfach erläutern: typische Bescheide (Bafoeg, Wohngeld, Arbeitsamt-Eingliederungsmassnahme, Steuerbescheid). Vorlage Adressaten-Erklaerung mit 'Was sagt der Bescheid? Was muessen Sie tun? Bis wann? Was passiert sonst?' im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen..."
+description: "Wenn es um ELS-J: Bescheidmodus in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bescheidmodus 02; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
 ---
 
 # ELS-J: Bescheidmodus

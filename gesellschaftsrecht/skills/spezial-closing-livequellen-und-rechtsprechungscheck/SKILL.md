@@ -1,6 +1,6 @@
 ---
 name: spezial-closing-livequellen-und-rechtsprechungscheck
-description: "Closing: Livequellen- und Rechtsprechungscheck im Plugin gesellschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Closing: Livequellen- und Rechtsprechungscheck in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Closing: Livequellen- und Rechtsprechungscheck

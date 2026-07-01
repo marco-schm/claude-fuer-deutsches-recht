@@ -1,6 +1,6 @@
 ---
 name: wiedereinsetzung-frist-233-zpo
-description: "Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Voraussetzungen unverschuldetes Versaeumnis 2-Wochen-Antragsfrist Glaubhaftmachung Nachholung der versaeumten Handlung. Mustertext typische Faelle Krankheit Unfall Post-Stoerung."
+description: "Wenn es um Wiedereinsetzung: Wenn Sie eine Frist versaeumt haben in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wiedereinsetzung: Wenn Sie eine Frist versaeumt haben

@@ -1,6 +1,6 @@
 ---
 name: parkhaus-vergabeweg-waehlen
-description: "Parkhaus: Vergabeweg wählen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Parkhaus Vergabeweg Wählen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parkhaus Vergabeweg Wählen

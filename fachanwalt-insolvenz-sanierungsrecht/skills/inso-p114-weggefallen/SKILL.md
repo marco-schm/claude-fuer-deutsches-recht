@@ -1,6 +1,6 @@
 ---
 name: inso-p114-weggefallen
-description: "§ 114 InsO ist im aktuellen Normtext weggefallen: Der Skill hilft, Altakten, Übergangsfälle und Nachfolgeregelungen ohne falsche Altfassungsübernahme einzuordnen."
+description: "Wenn es um Paragraf 114 InsO ist im aktuellen Normtext weggefallen in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # § 114 InsO ist im aktuellen Normtext weggefallen

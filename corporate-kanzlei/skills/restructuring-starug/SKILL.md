@@ -1,6 +1,6 @@
 ---
 name: restructuring-starug
-description: "StaRUG-Restrukturierungsplan und Insolvenzplan für distressed Unternehmen: Schuldner oder Berater plant außergerichtliche Sanierung oder Insolvenzplanverfahren. Normen: §§ 7 ff. StaRUG (Planarchitektur), §§ 217 ff. InsO (Insolvenzplan), §§ 21 ff. StaRUG. Prüfraster: Gläubiger-Gruppen, Planbetroff"
+description: "Wenn es um StaRUG und Insolvenzplan in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Restructuring Starug; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # StaRUG und Insolvenzplan

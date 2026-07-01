@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-7b-debt-equity
-description: "Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zuständigkeit Stadtkasse/Finanzamt. Mustertext für Antrag in Gewerbesteuererklaerung und paralle..."
+description: "Wenn es um Sanierungsgewinn — Paragraph 7b GewStG im Insolvenzplan, Paralleltrack in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sanierungsgewinn — Paragraph 7b GewStG im Insolvenzplan, Paralleltrack

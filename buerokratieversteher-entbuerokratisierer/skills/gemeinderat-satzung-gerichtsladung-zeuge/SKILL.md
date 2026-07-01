@@ -1,6 +1,6 @@
 ---
 name: gemeinderat-satzung-gerichtsladung-zeuge
-description: "Erklärt kommunale Satzungen, Ratsbeschlüsse, Zuständigkeiten und wo die Rechtsgrundlage steht im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Gemeinderat und Satzung verstehen in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gemeinderat und Satzung verstehen

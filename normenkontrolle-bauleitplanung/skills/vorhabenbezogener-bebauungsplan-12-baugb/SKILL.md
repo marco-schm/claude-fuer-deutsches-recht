@@ -1,6 +1,6 @@
 ---
 name: vorhabenbezogener-bebauungsplan-12-baugb
-description: "Prüfungslinie für vorhabenbezogener bebauungsplan 12 baugb im Normenkontrolle Bauleitplanung."
+description: "Wenn es um Vorhabenbezogener Bebauungsplan Paragraf 12 BauGB in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorhabenbezogener Bebauungsplan § 12 BauGB

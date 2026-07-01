@@ -1,6 +1,6 @@
 ---
 name: 04-vertretungsmacht-und-prokura
-description: "Eintragung Geschaeftsfuehrer Paragraf 39 GmbHG, Vorstand Paragraf 81 AktG, Prokura Paragrafen 48-53 HGB (Erteilung, Erloeschen, Gesamtprokura), Handlungsvollmacht Paragraf 54"
+description: "Wenn es um 04 Vertretungsmacht und Prokura in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 04 Vertretungsmacht und Prokura

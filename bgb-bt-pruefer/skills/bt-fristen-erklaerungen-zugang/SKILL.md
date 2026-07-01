@@ -1,6 +1,6 @@
 ---
 name: bt-fristen-erklaerungen-zugang
-description: "Prüft Fristen, Erklärungen und Zugang im Schuldrecht BT: Rücktritt, Kündigung, Mahnung, Mängelrüge und Nachfrist."
+description: "Wenn es um BT-Fristen, Erklärungen und Zugang in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BT-Fristen, Erklärungen und Zugang

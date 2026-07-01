@@ -1,6 +1,6 @@
 ---
 name: transplantation-allocation
-description: "Transplantation und Allocation: moderner Medizinrechts-Skill für Warteliste, Meldedaten, Vermittlung, Aufklärung und Compliance bei Transplantationszentren: Transplantation und Allocation: moderner Medizinrechts-Skill für Warteliste, Meldedaten, Vermittlung..."
+description: "Wenn es um Transplantation Allocation in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transplantation und Allocation: moderner Medizinrechts-Skill für Warteliste, Meldedaten, Vermittlung, Aufklärung und Compliance bei Transplantationszentren

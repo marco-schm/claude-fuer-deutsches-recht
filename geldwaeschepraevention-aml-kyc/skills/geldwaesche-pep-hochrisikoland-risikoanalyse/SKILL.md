@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-pep-hochrisikoland-risikoanalyse
-description: "Verstaerkte KYC-Prüfung für PEP politisch exponierte Personen Hochrisikolaender und komplexe Strukturen nach GwG. Anwendungsfall Kunde ist PEP oder kommt aus Hochrisikoland und verstaerkte Sorgfaltspflichten greifen. Normen § 15 GwG verstaerkte Sorgfaltspflichten § 1 Abs. 12 GwG PEP-Definition FA..."
+description: "Wenn es um PEP, Hochrisikoland und verstärkte Sorgfalt in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PEP, Hochrisikoland und verstärkte Sorgfalt

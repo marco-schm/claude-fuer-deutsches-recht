@@ -1,6 +1,6 @@
 ---
 name: grundbuchauszug-due-lesen-abteilung
-description: "Baut eine DD-Tabelle aus Eigentum, Belastungen, Rang, Vollzugshindernissen, offenen Fragen und Deal-Relevanz im Grundbuchamt Praxis."
+description: "Wenn es um Grundbuch-DD in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundbuch-DD

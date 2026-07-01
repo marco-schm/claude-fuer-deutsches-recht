@@ -1,6 +1,6 @@
 ---
 name: registerpfandrecht-dashboard-bauen
-description: "Pfandglaeubigerbank braucht Echtzeit-Dashboard für Pfandrechts-Portfolio: AG-Braunschweig-Status Cape-Town-Eintrag IDERA Schuldner-Solvenz Flugzeugwert. Skill strukturiert Datenquellen und liefert befuellbares Portfolio-Dashboard-Template im Luftrecht Flughafenrecht."
+description: "Wenn es um Registerpfandrecht – Dashboard bauen in Luftrecht und Flughafenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Registerpfandrecht – Dashboard bauen

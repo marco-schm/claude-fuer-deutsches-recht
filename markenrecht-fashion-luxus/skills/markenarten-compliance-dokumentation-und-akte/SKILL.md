@@ -1,6 +1,6 @@
 ---
 name: markenarten-compliance-dokumentation-und-akte
-description: "Markenarten: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Markenarten: Compliance-Dokumentation und Aktenvermerk in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Markenarten: Compliance-Dokumentation und Aktenvermerk

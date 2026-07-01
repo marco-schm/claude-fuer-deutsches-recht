@@ -1,6 +1,6 @@
 ---
 name: foreign-subsidies-regulation-fsr
-description: "Foreign Subsidies Regulation FSR Skill: prüft EU-FSR-Relevanz, Drittstaaten-Finanzbeitraege, Transaktionsdaten, Filing-Risiko und Koordination mit Merger Control/FDI: Foreign Subsidies Regulation FSR Skill: prüft EU-FSR-Relevanz, Drittstaaten-Finanzbeitr..."
+description: "Wenn es um Foreign Subsidies Regulation Fsr in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Foreign Subsidies Regulation FSR Skill: prüft EU-FSR-Relevanz, Drittstaaten-Finanzbeitraege, Transaktionsdaten, Filing-Risiko und Koordination mit Merger Control/FDI.

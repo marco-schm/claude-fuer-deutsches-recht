@@ -1,6 +1,6 @@
 ---
 name: astronautenrettung-rueckgabe-und-statusfragen
-description: "Rescue Agreement 1968 – Rettungs- und Rückgabepflicht, Botschafter der Menschheit, Status kommerzieller Raumfahrer im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Astronautenrettung: Rückgabe und Statusfragen in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Astronautenrettung: Rückgabe und Statusfragen

@@ -1,6 +1,6 @@
 ---
 name: comfortletter-sonderfall-edge
-description: "Comfortletter: Internationaler Bezug und Schnittstellen im Fortbestehensprognose."
+description: "Wenn es um Comfortletter: Internationaler Bezug und Schnittstellen in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Comfortletter: Internationaler Bezug und Schnittstellen

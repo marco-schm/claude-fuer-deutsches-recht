@@ -1,6 +1,6 @@
 ---
 name: litigation-schlichtung-prozess
-description: "Litigation, Schlichtung und Prozessführung einer Bank: Anspruch, Beweise, Kosten, Vergleich, Musterverfahren, Ombudsmann, externe Kanzlei und Vorstandsinformation steuern im Bank-Rechtsabteilung."
+description: "Wenn es um Litigation Bank in Bank-Rechtsabteilung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Litigation Bank

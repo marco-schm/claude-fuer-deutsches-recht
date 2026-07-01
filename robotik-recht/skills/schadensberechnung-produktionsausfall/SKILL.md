@@ -1,6 +1,6 @@
 ---
 name: schadensberechnung-produktionsausfall
-description: "Prüft Schaden bei Produktionsausfall, Körperverletzung, Sachschaden, Datenverlust, Rückrufkosten und Regress."
+description: "Wenn es um Schadensberechnung Produktionsausfall in robotik-recht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Schadensberechnung Produktionsausfall

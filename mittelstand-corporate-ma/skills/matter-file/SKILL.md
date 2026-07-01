@@ -1,6 +1,6 @@
 ---
 name: matter-file
-description: "Deal-Akte: Legt die Transaktionsakte als Matter Workspace an: Struktur, Workstreams, Datenraumspiegel, Register, Q&A, SPA, Signing, Closing und PMI im Mittelstand Corporate Ma."
+description: "Wenn es um Deal-Akte in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Deal-Akte

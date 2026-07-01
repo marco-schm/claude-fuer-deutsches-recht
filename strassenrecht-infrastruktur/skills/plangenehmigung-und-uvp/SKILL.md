@@ -1,6 +1,6 @@
 ---
 name: plangenehmigung-und-uvp
-description: "Straßenrecht und Infrastruktur: Plangenehmigung und UVP. Plangenehmigung und UVP im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fris..."
+description: "Wenn es um Plangenehmigung Und Uvp in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Plangenehmigung Und Uvp

@@ -1,6 +1,6 @@
 ---
 name: rechtlicher-anker-109-gewo
-description: "Vollständiger Rechtsanker für den Arbeitszeugnis-Generator: Paragraf 109 GewO, Paragraf 16 BBiG, Paragraf 241 Abs. 2 BGB, Paragraf 280 Abs. 1 BGB und zuständiges Gericht. Beschreibt die Rechtslage zur elektronischen Form seit dem Vierten Bürokratieentlastungsgesetz (1.1.2025). Alle Angaben sind als Arbeitsgrundlage gedacht und vor Schriftsatzverwendung zu verifizieren."
+description: "Wenn es um Rechtlicher Anker — Paragraf 109 GewO und verwandte Normen in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtlicher Anker — Paragraf 109 GewO und verwandte Normen

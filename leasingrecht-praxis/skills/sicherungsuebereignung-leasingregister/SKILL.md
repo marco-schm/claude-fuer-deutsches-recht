@@ -1,6 +1,6 @@
 ---
 name: sicherungsuebereignung-leasingregister
-description: "Sicherungsübereignung im Leasingrecht: Kollision mit Eigentumsrecht des LG, Prioritätsfragen, fehlendes Leasingregister und Schutzkonzepte im Leasingrecht."
+description: "Wenn es um Sicherungsübereignung und das fehlende Leasingregister in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Sicherungsübereignung und das fehlende Leasingregister

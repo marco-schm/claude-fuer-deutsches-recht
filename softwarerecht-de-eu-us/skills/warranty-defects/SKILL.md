@@ -1,6 +1,6 @@
 ---
 name: warranty-defects
-description: "Prüft Mängelrechte bei Software, SaaS, Custom Code, Updates, Dokumentation und Interoperabilität im Softwarerecht De Eu Us."
+description: "Wenn es um Softwaremängel und Gewährleistung in Softwarerecht Deutschland/EU/International/USA geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Softwaremängel und Gewährleistung

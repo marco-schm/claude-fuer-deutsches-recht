@@ -1,6 +1,6 @@
 ---
 name: risikoanalyse-und-verdachtsmeldeweiche
-description: "GwG-Risikoanalyse und Verdachtsmeldeweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Geldwaeschepraevention Aml Kyc."
+description: "Wenn es um GwG-Risikoanalyse und Verdachtsmeldeweiche in Geldwäscheprävention, AML und KYC geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # GwG-Risikoanalyse und Verdachtsmeldeweiche

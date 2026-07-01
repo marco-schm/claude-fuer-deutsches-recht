@@ -1,6 +1,6 @@
 ---
 name: foerderung-vergabe-ladeinfrastruktur
-description: "Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder schreibt öffentlichen Auftrag aus. Normen: GVFG (Bundesanteil und Länderanteil), BHO §§ 23 und 44 (Zuwendungsrecht), GWB §§ 97 ff., VgV, UVgO (Vergaberecht). Prüfraster: Foerderfäh..."
+description: "Wenn es um Foerderrecht und Vergabe — Verkehrsinfrastruktur in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Foerderrecht und Vergabe — Verkehrsinfrastruktur

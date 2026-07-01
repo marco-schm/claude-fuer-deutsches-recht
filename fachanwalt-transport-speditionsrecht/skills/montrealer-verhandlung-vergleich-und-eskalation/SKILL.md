@@ -1,6 +1,6 @@
 ---
 name: montrealer-verhandlung-vergleich-und-eskalation
-description: "Montrealer: Verhandlung, Vergleich und Eskalation: Montrealer: Verhandlung, Vergleich und Eskalation."
+description: "Wenn es um Montrealer: Verhandlung, Vergleich und Eskalation in Fachanwalt Transport Speditionsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Montrealer: Verhandlung, Vergleich und Eskalation

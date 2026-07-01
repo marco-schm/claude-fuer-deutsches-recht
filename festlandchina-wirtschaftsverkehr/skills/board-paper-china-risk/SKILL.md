@@ -1,6 +1,6 @@
 ---
 name: board-paper-china-risk
-description: "Board-Paper zu China-Risiken: Struktur und Inhalt eines belastbaren China-Risikoberichts für Aufsichtsrat/Vorstand, wesentliche Risikokategorien (Geopolitik/Regulation/Lieferkette/IP/Cyber), De-risking-Fortschritt, AWV-Meldestatus, LkSG-Compliance, ESG-Aspekte. Anforderungen §§ 76/93 AktG Sorgfal..."
+description: "Wenn es um Board-Paper China-Risiken: Struktur und Inhalte für Aufsichtsrat in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Board-Paper China-Risiken: Struktur und Inhalte für Aufsichtsrat

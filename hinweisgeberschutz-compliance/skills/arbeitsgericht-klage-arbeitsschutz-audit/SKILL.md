@@ -1,6 +1,6 @@
 ---
 name: arbeitsgericht-klage-arbeitsschutz-audit
-description: "Bereitet arbeitsgerichtliche Klage wegen Repressalie vor im Hinweisgeberschutz Compliance."
+description: "Wenn es um Arbeitsgericht Klage in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Arbeitsgericht Klage

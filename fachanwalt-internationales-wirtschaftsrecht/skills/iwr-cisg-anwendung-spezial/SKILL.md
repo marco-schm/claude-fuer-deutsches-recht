@@ -1,6 +1,6 @@
 ---
 name: iwr-cisg-anwendung-spezial
-description: "Spezialfall UN-Kaufrecht CISG: anwendbar bei B2B-Kaufvertraegen zwischen Parteien in Vertragsstaaten, opt-out moeglich: Maengelruege Art...."
+description: "Wenn es um Iwr Cisg Anwendung Spezial in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall UN-Kaufrecht CISG: anwendbar bei B2B-Kaufvertraegen zwischen Parteien in Vertragsstaaten, opt-out möglich

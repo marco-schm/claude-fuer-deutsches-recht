@@ -1,6 +1,6 @@
 ---
 name: chapter7-liquidation
-description: "Fuehrt durch Chapter 7 liquidation: trustee, estate, assets, claims, exemptions, discharge and distribution im US Bankruptcy Code."
+description: "Wenn es um Chapter 7 Liquidation Workflow in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chapter 7 Liquidation Workflow

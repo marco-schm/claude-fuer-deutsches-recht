@@ -1,6 +1,6 @@
 ---
 name: datenschutz-bankgeheimnis-depotrecht
-description: "Datenschutz, Bankgeheimnis und Mandatsgeheimnis in der Bank: Datenbasis, Offenlegung, Dienstleister, Auskunft, Löschung, Behördenzugriff, KI-Nutzung und Geheimnisschutz prüfen im Bank-Rechtsabteilung."
+description: "Wenn es um Datenschutz und Bankgeheimnis in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Datenschutz und Bankgeheimnis

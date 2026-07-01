@@ -1,6 +1,6 @@
 ---
 name: beisitzer-rolle-bewertungsspielraum-grenzen
-description: "Prüft Rolle von Beisitzer, Protokollführung, Beratung und Bewertungsentscheidung im Prüfungsrecht Hochschule."
+description: "Wenn es um Beisitzerrolle mündliche Prüfung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beisitzerrolle mündliche Prüfung

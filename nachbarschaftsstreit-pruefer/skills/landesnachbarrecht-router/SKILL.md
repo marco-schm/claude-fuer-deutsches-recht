@@ -1,6 +1,6 @@
 ---
 name: landesnachbarrecht-router
-description: "Bundesland-Router für Landesnachbarrecht: Einfriedung, Pflanzenabstände, Hammerschlagsrecht, Nachbarwand, Fenster/Licht, Ausschlussfristen, kommunale Satzungen und Recherchebedarf je Land identifizieren im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Landesnachbarrecht-Router in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landesnachbarrecht-Router

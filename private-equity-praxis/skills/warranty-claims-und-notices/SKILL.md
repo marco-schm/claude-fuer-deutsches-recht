@@ -1,6 +1,6 @@
 ---
 name: warranty-claims-und-notices
-description: "Prüft Gewährleistungsansprüche, Notice-Fristen, De-minimis, Basket, Cap, W&I und Beweisunterlagen im Private Equity Praxis."
+description: "Wenn es um Warranty Claims und Notices in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Warranty Claims und Notices

@@ -1,6 +1,6 @@
 ---
 name: diakonat-und-dienst
-description: "Diakonat und Dienst: Dienst des Diakons, Liturgie, Verkündigung und Caritas; CIC can. 1008-1009 und 1031; KKK 1569-1571; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rec..."
+description: "Wenn es um Diakonat und Dienst in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Diakonat und Dienst

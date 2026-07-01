@@ -1,6 +1,6 @@
 ---
 name: agb-kontrolle-klauseln
-description: "Prueft vorformulierte Bautraegervertragsklauseln nach Paragrafen 305 bis 309 BGB. Deckt typische Klauselkategorien ab: Bauzeitstrafe, Aufrechnung, Gerichtsstand, Sonderwuensche, Selbstvornahme-Ausschluss, Wohnflaechentoleranz und Energiestandard. Regelfolge ist Paragraf 306 BGB, keine geltungserhaltende Reduktion."
+description: "Wenn es um AGB-Kontrolle Klauseln in Bauträgervertragspruefer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AGB-Kontrolle Klauseln

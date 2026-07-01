@@ -1,6 +1,6 @@
 ---
 name: luft-026-airline-sicherheitsauflage-bewerten
-description: "Luftrecht und Flughafenrecht: Airline: Sicherheitsauflage bewerten. Sicherheitsauflage bewerten für Airline im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Airline Sicherheitsauflage Bewerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Airline Sicherheitsauflage Bewerten

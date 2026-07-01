@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-alltagscockpit
-description: "Alltags-Cockpit für Familienbetreuer: macht aus Post, Pflege, Bank, Arztterminen, Heimkontakt, Behörden und Gericht einen handhabbaren Wochenplan mit Aufgabenliste, Verantwortlichen, Ampel, Gesprächsnotizen und dokumentierten Entscheidungen der betreuten Person."
+description: "Wenn es um Familienbetreuer-Alltagscockpit in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Familienbetreuer-Alltagscockpit

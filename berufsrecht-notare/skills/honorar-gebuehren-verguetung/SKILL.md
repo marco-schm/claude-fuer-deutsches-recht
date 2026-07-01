@@ -1,6 +1,6 @@
 ---
 name: honorar-gebuehren-verguetung
-description: "Honorar, Gebühren und Vergütung: vertiefter Berufsrechts-Skill für Notare; prüft Vergütungsvereinbarung, Gebührenrecht, Vorschuss, Erfolgshonorargrenzen und Rechnung, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
+description: "Wenn es um Honorar, Gebühren und Vergütung in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Honorar, Gebühren und Vergütung

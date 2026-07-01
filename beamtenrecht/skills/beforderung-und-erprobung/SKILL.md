@@ -1,6 +1,6 @@
 ---
 name: beforderung-und-erprobung
-description: "Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten im Beamtenrecht."
+description: "Wenn es um Beforderung Und Erprobung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beforderung Und Erprobung

@@ -1,6 +1,6 @@
 ---
 name: aktenzeichen-und-vorgangsnummer
-description: "Findet und erklärt Aktenzeichen, Geschäftszeichen, Kundennummer, BG-Nummer, Kassenzeichen und Zahlungsreferenz im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Aktenzeichen und Vorgangsnummer in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Aktenzeichen und Vorgangsnummer

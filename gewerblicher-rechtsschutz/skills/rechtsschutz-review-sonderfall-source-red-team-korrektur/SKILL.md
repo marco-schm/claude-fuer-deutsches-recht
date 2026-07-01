@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-review-sonderfall-source-red-team-korrektur
-description: "Tatbestand, Beweis und Belegaufbau im gewerblichen Rechtsschutz: Wie IP-Verletzungen tatbestandsmäßig erfasst, Beweise gesichert und Belege für Abmahnung, EV und Klage aufbereitet werden. Checklisten für Marke, Patent, UWG und Urheberrecht im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Tatbestand, Beweis und Belegaufbau im IP-Recht in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Spezial: Tatbestand, Beweis und Belegaufbau im IP-Recht

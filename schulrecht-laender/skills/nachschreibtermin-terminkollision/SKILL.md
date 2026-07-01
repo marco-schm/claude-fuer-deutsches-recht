@@ -1,6 +1,6 @@
 ---
 name: nachschreibtermin-terminkollision
-description: "Prüft Nachschreiben, Terminüberschneidung, Krankheit und Chancengleichheit im Schulrecht Länder."
+description: "Wenn es um Nachschreibtermin und Terminkollision in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachschreibtermin und Terminkollision

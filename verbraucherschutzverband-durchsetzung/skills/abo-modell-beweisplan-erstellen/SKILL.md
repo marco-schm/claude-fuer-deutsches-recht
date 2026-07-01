@@ -1,6 +1,6 @@
 ---
 name: abo-modell-beweisplan-erstellen
-description: "Verbraucherschutzverband Durchsetzung: Abo-Modell: Beweisplan erstellen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Abo Modell Beweisplan Erstellen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abo Modell Beweisplan Erstellen

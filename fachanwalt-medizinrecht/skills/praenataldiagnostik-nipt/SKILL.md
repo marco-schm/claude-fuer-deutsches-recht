@@ -1,6 +1,6 @@
 ---
 name: praenataldiagnostik-nipt
-description: "Pränataldiagnostik und NIPT: moderner Medizinrechts-Skill für Nichtinvasive Pränataltests, Aufklärung, Beratung, Kostenerstattung und Konfliktlagen: Pränataldiagnostik und NIPT: moderner Medizinrechts-Skill für Nichtinvasive Pränataltests, Aufklärung, Berat..."
+description: "Wenn es um Praenataldiagnostik Nipt in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pränataldiagnostik und NIPT: moderner Medizinrechts-Skill für Nichtinvasive Pränataltests, Aufklärung, Beratung, Kostenerstattung und Konfliktlagen

@@ -1,6 +1,6 @@
 ---
 name: pflicht-interne-meldestelle
-description: "Prüft, ob und wie eine interne Meldestelle einzurichten ist im Hinweisgeberschutz Compliance."
+description: "Wenn es um Pflicht Interne Meldestelle in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflicht Interne Meldestelle

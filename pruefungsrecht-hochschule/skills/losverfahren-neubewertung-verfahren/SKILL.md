@@ -1,6 +1,6 @@
 ---
 name: losverfahren-neubewertung-verfahren
-description: "Prüft Prüferzuteilung, Losverfahren, Befangenheit und Umsetzungsfehler im Prüfungsrecht Hochschule."
+description: "Wenn es um Losverfahren und Prüferzuteilung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Losverfahren und Prüferzuteilung

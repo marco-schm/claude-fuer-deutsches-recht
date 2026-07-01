@@ -1,6 +1,6 @@
 ---
 name: space-042-gnss-galileo-haftung-und-dienstqualitaet
-description: "Weltraumrecht: GNSS Galileo Haftung und Dienstqualität mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: GNSS Galileo Haftung und Dienstqualität in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: GNSS Galileo Haftung und Dienstqualität

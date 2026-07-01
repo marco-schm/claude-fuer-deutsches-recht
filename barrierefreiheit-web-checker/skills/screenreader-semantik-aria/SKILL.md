@@ -1,6 +1,6 @@
 ---
 name: screenreader-semantik-aria
-description: "Prüft Screenreader-Nutzbarkeit, HTML-Semantik, Landmarken, Überschriften, Labels, Alt-Texte, ARIA, Live-Regionen, Fehlermeldungen und dynamische Komponenten. Output: Screenreader-Prüfprotokoll im Barrierefreiheit Web Checker."
+description: "Wenn es um Screenreader, Semantik, ARIA in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Screenreader, Semantik, ARIA

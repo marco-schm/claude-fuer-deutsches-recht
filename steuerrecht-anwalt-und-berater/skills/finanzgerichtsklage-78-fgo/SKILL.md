@@ -1,6 +1,6 @@
 ---
 name: finanzgerichtsklage-78-fgo
-description: "Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behand"
+description: "Wenn es um Finanzgerichtsklage — Aufbau Frist und Akteneinsicht Paragraf 78 FGO in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Finanzgerichtsklage 78 Fgo; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Finanzgerichtsklage — Aufbau Frist und Akteneinsicht § 78 FGO

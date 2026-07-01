@@ -1,6 +1,6 @@
 ---
 name: red-team-boilerplate
-description: "Internationales Handelsrecht: Red-Team-Analyse von Boilerplate-Klauseln in internationalen Kaufverträgen. Versteckte Risiken in Standard-AGB, Force-Majeure-Klauseln, Haftungsgrenzen, Sanktionsklauseln und Schiedsklauseln aus Gegenpartei-Perspektive."
+description: "Wenn es um Red-Team-Analyse von Boilerplate-Klauseln in Internationales Handelsrecht und Lex Mercatoria geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team-Analyse von Boilerplate-Klauseln

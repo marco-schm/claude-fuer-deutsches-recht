@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmeraehnlichkeit
-description: "Prüft arbeitnehmerähnliche Stellung des Handelsvertreters nach § 92a HGB: Mindestentgelt, Anwendung von Arbeitsschutzvorschriften, Abgrenzung zur echten Arbeitnehmerstellung, wirtschaftliche Abhängigkeit als Tatbestandsmerkmal und Sozialversicherungsrecht bei Einkommen unter der Grenze im Handels..."
+description: "Wenn es um Arbeitnehmerähnlicher Handelsvertreter nach Paragraf 92a HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitnehmerähnlicher Handelsvertreter nach § 92a HGB

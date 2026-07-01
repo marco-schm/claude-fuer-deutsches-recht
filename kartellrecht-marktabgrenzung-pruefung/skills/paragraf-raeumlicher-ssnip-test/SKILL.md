@@ -1,6 +1,6 @@
 ---
 name: paragraf-raeumlicher-ssnip-test
-description: "Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien in Kartellrecht — Marktabgrenzungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien

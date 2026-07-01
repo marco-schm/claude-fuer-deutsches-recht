@@ -1,6 +1,6 @@
 ---
 name: bmjv-rechtsstaatlichkeit-grundrechte
-description: "Sachbereich Rechtsstaatlichkeit und Grundrechte-Querschnitt im Geschäftsbereich BMJV: Normbestand (GG; BVerfGG; BBG; RiStBV; Konsulat- und Auslieferungsrecht; EuMRK.); Akteure (BMJV; BVerfG; BGH; Ausländerbehoerden; Bundesrat.); EU-Bezug (Rechtsstaatlichkeitsmechanismus; EuGH (Vertragsverletzun"
+description: "Wenn es um Rechtsstaatlichkeit und Grundrechte-Querschnitt (BMJV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmjv Rechtsstaatlichkeit Grundrechte; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Rechtsstaatlichkeit und Grundrechte-Querschnitt (BMJV)

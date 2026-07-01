@@ -1,6 +1,6 @@
 ---
 name: evidence-map-exhibits-translation
-description: "Erklärt Mandanten den Unterschied zwischen deutscher Beweisaufnahme und Common-Law-Erwartungen; erstellt Evidence Map ohne Discovery-Fantasien im Commercial Courts Deutschland."
+description: "Wenn es um Evidence Map ZPO/Common Law in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Evidence Map ZPO/Common Law

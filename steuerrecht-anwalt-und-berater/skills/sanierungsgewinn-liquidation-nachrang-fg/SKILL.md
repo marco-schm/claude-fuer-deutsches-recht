@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-liquidation-nachrang-fg
-description: "Solvente GmbH-Liquidation mit nachrangigem Gesellschafterdarlehen. Klaert mit der verifizierten FG-Koeln-Linie (Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012 Seite 977; vorgehend zu BFH I R 34/12) und mit BFH II R 19/01 die Frage, wann die Verbindlichkeit ausgebucht werden muss und ob ein etwai"
+description: "Wenn es um Sanierungsgewinn — Liquidation, Nachrang und die FG-Koeln-Linie in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sanierungsgewinn Liquidation Nachrang Fg; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Sanierungsgewinn — Liquidation, Nachrang und die FG-Koeln-Linie

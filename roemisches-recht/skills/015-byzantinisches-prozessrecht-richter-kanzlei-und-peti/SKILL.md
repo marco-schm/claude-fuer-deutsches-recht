@@ -1,6 +1,6 @@
 ---
 name: 015-byzantinisches-prozessrecht-richter-kanzlei-und-peti
-description: "Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition im Römisches Recht."
+description: "Wenn es um Rom Byzantinisches Prozessrecht Richter Kanzlei Und Peti in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Byzantinisches Prozessrecht Richter Kanzlei Und Peti

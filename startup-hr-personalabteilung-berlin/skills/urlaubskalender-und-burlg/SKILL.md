@@ -1,6 +1,6 @@
 ---
 name: urlaubskalender-und-burlg
-description: "Berliner Start-up-HR: Urlaubsverwaltung nach BUrlG: Antrag, Genehmigung, Resturlaub, Verfallhinweis, Übertragung und Teamkonflikte. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Urlaubskalender Und BUrlG in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Urlaubskalender Und BUrlG

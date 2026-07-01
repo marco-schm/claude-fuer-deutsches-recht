@@ -1,6 +1,6 @@
 ---
 name: decision-tree-output
-description: "Erzeugt einen laienverständlichen Entscheidungsbaum: beschäftigt, selbständig, selbständig aber rentenversicherungspflichtig, unklar."
+description: "Wenn es um Decision Tree Output in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Decision Tree Output

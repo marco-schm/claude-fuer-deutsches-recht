@@ -1,6 +1,6 @@
 ---
 name: diozesanbischof-visitation-und-leitung
-description: "Diözesanbischof, Visitation und Leitung: bischöfliche Leitung, Verwaltung, Visitation und Delegation; CIC can. 381-402 und 469-494; KKK 886-896; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale,..."
+description: "Wenn es um Diözesanbischof, Visitation und Leitung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Diözesanbischof, Visitation und Leitung

@@ -1,6 +1,6 @@
 ---
 name: red-team-qualitygate
-description: "Red-Team-Qualitygate: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Ergebnis auf Fristenfehler, Zuständigkeitsfehler, Scheinpräzision und Ton, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspr..."
+description: "Wenn es um Red-Team-Qualitygate in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team-Qualitygate

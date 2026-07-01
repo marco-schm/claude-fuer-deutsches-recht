@@ -1,6 +1,6 @@
 ---
 name: grundrechte-digitaler-staat-polizei-ueberwachung
-description: "Digitale Grundrechte gegen staatliche Überwachung: Art. 10 GG, Art. 13 GG, Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG, IT-Grundrecht, Quellen-TKÜ, Online-Durchsuchung, längerfristige Observation und Datenerhebung nach neuer BVerfG-Linie."
+description: "Wenn es um Digitaler Staat, Polizei und Überwachung in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitaler Staat, Polizei und Überwachung

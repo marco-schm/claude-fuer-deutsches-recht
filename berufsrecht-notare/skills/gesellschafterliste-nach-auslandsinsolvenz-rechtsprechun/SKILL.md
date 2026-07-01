@@ -1,6 +1,6 @@
 ---
 name: gesellschafterliste-nach-auslandsinsolvenz-rechtsprechun
-description: "Notare: gesellschafterliste nach auslandsinsolvenz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Gesellschafterliste Nach Auslandsinsolvenz Rechtsprechun in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: gesellschafterliste nach auslandsinsolvenz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: wehrpflicht-wehrdienst-reservist-routing
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Wehrpflicht Wehrdienst Reservist Routing."
+description: "Wenn es um Wehrpflicht Wehrdienst Reservist Routing in Bundeswehrrecht und Wehrrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wehrpflicht Wehrdienst Reservist Routing

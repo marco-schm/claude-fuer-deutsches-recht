@@ -1,6 +1,6 @@
 ---
 name: livecheck-bnetza-konsultation-formular
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck BNetzA Konsultation Formular im BNetzA-Verfahren."
+description: "Wenn es um Livecheck BNetzA Konsultation Formular in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Livecheck BNetzA Konsultation Formular

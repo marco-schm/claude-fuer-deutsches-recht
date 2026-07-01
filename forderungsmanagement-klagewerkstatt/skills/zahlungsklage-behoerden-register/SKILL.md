@@ -1,6 +1,6 @@
 ---
 name: zahlungsklage-behoerden-register
-description: "Hilfe bei Klagen gegen Behörden und juristische Personen des öffentlichen Rechts. Klaert Verwaltungsweg oder Zivilweg Klägervertreter Vorverfahren Verfahrensart. Pinpoints VwGO 40 abgrenzbare oeffentlich-rechtliche Streitigkeit ZPO 253 für fiskalisches Handeln BGB 839 Amtshaftung. Liefert Routin..."
+description: "Wenn es um Zahlungsklage gegen Behörden und juristische Personen öffentlichen Rechts in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zahlungsklage gegen Behörden und juristische Personen öffentlichen Rechts

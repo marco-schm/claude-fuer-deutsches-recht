@@ -1,6 +1,6 @@
 ---
 name: spezial-durch-mehrparteien-konflikt-und-interessen
-description: "Durch: Mehrparteienkonflikt und Interessenmatrix im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Durch: Mehrparteienkonflikt und Interessenmatrix in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Durch: Mehrparteienkonflikt und Interessenmatrix

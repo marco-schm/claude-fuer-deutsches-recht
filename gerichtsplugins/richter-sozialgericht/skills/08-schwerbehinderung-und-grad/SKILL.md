@@ -1,6 +1,6 @@
 ---
 name: 08-schwerbehinderung-und-grad
-description: "Schwerbehindertenrecht SGB IX: Grad der Behinderung Paragraf 152, Versorgungsmedizinverordnung (VersMedV), Merkzeichen, Gleichstellung, Nachteilsausgleiche"
+description: "Wenn es um 08 Schwerbehinderung und Grad in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 08 Schwerbehinderung und Grad

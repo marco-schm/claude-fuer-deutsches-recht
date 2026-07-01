@@ -1,6 +1,6 @@
 ---
 name: steps-plan-pmo
-description: "Deal-PMO und Steps-Plan für Pre-Signing bis Post-Closing: Anwendungsfall Transaktion braucht praezisen Aufgaben- und Zeitplan aus Vertraegen, DD-Unterlagen und Gremienunterlagen extrahiert. SPA Closing Conditions, CPs Conditions Precedent. Prüfraster Pflichten Fristen Bedingungen und Deliverables..."
+description: "Wenn es um Deal-PMO und Steps Plan in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deal-PMO und Steps Plan

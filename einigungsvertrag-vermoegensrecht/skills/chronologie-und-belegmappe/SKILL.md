@@ -1,6 +1,6 @@
 ---
 name: chronologie-und-belegmappe
-description: "Einigungsvertrag und Vermögensrecht: Chronologie und Belegmappe. Chronologie und Belegmappe im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatb..."
+description: "Wenn es um Chronologie Und Belegmappe in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie Und Belegmappe

@@ -1,6 +1,6 @@
 ---
 name: erschwerniszulage-vollzugsdienst
-description: "Skill zu Erschwerniszulagen für Polizei Justizvollzug Feuerwehr Bundeswehr und Zoll nach der Erschwerniszulagenverordnung und den Landesvorschriften. Klaert Anspruchsvoraussetzungen Schichtdienst Wechselschichtdienst Nachtdienst Sonn- und Feiertagsdienst Tauchen Hoehenarbeit Sprengstoffumgang und..."
+description: "Wenn es um Erschwerniszulage Vollzugsdienst und Sonderdienste in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erschwerniszulage Vollzugsdienst und Sonderdienste

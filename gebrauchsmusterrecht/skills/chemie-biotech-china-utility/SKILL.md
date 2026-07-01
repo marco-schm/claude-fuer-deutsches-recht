@@ -1,6 +1,6 @@
 ---
 name: chemie-biotech-china-utility
-description: "Chemie-, Pharma-, Biotech- und Stoffschutz im Gebrauchsmusterrecht einordnen: Schutzgegenstand, Ausschlüsse, Erzeugnisbezug und Patentroute im Gebrauchsmusterrecht."
+description: "Wenn es um Chemie Biotech Und Stoffschutz in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Chemie Biotech Und Stoffschutz

@@ -1,6 +1,6 @@
 ---
 name: lph-09-streitfall-vorbereitung
-description: "HOAI LPH 9 Objektbetreuung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Lph 09 Streitfall Vorbereitung in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 9 Objektbetreuung: Macht aus der phase eine prozess-/schiedsgutachten- oder vergleichsakte

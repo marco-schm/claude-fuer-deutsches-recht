@@ -1,6 +1,6 @@
 ---
 name: bautraeger-eigenkapital-ueberpruefung-vor-vertrag
-description: "Bautraeger-Eigenkapital-Überprüfung vor Vertragsabschluss: Skill klaert was Erwerber selbst prüfen koennen Handelsregister Bonitaetsauskuenfte Referenzen aktuelle Schlagzeilen sowie Warnsignale..."
+description: "Wenn es um Bautraeger-Eigenkapital-Überprüfung vor Vertragsabschluss in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bautraeger-Eigenkapital-Überprüfung vor Vertragsabschluss

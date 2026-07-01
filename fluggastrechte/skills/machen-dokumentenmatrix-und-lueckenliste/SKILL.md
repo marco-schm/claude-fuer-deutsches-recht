@@ -1,6 +1,6 @@
 ---
 name: machen-dokumentenmatrix-und-lueckenliste
-description: "Machen: Dokumentenmatrix, Lückenliste und Nachforderung im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Machen: Dokumentenmatrix, Lückenliste und Nachforderung in Fluggastrechte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Machen: Dokumentenmatrix, Lückenliste und Nachforderung

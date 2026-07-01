@@ -1,6 +1,6 @@
 ---
 name: 050-grundbuchauszug-lesen-abteilung-ii-und-iii
-description: "Notariat im Alltag: Grundbuchauszug lesen – Abteilung II und III. Systematische Analyse aller Grundbuchinhalte, Bedeutung der Eintragungen in Abt. I (Eigentum), II (Belastungen) und III (Grundpfandrechte) für den Vollzug im Notariat."
+description: "Wenn es um Notariat im Alltag: Grundbuchauszug lesen – Abt. II und III in Notariat im Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Grundbuchauszug lesen – Abt. II und III

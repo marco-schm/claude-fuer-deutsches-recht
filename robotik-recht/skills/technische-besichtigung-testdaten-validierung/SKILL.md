@@ -1,6 +1,6 @@
 ---
 name: technische-besichtigung-testdaten-validierung
-description: "Plant gerichtliche oder außergerichtliche Besichtigung eines Roboters mit Geheimnisschutz, Sachverständigem und Testprotokoll im Robotik-Recht."
+description: "Wenn es um Technische Besichtigung und Geheimnisschutz in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Technische Besichtigung und Geheimnisschutz

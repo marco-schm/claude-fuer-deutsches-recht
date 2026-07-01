@@ -1,6 +1,6 @@
 ---
 name: spezial-gewerberaum-covid-nachwirkungen
-description: "Gewerberaum Störung der Geschäftsgrundlage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Anpassung, Risikoübernahme, Umsatzdaten, Vergleichslinie; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Gewerberaum Störung der Geschäftsgrundlage in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerberaum Störung der Geschäftsgrundlage

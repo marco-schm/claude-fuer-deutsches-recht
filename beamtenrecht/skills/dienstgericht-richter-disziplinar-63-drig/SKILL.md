@@ -1,6 +1,6 @@
 ---
 name: dienstgericht-richter-disziplinar-63-drig
-description: "Skill zum Dienstgericht fuer Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zustaendigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Pruefverfahren die Besetzung des Spruchkoerpers mit beruflichen und ehrenamtlichen Richtern und das Verfahrensrecht in Anlehnung an das BDG. Behandelt die Konstellationen Verfahren gegen Disziplinarmassnahmen Pruefung der richterlichen Unabhaengigkeit nach § 26 DRiG und Antrag auf Aufhebung der Geschaeftsverteilung. Liefert Pruefraster und Schriftsatzbausteine."
+description: "Wenn es um Dienstgericht fuer Richter in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dienstgericht fuer Richter

@@ -1,6 +1,6 @@
 ---
 name: spezial-klagefreigabe-belegte-forderung
-description: "Klagefreigabe nur für fällige, belegte und prozessreife Forderungen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output."
+description: "Wenn es um Klagefreigabe nur für fällige, belegte und prozessreife Forderungen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klagefreigabe nur für fällige, belegte und prozessreife Forderungen

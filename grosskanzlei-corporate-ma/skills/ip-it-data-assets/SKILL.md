@@ -1,6 +1,6 @@
 ---
 name: ip-it-data-assets
-description: "IP, IT und Data Assets Due Diligence: prüft Rechteketten, Software, Open Source, Lizenzen, Datenrechte, KI-Assets, Cyberrisiken und Change-of-Control."
+description: "Wenn es um IP IT Data Assets DD in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # IP IT Data Assets DD

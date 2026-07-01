@@ -1,6 +1,6 @@
 ---
 name: targeting-dsgvo-tracking-pixel
-description: "Wahlkampfrecht Praxis: Targeting und Zustellung politischer Werbung datenschutzrechtlich prüfen im Wahlkampfrecht."
+description: "Wenn es um Targeting Dsgvo in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Targeting Dsgvo

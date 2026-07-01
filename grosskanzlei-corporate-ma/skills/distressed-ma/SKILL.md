@@ -1,6 +1,6 @@
 ---
 name: distressed-ma
-description: "Distressed M&A Transaktion begleiten: Anwendungsfall Unternehmen in Krise oder Insolvenz soll verkauft werden oder Investor prüft Erwerb notleidender Vermögenswerte. Paragraf 17-19 InsO Insolvenztatbestaende, Paragraf 1 StaRUG Sanierung, Paragraf 433 ff. BGB Share/Asset Deal. Prüfraster Insolvenzreife-Prüfung, Antr..."
+description: "Wenn es um Distressed M&A in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Distressed M&A

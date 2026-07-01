@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Insolvenzrecht (Allgemein): sortiert Insolvenzantrag, Vermögensverzeichnis, Gutachten Sachverständiger, prüft Datum, Absender, Frist und Beweiswert (Bilanzen, Liquiditätsplan); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

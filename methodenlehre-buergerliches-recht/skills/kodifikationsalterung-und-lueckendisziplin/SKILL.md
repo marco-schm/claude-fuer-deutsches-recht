@@ -1,6 +1,6 @@
 ---
 name: kodifikationsalterung-und-lueckendisziplin
-description: "Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, wenn Kodifikationen auf neue gesellschaftliche, technische oder wirtschaftliche Realitäten treffen, die der Gesetzgeber nicht vorhergesehen hat. Das Skill zeigt, wann Alterungslücken methodisch durch Analogie und Rec..."
+description: "Wenn es um Kodifikationsalterung und Lückendisziplin in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kodifikationsalterung und Lückendisziplin

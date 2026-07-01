@@ -1,6 +1,6 @@
 ---
 name: means-test-707b
-description: "Prüft consumer Chapter 7 means test, abuse presumption, median income and special circumstances im US Bankruptcy Code."
+description: "Wenn es um Means Test Paragraf 707(b) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Means Test § 707(b)

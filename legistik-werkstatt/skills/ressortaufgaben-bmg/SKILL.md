@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmg
-description: "Ressortaufgaben BMG: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium für Gesundheit. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordn..."
+description: "Wenn es um Ressortaufgaben BMG in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressortaufgaben BMG

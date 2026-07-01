@@ -1,6 +1,6 @@
 ---
 name: spezial-bussgeld-livequellen-und-rechtsprechungscheck
-description: "Bussgeld: Livequellen- und Rechtsprechungscheck im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Bussgeld: Livequellen- und Rechtsprechungscheck in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bussgeld: Livequellen- und Rechtsprechungscheck

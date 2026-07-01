@@ -1,6 +1,6 @@
 ---
 name: legitimer-zweck-pruefung
-description: Stufe 1 der Verhältnismäßigkeit legitimer Zweck mit Prüfraster fuer einfachen qualifizierten und verfassungsimmanenten Vorbehalt. Mit Negativliste verbotener Zwecke und Beispielen wann ein Zweck vorgeschoben ist.
+description: "Wenn es um Legitimer Zweck Prüfung in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Legitimer Zweck Prüfung

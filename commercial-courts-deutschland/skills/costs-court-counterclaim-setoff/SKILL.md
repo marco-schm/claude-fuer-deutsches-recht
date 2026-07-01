@@ -1,6 +1,6 @@
 ---
 name: costs-court-counterclaim-setoff
-description: "Erstellt Kosten- und Risikobudget: Gerichtskosten, Anwaltskosten, Übersetzung, Transcript, Sachverständige, Security, Settlement und Enforcement im Commercial Courts Deutschland."
+description: "Wenn es um Costs and Budget in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Costs and Budget

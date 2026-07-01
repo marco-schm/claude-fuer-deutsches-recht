@@ -1,6 +1,6 @@
 ---
 name: aenderungsmodus-compliance-dokumentation
-description: "Änderungsmodus: Compliance-Dokumentation und Aktenvermerk im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4...."
+description: "Wenn es um Änderungsmodus: Compliance-Dokumentation und Aktenvermerk in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Änderungsmodus: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: ressort-router
-description: "Ressort-Router der Legistik-Werkstatt: leitet nach Auftragsaufnahme in das richtige Bundes-Ressort. Klaert Ressort-Kuerzel BMF; BMI; AA; BMVg; BMWE; BMFTR; BMJV; BMBFSFJ; BMAS; BMDS; BMV; BMUKN; BMG; BMLEH; BMZ und BMWSB. Pro Ressort: Heranfuehrung; Ressortaufgaben; fuenf Spezialfelder. Output: g..."
+description: "Wenn es um Legistik-Werkstatt - Ressort-Router in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Legistik-Werkstatt - Ressort-Router

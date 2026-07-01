@@ -1,6 +1,6 @@
 ---
 name: board-memo-raumfahrt-haftung-und-versicherung
-description: "Board-Memo Raumfahrthaftung – D&O-Relevanz, Versicherungsdeckung, Governance im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Board-Memo: Raumfahrt, Haftung und Versicherung in Weltraumrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Weltraumrecht: Board-Memo: Raumfahrt, Haftung und Versicherung

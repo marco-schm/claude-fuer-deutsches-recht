@@ -1,6 +1,6 @@
 ---
 name: battle-of-forms-international
-description: "Internationales Handelsrecht: Battle of Forms im internationalen Kaufrecht. CISG Art. 19 modifizierte Annahme, Knock-Out-Theorie (herrschende Schiedsgerichtspraxis), Last-Shot-Doktrin (Common Law), Mirror-Image-Rule und Abwehrklauseln in AGB im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Battle of Forms International in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Battle of Forms International

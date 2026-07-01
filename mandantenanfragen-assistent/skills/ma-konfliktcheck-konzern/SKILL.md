@@ -1,6 +1,6 @@
 ---
 name: ma-konfliktcheck-konzern
-description: "Spezialfall Konfliktcheck im Konzern: Mandat für Tochter eines bestehenden Mandanten, gegenlaeufige Interessen, Chinese Walls, Information Barriers. Prüfraster und Mustertexte für Einwilligungen und Hinweis an Mandant im Mandantenanfragen Assistent."
+description: "Wenn es um Konfliktcheck im Konzern in mandantenanfragen-assistent geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Konfliktcheck im Konzern

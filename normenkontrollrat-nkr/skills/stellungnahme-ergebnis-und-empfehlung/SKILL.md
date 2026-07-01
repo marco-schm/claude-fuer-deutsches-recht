@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-ergebnis-und-empfehlung
-description: "Schreibt den Schlussteil einer NKR-Stellungnahme. Drei Bausteine: (1) konkrete Empfehlungen nummeriert (2) Ergebnisformel im NKR-Standardvokabular (keine Einwaende / Einwaende / Bemerkungen) (3) Hinweise und Vorbehalte. Mit Vorlagen Eskalationsstufen und Beispieltexten."
+description: "Wenn es um NKR-Stellungnahme — Ergebnis und Empfehlung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NKR-Stellungnahme — Ergebnis und Empfehlung

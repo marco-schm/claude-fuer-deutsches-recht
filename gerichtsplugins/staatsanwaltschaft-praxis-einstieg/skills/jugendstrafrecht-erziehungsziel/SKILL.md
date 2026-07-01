@@ -1,6 +1,6 @@
 ---
 name: jugendstrafrecht-erziehungsziel
-description: "Jugendstrafrecht aus StA-Sicht: Erziehungsziel und Beschleunigung: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Jugendstrafrecht aus StA-Sicht: Erziehungsziel und Beschleunigung in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Jugendstrafrecht aus StA-Sicht: Erziehungsziel und Beschleunigung

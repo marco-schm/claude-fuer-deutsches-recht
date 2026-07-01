@@ -1,6 +1,6 @@
 ---
 name: konnossement-versicherung-local-counsel
-description: "Konnossement: Schadensereignis an Konnossements-Transaktion (Bill of Lading) melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht im Seerec..."
+description: "Wenn es um Konnossement – Schadensfall bei Versicherung melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konnossement – Schadensfall bei Versicherung melden

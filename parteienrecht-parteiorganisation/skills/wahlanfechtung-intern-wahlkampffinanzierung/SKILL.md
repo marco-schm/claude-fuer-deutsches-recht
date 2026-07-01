@@ -1,6 +1,6 @@
 ---
 name: wahlanfechtung-intern-wahlkampffinanzierung
-description: "Prüft Einspruch gegen interne Vorstandswahl oder Kandidatenaufstellung nach Satzung, Frist, Zuständigkeit und Beweisen im Parteienrecht."
+description: "Wenn es um Interne Wahlanfechtung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Wahlanfechtung Intern Wahlkampffinanzierung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Interne Wahlanfechtung

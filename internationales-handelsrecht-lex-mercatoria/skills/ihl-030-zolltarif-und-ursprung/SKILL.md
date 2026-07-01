@@ -1,6 +1,6 @@
 ---
 name: ihl-030-zolltarif-und-ursprung
-description: "Internationales Handelsrecht und Lex Mercatoria: Zolltarif Und Ursprung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Zolltarif Und Ursprung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zolltarif Und Ursprung

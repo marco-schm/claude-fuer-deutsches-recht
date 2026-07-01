@@ -1,6 +1,6 @@
 ---
 name: government-works-edicts-105
-description: "Prüft US-Regierungswerke, amtliche Texte, Edicts of Government, Drittmaterial in Behördenpublikationen und public-domain-Fehler im Us Copyright Registrierung Verlag."
+description: "Wenn es um Government Works und Edicts in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Government Works und Edicts

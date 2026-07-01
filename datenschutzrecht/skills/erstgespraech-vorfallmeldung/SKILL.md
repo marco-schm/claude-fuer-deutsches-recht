@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-vorfallmeldung
-description: "Führt das anwaltliche oder DSB-Erstgespräch nach einem gemeldeten Datenschutzvorfall mit Geschäftsleitung oder Fachabteilung. Behandelt: Zeitstrahl der Kenntnisnahme; betroffene Systeme und Verarbeitungen; Datenkategorien und Schutzbedarfsklassen; geschätzte Anzahl betroffener Personen; Auftragsv..."
+description: "Wenn es um Erstgespräch nach gemeldetem Datenschutzvorfall — Fragenkatalog in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstgespräch nach gemeldetem Datenschutzvorfall — Fragenkatalog

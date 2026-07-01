@@ -1,6 +1,6 @@
 ---
 name: fees-expenses-und-deal-costs
-description: "Prüft Management Fee, Transaction Fee, Broken Deal Costs, Monitoring Fees, Counsel Costs und Allocation im Private Equity Praxis."
+description: "Wenn es um Fees, Expenses und Deal Costs in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fees, Expenses und Deal Costs

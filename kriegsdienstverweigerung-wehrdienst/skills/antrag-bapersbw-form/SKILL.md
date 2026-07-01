@@ -1,6 +1,6 @@
 ---
 name: antrag-bapersbw-form
-description: "Führt durch Adresse, Form, Unterschrift, Lebenslauf und persönliche Begründung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Antrag beim BAPersBw in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Antrag beim BAPersBw

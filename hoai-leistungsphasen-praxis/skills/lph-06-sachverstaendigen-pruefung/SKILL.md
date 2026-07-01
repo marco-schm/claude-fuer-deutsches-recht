@@ -1,6 +1,6 @@
 ---
 name: lph-06-sachverstaendigen-pruefung
-description: "HOAI LPH 6 Vorbereitung der Vergabe: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 6 Vorbereitung der Vergabe: Übersetzt den lph-stand in gutachterfragen und prüfspur in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Übersetzt den lph-stand in gutachterfragen und prüfspur

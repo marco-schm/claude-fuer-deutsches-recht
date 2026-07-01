@@ -1,6 +1,6 @@
 ---
 name: ihl-091-risk-dashboard-international-trade
-description: "Internationales Handelsrecht und Lex Mercatoria: Risk Dashboard International Trade. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Risk Dashboard International Trade in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Risk Dashboard International Trade

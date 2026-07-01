@@ -1,6 +1,6 @@
 ---
 name: terminvorbereitung-checkliste
-description: "Checkliste für die Vorbereitung der muendlichen Verhandlung. Akten Ordner Schlüsselargumente Beweisstuecke Zeugen, Anträge auf Bewilligung, erweiterte Anträge Klage-Konzept. Was Sie mitnehmen muessen und wie Sie inhaltlich vorbereiten."
+description: "Wenn es um Termin im Amtsgericht: So bereiten Sie sich vor in selbstvertreter-amtsgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Termin im Amtsgericht: So bereiten Sie sich vor

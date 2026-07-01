@@ -1,6 +1,6 @@
 ---
 name: patentprozess-experten-und-sachverstaendige
-description: "Plant technische Expertenarbeit in Patentverfahren: Privatgutachten, gerichtliche Sachverständige, Parteigutachten, Experimente, Reproduzierbarkeit, Befragung und Schwachstellenanalyse im Patentrecht."
+description: "Wenn es um Patentprozess: Experten und Sachverständige in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Patentprozess: Experten und Sachverständige

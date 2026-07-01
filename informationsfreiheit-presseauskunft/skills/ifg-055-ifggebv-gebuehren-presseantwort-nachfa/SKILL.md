@@ -1,6 +1,6 @@
 ---
 name: ifg-055-ifggebv-gebuehren-presseantwort-nachfa
-description: "Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Presseantwort nachfassen. Presseantwort nachfassen für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Ifggebv Gebuehren Presseantwort Nachfa in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ifggebv Gebuehren Presseantwort Nachfa

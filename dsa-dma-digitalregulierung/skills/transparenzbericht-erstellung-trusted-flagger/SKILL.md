@@ -1,6 +1,6 @@
 ---
 name: transparenzbericht-erstellung-trusted-flagger
-description: "Transparenzbericht nach Art. 15 DSA jaehrlich erstellen: Behördenanordnungen (Loeschung, Auskunft), Nutzermeldungen, eigene Inhaltsmoderation, automatisierte Tools, Statement of Reasons, Beschwerden. Format-Anforderungen der EU-Kommission, Excel-Templates, Veroeffentlichungspflichten. Fuer VLOP z..."
+description: "Wenn es um DSA Transparenzbericht in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DSA Transparenzbericht

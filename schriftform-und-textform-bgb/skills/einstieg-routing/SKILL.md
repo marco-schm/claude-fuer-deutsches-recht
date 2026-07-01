@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Schriftform/Textform BGB: ordnet Rolle (Vertragsparteien), markiert Frist (Form vor Wirksamkeit), wählt Norm (Paragrafen 126/126a und 126b BGB, Paragraf 127 BGB, Paragraf 130 BGB Zugang) und Zuständigkeit (Zivilgerichte), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Schriftform und Textform im BGB geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

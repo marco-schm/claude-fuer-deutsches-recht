@@ -1,6 +1,6 @@
 ---
 name: 050-ifggebv-gebuehren-kosten-deckeln
-description: "Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Kosten deckeln im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Ifggebv Gebühren Kosten Deckeln in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ifggebv Gebühren Kosten Deckeln

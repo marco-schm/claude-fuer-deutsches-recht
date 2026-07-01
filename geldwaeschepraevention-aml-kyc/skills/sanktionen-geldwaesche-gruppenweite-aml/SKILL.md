@@ -1,6 +1,6 @@
 ---
 name: sanktionen-geldwaesche-gruppenweite-aml
-description: "Sanktionen: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Sanktionen: Dokumentenmatrix, Lückenliste und Nachforderung in Geldwäscheprävention, AML und KYC geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Sanktionen: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: italien-ragionevolezza-proporzionalita
-description: Italienische Verhaeltnismaessigkeitsdogmatik der Corte costituzionale ueber Ragionevolezza nach Art 3 Costituzione als Test-Trias Idoneita Necessita Proporzionalita in senso stretto mit Riserva di legge nach Art 13 ff Cost. Mit Bilanciamento tra principi Nucleo essenziale Diritti inviolabili Art 2 Cost und Hinweisen auf Strukturunterschiede zur deutschen Vier-Stufen-Pruefung und auf die Rezeption der EuGH und EGMR-Linien.
+description: "Wenn es um Italien Ragionevolezza und Proporzionalita in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Italien Ragionevolezza und Proporzionalita

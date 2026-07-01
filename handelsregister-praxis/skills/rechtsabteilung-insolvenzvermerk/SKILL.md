@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-insolvenzvermerk
-description: "Rechtsabteilungs-Fachmodul für Insolvenzvermerk und ausländischer Trustee: Vertretungsmacht ausländischer Insolvenzorgane wird registertauglich nachgewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsregister Praxis."
+description: "Wenn es um Rechtsabteilung: Insolvenzvermerk und ausländischer Trustee in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Rechtsabteilung: Insolvenzvermerk und ausländischer Trustee

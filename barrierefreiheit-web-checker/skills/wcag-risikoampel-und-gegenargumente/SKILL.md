@@ -1,6 +1,6 @@
 ---
 name: wcag-risikoampel-und-gegenargumente
-description: "Wcag: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Wcag: Risikoampel, Gegenargumente und Verteidigungslinien in Barrierefreiheit Web Checker geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wcag: Risikoampel, Gegenargumente und Verteidigungslinien

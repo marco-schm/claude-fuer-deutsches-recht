@@ -1,6 +1,6 @@
 ---
 name: meldung-lfdi-bremen
-description: "Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für Datenschutz und Informationsfreiheit der Freien Hansestadt Bremen (LfDI HB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bremen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflic..."
+description: "Wenn es um Meldung Art. 33 DSGVO an die LfDI HB in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meldung Art. 33 DSGVO an die LfDI HB

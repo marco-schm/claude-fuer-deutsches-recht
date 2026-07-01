@@ -1,6 +1,6 @@
 ---
 name: spezial-gegendarstellung-red-team-und-qualitaetskontrolle
-description: "Gegendarstellung: Red-Team und Qualitätskontrolle im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Gegendarstellung: Red-Team und Qualitätskontrolle in Fachanwalt Urheber Medienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gegendarstellung: Red-Team und Qualitätskontrolle

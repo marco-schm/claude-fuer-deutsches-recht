@@ -1,6 +1,6 @@
 ---
 name: spezial-vorkaufsrecht-mieter
-description: "Mieter-Vorkaufsrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Aufteilung, Verkauf, Mitteilung, Ausübung, Schadensersatz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Mieter-Vorkaufsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mieter-Vorkaufsrecht

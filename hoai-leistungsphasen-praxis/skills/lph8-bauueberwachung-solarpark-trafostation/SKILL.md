@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-solarpark-trafostation
-description: "Bauueberwachung HOAI LPH 8 für Freiflaechen-Solarparks und Trafostationen — Kontrolle Rammpfaehle und Schraubanker nach DIN 1054 und EC7, Modulaufstaenderung Stahlkonstruktion nach DIN EN 1993-1-1, Erdungsanlage und Potentialausgleich nach DIN VDE 0100-410, Mittelspannungstransformator-Aufstellun..."
+description: "Wenn es um Bauueberwachung Solarpark und Trafostation in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Solarpark und Trafostation

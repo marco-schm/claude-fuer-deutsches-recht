@@ -1,6 +1,6 @@
 ---
 name: entsendungen-a1-mindestlohn
-description: "Entsendungen und Auslandseinsätze: A1, Meldepflichten, Mindestlohn, Arbeitszeit, Sozialversicherung und Nachweise im Berichtspflichten."
+description: "Wenn es um Entsendung, A1 und Mindestlohnmeldungen in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Entsendung, A1 und Mindestlohnmeldungen

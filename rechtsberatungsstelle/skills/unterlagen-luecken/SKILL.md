@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Rechtsberatungsstelle (RDG): trennt fehlende Tatsachen von fehlenden Belegen (Beratungshilfeschein, Vermögenserklärung, Bescheide Sozialleistungen), nennt pro Lücke Beweisthema, Beschaffungsweg (Amtsgericht), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: laienmodus-robotikrecht
-description: "Erklärt Robotik-Recht in verständlicher Sprache für Gründer, Ingenieurinnen, Betreiber, Versicherer und Behörden, ohne juristische Genauigkeit zu verlieren."
+description: "Wenn es um Laienmodus Robotikrecht in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Laienmodus Robotikrecht; Arbeitsfeld: robotik-recht."
 ---
 
 # Laienmodus Robotikrecht

@@ -1,6 +1,6 @@
 ---
 name: lease-006-flottenleasing-schaden-minderwert-und-gutachten
-description: "Leasingrecht: Flottenleasing Schaden Minderwert und Gutachten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Flottenleasing Schaden Minderwert und Gutachten in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Flottenleasing Schaden Minderwert und Gutachten

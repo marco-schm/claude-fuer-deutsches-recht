@@ -1,6 +1,6 @@
 ---
 name: gebuehrenbescheid-angreifen
-description: "Informationsfreiheit und Presseauskunft: Gebührenbescheid angreifen. Gebührenbescheid angreifen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: prüft konkret die einsch..."
+description: "Wenn es um Gebührenbescheid Angreifen in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Gebührenbescheid Angreifen

@@ -1,6 +1,6 @@
 ---
 name: spezial-insolvenzrecht-internationaler-bezug-und-schnittstellen
-description: "Insolvenzrecht: Internationaler Bezug und Schnittstellen im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Insolvenzrecht: Internationaler Bezug und Schnittstellen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenzrecht: Internationaler Bezug und Schnittstellen

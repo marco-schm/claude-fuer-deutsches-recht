@@ -1,6 +1,6 @@
 ---
 name: ausbildungskosten-rueckforderung
-description: "Prüft mögliche Rückforderungen und Härteargumente nach KDV-bezogenem Ausscheiden im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Ausbildungskosten Rückforderung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausbildungskosten Rückforderung

@@ -1,6 +1,6 @@
 ---
 name: zwischenverfuegung-paragraph-18-gbo
-description: "Analysiert beanstandete Hindernisse, Behebbarkeit, Rangwahrung, Frist und Antwortstrategie im Grundbuchamt Praxis."
+description: "Wenn es um Zwischenverfügung beantworten in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zwischenverfügung beantworten

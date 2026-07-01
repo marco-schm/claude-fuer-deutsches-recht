@@ -1,6 +1,6 @@
 ---
 name: inso-p244-erforderliche-mehrheiten
-description: "§ 244 InsO (Erforderliche Mehrheiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 244 InsO (Erforderliche Mehrheiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fris..."
+description: "Wenn es um Inso P244 Erforderliche Mehrheiten in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 244 InsO (Erforderliche Mehrheiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

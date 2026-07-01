@@ -1,6 +1,6 @@
 ---
 name: inso-p242-schriftliche-abstimmung
-description: "§ 242 InsO (Schriftliche Abstimmung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 242 InsO (Schriftliche Abstimmung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Friste..."
+description: "Wenn es um Inso P242 Schriftliche Abstimmung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 242 InsO (Schriftliche Abstimmung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

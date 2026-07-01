@@ -1,6 +1,6 @@
 ---
 name: red-team-creator-kampagne
-description: "Influencer-Recht: Red-Team-Check für Creator-Kampagnen – systematische Risikobewertung, Angriffsvektoren, Kennzeichnung, Haftung und Präventionsmaßnahmen."
+description: "Wenn es um Influencer-Recht: Red Team – Creator-Kampagne in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Influencer-Recht: Red Team – Creator-Kampagne

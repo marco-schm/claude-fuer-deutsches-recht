@@ -1,6 +1,6 @@
 ---
 name: klausel-lizenzumfang-territorium-zeit-feld
-description: "Lizenzumfang-Klausel: territorial (Schutzgebiete), zeitlich (Laufzeit, Beendigung), Anwendungsfeld (Field of Use). Mit Beispielklauseln fuer enge und weite Fassungen, Zweckuebertragungstheorie $ 31 V UrhG."
+description: "Wenn es um Klausel Lizenzumfang — Territorium, Zeit, Feld in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klausel Lizenzumfang — Territorium, Zeit, Feld

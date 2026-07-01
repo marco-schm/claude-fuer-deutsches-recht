@@ -1,6 +1,6 @@
 ---
 name: anfechtungsklage
-description: "Anfechtungsklage nach § 42 Abs: 1 VwGO gegen Verwaltungsakt formulieren: Mandant hat Widerspruchsbescheid erhalten oder Vorverfahren entfaellt. Normen: § 42 Abs. 1 VwGO (Statthaftigkeit), § 42 Abs. 2 VwGO (Klagebefugnis mögli..."
+description: "Wenn es um Anfechtungsklage nach Paragraf 42 Abs in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anfechtungsklage nach § 42 Abs

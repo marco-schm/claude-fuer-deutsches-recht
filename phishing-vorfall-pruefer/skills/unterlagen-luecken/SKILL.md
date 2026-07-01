@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Phishing-Vorfall-Prüfer: trennt fehlende Tatsachen von fehlenden Belegen (Vorfallsbericht, Logs, Bank-Korrespondenz), nennt pro Lücke Beweisthema, Beschaffungsweg (BSI), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

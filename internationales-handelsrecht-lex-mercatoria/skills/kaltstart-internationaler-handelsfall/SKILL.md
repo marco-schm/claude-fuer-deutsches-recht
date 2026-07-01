@@ -1,6 +1,6 @@
 ---
 name: kaltstart-internationaler-handelsfall
-description: "Internationales Handelsrecht: Einstieg in grenzüberschreitende Handelsfälle. CISG Art. 1-13 Anwendungsbereich, Incoterms 2020 Risikoübergang, ICC-Schiedsklausel und Rom I-Rechtswahl als Erstdiagnose-Rahmen für internationale Kaufverträge."
+description: "Wenn es um Kaltstart: Internationaler Handelsfall in Internationales Handelsrecht und Lex Mercatoria geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart: Internationaler Handelsfall

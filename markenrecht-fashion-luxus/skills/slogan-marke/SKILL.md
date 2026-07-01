@@ -1,6 +1,6 @@
 ---
 name: slogan-marke
-description: "Slogan-Marken und Kampagnenclaims prüfen: Unterscheidungskraft, Werbeaussage, beschreibender Charakter, Hashtag, Wort-Bild-Strategie, Verkehrsdurchsetzung und Beanstandungsantwort im Markenrecht Fashion Luxus."
+description: "Wenn es um Slogan-Marken für Luxus-Mode in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Slogan-Marken für Luxus-Mode

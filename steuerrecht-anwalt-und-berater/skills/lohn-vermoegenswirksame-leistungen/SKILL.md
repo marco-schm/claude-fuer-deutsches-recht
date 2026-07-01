@@ -1,6 +1,6 @@
 ---
 name: lohn-vermoegenswirksame-leistungen
-description: "Vermögenswirksame Leistungen VL AG-Anteil AN-Sparzulage. Anwendungsfall AG-Zuschuss bis 480 EUR jaehrlich AN-Sparzulage einkommensabhaengig Bausparen Aktien-Fonds. Methodik Prüfung Antrag AN-Sparzulage Beratung. Output VL-Konfiguration."
+description: "Wenn es um Vermögenswirksame Leistungen (VL) und AN-Sparzulage in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vermögenswirksame Leistungen (VL) und AN-Sparzulage

@@ -1,6 +1,6 @@
 ---
 name: cluster-und-systemmaerkte
-description: "Behörde oder Gegenseite argumentiert mit Cluster-Markt oder Aftermarkt-Doktrin oder Mandant will dies nutzen. Prüft Cluster-Maerkte Buendelung nicht-substitutiver Produkte und Systemmaerkte Primaermarkt plus Aftermarkt. Normen Art. 102 AEUV § 18 GWB § 19 GWB EuGH-Rspr zu Aftermarkt. Prüfraster Pe..."
+description: "Wenn es um Cluster- und Systemmärkte in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cluster- und Systemmärkte

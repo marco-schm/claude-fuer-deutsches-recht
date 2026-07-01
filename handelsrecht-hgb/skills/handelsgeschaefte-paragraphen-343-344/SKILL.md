@@ -1,6 +1,6 @@
 ---
 name: handelsgeschaefte-paragraphen-343-344
-description: "Prüft beiderseitige/einseitige Handelsgeschäfte und Vermutung geschäftlicher Zugehörigkeit im Handelsrecht Hgb."
+description: "Wenn es um Handelsgeschäfte Paragrafen 343. 344 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsgeschäfte §§ 343, 344 HGB

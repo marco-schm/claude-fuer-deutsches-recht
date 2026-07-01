@@ -1,6 +1,6 @@
 ---
 name: livecheck-sg-wbo-wdo-wpflg-svg
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck SG WBO WDO WPflG SVG."
+description: "Wenn es um Livecheck SG WBO WDO WPflG SVG in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Livecheck SG WBO WDO WPflG SVG

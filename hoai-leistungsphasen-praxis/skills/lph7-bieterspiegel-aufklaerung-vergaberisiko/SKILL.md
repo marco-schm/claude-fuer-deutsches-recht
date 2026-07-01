@@ -1,6 +1,6 @@
 ---
 name: lph7-bieterspiegel-aufklaerung-vergaberisiko
-description: "HOAI-Fachfrage LPH 7: Bieterspiegel, Angebotsprüfung, Aufklärung, ungewöhnlich niedrige Preise, Nebenangebote, Vergabevorschlag und Haftungsrisiko der Mitwirkung bei der Vergabe prüfen im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 7 Bieterspiegel, Aufklärung Und Vergaberisiko in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # LPH 7 Bieterspiegel, Aufklärung Und Vergaberisiko

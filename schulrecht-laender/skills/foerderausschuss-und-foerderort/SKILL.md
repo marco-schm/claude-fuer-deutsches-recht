@@ -1,6 +1,6 @@
 ---
 name: foerderausschuss-und-foerderort
-description: "Prüft Förderausschuss, Förderort, Inklusionsentscheidung und Beteiligungsrechte im Schulrecht Länder."
+description: "Wenn es um Förderausschuss und Förderort in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Förderausschuss und Förderort

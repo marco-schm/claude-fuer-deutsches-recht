@@ -1,6 +1,6 @@
 ---
 name: beschlussvorlagen-partei
-description: "Formuliert Beschlüsse, Anträge, Satzungsänderungen, Geschäftsordnungsanträge und Verfahrensbeschlüsse."
+description: "Wenn es um Beschlussvorlagen Partei in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Beschlussvorlagen Partei; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Beschlussvorlagen Partei

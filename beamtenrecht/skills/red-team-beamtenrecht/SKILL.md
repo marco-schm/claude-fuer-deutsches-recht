@@ -1,6 +1,6 @@
 ---
 name: red-team-beamtenrecht
-description: "Red-Team gegen typische Fehler: falsches Landesrecht, falscher Status, übersehene Frist, unzulässiger Antrag, fehlende Glaubhaftmachung, falsche Besoldungsordnung."
+description: "Wenn es um Red Team Beamtenrecht in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red Team Beamtenrecht

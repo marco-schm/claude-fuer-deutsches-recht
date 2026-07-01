@@ -1,6 +1,6 @@
 ---
 name: investitionsschutz-verhandlung-vergleich-und-eskalation
-description: "Investitionsschutz: Verhandlung, Vergleich und Eskalation: Investitionsschutz: Verhandlung, Vergleich und Eskalation."
+description: "Wenn es um Investitionsschutz: Verhandlung, Vergleich und Eskalation in Fachanwalt Internationales Wirtschaftsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Investitionsschutz: Verhandlung, Vergleich und Eskalation

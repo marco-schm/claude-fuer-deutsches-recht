@@ -1,6 +1,6 @@
 ---
 name: ki-output-fuer-kunden
-description: "KI-Output für Kunden bei Solo-Selbstständigen: Nutzungsrechte, Haftung, Kennzeichnung, Datenschutz, Geheimnisschutz und Vertragsklauseln für KI-gestützte Arbeitsergebnisse."
+description: "Wenn es um digitale Werkzeuge-Output für Kunden in Solo-Selbstständige Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI-Output für Kunden

@@ -1,6 +1,6 @@
 ---
 name: bfsgv-schulung-fristennotiz-agentur-abnahme
-description: "Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg

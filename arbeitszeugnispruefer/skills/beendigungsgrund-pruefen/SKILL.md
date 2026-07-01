@@ -1,6 +1,6 @@
 ---
 name: beendigungsgrund-pruefen
-description: Pruefung der Beendigungsformulierung im Arbeitszeugnis auf kodierte Hinweise zum Trennungsanlass wie Eigenkundigung, Arbeitgeberkundigung oder Aufhebungsvertrag und Identifikation problematischer Distanz- oder Konfliktsignale.
+description: "Wenn es um Beendigungsgrund pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beendigungsgrund pruefen

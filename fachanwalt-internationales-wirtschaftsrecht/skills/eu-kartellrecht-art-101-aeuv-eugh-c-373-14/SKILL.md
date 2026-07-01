@@ -1,6 +1,6 @@
 ---
 name: eu-kartellrecht-art-101-aeuv-eugh-c-373-14
-description: "EU Kartellrecht Art 101 Aeuv EuGH C 373 14: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um EU Kartellrecht Art 101 Aeuv EuGH C 373 14 in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU Kartellrecht Art 101 Aeuv EuGH C 373 14

@@ -1,6 +1,6 @@
 ---
 name: output-vertragsentwurf-memo-anzeige
-description: "Output Vertragsentwurf Memo Anzeige: Fachlicher Fokus: Factoring als laufender Forderungsankauf, Vertrags- und Aufsichtsrecht, BaFin-Erlaubnisfragen, Abtretung, Debitorenschutz, Insolvenz, Bilanzierung und internationale Lieferkettenfinanzierung."
+description: "Wenn es um Output Vertragsentwurf Memo Anzeige in Factoring-Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Output Vertragsentwurf Memo Anzeige

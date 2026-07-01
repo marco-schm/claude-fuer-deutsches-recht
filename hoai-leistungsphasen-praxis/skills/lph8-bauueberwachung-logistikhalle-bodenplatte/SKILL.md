@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-logistikhalle-bodenplatte
-description: "Bauueberwachung nach HOAI LPH 8 für Logistikhallen mit hochbelasteten Industriebodenplatten — Freiflaechen-Beton nach DIN EN 13670 und TR Industrieboden, Ebenheitsanforderungen nach DIN 18202 Tabelle 3, Fugenloses Verlegen und Hartstoff-Einstreutechnik. Unterstuetzt Bauueberwacher bei Betonguetep..."
+description: "Wenn es um Bauueberwachung Logistikhalle Bodenplatte (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Logistikhalle Bodenplatte (LPH 8)

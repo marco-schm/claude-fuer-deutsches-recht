@@ -1,6 +1,6 @@
 ---
 name: ki-einsatz-bei-gutachten-mandatsseite
-description: "Großkanzlei-Mandatsseite bei KI-Verdacht gegenüber gerichtlichen oder vorgerichtlichen Sachverständigengutachten in Corporate-, M&A- und Schiedsverfahren. Strategische Prüfung der höchstpersönlichen Erstellungspflicht nach Paragraf 407a Abs. 1 ZPO, JVEG-Vergütungsmechanismen Paragraf 8a Abs. 2, Eskalationsstuf..."
+description: "Wenn es um digitale Werkzeuge-Einsatz bei Gutachten — Mandatsseite (Großkanzlei) in Großkanzlei Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # KI-Einsatz bei Gutachten — Mandatsseite (Großkanzlei)

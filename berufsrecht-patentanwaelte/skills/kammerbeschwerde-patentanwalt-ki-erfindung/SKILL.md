@@ -1,6 +1,6 @@
 ---
 name: kammerbeschwerde-patentanwalt-ki-erfindung
-description: "Patentanwälte: kammerbeschwerde patentanwalt - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Kammerbeschwerde Patentanwalt Ki Erfindung in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: kammerbeschwerde patentanwalt - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

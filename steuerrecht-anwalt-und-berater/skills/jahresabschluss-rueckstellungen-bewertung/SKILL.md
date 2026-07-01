@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-rueckstellungen-bewertung
-description: "Rückstellungen Bewertung § 249 HGB. Anwendungsfall Jahresabschluss Bildung Rückstellungen Garantie drohende Verluste Tantieme Urlaub Steuern Prozesskosten. Methodik Prüfung Anlass Quantifizierung Auflösung. Output Rückstellungs-Aufstellung."
+description: "Wenn es um Rueckstellungen — Bildung und Bewertung Paragraf 249 HGB in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rueckstellungen — Bildung und Bewertung § 249 HGB

@@ -1,6 +1,6 @@
 ---
 name: covenant-cyberangriff
-description: "Prüft Ad-hoc-Pflicht und Insiderrecht bei Covenant-Verletzungen in Kreditvertraegen: Wesentlichkeit, Kursrelevanz, Aufschub und Gläubiger-Kommunikation im Insiderrecht Compliance."
+description: "Wenn es um Covenant Breach – Insiderrecht und Ad-hoc-Pflicht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Covenant Breach – Insiderrecht und Ad-hoc-Pflicht

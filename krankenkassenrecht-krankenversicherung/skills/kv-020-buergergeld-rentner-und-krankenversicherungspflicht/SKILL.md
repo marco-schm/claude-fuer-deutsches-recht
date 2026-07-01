@@ -1,6 +1,6 @@
 ---
 name: kv-020-buergergeld-rentner-und-krankenversicherungspflicht
-description: "Krankenversicherung: Bürgergeld Rentner und Krankenversicherungspflicht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Bürgergeld Rentner und Krankenversicherungspflicht in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Bürgergeld Rentner und Krankenversicherungspflicht

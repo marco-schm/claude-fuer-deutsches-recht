@@ -1,6 +1,6 @@
 ---
 name: insolvenzrecht-liqui-sonderfall
-description: "Insolvenzrecht Liqui Sonderfall im Plugin Liquiditaetsplanung: prüft konkret Insolvenzrecht, Liqui, Liquiditaetsplanung."
+description: "Wenn es um Insolvenzrecht Liqui Sonderfall in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenzrecht Liqui Sonderfall

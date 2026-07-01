@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Betriebliche Altersversorgung im Konzern: ordnet Rolle (Arbeitgeber/Konzern, Arbeitnehmer, Betriebsrat), markiert Frist (Anpassungsprüfung alle 3 Jahre § 16 BetrAVG), wählt Norm (BetrAVG, § 1 BetrAVG Zusage, § 16 BetrAVG Anpassung) und Zuständigkeit (BaFin (PSV)),..."
+description: "Wenn es um Einstieg und Routing in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

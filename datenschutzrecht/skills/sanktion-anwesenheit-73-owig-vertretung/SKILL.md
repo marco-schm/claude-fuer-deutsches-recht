@@ -1,6 +1,6 @@
 ---
 name: sanktion-anwesenheit-73-owig-vertretung
-description: "Datenschutzrecht-Brückenskill: Anwesenheit und Entbindung § 73 OWiG: Erscheinenspflicht, Entbindung und Vertretung von Unternehmen und Organen im Termin steuern. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei e..."
+description: "Wenn es um Anwesenheit und Entbindung Paragraf 73 OWiG in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwesenheit und Entbindung § 73 OWiG

@@ -1,6 +1,6 @@
 ---
 name: ma-npl-portfolio-und-loan-to-own
-description: "Strukturiert NPL-Portfoliokauf, distressed secondary loan trade, enforcement und Debt-Equity-Strategie."
+description: "Wenn es um Big Law M&A: NPL Portfolio und Loan-to-own in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Big Law M&A: NPL Portfolio und Loan-to-own

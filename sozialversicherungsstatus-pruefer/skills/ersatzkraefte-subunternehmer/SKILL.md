@@ -1,6 +1,6 @@
 ---
 name: ersatzkraefte-subunternehmer
-description: "Prüft Einsatz eigener Mitarbeiter/Subunternehmer als Indiz für Selbständigkeit und rechtliche Nebenrisiken im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Ersatzkräfte und Subunternehmer in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Ersatzkräfte und Subunternehmer

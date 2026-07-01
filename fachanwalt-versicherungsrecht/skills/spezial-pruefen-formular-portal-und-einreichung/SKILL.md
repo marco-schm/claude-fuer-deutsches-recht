@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefen-formular-portal-und-einreichung
-description: "Pruefen: Formular, Portal und Einreichungslogik im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Pruefen: Formular, Portal und Einreichungslogik in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pruefen: Formular, Portal und Einreichungslogik

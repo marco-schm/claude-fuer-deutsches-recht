@@ -1,6 +1,6 @@
 ---
 name: mobbing-und-gewalt
-description: "Prüft Mobbing, Gewalt und Schutzpflichten der Schule im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Mobbing Und Gewalt in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mobbing Und Gewalt

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-zinswucher-291-stgb
-description: "Wucher § 291 StGB inkl: Mietwucher, Kreditwucher, Lohnwucher und Vermittlungswucher: Verteidigung bei Vorwurf der Ausbeutung einer Zwangslage, Unerfahrenheit, Urteilsschwaeche oder erheblichen Willensschwaeche zu auffaelligem Missver..."
+description: "Wenn es um Wucher Paragraf 291 StGB inkl in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wucher § 291 StGB inkl

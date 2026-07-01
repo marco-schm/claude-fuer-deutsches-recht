@@ -1,6 +1,6 @@
 ---
 name: spezial-zeitmietvertrag
-description: "Zeitmietvertrag: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Befristungsgrund, Mitteilung, Verlängerung, Kündigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Zeitmietvertrag in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zeitmietvertrag

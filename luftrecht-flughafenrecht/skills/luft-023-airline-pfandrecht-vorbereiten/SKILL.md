@@ -1,6 +1,6 @@
 ---
 name: luft-023-airline-pfandrecht-vorbereiten
-description: "Luftrecht und Flughafenrecht: Airline: Pfandrecht vorbereiten. Pfandrecht vorbereiten für Airline im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Airline Pfandrecht Vorbereiten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Airline Pfandrecht Vorbereiten

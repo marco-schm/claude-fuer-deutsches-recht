@@ -1,6 +1,6 @@
 ---
 name: agb-bei-digitalen-produkten-327f-update
-description: "AGB bei digitalen Produkten und § 327f BGB Update-Pflicht. Skill vertieft die AGB-rechtliche Behandlung von Update-Klauseln Aktualisierungspflichten Funktionsanpassungen sowie das Verhältnis zur Hauptleistungspflicht. Aktuelle BGH-Folgejudikate nach Inkrafttreten 01.01.2022. Behandelt Streaming..."
+description: "Wenn es um Agb Bei Digitalen Produkten 327F Update in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Bei Digitalen Produkten 327F Update

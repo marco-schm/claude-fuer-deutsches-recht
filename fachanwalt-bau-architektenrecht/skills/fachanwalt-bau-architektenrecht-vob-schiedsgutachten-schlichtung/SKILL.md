@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-vob-schiedsgutachten-schlichtung
-description: "VOB/B-Schiedsgutachten und Schlichtung als Alternative zum Bauprozess nutzen. Normen: §§ 18 Abs. 3 18b VOB/B, §§ 1025 ff. ZPO. Prüfraster: Schiedsgutachter-Auswahl, Bindungswirkung, Fristen, Abgrenzung Schiedsverfahren. Output: Schiedsgutachten-Antrag VOB/B. Abgrenzung: nicht staatliches Klageverfahren."
+description: "Wenn es um VOB-Schiedsgericht / SOBau / Schlichtung im Baurecht in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VOB-Schiedsgericht / SOBau / Schlichtung im Baurecht

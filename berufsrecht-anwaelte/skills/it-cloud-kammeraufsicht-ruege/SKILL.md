@@ -1,6 +1,6 @@
 ---
 name: it-cloud-kammeraufsicht-ruege
-description: "IT, Cloud, KI und Outsourcing: vertiefter Berufsrechts-Skill für Anwälte; prüft Berufsgeheimnis, Datenschutz, Anbieterprüfung, Logging und No-Training-Klauseln, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
+description: "Wenn es um IT, Cloud, digitale Werkzeuge und Outsourcing in Berufsrecht Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # IT, Cloud, KI und Outsourcing

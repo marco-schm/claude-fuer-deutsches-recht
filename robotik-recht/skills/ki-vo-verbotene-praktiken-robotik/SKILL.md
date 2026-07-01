@@ -1,6 +1,6 @@
 ---
 name: ki-vo-verbotene-praktiken-robotik
-description: "Prüft Manipulation, Vulnerabilität, Social Scoring, biometrische Kategorisierung und Emotionserkennung im Robotikkontext."
+description: "Wenn es um Verbotene Praktiken Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbotene Praktiken Robotik

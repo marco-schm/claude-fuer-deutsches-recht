@@ -1,6 +1,6 @@
 ---
 name: testlauf-beweislast-transaktionsmonitoring
-description: "Testlauf: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Testlauf: Beweislast, Darlegungslast und Substantiierung in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Testlauf: Beweislast, Darlegungslast und Substantiierung

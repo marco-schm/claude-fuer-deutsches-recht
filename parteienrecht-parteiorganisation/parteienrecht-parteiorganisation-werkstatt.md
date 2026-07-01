@@ -126,122 +126,58 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. Routet Transparenz, Zuwendungen, Spenden an Abgeordnete, Nebentätigkeiten und Verhaltensregeln.
+### 11.1. Abgeordnetengesetz Bund
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Live-Check für Landesabgeordnetengesetze, Transparenzregeln, Spenden, Nebentätigkeiten und Fristen.
+### 11.2. Abgeordnetengesetze Länder
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Erstellt Schreiben an Bundeswahlleiterin/Landeswahlleitung zu Anzeigen, Wahlvorschlägen, Fristen, Beanstandungen im Parteienrecht.
+### 11.3. Bundeswahlleiter-Kommunikation
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aufsicht Bundeswahlleiter Bef. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Erstellt Schreiben an Bundeswahlleiterin/Landeswahlleitung zu Anzeigen, Wahlvorschlägen, Fristen, Beanstandungen.
+### 11.4. Befangenheit und Sitzungsleitung
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Hilft bei Leitung, Interessenkonflikten, Ordnungsmaßnahmen, Redeliste und Abstimmungsleitung.
+### 11.5. Beitragsordnung Partei
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Beitragsordnung; Arbeitsfeld: Parteie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. Prüft Mitgliedsbeiträge, Mandatsträgerbeiträge, Ermäßigung, Mahnung, Transparenz und Satzungsgrundlage im Parteienrecht.
+### 11.6. Beschlussvorlagen Partei
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Beschlussvorlagen Partei; Arbeitsfe. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Formuliert Beschlüsse, Anträge, Satzungsänderungen, Geschäftsordnungsanträge und Verfahrensbeschlüsse.
+### 11.7. Bewerberzustimmung
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bewerberzustimmung; Arbeitsfeld: Parteien. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Formuliert Beschlüsse, Anträge, Satzungsänderungen, Geschäftsordnungsanträge und Verfahrensbeschlüsse im Parteienrecht.
+### 11.8. Daten und Parteiwechsel
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Erklärt Zustimmungserklärung, Wählbarkeit, Parteimitgliedschaft, Mehrfachkandidatur und Nachweise im Parteienrecht.
+### 11.9. Europawahl
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Europawahl Partei; Arbeitsfeld: Parteienrecht und. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Prüft Austritt, Wechsel, Listenbewerberstatus, Datenlöschung und Nachrückerfragen.
+### 11.10. Schnittstelle Fraktion/Partei
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fraktionsschnittstelle; Arbeit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Prüft Europawahl-Vorschläge, Bundes-/Landesliste, Vertreterversammlung, Formulare und Bundeswahlleiter-Kommunikation.
+### 11.11. Fristkalender Partei
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fristkalender Partei; Arbeitsfeld: Part. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Prüft Europawahl-Vorschläge, Bundes-/Landesliste, Vertreterversammlung, Formulare und Bundeswahlleiter-Kommunikation im Parteienrecht.
+### 11.12. Gebietsgliederung
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gebietsgliederung; Arbeitsfeld: Parteienre. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Trennt Partei, Fraktion, Mandat, Ressourcen, Personal, Spenden und Öffentlichkeitsarbeit im Parteienrecht.
+### 11.13. Geheime Abstimmung
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Geheime Abstimmung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Erstellt Fristenkalender für Versammlungen, Wahlvorschläge, Rechenschaft, Spendenmeldungen, Satzungsfristen.
+### 11.14. Geschäftsordnung Parteitag
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.15. Erstellt Fristenkalender für Versammlungen, Wahlvorschläge, Rechenschaft, Spendenmeldungen, Satzungsfristen im Parteienrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.16. Ordnet Bundes-, Landes-, Bezirks-, Kreis-, Ortsverband, Arbeitsgemeinschaften und Zuständigkeiten im Parteienrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.17. Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne, Auszählung und Dokumentation.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.18. Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne, Auszählung und Dokumentation im Parteienrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.19. Entwirft Geschäftsordnung, Redezeiten, Antragsberatung, Änderungsanträge, Abstimmungen und Ordnungsrufe.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.20. Prüft Infostand, Sondernutzung, Versammlungsrecht, Auflagen, Datenschutz und Haftung.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.21. Einstieg und Routing für formale Parteiorganisation: Satzung, Mitgliederrechte, Versammlungen, Wahlen, Wahlvorschläge, Parteigericht, Spenden und Rechenschaft.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.22. Begleitet Aufstellung Direktkandidat: wahlberechtigte Mitglieder, geheime Abstimmung, Niederschrift, Zustimmung, eidesstattliche Versicherung im Parteienrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.23. Begleitet Aufstellung Direktkandidat: wahlberechtigte Mitglieder, geheime Abstimmung, Niederschrift, Zustimmung, eidesstattliche Versicherung.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.24. Checkt Wählbarkeit, Mitgliedschaft, Zustimmung, Wohnsitzfragen soweit relevant, Unvereinbarkeiten und Unterlagen.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.25. Hilft Schatzmeisterei bei Belegen, Kasse, Konto, Vier-Augen-Prinzip, Quittungen, Jahresabschluss und Prüfung.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.26. Prüft wahlrechtlich zulässige Kooperationen, gemeinsame Listen, Wählergruppen und Satzung im Parteienrecht.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.27. Prüft wahlrechtlich zulässige Kooperationen, gemeinsame Listen, Wählergruppen und Satzung.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.28. Routet kommunale Mandatspflichten, Entschädigung, Transparenz und Trennung von Partei/Fraktion/Gemeinde.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.29. Routet Kommunalwahlrecht je Land: Wahlgebiet, Listen, Reservelisten, Wahlbezirk, Unterstützungsunterschriften und Fristen.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.30. Begleitet Landeslistenaufstellung: Delegierten-/Mitgliederversammlung, Reihenfolge, geheime Wahl, Unterlagen, Fristen, Landeswahlleiter.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

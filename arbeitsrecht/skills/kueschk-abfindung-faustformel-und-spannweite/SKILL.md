@@ -1,6 +1,6 @@
 ---
 name: kueschk-abfindung-faustformel-und-spannweite
-description: "Abfindung Kündigungsschutzklage: Faustformel halbes Bruttomonatsgehalt pro Beschäftigungsjahr: Spannweite von einem Viertel bis zu einem ganzen Bruttomonatsgeha..."
+description: "Wenn es um Kueschk Abfindung Faustformel Und Spannweite in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Abfindung Kündigungsschutzklage: Faustformel halbes Bruttomonatsgehalt pro Beschäftigungsjahr

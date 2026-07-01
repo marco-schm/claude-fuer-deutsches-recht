@@ -1,6 +1,6 @@
 ---
 name: international-klageerzwingung
-description: "Internationale Sachverhalte: Tatort, Zuständigkeit, Europol/Interpol nicht direkt, ausländische Behörden, Übersetzungen und Beweise im Strafanzeige-Vorbereitung."
+description: "Wenn es um Internationale Anzeigen und EU-Bezug in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Internationale Anzeigen und EU-Bezug

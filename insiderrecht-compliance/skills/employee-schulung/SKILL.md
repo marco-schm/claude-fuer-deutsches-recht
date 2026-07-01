@@ -1,6 +1,6 @@
 ---
 name: employee-schulung
-description: "Prüft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risiken: Closed Periods, Handelsverbote, automatische Plaene und Befreiungsmoeglichkeiten im Insiderrecht Compliance."
+description: "Wenn es um Mitarbeiteraktienprogramme (ESOP / LTIP / RSU) – Insiderrechtliche Risiken in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mitarbeiteraktienprogramme (ESOP / LTIP / RSU) – Insiderrechtliche Risiken

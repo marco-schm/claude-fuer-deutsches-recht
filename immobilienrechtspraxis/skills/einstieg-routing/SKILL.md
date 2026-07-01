@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Immobilienrechtspraxis: ordnet Rolle (Käufer, Verkäufer, Notar), markiert Frist (Vormerkung), wählt Norm (BGB §§ 433/873/925, GrEStG, GBO) und Zuständigkeit (Grundbuchamt), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Immobilienrechtspraxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

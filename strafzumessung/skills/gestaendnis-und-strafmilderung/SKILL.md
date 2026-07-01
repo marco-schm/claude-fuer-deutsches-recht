@@ -1,6 +1,6 @@
 ---
 name: gestaendnis-und-strafmilderung
-description: "Gestaendnis als Strafmilderungsgrund. Umfang Reichweite Glaubhaftigkeit. Differenzierung schlankes Gestaendnis vs. qualifiziertes Gestaendnis. Verbindung zu Reue und Wiedergutmachung. Wirkung in der Strafzumessung praktisch 25 bis 33 Prozent Rabatt; orientierender Faustwert. Doppelverwertung mit..."
+description: "Wenn es um Gestaendnis und Strafmilderung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gestaendnis und Strafmilderung

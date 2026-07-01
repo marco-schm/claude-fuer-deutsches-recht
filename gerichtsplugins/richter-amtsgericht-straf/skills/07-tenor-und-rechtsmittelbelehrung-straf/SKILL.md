@@ -1,6 +1,6 @@
 ---
 name: 07-tenor-und-rechtsmittelbelehrung-straf
-description: "Tenor: Schuldspruch, Strafausspruch, Nebenstrafen, Bewaehrung, Einziehung Paragraf 73 StGB, Kostenentscheidung Paragraf 465 StPO, Rechtsmittelbelehrung Berufung und Revision"
+description: "Wenn es um 07 Tenor und Rechtsmittelbelehrung Straf in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 07 Tenor und Rechtsmittelbelehrung Straf

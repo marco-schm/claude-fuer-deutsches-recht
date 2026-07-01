@@ -1,6 +1,6 @@
 ---
 name: finanzgerichtsbarkeit-geschichte
-description: "Deutsche Rechtsgeschichte: Geschichte der Finanzgerichtsbarkeit. Preussische Steuerbeschwerdekommissionen, Reichsabgabenordnung 1919, Finanzgerichte nach 1945 und FGO 1965 im Deutsche Rechtsgeschichte."
+description: "Wenn es um Finanzgerichtsbarkeit Geschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Finanzgerichtsbarkeit Geschichte

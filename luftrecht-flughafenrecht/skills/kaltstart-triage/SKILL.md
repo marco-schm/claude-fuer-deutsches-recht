@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Luftrecht und Flughafenrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
+description: "Wenn es um Luftrecht und Flughafenrecht - Allgemeiner Einstieg in Luftrecht und Flughafenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Luftrecht und Flughafenrecht - Allgemeiner Einstieg

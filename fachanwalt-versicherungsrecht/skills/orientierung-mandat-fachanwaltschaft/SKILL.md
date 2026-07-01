@@ -1,6 +1,6 @@
 ---
 name: orientierung-mandat-fachanwaltschaft
-description: "Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO: Anwendungsfall Kanzlei will Versicherungsmandat beurteilen oder Anwalt bereitet sich..."
+description: "Wenn es um Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO

@@ -1,6 +1,6 @@
 ---
 name: inv-021-dawn-raid-playbook
-description: "Spezialskill fuer Dawn Raid Playbook: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Dawn Raid Playbook in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internal Investigation: Dawn Raid Playbook

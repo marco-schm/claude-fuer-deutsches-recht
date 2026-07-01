@@ -1,6 +1,6 @@
 ---
 name: spezial-buergerliches-abschlussprodukt-und-uebergabe
-description: "Buergerliches: Abschlussprodukt und Übergabe im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Buergerliches: Abschlussprodukt und Übergabe in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergerliches: Abschlussprodukt und Übergabe

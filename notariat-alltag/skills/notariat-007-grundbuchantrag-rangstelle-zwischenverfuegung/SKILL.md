@@ -1,6 +1,6 @@
 ---
 name: notariat-007-grundbuchantrag-rangstelle-zwischenverfuegung
-description: "Notariat im Alltag: Grundbuchantrag Rangstelle Zwischenverfuegung und Nachreichung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Notariat im Alltag: Grundbuchantrag Rangstelle Zwischenverfuegung und Nachreichung in Notariat im Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Grundbuchantrag Rangstelle Zwischenverfuegung und Nachreichung

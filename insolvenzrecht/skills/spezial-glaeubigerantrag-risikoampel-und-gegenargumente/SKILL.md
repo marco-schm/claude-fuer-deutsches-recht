@@ -1,6 +1,6 @@
 ---
 name: spezial-glaeubigerantrag-risikoampel-und-gegenargumente
-description: "Glaeubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin insolvenzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Glaeubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Glaeubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien

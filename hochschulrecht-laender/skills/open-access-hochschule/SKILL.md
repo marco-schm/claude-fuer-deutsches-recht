@@ -1,6 +1,6 @@
 ---
 name: open-access-hochschule
-description: "Prüft Open-Access-Pflichten, Zweitveröffentlichung, Rechtekette und Drittmittelvorgaben im Hochschulrecht Länder."
+description: "Wenn es um Open Access Hochschule in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Open Access Hochschule

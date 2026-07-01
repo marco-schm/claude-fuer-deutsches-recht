@@ -1,6 +1,6 @@
 ---
 name: einstellung-153a-hauptverhandlung
-description: "Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkeit ohne Auflage) § 153a StPO (mit Auflage) § 170 Abs. 2 StPO (Einstellung mangels hinreichenden Tatverdachts). Opportunitaetsprinzip. Zustimmungserfordernisse. BZR-Eintrag bei § 153a. Auflage-Wahl Geldbusse Sozialstunden TOA im Straf..."
+description: "Wenn es um Einstellung des Strafbefehlsverfahrens in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Einstellung des Strafbefehlsverfahrens

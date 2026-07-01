@@ -1,6 +1,6 @@
 ---
 name: quellenkritik-digesten-institutionen
-description: "Römisches Recht: Quellenkritik Digesten Und Institutionen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Quellenkritik Digesten Und Institutionen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quellenkritik Digesten Und Institutionen

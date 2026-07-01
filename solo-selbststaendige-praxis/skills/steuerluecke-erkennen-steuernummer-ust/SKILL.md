@@ -1,6 +1,6 @@
 ---
 name: steuerluecke-erkennen-steuernummer-ust
-description: "Solo-Selbstständige: ordnet Steuerschulden, Stundung, Vollstreckung und Kommunikation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Krise Schulden und Neustart: Ordnet steuerschulden in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krise Schulden und Neustart: Ordnet steuerschulden

@@ -1,6 +1,6 @@
 ---
 name: verl-social-media-rechtsfachzeitschrift
-description: "Social-Media-Beitrag fuer juristische Fachzeitschrift: Konzept fuer LinkedIn, Bluesky, Mastodon. Texttemplates, Bildvorgaben, Disclaimer, Werbekennzeichnung nach UWG und DDG."
+description: "Wenn es um Social-Media-Beitrag fuer Fachzeitschrift in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Social-Media-Beitrag fuer Fachzeitschrift

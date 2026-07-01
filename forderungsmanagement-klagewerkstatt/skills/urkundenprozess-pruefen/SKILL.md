@@ -1,6 +1,6 @@
 ---
 name: urkundenprozess-pruefen
-description: "Urkundenprozess Paragrafen 592-605 ZPO prüfen: Anspruch auf Zahlung auf Urkunden gestuetzt (Vertrag, Schuldschein, Wechsel, Scheck). Beschraenkung Beweismittel Urkunden + Parteivernehmung Paragraf 595 Abs. 2 ZPO. Vorbehaltsurteil Paragraf 599 ZPO mit Nachverfahren Paragraf 600 ZPO. Vorteil: schnelles vorlaeufig vollstreckba..."
+description: "Wenn es um Urkundenprozess in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Urkundenprozess

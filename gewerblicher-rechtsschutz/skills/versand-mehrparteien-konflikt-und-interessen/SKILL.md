@@ -1,6 +1,6 @@
 ---
 name: versand-mehrparteien-konflikt-und-interessen
-description: "Mehrparteienkonstellationen im gewerblichen Rechtsschutz: Lizenzgeber/Lizenznehmer, Konzernstrukturen, Abnehmer-Klagen, Kettenverletzungen und Konflikt zwischen mehreren Schutzrechtsinhabern. Interessenkonflikte und Mandatsgrenzen im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Mehrparteien-Konstellationen und Interessenkonflikte in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Spezial: Mehrparteien-Konstellationen und Interessenkonflikte

@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-beschwerde-betroffener-behoerdenverfahren
-description: "Datenschutzrecht-Brückenskill: Beschwerde eines Betroffenen als Auslöser: Art.-77-Beschwerde, Behördenprüfung, Betroffenenkommunikation und Art.-82-Folgerisiko sauber steuern: Datenschutzrecht-Brückenskill: Beschwerde eines Betroffenen als Auslöser: Art.-77..."
+description: "Wenn es um Dsv Sanktion Beschwerde Betroffener Behoerdenverfahren in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Beschwerde eines Betroffenen als Auslöser: Art.-77-Beschwerde, Behördenprüfung, Betroffenenkommunikation und Art.-82-Folgerisiko sauber steuern

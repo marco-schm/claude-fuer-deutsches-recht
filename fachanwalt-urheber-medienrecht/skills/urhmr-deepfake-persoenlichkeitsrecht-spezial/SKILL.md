@@ -1,6 +1,6 @@
 ---
 name: urhmr-deepfake-persoenlichkeitsrecht-spezial
-description: "Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht: Bildnisrechte §§ 22 ff: KUG, AI Act Transparenzpflicht, strafrechtliche Aspekte § 201a StGB. Prüfraster für Betr..."
+description: "Wenn es um Urhmr Deepfake Persoenlichkeitsrecht Spezial in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht: Bildnisrechte §§ 22 ff

@@ -1,6 +1,6 @@
 ---
 name: versicherung-p-i-hull
-description: "Mandant prüft Schiffsversicherungsschutz P&I (Protection & Indemnity) und H&M (Hull & Machinery): Deckungsabgrenzung; Club-Rules; Kollisions-Haftungsteilung (3/4 H&M vs. 1/4 P&I); Mortgagee Interest Insurance (MII); Both-to-Blame-Klausel. VVG §§ 28-30; DTV-Klauseln Kasko; IGP&I Group Agreement...."
+description: "Wenn es um Versicherung P&I und Hull & Machinery – Deckungsanalyse in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versicherung P&I und Hull & Machinery – Deckungsanalyse

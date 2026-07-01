@@ -1,6 +1,6 @@
 ---
 name: stgb-internationaler-bezug-und-schnittstellen
-description: "Stgb: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Stgb: Internationaler Bezug und Schnittstellen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Stgb: Internationaler Bezug und Schnittstellen

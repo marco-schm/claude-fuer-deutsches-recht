@@ -1,6 +1,6 @@
 ---
 name: compliance-dokumentation-und-akte
-description: "Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk: Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk."
+description: "Wenn es um Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk

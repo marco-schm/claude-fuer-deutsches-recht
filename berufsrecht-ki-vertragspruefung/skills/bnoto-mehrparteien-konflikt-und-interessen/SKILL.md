@@ -1,6 +1,6 @@
 ---
 name: bnoto-mehrparteien-konflikt-und-interessen
-description: "Bnoto: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Bnoto: Mehrparteienkonflikt und Interessenmatrix in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Bnoto: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: tier-082-tiertransport-behoerdenantrag-schreibe
-description: "Tierschutzrecht: Tiertransport: Behördenantrag schreiben. Behördenantrag schreiben für Tiertransport im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Tiertransport Behoerdenantrag Schreibe in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Tiertransport Behoerdenantrag Schreibe

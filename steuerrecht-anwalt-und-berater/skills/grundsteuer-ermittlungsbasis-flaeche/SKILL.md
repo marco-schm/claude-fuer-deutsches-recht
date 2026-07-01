@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-ermittlungsbasis-flaeche
-description: "Grundsteuer-Ermittlungsbasis prüfen: Wohnfläche, Nutzfläche, Grundstücksfläche, wirtschaftliche Einheit, Baujahr, Nutzung, Garagen, Stellplätze, Erbbaurecht, Teileigentum, Leerstand, Denkmalschutz und Schätzungen aus der Grundsteuererklärung herausarbeiten."
+description: "Wenn es um Grundsteuer: Ermittlungsbasis Fläche, Nutzung und wirtschaftliche Einheit in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Grundsteuer Ermittlungsbasis Flaeche; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Grundsteuer: Ermittlungsbasis Fläche, Nutzung und wirtschaftliche Einheit

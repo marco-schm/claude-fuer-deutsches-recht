@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Bau- und Architektenrecht: trennt fehlende Tatsachen von fehlenden Belegen (Bauvertrag, Pläne, Bautagebuch), nennt pro Lücke Beweisthema, Beschaffungsweg (Zivilgericht (LG meist)), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

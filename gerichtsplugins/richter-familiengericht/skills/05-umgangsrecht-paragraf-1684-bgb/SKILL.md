@@ -1,6 +1,6 @@
 ---
 name: 05-umgangsrecht-paragraf-1684-bgb
-description: "Umgangsverfahren Paragraf 1684 BGB i.V.m. Paragrafen 156 ff. FamFG: Wohl des Kindes, begleiteter Umgang, Umgangspflegschaft Paragraf 1684 Abs. 3, Vermittlungsverfahren Paragraf 165 FamFG, Eilanordnung"
+description: "Wenn es um 05 Umgangsrecht Paragraf 1684 Bgb in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 05 Umgangsrecht Paragraf 1684 Bgb

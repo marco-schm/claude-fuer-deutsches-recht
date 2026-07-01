@@ -1,6 +1,6 @@
 ---
 name: forderung-gegen-gesellschafter-13-gmbhg
-description: "Forderung gegen GmbH-Gesellschafter: Paragraf 19 sowie Paragraf 31 GmbHG (Einlagepflicht, Rueckforderung), Paragraf 13 Abs. 2 GmbHG Trennungsprinzip, Durchgriffshaftung bei existenzvernichtendem Eingriff (BGH II ZR 78/06). Pruefraster."
+description: "Wenn es um Forderung gegen Gesellschafter in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Forderung gegen Gesellschafter

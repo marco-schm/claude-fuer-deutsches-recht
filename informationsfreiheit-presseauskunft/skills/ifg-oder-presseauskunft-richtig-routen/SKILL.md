@@ -1,6 +1,6 @@
 ---
 name: ifg-oder-presseauskunft-richtig-routen
-description: "Informationsfreiheit und Presseauskunft: IFG oder Presseauskunft richtig routen. IFG oder Presseauskunft richtig routen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft:..."
+description: "Wenn es um Ifg Oder Presseauskunft Richtig Routen in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Ifg Oder Presseauskunft Richtig Routen

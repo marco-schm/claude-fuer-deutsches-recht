@@ -1,6 +1,6 @@
 ---
 name: protokoll-parteiversammlung
-description: "Erstellt formal belastbares Protokoll für Parteitag, Kreisversammlung, Aufstellung, Vorstand und Schiedsgericht."
+description: "Wenn es um Protokoll Parteiversammlung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Protokoll Parteiversammlung

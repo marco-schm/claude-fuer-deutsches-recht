@@ -1,6 +1,6 @@
 ---
 name: us-patent-us-vorbenutzungsrecht-paragraph
-description: "Orientiert deutsche Teams im US-Patentrecht: Patentability, claim drafting, IDS, office action, continuation, reissue, reexamination, IPR/PGR vor PTAB und Local-Counsel-Briefing im Patentrecht."
+description: "Wenn es um US-Patentrecht: USPTO und PTAB in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # US-Patentrecht: USPTO und PTAB

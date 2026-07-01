@@ -1,6 +1,6 @@
 ---
 name: deutsch-englisch-digitale-inhalte-handbuch
-description: "Output- und Streit-Skill für Deutsch Englisch AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen im AGB-Recht."
+description: "Wenn es um Deutsch Englisch AGB in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Deutsch Englisch Digitale Inhalte Handbuch; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Deutsch Englisch AGB

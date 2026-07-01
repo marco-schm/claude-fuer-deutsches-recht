@@ -1,6 +1,6 @@
 ---
 name: rueckfragebrief-an-anbieter
-description: "Erstelle einen strukturierten Rückfragebrief an den KI-Anbieter zur Klärung der berufsrechtlichen und strafrechtlichen Pflichten. Aufbau Anschreiben Kontext drei Fragenbloecke (Verschwiegenheit Subunternehmer TOM und Drittstaat) Fragen zu Zertifizierungen und Versprechungen Frist Unterschrift. K..."
+description: "Wenn es um Rückfragebrief an Anbieter in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rückfragebrief an Anbieter

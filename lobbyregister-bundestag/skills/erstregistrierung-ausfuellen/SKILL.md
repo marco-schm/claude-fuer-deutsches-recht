@@ -1,6 +1,6 @@
 ---
 name: erstregistrierung-ausfuellen
-description: "Führt Schritt für Schritt durch den Portal-Ersteintrag: Stammdaten, Personen, Tätigkeit, Finanzen, Vorhaben, Auftraege und Uploads. Output Eingabeplan im Lobbyregister Bundestag."
+description: "Wenn es um Erstregistrierung ausfuellen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstregistrierung ausfuellen

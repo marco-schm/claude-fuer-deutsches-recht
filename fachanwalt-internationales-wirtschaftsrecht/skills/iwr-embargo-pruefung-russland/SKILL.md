@@ -1,6 +1,6 @@
 ---
 name: iwr-embargo-pruefung-russland
-description: "Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014: Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermögen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compli..."
+description: "Wenn es um Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014 in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014

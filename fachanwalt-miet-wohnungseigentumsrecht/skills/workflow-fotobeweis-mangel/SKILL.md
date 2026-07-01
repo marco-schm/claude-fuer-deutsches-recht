@@ -1,6 +1,6 @@
 ---
 name: workflow-fotobeweis-mangel
-description: "Fotobeweis-Mangel: Prüfungslinie für Miet- und WEG-Recht: macht aus Fotos, Videos und Messungen einen beweisbaren Mangelvortrag; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbar..."
+description: "Wenn es um Fotobeweis-Mangel: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Fotobeweis-Mangel: Prüfungslinie für Miet- und WEG-Recht

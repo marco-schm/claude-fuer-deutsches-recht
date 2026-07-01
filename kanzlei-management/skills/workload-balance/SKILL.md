@@ -1,6 +1,6 @@
 ---
 name: workload-balance
-description: "Misst Überlast und Leerlauf nach Person, Team, Mandat und Woche: Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennz..."
+description: "Wenn es um Misst Überlast und Leerlauf nach Person, Team, Mandat und Woche in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Misst Überlast und Leerlauf nach Person, Team, Mandat und Woche

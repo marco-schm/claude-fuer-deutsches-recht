@@ -1,6 +1,6 @@
 ---
 name: explainer-beweislast-und-darlegungslast
-description: "Explainer: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Explainer: Beweislast, Darlegungslast und Substantiierung in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Explainer: Beweislast, Darlegungslast und Substantiierung

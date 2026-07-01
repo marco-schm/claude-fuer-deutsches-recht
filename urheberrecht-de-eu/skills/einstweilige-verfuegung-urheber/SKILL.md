@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung-urheber
-description: "Prüft Eilrechtsschutz, Dringlichkeit, Glaubhaftmachung, Verfügungsanspruch, Antrag und Vollziehung im Urheberrecht De Eu."
+description: "Wenn es um Einstweilige Verfügung im Urheberrecht in Urheberrecht DE EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Einstweilige Verfügung im Urheberrecht

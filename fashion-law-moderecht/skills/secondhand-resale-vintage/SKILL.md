@@ -1,6 +1,6 @@
 ---
 name: secondhand-resale-vintage
-description: "Secondhand, Resale und Vintage rechtlich prüfen: Erschöpfung, Authentizität, Reparatur, Markenimage, Plattformpflichten und Verbraucherschutz im Fashion Law Moderecht."
+description: "Wenn es um Secondhand Resale Vintage in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Secondhand Resale Vintage

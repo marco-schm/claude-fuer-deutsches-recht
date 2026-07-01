@@ -1,6 +1,6 @@
 ---
 name: inso-p085-aufnahme-von-aktivprozessen
-description: "§ 85 InsO (Aufnahme von Aktivprozessen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 85 InsO (Aufnahme von Aktivprozessen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge,..."
+description: "Wenn es um Inso P085 Aufnahme Von Aktivprozessen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 85 InsO (Aufnahme von Aktivprozessen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

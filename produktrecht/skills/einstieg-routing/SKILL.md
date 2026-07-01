@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Produktrecht (ProdSG/CE): ordnet Rolle (Hersteller, Importeur, Händler), markiert Frist (RAPEX-Meldung unverzüglich), wählt Norm (ProdSG, GPSR EU 2023/988, ProdHaftG) und Zuständigkeit (Marktüberwachung Länder), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Produkthaftung und Produktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

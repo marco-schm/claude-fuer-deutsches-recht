@@ -1,6 +1,6 @@
 ---
 name: wohnungseigentum-beschluss-paragraf-23-weg
-description: "Wohnungseigentum Beschluss § 23 weg: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Wohnungseigentum Beschluss Paragraf 23 weg in Fachanwalt Miet- und Wohnungseigentumsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnungseigentum Beschluss § 23 weg

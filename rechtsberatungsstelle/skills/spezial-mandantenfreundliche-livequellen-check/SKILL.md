@@ -1,6 +1,6 @@
 ---
 name: spezial-mandantenfreundliche-livequellen-check
-description: "Mandantenfreundliche: Livequellen- und Rechtsprechungscheck im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Mandantenfreundliche: Livequellen- und Rechtsprechungscheck in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantenfreundliche: Livequellen- und Rechtsprechungscheck

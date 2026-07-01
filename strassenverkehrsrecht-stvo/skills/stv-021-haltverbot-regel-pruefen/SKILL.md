@@ -1,6 +1,6 @@
 ---
 name: stv-021-haltverbot-regel-pruefen
-description: "Straßenverkehrsrecht StVO: Haltverbot: Regel prüfen. Regel prüfen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Haltverbot Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haltverbot Regel Pruefen

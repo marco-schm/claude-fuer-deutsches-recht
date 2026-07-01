@@ -1,6 +1,6 @@
 ---
 name: fruehwarnsystem-architektur-zwei-jahres-horizont
-description: "StaRUG-konformes Fruehwarnsystem mit 24-Monats-Horizont architektieren: Unternehmen will § 1 StaRUG Krisenfrueherkennung implementieren. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW S 6 (Sanierungsstandard), IDW PS 340 n.F. (Risikomanagement-Prüfung). Prüfraster: Risiko-Inventar, KPI-Kaskade,..."
+description: "Wenn es um Frühwarnsystem-Architektur mit Zwei-Jahres-Horizont in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frühwarnsystem-Architektur mit Zwei-Jahres-Horizont

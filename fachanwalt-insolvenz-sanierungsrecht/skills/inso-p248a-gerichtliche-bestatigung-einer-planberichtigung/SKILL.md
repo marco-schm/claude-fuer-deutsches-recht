@@ -1,6 +1,6 @@
 ---
 name: inso-p248a-gerichtliche-bestatigung-einer-planberichtigung
-description: "§ 248a InsO (Gerichtliche Bestätigung einer Planberichtigung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 248a InsO (Gerichtliche Bestätigung einer Planberichtigung) im Mandat prüfen:..."
+description: "Wenn es um Inso P248a Gerichtliche Bestatigung Einer Planberichtigung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 248a InsO (Gerichtliche Bestätigung einer Planberichtigung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

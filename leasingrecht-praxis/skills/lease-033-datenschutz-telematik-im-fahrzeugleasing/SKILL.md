@@ -1,6 +1,6 @@
 ---
 name: lease-033-datenschutz-telematik-im-fahrzeugleasing
-description: "Leasingrecht: Datenschutz Telematik im Fahrzeugleasing mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Datenschutz Telematik im Fahrzeugleasing in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Datenschutz Telematik im Fahrzeugleasing

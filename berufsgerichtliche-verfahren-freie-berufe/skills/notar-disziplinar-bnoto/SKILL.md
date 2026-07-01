@@ -1,6 +1,6 @@
 ---
 name: notar-disziplinar-bnoto
-description: "Notar Disziplinarverfahren BNotO: prüft Dienstaufsicht, Disziplinarverfahren, Amtsenthebung, Verwahrung und Urkundspflichten in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtliche Verfahren Frei..."
+description: "Wenn es um Notar Disziplinarverfahren BNotO in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notar Disziplinarverfahren BNotO

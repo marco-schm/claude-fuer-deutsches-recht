@@ -1,6 +1,6 @@
 ---
 name: kelsen-demokratie-verfahren
-description: "Prüft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtsschutz und die Grenze plebiszitaerer oder autoritaerer Direktlegitimation."
+description: "Wenn es um Demokratie als Verfahren und Minderheitenschutz in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Demokratie als Verfahren und Minderheitenschutz

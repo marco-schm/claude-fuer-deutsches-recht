@@ -1,6 +1,6 @@
 ---
 name: minijob-werkstudent-praktikum-payroll
-description: "Berliner Start-up-HR: Minijob, Werkstudent, Praktikum und Pflichtpraktikum für Payroll und Status sauber unterscheiden. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Minijob Werkstudent Praktikum Payroll in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Minijob Werkstudent Praktikum Payroll

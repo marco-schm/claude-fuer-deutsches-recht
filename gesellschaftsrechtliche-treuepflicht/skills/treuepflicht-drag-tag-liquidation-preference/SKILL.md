@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-drag-tag-liquidation-preference
-description: "Gesellschaftsrechtliche Treuepflicht: Treuepflicht Drag Tag Liquidation Preference; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Treuepflicht Drag Tag Liquidation Preference in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuepflicht Drag Tag Liquidation Preference

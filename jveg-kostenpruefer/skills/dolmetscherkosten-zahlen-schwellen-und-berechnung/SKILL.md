@@ -1,6 +1,6 @@
 ---
 name: dolmetscherkosten-zahlen-schwellen-und-berechnung
-description: "Dolmetscherkosten: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Dolmetscherkosten: Zahlen, Schwellenwerte und Berechnung in JVEG-Kostenprüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Dolmetscherkosten: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-schreibcanvas
-description: "Kanzlei-Anwalt schreibt SPA Replik Board Paper Mandatsvereinbarung DD-Report oder Registertext und braucht substanzorientierten Feedback-Begleiter. Normen BRAO § 43 Sorgfalt Zitierstandards. Prüfraster Sachverhalts-Unterlegung Quellenbelege Praezision Stil Vollständigkeit. Output Kommentierter-En..."
+description: "Wenn es um Freistehender Corporate-Schreibcanvas in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Freistehender Corporate-Schreibcanvas

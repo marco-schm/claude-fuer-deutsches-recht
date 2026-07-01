@@ -1,6 +1,6 @@
 ---
 name: luft-041-flugzeugleasing-zustaendigkeit-pruefen
-description: "Luftrecht und Flughafenrecht: Flugzeugleasing: Zuständigkeit prüfen. Zuständigkeit prüfen für Flugzeugleasing im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Flugzeugleasing Zustaendigkeit Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flugzeugleasing Zustaendigkeit Pruefen

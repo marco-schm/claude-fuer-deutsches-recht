@@ -1,6 +1,6 @@
 ---
 name: dawn-raid-inspection-factory
-description: "Dawn Raid und Fabrikinspektion in China: Verhalten bei unangekündigten Behördeninspektionen (SAMR, Zoll, Arbeitsbehörde, CAC), Rechte und Pflichten des Unternehmens CN, Anwaltszugang während Inspektion, Dokumentenherausgabe vs. Verweigerung, Kommunikationsstrategie, Eskalation Konsulat DE. Output..."
+description: "Wenn es um Dawn Raid China: Notfallprotokoll und Behördeninspektion in China-Wirtschaftsverkehr geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Dawn Raid China: Notfallprotokoll und Behördeninspektion

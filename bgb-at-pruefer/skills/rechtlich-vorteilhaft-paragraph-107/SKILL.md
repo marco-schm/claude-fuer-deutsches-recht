@@ -1,6 +1,6 @@
 ---
 name: rechtlich-vorteilhaft-paragraph-107
-description: "Klausurfall zu lediglich rechtlich vorteilhaften Rechtsgeschäften nach § 107 BGB: Minderjähriger erwirbt ohne Einwilligung des Vertreters, wenn das Geschäft keinen rechtlichen Nachteil bringt. Abgrenzung zu wirtschaftlichen Vorteilen, gemischte Rechtsgeschäfte und Schenkung mit Auflagen."
+description: "Wenn es um Lediglich rechtlich vorteilhaft — Paragraf 107 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Lediglich rechtlich vorteilhaft — § 107 BGB

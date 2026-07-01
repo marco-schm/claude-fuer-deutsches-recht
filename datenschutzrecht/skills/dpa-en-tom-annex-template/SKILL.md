@@ -1,6 +1,6 @@
 ---
 name: dpa-en-tom-annex-template
-description: "English language technical and organisational measures (TOM) annex template for a DPA under Article 32 GDPR. Covers pseudonymisation encryption confidentiality integrity availability resilience recoverability and regular testing. Output: complete English TOM annex template suitable for ISO 27001..."
+description: "Wenn es um TOM Annex – English Template (Article 32 GDPR) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # TOM Annex – English Template (Article 32 GDPR)

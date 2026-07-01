@@ -1,6 +1,6 @@
 ---
 name: bautraeger-finanzierungsgrundschuld-belastungsfolge
-description: "Bautraeger-Finanzierungsgrundschuld und Belastungsfolge: Skill klaert wie die Bautraegerfinanzierung mit der Erwerberzahlung verzahnt ist und welche Rolle die Globalgrundschuld spielt. Liefert Prüfra..."
+description: "Wenn es um Bautraeger-Finanzierungsgrundschuld und Belastungsfolge in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bautraeger-Finanzierungsgrundschuld und Belastungsfolge

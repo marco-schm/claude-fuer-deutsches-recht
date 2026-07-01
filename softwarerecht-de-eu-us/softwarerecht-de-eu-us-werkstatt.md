@@ -128,122 +128,58 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. Gestaltet Abnahme, Testfälle, UAT, Go-live, Teilabnahme, Fiktion und Mängelvorbehalte im Softwarerecht De Eu Us.
+### 11.1. Abnahme und Acceptance Tests
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Gestaltet agile Softwareverträge mit Backlog, Sprints, Product Owner, Budget, Abnahme und Scope-Kontrolle im Softwarerecht De Eu Us.
+### 11.2. Agile/Scrum-Vertrag
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Prüft KI-generierten Code, Trainingsrisiken, Output-Ownership, OSS-Leakage, Warranties und Entwickler-Policies im Softwarerecht De Eu Us.
+### 11.3. digitale Werkzeuge Code Generation IP
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Gestaltet Arbeitnehmerregeln für KI-gestützte Softwareentwicklung, Code Review, Geheimnisse, Datenschutz und Haftung im Softwarerecht De Eu Us.
+### 11.4. digitale Werkzeuge Pair Programming im Arbeitsverhältnis
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigk. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Entwirft API-/SDK-Lizenzen mit Rate Limits, Developer Terms, Datenrechten, Deprecation und Abuse Controls im Softwarerecht De Eu Us.
+### 11.5. API- und SDK-Lizenz
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. Prüft deutsche Arbeitnehmer-Software, automatische ausschließliche Nutzungsrechte des Arbeitgebers und Vertragsklauseln im Softwarerecht De Eu Us.
+### 11.6. Arbeitnehmer-Software Paragraf 69b UrhG
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachwei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Prüft abrufen-Rechte, Nachlizenzierung, Vertraulichkeit, Datenschutz, Kosten und Missbrauchsschutz im Softwarerecht De Eu Us.
+### 11.7. abrufen-Klauseln
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Gestaltet Beta-, Pilot- und Proof-of-Concept-Terms mit Vertraulichkeit, Feedback, Daten, Haftung und Go/No-Go im Softwarerecht De Eu Us.
+### 11.8. Beta Pilot PoC Termsheet
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Sichert Git, Tickets, Commits, Builds, Artefakte, CI/CD und Zugriffslogs für IP, Mängel und Streit im Softwarerecht De Eu Us.
+### 11.9. Beweissicherung Code Repository
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Prüft Bonus, VSOP, Equity, Retention, nachvertragliche Wettbewerbsverbote und IP-Retention bei Entwicklerteams im Softwarerecht De Eu Us.
+### 11.10. Bonus Equity Devs Non-Compete
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Kontrolliert Change Requests, Scope Creep, Mehrvergütung, Terminverschiebung und Governance im Softwarerecht De Eu Us.
+### 11.11. Change Requests und Scope Creep
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Erstellt globale Compliance-Matrix für Deutschland, EU, USA und weitere Märkte bei Softwareprodukten im Softwarerecht De Eu Us.
+### 11.12. Global Software Compliance Matrix
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Prüft Schutzgegenstand deutscher Computerprogramme, Ausdruck, Schnittstellen, Dokumentation, Vorbereitungsmaterial und Ausschlüsse im Softwarerecht De Eu Us.
+### 11.13. Computerprogramm-Schutz Paragraf 69a UrhG
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Entwirft CLA/DCO-Regeln für Open-Source-Projekte, Firmenbeiträge, Patent Grants und Maintainer-Governance im Softwarerecht De Eu Us.
+### 11.14. Contributor License Agreement
 
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.15. Baut Copyleft-Compliance für Softwareprodukte mit Linking, Containers, SaaS, Plugins und Kundenlieferungen im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.16. Prüft Data Act bei vernetzten Produkten, Softwarediensten, Cloud Switching, Datenzugang und unfair clauses im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.17. Prüft Datenlizenzen für Softwaretraining, Analytics, Benchmarking, KI, Produktverbesserung und Weitergabe im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.18. Prüft AVV/DPA, Rollen, Subprozessoren, TOMs, Drittlandtransfer, Telemetrie und Produktdaten im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.19. Prüft Datenbanken, Logdaten, Trainingsdaten, Telemetrie, Data Act und Rechte an Softwaredaten im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.20. Prüft Dekompilierung zur Interoperabilität, API-Reverse-Engineering, Vertragsverbote und EU/US-Unterschiede im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.21. Prüft DevOps-Verträge, CI/CD, Infrastructure as Code, Cloud Credentials, Betriebsverantwortung und abrufenierbarkeit im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.22. Prüft Dual-Licensing-Geschäftsmodelle, OSS-Core, Commercial License, Contributor-Rechte und Copyleft-Hebel im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.23. Prüft Signatur-, Trust-Service- und Identitätssoftware nach eIDAS, Beweiswert, qES und Anbieterrollen im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.24. Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, PatG und Schnittstelle zu Paragraf 69b UrhG im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.25. Entwirft Klauseln für deutsche angestellte Softwareingenieure zu Paragraf 69b, Nebentätigkeit, OSS, Geheimnissen, Erfindungen und Offboarding im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.26. Prüft komplexe Lizenzmetriken: Seats, named users, concurrent users, devices, cores, revenue, affiliates und API calls im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.27. Führt das Intake für eine komplette Softwareentwicklung vom Term Sheet bis Go-live und Post-Launch im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.28. Prüft Software mit KI-Funktionen nach Regulierungsrahmen, Zweckbestimmung, Hochrisiko, GPAI, Transparenz und Provider/Deployer-Rollen im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.29. Prüft EU-Richtlinie 2009/24/EG, Schutzumfang, Arbeitnehmerregel, Dekompilierung und Vertragsgrenzen im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
-
-### 11.30. Prüft CRA-Pflichten für Produkte mit digitalen Elementen, Security by Design, Vulnerabilities, CE und Updates im Softwarerecht De Eu Us.
-
-Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

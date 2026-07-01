@@ -1,6 +1,6 @@
 ---
 name: plan-kommandocenter
-description: "Insolvenzplan- oder StaRUG-Mandat starten Verfahrensroute bestimmen Ampelstatus setzen. §§ 217 218 InsO §§ 29 ff. StaRUG. Prüfraster: Rolle Verfahrensziel Datenraumstand Zahlenstand Stakeholder Fristen naechste Aktion. Output: Startvermerk Datenlückenliste priorisierte To-do-Liste. Abgrenzung: Tr..."
+description: "Wenn es um IV-integrierte Kommandocenter für Planverfahren in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IV-integrierte Kommandocenter für Planverfahren

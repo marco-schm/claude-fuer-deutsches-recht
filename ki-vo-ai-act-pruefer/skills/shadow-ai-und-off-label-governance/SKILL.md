@@ -1,6 +1,6 @@
 ---
 name: shadow-ai-und-off-label-governance
-description: "Shadow-AI und Off-label-Nutzung beherrschen: Wenn Mitarbeiter allgemeine Chatbots oder freigegebene KI-Tools entgegen Zweckbestimmung für Hochrisiko-nahe Aufgaben verwenden. Prüft Art. 3, Art. 6, Art. 25, Art. 26, Art. 50 KI-VO, Policy, Monitoring, Re-Evaluation und Beweisakte."
+description: "Wenn es um Shadow-digitale Werkzeuge und Off-label-Governance in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Shadow-AI und Off-label-Governance

@@ -1,6 +1,6 @@
 ---
 name: prokura-eintragung-rechtsabteilung
-description: "Prüft Einzel-/Gesamtprokura, Filialprokura, Gesamtvertretung, Widerruf, Publizität und Unterschriftenmuster im Handelsregister Praxis."
+description: "Wenn es um Prokura anmelden und löschen in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prokura anmelden und löschen

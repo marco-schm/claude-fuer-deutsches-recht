@@ -1,6 +1,6 @@
 ---
 name: extremismus-verdachtsfall-sicherheitsrecht
-description: "Extremismus Verdachtsfall Sicherheitsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Wenn es um Extremismus Verdachtsfall Sicherheitsrecht in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Extremismus Verdachtsfall Sicherheitsrecht

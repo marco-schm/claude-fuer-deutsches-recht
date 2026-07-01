@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-und-inklusion
-description: "Wahlkampfrecht Praxis: barrierearme Wahlkampfkommunikation und Veranstaltungen planen im Wahlkampfrecht."
+description: "Wenn es um Barrierefreiheit Und Inklusion in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Barrierefreiheit Und Inklusion

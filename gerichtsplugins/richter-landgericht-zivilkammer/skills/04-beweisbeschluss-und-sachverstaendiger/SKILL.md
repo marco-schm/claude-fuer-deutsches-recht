@@ -1,6 +1,6 @@
 ---
 name: 04-beweisbeschluss-und-sachverstaendiger
-description: "Beweisbeschluss Paragrafen 358-360 ZPO: Beweisthema, Beweismittel, Auswahl des Sachverständigen, Sachverständigenfragen, Vorschuss, Würdigung des Gutachtens Paragraf 286"
+description: "Wenn es um 04 Beweisbeschluss und Sachverständiger in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 04 Beweisbeschluss und Sachverständiger

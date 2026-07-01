@@ -1,6 +1,6 @@
 ---
 name: habilitation-hausrecht-campus-hochschularchiv
-description: "Prüft Habilitation und Lehrbefähigung im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Habilitation in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Habilitation

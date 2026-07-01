@@ -1,6 +1,6 @@
 ---
 name: einspruch-fristgerecht
-description: "Ordnungswidrigkeitenrecht: Einspruch fristgerecht einlegen. Einspruch fristgerecht einlegen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht."
+description: "Wenn es um Einspruch Fristgerecht Einlegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einspruch Fristgerecht Einlegen

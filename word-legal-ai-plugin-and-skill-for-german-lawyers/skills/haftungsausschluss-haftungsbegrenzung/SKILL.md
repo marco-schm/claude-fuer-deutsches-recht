@@ -1,6 +1,6 @@
 ---
 name: haftungsausschluss-haftungsbegrenzung
-description: "Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 BGB (Vorsatz nie ausschliessbar), § 309 Nr. 7 BGB (AGB-Klauselverbote für Vorsatz grobe Fahrlaessigkeit Kardinalpflichten Koerperschaden), § 444 BGB (arglistig verschwiegener Mangel), § 11 ProdHaftG (zwingend bei Person..."
+description: "Wenn es um Haftungsausschluss und Haftungsbegrenzung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Haftungsausschluss und Haftungsbegrenzung

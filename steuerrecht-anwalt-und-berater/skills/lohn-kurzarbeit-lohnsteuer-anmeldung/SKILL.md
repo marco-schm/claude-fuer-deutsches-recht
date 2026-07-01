@@ -1,6 +1,6 @@
 ---
 name: lohn-kurzarbeit-lohnsteuer-anmeldung
-description: "Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt für AN. Methodik Prüfung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnun"
+description: "Wenn es um Kurzarbeitergeld (KUG) — Anmeldung, Berechnung, Progression in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Lohn Kurzarbeit Lohnsteuer Anmeldung; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Kurzarbeitergeld (KUG) — Anmeldung, Berechnung, Progression

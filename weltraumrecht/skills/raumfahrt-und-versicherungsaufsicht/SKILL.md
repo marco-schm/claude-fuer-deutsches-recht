@@ -1,6 +1,6 @@
 ---
 name: raumfahrt-und-versicherungsaufsicht
-description: "Versicherungsaufsicht für Raumfahrtversicherungen – VAG, Solvency II, Rückversicherung im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Raumfahrt und Versicherungsaufsicht in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Raumfahrt und Versicherungsaufsicht

@@ -1,6 +1,6 @@
 ---
 name: digitalisierungstitel-sperre-bewerten
-description: "Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Sperre bewerten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Digitalisierungstitel Sperre Bewerten in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitalisierungstitel Sperre Bewerten

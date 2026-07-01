@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Zwangsverwaltung ZVG: trennt fehlende Tatsachen von fehlenden Belegen (Anordnungsbeschluss, Verwalterbericht, Mietsachen-Akte), nennt pro Lücke Beweisthema, Beschaffungsweg (Amtsgericht Vollstreckungsgericht), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

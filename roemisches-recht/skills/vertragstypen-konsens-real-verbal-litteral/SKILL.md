@@ -1,6 +1,6 @@
 ---
 name: vertragstypen-konsens-real-verbal-litteral
-description: "Römisches Recht: Vertragstypen nach Entstehungsmodus. Konsensualverträge, Realverträge, Verbalverträge/Stipulation und Litteralkontrakte; mit Kauf, mutuum, Zinsstipulation, Darlehen und moderner Rezeptionswarnung im Römisches Recht."
+description: "Wenn es um Vertragstypen: Konsens, Übergabe, Worte, Schrift in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertragstypen: Konsens, Übergabe, Worte, Schrift

@@ -1,6 +1,6 @@
 ---
 name: abschlussmemo-historische-tragfaehigkeit
-description: "Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer juristischen Argumentation. Prüft, ob historische Quellen eine heutige Rechtsposition tragen oder ob Anachronismus oder Lueckenbeweis vorliegt im Deutsche Rechtsgeschichte."
+description: "Wenn es um Abschlussmemo historische Tragfaehigkeit in Deutsche Rechtsgeschichte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Abschlussmemo historische Tragfaehigkeit

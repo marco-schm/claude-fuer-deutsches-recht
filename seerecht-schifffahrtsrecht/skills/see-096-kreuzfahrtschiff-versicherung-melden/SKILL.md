@@ -1,6 +1,6 @@
 ---
 name: see-096-kreuzfahrtschiff-versicherung-melden
-description: "See- und Schifffahrtsrecht: Kreuzfahrtschiff: Versicherung melden. Versicherung melden für Kreuzfahrtschiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kreuzfahrtschiff Versicherung Melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreuzfahrtschiff Versicherung Melden

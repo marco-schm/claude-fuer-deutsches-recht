@@ -1,6 +1,6 @@
 ---
 name: workflow-barrierefreiheit-weg-miete
-description: "Barrierefreiheit in Miete/WEG: Prüfungslinie für Miet- und WEG-Recht: prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills un..."
+description: "Wenn es um Barrierefreiheit in Miete/WEG: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Barrierefreiheit in Miete/WEG: Prüfungslinie für Miet- und WEG-Recht

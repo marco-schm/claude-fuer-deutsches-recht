@@ -1,6 +1,6 @@
 ---
 name: informationszugang-bremen-livecheck-hamburg-hessen
-description: "Informationsfreiheit und Presseauskunft: Informationszugang Bremen Livecheck. Informationszugang Bremen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: prüft..."
+description: "Wenn es um Informationszugang Bremen Livecheck in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Informationszugang Bremen Livecheck

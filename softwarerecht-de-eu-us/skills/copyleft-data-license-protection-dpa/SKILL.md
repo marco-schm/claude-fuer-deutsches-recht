@@ -1,6 +1,6 @@
 ---
 name: copyleft-data-license-protection-dpa
-description: "Baut Copyleft-Compliance für Softwareprodukte mit Linking, Containers, SaaS, Plugins und Kundenlieferungen im Softwarerecht De Eu Us."
+description: "Wenn es um Copyleft Compliance in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Copyleft Compliance

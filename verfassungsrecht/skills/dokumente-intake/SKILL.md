@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Verfassungsrecht: sortiert Letzter fachgerichtl. Beschluss, Verfassungsbeschwerde-Schriftsatz, Vorlagebeschluss, prüft Datum, Absender, Frist und Beweiswert (Tragende Erwägungen Vorinstanzen, Substantiierung Grundrechtsverletzung); markiert Lücken; berücksichtigt Mandatsgehei..."
+description: "Wenn es um Dokumentenintake in verfassungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

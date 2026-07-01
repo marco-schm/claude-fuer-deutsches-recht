@@ -1,6 +1,6 @@
 ---
 name: unfallversicherung-bg-anerkennung-sgb-vii
-description: "Streit mit der Berufsgenossenschaft SGB VII. Arbeitsunfall Wegeunfall Berufskrankheit Anerkennung MdE Rente Unfallrente. Praktischer Leitfaden für Versicherte."
+description: "Wenn es um Streit mit der Berufsgenossenschaft — SGB VII in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Streit mit der Berufsgenossenschaft — SGB VII

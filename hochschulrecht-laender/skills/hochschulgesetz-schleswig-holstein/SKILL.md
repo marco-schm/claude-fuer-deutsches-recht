@@ -1,6 +1,6 @@
 ---
 name: hochschulgesetz-schleswig-holstein
-description: "Prüft Hochschulrecht in Schleswig-Holstein mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder."
+description: "Wenn es um Hochschulgesetz Schleswig Holstein in Hochschulrecht der Bundesländer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Hochschulgesetz Schleswig Holstein

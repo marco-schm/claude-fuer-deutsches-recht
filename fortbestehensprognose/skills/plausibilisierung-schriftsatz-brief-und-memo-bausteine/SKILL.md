@@ -1,6 +1,6 @@
 ---
 name: plausibilisierung-schriftsatz-brief-und-memo-bausteine
-description: "Plausibilisierung: Schriftsatz-, Brief- und Memo-Bausteine im Fortbestehensprognose."
+description: "Wenn es um Plausibilisierung: Schriftsatz-, Brief- und Memo-Bausteine in Fortbestehensprognose geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Plausibilisierung: Schriftsatz-, Brief- und Memo-Bausteine

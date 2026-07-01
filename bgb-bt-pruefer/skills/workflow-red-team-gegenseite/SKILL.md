@@ -1,6 +1,6 @@
 ---
 name: workflow-red-team-gegenseite
-description: "Prüft die eigene Lösung aus Sicht der Gegenseite und findet schwache Anspruchsvoraussetzungen, Einwendungen und Beweisprobleme."
+description: "Wenn es um Red-Team Gegenseite BGB BT in BGB BT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Red-Team Gegenseite BGB BT
 

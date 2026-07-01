@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-antidumping-erstattung-review
-description: "Erstattung zu viel gezahlter Antidumping-Zoelle und Auslosung von Revisionsverfahren nach Art. 11 VO (EU) 2016/1036: Rueckerstattungsantrag (Art. 11 Abs. 8), Interim-Review und Sunset-Review. Prüft Fristen beim Hauptzollamt und EU-Kommission. Fallkonstellation: Importeur hat ueberhohten Antidump..."
+description: "Wenn es um Antidumping-Erstattung und Review: Margenkorrektur und Rueckforderung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Antidumping-Erstattung und Review: Margenkorrektur und Rueckforderung

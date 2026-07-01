@@ -1,6 +1,6 @@
 ---
 name: starug-tatbestand-beweis-und-belege
-description: "StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug..."
+description: "Wenn es um StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: anwaltsperspektive-dokumentenmatrix-und-lueckenliste
-description: "Dieses Skill erstellt aus anwaltlicher Perspektive eine systematische Dokumentenmatrix und Lückenliste für ein Mandat: Es zeigt, welche Un..."
+description: "Wenn es um Anwaltsperspektive Dokumentenmatrix Und Lückenliste in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Dieses Skill erstellt aus anwaltlicher Perspektive eine systematische Dokumentenmatrix und Lückenliste für ein Mandat

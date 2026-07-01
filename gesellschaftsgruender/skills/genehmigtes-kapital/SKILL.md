@@ -1,6 +1,6 @@
 ---
 name: genehmigtes-kapital
-description: "Genehmigtes Kapital für GmbH oder AG in Satzung aufnehmen: Ermaechtigungsbeschluss, Hoechstbetrag, Bezugsrechtsausschluss. Normen: Paragraf 55a GmbHG, Paragraf 202 ff. AktG. Prüfraster: Ermaechtigungsrahmen, Fristen, Bezugsrechte, Eintragungserfordernis. Output: Satzungsklausel genehmigtes Kapital. Abgrenzun..."
+description: "Wenn es um Genehmigtes Kapital (Paragraf 55a GmbHG) in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Genehmigtes Kapital (Paragraf 55a GmbHG)

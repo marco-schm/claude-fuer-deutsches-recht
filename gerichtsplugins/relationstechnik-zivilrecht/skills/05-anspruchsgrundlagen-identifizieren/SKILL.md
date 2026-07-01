@@ -1,6 +1,6 @@
 ---
 name: 05-anspruchsgrundlagen-identifizieren
-description: "Anspruchsgrundlagen aufstellen: vertraglich, vertragsaehnlich, dinglich, deliktisch, bereicherungsrechtlich; Anspruchssystem nach Larenz/Wolf"
+description: "Wenn es um 05 Anspruchsgrundlagen Identifizieren in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # 05 Anspruchsgrundlagen Identifizieren

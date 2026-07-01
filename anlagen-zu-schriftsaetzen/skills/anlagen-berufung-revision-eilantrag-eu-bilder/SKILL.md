@@ -1,6 +1,6 @@
 ---
 name: anlagen-berufung-revision-eilantrag-eu-bilder
-description: "Anlagen in Berufung und Revision: bisheriges Anlagenverzeichnis uebernehmen oder neu nummerieren? Empfehlung: Berufungsklaegeranlagen als BK1, BK2 ..., Berufungsbeklagter BB1, BB2 ... Revisionsanlagen sind ueblich nur ergaenzend; Schwerpunkt liegt auf den vom Tatrichter festgestellten Tatsachen i..."
+description: "Wenn es um Anlagen in Berufung/Revision in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anlagen in Berufung/Revision

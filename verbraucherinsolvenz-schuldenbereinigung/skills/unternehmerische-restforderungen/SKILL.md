@@ -1,6 +1,6 @@
 ---
 name: unternehmerische-restforderungen
-description: "Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft: Normanker: InsO § 304;..."
+description: "Wenn es um Unternehmerische Restforderungen in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft.

@@ -1,6 +1,6 @@
 ---
 name: luft-082-luftfracht-register-auswerten
-description: "Luftrecht und Flughafenrecht: Luftfracht: Register auswerten. Register auswerten für Luftfracht im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Luftfracht Register Auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Luftfracht Register Auswerten

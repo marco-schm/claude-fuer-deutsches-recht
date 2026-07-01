@@ -1,6 +1,6 @@
 ---
 name: vifr-aeg-bahnrecht-deutschlandticket
-description: "Leitfaden AEG und Bahnrecht: Eisenbahninfrastruktur, Trassenvergabe, Netzzugang, EBA als Aufsicht. Prüfraster für EVU und EIU im Verkehr Infrastrukturrecht."
+description: "Wenn es um ViFR: AEG-Bahnrecht in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ViFR: AEG-Bahnrecht

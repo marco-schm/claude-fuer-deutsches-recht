@@ -1,6 +1,6 @@
 ---
 name: btm-067-mdma-erlaubnis-pruefen
-description: "Betäubungsmittelrecht: MDMA: Erlaubnis prüfen. Erlaubnis prüfen für MDMA im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Mdma Erlaubnis Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mdma Erlaubnis Pruefen

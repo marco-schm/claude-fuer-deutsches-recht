@@ -1,6 +1,6 @@
 ---
 name: ce-zeichen-fehlgebrauch-und-abmahnung
-description: "Prüft CE-Kennzeichnung, irreführende Werbung, fehlende Unterlagen, Wettbewerbsrecht und Abmahnrisiken."
+description: "Wenn es um CE-Kennzeichnung, Fehlgebrauch und Abmahnung in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # CE-Kennzeichnung, Fehlgebrauch und Abmahnung

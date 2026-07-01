@@ -1,6 +1,6 @@
 ---
 name: insolvenzverwalter-fristen-form-und-zustaendigkeit
-description: "Insolvenzverwalter: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzverwaltung: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzverwaltung."
+description: "Wenn es um Insolvenzverwalter: Fristen, Form, Zuständigkeit und Rechtsweg in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenzverwalter: Fristen, Form, Zuständigkeit und Rechtsweg

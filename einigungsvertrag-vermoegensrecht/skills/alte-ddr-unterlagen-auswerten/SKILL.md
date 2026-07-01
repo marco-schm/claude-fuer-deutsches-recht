@@ -1,6 +1,6 @@
 ---
 name: alte-ddr-unterlagen-auswerten
-description: "Einigungsvertrag und Vermögensrecht: Alte DDR-Unterlagen auswerten. Alte DDR-Unterlagen auswerten im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Alte Ddr Unterlagen Auswerten in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Alte Ddr Unterlagen Auswerten

@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-veroeffentlichung-von-bussgeldentscheidungen
-description: "Datenschutzrecht-Brückenskill: Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern: Datenschutzrecht-Brückenskill: Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behö..."
+description: "Wenn es um Dsv Sanktion Veroeffentlichung Von Bussgeldentscheidungen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern

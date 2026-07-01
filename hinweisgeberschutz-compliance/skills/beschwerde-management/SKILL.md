@@ -1,6 +1,6 @@
 ---
 name: beschwerde-management
-description: "Grenzt Hinweis, Beschwerde, Grievance und HR-Konflikt ab im Hinweisgeberschutz Compliance."
+description: "Wenn es um Beschwerde Management in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschwerde Management

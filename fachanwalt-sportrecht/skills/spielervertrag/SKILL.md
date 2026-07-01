@@ -1,6 +1,6 @@
 ---
 name: spielervertrag
-description: "Fachanwalt Sportrecht Spielervertrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Sportrecht Spielervertrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtspre..."
+description: "Wenn es um Spielervertrag in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Spielervertrag; Arbeitsfeld: Fachanwalt Sportrecht."
 ---
 
 # Fachanwalt Sportrecht Spielervertrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

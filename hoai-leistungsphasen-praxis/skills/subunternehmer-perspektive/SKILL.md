@@ -1,6 +1,6 @@
 ---
 name: subunternehmer-perspektive
-description: "HOAI aus Subunternehmer- und Fachplanerperspektive: Informationsbedarf, Schnittstellen, Planlieferung, Prüfpflicht, Behinderung, Nachtrag und Haftungsabgrenzung."
+description: "Wenn es um Subunternehmer- und Fachplanerperspektive in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Subunternehmer- und Fachplanerperspektive

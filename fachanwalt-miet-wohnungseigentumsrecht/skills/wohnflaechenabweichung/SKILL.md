@@ -1,6 +1,6 @@
 ---
 name: wohnflaechenabweichung
-description: "Wohnflächenabweichung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Berechnung, Toleranz, Minderung, Mieterhöhung, Betriebskosten; mit Normprüfung, Beweisen, Fristen, Risikoampel..."
+description: "Wenn es um Wohnflächenabweichung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnflächenabweichung: Fachmodul im Miet- und Wohnungseigentumsrecht

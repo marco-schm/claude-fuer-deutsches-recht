@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-tax-warranty
-description: "Strukturierung von Tax Warranty und Tax Indemnity im SPA für Transaktionen mit Sanierungsgewinn-Risiko nach Paragraf 3a EStG. Adressiert die Verteilung des Risikos zwischen Verkäufer und Käufer für den Fall, dass die Steuerbefreiung versagt wird, dass die zwingende Verrechnungsreihenfolge nach Paragraf 3a Abs...."
+description: "Wenn es um Sanierungsgewinn – Tax Warranty und Tax Indemnity im SPA in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsgewinn – Tax Warranty und Tax Indemnity im SPA

@@ -1,6 +1,6 @@
 ---
 name: staedtebaulicher-vertrag-durchfuehrungsvertrag-12-baugb
-description: "Prueft Durchführungsverträge zum vorhabenbezogenen Bebauungsplan nach BauGB Paragraf 12: Vorhaben, Erschließung, Frist, Kosten, Durchführungsfähigkeit und Planbindung."
+description: "Wenn es um Durchführungsvertrag nach BauGB Paragraf 12 in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Durchführungsvertrag nach BauGB Paragraf 12

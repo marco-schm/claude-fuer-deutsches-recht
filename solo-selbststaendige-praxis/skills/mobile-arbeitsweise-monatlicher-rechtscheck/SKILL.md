@@ -1,6 +1,6 @@
 ---
 name: mobile-arbeitsweise-monatlicher-rechtscheck
-description: "Solo-Selbstständige: prüft Laptop, Handy, Messenger, Screenshots, WLAN und Kundendaten unterwegs; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Büro Alltag und Tools: Prüft laptop in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Büro Alltag und Tools: Prüft laptop

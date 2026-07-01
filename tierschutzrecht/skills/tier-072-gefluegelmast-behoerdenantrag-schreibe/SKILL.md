@@ -1,6 +1,6 @@
 ---
 name: tier-072-gefluegelmast-behoerdenantrag-schreibe
-description: "Tierschutzrecht: Geflügelmast: Behördenantrag schreiben. Behördenantrag schreiben für Geflügelmast im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Gefluegelmast Behoerdenantrag Schreibe in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gefluegelmast Behoerdenantrag Schreibe

@@ -1,6 +1,6 @@
 ---
 name: satellitenschwarm-ueber-deutschland-frequenz-kollision
-description: "Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland – Frequenzinterferenz, Kollisionswarnung, Datenschutz, Lichtverschmutzung im Weltraumrecht."
+description: "Wenn es um Satellitenschwarm über Deutschland Frequenz Kollision in Weltraumrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Weltraumrecht: Satellitenschwarm über Deutschland: Frequenz-, Kollisions- und Datenschutzrisiken

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-exportkontrolle-dual-use
-description: "Dual-Use-Prüfung für Gueter, Software und Technologie nach VO (EU) 2021/821 Anhang I und AWG §§ 8 ff: Gueterklassifizierung, Genehmigungspflicht, Catch-All nach Art. 4, Technologietransfer, BAFA-Genehmigungsantrag ueber ELAN-K2. Abgrenzung zu Rustungsguetern und Handelssanktionen. Output: Klassi..."
+description: "Wenn es um Dual-Use-Ausfuhrkontrolle: Klassifizierung und Genehmigungspfad in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dual-Use-Ausfuhrkontrolle: Klassifizierung und Genehmigungspfad

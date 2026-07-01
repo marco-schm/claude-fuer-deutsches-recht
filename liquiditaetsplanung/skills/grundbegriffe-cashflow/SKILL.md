@@ -1,6 +1,6 @@
 ---
 name: grundbegriffe-cashflow
-description: "Liquiditaetsplanung Grundbegriffe: Cashflow vs. Gewinn, indirekte vs. direkte Methode, Liquiditaet 1./2./3. Grades, Working Capital. Abgrenzung zur GuV-Planung. Empfehlung: direkte Methode für 13-Wochen-Forecast, indirekte für Jahresplanung."
+description: "Wenn es um Liquiditaetsplanung: Grundbegriffe in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Liquiditaetsplanung: Grundbegriffe

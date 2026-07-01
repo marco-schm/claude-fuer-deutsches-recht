@@ -1,6 +1,6 @@
 ---
 name: kirchensteuer-und-staatskirchenrecht
-description: "Kirchensteuer und Staatskirchenrecht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Wenn es um Kirchensteuer und Staatskirchenrecht in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kirchensteuer und Staatskirchenrecht

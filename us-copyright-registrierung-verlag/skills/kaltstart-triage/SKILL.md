@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Kaltstart und Routing für deutsche Verlage: Werkklasse, Rechtekette, Antragstyp, Gebühren, Deposit, Versand, Monitoring und Aktenvermerk in einer belastbaren US-Registrierungsakte."
+description: "Wenn es um Allgemein in US Copyright Act und Registrierung für deutsche Verlage geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Allgemein

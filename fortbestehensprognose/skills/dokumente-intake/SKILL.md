@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Fortbestehensprognose StaRUG/InsO: sortiert Liquiditätsplan 24 Monate, Erfolgsplan, Bilanz, prüft Datum, Absender, Frist und Beweiswert (Bankbestätigungen, Forderungslisten); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

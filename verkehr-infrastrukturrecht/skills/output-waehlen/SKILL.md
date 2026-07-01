@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Verkehr-Infrastrukturrecht: stimmt Adressat (Träger Planungshoheit, Behörde, Betroffene Anwohner), Frist (Klagefrist Planfeststellung) und Form auf den Zweck ab — typische Outputs: Einwendung, Klage gegen Planfeststellungsbeschluss, Stellungnahme."
+description: "Wenn es um Output wählen in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

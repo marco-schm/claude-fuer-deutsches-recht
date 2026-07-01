@@ -1,6 +1,6 @@
 ---
 name: inso-p037-gesamtgut-bei-gutergemeinschaft
-description: "§ 37 InsO (Gesamtgut bei Gütergemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 37 InsO (Gesamtgut bei Gütergemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Recht..."
+description: "Wenn es um Inso P037 Gesamtgut Bei Gutergemeinschaft in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 37 InsO (Gesamtgut bei Gütergemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

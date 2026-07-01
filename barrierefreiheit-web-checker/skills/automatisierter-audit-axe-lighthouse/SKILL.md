@@ -1,6 +1,6 @@
 ---
 name: automatisierter-audit-axe-lighthouse
-description: "Ordnet automatisierte Accessibility-Scans mit axe, Lighthouse, Pa11y oder ähnlichen Tools ein. Erklärt Treffer, False Positives, False Negatives, manuelle Nachprüfung und Entwickler-Tickets. Output: Scanner-Auswertung im Barrierefreiheit Web Checker."
+description: "Wenn es um Automatisierter Audit in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Automatisierter Audit

@@ -1,6 +1,6 @@
 ---
 name: joint-venture-trade-manufacturing-agreement-oem
-description: "Internationales Handelsrecht: Joint Venture im internationalen Handel. Contractual JV vs. Incorporated JV, Governance (Deadlock), Gewinnverteilung, IP-Schutz im JV, Ausstiegsrechte und kartellrechtliche Fragen (EU-Fusionskontrolle, Vollfunktions-JV) im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Joint Venture im internationalen Handel in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Joint Venture im internationalen Handel

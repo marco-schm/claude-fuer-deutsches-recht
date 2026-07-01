@@ -1,6 +1,6 @@
 ---
 name: persoenliches-budget-29-sgb-ix
-description: "Persoenliches Budget nach § 29 SGB IX. Skill klaert die Voraussetzungen das trager-uebergreifende Budget Verwaltung Beratungsanspruch und typische Anwendungsfaelle (Assistenz Mobilitaet Wohnen). Liefert Antragsvorlage."
+description: "Wenn es um Persoenliches Budget 29 Sgb Ix in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Persoenliches Budget 29 Sgb Ix

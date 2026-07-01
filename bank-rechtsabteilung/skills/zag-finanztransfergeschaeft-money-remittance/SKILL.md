@@ -1,6 +1,6 @@
 ---
 name: zag-finanztransfergeschaeft-money-remittance
-description: "Finanztransfergeschäft und Money Remittance nach ZAG prüfen: Weiterleitung von Geldbeträgen ohne Zahlungskonto, Agentenmodelle, Plattformfälle, Bargeld, Ausnahmen und BaFin-Erlaubnisrisiko im Bank-Rechtsabteilung."
+description: "Wenn es um Finanztransfergeschäft / Money Remittance nach ZAG in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Finanztransfergeschäft / Money Remittance nach ZAG

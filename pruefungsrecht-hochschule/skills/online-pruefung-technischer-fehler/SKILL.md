@@ -1,6 +1,6 @@
 ---
 name: online-pruefung-technischer-fehler
-description: "Prüft technische Fehler in Online-Prüfungen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Online Pruefung Technischer Fehler in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Online Pruefung Technischer Fehler

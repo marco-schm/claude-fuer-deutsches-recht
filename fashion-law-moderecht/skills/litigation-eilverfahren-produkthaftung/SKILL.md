@@ -1,6 +1,6 @@
 ---
 name: litigation-eilverfahren-produkthaftung
-description: "Litigation und Eilverfahren im Fashion-Bereich: Dringlichkeit, Saisonware, Messe, Plattformlisting, Designvergleich, Glaubhaftmachung und Vergleich im Fashion Law Moderecht."
+description: "Wenn es um Litigation Und Eilverfahren Fashion in fashion-law-moderecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Litigation Und Eilverfahren Fashion

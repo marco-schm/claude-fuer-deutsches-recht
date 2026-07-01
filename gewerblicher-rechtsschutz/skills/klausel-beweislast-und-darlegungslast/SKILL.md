@@ -1,6 +1,6 @@
 ---
 name: klausel-beweislast-und-darlegungslast
-description: "Beweislast und Darlegungslast im gewerblichen Rechtsschutz: Wer muss was beweisen bei Marken-, Patent-, Design-, Urheber- und UWG-Verletzungen? Beweislastumkehr, sekundäre Darlegungslast, Beweiserleichterungen und praktische Konsequenzen im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Klausel – Beweislast und Darlegungslast im IP-Recht in Plugin: Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Spezial: Klausel – Beweislast und Darlegungslast im IP-Recht

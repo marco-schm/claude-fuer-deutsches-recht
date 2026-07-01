@@ -1,6 +1,6 @@
 ---
 name: betreuung-im-strafverfahren
-description: "Betreuung im Strafverfahren des Betroffenen: Schuldfaehigkeit nach §§ 20 und 21 StGB, Verteidigerbestellung, Vertretung Betreuer im Hauptverfahren. Schnittstelle Strafrecht und Betreuungsrecht."
+description: "Wenn es um Betreuung im Strafverfahren in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuung Im Strafverfahren; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Betreuung im Strafverfahren

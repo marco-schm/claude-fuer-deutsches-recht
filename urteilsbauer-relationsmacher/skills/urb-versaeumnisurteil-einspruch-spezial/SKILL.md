@@ -1,6 +1,6 @@
 ---
 name: urb-versaeumnisurteil-einspruch-spezial
-description: "Spezialfall Versaeumnisurteil und Einspruch §§ 330 ff. ZPO: Voraussetzungen, Einspruchsfrist, Kosten, Tenor. Prüfraster für Kläger und Beklagter."
+description: "Wenn es um Urb: Versaeumnisurteil Einspruch in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Urb: Versaeumnisurteil Einspruch

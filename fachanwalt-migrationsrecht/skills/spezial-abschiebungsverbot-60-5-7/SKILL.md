@@ -1,6 +1,6 @@
 ---
 name: spezial-abschiebungsverbot-60-5-7
-description: "Abschiebungsverbot § 60 Abs. 5/7: Spezial-Skill im Migrationsrecht; prüft EMRK, Krankheit, Existenzminimum, individuelle Gefahr; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Abschiebungsverbot Paragraf 60 Abs. 5/7 in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abschiebungsverbot § 60 Abs. 5/7

@@ -1,6 +1,6 @@
 ---
 name: erfuellungsaufwand-grundbegriff
-description: "Definiert den Grundbegriff Erfuellungsaufwand nach NKRG GGO § 44 und HdR. Trennt den Begriff von benachbarten Konzepten (Buerokratiekosten Vollzugskosten Haushaltskosten Folgekosten Sachkosten). Liefert die Standarddefinition wie sie in jeder NKR-Stellungnahme zugrunde gelegt wird sowie methodisc..."
+description: "Wenn es um NKR-Erfuellungsaufwand — Grundbegriff in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NKR-Erfuellungsaufwand — Grundbegriff

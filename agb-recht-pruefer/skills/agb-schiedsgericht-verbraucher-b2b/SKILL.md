@@ -1,6 +1,6 @@
 ---
 name: agb-schiedsgericht-verbraucher-b2b
-description: "Klausel-Fachmodul für Schiedsgericht: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um Schiedsgericht in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Schiedsgericht Verbraucher B2b; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Schiedsgericht

@@ -1,6 +1,6 @@
 ---
 name: fuehrungszeugnis-zweifel
-description: "Erklärt begrenzte Anforderung eines Führungszeugnisses bei Zweifeln im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Führungszeugnis bei Zweifeln in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Führungszeugnis bei Zweifeln

@@ -1,6 +1,6 @@
 ---
 name: sprachzertifikate
-description: "Sprachzertifikate: Fachmodul im Migrationsrecht: prüft anerkanntes Zertifikat, Niveau, Ausnahmen, Härtefälle; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Sprachzertifikate: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sprachzertifikate: Fachmodul im Migrationsrecht

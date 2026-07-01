@@ -1,6 +1,6 @@
 ---
 name: versorger-fristen-form-und-zustaendigkeit
-description: "Versorger: Fristen, Form, Zuständigkeit und Rechtsweg im Energierecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Versorger: Fristen, Form, Zuständigkeit und Rechtsweg in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versorger: Fristen, Form, Zuständigkeit und Rechtsweg

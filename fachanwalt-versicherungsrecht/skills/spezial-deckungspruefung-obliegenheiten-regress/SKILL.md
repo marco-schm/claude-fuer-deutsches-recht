@@ -1,6 +1,6 @@
 ---
 name: spezial-deckungspruefung-obliegenheiten-regress
-description: "Deckungsprüfung, Obliegenheiten und Regressrisiko: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output."
+description: "Wenn es um Deckungsprüfung, Obliegenheiten und Regressrisiko in Fachanwalt Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deckungsprüfung, Obliegenheiten und Regressrisiko

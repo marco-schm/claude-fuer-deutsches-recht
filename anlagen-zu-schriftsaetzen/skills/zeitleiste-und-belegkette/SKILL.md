@@ -1,6 +1,6 @@
 ---
 name: zeitleiste-und-belegkette
-description: "Baut aus Anlagen eine Chronologie und zeigt zu jedem Ereignis, welcher Beleg trägt, welcher nur plausibilisiert und welcher fehlt."
+description: "Wenn es um Zeitleiste und Belegkette in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Zeitleiste und Belegkette

@@ -1,6 +1,6 @@
 ---
 name: selbstanzeige-mandat-risiko-organisationspflicht
-description: "Steuerberater: selbstanzeige mandat risiko - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Selbstanzeige Mandat Risiko Organisationspflicht in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: selbstanzeige mandat risiko - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

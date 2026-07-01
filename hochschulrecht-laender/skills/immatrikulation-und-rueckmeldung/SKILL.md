@@ -1,6 +1,6 @@
 ---
 name: immatrikulation-und-rueckmeldung
-description: "Prüft Immatrikulation, Rückmeldung und Gebühren im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Immatrikulation Und Rueckmeldung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Immatrikulation Und Rueckmeldung

@@ -1,6 +1,6 @@
 ---
 name: gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg
-description: "Geschäftsführerhaftung bei Krisenversagen prüfe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Enthaftungsstrategien entwickeln. Normen: § 43 GmbHG (Sorgfaltspflicht), § 93 AktG (Vorstandshaftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr). Prüfraster: Business Judgment Rule..."
+description: "Wenn es um Geschäftsführerhaftung — Paragraf 43 GmbHG und Paragraf 93 AktG in der Krise in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschäftsführerhaftung — § 43 GmbHG und § 93 AktG in der Krise

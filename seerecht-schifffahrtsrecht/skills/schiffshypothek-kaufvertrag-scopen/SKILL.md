@@ -1,6 +1,6 @@
 ---
 name: schiffshypothek-kaufvertrag-scopen
-description: "Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank scopet Kaufvertrag für hypothekenbelastetes Seeschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output:..."
+description: "Wenn es um Schiffshypothek – Kaufvertrag scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffshypothek – Kaufvertrag scopen

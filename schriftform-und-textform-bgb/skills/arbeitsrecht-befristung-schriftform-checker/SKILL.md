@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-befristung-schriftform-checker
-description: "Arbeitgeber oder Arbeitnehmer fragt, ob Befristung, Kündigung oder Aufhebungsvertrag wegen Formverstoß unwirksam ist. Prüft Paragraf 14 Abs. 4 TzBfG, Paragraf 623 BGB, Paragraf 126 BGB, qES bei Befristung, direkte elektronische Form, Paragraf 46h ArbGG, Paragraf 174 BGB und Klage-/Widerspruchsstrategie im Schriftform Und Textform..."
+description: "Wenn es um Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB in Schriftform und Textform im BGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB

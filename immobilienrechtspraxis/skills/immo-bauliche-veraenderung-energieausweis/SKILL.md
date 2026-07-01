@@ -1,6 +1,6 @@
 ---
 name: immo-bauliche-veraenderung-energieausweis
-description: "Bauliche Veraenderung im WEG nach § 20 WEG (Reform 2020): Beschlusserfordernisse, privilegierte Maßnahmen (Barrierefreiheit, Lademoeglichkeit E-Auto, Glasfaser, Einbruchschutz). Prüfraster im Immobilienrechtspraxis."
+description: "Wenn es um Bauliche Veraenderung WEG in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bauliche Veraenderung WEG

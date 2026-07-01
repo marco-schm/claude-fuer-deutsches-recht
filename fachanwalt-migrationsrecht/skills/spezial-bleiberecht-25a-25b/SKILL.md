@@ -1,6 +1,6 @@
 ---
 name: spezial-bleiberecht-25a-25b
-description: "Bleiberecht §§ 25a/25b: Spezial-Skill im Migrationsrecht; prüft Jugendlicher/Erwachsener, Integration, Schule, Lebensunterhalt; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Bleiberecht Paragrafen 25a/25b in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bleiberecht §§ 25a/25b

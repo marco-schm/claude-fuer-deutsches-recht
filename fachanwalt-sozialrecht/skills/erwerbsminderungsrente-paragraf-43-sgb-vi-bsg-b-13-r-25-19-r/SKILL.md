@@ -1,6 +1,6 @@
 ---
 name: erwerbsminderungsrente-paragraf-43-sgb-vi-bsg-b-13-r-25-19-r
-description: "Erwerbsminderungsrente Paragraf 43 SGB Vi Bsg B 13 R 25 19 R: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Erwerbsminderungsrente Paragraf 43 SGB Vi Bsg B 13 R 25 19 R in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erwerbsminderungsrente Paragraf 43 SGB Vi Bsg B 13 R 25 19 R

@@ -1,6 +1,6 @@
 ---
 name: mitarbeiter-gf-arbeitsvertrag
-description: "Prüft Gründeranstellung, Geschäftsführervertrag, Sozialversicherung, IP und Wettbewerbsverbote im Gesellschaftsgruender."
+description: "Wenn es um Gründer als Arbeitnehmer/Geschäftsführer in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gründer als Arbeitnehmer/Geschäftsführer

@@ -1,6 +1,6 @@
 ---
 name: parteivermoegen-behoerdenbrief-schreiben
-description: "Einigungsvertrag und Vermögensrecht: Parteivermögen: Behördenbrief schreiben im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Parteivermoegen Behördenbrief Schreib in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Parteivermoegen Behördenbrief Schreib

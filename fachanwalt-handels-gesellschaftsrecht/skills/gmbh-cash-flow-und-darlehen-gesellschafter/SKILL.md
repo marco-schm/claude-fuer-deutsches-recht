@@ -1,6 +1,6 @@
 ---
 name: gmbh-cash-flow-und-darlehen-gesellschafter
-description: "Gesellschafterdarlehen und Cash-Flow GmbH: § 39 Abs: 1 Nr. 5 InsO Subordination, § 135 InsO Anfechtbarkeit Rueckzahlung in der Krise, Stehenlassen als Eigenkapitalersatz alter Rechtslage gegenueber neuer..."
+description: "Wenn es um Gesellschafterdarlehen und Cash-Flow GmbH: Paragraf 39 Abs in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesellschafterdarlehen und Cash-Flow GmbH: § 39 Abs

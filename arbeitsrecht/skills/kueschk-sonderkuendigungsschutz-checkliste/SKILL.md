@@ -1,6 +1,6 @@
 ---
 name: kueschk-sonderkuendigungsschutz-checkliste
-description: "Checkliste Sonderkündigungsschutz: Schwangerschaft Paragraf 17 MuSchG: Elternzeit Paragraf 18 BEEG; Schwerbehinderung Paragrafen 168 ff. SGB IX; Betriebsratsmitglied Paragraf 15 KSchG; Datenschutzbeauftragter; Voraussetzun..."
+description: "Wenn es um Checkliste Sonderkündigungsschutz: Schwangerschaft Paragraf 17 MuSchG in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Checkliste Sonderkündigungsschutz: Schwangerschaft Paragraf 17 MuSchG

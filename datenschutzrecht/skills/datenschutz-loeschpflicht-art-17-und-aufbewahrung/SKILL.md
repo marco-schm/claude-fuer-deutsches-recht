@@ -1,6 +1,6 @@
 ---
 name: datenschutz-loeschpflicht-art-17-und-aufbewahrung
-description: "Konflikt Loeschpflicht Art: 17 DSGVO und Aufbewahrungspflichten HGB § 257 AO § 147 GoBD geordnet aufloesen. Sieben-Fragen-Diagnose: Datenkategorie Verarbeitungszweck Rechtsgrundlage konkurrierende Pflicht Sperrung statt Loeschung..."
+description: "Wenn es um Konflikt Loeschpflicht Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konflikt Loeschpflicht Art

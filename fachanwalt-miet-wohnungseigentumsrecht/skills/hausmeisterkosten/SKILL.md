@@ -1,6 +1,6 @@
 ---
 name: hausmeisterkosten
-description: "Hausmeisterkosten in Betriebskostenabrechnungen: umlagefähige laufende Tätigkeiten von Verwaltung, Instandhaltung, Instandsetzung, Wohnungsabnahmen, Gartenpflege-Doppelerfassung und Bereitschafts-/Notdienstanteilen trennen: Hausmeisterkosten in Betriebskost..."
+description: "Wenn es um Hausmeisterkosten in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Hausmeisterkosten; Arbeitsfeld: Fachanwalt Miet- und Wohnungseigentumsrecht."
 ---
 
 # Hausmeisterkosten in Betriebskostenabrechnungen: umlagefähige laufende Tätigkeiten von Verwaltung, Instandhaltung, Instandsetzung, Wohnungsabnahmen, Gartenpflege-Doppelerfassung und Bereitschafts-/Notdienstanteilen trennen

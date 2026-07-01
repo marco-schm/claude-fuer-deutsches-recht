@@ -1,6 +1,6 @@
 ---
 name: umv-091-flughafenausbau-beteiligung-pruefen
-description: "Umweltschutzverband Verbandsklage: Flughafenausbau: Beteiligung prüfen. Beteiligung prüfen für Flughafenausbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Flughafenausbau Beteiligung Pruefen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Flughafenausbau Beteiligung Pruefen

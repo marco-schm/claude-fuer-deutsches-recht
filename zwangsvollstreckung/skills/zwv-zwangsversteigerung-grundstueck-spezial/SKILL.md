@@ -1,6 +1,6 @@
 ---
 name: zwv-zwangsversteigerung-grundstueck-spezial
-description: "Spezialfall Zwangsversteigerung Grundstueck ZVG: Anordnung, Termin, Mindestgebot, Geringstes Gebot, geringste Beitrag: Prüfraster für Gla..."
+description: "Wenn es um Zwv Zwangsversteigerung Grundstueck Spezial in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Zwangsversteigerung Grundstueck ZVG: Anordnung, Termin, Mindestgebot, Geringstes Gebot, geringste Beitrag

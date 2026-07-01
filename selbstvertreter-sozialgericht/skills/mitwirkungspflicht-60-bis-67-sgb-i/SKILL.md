@@ -1,6 +1,6 @@
 ---
 name: mitwirkungspflicht-60-bis-67-sgb-i
-description: "Mitwirkungspflichten der Antragstellenden nach §§ 60-67 SGB I. Skill klaert den Umfang Auskunfts- und Vorlagepflichten Untersuchungen Behandlungsmassnahmen sowie die Grenzen der Mitwirkung. Konsequenzen bei Verletzung Aufforderung Versagung Entziehung. Liefert Prüfraster."
+description: "Wenn es um Mitwirkungspflicht 60 Bis 67 Sgb I in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mitwirkungspflicht 60 Bis 67 Sgb I

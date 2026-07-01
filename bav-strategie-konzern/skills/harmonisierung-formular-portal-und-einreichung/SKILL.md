@@ -1,6 +1,6 @@
 ---
 name: harmonisierung-formular-portal-und-einreichung
-description: "Harmonisierung: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Harmonisierung: Formular, Portal und Einreichungslogik in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Harmonisierung: Formular, Portal und Einreichungslogik

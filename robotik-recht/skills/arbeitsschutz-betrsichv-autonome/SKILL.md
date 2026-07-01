@@ -1,6 +1,6 @@
 ---
 name: arbeitsschutz-betrsichv-autonome
-description: "Prüft Arbeitsschutz und Betriebssicherheit bei Robotern im Betrieb: Gefährdungsbeurteilung, Unterweisung, Prüfungen, Betriebsanweisung im Robotik-Recht."
+description: "Wenn es um Arbeitsschutz und BetrSichV in der Robotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsschutz und BetrSichV in der Robotik

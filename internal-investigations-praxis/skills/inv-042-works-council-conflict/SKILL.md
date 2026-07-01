@@ -1,6 +1,6 @@
 ---
 name: inv-042-works-council-conflict
-description: "Spezialskill fuer Works Council Conflict: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Works Council Conflict in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internal Investigation: Works Council Conflict

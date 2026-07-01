@@ -1,6 +1,6 @@
 ---
 name: ideas-facts-imports-exports-infringement
-description: "Trennt Idee, Methode, Fakt, System, Standardmotiv, Genrebaustein und geschützten Ausdruck im US Copyright Act im Us Copyright Registrierung Verlag."
+description: "Wenn es um Ideas, Facts, Merger und Scenes a Faire in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Ideas, Facts, Merger und Scenes a Faire

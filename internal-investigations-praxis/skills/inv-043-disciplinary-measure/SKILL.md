@@ -1,6 +1,6 @@
 ---
 name: inv-043-disciplinary-measure
-description: "Spezialskill fuer Disciplinary Measure: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Disciplinary Measure in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internal Investigation: Disciplinary Measure

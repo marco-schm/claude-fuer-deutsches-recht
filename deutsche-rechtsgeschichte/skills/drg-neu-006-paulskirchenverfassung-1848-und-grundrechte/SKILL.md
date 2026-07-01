@@ -1,6 +1,6 @@
 ---
 name: drg-neu-006-paulskirchenverfassung-1848-und-grundrechte
-description: "Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-kreditagentur-auskunft-art15-scorelogik
-description: "Auskunft gegenüber Auskunfteien: gespeicherte Daten, Empfänger, Herkunft, Scorelogik, Kategorien, Löschfristen und Kopie: Auskunft gegenüber Auskunfteien: gespeicherte Daten, Empfänger, Herkunft, Scorelogik, Kategorien, Löschfristen und Kopie."
+description: "Wenn es um Datenschutz Kreditagentur Auskunft Art15 Scorelogik in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auskunft gegenüber Auskunfteien: gespeicherte Daten, Empfänger, Herkunft, Scorelogik, Kategorien, Löschfristen und Kopie.

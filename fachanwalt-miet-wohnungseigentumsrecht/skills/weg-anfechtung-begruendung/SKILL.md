@@ -1,6 +1,6 @@
 ---
 name: weg-anfechtung-begruendung
-description: "WEG Anfechtungsbegründung: Fachmodul im Miet- und Wohnungseigentumsrecht: erstellt Begründung nach Beschlussmangel, Frist, Antrag und Vortrag; mit Normprüfung, Beweisen, Fristen, Risi..."
+description: "Wenn es um WEG Anfechtungsbegründung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Anfechtungsbegründung: Fachmodul im Miet- und Wohnungseigentumsrecht

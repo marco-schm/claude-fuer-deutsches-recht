@@ -1,6 +1,6 @@
 ---
 name: ihl-007-cisg-schadensersatz-und-mitigation
-description: "Internationales Handelsrecht und Lex Mercatoria: CISG Schadensersatz Und Mitigation. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um CISG Schadensersatz Und Mitigation in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CISG Schadensersatz Und Mitigation

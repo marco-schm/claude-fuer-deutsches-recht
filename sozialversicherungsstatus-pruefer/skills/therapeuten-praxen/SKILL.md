@@ -1,6 +1,6 @@
 ---
 name: therapeuten-praxen
-description: "Prüft Physio-, Ergo-, Logo- und Psychotherapie-Praxen mit Raum-/Gerätenutzung, Patientensteuerung und Abrechnung im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Therapeuten in Praxen in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Therapeuten in Praxen

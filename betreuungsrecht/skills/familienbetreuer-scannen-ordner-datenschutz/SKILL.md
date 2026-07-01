@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-scannen-ordner-datenschutz
-description: "Digitale Betreuungsakte für Angehörige: Scans, Dateinamen, Datenschutz, Freigaben, Kalender, Nachweise und sichere Übergabe."
+description: "Wenn es um Familienbetreuer: Scannen, Ordner, Datenschutz in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Familienbetreuer: Scannen, Ordner, Datenschutz

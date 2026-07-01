@@ -1,6 +1,6 @@
 ---
 name: kaltstart-risikoampel-und-gegenargumente
-description: "Kaltstart: Einstieg und Routing; Risikoampel, Gegenargumente und Verteidigungslinien: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Wenn es um Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien in Word-Workflows für deutsche Juristen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien

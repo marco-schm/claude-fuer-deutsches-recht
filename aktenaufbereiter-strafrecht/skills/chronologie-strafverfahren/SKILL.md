@@ -1,6 +1,6 @@
 ---
 name: chronologie-strafverfahren
-description: "Chronologie aller Verfahrensschritte: Tatzeitpunkt, Anzeige, Vernehmungen, Durchsuchungen, Festnahme, U-Haft-Befehle, Anklage, Hauptverhandlungstermine, Urteile, Rechtsmittel. Datum, Zeit, Behörde/Gericht, Art, Beleg in der Akte (Aktenblatt). Zeigt Luecken und unplausible Reihenfolgen im Strafrec..."
+description: "Wenn es um Chronologie Strafverfahren in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie Strafverfahren

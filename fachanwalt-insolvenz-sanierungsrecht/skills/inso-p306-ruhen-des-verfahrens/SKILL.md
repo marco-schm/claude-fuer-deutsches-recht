@@ -1,6 +1,6 @@
 ---
 name: inso-p306-ruhen-des-verfahrens
-description: "§ 306 InsO (Ruhen des Verfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 306 InsO (Ruhen des Verfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Sch..."
+description: "Wenn es um Inso P306 Ruhen Des Verfahrens in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 306 InsO (Ruhen des Verfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

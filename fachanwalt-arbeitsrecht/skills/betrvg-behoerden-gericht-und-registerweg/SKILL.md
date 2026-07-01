@@ -1,6 +1,6 @@
 ---
 name: betrvg-behoerden-gericht-und-registerweg
-description: "BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren Paragrafen 80 ff: ArbGG, Einigungsstelle Paragrafen 76 BetrVG, Wahlanfechtung Paragraf 19 BetrVG, Zustimmungsersetzung Paragraf 99 Abs. 4 BetrVG, B..."
+description: "Wenn es um BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren Paragrafen 80 ff in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren Paragrafen 80 ff

@@ -1,6 +1,6 @@
 ---
 name: ihl-055-anti-corruption-fcpa-ukba
-description: "Internationales Handelsrecht und Lex Mercatoria: Anti Corruption Fcpa Ukba. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Anti Corruption Fcpa Ukba in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anti Corruption Fcpa Ukba

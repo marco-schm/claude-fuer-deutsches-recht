@@ -1,6 +1,6 @@
 ---
 name: zag-erlaubnisanalyse-payment-institution
-description: "ZAG-Erlaubnisanalyse für Zahlungsinstitute: Zahlungsdienste katalogisieren, § 10 ZAG, Eigenmittel, Geschäftsplan, Sicherung von Kundengeldern, Geschäftsleiter, Auslagerungen und BaFin-Antrag prüfen."
+description: "Wenn es um ZAG-Erlaubnis Zahlungsinstitut in Bank-Rechtsabteilung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 <!-- bank-rechtsabteilung-v2-special -->

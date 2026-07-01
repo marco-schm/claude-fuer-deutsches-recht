@@ -1,6 +1,6 @@
 ---
 name: staatshaftung-aufopferung
-description: "PrALR: Einleitung §§ 74 und 75, Aufopferung, enteignender/enteignungsgleicher Eingriff und heutige Dogmatik trennen."
+description: "Wenn es um Aufopferung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Staatshaftung Aufopferung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Aufopferung

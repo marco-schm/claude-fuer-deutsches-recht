@@ -1,6 +1,6 @@
 ---
 name: ihl-063-exclusive-distributor
-description: "Internationales Handelsrecht und Lex Mercatoria: Exclusive Distributor. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Exclusive Distributor in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exclusive Distributor

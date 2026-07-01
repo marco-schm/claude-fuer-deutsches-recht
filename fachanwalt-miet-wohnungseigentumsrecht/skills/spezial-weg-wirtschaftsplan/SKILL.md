@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-wirtschaftsplan
-description: "WEG Wirtschaftsplan: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Vorschüsse, Rücklage, Sonderumlage, Liquidität; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um WEG Wirtschaftsplan in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Wirtschaftsplan

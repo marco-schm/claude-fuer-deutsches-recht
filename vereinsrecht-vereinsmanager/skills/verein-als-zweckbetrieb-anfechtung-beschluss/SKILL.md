@@ -1,6 +1,6 @@
 ---
 name: verein-als-zweckbetrieb-anfechtung-beschluss
-description: "Routet Minijob, Übungsleiter, Ehrenamtspauschale, Arbeitsvertrag, Sozialversicherung und Lohnsteuer im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Verein als Arbeitgeber in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verein als Arbeitgeber

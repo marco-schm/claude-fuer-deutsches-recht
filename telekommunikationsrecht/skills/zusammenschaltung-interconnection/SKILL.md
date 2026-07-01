@@ -1,6 +1,6 @@
 ---
 name: zusammenschaltung-interconnection
-description: "Zusammenschaltung, Terminierung, IP-Interconnection, Qualität, Entgelte und Streitbeilegung im Telekommunikationsrecht."
+description: "Wenn es um Zusammenschaltung und Interconnection in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zusammenschaltung und Interconnection

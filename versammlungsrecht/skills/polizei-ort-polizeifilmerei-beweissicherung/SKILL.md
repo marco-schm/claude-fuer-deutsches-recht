@@ -1,6 +1,6 @@
 ---
 name: polizei-ort-polizeifilmerei-beweissicherung
-description: "Gibt Leitfaden für Kommunikation mit Einsatzleitung, Störer, Auflösung, Durchsuchung und Platzverweise am Versammlungstag im Versammlungsrecht."
+description: "Wenn es um Vor Ort ruhig und dokumentiert in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Vor Ort ruhig und dokumentiert

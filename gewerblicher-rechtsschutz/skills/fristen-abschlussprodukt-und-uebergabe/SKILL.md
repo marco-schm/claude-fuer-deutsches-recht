@@ -1,6 +1,6 @@
 ---
 name: fristen-abschlussprodukt-und-uebergabe
-description: "Fristenverwaltung im gewerblichen Rechtsschutz: Abschlussprodukte rechtzeitig fertigstellen, Übergabe an Mandanten und Behörden sichern. Fristenmatrix für DPMA, EUIPO, EPA, Gerichtsverfahren, EV-Vollzug und Abmahnfristen im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Fristen – Abschlussprodukt und Übergabe in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezial: Fristen – Abschlussprodukt und Übergabe

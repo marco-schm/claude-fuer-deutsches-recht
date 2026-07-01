@@ -1,6 +1,6 @@
 ---
 name: lph-09-mandantenbericht
-description: "HOAI LPH 9 Objektbetreuung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Lph 09 Mandantenbericht in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 9 Objektbetreuung: Erstellt verständlichen statusbericht mit ampel und nächstem schritt

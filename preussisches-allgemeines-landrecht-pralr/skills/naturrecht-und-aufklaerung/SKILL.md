@@ -1,6 +1,6 @@
 ---
 name: naturrecht-und-aufklaerung
-description: "PrALR: vernunftrechtliche und aufklärerische Elemente neben ständischer Ordnung und monarchischer Herrschaft einordnen."
+description: "Wenn es um Naturrecht und Aufklärung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Naturrecht Und Aufklaerung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Naturrecht und Aufklärung

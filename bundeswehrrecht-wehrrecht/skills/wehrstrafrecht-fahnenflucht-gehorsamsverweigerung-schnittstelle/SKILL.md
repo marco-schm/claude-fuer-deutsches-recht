@@ -1,6 +1,6 @@
 ---
 name: wehrstrafrecht-fahnenflucht-gehorsamsverweigerung-schnittstelle
-description: "Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsges..."
+description: "Wenn es um Wehrstrafrecht – Schnittstelle Fahnenflucht und Gehorsamsverweigerung in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wehrstrafrecht – Schnittstelle Fahnenflucht und Gehorsamsverweigerung

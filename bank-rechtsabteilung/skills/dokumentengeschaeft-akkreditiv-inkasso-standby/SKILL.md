@@ -1,6 +1,6 @@
 ---
 name: dokumentengeschaeft-akkreditiv-inkasso-standby
-description: "Dokumentengeschäft der Bank prüfen: Akkreditiv, Dokumenteninkasso, Standby Letter of Credit, UCP/URC/ISP-Bezug, Dokumentenstrenge, Fraud, Sanktionen, Warenfluss und Zahlungsentscheidung im Bank-Rechtsabteilung."
+description: "Wenn es um Dokumentengeschäft: Akkreditiv, Inkasso, Standby in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Dokumentengeschäft: Akkreditiv, Inkasso, Standby

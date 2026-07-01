@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-sanktionsumgehung-red-flags
-description: "Vertiefter Skill fuer Sanktionsumgehung Red Flags. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: "Wenn es um Sanktionsumgehung Red Flags in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanktionsumgehung Red Flags

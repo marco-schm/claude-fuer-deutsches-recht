@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Kaltstart, Scope und Fallrouting für digitale Barrierefreiheit. Fragt Website App Webshop öffentliche Stelle BFSG BITV EN 301 549 WCAG Zielgruppe Audit-Tiefe und Output ab, schlägt passende Skills vor und startet mit Prüfplan im Barrierefreiheit Web Checker."
+description: "Wenn es um Barrierefreiheit Web Checker — Allgemein in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Barrierefreiheit Web Checker — Allgemein

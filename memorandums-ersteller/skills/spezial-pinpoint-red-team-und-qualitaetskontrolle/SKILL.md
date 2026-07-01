@@ -1,6 +1,6 @@
 ---
 name: spezial-pinpoint-red-team-und-qualitaetskontrolle
-description: "Pinpoint: Red-Team und Qualitätskontrolle im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Pinpoint: Red-Team und Qualitätskontrolle in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pinpoint: Red-Team und Qualitätskontrolle

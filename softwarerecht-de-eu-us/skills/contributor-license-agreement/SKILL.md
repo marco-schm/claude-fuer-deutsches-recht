@@ -1,6 +1,6 @@
 ---
 name: contributor-license-agreement
-description: "Entwirft CLA/DCO-Regeln für Open-Source-Projekte, Firmenbeiträge, Patent Grants und Maintainer-Governance im Softwarerecht De Eu Us."
+description: "Wenn es um Contributor License Agreement in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Contributor License Agreement

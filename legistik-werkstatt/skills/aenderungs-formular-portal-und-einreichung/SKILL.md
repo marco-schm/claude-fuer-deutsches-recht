@@ -1,6 +1,6 @@
 ---
 name: aenderungs-formular-portal-und-einreichung
-description: "Änderungs: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Änderungs: Formular, Portal und Einreichungslogik in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aenderungs Formular Portal Und Einreichung; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Änderungs: Formular, Portal und Einreichungslogik

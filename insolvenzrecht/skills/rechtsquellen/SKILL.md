@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen
-description: "Rechtsquellen: Zahlen, Schwellenwerte und Berechnung im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Rechtsquellen: Zahlen, Schwellenwerte und Berechnung in Insolvenzrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Rechtsquellen: Zahlen, Schwellenwerte und Berechnung

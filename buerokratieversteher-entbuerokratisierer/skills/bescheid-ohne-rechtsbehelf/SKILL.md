@@ -1,6 +1,6 @@
 ---
 name: bescheid-ohne-rechtsbehelf
-description: "Erklärt Folgen fehlender oder fehlerhafter Belehrung und sichere Fristbehandlung im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Bescheid ohne Rechtsbehelfsbelehrung in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bescheid ohne Rechtsbehelfsbelehrung

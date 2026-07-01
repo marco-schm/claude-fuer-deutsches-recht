@@ -1,6 +1,6 @@
 ---
 name: rechtsmittel-gegen-dienstaufsicht-rechtsprechungscheck-u
-description: "Notare: rechtsmittel gegen dienstaufsicht - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Rechtsmittel Gegen Dienstaufsicht Rechtsprechungscheck U in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: rechtsmittel gegen dienstaufsicht - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

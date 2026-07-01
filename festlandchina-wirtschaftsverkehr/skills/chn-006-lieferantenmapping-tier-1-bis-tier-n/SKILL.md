@@ -1,6 +1,6 @@
 ---
 name: chn-006-lieferantenmapping-tier-1-bis-tier-n
-description: "Festlandchina Wirtschaftsverkehr: Lieferantenmapping Tier 1 Bis Tier N. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Lieferantenmapping Tier 1 Bis Tier N in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lieferantenmapping Tier 1 Bis Tier N

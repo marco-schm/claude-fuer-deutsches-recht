@@ -1,6 +1,6 @@
 ---
 name: bodensegment-teleport-exportkontrolle
-description: "Bodensegment-Sicherheit – Teleport, Rechenzentrum, KRITIS, physische Sicherheit im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Bodensegment: Teleport, Rechenzentrum, Kritische Infrastruktur in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Bodensegment: Teleport, Rechenzentrum, Kritische Infrastruktur

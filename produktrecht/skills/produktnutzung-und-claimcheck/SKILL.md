@@ -1,6 +1,6 @@
 ---
 name: produktnutzung-und-claimcheck
-description: "Produktnutzung, Werbeclaim und Sicherheitsversprechen prüfen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Produktrecht."
+description: "Wenn es um Produktnutzung, Werbeclaim und Sicherheitsversprechen prüfen in Produkthaftung und Produktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Produktnutzung, Werbeclaim und Sicherheitsversprechen prüfen

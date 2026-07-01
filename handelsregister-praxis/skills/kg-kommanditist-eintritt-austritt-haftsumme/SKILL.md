@@ -1,6 +1,6 @@
 ---
 name: kg-kommanditist-eintritt-austritt-haftsumme
-description: "Prüft Einlage/Haftsumme, Sonderrechtsnachfolge, Austritt, Nachhaftung und Registerpublizität im Handelsregister Praxis."
+description: "Wenn es um Kommanditist und Haftsumme in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommanditist und Haftsumme

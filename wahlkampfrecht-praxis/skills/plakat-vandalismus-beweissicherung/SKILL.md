@@ -1,6 +1,6 @@
 ---
 name: plakat-vandalismus-beweissicherung
-description: "Wahlkampfrecht Praxis: Beweissicherung bei beschaedigten Wahlplakaten organisieren im Wahlkampfrecht."
+description: "Wenn es um Plakat Vandalismus Beweissicherung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Plakat Vandalismus Beweissicherung

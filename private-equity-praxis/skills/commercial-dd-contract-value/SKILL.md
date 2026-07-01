@@ -1,6 +1,6 @@
 ---
 name: commercial-dd-contract-value
-description: "Prüft, ob Kunden-, Lieferanten-, Händler- und Plattformverträge den Investment Case tragen im Private Equity Praxis."
+description: "Wenn es um Commercial DD und Vertragswert in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Commercial DD und Vertragswert

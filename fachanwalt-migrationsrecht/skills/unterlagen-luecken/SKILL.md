@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Migrationsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Bescheid BAMF/ABH, Pass, Aufenthaltstitel), nennt pro Lücke Beweisthema, Beschaffungsweg (Ausländerbehörde), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

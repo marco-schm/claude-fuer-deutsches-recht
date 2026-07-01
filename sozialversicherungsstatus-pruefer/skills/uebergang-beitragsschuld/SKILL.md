@@ -1,6 +1,6 @@
 ---
 name: uebergang-beitragsschuld
-description: "Prüft, wer Beiträge schuldet, wann Ansprüche entstehen und wie Umstellung operativ gelingt im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Übergang und Beitragsschuld in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Übergang und Beitragsschuld

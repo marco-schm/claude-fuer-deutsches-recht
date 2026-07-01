@@ -1,6 +1,6 @@
 ---
 name: 04-begruendetheit-verpflichtungsklage
-description: "Verpflichtungsklage Paragraf 113 Abs. 5 VwGO: Anspruch auf Erlass des begehrten VA, Bescheidungsurteil, Spruchreife, Beurteilungszeitpunkt"
+description: "Wenn es um 04 Begründetheit Verpflichtungsklage in Verwaltungsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 04 Begründetheit Verpflichtungsklage

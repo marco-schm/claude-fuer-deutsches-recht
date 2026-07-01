@@ -1,6 +1,6 @@
 ---
 name: anlagenverzeichnis-grundaufbau
-description: "Anlagenverzeichnis nach deutscher Anwaltsuebung aufbauen: K1, K2, K3 ... für Klägerseite, B1, B2 ... für Beklagtenseite. Kurztitel, Datum, Funktion (Beweismittel zu welcher Behauptung), Fundstelle im Schriftsatz. Loest Doppel-Nummerierung auf und uebernimmt vorhandene Bezeichnungen aus der Gegen..."
+description: "Wenn es um Anlagenverzeichnis-Grundaufbau in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anlagenverzeichnis-Grundaufbau

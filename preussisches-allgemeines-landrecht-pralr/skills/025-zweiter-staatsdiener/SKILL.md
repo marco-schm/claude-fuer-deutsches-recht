@@ -1,6 +1,6 @@
 ---
 name: 025-zweiter-staatsdiener
-description: "PrALR: Zweiter Teil Staatsdiener Amtspflichten: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Zweiter Teil Staatsdiener Amtspflichten in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Zweiter Teil Staatsdiener Amtspflichten

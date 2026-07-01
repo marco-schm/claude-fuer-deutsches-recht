@@ -1,6 +1,6 @@
 ---
 name: unterlagenherausgabe-und-zurueckbehaltung-rechtsp
-description: "Steuerberater: unterlagenherausgabe und zurueckbehaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Unterlagenherausgabe Und Zurueckbehaltung Rechtsp in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Steuerberater: unterlagenherausgabe und zurueckbehaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

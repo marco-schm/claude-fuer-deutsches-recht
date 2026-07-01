@@ -1,6 +1,6 @@
 ---
 name: stundung-standstill-waiver
-description: "Stundung, Standstill, Waiver und Covenant-Reset entwerfen und prüfen: Bankinteressen, Sicherheiten, Sanierungspfad, Gleichbehandlung, Kündigungsrechte und Dokumentationsschutz im Bank-Rechtsabteilung."
+description: "Wenn es um Stundung und Standstill in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Stundung und Standstill

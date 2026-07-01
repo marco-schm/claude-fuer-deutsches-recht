@@ -1,6 +1,6 @@
 ---
 name: dma-gatekeeper-schwellen-und-kernplattformdienste
-description: "Gatekeeper-Designation nach Art. 3 DMA prüfen: Plattform-Betreiber will wissen ob DMA-Pflichten gelten oder Kommission hat Designation eingeleitet. Normen: DMA (EU) 2022/1925 Art. 3 (Designation-Voraussetzungen), Art. 2 Nr. 2 DMA (Kernplattformdienste-Katalog), Art. 5-7 DMA (Pflichten). Prüfraste..."
+description: "Wenn es um DMA — Gatekeeper-Schwellen und Kernplattformdienste in DSA, DMA und Digitalregulierung der EU geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # DMA — Gatekeeper-Schwellen und Kernplattformdienste

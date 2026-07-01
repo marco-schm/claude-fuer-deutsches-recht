@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-selbstbehalt-wahltarif-kuendigung
-description: "Wahltarife mit Selbstbehalt nach § 53 SGB V: Funktionsweise, Kündigung, Rückforderungsrisiko bei vorzeitigem Austritt und Interaktion mit anderen Leistungen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Selbstbehalt-Wahltarif und Kündigung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Selbstbehalt-Wahltarif und Kündigung

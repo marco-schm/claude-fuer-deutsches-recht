@@ -1,6 +1,6 @@
 ---
 name: reaktion-internationaler-bezug-und-schnittstellen
-description: "Internationaler Bezug im gewerblichen Rechtsschutz: Zuständigkeit, anwendbares Recht, Enforcement im Ausland, Unionsmarke und -patent, WIPO-UDRP, grenzüberschreitende Abmahnung und Koordination mit ausländischen Anwälten im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Internationaler Bezug und Schnittstellen in Plugin: Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Spezial: Internationaler Bezug und Schnittstellen

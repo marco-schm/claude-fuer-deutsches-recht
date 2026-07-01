@@ -1,6 +1,6 @@
 ---
 name: klarna-paypal-plattformbedingungen-rechtlich-lesen
-description: "Klarna PayPal Plattformbedingungen rechtlich lesen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG im Ecommerce R..."
+description: "Wenn es um Klarna PayPal Plattformbedingungen rechtlich lesen in E-Commerce-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klarna PayPal Plattformbedingungen rechtlich lesen

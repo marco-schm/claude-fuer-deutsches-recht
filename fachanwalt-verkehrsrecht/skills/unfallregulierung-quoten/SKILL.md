@@ -1,6 +1,6 @@
 ---
 name: unfallregulierung-quoten
-description: "Mandant hat Unfall mit Mitverschulden und fragt welche Schadensposten zu welcher Quote durchsetzbar sind: § 254 BGB Mitverschulden Quoten-Modelle. Prüf..."
+description: "Wenn es um Unfallregulierung Quoten in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandant hat Unfall mit Mitverschulden und fragt welche Schadensposten zu welcher Quote durchsetzbar sind

@@ -1,6 +1,6 @@
 ---
 name: spezial-precedent-livequellen-und-rechtsprechungscheck
-description: "Precedent: Livequellen- und Rechtsprechungscheck im Plugin common law kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Precedent: Livequellen- und Rechtsprechungscheck in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Precedent: Livequellen- und Rechtsprechungscheck

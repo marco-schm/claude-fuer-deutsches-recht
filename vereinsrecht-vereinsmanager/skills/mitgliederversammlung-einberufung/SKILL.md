@@ -1,6 +1,6 @@
 ---
 name: mitgliederversammlung-einberufung
-description: "Erstellt Einladung, Fristcheck, Tagesordnung, Beschlussgegenstände und Versandnachweis im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Mitgliederversammlung einberufen in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mitgliederversammlung einberufen

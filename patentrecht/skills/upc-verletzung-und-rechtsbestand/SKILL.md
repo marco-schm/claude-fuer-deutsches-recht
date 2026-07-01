@@ -1,6 +1,6 @@
 ---
 name: upc-verletzung-und-rechtsbestand
-description: "Prüft Einheitliches Patentgericht UPC: Verletzungsklage, Zentral-/Lokal-/Regionalkammer, Widerklage auf Nichtigerklärung, Opt-out, Einheitspatent und klassische europäische Patente im Patentrecht."
+description: "Wenn es um UPC: Verletzung, Rechtsbestand und Zuständigkeit in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # UPC: Verletzung, Rechtsbestand und Zuständigkeit

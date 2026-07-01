@@ -1,6 +1,6 @@
 ---
 name: inso-p127-klage-des-arbeitnehmers
-description: "§ 127 InsO (Klage des Arbeitnehmers) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 127 InsO (Klage des Arbeitnehmers) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Friste..."
+description: "Wenn es um Inso P127 Klage Des Arbeitnehmers in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 127 InsO (Klage des Arbeitnehmers) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

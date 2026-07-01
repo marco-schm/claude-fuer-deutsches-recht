@@ -1,6 +1,6 @@
 ---
 name: dual-use-eu-umsetzung
-description: "Prüft Dual-Use, Exportkontrolle und militärische Robotik-Schnittstellen, ohne zivile Produktpflichten zu übersehen im Robotik-Recht."
+description: "Wenn es um Dual-Use und militärische Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dual Use EU Umsetzung; Arbeitsfeld: robotik-recht."
 ---
 
 # Dual-Use und militärische Robotik

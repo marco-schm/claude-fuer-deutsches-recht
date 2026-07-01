@@ -1,6 +1,6 @@
 ---
 name: bmvg-nato-und-stationierungsrecht
-description: "Sachbereich NATO-Recht und Stationierungsrecht im Geschäftsbereich BMVg: Normbestand (NATO-Truppenstatut; ZA-NTS; Stationierungsstreitkraefte-Schutzgesetz; AwSV.); Akteure (BMVg; BMI; BMJV; Bundesbehoerden im NATO-Verbund.); EU-Bezug (EU-Verteidigungspolitik; Mobility Package; GSVP-Missionen.);..."
+description: "Wenn es um NATO-Recht und Stationierungsrecht (BMVg) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # NATO-Recht und Stationierungsrecht (BMVg)

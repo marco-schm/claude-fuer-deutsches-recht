@@ -1,6 +1,6 @@
 ---
 name: dworkin-prinzipien-integritaet-zivilrecht
-description: "Überträgt Dworkins Regeln/Prinzipien-Analyse auf zivilrechtliche Auslegung, Generalklauseln, richterliche Rechtsfortbildung und Schriftsatzargumente."
+description: "Wenn es um Dworkin im Zivilrecht: Prinzipien, Integrität und hard cases in Methodenlehre bürgerliches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Dworkin im Zivilrecht: Prinzipien, Integrität und hard cases

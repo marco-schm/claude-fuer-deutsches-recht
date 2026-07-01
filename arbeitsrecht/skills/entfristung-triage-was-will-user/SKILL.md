@@ -1,6 +1,6 @@
 ---
 name: entfristung-triage-was-will-user
-description: "Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristungskontrollklage oder Entfristungsklage anstrebt: Abgrenzung zu Kündigungssch..."
+description: "Wenn es um Entfristung Triage Was Will User in Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristungskontrollklage oder Entfristungsklage anstrebt

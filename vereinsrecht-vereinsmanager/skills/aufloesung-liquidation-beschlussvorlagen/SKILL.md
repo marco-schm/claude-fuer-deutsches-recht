@@ -1,6 +1,6 @@
 ---
 name: aufloesung-liquidation-beschlussvorlagen
-description: "Begleitet Auflösung, Liquidatoren, Sperrjahr, Vermögensanfall, Register und Finanzamt im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Auflösung und Liquidation in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auflösung und Liquidation

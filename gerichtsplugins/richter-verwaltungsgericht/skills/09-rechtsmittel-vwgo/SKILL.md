@@ -1,6 +1,6 @@
 ---
 name: 09-rechtsmittel-vwgo
-description: "Berufung Paragrafen 124 ff. VwGO (Zulassung durch OVG/VGH), Revision Paragraf 132 VwGO (Zulassung durch BVerwG), Nichtzulassungsbeschwerde, Beschwerde Paragraf 146 VwGO"
+description: "Wenn es um 09 Rechtsmittel Vwgo in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 09 Rechtsmittel Vwgo

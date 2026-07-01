@@ -1,6 +1,6 @@
 ---
 name: qualitaets-iv-schutzschirm
-description: "IV-Arbeitsergebnisse vor Versand oder Entscheidung auf Widersprueche Rechenfehler fehlende Belege und Rollenfehler prüfen. §§ 58 66 InsO Prüfungspflichten des Gerichts. Prüfraster: Rollencheck Zahlencheck Normencheck Quellencheck Adressatencheck. Output: Gate-Protokoll mit Fehlerliste und Freigab..."
+description: "Wenn es um Qualitäts- und Plausibilitätsgate in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Qualitäts- und Plausibilitätsgate

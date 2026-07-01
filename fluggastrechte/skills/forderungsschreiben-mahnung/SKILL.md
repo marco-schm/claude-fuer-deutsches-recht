@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben-mahnung
-description: "Zweite Stufe nach Ablauf der Frist aus dem ersten Forderungsschreiben oder nach erfolgloser Reaktion der Airline. Setzt Nachfrist (typisch zehn Tage) bezieht sich auf die erste Forderung weist Verzugszinsen aus und droht konkret SOEP-Schlichtung oder Klage zum Amtsgericht. Bei Reaktion der Airlin"
+description: "Wenn es um Forderungsschreiben — Mahnung (zweite Stufe) in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Forderungsschreiben Mahnung; Arbeitsfeld: Fluggastrechte."
 ---
 
 # Forderungsschreiben — Mahnung (zweite Stufe)

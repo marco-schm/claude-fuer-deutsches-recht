@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig
-description: "Bandenmäßige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmäßige Begehung: Qualifikation des Paragraph 143 MarkenG bei organisierter Counterfeit-Logistik. Str..."
+description: "Wenn es um Bandenmäßige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmäßige Begehung in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bandenmäßige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmäßige Begehung

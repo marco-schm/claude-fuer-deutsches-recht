@@ -1,6 +1,6 @@
 ---
 name: personal-pharmazeutisch-nichtpharmazeutisch-vertretung
-description: "Personal pharmazeutisch nichtpharmazeutisch Vertretung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht im Apothekenrecht."
+description: "Wenn es um Personal pharmazeutisch nichtpharmazeutisch Vertretung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Personal pharmazeutisch nichtpharmazeutisch Vertretung

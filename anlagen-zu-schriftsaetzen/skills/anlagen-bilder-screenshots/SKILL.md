@@ -1,6 +1,6 @@
 ---
 name: anlagen-bilder-screenshots
-description: "Bilder und Screenshots als Anlagen: Beweiskraft, Manipulationsanfaelligkeit, EXIF-Daten, Metadaten. Empfehlung: Original und Vergroesserung beifuegen, EXIF-Export anhaengen, Standortdaten transparent machen. Bei Screenshots: voller Browser/App-Rahmen mit URL und Uhrzeit."
+description: "Wenn es um Bilder/Screenshots als Anlagen in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bilder/Screenshots als Anlagen

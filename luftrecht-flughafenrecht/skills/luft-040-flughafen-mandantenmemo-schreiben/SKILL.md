@@ -1,6 +1,6 @@
 ---
 name: luft-040-flughafen-mandantenmemo-schreiben
-description: "Luftrecht und Flughafenrecht: Flughafen: Mandantenmemo schreiben. Mandantenmemo schreiben für Flughafen im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Flughafen Mandantenmemo Schreiben in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Flughafen Mandantenmemo Schreiben

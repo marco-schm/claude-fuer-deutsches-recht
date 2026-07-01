@@ -1,6 +1,6 @@
 ---
 name: kosten-haftung-und-versicherung
-description: "Prüft Kosten, Gebühren, Schäden, Haftung, Versicherung und Regress rund um Versammlungen im Versammlungsrecht."
+description: "Wenn es um Kosten nicht überschätzen, Haftung nicht ignorieren in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kosten nicht überschätzen, Haftung nicht ignorieren

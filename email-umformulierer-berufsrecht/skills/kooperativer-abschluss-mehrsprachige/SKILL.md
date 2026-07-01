@@ -1,6 +1,6 @@
 ---
 name: kooperativer-abschluss-mehrsprachige
-description: "E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abgrenzung: nicht für die Grussformel (anrede-und-grussformeln)..."
+description: "Wenn es um Kooperativer Abschluss in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kooperativer Abschluss Mehrsprachige; Arbeitsfeld: E-Mail-Umformulierer."
 ---
 
 # Kooperativer Abschluss

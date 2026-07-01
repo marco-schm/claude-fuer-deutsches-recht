@@ -1,6 +1,6 @@
 ---
 name: pflegekasse-pflegekurse-und-angehoerige
-description: "Pflegekasse Pflegekurse und Angehoerigenberatung nach §§ 45 ff. SGB XI. Skill klaert die kostenlosen Pflegekurse Pflegeberatung Verhinderungspflegegeld Pflegezeit und Familienpflegezeit. Liefert Antragsvorlage."
+description: "Wenn es um Pflegekasse Pflegekurse Und Angehoerige in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflegekasse Pflegekurse Und Angehoerige

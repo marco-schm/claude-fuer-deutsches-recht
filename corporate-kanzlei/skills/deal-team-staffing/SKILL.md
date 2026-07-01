@@ -1,6 +1,6 @@
 ---
 name: deal-team-staffing
-description: "Transaktionsteam zusammenstellen und Workstreams verteilen für M&A-Mandate: Senior Associate braucht Team-Plan oder Partner will Kapazitaeten ueberprüfen. Normen: BRAO § 43a (Interessenkonflikte), RVG/Stundenhonorar, Budget-Richtlinien. Prüfraster: Workstream-Matrix, Kapazitaetsplanung, Eskalatio..."
+description: "Wenn es um Deal-Team-Staffing in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deal-Team-Staffing

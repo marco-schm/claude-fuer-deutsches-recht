@@ -1,6 +1,6 @@
 ---
 name: miet-modernisierungsmieterhoehung-leitfaden
-description: "Leitfaden Modernisierungsmieterhoehung §§ 555b und 559 BGB: Ankuendigung, Berechnung, Haertegrund, Kappungsgrenze: Prüfraster Vermieter und M..."
+description: "Wenn es um Miet Modernisierungsmieterhoehung Leitfaden in Fachanwalt Miet- und Wohnungseigentumsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Leitfaden Modernisierungsmieterhoehung §§ 555b und 559 BGB: Ankuendigung, Berechnung, Haertegrund, Kappungsgrenze

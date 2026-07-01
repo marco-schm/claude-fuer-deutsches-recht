@@ -1,6 +1,6 @@
 ---
 name: zwoelftafelgesetz-quellenkritik
-description: "Römisches Recht: Zwölftafelgesetz als frühe Quellenlage, Rekonstruktion, Fragment, spätere Überlieferung und methodische Grenzen."
+description: "Wenn es um Zwölftafelgesetz - Quellenkritik und Einordnung in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zwoelftafelgesetz Quellenkritik; Arbeitsfeld: Römisches Recht."
 ---
 
 # Zwölftafelgesetz - Quellenkritik und Einordnung

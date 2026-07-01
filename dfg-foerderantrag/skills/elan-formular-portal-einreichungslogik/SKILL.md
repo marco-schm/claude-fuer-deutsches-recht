@@ -1,6 +1,6 @@
 ---
 name: elan-formular-portal-einreichungslogik
-description: "Elan: Formular, Portal und Einreichungslogik im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. We..."
+description: "Wenn es um Elan: Formular, Portal und Einreichungslogik in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Elan: Formular, Portal und Einreichungslogik

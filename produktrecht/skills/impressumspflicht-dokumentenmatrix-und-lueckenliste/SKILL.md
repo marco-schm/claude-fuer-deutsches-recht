@@ -1,6 +1,6 @@
 ---
 name: impressumspflicht-dokumentenmatrix-und-lueckenliste
-description: "Impressumspflicht: Dokumentenmatrix, Lückenliste und Nachforderung im Produktrecht."
+description: "Wenn es um Impressumspflicht: Dokumentenmatrix, Lückenliste und Nachforderung in Produkthaftung und Produktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Impressumspflicht: Dokumentenmatrix, Lückenliste und Nachforderung

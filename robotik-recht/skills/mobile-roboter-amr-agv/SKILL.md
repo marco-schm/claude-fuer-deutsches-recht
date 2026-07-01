@@ -1,6 +1,6 @@
 ---
 name: mobile-roboter-amr-agv
-description: "Prüft AMR/AGV in Logistik und Produktion: Navigation, Karten, Flottenmanagement, Kollisionsschutz, Not-Halt und Verkehrswege."
+description: "Wenn es um Mobile Roboter AMR AGV in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mobile Roboter AMR AGV

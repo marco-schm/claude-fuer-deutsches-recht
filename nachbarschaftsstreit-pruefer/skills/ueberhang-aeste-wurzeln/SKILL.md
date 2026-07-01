@@ -1,6 +1,6 @@
 ---
 name: ueberhang-aeste-wurzeln
-description: "Überhängende Äste, eindringende Wurzeln, Laub, Früchte und Verschattung prüfen: § 910 BGB, Beeinträchtigung, Fristsetzung, Selbsthilfe, Beseitigungsanspruch, Baumschutzsatzung, Naturschutz und Landesnachbarrecht im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Überhang, Äste und Wurzeln in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Überhang, Äste und Wurzeln

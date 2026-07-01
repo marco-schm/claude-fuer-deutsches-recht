@@ -1,6 +1,6 @@
 ---
 name: kita-antrag-gebuehren-klage
-description: "Hilft bei Kita-Platz, Vormerkung, Priorität, Ablehnung, Rechtsanspruch, Eilantrag und kommunaler Satzung im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Kita-Antrag in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kita-Antrag

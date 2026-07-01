@@ -1,6 +1,6 @@
 ---
 name: spezial-varianten-red-team-und-qualitaetskontrolle
-description: "Varianten: Red-Team und Qualitätskontrolle im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Varianten: Red-Team und Qualitätskontrolle in E-Mail-Umformulierer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Varianten: Red-Team und Qualitätskontrolle

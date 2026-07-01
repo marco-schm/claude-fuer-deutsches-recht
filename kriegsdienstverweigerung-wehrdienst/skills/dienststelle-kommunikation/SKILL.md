@@ -1,6 +1,6 @@
 ---
 name: dienststelle-kommunikation
-description: "Formuliert sachliche Dienststellenkommunikation ohne Provokation im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Kommunikation mit Dienststelle in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunikation mit Dienststelle

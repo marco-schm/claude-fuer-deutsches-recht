@@ -1,6 +1,6 @@
 ---
 name: beirat-amtszeit-und-rotation
-description: "Prüft Beiratsfragen zu Amtszeit Und Rotation: Zuständigkeit, Satzungsgrundlage, Beschlussweg, Haftung, Belege, Gegenargumente und verwertbaren Output."
+description: "Wenn es um Beirat Amtszeit Und Rotation in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Amtszeit Und Rotation

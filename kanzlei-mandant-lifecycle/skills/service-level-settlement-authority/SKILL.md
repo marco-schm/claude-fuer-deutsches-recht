@@ -1,6 +1,6 @@
 ---
 name: service-level-settlement-authority
-description: "Service Level Agreement: steuert Antwortzeiten, Eskalationswege, Freigaben, Wochenberichte und Notfallkontakte vereinbaren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Service Level Agreement in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Service Level Agreement

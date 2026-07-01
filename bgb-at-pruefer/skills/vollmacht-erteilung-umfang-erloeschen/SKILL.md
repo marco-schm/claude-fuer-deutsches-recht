@@ -1,6 +1,6 @@
 ---
 name: vollmacht-erteilung-umfang-erloeschen
-description: "Klausurfall zu Vollmachtserteilung, Vollmachtsumfang und Erlöschen der Vollmacht nach §§ 167 bis 169 BGB: Innen- und Außenvollmacht, Spezial- und Generalvollmacht, Widerruf, Erlöschen nach § 168 BGB und Rechtsscheinwirkung nach §§ 170 bis 172 BGB."
+description: "Wenn es um Vollmacht — Erteilung, Umfang und Erlöschen Paragrafen 167 bis 176 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vollmacht — Erteilung, Umfang und Erlöschen §§ 167 bis 176 BGB

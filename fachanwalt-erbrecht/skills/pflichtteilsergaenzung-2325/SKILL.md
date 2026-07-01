@@ -1,6 +1,6 @@
 ---
 name: pflichtteilsergaenzung-2325
-description: "Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen wenn Erblasser Schenkungen gemacht hat: § 2325 BGB Pflichtteilsergaenzung § 2329 BGB. Prüfraster: Sch..."
+description: "Wenn es um Pflichtteilsergaenzung 2325 in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen wenn Erblasser Schenkungen gemacht hat

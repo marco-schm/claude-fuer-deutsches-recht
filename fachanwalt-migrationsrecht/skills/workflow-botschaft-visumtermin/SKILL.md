@@ -1,6 +1,6 @@
 ---
 name: workflow-botschaft-visumtermin
-description: "Botschaft/Visumtermin: Prüfungslinie für Migrationsrecht: prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck un..."
+description: "Wenn es um Botschaft/Visumtermin: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Botschaft/Visumtermin: Prüfungslinie für Migrationsrecht

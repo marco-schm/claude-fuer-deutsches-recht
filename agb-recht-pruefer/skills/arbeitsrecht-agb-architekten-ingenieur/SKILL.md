@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-agb-architekten-ingenieur
-description: "Norm- und Dogmatik-Skill für Arbeitsrecht AGB 310 Abs. 4: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung im AGB-Recht."
+description: "Wenn es um Arbeitsrecht AGB 310 Abs. 4 in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsrecht AGB 310 Abs. 4

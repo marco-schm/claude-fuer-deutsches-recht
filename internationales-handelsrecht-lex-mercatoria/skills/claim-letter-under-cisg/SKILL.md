@@ -1,6 +1,6 @@
 ---
 name: claim-letter-under-cisg
-description: "Internationales Handelsrecht: Mängelrüge und Schadensersatzgeltendmachung nach CISG. Anforderungen an das Rügeschreiben (Art. 39 CISG), Aufhebungserklärung (Art. 26 CISG), Schadensersatzberechnung (Art. 74-76 CISG) und Musterkorrespondenz im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Claim-Letter unter CISG in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Claim-Letter unter CISG

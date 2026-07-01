@@ -1,6 +1,6 @@
 ---
 name: technische-begriffe-neutralitaetscheck
-description: "Dieses Skill führt einen Neutralitätscheck für technische und fachsprachliche Begriffe in juristischen Argumentationen durch. Es zeigt, wie technische, wirtschaftliche oder wissenschaftliche Begriffe in rechtliche Tatbestandsmerkmale überführt werden, welche Neutralitätsrisiken bei der Übernahme..."
+description: "Wenn es um Technische Begriffe und Neutralitätscheck in der Rechtsanwendung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Technische Begriffe und Neutralitätscheck in der Rechtsanwendung

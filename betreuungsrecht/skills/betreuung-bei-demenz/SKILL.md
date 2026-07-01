@@ -1,6 +1,6 @@
 ---
 name: betreuung-bei-demenz
-description: "Betreuung bei Demenz: Geschäftsfaehigkeit § 104 BGB, Lichte-Momente-Lehre, Einwilligung Aerztliche Behandlung, Pflegeentscheidungen. Vorgehen bei spaet diagnostizierter Demenz und Wirksamkeit frueherer Vertraege."
+description: "Wenn es um Betreuung bei Demenz in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuung Bei Demenz; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Betreuung bei Demenz

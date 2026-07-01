@@ -1,6 +1,6 @@
 ---
 name: spezial-normen-dokumentenmatrix-und-lueckenliste
-description: "Normen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Normen: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Normen: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: werbung-abmahnung
-description: "Verlagsrecht: Werbung mit Bestseller-Siegeln, Preisauszeichnungen und Rezensionszitaten — UWG, Irreführungsverbot, Siegel-Anforderungen und Abmahnrisiken im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-040 · Werbung mit Bestseller-Siegel und Rezensionen in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-040 · Werbung mit Bestseller-Siegel und Rezensionen

@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-recherche-strategie
-description: "Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wissen genuegt, wann Web-Suche bei BVerfG/BGH/BAG/BSG/BVerwG/OLG/EuGH noetig ist. Nennt Fundstellen: curia.europa.eu, dejure.org, openjur, rechtsprechung-im-internet, bundesgerichtshof.de im Subsumtions Prüfer."
+description: "Wenn es um Rechtsprechung-Recherche-Strategie in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Rechtsprechung-Recherche-Strategie

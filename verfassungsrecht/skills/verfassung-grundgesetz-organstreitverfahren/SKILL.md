@@ -1,6 +1,6 @@
 ---
 name: verfassung-grundgesetz-organstreitverfahren
-description: "Organstreitverfahren nach Art. 93 Abs. 1 Nr. 1 GG und §§ 63 ff. BVerfGG allgemein prüfen: Beteiligtenfähigkeit, Antragsgegenstand, Antragsbefugnis, Sechsmonatsfrist, Rechtsschutzbedürfnis, verfassungsrechtliche Rechtsposition und Tenorierungsziel."
+description: "Wenn es um Organstreitverfahren nach dem Grundgesetz in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Organstreitverfahren nach dem Grundgesetz

@@ -1,6 +1,6 @@
 ---
 name: anlagen-mehrparteien-konflikt-und-interessen
-description: "Anlagen: Mehrparteienkonflikt und Interessenmatrix im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug Planw..."
+description: "Wenn es um Anlagen: Mehrparteienkonflikt und Interessenmatrix in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anlagen: Mehrparteienkonflikt und Interessenmatrix

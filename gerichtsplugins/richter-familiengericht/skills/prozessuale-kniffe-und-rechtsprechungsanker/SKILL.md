@@ -1,6 +1,6 @@
 ---
 name: prozessuale-kniffe-und-rechtsprechungsanker
-description: Ordnet familiengerichtliche Prozesskniffe zu Amtsermittlung, Kindeswohl, Anhörung, Umgang, Eilschutz, Vergleich, Tenor und Beschwerdefestigkeit.
+description: "Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Familiengericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 # Prozessuale Kniffe und Rechtsprechungsanker
 

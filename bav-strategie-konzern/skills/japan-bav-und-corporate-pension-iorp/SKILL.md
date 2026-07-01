@@ -1,6 +1,6 @@
 ---
 name: japan-bav-und-corporate-pension-iorp
-description: "Japanisches betriebliches Altersversorgungssystem und IORP-Vergleich für europaeische Konzerne. Normen: IORP-II, japanisches Pensionsrecht DB-Pensions-Act. Prüfraster: Leistungsunterschiede, Finanzierungsanforderungen, Konvergenz. Output: Vergleichsanalyse Japan-bAV vs. EU-IORP. Abgrenzung: nicht..."
+description: "Wenn es um Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive

@@ -1,6 +1,6 @@
 ---
 name: lph-04-qualitaetsgate
-description: "HOAI LPH 4 Genehmigungsplanung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 4 Genehmigungsplanung: Erstellt ein qualitygate in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # LPH 4 Genehmigungsplanung: Erstellt ein qualitygate

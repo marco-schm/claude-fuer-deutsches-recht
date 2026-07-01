@@ -1,6 +1,6 @@
 ---
 name: inso-p093-personliche-haftung-der-gesellschafter
-description: "§ 93 InsO (Persönliche Haftung der Gesellschafter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 93 InsO (Persönliche Haftung der Gesellschafter) im Mandat prüfen: Normzweck, Tatbestand,..."
+description: "Wenn es um Inso P093 Personliche Haftung Der Gesellschafter in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 93 InsO (Persönliche Haftung der Gesellschafter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

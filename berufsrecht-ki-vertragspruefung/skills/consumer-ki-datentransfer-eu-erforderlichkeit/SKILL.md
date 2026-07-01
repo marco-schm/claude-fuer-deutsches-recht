@@ -1,6 +1,6 @@
 ---
 name: consumer-ki-datentransfer-eu-erforderlichkeit
-description: "Consumer-KI, Enterprise-KI, Kanzleisoftware und §-43e-Dienstleister trennen: prüft Mandatsdaten, Vertragsbindung, Toolzweck, Subunternehmer, Anonymisierungspflicht, Mandanteninformation und Freigabeentscheidung im Berufsrecht KI-Vertragsprüfung."
+description: "Wenn es um Consumer-digitale Werkzeuge vs. Paragraf-43e-Dienstleister in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Consumer Ki Datentransfer EU Erforderlichkeit; Arbeitsfeld: anwaltlichem Berufsrecht und Vertragsprüfung."
 ---
 
 # Consumer-KI vs. §-43e-Dienstleister

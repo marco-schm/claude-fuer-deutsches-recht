@@ -1,6 +1,6 @@
 ---
 name: anrechnung-55-beamtvg-mehrere-renten
-description: "Skill zur Anrechnungsregelung von Renten auf die Beamtenversorgung nach § 55 BeamtVG. Klaert das Zusammenwirken der Beamtenversorgung mit gesetzlicher Rente Altersrente Erwerbsminderungsrente sowie Renten aus berufsstaendischer oder zwischenstaatlicher Versorgung. Behandelt das Verhältnis zum Ho..."
+description: "Wenn es um Anrechnung Renten nach Paragraf 55 BeamtVG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anrechnung Renten nach § 55 BeamtVG

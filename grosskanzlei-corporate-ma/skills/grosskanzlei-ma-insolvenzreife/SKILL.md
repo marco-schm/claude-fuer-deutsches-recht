@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-insolvenzreife
-description: "Freistehender Insolvenzreife- und StaRUG-Schwellencheck für M&A: Anwendungsfall im Kaufprozess oder Beratungsmandat muss geprüft werden ob Zielunternehmen oder Mandant nahe an Insolvenzantragspflicht ist. Paragraf 17-19 InsO Zahlungsunfähigkeit drohende Zahlungsunfähigkeit Überschuldung, Paragraf 1 StaRUG dro..."
+description: "Wenn es um Freistehender Insolvenzreife- und StaRUG-Schwellencheck in Großkanzlei Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Freistehender Insolvenzreife- und StaRUG-Schwellencheck

@@ -1,6 +1,6 @@
 ---
 name: staatliche-neutralitaet
-description: "Wahlkampfrecht Praxis: staatliche Neutralität bei Schulen, Rathäusern, Amtsinhabern, Behördenkanälen und öffentlichen Einrichtungen prüfen im Wahlkampfrecht."
+description: "Wenn es um Staatliche Neutralitaet in Wahlkampfrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Staatliche Neutralitaet

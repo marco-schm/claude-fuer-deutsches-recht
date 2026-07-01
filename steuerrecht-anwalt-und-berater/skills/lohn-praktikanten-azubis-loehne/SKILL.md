@@ -1,6 +1,6 @@
 ---
 name: lohn-praktikanten-azubis-loehne
-description: "Praktikanten und Azubis lohnrelevante Sonderregeln. Anwendungsfall Pflichtpraktikum freiwilliges Praktikum Berufsausbildung BBiG Berufsausbildungsbeihilfe SV-Behandlung Vergueteung. Methodik Unterscheidung Pflicht- vs freiwilliges Praktikum Schwellen. Output Lohn-Abrechnung mit korrekter SV-Klass..."
+description: "Wenn es um Praktikanten und Azubis — lohnrelevante Sonderregeln in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Praktikanten und Azubis — lohnrelevante Sonderregeln

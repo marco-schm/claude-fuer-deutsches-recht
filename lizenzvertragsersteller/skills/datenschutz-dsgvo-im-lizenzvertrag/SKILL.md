@@ -1,6 +1,6 @@
 ---
 name: datenschutz-dsgvo-im-lizenzvertrag
-description: "DSGVO im Lizenzvertrag: Auftragsverarbeitung Art. 28 DSGVO; Kundendaten als Lizenz-Inhalt; Drittlands-Uebermittlungen Art. 44 ff. DSGVO; SCCs Schrems II Folgen; Joint Controllership Art. 26 DSGVO bei Cross-License."
+description: "Wenn es um Datenschutz — DSGVO im Lizenzvertrag in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz — DSGVO im Lizenzvertrag

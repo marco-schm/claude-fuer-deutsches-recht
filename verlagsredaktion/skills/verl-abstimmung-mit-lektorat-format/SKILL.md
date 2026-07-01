@@ -1,6 +1,6 @@
 ---
 name: verl-abstimmung-mit-lektorat-format
-description: "Klaert Lektorats- und Redaktionsstandards: wer ist fuer welchen Pruefschritt zustaendig wie wird uebergeben Track-Changes Stand Versionierung Eskalationsregeln."
+description: "Wenn es um Abstimmung Lektorat / Redaktion (Format-Klaerung) in Verlagsredaktion geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Abstimmung Lektorat / Redaktion (Format-Klaerung)

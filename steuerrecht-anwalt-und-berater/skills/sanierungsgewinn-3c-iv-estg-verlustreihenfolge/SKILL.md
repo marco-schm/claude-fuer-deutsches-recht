@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-3c-iv-estg-verlustreihenfolge
-description: "§ 3c Absatz 4 EStG Verlustreihenfolge: bestehende Verlustvorträge mindern den Sanierungsertrag, bevor die Steuerbefreiung nach § 3a EStG greift. Folge: Verlustvortrag wird verbraucht, mindestens aber bis Mindestbesteuerung im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Paragraf 3c Abs. 4 EStG — Verlustreihenfolge bei Sanierung in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Sanierungsgewinn 3c Iv Estg Verlustreihenfolge; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # § 3c Abs. 4 EStG — Verlustreihenfolge bei Sanierung

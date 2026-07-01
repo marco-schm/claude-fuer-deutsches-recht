@@ -1,6 +1,6 @@
 ---
 name: kuendigung-per-einschreiben-risiken
-description: "Einschreiben, Post und Zugang: warum Einwurf-/Übergabe-Einschreiben oft nicht genügt und wie man Beweis sauber führt: Normanker: BGB Paragraf 13..."
+description: "Wenn es um Kuendigung Per Einschreiben Risiken in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einschreiben, Post und Zugang: warum Einwurf-/Übergabe-Einschreiben oft nicht genügt und wie man Beweis sauber führt.

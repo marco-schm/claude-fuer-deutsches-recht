@@ -1,6 +1,6 @@
 ---
 name: data-protection
-description: "Data Protection Transfer DD für M&A: prüft DSGVO-Risiken, Datenuebertragung, Datenraumzugriff, Kunden-/Mitarbeiterdaten, Drittlandtransfer und Post-Closing-Migration."
+description: "Wenn es um Data Protection Transfer DD in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Data Protection Transfer DD

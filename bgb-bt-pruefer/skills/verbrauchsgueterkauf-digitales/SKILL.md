@@ -1,6 +1,6 @@
 ---
 name: verbrauchsgueterkauf-digitales
-description: "Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: zwingendes Verbraucher-Kaufrecht, § 477 BGB nach BGH vom 06.05.2026, Updatepflichten, Verjährung und Rückgriff."
+description: "Wenn es um Verbrauchsgüterkauf und Digitales Paragrafen 474 ff. BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verbrauchsgüterkauf und Digitales §§ 474 ff. BGB

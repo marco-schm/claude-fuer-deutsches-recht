@@ -1,6 +1,6 @@
 ---
 name: owi-082-strassenverkehr-frist-pruefen
-description: "Ordnungswidrigkeitenrecht: Straßenverkehr: Frist prüfen. Frist prüfen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Strassenverkehr Frist Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strassenverkehr Frist Pruefen

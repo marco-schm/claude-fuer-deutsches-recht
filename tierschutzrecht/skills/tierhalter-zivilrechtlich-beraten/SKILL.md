@@ -1,6 +1,6 @@
 ---
 name: tierhalter-zivilrechtlich-beraten
-description: "Tierschutzrecht: Tierhalter zivilrechtlich beraten. Tierhalter zivilrechtlich beraten im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht."
+description: "Wenn es um Tierhalter Zivilrechtlich Beraten in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tierhalter Zivilrechtlich Beraten

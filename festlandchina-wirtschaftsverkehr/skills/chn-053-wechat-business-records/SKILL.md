@@ -1,6 +1,6 @@
 ---
 name: chn-053-wechat-business-records
-description: "Festlandchina Wirtschaftsverkehr: Wechat Business Records. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Wechat Business Records in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wechat Business Records

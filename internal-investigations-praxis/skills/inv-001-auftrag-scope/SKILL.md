@@ -1,6 +1,6 @@
 ---
 name: inv-001-auftrag-scope
-description: "Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie moeglich und so belastbar wie noetig."
+description: "Wenn es um Untersuchungsauftrag und Scope in Internal Investigations Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Inv 001 Auftrag Scope; Arbeitsfeld: Internal Investigations Praxis."
 ---
 
 # Untersuchungsauftrag und Scope

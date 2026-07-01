@@ -1,6 +1,6 @@
 ---
 name: geschaeftsverteilung-richter-21e-gvg
-description: "Skill zur richterlichen Geschäftsverteilung nach § 21e GVG und zum verfassungsrechtlichen Anspruch auf den gesetzlichen Richter aus Art. 101 Abs. 1 Satz 2 GG. Klaert das Praesidium die Aufstellung des Geschäftsverteilungsplans zu Beginn des Geschäftsjahres die Änderung waehrend des Jahres und..."
+description: "Wenn es um Geschäftsverteilung Richter Paragraf 21e GVG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschäftsverteilung Richter § 21e GVG

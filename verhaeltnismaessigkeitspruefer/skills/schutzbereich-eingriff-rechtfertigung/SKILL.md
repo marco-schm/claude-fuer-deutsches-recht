@@ -1,6 +1,6 @@
 ---
 name: schutzbereich-eingriff-rechtfertigung
-description: Dreischritt Schutzbereich Eingriff Rechtfertigung als Prüfungsaufbau vor der eigentlichen Verhältnismäßigkeitspruefung. Erklaert wie sich klassischer und moderner Eingriffsbegriff unterscheiden und wo die Schranken-Schranke ansetzt.
+description: "Wenn es um Schutzbereich Eingriff Rechtfertigung in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schutzbereich Eingriff Rechtfertigung

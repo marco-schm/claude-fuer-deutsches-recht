@@ -1,6 +1,6 @@
 ---
 name: it-recht-saas-avv-und-tia-bundle
-description: "SaaS-Vertrag mit AVV nach Art: 28 DSGVO und Transfer Impact Assessment als Bundle. Sieben-Fragen-Diagnose: Anbietersitz Datenstandort Datenkategorien Konzernverflechtung Subprozessoren US-Bezug DPF-Zertifizierung. Schritt-für-..."
+description: "Wenn es um SaaS-Vertrag mit AVV nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SaaS-Vertrag mit AVV nach Art

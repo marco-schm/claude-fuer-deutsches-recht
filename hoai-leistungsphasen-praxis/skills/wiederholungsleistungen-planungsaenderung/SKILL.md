@@ -1,6 +1,6 @@
 ---
 name: wiederholungsleistungen-planungsaenderung
-description: "HOAI-Fachfrage: Planungsänderung, Wiederholung von Grundleistungen, § 10 HOAI, Bauherrnanordnung, Textform, geänderte Kostenbasis und Nachtragsvergütung des Planers prüfen im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Wiederholungsleistungen Und Planungsänderung in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Wiederholungsleistungen Und Planungsänderung

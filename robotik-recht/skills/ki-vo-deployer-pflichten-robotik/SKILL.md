@@ -1,6 +1,6 @@
 ---
 name: ki-vo-deployer-pflichten-robotik
-description: "Prüft Betreiber-/Deployerpflichten: Nutzung nach Anleitung, Aufsicht, Eingabedaten, Monitoring, Grundrechtefolgen und Logaufbewahrung."
+description: "Wenn es um Deployer-Pflichten Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deployer-Pflichten Robotik

@@ -1,6 +1,6 @@
 ---
 name: krankengeld-paragraf-44-sgb-v-bsg-b-1-kr-19-22-r
-description: "Krankengeld Paragraf 44 SGB V Bsg B 1 Kr 19 22 R: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Krankengeld Paragraf 44 SGB V Bsg B 1 Kr 19 22 R in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankengeld Paragraf 44 SGB V Bsg B 1 Kr 19 22 R

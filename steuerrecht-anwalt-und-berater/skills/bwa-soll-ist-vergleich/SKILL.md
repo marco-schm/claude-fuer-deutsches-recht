@@ -1,6 +1,6 @@
 ---
 name: bwa-soll-ist-vergleich
-description: "Soll-Ist-Vergleich in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Plan-Werten aus Wirtschaftsplan Unternehmensplanung Forecast. Methodik Planeingabe Abweichungsanalyse Steuerungsempfehlung. Output BWA mit Spalte Plan Ist Abweichung Erläuterungstext für Mandant Querverweis stb-bwa-manda..."
+description: "Wenn es um Soll-Ist-Vergleich in der BWA in Steuerrecht – Steuerberater und Anwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Soll-Ist-Vergleich in der BWA

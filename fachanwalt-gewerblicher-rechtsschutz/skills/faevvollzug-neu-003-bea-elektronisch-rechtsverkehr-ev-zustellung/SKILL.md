@@ -1,6 +1,6 @@
 ---
 name: faevvollzug-neu-003-bea-elektronisch-rechtsverkehr-ev-zustellung
-description: "Fachanwalt Gewerblicher Rechtsschutz: beA und elektronischer Rechtsverkehr bei eV-Zustellung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Faevvollzug Neu 003 Bea Elektronisch Rechtsverkehr Ev Zustellung in Fachanwalt Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Gewerblicher Rechtsschutz: beA und elektronischer Rechtsverkehr bei eV-Zustellung

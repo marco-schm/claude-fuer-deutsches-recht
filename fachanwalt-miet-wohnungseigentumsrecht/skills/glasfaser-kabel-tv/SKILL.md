@@ -1,6 +1,6 @@
 ---
 name: glasfaser-kabel-tv
-description: "Glasfaser/Kabel-TV: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Modernisierung, Telekommunikation, Betriebskostenfähigkeit, WEG-Beschluss; mit Normprüfung, Beweisen, Fristen, Risiko..."
+description: "Wenn es um Glasfaser/Kabel-TV: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Glasfaser/Kabel-TV: Fachmodul im Miet- und Wohnungseigentumsrecht

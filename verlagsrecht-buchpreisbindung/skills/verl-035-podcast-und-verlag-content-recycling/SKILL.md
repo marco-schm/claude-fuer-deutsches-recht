@@ -1,6 +1,6 @@
 ---
 name: verl-035-podcast-und-verlag-content-recycling
-description: "Verlagsrecht: Podcast und Verlag Content-Recycling mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Podcast und Verlag Content-Recycling in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Podcast und Verlag Content-Recycling

@@ -1,6 +1,6 @@
 ---
 name: olg-vergabesenat-beschwerdebriefing
-description: "OLG-Vergabesenat und sofortige Beschwerde strategisch vorbereiten: Beschwerdefrist, Begruendung, Eilantraege, Aktenauszug, Angriff/Verteidigung und Kosten: OLG-Vergabesenat und sofortige Beschwerde strategisch vorbereiten: Beschwerdefrist, Begruendung, Eil..."
+description: "Wenn es um Olg Vergabesenat Beschwerdebriefing in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # OLG-Vergabesenat und sofortige Beschwerde strategisch vorbereiten: Beschwerdefrist, Begruendung, Eilantraege, Aktenauszug, Angriff/Verteidigung und Kosten.

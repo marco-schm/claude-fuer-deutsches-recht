@@ -1,6 +1,6 @@
 ---
 name: satzfahne-korrekturlauf
-description: "Fuehrt durch Satzfahnen, Korrekturlaeufe, Umbruch, Seitenzahlen, Abbildungen, Fussnoten, Freigaben und letzte Produktionschecks im Verlagsredaktion."
+description: "Wenn es um Satzfahne und Korrekturlauf in Verlagsredaktion geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Satzfahne und Korrekturlauf

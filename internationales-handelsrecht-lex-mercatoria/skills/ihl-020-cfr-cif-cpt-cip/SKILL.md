@@ -1,6 +1,6 @@
 ---
 name: ihl-020-cfr-cif-cpt-cip
-description: "Internationales Handelsrecht und Lex Mercatoria: Cfr Cif Cpt Cip. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Cfr Cif Cpt Cip in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cfr Cif Cpt Cip

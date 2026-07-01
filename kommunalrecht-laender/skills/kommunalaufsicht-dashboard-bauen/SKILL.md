@@ -1,6 +1,6 @@
 ---
 name: kommunalaufsicht-dashboard-bauen
-description: "der Länder: Kommunalaufsicht: Dashboard bauen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kommunalaufsicht Dashboard Bauen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalaufsicht Dashboard Bauen

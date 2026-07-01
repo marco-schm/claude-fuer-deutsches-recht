@@ -1,6 +1,6 @@
 ---
 name: 25-adhaesionsverfahren-paragraf-403
-description: "Adhaesionsantrag des Verletzten im Strafverfahren (Paragrafen 403 bis 406c StPO), Pruefung der Zulaessigkeit und Eignung zur Mitverhandlung, Abtrennung nach Paragraf 406 Abs. 1 Satz 6 StPO, Schnittstelle zum Opferschutz und zur Verfahrensoekonomie"
+description: "Wenn es um 25 Adhaesionsverfahren Paragraf 403 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 25 Adhaesionsverfahren Paragraf 403

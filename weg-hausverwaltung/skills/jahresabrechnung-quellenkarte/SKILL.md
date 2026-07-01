@@ -1,6 +1,6 @@
 ---
 name: jahresabrechnung-quellenkarte
-description: "Jahresabrechnung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Jahresabrechnung Quellenkarte in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Jahresabrechnung Quellenkarte

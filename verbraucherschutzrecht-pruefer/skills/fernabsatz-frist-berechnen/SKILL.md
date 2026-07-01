@@ -1,6 +1,6 @@
 ---
 name: fernabsatz-frist-berechnen
-description: "Prüfer: Fernabsatz: Frist berechnen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Fernabsatz Frist Berechnen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fernabsatz Frist Berechnen

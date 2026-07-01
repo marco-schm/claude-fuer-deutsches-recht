@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-frequenzzuteilung-stellungnahme-entwurf
-description: "Frequenzzuteilung: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren."
+description: "Wenn es um TK-Regulierungsakte: Frequenzzuteilung — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # TK-Regulierungsakte: Frequenzzuteilung — Stellungnahme-Entwurf

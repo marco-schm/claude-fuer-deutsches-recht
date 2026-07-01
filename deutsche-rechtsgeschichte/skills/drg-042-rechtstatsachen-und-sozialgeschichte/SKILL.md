@@ -1,6 +1,6 @@
 ---
 name: drg-042-rechtstatsachen-und-sozialgeschichte
-description: "Deutsche Rechtsgeschichte: Rechtstatsachen Und Sozialgeschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Rechtstatsachen Und Sozialgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtstatsachen Und Sozialgeschichte

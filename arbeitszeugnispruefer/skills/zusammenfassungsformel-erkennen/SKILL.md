@@ -1,6 +1,6 @@
 ---
 name: zusammenfassungsformel-erkennen
-description: Erkennung und Decodierung der zusammenfassenden Leistungsbeurteilung als Hauptnotentraeger im Arbeitszeugnis mit Zuordnung der Zufriedenheitsformel zu einer Notenstufe von 1 bis 6.
+description: "Wenn es um Zusammenfassungsformel erkennen und decodieren in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zusammenfassungsformel erkennen und decodieren

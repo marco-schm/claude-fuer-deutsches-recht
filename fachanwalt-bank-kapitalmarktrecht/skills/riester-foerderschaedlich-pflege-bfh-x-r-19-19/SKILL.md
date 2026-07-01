@@ -1,6 +1,6 @@
 ---
 name: riester-foerderschaedlich-pflege-bfh-x-r-19-19
-description: "Riester foerderschaedliche Verwendung bei Pflegekosten mit BFH X R 19/19. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Riester Foerderschaedlich Pflege BFH X R 19 19 in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Riester Foerderschaedlich Pflege BFH X R 19 19

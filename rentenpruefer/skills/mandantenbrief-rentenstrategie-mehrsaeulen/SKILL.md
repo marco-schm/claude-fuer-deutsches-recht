@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-rentenstrategie-mehrsaeulen
-description: "Erstellt einen verständlichen Mandantenbrief zur Rentenstrategie aus DRV-Rente, Betriebsrente, privater Rente, Versorgungswerk, Steuern, Krankenversicherung und Fristen."
+description: "Wenn es um Mandantenbrief Rentenstrategie in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantenbrief Rentenstrategie

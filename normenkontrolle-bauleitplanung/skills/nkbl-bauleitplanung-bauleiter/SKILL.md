@@ -1,6 +1,6 @@
 ---
 name: nkbl-bauleitplanung-bauleiter
-description: "Bauleiter Bauleitplanung BauGB: Flaechennutzungsplan, Bebauungsplan, Verfahrensarten, Beteiligung Oeffentlichkeit. Prüfraster für Gemeinde und Buergerinitiative."
+description: "Wenn es um NkBl: Bauleitplanung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NkBl: Bauleitplanung

@@ -1,6 +1,6 @@
 ---
 name: europaeisierung-deutschen-menschenrechte
-description: "Deutsche Rechtsgeschichte: Europaeisierung des deutschen Rechts. EG-Richtlinien und ihr Einfluss auf BGB, HGB und öffentliches Recht sowie die Transformation durch EuGH-Rechtsprechung seit 1963 im Deutsche Rechtsgeschichte."
+description: "Wenn es um Europaeisierung des deutschen Rechts in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Europaeisierung des deutschen Rechts

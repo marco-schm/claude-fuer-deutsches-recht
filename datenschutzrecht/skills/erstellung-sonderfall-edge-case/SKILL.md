@@ -1,6 +1,6 @@
 ---
 name: erstellung-sonderfall-edge-case
-description: "Erstellung: Sonderfall und Edge-Case-Prüfung im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dok..."
+description: "Wenn es um Erstellung: Sonderfall und Edge-Case-Prüfung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstellung: Sonderfall und Edge-Case-Prüfung

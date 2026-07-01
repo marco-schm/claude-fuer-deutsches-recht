@@ -1,6 +1,6 @@
 ---
 name: cl-mandantenuebersicht-cl-prozesskostenrisiko
-description: "Mandantenuebersicht englischsprachig vorbereiten: typische Mandantenfragen zu Common-Law-Unterschieden, Vertragsverhandlung mit US-/UK-Counterparties, Litigation in DE gegenueber Common-Law-Gerichtsbarkeit. Strukturierte Beratungsnotiz Englisch / Deutsch parallel im Common Law Kompass."
+description: "Wenn es um Common Law: Mandantenuebersicht EN in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Common Law: Mandantenuebersicht EN

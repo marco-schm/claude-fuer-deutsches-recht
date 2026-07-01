@@ -1,6 +1,6 @@
 ---
 name: kommunalrecht-bayern-berlin-routen
-description: "Kommunalrecht der Länder: Kommunalrecht Bayern routen. Kommunalrecht Bayern routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
+description: "Wenn es um Kommunalrecht Bayern Routen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalrecht Bayern Routen

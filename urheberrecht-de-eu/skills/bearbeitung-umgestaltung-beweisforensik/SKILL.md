@@ -1,6 +1,6 @@
 ---
 name: bearbeitung-umgestaltung-beweisforensik
-description: "Prüft Bearbeitung, Adaption, Übersetzung, Arrangement, Cover, Remix und neue Fassung im Urheberrecht De Eu."
+description: "Wenn es um Bearbeitung und Umgestaltung in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bearbeitung und Umgestaltung

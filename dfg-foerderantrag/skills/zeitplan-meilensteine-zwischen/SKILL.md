@@ -1,6 +1,6 @@
 ---
 name: zeitplan-meilensteine-zwischen
-description: "Antragszeitplan vom ersten Skizzen-Entwurf bis zur Einreichung in elan strukturieren: 6 Monate vorher Themenfindung, 4 Monate vorher Literaturrecherche und Arbeitsprogramm, 3 Monate vorher Finanzplan, 6 Wochen vorher Kollegenreview, 2 Wochen vorher elan-Eingabe. Pro Meilenstein konkrete Aufgaben,"
+description: "Wenn es um Zeitplan und Meilensteine in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Zeitplan Meilensteine Zwischen; Arbeitsfeld: DFG-Förderantrag."
 ---
 
 # Zeitplan und Meilensteine

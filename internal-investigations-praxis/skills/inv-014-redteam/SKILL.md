@@ -1,6 +1,6 @@
 ---
 name: inv-014-redteam
-description: "Findet Schwachstellen in Scope, Interviewplan, Datenschutz, Privilege, Bericht und Behördenstrategie."
+description: "Wenn es um Investigation Red-Team in Internal Investigations Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Investigation Red-Team

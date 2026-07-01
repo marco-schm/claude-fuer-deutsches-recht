@@ -1,6 +1,6 @@
 ---
 name: bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt
-description: "Bauzeit- und Verzugsprüfung beim Bauträgervertrag: verbindlicher Termin, Bezugsfertigkeit, vollständige Fertigstellung, bauablaufbezogene Darlegung, Pandemie/Lieferketten/Wetter, § 313 BGB, Vertragsstrafe und Schadensersatz."
+description: "Wenn es um Bauzeit, Verzug, Vertragsstrafe und höhere Gewalt in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bauzeit, Verzug, Vertragsstrafe und höhere Gewalt

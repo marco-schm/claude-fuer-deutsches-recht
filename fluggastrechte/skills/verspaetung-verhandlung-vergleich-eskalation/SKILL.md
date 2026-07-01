@@ -1,6 +1,6 @@
 ---
 name: verspaetung-verhandlung-vergleich-eskalation
-description: "Verspaetung: Verhandlung, Vergleich und Eskalation im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche..."
+description: "Wenn es um Verspaetung: Verhandlung, Vergleich und Eskalation in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verspaetung: Verhandlung, Vergleich und Eskalation

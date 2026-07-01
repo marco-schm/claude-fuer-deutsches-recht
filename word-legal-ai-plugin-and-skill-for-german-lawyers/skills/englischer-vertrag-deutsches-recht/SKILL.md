@@ -1,6 +1,6 @@
 ---
 name: englischer-vertrag-deutsches-recht
-description: "Draftet oder prüft englischsprachige Verträge mit deutschem Recht als anwendbarem Recht. Verhindert ungewollten Import von Common-Law-Konzepten, klärt governing language, German-law concepts, Gewährleistung, Garantie, Haftung, Indemnity, Vertragsstrafe, Schriftform, Gerichtsstand und Anlagenlogik..."
+description: "Wenn es um Englischer Vertrag nach Deutschem Recht in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Englischer Vertrag nach Deutschem Recht

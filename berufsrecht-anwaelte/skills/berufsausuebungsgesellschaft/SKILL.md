@@ -1,6 +1,6 @@
 ---
 name: berufsausuebungsgesellschaft
-description: "Anwälte: berufsausuebungsgesellschaft und fremdbesitz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Anwaelte."
+description: "Wenn es um Berufsausuebungsgesellschaft in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: berufsausuebungsgesellschaft und fremdbesitz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

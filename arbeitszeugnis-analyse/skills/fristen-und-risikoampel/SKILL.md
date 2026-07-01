@@ -1,6 +1,6 @@
 ---
 name: fristen-und-risikoampel
-description: "Fristen- und Risikoampel im Arbeitszeugnisrecht: GewO Paragraf 109, BGB Paragrafen 195/199 sowie 241 Abs. 2 und 280; arbeitsvertragliche Ausschlussfristen und ArbGG-Fristen aktenbasiert sortieren, ohne unnötige Rückfragen."
+description: "Wenn es um Fristen- und Risikoampel Arbeitszeugnis in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen- und Risikoampel Arbeitszeugnis

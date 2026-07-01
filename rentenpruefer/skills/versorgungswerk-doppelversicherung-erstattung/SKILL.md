@@ -1,6 +1,6 @@
 ---
 name: versorgungswerk-doppelversicherung-erstattung
-description: "Prüft Doppelversicherung zwischen DRV und Versorgungswerk: Beitragsfluss, Befreiungszeitraum, Arbeitgeberkorrektur, Erstattung, Nachversicherung und Streitstrategie."
+description: "Wenn es um Doppelversicherung und Beitragserstattung in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Doppelversicherung und Beitragserstattung

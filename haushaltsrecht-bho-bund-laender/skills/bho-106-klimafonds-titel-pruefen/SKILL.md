@@ -1,6 +1,6 @@
 ---
 name: bho-106-klimafonds-titel-pruefen
-description: "Haushaltsrecht BHO Bund und Länder: Klimafonds: Titel prüfen. Titel prüfen für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Klimafonds Titel Pruefen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klimafonds Titel Pruefen

@@ -1,6 +1,6 @@
 ---
 name: compliance-sonderfall-edge-case
-description: "Compliance: Sonderfall und Edge-Case-Prüfung: Compliance: Sonderfall und Edge-Case-Prüfung."
+description: "Wenn es um Compliance: Sonderfall und Edge-Case-Prüfung in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Compliance: Sonderfall und Edge-Case-Prüfung

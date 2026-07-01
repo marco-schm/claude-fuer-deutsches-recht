@@ -1,6 +1,6 @@
 ---
 name: pflegegeld-pflegegrad-1-bis-5
-description: "Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff. SGB XI). Skill erklärt Pflegegeld, Pflegesachleistung, Kombinationsleistung, Entlastungsbetrag, Begutachtung, Widerspruch und aktuelle Leistungsbeträge mit Live-Verifikation."
+description: "Wenn es um Pflegegeld Pflegegrad 1 Bis 5 in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflegegeld Pflegegrad 1 Bis 5

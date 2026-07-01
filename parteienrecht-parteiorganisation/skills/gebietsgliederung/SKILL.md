@@ -1,6 +1,6 @@
 ---
 name: gebietsgliederung
-description: "Ordnet Bundes-, Landes-, Bezirks-, Kreis-, Ortsverband, Arbeitsgemeinschaften und Zuständigkeiten im Parteienrecht."
+description: "Wenn es um Gebietsgliederung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gebietsgliederung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Gebietsgliederung

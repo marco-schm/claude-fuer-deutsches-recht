@@ -1,6 +1,6 @@
 ---
 name: cisg-vertragsschluss
-description: "Internationales Handelsrecht: Vertragsschluss nach CISG Art. 14-24. Angebot (Bestimmtheit nach Art. 14), Annahme (Art. 18-22), Widerruflichkeit (Art. 16), Verspätung (Art. 21) und Mirror-Image-Rule vs. modifizierte Annahme (Art. 19) im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um CISG Vertragsschluss (Art. 14-24) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # CISG Vertragsschluss (Art. 14-24)

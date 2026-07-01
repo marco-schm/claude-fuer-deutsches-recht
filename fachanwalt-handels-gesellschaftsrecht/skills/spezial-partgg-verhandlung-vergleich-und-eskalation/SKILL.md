@@ -1,6 +1,6 @@
 ---
 name: spezial-partgg-verhandlung-vergleich-und-eskalation
-description: "Partgg: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt handels gesellschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Partgg: Verhandlung, Vergleich und Eskalation in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Partgg: Verhandlung, Vergleich und Eskalation

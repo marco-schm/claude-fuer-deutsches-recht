@@ -1,6 +1,6 @@
 ---
 name: krankheitsbedingte-urlaubsuebertragung
-description: "Skill zur Uebertragung und Abgeltung des Erholungsurlaubs bei laenger andauernder Erkrankung im Beamtenverhaeltnis. Klaert die 15-Monats-Frist nach EuGH-Rechtsprechung den unionsrechtlichen Mindesturlaub die Unterscheidung zwischen unionsrechtlich gewaehrtem Urlaub und nationalem Zusatzurlaub den..."
+description: "Wenn es um Krankheitsbedingte Urlaubsuebertragung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankheitsbedingte Urlaubsuebertragung

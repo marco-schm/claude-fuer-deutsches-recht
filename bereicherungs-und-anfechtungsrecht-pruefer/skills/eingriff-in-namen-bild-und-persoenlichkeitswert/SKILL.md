@@ -1,6 +1,6 @@
 ---
 name: eingriff-in-namen-bild-und-persoenlichkeitswert
-description: "Anwendungsfall: kommerzieller Persönlichkeitswert ohne Zustimmung genutzt wurde. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; §§ 22 und 23 KUG; Art. 2 Abs. 1 GG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung,..."
+description: "Wenn es um Eingriff in Name, Bild und Persönlichkeitswert in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eingriff In Namen Bild Und Persoenlichkeitswert; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # Eingriff in Name, Bild und Persönlichkeitswert

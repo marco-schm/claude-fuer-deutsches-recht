@@ -1,6 +1,6 @@
 ---
 name: inso-p185-besondere-zustandigkeiten
-description: "§ 185 InsO (Besondere Zuständigkeiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 185 InsO (Besondere Zuständigkeiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fr..."
+description: "Wenn es um Inso P185 Besondere Zustandigkeiten in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 185 InsO (Besondere Zuständigkeiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

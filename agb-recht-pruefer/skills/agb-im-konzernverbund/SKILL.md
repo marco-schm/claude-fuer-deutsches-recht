@@ -1,6 +1,6 @@
 ---
 name: agb-im-konzernverbund
-description: "AGB im Konzernverbund. Skill behandelt die AGB-rechtliche Prüfung von Konzernvereinbarungen Service-Level-Agreements zwischen Mutter und Tochter sowie Standardklauseln bei konzerninternen Vertraegen. Aktuelle Themen: Cash-Pooling Cross-Cluster-Services Konzernverrechnungspreise und § 307 BGB. Li..."
+description: "Wenn es um Agb Im Konzernverbund in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Im Konzernverbund

@@ -1,6 +1,6 @@
 ---
 name: revision-und-aenderungswuensche
-description: "Workflow für Änderungswünsche nach dem ersten Zeugnisgenerierlauf. Der Nutzer möchte einzelne Sätze ändern, eine Note anpassen oder Abschnitte ergänzen. Enthält Regeln für konsistente Nachbearbeitung: Notenanpassung zieht Formulierungsanpassung nach sich. Auch: Schutz bereits erteilter Schlussformeln vor Streichung bei Berichtigungsverlangen (BAG 9 AZR 272.22)."
+description: "Wenn es um Revision und Änderungswünsche in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Revision und Änderungswünsche

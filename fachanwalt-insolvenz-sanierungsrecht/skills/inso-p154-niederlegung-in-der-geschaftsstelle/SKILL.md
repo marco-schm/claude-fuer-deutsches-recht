@@ -1,6 +1,6 @@
 ---
 name: inso-p154-niederlegung-in-der-geschaftsstelle
-description: "§ 154 InsO (Niederlegung in der Geschäftsstelle) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 154 InsO (Niederlegung in der Geschäftsstelle) im Mandat prüfen: Normzweck, Tatbestand, Bel..."
+description: "Wenn es um Inso P154 Niederlegung In Der Geschaftsstelle in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 154 InsO (Niederlegung in der Geschäftsstelle) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: commercial-litigation-budget
-description: "Commercial Litigation Budget: steuert Klage, Beweisaufnahme, Vergleich, Berufung und Vollstreckung budgetieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Commercial Litigation Budget in Kanzlei-Mandant Lifecycle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Commercial Litigation Budget

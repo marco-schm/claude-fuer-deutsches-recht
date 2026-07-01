@@ -1,6 +1,6 @@
 ---
 name: abrechnung-buchauszug-abschlussprovision
-description: "Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisionsabrechnungen und den Buchauszug nach § 87c HGB: Prüfung von Vollständigkeit und Richtigkeit der Abrechnung, Formulierung von Buchauszugsverlangen, Klageerhebung bei Verweigerung sowie Auswertung übergebener Daten auf L..."
+description: "Wenn es um Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB in Handelsvertreterrecht und Vertriebsverträge geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Provisionsabrechnung und Buchauszug nach § 87c HGB

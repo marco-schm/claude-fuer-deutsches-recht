@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-schutzmassnahmen-safeguards
-description: "EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art. 16 und VO (EU) 2015/755 Art. 13: Mengenbeschraenkungen Ueberwachungsmassnahmen und Antragstellung bei der EU-Kommission. Wirkung auf Importeure und Exporteure in betroffenen Sektoren (Stahl Solar Keramik). Abgrenzung zu Antidumping-Zoell..."
+description: "Wenn es um EU-Schutzmassnahmen (Safeguards): Mengenbeschraenkungen und Unternehmensreaktion in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # EU-Schutzmassnahmen (Safeguards): Mengenbeschraenkungen und Unternehmensreaktion

@@ -1,6 +1,6 @@
 ---
 name: it-freelancer-agil-projekt
-description: "Prüft IT-Freelancer in Scrum/Agile-Projekten mit Teammeetings, Tickets, Product Owner, Tools und Unternehmerrisiko im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um IT-Freelancer im agilen Projekt in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # IT-Freelancer im agilen Projekt

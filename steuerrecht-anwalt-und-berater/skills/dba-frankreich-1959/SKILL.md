@@ -1,6 +1,6 @@
 ---
 name: dba-frankreich-1959
-description: "DBA Deutschland Frankreich aus 1959 mit Änderungsprotokollen. Anwendungsfall Pendler im Elsass und Lothringen Grenzgaengerregelung 20-km-Zone. Beteiligungen Pensionen Lizenzen. Aelteres DBA mit Sonderkonstruktionen abweichend vom OECD-MA. Output Mandanten-Memo Grenzgaengernachweis BZSt-Hinweise..."
+description: "Wenn es um DBA Deutschland-Frankreich (1959/Protokolle) in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # DBA Deutschland-Frankreich (1959/Protokolle)

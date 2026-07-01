@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-markenrecht-144-markeng-strafverfahren
-description: "Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG: Antragsdelikt Privatklage besonderes öffentliches Interesse. Zuständigkeit AG LG. Verhältnis zu zivilrechtlicher Verletzungsklage. Strafan..."
+description: "Wenn es um Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG

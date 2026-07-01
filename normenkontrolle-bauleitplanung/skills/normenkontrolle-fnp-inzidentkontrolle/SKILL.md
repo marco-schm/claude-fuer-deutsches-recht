@@ -1,6 +1,6 @@
 ---
 name: normenkontrolle-fnp-inzidentkontrolle
-description: "Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion..."
+description: "Wenn es um Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Normenkontrolle Fnp Inzidentkontrolle; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung

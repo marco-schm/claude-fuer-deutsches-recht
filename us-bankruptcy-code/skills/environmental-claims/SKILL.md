@@ -1,6 +1,6 @@
 ---
 name: environmental-claims
-description: "Prüft environmental obligations, cleanup orders, police-power exception, claims vs injunctions and asset sale risks im US Bankruptcy Code."
+description: "Wenn es um Environmental Claims in Bankruptcy in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Environmental Claims in Bankruptcy

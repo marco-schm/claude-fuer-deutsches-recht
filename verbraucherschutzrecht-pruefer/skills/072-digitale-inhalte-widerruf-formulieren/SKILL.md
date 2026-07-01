@@ -1,6 +1,6 @@
 ---
 name: 072-digitale-inhalte-widerruf-formulieren
-description: "Prüfer: Digitale Inhalte: Widerruf formulieren im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Digitale Inhalte Widerruf Formulieren in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitale Inhalte Widerruf Formulieren

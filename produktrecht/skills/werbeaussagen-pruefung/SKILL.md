@@ -1,6 +1,6 @@
 ---
 name: werbeaussagen-pruefung
-description: "Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach deutschem und europäischem Recht. Lädt, wenn der Nutzer Werbetext prüfen, Marketingaussagen freigeben, UWG-Prüfung, Health Claims, klimaneutral prüfen oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt im Prod..."
+description: "Wenn es um Werbeaussagen-Prüfung (Marketing Claims Review) in Produkthaftung und Produktrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Werbeaussagen-Prüfung (Marketing Claims Review)

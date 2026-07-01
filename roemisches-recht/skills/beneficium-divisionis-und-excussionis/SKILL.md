@@ -1,6 +1,6 @@
 ---
 name: beneficium-divisionis-und-excussionis
-description: "Beneficium divisionis und beneficium excussionis: Buergenprivilegien im roemischen Recht. Skill behandelt die Aufteilungsbefugnis bei mehreren Buergen (divisionis) und das Vorausklagebefugnis gegen den Hauptschuldner (excussionis). Liefert Quellenmatrix."
+description: "Wenn es um Rom 135 Beneficium Divisionis Und Excussionis in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 135 Beneficium Divisionis Und Excussionis

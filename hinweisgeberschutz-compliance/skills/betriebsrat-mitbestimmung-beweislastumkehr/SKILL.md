@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-mitbestimmung-beweislastumkehr
-description: "Prüft Mitbestimmung bei Meldesystem und Untersuchungen im Hinweisgeberschutz Compliance."
+description: "Wenn es um Betriebsrat Mitbestimmung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsrat Mitbestimmung

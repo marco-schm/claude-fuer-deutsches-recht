@@ -1,6 +1,6 @@
 ---
 name: gerichtliche-nachforderung
-description: "Gerichtliche Nachforderung: Frist, Ergänzung, unvollständiger Antrag, Wiedervorlage und Belegdisziplin: Normanker: InsO § 305; ZPO-Fristen analog über..."
+description: "Wenn es um Gerichtliche Nachforderung in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gerichtliche Nachforderung: Frist, Ergänzung, unvollständiger Antrag, Wiedervorlage und Belegdisziplin.

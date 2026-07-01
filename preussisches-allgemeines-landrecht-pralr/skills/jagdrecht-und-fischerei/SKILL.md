@@ -1,6 +1,6 @@
 ---
 name: jagdrecht-und-fischerei
-description: "Jagdrecht und Fischereirecht im ALR. Skill behandelt das Wildbann-System die Jagdberechtigung des Grundherrn vs. Eigenjagdrecht der Bauern und die Reform durch die Bundesgesetze. Liefert Quellenmatrix."
+description: "Wenn es um Pralr Jagdrecht Und Fischerei in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Jagdrecht Und Fischerei; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Pralr Jagdrecht Und Fischerei

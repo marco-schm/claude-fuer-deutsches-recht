@@ -1,6 +1,6 @@
 ---
 name: forumwahl-court-glossary
-description: "Vergleicht Commercial Court, ordentliche Kammer, Schiedsgericht, DIS/ICC/LCIA und Gerichtsstandsvereinbarung; Output ist eine Vorstandsvorlage mit Empfehlung im Commercial Courts Deutschland."
+description: "Wenn es um Forumwahl gegenüber Schiedsgericht in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Forumwahl gegenüber Schiedsgericht

@@ -1,6 +1,6 @@
 ---
 name: fruehe-veroeffentlichung-konferenz-rechtsprechun
-description: "Patentanwälte: fruehe veroeffentlichung konferenz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Fruehe Veroeffentlichung Konferenz Rechtsprechun in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Patentanwälte: fruehe veroeffentlichung konferenz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

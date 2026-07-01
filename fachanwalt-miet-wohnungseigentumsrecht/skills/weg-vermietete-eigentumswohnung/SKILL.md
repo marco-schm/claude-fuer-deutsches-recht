@@ -1,6 +1,6 @@
 ---
 name: weg-vermietete-eigentumswohnung
-description: "Vermietete Eigentumswohnung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Schnittstelle Mieter/Eigentümer/Gemeinschaft, Umlage, Duldung; mit Normprüfung, Beweisen, Fristen,..."
+description: "Wenn es um Vermietete Eigentumswohnung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vermietete Eigentumswohnung: Fachmodul im Miet- und Wohnungseigentumsrecht

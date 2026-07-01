@@ -1,6 +1,6 @@
 ---
 name: ressort-bmjv
-description: "Heranfuehrung Ressort BMJV (Bundesministerium der Justiz und für Verbraucherschutz). Schwerpunkt: Pflege von BGB und StGB; Prozessrecht; Verbraucherschutz; Rechtsstaatlichkeit. Kernnormen: BGB; HGB; StGB; StPO; ZPO; GVG; UWG; UKlaG; BDSG. Fuenf Spezialfelder: zivilrecht-und-buergerliches-gesetzbu..."
+description: "Wenn es um Ressort-Heranfuehrung BMJV in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressort-Heranfuehrung BMJV

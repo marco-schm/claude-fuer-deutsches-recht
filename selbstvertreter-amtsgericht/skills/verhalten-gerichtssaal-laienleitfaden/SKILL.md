@@ -1,6 +1,6 @@
 ---
 name: verhalten-gerichtssaal-laienleitfaden
-description: "Verhalten im Gerichtssaal für Laien. Aufstehen Anrede Hoher Herr Vorsitzender Reihenfolge der Worterteilung Anrede Gegenseite Dokumenten-Vorlage Pausen Mobiltelefone. Praktischer Leitfaden vor und im Termin."
+description: "Wenn es um Verhalten im Gerichtssaal: Praktischer Leitfaden in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verhalten im Gerichtssaal: Praktischer Leitfaden

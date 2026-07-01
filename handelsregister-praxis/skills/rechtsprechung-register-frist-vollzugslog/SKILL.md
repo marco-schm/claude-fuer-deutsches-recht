@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-register-frist-vollzugslog
-description: "Legt fest, wie Entscheidungen in Registersachen nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink ausgegeben werden im Handelsregister Praxis."
+description: "Wenn es um Rechtsprechung nur verifiziert nutzen in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsprechung nur verifiziert nutzen

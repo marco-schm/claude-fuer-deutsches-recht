@@ -1,6 +1,6 @@
 ---
 name: interpretation-und-intention
-description: "Prüft Text, Sprecherintention, objektivierten Sinn, Zweck, Materialien und spätere Entwicklung ohne starre Rangbehauptung."
+description: "Wenn es um Interpretation und Intention in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Interpretation und Intention

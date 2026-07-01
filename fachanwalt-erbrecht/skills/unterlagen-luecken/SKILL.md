@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Erbrecht: trennt fehlende Tatsachen von fehlenden Belegen (Testament/Erbvertrag, Erbschein-Antrag, Nachlassverzeichnis), nennt pro Lücke Beweisthema, Beschaffungsweg (Nachlassgericht (AG)), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Erbrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

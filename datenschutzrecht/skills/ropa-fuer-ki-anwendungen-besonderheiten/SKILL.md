@@ -1,6 +1,6 @@
 ---
 name: ropa-fuer-ki-anwendungen-besonderheiten
-description: "Besonderheiten des Verzeichnisses von Verarbeitungstaetigkeiten bei KI-Anwendungen: Trainingsdatensaetze, Inferenz, RAG, Prompt-Logs, Fine-Tuning, Vector Stores, automatisierte Entscheidungen (Art. 22 DSGVO), Bezug zur KI-Verordnung. Mit Spaltenerweiterungen und Beispielen für LLM-API-Nutzung, Co..."
+description: "Wenn es um RoPA für digitale Werkzeuge-Anwendungen – Besonderheiten in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # RoPA für KI-Anwendungen – Besonderheiten

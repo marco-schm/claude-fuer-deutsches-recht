@@ -1,6 +1,6 @@
 ---
 name: luft-073-drohne-pfandrecht-vorbereiten
-description: "Luftrecht und Flughafenrecht: Drohne: Pfandrecht vorbereiten. Pfandrecht vorbereiten für Drohne im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Drohne Pfandrecht Vorbereiten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drohne Pfandrecht Vorbereiten

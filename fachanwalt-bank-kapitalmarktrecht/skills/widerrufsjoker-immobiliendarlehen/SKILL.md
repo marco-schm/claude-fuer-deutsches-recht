@@ -1,6 +1,6 @@
 ---
 name: widerrufsjoker-immobiliendarlehen
-description: "Widerrufsjoker Immobiliendarlehen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Widerrufsjoker Immobiliendarlehen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung..."
+description: "Wenn es um Widerrufsjoker Immobiliendarlehen in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Widerrufsjoker Immobiliendarlehen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

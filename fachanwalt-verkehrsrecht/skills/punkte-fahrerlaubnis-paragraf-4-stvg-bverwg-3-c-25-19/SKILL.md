@@ -1,6 +1,6 @@
 ---
 name: punkte-fahrerlaubnis-paragraf-4-stvg-bverwg-3-c-25-19
-description: "Punkte Fahrerlaubnis Paragraf 4 Stvg BVerwG 3 C 25 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Punkte Fahrerlaubnis Paragraf 4 Stvg BVerwG 3 C 25 19 in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Punkte Fahrerlaubnis Paragraf 4 Stvg BVerwG 3 C 25 19

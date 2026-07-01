@@ -1,6 +1,6 @@
 ---
 name: beschreibung-und-zeichnungen
-description: "Beschreibung und Zeichnungen prüfen: Offenbarung, Bezugszeichen, Ausführungsbeispiele, Varianten, technische Wirkung und Konsistenz mit Ansprüchen im Gebrauchsmusterrecht."
+description: "Wenn es um Beschreibung Und Zeichnungen in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beschreibung Und Zeichnungen

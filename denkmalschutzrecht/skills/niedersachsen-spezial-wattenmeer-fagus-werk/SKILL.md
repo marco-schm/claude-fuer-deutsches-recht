@@ -1,6 +1,6 @@
 ---
 name: niedersachsen-spezial-wattenmeer-fagus-werk
-description: "Niedersaechsische Besonderheit: Wattenmeer (Welterbe seit 2009, gemeinsam mit Niederlanden und Hamburg und Schleswig-Holstein), Fagus-Werk Alfeld (Welterbe seit 2011), Goslar mit Bergwerk Rammelsberg und Oberharzer Wasserwirtschaft (Welterbe seit 1992 plus Erweiterungen) und Hildesheimer Mariendom und Michaeliskirche (Welterbe seit 1985). Skill ordnet die Verfahrenspraxis je Welterbestaette."
+description: "Wenn es um Wattenmeer und Fagus-Werk Alfeld als UNESCO-Welterbe in Niedersachsen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Wattenmeer und Fagus-Werk Alfeld als UNESCO-Welterbe in Niedersachsen

@@ -1,6 +1,6 @@
 ---
 name: joiner-mover-ki-incident-tools-shadow
-description: "Baut Joiner-Mover-Leaver-Kontrollen im Nis2 Cybersecurity Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Joiner Mover Leaver in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Joiner Mover Leaver

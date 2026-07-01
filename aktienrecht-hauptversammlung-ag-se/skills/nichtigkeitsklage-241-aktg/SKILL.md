@@ -1,6 +1,6 @@
 ---
 name: nichtigkeitsklage-241-aktg
-description: "Hauptversammlung AG und SE: Nichtigkeitsklage 241 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Nichtigkeitsklage 241 Aktg in Hauptversammlung AG und SE geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Nichtigkeitsklage 241 Aktg

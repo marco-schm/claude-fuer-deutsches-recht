@@ -1,6 +1,6 @@
 ---
 name: notariat-und-grundbuchhistorie
-description: "Deutsche Rechtsgeschichte: Notariat und Grundbuchhistorie. Entstehung des Notariats im Mittelalter, deutsche Notariatsgeschichte, Beurkundungsgesetz 1969 und Grundbuchordnung im historischen Wandel im Deutsche Rechtsgeschichte."
+description: "Wenn es um Notariat und Grundbuchhistorie in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat und Grundbuchhistorie

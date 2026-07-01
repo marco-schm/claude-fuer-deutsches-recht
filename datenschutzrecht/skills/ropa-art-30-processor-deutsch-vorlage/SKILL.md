@@ -1,6 +1,6 @@
 ---
 name: ropa-art-30-processor-deutsch-vorlage
-description: "Vollvorlage für das Verzeichnis von Verarbeitungstaetigkeiten des Auftragsverarbeiters nach Art. 30 Abs. 2 DSGVO. Vier Mindestinhalte, Auftraggeberliste, Verarbeitungskategorien, Drittlandtransfer, TOM-Verweis. Beispiele für Hosting, Steuerberatung, Lohnbuchhaltung."
+description: "Wenn es um RoPA-Vorlage Auftragsverarbeiter (Processor) – Deutsch in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # RoPA-Vorlage Auftragsverarbeiter (Processor) – Deutsch

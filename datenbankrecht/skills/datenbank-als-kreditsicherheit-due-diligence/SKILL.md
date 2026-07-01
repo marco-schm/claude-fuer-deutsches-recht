@@ -1,6 +1,6 @@
 ---
 name: datenbank-als-kreditsicherheit-due-diligence
-description: "Bewertet Datenbankrechte (§§ 87a-87e UrhG) als Kreditsicherheit: Verpfändung und Sicherungsübertragung von Datenbankherstellerrecht, Due-Diligence-Prüfung für Kreditgeber (Investitionsnachweis, Schutzdauer, Verletzungsfreiheit) und Verwertung im Sicherungsfall. Analysiert Bankpraxis und erstellt..."
+description: "Wenn es um Datenbank als Kreditsicherheit — Due Diligence für Kreditgeber in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbank als Kreditsicherheit — Due Diligence für Kreditgeber

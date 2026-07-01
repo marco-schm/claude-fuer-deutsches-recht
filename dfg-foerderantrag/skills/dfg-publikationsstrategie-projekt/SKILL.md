@@ -1,6 +1,6 @@
 ---
 name: dfg-publikationsstrategie-projekt
-description: "Publikationsstrategie für das beantragte Projekt: realistische Zahl Publikationen, geplante Zeitschriften mit Impact und Open-Access-Status, DFG-Open-Access-Politik, Praeprints, Datenpublikation. Im Antrag muss Publikationsplan zu Arbeitsprogramm und Projektdauer passen. Vermeidet Ueberversprechen."
+description: "Wenn es um Publikationsstrategie Projekt in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Dfg Publikationsstrategie Projekt; Arbeitsfeld: DFG-Förderantrag."
 ---
 
 # Publikationsstrategie Projekt

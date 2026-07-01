@@ -1,6 +1,6 @@
 ---
 name: beurteilung-konkurrentenstreit-auswahlentscheidung
-description: "Beurteilung, Konkurrentenstreit, Auswahlentscheidung: prüft Beurteilungsfehlerlehre, Bestenauslese, Auswahlvermerk und einstweiligen Rechtsschutz. Norm-/Quellenanker: Art. 33 Abs. 2 GG, § 3 SG, ZDv A-1340/50 im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Beurteilung, Konkurrentenstreit und Auswahlentscheidung in Bundeswehrrecht und Wehrrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beurteilung, Konkurrentenstreit und Auswahlentscheidung

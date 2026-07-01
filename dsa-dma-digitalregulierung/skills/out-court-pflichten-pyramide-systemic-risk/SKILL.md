@@ -1,6 +1,6 @@
 ---
 name: out-court-pflichten-pyramide-systemic-risk
-description: "Out-of-Court-Streitbeilegung nach Art. 21 DSA praktisch nutzen: Bekanntmachung der zertifizierten Stellen, Verfahrensgang, Bindungswirkung, Kostenverteilung. Prüfraster für Nutzer und Plattform-Strategie im Dsa Dma Digitalregulierung."
+description: "Wenn es um DSA: Out-of-Court-Streit in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DSA: Out-of-Court-Streit

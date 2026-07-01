@@ -1,6 +1,6 @@
 ---
 name: it-cloud-kammeraufsicht-ruege
-description: "IT, Cloud, KI und Outsourcing: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Berufsgeheimnis, Datenschutz, Anbieterprüfung, Logging und No-Training-Klauseln, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentan..."
+description: "Wenn es um IT, Cloud, digitale Werkzeuge und Outsourcing in Berufsrecht Patentanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IT, Cloud, KI und Outsourcing

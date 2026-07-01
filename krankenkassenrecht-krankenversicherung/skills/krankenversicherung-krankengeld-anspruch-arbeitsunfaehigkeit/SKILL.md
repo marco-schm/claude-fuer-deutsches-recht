@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-krankengeld-anspruch-arbeitsunfaehigkeit
-description: "Krankengeldanspruch nach § 44 SGB V: Arbeitsunfähigkeitsbescheinigung, Blockfrist 78 Wochen, Nahtlosigkeit, Lückenfälle und Weiterbewilligungsstrategien im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Krankengeld: Anspruch, Arbeitsunfähigkeit, Blockfrist, Nahtlosigkeit in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankengeld: Anspruch, Arbeitsunfähigkeit, Blockfrist, Nahtlosigkeit

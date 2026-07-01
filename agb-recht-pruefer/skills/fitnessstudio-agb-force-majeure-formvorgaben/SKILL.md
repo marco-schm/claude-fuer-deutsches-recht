@@ -1,6 +1,6 @@
 ---
 name: fitnessstudio-agb-force-majeure-formvorgaben
-description: "Branchen-Fachmodul für Fitnessstudio AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen im AGB-Recht."
+description: "Wenn es um Fitnessstudio AGB in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Fitnessstudio Agb Force Majeure Formvorgaben; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Fitnessstudio AGB

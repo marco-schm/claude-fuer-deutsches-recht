@@ -1,6 +1,6 @@
 ---
 name: asset-deals-im-plan-grundstuecke-marken-kundendaten
-description: "Asset-Deals im Insolvenzplan strukturieren wenn Grundstuecke Marken oder Kundendaten uebertragen werden sollen. §§ 311b 398 BGB §§ 27 ff. MarkenG § 15 PatG. Prüfraster: Übertragungsgegenstand Formerfordernis Grundbuch Markenregister Datenschutz DSGVO-Konformität. Output: Transferklauseln Plananla..."
+description: "Wenn es um Asset Deals Im Plan Grundstuecke Marken Kundendaten in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Übertragungsklauseln im Insolvenzplan — aufschiebend vs. auflösend bedingt, mit/ohne Gläubigerzustimmung

@@ -1,6 +1,6 @@
 ---
 name: see-049-werftvertrag-klagepfad-waehlen
-description: "See- und Schifffahrtsrecht: Werftvertrag: Klagepfad wählen. Klagepfad wählen für Werftvertrag im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Werftvertrag Klagepfad Waehlen in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Werftvertrag Klagepfad Waehlen

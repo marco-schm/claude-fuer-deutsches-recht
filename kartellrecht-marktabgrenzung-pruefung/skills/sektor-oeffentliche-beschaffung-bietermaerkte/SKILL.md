@@ -1,6 +1,6 @@
 ---
 name: sektor-oeffentliche-beschaffung-bietermaerkte
-description: "Sektor öffentliche Beschaffung und Bietermärkte: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Frist..."
+description: "Wenn es um Sektor öffentliche Beschaffung und Bietermärkte in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sektor öffentliche Beschaffung und Bietermärkte

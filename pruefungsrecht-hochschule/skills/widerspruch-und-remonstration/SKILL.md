@@ -1,6 +1,6 @@
 ---
 name: widerspruch-und-remonstration
-description: "Baut Widerspruch, Remonstration oder Gegenvorstellung im Prüfungsrecht Hochschule."
+description: "Wenn es um Widerspruch Und Remonstration in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Widerspruch Und Remonstration

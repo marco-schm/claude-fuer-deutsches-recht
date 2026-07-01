@@ -1,6 +1,6 @@
 ---
 name: strafrecht-polizeifilmerei-201-stgb-kug-verteidigung
-description: "Strafverteidigung bei Vorwurf wegen Filmens von Polizeieinsätzen: § 201 StGB, § 201a StGB, KunstUrhG/KUG §§ 22 bis 23 sowie § 33, Beschlagnahme des Smartphones, Beweisverwertung, Strafbefehl, Widerspruch gegen polizeiliche Maßnahmen und Verteidigungslinie:..."
+description: "Wenn es um Strafrecht Polizeifilmerei 201 Stgb Kug Verteidigung in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafverteidigung bei Vorwurf wegen Filmens von Polizeieinsätzen: § 201 StGB, § 201a StGB, KunstUrhG/KUG §§ 22 bis 23 sowie § 33, Beschlagnahme des Smartphones, Beweisverwertung, Strafbefehl, Widerspruch gegen polizeiliche Maßnahmen und Verteidigungslinie.

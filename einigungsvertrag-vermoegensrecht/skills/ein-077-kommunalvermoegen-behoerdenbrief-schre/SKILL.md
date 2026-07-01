@@ -1,6 +1,6 @@
 ---
 name: ein-077-kommunalvermoegen-behoerdenbrief-schre
-description: "Einigungsvertrag und Vermögensrecht: Kommunalvermögen: Behördenbrief schreiben. Behördenbrief schreiben für Kommunalvermögen im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kommunalvermoegen Behoerdenbrief Schre in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kommunalvermoegen Behoerdenbrief Schre

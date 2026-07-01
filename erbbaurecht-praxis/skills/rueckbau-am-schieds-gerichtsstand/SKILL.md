@@ -1,6 +1,6 @@
 ---
 name: rueckbau-am-schieds-gerichtsstand
-description: "Ordnet Rückbaupflicht, Entschädigung, Zustandserfassung, Sicherheiten und Konfliktstrategie im Erbbaurecht Praxis."
+description: "Wenn es um Rückbau am Laufzeitende in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rückbau am Laufzeitende

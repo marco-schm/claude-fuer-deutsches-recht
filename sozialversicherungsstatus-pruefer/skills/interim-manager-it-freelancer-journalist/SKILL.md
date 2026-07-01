@@ -1,6 +1,6 @@
 ---
 name: interim-manager-it-freelancer-journalist
-description: "Prüft Interim-Manager, CRO, Projektleiter und operative Leitungsrollen auf Beschäftigung oder Selbständigkeit im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Interim Manager in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Interim Manager

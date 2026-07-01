@@ -1,6 +1,6 @@
 ---
 name: contested-matters
-description: "Prüft motion practice, objections, evidentiary hearings, discovery and orders in contested matters im US Bankruptcy Code."
+description: "Wenn es um Contested Matters in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Contested Matters

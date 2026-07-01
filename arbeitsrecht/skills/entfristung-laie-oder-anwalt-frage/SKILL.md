@@ -1,6 +1,6 @@
 ---
 name: entfristung-laie-oder-anwalt-frage
-description: "Statusabfrage Entfristungsklage: Anwalt oder Laie: bei Laie Warnungen und Empfehlung anwaltlicher Beratung; kein Mandatsverhältnis; Hinweis auf Paragraf 17 TzBfG Drei-Wochen-Frist als kritischste Ausschlussfrist."
+description: "Wenn es um Statusabfrage Entfristungsklage: Anwalt oder Laie in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Statusabfrage Entfristungsklage: Anwalt oder Laie

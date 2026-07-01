@@ -1,6 +1,6 @@
 ---
 name: foss-und-open-source-komponenten
-description: "Prüft FOSS in Robotik: kommerzielle Bereitstellung, Hochrisiko-KI-Ausnahmen, SBOM, Lizenzen, Security und Haftungsallokation."
+description: "Wenn es um FOSS-Komponenten in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # FOSS-Komponenten

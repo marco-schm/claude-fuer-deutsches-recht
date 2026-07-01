@@ -1,6 +1,6 @@
 ---
 name: konformitaetsbewertung-red-team-und-qualitaetskontrolle
-description: "Konformitaetsbewertung: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Konformitaetsbewertung: Red-Team und Qualitätskontrolle in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konformitaetsbewertung: Red-Team und Qualitätskontrolle

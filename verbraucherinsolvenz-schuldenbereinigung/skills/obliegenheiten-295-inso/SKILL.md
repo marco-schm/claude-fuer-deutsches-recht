@@ -1,6 +1,6 @@
 ---
 name: obliegenheiten-295-inso
-description: "Obliegenheiten in der Wohlverhaltensphase: Erwerbsobliegenheit, Erbschaft, Umzug, Zahlung an Treuhänder und Informationspflicht: ."
+description: "Wenn es um Obliegenheiten 295 Inso in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Obliegenheiten in der Wohlverhaltensphase: Erwerbsobliegenheit, Erbschaft, Umzug, Zahlung an Treuhänder und Informationspflicht.

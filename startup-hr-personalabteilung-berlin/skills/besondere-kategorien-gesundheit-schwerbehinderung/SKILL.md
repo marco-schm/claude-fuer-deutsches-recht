@@ -1,6 +1,6 @@
 ---
 name: besondere-kategorien-gesundheit-schwerbehinderung
-description: "Berliner Start-up-HR: Gesundheit, Schwerbehinderung, Schwangerschaft und andere besondere Kategorien nur erforderlichkeitsscharf verarbeiten. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Besondere Kategorien Gesundheit Schwerbehinderung in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Besondere Kategorien Gesundheit Schwerbehinderung

@@ -1,6 +1,6 @@
 ---
 name: btr-betreuer-gegen-vorsorgevollmacht
-description: "Spezialfall Konflikt Berufsbetreuer gegen Bevollmaechtigten aus Vorsorgevollmacht: Vorrang Vorsorgevollmacht § 1814 Abs. 3 BGB, Prüfung Eignung Bevollmaechtigter, Kontrollbetreuung, Widerruf Vollmacht. Prüfraster und Beispielsfall."
+description: "Wenn es um Btr: Bevollmaechtigter gegen Betreuer in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Btr: Bevollmaechtigter gegen Betreuer

@@ -1,6 +1,6 @@
 ---
 name: luft-062-ersatzteillager-register-auswerten
-description: "Luftrecht und Flughafenrecht: Ersatzteillager: Register auswerten. Register auswerten für Ersatzteillager im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Ersatzteillager Register Auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ersatzteillager Register Auswerten

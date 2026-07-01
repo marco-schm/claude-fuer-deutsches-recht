@@ -1,6 +1,6 @@
 ---
 name: manuskriptablieferung-honorar
-description: "Verlagsrecht: Manuskriptablieferung, Lektorat, Abnahme und Verzug nach VerlG §§ 2–4, BGB §§ 280 und 286 — Pflichten, Fristen, Rechtsfolgen bei Verzug und Mängelrüge im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-004 · Manuskriptablieferung, Lektorat, Abnahme und Verzug in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-004 · Manuskriptablieferung, Lektorat, Abnahme und Verzug

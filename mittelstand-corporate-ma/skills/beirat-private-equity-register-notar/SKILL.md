@@ -1,6 +1,6 @@
 ---
 name: beirat-private-equity-register-notar
-description: "GmbH-Beirat: Beirat Private Equity Investor; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Mittelstand Corporate Ma."
+description: "Wenn es um Beirat Private Equity Investor in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Beirat Private Equity Investor

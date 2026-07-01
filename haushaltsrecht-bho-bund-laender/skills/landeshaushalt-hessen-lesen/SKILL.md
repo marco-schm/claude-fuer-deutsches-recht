@@ -1,6 +1,6 @@
 ---
 name: landeshaushalt-hessen-lesen
-description: "Haushaltsrecht BHO Bund und Länder: Landeshaushalt Hessen lesen. Landeshaushalt Hessen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestands..."
+description: "Wenn es um Landeshaushalt Hessen Lesen in Haushaltsrecht BHO Bund und Länder geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landeshaushalt Hessen Lesen

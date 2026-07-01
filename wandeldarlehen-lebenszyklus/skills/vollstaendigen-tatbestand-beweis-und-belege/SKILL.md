@@ -1,6 +1,6 @@
 ---
 name: vollstaendigen-tatbestand-beweis-und-belege
-description: "Vollstaendigen: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Vollstaendigen: Tatbestandsmerkmale, Beweisfragen und Beleglage in Wandeldarlehen-Lebenszyklus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Vollstaendigen: Tatbestandsmerkmale, Beweisfragen und Beleglage

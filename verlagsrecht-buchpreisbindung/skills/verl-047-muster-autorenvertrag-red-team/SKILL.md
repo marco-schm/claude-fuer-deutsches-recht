@@ -1,6 +1,6 @@
 ---
 name: verl-047-muster-autorenvertrag-red-team
-description: "Verlagsrecht: Muster Autorenvertrag Red-Team mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Muster Autorenvertrag Red-Team in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Muster Autorenvertrag Red-Team

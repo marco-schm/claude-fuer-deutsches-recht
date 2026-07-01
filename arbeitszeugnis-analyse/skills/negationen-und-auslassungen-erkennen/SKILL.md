@@ -1,6 +1,6 @@
 ---
 name: negationen-und-auslassungen-erkennen
-description: "Erkennt fehlende Pflichtaussagen im Arbeitszeugnis: Was nicht gesagt wird, ist oft entscheidend. Prüft Checkliste auf fehlende Loyalität, Ehrlichkeit, Pünktlichkeit und andere Standardaussagen und bewertet Auslassungen nach Ampelsystem."
+description: "Wenn es um Negationen und Auslassungen erkennen in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Negationen und Auslassungen erkennen

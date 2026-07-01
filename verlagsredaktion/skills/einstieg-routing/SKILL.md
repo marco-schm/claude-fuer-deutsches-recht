@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Verlagsredaktion: ordnet Rolle (Verlag, Autor, Redakteur), markiert Frist (Gegendarstellungsanspruch unverzüglich), wählt Norm (UrhG, VerlagsG, Presserechte Länder) und Zuständigkeit (Presserat), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

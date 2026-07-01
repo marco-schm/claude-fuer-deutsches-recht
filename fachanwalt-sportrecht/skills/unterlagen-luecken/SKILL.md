@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Sportrecht: trennt fehlende Tatsachen von fehlenden Belegen (Spielerlizenz, Verbandssatzung, Transferregister), nennt pro Lücke Beweisthema, Beschaffungsweg (Verbandsschiedsgerichte), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

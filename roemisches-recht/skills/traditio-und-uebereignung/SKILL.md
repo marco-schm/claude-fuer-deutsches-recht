@@ -1,6 +1,6 @@
 ---
 name: traditio-und-uebereignung
-description: "Römisches Recht: Traditio Und Uebereignung. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Traditio Und Uebereignung in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Traditio Und Uebereignung

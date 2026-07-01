@@ -1,6 +1,6 @@
 ---
 name: inso-p022-rechtsstellung-des-vorlaufigen-insolvenzverwalters
-description: "§ 22 InsO (Rechtsstellung des vorläufigen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 22 InsO (Rechtsstellung des vorläufigen Insolvenzverwalters) im Mandat prüfen..."
+description: "Wenn es um Inso P022 Rechtsstellung Des Vorlaufigen Insolvenzverwalters in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 22 InsO (Rechtsstellung des vorläufigen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: grundsicherung-sgb-xii
-description: "Grundsicherung im Alter und bei Erwerbsminderung nach SGB XII. Sozialamt Antrag Bedarfsberechnung Vermögen. Abgrenzung zum Buergergeld für Buerger."
+description: "Wenn es um Grundsicherung im Alter und bei Erwerbsminderung — SGB XII in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundsicherung im Alter und bei Erwerbsminderung — SGB XII

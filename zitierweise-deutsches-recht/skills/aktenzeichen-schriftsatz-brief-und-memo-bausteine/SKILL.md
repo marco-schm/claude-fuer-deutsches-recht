@@ -1,6 +1,6 @@
 ---
 name: aktenzeichen-schriftsatz-brief-und-memo-bausteine
-description: "Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine in Zitierweise deutsches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Markenrecht Fashion/Luxus: sortiert Markenregisterauszug, Lizenzvertrag, Abmahnung, prüft Datum, Absender, Frist und Beweiswert (Verkehrsbefragung Verkehrsgeltung, Benutzungsnachweis); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

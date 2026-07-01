@@ -1,6 +1,6 @@
 ---
 name: schutzschrift-eilverfuegung
-description: "Mandant hat Abmahnung oder Verletzungsschreiben erhalten und befürchtet einstweilige Verfuegung ohne Anhörung. § 945a ZPO Schutzschrift ZSER. Prüfraster: Hinterlegung zentrales elektronisches Schutzschriftenregister § 945a ZPO Sachverhalt Gegenrede Glaubhaftmachung eidesstattliche Versicherung We..."
+description: "Wenn es um Schutzschrift gegen Eilverfügung in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schutzschrift gegen Eilverfügung

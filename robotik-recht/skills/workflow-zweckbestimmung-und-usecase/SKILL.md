@@ -1,6 +1,6 @@
 ---
 name: workflow-zweckbestimmung-und-usecase
-description: "Kläre Zweckbestimmung, vernünftigerweise vorhersehbaren Gebrauch, Fehlanwendung, Hochrisiko-Nähe und spätere Zweckänderung im Robotik-Recht."
+description: "Wenn es um Zweckbestimmung und Use Case in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Zweckbestimmung und Use Case

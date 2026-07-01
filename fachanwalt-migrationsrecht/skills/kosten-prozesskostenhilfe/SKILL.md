@@ -1,6 +1,6 @@
 ---
 name: kosten-prozesskostenhilfe
-description: "Kosten/PKH Migration: Fachmodul im Migrationsrecht: prüft Beratungshilfe, PKH, Erfolgsaussicht, Eilrechtsschutzkosten; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Kosten/PKH Migration: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kosten/PKH Migration: Fachmodul im Migrationsrecht

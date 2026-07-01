@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-einfach
-description: "Aufbau und Pflichtinhalt des einfachen Arbeitszeugnisses nach Paragraf 109 Abs. 1 S. 1 und 2 GewO. Enthält nur Art und Dauer der Tätigkeit, keine Leistungs- oder Verhaltensaussage. Wann ist das einfache Zeugnis angemessen und wann hat der Arbeitnehmer Anspruch auf ein qualifiziertes Zeugnis? Enthält vollständiges Musterzeugnis."
+description: "Wenn es um Zeugnisart: Einfaches Arbeitszeugnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zeugnisart: Einfaches Arbeitszeugnis

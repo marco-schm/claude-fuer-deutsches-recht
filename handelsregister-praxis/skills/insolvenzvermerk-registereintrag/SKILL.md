@@ -1,6 +1,6 @@
 ---
 name: insolvenzvermerk-registereintrag
-description: "Prüft Eintragung von Eröffnung, Eigenverwaltung, Aufhebung, Insolvenzplan, Freigabe und Wirkungen für Vertretung im Handelsregister Praxis."
+description: "Wenn es um Insolvenzvermerk im Register in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenzvermerk im Register

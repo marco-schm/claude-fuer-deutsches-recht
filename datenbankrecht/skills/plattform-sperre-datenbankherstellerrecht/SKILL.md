@@ -1,6 +1,6 @@
 ---
 name: plattform-sperre-datenbankherstellerrecht
-description: "Rechtliche Bewertung von Plattformsperren wegen Data Extraction: Berechtigung zur IP-Sperre und Account-Kündigung bei Datenbankrechts-Verletzungen (§§ 87a-87e UrhG), AGB-Grundlage, Kartellrechtliche Grenzen bei marktbeherrschenden Plattformen (Art. 102 AEUV) und Abwehr gegen unberechtigte Sperren..."
+description: "Wenn es um Plattformsperre wegen Data Extraction — Berechtigung und Rechtsschutz in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Plattformsperre wegen Data Extraction — Berechtigung und Rechtsschutz

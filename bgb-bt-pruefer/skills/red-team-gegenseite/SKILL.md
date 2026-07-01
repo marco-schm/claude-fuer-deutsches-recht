@@ -1,6 +1,6 @@
 ---
 name: red-team-gegenseite
-description: "Red-Team-Analyse: Gegenseiten-Perspektive für BGB-BT-Mandate einnehmen und Schwachstellen identifizieren."
+description: "Wenn es um Workflow: Red Team Gegenseite in BGB BT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Workflow: Red Team Gegenseite

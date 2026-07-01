@@ -1,6 +1,6 @@
 ---
 name: rentner-krankenversicherung-der-rentner-kvdr
-description: "Pflichtversicherung in der KVdR (§ 5 Abs. 1 Nr. 11 SGB V): Vorversicherungszeit, Beitragsbemessung, Versorgungsbezüge und Widerspruchsstrategien im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Rentner: Krankenversicherung der Rentner (KVdR) in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rentner: Krankenversicherung der Rentner (KVdR)

@@ -1,6 +1,6 @@
 ---
 name: spezial-kontensuche-livequellen-und-rechtsprechungscheck
-description: "Kontensuche: Livequellen- und Rechtsprechungscheck im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Kontensuche: Livequellen- und Rechtsprechungscheck in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kontensuche: Livequellen- und Rechtsprechungscheck

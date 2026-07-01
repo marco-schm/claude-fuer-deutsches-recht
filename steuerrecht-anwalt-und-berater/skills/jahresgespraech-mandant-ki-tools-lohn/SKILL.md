@@ -1,6 +1,6 @@
 ---
 name: jahresgespraech-mandant-ki-tools-lohn
-description: "Jahresgespraech Mandant auf BWA-Basis. Anwendungsfall jaehrliches Bilanzgespraech nach Jahresabschluss-Erstellung Gesamtjahresblick Mehrjahres-Trend Strategie Folgejahr. Methodik intensive Vorbereitung 2-3 Stunden Termin Dokumentation. Output Gespraechs-Protokoll Strategiepapier im Steuerrecht An..."
+description: "Wenn es um Jahresgespraech mit dem Mandanten in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Jahresgespraech mit dem Mandanten

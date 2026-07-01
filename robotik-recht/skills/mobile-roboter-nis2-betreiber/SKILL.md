@@ -1,6 +1,6 @@
 ---
 name: mobile-roboter-nis2-betreiber
-description: "Prüft AMR/AGV in Logistik und Produktion: Navigation, Karten, Flottenmanagement, Kollisionsschutz, Not-Halt und Verkehrswege im Robotik-Recht."
+description: "Wenn es um Mobile Roboter AMR AGV in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mobile Roboter AMR AGV

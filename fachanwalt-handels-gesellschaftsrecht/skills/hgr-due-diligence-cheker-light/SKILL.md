@@ -1,6 +1,6 @@
 ---
 name: hgr-due-diligence-cheker-light
-description: "Due-Diligence-Checker light für kleinere Mandate: Standard-Risikofelder (Steuer, Arbeit, IT, IP, Compliance, ESG), Datenraum-Struktur, Reviewer-Aufteilung, Sample-Quoten: Due-Diligence-Checker light für kleinere Mandate: Standard-Risikofelder (Steuer, Arbei..."
+description: "Wenn es um Hgr Due Diligence Cheker Light in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Due-Diligence-Checker light für kleinere Mandate: Standard-Risikofelder (Steuer, Arbeit, IT, IP, Compliance, ESG), Datenraum-Struktur, Reviewer-Aufteilung, Sample-Quoten

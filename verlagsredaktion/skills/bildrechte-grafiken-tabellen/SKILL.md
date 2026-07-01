@@ -1,6 +1,6 @@
 ---
 name: bildrechte-grafiken-tabellen
-description: "Prüft Bilder, Screenshots, Grafiken, Tabellen, Diagramme, Credits, Alt-Texte, Bearbeitungen und Nutzungsumfang für Verlagspublikationen im Verlagsredaktion."
+description: "Wenn es um Bildrechte, Grafiken und Tabellen in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bildrechte, Grafiken und Tabellen

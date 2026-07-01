@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-drei-methoden-auskunft
-description: "Schadensersatz im Markenrecht berechnen und vorbereiten: konkrete Schadensberechnung, Verletzergewinn, Lizenzanalogie, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Kosten und Vergleichswert im Markenrecht Fashion Luxus."
+description: "Wenn es um Schadensersatz, Auskunft und Rechnungslegung in markenrecht-fashion-luxus geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Schadensersatz, Auskunft und Rechnungslegung

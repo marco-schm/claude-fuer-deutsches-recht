@@ -1,6 +1,6 @@
 ---
 name: mitarbeiterbeteiligung-esop-vsop
-description: "Prüft Mitarbeiterbeteiligung, virtuelle Anteile, Vesting, Leaver und Steuer-/Arbeitsrechtsschnittstellen im Gesellschaftsgruender."
+description: "Wenn es um ESOP/VSOP Mitarbeiterbeteiligung in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ESOP/VSOP Mitarbeiterbeteiligung

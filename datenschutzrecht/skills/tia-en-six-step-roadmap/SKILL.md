@@ -1,6 +1,6 @@
 ---
 name: tia-en-six-step-roadmap
-description: "English-language version of the EDPB Recommendation 01/2020 six-step roadmap for Transfer Impact Assessment. Step 1 know your transfers; Step 2 identify transfer tool; Step 3 assess law and practice; Step 4 adopt supplementary measures; Step 5 procedural steps; Step 6 re-evaluate. With checklists..."
+description: "Wenn es um Transfer Impact Assessment – EDPB Six-Step Roadmap (English) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transfer Impact Assessment – EDPB Six-Step Roadmap (English)

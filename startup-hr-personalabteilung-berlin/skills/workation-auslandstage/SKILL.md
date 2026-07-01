@@ -1,6 +1,6 @@
 ---
 name: workation-auslandstage
-description: "Berliner Start-up-HR: Workation und Auslandstage: Arbeitsrecht, Sozialversicherung A1, Steuer, Datenschutz, IT-Sicherheit und Genehmigungsworkflow. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Be..."
+description: "Wenn es um Workation Auslandstage in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Workation Auslandstage

@@ -1,6 +1,6 @@
 ---
 name: fran-042-bewertungen-google-plattform-und-rufschutz
-description: "Franchiserecht: Bewertungen Google Plattform und Rufschutz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Bewertungen Google Plattform und Rufschutz in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Bewertungen Google Plattform und Rufschutz

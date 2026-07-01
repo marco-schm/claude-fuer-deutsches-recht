@@ -1,6 +1,6 @@
 ---
 name: itr-saas-vertrag-bauleiter
-description: "Bauleiter SaaS-Vertrag: Service Level Agreement, Datenverarbeitung Auftragsverarbeitungsvertrag, Mitwirkungspflichten, Verfuegbarkeit, Bonus-Malus: Bauleiter SaaS-Vertrag: Service Level Agreement, Datenverarbeitung Auftragsverarbeitungsvertrag, Mitwirkungsp..."
+description: "Wenn es um Itr Saas Vertrag Bauleiter in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauleiter SaaS-Vertrag: Service Level Agreement, Datenverarbeitung Auftragsverarbeitungsvertrag, Mitwirkungspflichten, Verfuegbarkeit, Bonus-Malus

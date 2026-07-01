@@ -1,6 +1,6 @@
 ---
 name: landpachtrecht-schriftsatz-brief-und-memo-bausteine
-description: "Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine: Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Wenn es um Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Agrarrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine

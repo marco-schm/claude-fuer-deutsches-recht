@@ -1,6 +1,6 @@
 ---
 name: bess-kapazitaetsmarkt-grundlast
-description: "Ordnet Aussagen zu Grundlast, gesicherter Leistung, Kapazitätsmarkt, Gaskraftwerken und Speicherfunktion rechtlich ein im Energierecht."
+description: "Wenn es um Kapazitätsmechanismen, Grundlast und politische Aussagen in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kapazitätsmechanismen, Grundlast und politische Aussagen

@@ -1,6 +1,6 @@
 ---
 name: space-063-compliance-handbuch-satellitenbetreiber
-description: "Weltraumrecht: Compliance Handbuch Satellitenbetreiber mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Compliance Handbuch Satellitenbetreiber in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Compliance Handbuch Satellitenbetreiber

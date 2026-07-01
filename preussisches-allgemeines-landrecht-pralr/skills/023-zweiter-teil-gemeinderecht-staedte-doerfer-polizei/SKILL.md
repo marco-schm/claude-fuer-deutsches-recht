@@ -1,6 +1,6 @@
 ---
 name: 023-zweiter-teil-gemeinderecht-staedte-doerfer-polizei
-description: "PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei

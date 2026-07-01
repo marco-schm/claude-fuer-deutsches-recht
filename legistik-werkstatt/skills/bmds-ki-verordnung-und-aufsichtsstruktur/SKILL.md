@@ -1,6 +1,6 @@
 ---
 name: bmds-ki-verordnung-und-aufsichtsstruktur
-description: "Sachbereich KI-Verordnung und Aufsichtsstruktur im Geschäftsbereich BMDS: Normbestand (KI-VO (EU); BDSG; ProdSG; ProdHaftG; einschlaegige Sektorgesetze.); Akteure (BMDS; BNetzA (Marktaufsicht KI; geplant); BSI; BfDI; Länderbehoerden.); EU-Bezug (KI-VO; AI Office; AI Liability Directive (Entwurf)..."
+description: "Wenn es um digitale Werkzeuge-Verordnung und Aufsichtsstruktur (BMDS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI-Verordnung und Aufsichtsstruktur (BMDS)

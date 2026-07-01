@@ -1,6 +1,6 @@
 ---
 name: konzern-rahmenvertrag-anpassen
-description: "Spezialfall Rahmenvertrag im Konzern anpassen ohne Änderung der Substanz: typische Stellen wie Vergueng, Laufzeit, Liefermenge. Prüfraster für Änderungsfreigabe und Track-Changes-Diskussion mit Gegenseite. Mustertexte im Vertragsausfueller."
+description: "Wenn es um Rahmenvertrag-Anpassung in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rahmenvertrag-Anpassung

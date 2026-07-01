@@ -1,6 +1,6 @@
 ---
 name: erbbaugrundbuch-lesen
-description: "Führt durch Erbbaugrundbuch, Grundstücksgrundbuch, Rangvermerke, Belastungen und korrespondierende Eintragungen im Erbbaurecht Praxis."
+description: "Wenn es um Erbbaugrundbuch lesen in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbbaugrundbuch lesen

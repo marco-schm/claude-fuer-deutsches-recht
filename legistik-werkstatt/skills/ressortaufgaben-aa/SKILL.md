@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-aa
-description: "Ressortaufgaben AA: typische Legistik-Aufgaben im Geschäftsbereich Auswaertiges Amt. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behörden. Out..."
+description: "Wenn es um Ressortaufgaben AA in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressortaufgaben AA

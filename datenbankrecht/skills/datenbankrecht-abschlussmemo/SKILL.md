@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-abschlussmemo
-description: "Erstellung eines strukturierten Abschlussmemos nach Abschluss einer datenbankrechlichen Beratung: Zusammenfassung der Rechtslage nach §§ 87a-87e UrhG und § 4 UrhG, RL 96/9/EG, relevanter EuGH-Urteile (BHB/William Hill C-203/02, Apis/Lakorda C-545/07, Innoweb/Wegener C-202/12), getroffener Maßnahm..."
+description: "Wenn es um Datenbankrecht Abschlussmemo: Rechtslage, Maßnahmen, offene Risiken in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Datenbankrecht Abschlussmemo: Rechtslage, Maßnahmen, offene Risiken

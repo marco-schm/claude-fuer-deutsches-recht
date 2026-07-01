@@ -1,6 +1,6 @@
 ---
 name: reparaturpflicht-hersteller-nach-gewaehrleistung
-description: "Prüft, wann Hersteller auch außerhalb der kaufrechtlichen Gewährleistung Reparatur anbieten müssen oder sollten, einschließlich Kosten, angemessener Frist, Ersatzgerät, Reparaturformular und Produktgruppen mit EU-Reparierbarkeitsanforderungen im Produktrecht."
+description: "Wenn es um Hersteller-Reparaturpflicht nach Gewährleistung in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hersteller-Reparaturpflicht nach Gewährleistung

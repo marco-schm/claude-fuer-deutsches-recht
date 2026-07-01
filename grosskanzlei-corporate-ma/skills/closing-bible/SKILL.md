@@ -1,6 +1,6 @@
 ---
 name: closing-bible
-description: "Erstellt Closing Bible und Deal-Archiv mit executed Agreements, Signaturseiten, Registerbelegen, CP-Nachweisen, Payments und Post-Closing-Pflichten."
+description: "Wenn es um Closing Bible und Archiv in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Closing Bible und Archiv

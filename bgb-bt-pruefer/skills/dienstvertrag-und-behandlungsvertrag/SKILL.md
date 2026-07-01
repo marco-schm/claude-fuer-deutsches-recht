@@ -1,6 +1,6 @@
 ---
 name: dienstvertrag-und-behandlungsvertrag
-description: "Prüft Dienstvertrag §§ 611 ff. BGB und Behandlungsvertrag §§ 630a ff. BGB: Aufklärung, Dokumentation und Arzthaftung."
+description: "Wenn es um Dienstvertrag und Behandlungsvertrag in BGB BT Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Dienstvertrag und Behandlungsvertrag

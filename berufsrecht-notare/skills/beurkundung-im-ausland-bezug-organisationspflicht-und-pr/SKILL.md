@@ -1,6 +1,6 @@
 ---
 name: beurkundung-im-ausland-bezug-organisationspflicht-und-pr
-description: "Notare: beurkundung im ausland bezug - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Beurkundung Im Ausland Bezug Organisationspflicht Und Pr in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: beurkundung im ausland bezug - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

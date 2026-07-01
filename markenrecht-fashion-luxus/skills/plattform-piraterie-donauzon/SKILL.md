@@ -1,6 +1,6 @@
 ---
 name: plattform-piraterie-donauzon
-description: "Plattformpiraterie und Online-Marktplatz-Enforcement: DSA Notice-and-Action, MarkenG, DDG, Beweissicherung, Testkauf, Wiederholungstäter, Sperrverfügung und Eskalation im Markenrecht Fashion Luxus."
+description: "Wenn es um Plattform-Piraterie und Notice-and-Action nach DSA in markenrecht-fashion-luxus geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Plattform-Piraterie und Notice-and-Action nach DSA

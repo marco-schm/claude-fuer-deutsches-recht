@@ -1,6 +1,6 @@
 ---
 name: verl-020-plagiat-manuskript-und-quellenpruefung
-description: "Verlagsrecht: Plagiat Manuskript und Quellenprüfung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Plagiat Manuskript und Quellenprüfung in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Plagiat Manuskript und Quellenprüfung

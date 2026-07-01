@@ -1,6 +1,6 @@
 ---
 name: 07-telekommunikationsueberwachung-und-verdeckte-massnahmen
-description: "Antrag auf Telekommunikationsueberwachung (Paragraf 100a StPO), Online-Durchsuchung (Paragraf 100b StPO), Verkehrsdaten (Paragraf 100g StPO), Katalogtat, Subsidiaritaet, Richtervorbehalt, Kernbereichsschutz"
+description: "Wenn es um 07 Telekommunikationsüberwachung und Verdeckte Maßnahmen in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 07 Telekommunikationsüberwachung und Verdeckte Maßnahmen

@@ -1,6 +1,6 @@
 ---
 name: stv-068-bewohnerparken-behoerde-anschreiben
-description: "Straßenverkehrsrecht StVO: Bewohnerparken: Behörde anschreiben. Behörde anschreiben für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bewohnerparken Behoerde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bewohnerparken Behoerde Anschreiben

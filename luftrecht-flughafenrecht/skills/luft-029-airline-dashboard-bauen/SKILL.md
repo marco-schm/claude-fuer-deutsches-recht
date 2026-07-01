@@ -1,6 +1,6 @@
 ---
 name: luft-029-airline-dashboard-bauen
-description: "Luftrecht und Flughafenrecht: Airline: Dashboard bauen. Dashboard bauen für Airline im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Airline Dashboard Bauen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Airline Dashboard Bauen

@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-mitbestimmung
-description: "Prüft Betriebsrat bei Security-Tools und Überwachung im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Betriebsrat Mitbestimmung in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsrat Mitbestimmung

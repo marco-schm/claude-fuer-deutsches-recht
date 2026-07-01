@@ -1,6 +1,6 @@
 ---
 name: durchsuchung-kanzlei-arzt-redaktion
-description: "Durchsuchung bei Berufsgeheimnisträgern: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Durchsuchung bei Berufsgeheimnisträgern in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Durchsuchung bei Berufsgeheimnisträgern

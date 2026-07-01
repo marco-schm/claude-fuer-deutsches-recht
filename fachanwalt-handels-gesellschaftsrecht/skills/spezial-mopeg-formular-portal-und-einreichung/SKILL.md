@@ -1,6 +1,6 @@
 ---
 name: spezial-mopeg-formular-portal-und-einreichung
-description: "Mopeg: Formular, Portal und Einreichungslogik im Plugin fachanwalt handels gesellschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Mopeg: Formular, Portal und Einreichungslogik in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mopeg: Formular, Portal und Einreichungslogik

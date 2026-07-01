@@ -1,6 +1,6 @@
 ---
 name: ki-tools-und-confidentiality
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: KI Tools Und Confidentiality; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um digitale Werkzeuge Tools Und Confidentiality in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI Tools Und Confidentiality

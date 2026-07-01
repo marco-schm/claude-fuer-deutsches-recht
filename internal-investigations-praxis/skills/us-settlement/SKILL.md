@@ -1,6 +1,6 @@
 ---
 name: us-settlement
-description: "Koordiniert die Zusammenarbeit zwischen deutschem und US-amerikanischem Counsel in Cross-Border-Investigations – Privilege-Konflikte, Offenbarungspflichten, Joint-Defense im Internal Investigations Praxis."
+description: "Wenn es um US-Counsel-Koordination in Cross-Border-Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # US-Counsel-Koordination in Cross-Border-Investigations

@@ -1,6 +1,6 @@
 ---
 name: eingliederungshilfe-paragraf-99-sgb-ix
-description: "Eingliederungshilfe § 99 sgb ix: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Eingliederungshilfe Paragraf 99 sgb ix in Fachanwalt Sozialrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eingliederungshilfe § 99 sgb ix

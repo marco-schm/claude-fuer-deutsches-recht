@@ -1,6 +1,6 @@
 ---
 name: aktenlektuere-fristennotiz-und-naechster-schritt
-description: "Aktenlektuere: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Aktenlektuere: Fristennotiz und nächster Schritt in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aktenlektuere: Fristennotiz und nächster Schritt

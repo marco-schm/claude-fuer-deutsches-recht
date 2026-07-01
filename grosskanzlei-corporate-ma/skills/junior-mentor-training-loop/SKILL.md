@@ -1,6 +1,6 @@
 ---
 name: junior-mentor-training-loop
-description: "Junior-Mentor für Corporate/M&A: erklaert Begriffe, zerlegt Aufgaben in First-Year-Schritte, prüft Entwuerfe freundlich, staerkt Schwachstellen und gibt Senior-Review-taugliches Feedback: Junior-Mentor für Corporate/M&A: erklaert Begriffe, zerlegt Aufgabe..."
+description: "Wenn es um Junior Mentor Training Loop in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Junior-Mentor für Corporate/M&A: erklaert Begriffe, zerlegt Aufgaben in First-Year-Schritte, prüft Entwuerfe freundlich, staerkt Schwachstellen und gibt Senior-Review-taugliches Feedback.

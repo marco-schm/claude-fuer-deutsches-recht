@@ -1,6 +1,6 @@
 ---
 name: ad-library-transparenz
-description: "Wahlkampfrecht Praxis: Anzeigenbibliothek- und Transparenznotizen erstellen im Wahlkampfrecht."
+description: "Wenn es um Ad Library Transparenz in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ad Library Transparenz

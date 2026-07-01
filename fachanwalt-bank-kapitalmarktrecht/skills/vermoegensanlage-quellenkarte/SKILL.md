@@ -1,6 +1,6 @@
 ---
 name: vermoegensanlage-quellenkarte
-description: "Vermögensanlage Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Vermögensanlage Quellenkarte in Fachanwalt Bank Kapitalmarktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Vermögensanlage Quellenkarte

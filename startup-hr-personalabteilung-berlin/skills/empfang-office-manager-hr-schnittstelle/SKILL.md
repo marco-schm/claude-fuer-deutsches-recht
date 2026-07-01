@@ -1,6 +1,6 @@
 ---
 name: empfang-office-manager-hr-schnittstelle
-description: "Berliner Start-up-HR: Empfang/Office-Manager und HR-Schnittstelle: Besucher, Bewerber, Post, sensible Unterlagen, Diskretion und Übergabe. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Empfang Office Manager HR Schnittstelle in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Empfang Office Manager HR Schnittstelle

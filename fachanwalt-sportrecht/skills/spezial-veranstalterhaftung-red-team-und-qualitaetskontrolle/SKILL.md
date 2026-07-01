@@ -1,6 +1,6 @@
 ---
 name: spezial-veranstalterhaftung-red-team-und-qualitaetskontrolle
-description: "Veranstalterhaftung: Red-Team und Qualitätskontrolle im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Veranstalterhaftung: Red-Team und Qualitätskontrolle in Fachanwalt Sportrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Veranstalterhaftung: Red-Team und Qualitätskontrolle

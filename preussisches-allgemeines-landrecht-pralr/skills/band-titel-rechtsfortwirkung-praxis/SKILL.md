@@ -1,6 +1,6 @@
 ---
 name: band-titel-rechtsfortwirkung-praxis
-description: "PrALR: In umfangreichen Bänden nach Teil, Titel, Paragraph, Register und Seitenlogik navigieren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Navigation im Band in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Band Titel Rechtsfortwirkung Praxis; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Navigation im Band

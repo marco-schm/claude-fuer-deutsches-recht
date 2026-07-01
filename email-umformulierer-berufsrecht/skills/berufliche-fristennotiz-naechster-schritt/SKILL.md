@@ -1,6 +1,6 @@
 ---
 name: berufliche-fristennotiz-naechster-schritt
-description: "Berufliche: Fristennotiz und nächster Schritt: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
+description: "Wenn es um Berufliche: Fristennotiz und nächster Schritt in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Berufliche Fristennotiz Naechster Schritt; Arbeitsfeld: E-Mail-Umformulierer."
 ---
 
 # Berufliche: Fristennotiz und nächster Schritt

@@ -1,6 +1,6 @@
 ---
 name: npl-kauf-servicing-und-factoring-abgrenzung
-description: "NPL Kauf Servicing und Factoring-Abgrenzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht."
+description: "Wenn es um NPL Kauf Servicing und Factoring-Abgrenzung in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # NPL Kauf Servicing und Factoring-Abgrenzung

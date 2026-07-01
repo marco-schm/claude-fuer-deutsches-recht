@@ -1,6 +1,6 @@
 ---
 name: spezial-paragraph-red-team-und-qualitaetskontrolle
-description: "Paragraph: Red-Team und Qualitätskontrolle im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Paragraph: Red-Team und Qualitätskontrolle in Schriftform und Textform im BGB geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Paragraph: Red-Team und Qualitätskontrolle

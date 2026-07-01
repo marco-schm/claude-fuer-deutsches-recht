@@ -1,6 +1,6 @@
 ---
 name: filialapotheke-hauptapotheke-leitung-vertretung
-description: "Filialapotheke Hauptapotheke Leitung Vertretung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht im Apothekenrecht."
+description: "Wenn es um Filialapotheke Hauptapotheke Leitung Vertretung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Filialapotheke Hauptapotheke Leitung Vertretung

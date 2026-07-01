@@ -1,6 +1,6 @@
 ---
 name: apas-verfahren-antwortstrategie-organisation
-description: "Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Apas Verfahren Antwortstrategie Organisation in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

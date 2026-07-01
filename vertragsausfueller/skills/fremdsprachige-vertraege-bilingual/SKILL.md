@@ -1,6 +1,6 @@
 ---
 name: fremdsprachige-vertraege-bilingual
-description: "Spezialfall fremdsprachige und bilinguale Vertraege: Sprache für rechtlich verbindliche Auslegung definieren, Konsistenz Glossar, Übersetzung als Anlage. Risiken bei Verwendung von DeepL und LLM. Prüfraster und Mustertexte im Vertragsausfueller."
+description: "Wenn es um Bilinguale Verträge in Vertragsausfüller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bilinguale Verträge

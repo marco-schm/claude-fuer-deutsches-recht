@@ -1,6 +1,6 @@
 ---
 name: robotik-uebergangsrecht-eu-produktsicherheit
-description: "Erstellt Fristenplan für Maschinenverordnung, MaschinenDG, CRA, KI-VO, Produkthaftungsrichtlinie, Meldungen, Rückruf und Prozessfristen."
+description: "Wenn es um Fristen und Übergangsrecht in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Robotik Uebergangsrecht EU Produktsicherheit; Arbeitsfeld: robotik-recht."
 ---
 
 # Fristen und Übergangsrecht

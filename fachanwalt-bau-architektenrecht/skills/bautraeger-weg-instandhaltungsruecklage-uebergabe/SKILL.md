@@ -1,6 +1,6 @@
 ---
 name: bautraeger-weg-instandhaltungsruecklage-uebergabe
-description: "WEG-Instandhaltungsruecklage zur Übergabe: Skill klaert wie die Instandhaltungsruecklage bei der WEG-Gruendung dotiert wird welche Pflichten Bautraeger hat und welche Klauseln problematisch sind. Liefert Prüfras..."
+description: "Wenn es um WEG-Instandhaltungsruecklage zur Übergabe in Fachanwalt Bau Architektenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # WEG-Instandhaltungsruecklage zur Übergabe

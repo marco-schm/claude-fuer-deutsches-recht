@@ -1,6 +1,6 @@
 ---
 name: strafrecht-beleidigung-testakte-auswertung
-description: "Prüft § 185 StGB bei ehrverletzenden Werturteilen und Schimpfworten mit Art 5 GG. Zwingt Sinnermittlung, Kontext, Sachbezug, Formalbeleidigung, Schmähkritik, Menschenwürde und Normalabwägung im Meinungspruefer."
+description: "Wenn es um Paragraf 185 StGB - Beleidigung in Meinungsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # § 185 StGB - Beleidigung

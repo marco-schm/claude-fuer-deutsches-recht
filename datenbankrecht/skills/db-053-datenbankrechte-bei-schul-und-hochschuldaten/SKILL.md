@@ -1,6 +1,6 @@
 ---
 name: db-053-datenbankrechte-bei-schul-und-hochschuldaten
-description: "Datenbankrecht: Datenbankrechte bei Schul- und Hochschuldaten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Datenbankrechte bei Schul- und Hochschuldaten in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Datenbankrechte bei Schul- und Hochschuldaten

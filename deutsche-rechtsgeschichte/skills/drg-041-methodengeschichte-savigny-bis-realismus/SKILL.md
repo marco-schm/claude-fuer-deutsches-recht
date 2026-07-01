@@ -1,6 +1,6 @@
 ---
 name: drg-041-methodengeschichte-savigny-bis-realismus
-description: "Deutsche Rechtsgeschichte: Methodengeschichte Savigny Bis Realismus. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Methodengeschichte Savigny Bis Realismus in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Methodengeschichte Savigny Bis Realismus

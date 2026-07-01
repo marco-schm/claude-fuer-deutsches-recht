@@ -1,6 +1,6 @@
 ---
 name: code-civil-und-rheinisches-recht
-description: "Deutsche Rechtsgeschichte: Code Civil (1804) und rheinisches Recht. Napoleonische Kodifikation, Geltung in Deutschland, rheinisches Recht im 19. Jahrhundert und Nachwirkung auf BGB-Entstehung im Deutsche Rechtsgeschichte."
+description: "Wenn es um Code Civil und rheinisches Recht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Code Civil und rheinisches Recht

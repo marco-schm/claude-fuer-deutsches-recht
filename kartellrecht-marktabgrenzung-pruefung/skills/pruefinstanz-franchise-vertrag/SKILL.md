@@ -1,6 +1,6 @@
 ---
 name: pruefinstanz-franchise-vertrag
-description: "Prüfinstanz: Fristen, Form, Zuständigkeit und Rechtsweg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Prüfinstanz: Fristen, Form, Zuständigkeit und Rechtsweg in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfinstanz: Fristen, Form, Zuständigkeit und Rechtsweg

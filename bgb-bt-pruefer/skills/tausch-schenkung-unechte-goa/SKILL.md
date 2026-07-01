@@ -1,6 +1,6 @@
 ---
 name: tausch-schenkung-unechte-goa
-description: "Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede im BGB BT."
+description: "Wenn es um Tausch und Schenkung Paragrafen 480 und 516 ff. BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Tausch Schenkung Unechte Goa; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Tausch und Schenkung §§ 480 und 516 ff. BGB

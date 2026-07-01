@@ -1,6 +1,6 @@
 ---
 name: impfschaden-arzthaftung
-description: "Impfschaden und Arzthaftung: moderner Medizinrechts-Skill für Impfaufklärung, Chargenproblem, Versorgungsanspruch, Kausalität und Pharmakovigilanz: Impfschaden und Arzthaftung: moderner Medizinrechts-Skill für Impfaufklärung, Chargenproblem, Versorgungsansp..."
+description: "Wenn es um Impfschaden Arzthaftung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Impfschaden und Arzthaftung: moderner Medizinrechts-Skill für Impfaufklärung, Chargenproblem, Versorgungsanspruch, Kausalität und Pharmakovigilanz

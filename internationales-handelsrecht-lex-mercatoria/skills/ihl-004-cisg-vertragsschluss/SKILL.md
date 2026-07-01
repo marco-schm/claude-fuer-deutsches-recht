@@ -1,6 +1,6 @@
 ---
 name: ihl-004-cisg-vertragsschluss
-description: "Internationales Handelsrecht und Lex Mercatoria: CISG Vertragsschluss. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um CISG Vertragsschluss in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CISG Vertragsschluss

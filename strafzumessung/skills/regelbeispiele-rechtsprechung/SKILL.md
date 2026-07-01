@@ -1,6 +1,6 @@
 ---
 name: regelbeispiele-rechtsprechung
-description: "Regelbeispielkataloge im Strafrecht. § 243 StGB Diebstahl (Einbruch, Bandentat, Gewerbsmaessigkeit, Sache von erheblichem Wert). § 263 Abs. 3 StGB Betrug (Gewerbsmaessigkeit, hoher Vermögensverlust, Anschlag auf das Vermoegen, Wirtschaftsleben). § 267 Abs. 3 StGB Urkundenfaelschung. § 240 Abs. 4..."
+description: "Wenn es um Regelbeispiele in der Strafzumessung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Regelbeispiele in der Strafzumessung

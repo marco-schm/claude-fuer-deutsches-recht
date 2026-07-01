@@ -1,6 +1,6 @@
 ---
 name: eingangsfrist-7-tage
-description: "Steuert Eingangsbestätigung und Fristen sauber im Hinweisgeberschutz Compliance."
+description: "Wenn es um Eingangsfrist 7 Tage in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eingangsfrist 7 Tage

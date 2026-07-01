@@ -1,6 +1,6 @@
 ---
 name: nachlassverwaltung-autorenerbe
-description: "Verlagsrecht: Nachlassverwaltung und Autorenerbe — Schutzfrist nach UrhG § 64, Erbgang des Urheberrechts, Testamentsvollstreckung, Lizenzfortführung und Vergriffenheit im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-039 · Nachlassverwaltung und Autorenerbe in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-039 · Nachlassverwaltung und Autorenerbe

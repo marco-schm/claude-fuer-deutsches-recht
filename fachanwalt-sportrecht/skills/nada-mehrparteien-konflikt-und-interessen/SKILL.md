@@ -1,6 +1,6 @@
 ---
 name: nada-mehrparteien-konflikt-und-interessen
-description: "Nada: Mehrparteienkonflikt und Interessenmatrix: Nada: Mehrparteienkonflikt und Interessenmatrix."
+description: "Wenn es um Nada: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nada: Mehrparteienkonflikt und Interessenmatrix

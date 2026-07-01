@@ -1,6 +1,6 @@
 ---
 name: creator-fonds-jahresabschluss-risiken
-description: "Influencer-Recht: Creator-Fonds und Plattformauszahlungen – steuerliche Behandlung, Abrechnungsstrukturen, USt-Pflicht und internationale Besonderheiten im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Creator-Fonds und Plattformauszahlung in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Influencer-Recht: Creator-Fonds und Plattformauszahlung

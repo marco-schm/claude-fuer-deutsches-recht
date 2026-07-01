@@ -1,6 +1,6 @@
 ---
 name: see-080-offshore-schiff-risiko-memo-schreiben
-description: "See- und Schifffahrtsrecht: Offshore-Schiff: Risiko memo schreiben. Risiko memo schreiben für Offshore-Schiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Offshore Schiff Risiko Memo Schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Offshore Schiff Risiko Memo Schreiben

@@ -1,6 +1,6 @@
 ---
 name: produktsicherheit-rueckruf-market
-description: "Produktsicherheitsrecht: gefährliches Produkt, Rückruf, Safety Gate, Marktüberwachung, Händler-/Herstellerrolle und Dokumentation im Berichtspflichten."
+description: "Wenn es um Produktsicherheit und Marktüberwachung melden in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Produktsicherheit und Marktüberwachung melden

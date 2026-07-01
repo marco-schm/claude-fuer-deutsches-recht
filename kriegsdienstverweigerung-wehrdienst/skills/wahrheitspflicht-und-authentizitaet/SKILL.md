@@ -1,6 +1,6 @@
 ---
 name: wahrheitspflicht-und-authentizitaet
-description: "Entfernt austauschbare KI-/Musterprosa und stärkt eigene Sprache im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Wahrheit und Authentizität in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wahrheit und Authentizität

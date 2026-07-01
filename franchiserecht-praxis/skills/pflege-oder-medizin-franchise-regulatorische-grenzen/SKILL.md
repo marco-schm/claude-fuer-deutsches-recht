@@ -1,6 +1,6 @@
 ---
 name: pflege-oder-medizin-franchise-regulatorische-grenzen
-description: "Pflege- und Medizin-Franchise regulatorisch prüfen: Zulassungspflichten nach SGB XI und SGB V, Berufsrechtsschranken für Heilberufe, Werbebeschränkungen nach HWG und UWG, Haftung für Pflegemängel und Systemverantwortung des Franchisegebers im Franchiserecht."
+description: "Wenn es um Franchiserecht: Pflege- und Medizin-Franchise – Regulatorische Grenzen in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Franchiserecht: Pflege- und Medizin-Franchise – Regulatorische Grenzen

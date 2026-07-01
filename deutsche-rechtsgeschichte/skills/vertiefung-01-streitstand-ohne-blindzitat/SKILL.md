@@ -1,6 +1,6 @@
 ---
 name: vertiefung-01-streitstand-ohne-blindzitat
-description: "Deutsche Rechtsgeschichte Vertiefung: Streitstand zu einem rechtshistorischen Problem dokumentieren ohne Blindzitate. Quellengestuetzte Darstellung von Forschungskontroversen mit Angabe von Werk, Auflage und Seite im Deutsche Rechtsgeschichte."
+description: "Wenn es um Vertiefung: Streitstand ohne Blindzitat in Deutsche Rechtsgeschichte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vertiefung: Streitstand ohne Blindzitat

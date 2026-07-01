@@ -1,6 +1,6 @@
 ---
 name: bho-44-zuwendungen-verwaltung-praktisc
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 44 Zuwendungen Verwaltung praktisch anwenden. BHO § 44 Zuwendungen Verwaltung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO..."
+description: "Wenn es um Bho 44 Zuwendungen Verwaltung Praktisc in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 44 Zuwendungen Verwaltung Praktisc

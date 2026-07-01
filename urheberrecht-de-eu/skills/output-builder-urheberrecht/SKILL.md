@@ -1,6 +1,6 @@
 ---
 name: output-builder-urheberrecht
-description: "Erzeugt den jeweils passenden Output: Memo, Abmahnung, Antwort, Lizenztext, Tabellencheck, Mandantenbrief, Schriftsatz oder Red-Team."
+description: "Wenn es um Output Builder Urheberrecht in Urheberrecht DE EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output Builder Urheberrecht

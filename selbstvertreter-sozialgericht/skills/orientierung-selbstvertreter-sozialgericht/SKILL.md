@@ -1,6 +1,6 @@
 ---
 name: orientierung-selbstvertreter-sozialgericht
-description: "Einstieg für Bürger ohne Anwalt vor dem Sozialgericht. Überblick über Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, Erwerbsminderungsrente, GdB, Sanity-Check, Rechtsprechungschat, Rechtsmittelgrenzen und Grundregeln des SGG."
+description: "Wenn es um Orientierung — Sich selbst vertreten am Sozialgericht in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Orientierung — Sich selbst vertreten am Sozialgericht

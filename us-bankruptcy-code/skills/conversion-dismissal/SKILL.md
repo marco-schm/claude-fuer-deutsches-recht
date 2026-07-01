@@ -1,6 +1,6 @@
 ---
 name: conversion-dismissal
-description: "Prüft conversion/dismissal across chapters, cause, best interests, bad faith and tactical consequences im US Bankruptcy Code."
+description: "Wenn es um Conversion and Dismissal in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Conversion and Dismissal

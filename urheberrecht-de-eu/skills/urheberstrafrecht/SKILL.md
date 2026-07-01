@@ -1,6 +1,6 @@
 ---
 name: urheberstrafrecht
-description: "Prüft Strafbarkeit, Strafantrag, gewerbsmäßige Nutzung, Durchsuchung, Beschlagnahme und Verteidigungsschnittstellen im Urheberrecht De Eu."
+description: "Wenn es um Urheberstrafrecht und Ermittlungen in Urheberrecht DE EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Urheberstrafrecht und Ermittlungen

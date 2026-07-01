@@ -1,6 +1,6 @@
 ---
 name: str-081-bruecke-baulast-pruefen
-description: "Straßenrecht und Infrastruktur: Brücke: Baulast prüfen. Baulast prüfen für Brücke im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bruecke Baulast Pruefen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bruecke Baulast Pruefen

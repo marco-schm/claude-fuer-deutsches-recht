@@ -1,6 +1,6 @@
 ---
 name: jveg-dolmetscher-uebersetzer-spezial
-description: "Spezialfall Dolmetscher- und Uebersetzerverguetung JVEG: Stundenhonorar, Zeilenhonorar, schwierige Texte, Eilauftraege. Pruefraster Auftragsannahme."
+description: "Wenn es um JVEG: Dolmetscher Uebersetzer in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # JVEG: Dolmetscher Uebersetzer

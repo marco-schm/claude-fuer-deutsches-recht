@@ -1,6 +1,6 @@
 ---
 name: ocr-scan-lesbarkeit-und-beweiswert
-description: "Prüft gescannte Anlagen auf Lesbarkeit, OCR-Durchsuchbarkeit, Seitenreihenfolge, abgeschnittene Ränder, schiefe Scans und Beweiswertprobleme."
+description: "Wenn es um OCR, Scanqualität und Lesbarkeit in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # OCR, Scanqualität und Lesbarkeit

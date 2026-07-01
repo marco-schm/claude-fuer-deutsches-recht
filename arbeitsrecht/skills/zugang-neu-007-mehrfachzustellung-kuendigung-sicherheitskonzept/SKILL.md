@@ -1,6 +1,6 @@
 ---
 name: zugang-neu-007-mehrfachzustellung-kuendigung-sicherheitskonzept
-description: "Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis: Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit konkreter Fachprüfung, Quellenhygiene,..."
+description: "Wenn es um Zugang Neu 007 Mehrfachzustellung Kuendigung Sicherheitskonzept in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.

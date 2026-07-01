@@ -1,6 +1,6 @@
 ---
 name: forderung-arzthonorar-goae
-description: "Arzthonorar nach GOAE und GOZ einklagen: Faelligkeit Paragraf 12 GOAE mit Rechnungserteilung mit Mindestinhalten Diagnose GOAE-Ziffer und Steigerungsfaktor Regel-Schwellenwert sowie bei Ueberschreitung mit schriftlicher Begruendung. Verjährung Paragraf 195 BGB drei Jahre. Beweislast Steigerung beim Arzt. Klage..."
+description: "Wenn es um Arzthonorar nach GOAE und GOZ in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Arzthonorar nach GOAE und GOZ

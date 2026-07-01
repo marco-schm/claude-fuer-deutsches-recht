@@ -1,6 +1,6 @@
 ---
 name: 09-rechtsmittelbelehrung-strafkammer
-description: "Tenor Strafkammer, Rechtsmittelbelehrung Revision Paragrafen 333 ff. StPO, Annahmeberufung, Frist, Form, Begründungserfordernis Paragraf 344 StPO"
+description: "Wenn es um 09 Rechtsmittelbelehrung Strafkammer in Strafkammer am Landgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 09 Rechtsmittelbelehrung Strafkammer

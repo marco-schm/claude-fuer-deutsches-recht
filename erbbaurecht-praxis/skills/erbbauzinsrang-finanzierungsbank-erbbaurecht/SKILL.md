@@ -1,6 +1,6 @@
 ---
 name: erbbauzinsrang-finanzierungsbank-erbbaurecht
-description: "Prüft, wann der Rang der Erbbauzinsreallast die Finanzierung entwertet, wie Rangrücktritt oder Stillhalteabrede aussehen können und welche Risiken Eigentümer, Bank und Erbbauberechtigter jeweils tragen im Erbbaurecht Praxis."
+description: "Wenn es um Erbbauzinsrang vor Finanzierungsbank in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Erbbauzinsrang vor Finanzierungsbank

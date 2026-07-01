@@ -1,6 +1,6 @@
 ---
 name: duesseldorfer-sonderfall-und-edge-case
-description: "Duesseldorfer: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Duesseldorfer: Sonderfall und Edge-Case-Prüfung in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Duesseldorfer: Sonderfall und Edge-Case-Prüfung

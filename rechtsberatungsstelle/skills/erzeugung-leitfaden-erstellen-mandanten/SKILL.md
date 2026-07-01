@@ -1,6 +1,6 @@
 ---
 name: erzeugung-leitfaden-erstellen-mandanten
-description: "Formulare und Antragsdokumente für Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag Vollmacht Widerspruch oder Schriftsatz für Behörde oder Gericht. BeratungsHiG Beratungsschein, BRAO, Formulare Sozialrecht Mietrecht Arbeitsrecht. Prüfraster Formular-Typ bestim..."
+description: "Wenn es um [VERALTET] Formularerstellung → siehe `/entwurf` in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # [VERALTET] Formularerstellung → siehe `/entwurf`

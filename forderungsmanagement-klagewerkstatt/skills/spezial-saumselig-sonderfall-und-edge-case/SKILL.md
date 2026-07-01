@@ -1,6 +1,6 @@
 ---
 name: spezial-saumselig-sonderfall-und-edge-case
-description: "Saumselig: Sonderfall und Edge-Case-Prüfung im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Saumselig: Sonderfall und Edge-Case-Prüfung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Saumselig: Sonderfall und Edge-Case-Prüfung

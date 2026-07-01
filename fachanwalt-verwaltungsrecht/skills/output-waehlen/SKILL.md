@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Verwaltungsrecht: stimmt Adressat (Bürger/Antragsteller, Behörde, Verwaltungsgericht), Frist (§ 74 VwGO Klagefrist 1 Mon.) und Form auf den Zweck ab — typische Outputs: Widerspruch, Klage VG, Eilantrag § 80 V VwGO."
+description: "Wenn es um Output wählen in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

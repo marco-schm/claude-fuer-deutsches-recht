@@ -1,6 +1,6 @@
 ---
 name: nacherbenvermerk-und-verfuegungsbeschraenkung
-description: "Prüft Vermerk, Zustimmung, Befreiung, Löschung und Erwerberrisiko im Grundbuchamt Praxis."
+description: "Wenn es um Nacherbenvermerk in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nacherbenvermerk

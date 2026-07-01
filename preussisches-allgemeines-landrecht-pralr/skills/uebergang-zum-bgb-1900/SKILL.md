@@ -1,6 +1,6 @@
 ---
 name: uebergang-zum-bgb-1900
-description: "PrALR: Ablösung durch BGB, Fortgeltungsreste, Überleitung und historischer Vergleich bis 1900."
+description: "Wenn es um Übergang zum BGB in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Uebergang Zum BGB 1900; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Übergang zum BGB

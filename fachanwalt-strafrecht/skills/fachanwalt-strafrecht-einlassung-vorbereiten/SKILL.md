@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-einlassung-vorbereiten
-description: "Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweigen § 136 StPO. Schweigerecht ist Grundrecht und darf nicht nachteilig gewertet werden BGH st. Rspr. Aber Teilschweigen kann gewürdigt werden. Strategie nach Aktenlage Beweiswert Belastungszeugen Bewertung Indizien. Schriftliche oder muendliche Einlassung Schutz vor Falschangaben Glaubwürdigkeitsanalyse. Einlassung wirkt nach BGH zugunsten Beweisbewertung."
+description: "Wenn es um Einlassung vorbereiten in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einlassung vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: widerspruch-und-klagewege
-description: "Rechtsschutz im Denkmalschutzrecht: Widerspruchsverfahren nach Paragrafen 68 ff. VwGO (soweit landesrechtlich vorgesehen), Anfechtungsklage nach Paragraf 42 VwGO gegen Eintragung, Erlaubnisversagung, Untersagung und Beseitigungsanordnung, Verpflichtungsklage auf Erteilung der Erlaubnis, Eilrechtsschutz nach Paragraf 80 Abs. 5 VwGO oder Paragraf 123 VwGO sowie klare Aussteuerung denkmalrechtlicher Bußgeldbescheide in den OWiG-Einspruch."
+description: "Wenn es um Widerspruch und Klagewege im Denkmalrecht in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Widerspruch und Klagewege im Denkmalrecht

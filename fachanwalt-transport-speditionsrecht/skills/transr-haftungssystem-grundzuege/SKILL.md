@@ -1,6 +1,6 @@
 ---
 name: transr-haftungssystem-grundzuege
-description: "Haftungssystem Grundzuege: Obhutshaftung Frachtfuehrer §§ 425 ff: HGB, Hoechstgrenze 8.33 SZR pro Kilogramm, qualifiziertes Verschulden § 435 HGB durchbricht Hoechstgrenze. Prüfraster Schade..."
+description: "Wenn es um Haftungssystem Grundzuege: Obhutshaftung Frachtfuehrer Paragrafen 425 ff in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haftungssystem Grundzuege: Obhutshaftung Frachtfuehrer §§ 425 ff

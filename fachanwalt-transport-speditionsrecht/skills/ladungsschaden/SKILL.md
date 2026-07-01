@@ -1,6 +1,6 @@
 ---
 name: ladungsschaden
-description: "Ladungsschaden im Gueterverkehr prüfen und geltend machen: Nachweis, Schadensberechnung, Haftungslimits: Normen: §§ 425 431 HGB, Art. 17 23 CMR. Prüfras..."
+description: "Wenn es um Ladungsschaden in Fachanwalt Transport Speditionsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Ladungsschaden im Gueterverkehr prüfen und geltend machen: Nachweis, Schadensberechnung, Haftungslimits

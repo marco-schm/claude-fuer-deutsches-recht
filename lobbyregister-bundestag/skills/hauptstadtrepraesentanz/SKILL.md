@@ -1,6 +1,6 @@
 ---
 name: hauptstadtrepraesentanz
-description: "Prüft, ob eine Geschäftsstelle am Sitz von Bundestag und Bundesregierung als Hauptstadtrepraesentanz anzugeben ist. Output Berlin-Anschrift-Check im Lobbyregister Bundestag."
+description: "Wenn es um Hauptstadtrepraesentanz in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hauptstadtrepraesentanz

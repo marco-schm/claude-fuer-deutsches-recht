@@ -1,6 +1,6 @@
 ---
 name: bmv-strassenverkehrsrecht-und-stvg-stvo
-description: "Sachbereich Strassenverkehrsrecht (StVG; StVO) im Geschäftsbereich BMV: Normbestand (StVG; StVO; FeV; FZV; StVZO; FStrG; PBefG.); Akteure (Kraftfahrt-Bundesamt; BMV; Strassenverkehrsbehoerden der Länder und Kommunen.); EU-Bezug (Typgenehmigungsrecht (EU 2018/858); Fuehrerschein-RL; Mobilitaetspa..."
+description: "Wenn es um Strassenverkehrsrecht (StVG; StVO) (BMV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Strassenverkehrsrecht (StVG; StVO) (BMV)

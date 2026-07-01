@@ -1,6 +1,6 @@
 ---
 name: marken-und-designmandate-kammerantwort-und-verfahren
-description: "Patentanwälte: marken und designmandate - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Marken Und Designmandate Kammerantwort Und Verfahren in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Patentanwälte: marken und designmandate - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

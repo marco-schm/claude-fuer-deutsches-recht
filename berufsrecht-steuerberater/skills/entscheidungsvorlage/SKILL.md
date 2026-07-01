@@ -1,6 +1,6 @@
 ---
 name: entscheidungsvorlage
-description: "Entscheidungsvorlage: vertiefter Berufsrechts-Skill für Steuerberater; prüft macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
+description: "Wenn es um Entscheidungsvorlage in Berufsrecht Steuerberater geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Entscheidungsvorlage

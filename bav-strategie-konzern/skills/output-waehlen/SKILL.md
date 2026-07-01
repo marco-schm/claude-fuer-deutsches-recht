@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Betriebliche Altersversorgung im Konzern: stimmt Adressat (Arbeitgeber/Konzern, Arbeitnehmer, Betriebsrat), Frist (Anpassungsprüfung alle 3 Jahre § 16 BetrAVG) und Form auf den Zweck ab — typische Outputs: bAV-Strategie-Memo, Anpassungsprüfung, Vertragsmuster."
+description: "Wenn es um Output wählen in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

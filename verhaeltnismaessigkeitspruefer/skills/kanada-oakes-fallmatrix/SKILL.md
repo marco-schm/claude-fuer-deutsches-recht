@@ -1,6 +1,6 @@
 ---
 name: kanada-oakes-fallmatrix
-description: Rechtsvergleichende Fallmatrix zu Leitentscheidungen des Supreme Court of Canada zum Oakes-Test als Kontrastfolie zur deutschen BVerfG-Prüfung. Mit R v Oakes 1986, Edwards Books 1986, RJR-MacDonald 1995, Hutterian Brethren 2009, Carter v Canada 2015 und Bedford 2013 jeweils auf Stufe Pressing Substantial Objective Rational Connection Minimal Impairment Proportionality of Effects gespiegelt.
+description: "Wenn es um Kanada Oakes-Test: Fallmatrix in Verhältnismäßigkeitsprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Kanada Oakes-Test: Fallmatrix

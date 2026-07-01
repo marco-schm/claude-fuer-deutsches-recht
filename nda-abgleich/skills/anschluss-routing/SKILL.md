@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für NDA-Abgleich: wählt den nächsten Spezial-Skill nach Engpass (Geltungsdauer NDA (5-10 Jahre), NDA-Entwurf, Mustervorlage, Vorvertrags-Korrespondenz), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anschluss-Routing

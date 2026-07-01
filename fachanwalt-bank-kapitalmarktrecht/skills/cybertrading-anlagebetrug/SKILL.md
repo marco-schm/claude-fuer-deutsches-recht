@@ -1,6 +1,6 @@
 ---
 name: cybertrading-anlagebetrug
-description: "Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück: § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Nor..."
+description: "Wenn es um Cybertrading Anlagebetrug in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück

@@ -1,6 +1,6 @@
 ---
 name: inso-p269c-zusammenarbeit-der-glaubigerausschusse
-description: "§ 269c InsO (Zusammenarbeit der Gläubigerausschüsse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 269c InsO (Zusammenarbeit der Gläubigerausschüsse) im Mandat prüfen: Normzweck, Tatbest..."
+description: "Wenn es um Inso P269c Zusammenarbeit Der Glaubigerausschusse in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 269c InsO (Zusammenarbeit der Gläubigerausschüsse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

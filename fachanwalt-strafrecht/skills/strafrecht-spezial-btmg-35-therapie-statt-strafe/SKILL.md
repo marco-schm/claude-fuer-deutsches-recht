@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-btmg-35-therapie-statt-strafe
-description: "§ 35 BtMG Zurueckstellung der Strafvollstreckung zugunsten einer Therapie: Voraussetzungen Abhaengigkeit, Reststrafe bis zwei Jahre, Therapiezusage. Verfahren mit Vollstreckungsbehoe..."
+description: "Wenn es um Paragraf 35 BtMG Zurueckstellung der Strafvollstreckung zugunsten einer Therapie in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 35 BtMG Zurueckstellung der Strafvollstreckung zugunsten einer Therapie

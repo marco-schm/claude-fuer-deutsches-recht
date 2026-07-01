@@ -1,6 +1,6 @@
 ---
 name: staatsangehoerigkeit-paragraf-10-stag
-description: "Staatsangehoerigkeit § 10 StAG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Staatsangehoerigkeit Paragraf 10 StAG in Fachanwalt Migrationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Staatsangehoerigkeit § 10 StAG

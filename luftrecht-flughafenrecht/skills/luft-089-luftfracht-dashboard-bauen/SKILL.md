@@ -1,6 +1,6 @@
 ---
 name: luft-089-luftfracht-dashboard-bauen
-description: "Luftrecht und Flughafenrecht: Luftfracht: Dashboard bauen. Dashboard bauen für Luftfracht im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Luftfracht Dashboard Bauen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Luftfracht Dashboard Bauen

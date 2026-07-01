@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-zeugen-polizei-strategie
-description: "Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren: Polizeibeamter als einziger Zeuge in der HV. Normen: § 240 StPO i.V.m. § 71 OWiG (Fragerecht), §§ 373 ff. StPO (Zeugenvernehmung). Prüfraster: Aussage-Konstanz (Protokoll vs. HV), Erinnerungsfähigkeit Routine-OWi, Vorhalt frueherer Aussa..."
+description: "Wenn es um Polizeibeamten als Zeugen im OWi-Verfahren in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Polizeibeamten als Zeugen im OWi-Verfahren

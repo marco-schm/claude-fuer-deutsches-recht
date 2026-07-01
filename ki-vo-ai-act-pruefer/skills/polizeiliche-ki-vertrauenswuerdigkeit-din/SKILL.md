@@ -1,6 +1,6 @@
 ---
 name: polizeiliche-ki-vertrauenswuerdigkeit-din
-description: "Polizeiliche KI und vertrauenswürdige technische Standards: Rechtsgrundlage, Grundrechte, Hochrisiko-/verbotene Praktiken, Datenqualität, Bias, Protokollierung und Beschaffungsnachweise."
+description: "Wenn es um Polizeiliche digitale Werkzeuge und Vertrauenswürdigkeit in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Polizeiliche KI und Vertrauenswürdigkeit

@@ -1,6 +1,6 @@
 ---
 name: kindesunterhalt-mindestsatz-paragraf-1612a-bgb
-description: "Kindesunterhalt Mindestsatz Paragraf 1612a BGB: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Kindesunterhalt Mindestsatz Paragraf 1612a BGB in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kindesunterhalt Mindestsatz Paragraf 1612a BGB

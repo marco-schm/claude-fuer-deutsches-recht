@@ -1,6 +1,6 @@
 ---
 name: verl-038-auslandsrechte-sanktionen-exportkontrolle
-description: "Verlagsrecht: Auslandsrechte Sanktionen Exportkontrolle mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Auslandsrechte Sanktionen Exportkontrolle in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Auslandsrechte Sanktionen Exportkontrolle

@@ -1,6 +1,6 @@
 ---
 name: designg-behoerden-gericht-und-registerweg
-description: "DesignG: Behörden, Gerichte und Registerwege: DPMA-Anmeldung, EUIPO-GGM, Nichtigkeitsverfahren, Registerrecherche, Zuständigkeitsverteilung zwischen DPMA und Designgerichten, Musterschutzklage, Rechtsmittelwege."
+description: "Wenn es um DesignG: Behörden, Gerichte und Registerwege in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # DesignG: Behörden, Gerichte und Registerwege

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-betroffenenrechte-art-15-22-orchestriert
-description: "Saemtliche Betroffenenrechte nach Art: 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Sc..."
+description: "Wenn es um Saemtliche Betroffenenrechte nach Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Saemtliche Betroffenenrechte nach Art

@@ -1,6 +1,6 @@
 ---
 name: padlet-vier-stufen-tafel
-description: Padlet-Tafel im Shelf-Format mit den vier Spalten Legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit echt anlegen statt nur zu beschreiben. Drei Pfade Padlet Public API v1, eingeloggter Browser, manueller Aufbau mit fertigem Karten-Markdown. Mit Ampelfarben, Karten-Templates und Verz...
+description: "Wenn es um Echte Padlet-Tafel anlegen, nicht nur vorschlagen in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Echte Padlet-Tafel anlegen, nicht nur vorschlagen

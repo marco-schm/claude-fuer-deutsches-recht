@@ -1,6 +1,6 @@
 ---
 name: note-1-formeln-leistung
-description: "Vollständiger Formulierungskatalog für Leistungsaussagen der Note 1 (sehr gut). Enthält Hauptformel, Verstärker-Adverbien, Einzelsatz-Varianten für Fachkenntnisse, Arbeitsweise, Ergebnisse, Engagement und Belastbarkeit. Alle Formeln sind positiv ausgerichtet und entsprechen dem höchsten Bewertungsniveau der deutschen Zeugnissprache."
+description: "Wenn es um Note 1 — Formeln Leistung in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Note 1 — Formeln Leistung

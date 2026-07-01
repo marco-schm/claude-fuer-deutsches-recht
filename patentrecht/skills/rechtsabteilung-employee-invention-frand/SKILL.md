@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-employee-invention-frand
-description: "Rechtsabteilungs-Fachmodul für Employee Invention im Konzernprojekt: Meldung, Inanspruchnahme, Vergütung und ausländische R&D-Beiträge werden aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Patentrecht."
+description: "Wenn es um Rechtsabteilung: Employee Invention im Konzernprojekt in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Rechtsabteilung: Employee Invention im Konzernprojekt

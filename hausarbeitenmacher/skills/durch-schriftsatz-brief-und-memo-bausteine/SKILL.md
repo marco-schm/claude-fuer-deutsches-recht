@@ -1,6 +1,6 @@
 ---
 name: durch-schriftsatz-brief-und-memo-bausteine
-description: Schriftsatz-, Brief- und Memo-Bausteine fuer Hausarbeiten. Aufbauschemata, Standardformulierungen, Zitierregeln und Stilstufen fuer wissenschaftliche und praxisnahe Texte.
+description: "Wenn es um Schriftsatz-, Brief- und Memo-Bausteine (Hausarbeiten) in hausarbeitenmacher — Didaktisches Plugin für juristische geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schriftsatz-, Brief- und Memo-Bausteine (Hausarbeiten)

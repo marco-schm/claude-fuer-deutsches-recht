@@ -1,6 +1,6 @@
 ---
 name: rsa-lockup-fiduciary-out
-description: "Vertieft lock-up clauses, support obligations, board duties, superior proposal and plan-change flexibility im US Bankruptcy Code."
+description: "Wenn es um Lock-Up and Fiduciary Out in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lock-Up and Fiduciary Out

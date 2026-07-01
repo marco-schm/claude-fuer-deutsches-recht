@@ -1,6 +1,6 @@
 ---
 name: mandat-intake-und-konfliktpruefung
-description: "Mandatsannahme fuer Lizenzvertragsersteller: Konfliktcheck (mehrseitige Vertretung im IP-Verkehr ist Standardrisiko), Mandantenbasisdaten, Ziel- und Eilfristanalyse, Vorvertragspruefung (NDA, LOI, MOU), Dokumenten-Intake-Liste."
+description: "Wenn es um Mandatsannahme und Konfliktpruefung in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandatsannahme und Konfliktpruefung

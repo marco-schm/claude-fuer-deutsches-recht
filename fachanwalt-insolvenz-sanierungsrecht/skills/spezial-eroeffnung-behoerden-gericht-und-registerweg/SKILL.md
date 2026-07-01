@@ -1,6 +1,6 @@
 ---
 name: spezial-eroeffnung-behoerden-gericht-und-registerweg
-description: "Eroeffnung: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Eroeffnung: Behörden-, Gerichts- oder Registerweg in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eroeffnung: Behörden-, Gerichts- oder Registerweg

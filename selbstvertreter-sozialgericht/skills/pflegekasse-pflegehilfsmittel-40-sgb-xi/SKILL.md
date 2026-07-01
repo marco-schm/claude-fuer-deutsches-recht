@@ -1,6 +1,6 @@
 ---
 name: pflegekasse-pflegehilfsmittel-40-sgb-xi
-description: "Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung mit zum Verbrauch bestimmten Pflegehilfsmitteln (40 Euro/Monat) und technischen Pflegehilfsmitteln (Pflegebett Rollstuhl) sowie die wohnumfeldverbessernden Maßnahmen (4000 Euro Zuschuss). Liefert Antragsvorlage."
+description: "Wenn es um Pflegekasse Pflegehilfsmittel 40 Sgb Xi in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflegekasse Pflegehilfsmittel 40 Sgb Xi

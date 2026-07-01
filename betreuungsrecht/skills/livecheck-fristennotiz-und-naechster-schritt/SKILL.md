@@ -1,6 +1,6 @@
 ---
 name: livecheck-fristennotiz-und-naechster-schritt
-description: "Livecheck: Fristennotiz und nächster Schritt im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Livecheck: Fristennotiz und nächster Schritt in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Livecheck Fristennotiz Und Naechster Schritt; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Livecheck: Fristennotiz und nächster Schritt

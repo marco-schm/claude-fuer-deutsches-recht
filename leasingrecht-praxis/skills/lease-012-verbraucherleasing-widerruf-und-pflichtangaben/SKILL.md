@@ -1,6 +1,6 @@
 ---
 name: lease-012-verbraucherleasing-widerruf-und-pflichtangaben
-description: "Leasingrecht: Verbraucherleasing Widerruf und Pflichtangaben mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Verbraucherleasing Widerruf und Pflichtangaben in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Verbraucherleasing Widerruf und Pflichtangaben

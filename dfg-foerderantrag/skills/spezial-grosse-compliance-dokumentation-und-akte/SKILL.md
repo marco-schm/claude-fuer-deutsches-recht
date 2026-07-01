@@ -1,6 +1,6 @@
 ---
 name: spezial-grosse-compliance-dokumentation-und-akte
-description: "Grosse: Compliance-Dokumentation und Aktenvermerk im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Grosse: Compliance-Dokumentation und Aktenvermerk in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Grosse: Compliance-Dokumentation und Aktenvermerk

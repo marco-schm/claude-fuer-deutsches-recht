@@ -1,6 +1,6 @@
 ---
 name: registerlage-1990-bis-heute
-description: "Einigungsvertrag und Vermögensrecht: Registerlage 1990 bis heute. Registerlage 1990 bis heute im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Ta..."
+description: "Wenn es um Registerlage 1990 Bis Heute in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Registerlage 1990 Bis Heute

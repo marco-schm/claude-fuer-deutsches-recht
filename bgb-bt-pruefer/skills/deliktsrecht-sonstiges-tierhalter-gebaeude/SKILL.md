@@ -1,6 +1,6 @@
 ---
 name: deliktsrecht-sonstiges-tierhalter-gebaeude
-description: "Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüterrechte im BGB BT."
+description: "Wenn es um Deliktsrecht: Sonstiges Recht in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Deliktsrecht Sonstiges Tierhalter Gebaeude; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Deliktsrecht: Sonstiges Recht

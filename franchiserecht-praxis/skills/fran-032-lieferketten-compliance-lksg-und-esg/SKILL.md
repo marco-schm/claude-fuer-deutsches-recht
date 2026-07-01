@@ -1,6 +1,6 @@
 ---
 name: fran-032-lieferketten-compliance-lksg-und-esg
-description: "Franchiserecht: Lieferketten Compliance LkSG und ESG mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Lieferketten Compliance LkSG und ESG in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Lieferketten Compliance LkSG und ESG

@@ -1,6 +1,6 @@
 ---
 name: aufnahme-statusinformation
-description: "Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform. Behandelt: Vorgangsbezeichnung; Zeitpunkt der Kenntnisnahme; Eingang Service-Desk und Datenschutzpostfach; Sachverhaltskurzfassung; 72-Stunden-Endpunkt als Datu..."
+description: "Wenn es um Datenschutzvorfall — Erstaufnahme als Statusinformation in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzvorfall — Erstaufnahme als Statusinformation

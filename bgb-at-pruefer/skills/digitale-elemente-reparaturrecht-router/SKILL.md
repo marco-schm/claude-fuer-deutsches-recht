@@ -1,6 +1,6 @@
 ---
 name: digitale-elemente-reparaturrecht-router
-description: "Router-Skill für digitale Elemente und Reparaturrecht im BGB-AT-Kontext: Abgrenzung zu §§ 327 ff. BGB (Verträge über digitale Produkte), Zugang digitaler Erklärungen, elektronische Form und Schnittstelle zum allgemeinen Vertragsrecht."
+description: "Wenn es um Digitale Elemente und Reparaturrecht — Router-Skill BGB AT in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitale Elemente und Reparaturrecht — Router-Skill BGB AT

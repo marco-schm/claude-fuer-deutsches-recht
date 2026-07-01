@@ -1,6 +1,6 @@
 ---
 name: manuskript-merkwuerdige-formate-rettung
-description: "Rettet Manuskripte aus DOCX-/Markdown-/LaTeX-Mix, alten Word97-Dateien und KI-generiertem Wust; legt saubere Konvertierungspfade für die Verlagsredaktion im Verlagsredaktion."
+description: "Wenn es um Manuskript-Rettung aus merkwuerdigen Formaten in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Manuskript-Rettung aus merkwuerdigen Formaten

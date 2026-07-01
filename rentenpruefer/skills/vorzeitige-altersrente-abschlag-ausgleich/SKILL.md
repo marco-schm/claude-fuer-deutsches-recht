@@ -1,6 +1,6 @@
 ---
 name: vorzeitige-altersrente-abschlag-ausgleich
-description: "Prüft vorzeitige Altersrente, Abschläge, Ausgleichszahlungen und Weiterarbeit: mit Variantenvergleich, Liquiditätsentscheidung und Stichtagsprüfung statt pauschaler Empfehlung."
+description: "Wenn es um Vorzeitige Altersrente Abschlag Ausgleich in Rentenprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vorzeitige Altersrente Abschlag Ausgleich

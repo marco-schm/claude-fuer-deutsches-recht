@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Quellenhygiene-Skill für das Denkmalschutzrecht-Plugin. Liefert die kuratierte Suchadressen-Liste für die sechzehn Landesgesetzes-Datenbanken, das Bundesrecht (gesetze-im-internet.de), die Verwaltungsgerichtsbarkeit (BVerwG, OVG-Pakete) und die Welterbe-Quellen (UNESCO, ICOMOS). Verhindert Halluzinationen, indem Paragrafen, Aktenzeichen und Fundstellen vor Verwendung zwingend live verifiziert werden."
+description: "Wenn es um Quellen-Livecheck Denkmalrecht in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Quellen-Livecheck Denkmalrecht

@@ -1,6 +1,6 @@
 ---
 name: anlaufstellen-beweislast-anleiter-bono
-description: "Anlaufstellen: Beweislast, Darlegungslast und Substantiierung im Rechtsberatungsstelle."
+description: "Wenn es um Anlaufstellen: Beweislast, Darlegungslast und Substantiierung in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anlaufstellen: Beweislast, Darlegungslast und Substantiierung

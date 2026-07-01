@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-bescheinigung-vs-pruefungsurteil-kaltstart-u
-description: "Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Kaltstart U in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

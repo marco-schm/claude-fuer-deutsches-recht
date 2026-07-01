@@ -1,6 +1,6 @@
 ---
 name: 09-urteil-sozialgericht
-description: "Urteil Paragrafen 132 ff. SGG: Tenor (Aufhebung, Verurteilung zur Leistung, Bescheidung), Tatbestand, Entscheidungsgründe, Nebenentscheidungen Paragrafen 193 ff. SGG (Kosten), Berufung an LSG, Revision an BSG"
+description: "Wenn es um 09 Urteil Sozialgericht in Sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 09 Urteil Sozialgericht

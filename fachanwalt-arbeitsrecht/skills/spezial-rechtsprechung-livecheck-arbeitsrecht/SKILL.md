@@ -1,6 +1,6 @@
 ---
 name: spezial-rechtsprechung-livecheck-arbeitsrecht
-description: "Livecheck verifizierter Arbeitsrechtsprechung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output."
+description: "Wenn es um Livecheck verifizierter Arbeitsrechtsprechung in Fachanwalt Arbeitsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Livecheck verifizierter Arbeitsrechtsprechung

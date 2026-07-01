@@ -1,6 +1,6 @@
 ---
 name: schweigespirale-fakultaeten-und-justiz
-description: "Untersucht Tabuisierung, Giftschrank-Logik, Schülerloyalität, Festschriftenkultur und verspätete Aufarbeitung der Rechtswissenschaft in NS-Zeit und Nachkriegszeit im Deutsche Rechtsgeschichte."
+description: "Wenn es um Schweigespirale in Fakultäten und Justiz in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schweigespirale in Fakultäten und Justiz

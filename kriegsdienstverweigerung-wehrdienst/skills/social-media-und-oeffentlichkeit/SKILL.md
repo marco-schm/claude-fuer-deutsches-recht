@@ -1,6 +1,6 @@
 ---
 name: social-media-und-oeffentlichkeit
-description: "Prüft Posts, öffentliche Kampagnen und Dienstgeheimnisse im KDV-Kontext im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Social Media und Öffentlichkeit in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Social Media und Öffentlichkeit

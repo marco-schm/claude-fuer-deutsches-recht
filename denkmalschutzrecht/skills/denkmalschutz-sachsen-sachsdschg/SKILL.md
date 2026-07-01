@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-sachsen-sachsdschg
-description: "Denkmalschutzrecht Sachsen nach dem Sächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Sächsisches Staatsministerium für Regionalentwicklung; Landesamt für Denkmalpflege Sachsen in Dresden; Untere Denkmalschutzbehörden bei den Landkreisen und kreisfreien Städten) und die Welterbestätten Muskauer Park, Bergbaulandschaft Erzgebirge sowie die zahlreichen Stadtensembles."
+description: "Wenn es um Denkmalschutz Sachsen (SächsDSchG) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Sachsen (SächsDSchG)

@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-verletztenrente
-description: "Laienverstaendlicher Sozialrechts-Skill zu Verletztenrente: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder..."
+description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Verletztenrente in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Verletztenrente

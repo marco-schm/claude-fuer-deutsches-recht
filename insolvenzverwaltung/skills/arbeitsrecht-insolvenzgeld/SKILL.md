@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-insolvenzgeld
-description: "Personalthemen im Insolvenzverfahren bearbeiten: Lohnrückstaende Insolvenzgeld Kündigungen Betriebsuebergang Betriebsrat. §§ 113 125 InsO § 165 SGB III Insolvenzgeld. Prüfraster: Arbeitnehmerbestand Rückstaende Insolvenzgeldzeitraum Vorfinanzierung Kündigungsfristen Sozialplan. Output: Maßnahmen..."
+description: "Wenn es um Arbeitsrecht, Personal und Insolvenzgeld in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsrecht, Personal und Insolvenzgeld

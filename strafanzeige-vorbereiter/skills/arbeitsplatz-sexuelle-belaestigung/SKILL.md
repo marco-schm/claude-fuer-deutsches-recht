@@ -1,6 +1,6 @@
 ---
 name: arbeitsplatz-sexuelle-belaestigung
-description: "Arbeitsplatzvorfälle: strafrechtliche Anzeige, AGG/Arbeitsrecht, Beweise, Schutz, interne Untersuchung und Betroffenenrechte im Strafanzeige-Vorbereitung."
+description: "Wenn es um Arbeitsplatz: sexuelle Belästigung strafrechtlich einordnen in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Arbeitsplatz: sexuelle Belästigung strafrechtlich einordnen

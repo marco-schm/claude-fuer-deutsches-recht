@@ -1,6 +1,6 @@
 ---
 name: ins-018-krisenfall-profit-warning
-description: "Prueft Gewinnwarnung, Liquiditaetskrise, Covenant Breach, Prognoseaenderung und Ad-hoc-Schwelle."
+description: "Wenn es um Profit Warning und Krise in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Profit Warning und Krise

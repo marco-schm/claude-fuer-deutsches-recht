@@ -1,6 +1,6 @@
 ---
 name: definition-abschlussprodukt
-description: "Definition: Abschlussprodukt und Übergabe im Forschungszulage-Antragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4..."
+description: "Wenn es um Definition: Abschlussprodukt und Übergabe in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Definition: Abschlussprodukt und Übergabe

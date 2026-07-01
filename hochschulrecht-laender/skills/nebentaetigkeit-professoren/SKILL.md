@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-professoren
-description: "Prüft Anzeige/Genehmigung, Drittmittelnähe, Interessenkonflikte und Abführungspflichten im Hochschulrecht Länder."
+description: "Wenn es um Nebentätigkeit Professorinnen und Professoren in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nebentätigkeit Professorinnen und Professoren

@@ -1,6 +1,6 @@
 ---
 name: neu-019-hgb-und-handelsrechtsvereinheitlichung
-description: "Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung im Deutsche Rechtsgeschichte."
+description: "Wenn es um Deutsche Rechtsgeschichte: 019 Hgb Und Handelsrechtsvereinheitlichung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: 019 Hgb Und Handelsrechtsvereinheitlichung

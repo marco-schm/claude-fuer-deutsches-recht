@@ -1,6 +1,6 @@
 ---
 name: konkurrenzen-anspruchsgrundlagen
-description: "Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspruchsgrundlagenkonkurrenz, Spezialitaet, Subsidiaritaet, lex specialis/posterior/superior. Klaert Verhältnis von Vertrags- zu Deliktsrecht, nationalem zu Unionsrecht, StGB zu OWiG im Subsumtions Prüfer."
+description: "Wenn es um Konkurrenzen und Anspruchsgrundlagen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Konkurrenzen und Anspruchsgrundlagen

@@ -1,6 +1,6 @@
 ---
 name: faellige-zahlen-schwellen
-description: "Zahlentabellen für Faelligkeit Verzug Zinsen Pauschalen Streitwerte und Gebühren in Forderungsverfahren. Liefert aktuelle Basiszinssatz-Werte Verzugszinssaetze Pauschalen B2B Streitwertgrenzen und Gebührentabellen. Pinpoints BGB 247 Basiszinssatz BGB 288 Verzugszinsen BGB 288 Abs. 5 Pauschale 40..."
+description: "Wenn es um Faellige Zahlen und Schwellen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Faellige Zahlen und Schwellen

@@ -1,6 +1,6 @@
 ---
 name: kammeranhoerung-fristverlaengerung
-description: "Kammeranhörung Fristverlängerung (Präventions- und Organisationspaket): steuert erste Kammeranhörung, Fristverlängerung, Akteneinsicht, Schweige-/Mitwirkungslinie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Fr..."
+description: "Wenn es um Kammeranhörung Fristverlängerung: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kammeranhörung Fristverlängerung: Präventions- und Organisationspaket

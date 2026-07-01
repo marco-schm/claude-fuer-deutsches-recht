@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Forderungsmanagement Klagewerkstatt: stimmt Adressat (Gläubiger, Schuldner, Gerichtsvollzieher), Frist (Mahnbescheid-Widerspruch 2 Wochen) und Form auf den Zweck ab — typische Outputs: Mahnung, Mahnbescheid online (zentrales MB-Gericht), Klage."
+description: "Wenn es um Output waehlen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output waehlen

@@ -1,6 +1,6 @@
 ---
 name: naturschutz-ffh-artenschutz-fachbeitrag
-description: "Umweltschutzverband Verbandsklage: Naturschutz und FFH. Naturschutz und FFH im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage."
+description: "Wenn es um Naturschutz Und Ffh in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Naturschutz Und Ffh

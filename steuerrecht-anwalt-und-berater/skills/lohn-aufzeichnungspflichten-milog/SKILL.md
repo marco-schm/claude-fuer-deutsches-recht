@@ -1,6 +1,6 @@
 ---
 name: lohn-aufzeichnungspflichten-milog
-description: "Aufzeichnungspflichten nach MiLoG § 17 für Mindestlohn-relevante Branchen Geringfuegige Beschäftigung. Anwendungsfall Prüfung Aufzeichnungspflicht 2 Jahre Aufbewahrung Schwarzarbeitsbekaempfung. Methodik Form der Aufzeichnung digitale Lösungen. Output Aufzeichnungssystem Mandanten-Notiz."
+description: "Wenn es um Aufzeichnungspflichten nach MiLoG Paragraf 17 in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufzeichnungspflichten nach MiLoG § 17

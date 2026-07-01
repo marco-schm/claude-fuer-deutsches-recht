@@ -1,6 +1,6 @@
 ---
 name: folgenabschaetzung-nachhaltigkeit
-description: "Weitere Folgen und Nachhaltigkeitsprüfung für Gesetzesentwurf erstellen. Anwendungsfall Referentenentwurf benoetigt Vorblatt Abschnitt G und Begründung A.VI.6 zu Nachhaltigkeitsfolgen. UN-SDGs prüfen welche betroffen Bewertung positiv neutral negativ. Demografiecheck Wirkung auf aeltere Buerger F..."
+description: "Wenn es um Folgenabschätzung - Nachhaltigkeit in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Folgenabschätzung - Nachhaltigkeit

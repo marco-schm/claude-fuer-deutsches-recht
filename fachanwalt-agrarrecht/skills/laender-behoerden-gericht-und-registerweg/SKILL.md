@@ -1,6 +1,6 @@
 ---
 name: laender-behoerden-gericht-und-registerweg
-description: "Länder: Behörden-, Gerichts- oder Registerweg: Länder: Behörden-, Gerichts- oder Registerweg."
+description: "Wenn es um Länder: Behörden-, Gerichts- oder Registerweg in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Länder: Behörden-, Gerichts- oder Registerweg

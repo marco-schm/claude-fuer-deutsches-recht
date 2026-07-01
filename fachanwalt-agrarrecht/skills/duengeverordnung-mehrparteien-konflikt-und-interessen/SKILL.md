@@ -1,6 +1,6 @@
 ---
 name: duengeverordnung-mehrparteien-konflikt-und-interessen
-description: "Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix: Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix."
+description: "Wenn es um Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix

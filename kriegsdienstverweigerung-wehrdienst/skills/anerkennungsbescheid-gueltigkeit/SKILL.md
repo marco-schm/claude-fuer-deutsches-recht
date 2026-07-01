@@ -1,6 +1,6 @@
 ---
 name: anerkennungsbescheid-gueltigkeit
-description: "Erklärt Fortgeltung alter Anerkennungsbescheide und Nachweisstrategien im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Gültigkeit alter Bescheide in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gültigkeit alter Bescheide

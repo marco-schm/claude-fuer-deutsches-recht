@@ -1,6 +1,6 @@
 ---
 name: 16-sicherungsverfahren-und-massregeln
-description: "Antrag im Sicherungsverfahren (Paragrafen 413 bis 416 StPO), Massregeln der Besserung und Sicherung (Paragrafen 61 ff. StGB), Unterbringung (Paragrafen 63 und 64 StGB), Schuldunfaehigkeit (Paragraf 20 StGB)"
+description: "Wenn es um 16 Sicherungsverfahren und Maßregeln in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 16 Sicherungsverfahren und Maßregeln

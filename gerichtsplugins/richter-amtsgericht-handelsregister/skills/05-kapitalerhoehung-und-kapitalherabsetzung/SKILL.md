@@ -1,6 +1,6 @@
 ---
 name: 05-kapitalerhoehung-und-kapitalherabsetzung
-description: "Prüfung Kapitalerhoehung GmbH Paragrafen 55-57 GmbHG, AG Paragrafen 182-191 AktG; Kapitalherabsetzung Paragrafen 58-58f GmbHG; Werthaltigkeit Sacheinlage Paragraf 9 GmbHG"
+description: "Wenn es um 05 Kapitalerhoehung und Kapitalherabsetzung in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 05 Kapitalerhoehung und Kapitalherabsetzung

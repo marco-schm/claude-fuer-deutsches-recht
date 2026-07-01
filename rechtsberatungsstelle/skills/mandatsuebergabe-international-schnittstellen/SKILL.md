@@ -1,6 +1,6 @@
 ---
 name: mandatsuebergabe-international-schnittstellen
-description: "Mandatsuebergabe: Internationaler Bezug und Schnittstellen im Rechtsberatungsstelle."
+description: "Wenn es um Mandatsuebergabe: Internationaler Bezug und Schnittstellen in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandatsuebergabe: Internationaler Bezug und Schnittstellen

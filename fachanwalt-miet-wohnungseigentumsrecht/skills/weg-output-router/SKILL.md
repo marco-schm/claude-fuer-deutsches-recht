@@ -1,6 +1,6 @@
 ---
 name: weg-output-router
-description: "Output-Router Miet/WEG: Prüfungslinie für Miet- und WEG-Recht; wählt Memo, Tabelle, Brief, Beschluss, Schriftsatz, Vergleich oder Fristenblatt; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output."
+description: "Wenn es um Output-Router Miet/WEG in Fachanwalt Miet- und Wohnungseigentumsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Output-Router Miet/WEG

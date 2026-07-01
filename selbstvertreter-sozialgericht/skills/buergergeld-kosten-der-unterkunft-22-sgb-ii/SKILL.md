@@ -1,6 +1,6 @@
 ---
 name: buergergeld-kosten-der-unterkunft-22-sgb-ii
-description: "Buergergeld Kosten der Unterkunft (KdU) nach § 22 SGB II. Skill klaert die Uebernahme der KdU Angemessenheitspruefung Mietobergrenze regional Senkungsverfahren und Sondervorschriften bei Eigentum. Liefert Prüfraster."
+description: "Wenn es um Buergergeld Kosten Der Unterkunft 22 Sgb Ii in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergergeld Kosten Der Unterkunft 22 Sgb Ii

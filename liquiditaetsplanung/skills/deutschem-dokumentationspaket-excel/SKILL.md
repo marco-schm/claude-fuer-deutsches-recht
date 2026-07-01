@@ -1,6 +1,6 @@
 ---
 name: deutschem-dokumentationspaket-excel
-description: "Deutschem Dokumentationspaket Excel im Plugin Liquiditaetsplanung: prüft konkret Deutschem, Dokumentationspaket, Excel."
+description: "Wenn es um Deutschem Dokumentationspaket Excel in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutschem Dokumentationspaket Excel

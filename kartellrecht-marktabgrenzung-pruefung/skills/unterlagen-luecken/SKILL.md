@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Kartellrecht-Marktabgrenzung: trennt fehlende Tatsachen von fehlenden Belegen (Anmeldung, Marktstudien, Umsatzdaten), nennt pro Lücke Beweisthema, Beschaffungsweg (BKartA), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

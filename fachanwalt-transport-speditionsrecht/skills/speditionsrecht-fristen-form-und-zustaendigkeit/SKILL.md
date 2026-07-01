@@ -1,6 +1,6 @@
 ---
 name: speditionsrecht-fristen-form-und-zustaendigkeit
-description: "Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg: Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Wenn es um Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg

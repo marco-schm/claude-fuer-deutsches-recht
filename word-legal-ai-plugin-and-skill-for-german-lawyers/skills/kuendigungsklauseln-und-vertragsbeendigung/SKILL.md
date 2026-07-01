@@ -1,6 +1,6 @@
 ---
 name: kuendigungsklauseln-und-vertragsbeendigung
-description: "Drafting und Prüfung von Kündigungsklauseln. Ordentliche Kündigung mit Frist und Form, außerordentliche Kündigung aus wichtigem Grund nach § 314 BGB mit Abmahnung und Frist nach Kenntnis, Zugang nach § 130 BGB sowie Form nach §§ 126 (Schriftform), 126a (elektronische Form) und 126b BGB (Textform)..."
+description: "Wenn es um Kündigungsklauseln und Vertragsbeendigung in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kündigungsklauseln und Vertragsbeendigung

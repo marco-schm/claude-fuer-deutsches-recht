@@ -1,6 +1,6 @@
 ---
 name: partnerverguetung-lockstep-merit
-description: "Vergleicht Vergütungsmodelle und falsche Anreize. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Partnervergütung Lockstep Merit Hybrid in Kanzlei Management geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Partnervergütung Lockstep Merit Hybrid

@@ -1,6 +1,6 @@
 ---
 name: kuendigung-wegen-nichtausuebung
-description: "Verlagsrecht: Rückruf und Kündigung wegen Nichtausübung — UrhG § 41 im Detail: Voraussetzungen, Sperrfristen, Verfahren, Wirkung und Strategien für Autor und Verlag im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-045 · Kündigung wegen Nichtausübung (UrhG Paragraf 41) in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-045 · Kündigung wegen Nichtausübung (UrhG § 41)

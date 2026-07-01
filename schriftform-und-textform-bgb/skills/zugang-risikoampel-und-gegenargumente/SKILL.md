@@ -1,6 +1,6 @@
 ---
 name: zugang-risikoampel-und-gegenargumente
-description: "Zugang: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Zugang: Risikoampel, Gegenargumente und Verteidigungslinien in Schriftform und Textform im BGB geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zugang: Risikoampel, Gegenargumente und Verteidigungslinien

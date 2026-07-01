@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-bilanzkreis-strom-rechtsmittel-check
-description: "Bilanzkreis Strom: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: Bilanzkreis Strom — Rechtsmittel-Check in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: Bilanzkreis Strom — Rechtsmittel-Check

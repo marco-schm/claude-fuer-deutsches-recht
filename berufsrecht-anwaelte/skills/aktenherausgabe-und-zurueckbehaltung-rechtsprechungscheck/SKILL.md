@@ -1,6 +1,6 @@
 ---
 name: aktenherausgabe-und-zurueckbehaltung-rechtsprechungscheck
-description: "Anwälte: aktenherausgabe und zurueckbehaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Aktenherausgabe Und Zurueckbehaltung Rechtsprechungscheck in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Anwälte: aktenherausgabe und zurueckbehaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

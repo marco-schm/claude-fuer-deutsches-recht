@@ -1,6 +1,6 @@
 ---
 name: geheimhaltung-vor-anmeldung
-description: "Geheimhaltung vor Anmeldung steuern: NDA, interne Freigabe, Pitchdeck, Förderantrag, Lieferant, Messe und Open-Source-Repo im Gebrauchsmusterrecht."
+description: "Wenn es um Geheimhaltung Vor Anmeldung in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Geheimhaltung Vor Anmeldung

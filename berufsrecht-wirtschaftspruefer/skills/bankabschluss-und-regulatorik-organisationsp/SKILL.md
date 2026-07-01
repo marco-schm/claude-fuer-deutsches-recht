@@ -1,6 +1,6 @@
 ---
 name: bankabschluss-und-regulatorik-organisationsp
-description: "Wirtschaftsprüfer: bankabschluss und regulatorik - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Bankabschluss Und Regulatorik Organisationsp in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: bankabschluss und regulatorik - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

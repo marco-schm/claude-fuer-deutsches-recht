@@ -1,6 +1,6 @@
 ---
 name: operate-verhandlung-vergleich-und-eskalation
-description: "Verhandlung, Vergleich und Eskalation im gewerblichen Rechtsschutz: Strategien für außergerichtliche Einigung, Vergleichsverhandlung, gerichtlichen Vergleich und Eskalation bei Scheitern. Vertragsstrafen, Abschlussvereinbarungen und Hauptsache-Entscheidung im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Verhandlung, Vergleich und Eskalation in Plugin: Gewerblicher Rechtsschutz geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Spezial: Verhandlung, Vergleich und Eskalation

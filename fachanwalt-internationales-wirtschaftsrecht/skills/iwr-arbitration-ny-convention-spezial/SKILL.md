@@ -1,6 +1,6 @@
 ---
 name: iwr-arbitration-ny-convention-spezial
-description: "Spezialfall internationale Schiedsgerichtsbarkeit nach New York Convention 1958: Vollstreckung im Ausland, Prüfung Versagungsgruende Art: Spezialfall internationale Schiedsgerichtsbarkeit nach New York Convention 1958: Vollstreckung im Ausland, Prüfung Ve..."
+description: "Wenn es um Iwr Arbitration Ny Convention Spezial in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall internationale Schiedsgerichtsbarkeit nach New York Convention 1958: Vollstreckung im Ausland, Prüfung Versagungsgruende Art

@@ -1,6 +1,6 @@
 ---
 name: datenschutzpanne-lohnakte-rechtsprechungscheck
-description: "Steuerberater: datenschutzpanne lohnakte - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Datenschutzpanne Lohnakte Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Steuerberater: datenschutzpanne lohnakte - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

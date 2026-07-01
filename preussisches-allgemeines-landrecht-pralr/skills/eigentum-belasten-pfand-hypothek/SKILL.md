@@ -1,6 +1,6 @@
 ---
 name: eigentum-belasten-pfand-hypothek
-description: "Belastung des Eigentums im ALR Pfand und Hypothek. Skill behandelt die dingliche Sicherung pignus hypotheca conventional generalhypothek und die historische Hypothekenordnung. Liefert Quellenmatrix."
+description: "Wenn es um Pralr Eigentum Belasten Pfand Hypothek in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Eigentum Belasten Pfand Hypothek

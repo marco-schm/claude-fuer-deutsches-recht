@@ -1,6 +1,6 @@
 ---
 name: optionales-anfrageverfahren
-description: "Prüft, wann freiwillige Statusfeststellung sinnvoll ist und wann sie strategisch nachteilig sein kann im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Optionales Anfrageverfahren in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Optionales Anfrageverfahren

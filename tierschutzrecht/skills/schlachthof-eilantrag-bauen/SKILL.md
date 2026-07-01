@@ -1,6 +1,6 @@
 ---
 name: schlachthof-eilantrag-bauen
-description: "Schlachthof: Eilantrag bauen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Schlachthof Eilantrag Bauen in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schlachthof Eilantrag Bauen

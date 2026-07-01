@@ -1,6 +1,6 @@
 ---
 name: bestimmtheit-normklarheit-eingriffsgesetze
-description: "Verfassungsrechtliche Bestimmtheits- und Normklarheitsanforderungen an Eingriffsgesetze als Vorfrage der materiellen Verfassungsmaessigkeit. Mit Stufenmodell des BVerfG und Anwendung im Sicherheitsrecht, Steuerrecht und in der Datenverarbeitung."
+description: "Wenn es um Bestimmtheit und Normklarheit in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Bestimmtheit und Normklarheit

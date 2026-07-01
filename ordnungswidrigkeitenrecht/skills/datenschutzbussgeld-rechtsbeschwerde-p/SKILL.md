@@ -1,6 +1,6 @@
 ---
 name: datenschutzbussgeld-rechtsbeschwerde-p
-description: "Datenschutzbußgeld: Rechtsbeschwerde prüfen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Datenschutzbussgeld Rechtsbeschwerde P in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzbussgeld Rechtsbeschwerde P

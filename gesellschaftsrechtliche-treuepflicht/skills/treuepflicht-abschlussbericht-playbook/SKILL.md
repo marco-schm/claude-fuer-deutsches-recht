@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-abschlussbericht-playbook
-description: "Gesellschaftsrechtliche Treuepflicht: Treuepflicht Abschlussbericht Playbook; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Treuepflicht Abschlussbericht Playbook in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuepflicht Abschlussbericht Playbook

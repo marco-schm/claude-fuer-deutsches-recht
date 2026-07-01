@@ -1,6 +1,6 @@
 ---
 name: ungewoehnlich-niedriges-angebot
-description: "Ungewoehnlich niedriges Angebot prüfen: Aufgreifschwelle, Aufklaerung, Kalkulationsrisiken, Sozial-/Umweltpflichten, Zuschlagsverbot und Ruge: Ungewoehnlich niedriges Angebot prüfen: Aufgreifschwelle, Aufklaerung, Kalkulationsrisiken, Sozial-/Umweltpflic..."
+description: "Wenn es um Ungewoehnlich Niedriges Angebot in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ungewoehnlich niedriges Angebot prüfen: Aufgreifschwelle, Aufklaerung, Kalkulationsrisiken, Sozial-/Umweltpflichten, Zuschlagsverbot und Ruge.

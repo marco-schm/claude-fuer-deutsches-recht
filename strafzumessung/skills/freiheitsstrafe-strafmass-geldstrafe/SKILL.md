@@ -1,6 +1,6 @@
 ---
 name: freiheitsstrafe-strafmass-geldstrafe
-description: "Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen prüfen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Ant..."
+description: "Wenn es um Freiheitsstrafe — Strafmass prüfen in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freiheitsstrafe — Strafmass prüfen

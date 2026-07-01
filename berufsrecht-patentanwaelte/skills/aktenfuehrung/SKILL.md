@@ -1,6 +1,6 @@
 ---
 name: aktenfuehrung
-description: "Aktenführung: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Aktenführung im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
+description: "Wenn es um Aktenführung in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Aktenführung

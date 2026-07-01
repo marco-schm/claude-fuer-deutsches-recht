@@ -1,6 +1,6 @@
 ---
 name: erstattungsstreit-zwischen-leistungstraegern
-description: "Erstattungsansprüche zwischen GKV, Pflegeversicherung, Rentenversicherung, Unfallversicherung und Sozialhilfe (§§ 102–115 SGB X): Voraussetzungen und Verjährung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Erstattungsstreit zwischen Leistungsträgern in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstattungsstreit zwischen Leistungsträgern

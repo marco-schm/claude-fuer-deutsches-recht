@@ -1,6 +1,6 @@
 ---
 name: vbr-031-fernabsatz-anspruch-pruefen
-description: "Verbraucherschutzrecht Prüfer: Fernabsatz: Anspruch prüfen. Anspruch prüfen für Fernabsatz im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Fernabsatz Anspruch Pruefen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fernabsatz Anspruch Pruefen

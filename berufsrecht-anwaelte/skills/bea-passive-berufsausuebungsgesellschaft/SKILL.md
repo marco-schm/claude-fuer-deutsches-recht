@@ -1,6 +1,6 @@
 ---
 name: bea-passive-berufsausuebungsgesellschaft
-description: "Anwälte: bea passive nutzung und empfangsbekenntnis - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Bea Passive Berufsausuebungsgesellschaft in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Anwälte: bea passive nutzung und empfangsbekenntnis - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

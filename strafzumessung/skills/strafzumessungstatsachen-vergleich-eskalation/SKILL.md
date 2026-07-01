@@ -1,6 +1,6 @@
 ---
 name: strafzumessungstatsachen-vergleich-eskalation
-description: "Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation im Strafzumessung."
+description: "Wenn es um Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation in Strafzumessung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation

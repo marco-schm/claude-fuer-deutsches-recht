@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "AG/SE-Aufsichtsrat Praxis: Allgemein Kaltstart. Liefert Norm-Pinpoints, Prüfachsen, Red Flags, Varianten und konkrete Output-Bausteine zum Slug-Thema im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um Allgemein Kaltstart in AG/SE-Aufsichtsrat Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemein Kaltstart

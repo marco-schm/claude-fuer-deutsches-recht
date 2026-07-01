@@ -1,6 +1,6 @@
 ---
 name: db-021-wissenschaftsdaten-forschungsdatenbank
-description: "Datenbankrecht: Wissenschaftsdaten Forschungsdatenbank mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Wissenschaftsdaten Forschungsdatenbank in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Wissenschaftsdaten Forschungsdatenbank

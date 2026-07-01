@@ -1,6 +1,6 @@
 ---
 name: workflow-arbeitgeber-memo
-description: "Arbeitgeber-Memo: Prüfungslinie für Migrationsrecht: liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbare..."
+description: "Wenn es um Arbeitgeber-Memo: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitgeber-Memo: Prüfungslinie für Migrationsrecht

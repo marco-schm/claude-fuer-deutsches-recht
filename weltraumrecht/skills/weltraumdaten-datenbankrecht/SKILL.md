@@ -1,6 +1,6 @@
 ---
 name: weltraumdaten-datenbankrecht
-description: "Weltraumdaten als Datenbankwerk – Sui-generis-Schutz, AI-Training, DSGVO, Copernicus-Lizenz im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Weltraumdaten: Datenbankrecht und digitale Werkzeuge-Training in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Weltraumdaten: Datenbankrecht und AI-Training

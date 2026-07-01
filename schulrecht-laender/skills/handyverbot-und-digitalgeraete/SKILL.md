@@ -1,6 +1,6 @@
 ---
 name: handyverbot-und-digitalgeraete
-description: "Prüft Handyverbote, Beschlagnahme, Tablets und Schulgeräte im Schulrecht Länder."
+description: "Wenn es um Handyverbot Und Digitalgeraete in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handyverbot Und Digitalgeraete

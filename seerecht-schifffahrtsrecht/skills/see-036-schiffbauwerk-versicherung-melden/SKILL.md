@@ -1,6 +1,6 @@
 ---
 name: see-036-schiffbauwerk-versicherung-melden
-description: "See- und Schifffahrtsrecht: Schiffbauwerk: Versicherung melden. Versicherung melden für Schiffbauwerk im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schiffbauwerk Versicherung Melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffbauwerk Versicherung Melden

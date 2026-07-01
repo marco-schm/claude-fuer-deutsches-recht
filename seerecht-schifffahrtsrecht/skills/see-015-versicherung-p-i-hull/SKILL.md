@@ -1,6 +1,6 @@
 ---
 name: see-015-versicherung-p-i-hull
-description: "See- und Schifffahrtsrecht: Versicherung P&I Hull. Versicherung P&I Hull im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Versicherung P I Hull in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versicherung P I Hull

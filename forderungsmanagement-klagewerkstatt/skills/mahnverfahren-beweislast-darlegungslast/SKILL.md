@@ -1,6 +1,6 @@
 ---
 name: mahnverfahren-beweislast-darlegungslast
-description: "Beweislast und Darlegungslast in Mahnverfahren und Klage: Kläger traegt Darlegungs- und Beweislast für anspruchsbegruendende Tatsachen. Substantiierungspflicht Paragraf 138 ZPO, Wahrheitspflicht, Bestreiten mit Nichtwissen Paragraf 138 Abs. 4 ZPO. Sekundaere Darlegungslast bei Wissensvorsprung Bekl. Output: B..."
+description: "Wenn es um Beweislast und Darlegungslast in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Beweislast und Darlegungslast

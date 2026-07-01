@@ -1,6 +1,6 @@
 ---
 name: widerspruchsfrist-und-zustellung-sgb
-description: "Anwalt muss bei eingehendem oder ausgehendem Bescheid klären ob und wann die Widerspruchsfrist laeuft und ob Zustellungsmaengel die Frist beeinflussen: Anwalt muss bei eingehendem oder ausgehendem Bescheid klären ob und wann die Widerspruchsfrist laeuft u..."
+description: "Wenn es um Widerspruchsfrist Und Zustellung Sgb in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwalt muss bei eingehendem oder ausgehendem Bescheid klären ob und wann die Widerspruchsfrist laeuft und ob Zustellungsmaengel die Frist beeinflussen

@@ -1,6 +1,6 @@
 ---
 name: aufforderung-beweise-red-grenzbaum
-description: "Aufforderung: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Aufforderung: Mandantenkommunikation und Entscheidungsvorlage in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufforderung: Mandantenkommunikation und Entscheidungsvorlage

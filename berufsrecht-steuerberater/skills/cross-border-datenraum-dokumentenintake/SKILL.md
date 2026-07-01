@@ -1,6 +1,6 @@
 ---
 name: cross-border-datenraum-dokumentenintake
-description: "Cross-Border: vertiefter Berufsrechts-Skill für Steuerberater; prüft Cross-Border im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
+description: "Wenn es um Cross-Border in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Cross-Border

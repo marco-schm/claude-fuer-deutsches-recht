@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-hierarchie-historisch
-description: "Deutsche Rechtsgeschichte: Entwicklung der Rechtsquellenhierarchie. Ius commune und ius particulare, territoriale Souveraenitaet, Rangfolge in Kaiserreich und Weimarer Republik sowie das moderne GG-System."
+description: "Wenn es um Rechtsquellenhierarchie historisch in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsquellenhierarchie historisch

@@ -1,6 +1,6 @@
 ---
 name: top-generator-emotion-zu-beschluss
-description: "Verwandelt ungeordnete Beschwerden, WhatsApp-Nachrichten, Eigentuemermails und Verwaltervermerke in sachliche Tagesordnungspunkte, Beschlussvorschlaege, Informations-TOPs und Protokollbausteine."
+description: "Wenn es um TOP-Generator - von Emotion zu Beschluss in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # TOP-Generator - von Emotion zu Beschluss

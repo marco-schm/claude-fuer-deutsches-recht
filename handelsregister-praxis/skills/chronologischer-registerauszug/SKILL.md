@@ -1,6 +1,6 @@
 ---
 name: chronologischer-registerauszug
-description: "Rekonstruiert Registergeschichte, kritische Umschlagpunkte und mögliche Inkonsistenzen im Handelsregister Praxis."
+description: "Wenn es um Chronologischen Auszug auswerten in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chronologischen Auszug auswerten

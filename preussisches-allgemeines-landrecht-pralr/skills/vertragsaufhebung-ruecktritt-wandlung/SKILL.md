@@ -1,6 +1,6 @@
 ---
 name: vertragsaufhebung-ruecktritt-wandlung
-description: "Vertragsaufhebung Ruecktritt und Wandlung im ALR. Skill behandelt die Aufhebungsgruende einvernehmlich gesetzlich (Wegfall der Geschäftsgrundlage Untergang) und die Ruecktrittstradition. Liefert Quellenmatrix: prüft konkret die einschlägigen Tatbestandsmerkma..."
+description: "Wenn es um Pralr Vertragsaufhebung Ruecktritt Wandlung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vertragsaufhebung Ruecktritt Wandlung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Pralr Vertragsaufhebung Ruecktritt Wandlung

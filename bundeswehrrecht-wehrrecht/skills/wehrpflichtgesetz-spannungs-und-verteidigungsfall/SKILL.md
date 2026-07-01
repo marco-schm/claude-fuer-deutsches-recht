@@ -1,6 +1,6 @@
 ---
 name: wehrpflichtgesetz-spannungs-und-verteidigungsfall
-description: "Wehrpflichtgesetz Spannungs- und Verteidigungsfall: prüft Reaktivierung Wehrpflicht, Musterung, Heranziehung und Rechtsbehelfe. Norm-/Quellenanker: WPflG, Art. 12a GG, Art. 115a GG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Wehrpflichtgesetz: Spannungs- und Verteidigungsfall in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wehrpflichtgesetz: Spannungs- und Verteidigungsfall

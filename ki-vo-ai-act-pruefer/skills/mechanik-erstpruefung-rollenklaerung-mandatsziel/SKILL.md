@@ -1,6 +1,6 @@
 ---
 name: mechanik-erstpruefung-rollenklaerung-mandatsziel
-description: "Mechanik: Erstprüfung, Rollenklärung und Mandatsziel im EU KI-VO (AI Act): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. W..."
+description: "Wenn es um Mechanik: Erstprüfung, Rollenklärung und Mandatsziel in europäischem Technikregulierungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mechanik Erstpruefung Rollenklaerung Mandatsziel; Arbeitsfeld: europäischem Technikregulierungsrecht."
 ---
 
 # Mechanik: Erstprüfung, Rollenklärung und Mandatsziel

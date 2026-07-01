@@ -1,6 +1,6 @@
 ---
 name: psd3-psr-vorschau-gap-analysis
-description: "PSD3- und PSR-Vorschau für Banken: geplantes EU-Zahlungsdienste-Paket gegen bestehende PSD2/ZAG-Prozesse mappen, Fraud, Open Banking, Transparenz und organisatorische Gaps vorbereiten im Bank-Rechtsabteilung."
+description: "Wenn es um PSD3/PSR Vorschau in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # PSD3/PSR Vorschau

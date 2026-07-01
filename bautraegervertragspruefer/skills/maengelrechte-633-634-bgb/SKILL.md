@@ -1,6 +1,6 @@
 ---
 name: maengelrechte-633-634-bgb
-description: "Prueft Maengelrechte des Erwerbers nach Paragrafen 633 und 634 BGB: Nacherfuellung, Selbstvornahme, Minderung, Ruecktritt und Schadensersatz. Trennt die einzelnen Rechte, prueft formularmassige Beschraenkungen und zeigt die Beweislastverteilung vor und nach Abnahme."
+description: "Wenn es um Mängelrechte Paragrafen 633 und 634 BGB in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mängelrechte Paragrafen 633 und 634 BGB

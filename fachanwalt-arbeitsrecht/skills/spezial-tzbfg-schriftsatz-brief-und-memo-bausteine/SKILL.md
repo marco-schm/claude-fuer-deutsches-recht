@@ -1,6 +1,6 @@
 ---
 name: spezial-tzbfg-schriftsatz-brief-und-memo-bausteine
-description: "Tzbfg: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Tzbfg: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Tzbfg: Schriftsatz-, Brief- und Memo-Bausteine

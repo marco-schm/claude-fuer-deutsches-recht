@@ -1,6 +1,6 @@
 ---
 name: deal-team-staffing
-description: "Kanzlei strukturiert Transaktionsteam für grosse M&A-Mandate: Workstreams Rollen Kapazitaetsplanung Review-Level Eskalationswege. Normen BRAO § 43a Berufsrecht Mandantsgeheimnis-Sicherung. Prüfraster Workstream-Karte Rollen-Matrix Kapazitaets-Check Staffing-Risiken. Output Staffing-Plan Organigra..."
+description: "Wenn es um Deal-Team und Staffing in Mittelstands-Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Deal-Team und Staffing

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-mac-klausel-signing-closing
-description: "Rechtsabteilungs-Fachmodul für MAC-Klausel bei Signing-Closing-Bruch: Ein Deal-Team erhält eine deutsche Auslegungsmatrix für MAC, MAE und Bring-down-Zertifikate. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Wenn es um Rechtsabteilung: MAC-Klausel bei Signing-Closing-Bruch in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsabteilung: MAC-Klausel bei Signing-Closing-Bruch

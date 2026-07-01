@@ -1,6 +1,6 @@
 ---
 name: strafverteidigung-schriftsatz-brief-und-memo-bausteine
-description: "Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine: Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Wenn es um Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine

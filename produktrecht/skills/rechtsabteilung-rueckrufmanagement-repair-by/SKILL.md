@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-rueckrufmanagement-repair-by
-description: "Rechtsabteilungs-Fachmodul für Rückrufmanagement mit RAPEX/Safety Gate: Risikoanalyse, Behördenmeldung, Verbraucherkommunikation und Händlerkette werden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Produktrecht."
+description: "Wenn es um Rechtsabteilung: Rückrufmanagement mit RAPEX/Safety Gate in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Rückrufmanagement mit RAPEX/Safety Gate

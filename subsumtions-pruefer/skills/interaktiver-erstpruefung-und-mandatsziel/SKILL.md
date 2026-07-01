@@ -1,6 +1,6 @@
 ---
 name: interaktiver-erstpruefung-und-mandatsziel
-description: "Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel im Subsumtions Prüfer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Interaktiv: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Interaktiv: Erstprüfung, Rollenklärung und Mandatsziel

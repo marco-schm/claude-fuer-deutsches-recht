@@ -1,6 +1,6 @@
 ---
 name: hausrat-und-wertgegenstaende
-description: "Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen: Normanker: ZPO §§ 811 ff.; InsO § 36; l..."
+description: "Wenn es um Hausrat Und Wertgegenstaende in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen.

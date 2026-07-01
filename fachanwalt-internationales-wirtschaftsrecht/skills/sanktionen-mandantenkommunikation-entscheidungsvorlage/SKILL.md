@@ -1,6 +1,6 @@
 ---
 name: sanktionen-mandantenkommunikation-entscheidungsvorlage
-description: "Sanktionen: Mandantenkommunikation und Entscheidungsvorlage: Sanktionen: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Wenn es um Sanktionen: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanktionen: Mandantenkommunikation und Entscheidungsvorlage

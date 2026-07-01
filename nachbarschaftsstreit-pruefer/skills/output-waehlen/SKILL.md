@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Nachbarschaftsstreit: stimmt Adressat (Mandant, Nachbar, Schiedsamt), Frist (§ 906 II 2 BGB jährliche Berechnung) und Form auf den Zweck ab — typische Outputs: Schiedsamtsantrag, Klage AG, Unterlassung/Beseitigung-Antrag."
+description: "Wenn es um Output wählen in Nachbarschaftsstreit-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

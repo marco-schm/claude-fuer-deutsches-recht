@@ -1,6 +1,6 @@
 ---
 name: oew-001-kaltstart-oeffentliches-wirtschaftspro
-description: "Öffentliches Wirtschaftsrecht: Kaltstart öffentliches Wirtschaftsprojekt. Kaltstart öffentliches Wirtschaftsprojekt im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Kaltstart Oeffentliches Wirtschaftspro in Öffentliches Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Oeffentliches Wirtschaftspro

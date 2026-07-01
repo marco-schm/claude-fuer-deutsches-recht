@@ -1,6 +1,6 @@
 ---
 name: dsgvo-erstpruefung-rollenklaerung-mandatsziel
-description: "DSGVO: Erstprüfung, Rollenklärung und Mandatsziel im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welch..."
+description: "Wenn es um DSGVO: Erstprüfung, Rollenklärung und Mandatsziel in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dsgvo Erstpruefung Rollenklaerung Mandatsziel; Arbeitsfeld: Datenschutzrecht."
 ---
 
 # DSGVO: Erstprüfung, Rollenklärung und Mandatsziel

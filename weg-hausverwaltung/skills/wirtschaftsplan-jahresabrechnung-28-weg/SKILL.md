@@ -1,6 +1,6 @@
 ---
 name: wirtschaftsplan-jahresabrechnung-28-weg
-description: "Prüft Wirtschaftsplan, Jahresabrechnung, Vermögensbericht, Nachschüsse, Vorschussanpassungen, Rücklagen, Verteilerschlüssel, Beleglage und Beschlussformulierung nach § 28 WEG (Stand 05/2026). Berücksichtigt BGH V ZR 102/23 (Auslegung des Abrechnungsbeschlusses), V ZR 167/23 (Anspruch gegen GdWE),..."
+description: "Wenn es um Wirtschaftsplan und Jahresabrechnung in WEG- und Hausverwaltung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Wirtschaftsplan und Jahresabrechnung

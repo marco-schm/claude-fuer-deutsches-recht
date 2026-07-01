@@ -1,6 +1,6 @@
 ---
 name: spezial-monats-livequellen-und-rechtsprechungscheck
-description: "Monats: Livequellen- und Rechtsprechungscheck im Plugin fortbestehensprognose; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Monats: Livequellen- und Rechtsprechungscheck in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Monats: Livequellen- und Rechtsprechungscheck

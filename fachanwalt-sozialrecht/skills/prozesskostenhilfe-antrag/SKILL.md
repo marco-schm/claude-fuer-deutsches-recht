@@ -1,6 +1,6 @@
 ---
 name: prozesskostenhilfe-antrag
-description: "Anwalt erstellt PKH-Antrag für Sozialgerichtsverfahren und muss alle Belege korrekt zusammenstellen: § 73a SGG iVm §§ 114 ff. ZPO. Prüfraster: Erklärung per..."
+description: "Wenn es um Prozesskostenhilfe Antrag in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anwalt erstellt PKH-Antrag für Sozialgerichtsverfahren und muss alle Belege korrekt zusammenstellen

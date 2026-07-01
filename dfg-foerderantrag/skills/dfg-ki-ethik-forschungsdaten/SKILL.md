@@ -1,6 +1,6 @@
 ---
 name: dfg-ki-ethik-forschungsdaten
-description: "DFG-Antrag auf KI-Nutzung, Ethik, Datenschutz, Forschungsdatenmanagement und gute wissenschaftliche Praxis prüfen. Behandelt Vertraulichkeit in Begutachtung, Datenmanagementplan, sensible Daten, Open Access und Nachnutzung."
+description: "Wenn es um digitale Werkzeuge, Ethik und Forschungsdaten in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # KI, Ethik und Forschungsdaten

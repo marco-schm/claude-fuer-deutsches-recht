@@ -1,6 +1,6 @@
 ---
 name: grundschuldbrief-verlust-aufgebot
-description: "Führt durch Feststellung des Verlusts, Aufgebotsantrag, Nachweise, Ausschließungsbeschluss, Ersatzbrief/Löschung und Bankkommunikation im Grundbuchamt Praxis."
+description: "Wenn es um Verlorener Grundschuldbrief in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verlorener Grundschuldbrief

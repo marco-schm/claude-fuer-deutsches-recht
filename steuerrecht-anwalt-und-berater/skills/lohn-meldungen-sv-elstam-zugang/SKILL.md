@@ -1,6 +1,6 @@
 ---
 name: lohn-meldungen-sv-elstam-zugang
-description: "SV-Meldungen und ELStAM-Verfahren beim AN-Onboarding. Anwendungsfall Beschäftigungsbeginn und Beendigung Anmeldung Abmeldung Änderungsmeldung Sofortmeldung Sonderbranchen Elektronische LSt-Merkmale Abruf. Methodik DEUEV-Verfahren ELStAM Prüfung. Output gemeldete Vorgaenge Quittungen."
+description: "Wenn es um SV-Meldungen und ELStAM-Verfahren in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SV-Meldungen und ELStAM-Verfahren

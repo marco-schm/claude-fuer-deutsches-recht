@@ -1,6 +1,6 @@
 ---
 name: gelb-formular-portal-einreichungslogik
-description: "Gelb: Formular, Portal und Einreichungslogik im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumen..."
+description: "Wenn es um Gelb: Formular, Portal und Einreichungslogik in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gelb Formular Portal Einreichungslogik; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # Gelb: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: mitgliedschaft-beendigung
-description: "Prüft Austritt, Beitragsrückstand, Ausschlussverfahren, Anhörung, Fairness und Dokumentation im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Austritt, Streichung, Ausschluss in Vereinsrecht und Vereinsmanager geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Austritt, Streichung, Ausschluss

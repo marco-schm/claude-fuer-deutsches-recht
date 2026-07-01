@@ -1,6 +1,6 @@
 ---
 name: schriftsaetzen-dokumentenmatrix-und-lueckenliste
-description: "Baut aus Schriftsatz und Dateiliste eine Matrix mit Tatsachen, Belegen, fehlenden Anlagen und Nachforderungen im Anlagen zu Schriftsätzen."
+description: "Wenn es um Dokumentenmatrix und Lückenliste in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Schriftsaetzen Dokumentenmatrix Und Lückenliste; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Dokumentenmatrix und Lückenliste

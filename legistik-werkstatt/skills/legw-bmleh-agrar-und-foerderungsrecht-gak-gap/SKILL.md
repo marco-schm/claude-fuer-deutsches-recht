@@ -1,6 +1,6 @@
 ---
 name: legw-bmleh-agrar-und-foerderungsrecht-gak-gap
-description: "Sachbereich Agrar- und Foerderungsrecht (GAK; GAP) im Geschaeftsbereich BMLEH: Normbestand (GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.); Akteure (BLE; Laender-Landwirtschaftsministerien; Generaldirektion AGRI; BMEL/BMLEH.); EU-Bezug (GAP-Reform; Direktzahlungen-VO; ELER-VO; Konditionalitaet.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung)."
+description: "Wenn es um Agrar- und Foerderungsrecht (GAK; GAP) (BMLEH) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Agrar- und Foerderungsrecht (GAK; GAP) (BMLEH)

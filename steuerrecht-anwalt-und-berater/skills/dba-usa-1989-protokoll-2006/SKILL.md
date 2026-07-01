@@ -1,6 +1,6 @@
 ---
 name: dba-usa-1989-protokoll-2006
-description: "DBA Deutschland USA 1989 mit Protokollen 1998 2006 2021. LOB-Klausel Limitation on Benefits Substanztest. Pension Protection im Protokoll 2006. Branch Profits Tax. Anwendungsfall US-Holdings IRA 401(k) Roth Beteiligungen Sportler Kuenstler Wegzug. Methodenartikel Anrechnung. Output Mandanten-Memo..."
+description: "Wenn es um DBA Deutschland-USA (1989) mit Protokollen (1998. 2006, geplant 2021) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # DBA Deutschland-USA (1989) mit Protokollen (1998, 2006, geplant 2021)

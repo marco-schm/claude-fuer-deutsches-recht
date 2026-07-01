@@ -1,6 +1,6 @@
 ---
 name: kig-ai-act-rollenmodell-bauleiter
-description: "Bauleiter AI-Act-Rollenmodell: Anbieter, Betreiber, Importeur, Vertriebshaendler, Bevollmaechtigter. Prüfraster für Identifikation und Pflichtenkatalog je Rolle im Ki Governance."
+description: "Wenn es um KIG: digitale Werkzeuge-Act-Rollenmodell in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # KIG: AI-Act-Rollenmodell

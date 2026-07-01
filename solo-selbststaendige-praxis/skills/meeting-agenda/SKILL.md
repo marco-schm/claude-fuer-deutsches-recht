@@ -1,6 +1,6 @@
 ---
 name: meeting-agenda
-description: "Solo-Selbstständige: erstellt kurze Agenda für Kunde, Steuerberater oder Behörde; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Dokumente und Kommunikation: Erstellt kurze agenda für kunde in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumente und Kommunikation: Erstellt kurze agenda für kunde

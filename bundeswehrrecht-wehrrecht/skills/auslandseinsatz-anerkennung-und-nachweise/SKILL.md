@@ -1,6 +1,6 @@
 ---
 name: auslandseinsatz-anerkennung-und-nachweise
-description: "Auslandseinsatz Anerkennung und Nachweise: prüft Einsatzbescheinigungen, AVZ-Nachweise, WDB-Dokumentation und behördliche Verfahren. Norm-/Quellenanker: BBesG §§ 56–58, SVG, EinsatzWVG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Auslandseinsatz: Anerkennung und Nachweise in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auslandseinsatz: Anerkennung und Nachweise

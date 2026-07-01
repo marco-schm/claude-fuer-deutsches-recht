@@ -1,6 +1,6 @@
 ---
 name: sektorenvergabe-sektvo
-description: "Sektorenvergabe nach SektVO durchfuehren und angreifen: Sektorenauftraggeber Wasser/Energie/Verkehr/Post oder Bieter will SektVO-konformes Verfahren oder Ruege: Sektorenvergabe nach SektVO durchfuehren und angreifen: Sektorenauftraggeber Wasser/Energie/Verk..."
+description: "Wenn es um Sektorenvergabe Sektvo in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sektorenvergabe nach SektVO durchfuehren und angreifen: Sektorenauftraggeber Wasser/Energie/Verkehr/Post oder Bieter will SektVO-konformes Verfahren oder Ruege

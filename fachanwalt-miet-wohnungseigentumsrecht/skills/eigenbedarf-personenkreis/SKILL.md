@@ -1,6 +1,6 @@
 ---
 name: eigenbedarf-personenkreis
-description: "Eigenbedarf Personenkreis: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Bedarfsperson, Nutzungswunsch, Vorratskündigung, Alternativwohnung und Widerspruch; mit Normprüfung, Be..."
+description: "Wenn es um Eigenbedarf Personenkreis: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eigenbedarf Personenkreis: Fachmodul im Miet- und Wohnungseigentumsrecht

@@ -1,6 +1,6 @@
 ---
 name: schiffbauwerk-hypothek-bestellen
-description: "Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank bestellt Schiffshypothek als Sicherheit für Finanzierung eines Schiff im Bau (Schiffbauwerk). SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mit..."
+description: "Wenn es um Schiffbauwerk – Schiffshypothek bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffbauwerk – Schiffshypothek bestellen

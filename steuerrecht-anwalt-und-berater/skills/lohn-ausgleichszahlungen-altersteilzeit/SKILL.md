@@ -1,6 +1,6 @@
 ---
 name: lohn-ausgleichszahlungen-altersteilzeit
-description: "Altersteilzeit Block-Modell Gleichverteilungsmodell Aufstockungsbetrag. Anwendungsfall AN-Antrag Altersteilzeit ab 55 Block-/Gleichverteilungs-Variante AG-Aufstockung 20 Prozent steuerfrei. Methodik Prüfung AltTZG Berechnung. Output Altersteilzeit-Vereinbarung Lohn-Abrechnung."
+description: "Wenn es um Altersteilzeit — Block- und Gleichverteilungsmodell in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Altersteilzeit — Block- und Gleichverteilungsmodell

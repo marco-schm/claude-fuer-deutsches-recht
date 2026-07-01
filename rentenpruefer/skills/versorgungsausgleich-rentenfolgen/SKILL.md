@@ -1,6 +1,6 @@
 ---
 name: versorgungsausgleich-rentenfolgen
-description: "Prüft Rentenfolgen des Versorgungsausgleichs: interne und externe Teilung, DRV-Konto, Betriebsrente, private Renten, Abänderung, Tod des Expartners und Mandantenbrief."
+description: "Wenn es um Versorgungsausgleich und Rentenfolgen in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Versorgungsausgleich und Rentenfolgen

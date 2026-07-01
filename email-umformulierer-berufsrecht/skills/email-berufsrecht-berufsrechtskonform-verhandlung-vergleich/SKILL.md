@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-berufsrechtskonform-verhandlung-vergleich
-description: "Berufsrechtskonform: Verhandlung, Vergleich und Eskalation: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahr..."
+description: "Wenn es um Berufsrechtskonform: Verhandlung, Vergleich und Eskalation in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berufsrechtskonform: Verhandlung, Vergleich und Eskalation

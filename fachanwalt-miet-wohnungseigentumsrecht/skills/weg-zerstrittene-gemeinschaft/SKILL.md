@@ -1,6 +1,6 @@
 ---
 name: weg-zerstrittene-gemeinschaft
-description: "Zerstrittene Gemeinschaft: Fachmodul im Miet- und Wohnungseigentumsrecht: entwickelt Befriedungsplan, Beschlussreihenfolge, Mediation, Klagerisiko; mit Normprüfung, Beweisen, Fristen,..."
+description: "Wenn es um Zerstrittene Gemeinschaft: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zerstrittene Gemeinschaft: Fachmodul im Miet- und Wohnungseigentumsrecht

@@ -1,6 +1,6 @@
 ---
 name: foerderantragssteller-formalia-red-fuehrung
-description: "Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage

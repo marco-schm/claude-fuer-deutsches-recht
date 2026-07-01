@@ -1,6 +1,6 @@
 ---
 name: kommunalaufsicht-einschalten
-description: "Kommunalrecht der Länder: Kommunalaufsicht einschalten. Kommunalaufsicht einschalten im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
+description: "Wenn es um Kommunalaufsicht Einschalten in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalaufsicht Einschalten

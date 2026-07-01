@@ -1,6 +1,6 @@
 ---
 name: haemovigilanz-blutprodukt
-description: "Hämovigilanz und Blutprodukt: moderner Medizinrechts-Skill für Transfusion, Verwechslung, Infektion, Chargenfreigabe, Rückverfolgung und PEI-Meldung: Hämovigilanz und Blutprodukt: moderner Medizinrechts-Skill für Transfusion, Verwechslung, Infektion, Charge..."
+description: "Wenn es um Haemovigilanz Blutprodukt in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hämovigilanz und Blutprodukt: moderner Medizinrechts-Skill für Transfusion, Verwechslung, Infektion, Chargenfreigabe, Rückverfolgung und PEI-Meldung

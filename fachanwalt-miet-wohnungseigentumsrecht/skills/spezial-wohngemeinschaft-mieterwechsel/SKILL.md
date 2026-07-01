@@ -1,6 +1,6 @@
 ---
 name: spezial-wohngemeinschaft-mieterwechsel
-description: "WG und Mieterwechsel: Spezial-Skill im Miet- und Wohnungseigentumsrecht; klärt Vertragsparteien, Zustimmung, Nachmieter, Kaution, Gesamtschuld; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um WG und Mieterwechsel in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WG und Mieterwechsel

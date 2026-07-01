@@ -1,6 +1,6 @@
 ---
 name: cic-can-1251
-description: "CIC can. 1251: Normnavigator fuer Buch IV - Heiligungsdienst/Sakramente (can. 834-1253); amtlichen Canon-Text live pruefen, Tatbestand, Zuständigkeit, Partikularrecht, Katechismusbezug und pastorale Ausgabe sauber trennen."
+description: "Wenn es um CIC can. 1251 - Buch IV - Heiligungsdienst/Sakramente in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # CIC can. 1251 - Buch IV - Heiligungsdienst/Sakramente

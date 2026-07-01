@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-founder-vesting-und-leaver-streit
-description: "Rechtsabteilungs-Fachmodul für Founder Vesting und Leaver-Streit: Good/Bad Leaver wird auf Durchsetzbarkeit, Steuer und Motivationsrisiko geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmer..."
+description: "Wenn es um Rechtsabteilung: Founder Vesting und Leaver-Streit in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Rechtsabteilung: Founder Vesting und Leaver-Streit

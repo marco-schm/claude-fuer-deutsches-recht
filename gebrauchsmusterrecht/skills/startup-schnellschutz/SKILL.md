@@ -1,6 +1,6 @@
 ---
 name: startup-schnellschutz
-description: "Schnellschutzstrategie für Start-ups und KMU: Gebrauchsmuster, Patent, Geheimhaltung, defensive Veröffentlichung, Investorenkommunikation und Budget im Gebrauchsmusterrecht."
+description: "Wenn es um Startup Schnellschutz in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Startup Schnellschutz

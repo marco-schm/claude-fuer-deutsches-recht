@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Einfache/Leichte Sprache Jura: trennt fehlende Tatsachen von fehlenden Belegen (Originalbescheid, Vereinfachte Fassung, Lese-Test), nennt pro Lücke Beweisthema, Beschaffungsweg (Behörden mit Verständlichkeitspflicht), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: inso-p270d-vorbereitung-einer-sanierung-schutzschirm
-description: "§ 270d InsO (Vorbereitung einer Sanierung: Schutzschirm) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung."
+description: "Wenn es um Paragraf 270d InsO (Vorbereitung einer Sanierung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 270d InsO (Vorbereitung einer Sanierung

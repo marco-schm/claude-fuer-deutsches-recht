@@ -1,6 +1,6 @@
 ---
 name: kuendigung-form-vollmacht-zugang
-description: "Kündigungsform/Vollmacht/Zugang: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Schriftform, Vertretung, Originalvollmacht, Briefkasten, Bote, Einschreiben; mit Normprüfun..."
+description: "Wenn es um Kündigungsform/Vollmacht/Zugang: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kündigungsform/Vollmacht/Zugang: Fachmodul im Miet- und Wohnungseigentumsrecht

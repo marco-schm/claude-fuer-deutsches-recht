@@ -1,6 +1,6 @@
 ---
 name: sacheinlagebericht-werthaltigkeit-begleitet
-description: "Sacheinlagebericht für Sachkapitalerhohung durch Wandeldarlehen erstellen und Werthaltigkeit prufen. § 56 GmbHG Sacheinlage §§ 19 8 GmbHG Einlageverpflichtung. Prüfraster: Sacheinlagegegenstand Bewertung Werthaltigkeit Bericht Unterschrift. Output: Sacheinlagebericht Bewertungsgrundlage. Abgrenzu..."
+description: "Wenn es um Sacheinlagebericht und Werthaltigkeit der Forderung in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sacheinlagebericht und Werthaltigkeit der Forderung

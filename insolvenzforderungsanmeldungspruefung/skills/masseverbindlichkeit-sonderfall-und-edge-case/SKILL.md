@@ -1,6 +1,6 @@
 ---
 name: masseverbindlichkeit-sonderfall-und-edge-case
-description: "Masseverbindlichkeit: Sonderfall und Edge-Case-Prüfung im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldun..."
+description: "Wenn es um Masseverbindlichkeit: Sonderfall und Edge-Case-Prüfung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Masseverbindlichkeit: Sonderfall und Edge-Case-Prüfung

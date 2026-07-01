@@ -1,6 +1,6 @@
 ---
 name: kammeranhoerung-fristverlaengerung-verteidigung
-description: "Kammeranhörung Fristverlängerung (Verteidigungs- und Kammerantwort): steuert erste Kammeranhörung, Fristverlängerung, Akteneinsicht, Schweige-/Mitwirkungslinie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie..."
+description: "Wenn es um Kammeranhörung Fristverlängerung: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kammeranhörung Fristverlängerung: Verteidigungs- und Kammerantwort

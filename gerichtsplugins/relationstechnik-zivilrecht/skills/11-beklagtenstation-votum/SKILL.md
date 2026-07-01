@@ -1,6 +1,6 @@
 ---
 name: 11-beklagtenstation-votum
-description: "Schriftliches Votum der Beklagtenstation: erhebliche Einwendungen und Einreden, unerhebliche Verteidigungsmittel, Beweisbeduerftigkeit erheblicher streitiger Tatsachen"
+description: "Wenn es um 11 Beklagtenstation Votum in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 11 Beklagtenstation Votum

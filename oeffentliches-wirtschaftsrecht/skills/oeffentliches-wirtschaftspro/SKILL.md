@@ -1,6 +1,6 @@
 ---
 name: oeffentliches-wirtschaftspro
-description: "Kaltstart für öffentliche Wirtschaftsprojekte: ÖPP, Konzession, Inhouse, Beihilfe, Vergabe, kommunale Unternehmen, Haushaltsrecht und Risikoallokation in eine Entscheidungsvorlage bringen."
+description: "Wenn es um Kaltstart Öffentliches Wirtschaftsprojekt in Öffentliches Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Kaltstart Öffentliches Wirtschaftsprojekt

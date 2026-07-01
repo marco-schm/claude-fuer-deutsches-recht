@@ -1,6 +1,6 @@
 ---
 name: red-team-obliegenheiten
-description: "Red-Team der Wohlverhaltensphase: Umzug, Job, Erbschaft, Sonderzahlung, neue Schulden und Informationspflicht.; Normanker: InsO §§ 295 und 296 und 297a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung."
+description: "Wenn es um Red Team Obliegenheiten in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Red-Team der Wohlverhaltensphase: Umzug, Job, Erbschaft, Sonderzahlung, neue Schulden und Informationspflicht.

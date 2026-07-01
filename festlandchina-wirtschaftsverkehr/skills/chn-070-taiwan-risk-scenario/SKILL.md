@@ -1,6 +1,6 @@
 ---
 name: chn-070-taiwan-risk-scenario
-description: "Festlandchina Wirtschaftsverkehr: Taiwan Risk Scenario. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Taiwan Risk Scenario in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Taiwan Risk Scenario

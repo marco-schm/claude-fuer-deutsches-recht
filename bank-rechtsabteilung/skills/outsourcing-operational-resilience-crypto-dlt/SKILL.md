@@ -1,6 +1,6 @@
 ---
 name: outsourcing-operational-resilience-crypto-dlt
-description: "Operational Resilience und Konzentrationsrisiken bei Bankdienstleistern prüfen: kritische Funktionen, Auslagerungscluster, Cloud-Konzentration, DORA, Exit, Stresstest und Vorstandsvorlage im Bank-Rechtsabteilung."
+description: "Wenn es um Operational Resilience Konzentration in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Operational Resilience Konzentration

@@ -1,6 +1,6 @@
 ---
 name: rangruecktritt-sanierungsbausteine
-description: "Rangruecktritt: Formular, Portal und Einreichungslogik im Fortbestehensprognose."
+description: "Wenn es um Rangrücktritt: Formular, Portal und Einreichungslogik in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rangrücktritt: Formular, Portal und Einreichungslogik

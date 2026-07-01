@@ -1,6 +1,6 @@
 ---
 name: spezial-einstweilige-mandantenkommunikation-entscheidungsvorlage
-description: "Einstweilige: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Einstweilige: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstweilige: Mandantenkommunikation und Entscheidungsvorlage

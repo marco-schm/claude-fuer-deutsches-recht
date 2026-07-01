@@ -1,6 +1,6 @@
 ---
 name: fraktionen-dokumentenmatrix-lueckenliste
-description: "Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstu..."
+description: "Wenn es um Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung

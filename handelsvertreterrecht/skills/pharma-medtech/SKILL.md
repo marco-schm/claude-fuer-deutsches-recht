@@ -1,6 +1,6 @@
 ---
 name: pharma-medtech
-description: "Analysiert Besonderheiten des Handelsvertreterrechts in der Pharma- und Medtech-Branche: Regulatorische Anforderungen (AMG, MPG), Compliance-Pflichten bei Ärztebesuchen, Provisionsabrechnungen bei regulierten Produkten, Ausgleichsansprüche im regulierten Markt und besondere Qualifikationsanforder..."
+description: "Wenn es um Handelsvertreterrecht in Pharma und Medtech — Regulierung und Paragrafen 84 ff. HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Handelsvertreterrecht in Pharma und Medtech — Regulierung und §§ 84 ff. HGB

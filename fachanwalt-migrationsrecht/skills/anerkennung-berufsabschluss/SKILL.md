@@ -1,6 +1,6 @@
 ---
 name: anerkennung-berufsabschluss
-description: "Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht: prüft Gleichwertigkeit, Defizitbescheid, Anpassungsqualifizierung und Berufszugang; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und..."
+description: "Wenn es um Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht

@@ -1,6 +1,6 @@
 ---
 name: spezial-polizei-filmen-von-einsaetzen-kug-201-stgb
-description: "Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen; trennt Anfertigung, Veröffentlichung, KUG/KunstUrhG, § 201 StGB, § 201a StGB, Versammlungsfreiheit, Pressefreiheit, Beweissicherung, Identitätsfeststellung, Beschlagnahme und verwaltungsgerichtliche Abwehr."
+description: "Wenn es um Polizeieinsätze Filmen Und Beweissichernd Dokumentieren in Fachanwalt Verwaltungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Polizeieinsätze Filmen Und Beweissichernd Dokumentieren

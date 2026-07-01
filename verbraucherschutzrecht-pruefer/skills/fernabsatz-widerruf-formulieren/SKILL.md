@@ -1,6 +1,6 @@
 ---
 name: fernabsatz-widerruf-formulieren
-description: "Prüfer: Fernabsatz: Widerruf formulieren im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Fernabsatz Widerruf Formulieren in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fernabsatz Widerruf Formulieren

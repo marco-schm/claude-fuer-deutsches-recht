@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Zwangsverwaltung ZVG: ordnet Rolle (Gläubiger, Schuldner Eigentümer, Zwangsverwalter), markiert Frist (Beschwerde gegen Anordnung), wählt Norm (ZVG §§ 146 ff., BGB §§ 1135 ff. Pflichten) und Zuständigkeit (Amtsgericht Vollstreckungsgericht), leitet zum passenden S..."
+description: "Wenn es um Einstieg und Routing in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

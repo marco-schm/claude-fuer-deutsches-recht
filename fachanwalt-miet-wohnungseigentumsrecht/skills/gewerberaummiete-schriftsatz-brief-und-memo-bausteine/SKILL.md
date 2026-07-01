@@ -1,6 +1,6 @@
 ---
 name: gewerberaummiete-schriftsatz-brief-und-memo-bausteine
-description: "Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbei..."
+description: "Wenn es um Gewerberaummiete Schriftsatz Brief Und Memo Bausteine in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

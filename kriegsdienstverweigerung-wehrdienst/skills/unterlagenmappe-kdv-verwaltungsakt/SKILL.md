@@ -1,6 +1,6 @@
 ---
 name: unterlagenmappe-kdv-verwaltungsakt
-description: "Strukturiert Antrag, Lebenslauf, Begründung, Belege, Nachweise und Bescheide im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Unterlagenmappe KDV in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Unterlagenmappe KDV

@@ -1,6 +1,6 @@
 ---
 name: spezial-persoenlichkeitsrecht-medienverfuegung-und-abmahnung
-description: "Persönlichkeitsrecht, Medienverfügung und Abmahnung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output."
+description: "Wenn es um Persönlichkeitsrecht, Medienverfügung und Abmahnung in Fachanwalt Urheber Medienrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Persönlichkeitsrecht, Medienverfügung und Abmahnung

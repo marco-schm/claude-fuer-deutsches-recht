@@ -1,6 +1,6 @@
 ---
 name: hv-red-team-generalprobe
-description: "Hauptversammlung AG und SE: HV Red Team Generalprobe. Liefert Norm-Pinpoints, Prüfachsen, Red Flags, Varianten und konkrete Output-Bausteine zum Slug-Thema im Aktienrecht — Hauptversammlung AG und SE."
+description: "Wenn es um HV Red Team Generalprobe in Hauptversammlung AG und SE geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # HV Red Team Generalprobe

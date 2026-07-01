@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fluggastrechte VO 261/2004: trennt fehlende Tatsachen von fehlenden Belegen (Buchungsbestätigung, Boardingpass, Verspätungsbestätigung), nennt pro Lücke Beweisthema, Beschaffungsweg (LBA), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: diligence-greenwashing-beweislast-klimaklagen
-description: "Diligence: Compliance-Dokumentation und Aktenvermerk im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Diligence: Compliance-Dokumentation und Aktenvermerk in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Diligence: Compliance-Dokumentation und Aktenvermerk

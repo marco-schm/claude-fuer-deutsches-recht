@@ -1,6 +1,6 @@
 ---
 name: luecke-oder-gesetzesablehnung
-description: "Klärt die methodisch entscheidende Unterscheidung zwischen einer planwidrigen Regelungslücke und einer bewussten Entscheidung des Gesetzgebers, einen Fall nicht zu regeln. Das Skill zeigt, wie diese Unterscheidung getroffen wird, welche Quellen zur Feststellung des Gesetzgeberwillens herangezogen..."
+description: "Wenn es um Lücke oder Gesetzesablehnung: Methodische Unterscheidung in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Lücke oder Gesetzesablehnung: Methodische Unterscheidung

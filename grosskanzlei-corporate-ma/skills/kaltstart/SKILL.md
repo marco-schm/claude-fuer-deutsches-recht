@@ -1,6 +1,6 @@
 ---
 name: kaltstart
-description: "Kanzlei- und Mandantenpraeferenzen für Corporate/M&A erfassen: Anwendungsfall bei erstem Einsatz des Plugins konfiguriert Anwalt oder Kanzlei Deal-Playbooks, Materiality-Schwellen, Reporting-Standards, Abrechnungsmodell und KI-Governance. Paragraf 3a RVG Honorarvereinbarung, BRAO Berufsrecht. Prüfraster..."
+description: "Wenn es um Deal-Kaltstart in Großkanzlei Corporate/M&A geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deal-Kaltstart

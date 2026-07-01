@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-datenqualitaet-data-governance-art
-description: "Anbieter von Hochrisiko-KI fragt: Welche Anforderungen gelten für unsere Trainings- Validierungs- und Testdaten und wie dokumentieren wir unsere Data Governance? Art. 10 KI-VO Datenqualitaet und Data Governance. Prüfraster: Relevanz Repraesentativitaet Vollständigkeit Fehlerfreiheit Bias-Minderun..."
+description: "Wenn es um Datenqualität und Data Governance — Art. 10 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Datenqualität und Data Governance — Art. 10 KI-VO

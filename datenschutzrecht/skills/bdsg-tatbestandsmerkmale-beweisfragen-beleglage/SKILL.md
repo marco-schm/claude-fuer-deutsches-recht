@@ -1,6 +1,6 @@
 ---
 name: bdsg-tatbestandsmerkmale-beweisfragen-beleglage
-description: "Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. W..."
+description: "Wenn es um Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage

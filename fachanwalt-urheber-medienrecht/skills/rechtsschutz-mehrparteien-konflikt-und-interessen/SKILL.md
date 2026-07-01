@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-mehrparteien-konflikt-und-interessen
-description: "Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix: Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix."
+description: "Wenn es um Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix

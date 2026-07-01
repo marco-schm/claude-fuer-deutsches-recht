@@ -1,6 +1,6 @@
 ---
 name: bgb-risikoampel-und-gegenargumente
-description: "BGB: Risikoampel, Gegenargumente und Verteidigungslinien: BGB: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Wenn es um BGB: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Medizinrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BGB: Risikoampel, Gegenargumente und Verteidigungslinien

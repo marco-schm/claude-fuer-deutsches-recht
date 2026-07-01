@@ -1,6 +1,6 @@
 ---
 name: workflow-weg-protokoll-nachbereiten
-description: "WEG-Protokoll nachbereiten: Prüfungslinie für Miet- und WEG-Recht: prüft Beschlusswortlaut, Verkündung, Sammlung, Fristen und Fehler; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skil..."
+description: "Wenn es um WEG-Protokoll nachbereiten: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # WEG-Protokoll nachbereiten: Prüfungslinie für Miet- und WEG-Recht

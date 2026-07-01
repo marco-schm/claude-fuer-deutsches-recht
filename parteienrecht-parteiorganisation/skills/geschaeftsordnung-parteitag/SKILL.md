@@ -1,6 +1,6 @@
 ---
 name: geschaeftsordnung-parteitag
-description: "Entwirft Geschäftsordnung, Redezeiten, Antragsberatung, Änderungsanträge, Abstimmungen und Ordnungsrufe."
+description: "Wenn es um Geschäftsordnung Parteitag in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Geschäftsordnung Parteitag

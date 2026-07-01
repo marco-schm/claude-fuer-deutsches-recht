@@ -1,6 +1,6 @@
 ---
 name: bezuege-behoerden-gericht-und-registerweg
-description: "Bezuege: Behörden-, Gerichts- oder Registerweg: Bezuege: Behörden-, Gerichts- oder Registerweg."
+description: "Wenn es um Bezuege: Behörden-, Gerichts- oder Registerweg in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bezuege: Behörden-, Gerichts- oder Registerweg

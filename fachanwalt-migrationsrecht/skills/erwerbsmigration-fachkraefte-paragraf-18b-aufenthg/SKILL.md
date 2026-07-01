@@ -1,6 +1,6 @@
 ---
 name: erwerbsmigration-fachkraefte-paragraf-18b-aufenthg
-description: "Erwerbsmigration Fachkraefte Paragraf 18b Aufenthg: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Erwerbsmigration Fachkraefte Paragraf 18b Aufenthg in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erwerbsmigration Fachkraefte Paragraf 18b Aufenthg

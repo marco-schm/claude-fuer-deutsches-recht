@@ -1,6 +1,6 @@
 ---
 name: kennzeichnung-eigenmarke-live-shopping
-description: "Influencer-Recht: Werbekennzeichnung bei Eigenmarken – BGH Diana zur Löwen, Abgrenzung, Kennzeichnungspflicht beim Bewerben eigener Produkte im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Kennzeichnung bei Eigenmarke in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Influencer-Recht: Kennzeichnung bei Eigenmarke

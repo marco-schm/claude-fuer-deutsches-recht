@@ -1,6 +1,6 @@
 ---
 name: spezial-vertraege-formular-portal-und-einreichung
-description: "Vertraege: Formular, Portal und Einreichungslogik im Plugin vertragsausfueller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Vertraege: Formular, Portal und Einreichungslogik in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertraege: Formular, Portal und Einreichungslogik

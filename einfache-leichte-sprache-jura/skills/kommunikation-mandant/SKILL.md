@@ -1,6 +1,6 @@
 ---
 name: kommunikation-mandant
-description: "Mandantenkommunikation in Einfacher Sprache: Telefon-Leitfaden, E-Mail-Templates, schriftliche Information ueber das Verfahren. Prüfliste: Verstehen Sie das? Brauchen Sie eine Wiederholung? Notizen für den naechsten Termin."
+description: "Wenn es um ELS-J: Mandantenkommunikation in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ELS-J: Mandantenkommunikation

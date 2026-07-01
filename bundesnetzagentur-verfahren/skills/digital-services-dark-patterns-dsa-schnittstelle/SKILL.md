@@ -1,6 +1,6 @@
 ---
 name: digital-services-dark-patterns-dsa-schnittstelle
-description: "Digital Services / Dark Patterns DSA Schnittstelle: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren."
+description: "Wenn es um Dark Patterns: DSA-, UWG- und DSGVO-Schnittstelle in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Dark Patterns: DSA-, UWG- und DSGVO-Schnittstelle

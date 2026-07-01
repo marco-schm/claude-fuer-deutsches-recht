@@ -1,6 +1,6 @@
 ---
 name: betriebsrente-anpassung-abfindung
-description: "Prüft laufende Betriebsrenten auf Anpassung, Abfindung, Versorgungsausgleich, Zahlstellenmeldung und Nettoeffekt, ohne die arbeitsrechtliche Anspruchsquelle aus dem Blick zu verlieren."
+description: "Wenn es um Betriebsrente Anpassung Abfindung in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Betriebsrente Anpassung Abfindung

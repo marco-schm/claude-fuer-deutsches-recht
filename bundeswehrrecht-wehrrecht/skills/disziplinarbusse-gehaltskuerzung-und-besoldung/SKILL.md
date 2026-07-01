@@ -1,6 +1,6 @@
 ---
 name: disziplinarbusse-gehaltskuerzung-und-besoldung
-description: "Disziplinarbuße, Gehaltskürzung, Besoldungsfolgen: prüft WDO §§ 22–30, Bemessung, Vollstreckung und Rechtsbehelfe. Norm-/Quellenanker: WDO, BBesG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Disziplinarbuße, Gehaltskürzung und Besoldung in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Disziplinarbuße, Gehaltskürzung und Besoldung

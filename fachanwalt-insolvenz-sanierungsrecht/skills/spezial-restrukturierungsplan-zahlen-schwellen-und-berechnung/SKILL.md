@@ -1,6 +1,6 @@
 ---
 name: spezial-restrukturierungsplan-zahlen-schwellen-und-berechnung
-description: "Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung

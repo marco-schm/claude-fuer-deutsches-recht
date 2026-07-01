@@ -1,6 +1,6 @@
 ---
 name: pflegegrad-mds-gutachten-widerspruch
-description: "Pflegegrad-Begutachtung durch den MD und Widerspruch. Skill leitet durch das Begutachtungsverfahren das neue Begutachtungsinstrument (BI) mit 6 Modulen die Punkteskala und typische Streitpunkte. Liefert Antragsvorlage und Widerspruchsbausteine."
+description: "Wenn es um Pflegegrad Mds Gutachten Widerspruch in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflegegrad Mds Gutachten Widerspruch

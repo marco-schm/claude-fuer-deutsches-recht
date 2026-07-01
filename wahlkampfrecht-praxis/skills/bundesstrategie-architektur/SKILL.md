@@ -1,6 +1,6 @@
 ---
 name: bundesstrategie-architektur
-description: "Wahlkampfrecht Praxis: Bundeswahlkampf als rechtlich sauberes Operating Model bauen im Wahlkampfrecht."
+description: "Wenn es um Bundesstrategie Architektur in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bundesstrategie Architektur

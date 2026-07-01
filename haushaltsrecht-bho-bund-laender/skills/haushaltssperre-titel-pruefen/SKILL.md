@@ -1,6 +1,6 @@
 ---
 name: haushaltssperre-titel-pruefen
-description: "Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Haushaltssperre Titel Prüfen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haushaltssperre Titel Prüfen

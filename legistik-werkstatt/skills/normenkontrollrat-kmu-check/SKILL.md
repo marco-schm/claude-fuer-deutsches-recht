@@ -1,6 +1,6 @@
 ---
 name: normenkontrollrat-kmu-check
-description: "Vorlage an Nationalen Normenkontrollrat NKR vorbereiten und KMU-Check durchführen. Anwendungsfall Referentenentwurf muss vor Kabinettsbefassung dem NKR vorgelegt werden. Standard-Kostenmodell SKK Buerokratiekosten. KMU-Aspekt mittelstandsrelevante Vorschriften. One-in-one-out-Regel Entlastungsnac..."
+description: "Wenn es um Normenkontrollrat / KMU-Check in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Normenkontrollrat / KMU-Check

@@ -1,6 +1,6 @@
 ---
 name: gerichtsverfassung
-description: "Gerichtsverfassung im ALR — Patrimonialgerichte und Staedte. Skill behandelt das System der drei Instanzen Patrimonialgerichte (privatadelige Gerichtsbarkeit) Stadtgerichte und das Oberlandesgericht / Obertribunal. Liefert Quellenmatrix."
+description: "Wenn es um Pralr Gerichtsverfassung Patrimonialgerichte in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gerichtsverfassung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Pralr Gerichtsverfassung Patrimonialgerichte

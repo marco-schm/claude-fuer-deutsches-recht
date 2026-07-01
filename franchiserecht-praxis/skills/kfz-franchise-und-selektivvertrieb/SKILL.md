@@ -1,6 +1,6 @@
 ---
 name: kfz-franchise-und-selektivvertrieb
-description: "Kfz-Franchise und Kfz-Selektivvertrieb kartellrechtlich prüfen: quantitative und qualitative Selektivvertriebskriterien, Händlernetz nach Vertikal-GVO EU 2022/720, Agenturprinzip im Kfz-Handel, Ersatzteilmarkt und Werkstattkoppelung im Franchiserecht."
+description: "Wenn es um Franchiserecht: Kfz-Franchise und Selektivvertrieb in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Franchiserecht: Kfz-Franchise und Selektivvertrieb

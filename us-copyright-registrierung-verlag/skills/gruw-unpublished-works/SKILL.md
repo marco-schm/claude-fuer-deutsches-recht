@@ -1,6 +1,6 @@
 ---
 name: gruw-unpublished-works
-description: "Group Registration of Unpublished Works (GRUW): bis zu zehn unveröffentlichte Werke, gleiche Autorenschaft, Online-Antrag, separate Dateien und keine Sammel-PDF-Falle im Us Copyright Registrierung Verlag."
+description: "Wenn es um GRUW - Group Registration of Unpublished Works in US Copyright Act und Registrierung für deutsche Verlage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # GRUW - Group Registration of Unpublished Works

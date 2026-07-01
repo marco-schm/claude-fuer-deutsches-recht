@@ -1,6 +1,6 @@
 ---
 name: editionsvergleich-pdf-digitalisat
-description: "PrALR: Vergleich unterschiedlicher PDFs, Drucke, OCR-Fassungen und Digitalisate ohne vorschnelle Gleichsetzung."
+description: "Wenn es um Editionsvergleich und Digitalisat in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Editionsvergleich Pdf Digitalisat; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Editionsvergleich und Digitalisat

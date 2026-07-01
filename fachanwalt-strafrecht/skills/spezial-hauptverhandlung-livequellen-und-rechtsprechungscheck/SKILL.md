@@ -1,6 +1,6 @@
 ---
 name: spezial-hauptverhandlung-livequellen-und-rechtsprechungscheck
-description: "Hauptverhandlung: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Hauptverhandlung: Livequellen- und Rechtsprechungscheck in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hauptverhandlung: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: flughafen-genehmigung-pruefen
-description: "Flughafenbetriebsgenehmigung ist unklar: LuftVG § 6 Genehmigung Planfeststellungsbeschluss Betriebserlaubnis Nebenbestimmungen oder Auflagen laeuft aus oder wird angefochten. Skill prüft LuftVG §§ 6-10 Auflagen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf im Luftrecht Flughafenrecht."
+description: "Wenn es um Flughafen – Genehmigung prüfen in Luftrecht und Flughafenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Flughafen – Genehmigung prüfen

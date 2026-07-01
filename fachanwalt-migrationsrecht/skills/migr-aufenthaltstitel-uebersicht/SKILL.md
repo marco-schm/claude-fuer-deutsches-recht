@@ -1,6 +1,6 @@
 ---
 name: migr-aufenthaltstitel-uebersicht
-description: "Uebersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis, Daueraufenthalt EU: Uebersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis,..."
+description: "Wenn es um Migr Aufenthaltstitel Uebersicht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Übersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis, Daueraufenthalt EU

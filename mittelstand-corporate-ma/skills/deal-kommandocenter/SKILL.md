@@ -1,6 +1,6 @@
 ---
 name: deal-kommandocenter
-description: "Deal-Kommandocenter: Schnellstart für Corporate/M&A-Mandate. Erkennt aus einem Satz, Datenraum, Term Sheet oder Markup den passenden Deal-und erzeugt Deal-Karte, Ampel, Rollen und nächste Aktion im Mittelstand Corporate Ma."
+description: "Wenn es um Deal-Kommandocenter in Mittelstands-Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deal-Kommandocenter

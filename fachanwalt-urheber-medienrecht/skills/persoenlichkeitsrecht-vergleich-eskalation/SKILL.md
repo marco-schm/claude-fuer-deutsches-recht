@@ -1,6 +1,6 @@
 ---
 name: persoenlichkeitsrecht-vergleich-eskalation
-description: "Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation: Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation."
+description: "Wenn es um Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation in Fachanwalt Urheber Medienrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation

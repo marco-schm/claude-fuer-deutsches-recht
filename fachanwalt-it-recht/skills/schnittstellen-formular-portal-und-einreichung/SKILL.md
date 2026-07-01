@@ -1,6 +1,6 @@
 ---
 name: schnittstellen-formular-portal-und-einreichung
-description: "Schnittstellen: Formular, Portal und Einreichungslogik: Schnittstellen: Formular, Portal und Einreichungslogik."
+description: "Wenn es um Schnittstellen: Formular, Portal und Einreichungslogik in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schnittstellen: Formular, Portal und Einreichungslogik

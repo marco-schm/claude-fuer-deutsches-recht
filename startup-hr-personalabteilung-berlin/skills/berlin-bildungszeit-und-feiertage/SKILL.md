@@ -1,6 +1,6 @@
 ---
 name: berlin-bildungszeit-und-feiertage
-description: "Berliner Start-up-HR: Berlin-spezifische HR-Punkte: Bildungszeit, Feiertage, lokale Behörden, Datenschutzaufsicht und Standortkommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Berlin Bildungszeit Und Feiertage in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Berlin Bildungszeit Und Feiertage

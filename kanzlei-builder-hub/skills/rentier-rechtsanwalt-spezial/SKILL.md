@@ -1,6 +1,6 @@
 ---
 name: rentier-rechtsanwalt-spezial
-description: "Spezialnutzung für Einzelanwaeltinnen mit kleinem Backoffice: Welche Skills sparen am meisten Zeit, welche bringen Sichtbarkeit, welche reduzieren Routine. Top-10-Empfehlungen, Konfigurationsbeispiele, Sicherheits-Hinweise im Kanzlei Builder Hub."
+description: "Wenn es um Einzelanwalt-Spezial in Kanzlei-Builder-Hub geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Einzelanwalt-Spezial

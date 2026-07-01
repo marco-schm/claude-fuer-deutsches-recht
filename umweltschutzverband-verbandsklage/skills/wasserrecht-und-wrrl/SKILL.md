@@ -1,6 +1,6 @@
 ---
 name: wasserrecht-und-wrrl
-description: "Umweltschutzverband Verbandsklage: Wasserrecht und WRRL. Wasserrecht und WRRL im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage."
+description: "Wenn es um Wasserrecht Und Wrrl in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Wasserrecht Und Wrrl

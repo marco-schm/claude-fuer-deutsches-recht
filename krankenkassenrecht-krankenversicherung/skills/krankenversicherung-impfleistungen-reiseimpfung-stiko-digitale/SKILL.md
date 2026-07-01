@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-impfleistungen-reiseimpfung-stiko-digitale
-description: "GKV-Impfleistungen: STIKO-Empfehlungen (§ 20i SGB V), Reiseimpfungen als Satzungsleistung, Off-STIKO-Impfungen und Widerspruch bei Ablehnung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Impfleistungen: Reiseimpfung und STIKO in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Impfleistungen: Reiseimpfung und STIKO

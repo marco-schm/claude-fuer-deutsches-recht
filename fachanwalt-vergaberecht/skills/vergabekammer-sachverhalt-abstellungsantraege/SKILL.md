@@ -1,6 +1,6 @@
 ---
 name: vergabekammer-sachverhalt-abstellungsantraege
-description: "Vergabekammer-Schriftsatz mit Sachverhalt, Rügehistorie und konkretem Abstellungsziel bauen: Zurückversetzung, Neuwertung, Änderung der Vergabeunterlagen, Aufhebung, Wiederholung von Verfahrensschritten, Akteneinsicht, Beiladung, Zuschlagsverbot und Vergleichsoption."
+description: "Wenn es um Vergabekammer: Sachverhalt und Abstellungsanträge in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vergabekammer: Sachverhalt und Abstellungsanträge

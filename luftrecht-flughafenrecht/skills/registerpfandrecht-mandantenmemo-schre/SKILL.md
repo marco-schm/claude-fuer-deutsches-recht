@@ -1,6 +1,6 @@
 ---
 name: registerpfandrecht-mandantenmemo-schre
-description: "Anwalt schreibt Mandantenmemo für Pfandglaeubiger zu komplexem Pfandrechts-Fall: Rang-Konflikt Insolvenz Cape-Town-Default-Remedies oder Vollstreckungs-Hindernis. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung im Luftrecht Flughafenrecht."
+description: "Wenn es um Registerpfandrecht – Mandantenmemo schreiben in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Registerpfandrecht – Mandantenmemo schreiben

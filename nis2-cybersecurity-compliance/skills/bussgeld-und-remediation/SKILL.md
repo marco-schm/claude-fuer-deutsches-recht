@@ -1,6 +1,6 @@
 ---
 name: bussgeld-und-remediation
-description: "Prüft Bußgeldrisiken und remediiert priorisiert im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Bussgeld Und Remediation in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bussgeld Und Remediation

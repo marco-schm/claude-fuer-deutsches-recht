@@ -1,6 +1,6 @@
 ---
 name: disclosure-exit-entbranding-franchise
-description: "Fachmodul Franchiserecht für Disclosure-Fail bei Phantom-Umsatzzahlen: Vorvertragliche Aufklärung, Rentabilitätsprognosen und Systemkennzahlen werden auf Datenbasis, Vergleichbarkeit, Warnhinweise und Kausalität geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvor..."
+description: "Wenn es um Franchise: Disclosure-Fail bei Phantom-Umsatzzahlen in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Franchise: Disclosure-Fail bei Phantom-Umsatzzahlen

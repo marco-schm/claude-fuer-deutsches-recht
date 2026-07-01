@@ -1,6 +1,6 @@
 ---
 name: beweiswuerdigung-quellenkarte
-description: "Beweiswuerdigung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Beweiswuerdigung Quellenkarte in Urteilsbauer und Relationsmacher geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweiswuerdigung Quellenkarte

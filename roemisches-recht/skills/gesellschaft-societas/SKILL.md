@@ -1,6 +1,6 @@
 ---
 name: gesellschaft-societas
-description: "Römisches Recht: Gesellschaft Societas. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Gesellschaft Societas in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesellschaft Societas

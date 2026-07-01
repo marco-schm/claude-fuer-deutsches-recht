@@ -1,6 +1,6 @@
 ---
 name: carmer-svarez-klein-redaktion
-description: "PrALR: Carmer, Svarez, Klein, Redaktionsgeschichte und Arbeitsweise ohne Personenkult einordnen."
+description: "Wenn es um Redaktionsgeschichte in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Carmer Svarez Klein Redaktion; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Redaktionsgeschichte

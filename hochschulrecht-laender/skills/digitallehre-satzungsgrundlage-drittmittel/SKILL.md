@@ -1,6 +1,6 @@
 ---
 name: digitallehre-satzungsgrundlage-drittmittel
-description: "Prüft digitale Lehre, Anwesenheit, Aufzeichnung, Satzung und Datenschutz im Hochschulrecht Länder."
+description: "Wenn es um Digitallehre und Satzungsgrundlage in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitallehre und Satzungsgrundlage

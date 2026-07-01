@@ -1,6 +1,6 @@
 ---
 name: inso-p160-besonders-bedeutsame-rechtshandlungen
-description: "§ 160 InsO (Besonders bedeutsame Rechtshandlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 160 InsO (Besonders bedeutsame Rechtshandlungen) im Mandat prüfen: Normzweck, Tatbestand,..."
+description: "Wenn es um Inso P160 Besonders Bedeutsame Rechtshandlungen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 160 InsO (Besonders bedeutsame Rechtshandlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

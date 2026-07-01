@@ -1,6 +1,6 @@
 ---
 name: live-beweislast-darlegungslast
-description: "Live: Beweislast, Darlegungslast und Substantiierung im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
+description: "Wenn es um Live: Beweislast, Darlegungslast und Substantiierung in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Live Beweislast Darlegungslast; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Live: Beweislast, Darlegungslast und Substantiierung

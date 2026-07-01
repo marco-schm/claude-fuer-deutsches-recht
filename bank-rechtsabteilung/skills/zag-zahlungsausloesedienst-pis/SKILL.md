@@ -1,6 +1,6 @@
 ---
 name: zag-zahlungsausloesedienst-pis
-description: "Zahlungsauslösedienst nach ZAG und PSD2 prüfen: Erlaubnis, starke Kundenauthentifizierung, Haftungskette, Interface, technische Dienstleister und Händlerkommunikation im Bank-Rechtsabteilung."
+description: "Wenn es um Zahlungsauslösedienst (PIS) nach ZAG und PSD2 in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Zahlungsauslösedienst (PIS) nach ZAG und PSD2

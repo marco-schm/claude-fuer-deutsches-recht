@@ -1,6 +1,6 @@
 ---
 name: klausel-exklusivitaet-sole-non-exclusive
-description: "Exklusivitaetsklauseln: ausschliessliche Lizenz (mit / ohne Selbstnutzung Lizenzgeber), Sole License, einfache Lizenz, Most-Favoured-Customer-Klauseln; kartellrechtliche Schranken TT-GVO."
+description: "Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Klausel Exklusivitaet — sole, exclusive, non-exclusive

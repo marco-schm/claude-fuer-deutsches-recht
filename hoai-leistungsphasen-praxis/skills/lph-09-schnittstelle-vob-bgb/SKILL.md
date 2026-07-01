@@ -1,6 +1,6 @@
 ---
 name: lph-09-schnittstelle-vob-bgb
-description: "HOAI LPH 9 Objektbetreuung: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 9 Objektbetreuung: Prüft vob/b in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 9 Objektbetreuung: Prüft vob/b

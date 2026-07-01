@@ -1,6 +1,6 @@
 ---
 name: justinian-novellen-basiliken-prochiron
-description: "Römisches Recht: Justinianische Novellen, griechische Rechtssprache, kaiserliche Gesetzgebung und Übergang in byzantinische Rechtskultur im Römisches Recht."
+description: "Wenn es um Justinianische Novellen und griechische Rechtskultur in Römisches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Justinianische Novellen und griechische Rechtskultur

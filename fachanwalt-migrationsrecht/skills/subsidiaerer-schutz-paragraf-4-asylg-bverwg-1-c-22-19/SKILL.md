@@ -1,6 +1,6 @@
 ---
 name: subsidiaerer-schutz-paragraf-4-asylg-bverwg-1-c-22-19
-description: "Subsidiaerer Schutz Paragraf 4 Asylg BVerwG 1 C 22 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Subsidiaerer Schutz Paragraf 4 Asylg BVerwG 1 C 22 19 in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Subsidiaerer Schutz Paragraf 4 Asylg BVerwG 1 C 22 19

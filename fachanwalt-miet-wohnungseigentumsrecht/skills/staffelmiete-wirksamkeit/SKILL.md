@@ -1,6 +1,6 @@
 ---
 name: staffelmiete-wirksamkeit
-description: "Staffelmiete Wirksamkeit: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Beträge, Zeiträume, Kündigungsverzicht, Mietpreisbremse und Transparenz; mit Normprüfung, Beweisen, Frist..."
+description: "Wenn es um Staffelmiete Wirksamkeit: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Staffelmiete Wirksamkeit: Fachmodul im Miet- und Wohnungseigentumsrecht

@@ -1,6 +1,6 @@
 ---
 name: prozessrecht-verhandlung-vergleich-und-eskalation
-description: "Prozessrecht: Verhandlung, Vergleich und Eskalation im Prozessrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Prozessrecht: Verhandlung, Vergleich und Eskalation in Prozessrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Prozessrecht: Verhandlung, Vergleich und Eskalation

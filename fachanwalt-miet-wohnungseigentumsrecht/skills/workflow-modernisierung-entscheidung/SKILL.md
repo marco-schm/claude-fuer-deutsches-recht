@@ -1,6 +1,6 @@
 ---
 name: workflow-modernisierung-entscheidung
-description: "Modernisierung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht: klärt Duldung, Härte, Ankündigung, Kosten und spätere Umlage; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills..."
+description: "Wenn es um Modernisierung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Modernisierung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht

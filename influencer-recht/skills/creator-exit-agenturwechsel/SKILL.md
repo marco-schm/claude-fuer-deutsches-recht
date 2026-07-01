@@ -1,6 +1,6 @@
 ---
 name: creator-exit-agenturwechsel
-description: "Influencer-Recht: Creator-Exit und Agenturwechsel – Vertragskündigung, Nachvertragliches Wettbewerbsverbot, Nutzungsrechte und Übergangsprobleme im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Creator-Exit und Agenturwechsel in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Influencer-Recht: Creator-Exit und Agenturwechsel

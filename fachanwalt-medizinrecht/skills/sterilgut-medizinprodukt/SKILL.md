@@ -1,6 +1,6 @@
 ---
 name: sterilgut-medizinprodukt
-description: "Sterilgut und Medizinprodukt: moderner Medizinrechts-Skill für Aufbereitungsfehler, Sterilgutdokumentation, Herstellerangaben und Vorkommnismeldung: Sterilgut und Medizinprodukt: moderner Medizinrechts-Skill für Aufbereitungsfehler, Sterilgutdokumentation,..."
+description: "Wenn es um Sterilgut Medizinprodukt in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sterilgut und Medizinprodukt: moderner Medizinrechts-Skill für Aufbereitungsfehler, Sterilgutdokumentation, Herstellerangaben und Vorkommnismeldung

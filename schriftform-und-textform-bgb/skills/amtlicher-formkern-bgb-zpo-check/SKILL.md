@@ -1,6 +1,6 @@
 ---
 name: amtlicher-formkern-bgb-zpo-check
-description: "Amtlicher Formkern-Check für BGB und ZPO: trennt Schriftform, Textform, elektronische Form, qES, beA/EGVP, Paragraf 130e ZPO, Zustellung, Zugang und Beweiskraft elektronischer Dokumente im Schriftform Und Textform Bgb."
+description: "Wenn es um Amtlicher Formkern BGB/ZPO in Schriftform und Textform im BGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Amtlicher Formkern BGB/ZPO

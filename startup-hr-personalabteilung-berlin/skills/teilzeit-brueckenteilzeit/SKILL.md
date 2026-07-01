@@ -1,6 +1,6 @@
 ---
 name: teilzeit-brueckenteilzeit
-description: "Berliner Start-up-HR: Teilzeit und Brückenteilzeit: Anspruch, Antrag, betriebliche Gründe, Rückkehr, Dokumentation und Teamplanung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Teilzeit Brueckenteilzeit in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Teilzeit Brueckenteilzeit

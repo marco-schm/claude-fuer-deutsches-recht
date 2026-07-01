@@ -1,6 +1,6 @@
 ---
 name: getreidehandel-cura-annonae
-description: "Cura annonae: roemische Verwaltung des Getreidehandels und der Versorgung der Hauptstadt. Skill behandelt die Praefectus annonae die staatlich gefoerderten Reedereien (navicularii) und die Privilegien für Getreidetransporte. Liefert Quellenmatrix."
+description: "Wenn es um Rom 129 Getreidehandel Cura Annonae in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 129 Getreidehandel Cura Annonae

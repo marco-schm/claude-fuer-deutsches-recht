@@ -1,6 +1,6 @@
 ---
 name: aufenthaltstitel-fristennotiz-und-naechster-schritt
-description: "Aufenthaltstitel: Fristennotiz und nächster Schritt: Aufenthaltstitel: Fristennotiz und nächster Schritt."
+description: "Wenn es um Aufenthaltstitel: Fristennotiz und nächster Schritt in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufenthaltstitel: Fristennotiz und nächster Schritt

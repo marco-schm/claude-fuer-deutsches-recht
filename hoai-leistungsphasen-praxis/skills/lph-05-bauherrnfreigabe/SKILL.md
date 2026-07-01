@@ -1,6 +1,6 @@
 ---
 name: lph-05-bauherrnfreigabe
-description: "HOAI LPH 5 Ausführungsplanung: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungspha..."
+description: "Wenn es um LPH 5 Ausführungsplanung: Strukturiert freigabeentscheidung in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 5 Ausführungsplanung: Strukturiert freigabeentscheidung

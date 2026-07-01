@@ -1,6 +1,6 @@
 ---
 name: faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel
-description: "Fachanwalt Gewerblicher Rechtsschutz: EV-Vollziehungscheck Dringlichkeit Titel Zustellung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Fachanwalt Gewerblicher Rechtsschutz: EV-Vollziehungscheck Dringlichkeit Titel Zustellung in Fachanwalt Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Gewerblicher Rechtsschutz: EV-Vollziehungscheck Dringlichkeit Titel Zustellung

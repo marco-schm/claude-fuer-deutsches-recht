@@ -1,6 +1,6 @@
 ---
 name: honorarstreit-schlichtung
-description: "Steuerberater: honorarstreit und schlichtung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Honorarstreit Schlichtung in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Steuerberater: honorarstreit und schlichtung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

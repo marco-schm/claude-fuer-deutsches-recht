@@ -1,6 +1,6 @@
 ---
 name: notariat-034-rangruecktritt-rangvorbehalt-loeschung
-description: "Notariat im Alltag: Rangrücktritt Rangvorbehalt Löschung und Pfandfreigabe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Notariat im Alltag: Rangrücktritt Rangvorbehalt Löschung und Pfandfreigabe in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Rangrücktritt Rangvorbehalt Löschung und Pfandfreigabe

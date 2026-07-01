@@ -1,6 +1,6 @@
 ---
 name: unfallanalyse-chain-of-custody
-description: "Sichert Beweise nach Robotikunfall: Gerät, Logexport, Video, Firmware, Konfiguration, Zeugen, Wartung und Chain of Custody."
+description: "Wenn es um Unfallanalyse Chain of Custody in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unfallanalyse Chain of Custody

@@ -1,6 +1,6 @@
 ---
 name: executive-summary-fuer-geschaeftsfuehrung
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Executive Summary Fuer Geschäftsführung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Executive Summary Für Geschäftsführung in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Executive Summary Für Geschäftsführung

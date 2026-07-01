@@ -1,6 +1,6 @@
 ---
 name: frequenzadverbien-katalog
-description: "Katalog der Frequenzadverbien der deutschen Zeugnissprache mit ihrer Notenwirkung. Frequenzadverbien (oft, meist, häufig, gelegentlich, bisweilen) drücken Häufigkeit aus, keine Qualität — sie sind keine echten Steigerer. Wer 'oft' statt 'stets' schreibt, signalisiert Note 3 bis 4, nicht Note 2. Enthält klare Abgrenzung zu echten Steigerungsadverbien."
+description: "Wenn es um Frequenzadverbien-Katalog in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frequenzadverbien-Katalog

@@ -1,6 +1,6 @@
 ---
 name: seminar-und-vortrag-rechtsgeschichte
-description: "Deutsche Rechtsgeschichte: Seminarvorbereitung und Vortrag. Strukturierung eines rechtshistorischen Referats oder Seminarvortrags zu Sachsenspiegel, BGB-Entstehung, Weimar oder NS-Recht mit quellengestuetzten Thesen im Deutsche Rechtsgeschichte."
+description: "Wenn es um Seminar und Vortrag Rechtsgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Seminar und Vortrag Rechtsgeschichte

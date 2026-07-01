@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmererfinder-und-verschwiegenheit-rechtsprechungscheck
-description: "Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Arbeitnehmererfinder Und Verschwiegenheit Rechtsprechungscheck in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

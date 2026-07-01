@@ -1,6 +1,6 @@
 ---
 name: spezial-gesellschafterstreit-compliance-dokumentation-und-akte
-description: "Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt handels gesellschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk

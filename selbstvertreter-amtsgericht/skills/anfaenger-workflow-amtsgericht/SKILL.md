@@ -1,6 +1,6 @@
 ---
 name: anfaenger-workflow-amtsgericht
-description: "Skill: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Wenn es um Anfänger-Amtsgericht in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anfänger-Amtsgericht

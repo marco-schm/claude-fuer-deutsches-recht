@@ -1,6 +1,6 @@
 ---
 name: workflow-anschluss-skills-router
-description: "Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Rechtsberatungsstelle."
+description: "Wenn es um Anschluss-Skills Router in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anschluss-Skills Router

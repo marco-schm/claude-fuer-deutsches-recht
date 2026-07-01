@@ -1,6 +1,6 @@
 ---
 name: pitch-debrief
-description: "Analysiert gewonnene und verlorene Pitches ohne Selbstbetrug. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Pitch Debrief in Kanzlei Management geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Pitch Debrief

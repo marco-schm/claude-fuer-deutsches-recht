@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-konflikt-mit-staedtebauvertrag
-description: "Prueft Konflikte zwischen Bebauungsplan-Festsetzungen und städtebaulichem Vertrag: Normbindung, Vertragsbindung, Durchfuehrung, Abwaegung und Rechtsschutz."
+description: "Wenn es um Konflikt zwischen Festsetzung und städtebaulichem Vertrag in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Konflikt zwischen Festsetzung und städtebaulichem Vertrag

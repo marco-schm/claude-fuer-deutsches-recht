@@ -1,6 +1,6 @@
 ---
 name: inso-p235-erorterungs-und-abstimmungstermin
-description: "§ 235 InsO (Erörterungs- und Abstimmungstermin) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 235 InsO (Erörterungs- und Abstimmungstermin) im Mandat prüfen: Normzweck, Tatbestand, Beleg..."
+description: "Wenn es um Inso P235 Erorterungs Und Abstimmungstermin in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 235 InsO (Erörterungs- und Abstimmungstermin) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

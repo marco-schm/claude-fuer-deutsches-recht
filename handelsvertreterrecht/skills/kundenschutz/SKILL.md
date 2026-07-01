@@ -1,6 +1,6 @@
 ---
 name: kundenschutz
-description: "Prüft Kundenschutzklauseln im Handelsvertretervertrag: Verbot der Direktansprache von Kunden durch den Handelsvertreter während und nach der Vertragslaufzeit, Abgrenzung von erlaubter Allgemeinwerbung und verbotenem gezieltem Abwerben sowie Schadensersatz und Unterlassung bei Verletzung im Handel..."
+description: "Wenn es um Kundenschutz im Handelsvertretervertrag — Abwerbeverbote und Rechtsfolgen in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kundenschutz im Handelsvertretervertrag — Abwerbeverbote und Rechtsfolgen

@@ -1,6 +1,6 @@
 ---
 name: export-forecast-fortbestehensprognose
-description: "Export Forecast Fortbestehensprognose im Plugin Liquiditaetsplanung: prüft konkret Export, Forecast, Fortbestehensprognose."
+description: "Wenn es um Export Forecast Fortbestehensprognose in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Export Forecast Fortbestehensprognose

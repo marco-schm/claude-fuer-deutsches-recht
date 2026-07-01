@@ -1,6 +1,6 @@
 ---
 name: kommunalbeamte-und-wahlbeamte
-description: "Kommunalbeamte und Wahlbeamte: Amtszeit, Abwahl, Bürgermeister, Beigeordnete, Nebentätigkeiten und Versorgung im Beamtenrecht."
+description: "Wenn es um Kommunalbeamte Und Wahlbeamte in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalbeamte Und Wahlbeamte

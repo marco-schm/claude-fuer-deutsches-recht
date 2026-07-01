@@ -1,6 +1,6 @@
 ---
 name: muster-eilantrag
-description: "Erstellt ein Grundgerüst für verwaltungsgerichtlichen Eilrechtsschutz im Versammlungsrecht im Versammlungsrecht."
+description: "Wenn es um Gerichtsfähig unter Zeitdruck in Versammlungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gerichtsfähig unter Zeitdruck

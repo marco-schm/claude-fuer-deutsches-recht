@@ -1,6 +1,6 @@
 ---
 name: rangprinzip-und-rangvorbehalt
-description: "Ordnet Rangfolge, Rangrücktritt, Gleichrang, Rangvorbehalt und Prioritätsrisiken im Grundbuchamt Praxis."
+description: "Wenn es um Rang und Rangvorbehalt in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rang und Rangvorbehalt

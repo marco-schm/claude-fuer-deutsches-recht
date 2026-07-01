@@ -1,6 +1,6 @@
 ---
 name: tastatur-fokus-ueberwachungsstelle
-description: "Prüft Tastaturbedienbarkeit, Fokusreihenfolge, sichtbaren Fokus, Skiplinks, Menüs, Modale, Cookie-Banner, Slider, Accordions und Tastaturfallen. Output: Tastaturprotokoll und Fix-Tickets im Barrierefreiheit Web Checker."
+description: "Wenn es um Tastatur, Fokus, Navigation in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Tastatur, Fokus, Navigation

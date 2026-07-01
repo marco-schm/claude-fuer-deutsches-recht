@@ -1,6 +1,6 @@
 ---
 name: db-057-datenbankrecht-musik-film-bildarchiv
-description: "Datenbankrecht: Datenbankrecht Musik Film Bildarchiv mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Datenbankrecht Musik Film Bildarchiv in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Datenbankrecht Musik Film Bildarchiv

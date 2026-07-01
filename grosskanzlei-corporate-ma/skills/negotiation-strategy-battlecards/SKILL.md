@@ -1,6 +1,6 @@
 ---
 name: negotiation-strategy-battlecards
-description: "Verhandlungsstrategie und Battlecards für SPA, APA, Term Sheet, W&I, CPs und Disclosure: erstellt Position, Fallbacks, rote Linien, Gegenargumente und Formulierungsvorschlaege: Verhandlungsstrategie und Battlecards für SPA, APA, Term Sheet, W&I, CPs und Di..."
+description: "Wenn es um Negotiation Strategy Battlecards in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verhandlungsstrategie und Battlecards für SPA, APA, Term Sheet, W&I, CPs und Disclosure: erstellt Position, Fallbacks, rote Linien, Gegenargumente und Formulierungsvorschlaege.

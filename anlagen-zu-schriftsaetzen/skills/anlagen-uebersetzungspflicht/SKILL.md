@@ -1,6 +1,6 @@
 ---
 name: anlagen-uebersetzungspflicht
-description: "Fremdsprachige Anlagen: Übersetzungspflicht § 184 GVG. Beglaubigte oder einfache Übersetzung? Gericht kann Übersetzung verlangen oder Ablehnung der Beruecksichtigung androhen. Empfehlung: bei zentralen Urkunden beglaubigte Übersetzung; bei E-Mails einfache Arbeitsuebersetzung mit Hinweis."
+description: "Wenn es um Fremdsprachige Anlagen in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fremdsprachige Anlagen

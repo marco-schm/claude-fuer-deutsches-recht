@@ -1,6 +1,6 @@
 ---
 name: schiffshypothek-risiko-memo-schreiben
-description: "Schiffshypothek: Gesamtrisikobewertung für Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bei hypothekenbelastetes Seeschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Ou..."
+description: "Wenn es um Schiffshypothek – Risiko-Memo schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schiffshypothek – Risiko-Memo schreiben

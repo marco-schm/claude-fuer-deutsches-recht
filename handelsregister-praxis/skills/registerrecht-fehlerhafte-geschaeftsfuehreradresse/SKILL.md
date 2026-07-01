@@ -1,6 +1,6 @@
 ---
 name: registerrecht-fehlerhafte-geschaeftsfuehreradresse
-description: "Prüft Anschriften, Geburtsdaten, Schutzinteressen, Schwärzungsmöglichkeiten und Auszugstypen im Handelsregister Praxis."
+description: "Wenn es um Private Daten im Register in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Private Daten im Register

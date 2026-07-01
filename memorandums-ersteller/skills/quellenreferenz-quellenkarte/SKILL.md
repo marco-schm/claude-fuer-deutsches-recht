@@ -1,6 +1,6 @@
 ---
 name: quellenreferenz-quellenkarte
-description: "Quellenreferenz Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Quellenreferenz Quellenkarte in Memorandums-Ersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Quellenreferenz Quellenkarte

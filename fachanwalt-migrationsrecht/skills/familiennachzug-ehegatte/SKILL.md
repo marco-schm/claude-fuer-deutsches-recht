@@ -1,6 +1,6 @@
 ---
 name: familiennachzug-ehegatte
-description: "Ehegattennachzug: Fachmodul im Migrationsrecht: prüft Ehe, A1, Lebensunterhalt, Wohnraum, Härtefall und Urkunden; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Ehegattennachzug: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ehegattennachzug: Fachmodul im Migrationsrecht

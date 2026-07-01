@@ -1,6 +1,6 @@
 ---
 name: verwaltungsakt-oder-realakt-schule
-description: "Ordnet schulische Schreiben rechtlich ein im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Verwaltungsakt Oder Realakt Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verwaltungsakt Oder Realakt Schule

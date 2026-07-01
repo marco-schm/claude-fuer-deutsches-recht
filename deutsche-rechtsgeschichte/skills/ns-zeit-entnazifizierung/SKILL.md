@@ -1,6 +1,6 @@
 ---
 name: ns-zeit-entnazifizierung
-description: "Deutsche Rechtsgeschichte: NS-Zeit Unrecht Gesetzgebung und Justiz im Deutsche Rechtsgeschichte."
+description: "Wenn es um Deutsche Rechtsgeschichte: 013 Ns Zeit Unrecht Gesetzgebung Und Justiz in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: 013 Ns Zeit Unrecht Gesetzgebung Und Justiz

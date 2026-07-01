@@ -1,6 +1,6 @@
 ---
 name: berater-kanzlei-bank
-description: "Prüft insiderrechtliche Pflichten externer Berater (Anwaelte, WPs, Banken): Insiderliste, Handelsverbot, Chinesische Mauern und Haftungsrisiken im Insiderrecht Compliance."
+description: "Wenn es um Externe Berater – Kanzleien, Wirtschaftsprüfer, Banken in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Externe Berater – Kanzleien, Wirtschaftsprüfer, Banken

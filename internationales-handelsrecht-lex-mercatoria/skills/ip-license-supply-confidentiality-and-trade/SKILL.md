@@ -1,6 +1,6 @@
 ---
 name: ip-license-supply-confidentiality-and-trade
-description: "Internationales Handelsrecht: IP-Lizenzen in der Lieferkette. Patentzwangslizenz, Markenlizenz, Know-how-Lizenz, Reichweite von Sublizenzrechten, Exhaustion-Doktrin (EUIPO) und IP-Klauseln in Supply-Chain-Verträgen im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um IP-Lizenzen in der Lieferkette in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IP-Lizenzen in der Lieferkette

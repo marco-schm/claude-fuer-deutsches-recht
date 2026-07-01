@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-thueringen
-description: "Prüft Hochschulprüfungsrecht in Thüringen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht."
+description: "Wenn es um Pruefungsrecht Thueringen in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pruefungsrecht Thueringen

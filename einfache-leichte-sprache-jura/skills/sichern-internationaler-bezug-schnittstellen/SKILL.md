@@ -1,6 +1,6 @@
 ---
 name: sichern-internationaler-bezug-schnittstellen
-description: "Sichern: Internationaler Bezug und Schnittstellen im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe i..."
+description: "Wenn es um Sichern: Internationaler Bezug und Schnittstellen in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sichern Internationaler Bezug Schnittstellen; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
 ---
 
 # Sichern: Internationaler Bezug und Schnittstellen

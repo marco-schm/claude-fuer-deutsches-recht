@@ -1,6 +1,6 @@
 ---
 name: preussisches-ovg-kreuzberg-polizeirecht
-description: "Preussisches OVG, Kreuzberg-Erkenntnis vom 14.06.1882, Rep. II B. 23/82, PrOVGE 9/353: dogmengeschichtlicher Vorlaeufer rechtsstaatlicher Eingriffskontrolle im Polizeirecht, ohne die heutige BVerfG-Verhältnismäßigkeitspruefung zu ersetzen."
+description: "Wenn es um Preussisches OVG: Kreuzberg und Polizeigewalt in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Preussisches OVG: Kreuzberg und Polizeigewalt

@@ -1,6 +1,6 @@
 ---
 name: spezial-ueberhang-dokumentenmatrix-und-lueckenliste
-description: "Ueberhang: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin nachbarschaftsstreit pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Ueberhang: Dokumentenmatrix, Lückenliste und Nachforderung in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ueberhang: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: forderungen-interessen-matrix
-description: "Strukturierte Gegenueberstellung mehrerer Forderungen eines Mandanten gegen einen oder mehrere Schuldner. Erfasst Hauptforderung Nebenforderung Zinsen Kosten Faelligkeit Beleg Verjährung. Pinpoints ZPO 260 Klagenhaeufung ZPO 33 Aufrechnungswiderklage BGB 366 Tilgungsreihenfolge. Liefert priorisie..."
+description: "Wenn es um Forderungen-Interessen-Matrix in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Forderungen-Interessen-Matrix

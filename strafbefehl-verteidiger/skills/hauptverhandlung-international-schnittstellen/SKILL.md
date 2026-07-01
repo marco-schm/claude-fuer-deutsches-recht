@@ -1,6 +1,6 @@
 ---
 name: hauptverhandlung-international-schnittstellen
-description: "Hauptverhandlung: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Hauptverhandlung: Internationaler Bezug und Schnittstellen in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Hauptverhandlung: Internationaler Bezug und Schnittstellen

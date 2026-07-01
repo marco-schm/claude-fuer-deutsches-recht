@@ -1,6 +1,6 @@
 ---
 name: inso-p167-unterrichtung-des-glaubigers
-description: "§ 167 InsO (Unterrichtung des Gläubigers) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 167 InsO (Unterrichtung des Gläubigers) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfol..."
+description: "Wenn es um Inso P167 Unterrichtung Des Glaubigers in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 167 InsO (Unterrichtung des Gläubigers) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: excel-tabellen-und-zahlenbeweis
-description: "Bereitet XLSX/CSV als Anlage auf: Ausdruck, Summenlogik, Formelrisiko, Quelldaten, Rechenweg, PDF-Fassung und Anlagenbezug im Schriftsatz."
+description: "Wenn es um Excel-Tabellen und Zahlenbeweis in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Excel-Tabellen und Zahlenbeweis

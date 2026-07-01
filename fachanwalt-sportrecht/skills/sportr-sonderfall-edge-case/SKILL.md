@@ -1,6 +1,6 @@
 ---
 name: sportr-sonderfall-edge-case
-description: "Sportr: Sonderfall und Edge-Case-Prüfung: Sportr: Sonderfall und Edge-Case-Prüfung."
+description: "Wenn es um Sportr: Sonderfall und Edge-Case-Prüfung in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sportr: Sonderfall und Edge-Case-Prüfung

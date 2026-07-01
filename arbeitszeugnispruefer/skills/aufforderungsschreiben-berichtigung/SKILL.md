@@ -1,6 +1,6 @@
 ---
 name: aufforderungsschreiben-berichtigung
-description: Erstellung eines aussergerichtlichen Aufforderungsschreibens an den Arbeitgeber zur Zeugnisberichtigung nach Paragraf 109 GewO mit den acht Pflichtbausteinen und Stilregeln fuer den anwaltlichen Einsatz.
+description: "Wenn es um Aufforderungsschreiben Berichtigung in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Aufforderungsschreiben Berichtigung

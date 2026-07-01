@@ -1,6 +1,6 @@
 ---
 name: personenrecht-status
-description: "PrALR: Personenrecht, Rechtsfähigkeit, Statusgruppen, Hausverband und gesellschaftliche Zuordnung analysieren."
+description: "Wenn es um Personenrecht und Status in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Personenrecht Status; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Personenrecht und Status

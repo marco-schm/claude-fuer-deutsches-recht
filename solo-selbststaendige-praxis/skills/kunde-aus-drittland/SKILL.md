@@ -1,6 +1,6 @@
 ---
 name: kunde-aus-drittland
-description: "Solo-Selbstständige: ordnet Rechnung, Quellensteuer, Exportkontrolle und Datenschutz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Internationales und Auslandskunden: Ordnet rechnung in Solo-Selbstständige Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Internationales und Auslandskunden: Ordnet rechnung

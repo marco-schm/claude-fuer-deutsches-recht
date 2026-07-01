@@ -1,6 +1,6 @@
 ---
 name: audit-hr
-description: "Definiert Rolle und Pflichten des Audit Committee bei Internal Investigations – § 107 AktG, Berichtspflichten, Unabhängigkeit im Internal Investigations Praxis."
+description: "Wenn es um Audit Committee in Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Audit Committee in Internal Investigations

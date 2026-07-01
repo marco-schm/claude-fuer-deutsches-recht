@@ -1,6 +1,6 @@
 ---
 name: bescheinigung-305-inso
-description: "Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden: Normanker: InsO § 305 Abs..."
+description: "Wenn es um Bescheinigung 305 Inso in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.

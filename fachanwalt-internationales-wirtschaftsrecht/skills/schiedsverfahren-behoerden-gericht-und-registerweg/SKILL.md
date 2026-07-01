@@ -1,6 +1,6 @@
 ---
 name: schiedsverfahren-behoerden-gericht-und-registerweg
-description: "Schiedsverfahren: Behörden-, Gerichts- oder Registerweg: Schiedsverfahren: Behörden-, Gerichts- oder Registerweg."
+description: "Wenn es um Schiedsverfahren: Behörden-, Gerichts- oder Registerweg in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiedsverfahren: Behörden-, Gerichts- oder Registerweg

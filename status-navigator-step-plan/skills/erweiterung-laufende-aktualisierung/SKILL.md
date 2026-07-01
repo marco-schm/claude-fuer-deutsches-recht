@@ -1,6 +1,6 @@
 ---
 name: erweiterung-laufende-aktualisierung
-description: "Konzept fuer die laufende Aktualisierung der Status-Navigator-Arbeitsmappe waehrend des Mandats. Standard-Update-Rhythmus, Versionierung, Änderungslog und Wiederverwendung als Steuerungsinstrument."
+description: "Wenn es um Erweiterung laufende Aktualisierung in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erweiterung laufende Aktualisierung

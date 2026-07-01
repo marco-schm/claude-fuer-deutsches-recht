@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Legistik-Werkstatt (Gesetzgebung): stimmt Adressat (Ressort, Bundesrat, Bundestag), Frist (Beteiligungsfristen) und Form auf den Zweck ab — typische Outputs: Normtext nach HdR, Begründung, Erfüllungsaufwand-Schätzung."
+description: "Wenn es um Output wählen in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: 04-subsidiaritaet-und-frist
-description: "Materielle Subsidiaritaet (zumutbare anderweitige Abhilfe, prozessuale Obliegenheiten), Beschwerdefrist Paragraf 93 BVerfGG (ein Monat bei Entscheidungen, ein Jahr bei Gesetzen), Wiedereinsetzung Paragraf 93 Abs. 2"
+description: "Wenn es um 04 Subsidiaritaet und Frist in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 04 Subsidiaritaet und Frist

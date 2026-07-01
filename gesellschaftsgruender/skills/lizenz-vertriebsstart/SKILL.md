@@ -1,6 +1,6 @@
 ---
 name: lizenz-vertriebsstart
-description: "Navigationszentrum für alle Gründungs-Skills: Fortschrittsanzeige, Delegierung an Fachinhalte, Status. Normen: GmbHG, AktG, HGB. Prüfraster: aktueller Gründungsstand, offene Schritte, Notartermin, Eintragungsstatus. Output: Statusuebersicht Gründungsprozess mit Naechste-Schritte-Liste. Abgrenzung..."
+description: "Wenn es um Kommandocenter Gesellschaftsgründung in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommandocenter Gesellschaftsgründung

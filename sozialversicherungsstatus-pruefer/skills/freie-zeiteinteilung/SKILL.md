@@ -1,6 +1,6 @@
 ---
 name: freie-zeiteinteilung
-description: "Prüft Zeitsouveränität, Dienstpläne, Kernzeiten, Deadlines, Verfügbarkeit und Abwesenheitsregeln im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Freie Zeiteinteilung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freie Zeiteinteilung

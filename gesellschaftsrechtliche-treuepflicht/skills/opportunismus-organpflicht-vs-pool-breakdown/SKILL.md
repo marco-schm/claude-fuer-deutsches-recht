@@ -1,6 +1,6 @@
 ---
 name: opportunismus-organpflicht-vs-pool-breakdown
-description: "Gesellschaftsrechtliche Treuepflicht: Opportunismus; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Opportunismus in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Opportunismus

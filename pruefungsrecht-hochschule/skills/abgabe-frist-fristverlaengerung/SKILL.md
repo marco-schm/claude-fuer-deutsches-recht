@@ -1,6 +1,6 @@
 ---
 name: abgabe-frist-fristverlaengerung
-description: "Prüft Abgabe, Frist, Upload und Zugang im Prüfungsrecht Hochschule. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Abgabe Frist Upload in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abgabe Frist Upload

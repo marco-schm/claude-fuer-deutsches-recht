@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-und-fotos
-description: "Wahlkampfrecht Praxis: Bilder, Schulformate und Daten Minderjaehriger prüfen im Wahlkampfrecht."
+description: "Wenn es um Minderjaehrige Und Fotos in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Minderjaehrige Und Fotos

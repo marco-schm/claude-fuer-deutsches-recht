@@ -1,6 +1,6 @@
 ---
 name: massnahme-mandantenkommunikation-entscheidungsvorlage
-description: "Maßnahme: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Maßnahme: Mandantenkommunikation und Entscheidungsvorlage in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Maßnahme: Mandantenkommunikation und Entscheidungsvorlage

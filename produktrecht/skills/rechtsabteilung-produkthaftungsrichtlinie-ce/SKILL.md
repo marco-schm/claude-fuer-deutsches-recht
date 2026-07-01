@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-produkthaftungsrichtlinie-ce
-description: "Rechtsabteilungs-Fachmodul für Neue Produkthaftungsrichtlinie und Softwareprodukt: Software, Updates, KI und Beweislast werden für Product Counsel operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Produktrecht."
+description: "Wenn es um Rechtsabteilung: Neue Produkthaftungsrichtlinie und Softwareprodukt in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Rechtsabteilung: Neue Produkthaftungsrichtlinie und Softwareprodukt

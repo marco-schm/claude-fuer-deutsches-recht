@@ -1,6 +1,6 @@
 ---
 name: euer-starten
-description: "Solo-Selbstständige: richtet Einnahmen-Überschuss-Rechnung, Kategorien und Beleglogik ein; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Steuern und Buchhaltung: Richtet einnahmen-überschuss-rechnung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuern und Buchhaltung: Richtet einnahmen-überschuss-rechnung

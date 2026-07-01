@@ -1,6 +1,6 @@
 ---
 name: international-filing-und-local-counsel-kaltstart
-description: "Patentanwälte: international filing und local counsel - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um International Filing Und Local Counsel Kaltstart in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: international filing und local counsel - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: uwr-co2-emissionshandel-spezial
-description: "Spezialfall CO2-Emissionshandel TEHG / EU-ETS und Reform ETS 2: Zuteilung, Auktion, freie Zuteilung, CBAM Schnittstelle. Prüfraster für Anlagenbetreiber im Umweltrecht."
+description: "Wenn es um UwR: ETS CBAM in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # UwR: ETS CBAM

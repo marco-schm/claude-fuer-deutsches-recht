@@ -1,6 +1,6 @@
 ---
 name: cartel-settlement-procedure
-description: "Settlement in Kartellverfahren: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Geständnis, Bußgeldreduktion, Akteneinsicht, Schadensersatzfolgen und Kommunikation abwägen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgr..."
+description: "Wenn es um Settlement in Kartellverfahren in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Settlement in Kartellverfahren

@@ -1,6 +1,6 @@
 ---
 name: spezial-durch-schriftsatz-brief-und-memo-bausteine
-description: "Durch: Schriftsatz-, Brief- und Memo-Bausteine im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Durch: Schriftsatz-, Brief- und Memo-Bausteine in hausarbeitenmacher — Didaktisches Plugin für juristische geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Durch: Schriftsatz-, Brief- und Memo-Bausteine

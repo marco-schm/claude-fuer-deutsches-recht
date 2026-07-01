@@ -1,6 +1,6 @@
 ---
 name: beanstandung-zwischenverfuegung
-description: "Analysiert Registerbeanstandungen, trennt behebbare Formmängel von Rechtsstreit, formuliert Nachreichung, Bitte um Fristverlängerung oder Beschwerdevorbereitung im Handelsregister Praxis."
+description: "Wenn es um Beanstandung und Zwischenverfügung beantworten in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beanstandung und Zwischenverfügung beantworten

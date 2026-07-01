@@ -1,6 +1,6 @@
 ---
 name: bild-behoerden-gericht-und-registerweg
-description: "Bild: Behörden-, Gerichts- oder Registerweg: Bild: Behörden-, Gerichts- oder Registerweg."
+description: "Wenn es um Bild: Behörden-, Gerichts- oder Registerweg in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bild: Behörden-, Gerichts- oder Registerweg

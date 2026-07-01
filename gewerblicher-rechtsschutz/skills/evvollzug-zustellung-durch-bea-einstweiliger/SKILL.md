@@ -1,6 +1,6 @@
 ---
 name: evvollzug-zustellung-durch-bea-einstweiliger
-description: "EV-Vollzug: Zustellung durch Gerichtsvollzieher (GV) bei einstweiligen Verfügungen im IP-Recht – Marke, Patent, UWG, Urheberrecht. Auftrag, Vorschuss, Zustellurkunde, Protokoll und Fehlerquellen bei natürlichen und juristischen Personen im Gewerblicher Rechtsschutz."
+description: "Wenn es um EV-Vollzug 003: Zustellung durch Gerichtsvollzieher im IP-Verfahren in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EV-Vollzug 003: Zustellung durch Gerichtsvollzieher im IP-Verfahren

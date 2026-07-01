@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Normenkontrolle Bauleitplanung: stimmt Adressat (Antragsteller (Anwohner/Nachbargemeinde), Gemeinde, OVG), Frist (§ 47 II VwGO 1 Jahr ab Bekanntmachung) und Form auf den Zweck ab — typische Outputs: Normenkontrollantrag, Begründung Abwägungsmängel, eA."
+description: "Wenn es um Output wählen in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

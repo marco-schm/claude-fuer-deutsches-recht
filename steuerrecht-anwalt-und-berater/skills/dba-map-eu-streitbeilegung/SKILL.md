@@ -1,6 +1,6 @@
 ---
 name: dba-map-eu-streitbeilegung
-description: "Verständigungsverfahren und EU-Streitbeilegung bei DBA-Doppelbesteuerung prüfen: Art. 25 OECD-MA, bilaterale MAP, EU-DBA-Streitbeilegungsgesetz, Fristen, Antrag, Begründung, Belege und Parallelverfahren."
+description: "Wenn es um DBA: MAP und EU-Streitbeilegung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA: MAP und EU-Streitbeilegung

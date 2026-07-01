@@ -1,6 +1,6 @@
 ---
 name: rolle-abschlussprodukt-und-uebergabe
-description: "Rolle: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Rolle: Abschlussprodukt und Übergabe in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rolle: Abschlussprodukt und Übergabe

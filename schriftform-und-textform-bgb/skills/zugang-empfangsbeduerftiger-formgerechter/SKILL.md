@@ -1,6 +1,6 @@
 ---
 name: zugang-empfangsbeduerftiger-formgerechter
-description: "Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? Paragraf 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Ein..."
+description: "Wenn es um Zugang empfangsbedürftiger Willenserklärungen Paragraf 130 BGB in Schriftform und Textform im BGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zugang empfangsbedürftiger Willenserklärungen Paragraf 130 BGB

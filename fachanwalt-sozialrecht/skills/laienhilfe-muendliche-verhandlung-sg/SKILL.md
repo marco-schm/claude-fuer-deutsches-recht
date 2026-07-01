@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-muendliche-verhandlung-sg
-description: "Laienverstaendlicher Sozialrechts-Skill zu Muendliche Verhandlung Sg: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Wid..."
+description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Muendliche Verhandlung Sg in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Muendliche Verhandlung Sg

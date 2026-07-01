@@ -1,6 +1,6 @@
 ---
 name: inso-p287b-erwerbsobliegenheit-des-schuldners
-description: "§ 287b InsO (Erwerbsobliegenheit des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 287b InsO (Erwerbsobliegenheit des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Bel..."
+description: "Wenn es um Inso P287b Erwerbsobliegenheit Des Schuldners in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 287b InsO (Erwerbsobliegenheit des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: fashion-jewelry-useful-article
-description: "Prüft Mode, Schmuck, Muster, Stoffdruck, separability, useful articles, trade dress and design patent alternatives im Us Copyright Registrierung Verlag."
+description: "Wenn es um Fashion, Jewelry und Product Design in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Fashion, Jewelry und Product Design

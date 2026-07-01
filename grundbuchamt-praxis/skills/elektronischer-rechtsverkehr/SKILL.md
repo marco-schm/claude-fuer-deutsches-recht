@@ -1,6 +1,6 @@
 ---
 name: elektronischer-rechtsverkehr
-description: "Prüft elektronische Einreichung, notarielle Signatur, Scans, Ausfertigungen und Medienbruchrisiken im Grundbuchamt Praxis."
+description: "Wenn es um Elektronischer Grundbuchverkehr in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Elektronischer Grundbuchverkehr

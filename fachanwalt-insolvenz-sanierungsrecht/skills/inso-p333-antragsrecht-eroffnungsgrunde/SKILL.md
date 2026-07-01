@@ -1,6 +1,6 @@
 ---
 name: inso-p333-antragsrecht-eroffnungsgrunde
-description: "§ 333 InsO (Antragsrecht: Eröffnungsgründe) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung."
+description: "Wenn es um Paragraf 333 InsO (Antragsrecht in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 333 InsO (Antragsrecht

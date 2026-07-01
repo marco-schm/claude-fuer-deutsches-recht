@@ -1,6 +1,6 @@
 ---
 name: designreform-eu-2024-check
-description: "EU-Designreform 2024 in laufenden Fällen berücksichtigen: neue Terminologie EU-Design, digitale Produkte, Reparaturthemen, Gebühren- und Verfahrensänderungen im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Designreform Eu 2024 Check in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Designreform Eu 2024 Check

@@ -1,6 +1,6 @@
 ---
 name: begriff-vorformuliert-digitalen-produkten-iso
-description: "Norm- und Dogmatik-Skill für AGB Begriff Vorformuliert 305: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung im AGB-Recht."
+description: "Wenn es um AGB Begriff Vorformuliert 305 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Begriff Vorformuliert Digitalen Produkten Iso; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # AGB Begriff Vorformuliert 305

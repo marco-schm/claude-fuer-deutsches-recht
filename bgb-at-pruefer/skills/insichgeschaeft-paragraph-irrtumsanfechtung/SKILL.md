@@ -1,6 +1,6 @@
 ---
 name: insichgeschaeft-paragraph-irrtumsanfechtung
-description: "Klausurfall zum Insichgeschäft nach § 181 BGB: Selbstkontrahieren und Mehrfachvertretung, Ausnahmen bei lediglich rechtlich vorteilhaften Geschäften oder ausdrücklich gestatteten Insichgeschäften, BGH-Linie zur GmbH und schwebende Unwirksamkeit im BGB AT."
+description: "Wenn es um Insichgeschäft — Paragraf 181 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Insichgeschaeft Paragraph Irrtumsanfechtung; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Insichgeschäft — § 181 BGB

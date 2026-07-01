@@ -1,6 +1,6 @@
 ---
 name: inso-p256-streitige-forderungen-ausfallforderungen
-description: "§ 256 InsO (Streitige Forderungen: Ausfallforderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung."
+description: "Wenn es um Paragraf 256 InsO (Streitige Forderungen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 256 InsO (Streitige Forderungen

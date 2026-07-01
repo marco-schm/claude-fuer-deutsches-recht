@@ -1,6 +1,6 @@
 ---
 name: restrukturierung-beweislast-stil-strategische
-description: "Restrukturierung: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Restrukturierung: Beweislast, Darlegungslast und Substantiierung in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Restrukturierung: Beweislast, Darlegungslast und Substantiierung

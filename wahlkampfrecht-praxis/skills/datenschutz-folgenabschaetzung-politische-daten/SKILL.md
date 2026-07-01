@@ -1,6 +1,6 @@
 ---
 name: datenschutz-folgenabschaetzung-politische-daten
-description: "Wahlkampfrecht Praxis: prüfen, ob politische Datenverarbeitung eine DSFA braucht im Wahlkampfrecht."
+description: "Wenn es um Datenschutz Folgenabschaetzung Politische Daten in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz Folgenabschaetzung Politische Daten

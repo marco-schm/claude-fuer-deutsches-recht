@@ -1,6 +1,6 @@
 ---
 name: down-red-gestaltender-gruppen
-description: "Down: Red-Team und Qualitätskontrolle im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug Planwerkstatt."
+description: "Wenn es um Down: Red-Team und Qualitätskontrolle in Insolvenzplan- und StaRUG-Planwerkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Down: Red-Team und Qualitätskontrolle

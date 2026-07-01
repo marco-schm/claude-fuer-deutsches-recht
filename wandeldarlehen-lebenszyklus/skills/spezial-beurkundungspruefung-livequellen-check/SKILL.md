@@ -1,6 +1,6 @@
 ---
 name: spezial-beurkundungspruefung-livequellen-check
-description: "Beurkundungspruefung: Livequellen- und Rechtsprechungscheck im Plugin wandeldarlehen lebenszyklus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Beurkundungspruefung: Livequellen- und Rechtsprechungscheck in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beurkundungspruefung: Livequellen- und Rechtsprechungscheck

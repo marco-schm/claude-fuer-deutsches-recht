@@ -1,6 +1,6 @@
 ---
 name: spezial-pacht-abgrenzung
-description: "Pacht vs. Miete: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Fruchtziehung, Inventar, Betrieb, Kündigungsregime und Vertragsauslegung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Pacht vs. Miete in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Pacht vs. Miete

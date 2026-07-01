@@ -1,6 +1,6 @@
 ---
 name: internationaler-registervergleich
-description: "Vergleicht Companies House, irische/österreichische/schweizer Register und deutsche Nachweisanforderungen im Handelsregister Praxis."
+description: "Wenn es um Ausländische Register verstehen in Handelsregister Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Ausländische Register verstehen

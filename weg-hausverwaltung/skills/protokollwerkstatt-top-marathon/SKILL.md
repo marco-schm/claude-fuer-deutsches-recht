@@ -1,6 +1,6 @@
 ---
 name: protokollwerkstatt-top-marathon
-description: "Erstellt und prüft Protokolle für lange Eigentümerversammlungen mit vielen Tagesordnungspunkten. Trennt Aussprache, Antrag, Beschlusswortlaut, Abstimmung, Verkündung, Anlagen und Nacharbeit. Output: protokollfähige TOP-Struktur."
+description: "Wenn es um Protokollwerkstatt für TOP-Marathons in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Protokollwerkstatt für TOP-Marathons

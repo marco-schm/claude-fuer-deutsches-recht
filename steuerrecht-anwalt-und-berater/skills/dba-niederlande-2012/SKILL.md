@@ -1,6 +1,6 @@
 ---
 name: dba-niederlande-2012
-description: "DBA Deutschland Niederlande aktuelle Fassung 2012 in Kraft seit 2016. Anwendungsfall grenzüberschreitende Arbeitsverhältnisse Pensionen Beteiligungen Logistikbetriebsstaetten. Aktive Einkuenfte Freistellung mit Aktivitaetsklausel. Passive Einkuenfte Anrechnung. MLI-Anpassungen. Output Mandanten-M..."
+description: "Wenn es um DBA Deutschland-Niederlande (2012/2016) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Niederlande (2012/2016)

@@ -1,6 +1,6 @@
 ---
 name: fund-finance-und-nav-facility
-description: "Prüft Subscription Line, NAV Facility, GP Commitment, LP Capital Call Security und Borrowing Limits im Private Equity Praxis."
+description: "Wenn es um Fund Finance und NAV Facility in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fund Finance und NAV Facility

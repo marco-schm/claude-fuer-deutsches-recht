@@ -1,6 +1,6 @@
 ---
 name: vertragshaendler-abgrenzung
-description: "Prüft die Abgrenzung zwischen Handelsvertreter und Vertragshändler: Eigenhändler kauft im eigenen Namen und auf eigene Rechnung und hat keinen gesetzlichen Ausgleich nach § 89b HGB, analoge Anwendung bei Einbindung wie Handelsvertreter nach BGH-Rechtsprechung sowie vertragliche Gestaltungsoptione..."
+description: "Wenn es um Vertragshändler vs. Handelsvertreter: Abgrenzung und analoger Ausgleichsanspruch in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vertragshändler vs. Handelsvertreter: Abgrenzung und analoger Ausgleichsanspruch

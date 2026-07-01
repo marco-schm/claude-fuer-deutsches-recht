@@ -1,6 +1,6 @@
 ---
 name: anw-organschaft-konzern-grundlagen
-description: "Workflow-Skill zu anw organschaft konzern grundlagen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Wenn es um Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken

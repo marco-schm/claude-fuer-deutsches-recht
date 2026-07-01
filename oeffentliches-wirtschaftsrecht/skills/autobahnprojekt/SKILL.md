@@ -1,6 +1,6 @@
 ---
 name: autobahnprojekt
-description: "Autobahnprojekt: Red Flags listen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Autobahnprojekt Red Flags Listen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Autobahnprojekt Red Flags Listen

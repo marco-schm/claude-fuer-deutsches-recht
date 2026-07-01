@@ -1,6 +1,6 @@
 ---
 name: einwilligungshinweis-fristennotiz-und-naechster-schritt
-description: "Einwilligungshinweis: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Einwilligungshinweis: Fristennotiz und nächster Schritt in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einwilligungshinweis: Fristennotiz und nächster Schritt

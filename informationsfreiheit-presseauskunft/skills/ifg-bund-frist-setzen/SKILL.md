@@ -1,6 +1,6 @@
 ---
 name: ifg-bund-frist-setzen
-description: "Informationsfreiheit und Presseauskunft: IFG Bund: Frist setzen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Ifg Bund Frist Setzen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ifg Bund Frist Setzen

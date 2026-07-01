@@ -1,6 +1,6 @@
 ---
 name: tatbestandsmerkmale-interessen
-description: "Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfah..."
+description: "Wenn es um Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tatbestandsmerkmale Interessen; Arbeitsfeld: Urteilsbauer und Relationsmacher."
 ---
 
 # Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix

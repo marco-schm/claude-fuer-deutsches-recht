@@ -1,6 +1,6 @@
 ---
 name: strom-gas-preiserhoehung
-description: "Strom- und Gaspreiserhöhung: führt Laien durch Energievertrag, Preisänderung, Grundversorgung, Sonderkündigung und Abschläge. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Strom- und Gaspreiserhöhung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strom- und Gaspreiserhöhung

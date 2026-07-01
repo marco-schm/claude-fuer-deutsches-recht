@@ -1,6 +1,6 @@
 ---
 name: schriftsatz-vermerk-und-mustertext
-description: "Schriftsatz, Vermerk und Mustertext: erklärt liefert einen belastbaren ersten Entwurf mit offenen Punkten in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Schriftsatz, Vermerk und Mustertext in Verbraucher im Rechtsstaat Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schriftsatz, Vermerk und Mustertext

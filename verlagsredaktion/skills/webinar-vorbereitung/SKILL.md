@@ -1,6 +1,6 @@
 ---
 name: webinar-vorbereitung
-description: "Webinar-Vorbereitung als Fachbeitrag-Sequel: Vom Aufsatz zur Onlineveranstaltung. Vertrag mit Autor, FAO-Fortbildungspunkte, Technik, Datenschutz, Aufzeichnung und Vermarktung im Verlagsredaktion."
+description: "Wenn es um Webinar-Vorbereitung als Fachbeitrag-Sequel in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Webinar-Vorbereitung als Fachbeitrag-Sequel

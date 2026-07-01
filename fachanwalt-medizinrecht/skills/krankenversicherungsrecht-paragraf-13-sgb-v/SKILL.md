@@ -1,6 +1,6 @@
 ---
 name: krankenversicherungsrecht-paragraf-13-sgb-v
-description: "Krankenversicherungsrecht § 13 sgb v: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Krankenversicherungsrecht Paragraf 13 sgb v in Fachanwalt Medizinrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherungsrecht § 13 sgb v

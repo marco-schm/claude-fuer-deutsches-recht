@@ -1,6 +1,6 @@
 ---
 name: anmeldungen-verhandlung-vergleich-und-eskalation
-description: "Anmeldungen: Verhandlung, Vergleich und Eskalation im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht."
+description: "Wenn es um Anmeldungen: Verhandlung, Vergleich und Eskalation in Gesellschaftsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Anmeldungen: Verhandlung, Vergleich und Eskalation

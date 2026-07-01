@@ -1,6 +1,6 @@
 ---
 name: methodenehrlichkeit-ideologiekritik-check
-description: "Prüft zivilrechtliche Urteile, Gutachten und Schriftsätze auf methodische Ehrlichkeit und verdeckte ideologische Vorannahmen. Das Skill hilft, versteckte Ergebnissteuerung durch selektive Methodenwahl zu identifizieren, Scheinneutralität zu entlarven und methodische Begründungen auf ihre tatsächl..."
+description: "Wenn es um Methodenehrlichkeit und Ideologiekritik: Analyse-Check in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Methodenehrlichkeit und Ideologiekritik: Analyse-Check

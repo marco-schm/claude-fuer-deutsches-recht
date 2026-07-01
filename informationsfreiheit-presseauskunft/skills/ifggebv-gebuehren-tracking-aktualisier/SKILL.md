@@ -1,6 +1,6 @@
 ---
 name: ifggebv-gebuehren-tracking-aktualisier
-description: "Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Tracking aktualisieren im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Ifggebv Gebühren Tracking Aktualisier in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ifggebv Gebühren Tracking Aktualisier

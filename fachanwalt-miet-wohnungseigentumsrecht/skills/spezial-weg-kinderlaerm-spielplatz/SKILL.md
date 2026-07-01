@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-kinderlaerm-spielplatz
-description: "Kinderlärm/Spielplatz: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Sozialadäquanz, Hausordnung, Rücksichtnahme, bauliche Maßnahmen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Kinderlärm/Spielplatz in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kinderlärm/Spielplatz

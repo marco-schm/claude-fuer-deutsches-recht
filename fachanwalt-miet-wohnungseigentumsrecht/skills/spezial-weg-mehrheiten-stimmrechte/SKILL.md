@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-mehrheiten-stimmrechte
-description: "WEG Mehrheiten/Stimmrechte: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Kopf-/Objekt-/Wertprinzip, Stimmverbot, Umlaufbeschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um WEG Mehrheiten/Stimmrechte in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Mehrheiten/Stimmrechte

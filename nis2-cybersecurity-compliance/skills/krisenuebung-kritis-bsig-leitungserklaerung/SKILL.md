@@ -1,6 +1,6 @@
 ---
 name: krisenuebung-kritis-bsig-leitungserklaerung
-description: "Prüft technische Krisenübung mit Restore und Kommunikationsausfall im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Krisenuebung in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krisenuebung

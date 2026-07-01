@@ -1,6 +1,6 @@
 ---
 name: postfaktische-argumente-red-team
-description: "Identifiziert und dekonstruiert postfaktische Argumente in juristischen Texten und entwickelt methodisch fundierte Gegenargumente. Das Skill erkennt, wenn Behauptungen ohne belastbare Grundlage als Tatsachen ausgegeben werden, und liefert Red-Team-Analysen für Schriftsätze, Gutachten und Urteilsa..."
+description: "Wenn es um Postfaktische Argumente: Red-Team-Analyse und Dekonstruktion in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Postfaktische Argumente: Red-Team-Analyse und Dekonstruktion

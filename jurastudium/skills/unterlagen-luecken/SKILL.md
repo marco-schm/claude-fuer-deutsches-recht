@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Jurastudium (Klausur, AG, Examen): trennt fehlende Tatsachen von fehlenden Belegen (Klausuren, Hausarbeiten, Karteikarten), nennt pro Lücke Beweisthema, Beschaffungsweg (Universität), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

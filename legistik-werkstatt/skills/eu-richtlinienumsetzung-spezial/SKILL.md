@@ -1,6 +1,6 @@
 ---
 name: eu-richtlinienumsetzung-spezial
-description: "Spezialfall EU-Richtlinienumsetzung im deutschen Recht: ueberschiessende Umsetzung, Gold Plating, fristgerecht, EuGH-Aufsichtspflicht. Prüfraster für Ministerium."
+description: "Wenn es um LegW: EU-Richtlinienumsetzung in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LegW: EU-Richtlinienumsetzung

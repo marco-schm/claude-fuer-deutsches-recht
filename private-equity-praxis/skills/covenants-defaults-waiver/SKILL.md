@@ -1,6 +1,6 @@
 ---
 name: covenants-defaults-waiver
-description: "Prüft Financial Covenants, Information Undertakings, MAC, Events of Default, Cure Rights und Waiver-Prozess im Private Equity Praxis."
+description: "Wenn es um Covenants, Defaults und Waiver in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Covenants, Defaults und Waiver

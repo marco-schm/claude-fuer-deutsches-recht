@@ -1,6 +1,6 @@
 ---
 name: schuldnerberatung-workflow
-description: "mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung: Normanker: InsO § 305; Landesanerkennung Bera..."
+description: "Wenn es um Schuldnerberatung Workflow in Verbraucherinsolvenz und Schuldenbereinigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung.

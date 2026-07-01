@@ -1,6 +1,6 @@
 ---
 name: bidder-instructions
-description: "Bidder Instructions und VDR Rules für grosse M&A-Prozesse: formuliert Datenraumregeln, Q&A-Disziplin, Upload-Standards, Clean-Room-Grenzen und Sanktionen bei Prozessverstoessen."
+description: "Wenn es um Bidder Instructions VDR Rules in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bidder Instructions VDR Rules

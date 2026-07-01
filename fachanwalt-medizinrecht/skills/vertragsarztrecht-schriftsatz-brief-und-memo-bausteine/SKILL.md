@@ -1,6 +1,6 @@
 ---
 name: vertragsarztrecht-schriftsatz-brief-und-memo-bausteine
-description: "Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine: Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Wenn es um Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Medizinrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine

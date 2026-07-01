@@ -1,6 +1,6 @@
 ---
 name: spezial-zustaendigkeit-zahlen-schwellen-und-berechnung
-description: "Zustaendigkeit: Zahlen, Schwellenwerte und Berechnung im Plugin prozessrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Zustaendigkeit: Zahlen, Schwellenwerte und Berechnung in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zustaendigkeit: Zahlen, Schwellenwerte und Berechnung

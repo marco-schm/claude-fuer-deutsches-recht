@@ -1,6 +1,6 @@
 ---
 name: notweg-zufahrt-selbsthilfe-eskalationsgrenzen
-description: "Notweg, Zufahrt und Wegerecht prüfen: §§ 917 und 918 BGB, Grunddienstbarkeit, Baulast, tatsächliche Nutzung, willkürliche Absperrung, Notwegrente, Umfang, Richtung und gerichtliche Bestimmung im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Notweg, Zufahrt und Wegerecht in Nachbarschaftsstreit-Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Notweg, Zufahrt und Wegerecht

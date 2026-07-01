@@ -1,6 +1,6 @@
 ---
 name: specific
-description: "Specific Indemnities und Risk Transfer Skill: entwickelt Sonderfreistellungen, Escrow, W&I-Schnittstellen, Tax Deeds und Risikoallokation für erkannte Findings."
+description: "Wenn es um Specific Indemnities Risk Transfer in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Specific Indemnities Risk Transfer

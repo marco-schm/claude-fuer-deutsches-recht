@@ -1,6 +1,6 @@
 ---
 name: viraler-clip-waehlerdaten-listen
-description: "Wahlkampfrecht Praxis: auf unguenstigen viralen Clip ohne Panik reagieren im Wahlkampfrecht."
+description: "Wenn es um Viraler Clip Notfall in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Viraler Clip Notfall

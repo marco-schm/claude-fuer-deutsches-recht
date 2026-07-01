@@ -1,6 +1,6 @@
 ---
 name: sektor-logistik-haefen-schiene-luftfracht
-description: "Sektor Logistik, Häfen, Schiene und Luftfracht: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Friste..."
+description: "Wenn es um Sektor Logistik, Häfen, Schiene und Luftfracht in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sektor Logistik, Häfen, Schiene und Luftfracht

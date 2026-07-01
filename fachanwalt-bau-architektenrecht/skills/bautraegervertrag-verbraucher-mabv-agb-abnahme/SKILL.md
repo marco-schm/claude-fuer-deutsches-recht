@@ -1,6 +1,6 @@
 ---
 name: bautraegervertrag-verbraucher-mabv-agb-abnahme
-description: "Fachanwalts-Spezialskill für Bauträgerverträge aus Verbrauchersicht: § 650u/§ 650v BGB, MaBV-Raten, § 650m-Sicherheit, AGB-Klauseln, Baubeschreibung, Abnahme Gemeinschaftseigentum, Schlussrate und Verjährung."
+description: "Wenn es um Bauträgervertrag: Verbraucher, MaBV, AGB und Abnahme in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bauträgervertrag: Verbraucher, MaBV, AGB und Abnahme

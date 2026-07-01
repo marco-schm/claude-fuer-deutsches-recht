@@ -1,6 +1,6 @@
 ---
 name: workflow-weg-eigentuemer-intake
-description: "WEG-Eigentümer-Intake: Prüfungslinie für Miet- und WEG-Recht: klärt Beschluss, Gemeinschaft, Verwalter, Teilungserklärung, Fristen und Ziel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Sk..."
+description: "Wenn es um WEG-Eigentümer-Intake: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # WEG-Eigentümer-Intake: Prüfungslinie für Miet- und WEG-Recht

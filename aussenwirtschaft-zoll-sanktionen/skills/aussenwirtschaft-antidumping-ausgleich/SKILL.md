@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-antidumping-ausgleich
-description: "Antidumping-Ausgleichsmassnahmen nach EU-Grundverordnung (VO (EU) 2016/1036): Identifizierung von TARIC-Antidumping-Maßnahmen, Berechnung endgueltiger Antidumping-Zoelle, Überprüfen von Ursprungsnachweis und Hersteller-TARIC-Code (Einzelzoll vs. Restzoll). Fallkonstellation: Importeur prüft A..."
+description: "Wenn es um Antidumping-Ausgleich: TARIC-Maßnahmen und Herstellerzuordnung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Antidumping-Ausgleich: TARIC-Maßnahmen und Herstellerzuordnung

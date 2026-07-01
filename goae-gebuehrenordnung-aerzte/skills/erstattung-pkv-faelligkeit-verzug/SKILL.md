@@ -1,6 +1,6 @@
 ---
 name: erstattung-pkv-faelligkeit-verzug
-description: "Erstattung PKV vs Honoraranspruch Patient: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise im Goae Gebührenordnung Aerzte."
+description: "Wenn es um Erstattung PKV vs Honoraranspruch Patient in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstattung PKV vs Honoraranspruch Patient

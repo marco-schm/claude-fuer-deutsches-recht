@@ -1,6 +1,6 @@
 ---
 name: abstimmung-mit-rechtsabteilung-pruefung
-description: "Inhouse-Legal-Check vor Veroeffentlichung: strukturierte Abstimmung mit Justiziariat zu Aeusserungsrecht, Persoenlichkeitsrecht, Urheberrecht, Wettbewerbsrecht und Datenschutz im Verlagsredaktion."
+description: "Wenn es um Inhouse-Legal-Check vor Veroeffentlichung in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Inhouse-Legal-Check vor Veroeffentlichung

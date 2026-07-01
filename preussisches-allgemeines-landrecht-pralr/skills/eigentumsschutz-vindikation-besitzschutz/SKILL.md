@@ -1,6 +1,6 @@
 ---
 name: eigentumsschutz-vindikation-besitzschutz
-description: "Eigentumsschutz im ALR Vindikation und Besitzschutz. Skill behandelt die rei vindicatio die actio Publiciana und die possessorischen Klagen sowie die Fortwirkung in §§ 985 ff. BGB. Liefert Prüfraster: prüft konkret die einschlägigen Tatbestandsmerkmale, Frist..."
+description: "Wenn es um Pralr Eigentumsschutz Vindikation Besitzschutz in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Eigentumsschutz Vindikation Besitzschutz

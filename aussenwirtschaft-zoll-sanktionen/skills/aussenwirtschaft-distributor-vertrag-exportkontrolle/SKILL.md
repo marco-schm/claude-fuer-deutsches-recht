@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-distributor-vertrag-exportkontrolle
-description: "Exportkontrollklauseln in Distributor- und Handelsvertretervertraegen: Vertragliche Pflichten des Importeurs zur Einhaltung von Re-Export-Verboten, Endverwender-Verpflichtungen und No-Russia-Clause (Art. 12g VO 833/2014). Haftungsklauseln, Compliance-Pflichten des Partners und Due-Diligence-Recht..."
+description: "Wenn es um Distributor-Vertrag und Exportkontrolle: Klauseln und Compliance-Pflichten in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Distributor-Vertrag und Exportkontrolle: Klauseln und Compliance-Pflichten

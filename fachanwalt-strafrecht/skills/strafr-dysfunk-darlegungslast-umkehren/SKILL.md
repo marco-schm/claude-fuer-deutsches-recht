@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-darlegungslast-umkehren
-description: "Darlegungs- und Substantiierungslast für den Missbrauchsvorwurf konsequent auf die Gegenseite verlagern: Wer dem Verteidiger Rechtsmissbrauch vorwirft m..."
+description: "Wenn es um Strafr Dysfunk Darlegungslast Umkehren in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Darlegungs- und Substantiierungslast für den Missbrauchsvorwurf konsequent auf die Gegenseite verlagern

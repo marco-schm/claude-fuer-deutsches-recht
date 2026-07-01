@@ -1,6 +1,6 @@
 ---
 name: selektiver-vertrieb-coty
-description: "Selektiven Vertrieb für Luxusgüter und Markenware prüfen und gestalten: qualitative Kriterien, Plattformverbot, Diskriminierungsfreiheit, Vertikal-GVO, Marktanteile, Händleraufnahme und Vertragsdurchsetzung im Markenrecht Fashion Luxus."
+description: "Wenn es um Selektiver Vertrieb für Luxusgüter nach Coty in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Selektiver Vertrieb für Luxusgüter nach Coty

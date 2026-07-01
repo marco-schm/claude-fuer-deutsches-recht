@@ -1,6 +1,6 @@
 ---
 name: portfolio-und-case-study
-description: "Solo-Selbstständige: prüft Eigenwerbung trotz Kundengeheimnis und Urheberrechten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Portfolio Und Case Study in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IP Content und Arbeitsergebnisse: Prüft eigenwerbung trotz kundengeheimnis und urheberrechten

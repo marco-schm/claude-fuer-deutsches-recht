@@ -1,6 +1,6 @@
 ---
 name: vermoegensverfall-zulassungswiderruf-praevention
-description: "Vermögensverfall und Zulassungswiderruf (Präventions- und Organisationspaket): steuert Widerruf der Zulassung wegen Vermögensverfall, Gläubigerschutz, Sofortvollzug und Sanierungsnachweis mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufs..."
+description: "Wenn es um Vermögensverfall und Zulassungswiderruf: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vermögensverfall und Zulassungswiderruf: Präventions- und Organisationspaket

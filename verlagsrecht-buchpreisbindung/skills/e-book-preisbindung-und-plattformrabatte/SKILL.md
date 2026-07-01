@@ -1,6 +1,6 @@
 ---
 name: e-book-preisbindung-und-plattformrabatte
-description: "Buchpreisbindungsgesetz: E-Book-Preisbindung, Plattformgebühren, Rabatte durch Amazon, Apple und andere Anbieter — BuchPrG § 2 Abs. 1 Nr. 3, Durchsetzung und Vertragsgestaltung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-013 · E-Book-Preisbindung und Plattformrabatte in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-013 · E-Book-Preisbindung und Plattformrabatte

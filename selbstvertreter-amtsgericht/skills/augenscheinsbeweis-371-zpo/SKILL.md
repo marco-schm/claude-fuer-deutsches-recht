@@ -1,6 +1,6 @@
 ---
 name: augenscheinsbeweis-371-zpo
-description: "Augenscheinsbeweis nach § 371 ZPO. Inaugenscheinnahme von Sachen am Ort oder im Gericht Fotos Videos als Augenscheins-Objekte. Wann Augenschein sinnvoll ist Bezeichnung im Beweisantrag und Sicherung von veraenderlichen Objekten."
+description: "Wenn es um Augenscheinsbeweis: Wenn das Gericht selbst sehen muss in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Augenscheinsbeweis: Wenn das Gericht selbst sehen muss

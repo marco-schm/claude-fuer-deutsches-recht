@@ -1,6 +1,6 @@
 ---
 name: ihl-081-trade-custom-evidence
-description: "Internationales Handelsrecht und Lex Mercatoria: Trade Custom Evidence. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Trade Custom Evidence in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Trade Custom Evidence

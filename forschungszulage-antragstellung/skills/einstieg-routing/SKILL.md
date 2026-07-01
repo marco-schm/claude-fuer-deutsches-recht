@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Forschungszulage FZulG: ordnet Rolle (Unternehmen F&E, BSFZ, Finanzamt), markiert Frist (Antrag jederzeit), wählt Norm (FZulG, EStG § 3 Nr. 26b) und Zuständigkeit (Bescheinigungsstelle Forschungszulage (BSFZ)), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Forschungszulage-Antragstellung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

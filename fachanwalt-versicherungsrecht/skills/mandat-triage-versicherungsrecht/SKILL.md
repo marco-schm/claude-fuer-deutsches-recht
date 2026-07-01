@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-versicherungsrecht
-description: "Strukturierte Eingangs-Abfrage für versicherungsrechtliche Mandate mit Fristen-Sofort-Check: Anwendungsfall neues Versicherungsmandat geht ein und muss schnell tria..."
+description: "Wenn es um Mandat Triage Versicherungsrecht in Fachanwalt Versicherungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strukturierte Eingangs-Abfrage für versicherungsrechtliche Mandate mit Fristen-Sofort-Check

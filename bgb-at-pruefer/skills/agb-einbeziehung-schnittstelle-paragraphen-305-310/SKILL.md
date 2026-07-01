@@ -1,6 +1,6 @@
 ---
 name: agb-einbeziehung-schnittstelle-paragraphen-305-310
-description: "Schnittstellen-Skill zu AGB im BGB AT: Einbeziehung, überraschende Klausel, Vorrang der Individualabrede, Transparenz und Inhaltskontrolle als Folgeproblem."
+description: "Wenn es um Agb Einbeziehung Schnittstelle Paragraphen 305 310 in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Agb Einbeziehung Schnittstelle Paragraphen 305 310

@@ -1,6 +1,6 @@
 ---
 name: bautraegerkauf-eigentumspfad-und-freistellung
-description: "Immobilienrechtlicher Spezialskill für Bauträgerkauf: Eigentumspfad, Vormerkung, Lastenfreistellung, Globalgrundschuld, Freigabe, MaBV-Fälligkeit, Käuferbank, Insolvenz und Besitzübergabe."
+description: "Wenn es um Bauträgerkauf: Eigentumspfad und Freistellung in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bauträgerkauf: Eigentumspfad und Freistellung

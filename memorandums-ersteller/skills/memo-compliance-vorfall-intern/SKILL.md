@@ -1,6 +1,6 @@
 ---
 name: memo-compliance-vorfall-intern
-description: "Internes Compliance-Vorfall-Memo: Schwere des Vorfalls, betroffene Personen, betroffene Normen (KWG, MaRisk, GwG, DSGVO, KartellG), Meldepflichten, Sicherungsmassnahmen, Handlungsempfehlung. Speziell zu beachten: Self-Reporting-Linien (KWG, GwG, BKartA-Bonusregelung) im Memorandums Ersteller."
+description: "Wenn es um Compliance-Vorfall-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Compliance-Vorfall-Memo

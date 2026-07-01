@@ -1,6 +1,6 @@
 ---
 name: due-diligence-legal
-description: "Prüft Legal Due Diligence im M&A-Prozess mit Corporate-Status, Verträgen, Litigation, Regulatory, HR, IP, Datenraumlücken und SPA-Folgen."
+description: "Wenn es um Legal Due Diligence in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Legal Due Diligence

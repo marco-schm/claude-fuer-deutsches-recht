@@ -1,6 +1,6 @@
 ---
 name: vbr-041-online-shop-anspruch-pruefen
-description: "Verbraucherschutzrecht Prüfer: Online-Shop: Anspruch prüfen. Anspruch prüfen für Online-Shop im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Online Shop Anspruch Pruefen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Online Shop Anspruch Pruefen

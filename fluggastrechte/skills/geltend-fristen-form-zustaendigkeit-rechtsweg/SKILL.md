@@ -1,6 +1,6 @@
 ---
 name: geltend-fristen-form-zustaendigkeit-rechtsweg
-description: "Geltend: Fristen, Form, Zuständigkeit und Rechtsweg im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welch..."
+description: "Wenn es um Geltend: Fristen, Form, Zuständigkeit und Rechtsweg in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Geltend Fristen Form Zuständigkeit Rechtsweg; Arbeitsfeld: Fluggastrechte."
 ---
 
 # Geltend: Fristen, Form, Zuständigkeit und Rechtsweg

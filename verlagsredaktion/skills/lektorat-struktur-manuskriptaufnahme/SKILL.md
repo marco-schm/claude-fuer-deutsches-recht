@@ -1,6 +1,6 @@
 ---
 name: lektorat-struktur-manuskriptaufnahme
-description: "Redigiert Struktur, Argumentationsgang, Gliederung, Kuerzung, Redundanzen, Widersprueche und Lesefuehrung von Verlagsmanuskripten im Verlagsredaktion."
+description: "Wenn es um Lektorat, Struktur und Redaktion in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Lektorat, Struktur und Redaktion

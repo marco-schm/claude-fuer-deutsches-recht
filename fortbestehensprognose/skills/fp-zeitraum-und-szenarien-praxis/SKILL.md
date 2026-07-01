@@ -1,6 +1,6 @@
 ---
 name: fp-zeitraum-und-szenarien-praxis
-description: "Fortbestehensprognose-Zeitraum 12 Monate seit SanInsFoG, ueblicher Praxis-Korridor: konservativ, mittel, optimistisch. Aufbau Szenarienrechnung in der Praxis. IDW S 11 Ueberschuldung und IDW S 6 Sanierungskonzept Bezug im Fortbestehensprognose."
+description: "Wenn es um FP: Zeitraum und Szenarien in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # FP: Zeitraum und Szenarien

@@ -1,6 +1,6 @@
 ---
 name: inso-p121-betriebsanderungen-und-vermittlungsverfahren
-description: "§ 121 InsO (Betriebsänderungen und Vermittlungsverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 121 InsO (Betriebsänderungen und Vermittlungsverfahren) im Mandat prüfen: Normzwec..."
+description: "Wenn es um Inso P121 Betriebsanderungen Und Vermittlungsverfahren in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 121 InsO (Betriebsänderungen und Vermittlungsverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: ki-verordnung-compliance
-description: "KI-Systeme auf Anforderungen der KI-VO und Datenschutz prüfen. KI-VO Risikoklassen Art. 5 9 DSGVO Einwilligung. Prüfraster: Risikoklasse Verbote Hochrisiko-KI Dokumentationspflichten DSGVO-Schnittmengen Transparenzpflichten. Output: KI-Compliance-Prüfmemo Maßnahmenliste. Abgrenzung: nicht für al..."
+description: "Wenn es um digitale Werkzeuge-Verordnung — Compliance-Prüfung in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # KI-Verordnung — Compliance-Prüfung

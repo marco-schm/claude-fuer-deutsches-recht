@@ -1,6 +1,6 @@
 ---
 name: verlagsredaktion
-description: "Kernskill für verlegerische Rohmanuskript- und Editionsarbeit: Material inventarisieren, strukturieren, redigieren, Luecken markieren, Quellen trennen und Autorenfreigaben vorbereiten im Verlagsredaktion."
+description: "Wenn es um Verlagsredaktion — Kernskill in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verlagsredaktion — Kernskill

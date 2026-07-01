@@ -1,6 +1,6 @@
 ---
 name: zinsberechnung-288-bgb
-description: "Zinsberechnung nach Paragraf 288 BGB: Verbraucherverzug 5 Prozentpunkte ueber Basiszinssatz, B2B-Verzug 9 Prozentpunkte. Verzugspauschale 40 EUR Paragraf 288 Abs. 5 BGB B2B. Basiszinssatz Paragraf 247 BGB halbjaehrlich anpasst durch Deutsche Bundesbank (Stand 1. Halbjahr 2026 niedrig im einstelligen Prozentbereich)...."
+description: "Wenn es um Zinsberechnung Paragraf 288 BGB in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zinsberechnung Paragraf 288 BGB

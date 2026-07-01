@@ -1,6 +1,6 @@
 ---
 name: mitarbeiter-posten-betriebsfeier-content
-description: "Influencer-Recht: Social-Media-Guidelines für Mitarbeiter – arbeitsrechtliche Pflichten, Haftung, Datenschutz und Employee Advocacy im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Mitarbeiter posten für das Unternehmen in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Influencer-Recht: Mitarbeiter posten für das Unternehmen

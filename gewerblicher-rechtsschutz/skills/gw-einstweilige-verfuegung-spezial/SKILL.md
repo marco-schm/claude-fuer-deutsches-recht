@@ -1,6 +1,6 @@
 ---
 name: gw-einstweilige-verfuegung-spezial
-description: "Einstweilige Verfügung im gewerblichen Rechtsschutz: Strategische Gesamtbetrachtung von Antrag bis Hauptsache. Gerichtsauswahl, Tenorformulierung, Sicherheitsleistung, Vollzug, Widerspruch und Übergang in die Hauptsache als integrierter Workflow im Gewerblicher Rechtsschutz."
+description: "Wenn es um GewR: Einstweilige Verfügung – Strategische Gesamtbetrachtung in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # GewR: Einstweilige Verfügung – Strategische Gesamtbetrachtung

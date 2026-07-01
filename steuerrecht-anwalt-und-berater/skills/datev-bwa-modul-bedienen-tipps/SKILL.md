@@ -1,6 +1,6 @@
 ---
 name: datev-bwa-modul-bedienen-tipps
-description: "DATEV Kanzlei-Rechnungswesen BWA-Modul Bedienung. Anwendungsfall Erstellung BWA in DATEV Auswahl Form Konfiguration Periodenvergleich Branchenvergleich. Methodik Workflow-Tipps. Output BWA-konfiguriert."
+description: "Wenn es um DATEV Kanzlei-Rechnungswesen BWA-Modul — Bedienung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DATEV Kanzlei-Rechnungswesen BWA-Modul — Bedienung

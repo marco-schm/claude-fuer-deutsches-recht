@@ -1,6 +1,6 @@
 ---
 name: chapter15-comity-recognition-claim-objection
-description: "Prüft post-recognition relief, cooperation, entrustment, asset turnover, discovery and public-policy exception im US Bankruptcy Code."
+description: "Wenn es um Chapter 15 Comity and Relief in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chapter 15 Comity and Relief

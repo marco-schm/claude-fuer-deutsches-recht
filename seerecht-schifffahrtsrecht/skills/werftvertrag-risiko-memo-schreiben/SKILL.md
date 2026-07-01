@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-risiko-memo-schreiben
-description: "Werftvertrag: Gesamtrisikobewertung für Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel bei Neubauprojekt unter Werftvertrag: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104..."
+description: "Wenn es um Werftvertrag – Risiko-Memo schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Werftvertrag – Risiko-Memo schreiben

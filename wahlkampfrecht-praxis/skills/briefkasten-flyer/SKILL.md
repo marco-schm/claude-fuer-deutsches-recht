@@ -1,6 +1,6 @@
 ---
 name: briefkasten-flyer
-description: "Wahlkampfrecht Praxis: Flyer- und Briefkastenaktionen prüfen im Wahlkampfrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Briefkasten Flyer in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Briefkasten Flyer

@@ -1,6 +1,6 @@
 ---
 name: inso-p349-verfugungen-uber-unbewegliche-gegenstande
-description: "§ 349 InsO (Verfügungen über unbewegliche Gegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 349 InsO (Verfügungen über unbewegliche Gegenstände) im Mandat prüfen: Normzweck, Tat..."
+description: "Wenn es um Inso P349 Verfugungen Uber Unbewegliche Gegenstande in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 349 InsO (Verfügungen über unbewegliche Gegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: befehl-und-gewissenskonflikt
-description: "Routet akute Befehlsgewissenskonflikte neben dem KDV-Verfahren im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Befehl und Gewissenskonflikt in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Befehl und Gewissenskonflikt

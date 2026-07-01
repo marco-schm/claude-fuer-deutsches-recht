@@ -1,6 +1,6 @@
 ---
 name: beirat-fakultativer-aufsichtsrat-52-gmbhg
-description: "Prüft Beiratsfragen zu Fakultativer Aufsichtsrat 52 Gmbhg: Zuständigkeit, Satzungsgrundlage, Beschlussweg, Haftung, Belege, Gegenargumente und verwertbaren Output."
+description: "Wenn es um Beirat Fakultativer Aufsichtsrat 52 Gmbhg in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Fakultativer Aufsichtsrat 52 Gmbhg

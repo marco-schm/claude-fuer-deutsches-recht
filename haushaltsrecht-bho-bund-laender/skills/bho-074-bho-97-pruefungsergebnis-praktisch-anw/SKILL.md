@@ -1,6 +1,6 @@
 ---
 name: bho-074-bho-97-pruefungsergebnis-praktisch-anw
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 97 Prüfungsergebnis praktisch anwenden. BHO § 97 Prüfungsergebnis praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Bho 97 Pruefungsergebnis Praktisch Anw in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bho 97 Pruefungsergebnis Praktisch Anw

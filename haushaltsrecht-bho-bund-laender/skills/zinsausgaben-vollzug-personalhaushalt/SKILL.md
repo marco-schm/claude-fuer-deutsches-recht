@@ -1,6 +1,6 @@
 ---
 name: zinsausgaben-vollzug-personalhaushalt
-description: "Haushaltsrecht BHO Bund und Länder: Zinsausgaben: Vollzug tracken im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Zinsausgaben Vollzug Tracken in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zinsausgaben Vollzug Tracken

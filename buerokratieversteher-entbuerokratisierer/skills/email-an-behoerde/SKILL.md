@@ -1,6 +1,6 @@
 ---
 name: email-an-behoerde
-description: "Formuliert kurze, sachliche E-Mails an Behörden mit Aktenzeichen, Anliegen, Fristwahrung, Bitte um Eingangsbestätigung und ohne unnötige Nebentatsachen im Bürokratie-Entbürokratisierung."
+description: "Wenn es um E-Mail an Behörde in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # E-Mail an Behörde

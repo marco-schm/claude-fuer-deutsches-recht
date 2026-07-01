@@ -1,6 +1,6 @@
 ---
 name: beteiligter-betreuung-landwirtschaftsverkehr
-description: "Notariat im Alltag: Beteiligter mit Betreuung oder Vorsorgevollmacht – Geschäftsfähigkeit. Prüfprogramm für Geschäftsfähigkeit, gesetzliche Vertretung durch Betreuer, Einwilligungsvorbehalt und familiengerichtliche Genehmigung im Notariat."
+description: "Wenn es um Notariat im Alltag: Beteiligter mit Betreuung oder Vorsorgevollmacht – Geschäftsfähigkeit in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Beteiligter mit Betreuung oder Vorsorgevollmacht – Geschäftsfähigkeit

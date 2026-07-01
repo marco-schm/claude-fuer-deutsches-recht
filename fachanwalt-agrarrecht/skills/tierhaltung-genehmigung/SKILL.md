@@ -1,6 +1,6 @@
 ---
 name: tierhaltung-genehmigung
-description: "Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten: UVP-Pflicht UVPG. Tierschutz-Nutztierhaltungsverordnung. Standortgebundenheit BauGB § 35 Privilegierung. Stallneubau St..."
+description: "Wenn es um Genehmigung Tierhaltungsanlagen nach Paragraf 4 BImSchG ab Schwellenwerten in Fachanwalt Agrarrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten

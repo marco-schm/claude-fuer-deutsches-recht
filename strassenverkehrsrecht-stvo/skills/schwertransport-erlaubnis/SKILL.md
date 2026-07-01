@@ -1,6 +1,6 @@
 ---
 name: schwertransport-erlaubnis
-description: "Straßenverkehrsrecht StVO: Schwertransport und Erlaubnis. Schwertransport und Erlaubnis im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen,..."
+description: "Wenn es um Schwertransport Und Erlaubnis in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schwertransport Und Erlaubnis

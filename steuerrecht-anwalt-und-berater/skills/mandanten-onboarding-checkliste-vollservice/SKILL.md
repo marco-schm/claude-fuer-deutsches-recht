@@ -1,6 +1,6 @@
 ---
 name: mandanten-onboarding-checkliste-vollservice
-description: "Onboarding-Checkliste Neumandant Vollservice. Anwendungsfall Mandatsannahme Standardablauf Mandantenvereinbarung Vollmachten DSGVO-Information Buchführung Lohn Steuererklärung. Methodik strukturierter Checkliste. Output Mandantenakte komplett startklar im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Mandanten-Onboarding-Checkliste Vollservice in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mandanten Onboarding Checkliste Vollservice; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Mandanten-Onboarding-Checkliste Vollservice

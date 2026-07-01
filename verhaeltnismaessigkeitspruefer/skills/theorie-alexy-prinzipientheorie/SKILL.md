@@ -1,6 +1,6 @@
 ---
 name: theorie-alexy-prinzipientheorie
-description: "Robert Alexys Prinzipientheorie als Theoriegrundlage der Verhältnismäßigkeitspruefung. Grundrechte als Optimierungsgebote, Abwaegungsgesetz, Gewichtsformel; Linie Rudolf Smend, Robert Alexy, Aharon Barak; Verhältnismäßigkeit als Strukturprinzip globaler Verfassungsgerichtsbarkeit."
+description: "Wenn es um Theorie der Grundrechte — Alexy und das Prinzip der Verhältnismäßigkeit in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Theorie der Grundrechte — Alexy und das Prinzip der Verhältnismäßigkeit

@@ -1,6 +1,6 @@
 ---
 name: spezial-rechtsquellen-red-team-und-qualitaetskontrolle
-description: "Rechtsquellen: Red-Team und Qualitätskontrolle im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Rechtsquellen: Red-Team und Qualitätskontrolle in Fachanwalt Erbrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsquellen: Red-Team und Qualitätskontrolle

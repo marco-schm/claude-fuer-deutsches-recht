@@ -1,6 +1,6 @@
 ---
 name: kv-047-hospiz-palliativversorgung-und-sapv
-description: "Krankenversicherung: Hospiz Palliativversorgung und SAPV mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Hospiz Palliativversorgung und SAPV in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Hospiz Palliativversorgung und SAPV

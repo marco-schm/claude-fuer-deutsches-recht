@@ -1,6 +1,6 @@
 ---
 name: lieferanten-tatbestand-beweis-und-belege
-description: "Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage im Vertragsrecht, insbesondere Mangel bei Gefahrübergang, Wareneingangskontrolle, § 377 HGB und Abgrenzung zur B2C-Beweislastumkehr nach § 477 BGB."
+description: "Wenn es um Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage in Vertragsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage

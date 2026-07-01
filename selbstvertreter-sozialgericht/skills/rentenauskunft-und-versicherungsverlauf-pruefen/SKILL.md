@@ -1,6 +1,6 @@
 ---
 name: rentenauskunft-und-versicherungsverlauf-pruefen
-description: "Rentenauskunft und Versicherungsverlauf prüfen: Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken prüfen Korrekturantrag stellen. Wichtig für EM-Rente Altersre..."
+description: "Wenn es um Rentenauskunft und Versicherungsverlauf prüfen in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rentenauskunft und Versicherungsverlauf prüfen

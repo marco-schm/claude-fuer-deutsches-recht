@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-akteneinsicht-147
-description: "Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag bei Staatsanwaltschaft oder Amtsgericht. Versagungsgründe § 147 Abs. 2 StPO. Akte im Strafbefehlsverfahren: Ermittlungsakte Messakte Bußgeldheft. Beschwerderecht § 147 Abs. 5 StPO. eAkte § 32f StPO im Strafbefehl Verteidiger."
+description: "Wenn es um Akteneinsicht im Strafbefehlsverfahren — Paragraf 147 StPO in Strafbefehl-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Akteneinsicht im Strafbefehlsverfahren — § 147 StPO

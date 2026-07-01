@@ -1,6 +1,6 @@
 ---
 name: mandatskuendigung-vor-frist-rechtsprechungscheck
-description: "Steuerberater: mandatskuendigung vor frist - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Mandatskuendigung Vor Frist Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: mandatskuendigung vor frist - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

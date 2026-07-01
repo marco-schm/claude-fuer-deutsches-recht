@@ -1,6 +1,6 @@
 ---
 name: excel-reiter-beteiligte-optional
-description: "Fuegt optional einen Reiter Beteiligte hinzu: Uebersicht aller Parteien mit Rolle, Funktion, Anteilen und Kontaktdaten. Vorbereitung fuer die spaetere Zustellung und Kommunikation."
+description: "Wenn es um Optionaler Reiter Beteiligte in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Optionaler Reiter Beteiligte

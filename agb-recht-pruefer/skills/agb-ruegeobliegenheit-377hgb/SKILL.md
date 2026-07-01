@@ -1,6 +1,6 @@
 ---
 name: agb-ruegeobliegenheit-377hgb
-description: "Klausel-Fachmodul für Rügeobliegenheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um Rügeobliegenheit in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Ruegeobliegenheit 377hgb; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Rügeobliegenheit

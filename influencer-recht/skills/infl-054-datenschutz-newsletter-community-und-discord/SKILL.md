@@ -1,6 +1,6 @@
 ---
 name: infl-054-datenschutz-newsletter-community-und-discord
-description: "Influencer-Recht: Datenschutz Newsletter Community und Discord mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Datenschutz Newsletter Community und Discord in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Datenschutz Newsletter Community und Discord

@@ -1,6 +1,6 @@
 ---
 name: tierschutz-formular-portal-und-einreichung
-description: "Tierschutz: Formular, Portal und Einreichungslogik: Tierschutz: Formular, Portal und Einreichungslogik."
+description: "Wenn es um Tierschutz: Formular, Portal und Einreichungslogik in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tierschutz: Formular, Portal und Einreichungslogik

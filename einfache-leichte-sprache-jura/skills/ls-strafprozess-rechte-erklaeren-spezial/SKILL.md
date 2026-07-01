@@ -1,6 +1,6 @@
 ---
 name: ls-strafprozess-rechte-erklaeren-spezial
-description: "Spezialfall Strafprozess-Rechte in Leichte Sprache erklaeren: § 136 StPO Belehrung, Recht zur Aussage und zum Schweigen, Pflichtverteidiger, Akteneinsicht. Mustertext und Prüfsiegel. Bedeutung für JVA-Insassen und Migrantinnen."
+description: "Wenn es um LS: Strafprozess-Rechte in Einfache und Leichte Sprache für juristische Texte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # LS: Strafprozess-Rechte

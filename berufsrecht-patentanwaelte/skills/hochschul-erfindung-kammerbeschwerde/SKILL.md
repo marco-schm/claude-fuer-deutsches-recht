@@ -1,6 +1,6 @@
 ---
 name: hochschul-erfindung-kammerbeschwerde
-description: "Patentanwälte: hochschul erfindung und ip policy - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Hochschul Erfindung Kammerbeschwerde in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Patentanwälte: hochschul erfindung und ip policy - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

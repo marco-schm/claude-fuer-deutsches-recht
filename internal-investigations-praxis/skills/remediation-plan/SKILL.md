@@ -1,6 +1,6 @@
 ---
 name: remediation-plan
-description: "Erstellt einen strukturierten Remediation-Plan nach Untersuchungsabschluss – Kontrolllücken, Compliance-Verbesserungen, Behörden-Reporting und Nachverfolgung im Internal Investigations Praxis."
+description: "Wenn es um Remediation-Plan nach Internal Investigation in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Remediation-Plan nach Internal Investigation

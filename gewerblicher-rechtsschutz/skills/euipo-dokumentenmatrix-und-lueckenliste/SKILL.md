@@ -1,6 +1,6 @@
 ---
 name: euipo-dokumentenmatrix-und-lueckenliste
-description: "EUIPO-Verfahren: Dokumentenmatrix und Lückenliste für Unionsmarken-Anmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerde. Welche Dokumente wann eingereicht werden müssen, was häufig fehlt und wie Lücken rechtzeitig geschlossen werden im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: EUIPO – Dokumentenmatrix und Lückenliste in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Spezial: EUIPO – Dokumentenmatrix und Lückenliste

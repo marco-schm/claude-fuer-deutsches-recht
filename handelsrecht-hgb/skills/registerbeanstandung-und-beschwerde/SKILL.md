@@ -1,6 +1,6 @@
 ---
 name: registerbeanstandung-und-beschwerde
-description: "Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht im Handelsrecht Hgb."
+description: "Wenn es um Registerbeanstandung und Beschwerde in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerbeanstandung und Beschwerde

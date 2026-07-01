@@ -1,6 +1,6 @@
 ---
 name: verwalterpflichten-26-27-weg
-description: "Prüft Verwalterbestellung, Abberufung, Verwaltervertrag, Aufgaben und Befugnisse nach §§ 26 und 27 WEG (Stand 05/2026), laufende Verwaltung, Eilmaßnahmen, Vertretung der GdWE und Haftung; berücksichtigt BGH V ZR 34/24 (keine Schutzwirkung des Verwaltervertrags) und V ZR 167/23 (Abrechnungsanspruc..."
+description: "Wenn es um Verwalterpflichten Paragrafen 26. 27 WEG in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verwalterpflichten §§ 26, 27 WEG

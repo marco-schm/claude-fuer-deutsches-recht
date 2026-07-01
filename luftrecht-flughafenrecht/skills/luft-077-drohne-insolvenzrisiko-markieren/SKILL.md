@@ -1,6 +1,6 @@
 ---
 name: luft-077-drohne-insolvenzrisiko-markieren
-description: "Luftrecht und Flughafenrecht: Drohne: Insolvenzrisiko markieren. Insolvenzrisiko markieren für Drohne im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Drohne Insolvenzrisiko Markieren in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drohne Insolvenzrisiko Markieren

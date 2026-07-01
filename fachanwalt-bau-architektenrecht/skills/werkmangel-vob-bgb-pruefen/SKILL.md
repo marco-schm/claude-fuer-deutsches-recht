@@ -1,6 +1,6 @@
 ---
 name: werkmangel-vob-bgb-pruefen
-description: "Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht prüfen: Abgrenzung und Parallelprüfung: Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfr..."
+description: "Wenn es um Werkmangel Vob BGB Pruefen in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht prüfen: Abgrenzung und Parallelprüfung

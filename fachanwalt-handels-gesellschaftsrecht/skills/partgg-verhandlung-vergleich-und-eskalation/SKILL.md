@@ -1,6 +1,6 @@
 ---
 name: partgg-verhandlung-vergleich-und-eskalation
-description: "Partgg: Verhandlung, Vergleich und Eskalation im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbe..."
+description: "Wenn es um Partgg Verhandlung Vergleich Und Eskalation in Fachanwalt Handels- und Gesellschaftsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Partgg: Verhandlung, Vergleich und Eskalation im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

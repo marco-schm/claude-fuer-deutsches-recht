@@ -1,6 +1,6 @@
 ---
 name: registergericht-und-datenschutz
-description: "Klärt öffentliche Registerdaten, sensible Anlagen, Schwärzungen, Anschriften und Löschungswünsche im Handelsregister Praxis."
+description: "Wenn es um Datenschutz im Registerverfahren in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz im Registerverfahren

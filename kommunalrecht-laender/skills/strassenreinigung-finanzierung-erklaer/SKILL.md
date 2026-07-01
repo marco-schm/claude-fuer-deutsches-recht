@@ -1,6 +1,6 @@
 ---
 name: strassenreinigung-finanzierung-erklaer
-description: "der Länder: Straßenreinigung: Finanzierung erklären im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Strassenreinigung Finanzierung Erklaer in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strassenreinigung Finanzierung Erklaer

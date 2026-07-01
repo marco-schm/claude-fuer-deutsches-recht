@@ -1,6 +1,6 @@
 ---
 name: zielgruppe-zahlen-schwellen-und-berechnung
-description: "Zielgruppe: Zahlen, Schwellenwerte und Berechnung: Zielgruppe: Zahlen, Schwellenwerte und Berechnung."
+description: "Wenn es um Zielgruppe: Zahlen, Schwellenwerte und Berechnung in Einfache und Leichte Sprache für juristische Texte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Zielgruppe: Zahlen, Schwellenwerte und Berechnung

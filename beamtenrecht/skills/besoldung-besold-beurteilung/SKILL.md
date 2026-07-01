@@ -1,6 +1,6 @@
 ---
 name: besoldung-besold-beurteilung
-description: "Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung im Beamtenrecht."
+description: "Wenn es um Besold Beurteilung Plausibilisierung Und Anlassbeurteilu in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besold Beurteilung Plausibilisierung Und Anlassbeurteilu

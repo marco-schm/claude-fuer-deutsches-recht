@@ -1,6 +1,6 @@
 ---
 name: befristungsabrede-qes-rechtsprechung
-description: "Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Schriftform Und Textform Bgb."
+description: "Wenn es um Red-Team Qualitygate in Schriftform und Textform im BGB geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team Qualitygate

@@ -1,6 +1,6 @@
 ---
 name: sachenrecht-eigentum-besitz
-description: "PrALR: Eigentum, Besitz, dingliche Rechte, Nutzungen, Nachbarrechte und Eigentumsbindungen historisch prüfen."
+description: "Wenn es um Sachenrecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sachenrecht Eigentum Besitz; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Sachenrecht

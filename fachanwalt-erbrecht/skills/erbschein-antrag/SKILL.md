@@ -1,6 +1,6 @@
 ---
 name: erbschein-antrag
-description: "Erbschein beantragen wenn Erbfolge nachgewiesen werden muss: §§ 2353 2356 BGB Erbschein §§ 352 353 FamFG Verfahren. Prüfraster: Erbscheinsart gesetzliche oder testamentarische Erbfolge Quoten Vorl..."
+description: "Wenn es um Erbschein beantragen wenn Erbfolge nachgewiesen werden muss in Fachanwalt Erbrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Erbschein beantragen wenn Erbfolge nachgewiesen werden muss

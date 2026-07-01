@@ -1,6 +1,6 @@
 ---
 name: gesetzesverbot-sittenwidrigkeit-paragraphen-134-138
-description: "Prüft Nichtigkeit wegen Gesetzesverstoß und Sittenwidrigkeit nach §§ 134 und 138 BGB mit Verbotszweck, Gesamtwürdigung, Teilnichtigkeit und Rückabwicklung."
+description: "Wenn es um Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138 in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138

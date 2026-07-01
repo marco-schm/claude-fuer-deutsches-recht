@@ -1,6 +1,6 @@
 ---
 name: ressort-bmg
-description: "Heranfuehrung Ressort BMG (Bundesministerium für Gesundheit). Schwerpunkt: Arzneimittel; gesetzliche Krankenversicherung; Infektionsschutz; Heilberufe; Krankenhaus. Kernnormen: AMG; MPG; MPDG; SGB V; SGB XI; IfSG; BApO; KHG; KHEntgG. Fuenf Spezialfelder: arzneimittel-und-medizinprodukterecht; kra..."
+description: "Wenn es um Ressort-Heranfuehrung BMG in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressort-Heranfuehrung BMG

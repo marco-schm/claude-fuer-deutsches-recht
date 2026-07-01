@@ -1,6 +1,6 @@
 ---
 name: review-behoerden-gericht-und-registerweg
-description: "Review: Behörden-, Gerichts- oder Registerweg im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Review: Behörden-, Gerichts- oder Registerweg in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Review: Behörden-, Gerichts- oder Registerweg

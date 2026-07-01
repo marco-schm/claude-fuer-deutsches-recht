@@ -1,6 +1,6 @@
 ---
 name: vvg-obliegenheit-28-quotelung-kausalitaet
-description: "§ 28 VVG nach Eintritt des Versicherungsfalls: Anzeige, Aufklärung, Rettung, Mitwirkung, Kausalitätsgegenbeweis, Vorsatz/grobe Fahrlässigkeit und Quotierung im Versicherungsrecht."
+description: "Wenn es um Obliegenheitsverletzung Paragraf 28 VVG und Quotierung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Obliegenheitsverletzung § 28 VVG und Quotierung

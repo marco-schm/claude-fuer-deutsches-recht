@@ -1,6 +1,6 @@
 ---
 name: ruege-vor-zuschlag
-description: "Vergaberechtliche Ruege nach § 160 Abs: 3 GWB vor Zuschlag erheben: Bieter hat Vergabeverstoesse erkannt und muss rügen bevor Zuschlag erteilt wird. Normen: § 160 Abs. 3 GWB (Ruegerobliegenheit als Praeklusionsvorauss..."
+description: "Wenn es um Vergaberechtliche Ruege nach Paragraf 160 Abs in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vergaberechtliche Ruege nach § 160 Abs

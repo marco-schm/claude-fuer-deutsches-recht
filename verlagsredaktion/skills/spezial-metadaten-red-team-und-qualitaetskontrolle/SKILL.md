@@ -1,6 +1,6 @@
 ---
 name: spezial-metadaten-red-team-und-qualitaetskontrolle
-description: "Metadaten: Red-Team und Qualitätskontrolle im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Metadaten: Red-Team und Qualitätskontrolle in Verlagsredaktion geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Metadaten: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: bereits-abschlussprodukt-uebergabe
-description: "Bereits: Abschlussprodukt und Übergabe: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4...."
+description: "Wenn es um Bereits: Abschlussprodukt und Übergabe in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bereits Abschlussprodukt Uebergabe; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Bereits: Abschlussprodukt und Übergabe

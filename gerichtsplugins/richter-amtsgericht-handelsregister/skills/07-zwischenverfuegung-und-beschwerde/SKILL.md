@@ -1,6 +1,6 @@
 ---
 name: 07-zwischenverfuegung-und-beschwerde
-description: "Zwischenverfuegung Paragraf 382 FamFG, Frist setzen, Hinweisbeschluss; Beschwerde Paragrafen 58-72 FamFG, Abhilfe; Rechtsbeschwerde Paragrafen 70 ff."
+description: "Wenn es um 07 Zwischenverfügung und Beschwerde in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 07 Zwischenverfügung und Beschwerde

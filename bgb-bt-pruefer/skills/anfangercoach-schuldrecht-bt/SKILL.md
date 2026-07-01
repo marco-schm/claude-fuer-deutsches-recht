@@ -1,6 +1,6 @@
 ---
 name: anfangercoach-schuldrecht-bt
-description: "Lerncoach für Schuldrecht BT: Erklärungsebenen, Klausuraufbau, Fallübungen und Selbsttest."
+description: "Wenn es um Workflow: Anfängercoach Schuldrecht BT in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfangercoach Schuldrecht Bt; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Workflow: Anfängercoach Schuldrecht BT

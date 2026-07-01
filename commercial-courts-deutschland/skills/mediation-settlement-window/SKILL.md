@@ -1,6 +1,6 @@
 ---
 name: mediation-settlement-window
-description: "Findet Vergleichsfenster, Mediation, judicial settlement signals und Prozessvergleichsstrategie in Commercial-Court-Verfahren im Commercial Courts Deutschland."
+description: "Wenn es um Mediation and Settlement Window in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Mediation and Settlement Window

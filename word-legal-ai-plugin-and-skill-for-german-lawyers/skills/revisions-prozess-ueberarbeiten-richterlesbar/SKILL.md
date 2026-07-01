@@ -1,6 +1,6 @@
 ---
 name: revisions-prozess-ueberarbeiten-richterlesbar
-description: "Markup-zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Versionen ein Redline-Dokument. Konventionen: Einfügungen in Rot und unterstrichen; Streichungen in Rot und durchgestrichen; Kommentare am Rand. Versionierung v0 eigener Erstentwurf bis v3 eigene Reaktion. Tracked Changes gegen Clean..."
+description: "Wenn es um Revisions-Prozess: Redlines und Compare-Workflow in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Revisions-Prozess: Redlines und Compare-Workflow

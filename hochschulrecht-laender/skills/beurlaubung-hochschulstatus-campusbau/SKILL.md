@@ -1,6 +1,6 @@
 ---
 name: beurlaubung-hochschulstatus-campusbau
-description: "Prüft Urlaubssemester, Beitragsstatus, Prüfungsrechte, BAföG und Exmatrikulationsrisiken im Hochschulrecht Länder."
+description: "Wenn es um Beurlaubung und Hochschulstatus in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beurlaubung und Hochschulstatus

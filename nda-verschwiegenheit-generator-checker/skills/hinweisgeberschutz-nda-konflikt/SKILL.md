@@ -1,6 +1,6 @@
 ---
 name: hinweisgeberschutz-nda-konflikt
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Hinweisgeberschutz NDA Konflikt; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Hinweisgeberschutz NDA Konflikt in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Hinweisgeberschutz NDA Konflikt

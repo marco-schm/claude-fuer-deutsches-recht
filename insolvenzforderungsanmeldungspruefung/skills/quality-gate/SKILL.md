@@ -1,6 +1,6 @@
 ---
 name: quality-gate
-description: "Qualitätsgate vor Tabelleneintrag Prüfungstermin und Verteilung: Anwendungsfall alle Prüfschritte wurden durchgeführt und jetzt muss vor Versand oder Eintrag nochmals Vollständigkeit Plausibilitaet und Risiken geprüft werden. § 175 InsO Tabelle, § 176 InsO Prüfungstermin, § 189 InsO Verteilung. P..."
+description: "Wenn es um Qualitätsgate und Plausibilitätskontrolle in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Qualitätsgate und Plausibilitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: einmalig-vs-jaehrlich-laufend
-description: "Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen für Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen."
+description: "Wenn es um NKR-Einmalig vs. jaehrlich laufend in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # NKR-Einmalig vs. jaehrlich laufend

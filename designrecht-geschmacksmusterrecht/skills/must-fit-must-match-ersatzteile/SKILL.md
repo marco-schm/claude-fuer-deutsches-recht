@@ -1,6 +1,6 @@
 ---
 name: must-fit-must-match-ersatzteile
-description: "Must-fit, must-match und Ersatzteilfragen prüfen: technische Verbindung, komplexes Erzeugnis, Reparaturzweck, Originalerscheinung und Aftermarket im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Must Fit Must Match Ersatzteile in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Must Fit Must Match Ersatzteile

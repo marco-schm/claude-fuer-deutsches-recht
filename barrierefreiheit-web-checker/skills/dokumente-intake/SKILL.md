@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Barrierefreiheit Web BFSG/WCAG: sortiert Konformitätserklärung, Auditbericht, Screenshots, prüft Datum, Absender, Frist und Beweiswert (Audit-Tools axe/Lighthouse, Manuelle Tests); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

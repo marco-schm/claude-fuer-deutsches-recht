@@ -1,6 +1,6 @@
 ---
 name: bmf-finanzmarktaufsicht-bafin-kwg-wpig
-description: "Sachbereich Finanzmarktaufsicht (BaFin; KWG; WpIG) im Geschäftsbereich BMF: Normbestand (KWG; ZAG; WpIG; WpHG; KAGB; VAG; FinDAG; FinStabG; SAG; BörsG.); Akteure (BaFin; Deutsche Bundesbank; ESMA; EBA; EIOPA; FSB.); EU-Bezug (CRR; CRD; MiFID II; AIFMD; UCITS; PSD2 und PSD3; DORA; MiCA.); typisch..."
+description: "Wenn es um Finanzmarktaufsicht (BaFin; KWG; WpIG) (BMF) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Finanzmarktaufsicht (BaFin; KWG; WpIG) (BMF)

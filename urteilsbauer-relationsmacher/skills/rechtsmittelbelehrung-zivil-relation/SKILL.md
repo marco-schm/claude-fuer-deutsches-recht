@@ -1,6 +1,6 @@
 ---
 name: rechtsmittelbelehrung-zivil-relation
-description: "Rechtsmittelbelehrung Zivil: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Urteilsbauer Relationsmacher."
+description: "Wenn es um Rechtsmittelbelehrung Zivil in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechtsmittelbelehrung Zivil Relation; Arbeitsfeld: Urteilsbauer und Relationsmacher."
 ---
 
 # Rechtsmittelbelehrung Zivil

@@ -1,6 +1,6 @@
 ---
 name: formalismus-und-begriffszauber-kritik
-description: "Erkennt formale und begriffsjuristische Scheinloesungen, ohne Systematik und Dogmatik vorschnell zu verachten."
+description: "Wenn es um Formalismus und Begriffszauber in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Formalismus und Begriffszauber

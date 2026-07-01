@@ -1,6 +1,6 @@
 ---
 name: funkanlagen-und-konnektivitaet
-description: "Prüft Funkmodule, WLAN, 5G, Bluetooth, RED, EMV, Cybersecurity und Betriebsumgebung."
+description: "Wenn es um Funkanlagen und Konnektivität in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Funkanlagen und Konnektivität

@@ -1,6 +1,6 @@
 ---
 name: chapter12-family-farmer
-description: "Prüft Chapter 12 eligibility, seasonal income, plan treatment, secured claims and agricultural/fishing operations im US Bankruptcy Code."
+description: "Wenn es um Chapter 12 Family Farmer Fisherman in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chapter 12 Family Farmer Fisherman

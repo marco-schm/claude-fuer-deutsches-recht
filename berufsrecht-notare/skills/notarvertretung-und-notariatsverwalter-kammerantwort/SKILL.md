@@ -1,6 +1,6 @@
 ---
 name: notarvertretung-und-notariatsverwalter-kammerantwort
-description: "Notare: notarvertretung und notariatsverwalter - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Notarvertretung Und Notariatsverwalter Kammerantwort in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Notare: notarvertretung und notariatsverwalter - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

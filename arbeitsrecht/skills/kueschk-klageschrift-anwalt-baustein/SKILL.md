@@ -1,6 +1,6 @@
 ---
 name: kueschk-klageschrift-anwalt-baustein
-description: "Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen: Weiterbeschaeftigungsantrag; Anlagen-Checkliste; strukturierte Begründung nac..."
+description: "Wenn es um Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen

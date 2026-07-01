@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v403.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v406.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstürzt oder die Seite endlos neu lädt.
 
@@ -171,7 +171,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [rechtstheorie-rechtsphilosophie](./rechtstheorie-rechtsphilosophie.md) (65 Skills)
 - [regulatorisches-recht](./regulatorisches-recht.md) (61 Skills)
 - [relationstechnik-zivilrecht](./relationstechnik-zivilrecht.md) (22 Skills)
-- [rentenpruefer](./rentenpruefer.md) (51 Skills)
+- [rentenpruefer](./rentenpruefer.md) (71 Skills)
 - [richter-amtsgericht-handelsregister](./richter-amtsgericht-handelsregister.md) (12 Skills)
 - [richter-amtsgericht-insolvenz-restrukturierung](./richter-amtsgericht-insolvenz-restrukturierung.md) (12 Skills)
 - [richter-amtsgericht-straf](./richter-amtsgericht-straf.md) (13 Skills)

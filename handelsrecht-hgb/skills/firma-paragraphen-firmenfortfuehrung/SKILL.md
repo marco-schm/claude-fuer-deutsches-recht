@@ -1,6 +1,6 @@
 ---
 name: firma-paragraphen-firmenfortfuehrung
-description: "Prüft Firmenbildung, Kennzeichnungskraft, Irreführung, Rechtsformzusatz und Geschäftsbriefe im Handelsrecht Hgb."
+description: "Wenn es um Firma Paragrafen 17 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Firma §§ 17 ff. HGB

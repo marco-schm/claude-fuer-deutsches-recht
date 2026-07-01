@@ -1,6 +1,6 @@
 ---
 name: plattformverhaeltnis
-description: "Prüft digitale Plattformen als Auftraggeber, Vermittler oder Algorithmus-Steuerer im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Plattformverhältnis in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Plattformverhältnis

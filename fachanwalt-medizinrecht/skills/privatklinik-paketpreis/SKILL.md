@@ -1,6 +1,6 @@
 ---
 name: privatklinik-paketpreis
-description: "Privatklinik Paketpreis: moderner Medizinrechts-Skill für Pauschalangebot, GOÄ, Wahlleistung, IGeL, Kostentransparenz und Rückforderung: Privatklinik Paketpreis: moderner Medizinrechts-Skill für Pauschalangebot, GOÄ, Wahlleistung, IGeL, Kostentransparenz un..."
+description: "Wenn es um Privatklinik Paketpreis in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Privatklinik Paketpreis: moderner Medizinrechts-Skill für Pauschalangebot, GOÄ, Wahlleistung, IGeL, Kostentransparenz und Rückforderung

@@ -1,6 +1,6 @@
 ---
 name: luft-116-bodenabfertigung-sicherheitsauflage-be
-description: "Luftrecht und Flughafenrecht: Bodenabfertigung: Sicherheitsauflage bewerten. Sicherheitsauflage bewerten für Bodenabfertigung im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bodenabfertigung Sicherheitsauflage Be in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bodenabfertigung Sicherheitsauflage Be

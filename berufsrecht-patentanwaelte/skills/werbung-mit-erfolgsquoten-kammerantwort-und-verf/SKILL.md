@@ -1,6 +1,6 @@
 ---
 name: werbung-mit-erfolgsquoten-kammerantwort-und-verf
-description: "Patentanwälte: werbung mit erfolgsquoten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Werbung Mit Erfolgsquoten Kammerantwort Und Verf in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Patentanwälte: werbung mit erfolgsquoten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

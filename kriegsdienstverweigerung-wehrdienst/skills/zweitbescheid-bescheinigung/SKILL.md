@@ -1,6 +1,6 @@
 ---
 name: zweitbescheid-bescheinigung
-description: "Formuliert Antrag auf Bestätigung oder Zweitausfertigung einer früheren Anerkennung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Zweitausfertigung Bescheinigung in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zweitausfertigung Bescheinigung

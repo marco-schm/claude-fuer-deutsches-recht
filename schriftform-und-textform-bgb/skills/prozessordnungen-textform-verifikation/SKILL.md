@@ -1,6 +1,6 @@
 ---
 name: prozessordnungen-textform-verifikation
-description: "Prozessordnungen: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Prozessordnungen: Behörden-, Gerichts- oder Registerweg in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prozessordnungen: Behörden-, Gerichts- oder Registerweg

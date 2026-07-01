@@ -1,6 +1,6 @@
 ---
 name: registerrecht-mandatsannahme-notarferne
-description: "Klärt Rolle der anwaltlichen Beratung neben Notar, Verantwortungsgrenzen und Mandantensteuerung im Handelsregister Praxis."
+description: "Wenn es um Kanzlei ohne Notarvollzug in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzlei ohne Notarvollzug

@@ -1,6 +1,6 @@
 ---
 name: inso-p259-wirkungen-der-aufhebung
-description: "§ 259 InsO (Wirkungen der Aufhebung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 259 InsO (Wirkungen der Aufhebung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Friste..."
+description: "Wenn es um Inso P259 Wirkungen Der Aufhebung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 259 InsO (Wirkungen der Aufhebung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

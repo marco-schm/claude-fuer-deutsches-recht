@@ -1,6 +1,6 @@
 ---
 name: dba-kroatien
-description: "DBA Deutschland Kroatien 2006. Anwendungsfall Tourismus Mittelstand Beteiligungen. EU-MTRL seit 2013. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Kroatien (2006) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Kroatien (2006)

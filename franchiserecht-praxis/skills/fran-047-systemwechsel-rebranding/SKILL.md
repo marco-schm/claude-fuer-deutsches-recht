@@ -1,6 +1,6 @@
 ---
 name: fran-047-systemwechsel-rebranding
-description: "Franchiserecht: Systemwechsel Rebranding mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Systemwechsel Rebranding in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Systemwechsel Rebranding

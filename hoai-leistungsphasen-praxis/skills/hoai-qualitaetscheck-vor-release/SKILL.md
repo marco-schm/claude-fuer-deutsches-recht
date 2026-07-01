@@ -1,6 +1,6 @@
 ---
 name: hoai-qualitaetscheck-vor-release
-description: "HOAI-Praxis: prüft, ob ein Plan-/Vergabe-/Baupaket an die nächste Stelle darf; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren."
+description: "Wenn es um HOAI Querschnitt: Prüft in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # HOAI Querschnitt: Prüft

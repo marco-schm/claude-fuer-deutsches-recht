@@ -1,6 +1,6 @@
 ---
 name: gerichtliches-disziplinarverfahren-soldat
-description: "Gerichtliches Disziplinarverfahren TDG: prüft Einleitungsverfügung, Verfahrensrechte, Beweisführung und Berufung. Norm-/Quellenanker: WDO §§ 58–106 im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Gerichtliches Disziplinarverfahren (TDG/BVerwG) in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gerichtliches Disziplinarverfahren (TDG/BVerwG)

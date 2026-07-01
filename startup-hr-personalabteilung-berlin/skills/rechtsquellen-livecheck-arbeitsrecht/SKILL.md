@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-livecheck-arbeitsrecht
-description: "Berliner Start-up-HR: Livecheck für Arbeitsrecht, Datenschutz und Sozialversicherung: Normen, Rechtsprechung, keine Blindzitate, Updatebedarf. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt."
+description: "Wenn es um Rechtsquellen Livecheck Arbeitsrecht Datenschutz in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Rechtsquellen Livecheck Arbeitsrecht Datenschutz

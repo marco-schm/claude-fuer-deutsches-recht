@@ -1,6 +1,6 @@
 ---
 name: alleinvertreter
-description: "Prüft Alleinvertretung und Exklusivität. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Alleinvertreter in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Alleinvertreter

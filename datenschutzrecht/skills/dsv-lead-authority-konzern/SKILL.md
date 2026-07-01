@@ -1,6 +1,6 @@
 ---
 name: dsv-lead-authority-konzern
-description: "Bestimmt die federführende Aufsichtsbehörde bei grenzüberschreitender Verarbeitung im Konzern nach Art: 56 DSGVO. Behandelt: Hauptniederlassung; entschei"
+description: "Wenn es um Dsv Lead Authority Konzern in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bestimmt die federführende Aufsichtsbehörde bei grenzüberschreitender Verarbeitung im Konzern nach Art

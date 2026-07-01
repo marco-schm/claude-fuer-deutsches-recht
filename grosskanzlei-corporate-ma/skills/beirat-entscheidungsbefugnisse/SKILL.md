@@ -1,6 +1,6 @@
 ---
 name: beirat-entscheidungsbefugnisse
-description: "Prüft Beiratsfragen zu Entscheidungsbefugnisse: Zuständigkeit, Satzungsgrundlage, Beschlussweg, Haftung, Belege, Gegenargumente und verwertbaren Output."
+description: "Wenn es um Beirat Entscheidungsbefugnisse in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Entscheidungsbefugnisse

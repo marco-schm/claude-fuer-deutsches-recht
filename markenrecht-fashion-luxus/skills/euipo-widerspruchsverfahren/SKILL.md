@@ -1,6 +1,6 @@
 ---
 name: euipo-widerspruchsverfahren
-description: "EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Beschwerdekammer BoA). Prüfraster: Widerspruchsfristen (3 Monate ab Veröf..."
+description: "Wenn es um EUIPO-Widerspruchsverfahren in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EUIPO-Widerspruchsverfahren

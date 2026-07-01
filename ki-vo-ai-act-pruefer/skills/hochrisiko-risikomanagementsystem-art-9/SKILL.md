@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-risikomanagementsystem-art-9
-description: "Anbieter von Hochrisiko-KI fragt: Wie setzen wir ein KI-VO-konformes Risikomanagementsystem auf und was muss es enthalten? Art. 9 KI-VO Risikomanagementsystem. Prüfraster: kontinuierlicher iterativer Prozess Risikoidentifikation Risikoabschaetzung Risikominderungsmassnahmen Restrisiko-Bewertung u..."
+description: "Wenn es um Risikomanagementsystem — Art. 9 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Risikomanagementsystem — Art. 9 KI-VO

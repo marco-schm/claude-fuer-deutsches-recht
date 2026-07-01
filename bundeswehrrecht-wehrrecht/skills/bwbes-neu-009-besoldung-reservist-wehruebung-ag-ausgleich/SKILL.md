@@ -1,6 +1,6 @@
 ---
 name: bwbes-neu-009-besoldung-reservist-wehruebung-ag-ausgleich
-description: "Bundeswehrrecht: Besoldung Reservist Wehrübung und Arbeitgeberausgleich mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Bundeswehrrecht: Besoldung Reservist Wehrübung und Arbeitgeberausgleich in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bundeswehrrecht: Besoldung Reservist Wehrübung und Arbeitgeberausgleich

@@ -1,6 +1,6 @@
 ---
 name: youtube-uploader-paragraf-97-urhg-eugh-c-682-18
-description: "Youtube Uploader Paragraf 97 Urhg EuGH C 682 18: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Youtube Uploader Paragraf 97 Urhg EuGH C 682 18 in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Youtube Uploader Paragraf 97 Urhg EuGH C 682 18

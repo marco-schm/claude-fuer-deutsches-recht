@@ -1,6 +1,6 @@
 ---
 name: kueschk-kuendigungsgrund-personen-verhalten-betrieb
-description: "Drei Kündigungsgründe nach Paragraf 1 Absatz 2 KSchG: betriebsbedingt mit Sozialauswahl; verhaltensbedingt mit Abmahnungserfordernis; personenbedingt mit Negativprognose; Sonderkündigungsschutz als Querverweis; strukturierte Abfra..."
+description: "Wenn es um Drei Kündigungsgründe nach Paragraf 1 Abs in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drei Kündigungsgründe nach Paragraf 1 Abs

@@ -1,6 +1,6 @@
 ---
 name: behandlungsfehler-pruefen
-description: "Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer Standard: Diagnosefehler Therapiefehler Befunderhebungsfehler Hygienefehler. Beweisregeln § 630h BGB Vermutung Kausalität bei g..."
+description: "Wenn es um Behandlungsfehler Paragrafen 630a 630h BGB Verletzung medizinischer Standard in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer Standard

@@ -1,6 +1,6 @@
 ---
 name: nosokomiale-infektion-hygiene
-description: "Nosokomiale Infektion und Hygiene: moderner Medizinrechts-Skill für Hygienemangel, MRSA/CRE, OP-Saal, Aufbereitung, voll beherrschbares Risiko: Nosokomiale Infektion und Hygiene: moderner Medizinrechts-Skill für Hygienemangel, MRSA/CRE, OP-Saal, Aufbereitun..."
+description: "Wenn es um Nosokomiale Infektion Hygiene in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nosokomiale Infektion und Hygiene: moderner Medizinrechts-Skill für Hygienemangel, MRSA/CRE, OP-Saal, Aufbereitung, voll beherrschbares Risiko

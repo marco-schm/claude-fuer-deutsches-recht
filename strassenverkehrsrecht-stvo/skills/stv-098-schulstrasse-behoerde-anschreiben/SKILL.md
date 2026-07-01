@@ -1,6 +1,6 @@
 ---
 name: stv-098-schulstrasse-behoerde-anschreiben
-description: "Straßenverkehrsrecht StVO: Schulstraße: Behörde anschreiben. Behörde anschreiben für Schulstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schulstrasse Behoerde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulstrasse Behoerde Anschreiben

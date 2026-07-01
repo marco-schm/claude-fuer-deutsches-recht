@@ -1,6 +1,6 @@
 ---
 name: infl-009-scheinselbststaendigkeit-creator-management-team
-description: "Influencer-Recht: Scheinselbstständigkeit Creator Management Team mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Scheinselbstständigkeit Creator Management Team in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Scheinselbstständigkeit Creator Management Team

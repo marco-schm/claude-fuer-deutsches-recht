@@ -1,6 +1,6 @@
 ---
 name: restrukturierungsplan
-description: "Fachanwalt Insolvenz Sanierungsrecht Restrukturierungsplan: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Insolvenz Sanierungsrecht Restrukturierungsplan: ordnet Normen, Nutzerangaben..."
+description: "Wenn es um Restrukturierungsplan in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Insolvenz Sanierungsrecht Restrukturierungsplan: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

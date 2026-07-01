@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-negative-zahlen-schwellenwerte-berechnung
-description: "Negative: Zahlen, Schwellenwerte und Berechnung im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Negative: Zahlen, Schwellenwerte und Berechnung in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Negative: Zahlen, Schwellenwerte und Berechnung

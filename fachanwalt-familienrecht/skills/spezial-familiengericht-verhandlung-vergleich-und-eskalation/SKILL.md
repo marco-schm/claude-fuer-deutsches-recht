@@ -1,6 +1,6 @@
 ---
 name: spezial-familiengericht-verhandlung-vergleich-und-eskalation
-description: "Familiengericht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Familiengericht: Verhandlung, Vergleich und Eskalation in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Familiengericht: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: dap-dpu-ddp
-description: "Internationales Handelsrecht: Ankunftsklauseln DAP, DPU und DDP nach Incoterms 2020. Gefahrübergang am Bestimmungsort, Entladepflicht (DPU), Verzollungspflicht (DDP), Risiken für Verkäufer und steuerrechtliche Implikationen im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um DAP, DPU, DDP: Ankunftsklauseln in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DAP, DPU, DDP: Ankunftsklauseln

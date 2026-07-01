@@ -1,6 +1,6 @@
 ---
 name: risikoregister-sachverstaendigen-pruefung-04
-description: "HOAI LPH 2 Vorplanung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 2 Vorplanung: Baut risiko- in HOAI Leistungsphasen Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # LPH 2 Vorplanung: Baut risiko-

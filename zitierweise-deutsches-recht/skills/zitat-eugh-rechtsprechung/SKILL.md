@@ -1,6 +1,6 @@
 ---
 name: zitat-eugh-rechtsprechung
-description: "EuGH-Rechtsprechung zitieren: Urt./Beschl., Datum, Rs. C-Nummer, Parteinamen, ECLI. Beispiel EuGH, Urt. v. 04.07.2019 - C-377/17, Kommission/Deutschland, ECLI:EU:C:2019:562. Bei Generalanwalts-Schlussantraegen: GA-Anfang."
+description: "Wenn es um EuGH-Rechtsprechung zitieren in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EuGH-Rechtsprechung zitieren

@@ -1,6 +1,6 @@
 ---
 name: ernennung-dienstgrad-laufbahnrecht
-description: "Ernennung, Dienstgrad, Laufbahnrecht: prüft SG §§ 1–5, Laufbahngruppen, Beförderungsvoraussetzungen und Konkurrentenklage. Norm-/Quellenanker: SG, SLV, ZDv A-1340 im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Ernennung, Dienstgrad und Laufbahnrecht in Bundeswehrrecht und Wehrrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ernennung, Dienstgrad und Laufbahnrecht

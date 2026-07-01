@@ -1,6 +1,6 @@
 ---
 name: bt-vertragsentwurf-modellvertrag
-description: "Erstellt und prüft Vertragsentwürfe im Schuldrecht BT: Kaufvertrag, Mietvertrag, Werkvertrag, Auftrag und AGB-Schnittstelle."
+description: "Wenn es um BT-Vertragsentwurf und Modellvertrag in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BT-Vertragsentwurf und Modellvertrag

@@ -1,6 +1,6 @@
 ---
 name: drg-102-funktionseliten-und-juristische-karrieren
-description: "Untersucht Karrieremuster juristischer Eliten in Diktaturen und Nachfolgestaaten: Examenselite, Verwaltungsmacht, Sicherheitsapparat, Wissenschaft, Wirtschaft und spätere Selbstbeschreibung."
+description: "Wenn es um Funktionseliten und juristische Karrieren in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 # Funktionseliten und juristische Karrieren
 

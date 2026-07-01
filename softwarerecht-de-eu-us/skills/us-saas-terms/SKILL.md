@@ -1,6 +1,6 @@
 ---
 name: us-saas-terms
-description: "Entwirft US-SaaS-Terms mit subscription, acceptable use, data, uptime, indemnity, limitation of liability und order forms im Softwarerecht De Eu Us."
+description: "Wenn es um US SaaS Terms in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # US SaaS Terms

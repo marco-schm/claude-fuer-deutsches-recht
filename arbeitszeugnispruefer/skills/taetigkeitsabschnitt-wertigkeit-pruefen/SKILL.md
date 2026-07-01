@@ -1,6 +1,6 @@
 ---
 name: taetigkeitsabschnitt-wertigkeit-pruefen
-description: Pruefung des Taetigkeitsabschnitts eines Arbeitszeugnisses auf Vollstaendigkeit der Aufgabenbeschreibung und Erkennung des Schaufenster-Musters als Kontrast zwischen umfangreichem Aufgabenkatalog und schwacher Leistungsformel.
+description: "Wenn es um Taetigkeitsabschnitt und Wertigkeit pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Taetigkeitsabschnitt und Wertigkeit pruefen

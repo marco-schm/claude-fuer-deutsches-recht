@@ -1,6 +1,6 @@
 ---
 name: untaetigkeitsklage-88-sgg
-description: "Die Untätigkeitsklage nach § 88 SGG. Wenn die Behörde nichts tut nach 6 Monaten oder Widerspruchsbehoerde nach 3 Monaten. Mustertext und Praxis für Buerger."
+description: "Wenn es um Wenn die Behörde nichts tut — Untaetigkeitsklage Paragraf 88 SGG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Wenn die Behörde nichts tut — Untaetigkeitsklage § 88 SGG

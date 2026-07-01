@@ -1,6 +1,6 @@
 ---
 name: nationale-weltraumregister-eintragung-und-nachweise
-description: "Eintragung in nationales Weltraumregister – Nachweise, Fehler, Wirkungen, Haftungsfolgen im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Nationale Weltraumregister: Eintragung und Nachweise in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Nationale Weltraumregister: Eintragung und Nachweise

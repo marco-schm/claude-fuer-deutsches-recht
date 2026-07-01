@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Europarecht-Kompass: sortiert Klageschrift EuGH, Vorlagebeschluss nationaler Gerichte, Kommissions-Mitteilung, prüft Datum, Absender, Frist und Beweiswert (Marktstudien, Verwaltungspraxis); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

@@ -1,6 +1,6 @@
 ---
 name: archivrecht-antrag-formulieren
-description: "Informationsfreiheit und Presseauskunft: Archivrecht: Antrag formulieren im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Archivrecht Antrag Formulieren in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Archivrecht Antrag Formulieren

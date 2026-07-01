@@ -1,6 +1,6 @@
 ---
 name: one-page-roadmap
-description: "Erstellt eine einseitige Roadmap von Idee bis Eintragung und operativem Start im Gesellschaftsgruender."
+description: "Wenn es um One-Page-Gründungsroadmap in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # One-Page-Gründungsroadmap

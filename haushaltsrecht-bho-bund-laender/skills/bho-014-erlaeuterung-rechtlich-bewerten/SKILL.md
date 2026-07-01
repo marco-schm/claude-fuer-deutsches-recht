@@ -1,6 +1,6 @@
 ---
 name: bho-014-erlaeuterung-rechtlich-bewerten
-description: "Haushaltsrecht BHO Bund und Länder: Erläuterung rechtlich bewerten. Erläuterung rechtlich bewerten im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Erlaeuterung Rechtlich Bewerten in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erlaeuterung Rechtlich Bewerten

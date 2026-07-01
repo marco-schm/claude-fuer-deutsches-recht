@@ -1,6 +1,6 @@
 ---
 name: zit-internationale-kommentar-zitat
-description: "Spezialfall Zitierung internationaler Urteile EuGH EGMR sowie Common-Law-Urteile: ECLI, Neutral Citation, Public Domain. Prüfraster für internationale Mandate im Zitierweise."
+description: "Wenn es um Zit: Internationale Urteile in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zit Internationale Kommentar Zitat; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Zit: Internationale Urteile

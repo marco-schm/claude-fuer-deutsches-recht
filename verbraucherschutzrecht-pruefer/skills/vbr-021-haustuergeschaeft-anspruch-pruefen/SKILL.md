@@ -1,6 +1,6 @@
 ---
 name: vbr-021-haustuergeschaeft-anspruch-pruefen
-description: "Verbraucherschutzrecht Prüfer: Haustürgeschäft: Anspruch prüfen. Anspruch prüfen für Haustürgeschäft im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Haustuergeschaeft Anspruch Pruefen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haustuergeschaeft Anspruch Pruefen

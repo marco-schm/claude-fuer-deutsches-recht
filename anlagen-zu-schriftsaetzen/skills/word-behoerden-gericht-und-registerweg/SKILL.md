@@ -1,6 +1,6 @@
 ---
 name: word-behoerden-gericht-und-registerweg
-description: "Bereitet Word-, PDF- und Scan-Anlagen für Gerichts- oder Behördenwege vor: Konvertierung, Lesezeichen, PDF/A, Dateiname, Deckblatt im Anlagen zu Schriftsätzen."
+description: "Wenn es um Word/PDF-Umwandlung für Gericht und Behörden in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Word/PDF-Umwandlung für Gericht und Behörden

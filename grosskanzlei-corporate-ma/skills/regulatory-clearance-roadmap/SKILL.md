@@ -1,6 +1,6 @@
 ---
 name: regulatory-clearance-roadmap
-description: Erstellt eine Freigabe-Roadmap für Kartellrecht, Außenwirtschaft, sektorale Genehmigungen, FSR-Risiken und Closing-Timing.
+description: "Wenn es um Regulatory Clearance Roadmap in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Regulatory Clearance Roadmap
 

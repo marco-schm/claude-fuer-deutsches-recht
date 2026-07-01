@@ -1,6 +1,6 @@
 ---
 name: ins-007-unlawful-disclosure
-description: "Prueft erlaubte und verbotene Weitergabe von Insiderinformationen an Berater, Banken, Arbeitnehmer, Aufsichtsräte und Transaktionspartner."
+description: "Wenn es um Unrechtmäßige Offenlegung in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unrechtmäßige Offenlegung

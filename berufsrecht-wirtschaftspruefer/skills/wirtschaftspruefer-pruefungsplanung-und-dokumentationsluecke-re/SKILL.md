@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-pruefungsplanung-und-dokumentationsluecke-re
-description: "Wirtschaftsprüfer: pruefungsplanung und dokumentationsluecke - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Re in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: pruefungsplanung und dokumentationsluecke - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

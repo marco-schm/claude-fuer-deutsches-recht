@@ -1,6 +1,6 @@
 ---
 name: tierhaltung-immissionsabwehr-paragraf-906-bgb-ta-luft
-description: "Nachbarstreit Schweinemast Geruchsemissionen mit Paragraf 906 BGB Wesentlichkeitsschwelle und TA Luft Punkt 4.4.7 nach VGH-Linie. Prüfraster ortsueblich nicht ortsueblich unwesentlich Ausgleichsanspruch."
+description: "Wenn es um Tierhaltung Immissionsabwehr Paragraf 906 BGB Ta Luft in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tierhaltung Immissionsabwehr Paragraf 906 BGB Ta Luft

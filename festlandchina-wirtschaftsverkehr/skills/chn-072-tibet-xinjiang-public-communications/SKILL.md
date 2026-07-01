@@ -1,6 +1,6 @@
 ---
 name: chn-072-tibet-xinjiang-public-communications
-description: "Festlandchina Wirtschaftsverkehr: Tibet Xinjiang Public Communications. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Tibet Xinjiang Public Communications in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tibet Xinjiang Public Communications

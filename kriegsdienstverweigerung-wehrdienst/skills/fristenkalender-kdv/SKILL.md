@@ -1,6 +1,6 @@
 ---
 name: fristenkalender-kdv
-description: "Erstellt Fristenkalender für Antrag, Nachreichung, Anhörung, Widerspruch, § 75 und § 13 im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Fristenkalender KDV in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristenkalender KDV

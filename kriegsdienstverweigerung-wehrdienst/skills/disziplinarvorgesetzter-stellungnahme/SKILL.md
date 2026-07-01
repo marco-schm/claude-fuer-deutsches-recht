@@ -1,6 +1,6 @@
 ---
 name: disziplinarvorgesetzter-stellungnahme
-description: "Erklärt Stellungnahme der Disziplinarvorgesetzten bei Berufs- und Zeitsoldaten im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Stellungnahme Disziplinarvorgesetzter in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stellungnahme Disziplinarvorgesetzter

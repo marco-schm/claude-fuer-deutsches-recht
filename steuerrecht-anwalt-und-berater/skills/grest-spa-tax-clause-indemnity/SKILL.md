@@ -1,6 +1,6 @@
 ---
 name: grest-spa-tax-clause-indemnity
-description: "GrESt im SPA vertraglich absichern: Tax Covenant, GrESt-Indemnity, Käufer-/Verkäufertragung, Signing-Closing-Doppelrisiko, Escrow, Mitwirkungspflichten, Anzeigen, Grundbesitzliste und Post-Closing-Steuerklauseln."
+description: "Wenn es um GrESt: SPA-Klauseln, Indemnity und Escrow in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # GrESt: SPA-Klauseln, Indemnity und Escrow

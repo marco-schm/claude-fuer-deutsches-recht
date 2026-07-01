@@ -1,6 +1,6 @@
 ---
 name: verletzung-anspruchsmerkmale
-description: "Gebrauchsmusterverletzung anhand Anspruchsmerkmalen prüfen: wortsinngemäße Benutzung, Äquivalenznähe, Belege, Produktanalyse und Beweislast im Gebrauchsmusterrecht."
+description: "Wenn es um Verletzung Anspruchsmerkmale in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Verletzung Anspruchsmerkmale

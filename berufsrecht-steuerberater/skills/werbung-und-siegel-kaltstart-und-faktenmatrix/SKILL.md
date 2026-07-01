@@ -1,6 +1,6 @@
 ---
 name: werbung-und-siegel-kaltstart-und-faktenmatrix
-description: "Steuerberater: werbung und siegel - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Werbung Und Siegel Kaltstart Und Faktenmatrix in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: werbung und siegel - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: fristenversaeumnis-epo-restitutio-kammerantwort
-description: "Patentanwälte: fristenversaeumnis epo restitutio - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Fristenversaeumnis Epo Restitutio Kammerantwort in Berufsrecht Patentanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: fristenversaeumnis epo restitutio - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: daten-und-ki-compliance-start
-description: "Prüft Datenschutz, KI-VO, Datenquellen und Modellnutzung im Gründungsstadium im Gesellschaftsgruender."
+description: "Wenn es um Daten- und digitale Werkzeuge-Compliance Start in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Daten- und KI-Compliance Start

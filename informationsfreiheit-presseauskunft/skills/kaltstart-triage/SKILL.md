@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Informationsfreiheit und Presseauskunft: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
+description: "Wenn es um Informationsfreiheit und Presseauskunft - Allgemeiner Einstieg in Informationsfreiheit und Presseauskunft geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Informationsfreiheit und Presseauskunft - Allgemeiner Einstieg

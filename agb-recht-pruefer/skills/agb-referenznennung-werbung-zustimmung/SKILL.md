@@ -1,6 +1,6 @@
 ---
 name: agb-referenznennung-werbung-zustimmung
-description: "Klausel-Fachmodul für Referenznennung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um Referenznennung in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Referenznennung Werbung Zustimmung; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Referenznennung

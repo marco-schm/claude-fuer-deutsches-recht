@@ -1,6 +1,6 @@
 ---
 name: drv-selbstcheck-eigene-betriebsstaette
-description: "Nutzt den DRV-Selbstcheck als strukturiertes Vorprüfungsraster ohne ihn mit einer verbindlichen Entscheidung zu verwechseln im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um DRV Selbstcheck Erwerbsstatus in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # DRV Selbstcheck Erwerbsstatus

@@ -1,6 +1,6 @@
 ---
 name: aufhebungsvertrag-faires-verhandeln-bag-6-azr-333-21
-description: "Aufhebungsvertrag und Gebot fairen Verhandelns nach BAG 6 AZR 333/21. Prüfraster Ueberrumpelung Bedenkzeit Schadensersatz durch Naturalrestitution."
+description: "Wenn es um Aufhebungsvertrag Faires Verhandeln BAG 6 Azr 333 21 in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufhebungsvertrag Faires Verhandeln BAG 6 Azr 333 21

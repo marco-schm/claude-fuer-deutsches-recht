@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Insolvenzverwaltung: ordnet Rolle (Verwalter, Schuldner, Gläubiger), markiert Frist (Berichtstermin), wählt Norm (InsO §§ 80/148/159 ff. Verwertung, InsVV Vergütung) und Zuständigkeit (Insolvenzgericht), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Insolvenzverwaltung - IV-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

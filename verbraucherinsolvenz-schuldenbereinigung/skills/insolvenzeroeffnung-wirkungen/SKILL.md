@@ -1,6 +1,6 @@
 ---
 name: insolvenzeroeffnung-wirkungen
-description: "Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen: Normanker: InsO §§ 27 und 35 und..."
+description: "Wenn es um Insolvenzeroeffnung Wirkungen in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen.

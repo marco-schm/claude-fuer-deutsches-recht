@@ -1,6 +1,6 @@
 ---
 name: wohnungseigentumsrecht-fristen-form-und-zustaendigkeit
-description: "Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzba..."
+description: "Wenn es um Wohnungseigentumsrecht Fristen Form Und Zuständigkeit in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

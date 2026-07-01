@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Startet die Softwarerechtsprüfung für Entwicklung, Lizenz, SaaS, Open Source, Arbeitnehmer/Freelancer, EU/US/IP und Streit."
+description: "Wenn es um Kaltstart Softwarerecht in Softwarerecht Deutschland/EU/International/USA geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Softwarerecht

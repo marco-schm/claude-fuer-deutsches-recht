@@ -1,6 +1,6 @@
 ---
 name: vergebung-vererbung-vergabe-begriffsklaerung
-description: "Römisches Recht: Klärt mehrdeutige Anfragen zu Vergebung, Vererbung und Vergabe. Behandelt Schulderlass durch acceptilatio und pactum de non petendo, Erbrecht durch hereditas/Testament/querela inofficiosi testamenti sowie öffentliche Vergabe durch censores und publicani im Römisches Recht."
+description: "Wenn es um Vergebung, Vererbung oder Vergabe in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vergebung, Vererbung oder Vergabe

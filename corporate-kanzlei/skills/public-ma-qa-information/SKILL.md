@@ -1,6 +1,6 @@
 ---
 name: public-ma-qa-information
-description: "Public M&A und Kapitalmarkt: Begleitet Öffentliche Angebote (WpueG), Pflichtangebote, Squeeze-Out und Delisting. Normen: WpueG, AktG §§ 327a-f, WpHG/MAR Ad-hoc, §§ 39a-c WpueG. Leitsaetze BGH und BaFin-Praxis im Corporate Kanzlei."
+description: "Wenn es um Public M&A und Kapitalmarkt / MAR in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Public M&A Qa Information; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # Public M&A und Kapitalmarkt / MAR

@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-finanzamt-im-insolvenzverfahren
-description: "Finanzamt als Gläubiger im Insolvenzverfahren. Paragraph 251 AO Aussetzung der Vollziehung, Paragraph 35 InsO Massezugehoerigkeit, Steuerforderungen als Insolvenzforderungen oder Masseverbindlichkeiten. Tabellenanmeldung der FA-Forderungen Paragraphen 174 ff. InsO. Steuerlicher Aufrechnungsschut..."
+description: "Wenn es um Sanierungsgewinn — Finanzamt im Insolvenzverfahren in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsgewinn — Finanzamt im Insolvenzverfahren

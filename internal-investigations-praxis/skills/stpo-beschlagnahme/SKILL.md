@@ -1,6 +1,6 @@
 ---
 name: stpo-beschlagnahme
-description: "Analysiert Beschlagnahmerisiken nach StPO, Schutzstrategien für Anwaltsunterlagen und Verhalten bei Durchsuchung im Internal Investigations Praxis."
+description: "Wenn es um StPO-Beschlagnahme und Durchsuchung in Internal Investigations Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # StPO-Beschlagnahme und Durchsuchung

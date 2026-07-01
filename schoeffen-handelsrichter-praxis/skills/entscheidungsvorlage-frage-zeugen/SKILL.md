@@ -1,6 +1,6 @@
 ---
 name: entscheidungsvorlage-frage-zeugen
-description: "Entscheidungsvorlage: erklärt macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Entscheidungsvorlage in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Entscheidungsvorlage

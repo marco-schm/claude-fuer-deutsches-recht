@@ -1,6 +1,6 @@
 ---
 name: spezial-universitaetsstaedte-livequellen-check
-description: "Universitaetsstaedte: Livequellen- und Rechtsprechungscheck im Plugin mietrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Universitaetsstaedte: Livequellen- und Rechtsprechungscheck in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Universitaetsstaedte: Livequellen- und Rechtsprechungscheck

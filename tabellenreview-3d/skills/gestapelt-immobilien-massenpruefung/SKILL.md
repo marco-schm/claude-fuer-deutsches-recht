@@ -1,6 +1,6 @@
 ---
 name: gestapelt-immobilien-massenpruefung
-description: "Gestapelt: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Gestapelt: Compliance-Dokumentation und Aktenvermerk in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gestapelt Immobilien Massenpruefung; Arbeitsfeld: Tabellenreview 3D."
 ---
 
 # Gestapelt: Compliance-Dokumentation und Aktenvermerk

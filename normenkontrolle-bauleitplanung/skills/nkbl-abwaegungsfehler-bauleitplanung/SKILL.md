@@ -1,6 +1,6 @@
 ---
 name: nkbl-abwaegungsfehler-bauleitplanung
-description: "Spezialfall Abwaegungsfehler in der Bauleitplanung: Abwaegungsausfall, -defizit, -fehleinschaetzung, Disproportionalitaet. Prüfraster für Klage im Normenkontrolle Bauleitplanung."
+description: "Wenn es um NkBl: Abwaegungsfehler in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nkbl Abwaegungsfehler Bauleitplanung; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # NkBl: Abwaegungsfehler

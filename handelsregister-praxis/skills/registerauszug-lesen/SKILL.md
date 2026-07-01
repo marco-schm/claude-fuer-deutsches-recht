@@ -1,6 +1,6 @@
 ---
 name: registerauszug-lesen
-description: "Erklärt Abteilungen/Spalten, Historie, Vertretung, Kapital, Firma, Prokura, Insolvenz und Bekanntmachungen im Handelsregister Praxis."
+description: "Wenn es um Handelsregisterauszug lesen in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsregisterauszug lesen

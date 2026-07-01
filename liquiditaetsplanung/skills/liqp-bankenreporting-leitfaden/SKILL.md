@@ -1,6 +1,6 @@
 ---
 name: liqp-bankenreporting-leitfaden
-description: "Leitfaden Bankenreporting bei Krise: Anforderungen Hausbank, Konsortium, KfW, Reportingfrequenz, Covenant-Reporting. Prüfraster für CFO und Berater."
+description: "Wenn es um LiqP: Bankenreporting in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LiqP: Bankenreporting

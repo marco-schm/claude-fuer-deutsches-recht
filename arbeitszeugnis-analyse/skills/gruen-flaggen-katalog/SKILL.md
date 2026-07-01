@@ -1,6 +1,6 @@
 ---
 name: gruen-flaggen-katalog
-description: "Katalog starker positiver Formulierungen im Arbeitszeugnis, die auf Note 1 oder Note 2 hindeuten. Umfasst Superlative, vollständige Zufriedenheitsformeln und alle grünen Ampelsignale mit Notentendenz und Begründung."
+description: "Wenn es um Grünen-Flaggen-Katalog in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grünen-Flaggen-Katalog

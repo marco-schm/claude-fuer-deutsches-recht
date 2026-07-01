@@ -1,6 +1,6 @@
 ---
 name: wertungspreisqualitaet-matrix
-description: "Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder prüfen: Zuschlagskriterien, Unterkriterien, Gewichtung, Schulnotenmodelle, UfAB-Logik und Dokumentation: Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder prüfen: Zuschlagskriterien, Unterkr..."
+description: "Wenn es um Wertungspreisqualitaet Matrix in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder prüfen: Zuschlagskriterien, Unterkriterien, Gewichtung, Schulnotenmodelle, UfAB-Logik und Dokumentation.

@@ -1,6 +1,6 @@
 ---
 name: 05-grundrechtsdogmatik-pruefen
-description: "Prüfungsschema Freiheitsgrundrechte: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung (Schranken, Schranken-Schranken, Verhältnismäßigkeit); Gleichheitsgrundrechte Art. 3 GG (neue Formel)"
+description: "Wenn es um 05 Grundrechtsdogmatik Prüfen in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 05 Grundrechtsdogmatik Prüfen

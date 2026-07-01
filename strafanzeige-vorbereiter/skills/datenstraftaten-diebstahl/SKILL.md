@@ -1,6 +1,6 @@
 ---
 name: datenstraftaten-diebstahl
-description: "Ausspähen, Abfangen, Datenveränderung, Computersabotage: technische Beweise, Logs, Forensik und ZAC im Strafanzeige-Vorbereitung."
+description: "Wenn es um Datenstraftaten Paragrafen 202a, 303a StGB in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenstraftaten §§ 202a, 303a StGB

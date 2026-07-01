@@ -1,6 +1,6 @@
 ---
 name: klagestrategie-und-vollstreckung
-description: Aufbau der Klagestrategie fuer die Zeugnisberichtigung mit Musterklageantrag, Streitwertberechnung, Kostenrisiko nach Paragraf 12a ArbGG und Vollstreckungsoptionen nach einem Urteil oder gerichtlichen Vergleich.
+description: "Wenn es um Klagestrategie und Vollstreckung in Arbeitszeugnispruefer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klagestrategie und Vollstreckung

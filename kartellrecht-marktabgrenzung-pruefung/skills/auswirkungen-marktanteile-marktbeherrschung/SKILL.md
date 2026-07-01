@@ -1,6 +1,6 @@
 ---
 name: auswirkungen-marktanteile-marktbeherrschung
-description: "Wie ändert sich der Marktanteil des Mandanten je nachdem wie eng oder weit der Markt abgegrenzt wird. Quantifiziert Auswirkungen alternativer Marktabgrenzungen auf Marktanteile und Marktbeherrschungsvermutungen. Normen § 18 Abs. 4 GWB 40-Prozent-Einzelmarktbeherrschungs-Vermutung § 18 Abs. 6 GWB..."
+description: "Wenn es um Auswirkungen auf Marktanteile und Marktbeherrschung in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auswirkungen auf Marktanteile und Marktbeherrschung

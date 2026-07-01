@@ -1,6 +1,6 @@
 ---
 name: tierversuch-ethikvotum-urlaubssemester
-description: "Prüft Tierversuch, Ethikvotum, Genehmigung, Dokumentation und Forschungsfreiheit im Hochschulrecht Länder."
+description: "Wenn es um Tierversuch und Ethikvotum in Hochschulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Tierversuch und Ethikvotum

@@ -1,6 +1,6 @@
 ---
 name: long-covid-kinder-schule-teilhabe
-description: "Long-Covid bei Kindern und Jugendlichen: Schule, Nachteilsausgleich, Teilhabe, Eingliederungshilfe und pädiatrische Beweisführung: Long-Covid bei Kindern und Jugendlichen: Schule, Nachteilsausgleich, Teilhabe, Eingliederungshilfe und pädiatrische Beweisfüh..."
+description: "Wenn es um Long Covid Kinder Schule Teilhabe in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Long-Covid bei Kindern und Jugendlichen: Schule, Nachteilsausgleich, Teilhabe, Eingliederungshilfe und pädiatrische Beweisführung.

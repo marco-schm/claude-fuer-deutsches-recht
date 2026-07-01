@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen: §§ 1 7 UrhG Werkbegriff § 43a BRAO. Prüfraster: Sachverhaltserfassung Sch..."
+description: "Wenn es um Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen

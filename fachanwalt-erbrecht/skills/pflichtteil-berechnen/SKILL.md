@@ -1,6 +1,6 @@
 ---
 name: pflichtteil-berechnen
-description: "Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen: §§ 2303 2311 2325 BGB Pflichtteil. Prüfraster: Pflichtteilsquote Nachlasswert Bewertungsstichtag Abzuege Ergaenzungsanspr..."
+description: "Wenn es um Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen

@@ -1,6 +1,6 @@
 ---
 name: eu-richtlinie-86-653
-description: "Analysiert die EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung ins deutsche HGB: Mindeststandards für Ausgleich und Kündigung, richtlinienkonforme Auslegung der §§ 84-92c HGB, EuGH-Rechtsprechung (Honyvem, Saint-Gobain, Quenon) und Schranken der nationalen Rechtsanwendung im Handelsve..."
+description: "Wenn es um EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB

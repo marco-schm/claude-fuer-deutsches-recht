@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-erklaerungsrecht-257-stpo
-description: "Erklaerungsrecht § 257 Abs: 2 StPO und schriftliche Form § 257a StPO als legitime offensive Verteidigungsmittel nutzen. Erklaerung nach Beweiserhebung zu jeder einzelnen Beweisaufnahmehandlung. Sachgerechte Form mit Bezug zu konk..."
+description: "Wenn es um Erklaerungsrecht Paragraf 257 Abs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erklaerungsrecht § 257 Abs

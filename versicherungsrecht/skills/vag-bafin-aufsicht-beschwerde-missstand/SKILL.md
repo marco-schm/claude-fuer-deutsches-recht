@@ -1,6 +1,6 @@
 ---
 name: vag-bafin-aufsicht-beschwerde-missstand
-description: "Versicherungsaufsicht nach VAG: BaFin-Beschwerde, Missstandsaufsicht, Produkt-/Vertriebsaufsicht, Solvabilität, Verbraucherschutz und Grenzen individueller Leistungserzwingung im Versicherungsrecht."
+description: "Wenn es um VAG/BaFin-Aufsicht: Beschwerde und Missstand in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # VAG/BaFin-Aufsicht: Beschwerde und Missstand

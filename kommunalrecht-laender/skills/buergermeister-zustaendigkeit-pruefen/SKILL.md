@@ -1,6 +1,6 @@
 ---
 name: buergermeister-zustaendigkeit-pruefen
-description: "der Länder: Bürgermeister: Zuständigkeit prüfen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Buergermeister Zuständigkeit Prüfen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergermeister Zuständigkeit Prüfen

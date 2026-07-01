@@ -1,6 +1,6 @@
 ---
 name: betreuung-grenzueberschreitend
-description: "Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Prüfraster für im Ausland lebende Betroffene."
+description: "Wenn es um Grenzueberschreitende Betreuung in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzueberschreitende Betreuung

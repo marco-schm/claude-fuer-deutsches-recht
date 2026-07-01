@@ -1,6 +1,6 @@
 ---
 name: beweislast-und-offenlegung-produkthaftung
-description: "Prüft Beweislast, Indizien, Offenlegung technischer Unterlagen, Kausalität und Schwierigkeiten komplexer Robotiksysteme."
+description: "Wenn es um Beweislast und Offenlegung in der Robotik-Produkthaftung in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Beweislast und Offenlegung in der Robotik-Produkthaftung

@@ -1,6 +1,6 @@
 ---
 name: succession-buyin-buyout
-description: "Prüft Eintritt, Austritt, Goodwill, Kapitalbindung und Generationengerechtigkeit. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Buy-in Buy-out Succession in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buy-in Buy-out Succession

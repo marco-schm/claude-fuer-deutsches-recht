@@ -1,6 +1,6 @@
 ---
 name: raeumung-compliance-dokumentation-und-akte
-description: "Raeumung: Compliance-Dokumentation und Aktenvermerk im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Raeumung: Compliance-Dokumentation und Aktenvermerk in Zwangsvollstreckung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Raeumung: Compliance-Dokumentation und Aktenvermerk

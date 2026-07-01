@@ -1,6 +1,6 @@
 ---
 name: qualitygate-no-hallucinations
-description: "Prüft VC-Outputs auf erfundene Marktstandards, falsche Rechtsquellen, Zahlenbrüche, unklare Annahmen und fehlende Dokumente."
+description: "Wenn es um Qualitygate gegen Halluzinationen in Venture Capital Geber geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Qualitygate gegen Halluzinationen

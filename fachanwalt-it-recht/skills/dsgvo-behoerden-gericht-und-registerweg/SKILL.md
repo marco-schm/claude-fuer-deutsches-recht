@@ -1,6 +1,6 @@
 ---
 name: dsgvo-behoerden-gericht-und-registerweg
-description: "DSGVO: Behörden-, Gerichts- oder Registerweg: DSGVO: Behörden-, Gerichts- oder Registerweg."
+description: "Wenn es um DSGVO: Behörden-, Gerichts- oder Registerweg in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DSGVO: Behörden-, Gerichts- oder Registerweg

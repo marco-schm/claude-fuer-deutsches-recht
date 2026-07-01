@@ -1,6 +1,6 @@
 ---
 name: wahlkampf-in-vereinen-und-betrieben
-description: "Wahlkampfrecht Praxis: Wahlkampf in Vereinen, Betrieben und halböffentlichen Räumen prüfen im Wahlkampfrecht."
+description: "Wenn es um In Vereinen Und Betrieben in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # In Vereinen Und Betrieben

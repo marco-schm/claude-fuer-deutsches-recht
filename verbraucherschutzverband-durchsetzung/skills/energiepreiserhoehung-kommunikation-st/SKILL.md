@@ -1,6 +1,6 @@
 ---
 name: energiepreiserhoehung-kommunikation-st
-description: "Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Kommunikation steuern im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Energiepreiserhoehung Kommunikation St in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energiepreiserhoehung Kommunikation St

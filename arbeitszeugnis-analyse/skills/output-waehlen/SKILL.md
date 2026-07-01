@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Arbeitszeugnis-Analyse: stimmt Adressat (Mandant/Arbeitnehmer, Arbeitgeber/HR, Vorgesetzte), Frist (BAG 5.7.2018 – 9 AZR 244/17 Anspruch entstehung) und Form auf den Zweck ab — typische Outputs: Notenmatrix, Geheimcode-Befund, Berichtigungsklage."
+description: "Wenn es um Output wählen in Arbeitszeugnis-Analyse geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

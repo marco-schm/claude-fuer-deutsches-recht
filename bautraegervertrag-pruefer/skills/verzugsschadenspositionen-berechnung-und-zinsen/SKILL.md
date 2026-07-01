@@ -1,6 +1,6 @@
 ---
 name: verzugsschadenspositionen-berechnung-und-zinsen
-description: "Berechnet Verzugsschäden beim verspäteten Bauträgerprojekt: Ersatzwohnung, Umzug, Lager, Bereitstellungszinsen, doppelte Miete, Hotel, Nutzungsausfall, Vertragsstrafe, § 287 BGB/ZPO, § 291 BGB, § 289 BGB und § 308 ZPO."
+description: "Wenn es um Verzugsschäden, Berechnung und Zinsen in Bauträgervertrag-Prüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Verzugsschäden, Berechnung und Zinsen

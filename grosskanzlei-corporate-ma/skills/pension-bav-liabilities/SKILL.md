@@ -1,6 +1,6 @@
 ---
 name: pension-bav-liabilities
-description: "Pension und bAV Liabilities in M&A: prüft Pensionszusagen, CTA, PSV, Bilanzierung, Change of Control, Versorgungssysteme und SPA-Risikoallokation: Pension und bAV Liabilities in M&A: prüft Pensionszusagen, CTA, PSV, Bilanzierung, Change of Control, Verso..."
+description: "Wenn es um Pension Bav Liabilities in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pension und bAV Liabilities in M&A: prüft Pensionszusagen, CTA, PSV, Bilanzierung, Change of Control, Versorgungssysteme und SPA-Risikoallokation.

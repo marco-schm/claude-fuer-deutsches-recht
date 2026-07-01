@@ -1,6 +1,6 @@
 ---
 name: dsfa-methodik-cnil-pia-vs-bsfd-bsi
-description: "Vergleich der DSFA-Methoden: CNIL PIA Software (Frankreich) gegenueber dem BSI Standard-Datenschutzmodell (SDM) und dem BSFD-Ansatz. Output: Methodenwahl mit Begruendung, Anwendungshinweisen und Werkzeugauswahl."
+description: "Wenn es um DSFA-Methodik CNIL PIA versus SDM/BSI in Datenschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # DSFA-Methodik CNIL PIA versus SDM/BSI

@@ -1,6 +1,6 @@
 ---
 name: nachlassauseinandersetzung-grundbuch
-description: "Notariat im Alltag: Nachlassauseinandersetzung – Grundbuch und Erbquoten. Auseinandersetzung der Erbengemeinschaft, Übertragung von Grundstücken auf einzelne Erben, Grundbuchberichtigung und Steuerfragen im Notariat."
+description: "Wenn es um Notariat im Alltag: Nachlassauseinandersetzung – Grundbuch, Erbquoten in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Nachlassauseinandersetzung – Grundbuch, Erbquoten

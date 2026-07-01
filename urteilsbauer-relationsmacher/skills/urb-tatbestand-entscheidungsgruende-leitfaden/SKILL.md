@@ -1,6 +1,6 @@
 ---
 name: urb-tatbestand-entscheidungsgruende-leitfaden
-description: "Leitfaden Tatbestand und Entscheidungsgruende: streitiges und unstreitiges Vorbringen, prozessualer Antraege, Entscheidungsgruende stringent. Prüfraster."
+description: "Wenn es um Urb: Tatbestand Gruende in Urteilsbauer und Relationsmacher geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Urb: Tatbestand Gruende

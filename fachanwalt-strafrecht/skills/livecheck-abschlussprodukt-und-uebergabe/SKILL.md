@@ -1,6 +1,6 @@
 ---
 name: livecheck-abschlussprodukt-und-uebergabe
-description: "Livecheck: Abschlussprodukt und Übergabe: Livecheck: Abschlussprodukt und Übergabe."
+description: "Wenn es um Livecheck: Abschlussprodukt und Übergabe in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Livecheck: Abschlussprodukt und Übergabe

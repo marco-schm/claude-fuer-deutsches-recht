@@ -1,6 +1,6 @@
 ---
 name: lebensversicherung-widerruf-paragraf-152-vvg
-description: "Lebensversicherung Widerruf § 152 VVG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Lebensversicherung Widerruf Paragraf 152 VVG in Fachanwalt Versicherungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lebensversicherung Widerruf § 152 VVG

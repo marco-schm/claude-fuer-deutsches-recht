@@ -1,6 +1,6 @@
 ---
 name: anklageschrift-zerlegen
-description: "Anklageschrift in arbeitsfaehige Bausteine zerlegen: Tatvorwurf je Anklagepunkt, vorgeworfene Norm, wesentliche Tatsachen, Beweismittel je Punkt, Liste der Beweismittel, Verteidigungsansatzpunkte je Punkt. Output Tabelle und kommentierte Anklageschrift mit Markierungen im Strafrechts-Aktenaufbere..."
+description: "Wenn es um Anklageschrift zerlegen in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anklageschrift zerlegen

@@ -1,6 +1,6 @@
 ---
 name: ai-output-authorship-title17
-description: "Prüft generative AI outputs nach USCO-Policy: human authorship, selection, arrangement, modification und excluded material."
+description: "Wenn es um digitale Werkzeuge Output und Copyrightability in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AI Output und Copyrightability

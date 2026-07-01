@@ -1,6 +1,6 @@
 ---
 name: ar-aufhebungsvertrag-praxis
-description: "Aufhebungsvertrag in der Praxis: Sperrzeit ALG I Paragraf 159 SGB III, steuerliche Fünftelregelung Paragraf 34 EStG, AGB-Kontrolle von Klauseln Paragrafen 305 ff: Aufhebungsvertrag in der Praxis: Sperrzeit ALG I Paragraf 159 SGB III, steuerliche Fünftelregelung Paragraf 34 EStG, AGB-Kontrolle..."
+description: "Wenn es um Ar Aufhebungsvertrag Praxis in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufhebungsvertrag in der Praxis: Sperrzeit ALG I Paragraf 159 SGB III, steuerliche Fünftelregelung Paragraf 34 EStG, AGB-Kontrolle von Klauseln Paragrafen 305 ff

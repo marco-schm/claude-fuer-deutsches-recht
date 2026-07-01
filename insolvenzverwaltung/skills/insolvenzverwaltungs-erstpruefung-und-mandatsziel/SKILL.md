@@ -1,6 +1,6 @@
 ---
 name: insolvenzverwaltungs-erstpruefung-und-mandatsziel
-description: "Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzverwaltung: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzverwaltung."
+description: "Wenn es um Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel in Insolvenzverwaltung - IV-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel

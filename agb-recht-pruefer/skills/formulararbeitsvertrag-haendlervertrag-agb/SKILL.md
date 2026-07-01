@@ -1,6 +1,6 @@
 ---
 name: formulararbeitsvertrag-haendlervertrag-agb
-description: "Branchen-Fachmodul für Formulararbeitsvertrag: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen im AGB-Recht."
+description: "Wenn es um Formulararbeitsvertrag in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Formulararbeitsvertrag Haendlervertrag Agb; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Formulararbeitsvertrag

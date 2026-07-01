@@ -1,6 +1,6 @@
 ---
 name: dba-daenemark
-description: "DBA Deutschland Daenemark aktuelle Fassung. Anwendungsfall Pendler Schleswig-Holstein Daenemark Beteiligungen Pensionen Sozialversicherung Lizenzen. Methodenartikel Freistellung mit Anrechnungswahl. Sonderregelungen Eisenbahn Schiff Luftverkehr. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinw..."
+description: "Wenn es um DBA Deutschland-Daenemark in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # DBA Deutschland-Daenemark

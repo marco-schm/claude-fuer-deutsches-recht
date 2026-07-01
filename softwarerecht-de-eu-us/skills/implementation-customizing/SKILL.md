@@ -1,6 +1,6 @@
 ---
 name: implementation-customizing
-description: "Prüft Implementierungsprojekte, Customizing, Konfiguration, Schnittstellen, Datenmigration und Verantwortungsmatrix im Softwarerecht De Eu Us."
+description: "Wenn es um Implementation und Customizing in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Implementation und Customizing

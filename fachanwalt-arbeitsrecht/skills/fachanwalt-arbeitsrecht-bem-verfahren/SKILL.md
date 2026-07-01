@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-bem-verfahren
-description: "Workflow-Skill zu fachanwalt arbeitsrecht bem verfahren. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Wenn es um BEM-Verfahren Paragraf 167 II SGB IX in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BEM-Verfahren Paragraf 167 II SGB IX

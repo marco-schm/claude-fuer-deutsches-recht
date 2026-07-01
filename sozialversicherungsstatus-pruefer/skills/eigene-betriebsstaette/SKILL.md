@@ -1,6 +1,6 @@
 ---
 name: eigene-betriebsstaette
-description: "Prüft eigene Betriebsstätte, Büro, Praxis, Studio, Infrastruktur und deren Gewicht im Statusrecht im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Eigene Betriebsstätte in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eigene Betriebsstätte

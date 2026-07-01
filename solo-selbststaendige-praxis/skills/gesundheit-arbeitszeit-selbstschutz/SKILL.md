@@ -1,6 +1,6 @@
 ---
 name: gesundheit-arbeitszeit-selbstschutz
-description: "Solo-Selbstständige: plant Arbeitslast, Krankheit, Urlaub und Lieferfähigkeit ohne Selbstausbeutung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Grenzen Compliance und Selbstschutz: Plant arbeitslast in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzen Compliance und Selbstschutz: Plant arbeitslast

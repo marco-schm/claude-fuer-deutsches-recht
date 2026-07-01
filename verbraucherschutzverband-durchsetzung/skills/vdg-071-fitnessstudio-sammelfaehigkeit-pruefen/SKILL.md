@@ -1,6 +1,6 @@
 ---
 name: vdg-071-fitnessstudio-sammelfaehigkeit-pruefen
-description: "Verbraucherschutzverband Durchsetzung: Fitnessstudio: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Fitnessstudio Sammelfaehigkeit Pruefen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fitnessstudio Sammelfaehigkeit Pruefen

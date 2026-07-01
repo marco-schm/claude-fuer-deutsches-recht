@@ -1,6 +1,6 @@
 ---
 name: aufstellungsbeschluss-mandantenentscheidun-02
-description: "Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion o..."
+description: "Wenn es um Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aufstellungsbeschluss Mandantenentscheidun 02; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage

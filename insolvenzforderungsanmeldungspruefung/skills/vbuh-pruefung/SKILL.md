@@ -1,6 +1,6 @@
 ---
 name: vbuh-pruefung
-description: "Vorsätzlich begangene unerlaubte Handlung und Steuerstraftat in Insolvenzanmeldung prüfen: Anwendungsfall Gläubiger meldet Forderung mit Kennzeichnung als vbuH vorsaetzliche unerlaubte Handlung Unterhaltspflichtverletzung oder Steuerstraftat an was Restschuldbefreiung blockiert. §§ 302 Nr. 1 InsO..."
+description: "Wenn es um vbuH, Unterhalt und Steuerstraftat prüfen in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # vbuH, Unterhalt und Steuerstraftat prüfen

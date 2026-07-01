@@ -1,6 +1,6 @@
 ---
 name: dpa-en-template-controller-processor
-description: "English language Data Processing Agreement (DPA) template under Article 28 GDPR between a controller and a processor. Use when the contract language is English (cross-border deals UK Ireland US providers) and the parties require a stand-alone DPA. Output is a complete English DPA template coverin..."
+description: "Wenn es um Data Processing Agreement (DPA) – English Template Controller / Processor in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Data Processing Agreement (DPA) – English Template Controller / Processor

@@ -1,6 +1,6 @@
 ---
 name: kv-076-asylbewerberleistungsgesetz-und-gesundheitsversorgung
-description: "Krankenversicherung: Asylbewerberleistungsgesetz und Gesundheitsversorgung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Asylbewerberleistungsgesetz und Gesundheitsversorgung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Asylbewerberleistungsgesetz und Gesundheitsversorgung

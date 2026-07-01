@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-wiedereinsetzung-nach-fristversaeumnis
-description: "Datenschutzrecht-Brückenskill: Wiedereinsetzung nach Fristversäumnis: Versäumte Einspruchs- oder Rechtsmittelfristen mit Zustellungs- und Büroorganisationsprüfung retten: Datenschutzrecht-Brückenskill: Wiedereinsetzung nach Fristversäumnis: Versäumte Einspr..."
+description: "Wenn es um Dsv Sanktion Wiedereinsetzung Nach Fristversaeumnis in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Wiedereinsetzung nach Fristversäumnis: Versäumte Einspruchs- oder Rechtsmittelfristen mit Zustellungs- und Büroorganisationsprüfung retten

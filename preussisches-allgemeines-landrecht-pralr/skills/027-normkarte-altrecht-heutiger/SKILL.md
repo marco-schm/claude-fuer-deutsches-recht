@@ -1,6 +1,6 @@
 ---
 name: 027-normkarte-altrecht-heutiger
-description: "PrALR: Normkarte Altrecht in heutiger Akte: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Normkarte Altrecht in heutiger Akte in Preußisches Allgemeines Landrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Normkarte Altrecht in heutiger Akte

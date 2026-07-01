@@ -1,6 +1,6 @@
 ---
 name: dsa-systemic-risk-assessment-pruefen
-description: "Spezialfall Systemic-Risk-Assessment Art. 34 DSA: Methode der VLOP-Risikobewertung prüfen, vier Kategorien (illegale Inhalte, Grundrechte, Wahlen, Wohlbefinden Minderjaehriger), Independent Audit Art. 37. Prüfraster und Mustertext im Dsa Dma Digitalregulierung."
+description: "Wenn es um DSA: Systemic-Risk-Assessment in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DSA: Systemic-Risk-Assessment

@@ -1,6 +1,6 @@
 ---
 name: psychiatrie-psychkg-qualitaets
-description: "Psychiatrie PsychKG Unterbringung Fixierung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht."
+description: "Wenn es um Psychiatrie PsychKG Unterbringung Fixierung in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Psychiatrie PsychKG Unterbringung Fixierung

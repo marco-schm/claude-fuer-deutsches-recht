@@ -1,6 +1,6 @@
 ---
 name: spezial-luecken-livequellen-und-rechtsprechungscheck
-description: "Luecken: Livequellen- und Rechtsprechungscheck im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Luecken: Livequellen- und Rechtsprechungscheck in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Luecken: Livequellen- und Rechtsprechungscheck

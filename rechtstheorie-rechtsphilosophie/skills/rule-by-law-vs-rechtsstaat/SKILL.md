@@ -1,6 +1,6 @@
 ---
 name: rule-by-law-vs-rechtsstaat
-description: "Unterscheidet instrumentelle Herrschaft durch Rechtsformen von echtem Rechtsstaat: Normbindung, Verfahren, Rechtsschutz, Begruendung, Minderheitenschutz und Machtbegrenzung."
+description: "Wenn es um Rule by Law vs. Rechtsstaat in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Rule by Law vs. Rechtsstaat

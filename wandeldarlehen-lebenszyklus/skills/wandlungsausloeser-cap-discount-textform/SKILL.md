@@ -1,6 +1,6 @@
 ---
 name: wandlungsausloeser-cap-discount-textform
-description: "Wandlungsauslöser, Cap und Discount sauber berechnen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Wandeldarlehen Lebenszyklus."
+description: "Wenn es um Wandlungsauslöser, Cap und Discount sauber berechnen in Wandeldarlehen-Lebenszyklus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wandlungsauslöser, Cap und Discount sauber berechnen

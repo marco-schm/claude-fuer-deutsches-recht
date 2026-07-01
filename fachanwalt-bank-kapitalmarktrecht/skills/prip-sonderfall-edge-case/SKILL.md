@@ -1,6 +1,6 @@
 ---
 name: prip-sonderfall-edge-case
-description: "Prip: Sonderfall und Edge-Case-Prüfung: Prip: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Prip: Sonderfall und Edge-Case-Prüfung in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prip: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Fashion-Law/Moderecht-Plugin: klärt Kollektion, Marke, Design, Lieferkette, Label, Produktsicherheit, Nachhaltigkeit, Vertrieb, Plattformen, Influencer und passende Fachmodule."
+description: "Wenn es um Allgemein in fashion-law-moderecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemein

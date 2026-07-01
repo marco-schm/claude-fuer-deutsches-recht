@@ -1,6 +1,6 @@
 ---
 name: delikt-verkehrspflicht-digital
-description: "Prüft Verkehrssicherungspflichten im digitalen Raum: Plattformhaftung, IT-Sicherheit, Datenpannen und deliktische Haftung."
+description: "Wenn es um Delikt: Verkehrspflicht Digital in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Delikt: Verkehrspflicht Digital

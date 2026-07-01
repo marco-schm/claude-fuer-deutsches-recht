@@ -1,6 +1,6 @@
 ---
 name: deliktische-haftung-paragraph-823-bgb
-description: "Prüft deliktische Haftung nach § 823 BGB bei Robotik: Verkehrssicherung, Organisationsverschulden, Schutzgesetze, Beweis und Verschulden."
+description: "Wenn es um Deliktische Haftung Paragraf 823 BGB in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deliktische Haftung § 823 BGB

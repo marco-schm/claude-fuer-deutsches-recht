@@ -1,6 +1,6 @@
 ---
 name: homeoffice
-description: "Homeoffice: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Homeoffice im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
+description: "Wenn es um Homeoffice in Berufsrecht Patentanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Homeoffice

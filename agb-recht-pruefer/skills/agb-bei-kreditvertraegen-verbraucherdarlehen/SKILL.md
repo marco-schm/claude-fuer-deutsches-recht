@@ -1,6 +1,6 @@
 ---
 name: agb-bei-kreditvertraegen-verbraucherdarlehen
-description: "AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kontext der §§ 491 ff. BGB Vorvertragliche Information Widerrufsrecht effektiver Jahreszins Sondervorschriften zu Restschuldversicherung Bearbeitungsentgelt Bearbeitungsgebuehr. BGH-Linien zur Wirksamkeit und Rueckforderung. Liefert P..."
+description: "Wenn es um Agb Bei Kreditvertraegen Verbraucherdarlehen in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Bei Kreditvertraegen Verbraucherdarlehen

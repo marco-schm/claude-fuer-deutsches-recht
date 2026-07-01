@@ -1,6 +1,6 @@
 ---
 name: tempozone-und-beschilderung
-description: "Straßenverkehrsrecht StVO: Tempozone und Beschilderung. Tempozone und Beschilderung im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Bel..."
+description: "Wenn es um Tempozone Und Beschilderung in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tempozone Und Beschilderung

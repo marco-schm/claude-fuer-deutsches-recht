@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-oder-auskunft-oder-kopie
-description: "Informationsfreiheit und Presseauskunft: Akteneinsicht oder Auskunft oder Kopie. Akteneinsicht oder Auskunft oder Kopie im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft:..."
+description: "Wenn es um Akteneinsicht Oder Auskunft Oder Kopie in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Akteneinsicht Oder Auskunft Oder Kopie

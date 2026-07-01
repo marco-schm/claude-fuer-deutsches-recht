@@ -1,6 +1,6 @@
 ---
 name: spezial-krypto-mandantenkommunikation-entscheidungsvorlage
-description: "Krypto: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Krypto: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krypto: Mandantenkommunikation und Entscheidungsvorlage

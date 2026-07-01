@@ -1,6 +1,6 @@
 ---
 name: arbeitsvertrag-standard-unbefristet
-description: "Berliner Start-up-HR: Unbefristeten Arbeitsvertrag für Start-up-Rollen prüfen und entwerfen: NachwG, Probezeit, Vergütung, Remote, IP, Vertraulichkeit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-H..."
+description: "Wenn es um Arbeitsvertrag Standard Unbefristet in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsvertrag Standard Unbefristet

@@ -1,6 +1,6 @@
 ---
 name: kv-026-untaetigkeitsklage-krankenkasse-und-akteneinsicht
-description: "Krankenversicherung: Untätigkeitsklage Krankenkasse und Akteneinsicht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Untätigkeitsklage Krankenkasse und Akteneinsicht in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Untätigkeitsklage Krankenkasse und Akteneinsicht

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsy-identifizierung-wiedererkennen
-description: "Identifizierungsbeweis und Wiedererkennen: Wahllichtbildvorlage, sequenzielle vs: simultane Vorlage, Gegenueberstellung in vivo, Tatzeugenidentifizierung. Methodische Fehlerqu..."
+description: "Wenn es um Identifizierungsbeweis und Wiedererkennen: Wahllichtbildvorlage, sequenzielle vs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Identifizierungsbeweis und Wiedererkennen: Wahllichtbildvorlage, sequenzielle vs

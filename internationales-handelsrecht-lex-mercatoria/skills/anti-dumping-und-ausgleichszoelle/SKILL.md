@@ -1,6 +1,6 @@
 ---
 name: anti-dumping-und-ausgleichszoelle
-description: "Internationales Handelsrecht: Antidumping-Recht nach WTO-Antidumping-Abkommen (ADA) und EU-Anti-Dumping-Grundverordnung (EU) 2016/1036. Dumping-Marge, Schadenstest, Unioninteresse, vorläufige/endgültige Maßnahmen und Umgehungsverfahren im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Antidumping und Ausgleichszölle in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Antidumping und Ausgleichszölle

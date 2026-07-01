@@ -1,6 +1,6 @@
 ---
 name: produktbeobachtung-feldueberwachung
-description: "Produktbeobachtung und Feldueberwachung nach § 4 ProdSG und GPSR: aktive Beobachtung des Marktes nach Inverkehrbringen, Reklamationen, Schadensmeldungen, Reparaturdaten, Social-Media-Monitoring. Ableitung von Maßnahmen (Information, Modifikation, Rueckruf). Doku-Pflichten und Reporting an Gescha..."
+description: "Wenn es um Produktbeobachtung Feldueberwachung in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Produktbeobachtung Feldueberwachung

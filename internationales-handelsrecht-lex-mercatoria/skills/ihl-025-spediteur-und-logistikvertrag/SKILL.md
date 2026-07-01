@@ -1,6 +1,6 @@
 ---
 name: ihl-025-spediteur-und-logistikvertrag
-description: "Internationales Handelsrecht und Lex Mercatoria: Spediteur Und Logistikvertrag. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Spediteur Und Logistikvertrag in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spediteur Und Logistikvertrag

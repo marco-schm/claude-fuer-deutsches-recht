@@ -1,6 +1,6 @@
 ---
 name: baurecht-akteneinsicht-schreiben
-description: "Baurecht: Akteneinsicht schreiben im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Baurecht Akteneinsicht Schreiben in Ordnungswidrigkeitenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Baurecht Akteneinsicht Schreiben

@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-statuswechsel-arbeitnehmer-selbststaendiger
-description: "Krankenversicherungsrechtliche Folgen beim Wechsel des Erwerbsstatus – Fristen, Beitragsanpassungen, Kassenpflichten im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Statuswechsel: Arbeitnehmer, Selbstständiger, Student, Rentner in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Statuswechsel: Arbeitnehmer, Selbstständiger, Student, Rentner

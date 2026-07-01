@@ -1,6 +1,6 @@
 ---
 name: 07-berufungsverfahren-paragraf-511-ff
-description: "Berufungsverfahren: Zulässigkeit Paragraf 511, Berufungsbegründung Paragraf 520, Prüfungsumfang Paragraf 529, Zurückweisungsbeschluss Paragraf 522 Abs. 2, Berufungsurteil Paragraf 540"
+description: "Wenn es um 07 Berufungsverfahren Paragraf 511 Ff in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 07 Berufungsverfahren Paragraf 511 Ff

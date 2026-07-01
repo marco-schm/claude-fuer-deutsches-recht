@@ -1,6 +1,6 @@
 ---
 name: 191-globaler-minderausgabe-dashboard-bauen
-description: "Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Dashboard bauen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Globaler Minderausgabe Dashboard Bauen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Globaler Minderausgabe Dashboard Bauen

@@ -1,6 +1,6 @@
 ---
 name: fue-definition-frascati-abgrenzung
-description: "FuE-Definition für die Forschungszulage praxisnah prüfen: Grundlagenforschung, industrielle Forschung, experimentelle Entwicklung, Frascati-Kriterien (Neuheit, Schöpferisch, Ungewissheit, Systematik, Reproduzierbarkeit), AGVO-Definitionen, Abgrenzung zu Routineentwicklung, Customizing, Bugfixing..."
+description: "Wenn es um FuE-Definition und Abgrenzung nach Frascati in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # FuE-Definition und Abgrenzung nach Frascati

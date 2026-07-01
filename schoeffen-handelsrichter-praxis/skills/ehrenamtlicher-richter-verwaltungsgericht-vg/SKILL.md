@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-richter-verwaltungsgericht-vg
-description: "Ehrenamtlicher Richter am Verwaltungsgericht: erklärt Rolle in Tatsachen- und Rechtsfragen, Aktenstudium und Beratung für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsri..."
+description: "Wenn es um Ehrenamtlicher Richter am Verwaltungsgericht in Schöffen und Handelsrichter Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Ehrenamtlicher Richter am Verwaltungsgericht

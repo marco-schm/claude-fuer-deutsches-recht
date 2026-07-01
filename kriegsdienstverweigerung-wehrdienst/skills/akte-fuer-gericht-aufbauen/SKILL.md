@@ -1,6 +1,6 @@
 ---
 name: akte-fuer-gericht-aufbauen
-description: "Ordnet Tatsachen, Gewissen, Belege und Verfahrensfehler gerichtsfest im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Gerichtsakte aufbauen in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Gerichtsakte aufbauen

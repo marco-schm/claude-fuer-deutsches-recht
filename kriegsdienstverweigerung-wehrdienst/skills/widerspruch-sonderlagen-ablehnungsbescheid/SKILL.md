@@ -1,6 +1,6 @@
 ---
 name: widerspruch-sonderlagen-ablehnungsbescheid
-description: "Prüft normale und verkürzte Widerspruchsfristen, insbesondere § 11 KDVG im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Widerspruchsfristen Sonderlagen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Widerspruchsfristen Sonderlagen

@@ -1,6 +1,6 @@
 ---
 name: klimafonds-szenario-rechnen
-description: "Haushaltsrecht BHO Bund und Länder: Klimafonds: Szenario rechnen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Klimafonds Szenario Rechnen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klimafonds Szenario Rechnen

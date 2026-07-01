@@ -1,6 +1,6 @@
 ---
 name: spanien-juicio-proporcionalidad
-description: Spanische Verhältnismäßigkeitsdogmatik des Tribunal Constitucional mit dem juicio de proporcionalidad in drei Stufen Idoneidad Necesidad Proporcionalidad en sentido estricto seit STC 66/1995 und STC 207/1996 unter Art 53 I CE und Art 10 II CE. Mit Contenido esencial Reserva de ley organica Habeas corpus und Hinweisen auf Strukturunterschiede zur deutschen Vier-Stufen-Prüfung und zur Rezeption ueber EMRK Art 10 II CE.
+description: "Wenn es um Spanien Juicio de Proporcionalidad in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Spanien Juicio de Proporcionalidad

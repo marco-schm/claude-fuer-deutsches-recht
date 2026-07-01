@@ -1,6 +1,6 @@
 ---
 name: absonderungsrecht-paragraf-50-inso
-description: "Absonderungsrecht § 50 InsO: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Absonderungsrecht Paragraf 50 InsO in Fachanwalt Insolvenz- und Sanierungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Absonderungsrecht § 50 InsO

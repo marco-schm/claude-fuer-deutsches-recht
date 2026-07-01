@@ -1,6 +1,6 @@
 ---
 name: nach-grenzbebauung-ueberhang-spezial
-description: "Spezialfall Grenzbebauung und Überhang § 910 BGB / Landesrecht: Abstandsflaechen, Rueckschnitt, Vorrang des Naturschutzes. Prüfraster für Eigentuemer und Mieter im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Nach: Grenzbebauung Überhang in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nach: Grenzbebauung Überhang

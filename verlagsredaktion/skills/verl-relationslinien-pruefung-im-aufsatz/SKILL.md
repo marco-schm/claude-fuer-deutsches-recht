@@ -1,6 +1,6 @@
 ---
 name: verl-relationslinien-pruefung-im-aufsatz
-description: "Prueft die logischen Relationslinien eines juristischen Aufsatzes: traegt das Argumentationsgeruest die Hauptthese ohne Sprunglinien und ohne Zirkel?"
+description: "Wenn es um Relationslinien-Pruefung im Aufsatz in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Relationslinien-Pruefung im Aufsatz

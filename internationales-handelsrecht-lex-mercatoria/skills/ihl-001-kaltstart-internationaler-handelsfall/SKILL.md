@@ -1,6 +1,6 @@
 ---
 name: ihl-001-kaltstart-internationaler-handelsfall
-description: "Internationales Handelsrecht und Lex Mercatoria: Kaltstart Internationaler Handelsfall. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Kaltstart Internationaler Handelsfall in Internationales Handelsrecht und Lex Mercatoria geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Internationaler Handelsfall

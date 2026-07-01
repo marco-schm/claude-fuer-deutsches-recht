@@ -1,6 +1,6 @@
 ---
 name: eucharistie-kommunionzulassung
-description: "Eucharistie und Kommunionzulassung: Zulassung, würdiger Empfang, öffentliche schwere Sünde und Gespräch; CIC can. 897-958 und 912-923; KKK 1322-1419; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerk..."
+description: "Wenn es um Eucharistie und Kommunionzulassung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eucharistie Kommunionzulassung; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
 ---
 
 # Eucharistie und Kommunionzulassung

@@ -1,6 +1,6 @@
 ---
 name: video-verhandlung-110a-sgg
-description: "Video-Verhandlung beim SG nach § 110a SGG. Wer kann teilnehmen Technik Vorbereitung Verlauf. Praktische Hinweise für Buerger mit gesundheitlichen Einschraenkungen."
+description: "Wenn es um Video-Verhandlung am SG — Paragraf 110a SGG in selbstvertreter-sozialgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Video-Verhandlung am SG — § 110a SGG

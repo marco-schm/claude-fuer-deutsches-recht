@@ -1,6 +1,6 @@
 ---
 name: red-team-bundeswehr-beschwerde
-description: "Red-Team Bundeswehr-Beschwerde: kritische Gegenprüfung einer Beschwerde auf Schwachstellen, Gegenargumente und Verbesserungen. Norm-/Quellenanker: WBO, WDO, VwGO."
+description: "Wenn es um Red-Team: Bundeswehr-Beschwerde kritisch prüfen in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team: Bundeswehr-Beschwerde kritisch prüfen

@@ -1,6 +1,6 @@
 ---
 name: vergaberecht-zahlen-schwellen-und-berechnung
-description: "Vergaberecht: Zahlen, Schwellenwerte und Berechnung: Vergaberecht: Zahlen, Schwellenwerte und Berechnung."
+description: "Wenn es um Vergaberecht: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Bau Architektenrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Vergaberecht: Zahlen, Schwellenwerte und Berechnung

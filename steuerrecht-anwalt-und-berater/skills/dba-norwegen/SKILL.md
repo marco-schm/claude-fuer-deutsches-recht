@@ -1,6 +1,6 @@
 ---
 name: dba-norwegen
-description: "DBA Deutschland Norwegen. Anwendungsfall Oel und Gas Offshore Schifffahrt Mittelstand Pensionen Beteiligungen. EWR-Status keine MTRL. Methodenartikel Freistellung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Norwegen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Norwegen

@@ -1,6 +1,6 @@
 ---
 name: eignung-referenzen-umsatz-nachunternehmer
-description: "Eignung vertieft prüfen: Referenzen, Mindestumsatz, technische Leistungsfaehigkeit, EEE, Nachunternehmer, Eignungsleihe, Konsortien und Nachforderung: Eignung vertieft prüfen: Referenzen, Mindestumsatz, technische Leistungsfaehigkeit, EEE, Nachunternehme..."
+description: "Wenn es um Eignung Referenzen Umsatz Nachunternehmer in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eignung vertieft prüfen: Referenzen, Mindestumsatz, technische Leistungsfaehigkeit, EEE, Nachunternehmer, Eignungsleihe, Konsortien und Nachforderung.

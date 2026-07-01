@@ -1,6 +1,6 @@
 ---
 name: robotische-operation
-description: "Robotische Operation: moderner Medizinrechts-Skill für Da-Vinci-/Robotik-OP, Bedienfehler, Training, Herstellerhinweis und Aufklärung: Robotische Operation: moderner Medizinrechts-Skill für Da-Vinci-/Robotik-OP, Bedienfehler, Training, Herstellerhinweis und..."
+description: "Wenn es um Robotische Operation in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Robotische Operation: moderner Medizinrechts-Skill für Da-Vinci-/Robotik-OP, Bedienfehler, Training, Herstellerhinweis und Aufklärung

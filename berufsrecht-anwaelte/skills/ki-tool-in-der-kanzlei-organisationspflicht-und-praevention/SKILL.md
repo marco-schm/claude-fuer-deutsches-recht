@@ -1,6 +1,6 @@
 ---
 name: ki-tool-in-der-kanzlei-organisationspflicht-und-praevention
-description: "Anwälte: ki tool in der kanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Ki Tool In Der Kanzlei Organisationspflicht Und Praevention in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: ki tool in der kanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

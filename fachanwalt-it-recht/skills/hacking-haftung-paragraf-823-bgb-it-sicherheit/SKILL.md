@@ -1,6 +1,6 @@
 ---
 name: hacking-haftung-paragraf-823-bgb-it-sicherheit
-description: "Hacking Haftung § 823 BGB it Sicherheit: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Hacking Haftung Paragraf 823 BGB it Sicherheit in Fachanwalt It Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hacking Haftung § 823 BGB it Sicherheit

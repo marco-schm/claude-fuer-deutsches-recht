@@ -1,6 +1,6 @@
 ---
 name: lizenz-und-vertriebsstart
-description: "Erstellt rechtliche Startliste für erste Kundenverträge, AGB, Datenschutz, IP und Gewährleistung im Gesellschaftsgruender."
+description: "Wenn es um Lizenz- und Vertriebsstart in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lizenz- und Vertriebsstart

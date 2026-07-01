@@ -1,6 +1,6 @@
 ---
 name: moeblierte-vermietung
-description: "Möblierte Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Möblierungszuschlag, Mietpreisbremse, Inventar, Kaution; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbe..."
+description: "Wenn es um Möblierte Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Möblierte Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht

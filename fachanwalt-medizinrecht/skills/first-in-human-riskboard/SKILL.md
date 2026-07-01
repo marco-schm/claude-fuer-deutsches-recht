@@ -1,6 +1,6 @@
 ---
 name: first-in-human-riskboard
-description: "First-in-Human Risk Board: moderner Medizinrechts-Skill für Erstgabe am Menschen, Dosissteigerung, Sentinel-Dosing, Stop-Regeln und Krisenkommunikation: First-in-Human Risk Board: moderner Medizinrechts-Skill für Erstgabe am Menschen, Dosissteigerung, Senti..."
+description: "Wenn es um First In Human Riskboard in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # First-in-Human Risk Board: moderner Medizinrechts-Skill für Erstgabe am Menschen, Dosissteigerung, Sentinel-Dosing, Stop-Regeln und Krisenkommunikation

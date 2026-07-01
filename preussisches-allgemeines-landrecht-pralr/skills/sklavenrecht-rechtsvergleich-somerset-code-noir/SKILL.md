@@ -1,6 +1,6 @@
 ---
 name: sklavenrecht-rechtsvergleich-somerset-code-noir
-description: "Rechtsvergleich Sklavenrecht — Preussen ALR vs. England Somerset 1772 vs. Frankreich Code Noir 1685/1716. Skill arbeitet die drei wichtigsten europaeischen Linien aus den Wirkungsmechanismus (sofortige Befreiung vs. Fristenkonstrukt) und die rechtsgeschichtliche Linie zur Abolition. Liefert Synop..."
+description: "Wenn es um Rechtsvergleich Sklavenrecht — Preussen, England, Frankreich in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsvergleich Sklavenrecht — Preussen, England, Frankreich

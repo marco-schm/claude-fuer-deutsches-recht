@@ -1,6 +1,6 @@
 ---
 name: fabrikbetrieb-in-china
-description: "Rechtlicher und operativer Rahmen für Fabrikbetrieb in der VR China: Betriebsgenehmigungen, Umweltauflagen (chinesisches Umweltschutzgesetz), Arbeitssicherheit (Work Safety Law CN), Datenlokalisierung (Cybersecurity Law Art. 37), LkSG-Sorgfaltspflichten aus Deutschland, Notfallplanung. Output: Op..."
+description: "Wenn es um Fabrikbetrieb in China: Rechtlicher Rahmen und Compliance in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fabrikbetrieb in China: Rechtlicher Rahmen und Compliance

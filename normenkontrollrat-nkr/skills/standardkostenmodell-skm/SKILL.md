@@ -1,6 +1,6 @@
 ---
 name: standardkostenmodell-skm
-description: "Beschreibt das Standardkostenmodell SKM als methodischen Kern der Erfuellungsaufwandsberechnung. Erklaert die Standardformel Aufwand pro Fall × Fallzahl Bandbreiten Komplexitaetsfaktoren Bezug auf DESTATIS-Lohnsaetze und Dokumentationsanforderungen. Mit Rechenbeispiel und Checkliste für die NKR-M..."
+description: "Wenn es um NKR-Standardkostenmodell (SKM) in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # NKR-Standardkostenmodell (SKM)

@@ -1,6 +1,6 @@
 ---
 name: exit-entbranding-und-social-media-accounts
-description: "Fachmodul Franchiserecht für Exit, Entbranding und Social-Media-Accounts: Bei Vertragsende werden Markenentfernung, Kundendaten, Bewertungsprofile, Domains, Accounts, Inventar und einstweiliger Rechtsschutz sauber getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungs..."
+description: "Wenn es um Franchise: Exit, Entbranding und Social-Media-Accounts in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Franchise: Exit, Entbranding und Social-Media-Accounts

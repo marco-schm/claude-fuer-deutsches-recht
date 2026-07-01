@@ -1,6 +1,6 @@
 ---
 name: militaerrecht-und-kriegsfolgen
-description: "Deutsche Rechtsgeschichte: Militaerrecht und Kriegsfolgen. Militaerstrafrecht im Kaiserreich, Kriegsgerichtsbarkeit WW1 und WW2, Deserteur-Rehabilitierung und Aufarbeitung von Kriegsverbrechern im Deutsche Rechtsgeschichte."
+description: "Wenn es um Militaerrecht und Kriegsfolgen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Militaerrecht und Kriegsfolgen

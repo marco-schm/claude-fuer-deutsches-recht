@@ -1,6 +1,6 @@
 ---
 name: 09-vergleich-und-erledigung
-description: "Prozessvergleich Paragraf 794 Abs. 1 Nr. 1 ZPO, Vergleich im Termin, schriftlicher Vergleich Paragraf 278 Abs. 6 ZPO, Erledigung in der Hauptsache, einseitige Erledigungserklaerung"
+description: "Wenn es um 09 Vergleich und Erledigung in Richter Amtsgericht Zivilsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # 09 Vergleich und Erledigung

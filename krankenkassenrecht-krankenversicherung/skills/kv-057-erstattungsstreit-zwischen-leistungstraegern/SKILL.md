@@ -1,6 +1,6 @@
 ---
 name: kv-057-erstattungsstreit-zwischen-leistungstraegern
-description: "Krankenversicherung: Erstattungsstreit zwischen Leistungsträgern mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Erstattungsstreit zwischen Leistungsträgern in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Erstattungsstreit zwischen Leistungsträgern

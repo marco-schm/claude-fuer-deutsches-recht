@@ -1,6 +1,6 @@
 ---
 name: acc3-zustaendigkeit-pruefen
-description: "ACC3-Mandat: Luftfrachttraeger der Fracht aus Drittlaendern in EU bringt muss Designierung und Validierung nachweisen. Prüft EU-DVO 2015/1998 EU-VO 300/2008 LuftSiG § 9 und EU-Validierungs-Verfahren und liefert Zuständigkeits-Vermerk für ACC3-Designierungsverfahren im Luftrecht Flughafenrecht."
+description: "Wenn es um ACC3 – Zuständigkeit prüfen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ACC3 – Zuständigkeit prüfen

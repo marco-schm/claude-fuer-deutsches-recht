@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler
-description: "Rechtsabteilungs-Fachmodul für Kommissionsgeschäft und Plattformhändler: Kommission, Eigenhandel und Marktplatzrolle werden rechtlich sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsrecht Hgb."
+description: "Wenn es um Rechtsabteilung: Kommissionsgeschäft und Plattformhändler in Handelsrecht HGB geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Kommissionsgeschäft und Plattformhändler

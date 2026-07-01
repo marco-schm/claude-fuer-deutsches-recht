@@ -1,6 +1,6 @@
 ---
 name: inv-039-healthcare-compliance
-description: "Spezialskill fuer Healthcare Compliance: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Healthcare Compliance in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internal Investigation: Healthcare Compliance

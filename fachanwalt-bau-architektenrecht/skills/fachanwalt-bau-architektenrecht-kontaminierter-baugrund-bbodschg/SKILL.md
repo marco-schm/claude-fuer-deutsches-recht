@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg
-description: "Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenverteilung nach BBodSchG. Normen: §§ 4 9 BBodSchG, §§ 633 634 BGB. Prüfraster: Verursacherhaftung, Zustandsstoerer, Sanierungskosten, Gewaehrleistung. Output: Haftungsanalyse kontaminierter Baugrund. Abgrenzung: nicht allgemeine Mangelgewaehrleistung."
+description: "Wenn es um Kontaminierter Baugrund — Werkvertrag + BBodSchG-Sanierungspflicht in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kontaminierter Baugrund — Werkvertrag + BBodSchG-Sanierungspflicht

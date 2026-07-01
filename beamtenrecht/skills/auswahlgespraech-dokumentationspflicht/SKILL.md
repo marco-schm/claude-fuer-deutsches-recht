@@ -1,6 +1,6 @@
 ---
 name: auswahlgespraech-dokumentationspflicht
-description: "Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen für alle Bewerber die Beweislast bei Gespraechsfehlern und den Stellenwert eines Auswahlgespraechs gegenueb..."
+description: "Wenn es um Auswahlgespraech — Dokumentationspflicht und Verfahrensfehler in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Auswahlgespraech — Dokumentationspflicht und Verfahrensfehler

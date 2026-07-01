@@ -1,6 +1,6 @@
 ---
 name: gesellschafterliste-legitimation-und-widerspruch
-description: Prüft Gesellschafterlisten, Legitimationswirkung, Widerspruch, Listenkorrektur und taktische Schritte bei streitigen GmbH-Anteilen.
+description: "Wenn es um Gesellschafterliste, Legitimation und Widerspruch in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Gesellschafterliste, Legitimation und Widerspruch
 

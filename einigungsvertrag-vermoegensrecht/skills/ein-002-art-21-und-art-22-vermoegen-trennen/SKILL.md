@@ -1,6 +1,6 @@
 ---
 name: ein-002-art-21-und-art-22-vermoegen-trennen
-description: "Einigungsvertrag und Vermögensrecht: Art. 21 und Art. 22 Vermögen trennen. Art. 21 und Art. 22 Vermögen trennen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Art 21 Und Art 22 Vermoegen Trennen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Art 21 Und Art 22 Vermoegen Trennen

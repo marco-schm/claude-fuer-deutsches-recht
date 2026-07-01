@@ -1,6 +1,6 @@
 ---
 name: uebergabe-fristennotiz-und-naechster-schritt
-description: "Übergabe: Fristennotiz und nächster Schritt: Übergabe: Fristennotiz und nächster Schritt."
+description: "Wenn es um Übergabe: Fristennotiz und nächster Schritt in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Übergabe: Fristennotiz und nächster Schritt

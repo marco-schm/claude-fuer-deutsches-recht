@@ -1,6 +1,6 @@
 ---
 name: fristen-risikoampel
-description: "Ampel zur Bewertung saemtlicher Fristen in einer Forderungssache von Verjährung Klagefrist Einspruchsfrist Beschwerdefrist bis Vollstreckungsfristen. Pinpoints BGB 195 199 ZPO 339 Einspruchsfrist Versaeumnisurteil ZPO 700 Einspruch Vollstreckungsbescheid ZPO 222 Fristberechnung. Liefert Ampel-Log..."
+description: "Wenn es um Fristen-Risikoampel in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen-Risikoampel

@@ -1,6 +1,6 @@
 ---
 name: itlos-hamburg-und-unclos
-description: "Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS in Hamburg: UNCLOS Art. 292 (Prompt Release); Art. 290 (Vorlaeufige Maßnahmen); ITLOS-Statute Annex VI. Relevante Faelle: M/V Saiga Nr. 2; Arctic Sunrise Nr. 22; Juno Trader Nr. 13; Ukraine vs. Russia Nr. 26. Output: ITLOS-Verfahrensstr..."
+description: "Wenn es um ITLOS Hamburg und UNCLOS – Internationale Seerechtstreitigkeiten in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # ITLOS Hamburg und UNCLOS – Internationale Seerechtstreitigkeiten

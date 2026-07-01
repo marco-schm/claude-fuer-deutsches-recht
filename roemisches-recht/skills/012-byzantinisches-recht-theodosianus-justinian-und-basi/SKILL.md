@@ -1,6 +1,6 @@
 ---
 name: 012-byzantinisches-recht-theodosianus-justinian-und-basi
-description: "Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken im Römisches Recht."
+description: "Wenn es um Rom Byzantinisches Recht Theodosianus Justinian Und Basi in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Byzantinisches Recht Theodosianus Justinian Und Basi

@@ -1,6 +1,6 @@
 ---
 name: abschlussvertreter
-description: "Klärt Rechtsstellung und Haftungsrahmen des Abschlussvertreters mit Abschlussvollmacht nach §§ 84 und 54 HGB: Vollmachtsumfang, Wirksamkeit abgeschlossener Verträge, Haftung bei Überschreitung der Vollmacht sowie Abgrenzung zum Vermittlungsvertreter ohne Abschlussbefugnis im Handelsvertreterrecht."
+description: "Wenn es um Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsstellung des Abschlussvertreters nach §§ 84 und 54 HGB

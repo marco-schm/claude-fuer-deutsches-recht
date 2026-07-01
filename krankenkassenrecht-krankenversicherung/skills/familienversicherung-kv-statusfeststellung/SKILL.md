@@ -1,6 +1,6 @@
 ---
 name: familienversicherung-kv-statusfeststellung
-description: "Familienversicherung nach § 10 SGB V: Einkommensgrenzen, Minijob als Ausschlussgrund, Überprüfung und Nachzahlungsrisiken bei Grenzüberschreitung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Familienversicherung: Einkommensgrenze und Minijob in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Familienversicherung: Einkommensgrenze und Minijob

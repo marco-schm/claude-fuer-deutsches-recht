@@ -1,6 +1,6 @@
 ---
 name: lieferfrist-teillieferung
-description: "Klausel-Fachmodul für Lieferfrist Teillieferung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um Lieferfrist Teillieferung in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lieferfrist Teillieferung

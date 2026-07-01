@@ -1,6 +1,6 @@
 ---
 name: grosskunde-bricht-weg
-description: "Solo-Selbstständige: erstellt Sofortplan Pipeline, Kosten, Forderungen und Finanzierung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Krise Schulden und Neustart: Erstellt sofortplan pipeline in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krise Schulden und Neustart: Erstellt sofortplan pipeline

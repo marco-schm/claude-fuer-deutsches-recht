@@ -1,6 +1,6 @@
 ---
 name: vermoegensgesetz-anspruchspfad
-description: "Einigungsvertrag und Vermögensrecht: Vermögensgesetz Anspruchspfad. Vermögensgesetz Anspruchspfad im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägige..."
+description: "Wenn es um Vermögensgesetz Anspruchspfad in Einigungsvertrag und Vermögensrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vermögensgesetz Anspruchspfad

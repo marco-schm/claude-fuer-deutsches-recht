@@ -1,6 +1,6 @@
 ---
 name: nach-nachbarrechtsuebersicht-bauleiter
-description: "Bauleiter Uebersicht Nachbarrecht: BGB §§ 903 ff., Landesnachbarrechtsgesetze, BImSchG. Prüfraster Immissionen, Grenzbebauung, Einfriedung. Mustertext Aufforderungsschreiben im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Nach: Nachbarrecht-Übersicht in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nach: Nachbarrecht-Übersicht

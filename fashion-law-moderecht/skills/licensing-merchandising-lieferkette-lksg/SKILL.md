@@ -1,6 +1,6 @@
 ---
 name: licensing-merchandising-lieferkette-lksg
-description: "Licensing und Merchandising für Fashion prüfen: Markenrechte, Qualität, Produktkategorien, Approval, Royalties, Anti-Counterfeit und Territory im Fashion Law Moderecht."
+description: "Wenn es um Licensing Merchandising in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Licensing Merchandising

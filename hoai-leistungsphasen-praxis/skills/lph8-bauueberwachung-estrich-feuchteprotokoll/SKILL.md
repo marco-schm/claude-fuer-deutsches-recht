@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-estrich-feuchteprotokoll
-description: "Bauueberwachung HOAI LPH 8 für Estricharbeiten mit Schwerpunkt Feuchteprotokoll — Kontrolle Zementestrich CT und Anhydritestrich CA nach DIN EN 13813, Feuchtemessung CM-Methode vor Belagsverlegung nach DIN 18560-1, Estrichdicke und Bewehrung Schwimmender Estrich nach DIN 18560-2, Randdaemmstreife..."
+description: "Wenn es um Bauueberwachung Estrich und Feuchteprotokoll in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Estrich und Feuchteprotokoll

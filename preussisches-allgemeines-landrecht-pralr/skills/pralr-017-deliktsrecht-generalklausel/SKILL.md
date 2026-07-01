@@ -1,6 +1,6 @@
 ---
 name: pralr-017-deliktsrecht-generalklausel
-description: "PrALR: deliktische Generalklausel, Vorsatz, grobes/mäßiges Versehen, Genugtuung und Schaden strukturieren."
+description: "Wenn es um Deliktsrecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 017 Deliktsrecht Generalklausel; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Deliktsrecht

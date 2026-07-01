@@ -1,6 +1,6 @@
 ---
 name: betriebshaftpflicht
-description: "Solo-Selbstständige: ordnet Personen-/Sachschäden, Veranstaltung und Mietsachschäden; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Versicherung Haftung und Risiko: Ordnet personen-/sachschäden in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versicherung Haftung und Risiko: Ordnet personen-/sachschäden

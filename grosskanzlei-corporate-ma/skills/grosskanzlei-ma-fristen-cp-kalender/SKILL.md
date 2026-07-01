@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-fristen-cp-kalender
-description: "Freistehender Deal-Fristen- und CP-Kalender für M&A-Mandate: Anwendungsfall Fristen aus Signing Closing Q&A Regulatory Register Board und Restrukturierung muessen in einem Kalender zusammengeführt werden. SPA Closing Conditions, Paragraf 35 ff. GWB Kartellfristen, Paragraf 55 ff. AWV FDI-Fristen. Prüfraster..."
+description: "Wenn es um Freistehender Deal-Fristen- und CP-Kalender in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freistehender Deal-Fristen- und CP-Kalender

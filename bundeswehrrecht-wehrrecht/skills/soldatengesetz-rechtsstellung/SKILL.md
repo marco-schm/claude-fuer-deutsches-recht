@@ -1,6 +1,6 @@
 ---
 name: soldatengesetz-rechtsstellung
-description: "Soldatengesetz Rechtsstellung Grundpflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundesw..."
+description: "Wenn es um Soldatengesetz – Rechtsstellung und Grundpflichten in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Soldatengesetz – Rechtsstellung und Grundpflichten

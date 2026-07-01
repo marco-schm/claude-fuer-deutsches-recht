@@ -1,6 +1,6 @@
 ---
 name: archive-register-und-datenschutz
-description: "Archive, Register und Datenschutz: Registerführung, Einsicht, Korrektur, Geheimarchiv und Datenschutz; CIC can. 486-491 und 535; KKK 2491-2492; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung."
+description: "Wenn es um Archive, Register und Datenschutz in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Archive Register Und Datenschutz; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
 ---
 
 # Archive, Register und Datenschutz

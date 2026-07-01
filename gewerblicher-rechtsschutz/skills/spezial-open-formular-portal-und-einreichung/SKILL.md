@@ -1,6 +1,6 @@
 ---
 name: spezial-open-formular-portal-und-einreichung
-description: "Open: Formular, Portal und Einreichungslogik im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Open: Formular, Portal und Einreichungslogik in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Open: Formular, Portal und Einreichungslogik

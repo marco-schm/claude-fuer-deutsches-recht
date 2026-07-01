@@ -1,6 +1,6 @@
 ---
 name: staat-st-kitts-und-nevis-migrationscheck
-description: "Staaten- und Gebietscheck St: Kitts und Nevis: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spani..."
+description: "Wenn es um Staaten- und Gebietscheck St in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Staat St Kitts Und Nevis Migrationscheck; Arbeitsfeld: Fachanwalt Migrationsrecht."
 ---
 
 # Staaten- und Gebietscheck St

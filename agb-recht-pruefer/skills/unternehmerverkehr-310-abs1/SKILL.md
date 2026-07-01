@@ -1,6 +1,6 @@
 ---
 name: unternehmerverkehr-310-abs1
-description: "Norm- und Dogmatik-Skill für Unternehmerverkehr 310 Abs. 1: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Unternehmerverkehr 310 Abs. 1 in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Unternehmerverkehr 310 Abs1; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Unternehmerverkehr 310 Abs. 1

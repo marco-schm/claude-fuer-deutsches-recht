@@ -1,6 +1,6 @@
 ---
 name: konto-gesperrt-bank
-description: "Konto gesperrt durch Bank: führt Laien durch Kontosperre, Geldwäscheprüfung, Pfändung, P-Konto und Existenzsicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Konto gesperrt durch Bank in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konto gesperrt durch Bank

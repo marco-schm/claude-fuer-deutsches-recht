@@ -1,6 +1,6 @@
 ---
 name: eugh-vorlage-art-267
-description: "EuGH-Vorlagefragen entwickeln: Vorlagefragen zu Art. 83, Umsatzbegriff, Verfahrensgarantien, Art. 58 und Grundrechtecharta formulieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen."
+description: "Wenn es um EuGH-Vorlagefragen entwickeln in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EuGH-Vorlagefragen entwickeln

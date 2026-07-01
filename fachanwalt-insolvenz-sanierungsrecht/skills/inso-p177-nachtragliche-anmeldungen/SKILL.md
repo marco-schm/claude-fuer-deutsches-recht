@@ -1,6 +1,6 @@
 ---
 name: inso-p177-nachtragliche-anmeldungen
-description: "§ 177 InsO (Nachträgliche Anmeldungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 177 InsO (Nachträgliche Anmeldungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fr..."
+description: "Wenn es um Inso P177 Nachtragliche Anmeldungen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 177 InsO (Nachträgliche Anmeldungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

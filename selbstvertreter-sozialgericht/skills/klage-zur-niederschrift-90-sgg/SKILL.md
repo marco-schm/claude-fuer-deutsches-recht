@@ -1,6 +1,6 @@
 ---
 name: klage-zur-niederschrift-90-sgg
-description: "Klage auf der Geschäftsstelle des SG diktieren § 90 SGG. Wer kann das wie laeuft das ab welche Termine welche Unterlagen mitbringen. Praktischer Leitfaden für Buerger."
+description: "Wenn es um Klage auf der Geschäftsstelle diktieren — Paragraf 90 SGG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klage auf der Geschäftsstelle diktieren — § 90 SGG

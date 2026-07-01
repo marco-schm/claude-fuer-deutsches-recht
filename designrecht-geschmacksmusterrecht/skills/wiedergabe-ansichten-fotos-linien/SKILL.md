@@ -1,6 +1,6 @@
 ---
 name: wiedergabe-ansichten-fotos-linien
-description: "Wiedergaben, Ansichten, Fotos, Linienzeichnungen und Disclaimer prüfen: was sichtbar ist, ist Schutzbasis: was fehlt, ist später schwer zu retten."
+description: "Wenn es um Wiedergabe Ansichten Fotos Linien in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Wiedergaben, Ansichten, Fotos, Linienzeichnungen und Disclaimer prüfen: was sichtbar ist, ist Schutzbasis

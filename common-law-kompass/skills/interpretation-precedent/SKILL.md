@@ -1,6 +1,6 @@
 ---
 name: interpretation-precedent
-description: "Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter dictum stare decisis Vertragsauslegung. Normen UK Supreme Court Rules US Federal Rules. Prüfraster Ratio-obiter-Unterscheidung Binding-Persuasive-Abgrenzung Auslegungs-Methode. O..."
+description: "Wenn es um Interpretation und Precedent in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Interpretation und Precedent

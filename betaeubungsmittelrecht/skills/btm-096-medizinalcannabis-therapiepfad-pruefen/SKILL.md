@@ -1,6 +1,6 @@
 ---
 name: btm-096-medizinalcannabis-therapiepfad-pruefen
-description: "Betäubungsmittelrecht: Medizinalcannabis: Therapiepfad prüfen. Therapiepfad prüfen für Medizinalcannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Medizinalcannabis Therapiepfad Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medizinalcannabis Therapiepfad Pruefen

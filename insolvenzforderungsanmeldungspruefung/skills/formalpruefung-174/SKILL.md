@@ -1,6 +1,6 @@
 ---
 name: formalpruefung-174
-description: "Formalprüfung Forderungsanmeldung nach § 174 InsO: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle prüft ob eingegangene Anmeldung Mindestangaben hat und tabellenfähig ist. § 174 InsO Pflichtinhalt, § 175 InsO Tabelle, § 176 InsO Prüfungstermin. Prüfraster Gläubiger mit Anschrift, Forderung..."
+description: "Wenn es um Formalprüfung nach Paragraf 174 InsO in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Formalprüfung nach § 174 InsO

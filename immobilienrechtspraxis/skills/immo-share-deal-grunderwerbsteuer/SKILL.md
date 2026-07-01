@@ -1,6 +1,6 @@
 ---
 name: immo-share-deal-grunderwerbsteuer
-description: "Immobilien Share Deal Grunderwerbsteuer §§ 1 Abs. 2a, Abs. 2b, Abs. 3 GrEStG: Schwellen 90 Prozent, 5/10 Jahre Halte. Vergleich Asset Deal vs. Share Deal. Auswirkungen MoPeG im Immobilienrechtspraxis."
+description: "Wenn es um Share-Deal GrEStG in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Share-Deal GrEStG

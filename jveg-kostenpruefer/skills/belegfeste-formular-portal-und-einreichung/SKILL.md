@@ -1,6 +1,6 @@
 ---
 name: belegfeste-formular-portal-und-einreichung
-description: "Belegfeste: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Belegfeste: Formular, Portal und Einreichungslogik in JVEG-Kostenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Belegfeste: Formular, Portal und Einreichungslogik

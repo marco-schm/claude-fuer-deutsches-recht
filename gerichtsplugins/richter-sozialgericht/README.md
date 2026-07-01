@@ -123,18 +123,18 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `01-zulaessigkeit-sozialklage` | Zulässigkeit Paragrafen 51 ff. SGG: Rechtsweg, Klagearten (Anfechtung Leistung Untaetigkeit Feststellung), Vorverfahren Paragraf 78, Klagefrist Paragraf 87, Klagebefugnis |
-| `02-amtsermittlung-sozialgericht` | Amtsermittlungsgrundsatz Paragraf 103 SGG: Beweisaufnahme von Amts wegen, Sachverständigengutachten Paragraf 109 SGG (Anhörung eines bestimmten Arztes), Beiziehung medizinischer Unterlagen |
-| `03-eilrechtsschutz-paragraf-86b` | Einstweiliger Rechtsschutz Paragraf 86b SGG: Anordnung der aufschiebenden Wirkung Abs. 1, einstweilige Anordnung Abs. 2 (Anordnungsanspruch und -grund), Existenzsicherung in Eilfaellen |
-| `04-krankenversicherung-pruefung` | Krankenversicherung SGB V: Versicherungspflicht Paragraf 5, Leistungsanspruch Paragraf 27 (Krankenbehandlung), Hilfsmittel Paragraf 33, Krankengeld Paragraf 44, ambulante und stationaere Behandlung |
-| `05-rentenversicherung-pruefung` | Gesetzliche Rentenversicherung SGB VI: Altersrente Paragrafen 35 ff., Erwerbsminderungsrente Paragraf 43, Wartezeit, Mindestbeitragszeiten, Hinterbliebenenrente |
-| `06-unfallversicherung-pruefung` | Gesetzliche Unfallversicherung SGB VII: Arbeitsunfall Paragraf 8, Berufskrankheit Paragraf 9, Versicherte Paragraf 2, Heilbehandlung Paragraf 27, Verletztenrente Paragraf 56 |
-| `07-buergergeld-und-sgb-ii` | Buergergeld SGB II: Anspruchsberechtigung Paragraf 7 SGB II, Bedarfsgemeinschaft, Regelbedarf Paragraf 20, Kosten der Unterkunft Paragraf 22, Sanktionen Paragraf 31 ff. (jetzt Leistungsminderungen) |
-| `08-schwerbehinderung-und-grad` | Schwerbehindertenrecht SGB IX: Grad der Behinderung Paragraf 152, Versorgungsmedizinverordnung (VersMedV), Merkzeichen, Gleichstellung, Nachteilsausgleiche |
-| `09-urteil-sozialgericht` | Urteil Paragrafen 132 ff. SGG: Tenor (Aufhebung, Verurteilung zur Leistung, Bescheidung), Tatbestand, Entscheidungsgründe, Nebenentscheidungen Paragrafen 193 ff. SGG (Kosten), Berufung an LSG, Revision an BSG |
-| `10-entscheidungsvorschlag-sozialgericht` | Strukturierter Entscheidungsvorschlag: Tenor-Skizze, sozialrechtliche Anspruchsprüfung, medizinische Beweiswürdigung, soziale Faktoren, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert |
-| `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (urteil sozialgericht) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
-| `prozessuale-kniffe-und-rechtsprechungsanker` | Führt öffentlich-rechtliche Verfahrenskniffe zu Amtsermittlung, Gehör, Eilrechtsschutz, Beiladung, Präklusion, Tenor und Begründung zusammen. |
-| `v392-praxisraster-richter-sozialgericht` | Praxisraster für Sozialgericht: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet. |
+| `01-zulaessigkeit-sozialklage` | Wenn es um 01 Zulässigkeit Sozialklage in Sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `02-amtsermittlung-sozialgericht` | Wenn es um 02 Amtsermittlung Sozialgericht in Sozialgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
+| `03-eilrechtsschutz-paragraf-86b` | Wenn es um 03 Eilrechtsschutz Paragraf 86B in Sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `04-krankenversicherung-pruefung` | Wenn es um 04 Krankenversicherung Prüfung in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `05-rentenversicherung-pruefung` | Wenn es um 05 Rentenversicherung Prüfung in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `06-unfallversicherung-pruefung` | Wenn es um 06 Unfallversicherung Prüfung in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `07-buergergeld-und-sgb-ii` | Wenn es um 07 Bürgergeld und Sgb Ii in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `08-schwerbehinderung-und-grad` | Wenn es um 08 Schwerbehinderung und Grad in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `09-urteil-sozialgericht` | Wenn es um 09 Urteil Sozialgericht in Sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `10-entscheidungsvorschlag-sozialgericht` | Wenn es um 10 Entscheidungsvorschlag Sozialgericht in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `99-finale-entscheidung-volltext` | Wenn es um Finale Entscheidung als Volltext (Urteil Sozialgericht) in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Na... |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `v392-praxisraster-richter-sozialgericht` | Wenn es um Praxisraster Sozialgericht in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -1,6 +1,6 @@
 ---
 name: ui-icons-graphical-user-interface
-description: "UI-Icons, grafische Benutzeroberflächen und digitale Designs prüfen: Bildschirmanzeigen, Icons, Animationen, EU-Designreform und Software-Schnittstellen im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Ui Icons Graphical User Interface in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Ui Icons Graphical User Interface

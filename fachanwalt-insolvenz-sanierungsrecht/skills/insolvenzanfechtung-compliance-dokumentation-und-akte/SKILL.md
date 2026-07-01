@@ -1,6 +1,6 @@
 ---
 name: insolvenzanfechtung-compliance-dokumentation-und-akte
-description: "Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt..."
+description: "Wenn es um Insolvenzanfechtung Compliance Dokumentation Und Akte in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

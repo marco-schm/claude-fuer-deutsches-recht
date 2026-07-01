@@ -1,6 +1,6 @@
 ---
 name: langfristige-liefervertraege-lsa
-description: "Internationales Handelsrecht: Langfristige Lieferverträge (Long-Term Supply Agreement, LSA). Preisanpassungsklauseln, Mindestmengen (Take-or-Pay), Qualitätssicherung, Änderungsmanagement, Vertragsauflösung und Force-Majeure-Klausel in mehrjährigen Verträgen im Internationales Handelsrecht Lex Mer..."
+description: "Wenn es um Langfristige Lieferverträge (LSA) in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Langfristige Lieferverträge (LSA)

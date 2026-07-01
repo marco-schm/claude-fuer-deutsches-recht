@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-beweisantrag-fundament
-description: "Beweisantrag so begruenden dass er gegen den Verschleppungs- oder Missbrauchsvorwurf immun ist: Klare Beweisbehauptung. Konkretes Beweismittel mit Adresse oder B..."
+description: "Wenn es um Strafr Dysfunk Beweisantrag Fundament in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Beweisantrag so begruenden dass er gegen den Verschleppungs- oder Missbrauchsvorwurf immun ist

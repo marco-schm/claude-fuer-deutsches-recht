@@ -1,6 +1,6 @@
 ---
 name: skill-templating-praxis
-description: "Skill-Templating für kanzleieigene Vorlagen: vom Schriftsatz-Bauplan zum eigenen Skill mit Platzhaltern, Prüfraster, Quellenregel. Konkrete Step-by-Step-Anleitung mit YAML-Frontmatter, Description-Regeln, Variablen-Erkennung, Ausgaberezept im Kanzlei Builder Hub."
+description: "Wenn es um Skill-Templating Praxis in Kanzlei-Builder-Hub geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Skill-Templating Praxis

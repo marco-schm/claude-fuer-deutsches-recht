@@ -1,6 +1,6 @@
 ---
 name: umwandlung-paragraf-202-umwg
-description: "Umwandlung § 202 UmwG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Umwandlung Paragraf 202 UmwG in Fachanwalt Handels- und Gesellschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umwandlung § 202 UmwG

@@ -1,6 +1,6 @@
 ---
 name: kanzlei-beweislast-und-darlegungslast
-description: "Kanzlei: Beweislast, Darlegungslast und Substantiierung: Kanzlei: Beweislast, Darlegungslast und Substantiierung."
+description: "Wenn es um Kanzlei: Beweislast, Darlegungslast und Substantiierung in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzlei: Beweislast, Darlegungslast und Substantiierung

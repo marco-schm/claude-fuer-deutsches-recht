@@ -1,6 +1,6 @@
 ---
 name: mpu-vorbereitung
-description: "Mandant muss MPU ablegen und fragt wie er sich vorbereiten soll: MPU Medizinisch-Psychologische Untersuchung Fahrerlaubnisrecht. Prüfraster: Anlass Alkohol Drogen Punkte Aggression zugelassene..."
+description: "Wenn es um Mandant muss MPU ablegen und fragt wie er sich vorbereiten soll in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandant muss MPU ablegen und fragt wie er sich vorbereiten soll

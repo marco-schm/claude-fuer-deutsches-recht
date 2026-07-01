@@ -1,6 +1,6 @@
 ---
 name: hgesr-einfuehrung-rechtsformen
-description: "Einfuehrung deutsche Rechtsformen für Handels- und Gesellschaftsrecht: GbR, OHG, KG, GmbH und Co KG, GmbH, UG haftungsbeschraenkt, AG, KGaA, SE, eingetragene Genossenschaft: Einfuehrung deutsche Rechtsformen für Handels- und Gesellschaftsrecht: GbR, OHG, KG..."
+description: "Wenn es um Hgesr Einfuehrung Rechtsformen in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einfuehrung deutsche Rechtsformen für Handels- und Gesellschaftsrecht: GbR, OHG, KG, GmbH und Co KG, GmbH, UG haftungsbeschraenkt, AG, KGaA, SE, eingetragene Genossenschaft

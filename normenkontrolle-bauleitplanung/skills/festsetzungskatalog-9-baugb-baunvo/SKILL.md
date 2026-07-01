@@ -1,6 +1,6 @@
 ---
 name: festsetzungskatalog-9-baugb-baunvo
-description: "Prueft den Festsetzungskatalog des BauGB Paragraf 9 und der BauNVO: Art und Mass der Nutzung, Bauweise, ueberbaubare Flaechen, Verkehrs-, Gruen- und Versorgungsflaechen, Hinweise, Kennzeichnungen und Katalogueberschreitungen."
+description: "Wenn es um Festsetzungskatalog nach BauGB Paragraf 9 und BauNVO in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Festsetzungskatalog nach BauGB Paragraf 9 und BauNVO

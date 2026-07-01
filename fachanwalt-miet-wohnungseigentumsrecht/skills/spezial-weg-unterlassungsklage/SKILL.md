@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-unterlassungsklage
-description: "WEG Unterlassungsklage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Störer, Anspruchsinhaber, Gemeinschaft, Eilbedürftigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um WEG Unterlassungsklage in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Unterlassungsklage

@@ -1,6 +1,6 @@
 ---
 name: bauunternehmen-perspektive
-description: "HOAI-Praxis: übersetzt HOAI-Planungsstand in Ausführungsrisiko und Nachtragschance; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um HOAI Querschnitt: Übersetzt hoai-planungsstand in ausführungsrisiko und nachtragschance in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # HOAI Querschnitt: Übersetzt hoai-planungsstand in ausführungsrisiko und nachtragschance

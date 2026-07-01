@@ -1,6 +1,6 @@
 ---
 name: methodengeschichte-savigny-bis-realismus
-description: "Deutsche Rechtsgeschichte: Methodengeschichte von Savigny bis zum Rechtsrealismus. Historische Schule, Begriffsjurisprudenz, Interessenjurisprudenz, Freirecht und ihre Folgen für heutige Auslegungsmethoden im Deutsche Rechtsgeschichte."
+description: "Wenn es um Methodengeschichte: Savigny bis Rechtsrealismus in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Methodengeschichte: Savigny bis Rechtsrealismus

@@ -1,6 +1,6 @@
 ---
 name: creator-nachlass-kooperation
-description: "Influencer-Recht: Creator-Nachlass und Account-Zugang – Erbrecht, digitaler Nachlass, Plattform-AGB, postmortales Persönlichkeitsrecht und Vorsorge im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Creator-Nachlass und Account-Zugang in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Influencer-Recht: Creator-Nachlass und Account-Zugang

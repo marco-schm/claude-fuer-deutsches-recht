@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-bundesmodell
-description: "Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem reformierten Modell — Bundesmodell und Ländermodelle Baden-Wuerttemberg Bayern Hamburg Hessen Niedersachsen sowie verfassungsrechtliche Bedenken. Anwendungsfall Mandant erhaelt Bescheid mit erkennbar übersetztem Bodenrichtwert oder feh..."
+description: "Wenn es um Grundsteuer — Reform 2025 Bundesmodell und Ländermodelle in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundsteuer — Reform 2025 Bundesmodell und Ländermodelle

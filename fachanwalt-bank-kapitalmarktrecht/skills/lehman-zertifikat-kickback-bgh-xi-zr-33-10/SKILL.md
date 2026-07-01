@@ -1,6 +1,6 @@
 ---
 name: lehman-zertifikat-kickback-bgh-xi-zr-33-10
-description: "Lehman Zertifikat Kickback BGH Xi Zr 33 10: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Lehman Zertifikat Kickback BGH Xi Zr 33 10 in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lehman Zertifikat Kickback BGH Xi Zr 33 10

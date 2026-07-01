@@ -1,6 +1,6 @@
 ---
 name: asset-inventory-cmdb
-description: "Prüft Asset-Inventar und CMDB als Grundlage jeder Security-Prüfung im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Asset Inventory Cmdb in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Asset Inventory Cmdb

@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-sportrecht
-description: "Sportrechtliches Mandat eintrifft und muss strukturiert erfasst werden: Mandantenrolle Sachgebiet Sofort-Fristen: Verbandsfrist gegen Sanktion..."
+description: "Wenn es um Mandat Triage Sportrecht in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sportrechtliches Mandat eintrifft und muss strukturiert erfasst werden: Mandantenrolle Sachgebiet Sofort-Fristen

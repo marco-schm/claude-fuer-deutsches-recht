@@ -1,6 +1,6 @@
 ---
 name: kostenfrei-vs-aufwendungsersatz-193-sgg
-description: "Aufwendungsersatz nach § 193 SGG. Bei Erfolg muss Beklagte notwendige außergerichtliche Kosten erstatten. Anwalt Fahrtkosten Auslagenpauschale. Antrag stellen."
+description: "Wenn es um Aufwendungs-Ersatz — Paragraf 193 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufwendungs-Ersatz — § 193 SGG

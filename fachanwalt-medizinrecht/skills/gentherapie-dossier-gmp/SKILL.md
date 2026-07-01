@@ -1,6 +1,6 @@
 ---
 name: gentherapie-dossier-gmp
-description: "Gentherapie-Dossier und GMP-Kette: moderner Medizinrechts-Skill für Qualität, Nichtklinik, Klinik, Herstellkette, Freigabe und Chargen-/Vektorlogik bei Gentherapeutika: Gentherapie-Dossier und GMP-Kette: moderner Medizinrechts-Skill für Qualität, Nichtklini..."
+description: "Wenn es um Gentherapie Dossier Gmp in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gentherapie-Dossier und GMP-Kette: moderner Medizinrechts-Skill für Qualität, Nichtklinik, Klinik, Herstellkette, Freigabe und Chargen-/Vektorlogik bei Gentherapeutika

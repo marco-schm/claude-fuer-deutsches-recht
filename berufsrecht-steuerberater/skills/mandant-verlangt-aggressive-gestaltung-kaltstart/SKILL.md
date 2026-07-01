@@ -1,6 +1,6 @@
 ---
 name: mandant-verlangt-aggressive-gestaltung-kaltstart
-description: "Steuerberater: mandant verlangt aggressive gestaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Mandant Verlangt Aggressive Gestaltung Kaltstart in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: mandant verlangt aggressive gestaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

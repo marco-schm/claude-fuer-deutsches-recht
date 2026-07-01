@@ -1,6 +1,6 @@
 ---
 name: note-3-formeln-erkennen
-description: Erkennung von Note-3-Formulierungen im Arbeitszeugnis als rechtlichem Ausgangspunkt der Beweislast und Abgrenzung gegenueber Note 2 durch Fehlen des Zeitsteigerers sowie gegenueber Note 4 durch Fehlen eindeutiger Abschwaecher.
+description: "Wenn es um Note-3-Formeln erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Note-3-Formeln erkennen

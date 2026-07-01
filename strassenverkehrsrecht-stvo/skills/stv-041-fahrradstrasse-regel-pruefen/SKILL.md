@@ -1,6 +1,6 @@
 ---
 name: stv-041-fahrradstrasse-regel-pruefen
-description: "Straßenverkehrsrecht StVO: Fahrradstraße: Regel prüfen. Regel prüfen für Fahrradstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Fahrradstrasse Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fahrradstrasse Regel Pruefen

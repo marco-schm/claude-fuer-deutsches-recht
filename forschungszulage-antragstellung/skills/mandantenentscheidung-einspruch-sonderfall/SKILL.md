@@ -1,6 +1,6 @@
 ---
 name: mandantenentscheidung-einspruch-sonderfall
-description: "Dokumentation: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Dokumentation: Mandantenkommunikation und Entscheidungsvorlage in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Dokumentation: Mandantenkommunikation und Entscheidungsvorlage

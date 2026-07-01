@@ -1,6 +1,6 @@
 ---
 name: matter-mandantenschulung-mandatsannahme
-description: "Mandantenschulung: steuert Kanzlei schult Fachabteilung oder Legal Team; Inhalte, Grenzen, Dokumentation und Follow-up zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Mandantenschulung in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantenschulung

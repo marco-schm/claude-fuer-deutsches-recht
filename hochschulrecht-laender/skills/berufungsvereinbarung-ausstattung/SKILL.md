@@ -1,6 +1,6 @@
 ---
 name: berufungsvereinbarung-ausstattung
-description: "Prüft Ausstattung, Zusagen, Verstetigung, Widerruf und Haushaltsvorbehalt im Hochschulrecht Länder."
+description: "Wenn es um Berufungsvereinbarung und Ausstattung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berufungsvereinbarung und Ausstattung

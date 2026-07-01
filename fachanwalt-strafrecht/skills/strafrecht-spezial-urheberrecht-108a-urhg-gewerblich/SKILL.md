@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-urheberrecht-108a-urhg-gewerblich
-description: "Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a UrhG: Qualifikation der Paragraphen 106 und 108 UrhG bei gewerbsmäßigem Handeln. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Kein Ant..."
+description: "Wenn es um Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a UrhG in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a UrhG

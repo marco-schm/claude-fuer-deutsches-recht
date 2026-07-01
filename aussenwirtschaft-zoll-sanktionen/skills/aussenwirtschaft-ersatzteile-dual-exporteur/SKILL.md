@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-ersatzteile-dual-exporteur
-description: "Exportkontrollpruefung für Ersatzteile und Komponenten mit Dual-Use-Potenzial nach VO (EU) 2021/821 und AWG: Abgrenzung Ersatzteil vs. vollstaendige Anlage, Klassifizierung nach Anhang I, Catch-All-Risiko bei Bestimmungslaendern mit Proliferationsrisiko, BAFA-Genehmigungspfad. Output: Klassifizie..."
+description: "Wenn es um Ersatzteile mit Dual-Use-Risiko: Klassifizierung und Lieferentscheidung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ersatzteile mit Dual-Use-Risiko: Klassifizierung und Lieferentscheidung

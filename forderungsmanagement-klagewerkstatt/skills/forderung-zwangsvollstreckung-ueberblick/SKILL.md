@@ -1,6 +1,6 @@
 ---
 name: forderung-zwangsvollstreckung-ueberblick
-description: "Zwangsvollstreckung Ueberblick: Mobiliarvollstreckung Gerichtsvollzieher Paragrafen 808 ff. ZPO, Forderungspfaendung Paragraf 829 ZPO, Lohnpfaendung mit Pfaendungstabelle, Immobiliarvollstreckung Zwangshypothek/Versteigerung. Output: Strategiememo Vollstreckung."
+description: "Wenn es um Zwangsvollstreckung Ueberblick in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zwangsvollstreckung Ueberblick

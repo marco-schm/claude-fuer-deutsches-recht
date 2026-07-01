@@ -1,6 +1,6 @@
 ---
 name: sonderversammlung-minderheit
-description: "Prüft Minderheitenverlangen, Einberufung durch Mitglieder, Tagesordnung und gerichtliche Hilfe im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Sonderversammlung Minderheit in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sonderversammlung Minderheit

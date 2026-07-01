@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-brandenburg-bbgdschg
-description: "Denkmalschutzrecht Brandenburg nach dem Brandenburgischen Denkmalschutzgesetz (BbgDSchG). Skill bündelt zuständige Behörden (Ministerium für Wissenschaft, Forschung und Kultur; Brandenburgisches Landesamt für Denkmalpflege in Zossen-Wünsdorf; Untere Denkmalschutzbehörden bei den Landkreisen) und die Systematik der nachrichtlichen Eintragung."
+description: "Wenn es um Denkmalschutz Brandenburg (BbgDSchG) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Brandenburg (BbgDSchG)

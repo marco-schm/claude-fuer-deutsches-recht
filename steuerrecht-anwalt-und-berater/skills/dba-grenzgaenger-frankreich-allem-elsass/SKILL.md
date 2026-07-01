@@ -1,6 +1,6 @@
 ---
 name: dba-grenzgaenger-frankreich-allem-elsass
-description: "Grenzgaengerregelung DBA Frankreich mit Schwerpunkt Elsass-Lothringen und 20-km-Zone. Anwendungsfall Arbeitnehmer Wohnsitz und Tätigkeit in Grenzgemeinde. Arbeitstaegliche Rückkehr 45-Tage-Schaedlichkeit. Beweismittel Reisekalender Arbeitgeberbescheinigung. Output Mandanten-Memo Grenzgaengernachw..."
+description: "Wenn es um Grenzgaengerregelung DBA-Frankreich (Elsass-Lothringen 20-km-Zone) in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Grenzgaengerregelung DBA-Frankreich (Elsass-Lothringen 20-km-Zone)

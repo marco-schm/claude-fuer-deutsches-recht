@@ -1,6 +1,6 @@
 ---
 name: arbeitsblatt-schriftsatz-brief-memo-bausteine
-description: "Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritis..."
+description: "Wenn es um Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine in Tabellenreview 3D geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine

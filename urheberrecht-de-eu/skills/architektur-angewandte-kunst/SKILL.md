@@ -1,6 +1,6 @@
 ---
 name: architektur-angewandte-kunst
-description: "Prüft Werke der Baukunst, angewandte Kunst, Produktgestaltung, Designrecht und Nutzungsänderungen im Urheberrecht De Eu."
+description: "Wenn es um Architektur und angewandte Kunst in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Architektur und angewandte Kunst

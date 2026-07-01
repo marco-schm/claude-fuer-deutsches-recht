@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-mord-211-stgb-mordmerkmale
-description: "Mord nach § 211 StGB: Praxisleitfaden für Verteidigung und Nebenklage zu den Mordmerkmalen Heimtuecke / niedrige Beweggruende / Habgier / Verdeckungsabsicht / grausam / gemeingefaehrlich / Mordlust / Befriedigung des Geschlechtstriebs...."
+description: "Wenn es um Mord nach Paragraf 211 StGB in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mord nach § 211 StGB

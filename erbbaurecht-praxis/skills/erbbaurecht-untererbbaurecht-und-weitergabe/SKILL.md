@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-untererbbaurecht-und-weitergabe
-description: "Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen im Erbbaurecht Praxis."
+description: "Wenn es um Untererbbaurecht und Weitergabe in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Untererbbaurecht und Weitergabe

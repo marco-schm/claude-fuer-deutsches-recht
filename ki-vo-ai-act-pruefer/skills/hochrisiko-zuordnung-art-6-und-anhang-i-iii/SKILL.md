@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-zuordnung-art-6-und-anhang-i-iii
-description: "Gesamtuebersicht zur Hochrisiko-Zuordnung nach Art. 6 KI-VO: Art. 6 Abs. 1 Sicherheitsbauteil/Anhang I und Art. 6 Abs. 2/Anhang III. Erklaert Zweckbestimmung, allgemeine Chatbots/GPAI, Mitarbeitern-Fehlgebrauch, Rueckausnahme Art. 6 Abs. 3 und Pflichtenfolge. Output: Hochrisiko-Landkarte mit Ro..."
+description: "Wenn es um Hochrisiko-Zuordnung — Art. 6 europäischer Technikregulierungsrahmen und Anhang I/III in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Hochrisiko-Zuordnung — Art. 6 KI-VO und Anhang I/III

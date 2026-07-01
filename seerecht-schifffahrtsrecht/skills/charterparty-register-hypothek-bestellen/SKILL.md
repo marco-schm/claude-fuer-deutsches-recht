@@ -1,6 +1,6 @@
 ---
 name: charterparty-register-hypothek-bestellen
-description: "Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer prüft Seeschiffsregister bleibt beim Reeder; kein Charter-Register auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Klaert Lastenfrei..."
+description: "Wenn es um Charterparty – Registerprüfung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Charterparty – Registerprüfung

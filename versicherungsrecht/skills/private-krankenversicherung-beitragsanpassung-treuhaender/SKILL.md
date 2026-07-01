@@ -1,6 +1,6 @@
 ---
 name: private-krankenversicherung-beitragsanpassung-treuhaender
-description: "Private Krankenversicherung: Beitragsanpassung, Treuhänder, Begründungsschreiben, Tarifwechsel, Auskunft und Rückforderungsrisiken prüfen im Versicherungsrecht."
+description: "Wenn es um PKV: Beitragsanpassung und Treuhänder in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # PKV: Beitragsanpassung und Treuhänder

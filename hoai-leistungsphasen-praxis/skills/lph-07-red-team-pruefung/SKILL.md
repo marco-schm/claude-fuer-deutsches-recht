@@ -1,6 +1,6 @@
 ---
 name: lph-07-red-team-pruefung
-description: "HOAI LPH 7 Mitwirkung bei der Vergabe: sucht Widersprüche, vergessene Beteiligte, falsche Annahmen und unklare Zuständigkeit; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsph..."
+description: "Wenn es um LPH 7 Mitwirkung bei der Vergabe: Sucht widersprüche in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Sucht widersprüche

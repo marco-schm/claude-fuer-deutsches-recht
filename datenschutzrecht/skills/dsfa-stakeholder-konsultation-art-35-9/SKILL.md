@@ -1,6 +1,6 @@
 ---
 name: dsfa-stakeholder-konsultation-art-35-9
-description: "Konsultation der Betroffenen oder ihrer Vertreter nach Art. 35 Abs. 9 DSGVO im Rahmen einer DSFA: Prüfung Erforderlichkeit Form Reichweite Dokumentation. Output: Konsultationsplan mit Begruendung Form und Dokumentation."
+description: "Wenn es um Stakeholder-Konsultation nach Art. 35 Abs. 9 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stakeholder-Konsultation nach Art. 35 Abs. 9 DSGVO

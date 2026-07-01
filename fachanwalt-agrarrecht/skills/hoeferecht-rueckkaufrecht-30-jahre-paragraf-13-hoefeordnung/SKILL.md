@@ -1,6 +1,6 @@
 ---
 name: hoeferecht-rueckkaufrecht-30-jahre-paragraf-13-hoefeordnung
-description: "Rueckkaufrecht des weichenden Erben nach Paragraf 13 HoeO bei Veraeusserung des Hofes binnen 20 Jahren mit BGH BLw 5/19 als Praezedenzfall. Prüfraster Hofeigenschaft Veraeusserung relevant Pflichtteilshoeflinge Wertbemessung."
+description: "Wenn es um Hoeferecht Rueckkaufrecht 30 Jahre Paragraf 13 Hoefeordnung in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hoeferecht Rueckkaufrecht 30 Jahre Paragraf 13 Hoefeordnung

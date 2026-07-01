@@ -1,6 +1,6 @@
 ---
 name: ordentliche-unterlagenablage
-description: "Baut Aktenstruktur für Satzung, Protokolle, Mitglieder, Wahlvorschläge, Finanzen, Spenden, Schiedsverfahren."
+description: "Wenn es um Unterlagenablage Partei in Parteienrecht und Parteiorganisation geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Unterlagenablage Partei

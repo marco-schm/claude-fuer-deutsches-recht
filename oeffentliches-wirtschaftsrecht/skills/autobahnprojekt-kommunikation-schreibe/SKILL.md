@@ -1,6 +1,6 @@
 ---
 name: autobahnprojekt-kommunikation-schreibe
-description: "Autobahnprojekt: Kommunikation schreiben im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Autobahnprojekt Kommunikation Schreibe in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Autobahnprojekt Kommunikation Schreibe

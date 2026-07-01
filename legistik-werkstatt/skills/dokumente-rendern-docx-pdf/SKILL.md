@@ -1,6 +1,6 @@
 ---
 name: dokumente-rendern-docx-pdf
-description: "Legistische Dokumente als DOCX oder PDF im offiziellen Erscheinungsbild der Bundesregierung, des Bundestages, eines Landes oder eines Landtags rendern. Anwendungsfall fertiger Entwurf soll als lieferfähiges Dokument nach Handbuch der Rechtsfoermlichkeit HdR oder landesspezifischem Format ausgegeb..."
+description: "Wenn es um Dokumente rendern - DOCX und PDF im offiziellen HdR-Layout in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Dokumente rendern - DOCX und PDF im offiziellen HdR-Layout

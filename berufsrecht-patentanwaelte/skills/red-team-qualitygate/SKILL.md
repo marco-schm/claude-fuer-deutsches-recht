@@ -1,6 +1,6 @@
 ---
 name: red-team-qualitygate
-description: "Red-Team-Qualitygate: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Ergebnis auf Fristenfehler, Zuständigkeitsfehler, Scheinpräzision und Ton, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
+description: "Wenn es um Red-Team-Qualitygate in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team-Qualitygate

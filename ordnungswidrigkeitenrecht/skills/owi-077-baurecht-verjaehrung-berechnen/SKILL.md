@@ -1,6 +1,6 @@
 ---
 name: owi-077-baurecht-verjaehrung-berechnen
-description: "Ordnungswidrigkeitenrecht: Baurecht: Verjährung berechnen. Verjährung berechnen für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Baurecht Verjaehrung Berechnen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Baurecht Verjaehrung Berechnen

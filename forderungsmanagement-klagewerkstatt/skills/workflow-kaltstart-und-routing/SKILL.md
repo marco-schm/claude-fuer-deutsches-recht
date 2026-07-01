@@ -1,6 +1,6 @@
 ---
 name: workflow-kaltstart-und-routing
-description: "Kaltstart und Routing im Plugin forderungsmanagement-klagewerkstatt: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills."
+description: "Wenn es um Kaltstart und Routing in Forderungsmanagement — Klagewerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart und Routing

@@ -1,6 +1,6 @@
 ---
 name: verteilung-bestrittene-189
-description: "Verteilung bei bestrittenen Forderungen nach § 189 InsO: Anwendungsfall Insolvenzverwalter bereitet Abschlags- oder Schlussverteilung vor und muss bestrittene Forderungen korrekt zurückbehalten oder ausklammern. § 189 InsO Berücksichtigung bestrittener Forderungen, § 196 InsO Schlussverteilung, §..."
+description: "Wenn es um Verteilung bei bestrittenen Forderungen in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verteilung bei bestrittenen Forderungen

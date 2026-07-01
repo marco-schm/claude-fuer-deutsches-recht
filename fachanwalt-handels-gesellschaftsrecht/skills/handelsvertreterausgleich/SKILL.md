@@ -1,6 +1,6 @@
 ---
 name: handelsvertreterausgleich
-description: "Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich: ordnet Normen, Nut..."
+description: "Wenn es um Handelsvertreterausgleich in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

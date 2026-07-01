@@ -1,6 +1,6 @@
 ---
 name: eu-warenmarke-loeschung-eugh-c-541-18
-description: "EU Warenmarke Loeschung EuGH C 541 18: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um EU Warenmarke Loeschung EuGH C 541 18 in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU Warenmarke Loeschung EuGH C 541 18

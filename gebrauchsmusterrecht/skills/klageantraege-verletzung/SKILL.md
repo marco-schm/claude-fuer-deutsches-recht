@@ -1,6 +1,6 @@
 ---
 name: klageantraege-verletzung
-description: "Klageanträge bei Gebrauchsmusterverletzung bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf und Schadensersatzfeststellung im Gebrauchsmusterrecht."
+description: "Wenn es um Klageantraege Verletzung in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klageantraege Verletzung

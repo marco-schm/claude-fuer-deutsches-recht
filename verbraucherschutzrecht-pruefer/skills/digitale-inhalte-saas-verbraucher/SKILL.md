@@ -1,6 +1,6 @@
 ---
 name: digitale-inhalte-saas-verbraucher
-description: "Prüfer: Digitale Inhalte: Behördenmeldung prüfen im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Digitale Inhalte Behördenmeldung Prue in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitale Inhalte Behördenmeldung Prue

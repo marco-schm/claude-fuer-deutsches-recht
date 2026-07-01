@@ -1,6 +1,6 @@
 ---
 name: gf-haftung-69-ao-nicht-abgefuehrte
-description: "Verteidigung gegen Haftungsbescheid nach § 69 AO wegen nicht abgeführter Lohnsteuer oder Umsatzsteuer der GmbH oder UG. Anwendungsfall Geschäftsführer erhaelt persönlichen Haftungsbescheid des Finanzamts für Steuerschulden der Gesellschaft in der Krise. Prüfung vorsaetzliche oder grob fahrlässige"
+description: "Wenn es um GF-Haftung Paragraf 69 AO für nicht abgeführte Lohn-/Umsatzsteuer in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gf Haftung 69 Ao Nicht Abgefuehrte; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # GF-Haftung § 69 AO für nicht abgeführte Lohn-/Umsatzsteuer

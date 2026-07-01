@@ -1,6 +1,6 @@
 ---
 name: tabellen-matrix
-description: "Tabellen- und Matrix-Fabrik für M&A: baut DD-Grids, Risk Heatmaps, Issue Lists, CP-Tracker, Authority-Matrizen, Disclosure-Schedules und Registerabgleich als direkt nutzbare Tabellen."
+description: "Wenn es um Tabellen und Matrix Factory in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Tabellen und Matrix Factory

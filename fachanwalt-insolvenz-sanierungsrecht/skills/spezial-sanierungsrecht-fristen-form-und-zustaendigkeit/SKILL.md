@@ -1,6 +1,6 @@
 ---
 name: spezial-sanierungsrecht-fristen-form-und-zustaendigkeit
-description: "Sanierungsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Sanierungsrecht: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsrecht: Fristen, Form, Zuständigkeit und Rechtsweg

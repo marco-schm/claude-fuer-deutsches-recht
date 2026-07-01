@@ -1,6 +1,6 @@
 ---
 name: forstrecht-red-team-und-qualitaetskontrolle
-description: "Forstrecht: Red-Team und Qualitätskontrolle: Forstrecht: Red-Team und Qualitätskontrolle."
+description: "Wenn es um Forstrecht: Red-Team und Qualitätskontrolle in Fachanwalt Agrarrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Forstrecht: Red-Team und Qualitätskontrolle

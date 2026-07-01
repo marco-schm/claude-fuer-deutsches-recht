@@ -1,6 +1,6 @@
 ---
 name: stempelt-internationaler-bezug-schnittstellen
-description: "Stempelt: Internationaler Bezug und Schnittstellen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
+description: "Wenn es um Stempelt: Internationaler Bezug und Schnittstellen in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Stempelt Internationaler Bezug Schnittstellen; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Stempelt: Internationaler Bezug und Schnittstellen

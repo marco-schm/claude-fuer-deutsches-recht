@@ -1,6 +1,6 @@
 ---
 name: koselleck-mehrparteien-konflikt-und-interessen
-description: "Koselleck: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Koselleck: Mehrparteienkonflikt und Interessenmatrix in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Koselleck: Mehrparteienkonflikt und Interessenmatrix

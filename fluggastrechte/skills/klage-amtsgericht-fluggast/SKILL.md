@@ -1,6 +1,6 @@
 ---
 name: klage-amtsgericht-fluggast
-description: "Prüfungslinie für klage amtsgericht fluggast im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Klage Amtsgericht Fluggast in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 ```
 

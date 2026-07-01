@@ -1,6 +1,6 @@
 ---
 name: excel-reiter-4-workflow
-description: "Baut Reiter 4 der Step-Plan-Excel: Workflow je Dokument in Reihenfolge der Beschaffung. Spalten erforderliches Dokument, Schritte in Reihenfolge, Rechtsgrundlage (Klausel im zugrunde liegenden Vertrag), Unterzeichnet von und Versendet an. Liefert den konkreten Action-Plan."
+description: "Wenn es um Reiter 4 Workflow Step-Plan in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Reiter 4 Workflow Step-Plan

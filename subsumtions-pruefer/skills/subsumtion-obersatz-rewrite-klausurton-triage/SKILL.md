@@ -1,6 +1,6 @@
 ---
 name: subsumtion-obersatz-rewrite-klausurton-triage
-description: "Führt die klassische juristische Vier-Schritt-Subsumtion durch: Obersatz (Norm und Rechtsfolge), Definition (TBM-Inhalt aus h.M./Rspr.), Untersatz (Sachverhalt unter Definition), Ergebnis (TBM erfuellt ja/nein/fraglich). Ein Durchlauf pro Tatbestandsmerkmal im Subsumtions Prüfer."
+description: "Wenn es um Subsumtion: Obersatz – Definition – Untersatz – Ergebnis in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Subsumtion: Obersatz – Definition – Untersatz – Ergebnis
@@ -30,7 +30,7 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 ## Triage zu Beginn — kläre vor dem Vier-Schritt
 
-1. Ist die Norm in TBM zerlegt? → falls nein: zuerst `norm-zerlegen-in-tatbestandsmerkmale`
+1. Ist die Norm in TBM zerlegt? → falls nein: zuerst `norm-zerlegen-mandantenbrief`
 2. Welches TBM soll jetzt subsumiert werden? (Nummerierung aus TBM-Liste)
 3. Hat der Nutzer konkrete Sachverhaltstatsachen für dieses TBM mitgeteilt?
 4. Ist die Definition des TBM aus Gesetz, h.M. oder BGH-Rechtsprechung bekannt?

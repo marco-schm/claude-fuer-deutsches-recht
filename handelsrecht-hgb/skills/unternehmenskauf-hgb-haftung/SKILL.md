@@ -1,6 +1,6 @@
 ---
 name: unternehmenskauf-hgb-haftung
-description: "Prüft Firmenfortführung, Handelsgeschäft, Prokura, Vertragsübernahme und Haftungsrisiken im Asset Deal im Handelsrecht Hgb."
+description: "Wenn es um Unternehmenskauf HGB-Haftung in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unternehmenskauf HGB-Haftung

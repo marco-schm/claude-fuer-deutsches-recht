@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Anlagen zu Schriftsätzen: wählt den nächsten Spezial-Skill nach Engpass (Klageerwiderungsfrist, Verträge, Korrespondenz, Rechnungen), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Anlagen zu Schriftsätzen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anschluss-Routing

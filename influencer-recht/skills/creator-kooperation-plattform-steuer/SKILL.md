@@ -1,6 +1,6 @@
 ---
 name: creator-kooperation-plattform-steuer
-description: "Influencer-Recht: Kaltstart für Creator – erste Kooperation, Plattformwahl und steuerliche Grundpflichten strukturiert klären."
+description: "Wenn es um Influencer-Recht: Kaltstart Creator – Kooperation, Plattform, Steuer in Influencer-Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Kaltstart Creator – Kooperation, Plattform, Steuer

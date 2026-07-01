@@ -1,6 +1,6 @@
 ---
 name: communication-charter-conflict-after-court
-description: "Communication Charter: steuert Ton, Kanäle, Frequenz, Kürze, Eskalation und Dokumentationspflichten festlegen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Communication Charter in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Communication Charter

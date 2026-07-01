@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-3-jahres-restschuldbefreiung
-description: "Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung: Skill behandelt die seit 01.10.2020 geltende verkuerzte Frist auf drei Jahre Voraussetzungen Versagungsgruende Mitwirkungspflichten Verfahrensgang. Aktue..."
+description: "Wenn es um Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung

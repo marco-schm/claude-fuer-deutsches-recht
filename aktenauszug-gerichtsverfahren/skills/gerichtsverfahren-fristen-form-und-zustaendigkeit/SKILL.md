@@ -1,6 +1,6 @@
 ---
 name: gerichtsverfahren-fristen-form-und-zustaendigkeit
-description: "Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg

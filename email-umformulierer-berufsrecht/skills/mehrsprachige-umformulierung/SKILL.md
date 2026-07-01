@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-umformulierung
-description: "Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Äquivalenz der Rechtsbegriffe Sachlichkeit Kollegialität Zielkultur. Output: umformulierte Version mit Erklärung sprachlicher Besonde..."
+description: "Wenn es um Mehrsprachige Umformulierung in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mehrsprachige Umformulierung

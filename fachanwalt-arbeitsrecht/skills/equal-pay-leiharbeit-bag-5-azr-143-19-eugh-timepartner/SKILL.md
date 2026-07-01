@@ -1,6 +1,6 @@
 ---
 name: equal-pay-leiharbeit-bag-5-azr-143-19-eugh-timepartner
-description: "Equal Pay Leiharbeit Tarifabweichung mit BAG 5 AZR 143/19 und EuGH TimePartner. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Equal Pay Leiharbeit BAG 5 Azr 143 19 EuGH Timepartner in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Equal Pay Leiharbeit BAG 5 Azr 143 19 EuGH Timepartner

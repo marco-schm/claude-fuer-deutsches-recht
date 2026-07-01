@@ -1,6 +1,6 @@
 ---
 name: battle-of-forms-agb-kollision
-description: "Norm- und Dogmatik-Skill für Battle of Forms AGB Kollision: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Battle of Forms AGB Kollision in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Battle Of Forms Agb Kollision; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Battle of Forms AGB Kollision

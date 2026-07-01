@@ -1,6 +1,6 @@
 ---
 name: kokain-bauen-akteneinsicht-vorbereiten
-description: "Kokain: Compliance bauen im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kokain Compliance Bauen in Betäubungsmittelrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kokain Compliance Bauen

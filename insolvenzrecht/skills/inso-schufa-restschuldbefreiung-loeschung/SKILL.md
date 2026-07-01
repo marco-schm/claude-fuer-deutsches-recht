@@ -1,6 +1,6 @@
 ---
 name: inso-schufa-restschuldbefreiung-loeschung
-description: "SCHUFA-/Auskunfteieinträge nach Restschuldbefreiung löschen lassen: Insolvenzbekanntmachung, EuGH C-26/22/C-64/22, DSGVO und Neustartstrategie im Insolvenzrecht."
+description: "Wenn es um Insolvenzrecht: SCHUFA nach Restschuldbefreiung in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Insolvenzrecht: SCHUFA nach Restschuldbefreiung

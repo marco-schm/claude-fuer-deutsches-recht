@@ -1,6 +1,6 @@
 ---
 name: bundesbetriebe-praktisch-erhebung
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 26 Bundesbetriebe praktisch anwenden. BHO § 26 Bundesbetriebe praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret..."
+description: "Wenn es um Bho 26 Bundesbetriebe Praktisch Anwend in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 26 Bundesbetriebe Praktisch Anwend

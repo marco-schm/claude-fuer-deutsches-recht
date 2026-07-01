@@ -1,6 +1,6 @@
 ---
 name: cyber-incident-response-72h
-description: "Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltration oder Insider-Threat: Anwendungsfall Cyberangriff ist entdeckt und IT-rechtliche Meldepflicht..."
+description: "Wenn es um Cyber Incident Response 72h in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltration oder Insider-Threat

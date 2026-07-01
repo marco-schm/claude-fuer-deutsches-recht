@@ -1,6 +1,6 @@
 ---
 name: glaeubigerantrag-glaeubigerausschuss
-description: "Prüft Zulässigkeit und Begründetheit eines Gläubigerantrags auf Eröffnung des Insolvenzverfahrens nach § 14 InsO — sowohl aus Gläubigerperspektive (Antragstellung) als auch aus Schuldnerperspektive (Abwehrstrategien). Lädt, wenn ein Mandant als Gläubiger einen Insolvenzantrag stellen will, wenn e..."
+description: "Wenn es um Prüfung Gläubigerantrag nach Paragraf 14 InsO in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Prüfung Gläubigerantrag nach § 14 InsO

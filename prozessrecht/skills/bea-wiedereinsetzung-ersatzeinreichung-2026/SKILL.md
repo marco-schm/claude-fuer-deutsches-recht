@@ -1,6 +1,6 @@
 ---
 name: bea-wiedereinsetzung-ersatzeinreichung-2026
-description: "Prozessrechtlicher Spezialskill zu beA-Störung, Ersatzeinreichung, Wiedereinsetzung und Glaubhaftmachung nach aktueller BGH-Rechtsprechung 2025/2026."
+description: "Wenn es um beA, Ersatzeinreichung und Wiedereinsetzung in Prozessrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # beA, Ersatzeinreichung und Wiedereinsetzung

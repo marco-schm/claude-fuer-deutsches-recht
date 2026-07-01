@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-flurbereinigung-und-umlegung
-description: "Prüft neue Grundstücksbezeichnungen, Surrogation, Rangfortsetzung und Vollzugsnachweise im Grundbuchamt Praxis."
+description: "Wenn es um Flurbereinigung/Umlegung in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flurbereinigung/Umlegung

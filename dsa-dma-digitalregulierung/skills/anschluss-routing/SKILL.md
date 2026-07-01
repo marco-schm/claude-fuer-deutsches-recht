@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für DSA/DMA Digitalregulierung: wählt den nächsten Spezial-Skill nach Engpass (DSA Risikoberichte jährlich, AGB, Risikobewertung, Transparenzberichte), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in DSA, DMA und Digitalregulierung der EU geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anschluss-Routing

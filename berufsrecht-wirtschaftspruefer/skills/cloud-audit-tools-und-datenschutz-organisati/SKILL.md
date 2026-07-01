@@ -1,6 +1,6 @@
 ---
 name: cloud-audit-tools-und-datenschutz-organisati
-description: "Wirtschaftsprüfer: cloud audit tools und datenschutz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Cloud Audit Tools Und Datenschutz Organisati in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: cloud audit tools und datenschutz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

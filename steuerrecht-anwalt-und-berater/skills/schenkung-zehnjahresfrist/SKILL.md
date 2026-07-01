@@ -1,6 +1,6 @@
 ---
 name: schenkung-zehnjahresfrist
-description: "Strategie der Schenkungsplanung unter Beruecksichtigung der Zehnjahresfrist § 14 ErbStG — Freibetragsplanung Kettenschenkung und mehrfache Inanspruchnahme. Anwendungsfall Eltern wollen Vermoegen schrittweise auf Kinder uebertragen und dabei Freibetraege optimal ausschoepfen. Behandelt Zusammenrec..."
+description: "Wenn es um Schenkungen und Zehnjahresfrist — Paragraf 14 ErbStG Strategie der Generationenfolge in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schenkungen und Zehnjahresfrist — § 14 ErbStG Strategie der Generationenfolge

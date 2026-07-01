@@ -1,6 +1,6 @@
 ---
 name: honorarabhaengigkeit-non-audit-services-rechtsprechungscheck
-description: "Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Honorarabhaengigkeit Non Audit Services Rechtsprechungscheck in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

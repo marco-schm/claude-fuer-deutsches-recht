@@ -1,6 +1,6 @@
 ---
 name: leitungsrecht-und-energieanlagen
-description: "Prüft Strom, Wasser, Fernwärme, Telekommunikation, dingliche Sicherung und Rangkonflikte im Grundbuchamt Praxis."
+description: "Wenn es um Leitungsrecht und Anlagen in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leitungsrecht und Anlagen

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-rueckwaren-erlass-erstattung
-description: "Zollerlass und -erstattung für Rueckwaren nach UZK Art. 203 und Verfahren 6321: Voraussetzungen der Rueckwaren-Abgabenfreiheit, Dreijahrsfrist, Identitaetsnachweis, Abgrenzung zur aktiven und passiven Veredelung. Output: Antragsschreiben Rueckwaren-Zollerlass und Identitaetsnachweis-Dokumentation..."
+description: "Wenn es um Rueckwaren: Zollerlass und Identitaetsnachweis nach UZK Art. 203 in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rueckwaren: Zollerlass und Identitaetsnachweis nach UZK Art. 203

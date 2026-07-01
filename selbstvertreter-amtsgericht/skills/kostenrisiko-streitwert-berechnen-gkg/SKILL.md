@@ -1,6 +1,6 @@
 ---
 name: kostenrisiko-streitwert-berechnen-gkg
-description: "Berechnung des Kostenrisikos bei Klage vor Amtsgericht. Gerichtskosten nach GKG Anwaltskosten der Gegenseite nach RVG Sachverständigen-Kosten. Mit Beispielen für typische Streitwerte und Tabellen-Hinweisen zur Verifikation."
+description: "Wenn es um Was kostet eine Klage vor dem Amtsgericht? in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Was kostet eine Klage vor dem Amtsgericht?

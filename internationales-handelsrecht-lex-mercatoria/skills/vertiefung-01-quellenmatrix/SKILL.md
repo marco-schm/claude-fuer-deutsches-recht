@@ -1,6 +1,6 @@
 ---
 name: vertiefung-01-quellenmatrix
-description: "Internationales Handelsrecht: Quellenmatrix für internationale Handelsfälle. Systematisierung von Primär- (CISG, PICC, Incoterms, UCP 600), Sekundär- und Tertiärquellen, Datenbanken (CISG-online, jusmundi, trans-lex), Zitierpflichten und Verifikation im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Quellenmatrix Internationales Handelsrecht in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quellenmatrix Internationales Handelsrecht

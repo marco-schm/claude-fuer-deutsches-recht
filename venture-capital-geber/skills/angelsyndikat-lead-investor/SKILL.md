@@ -1,6 +1,6 @@
 ---
 name: angelsyndikat-lead-investor
-description: "Strukturiert Lead-Rolle, Kosten, Informationsfluss, Abstimmung, Stimmrechtsausübung und Konflikte im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Angel-Syndikat und Lead Investor in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Angel-Syndikat und Lead Investor

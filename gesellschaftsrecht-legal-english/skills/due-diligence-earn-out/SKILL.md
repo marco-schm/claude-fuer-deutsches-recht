@@ -1,6 +1,6 @@
 ---
 name: due-diligence-earn-out
-description: "Fuehrt durch Due Diligence, Red Flag Report, Legal Fact Book, Materiality, Disclosure Schedule, Q&A und quellenbelegte Findings im Gesellschaftsrecht Legal English."
+description: "Wenn es um Due Diligence und Red Flag Report in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Due Diligence und Red Flag Report

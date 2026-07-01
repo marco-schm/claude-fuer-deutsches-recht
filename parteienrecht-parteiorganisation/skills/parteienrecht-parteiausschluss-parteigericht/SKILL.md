@@ -1,6 +1,6 @@
 ---
 name: parteienrecht-parteiausschluss-parteigericht
-description: "Prüft Parteiausschluss, schwerer Schaden, Anhörung, Vorstandsantrag, Schiedsgericht und Verhältnismäßigkeit."
+description: "Wenn es um Parteiausschluss in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Parteienrecht Parteiausschluss Parteigericht; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Parteiausschluss

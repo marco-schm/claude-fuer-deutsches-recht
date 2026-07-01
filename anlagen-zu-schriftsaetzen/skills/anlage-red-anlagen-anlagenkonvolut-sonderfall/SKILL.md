@@ -1,6 +1,6 @@
 ---
 name: anlage-red-anlagen-anlagenkonvolut-sonderfall
-description: "Anlage: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Anlage: Red-Team und Qualitätskontrolle in Anlagen zu Schriftsätzen geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anlage: Red-Team und Qualitätskontrolle

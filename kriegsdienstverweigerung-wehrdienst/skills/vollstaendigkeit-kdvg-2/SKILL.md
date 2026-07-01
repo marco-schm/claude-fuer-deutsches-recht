@@ -1,6 +1,6 @@
 ---
 name: vollstaendigkeit-kdvg-2
-description: "Prüft Anschreiben, Art.-4-Berufung, Lebenslauf und persönliche Begründung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Vollständigkeit Paragraf 2 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vollständigkeit § 2 KDVG

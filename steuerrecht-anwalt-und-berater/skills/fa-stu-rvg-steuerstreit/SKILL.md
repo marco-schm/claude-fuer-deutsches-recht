@@ -1,6 +1,6 @@
 ---
 name: fa-stu-rvg-steuerstreit
-description: "Vergueterungsskill fuer steuerrechtliche Mandate — Abgrenzung RVG zu StBVV gesetzliche Gebuehren Verhandlungsspielraum und Honorarvereinbarung. Anwendungsfall Anwalt und Steuerberater fragen welche Gebuehrentabelle anzuwenden ist und wie eine Mischmandatierung honoriert wird. Behandelt Geschaeftsgebuehr Verfahrensgebuehr Terminsgebuehr Streitwert nach Anlage 2 RVG sowie Pauschalvereinbarungen und Erfolgshonorar § 4a RVG. Output Tabellenrechner und Honorarvereinbarungsmuster. Abgrenzung zu fa-stu-onboarding-mandatsannahme."
+description: "Wenn es um Anwaltsgebuehren im Steuerstreit — RVG StBVV Verhaeltnis in Steuerrecht – Steuerberater und Anwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Anwaltsgebuehren im Steuerstreit — RVG StBVV Verhaeltnis

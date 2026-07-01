@@ -1,6 +1,6 @@
 ---
 name: werkzeuge-erstpruefung-und-mandatsziel
-description: "Werkzeuge: Erstprüfung, Rollenklärung und Mandatsziel im Immobilienrechtspraxis."
+description: "Wenn es um Werkzeuge: Erstprüfung, Rollenklärung und Mandatsziel in Immobilienrechtspraxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Werkzeuge: Erstprüfung, Rollenklärung und Mandatsziel

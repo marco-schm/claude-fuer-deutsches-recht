@@ -1,6 +1,6 @@
 ---
 name: lunar-heritage-quantenkommunikation-via
-description: "Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Artefakte. Klaert das US One Small Step to Protect Human Heritage in Space Act 2020 die Auslegung der Artikel I II und IX OST zur Frage Non-Appropriation und Common Heritage NASA Recommendations to Space-Faring Entities und das ICOMOS..."
+description: "Wenn es um Lunar Heritage und Schutz historischer Mondlandestellen in Weltraumrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Lunar Heritage und Schutz historischer Mondlandestellen

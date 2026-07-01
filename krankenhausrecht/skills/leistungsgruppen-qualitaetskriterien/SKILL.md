@@ -1,6 +1,6 @@
 ---
 name: leistungsgruppen-qualitaetskriterien
-description: "Leistungsgruppen und Qualitaetskriterien nach KHVVG: prüft Strukturmerkmale, Personal- und Geraeteanforderungen, OPS-Kodierlogik, Zuweisung durch das Land und Kooperationsmoeglichkeiten im Krankenhausrecht."
+description: "Wenn es um Leistungsgruppen und Qualitaetskriterien Reformlogik in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Leistungsgruppen und Qualitaetskriterien Reformlogik

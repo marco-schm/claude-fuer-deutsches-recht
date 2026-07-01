@@ -1,6 +1,6 @@
 ---
 name: konsistenz-formular-portal-und-einreichung
-description: "Konsistenz: Formular, Portal und Einreichungslogik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Konsistenz: Formular, Portal und Einreichungslogik in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konsistenz: Formular, Portal und Einreichungslogik

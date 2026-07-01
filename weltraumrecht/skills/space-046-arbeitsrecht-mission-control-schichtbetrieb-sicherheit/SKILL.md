@@ -1,6 +1,6 @@
 ---
 name: space-046-arbeitsrecht-mission-control-schichtbetrieb-sicherheit
-description: "Weltraumrecht: Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherheit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherheit in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherheit

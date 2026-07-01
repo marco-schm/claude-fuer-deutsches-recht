@@ -1,6 +1,6 @@
 ---
 name: uig-umweltinformation-drittanhoerung-b
-description: "Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Drittanhörung begleiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Uig Umweltinformation Drittanhoerung B in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Uig Umweltinformation Drittanhoerung B

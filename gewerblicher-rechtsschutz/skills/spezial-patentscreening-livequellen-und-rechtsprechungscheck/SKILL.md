@@ -1,6 +1,6 @@
 ---
 name: spezial-patentscreening-livequellen-und-rechtsprechungscheck
-description: "Patentscreening: Livequellen- und Rechtsprechungscheck im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Patentscreening: Livequellen- und Rechtsprechungscheck in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentscreening: Livequellen- und Rechtsprechungscheck

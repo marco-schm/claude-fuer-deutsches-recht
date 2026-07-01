@@ -1,6 +1,6 @@
 ---
 name: output-anfechtungsklage-anfg
-description: "Klageschrift für AnfG-Anfechtungsklage des Vollstreckungsgläubigers aufbauen: Rubrum, Duldungsantrag, Begründungsstruktur. Normen: §§ 2 11 13 AnfG. Prüfraster: Antragsformulierung, Begründungsaufbau Anfechtungstatbestand, Streitwertangabe. Output: Klageschriftentwurf AnfG mit Tenorvorschlag. Abgr..."
+description: "Wenn es um Output: Anfechtungsklage nach AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Output: Anfechtungsklage nach AnfG

@@ -1,6 +1,6 @@
 ---
 name: vergleichspraxis-mehrparteien-konflikt-und-interessen
-description: "Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Interessenlagen: Dreiparteienvergleich (AG, AN, BR), Sozialplanverhandlung, Interessenausgleich Paragraf 111 BetrVG, Vergleich mit Namensliste Paragraf 1 Absatz Vergleichspraxis bei Mehrparteienkonstellationen..."
+description: "Wenn es um Vergleichspraxis Mehrparteien Konflikt Und Interessen in Fachanwalt Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Interessenlagen: Dreiparteienvergleich (AG, AN, BR), Sozialplanverhandlung, Interessenausgleich Paragraf 111 BetrVG, Vergleich mit Namensliste Paragraf 1 Abs

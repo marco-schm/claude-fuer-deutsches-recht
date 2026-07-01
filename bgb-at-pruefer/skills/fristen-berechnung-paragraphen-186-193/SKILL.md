@@ -1,6 +1,6 @@
 ---
 name: fristen-berechnung-paragraphen-186-193
-description: "Klausurfall zur Fristenberechnung nach §§ 186 bis 193 BGB: Beginn einer Frist, Ereignisfrist und Kalenderfrist, Fristablauf am letzten Tag, Verlängerung bei Sonn- und Feiertagen nach § 193 BGB und Berechnung von Anfechtungs- und Verjährungsfristen."
+description: "Wenn es um Fristenberechnung — Paragrafen 186 bis 193 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fristen Berechnung Paragraphen 186 193; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Fristenberechnung — §§ 186 bis 193 BGB

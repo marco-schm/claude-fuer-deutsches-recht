@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-nabeg-planfeststellung-fristen-und-besc
-description: "NABEG Planfeststellung: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: NABEG Planfeststellung — Fristen- und Bescheidanalyse in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energie-Regulierungsakte: NABEG Planfeststellung — Fristen- und Bescheidanalyse

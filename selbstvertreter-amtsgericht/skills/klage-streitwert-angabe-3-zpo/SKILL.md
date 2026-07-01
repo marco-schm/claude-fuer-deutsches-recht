@@ -1,6 +1,6 @@
 ---
 name: klage-streitwert-angabe-3-zpo
-description: "Berechnung und Angabe des Streitwerts in der Klage nach § 3 ZPO § 5 ZPO § 48 GKG. Geldforderung Herausgabe Feststellung Mietsache Sondervorschriften. Mit Beispielen und Hinweisen wann das Gericht den Streitwert nachtraeglich festsetzt."
+description: "Wenn es um Streitwert in der Klage angeben in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Streitwert in der Klage angeben

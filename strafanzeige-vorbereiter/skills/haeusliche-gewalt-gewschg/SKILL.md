@@ -1,6 +1,6 @@
 ---
 name: haeusliche-gewalt-gewschg
-description: "Strafanzeige bei häuslicher Gewalt plus Schutzanordnung, Beweissicherung, medizinische Dokumentation und Sicherheitsplan im Strafanzeige-Vorbereitung."
+description: "Wenn es um Häusliche Gewalt und GewSchG in Strafanzeige-Vorbereiter geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Häusliche Gewalt und GewSchG

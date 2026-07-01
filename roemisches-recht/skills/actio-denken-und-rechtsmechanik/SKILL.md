@@ -1,6 +1,6 @@
 ---
 name: actio-denken-und-rechtsmechanik
-description: "Römisches Recht: actio-orientierte Rechtsmechanik, Rechtsschichten ius civile/ius honorarium/ius gentium, prätorische Fallsteuerung und moderne Fehlübersetzungen. Liefert ein Einstiegsraster für jedes römisch-rechtliche Problem im Römisches Recht."
+description: "Wenn es um Actio-Denken und Rechtsmechanik in Römisches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Actio-Denken und Rechtsmechanik

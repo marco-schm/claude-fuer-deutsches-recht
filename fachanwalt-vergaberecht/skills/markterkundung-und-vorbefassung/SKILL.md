@@ -1,6 +1,6 @@
 ---
 name: markterkundung-und-vorbefassung
-description: "Markterkundung, Vorbefassung und Interessenkonflikte rechtssicher steuern: zulaessige Informationsgewinnung, Ausgleichsmassnahmen, Dokumentation und Rugeabwehr: Markterkundung, Vorbefassung und Interessenkonflikte rechtssicher steuern: zulaessige Informati..."
+description: "Wenn es um Markterkundung Und Vorbefassung in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Markterkundung, Vorbefassung und Interessenkonflikte rechtssicher steuern: zulaessige Informationsgewinnung, Ausgleichsmassnahmen, Dokumentation und Rugeabwehr.

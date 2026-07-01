@@ -1,6 +1,6 @@
 ---
 name: mandantenkorrespondenz-form-und-zugang-templates
-description: "Mandantenkorrespondenz Form Und Zugang Templates: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Schriftform Und Textform Bgb."
+description: "Wenn es um Mandantenkorrespondenz — Form und Zugang: Templates in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantenkorrespondenz — Form und Zugang: Templates

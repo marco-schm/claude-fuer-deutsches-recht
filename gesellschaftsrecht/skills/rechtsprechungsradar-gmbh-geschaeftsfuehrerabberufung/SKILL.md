@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungsradar-gmbh-geschaeftsfuehrerabberufung
-description: "Gesellschaftsrechtlicher Rechtsprechungsradar zur GmbH-Geschäftsführerabberufung, Weisungsbindung, Satzung, Stimmbindung und Registervollzug nach BGH II ZR 71/23."
+description: "Wenn es um Rechtsprechungsradar: GmbH-Geschäftsführerabberufung in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Rechtsprechungsradar: GmbH-Geschäftsführerabberufung

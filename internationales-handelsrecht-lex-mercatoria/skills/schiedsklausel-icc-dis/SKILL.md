@@ -1,6 +1,6 @@
 ---
 name: schiedsklausel-icc-dis
-description: "Internationales Handelsrecht: Schiedsklauseln nach ICC-Schiedsregeln 2021 und DIS-Schiedsregeln 2018. Musterklauseln, Sitzwahl, Anzahl Schiedsrichter, Verfahrenssprache, Schnellverfahren (Expedited Procedure) und pathologische Klauseln im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Schiedsklauseln: ICC und DIS in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiedsklauseln: ICC und DIS

@@ -1,6 +1,6 @@
 ---
 name: it-cloud-kammeraufsicht-ruege
-description: "IT, Cloud, KI und Outsourcing: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Berufsgeheimnis, Datenschutz, Anbieterprüfung, Logging und No-Training-Klauseln, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirt..."
+description: "Wenn es um IT, Cloud, digitale Werkzeuge und Outsourcing in Berufsrecht Wirtschaftsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IT, Cloud, KI und Outsourcing

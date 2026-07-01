@@ -1,6 +1,6 @@
 ---
 name: luftfracht-dashboard-mandantenmemo
-description: "Luftfrachtfuehrer oder grosser Spediteur braucht Dashboard für Fracht-Compliance: Regulated-Agent-Status Gefahrgut-Zulassungen Sicherheitsfindings Versicherung. Skill strukturiert Datenquellen und liefert befuellbares Compliance-Dashboard im Luftrecht Flughafenrecht."
+description: "Wenn es um Luftfracht – Dashboard bauen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Luftfracht – Dashboard bauen

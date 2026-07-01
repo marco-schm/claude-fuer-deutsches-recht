@@ -1,6 +1,6 @@
 ---
 name: norm-live-check-gesetze-im-internet
-description: "Einstiegs- und Prüfungslinie für Norm Live Check Gesetze Im Internet: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Wenn es um Norm Live Check Gesetze Im Internet in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Norm Live Check Gesetze Im Internet

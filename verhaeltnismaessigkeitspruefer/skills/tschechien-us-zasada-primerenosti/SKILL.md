@@ -1,6 +1,6 @@
 ---
 name: tschechien-us-zasada-primerenosti
-description: Tschechische Verhältnismäßigkeitsdogmatik des Ustavni soud nach Art 4 IV Listina zakladnich prav a svobod und Art 1 LZPS als Drei-Stufen-Test Vhodnost Potrebnost Primerenost v uzsim smyslu. Mit Pl US 4/94 als methodischer Verankerung Test racionalniho zakladu fuer Sozialrechte und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die enge Rezeption deutscher und EGMR-Doktrin.
+description: "Wenn es um Tschechien US Zasada Primerenosti in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Tschechien US Zasada Primerenosti

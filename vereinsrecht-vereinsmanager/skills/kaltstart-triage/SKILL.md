@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg und Routing für Gründung, Satzung, Vorstand, Mitgliederversammlung, Register, Gemeinnützigkeit, Finanzen, Haftung, Konflikte und Auflösung."
+description: "Wenn es um Vereinsrecht — Allgemein in Vereinsrecht und Vereinsmanager geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Vereinsrecht — Allgemein

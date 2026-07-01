@@ -1,6 +1,6 @@
 ---
 name: elternzeit-versorgungsanwartschaft-entfernung
-description: "Skill zur Elternzeit der Beamten und ihren Auswirkungen auf Versorgungsanwartschaft Stufenaufstieg und Beihilfeberechtigung. Klaert die Beruecksichtigung der Kindererziehungszeiten im Ruhegehalt die Frage des ruhegehaltfaehigen Charakters der Elternzeit das Verhältnis zu Teilzeit-Elternzeit und..."
+description: "Wenn es um Elternzeit — Auswirkungen auf Versorgungsanwartschaft in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Elternzeit — Auswirkungen auf Versorgungsanwartschaft

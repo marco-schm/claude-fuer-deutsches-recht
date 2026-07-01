@@ -1,6 +1,6 @@
 ---
 name: abschlussmemo-romanistische-tragfaehigkeit
-description: "Römisches Recht: Abschlussmemo zur romanistischen Tragfähigkeit - Methodenreflexion, Quellenvalidierung, Epochenzuordnung, Interpolationsvorbehalt, Unterschied hist. Aussage und normative Aussage im Römisches Recht."
+description: "Wenn es um Abschlussmemo: Romanistische Tragfähigkeit in Römisches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Abschlussmemo: Romanistische Tragfähigkeit

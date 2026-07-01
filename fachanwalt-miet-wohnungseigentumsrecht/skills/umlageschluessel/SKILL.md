@@ -1,6 +1,6 @@
 ---
 name: umlageschluessel
-description: "Umlageschlüssel in Miet- und WEG-Abrechnungen: Vertrag, § 556a BGB, Wohnfläche, Personen, Einheiten, Verbrauch, Miteigentumsanteile, HeizkostenV, Gewerbe-Vorwegabzug, Schlüsselwechsel, Wohnflächenabweichung und Beweisführung: Umlageschlüssel in Miet- und W..."
+description: "Wenn es um Umlageschluessel in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umlageschlüssel in Miet- und WEG-Abrechnungen: Vertrag, § 556a BGB, Wohnfläche, Personen, Einheiten, Verbrauch, Miteigentumsanteile, HeizkostenV, Gewerbe-Vorwegabzug, Schlüsselwechsel, Wohnflächenabweichung und Beweisführung.

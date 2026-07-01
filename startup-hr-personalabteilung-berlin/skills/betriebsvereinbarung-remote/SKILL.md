@@ -1,6 +1,6 @@
 ---
 name: betriebsvereinbarung-remote
-description: "Berliner Start-up-HR: Betriebsvereinbarungen zu Remote, IT, Arbeitszeit, Benefits und Hinweisgeberprozessen entwerfen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Betriebsvereinbarung Remote IT Benefits in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsvereinbarung Remote IT Benefits

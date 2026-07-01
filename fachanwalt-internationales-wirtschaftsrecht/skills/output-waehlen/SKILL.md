@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Internationales Wirtschaftsrecht: stimmt Adressat (Internationale Vertragspartner, Schiedsrichter), Frist (Schiedsklage-Fristen je Regelwerk) und Form auf den Zweck ab — typische Outputs: Internationaler Vertrag, Schiedsklage, Vollstreckbarerklärung NYC."
+description: "Wenn es um Output wählen in Fachanwalt Internationales Wirtschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

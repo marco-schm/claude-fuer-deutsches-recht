@@ -1,6 +1,6 @@
 ---
 name: luft-027-airline-insolvenzrisiko-markieren
-description: "Luftrecht und Flughafenrecht: Airline: Insolvenzrisiko markieren. Insolvenzrisiko markieren für Airline im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Airline Insolvenzrisiko Markieren in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Airline Insolvenzrisiko Markieren

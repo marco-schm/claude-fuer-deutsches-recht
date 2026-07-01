@@ -1,6 +1,6 @@
 ---
 name: bodeneigentuemer-startplatz-laerm-erschuetterung-und-n
-description: "Grundstücksrecht am Startplatz – Lärmimmissionen, Erschütterungen, Nachbarrechtsansprüche im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Bodeneigentümer Startplatz: Lärm, Erschütterung, Nachbarrecht in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Bodeneigentümer Startplatz: Lärm, Erschütterung, Nachbarrecht

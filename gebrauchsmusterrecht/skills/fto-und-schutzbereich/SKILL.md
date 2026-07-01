@@ -1,6 +1,6 @@
 ---
 name: fto-und-schutzbereich
-description: "Freedom-to-Operate und Schutzbereich bei Gebrauchsmustern prüfen: Anspruchsmerkmale, Registerstand, Rechtsbestand, Produktvergleich und Design-around im Gebrauchsmusterrecht."
+description: "Wenn es um Fto Und Schutzbereich in gebrauchsmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Fto Und Schutzbereich

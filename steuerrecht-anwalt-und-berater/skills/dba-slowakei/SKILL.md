@@ -1,6 +1,6 @@
 ---
 name: dba-slowakei
-description: "DBA Deutschland Slowakei aus 1980 fortgeltend gegenüber Nachfolgestaat. Anwendungsfall Automotive Zulieferung Beteiligungen Lizenzen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Slowakei in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Slowakei

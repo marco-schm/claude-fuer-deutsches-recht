@@ -1,6 +1,6 @@
 ---
 name: vergleich-mediation-nachbarschaftsfrieden
-description: "Vergleich und Befriedung im Nachbarschaftsstreit entwerfen: Rückschnittplan, Bau-/Grenzregelung, Kostenquote, Betretensrechte, Lärmzeiten, Pflegepflichten, Vertragsstrafe, Dokumentation und Vollzug im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Vergleich, Mediation und Nachbarschaftsfrieden in Nachbarschaftsstreit-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich, Mediation und Nachbarschaftsfrieden

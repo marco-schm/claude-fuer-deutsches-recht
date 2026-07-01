@@ -1,6 +1,6 @@
 ---
 name: spezial-system-zahlen-schwellen-und-berechnung
-description: "System: Zahlen, Schwellenwerte und Berechnung im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um System: Zahlen, Schwellenwerte und Berechnung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # System: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: 02-zustaendigkeit-und-eroeffnungsbeschluss
-description: "Zuständigkeit Strafrichter oder Schöffengericht (Paragraf 25 oder 28 GVG), Eröffnung Paragrafen 199-203 StPO, Nichteröffnung oder Ablehnung mit Begründung"
+description: "Wenn es um 02 Zuständigkeit und Eröffnungsbeschluss in Richter Amtsgericht Strafsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 02 Zuständigkeit und Eröffnungsbeschluss

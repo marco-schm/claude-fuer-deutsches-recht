@@ -1,6 +1,6 @@
 ---
 name: krisenstatement-fehler-eigener-leute
-description: "Wahlkampfrecht Praxis: auf Fehltritte eigener Kandidierender oder Helfer reagieren im Wahlkampfrecht."
+description: "Wenn es um Krisenstatement Fehler Eigener Leute in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krisenstatement Fehler Eigener Leute

@@ -1,6 +1,6 @@
 ---
 name: referenzen-und-kundenlogos
-description: "Solo-Selbstständige: prüft Referenznutzung, Logo, Case Study und Geheimhaltung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Marketing E-Commerce und Plattformen: Prüft referenznutzung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Marketing E-Commerce und Plattformen: Prüft referenznutzung

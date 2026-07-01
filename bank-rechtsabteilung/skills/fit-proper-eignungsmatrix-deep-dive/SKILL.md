@@ -1,6 +1,6 @@
 ---
 name: fit-proper-eignungsmatrix-deep-dive
-description: "Fit-and-Proper-Eignungsmatrix für Geschäftsleiter, Aufsichtsräte und Schlüsselfunktionen vertiefen: fachliche Eignung, Zuverlässigkeit, Kollektiveignung, Diversität, Interessenkonflikte und Fortbildung im Bank-Rechtsabteilung."
+description: "Wenn es um Fit-and-Proper Eignungsmatrix in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Fit-and-Proper Eignungsmatrix

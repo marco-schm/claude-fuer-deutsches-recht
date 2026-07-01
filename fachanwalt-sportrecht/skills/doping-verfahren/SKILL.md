@@ -1,6 +1,6 @@
 ---
 name: doping-verfahren
-description: "Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und braucht Verteidigung: NADA-Code WADA-Code strict liability Art. 2 Abs. 1 WADA-Code Bewe..."
+description: "Wenn es um Doping Verfahren in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und braucht Verteidigung

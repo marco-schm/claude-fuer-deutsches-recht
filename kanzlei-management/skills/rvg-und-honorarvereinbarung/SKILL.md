@@ -1,6 +1,6 @@
 ---
 name: rvg-und-honorarvereinbarung
-description: "Prüft Pricing gegen RVG, § 3a RVG, § 49b BRAO und Dokumentation. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um RVG und Honorarvereinbarung in Kanzlei Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # RVG und Honorarvereinbarung

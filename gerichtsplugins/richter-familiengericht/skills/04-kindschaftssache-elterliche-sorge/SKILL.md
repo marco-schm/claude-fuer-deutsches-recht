@@ -1,6 +1,6 @@
 ---
 name: 04-kindschaftssache-elterliche-sorge
-description: "Sorgerechtsverfahren Paragrafen 1626 ff. BGB i.V.m. Paragrafen 151 ff. FamFG: Kindeswohlprüfung (Bindungs-, Foerder-, Kontinuitaetsprinzip, Kindeswille), Anhörung des Kindes Paragraf 159 FamFG, Verfahrensbeistand Paragraf 158, Eilanordnung Paragraf 49 FamFG"
+description: "Wenn es um 04 Kindschaftssache Elterliche Sorge in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 04 Kindschaftssache Elterliche Sorge

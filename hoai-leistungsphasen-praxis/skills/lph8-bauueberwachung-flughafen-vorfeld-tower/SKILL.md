@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-flughafen-vorfeld-tower
-description: "Bauueberwachung nach HOAI LPH 8 für Flughafenvorfelder und Towerbauten — Kontrolle von Vorfeldbeton C35/45 XF4 XD3 nach DIN EN 206 und DIN 1045-2, Befeuerungsanlagen nach ICAO Annex 14, ILS-Schutzbereiche nach LuftVO sowie koordinierte Abnahme mit Luftfahrtbehoerde. Umfasst Drohnendokumentation,..."
+description: "Wenn es um Bauueberwachung Flughafen Vorfeld und Tower in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Flughafen Vorfeld und Tower

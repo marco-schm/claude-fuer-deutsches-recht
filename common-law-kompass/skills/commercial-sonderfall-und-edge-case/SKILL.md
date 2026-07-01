@@ -1,6 +1,6 @@
 ---
 name: commercial-sonderfall-und-edge-case
-description: "Commercial: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Commercial: Sonderfall und Edge-Case-Prüfung in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Commercial: Sonderfall und Edge-Case-Prüfung

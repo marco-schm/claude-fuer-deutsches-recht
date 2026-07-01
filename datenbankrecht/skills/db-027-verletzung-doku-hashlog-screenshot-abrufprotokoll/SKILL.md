@@ -1,6 +1,6 @@
 ---
 name: db-027-verletzung-doku-hashlog-screenshot-abrufprotokoll
-description: "Datenbankrecht: Verletzung dokumentieren Hashlog Screenshot Abruflauf-Protokoll mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Verletzung dokumentieren Hashlog Screenshot Abruflauf-Protokoll in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Verletzung dokumentieren Hashlog Screenshot Abruflauf-Protokoll

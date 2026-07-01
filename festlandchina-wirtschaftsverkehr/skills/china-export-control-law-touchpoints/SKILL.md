@@ -1,6 +1,6 @@
 ---
 name: china-export-control-law-touchpoints
-description: "Chinesisches Exportkontrollgesetz (ECL VR China 2020) und Dual-Use-Kontrollen: Exportkontrollliste CN, End-User-Verwaltung, Genehmigungspflichten für Technologieexporte Richtung Drittstaaten, Retaliation-Risiko nach Anti-Sanktions-Gesetz CN, Berührung mit EU-Dual-Use. Compliance-Pflichten für deu..."
+description: "Wenn es um Chinesisches Exportkontrollgesetz: Pflichten für deutsche Unternehmen in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chinesisches Exportkontrollgesetz: Pflichten für deutsche Unternehmen

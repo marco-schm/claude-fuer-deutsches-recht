@@ -1,6 +1,6 @@
 ---
 name: notariat-045-auszahlungsvoraussetzungen-kaufpreis
-description: "Notariat im Alltag: Auszahlungsvoraussetzungen Kaufpreis und Löschungsunterlagen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Notariat im Alltag: Auszahlungsvoraussetzungen Kaufpreis und Löschungsunterlagen in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Auszahlungsvoraussetzungen Kaufpreis und Löschungsunterlagen

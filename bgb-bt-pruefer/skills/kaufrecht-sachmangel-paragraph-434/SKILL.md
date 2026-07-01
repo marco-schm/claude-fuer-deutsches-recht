@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-sachmangel-paragraph-434
-description: "Prüft Sachmangel § 434 BGB mit subjektiven, objektiven und Montageanforderungen, Aliud-Lieferung, Gefahrübergang, B2C-Beweislastumkehr nach § 477 BGB und B2B-Abgrenzung mit Wareneingang und § 377 HGB."
+description: "Wenn es um Kaufrecht: Sachmangel Paragraf 434 BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Kaufrecht: Sachmangel § 434 BGB

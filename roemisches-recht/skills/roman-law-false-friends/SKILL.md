@@ -1,6 +1,6 @@
 ---
 name: roman-law-false-friends
-description: "Römisches Recht: Roman Law False Friends. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Roman Law False Friends in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Roman Law False Friends

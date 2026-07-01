@@ -1,6 +1,6 @@
 ---
 name: sozialgericht-zustaendigkeit-51-sgg
-description: "Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG erklärt. Abgrenzung zu Verwaltungsgericht Arbeitsgericht Amtsgericht. Wann ist das SG zuständig und wann nicht."
+description: "Wenn es um Welche Streitigkeiten gehoeren vor das Sozialgericht? in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Welche Streitigkeiten gehoeren vor das Sozialgericht?

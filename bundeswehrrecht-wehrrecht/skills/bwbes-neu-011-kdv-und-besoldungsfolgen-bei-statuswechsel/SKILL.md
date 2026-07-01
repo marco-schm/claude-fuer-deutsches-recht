@@ -1,6 +1,6 @@
 ---
 name: bwbes-neu-011-kdv-und-besoldungsfolgen-bei-statuswechsel
-description: "Bundeswehrrecht: KDV und Besoldungsfolgen bei Statuswechsel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Bundeswehrrecht: KDV und Besoldungsfolgen bei Statuswechsel in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bundeswehrrecht: KDV und Besoldungsfolgen bei Statuswechsel

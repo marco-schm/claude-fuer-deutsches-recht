@@ -1,6 +1,6 @@
 ---
 name: streitstellen-katalog-zwanzig-typische
-description: "Katalog der 20 typischen Streitstellen der Verhältnismäßigkeitspruefung. Wesensgehalt absolut vs. relativ, Drei- oder Vierstufenpruefung, modern vs. klassischer Eingriffsbegriff, Einschaetzungsspraerogative, Untermassverbot, praktische Konkordanz, Generationengerechtigkeit. Mit Pro/Contra-Argumenten und Folgerung."
+description: "Wenn es um Streitstellen — die 20 wichtigsten Kontroversen in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Streitstellen — die 20 wichtigsten Kontroversen

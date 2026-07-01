@@ -1,6 +1,6 @@
 ---
 name: owi-039-gewerberecht-rechtsbeschwerde-pruefen
-description: "Ordnungswidrigkeitenrecht: Gewerberecht: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Gewerberecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Gewerberecht Rechtsbeschwerde Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerberecht Rechtsbeschwerde Pruefen

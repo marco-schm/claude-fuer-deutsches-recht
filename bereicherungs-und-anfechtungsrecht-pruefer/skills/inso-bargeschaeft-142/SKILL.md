@@ -1,6 +1,6 @@
 ---
 name: inso-bargeschaeft-142
-description: "Bargeschäft nach § 142 InsO prüfen: unmittelbarer gleichwertiger Leistungsaustausch, Geschäftsverkehrsübung, Arbeitsentgelt-Drei-Monats-Regel, Verhältnis zu §§ 130-132 und Vorsatzanfechtung § 133 mit erkannter Unlauterkeit. Output: Verteidigungs- und Risikoanalyse ohne pauschale 30-Tage-Regel."
+description: "Wenn es um Bargeschäft — Paragraf 142 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bargeschäft — § 142 InsO

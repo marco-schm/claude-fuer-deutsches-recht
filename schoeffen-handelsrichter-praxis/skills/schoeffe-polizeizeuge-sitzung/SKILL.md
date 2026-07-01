@@ -1,6 +1,6 @@
 ---
 name: schoeffe-polizeizeuge-sitzung
-description: "Polizeizeuge würdigen (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Routineaussagen, Erinnerungsstützen, Einsatzberichte und Glaubhaftigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Polizeizeuge würdigen: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Polizeizeuge würdigen: Sitzungspraxis

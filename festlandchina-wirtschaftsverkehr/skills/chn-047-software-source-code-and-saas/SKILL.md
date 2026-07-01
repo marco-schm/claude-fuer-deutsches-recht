@@ -1,6 +1,6 @@
 ---
 name: chn-047-software-source-code-and-saas
-description: "Festlandchina Wirtschaftsverkehr: Software Source Code And SaaS. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Software Source Code And SaaS in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Software Source Code And SaaS

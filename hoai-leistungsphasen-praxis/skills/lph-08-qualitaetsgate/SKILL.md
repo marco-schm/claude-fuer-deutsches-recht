@@ -1,6 +1,6 @@
 ---
 name: lph-08-qualitaetsgate
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen..."
+description: "Wenn es um LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Erstellt ein qualitygate in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Erstellt ein qualitygate

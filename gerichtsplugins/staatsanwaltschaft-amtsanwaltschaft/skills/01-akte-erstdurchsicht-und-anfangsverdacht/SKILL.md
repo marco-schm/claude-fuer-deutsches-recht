@@ -1,6 +1,6 @@
 ---
 name: 01-akte-erstdurchsicht-und-anfangsverdacht
-description: "Strukturierte Erstdurchsicht des Ermittlungsvorgangs: Anzeige, Tatvorwurf, Anfangsverdacht, Beschuldigtenstatus, Verjährung, Zuständigkeit und erste Ermittlungsrichtung nach StPO."
+description: "Wenn es um 01 Akte-Erstdurchsicht und Anfangsverdacht in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 01 Akte-Erstdurchsicht und Anfangsverdacht

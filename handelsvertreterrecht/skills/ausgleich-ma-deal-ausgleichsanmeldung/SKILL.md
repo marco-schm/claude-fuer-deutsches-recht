@@ -1,6 +1,6 @@
 ---
 name: ausgleich-ma-deal-ausgleichsanmeldung
-description: "Berechnet den Ausgleichsanspruch nach § 89b HGB: Rohertragsberechnung auf Basis der Jahresprovision, Prognoseabzug für Neukundenentwicklung, Abzinsung, Billigkeitskorrektur sowie Höchstbetragsgrenze einer durchschnittlichen Jahresvergütung nach § 89b Abs. 2 HGB und richtlinienkonformer EuGH-Recht..."
+description: "Wenn es um Berechnung des Ausgleichsanspruchs nach Paragraf 89b HGB in Handelsvertreterrecht und Vertriebsverträge geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Berechnung des Ausgleichsanspruchs nach § 89b HGB

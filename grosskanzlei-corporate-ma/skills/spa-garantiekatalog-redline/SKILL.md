@@ -1,6 +1,6 @@
 ---
 name: spa-garantiekatalog-redline
-description: Entwickelt und prüft Garantiekataloge im Unternehmenskaufvertrag mit Käufer- und Verkäuferposition, Disclosure-Anbindung, Haftungsfiltern und Redline-Agenda.
+description: "Wenn es um SPA-Garantiekatalog und Redline in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 # SPA-Garantiekatalog und Redline
 

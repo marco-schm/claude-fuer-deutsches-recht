@@ -1,6 +1,6 @@
 ---
 name: mermaid-flowchart-pruefung
-description: Mermaid-Flowchart fuer die Verhältnismäßigkeitspruefung mit Stufen Entscheidungsknoten und Pfaden bei Scheitern auf Stufe 1 bis 4. Mit Codebeispielen Anwendungshinweisen und Tipps zur Einbettung in Markdown.
+description: "Wenn es um Mermaid Flowchart Prüfung in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mermaid Flowchart Prüfung

@@ -1,6 +1,6 @@
 ---
 name: tatsaechliche-verstaendigung
-description: "Strategischer Skill zur tatsaechlichen Verstaendigung mit dem Finanzamt — wann ist sie zulaessig wie wird sie verhandelt und wie bindet sie. Anwendungsfall Aussenpruefung oder Veranlagung erreicht eine Sachverhaltsfrage die im Schaetzungswege nicht weiter aufklaerbar ist. Behandelt zulaessige Geg..."
+description: "Wenn es um Tatsaechliche Verstaendigung mit dem Finanzamt — Voraussetzungen und Vertragsmuster in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tatsaechliche Verstaendigung mit dem Finanzamt — Voraussetzungen und Vertragsmuster

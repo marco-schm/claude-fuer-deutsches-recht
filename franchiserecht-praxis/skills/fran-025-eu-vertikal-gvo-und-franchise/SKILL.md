@@ -1,6 +1,6 @@
 ---
 name: fran-025-eu-vertikal-gvo-und-franchise
-description: "Franchiserecht: EU Vertikal-GVO und Franchise mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: EU Vertikal-GVO und Franchise in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: EU Vertikal-GVO und Franchise

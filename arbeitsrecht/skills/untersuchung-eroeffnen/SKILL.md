@@ -1,6 +1,6 @@
 ---
 name: untersuchung-eroeffnen
-description: "Eröffnet eine neue interne Untersuchungssache — führt die Sachverhaltserfassung durch, generiert die Quellencheckliste und legt das persistente Untersuchungsprotokoll an: Eröffnet eine neue interne Untersuchungssache — führt die Sachverhaltserfassung durch,..."
+description: "Wenn es um Untersuchung Eroeffnen in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eröffnet eine neue interne Untersuchungssache — führt die Sachverhaltserfassung durch, generiert die Quellencheckliste und legt das persistente Untersuchungsprotokoll an

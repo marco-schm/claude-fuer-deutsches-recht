@@ -1,6 +1,6 @@
 ---
 name: sanktionen-und-mandatsannahme-rechtsprechungscheck
-description: "Anwälte: sanktionen und mandatsannahme - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Sanktionen Und Mandatsannahme Rechtsprechungscheck in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Anwälte: sanktionen und mandatsannahme - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

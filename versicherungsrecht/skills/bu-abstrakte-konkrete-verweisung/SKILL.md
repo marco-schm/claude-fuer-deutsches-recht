@@ -1,6 +1,6 @@
 ---
 name: bu-abstrakte-konkrete-verweisung
-description: "Abstrakte/konkrete Verweisung in der BU: Lebensstellung, Ausbildung, Erfahrung, Einkommen, Arbeitsmarkt und tatsächliche Tätigkeit sauber prüfen im Versicherungsrecht."
+description: "Wenn es um BU: abstrakte und konkrete Verweisung in Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # BU: abstrakte und konkrete Verweisung

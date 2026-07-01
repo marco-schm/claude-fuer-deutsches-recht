@@ -1,6 +1,6 @@
 ---
 name: qualitaetsmanagement-im-notariat-kammerantwort-und-verfahren
-description: "Notare: qualitaetsmanagement im notariat - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Qualitaetsmanagement Im Notariat Kammerantwort Und Verfahren in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: qualitaetsmanagement im notariat - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

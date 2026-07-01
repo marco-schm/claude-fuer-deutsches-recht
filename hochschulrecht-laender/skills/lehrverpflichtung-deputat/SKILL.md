@@ -1,6 +1,6 @@
 ---
 name: lehrverpflichtung-deputat
-description: "Prüft Lehrdeputat, Ermäßigung, Forschungssemester und Kapazitätsfolgen im Hochschulrecht Länder."
+description: "Wenn es um Lehrverpflichtung und Deputat in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lehrverpflichtung und Deputat

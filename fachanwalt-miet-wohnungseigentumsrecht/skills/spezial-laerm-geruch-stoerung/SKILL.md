@@ -1,6 +1,6 @@
 ---
 name: spezial-laerm-geruch-stoerung
-description: "Lärm/Geruch/Störung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; macht Störungsprotokoll, Zeugen, Messung, Minderungs- und Unterlassungsstrategie; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Lärm/Geruch/Störung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lärm/Geruch/Störung

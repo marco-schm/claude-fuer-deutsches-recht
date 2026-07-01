@@ -1,6 +1,6 @@
 ---
 name: wesentlichkeitstheorie-parlamentsvorbehalt
-description: "Wesentlichkeitstheorie und Parlamentsvorbehalt als Vorfrage materieller Verfassungsmaessigkeit. Wann muss der Gesetzgeber selbst regeln, und wann darf er auf die Exekutive delegieren. Mit Anwendungsbeispielen im Schulrecht, Beamtenrecht, Sicherheitsrecht und Klimaschutzrecht."
+description: "Wenn es um Wesentlichkeitstheorie und Parlamentsvorbehalt in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wesentlichkeitstheorie und Parlamentsvorbehalt

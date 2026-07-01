@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-icp-kontrollsystem
-description: "Aufbau und Auditierung eines Internal Compliance Programme (ICP) nach BAFA-Leitfaden und EU Best Practice Guidelines: Risikobasierte Struktur, Schlüssel-Compliance-Elemente, Ausfuhrverantwortlicher, Screening-Prozesse, Dokumentation und Schulungspflichten. Output: ICP-Handbuch-Gliederung und Gap..."
+description: "Wenn es um Internal Compliance Programme (ICP): Aufbau und Gap-Analyse in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internal Compliance Programme (ICP): Aufbau und Gap-Analyse

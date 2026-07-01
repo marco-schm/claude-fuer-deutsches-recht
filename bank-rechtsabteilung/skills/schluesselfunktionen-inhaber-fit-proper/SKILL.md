@@ -1,6 +1,6 @@
 ---
 name: schluesselfunktionen-inhaber-fit-proper
-description: "Inhaber besonderer Schlüsselfunktionen in großen Banken prüfen: Anzeige, Eignung, Zuverlässigkeit, Zeitverfügbarkeit, Rollenabgrenzung und Eskalation an Aufsicht oder Vorstand im Bank-Rechtsabteilung."
+description: "Wenn es um Schlüsselfunktionen Fit and Proper in Bank-Rechtsabteilung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Schlüsselfunktionen Fit and Proper

@@ -1,6 +1,6 @@
 ---
 name: gmbh-kapitalerhoehung-bareinlage
-description: "Prüft Satzungsänderung, Übernahme, Einzahlung, Anmeldung, Versicherung, Liste und Registervollzug im Handelsregister Praxis."
+description: "Wenn es um Barkapitalerhöhung in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Barkapitalerhöhung

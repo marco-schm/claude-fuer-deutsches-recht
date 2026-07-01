@@ -1,6 +1,6 @@
 ---
 name: lieferkettensorgfalt-lksg-red-naturschutz
-description: "Lieferkettensorgfalt: Formular, Portal und Einreichungslogik im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Lieferkettensorgfalt: Formular, Portal und Einreichungslogik in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lieferkettensorgfalt: Formular, Portal und Einreichungslogik

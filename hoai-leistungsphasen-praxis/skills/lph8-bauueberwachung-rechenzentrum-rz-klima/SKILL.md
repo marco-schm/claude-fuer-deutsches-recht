@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-rechenzentrum-rz-klima
-description: "Bauueberwachung nach HOAI LPH 8 für Rechenzentren — praeyzise Kontrolle Kuehlinfrastruktur nach ASHRAE TC 9.9, Doppelboden und Kabeltrassen nach EN 50173, USV-Anlagen und Notstromaggregat-Prüfung, Brandschutz-Gasloesch-System nach DIN EN 12094 und physische Sicherheit nach ISO IEC 27001. Unterst..."
+description: "Wenn es um Bauueberwachung Rechenzentrum RZ-Klima (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Rechenzentrum RZ-Klima (LPH 8)

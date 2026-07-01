@@ -1,6 +1,6 @@
 ---
 name: rechnungseinzug
-description: "Rechnungseinzug: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Rechnungseinzug im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Rechnungseinzug in Berufsrecht Wirtschaftsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechnungseinzug

@@ -1,6 +1,6 @@
 ---
 name: verbraucherbesonderheiten-310-abs3
-description: "Norm- und Dogmatik-Skill für Verbraucherbesonderheiten 310 Abs. 3: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Verbraucherbesonderheiten 310 Abs. 3 in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verbraucherbesonderheiten 310 Abs. 3

@@ -1,6 +1,6 @@
 ---
 name: e-scooter-und-mikromobilitaet
-description: "Straßenverkehrsrecht StVO: E-Scooter und Mikromobilität. E-Scooter und Mikromobilität im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, B..."
+description: "Wenn es um E Scooter Und Mikromobilitaet in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # E Scooter Und Mikromobilitaet

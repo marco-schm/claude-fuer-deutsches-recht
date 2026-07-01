@@ -1,6 +1,6 @@
 ---
 name: portfolio-rechtsabteilung-data-down
-description: "Baut Kalender für Gesellschafterversammlungen, Zustimmungen, Reports, Steuer, Fristen, Optionsausübungen und Runden im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Portfolio Legal Calendar in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Portfolio Legal Calendar

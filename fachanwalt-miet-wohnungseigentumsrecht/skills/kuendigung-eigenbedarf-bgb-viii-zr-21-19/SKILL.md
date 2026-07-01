@@ -1,6 +1,6 @@
 ---
 name: kuendigung-eigenbedarf-bgb-viii-zr-21-19
-description: "Kuendigung Eigenbedarf BGB Viii Zr 21 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Kuendigung Eigenbedarf BGB Viii Zr 21 19 in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kuendigung Eigenbedarf BGB Viii Zr 21 19

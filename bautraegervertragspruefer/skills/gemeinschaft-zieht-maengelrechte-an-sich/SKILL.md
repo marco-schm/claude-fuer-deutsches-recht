@@ -1,6 +1,6 @@
 ---
 name: gemeinschaft-zieht-maengelrechte-an-sich
-description: "Prueft die gemeinschaftliche Geltendmachung von Maengelrechten am Gemeinschaftseigentum durch die Gemeinschaft der Wohnungseigentuemer als gekorene Prozessstandschafterin. Beschlusserfordernis, Wirkung fuer alle Erwerber, Verjaehrungshemmung und Koordination mit einzelnen Erwerbern."
+description: "Wenn es um Gemeinschaft zieht Mängelrechte an sich in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Gemeinschaft zieht Mängelrechte an sich

@@ -1,6 +1,6 @@
 ---
 name: drg-035-einigungsvertrag-und-rechtsueberleitung
-description: "Deutsche Rechtsgeschichte: Einigungsvertrag Und Rechtsueberleitung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Einigungsvertrag Und Rechtsueberleitung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einigungsvertrag Und Rechtsueberleitung

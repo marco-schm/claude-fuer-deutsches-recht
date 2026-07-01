@@ -1,6 +1,6 @@
 ---
 name: gleichstellung-diskriminierung-impfpflicht
-description: "Gleichstellung und Diskriminierung Soldatinnen und Soldaten: prüft SoldGG, AGG-Anwendung, Beschwerderechte und Gleichstellungsbeauftragte. Norm-/Quellenanker: SoldGG, AGG, SG, GG Art. 3 im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Gleichstellung und Diskriminierung Soldatinnen/Soldaten in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gleichstellung und Diskriminierung Soldatinnen/Soldaten

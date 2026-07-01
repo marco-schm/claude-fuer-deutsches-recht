@@ -1,6 +1,6 @@
 ---
 name: portfolio-governance-board-pack
-description: "Erstellt Board-Paper, Consent Requests, Reserved Matters, KPI-/Covenant-Reporting und Entscheidungsvorlagen im Private Equity Praxis."
+description: "Wenn es um Portfolio Governance und Board Pack in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Portfolio Governance und Board Pack

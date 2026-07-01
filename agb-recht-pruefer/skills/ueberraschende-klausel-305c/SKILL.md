@@ -1,6 +1,6 @@
 ---
 name: ueberraschende-klausel-305c
-description: "Norm- und Dogmatik-Skill für Überraschende Klausel 305c: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Überraschende Klausel 305c in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Überraschende Klausel 305c

@@ -1,6 +1,6 @@
 ---
 name: datenraum-kapitalerhoehung-insiderrecht
-description: "Sichert Datenraum-Prozesse in Transaktionen (M&A, Anleihe, Kapitalerhoehung) gegen Insiderrecht-Risiken: Zugangskontrolle, Protokollierung und Exit-Management im Insiderrecht Compliance."
+description: "Wenn es um Datenraum-Management in Transaktionen – Insiderrechtliche Anforderungen in Insiderrecht Compliance geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Datenraum-Management in Transaktionen – Insiderrechtliche Anforderungen

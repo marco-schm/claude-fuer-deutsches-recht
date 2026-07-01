@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Start, Chronologie und Fristen der Liquiditätsvorschau: Aktenaufnahme, 13-Wochen-Sicht, InsO-/StaRUG-Schwellen, Zahlungskalender und Sofortmaßnahmen."
+description: "Wenn es um Start, Chronologie und Fristen Liquiditätsvorschau in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Start, Chronologie und Fristen Liquiditätsvorschau

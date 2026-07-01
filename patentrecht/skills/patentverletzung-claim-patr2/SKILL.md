@@ -1,6 +1,6 @@
 ---
 name: patentverletzung-claim-patr2
-description: "Erstellt Claim Charts für Patentverletzung oder Nichtverletzung: Anspruchsmerkmale, Produkt-/Verfahrensbelege, Fundstellen, Beweisqualität, Lücken, Äquivalenz und Ergebnisampel im Patentrecht."
+description: "Wenn es um Claim Chart in patentrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Claim Chart

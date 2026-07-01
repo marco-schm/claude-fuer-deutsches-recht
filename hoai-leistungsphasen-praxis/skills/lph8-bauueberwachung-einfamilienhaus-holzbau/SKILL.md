@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-einfamilienhaus-holzbau
-description: "Bauueberwachung nach HOAI LPH 8 für Einfamilienhaeuser in Holzrahmen- oder Holztafelbauweise — CLT- und Brettschichtholz-Verbindungen nach DIN EN 1995, Holzfeuchte-Monitoring, Luftdichtheitsebene nach DIN 4108-7, Brandschutz nach LBO und energetische Qualitaetskontrolle nach GEG 2023. Praxisnahe..."
+description: "Wenn es um Bauueberwachung Einfamilienhaus Holzbau (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Einfamilienhaus Holzbau (LPH 8)

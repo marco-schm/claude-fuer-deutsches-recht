@@ -1,6 +1,6 @@
 ---
 name: ein-068-parteivermoegen-widerspruch-pruefen
-description: "Einigungsvertrag und Vermögensrecht: Parteivermögen: Widerspruch prüfen. Widerspruch prüfen für Parteivermögen im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Parteivermoegen Widerspruch Pruefen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parteivermoegen Widerspruch Pruefen

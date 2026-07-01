@@ -1,6 +1,6 @@
 ---
 name: daenemark-proportionalitetsprincip
-description: Daenische Verhältnismäßigkeitsdogmatik mit Proportionalitetsprincip im Forvaltningsret und im Politilov 2004 als Eignung Noedvendighed Proportionalitet i snaever forstand. Mit Hoejesteret als Verfassungsgericht ohne formelle Normenkontrolltradition Inkorporationsgesetz EMRK von 1992 und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und zur dominanten Rolle des EMRK-Maßstabs in Eingriffsfaellen.
+description: "Wenn es um Daenemark Proportionalitetsprincip in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Daenemark Proportionalitetsprincip

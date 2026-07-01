@@ -1,6 +1,6 @@
 ---
 name: nachfrage-abschlussprodukt-und-uebergabe
-description: "Nachfrage: Abschlussprodukt und Übergabe im Vertragsausfueller. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Nachfrage: Abschlussprodukt und Übergabe in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachfrage: Abschlussprodukt und Übergabe

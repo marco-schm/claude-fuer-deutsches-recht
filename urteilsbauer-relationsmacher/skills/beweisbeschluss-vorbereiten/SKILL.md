@@ -1,6 +1,6 @@
 ---
 name: beweisbeschluss-vorbereiten
-description: "Beweisbeschluss nach § 359 ZPO vorbereiten: Richter bestimmt Beweisaufnahme nach muendlicher Verhandlung. Normen: § 359 ZPO (Inhalt Beweisbeschluss), § 286 ZPO (Beweislast), §§ 373 ff. ZPO (Zeugen), §§ 402 ff. ZPO (Sachverständige). Prüfraster: streitige Beweistatsachen, Beweisthema, Beweismittel..."
+description: "Wenn es um Beweisbeschluss vorbereiten in Urteilsbauer und Relationsmacher geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweisbeschluss vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: social-media-werbung
-description: "Solo-Selbstständige: prüft Werbung, Testimonials, Influencer-Hinweise und Irreführung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Marketing E-Commerce und Plattformen: Prüft werbung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Marketing E-Commerce und Plattformen: Prüft werbung

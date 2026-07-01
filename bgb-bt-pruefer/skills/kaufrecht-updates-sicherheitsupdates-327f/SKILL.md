@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-updates-sicherheitsupdates-327f
-description: "Prüft Update- und Sicherheitsupdatepflichten §§ 327f und 475b BGB bei digitalen Produkten und Ware mit digitalen Elementen."
+description: "Wenn es um Kaufrecht: Updates und Sicherheitsupdates Paragrafen 327f und 475b BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kaufrecht Updates Sicherheitsupdates 327f; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Kaufrecht: Updates und Sicherheitsupdates §§ 327f und 475b BGB

@@ -1,6 +1,6 @@
 ---
 name: vergleich-und-mediation
-description: "Gesellschaftsrechtliche Treuepflicht: Vergleich Und Mediation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Vergleich Und Mediation in Gesellschaftsrechtliche Treuepflicht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich Und Mediation

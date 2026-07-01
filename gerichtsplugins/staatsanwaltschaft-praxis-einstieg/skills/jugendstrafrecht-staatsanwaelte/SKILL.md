@@ -1,6 +1,6 @@
 ---
 name: jugendstrafrecht-staatsanwaelte
-description: "Jugendstrafrecht für Staatsanwälte: Praxis-Skill für neue Staatsanwälte zu Erziehungsgedanke, Jugendgerichtshilfe, Diversion, Anklage und Sitzungsdienst abstimmen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Jugendstrafrecht für Staatsanwälte in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Jugendstrafrecht für Staatsanwälte

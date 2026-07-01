@@ -1,6 +1,6 @@
 ---
 name: neubewertung-verfahren
-description: "Prüft Neubewertung, Prüferbindung, Austausch des Prüfers und Bescheidtechnik im Prüfungsrecht Hochschule."
+description: "Wenn es um Neubewertung Verfahren in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Neubewertung Verfahren

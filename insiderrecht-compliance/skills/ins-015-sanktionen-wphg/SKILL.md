@@ -1,6 +1,6 @@
 ---
 name: ins-015-sanktionen-wphg
-description: "Prueft WpHG/MAR-Sanktionsrisiken, BaFin-Verfahren, Straf-/OWi-Schnittstelle, Verteidigung und Dokumentationsstrategie."
+description: "Wenn es um Sanktionen und Verteidigung in Insiderrecht Compliance geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Sanktionen und Verteidigung

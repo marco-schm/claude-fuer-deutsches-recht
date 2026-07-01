@@ -1,6 +1,6 @@
 ---
 name: systemtheorie-luhmann-rechtssystem-autopoiese
-description: "Systemtheorie Niklas Luhmanns und das Recht. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binaerer Code Recht/Unrecht. Verhältnis zu anderen gesellschaftlichen Teilsystemen (Wirtschaft, Politik, Wissenschaft). Konsequenzen für die Methodenleh..."
+description: "Wenn es um Systemtheorie Luhmanns und das Recht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Systemtheorie Luhmanns und das Recht

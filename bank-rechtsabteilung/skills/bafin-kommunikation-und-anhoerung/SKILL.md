@@ -1,6 +1,6 @@
 ---
 name: bafin-kommunikation-und-anhoerung
-description: "BaFin-Kommunikation und Anhörung: Antwortstrategie, Tonfall, Tatsachenklärung, Fristen, Vollständigkeit, Anerkenntnisrisiken, Aufsichtsdialog und Vorstandsinformation für Banken strukturieren im Bank-Rechtsabteilung."
+description: "Wenn es um BaFin-Anhörung und Aufsichtsschreiben in Bank-Rechtsabteilung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BaFin-Anhörung und Aufsichtsschreiben

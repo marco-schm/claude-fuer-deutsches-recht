@@ -1,6 +1,6 @@
 ---
 name: avv-audit-und-kontrollrechte
-description: "Audit- und Kontrollrechte des Verantwortlichen gegenueber dem Auftragsverarbeiter nach Art. 28 Abs. 3 lit. h DSGVO. Behandelt Vor-Ort-Audits Selbstauskunft Zertifikate sowie das Verhältnis zwischen Audit-Recht und Geschäftsgeheimnis. Output: Audit-Klausel mit Frequenz Verfahren Kostenregel und..."
+description: "Wenn es um AVV-Audit und Kontrollrechte – Art. 28 Abs. 3 lit. h DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AVV-Audit und Kontrollrechte – Art. 28 Abs. 3 lit. h DSGVO

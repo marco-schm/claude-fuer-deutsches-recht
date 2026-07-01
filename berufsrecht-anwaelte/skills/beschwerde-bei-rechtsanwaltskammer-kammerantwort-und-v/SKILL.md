@@ -1,6 +1,6 @@
 ---
 name: beschwerde-bei-rechtsanwaltskammer-kammerantwort-und-v
-description: "Anwälte: beschwerde bei rechtsanwaltskammer - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Beschwerde Bei Rechtsanwaltskammer Kammerantwort Und V in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Anwälte: beschwerde bei rechtsanwaltskammer - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

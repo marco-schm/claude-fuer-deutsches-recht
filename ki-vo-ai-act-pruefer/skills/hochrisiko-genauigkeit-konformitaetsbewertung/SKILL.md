@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-genauigkeit-konformitaetsbewertung
-description: "Anbieter von Hochrisiko-KI fragt: Welche Leistungsstandards für Genauigkeit Robustheit und Cybersicherheit muessen wir nachweisen und dokumentieren? Art. 15 KI-VO Mindeststandards. Prüfraster: Genauigkeitsmetriken und Leistungserklärung Fehlertoleranz-Anforderungen Resilienz gegen adversarielle E"
+description: "Wenn es um Genauigkeit, Robustheit und Cybersicherheit — Art. 15 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Hochrisiko Genauigkeit Konformitaetsbewertung; Arbeitsfeld: europäischem Technikregulierungsrecht."
 ---
 
 # Genauigkeit, Robustheit und Cybersicherheit — Art. 15 KI-VO

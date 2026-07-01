@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-fristenkalender
-description: "Laienverstaendlicher Sozialrechts-Skill zu Fristenkalender. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
+description: "Wenn es um Laienhilfe: Fristenkalender in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienhilfe: Fristenkalender

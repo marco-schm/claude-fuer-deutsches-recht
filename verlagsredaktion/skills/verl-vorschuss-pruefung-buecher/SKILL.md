@@ -1,6 +1,6 @@
 ---
 name: verl-vorschuss-pruefung-buecher
-description: "Vorschusspruefung fuer Buchprojekte: Bemessungsgrundlage, Auszahlungsstufen, Verrechnung mit Tantiemen, Rueckforderung bei Nichtablieferung, steuerliche und sozialversicherungsrechtliche Folgen."
+description: "Wenn es um Vorschuss pruefen in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vorschuss pruefen

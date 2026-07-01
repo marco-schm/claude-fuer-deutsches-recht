@@ -1,6 +1,6 @@
 ---
 name: space-024-suborbitalflug-luftrecht-oder-weltraumrecht
-description: "Weltraumrecht: Suborbitalflug Luftrecht oder Weltraumrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Suborbitalflug Luftrecht oder Weltraumrecht in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Suborbitalflug Luftrecht oder Weltraumrecht

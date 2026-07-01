@@ -1,6 +1,6 @@
 ---
 name: mietpreisbremse-ruege
-description: "Mietpreisbremse Rüge/Rückforderung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Gebiet, Ausnahmen, Vormiete, qualifizierte Rüge, Verjährung; mit Normprüfung, Beweise..."
+description: "Wenn es um Mietpreisbremse Rüge/Rückforderung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietpreisbremse Rüge/Rückforderung: Fachmodul im Miet- und Wohnungseigentumsrecht

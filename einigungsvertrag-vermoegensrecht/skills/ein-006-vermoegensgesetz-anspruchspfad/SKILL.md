@@ -1,6 +1,6 @@
 ---
 name: ein-006-vermoegensgesetz-anspruchspfad
-description: "Einigungsvertrag und Vermögensrecht: Vermögensgesetz Anspruchspfad. Vermögensgesetz Anspruchspfad im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Vermoegensgesetz Anspruchspfad in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vermoegensgesetz Anspruchspfad

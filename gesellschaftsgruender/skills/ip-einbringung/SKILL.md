@@ -1,6 +1,6 @@
 ---
 name: ip-einbringung
-description: "Prüft, ob Software, Marken, Designs, Domains und Know-how sauber in die Gesellschaft gelangen im Gesellschaftsgruender."
+description: "Wenn es um IP-Einbringung und Rechtekette in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IP-Einbringung und Rechtekette

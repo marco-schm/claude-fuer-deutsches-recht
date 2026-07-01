@@ -1,6 +1,6 @@
 ---
 name: inso-p270c-vorlaufiges-eigenverwaltungsverfahren
-description: "§ 270c InsO (Vorläufiges Eigenverwaltungsverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 270c InsO (Vorläufiges Eigenverwaltungsverfahren) im Mandat prüfen: Normzweck, Tatbestan..."
+description: "Wenn es um Inso P270c Vorlaufiges Eigenverwaltungsverfahren in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 270c InsO (Vorläufiges Eigenverwaltungsverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: susa-anlagenkonten-ueberblick
-description: "Anlagenbuchhaltung in der SuSa Anlagenkonten Klasse 0 SKR 03 immaterielle WG Sachanlagen Finanzanlagen Buchwerte. Anwendungsfall Monats- oder Jahres-SuSa mit Anlagenbestand AfA-Aktualisierung Zu- und Abgaenge. Methodik Anlagenspiegel-Abgleich. Output Anlagen-Kontenuebersicht mit Buchwerten."
+description: "Wenn es um Anlagenkonten in der SuSa — Überblick und Abstimmung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anlagenkonten in der SuSa — Überblick und Abstimmung

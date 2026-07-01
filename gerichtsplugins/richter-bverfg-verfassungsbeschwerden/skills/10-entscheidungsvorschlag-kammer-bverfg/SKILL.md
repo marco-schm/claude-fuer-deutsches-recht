@@ -1,6 +1,6 @@
 ---
 name: 10-entscheidungsvorschlag-kammer-bverfg
-description: "Strukturierter Entscheidungsvorschlag für die Kammer: Annahme oder Nichtannahme, ggf. Vorlage an den Senat, ggf. einstweilige Anordnung Paragraf 32 BVerfGG, Risikohinweise, ausdrücklich zur kammerinternen Prüfung markiert"
+description: "Wenn es um 10 Entscheidungsvorschlag Kammer BVerfG in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 10 Entscheidungsvorschlag Kammer BVerfG

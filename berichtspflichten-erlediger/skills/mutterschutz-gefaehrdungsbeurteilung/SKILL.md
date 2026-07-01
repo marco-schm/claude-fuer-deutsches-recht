@@ -1,6 +1,6 @@
 ---
 name: mutterschutz-gefaehrdungsbeurteilung
-description: "Mutterschutz: Gefährdungsbeurteilung, Meldung an Aufsicht, Schutzmaßnahmen und Dokumentation im Berichtspflichten."
+description: "Wenn es um Mutterschutz Gefährdungsbeurteilung und Meldung in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mutterschutz Gefährdungsbeurteilung und Meldung

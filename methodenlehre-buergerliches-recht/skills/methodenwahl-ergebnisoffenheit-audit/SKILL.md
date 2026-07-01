@@ -1,6 +1,6 @@
 ---
 name: methodenwahl-ergebnisoffenheit-audit
-description: "Prüft zivilrechtliche Gutachten und Urteile auf Ergebnisoffenheit der Methodenwahl. Das Skill erkennt, ob die Methodenwahl unvoreingenommen erfolgt ist oder rückwärts vom gewünschten Ergebnis konstruiert wurde. Es liefert ein strukturiertes Audit-Verfahren für methodische Unabhängigkeit und stärk..."
+description: "Wenn es um Methodenwahl-Audit: Ergebnisoffenheit prüfen in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Methodenwahl-Audit: Ergebnisoffenheit prüfen

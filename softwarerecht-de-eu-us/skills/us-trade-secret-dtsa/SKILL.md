@@ -1,6 +1,6 @@
 ---
 name: us-trade-secret-dtsa
-description: "Prüft Software als Trade Secret nach US-Recht: secrecy measures, misappropriation, employee mobility und repository evidence im Softwarerecht De Eu Us."
+description: "Wenn es um US Trade Secret DTSA Software in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # US Trade Secret DTSA Software

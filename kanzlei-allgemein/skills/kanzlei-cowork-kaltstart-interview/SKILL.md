@@ -1,6 +1,6 @@
 ---
 name: kanzlei-cowork-kaltstart-interview
-description: "Kaltstart-Interview für das generische Kanzlei-Cowork-Plugin. Erfragt Kanzleiprofil (Solo / Sozietaet / GmbH / Partnerschaft) Rechtsgebiete-Mix Sekretariat (vorhanden Stellen) Aktenstruktur-Konvention beA-Profil Versandwege Buchhaltungssoftware (DATEV Lexware sevDesk RA-MICRO Advoware) Vorgehensw..."
+description: "Wenn es um /kanzlei-allgemein:kanzlei-cowork-kaltstart-interview in Kanzlei-Allgemein geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # /kanzlei-allgemein:kanzlei-cowork-kaltstart-interview

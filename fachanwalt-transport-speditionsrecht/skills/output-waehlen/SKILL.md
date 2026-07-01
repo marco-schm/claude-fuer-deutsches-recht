@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Transport- und Speditionsrecht: stimmt Adressat (Absender, Frachtführer, Empfänger), Frist (CMR Klage 1 Jahr / 3 Jahre Vorsatz) und Form auf den Zweck ab — typische Outputs: Schadensklage, Sicherungsvertrag, Frachtklage."
+description: "Wenn es um Output wählen in Fachanwalt Transport Speditionsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

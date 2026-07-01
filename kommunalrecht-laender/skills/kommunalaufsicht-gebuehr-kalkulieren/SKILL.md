@@ -1,6 +1,6 @@
 ---
 name: kommunalaufsicht-gebuehr-kalkulieren
-description: "der Länder: Kommunalaufsicht: Gebühr kalkulieren im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kommunalaufsicht Gebuehr Kalkulieren in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalaufsicht Gebuehr Kalkulieren

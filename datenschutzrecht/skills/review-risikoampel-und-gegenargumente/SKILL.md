@@ -1,6 +1,6 @@
 ---
 name: review-risikoampel-und-gegenargumente
-description: "Review: Risikoampel, Gegenargumente und Verteidigungslinien: Review: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Wenn es um Review: Risikoampel, Gegenargumente und Verteidigungslinien in Datenschutzrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Review Risikoampel Und Gegenargumente; Arbeitsfeld: Datenschutzrecht."
 ---
 
 # Review: Risikoampel, Gegenargumente und Verteidigungslinien

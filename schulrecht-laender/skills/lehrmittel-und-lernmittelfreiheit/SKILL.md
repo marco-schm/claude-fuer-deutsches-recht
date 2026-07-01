@@ -1,6 +1,6 @@
 ---
 name: lehrmittel-und-lernmittelfreiheit
-description: "Prüft Lernmittel, Kosten, digitale Geräte, Ausleihe und Schulträgerpflichten im Schulrecht Länder."
+description: "Wenn es um Lehrmittel und Lernmittelfreiheit in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lehrmittel und Lernmittelfreiheit

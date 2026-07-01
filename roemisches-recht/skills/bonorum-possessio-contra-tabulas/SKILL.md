@@ -1,6 +1,6 @@
 ---
 name: bonorum-possessio-contra-tabulas
-description: "Bonorum possessio contra tabulas: Vermögensbesitzbestaetigung des Praetors gegen das Testament. Skill behandelt die Voraussetzungen die Schutzfunktion für uebergangene Hauserben (sui heredes) und das Verhältnis zur querela inofficiosi testamenti. Liefert Quellenmatrix."
+description: "Wenn es um Rom 146 Bonorum Possessio Contra Tabulas in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 146 Bonorum Possessio Contra Tabulas

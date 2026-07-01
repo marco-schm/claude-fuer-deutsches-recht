@@ -1,6 +1,6 @@
 ---
 name: aktenanalyse-historische-fallakte
-description: "Deutsche Rechtsgeschichte: Aktenanalyse einer historischen Fallakte. Aufbau historischer Gerichtsakten, Lese- und Auswertungstechnik, Quellennachweis und Einbau in heutige Argumentation im Deutsche Rechtsgeschichte."
+description: "Wenn es um Aktenanalyse: Historische Fallakte in Deutsche Rechtsgeschichte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Aktenanalyse: Historische Fallakte

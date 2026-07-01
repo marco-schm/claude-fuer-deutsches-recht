@@ -1,6 +1,6 @@
 ---
 name: schutzgegenstand-design-produkt-erscheinungsform
-description: "Schutzgegenstand im Designrecht präzisieren: Erscheinungsform, Linien, Konturen, Farben, Gestalt, Oberflächenstruktur, Verzierung, Produktbegriff und Abgrenzung zu technischer Funktion im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Schutzgegenstand Design Produkt Erscheinungsform in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Schutzgegenstand Design Produkt Erscheinungsform

@@ -1,6 +1,6 @@
 ---
 name: zivilprozess-im-alr-formstrenge
-description: "Zivilprozess im ALR — Formstrenge und Fristen. Skill behandelt die wichtigsten Verfahrensformen das Klage- und Antragsystem die Schriftform die Fristenlogik und die Fortwirkung zur ZPO. Liefert Prüfraster."
+description: "Wenn es um Pralr Zivilprozess Im Alr Formstrenge in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Zivilprozess Im Alr Formstrenge

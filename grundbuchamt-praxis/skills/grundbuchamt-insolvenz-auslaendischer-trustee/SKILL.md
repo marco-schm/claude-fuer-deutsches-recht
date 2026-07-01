@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-insolvenz-auslaendischer-trustee
-description: "Prüft inzidente Anerkennung, Vertretungsmacht, Urkundenform, Übersetzung und Register-/Grundbuchfähigkeit im Grundbuchamt Praxis."
+description: "Wenn es um Ausländischer Insolvenzwalter in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausländischer Insolvenzwalter

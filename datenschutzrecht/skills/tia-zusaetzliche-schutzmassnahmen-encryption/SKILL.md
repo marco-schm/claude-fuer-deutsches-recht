@@ -1,6 +1,6 @@
 ---
 name: tia-zusaetzliche-schutzmassnahmen-encryption
-description: "Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2. Technische Maßnahmen Verschluesselung Pseudonymisierung Split Processing Key Management; vertragliche Maßnahmen Transparenzpflichten Warrant Canary; organisatorische Maßnahmen Schulung Policy. Mit Use-..."
+description: "Wenn es um Zusaetzliche Schutzmassnahmen für das TIA (Schritt 4 EDPB-Roadmap) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zusaetzliche Schutzmassnahmen für das TIA (Schritt 4 EDPB-Roadmap)

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-upc-eilverfahren-und-deutsche-parallelstrategie
-description: "Rechtsabteilungs-Fachmodul für UPC-Eilverfahren und deutsche Parallelstrategie: PI-Antrag, Schutzschrift, Bifurcation und Forumstrategie werden abgewogen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Patentrecht."
+description: "Wenn es um Rechtsabteilung: UPC-Eilverfahren und deutsche Parallelstrategie in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rechtsabteilung: UPC-Eilverfahren und deutsche Parallelstrategie

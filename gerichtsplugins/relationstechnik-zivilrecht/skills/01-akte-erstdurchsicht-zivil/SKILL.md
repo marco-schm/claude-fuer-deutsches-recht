@@ -1,6 +1,6 @@
 ---
 name: 01-akte-erstdurchsicht-zivil
-description: "Strukturierte Erstdurchsicht der Zivilakte: Parteien identifizieren, Antrag isolieren, Lebenssachverhalt extrahieren, beigefuegte Unterlagen ordnen"
+description: "Wenn es um 01 Akte Erstdurchsicht Zivil in Relationstechnik Zivilrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 01 Akte Erstdurchsicht Zivil

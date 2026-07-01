@@ -1,6 +1,6 @@
 ---
 name: software-verschluesselung-swiss-sanctions
-description: "Exportkontrolle für Verschluesselungssoftware und Kryptografieprodukte nach VO (EU) 2021/821 Kategorie 5 Teil 2 (Telekommunikation/Informationssicherheit): Klassifizierung von Algorithmen (AES 256 bit RSA ECC) Exportgenehmigungspflicht und Allgemeine Genehmigung EU001. Besonderheiten bei Open-Sou..."
+description: "Wenn es um Exportkontrolle für Verschluesselungssoftware: Kryptografie und Dual-Use-Kategorie 5 in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exportkontrolle für Verschluesselungssoftware: Kryptografie und Dual-Use-Kategorie 5

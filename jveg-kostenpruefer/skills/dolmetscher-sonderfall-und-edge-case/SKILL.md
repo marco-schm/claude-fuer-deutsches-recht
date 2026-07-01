@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-sonderfall-und-edge-case
-description: "Dolmetscher: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Dolmetscher: Sonderfall und Edge-Case-Prüfung in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dolmetscher: Sonderfall und Edge-Case-Prüfung

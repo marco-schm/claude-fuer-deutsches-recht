@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Tabellenreview (Excel/CSV): stimmt Adressat (Datenverantwortlicher, Prüfer), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Pivot-Analyse, Drei-Dimensional-Review (Struktur, Inhalt, Formel), Mängelbericht."
+description: "Wenn es um Output wählen in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: ancillary-documents
-description: "Ancillary Documents, TSA und SLA Skill: baut Nebenvertragslandschaft für M&A, einschliesslich Transitional Services, IP-License, Supply, Lease, Escrow und Management Agreements."
+description: "Wenn es um Ancillary Documents TSA SLA in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Ancillary Documents TSA SLA

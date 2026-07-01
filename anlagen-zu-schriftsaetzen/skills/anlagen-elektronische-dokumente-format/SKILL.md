@@ -1,6 +1,6 @@
 ---
 name: anlagen-elektronische-dokumente-format
-description: "Spezialfall elektronische Dokumente als Anlage: ERVV-Vorgaben, qualifizierte elektronische Signatur, Datei-Format-Whitelist nach ERVV, maximale Groesse, beA-Vorgaben, Container-PDF. Prüfraster und Mustertexte für Eingang bei Gericht im Anlagen zu Schriftsätzen."
+description: "Wenn es um Anlagen: elektronische Dokumente in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Anlagen Elektronische Dokumente Format; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Anlagen: elektronische Dokumente

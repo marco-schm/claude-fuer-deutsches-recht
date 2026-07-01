@@ -1,6 +1,6 @@
 ---
 name: btm-002-stoff-und-anlage-pruefen
-description: "Betäubungsmittelrecht: Stoff und Anlage prüfen. Stoff und Anlage prüfen im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Stoff Und Anlage Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stoff Und Anlage Pruefen

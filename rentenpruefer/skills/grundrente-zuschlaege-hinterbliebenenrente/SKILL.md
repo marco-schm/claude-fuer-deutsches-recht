@@ -1,6 +1,6 @@
 ---
 name: grundrente-zuschlaege-hinterbliebenenrente
-description: "Grundrente und Zuschläge: Grundrentenzeiten, Einkommensprüfung, Bescheidverständnis und Korrektur bei fehlenden Zeiten im Rentenpruefer."
+description: "Wenn es um grundrente-und-zuschlaege in Rentenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # grundrente-und-zuschlaege

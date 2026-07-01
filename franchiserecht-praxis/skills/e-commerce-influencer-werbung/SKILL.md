@@ -1,6 +1,6 @@
 ---
 name: e-commerce-influencer-werbung
-description: "E-Commerce im Franchisesystem regeln: Widerrufsrecht nach §§ 355 ff. BGB, Retourenmanagement, Haftung für fehlerhafte Produktbeschreibungen, Gebietsschutz im Online-Handel und Verantwortlichkeit für Datenschutz bei gemeinsamen Web-Shops im Franchiserecht."
+description: "Wenn es um Franchiserecht: E-Commerce-Franchise, Retouren und Widerrufsrecht in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: E-Commerce-Franchise, Retouren und Widerrufsrecht

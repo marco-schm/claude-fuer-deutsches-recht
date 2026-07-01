@@ -1,6 +1,6 @@
 ---
 name: memo-research-tracking-leitfaden
-description: "Leitfaden Research- und Quellen-Tracking für Memos: Quellenarten, Zitierregeln dejure.org / openjur, BGH / BVerfG / EuGH, Versionierung. Prüfraster für Erstautor und Review im Memorandums Ersteller."
+description: "Wenn es um Memo: Research-Tracking in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Memo: Research-Tracking

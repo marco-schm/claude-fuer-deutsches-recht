@@ -1,6 +1,6 @@
 ---
 name: 12-teileinstellung-paragraf-154-und-154a
-description: "Beschraenkung der Verfolgung nach Paragraf 154 StPO (unwesentliche Nebentat) und Paragraf 154a StPO (Beschraenkung auf Tatteile), prozessoekonomische Konzentration, Wiederaufnahmevorbehalt"
+description: "Wenn es um 12 Teileinstellung Paragraf 154 und 154a in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 12 Teileinstellung Paragraf 154 und 154a

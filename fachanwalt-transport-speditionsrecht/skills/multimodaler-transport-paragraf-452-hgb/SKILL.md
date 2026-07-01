@@ -1,6 +1,6 @@
 ---
 name: multimodaler-transport-paragraf-452-hgb
-description: "Multimodaler Transport § 452 HGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Multimodaler Transport Paragraf 452 HGB in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Multimodaler Transport § 452 HGB

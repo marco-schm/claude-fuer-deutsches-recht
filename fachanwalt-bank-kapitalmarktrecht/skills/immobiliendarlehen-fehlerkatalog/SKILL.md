@@ -1,6 +1,6 @@
 ---
 name: immobiliendarlehen-fehlerkatalog
-description: "Immobiliendarlehen Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Wenn es um Immobiliendarlehen Fehlerkatalog in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Immobiliendarlehen Fehlerkatalog

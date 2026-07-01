@@ -1,6 +1,6 @@
 ---
 name: entschliessungsantraege-fehlerkatalog
-description: "Entschliessungsantraege Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Wenn es um Entschliessungsantraege Fehlerkatalog in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Entschliessungsantraege Fehlerkatalog

@@ -1,6 +1,6 @@
 ---
 name: livecheck-goae-text-und-reformstand
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck GOÄ Text und Reformstand im Goae Gebührenordnung Aerzte."
+description: "Wenn es um Livecheck GOÄ Text und Reformstand in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Livecheck GOÄ Text und Reformstand

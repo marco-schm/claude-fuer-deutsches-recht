@@ -1,6 +1,6 @@
 ---
 name: krankenhausgesellschaft-haushalt-anbin
-description: "Krankenhausgesellschaft: Haushalt anbinden im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Krankenhausgesellschaft Haushalt Anbin in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenhausgesellschaft Haushalt Anbin

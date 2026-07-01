@@ -1,6 +1,6 @@
 ---
 name: zweckentfremdung
-description: "Zweckentfremdung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprod..."
+description: "Wenn es um Zweckentfremdung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zweckentfremdung: Fachmodul im Miet- und Wohnungseigentumsrecht

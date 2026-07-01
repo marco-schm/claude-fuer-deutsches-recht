@@ -1,6 +1,6 @@
 ---
 name: datenschutz-newsletter-community-und-discord
-description: "Influencer-Recht: Datenschutz für Newsletter, Community-Plattformen und Discord – DSGVO, Einwilligung, Double-Opt-In, Drittlandtransfer im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Datenschutz – Newsletter, Community und Discord in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Influencer-Recht: Datenschutz – Newsletter, Community und Discord

@@ -1,6 +1,6 @@
 ---
 name: bidco-stack-und-holdingstruktur
-description: "Prüft Akquisitionsholding, Lux/DE/UK-Elemente, Gesellschafterdarlehen, Cash Flows und Sicherheiten im Private Equity Praxis."
+description: "Wenn es um BidCo-Stack und Holdingstruktur in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BidCo-Stack und Holdingstruktur

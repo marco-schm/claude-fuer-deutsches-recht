@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "Dieses Skill strukturiert das Red-Team-Quality-Gate als systematischen Qualitätssicherungsprozess vor der finalen Einreichung oder Übergabe juristischer Arbeitsergebnisse. Es zeigt, wie ein strukturiertes Red-Team-Review durchgeführt wird, welche Prüfpunkte das Quality Gate umfasst und wie das Er..."
+description: "Wenn es um Red-Team Quality Gate: Systematische Qualitätssicherung vor Einreichung in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team Quality Gate: Systematische Qualitätssicherung vor Einreichung

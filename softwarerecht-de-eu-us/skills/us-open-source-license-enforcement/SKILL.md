@@ -1,6 +1,6 @@
 ---
 name: us-open-source-license-enforcement
-description: "Prüft Open-Source-Lizenzverletzungen und Enforcement nach US-Copyright-/Contract-Law im Softwarerecht De Eu Us."
+description: "Wenn es um US Open Source Enforcement in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # US Open Source Enforcement

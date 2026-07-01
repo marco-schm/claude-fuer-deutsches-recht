@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-art-33-pflichtangaben
-description: "Erstellt eine vollständige Meldung nach Art: 33 DSGVO an die zuständige Aufsichtsbehörde innerhalb der 72-Stunden-Frist. Behandelt: Pflichtangaben nach Art. 33 Abs. 3 lit. a-d DSGVO — Art der Verletzung; Kategori"
+description: "Wenn es um Erstellt eine vollständige Meldung nach Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstellt eine vollständige Meldung nach Art

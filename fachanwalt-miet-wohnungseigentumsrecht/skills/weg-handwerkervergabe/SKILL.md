@@ -1,6 +1,6 @@
 ---
 name: weg-handwerkervergabe
-description: "Handwerkervergabe: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Angebotseinholung, Vergleichbarkeit, Eilmaßnahme, Interessenkonflikt; mit Normprüfung, Beweisen, Fristen, Risikoampel u..."
+description: "Wenn es um Handwerkervergabe: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handwerkervergabe: Fachmodul im Miet- und Wohnungseigentumsrecht

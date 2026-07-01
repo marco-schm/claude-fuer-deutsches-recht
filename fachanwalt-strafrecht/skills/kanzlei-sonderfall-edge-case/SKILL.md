@@ -1,6 +1,6 @@
 ---
 name: kanzlei-sonderfall-edge-case
-description: "Kanzlei: Sonderfall und Edge-Case-Prüfung: Kanzlei: Sonderfall und Edge-Case-Prüfung."
+description: "Wenn es um Kanzlei: Sonderfall und Edge-Case-Prüfung in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzlei: Sonderfall und Edge-Case-Prüfung

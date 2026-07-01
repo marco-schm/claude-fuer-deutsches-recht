@@ -1,6 +1,6 @@
 ---
 name: dienstunfall-folgekosten-unfallfuersorge
-description: "Dienstunfall-Folgekosten und Unfallfürsorge: Heilverfahren, Sachschäden, Unfallruhegehalt, Meldefrist, Kausalität und spätere Verschlimmerung."
+description: "Wenn es um dienstunfall-folgekosten-unfallfuersorge in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # dienstunfall-folgekosten-unfallfuersorge

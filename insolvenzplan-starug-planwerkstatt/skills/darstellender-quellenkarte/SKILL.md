@@ -1,6 +1,6 @@
 ---
 name: darstellender-quellenkarte
-description: "Darstellender Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Darstellender Quellenkarte in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Darstellender Quellenkarte

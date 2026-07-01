@@ -1,6 +1,6 @@
 ---
 name: bho-7-wirtschaftlichkeit
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 7 Wirtschaftlichkeit. BHO § 7 Wirtschaftlichkeit im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsme..."
+description: "Wenn es um Bho 7 Wirtschaftlichkeit in Haushaltsrecht BHO Bund und Länder geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bho 7 Wirtschaftlichkeit

@@ -1,6 +1,6 @@
 ---
 name: ausschliesslich-dokumentenmatrix-und-lueckenliste
-description: "Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht."
+description: "Wenn es um Ausschließlich: Dokumentenmatrix, Lückenliste und Nachforderung in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Ausschließlich: Dokumentenmatrix, Lückenliste und Nachforderung

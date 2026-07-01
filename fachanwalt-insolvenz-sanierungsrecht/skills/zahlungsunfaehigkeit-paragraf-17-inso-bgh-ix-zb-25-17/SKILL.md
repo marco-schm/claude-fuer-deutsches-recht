@@ -1,6 +1,6 @@
 ---
 name: zahlungsunfaehigkeit-paragraf-17-inso-bgh-ix-zb-25-17
-description: "Prüft Zahlungsunfähigkeit nach Paragraf 17 InsO fachanwaltlich mit Stichtag, Liquiditätsbilanz, streitigen Forderungen, Titeln, Indizien und Organpflichten."
+description: "Wenn es um Zahlungsunfähigkeit nach Paragraf 17 InsO fachanwaltlich prüfen in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Zahlungsunfähigkeit nach Paragraf 17 InsO fachanwaltlich prüfen

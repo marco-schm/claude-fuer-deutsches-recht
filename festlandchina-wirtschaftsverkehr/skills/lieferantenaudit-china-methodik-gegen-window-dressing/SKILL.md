@@ -1,6 +1,6 @@
 ---
 name: lieferantenaudit-china-methodik-gegen-window-dressing
-description: "Lieferantenaudit in China ohne Window Dressing: Ankündigungsfreie vs. angekündigte Audits, Umgehungsstrategien chinesischer Lieferanten erkennen, SMETA/SA8000-Standards, Dolmetscher-Neutralität, Vor-Ort-Beweissicherung, BAFA-Leitfaden Due Diligence, LkSG § 6 Präventionsmaßnahmen. Output: Audit-Pr..."
+description: "Wenn es um Lieferantenaudit China: Methodik gegen Window Dressing in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lieferantenaudit China: Methodik gegen Window Dressing

@@ -1,6 +1,6 @@
 ---
 name: berufsausuebungsgesellschaft
-description: "Berufsausübungsgesellschaft: vertiefter Berufsrechts-Skill für Notare; prüft Gesellschaftsform, Fremdbeteiligung, Geschäftsführung, Compliance und Register, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
+description: "Wenn es um Berufsausübungsgesellschaft in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Berufsausübungsgesellschaft

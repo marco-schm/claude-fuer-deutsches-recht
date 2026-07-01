@@ -1,6 +1,6 @@
 ---
 name: eigenverwaltung-schutzschirm-paragraf-270b-inso
-description: "Eigenverwaltung Schutzschirm § 270b InsO: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Eigenverwaltung Schutzschirm Paragraf 270b InsO in Fachanwalt Insolvenz- und Sanierungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eigenverwaltung Schutzschirm § 270b InsO

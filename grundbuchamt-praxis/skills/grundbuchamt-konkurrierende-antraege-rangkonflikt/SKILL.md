@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-konkurrierende-antraege-rangkonflikt
-description: "Prüft, was zu tun ist, wenn Vormerkung, Grundschuld, Pfändung, Insolvenz-/ZVG-Vermerk oder Dienstbarkeit konkurrierend eingehen und der Rang wirtschaftlich entscheidend wird im Grundbuchamt Praxis."
+description: "Wenn es um Konkurrierende Anträge und Rangkonflikt in Grundbuchamt Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Konkurrierende Anträge und Rangkonflikt

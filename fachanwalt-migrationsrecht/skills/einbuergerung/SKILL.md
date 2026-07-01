@@ -1,6 +1,6 @@
 ---
 name: einbuergerung
-description: "Antrag auf Einbuergerung nach StAG: Anspruchseinbuergerung § 10 StAG fuenf Jahre rechtmäßiger Aufenthalt unbefristeter Aufenthaltstitel ausreichende Deutschkenntnisse B1 Lebensunterhaltssicherung Einbuergerungstest Bekenn..."
+description: "Wenn es um Antrag auf Einbuergerung nach StAG in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Antrag auf Einbuergerung nach StAG

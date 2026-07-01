@@ -1,6 +1,6 @@
 ---
 name: zwitterrecht-alr-ii-1-19-bis-22
-description: "Zwitterrecht nach ALR — das beruehmte preussische Sonderrecht der Wahlmoeglichkeit. ALR II 1 §§ 19 bis 22 regelte das Geschlecht der Zwitter (Hermaphroditen): Eltern bestimmen Geschlecht bis 18 Jahre danach Wahlrecht des Betroffenen. Skill behandelt Norm Inhalt rechtshistorische Bedeutung und die..."
+description: "Wenn es um Pralr Zwitterrecht Alr Ii 1 19 Bis 22 in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Zwitterrecht Alr Ii 1 19 Bis 22

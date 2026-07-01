@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-ofac-sdn-non-sdn
-description: "US-OFAC-Sanktionsregime für deutsche und EU-Unternehmen: SDN List, sectoral sanctions (SSI-List), secondary sanctions-Risiken, US-Nexus bei Dollar-Transaktionen und US-Technologie, Blocking-Statute VO (EG) 2271/96 als Gegengewicht. Output: US-Sanktions-Touchpoint-Analyse und Handlungsempfehlung i..."
+description: "Wenn es um US-OFAC-Sanktionen für EU-Unternehmen: SDN, Sektoral und Secondary Sanctions in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # US-OFAC-Sanktionen für EU-Unternehmen: SDN, Sektoral und Secondary Sanctions

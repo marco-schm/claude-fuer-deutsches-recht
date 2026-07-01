@@ -1,6 +1,6 @@
 ---
 name: energie-ladesaeulen-elektromobilitaet
-description: "Energie / Ladesäulen Elektromobilität: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT im BNetzA-Verfahren."
+description: "Wenn es um Energie: Ladesäulen Elektromobilität in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Energie: Ladesäulen Elektromobilität

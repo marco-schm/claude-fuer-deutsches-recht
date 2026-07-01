@@ -1,6 +1,6 @@
 ---
 name: variable-verguetung-bonus-commission
-description: "Berliner Start-up-HR: Bonus, Provision und variable Vergütung: Anspruchsgrundlage, Zielvereinbarung, Stichtag, Widerruf, Transparenz und Payroll-Übergabe. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startu..."
+description: "Wenn es um Variable Vergütung Bonus Commission in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Variable Vergütung Bonus Commission

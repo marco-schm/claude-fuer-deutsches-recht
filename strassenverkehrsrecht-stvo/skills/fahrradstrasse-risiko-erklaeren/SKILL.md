@@ -1,6 +1,6 @@
 ---
 name: fahrradstrasse-risiko-erklaeren
-description: "StVO: Fahrradstraße: Risiko erklären im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Fahrradstrasse Risiko Erklaeren in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fahrradstrasse Risiko Erklaeren

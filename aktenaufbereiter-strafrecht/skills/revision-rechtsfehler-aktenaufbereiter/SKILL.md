@@ -1,6 +1,6 @@
 ---
 name: revision-rechtsfehler-aktenaufbereiter
-description: "Revisionsschrift vorbereiten: § 344 StPO Revisionsantraege, § 337 StPO Rechtsfehler. Sachruege und Verfahrensruege. Typische Verfahrensruegen: § 244 Abs. 2 StPO (Aufklaerungsruege), § 261 StPO (Beweiswuerdigung), § 265 StPO (Hinweispflicht), § 338 StPO (absolute Revisionsgruende). Prüfraster mit..."
+description: "Wenn es um Revision: Rechtsfehler-Katalog in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Revision: Rechtsfehler-Katalog

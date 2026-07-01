@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-binnenschiff
-description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren scopet Kaufvertrag für Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 476 ff.; MODU-Code..."
+description: "Wenn es um Offshore-Schiff – Kaufvertrag scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Offshore-Schiff – Kaufvertrag scopen

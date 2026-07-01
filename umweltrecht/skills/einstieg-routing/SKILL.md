@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Umweltrecht: ordnet Rolle (Vorhabenträger, Behörde, Umweltverband), markiert Frist (Klagefrist UVPG), wählt Norm (BImSchG, BNatSchG, WHG, BBodSchG, UVPG) und Zuständigkeit (Umweltbehörden Länder), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Umweltrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

@@ -1,6 +1,6 @@
 ---
 name: registerrecht-aktiengesellschaft-vorstand
-description: "Prüft Bestellung, Vertretung, Satzungsänderungen, Kapitalmaßnahmen und Eintragung bei der AG im Handelsregister Praxis."
+description: "Wenn es um AG: Vorstand/Aufsichtsrat anmelden in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AG: Vorstand/Aufsichtsrat anmelden

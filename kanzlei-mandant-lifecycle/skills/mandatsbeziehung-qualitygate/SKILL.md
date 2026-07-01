@@ -1,6 +1,6 @@
 ---
 name: mandatsbeziehung-qualitygate
-description: "Mandatsbeziehung Qualitygate: steuert letzter Check vor Versand an Mandant oder Kanzlei: Ton, Recht, Budget, Aktion zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene."
+description: "Wenn es um Mandatsbeziehung Qualitygate in Kanzlei-Mandant Lifecycle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandatsbeziehung Qualitygate

@@ -1,6 +1,6 @@
 ---
 name: evvollzug-auslandszustellung-ev-abmahnung
-description: "EV-Vollzug: Auslandszustellung einstweiliger Verfügungen im IP-Recht nach EuZustVO, HZÜ und HCCH 2019. Übersetzungspflicht, Zustellwege EU/Nicht-EU, Vollziehungsfrist und praktische Fallstricke bei grenzüberschreitenden IP-Verfügungen im Gewerblicher Rechtsschutz."
+description: "Wenn es um EV-Vollzug 006: Auslandszustellung der EV und Übersetzungspflicht in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EV-Vollzug 006: Auslandszustellung der EV und Übersetzungspflicht

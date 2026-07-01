@@ -1,6 +1,6 @@
 ---
 name: kom-048-stadtrat-zustaendigkeit-pruefen
-description: "Kommunalrecht der Länder: Stadtrat: Zuständigkeit prüfen. Zuständigkeit prüfen für Stadtrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Stadtrat Zustaendigkeit Pruefen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stadtrat Zustaendigkeit Pruefen

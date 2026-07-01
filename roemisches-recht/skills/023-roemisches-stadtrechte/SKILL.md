@@ -1,6 +1,6 @@
 ---
 name: 023-roemisches-stadtrechte
-description: "Römisches Recht: Römisches Recht und Stadtrechte Norditalien im Römisches Recht: Bearbeite Römisches Recht und Stadtrechte Norditalien im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen..."
+description: "Wenn es um Römisches Recht: Römisches Recht und Stadtrechte Norditalien in Römisches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Römisches Recht: Römisches Recht und Stadtrechte Norditalien

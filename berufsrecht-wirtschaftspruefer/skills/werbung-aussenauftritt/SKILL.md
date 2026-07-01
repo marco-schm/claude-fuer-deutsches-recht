@@ -1,6 +1,6 @@
 ---
 name: werbung-aussenauftritt
-description: "Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftsprue..."
+description: "Wenn es um Werbung und Außenauftritt in Berufsrecht Wirtschaftsprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Werbung und Außenauftritt

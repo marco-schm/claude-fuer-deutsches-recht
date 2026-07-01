@@ -1,6 +1,6 @@
 ---
 name: eu-schwelle-vergabeordnung-richtlinie-2014-24
-description: "EU Schwelle Vergabeordnung Richtlinie 2014 24: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um EU Schwelle Vergabeordnung Richtlinie 2014 24 in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU Schwelle Vergabeordnung Richtlinie 2014 24

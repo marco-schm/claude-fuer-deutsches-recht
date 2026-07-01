@@ -1,6 +1,6 @@
 ---
 name: externe-anwaelte-steuerung
-description: "Externe Anwälte und Kanzleien steuern: Mandatsbrief, Scope, Budget, Reporting, Privilege, Interessenkonflikte, Rechtsmeinungen, Second Opinion und internes Wissen sichern im Bank-Rechtsabteilung."
+description: "Wenn es um Externe Anwälte steuern in Bank-Rechtsabteilung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Externe Anwälte steuern

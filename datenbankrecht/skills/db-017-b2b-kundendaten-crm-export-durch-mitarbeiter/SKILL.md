@@ -1,6 +1,6 @@
 ---
 name: db-017-b2b-kundendaten-crm-export-durch-mitarbeiter
-description: "Datenbankrecht: B2B-Kundendaten CRM Export durch Mitarbeiter mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: B2B-Kundendaten CRM Export durch Mitarbeiter in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: B2B-Kundendaten CRM Export durch Mitarbeiter

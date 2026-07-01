@@ -1,6 +1,6 @@
 ---
 name: besold-neu-006-erschwerniszulagen-dienst-zu-unguenstigen-zeiten
-description: "Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten

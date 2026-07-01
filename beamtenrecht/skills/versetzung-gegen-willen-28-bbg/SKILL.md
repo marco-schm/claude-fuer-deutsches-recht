@@ -1,6 +1,6 @@
 ---
 name: versetzung-gegen-willen-28-bbg
-description: "Skill zur Versetzung des Beamten gegen seinen Willen nach § 28 BBG bzw. § 15 BeamtStG i.V.m. Landesrecht. Klaert die Voraussetzungen dienstliche Belange Anhörung Beruecksichtigung der persönlichen Verhaeltnisse und das Verhaeltnis zur Abordnung und Umsetzung. Behandelt typische Konstellationen wi..."
+description: "Wenn es um Versetzung gegen den Willen Paragraf 28 BBG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versetzung gegen den Willen § 28 BBG

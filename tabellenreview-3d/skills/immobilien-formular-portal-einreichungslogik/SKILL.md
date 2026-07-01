@@ -1,6 +1,6 @@
 ---
 name: immobilien-formular-portal-einreichungslogik
-description: "Immobilien: Formular, Portal und Einreichungslogik: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?..."
+description: "Wenn es um Immobilien: Formular, Portal und Einreichungslogik in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Immobilien Formular Portal Einreichungslogik; Arbeitsfeld: Tabellenreview 3D."
 ---
 
 # Immobilien: Formular, Portal und Einreichungslogik

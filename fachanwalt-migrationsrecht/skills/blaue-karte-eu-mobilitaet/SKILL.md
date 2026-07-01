@@ -1,6 +1,6 @@
 ---
 name: blaue-karte-eu-mobilitaet
-description: "Blaue Karte: EU-Mobilität: Fachmodul im Migrationsrecht: prüft Wechsel aus anderem Mitgliedstaat, Nachweise und Familienmobilität; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Blaue Karte: EU-Mobilität: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Blaue Karte: EU-Mobilität: Fachmodul im Migrationsrecht

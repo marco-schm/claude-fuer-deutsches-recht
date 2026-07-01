@@ -1,6 +1,6 @@
 ---
 name: venture-debt
-description: "Prüft Venture Debt, Warrants, Covenants, IP-Sicherheiten, MAC, Defaults und Intercreditor-Fragen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Venture Debt in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Venture Debt

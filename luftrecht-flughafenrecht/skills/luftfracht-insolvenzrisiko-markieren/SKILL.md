@@ -1,6 +1,6 @@
 ---
 name: luftfracht-insolvenzrisiko-markieren
-description: "Luftfrachtfuehrer oder grosser Luftfracht-Spediteur zeigt Insolvenzzeichen. Prüft InsO §§ 15a 17-19 Frachtfuehrer-Pfandrecht HGB § 440 Montreal Convention Haftungsgrenzen und liefert Risikoampel für Fracht-Gläubiger im Luftrecht Flughafenrecht."
+description: "Wenn es um Luftfracht – Insolvenzrisiko markieren in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Luftfracht – Insolvenzrisiko markieren

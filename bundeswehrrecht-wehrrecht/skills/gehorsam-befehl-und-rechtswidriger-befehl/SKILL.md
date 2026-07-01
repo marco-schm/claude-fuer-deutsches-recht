@@ -1,6 +1,6 @@
 ---
 name: gehorsam-befehl-und-rechtswidriger-befehl
-description: "Gehorsam Befehl und rechtswidriger Befehl: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bundeswehr..."
+description: "Wenn es um Gehorsam, Befehl und rechtswidriger Befehl in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gehorsam, Befehl und rechtswidriger Befehl

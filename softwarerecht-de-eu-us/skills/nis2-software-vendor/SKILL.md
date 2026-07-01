@@ -1,6 +1,6 @@
 ---
 name: nis2-software-vendor
-description: "Prüft NIS-2-Auswirkungen auf Softwareanbieter, Lieferketten, kritische Kunden, Incidentpflichten und Vertragsdurchgriffe im Softwarerecht De Eu Us."
+description: "Wenn es um NIS-2 Software Vendor in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # NIS-2 Software Vendor

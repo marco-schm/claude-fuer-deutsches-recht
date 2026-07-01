@@ -1,6 +1,6 @@
 ---
 name: visas-expats-and-secondment
-description: "Visa, Expatriate-Recht und Entsendung nach China: Arbeitserlaubnis und Residence Permit (Punkte-System CN seit 2017), Entsendungsvertrag DE-CN (Sozialversicherungs-Doppelabkommen), Reiserecht/Exit-Ban-Risiken CN, Sicherheitscheck bei sensiblen Positionen, Kurzzeit-Entsendungen, lokale Anstellung..."
+description: "Wenn es um Visa und Entsendung China: Arbeitserlaubnis/Exit-Ban/Entsendungsrecht in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Visa und Entsendung China: Arbeitserlaubnis/Exit-Ban/Entsendungsrecht

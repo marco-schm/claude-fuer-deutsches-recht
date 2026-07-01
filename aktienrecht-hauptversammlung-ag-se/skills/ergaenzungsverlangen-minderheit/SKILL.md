@@ -1,6 +1,6 @@
 ---
 name: ergaenzungsverlangen-minderheit
-description: "Hauptversammlung AG und SE: Ergaenzungsverlangen Minderheit; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Ergaenzungsverlangen Minderheit in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ergaenzungsverlangen Minderheit

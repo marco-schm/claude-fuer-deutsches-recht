@@ -1,6 +1,6 @@
 ---
 name: manager-dawn
-description: "Leitet Interviews mit Führungskräften und Organmitgliedern – Belehrung, Privilegkonflikte, Aussagestrategie und Dokumentation im Internal Investigations Praxis."
+description: "Wenn es um Interviews mit Führungskräften und Organmitgliedern in Internal Investigations Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Interviews mit Führungskräften und Organmitgliedern

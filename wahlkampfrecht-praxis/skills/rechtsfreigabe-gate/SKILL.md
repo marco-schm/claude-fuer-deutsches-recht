@@ -1,6 +1,6 @@
 ---
 name: rechtsfreigabe-gate
-description: "Wahlkampfrecht Praxis: schnellen Freigabeprozess für Plakate, Posts, Ads, Veranstaltungen und Spenden bauen im Wahlkampfrecht."
+description: "Wenn es um Rechtsfreigabe Gate in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsfreigabe Gate

@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmer-software-beta-pilot
-description: "Prüft deutsche Arbeitnehmer-Software, automatische ausschließliche Nutzungsrechte des Arbeitgebers und Vertragsklauseln im Softwarerecht De Eu Us."
+description: "Wenn es um Arbeitnehmer-Software Paragraf 69b UrhG in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitnehmer-Software § 69b UrhG

@@ -1,6 +1,6 @@
 ---
 name: betreiber-mitverschulden-betriebsanleitung
-description: "Prüft Betreiber-Mitverschulden: missachtete Anleitung, fehlende Wartung, Umgehung von Schutzfunktionen, Schulungslücken und Logspuren im Robotik-Recht."
+description: "Wenn es um Betreiber-Mitverschulden und Fehlbedienung in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Betreiber-Mitverschulden und Fehlbedienung

@@ -1,6 +1,6 @@
 ---
 name: aufforderungsschreiben-bautraeger-und-notar
-description: "Erstellt das aussergerichtliche Aufforderungsschreiben an Bautraeger und Notar mit Streichungs-, Ergaenzungs- und Korrekturforderungen. Jede Forderung nennt Originalproblem, kurze Begruendung und konkrete richtige Fassung. Ton ist bestimmt aber verhandlungsfaehig."
+description: "Wenn es um Aufforderungsschreiben an Bauträger und Notar in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufforderungsschreiben an Bauträger und Notar

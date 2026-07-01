@@ -1,6 +1,6 @@
 ---
 name: franchise-abgrenzung
-description: "Prüft die Abgrenzung zwischen Franchise und Handelsvertretung: eigenständige Risikotragung des Franchisenehmers vs. Risikolosigkeit des Handelsvertreters als Abgrenzungsmerkmal nach EuGH-Rechtsprechung, Konsequenzen für Provisionspflicht, Ausgleichsanspruch und kartellrechtliche Zulässigkeit vert..."
+description: "Wenn es um Franchise vs. Handelsvertretung — Abgrenzung nach EuGH und Paragrafen 84 ff. HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Franchise vs. Handelsvertretung — Abgrenzung nach EuGH und §§ 84 ff. HGB

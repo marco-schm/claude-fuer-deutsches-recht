@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-mutterschaft-elterngeld-schnittstelle
-description: "Laienverstaendlicher Sozialrechts-Skill zu Mutterschaft Elterngeld Schnittstelle: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formuli..."
+description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Mutterschaft Elterngeld Schnittstelle in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Mutterschaft Elterngeld Schnittstelle

@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-schwimmbad-chloridschutz
-description: "Bauueberwachung nach HOAI LPH 8 für Hallenbaeder und Freibaeder mit besonderem Augenmerk auf chloridbestaendigen Beton nach DIN 1045 und DIN EN 13670, Beckenbeschichtung nach DIN 19643, Filteranlage und Wasseraufbereitung nach DIN EN 13451 sowie Korrosionsschutz Stahltragwerk im Chloridmilieu nac..."
+description: "Wenn es um Bauueberwachung Schwimmbad Chloridschutz (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Schwimmbad Chloridschutz (LPH 8)

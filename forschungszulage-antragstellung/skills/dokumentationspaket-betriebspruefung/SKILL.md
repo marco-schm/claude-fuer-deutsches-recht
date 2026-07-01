@@ -1,6 +1,6 @@
 ---
 name: dokumentationspaket-betriebspruefung
-description: "Dokumentationspaket Forschungszulage prüfungsfest aufbauen: Projektakte mit BSFZ-Antrag und Bescheid, Stundenaufzeichnung je Mitarbeiter Tag Vorhaben, Personalkostenbeleg aus Lohnabrechnung, Auftragsforschungsbeleg mit Vertrag und Rechnung, GoBD-Logik. Mit Spaltenstruktur, 10-Jahres-Aufbewahrung..."
+description: "Wenn es um Dokumentationspaket für Außenprüfung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Dokumentationspaket für Außenprüfung

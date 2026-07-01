@@ -1,6 +1,6 @@
 ---
 name: terms-term-sheet
-description: "Terms: Risikoampel, Gegenargumente und Verteidigungslinien im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht Le..."
+description: "Wenn es um Terms: Risikoampel, Gegenargumente und Verteidigungslinien in Didaktisches Gesellschaftsrecht — English Business Terms geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Terms: Risikoampel, Gegenargumente und Verteidigungslinien

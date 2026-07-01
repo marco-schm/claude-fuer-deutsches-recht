@@ -1,6 +1,6 @@
 ---
 name: drittwirkung-praxischeck-zivilrecht
-description: Praktischer Prüfkatalog fuer Drittwirkung im Zivilrecht. Behandelt die wichtigsten Einbruchstellen Paragraph 138 BGB Paragraph 242 BGB Paragraph 826 BGB Paragraph 307 BGB sowie die Leitlinien aus Buergschaft Handelsvertreter Chefarztkuendigung und Plattformausschluss. Zeigt wie Verhältnismäßigkeit ueber die mittelbare Drittwirkung in AGB-Kontrolle Vertragsfreiheit und Kuendigung wirkt und wo die Drittwirkung trotz Diskussionswert abzulehnen ist.
+description: "Wenn es um Drittwirkung im Zivilrecht — Praxischeck mit Verhältnismäßigkeit in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drittwirkung im Zivilrecht — Praxischeck mit Verhältnismäßigkeit

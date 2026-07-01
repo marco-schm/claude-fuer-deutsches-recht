@@ -1,6 +1,6 @@
 ---
 name: automotive-design-und-ersatzteile
-description: "Automotive-Design und Ersatzteile prüfen: sichtbare Bauteile, Felgen, Leuchten, Karosserieteile, Reparaturklausel, Tuning und Aftermarket-Vertrieb im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Automotive Design Und Ersatzteile in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Automotive Design Und Ersatzteile

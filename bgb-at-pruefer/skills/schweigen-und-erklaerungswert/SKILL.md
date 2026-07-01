@@ -1,6 +1,6 @@
 ---
 name: schweigen-und-erklaerungswert
-description: "Prüft den Erklärungswert des Schweigens im BGB: Schweigen als Ausnahme von der Regel keine Willenserklärung, kaufmännisches Bestätigungsschreiben, vertraglich vereinbarter Erklärungswert, § 362 HGB und Sonderfälle im Verbraucherrecht. Klausurfall mit Subsumtionsraster."
+description: "Wenn es um Schweigen und Erklärungswert in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Schweigen Und Erklaerungswert; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Schweigen und Erklärungswert

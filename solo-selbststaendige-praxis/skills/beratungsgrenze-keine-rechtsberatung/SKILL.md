@@ -1,6 +1,6 @@
 ---
 name: beratungsgrenze-keine-rechtsberatung
-description: "Solo-Selbstständige: prüft RDG-/Berufsgrenzen, wenn Solo-Selbstständige anderen rechtlich helfen wollen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Grenzen Compliance und Selbstschutz: Prüft rdg-/berufsgrenzen in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzen Compliance und Selbstschutz: Prüft rdg-/berufsgrenzen

@@ -1,6 +1,6 @@
 ---
 name: bwa-kontenrahmen-skr03-skr04
-description: "Vergleich Kontenrahmen SKR 03 versus SKR 04 für BWA-Erstellung. Anwendungsfall Mandantenneuaufnahme oder Wechsel des Kontenrahmens Entscheidungsgrundlage Industrie Handel Dienstleistung. Aufbau Bilanz vs Prozess Gliederung GKV vs UKV. Output Empfehlung welcher Kontenrahmen Migrationsanleitung Que..."
+description: "Wenn es um Kontenrahmen SKR 03 vs SKR 04 — Wahl und Bedeutung für BWA in Steuerrecht – Steuerberater und Anwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Kontenrahmen SKR 03 vs SKR 04 — Wahl und Bedeutung für BWA

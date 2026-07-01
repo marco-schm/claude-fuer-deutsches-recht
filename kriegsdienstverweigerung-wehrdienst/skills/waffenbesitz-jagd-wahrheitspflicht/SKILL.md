@@ -1,6 +1,6 @@
 ---
 name: waffenbesitz-jagd-wahrheitspflicht
-description: "Unterscheidet zivilen Waffenbezug von Kriegsdienst mit der Waffe im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Waffenbesitz und Schützenverein in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Waffenbesitz und Schützenverein

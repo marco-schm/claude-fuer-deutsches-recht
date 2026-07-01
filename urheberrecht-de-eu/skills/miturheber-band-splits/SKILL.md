@@ -1,6 +1,6 @@
 ---
 name: miturheber-band-splits
-description: "Prüft Miturheberschaft, verbundene Werke, Split-Sheets, Bandstreit, Producer Shares und Rechteausübung im Urheberrecht De Eu."
+description: "Wenn es um Miturheber, Band und Split-Sheets in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Miturheber, Band und Split-Sheets

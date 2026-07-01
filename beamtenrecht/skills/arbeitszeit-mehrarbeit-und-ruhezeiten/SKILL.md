@@ -1,6 +1,6 @@
 ---
 name: arbeitszeit-mehrarbeit-und-ruhezeiten
-description: "Arbeitszeit, Mehrarbeit, Bereitschaftsdienst, Ruhezeiten und Zeitausgleich im Beamtenrecht."
+description: "Wenn es um Arbeitszeit Mehrarbeit Und Ruhezeiten in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitszeit Mehrarbeit Und Ruhezeiten

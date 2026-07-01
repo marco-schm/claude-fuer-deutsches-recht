@@ -1,6 +1,6 @@
 ---
 name: bwa-statische-liquiditaet-kennzahlen
-description: "Statische Liquiditaetskennzahlen Liquiditaet 1 2 3 Grades aus BWA und Bilanz. Anwendungsfall Quartalsauswertung Bankreporting Krisenfrueherkennung. Methodik Working Capital Aufstellung Anlagendeckung Kennzahlen. Output Liquiditaets-Kennzahlenblatt Bewertung Ampel."
+description: "Wenn es um Statische Liquiditaetskennzahlen — 1. 2. 3. Grades in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Statische Liquiditaetskennzahlen — 1. 2. 3. Grades

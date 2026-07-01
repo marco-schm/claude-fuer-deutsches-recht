@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrechtliche-satzungen-agb
-description: "Norm- und Dogmatik-Skill für Gesellschaftsrechtliche Satzungen AGB Abgrenzung: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Gesellschaftsrechtliche Satzungen AGB Abgrenzung in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Gesellschaftsrechtliche Satzungen Agb; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Gesellschaftsrechtliche Satzungen AGB Abgrenzung

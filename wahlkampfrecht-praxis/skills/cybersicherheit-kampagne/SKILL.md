@@ -1,6 +1,6 @@
 ---
 name: cybersicherheit-kampagne
-description: "Wahlkampfrecht Praxis: Kampagnen-IT gegen Accountuebernahmen und Leaks sichern im Wahlkampfrecht."
+description: "Wenn es um Cybersicherheit Kampagne in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cybersicherheit Kampagne

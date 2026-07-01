@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-menschliche-aufsicht-art-14
-description: "Anbieter oder Betreiber fragt: Wie stellen wir sicher dass Menschen das Hochrisiko-KI-System wirksam beaufsichtigen und uebersteuerung ist möglich? Art. 14 KI-VO menschliche Aufsicht. Prüfraster: Verstehen der Systemfähigkeiten und Grenzen Überwachungspflichten Stop-Button-Konzept Nicht-Blinding-..."
+description: "Wenn es um Menschliche Aufsicht — Art. 14 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Menschliche Aufsicht — Art. 14 KI-VO

@@ -1,6 +1,6 @@
 ---
 name: inv-035-conflict-of-interest
-description: "Spezialskill fuer Conflict of Interest: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Conflict of Interest in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internal Investigation: Conflict of Interest

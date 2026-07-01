@@ -1,6 +1,6 @@
 ---
 name: buerokratieabbau-katalog-konkrete
-description: "Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten für One-in-one-out-Gegenrechnung u"
+description: "Wenn es um NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege

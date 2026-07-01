@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-ewpg-tokenisierung-und-registerrisiko
-description: "Rechtsabteilungs-Fachmodul für eWpG-Tokenisierung und Registerrisiko: Tokenisierte Wertpapiere werden auf Registerführung, Verwahrung, Vertrieb und Prospekt-/MiCAR-Schnittstelle geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Bank-Rechtsabteilung."
+description: "Wenn es um Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko

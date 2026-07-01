@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Kaltstart-Interview für das Steuerberater-Plugin um Praxisprofil zu befuellen. Anwendungsfall Erstinstallation oder Konfiguration enthaelt noch Platzhalter-Marker oder Re-Interview mit --redo oder Konnektoren-Prüfung mit --integrationen-prüfen. Erfragt Rolle Steuerberater Wirtschaftsprüfer Bilanz..."
+description: "Wenn es um /steuerrecht-anwalt-und-berater:stb-kaltstart-interview in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # /steuerrecht-anwalt-und-berater:stb-kaltstart-interview

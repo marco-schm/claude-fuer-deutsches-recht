@@ -1,6 +1,6 @@
 ---
 name: verfahrenstypen-quellenkarte
-description: "Verfahrenstypen Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Verfahrenstypen Quellenkarte in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Verfahrenstypen Quellenkarte

@@ -1,6 +1,6 @@
 ---
 name: gliederungs-baukasten
-description: "Gliederungs-Baukasten für juristische Hausarbeiten und Seminararbeiten: Anwendungsfall Student erstellt Gliederung für Hausarbeit Seminararbeit oder wissenschaftliche Arbeit und braucht strukturierten Aufbau. Methodenlehre, Gutachtenstil, wissenschaftliches Arbeiten. Prüfraster Gliederungstiefe A..."
+description: "Wenn es um Lernstruktur-Builder in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lernstruktur-Builder

@@ -1,6 +1,6 @@
 ---
 name: stimmrechtsberater-kritik
-description: "Hauptversammlung AG und SE: Stimmrechtsberater Kritik; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Stimmrechtsberater Kritik in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stimmrechtsberater Kritik

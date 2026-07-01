@@ -1,6 +1,6 @@
 ---
 name: weg-ladeinfrastruktur
-description: "WEG Ladeinfrastruktur: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Einzelanspruch, Gemeinschaftslösung, Lastmanagement, Brandschutz; mit Normprüfung, Beweisen, Fristen, Risikoamp..."
+description: "Wenn es um WEG Ladeinfrastruktur: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Ladeinfrastruktur: Fachmodul im Miet- und Wohnungseigentumsrecht

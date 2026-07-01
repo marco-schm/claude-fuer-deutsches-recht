@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-warnung-paragraph-starug
-description: "Mandantenbrief Warnung Paragraph 102 StaRUG Template: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Krisenfrueherkennung Starug."
+description: "Wenn es um Mandantenbrief-Templates — Paragraf 102-StaRUG-Warnung in drei Eskalationsstufen in Krisenfrüherkennung und StaRUG-Management geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantenbrief-Templates — § 102-StaRUG-Warnung in drei Eskalationsstufen

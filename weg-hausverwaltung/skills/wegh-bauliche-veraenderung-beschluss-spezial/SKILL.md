@@ -1,6 +1,6 @@
 ---
 name: wegh-bauliche-veraenderung-beschluss-spezial
-description: "Spezialfall bauliche Veraenderung Beschluss WEG nach Reform: privilegierte Maßnahmen, Kostenverteilung. Prüfraster für Verwalter und Eigentuemergemeinschaft."
+description: "Wenn es um WEGh: Bauliche Veraenderung WEG in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEGh: Bauliche Veraenderung WEG

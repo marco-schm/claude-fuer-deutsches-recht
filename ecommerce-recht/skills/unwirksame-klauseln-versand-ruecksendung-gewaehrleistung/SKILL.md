@@ -1,6 +1,6 @@
 ---
 name: unwirksame-klauseln-versand-ruecksendung-gewaehrleistung
-description: "Unwirksame Klauseln Versand Rücksendung Gewährleistung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG im Ecommer..."
+description: "Wenn es um Unwirksame Klauseln Versand Rücksendung Gewährleistung in E-Commerce-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unwirksame Klauseln Versand Rücksendung Gewährleistung

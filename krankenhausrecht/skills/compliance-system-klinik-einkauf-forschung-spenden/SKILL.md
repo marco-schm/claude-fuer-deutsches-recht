@@ -1,6 +1,6 @@
 ---
 name: compliance-system-klinik-einkauf-forschung-spenden
-description: "Compliance-System Klinik Einkauf Forschung Spenden: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht."
+description: "Wenn es um Compliance-System Klinik Einkauf Forschung Spenden in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Compliance-System Klinik Einkauf Forschung Spenden

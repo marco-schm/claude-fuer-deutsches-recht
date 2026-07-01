@@ -1,6 +1,6 @@
 ---
 name: positivismus-normgeltung-ohne-moralautomat
-description: "Prüft positivistische Argumente, ohne moralische Fragen zu verdrängen: Gesetzesbindung, Rechtsquellenklarheit, Trennung von Geltung und Bewertung."
+description: "Wenn es um Positivismus ohne Moralautomat in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Positivismus ohne Moralautomat

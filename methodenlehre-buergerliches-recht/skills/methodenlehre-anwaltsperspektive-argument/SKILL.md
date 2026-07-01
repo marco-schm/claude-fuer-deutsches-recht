@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-anwaltsperspektive-argument
-description: "Dieses Skill erstellt aus anwaltlicher Perspektive eine systematische Dokumentenmatrix und Lückenliste für ein Mandat. Es zeigt, welche Unterlagen zur rechtlichen Durchsetzung oder Abwehr eines Anspruchs erforderlich sind, welche fehlen und wie Beweislücken methodisch geschlossen werden. Dabei we..."
+description: "Wenn es um Anwaltsperspektive: Dokumentenmatrix und Lückenliste in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Anwaltsperspektive: Dokumentenmatrix und Lückenliste

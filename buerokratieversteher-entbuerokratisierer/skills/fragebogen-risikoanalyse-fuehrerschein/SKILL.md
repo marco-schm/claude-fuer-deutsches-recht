@@ -1,6 +1,6 @@
 ---
 name: fragebogen-risikoanalyse-fuehrerschein
-description: "Analysiert Behördenfragebögen: Pflichtangaben, freiwillige Angaben, sensible Daten, Unklarheiten und Rückfragen im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Fragebogen-Risikoanalyse in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Fragebogen-Risikoanalyse

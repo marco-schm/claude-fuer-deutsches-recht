@@ -1,6 +1,6 @@
 ---
 name: ki-hochrisiko-anhang-iii-pruefen
-description: "Hochrisiko-KI nach Anhang III KI-VO prüfen: Biometrie, kritische Infrastruktur, Bildung, Beschäftigung, Zugang zu Diensten, Strafverfolgung, Migration, Justiz, demokratische Prozesse. Prüfraster Schritt für Schritt mit Belegen aus dem konkreten Einsatzfall im Ki Governance."
+description: "Wenn es um Hochrisiko-digitale Werkzeuge Anhang III in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Hochrisiko-KI Anhang III

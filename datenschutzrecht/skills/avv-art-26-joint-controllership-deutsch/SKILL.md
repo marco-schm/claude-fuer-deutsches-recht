@@ -1,6 +1,6 @@
 ---
 name: avv-art-26-joint-controllership-deutsch
-description: "Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deutscher Vertragssprache. Behandelt Aufgabenverteilung Anlaufstelle für Betroffene Transparenz Innenregress und EuGH-Rechtsprechung zu Fanpages Like-Button und Zeugen Jehovas. Output: deutscher Klauselsatz für Joint-Controller-Vereinbarung."
+description: "Wenn es um Joint-Controller-Vereinbarung Art. 26 DSGVO – deutsche Vertragsfassung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Joint-Controller-Vereinbarung Art. 26 DSGVO – deutsche Vertragsfassung

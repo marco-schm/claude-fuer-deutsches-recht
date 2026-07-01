@@ -1,6 +1,6 @@
 ---
 name: chronologie-fuer-behoerde
-description: "Macht aus Lebenssachverhalt eine knappe, belegbare Chronologie ohne Spekulationen im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Chronologie für Behörde in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie für Behörde

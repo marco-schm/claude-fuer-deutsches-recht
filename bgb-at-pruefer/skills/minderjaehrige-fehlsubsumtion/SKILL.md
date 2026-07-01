@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-fehlsubsumtion
-description: "Klausurhilfe zu häufigen Fehlsubsumtionen bei Minderjährigen-Geschäften nach §§ 104 bis 113 BGB: Abgrenzung lediglich rechtlich vorteilhafter Geschäfte von neutralen und nachteiligen Geschäften, typische Klausurfehler und Korrekturansatz."
+description: "Wenn es um Minderjährige und Fehlsubsumtionen — Paragrafen 104 bis 113 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Minderjährige und Fehlsubsumtionen — §§ 104 bis 113 BGB

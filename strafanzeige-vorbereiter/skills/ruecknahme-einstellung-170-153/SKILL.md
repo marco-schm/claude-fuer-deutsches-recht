@@ -1,6 +1,6 @@
 ---
 name: ruecknahme-einstellung-170-153
-description: "Was nach Anzeige passiert: Einstellung, Rücknahme Strafantrag, Opportunität, Beschwerde, Kommunikation mit StA im Strafanzeige-Vorbereitung."
+description: "Wenn es um Rücknahme, Einstellung, Paragraf 170 Abs. 2, Paragrafen 153 ff. StPO in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rücknahme, Einstellung, § 170 Abs. 2, §§ 153 ff. StPO

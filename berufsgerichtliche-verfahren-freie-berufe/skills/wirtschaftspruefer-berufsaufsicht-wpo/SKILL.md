@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-berufsaufsicht-wpo
-description: "Wirtschaftsprüfer Berufsaufsicht WPO: prüft WPK, APAS, Qualitätskontrolle, berufsgerichtliche Maßnahmen und Prüfungsfehler in berufsgerichtlichen Verfahren freier Berufe: Wirtschaftsprüfer Berufsaufsicht WPO: prüft WPK, APAS, Qualitätskontrolle, berufsgeric..."
+description: "Wenn es um Wirtschaftspruefer Berufsaufsicht Wpo in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer Berufsaufsicht WPO: prüft WPK, APAS, Qualitätskontrolle, berufsgerichtliche Maßnahmen und Prüfungsfehler in berufsgerichtlichen Verfahren freier Berufe

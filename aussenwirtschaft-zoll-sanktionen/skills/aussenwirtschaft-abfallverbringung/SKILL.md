@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-abfallverbringung
-description: "Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 1418/2007) und KrWG: Notifizierungsverfahren für Abfaelle der Gruenen/Gelben/Roten Liste, Genehmigungspflichten beim Hauptzollamt und Bundesumweltamt, AVV-Schlüssel-Prüfung, Kontrolle von Empfaengerlandzustimmungen...."
+description: "Wenn es um Abfallverbringung: Grenzueberschreitende Entsorgung und Notifizierungsverfahren in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abfallverbringung: Grenzueberschreitende Entsorgung und Notifizierungsverfahren

@@ -1,6 +1,6 @@
 ---
 name: embargo-fristennotiz-und-naechster-schritt
-description: "Embargo: Fristennotiz und nächster Schritt: Embargo: Fristennotiz und nächster Schritt."
+description: "Wenn es um Embargo: Fristennotiz und nächster Schritt in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Embargo: Fristennotiz und nächster Schritt

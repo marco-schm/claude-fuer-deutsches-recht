@@ -1,6 +1,6 @@
 ---
 name: onboarding-bauleiter-trade-based
-description: "Bauleiter KYC-Onboarding: Identifizierung natuerliche und juristische Personen, wirtschaftlich Berechtigter, PEP-Prüfung, Sanktionslistenabgleich. Prüfraster für Verpflichtete im Geldwaeschepraevention Aml Kyc."
+description: "Wenn es um AML: KYC-Onboarding in Geldwäscheprävention, AML und KYC geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # AML: KYC-Onboarding

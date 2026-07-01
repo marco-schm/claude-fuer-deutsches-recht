@@ -1,6 +1,6 @@
 ---
 name: ifg-058-uig-umweltinformation-zustaendigkeit-p
-description: "Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Zuständigkeit prüfen. Zuständigkeit prüfen für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Uig Umweltinformation Zustaendigkeit P in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Uig Umweltinformation Zustaendigkeit P

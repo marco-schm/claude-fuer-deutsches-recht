@@ -1,6 +1,6 @@
 ---
 name: auslandsurkunden-apostille-legalisation-uebersetzung
-description: "Prüft Apostille, Legalisation, beglaubigte Übersetzung, Existenznachweis und Vertretungsnachweis im Handelsregister Praxis."
+description: "Wenn es um Auslandsurkunden registerfest machen in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auslandsurkunden registerfest machen

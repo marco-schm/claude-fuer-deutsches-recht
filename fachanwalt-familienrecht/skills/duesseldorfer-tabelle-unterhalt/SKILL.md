@@ -1,6 +1,6 @@
 ---
 name: duesseldorfer-tabelle-unterhalt
-description: "Familienrechtlicher Skill zu Fachanwalt Familienrecht Duesseldorfer Tabelle Unterhalt: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
+description: "Wenn es um Duesseldorfer Tabelle Unterhalt in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Familienrecht Duesseldorfer Tabelle Unterhalt: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

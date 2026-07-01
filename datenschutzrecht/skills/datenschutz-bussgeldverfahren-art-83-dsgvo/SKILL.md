@@ -1,6 +1,6 @@
 ---
 name: datenschutz-bussgeldverfahren-art-83-dsgvo
-description: "Bußgeldverteidigung nach Art. 83 DSGVO bis 4 Prozent Jahresumsatz oder 20 Mio. EUR. EDSA-Leitlinien 04/2022 zur Bemessung. Sieben-Fragen-Diagnose: Anhörung oder Bußgeldbescheid, Aufsichtsbehörde, Norm DSGVO/BDSG, Bezugsumsatz, Vorwurf, Verschulden, Maßnahmenlage. Schritt-für-Schritt: Akteneinsich..."
+description: "Wenn es um Datenschutz-Bußgeldverfahren — Verteidigung nach Art. 83 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz-Bußgeldverfahren — Verteidigung nach Art. 83 DSGVO

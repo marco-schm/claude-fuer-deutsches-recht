@@ -1,6 +1,6 @@
 ---
 name: untervermietung-553
-description: "Untervermietung § 553 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft berechtigtes Interesse, Personenangaben, Zumutbarkeit, Zuschlag und Kündigungsfolge; mit Normprüfung, B..."
+description: "Wenn es um Untervermietung Paragraf 553 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Untervermietung § 553 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht

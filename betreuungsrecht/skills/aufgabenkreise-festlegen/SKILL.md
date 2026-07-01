@@ -1,6 +1,6 @@
 ---
 name: aufgabenkreise-festlegen
-description: "Aufgabenkreise einer Betreuung festlegen: Vermögensvorsorge, Gesundheitsvorsorge, Aufenthaltsbestimmung, Postangelegenheiten, Wohnungsangelegenheiten. Empfehlung: nur erforderliche Kreise (Erforderlichkeitsgrundsatz § 1814 BGB)."
+description: "Wenn es um Aufgabenkreise festlegen in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Aufgabenkreise festlegen

@@ -1,6 +1,6 @@
 ---
 name: betriebsgenehmigung-airline
-description: "Airline beantragt Betriebsgenehmigung beim LBA oder bestehende Genehmigung soll geaendert oder widerrufen werden. Prüft EU-VO 1008/2008 Art. 3-9 Genehmigungsvoraussetzungen AOC Hauptniederlassung EU-Eigentumskontrolle und liefert Antragsunterlagen-Checkliste und Widerrufsabwehr-Baustein im Luftr..."
+description: "Wenn es um Betriebsgenehmigung Airline – Antrag, Änderung und Widerruf in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsgenehmigung Airline – Antrag, Änderung und Widerruf

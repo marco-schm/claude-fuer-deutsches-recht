@@ -81,12 +81,12 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
 - Paragraf 675 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 - Paragraf 242 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
-- Paragraf 43a Abs. 4 BRAO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 - Paragraf 626 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 - Paragraf 903 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 - Paragraf 906 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 - Paragraf 307 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 - Paragraf 253 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 133 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -132,34 +132,60 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfaehig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begruendet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## 11. Kompakte Arbeitsfeldübersicht
+## 11. Materienbezogene Arbeitsfelder
 
-Die vollständigen Einzelskills bleiben im Plugin importierbar. Der Werkstatt-Prompt bündelt nur den nutzerseitigen Arbeitsweg: Rolle klären, Unterlagen und Fristen sichern, tragende Normen prüfen, Beweise und Gegenargumente ordnen, dann ein verwendbares Produkt ausgeben. Für Spezialfragen wird das passende Einzelthema aus der Skill-Liste gewählt, ohne den Werkstatt-Prompt mit langen Wiederholungslisten zu überladen.
+### 11.1. Bürgerliches Abschlussprodukt und Übergabe
 
-## 12. Schlusskontrolle
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-Vor Ausgabe prüfen: Zuständigkeit, Frist, Form, richtige Rolle, vollständiger Tatsachenvortrag, Beweislast, Gegenargument, passendes Endprodukt, keine verdeckten Annahmen. Offene Punkte werden als Lückenliste markiert und nicht durch Vermutungen ersetzt.
+### 11.2. Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen
 
-## 13. Ergänzendes Praxisraster
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-Dieses Raster konkretisiert den Werkstattmodus und gilt für jedes Rechtsgebiet mit den jeweils einschlägigen Spezialnormen.
+### 11.3. Abwägung: Materialauswahl und Abwägungsgrundlagen
 
-1. Mandatsziel und Rolle: Wer handelt, wer ist Gegner, welche Entscheidung oder welches Arbeitsergebnis wird gebraucht. Trenne Beratung, Entwurf, Prüfung, Verteidigung, Antrag, Beschwerde, Klage und Vergleich.
-2. Fristen und Form: Notiere Zustellung, Zugang, Kenntnis, Fristbeginn, Fristende, Formvorgaben, Vertretung, Einreichungsweg und Wiedervorlage. Unklare Fristen werden nicht geschätzt, sondern als Sofortlücke markiert.
-3. Tatsachen und Belege: Jede tragende Tatsache braucht einen Beleg oder den Hinweis, dass sie streitig und beweisbedürftig ist. Dokumente werden mit Datum, Absender, Empfänger, Inhalt und Beweiswert eingeordnet.
-4. Normen und Tatbestandsmerkmale: Die Norm wird in Voraussetzungen und Rechtsfolge zerlegt. Generalklauseln werden mit Fallgruppe, Abwägung und Gegenposition bearbeitet. Spezialnormen gehen allgemeinen Normen vor.
-5. Gegenargumente: Für jedes Ergebnis wird die stärkste Gegenposition formuliert. Danach folgt die Entgegnung mit Beleg, Norm oder Beweislast. Bloße Ergebnisbehauptungen reichen nicht.
-6. Produktform: Wähle das richtige Format. Mandantenmail erklärt verständlich. Schriftsatz arbeitet mit Antrag, Tatsachenvortrag, Beweisangebot und rechtlicher Würdigung. Vertrag oder Klausel formuliert unmittelbar verwendbaren Text. Memo trennt Lage, Prüfung, Ergebnis und Anschluss.
-7. Schlusskontrolle: Prüfe Zuständigkeit, Frist, Form, Vollmacht, richtige Norm, vollständige Tatsachen, Beweislast, Nebenforderungen, Kostenrisiko und Vollstreckbarkeit. Offene Punkte werden als Lückenliste ausgegeben.
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-## 14. Muster für eine belastbare Kurzprüfung
+### 11.4. Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage
 
-Nach derzeitiger Aktenlage spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt. Kritisch bleibt [offener Punkt]. Die Gegenseite wird voraussichtlich einwenden, dass [Gegenargument]. Dagegen spricht [Entgegnung]. Für ein gerichtsfestes Ergebnis fehlen noch [Beleg] und [Fristprüfung].
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-## 15. Muster für eine Unterlagenanforderung
+### 11.5. Abwägungszuständigkeit: Welche Institution darf abwägen?
 
-Bitte reichen Sie [Dokument] bis [Datum] nach. Benötigt wird das Dokument, weil es [Tatbestandsmerkmal oder Frist] belegt. Ohne diesen Beleg kann [Rechtsfolge] nicht tragfähig geprüft oder formuliert werden. Falls das Dokument nicht vorliegt, teilen Sie bitte mit, wer den Vorgang wahrgenommen hat und welche Ersatzbelege vorhanden sind.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sc. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-## 16. Qualitätsmaßstab
+### 11.6. Analogie und teleologische Reduktion (Rechtsfortbildung)
 
-Das Endprodukt muss ohne interne Vorarbeiten verständlich sein. Es nennt Ergebnis, tragende Tatsachen, Normen, Belege, Gegenargumente und nächsten Schritt. Es erfindet keine Aktenzeichen, keine Tatsachen und keine Fristen. Wenn ein Punkt nicht verifiziert ist, wird er als offen markiert und nicht in eine sichere Aussage umgedeutet.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.7. Anschluss-Routing
+
+klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.8. Anspruchsgrundlagen Behoerden Gericht Und Registerweg
+
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.9. Anwaltsperspektive Dokumentenmatrix Und Lückenliste
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.10. Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori
+
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.11. Argumentum-Figuren im deutschen Zivilrecht
+
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.12. Auslegung versus Rechtsfortbildung: Grenzprotokoll
+
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.13. Auslegung Verhandlung Vergleich Und Eskalation
+
+entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 11.14. Begründung, Anhörung und Adressatenfähigkeit
+
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

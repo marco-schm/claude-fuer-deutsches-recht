@@ -1,6 +1,6 @@
 ---
 name: pralr-spez-zwitterrecht-historisch-medizinisch-rechtsfolgen
-description: "Zwitterrecht ALR — historisch-medizinische Dimension: Skill ergaenzt die Norm um die Praxis Eintraege im Kirchenbuch Schule Standesregister und die rechtsfolgen für Eheschliessung Erbrecht Wehrdienst. Li..."
+description: "Wenn es um Zwitterrecht ALR — historisch-medizinische Dimension in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zwitterrecht ALR — historisch-medizinische Dimension

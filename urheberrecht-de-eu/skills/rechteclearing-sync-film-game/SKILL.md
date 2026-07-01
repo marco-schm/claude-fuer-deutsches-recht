@@ -1,6 +1,6 @@
 ---
 name: rechteclearing-sync-film-game
-description: "Prüft Sync, Master, Publishing, Buyout, Territory, Term, Medien, Trailer, Social, Games und KI-generierte Assets im Urheberrecht De Eu."
+description: "Wenn es um Rechteclearing für Film, Game und Werbung in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechteclearing für Film, Game und Werbung

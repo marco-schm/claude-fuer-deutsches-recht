@@ -1,6 +1,6 @@
 ---
 name: hager-system-internationale-country
-description: "Internationale Designregistrierung über das WIPO Hague System planen: Designations, Wiedergaben, Priorität, Aufschiebung, lokale Besonderheiten und Counsel-Briefing im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Hager System Wipo in designrecht-geschmacksmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Hager System Wipo

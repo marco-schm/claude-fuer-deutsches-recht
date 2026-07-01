@@ -1,6 +1,6 @@
 ---
 name: produktionsuebergabe-checkliste
-description: "Erstellt die Übergabe an Herstellung, Satz, Online, Marketing, Vertrieb und Archiv mit Dateien, Freigaben, Rechten, Metadaten und offenen Punkten im Verlagsredaktion."
+description: "Wenn es um Produktionsübergabe in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Produktionsübergabe

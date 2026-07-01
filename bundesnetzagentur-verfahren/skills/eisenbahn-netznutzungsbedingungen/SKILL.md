@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-netznutzungsbedingungen
-description: "Eisenbahn / Netznutzungsbedingungen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren."
+description: "Wenn es um Eisenbahn: Netznutzungsbedingungen in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Eisenbahn: Netznutzungsbedingungen

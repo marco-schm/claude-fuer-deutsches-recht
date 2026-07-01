@@ -1,6 +1,6 @@
 ---
 name: ma-teaser-und-cim-nda
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: M&A Teaser Und Cim NDA; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um M&A Teaser Und Cim NDA in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # M&A Teaser Und Cim NDA

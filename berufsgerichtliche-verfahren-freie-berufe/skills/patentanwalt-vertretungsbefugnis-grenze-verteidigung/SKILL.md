@@ -1,6 +1,6 @@
 ---
 name: patentanwalt-vertretungsbefugnis-grenze-verteidigung
-description: "Patentanwalt Vertretungsbefugnis Grenze (Verteidigungs- und Kammerantwort): steuert Grenzen patentanwaltlicher Beratung, Rechtsdienstleistung, Prozessvertretung und Kooperation mit Rechtsanwälten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt i..."
+description: "Wenn es um Patentanwalt Vertretungsbefugnis Grenze: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Patentanwalt Vertretungsbefugnis Grenze: Verteidigungs- und Kammerantwort

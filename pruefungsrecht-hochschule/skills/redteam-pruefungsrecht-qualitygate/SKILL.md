@@ -1,6 +1,6 @@
 ---
 name: redteam-pruefungsrecht-qualitygate
-description: "Finaler Qualitätscheck für Prüfungsrechtsausgaben. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Redteam Prüfungsrecht Qualitygate in Prüfungsrecht an Hochschulen und Universitäten geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Redteam Prüfungsrecht Qualitygate

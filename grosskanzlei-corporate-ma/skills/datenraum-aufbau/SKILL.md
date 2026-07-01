@@ -1,6 +1,6 @@
 ---
 name: datenraum-aufbau
-description: "Due Diligence Datenraum strukturieren und bestücken: Anwendungsfall Mandant bereitet Verkaufsprozess vor oder Buyer-Team benoetigt strukturierten Datenraum für Private M&A, Public M&A, Carve-out oder Distressed-Prozesse. Paragraf 433 ff. BGB, SPA DD-Pflichten, MAR Vertraulichkeit. Prüfraster Ordnerstru..."
+description: "Wenn es um Datenraum-Aufbau in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenraum-Aufbau

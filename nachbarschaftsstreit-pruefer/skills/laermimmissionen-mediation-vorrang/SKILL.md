@@ -1,6 +1,6 @@
 ---
 name: laermimmissionen-mediation-vorrang
-description: "Spezialfall Laermimmissionen TA Laerm und LAI-Hinweise: Beurteilungspegel, Schutzgebiete, Spitzenpegel, Prüfraster zur Schadensersatz- und Unterlassungsklage im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Nach: Laermimmissionen in Nachbarschaftsstreit-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Nach: Laermimmissionen

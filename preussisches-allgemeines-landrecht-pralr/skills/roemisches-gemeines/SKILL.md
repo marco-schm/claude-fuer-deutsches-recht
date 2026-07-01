@@ -1,6 +1,6 @@
 ---
 name: roemisches-gemeines
-description: "PrALR: Verhältnis zu römischem Recht, gemeinem Recht, Naturrecht und preußischer Kodifikationstechnik prüfen."
+description: "Wenn es um Römisches und gemeines Recht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches und gemeines Recht

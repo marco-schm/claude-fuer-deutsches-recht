@@ -1,6 +1,6 @@
 ---
 name: hinschg-whistleblower-repressalie
-description: "Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber: Anwendungsfall Arbeitnehmer hat intern oder extern Hinweis gegeben und wurde daraufhin gekünd..."
+description: "Wenn es um Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber

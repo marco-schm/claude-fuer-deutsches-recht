@@ -1,6 +1,6 @@
 ---
 name: ki-incident-detection
-description: "Prüft KI-gestützte Incident Detection und ihre Grenzen im Nis2 Cybersecurity Compliance."
+description: "Wenn es um digitale Werkzeuge Incident Detection in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI Incident Detection

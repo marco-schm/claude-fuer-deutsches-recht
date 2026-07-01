@@ -1,6 +1,6 @@
 ---
 name: notar-registergericht-kommunikation
-description: "Erstellt klare Nachreichungslisten, Telefonnotizen, E-Mail-Entwürfe und Mandantenupdates ohne Schuldzuweisungschaos im Handelsregister Praxis."
+description: "Wenn es um Notar und Registergericht steuern in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Notar und Registergericht steuern

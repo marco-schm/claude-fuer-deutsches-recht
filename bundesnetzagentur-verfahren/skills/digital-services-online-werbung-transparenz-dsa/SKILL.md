@@ -1,6 +1,6 @@
 ---
 name: digital-services-online-werbung-transparenz-dsa
-description: "Digital Services / Online-Werbung Transparenz DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren."
+description: "Wenn es um Online-Werbung Transparenz nach Art. 26 und Art. 39 DSA in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Online-Werbung Transparenz nach Art. 26 und Art. 39 DSA

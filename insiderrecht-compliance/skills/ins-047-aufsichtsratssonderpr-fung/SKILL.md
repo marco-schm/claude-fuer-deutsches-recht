@@ -1,6 +1,6 @@
 ---
 name: ins-047-aufsichtsratssonderpr-fung
-description: "Spezialskill Insiderrecht fuer Aufsichtsratssonderprüfung: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Aufsichtsratssonderprüfung in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Aufsichtsratssonderprüfung

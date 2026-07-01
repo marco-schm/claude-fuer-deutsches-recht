@@ -1,6 +1,6 @@
 ---
 name: dba-tschechien
-description: "DBA Deutschland Tschechien aus 1980 fortgeltend gegenüber Nachfolgestaat. Anwendungsfall grenzüberschreitende Arbeitsverhältnisse Bauausführung Beteiligungen Lizenzen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Tschechien in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Tschechien

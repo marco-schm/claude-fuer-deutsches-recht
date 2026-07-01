@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-inhouse-interkommunal
-description: "Inhouse-Geschaeft und interkommunale Zusammenarbeit vergaberechtlich pruefen: oeffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben. Normen: § 108 GWB (Ausnahmen), Teckal-Doktrin EuGH C-107/98, Hamburg-Stadtreinigung EuGH C-480/06. Pruefraster: Kontrolltest wie ueber eigene Dienststelle, Wesentlichkeitstest 80 Prozent Taetigkeit fuer Kontrollierende, Privatkapitalverbot mit Ausnahmen, horizontale Zusammenarbeit § 108 Abs. 6 GWB. Output Inhouse-Pruefvermerk, Vertragsentwurf-Modul. Abgrenzung: De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage."
+description: "Wenn es um Inhouse und interkommunale Zusammenarbeit in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Inhouse und interkommunale Zusammenarbeit

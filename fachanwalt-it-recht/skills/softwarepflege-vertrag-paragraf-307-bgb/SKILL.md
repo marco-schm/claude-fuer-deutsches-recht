@@ -1,6 +1,6 @@
 ---
 name: softwarepflege-vertrag-paragraf-307-bgb
-description: "Softwarepflege Vertrag § 307 BGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Softwarepflege Vertrag Paragraf 307 BGB in Fachanwalt It Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Softwarepflege Vertrag § 307 BGB

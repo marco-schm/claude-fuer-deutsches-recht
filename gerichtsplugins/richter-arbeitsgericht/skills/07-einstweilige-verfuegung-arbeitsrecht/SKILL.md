@@ -1,6 +1,6 @@
 ---
 name: 07-einstweilige-verfuegung-arbeitsrecht
-description: "Einstweilige Verfügung im Arbeitsrecht: Verfügungsanspruch und -grund Paragraf 940 ZPO, Schutz von Beschaeftigungsanspruch, Wettbewerbsverbot, Verschwiegenheit; Eilbeschluss"
+description: "Wenn es um 07 Einstweilige Verfügung Arbeitsrecht in Arbeitsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # 07 Einstweilige Verfügung Arbeitsrecht

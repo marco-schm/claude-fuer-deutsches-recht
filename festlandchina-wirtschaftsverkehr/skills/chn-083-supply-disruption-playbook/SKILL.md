@@ -1,6 +1,6 @@
 ---
 name: chn-083-supply-disruption-playbook
-description: "Festlandchina Wirtschaftsverkehr: Supply Disruption Playbook. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Supply Disruption Playbook in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Supply Disruption Playbook

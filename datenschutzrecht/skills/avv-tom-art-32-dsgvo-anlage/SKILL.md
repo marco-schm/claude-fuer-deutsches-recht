@@ -1,6 +1,6 @@
 ---
 name: avv-tom-art-32-dsgvo-anlage
-description: "TOM-Anlage zum AVV nach Art. 32 DSGVO. Strukturierte Aufstellung der technischen und organisatorischen Maßnahmen mit Pseudonymisierung Verschluesselung Vertraulichkeit Integritaet Verfuegbarkeit Belastbarkeit sowie regelmäßige Prüfung. Output: Strukturierte TOM-Anlage auf Deutsch."
+description: "Wenn es um TOM-Anlage Art. 32 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # TOM-Anlage Art. 32 DSGVO

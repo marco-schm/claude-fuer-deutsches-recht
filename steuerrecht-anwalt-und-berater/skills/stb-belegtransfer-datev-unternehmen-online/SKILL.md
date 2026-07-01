@@ -1,6 +1,6 @@
 ---
 name: stb-belegtransfer-datev-unternehmen-online
-description: "Belegtransfer DATEV Unternehmen Online. Anwendungsfall systematischer Belegfluss Mandant zu StB Beleg-Scan App Mailpostfach Bank-Anbindung. Methodik Konfiguration Workflow. Output Belegfluss-Standard."
+description: "Wenn es um Belegtransfer ueber DATEV Unternehmen Online in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Belegtransfer ueber DATEV Unternehmen Online

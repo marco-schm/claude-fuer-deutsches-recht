@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-vorbereitung
-description: "Solo-Selbstständige: macht Jahresabschluss-/EÜR-Paket mit Lückenliste; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Dokumente und Kommunikation: Macht jahresabschluss-/eür-paket mit lückenliste in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumente und Kommunikation: Macht jahresabschluss-/eür-paket mit lückenliste

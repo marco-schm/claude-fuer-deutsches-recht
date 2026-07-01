@@ -1,6 +1,6 @@
 ---
 name: see-020-dokumenten-cockpit-schiff
-description: "See- und Schifffahrtsrecht: Dokumenten-Cockpit Schiff. Dokumenten-Cockpit Schiff im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Dokumenten Cockpit Schiff in See- und Schifffahrtsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Dokumenten Cockpit Schiff

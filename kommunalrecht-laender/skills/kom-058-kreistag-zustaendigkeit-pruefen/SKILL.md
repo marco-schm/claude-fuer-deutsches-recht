@@ -1,6 +1,6 @@
 ---
 name: kom-058-kreistag-zustaendigkeit-pruefen
-description: "Kommunalrecht der Länder: Kreistag: Zuständigkeit prüfen. Zuständigkeit prüfen für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kreistag Zustaendigkeit Pruefen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreistag Zustaendigkeit Pruefen

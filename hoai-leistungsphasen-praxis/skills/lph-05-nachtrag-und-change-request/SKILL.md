@@ -1,6 +1,6 @@
 ---
 name: lph-05-nachtrag-und-change-request
-description: "HOAI LPH 5 Ausführungsplanung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen Pr..."
+description: "Wenn es um LPH 5 Ausführungsplanung: Erkennt planungsänderung in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 5 Ausführungsplanung: Erkennt planungsänderung

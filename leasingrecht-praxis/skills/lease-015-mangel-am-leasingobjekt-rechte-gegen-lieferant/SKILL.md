@@ -1,6 +1,6 @@
 ---
 name: lease-015-mangel-am-leasingobjekt-rechte-gegen-lieferant
-description: "Leasingrecht: Mangel am Leasingobjekt Rechte gegen Lieferant mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Mangel am Leasingobjekt Rechte gegen Lieferant in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Mangel am Leasingobjekt Rechte gegen Lieferant

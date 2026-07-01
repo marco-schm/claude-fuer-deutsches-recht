@@ -1,6 +1,6 @@
 ---
 name: bess-ppa-projektakte-rechtsmittel
-description: "Prüft Erlösverträge für Speicher: Tolling, Capacity, Arbitrage, Regelenergie, Floor/Cap und Verfügbarkeitsgarantien im Energierecht."
+description: "Wenn es um PPA, Tolling und Merchant-Risk in Energierecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # PPA, Tolling und Merchant-Risk

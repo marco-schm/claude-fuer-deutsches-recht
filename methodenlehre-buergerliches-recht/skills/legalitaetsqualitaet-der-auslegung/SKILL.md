@@ -1,6 +1,6 @@
 ---
 name: legalitaetsqualitaet-der-auslegung
-description: "Prüft, ob eine zivilrechtliche Auslegung rechtsstaatlich tragfaehig bleibt: klar, allgemein, vorhersehbar, widerspruchsfrei, befolgbar, stabil und mit Normtext und Praxis kongruent."
+description: "Wenn es um Legalitätsqualität der Auslegung in Methodenlehre bürgerliches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Legalitätsqualität der Auslegung

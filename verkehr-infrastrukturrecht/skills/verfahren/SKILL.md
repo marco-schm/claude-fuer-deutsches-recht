@@ -1,6 +1,6 @@
 ---
 name: verfahren
-description: "Anhörung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten oder will in laufendes Verfahren eingreifen. Normen: § 45 StVO (Verkehrsanordnungen), § 46 StVO (Ausnahmegenehmigungen), §§ 42 und 80 und 80a VwGO sowie §§ 28 und 68 ff. VwVfG. P..."
+description: "Wenn es um Verkehrsrechtliche Verfahren — Widerspruch, Klage, Eilschutz in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verkehrsrechtliche Verfahren — Widerspruch, Klage, Eilschutz

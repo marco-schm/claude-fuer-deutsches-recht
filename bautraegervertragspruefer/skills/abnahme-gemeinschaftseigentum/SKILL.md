@@ -1,6 +1,6 @@
 ---
 name: abnahme-gemeinschaftseigentum
-description: "Prueft Abnahmeklauseln fuer das Gemeinschaftseigentum. Dem einzelnen Erwerber darf durch AGB nicht sein Recht entzogen werden, das Gemeinschaftseigentum selbst zu pruefen und die Abnahme zu erklaeren. Abnahme durch Erstverwalter, Tochtergesellschaft, bautraegernahen Sachverstaendigen oder Erwerbervertreter ist nach aktueller BGH-Linie unwirksam."
+description: "Wenn es um Abnahme Gemeinschaftseigentum in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abnahme Gemeinschaftseigentum

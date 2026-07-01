@@ -1,6 +1,6 @@
 ---
 name: brand-enforcement-markenportfolio
-description: "Brand Enforcement und Abmahnung im Moderecht koordinieren: Marke, Design, Urheberrecht, UWG, Plattform, Zoll und PR-Risiko im Fashion Law Moderecht."
+description: "Wenn es um Brand Enforcement Abmahnung in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Brand Enforcement Abmahnung

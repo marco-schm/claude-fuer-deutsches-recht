@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-creator-risiken
-description: "Influencer-Recht: Jahresabschluss für Creator – EÜR, Steuererklärung, Risikofelder, Abgabefristen und Optimierungspotenziale im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Jahresabschluss – Creator-Risiken in Influencer-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Jahresabschluss – Creator-Risiken

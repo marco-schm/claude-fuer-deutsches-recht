@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-art-6-abs-1-sicherheitsbauteil
-description: "Unternehmen integriert KI-Komponente in ein reguliertes Produkt (Medizinprodukt Maschine Fahrzeug) und fragt: Wird das Gesamtprodukt dadurch zum Hochrisiko-KI-System? Art. 6 Abs. 1 KI-VO Sicherheitsbauteil Anhang I. Prüfraster: ist Produkt in Anhang I gelistet (MDR IVDR Luftfahrt Kfz Spielzeug Ma..."
+description: "Wenn es um Hochrisiko-digitale Werkzeuge: Sicherheitsbauteil — Art. 6 Abs. 1 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Hochrisiko-KI: Sicherheitsbauteil — Art. 6 Abs. 1 KI-VO

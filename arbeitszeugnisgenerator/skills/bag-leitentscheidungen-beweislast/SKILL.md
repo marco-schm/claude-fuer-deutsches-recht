@@ -1,6 +1,6 @@
 ---
 name: bag-leitentscheidungen-beweislast
-description: "Die BAG-Leitentscheidungen zur Beweislast im Zeugnisstreit. BAG 9 AZR 12.03 und BAG 9 AZR 584.13 als Kernnormen. Note 3 ist Ausgangspunkt: besser als Note 3 = Beweislast Arbeitnehmer; schlechter als Note 3 = Beweislast Arbeitgeber. Branchenüblichkeit verschiebt die Beweislast nicht. Enthält Beweismittelkatalog und Hinweise für den Generator."
+description: "Wenn es um BAG-Leitentscheidungen zur Beweislast in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BAG-Leitentscheidungen zur Beweislast

@@ -1,6 +1,6 @@
 ---
 name: tax-structuring
-description: "Tax Structuring General für Corporate/M&A: fuehrt steuerliche Strukturthemen, UmwStG-Schnittstellen, Verlustvortraege, Grunderwerbsteuer, Quellensteuer und SPA-Tax-Klauseln zusammen."
+description: "Wenn es um Tax Structuring General in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Tax Structuring General

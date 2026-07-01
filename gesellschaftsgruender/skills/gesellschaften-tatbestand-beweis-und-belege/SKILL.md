@@ -1,6 +1,6 @@
 ---
 name: gesellschaften-tatbestand-beweis-und-belege
-description: "Gesellschaften: Tatbestandsmerkmale, Beweisfragen und Beleglage im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaft..."
+description: "Wenn es um Gesellschaften: Tatbestandsmerkmale, Beweisfragen und Beleglage in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Gesellschaften: Tatbestandsmerkmale, Beweisfragen und Beleglage

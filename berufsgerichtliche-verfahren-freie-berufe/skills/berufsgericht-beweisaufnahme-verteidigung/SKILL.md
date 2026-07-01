@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-beweisaufnahme-verteidigung
-description: "Berufsgericht Beweisaufnahme (Verteidigungs- und Kammerantwort): steuert Zeugen, Urkunden, Mandatsgeheimnis, Kammerakte und Beweisanträge im Berufsverfahren mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Be..."
+description: "Wenn es um Berufsgericht Beweisaufnahme: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Berufsgericht Beweisaufnahme: Verteidigungs- und Kammerantwort

@@ -1,6 +1,6 @@
 ---
 name: inso-p012-juristische-personen-des-offentlichen-rechts
-description: "§ 12 InsO (Juristische Personen des öffentlichen Rechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 12 InsO (Juristische Personen des öffentlichen Rechts) im Mandat prüfen: Normzweck,..."
+description: "Wenn es um Inso P012 Juristische Personen Des Offentlichen Rechts in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 12 InsO (Juristische Personen des öffentlichen Rechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid-oder-klage
-description: "Solo-Selbstständige: entscheidet zwischen Mahnverfahren, Klage, Inkasso und Abschreibung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Forderungen Mahnung und Streit: Entscheidet zwischen mahnverfahren in Solo-Selbstständige Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Forderungen Mahnung und Streit: Entscheidet zwischen mahnverfahren

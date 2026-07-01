@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung-und-klage
-description: "Gerichtliche Eskalation im Nachbarschaftsstreit prüfen: einstweilige Verfügung, Klage, Unterlassung, Beseitigung, Duldung, Feststellung, selbständiges Beweisverfahren, Zuständigkeit, Streitwert und Anträge im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Einstweilige Verfügung und Klage in Nachbarschaftsstreit-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Einstweilige Verfügung und Klage

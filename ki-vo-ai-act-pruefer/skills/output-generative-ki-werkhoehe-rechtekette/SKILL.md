@@ -1,6 +1,6 @@
 ---
 name: output-generative-ki-werkhoehe-rechtekette
-description: "Output generativer KI: Werkhöhe, menschlicher Beitrag, Rechtekette, Prompt-/Editing-Protokoll, Persönlichkeitsrechte und Vertragszusicherung für KI-generierte Texte, Bilder, Musik und Code."
+description: "Wenn es um digitale Werkzeuge-Output, Werkhöhe und Rechtekette in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI-Output, Werkhöhe und Rechtekette

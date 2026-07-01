@@ -1,6 +1,6 @@
 ---
 name: multi-client-matter
-description: "Mehrere Mandanten in einer Sache: steuert Joint Defense, gleichlaufende Interessen, Kostenteilung, Konfliktumschlag und Information zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Mehrere Mandanten in einer Sache in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mehrere Mandanten in einer Sache

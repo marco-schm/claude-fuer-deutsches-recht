@@ -1,6 +1,6 @@
 ---
 name: lohn-ueberstunden-abbau-arbeitszeitkonto
-description: "Überstunden Arbeitszeitkonto Stundenkonto Auszahlung. Anwendungsfall AN haeuft Überstunden an Bilanzierung im Arbeitszeitkonto Abbau in Freizeit oder Auszahlung lohn- und sv-rechtliche Behandlung. Methodik Aufzeichnung MiLoG Bewertung Stand. Output Arbeitszeitkonto-Abrechnung."
+description: "Wenn es um Ueberstunden und Arbeitszeitkonto in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ueberstunden und Arbeitszeitkonto

@@ -1,6 +1,6 @@
 ---
 name: europarecht-gesetzgebung-trilog
-description: "Europaeisches Gesetzgebungsverfahren und Trilog-Verhandlungen einordnen wenn EU-Regelung in Entstehung ist. Art. 289 294 AEUV ordentliches Gesetzgebungsverfahren. Prüfraster: Verfahrensstand Kompromisstext Ratspositionen EP-Positionen Zeitplan Umsetzungspflichten. Output: Verfahrensstand-Memo Ste..."
+description: "Wenn es um EU-Gesetzgebung und Trilog in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # EU-Gesetzgebung und Trilog

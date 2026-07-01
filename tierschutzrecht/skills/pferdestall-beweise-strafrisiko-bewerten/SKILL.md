@@ -1,6 +1,6 @@
 ---
 name: pferdestall-beweise-strafrisiko-bewerten
-description: "Pferdestall: Beweise sichern im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Pferdestall Beweise Sichern in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pferdestall Beweise Sichern

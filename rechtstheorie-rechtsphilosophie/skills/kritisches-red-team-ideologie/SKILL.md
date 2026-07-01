@@ -1,6 +1,6 @@
 ---
 name: kritisches-red-team-ideologie
-description: "Red-Team für verdeckte Ideologie, Systemrhetorik, Moralueberschuss, Marktglauben, Staatsglauben und Methodenbeliebigkeit."
+description: "Wenn es um Kritisches Red-Team in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kritisches Red-Team

@@ -1,6 +1,6 @@
 ---
 name: spezial-formulierte-livequellen-und-rechtsprechungscheck
-description: "Formulierte: Livequellen- und Rechtsprechungscheck im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Formulierte: Livequellen- und Rechtsprechungscheck in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Formulierte: Livequellen- und Rechtsprechungscheck

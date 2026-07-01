@@ -1,6 +1,6 @@
 ---
 name: bmukn-abfall-kreislaufwirtschaftsrecht
-description: "Sachbereich Abfall- und Kreislaufwirtschaftsrecht im Geschäftsbereich BMUKN: Normbestand (KrWG; ElektroG; VerpackG; BatterieG; ChemG; AbfallverbringungsV.); Akteure (UBA; Länder-Abfallbehoerden; Stiftung EAR; Zentrale Stelle Verpackungsregister.); EU-Bezug (EU-Abfallrahmen-RL; Verpackungs-VO; WE"
+description: "Wenn es um Abfall- und Kreislaufwirtschaftsrecht (BMUKN) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Bmukn Abfall Kreislaufwirtschaftsrecht; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Abfall- und Kreislaufwirtschaftsrecht (BMUKN)

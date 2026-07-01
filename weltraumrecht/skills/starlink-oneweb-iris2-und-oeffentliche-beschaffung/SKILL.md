@@ -1,6 +1,6 @@
 ---
 name: starlink-oneweb-iris2-und-oeffentliche-beschaffung
-description: "Starlink, OneWeb, IRIS² – öffentliche Beschaffung, Sicherheitsanforderungen, Vergaberecht und strategische Autonomie im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Starlink, OneWeb, IRIS² und öffentliche Beschaffung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Starlink, OneWeb, IRIS² und öffentliche Beschaffung

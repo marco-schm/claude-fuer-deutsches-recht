@@ -1,6 +1,6 @@
 ---
 name: begruendung-fuer-aktive-soldaten
-description: "Spezialwerkstatt für aktive Soldaten mit früherer Dienstbereitschaft im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Begründung aktive Soldaten in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Begründung aktive Soldaten

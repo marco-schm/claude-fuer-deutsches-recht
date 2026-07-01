@@ -1,6 +1,6 @@
 ---
 name: actio-publiciana-interdikte-besitzschutz
-description: "Römisches Recht: Actio Publiciana nach D. 6.2 (Ulpian) - Fiktionsklage für bonitarischen Eigentümer, Voraussetzungen, Verhältnis zur rei vindicatio und zur exceptio rei venditae et traditae im Römisches Recht."
+description: "Wenn es um Actio Publiciana in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Actio Publiciana Interdikte Besitzschutz; Arbeitsfeld: Römisches Recht."
 ---
 
 # Actio Publiciana

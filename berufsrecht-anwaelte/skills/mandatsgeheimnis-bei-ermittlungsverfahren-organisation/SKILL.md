@@ -1,6 +1,6 @@
 ---
 name: mandatsgeheimnis-bei-ermittlungsverfahren-organisation
-description: "Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Mandatsgeheimnis Bei Ermittlungsverfahren Organisation in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

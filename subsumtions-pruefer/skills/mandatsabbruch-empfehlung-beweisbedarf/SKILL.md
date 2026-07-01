@@ -1,6 +1,6 @@
 ---
 name: mandatsabbruch-empfehlung-beweisbedarf
-description: "Erkennt Indikatoren für Komplexitaetsgrenzen des mechanischen Prüfens und empfiehlt Abbruch sowie Weiterleitung an Fachanwalt, Notar, Steuerberater oder Behörde. Warnt bei Strafrecht, Verfassungsrecht, internationalem Privatrecht und Existenzgefaehrdung im Subsumtions Prüfer."
+description: "Wenn es um Mandatsabbruch-Empfehlung: Weiterleitung an Fachanwalt in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Mandatsabbruch-Empfehlung: Weiterleitung an Fachanwalt

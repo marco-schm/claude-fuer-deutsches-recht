@@ -1,6 +1,6 @@
 ---
 name: cp-kalender-beirat
-description: "Corporate-Rechtsprechungsrecherche: Sucht Rechtsprechung und amtliche Quellen für Corporate/M&A, Umwandlung, Organpflichten, Kapitalmarkt, Insolvenz und Restrukturierung im Mittelstand Corporate Ma."
+description: "Wenn es um Corporate-Rechtsprechungsrecherche in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Corporate-Rechtsprechungsrecherche

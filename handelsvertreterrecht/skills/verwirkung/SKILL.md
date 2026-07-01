@@ -1,6 +1,6 @@
 ---
 name: verwirkung
-description: "Prüft die Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB: Zeitmoment und Umstandsmoment bei Provisionsansprüchen nach § 87 HGB und Ausgleich nach § 89b HGB, Abgrenzung zur Verjährung sowie Schutzmaßnahmen zur Vermeidung der Verwirkung durch rechtzeitige Geltendmachung im Handelsvertret..."
+description: "Wenn es um Verwirkung von Handelsvertreter-Ansprüchen nach Paragraf 242 BGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB

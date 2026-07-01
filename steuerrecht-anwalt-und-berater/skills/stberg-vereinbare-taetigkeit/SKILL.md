@@ -1,6 +1,6 @@
 ---
 name: stberg-vereinbare-taetigkeit
-description: "Berufsrechtlicher Skill zu vereinbaren Taetigkeiten und Berufsausuebung des Steuerberaters — was ist mit dem Beruf vereinbar was widerspricht der Berufsethik. Anwendungsfall Steuerberater plant Treuhandtaetigkeit Hausverwaltung Beteiligung an Beratungsgesellschaft oder Tax-Tech-Start-up und prüf..."
+description: "Wenn es um Vereinbare Taetigkeiten Steuerberater — Paragraf 57 Abs. 3 StBerG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vereinbare Taetigkeiten Steuerberater — § 57 Abs. 3 StBerG

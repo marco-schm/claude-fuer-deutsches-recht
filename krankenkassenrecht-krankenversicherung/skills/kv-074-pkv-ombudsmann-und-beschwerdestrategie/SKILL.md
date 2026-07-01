@@ -1,6 +1,6 @@
 ---
 name: kv-074-pkv-ombudsmann-und-beschwerdestrategie
-description: "Krankenversicherung: PKV Ombudsmann und Beschwerdestrategie mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: PKV Ombudsmann und Beschwerdestrategie in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: PKV Ombudsmann und Beschwerdestrategie

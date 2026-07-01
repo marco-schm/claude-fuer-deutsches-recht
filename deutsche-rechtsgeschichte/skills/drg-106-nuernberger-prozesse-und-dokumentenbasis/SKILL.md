@@ -1,6 +1,6 @@
 ---
 name: drg-106-nuernberger-prozesse-und-dokumentenbasis
-description: "Nutzt Nürnberger Verfahren und Folgeprozesse als Quellenscharnier für Rechtsgeschichte: Dokumentensicherung, Verantwortlichkeit staatlicher Akteure, Einsatzgruppen, Juristenrollen und Völkerstrafrecht."
+description: "Wenn es um Nürnberger Prozesse als Dokumentenbasis in Deutsche Rechtsgeschichte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 106 Nuernberger Prozesse Und Dokumentenbasis; Arbeitsfeld: Deutsche Rechtsgeschichte."
 ---
 # Nürnberger Prozesse als Dokumentenbasis
 

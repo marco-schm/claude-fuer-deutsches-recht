@@ -1,6 +1,6 @@
 ---
 name: zustandigkeit-119b-gvg-check
-description: "Prüft, ob Commercial Court oder Commercial Chamber eröffnet ist: Wirtschaftsstreitigkeit, Streitwert, Parteivereinbarung, Landesrecht, OLG/LG, internationale Zuständigkeit und Rügefragen im Commercial Courts Deutschland."
+description: "Wenn es um Zuständigkeit und Eingangstor in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zuständigkeit und Eingangstor

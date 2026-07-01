@@ -1,6 +1,6 @@
 ---
 name: freiheit-privatautonomie-paternalismus
-description: "Prüft freiheitliche Argumente: Privatautonomie, Eigentum, Vertragstreue, Schutzrecht, Machtgefälle und legitimer Paternalismus."
+description: "Wenn es um Freiheit und Paternalismus in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freiheit und Paternalismus

@@ -1,6 +1,6 @@
 ---
 name: evvollzug-neu-001-einstweilige-verfuegung-vollziehung-frist
-description: "EV-Vollzug: Vollziehungsfrist § 929 Abs. 2 ZPO und Parteizustellung im gewerblichen Rechtsschutz. Beschluss- und Urteilsverfügung, Zustellwege, Vollziehungsversäumnis und Rechtsfolgen. Praxisfür Anwalt, Mandant und Vollstreckungsorgan im Gewerblicher Rechtsschutz."
+description: "Wenn es um EV-Vollzug 001: Vollziehungsfrist und Parteizustellung (Paragraf 929 Abs. 2 ZPO) in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EV-Vollzug 001: Vollziehungsfrist und Parteizustellung (§ 929 Abs. 2 ZPO)

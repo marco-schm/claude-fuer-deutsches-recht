@@ -1,6 +1,6 @@
 ---
 name: v392-praxisraster-richter-amtsgericht-zivil
-description: "Praxisraster für Amtsgericht Zivil: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet."
+description: "Wenn es um Praxisraster Amtsgericht Zivil in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Praxisraster Amtsgericht Zivil

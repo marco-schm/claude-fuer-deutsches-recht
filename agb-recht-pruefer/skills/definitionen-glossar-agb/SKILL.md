@@ -1,6 +1,6 @@
 ---
 name: definitionen-glossar-agb
-description: "Output- und Streit-Skill für Definitionen Glossar AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen."
+description: "Wenn es um Definitionen Glossar AGB in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Definitionen Glossar AGB

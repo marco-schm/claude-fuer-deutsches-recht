@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Streit im gewerblichen Rechtsschutz durch Vergleich lösen und Verhandlungsstrategie entwickeln: § 14 MarkenG § 139 PatG § 8 UWG § 779 BGB Vergleich. Prüfraster:..."
+description: "Wenn es um Vergleichsverhandlung Strategie in Fachanwalt Gewerblicher Rechtsschutz geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Streit im gewerblichen Rechtsschutz durch Vergleich lösen und Verhandlungsstrategie entwickeln

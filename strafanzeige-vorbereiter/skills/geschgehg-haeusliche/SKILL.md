@@ -1,6 +1,6 @@
 ---
 name: geschgehg-haeusliche
-description: "Geschäftsgeheimnis-Strafanzeige: Geheimnisqualität, angemessene Geheimhaltungsmaßnahmen, Erlangen/Nutzen/Offenlegen, Strafantrag im Strafanzeige-Vorbereitung."
+description: "Wenn es um GeschGehG Paragraf 23 Strafanzeige in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # GeschGehG § 23 Strafanzeige

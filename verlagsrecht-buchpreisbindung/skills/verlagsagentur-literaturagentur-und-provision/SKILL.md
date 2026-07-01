@@ -1,6 +1,6 @@
 ---
 name: verlagsagentur-literaturagentur-und-provision
-description: "Verlagsrecht: Literaturagentur und Verlagsagentur — Agenturvertrag, Vollmacht, Provision, Interessenkollision, Haftung und Abgrenzung zum Handelsvertreter (HGB) im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-027 · Verlagsagentur, Literaturagentur und Provision in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-027 · Verlagsagentur, Literaturagentur und Provision

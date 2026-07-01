@@ -1,6 +1,6 @@
 ---
 name: fahrradreparatur-nachbesserung-fake-shop
-description: "Fahrradreparatur und Nachbesserung: führt Laien durch Kleine Reparatur, misslungene Werkleistung, neue Schäden und Streit um Ersatzteile. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Fahrradreparatur und Nachbesserung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fahrradreparatur und Nachbesserung

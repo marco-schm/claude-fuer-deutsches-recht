@@ -1,6 +1,6 @@
 ---
 name: provisionsklage
-description: "Unterstützt bei der Erhebung einer Provisionsklage: Klageschriftentwurf mit Anspruchsbegründung nach §§ 87 ff. HGB, Beweisantritte, Stufenklage nach § 254 ZPO, einstweiliger Rechtsschutz sowie Prozesskostenrisiko und Vergleichsstrategie im Handelsvertreterrecht."
+description: "Wenn es um Provisionsklage nach Paragrafen 87 ff. HGB — Klageschrift, Beweise und Strategie in Handelsvertreterrecht und Vertriebsverträge geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Provisionsklage nach §§ 87 ff. HGB — Klageschrift, Beweise und Strategie

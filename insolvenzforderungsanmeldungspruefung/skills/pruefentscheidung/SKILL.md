@@ -1,6 +1,6 @@
 ---
 name: pruefentscheidung
-description: "Prüfentscheidung Forderung festzustellen oder zu bestreiten: Anwendungsfall nach abgeschlossener Prüfung trifft Insolvenzverwalter Entscheidung über Feststellung Teilfeststellung Bestreiten oder Rückstellung. § 176 InsO Prüfungstermin, § 178 InsO Feststellungswirkung Bestreiten Tabelle. Prüfraste..."
+description: "Wenn es um Prüfentscheidung treffen in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfentscheidung treffen

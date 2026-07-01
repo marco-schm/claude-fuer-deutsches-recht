@@ -1,6 +1,6 @@
 ---
 name: inso-p052-ausfall-der-absonderungsberechtigten
-description: "§ 52 InsO (Ausfall der Absonderungsberechtigten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 52 InsO (Ausfall der Absonderungsberechtigten) im Mandat prüfen: Normzweck, Tatbestand, Bel..."
+description: "Wenn es um Inso P052 Ausfall Der Absonderungsberechtigten in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 52 InsO (Ausfall der Absonderungsberechtigten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: ki-einsatz-lohnsteuer
-description: "KI-gestützte Berichtserstellung: Datenextraktion, Plausibilität, Red Flags, Freigabe und keine ungeprüfte Behördenabgabe im Berichtspflichten."
+description: "Wenn es um digitale Werkzeuge zum Ausfüllen und Validieren nutzen in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI zum Ausfüllen und Validieren nutzen

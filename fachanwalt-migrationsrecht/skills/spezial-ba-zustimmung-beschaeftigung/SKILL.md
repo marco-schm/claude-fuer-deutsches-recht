@@ -1,6 +1,6 @@
 ---
 name: spezial-ba-zustimmung-beschaeftigung
-description: "BA-Zustimmung Beschäftigung: Spezial-Skill im Migrationsrecht; prüft Zustimmungserfordernis, Vorrang/Arbeitsbedingungen, Ausnahmen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um BA-Zustimmung Beschäftigung in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BA-Zustimmung Beschäftigung

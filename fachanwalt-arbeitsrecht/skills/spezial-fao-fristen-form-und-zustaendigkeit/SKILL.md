@@ -1,6 +1,6 @@
 ---
 name: spezial-fao-fristen-form-und-zustaendigkeit
-description: "FAO: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um FAO: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # FAO: Fristen, Form, Zuständigkeit und Rechtsweg

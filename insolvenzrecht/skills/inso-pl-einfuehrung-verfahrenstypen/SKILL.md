@@ -1,6 +1,6 @@
 ---
 name: inso-pl-einfuehrung-verfahrenstypen
-description: "Insolvenzrechtsverfahren einfuehrend: Regelinsolvenz, Eigenverwaltung mit und ohne Schutzschirm, Verbraucher-Insolvenz, StaRUG-Restrukturierung. Pro Verfahrenstyp Schwelle, Antrag, Verlauf. Entscheidungstabelle im Insolvenzrecht."
+description: "Wenn es um Insolvenzrecht: Verfahrenstypen in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Insolvenzrecht: Verfahrenstypen

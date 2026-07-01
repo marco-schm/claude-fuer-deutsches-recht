@@ -1,6 +1,6 @@
 ---
 name: quarterly-portfolio-recap
-description: "Erzeugt Quartalsrecaps für Family Office, Investment Committee, Partnerkreis oder Co-Investoren im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Quarterly Portfolio Recap in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quarterly Portfolio Recap

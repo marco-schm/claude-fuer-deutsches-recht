@@ -1,6 +1,6 @@
 ---
 name: rechtsvergleichender-begriffscheck-reviews
-description: "Rechtsvergleichender Begriffscheck für deutsche Juristen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Common Law Kompass."
+description: "Wenn es um Rechtsvergleichender Begriffscheck für deutsche Juristen in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Rechtsvergleichender Begriffscheck für deutsche Juristen

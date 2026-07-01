@@ -1,6 +1,6 @@
 ---
 name: sicherheiten-drittsicherheiten
-description: "Absonderungsrechte und Drittsicherheiten im Insolvenzplan und StaRUG planfest behandeln und Ausfallwerte bestimmen. §§ 49 50 51 224 InsO §§ 2 Abs. 4 StaRUG Drittsicherheiten. Prüfraster: Sicherheitenregister Eingriffsbeschreibung Ausfallwertrechnung gruppeninterne Drittsicherheiten Finanzsicherhe..."
+description: "Wenn es um Sicherheiten und Drittsicherheiten in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sicherheiten und Drittsicherheiten

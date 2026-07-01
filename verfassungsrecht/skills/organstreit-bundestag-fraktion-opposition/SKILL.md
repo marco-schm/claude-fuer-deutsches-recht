@@ -1,6 +1,6 @@
 ---
 name: organstreit-bundestag-fraktion-opposition
-description: "Organstreit vor dem BVerfG: Bundestag, Fraktionen, Abgeordnete, Opposition, Ausschüsse, Sitzungssäle, Informationsrechte, Chancengleichheit und Sechsmonatsfrist nach § 64 Abs. 3 BVerfGG."
+description: "Wenn es um Organstreit: Bundestag, Fraktion und Opposition in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Organstreit: Bundestag, Fraktion und Opposition

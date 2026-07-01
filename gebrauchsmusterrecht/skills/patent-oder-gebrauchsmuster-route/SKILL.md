@@ -1,6 +1,6 @@
 ---
 name: patent-oder-gebrauchsmuster-route
-description: "Patent oder Gebrauchsmuster entscheiden: Geschwindigkeit, Kosten, Prüfung, Schutzdauer, Verfahren, Ausschlüsse, Durchsetzung und internationale Strategie im Gebrauchsmusterrecht."
+description: "Wenn es um Patent Oder Gebrauchsmuster Route in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Patent Oder Gebrauchsmuster Route

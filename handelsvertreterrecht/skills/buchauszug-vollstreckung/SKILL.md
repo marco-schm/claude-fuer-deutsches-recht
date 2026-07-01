@@ -1,6 +1,6 @@
 ---
 name: buchauszug-vollstreckung
-description: "Unterstützt bei der Vollstreckung eines Buchauszugsanspruchs nach § 87c HGB: Vollstreckungsantrag nach § 888 ZPO (unvertretbare Handlung), Zwangsgeld und Zwangshaft, einstweilige Verfügung zur Sicherung des Auskunftsanspruchs sowie Schadensersatz bei Beweisvereitelung durch den Unternehmer im Han..."
+description: "Wenn es um Vollstreckung des Buchauszugsanspruchs nach Paragraf 87c HGB und Paragraf 888 ZPO in Handelsvertreterrecht und Vertriebsverträge geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vollstreckung des Buchauszugsanspruchs nach § 87c HGB und § 888 ZPO

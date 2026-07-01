@@ -1,6 +1,6 @@
 ---
 name: strafr-revision-pruefung-spezial
-description: "Spezialfall Revisionspruefung StPO: § 337 sachlich- und verfahrensrechtliche Revision, Beruhensfrage, Verfahrensruegen Begruendungspflicht § 344 Abs: Spezialfall Revisionspruefung StPO: § 337 sachlich- und verfahrensrechtliche Revision, Beruhensfrage, Verfa..."
+description: "Wenn es um Strafr Revision Prüfung Spezial in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Revisionspruefung StPO: § 337 sachlich- und verfahrensrechtliche Revision, Beruhensfrage, Verfahrensruegen Begruendungspflicht § 344 Abs

@@ -1,6 +1,6 @@
 ---
 name: education-distance-learning-110
-description: "Prüft Classroom Use, TEACH Act, Distance Learning, LMS, Coursepacks und Lizenz-/Fair-Use-Schnittstellen im Us Copyright Registrierung Verlag."
+description: "Wenn es um Education und Distance Learning Paragraf 110 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Education und Distance Learning § 110

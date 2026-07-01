@@ -1,6 +1,6 @@
 ---
 name: bankruptcy-appeals
-description: "Prüft appeal route, final/interlocutory order, stay pending appeal, deadlines and district/BAP/circuit path im US Bankruptcy Code."
+description: "Wenn es um Bankruptcy Appeals in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bankruptcy Appeals

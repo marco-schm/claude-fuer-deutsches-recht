@@ -1,6 +1,6 @@
 ---
 name: owi-069-tierschutz-owi-rechtsbeschwerde-pruefe
-description: "Ordnungswidrigkeitenrecht: Tierschutz-OWi: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Tierschutz Owi Rechtsbeschwerde Pruefe in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tierschutz Owi Rechtsbeschwerde Pruefe

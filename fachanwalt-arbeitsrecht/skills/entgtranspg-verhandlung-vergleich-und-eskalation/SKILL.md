@@ -1,6 +1,6 @@
 ---
 name: entgtranspg-verhandlung-vergleich-und-eskalation
-description: "EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch Paragraf 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage Paragrafen 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970: EntgTranspG Entgelttransparenzg..."
+description: "Wenn es um Entgtranspg Verhandlung Vergleich Und Eskalation in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch Paragraf 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage Paragrafen 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970.

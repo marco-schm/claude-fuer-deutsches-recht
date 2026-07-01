@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Forschungszulage FZulG: sortiert Projektbeschreibung, BSFZ-Bescheinigung, Stundennachweise, prüft Datum, Absender, Frist und Beweiswert (F&E-Stundenaufzeichnungen, Projektdokumentation); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Forschungszulage-Antragstellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

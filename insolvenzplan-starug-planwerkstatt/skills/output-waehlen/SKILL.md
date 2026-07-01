@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Insolvenzplan / StaRUG: stimmt Adressat (Schuldnerunternehmen, Gläubiger, Sachwalter), Frist (Erörterungstermin) und Form auf den Zweck ab — typische Outputs: Planentwurf, Gruppenbildungsskizze, Vergleichsrechnung."
+description: "Wenn es um Output wählen in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

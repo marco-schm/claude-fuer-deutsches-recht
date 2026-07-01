@@ -1,6 +1,6 @@
 ---
 name: aa-eu-bmi-verwaltungsverfahren
-description: "Sachbereich EU-Grundlagen und Ratsverfahren im Geschäftsbereich AA: Normbestand (EUV; AEUV; EUZBLG; EUZBBG; Lissabon-Begleitgesetzgebung.); Akteure (AA Europa-Abteilung; Bundeskanzleramt EU-Koordinator; Bundesministerien.); EU-Bezug (Rat der EU; Ratsformationen; AStV; Trilog mit Parlament und Ko"
+description: "Wenn es um EU-Grundlagen und Ratsverfahren (AA) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Aa EU Bmi Verwaltungsverfahren; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # EU-Grundlagen und Ratsverfahren (AA)

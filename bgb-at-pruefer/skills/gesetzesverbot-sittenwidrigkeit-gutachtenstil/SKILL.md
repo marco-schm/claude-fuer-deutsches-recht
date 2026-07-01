@@ -1,6 +1,6 @@
 ---
 name: gesetzesverbot-sittenwidrigkeit-gutachtenstil
-description: "Klausurfall zu Gesetzesverstoß nach § 134 BGB und Sittenwidrigkeit nach § 138 BGB: Verbotsgesetze im Zivilrecht, Gesamtnichtigkeit oder Teilnichtigkeit, Wucher nach § 138 Abs. 2 BGB und Ausbeutungsgeschäfte mit sittenwidrigem Lohnabstand im BGB AT."
+description: "Wenn es um Gesetzesverbot und Sittenwidrigkeit — Paragrafen 134 und 138 BGB in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Gesetzesverbot Sittenwidrigkeit Gutachtenstil; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Gesetzesverbot und Sittenwidrigkeit — §§ 134 und 138 BGB

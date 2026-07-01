@@ -1,6 +1,6 @@
 ---
 name: drohne-insolvenzrisiko-markieren
-description: "Drohnendienstleister zeigt Insolvenzzeichen. Prüft InsO §§ 15a 17-19 Insolvenzantragspflicht Aussonderungsrechte Leasinggeber bei Drohnenflotte und Kundenforderungen und liefert Risikoampel-Bewertung im Luftrecht Flughafenrecht."
+description: "Wenn es um Drohne – Insolvenzrisiko markieren in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drohne – Insolvenzrisiko markieren

@@ -1,6 +1,6 @@
 ---
 name: besondere-leistungen-projekte
-description: "Formulierungsregeln für die Darstellung besonderer Leistungen, herausragender Projekte, Auszeichnungen und messbarer Erfolge im Zeugnis. Besondere Leistungen verstärken die Hauptformel und sind das stärkste Positivsignal. Sie müssen wahr und nachprüfbar sein. Enthält Musterformulierungen für Projekt-Erfolge, Umsatzsteigerungen, Auszeichnungen und Innovationsbeiträge."
+description: "Wenn es um Besondere Leistungen und Projekte in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besondere Leistungen und Projekte

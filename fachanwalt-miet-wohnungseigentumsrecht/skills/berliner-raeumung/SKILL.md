@@ -1,6 +1,6 @@
 ---
 name: berliner-raeumung
-description: "Berliner Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht: klärt Auftrag, Vermieterpfandrecht, Kosten, Einlagerung und Haftungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und..."
+description: "Wenn es um Berliner Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berliner Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht

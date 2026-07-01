@@ -1,6 +1,6 @@
 ---
 name: ssnip-schriftsatz-brief-und-memo-bausteine
-description: "Ssnip: Schriftsatz-, Brief- und Memo-Bausteine: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Ssnip: Schriftsatz-, Brief- und Memo-Bausteine in Kartellrecht — Marktabgrenzungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ssnip: Schriftsatz-, Brief- und Memo-Bausteine

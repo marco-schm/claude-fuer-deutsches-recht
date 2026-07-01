@@ -1,6 +1,6 @@
 ---
 name: asylg-dokumentenmatrix-und-lueckenliste
-description: "Asylg: Dokumentenmatrix, Lückenliste und Nachforderung: Asylg: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Wenn es um Asylg: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Asylg: Dokumentenmatrix, Lückenliste und Nachforderung

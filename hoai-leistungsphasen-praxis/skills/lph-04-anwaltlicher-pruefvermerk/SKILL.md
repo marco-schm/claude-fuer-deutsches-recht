@@ -1,6 +1,6 @@
 ---
 name: lph-04-anwaltlicher-pruefvermerk
-description: "HOAI LPH 4 Genehmigungsplanung: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 4 Genehmigungsplanung: Erstellt anwaltliches kurzmemorandum zum lph-stand in HOAI Leistungsphasen Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # LPH 4 Genehmigungsplanung: Erstellt anwaltliches kurzmemorandum zum lph-stand

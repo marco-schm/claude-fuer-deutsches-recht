@@ -1,6 +1,6 @@
 ---
 name: pdfs-compliance-dokumentation-und-akte
-description: "Pdfs: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Pdfs: Compliance-Dokumentation und Aktenvermerk in Barrierefreiheit Web Checker geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Pdfs: Compliance-Dokumentation und Aktenvermerk

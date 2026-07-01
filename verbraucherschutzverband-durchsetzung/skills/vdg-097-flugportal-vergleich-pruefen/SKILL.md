@@ -1,6 +1,6 @@
 ---
 name: vdg-097-flugportal-vergleich-pruefen
-description: "Verbraucherschutzverband Durchsetzung: Flugportal: Vergleich prüfen. Vergleich prüfen für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Flugportal Vergleich Pruefen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Flugportal Vergleich Pruefen

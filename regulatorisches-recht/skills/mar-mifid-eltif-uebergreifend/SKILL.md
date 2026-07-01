@@ -1,6 +1,6 @@
 ---
 name: mar-mifid-eltif-uebergreifend
-description: "MAR-MiFID-ELTIF uebergreifend: Insiderhandel, Marktmanipulation, Geeignetheit, ELTIF 2.0 Retail-Vertrieb. Prüfraster ueber alle drei Regelwerke für einen typischen Produktentwicklungsfall. Schnittstellen und Konfliktpunkte im Regulatorisches Recht."
+description: "Wenn es um MAR und MiFID und ELTIF in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # MAR und MiFID und ELTIF

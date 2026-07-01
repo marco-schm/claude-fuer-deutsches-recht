@@ -1,6 +1,6 @@
 ---
 name: berufsrechtskonform-verhandlung-vergleich-und-eskalation
-description: "Berufsrechtskonform: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Berufsrechtskonform: Verhandlung, Vergleich und Eskalation in E-Mail-Umformulierer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Berufsrechtskonform: Verhandlung, Vergleich und Eskalation

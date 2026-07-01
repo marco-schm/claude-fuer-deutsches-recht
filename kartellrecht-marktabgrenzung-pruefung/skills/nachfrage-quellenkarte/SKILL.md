@@ -1,6 +1,6 @@
 ---
 name: nachfrage-quellenkarte
-description: "Nachfrage Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Nachfrage Quellenkarte in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Nachfrage Quellenkarte

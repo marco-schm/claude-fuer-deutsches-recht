@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für JVEG-Kostenprüfer: stimmt Adressat (Sachverständiger, Gericht, Bezirksrevisor), Frist (Entschädigungsantrag binnen 3 Monaten) und Form auf den Zweck ab — typische Outputs: JVEG-Prüfung, Erinnerung gegen Festsetzung, Beschwerde."
+description: "Wenn es um Output wählen in JVEG-Kostenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

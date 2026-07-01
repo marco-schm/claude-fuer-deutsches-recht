@@ -1,6 +1,6 @@
 ---
 name: informationszugang-sachsen-livecheck-anhalt-schleswig
-description: "Informationsfreiheit und Presseauskunft: Informationszugang Sachsen Livecheck. Informationszugang Sachsen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: prüf..."
+description: "Wenn es um Informationszugang Sachsen Livecheck in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Informationszugang Sachsen Livecheck

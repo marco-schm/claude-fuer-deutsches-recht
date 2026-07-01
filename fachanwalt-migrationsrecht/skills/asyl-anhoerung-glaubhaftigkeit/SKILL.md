@@ -1,6 +1,6 @@
 ---
 name: asyl-anhoerung-glaubhaftigkeit
-description: "Asylanhörung/Glaubhaftigkeit: Fachmodul im Migrationsrecht: bereitet Kernschilderung, Widersprüche, Chronologie und Beweismittel vor; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellenc..."
+description: "Wenn es um Asylanhörung/Glaubhaftigkeit: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Asylanhörung/Glaubhaftigkeit: Fachmodul im Migrationsrecht

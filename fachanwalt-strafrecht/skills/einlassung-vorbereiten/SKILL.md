@@ -1,6 +1,6 @@
 ---
 name: einlassung-vorbereiten
-description: "Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweigen § 136 StPO: Schweigerecht ist Grundrecht und darf nicht nachteilig gewertet werden BGH st. Rspr. Aber Teils..."
+description: "Wenn es um Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweigen Paragraf 136 StPO in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweigen § 136 StPO

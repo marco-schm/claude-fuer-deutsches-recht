@@ -1,6 +1,6 @@
 ---
 name: bei-eingetretener-zahlungsunfaehigkeit
-description: "Liquiditaetsplanung bei eingetretener Zahlungsunfaehigkeit § 17 InsO: 3-Wochen-Vorschau zur Prüfung Insolvenzantragspflicht, Liquiditaetsluecke kleiner 10 Prozent + Schliessung binnen 3 Wochen waere Liquiditaetsstockung. Prüfraster BGH II ZR 296/05."
+description: "Wenn es um Liqui: eingetretene ZU in Liquiditätsplanung — Power geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Liqui: eingetretene ZU

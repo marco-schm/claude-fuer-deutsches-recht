@@ -1,6 +1,6 @@
 ---
 name: hinterbliebene-rente-einkommen
-description: "Prüft Witwen-, Witwer- und Waisenrente: Sterbevierteljahr, kleine oder große Rente, Einkommensanrechnung, eigene Rente, Betriebsrente, KVdR und Bescheidkorrektur."
+description: "Wenn es um Hinterbliebenenrente und Einkommen in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Hinterbliebenenrente und Einkommen

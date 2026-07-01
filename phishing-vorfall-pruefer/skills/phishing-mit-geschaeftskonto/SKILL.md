@@ -1,6 +1,6 @@
 ---
 name: phishing-mit-geschaeftskonto
-description: "Phishing gegen Geschäftskonto: keine Verbraucherregeln § 675f BGB, ggf. abweichende AGB der Bank, hoehere Sorgfaltsanforderungen. Prüfraster: Haftung Geschäftsführer für Organisationsverschulden gegenueber Gesellschaft im Phishing Vorfall Prüfer."
+description: "Wenn es um Phishing gegen Geschäftskonto in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Phishing gegen Geschäftskonto

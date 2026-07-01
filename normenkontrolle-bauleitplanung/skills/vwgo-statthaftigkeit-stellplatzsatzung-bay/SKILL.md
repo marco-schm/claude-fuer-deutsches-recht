@@ -1,6 +1,6 @@
 ---
 name: vwgo-statthaftigkeit-stellplatzsatzung-bay
-description: "VwGO: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um VwGO: Schriftsatz-, Brief- und Memo-Bausteine in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vwgo Statthaftigkeit Stellplatzsatzung Bay; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # VwGO: Schriftsatz-, Brief- und Memo-Bausteine

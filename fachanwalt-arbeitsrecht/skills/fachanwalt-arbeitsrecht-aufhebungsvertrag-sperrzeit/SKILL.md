@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit
-description: "Aufhebungsvertrag mit Sperrzeit-Vermeidung nach Paragraf 159 SGB III bei Eigeninitiative oder drohender Kündigung. Anwendungsfall Arbeitgeber und Arbeitnehmer wollen Arbeitsverhältnis auflösen ohne Sperrzeit für Arbeitslosengeld. Normen Paragraf 159 SGB III wichtiger Grund Sperrzeitentscheidung Paragraf 623 BGB Schriftform Paragraf 14 KSchG Klagefrist. Prüfraster Initiativseite wichtiger Grund Abfindung Steuerpflicht Fuenftelregelung Krankenversicherung Wettbewerbsverbot Outplacement. Output Aufhebungsvertrags-Entwurf mit Sperrzeitlegitimerung Steuerklauseln und Verhandlungsstrategie. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg."
+description: "Wenn es um Aufhebungsvertrag mit Sperrzeit-Vermeidung in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufhebungsvertrag mit Sperrzeit-Vermeidung

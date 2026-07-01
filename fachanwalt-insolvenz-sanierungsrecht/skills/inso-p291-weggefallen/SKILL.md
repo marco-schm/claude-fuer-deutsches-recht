@@ -1,6 +1,6 @@
 ---
 name: inso-p291-weggefallen
-description: "§ 291 InsO ist im aktuellen Normtext weggefallen: Der Skill hilft, Altakten, Übergangsfälle und Nachfolgeregelungen ohne falsche Altfassungsübernahme einzuordnen."
+description: "Wenn es um Paragraf 291 InsO ist im aktuellen Normtext weggefallen in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # § 291 InsO ist im aktuellen Normtext weggefallen

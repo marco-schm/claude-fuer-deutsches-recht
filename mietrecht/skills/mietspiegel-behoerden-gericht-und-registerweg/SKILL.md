@@ -1,6 +1,6 @@
 ---
 name: mietspiegel-behoerden-gericht-und-registerweg
-description: "Mietspiegel: Behörden-, Gerichts- oder Registerweg im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht."
+description: "Wenn es um Mietspiegel: Behörden-, Gerichts- oder Registerweg in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietspiegel: Behörden-, Gerichts- oder Registerweg

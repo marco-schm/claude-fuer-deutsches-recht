@@ -1,6 +1,6 @@
 ---
 name: wenn-prognose-negativ-naechste-schritte
-description: "Wenn die Fortbestehensprognose negativ ausfaellt — Eskalations- und Pflichtenkatalog für den Geschäftsleiter: Antragspflicht § 15a InsO sechs Woche..."
+description: "Wenn es um Wenn Prognose Negativ Naechste Schritte in Fortbestehensprognose geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Wenn die Fortbestehensprognose negativ ausfaellt — Eskalations- und Pflichtenkatalog für den Geschäftsleiter

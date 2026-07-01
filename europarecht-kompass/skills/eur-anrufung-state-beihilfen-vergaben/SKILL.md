@@ -1,6 +1,6 @@
 ---
 name: eur-anrufung-state-beihilfen-vergaben
-description: "Anrufung EU-Petitionsausschuss: Voraussetzungen Art. 227 AEUV, Form, Sprache, Inhalt, Beispielfaelle. Prüfraster und Mustertext. Alternative zu Klage Art. 263 / 265 AEUV bei strategischen Anliegen im Europarecht Kompass."
+description: "Wenn es um EU: Petitionsausschuss in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU: Petitionsausschuss

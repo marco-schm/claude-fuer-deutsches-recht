@@ -1,6 +1,6 @@
 ---
 name: executive-summary-onepager
-description: "Executive Summary und Onepager für Board, Investment Committee und Partner: verdichtet komplexe M&A-Befunde in klare, entscheidbare, nicht ueberverkaufte Kurzformate: Executive Summary und Onepager für Board, Investment Committee und Partner: verdichtet ko..."
+description: "Wenn es um Executive Summary Onepager in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Executive Summary und Onepager für Board, Investment Committee und Partner: verdichtet komplexe M&A-Befunde in klare, entscheidbare, nicht ueberverkaufte Kurzformate.

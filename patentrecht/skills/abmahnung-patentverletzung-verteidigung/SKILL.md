@@ -1,6 +1,6 @@
 ---
 name: abmahnung-patentverletzung-verteidigung
-description: "Verteidigt gegen Patentabmahnungen: Fristen, Unterlassungserklärung, Registerstand, Anspruchsfassung, Nichtverletzung, Rechtsbestand, Vorbenutzungsrecht, Schutzschrift, Vergleich und Mandantenkommunikation im Patentrecht."
+description: "Wenn es um Patentabmahnung verteidigen in patentrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentabmahnung verteidigen

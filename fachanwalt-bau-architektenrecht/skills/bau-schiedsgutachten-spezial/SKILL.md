@@ -1,6 +1,6 @@
 ---
 name: bau-schiedsgutachten-spezial
-description: "Spezialfall Schiedsgutachten in Bauvertraegen: §§ 317 ff: BGB analog, vereinbarte Verbindlichkeit, Inhaltsbestimmung gegen Tatsachenermittlung. SOBau-Regeln, DIS-Schiedsgutachten, einstweilige Verfue..."
+description: "Wenn es um Bau Schiedsgutachten Spezial in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Schiedsgutachten in Bauvertraegen: §§ 317 ff

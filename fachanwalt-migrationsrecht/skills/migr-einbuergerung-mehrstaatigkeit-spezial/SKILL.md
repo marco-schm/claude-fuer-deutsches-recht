@@ -1,6 +1,6 @@
 ---
 name: migr-einbuergerung-mehrstaatigkeit-spezial
-description: "Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform StAG 2024: verkuerzte Fristen, Mehrstaatigkeit, besondere Integrationsleistung: Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform StAG 2024: verkuerzte Fristen, Mehrstaatigkeit, besondere Int..."
+description: "Wenn es um Migr Einbuergerung Mehrstaatigkeit Spezial in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform StAG 2024: verkuerzte Fristen, Mehrstaatigkeit, besondere Integrationsleistung

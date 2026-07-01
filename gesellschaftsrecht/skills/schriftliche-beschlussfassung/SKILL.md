@@ -1,6 +1,6 @@
 ---
 name: schriftliche-beschlussfassung
-description: "Entwirft Beschlüsse im schriftlichen Verfahren (Paragraf 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse Präsenz oder virtuelle HV (Paragraf 118a AktG) erfordern und notariell beurkundet werden (Paragraf 130 AktG); Umlaufverfahren bei A..."
+description: "Wenn es um Beschluss im schriftlichen Verfahren / Umlaufbeschluss in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschluss im schriftlichen Verfahren / Umlaufbeschluss

@@ -1,6 +1,6 @@
 ---
 name: lease-041-einstweiliger-rechtsschutz-herausgabe-leasingobjekt
-description: "Leasingrecht: Einstweiliger Rechtsschutz Herausgabe Leasingobjekt mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Einstweiliger Rechtsschutz Herausgabe Leasingobjekt in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Einstweiliger Rechtsschutz Herausgabe Leasingobjekt

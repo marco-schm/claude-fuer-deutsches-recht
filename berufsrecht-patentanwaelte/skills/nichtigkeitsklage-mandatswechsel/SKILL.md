@@ -1,6 +1,6 @@
 ---
 name: nichtigkeitsklage-mandatswechsel
-description: "Patentanwälte: nichtigkeitsklage mandatswechsel - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Nichtigkeitsklage Mandatswechsel in Berufsrecht Patentanwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Patentanwälte: nichtigkeitsklage mandatswechsel - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

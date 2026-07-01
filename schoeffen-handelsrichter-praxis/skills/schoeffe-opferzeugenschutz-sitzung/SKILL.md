@@ -1,6 +1,6 @@
 ---
 name: schoeffe-opferzeugenschutz-sitzung
-description: "Opfer- und Zeugenschutz (Sitzungspraxis): hilft ehrenamtlichen Richtern bei belastete Zeugen, Nebenklage, Ausschluss Öffentlichkeit und respektvolle Befragung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Opfer- und Zeugenschutz: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Opfer- und Zeugenschutz: Sitzungspraxis

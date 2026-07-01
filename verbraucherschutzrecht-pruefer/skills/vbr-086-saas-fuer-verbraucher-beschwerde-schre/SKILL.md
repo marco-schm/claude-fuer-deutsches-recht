@@ -1,6 +1,6 @@
 ---
 name: vbr-086-saas-fuer-verbraucher-beschwerde-schre
-description: "Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Beschwerde schreiben. Beschwerde schreiben für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Saas Fuer Verbraucher Beschwerde Schre in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Saas Fuer Verbraucher Beschwerde Schre

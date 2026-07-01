@@ -1,6 +1,6 @@
 ---
 name: lph-01-input-und-zielcheck
-description: "HOAI LPH 1 Grundlagenermittlung: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 1 Grundlagenermittlung: Prüft eingaben in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # LPH 1 Grundlagenermittlung: Prüft eingaben

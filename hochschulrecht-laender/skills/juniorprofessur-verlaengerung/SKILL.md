@@ -1,6 +1,6 @@
 ---
 name: juniorprofessur-verlaengerung
-description: "Prüft Verlängerung, Evaluation, Mutterschutz/Elternzeit und Befristungsgrenzen im Hochschulrecht Länder."
+description: "Wenn es um Juniorprofessur Verlängerung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Juniorprofessur Verlängerung

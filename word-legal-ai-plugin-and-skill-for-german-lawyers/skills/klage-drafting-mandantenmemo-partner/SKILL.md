@@ -1,6 +1,6 @@
 ---
 name: klage-drafting-mandantenmemo-partner
-description: "Drafting einer Klageschrift nach § 253 Abs. 2 ZPO. Bestimmter Antrag plus Sachverhaltsdarstellung mit Rechtsschutzbegehren und Streitgegenstand. Aufbau: Rubrum (Parteien, Vertretung, Anschriften, Gericht), Anträge (Zahlung, Feststellung, Hilfsantrag), tatsächliches Vorbringen chronologisch oder t..."
+description: "Wenn es um Klage-Drafting nach Paragraf 253 ZPO in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klage-Drafting nach § 253 ZPO

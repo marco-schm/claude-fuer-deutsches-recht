@@ -1,6 +1,6 @@
 ---
 name: sachsen-spezial-montanregion-erzgebirge-muskauer-park
-description: "Saechsische Besonderheit: Montanregion Erzgebirge / Krusnohori (Welterbe seit 2019, gemeinsam mit Tschechien) und Muskauer Park / Park Muzakowski (Welterbe seit 2004, gemeinsam mit Polen). Skill ordnet die grenzueberschreitende Verfahrenspraxis, die Schutzpraxis fuer bergbauliche Anlagen und Halden und das Verhaeltnis zur Braunkohle-Strukturwandel-Politik."
+description: "Wenn es um Montanregion Erzgebirge und Muskauer Park als UNESCO-Welterbe in Sachsen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Montanregion Erzgebirge und Muskauer Park als UNESCO-Welterbe in Sachsen

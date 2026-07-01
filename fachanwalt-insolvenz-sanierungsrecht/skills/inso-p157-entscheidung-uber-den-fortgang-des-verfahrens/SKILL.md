@@ -1,6 +1,6 @@
 ---
 name: inso-p157-entscheidung-uber-den-fortgang-des-verfahrens
-description: "§ 157 InsO (Entscheidung über den Fortgang des Verfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 157 InsO (Entscheidung über den Fortgang des Verfahrens) im Mandat prüfen: Normzw..."
+description: "Wenn es um Inso P157 Entscheidung Uber Den Fortgang Des Verfahrens in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 157 InsO (Entscheidung über den Fortgang des Verfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

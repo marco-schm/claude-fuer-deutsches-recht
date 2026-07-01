@@ -1,6 +1,6 @@
 ---
 name: cartel-dawn-raid
-description: "Behandelt Kartellrechtsdurchsuchungen durch Bundeskartellamt oder EU-Kommission – Mitwirkungspflichten, Leniency, Privilege, Kronzeugenantrag im Internal Investigations Praxis."
+description: "Wenn es um Kartell-Dawn-Raid und Leniency in Internal Investigations Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kartell-Dawn-Raid und Leniency

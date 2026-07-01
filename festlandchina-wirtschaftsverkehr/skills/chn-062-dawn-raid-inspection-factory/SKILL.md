@@ -1,6 +1,6 @@
 ---
 name: chn-062-dawn-raid-inspection-factory
-description: "Festlandchina Wirtschaftsverkehr: Dawn Raid Inspection Factory. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Dawn Raid Inspection Factory in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dawn Raid Inspection Factory

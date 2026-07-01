@@ -1,6 +1,6 @@
 ---
 name: organrollen-vorstand-aufsichtsrat-versammlungsleiter
-description: "Hauptversammlung AG und SE: Organrollen Vorstand Aufsichtsrat Versammlungsleiter; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtspre..."
+description: "Wenn es um Organrollen Vorstand Aufsichtsrat Versammlungsleiter in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Organrollen Vorstand Aufsichtsrat Versammlungsleiter

@@ -1,6 +1,6 @@
 ---
 name: us-auftrag
-description: "Steuert das US-Discovery-Risiko bei Internal Investigations – FRCP, Attorney-Client Privilege, Work Product, Litigation Hold im Internal Investigations Praxis."
+description: "Wenn es um US-Discovery in Cross-Border Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # US-Discovery in Cross-Border Investigations

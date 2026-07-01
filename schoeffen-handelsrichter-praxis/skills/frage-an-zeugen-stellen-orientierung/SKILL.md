@@ -1,6 +1,6 @@
 ---
 name: frage-an-zeugen-stellen-orientierung
-description: "Fragen an Zeugen stellen (Orientierung): hilft ehrenamtlichen Richtern bei Fragerecht, suggestive Fragen, Schutz von Zeugen und Sitzungsdisziplin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Fragen an Zeugen stellen: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fragen an Zeugen stellen: Orientierung

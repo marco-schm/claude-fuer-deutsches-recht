@@ -1,6 +1,6 @@
 ---
 name: lph-05-mandantenbericht
-description: "HOAI LPH 5 Ausführungsplanung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Lph 05 Mandantenbericht in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # LPH 5 Ausführungsplanung: Erstellt verständlichen statusbericht mit ampel und nächstem schritt

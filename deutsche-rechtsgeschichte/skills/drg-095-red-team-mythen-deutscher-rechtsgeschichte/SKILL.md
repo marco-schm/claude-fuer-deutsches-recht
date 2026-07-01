@@ -1,6 +1,6 @@
 ---
 name: drg-095-red-team-mythen-deutscher-rechtsgeschichte
-description: "Deutsche Rechtsgeschichte: Red Team Mythen Deutscher Rechtsgeschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Red Team Mythen Deutscher Rechtsgeschichte in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red Team Mythen Deutscher Rechtsgeschichte

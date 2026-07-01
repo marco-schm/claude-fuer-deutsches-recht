@@ -1,6 +1,6 @@
 ---
 name: data-cyber-ai-dd
-description: "Prüft personenbezogene Daten, Cybervorfälle, KI-Systeme, SaaS-Verträge, Open Source und IT-Abhängigkeiten im Private Equity Praxis."
+description: "Wenn es um Data, Cyber und digitale Werkzeuge Due Diligence in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Data, Cyber und AI Due Diligence

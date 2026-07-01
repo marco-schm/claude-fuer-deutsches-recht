@@ -1,6 +1,6 @@
 ---
 name: kassenpruefung-kreisverband
-description: "Wahlkampfrecht Praxis: Kreisverbaenden bei sauberer Kasse waehrend intensiver Kampagnen helfen im Wahlkampfrecht."
+description: "Wenn es um Kassenpruefung Kreisverband in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kassenpruefung Kreisverband

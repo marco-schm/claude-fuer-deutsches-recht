@@ -1,6 +1,6 @@
 ---
 name: critical-vendors
-description: "Prüft critical-vendor payments, necessity doctrine, § 503(b)(9), trade leverage and first-day order risk im US Bankruptcy Code."
+description: "Wenn es um Critical Vendors in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Critical Vendors

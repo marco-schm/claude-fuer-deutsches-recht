@@ -1,6 +1,6 @@
 ---
 name: data-protection-dpa-software
-description: "Prüft AVV/DPA, Rollen, Subprozessoren, TOMs, Drittlandtransfer, Telemetrie und Produktdaten im Softwarerecht De Eu Us."
+description: "Wenn es um DPA und Datenschutz im Softwarevertrag in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DPA und Datenschutz im Softwarevertrag

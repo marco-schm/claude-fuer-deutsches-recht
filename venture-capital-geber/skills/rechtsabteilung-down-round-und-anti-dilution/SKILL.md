@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-down-round-und-anti-dilution
-description: "Rechtsabteilungs-Fachmodul für Down Round und Anti-Dilution: Weighted Average, Full Ratchet und Cap Table werden rechtlich und wirtschaftlich übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Venture Capital (Geber): prüft konkret die einschlägigen Tatbesta..."
+description: "Wenn es um Rechtsabteilung: Down Round und Anti-Dilution in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Rechtsabteilung: Down Round und Anti-Dilution

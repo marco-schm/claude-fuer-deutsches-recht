@@ -1,6 +1,6 @@
 ---
 name: inklusion-sgb-schnittstelle
-description: "Verknüpft Schule mit Eingliederungshilfe und Schulbegleitung im Schulrecht Länder."
+description: "Wenn es um Inklusion Sgb Schnittstelle in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Inklusion Sgb Schnittstelle

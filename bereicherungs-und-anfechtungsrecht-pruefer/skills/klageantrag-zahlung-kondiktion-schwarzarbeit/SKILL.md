@@ -1,6 +1,6 @@
 ---
 name: klageantrag-zahlung-kondiktion-schwarzarbeit
-description: "Anwendungsfall: aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Form..."
+description: "Wenn es um Klageantrag: Zahlung, Herausgabe, Zug um Zug in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Klageantrag Zahlung Kondiktion Schwarzarbeit; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # Klageantrag: Zahlung, Herausgabe, Zug um Zug

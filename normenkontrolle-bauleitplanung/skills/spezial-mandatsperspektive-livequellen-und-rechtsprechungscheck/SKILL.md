@@ -1,6 +1,6 @@
 ---
 name: spezial-mandatsperspektive-livequellen-und-rechtsprechungscheck
-description: "Mandatsperspektive: Livequellen- und Rechtsprechungscheck im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Mandatsperspektive: Livequellen- und Rechtsprechungscheck in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandatsperspektive: Livequellen- und Rechtsprechungscheck

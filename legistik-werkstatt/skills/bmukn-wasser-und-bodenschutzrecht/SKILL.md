@@ -1,6 +1,6 @@
 ---
 name: bmukn-wasser-und-bodenschutzrecht
-description: "Sachbereich Wasser- und Bodenschutzrecht im Geschäftsbereich BMUKN: Normbestand (WHG; LWGs; BBodSchG; BBodSchV; AwSV; DueV; KrWG-Bezuege.); Akteure (UBA; BfG; Länder-Wasserbehoerden; LAWA.); EU-Bezug (Wasserrahmen-RL; Grundwasser-RL; Nitrat-RL; Meeresstrategie-RL.); typische Legistik-Aufgaben un"
+description: "Wenn es um Wasser- und Bodenschutzrecht (BMUKN) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Bmukn Wasser Und Bodenschutzrecht; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Wasser- und Bodenschutzrecht (BMUKN)

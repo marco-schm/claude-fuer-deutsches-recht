@@ -1,6 +1,6 @@
 ---
 name: steuerhinterziehung-370-ao
-description: "Strafrechtlicher Skill zu § 370 AO — Tatbestand Vorsatz Steuerverkuerzung Steuervorteil Konkurrenzen Versuchsstrafbarkeit und besonders schwere Faelle. Anwendungsfall Mandant erhaelt Vorladung Durchsuchungsbeschluss oder Anklage wegen Steuerhinterziehung. Behandelt Tathandlungen § 370 Abs. 1 Nr...."
+description: "Wenn es um Steuerhinterziehung — Paragraf 370 AO Tatbestand und Verteidigung in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Steuerhinterziehung — § 370 AO Tatbestand und Verteidigung

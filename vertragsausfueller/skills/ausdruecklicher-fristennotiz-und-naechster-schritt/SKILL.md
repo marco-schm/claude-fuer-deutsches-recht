@@ -1,6 +1,6 @@
 ---
 name: ausdruecklicher-fristennotiz-und-naechster-schritt
-description: "Ausdruecklicher: Fristennotiz und nächster Schritt im Vertragsausfueller. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Ausdruecklicher: Fristennotiz und nächster Schritt in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausdruecklicher: Fristennotiz und nächster Schritt

@@ -1,6 +1,6 @@
 ---
 name: model-release-persoenlichkeitsrechte
-description: "Model Release und Persönlichkeitsrechte prüfen: Nutzungsumfang, Territory, Dauer, Buyout, Social Media, KI-Nutzung, Retusche und Widerruf im Fashion Law Moderecht."
+description: "Wenn es um Model Release Persoenlichkeitsrechte in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Model Release Persoenlichkeitsrechte

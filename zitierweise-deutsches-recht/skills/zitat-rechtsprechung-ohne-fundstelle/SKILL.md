@@ -1,6 +1,6 @@
 ---
 name: zitat-rechtsprechung-ohne-fundstelle
-description: "Rechtsprechung ohne amtliche/freie Fundstelle behandeln: Gericht Datum Aktenzeichen sichern, freie Quelle suchen, Datenbanknummern nur als Nutzerquelle/Lizenzfund vermerken und nicht als tragenden Ersatz verwenden."
+description: "Wenn es um Rechtsprechung ohne amtl. Fundstelle in Zitierweise deutsches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsprechung ohne amtl. Fundstelle

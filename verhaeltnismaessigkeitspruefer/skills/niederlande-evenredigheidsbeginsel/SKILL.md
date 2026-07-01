@@ -1,6 +1,6 @@
 ---
 name: niederlande-evenredigheidsbeginsel
-description: Niederlaendische Verhältnismäßigkeitsdogmatik mit Evenredigheidsbeginsel nach Art 3 4 Awb seit Maxis Praxis ABRvS 2 februari 2022 ECLI NL RVS 2022 285 als Drei-Stufen-Prüfung Geschiktheid Noodzakelijkheid Evenwichtigheid mit variabler Toetsingsintensiteit. Mit Hinweis auf das Verbot der Verfassungspruefung Art 120 Gw die Rezeption von EMRK und Charta sowie auf Hoge Raad-Linien und Strukturunterschiede zur deutschen Schranken-Schranke.
+description: "Wenn es um Niederlande Evenredigheidsbeginsel in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Niederlande Evenredigheidsbeginsel

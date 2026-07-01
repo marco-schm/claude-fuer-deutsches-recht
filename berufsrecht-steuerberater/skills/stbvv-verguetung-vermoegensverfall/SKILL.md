@@ -1,6 +1,6 @@
 ---
 name: stbvv-verguetung-vermoegensverfall
-description: "Steuerberater: stbvv vergütung und transparenz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Stbvv Verguetung Vermoegensverfall in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Steuerberater: stbvv vergütung und transparenz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

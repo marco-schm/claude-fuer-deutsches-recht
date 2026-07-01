@@ -1,6 +1,6 @@
 ---
 name: profimodus-schnelltriage
-description: "Solo-Selbstständige: liefert Kurztriage für erfahrene Selbstständige mit Prioritäten und roten Linien; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Profimodus Schnelltriage in Solo-Selbstständige Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart und Orientierung: Liefert kurztriage für erfahrene selbstständige mit prioritäten und roten linien

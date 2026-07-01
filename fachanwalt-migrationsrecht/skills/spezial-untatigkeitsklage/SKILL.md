@@ -1,6 +1,6 @@
 ---
 name: spezial-untatigkeitsklage
-description: "Untätigkeitsklage: Spezial-Skill im Migrationsrecht; prüft Antrag, Sperrfrist, zureichender Grund, Klageziel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Untätigkeitsklage in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Untätigkeitsklage

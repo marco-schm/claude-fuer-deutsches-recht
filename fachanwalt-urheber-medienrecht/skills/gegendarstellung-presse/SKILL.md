@@ -1,6 +1,6 @@
 ---
 name: gegendarstellung-presse
-description: "Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren: §§ 10 ff. LPG Art. 5 GG. Prüfraster: Tatsachenbehauptung Erstmitteilung Fristen Form Umfang A..."
+description: "Wenn es um Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren

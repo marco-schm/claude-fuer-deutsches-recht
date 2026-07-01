@@ -1,6 +1,6 @@
 ---
 name: inso-restschuldbefreiung-und-versagungsgruende
-description: "Restschuldbefreiung Verbraucher und Unternehmer: 3 Jahre Wohlverhaltensphase seit 2020, Versagungsgruende § 290 InsO (Verurteilung wegen Insolvenzstraftat, Vermögensverschwendung, falsche Angaben). Prüfraster und Mandantenleitfaden im Insolvenzrecht."
+description: "Wenn es um InsO: Restschuldbefreiung in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # InsO: Restschuldbefreiung

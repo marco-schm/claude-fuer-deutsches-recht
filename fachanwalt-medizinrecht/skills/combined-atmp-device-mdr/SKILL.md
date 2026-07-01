@@ -1,6 +1,6 @@
 ---
 name: combined-atmp-device-mdr
-description: "Kombiniertes ATMP mit Medizinprodukt: moderner Medizinrechts-Skill für ATMP mit Scaffold, Implantat, Katheter, Software oder Applikationsgerät und doppelter Regulierungslogik: Kombiniertes ATMP mit Medizinprodukt: moderner Medizinrechts-Skill für ATMP mit S..."
+description: "Wenn es um Combined Atmp Device Mdr in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kombiniertes ATMP mit Medizinprodukt: moderner Medizinrechts-Skill für ATMP mit Scaffold, Implantat, Katheter, Software oder Applikationsgerät und doppelter Regulierungslogik

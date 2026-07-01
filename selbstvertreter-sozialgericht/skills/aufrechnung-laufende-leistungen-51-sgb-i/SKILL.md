@@ -1,6 +1,6 @@
 ---
 name: aufrechnung-laufende-leistungen-51-sgb-i
-description: "Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill klaert wann der Sozialleistungstraeger eine Rueckforderung mit laufenden Leistungen aufrechnen darf Grenzen Pfaendungsfreigrenze Anhörung. Liefert Verteidigungsbausteine."
+description: "Wenn es um Aufrechnung Laufende Leistungen 51 Sgb I in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufrechnung Laufende Leistungen 51 Sgb I

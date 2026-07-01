@@ -120,18 +120,18 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `01-zulaessigkeit-finanzgerichtsklage` | Zulässigkeit der Klage Paragrafen 40-65 FGO: Klagearten (Anfechtung Verpflichtung Feststellung Untaetigkeit), Vorverfahren Einspruch nach Paragraf 347 AO, Klagefrist Paragraf 47 FGO, Klagebefugnis Paragraf 40 Abs. 2 |
-| `02-amtsermittlung-finanzgericht` | Amtsermittlungsgrundsatz Paragraf 76 FGO, Heranziehung der Akten Paragraf 71, Beweismittel, Schaetzungsbefugnis Paragraf 162 AO, Mitwirkungspflicht des Klägers |
-| `03-aussetzung-der-vollziehung` | Aussetzung der Vollziehung Paragraf 69 FGO bzw. Paragraf 361 AO: ernstliche Zweifel an der Rechtmaessigkeit, unbillige Haerte, Sicherheitsleistung, Verfahren |
-| `04-steuerbescheid-pruefen` | Prüfung des angegriffenen Steuerbescheids: formelle Rechtmaessigkeit (Begründung Paragraf 121 AO, Bekanntgabe Paragraf 122), materielle Prüfung der Steuerart |
-| `05-est-pruefungsschema` | Einkommensteuer-Prüfung: Einkunftsart, Einkunftsermittlung (Paragrafen 4 und 5 EStG oder Paragraf 11 EStG), Sonderausgaben, außergewoehnliche Belastungen, Tarif Paragraf 32a EStG |
-| `06-ust-pruefungsschema` | Umsatzsteuer: Steuerbarkeit Paragraf 1 UStG, Steuerpflicht und Steuerbefreiung Paragraf 4, Bemessungsgrundlage Paragraf 10, Vorsteuerabzug Paragraf 15, Rechnungsanforderungen Paragraf 14 |
-| `07-koerperschaft-und-gewerbesteuer` | Körperschaftsteuer: Subjektsteuerpflicht Paragraf 1 KStG, Einkommensermittlung Paragraf 8 KStG i.V.m. EStG, verdeckte Gewinnausschuettung Paragraf 8 Abs. 3; Gewerbesteuer Paragrafen 2 und 7-9 GewStG |
-| `08-schaetzung-und-betriebspruefung` | Schaetzung Paragraf 162 AO als Beweismittel: aeussere und innere Schaetzung, Zeitreihenvergleich, Geldverkehrsrechnung, Chi-Quadrat-Test; Verwertbarkeit aus Betriebsprüfung |
-| `09-urteil-finanzgericht-und-revision` | Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgründe, Tenor; Revision Paragraf 115 FGO an BFH (grundsaetzliche Bedeutung, Fortbildung des Rechts, Divergenz), Nichtzulassungsbeschwerde |
-| `10-entscheidungsvorschlag-finanzgericht` | Strukturierter Entscheidungsvorschlag: Tenor, Prüfungsschema Zulässigkeit Begründetheit, materielle Prüfung der Steuerart, Beweiswürdigung, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert |
-| `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (urteil finanzgericht) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
-| `prozessuale-kniffe-und-rechtsprechungsanker` | Führt öffentlich-rechtliche Verfahrenskniffe zu Amtsermittlung, Gehör, Eilrechtsschutz, Beiladung, Präklusion, Tenor und Begründung zusammen. |
-| `v392-praxisraster-richter-finanzgericht` | Praxisraster für Finanzgericht: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet. |
+| `01-zulaessigkeit-finanzgerichtsklage` | Wenn es um 01 Zulässigkeit Finanzgerichtsklage in Finanzgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `02-amtsermittlung-finanzgericht` | Wenn es um 02 Amtsermittlung Finanzgericht in Finanzgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `03-aussetzung-der-vollziehung` | Wenn es um 03 Aussetzung Der Vollziehung in Finanzgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `04-steuerbescheid-pruefen` | Wenn es um 04 Steuerbescheid Prüfen in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `05-est-pruefungsschema` | Wenn es um 05 ESt Prüfungsschema in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `06-ust-pruefungsschema` | Wenn es um 06 USt Prüfungsschema in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `07-koerperschaft-und-gewerbesteuer` | Wenn es um 07 Körperschaft und Gewerbesteuer in Finanzgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `08-schaetzung-und-betriebspruefung` | Wenn es um 08 Schaetzung und Betriebsprüfung in Finanzgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `09-urteil-finanzgericht-und-revision` | Wenn es um 09 Urteil Finanzgericht und Revision in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `10-entscheidungsvorschlag-finanzgericht` | Wenn es um 10 Entscheidungsvorschlag Finanzgericht in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `99-finale-entscheidung-volltext` | Wenn es um Finale Entscheidung als Volltext (Urteil Finanzgericht) in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Na... |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Finanzgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `v392-praxisraster-richter-finanzgericht` | Wenn es um Praxisraster Finanzgericht in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -1,6 +1,6 @@
 ---
 name: contract-formation-false-friends-governing
-description: "Anwalt oder Mandant will Vertragsschluss-Grundlagen des Common Law verstehen: offer acceptance consideration deed promissory estoppel UCC. Anwendungsfall Transaktionsvertrag oder NDA mit UK/US-Gegenpartei. Prüfraster Consideration-Prüfung Deed-Anforderungen Estoppel-Risiko UCC-Varianten. Output E..."
+description: "Wenn es um Contract Formation und Consideration in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Contract Formation und Consideration

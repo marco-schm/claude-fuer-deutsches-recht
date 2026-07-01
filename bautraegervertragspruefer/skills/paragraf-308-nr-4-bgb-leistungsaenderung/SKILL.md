@@ -1,6 +1,6 @@
 ---
 name: paragraf-308-nr-4-bgb-leistungsaenderung
-description: "Prueft Leistungsaenderungsvorbehalte des Bautraegers nach Paragraf 308 Nummer 4 BGB. Klauseln die dem Bautraeger pauschale Aenderungen an Bausoll, Grundriss, Ausstattung, Energiestandard oder Teilungserklaerung erlauben sind unwirksam wenn keine konkret benannten triftigen Gruende erkennbar sind."
+description: "Wenn es um Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB

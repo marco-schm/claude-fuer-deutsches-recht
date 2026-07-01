@@ -1,6 +1,6 @@
 ---
 name: ihl-019-exw-fca-fob-risiko
-description: "Internationales Handelsrecht und Lex Mercatoria: Exw Fca Fob Risiko. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Exw Fca Fob Risiko in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exw Fca Fob Risiko

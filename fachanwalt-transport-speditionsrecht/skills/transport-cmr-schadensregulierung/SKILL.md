@@ -1,6 +1,6 @@
 ---
 name: transport-cmr-schadensregulierung
-description: "Schadensregulierung im grenzüberschreitenden Gueterverkehr nach CMR durchführen: Normen: Art. 17 ff. 23 ff. CMR. Prüfraster: Schadensanzeige, Haftungsgrenzen 8.33 SZR je Kilogr..."
+description: "Wenn es um Schadensregulierung im grenzüberschreitenden Gueterverkehr nach CMR durchführen in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schadensregulierung im grenzüberschreitenden Gueterverkehr nach CMR durchführen

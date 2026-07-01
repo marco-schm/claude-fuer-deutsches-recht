@@ -1,6 +1,6 @@
 ---
 name: dokumente-uebersetzung-doppelversicherung
-description: "Ausländische Dokumente: Übersetzung, Apostille, Legalisation, Originalnachweis, Namensabweichungen und Archivbeschaffung im Rentenpruefer."
+description: "Wenn es um dokumente-uebersetzung-apostille-legalisation in Rentenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # dokumente-uebersetzung-apostille-legalisation

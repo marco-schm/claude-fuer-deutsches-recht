@@ -1,6 +1,6 @@
 ---
 name: ambulantes-operieren-arbeitszeit
-description: "Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertrag, AOP-Katalog mit Schweregradkontexten, Abrechnung gegenueber KV, Abgrenzung zum stationaeren Aufenthalt und Hybrid-DRG im Krankenhausrecht."
+description: "Wenn es um Ambulantes Operieren Paragraf 115b SGB V in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Ambulantes Operieren § 115b SGB V

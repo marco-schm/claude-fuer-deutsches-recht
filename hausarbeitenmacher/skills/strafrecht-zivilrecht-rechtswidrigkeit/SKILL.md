@@ -1,6 +1,6 @@
 ---
 name: strafrecht-zivilrecht-rechtswidrigkeit
-description: "Strafrecht: Zahlen, Schwellenwerte und Berechnung im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Strafrecht: Zahlen, Schwellenwerte und Berechnung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Strafrecht: Zahlen, Schwellenwerte und Berechnung

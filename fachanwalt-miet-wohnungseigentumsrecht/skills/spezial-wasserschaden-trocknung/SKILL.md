@@ -1,6 +1,6 @@
 ---
 name: spezial-wasserschaden-trocknung
-description: "Wasserschaden/Trocknung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; klärt Ursache, Zutritt, Trocknungsgeräte, Stromkosten, Ersatzwohnraum und Versicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Wasserschaden/Trocknung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wasserschaden/Trocknung

@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-99-bbg-anzeige-genehmigung
-description: "Skill zum Nebentaetigkeitsrecht der Beamten nach §§ 97 ff. BBG bzw. § 40 BeamtStG i.V.m. Landesrecht. Klaert die Unterscheidung anzeigepflichtige und genehmigungspflichtige Nebentaetigkeiten den Versagungs- und Widerrufsgrund das Verbot bestimmter Taetigkeiten sowie die Ablieferungspflicht bei Ne..."
+description: "Wenn es um Nebentaetigkeit Paragraf 99 BBG — Anzeige und Genehmigung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nebentaetigkeit § 99 BBG — Anzeige und Genehmigung

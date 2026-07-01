@@ -1,6 +1,6 @@
 ---
 name: cisg-wesentliche-vertragsverletzung
-description: "Internationales Handelsrecht: Wesentliche Vertragsverletzung nach CISG Art. 25. Vorhersehbarkeitstest, Erheblichkeit des Nachteils und Rechtsfolge (Vertragsaufhebung Art. 49/64 CISG). Abgrenzung zur unwesentlichen Verletzung und Nacherfüllungsrecht im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Wesentliche Vertragsverletzung (CISG Art. 25) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Wesentliche Vertragsverletzung (CISG Art. 25)

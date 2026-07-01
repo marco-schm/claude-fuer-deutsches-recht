@@ -1,6 +1,6 @@
 ---
 name: vergaberecht-forschungsgeraete
-description: "Prüft Beschaffung von Forschungsgeräten, Dringlichkeit, Alleinstellungsmerkmal und Dokumentation im Hochschulrecht Länder."
+description: "Wenn es um Vergaberecht Forschungsgeräte in Hochschulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vergaberecht Forschungsgeräte

@@ -1,6 +1,6 @@
 ---
 name: license-noncompliance-machine-regulation
-description: "Prüft Streit über Lizenzüberschreitung, Audit, Nachlizenzierung, Kündigung und Vergleich im Softwarerecht De Eu Us."
+description: "Wenn es um License Noncompliance Dispute in Softwarerecht Deutschland/EU/International/USA geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # License Noncompliance Dispute

@@ -1,6 +1,6 @@
 ---
 name: analogie-und-teleologische-reduktion
-description: "Rechtsfortbildung im deutschen Zivilrecht jenseits der Wortlaut-Grenze. Voraussetzungen der Analogie (planwidrige Regelungsluecke, vergleichbare Interessenlage). Teleologische Reduktion bei zu weitem Wortlaut. Gesetzes- vs. Rechtsanalogie. Abgrenzung zur Auslegung. Praezise BGB-Beispiele (Drittsc..."
+description: "Wenn es um Analogie und teleologische Reduktion (Rechtsfortbildung) in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Analogie und teleologische Reduktion (Rechtsfortbildung)

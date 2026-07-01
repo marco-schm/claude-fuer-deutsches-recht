@@ -1,6 +1,6 @@
 ---
 name: kostenfeststellungsklage-verzugsschaden-erledigung
-description: "Forderungsklage nach Zahlung oder sonstiger Erledigung retten: prüft Kostenfeststellungsklage als materiellen Verzugsschaden statt reflexhafter Erledigung oder Klagerücknahme. Normen: Paragraf 91a ZPO, Paragraf 269 Abs. 3 S. 3 ZPO, Paragrafen 263 sowie 264 und 256 ZPO sowie Paragrafen 280 und 286 BGB."
+description: "Wenn es um Kostenfeststellungsklage nach Zahlung auf die Forderung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kostenfeststellungsklage nach Zahlung auf die Forderung

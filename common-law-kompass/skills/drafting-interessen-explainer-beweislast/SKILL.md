@@ -1,6 +1,6 @@
 ---
 name: drafting-interessen-explainer-beweislast
-description: "Drafting: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Drafting: Mehrparteienkonflikt und Interessenmatrix in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drafting: Mehrparteienkonflikt und Interessenmatrix

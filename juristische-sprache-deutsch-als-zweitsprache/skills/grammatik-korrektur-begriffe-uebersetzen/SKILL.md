@@ -1,6 +1,6 @@
 ---
 name: grammatik-korrektur-begriffe-uebersetzen
-description: "Hilft bei Grammatik Korrektur Ohne Inhaltsverlust für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache."
+description: "Wenn es um Grammatik Korrektur Ohne Inhaltsverlust in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grammatik Korrektur Ohne Inhaltsverlust

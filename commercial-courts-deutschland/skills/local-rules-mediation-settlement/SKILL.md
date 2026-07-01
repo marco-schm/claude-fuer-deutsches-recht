@@ -1,6 +1,6 @@
 ---
 name: local-rules-mediation-settlement
-description: "Erstellt Live-Check zu Landesrecht, Geschäftsverteilung, Commercial-Court-Guidelines und Gerichts-Webseite vor jeder Einreichung im Commercial Courts Deutschland."
+description: "Wenn es um Local Rules in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Local Rules

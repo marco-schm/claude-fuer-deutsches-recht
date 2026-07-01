@@ -1,6 +1,6 @@
 ---
 name: wahlordnung-intern-wahlvorschlag-bundestag
-description: "Regelt geheime Wahl, Kandidaturen, Vorstellung, Stimmzettel, Auszählung, Stichwahl, Wahlanfechtung im Parteienrecht."
+description: "Wenn es um Interne Wahlordnung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Wahlordnung Intern Wahlvorschlag Bundestag; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Interne Wahlordnung

@@ -1,6 +1,6 @@
 ---
 name: nachreichen-statt-ausplaudern
-description: "Formuliert Nachreichungsankündigung und verhindert spontane unvollständige Antworten bei unklarer Aktenlage im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Nachreichen statt Ausplaudern in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Nachreichen statt Ausplaudern

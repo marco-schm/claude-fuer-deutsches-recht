@@ -1,6 +1,6 @@
 ---
 name: rang-tabellenauszug-tabellenimport
-description: "Rang: Schriftsatz-, Brief- und Memo-Bausteine im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldungspruefung."
+description: "Wenn es um Rang: Schriftsatz-, Brief- und Memo-Bausteine in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rang: Schriftsatz-, Brief- und Memo-Bausteine

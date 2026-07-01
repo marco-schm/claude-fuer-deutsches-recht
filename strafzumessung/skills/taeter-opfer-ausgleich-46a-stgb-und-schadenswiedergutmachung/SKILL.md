@@ -1,6 +1,6 @@
 ---
 name: taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung
-description: "Taeter-Opfer-Ausgleich § 46a StGB und Schadenswiedergutmachung als Strafmilderung oder Absehen von Strafe. Nr. 1 Wiedergutmachung gegenueber dem Verletzten erfordert friedensstiftenden kommunikativen Prozess (BGH 4 StR 232/25 vom 20.11.2025). Nr. 2 wesentliche Schadenswiedergutmachung trotz erheb..."
+description: "Wenn es um Taeter-Opfer-Ausgleich und Schadenswiedergutmachung — Paragraf 46a StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Taeter-Opfer-Ausgleich und Schadenswiedergutmachung — § 46a StGB

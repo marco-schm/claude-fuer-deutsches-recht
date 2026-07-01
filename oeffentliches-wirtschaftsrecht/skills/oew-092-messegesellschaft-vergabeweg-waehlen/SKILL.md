@@ -1,6 +1,6 @@
 ---
 name: oew-092-messegesellschaft-vergabeweg-waehlen
-description: "Öffentliches Wirtschaftsrecht: Messegesellschaft: Vergabeweg wählen. Vergabeweg wählen für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Messegesellschaft Vergabeweg Waehlen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Messegesellschaft Vergabeweg Waehlen

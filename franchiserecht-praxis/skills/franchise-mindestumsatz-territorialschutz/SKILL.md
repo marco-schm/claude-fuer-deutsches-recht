@@ -1,6 +1,6 @@
 ---
 name: franchise-mindestumsatz-territorialschutz
-description: "Franchise: Mindestumsatzklauseln und Territorialschutz. Skill behandelt die Vertragsbedingungen zur Mindestumsatzpflicht des Franchisenehmers Konsequenzen bei Nichterreichen Territorialschutz vs. Wettbewerbsverbot. Aktuelle Rechtsprechung. Liefert Prüfraster im Franchiserecht."
+description: "Wenn es um Franchise Mindestumsatz Territorialschutz in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchise Mindestumsatz Territorialschutz

@@ -1,6 +1,6 @@
 ---
 name: honorarabhaengigkeit-non-non
-description: "Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Honorarabhaengigkeit Non Non in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

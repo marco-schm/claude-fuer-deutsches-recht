@@ -1,6 +1,6 @@
 ---
 name: recruiting-interviewfragen-no-go
-description: "Berliner Start-up-HR: Interviewfragen: zulässige Fragen, No-go-Zonen, Dokumentation, Bias-Check und Rückmeldung an Hiring Manager. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Recruiting Interviewfragen No Go in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Recruiting Interviewfragen No Go

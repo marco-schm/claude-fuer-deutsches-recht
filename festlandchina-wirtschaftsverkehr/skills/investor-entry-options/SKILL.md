@@ -1,6 +1,6 @@
 ---
 name: investor-entry-options
-description: "Markteintrittsoptionen für ausländische Investoren in VR China: WFOE (Wholly Foreign-Owned Enterprise), Joint Venture, Representative Office, QFII/RQFII, VIE-Struktur. Vergleich nach Foreign Investment Law (FIL) 2020, Negative List, Genehmigungsverfahren MOFCOM/SAMR, FDI-Screening AWV und EU-VO 2..."
+description: "Wenn es um Investoreintritt China: Optionen und Strukturierungsvergleich in China-Wirtschaftsverkehr geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Investoreintritt China: Optionen und Strukturierungsvergleich

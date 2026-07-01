@@ -1,6 +1,6 @@
 ---
 name: regulatory-remediation-plan
-description: "Regulatory Remediation Plan: steuert nach Auflage/Bußgeld/Prüfung Maßnahmenplan, Owner, Nachweis und Kanzleirolle steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Regulatory Remediation Plan in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Regulatory Remediation Plan

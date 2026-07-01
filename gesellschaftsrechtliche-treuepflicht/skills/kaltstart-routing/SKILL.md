@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Gesellschaftsrechtliche Treuepflicht: Allgemein Kaltstart. Liefert Norm-Pinpoints, Prüfachsen, Red Flags, Varianten und konkrete Output-Bausteine zum Slug-Thema im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um Allgemein Kaltstart in Gesellschaftsrechtliche Treuepflicht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemein Kaltstart

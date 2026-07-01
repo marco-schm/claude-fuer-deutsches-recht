@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-80-abs-5-vwgo
-description: "Eilrechtsschutz nach § 80 Abs: 5 VwGO: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output."
+description: "Wenn es um Eilrechtsschutz nach Paragraf 80 Abs in Fachanwalt Verwaltungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Eilrechtsschutz nach § 80 Abs

@@ -1,6 +1,6 @@
 ---
 name: informationszugang-nordrhein-westfalen
-description: "Informationsfreiheit und Presseauskunft: Informationszugang Nordrhein-Westfalen Livecheck. Informationszugang Nordrhein-Westfalen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreih..."
+description: "Wenn es um Informationszugang Nordrhein Westfalen in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Informationszugang Nordrhein Westfalen

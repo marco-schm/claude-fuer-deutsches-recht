@@ -1,6 +1,6 @@
 ---
 name: ki-governance-mandatsworkspace-kontexttrennung
-description: 'Mandats-Arbeitsbereiche verwalten – neu, liste, wechseln, schließen oder keines (Praxisebene). Datei- Verwaltungslogik, um den Kontext eines Mandanten oder Auftrags von jedem anderen zu trennen. Verwenden, wenn mandatsübergreifend gearbeitet wird, wenn der Nutzer sagt "neues Mandat", "Mandat wechseln", "Mandate auflisten", "Mandat schließen" oder wenn ein inhaltlicher Skill wissen muss, in welchem Mandat er arbeitet.'
+description: "Wenn es um digitale Werkzeuge-Governance-Mandatsworkspace und Kontexttrennung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 
 ---
 

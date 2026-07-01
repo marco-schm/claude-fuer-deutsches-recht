@@ -1,6 +1,6 @@
 ---
 name: zeitlicher-geltungsbereich-uebergangsfristen
-description: "Compliance-Beauftragter oder Unternehmen fragt: Ab wann muessen welche KI-VO-Pflichten eingehalten werden und welche Systeme sind schon heute betroffen? KI-VO Übergangsfristen und Zeitplan nach Art. 113 KI-VO. Prüfraster: Inkrafttreten 1. August 2024, Kapitel I/II und Verbote ab 2. Februar 2025,..."
+description: "Wenn es um Zeitlicher Geltungsbereich und Übergangsfristen — europäischer Technikregulierungsrahmen in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zeitlicher Geltungsbereich und Übergangsfristen — KI-VO

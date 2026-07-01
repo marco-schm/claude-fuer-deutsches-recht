@@ -1,6 +1,6 @@
 ---
 name: bverwg-2005-pfaff-befehl
-description: "Ordnet BVerwG 2 WD 12.04 als konkreten Gewissenskonflikt ein im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um BVerwG 2005 konkreter Befehl in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BVerwG 2005 konkreter Befehl

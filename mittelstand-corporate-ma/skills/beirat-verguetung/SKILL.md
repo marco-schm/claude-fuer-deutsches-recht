@@ -1,6 +1,6 @@
 ---
 name: beirat-verguetung
-description: "GmbH-Beirat im Mittelstand: Vergütung, Auslagen, D&O, Haftungsfreistellung, Interessenkonflikte, Drittvergleich, Beschlusszuständigkeit und steuer-/sozialversicherungsnahe Plausibilitätsprüfung."
+description: "Wenn es um Beirat: Vergütung, Auslagen, D&O Und Interessenkonflikte in Mittelstands-Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Beirat: Vergütung, Auslagen, D&O Und Interessenkonflikte

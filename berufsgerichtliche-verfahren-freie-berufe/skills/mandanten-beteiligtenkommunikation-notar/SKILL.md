@@ -1,6 +1,6 @@
 ---
 name: mandanten-beteiligtenkommunikation-notar
-description: "Beteiligtenkommunikation: prüft übersetzt das Ergebnis in klare, taktisch sichere Kommunikation in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Wenn es um Beteiligtenkommunikation in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Beteiligtenkommunikation

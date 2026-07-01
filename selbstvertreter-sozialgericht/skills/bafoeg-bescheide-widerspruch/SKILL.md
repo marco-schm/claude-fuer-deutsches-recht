@@ -1,6 +1,6 @@
 ---
 name: bafoeg-bescheide-widerspruch
-description: "BAfoeG-Bescheide und Widerspruch. Skill klaert die Förderung nach Bundesausbildungsfoerderungsgesetz Voraussetzungen Bedarfssatz Einkommen Eltern Änderungs- und Wiederholungsantraege und das Widerspruchsverfahren. Liefert Vorlage."
+description: "Wenn es um Bafoeg Bescheide Widerspruch in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bafoeg Bescheide Widerspruch

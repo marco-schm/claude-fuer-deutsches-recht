@@ -1,6 +1,6 @@
 ---
 name: sanktionen-bussgeldverteidigung-art-99
-description: "Art. 99 KI-VO als Bußgeld- und Verteidigungsworkflow: Sanktionstier, Unternehmensbezug, Vorsatz/Fahrlaessigkeit, Aufsichtsbehoerdenkontakt, Akteneinsicht, Abhilfe, Vergleichsstrategie, Vorstandsvorlage und Litigation Hold."
+description: "Wenn es um Sanktionen und Bußgeldverteidigung nach Art. 99 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sanktionen und Bußgeldverteidigung nach Art. 99 KI-VO

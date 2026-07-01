@@ -1,6 +1,6 @@
 ---
 name: private-krankenversicherung-kuendigung-wechsel-und-schuld
-description: "PKV kündigen, in GKV wechseln oder PKV-Schulden bereinigen: Voraussetzungen, Kündigungsfristen, Schuldenbereinigung und Wechseloptionen zur GKV im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um PKV: Kündigung, Wechsel und Schulden in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PKV: Kündigung, Wechsel und Schulden

@@ -1,6 +1,6 @@
 ---
 name: arbeitslosigkeit-buergergeld-und-rente
-description: "Arbeitslosigkeit, Bürgergeld und Rente: Meldungen, Pflichtbeiträge, Anrechnungszeiten, Sperrzeiten und Rentenbeginn im Rentenpruefer."
+description: "Wenn es um arbeitslosigkeit-buergergeld-und-rente in Rentenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # arbeitslosigkeit-buergergeld-und-rente

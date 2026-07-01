@@ -1,6 +1,6 @@
 ---
 name: financing-security
-description: "Financing und Security Documents Skill: prüft Akquisitionsfinanzierung, Sicherheiten, Intercreditor, Conditions, Funds Flow und Bank-Deliverables."
+description: "Wenn es um Financing Security Documents in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Financing Security Documents

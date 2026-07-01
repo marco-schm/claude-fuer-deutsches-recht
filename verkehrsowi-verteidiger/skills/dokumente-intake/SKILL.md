@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Verkehrs-OWi-Verteidigung: sortiert Bußgeldbescheid, Anhörungsbogen, Messprotokoll, prüft Datum, Absender, Frist und Beweiswert (Messprotokoll, Rohmessdaten); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

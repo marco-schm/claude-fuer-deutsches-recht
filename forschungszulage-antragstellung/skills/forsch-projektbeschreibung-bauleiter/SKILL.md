@@ -1,6 +1,6 @@
 ---
 name: forsch-projektbeschreibung-bauleiter
-description: "Bauleiter Projektbeschreibung FZulG: FuE-Definition Frascati, Neuheit, technologisches Risiko, systematische Vorgehensweise. Prüfraster für schluessige Darstellung gegenueber BSFZ."
+description: "Wenn es um Forsch: Projektbeschreibung Bauleiter in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Forsch: Projektbeschreibung Bauleiter

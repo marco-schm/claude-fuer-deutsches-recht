@@ -1,6 +1,6 @@
 ---
 name: prozessuale-kniffe-und-rechtsprechungsanker
-description: Stellt staatsanwaltschaftliche Verfahrenskniffe, Rechtsprechungsanker, Eingriffsgrenzen, Abschlussoptionen und Sitzungsdienst-Strategie in eine sofort nutzbare Matrix.
+description: "Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Staatsanwaltschaft Praxis-Einstieg geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Prozessuale Kniffe und Rechtsprechungsanker
 

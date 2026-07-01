@@ -1,6 +1,6 @@
 ---
 name: umwandlung-und-registersperre-organisationspflicht-und-p
-description: "Notare: umwandlung und registersperre - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Umwandlung Und Registersperre Organisationspflicht Und P in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: umwandlung und registersperre - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

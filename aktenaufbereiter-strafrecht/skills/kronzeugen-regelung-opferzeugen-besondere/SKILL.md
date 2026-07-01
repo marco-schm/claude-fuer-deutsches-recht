@@ -1,6 +1,6 @@
 ---
 name: kronzeugen-regelung-opferzeugen-besondere
-description: "Spezialfall Kronzeugenregelung § 46b StGB: Aufklaerungshilfe oder Verhinderung schwerer Straftaten, Voraussetzungen Konnex, Ausschluss von § 100a StPO Katalogtaten, Strafrahmenverschiebung. Prüfraster für Verteidigerstrategie und Verhandlung mit Staatsanwaltschaft im Strafrechts-Aktenaufbereiter."
+description: "Wenn es um Strafrecht: Kronzeugen Paragraf 46b StGB in Aktenaufbereiter Strafrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Strafrecht: Kronzeugen § 46b StGB

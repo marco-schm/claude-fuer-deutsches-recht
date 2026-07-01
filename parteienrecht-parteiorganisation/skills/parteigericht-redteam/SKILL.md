@@ -1,6 +1,6 @@
 ---
 name: parteigericht-redteam
-description: "Prüft vor Einreichung oder Entscheidung: Zuständigkeit, rechtliches Gehör, Satzung, Beweise, Verhältnismäßigkeit."
+description: "Wenn es um Parteigericht Red-Team in Parteienrecht und Parteiorganisation geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parteigericht Red-Team

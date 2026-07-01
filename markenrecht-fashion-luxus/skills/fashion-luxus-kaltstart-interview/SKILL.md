@@ -1,6 +1,6 @@
 ---
 name: fashion-luxus-kaltstart-interview
-description: "Mandantenaufnahme Modehaus und IP-Audit-Erstgespraech: Neues Luxus-Mode-Mandat beginnt, Portfolio-Inventur und Prioritaeten-Matrix sind zu erstellen. Normen: BRAO § 43a, § 32 MarkenG, Art. 32 UMV. Prüfraster: IP-Audit-Fragenkatalog (Marken, Design, Urheberrecht, Patente), Portfolio-Inventur, Verl..."
+description: "Wenn es um Kaltstart-Interview und IP-Audit für Luxus-Modehäuser in markenrecht-fashion-luxus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart-Interview und IP-Audit für Luxus-Modehäuser

@@ -1,6 +1,6 @@
 ---
 name: testierfaehigkeit-demenz-olg-koeln-2-wx-128-17
-description: "Testierfaehigkeit Demenz Olg Koeln 2 Wx 128 17: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Testierfaehigkeit Demenz Olg Koeln 2 Wx 128 17 in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Testierfaehigkeit Demenz Olg Koeln 2 Wx 128 17

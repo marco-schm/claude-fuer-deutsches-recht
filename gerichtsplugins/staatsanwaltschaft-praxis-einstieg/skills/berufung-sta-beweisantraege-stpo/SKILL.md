@@ -1,6 +1,6 @@
 ---
 name: berufung-sta-beweisantraege-stpo
-description: "Berufung der Staatsanwaltschaft einlegen und begrenzen: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
+description: "Wenn es um Berufung der Staatsanwaltschaft einlegen und begrenzen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Berufung Sta Beweisantraege StPO; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
 ---
 
 # Berufung der Staatsanwaltschaft einlegen und begrenzen

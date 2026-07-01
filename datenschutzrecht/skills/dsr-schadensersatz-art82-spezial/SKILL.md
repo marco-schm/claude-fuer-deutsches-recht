@@ -1,6 +1,6 @@
 ---
 name: dsr-schadensersatz-art82-spezial
-description: "Spezialfall Schadensersatz Art. 82 DSGVO: materiell und immateriell, EuGH-Rechtsprechung Bagatell-Klausel, Beweislast. Prüfraster für Klägervertreter."
+description: "Wenn es um DSR: Art-82-Schadensersatz in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DSR: Art-82-Schadensersatz

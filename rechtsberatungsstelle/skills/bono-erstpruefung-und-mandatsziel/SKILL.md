@@ -1,6 +1,6 @@
 ---
 name: bono-erstpruefung-und-mandatsziel
-description: "Bono: Erstprüfung, Rollenklärung und Mandatsziel im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Bono: Erstprüfung, Rollenklärung und Mandatsziel in Plugin für die studentische Rechtsberatungsstelle geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bono: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: freie-mitarbeit-klauseln
-description: "Entwirft statusbewusste Klauseln zu Weisungsfreiheit, Vertretung, Betriebsmitteln, Vergütung, IP und Compliance im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Freie-Mitarbeit-Klauseln in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Freie-Mitarbeit-Klauseln

@@ -1,6 +1,6 @@
 ---
 name: prokura-paragraphen-48-53-hgb
-description: "Prüft Erteilung, Umfang, Grenzen, Gesamtprokura, Filialprokura und Registereintragung im Handelsrecht Hgb."
+description: "Wenn es um Prokura Paragrafen 48-53 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prokura §§ 48-53 HGB

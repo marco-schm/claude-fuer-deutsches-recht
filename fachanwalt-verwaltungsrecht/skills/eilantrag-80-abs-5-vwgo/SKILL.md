@@ -1,6 +1,6 @@
 ---
 name: eilantrag-80-abs-5-vwgo
-description: "Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach § 80 Abs: 5 VwGO stellen: Mandant hat Widerspruch eingelegt oder Klage erhoben aber die Behörde h..."
+description: "Wenn es um Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach Paragraf 80 Abs in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach § 80 Abs

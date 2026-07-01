@@ -1,6 +1,6 @@
 ---
 name: sanktion-akteneinsicht-vorlage-luecken
-description: "Datenschutzrecht-Brückenskill: Dokumentenmatrix vor Akteneinsicht: VVT, DSFA, TOM, AVV, Löschkonzept, Incident-Timeline, DSB-Vermerke, Schulungen und Logs einsammeln. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz...."
+description: "Wenn es um Dokumentenmatrix vor Akteneinsicht in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Dokumentenmatrix vor Akteneinsicht

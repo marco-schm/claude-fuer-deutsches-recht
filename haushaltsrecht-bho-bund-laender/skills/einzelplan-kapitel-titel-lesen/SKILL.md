@@ -1,6 +1,6 @@
 ---
 name: einzelplan-kapitel-titel-lesen
-description: "Haushaltsrecht BHO Bund und Länder: Einzelplan Kapitel Titel lesen. Einzelplan Kapitel Titel lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbe..."
+description: "Wenn es um Einzelplan Kapitel Titel Lesen in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Einzelplan Kapitel Titel Lesen

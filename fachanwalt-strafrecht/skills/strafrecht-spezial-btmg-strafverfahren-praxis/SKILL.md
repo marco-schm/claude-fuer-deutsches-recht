@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-btmg-strafverfahren-praxis
-description: "BtMG-Verteidigungspraxis: Verdacht, Durchsuchung, Sicherstellung, Untersuchungshaft, V-Personen, Telekommunikationsueberwachung: ..."
+description: "Wenn es um Strafrecht Spezial Btmg Strafverfahren Praxis in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BtMG-Verteidigungspraxis: Verdacht, Durchsuchung, Sicherstellung, Untersuchungshaft, V-Personen, Telekommunikationsueberwachung

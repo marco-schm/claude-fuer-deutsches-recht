@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Vertragsrecht (BGB-Vertragsrecht): ordnet Rolle (Vertragsparteien, Drittbegünstigte), markiert Frist (Verjährung 3 Jahre § 195 BGB), wählt Norm (BGB §§ 145 ff., 305 ff., HGB §§ 343 ff.) und Zuständigkeit (Zivilgerichte), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Vertragsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

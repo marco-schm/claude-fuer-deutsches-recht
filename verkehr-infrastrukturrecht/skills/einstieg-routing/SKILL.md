@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Verkehr-Infrastrukturrecht: ordnet Rolle (Träger Planungshoheit, Behörde, Betroffene Anwohner), markiert Frist (Klagefrist Planfeststellung), wählt Norm (FStrG, AEG, PBefG, BFStrG, VwVfG) und Zuständigkeit (Eisenbahn-BBundesamt), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Verkehrs- und Infrastrukturrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

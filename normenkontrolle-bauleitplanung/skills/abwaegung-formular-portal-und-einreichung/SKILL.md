@@ -1,6 +1,6 @@
 ---
 name: abwaegung-formular-portal-und-einreichung
-description: "Abwaegung: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Abwaegung: Formular, Portal und Einreichungslogik in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Abwaegung Formular Portal Und Einreichung; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Abwaegung: Formular, Portal und Einreichungslogik

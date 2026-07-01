@@ -1,6 +1,6 @@
 ---
 name: berufung-zulassung-besondere-bedeutung
-description: "Zulassung der Berufung trotz fehlender Wertgrenze. Grundsaetzliche Bedeutung Divergenz Verfahrensfehler § 144 Abs. 2 SGG. Praxis für Buerger ohne Anwalt."
+description: "Wenn es um Wenn die Wertgrenze nicht erreicht ist — Zulassung? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wenn die Wertgrenze nicht erreicht ist — Zulassung?

@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Berufsrechts-KI bei Vertragsprüfung: stimmt Adressat (Anwalt/Kanzlei, Mandant, KI-Anbieter), Frist (Rechtzeitige Mandatsannahme) und Form auf den Zweck ab — typische Outputs: Mandanten-Hinweisblatt, AVV-Muster, Risikoampel KI-Einsatz."
+description: "Wenn es um Output wählen in anwaltlichem Berufsrecht und Vertragsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

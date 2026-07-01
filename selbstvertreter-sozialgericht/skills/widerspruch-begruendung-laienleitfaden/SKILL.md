@@ -1,6 +1,6 @@
 ---
 name: widerspruch-begruendung-laienleitfaden
-description: "Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen. Tatsachen Beweismittel Gegenargumente. Aufbau Mustertexte und konkrete Beispiele für typische Streitthemen."
+description: "Wenn es um So begruenden Sie Ihren Widerspruch — für Laien in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # So begruenden Sie Ihren Widerspruch — für Laien

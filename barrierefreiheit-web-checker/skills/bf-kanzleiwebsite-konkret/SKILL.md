@@ -1,6 +1,6 @@
 ---
 name: bf-kanzleiwebsite-konkret
-description: "Kanzleiwebsite konkret prüfen: Pflicht ab BFSG 28.06.2025 für aktive E-Commerce-Aktivitaeten, für reine Informationswebsites empfohlen, Tooling Axe / WAVE / Lighthouse, Designer und Entwickler. Konkrete Fix-Liste für typische Kanzleiseite im Barrierefreiheit Web Checker."
+description: "Wenn es um BF: Kanzleiwebsite in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # BF: Kanzleiwebsite

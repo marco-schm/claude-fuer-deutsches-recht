@@ -1,6 +1,6 @@
 ---
 name: ladung-termin-sozialgericht-vorbereitung
-description: "Die Ladung zum SG-Termin verstehen. Was steht im Brief was tun was mitbringen Anwesenheitspflicht Vertretung. Praktische Hinweise für Buerger ohne Anwalt."
+description: "Wenn es um Die Ladung zum Termin — was tun? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Die Ladung zum Termin — was tun?

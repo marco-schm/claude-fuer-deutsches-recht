@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-mds-stellungnahme
-description: "Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die Rolle des MD bei Pflegegrad-Begutachtung Reha Hilfsmittel Krankengeld AU-Prüfung sowie wie Selbstvertreter mit MD-Berichten umgehen Akteneinsicht Widerlegung Privatgutachten. Liefert Prüfraster."
+description: "Wenn es um Krankenkassen Mds Stellungnahme in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenkassen Mds Stellungnahme

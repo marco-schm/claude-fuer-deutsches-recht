@@ -1,6 +1,6 @@
 ---
 name: privatautonomie-trennungs-abstraktionsprinzip
-description: "Klausurfall zu Privatautonomie, Trennungs- und Abstraktionsprinzip im BGB: Verpflichtungsgeschäft und Verfügungsgeschäft als rechtlich selbständige Akte, Kausalität und Abstraktion, Fehleridentität als Ausnahme, Kondiktion nach § 812 BGB bei fehlerhaftem Grundgeschäft."
+description: "Wenn es um Privatautonomie, Trennungs- und Abstraktionsprinzip in BGB AT Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Privatautonomie, Trennungs- und Abstraktionsprinzip

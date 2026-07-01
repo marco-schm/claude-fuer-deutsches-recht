@@ -1,6 +1,6 @@
 ---
 name: robotik-sachverstaendigenbriefing-technikrecht
-description: "Briefing für technische Sachverständige: Prüfgegenstand, Hypothesen, Logdaten, Testaufbau, Reproduzierbarkeit und Grenzen der rechtlichen Bewertung."
+description: "Wenn es um Sachverständigenbriefing in robotik-recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Robotik Sachverstaendigenbriefing Technikrecht; Arbeitsfeld: robotik-recht."
 ---
 
 # Sachverständigenbriefing

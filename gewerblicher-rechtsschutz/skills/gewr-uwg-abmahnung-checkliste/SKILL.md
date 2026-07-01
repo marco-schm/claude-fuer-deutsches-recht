@@ -1,6 +1,6 @@
 ---
 name: gewr-uwg-abmahnung-checkliste
-description: "UWG-Abmahnung: vollständige Prüfcheckliste für Versand und Empfang. Voraussetzungen §§ 3 und 8 UWG, Mitbewerbereigenschaft, Spürbarkeit, Wiederholungsgefahr, Unterlassungserklärung, Streitwert, Abmahnmissbrauch § 8c UWG und typische Verteidigungsargumente im Gewerblicher Rechtsschutz."
+description: "Wenn es um GewR: UWG-Abmahnung – Vollständige Prüfcheckliste in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GewR: UWG-Abmahnung – Vollständige Prüfcheckliste

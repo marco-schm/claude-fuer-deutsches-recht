@@ -1,6 +1,6 @@
 ---
 name: quasihersteller-private-label-robotik
-description: "Prüft Private-Label-, Rebranding- und Quasihersteller-Konstellationen bei Robotern und KI-Komponenten."
+description: "Wenn es um Quasihersteller und Private Label in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quasihersteller und Private Label

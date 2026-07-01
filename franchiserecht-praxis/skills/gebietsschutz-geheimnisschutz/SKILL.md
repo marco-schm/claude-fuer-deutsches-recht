@@ -1,6 +1,6 @@
 ---
 name: gebietsschutz-geheimnisschutz
-description: "Fachmodul Franchiserecht für Gebietsschutz gegen Online- und Plattformkanäle: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Ents..."
+description: "Wenn es um Franchise: Gebietsschutz gegen Online- und Plattformkanäle in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Franchise: Gebietsschutz gegen Online- und Plattformkanäle

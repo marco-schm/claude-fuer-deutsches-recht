@@ -1,6 +1,6 @@
 ---
 name: rang-nachrang-schuldnerwiderspruch
-description: "Rang Nachrang Absonderung und Aussonderung bei Insolvenzforderungen prüfen: Anwendungsfall Gläubiger behauptet Sonderrechte wie Absonderungsrecht aus Sicherungsuebereignung oder Nachrang. §§ 38-39 InsO Insolvenzforderungen und Nachrang, §§ 49-51 InsO Absonderungsrecht, §§ 47-48 InsO Aussonderungs..."
+description: "Wenn es um Rang, Nachrang und Sicherungsrechte in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rang, Nachrang und Sicherungsrechte

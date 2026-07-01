@@ -1,6 +1,6 @@
 ---
 name: briefwahl-und-elektronische-stimme
-description: "Hauptversammlung AG und SE: Briefwahl Und Elektronische Stimme; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Briefwahl Und Elektronische Stimme in Hauptversammlung AG und SE geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Briefwahl Und Elektronische Stimme

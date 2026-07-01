@@ -1,6 +1,6 @@
 ---
 name: stalking-horse-credit-bid
-description: "Prüft stalking-horse protections, break-up fees, expense reimbursement, credit bid rights and chilling objections im US Bankruptcy Code."
+description: "Wenn es um Stalking Horse and Credit Bid in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stalking Horse and Credit Bid

@@ -1,6 +1,6 @@
 ---
 name: spezial-dpma-mehrparteien-konflikt-und-interessen
-description: "Dpma: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Dpma: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dpma: Mehrparteienkonflikt und Interessenmatrix

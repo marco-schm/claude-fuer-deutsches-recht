@@ -1,6 +1,6 @@
 ---
 name: registerbeweis-im-prozess
-description: "Bereitet Registerauszüge, Bekanntmachungen und Nachweise prozesstauglich auf im Handelsregister Praxis."
+description: "Wenn es um Registerbeweis im Zivilprozess in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerbeweis im Zivilprozess

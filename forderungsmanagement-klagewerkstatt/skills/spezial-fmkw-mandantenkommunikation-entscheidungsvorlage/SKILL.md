@@ -1,6 +1,6 @@
 ---
 name: spezial-fmkw-mandantenkommunikation-entscheidungsvorlage
-description: "Fmkw: Mandantenkommunikation und Entscheidungsvorlage im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Fmkw: Mandantenkommunikation und Entscheidungsvorlage in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Fmkw: Mandantenkommunikation und Entscheidungsvorlage

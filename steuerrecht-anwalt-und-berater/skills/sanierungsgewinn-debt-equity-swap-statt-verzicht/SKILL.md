@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-debt-equity-swap-statt-verzicht
-description: "Debt-Equity-Swap als Alternative zum Forderungsverzicht: Umwandlung der Forderung in Eigenkapital. Sanierungssteuerlich oft günstiger; aber gesellschaftsrechtliche Hürden und Werthaltigkeits-Problem zu beachten im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Debt-Equity-Swap statt Forderungsverzicht in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sanierungsgewinn Debt Equity Swap Statt Verzicht; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Debt-Equity-Swap statt Forderungsverzicht

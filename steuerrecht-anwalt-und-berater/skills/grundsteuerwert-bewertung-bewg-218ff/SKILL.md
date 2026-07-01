@@ -1,6 +1,6 @@
 ---
 name: grundsteuerwert-bewertung-bewg-218ff
-description: "Grundsteuerwert nach BewG §§ 218 ff. prüfen: Bundesmodell, Ertragswert, Sachwert, Bodenrichtwert, Grundstücksart, Steuermesszahl, Hauptfeststellung 01.01.2022, Fehlerdiagnose und Bescheidbegründung."
+description: "Wenn es um Grundsteuerwert: Bewertung nach BewG Paragrafen 218 ff. in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grundsteuerwert: Bewertung nach BewG §§ 218 ff.

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-untreue-mosaiksteine-treubruchstatbestand
-description: "Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB: Voraussetzung der Vermögensbetreuungspflicht. Qualifikation Pflichtgeber Auftrag Treueverhaeltnis. BGH-Linie zur Hau..."
+description: "Wenn es um Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB

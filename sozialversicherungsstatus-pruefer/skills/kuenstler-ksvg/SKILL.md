@@ -1,6 +1,6 @@
 ---
 name: kuenstler-ksvg
-description: "Prüft Künstler, Musiker, Designer, Sprecher und Künstlersozialversicherung/-abgabe im Statuskontext im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Künstler und KSVG in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Künstler und KSVG

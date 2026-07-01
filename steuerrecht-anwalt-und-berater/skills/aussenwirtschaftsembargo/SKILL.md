@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaftsembargo
-description: "Prüfung der Einhaltung des Aussenwirtschaftsrechts in Mandantenstrukturen — AWG AWV Dual-Use-Verordnung und EU-Sanktionsregime sowie strafrechtliche Konsequenzen § 17 AWG. Anwendungsfall Mandant exportiert in sanktionierten Drittstaat oder erhaelt eine Anfrage zur Bereitstellung von Vermoegen an..."
+description: "Wenn es um Aussenwirtschaftsrecht — AWG und Sanktionen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aussenwirtschaftsrecht — AWG und Sanktionen

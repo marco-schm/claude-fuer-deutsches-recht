@@ -1,6 +1,6 @@
 ---
 name: 16-tenor-formulieren
-description: "Tenor formulieren: Hauptsache (Verurteilung zur Zahlung, Herausgabe, Unterlassung, Feststellung), Nebenforderungen (Zinsen Paragraf 288 BGB), Kostenentscheidung, vorläufige Vollstreckbarkeit"
+description: "Wenn es um 16 Tenor Formulieren in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 16 Tenor Formulieren

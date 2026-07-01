@@ -1,6 +1,6 @@
 ---
 name: luftfracht-register-auswerten
-description: "Mandant will Zulassungsstatus eines Luftfrachtfuehrers oder Gefahrgut-Deklarationen auswerten. Prüft LuftVG Frachtfuehrer-Zulassung IATA DGR Deklarationspflichten Montreal Convention und liefert Compliance-Status-Bericht im Luftrecht Flughafenrecht."
+description: "Wenn es um Luftfracht – Register auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Luftfracht – Register auswerten

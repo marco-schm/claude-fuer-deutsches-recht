@@ -1,6 +1,6 @@
 ---
 name: 08-versaeumnisurteil-und-anerkenntnis
-description: "Versaeumnisurteil Paragrafen 330-347 ZPO, Anerkenntnisurteil Paragraf 307 ZPO, Verzichtsurteil Paragraf 306 ZPO, Einspruch und zweiter VU-Termin"
+description: "Wenn es um 08 Versäumnisurteil und Anerkenntnis in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # 08 Versäumnisurteil und Anerkenntnis

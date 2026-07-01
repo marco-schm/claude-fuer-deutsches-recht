@@ -1,6 +1,6 @@
 ---
 name: 024-zweiter-kirchen-schule
-description: "PrALR: Zweiter Teil Kirchen Schule Armenwesen: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Zweiter Teil Kirchen Schule Armenwesen in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Zweiter Teil Kirchen Schule Armenwesen

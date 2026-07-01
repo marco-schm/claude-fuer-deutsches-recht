@@ -1,6 +1,6 @@
 ---
 name: spezial-jahresabrechnung-livequellen-und-rechtsprechungscheck
-description: "Jahresabrechnung: Livequellen- und Rechtsprechungscheck im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Jahresabrechnung: Livequellen- und Rechtsprechungscheck in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jahresabrechnung: Livequellen- und Rechtsprechungscheck

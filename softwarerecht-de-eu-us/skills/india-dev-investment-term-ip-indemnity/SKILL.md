@@ -1,6 +1,6 @@
 ---
 name: india-dev-investment-term-ip-indemnity
-description: "Prüft Outsourcing an indische Softwareteams mit IP assignment, Datenschutz, Export, Security und Enforcement im Softwarerecht De Eu Us."
+description: "Wenn es um India Development Outsourcing in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # India Development Outsourcing

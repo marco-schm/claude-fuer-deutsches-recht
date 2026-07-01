@@ -1,6 +1,6 @@
 ---
 name: luft-079-drohne-dashboard-bauen
-description: "Luftrecht und Flughafenrecht: Drohne: Dashboard bauen. Dashboard bauen für Drohne im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Drohne Dashboard Bauen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drohne Dashboard Bauen

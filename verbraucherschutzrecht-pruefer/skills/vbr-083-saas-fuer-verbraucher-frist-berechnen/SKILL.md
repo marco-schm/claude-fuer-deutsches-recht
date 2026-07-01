@@ -1,6 +1,6 @@
 ---
 name: vbr-083-saas-fuer-verbraucher-frist-berechnen
-description: "Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Frist berechnen. Frist berechnen für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Saas Fuer Verbraucher Frist Berechnen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Saas Fuer Verbraucher Frist Berechnen

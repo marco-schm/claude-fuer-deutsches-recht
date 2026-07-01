@@ -1,6 +1,6 @@
 ---
 name: grossstadt-mietspiegel-und-kappung
-description: "Großstadt-Mietspiegel, Kappungsgrenze und Vergleichsmiete: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Mietrecht."
+description: "Wenn es um Großstadt-Mietspiegel, Kappungsgrenze und Vergleichsmiete in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Großstadt-Mietspiegel, Kappungsgrenze und Vergleichsmiete

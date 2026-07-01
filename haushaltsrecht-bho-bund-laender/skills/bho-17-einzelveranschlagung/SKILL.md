@@ -1,6 +1,6 @@
 ---
 name: bho-17-einzelveranschlagung
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 17 Einzelveranschlagung. BHO § 17 Einzelveranschlagung im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbest..."
+description: "Wenn es um Bho 17 Einzelveranschlagung in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 17 Einzelveranschlagung

@@ -1,6 +1,6 @@
 ---
 name: machine-regulation-embedded-software
-description: "Prüft Embedded Software, Safety Functions, Updates, Maschinenverordnung, CE und technische Dokumentation im Softwarerecht De Eu Us."
+description: "Wenn es um Embedded Software Maschinenverordnung in Softwarerecht Deutschland/EU/International/USA geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Embedded Software Maschinenverordnung

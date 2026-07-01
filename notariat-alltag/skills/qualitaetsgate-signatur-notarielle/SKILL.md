@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-signatur-notarielle
-description: "Notariat im Alltag: Qualitätsgate vor Signatur und Einreichung. Systematische letzte Prüfung aller Dokumente vor der elektronischen Signatur und Einreichung beim Registergericht oder Grundbuchamt im Notariat."
+description: "Wenn es um Notariat im Alltag: Qualitätsgate vor Signatur und Einreichung in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Qualitätsgate vor Signatur und Einreichung

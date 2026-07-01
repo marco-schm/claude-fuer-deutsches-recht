@@ -1,6 +1,6 @@
 ---
 name: gegenueberstellung-parteivortraege
-description: "Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung

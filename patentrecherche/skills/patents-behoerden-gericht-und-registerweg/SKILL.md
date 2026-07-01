@@ -1,6 +1,6 @@
 ---
 name: patents-behoerden-gericht-und-registerweg
-description: "Patents: Behörden-, Gerichts- oder Registerweg im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Patents: Behörden-, Gerichts- oder Registerweg in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patents: Behörden-, Gerichts- oder Registerweg

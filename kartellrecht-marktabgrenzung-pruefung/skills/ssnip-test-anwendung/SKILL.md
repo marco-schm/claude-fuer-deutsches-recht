@@ -1,6 +1,6 @@
 ---
 name: ssnip-test-anwendung
-description: "Sachlichen Markt mit dem SSNIP-Test abgrenzen ob ein hypothetischer Monopolist profitabel Preise um 5 bis 10 Prozent erhoehen koennte. Wendet Small but Significant Non-transitory Increase in Price Hypothetischer-Monopolisten-Test an. Normen EU-Bekanntmachung Marktdefinition 2024 § 18 GWB Art. 102..."
+description: "Wenn es um SSNIP-Test — Anwendung in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SSNIP-Test — Anwendung

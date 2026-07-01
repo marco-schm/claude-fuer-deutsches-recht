@@ -1,6 +1,6 @@
 ---
 name: inv-013-whistleblower
-description: "Prueft HinSchG-Schnittstellen, Schutz vor Repressalien, Anonymitaet, Konflikt mit NDA und interner Untersuchung."
+description: "Wenn es um Hinweisgeber und Retaliation in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hinweisgeber und Retaliation

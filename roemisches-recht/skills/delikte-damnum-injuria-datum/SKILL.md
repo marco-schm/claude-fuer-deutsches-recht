@@ -1,6 +1,6 @@
 ---
 name: delikte-damnum-injuria-datum
-description: "Römisches Recht: Delikte Damnum Injuria Datum. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Delikte Damnum Injuria Datum in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Delikte Damnum Injuria Datum

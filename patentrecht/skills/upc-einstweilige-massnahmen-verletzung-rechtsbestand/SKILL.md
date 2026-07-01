@@ -1,6 +1,6 @@
 ---
 name: upc-einstweilige-massnahmen-verletzung-rechtsbestand
-description: "Bereitet einstweilige Maßnahmen vor dem UPC vor: Dringlichkeit, Schutzbereich, Rechtsbestand, Beweislast, Schutzschrift, Geheimnisschutz, Vollziehung und Vergleichsfenster im Patentrecht."
+description: "Wenn es um UPC: Einstweilige Maßnahmen in patentrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # UPC: Einstweilige Maßnahmen

@@ -1,6 +1,6 @@
 ---
 name: grossspenden-sofortmeldung
-description: "Wahlkampfrecht Praxis: Grossspenden ueber der aktuellen Sofortmeldeschwelle prüfen im Wahlkampfrecht."
+description: "Wenn es um Grossspenden Sofortmeldung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grossspenden Sofortmeldung

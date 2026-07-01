@@ -1,6 +1,6 @@
 ---
 name: associate-kuendigungswelle
-description: "Reagiert auf mehrere Kündigungen mit Ursachenanalyse und Mandatssicherung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Associate-Kündigungswelle in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Associate-Kündigungswelle

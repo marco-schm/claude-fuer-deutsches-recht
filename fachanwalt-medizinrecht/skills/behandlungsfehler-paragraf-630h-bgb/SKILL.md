@@ -1,6 +1,6 @@
 ---
 name: behandlungsfehler-paragraf-630h-bgb
-description: "Behandlungsfehler § 630h BGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Behandlungsfehler Paragraf 630h BGB in Fachanwalt Medizinrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Behandlungsfehler § 630h BGB

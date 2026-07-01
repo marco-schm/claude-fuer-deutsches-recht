@@ -1,6 +1,6 @@
 ---
 name: prodhaftg-und-neue-pld-vergleich
-description: "Vergleicht deutsches ProdHaftG mit neuer EU-Produkthaftungsrichtlinie: Software, digitale Dienste, Offenlegung, Beweislast und Übergang."
+description: "Wenn es um ProdHaftG und neue PLD in robotik-recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # ProdHaftG und neue PLD

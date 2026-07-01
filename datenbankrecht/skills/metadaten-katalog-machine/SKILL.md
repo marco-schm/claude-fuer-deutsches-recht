@@ -1,6 +1,6 @@
 ---
 name: metadaten-katalog-machine
-description: "Datenbankrecht für Metadatenkataloge und Thesauri: § 4 Abs. 2 UrhG (Datenbankwerk durch schöpferische Taxonomie) und §§ 87a-87e UrhG (Herstellerrecht für Metadaten-Infrastruktur), Schutz von kontrollierten Vokabularen und Ontologien, Lizenzmodelle für Metadaten-Feeds und Verhältnis zur DSGVO bei..."
+description: "Wenn es um Metadatenkataloge und Thesauri — Datenbankschutz für Informationsstrukturen in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Metadatenkataloge und Thesauri — Datenbankschutz für Informationsstrukturen

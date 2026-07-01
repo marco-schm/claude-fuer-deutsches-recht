@@ -1,6 +1,6 @@
 ---
 name: zugang-zustellung-pruefung
-description: "Erfasst den Versendungs- und Zustellungsstatus aller zugangsbeduerftigen Willenserklaerungen: Kuendigungen, Faelligstellungen, Anfechtungen, Mahnungen. Markiert, wo der Zugang unklar ist oder noch nachzuweisen waere. Trifft keine rechtliche Bewertung des Zugangs."
+description: "Wenn es um Zugang und Zustellung prüfen in Plugin: status-navigator-step-plan geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Zugang und Zustellung prüfen

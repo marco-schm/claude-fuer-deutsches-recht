@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-umweltstrafrecht-326-stgb-abfall
-description: "Unerlaubter Umgang mit Abfaellen nach Paragraph 326 StGB: Schutzgut Boden und Gewaesserumwelt vor gefaehrlichen Abfaellen. Tathandlungen Behandeln Lagern Befoerdern Verbringen. Katalog Absatz 1 Numme..."
+description: "Wenn es um Unerlaubter Umgang mit Abfaellen nach Paragraph 326 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unerlaubter Umgang mit Abfaellen nach Paragraph 326 StGB

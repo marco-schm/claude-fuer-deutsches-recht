@@ -1,6 +1,6 @@
 ---
 name: 021-roemisches-sachenrecht-im-mittelalterlichen-lehnskon
-description: "Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext im Römisches Recht."
+description: "Wenn es um Rom Roemisches Sachenrecht Im Mittelalterlichen Lehnskon in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Roemisches Sachenrecht Im Mittelalterlichen Lehnskon

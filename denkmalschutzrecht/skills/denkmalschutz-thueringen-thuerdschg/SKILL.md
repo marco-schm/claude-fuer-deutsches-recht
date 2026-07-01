@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-thueringen-thuerdschg
-description: "Denkmalschutzrecht Thüringen nach dem Thüringer Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Thüringer Staatskanzlei; Thüringisches Landesamt für Denkmalpflege und Archäologie in Erfurt; Untere Denkmalschutzbehörden bei den Landkreisen und kreisfreien Städten) und die Welterbestätten Wartburg, Klassisches Weimar und Bauhausstätten."
+description: "Wenn es um Denkmalschutz Thüringen (ThürDSchG) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Thüringen (ThürDSchG)

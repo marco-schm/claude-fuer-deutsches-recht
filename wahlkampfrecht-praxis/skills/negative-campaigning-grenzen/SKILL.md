@@ -1,6 +1,6 @@
 ---
 name: negative-campaigning-grenzen
-description: "Wahlkampfrecht Praxis: Negative Campaigning auf Wahrheit, Fairness und Wirkung prüfen im Wahlkampfrecht."
+description: "Wenn es um Negative Campaigning Grenzen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Negative Campaigning Grenzen

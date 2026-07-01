@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-saarland-sdschg
-description: "Denkmalschutzrecht Saarland nach dem Saarländischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Ministerium für Bildung und Kultur; Landesdenkmalamt Saarland; Untere Denkmalschutzbehörden bei den Landkreisen) und die spezifische Industriekultur (Völklinger Hütte) als prägendes Thema."
+description: "Wenn es um Denkmalschutz Saarland (SDSchG) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Saarland (SDSchG)

@@ -1,6 +1,6 @@
 ---
 name: treuhand-und-nominee
-description: "Prüft Treuhand, wirtschaftlich Berechtigte, Stimmrechte, Steuer- und GwG-Risiken im Gesellschaftsgruender."
+description: "Wenn es um Treuhand/Nominee-Strukturen in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Treuhand/Nominee-Strukturen

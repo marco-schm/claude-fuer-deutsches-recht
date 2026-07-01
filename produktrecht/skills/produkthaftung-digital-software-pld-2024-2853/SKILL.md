@@ -1,6 +1,6 @@
 ---
 name: produkthaftung-digital-software-pld-2024-2853
-description: "Prüft die neue EU-Produkthaftungsrichtlinie 2024/2853 für Software, KI-Systeme, digitale Fertigungsdateien, relevante digitale Dienste, Updates, Beweiserleichterungen und erweiterte Anspruchsgegner im Produktrecht."
+description: "Wenn es um Produkthaftung für Software und digitale Komponenten in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Produkthaftung für Software und digitale Komponenten

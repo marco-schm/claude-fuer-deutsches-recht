@@ -1,6 +1,6 @@
 ---
 name: nutzungen-verwendungen-gefahrtragung-818
-description: "Nutzungen, Verwendungen, Surrogate, ersparte Aufwendungen und Gefahrtragung bei § 818 BGB strukturiert prüfen. Output: Wert- und Risiko-Tabelle."
+description: "Wenn es um Nutzungen, Verwendungen und Gefahrtragung bei Paragraf 818 BGB in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nutzungen, Verwendungen und Gefahrtragung bei § 818 BGB

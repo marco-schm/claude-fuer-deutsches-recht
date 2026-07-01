@@ -1,6 +1,6 @@
 ---
 name: db-050-red-team-keine-sweat-of-the-brow-verwechslung
-description: "Datenbankrecht: Red-Team keine Sweat-of-the-brow-Verwechslung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Red-Team keine Sweat-of-the-brow-Verwechslung in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Red-Team keine Sweat-of-the-brow-Verwechslung

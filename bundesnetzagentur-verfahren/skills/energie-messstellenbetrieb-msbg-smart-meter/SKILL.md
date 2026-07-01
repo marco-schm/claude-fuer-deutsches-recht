@@ -1,6 +1,6 @@
 ---
 name: energie-messstellenbetrieb-msbg-smart-meter
-description: "Energie / Messstellenbetrieb MsbG Smart Meter: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT im BNetzA-Verfahren."
+description: "Wenn es um Energie: Messstellenbetrieb MsbG Smart Meter in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Energie: Messstellenbetrieb MsbG Smart Meter

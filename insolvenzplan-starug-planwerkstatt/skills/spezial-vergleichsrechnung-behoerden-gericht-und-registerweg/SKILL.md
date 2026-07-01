@@ -1,6 +1,6 @@
 ---
 name: spezial-vergleichsrechnung-behoerden-gericht-und-registerweg
-description: "Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg

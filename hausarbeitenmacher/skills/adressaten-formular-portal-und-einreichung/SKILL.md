@@ -1,6 +1,6 @@
 ---
 name: adressaten-formular-portal-und-einreichung
-description: "Adressaten: Formular, Portal und Einreichungslogik im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Adressaten: Formular, Portal und Einreichungslogik in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Adressaten: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: schweinehaltung-vergleich-suchen
-description: "Schweinehaltung: Vergleich suchen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Schweinehaltung Vergleich Suchen in Tierschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Schweinehaltung Vergleich Suchen

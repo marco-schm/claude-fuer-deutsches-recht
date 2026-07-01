@@ -1,6 +1,6 @@
 ---
 name: anfechtung-routing
-description: "Routing-Skill für Anfechtung nach §§ 119 bis 124 und § 142 BGB: Prüfsituation in Klausur oder Mandat — Anfechtungsgrund bestimmen, Anfechtungserklärung und Gegner prüfen, Frist berechnen, Ausschlüsse und Folgen nach §§ 122 und 142 BGB darstellen."
+description: "Wenn es um Anfechtung — Routing und Gesamtprüfung Paragrafen 119 bis 124 BGB in BGB AT Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anfechtung — Routing und Gesamtprüfung §§ 119 bis 124 BGB

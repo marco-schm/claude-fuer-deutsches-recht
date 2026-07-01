@@ -1,6 +1,6 @@
 ---
 name: spezial-inso-risikoampel-und-gegenargumente
-description: "InsO: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um InsO: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Insolvenz- und Sanierungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # InsO: Risikoampel, Gegenargumente und Verteidigungslinien

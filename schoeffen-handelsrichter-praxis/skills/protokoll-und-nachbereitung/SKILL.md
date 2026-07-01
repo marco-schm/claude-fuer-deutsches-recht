@@ -1,6 +1,6 @@
 ---
 name: protokoll-und-nachbereitung
-description: "Protokoll und Nachbereitung: erklärt sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter P..."
+description: "Wenn es um Protokoll und Nachbereitung in Schöffen und Handelsrichter Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Protokoll und Nachbereitung

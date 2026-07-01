@@ -1,6 +1,6 @@
 ---
 name: bodenabfertigung-register-pfandrecht
-description: "Mandant will Zulassungsstatus und Entgelt-Tarife von Bodenabfertigungsdienstleistern auswerten. Skill prüft BADV EU-RL 96/67 EG Zulassungsregister und Entgelt-Genehmigungen und liefert Compliance-Status-Bericht im Luftrecht Flughafenrecht."
+description: "Wenn es um Bodenabfertigung – Register auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bodenabfertigung – Register auswerten

@@ -1,6 +1,6 @@
 ---
 name: glossary-commercial-court-de-en
-description: "Erstellt ein DE/EN-Glossar für Commercial-Court-Mandate: ZPO-Begriffe, Anträge, Beweis, Tenor, Vergleich, Rechtsmittel und falsche Freunde im Commercial Courts Deutschland."
+description: "Wenn es um Commercial Court Glossary in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Commercial Court Glossary

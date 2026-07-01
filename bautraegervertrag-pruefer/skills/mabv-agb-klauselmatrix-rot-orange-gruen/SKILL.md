@@ -1,6 +1,6 @@
 ---
 name: mabv-agb-klauselmatrix-rot-orange-gruen
-description: "Erstellt eine Bauträgervertrags-Klauselmatrix mit Rot/Orange/Grün-Befunden zu MaBV-Raten, § 650m-Sicherheit, Abnahme, Fertigstellung, Vormerkung, Preisanpassung, WEG-Änderung, Bausoll und Druckmustern."
+description: "Wenn es um MaBV-/AGB-Klauselmatrix Rot-Orange-Grün in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # MaBV-/AGB-Klauselmatrix Rot-Orange-Grün

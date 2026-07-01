@@ -1,6 +1,6 @@
 ---
 name: cic-vorvertragliche-pflichten-schnittstelle
-description: "Klausurfall zu culpa in contrahendo nach §§ 280 Abs. 1 und 311 Abs. 2 BGB: Aufnahme von Vertragsverhandlungen, vorvertragliche Aufklärungs- und Schutzpflichten, Verschulden bei Vertragsschluss und Schadensersatz bei Abbruch oder Täuschung."
+description: "Wenn es um Culpa in contrahendo — Vorvertragliche Pflichten Paragrafen 280 und 311 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Culpa in contrahendo — Vorvertragliche Pflichten §§ 280 und 311 BGB

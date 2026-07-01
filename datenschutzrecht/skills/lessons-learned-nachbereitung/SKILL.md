@@ -1,6 +1,6 @@
 ---
 name: lessons-learned-nachbereitung
-description: "Strukturiert die Lessons-Learned-Nachbereitung eines Datenschutzvorfalls. Behandelt: Post-Mortem-Workshop; Ursachenanalyse Root Cause; Maßnahmenkatalog; Verantwortlichkeiten und Fristen; Update interner Richtlinien; Awareness-Schulung; Übung tabletop oder ernst; Kommunikation an Geschäftsleitung;..."
+description: "Wenn es um Lessons Learned und Nachbereitung Datenschutzvorfall in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lessons Learned und Nachbereitung Datenschutzvorfall

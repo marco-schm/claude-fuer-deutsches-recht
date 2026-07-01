@@ -1,6 +1,6 @@
 ---
 name: vergleichswert-story
-description: "Vergleichswert Story: steuert Warum ein Vergleich wirtschaftlich sinnvoll oder falsch ist; Kosten, Zeit, Risiko und Beziehung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Vergleichswert Story in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vergleichswert Story

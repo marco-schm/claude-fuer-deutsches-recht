@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Patentrecherche (FTO, Validity, Family-Watch): trennt fehlende Tatsachen von fehlenden Belegen (Erfindungsmeldung, Anspruchssatz, Recherche-Report), nennt pro Lücke Beweisthema, Beschaffungsweg (DPMA), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

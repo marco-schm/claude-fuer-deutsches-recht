@@ -1,6 +1,6 @@
 ---
 name: aufsichts-feed-monitor
-description: "Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Änderungen für Mandanten identifizieren. KWG WpHG DORA VAG BaFin-Rundschreiben. Prüfraster: Relevanz für Mandant Umsetzungsfrist Handlungsbedarf Meldepflicht. Output: Monitoring-Bericht relevante Änderungen Handlun..."
+description: "Wenn es um Regulatorischer Feed-Watcher in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Regulatorischer Feed-Watcher

@@ -1,6 +1,6 @@
 ---
 name: bmas-arbeitsrecht-und-arbeitsschutz
-description: "Sachbereich Arbeitsrecht und Arbeitsschutz im Geschäftsbereich BMAS: Normbestand (BGB-Arbeitsrecht; KSchG; TzBfG; ArbZG; ArbSchG; BetrVG; SprAuG; MiLoG.); Akteure (BMAS; BAuA; ArbGericht; LAG; BAG; Arbeitsschutzbehoerden der Länder.); EU-Bezug (Arbeitsschutz-RL; Arbeitszeit-RL; Plattformarbeit-R..."
+description: "Wenn es um Arbeitsrecht und Arbeitsschutz (BMAS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsrecht und Arbeitsschutz (BMAS)

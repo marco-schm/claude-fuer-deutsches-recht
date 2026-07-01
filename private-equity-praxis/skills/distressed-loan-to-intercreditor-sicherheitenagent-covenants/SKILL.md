@@ -1,6 +1,6 @@
 ---
 name: distressed-loan-to-intercreditor-sicherheitenagent-covenants
-description: "Prüft Erwerb notleidender Forderungen mit Ziel Kontrolle, Debt-Equity-Swap, Insolvenzplan oder Enforcement im Private Equity Praxis."
+description: "Wenn es um Distressed Debt und Loan-to-Own in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Distressed Debt und Loan-to-Own

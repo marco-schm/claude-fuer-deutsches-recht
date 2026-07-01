@@ -1,6 +1,6 @@
 ---
 name: handelsvertretervertrag-entwurf
-description: "Unterstützt bei Erstellung und Verhandlung von Handelsvertreterverträgen: strukturierter Vertragsentwurf mit Mindestinhalten nach §§ 84-92c HGB, Checkliste für AGB-feste Klauseln, Regelungen zu Provision, Bezirk, Ausgleich, Wettbewerbsverbot und Kündigung sowie Verhandlungshinweise für beide Seit..."
+description: "Wenn es um Handelsvertretervertrag — Entwurf und Verhandlung nach Paragrafen 84 bis 92c HGB in Handelsvertreterrecht und Vertriebsverträge geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Handelsvertretervertrag — Entwurf und Verhandlung nach §§ 84 bis 92c HGB

@@ -1,6 +1,6 @@
 ---
 name: spezial-source-red-team-und-qualitaetskontrolle
-description: "Source: Red-Team und Qualitätskontrolle im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Source: Red-Team und Qualitätskontrolle in Plugin: Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Source: Red-Team und Qualitätskontrolle

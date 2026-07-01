@@ -1,6 +1,6 @@
 ---
 name: bescheid-lesen-tenor-begruendung-belehrung
-description: "Bescheid lesen: Selbstvertreter-Leitfaden zum Aufschluesseln eines Sozialleistungsbescheids. Skill behandelt Tenor (Entscheidungsformel) Begruendung (Sachverhalt rechtlich) Rechtsbehelfsbelehrung Anlagen und typische Fehler. Liefert Prüfraster."
+description: "Wenn es um Bescheid Lesen Tenor Begruendung Belehrung in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bescheid Lesen Tenor Begruendung Belehrung

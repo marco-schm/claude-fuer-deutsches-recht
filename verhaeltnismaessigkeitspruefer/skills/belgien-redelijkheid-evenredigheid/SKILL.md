@@ -1,6 +1,6 @@
 ---
 name: belgien-redelijkheid-evenredigheid
-description: Belgische Verhältnismäßigkeitsdogmatik des Grondwettelijk Hof Cour constitutionnelle und des Raad van State Conseil d Etat ueber Redelijkheidstoets und Evenredigheidstoets im Rahmen von Art 10 11 GW Gleichheit und Art 22 23 GW Privatleben Sozialgrundrechte. Mit Bezug zu EMRK Art 8 bis 11 Charta und Hinweisen auf Strukturunterschiede zur deutschen Vier-Stufen-Prüfung und zur Foederalismus-Prüfung der Bevoegdheidsoverschrijding.
+description: "Wenn es um Belgien Redelijkheid und Evenredigheid in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Belgien Redelijkheid und Evenredigheid

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-developer-ip-open-source-us
-description: "Rechtsabteilungs-Fachmodul für Developer-IP bei deutschen Angestellten: Code-Rechte, Nebenprojekte, Repos und Freelancer-Beiträge werden aufgeklärt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Softwarerecht De Eu Us."
+description: "Wenn es um Rechtsabteilung: Developer-IP bei deutschen Angestellten in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsabteilung: Developer-IP bei deutschen Angestellten

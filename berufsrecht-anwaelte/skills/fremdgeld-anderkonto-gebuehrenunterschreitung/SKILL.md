@@ -1,6 +1,6 @@
 ---
 name: fremdgeld-anderkonto-gebuehrenunterschreitung
-description: "Anwälte: fremdgeld und anderkonto - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Fremdgeld Anderkonto Gebuehrenunterschreitung in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: fremdgeld und anderkonto - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

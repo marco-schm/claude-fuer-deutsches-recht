@@ -1,6 +1,6 @@
 ---
 name: streitbeilegung-bnetza
-description: "Streitbeilegung bei Zugang, Mitnutzung, Entgelt, Nummerierung oder Anbieterwechsel mit BNetzA-Beteiligung im Telekommunikationsrecht."
+description: "Wenn es um BNetzA-Streitbeilegung zwischen Unternehmen in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BNetzA-Streitbeilegung zwischen Unternehmen

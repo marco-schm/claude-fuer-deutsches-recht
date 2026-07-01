@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte-anwaltschaft-berufsrecht-historisch-richterbild
-description: "Deutsche Rechtsgeschichte: Geschichte der Anwaltschaft und des Berufsrechts. Reichsanwaltsordnung 1878, BRAO 1959, Anwaltszulassung und freier Beruf als verfassungsrechtlich geschuetztes Gut im Deutsche Rechtsgeschichte."
+description: "Wenn es um Anwaltschaft und Berufsrecht historisch in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwaltschaft und Berufsrecht historisch

@@ -1,6 +1,6 @@
 ---
 name: off-label-rare-disease
-description: "Off-Label bei seltener Erkrankung: moderner Medizinrechts-Skill für Off-Label-Use, Seltenheit, Datenlage, lebensbedrohliche Erkrankung und GKV-Erstattung: Off-Label bei seltener Erkrankung: moderner Medizinrechts-Skill für Off-Label-Use, Seltenheit, Datenla..."
+description: "Wenn es um Off Label Rare Disease in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Off-Label bei seltener Erkrankung: moderner Medizinrechts-Skill für Off-Label-Use, Seltenheit, Datenlage, lebensbedrohliche Erkrankung und GKV-Erstattung

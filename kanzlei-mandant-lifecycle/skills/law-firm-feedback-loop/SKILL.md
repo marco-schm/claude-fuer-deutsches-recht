@@ -1,6 +1,6 @@
 ---
 name: law-firm-feedback-loop
-description: "Law Firm Feedback Loop: steuert Mandant gibt Feedback ohne Gesichtsverlust; Kanzlei verbessert sich messbar zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Law Firm Feedback Loop in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Law Firm Feedback Loop

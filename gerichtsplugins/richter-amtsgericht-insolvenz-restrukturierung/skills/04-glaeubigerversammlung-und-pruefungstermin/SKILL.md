@@ -1,6 +1,6 @@
 ---
 name: 04-glaeubigerversammlung-und-pruefungstermin
-description: "Gläubigerversammlung Paragrafen 74 ff. InsO, Berichtstermin Paragraf 156, Prüfungstermin Paragraf 176, Feststellung zur Tabelle Paragrafen 174 ff."
+description: "Wenn es um 04 Gläubigerversammlung und Prüfungstermin in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 04 Gläubigerversammlung und Prüfungstermin

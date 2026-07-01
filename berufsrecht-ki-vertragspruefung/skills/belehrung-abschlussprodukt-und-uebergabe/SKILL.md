@@ -1,6 +1,6 @@
 ---
 name: belehrung-abschlussprodukt-und-uebergabe
-description: "Belehrung: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Belehrung: Abschlussprodukt und Übergabe in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Belehrung: Abschlussprodukt und Übergabe

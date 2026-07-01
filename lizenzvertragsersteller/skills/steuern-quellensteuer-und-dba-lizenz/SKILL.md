@@ -1,6 +1,6 @@
 ---
 name: steuern-quellensteuer-und-dba-lizenz
-description: "Steuern und Quellensteuer im Lizenzvertrag: $ 49 EStG Quellensteuer auf Royalties 15 Prozent; DBA-Reduktion (z. B. 0 Prozent DE-USA mit Antrag); EU-Zinsen-Lizenzgebuehren-Richtlinie; Umsatzsteuer auf Lizenzen; Gross-up-Klauseln."
+description: "Wenn es um Steuern und Quellensteuer — Lizenz in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuern und Quellensteuer — Lizenz

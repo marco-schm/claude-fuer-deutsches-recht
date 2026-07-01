@@ -1,6 +1,6 @@
 ---
 name: patent-software-saas-terms-trade-secret
-description: "Prüft Neuheit, obviousness, written description, enablement und definiteness bei softwarebezogenen US-Patenten im Softwarerecht De Eu Us."
+description: "Wenn es um US Software Patent Paragrafen 102/103/112 in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # US Software Patent §§ 102/103/112

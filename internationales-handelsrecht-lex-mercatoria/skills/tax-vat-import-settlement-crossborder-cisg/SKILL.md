@@ -1,6 +1,6 @@
 ---
 name: tax-vat-import-settlement-crossborder-cisg
-description: "Internationales Handelsrecht: Steuerrecht im internationalen Handel. Umsatzsteuer bei grenzüberschreitenden Lieferungen (§ 4 Nr. 1a UStG, 0%-Satz), Einfuhrumsatzsteuer, Verrechnungspreise (OECD-Leitsätze), Betriebsstättenrisiko und withholding tax im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Steuerrecht im internationalen Handel in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerrecht im internationalen Handel

@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Datenschutzrecht DSGVO/BDSG: trennt fehlende Tatsachen von fehlenden Belegen (Verarbeitungsverzeichnis, DSFA, AVV), nennt pro Lücke Beweisthema, Beschaffungsweg (BfDI Bund), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

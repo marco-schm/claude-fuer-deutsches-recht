@@ -1,6 +1,6 @@
 ---
 name: spezial-versr-red-team-und-qualitaetskontrolle
-description: "Versr: Red-Team und Qualitätskontrolle im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Versr: Red-Team und Qualitätskontrolle in Fachanwalt Versicherungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versr: Red-Team und Qualitätskontrolle

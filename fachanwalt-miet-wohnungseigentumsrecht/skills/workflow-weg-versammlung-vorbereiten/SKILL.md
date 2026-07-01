@@ -1,6 +1,6 @@
 ---
 name: workflow-weg-versammlung-vorbereiten
-description: "Eigentümerversammlung vorbereiten: Prüfungslinie für Miet- und WEG-Recht: macht Einladung, TOPs, Beschlussvorschläge und Mehrheiten praxistauglich; mit Kaltstart, Fristencheck, Belegm..."
+description: "Wenn es um Eigentümerversammlung vorbereiten: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eigentümerversammlung vorbereiten: Prüfungslinie für Miet- und WEG-Recht

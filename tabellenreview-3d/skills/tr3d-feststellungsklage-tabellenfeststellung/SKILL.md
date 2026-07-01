@@ -1,6 +1,6 @@
 ---
 name: tr3d-feststellungsklage-tabellenfeststellung
-description: "Spezialfall Feststellungsklage zur Tabellenfeststellung § 180 InsO: Klagebefugnis, Frist, Streitwert. Prüfraster für Gläubiger und Insolvenzverwalter."
+description: "Wenn es um TR3D: Feststellungsklage Tabelle in Tabellenreview 3D geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tr3d Feststellungsklage Tabellenfeststellung; Arbeitsfeld: Tabellenreview 3D."
 ---
 
 # TR3D: Feststellungsklage Tabelle

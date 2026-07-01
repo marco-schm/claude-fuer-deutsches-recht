@@ -1,6 +1,6 @@
 ---
 name: gefluegelmast-halterpflichten-erklaere
-description: "Geflügelmast: Halterpflichten erklären im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Gefluegelmast Halterpflichten Erklaere in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gefluegelmast Halterpflichten Erklaere

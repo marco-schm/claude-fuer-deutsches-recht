@@ -1,6 +1,6 @@
 ---
 name: inv-007-datenschutz
-description: "Prueft DSGVO/BDSG bei E-Mail-Auswertung, Chatlogs, Forensik, Zugriffen, Drittstaatentransfer und Betroffenenrechten."
+description: "Wenn es um Datenschutz in Untersuchungen in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz in Untersuchungen

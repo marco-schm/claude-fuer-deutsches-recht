@@ -1,6 +1,6 @@
 ---
 name: inso-ki-anfechtungsansprueche-schuldnerakten
-description: "KI-gestütztes Screening von Schuldnerakten auf mögliche Insolvenzanfechtungsansprüche nach §§ 129-147 InsO. Prüft Zahlungsdaten, Kontoauszüge, OPOS, Verträge, Sicherheiten, Gesellschafterdarlehen und Kommunikation; erzeugt Kandidatenmatrix mit Belegen, Unsicherheiten und Human-Review-Grenzen. Sch..."
+description: "Wenn es um digitale Werkzeuge-Screening Schuldnerakten — mögliche Anfechtungsansprüche in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI-Screening Schuldnerakten — mögliche Anfechtungsansprüche

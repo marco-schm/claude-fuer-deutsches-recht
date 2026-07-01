@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-btmg-29-grundtatbestand
-description: "BtMG-Grundtatbestand § 29 Abs: 1 BtMG: Anbau, Herstellung, Handel, Ein- und Ausfuhr, Erwerb, Besitz von Betaeubungsmitteln. Strafrahmen bis fuenf Jahre Freiheitsstrafe oder Geldstrafe. Abgrenzung zu KCanG seit 01.04.2024. Prue..."
+description: "Wenn es um BtMG-Grundtatbestand Paragraf 29 Abs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BtMG-Grundtatbestand § 29 Abs

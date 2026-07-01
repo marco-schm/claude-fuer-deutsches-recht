@@ -1,6 +1,6 @@
 ---
 name: konkurrentenschutz-sofortprogramm-einzelgerechtigkeit
-description: "Konkurrentenschutz-Sofortprogramm: Bewerbungsverfahrensanspruch, Konkurrentenmitteilung, Stillhaltefrist, Eilantrag, Akteneinsicht und Einzelgerechtigkeit im Beamtenrecht."
+description: "Wenn es um konkurrentenschutz-sofortprogramm-einzelgerechtigkeit in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # konkurrentenschutz-sofortprogramm-einzelgerechtigkeit

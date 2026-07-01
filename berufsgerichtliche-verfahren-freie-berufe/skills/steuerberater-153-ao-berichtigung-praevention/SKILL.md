@@ -1,6 +1,6 @@
 ---
 name: steuerberater-153-ao-berichtigung-praevention
-description: "Steuerberater § 153 AO Berichtigung (Präventions- und Organisationspaket): steuert Berichtigungspflicht, Selbstanzeigegrenze, Mandantenweisung und Berufsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie..."
+description: "Wenn es um Steuerberater Paragraf 153 AO Berichtigung: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater § 153 AO Berichtigung: Präventions- und Organisationspaket

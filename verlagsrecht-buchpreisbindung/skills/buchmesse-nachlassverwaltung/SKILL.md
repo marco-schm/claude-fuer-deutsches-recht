@@ -1,6 +1,6 @@
 ---
 name: buchmesse-nachlassverwaltung
-description: "Verlagsrecht: Rechtehandel auf Buchmessen (Frankfurt, Bologna) — NDA, Letter of Intent, Lizenzvertragsvorbereitung, exklusive Verhandlung und internationale Lizenzpraxis im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-037 · Buchmesse: Rechtehandel und NDA in Verlagsrecht und Buchpreisbindung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Verl-037 · Buchmesse: Rechtehandel und NDA

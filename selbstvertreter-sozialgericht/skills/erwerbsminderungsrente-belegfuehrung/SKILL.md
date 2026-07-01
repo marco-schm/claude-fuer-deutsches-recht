@@ -1,6 +1,6 @@
 ---
 name: erwerbsminderungsrente-belegfuehrung
-description: "Erwerbsminderungsrente Belegfuehrung. Skill erklaert wie Selbstvertreter im EM-Rentenstreit medizinische Belege sammeln und gewichten Arztberichte Klinikberichte Reha-Berichte Privatgutachten Pflegegrad-Bezuege. Liefert Strategie."
+description: "Wenn es um Erwerbsminderungsrente Belegfuehrung in selbstvertreter-sozialgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Erwerbsminderungsrente Belegfuehrung

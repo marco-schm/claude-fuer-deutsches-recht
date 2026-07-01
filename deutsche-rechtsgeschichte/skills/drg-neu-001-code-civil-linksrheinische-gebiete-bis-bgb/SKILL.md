@@ -1,6 +1,6 @@
 ---
 name: drg-neu-001-code-civil-linksrheinische-gebiete-bis-bgb
-description: "Deutsche Rechtsgeschichte: Code civil linksrheinische Gebiete bis BGB mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Deutsche Rechtsgeschichte: Code civil linksrheinische Gebiete bis BGB in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: Code civil linksrheinische Gebiete bis BGB

@@ -1,6 +1,6 @@
 ---
 name: chn-046-technology-transfer-risk
-description: "Festlandchina Wirtschaftsverkehr: Technology Transfer Risk. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Technology Transfer Risk in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Technology Transfer Risk

@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Fachanwalt Gewerblicher Rechtsschutz: wählt den nächsten Spezial-Skill nach Engpass (Widerspruch Marke 3 Mon., Registerauszug, Abmahnung, Unterlassungserklärung), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Anschluss-Routing

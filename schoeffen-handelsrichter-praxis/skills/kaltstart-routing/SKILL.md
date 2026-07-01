@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Allgemeiner Kaltstart und Routing: erklärt führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung."
+description: "Wenn es um Allgemeiner Kaltstart und Routing in Schöffen und Handelsrichter Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Allgemeiner Kaltstart und Routing

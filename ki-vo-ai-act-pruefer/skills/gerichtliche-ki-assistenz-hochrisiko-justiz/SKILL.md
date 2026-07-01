@@ -1,6 +1,6 @@
 ---
 name: gerichtliche-ki-assistenz-hochrisiko-justiz
-description: "Justizielle KI als Hochrisiko-Kontext: Systeme zur Unterstuetzung richterlicher oder behördlicher Rechtsanwendung, Sachverhaltswuerdigung, Aktenpriorisierung und Entscheidungsvorbereitung nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO."
+description: "Wenn es um Gerichtliche digitale Werkzeuge-Assistenz und Anhang III in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt Stichwort für die Auswahl: Gerichtliche Ki Assistenz Hochrisiko Justiz."
 ---
 
 # Gerichtliche KI-Assistenz und Anhang III

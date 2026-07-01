@@ -1,6 +1,6 @@
 ---
 name: flug-massenklage-prozessfinanzierung-spezial
-description: "Spezialfall Massenklage und Prozessfinanzierung in Fluggastrechten: Abtretung, Inkasso-Modelle, RDG-Grenzen, Anti-Claim-Klausel. Prüfraster für Verbraucher und Legal-Tech."
+description: "Wenn es um Flug: Massenklage RDG in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Flug Massenklage Prozessfinanzierung Spezial; Arbeitsfeld: Fluggastrechte."
 ---
 
 # Flug: Massenklage RDG

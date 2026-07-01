@@ -1,6 +1,6 @@
 ---
 name: wunschermittlung-unterstuetzte-entscheidung
-description: "Wunschermittlung und unterstützte Entscheidung nach § 1821 BGB: hilft Betreuern, Wünsche, frühere Präferenzen, mutmaßlichen Willen, Kommunikationshilfen und Schutzgrenzen sauber zu dokumentieren, ohne die betreute Person zu entmündigen."
+description: "Wenn es um Wunschermittlung und unterstützte Entscheidung in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wunschermittlung und unterstützte Entscheidung

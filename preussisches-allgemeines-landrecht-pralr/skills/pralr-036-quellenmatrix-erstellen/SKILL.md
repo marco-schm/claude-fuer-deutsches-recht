@@ -1,6 +1,6 @@
 ---
 name: pralr-036-quellenmatrix-erstellen
-description: "PrALR: Quellenmatrix aus Digitalisat, Edition, OCR, Sekundärhinweis und heutiger Anschlussnorm erstellen."
+description: "Wenn es um Quellenmatrix in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 036 Quellenmatrix Erstellen; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Quellenmatrix

@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrer-pflichten-startphase
-description: "Pflichten des GmbH-Geschäftsführers in Gründungs- und Startphase: Stammkapitaleinzahlung, Insolvenzantragspflicht, Buchführung. Normen: Paragraf 35 43 64 GmbHG, Paragraf 15a InsO. Prüfraster: Handlungspflichten, Haftungsrisiken, Compliance-Checkliste. Output: Pflichtenliste Geschäftsführer Gründungsphase. Abg..."
+description: "Wenn es um Erste 100 Tage Geschäftsführer-Pflichten in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Erste 100 Tage Geschäftsführer-Pflichten

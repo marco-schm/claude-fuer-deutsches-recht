@@ -1,6 +1,6 @@
 ---
 name: co-investor-coordination
-description: "Plant Kommunikation mit Lead, Angels, Family Offices, Corporate VC, Anwälten und Foundern im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Co-Investoren koordinieren in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Co-Investoren koordinieren

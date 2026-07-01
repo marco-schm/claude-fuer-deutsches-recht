@@ -1,6 +1,6 @@
 ---
 name: buergschaft-auf-erste-anforderung-bank
-description: "Bürgschaft oder Garantie auf erste Anforderung aus Bankensicht prüfen: Textauslegung, Abrufmechanik, offensichtlicher Rechtsmissbrauch, einstweiliger Rechtsschutz, Regress gegen Kunden und Dokumentation der Zahlungsentscheidung im Bank-Rechtsabteilung."
+description: "Wenn es um Bürgschaft auf erste Anforderung in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bürgschaft auf erste Anforderung

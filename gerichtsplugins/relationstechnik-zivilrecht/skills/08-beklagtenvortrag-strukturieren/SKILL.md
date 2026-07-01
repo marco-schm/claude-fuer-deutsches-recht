@@ -1,6 +1,6 @@
 ---
 name: 08-beklagtenvortrag-strukturieren
-description: "Beklagtenvortrag ordnen: Bestreiten der Anspruchsvoraussetzungen, Einwendungen (rechtshindernd, rechtsvernichtend), Einreden (rechtshemmend wie Verjaehrung)"
+description: "Wenn es um 08 Beklagtenvortrag Strukturieren in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # 08 Beklagtenvortrag Strukturieren

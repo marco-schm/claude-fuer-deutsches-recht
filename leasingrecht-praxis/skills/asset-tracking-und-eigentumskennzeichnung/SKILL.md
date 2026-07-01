@@ -1,6 +1,6 @@
 ---
 name: asset-tracking-und-eigentumskennzeichnung
-description: "Asset Tracking und Eigentumskennzeichnung: GPS, RFID, QR-Codes, rechtliche Grundlagen, Datenschutz und Durchsetzung gegenüber Dritten im Leasingrecht."
+description: "Wenn es um Asset Tracking und Eigentumskennzeichnung im Leasing in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Asset Tracking und Eigentumskennzeichnung im Leasing

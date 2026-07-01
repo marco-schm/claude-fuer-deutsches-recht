@@ -1,6 +1,6 @@
 ---
 name: konnossement-wrackpflicht-pruefen
-description: "Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Konnossements-Transaktion (Bill of Lading). Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 513-525 Konnossement..."
+description: "Wenn es um Konnossement – Wrackbeseitigungspflicht prüfen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konnossement – Wrackbeseitigungspflicht prüfen

@@ -1,6 +1,6 @@
 ---
 name: locked-box-completion-accounts
-description: "Locked Box und Completion Accounts Spezialist: vergleicht Kaufpreismechaniken, Leakage, Working Capital, Net Debt, Accounts-Prozess und Dispute-Mechanik: Locked Box und Completion Accounts Spezialist: vergleicht Kaufpreismechaniken, Leakage, Working Capita..."
+description: "Wenn es um Locked Box Completion Accounts in Großkanzlei Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Locked Box Completion Accounts; Arbeitsfeld: Großkanzlei Corporate/M&A."
 ---
 
 # Locked Box und Completion Accounts Spezialist: vergleicht Kaufpreismechaniken, Leakage, Working Capital, Net Debt, Accounts-Prozess und Dispute-Mechanik.

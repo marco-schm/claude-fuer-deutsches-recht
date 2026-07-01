@@ -1,6 +1,6 @@
 ---
 name: meldung-lfdi-bw
-description: "Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI BW) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Baden-Württemberg und für nicht-öffentliche Stellen; Online-Formular und Postw..."
+description: "Wenn es um Meldung Art. 33 DSGVO an die LfDI BW in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meldung Art. 33 DSGVO an die LfDI BW

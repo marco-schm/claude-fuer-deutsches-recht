@@ -1,6 +1,6 @@
 ---
 name: uebersicht-einsteiger-deaktivieren
-description: "Einfuehrender Überblick für Einsteiger: Was kann der Kanzlei-Builder-Hub? Skills installieren, deaktivieren, deinstallieren, anpassen. Routet die wichtigsten Fragen an die passenden Sub-Skills. Mit Beispielszenarien aus dem Kanzleialltag im Kanzlei Builder Hub."
+description: "Wenn es um Builder: Übersicht Einsteiger in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Builder: Übersicht Einsteiger

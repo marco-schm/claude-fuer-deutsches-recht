@@ -1,6 +1,6 @@
 ---
 name: wehrsold-freiwilliger-wehrdienst-und-unterhaltssicherung
-description: "Wehrsold FWD Unterhaltssicherung: prüft WSG, UhSiG, Höhe, Verfahren und Schnittstellen SGB. Norm-/Quellenanker: WSG, UhSiG, § 58b SG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Wehrsold, freiwilliger Wehrdienst und Unterhaltssicherung in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wehrsold, freiwilliger Wehrdienst und Unterhaltssicherung

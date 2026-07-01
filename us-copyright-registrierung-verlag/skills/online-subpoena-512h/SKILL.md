@@ -1,6 +1,6 @@
 ---
 name: online-subpoena-512h
-description: "Prüft Subpoena zur Identifizierung mutmaßlicher Verletzer, Notice-Voraussetzungen, Provider-Rolle und Datenschutzfolgen im Us Copyright Registrierung Verlag."
+description: "Wenn es um DMCA Subpoena Paragraf 512h in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # DMCA Subpoena § 512h

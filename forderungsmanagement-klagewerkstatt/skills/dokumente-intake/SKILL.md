@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake fuer Forderungsakten: liest eine vorhandene Ordner- oder ZIP-Struktur zuerst aus, sortiert Vertrag, Leistung, Rechnung, Mahnung, Zahlung, Mahnbescheid, Widerspruch, Titel und Vollstreckungsunterlagen und erzeugt daraus Akteninventar, Belegmatrix und Lueckenliste."
+description: "Wenn es um Dokumente Intake in Forderungsmanagement — Klagewerkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Dokumente Intake

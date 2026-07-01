@@ -1,6 +1,6 @@
 ---
 name: originalismus-und-gesetzgebungsmaterialien-deutschland
-description: "Analysiert den deutschen Originalismus als Auslegungsansatz, der den historischen Gesetzgeberwillen konsequent in den Mittelpunkt stellt, und vergleicht ihn mit dem US-amerikanischen Originalismus: Analysiert den deutschen Originalismus als Auslegungsansatz..."
+description: "Wenn es um Originalismus Und Gesetzgebungsmaterialien Deutschland in Methodenlehre bürgerliches Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Analysiert den deutschen Originalismus als Auslegungsansatz, der den historischen Gesetzgeberwillen konsequent in den Mittelpunkt stellt, und vergleicht ihn mit dem US-amerikanischen Originalismus

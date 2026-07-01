@@ -1,6 +1,6 @@
 ---
 name: datenschutzerklaerung-tracking-digitale
-description: "Datenschutzerklärung Tracking Consent DSGVO TTDSG/TDDDG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG im Ecomme..."
+description: "Wenn es um Datenschutzerklärung Tracking Consent DSGVO TTDSG/TDDDG in E-Commerce-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzerklärung Tracking Consent DSGVO TTDSG/TDDDG

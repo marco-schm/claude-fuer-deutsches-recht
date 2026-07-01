@@ -1,6 +1,6 @@
 ---
 name: security-governance-isms
-description: "Baut oder prüft ein ISMS als juristisch verwertbares Kontrollsystem im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Security Governance ISMS in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Security Governance ISMS

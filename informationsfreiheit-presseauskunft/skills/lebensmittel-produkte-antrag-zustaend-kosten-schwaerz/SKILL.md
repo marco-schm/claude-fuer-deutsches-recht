@@ -1,6 +1,6 @@
 ---
 name: lebensmittel-produkte-antrag-zustaend-kosten-schwaerz
-description: "Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Antrag formulieren im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Vig Lebensmittel Und Produkte Antrag F in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vig Lebensmittel Und Produkte Antrag F

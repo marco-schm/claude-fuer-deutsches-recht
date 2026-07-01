@@ -1,6 +1,6 @@
 ---
 name: massenentlassung-anzeige-eugh-junk-bag-6-azr-155-21
-description: "Massenentlassung Anzeigeverfahren Paragraf 17 KSchG mit EuGH Junk und BAG 6 AZR 155/21 als Prüfraster Anzeigezeitpunkt."
+description: "Wenn es um Massenentlassung Anzeige EuGH Junk BAG 6 Azr 155 21 in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Massenentlassung Anzeige EuGH Junk BAG 6 Azr 155 21

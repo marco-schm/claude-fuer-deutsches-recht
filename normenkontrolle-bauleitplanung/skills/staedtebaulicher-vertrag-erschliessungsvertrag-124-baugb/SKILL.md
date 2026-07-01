@@ -1,6 +1,6 @@
 ---
 name: staedtebaulicher-vertrag-erschliessungsvertrag-124-baugb
-description: "Prueft Erschließungsverträge nach BauGB Paragraf 124: Dritter, Erschließungsanlage, Kostenuebernahme, Spezialitaet gegenueber BauGB Paragraf 11 und Umgehungsrisiko."
+description: "Wenn es um Erschließungsvertrag nach BauGB Paragraf 124 in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Erschließungsvertrag nach BauGB Paragraf 124

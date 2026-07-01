@@ -1,6 +1,6 @@
 ---
 name: verl-037-buchmesse-rechtehandel-und-nda
-description: "Verlagsrecht: Buchmesse Rechtehandel und NDA mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Buchmesse Rechtehandel und NDA in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Buchmesse Rechtehandel und NDA

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-financial-institutions
-description: "Sanktions-Compliance für Banken und Finanzinstitute im Korrespondenzbankgeschaeft: Sanktionsscreening von Transaktionen und Gegenparteien nach VO (EU) 2580/2001 und sektorspezifischen Sanktionsverordnungen, SWIFT-Ausschluss-Implikationen, Correspondent-Banking-Due-Diligence. Output: Transaktions-..."
+description: "Wenn es um Korrespondenzbankgeschaeft: Sanktions-Compliance und Transaktionsscreening in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Korrespondenzbankgeschaeft: Sanktions-Compliance und Transaktionsscreening

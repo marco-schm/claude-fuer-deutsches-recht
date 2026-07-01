@@ -1,6 +1,6 @@
 ---
 name: agrar-mandantenfragen-typisch
-description: "Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Förderung, Genehmigungsverfahren, Anwohnerstreit, Tierschutz, GLOEZ-Verstoss: Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Förderung, Genehmigungsverfahren, Anwoh..."
+description: "Wenn es um Agrar Mandantenfragen Typisch in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Förderung, Genehmigungsverfahren, Anwohnerstreit, Tierschutz, GLOEZ-Verstoss

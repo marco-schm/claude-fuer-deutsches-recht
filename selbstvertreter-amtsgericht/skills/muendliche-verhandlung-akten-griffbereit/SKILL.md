@@ -1,6 +1,6 @@
 ---
 name: muendliche-verhandlung-akten-griffbereit
-description: "Mit Akten und Anlagen optimal in die muendliche Verhandlung vor dem Amtsgericht. Anlagen-Reiter Stichwort-Liste Mitschreib-Block Notizen zu Streit-Punkten. Vorbereitung der Argumente zur Replik im Termin. Praesenz oder Video 128a ZPO. Was zum Tisch was in die Tasche."
+description: "Wenn es um In den Termin gehen — Akten griffbereit, Notizen parat in selbstvertreter-amtsgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # In den Termin gehen — Akten griffbereit, Notizen parat

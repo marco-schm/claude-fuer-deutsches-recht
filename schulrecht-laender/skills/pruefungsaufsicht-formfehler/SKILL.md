@@ -1,6 +1,6 @@
 ---
 name: pruefungsaufsicht-formfehler
-description: "Prüft Aufsichtsmängel, Störungen, Täuschungsvorwürfe und Protokolle in Schulprüfungen im Schulrecht Länder."
+description: "Wenn es um Prüfungsaufsicht und Formfehler Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfungsaufsicht und Formfehler Schule

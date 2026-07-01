@@ -1,6 +1,6 @@
 ---
 name: spezial-mietvertrag-agb-klauseln
-description: "Mietvertrag AGB-Klauseln: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft typische Klauseln auf Transparenz, Überraschung und unangemessene Benachteiligung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Mietvertrag AGB-Klauseln in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietvertrag AGB-Klauseln

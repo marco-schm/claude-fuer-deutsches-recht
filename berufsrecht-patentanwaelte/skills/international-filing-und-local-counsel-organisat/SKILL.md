@@ -1,6 +1,6 @@
 ---
 name: international-filing-und-local-counsel-organisat
-description: "Patentanwälte: international filing und local counsel - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um International Filing Und Local Counsel Organisat in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: international filing und local counsel - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: sachstandsanfrage-und-untaetigkeitsbeschwerde
-description: "Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Skill klaert wie Selbstvertreter die Behörde anhalten koennen wenn diese ueberhaupt nicht entscheidet — Sachstandsanfrage formelle Dienstaufsichtsbeschwerde Untaetigkeitsklage 88 SGG. Liefert Vorlage."
+description: "Wenn es um Sachstandsanfrage Und Untaetigkeitsbeschwerde in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sachstandsanfrage Und Untaetigkeitsbeschwerde

@@ -1,6 +1,6 @@
 ---
 name: juristen-ulpian
-description: "Römisches Recht: Juristen Ulpian. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Juristen Ulpian in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Juristen Ulpian

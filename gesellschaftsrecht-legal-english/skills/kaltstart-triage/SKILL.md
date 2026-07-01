@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg für das Gesellschaftsrecht-Legal-English-Plugin: erkennt Begriffsschock, Deal-Kontext, Erfahrungslevel, Dokumenttyp und routet zu den passenden Corporate-English-Skills."
+description: "Wenn es um Gesellschaftsrecht Legal English - Einstieg in Didaktisches Gesellschaftsrecht — English Business Terms geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesellschaftsrecht Legal English - Einstieg

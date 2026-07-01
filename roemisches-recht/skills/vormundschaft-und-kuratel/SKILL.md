@@ -1,6 +1,6 @@
 ---
 name: vormundschaft-und-kuratel
-description: "Römisches Recht: Vormundschaft Und Kuratel. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Vormundschaft Und Kuratel in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vormundschaft Und Kuratel

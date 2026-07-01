@@ -1,6 +1,6 @@
 ---
 name: gliederung-mandantenunterlagen-memorandum
-description: "Gliederung: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Gliederung: Schriftsatz-, Brief- und Memo-Bausteine in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gliederung: Schriftsatz-, Brief- und Memo-Bausteine

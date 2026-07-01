@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-erfolgsaussicht-mutwilligkeit
-description: "Rechtsschutzversicherung: Ablehnung wegen fehlender Erfolgsaussicht oder Mutwilligkeit angreifen, ohne das Hauptmandat zu gefährden im Versicherungsrecht."
+description: "Wenn es um Rechtsschutz: Erfolgsaussicht und Mutwilligkeit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsschutz: Erfolgsaussicht und Mutwilligkeit

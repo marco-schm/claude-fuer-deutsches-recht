@@ -1,6 +1,6 @@
 ---
 name: inso-p215-bekanntmachung-und-wirkungen-der-einstellung
-description: "§ 215 InsO (Bekanntmachung und Wirkungen der Einstellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 215 InsO (Bekanntmachung und Wirkungen der Einstellung) im Mandat prüfen: Normzwec..."
+description: "Wenn es um Inso P215 Bekanntmachung Und Wirkungen Der Einstellung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 215 InsO (Bekanntmachung und Wirkungen der Einstellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

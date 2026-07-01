@@ -1,6 +1,6 @@
 ---
 name: 09-sachverstaendige-und-koerperliche-untersuchung
-description: "Auswahl und Auftrag an Sachverstaendige (Paragrafen 73 bis 83 StPO), koerperliche Untersuchung und Blutprobe (Paragraf 81a StPO), DNA-Identifizierung (Paragraf 81e StPO), Gutachtenfragen, Verwertung"
+description: "Wenn es um 09 Sachverstaendige und Koerperliche Untersuchung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 09 Sachverstaendige und Koerperliche Untersuchung

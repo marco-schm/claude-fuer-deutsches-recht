@@ -1,6 +1,6 @@
 ---
 name: fran-034-fitness-franchise-verbrauchervertraege
-description: "Franchiserecht: Fitness Franchise Verbraucherverträge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Fitness Franchise Verbraucherverträge in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Fitness Franchise Verbraucherverträge

@@ -1,6 +1,6 @@
 ---
 name: massenanlagen-sampling-repraesentativitaet
-description: "Hilft bei Tausenden gleichartiger Dokumente: Auswahl, repräsentative Beispiele, Nachreichungsvorbehalt, Anlagenband und Substantiierungsgrenze."
+description: "Wenn es um Massenanlagen, Sampling und Repräsentativität in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Massenanlagen Sampling Repraesentativitaet; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Massenanlagen, Sampling und Repräsentativität

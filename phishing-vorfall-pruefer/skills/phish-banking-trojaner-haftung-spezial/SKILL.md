@@ -1,6 +1,6 @@
 ---
 name: phish-banking-trojaner-haftung-spezial
-description: "Spezialfall Banking-Trojaner und Haftung bei nicht autorisierten Zahlungen § 675u BGB / § 675v BGB: grob fahrlaessig, starke Kundenauthentifizierung PSD2. Prüfraster Bank und Kunde im Phishing Vorfall Prüfer."
+description: "Wenn es um Phish: Banking-Trojaner Haftung in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Phish: Banking-Trojaner Haftung

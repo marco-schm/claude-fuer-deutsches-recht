@@ -1,6 +1,6 @@
 ---
 name: nda-nnn-agreement-china
-description: "NDA und NNN-Vereinbarungen (Non-Disclosure/Non-Use/Non-Circumvention) für China-Geschäft: Unterschied Standard-NDA vs. CN-NNN, Vertragsgestaltung für chinesisches Recht, Gerichtsstand Arbitration vs. CN-Gericht, Vertragspönalen und Durchsetzbarkeit, Verhältnis zu deutschem GeschGehG. Output: NNN..."
+description: "Wenn es um NDA und NNN-Vereinbarungen China: Gestaltung und Durchsetzung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NDA und NNN-Vereinbarungen China: Gestaltung und Durchsetzung

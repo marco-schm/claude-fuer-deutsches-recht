@@ -1,6 +1,6 @@
 ---
 name: preisanpassung-315-saldierung-und-loesungsrecht
-description: "Prüft Preisanpassungsklauseln im Bauträgervertrag: AGB-Charakter trotz Notar, § 309 Nr. 1 BGB, § 307 BGB, § 315 BGB, Saldierung, Transparenz, Lösungsrecht, § 313 BGB und Ausschluss von § 648a BGB."
+description: "Wenn es um Preisanpassung, Paragraf 315 BGB, Saldierung und Lösungsrecht in Bauträgervertrag-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Preisanpassung, § 315 BGB, Saldierung und Lösungsrecht

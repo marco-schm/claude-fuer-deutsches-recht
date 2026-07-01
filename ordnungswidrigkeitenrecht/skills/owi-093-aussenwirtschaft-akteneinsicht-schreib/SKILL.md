@@ -1,6 +1,6 @@
 ---
 name: owi-093-aussenwirtschaft-akteneinsicht-schreib
-description: "Ordnungswidrigkeitenrecht: Außenwirtschaft: Akteneinsicht schreiben. Akteneinsicht schreiben für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Aussenwirtschaft Akteneinsicht Schreib in Ordnungswidrigkeitenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Aussenwirtschaft Akteneinsicht Schreib

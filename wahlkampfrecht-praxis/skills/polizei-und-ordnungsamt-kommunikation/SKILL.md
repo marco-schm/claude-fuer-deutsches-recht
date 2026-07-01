@@ -1,6 +1,6 @@
 ---
 name: polizei-und-ordnungsamt-kommunikation
-description: "Wahlkampfrecht Praxis: robuste und freundliche Behördenkommunikation formulieren im Wahlkampfrecht."
+description: "Wenn es um Polizei Und Ordnungsamt Kommunikation in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Polizei Und Ordnungsamt Kommunikation

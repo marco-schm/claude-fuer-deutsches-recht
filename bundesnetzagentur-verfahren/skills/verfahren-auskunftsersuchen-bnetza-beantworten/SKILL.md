@@ -1,6 +1,6 @@
 ---
 name: verfahren-auskunftsersuchen-bnetza-beantworten
-description: "Verfahren / Auskunftsersuchen BNetzA beantworten: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis im BNetzA-Verfahren."
+description: "Wenn es um Verfahren: Auskunftsersuchen BNetzA beantworten in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verfahren: Auskunftsersuchen BNetzA beantworten

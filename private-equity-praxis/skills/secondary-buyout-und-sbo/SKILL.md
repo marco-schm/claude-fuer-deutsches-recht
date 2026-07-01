@@ -1,6 +1,6 @@
 ---
 name: secondary-buyout-und-sbo
-description: "Prüft Verkauf von PE-Sponsor an PE-Sponsor: Vendor DD, Reps, W&I, Stapled Financing und Prozessdisziplin im Private Equity Praxis."
+description: "Wenn es um Secondary Buyout in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Secondary Buyout

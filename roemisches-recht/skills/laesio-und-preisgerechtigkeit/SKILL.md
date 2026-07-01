@@ -1,6 +1,6 @@
 ---
 name: laesio-und-preisgerechtigkeit
-description: "Römisches Recht: Laesio Und Preisgerechtigkeit. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Laesio Und Preisgerechtigkeit in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laesio Und Preisgerechtigkeit

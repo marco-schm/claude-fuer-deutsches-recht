@@ -1,6 +1,6 @@
 ---
 name: richtlinie-zahlen-schwellen-und-berechnung
-description: "Richtlinie: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Richtlinie: Zahlen, Schwellenwerte und Berechnung in diesem Spezialbereich geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Richtlinie: Zahlen, Schwellenwerte und Berechnung

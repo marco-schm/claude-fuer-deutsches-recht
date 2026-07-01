@@ -1,6 +1,6 @@
 ---
 name: gefluegelmast-bussgeld-tiertransport
-description: "Geflügelmast: Bußgeld verteidigen. Buß im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Gefluegelmast Bussgeld Verteidigen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gefluegelmast Bussgeld Verteidigen

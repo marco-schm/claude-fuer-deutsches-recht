@@ -1,6 +1,6 @@
 ---
 name: didaktisches-gesellschafterliste
-description: "Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht Lega..."
+description: "Wenn es um Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel in Didaktisches Gesellschaftsrecht — English Business Terms geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel

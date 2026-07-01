@@ -1,6 +1,6 @@
 ---
 name: judgment-publication-jurisdiction-clause
-description: "Prüft Urteil, Veröffentlichung, Anonymisierung, Geheimnisschutz, Übersetzungsbedarf und externe Kommunikation nach Entscheidung im Commercial Courts Deutschland."
+description: "Wenn es um Judgment Publication in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Judgment Publication

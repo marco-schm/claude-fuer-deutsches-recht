@@ -1,6 +1,6 @@
 ---
 name: 03-hauptverhandlung-vorbereiten
-description: "Terminierung, Ladung Paragraf 214 StPO, Beweisantraege, Erforderlichkeit Verteidigerbestellung Paragraf 140 StPO, Verständigung Paragraf 257c StPO Risiken"
+description: "Wenn es um 03 Hauptverhandlung Vorbereiten in Richter Amtsgericht Strafsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 03 Hauptverhandlung Vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: mandanten-oder-beteiligtenkommunikation
-description: "Beteiligtenkommunikation: erklärt übersetzt das Ergebnis in klare, taktisch sichere Kommunikation in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Beteiligtenkommunikation in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beteiligtenkommunikation

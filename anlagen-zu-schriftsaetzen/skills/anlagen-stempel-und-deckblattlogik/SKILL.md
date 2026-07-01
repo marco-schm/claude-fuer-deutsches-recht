@@ -1,6 +1,6 @@
 ---
 name: anlagen-stempel-und-deckblattlogik
-description: "Legt fest, wie Anlagenstempel, Konvolutdeckblätter, Unteranlagen und Seiten-/Dokumentbezeichnungen aussehen müssen, damit Gericht und Gegner nicht suchen müssen."
+description: "Wenn es um Stempel- und Deckblattlogik in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Stempel- und Deckblattlogik

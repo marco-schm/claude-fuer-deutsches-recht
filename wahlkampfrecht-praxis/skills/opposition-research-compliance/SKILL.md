@@ -1,6 +1,6 @@
 ---
 name: opposition-research-compliance
-description: "Wahlkampfrecht Praxis: Opposition Research rechtlich und ethisch begrenzen im Wahlkampfrecht."
+description: "Wenn es um Opposition Research Compliance in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Opposition Research Compliance

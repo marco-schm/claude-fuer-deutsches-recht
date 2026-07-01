@@ -1,6 +1,6 @@
 ---
 name: eu-mittel-umschichtung-simulieren
-description: "Haushaltsrecht BHO Bund und Länder: EU-Mittel: Umschichtung simulieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Eu Mittel Umschichtung Simulieren in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eu Mittel Umschichtung Simulieren

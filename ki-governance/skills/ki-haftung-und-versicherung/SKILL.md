@@ -1,6 +1,6 @@
 ---
 name: ki-haftung-und-versicherung
-description: "Haftung beim Einsatz von KI: Anbieter- und Betreiberhaftung KI-VO, Produkthaftungsgesetz neu nach RL EU 2024 2853, ueberschiessende KI-Haftungs-RL (Entwurf), Vertragshaftung. Versicherbarkeit (D and O, Cyber, KI-spezifisch). Prüfraster für Versicherungsmakler und Risikomanagement im Ki Governance."
+description: "Wenn es um digitale Werkzeuge-Haftung und Versicherung in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI-Haftung und Versicherung

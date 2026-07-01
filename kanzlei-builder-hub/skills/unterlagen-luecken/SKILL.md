@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Kanzlei-Builder-Hub (Plugins/Skills): trennt fehlende Tatsachen von fehlenden Belegen (Plugin-Konfiguration, Skill-Definitionen, Mandanten-AVV), nennt pro Lücke Beweisthema, Beschaffungsweg (RAK), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

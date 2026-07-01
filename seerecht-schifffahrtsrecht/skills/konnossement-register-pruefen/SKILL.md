@@ -1,6 +1,6 @@
 ---
 name: konnossement-register-pruefen
-description: "Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank prüft kein Schiffsregister; Dokumentenregime auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Klaert Lastenfreiheit v..."
+description: "Wenn es um Konnossement – Registerprüfung in See- und Schifffahrtsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Konnossement – Registerprüfung

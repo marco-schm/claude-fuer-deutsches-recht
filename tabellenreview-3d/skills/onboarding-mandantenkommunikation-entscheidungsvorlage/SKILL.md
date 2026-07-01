@@ -1,6 +1,6 @@
 ---
 name: onboarding-mandantenkommunikation-entscheidungsvorlage
-description: "Onboarding: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Onboarding: Mandantenkommunikation und Entscheidungsvorlage in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Onboarding Mandantenkommunikation Entscheidungsvorlage; Arbeitsfeld: Tabellenreview 3D."
 ---
 
 # Onboarding: Mandantenkommunikation und Entscheidungsvorlage

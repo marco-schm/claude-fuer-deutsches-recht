@@ -1,6 +1,6 @@
 ---
 name: geschaeftsbesorgung-und-zahlungsdienste
-description: "Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, Haftung bei Fehlüberweisungen und unautorisierter Zahlung."
+description: "Wenn es um Geschäftsbesorgung und Zahlungsdienste in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Geschaeftsbesorgung Und Zahlungsdienste; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Geschäftsbesorgung und Zahlungsdienste

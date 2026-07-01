@@ -1,6 +1,6 @@
 ---
 name: insolvenzvermerk-zwangsversteigerung-kataster
-description: "Prüft Verfügungsbeschränkung, Zwangsversteigerungsvermerk, Rang, Löschung und Erwerb aus Verfahren im Grundbuchamt Praxis."
+description: "Wenn es um Insolvenz und ZVG im Grundbuch in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenz und ZVG im Grundbuch

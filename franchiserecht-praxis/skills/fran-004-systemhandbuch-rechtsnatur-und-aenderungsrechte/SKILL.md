@@ -1,6 +1,6 @@
 ---
 name: fran-004-systemhandbuch-rechtsnatur-und-aenderungsrechte
-description: "Franchiserecht: Systemhandbuch Rechtsnatur und Änderungsrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Systemhandbuch Rechtsnatur und Änderungsrechte in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Systemhandbuch Rechtsnatur und Änderungsrechte

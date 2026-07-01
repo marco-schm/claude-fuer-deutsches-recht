@@ -1,6 +1,6 @@
 ---
 name: post-closing-integration-covenants
-description: Überführt Closing-Ergebnisse in Integrationsaufgaben, Covenant-Kalender, Registerhandlungen, Vertragsmeldungen und Verantwortlichkeiten.
+description: "Wenn es um Post-Closing Integration und Covenants in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Post-Closing Integration und Covenants
 

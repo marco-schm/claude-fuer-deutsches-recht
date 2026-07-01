@@ -1,6 +1,6 @@
 ---
 name: nda-standardklauseln-bauleiter
-description: "Bauleiter NDA-Standardklauseln: Vertraulichkeitsumfang, Empfaengerkreis, Laufzeit, Rechtsfolgen, Schriftform. Prüfraster für mutual und one-way NDA."
+description: "Wenn es um NDA: Standardklauseln Bauleiter in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nda Standardklauseln Bauleiter; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # NDA: Standardklauseln Bauleiter

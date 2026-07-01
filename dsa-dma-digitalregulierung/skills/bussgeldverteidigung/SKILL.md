@@ -1,6 +1,6 @@
 ---
 name: bussgeldverteidigung
-description: "Verteidigung gegen Bussgelder nach DSA und DMA: bis 6 Prozent (DSA) und 10 Prozent (DMA) des weltweiten Jahresumsatzes. Verfahrensgang vor EU-Kommission und Klage Art. 263 AEUV. Akteneinsicht, Anhörung, Settlements. Beweislast, Verhältnismäßigkeit, Wiederholungsfaktor. Strategiememo und Schrif..."
+description: "Wenn es um DSA und DMA: Bussgeldverteidigung in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # DSA und DMA: Bussgeldverteidigung

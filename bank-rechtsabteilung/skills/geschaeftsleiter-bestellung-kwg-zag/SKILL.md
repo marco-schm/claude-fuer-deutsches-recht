@@ -1,6 +1,6 @@
 ---
 name: geschaeftsleiter-bestellung-kwg-zag
-description: "Geschäftsleiterbestellung nach KWG, ZAG und KAGB tief prüfen: Absichtsanzeige, Vollzugsanzeige, Zuverlässigkeit, fachliche Eignung, Zeitbudget, Lebenslauf, Führungszeugnis, Eignungsmatrix und BaFin-Kommunikation im Bank-Rechtsabteilung."
+description: "Wenn es um Geschäftsleiterbestellung nach KWG und ZAG in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Geschäftsleiterbestellung nach KWG und ZAG

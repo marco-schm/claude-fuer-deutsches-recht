@@ -1,6 +1,6 @@
 ---
 name: 011-pompeji-graffiti-als-rechts-und-sozialquelle
-description: "Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle im Römisches Recht."
+description: "Wenn es um Rom Pompeji Graffiti Als Rechts Und Sozialquelle in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Pompeji Graffiti Als Rechts Und Sozialquelle

@@ -1,6 +1,6 @@
 ---
 name: exit-und-rueckabwicklung
-description: "Öffentliches Wirtschaftsrecht: Exit und Rückabwicklung. Exit und Rückabwicklung im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht."
+description: "Wenn es um Exit Und Rueckabwicklung in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exit Und Rueckabwicklung

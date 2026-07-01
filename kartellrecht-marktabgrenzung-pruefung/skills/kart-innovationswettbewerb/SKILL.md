@@ -1,6 +1,6 @@
 ---
 name: kart-innovationswettbewerb
-description: "Spezialfall Innovationswettbewerb und Killer Acquisitions: Pipeline-Produkte, Innovation Theory of Harm. Prüfraster für Fusionskontrollanmeldung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Kart: Innovationswettbewerb in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kart: Innovationswettbewerb

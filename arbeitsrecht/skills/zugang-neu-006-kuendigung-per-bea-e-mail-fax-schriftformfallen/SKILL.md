@@ -1,6 +1,6 @@
 ---
 name: zugang-neu-006-kuendigung-per-bea-e-mail-fax-schriftformfallen
-description: "Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen in Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen

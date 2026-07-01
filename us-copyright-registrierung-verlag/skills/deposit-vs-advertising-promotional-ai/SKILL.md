@@ -1,6 +1,6 @@
 ---
 name: deposit-vs-advertising-promotional-ai
-description: "Mandatory Deposit (§ 407) und Registrierung (§ 408) auseinanderhalten: Pflichtabgabe, formale Registrierung, Shipping Slip, Fristen und Verlagspraxis im Us Copyright Registrierung Verlag."
+description: "Wenn es um Deposit versus Registration 407 und 408 in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deposit versus Registration 407 und 408

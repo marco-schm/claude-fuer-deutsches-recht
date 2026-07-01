@@ -1,6 +1,6 @@
 ---
 name: songtext-lyrics-sprachwerk
-description: "Prüft Lyrics, Refrain, Claim, kurze Zeilen, Titel und Textfragmente als Sprachwerke oder nicht schutzfaehige Redewendungen im Urheberrecht De Eu."
+description: "Wenn es um Songtext, Lyrics und Sprachwerk in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Songtext, Lyrics und Sprachwerk

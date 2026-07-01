@@ -1,6 +1,6 @@
 ---
 name: change-request-clickwrap-beweisakte-cloud
-description: "Klausel-Fachmodul für Change Reqüst: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung im AGB-Recht."
+description: "Wenn es um Change Reqüst in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Change Reqüst

@@ -1,6 +1,6 @@
 ---
 name: ehevertrag-scheidungsfolgenvereinbarung
-description: "Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich und Belehrung. Formzwang § 1410 BGB, Kernbereichslehre des BGH, Sittenwidrigkeit und Belehrungspflichten des Notars im Notariat."
+description: "Wenn es um Ehevertrag Scheidungsfolgenvereinbarung in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich, Belehrung

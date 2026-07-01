@@ -1,6 +1,6 @@
 ---
 name: marktabgrenzung-kontextanalyse-mehrseitige
-description: "Verfahren beginnt und Verfahrensart und Parteistellung muessen bestimmt werden bevor die Marktabgrenzung-Analyse starten kann. Identifiziert Verfahrensart Fusionskontrolle Kartellverbot Missbrauchsverfahren und Zielrichtung der Marktabgrenzung. Normen FKVO 139/2004 Art. 101 102 AEUV §§ 1 18 19 35..."
+description: "Wenn es um Marktabgrenzung — Kontextanalyse in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Marktabgrenzung — Kontextanalyse

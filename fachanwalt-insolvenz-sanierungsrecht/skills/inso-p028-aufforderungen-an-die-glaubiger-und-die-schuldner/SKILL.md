@@ -1,6 +1,6 @@
 ---
 name: inso-p028-aufforderungen-an-die-glaubiger-und-die-schuldner
-description: "§ 28 InsO (Aufforderungen an die Gläubiger und die Schuldner) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 28 InsO (Aufforderungen an die Gläubiger und die Schuldner) im Mandat prüfen:..."
+description: "Wenn es um Inso P028 Aufforderungen An Die Glaubiger Und Die Schuldner in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 28 InsO (Aufforderungen an die Gläubiger und die Schuldner) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

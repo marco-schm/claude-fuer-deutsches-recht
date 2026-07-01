@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollwert-ursprung
-description: "Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenzieller und nichtpraeferenzieller Ursprung als Zollwert-Einflussfaktor und Nachweis-Anforderungen. Zollwertberichtigung bei nachtraeglichen Ursprungsnachweisen und REX-Erklaerungen. Kombinierte Prüfung Zollwert-Ursprung bei Zollauß..."
+description: "Wenn es um Zollwert und Ursprung: Integrierte Prüfung und kombiniertes Nachweispaket in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zollwert und Ursprung: Integrierte Prüfung und kombiniertes Nachweispaket

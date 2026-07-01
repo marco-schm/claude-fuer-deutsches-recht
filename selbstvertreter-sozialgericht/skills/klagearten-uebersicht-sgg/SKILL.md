@@ -1,6 +1,6 @@
 ---
 name: klagearten-uebersicht-sgg
-description: "Welche Klage passt zu Ihrem Fall. Anfechtungs- Verpflichtungs- Leistungs- Feststellungs- und Untätigkeitsklage nach §§ 54 55 88 SGG. Mit Entscheidungshilfe und Mustern."
+description: "Wenn es um Welche Klage passt? — Überblick in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Welche Klage passt? — Überblick

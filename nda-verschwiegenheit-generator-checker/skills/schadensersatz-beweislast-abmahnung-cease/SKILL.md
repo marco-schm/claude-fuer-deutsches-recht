@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-beweislast-abmahnung-cease
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Schadensersatz Und Beweislast; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Schadensersatz Und Beweislast in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Schadensersatz Und Beweislast

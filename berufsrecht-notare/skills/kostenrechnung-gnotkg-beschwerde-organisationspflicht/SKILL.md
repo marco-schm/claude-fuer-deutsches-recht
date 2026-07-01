@@ -1,6 +1,6 @@
 ---
 name: kostenrechnung-gnotkg-beschwerde-organisationspflicht
-description: "Notare: kostenrechnung gnotkg beschwerde - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Kostenrechnung Gnotkg Beschwerde Organisationspflicht in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: kostenrechnung gnotkg beschwerde - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

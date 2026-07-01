@@ -1,6 +1,6 @@
 ---
 name: ifg-bund-schwaerzung-angreifen
-description: "Informationsfreiheit und Presseauskunft: IFG Bund: Schwärzung angreifen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Ifg Bund Schwaerzung Angreifen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ifg Bund Schwaerzung Angreifen

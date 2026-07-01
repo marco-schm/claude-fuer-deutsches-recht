@@ -1,6 +1,6 @@
 ---
 name: transr-multimodaler-transport-spezial
-description: "Spezialfall multimodaler Transport: § 452 HGB Network Liability, Bestimmung anwendbares Recht je Teilstrecke wenn nachweisbar, sonst Network Liability nach Schadensort: Spezialfall multimodaler Transport: § 452 HGB Network Liability, Bestimmung anwendbares..."
+description: "Wenn es um Transr Multimodaler Transport Spezial in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall multimodaler Transport: § 452 HGB Network Liability, Bestimmung anwendbares Recht je Teilstrecke wenn nachweisbar, sonst Network Liability nach Schadensort

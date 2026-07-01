@@ -1,6 +1,6 @@
 ---
 name: verl-026-autorenkuendigung-bestseller-und-nachverguetung
-description: "Verlagsrecht: Autorenkündigung Bestseller und Nachvergütung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Autorenkündigung Bestseller und Nachvergütung in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Autorenkündigung Bestseller und Nachvergütung

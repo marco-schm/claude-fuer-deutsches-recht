@@ -1,6 +1,6 @@
 ---
 name: krankenhausgesellschaft-vergabeweg-wae
-description: "Krankenhausgesellschaft: Vergabeweg wählen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Krankenhausgesellschaft Vergabeweg Wae in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenhausgesellschaft Vergabeweg Wae

@@ -1,6 +1,6 @@
 ---
 name: privatschullehrer-honorarkraft
-description: "Prüft Honorarkräfte an Privatschulen mit Lehrplan, Stundenplan, Klassenverband und Schulorganisation im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Privatschullehrer Honorarkraft in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Privatschullehrer Honorarkraft

@@ -1,6 +1,6 @@
 ---
 name: laufbahnrecht-bund
-description: "Laufbahnrecht Bund: Laufbahngruppen, Vorbereitungsdienst, Aufstieg, Laufbahnwechsel, Anerkennung von Zeiten und Qualifikation im Beamtenrecht."
+description: "Wenn es um Laufbahnrecht Bund in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Laufbahnrecht Bund

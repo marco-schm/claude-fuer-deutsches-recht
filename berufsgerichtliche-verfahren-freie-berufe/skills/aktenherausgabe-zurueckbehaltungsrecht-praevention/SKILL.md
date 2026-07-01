@@ -1,6 +1,6 @@
 ---
 name: aktenherausgabe-zurueckbehaltungsrecht-praevention
-description: "Aktenherausgabe und Zurückbehaltungsrecht (Präventions- und Organisationspaket): steuert Herausgabe der Handakte, digitale Akte, Zurückbehaltungsrecht, Datenschutz und Fristensicherung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsger..."
+description: "Wenn es um Aktenherausgabe und Zurückbehaltungsrecht: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aktenherausgabe und Zurückbehaltungsrecht: Präventions- und Organisationspaket

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-mehrparteien-konflikt-und-interessen
-description: "Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix: Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix."
+description: "Wenn es um Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix

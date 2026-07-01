@@ -1,6 +1,6 @@
 ---
 name: klausel-entwerfen-aggressiv
-description: "Output- und Streit-Skill für Klausel Entwerfen Aggressiv: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen."
+description: "Wenn es um Klausel Entwerfen Aggressiv in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Klausel Entwerfen Aggressiv

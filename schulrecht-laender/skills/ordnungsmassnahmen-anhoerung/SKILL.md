@@ -1,6 +1,6 @@
 ---
 name: ordnungsmassnahmen-anhoerung
-description: "Prüft schulische Ordnungsmaßnahmen mit Anhörung und Verhältnismäßigkeit im Schulrecht Länder."
+description: "Wenn es um Ordnungsmaßnahmen Anhörung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ordnungsmaßnahmen Anhörung

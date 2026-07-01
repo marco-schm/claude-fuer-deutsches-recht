@@ -1,6 +1,6 @@
 ---
 name: beitragsordnung
-description: "Prüft Mitgliedsbeiträge, Mandatsträgerbeiträge, Ermäßigung, Mahnung, Transparenz und Satzungsgrundlage im Parteienrecht."
+description: "Wenn es um Beitragsordnung Partei in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Beitragsordnung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Beitragsordnung Partei

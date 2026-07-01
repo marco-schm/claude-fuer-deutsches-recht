@@ -1,6 +1,6 @@
 ---
 name: ma-lma-loan-transfer
-description: "Prüft LMA-basierte Transfermechanik im syndizierten Kredit: Assignment, Novation, Transfer Certificate, Consent, Agent und Register."
+description: "Wenn es um Big Law M&A: LMA Loan Transfer in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Big Law M&A: LMA Loan Transfer

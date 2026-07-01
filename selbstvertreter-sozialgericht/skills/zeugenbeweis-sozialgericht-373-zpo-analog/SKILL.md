@@ -1,6 +1,6 @@
 ---
 name: zeugenbeweis-sozialgericht-373-zpo-analog
-description: "Zeugen vor dem Sozialgericht. §§ 373 ff. ZPO analog. Beweisthema Adressen Zeugenvernehmung. Wann lohnt sich Zeugenbeweis für Buerger ohne Anwalt."
+description: "Wenn es um Zeugen vor dem Sozialgericht in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zeugen vor dem Sozialgericht

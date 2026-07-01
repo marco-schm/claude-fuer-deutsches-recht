@@ -1,6 +1,6 @@
 ---
 name: bho-23-zuwendungen-praktisch-anwenden
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 23 Zuwendungen praktisch anwenden. BHO § 23 Zuwendungen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die e..."
+description: "Wenn es um Bho 23 Zuwendungen Praktisch Anwenden in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 23 Zuwendungen Praktisch Anwenden

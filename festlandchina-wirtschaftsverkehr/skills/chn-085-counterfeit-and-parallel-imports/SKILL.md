@@ -1,6 +1,6 @@
 ---
 name: chn-085-counterfeit-and-parallel-imports
-description: "Festlandchina Wirtschaftsverkehr: Counterfeit And Parallel Imports. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Counterfeit And Parallel Imports in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Counterfeit And Parallel Imports

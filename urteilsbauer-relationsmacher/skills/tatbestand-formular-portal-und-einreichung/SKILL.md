@@ -1,6 +1,6 @@
 ---
 name: tatbestand-formular-portal-und-einreichung
-description: "Tatbestand: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Tatbestand: Formular, Portal und Einreichungslogik in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tatbestand: Formular, Portal und Einreichungslogik

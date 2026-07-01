@@ -1,6 +1,6 @@
 ---
 name: medr-mvz-strukturwandel-spezial
-description: "Spezialfall MVZ-Strukturwandel: § 95 SGB V, Investor-MVZ, Anstellungsgenehmigung, Versorgungsauftrag, Konzentrationsverbot: Prüfrast..."
+description: "Wenn es um Medr Mvz Strukturwandel Spezial in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall MVZ-Strukturwandel: § 95 SGB V, Investor-MVZ, Anstellungsgenehmigung, Versorgungsauftrag, Konzentrationsverbot

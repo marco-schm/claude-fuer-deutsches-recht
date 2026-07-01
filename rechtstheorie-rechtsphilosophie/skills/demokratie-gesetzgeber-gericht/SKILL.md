@@ -1,6 +1,6 @@
 ---
 name: demokratie-gesetzgeber-gericht
-description: "Prüft demokratische Legitimation und Gewaltenteilung bei Auslegung, Rechtsfortbildung und richterlicher Korrektur alter Normen."
+description: "Wenn es um Demokratie, Gesetzgeber und Gericht in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Demokratie, Gesetzgeber und Gericht

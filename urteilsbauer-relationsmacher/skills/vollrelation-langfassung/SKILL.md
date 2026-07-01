@@ -1,6 +1,6 @@
 ---
 name: vollrelation-langfassung
-description: "Vollständige Relation im Schulstandard für Referendar-/Assessorprüfung ausformulieren: Kandidat benoetigt Langfassung mit gutachterlichem Stil. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Auslegung Streitgegenstand, jede Station (Zulässigkeit, Schluessigkeit, Erheblichkeit, R"
+description: "Wenn es um Vollrelation Langfassung - Schulstandard für Prüfung in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vollrelation Langfassung; Arbeitsfeld: Urteilsbauer und Relationsmacher."
 ---
 
 # Vollrelation Langfassung - Schulstandard für Prüfung

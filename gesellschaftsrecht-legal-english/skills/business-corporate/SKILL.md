@@ -1,6 +1,6 @@
 ---
 name: business-corporate
-description: "Business: Dokumentenmatrix, Lückenliste und Nachforderung im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht Leg..."
+description: "Wenn es um Business: Dokumentenmatrix, Lückenliste und Nachforderung in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Business: Dokumentenmatrix, Lückenliste und Nachforderung

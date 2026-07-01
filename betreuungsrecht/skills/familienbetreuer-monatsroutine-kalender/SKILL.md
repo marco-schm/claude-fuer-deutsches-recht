@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-monatsroutine-kalender
-description: "Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht."
+description: "Wenn es um Familienbetreuer: Monatsroutine und Kalender in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Familienbetreuer Monatsroutine Kalender; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Familienbetreuer: Monatsroutine und Kalender

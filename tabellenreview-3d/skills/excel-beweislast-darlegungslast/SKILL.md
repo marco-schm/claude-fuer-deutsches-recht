@@ -1,6 +1,6 @@
 ---
 name: excel-beweislast-darlegungslast
-description: "Excel: Beweislast, Darlegungslast und Substantiierung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritis..."
+description: "Wenn es um Excel: Beweislast, Darlegungslast und Substantiierung in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Excel Beweislast Darlegungslast; Arbeitsfeld: Tabellenreview 3D."
 ---
 
 # Excel: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: freundlicher-copilot
-description: "Freundlicher Corporate-Copilot: Einstiegshilfe für alle Corporate/M&A-Aufgaben. Erklärt Fachbegriffe, gibt Überblicke zu Transaktionsstrukturen, beantwortet Erstfragen und leitet zu passenden Fach-Skills weiter."
+description: "Wenn es um Freundlicher Corporate-Copilot in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Freundlicher Copilot; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # Freundlicher Corporate-Copilot

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-pe-closing-continuation-fund
-description: "Erstellt Closing Bible, Signaturketten, Registerbelege, Funds Flow, CP-Erfüllung und Post-Closing-Ablage im Private Equity Praxis."
+description: "Wenn es um Closing Bible PE in Private Equity Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Closing Bible PE

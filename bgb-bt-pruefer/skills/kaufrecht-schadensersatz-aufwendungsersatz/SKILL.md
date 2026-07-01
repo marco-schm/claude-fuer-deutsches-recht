@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-schadensersatz-aufwendungsersatz
-description: "Prüft Schadensersatz §§ 437 Nr. 3 und 280 ff. BGB sowie Aufwendungsersatz § 284 BGB beim Kaufrecht mit Schwerpunkt Sachmangel bei Gefahrübergang, § 477 BGB im B2C und § 377 HGB im B2B-Handelskauf."
+description: "Wenn es um Kaufrecht: Schadensersatz und Aufwendungsersatz in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaufrecht: Schadensersatz und Aufwendungsersatz

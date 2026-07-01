@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Strafzumessung: sortiert Anklageschrift, Urteilsentwurf, Vorverurteilungen BZR, prüft Datum, Absender, Frist und Beweiswert (BZR-Auszug, Persönlichkeitsgutachten); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Strafzumessung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

@@ -1,6 +1,6 @@
 ---
 name: nachreichung-berichtigung-ocr-scan-original
-description: "Plant die Reparatur eines Anlagenpakets nach gerichtlichem Hinweis, Rüge der Gegenseite, falscher Anlage, fehlender Datei oder versehentlicher Einreichung im Anlagen zu Schriftsätzen."
+description: "Wenn es um Nachreichung, Berichtigung und gerichtlicher Hinweis in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Nachreichung Berichtigung Ocr Scan Original; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Nachreichung, Berichtigung und gerichtlicher Hinweis

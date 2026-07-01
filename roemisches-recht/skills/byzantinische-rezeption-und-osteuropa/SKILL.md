@@ -1,6 +1,6 @@
 ---
 name: byzantinische-rezeption-und-osteuropa
-description: "Römisches Recht: Byzantinische Rechtsrezeption in orthodox geprägten Rechtsräumen, Südosteuropa, Osteuropa und späterer Rechtsgeschichte."
+description: "Wenn es um Byzantinische Rezeption und Osteuropa in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Byzantinische Rezeption Und Osteuropa; Arbeitsfeld: Römisches Recht."
 ---
 
 # Byzantinische Rezeption und Osteuropa

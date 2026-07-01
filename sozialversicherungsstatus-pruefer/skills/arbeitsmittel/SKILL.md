@@ -1,6 +1,6 @@
 ---
 name: arbeitsmittel
-description: "Prüft eigene oder fremde Arbeitsmittel: Laptop, Instrumente, Fahrzeuge, Softwarelizenzen, Räume und Spezialgeräte im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Arbeitsmittel und Equipment in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsmittel und Equipment

@@ -1,6 +1,6 @@
 ---
 name: bankaufsichtsrecht-kwg-bankgeheimnis
-description: "Bankaufsichtsrechtliche Ersttriage nach KWG und MaRisk: Geschäftsorganisation, Risikomanagement, Compliance, Revision, Risikocontrolling, Leitungsbefassung und Dokumentationsbedarf für interne Vermerke prüfen im Bank-Rechtsabteilung."
+description: "Wenn es um Bankaufsichtsrecht KWG/MaRisk-Triage in Bank-Rechtsabteilung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bankaufsichtsrecht KWG/MaRisk-Triage

@@ -1,6 +1,6 @@
 ---
 name: didaktisches-erstpruefung-und-mandatsziel
-description: "Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel in hausarbeitenmacher — Didaktisches Plugin für juristische geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel

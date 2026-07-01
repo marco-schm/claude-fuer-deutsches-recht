@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verhandlung-vergleich-und-eskalation
-description: "Einstweilige: Verhandlung, Vergleich und Eskalation: Einstweilige: Verhandlung, Vergleich und Eskalation."
+description: "Wenn es um Einstweilige: Verhandlung, Vergleich und Eskalation in Fachanwalt Verwaltungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Einstweilige: Verhandlung, Vergleich und Eskalation

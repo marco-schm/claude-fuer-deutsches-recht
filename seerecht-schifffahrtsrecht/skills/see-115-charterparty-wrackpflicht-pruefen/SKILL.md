@@ -1,6 +1,6 @@
 ---
 name: see-115-charterparty-wrackpflicht-pruefen
-description: "See- und Schifffahrtsrecht: Charterparty: Wrackpflicht prüfen. Wrackpflicht prüfen für Charterparty im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Charterparty Wrackpflicht Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Charterparty Wrackpflicht Pruefen

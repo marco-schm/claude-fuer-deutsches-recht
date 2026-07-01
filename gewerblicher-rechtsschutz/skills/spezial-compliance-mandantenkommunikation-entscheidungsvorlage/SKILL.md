@@ -1,6 +1,6 @@
 ---
 name: spezial-compliance-mandantenkommunikation-entscheidungsvorlage
-description: "Compliance: Mandantenkommunikation und Entscheidungsvorlage im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Compliance: Mandantenkommunikation und Entscheidungsvorlage in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Compliance: Mandantenkommunikation und Entscheidungsvorlage

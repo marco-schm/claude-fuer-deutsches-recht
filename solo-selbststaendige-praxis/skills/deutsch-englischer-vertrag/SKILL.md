@@ -1,6 +1,6 @@
 ---
 name: deutsch-englischer-vertrag
-description: "Solo-Selbstständige: warnt vor False Friends und legt deutsches Recht sauber fest; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Deutsch Englischer Vertrag in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Internationales und Auslandskunden: Warnt vor false friends und legt deutsches recht sauber fest

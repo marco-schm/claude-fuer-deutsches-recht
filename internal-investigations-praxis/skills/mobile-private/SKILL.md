@@ -1,6 +1,6 @@
 ---
 name: mobile-private
-description: "Sichert und wertet Mobile Devices (Smartphones, Tablets) forensisch aus – MDM, Passwortzugriff, BYOD-Grenzen, DSGVO im Internal Investigations Praxis."
+description: "Wenn es um Mobile-Device-Forensik in Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mobile-Device-Forensik in Internal Investigations

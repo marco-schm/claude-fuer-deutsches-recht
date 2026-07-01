@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-exportkontrollklauseln-vertrag
-description: "Gestaltung exportkontrollrechtlicher Vertragsklauseln in Liefer-, Lizenz- und Kooperationsvertraegen: No-Russia-Clause nach Art. 12g VO (EU) 833/2014, Endverwendungsklauseln, Re-Export-Verbote, Ruecktrittsrechte bei Genehmigungsversagung, Vertragsstrafen bei Verstoss. Output: Klauselbausteine und..."
+description: "Wenn es um Exportkontrollklauseln im Vertrag: Gestaltung und Prüfung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exportkontrollklauseln im Vertrag: Gestaltung und Prüfung

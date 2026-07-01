@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-sachsen-anhalt
-description: "Prüft Hochschulprüfungsrecht in Sachsen-Anhalt mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule."
+description: "Wenn es um Prüfungsrecht Sachsen Anhalt in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfungsrecht Sachsen Anhalt

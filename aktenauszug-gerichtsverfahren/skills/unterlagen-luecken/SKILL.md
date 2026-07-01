@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Aktenauszüge zivilgerichtlicher Verfahren: trennt fehlende Tatsachen von fehlenden Belegen (Klageschrift, Klageerwiderung, Schriftsätze), nennt pro Lücke Beweisthema, Beschaffungsweg (AG/LG/OLG), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in aktenauszug-gerichtsverfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

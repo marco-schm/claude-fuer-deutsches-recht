@@ -1,6 +1,6 @@
 ---
 name: spezial-charta-livequellen-und-rechtsprechungscheck
-description: "Charta: Livequellen- und Rechtsprechungscheck im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Charta: Livequellen- und Rechtsprechungscheck in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Charta: Livequellen- und Rechtsprechungscheck

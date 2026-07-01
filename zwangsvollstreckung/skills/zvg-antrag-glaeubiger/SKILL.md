@@ -1,6 +1,6 @@
 ---
 name: zvg-antrag-glaeubiger
-description: "Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorheriges Recht eintragen Zwangshypothek § 866 ZPO. Output: ZVG-A..."
+description: "Wenn es um ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung) in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung)

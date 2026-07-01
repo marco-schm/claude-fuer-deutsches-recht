@@ -1,6 +1,6 @@
 ---
 name: personalakte-und-datenschutz-soldaten
-description: "Prüft Personalaktenzuleitung und Datenschutz bei Soldaten-KDV im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Personalakte Soldaten in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Personalakte Soldaten

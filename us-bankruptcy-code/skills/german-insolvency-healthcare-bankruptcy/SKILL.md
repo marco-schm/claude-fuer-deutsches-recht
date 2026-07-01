@@ -1,6 +1,6 @@
 ---
 name: german-insolvency-healthcare-bankruptcy
-description: "Erklaert US Bankruptcy für deutsche Juristen: stay, estate, DIP, trustee, plan, 363 sale, claims and discharge im Vergleich im US Bankruptcy Code."
+description: "Wenn es um German Insolvency Comparison in US Bankruptcy Code geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # German Insolvency Comparison

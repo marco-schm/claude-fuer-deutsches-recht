@@ -1,6 +1,6 @@
 ---
 name: eu-vorabentscheidung-falsche-wiese
-description: "Prüft die Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV: Vorlagebefugnis und -pflicht, CILFIT-Ausnahmen (acte clair/eclaire), Consorzio-Erweiterung, Vorlagepflicht letzter Instanz, Formulierung der Vorlagefrage, curia.europa.eu-Fundstellen im Subsumtions Prüfer."
+description: "Wenn es um EU-Vorabentscheidung prüfen (Art. 267 AEUV) in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-Vorabentscheidung prüfen (Art. 267 AEUV)

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsvertrag-gmbh
-description: "GmbH-Gesellschaftsvertrag aufsetzen: Mindestinhalt, Stammkapital, Beschlussfassung, Gewinnverteilung. Normen: Paragraf 2 3 5 GmbHG. Prüfraster: Notarerfordernis, Pflichtinhalte, Optionalklauseln, Sonderrechte. Output: GmbH-Gesellschaftsvertragsentwurf. Abgrenzung: nicht UG-Gründung mit Musterprotokoll..."
+description: "Wenn es um GmbH-Gesellschaftsvertrag (Satzung) in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GmbH-Gesellschaftsvertrag (Satzung)

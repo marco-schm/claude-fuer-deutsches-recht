@@ -1,6 +1,6 @@
 ---
 name: nda-konflikt
-description: "Löst Konflikt zwischen NDA, Verschwiegenheit und Hinweisgeberschutz im Hinweisgeberschutz Compliance."
+description: "Wenn es um NDA Konflikt in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NDA Konflikt

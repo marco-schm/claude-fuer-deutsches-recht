@@ -1,6 +1,6 @@
 ---
 name: rmap-verweisungen-und-ausnahmen
-description: "Verweisungen (statisch; dynamisch; Rueckverweisung) und Ausnahmen in der Rulemap sauber modellieren. Verkettung von Normen ueber Subrulemaps; Verweisungsketten dokumentieren; Ausnahmen als eigenstaendige Pfade. Output Verweisungs- und Ausnahmenkarte mit IDs und Pfadtiefen. Anschluss legw-rmap-ent..."
+description: "Wenn es um Verweisungen und Ausnahmen in der Rulemap in Legistik-Werkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verweisungen und Ausnahmen in der Rulemap

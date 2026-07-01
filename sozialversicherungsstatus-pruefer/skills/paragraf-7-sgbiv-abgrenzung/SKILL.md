@@ -1,6 +1,6 @@
 ---
 name: paragraf-7-sgbiv-abgrenzung
-description: "Prüft Beschäftigung nach § 7 SGB IV: Weisungsgebundenheit, Eingliederung, persönliche Abhängigkeit und Gesamtwürdigung im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Paragraf 7 SGB IV Grundabgrenzung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # § 7 SGB IV Grundabgrenzung

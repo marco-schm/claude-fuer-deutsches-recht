@@ -1,6 +1,6 @@
 ---
 name: ressort-bmwsb
-description: "Heranfuehrung Ressort BMWSB (Bundesministerium für Wohnen; Stadtentwicklung und Bauwesen). Schwerpunkt: Bauplanung; Mietrecht; Stadtentwicklung; Bauprodukte; energetische Sanierung. Kernnormen: BauGB; BauNVO; BGB Mietrecht; StaedtebauFoerdG; BauPG; BauPVO; GEG; WoFG. Fuenf Spezialfelder: bau-und-..."
+description: "Wenn es um Ressort-Heranfuehrung BMWSB in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressort-Heranfuehrung BMWSB

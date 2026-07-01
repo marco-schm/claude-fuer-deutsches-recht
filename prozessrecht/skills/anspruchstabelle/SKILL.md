@@ -1,6 +1,6 @@
 ---
 name: anspruchstabelle
-description: "Anspruchstabelle fuer Zivilprozesse erstellen: Anspruchsgrundlagen, Tatsachen, Beweisangebote, Einwendungen, Fristen, Streitwert und Schriftsatzfundstellen tabellarisch ordnen und in eine prozessuale Arbeitsliste ueberfuehren."
+description: "Wenn es um Anspruchstabelle im Zivilprozess in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anspruchstabelle im Zivilprozess

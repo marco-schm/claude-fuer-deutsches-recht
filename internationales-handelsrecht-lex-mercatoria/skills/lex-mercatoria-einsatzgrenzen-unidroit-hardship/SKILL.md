@@ -1,6 +1,6 @@
 ---
 name: lex-mercatoria-einsatzgrenzen-unidroit-hardship
-description: "Internationales Handelsrecht: Lex mercatoria — transnationaler Handelsrechtsdebatte. Goldman-These (autonomes Handelsrecht), Lord Mustill (Skepsis), Berger CENTRAL-Prinzipien-Datenbank und Grenzen in staatlichen Gerichten vs. internationaler Schiedsgerichtsbarkeit im Internationales Handelsrecht..."
+description: "Wenn es um Lex Mercatoria: Geltungsbereich und Grenzen in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lex Mercatoria: Geltungsbereich und Grenzen

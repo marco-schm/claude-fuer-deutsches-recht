@@ -1,6 +1,6 @@
 ---
 name: verkehr-autonom-1d-stvg
-description: "Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren: § 1d StVG autonomes Fahren Level 4. Prüfraster: Haftungsverteilung Halter § 7 StVG Fahrer § 18..."
+description: "Wenn es um Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren

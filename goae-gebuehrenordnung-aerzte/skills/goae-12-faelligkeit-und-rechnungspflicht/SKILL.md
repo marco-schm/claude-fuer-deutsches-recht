@@ -1,6 +1,6 @@
 ---
 name: goae-12-faelligkeit-und-rechnungspflicht
-description: "GOÄ § 12 Fälligkeit und Rechnungspflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise im Goae Gebührenordnung Aerzte."
+description: "Wenn es um GOÄ Paragraf 12 Fälligkeit und Rechnungspflicht in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # GOÄ § 12 Fälligkeit und Rechnungspflicht

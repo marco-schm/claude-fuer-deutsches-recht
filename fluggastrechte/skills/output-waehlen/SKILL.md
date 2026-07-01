@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fluggastrechte VO 261/2004: stimmt Adressat (Fluggast, Fluggesellschaft, Reisevermittler), Frist (Verjährung 3 Jahre § 195 BGB) und Form auf den Zweck ab — typische Outputs: Ausgleichszahlungs-Forderung, Klage AG, Schlichtungsantrag SOEP."
+description: "Wenn es um Output wählen in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

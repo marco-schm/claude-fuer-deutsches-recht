@@ -184,105 +184,105 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 
 | Skill | Beschreibung |
 | --- | --- |
-| `absolute-priority-adequate-protection` | Prüft absolute priority, new value, individual debtor issues, equity retention and settlement structures im US Bankruptcy Code. |
-| `adequate-protection` | Prüft adequate protection for secured creditors: payments, replacement liens, reporting, insurance and collateral value im US Bankruptcy Code. |
-| `administrative-expenses-503` | Prüft administrative expense claims, postpetition goods/services, substantial contribution, taxes and application process im US Bankruptcy Code. |
-| `adversary-proceedings` | Prüft when adversary proceeding is required: dischargeability, lien validity, turnover, avoidance, injunctions and complaints im US Bankruptcy Code. |
-| `asbestos-channeling-automatic-stay-avoidance` | Prüft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment im US Bankruptcy Code. |
-| `automatic-stay-362` | Prüft automatic stay scope, commencement, protected acts, exceptions, notice and violation consequences im US Bankruptcy Code. |
-| `avoidance-litigation` | Organisiert estate avoidance litigation: target selection, demand letters, complaints, defenses, settlement and collection im US Bankruptcy Code. |
-| `bankruptcy-appeals` | Prüft appeal route, final/interlocutory order, stay pending appeal, deadlines and district/BAP/circuit path im US Bankruptcy Code. |
-| `board-duties-cash-collateral-chapter7-asset` | Prüft US board duties near insolvency, fiduciary risk, filing decision, lender pressure and restructuring alternatives im US Bankruptcy Code. |
-| `cash-collateral-363` | Prüft cash collateral, lender consent, adequate protection, budget, reporting and interim/final orders im US Bankruptcy Code. |
-| `chapter7-asset-distribution` | Prüft asset liquidation, sale, abandoned property, claims waterfall, trustee commissions and closing im US Bankruptcy Code. |
-| `chapter7-liquidation` | Fuehrt durch Chapter 7 liquidation: trustee, estate, assets, claims, exemptions, discharge and distribution im US Bankruptcy Code. |
-| `chapter9-municipal-plan-chapter11-dip` | Prüft municipality eligibility, state authorization, insolvency, creditor negotiation and Tenth Amendment sensitivities im US Bankruptcy Code. |
-| `chapter9-plan` | Prüft municipal plan, limited court power, special revenues, bondholders, pensions and essential services im US Bankruptcy Code. |
-| `chapter11-dip` | Prüft DIP powers, duties, reporting, fiduciary obligations, operations and supervision im US Bankruptcy Code. |
-| `chapter12-family-farmer` | Prüft Chapter 12 eligibility, seasonal income, plan treatment, secured claims and agricultural/fishing operations im US Bankruptcy Code. |
-| `chapter13-codebtor-stay-discharge-eligibility` | Prüft co-debtor stay, consumer debts, relief motions and guarantor/co-signer strategy im US Bankruptcy Code. |
-| `chapter13-discharge` | Prüft Chapter 13 discharge, hardship discharge, exceptions, plan completion and post-discharge issues im US Bankruptcy Code. |
-| `chapter13-eligibility` | Prüft Chapter 13 debt limits, regular income, individual-only requirement and consumer/small-business owner issues im US Bankruptcy Code. |
-| `chapter13-plan` | Prüft Chapter 13 plan, disposable income, best interests, secured claims, arrears, trustee payments and feasibility im US Bankruptcy Code. |
-| `chapter15-comity-recognition-claim-objection` | Prüft post-recognition relief, cooperation, entrustment, asset turnover, discovery and public-policy exception im US Bankruptcy Code. |
-| `chapter15-recognition` | Prüft recognition of foreign proceedings, foreign main/nonmain, COMI, foreign representative and relief im US Bankruptcy Code. |
-| `claim-objection-502` | Prüft allowance/disallowance, objections, estimation, contingent/unliquidated claims and settlement im US Bankruptcy Code. |
-| `claims-proof-claim-501` | Prüft claim filing, bar date, secured/unsecured/priority status, documentation and amendments im US Bankruptcy Code. |
-| `claims-trading-confirmation-contested-matters` | Prüft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy im US Bankruptcy Code. |
-| `confirmation-1129` | Prüft Chapter 11 confirmation requirements: good faith, feasibility, best interests, priority, treatment and compliance im US Bankruptcy Code. |
-| `contested-matters` | Prüft motion practice, objections, evidentiary hearings, discovery and orders in contested matters im US Bankruptcy Code. |
-| `conversion-dismissal` | Prüft conversion/dismissal across chapters, cause, best interests, bad faith and tactical consequences im US Bankruptcy Code. |
-| `cramdown-1129b-credit-bidding-creditors` | Prüft fair and equitable, no unfair discrimination, secured creditor treatment and impaired dissenting classes im US Bankruptcy Code. |
-| `credit-bidding-363k` | Prüft secured creditor credit bid rights, cause to limit, lien disputes, plan sale and loan-to-own strategy im US Bankruptcy Code. |
-| `creditors-committee-1102` | Prüft official committee formation, membership, fiduciary role, professionals, information rights and strategy im US Bankruptcy Code. |
-| `critical-vendors` | Prüft critical-vendor payments, necessity doctrine, § 503(b)(9), trade leverage and first-day order risk im US Bankruptcy Code. |
-| `derivatives-repos-dip-financing-discharge` | Prüft derivatives close-out, collateral, ISDA, repos, swaps, ipso facto and safe-harbor consequences im US Bankruptcy Code. |
-| `dip-financing-364` | Prüft debtor-in-possession financing, priming liens, roll-up, milestones, fees and lender control issues im US Bankruptcy Code. |
-| `discharge-chapter7-727` | Prüft discharge entitlement, objections, concealment, false oath, records and denial-of-discharge risks im US Bankruptcy Code. |
-| `disclosure-statement-1125` | Prüft adequacy of information, solicitation, plan summary, risk factors and voting package im US Bankruptcy Code. |
-| `effective-date-eligibility-credit-employee` | Prüft effective date conditions, funding, releases, corporate actions, distributions and post-confirmation governance im US Bankruptcy Code. |
-| `eligibility-109-credit` | Prüft Debtor Eligibility, credit counseling, chapter-specific limits, railroad/insurance exclusions and entity issues im US Bankruptcy Code. |
-| `employee-wages-benefits-warn` | Prüft wage priority, benefits, WARN Act exposure, employee claims, retention/bonus plans and sale transfer issues im US Bankruptcy Code. |
-| `environmental-claims` | Prüft environmental obligations, cleanup orders, police-power exception, claims vs injunctions and asset sale risks im US Bankruptcy Code. |
-| `equitable-subordination-estate-property` | Prüft contractual subordination, equitable subordination, insider misconduct and plan distribution effects im US Bankruptcy Code. |
-| `estate-property-541` | Prüft estate property, causes of action, IP, proceeds, exclusions, trusts and foreign assets im US Bankruptcy Code. |
-| `examiner-1104` | Prüft appointment of examiner, investigation scope, trustee alternative and litigation leverage im US Bankruptcy Code. |
-| `exclusivity-1121` | Prüft debtor exclusivity, extension, termination, competing plans and negotiation leverage im US Bankruptcy Code. |
-| `executory-contracts-exemptions-financial` | Prüft assumption, rejection, assignment, cure, adequate assurance and strategic contract treatment im US Bankruptcy Code. |
-| `exemptions-522` | Prüft individual debtor exemptions, state opt-out, federal exemptions, homestead, tools, retirement and objections im US Bankruptcy Code. |
-| `financial-contract-safe-harbors` | Prüft safe harbors for securities contracts, commodities, forward contracts, repos, swaps and netting im US Bankruptcy Code. |
-| `first-day-motions` | Prüft first-day relief: cash management, wages, taxes, insurance, utilities, cash collateral, DIP, critical vendors im US Bankruptcy Code. |
-| `foreign-creditor-fraudulent-lbo-transfers` | Fuehrt deutsche Gläubiger durch US-Bankruptcy: notice, claim, stay, contract, committee, plan vote and distributions im US Bankruptcy Code. |
-| `fraudulent-lbo` | Prüft leveraged buyout fraudulent-transfer exposure, solvency, reasonably equivalent value and lender/recipient targets im US Bankruptcy Code. |
-| `fraudulent-transfers-548` | Prüft actual and constructive fraudulent transfers, two-year lookback, value, insolvency and insider transactions im US Bankruptcy Code. |
-| `free-clear-sale-363f` | Prüft sale free and clear of interests, liens attaching to proceeds, consent, bona fide dispute and statutory bases im US Bankruptcy Code. |
-| `german-insolvency-healthcare-bankruptcy` | Erklaert US Bankruptcy für deutsche Juristen: stay, estate, DIP, trustee, plan, 363 sale, claims and discharge im Vergleich im US Bankruptcy Code. |
-| `healthcare-bankruptcy` | Prüft health care business cases, patient care ombudsman, records, regulatory licenses and sale/closure issues im US Bankruptcy Code. |
-| `insurance-dno` | Prüft estate interest in policies, D&O proceeds, coverage disputes, stay, settlements and mass tort insurance im US Bankruptcy Code. |
-| `intellectual-property-license-365-n` | Prüft licensee rights after rejection, election, royalties, exclusivity and access to embodiments im US Bankruptcy Code. |
-| `involuntary-petition-303` | Prüft creditor-filed involuntary bankruptcy, creditor numerosity, bona fide dispute, gap period and damages risk im US Bankruptcy Code. |
-| `kaltstart-triage` | Kaltstart für Title 11: Chapter-Wahl, debtor/creditor role, automatic stay, claims, assets, financing, plan route and US-counsel package. |
-| `landlord-tenant-retail` | Prüft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims im US Bankruptcy Code. |
-| `mass-tort-bankruptcy` | Prüft mass tort Chapter 11 issues: claims estimation, channeling, third-party releases, insurance and trust structures im US Bankruptcy Code. |
-| `means-test-707b` | Prüft consumer Chapter 7 means test, abuse presumption, median income and special circumstances im US Bankruptcy Code. |
-| `mediation-settlement-meeting-creditors` | Prüft compromise approval, estate benefit, notice, fairness factors and structured settlements im US Bankruptcy Code. |
-| `meeting-creditors-341` | Bereitet § 341 meeting, debtor testimony, creditor questions, document issues and follow-up vor im US Bankruptcy Code. |
-| `nondischargeability-523` | Prüft debts excepted from discharge: fraud, fiduciary defalcation, willful injury, taxes, domestic support, student loans im US Bankruptcy Code. |
-| `pacer-ecf-confidentiality` | Prüft filing, public docket, sealing, redaction, confidential information and German data-room expectations im US Bankruptcy Code. |
-| `plan-classification` | Prüft classification of claims and interests, impairment, gerrymandering risk and voting strategy im US Bankruptcy Code. |
-| `plan-modification-1127` | Prüft pre- and post-confirmation plan modification, changed circumstances, resolicitation and confirmation compliance im US Bankruptcy Code. |
-| `plan-pension-erisa-classification` | Prüft pension obligations, PBGC claims, retiree benefits, collective bargaining and plan treatment im US Bankruptcy Code. |
-| `plan-support-agreements` | Prüft RSA/PSA, lock-up, milestones, fiduciary out, disclosure, solicitation and creditor group dynamics im US Bankruptcy Code. |
-| `postpetition-transfers-preference-ordinary` | Prüft unauthorized postpetition transfers, ordinary course, court authorization and recovery im US Bankruptcy Code. |
-| `preference-ordinary-course` | Prüft ordinary-course, contemporaneous exchange, new value and subsequent new value defenses im US Bankruptcy Code. |
-| `preferences-547` | Prüft preferential transfers, 90-day/insider period, antecedent debt, insolvency presumption and defenses im US Bankruptcy Code. |
-| `priority-claims-507` | Prüft priority claims: domestic support, wages, taxes, deposits, grain/fisherman and plan/distribution impact im US Bankruptcy Code. |
-| `professional-fees-professionals-retention` | Prüft fee applications, reasonableness, lodestar, expense reimbursement, interim/final fee procedures im US Bankruptcy Code. |
-| `professionals-retention-327` | Prüft retention of attorneys, financial advisors, investment bankers, disinterestedness and conflicts im US Bankruptcy Code. |
-| `real-property-leases-365` | Prüft commercial leases, assumption/rejection deadlines, cure, shopping-center rules, landlord claims and surrender im US Bankruptcy Code. |
-| `redteam-bankruptcy-qualitygate` | Prüft jede Bankruptcy-Ausgabe auf falsches Chapter, Stay-Verstoß, Fristenfehler, Local-Rule-Lücke and US-counsel need. |
-| `rsa-lockup-fiduciary-out` | Vertieft lock-up clauses, support obligations, board duties, superior proposal and plan-change flexibility im US Bankruptcy Code. |
-| `sale-bidding-schedules-sofa-secured-claim` | Prüft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline im US Bankruptcy Code. |
-| `schedules-sofa-disclosure` | Prüft schedules, statement of financial affairs, assets, liabilities, executory contracts, transfers and accuracy risks im US Bankruptcy Code. |
-| `secured-claim-valuation-506` | Prüft secured status, collateral value, bifurcation, adequate protection and cramdown valuation im US Bankruptcy Code. |
-| `setoff-recoupment-553` | Prüft mutuality, prepetition debts, stay implications, recoupment distinction and financial counterparty issues im US Bankruptcy Code. |
-| `single-asset-small-business-stalking-horse` | Prüft SARE designation, timelines, stay relief pressure, plan filing and interest payments im US Bankruptcy Code. |
-| `small-business-case` | Prüft small business debtor rules outside Subchapter V, reporting duties, disclosure statement simplification and deadlines im US Bankruptcy Code. |
-| `stalking-horse-credit-bid` | Prüft stalking-horse protections, break-up fees, expense reimbursement, credit bid rights and chilling objections im US Bankruptcy Code. |
-| `stay-relief-362d` | Prüft Motions for Relief from Stay: cause, lack of adequate protection, no equity, not necessary to reorganization im US Bankruptcy Code. |
-| `strong-arm-544` | Prüft trustee avoiding powers, hypothetical lien creditor, bona fide purchaser, state-law avoidance and perfection gaps im US Bankruptcy Code. |
-| `structured-finance-securitization` | Prüft bankruptcy remoteness, true sale, SPE separateness, substantive consolidation and servicing issues im US Bankruptcy Code. |
-| `subchapter-v-confirmation` | Prüft consensual and nonconsensual Subchapter V confirmation, disposable income, projected payments and owner retention im US Bankruptcy Code. |
-| `subchapter-v-overview` | Prüft Subchapter V small business reorganization: eligibility, trustee, streamlined plan and cost/speed tradeoffs im US Bankruptcy Code. |
-| `tax-claims-title11-map-trustee-turnover` | Prüft tax claims, priority, secured tax liens, dischargeability, returns, plan treatment and refunds im US Bankruptcy Code. |
-| `title11-map-chapters` | Kartiert Title 11 Chapters 1/3/5/7/9/11/12/13/15 mit Rollen, Zielen und Schnittstellen im US Bankruptcy Code. |
-| `trustee-us-trustee-roles` | Erklaert Chapter trustee, U.S. Trustee, bankruptcy administrator, DIP, examiner and oversight functions im US Bankruptcy Code. |
-| `turnover-542` | Prüft turnover of estate property, records, account funds, collateral and foreign holder issues im US Bankruptcy Code. |
-| `use-sale-utilities-valuation-enterprise-venue` | Prüft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections im US Bankruptcy Code. |
-| `utilities-366` | Prüft utility service, adequate assurance, deposits, objections and first-day relief im US Bankruptcy Code. |
-| `valuation-enterprise` | Prüft valuation evidence for plan, cramdown, adequate protection, 363 sale, solvency and fraudulent transfer im US Bankruptcy Code. |
-| `venue-jurisdiction-core` | Prüft Bankruptcy Court jurisdiction, venue, core/non-core, related-to, removal and abstention questions im US Bankruptcy Code. |
-| `voluntary-petition-voting-tabulation` | Organisiert voluntary filing, petition package, schedules, statements, certificates, filing authority and first-day timeline im US Bankruptcy Code. |
-| `voting-tabulation-1126` | Prüft acceptance, impaired classes, ballots, designation, numerosity/amount tests and solicitation problems im US Bankruptcy Code. |
+| `absolute-priority-adequate-protection` | Wenn es um Absolute Priority Rule in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `adequate-protection` | Wenn es um Adequate Protection in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `administrative-expenses-503` | Wenn es um Administrative Expenses Paragraf 503 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schr... |
+| `adversary-proceedings` | Wenn es um Adversary Proceedings in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `asbestos-channeling-automatic-stay-avoidance` | Wenn es um Asbestos Channeling Injunctions Paragraf 524(g) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `automatic-stay-362` | Wenn es um Automatic Stay Paragraf 362 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `avoidance-litigation` | Wenn es um Avoidance Litigation Strategy in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `bankruptcy-appeals` | Wenn es um Bankruptcy Appeals in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `board-duties-cash-collateral-chapter7-asset` | Wenn es um Board Duties and Zone of Insolvency in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `cash-collateral-363` | Wenn es um Cash Collateral Paragraf 363 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `chapter7-asset-distribution` | Wenn es um Chapter 7 Assets and Distribution in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `chapter7-liquidation` | Wenn es um Chapter 7 Liquidation Workflow in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `chapter9-municipal-plan-chapter11-dip` | Wenn es um Chapter 9 Municipal Eligibility in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `chapter9-plan` | Wenn es um Chapter 9 Plan Special Rules in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `chapter11-dip` | Wenn es um Chapter 11 Debtor in Possession in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `chapter12-family-farmer` | Wenn es um Chapter 12 Family Farmer Fisherman in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `chapter13-codebtor-stay-discharge-eligibility` | Wenn es um Chapter 13 Co-Debtor Stay in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `chapter13-discharge` | Wenn es um Chapter 13 Discharge in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `chapter13-eligibility` | Wenn es um Chapter 13 Eligibility in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `chapter13-plan` | Wenn es um Chapter 13 Plan Confirmation in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `chapter15-comity-recognition-claim-objection` | Wenn es um Chapter 15 Comity and Relief in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `chapter15-recognition` | Wenn es um Chapter 15 Recognition in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `claim-objection-502` | Wenn es um Claim Objection Paragraf 502 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `claims-proof-claim-501` | Wenn es um Proof of Claim Paragraf 501 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `claims-trading-confirmation-contested-matters` | Wenn es um Claims Trading Rule 3001(e) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `confirmation-1129` | Wenn es um Confirmation Paragraf 1129 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `contested-matters` | Wenn es um Contested Matters in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `conversion-dismissal` | Wenn es um Conversion and Dismissal in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `cramdown-1129b-credit-bidding-creditors` | Wenn es um Cramdown Paragraf 1129(b) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `credit-bidding-363k` | Wenn es um Credit Bidding Paragraf 363(k) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `creditors-committee-1102` | Wenn es um Creditors Committee Paragraf 1102 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `critical-vendors` | Wenn es um Critical Vendors in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `derivatives-repos-dip-financing-discharge` | Wenn es um Derivatives, Repos and Swaps in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `dip-financing-364` | Wenn es um DIP Financing Paragraf 364 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `discharge-chapter7-727` | Wenn es um Chapter 7 Discharge Paragraf 727 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `disclosure-statement-1125` | Wenn es um Disclosure Statement Paragraf 1125 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `effective-date-eligibility-credit-employee` | Wenn es um Effective Date and Plan Closing in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `eligibility-109-credit` | Wenn es um Eligibility Paragraf 109 and Credit Counseling in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näc... |
+| `employee-wages-benefits-warn` | Wenn es um Employees Wages Benefits and WARN in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `environmental-claims` | Wenn es um Environmental Claims in Bankruptcy in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `equitable-subordination-estate-property` | Wenn es um Subordination Paragraf 510 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `estate-property-541` | Wenn es um Property of the Estate Paragraf 541 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `examiner-1104` | Wenn es um Examiner Paragraf 1104 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `exclusivity-1121` | Wenn es um Exclusivity Paragraf 1121 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `executory-contracts-exemptions-financial` | Wenn es um Executory Contracts Paragraf 365 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `exemptions-522` | Wenn es um Exemptions Paragraf 522 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `financial-contract-safe-harbors` | Wenn es um Financial Contract Safe Harbors in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `first-day-motions` | Wenn es um First-Day Motions in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `foreign-creditor-fraudulent-lbo-transfers` | Wenn es um Foreign Creditor German Client in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `fraudulent-lbo` | Wenn es um Fraudulent Conveyance LBO in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `fraudulent-transfers-548` | Wenn es um Fraudulent Transfers Paragraf 548 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `free-clear-sale-363f` | Wenn es um Free and Clear Sale Paragraf 363(f) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `german-insolvency-healthcare-bankruptcy` | Wenn es um German Insolvency Comparison in US Bankruptcy Code geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `healthcare-bankruptcy` | Wenn es um Health Care Business Bankruptcy in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `insurance-dno` | Wenn es um Insurance and D&O in Bankruptcy in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `intellectual-property-license-365-n` | Wenn es um Intellectual Property License Paragraf 365(n) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `involuntary-petition-303` | Wenn es um Involuntary Petition Paragraf 303 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kaltstart-triage` | Wenn es um US Bankruptcy Code Kaltstart in US Bankruptcy Code geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `landlord-tenant-retail` | Wenn es um Landlord Tenant and Retail Bankruptcy in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `mass-tort-bankruptcy` | Wenn es um Mass Tort Bankruptcy in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `means-test-707b` | Wenn es um Means Test Paragraf 707(b) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `mediation-settlement-meeting-creditors` | Wenn es um Settlement and Rule 9019 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `meeting-creditors-341` | Wenn es um Meeting of Creditors Paragraf 341 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `nondischargeability-523` | Wenn es um Nondischargeability Paragraf 523 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `pacer-ecf-confidentiality` | Wenn es um PACER, ECF and Confidentiality in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `plan-classification` | Wenn es um Plan Classification in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `plan-modification-1127` | Wenn es um Plan Modification Paragraf 1127 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `plan-pension-erisa-classification` | Wenn es um Pension, ERISA and PBGC in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `plan-support-agreements` | Wenn es um Plan Support Agreements in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `postpetition-transfers-preference-ordinary` | Wenn es um Postpetition Transfers Paragraf 549 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `preference-ordinary-course` | Wenn es um Preference Defense Ordinary Course in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `preferences-547` | Wenn es um Preferences Paragraf 547 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `priority-claims-507` | Wenn es um Priority Claims Paragraf 507 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `professional-fees-professionals-retention` | Wenn es um Professional Fees Paragraf 330 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `professionals-retention-327` | Wenn es um Professionals Retention Paragraf 327 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `real-property-leases-365` | Wenn es um Real Property Leases Paragraf 365 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `redteam-bankruptcy-qualitygate` | Wenn es um Bankruptcy Red-Team Qualitygate in US Bankruptcy Code geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `rsa-lockup-fiduciary-out` | Wenn es um Lock-Up and Fiduciary Out in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `sale-bidding-schedules-sofa-secured-claim` | Wenn es um Sale Process and Bidding Procedures in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
+| `schedules-sofa-disclosure` | Wenn es um Schedules and SOFA Disclosure in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `secured-claim-valuation-506` | Wenn es um Secured Claim Valuation Paragraf 506 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `setoff-recoupment-553` | Wenn es um Setoff and Recoupment Paragraf 553 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `single-asset-small-business-stalking-horse` | Wenn es um Single Asset Real Estate in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
+| `small-business-case` | Wenn es um Small Business Case in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `stalking-horse-credit-bid` | Wenn es um Stalking Horse and Credit Bid in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stay-relief-362d` | Wenn es um Stay Relief Paragraf 362(d) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `strong-arm-544` | Wenn es um Strong Arm Paragraf 544 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `structured-finance-securitization` | Wenn es um Structured Finance and Securitization in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `subchapter-v-confirmation` | Wenn es um Subchapter V Confirmation in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `subchapter-v-overview` | Wenn es um Subchapter V Overview in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `tax-claims-title11-map-trustee-turnover` | Wenn es um Tax Claims in Bankruptcy in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `title11-map-chapters` | Wenn es um Title 11 Chapters Map in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `trustee-us-trustee-roles` | Wenn es um Trustee and U.S. Trustee Roles in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `turnover-542` | Wenn es um Turnover Paragraf 542 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `use-sale-utilities-valuation-enterprise-venue` | Wenn es um Use, Sale or Lease Paragraf 363 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `utilities-366` | Wenn es um Utilities Paragraf 366 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `valuation-enterprise` | Wenn es um Enterprise Valuation in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `venue-jurisdiction-core` | Wenn es um Venue, Jurisdiction and Core Proceedings in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `voluntary-petition-voting-tabulation` | Wenn es um Voluntary Petition Intake in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
+| `voting-tabulation-1126` | Wenn es um Voting and Tabulation Paragraf 1126 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

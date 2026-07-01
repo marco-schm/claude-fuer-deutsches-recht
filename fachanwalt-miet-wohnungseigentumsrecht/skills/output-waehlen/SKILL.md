@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Miet- und Wohnungseigentumsrecht: stimmt Adressat (Mieter, Vermieter, WEG-Eigentümer), Frist (§ 573c BGB Kündigung) und Form auf den Zweck ab — typische Outputs: Kündigung, Beschlussklage WEG, Mieterhöhungsklage."
+description: "Wenn es um Output wählen in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

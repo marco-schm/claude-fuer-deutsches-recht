@@ -1,6 +1,6 @@
 ---
 name: insanw-anfechtungsmandat-leitfaden
-description: "Leitfaden Anfechtungsmandat für Verwalter und Verteidiger: §§ 129 ff: InsO, Vorsatzanfechtung, Bargeschaeftsausnahme. Prüfraster Indizien Kenntnis Gläubigerbenachteiligung. Mustertext A..."
+description: "Wenn es um Leitfaden Anfechtungsmandat für Verwalter und Verteidiger: Paragrafen 129 ff in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leitfaden Anfechtungsmandat für Verwalter und Verteidiger: §§ 129 ff

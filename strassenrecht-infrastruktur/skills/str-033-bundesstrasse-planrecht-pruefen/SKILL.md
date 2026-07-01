@@ -1,6 +1,6 @@
 ---
 name: str-033-bundesstrasse-planrecht-pruefen
-description: "Straßenrecht und Infrastruktur: Bundesstraße: Planrecht prüfen. Planrecht prüfen für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bundesstrasse Planrecht Pruefen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bundesstrasse Planrecht Pruefen

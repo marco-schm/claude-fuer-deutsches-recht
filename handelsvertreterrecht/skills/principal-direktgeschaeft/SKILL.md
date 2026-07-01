@@ -1,6 +1,6 @@
 ---
 name: principal-direktgeschaeft
-description: "Prüft Direktgeschäfte des Unternehmers im Handelsvertretergebiet: Provisionsanspruch des Handelsvertreters nach § 87 Abs. 2 HGB, Dokumentationspflichten des Unternehmers, Auskunfts- und Buchauszugsrecht sowie Schadensersatz bei systematischer Unterwanderung des Alleinvertretervertrags im Handelsv..."
+description: "Wenn es um Direktgeschäfte des Unternehmers im Handelsvertretergebiet nach Paragraf 87 HGB in Handelsvertreterrecht und Vertriebsverträge geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Direktgeschäfte des Unternehmers im Handelsvertretergebiet nach § 87 HGB

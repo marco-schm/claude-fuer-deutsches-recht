@@ -1,6 +1,6 @@
 ---
 name: vpn-ausland-reisen
-description: "Prüft Reisen, Auslandszugriffe und Hochrisikoländer im Nis2 Cybersecurity Compliance."
+description: "Wenn es um VPN Ausland Reisen in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VPN Ausland Reisen

@@ -1,6 +1,6 @@
 ---
 name: basiliken-prochiron-ecloga
-description: "Römisches Recht: Byzantinische Kompilationen wie Ekloge, Prochiron und Basiliken als Weiterbearbeitung römisch-justinianischen Rechts."
+description: "Wenn es um Basiliken, Prochiron und Ekloge in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Basiliken Prochiron Ecloga; Arbeitsfeld: Römisches Recht."
 ---
 
 # Basiliken, Prochiron und Ekloge

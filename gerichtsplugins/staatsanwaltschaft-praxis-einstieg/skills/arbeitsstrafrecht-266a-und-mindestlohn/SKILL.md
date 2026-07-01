@@ -1,6 +1,6 @@
 ---
 name: arbeitsstrafrecht-266a-und-mindestlohn
-description: "Arbeitsstrafrecht: Paragraf 266a StGB, MiLoG und Scheinselbständigkeit: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Arbeitsstrafrecht: Paragraf 266a StGB, MiLoG und Scheinselbständigkeit in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Arbeitsstrafrecht 266a Und Mindestlohn; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
 ---
 
 # Arbeitsstrafrecht: Paragraf 266a StGB, MiLoG und Scheinselbständigkeit

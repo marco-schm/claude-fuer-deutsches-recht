@@ -1,6 +1,6 @@
 ---
 name: erfinderische-sonderfall-und-edge-case
-description: "Erfinderische: Sonderfall und Edge-Case-Prüfung im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Erfinderische: Sonderfall und Edge-Case-Prüfung in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erfinderische: Sonderfall und Edge-Case-Prüfung

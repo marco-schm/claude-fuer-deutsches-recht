@@ -1,6 +1,6 @@
 ---
 name: output-dossier
-description: "Erstellt ein vollstaendiges Compliance-Dossier für BaFin-Anfragen, interne Audits oder Strafverteidigung aus allen Insiderrecht-Workproducts."
+description: "Wenn es um Compliance-Dossier für BaFin-Anfragen und Verteidigung in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Compliance-Dossier für BaFin-Anfragen und Verteidigung

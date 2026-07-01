@@ -1,6 +1,6 @@
 ---
 name: fristen-berechnen-sgg-laien
-description: "Alle wichtigen Fristen im SG-Verfahren überblicken. Widerspruch Klage Berufung Eilantrag Verlaengerung. Berechnungstipps für Buerger ohne Anwalt."
+description: "Wenn es um Die wichtigsten Fristen im SG-Verfahren in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Die wichtigsten Fristen im SG-Verfahren

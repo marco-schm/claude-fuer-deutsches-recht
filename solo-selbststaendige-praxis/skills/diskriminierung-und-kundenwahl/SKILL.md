@@ -1,6 +1,6 @@
 ---
 name: diskriminierung-und-kundenwahl
-description: "Solo-Selbstständige: prüft AGG-/Hausrechts-/Vertragsfreiheit bei schwierigen Kunden; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Diskriminierung Und Kundenwahl in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzen Compliance und Selbstschutz: Prüft agg-/hausrechts-/vertragsfreiheit bei schwierigen kunden

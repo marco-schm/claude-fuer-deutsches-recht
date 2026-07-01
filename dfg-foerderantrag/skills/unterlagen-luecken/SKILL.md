@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für DFG-Förderantrag: trennt fehlende Tatsachen von fehlenden Belegen (Projektbeschreibung, Finanzierungsplan, Lebenslauf), nennt pro Lücke Beweisthema, Beschaffungsweg (Deutsche Forschungsgemeinschaft), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

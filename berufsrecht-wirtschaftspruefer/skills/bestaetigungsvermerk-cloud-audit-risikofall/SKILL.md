@@ -1,6 +1,6 @@
 ---
 name: bestaetigungsvermerk-cloud-audit-risikofall
-description: "Wirtschaftsprüfer: bestätigungsvermerk risikofall - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Bestaetigungsvermerk Cloud Audit Risikofall in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: bestätigungsvermerk risikofall - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

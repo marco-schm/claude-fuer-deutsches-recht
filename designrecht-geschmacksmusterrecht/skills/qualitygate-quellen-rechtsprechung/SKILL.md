@@ -1,6 +1,6 @@
 ---
 name: qualitygate-quellen-rechtsprechung
-description: "Qualitygate für Designrechtsoutputs: Normen, Registerdaten, Fristen, Wiedergaben, Rechtsprechung, Paywall-Vermeidung und offene Tatsachen prüfen."
+description: "Wenn es um Qualitygate Quellen Rechtsprechung in designrecht-geschmacksmusterrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Qualitygate Quellen Rechtsprechung

@@ -1,6 +1,6 @@
 ---
 name: simulation-bidder-process
-description: "Bieterprozess-Simulation: Simuliert einen beschleunigten achtstuendigen Seller-side oder Buy-side M&A-Tag mit Datenraum, Q&A, Markup, CPs und Board Call im Mittelstand Corporate Ma."
+description: "Wenn es um Bieterprozess-Simulation in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bieterprozess-Simulation

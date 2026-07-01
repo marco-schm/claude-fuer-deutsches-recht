@@ -1,6 +1,6 @@
 ---
 name: onboarding-beratungsstruktur
-description: "Methodisches Prüfungsschema für jedes steuerliche Mandat — vom Sachverhalt ueber die Norm zur Subsumtion und Strategie. Anwendungsfall Berufstraeger braucht ein wiederverwendbares Geruest für steuerliche Stellungnahmen Gutachten und Schriftsaetze. Behandelt Sachverhaltsaufnahme Beweismittelmatri..."
+description: "Wenn es um Beratungsstruktur im Steuerrecht — Prüfungsschema vom Sachverhalt zur Loesung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beratungsstruktur im Steuerrecht — Prüfungsschema vom Sachverhalt zur Loesung

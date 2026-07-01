@@ -1,6 +1,6 @@
 ---
 name: duenge-ordnungswidrigkeit
-description: "Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen: Bußgeldtatbestaende § 13a Abs. 2 DueG i.V.m. § 14 DueV. Aufzeichnungs- und Meldepflichten Nmin Stoffstrombilanz § 11a DueG. Sperrfristen Au..."
+description: "Wenn es um Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen

@@ -1,6 +1,6 @@
 ---
 name: parteienrecht-bewerberzustimmung-wahlvorschlag
-description: "Erklärt Zustimmungserklärung, Wählbarkeit, Parteimitgliedschaft, Mehrfachkandidatur und Nachweise."
+description: "Wenn es um Bewerberzustimmung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Parteienrecht Bewerberzustimmung Wahlvorschlag; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Bewerberzustimmung

@@ -1,6 +1,6 @@
 ---
 name: registerrecht-beschlussmaengel-und-registervollzug
-description: "Prüft, ob das Registergericht bei Kapitalmaßnahme, Geschäftsführerbestellung oder Satzungsänderung Beschlussmängel beachten muss, wie weit die formelle Prüfung reicht und wann der materielle Streit auf Zivilprozess/Eilrechtsschutz verlagert wird im Handelsregister Praxis."
+description: "Wenn es um Beschlussmängel im Registervollzug in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Beschlussmängel im Registervollzug

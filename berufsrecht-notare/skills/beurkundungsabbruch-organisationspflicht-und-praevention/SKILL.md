@@ -1,6 +1,6 @@
 ---
 name: beurkundungsabbruch-organisationspflicht-und-praevention
-description: "Notare: beurkundungsabbruch - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Beurkundungsabbruch Organisationspflicht Und Praevention in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: beurkundungsabbruch - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

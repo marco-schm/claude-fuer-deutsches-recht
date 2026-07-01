@@ -1,6 +1,6 @@
 ---
 name: notfallkommunikation-rak-beschwerde-berufsverfahren
-description: "Anwälte: berufsrechtliche notfallkommunikation - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Notfallkommunikation Rak Beschwerde Berufsverfahren in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Anwälte: berufsrechtliche notfallkommunikation - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

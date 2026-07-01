@@ -1,6 +1,6 @@
 ---
 name: dokumentenfamilie-rangfolge
-description: "Einstiegs- und Prüfungslinie für Dokumentenfamilie Rangfolge: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Wenn es um Dokumentenfamilie Rangfolge in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Dokumentenfamilie Rangfolge

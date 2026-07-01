@@ -1,6 +1,6 @@
 ---
 name: unwirksame-abnahmeklauseln-dreissig-jahre-und-nachholung
-description: "Prüft unwirksame Abnahmeklauseln im Bauträgervertrag: Erstverwalter, Sachverständige, Erwerbervertreter, Nachzügler, § 640 BGB, § 634a BGB, personale Teilunwirksamkeit, 30-Jahres-Grenze und nachträgliche Abnahme."
+description: "Wenn es um Unwirksame Abnahmeklauseln, 30-Jahres-Grenze und Nachholung in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Unwirksame Abnahmeklauseln, 30-Jahres-Grenze und Nachholung

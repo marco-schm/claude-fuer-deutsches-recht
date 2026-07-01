@@ -1,6 +1,6 @@
 ---
 name: bautraeger-elektronische-notarverkuendung-2023
-description: "Elektronische notarielle Verkuendung beim Bautraegervertrag: Skill klaert die Reform 2022/2023 zum elektronischen Notariat die Online-Beurkundung und ihre Anwendbarkeit auf Bautraegervertraege. St..."
+description: "Wenn es um Elektronische notarielle Verkuendung beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Elektronische notarielle Verkuendung beim Bautraegervertrag

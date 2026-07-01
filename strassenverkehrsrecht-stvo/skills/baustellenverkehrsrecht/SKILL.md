@@ -1,6 +1,6 @@
 ---
 name: baustellenverkehrsrecht
-description: "Straßenverkehrsrecht StVO: Baustellenverkehrsrecht. Baustellenverkehrsrecht im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und..."
+description: "Wenn es um Baustellenverkehrsrecht in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Baustellenverkehrsrecht

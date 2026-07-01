@@ -1,6 +1,6 @@
 ---
 name: rentenluecken-matrix
-description: "Rentenlücken-Matrix für ganze Erwerbsbiografien: Monatsraster, Belegstatus, Trägerzuständigkeit, Priorität und Erledigung im Rentenpruefer."
+description: "Wenn es um rentenluecken-matrix in Rentenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # rentenluecken-matrix

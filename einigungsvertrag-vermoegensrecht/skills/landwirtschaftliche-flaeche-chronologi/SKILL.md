@@ -1,6 +1,6 @@
 ---
 name: landwirtschaftliche-flaeche-chronologi
-description: "Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Chronologie bauen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Landwirtschaftliche Flaeche Chronologi in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Landwirtschaftliche Flaeche Chronologi

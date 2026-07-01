@@ -1,6 +1,6 @@
 ---
 name: dienstaufsicht-notar-beschwerde-praevention
-description: "Dienstaufsicht Notar Beschwerde (Präventions- und Organisationspaket): steuert Dienstaufsichtsbeschwerde, Prüfungsmaßstab, Akteneinsicht, Stellungnahme und Rechtsbehelf mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt."
+description: "Wenn es um Dienstaufsicht Notar Beschwerde: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Dienstaufsicht Notar Beschwerde: Präventions- und Organisationspaket

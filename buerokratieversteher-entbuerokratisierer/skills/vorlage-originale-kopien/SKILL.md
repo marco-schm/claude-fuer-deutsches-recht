@@ -1,6 +1,6 @@
 ---
 name: vorlage-originale-kopien
-description: "Warnt vor unnötiger Originalabgabe; erstellt Kopier-, Beglaubigungs- und Rückgabevermerk im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Originale und Kopien in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Originale und Kopien

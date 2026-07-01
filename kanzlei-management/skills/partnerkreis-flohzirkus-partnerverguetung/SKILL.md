@@ -1,6 +1,6 @@
 ---
 name: partnerkreis-flohzirkus-partnerverguetung
-description: "Stakeholderkarte für Egos, Interessen, Sorgen und echte Blockaden. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Partnerkreis und Flohzirkus-Dynamik in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Partnerkreis und Flohzirkus-Dynamik

@@ -1,6 +1,6 @@
 ---
 name: bmi-auslaender
-description: "Sachbereich Ausländer- und Staatsangehoerigkeitsrecht im Geschäftsbereich BMI: Normbestand (AufenthG; AsylG; StAG; FreizuegG/EU; AZRG; AsylbLG (mit BMAS).); Akteure (BAMF; Ausländerbehoerden; Bundespolizei.); EU-Bezug (GEAS; Dublin-VO; Rueckfuehrungs-RL; Visa-Kodex; Schengen.); typische Legist"
+description: "Wenn es um Ausländer- und Staatsangehoerigkeitsrecht (BMI) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmi Auslaender; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Ausländer- und Staatsangehoerigkeitsrecht (BMI)

@@ -1,6 +1,6 @@
 ---
 name: drg-093-gute-rechtsgeschichte-fuer-laien
-description: "Deutsche Rechtsgeschichte: Gute Rechtsgeschichte Fuer Laien. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Gute Rechtsgeschichte Fuer Laien in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gute Rechtsgeschichte Fuer Laien

@@ -1,6 +1,6 @@
 ---
 name: beweisangebot-anlage-emails-chats-excel
-description: "Zeugenbeweis korrekt ueber Anlagen unterstuetzen: schriftliche Zeugenaussagen sind keine Anlagen-Beweismittel im Strengbeweis, koennen aber als praeprozessuale Information dienen. Anlagen, die die Glaubhaftigkeit stuetzen (Chatverlauf, E-Mail, Foto). Prüfraster und Beweisangebot-Wortlaute im Anl..."
+description: "Wenn es um Beweisangebot über Anlagen (Zeugen) in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beweisangebot über Anlagen (Zeugen)

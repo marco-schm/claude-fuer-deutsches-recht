@@ -1,6 +1,6 @@
 ---
 name: nachtragsforderung-bgh-vii-zr-34-18-bauwirtschaft
-description: "Nachtragsforderung BGH Vii Zr 34 18 Bauwirtschaft: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Nachtragsforderung BGH Vii Zr 34 18 Bauwirtschaft in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachtragsforderung BGH Vii Zr 34 18 Bauwirtschaft

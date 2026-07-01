@@ -1,6 +1,6 @@
 ---
 name: recherche-tools-marktuebersicht
-description: "Marktuebersicht Recherche-Tools: kostenlose Quellen (Espacenet, DEPATIS, Google Patents, Lens, USPTO PatFT/AppFT, J-PlatPat), kostenpflichtige (Derwent, Orbit, PatBase, Minesoft, IPCheckUp, Patsnap). Pro Tool: Staerken, Schwaechen, Lizenzmodell, Eignung im Patentrecherche."
+description: "Wenn es um Recherche-Tools: Marktuebersicht in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Recherche-Tools: Marktuebersicht

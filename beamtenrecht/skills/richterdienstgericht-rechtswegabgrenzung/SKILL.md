@@ -1,6 +1,6 @@
 ---
 name: richterdienstgericht-rechtswegabgrenzung
-description: "Richterdienstgerichte und Rechtsweg: DRiG, Landesrichterrecht, Dienstaufsichtsmaßnahme, Statusstreit, Beurteilung, Beihilfe, Versorgung, Präsidium und Verwaltungsgerichtsbarkeit trennen im Beamtenrecht."
+description: "Wenn es um Richterdienstgericht oder Verwaltungsgericht? in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Richterdienstgericht oder Verwaltungsgericht?

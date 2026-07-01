@@ -1,6 +1,6 @@
 ---
 name: benachrichtigung-art-34-schwelle-hohes
-description: "Bewertet, ob die Schwelle voraussichtlich hohes Risiko nach Art. 34 Abs. 1 DSGVO erreicht ist. Behandelt: Abgrenzung zur Meldeschwelle Art. 33 Abs. 1 DSGVO; EDSA-Beispielfallgruppen; Faktoren Schwere und Wahrscheinlichkeit; Sondergruppen Art. 9 DSGVO und Minderjährige; Klartext-Passwörter; Finanz..."
+description: "Wenn es um Schwelle hohes Risiko nach Art. 34 Abs. 1 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schwelle hohes Risiko nach Art. 34 Abs. 1 DSGVO

@@ -1,6 +1,6 @@
 ---
 name: bav-grenzueberschreitend-mobil-spezial
-description: "Spezialfall grenzueberschreitende bAV bei Auslandsentsendung: A1-Bescheinigung, Sozialversicherungsabkommen, Doppelbesteuerung, EU-Mobilitaetsrichtlinie 2014 50 EU. Prüfraster und Mustertexte für Mitarbeiter-Pakete im Bav Strategie Konzern."
+description: "Wenn es um bAV: Grenzueberschreitende Mobilitaet in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # bAV: Grenzueberschreitende Mobilitaet

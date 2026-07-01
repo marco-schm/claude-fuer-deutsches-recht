@@ -1,6 +1,6 @@
 ---
 name: ergaenzt-mandantenkommunikation-entscheidungsvorlage
-description: "Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage: Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Wenn es um Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage

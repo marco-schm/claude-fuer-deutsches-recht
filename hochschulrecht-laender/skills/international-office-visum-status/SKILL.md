@@ -1,6 +1,6 @@
 ---
 name: international-office-visum-status
-description: "Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung im Hochschulrecht Länder."
+description: "Wenn es um International Office, Visum und Status in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # International Office, Visum und Status

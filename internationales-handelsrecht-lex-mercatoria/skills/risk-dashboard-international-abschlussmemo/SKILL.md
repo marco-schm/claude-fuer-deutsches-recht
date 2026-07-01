@@ -1,6 +1,6 @@
 ---
 name: risk-dashboard-international-abschlussmemo
-description: "Internationales Handelsrecht: Risiko-Dashboard für internationale Handelsgeschäfte. Länder-, Währungs-, Lieferanten-, Rechtsdurchsetzungs- und Compliance-Risiken im Überblick. Ampelsystem, Priorisierung und Handlungsempfehlungen im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Risiko-Dashboard Internationaler Handel in Internationales Handelsrecht und Lex Mercatoria geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Risiko-Dashboard Internationaler Handel

@@ -1,6 +1,6 @@
 ---
 name: regulatory-fdi-merger
-description: "Anmeldepflichten Fusionskontrolle und FDI prüfen: M&A-Transaktion erfordert Clearance. Normen: §§ 35 ff. GWB (deutsches Fusionskontrollrecht), Art. 1 ff. FKVO (EU-Fusionskontrolle), AWG/AWV (Investitionsprüfung), SektSchV (Sektorschutz), TKG, EnWG. Prüfraster: Umsatzschwellen, Marktanteile, Vollz"
+description: "Wenn es um Regulatory, FDI und Fusionskontrolle in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Regulatory Fdi Merger; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # Regulatory, FDI und Fusionskontrolle

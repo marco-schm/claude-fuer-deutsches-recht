@@ -1,6 +1,6 @@
 ---
 name: padlet-deal-canvas
-description: "Interaktiver Deal-Padlet-Canvas für Corporate/M&A: visualisiert Parteien, Struktur, Dokumente, Risiken, Q&A, CPs, Gremien, Register, To-dos und Entscheidungspunkte als bewegliches Arbeitsboard."
+description: "Wenn es um Padlet Deal Canvas in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Padlet Deal Canvas

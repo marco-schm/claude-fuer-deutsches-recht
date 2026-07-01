@@ -1,6 +1,6 @@
 ---
 name: kassenwahl-kuendigung-bindungsfrist-wahltarif
-description: "Kassenwahlrecht nach § 175 SGB V: Bindungsfrist, Kündigung, Sonderkündigungsrecht, Wahltarife und Kostenbeteiligung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Kassenwahl: Kündigung, Bindungsfrist und Wahltarif in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kassenwahl: Kündigung, Bindungsfrist und Wahltarif

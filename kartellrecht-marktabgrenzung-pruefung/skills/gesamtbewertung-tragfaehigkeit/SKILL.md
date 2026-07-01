@@ -1,6 +1,6 @@
 ---
 name: gesamtbewertung-tragfaehigkeit
-description: "Gesamturteil zur Tragfähigkeit einer Marktabgrenzung: hoch mittel oder gering. Fasst zentrale Schwachstellen in 3 bis 5 scharfen Punkten zusammen. Bewertet Angreifbarkeit vor Gericht oder Behörde und empfiehlt prozesstaktische Konsequenzen für das eigene Team im Kartellrecht (Marktabgrenzung): pr..."
+description: "Wenn es um Gesamtbewertung — Tragfähigkeit der Marktabgrenzung in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesamtbewertung — Tragfähigkeit der Marktabgrenzung

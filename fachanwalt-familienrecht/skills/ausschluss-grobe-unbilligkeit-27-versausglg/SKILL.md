@@ -1,6 +1,6 @@
 ---
 name: ausschluss-grobe-unbilligkeit-27-versausglg
-description: "Familienrechtlicher Skill zu Ausschluss grobe Unbilligkeit Paragraf 27 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
+description: "Wenn es um Ausschluss Grobe Unbilligkeit 27 Versausglg in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausschluss grobe Unbilligkeit Paragraf 27 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

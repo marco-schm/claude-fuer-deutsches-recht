@@ -1,6 +1,6 @@
 ---
 name: 01-zulaessigkeit-finanzgerichtsklage
-description: "Zulässigkeit der Klage Paragrafen 40-65 FGO: Klagearten (Anfechtung Verpflichtung Feststellung Untaetigkeit), Vorverfahren Einspruch nach Paragraf 347 AO, Klagefrist Paragraf 47 FGO, Klagebefugnis Paragraf 40 Abs. 2"
+description: "Wenn es um 01 Zulässigkeit Finanzgerichtsklage in Finanzgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 01 Zulässigkeit Finanzgerichtsklage

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Vertragsausfüller: ordnet Rolle (Vertragsparteien, Berater), markiert Frist (Schriftform/Textform-Fristen), wählt Norm (BGB AT, BGB BT, AGB-Recht §§ 305 ff. BGB) und Zuständigkeit (zuständige Stelle), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Vertragsausfüller geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

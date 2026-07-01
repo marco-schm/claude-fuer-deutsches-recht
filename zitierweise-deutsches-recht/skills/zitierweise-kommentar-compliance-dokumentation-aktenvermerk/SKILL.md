@@ -1,6 +1,6 @@
 ---
 name: zitierweise-kommentar-compliance-dokumentation-aktenvermerk
-description: "Kommentar: Compliance-Dokumentation und Aktenvermerk im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
+description: "Wenn es um Kommentar: Compliance-Dokumentation und Aktenvermerk in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommentar: Compliance-Dokumentation und Aktenvermerk

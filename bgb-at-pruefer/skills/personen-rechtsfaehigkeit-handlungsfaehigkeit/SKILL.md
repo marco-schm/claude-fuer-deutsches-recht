@@ -1,6 +1,6 @@
 ---
 name: personen-rechtsfaehigkeit-handlungsfaehigkeit
-description: "Prüft Rechtsfähigkeit und Handlungsfähigkeit natürlicher und juristischer Personen nach §§ 1 bis 14 BGB: Beginn und Ende der Rechtsfähigkeit bei natürlichen Personen, Geschäftsfähigkeit §§ 104 bis 113 BGB, Deliktsfähigkeit § 828 BGB, Parteifähigkeit im Zivilprozess."
+description: "Wenn es um Rechtsfähigkeit und Handlungsfähigkeit — Paragrafen 1 bis 14 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Personen Rechtsfaehigkeit Handlungsfaehigkeit; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Rechtsfähigkeit und Handlungsfähigkeit — §§ 1 bis 14 BGB

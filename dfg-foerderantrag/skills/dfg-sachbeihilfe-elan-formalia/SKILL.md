@@ -1,6 +1,6 @@
 ---
 name: dfg-sachbeihilfe-elan-formalia
-description: "DFG-Sachbeihilfe und elan-Formalia prüfen: Antragsberechtigung, Module, Vordrucke, Anlagen, Seitenlogik, Fachzuordnung, Fortsetzungsantrag, internationale Kooperation, formale Einreichungsreife."
+description: "Wenn es um Sachbeihilfe und elan-Formalia in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sachbeihilfe und elan-Formalia

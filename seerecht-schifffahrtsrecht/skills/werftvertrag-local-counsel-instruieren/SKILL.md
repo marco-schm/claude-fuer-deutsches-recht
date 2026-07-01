@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-local-counsel-instruieren
-description: "Werftvertrag: Ausländischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Neubauprojekt unter Werftvertrag im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht."
+description: "Wenn es um Werftvertrag – Local Counsel instruieren in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Werftvertrag – Local Counsel instruieren

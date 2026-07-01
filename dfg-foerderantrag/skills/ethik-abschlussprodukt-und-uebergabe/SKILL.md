@@ -1,6 +1,6 @@
 ---
 name: ethik-abschlussprodukt-und-uebergabe
-description: "Ethik: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Ethik: Abschlussprodukt und Übergabe in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ethik: Abschlussprodukt und Übergabe

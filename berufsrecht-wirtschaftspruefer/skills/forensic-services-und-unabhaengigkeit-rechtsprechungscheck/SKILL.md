@@ -1,6 +1,6 @@
 ---
 name: forensic-services-und-unabhaengigkeit-rechtsprechungscheck
-description: "Wirtschaftsprüfer: forensic services und unabhaengigkeit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Forensic Services Und Unabhaengigkeit Rechtsprechungscheck in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: forensic services und unabhaengigkeit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

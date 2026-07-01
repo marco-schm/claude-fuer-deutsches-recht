@@ -1,6 +1,6 @@
 ---
 name: inso-p056a-glaubigerbeteiligung-bei-der-verwalterbestellung
-description: "§ 56a InsO (Gläubigerbeteiligung bei der Verwalterbestellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 56a InsO (Gläubigerbeteiligung bei der Verwalterbestellung) im Mandat prüfen:..."
+description: "Wenn es um Inso P056a Glaubigerbeteiligung Bei Der Verwalterbestellung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 56a InsO (Gläubigerbeteiligung bei der Verwalterbestellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

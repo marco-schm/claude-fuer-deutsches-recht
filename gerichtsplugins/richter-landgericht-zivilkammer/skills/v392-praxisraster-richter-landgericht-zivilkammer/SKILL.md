@@ -1,6 +1,6 @@
 ---
 name: v392-praxisraster-richter-landgericht-zivilkammer
-description: "Praxisraster für Landgericht Zivilkammer: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet."
+description: "Wenn es um Praxisraster Landgericht Zivilkammer in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Praxisraster Landgericht Zivilkammer

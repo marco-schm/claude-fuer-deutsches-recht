@@ -1,6 +1,6 @@
 ---
 name: uebermittlungsirrtum-paragraph-120
-description: "Klausurfall zum Übermittlungsirrtum nach § 120 BGB: fehlerhafte Übermittlung durch Boten oder Fernkommunikation, Gleichstellung mit dem Erklärungsirrtum nach § 119 Abs. 1 BGB, Anfechtungsrecht des Erklärenden und Schadensersatz nach § 122 BGB."
+description: "Wenn es um Übermittlungsirrtum — Paragraf 120 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Übermittlungsirrtum — § 120 BGB

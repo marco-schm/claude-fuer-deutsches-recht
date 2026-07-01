@@ -1,6 +1,6 @@
 ---
 name: actio-pauliana-glaeubigeranfechtung
-description: "Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckgaengigmachung gläubigerbenachteiligender Vermögensverschiebungen des Schuldners. Skill behandelt die Tatbestaende (consilium fraudis eventus damni scientia des Dritten) den Klagegegenstand und die Restitution. Vorlaeufer von § 138 B..."
+description: "Wenn es um Rom 115 Actio Pauliana Gläubigeranfechtung in Römisches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rom 115 Actio Pauliana Gläubigeranfechtung

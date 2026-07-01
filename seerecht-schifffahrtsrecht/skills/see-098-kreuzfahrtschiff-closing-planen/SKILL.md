@@ -1,6 +1,6 @@
 ---
 name: see-098-kreuzfahrtschiff-closing-planen
-description: "See- und Schifffahrtsrecht: Kreuzfahrtschiff: Closing planen. Closing planen für Kreuzfahrtschiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kreuzfahrtschiff Closing Planen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreuzfahrtschiff Closing Planen

@@ -1,6 +1,6 @@
 ---
 name: khub-sonderfall-und-edge-case
-description: "Khub: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Khub: Sonderfall und Edge-Case-Prüfung in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Khub: Sonderfall und Edge-Case-Prüfung

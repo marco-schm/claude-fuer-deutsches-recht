@@ -1,6 +1,6 @@
 ---
 name: ihl-039-bankgarantie-urgd
-description: "Internationales Handelsrecht und Lex Mercatoria: Bankgarantie Urgd. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Bankgarantie Urgd in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bankgarantie Urgd

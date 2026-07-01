@@ -1,6 +1,6 @@
 ---
 name: partg-haftung-paragraf-8-partgg
-description: "Partg Haftung § 8 PartGG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Partg Haftung Paragraf 8 PartGG in Fachanwalt Handels- und Gesellschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Partg Haftung § 8 PartGG

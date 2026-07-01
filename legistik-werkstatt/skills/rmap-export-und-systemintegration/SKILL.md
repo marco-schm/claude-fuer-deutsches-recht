@@ -1,6 +1,6 @@
 ---
 name: rmap-export-und-systemintegration
-description: "Export der Rulemap aus dem Builder; Integration in Fachverfahren; Schnittstellen zur eAkte; OZG-Service; Registerlandschaft. Output Integrations-blueprint mit Datenflussskizze und Prüfpunkten. Anschluss legw-rmap-anschluss-an-legw für die Rueckbindung an die uebrige Legistik-Werkstatt. Abgrenzun..."
+description: "Wenn es um Export und Integration in Vollzugs-IT in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Export und Integration in Vollzugs-IT

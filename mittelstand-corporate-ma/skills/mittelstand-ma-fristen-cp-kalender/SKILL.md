@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-fristen-cp-kalender
-description: "Kanzlei oder Mandant benoetigt Fristen- und CP-Kalender für M&A-Mandat: Signing Closing Q&A Regulatory Register Board Ordinary-Course. Normen §§ 187-193 BGB Fristberechnung MAR-Fristen GWB-Fristen AWV-Fristen. Prüfraster CP-Vollständigkeit Fristenanker Kollusionsrisiken Verlaengerungs-Optionen. O..."
+description: "Wenn es um Freistehender Deal-Fristen- und CP-Kalender in Mittelstands-Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freistehender Deal-Fristen- und CP-Kalender

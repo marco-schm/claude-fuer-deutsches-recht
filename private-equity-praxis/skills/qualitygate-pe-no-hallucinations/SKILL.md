@@ -1,6 +1,6 @@
 ---
 name: qualitygate-pe-no-hallucinations
-description: "Prüft alle PE-Outputs auf erfundene Marktstandards, falsche Normen, fehlende Quellen, Zahlenbrüche und Rollenkonflikte."
+description: "Wenn es um Qualitygate: keine PE-Halluzinationen in Private Equity Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Qualitygate: keine PE-Halluzinationen

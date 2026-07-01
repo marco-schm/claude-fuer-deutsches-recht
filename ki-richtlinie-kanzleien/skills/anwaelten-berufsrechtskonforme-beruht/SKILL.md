@@ -1,6 +1,6 @@
 ---
 name: anwaelten-berufsrechtskonforme-beruht
-description: "Anwaelten: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Anwaelten: Behörden-, Gerichts- oder Registerweg in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Anwaelten: Behörden-, Gerichts- oder Registerweg

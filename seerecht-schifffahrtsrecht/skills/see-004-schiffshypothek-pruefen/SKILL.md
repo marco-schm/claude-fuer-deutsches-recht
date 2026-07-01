@@ -1,6 +1,6 @@
 ---
 name: see-004-schiffshypothek-pruefen
-description: "See- und Schifffahrtsrecht: Schiffshypothek prüfen. Schiffshypothek prüfen im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Schiffshypothek Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffshypothek Pruefen

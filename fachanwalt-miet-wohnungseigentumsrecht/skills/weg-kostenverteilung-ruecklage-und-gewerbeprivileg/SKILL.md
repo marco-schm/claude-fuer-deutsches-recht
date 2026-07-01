@@ -1,6 +1,6 @@
 ---
 name: weg-kostenverteilung-ruecklage-und-gewerbeprivileg
-description: "Prüft Beschlüsse zur Kostenverteilung und Rücklagenzuführung nach § 16 Abs: 2 Satz 2 WEG unter Berücksichtigung BGH 14.02.2025 - V ZR 128/23."
+description: "Wenn es um Prüft Beschlüsse zur Kostenverteilung und Rücklagenzuführung nach Paragraf 16 Abs in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Prüft Beschlüsse zur Kostenverteilung und Rücklagenzuführung nach § 16 Abs

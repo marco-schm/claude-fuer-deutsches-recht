@@ -1,6 +1,6 @@
 ---
 name: bag-leitentscheidungen-notenstufen
-description: "Die BAG-Leitentscheidungen zur Notenstufenmatrix im Arbeitszeugnis. Kernentscheidung: BAG, Urteil v. 15.11.2011 – 9 AZR 386.10 (Formulierungsspielraum, Grenzen Zeugniswahrheit/Klarheit). BAG, Urteil v. 14.10.2003 – 9 AZR 12.03 (Note 3 als Durchschnitt). Gibt Orientierung, welche Formulierungen welche Notenstufen sicher abdecken und wo der Spielraum endet."
+description: "Wenn es um BAG-Leitentscheidungen zu Notenstufen in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BAG-Leitentscheidungen zu Notenstufen

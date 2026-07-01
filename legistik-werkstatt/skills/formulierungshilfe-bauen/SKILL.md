@@ -1,6 +1,6 @@
 ---
 name: formulierungshilfe-bauen
-description: "Formulierungshilfen, Änderungsantraege, Gesetzentwuerfe aus der Mitte des Bundestages oder Landtages, Entschliessungsantraege und parlamentarische Antraege bauen. Anwendungsfall Bundesministerium liefert fachlich zu, Koalitionsfraktion will einen laufenden Gesetzentwurf ändern, Oppositionsfrakt..."
+description: "Wenn es um Formulierungshilfe und parlamentarische Vorlage bauen in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Formulierungshilfe und parlamentarische Vorlage bauen

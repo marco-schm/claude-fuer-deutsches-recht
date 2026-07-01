@@ -1,6 +1,6 @@
 ---
 name: buergeranfrage-satellit-stoert-grundstueck-oder-empfan
-description: "Bürgeranfragen zu Satelliten – Störungsrecht, Nachbarrecht, Frequenzinterferenz, Behördenweg im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Bürgeranfrage: Satellit stört Grundstück oder Empfang in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Bürgeranfrage: Satellit stört Grundstück oder Empfang

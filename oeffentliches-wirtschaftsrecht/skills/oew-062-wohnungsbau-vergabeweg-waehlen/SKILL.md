@@ -1,6 +1,6 @@
 ---
 name: oew-062-wohnungsbau-vergabeweg-waehlen
-description: "Öffentliches Wirtschaftsrecht: Wohnungsbau: Vergabeweg wählen. Vergabeweg wählen für Wohnungsbau im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Wohnungsbau Vergabeweg Waehlen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnungsbau Vergabeweg Waehlen

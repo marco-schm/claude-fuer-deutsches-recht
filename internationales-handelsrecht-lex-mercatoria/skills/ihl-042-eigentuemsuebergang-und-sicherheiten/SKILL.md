@@ -1,6 +1,6 @@
 ---
 name: ihl-042-eigentuemsuebergang-und-sicherheiten
-description: "Internationales Handelsrecht und Lex Mercatoria: Eigentuemsuebergang Und Sicherheiten. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Eigentuemsuebergang Und Sicherheiten in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eigentuemsuebergang Und Sicherheiten

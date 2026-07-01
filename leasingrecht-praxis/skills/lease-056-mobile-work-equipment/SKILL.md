@@ -1,6 +1,6 @@
 ---
 name: lease-056-mobile-work-equipment
-description: "Prueft Leasing von mobilen Arbeitsmitteln, Werkzeugen, Baugeraeten und Messeausstattung mit Verlust, Standortwechsel und Versicherungsrisiko."
+description: "Wenn es um Mobile Arbeitsmittel Leasing in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mobile Arbeitsmittel Leasing

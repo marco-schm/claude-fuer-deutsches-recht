@@ -1,6 +1,6 @@
 ---
 name: crossborder-counsel-dashboard-matter-data
-description: "Cross-Border Counsel Sync: steuert ausländische Kanzleien, Privilege, Budget, Zeitzonen und konsolidierte Strategie verbinden zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Cross-Border Counsel Sync in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cross-Border Counsel Sync

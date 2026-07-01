@@ -1,6 +1,6 @@
 ---
 name: note-1-formeln-erkennen
-description: Erkennung und Pruefung von Note-1-Formulierungen im Arbeitszeugnis anhand von Maximalsteigerern und herausragenden Einzelaussagen, die gemeinsam eine Beurteilung auf hoechstem Niveau belegen.
+description: "Wenn es um Note-1-Formeln erkennen in Arbeitszeugnispruefer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Note-1-Formeln erkennen

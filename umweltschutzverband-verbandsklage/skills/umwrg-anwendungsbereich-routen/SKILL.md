@@ -1,6 +1,6 @@
 ---
 name: umwrg-anwendungsbereich-routen
-description: "Umweltschutzverband Verbandsklage: UmwRG-Anwendungsbereich routen. UmwRG-Anwendungsbereich routen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage."
+description: "Wenn es um Umwrg Anwendungsbereich Routen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Umwrg Anwendungsbereich Routen

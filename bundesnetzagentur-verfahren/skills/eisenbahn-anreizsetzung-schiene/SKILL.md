@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-anreizsetzung-schiene
-description: "Eisenbahn / Anreizsetzung Schiene: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren."
+description: "Wenn es um Anreizsetzungssystem im Eisenbahnverkehr (ASS) nach Paragraf 39 ERegG in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anreizsetzungssystem im Eisenbahnverkehr (ASS) nach § 39 ERegG

@@ -1,6 +1,6 @@
 ---
 name: drift-und-schaufenster-vermeiden
-description: "Erklärt das Schaufenster-Drift-Problem: Ein langer, positiver Aufgabenkatalog oder einzelne Spitzensätze stehen neben einer schwachen Gesamtnote oder einzelnen abgewerteten Bereichen. Der Generator muss Konsistenz sicherstellen. Enthält Erkennungsraster für Bereichs-Drift, Schaufenster-Pattern und interne Widersprüche sowie Regeln, wie das Zeugnis konsistent auf einer Notenstufe gehalten wird."
+description: "Wenn es um Drift und Schaufenster vermeiden in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Drift und Schaufenster vermeiden

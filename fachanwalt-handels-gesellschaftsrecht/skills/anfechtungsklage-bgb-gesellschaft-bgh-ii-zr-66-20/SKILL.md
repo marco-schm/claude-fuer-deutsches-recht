@@ -1,6 +1,6 @@
 ---
 name: anfechtungsklage-bgb-gesellschaft-bgh-ii-zr-66-20
-description: "Anfechtungsklage BGB Gesellschaft BGH Ii Zr 66 20: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Anfechtungsklage BGB Gesellschaft BGH Ii Zr 66 20 in Fachanwalt Handels- und Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anfechtungsklage BGB Gesellschaft BGH Ii Zr 66 20

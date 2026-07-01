@@ -1,6 +1,6 @@
 ---
 name: ssm-bundesbank-stablecoin-payment-staking
-description: "SSM-, EZB- und Bundesbank-Aufsichtsbriefe für Institute einordnen: Zuständigkeit, JST-Kommunikation, nationale Umsetzung, Fristen, Management Letter, Follow-up und Board-Package vorbereiten im Bank-Rechtsabteilung."
+description: "Wenn es um SSM und Bundesbank in Bank-Rechtsabteilung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SSM und Bundesbank

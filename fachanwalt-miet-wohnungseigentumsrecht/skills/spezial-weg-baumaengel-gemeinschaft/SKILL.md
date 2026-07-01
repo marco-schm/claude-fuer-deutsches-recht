@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-baumaengel-gemeinschaft
-description: "WEG Baumängel/Gemeinschaft: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Vergemeinschaftung, Ansprüche, Beweissicherung, Verjährung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um WEG Baumängel/Gemeinschaft in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Baumängel/Gemeinschaft

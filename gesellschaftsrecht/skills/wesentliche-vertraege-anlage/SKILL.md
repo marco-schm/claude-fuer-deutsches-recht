@@ -1,6 +1,6 @@
 ---
 name: wesentliche-vertraege-anlage
-description: "Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats: Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligen..."
+description: "Wenn es um Wesentliche Vertraege Anlage in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats

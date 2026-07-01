@@ -1,6 +1,6 @@
 ---
 name: stufenbaum-ascii-art
-description: "ASCII-Stufenbaum der Verhältnismäßigkeitspruefung zum Ausdrucken und Mitschreiben. Visualisiert die Vorpruefung Schutzbereich-Eingriff-Schranke, die vier Stufen Zweck/Geeignet/Erforderlich/Angemessen und die absoluten Grenzen Wuerde, Wesensgehalt, Existenzminimum."
+description: "Wenn es um Stufenbaum als ASCII-Visualisierung in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stufenbaum als ASCII-Visualisierung

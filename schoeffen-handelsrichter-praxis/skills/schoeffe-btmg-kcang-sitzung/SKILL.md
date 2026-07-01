@@ -1,6 +1,6 @@
 ---
 name: schoeffe-btmg-kcang-sitzung
-description: "BtMG und KCanG für Schöffen (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Cannabis, Betäubungsmittel, Wirkstoffmenge, Eigenverbrauch und Handel mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um BtMG und KCanG für Schöffen: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # BtMG und KCanG für Schöffen: Sitzungspraxis

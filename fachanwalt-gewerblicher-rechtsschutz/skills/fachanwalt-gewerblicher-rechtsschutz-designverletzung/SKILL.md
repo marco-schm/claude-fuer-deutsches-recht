@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-designverletzung
-description: "Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren. §§ 1 2 38 GeschmMG §§ 11 ff. GeschmMG Verletzungsansprüche EU-Geschmacksmuster-VO. Prüfraster: Schutzfähigkeit Neuheit Eigenart Verletzungshandlung Ausnahmen Ansprüche. Output: Verletzungsprüfmemo Abmahnschreiben oder Erwiderung. Abgrenzung: nicht für Marken- oder Urheberrechtsverletzungen."
+description: "Wenn es um Fachanwalt Gewerblicher Rechtsschutz Designverletzung in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 ## Mandantenfragen beim Kaltstart

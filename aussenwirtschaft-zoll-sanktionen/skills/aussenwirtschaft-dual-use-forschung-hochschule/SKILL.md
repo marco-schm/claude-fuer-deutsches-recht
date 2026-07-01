@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-dual-use-forschung-hochschule
-description: "Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Prüfung für akademischen Wissenstransfer, Publikationen, Konferenzbetraege, Forschungskooperationen und Software nach VO (EU) 2021/821 und AWG. Ausnahmen für Grundlagenforschung und oeffentlich zugaengliches Wissen. Besondere Risiken..."
+description: "Wenn es um Dual-Use in Forschung und Hochschule: Wissenstransfer und Exportkontrolle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dual-Use in Forschung und Hochschule: Wissenstransfer und Exportkontrolle

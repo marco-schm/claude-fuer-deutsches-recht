@@ -1,6 +1,6 @@
 ---
 name: paragraph-gbo-prioritaetsmitteilung
-description: "Prüft öffentliche oder öffentlich beglaubigte Urkunden, Registerauszüge, Erbnachweise, Vollmachten, Auslandsurkunden und Übersetzungen im Grundbuchamt Praxis."
+description: "Wenn es um Paragraf 29 GBO Nachweisform in Grundbuchamt Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # § 29 GBO Nachweisform

@@ -1,6 +1,6 @@
 ---
 name: inv-002-honeypot-risiko
-description: "Prueft, ob die Investigation ungewollt einen fertigen Beweisordner fuer Strafverfolger, Behoerden oder Gegner erzeugt."
+description: "Wenn es um Honeypot-Risiko Staatsanwaltschaft in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Honeypot-Risiko Staatsanwaltschaft

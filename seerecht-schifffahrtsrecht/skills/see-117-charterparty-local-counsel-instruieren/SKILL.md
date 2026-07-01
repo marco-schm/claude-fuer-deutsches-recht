@@ -1,6 +1,6 @@
 ---
 name: see-117-charterparty-local-counsel-instruieren
-description: "See- und Schifffahrtsrecht: Charterparty: Local Counsel instruieren. Local Counsel instruieren für Charterparty im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Charterparty Local Counsel Instruieren in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Charterparty Local Counsel Instruieren

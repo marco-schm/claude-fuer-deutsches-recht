@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-nordrhein-westfalen-dschg-nrw
-description: "Denkmalschutzrecht Nordrhein-Westfalen nach dem Denkmalschutzgesetz Nordrhein-Westfalen. Skill bündelt zuständige Behörden (Ministerium für Heimat, Kommunales, Bau und Digitalisierung; LVR-Amt für Denkmalpflege im Rheinland und LWL-Denkmalpflege Westfalen-Lippe; Untere Denkmalbehörden bei Städten und Kreisen) und die Eigenheiten des nach Reform 2022 in Teilen geänderten Gesetzes."
+description: "Wenn es um Denkmalschutz Nordrhein-Westfalen (DSchG-NRW) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Nordrhein-Westfalen (DSchG-NRW)

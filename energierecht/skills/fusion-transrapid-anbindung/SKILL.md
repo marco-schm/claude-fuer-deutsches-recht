@@ -1,6 +1,6 @@
 ---
 name: fusion-transrapid-anbindung
-description: "Prüft Planungsrecht, Infrastrukturzulassung, Grundstücke, Sicherheit, Betreiberrollen und Schnittstellen zum Energieprojekt im Energierecht."
+description: "Wenn es um Fusion und Transrapid-Anschluss in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fusion und Transrapid-Anschluss

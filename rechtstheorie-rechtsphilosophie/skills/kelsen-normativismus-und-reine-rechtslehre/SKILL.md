@@ -1,6 +1,6 @@
 ---
 name: kelsen-normativismus-und-reine-rechtslehre
-description: "Prüft Rechtsgeltung kelsenianisch: Norm, Rechtsquelle, Kompetenz, Stufenbau, Trennung von Geltung und politisch-moralischer Bewertung sowie Abwehr von Ausnahme- und Souveraenitaetsrhetorik."
+description: "Wenn es um Kelsen: Normativismus und reine Rechtslehre in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Kelsen: Normativismus und reine Rechtslehre

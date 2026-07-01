@@ -1,6 +1,6 @@
 ---
 name: vorbenutzungsrecht
-description: "Vorbenutzungsrecht und gutgläubige Nutzung prüfen: eigener Entwicklungsstand, Benutzungsvorbereitung, Beweisunterlagen und Reichweite im Gebrauchsmusterrecht."
+description: "Wenn es um Vorbenutzungsrecht in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Vorbenutzungsrecht

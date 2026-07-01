@@ -1,6 +1,6 @@
 ---
 name: infl-016-gewinnspiel-teilnahmebedingungen-datenschutz
-description: "Influencer-Recht: Gewinnspiel Teilnahmebedingungen Datenschutz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Gewinnspiel Teilnahmebedingungen Datenschutz in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Gewinnspiel Teilnahmebedingungen Datenschutz

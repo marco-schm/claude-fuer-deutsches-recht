@@ -1,6 +1,6 @@
 ---
 name: evidence-gap-dashboard
-description: "Evidence Gap Dashboard: steuert fehlende Beweise, Owner, Quelle, Frist und Risiko in einer Lückenmatrix steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Evidence Gap Dashboard in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Evidence Gap Dashboard

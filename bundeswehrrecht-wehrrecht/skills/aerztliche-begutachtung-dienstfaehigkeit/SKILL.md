@@ -1,6 +1,6 @@
 ---
 name: aerztliche-begutachtung-dienstfaehigkeit
-description: "Ärztliche Begutachtung und Dienstfähigkeit: prüft Begutachtungsverfahren, Tauglichkeitsstufen, Rechtsbehelfe und Versorgungsfolgen. Norm-/Quellenanker: §§ 44–45 SG, SVG, DV 46/1 im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Ärztliche Begutachtung und Dienstfähigkeit in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ärztliche Begutachtung und Dienstfähigkeit

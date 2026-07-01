@@ -1,6 +1,6 @@
 ---
 name: bka-dgcomp-ftc-doj-routing
-description: "BKartA DG Competition FTC DOJ Routing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zuständigkeit und Parallelläufe zwischen Deutschland, EU und USA trennen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prü..."
+description: "Wenn es um BKartA DG Competition FTC DOJ Routing in Kartellrecht — Marktabgrenzungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BKartA DG Competition FTC DOJ Routing

@@ -1,6 +1,6 @@
 ---
 name: bho-19-uebertragbarkeit-praktisch-anwe
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 19 Übertragbarkeit praktisch anwenden. BHO § 19 Übertragbarkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkr..."
+description: "Wenn es um Bho 19 Uebertragbarkeit Praktisch Anwe in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 19 Uebertragbarkeit Praktisch Anwe

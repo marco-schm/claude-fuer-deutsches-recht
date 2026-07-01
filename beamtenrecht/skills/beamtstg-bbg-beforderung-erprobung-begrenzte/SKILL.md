@@ -1,6 +1,6 @@
 ---
 name: beamtstg-bbg-beforderung-erprobung-begrenzte
-description: "Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderregeln; verhindert falsche Normenwahl bei Status, Pflichten, Versetzung, Entlassung und Dienstvergehen im Beamtenrecht."
+description: "Wenn es um BeamtStG, BBG und Landesrecht richtig abgrenzen in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # BeamtStG, BBG und Landesrecht richtig abgrenzen

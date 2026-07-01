@@ -1,6 +1,6 @@
 ---
 name: ueberplanmaessig-ausserplanmaessig
-description: "Haushaltsrecht BHO Bund und Länder: Überplanmäßig außerplanmäßig. Überplanmäßig außerplanmäßig im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestan..."
+description: "Wenn es um Ueberplanmaessig Ausserplanmaessig in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Ueberplanmaessig Ausserplanmaessig

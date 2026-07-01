@@ -1,6 +1,6 @@
 ---
 name: spezial-handels-tatbestand-beweis-und-belege
-description: "Handels: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt handels gesellschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Handels: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handels: Tatbestandsmerkmale, Beweisfragen und Beleglage

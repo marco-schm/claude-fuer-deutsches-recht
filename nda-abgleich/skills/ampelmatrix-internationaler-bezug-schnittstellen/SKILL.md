@@ -1,6 +1,6 @@
 ---
 name: ampelmatrix-internationaler-bezug-schnittstellen
-description: "Ampelmatrix: Internationaler Bezug und Schnittstellen im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welch..."
+description: "Wenn es um Ampelmatrix: Internationaler Bezug und Schnittstellen in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ampelmatrix Internationaler Bezug Schnittstellen; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # Ampelmatrix: Internationaler Bezug und Schnittstellen

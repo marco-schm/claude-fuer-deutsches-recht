@@ -1,6 +1,6 @@
 ---
 name: bewertungen-google-plattform-und-rufschutz
-description: "Online-Bewertungen im Franchisesystem managen: Löschungsansprüche gegen Google und Plattformen nach § 823 BGB und DSGVO, Gegendarstellungsrecht, Fake-Bewertungen als Wettbewerbsverstoss nach § 5 UWG und systemweite Reputationsstrategie im Franchiserecht."
+description: "Wenn es um Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz

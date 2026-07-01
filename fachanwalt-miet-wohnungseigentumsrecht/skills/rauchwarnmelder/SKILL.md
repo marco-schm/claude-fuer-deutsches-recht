@@ -1,6 +1,6 @@
 ---
 name: rauchwarnmelder
-description: "Rauchwarnmelder: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Einbau, Wartung, Umlage, Zutritt, WEG-Zuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Rauchwarnmelder: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rauchwarnmelder: Fachmodul im Miet- und Wohnungseigentumsrecht

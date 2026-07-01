@@ -1,6 +1,6 @@
 ---
 name: lease-028-refinanzierung-forderungsabtretung-und-servicing
-description: "Leasingrecht: Refinanzierung Forderungsabtretung und Servicing mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Refinanzierung Forderungsabtretung und Servicing in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Refinanzierung Forderungsabtretung und Servicing

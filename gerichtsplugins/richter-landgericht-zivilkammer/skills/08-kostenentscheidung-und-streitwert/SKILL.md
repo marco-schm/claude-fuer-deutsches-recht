@@ -1,6 +1,6 @@
 ---
 name: 08-kostenentscheidung-und-streitwert
-description: "Kostenentscheidung Paragrafen 91-101 ZPO, Streitwertfestsetzung Paragrafen 39-51 GKG, Streitwertbeschluss, Änderung der Kostenquote bei Teilerfolg, Mehrwert eines Vergleichs"
+description: "Wenn es um 08 Kostenentscheidung und Streitwert in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # 08 Kostenentscheidung und Streitwert

@@ -1,6 +1,6 @@
 ---
 name: lph-01-mandantenbericht
-description: "HOAI LPH 1 Grundlagenermittlung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Lph 01 Mandantenbericht in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # LPH 1 Grundlagenermittlung: Erstellt verständlichen statusbericht mit ampel und nächstem schritt

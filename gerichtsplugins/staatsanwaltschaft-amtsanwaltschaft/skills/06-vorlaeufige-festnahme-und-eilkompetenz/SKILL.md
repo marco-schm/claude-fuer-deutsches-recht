@@ -1,6 +1,6 @@
 ---
 name: 06-vorlaeufige-festnahme-und-eilkompetenz
-description: "Vorlaeufige Festnahme (Paragraf 127 StPO), staatsanwaltschaftliche Eilanordnungskompetenz bei Gefahr im Verzug, Vorfuehrung vor den Richter (Paragraf 128 StPO), Fristen des Paragraf 128 Abs. 1 StPO"
+description: "Wenn es um 06 Vorlaeufige Festnahme und Eilkompetenz in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 06 Vorlaeufige Festnahme und Eilkompetenz

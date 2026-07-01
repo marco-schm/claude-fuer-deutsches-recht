@@ -1,6 +1,6 @@
 ---
 name: fristenkontrolle-behoerden-gericht-und-registerweg
-description: "Fristenkontrolle: Behörden-, Gerichts- oder Registerweg im Rechtsberatungsstelle."
+description: "Wenn es um Fristenkontrolle: Behörden-, Gerichts- oder Registerweg in Plugin für die studentische Rechtsberatungsstelle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristenkontrolle: Behörden-, Gerichts- oder Registerweg

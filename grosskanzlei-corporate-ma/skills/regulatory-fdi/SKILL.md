@@ -1,6 +1,6 @@
 ---
 name: regulatory-fdi
-description: "Fusionskontrolle und FDI-Investitionsprüfung für M&A-Transaktionen: Anwendungsfall Signing naht und Deal-Team prüft ob Kartellrechts-Freigabe oder AWV-Prüfung benoetigt wird. Paragraf 35-44 GWB inlaendische Fusionskontrolle, Art. 4 FKVO EU-Fusionskontrolle, Paragraf 55 ff. AWV FDI-Prüfung. Prüfraster Umsatzs..."
+description: "Wenn es um Fusionskontrolle und Investitionskontrolle in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fusionskontrolle und Investitionskontrolle

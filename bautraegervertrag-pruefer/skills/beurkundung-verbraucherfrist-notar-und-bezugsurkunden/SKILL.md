@@ -1,6 +1,6 @@
 ---
 name: beurkundung-verbraucherfrist-notar-und-bezugsurkunden
-description: "Beurkundungs- und Notarprüfung beim Bauträgervertrag: § 311b BGB, § 17 BeurkG, § 13a BeurkG, Zwei-Wochen-Frist, Bezugsurkunden, Baubeschreibung, Pläne, Reservierung, Vorausleistung und notarielle Amtspflichten."
+description: "Wenn es um Beurkundung, Verbraucherfrist, Notar und Bezugsurkunden in Bauträgervertrag-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beurkundung, Verbraucherfrist, Notar und Bezugsurkunden

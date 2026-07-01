@@ -1,6 +1,6 @@
 ---
 name: kv-053-seltene-erkrankung-einzelfallentscheidung
-description: "Krankenversicherung: Seltene Erkrankung Einzelfallentscheidung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Seltene Erkrankung Einzelfallentscheidung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Seltene Erkrankung Einzelfallentscheidung

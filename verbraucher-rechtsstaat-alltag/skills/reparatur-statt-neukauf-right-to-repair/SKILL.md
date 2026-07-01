@@ -1,6 +1,6 @@
 ---
 name: reparatur-statt-neukauf-right-to-repair
-description: "Reparatur statt Neukauf und Right to Repair: führt Laien durch Reparaturanspruch, Ersatzteile, digitale Bestandteile, Nachhaltigkeit und Kostenvergleich. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Reparatur statt Neukauf und Right to Repair in Verbraucher im Rechtsstaat Alltag geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Reparatur statt Neukauf und Right to Repair

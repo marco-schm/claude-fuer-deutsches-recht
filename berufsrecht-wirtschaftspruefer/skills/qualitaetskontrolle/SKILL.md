@@ -1,6 +1,6 @@
 ---
 name: qualitaetskontrolle
-description: "Wirtschaftsprüfer: qualitaetskontrolle und inspektion - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Qualitaetskontrolle in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: qualitaetskontrolle und inspektion - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

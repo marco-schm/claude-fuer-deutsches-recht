@@ -1,6 +1,6 @@
 ---
 name: rehabilitations-und-exoskelett-robotik
-description: "Prüft Reha-Roboter und Exoskelette: Medizinprodukt, Arbeitsschutz, Körpernähe, Training, Fehlbedienung und Kostenträger-Schnittstelle."
+description: "Wenn es um Reha- und Exoskelett-Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reha- und Exoskelett-Robotik

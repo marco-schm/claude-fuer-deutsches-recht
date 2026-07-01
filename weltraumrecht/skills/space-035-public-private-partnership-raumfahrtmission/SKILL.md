@@ -1,6 +1,6 @@
 ---
 name: space-035-public-private-partnership-raumfahrtmission
-description: "Weltraumrecht: Public Private Partnership Raumfahrtmission mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Public Private Partnership Raumfahrtmission in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Public Private Partnership Raumfahrtmission

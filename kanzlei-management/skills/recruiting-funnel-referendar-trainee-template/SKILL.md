@@ -1,6 +1,6 @@
 ---
 name: recruiting-funnel-referendar-trainee-template
-description: "Steuert Recruiting-Geschwindigkeit, Interviews, Candidate Experience und Partnerdisziplin. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Recruiting Funnel in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Recruiting Funnel

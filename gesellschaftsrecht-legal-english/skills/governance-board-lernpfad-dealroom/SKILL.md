@@ -1,6 +1,6 @@
 ---
 name: governance-board-lernpfad-dealroom
-description: "Erklaert Board, Advisory Board, Management Board, Supervisory Board, Consent Matters und deutsche Organlogik für GmbH, AG und Beirat im Gesellschaftsrecht Legal English."
+description: "Wenn es um Governance, Board und Consent Matters in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Governance, Board und Consent Matters

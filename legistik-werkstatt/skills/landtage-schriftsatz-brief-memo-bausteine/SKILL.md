@@ -1,6 +1,6 @@
 ---
 name: landtage-schriftsatz-brief-memo-bausteine
-description: "Landtage: Schriftsatz-, Brief- und Memo-Bausteine im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kri..."
+description: "Wenn es um Landtage: Schriftsatz-, Brief- und Memo-Bausteine in Legistik-Werkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landtage: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: regrecht-einfuehrung-sektoren
-description: "Einfuehrung regulatorisches Recht in den wichtigsten Sektoren: Bank, Versicherung, Energie, Telekommunikation, Verkehr, Pharma, Lebensmittel. Pro Sektor: Aufsicht, Kernnormen, Lizenzpflicht, typische Compliance-Aufgaben. Entscheidungstabelle und Verweis auf passende Detail-Skills im Regulatorisch..."
+description: "Wenn es um Regrecht: Sektoren-Einfuehrung in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Regrecht: Sektoren-Einfuehrung

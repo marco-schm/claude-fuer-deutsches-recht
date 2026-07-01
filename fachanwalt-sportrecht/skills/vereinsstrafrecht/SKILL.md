@@ -1,6 +1,6 @@
 ---
 name: vereinsstrafrecht
-description: "Fachanwalt Sportrecht Vereinsstrafrecht: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Sportrecht Vereinsstrafrecht: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rec..."
+description: "Wenn es um Vereinsstrafrecht in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vereinsstrafrecht; Arbeitsfeld: Fachanwalt Sportrecht."
 ---
 
 # Fachanwalt Sportrecht Vereinsstrafrecht: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

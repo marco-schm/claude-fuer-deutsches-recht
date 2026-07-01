@@ -1,6 +1,6 @@
 ---
 name: liturgie-und-missbrauchsvermeidung
-description: "Liturgie und Missbrauchsvermeidung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Wenn es um Liturgie und Missbrauchsvermeidung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Liturgie und Missbrauchsvermeidung

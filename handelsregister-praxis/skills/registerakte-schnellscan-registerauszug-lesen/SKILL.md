@@ -1,6 +1,6 @@
 ---
 name: registerakte-schnellscan-registerauszug-lesen
-description: "Erstellt eine Vollzugskarte aus Satzung, Beschluss, Anmeldung, Liste, Notarvermerk, Gerichtsschreiben und Fristenlog im Handelsregister Praxis."
+description: "Wenn es um Registerakte in 10 Minuten sortieren in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerakte in 10 Minuten sortieren

@@ -1,6 +1,6 @@
 ---
 name: wada-zahlen-schwellen-und-berechnung
-description: "Wada: Zahlen, Schwellenwerte und Berechnung: Wada: Zahlen, Schwellenwerte und Berechnung."
+description: "Wenn es um Wada: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Sportrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Wada: Zahlen, Schwellenwerte und Berechnung

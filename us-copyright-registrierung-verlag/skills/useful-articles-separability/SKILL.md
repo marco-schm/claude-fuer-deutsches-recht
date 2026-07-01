@@ -1,6 +1,6 @@
 ---
 name: useful-articles-separability
-description: "Prüft angewandte Gestaltung, Produktdesign, Fashion, Möbel, Verpackung und separierbare expressive Elemente nach US-Recht im Us Copyright Registrierung Verlag."
+description: "Wenn es um Useful Articles und Separability in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Useful Articles und Separability

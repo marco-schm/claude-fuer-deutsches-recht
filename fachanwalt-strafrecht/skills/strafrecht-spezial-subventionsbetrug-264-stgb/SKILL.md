@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-subventionsbetrug-264-stgb
-description: "Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention: Prüfraster Subventionsbegrif..."
+description: "Wenn es um Strafrecht Spezial Subventionsbetrug 264 Stgb in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention

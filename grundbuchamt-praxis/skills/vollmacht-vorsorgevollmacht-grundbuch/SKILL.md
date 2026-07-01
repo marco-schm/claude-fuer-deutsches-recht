@@ -1,6 +1,6 @@
 ---
 name: vollmacht-vorsorgevollmacht-grundbuch
-description: "Prüft notarielle Vollmacht, Ausfertigung, Betreuungs-/Vorsorgevollmacht, Widerruf, Auslandsbezug und Missbrauchsrisiko im Grundbuchamt Praxis."
+description: "Wenn es um Vollmacht grundbuchtauglich machen in Grundbuchamt Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vollmacht grundbuchtauglich machen

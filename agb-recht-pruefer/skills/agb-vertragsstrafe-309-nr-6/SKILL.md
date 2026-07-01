@@ -1,6 +1,6 @@
 ---
 name: agb-vertragsstrafe-309-nr-6
-description: "AGB-Vertragsstrafe nach § 309 Nr. 6 BGB. Skill vertieft die AGB-rechtliche Behandlung von Vertragsstrafen im B2C und B2B. Klaert Hoechstgrenzen Abgrenzung zu pauschalierten Schadensersatz Sondervorschriften im Arbeitsvertrag (§ 310 Abs. 4 BGB) sowie Wechselwirkung mit Schadenspauschalierung. BGH-..."
+description: "Wenn es um Agb Vertragsstrafe 309 Nr 6 in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Vertragsstrafe 309 Nr 6

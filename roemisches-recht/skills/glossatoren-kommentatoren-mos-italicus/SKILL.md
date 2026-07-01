@@ -1,6 +1,6 @@
 ---
 name: glossatoren-kommentatoren-mos-italicus
-description: "Römisches Recht: Glossatoren (Bologna ab 1088, Irnerius) und Kommentatoren (Bartolus, Baldus, 14. Jh.) - Digestenrezeption, Glossenapparat (Accursius), mos italicus und Verhältnis zur Pandektistik im Römisches Recht."
+description: "Wenn es um Glossatoren und Kommentatoren in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Glossatoren und Kommentatoren

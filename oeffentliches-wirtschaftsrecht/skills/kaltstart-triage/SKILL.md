@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Öffentliches Wirtschaftsrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
+description: "Wenn es um Öffentliches Wirtschaftsrecht - Allgemeiner Einstieg in Öffentliches Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Öffentliches Wirtschaftsrecht - Allgemeiner Einstieg

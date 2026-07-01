@@ -1,6 +1,6 @@
 ---
 name: workflow-blaue-karte-start
-description: "Blaue Karte EU Start: Prüfungslinie für Migrationsrecht: prüft Gehalt, Abschluss, Beruf, Arbeitgeber, Mobilität und Familiennachzug; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nu..."
+description: "Wenn es um Blaue Karte EU Start: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Blaue Karte EU Start: Prüfungslinie für Migrationsrecht

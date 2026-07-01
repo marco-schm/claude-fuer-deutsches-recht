@@ -1,6 +1,6 @@
 ---
 name: einwohnerantrag-petition-haushalt
-description: "Kommunalrecht der Länder: Einwohnerantrag und Petition. Einwohnerantrag und Petition im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
+description: "Wenn es um Einwohnerantrag Und Petition in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Einwohnerantrag Und Petition

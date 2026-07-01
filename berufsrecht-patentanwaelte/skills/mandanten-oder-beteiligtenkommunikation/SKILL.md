@@ -1,6 +1,6 @@
 ---
 name: mandanten-oder-beteiligtenkommunikation
-description: "Beteiligtenkommunikation: vertiefter Berufsrechts-Skill für Patentanwälte; prüft übersetzt das Ergebnis in klare, taktisch sichere Kommunikation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
+description: "Wenn es um Beteiligtenkommunikation in Berufsrecht Patentanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beteiligtenkommunikation

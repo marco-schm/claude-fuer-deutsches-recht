@@ -1,6 +1,6 @@
 ---
 name: apas-verfahren
-description: "Wirtschaftsprüfer: apas verfahren antwortstrategie - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Apas Verfahren in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: apas verfahren antwortstrategie - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

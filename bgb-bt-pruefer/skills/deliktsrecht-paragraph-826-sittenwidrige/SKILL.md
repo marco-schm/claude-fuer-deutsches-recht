@@ -1,6 +1,6 @@
 ---
 name: deliktsrecht-paragraph-826-sittenwidrige
-description: "Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenwidrigkeit, Vorsatz und Vermögensschaden."
+description: "Wenn es um Deliktsrecht Paragraf 826 BGB: Sittenwidrige Schädigung in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Deliktsrecht Paragraph 826 Sittenwidrige; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Deliktsrecht § 826 BGB: Sittenwidrige Schädigung

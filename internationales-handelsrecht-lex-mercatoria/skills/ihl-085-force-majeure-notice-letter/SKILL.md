@@ -1,6 +1,6 @@
 ---
 name: ihl-085-force-majeure-notice-letter
-description: "Internationales Handelsrecht und Lex Mercatoria: Force Majeure Notice Letter. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Force Majeure Notice Letter in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Force Majeure Notice Letter

@@ -1,6 +1,6 @@
 ---
 name: oem-odm-private-label
-description: "Internationales Handelsrecht: OEM, ODM und Private Label im internationalen Handel. Markenrecht (EUIPO, WIPO), IP-Übertragung vs. Lizenz, CE-Kennzeichnung, Hersteller-Importeur-Haftung und Unterschied OEM vs. ODM vs. White-Label im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um OEM, ODM und Private Label in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # OEM, ODM und Private Label

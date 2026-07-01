@@ -1,6 +1,6 @@
 ---
 name: patr-patentfamilie-priodatum-spezial
-description: "Spezialfall Patentfamilie und Prioritaetsdatum: Pariser Verbandsuebereinkunft, PCT-Schiene, EP-Validierung, Doppelpatentierung. Prüfraster für internationale Familien im Patentrecherche."
+description: "Wenn es um PatR: Patentfamilie Prioritaet in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PatR: Patentfamilie Prioritaet

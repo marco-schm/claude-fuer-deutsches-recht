@@ -1,6 +1,6 @@
 ---
 name: weg-kurzzeitvermietung
-description: "Kurzzeitvermietung in WEG: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Zweckbestimmung, Beschluss, Störungen, kommunale Regeln; mit Normprüfung, Beweisen, Fristen, Risikoampe..."
+description: "Wenn es um Kurzzeitvermietung in WEG: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kurzzeitvermietung in WEG: Fachmodul im Miet- und Wohnungseigentumsrecht

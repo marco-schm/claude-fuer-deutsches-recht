@@ -1,6 +1,6 @@
 ---
 name: urb-mehrere-streitgegenstaende-spezial
-description: "Spezialfall mehrere Streitgegenstaende und Eventualantraege: Reihenfolge der Prüfung, Tenor, Kostenverteilung. Prüfraster für komplexe Verfahren."
+description: "Wenn es um Urb: Mehrere Streitgegenstaende in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Urb: Mehrere Streitgegenstaende

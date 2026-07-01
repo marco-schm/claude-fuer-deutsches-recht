@@ -1,6 +1,6 @@
 ---
 name: spezial-klage-formular-portal-und-einreichung
-description: "Klage: Formular, Portal und Einreichungslogik im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Klage: Formular, Portal und Einreichungslogik in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klage: Formular, Portal und Einreichungslogik

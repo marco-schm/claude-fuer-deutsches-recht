@@ -1,6 +1,6 @@
 ---
 name: verl-aussagensicherheit-pruefung
-description: "Prueft im Manuskript jede tragende Aussage darauf ob sie so im Druck stehen darf: Belegtiefe Ehrenschutz Datenschutz Berufsrecht und Aussagewahrheit."
+description: "Wenn es um Aussagensicherheits-Pruefung (\"darf das so im Druck?\") in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Aussagensicherheits-Pruefung ("darf das so im Druck?")

@@ -1,6 +1,6 @@
 ---
 name: landesaufsicht-krankenhausaufsicht
-description: "Landesaufsicht ueber Krankenhaeuser nach Landeskrankenhausgesetzen: Beanstandungen, Ersatzvornahme, Schliessungsanordnung, Klage und einstweiliger Rechtsschutz im Krankenhausrecht."
+description: "Wenn es um Landesaufsicht Krankenhausaufsicht Beanstandung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Landesaufsicht Krankenhausaufsicht Beanstandung

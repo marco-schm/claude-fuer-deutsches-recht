@@ -1,6 +1,6 @@
 ---
 name: vertrags-lieferkettenintake
-description: "Erfasst Lieferkette, RaaS-Vertrag, Wartung, Softwarelizenz, Cloud, Datenrechte, FOSS, Indemnity, Versicherung und Regressfenster."
+description: "Wenn es um Vertrags- und Lieferkettenintake in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertrags- und Lieferkettenintake

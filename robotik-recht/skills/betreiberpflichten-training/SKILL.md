@@ -1,6 +1,6 @@
 ---
 name: betreiberpflichten-training
-description: "Prüft Betreiberpflichten: Arbeitsschutz, BetrSichV-Schnittstelle, Einweisung, Wartung, Betriebsanweisung, Nutzerlogs und Verantwortlichkeiten vor Ort."
+description: "Wenn es um Betreiberpflichten und Training in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Betreiberpflichten Training; Arbeitsfeld: robotik-recht."
 ---
 
 # Betreiberpflichten und Training

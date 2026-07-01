@@ -1,6 +1,6 @@
 ---
 name: spezial-antragspflicht-schriftsatz-brief-und-memo-bausteine
-description: "Antragspflicht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Antragspflicht: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Antragspflicht: Schriftsatz-, Brief- und Memo-Bausteine

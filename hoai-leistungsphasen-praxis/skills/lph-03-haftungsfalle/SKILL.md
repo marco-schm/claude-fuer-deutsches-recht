@@ -1,6 +1,6 @@
 ---
 name: lph-03-haftungsfalle
-description: "HOAI LPH 3 Entwurfsplanung: identifiziert typische Haftungsrisiken und Beweisvorsorge; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 3 Entwurfsplanung: Identifiziert typische haftungsrisiken und beweisvorsorge in HOAI Leistungsphasen Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # LPH 3 Entwurfsplanung: Identifiziert typische haftungsrisiken und beweisvorsorge

@@ -1,6 +1,6 @@
 ---
 name: eu-de-umsetzung-und-rechtsstand-livecheck
-description: "Prüft aktuellen Rechtsstand, Übergangsrecht, nationale Durchführungsgesetze, delegierte Rechtsakte und Leitlinien vor jeder Ausgabe."
+description: "Wenn es um EU-DE Rechtsstand Livecheck in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-DE Rechtsstand Livecheck

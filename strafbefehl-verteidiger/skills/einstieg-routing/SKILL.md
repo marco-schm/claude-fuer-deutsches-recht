@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Strafbefehl-Verteidigung: ordnet Rolle (Beschuldigter, Staatsanwaltschaft, Amtsrichter), markiert Frist (§ 410 StPO Einspruch 2 Wochen), wählt Norm (§§ 407 ff. StPO, § 410 StPO Einspruch 2 Wochen) und Zuständigkeit (Amtsgericht), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Strafbefehl-Verteidiger geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

@@ -1,6 +1,6 @@
 ---
 name: jurisdiktion-laos-competition-authority
-description: "Jurisdiktionsskill Laos: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestands..."
+description: "Wenn es um Jurisdiktion Laos: Competition Authority Check in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jurisdiktion Laos: Competition Authority Check

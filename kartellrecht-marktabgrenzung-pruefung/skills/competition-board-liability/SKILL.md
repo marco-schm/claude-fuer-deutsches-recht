@@ -1,6 +1,6 @@
 ---
 name: competition-board-liability
-description: "Organhaftung und Kartellrecht: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Vorstand/Geschäftsführung, Compliance-Pflicht, Bußgeldregress und D&O prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft k..."
+description: "Wenn es um Organhaftung und Kartellrecht in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Organhaftung und Kartellrecht

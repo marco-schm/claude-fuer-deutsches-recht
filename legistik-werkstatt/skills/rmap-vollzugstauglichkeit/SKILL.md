@@ -1,6 +1,6 @@
 ---
 name: rmap-vollzugstauglichkeit
-description: "Bruecke von der Rulemap in den Verwaltungsvollzug: Antragsverfahren; Bescheidstruktur; Akteneinsicht; Widerspruch und Klage; Schnittstelle zu Fachverfahren (z.B. Genehmigungsverfahren mit mehreren Fachbehoerden). Output Vollzugskarte mit Akteuren; Schnittstellen; IT-Anforderungen. Anschluss legw-..."
+description: "Wenn es um Vollzugstauglichkeit der Rulemap im Verwaltungsverfahren in Legistik-Werkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vollzugstauglichkeit der Rulemap im Verwaltungsverfahren

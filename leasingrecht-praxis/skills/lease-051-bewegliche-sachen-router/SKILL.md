@@ -1,6 +1,6 @@
 ---
 name: lease-051-bewegliche-sachen-router
-description: "Vertieft Leasing beweglicher Gegenstaende: Maschinen, Fahrzeuge, IT-Hardware, Medizintechnik, Serienobjekte, Rueckgabe, Restwert und Sicherheiten."
+description: "Wenn es um Leasing beweglicher Sachen Router in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Leasing beweglicher Sachen Router

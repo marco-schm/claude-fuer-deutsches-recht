@@ -1,6 +1,6 @@
 ---
 name: verfahren-compliance-monitoring-nach-entscheidung
-description: "Verfahren / Compliance-Monitoring nach Entscheidung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis im BNetzA-Verfahren."
+description: "Wenn es um Verfahren: Compliance-Monitoring nach Entscheidung in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verfahren: Compliance-Monitoring nach Entscheidung

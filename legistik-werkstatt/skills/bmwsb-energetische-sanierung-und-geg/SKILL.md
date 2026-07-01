@@ -1,6 +1,6 @@
 ---
 name: bmwsb-energetische-sanierung-und-geg
-description: "Sachbereich Energetische Sanierung (GEG) im Geschäftsbereich BMWSB: Normbestand (GEG; EnEV (alt); BAFA-Foerderrichtlinien; KfW-Foerderbedingungen.); Akteure (BAFA; KfW; BMWSB; Bezirksregierungen; Schornsteinfeger.); EU-Bezug (EPBD; EU-Energieeffizienz-RL.); typische Legistik-Aufgaben und Prüfpu..."
+description: "Wenn es um Energetische Sanierung (GEG) (BMWSB) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Energetische Sanierung (GEG) (BMWSB)

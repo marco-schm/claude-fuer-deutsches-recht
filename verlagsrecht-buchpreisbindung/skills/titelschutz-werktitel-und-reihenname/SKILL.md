@@ -1,6 +1,6 @@
 ---
 name: titelschutz-werktitel-und-reihenname
-description: "Verlagsrecht: Titelschutz für Werktitel, Reihennamen und Zeitschriftentitel — UrhG § 5, MarkenG § 5, UWG-Titelschutz, Kollisionsrisiken und Durchsetzung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-015 · Titelschutz: Werktitel und Reihenname in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-015 · Titelschutz: Werktitel und Reihenname

@@ -1,6 +1,6 @@
 ---
 name: 081-buergergeld-krankenversicherung-dashbo
-description: "Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Dashboard bauen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Buergergeld Krankenversicherung Dashbo in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergergeld Krankenversicherung Dashbo

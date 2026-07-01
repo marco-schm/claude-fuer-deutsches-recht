@@ -1,6 +1,6 @@
 ---
 name: preisempfehlung-preisbindung
-description: "Preisempfehlungen und Preisbindungen im Franchisesystem kartellrechtlich einordnen: unverbindliche Preisempfehlung vs. verbotene Preisbindung zweiter Hand nach Art. 4 lit. a Vertikal-GVO und § 21 GWB. Druckmittel und Anreize als verdeckte Preisbindung erkennen im Franchiserecht."
+description: "Wenn es um Franchiserecht: Preisempfehlung, Preisbindung und Wettbewerbsrecht in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Preisempfehlung, Preisbindung und Wettbewerbsrecht

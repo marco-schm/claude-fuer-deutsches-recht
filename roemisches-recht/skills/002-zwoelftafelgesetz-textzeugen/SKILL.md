@@ -1,6 +1,6 @@
 ---
 name: 002-zwoelftafelgesetz-textzeugen
-description: "Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht im Römisches Recht: Bearbeite Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt,..."
+description: "Wenn es um Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht

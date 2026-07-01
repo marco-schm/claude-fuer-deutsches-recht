@@ -1,6 +1,6 @@
 ---
 name: gerichtlicher-schriftsatz
-description: "Baut Anspruchsbegründung, Klage, Schutzschrift, Erwiderung oder Antrag auf eV mit Beweisangeboten im Urheberrecht De Eu."
+description: "Wenn es um Schriftsatz und Antrag im Urheberrecht in Urheberrecht DE EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schriftsatz und Antrag im Urheberrecht

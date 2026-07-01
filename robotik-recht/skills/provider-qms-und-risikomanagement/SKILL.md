@@ -1,6 +1,6 @@
 ---
 name: provider-qms-und-risikomanagement
-description: "Prüft Anbieterpflichten für Hochrisiko-KI: QMS, Risikomanagement, Daten, Dokumentation, Logging, Transparenz und Human Oversight."
+description: "Wenn es um Provider-QMS und Risikomanagement in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Provider-QMS und Risikomanagement

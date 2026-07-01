@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für DSA/DMA Digitalregulierung: stimmt Adressat (Plattform/VLOP, Nutzer, DSC), Frist (DSA Risikoberichte jährlich) und Form auf den Zweck ab — typische Outputs: DSA-Compliance-Memo, Risk Assessment, T&C-Update."
+description: "Wenn es um Output wählen in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

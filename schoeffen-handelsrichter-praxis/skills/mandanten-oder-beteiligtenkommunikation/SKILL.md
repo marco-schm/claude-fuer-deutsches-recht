@@ -1,6 +1,6 @@
 ---
 name: mandanten-oder-beteiligtenkommunikation
-description: "Beteiligtenkommunikation: erklärt übersetzt das Ergebnis in klare, taktisch sichere Kommunikation für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Beteiligtenkommunikation in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beteiligtenkommunikation

@@ -1,6 +1,6 @@
 ---
 name: absolute-grenze-existenzminimum
-description: "Grundrecht auf Gewaehrleistung eines menschenwuerdigen Existenzminimums aus Art 1 I iVm Art 20 I GG als absolute Grenze der Verhältnismäßigkeit von Sozialleistungskuerzungen, Asylbewerberleistungen und Sanktionsregelungen. Mit BVerfG-Linie Hartz IV, AsylbLG, Hartz-IV-Sanktionen."
+description: "Wenn es um Absolute Grenze: Menschenwuerdiges Existenzminimum in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Absolute Grenze: Menschenwuerdiges Existenzminimum

@@ -1,6 +1,6 @@
 ---
 name: berufsgesellschaft-compliance-praevention
-description: "Berufsgesellschaft Compliance (Präventions- und Organisationspaket): steuert Berufsausübungsgesellschaft, Compliance-System, Organpflichten, Zulassung und Aufsicht mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren F..."
+description: "Wenn es um Berufsgesellschaft Compliance: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Berufsgesellschaft Compliance: Präventions- und Organisationspaket

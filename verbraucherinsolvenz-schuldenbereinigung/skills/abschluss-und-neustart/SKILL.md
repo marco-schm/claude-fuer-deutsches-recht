@@ -1,6 +1,6 @@
 ---
 name: abschluss-und-neustart
-description: "Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge: Normanker: InsO §§ 300 und 301; DSGVO; Verbraucherrec..."
+description: "Wenn es um Abschluss Und Neustart in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.

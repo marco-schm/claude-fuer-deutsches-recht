@@ -1,6 +1,6 @@
 ---
 name: output-pruefdokument-ki-vo-mit-warnhinweisen
-description: "Erzeugt das abschliessende KI-VO-Prüfdokument mit Warnhinweisen, Tatsachenbasis und dokumentierbarer Begruendung. Deckt Art. 3 KI-System-Vermerk, Zweckbestimmung, GPAI/Chatbot-Abgrenzung, Art. 6 Abs. 2/Anhang III, Art. 6 Abs. 3-Rueckausnahme, Betreiber-Off-label-Nutzung, Pflichten, offene Punkte..."
+description: "Wenn es um Output: Prüfdokument europäischer Technikregulierungsrahmen mit Warnhinweisen in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Output: Prüfdokument KI-VO mit Warnhinweisen

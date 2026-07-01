@@ -1,6 +1,6 @@
 ---
 name: lieferkette-supplier-logdaten-beschaeftigte
-description: "Prüft Lieferanten- und Dienstleister-Security von Einkauf bis Audit im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Lieferkette Supplier Security in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lieferkette Supplier Security

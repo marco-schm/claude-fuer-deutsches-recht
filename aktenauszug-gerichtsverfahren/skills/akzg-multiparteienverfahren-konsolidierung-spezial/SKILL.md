@@ -1,6 +1,6 @@
 ---
 name: akzg-multiparteienverfahren-konsolidierung-spezial
-description: "Spezialfall Multiparteienverfahren Konsolidierung mehrerer Akten und Streithelfer: Reihenfolge, Querverweise, Streitverkuendung. Prüfraster für Hauptaktenfuehrer im Aktenauszug Gerichtsverfahren."
+description: "Wenn es um AkzG: Multipartei Konsolidierung in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # AkzG: Multipartei Konsolidierung

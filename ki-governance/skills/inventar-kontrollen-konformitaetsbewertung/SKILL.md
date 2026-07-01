@@ -1,6 +1,6 @@
 ---
 name: inventar-kontrollen-konformitaetsbewertung
-description: "KI-Inventar, Governance und Kontrollen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Ki Governance."
+description: "Wenn es um digitale Werkzeuge-Inventar, Governance und Kontrollen in Technik-Governance geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # KI-Inventar, Governance und Kontrollen

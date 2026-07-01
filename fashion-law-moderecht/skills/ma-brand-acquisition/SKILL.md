@@ -1,6 +1,6 @@
 ---
 name: ma-brand-acquisition
-description: "M&A und Brand Acquisition im Fashion-Bereich prüfen: Marken, Designs, Lieferanten, Influencer-Verträge, Nachhaltigkeitsclaims, Retouren, Lager und IP-Streit im Fashion Law Moderecht."
+description: "Wenn es um Ma Brand Acquisition in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Ma Brand Acquisition

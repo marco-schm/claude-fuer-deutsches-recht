@@ -1,6 +1,6 @@
 ---
 name: beitragsbemessung-kapitalauszahlung-betriebsrente
-description: "GKV-Beitragspflicht für Betriebsrenten und Kapitalzahlungen aus betrieblicher Altersversorgung: § 229 SGB V, BSG-Rechtsprechung und Doppelverbeitragung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Beitragsbemessung: Kapitalauszahlung und Betriebsrente in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beitragsbemessung: Kapitalauszahlung und Betriebsrente

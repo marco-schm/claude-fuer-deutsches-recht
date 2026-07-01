@@ -1,6 +1,6 @@
 ---
 name: ueberforderung-verhinderung-und-abgabe
-description: "Überforderungsschutz für ehrenamtliche Betreuer: erkennt Haftungs-, Zeit-, Familien- und Gesundheitsgrenzen, plant Verhinderungsbetreuung, bittet um Entlastung, Aufgabenbegrenzung, Mitbetreuer oder Betreuerwechsel und formuliert sachliche Schreiben an Gericht und Betreuungsverein."
+description: "Wenn es um Überforderung, Verhinderung und Abgabe in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Überforderung, Verhinderung und Abgabe

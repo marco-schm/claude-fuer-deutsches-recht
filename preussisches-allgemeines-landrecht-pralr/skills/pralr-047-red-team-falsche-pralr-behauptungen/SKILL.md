@@ -1,6 +1,6 @@
 ---
 name: pralr-047-red-team-falsche-pralr-behauptungen
-description: "PrALR: Falsche Behauptungen über Geltung, Modernität, Liberalität oder Norminhalt des PrALR entlarven."
+description: "Wenn es um Red-Team in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 047 Red Team Falsche Pralr Behauptungen; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Red-Team

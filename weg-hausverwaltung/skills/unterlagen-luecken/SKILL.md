@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für WEG/Hausverwaltung: trennt fehlende Tatsachen von fehlenden Belegen (TE/GO, Versammlungsprotokoll, Wirtschaftsplan), nennt pro Lücke Beweisthema, Beschaffungsweg (Amtsgericht Belegenheit), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

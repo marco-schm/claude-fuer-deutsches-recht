@@ -1,6 +1,6 @@
 ---
 name: unionsrechtskonforme-beweislast
-description: "Dieses Skill untersucht, wie EU-Richtlinien und EuGH-Rechtsprechung die nationalen Regeln zur Beweislast und Darlegungslast im bürgerlichen Recht verändern. Es zeigt, wann das Unionsrecht eine günstigere Beweislastverteilung für Verbraucher oder Arbeitnehmer gebietet, wie nationale Gerichte union..."
+description: "Wenn es um Unionsrechtskonforme Beweislast und Darlegungslast in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unionsrechtskonforme Beweislast und Darlegungslast

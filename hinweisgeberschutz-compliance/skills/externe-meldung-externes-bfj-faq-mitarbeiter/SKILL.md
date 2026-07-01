@@ -1,6 +1,6 @@
 ---
 name: externe-meldung-externes-bfj-faq-mitarbeiter
-description: "Prüft externe Meldung beim Bundesamt für Justiz und andere Stellen im Hinweisgeberschutz Compliance."
+description: "Wenn es um Externe Meldung BfJ in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Externe Meldung BfJ

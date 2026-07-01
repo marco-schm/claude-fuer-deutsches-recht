@@ -1,6 +1,6 @@
 ---
 name: management-presentation-und-q-and-a
-description: "Bereitet Management-Termine, Fragenkatalog, Antwortbewertung und Follow-up-Requests vor im Private Equity Praxis."
+description: "Wenn es um Management Presentation und Q&A in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Management Presentation und Q&A

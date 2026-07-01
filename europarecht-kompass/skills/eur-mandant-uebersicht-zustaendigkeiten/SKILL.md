@@ -1,6 +1,6 @@
 ---
 name: eur-mandant-uebersicht-zustaendigkeiten
-description: "Mandantenuebersicht EU-Zuständigkeiten: Kommission, Rat, Parlament, EuGH, EUG, EuRH, EZB. Pro Organ Aufgabe, Verfahrensbeteiligung, Klagewege. Routing-Tabelle für typische Mandantenanliegen im Europarecht Kompass."
+description: "Wenn es um EU: Zuständigkeiten in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU: Zuständigkeiten

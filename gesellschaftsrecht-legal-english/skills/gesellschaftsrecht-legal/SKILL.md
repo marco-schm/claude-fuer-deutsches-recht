@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-legal
-description: "Gesellschaftsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaft..."
+description: "Wenn es um Gesellschaftsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Gesellschaftsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

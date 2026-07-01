@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-betrug-263-stgb-besonders-schwer
-description: "Besonders schwerer Fall des Betruges § 263 Abs. 3 StGB Regelbeispiele: Anwendungsfall Verteidigung wenn Anklage einen erhoehten Strafrahmen ueber Regelbeispiele auslost. Gewerbsmaessig § 263 Abs. 3 Nr. 1, Vermoegensverlust grosser Ausmasses oder grosse Zahl von Personen Nr. 2, wirtschaftliche Not Nr. 3, Amtstraegermissbrauch Nr. 4, Versicherungsmissbrauch Nr. 5. Pruefraster Regelbeispiel-Indikation, Widerlegungstaktik und Strafzumessung bei sechs Monaten bis zehn Jahren. Trade-offs zwischen Bestreiten des Regelbeispiels und Gestaendnis. Output Verteidigungsstrategie mit Antraegen."
+description: "Wenn es um Besonders schwerer Fall des Betruges Paragraf 263 Abs. 3 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besonders schwerer Fall des Betruges § 263 Abs. 3 StGB

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fortbestehensprognose StaRUG/InsO: ordnet Rolle (Geschäftsführung, Wirtschaftsprüfer, Insolvenzverwalter), markiert Frist (Antragsfrist 3 Wochen § 15a InsO), wählt Norm (§ 18 InsO drohende Zahlungsunfähigkeit, StaRUG §§ 1/14/49, IDW S 11) und Zuständigkeit (Insolv..."
+description: "Wenn es um Einstieg und Routing in Fortbestehensprognose geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

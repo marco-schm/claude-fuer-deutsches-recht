@@ -1,6 +1,6 @@
 ---
 name: fwdl-probezeit-und-kdv
-description: "Unterscheidet KDV von einfacher Beendigung des freiwilligen Wehrdienstes im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um FWDL Probezeit und KDV in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # FWDL Probezeit und KDV

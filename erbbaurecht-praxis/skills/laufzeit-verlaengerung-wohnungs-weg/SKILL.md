@@ -1,6 +1,6 @@
 ---
 name: laufzeit-verlaengerung-wohnungs-weg
-description: "Prüft Verlängerung, Neubestellung, Rang, Zustimmung der Gläubiger und kommunale Beschlusslage im Erbbaurecht Praxis."
+description: "Wenn es um Laufzeit und Verlängerung in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laufzeit und Verlängerung

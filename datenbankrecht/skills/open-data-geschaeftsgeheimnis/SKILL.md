@@ -1,6 +1,6 @@
 ---
 name: open-data-geschaeftsgeheimnis
-description: "Rechtliche Bewertung von Open-Data-Portalen: Prüft Nutzungsbedingungen nach Open-Data-Richtlinie 2019/1024 (PSI-RL) und deren Umsetzung im IWG, Datenbankherstellerrecht öffentlicher Stellen (§ 87a UrhG), CC-Lizenz-Compliance und Weiterverwendungsrechte. Analysiert Konflikte zwischen Open-Data-Pri..."
+description: "Wenn es um Open-Data-Portal und Nutzungsbedingungen — Datenbankrecht öffentlicher Stellen in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Open-Data-Portal und Nutzungsbedingungen — Datenbankrecht öffentlicher Stellen

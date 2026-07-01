@@ -1,6 +1,6 @@
 ---
 name: speditionsversicherung-paragraf-460-hgb
-description: "Speditionsversicherung § 460 HGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Speditionsversicherung Paragraf 460 HGB in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Speditionsversicherung § 460 HGB

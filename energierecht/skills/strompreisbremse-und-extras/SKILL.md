@@ -1,6 +1,6 @@
 ---
 name: strompreisbremse-und-extras
-description: "Strompreisbremse, Energiepreisbremsengesetze (StromPBG, EWPBG) historisch und Folgen: Abschoepfung, Soforthilfe, Beihilferecht. Aktuelle Lage 2025/2026 nach Auslaufen, offene Glaubensfragen Wirtschaftsministerien, Bundesverfassungsgerichts-Urteil 2 BvF 1 23 im Energierecht."
+description: "Wenn es um Strompreisbremse und Folgen in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strompreisbremse und Folgen

@@ -1,6 +1,6 @@
 ---
 name: grundrechte-pruefung-de-und-grch
-description: "Prüft Grundrechte nach GG (Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung) und GRCh (Art. 51/52 GRCh). Unterscheidet Abwehr-, Leistungs- und Schutzpflichtdimension. Verhältnismäßigkeitsprüfung mit Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit im Subsumtions Prüfer."
+description: "Wenn es um Grundrechte prüfen — GG und GRCh in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundrechte prüfen — GG und GRCh

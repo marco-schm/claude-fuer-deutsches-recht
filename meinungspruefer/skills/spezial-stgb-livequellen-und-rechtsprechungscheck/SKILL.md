@@ -1,6 +1,6 @@
 ---
 name: spezial-stgb-livequellen-und-rechtsprechungscheck
-description: "Stgb: Livequellen- und Rechtsprechungscheck im Plugin meinungspruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Stgb: Livequellen- und Rechtsprechungscheck in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stgb: Livequellen- und Rechtsprechungscheck

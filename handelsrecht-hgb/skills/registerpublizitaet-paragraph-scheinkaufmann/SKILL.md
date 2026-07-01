@@ -1,6 +1,6 @@
 ---
 name: registerpublizitaet-paragraph-scheinkaufmann
-description: "Prüft negative und positive Publizität des Handelsregisters im Handelsrecht Hgb."
+description: "Wenn es um Registerpublizität Paragraf 15 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerpublizität § 15 HGB

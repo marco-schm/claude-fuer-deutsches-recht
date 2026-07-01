@@ -1,6 +1,6 @@
 ---
 name: conflict-after-mandate
-description: "Konflikt nach Mandat: steuert spätere Gegnermandate, Wissensschutz, Sozietätswechsel und Ethical Walls zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Konflikt nach Mandat in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konflikt nach Mandat

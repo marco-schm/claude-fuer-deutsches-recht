@@ -1,6 +1,6 @@
 ---
 name: gmbh-beirat-vetorechte-und-organnaehe
-description: "Entwirft und prüft mächtige GmbH-Beiräte mit Zustimmungskatalogen, Informationsrechten, Investorenschutz, Organnähe, Interessenkonflikten und Haftungsbegrenzung: Entwirft und prüft mächtige GmbH-Beiräte mit Zustimmungskatalogen, Informationsrechten, Invest..."
+description: "Wenn es um GmbH Beirat Vetorechte Und Organnaehe in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Entwirft und prüft mächtige GmbH-Beiräte mit Zustimmungskatalogen, Informationsrechten, Investorenschutz, Organnähe, Interessenkonflikten und Haftungsbegrenzung.

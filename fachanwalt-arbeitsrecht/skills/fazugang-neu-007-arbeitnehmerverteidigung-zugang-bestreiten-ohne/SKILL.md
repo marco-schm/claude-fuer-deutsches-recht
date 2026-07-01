@@ -1,6 +1,6 @@
 ---
 name: fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne
-description: "Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, Paragraf 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung Paragraf 5 KSchG: Arbeitnehmerverteidigung: Zugang bestreiten oh..."
+description: "Wenn es um Fazugang Neu 007 Arbeitnehmerverteidigung Zugang Bestreiten Ohne in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, Paragraf 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung Paragraf 5 KSchG.

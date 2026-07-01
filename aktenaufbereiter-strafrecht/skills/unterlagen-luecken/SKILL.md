@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Strafrechtliche Aktenaufbereitung: trennt fehlende Tatsachen von fehlenden Belegen (Ermittlungsakte, Anklageschrift, Hauptverhandlungsprotokoll), nennt pro Lücke Beweisthema, Beschaffungsweg (Staatsanwaltschaft), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

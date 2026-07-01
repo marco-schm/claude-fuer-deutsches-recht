@@ -1,6 +1,6 @@
 ---
 name: luft-005-luftfahrzeugpfandrecht
-description: "Luftrecht und Flughafenrecht: Luftfahrzeugpfandrecht. Luftfahrzeugpfandrecht im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Luftfahrzeugpfandrecht in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Luftfahrzeugpfandrecht

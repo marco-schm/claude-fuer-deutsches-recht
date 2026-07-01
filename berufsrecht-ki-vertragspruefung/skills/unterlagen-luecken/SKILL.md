@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Berufsrechts-KI bei Vertragsprüfung: trennt fehlende Tatsachen von fehlenden Belegen (AVV-Vertrag, Mandatsvertrag, Datenschutzfolgeabschätzung), nennt pro Lücke Beweisthema, Beschaffungsweg (RAK), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in anwaltlichem Berufsrecht und Vertragsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

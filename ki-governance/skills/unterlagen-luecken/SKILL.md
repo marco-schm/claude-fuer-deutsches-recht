@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für KI-Governance: trennt fehlende Tatsachen von fehlenden Belegen (Risikobewertung, Konformitätserklärung, Technische Dokumentation), nennt pro Lücke Beweisthema, Beschaffungsweg (KI-Aufsichtsbehörde national), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Technik-Governance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

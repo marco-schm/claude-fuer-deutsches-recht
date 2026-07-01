@@ -1,6 +1,6 @@
 ---
 name: interessen-verifikation-beweislast-vorschau
-description: "Interessen Verifikation Beweislast Vorschau im Plugin Liquiditaetsplanung: prüft konkret Schnittstellen, Verifikation, Vorschau."
+description: "Wenn es um Interessen Verifikation Beweislast Vorschau in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Interessen Verifikation Beweislast Vorschau

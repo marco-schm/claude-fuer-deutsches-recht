@@ -1,6 +1,6 @@
 ---
 name: kostenrisiko-und-gebuehrenankuendigung
-description: "Informationsfreiheit und Presseauskunft: Kostenrisiko und Gebührenankündigung prüfen. Kostenrisiko und Gebührenankündigung prüfen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presse..."
+description: "Wenn es um Kostenrisiko Und Gebührenankuendigung in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Kostenrisiko Und Gebührenankuendigung

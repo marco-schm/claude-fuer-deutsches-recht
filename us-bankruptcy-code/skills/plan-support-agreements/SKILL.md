@@ -1,6 +1,6 @@
 ---
 name: plan-support-agreements
-description: "Prüft RSA/PSA, lock-up, milestones, fiduciary out, disclosure, solicitation and creditor group dynamics im US Bankruptcy Code."
+description: "Wenn es um Plan Support Agreements in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Plan Support Agreements

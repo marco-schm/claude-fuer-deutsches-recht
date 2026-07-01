@@ -1,6 +1,6 @@
 ---
 name: see-092-kreuzfahrtschiff-hypothek-bestellen
-description: "See- und Schifffahrtsrecht: Kreuzfahrtschiff: Hypothek bestellen. Hypothek bestellen für Kreuzfahrtschiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kreuzfahrtschiff Hypothek Bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreuzfahrtschiff Hypothek Bestellen

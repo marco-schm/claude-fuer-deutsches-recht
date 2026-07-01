@@ -1,6 +1,6 @@
 ---
 name: market-surveillance-eu-import
-description: "EU-Marktüberwachung bei China-Importen: EU-VO 2019/1020 Pflichten der Wirtschaftsakteure, RAPEX-Meldepflichten, ICSMS-Datenbank, Behördliche Maßnahmen (Rückruf, Verkaufsverbot), Produktregulierungen nach Sektoren (LVD, RED, Toys Directive), nationale Zuständigkeiten (BAuA, BNetzA). Output: Marktü..."
+description: "Wenn es um EU-Marktüberwachung China-Import: Pflichten und Behörden in China-Wirtschaftsverkehr geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-Marktüberwachung China-Import: Pflichten und Behörden

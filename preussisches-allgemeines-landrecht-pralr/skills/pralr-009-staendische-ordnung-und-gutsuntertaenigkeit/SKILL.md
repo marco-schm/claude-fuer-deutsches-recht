@@ -1,6 +1,6 @@
 ---
 name: pralr-009-staendische-ordnung-und-gutsuntertaenigkeit
-description: "PrALR: ständische Ordnung, Adel, Bauern, Gutsuntertänigkeit, Zunft- und Statuslogik quellenkritisch prüfen."
+description: "Wenn es um Ständische Ordnung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 009 Staendische Ordnung Und Gutsuntertaenigkeit; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Ständische Ordnung

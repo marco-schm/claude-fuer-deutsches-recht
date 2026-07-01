@@ -1,6 +1,6 @@
 ---
 name: db-ablehnungsgruende-pruefen
-description: "Katalog typischer Ablehnungsgruende des DB-Servicecenters Fahrgastrechte mit Gegenargumenten und Pinpoint auf Art. 18 und 19 und 20 VO (EU) 2021/782 sowie EVO und DB-Befoerderungsbedingungen. Behandelt andere Verbindung als gebucht; Verspaetung unter 60 Minuten; hoehere Gewalt; Antrag verspaetet;..."
+description: "Wenn es um Katalog der DB-Ablehnungsgründe und Gegenargumente in Fahrgastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Katalog der DB-Ablehnungsgründe und Gegenargumente

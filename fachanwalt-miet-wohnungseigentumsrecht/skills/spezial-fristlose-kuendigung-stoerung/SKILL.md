@@ -1,6 +1,6 @@
 ---
 name: spezial-fristlose-kuendigung-stoerung
-description: "Fristlose Kündigung wegen Störung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; ordnet Abmahnung, Pflichtverletzung, Wiederholung, Beweise und Interessenabwägung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Fristlose Kündigung wegen Störung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristlose Kündigung wegen Störung

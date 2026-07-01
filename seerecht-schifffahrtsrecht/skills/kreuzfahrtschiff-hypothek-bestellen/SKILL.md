@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-hypothek-bestellen
-description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Kläger bestellt Schiffshypothek als Sicherheit für Finanzierung eines Kreuzfahrtschiff oder grosses Fahrgastschiff. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Notarielle Bestellung..."
+description: "Wenn es um Kreuzfahrtschiff – Schiffshypothek bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreuzfahrtschiff – Schiffshypothek bestellen

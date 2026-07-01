@@ -1,6 +1,6 @@
 ---
 name: inso-p003c-zustandigkeit-fur-gruppen-folgeverfahren
-description: "§ 3c InsO (Zuständigkeit für Gruppen-Folgeverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 3c InsO (Zuständigkeit für Gruppen-Folgeverfahren) im Mandat prüfen: Normzweck, Tatbest..."
+description: "Wenn es um Inso P003c Zustandigkeit Fur Gruppen Folgeverfahren in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 3c InsO (Zuständigkeit für Gruppen-Folgeverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

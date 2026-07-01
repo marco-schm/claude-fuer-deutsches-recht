@@ -1,6 +1,6 @@
 ---
 name: stadtrat-zustaendigkeit-pruefen
-description: "der Länder: Stadtrat: Zuständigkeit prüfen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Stadtrat Zuständigkeit Prüfen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stadtrat Zuständigkeit Prüfen

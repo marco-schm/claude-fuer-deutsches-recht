@@ -1,6 +1,6 @@
 ---
 name: meldung-lfdi-mv
-description: "Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für Datenschutz und Informationsfreiheit Mecklenburg-Vorpommern (LfDI MV) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Mecklenburg-Vorpommern und für nicht-öffentliche Stellen; Online-Formular und Pos..."
+description: "Wenn es um Meldung Art. 33 DSGVO an die LfDI MV in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meldung Art. 33 DSGVO an die LfDI MV

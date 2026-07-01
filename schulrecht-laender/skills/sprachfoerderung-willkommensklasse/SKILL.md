@@ -1,6 +1,6 @@
 ---
 name: sprachfoerderung-willkommensklasse
-description: "Prüft Sprachförderung, Zuordnung, Wechsel und Teilhaberechte neu zugewanderter Kinder im Schulrecht Länder."
+description: "Wenn es um Sprachförderung und Willkommensklasse in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sprachförderung und Willkommensklasse

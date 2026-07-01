@@ -1,6 +1,6 @@
 ---
 name: bmwsb-mietrecht-und-wohnungspolitik
-description: "Sachbereich Mietrecht und Wohnungspolitik im Geschäftsbereich BMWSB: Normbestand (BGB Mietrecht; WoBindG; WoFG; MietPrG; MiSchG; Wohngeldgesetz.); Akteure (BMWSB; Justiz; Kommunen; Mieterbund; Wohnungswirtschaft.); EU-Bezug (EnergieefffizienzRL (EPBD) Schnittstelle.); typische Legistik-Aufgaben..."
+description: "Wenn es um Mietrecht und Wohnungspolitik (BMWSB) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mietrecht und Wohnungspolitik (BMWSB)

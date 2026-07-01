@@ -1,6 +1,6 @@
 ---
 name: chronologie-und-belegmatrix
-description: "Dieses Skill erstellt eine vollständige Sachverhaltschronologie und eine tatbestandsbezogene Belegmatrix für ein zivilrechtliches Mandat. Es zeigt, wie zeitliche Abläufe für Verjährungs- und Fristprüfungen aufbereitet werden, wie Belege tabellarisch den Tatbestandsmerkmalen zugeordnet werden und..."
+description: "Wenn es um Chronologie und Belegmatrix: für strukturierte Sachverhaltserfassung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie und Belegmatrix: für strukturierte Sachverhaltserfassung

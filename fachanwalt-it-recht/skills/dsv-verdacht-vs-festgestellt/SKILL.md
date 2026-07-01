@@ -1,6 +1,6 @@
 ---
 name: dsv-verdacht-vs-festgestellt
-description: "Bewertet, ob der Mandant bereits Kenntnis von einer Verletzung im Sinne Art: 33 Abs. 1 DSGVO hat oder ob noch bloßer Verdacht vorliegt. Behandelt: Abgrenzung Verdacht und Kenntnis;"
+description: "Wenn es um Bewertet, ob der Mandant bereits Kenntnis von einer Verletzung im Sinne Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bewertet, ob der Mandant bereits Kenntnis von einer Verletzung im Sinne Art

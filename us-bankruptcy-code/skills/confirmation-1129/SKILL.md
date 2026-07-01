@@ -1,6 +1,6 @@
 ---
 name: confirmation-1129
-description: "Prüft Chapter 11 confirmation requirements: good faith, feasibility, best interests, priority, treatment and compliance im US Bankruptcy Code."
+description: "Wenn es um Confirmation Paragraf 1129 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Confirmation § 1129

@@ -1,6 +1,6 @@
 ---
 name: uebersetzungsablauf
-description: "Standardablauf Übersetzung: 1. Original lesen, 2. Kernaussage extrahieren, 3. Satz für Satz uebertragen, 4. Prüfen gegen Prüfliste, 5. mit Zielgruppe gegenpruefen. Empfehlung: parallele Textspalten Original/Übersetzung."
+description: "Wenn es um ELS-J: Übersetzungsablauf in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Uebersetzungsablauf; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
 ---
 
 # ELS-J: Übersetzungsablauf

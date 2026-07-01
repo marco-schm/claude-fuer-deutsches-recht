@@ -1,6 +1,6 @@
 ---
 name: 046-abwicklung-todesfall-beteiligter-vor-vollzug
-description: "Notariat im Alltag: Abwicklung Todesfall eines Beteiligten vor Vollzug. Rechtliche Konsequenzen des Todes eines Käufers, Verkäufers oder GmbH-Gesellschafters während des laufenden Vollzugs und notarielle Schritte im Notariat."
+description: "Wenn es um Notariat im Alltag: Abwicklung Todesfall eines Beteiligten vor Vollzug in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Abwicklung Todesfall eines Beteiligten vor Vollzug

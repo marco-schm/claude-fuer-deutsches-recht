@@ -1,6 +1,6 @@
 ---
 name: nachbereitung-aktenvermerk-notfallkarte
-description: "Erstellt Nachbereitung nach Durchführung, Auflagenproblemen, Polizeikontakt, Presse und möglichem Folgeverfahren im Versammlungsrecht."
+description: "Wenn es um Nach der Versammlung ist die Akte noch nicht fertig in Versammlungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Nach der Versammlung ist die Akte noch nicht fertig

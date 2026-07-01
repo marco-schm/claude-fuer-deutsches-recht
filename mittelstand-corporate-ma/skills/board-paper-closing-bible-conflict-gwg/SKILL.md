@@ -1,6 +1,6 @@
 ---
 name: board-paper-closing-bible-conflict-gwg
-description: "Vorstand GF oder Aufsichtsrat braucht Entscheidungsunterlage für M&A-Beschluss: Board Paper Business-Judgment-Dokumentation KI-Einsatztransparenz. Normen §§ 93 AktG 43 GmbHG Business-Judgment Rule ARAG/Garmenbeck. Prüfraster Informationsgrundlage Alternativen-Abwaegung Risikodokumentation KI-Disc..."
+description: "Wenn es um Board Paper und Business Judgment in Mittelstands-Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Board Paper und Business Judgment

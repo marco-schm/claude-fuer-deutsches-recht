@@ -1,6 +1,6 @@
 ---
 name: lohn-jobticket-mobilitaet-deutschlandticket
-description: "Jobticket Deutschlandticket steuerliche Behandlung. Anwendungsfall AG erstattet AN Mobilitaetsticket OePNV oder bietet Jobticket steuerfrei nach § 3 Nr 15 EStG Auswirkung auf Entfernungspauschale. Methodik Prüfung Konfiguration. Output Lohn-Abrechnung mit Jobticket im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Jobticket und Deutschlandticket — Steuerliche Behandlung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Lohn Jobticket Mobilitaet Deutschlandticket; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Jobticket und Deutschlandticket — Steuerliche Behandlung

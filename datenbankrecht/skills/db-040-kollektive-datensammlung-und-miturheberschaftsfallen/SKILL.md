@@ -1,6 +1,6 @@
 ---
 name: db-040-kollektive-datensammlung-und-miturheberschaftsfallen
-description: "Datenbankrecht: Kollektive Datensammlung und Miturheberschaftsfallen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Kollektive Datensammlung und Miturheberschaftsfallen in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Kollektive Datensammlung und Miturheberschaftsfallen

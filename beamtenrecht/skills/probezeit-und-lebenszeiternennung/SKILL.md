@@ -1,6 +1,6 @@
 ---
 name: probezeit-und-lebenszeiternennung
-description: "Probezeit, Bewährung, Verlängerung und Ernennung auf Lebenszeit für Beamte und Richter auf Probe im Beamtenrecht."
+description: "Wenn es um Probezeit Und Lebenszeiternennung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Probezeit Und Lebenszeiternennung

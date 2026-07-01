@@ -1,6 +1,6 @@
 ---
 name: anlagen-zu-schriftsaetzen
-description: "Anlagenkonvolut fuer Schriftsaetze bauen: Anlagen aus Aktenordnern erfassen, K- oder B-Anlagennummern vergeben, Reihenfolge am Schriftsatz pruefen, Belegluecken markieren und mit dem Werkzeug build_anlagenkonvolut.py ein gerichtstaugliches PDF-Paket vorbereiten."
+description: "Wenn es um Anlagen zu Schriftsaetzen bauen in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anlagen zu Schriftsaetzen bauen

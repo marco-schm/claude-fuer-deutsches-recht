@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Startet die Handelsvertreterrechtsprüfung für Status, Vertrag, Provision, Kündigung und Ausgleich."
+description: "Wenn es um Allgemein in Handelsvertreterrecht und Vertriebsverträge geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemein

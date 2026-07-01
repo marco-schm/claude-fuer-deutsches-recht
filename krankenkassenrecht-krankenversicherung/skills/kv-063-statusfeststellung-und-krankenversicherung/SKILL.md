@@ -1,6 +1,6 @@
 ---
 name: kv-063-statusfeststellung-und-krankenversicherung
-description: "Krankenversicherung: Statusfeststellung und Krankenversicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Statusfeststellung und Krankenversicherung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Statusfeststellung und Krankenversicherung

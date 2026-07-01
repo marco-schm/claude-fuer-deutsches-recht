@@ -1,6 +1,6 @@
 ---
 name: indemnity-verhandlung-vergleich-und-eskalation
-description: "Indemnity: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Indemnity: Verhandlung, Vergleich und Eskalation in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Indemnity: Verhandlung, Vergleich und Eskalation

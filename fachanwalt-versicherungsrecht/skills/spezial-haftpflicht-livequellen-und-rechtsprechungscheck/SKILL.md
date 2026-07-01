@@ -1,6 +1,6 @@
 ---
 name: spezial-haftpflicht-livequellen-und-rechtsprechungscheck
-description: "Haftpflicht: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Haftpflicht: Livequellen- und Rechtsprechungscheck in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haftpflicht: Livequellen- und Rechtsprechungscheck

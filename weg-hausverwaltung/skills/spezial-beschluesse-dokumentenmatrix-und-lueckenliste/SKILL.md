@@ -1,6 +1,6 @@
 ---
 name: spezial-beschluesse-dokumentenmatrix-und-lueckenliste
-description: "Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung

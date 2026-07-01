@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Insolvenzrecht (Allgemein): ordnet Rolle (Schuldner GmbH/Person, Gläubiger, Verwalter), markiert Frist (§ 15a Antragspflicht 3 Wochen), wählt Norm (InsO, EuInsVO, InsVV) und Zuständigkeit (Insolvenzgericht (AG)), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Insolvenzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

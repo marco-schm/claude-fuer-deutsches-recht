@@ -1,6 +1,6 @@
 ---
 name: tier-077-gefluegelmast-kosten-klaeren
-description: "Tierschutzrecht: Geflügelmast: Kosten klären. Kosten klären für Geflügelmast im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Gefluegelmast Kosten Klaeren in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gefluegelmast Kosten Klaeren

@@ -1,6 +1,6 @@
 ---
 name: sektor-automotive-zulieferketten-und-oem
-description: "Sektor Automotive, Zulieferketten und OEMs: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, B..."
+description: "Wenn es um Sektor Automotive, Zulieferketten und OEMs in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sektor Automotive, Zulieferketten und OEMs

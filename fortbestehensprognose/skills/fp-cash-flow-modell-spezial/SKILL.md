@@ -1,6 +1,6 @@
 ---
 name: fp-cash-flow-modell-spezial
-description: "Spezialfall Cash-Flow-Modell: monatliche Liquiditaetsplanung mindestens für 12 Monate, Plausibilitaetskontrollen, Sensitivitaetsanalysen. Pflichten Geschäftsführer und Prüfer. Prüfraster und Praxistipps im Fortbestehensprognose."
+description: "Wenn es um FP: Cash-Flow-Modell in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # FP: Cash-Flow-Modell

@@ -1,6 +1,6 @@
 ---
 name: luft-035-flughafen-genehmigung-pruefen
-description: "Luftrecht und Flughafenrecht: Flughafen: Genehmigung prüfen. Genehmigung prüfen für Flughafen im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Flughafen Genehmigung Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flughafen Genehmigung Pruefen

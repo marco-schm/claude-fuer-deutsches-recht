@@ -1,6 +1,6 @@
 ---
 name: pralr-029-vergleich-abgb-code-civil-bgb
-description: "PrALR: Vergleich mit ABGB, Code civil und BGB nach Funktion, Systematik, Sprache und Freiheitsgrad."
+description: "Wenn es um Kodifikationsvergleich in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Pralr 029 Vergleich Abgb Code Civil BGB; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Kodifikationsvergleich

@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeit-klimacheck-vereinbarkeit
-description: "Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erläutert wo die NKR-Prüfung ansetzt und wo ressortinterne Nachhaltigkeit"
+description: "Wenn es um NKR-Nachhaltigkeit, Klimacheck und Vereinbarkeit in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nachhaltigkeit Klimacheck Vereinbarkeit; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
 ---
 
 # NKR-Nachhaltigkeit, Klimacheck und Vereinbarkeit

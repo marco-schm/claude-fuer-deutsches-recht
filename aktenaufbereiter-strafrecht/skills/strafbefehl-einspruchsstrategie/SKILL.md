@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-einspruchsstrategie
-description: "Strafbefehl § 410 StPO: Einspruchsstrategie prüfen. 2-Wochen-Frist, vollstaendiger oder beschraenkter Einspruch (nur Rechtsfolgenausspruch), Folge: Hauptverhandlung. Prüfraster: Beweislage, Verschlechterungsverbot § 411 Abs. 4 StPO greift nicht bei vollstaendigem Einspruch, mit Verteidiger trot..."
+description: "Wenn es um Strafbefehl: Einspruchsstrategie in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafbefehl: Einspruchsstrategie

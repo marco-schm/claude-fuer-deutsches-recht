@@ -1,6 +1,6 @@
 ---
 name: exit-readiness
-description: "Bereitet Portfolio-Unternehmen auf M&A, Secondary, IPO-Pfad oder strategischen Käufer vor im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Exit Readiness in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exit Readiness

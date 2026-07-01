@@ -1,6 +1,6 @@
 ---
 name: entschaedigung-sgb-xiv-opferleistungen
-description: "Soziales Entschaedigungsrecht SGB XIV seit 2024. Opfer von Gewalttaten Anerkennung Entschaedigung Reha. Reform OEG/BVG. Praktischer Leitfaden für Betroffene."
+description: "Wenn es um Soziales Entschaedigungsrecht — SGB XIV in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Soziales Entschaedigungsrecht — SGB XIV

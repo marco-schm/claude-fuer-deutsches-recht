@@ -1,6 +1,6 @@
 ---
 name: registerrecht-kapitalgesellschaft-co-kg-komplementaerwechsel
-description: "Koordiniert Ausscheiden/Eintritt der Komplementär-GmbH, Haftung, Vertretung und Registerreihenfolge im Handelsregister Praxis."
+description: "Wenn es um Komplementärwechsel in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Komplementärwechsel

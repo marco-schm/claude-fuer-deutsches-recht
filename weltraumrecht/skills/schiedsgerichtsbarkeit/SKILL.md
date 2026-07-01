@@ -1,6 +1,6 @@
 ---
 name: schiedsgerichtsbarkeit
-description: "Schiedsgerichtsbarkeit für Raumfahrtstreitigkeiten – ICC, LCIA, DIS, Sondergerichtsbarkeit im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Schiedsgerichtsbarkeit: Raumfahrtverträge in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Schiedsgerichtsbarkeit: Raumfahrtverträge

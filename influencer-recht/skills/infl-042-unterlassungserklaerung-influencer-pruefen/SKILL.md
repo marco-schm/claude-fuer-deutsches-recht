@@ -1,6 +1,6 @@
 ---
 name: infl-042-unterlassungserklaerung-influencer-pruefen
-description: "Influencer-Recht: Unterlassungserklärung Influencer prüfen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Unterlassungserklärung Influencer prüfen in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Unterlassungserklärung Influencer prüfen

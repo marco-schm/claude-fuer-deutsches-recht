@@ -1,6 +1,6 @@
 ---
 name: kanzleisitz-und-zweigstelle-rechtsprechungscheck-und-r
-description: "Anwälte: kanzleisitz und zweigstelle - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Kanzleisitz Und Zweigstelle Rechtsprechungscheck Und R in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Anwälte: kanzleisitz und zweigstelle - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

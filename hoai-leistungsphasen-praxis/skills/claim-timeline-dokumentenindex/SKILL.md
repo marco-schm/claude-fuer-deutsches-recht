@@ -1,6 +1,6 @@
 ---
 name: claim-timeline-dokumentenindex
-description: "HOAI-Praxis: baut Zeitstrahl für Pflichtverletzung, Warnung, Entscheidung, Schaden und Frist; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um HOAI Querschnitt: Baut zeitstrahl für pflichtverletzung in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # HOAI Querschnitt: Baut zeitstrahl für pflichtverletzung

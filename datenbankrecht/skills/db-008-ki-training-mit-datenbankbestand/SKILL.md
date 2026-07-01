@@ -1,6 +1,6 @@
 ---
 name: db-008-ki-training-mit-datenbankbestand
-description: "Datenbankrecht: KI-Training mit Datenbankbestand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: digitale Werkzeuge-Training mit Datenbankbestand in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: KI-Training mit Datenbankbestand

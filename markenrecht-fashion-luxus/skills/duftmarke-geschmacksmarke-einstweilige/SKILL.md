@@ -1,6 +1,6 @@
 ---
 name: duftmarke-geschmacksmarke-einstweilige
-description: "Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen im Markenrecht Fashion Luxus."
+description: "Wenn es um Duftmarken und Geschmacksmarken in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Duftmarken und Geschmacksmarken

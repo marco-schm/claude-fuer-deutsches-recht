@@ -1,6 +1,6 @@
 ---
 name: vermieter-fristen-form-und-zustaendigkeit
-description: "Vermieter: Fristen, Form, Zuständigkeit und Rechtsweg im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht."
+description: "Wenn es um Vermieter: Fristen, Form, Zuständigkeit und Rechtsweg in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vermieter: Fristen, Form, Zuständigkeit und Rechtsweg

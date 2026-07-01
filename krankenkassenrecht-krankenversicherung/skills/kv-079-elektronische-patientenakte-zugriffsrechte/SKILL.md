@@ -1,6 +1,6 @@
 ---
 name: kv-079-elektronische-patientenakte-zugriffsrechte
-description: "Krankenversicherung: Elektronische Patientenakte Zugriffsrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Elektronische Patientenakte Zugriffsrechte in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Elektronische Patientenakte Zugriffsrechte

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-bankrott-283-stgb
-description: "Bankrott nach Paragraph 283 StGB: Tatbestandsalternativen Beiseiteschaffen Verheimlichen Zerstoeren Verkuerzung. Krise und Insolvenzreife als objektive Strafbarkeitsbedingung. Vorsatz und Fahrlaessigkeitsvarianten Absatz 4..."
+description: "Wenn es um Bankrott nach Paragraph 283 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bankrott nach Paragraph 283 StGB

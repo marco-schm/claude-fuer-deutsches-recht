@@ -1,6 +1,6 @@
 ---
 name: registerrecht-fehlende-einzahlung-fehlerhafte
-description: "Prüft Geschäftsführerversicherung, Kontoauszug, Hin- und Herzahlen, verdeckte Sacheinlage und Haftungsnotiz im Handelsregister Praxis."
+description: "Wenn es um Einzahlungsrisiko Stammkapital in Handelsregister Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Einzahlungsrisiko Stammkapital

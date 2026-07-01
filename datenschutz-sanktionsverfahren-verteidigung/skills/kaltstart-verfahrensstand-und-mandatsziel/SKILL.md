@@ -1,6 +1,6 @@
 ---
 name: kaltstart-verfahrensstand-und-mandatsziel
-description: "Kaltstart Verfahrensstand und Mandatsziel: Anhörung, Bußgeldbescheid, Art.-58-Anordnung, Verwaltungsstreit und Gerichtsphase in zehn Minuten trennen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unte..."
+description: "Wenn es um Kaltstart Verfahrensstand und Mandatsziel in Datenschutz-Sanktionsverfahren und Verteidigung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Verfahrensstand und Mandatsziel

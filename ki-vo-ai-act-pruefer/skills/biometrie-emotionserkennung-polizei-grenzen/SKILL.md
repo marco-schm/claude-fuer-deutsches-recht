@@ -1,6 +1,6 @@
 ---
 name: biometrie-emotionserkennung-polizei-grenzen
-description: "Biometrie, Emotionserkennung und Polizeigrenzen nach KI-VO: Verbote, Ausnahmen, Hochrisiko, Strafverfolgung, Grundrechte und nationale Eingriffsermächtigung prüfen."
+description: "Wenn es um Biometrie, Emotionserkennung und Polizeigrenzen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Biometrie, Emotionserkennung und Polizeigrenzen

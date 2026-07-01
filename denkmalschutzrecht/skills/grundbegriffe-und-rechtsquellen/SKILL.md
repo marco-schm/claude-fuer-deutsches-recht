@@ -1,6 +1,6 @@
 ---
 name: grundbegriffe-und-rechtsquellen
-description: "Grundbegriffe des deutschen Denkmalschutzrechts: Baudenkmal, Bodendenkmal, bewegliches Denkmal, Ensemble, Welterbe, Schutzbereich, Erhaltungssatzung. Rechtsquellen: Landesgesetze als primäres Recht, Art. 73 und Art. 14 GG als bundesstaatlicher Rahmen, Welterbekonvention und Granada-Konvention als völkerrechtlicher Hintergrund, Paragrafen 7i und 11b EStG als bundesrechtliche Förderzuweisungen."
+description: "Wenn es um Grundbegriffe und Rechtsquellen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grundbegriffe und Rechtsquellen

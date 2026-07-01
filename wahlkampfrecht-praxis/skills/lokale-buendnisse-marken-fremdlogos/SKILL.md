@@ -1,6 +1,6 @@
 ---
 name: lokale-buendnisse-marken-fremdlogos
-description: "Wahlkampfrecht Praxis: lokale Buendnisse, Listenverbindungen und Unterstuetzungserklaerungen prüfen im Wahlkampfrecht."
+description: "Wenn es um Lokale Buendnisse Und Listen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lokale Buendnisse Und Listen

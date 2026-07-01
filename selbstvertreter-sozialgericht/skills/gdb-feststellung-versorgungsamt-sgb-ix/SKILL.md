@@ -1,6 +1,6 @@
 ---
 name: gdb-feststellung-versorgungsamt-sgb-ix
-description: "GdB-Feststellung beim Versorgungsamt nach § 152 SGB IX. Skill klaert das Verfahren beim Versorgungsamt Sachverstandigengutachten GdB-Tabelle Versorgungsmedizinverordnung Sondervorschriften für chronische Krankheiten und psychische Erkrankungen. Liefert Antragsvorlage."
+description: "Wenn es um Gdb Feststellung Versorgungsamt Sgb Ix in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gdb Feststellung Versorgungsamt Sgb Ix

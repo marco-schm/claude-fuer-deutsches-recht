@@ -1,6 +1,6 @@
 ---
 name: court-deadline-dashboard
-description: "Court Deadline Dashboard: steuert gerichtliche Fristen, Vorfristen, Zustellungen und Mandantenfreigaben gemeinsam sehen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Court Deadline Dashboard in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Court Deadline Dashboard

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-bank-ablehnung-score-beweisplan
-description: "Beweis- und Anspruchsplan bei Konto-, Kredit-, Leasing- oder Mietablehnung wegen Auskunftei-/Score-Daten."
+description: "Wenn es um Bankablehnung wegen Score: Beweisplan in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bankablehnung wegen Score: Beweisplan

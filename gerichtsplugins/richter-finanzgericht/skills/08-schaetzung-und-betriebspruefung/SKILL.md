@@ -1,6 +1,6 @@
 ---
 name: 08-schaetzung-und-betriebspruefung
-description: "Schaetzung Paragraf 162 AO als Beweismittel: aeussere und innere Schaetzung, Zeitreihenvergleich, Geldverkehrsrechnung, Chi-Quadrat-Test; Verwertbarkeit aus Betriebsprüfung"
+description: "Wenn es um 08 Schaetzung und Betriebsprüfung in Finanzgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 08 Schaetzung und Betriebsprüfung

@@ -1,6 +1,6 @@
 ---
 name: technik-lautsprecher-untatigkeit-schweigen
-description: "Prüft Lautsprecher, Megaphon, Bühne, Strom, Fahrzeuge, Musik, Projektionen und Lärmschutz im Versammlungsrecht."
+description: "Wenn es um Technik dient der Kommunikation in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Technik dient der Kommunikation

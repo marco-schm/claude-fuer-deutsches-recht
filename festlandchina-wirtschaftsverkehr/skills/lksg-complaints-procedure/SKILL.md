@@ -1,6 +1,6 @@
 ---
 name: lksg-complaints-procedure
-description: "LkSG-Beschwerdeverfahren für China-Lieferketten: § 8 LkSG Beschwerdepflicht, Ausgestaltung internes Beschwerdesystem, Externe Ombudsstellen, Bearbeitung anonymer Hinweise, Schutz der Hinweisgeber (HinSchG), Bearbeitungsfristen, Dokumentations- und Berichtspflichten BAuA, Schnittstelle zu LkSG-Sor..."
+description: "Wenn es um LkSG-Beschwerdeverfahren China-Lieferkette: Gestaltung und Pflichten in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LkSG-Beschwerdeverfahren China-Lieferkette: Gestaltung und Pflichten

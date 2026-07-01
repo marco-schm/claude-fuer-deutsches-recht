@@ -41,4 +41,4 @@ Lagebild: drei bis sieben Saetze. Pruefung: Tatbestandsmerkmale mit Belegen. Erg
 
 ## 6. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lueckenliste aus. Fuer Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

@@ -1,6 +1,6 @@
 ---
 name: platform-ecommerce-china
-description: "E-Commerce-Plattformen China: Tmall/JD.com/Pinduoduo-Rechtsrahmen, E-Commerce-Gesetz VR China 2019, Verbraucherschutz CN, Plattformhaftung und IP-Enforcement, PIPL-Pflichten bei Nutzerdaten, Zahlungsabwicklung (Alipay/WeChat Pay), Cross-Border-E-Commerce-Zone (CBEC), Steuerbehandlung Onlinehandel..."
+description: "Wenn es um E-Commerce China: Tmall/JD/Plattformrecht/PIPL in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # E-Commerce China: Tmall/JD/Plattformrecht/PIPL

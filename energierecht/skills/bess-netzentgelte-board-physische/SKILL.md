@@ -1,6 +1,6 @@
 ---
 name: bess-netzentgelte-board-physische
-description: "Prüft Strombezug, Einspeicherung, Ausspeicherung, Netzentgelte, Umlagen, Messung und Entlastungen im Energierecht."
+description: "Wenn es um Netzentgelte, Umlagen, Speicherprivilegien in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Netzentgelte, Umlagen, Speicherprivilegien

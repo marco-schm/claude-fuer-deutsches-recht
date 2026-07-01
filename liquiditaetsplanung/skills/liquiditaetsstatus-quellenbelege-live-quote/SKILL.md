@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsstatus-quellenbelege-live-quote
-description: "Liquiditaetsstatus Quellenbelege Live Quote im Plugin Liquiditaetsplanung: prüft konkret Liquiditätsstatus nur aus belastbaren Quellenbelegen, Live, Quote."
+description: "Wenn es um Liquiditaetsstatus Quellenbelege Live Quote in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Liquiditaetsstatus Quellenbelege Live Quote

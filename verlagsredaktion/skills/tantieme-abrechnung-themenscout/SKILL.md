@@ -1,6 +1,6 @@
 ---
 name: tantieme-abrechnung-themenscout
-description: "Jaehrliche Tantieme-Abrechnung für Autoren juristischer Werke: Stueck- und Umsatzbeteiligung, Loseblatt-Ergaenzungslieferungen, Online-Nutzung, Verrechnung mit Vorschuss, Pflichten nach UrhG § 32d im Verlagsredaktion."
+description: "Wenn es um Tantieme jaehrlich abrechnen in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Tantieme jaehrlich abrechnen

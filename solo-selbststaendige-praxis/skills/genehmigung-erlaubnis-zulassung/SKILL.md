@@ -1,6 +1,6 @@
 ---
 name: genehmigung-erlaubnis-zulassung
-description: "Solo-Selbstständige: prüft erlaubnispflichtige Tätigkeiten wie Makler, Bewachung, Gesundheit, Pflege, Finanzdienstleistung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Anmeldung und Behörden: Prüft erlaubnispflichtige tätigkeiten wie makler in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anmeldung und Behörden: Prüft erlaubnispflichtige tätigkeiten wie makler

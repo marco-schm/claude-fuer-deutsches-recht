@@ -1,6 +1,6 @@
 ---
 name: untersuchung-ergaenzen
-description: "Fügt einer laufenden internen Untersuchung neue Daten hinzu — Dokumente, Befragungsnotizen oder Beobachtungen: Verarbeitet Dokumentenpakete anhand..."
+description: "Wenn es um Untersuchung Ergaenzen in Arbeitsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fügt einer laufenden internen Untersuchung neue Daten hinzu — Dokumente, Befragungsnotizen oder Beobachtungen

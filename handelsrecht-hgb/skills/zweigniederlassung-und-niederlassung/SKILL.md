@@ -1,6 +1,6 @@
 ---
 name: zweigniederlassung-und-niederlassung
-description: "Prüft Haupt-/Zweigniederlassung, Firma, Register, Geschäftsbriefe und Vertretung im Handelsrecht Hgb."
+description: "Wenn es um Zweigniederlassung und Niederlassung in Handelsrecht HGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zweigniederlassung und Niederlassung

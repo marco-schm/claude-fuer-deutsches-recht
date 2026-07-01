@@ -1,6 +1,6 @@
 ---
 name: drg-002-quellenkritik-archiv-und-edition
-description: "Deutsche Rechtsgeschichte: Quellenkritik Archiv Und Edition. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Quellenkritik Archiv Und Edition in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quellenkritik Archiv Und Edition

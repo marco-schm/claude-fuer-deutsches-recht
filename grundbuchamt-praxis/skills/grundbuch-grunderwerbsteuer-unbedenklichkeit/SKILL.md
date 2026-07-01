@@ -1,6 +1,6 @@
 ---
 name: grundbuch-grunderwerbsteuer-unbedenklichkeit
-description: "Prüft GrESt-Schnittstelle, Fälligkeitslogik, Ausnahmen und Vollzugshindernis im Grundbuchamt Praxis."
+description: "Wenn es um Unbedenklichkeitsbescheinigung in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unbedenklichkeitsbescheinigung

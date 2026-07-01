@@ -1,6 +1,6 @@
 ---
 name: kv-069-vergleich-mit-krankenkasse-risiko-und-kosten
-description: "Krankenversicherung: Vergleich mit Krankenkasse Risiko und Kosten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Vergleich mit Krankenkasse Risiko und Kosten in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Vergleich mit Krankenkasse Risiko und Kosten

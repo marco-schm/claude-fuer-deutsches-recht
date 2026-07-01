@@ -1,6 +1,6 @@
 ---
 name: kritische-markt-interessen-marktabgrenzungen
-description: "Kritische: Erstprüfung, Rollenklärung und Mandatsziel: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Kritische: Erstprüfung, Rollenklärung und Mandatsziel in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kritische: Erstprüfung, Rollenklärung und Mandatsziel

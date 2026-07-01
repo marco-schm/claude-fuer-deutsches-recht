@@ -1,6 +1,6 @@
 ---
 name: spezial-abrechnungsfrist-nachforderung
-description: "Abrechnungsfrist/Nachforderung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft § 556 Abs. 3 BGB, Verschulden, Guthaben, Gewerbeabweichung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Abrechnungsfrist/Nachforderung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abrechnungsfrist/Nachforderung

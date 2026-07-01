@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-haeusliche-krankenpflege-37-sgb
-description: "Krankenkassen haeusliche Krankenpflege nach § 37 SGB V. Skill klaert die Voraussetzungen Behandlungspflege Grundpflege hauswirtschaftliche Versorgung Verhältnis zur Pflegekasse SGB XI und die aktuelle BSG-Linie zu Spezialfaellen wie Intensivpflege. Liefert Antragsvorlage."
+description: "Wenn es um Krankenkassen Haeusliche Krankenpflege 37 Sgb V in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenkassen Haeusliche Krankenpflege 37 Sgb V

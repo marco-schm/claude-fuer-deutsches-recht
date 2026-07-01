@@ -1,6 +1,6 @@
 ---
 name: hausarbeit-start
-description: "Einstieg, Schnelltriage und Fallrouting im Hausarbeitenmacher-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig..."
+description: "Wenn es um Hausarbeitenmacher — Allgemein in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hausarbeitenmacher — Allgemein

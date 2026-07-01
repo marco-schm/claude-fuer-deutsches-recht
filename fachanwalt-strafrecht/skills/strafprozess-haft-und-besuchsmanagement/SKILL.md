@@ -1,6 +1,6 @@
 ---
 name: strafprozess-haft-und-besuchsmanagement
-description: "Haft- und Besuchsmanagement für Untersuchungshaft: organisiert Haftbefehl, Haftprüfung, Haftbeschwerde, Akteneinsicht, Besuch, Telefon, Post, Familie, Arbeitgeber, Haftverschonungsplan und Beschleunigungskontrolle: Haft- und Besuchsmanagement für Untersuch..."
+description: "Wenn es um Strafprozess Haft Und Besuchsmanagement in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haft- und Besuchsmanagement für Untersuchungshaft: organisiert Haftbefehl, Haftprüfung, Haftbeschwerde, Akteneinsicht, Besuch, Telefon, Post, Familie, Arbeitgeber, Haftverschonungsplan und Beschleunigungskontrolle.

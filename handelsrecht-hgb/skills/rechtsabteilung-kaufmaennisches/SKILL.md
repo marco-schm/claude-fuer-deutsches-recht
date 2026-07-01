@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-kaufmaennisches
-description: "Rechtsabteilungs-Fachmodul für Kaufmännisches Bestätigungsschreiben im Konzernalltag: Schweigen, E-Mail-Thread und Bestellplattform werden auf Bindungswirkung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsrecht Hgb."
+description: "Wenn es um Rechtsabteilung: Kaufmännisches Bestätigungsschreiben im Konzernalltag in Handelsrecht HGB geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Kaufmännisches Bestätigungsschreiben im Konzernalltag

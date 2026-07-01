@@ -1,6 +1,6 @@
 ---
 name: workflow-ausweisung-start
-description: "Ausweisung Start: Prüfungslinie für Migrationsrecht: prüft Ausweisungsinteresse, Bleibeinteresse, Verhältnismäßigkeit und EMRK; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem O..."
+description: "Wenn es um Ausweisung Start: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausweisung Start: Prüfungslinie für Migrationsrecht

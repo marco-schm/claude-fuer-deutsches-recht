@@ -1,6 +1,6 @@
 ---
 name: inso-p181-umfang-der-feststellung
-description: "§ 181 InsO (Umfang der Feststellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 181 InsO (Umfang der Feststellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Friste..."
+description: "Wenn es um Inso P181 Umfang Der Feststellung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 181 InsO (Umfang der Feststellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

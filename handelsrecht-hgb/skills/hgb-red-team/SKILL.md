@@ -1,6 +1,6 @@
 ---
 name: hgb-red-team
-description: "Findet Gegenargumente in Handelsrechtsfällen: Nichtkaufmann, Vertretungsmangel, verspätete Rüge, Registerpublizität, Firmenirreführung."
+description: "Wenn es um HGB Red-Team in Handelsrecht HGB geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # HGB Red-Team

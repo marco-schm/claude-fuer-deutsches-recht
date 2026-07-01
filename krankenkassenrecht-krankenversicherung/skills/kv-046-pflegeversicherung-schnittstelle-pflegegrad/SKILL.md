@@ -1,6 +1,6 @@
 ---
 name: kv-046-pflegeversicherung-schnittstelle-pflegegrad
-description: "Krankenversicherung: Pflegeversicherung Schnittstelle Pflegegrad mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Pflegeversicherung Schnittstelle Pflegegrad in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Pflegeversicherung Schnittstelle Pflegegrad

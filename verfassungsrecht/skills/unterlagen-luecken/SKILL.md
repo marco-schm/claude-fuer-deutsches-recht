@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Verfassungsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Letzter fachgerichtl. Beschluss, Verfassungsbeschwerde-Schriftsatz, Vorlagebeschluss), nennt pro Lücke Beweisthema, Beschaffungsweg (BVerfG), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in verfassungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Unterlagen und Lücken

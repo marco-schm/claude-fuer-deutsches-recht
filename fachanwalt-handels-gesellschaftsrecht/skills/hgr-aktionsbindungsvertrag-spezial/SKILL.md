@@ -1,6 +1,6 @@
 ---
 name: hgr-aktionsbindungsvertrag-spezial
-description: "Spezialfall Aktionsbindungsvertrag bei AG: zulaessige Stimmbindungen, Sperrwirkung gegenueber Satzung, Prüfung BGH-Rechtsprechung: Spezialfall Aktionsbindungsvertrag bei AG: zulaessige Stimmbindungen, Sperrwirkung gegenueber Satzung, Prüfung BGH-Rechtspre..."
+description: "Wenn es um Hgr Aktionsbindungsvertrag Spezial in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Aktionsbindungsvertrag bei AG: zulaessige Stimmbindungen, Sperrwirkung gegenueber Satzung, Prüfung BGH-Rechtsprechung

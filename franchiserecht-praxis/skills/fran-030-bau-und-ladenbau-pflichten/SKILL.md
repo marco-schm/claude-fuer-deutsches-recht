@@ -1,6 +1,6 @@
 ---
 name: fran-030-bau-und-ladenbau-pflichten
-description: "Franchiserecht: Bau und Ladenbau Pflichten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Bau und Ladenbau Pflichten in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Bau und Ladenbau Pflichten

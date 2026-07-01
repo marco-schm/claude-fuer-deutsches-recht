@@ -1,6 +1,6 @@
 ---
 name: mandantenbericht-erstellen
-description: Erstellung des abschliessenden Mandantenberichts nach der Zeugnispruefung mit Zusammenfassung der Gesamtnotenspanne, Streitstellen-Tabelle, Beweisbedarf und konkreter Handlungsempfehlung.
+description: "Wenn es um Mandantenbericht erstellen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Mandantenbericht erstellen

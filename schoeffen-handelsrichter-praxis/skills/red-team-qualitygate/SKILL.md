@@ -1,6 +1,6 @@
 ---
 name: red-team-qualitygate
-description: "Red-Team-Qualitygate: erklärt prüft Ergebnis auf Fristenfehler, Zuständigkeitsfehler, Scheinpräzision und Ton für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung."
+description: "Wenn es um Red-Team-Qualitygate in Schöffen und Handelsrichter Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team-Qualitygate

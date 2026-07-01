@@ -1,6 +1,6 @@
 ---
 name: 10-erheblichkeit-pruefen
-description: "Erheblichkeitsprüfung (Beklagtenstation): sind Einwendungen und Einreden rechtlich erheblich? Schluessigkeit + Erheblichkeit = Erfolgsaussicht der Klage bei unstreitigem Sachverhalt"
+description: "Wenn es um 10 Erheblichkeit Prüfen in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 10 Erheblichkeit Prüfen

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-verdachtsmeldung-verpflichteten
-description: "Vorbereitung und Einreichung von Verdachtsmeldungen nach § 43 GwG über goAML-Portal an die FIU. Anwendungsfall Sachverhalt mit Verdacht auf Geldwäsche oder Terrorismusfinanzierung ist festgestellt und Meldung muss erstattet werden. Normen § 43 GwG Meldepflicht § 44 GwG Meldeinhalte § 47 GwG Tippi..."
+description: "Wenn es um Verdachtsmeldung an FIU/goAML in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verdachtsmeldung an FIU/goAML

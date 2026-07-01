@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-wrackpflicht-pruefen
-description: "Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Neubauprojekt unter Werftvertrag. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. BGB §§ 631-651 Werkvertragsrecht; Sc..."
+description: "Wenn es um Werftvertrag – Wrackbeseitigungspflicht prüfen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Werftvertrag – Wrackbeseitigungspflicht prüfen

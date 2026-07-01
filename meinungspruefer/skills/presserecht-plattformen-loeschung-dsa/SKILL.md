@@ -1,6 +1,6 @@
 ---
 name: presserecht-plattformen-loeschung-dsa
-description: "Prüft Medien- und Plattformfälle mit Löschung, Sperrung, Meldung, Bewertungsportal, DSA-Schnittstelle, Notice-and-Action, Gegendarstellung, Antwort und Beweissicherung im Meinungspruefer."
+description: "Wenn es um Presse, Plattformen und DSA-Schnittstelle in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Presse, Plattformen und DSA-Schnittstelle

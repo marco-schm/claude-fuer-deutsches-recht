@@ -1,6 +1,6 @@
 ---
 name: abschiebungshaft
-description: "Abschiebungshaft: Fachmodul im Migrationsrecht: prüft Haftgrund, Fluchtgefahr, Verhältnismäßigkeit, Rechtsmittel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Abschiebungshaft: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abschiebungshaft: Fachmodul im Migrationsrecht

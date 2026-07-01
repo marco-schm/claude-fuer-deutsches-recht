@@ -1,6 +1,6 @@
 ---
 name: leasingakte-vertrag-objekt
-description: "Schnellanalyse einer Leasingakte: Vertragstyp, Objekt, Zahlungsstrom und Eigentumslage klären; strukturierter Einstieg mit Normencheck und Sofortmaßnahmen."
+description: "Wenn es um Kaltstart: Leasingakte, Vertrag, Objekt, Zahlungsstrom in Leasingrecht Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Kaltstart: Leasingakte, Vertrag, Objekt, Zahlungsstrom

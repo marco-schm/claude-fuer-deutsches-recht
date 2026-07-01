@@ -1,6 +1,6 @@
 ---
 name: staatliche-parteienfinanzierung
-description: "Erklärt Anspruchslogik, Stimmen, Zuwendungen, absolute Obergrenze, Antrag und Rechenschaftsbezug."
+description: "Wenn es um Staatliche Parteienfinanzierung in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Staatliche Parteienfinanzierung

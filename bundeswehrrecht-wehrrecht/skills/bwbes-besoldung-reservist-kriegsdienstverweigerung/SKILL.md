@@ -1,6 +1,6 @@
 ---
 name: bwbes-besoldung-reservist-kriegsdienstverweigerung
-description: "Besoldung Reservisten, Wehrübung, Arbeitgeberausgleich: prüft ArbPlSchG, UhSiG, Freistellungspflicht und Kündigungsschutz. Norm-/Quellenanker: ArbPlSchG, UhSiG, WSG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Besoldung Reservist: Wehrübung und Arbeitgeberausgleich in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besoldung Reservist: Wehrübung und Arbeitgeberausgleich

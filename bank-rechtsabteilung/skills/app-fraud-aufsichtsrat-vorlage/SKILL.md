@@ -1,6 +1,6 @@
 ---
 name: app-fraud-aufsichtsrat-vorlage
-description: "APP-Fraud, PushTAN und Social Engineering aus Bankensicht prüfen: Kundenschutz, Warnpflichten, PSD2/BGB-Haftung, SCA, Empfängerbank, Freeze, Recall und Prozessstrategie im Bank-Rechtsabteilung."
+description: "Wenn es um APP-Fraud Bank in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # APP-Fraud Bank

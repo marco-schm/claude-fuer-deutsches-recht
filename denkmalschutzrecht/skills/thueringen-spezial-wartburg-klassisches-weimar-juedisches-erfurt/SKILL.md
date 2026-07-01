@@ -1,6 +1,6 @@
 ---
 name: thueringen-spezial-wartburg-klassisches-weimar-juedisches-erfurt
-description: "Thueringer Besonderheit: Wartburg (Welterbe seit 1999), Klassisches Weimar (Welterbe seit 1998), Bauhausstaetten Weimar (Welterbe seit 1996 / Erweiterung 2017), juedisch-mittelalterliches Erbe Erfurt (Welterbe seit 2023). Skill ordnet die Verfahrenspraxis je Welterbestaette und die typischen Mandatslagen."
+description: "Wenn es um Wartburg, Klassisches Weimar, Bauhaus und juedisch-mittelalterliches Erfurt in Thueringen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Wartburg, Klassisches Weimar, Bauhaus und juedisch-mittelalterliches Erfurt in Thueringen

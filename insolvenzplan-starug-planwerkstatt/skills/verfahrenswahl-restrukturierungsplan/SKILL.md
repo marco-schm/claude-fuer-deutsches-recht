@@ -1,6 +1,6 @@
 ---
 name: verfahrenswahl-restrukturierungsplan
-description: "Passenden Sanierungsrahmen auswaehlen und Insolvenzplan Eigenverwaltung Schutzschirm StaRUG und außergerichtliche Einigung vergleichen. §§ 270 270d InsO §§ 29 42 StaRUG. Prüfraster: Zahlungsunfähigkeit Masse Zeitfenster Eingriffstiefe Gerichtsbedarf No-go-Schwellen. Output: Routenmatrix Empfehlun..."
+description: "Wenn es um Verfahrenswahl und Routenentscheidung in Insolvenzplan- und StaRUG-Planwerkstatt geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Verfahrenswahl und Routenentscheidung

@@ -1,6 +1,6 @@
 ---
 name: dokumentenmatrix-und-anlagen
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Dokumentenmatrix Und Anlagen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Dokumentenmatrix Und Anlagen in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Dokumentenmatrix Und Anlagen

@@ -1,6 +1,6 @@
 ---
 name: sortiert-risikoampel-gegenargumente
-description: "Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrens..."
+description: "Wenn es um Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien in Anlagen zu Schriftsätzen geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sortiert Risikoampel Gegenargumente; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien

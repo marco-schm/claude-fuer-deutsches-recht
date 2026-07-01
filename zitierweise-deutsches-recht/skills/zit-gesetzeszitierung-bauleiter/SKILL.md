@@ -1,6 +1,6 @@
 ---
 name: zit-gesetzeszitierung-bauleiter
-description: "Bauleiter Gesetzeszitierung in Schriftsatz und Memo: Norm, Absatz, Satz, Halbsatz, Nummer, Buchstabe. Prüfraster für einheitliche Schreibweise."
+description: "Wenn es um Zit: Gesetzeszitierung in Zitierweise deutsches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zit: Gesetzeszitierung

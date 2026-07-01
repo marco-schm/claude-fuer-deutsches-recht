@@ -1,6 +1,6 @@
 ---
 name: insolvenz-krypto-verwertung
-description: "Fachanwalt Insolvenz Krypto Verwertung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Insolvenz Krypto Verwertung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Recht..."
+description: "Wenn es um Insolvenz Krypto Verwertung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Insolvenz Krypto Verwertung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

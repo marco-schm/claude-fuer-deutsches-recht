@@ -1,6 +1,6 @@
 ---
 name: airline-bonitaet-und-vollstreckung
-description: "Airline-Bonitaetspruefung und Vollstreckung: Risikoliste bekannter Insolvenzen, Hinterlegung in dotierten Reisesicherungsfonds, EU-Garantien, Prüfraster bevor Klage erhoben wird. Vollstreckung im Ausland (Bruessel-I-VO, EuVTVO). Prüfliste mit Klage-/Vergleichsstrategie."
+description: "Wenn es um Airline-Bonitaet und Vollstreckung in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Airline-Bonitaet und Vollstreckung

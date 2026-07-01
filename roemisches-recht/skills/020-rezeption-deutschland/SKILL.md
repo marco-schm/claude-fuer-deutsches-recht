@@ -1,6 +1,6 @@
 ---
 name: 020-rezeption-deutschland
-description: "Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus im Römisches Recht: Bearbeite Rezeption in Deutschland Reichskammergericht und Usus modernus im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren:..."
+description: "Wenn es um Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus

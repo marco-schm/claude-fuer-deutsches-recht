@@ -1,6 +1,6 @@
 ---
 name: strafrecht-versg-risiken
-description: "Routet Strafbarkeitsrisiken aus VersammlG, StGB, Waffenrecht, Vermummung, Schutzwaffen und Nötigung im Versammlungsrecht."
+description: "Wenn es um Nicht jedes Risiko gehört in die Anzeige in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nicht jedes Risiko gehört in die Anzeige

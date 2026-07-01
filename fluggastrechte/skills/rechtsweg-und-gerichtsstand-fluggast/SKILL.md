@@ -1,6 +1,6 @@
 ---
 name: rechtsweg-und-gerichtsstand-fluggast
-description: "Rechtsweg und Gerichtsstand bei Flugverspaetung und Annullierung: Wohnsitz oder Flughafen Klägerwahl nach EuGH Rehder. Amtsgericht bei bis 5000 Euro Streitwert. Zustaendige Schlichtungsstellen soep. Internationale Fragen Montrealer Uebereinkommen."
+description: "Wenn es um Rechtsweg und Gerichtsstand in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechtsweg Und Gerichtsstand Fluggast; Arbeitsfeld: Fluggastrechte."
 ---
 
 # Rechtsweg und Gerichtsstand

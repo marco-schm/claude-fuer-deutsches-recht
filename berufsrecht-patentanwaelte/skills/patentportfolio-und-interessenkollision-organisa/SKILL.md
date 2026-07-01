@@ -1,6 +1,6 @@
 ---
 name: patentportfolio-und-interessenkollision-organisa
-description: "Patentanwälte: patentportfolio und interessenkollision - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Patentportfolio Und Interessenkollision Organisa in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: patentportfolio und interessenkollision - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

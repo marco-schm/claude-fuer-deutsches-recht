@@ -1,6 +1,6 @@
 ---
 name: ki-no-training-modellverbesserung-telemetrie
-description: "No-Training, Modellverbesserung und Telemetrie im KI-Vertrag prüfen: Mandatsdaten dürfen nicht für Training, Produktverbesserung, Benchmarks, Supportauswertung oder allgemeine Modelloptimierung abfließen; Klausel- und Rückfragebausteine."
+description: "Wenn es um No-Training, Modellverbesserung und Telemetrie in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # No-Training, Modellverbesserung und Telemetrie

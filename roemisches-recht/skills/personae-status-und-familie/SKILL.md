@@ -1,6 +1,6 @@
 ---
 name: personae-status-und-familie
-description: "Römisches Recht: Personae Status Und Familie. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Personae Status Und Familie in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Personae Status Und Familie

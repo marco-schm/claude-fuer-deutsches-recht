@@ -1,6 +1,6 @@
 ---
 name: long-covid-bk-anerkennung-bg
-description: "Fachanwalt Sozialrecht Long Covid Bk Anerkennung Bg: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Sozialrecht Long Covid Bk Anerkennung Bg: ordnet Normen, Nutzerangaben, Fristen, Bel..."
+description: "Wenn es um Long Covid Bk Anerkennung Bg in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Sozialrecht Long Covid Bk Anerkennung Bg: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

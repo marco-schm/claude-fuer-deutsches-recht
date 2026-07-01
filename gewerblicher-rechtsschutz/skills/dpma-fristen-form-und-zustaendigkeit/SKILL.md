@@ -1,6 +1,6 @@
 ---
 name: dpma-fristen-form-und-zustaendigkeit
-description: "DPMA-Verfahren im Detail: Fristen, Formvoraussetzungen und Zuständigkeiten für Marken-, Patent-, Gebrauchsmuster- und Designanmeldung sowie Widerspruchs- und Löschungsverfahren. Einreichungswege, Gebühren und Fehlerquellen im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: DPMA – Fristen, Form und Zuständigkeit in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezial: DPMA – Fristen, Form und Zuständigkeit

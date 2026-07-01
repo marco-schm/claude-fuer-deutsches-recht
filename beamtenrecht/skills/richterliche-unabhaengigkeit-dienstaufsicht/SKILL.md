@@ -1,6 +1,6 @@
 ---
 name: richterliche-unabhaengigkeit-dienstaufsicht
-description: "Richterliche Unabhängigkeit, Dienstaufsicht, Ermahnung, Geschäftsprüfung und unzulässige Einflussnahme im Beamtenrecht."
+description: "Wenn es um Richterliche Unabhaengigkeit Dienstaufsicht in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Richterliche Unabhaengigkeit Dienstaufsicht

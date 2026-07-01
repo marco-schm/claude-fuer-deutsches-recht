@@ -1,6 +1,6 @@
 ---
 name: miet-weg-mediation-mietverein-schlichtung
-description: "Miet- und WEG-Streit Mediation: Mieterverein- und Vermieterverein-Schlichtung. WEG-Mediation § 44 WEG Beschluss-Streit. Eigentümerversammlungs-Konflikt. Mediator vermittelt Verwalter Eigentümer. Mietminderung-Vergleich Räumun..."
+description: "Wenn es um Miet- und WEG-Streit Mediation in Fachanwalt Miet- und Wohnungseigentumsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Miet- und WEG-Streit Mediation

@@ -1,6 +1,6 @@
 ---
 name: petition-und-buergeranliegen
-description: "Erstellt Petition, Bürgeranfrage, Ratsanfrage oder Eingabe ohne falsche Rechtsmittel-Erwartung im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Petition und Bürgeranliegen in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Petition und Bürgeranliegen

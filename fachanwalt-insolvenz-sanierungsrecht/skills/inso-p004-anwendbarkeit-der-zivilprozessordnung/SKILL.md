@@ -1,6 +1,6 @@
 ---
 name: inso-p004-anwendbarkeit-der-zivilprozessordnung
-description: "§ 4 InsO (Anwendbarkeit der Zivilprozeßordnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 4 InsO (Anwendbarkeit der Zivilprozeßordnung) im Mandat prüfen: Normzweck, Tatbestand, Beleg..."
+description: "Wenn es um Inso P004 Anwendbarkeit Der Zivilprozessordnung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 4 InsO (Anwendbarkeit der Zivilprozeßordnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

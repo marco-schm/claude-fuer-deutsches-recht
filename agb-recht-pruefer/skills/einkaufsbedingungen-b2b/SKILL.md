@@ -1,6 +1,6 @@
 ---
 name: einkaufsbedingungen-b2b
-description: "Branchen-Fachmodul für Einkaufsbedingungen B2B: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Wenn es um Einkaufsbedingungen B2B in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Einkaufsbedingungen B2B

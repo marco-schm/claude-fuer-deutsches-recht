@@ -1,6 +1,6 @@
 ---
 name: rueckforderung-aufhebung-rundfunkbeitrag
-description: "Ordnet Aufhebungs- und Rückforderungsbescheide, Vertrauensschutz, Ratenzahlung und Widerspruchsrisiken im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Rückforderung und Aufhebung in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rückforderung und Aufhebung

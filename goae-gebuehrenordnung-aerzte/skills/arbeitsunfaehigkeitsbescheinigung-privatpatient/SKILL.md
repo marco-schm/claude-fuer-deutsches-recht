@@ -1,6 +1,6 @@
 ---
 name: arbeitsunfaehigkeitsbescheinigung-privatpatient
-description: "Arbeitsunfähigkeitsbescheinigung Privatpatient: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise im Goae Gebührenordnung Aerzte."
+description: "Wenn es um Arbeitsunfähigkeitsbescheinigung Privatpatient in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Arbeitsunfähigkeitsbescheinigung Privatpatient

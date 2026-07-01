@@ -1,6 +1,6 @@
 ---
 name: nda-vergleichsmatrix-leitfaden
-description: "Leitfaden NDA-Vergleichsmatrix: relevante Klauseln vergleichen, Markup, Risikoampel, Wechselwirkungen mit Geschäftsgeheimnisgesetz. Prüfraster für Reviewteam."
+description: "Wenn es um NDA: Vergleichsmatrix in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NDA: Vergleichsmatrix

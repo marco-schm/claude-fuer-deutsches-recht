@@ -1,6 +1,6 @@
 ---
 name: bauantrag-bauordnungsamt-anordnung-behoerde
-description: "Erklärt Bauantrag, Bauvorbescheid, Nachbarbeteiligung, Unterlagen, Landesbauordnung und Fristen im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Bauantrag in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauantrag

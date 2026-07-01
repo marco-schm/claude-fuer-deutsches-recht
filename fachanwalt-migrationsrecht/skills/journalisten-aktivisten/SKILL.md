@@ -1,6 +1,6 @@
 ---
 name: journalisten-aktivisten
-description: "Journalisten/Aktivisten: Fachmodul im Migrationsrecht: prüft politische Verfolgung, digitale Belege, Exilaktivität, Quellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Journalisten/Aktivisten: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Journalisten/Aktivisten: Fachmodul im Migrationsrecht

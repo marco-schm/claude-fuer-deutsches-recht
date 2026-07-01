@@ -1,6 +1,6 @@
 ---
 name: bmwe-aussenwirtschaft-und-investitionspruefung
-description: "Sachbereich Aussenwirtschaft und Investitionspruefung im Geschäftsbereich BMWE: Normbestand (AWG; AWV (Abschnitt 5); FDI-Screening-VO (EU); KrWaffKG.); Akteure (BMWE; BMI; AA; BMF; Bundeskanzleramt.); EU-Bezug (FDI-Screening-VO; sektorale EU-Schwellen; Prüfberichte an EU.); typische Legistik-Au"
+description: "Wenn es um Außenwirtschaft und Investitionspruefung (BMWE) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Bmwe Aussenwirtschaft Und Investitionspruefung; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Außenwirtschaft und Investitionspruefung (BMWE)

@@ -1,6 +1,6 @@
 ---
 name: innenraum-versammlung-kooperationsgespraech
-description: "Grenzt öffentliche und private Versammlungen in geschlossenen Räumen von anzeigepflichtigen Versammlungen unter freiem Himmel ab im Versammlungsrecht."
+description: "Wenn es um Innenraum ist nicht automatisch behördenfrei in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Innenraum ist nicht automatisch behördenfrei

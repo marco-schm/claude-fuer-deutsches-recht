@@ -1,6 +1,6 @@
 ---
 name: inso-p104-fixgeschafte-finanzleistungen-vertragliches-liquidatio
-description: "§ 104 InsO (Fixgeschäfte, Finanzleistungen, vertragliches Liquidationsnetting) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 104 InsO (Fixgeschäfte, Finanzleistungen, vertragliches Liqui..."
+description: "Wenn es um Inso P104 Fixgeschafte Finanzleistungen Vertragliches Liquidatio in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 104 InsO (Fixgeschäfte, Finanzleistungen, vertragliches Liquidationsnetting) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

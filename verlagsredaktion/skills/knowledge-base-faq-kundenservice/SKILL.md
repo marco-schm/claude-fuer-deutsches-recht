@@ -1,6 +1,6 @@
 ---
 name: knowledge-base-faq-kundenservice
-description: "Erstellt FAQ, interne Wissensbasis und Kundenservice-Antworten zu Verlagstiteln, Updates, Downloads, Errata, Lizenzen und Produktfragen im Verlagsredaktion."
+description: "Wenn es um Knowledge Base und Kundenservice in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Knowledge Base und Kundenservice

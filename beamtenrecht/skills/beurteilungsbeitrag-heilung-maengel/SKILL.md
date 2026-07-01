@@ -1,6 +1,6 @@
 ---
 name: beurteilungsbeitrag-heilung-maengel
-description: "Skill zur rechtlichen Prüfung von Beurteilungsbeitraegen Dritter im beamtenrechtlichen Beurteilungsverfahren. Klaert wer einen Beitrag liefern muss wann ein fehlender Beitrag die Beurteilung rechtswidrig macht und wie eine fehlende Heranziehung im Verfahren geheilt werden kann. Behandelt die Kon..."
+description: "Wenn es um Beurteilungsbeitrag — Pflicht, Mangel, Heilung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beurteilungsbeitrag — Pflicht, Mangel, Heilung

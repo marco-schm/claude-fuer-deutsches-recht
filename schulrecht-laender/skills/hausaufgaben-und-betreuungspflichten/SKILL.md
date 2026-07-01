@@ -1,6 +1,6 @@
 ---
 name: hausaufgaben-und-betreuungspflichten
-description: "Prüft Hausaufgaben, Lernzeiten, Ganztag, Zumutbarkeit und pädagogischen Spielraum im Schulrecht Länder."
+description: "Wenn es um Hausaufgaben und Betreuungspflichten in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hausaufgaben und Betreuungspflichten

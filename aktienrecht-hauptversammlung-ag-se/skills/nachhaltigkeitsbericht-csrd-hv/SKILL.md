@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeitsbericht-csrd-hv
-description: "Hauptversammlung AG und SE: Nachhaltigkeitsbericht Csrd HV; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Nachhaltigkeitsbericht Csrd HV in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachhaltigkeitsbericht Csrd HV

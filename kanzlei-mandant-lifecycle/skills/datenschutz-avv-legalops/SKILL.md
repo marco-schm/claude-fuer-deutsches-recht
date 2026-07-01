@@ -1,6 +1,6 @@
 ---
 name: datenschutz-avv-legalops
-description: "Datenschutz bei Legal-Ops-Tools: steuert Matter-Management, eBilling, KI-Tool, DMS und gemeinsame Dashboards datenschutz- und berufsrechtsfest machen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-..."
+description: "Wenn es um Datenschutz bei Legal-Ops-Tools in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz bei Legal-Ops-Tools

@@ -1,6 +1,6 @@
 ---
 name: leasingvertrag-redline-fuer-leasingnehmer
-description: "Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klauseln identifizieren, Gegenentwürfe formulieren, Verhandlungsstrategie und Risikoabsicherung im Leasingrecht."
+description: "Wenn es um Leasingvertrag-Redline: Leasingnehmerperspektive in Leasingrecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Leasingvertrag-Redline: Leasingnehmerperspektive

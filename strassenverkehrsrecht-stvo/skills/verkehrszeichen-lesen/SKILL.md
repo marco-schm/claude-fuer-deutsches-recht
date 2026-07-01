@@ -1,6 +1,6 @@
 ---
 name: verkehrszeichen-lesen
-description: "Straßenverkehrsrecht StVO: Verkehrszeichen lesen. Verkehrszeichen lesen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rech..."
+description: "Wenn es um Verkehrszeichen Lesen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verkehrszeichen Lesen

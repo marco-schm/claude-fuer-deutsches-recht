@@ -1,6 +1,6 @@
 ---
 name: btmg-kcang-sitzungsdienst
-description: "BtMG/KCanG im Sitzungsdienst: Praxis-Skill für neue Staatsanwälte zu Substanz, Menge, Wirkstoff, Eigenverbrauch, Handeltreiben und Strafzumessung in typischen Akten prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um BtMG/KCanG im Sitzungsdienst in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # BtMG/KCanG im Sitzungsdienst

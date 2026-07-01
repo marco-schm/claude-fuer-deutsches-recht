@@ -1,6 +1,6 @@
 ---
 name: elektrog-ear-mengenmeldung
-description: "ElektroG: Herstellerregistrierung, Gerätearten, Mengenmeldungen, Rücknahme, Bevollmächtigter und Marktplatzrisiko im Berichtspflichten."
+description: "Wenn es um ElektroG ear und Mengenmeldung in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ElektroG ear und Mengenmeldung

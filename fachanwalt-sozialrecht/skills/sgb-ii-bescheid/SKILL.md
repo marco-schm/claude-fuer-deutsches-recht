@@ -1,6 +1,6 @@
 ---
 name: sgb-ii-bescheid
-description: "Fachanwalt Sozialrecht Sgb Ii Bescheid: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Sozialrecht Sgb Ii Bescheid: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Recht..."
+description: "Wenn es um Sgb Ii Bescheid in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Sozialrecht Sgb Ii Bescheid: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

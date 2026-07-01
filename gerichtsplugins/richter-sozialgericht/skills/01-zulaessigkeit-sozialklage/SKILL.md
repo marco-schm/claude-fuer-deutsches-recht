@@ -1,6 +1,6 @@
 ---
 name: 01-zulaessigkeit-sozialklage
-description: "Zulässigkeit Paragrafen 51 ff. SGG: Rechtsweg, Klagearten (Anfechtung Leistung Untaetigkeit Feststellung), Vorverfahren Paragraf 78, Klagefrist Paragraf 87, Klagebefugnis"
+description: "Wenn es um 01 Zulässigkeit Sozialklage in Sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 01 Zulässigkeit Sozialklage

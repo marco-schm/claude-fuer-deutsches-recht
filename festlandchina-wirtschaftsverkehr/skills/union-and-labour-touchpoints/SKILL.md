@@ -1,6 +1,6 @@
 ---
 name: union-and-labour-touchpoints
-description: "Gewerkschaft und Arbeitsrecht in China: ACFTU (All-China Federation of Trade Unions) Pflichtgewerkschaft, Betriebsvereinbarungen (Collective Contracts), Mindestlohn CN je Provinz, Kündigungsschutz (Labor Contract Law 2008), Streikrecht faktisch eingeschränkt, LkSG-Indikator Vereinigungsfreiheit...."
+description: "Wenn es um Arbeitsrecht und Gewerkschaft China: ACFTU/LCA/LkSG in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsrecht und Gewerkschaft China: ACFTU/LCA/LkSG

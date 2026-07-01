@@ -1,6 +1,6 @@
 ---
 name: weg-einfuehrung-organe-beschluesse
-description: "Wohnungseigentumsrecht-Einfuehrung: Eigentuemerversammlung, Verwalter, Verwaltungsbeirat: Beschlussarten (einfache Mehrheit, qualifizierte Mehrheit, Allstimmigkeit), B..."
+description: "Wenn es um Wohnungseigentumsrecht-Einfuehrung: Eigentuemerversammlung, Verwalter, Verwaltungsbeirat in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnungseigentumsrecht-Einfuehrung: Eigentuemerversammlung, Verwalter, Verwaltungsbeirat

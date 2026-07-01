@@ -1,6 +1,6 @@
 ---
 name: mitbestimmung-bverfge-50-290
-description: Mitbestimmungs-Urteil BVerfGE Band 50 Seite 290 vom 01.03.1979 als Lehrstueck fuer Einschaetzungspraerogative des Gesetzgebers und intensive Prüfungsdichte bei Eigentum und Berufsfreiheit. Mit Sachverhalt MitbestG 1976 und Kontrolldichte.
+description: "Wenn es um Mitbestimmung BVerfGE 50 290 in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mitbestimmung BVerfGE 50 290

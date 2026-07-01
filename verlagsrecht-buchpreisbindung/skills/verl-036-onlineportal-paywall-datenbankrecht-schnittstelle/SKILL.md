@@ -1,6 +1,6 @@
 ---
 name: verl-036-onlineportal-paywall-datenbankrecht-schnittstelle
-description: "Verlagsrecht: Onlineportal Paywall Datenbankrecht Schnittstelle mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Onlineportal Paywall Datenbankrecht Schnittstelle in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Onlineportal Paywall Datenbankrecht Schnittstelle

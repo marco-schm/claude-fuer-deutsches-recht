@@ -1,6 +1,6 @@
 ---
 name: energieausweis-mietrecht
-description: "Energieausweis: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Vorlage, Inserat, Pflichtverletzung, GEG-Schnittstelle; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Energieausweis: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energieausweis: Fachmodul im Miet- und Wohnungseigentumsrecht

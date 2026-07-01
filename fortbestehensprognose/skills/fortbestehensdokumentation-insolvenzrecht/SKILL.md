@@ -1,6 +1,6 @@
 ---
 name: fortbestehensdokumentation-insolvenzrecht
-description: "Fortbestehensdokumentation mit insolvenzrechtlicher Tragfähigkeit: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Fortbestehensprognose."
+description: "Wenn es um Fortbestehensdokumentation mit insolvenzrechtlicher Tragfähigkeit in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fortbestehensdokumentation mit insolvenzrechtlicher Tragfähigkeit

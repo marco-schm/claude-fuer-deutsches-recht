@@ -1,6 +1,6 @@
 ---
 name: rechtsmittel-berufsgericht-praevention
-description: "Rechtsmittel im Berufsgericht (Präventions- und Organisationspaket): steuert Berufung, Antrag auf Zulassung, sofortige Beschwerde, Frist und Begründungsdichte mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie..."
+description: "Wenn es um Rechtsmittel im Berufsgericht: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsmittel im Berufsgericht: Präventions- und Organisationspaket

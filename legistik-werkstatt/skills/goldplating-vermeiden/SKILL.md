@@ -1,6 +1,6 @@
 ---
 name: goldplating-vermeiden
-description: "Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten. Anwendungsfall Referentenentwurf setzt EU-Richtlinie um und muss auf ueberschiessende nationale Regelungen über den Richtlinien-Mindeststandard hinaus geprüft werden. Vorgabe Bundesregierung 1-zu-1-Umsetzung. Differe"
+description: "Wenn es um Goldplating vermeiden in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Goldplating Vermeiden; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Goldplating vermeiden

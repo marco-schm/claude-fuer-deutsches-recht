@@ -1,6 +1,6 @@
 ---
 name: gerichts-behoerdenkommunikation
-description: "Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat. Strukturierte Korrespondenz mit Registergerichten, Grundbuchämtern, Finanzämtern und Familien-/Betreuungsgerichten im Notariat."
+description: "Wenn es um Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat

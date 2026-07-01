@@ -1,6 +1,6 @@
 ---
 name: benchmarking-market
-description: "Nutzt Marktvergleiche vorsichtig für Rates, Gehälter, Profitabilität und Größe. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Benchmarking und Marktvergleich in Kanzlei Management geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Benchmarking und Marktvergleich

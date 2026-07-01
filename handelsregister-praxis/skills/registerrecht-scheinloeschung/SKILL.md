@@ -1,6 +1,6 @@
 ---
 name: registerrecht-scheinloeschung
-description: "Prüft Restvermögen, Prozessfähigkeit, Bestellung Nachtragsliquidator und Registereintragung im Handelsregister Praxis."
+description: "Wenn es um Nachtragsliquidation in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachtragsliquidation

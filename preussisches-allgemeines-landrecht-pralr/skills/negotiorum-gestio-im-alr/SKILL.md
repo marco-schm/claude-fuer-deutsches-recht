@@ -1,6 +1,6 @@
 ---
 name: negotiorum-gestio-im-alr
-description: "Geschäftsführung ohne Auftrag (negotiorum gestio) im ALR. Skill behandelt ALR I 13 §§ 207-251 zur GoA das Verhältnis zur roemischen actio negotiorum gestorum die Aufwendungsersatzlogik und die Fortwirkung in §§ 677-687 BGB. Liefert Quellenmatrix."
+description: "Wenn es um Pralr Negotiorum Gestio Im Alr in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Negotiorum Gestio Im Alr

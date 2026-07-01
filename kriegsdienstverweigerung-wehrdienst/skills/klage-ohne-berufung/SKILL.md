@@ -1,6 +1,6 @@
 ---
 name: klage-ohne-berufung
-description: "Erklärt § 10 KDVG und warum erstinstanzliche Sorgfalt besonders wichtig ist im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Klage ohne normale Berufung in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klage ohne normale Berufung

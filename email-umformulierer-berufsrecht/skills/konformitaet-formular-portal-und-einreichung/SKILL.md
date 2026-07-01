@@ -1,6 +1,6 @@
 ---
 name: konformitaet-formular-portal-und-einreichung
-description: "Konformitaet: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Konformitaet: Formular, Portal und Einreichungslogik in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Konformitaet Formular Portal Und Einreichung; Arbeitsfeld: E-Mail-Umformulierer."
 ---
 
 # Konformitaet: Formular, Portal und Einreichungslogik

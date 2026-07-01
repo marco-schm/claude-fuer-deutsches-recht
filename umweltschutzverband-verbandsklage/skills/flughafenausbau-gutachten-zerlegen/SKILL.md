@@ -1,6 +1,6 @@
 ---
 name: flughafenausbau-gutachten-zerlegen
-description: "Umweltschutzverband Verbandsklage: Flughafenausbau: Gutachten zerlegen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Flughafenausbau Gutachten Zerlegen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Flughafenausbau Gutachten Zerlegen

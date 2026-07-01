@@ -1,6 +1,6 @@
 ---
 name: btm-046-heroin-therapiepfad-pruefen
-description: "Betäubungsmittelrecht: Heroin: Therapiepfad prüfen. Therapiepfad prüfen für Heroin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Heroin Therapiepfad Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Heroin Therapiepfad Pruefen

@@ -1,6 +1,6 @@
 ---
 name: usa-tiers-of-scrutiny
-description: Tiers of scrutiny des US Supreme Court als Prüfungsmuster fuer Eingriffe in Grundrechte und Gleichheitsfragen mit strict scrutiny intermediate scrutiny und rational basis review. Mit Korematsu Grutter Adarand Craig v Boren Romer und Hinweisen zur Rezeption deutscher Verhältnismäßigkeit und zur Sonderstruktur des Substantive Due Process unter dem 14th Amendment.
+description: "Wenn es um USA Tiers of Scrutiny in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # USA Tiers of Scrutiny

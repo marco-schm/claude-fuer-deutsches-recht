@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg und Routing für formale Parteiorganisation: Satzung, Mitgliederrechte, Versammlungen, Wahlen, Wahlvorschläge, Parteigericht, Spenden und Rechenschaft."
+description: "Wenn es um Parteienrecht — Allgemein in Parteienrecht und Parteiorganisation geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Parteienrecht — Allgemein

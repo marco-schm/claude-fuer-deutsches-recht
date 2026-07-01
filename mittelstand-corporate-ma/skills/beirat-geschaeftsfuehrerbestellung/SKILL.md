@@ -1,6 +1,6 @@
 ---
 name: beirat-geschaeftsfuehrerbestellung
-description: "GmbH-Beirat: Beirat Geschäftsführerbestellung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Mittelstand Corporate Ma."
+description: "Wenn es um Beirat Geschäftsführerbestellung in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Geschäftsführerbestellung

@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Markenrecht Fashion/Luxus: stimmt Adressat (Markeninhaber, Verletzer, Konkurrent), Frist (Widerspruch 3 Monate § 42 MarkenG) und Form auf den Zweck ab — typische Outputs: Anmeldung Marke, Widerspruch, Unterlassungsklage."
+description: "Wenn es um Output wählen in markenrecht-fashion-luxus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

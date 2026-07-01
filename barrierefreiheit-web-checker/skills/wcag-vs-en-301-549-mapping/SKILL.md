@@ -1,6 +1,6 @@
 ---
 name: wcag-vs-en-301-549-mapping
-description: "Mapping WCAG 2.2 zu EN 301 549 V 3.2.1: WCAG-Erfolgskriterien, EN-Klauseln, BITV-Anforderungen in Tabelle: Prüfraster welche Anforderung welche Norm..."
+description: "Wenn es um Wcag Vs En 301 549 Mapping in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mapping WCAG 2.2 zu EN 301 549 V 3.2.1: WCAG-Erfolgskriterien, EN-Klauseln, BITV-Anforderungen in Tabelle

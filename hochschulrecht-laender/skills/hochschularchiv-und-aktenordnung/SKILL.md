@@ -1,6 +1,6 @@
 ---
 name: hochschularchiv-und-aktenordnung
-description: "Prüft Archivierung, Aktenordnung, Prüfungsakten, Forschungsdaten und Löschfristen im Hochschulrecht Länder."
+description: "Wenn es um Hochschularchiv und Aktenordnung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hochschularchiv und Aktenordnung

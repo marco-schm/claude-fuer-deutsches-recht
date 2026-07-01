@@ -1,6 +1,6 @@
 ---
 name: cas-berufung-vorbereiten
-description: "Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne anfechten: Art. R49 CAS Code Fri..."
+description: "Wenn es um Cas Berufung Vorbereiten in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne anfechten

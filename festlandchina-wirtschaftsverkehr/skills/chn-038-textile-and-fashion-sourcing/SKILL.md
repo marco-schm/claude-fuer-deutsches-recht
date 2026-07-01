@@ -1,6 +1,6 @@
 ---
 name: chn-038-textile-and-fashion-sourcing
-description: "Festlandchina Wirtschaftsverkehr: Textile And Fashion Sourcing. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Textile And Fashion Sourcing in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Textile And Fashion Sourcing

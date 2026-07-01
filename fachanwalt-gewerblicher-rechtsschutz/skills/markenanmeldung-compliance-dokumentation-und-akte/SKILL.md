@@ -1,6 +1,6 @@
 ---
 name: markenanmeldung-compliance-dokumentation-und-akte
-description: "Markenanmeldung: Compliance, Dokumentation und Aktenführung: Vor-Anmeldungs-Recherche, Klassifikation (Nizza), DPMA/EUIPO-Formulare, Anmeldeakte, Vollmachten, Fristen-Tracking, Benutzungsnachweis-..."
+description: "Wenn es um Markenanmeldung: Compliance, Dokumentation und Aktenführung in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Markenanmeldung: Compliance, Dokumentation und Aktenführung

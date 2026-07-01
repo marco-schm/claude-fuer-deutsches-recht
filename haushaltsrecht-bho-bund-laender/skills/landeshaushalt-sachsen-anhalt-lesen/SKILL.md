@@ -1,6 +1,6 @@
 ---
 name: landeshaushalt-sachsen-anhalt-lesen
-description: "Haushaltsrecht BHO Bund und Länder: Landeshaushalt Sachsen-Anhalt lesen. Landeshaushalt Sachsen-Anhalt lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschläg..."
+description: "Wenn es um Landeshaushalt Sachsen Anhalt Lesen in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Landeshaushalt Sachsen Anhalt Lesen

@@ -1,6 +1,6 @@
 ---
 name: nda-rueckgabe-vernichtung
-description: "Rueckgabe und Vernichtung Vertraulicher Information: Pflicht, Bestaetigung, Backup-Ausnahme (technisch unmoeglich zu loeschende Backups). Bei Daten in Cloud: Loeschbestaetigung Vendor erforderlich. Wortlautempfehlungen."
+description: "Wenn es um NDA: Rueckgabe/Vernichtung in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nda Rueckgabe Vernichtung; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # NDA: Rueckgabe/Vernichtung

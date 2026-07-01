@@ -1,6 +1,6 @@
 ---
 name: unterhaltsschulden
-description: "Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget: Normanker: InsO § 302 Nr. 1;..."
+description: "Wenn es um Unterhaltsschulden in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget.

@@ -1,6 +1,6 @@
 ---
 name: abgeordnetengesetze-laender
-description: "Live-Check für Landesabgeordnetengesetze, Transparenzregeln, Spenden, Nebentätigkeiten und Fristen."
+description: "Wenn es um Abgeordnetengesetze Länder in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abgeordnetengesetze Länder

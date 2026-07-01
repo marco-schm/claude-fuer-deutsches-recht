@@ -1,6 +1,6 @@
 ---
 name: kg-begriff-kommanditist
-description: "Prüft KG, Komplementär, Kommanditist, Hafteinlage, Pflichteinlage und Haftsumme im Handelsrecht Hgb."
+description: "Wenn es um KG Begriff und Kommanditist in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KG Begriff und Kommanditist

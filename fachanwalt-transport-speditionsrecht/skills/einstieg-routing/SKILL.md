@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Transport- und Speditionsrecht: ordnet Rolle (Absender, Frachtführer, Empfänger), markiert Frist (CMR Klage 1 Jahr / 3 Jahre Vorsatz), wählt Norm (HGB §§ 407 ff. Frachtrecht, CMR (Straße), Montrealer Übk. (Luft)) und Zuständigkeit (Handelsgericht), leit..."
+description: "Wenn es um Einstieg und Routing in Fachanwalt Transport Speditionsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

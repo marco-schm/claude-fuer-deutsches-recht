@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-organisationsverschulden-ersteinschaetzung
-description: "Datenschutzrecht-Brückenskill: Organisationsverschulden ersteinschätzen: Schuldhaftes Unternehmensverhalten nach EuGH C-807/21/C-683/21 anhand Organisation, Wissen und Pflichtverstoß prüfen: Datenschutzrecht-Brückenskill: Organisationsverschulden ersteinsch..."
+description: "Wenn es um Dsv Sanktion Organisationsverschulden Ersteinschaetzung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Organisationsverschulden ersteinschätzen: Schuldhaftes Unternehmensverhalten nach EuGH C-807/21/C-683/21 anhand Organisation, Wissen und Pflichtverstoß prüfen

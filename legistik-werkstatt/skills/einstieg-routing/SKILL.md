@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Legistik-Werkstatt (Gesetzgebung): ordnet Rolle (Ressort, Bundesrat, Bundestag), markiert Frist (Beteiligungsfristen), wählt Norm (GGO Bundesregierung, Handbuch der Rechtsförmlichkeit (HdR)) und Zuständigkeit (BMJ), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Legistik-Werkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

@@ -1,6 +1,6 @@
 ---
 name: inso-schuldschein-darlehen-in-der-insolvenz
-description: "Prüft Schuldscheindarlehen im Insolvenzverfahren: Forderungsanmeldung, Rang, Abtretung, Sicherheiten, Zahlstelle, Gläubigeridentität und Anfechtung im Insolvenzrecht."
+description: "Wenn es um Insolvenz: Schuldscheindarlehen in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Insolvenz: Schuldscheindarlehen

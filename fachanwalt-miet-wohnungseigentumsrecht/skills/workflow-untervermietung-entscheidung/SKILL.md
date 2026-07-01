@@ -1,6 +1,6 @@
 ---
 name: workflow-untervermietung-entscheidung
-description: "Untervermietung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht: klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko; mit Kaltstart, Fristencheck, Belegm..."
+description: "Wenn es um Untervermietung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Untervermietung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht

@@ -1,6 +1,6 @@
 ---
 name: spezial-nutzerquelle-red-team-und-qualitaetskontrolle
-description: "Nutzerquelle: Red-Team und Qualitätskontrolle im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Nutzerquelle: Red-Team und Qualitätskontrolle in Zitierweise deutsches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nutzerquelle: Red-Team und Qualitätskontrolle

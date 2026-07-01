@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-vergewaltigung-177-stgb
-description: "Sexualdelikte nach § 177 StGB nach Reform 2016 Nein heisst Nein: Sexueller Uebergriff Abs. 1; Regelbeispiele Abs. 2; sexuelle Noetigung Abs. 5; Qualifikationen Abs. 6 Vergewaltigung; Abs. 7 sc..."
+description: "Wenn es um Sexualdelikte nach Paragraf 177 StGB nach Reform 2016 Nein heisst Nein in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sexualdelikte nach § 177 StGB nach Reform 2016 Nein heisst Nein

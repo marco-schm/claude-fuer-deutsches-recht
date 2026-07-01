@@ -1,6 +1,6 @@
 ---
 name: wettbewerb-ki-flaschenhaelse-big-tech
-description: "KI-Flaschenhälse und Big-Tech-Wettbewerb: Datenzugang, Cloud-Abhängigkeit, Modellzugang, Selbstbevorzugung, Interoperabilität, Kartellrecht, DMA/DSA/Data Act und Beschaffungsrisiken."
+description: "Wenn es um digitale Werkzeuge-Flaschenhälse, Big Tech und Wettbewerb in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI-Flaschenhälse, Big Tech und Wettbewerb

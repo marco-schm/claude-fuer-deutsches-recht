@@ -1,6 +1,6 @@
 ---
 name: courier-platform-worker
-description: "Prüft Plattformarbeiter, Kurierdienste, App-Steuerung, Algorithmic Management und Statusindizien im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Kurier und Plattformarbeit in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kurier und Plattformarbeit

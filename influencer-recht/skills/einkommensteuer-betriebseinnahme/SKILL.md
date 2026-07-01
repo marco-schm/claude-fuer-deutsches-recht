@@ -1,6 +1,6 @@
 ---
 name: einkommensteuer-betriebseinnahme
-description: "Influencer-Recht: Einkommensteuer für Creator – Betriebseinnahmen, private Nutzung von Betriebsmitteln, Abgrenzung und EÜR-Grundlagen im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Einkommensteuer – Betriebseinnahme und private Nutzung in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Influencer-Recht: Einkommensteuer – Betriebseinnahme und private Nutzung

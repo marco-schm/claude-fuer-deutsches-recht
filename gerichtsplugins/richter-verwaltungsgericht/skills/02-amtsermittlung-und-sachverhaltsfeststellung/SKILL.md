@@ -1,6 +1,6 @@
 ---
 name: 02-amtsermittlung-und-sachverhaltsfeststellung
-description: "Amtsermittlungsgrundsatz Paragraf 86 VwGO, Ladung der Behoerde zur Vorlage der Akten Paragraf 99 VwGO, Sachverhaltsaufklärung, Beteiligtenvernehmung"
+description: "Wenn es um 02 Amtsermittlung und Sachverhaltsfeststellung in Verwaltungsgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 02 Amtsermittlung und Sachverhaltsfeststellung

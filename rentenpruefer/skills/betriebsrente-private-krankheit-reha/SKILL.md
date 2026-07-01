@@ -1,6 +1,6 @@
 ---
 name: betriebsrente-private-krankheit-reha
-description: "Betriebsrente und private Vorsorge als Schnittstelle zur gesetzlichen Rente: Informationsgleichlauf, Versorgungslücken, Steuern und Krankenversicherung im Rentenpruefer."
+description: "Wenn es um betriebsrente-und-private-vorsorge-schnittstelle in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # betriebsrente-und-private-vorsorge-schnittstelle

@@ -1,6 +1,6 @@
 ---
 name: doppelboeden-und-verneinungen
-description: Erkennung von doppelten Verneinungen und versteckten Abschwaecher-Konstruktionen im Arbeitszeugnis als Negativcodes, die sprachlich positiv klingen aber eine eingeschraenkte oder negative Bewertung transportieren.
+description: "Wenn es um Doppelboeden und Verneinungen erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Doppelboeden und Verneinungen erkennen

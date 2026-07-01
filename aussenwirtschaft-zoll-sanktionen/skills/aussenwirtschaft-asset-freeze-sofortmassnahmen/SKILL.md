@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-asset-freeze-sofortmassnahmen
-description: "Vertiefter Skill fuer Asset Freeze Sofortmassnahmen. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: "Wenn es um Asset Freeze Sofortmassnahmen in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Asset Freeze Sofortmassnahmen

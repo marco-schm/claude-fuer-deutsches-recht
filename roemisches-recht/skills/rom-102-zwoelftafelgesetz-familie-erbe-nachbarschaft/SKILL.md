@@ -1,6 +1,6 @@
 ---
 name: rom-102-zwoelftafelgesetz-familie-erbe-nachbarschaft
-description: "Römisches Recht: Zwölftafelgesetz zu Hausverband, patria potestas, Erbfolge, Vormundschaft, Nachbarschaft und Grenzkonflikten."
+description: "Wenn es um Zwölftafelgesetz - Familie, Erbe und Nachbarschaft in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zwölftafelgesetz - Familie, Erbe und Nachbarschaft

@@ -1,6 +1,6 @@
 ---
 name: speditionsvertrag-paragraphen-453-466-hgb
-description: "Prüft Spediteur, Besorgung der Versendung, Selbsteintritt, Sammelladung, Haftung im Handelsrecht Hgb."
+description: "Wenn es um Speditionsvertrag Paragrafen 453 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Speditionsvertrag §§ 453 ff. HGB

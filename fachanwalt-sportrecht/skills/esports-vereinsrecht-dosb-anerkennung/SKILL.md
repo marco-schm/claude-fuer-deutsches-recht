@@ -1,6 +1,6 @@
 ---
 name: esports-vereinsrecht-dosb-anerkennung
-description: "eSports-Organisator oder Verein fragt ob DOSB-Anerkennung möglich und wie steuerliche Gemeinnuetzigkeit erreichbar ist: § 52 AO Gemeinnue..."
+description: "Wenn es um Esports Vereinsrecht Dosb Anerkennung in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # eSports-Organisator oder Verein fragt ob DOSB-Anerkennung möglich und wie steuerliche Gemeinnuetzigkeit erreichbar ist

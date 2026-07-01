@@ -1,6 +1,6 @@
 ---
 name: dienstunfaehigkeit-amtsaerztliches
-description: "Skill zum amtsaerztlichen Gutachten im Verfahren der Dienstunfaehigkeit. Klaert die Mitwirkungspflicht des Beamten an der Untersuchung den Vorrang des amtsaerztlichen Gutachtens vor dem Privatgutachten die Anforderungen an Begruendung und Nachvollziehbarkeit den Anspruch auf Kenntnisnahme des Gut..."
+description: "Wenn es um Amtsaerztliches Gutachten Dienstunfaehigkeit in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Amtsaerztliches Gutachten Dienstunfaehigkeit

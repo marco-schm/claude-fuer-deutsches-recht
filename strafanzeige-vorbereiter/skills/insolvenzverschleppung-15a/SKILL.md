@@ -1,6 +1,6 @@
 ---
 name: insolvenzverschleppung-15a
-description: "Insolvenzverschleppung anzeigen: Organstellung, Zahlungsunfähigkeit/Überschuldung, Fristen, Gläubigerschaden und Belege im Strafanzeige-Vorbereitung."
+description: "Wenn es um Insolvenzverschleppung Paragraf 15a InsO in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenzverschleppung § 15a InsO

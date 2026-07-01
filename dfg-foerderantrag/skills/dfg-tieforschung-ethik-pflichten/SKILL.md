@@ -1,6 +1,6 @@
 ---
 name: dfg-tieforschung-ethik-pflichten
-description: "Tierversuchsethik-Pflichten in DFG-Antraegen: 3R-Prinzip (Replace, Reduce, Refine), TierSchG, TierSchVersV, Tierversuchsantrag bei der Behörde parallel zur DFG. DFG-Senatskommission für tierexperimentelle Forschung. Ethik-Sektion im Antrag, Belastungsstufen, alternative Methoden. Routet in dfg-ki..."
+description: "Wenn es um Tierforschungs-Ethikpflichten in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Tierforschungs-Ethikpflichten

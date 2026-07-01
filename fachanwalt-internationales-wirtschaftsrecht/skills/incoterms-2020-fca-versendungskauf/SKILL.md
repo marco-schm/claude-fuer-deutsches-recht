@@ -1,6 +1,6 @@
 ---
 name: incoterms-2020-fca-versendungskauf
-description: "Incoterms 2020 fca Versendungskauf: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Incoterms 2020 fca Versendungskauf in Fachanwalt Internationales Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Incoterms 2020 fca Versendungskauf

@@ -1,6 +1,6 @@
 ---
 name: prozessstrategie-mieterhoehung
-description: "Prozessstrategie bei Mieterhöhung, Belegen und Sachverständigenrisiko: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Mietrecht."
+description: "Wenn es um Prozessstrategie bei Mieterhöhung, Belegen und Sachverständigenrisiko in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Prozessstrategie bei Mieterhöhung, Belegen und Sachverständigenrisiko

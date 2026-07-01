@@ -1,6 +1,6 @@
 ---
 name: stabilisierung-stakeholder
-description: "StaRUG-Stabilisierungsmassnahmen beantragen wenn Vollstreckungsdruck die Planarbeit gefaehrdet. §§ 49 50 51 StaRUG Stabilisierungsanordnung. Prüfraster: Stabilisierungsbedarf Verhältnismäßigkeit Gläubiger Dauer Insolvenznaehe Organpflichten Kommunikationslinie. Output: Stabilisierungsantrag Betro..."
+description: "Wenn es um StaRUG-Stabilisierung in Insolvenzplan- und StaRUG-Planwerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # StaRUG-Stabilisierung

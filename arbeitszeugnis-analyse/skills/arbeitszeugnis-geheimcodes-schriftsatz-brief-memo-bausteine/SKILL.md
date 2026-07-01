@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-geheimcodes-schriftsatz-brief-memo-bausteine
-description: "Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine in Arbeitszeugnis-Analyse geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: beurkundungspruefung-quellenkarte-check
-description: "Beurkundungspruefung Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Beurkundungspruefung Quellenkarte Check in Wandeldarlehen-Lebenszyklus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beurkundungspruefung Quellenkarte Check

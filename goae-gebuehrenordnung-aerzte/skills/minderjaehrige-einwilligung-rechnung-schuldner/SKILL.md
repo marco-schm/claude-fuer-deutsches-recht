@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-einwilligung-rechnung-schuldner
-description: "Minderjährige Einwilligung Rechnung Schuldner: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise im Goae Gebührenordnung Aerzte."
+description: "Wenn es um Minderjährige Einwilligung Rechnung Schuldner in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Minderjährige Einwilligung Rechnung Schuldner

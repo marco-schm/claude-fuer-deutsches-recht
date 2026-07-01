@@ -1,6 +1,6 @@
 ---
 name: patentanwaelte-uebersetzung-und-verantwortung-organisationspfli
-description: "Patentanwälte: uebersetzung und verantwortung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Patentanwaelte Uebersetzung Und Verantwortung Organisationspfli in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: uebersetzung und verantwortung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: video-audio-kug-201
-description: "Video-/Audioaufnahmen als Beweis: Recht am Bild, Vertraulichkeit des Wortes, öffentliche Situation, Polizei/Versammlung und Veröffentlichungsverbot im Strafanzeige-Vorbereitung."
+description: "Wenn es um Video, Audio, KUG und Paragraf 201 StGB in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Video, Audio, KUG und § 201 StGB

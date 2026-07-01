@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-ausweisung-widerspruch
-description: "Mandant erhielt Ausweisungsverfuegung und will Widerspruch oder Klage einlegen oder Rechtsschutz beantragen. Prüfraster § 53 AufenthG Ausweisung Reform 2016 Drei-Stufen-Prüfung Ausweisungsinteresse §§ 54 55 AufenthG Bleibe-Interesse Abwaegung. Aufenthaltstitel-Widerruf Familienschutz Art. 6 GG Art. 8 EMRK EuGH-Linie. Output Widerspruchs-Schriftsatz Klageschrift VG Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Abschiebung."
+description: "Wenn es um Ausweisung-Widerspruch Paragraf 53 AufenthG in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ausweisung-Widerspruch § 53 AufenthG

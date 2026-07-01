@@ -1,6 +1,6 @@
 ---
 name: verl-honorarrechnung-erstellen-pruefen
-description: "Honorarrechnung erstellen und pruefen: Pflichtangaben, USt-Behandlung, Kleinunternehmer, Reverse Charge, Auslandsautoren, KSK. Mit Musterrechnungen fuer Aufsatz, Beitrag, Werk."
+description: "Wenn es um Honorarrechnung erstellen und pruefen in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Honorarrechnung erstellen und pruefen

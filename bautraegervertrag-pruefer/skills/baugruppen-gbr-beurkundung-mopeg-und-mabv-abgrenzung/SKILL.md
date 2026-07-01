@@ -1,6 +1,6 @@
 ---
 name: baugruppen-gbr-beurkundung-mopeg-und-mabv-abgrenzung
-description: "Prüft Baugruppen-GbR als Alternative zum Bauträgervertrag: § 311b BGB, §§ 705 ff. BGB nach MoPeG, WEG-Teilung, Beurkundungspflicht, Heilung, Bruchteilseigentum, Haftung, Nachschüsse und fehlende MaBV-Sicherung."
+description: "Wenn es um Baugruppen-GbR, Beurkundung, MoPeG und MaBV-Abgrenzung in Bauträgervertrag-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Baugruppen-GbR, Beurkundung, MoPeG und MaBV-Abgrenzung

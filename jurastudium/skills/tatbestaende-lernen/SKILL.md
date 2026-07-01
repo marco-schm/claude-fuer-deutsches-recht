@@ -1,6 +1,6 @@
 ---
 name: tatbestaende-lernen
-description: "Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwendungsfall Student muss Tatbestaende und Definitionen sicher beherrschen für Klausuren und Examen: Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwendungsfall Student muss Tatb..."
+description: "Wenn es um Tatbestaende Lernen in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwendungsfall Student muss Tatbestaende und Definitionen sicher beherrschen für Klausuren und Examen

@@ -1,6 +1,6 @@
 ---
 name: minority-investment-und-protective-rights
-description: "Prüft Minderheitsbeteiligungen mit Informations-, Vetorechten, Verwässerungsschutz und Exit-Rechten im Private Equity Praxis."
+description: "Wenn es um Minority Investment und Protective Rights in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Minority Investment und Protective Rights

@@ -1,6 +1,6 @@
 ---
 name: beweis-sicherung
-description: "Unterstützt Handelsvertreter und Unternehmer bei der Beweissicherung für Provisionsstreitigkeiten: Sicherung von Verträgen, Abrechnungen, E-Mails, CRM-Daten und Kundenkorrespondenz; selbständiges Beweisverfahren nach §§ 485 ff. ZPO; digitale Beweismittel und deren Verwertbarkeit vor Gericht im Ha..."
+description: "Wenn es um Beweissicherung im Handelsvertreterstreit nach Paragrafen 485 ff. ZPO in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweissicherung im Handelsvertreterstreit nach §§ 485 ff. ZPO

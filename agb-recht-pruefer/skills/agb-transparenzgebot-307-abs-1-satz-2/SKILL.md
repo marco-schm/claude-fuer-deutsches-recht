@@ -1,6 +1,6 @@
 ---
 name: agb-transparenzgebot-307-abs-1-satz-2
-description: "AGB Transparenzgebot § 307 Abs. 1 Satz 2 BGB. Skill arbeitet die BGH-Linie zum Transparenzgebot aus Bestimmtheitserfordernis Verstaendlichkeit Vorhersehbarkeit der Klauselwirkung und Schutz vor verschachtelten Verweisen. Behandelt typische Verstoesse Cookie-Banner Preisanpassung Schiedsklauseln...."
+description: "Wenn es um Agb Transparenzgebot 307 Abs 1 Satz 2 in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Transparenzgebot 307 Abs 1 Satz 2

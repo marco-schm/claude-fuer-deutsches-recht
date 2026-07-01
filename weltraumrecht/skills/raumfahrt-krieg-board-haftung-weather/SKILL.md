@@ -1,6 +1,6 @@
 ---
 name: raumfahrt-krieg-board-haftung-weather
-description: "Weltraumrecht im bewaffneten Konflikt – OST Art. IV, humanitäres Völkerrecht, Dual-Use im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Raumfahrt im Krieg: Neutralität und Sanktionen in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Raumfahrt im Krieg: Neutralität und Sanktionen

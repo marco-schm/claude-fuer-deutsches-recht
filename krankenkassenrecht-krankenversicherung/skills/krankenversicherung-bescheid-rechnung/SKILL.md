@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-bescheid-rechnung
-description: "Erstkontakt im Krankenversicherungsrecht: Bescheid analysieren, Rechnung prüfen, Frist sichern – GKV und PKV."
+description: "Wenn es um Kaltstart: Krankenversicherung – Bescheid, Rechnung und Frist in Krankenkassenrecht und Krankenversicherung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart: Krankenversicherung – Bescheid, Rechnung und Frist

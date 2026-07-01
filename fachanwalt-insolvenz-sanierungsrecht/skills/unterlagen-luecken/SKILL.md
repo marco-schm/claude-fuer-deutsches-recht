@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Insolvenz- und Sanierungsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Insolvenzantrag, Sanierungskonzept IDW S6, Plan), nennt pro Lücke Beweisthema, Beschaffungsweg (Insolvenzgericht (AG)), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

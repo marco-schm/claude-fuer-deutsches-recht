@@ -1,6 +1,6 @@
 ---
 name: hgb-publizitaet-paragraph-15
-description: "Prüft negative und positive Publizität, Bekanntmachung, Gutgläubigkeit, Dritte und Risiko falscher Registerlage."
+description: "Wenn es um Publizität und Vertrauen auf das Register in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Publizität und Vertrauen auf das Register

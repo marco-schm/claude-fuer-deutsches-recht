@@ -1,6 +1,6 @@
 ---
 name: miet-mietvertrag-bauleiter
-description: "Bauleiter Wohnraum-Mietvertrag: Schoenheitsreparaturen, Kaution, Kuendigung, Mieterhoehung, Untervermietung. Prüfraster für Vermieter und Mieter im Mietrecht."
+description: "Wenn es um Miet: Mietvertrag Bauleiter in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Miet: Mietvertrag Bauleiter

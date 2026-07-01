@@ -1,6 +1,6 @@
 ---
 name: ropa-art-30-dsgvo-grundlagen
-description: "Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten nach Art. 30 DSGVO. Anwendungsbereich, Schwellenwert, Mindestinhalte Controller und Processor, Verhältnis zu § 70 BDSG, Vorlagepflicht gegenueber der Aufsichtsbehoerde. Einstiegs-Skill für das Records of Processing Activities (RoPA)."
+description: "Wenn es um Verzeichnis von Verarbeitungstaetigkeiten – Art. 30 DSGVO Grundlagen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verzeichnis von Verarbeitungstaetigkeiten – Art. 30 DSGVO Grundlagen

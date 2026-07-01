@@ -1,6 +1,6 @@
 ---
 name: grundbuchberichtigung-behoerde-historische
-description: "Einigungsvertrag und Vermögensrecht: Grundbuchberichtigung prüfen. Grundbuchberichtigung prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen..."
+description: "Wenn es um Grundbuchberichtigung Prüfen in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Grundbuchberichtigung Prüfen

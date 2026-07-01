@@ -1,6 +1,6 @@
 ---
 name: verhandlung-drei-dokumente-paket
-description: "Drei-Dokumente-Ausgabe für Bauträgervertragsprüfung: Mandantenanschreiben, klauselorientiertes Gutachten und Schreiben an Bauträger/Notar mit MaBV-, AGB-, Abnahme-, Preisanpassungs-, Bausoll- und Sicherheitsforderungen."
+description: "Wenn es um Verhandlung und Drei-Dokumente-Paket in Bauträgervertrag-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Verhandlung und Drei-Dokumente-Paket

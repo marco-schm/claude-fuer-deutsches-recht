@@ -1,6 +1,6 @@
 ---
 name: haertefall-mandantenkommunikation-entscheidungsvorlage
-description: "Haertefall: Mandantenkommunikation und Entscheidungsvorlage im Zwangsvollstreckung."
+description: "Wenn es um Haertefall: Mandantenkommunikation und Entscheidungsvorlage in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haertefall: Mandantenkommunikation und Entscheidungsvorlage

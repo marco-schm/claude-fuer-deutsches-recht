@@ -1,6 +1,6 @@
 ---
 name: pflanzenschutz-internationaler-bezug-und-schnittstellen
-description: "Pflanzenschutz: Internationaler Bezug und Schnittstellen: Pflanzenschutz: Internationaler Bezug und Schnittstellen."
+description: "Wenn es um Pflanzenschutz: Internationaler Bezug und Schnittstellen in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflanzenschutz: Internationaler Bezug und Schnittstellen

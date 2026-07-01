@@ -1,6 +1,6 @@
 ---
 name: ki-im-notariat-grenzen-rechtsprechungscheck-und-red-team
-description: "Notare: ki im notariat grenzen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Ki Im Notariat Grenzen Rechtsprechungscheck Und Red Team in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: ki im notariat grenzen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

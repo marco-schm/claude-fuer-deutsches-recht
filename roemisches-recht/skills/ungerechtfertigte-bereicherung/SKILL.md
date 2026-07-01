@@ -1,6 +1,6 @@
 ---
 name: ungerechtfertigte-bereicherung
-description: "Römisches Recht: Ungerechtfertigte Bereicherung Condictiones. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Ungerechtfertigte Bereicherung Condictiones in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ungerechtfertigte Bereicherung Condictiones

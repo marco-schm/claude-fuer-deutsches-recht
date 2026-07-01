@@ -1,6 +1,6 @@
 ---
 name: mifid-wphg-anlageberatung
-description: "WpHG- und MiFID-II-Pflichten bei Anlageberatung und Vertrieb: Geeignetheit, Angemessenheit, Zielmarkt, Kosteninformation, Zuwendungen, ESG-Präferenzen und Dokumentation prüfen im Bank-Rechtsabteilung."
+description: "Wenn es um WpHG Anlageberatung in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # WpHG Anlageberatung

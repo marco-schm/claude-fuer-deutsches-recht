@@ -1,6 +1,6 @@
 ---
 name: schenkungen-und-mortisationsfragen
-description: "Römisches Recht: Schenkungen Und Mortisationsfragen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Schenkungen Und Mortisationsfragen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schenkungen Und Mortisationsfragen

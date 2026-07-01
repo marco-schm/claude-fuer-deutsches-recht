@@ -1,6 +1,6 @@
 ---
 name: fraktionsschnittstelle
-description: "Trennt Partei, Fraktion, Mandat, Ressourcen, Personal, Spenden und Öffentlichkeitsarbeit im Parteienrecht."
+description: "Wenn es um Schnittstelle Fraktion/Partei in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fraktionsschnittstelle; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Schnittstelle Fraktion/Partei

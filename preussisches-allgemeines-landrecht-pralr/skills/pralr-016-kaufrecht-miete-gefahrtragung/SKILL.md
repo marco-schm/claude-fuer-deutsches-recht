@@ -1,6 +1,6 @@
 ---
 name: pralr-016-kaufrecht-miete-gefahrtragung
-description: "PrALR: Kauf, Miete, Gefahrtragung, Kauf bricht Miete und historische Modernisierungslinien aufarbeiten."
+description: "Wenn es um Kauf und Miete in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 016 Kaufrecht Miete Gefahrtragung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Kauf und Miete

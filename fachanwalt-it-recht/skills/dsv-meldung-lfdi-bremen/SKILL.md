@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-lfdi-bremen
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Landesbeauftragte für Datenschutz und Informationsfreiheit der Freien Hansestadt Bremen (LfDI HB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bremen"
+description: "Wenn es um Reicht eine Meldung nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dsv Meldung Lfdi Bremen; Arbeitsfeld: Fachanwalt It Recht."
 ---
 
 # Reicht eine Meldung nach Art

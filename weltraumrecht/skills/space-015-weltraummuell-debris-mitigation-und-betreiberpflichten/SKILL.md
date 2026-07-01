@@ -1,6 +1,6 @@
 ---
 name: space-015-weltraummuell-debris-mitigation-und-betreiberpflichten
-description: "Weltraumrecht: Weltraummüll Debris Mitigation und Betreiberpflichten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Weltraummüll Debris Mitigation und Betreiberpflichten in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Weltraummüll Debris Mitigation und Betreiberpflichten

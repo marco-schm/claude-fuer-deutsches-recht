@@ -1,6 +1,6 @@
 ---
 name: katastrophenschutz-mit-satellitendaten
-description: "Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzugang, Behördenpflichten im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Katastrophenschutz mit Satellitendaten in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Katastrophenschutz mit Satellitendaten

@@ -1,6 +1,6 @@
 ---
 name: 007-erster-titel-4
-description: "PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge

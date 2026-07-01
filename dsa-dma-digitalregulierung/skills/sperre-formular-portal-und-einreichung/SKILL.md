@@ -1,6 +1,6 @@
 ---
 name: sperre-formular-portal-und-einreichung
-description: "Sperre: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Sperre: Formular, Portal und Einreichungslogik in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sperre: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: agb-bei-vereinen-und-verbaenden
-description: "AGB bei Vereinen und Verbaenden. Skill klaert die AGB-rechtliche Prüfung von Vereinsbeitrittsbedingungen Beitragsregelungen Ausschlussklauseln und Vereinsstrafen. Behandelt das Spannungsverhaeltnis zwischen Vereinsautonomie (Art. 9 GG) und AGB-Recht. Liefert Prüfraster."
+description: "Wenn es um Agb Bei Vereinen Und Verbaenden in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Bei Vereinen Und Verbaenden

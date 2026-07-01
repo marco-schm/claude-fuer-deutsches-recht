@@ -1,6 +1,6 @@
 ---
 name: spezial-chronologie-abschlussprodukt-und-uebergabe
-description: "Chronologie: Abschlussprodukt und Übergabe im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Chronologie: Abschlussprodukt und Übergabe in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie: Abschlussprodukt und Übergabe

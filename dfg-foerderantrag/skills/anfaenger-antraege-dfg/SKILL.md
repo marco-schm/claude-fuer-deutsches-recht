@@ -1,6 +1,6 @@
 ---
 name: anfaenger-antraege-dfg
-description: "Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfaenger Antraege Dfg; Arbeitsfeld: DFG-Förderantrag."
 ---
 
 # Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien

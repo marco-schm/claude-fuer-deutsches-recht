@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-reise-flug-pauschal
-description: "Reise, Flug und Pauschalreise: Mängelanzeige, Ausgleich, Rücktritt, höhere Gewalt, Insolvenzabsicherung.; Normanker: BGB §§ 651a ff.; FluggastrechteVO; Montrealer Übereinkommen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht."
+description: "Wenn es um Verbraucherrecht Reise Flug Pauschal in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Reise, Flug und Pauschalreise: Mängelanzeige, Ausgleich, Rücktritt, höhere Gewalt, Insolvenzabsicherung.

@@ -1,6 +1,6 @@
 ---
 name: umwrg-internationaler-bezug-und-schnittstellen
-description: "Umwrg: Internationaler Bezug und Schnittstellen im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Umwrg: Internationaler Bezug und Schnittstellen in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umwrg: Internationaler Bezug und Schnittstellen

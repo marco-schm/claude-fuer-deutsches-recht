@@ -1,6 +1,6 @@
 ---
 name: anlagen-stempelbild-entscheidungsvorlage
-description: "Entscheidet Stempelbild, Deckblatt, Anlagenverzeichnis und Mandantenfreigabe so, dass die Anlage optisch und logisch eindeutig ist."
+description: "Wenn es um Stempelbild und Entscheidungsvorlage in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stempelbild und Entscheidungsvorlage

@@ -1,6 +1,6 @@
 ---
 name: terminologie-konsistenz
-description: "Terminologie-Konsistenz im legistischen Entwurf prüfen und Begriffstabelle aufbauen. Anwendungsfall Entwurf enthaelt neue Legaldefinitionen oder Referent prüft ob Begriffe konsistent verwendet werden und keine ungewollten Abweichungen von bestehenden Legaldefinitionen in anderen Gesetzen vorliege..."
+description: "Wenn es um Terminologie-Konsistenz in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Terminologie-Konsistenz

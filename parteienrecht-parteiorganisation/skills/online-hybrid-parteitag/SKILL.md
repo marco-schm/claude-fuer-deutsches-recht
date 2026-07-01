@@ -1,6 +1,6 @@
 ---
 name: online-hybrid-parteitag
-description: "Prüft Satzung, Identifikation, geheime elektronische Wahl, Beschlussfähigkeit, Datenschutz und technische Risiken."
+description: "Wenn es um Online/Hybrid Parteitag in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Online/Hybrid Parteitag

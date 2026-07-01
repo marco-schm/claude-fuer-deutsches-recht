@@ -1,6 +1,6 @@
 ---
 name: datenraum-gap-clean
-description: "Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A Due Diligence: Anwendungsfall Anwalt oder Mandant stellt fest dass Datenraum Luecken hat oder sensible Wettbewerbsdaten nur unter Clean-Room-Bedingungen geteilt werden koennen. Paragraf 35 ff. GWB Fusionskontrolle, Kartellrecht. Prüfraster fehle..."
+description: "Wenn es um Datenraum-Gap-Analyse und Clean Room in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenraum-Gap-Analyse und Clean Room

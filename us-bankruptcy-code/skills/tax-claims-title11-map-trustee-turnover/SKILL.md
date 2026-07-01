@@ -1,6 +1,6 @@
 ---
 name: tax-claims-title11-map-trustee-turnover
-description: "Prüft tax claims, priority, secured tax liens, dischargeability, returns, plan treatment and refunds im US Bankruptcy Code."
+description: "Wenn es um Tax Claims in Bankruptcy in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tax Claims in Bankruptcy

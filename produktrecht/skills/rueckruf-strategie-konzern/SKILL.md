@@ -1,6 +1,6 @@
 ---
 name: rueckruf-strategie-konzern
-description: "Konzern-Rueckrufstrategie bei sicherheitsrelevanten Maengeln: Krisenstab, Information der Behörde Safety Business Gateway, Pressemitteilung, Haendlerinformation, Kundenidentifizierung ueber Seriennummern, Kostenuebernahme, Versicherung. Prüfraster nach Schwere und Verbreitung. Routet in marktueb..."
+description: "Wenn es um Rueckruf-Strategie Konzern in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rueckruf-Strategie Konzern

@@ -1,6 +1,6 @@
 ---
 name: kanzlei-ki-outsourcing-berufsgeheimnis
-description: "KI-Outsourcing für Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsverarbeitung, Berufsrecht, Datenklassen, Subdienstleister, Drittlandtransfer, Prompt-Logging, Loeschung, Audit und Mandantenfreigabe."
+description: "Wenn es um Kanzlei-digitale Werkzeuge-Outsourcing und Berufsgeheimnis in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Kanzlei Ki Outsourcing Berufsgeheimnis; Arbeitsfeld: europäischem Technikregulierungsrecht."
 ---
 
 # Kanzlei-KI-Outsourcing und Berufsgeheimnis

@@ -1,6 +1,6 @@
 ---
 name: verwaltungsverfahren-wiederaufgreifen
-description: "Einigungsvertrag und Vermögensrecht: Verwaltungsverfahren wiederaufgreifen. Verwaltungsverfahren wiederaufgreifen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret..."
+description: "Wenn es um Verwaltungsverfahren Wiederaufgreifen in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verwaltungsverfahren Wiederaufgreifen

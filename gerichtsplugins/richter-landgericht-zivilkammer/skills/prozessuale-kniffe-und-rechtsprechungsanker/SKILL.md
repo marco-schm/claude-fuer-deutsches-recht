@@ -1,6 +1,6 @@
 ---
 name: prozessuale-kniffe-und-rechtsprechungsanker
-description: Bündelt zivilgerichtliche Prozesskniffe zu Hinweisen, Schlüssigkeit, Erheblichkeit, Beweislast, Präklusion, Vergleich, Tenor und Berufungsfestigkeit.
+description: "Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 # Prozessuale Kniffe und Rechtsprechungsanker
 

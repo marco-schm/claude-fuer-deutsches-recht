@@ -1,6 +1,6 @@
 ---
 name: teilzeit-elternzeit-darstellung
-description: "Regeln für die Darstellung von Teilzeitarbeit und Elternzeit im Zeugnis. Teilzeitarbeit darf nicht negativ erwähnt werden. Elternzeit ist anzugeben, wenn sie einen wesentlichen Teil der Beschäftigungszeit ausmacht. Enthält korrekte Formulierungen für Beschäftigungszeitraum mit Elternzeit-Unterbrechung und Hinweise auf das Diskriminierungsverbot."
+description: "Wenn es um Teilzeit und Elternzeit im Zeugnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Teilzeit und Elternzeit im Zeugnis

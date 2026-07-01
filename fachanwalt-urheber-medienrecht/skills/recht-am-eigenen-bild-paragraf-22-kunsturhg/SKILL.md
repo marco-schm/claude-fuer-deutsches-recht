@@ -1,6 +1,6 @@
 ---
 name: recht-am-eigenen-bild-paragraf-22-kunsturhg
-description: "Recht am Eigenen Bild § 22 KunstUrhG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Recht am Eigenen Bild Paragraf 22 KunstUrhG in Fachanwalt Urheber Medienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Recht am Eigenen Bild § 22 KunstUrhG

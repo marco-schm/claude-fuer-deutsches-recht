@@ -1,6 +1,6 @@
 ---
 name: einbindung-it-systeme
-description: "Prüft E-Mail, Jira, Teams, ERP, Klinik-/Schulsoftware, Zeiterfassung und Adminrechte als Eingliederungsindizien im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Einbindung in IT-Systeme in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Einbindung in IT-Systeme

@@ -1,6 +1,6 @@
 ---
 name: oew-051-stadtwerke-organisationsform-pruefen
-description: "Öffentliches Wirtschaftsrecht: Stadtwerke: Organisationsform prüfen. Organisationsform prüfen für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Stadtwerke Organisationsform Pruefen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stadtwerke Organisationsform Pruefen

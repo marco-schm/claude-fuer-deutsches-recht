@@ -1,6 +1,6 @@
 ---
 name: wohnungseigentum-teilungserklaerung-und-erstverwalter
-description: "WEG- und Teilungserklärungsprüfung beim Bauträgerprojekt: Sondereigentum, Gemeinschaftseigentum, Sondernutzungsrechte, Untergemeinschaften, Kostenverteilung, Erstverwalter, Wartungsverträge und Änderungsvollmachten."
+description: "Wenn es um Wohnungseigentum, Teilungserklärung und Erstverwalter in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Wohnungseigentum, Teilungserklärung und Erstverwalter

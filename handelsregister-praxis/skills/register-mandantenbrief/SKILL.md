@@ -1,6 +1,6 @@
 ---
 name: register-mandantenbrief
-description: "Erstellt klare Mandantenupdates: Stand, Risiko, To-dos, Fristen, nächste Entscheidung im Handelsregister Praxis."
+description: "Wenn es um Mandantenbrief Registerstand in Handelsregister Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantenbrief Registerstand

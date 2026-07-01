@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-mandant-strategie-schuetzen
-description: "Mandant und Verteidigungsstrategie gegen institutionellen Druck schuetzen: Klare Kommunikation mit dem Mandanten. Strategie wird nicht durch Druck des Gerichts geaendert sondern durc..."
+description: "Wenn es um Mandant und Verteidigungsstrategie gegen institutionellen Druck schuetzen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandant und Verteidigungsstrategie gegen institutionellen Druck schuetzen

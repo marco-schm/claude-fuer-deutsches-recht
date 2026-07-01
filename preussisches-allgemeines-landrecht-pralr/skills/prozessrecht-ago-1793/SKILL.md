@@ -1,6 +1,6 @@
 ---
 name: prozessrecht-ago-1793
-description: "Preussisches Prozessrecht und Allgemeine Gerichtsordnung 1793. Skill behandelt die AGO 1793 die als Vorlaeufer der ZPO gilt das Verfahrensprinzip die Beweisregelung und die Fortwirkung zur CPO/ZPO. Liefert Quellenmatrix."
+description: "Wenn es um Pralr Prozessrecht Ago 1793 in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Prozessrecht Ago 1793

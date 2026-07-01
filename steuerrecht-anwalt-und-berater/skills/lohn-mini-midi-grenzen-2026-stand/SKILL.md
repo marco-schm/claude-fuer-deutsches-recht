@@ -1,6 +1,6 @@
 ---
 name: lohn-mini-midi-grenzen-2026-stand
-description: "Aktuelle Mini- und Midi-Job-Grenzen 2026. Anwendungsfall Prüfung aktueller Schwellenwerte für Geringfuegigkeit und Übergangsbereich Verifikation gegen Mindestlohn-Anpassungen. Methodik Werteprüfung Quellen amtliche Veröffentlichungen. Output Schwellenwert-Übersicht mit Stichtag und Verifikations-..."
+description: "Wenn es um Mini- und Midi-Grenzen — Stand 2026 in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Mini- und Midi-Grenzen — Stand 2026

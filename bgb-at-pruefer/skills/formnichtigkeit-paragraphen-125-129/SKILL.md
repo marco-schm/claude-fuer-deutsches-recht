@@ -1,6 +1,6 @@
 ---
 name: formnichtigkeit-paragraphen-125-129
-description: "Klausurfall zur Formnichtigkeit nach §§ 125 bis 129 BGB: gesetzliche und rechtsgeschäftliche Formvorschriften, vollständige oder teilweise Nichterfüllung, Teilnichtigkeit nach § 139 BGB, arglistige Berufung auf Formmangel und Heilungstatbestände."
+description: "Wenn es um Formnichtigkeit — Paragrafen 125 bis 129 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Formnichtigkeit — §§ 125 bis 129 BGB

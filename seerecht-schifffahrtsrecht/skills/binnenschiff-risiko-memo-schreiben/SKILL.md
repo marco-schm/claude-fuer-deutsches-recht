@@ -1,6 +1,6 @@
 ---
 name: binnenschiff-risiko-memo-schreiben
-description: "Binnenschiff: Gesamtrisikobewertung für Binnenschiffer; Verladungsunternehmen; Kreditinstitut bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BinSchG §§ 1-133; SchRG §§ 1-75 für eing..."
+description: "Wenn es um Binnenschiff – Risiko-Memo schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Binnenschiff – Risiko-Memo schreiben

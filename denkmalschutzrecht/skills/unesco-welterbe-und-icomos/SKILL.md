@@ -1,6 +1,6 @@
 ---
 name: unesco-welterbe-und-icomos
-description: "Welterbestätten in Deutschland: völkerrechtlicher Rahmen der UNESCO-Welterbekonvention von 1972, ICOMOS-Begutachtung, Pufferzonen, Managementpläne und die mittelbare Wirkung auf das deutsche Landesrecht. Skill ordnet, was die Welterbe-Eigenschaft für ein konkretes Mandat rechtlich tatsächlich bedeutet (Hinweisfunktion, Bauplanung, behördliche Begründungspflicht) und was sie nicht bedeutet (kein eigenständiger Schutzstatus jenseits des Landesgesetzes)."
+description: "Wenn es um UNESCO-Welterbe und ICOMOS in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # UNESCO-Welterbe und ICOMOS

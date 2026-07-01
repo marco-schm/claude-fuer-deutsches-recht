@@ -1,6 +1,6 @@
 ---
 name: oeffentlicher-dienst-vbl-und-zusatzversorgung
-description: "Zusatzversorgung öffentlicher Dienst, VBL und kommunale Kassen: Pflichtversicherung, Startgutschrift, Rentenbescheid und Schnittstelle zur DRV."
+description: "Wenn es um oeffentlicher-dienst-vbl-und-zusatzversorgung in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # oeffentlicher-dienst-vbl-und-zusatzversorgung

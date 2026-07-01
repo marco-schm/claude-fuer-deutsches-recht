@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Fachanwalt Sportrecht: wählt den nächsten Spezial-Skill nach Engpass (Berufung CAS 21 Tage, Spielerlizenz, Verbandssatzung, Transferregister), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Anschluss-Routing

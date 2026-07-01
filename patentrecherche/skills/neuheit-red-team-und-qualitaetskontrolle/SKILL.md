@@ -1,6 +1,6 @@
 ---
 name: neuheit-red-team-und-qualitaetskontrolle
-description: "Neuheit: Red-Team und Qualitätskontrolle im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Neuheit: Red-Team und Qualitätskontrolle in patentrecherche geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Neuheit: Red-Team und Qualitätskontrolle

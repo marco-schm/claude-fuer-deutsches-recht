@@ -1,6 +1,6 @@
 ---
 name: transportvertrag-strasse-cmr
-description: "Internationales Handelsrecht: Strassengütertransportrecht nach CMR-Übereinkommen 1956. Haftung des Strassenfrachtführers (Art. 17-29 CMR), Haftungsgrenzen (8.33 SZR/kg), CMR-Frachtbrief, Reklamationsfristen und Kombination mit Incoterms im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um CMR: Straßengütertransport international in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CMR: Straßengütertransport international

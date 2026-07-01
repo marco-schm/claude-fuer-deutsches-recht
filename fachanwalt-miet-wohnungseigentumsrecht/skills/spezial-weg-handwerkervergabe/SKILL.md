@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-handwerkervergabe
-description: "Handwerkervergabe: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Angebotseinholung, Vergleichbarkeit, Eilmaßnahme, Interessenkonflikt; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Handwerkervergabe in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handwerkervergabe

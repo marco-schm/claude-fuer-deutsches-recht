@@ -1,6 +1,6 @@
 ---
 name: verifikation-sonderfall-und-edge-case
-description: "Verifikation: Sonderfall und Edge-Case-Prüfung im Immobilienrechtspraxis. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Verifikation: Sonderfall und Edge-Case-Prüfung in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verifikation: Sonderfall und Edge-Case-Prüfung

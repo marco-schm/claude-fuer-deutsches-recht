@@ -1,6 +1,6 @@
 ---
 name: agile-entwicklung-und-compliance-gates
-description: "Entwirft Compliance-Gates für agile Robotikentwicklung: Definition of Done, Release-Board, Sicherheitsfreigabe und Rechtsfreigabe."
+description: "Wenn es um Agile Entwicklung und Compliance-Gates in der Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agile Entwicklung und Compliance-Gates in der Robotik

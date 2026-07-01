@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastruktur-fristen-risiko-mandant
-description: "Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Verkehr Infrastrukturrecht."
+description: "Wenn es um Fristen- und Risikoampel in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen- und Risikoampel

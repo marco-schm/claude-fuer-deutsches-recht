@@ -1,6 +1,6 @@
 ---
 name: sozialer-humanoider-roboter
-description: "Prüft soziale/humanoide Roboter: Vertrauen, Anthropomorphisierung, Manipulation, Kinder, Pflege, Transparenz und Datenschutz."
+description: "Wenn es um Sozialer humanoider Roboter in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sozialer humanoider Roboter

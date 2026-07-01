@@ -1,6 +1,6 @@
 ---
 name: rundfunkbeitrag
-description: "Erklärt Beitragsbescheid, Befreiung, Ermäßigung, Vollstreckung, Widerspruch und Nachweise im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Rundfunkbeitrag in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rundfunkbeitrag

@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-folgenabwaegung-paragraf-32-bverfgg
-description: "Einstweiliger Rechtsschutz und Folgenabwaegung im Verfassungsrecht: § 32 BVerfGG, schwere Nachteile, drohende Gewalt, Gemeinwohlgrund, offener Ausgang der Hauptsache und irreparable Grundrechtsfolgen."
+description: "Wenn es um Eilrechtsschutz: Folgenabwägung nach Paragraf 32 BVerfGG in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Eilrechtsschutz: Folgenabwägung nach § 32 BVerfGG

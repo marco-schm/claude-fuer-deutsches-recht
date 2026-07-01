@@ -1,6 +1,6 @@
 ---
 name: spezial-aktenanlage-red-team-und-qualitaetskontrolle
-description: "Aktenanlage: Red-Team und Qualitätskontrolle im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Aktenanlage: Red-Team und Qualitätskontrolle in Strafbefehl-Verteidiger geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aktenanlage: Red-Team und Qualitätskontrolle

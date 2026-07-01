@@ -1,6 +1,6 @@
 ---
 name: inso-p137-wechsel-und-scheckzahlungen
-description: "§ 137 InsO (Wechsel- und Scheckzahlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 137 InsO (Wechsel- und Scheckzahlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfol..."
+description: "Wenn es um Inso P137 Wechsel Und Scheckzahlungen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 137 InsO (Wechsel- und Scheckzahlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

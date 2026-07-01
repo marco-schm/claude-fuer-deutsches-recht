@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-koerperverletzung-mit-todesfolge-227-stgb
-description: "Koerperverletzung mit Todesfolge nach § 227 StGB: Erfolgsqualifikation. Grundtat § 223 oder § 224 StGB; fahrlaessige Todesfolge § 18 StGB; tatbestandsspezifischer Gefahrenzusammenhang nach staendiger BGH-Rec..."
+description: "Wenn es um Koerperverletzung mit Todesfolge nach Paragraf 227 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Koerperverletzung mit Todesfolge nach § 227 StGB

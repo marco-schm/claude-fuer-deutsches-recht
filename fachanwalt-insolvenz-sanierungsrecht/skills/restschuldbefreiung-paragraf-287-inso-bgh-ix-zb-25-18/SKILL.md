@@ -1,6 +1,6 @@
 ---
 name: restschuldbefreiung-paragraf-287-inso-bgh-ix-zb-25-18
-description: "Restschuldbefreiung Paragraf 287 InsO BGH Ix Zb 25 18: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Restschuldbefreiung Paragraf 287 InsO BGH Ix Zb 25 18 in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Restschuldbefreiung Paragraf 287 InsO BGH Ix Zb 25 18

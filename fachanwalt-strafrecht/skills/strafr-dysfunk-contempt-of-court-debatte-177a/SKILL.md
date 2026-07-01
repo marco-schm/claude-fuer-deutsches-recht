@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-contempt-of-court-debatte-177a
-description: "Reformdebatte ueber Contempt of Court und § 177a GVG-E der StPO-Reformkommission BMJ rechtspolitisch einordnen: Adversatorisches Element schwer m..."
+description: "Wenn es um Strafr Dysfunk Contempt Of Court Debatte 177a in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reformdebatte über Contempt of Court und § 177a GVG-E der StPO-Reformkommission BMJ rechtspolitisch einordnen

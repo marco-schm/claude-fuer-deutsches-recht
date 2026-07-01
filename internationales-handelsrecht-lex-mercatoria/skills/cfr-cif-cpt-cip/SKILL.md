@@ -1,6 +1,6 @@
 ---
 name: cfr-cif-cpt-cip
-description: "Internationales Handelsrecht: CFR, CIF, CPT und CIP nach Incoterms 2020. C-Klauseln als Ankunftsklauseln für Kosten und Abgangsklauseln für Gefahr, Versicherungspflichten (CIF Klausel C vs. CIP Klausel A) und Transportdokumentenpflichten im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um CFR, CIF, CPT, CIP: C-Klauseln in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CFR, CIF, CPT, CIP: C-Klauseln

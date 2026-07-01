@@ -1,6 +1,6 @@
 ---
 name: wahlkampf-kandidierenden-fuersorge
-description: "Wahlkampfrecht Praxis: Belastung, Angriffe und Burnout in Kandidatenteams ernst nehmen."
+description: "Wenn es um Kandidierenden Fuersorge in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kandidierenden Fuersorge

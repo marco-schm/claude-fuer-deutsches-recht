@@ -1,6 +1,6 @@
 ---
 name: ihl-012-schiedsklausel-icc-dis
-description: "Internationales Handelsrecht und Lex Mercatoria: Schiedsklausel ICC DIS. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Schiedsklausel ICC DIS in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiedsklausel ICC DIS

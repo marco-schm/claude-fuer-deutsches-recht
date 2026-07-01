@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Energierecht (EnWG, EEG): trennt fehlende Tatsachen von fehlenden Belegen (Netzanschlussvertrag, EEG-Vergütungsbescheid, Marktstammdatenregister-Eintrag), nennt pro Lücke Beweisthema, Beschaffungsweg (BNetzA), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

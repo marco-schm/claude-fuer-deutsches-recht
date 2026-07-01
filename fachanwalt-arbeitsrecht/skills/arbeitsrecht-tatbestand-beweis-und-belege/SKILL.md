@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-tatbestand-beweis-und-belege
-description: "Tatbestand, Beweis und Belege im Arbeitsrechtsprozess: Darlegungs- und Beweislastverteilung nach Normen, abgestufte Darlegungslast BAG-Linie, Beweismittel im Arbeitsgerichtsverfahren, DSGVO-konforme Beweiserhebung Paragraf 26 BDSG: Tatbestand, Beweis und Belege i..."
+description: "Wenn es um Arbeitsrecht Tatbestand Beweis Und Belege in Fachanwalt Arbeitsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Tatbestand, Beweis und Belege im Arbeitsrechtsprozess: Darlegungs- und Beweislastverteilung nach Normen, abgestufte Darlegungslast BAG-Linie, Beweismittel im Arbeitsgerichtsverfahren, DSGVO-konforme Beweiserhebung Paragraf 26 BDSG.

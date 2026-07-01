@@ -1,6 +1,6 @@
 ---
 name: panel-management-partner-dashboard-post
-description: "Panel Management: steuert Kanzleipanel steuern, Leistungsprofile, Konflikte, Preise, Diversity, Kapazität und Qualität zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Panel Management in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Panel Management

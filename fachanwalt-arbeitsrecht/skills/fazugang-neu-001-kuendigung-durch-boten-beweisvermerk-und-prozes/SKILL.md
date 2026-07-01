@@ -1,6 +1,6 @@
 ---
 name: fazugang-neu-001-kuendigung-durch-boten-beweisvermerk-und-prozes
-description: "Zugang der Kündigung durch Boten: Beweisvermerk-Erstellung, Zeugenbenennung, Prozessstrategie bei bestritenem Zugang: Beweislast des Arbeit..."
+description: "Wenn es um Fazugang Neu 001 Kuendigung Durch Boten Beweisvermerk Und Prozes in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zugang der Kündigung durch Boten: Beweisvermerk-Erstellung, Zeugenbenennung, Prozessstrategie bei bestritenem Zugang

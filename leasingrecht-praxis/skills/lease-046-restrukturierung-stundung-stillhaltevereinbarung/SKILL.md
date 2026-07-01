@@ -1,6 +1,6 @@
 ---
 name: lease-046-restrukturierung-stundung-stillhaltevereinbarung
-description: "Leasingrecht: Restrukturierung Stundung Stillhaltevereinbarung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Restrukturierung Stundung Stillhaltevereinbarung in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Restrukturierung Stundung Stillhaltevereinbarung

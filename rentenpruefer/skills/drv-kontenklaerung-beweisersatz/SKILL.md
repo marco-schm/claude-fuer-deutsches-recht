@@ -1,6 +1,6 @@
 ---
 name: drv-kontenklaerung-beweisersatz
-description: "Erstellt bei fehlenden Rentennachweisen eine Ersatzbeweisstrategie: Arbeitgeberarchiv, Krankenkasse, Pflegekasse, Schule, Zeugenerklärung, eidesstattliche Erklärung und DRV-Antrag."
+description: "Wenn es um DRV Kontenklärung Beweisersatz in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # DRV Kontenklärung Beweisersatz

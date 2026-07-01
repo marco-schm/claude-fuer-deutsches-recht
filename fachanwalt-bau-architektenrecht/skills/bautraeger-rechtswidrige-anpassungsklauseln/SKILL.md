@@ -1,6 +1,6 @@
 ---
 name: bautraeger-rechtswidrige-anpassungsklauseln
-description: "Rechtswidrige Anpassungsklauseln im Bautraegervertrag: Skill listet typische unwirksame Klauseln zur einseitigen Preisanpassung Bauzeitveraenderung Standardaenderung sowie BGH-Rechtsprechung dazu. Liefe..."
+description: "Wenn es um Rechtswidrige Anpassungsklauseln im Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtswidrige Anpassungsklauseln im Bautraegervertrag

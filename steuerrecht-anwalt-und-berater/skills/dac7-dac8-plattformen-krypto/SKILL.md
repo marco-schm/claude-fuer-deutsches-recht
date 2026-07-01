@@ -1,6 +1,6 @@
 ---
 name: dac7-dac8-plattformen-krypto
-description: "Beratung zu DAC7-Meldepflichten für digitale Plattformen ab 2023 PStTG und DAC8-Meldepflichten für Krypto-Dienstleister ab 2026 KryptoStG. Anwendungsfall Plattformbetreiber oder Krypto-Dienstleister fragt nach Meldepflichten oder Mandant als Anbieter erhaelt Meldung. Prüfung Meldepflicht Quartals..."
+description: "Wenn es um DAC7 & DAC8 — Meldepflichten Plattformen und Krypto in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DAC7 & DAC8 — Meldepflichten Plattformen und Krypto

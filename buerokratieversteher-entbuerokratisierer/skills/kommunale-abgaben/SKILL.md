@@ -1,6 +1,6 @@
 ---
 name: kommunale-abgaben
-description: "Erklärt Erschließungsbeitrag, Straßenausbaubeitrag, Abwasser, Müllgebühren, Satzung und Bescheidkette im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Kommunale Abgaben in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunale Abgaben

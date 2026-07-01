@@ -1,6 +1,6 @@
 ---
 name: broadcast-streaming-social
-description: "Prüft öffentliche Wiedergabe, Zugänglichmachung, Streaming, Livestream, Reels, Podcasts, Radio und Veranstaltungen im Urheberrecht De Eu."
+description: "Wenn es um Streaming, Broadcast und Social Media in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Streaming, Broadcast und Social Media

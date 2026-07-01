@@ -1,6 +1,6 @@
 ---
 name: steuerstrafverteidigung-verstaendigung
-description: "Prüfungslinie für anw steuerstrafverteidigung verstaendigung im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Strafverteidigung Steuerstrafsache mit Einstellung und Verständigung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafverteidigung Steuerstrafsache mit Einstellung und Verständigung

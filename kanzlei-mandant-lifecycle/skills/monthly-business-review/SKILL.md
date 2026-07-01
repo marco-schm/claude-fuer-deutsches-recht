@@ -1,6 +1,6 @@
 ---
 name: monthly-business-review
-description: "Monthly Business Review: steuert Monatsreview Kanzlei/Rechtsabteilung: Kosten, Matters, Learnings, Forecast und Beziehung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Monthly Business Review in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Monthly Business Review

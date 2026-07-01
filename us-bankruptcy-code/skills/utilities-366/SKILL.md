@@ -1,6 +1,6 @@
 ---
 name: utilities-366
-description: "Prüft utility service, adequate assurance, deposits, objections and first-day relief im US Bankruptcy Code."
+description: "Wenn es um Utilities Paragraf 366 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Utilities § 366

@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-vorwurf-einordnen
-description: "Erste Reaktion wenn Gericht oder Staatsanwaltschaft den Vorwurf dysfunktionaler Strafverteidigung erhebt: Sauber unterscheiden zwischen dysfunktionaler..."
+description: "Wenn es um Strafr Dysfunk Vorwurf Einordnen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erste Reaktion wenn Gericht oder Staatsanwaltschaft den Vorwurf dysfunktionaler Strafverteidigung erhebt

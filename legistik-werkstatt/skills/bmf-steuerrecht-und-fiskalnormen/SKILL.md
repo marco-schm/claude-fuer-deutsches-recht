@@ -1,6 +1,6 @@
 ---
 name: bmf-steuerrecht-und-fiskalnormen
-description: "Sachbereich Steuerrecht und Fiskalnormen im Geschäftsbereich BMF: Normbestand (AO; EStG; KStG; UStG; GewStG; ErbStG; SolZG; AStG; FVG.); Akteure (BZSt; Finanzaemter der Länder; BFH; FG; juris-Finanzrechtsprechung.); EU-Bezug (MwSt-Systemrichtlinie; ATAD; DAC; Pillar Two.); typische Legistik-Aufg..."
+description: "Wenn es um Steuerrecht und Fiskalnormen (BMF) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerrecht und Fiskalnormen (BMF)

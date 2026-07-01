@@ -1,6 +1,6 @@
 ---
 name: lohn-statistik-sv-beitraege-meldungen
-description: "Statistik-Meldungen Verdienststatistik Destatis. Anwendungsfall jaehrliche oder unterjaehrige Statistik-Meldungen an das Statistische Bundesamt Verdienste Arbeitszeit. Methodik Pflicht-Prüfung Erfassung Übermittlung. Output Statistik-Meldung im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Statistik-Meldungen — Verdienststatistik Destatis in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Lohn Statistik Sv Beitraege Meldungen; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Statistik-Meldungen — Verdienststatistik Destatis

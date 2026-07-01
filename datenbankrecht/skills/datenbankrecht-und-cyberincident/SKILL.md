@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-und-cyberincident
-description: "Beratung bei Cyberangriffen und Datenbankexfiltration: Prüfung nach §§ 87a-87e UrhG (Herstellerrecht), § 202a StGB (Datenzugang), DSGVO Art. 33-34 (Meldepflicht), NIS2-RL 2022/2555, KRITIS-Dachgesetz. Mandant erlitt Ransomware-Angriff oder Datenleck aus eigenem Datenbankbestand. Output: Notfall-C..."
+description: "Wenn es um Datenbankrecht und Cyberincident: Exfiltration, Meldepflicht, Beweissicherung in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht und Cyberincident: Exfiltration, Meldepflicht, Beweissicherung

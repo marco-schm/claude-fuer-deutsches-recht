@@ -1,6 +1,6 @@
 ---
 name: zitat-haus-zitierregel-instanzgerichte
-description: "Kanzlei-Hauszitierweise anpassen: Excel-Vorlage Beck/NJW vs. Hartung/Roemermann v4. Empfehlung: konsistente Regel pro Kanzlei, in den Schriftsatz-Templates verankern. Output: Hauszitierregel-Dokument im Zitierweise."
+description: "Wenn es um Kanzlei-Hauszitierweise in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitat Haus Zitierregel Instanzgerichte; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Kanzlei-Hauszitierweise

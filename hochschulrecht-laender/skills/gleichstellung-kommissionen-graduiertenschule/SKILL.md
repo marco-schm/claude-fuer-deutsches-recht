@@ -1,6 +1,6 @@
 ---
 name: gleichstellung-kommissionen-graduiertenschule
-description: "Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler im Hochschulrecht Länder."
+description: "Wenn es um Gleichstellung in Kommissionen in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gleichstellung in Kommissionen

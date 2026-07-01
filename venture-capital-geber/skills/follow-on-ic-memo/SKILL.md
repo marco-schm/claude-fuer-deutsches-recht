@@ -1,6 +1,6 @@
 ---
 name: follow-on-ic-memo
-description: "Erstellt Follow-on-Entscheidungsvorlagen aus Updates, Cap Table, Runde, Terms, Signaling und Reserveplan im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Follow-on IC Memo in Venture Capital Geber geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Follow-on IC Memo

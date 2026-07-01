@@ -1,6 +1,6 @@
 ---
 name: fran-018-insolvenz-franchisenehmer-fortfuehrung-und-marke
-description: "Franchiserecht: Insolvenz Franchisenehmer Fortführung und Marke mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Insolvenz Franchisenehmer Fortführung und Marke in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Insolvenz Franchisenehmer Fortführung und Marke

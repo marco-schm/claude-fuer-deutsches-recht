@@ -1,6 +1,6 @@
 ---
 name: garantieabruf-missbrauch-garantieprovision
-description: "Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern im Eilfall steuern: formale Prüfung, Missbrauchseinwand, Zahlungsstopp, einstweiliger Rechtsschutz, Kundenkommunikation und Regress im Bank-Rechtsabteilung."
+description: "Wenn es um Garantieabruf, Missbrauch und Zahlungsstopp in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Garantieabruf, Missbrauch und Zahlungsstopp

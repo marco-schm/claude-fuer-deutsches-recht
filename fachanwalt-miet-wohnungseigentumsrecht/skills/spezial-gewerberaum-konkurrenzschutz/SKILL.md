@@ -1,6 +1,6 @@
 ---
 name: spezial-gewerberaum-konkurrenzschutz
-description: "Konkurrenzschutz: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft ausdrücklichen/vertragsimmanenten Schutz, Sortimente, Center, Unterlassung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Konkurrenzschutz in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konkurrenzschutz

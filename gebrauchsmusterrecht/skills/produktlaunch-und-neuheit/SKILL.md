@@ -1,6 +1,6 @@
 ---
 name: produktlaunch-und-neuheit
-description: "Produktlaunch und Neuheit koordinieren: Veröffentlichung, Messe, Pilotkunde, Website, NDA, Gebrauchsmusteranmeldung und Patentfolge im Gebrauchsmusterrecht."
+description: "Wenn es um Produktlaunch Und Neuheit in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Produktlaunch Und Neuheit

@@ -1,6 +1,6 @@
 ---
 name: betriebsanleitung-sprache-und-warnhinweise
-description: "Prüft Betriebsanleitung, Sicherheitsinformationen, digitale Anleitung, Sprache, Restgefahren und Verständlichkeit für Zielgruppen."
+description: "Wenn es um Betriebsanleitung, Sprache und Warnhinweise in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsanleitung, Sprache und Warnhinweise

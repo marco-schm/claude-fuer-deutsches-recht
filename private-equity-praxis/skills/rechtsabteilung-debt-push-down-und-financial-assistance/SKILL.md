@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-debt-push-down-und-financial-assistance
-description: "Rechtsabteilungs-Fachmodul für Debt Push-down und Financial Assistance: Akquisitionsfinanzierung wird auf Upstream-Security- und Cashflow-Fallen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Private Equity Praxis."
+description: "Wenn es um Rechtsabteilung: Debt Push-down und Financial Assistance in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Debt Push-down und Financial Assistance

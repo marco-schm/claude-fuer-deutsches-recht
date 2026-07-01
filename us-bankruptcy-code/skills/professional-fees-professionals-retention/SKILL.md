@@ -1,6 +1,6 @@
 ---
 name: professional-fees-professionals-retention
-description: "Prüft fee applications, reasonableness, lodestar, expense reimbursement, interim/final fee procedures im US Bankruptcy Code."
+description: "Wenn es um Professional Fees Paragraf 330 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Professional Fees § 330

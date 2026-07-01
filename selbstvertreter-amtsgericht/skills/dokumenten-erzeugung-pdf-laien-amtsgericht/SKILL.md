@@ -1,6 +1,6 @@
 ---
 name: dokumenten-erzeugung-pdf-laien-amtsgericht
-description: "PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am Amtsgericht. Word LibreOffice direkter PDF-Export. Scanner-App Handy. OCR für durchsuchbaren Text. Dateinamen-Konvention. Komprimieren bei MJP-Obergrenze 60 MB. Datenschutz bei Online-Tools."
+description: "Wenn es um PDF-Erzeugung für Ihre Klage — von Word bis Scanner-App in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # PDF-Erzeugung für Ihre Klage — von Word bis Scanner-App

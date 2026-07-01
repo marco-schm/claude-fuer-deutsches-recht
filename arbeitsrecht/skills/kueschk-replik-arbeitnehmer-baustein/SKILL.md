@@ -1,6 +1,6 @@
 ---
 name: kueschk-replik-arbeitnehmer-baustein
-description: "Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen: Anforderungen an die Substantiierungstiefe; Replik-Baustein mit typischen Gegenargumenten; Beweis..."
+description: "Wenn es um Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen

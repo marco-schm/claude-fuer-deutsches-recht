@@ -1,6 +1,6 @@
 ---
 name: tunnel-einwendung-bauen
-description: "Tunnel: Einwendung bauen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Tunnel Einwendung Bauen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tunnel Einwendung Bauen

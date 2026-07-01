@@ -1,6 +1,6 @@
 ---
 name: it-hardware-refresh
-description: "IT Hardware Refresh Leasing: Upgrade-Zyklen, Technology Refresh-Klauseln, Datenlöschung, Disposition und steuerliche Behandlung im Leasingrecht."
+description: "Wenn es um IT Hardware Refresh im Leasing in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # IT Hardware Refresh im Leasing

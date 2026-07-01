@@ -1,6 +1,6 @@
 ---
 name: staedtebaulicher-vertrag-rechtsschutz-und-streit
-description: "Prueft Rechtsschutz bei Streit ueber städtebauliche Verträge: Verwaltungsrechtsweg, Leistungsklage, Rueckforderung, Normenkontrollbezug, Eilbedarf und Vergleichsstrategie."
+description: "Wenn es um Rechtsschutz und Streit über städtebauliche Verträge in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rechtsschutz und Streit über städtebauliche Verträge

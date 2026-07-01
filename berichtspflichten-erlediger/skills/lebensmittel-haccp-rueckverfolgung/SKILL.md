@@ -1,6 +1,6 @@
 ---
 name: lebensmittel-haccp-rueckverfolgung
-description: "Lebensmittelbetriebe: HACCP, Eigenkontrollen, Rückverfolgbarkeit, Meldung unsicherer Lebensmittel und Behördenkommunikation im Berichtspflichten."
+description: "Wenn es um Lebensmittel: HACCP und Rückverfolgung in Berichtspflichten-Erlediger geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Lebensmittel: HACCP und Rückverfolgung

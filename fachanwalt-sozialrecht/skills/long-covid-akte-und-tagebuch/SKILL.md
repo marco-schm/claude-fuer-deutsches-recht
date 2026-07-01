@@ -1,6 +1,6 @@
 ---
 name: long-covid-akte-und-tagebuch
-description: "Long-Covid-Akte: Symptomtagebuch, Belastungsprotokoll, Arztberichte, Reha-Unterlagen, Arbeitgeberkommunikation und Fristenmappe: ."
+description: "Wenn es um Long Covid Akte Und Tagebuch in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Long-Covid-Akte: Symptomtagebuch, Belastungsprotokoll, Arztberichte, Reha-Unterlagen, Arbeitgeberkommunikation und Fristenmappe.

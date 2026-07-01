@@ -1,6 +1,6 @@
 ---
 name: sektor-sportligen-medienrechte
-description: "Sektor Sportligen, Medienrechte und Ticketing: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen..."
+description: "Wenn es um Sektor Sportligen, Medienrechte und Ticketing in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sektor Sportligen, Medienrechte und Ticketing

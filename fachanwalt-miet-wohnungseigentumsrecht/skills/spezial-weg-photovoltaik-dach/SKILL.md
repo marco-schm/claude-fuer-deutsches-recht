@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-photovoltaik-dach
-description: "WEG Photovoltaik Dach: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Beschlusskompetenz, Statik, Einspeisung, Dachnutzung, Kosten/Nutzen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um WEG Photovoltaik Dach in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Photovoltaik Dach

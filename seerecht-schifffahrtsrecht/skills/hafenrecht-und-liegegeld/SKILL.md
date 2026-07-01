@@ -1,6 +1,6 @@
 ---
 name: hafenrecht-und-liegegeld
-description: "Reeder oder Charterer streitet ueber Liegegeld; Hafengebühren oder Hafensperrung: HGB §§ 527-545 (Liegegeld Voyage Charter); NOR-Wirksamkeit; Laytime-Berechnung; Demurrage-Dispatch-Abrechnung. Hafenpfandrecht (HGB § 601); Hamburger Hafenordnung; SeeschStrO. Output: Liegegeld-Berechnung und Klages..."
+description: "Wenn es um Hafenrecht und Liegegeld – Demurrage-Berechnung und Hafenstreit in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Hafenrecht und Liegegeld – Demurrage-Berechnung und Hafenstreit

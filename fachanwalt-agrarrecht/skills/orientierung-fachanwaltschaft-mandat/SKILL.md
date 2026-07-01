@@ -1,6 +1,6 @@
 ---
 name: orientierung-fachanwaltschaft-mandat
-description: "Anwalt will überblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten: Orientierung HoefeO Anerbenrecht Landpa..."
+description: "Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwalt will überblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten

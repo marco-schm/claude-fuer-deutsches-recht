@@ -1,6 +1,6 @@
 ---
 name: flughafen-mandantenmemo-schreiben
-description: "Anwalt schreibt Mandantenmemo für Flughafen-Betreiber oder Investor zu komplexem Luftrechtsfall: Planfeststellungsklage Sicherheitsauflage Insolvenznaehe oder Entgeltstreit. Skill strukturiert Memo nach Sachverhalt Rechtslage Handlungsoptionen Risikobewertung und Empfehlung im Luftrecht Flughafen..."
+description: "Wenn es um Flughafen – Mandantenmemo schreiben in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Flughafen – Mandantenmemo schreiben

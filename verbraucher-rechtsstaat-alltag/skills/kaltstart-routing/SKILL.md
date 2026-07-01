@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Allgemeiner Kaltstart und Routing: erklärt führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten."
+description: "Wenn es um Allgemeiner Kaltstart und Routing in Verbraucher im Rechtsstaat Alltag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemeiner Kaltstart und Routing

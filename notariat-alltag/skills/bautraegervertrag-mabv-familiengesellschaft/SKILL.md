@@ -1,6 +1,6 @@
 ---
 name: bautraegervertrag-mabv-familiengesellschaft
-description: "Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan und Abnahmefallen. Pflichtinhalt nach MaBV, Sicherungsanforderungen, Ratenplan-Voraussetzungen, Abnahme und typische Risiken für Erwerber im Notariat."
+description: "Wenn es um Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan, Abnahmefallen in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan, Abnahmefallen

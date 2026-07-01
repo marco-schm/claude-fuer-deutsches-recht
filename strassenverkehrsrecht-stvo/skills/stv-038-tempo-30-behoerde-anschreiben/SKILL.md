@@ -1,6 +1,6 @@
 ---
 name: stv-038-tempo-30-behoerde-anschreiben
-description: "Straßenverkehrsrecht StVO: Tempo 30: Behörde anschreiben. Behörde anschreiben für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Tempo 30 Behoerde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tempo 30 Behoerde Anschreiben

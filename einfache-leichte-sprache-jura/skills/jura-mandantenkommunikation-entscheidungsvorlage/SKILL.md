@@ -1,6 +1,6 @@
 ---
 name: jura-mandantenkommunikation-entscheidungsvorlage
-description: "Jura: Mandantenkommunikation und Entscheidungsvorlage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Jura: Mandantenkommunikation und Entscheidungsvorlage in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Jura Mandantenkommunikation Entscheidungsvorlage; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
 ---
 
 # Jura: Mandantenkommunikation und Entscheidungsvorlage

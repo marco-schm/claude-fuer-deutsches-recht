@@ -1,6 +1,6 @@
 ---
 name: stundungs-strategie
-description: "Stundungs-Strategie mit Finanzamt, Krankenkassen, Lieferanten: § 222 AO Stundung, Ratenzahlungsvereinbarung Krankenkasse, Lieferantenstundung. Prüfraster: wann beantragen, Mindestanforderungen Antrag, Reichweite (keine Gläubigerbenachteiligung § 130 InsO)."
+description: "Wenn es um Stundungs-Strategie in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Stundungs-Strategie

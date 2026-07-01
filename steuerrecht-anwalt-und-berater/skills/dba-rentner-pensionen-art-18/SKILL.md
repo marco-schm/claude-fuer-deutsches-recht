@@ -1,6 +1,6 @@
 ---
 name: dba-rentner-pensionen-art-18
-description: "Rentenbesteuerung nach Art. 18 OECD-MA und Sonderregelungen einzelner DBA. Anwendungsfall Rentner mit Wohnsitz im Ausland (Spanien Portugal Italien Tuerkei Schweiz Oesterreich) oder ausländische Rente bei Wohnsitz Deutschland. Wohnsitzstaat vs Kassenstaat Sozialversicherung. Subject-to-Tax. Outp..."
+description: "Wenn es um Rentner und Pensionen (Art. 18 OECD-MA) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rentner und Pensionen (Art. 18 OECD-MA)

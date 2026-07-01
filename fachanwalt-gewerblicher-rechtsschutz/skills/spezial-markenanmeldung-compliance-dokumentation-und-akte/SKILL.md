@@ -1,6 +1,6 @@
 ---
 name: spezial-markenanmeldung-compliance-dokumentation-und-akte
-description: "Markenanmeldung: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Markenanmeldung: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Markenanmeldung: Compliance-Dokumentation und Aktenvermerk

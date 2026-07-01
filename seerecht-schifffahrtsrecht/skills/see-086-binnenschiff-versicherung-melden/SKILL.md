@@ -1,6 +1,6 @@
 ---
 name: see-086-binnenschiff-versicherung-melden
-description: "See- und Schifffahrtsrecht: Binnenschiff: Versicherung melden. Versicherung melden für Binnenschiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Binnenschiff Versicherung Melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Binnenschiff Versicherung Melden

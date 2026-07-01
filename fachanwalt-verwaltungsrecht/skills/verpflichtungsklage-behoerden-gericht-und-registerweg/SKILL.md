@@ -1,6 +1,6 @@
 ---
 name: verpflichtungsklage-behoerden-gericht-und-registerweg
-description: "Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg: Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg."
+description: "Wenn es um Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg

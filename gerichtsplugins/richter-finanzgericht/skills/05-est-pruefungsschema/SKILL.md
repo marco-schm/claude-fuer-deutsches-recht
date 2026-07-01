@@ -1,6 +1,6 @@
 ---
 name: 05-est-pruefungsschema
-description: "Einkommensteuer-Prüfung: Einkunftsart, Einkunftsermittlung (Paragrafen 4 und 5 EStG oder Paragraf 11 EStG), Sonderausgaben, außergewoehnliche Belastungen, Tarif Paragraf 32a EStG"
+description: "Wenn es um 05 ESt Prüfungsschema in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # 05 ESt Prüfungsschema

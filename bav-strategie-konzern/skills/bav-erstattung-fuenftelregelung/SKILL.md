@@ -1,6 +1,6 @@
 ---
 name: bav-erstattung-fuenftelregelung
-description: "Auszahlung bAV und Steueroptimierung: Fuenftelregelung § 34 EStG bei Einmalzahlungen, laufende Renten als Versorgungsbezuege, Sozialversicherungspflicht GKV mit Kappung. Prüfraster und Beispielsrechnung. Routet in bav-einfuehrung-durchfuehrungswege im Bav Strategie Konzern."
+description: "Wenn es um bAV: Fuenftelregelung Auszahlung in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # bAV: Fuenftelregelung Auszahlung

@@ -1,6 +1,6 @@
 ---
 name: infl-059-influencer-testimonials-kapitalmarkt
-description: "Influencer-Recht: Influencer als Testimonials in Kapitalmarktkommunikation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Influencer als Testimonials in Kapitalmarktkommunikation in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Influencer als Testimonials in Kapitalmarktkommunikation

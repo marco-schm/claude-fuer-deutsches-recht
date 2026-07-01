@@ -1,6 +1,6 @@
 ---
 name: verjaehrung
-description: "Prüft Verjährungsfristen im Handelsvertreterrecht: regelmäßige Verjährung nach § 195 BGB für Provisionsansprüche und Ausgleich nach § 89b HGB, Beginn der Verjährungsfrist nach § 199 BGB, Hemmung und Unterbrechung sowie Fristwahrungsmaßnahmen vor Ablauf im Handelsvertreterrecht."
+description: "Wenn es um Verjährung von Handelsvertreter-Ansprüchen nach Paragraf 195 ff. BGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verjährung von Handelsvertreter-Ansprüchen nach § 195 ff. BGB

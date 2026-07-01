@@ -1,6 +1,6 @@
 ---
 name: datenpanne-pruefungsakte-kaltstart-und-fakte
-description: "Wirtschaftsprüfer: datenpanne prüfungsakte - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Datenpanne Pruefungsakte Kaltstart Und Fakte in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: datenpanne prüfungsakte - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

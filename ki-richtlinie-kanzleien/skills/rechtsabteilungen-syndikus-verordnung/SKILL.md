@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilungen-syndikus-verordnung
-description: "Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien

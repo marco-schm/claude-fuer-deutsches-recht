@@ -1,6 +1,6 @@
 ---
 name: maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25
-description: "Workflow-Skill zu Maklervertrag, Paragraf 656a BGB und Textform. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; behauptete Rechtsprechung zu I ZR 202/25 nie ohne Live-Pruefung zitieren."
+description: "Wenn es um Maklervertrag Paragraph 656a BGB Textform Bgh I Zr 202 25 in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

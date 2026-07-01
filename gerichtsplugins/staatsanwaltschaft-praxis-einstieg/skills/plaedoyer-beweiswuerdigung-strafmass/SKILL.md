@@ -1,6 +1,6 @@
 ---
 name: plaedoyer-beweiswuerdigung-strafmass
-description: "Plädoyer: Beweiswürdigung und Strafmaß sauber bauen: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Plädoyer: Beweiswürdigung und Strafmaß sauber bauen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Plädoyer: Beweiswürdigung und Strafmaß sauber bauen

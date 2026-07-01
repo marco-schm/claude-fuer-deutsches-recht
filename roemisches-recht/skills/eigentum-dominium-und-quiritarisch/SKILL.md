@@ -1,6 +1,6 @@
 ---
 name: eigentum-dominium-und-quiritarisch
-description: "Römisches Recht: Eigentum Dominium Und Quiritarisch. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Eigentum Dominium Und Quiritarisch in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eigentum Dominium Und Quiritarisch

@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-aufsichtsbehoerden-auskunftsverlangen-art-58-1
-description: "Datenschutzrecht-Brückenskill: Auskunftsverlangen Art: 58 Abs. 1 DSGVO beantworten: Auskunfts-, Vorlage- und Prüfverlangen beantworten, ohne spätere Bußgeldverteidigung zu beschädigen. Fachmodul für Dat..."
+description: "Wenn es um Datenschutzrecht-Brückenskill: Auskunftsverlangen Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Auskunftsverlangen Art

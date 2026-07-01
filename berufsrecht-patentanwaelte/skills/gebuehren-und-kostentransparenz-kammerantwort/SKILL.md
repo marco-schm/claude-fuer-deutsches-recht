@@ -1,6 +1,6 @@
 ---
 name: gebuehren-und-kostentransparenz-kammerantwort
-description: "Patentanwälte: gebuehren und kostentransparenz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Gebuehren Und Kostentransparenz Kammerantwort in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Patentanwälte: gebuehren und kostentransparenz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

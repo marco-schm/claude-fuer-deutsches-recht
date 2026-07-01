@@ -1,6 +1,6 @@
 ---
 name: see-106-konnossement-versicherung-melden
-description: "See- und Schifffahrtsrecht: Konnossement: Versicherung melden. Versicherung melden für Konnossement im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Konnossement Versicherung Melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konnossement Versicherung Melden

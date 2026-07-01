@@ -1,6 +1,6 @@
 ---
 name: kataster-liegenschaftskarte-abgleich
-description: "Prüft Flurstücksidentität, Vermessung, Teilung, Vereinigung, Fortführung und Vollzugshindernisse im Grundbuchamt Praxis."
+description: "Wenn es um Katasterabgleich in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Katasterabgleich

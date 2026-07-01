@@ -1,6 +1,6 @@
 ---
 name: schritt-schriftsatz-brief-und-memo-bausteine
-description: "Schritt: Schriftsatz-, Brief- und Memo-Bausteine im Subsumtions Prüfer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Schriftsatz-, Brief- und Memo-Bausteine in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schriftsatz-, Brief- und Memo-Bausteine

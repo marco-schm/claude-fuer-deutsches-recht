@@ -1,6 +1,6 @@
 ---
 name: administrative-expenses-503
-description: "Prüft administrative expense claims, postpetition goods/services, substantial contribution, taxes and application process im US Bankruptcy Code."
+description: "Wenn es um Administrative Expenses Paragraf 503 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Administrative Expenses § 503

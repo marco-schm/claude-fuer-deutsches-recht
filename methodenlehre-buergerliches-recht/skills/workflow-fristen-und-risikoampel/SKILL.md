@@ -1,6 +1,6 @@
 ---
 name: workflow-fristen-und-risikoampel
-description: "Dieses Skill bearbeitet die systematische Fristenüberwachung mit einer integrierten Risikoampel für zivilrechtliche Mandate: Es zeig..."
+description: "Wenn es um Workflow Fristen Und Risikoampel in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dieses Skill bearbeitet die systematische Fristenüberwachung mit einer integrierten Risikoampel für zivilrechtliche Mandate

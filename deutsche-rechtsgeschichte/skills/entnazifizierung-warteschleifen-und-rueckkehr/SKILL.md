@@ -1,6 +1,6 @@
 ---
 name: entnazifizierung-warteschleifen-und-rueckkehr
-description: "Prüft Entnazifizierung, Berufsverbote, Rückkehr in Fakultäten und Justiz, wirtschaftliche Ersatzkarrieren und die Folgen für demokratische Rechtskultur im Deutsche Rechtsgeschichte."
+description: "Wenn es um Entnazifizierung, Warteschleifen und Rückkehr in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Entnazifizierung, Warteschleifen und Rückkehr

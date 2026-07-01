@@ -1,6 +1,6 @@
 ---
 name: forschungszulage-insolvenzlage-red-team-korrektur
-description: "Forschungszulage: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Forschungszulage: Erstprüfung, Rollenklärung und Mandatsziel in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Forschungszulage Insolvenzlage Red Team Korrektur; Arbeitsfeld: Forschungszulage-Antragstellung."
 ---
 
 # Forschungszulage: Erstprüfung, Rollenklärung und Mandatsziel

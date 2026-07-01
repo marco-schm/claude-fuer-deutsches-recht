@@ -1,6 +1,6 @@
 ---
 name: drittlandstransfer-verhandlung-vergleich-und-eskalation
-description: "Drittlandstransfer: Verhandlung, Vergleich und Eskalation: Drittlandstransfer: Verhandlung, Vergleich und Eskalation."
+description: "Wenn es um Drittlandstransfer: Verhandlung, Vergleich und Eskalation in Datenschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Drittlandstransfer: Verhandlung, Vergleich und Eskalation

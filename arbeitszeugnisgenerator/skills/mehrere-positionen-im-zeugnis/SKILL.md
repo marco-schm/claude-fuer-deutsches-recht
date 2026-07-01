@@ -1,6 +1,6 @@
 ---
 name: mehrere-positionen-im-zeugnis
-description: "Regeln für Zeugnisse, in denen die Person mehrere Positionen innehatte: Beförderungen, Versetzungen, Positionswechsel. Jede Position wird mit Zeitraum und Aufgaben genannt. Die Leistungsnote bezieht sich auf die gesamte Beschäftigungszeit oder wird positionsweise ausgewiesen, wenn es relevante Unterschiede gab. Enthält Musterformulierungen für Positionswechsel."
+description: "Wenn es um Mehrere Positionen im Zeugnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mehrere Positionen im Zeugnis

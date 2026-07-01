@@ -1,6 +1,6 @@
 ---
 name: dpma-anmeldung-formalien
-description: "DPMA-Gebrauchsmusteranmeldung vorbereiten: Antrag, Beschreibung, Schutzansprüche, Zeichnungen, Gebühren, DPMAdirekt und Registereintragung im Gebrauchsmusterrecht."
+description: "Wenn es um Dpma Anmeldung Formalien in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Dpma Anmeldung Formalien

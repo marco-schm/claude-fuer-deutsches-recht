@@ -1,6 +1,6 @@
 ---
 name: sacheinlage-und-verdeckte-sacheinlage
-description: "Prüft Sacheinlagen, Werthaltigkeit, Sachgründungsbericht und verdeckte Sacheinlage im Gesellschaftsgruender."
+description: "Wenn es um Sacheinlage und verdeckte Sacheinlage in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sacheinlage und verdeckte Sacheinlage

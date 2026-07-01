@@ -1,6 +1,6 @@
 ---
 name: heizung-schaden-versicherung-notmassnahme
-description: "Bearbeitet Heizungsstörungen, Wasserschäden, Feuchtigkeit, Frost, Versicherung und Notmaßnahmen in WEG-Anlagen. Prüft Zuständigkeit, Sofortmaßnahmen, Beweise, Handwerker, Beschlussbedarf, Umlage und Mieterkommunikation. Output: Maßnahmenplan."
+description: "Wenn es um Heizung, Schaden, Versicherung, Notmaßnahme in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Heizung, Schaden, Versicherung, Notmaßnahme

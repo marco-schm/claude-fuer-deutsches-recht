@@ -1,6 +1,6 @@
 ---
 name: steuerberater-vorbehaltsaufgabe-praevention
-description: "Steuerberater Vorbehaltsaufgabe (Präventions- und Organisationspaket): steuert Abgrenzung Steuerberatung, Rechtsdienstleistung, Lohnbuchhaltung, Förderantrag und betriebswirtschaftliche Beratung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im..."
+description: "Wenn es um Steuerberater Vorbehaltsaufgabe: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Steuerberater Vorbehaltsaufgabe: Präventions- und Organisationspaket

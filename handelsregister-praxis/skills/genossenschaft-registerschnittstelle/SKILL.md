@@ -1,6 +1,6 @@
 ---
 name: genossenschaft-registerschnittstelle
-description: "Prüft Vorstand, Aufsichtsrat, Prüfung, Satzung und Eintragungslogik bei eG im Handelsregister Praxis."
+description: "Wenn es um Genossenschaftsregister-Schnittstelle in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Genossenschaftsregister-Schnittstelle

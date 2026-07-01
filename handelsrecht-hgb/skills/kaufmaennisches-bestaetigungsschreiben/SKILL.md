@@ -1,6 +1,6 @@
 ---
 name: kaufmaennisches-bestaetigungsschreiben
-description: "Prüft Voraussetzungen und Wirkung des kaufmännischen Bestätigungsschreibens im Handelsrecht Hgb."
+description: "Wenn es um Kaufmännisches Bestätigungsschreiben in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaufmännisches Bestätigungsschreiben

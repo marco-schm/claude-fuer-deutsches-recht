@@ -1,6 +1,6 @@
 ---
 name: kv-028-pkv-vertrag-antrag-gesundheitsfragen-anzeigepflicht
-description: "Krankenversicherung: PKV Vertrag Antrag Gesundheitsfragen Anzeigepflicht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: PKV Vertrag Antrag Gesundheitsfragen Anzeigepflicht in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: PKV Vertrag Antrag Gesundheitsfragen Anzeigepflicht

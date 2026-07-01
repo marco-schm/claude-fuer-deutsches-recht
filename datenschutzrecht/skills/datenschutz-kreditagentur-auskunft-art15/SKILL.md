@@ -1,6 +1,6 @@
 ---
 name: datenschutz-kreditagentur-auskunft-art15
-description: "Auskunft gegenüber Auskunfteien: gespeicherte Daten, Empfänger, Herkunft, Scorelogik, Kategorien, Löschfristen und Kopie."
+description: "Wenn es um Art. 15 DSGVO bei Auskunftei und Scorelogik in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Art. 15 DSGVO bei Auskunftei und Scorelogik

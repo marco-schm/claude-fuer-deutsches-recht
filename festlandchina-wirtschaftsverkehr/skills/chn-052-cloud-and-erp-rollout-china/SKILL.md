@@ -1,6 +1,6 @@
 ---
 name: chn-052-cloud-and-erp-rollout-china
-description: "Festlandchina Wirtschaftsverkehr: Cloud And ERP Rollout China. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Cloud And ERP Rollout China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cloud And ERP Rollout China

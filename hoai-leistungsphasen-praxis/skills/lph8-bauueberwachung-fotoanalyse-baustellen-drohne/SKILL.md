@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-fotoanalyse-baustellen-drohne
-description: "Methodikskill HOAI LPH 8 — Strukturierter für die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360,..."
+description: "Wenn es um Fotoanalyse Baustellen-Drohne in der Bauueberwachung LPH 8 in HOAI Leistungsphasen Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Fotoanalyse Baustellen-Drohne in der Bauueberwachung LPH 8

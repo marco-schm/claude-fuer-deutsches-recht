@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-abriss-paragraf-9-dschg-bayverfgh
-description: "Denkmalschutz Abriss Paragraf 9 Dschg Bayverfgh: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Denkmalschutz Abriss Paragraf 9 Dschg Bayverfgh in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Abriss Paragraf 9 Dschg Bayverfgh

@@ -1,6 +1,6 @@
 ---
 name: urheberrechtliche-compliance
-description: "Baut Prozesse für Rechteclearing, Stock, Software, KI, Social Media, Schulung, Freigabe und Audit im Urheberrecht De Eu."
+description: "Wenn es um Urheberrechts-Compliance im Unternehmen in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Urheberrechts-Compliance im Unternehmen

@@ -1,6 +1,6 @@
 ---
 name: vorschuss-kostenrisiko-spezial
-description: "Spezialfall Vorschuss und Kostenrisiko § 17 JVEG: Vorschussverlangen Sachverstaendiger, Verzicht des Gerichts, Folgen bei Nichteinzahlung. Prüfraster für Verfahrensbeteiligte im Jveg Kostenpruefer."
+description: "Wenn es um JVEG: Vorschuss Kostenrisiko in JVEG-Kostenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # JVEG: Vorschuss Kostenrisiko

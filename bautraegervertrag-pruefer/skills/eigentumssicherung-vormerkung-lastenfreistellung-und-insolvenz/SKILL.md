@@ -1,6 +1,6 @@
 ---
 name: eigentumssicherung-vormerkung-lastenfreistellung-und-insolvenz
-description: "Eigentumssicherung beim Bauträgervertrag: Auflassungsvormerkung, Rang, Lastenfreistellung, Globalgrundschuld, Pfandfreigabe, Finanzierungsvollmacht, § 103/§ 106 InsO, § 7 MaBV und Schutz vor Zahlung ohne Eigentumspfad."
+description: "Wenn es um Eigentumssicherung, Vormerkung, Lastenfreistellung und Insolvenz in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Eigentumssicherung, Vormerkung, Lastenfreistellung und Insolvenz

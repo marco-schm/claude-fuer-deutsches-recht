@@ -1,6 +1,6 @@
 ---
 name: oertliche-zustaendigkeit-57-sgg
-description: "Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt die örtliche Zuständigkeit. Wohnort Sitz der Behörde Sondervorschriften. Wie Sie das richtige SG finden."
+description: "Wenn es um Welches Sozialgericht in welcher Stadt? — Paragraf 57 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Welches Sozialgericht in welcher Stadt? — § 57 SGG

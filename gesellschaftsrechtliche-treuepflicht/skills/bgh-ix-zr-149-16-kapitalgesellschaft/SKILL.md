@@ -1,6 +1,6 @@
 ---
 name: bgh-ix-zr-149-16-kapitalgesellschaft
-description: "Gesellschaftsrechtliche Treuepflicht: BGH IX ZR 149 16 Kapitalgesellschaft; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Wenn es um BGH IX ZR 149 16 Kapitalgesellschaft in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # BGH IX ZR 149 16 Kapitalgesellschaft

@@ -1,6 +1,6 @@
 ---
 name: klassen-verhandlung-vergleich-und-eskalation
-description: "Klassen: Verhandlung, Vergleich und Eskalation im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug Planwerks..."
+description: "Wenn es um Klassen: Verhandlung, Vergleich und Eskalation in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Klassen: Verhandlung, Vergleich und Eskalation

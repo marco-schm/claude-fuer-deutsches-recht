@@ -1,6 +1,6 @@
 ---
 name: ipsplan-prepack-plan-spezial
-description: "Spezialfall Prepack-Plan und Eigenverwaltung: Plan vor Antrag, Sachwalter, Gläubiger einbinden. Prüfraster für Krisenberater im Insolvenzplan Starug Planwerkstatt."
+description: "Wenn es um IPSPlan: Prepack-Plan in Insolvenzplan- und StaRUG-Planwerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # IPSPlan: Prepack-Plan

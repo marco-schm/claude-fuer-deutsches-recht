@@ -1,6 +1,6 @@
 ---
 name: doppelversicherung-und-erstattung
-description: "Doppelversicherung, Fehlbeiträge und Erstattung: DRV, Versorgungswerk, Arbeitgebermeldungen und Rückabwicklung im Rentenpruefer."
+description: "Wenn es um doppelversicherung-und-erstattung in Rentenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # doppelversicherung-und-erstattung

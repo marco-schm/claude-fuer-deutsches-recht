@@ -1,6 +1,6 @@
 ---
 name: disciplinary-measure
-description: "Wählt und setzt arbeitsrechtliche Disziplinarmaßnahmen um – Abmahnung, Versetzung, Kürzung von Boni, Freistellung, Zielvereinbarungsänderung im Internal Investigations Praxis."
+description: "Wenn es um Disziplinarmaßnahmen nach Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Disziplinarmaßnahmen nach Internal Investigations

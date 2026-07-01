@@ -1,6 +1,6 @@
 ---
 name: vollstreckung-stpo-biometrischer
-description: "Vollstreckung: Behörden-, Gerichts- oder Registerweg im Prozessrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Vollstreckung: Behörden-, Gerichts- oder Registerweg in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vollstreckung: Behörden-, Gerichts- oder Registerweg

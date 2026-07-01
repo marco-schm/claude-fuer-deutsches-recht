@@ -1,6 +1,6 @@
 ---
 name: heilfuersorge-truppenaerztliche-versorgung-und-pkv
-description: "Heilfürsorge, truppenärztliche Versorgung, PKV: prüft § 70 BBesG, Leistungsumfang, PKV-Übergang und SVG-Heilbehandlung. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, BBhV im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Heilfürsorge, truppenärztliche Versorgung und PKV in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Heilfürsorge, truppenärztliche Versorgung und PKV

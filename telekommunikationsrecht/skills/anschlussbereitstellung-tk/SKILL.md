@@ -1,6 +1,6 @@
 ---
 name: anschlussbereitstellung-tk
-description: "Bereitstellung von Festnetz-, Glasfaser-, Mobilfunk- oder Business-Anschluss: Terminversäumnis, Verzug, Entschädigung, Rücktritt, Ersatzlösung und Beweis im Telekommunikationsrecht."
+description: "Wenn es um Anschlussbereitstellung und Verzug in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Anschlussbereitstellung und Verzug

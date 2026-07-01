@@ -1,6 +1,6 @@
 ---
 name: bgb-1900-und-soziale-frage
-description: "Deutsche Rechtsgeschichte: BGB 1900 und die soziale Frage. Kritik von Anton Menger und Otto von Gierke, fehlender Arbeitnehmerschutz im BGB, Mieterrecht und spaetere soziale Ausformung durch Rechtsprechung und Sondergesetze im Deutsche Rechtsgeschichte."
+description: "Wenn es um BGB 1900 und die soziale Frage in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BGB 1900 und die soziale Frage

@@ -1,6 +1,6 @@
 ---
 name: tdddg-fristen-form-und-zustaendigkeit
-description: "Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg: Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Wenn es um Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tdddg Fristen Form Und Zuständigkeit; Arbeitsfeld: Datenschutzrecht."
 ---
 
 # Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg

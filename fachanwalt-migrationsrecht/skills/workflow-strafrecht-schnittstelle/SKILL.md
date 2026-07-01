@@ -1,6 +1,6 @@
 ---
 name: workflow-strafrecht-schnittstelle
-description: "Strafrecht-Schnittstelle: Prüfungslinie für Migrationsrecht: prüft Vorstrafen, Ermittlungsverfahren, Ausweisung, Einbürgerung und Titel; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellenchec..."
+description: "Wenn es um Strafrecht-Schnittstelle: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafrecht-Schnittstelle: Prüfungslinie für Migrationsrecht

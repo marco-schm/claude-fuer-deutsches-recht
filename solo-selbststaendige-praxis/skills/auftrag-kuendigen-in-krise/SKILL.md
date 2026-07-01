@@ -1,6 +1,6 @@
 ---
 name: auftrag-kuendigen-in-krise
-description: "Solo-Selbstständige: prüft faire Beendigung ohne Folgeschaden; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Krise Schulden und Neustart: Prüft faire beendigung ohne folgeschaden in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krise Schulden und Neustart: Prüft faire beendigung ohne folgeschaden

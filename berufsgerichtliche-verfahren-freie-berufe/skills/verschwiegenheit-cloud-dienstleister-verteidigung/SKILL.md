@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-cloud-dienstleister-verteidigung
-description: "Verschwiegenheit und Cloud-Dienstleister (Verteidigungs- und Kammerantwort): steuert Mandatsgeheimnis, Cloud, Legal Tech, KI-Tools, Auftragsverarbeitung und Berufsgeheimnisträgerprivileg mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsg..."
+description: "Wenn es um Verschwiegenheit und Cloud-Dienstleister: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verschwiegenheit und Cloud-Dienstleister: Verteidigungs- und Kammerantwort

@@ -1,6 +1,6 @@
 ---
 name: niederschrift-aufstellungsversammlung
-description: "Erstellt Niederschrift mit Wahlmodus, Stimmberechtigung, geheimer Abstimmung, Ergebnissen und Versicherungen."
+description: "Wenn es um Niederschrift Aufstellungsversammlung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Niederschrift Aufstellungsversammlung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Niederschrift Aufstellungsversammlung

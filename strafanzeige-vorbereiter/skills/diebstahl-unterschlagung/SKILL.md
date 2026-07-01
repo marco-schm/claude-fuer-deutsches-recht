@@ -1,6 +1,6 @@
 ---
 name: diebstahl-unterschlagung
-description: "Diebstahl/Unterschlagung anzeigen: Gewahrsam, Eigentum, Wegnahme, Zueignung, Beweise, Herausgabeverlangen im Strafanzeige-Vorbereitung."
+description: "Wenn es um Diebstahl und Unterschlagung in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Diebstahl und Unterschlagung

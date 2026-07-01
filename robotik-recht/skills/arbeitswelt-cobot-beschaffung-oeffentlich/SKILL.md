@@ -1,6 +1,6 @@
 ---
 name: arbeitswelt-cobot-beschaffung-oeffentlich
-description: "Prüft Cobots im Betrieb: Arbeitsschutz, Beschäftigtendaten, Mitbestimmung, Qualifikation, Mensch-Roboter-Interaktion, Unfälle und Produktverantwortung im Robotik-Recht."
+description: "Wenn es um Arbeitswelt Cobot Check in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Arbeitswelt Cobot Beschaffung Oeffentlich; Arbeitsfeld: robotik-recht."
 ---
 
 # Arbeitswelt Cobot Check

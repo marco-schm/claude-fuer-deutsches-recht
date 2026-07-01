@@ -1,6 +1,6 @@
 ---
 name: bho-15-bruttoveranschlagung-praktisch
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 15 Bruttoveranschlagung praktisch anwenden. BHO § 15 Bruttoveranschlagung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): p..."
+description: "Wenn es um Bho 15 Bruttoveranschlagung Praktisch in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 15 Bruttoveranschlagung Praktisch

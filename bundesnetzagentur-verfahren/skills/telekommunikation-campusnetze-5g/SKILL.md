@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-campusnetze-5g
-description: "Telekommunikation / Campusnetze 5G: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln im BNetzA-Verfahren."
+description: "Wenn es um Telekommunikation: Campusnetze 5G in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Telekommunikation: Campusnetze 5G

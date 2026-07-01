@@ -1,6 +1,6 @@
 ---
 name: ins-008-market-sounding
-description: "Prueft Marktsondierungen, Empfaengerpflichten, Skript, Zustimmung, Aufzeichnung, Wall-Crossing und Follow-up."
+description: "Wenn es um Market Sounding in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Market Sounding

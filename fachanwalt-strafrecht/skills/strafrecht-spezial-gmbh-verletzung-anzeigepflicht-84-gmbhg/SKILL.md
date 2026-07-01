@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-gmbh-verletzung-anzeigepflicht-84-gmbhg
-description: "Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei Verlust der Haelfte des Stammkapitals: Pflicht zur unverzueglichen Einberufung der Gesellschafterversammlu..."
+description: "Wenn es um Strafrecht Spezial GmbH Verletzung Anzeigepflicht 84 Gmbhg in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei Verlust der Haelfte des Stammkapitals

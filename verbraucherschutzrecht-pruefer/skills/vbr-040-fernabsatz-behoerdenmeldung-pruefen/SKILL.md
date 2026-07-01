@@ -1,6 +1,6 @@
 ---
 name: vbr-040-fernabsatz-behoerdenmeldung-pruefen
-description: "Verbraucherschutzrecht Prüfer: Fernabsatz: Behördenmeldung prüfen. Behördenmeldung prüfen für Fernabsatz im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Fernabsatz Behoerdenmeldung Pruefen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fernabsatz Behoerdenmeldung Pruefen

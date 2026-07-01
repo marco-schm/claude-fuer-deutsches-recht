@@ -1,6 +1,6 @@
 ---
 name: inso-p109-schuldner-als-mieter-oder-pachter
-description: "§ 109 InsO (Schuldner als Mieter oder Pächter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 109 InsO (Schuldner als Mieter oder Pächter) im Mandat prüfen: Normzweck, Tatbestand, Belege,..."
+description: "Wenn es um Inso P109 Schuldner Als Mieter Oder Pachter in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 109 InsO (Schuldner als Mieter oder Pächter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

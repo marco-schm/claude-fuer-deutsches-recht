@@ -1,6 +1,6 @@
 ---
 name: owi-062-tierschutz-owi-frist-pruefen
-description: "Ordnungswidrigkeitenrecht: Tierschutz-OWi: Frist prüfen. Frist prüfen für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Tierschutz Owi Frist Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tierschutz Owi Frist Pruefen

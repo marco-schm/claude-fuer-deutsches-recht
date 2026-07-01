@@ -1,6 +1,6 @@
 ---
 name: eingangskorb-triage-entscheidungsmonitor
-description: "Sortiert einen Verlags-Eingangskorb aus Mails, Manuskripten, Fahnen, Bildern, Tabellen und Notizen nach Frist, Risiko, Projekt und naechster Aktion im Verlagsredaktion."
+description: "Wenn es um Eingangskorb-Triage in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eingangskorb-Triage

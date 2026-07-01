@@ -1,6 +1,6 @@
 ---
 name: hochschulrecht-disziplinarverfahren-pruefungsnah
-description: "Prüft Ordnungs- und Disziplinarmaßnahmen gegen Studenten im Hochschulrecht Länder."
+description: "Wenn es um Hochschuldisziplinarrecht in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hochschuldisziplinarrecht

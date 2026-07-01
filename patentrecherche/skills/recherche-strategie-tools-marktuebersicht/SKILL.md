@@ -1,6 +1,6 @@
 ---
 name: recherche-strategie-tools-marktuebersicht
-description: "Recherche-Strategie Keywords und Klassifikationen: Boolesche Operatoren, Wildcards, Stopp-Woerter, Variantenpruefung, Trunkierung, Synonyme. CPC und IPC mit Co-Klassen, Klassenwanderung Updates. Strukturierte Vorbereitung von Suchprofilen. Mustertabelle im Patentrecherche."
+description: "Wenn es um Recherche-Strategie in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Recherche-Strategie

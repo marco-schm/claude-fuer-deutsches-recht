@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Urheber- und Medienrecht: trennt fehlende Tatsachen von fehlenden Belegen (Lizenzvertrag, Verlagsvertrag, Abmahnung), nennt pro Lücke Beweisthema, Beschaffungsweg (LG (Verletzung)), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: vowi-handyverstoss-akteneinsicht-alkohol
-description: "Spezialfall Handy- und Geraeteverstoss § 23 Abs. 1a StVO: erfasste Geraete, Halten, Nutzen, Abgrenzung Sprachsteuerung. Prüfraster für Verteidiger im Verkehrsowi Verteidiger."
+description: "Wenn es um VOWi: Handyverstoss in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # VOWi: Handyverstoss

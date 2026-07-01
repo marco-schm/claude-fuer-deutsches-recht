@@ -1,6 +1,6 @@
 ---
 name: wertungsjurisprudenz-larenz-canaris
-description: "Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm Canaris. Methodische Hauptstroemung der deutschen Privatrechtslehre seit der Nachkriegszeit. Larenz, Methodenlehre der Rechtswissenschaft 1960 (6. Aufl. 1991). Canaris, Systemdenken und Systembegriff in der Jurisprudenz 1969. Objektive Wertu..."
+description: "Wenn es um Wertungsjurisprudenz nach Larenz und Canaris in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wertungsjurisprudenz nach Larenz und Canaris

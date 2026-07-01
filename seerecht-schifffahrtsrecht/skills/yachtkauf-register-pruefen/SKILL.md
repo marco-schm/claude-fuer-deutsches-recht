@@ -1,6 +1,6 @@
 ---
 name: yachtkauf-register-pruefen
-description: "Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus prüft Seeschiffsregister oder Kleinfahrzeugregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Klaert Lastenfreiheit vor..."
+description: "Wenn es um Yachtkauf – Registerprüfung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Yachtkauf – Registerprüfung

@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz
-description: "Unterstützt bei einstweiligem Rechtsschutz in Handelsvertreterstreitigkeiten: einstweilige Verfügungen auf Unterlassung von Wettbewerb, Herausgabe von Unterlagen, Sicherung von Provisionsansprüchen sowie Arrest nach §§ 916 ff. ZPO; Verfügungsanspruch und Verfügungsgrund als Voraussetzungen im Han..."
+description: "Wenn es um Einstweiliger Rechtsschutz in Handelsvertreterstreitigkeiten nach Paragrafen 916 ff. ZPO in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Einstweiliger Rechtsschutz in Handelsvertreterstreitigkeiten nach §§ 916 ff. ZPO

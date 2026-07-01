@@ -1,6 +1,6 @@
 ---
 name: japan-jpo-kanada-cipo-loeschung-widerruf
-description: "Strukturiert japanische Patentfragen: J-PlatPat, JPO-Prüfung, Opposition/Invalidation Trial, Korrektur, IP High Court, Übersetzung und lokale Vertretung im Patentrecht."
+description: "Wenn es um Japan: JPO und IP High Court in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Japan: JPO und IP High Court

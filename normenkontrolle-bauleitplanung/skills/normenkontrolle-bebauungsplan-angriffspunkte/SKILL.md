@@ -1,6 +1,6 @@
 ---
 name: normenkontrolle-bebauungsplan-angriffspunkte
-description: "Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfah..."
+description: "Wenn es um Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Normenkontrolle Bebauungsplan Angriffspunkte; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg

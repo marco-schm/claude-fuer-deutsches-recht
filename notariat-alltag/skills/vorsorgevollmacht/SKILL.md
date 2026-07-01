@@ -1,6 +1,6 @@
 ---
 name: vorsorgevollmacht
-description: "Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreuungsverfügung und Zentrales Vorsorgeregister. Formvoraussetzungen, Inhalt, Registrierung beim ZVR der BNotK und Abgrenzung zur Betreuung im Notariat."
+description: "Wenn es um Vorsorgevollmacht in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreuungsverfügung, Zentrales Vorsorgeregister

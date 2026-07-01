@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für JVEG-Kostenprüfer: ordnet Rolle (Sachverständiger, Gericht, Bezirksrevisor), markiert Frist (Entschädigungsantrag binnen 3 Monaten), wählt Norm (JVEG, ZPO §§ 91 ff.) und Zuständigkeit (Gericht), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in JVEG-Kostenprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

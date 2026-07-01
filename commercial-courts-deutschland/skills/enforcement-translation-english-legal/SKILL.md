@@ -1,6 +1,6 @@
 ---
 name: enforcement-translation-english-legal
-description: "Prüft Vollstreckung aus Commercial-Court-Urteilen/Vergleichen: Titel, Klausel, Zustellung, Übersetzung, EU-/Auslandsbezug und assets im Commercial Courts Deutschland."
+description: "Wenn es um Enforcement in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Enforcement

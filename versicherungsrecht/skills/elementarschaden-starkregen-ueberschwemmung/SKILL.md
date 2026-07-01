@@ -1,6 +1,6 @@
 ---
 name: elementarschaden-starkregen-ueberschwemmung
-description: "Elementarschadenversicherung: Überschwemmung, Rückstau, Starkregen, Grundwasser, Erdrutsch, Ausschlüsse und technische Schadenursache im Versicherungsrecht."
+description: "Wenn es um Elementarschaden: Starkregen und Überschwemmung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Elementarschaden: Starkregen und Überschwemmung

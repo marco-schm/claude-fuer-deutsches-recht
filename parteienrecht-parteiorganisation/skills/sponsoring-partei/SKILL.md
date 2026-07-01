@@ -1,6 +1,6 @@
 ---
 name: sponsoring-partei
-description: "Trennt Spende, Sponsoring, Eintritt, Tombola, Sachleistung, geldwerter Vorteil und Veröffentlichung."
+description: "Wenn es um Sponsoring und Veranstaltungen in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sponsoring und Veranstaltungen

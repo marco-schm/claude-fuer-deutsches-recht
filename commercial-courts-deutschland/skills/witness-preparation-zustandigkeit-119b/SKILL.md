@@ -1,6 +1,6 @@
 ---
 name: witness-preparation-zustandigkeit-119b
-description: "Bereitet Zeugen in englischsprachigen deutschen Verfahren vor: Wahrheitspflicht, keine Coaching-Grenzüberschreitung, Sprachsicherheit, Dokumente, Ablauf im Commercial Courts Deutschland."
+description: "Wenn es um Witness Preparation in commercial-courts-deutschland geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Witness Preparation

@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-mandantenanliegen
-description: "Klärt zu Beginn jeder Generator-Sitzung, wer das Zeugnis benötigt und aus welchem Anlass. Unterscheidet Arbeitgeber-/HR-Seite (Zeugnis ausstellen) von Arbeitnehmer-Seite (Zeugnis erhalten wollen oder prüfen lassen). Legt die Perspektive fest, die alle nachfolgenden Schritte steuert: Welche Zeugnisart wird benötigt, wer unterschreibt, welche Note ist beabsichtigt oder erwünscht."
+description: "Wenn es um Einführung und Mandantenanliegen in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einführung und Mandantenanliegen

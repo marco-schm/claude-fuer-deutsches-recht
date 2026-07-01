@@ -1,6 +1,6 @@
 ---
 name: bgb-entstehung-und-materialien
-description: "Deutsche Rechtsgeschichte: Entstehung des BGB 1900 und seine Materialien. Erste und Zweite Kommission, Mugdan-Materialien, Motive und Protokolle als Schlüssel zur historischen Auslegung des BGB im Deutsche Rechtsgeschichte."
+description: "Wenn es um BGB Entstehung und Materialien (1874-1900) in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BGB Entstehung und Materialien (1874-1900)

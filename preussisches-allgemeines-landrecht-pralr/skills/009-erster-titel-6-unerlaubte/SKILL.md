@@ -1,6 +1,6 @@
 ---
 name: 009-erster-titel-6-unerlaubte
-description: "PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen

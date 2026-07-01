@@ -1,6 +1,6 @@
 ---
 name: tooling-and-molds
-description: "Internationales Handelsrecht: Werkzeuge und Formen (Tooling and Molds) im internationalen Liefervertrag. Eigentumsrecht an Werkzeugen, Rückgabepflicht, Abschreibung, Auslandssicherung und chinesisches Recht bei Tooling in China im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Werkzeuge und Formen im internationalen Liefervertrag in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Werkzeuge und Formen im internationalen Liefervertrag

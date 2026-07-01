@@ -1,6 +1,6 @@
 ---
 name: manda-erstgespraechsleitfaden-checkliste
-description: "Checkliste Erstgespraechsleitfaden: Sachverhaltserhebung, Ziel des Mandanten, vorhandene Unterlagen, Erfolgsaussicht offen erläutern, Honorar. Mustertext Folgeschreiben Mandant im Mandantenanfragen Assistent."
+description: "Wenn es um Manda: Erstgespraechsleitfaden in mandantenanfragen-assistent geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Manda: Erstgespraechsleitfaden

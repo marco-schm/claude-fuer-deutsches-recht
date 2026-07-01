@@ -1,6 +1,6 @@
 ---
 name: capital-controls-and-payments
-description: "Kapitalverkehrskontrollen und Zahlungsverkehr VR China: SAFE-Devisenverwaltungsregeln, grenzüberschreitende Zahlungen in CNY, CIPS-System vs. SWIFT, Trade-Financing, L/C bei China-Handel, Zahlungsverzug-Risiken, Bankkorrespondenz-Probleme bei US-Sanktionen. Output: Zahlungsverkehrs-Compliance-Übe..."
+description: "Wenn es um Kapitalverkehrskontrollen China: SAFE/CIPS und Zahlungsrisiken in China-Wirtschaftsverkehr geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kapitalverkehrskontrollen China: SAFE/CIPS und Zahlungsrisiken

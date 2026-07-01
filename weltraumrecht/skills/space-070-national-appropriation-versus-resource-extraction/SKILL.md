@@ -1,6 +1,6 @@
 ---
 name: space-070-national-appropriation-versus-resource-extraction
-description: "Weltraumrecht: National appropriation versus resource extraction mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: National appropriation versus resource extraction in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: National appropriation versus resource extraction

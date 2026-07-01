@@ -1,6 +1,6 @@
 ---
 name: sprache-der-loyalitaet
-description: "Formuliert staatstreu und grundgesetznah ohne Unterwürfigkeit im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Sprache der Loyalität in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sprache der Loyalität

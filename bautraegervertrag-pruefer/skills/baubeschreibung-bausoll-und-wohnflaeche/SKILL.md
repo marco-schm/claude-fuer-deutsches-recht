@@ -1,6 +1,6 @@
 ---
 name: baubeschreibung-bausoll-und-wohnflaeche
-description: "Baubeschreibung und Bausoll im Bauträgervertrag: prüft § 650j, § 650k Abs. 2/3, § 650n BGB, Art. 249 EGBGB, beurkundete Anlagen, Wohnfläche, Prospekt/Showroom, DIN-Verweise und anerkannte Regeln der Technik."
+description: "Wenn es um Baubeschreibung, Bausoll und Wohnfläche in Bauträgervertrag-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Baubeschreibung, Bausoll und Wohnfläche

@@ -1,6 +1,6 @@
 ---
 name: 99-finale-entscheidung-volltext
-description: Erzeugt die finale entscheidung als volltext (beschluss insolvenz oder restrukturierung) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung.
+description: "Wenn es um Finale Entscheidung als Volltext (Beschluss Insolvenz oder Restrukturierung) in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Finale Entscheidung als Volltext (Beschluss Insolvenz oder Restrukturierung)

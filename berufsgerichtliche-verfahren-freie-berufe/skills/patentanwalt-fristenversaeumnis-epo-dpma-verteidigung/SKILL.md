@@ -1,6 +1,6 @@
 ---
 name: patentanwalt-fristenversaeumnis-epo-dpma-verteidigung
-description: "Patentanwalt Fristenversäumnis DPMA/EPO (Verteidigungs- und Kammerantwort): steuert Fristversäumnis, Wiedereinsetzung, Mandanteninformation und berufsrechtliche Aufarbeitung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche V..."
+description: "Wenn es um Patentanwalt Fristenversäumnis DPMA/EPO: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwalt Fristenversäumnis DPMA/EPO: Verteidigungs- und Kammerantwort

@@ -1,6 +1,6 @@
 ---
 name: umsatzsteuer-voranmeldung
-description: "Solo-Selbstständige: bereitet UStVA, Dauerfristverlängerung und Zahllastkontrolle vor; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Rechnung und Umsatzsteuer: Bereitet ustva in Solo-Selbstständige Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechnung und Umsatzsteuer: Bereitet ustva

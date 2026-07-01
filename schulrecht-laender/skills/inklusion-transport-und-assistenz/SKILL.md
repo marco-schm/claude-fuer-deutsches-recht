@@ -1,6 +1,6 @@
 ---
 name: inklusion-transport-und-assistenz
-description: "Prüft Beförderung, Assistenz, Barrierefreiheit und Teilhabe im Schulalltag im Schulrecht Länder."
+description: "Wenn es um Inklusion, Transport und Assistenz in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Inklusion, Transport und Assistenz

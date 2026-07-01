@@ -1,6 +1,6 @@
 ---
 name: privilege-und-vertraulichkeit
-description: "Privilege und Vertraulichkeit: steuert Mandatsgeheimnis, Legal Privilege, interne Weiterleitung, Dienstleister und gemeinsame Plattform zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecy..."
+description: "Wenn es um Privilege und Vertraulichkeit in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Privilege und Vertraulichkeit

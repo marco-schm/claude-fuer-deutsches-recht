@@ -1,6 +1,6 @@
 ---
 name: priority-claims-507
-description: "Prüft priority claims: domestic support, wages, taxes, deposits, grain/fisherman and plan/distribution impact im US Bankruptcy Code."
+description: "Wenn es um Priority Claims Paragraf 507 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Priority Claims § 507

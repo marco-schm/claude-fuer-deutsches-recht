@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Gebrauchsmusterrecht: klärt technische Lehre, Offenbarung, Anmeldung, Abzweigung, Recherche, Registerstand, Verletzung, Löschung und passende Fachmodule."
+description: "Wenn es um Allgemein in gebrauchsmusterrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Allgemein

@@ -1,6 +1,6 @@
 ---
 name: zugang-paragraph-130
-description: "Klausurfall zum Zugang empfangsbedürftiger Willenserklärungen nach § 130 BGB: Machtbereich des Empfängers, gewöhnliche Kenntnisnahmemöglichkeit, Widerruf vor oder gleichzeitig mit Zugang, Empfangsbote, digitale Postfächer und Zugangsvereitelung. Prüfraster für Examen."
+description: "Wenn es um Zugang — Paragraf 130 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Zugang — § 130 BGB

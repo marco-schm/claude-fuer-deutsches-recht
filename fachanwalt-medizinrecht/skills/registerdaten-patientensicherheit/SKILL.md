@@ -1,6 +1,6 @@
 ---
 name: registerdaten-patientensicherheit
-description: "Registerdaten Patientensicherheit: moderner Medizinrechts-Skill für Klinisches Register, Qualitätssicherung, Pseudonymisierung, Zweckänderung und Haftungsprävention: Registerdaten Patientensicherheit: moderner Medizinrechts-Skill für Klinisches Register, Qu..."
+description: "Wenn es um Registerdaten Patientensicherheit in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerdaten Patientensicherheit: moderner Medizinrechts-Skill für Klinisches Register, Qualitätssicherung, Pseudonymisierung, Zweckänderung und Haftungsprävention

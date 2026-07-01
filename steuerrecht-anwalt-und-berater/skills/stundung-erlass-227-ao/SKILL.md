@@ -1,6 +1,6 @@
 ---
 name: stundung-erlass-227-ao
-description: "Praxis-Skill für Stundungs- Niederschlagungs- und Erlassantraege — von der sachlichen Unbilligkeit ueber persönliche Haerte bis zur Liquiditaetsanalyse. Anwendungsfall Mandant kann faellige Steuer nicht zahlen oder die Festsetzung enthaelt einen sachlichen Unbilligkeitsgrund. Behandelt § 222 AO S..."
+description: "Wenn es um Stundung Niederschlagung Erlass — Paragrafen 222 226 227 AO in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Stundung Niederschlagung Erlass — §§ 222 226 227 AO

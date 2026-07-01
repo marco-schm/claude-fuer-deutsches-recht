@@ -1,6 +1,6 @@
 ---
 name: selbstanzeige-371
-description: "Selbstanzeige nach § 371 AO als strafbefreiende Berichtigung bei Steuerhinterziehung vorbereiten und einreichen. Anwendungsfall Mandant hat Steuern hinterzogen und will Straffreiheit erlangen bevor Entdeckung droht. Vollständigkeit aller unverjährten Steuerstraftaten zehn Jahre § 376 AO ggf. 15 J..."
+description: "Wenn es um Selbstanzeige nach Paragraf 371 AO in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Selbstanzeige nach § 371 AO

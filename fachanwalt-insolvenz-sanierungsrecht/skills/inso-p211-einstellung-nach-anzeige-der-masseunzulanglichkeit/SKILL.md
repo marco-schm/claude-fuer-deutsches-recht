@@ -1,6 +1,6 @@
 ---
 name: inso-p211-einstellung-nach-anzeige-der-masseunzulanglichkeit
-description: "§ 211 InsO (Einstellung nach Anzeige der Masseunzulänglichkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 211 InsO (Einstellung nach Anzeige der Masseunzulänglichkeit) im Mandat prüf..."
+description: "Wenn es um Inso P211 Einstellung Nach Anzeige Der Masseunzulanglichkeit in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 211 InsO (Einstellung nach Anzeige der Masseunzulänglichkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

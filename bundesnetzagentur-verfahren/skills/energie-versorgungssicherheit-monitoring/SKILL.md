@@ -1,6 +1,6 @@
 ---
 name: energie-versorgungssicherheit-monitoring
-description: "Energie / Versorgungssicherheit Monitoring: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT im BNetzA-Verfahren."
+description: "Wenn es um Energie: Versorgungssicherheit Monitoring in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Energie: Versorgungssicherheit Monitoring

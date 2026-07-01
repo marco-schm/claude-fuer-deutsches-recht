@@ -1,6 +1,6 @@
 ---
 name: begruendung-anhoerung-adressatenfaehigkeit
-description: "Verknuepft zivilrechtliche Methodik mit Verfahrensfairness: rechtliches Gehoer, Parteivortrag, Beweis, Begruendung, Ueberraschungsverbot und adressatenfaehige Rechtsanwendung."
+description: "Wenn es um Begründung, Anhörung und Adressatenfähigkeit in Methodenlehre bürgerliches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Begründung, Anhörung und Adressatenfähigkeit

@@ -1,6 +1,6 @@
 ---
 name: dpa-en-controller-tmpl
-description: "English language Controller-to-Controller data sharing agreement template used between two independent controllers exchanging personal data under the GDPR. Used when neither Article 26 nor Article 28 GDPR applies but the parties want a contractual data sharing framework. Output: complete English..."
+description: "Wenn es um Data Sharing Agreement – English Template Controller / Controller in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Data Sharing Agreement – English Template Controller / Controller

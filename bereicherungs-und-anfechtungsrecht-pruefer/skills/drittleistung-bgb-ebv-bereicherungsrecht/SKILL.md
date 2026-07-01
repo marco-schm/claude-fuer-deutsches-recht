@@ -1,6 +1,6 @@
 ---
 name: drittleistung-bgb-ebv-bereicherungsrecht
-description: "Anwendungsfall: ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Normen: §§ 267 und 268 BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaf..."
+description: "Wenn es um Drittleistung nach Paragraf 267 BGB und Rückgriff in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Drittleistung BGB Ebv Bereicherungsrecht; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # Drittleistung nach § 267 BGB und Rückgriff

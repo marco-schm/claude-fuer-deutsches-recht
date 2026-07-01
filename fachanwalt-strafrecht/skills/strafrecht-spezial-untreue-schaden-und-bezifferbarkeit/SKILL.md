@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-untreue-schaden-und-bezifferbarkeit
-description: "Vermögensschaden bei Paragraph 266 StGB Untreue: BGH-Stufenmodell und BVerfG-Vorgaben zur Bezifferbarkeit. Schadensgleiche Vermögensgefaehrdung als Verfassungsfrage. Revisionsangriffe gegen unzureichende S..."
+description: "Wenn es um Vermögensschaden bei Paragraph 266 StGB Untreue in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vermögensschaden bei Paragraph 266 StGB Untreue

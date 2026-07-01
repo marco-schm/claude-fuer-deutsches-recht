@@ -1,6 +1,6 @@
 ---
 name: patria-potestas-und-hausgewalt
-description: "Römisches Recht: Patria Potestas Und Hausgewalt. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Patria Potestas Und Hausgewalt in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patria Potestas Und Hausgewalt

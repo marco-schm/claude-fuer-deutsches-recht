@@ -1,6 +1,6 @@
 ---
 name: referentenentwurf-bauen
-description: "Vollständigen Referentenentwurf des Bundes oder Landes aufbauen. Anwendungsfall legistischer Auftrag ist aufgenommen, Startbahn und Normebene sind bestimmt und ein Bundes- oder Landesministerium braucht Entwurfstext und Begründung. Klaert Bundesressort oder Landesministerium, Bundesland, Landesve..."
+description: "Wenn es um Referentenentwurf bauen in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Referentenentwurf bauen

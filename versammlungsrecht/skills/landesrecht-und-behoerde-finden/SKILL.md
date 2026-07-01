@@ -1,6 +1,6 @@
 ---
 name: landesrecht-und-behoerde-finden
-description: "Findet das anwendbare Landesversammlungsgesetz und die konkrete zuständige Versammlungsbehörde oder Polizei anhand von Ort und Route im Versammlungsrecht."
+description: "Wenn es um Föderaler Zuständigkeitsfinder in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Föderaler Zuständigkeitsfinder

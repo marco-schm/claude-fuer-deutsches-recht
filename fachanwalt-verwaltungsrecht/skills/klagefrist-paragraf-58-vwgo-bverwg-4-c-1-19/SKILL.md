@@ -1,6 +1,6 @@
 ---
 name: klagefrist-paragraf-58-vwgo-bverwg-4-c-1-19
-description: "Klagefrist Paragraf 58 VwGO BVerwG 4 C 1 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Klagefrist Paragraf 58 VwGO BVerwG 4 C 1 19 in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klagefrist Paragraf 58 VwGO BVerwG 4 C 1 19

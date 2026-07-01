@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-teilloesung-rangfreigabe
-description: "Prüft Teilflächen, Freigabeerklärung, Rangwirkung, Bankbrief und Vollzug im Grundbuchamt Praxis."
+description: "Wenn es um Teillöschung und Rangfreigabe in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Teillöschung und Rangfreigabe

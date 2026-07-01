@@ -1,6 +1,6 @@
 ---
 name: inso-p342-herausgabepflicht-anrechnung
-description: "§ 342 InsO (Herausgabepflicht: Anrechnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung."
+description: "Wenn es um Paragraf 342 InsO (Herausgabepflicht in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 342 InsO (Herausgabepflicht

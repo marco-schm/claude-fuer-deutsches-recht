@@ -1,6 +1,6 @@
 ---
 name: einbeziehung-online-clickwrap-browsewrap
-description: "Norm- und Dogmatik-Skill für Einbeziehung Online Clickwrap Browsewrap: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Einbeziehung Online Clickwrap Browsewrap in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Einbeziehung Online Clickwrap Browsewrap

@@ -1,6 +1,6 @@
 ---
 name: zugang-neu-001-kuendigungszugang-beweislast-und-zugangsmoment
-description: "Arbeitsrecht: Kündigungszugang Beweislast und Zugangsmoment mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis: Arbeitsrecht: Kündigungszugang Beweislast und Zugangsmoment mit konkreter Fachprüfung, Quellenhygiene, Feh..."
+description: "Wenn es um Zugang Neu 001 Kuendigungszugang Beweislast Und Zugangsmoment in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsrecht: Kündigungszugang Beweislast und Zugangsmoment mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.

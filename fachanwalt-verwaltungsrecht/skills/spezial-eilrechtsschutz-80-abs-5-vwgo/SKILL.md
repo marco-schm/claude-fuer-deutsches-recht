@@ -1,6 +1,6 @@
 ---
 name: spezial-eilrechtsschutz-80-abs-5-vwgo
-description: "Eilrechtsschutz nach § 80 Abs. 5 VwGO: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output."
+description: "Wenn es um Eilrechtsschutz nach Paragraf 80 Abs. 5 VwGO in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eilrechtsschutz nach § 80 Abs. 5 VwGO

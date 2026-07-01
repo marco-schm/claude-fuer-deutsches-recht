@@ -1,6 +1,6 @@
 ---
 name: zeugenbeistand-internationaler-bezug-und-schnittstellen
-description: "Zeugenbeistand: Internationaler Bezug und Schnittstellen: Zeugenbeistand: Internationaler Bezug und Schnittstellen."
+description: "Wenn es um Zeugenbeistand: Internationaler Bezug und Schnittstellen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zeugenbeistand: Internationaler Bezug und Schnittstellen

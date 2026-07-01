@@ -1,6 +1,6 @@
 ---
 name: dba-home-office-pandemie-folgeregelung
-description: "Konsultations-Vereinbarungen zu Home-Office wahrend und nach Pandemie. Anwendungsfall Grenzüberschreitender Arbeitnehmer mit Home-Office-Tagen. Konkrete Vereinbarungen DE-Schweiz DE-Oesterreich DE-Luxemburg DE-Niederlande DE-Frankreich DE-Belgien. Schwellenregelungen. Output Mandanten-Memo Berech..."
+description: "Wenn es um Home-Office und Konsultations-Vereinbarungen DBA (Pandemie-Folgeregelung) in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Home-Office und Konsultations-Vereinbarungen DBA (Pandemie-Folgeregelung)

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Anwalts-Dashboard Fachanwalt Verkehrsrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs, Norm-Radar; maximal eine Rückfrage. Der Anwalt bleibt im Driver Seat."
+description: "Wenn es um Anwalts-Dashboard Fachanwalt Verkehrsrecht in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwalts-Dashboard Fachanwalt Verkehrsrecht

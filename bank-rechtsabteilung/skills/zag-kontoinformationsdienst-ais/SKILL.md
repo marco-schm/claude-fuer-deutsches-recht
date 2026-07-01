@@ -1,6 +1,6 @@
 ---
 name: zag-kontoinformationsdienst-ais
-description: "Kontoinformationsdienst nach ZAG und PSD2 prüfen: Registrierung, Datenzugriff, Schnittstelle, Consent, Versicherung, Datenschutz, Open-Banking-Verträge und White-Label-Modelle im Bank-Rechtsabteilung."
+description: "Wenn es um Kontoinformationsdienst (AIS) nach ZAG und PSD2 in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kontoinformationsdienst (AIS) nach ZAG und PSD2

@@ -1,6 +1,6 @@
 ---
 name: digital-services-melde-und-abhilfeverfahren-notice-and-action
-description: "Digital Services / Melde- und Abhilfeverfahren Notice and Action: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren."
+description: "Wenn es um Melde- und Abhilfeverfahren (\"Notice and Action\") nach Art. 16 DSA in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Melde- und Abhilfeverfahren ("Notice and Action") nach Art. 16 DSA

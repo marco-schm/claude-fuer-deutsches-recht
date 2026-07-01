@@ -1,6 +1,6 @@
 ---
 name: inso-grundzuege-verfahrenstypen
-description: "Grundzuege Insolvenz- und Sanierungsverfahrenstypen: Regelinsolvenz, Eigenverwaltung mit oder ohne Schutzschirm, Insolvenzplan, StaRUG-Restrukturierungsplan, Verbraucherinsolvenz: Grundzuege Insolvenz- und Sanierungsverfahrenstypen: Regelinsolvenz, Eigenver..."
+description: "Wenn es um Inso Grundzuege Verfahrenstypen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundzuege Insolvenz- und Sanierungsverfahrenstypen: Regelinsolvenz, Eigenverwaltung mit oder ohne Schutzschirm, Insolvenzplan, StaRUG-Restrukturierungsplan, Verbraucherinsolvenz

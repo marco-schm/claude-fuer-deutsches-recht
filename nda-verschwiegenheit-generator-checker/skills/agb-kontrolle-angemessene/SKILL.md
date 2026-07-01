@@ -1,6 +1,6 @@
 ---
 name: agb-kontrolle-angemessene
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Agb Kontrolle B2B Und B2C; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Agb Kontrolle B2B Und B2C in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Agb Kontrolle B2B Und B2C

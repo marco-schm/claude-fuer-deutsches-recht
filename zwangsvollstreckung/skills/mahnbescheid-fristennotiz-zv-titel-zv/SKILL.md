@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid-fristennotiz-zv-titel-zv
-description: "Mahnbescheid: Fristennotiz und nächster Schritt im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Mahnbescheid: Fristennotiz und nächster Schritt in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mahnbescheid: Fristennotiz und nächster Schritt

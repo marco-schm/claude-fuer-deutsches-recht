@@ -1,6 +1,6 @@
 ---
 name: kueschk-streitwert-kostenfolge-prozesskostenhilfe
-description: "Streitwert nach Paragraf 42 GKG drei Bruttomonatsgehaelter: Paragraf 12a ArbGG keine Kostenerstattung erste Instanz; Ausnahme Berufung; Prozesskostenhilfe Paragrafen 114 ff. ZPO für einkommensschwache Parteien; praktische Hinw..."
+description: "Wenn es um Streitwert nach Paragraf 42 GKG drei Bruttomonatsgehaelter in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Streitwert nach Paragraf 42 GKG drei Bruttomonatsgehaelter

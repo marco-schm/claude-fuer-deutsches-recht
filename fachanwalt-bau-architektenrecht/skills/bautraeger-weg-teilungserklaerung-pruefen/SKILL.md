@@ -1,6 +1,6 @@
 ---
 name: bautraeger-weg-teilungserklaerung-pruefen
-description: "WEG-Teilungserklaerung beim Bautraegervertrag prüfen: Skill klaert was in der Teilungserklaerung steht (Sondereigentum Gemeinschaftseigentum) wie sie gepruef wird und welche Klauseln problematisch sind..."
+description: "Wenn es um WEG-Teilungserklaerung beim Bautraegervertrag prüfen in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG-Teilungserklaerung beim Bautraegervertrag prüfen

@@ -1,6 +1,6 @@
 ---
 name: btog-schriftsatz-brief-und-memo-bausteine
-description: "Btog: Schriftsatz-, Brief- und Memo-Bausteine im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Btog: Schriftsatz-, Brief- und Memo-Bausteine in Betreuungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Btog: Schriftsatz-, Brief- und Memo-Bausteine

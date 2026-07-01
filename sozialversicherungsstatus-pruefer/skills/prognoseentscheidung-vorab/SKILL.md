@@ -1,6 +1,6 @@
 ---
 name: prognoseentscheidung-vorab
-description: "Prüft Vorab-Statusfeststellung und Prognose anhand geplanter Vertrags- und Einsatzrealität im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Prognoseentscheidung vor Einsatzbeginn in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prognoseentscheidung vor Einsatzbeginn

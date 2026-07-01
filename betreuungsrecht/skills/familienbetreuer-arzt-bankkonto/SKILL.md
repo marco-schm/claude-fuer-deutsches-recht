@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-arzt-bankkonto
-description: "Kommunikation mit Ärzten, Krankenhaus, Heim, Pflegedienst, Pflegekasse und Sozialleistungsträgern; Wunschermittlung und Datenschutz im Betreuungsrecht."
+description: "Wenn es um Familienbetreuer: Arzt, Heim, Pflegekasse in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Familienbetreuer: Arzt, Heim, Pflegekasse

@@ -1,6 +1,6 @@
 ---
 name: acc3-mandantenmemo-slot-register
-description: "Anwalt schreibt Mandantenmemo für ACC3-Carrier zu Designierungsverlust Sicherheitsauflage Insolvenznaehe oder Validierungsfehler. Skill strukturiert Memo mit Sachverhalt EU-Sicherheitsrecht Handlungsoptionen und Empfehlung im Luftrecht Flughafenrecht."
+description: "Wenn es um ACC3 – Mandantenmemo schreiben in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # ACC3 – Mandantenmemo schreiben

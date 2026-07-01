@@ -1,6 +1,6 @@
 ---
 name: urhmr-presserecht-gegendarstellung-spezial
-description: "Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsachenbehauptung, Glaubhaftmachung, Erscheinungsweise und Aufmachung, Aktualitaet: Spezialfall presserechtliche Gegendarstellung: Landespresse..."
+description: "Wenn es um Urhmr Presserecht Gegendarstellung Spezial in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsachenbehauptung, Glaubhaftmachung, Erscheinungsweise und Aufmachung, Aktualitaet

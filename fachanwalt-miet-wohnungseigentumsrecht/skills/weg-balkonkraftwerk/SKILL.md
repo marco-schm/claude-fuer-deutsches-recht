@@ -1,6 +1,6 @@
 ---
 name: weg-balkonkraftwerk
-description: "WEG Balkonkraftwerk: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Gestattung, optische Wirkung, Technik, Netz, Versicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbe..."
+description: "Wenn es um WEG Balkonkraftwerk: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Balkonkraftwerk: Fachmodul im Miet- und Wohnungseigentumsrecht

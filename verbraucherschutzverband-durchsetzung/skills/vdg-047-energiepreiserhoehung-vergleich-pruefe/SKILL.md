@@ -1,6 +1,6 @@
 ---
 name: vdg-047-energiepreiserhoehung-vergleich-pruefe
-description: "Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Vergleich prüfen. Vergleich prüfen für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Energiepreiserhoehung Vergleich Pruefe in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Energiepreiserhoehung Vergleich Pruefe

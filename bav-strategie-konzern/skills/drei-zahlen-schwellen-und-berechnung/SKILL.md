@@ -1,6 +1,6 @@
 ---
 name: drei-zahlen-schwellen-und-berechnung
-description: "Drei: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Drei: Zahlen, Schwellenwerte und Berechnung in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Drei: Zahlen, Schwellenwerte und Berechnung

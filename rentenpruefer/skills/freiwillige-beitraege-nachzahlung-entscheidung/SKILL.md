@@ -1,6 +1,6 @@
 ---
 name: freiwillige-beitraege-nachzahlung-entscheidung
-description: "Prüft freiwillige Beiträge und Nachzahlungen: Wartezeit schließen, Rentenminderung ausgleichen, Anwartschaft sichern oder Liquidität behalten, jeweils mit Beleg- und Stichtagslogik."
+description: "Wenn es um Freiwillige Beiträge Nachzahlung Entscheidung in Rentenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Freiwillige Beiträge Nachzahlung Entscheidung

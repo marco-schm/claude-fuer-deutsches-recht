@@ -1,6 +1,6 @@
 ---
 name: us-selektivvertrieb-und-mfp-tiffany-vs-costco
-description: "US-Vertriebsrecht für Luxusmarken: Resale Price Maintenance und MAP-Policies kartellrechtskonform gestalten. Normen: Sherman Act § 1, Leegin 551 U.S. 877 (Rule of Reason), Colgate Doctrine (unilateral), Tiffany v. Costco (Trademark Dilution durch Discount). Prüfraster: RPM-Legalitaet nach Leegin,..."
+description: "Wenn es um US-Selektivvertrieb, Resale Price Maintenance und MAP-Policies in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # US-Selektivvertrieb, Resale Price Maintenance und MAP-Policies

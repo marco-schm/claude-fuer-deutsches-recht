@@ -1,6 +1,6 @@
 ---
 name: digitale-inhalte-klagepfad-skizzieren
-description: "Prüfer: Digitale Inhalte: Klagepfad skizzieren im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Digitale Inhalte Klagepfad Skizzieren in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Digitale Inhalte Klagepfad Skizzieren

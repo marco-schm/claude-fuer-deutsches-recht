@@ -1,6 +1,6 @@
 ---
 name: pralr-034-fraktur-lesen-und-begriffe-entschluesseln
-description: "PrALR: Frakturbegriffe, alte Orthographie, lange s, Genugthuung, Versehen und historische Terminologie erklären."
+description: "Wenn es um Begriffe entschlüsseln in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 034 Fraktur Lesen Und Begriffe Entschluesseln; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Begriffe entschlüsseln

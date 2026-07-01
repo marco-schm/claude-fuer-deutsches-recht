@@ -1,6 +1,6 @@
 ---
 name: weg-mieter-in-versammlung
-description: "Mieter in Versammlung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Teilnahme, Vollmacht, Datenschutz, Rederecht, Unterlagen; mit Normprüfung, Beweisen, Fristen, Risikoampel und A..."
+description: "Wenn es um Mieter in Versammlung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mieter in Versammlung: Fachmodul im Miet- und Wohnungseigentumsrecht

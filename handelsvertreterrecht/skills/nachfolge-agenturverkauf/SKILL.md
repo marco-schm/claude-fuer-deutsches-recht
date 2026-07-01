@@ -1,6 +1,6 @@
 ---
 name: nachfolge-agenturverkauf
-description: "Analysiert den Verkauf einer Handelsvertretungsagentur: Übertragung des Vertretervertrags mit Zustimmung des Unternehmers, Auswirkungen auf Ausgleichsanspruch nach § 89b Abs. 3 Nr. 3 HGB, Kaufpreisermittlung für den Kundenstamm, Wettbewerbsklauseln im Agenturverkauf und Regelungen zur Nachfolge i..."
+description: "Wenn es um Agenturverkauf und Nachfolge im Handelsvertreterrecht in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agenturverkauf und Nachfolge im Handelsvertreterrecht

@@ -1,6 +1,6 @@
 ---
 name: v392-fachanwaltsblick-fachanwalt-miet-wohnungseigentumsrecht
-description: "Fachanwaltsblick für Miet- und Wohnungseigentumsrecht: Mandantengespräch, typische Fallkonstellationen, FAO-geprägte Themenbreite, Belegbedarf, Schriftsatzstruktur und taktischer nächster Schritt werden zusammengeführt."
+description: "Wenn es um Fachanwaltsblick Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Fachanwaltsblick Miet- und Wohnungseigentumsrecht

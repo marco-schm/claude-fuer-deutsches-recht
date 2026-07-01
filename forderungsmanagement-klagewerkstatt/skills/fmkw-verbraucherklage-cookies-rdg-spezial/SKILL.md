@@ -1,6 +1,6 @@
 ---
 name: fmkw-verbraucherklage-cookies-rdg-spezial
-description: "Spezialfall Verbraucherklageinkasso und RDG-Grenzen: Massenforderungen, Sammelklage als Modell, Anti-Claim-Klausel. Pruefraster fuer Legal-Tech und Anwaelte."
+description: "Wenn es um FMKW: Verbraucherinkasso RDG in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # FMKW: Verbraucherinkasso RDG

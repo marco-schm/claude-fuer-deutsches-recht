@@ -1,6 +1,6 @@
 ---
 name: workflow-ce-akte-und-technische-dokumentation
-description: "Erstellt eine CE-/Konformitätsakte mit technischer Dokumentation, EU-Konformitätserklärung, Einbauerklärung, Anleitung, Prüfprotokollen und offenen Nachweisen im Robotik-Recht."
+description: "Wenn es um CE-Akte und technische Dokumentation in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Workflow Ce Akte Und Technische Dokumentation; Arbeitsfeld: robotik-recht."
 ---
 
 # CE-Akte und technische Dokumentation

@@ -1,6 +1,6 @@
 ---
 name: public-procurement-bid-rigging
-description: "Bid Rigging und Vergabe: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Bietergemeinschaft, Subcontracting, Angebotsmuster, Selbstreinigung und Schadensersatz prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzun..."
+description: "Wenn es um Bid Rigging und Vergabe in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bid Rigging und Vergabe

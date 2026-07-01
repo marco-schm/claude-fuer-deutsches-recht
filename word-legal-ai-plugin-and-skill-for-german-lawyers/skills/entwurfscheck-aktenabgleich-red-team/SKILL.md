@@ -1,6 +1,6 @@
 ---
 name: entwurfscheck-aktenabgleich-red-team
-description: "Prüft juristische Entwuerfe gegen Akte, Ziel, Belege, Rechtsstand, Ton und Ausgabezweck. Findet Abweichungen, unbewiesene Behauptungen, fehlende Antraege, schwache Argumente und riskante Formulierungen."
+description: "Wenn es um Entwurfscheck, Aktenabgleich und Red Team in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Entwurfscheck, Aktenabgleich und Red Team

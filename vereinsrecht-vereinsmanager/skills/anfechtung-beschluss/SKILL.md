@@ -1,6 +1,6 @@
 ---
 name: anfechtung-beschluss
-description: "Prüft fehlerhafte Einladung, Tagesordnung, Mehrheit, Stimmrecht, Befangenheit und Vorgehen gegen Beschlüsse im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Beschlussmängel in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschlussmängel

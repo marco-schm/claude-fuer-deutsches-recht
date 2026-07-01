@@ -1,6 +1,6 @@
 ---
 name: bauordnungsamt-anordnung
-description: "Hilft bei Nutzungsuntersagung, Beseitigungsverfügung, Baustopp, Anhörung, Sofortvollzug und Eilantrag im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Bauordnungsamt-Anordnung in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bauordnungsamt-Anordnung

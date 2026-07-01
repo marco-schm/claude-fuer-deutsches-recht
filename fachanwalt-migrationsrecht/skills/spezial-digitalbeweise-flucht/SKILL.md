@@ -1,6 +1,6 @@
 ---
 name: spezial-digitalbeweise-flucht
-description: "Digitale Beweise Flucht: Spezial-Skill im Migrationsrecht; prüft Fotos, Chats, Social Media, Metadaten, Übersetzung, Sicherheit; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Digitale Beweise Flucht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitale Beweise Flucht

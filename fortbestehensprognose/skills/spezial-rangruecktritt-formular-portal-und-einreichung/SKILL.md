@@ -1,6 +1,6 @@
 ---
 name: spezial-rangruecktritt-formular-portal-und-einreichung
-description: "Rangruecktritt: Formular, Portal und Einreichungslogik im Plugin fortbestehensprognose; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Rangruecktritt: Formular, Portal und Einreichungslogik in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rangruecktritt: Formular, Portal und Einreichungslogik

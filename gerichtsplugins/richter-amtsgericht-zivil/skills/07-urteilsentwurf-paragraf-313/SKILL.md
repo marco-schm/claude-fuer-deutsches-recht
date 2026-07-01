@@ -1,6 +1,6 @@
 ---
 name: 07-urteilsentwurf-paragraf-313
-description: "Urteilsentwurf nach Paragraf 313 ZPO: Rubrum, Tenor, Tatbestand (gestraffter Vortrag), Entscheidungsgründe (Begründetheit, Hauptpunkt, Beweiswürdigung), Nebenentscheidungen, Rechtsmittelbelehrung"
+description: "Wenn es um 07 Urteilsentwurf Paragraf 313 in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 07 Urteilsentwurf Paragraf 313

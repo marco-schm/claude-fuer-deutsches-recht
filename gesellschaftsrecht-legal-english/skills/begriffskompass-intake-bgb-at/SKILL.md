@@ -1,6 +1,6 @@
 ---
 name: begriffskompass-intake-bgb-at
-description: "Erfasst einen Corporate-English-Begriff mit Dokument, Rechtsordnung, Parteirolle, deutscher Naeherung, False-Friend-Risiko und gewuenschtem Arbeitsprodukt im Gesellschaftsrecht Legal English."
+description: "Wenn es um Begriffskompass Intake in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Begriffskompass Intake

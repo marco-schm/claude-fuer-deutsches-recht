@@ -1,6 +1,6 @@
 ---
 name: anlagenverzeichnis-gericht-kanzlei-und-intern
-description: "Erstellt getrennte Anlagenverzeichnisse: schlank für Gericht, ausführlicher für Kanzlei und technisch mit Dateipfad, Hash, Quelle und Bearbeitungsstatus."
+description: "Wenn es um Anlagenverzeichnis für Gericht, Kanzlei und intern in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Anlagenverzeichnis Gericht Kanzlei Und Intern; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Anlagenverzeichnis für Gericht, Kanzlei und intern

@@ -1,6 +1,6 @@
 ---
 name: quellenhygiene-beamtenrecht-fundstellen-red-team-korrektur
-description: "Quellenhygiene-Red-Team für Beamten- und Richterrecht: erkennt verrutschte Fundstellen, private Datenbankzitate, falsche Entscheidungsdaten, Landesrechtsfallen und alte Rechtslage."
+description: "Wenn es um Quellenhygiene im Beamten- und Richterrecht in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Quellenhygiene im Beamten- und Richterrecht

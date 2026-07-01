@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmftr
-description: "Ressortaufgaben BMFTR: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium für Forschung; Technologie und Raumfahrt. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundes..."
+description: "Wenn es um Ressortaufgaben BMFTR in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressortaufgaben BMFTR

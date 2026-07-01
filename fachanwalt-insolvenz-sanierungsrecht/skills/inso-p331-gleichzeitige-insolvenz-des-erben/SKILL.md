@@ -1,6 +1,6 @@
 ---
 name: inso-p331-gleichzeitige-insolvenz-des-erben
-description: "§ 331 InsO (Gleichzeitige Insolvenz des Erben) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 331 InsO (Gleichzeitige Insolvenz des Erben) im Mandat prüfen: Normzweck, Tatbestand, Belege,..."
+description: "Wenn es um Inso P331 Gleichzeitige Insolvenz Des Erben in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 331 InsO (Gleichzeitige Insolvenz des Erben) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: avv-rolemix-getrennt-vs-gemeinsam-verantwortlich
-description: "Abgrenzung Rollenmix Art: 4 Nr. 7 versus Art. 26 versus Art. 28 DSGVO. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema für Mischkonstellatio..."
+description: "Wenn es um Abgrenzung Rollenmix Art in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Abgrenzung Rollenmix Art

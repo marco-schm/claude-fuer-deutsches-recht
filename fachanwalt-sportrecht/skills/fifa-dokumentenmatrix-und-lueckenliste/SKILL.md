@@ -1,6 +1,6 @@
 ---
 name: fifa-dokumentenmatrix-und-lueckenliste
-description: "Fifa: Dokumentenmatrix, Lückenliste und Nachforderung: Fifa: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Wenn es um Fifa: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Sportrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Fifa: Dokumentenmatrix, Lückenliste und Nachforderung

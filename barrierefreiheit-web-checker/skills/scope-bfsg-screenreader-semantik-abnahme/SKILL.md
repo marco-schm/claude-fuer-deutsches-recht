@@ -1,6 +1,6 @@
 ---
 name: scope-bfsg-screenreader-semantik-abnahme
-description: "Prüft den Rechtsrahmen digitaler Barrierefreiheit: BFSG, BFSGV, BITV 2.0, Web Accessibility Directive, European Accessibility Act, öffentlicher Sektor, B2C-E-Commerce, Kleinstunternehmen und freiwilliger Standard. Output: Scope-Memo im Barrierefreiheit Web Checker."
+description: "Wenn es um Scope: BFSG, BITV, WAD, freiwilliger Standard in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Scope: BFSG, BITV, WAD, freiwilliger Standard

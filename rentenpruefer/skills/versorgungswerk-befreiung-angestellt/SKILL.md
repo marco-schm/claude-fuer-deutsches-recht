@@ -1,6 +1,6 @@
 ---
 name: versorgungswerk-befreiung-angestellt
-description: "Prüft Befreiung von der DRV bei angestellten Kammerberufen: Beschäftigungsbezug, Antrag, Frist, Arbeitgebermeldung, Doppelbeitrag, Widerspruch und Sozialgericht."
+description: "Wenn es um Versorgungswerk-Befreiung bei Angestellten in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versorgungswerk-Befreiung bei Angestellten

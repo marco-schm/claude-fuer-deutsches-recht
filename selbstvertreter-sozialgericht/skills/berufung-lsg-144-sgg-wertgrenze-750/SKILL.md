@@ -1,6 +1,6 @@
 ---
 name: berufung-lsg-144-sgg-wertgrenze-750
-description: "Berufung zum LSG nach § 144 SGG. Wertgrenze 750 EUR und laufende Leistungen über 1 Jahr. Mustertext für Buerger ohne Anwalt mit Hinweis auf Anwaltsempfehlung."
+description: "Wenn es um Berufung zum LSG — Paragraf 144 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berufung zum LSG — § 144 SGG

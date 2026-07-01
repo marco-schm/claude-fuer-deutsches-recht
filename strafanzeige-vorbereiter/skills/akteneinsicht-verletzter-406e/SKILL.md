@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-verletzter-406e
-description: "Akteneinsicht für Verletzte und ihre Anwälte: Voraussetzungen, Schutzinteressen, Datenschutz und Taktik im Strafanzeige-Vorbereitung."
+description: "Wenn es um Akteneinsicht Verletzter Paragraf 406e StPO in Strafanzeige-Vorbereiter geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Akteneinsicht Verletzter § 406e StPO

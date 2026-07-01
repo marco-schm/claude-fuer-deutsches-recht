@@ -1,6 +1,6 @@
 ---
 name: bussgeld-vermeidung-heilung
-description: "Verspätete/falsche Meldungen: Selbstkorrektur, Fristverlängerung, Anhörung, Bußgeldabwehr und Governance-Fix im Berichtspflichten."
+description: "Wenn es um Bußgeldvermeidung und Heilung in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bußgeldvermeidung und Heilung

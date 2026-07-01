@@ -1,6 +1,6 @@
 ---
 name: formkaufmann-paragraph-gmbh-co
-description: "Prüft Kaufmannseigenschaft kraft Rechtsform bei Handelsgesellschaften und juristischen Personen im Handelsrecht Hgb."
+description: "Wenn es um Formkaufmann Paragraf 6 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Formkaufmann § 6 HGB

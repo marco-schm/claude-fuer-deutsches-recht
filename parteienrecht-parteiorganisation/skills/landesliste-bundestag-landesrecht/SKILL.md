@@ -1,6 +1,6 @@
 ---
 name: landesliste-bundestag-landesrecht
-description: "Begleitet Landeslistenaufstellung: Delegierten-/Mitgliederversammlung, Reihenfolge, geheime Wahl, Unterlagen, Fristen, Landeswahlleiter im Parteienrecht."
+description: "Wenn es um Landesliste Bundestag in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Landesliste Bundestag Landesrecht; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Landesliste Bundestag

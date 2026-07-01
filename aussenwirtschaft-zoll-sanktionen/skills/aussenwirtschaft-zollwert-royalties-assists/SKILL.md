@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollwert-royalties-assists
-description: "Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists nach UZK Art. 71: Prüfung ob Lizenz als Verkaufsbedingung gilt und Hinzurechnung zum Transaktionswert. Assists (unentgeltliche Beistellungen wie Werkzeuge Muster Technologie) und deren Bewertung. Risiko rueckwirkender Zollnacherheb..."
+description: "Wenn es um Zollwert: Lizenzgebuehren Assists und Hinzurechnungen nach UZK Art. 71 in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Zollwert: Lizenzgebuehren Assists und Hinzurechnungen nach UZK Art. 71

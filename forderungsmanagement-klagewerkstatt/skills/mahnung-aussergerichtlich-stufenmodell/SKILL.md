@@ -1,6 +1,6 @@
 ---
 name: mahnung-aussergerichtlich-stufenmodell
-description: "Aussergerichtliches Mahnverfahren in Stufen: 1. kostenfreie Erinnerung, 2. erste Mahnung verzugsbegruendend Paragraf 286 BGB, 3. zweite/letzte Mahnung mit Fristsetzung. B2B: 30-Tage-Regel Paragraf 286 Abs. 3 BGB. Verbraucher: Belehrungspflicht. Output: Mahnvorlage je Stufe + Vermerk Verzugsdatum."
+description: "Wenn es um Mahnung aussergerichtlich – Stufenmodell in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mahnung aussergerichtlich – Stufenmodell

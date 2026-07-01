@@ -1,6 +1,6 @@
 ---
 name: familiengesellschaft
-description: "Prüft Familien-GbR/GmbH/KG für Vermögen, Nachfolge, Minderjährige und Stimmrechte im Gesellschaftsgruender."
+description: "Wenn es um Familiengesellschaft und Nachfolge in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Familiengesellschaft und Nachfolge

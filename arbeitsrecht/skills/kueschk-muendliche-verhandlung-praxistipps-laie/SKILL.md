@@ -1,6 +1,6 @@
 ---
 name: kueschk-muendliche-verhandlung-praxistipps-laie
-description: "Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten: Kleidung; Anrede des Gerichts; Sitzungsverlauf; Verhalten bei Vergleichsvorschlag; Stre..."
+description: "Wenn es um Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten in Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten

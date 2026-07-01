@@ -1,6 +1,6 @@
 ---
 name: internationaler-patentrechts-und-laendercheck
-description: "Routet grenzüberschreitende Patentmandate nach DE, EP, UPC, PCT, USA, Kanada, Japan, Schweiz, UK, Türkei und Israel; trennt Recherche, Anmeldung, Rechtsstand, Verletzung, Rechtsbestand und lokale Counsel-Fragen im Patentrecht."
+description: "Wenn es um Internationaler Patent- und Ländercheck in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationaler Patent- und Ländercheck

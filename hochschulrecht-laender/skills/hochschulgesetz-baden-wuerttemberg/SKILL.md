@@ -1,6 +1,6 @@
 ---
 name: hochschulgesetz-baden-wuerttemberg
-description: "Prüft Hochschulrecht in Baden-Württemberg mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder."
+description: "Wenn es um Hochschulgesetz Baden Wuerttemberg in Hochschulrecht der Bundesländer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Hochschulgesetz Baden Wuerttemberg

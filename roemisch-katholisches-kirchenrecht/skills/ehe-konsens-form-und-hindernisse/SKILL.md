@@ -1,6 +1,6 @@
 ---
 name: ehe-konsens-form-und-hindernisse
-description: "Ehe: Konsens, Form und Hindernisse: Ehefähigkeit, Konsensmängel, Formpflicht, Dispens und Nichtigkeit; CIC can. 1055-1165; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung."
+description: "Wenn es um Ehe: Konsens, Form und Hindernisse in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ehe Konsens Form Und Hindernisse; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
 ---
 
 # Ehe: Konsens, Form und Hindernisse

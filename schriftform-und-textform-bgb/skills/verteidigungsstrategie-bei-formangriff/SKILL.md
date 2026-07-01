@@ -1,6 +1,6 @@
 ---
 name: verteidigungsstrategie-bei-formangriff
-description: "Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß Paragrafen 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (Paragraf 311b BGB) Nachholung der Form Paragraf 242 BGB Treuwidrigkeitseinwand (Berufung auf Formmangel wer selbst..."
+description: "Wenn es um Verteidigungsstrategie bei Formangriff in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verteidigungsstrategie bei Formangriff

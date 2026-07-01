@@ -1,6 +1,6 @@
 ---
 name: security-of-travel-and-devices
-description: "Reise- und Gerätesicherheit bei China-Reisen: Zollkontrolle Geräte Grenze CN (Durchsuchungsrisiken), Gerätesicherheitskonzept (Leihgeräte, Clean Phone), Exit-Ban-Risiko für Führungskräfte, Abhör-/Spionagerisiken in Hotelmeetings, sicherer Kommunikationskanal, Notfallprotokoll Geräteverlust. Outpu..."
+description: "Wenn es um Reise- und Gerätesicherheit China: Exit-Ban/Geräteprotokoll in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reise- und Gerätesicherheit China: Exit-Ban/Geräteprotokoll

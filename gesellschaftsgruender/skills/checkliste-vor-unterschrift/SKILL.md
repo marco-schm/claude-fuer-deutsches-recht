@@ -1,6 +1,6 @@
 ---
 name: checkliste-vor-unterschrift
-description: "Letztes Qualitygate vor Satzung, SHA, GF-Vertrag, Bankformular oder Notartermin im Gesellschaftsgruender."
+description: "Wenn es um Checkliste vor Unterschrift in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Checkliste vor Unterschrift

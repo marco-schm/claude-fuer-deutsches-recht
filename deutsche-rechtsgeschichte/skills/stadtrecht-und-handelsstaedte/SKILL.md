@@ -1,6 +1,6 @@
 ---
 name: stadtrecht-und-handelsstaedte
-description: "Deutsche Rechtsgeschichte: Stadtrecht und Handelsstaedte im Mittelalter. Magdeburger Recht, Luebisches Recht, Hanse, Kaufmannsgilden und Entstehung des fruehen Handelsrechts in Stadtrechtsfamilien im Deutsche Rechtsgeschichte."
+description: "Wenn es um Stadtrecht und Handelsstaedte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stadtrecht und Handelsstaedte

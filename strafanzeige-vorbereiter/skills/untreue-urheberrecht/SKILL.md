@@ -1,6 +1,6 @@
 ---
 name: untreue-urheberrecht
-description: "Untreue anzeigen: Vermögensbetreuungspflicht, Pflichtverletzung, Vermögensnachteil, Organ-/Mitarbeiterfälle im Strafanzeige-Vorbereitung."
+description: "Wenn es um Untreue Paragraf 266 StGB in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Untreue § 266 StGB

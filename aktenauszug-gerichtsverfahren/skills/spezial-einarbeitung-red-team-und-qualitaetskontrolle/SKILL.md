@@ -1,6 +1,6 @@
 ---
 name: spezial-einarbeitung-red-team-und-qualitaetskontrolle
-description: "Einarbeitung: Red-Team und Qualitätskontrolle im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Einarbeitung: Red-Team und Qualitätskontrolle in aktenauszug-gerichtsverfahren geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einarbeitung: Red-Team und Qualitätskontrolle

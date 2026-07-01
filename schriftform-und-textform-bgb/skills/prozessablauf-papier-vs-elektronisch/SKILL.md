@@ -1,6 +1,6 @@
 ---
 name: prozessablauf-papier-vs-elektronisch
-description: "Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schriftsatz oder Formfiktion wählen. Prüft Originalunterschrift, qES-Direktversand, Paragraf 130e ZPO, Paragraf 46h ArbGG, Textform per E-Mail, Zustellung und Beweisarchitektur. Output: konkrete Prozessabläufe und Entscheidungsmatrix im Schriftform..."
+description: "Wenn es um Prozessablauf — Papier vs. Elektronisch in Schriftform und Textform im BGB geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Prozessablauf — Papier vs. Elektronisch

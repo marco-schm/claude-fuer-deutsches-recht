@@ -1,6 +1,6 @@
 ---
 name: gesamtnichtigkeit-paragraf-306-bgb
-description: "Prueft Rechtsfolgen unwirksamer AGB-Klauseln nach Paragraf 306 BGB. Regelfolge ist Klauselwegfall und Eintreten der gesetzlichen Lage, keine geltungserhaltende Reduktion zugunsten des Verwenders. Gesamtnichtigkeit nach Paragraf 139 BGB nur bei Formverstoessen oder sittenwidrigem Gesamtgefuege."
+description: "Wenn es um Gesamtnichtigkeit Paragraf 306 BGB in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesamtnichtigkeit Paragraf 306 BGB

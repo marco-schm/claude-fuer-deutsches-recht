@@ -1,6 +1,6 @@
 ---
 name: methodenwahl-offenlegen-schriftsatz
-description: "Lehrt die professionelle Offenlegung der gewählten Auslegungsmethode in zivilrechtlichen Schriftsätzen und Gutachten. Das Skill zeigt, wie die Methodenwahl transparent dargestellt, begründet und gegen alternative Methoden abgegrenzt wird. Es stärkt die Überzeugungskraft und revisionsrechtliche Ha..."
+description: "Wenn es um Methodenwahl offenlegen: Handwerk im Schriftsatz in Methodenlehre bürgerliches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Methodenwahl offenlegen: Handwerk im Schriftsatz

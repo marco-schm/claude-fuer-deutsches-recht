@@ -1,6 +1,6 @@
 ---
 name: aufsichtsratsmemo
-description: "AG/SE-Aufsichtsrat Praxis: Aufsichtsratsmemo; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um Aufsichtsratsmemo in AG/SE-Aufsichtsrat Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Aufsichtsratsmemo

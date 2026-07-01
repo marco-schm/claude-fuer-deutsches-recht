@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-tax-step-plan-restrukturierung
-description: "Tax Step Plan für komplexe Restrukturierungen mit Sanierungsgewinn-Bezug: Reihenfolge der Strukturschritte zwischen Kapitalmaßnahmen, Forderungsverzicht, Debt-Equity-Swap, Anteilsüber..."
+description: "Wenn es um Tax Step Plan für komplexe Restrukturierungen mit Sanierungsgewinn-Bezug in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tax Step Plan für komplexe Restrukturierungen mit Sanierungsgewinn-Bezug

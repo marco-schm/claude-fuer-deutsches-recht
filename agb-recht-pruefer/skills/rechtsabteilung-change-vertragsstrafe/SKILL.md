@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-change-vertragsstrafe
-description: "Rechtsabteilungs-Fachmodul für Change-Control-Klauseln im Konzernvertrag: Einseitige Leistungs- und Prozessänderungen werden in komplexen Konzern-Frameworks auf Zumutbarkeit und Governance geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im AGB-Recht."
+description: "Wenn es um Rechtsabteilung: Change-Control-Klauseln im Konzernvertrag in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Rechtsabteilung Change Vertragsstrafe; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Rechtsabteilung: Change-Control-Klauseln im Konzernvertrag

@@ -1,6 +1,6 @@
 ---
 name: computerprogramm-69a-urhg-schutz
-description: "Prüft Schutzgegenstand deutscher Computerprogramme, Ausdruck, Schnittstellen, Dokumentation, Vorbereitungsmaterial und Ausschlüsse im Softwarerecht De Eu Us."
+description: "Wenn es um Computerprogramm-Schutz Paragraf 69a UrhG in Softwarerecht Deutschland/EU/International/USA geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Computerprogramm-Schutz § 69a UrhG

@@ -1,6 +1,6 @@
 ---
 name: kanzleisitz-und-zustellbarkeit
-description: "Kanzleisitz und Zustellbarkeit: prüft Kanzleisitz, Zustellungsbevollmächtigter, Erreichbarkeit und Registerdaten prüfen in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtliche Verfahren Freie Ber..."
+description: "Wenn es um Kanzleisitz und Zustellbarkeit in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Kanzleisitz und Zustellbarkeit

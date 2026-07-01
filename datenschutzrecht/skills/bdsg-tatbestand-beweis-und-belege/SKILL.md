@@ -1,6 +1,6 @@
 ---
 name: bdsg-tatbestand-beweis-und-belege
-description: "Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage: Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Wenn es um Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage

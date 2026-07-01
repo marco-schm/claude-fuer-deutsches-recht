@@ -1,6 +1,6 @@
 ---
 name: internationales-privatrecht
-description: "Anwendbares Recht bei grenzüberschreitenden Vertraegen und Delikten bestimmen: Auslandsbezug im Prozess erfordert IPR-Prüfung. Normen: Rom-I-VO (vertragliche Schuldverhältnisse), Rom-II-VO (außervertragliche), Art. 4 ff. EGBGB (autonomes IPR), Art. 9 Rom-I (Eingriffsnormen, z.B. DSGVO). Prüfraste"
+description: "Wenn es um Internationales Privatrecht in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Internationales Privatrecht; Arbeitsfeld: Urteilsbauer und Relationsmacher."
 ---
 
 # Internationales Privatrecht

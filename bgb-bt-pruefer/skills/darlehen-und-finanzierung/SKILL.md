@@ -1,6 +1,6 @@
 ---
 name: darlehen-und-finanzierung
-description: "Prüft Darlehensvertrag §§ 488 ff. BGB, Verbraucherdarlehen §§ 491 ff. BGB, Zinsen, Kündigung und Widerruf."
+description: "Wenn es um Darlehen und Finanzierung in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Darlehen und Finanzierung

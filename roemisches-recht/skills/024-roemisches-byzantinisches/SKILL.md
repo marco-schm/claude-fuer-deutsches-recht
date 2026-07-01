@@ -1,6 +1,6 @@
 ---
 name: 024-roemisches-byzantinisches
-description: "Römisches Recht: Römisches Recht und byzantinisches Sachenrecht im Römisches Recht: Bearbeite Römisches Recht und byzantinisches Sachenrecht im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen..."
+description: "Wenn es um Römisches Recht: Römisches Recht und byzantinisches Sachenrecht in Römisches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Römisches Recht: Römisches Recht und byzantinisches Sachenrecht

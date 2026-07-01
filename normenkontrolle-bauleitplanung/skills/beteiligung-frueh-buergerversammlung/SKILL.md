@@ -1,6 +1,6 @@
 ---
 name: beteiligung-frueh-buergerversammlung
-description: "Mandant greift Bebauungsplan wegen Fehlern in der Buerger- oder Behördenbeteiligung an. §§ 3 4 BauGB Beteiligungsverfahren. Prüfraster: fruehzeitige Beteiligung § 3 Abs. 1 foermliche Auslegung § 3 Abs. 2 mindestens 1 Monat Behördenbeteiligung §§ 4 Abs. 1 und 2 Wiederholung bei wesentlicher Änder"
+description: "Wenn es um Beteiligung — frühzeitig und förmlich in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Beteiligung Frueh Buergerversammlung; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Beteiligung — frühzeitig und förmlich

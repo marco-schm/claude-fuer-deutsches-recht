@@ -1,6 +1,6 @@
 ---
 name: staedtebaulicher-vertrag-angemessenheit-kausalitaet
-description: "Prueft Kausalitaet und Angemessenheit städtebaulicher Vertragsleistungen nach BauGB Paragraf 11 Absatz 2 mit Kostenlogik, Gegenleistungsbezug und Ueberforderungsschutz."
+description: "Wenn es um Kausalität und Angemessenheit im städtebaulichen Vertrag in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kausalität und Angemessenheit im städtebaulichen Vertrag

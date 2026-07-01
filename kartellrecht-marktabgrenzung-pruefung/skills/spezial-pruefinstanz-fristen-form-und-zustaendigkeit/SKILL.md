@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefinstanz-fristen-form-und-zustaendigkeit
-description: "Pruefinstanz: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Pruefinstanz: Fristen, Form, Zuständigkeit und Rechtsweg in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pruefinstanz: Fristen, Form, Zuständigkeit und Rechtsweg

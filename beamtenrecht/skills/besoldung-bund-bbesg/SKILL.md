@@ -1,6 +1,6 @@
 ---
 name: besoldung-bund-bbesg
-description: "Bundesbesoldung nach BBesG: Grundgehalt, Stufen, Zulagen, Familienzuschlag, Rückforderung und Verlust der Besoldung im Beamtenrecht."
+description: "Wenn es um Besoldung Bund Bbesg in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besoldung Bund Bbesg

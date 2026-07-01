@@ -1,6 +1,6 @@
 ---
 name: inso-p186-wiedereinsetzung-in-den-vorigen-stand
-description: "§ 186 InsO (Wiedereinsetzung in den vorigen Stand) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 186 InsO (Wiedereinsetzung in den vorigen Stand) im Mandat prüfen: Normzweck, Tatbestand,..."
+description: "Wenn es um Inso P186 Wiedereinsetzung In Den Vorigen Stand in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 186 InsO (Wiedereinsetzung in den vorigen Stand) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

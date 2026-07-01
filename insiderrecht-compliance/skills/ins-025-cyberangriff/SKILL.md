@@ -1,6 +1,6 @@
 ---
 name: ins-025-cyberangriff
-description: "Spezialskill Insiderrecht fuer Cyberangriff: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Cyberangriff in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insiderrecht: Cyberangriff

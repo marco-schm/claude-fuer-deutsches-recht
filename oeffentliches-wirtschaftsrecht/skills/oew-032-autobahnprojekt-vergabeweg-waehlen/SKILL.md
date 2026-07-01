@@ -1,6 +1,6 @@
 ---
 name: oew-032-autobahnprojekt-vergabeweg-waehlen
-description: "Öffentliches Wirtschaftsrecht: Autobahnprojekt: Vergabeweg wählen. Vergabeweg wählen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Autobahnprojekt Vergabeweg Waehlen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Autobahnprojekt Vergabeweg Waehlen

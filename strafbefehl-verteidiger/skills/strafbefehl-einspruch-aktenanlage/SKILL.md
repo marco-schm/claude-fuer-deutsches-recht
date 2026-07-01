@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-einspruch-aktenanlage
-description: "Gegen: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Gegen: Fristen, Form, Zuständigkeit und Rechtsweg in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gegen: Fristen, Form, Zuständigkeit und Rechtsweg

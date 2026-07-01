@@ -1,6 +1,6 @@
 ---
 name: workflow-kaltstart-und-routing
-description: "Kaltstart und Routing im Plugin datenschutzrecht: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills."
+description: "Wenn es um Kaltstart und Routing in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart und Routing

@@ -1,6 +1,6 @@
 ---
 name: anspruchsfassung-gebrauchsmuster
-description: "Schutzansprüche für Gebrauchsmuster strukturieren: Merkmale, unabhängiger Anspruch, Unteransprüche, Stütze, Varianten und Klarheit im Gebrauchsmusterrecht."
+description: "Wenn es um Anspruchsfassung Gebrauchsmuster in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Anspruchsfassung Gebrauchsmuster

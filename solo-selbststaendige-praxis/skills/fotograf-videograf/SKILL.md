@@ -1,6 +1,6 @@
 ---
 name: fotograf-videograf
-description: "Solo-Selbstständige: prüft Model Releases, Bildrechte, Drohne, Datenschutz und Nutzungsumfang; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Branchenfälle: Prüft model releases in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Branchenfälle: Prüft model releases

@@ -1,6 +1,6 @@
 ---
 name: notariat-046-abwicklung-todesfall-beteiligter-vor-vollzug
-description: "Notariat im Alltag: Abwicklung Todesfall Beteiligter vor Vollzug mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Notariat im Alltag: Abwicklung Todesfall Beteiligter vor Vollzug in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Abwicklung Todesfall Beteiligter vor Vollzug

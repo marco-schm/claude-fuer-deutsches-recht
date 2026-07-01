@@ -1,6 +1,6 @@
 ---
 name: forderung-aus-werkvertrag-bgb-bau
-description: "Forderung aus Werk-/Bauvertrag: Faelligkeit Paragraf 641 BGB, Abnahme/Abnahmewirkungen, Schlussrechnungspruefung, Sicherungseinbehalt, Maengelrechte als Einwendung. Output: Pruefraster und Schriftsatz-Module."
+description: "Wenn es um Werk-/Bauwerklohn-Forderung in Forderungsmanagement — Klagewerkstatt geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Werk-/Bauwerklohn-Forderung

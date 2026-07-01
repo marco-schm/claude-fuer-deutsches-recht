@@ -1,6 +1,6 @@
 ---
 name: strafzumessungs-tatsachen-46-ii-stgb
-description: "Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persoenliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmachungsbemuehen. Anwendung in Plaedoyer, Urteilsbegruendung und Strafzumessungsruege."
+description: "Wenn es um Strafzumessungstatsachen — Paragraf 46 Abs. 2 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafzumessungstatsachen — § 46 Abs. 2 StGB

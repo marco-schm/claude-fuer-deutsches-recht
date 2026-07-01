@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Strafbefehl-Verteidigung: trennt fehlende Tatsachen von fehlenden Belegen (Strafbefehl, Ermittlungsakte, Einspruchsschrift), nennt pro Lücke Beweisthema, Beschaffungsweg (Amtsgericht), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Patentrecherche (FTO, Validity, Family-Watch): wählt den nächsten Spezial-Skill nach Engpass (Prioritätsjahr 12 Monate, Erfindungsmeldung, Anspruchssatz, Recherche-Report), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in patentrecherche geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Anschluss-Routing

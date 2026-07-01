@@ -1,6 +1,6 @@
 ---
 name: 24-abschlussverfuegung-und-entscheidungsvorschlag
-description: "Strukturierte Abschlussverfuegung des Dezernats: Gesamtwuerdigung des Ermittlungsergebnisses, Entscheidung zwischen Anklage, Strafbefehl, Einstellung und Massregel, Verfuegungstechnik, Risikohinweise, ausdrueckliche Markierung als Vorschlag"
+description: "Wenn es um 24 Abschlussverfuegung und Entscheidungsvorschlag in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 24 Abschlussverfuegung und Entscheidungsvorschlag

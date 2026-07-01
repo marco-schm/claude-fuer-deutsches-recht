@@ -1,6 +1,6 @@
 ---
 name: spezial-dealroom-livequellen-und-rechtsprechungscheck
-description: "Dealroom: Livequellen- und Rechtsprechungscheck im Plugin gesellschaftsrecht legal english; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Dealroom: Livequellen- und Rechtsprechungscheck in Didaktisches Gesellschaftsrecht — English Business Terms geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dealroom: Livequellen- und Rechtsprechungscheck

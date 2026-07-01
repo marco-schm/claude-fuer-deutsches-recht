@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Fachanwalt Internationales Wirtschaftsrecht: wählt den nächsten Spezial-Skill nach Engpass (Schiedsklage-Fristen je Regelwerk, Internationaler Vertrag, Schiedsklage, Choice-of-law-Klausel), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Fachanwalt Internationales Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anschluss-Routing

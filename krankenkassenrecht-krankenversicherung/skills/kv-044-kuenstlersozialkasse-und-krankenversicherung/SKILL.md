@@ -1,6 +1,6 @@
 ---
 name: kv-044-kuenstlersozialkasse-und-krankenversicherung
-description: "Krankenversicherung: Künstlersozialkasse und Krankenversicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Künstlersozialkasse und Krankenversicherung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Künstlersozialkasse und Krankenversicherung

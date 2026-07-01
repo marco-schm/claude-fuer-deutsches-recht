@@ -1,6 +1,6 @@
 ---
 name: strafanzeige-vs-strafantrag-158
-description: "Unterscheidet Strafanzeige, Strafantrag, Dienstaufsichtsbeschwerde, Privatklage und zivilrechtliche Abmahnung im Strafanzeige-Vorbereitung."
+description: "Wenn es um Strafanzeige vs. Strafantrag Paragraf 158 StPO in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Strafanzeige vs. Strafantrag § 158 StPO

@@ -1,6 +1,6 @@
 ---
 name: bho-183-institutionelle-foerderung-brh-frage-f
-description: "Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: BRH-Frage formulieren. BRH-Frage formulieren für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Institutionelle Foerderung Brh Frage F in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Institutionelle Foerderung Brh Frage F

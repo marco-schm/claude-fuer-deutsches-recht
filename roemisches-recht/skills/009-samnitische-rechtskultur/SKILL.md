@@ -1,6 +1,6 @@
 ---
 name: 009-samnitische-rechtskultur
-description: "Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung im Römisches Recht: Bearbeite Samnitische Rechtskultur Bundesgenossen und Militärordnung im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer han..."
+description: "Wenn es um Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung

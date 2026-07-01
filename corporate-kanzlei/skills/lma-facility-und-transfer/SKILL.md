@@ -1,6 +1,6 @@
 ---
 name: lma-facility-und-transfer
-description: "Prüft hochgeladene LMA-basierte Kreditverträge aus deutscher Corporate-Sicht: Transfer, Assignment, Novation, Agent, Conditions, Covenants und Default."
+description: "Wenn es um Corporate: LMA Facility und Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Corporate: LMA Facility und Transfer

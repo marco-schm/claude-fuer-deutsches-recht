@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-beim-sozialgericht-laien
-description: "Dolmetscher beim SG nach § 185 GVG. Kostenfrei für Buerger mit Sprachschwierigkeiten. Antrag muendliche Verhandlung Gebaerdensprache."
+description: "Wenn es um Dolmetscher beim SG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Dolmetscher beim SG

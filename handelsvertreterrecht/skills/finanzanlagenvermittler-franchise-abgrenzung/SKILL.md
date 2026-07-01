@@ -1,6 +1,6 @@
 ---
 name: finanzanlagenvermittler-franchise-abgrenzung
-description: "Analysiert die Stellung des Finanzanlagenvermittlers als Handelsvertreter nach § 84 HGB und GewO: Zulassungspflichten nach § 34f GewO, Provisionsansprüche und Stornoreserven bei Finanzprodukten, regulatorische Pflichten nach WpHG sowie Ausgleichsansprüche bei Beendigung des Vermittlervertrags im..."
+description: "Wenn es um Finanzanlagenvermittler als Handelsvertreter nach Paragraf 84 HGB und Paragraf 34f GewO in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Finanzanlagenvermittler als Handelsvertreter nach § 84 HGB und § 34f GewO

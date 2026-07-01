@@ -1,6 +1,6 @@
 ---
 name: hgr-dis-schiedsverfahren-streit
-description: "Gesellschafter streiten und wollen Schiedsverfahren statt Klage oder laufendes Schiedsverfahren managen: DIS-Schiedsverfahren Gesellschafterstreit. Prüf..."
+description: "Wenn es um Hgr Dis Schiedsverfahren Streit in Fachanwalt Handels- und Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gesellschafter streiten und wollen Schiedsverfahren statt Klage oder laufendes Schiedsverfahren managen

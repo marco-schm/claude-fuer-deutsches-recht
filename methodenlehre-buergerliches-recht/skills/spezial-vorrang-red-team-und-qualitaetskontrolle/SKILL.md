@@ -1,6 +1,6 @@
 ---
 name: spezial-vorrang-red-team-und-qualitaetskontrolle
-description: "Vorrang: Red-Team und Qualitätskontrolle im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Vorrang: Red-Team und Qualitätskontrolle in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorrang: Red-Team und Qualitätskontrolle

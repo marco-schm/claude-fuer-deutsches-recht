@@ -1,6 +1,6 @@
 ---
 name: spezial-indexmiete-anpassung
-description: "Indexmiete Anpassung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Indexbezug, Erklärung, Sperrfrist, Rechenweg, Mietpreisbremse-Schnittstelle; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Indexmiete Anpassung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Indexmiete Anpassung

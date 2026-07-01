@@ -1,6 +1,6 @@
 ---
 name: inso-p318-antragsrecht-beim-gesamtgut
-description: "§ 318 InsO (Antragsrecht beim Gesamtgut) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 318 InsO (Antragsrecht beim Gesamtgut) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge..."
+description: "Wenn es um Inso P318 Antragsrecht Beim Gesamtgut in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 318 InsO (Antragsrecht beim Gesamtgut) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

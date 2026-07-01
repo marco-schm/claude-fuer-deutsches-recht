@@ -1,6 +1,6 @@
 ---
 name: vbr-027-haustuergeschaeft-schlichtung-waehlen
-description: "Verbraucherschutzrecht Prüfer: Haustürgeschäft: Schlichtung wählen. Schlichtung wählen für Haustürgeschäft im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Haustuergeschaeft Schlichtung Waehlen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haustuergeschaeft Schlichtung Waehlen

@@ -1,6 +1,6 @@
 ---
 name: evidenz-qualitaet-bewertung
-description: "Bewertet die Qualitaet und Belastbarkeit der vorgelegten Belege für eine Marktabgrenzung: interne Unternehmensdokumente Kundenverhaltensdaten Marktdaten Elastizitaeten Diversion Ratios Branchenberichte. Erkennt selektive Datenwahl methodische Schwaechen und fehlende Triangulation im Kartellrecht..."
+description: "Wenn es um Evidenz-Qualitätsbewertung in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Evidenz-Qualitätsbewertung

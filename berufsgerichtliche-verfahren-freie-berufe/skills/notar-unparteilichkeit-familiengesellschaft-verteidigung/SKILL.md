@@ -1,6 +1,6 @@
 ---
 name: notar-unparteilichkeit-familiengesellschaft-verteidigung
-description: "Notar Unparteilichkeit Familiengesellschaft (Verteidigungs- und Kammerantwort): steuert Unparteilichkeit bei Familiengesellschaft, Näheverhältnis, Belehrungspflichten und Ablehnung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgericht..."
+description: "Wenn es um Notar Unparteilichkeit Familiengesellschaft: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notar Unparteilichkeit Familiengesellschaft: Verteidigungs- und Kammerantwort

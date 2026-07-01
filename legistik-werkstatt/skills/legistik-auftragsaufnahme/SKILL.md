@@ -1,6 +1,6 @@
 ---
 name: legistik-auftragsaufnahme
-description: "Legistischen Auftrag strukturiert aufnehmen und in operationale Regelungsziele umwandeln. Anwendungsfall Erstkontakt zu einem neuen Vorhaben aus Bundesministerium, Bundestag, Fraktion, Landesministerium, Landtag, Kommune, Kammer oder Hochschule. Klaert Startbahn, Bundesland, Ressort, Fraktion, fo..."
+description: "Wenn es um Legistik-Auftragsaufnahme in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Legistik-Auftragsaufnahme

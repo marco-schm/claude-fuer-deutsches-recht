@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-erste-48-stunden
-description: "Erste 48 Stunden nach Betreuerbestellung: Beschluss lesen, Aufgabenkreise, Eilrisiken, Banken, Heim, Ärzte, Post, Schlüssel, Betrugsstopp und Notfallmappe."
+description: "Wenn es um Familienbetreuer: erste 48 Stunden und Notfallmappe in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Familienbetreuer Erste 48 Stunden; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Familienbetreuer: erste 48 Stunden und Notfallmappe

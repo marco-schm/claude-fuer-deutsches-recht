@@ -1,6 +1,6 @@
 ---
 name: pro-bono-procurement-legal-quickwin
-description: "Pro Bono und Low Bono: steuert reduzierte Vergütung, Mindestgebühren, Mandatsumfang, Erwartungsmanagement und Haftung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Pro Bono und Low Bono in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pro Bono und Low Bono

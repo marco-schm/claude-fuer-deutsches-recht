@@ -1,6 +1,6 @@
 ---
 name: see-078-offshore-schiff-closing-planen
-description: "See- und Schifffahrtsrecht: Offshore-Schiff: Closing planen. Closing planen für Offshore-Schiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Offshore Schiff Closing Planen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Offshore Schiff Closing Planen

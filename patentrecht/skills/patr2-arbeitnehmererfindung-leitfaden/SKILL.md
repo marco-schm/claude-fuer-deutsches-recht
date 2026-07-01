@@ -1,6 +1,6 @@
 ---
 name: patr2-arbeitnehmererfindung-leitfaden
-description: "Leitfaden Arbeitnehmererfindergesetz ArbnErfG: Meldepflicht, Inanspruchnahme, Verguetung, Schiedsstelle. Prüfraster für Arbeitgeber und Erfinder im Patentrecht."
+description: "Wenn es um PatR2: Arbeitnehmererfindung in patentrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PatR2: Arbeitnehmererfindung

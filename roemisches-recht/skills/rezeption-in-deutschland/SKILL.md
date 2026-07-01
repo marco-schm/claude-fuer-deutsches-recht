@@ -1,6 +1,6 @@
 ---
 name: rezeption-in-deutschland
-description: "Römisches Recht: Rezeption In Deutschland. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Rezeption In Deutschland in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rezeption In Deutschland

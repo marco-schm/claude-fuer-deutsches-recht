@@ -1,6 +1,6 @@
 ---
 name: docx-beweislast-und-darlegungslast
-description: "Docx: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Docx: Beweislast, Darlegungslast und Substantiierung in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Docx Beweislast Und Darlegungslast; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # Docx: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: bussgeldschnittstelle-owig
-description: "Straßenverkehrsrecht StVO: Bußgeldschnittstelle OWiG. Bußgeldschnittstelle OWiG im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege..."
+description: "Wenn es um Bussgeldschnittstelle Owig in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bussgeldschnittstelle Owig

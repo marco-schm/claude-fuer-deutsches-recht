@@ -1,6 +1,6 @@
 ---
 name: plagiatsanalyse-musik-text
-description: "Prüft Ähnlichkeit, Zugang, Übernahme, Eigenständigkeit, Doppelschöpfung und Darlegung in Musik- und Textplagiaten im Urheberrecht De Eu."
+description: "Wenn es um Plagiatsanalyse Musik und Text in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Plagiatsanalyse Musik und Text

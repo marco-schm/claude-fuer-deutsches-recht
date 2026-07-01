@@ -1,6 +1,6 @@
 ---
 name: sanierungsbausteine-vorschlagen-annahmen
-description: "Wenn die Fortbestehensprognose ohne Maßnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsbausteine vor. Auswahl Patronatserklärung hart Comfortletter Gesellschafterdarlehen mit Rangrücktritt Stundungsvereinbarungen Forderungsverzichte mit Besserungsschein Eigenkapita..."
+description: "Wenn es um Sanierungsbausteine vorschlagen in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsbausteine vorschlagen

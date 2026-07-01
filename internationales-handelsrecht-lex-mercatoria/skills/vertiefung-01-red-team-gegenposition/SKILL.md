@@ -1,6 +1,6 @@
 ---
 name: vertiefung-01-red-team-gegenposition
-description: "Internationales Handelsrecht: Red-Team-Gegenposition in internationalen Handelsfällen. Systematische Gegenargumentation zur eigenen Position, Adverse-Inference-Analyse, Schwachstellen-Scan und stärkste Gegenargumente zu CISG, Incoterms und Schiedsklauseln."
+description: "Wenn es um Red-Team: Gegenposition im internationalen Handelstreit in Internationales Handelsrecht und Lex Mercatoria geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team: Gegenposition im internationalen Handelstreit

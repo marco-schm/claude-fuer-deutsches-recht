@@ -1,6 +1,6 @@
 ---
 name: nachversicherung-rueckabwicklung
-description: "Prüft arbeits-, steuer-, beitrags- und vertragspraktische Rückabwicklung nach Statusänderung im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Rückabwicklung nach Umqualifizierung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rückabwicklung nach Umqualifizierung

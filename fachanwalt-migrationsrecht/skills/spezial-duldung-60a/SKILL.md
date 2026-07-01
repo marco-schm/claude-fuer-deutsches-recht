@@ -1,6 +1,6 @@
 ---
 name: spezial-duldung-60a
-description: "Duldung § 60a: Spezial-Skill im Migrationsrecht; prüft tatsächliche/rechtliche Unmöglichkeit, Attest, Pass, Familie; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Duldung Paragraf 60a in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Duldung § 60a

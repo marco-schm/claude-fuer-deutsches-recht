@@ -1,6 +1,6 @@
 ---
 name: bwbes-neu-006-dienstzeitversorgung-berufsfoerderungsdienst
-description: "Bundeswehrrecht: Dienstzeitversorgung Berufsförderungsdienst mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Bundeswehrrecht: Dienstzeitversorgung Berufsförderungsdienst in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bundeswehrrecht: Dienstzeitversorgung Berufsförderungsdienst

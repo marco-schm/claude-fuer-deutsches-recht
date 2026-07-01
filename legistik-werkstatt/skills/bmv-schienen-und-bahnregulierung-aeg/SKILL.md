@@ -1,6 +1,6 @@
 ---
 name: bmv-schienen-und-bahnregulierung-aeg
-description: "Sachbereich Schienen- und Bahnregulierung (AEG) im Geschäftsbereich BMV: Normbestand (AEG; ERegG; BSchwAG; BNetzAG; EisbahnG; ERegV.); Akteure (EBA; BNetzA; DB-Konzern; Länder-Aufsicht; Schienenverkehrsbeirat.); EU-Bezug (4. Eisenbahnpaket; TSI; ERA.); typische Legistik-Aufgaben und Prüfpunkte...."
+description: "Wenn es um Schienen- und Bahnregulierung (AEG) (BMV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schienen- und Bahnregulierung (AEG) (BMV)

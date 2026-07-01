@@ -1,6 +1,6 @@
 ---
 name: briefrecht-abtretung-und-loeschung
-description: "Prüft Besitz am Brief, Abtretungserklärung, Löschungsbewilligung, Briefvorlage und Ersatzwege im Grundbuchamt Praxis."
+description: "Wenn es um Briefrecht übertragen oder löschen in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Briefrecht übertragen oder löschen

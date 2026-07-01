@@ -1,6 +1,6 @@
 ---
 name: bodenreformland-klage-bewerten
-description: "Einigungsvertrag und Vermögensrecht: Bodenreformland: Klage skizzieren im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Bodenreformland Klage Skizzieren in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bodenreformland Klage Skizzieren

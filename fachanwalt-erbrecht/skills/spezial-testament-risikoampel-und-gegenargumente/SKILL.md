@@ -1,6 +1,6 @@
 ---
 name: spezial-testament-risikoampel-und-gegenargumente
-description: "Testament: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Testament: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Erbrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Testament: Risikoampel, Gegenargumente und Verteidigungslinien

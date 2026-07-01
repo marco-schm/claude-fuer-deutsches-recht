@@ -1,6 +1,6 @@
 ---
 name: wartezeit-35-45-jahre-visualisierung
-description: "Visualisiert die 35- und 45-Jahre-Wartezeit getrennt, verhindert Vermischungen und zeigt monatsgenau, welche Zeiten für welchen Altersrentenpfad tragen oder kritisch sind."
+description: "Wenn es um Wartezeit 35 45 Jahre Visualisierung in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Wartezeit 35 45 Jahre Visualisierung

@@ -1,6 +1,6 @@
 ---
 name: druckvertrag-buchhandelsvertrag
-description: "Verlagsrecht: Druckverträge, Papierlieferengpässe, Lieferverzug der Druckerei — Werkvertragsrecht, höhere Gewalt, Schadensersatz, Preisklauseln und Notfallplanung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Verl-024 · Druckvertrag, Papierengpass und Lieferverzug in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl-024 · Druckvertrag, Papierengpass und Lieferverzug

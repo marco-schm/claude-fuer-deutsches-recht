@@ -1,6 +1,6 @@
 ---
 name: ki-beschaffung-ai-act-daten-cloud
-description: "KI-, Cloud- und Datenbeschaffung vergaberechtlich strukturieren: Leistungsbeschreibung, Datenschutz, AI Act, IT-Sicherheit, Lock-in, Open-Source, Interoperabilitaet und Wertung: KI-, Cloud- und Datenbeschaffung vergaberechtlich strukturieren: Leistungsbesc..."
+description: "Wenn es um Ki Beschaffung Ai Act Daten Cloud in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI-, Cloud- und Datenbeschaffung vergaberechtlich strukturieren: Leistungsbeschreibung, Datenschutz, AI Act, IT-Sicherheit, Lock-in, Open-Source, Interoperabilitaet und Wertung.

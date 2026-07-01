@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstiegs- und Prüfungslinie für Allgemein: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Wenn es um AGB-Recht Kommandocenter in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # AGB-Recht Kommandocenter

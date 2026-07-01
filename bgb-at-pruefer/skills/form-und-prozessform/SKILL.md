@@ -1,6 +1,6 @@
 ---
 name: form-und-prozessform
-description: "Klausurfall zu Formvorschriften nach §§ 125 bis 129 BGB und prozessualer Formfrage: Schriftform, notarielle Beurkundung, elektronische Form, Heilung von Formmängeln und Auswirkungen auf Beweisbarkeit und Prozess."
+description: "Wenn es um Form und Prozessform — Paragrafen 125 bis 129 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Form und Prozessform — §§ 125 bis 129 BGB

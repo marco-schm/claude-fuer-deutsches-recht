@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmererfinder-und-verschwiegenheit-organi
-description: "Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Arbeitnehmererfinder Und Verschwiegenheit Organi in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

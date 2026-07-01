@@ -1,6 +1,6 @@
 ---
 name: haftung-arzt-klinik-hersteller
-description: "Ordnet Haftung zwischen Arzt, Klinik, Betreiber, Hersteller, Wartung und Softwareanbieter bei Medizinrobotik."
+description: "Wenn es um Haftung Arzt Klinik Hersteller in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haftung Arzt Klinik Hersteller

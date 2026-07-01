@@ -1,6 +1,6 @@
 ---
 name: miete-pacht-locatio-conductio
-description: "Römisches Recht: Miete Pacht Locatio Conductio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Miete Pacht Locatio Conductio in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Miete Pacht Locatio Conductio

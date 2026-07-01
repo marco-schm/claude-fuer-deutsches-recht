@@ -1,6 +1,6 @@
 ---
 name: pfandbriefbank-spezialdeckung
-description: "Pfandbrief- und Spezialdeckungsfragen aus Bank-Legal-Sicht prüfen: Deckungsmasse, Treuhänder, Indeckungnahme, Immobilienfinanzierung, Register, Aufsicht und Vorstandsfreigabe im Bank-Rechtsabteilung."
+description: "Wenn es um Pfandbrief Spezialdeckung in Bank-Rechtsabteilung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Pfandbrief Spezialdeckung

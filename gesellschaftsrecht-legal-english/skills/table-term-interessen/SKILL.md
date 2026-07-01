@@ -1,6 +1,6 @@
 ---
 name: table-term-interessen
-description: "Table: Zahlen, Schwellenwerte und Berechnung im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht Legal English."
+description: "Wenn es um Table: Zahlen, Schwellenwerte und Berechnung in Didaktisches Gesellschaftsrecht — English Business Terms geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Table: Zahlen, Schwellenwerte und Berechnung

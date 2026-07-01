@@ -1,6 +1,6 @@
 ---
 name: lohnbuchhaltung-fristenversaeumnis-kaltstart
-description: "Steuerberater: lohnbuchhaltung fristenversaeumnis - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Lohnbuchhaltung Fristenversaeumnis Kaltstart in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: lohnbuchhaltung fristenversaeumnis - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: battle-forms-bau-vob-beweislast-zugang
-description: "Norm- und Dogmatik-Skill für Battle of Forms AGB Kollision: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung im AGB-Recht."
+description: "Wenn es um Battle of Forms AGB Kollision in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Battle Forms Bau Vob Beweislast Zugang; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Battle of Forms AGB Kollision

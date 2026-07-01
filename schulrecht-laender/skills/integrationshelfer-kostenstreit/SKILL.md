@@ -1,6 +1,6 @@
 ---
 name: integrationshelfer-kostenstreit
-description: "Prüft Schulbegleitung, Eingliederungshilfe, Jugendamt/Sozialamt und Kostenkonflikte im Schulrecht Länder."
+description: "Wenn es um Integrationshelfer und Kostenstreit in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Integrationshelfer und Kostenstreit

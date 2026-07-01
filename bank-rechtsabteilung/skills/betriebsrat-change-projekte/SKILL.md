@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-change-projekte
-description: "Betriebsrat und arbeitsrechtliche Schnittstellen bei Bankprojekten: Restrukturierung, IT-Einführung, Monitoring, variable Vergütung, Auslagerung, Filialschließung und Betriebsänderung prüfen im Bank-Rechtsabteilung."
+description: "Wenn es um Arbeitsrechtliche Bankprojekte in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsrechtliche Bankprojekte

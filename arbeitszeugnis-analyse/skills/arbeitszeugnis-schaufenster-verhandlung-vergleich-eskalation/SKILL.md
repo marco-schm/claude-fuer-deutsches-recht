@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-schaufenster-verhandlung-vergleich-eskalation
-description: "Schaufenster: Verhandlung, Vergleich und Eskalation im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Schaufenster: Verhandlung, Vergleich und Eskalation in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schaufenster: Verhandlung, Vergleich und Eskalation

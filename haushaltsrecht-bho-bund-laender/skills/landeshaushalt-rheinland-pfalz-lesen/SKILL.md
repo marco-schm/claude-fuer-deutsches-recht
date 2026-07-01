@@ -1,6 +1,6 @@
 ---
 name: landeshaushalt-rheinland-pfalz-lesen
-description: "Haushaltsrecht BHO Bund und Länder: Landeshaushalt Rheinland-Pfalz lesen. Landeshaushalt Rheinland-Pfalz lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschl..."
+description: "Wenn es um Landeshaushalt Rheinland Pfalz Lesen in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Landeshaushalt Rheinland Pfalz Lesen

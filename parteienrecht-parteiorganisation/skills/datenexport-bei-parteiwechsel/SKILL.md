@@ -1,6 +1,6 @@
 ---
 name: datenexport-bei-parteiwechsel
-description: "Prüft Austritt, Wechsel, Listenbewerberstatus, Datenlöschung und Nachrückerfragen."
+description: "Wenn es um Daten und Parteiwechsel in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Daten und Parteiwechsel

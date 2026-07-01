@@ -1,6 +1,6 @@
 ---
 name: scheinselbststaendigkeit-statusfeststellung-bsg-b-12-r-11-18
-description: "Scheinselbststaendigkeit Statusfeststellung nach Paragraf 7a SGB IV und BSG B 12 R 11/18 R."
+description: "Wenn es um Scheinselbststaendigkeit Statusfeststellung Bsg B 12 R 11 18 in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Scheinselbststaendigkeit Statusfeststellung Bsg B 12 R 11 18

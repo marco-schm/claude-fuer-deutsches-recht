@@ -1,6 +1,6 @@
 ---
 name: datenpanne-berufstraeger-praevention
-description: "Datenpanne beim Berufsträger (Präventions- und Organisationspaket): steuert verlorener Laptop, Fehlversand, Cloud-Leak, Mandatsgeheimnis und Meldestrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Ber..."
+description: "Wenn es um Datenpanne beim Berufsträger: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Datenpanne beim Berufsträger: Präventions- und Organisationspaket

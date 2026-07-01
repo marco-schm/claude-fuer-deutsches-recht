@@ -1,6 +1,6 @@
 ---
 name: ai-act-rollen-kanzlei-provider-deployer-api
-description: "KI-VO-Rollen der Kanzlei prüfen: Betreiber/Deployer, Anbieter/Provider, eigener API-Wrapper, White-Label-Tool, GPAI-Abgrenzung, Art. 3, Art. 4, Art. 6, Art. 50 KI-VO und Schnittstelle zu § 43e BRAO."
+description: "Wenn es um europäischer Technikregulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # KI-VO-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin

@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-im-bond-restructuring-finanzgesellschaften
-description: "Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellschaften: Behandelt die Besonderheiten der Anleihegläubiger-Strukturen, das Schuldverschreibungsgesetz, Mehrheitsentsch..."
+description: "Wenn es um Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellschaften in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellschaften

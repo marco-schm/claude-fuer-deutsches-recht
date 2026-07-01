@@ -1,6 +1,6 @@
 ---
 name: bho-39-gewaehrleistungen-praktisch-anw
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 39 Gewährleistungen praktisch anwenden. BHO § 39 Gewährleistungen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft kon..."
+description: "Wenn es um Bho 39 Gewaehrleistungen Praktisch Anw in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 39 Gewaehrleistungen Praktisch Anw

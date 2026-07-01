@@ -1,6 +1,6 @@
 ---
 name: gutachten-rechtsbestand-insolvenz-verwertung
-description: "Rechtsbestands- und Verletzungsgutachten für Gebrauchsmuster erstellen: Anspruchsauslegung, Stand der Technik, erfinderischer Schritt, Verletzung und Risiko im Gebrauchsmusterrecht."
+description: "Wenn es um Gutachten Rechtsbestand in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Gutachten Rechtsbestand

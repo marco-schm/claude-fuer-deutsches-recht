@@ -1,6 +1,6 @@
 ---
 name: eingang-und-pk-nachweis
-description: "Sichert Zugang, Aktenzeichen und Fristbeginn für spätere Rechtsschutzschritte im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Eingangsnachweis sichern in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eingangsnachweis sichern

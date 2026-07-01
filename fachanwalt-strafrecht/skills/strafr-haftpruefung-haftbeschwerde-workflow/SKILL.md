@@ -1,6 +1,6 @@
 ---
 name: strafr-haftpruefung-haftbeschwerde-workflow
-description: "Haftpruefung und Haftbeschwerde §§ 117 ff: StPO: dringender Tatverdacht, Haftgrund, Verhältnismäßigkeit, Sechsmonatspruefung. Mustertext Haftpruefungsantrag und Haftbeschwerde."
+description: "Wenn es um Haftpruefung und Haftbeschwerde Paragrafen 117 ff in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haftpruefung und Haftbeschwerde §§ 117 ff

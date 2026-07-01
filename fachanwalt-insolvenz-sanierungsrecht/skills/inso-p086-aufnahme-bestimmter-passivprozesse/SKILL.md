@@ -1,6 +1,6 @@
 ---
 name: inso-p086-aufnahme-bestimmter-passivprozesse
-description: "§ 86 InsO (Aufnahme bestimmter Passivprozesse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 86 InsO (Aufnahme bestimmter Passivprozesse) im Mandat prüfen: Normzweck, Tatbestand, Belege,..."
+description: "Wenn es um Inso P086 Aufnahme Bestimmter Passivprozesse in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 86 InsO (Aufnahme bestimmter Passivprozesse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: idw-s6-integrierte-sanierungsplanung
-description: "Verbindet Liquiditätsvorschau, GuV-Planung und Planbilanz zu einer Sanierungsplanung auf IDW-S-6-Niveau. Prüft Maßnahmenwirkung, Fortbestehensprognose, Sanierungsfähigkeit, Szenarien, Planungsannahmen, Belegregister, kleinere Unternehmen und Übergabe an Bank, Insolvenzverwalter oder Restrukturierungsberater. Output: Planungsanforderung, Annahmenlog, Maßnahmen-Brücke und Sanierungsplanungs-Ampel."
+description: "Wenn es um Integrierte Sanierungsplanung in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Integrierte Sanierungsplanung

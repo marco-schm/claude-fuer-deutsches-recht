@@ -1,6 +1,6 @@
 ---
 name: space-004-registrierung-register-staat-zustaendigkeit-kontrolle
-description: "Weltraumrecht: Registrierungsübereinkommen Register Staat Zuständigkeit Kontrolle mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Registrierungsübereinkommen Register Staat Zuständigkeit Kontrolle in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Registrierungsübereinkommen Register Staat Zuständigkeit Kontrolle

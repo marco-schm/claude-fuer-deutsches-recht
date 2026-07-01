@@ -1,6 +1,6 @@
 ---
 name: luft-057-registerpfandrecht-insolvenzrisiko-mar
-description: "Luftrecht und Flughafenrecht: Registerpfandrecht: Insolvenzrisiko markieren. Insolvenzrisiko markieren für Registerpfandrecht im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Registerpfandrecht Insolvenzrisiko Mar in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerpfandrecht Insolvenzrisiko Mar

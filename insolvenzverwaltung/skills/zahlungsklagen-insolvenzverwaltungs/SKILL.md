@@ -1,6 +1,6 @@
 ---
 name: zahlungsklagen-insolvenzverwaltungs
-description: "Zahlungsklagen nach § 15b InsO gegen Geschäftsleiter vorbereiten wenn Zahlungen nach Insolvenzreife erfolgt sind. § 15b InsO §§ 17 19 InsO Insolvenzreife. Prüfraster: Insolvenzreifedatum Zahlungen nach Stichtag Organstellung Ausnahmen ordnungsgemaeßer Geschäftsgang D-und-O-Deckung Vergleichsanker..."
+description: "Wenn es um Zahlungsklagen nach Paragraf 15b InsO in Insolvenzverwaltung - IV-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zahlungsklagen nach § 15b InsO

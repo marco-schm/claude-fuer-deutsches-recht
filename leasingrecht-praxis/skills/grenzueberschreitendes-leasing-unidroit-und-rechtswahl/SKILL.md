@@ -1,6 +1,6 @@
 ---
 name: grenzueberschreitendes-leasing-unidroit-und-rechtswahl
-description: "Grenzüberschreitendes Leasing: UNIDROIT-Übereinkommen, Rechtswahl (Rom I-VO), internationales Mobiliar-Leasingrecht, Steuerstrukturierung und Valutafragen im Leasingrecht."
+description: "Wenn es um Grenzüberschreitendes Leasing: UNIDROIT und Rechtswahl in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grenzüberschreitendes Leasing: UNIDROIT und Rechtswahl

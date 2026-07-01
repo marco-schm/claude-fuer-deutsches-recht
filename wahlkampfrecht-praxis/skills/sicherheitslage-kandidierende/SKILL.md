@@ -1,6 +1,6 @@
 ---
 name: sicherheitslage-kandidierende
-description: "Wahlkampfrecht Praxis: Schutzkonzept für Kandidierende und Wahlkampfteams erstellen im Wahlkampfrecht."
+description: "Wenn es um Sicherheitslage Kandidierende in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sicherheitslage Kandidierende

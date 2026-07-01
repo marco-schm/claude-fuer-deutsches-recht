@@ -1,6 +1,6 @@
 ---
 name: franchisegeber-handbuch-compliance-dashboard
-description: "Compliance-Dashboard für Franchisegeber aufbauen: systemweite Rechts- und Qualitätsüberwachung, KPI-Tracking für Franchise-Compliance, Früherkennung von Vertragsrisiken, Audit-Protokollierung und Berichtspflichten gegenüber internen und externen Stakeholdern im Franchiserecht."
+description: "Wenn es um Franchiserecht: Franchisegeber-Handbuch und Compliance-Dashboard in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Franchiserecht: Franchisegeber-Handbuch und Compliance-Dashboard

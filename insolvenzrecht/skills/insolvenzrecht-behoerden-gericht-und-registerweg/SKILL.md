@@ -1,6 +1,6 @@
 ---
 name: insolvenzrecht-behoerden-gericht-und-registerweg
-description: "Insolvenzrecht: Behörden-, Gerichts- oder Registerweg im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
+description: "Wenn es um Insolvenzrecht: Behörden-, Gerichts- oder Registerweg in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenzrecht: Behörden-, Gerichts- oder Registerweg

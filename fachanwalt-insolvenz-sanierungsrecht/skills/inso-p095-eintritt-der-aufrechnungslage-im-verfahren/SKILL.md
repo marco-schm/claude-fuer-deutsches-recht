@@ -1,6 +1,6 @@
 ---
 name: inso-p095-eintritt-der-aufrechnungslage-im-verfahren
-description: "§ 95 InsO (Eintritt der Aufrechnungslage im Verfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 95 InsO (Eintritt der Aufrechnungslage im Verfahren) im Mandat prüfen: Normzweck, Tat..."
+description: "Wenn es um Inso P095 Eintritt Der Aufrechnungslage Im Verfahren in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 95 InsO (Eintritt der Aufrechnungslage im Verfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

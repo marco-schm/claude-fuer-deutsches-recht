@@ -1,6 +1,6 @@
 ---
 name: plattform-vertrieb
-description: "Analysiert die Einordnung von Plattformvermittlern und Agenturen digitaler Marktplätze als Handelsvertreter nach § 84 HGB: Dauerhaftigkeit der Beauftragung, Vollmacht, Provision und Ausgleich bei Vertragsbeendigung sowie regulatorische Anforderungen der P2B-Verordnung und des Digital Markets Act..."
+description: "Wenn es um Plattformvermittler als Handelsvertreter — Paragraf 84 HGB und P2B-Verordnung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Plattformvermittler als Handelsvertreter — § 84 HGB und P2B-Verordnung

@@ -1,6 +1,6 @@
 ---
 name: ifg-005-kostenrisiko-und-gebuehrenankuendigung
-description: "Informationsfreiheit und Presseauskunft: Kostenrisiko und Gebührenankündigung prüfen. Kostenrisiko und Gebührenankündigung prüfen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Kostenrisiko Und Gebuehrenankuendigung in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kostenrisiko Und Gebuehrenankuendigung

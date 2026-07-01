@@ -1,6 +1,6 @@
 ---
 name: b2c-b2b-b2b2c-rollencheck
-description: "Einstiegs- und Prüfungslinie für B2C B2B B2B2C Rollencheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Wenn es um B2C B2B B2B2C Rollencheck in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # B2C B2B B2B2C Rollencheck

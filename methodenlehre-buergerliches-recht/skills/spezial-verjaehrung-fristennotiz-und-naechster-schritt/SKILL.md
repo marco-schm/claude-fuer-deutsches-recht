@@ -1,6 +1,6 @@
 ---
 name: spezial-verjaehrung-fristennotiz-und-naechster-schritt
-description: "Verjaehrung: Fristennotiz und nächster Schritt im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Verjaehrung: Fristennotiz und nächster Schritt in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verjaehrung: Fristennotiz und nächster Schritt

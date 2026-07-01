@@ -1,6 +1,6 @@
 ---
 name: inv-008-geschaeftsgeheimnisse
-description: "Schuetzt Geschaeftsgeheimnisse, NDAs, Whistleblower-Ausnahmen und Offenlegungsrisiken."
+description: "Wenn es um Geschäftsgeheimnisse und NDA in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschäftsgeheimnisse und NDA

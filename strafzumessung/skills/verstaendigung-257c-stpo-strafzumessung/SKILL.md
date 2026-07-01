@@ -1,6 +1,6 @@
 ---
 name: verstaendigung-257c-stpo-strafzumessung
-description: "Verstaendigung im Strafverfahren § 257c StPO und Strafzumessung: Strafrahmen statt Strafmass; Bindungswirkung bei vollstaendiger Belehrung; Belehrungspflicht Abs. 4 und 5. BVerfG 2 BvR 2628/10..."
+description: "Wenn es um Verstaendigung im Strafverfahren Paragraf 257c StPO und Strafzumessung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verstaendigung im Strafverfahren § 257c StPO und Strafzumessung

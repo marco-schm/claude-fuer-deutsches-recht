@@ -1,6 +1,6 @@
 ---
 name: cloud-plattform-schule-m365
-description: "Prüft Lernplattformen, M365, Auftragsverarbeitung, Datenschutzfolge und Elterninformation im Schulrecht Länder."
+description: "Wenn es um Cloud-Plattform Schule und M365 in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cloud-Plattform Schule und M365

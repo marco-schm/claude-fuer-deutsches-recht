@@ -1,6 +1,6 @@
 ---
 name: kirchenrechtliche-bescheinigung-und-nachweis
-description: "Kirchenrechtliche Bescheinigung und Nachweis: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Kirchenrechtliche Bescheinigung und Nachweis in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kirchenrechtliche Bescheinigung und Nachweis

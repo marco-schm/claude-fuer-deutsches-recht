@@ -1,6 +1,6 @@
 ---
 name: patentanmeldung-anspruchsentwurf
-description: "Bereitet Patentansprüche vor: Anspruch 1, Unteransprüche, Alternativausführungen, Vorrichtung/Verfahren/System/Computerprogramm, Stütze in Beschreibung und Rückfragen zur Anspruchsbreite im Patentrecht."
+description: "Wenn es um Patentanmeldung — Anspruchsentwurf in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Patentanmeldung — Anspruchsentwurf

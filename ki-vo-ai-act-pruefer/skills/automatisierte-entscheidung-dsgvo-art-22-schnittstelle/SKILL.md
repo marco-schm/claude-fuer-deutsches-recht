@@ -1,6 +1,6 @@
 ---
 name: automatisierte-entscheidung-dsgvo-art-22-schnittstelle
-description: "Schnittstelle KI-VO und DSGVO Art. 22: automatisierte Einzelentscheidung, Profiling, menschliche Beteiligung, Bewerber/Kredit/Kundenranking, Informationspflicht, DPIA, Rechtsgrundlage und technische Governance im Ki Vo Ai Act Prüfer."
+description: "Wenn es um europäischer Technikregulierungsrahmen und DSGVO Art. 22 in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Automatisierte Entscheidung Dsgvo Art 22 Schnittstelle; Arbeitsfeld: europäischem Technikregulierungsrecht."
 ---
 
 # KI-VO und DSGVO Art. 22

@@ -1,6 +1,6 @@
 ---
 name: exclusivity-1121
-description: "Prüft debtor exclusivity, extension, termination, competing plans and negotiation leverage im US Bankruptcy Code."
+description: "Wenn es um Exclusivity Paragraf 1121 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exclusivity § 1121

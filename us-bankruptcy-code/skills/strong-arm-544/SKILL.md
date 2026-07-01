@@ -1,6 +1,6 @@
 ---
 name: strong-arm-544
-description: "Prüft trustee avoiding powers, hypothetical lien creditor, bona fide purchaser, state-law avoidance and perfection gaps im US Bankruptcy Code."
+description: "Wenn es um Strong Arm Paragraf 544 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Strong Arm § 544

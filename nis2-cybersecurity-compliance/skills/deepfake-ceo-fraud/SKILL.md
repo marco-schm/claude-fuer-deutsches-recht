@@ -1,6 +1,6 @@
 ---
 name: deepfake-ceo-fraud
-description: "Prüft Deepfake-, CEO-Fraud- und Payment-Fraud-Abwehr im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Deepfake Ceo Fraud in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deepfake Ceo Fraud

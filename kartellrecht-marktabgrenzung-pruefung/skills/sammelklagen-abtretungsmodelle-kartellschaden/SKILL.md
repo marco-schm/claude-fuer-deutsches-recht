@@ -1,6 +1,6 @@
 ---
 name: sammelklagen-abtretungsmodelle-kartellschaden
-description: "Sammelklagen Abtretungsmodelle Kartellschaden: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA im Kartellrecht (Marktabgrenzung..."
+description: "Wenn es um Sammelklagen Abtretungsmodelle Kartellschaden in Kartellrecht — Marktabgrenzungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sammelklagen Abtretungsmodelle Kartellschaden

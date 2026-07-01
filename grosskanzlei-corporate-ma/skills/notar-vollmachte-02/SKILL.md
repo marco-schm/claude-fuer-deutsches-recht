@@ -1,6 +1,6 @@
 ---
 name: notar-vollmachte-02
-description: "Notar-, Vollmachts- und Signaturmechanik für Corporate/M&A: plant Beurkundung, notarielle Vollmachten, Legalisation/Apostille, elektronische Signatur und Closing-Mechanik."
+description: "Wenn es um Notar Vollmachten Signaturmechanik in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notar Vollmachten Signaturmechanik

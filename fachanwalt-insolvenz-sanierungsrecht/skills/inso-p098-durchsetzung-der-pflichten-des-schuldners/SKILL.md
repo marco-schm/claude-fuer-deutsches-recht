@@ -1,6 +1,6 @@
 ---
 name: inso-p098-durchsetzung-der-pflichten-des-schuldners
-description: "§ 98 InsO (Durchsetzung der Pflichten des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 98 InsO (Durchsetzung der Pflichten des Schuldners) im Mandat prüfen: Normzweck, Tatbe..."
+description: "Wenn es um Inso P098 Durchsetzung Der Pflichten Des Schuldners in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 98 InsO (Durchsetzung der Pflichten des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

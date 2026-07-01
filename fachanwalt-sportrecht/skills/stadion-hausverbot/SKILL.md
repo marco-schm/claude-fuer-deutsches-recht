@@ -1,6 +1,6 @@
 ---
 name: stadion-hausverbot
-description: "Fan erhaelt bundesweites Stadion-Hausverbot und will dieses anfechten: AGB-Prüfung Vereinsrecht Fanrechte Datenschutz. Normen §§ 305 ff. BGB AGB-Kontrolle BGH Bundesliga-Hausverbot § 25..."
+description: "Wenn es um Fan erhaelt bundesweites Stadion-Hausverbot und will dieses anfechten in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fan erhaelt bundesweites Stadion-Hausverbot und will dieses anfechten

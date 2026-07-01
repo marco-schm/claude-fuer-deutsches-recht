@@ -1,6 +1,6 @@
 ---
 name: bundesstrasse-unterhaltung-dokumente
-description: "Bundesstraße: Unterhaltung rügen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Bundesstrasse Unterhaltung Ruegen in Straßenrecht und Infrastruktur geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bundesstrasse Unterhaltung Ruegen

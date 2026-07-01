@@ -1,6 +1,6 @@
 ---
 name: abstimmung-mit-autor-feedback-kanal
-description: "Strukturiert die laufende Kommunikation mit Autorin: Kanal Frequenz Dokumentation Eskalationswege bei Konflikten Lieferverzug und Manuskriptaenderungen im Verlagsredaktion."
+description: "Wenn es um Abstimmung mit Autorin (Feedback-Kanal) in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Abstimmung mit Autorin (Feedback-Kanal)

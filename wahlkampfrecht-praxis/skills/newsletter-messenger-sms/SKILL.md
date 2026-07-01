@@ -1,6 +1,6 @@
 ---
 name: newsletter-messenger-sms
-description: "Wahlkampfrecht Praxis: Newsletter, WhatsApp, Telegram, Signal und SMS-Wahlkampf prüfen im Wahlkampfrecht."
+description: "Wenn es um Newsletter Messenger Sms in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Newsletter Messenger Sms

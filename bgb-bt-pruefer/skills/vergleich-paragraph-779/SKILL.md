@@ -1,6 +1,6 @@
 ---
 name: vergleich-paragraph-779
-description: "Vergleich § 779 BGB: gegenseitiges Nachgeben, Irrtum über Grundlage, Widerruf und Abgrenzung."
+description: "Wenn es um Vergleich Paragraf 779 BGB in BGB BT Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Vergleich Paragraph 779; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Vergleich § 779 BGB

@@ -1,6 +1,6 @@
 ---
 name: vierstufige-schranken-schranke
-description: Die vier Stufen der Verhältnismäßigkeitspruefung legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit als Schranken-Schranke. Mit Prüfungsschema, dogmatischer Verortung und Hinweisen welche Stufe in welcher Fallgruppe das Nadeloehr ist.
+description: "Wenn es um Vierstufige Schranken Schranke in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vierstufige Schranken Schranke

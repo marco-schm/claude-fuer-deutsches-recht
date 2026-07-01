@@ -1,6 +1,6 @@
 ---
 name: schluessel-schliessanlage
-description: "Schlüssel/Schließanlage: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Verlust, Kosten, Austausch, Beweis, Kaution; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitspro..."
+description: "Wenn es um Schlüssel/Schließanlage: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schlüssel/Schließanlage: Fachmodul im Miet- und Wohnungseigentumsrecht

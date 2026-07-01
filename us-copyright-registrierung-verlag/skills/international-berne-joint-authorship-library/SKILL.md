@@ -1,6 +1,6 @@
 ---
 name: international-berne-joint-authorship-library
-description: "Prüft foreign works, Berne Convention, TRIPS, URAA restoration, country of origin und US enforcement im Us Copyright Registrierung Verlag."
+description: "Wenn es um International Copyright, Berne und URAA in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # International Copyright, Berne und URAA

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-honorarvertrag-kv
-description: "Honorarstreitigkeiten mit Kassenärztlicher Vereinigung begleiten: Anwendungsfall Vertragsarzt erhaelt Honorar-Bescheid mit Kuestzungen oder Wirtschaftlichkeits- oder Plausibilitaetsprüfung laeuft. EBM Einheitlicher Bewertungsmassstab, RLV Regelleistungsvolumen, QZV qualifikationsgebundene Zusatzleistungen, § 106 SGB V Wirtschaftlichkeitsprüfung. Prüfraster Honorar-Bescheid prüfen, Wirtschaftlichkeitsprüfung-Status, Plausibilitaets-Grenzwerte, Widerspruch und Klage-Optionen. Output Widerspruchs-Schriftsatz mit Begründung für KV-Honorarstreit. Abgrenzung zu Kassenarztrecht für allgemeine Vertragsarztzulassung und zu Schriftsatzkern."
+description: "Wenn es um Honorarvertrag Kassenärztliche Vereinigung in Fachanwalt Medizinrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Honorarvertrag Kassenärztliche Vereinigung

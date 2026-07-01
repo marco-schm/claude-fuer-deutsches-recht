@@ -1,6 +1,6 @@
 ---
 name: art-9-besondere-kategorien
-description: "Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art. 9 DSGVO. Behandelt: rassische/ethnische Herkunft; politische Meinungen; religiöse/weltanschauliche Überzeugungen; Gewerkschaftszugehörigkeit; genetische und biometrische Daten zur eindeutigen Identifizie..."
+description: "Wenn es um Besondere Kategorien Art. 9 DSGVO im Datenschutzvorfall in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besondere Kategorien Art. 9 DSGVO im Datenschutzvorfall

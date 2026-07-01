@@ -1,6 +1,6 @@
 ---
 name: 99-finale-entscheidung-volltext
-description: Erzeugt die finale entscheidung als volltext (urteil strafrichter oder strafbefehl) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung.
+description: "Wenn es um Finale Entscheidung als Volltext (Urteil Strafrichter oder Strafbefehl) in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Finale Entscheidung als Volltext (Urteil Strafrichter oder Strafbefehl)

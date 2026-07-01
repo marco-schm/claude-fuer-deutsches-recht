@@ -1,6 +1,6 @@
 ---
 name: handschrift-und-altdoc-digitalisieren
-description: "Digitalisiert handschriftliche Originalvorlagen und alte Dokumente für die Verlagsredaktion, mit Lesart-Markierung, Erhaltungsdokumentation und Auditfaehigkeit im Verlagsredaktion."
+description: "Wenn es um Handschrift und Altdokumente digitalisieren in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Handschrift und Altdokumente digitalisieren

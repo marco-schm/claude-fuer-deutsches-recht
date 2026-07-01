@@ -1,6 +1,6 @@
 ---
 name: mandantenbericht-zeugnisanalyse
-description: "Schriftlicher Ergebnisbericht an den Arbeitnehmer nach abgeschlossener Ampelanalyse. Strukturierter Aufbau in Gesamtnote, Befund pro Themenbereich, kritische Geheimcodes und Drift-Stellen, rechtliche Einordnung, Erfolgsaussichten, drei Handlungsoptionen (Akzeptanz, Berichtigungsverlangen, Klage) mit Kosten-Nutzen-Abwaegung. Klare Empfehlung, verständliche Sprache ohne juristisches Fachchinesisch."
+description: "Wenn es um Mandantenbericht zur Zeugnisanalyse in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantenbericht zur Zeugnisanalyse

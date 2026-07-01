@@ -1,6 +1,6 @@
 ---
 name: vorrang-unmittelbare-wirkung-effet-utile
-description: "Vorrang, unmittelbare Wirkung und effet utile in nationalen Fällen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Europarecht Kompass."
+description: "Wenn es um Vorrang, unmittelbare Wirkung und effet utile in nationalen Fällen in Europarecht-Kompass für deutsche Juristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vorrang, unmittelbare Wirkung und effet utile in nationalen Fällen

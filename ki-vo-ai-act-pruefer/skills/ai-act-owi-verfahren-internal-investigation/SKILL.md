@@ -1,6 +1,6 @@
 ---
 name: ai-act-owi-verfahren-internal-investigation
-description: "KI-VO-Ordnungswidrigkeiten und interne Untersuchung: Sachverhaltsaufklaerung ohne Selbstbelastungschaos, Legal Privilege/Geschuetztheit, Mitarbeiterinterviews, Datenexport, Behördenschreiben, Remediation und Verteidigungsakte."
+description: "Wenn es um europäischer Technikregulierungsrahmen-OWi und interne Untersuchung in europäischem Technikregulierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI-VO-OWi und interne Untersuchung

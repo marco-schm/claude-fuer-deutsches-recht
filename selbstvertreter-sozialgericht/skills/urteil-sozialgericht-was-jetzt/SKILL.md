@@ -1,6 +1,6 @@
 ---
 name: urteil-sozialgericht-was-jetzt
-description: "Sie haben das Urteil des SG bekommen. Was bedeutet das was sind die naechsten Schritte. Berufung Revision oder akzeptieren. Praxis für Buerger."
+description: "Wenn es um Sie haben das Urteil bekommen — was jetzt? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sie haben das Urteil bekommen — was jetzt?

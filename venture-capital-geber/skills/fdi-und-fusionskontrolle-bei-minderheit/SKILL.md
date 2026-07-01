@@ -1,6 +1,6 @@
 ---
 name: fdi-und-fusionskontrolle-bei-minderheit
-description: "Prüft, wann Minderheitsrechte, Vetos, sensible Sektoren oder ausländische Investoren Behördenrisiken auslösen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um FDI und Fusionskontrolle bei Minderheit in Venture Capital Geber geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # FDI und Fusionskontrolle bei Minderheit

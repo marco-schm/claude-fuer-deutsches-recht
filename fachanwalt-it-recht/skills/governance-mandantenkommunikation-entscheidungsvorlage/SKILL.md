@@ -1,6 +1,6 @@
 ---
 name: governance-mandantenkommunikation-entscheidungsvorlage
-description: "Governance: Mandantenkommunikation und Entscheidungsvorlage: Governance: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Wenn es um Governance: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Governance: Mandantenkommunikation und Entscheidungsvorlage

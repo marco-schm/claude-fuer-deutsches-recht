@@ -1,6 +1,6 @@
 ---
 name: datenpanne-kleinbetrieb
-description: "Solo-Selbstständige: ordnet Datenpanne, Meldefrist, Kundeninformation und Schadensminderung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Datenschutz IT und Website: Ordnet datenpanne in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz IT und Website: Ordnet datenpanne

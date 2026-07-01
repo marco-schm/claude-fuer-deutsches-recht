@@ -1,6 +1,6 @@
 ---
 name: gleichbehandlung-arbeitsrecht-praxischeck
-description: Arbeitsrechtlicher Praxischeck zum AGG. Behandelt das Benachteiligungsverbot nach Paragraph 7 AGG den Entschaedigungs- und Schadensersatzanspruch nach Paragraph 15 AGG und die Beweislastregel nach Paragraph 22 AGG. Erläutert wie Bewerbungsverfahren Befoerderungsentscheidungen und Kuendigungen am Verhältnismäßigkeitsmassstab zu prüfen sind und wie BAG-Linien zu Auswahlentscheidungen zu lesen sind.
+description: "Wenn es um Gleichbehandlung im Arbeitsrecht — Praxischeck nach AGG in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gleichbehandlung im Arbeitsrecht — Praxischeck nach AGG

@@ -1,6 +1,6 @@
 ---
 name: ebenen-wahlart-ehrenamtliche
-description: "Wahlkampfrecht Praxis: Bundestag, Europa, Landtag, Kommunalwahl, Buergermeisterwahl und Sonderlagen sauber unterscheiden im Wahlkampfrecht."
+description: "Wenn es um Ebenen Und Wahlart Router in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ebenen Und Wahlart Router

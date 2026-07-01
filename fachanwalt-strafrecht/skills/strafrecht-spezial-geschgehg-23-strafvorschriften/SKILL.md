@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-geschgehg-23-strafvorschriften
-description: "Strafvorschriften des Geschäftsgeheimnisgesetzes Paragraph 23 GeschGehG: Erlangen Nutzen Offenlegen geschuetzter Geschäftsgeheimnisse. Strafrahmen bis 3 Jahre Freiheitsstrafe gewerbl..."
+description: "Wenn es um Strafvorschriften des Geschäftsgeheimnisgesetzes Paragraph 23 GeschGehG in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafvorschriften des Geschäftsgeheimnisgesetzes Paragraph 23 GeschGehG

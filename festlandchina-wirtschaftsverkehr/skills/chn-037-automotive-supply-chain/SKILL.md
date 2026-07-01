@@ -1,6 +1,6 @@
 ---
 name: chn-037-automotive-supply-chain
-description: "Festlandchina Wirtschaftsverkehr: Automotive Supply Chain. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Automotive Supply Chain in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Automotive Supply Chain

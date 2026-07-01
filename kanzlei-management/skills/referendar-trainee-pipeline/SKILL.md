@@ -1,6 +1,6 @@
 ---
 name: referendar-trainee-pipeline
-description: "Steuert Nachwuchs, Stationen, Mentoren, Angebote und Conversion. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Referendar- und Trainee-Pipeline in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Referendar- und Trainee-Pipeline

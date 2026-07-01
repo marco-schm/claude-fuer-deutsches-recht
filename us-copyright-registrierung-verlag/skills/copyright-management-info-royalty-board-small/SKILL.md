@@ -1,6 +1,6 @@
 ---
 name: copyright-management-info-royalty-board-small
-description: "Prüft Entfernen oder Fälschen von CMI, Metadaten, Wasserzeichen, Credits, AI-Content-Labels und Knowledge-Elemente im Us Copyright Registrierung Verlag."
+description: "Wenn es um Copyright Management Information Paragraf 1202 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Copyright Management Information § 1202

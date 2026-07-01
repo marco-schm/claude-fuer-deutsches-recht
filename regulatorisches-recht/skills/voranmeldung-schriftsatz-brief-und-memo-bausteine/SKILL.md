@@ -1,6 +1,6 @@
 ---
 name: voranmeldung-schriftsatz-brief-und-memo-bausteine
-description: "Voranmeldung: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Voranmeldung: Schriftsatz-, Brief- und Memo-Bausteine in Regulatorisches Recht – Plugin für deutsches geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Voranmeldung: Schriftsatz-, Brief- und Memo-Bausteine

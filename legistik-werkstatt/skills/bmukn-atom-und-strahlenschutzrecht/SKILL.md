@@ -1,6 +1,6 @@
 ---
 name: bmukn-atom-und-strahlenschutzrecht
-description: "Sachbereich Atom- und Strahlenschutzrecht im Geschäftsbereich BMUKN: Normbestand (AtG; StrlSchG; StrlSchV; EndlSiUntG; StandAG; AtVfV.); Akteure (BMUKN; BASE; BGE; BfS; Länder-Atomaufsichten; Reaktor-Sicherheitskommission.); EU-Bezug (Euratom-Vertrag; Grundnormen-RL; nukleare Sicherheit RL.); ty..."
+description: "Wenn es um Atom- und Strahlenschutzrecht (BMUKN) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Atom- und Strahlenschutzrecht (BMUKN)

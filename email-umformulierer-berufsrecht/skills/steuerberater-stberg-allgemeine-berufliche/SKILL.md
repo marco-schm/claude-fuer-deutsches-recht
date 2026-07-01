@@ -1,6 +1,6 @@
 ---
 name: steuerberater-stberg-allgemeine-berufliche
-description: "Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anw"
+description: "Wenn es um Steuerberater-Modus (StBerG/BOStB) in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Steuerberater Stberg Allgemeine Berufliche; Arbeitsfeld: E-Mail-Umformulierer."
 ---
 
 # Steuerberater-Modus (StBerG/BOStB)

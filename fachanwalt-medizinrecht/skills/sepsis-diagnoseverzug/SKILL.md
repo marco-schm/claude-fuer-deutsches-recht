@@ -1,6 +1,6 @@
 ---
 name: sepsis-diagnoseverzug
-description: "Sepsis-Diagnoseverzug: moderner Medizinrechts-Skill für Infektzeichen, Labor, Eskalation, Antibiotikagabe, SOP und Kausalitätsstreit: Sepsis-Diagnoseverzug: moderner Medizinrechts-Skill für Infektzeichen, Labor, Eskalation, Antibiotikagabe, SOP und Kausalit..."
+description: "Wenn es um Sepsis Diagnoseverzug in Fachanwalt Medizinrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Sepsis-Diagnoseverzug: moderner Medizinrechts-Skill für Infektzeichen, Labor, Eskalation, Antibiotikagabe, SOP und Kausalitätsstreit

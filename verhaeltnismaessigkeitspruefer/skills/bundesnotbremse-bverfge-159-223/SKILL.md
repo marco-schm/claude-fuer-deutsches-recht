@@ -1,6 +1,6 @@
 ---
 name: bundesnotbremse-bverfge-159-223
-description: Bundesnotbremse BVerfGE Band 159 Seite 223 vom 19.11.2021 als vollstaendige Verhältnismäßigkeitspruefung der Pandemie-Maßnahmen Ausgangsbeschraenkung und Kontaktbeschraenkung. Mit Einschaetzungspraerogative bei dynamischer Wissenslage und Prüfung Stufe fuer Stufe.
+description: "Wenn es um Bundesnotbremse BVerfGE 159 223 in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Bundesnotbremse BVerfGE 159 223

@@ -1,6 +1,6 @@
 ---
 name: steckersolar-wallbox-barrierefreiheit
-description: "Spezialfür privilegierte Maßnahmen nach § 20 Abs. 2 WEG (Stand 05/2026): Steckersolargerät, Wallbox/E-Mobilität, barrierefreier Umbau, Einbruchsschutz, Glasfaseranschluss. Prüft Anspruch, technische Unterlagen, Auflagen, Beschlusswortlaut und Anfechtungsrisiko."
+description: "Wenn es um Steckersolar, Wallbox, Barrierefreiheit und Co. in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Steckersolar, Wallbox, Barrierefreiheit und Co.

@@ -1,6 +1,6 @@
 ---
 name: klagewege-mandantenkommunikation-entscheidungsvorlage
-description: "Klagewege: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Klagewege: Mandantenkommunikation und Entscheidungsvorlage in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Klagewege: Mandantenkommunikation und Entscheidungsvorlage

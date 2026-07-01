@@ -1,6 +1,6 @@
 ---
 name: bafza-entscheidungspfad
-description: "Trennt Registrierung/Zuleitung durch BAPersBw von der inhaltlichen Entscheidung des BAFzA im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um BAFzA entscheidet inhaltlich in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BAFzA entscheidet inhaltlich

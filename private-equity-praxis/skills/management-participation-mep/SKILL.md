@@ -1,6 +1,6 @@
 ---
 name: management-participation-mep
-description: "Strukturiert Management Equity Plan, Vesting, Leaver, Sweet Equity, Ratchet, Call/Put und Good/Bad-Leaver im Private Equity Praxis."
+description: "Wenn es um Management Participation und MEP in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Management Participation und MEP

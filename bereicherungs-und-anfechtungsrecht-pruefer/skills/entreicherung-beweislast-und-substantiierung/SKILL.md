@@ -1,6 +1,6 @@
 ---
 name: entreicherung-beweislast-und-substantiierung
-description: "Bei § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Normen: § 818 Abs. 3 BGB; §§ 138 und 286 ZPO. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauch..."
+description: "Wenn es um Entreicherung: Beweislast und Substantiierung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Entreicherung: Beweislast und Substantiierung

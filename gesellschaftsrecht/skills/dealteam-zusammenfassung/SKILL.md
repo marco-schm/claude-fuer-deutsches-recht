@@ -1,6 +1,6 @@
 ---
 name: dealteam-zusammenfassung
-description: "Erstellt gestaffelte Deal-Briefings für Geschäftsführung, Deal-Lead und Arbeitsteam aus DD-Findings und Vollzugscheckliste. Trigger: Deal-Briefing, Deal-Zusammenfassung, Status für Geschäftsführung, Team-Update, Deal-Team-Summary im Gesellschaftsrecht."
+description: "Wenn es um Deal-Team-Zusammenfassung in Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Deal-Team-Zusammenfassung

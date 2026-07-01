@@ -1,6 +1,6 @@
 ---
 name: kostenrisiko-vs-kostenfreiheit-laien
-description: "Was kostet Sie ein SG-Verfahren wirklich? Gerichtskostenfreiheit § 183 SGG Anwaltskosten Gutachterkosten § 109 SGG Mutwilligkeit § 192 SGG. Überblick für Buerger."
+description: "Wenn es um Was kostet ein SG-Verfahren wirklich? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Was kostet ein SG-Verfahren wirklich?

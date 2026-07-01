@@ -1,6 +1,6 @@
 ---
 name: meth-richterrecht-rechtsfortbildung-spezial
-description: "Analysiert das Richterrecht als Quelle des Zivilrechts und die methodischen Anforderungen an seine Entstehung, Fortgeltung und Überwindung. Das Skill zeigt, wie Richterrecht methodisch entsteht, welche demokratische Legitimation es beanspruchen kann, wie Präjudizien zu behandeln sind und wann ric..."
+description: "Wenn es um Richterrecht und Rechtsfortbildung: Spezialanalyse in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Richterrecht und Rechtsfortbildung: Spezialanalyse

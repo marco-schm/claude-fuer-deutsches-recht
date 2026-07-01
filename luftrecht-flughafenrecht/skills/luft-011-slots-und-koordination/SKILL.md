@@ -1,6 +1,6 @@
 ---
 name: luft-011-slots-und-koordination
-description: "Luftrecht und Flughafenrecht: Slots und Koordination. Slots und Koordination im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Slots Und Koordination in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Slots Und Koordination

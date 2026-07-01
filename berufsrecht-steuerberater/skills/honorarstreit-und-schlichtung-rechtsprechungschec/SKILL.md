@@ -1,6 +1,6 @@
 ---
 name: honorarstreit-und-schlichtung-rechtsprechungschec
-description: "Steuerberater: honorarstreit und schlichtung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Honorarstreit Und Schlichtung Rechtsprechungschec in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Steuerberater: honorarstreit und schlichtung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

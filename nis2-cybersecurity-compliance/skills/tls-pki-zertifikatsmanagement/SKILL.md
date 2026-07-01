@@ -1,6 +1,6 @@
 ---
 name: tls-pki-zertifikatsmanagement
-description: "Kontrolliert TLS, PKI und Zertifikatslebenszyklen im Nis2 Cybersecurity Compliance."
+description: "Wenn es um TLS PKI Zertifikatsmanagement in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # TLS PKI Zertifikatsmanagement

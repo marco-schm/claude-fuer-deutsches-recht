@@ -1,6 +1,6 @@
 ---
 name: influencer-content-creator
-description: "Prüft Influencer, Creator, Agenturverträge, Markenbotschafter, Exklusivität und Sozialversicherung/KSK im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Influencer und Content Creator in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer und Content Creator

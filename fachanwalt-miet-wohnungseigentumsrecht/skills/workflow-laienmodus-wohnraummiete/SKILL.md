@@ -1,6 +1,6 @@
 ---
 name: workflow-laienmodus-wohnraummiete
-description: "Laienmodus Wohnraummiete: Prüfungslinie für Miet- und WEG-Recht: erklärt Mietpost, Kündigung, Mangel oder Abrechnung in einfacher Sprache, ohne Rechte zu verschenken; mit Kaltstart, Fristenche..."
+description: "Wenn es um Laienmodus Wohnraummiete: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienmodus Wohnraummiete: Prüfungslinie für Miet- und WEG-Recht

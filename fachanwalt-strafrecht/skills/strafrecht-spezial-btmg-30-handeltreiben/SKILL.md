@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-btmg-30-handeltreiben
-description: "§ 30 BtMG: bandenmäßiges, gewerbsmäßiges und mit Schusswaffe gefuehrtes Handeltreiben mit BtM: Verbrechen mit zwei Jahren Mindeststrafe. Abgrenzung zu § 30a BtMG...."
+description: "Wenn es um Strafrecht Spezial Btmg 30 Handeltreiben in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 30 BtMG: bandenmäßiges, gewerbsmäßiges und mit Schusswaffe gefuehrtes Handeltreiben mit BtM

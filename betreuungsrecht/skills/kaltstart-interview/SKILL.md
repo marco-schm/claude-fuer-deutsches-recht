@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das Praxisprofil mit Angaben zur Rolle (betreute Person / Angehöriger / ehrenamtlicher Familienbetreuer / Berufsbetreuer / Vereinsbetreuer / Behördenbetreuer / anwaltliche Begleitung), Betreuungsgericht, Aufgabenkreisen, Unterstützungsst..."
+description: "Wenn es um /betreuungsrecht:betreuungsrecht-kaltstart-interview in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # /betreuungsrecht:betreuungsrecht-kaltstart-interview

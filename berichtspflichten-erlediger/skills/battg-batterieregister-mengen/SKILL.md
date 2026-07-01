@@ -1,6 +1,6 @@
 ---
 name: battg-batterieregister-mengen
-description: "Batterierecht: Registrierung, Geräte-/Industriebatterien, Rücknahme, Mengenmeldung, neue EU-Batterieverordnung-Schnittstelle im Berichtspflichten."
+description: "Wenn es um Batterierecht und Mengenmeldung in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Batterierecht und Mengenmeldung

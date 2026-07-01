@@ -1,6 +1,6 @@
 ---
 name: notenbekanntgabe-und-friststart
-description: "Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung im Prüfungsrecht Hochschule."
+description: "Wenn es um Notenbekanntgabe und Friststart in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notenbekanntgabe und Friststart

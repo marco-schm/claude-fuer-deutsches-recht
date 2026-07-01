@@ -1,6 +1,6 @@
 ---
 name: liqp-liquiditaetspool-cash-pooling-spezial
-description: "Spezialfall Liquiditaetspool und Cash-Pooling im Konzern: § 30 GmbHG, BGH-Rechtsprechung, vollwertiger Rueckzahlungsanspruch. Prüfraster für Konzernmutter und Tochter."
+description: "Wenn es um LiqP: Cash-Pooling Spezial in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LiqP: Cash-Pooling Spezial

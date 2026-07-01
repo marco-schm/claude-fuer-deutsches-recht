@@ -1,6 +1,6 @@
 ---
 name: insolvenz-und-verwertung
-description: "Gebrauchsmuster in Insolvenz, Distressed M&A und Verwertung prüfen: Massezuordnung, Lizenzfortbestand, Verkauf, Bewertung und Rechtsbestandsrisiko im Gebrauchsmusterrecht."
+description: "Wenn es um Insolvenz Und Verwertung in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Insolvenz Und Verwertung

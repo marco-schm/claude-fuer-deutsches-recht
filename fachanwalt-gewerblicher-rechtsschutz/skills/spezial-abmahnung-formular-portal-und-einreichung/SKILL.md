@@ -1,6 +1,6 @@
 ---
 name: spezial-abmahnung-formular-portal-und-einreichung
-description: "Abmahnung: Formular, Portal und Einreichungslogik im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Abmahnung: Formular, Portal und Einreichungslogik in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abmahnung: Formular, Portal und Einreichungslogik

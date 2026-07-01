@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Normenkontrolle Bauleitplanung: wählt den nächsten Spezial-Skill nach Engpass (§ 47 II VwGO 1 Jahr ab Bekanntmachung, Bebauungsplan, Begründung, Abwägungsmaterial), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Anschluss-Routing

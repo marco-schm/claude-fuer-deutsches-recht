@@ -1,6 +1,6 @@
 ---
 name: cookies-telemedien-ttdsg-tdddg
-description: "Telemedien-/TK-Schnittstelle: Cookies, Einwilligung, Endgerätezugriff, Consent-Banner und Telekommunikationsdienste im Telekommunikationsrecht."
+description: "Wenn es um Cookies, Telemedien und TDDDG-Schnittstelle in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Cookies, Telemedien und TDDDG-Schnittstelle

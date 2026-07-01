@@ -1,6 +1,6 @@
 ---
 name: nkr-stellungnahme-zum-bundestag-anhoerung
-description: "Vorbereitung einer Anhoerung im federfuehrenden Ausschuss des Bundestages. Beschreibt typische Anhoerungssituation NKR-Vertretung muendliche Eingangsaussage Vorbereitung Folienpaket Antworten auf Abgeordnetenfragen und Folge-Stellungnahme. Mit Mustersaetzen Frage-Antwort-Vorlagen und Dramaturgie-Hinweisen."
+description: "Wenn es um NKR-Stellungnahme zum Bundestag (Anhoerung) in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NKR-Stellungnahme zum Bundestag (Anhoerung)

@@ -1,6 +1,6 @@
 ---
 name: telemedizin-epa-erezept-und-datenschutz
-description: "Digitalisierung im Gesundheitswesen: Telemedizin, elektronische Patientenakte (ePA), elektronisches Rezept (eRezept) – GKV-Leistungsrahmen, Datenschutz und Opt-out im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Telemedizin, ePA, eRezept und Datenschutz in Krankenkassenrecht und Krankenversicherung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Telemedizin, ePA, eRezept und Datenschutz

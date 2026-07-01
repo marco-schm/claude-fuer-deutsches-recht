@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-us-work-made-for-hire-im-deutschen-projekt
-description: "Rechtsabteilungs-Fachmodul für US Work Made for Hire im deutschen Projekt: US-Templates werden auf deutsche Rechteübertragung und moral rights angepasst. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Softwarerecht De Eu Us."
+description: "Wenn es um Rechtsabteilung: US Work Made for Hire im deutschen Projekt in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsabteilung: US Work Made for Hire im deutschen Projekt

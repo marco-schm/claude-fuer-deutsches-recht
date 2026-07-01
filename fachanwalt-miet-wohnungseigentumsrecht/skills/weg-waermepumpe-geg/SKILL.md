@@ -1,6 +1,6 @@
 ---
 name: weg-waermepumpe-geg
-description: "WEG Wärmepumpe/GEG: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft GEG-Pflichten, Beschluss, Duldung, Finanzierung und Mieterschnittstellen; mit Normprüfung, Beweisen, Fristen, Risikoa..."
+description: "Wenn es um WEG Wärmepumpe/GEG: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Wärmepumpe/GEG: Fachmodul im Miet- und Wohnungseigentumsrecht

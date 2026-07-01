@@ -1,6 +1,6 @@
 ---
 name: kondiktionskarte-vollstaendiger-fallaufbau
-description: "Bei ein komplexer Fall zuerst als Personen-, Leistungs- und Vermögenskarte erfasst werden muss. Normen: §§ 812 bis 822 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren b..."
+description: "Wenn es um Kondiktionskarte: vollständiger Fallaufbau in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kondiktionskarte: vollständiger Fallaufbau

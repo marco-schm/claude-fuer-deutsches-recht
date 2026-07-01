@@ -1,6 +1,6 @@
 ---
 name: aufenthg-fristen-form-und-zustaendigkeit
-description: "Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg: Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Wenn es um Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg

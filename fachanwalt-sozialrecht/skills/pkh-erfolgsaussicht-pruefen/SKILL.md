@@ -1,6 +1,6 @@
 ---
 name: pkh-erfolgsaussicht-pruefen
-description: "Pkh Erfolgsaussicht Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Pkh Erfolgsaussicht Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer bel..."
+description: "Wenn es um Pkh Erfolgsaussicht Pruefen in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pkh Erfolgsaussicht Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

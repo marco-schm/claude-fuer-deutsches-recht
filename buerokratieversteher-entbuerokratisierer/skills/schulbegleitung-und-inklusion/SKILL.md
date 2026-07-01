@@ -1,6 +1,6 @@
 ---
 name: schulbegleitung-und-inklusion
-description: "Routet zwischen Schule, Eingliederungshilfe, Jugendamt, Sozialamt, ärztlichen Nachweisen und Eilantrag im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Schulbegleitung und Inklusion in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schulbegleitung und Inklusion

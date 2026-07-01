@@ -1,6 +1,6 @@
 ---
 name: spenden-zuwendungsbestaetigung-sportverein
-description: "Prüft Geld-/Sachspenden, Spendenquittung, Aufwandsspende, Sponsoring-Abgrenzung und Haftung im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Spenden und Zuwendungsbestätigung in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spenden und Zuwendungsbestätigung

@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Transport- und Speditionsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Frachtbrief, CMR-Frachtbrief, Schadensanzeige), nennt pro Lücke Beweisthema, Beschaffungsweg (Handelsgericht), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Transport Speditionsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

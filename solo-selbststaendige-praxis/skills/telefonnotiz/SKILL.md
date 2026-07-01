@@ -1,6 +1,6 @@
 ---
 name: telefonnotiz
-description: "Solo-Selbstständige: macht aus Telefonat eine beweistaugliche Notiz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Dokumente und Kommunikation: Macht aus telefonat eine beweistaugliche notiz in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumente und Kommunikation: Macht aus telefonat eine beweistaugliche notiz

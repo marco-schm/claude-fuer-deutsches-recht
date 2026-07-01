@@ -1,6 +1,6 @@
 ---
 name: inso-p337-arbeitsverhaltnis
-description: "§ 337 InsO (Arbeitsverhältnis) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 337 InsO (Arbeitsverhältnis) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittst..."
+description: "Wenn es um Inso P337 Arbeitsverhaltnis in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 337 InsO (Arbeitsverhältnis) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

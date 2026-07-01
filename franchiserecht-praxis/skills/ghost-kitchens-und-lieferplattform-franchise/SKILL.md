@@ -1,6 +1,6 @@
 ---
 name: ghost-kitchens-und-lieferplattform-franchise
-description: "Fachmodul Franchiserecht für Ghost Kitchens und Lieferplattform-Franchise: Dark Stores, Ghost Kitchens, Aggregator-Plattformen und markengetarnte Subkonzepte werden auf Lizenz, Hygiene, Verbrauchertäuschung und Gebietsschutz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Ent..."
+description: "Wenn es um Franchise: Ghost Kitchens und Lieferplattform-Franchise in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Franchise: Ghost Kitchens und Lieferplattform-Franchise

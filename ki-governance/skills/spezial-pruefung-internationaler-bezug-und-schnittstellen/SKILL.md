@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefung-internationaler-bezug-und-schnittstellen
-description: "Pruefung: Internationaler Bezug und Schnittstellen im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Pruefung: Internationaler Bezug und Schnittstellen in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pruefung: Internationaler Bezug und Schnittstellen

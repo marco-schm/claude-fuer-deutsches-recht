@@ -1,6 +1,6 @@
 ---
 name: er-vorlageverfahren-eur-kommissionsverfahren
-description: "Spezialfall Vorlageverfahren Art. 267 AEUV: Voraussetzungen, letztinstanzliche Vorlagepflicht, Cilfit-Kriterien, acte clair und acte eclaire, Folgen Verstoss (Staatshaftung Koebler). Prüfraster und Mustertext für Vorlagebeschluss im Europarecht Kompass."
+description: "Wenn es um Europarecht: Vorlageverfahren Art. 267 in Europarecht-Kompass für deutsche Juristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Europarecht: Vorlageverfahren Art. 267

@@ -1,6 +1,6 @@
 ---
 name: pruefungsbescheid-dpma-epa-erwiderung
-description: "Bereitet Erwiderungen auf Prüfungsbescheide von DPMA oder EPA vor: Beanstandungen, Entgegenhaltungen, Anspruchsänderungen, Argumentation zu Neuheit/erfinderischer Tätigkeit und Mandantenrückfragen im Patentrecht."
+description: "Wenn es um Prüfungsbescheid DPMA/EPA in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Prüfungsbescheid DPMA/EPA

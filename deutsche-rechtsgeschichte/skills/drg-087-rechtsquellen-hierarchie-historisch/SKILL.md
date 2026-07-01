@@ -1,6 +1,6 @@
 ---
 name: drg-087-rechtsquellen-hierarchie-historisch
-description: "Deutsche Rechtsgeschichte: Rechtsquellen Hierarchie Historisch. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Rechtsquellen Hierarchie Historisch in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsquellen Hierarchie Historisch

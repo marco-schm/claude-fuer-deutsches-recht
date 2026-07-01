@@ -1,6 +1,6 @@
 ---
 name: see-065-containerschiff-wrackpflicht-pruefen
-description: "See- und Schifffahrtsrecht: Containerschiff: Wrackpflicht prüfen. Wrackpflicht prüfen für Containerschiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Containerschiff Wrackpflicht Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Containerschiff Wrackpflicht Pruefen

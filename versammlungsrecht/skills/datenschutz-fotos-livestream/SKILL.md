@@ -1,6 +1,6 @@
 ---
 name: datenschutz-fotos-livestream
-description: "Prüft Fotos, Livestreams, Drohnen, Teilnehmerdaten, Ordnerlisten und Polizeiaufnahmen im Versammlungsrecht."
+description: "Wenn es um Sichtbarkeit und Datenschutz zusammen denken in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sichtbarkeit und Datenschutz zusammen denken

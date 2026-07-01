@@ -1,6 +1,6 @@
 ---
 name: ein-037-treuhandprivatisierung-behoerdenbrief
-description: "Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Behördenbrief schreiben. Behördenbrief schreiben für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Treuhandprivatisierung Behoerdenbrief in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Treuhandprivatisierung Behoerdenbrief

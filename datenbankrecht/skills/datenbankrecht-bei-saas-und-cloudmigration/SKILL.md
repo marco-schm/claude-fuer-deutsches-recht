@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-bei-saas-und-cloudmigration
-description: "Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen: Inhaberschaft am Datenbankherstellerrecht (§ 87a UrhG) bei SaaS-Betrieb, Datenmitnahme bei Anbieterwechsel (Data Act Art. 17), AGB-Klauseln zur Datenbankzuweisung, Auftragsverarbeitung nach Art. 28 DSGVO und Vendor-Lock-in-Risiken bei propri..."
+description: "Wenn es um Datenbankrecht bei SaaS und Cloud-Migration — Inhaberschaft und Datenmitnahme in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht bei SaaS und Cloud-Migration — Inhaberschaft und Datenmitnahme

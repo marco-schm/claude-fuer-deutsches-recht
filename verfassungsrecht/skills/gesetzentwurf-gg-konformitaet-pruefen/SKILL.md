@@ -1,6 +1,6 @@
 ---
 name: gesetzentwurf-gg-konformitaet-pruefen
-description: "Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Prüfraster: formelle Verfassungsmäßigkeit Grundrechte Art. 20 GG Rechtsstaatsprinzip Verhältnismäßigkeit EU-Recht-Konformität. Output: Verfassun..."
+description: "Wenn es um Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht) in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht)

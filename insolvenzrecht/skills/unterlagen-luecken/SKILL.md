@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Insolvenzrecht (Allgemein): trennt fehlende Tatsachen von fehlenden Belegen (Insolvenzantrag, Vermögensverzeichnis, Gutachten Sachverständiger), nennt pro Lücke Beweisthema, Beschaffungsweg (Insolvenzgericht (AG)), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-verlustvortraege-sanity
-description: "Sanity-Check der Verlustvorträge im Distressed-Due-Diligence-Prozess. Modelliert den Verbrauch von körperschaft- und gewerbesteuerlichen Verlustvorträgen, Zinsvorträgen und EBITDA-Vorträgen durch einen prognostizierten Sanierungsertrag (Paragraf 3a Abs. 3 EStG / Paragraf 7b GewStG). Liefert ein DD-Modul mit Ve..."
+description: "Wenn es um Sanierungsgewinn – Verlustvorträge Sanity im DD-Prozess in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsgewinn – Verlustvorträge Sanity im DD-Prozess

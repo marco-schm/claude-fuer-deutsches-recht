@@ -1,6 +1,6 @@
 ---
 name: infl-033-foto-shooting-vertrag-model-release-location
-description: "Influencer-Recht: Foto-Shooting Vertrag Model Release Location mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Foto-Shooting Vertrag Model Release Location in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Foto-Shooting Vertrag Model Release Location

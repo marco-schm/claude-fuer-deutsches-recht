@@ -1,6 +1,6 @@
 ---
 name: systemhandbuch-vertikale-franchise
-description: "Fachmodul Franchiserecht für Systemhandbuch-Änderungen ohne AGB-Absturz: Einseitige Handbuchänderungen werden auf Transparenz, Zumutbarkeit, Änderungsmechanismus und Beweis der Kenntnisnahme geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteil..."
+description: "Wenn es um Franchise: Systemhandbuch-Änderungen ohne AGB-Absturz in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Franchise: Systemhandbuch-Änderungen ohne AGB-Absturz

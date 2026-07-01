@@ -1,6 +1,6 @@
 ---
 name: str-067-gemeindestrasse-kostenlast-pruefen
-description: "Straßenrecht und Infrastruktur: Gemeindestraße: Kostenlast prüfen. Kostenlast prüfen für Gemeindestraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Gemeindestrasse Kostenlast Pruefen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gemeindestrasse Kostenlast Pruefen

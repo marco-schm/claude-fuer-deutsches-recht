@@ -1,6 +1,6 @@
 ---
 name: bdsg-schriftsatz-brief-und-memo-bausteine
-description: "Bdsg: Schriftsatz-, Brief- und Memo-Bausteine: Bdsg: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Wenn es um Bdsg: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt It Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bdsg: Schriftsatz-, Brief- und Memo-Bausteine

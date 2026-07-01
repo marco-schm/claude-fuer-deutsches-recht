@@ -1,6 +1,6 @@
 ---
 name: hochschulmedizin-klinik-hochschulrat-aufsicht
-description: "Prüft Universitätsmedizin, Klinikträger, Forschung, Lehre und Organabgrenzung im Hochschulrecht Länder."
+description: "Wenn es um Hochschulmedizin und Klinik-Schnittstelle in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hochschulmedizin und Klinik-Schnittstelle

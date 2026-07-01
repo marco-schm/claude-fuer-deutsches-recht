@@ -1,6 +1,6 @@
 ---
 name: krisenverfassung-und-permanenter-notstand
-description: "Prüft Krisenverfassung und dauerhafte Notstandslogik: Befristung, Parlament, Gerichtskontrolle, Grundrechte, Gesetzgebungstechnik, Normalisierungsgefahr und Rueckkehrpfad."
+description: "Wenn es um Krisenverfassung und permanenter Notstand in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krisenverfassung und permanenter Notstand

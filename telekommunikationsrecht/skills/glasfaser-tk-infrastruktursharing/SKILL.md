@@ -1,6 +1,6 @@
 ---
 name: glasfaser-tk-infrastruktursharing
-description: "Glasfaser- und Hausanschlussprojekte: Grundstückszugang, Gebäudenetz, Wegerecht, Gestattung, Wohnungseigentum, Open Access und Baukoordination im Telekommunikationsrecht."
+description: "Wenn es um Glasfaser-Hausanschluss und Wegerecht in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Glasfaser-Hausanschluss und Wegerecht

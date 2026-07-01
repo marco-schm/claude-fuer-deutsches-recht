@@ -1,6 +1,6 @@
 ---
 name: betriebskostenabrechnung-erstellen-asset-management
-description: "Betriebskostenabrechnung im Asset- und Property-Management erstellen: Mietvertragsklauseln, BetrKV-Mapping, WEG- oder Objektbuchhaltung, HeizkostenV, CO2KostAufG, Gewerbe-Vorwegabzug, Vorauszahlungskonto, Versand und Belegpaket im Immobilienrechtspraxis."
+description: "Wenn es um Betriebskostenabrechnung erstellen in Immobilienrechtspraxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Betriebskostenabrechnung erstellen

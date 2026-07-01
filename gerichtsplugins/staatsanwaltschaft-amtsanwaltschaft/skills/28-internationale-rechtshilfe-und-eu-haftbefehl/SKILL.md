@@ -1,6 +1,6 @@
 ---
 name: 28-internationale-rechtshilfe-und-eu-haftbefehl
-description: "Internationale Rechtshilfe in Strafsachen: Europaeischer Haftbefehl (Paragrafen 78 bis 83i IRG), Rechtshilfeersuchen (Paragrafen 59 ff. IRG), Europaeische Ermittlungsanordnung (Paragrafen 91a ff. IRG); Pruefschema fuer Ausstellung und Bewilligung, doppelte Strafbarkeit, Listentaten, Verhaeltnismaessigkeit"
+description: "Wenn es um 28 Internationale Rechtshilfe und EU Haftbefehl in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 28 Internationale Rechtshilfe und EU Haftbefehl

@@ -1,6 +1,6 @@
 ---
 name: informationszugang-schleswig-holstein
-description: "Informationsfreiheit und Presseauskunft: Informationszugang Schleswig-Holstein Livecheck. Informationszugang Schleswig-Holstein Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreihei..."
+description: "Wenn es um Informationszugang Schleswig Holstein in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Informationszugang Schleswig Holstein

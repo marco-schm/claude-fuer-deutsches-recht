@@ -1,6 +1,6 @@
 ---
 name: deal-verstaendigung-schoeffe-orientierung
-description: "Verständigung im Strafverfahren (Orientierung): hilft ehrenamtlichen Richtern bei Deal, Transparenz, Protokoll, Geständnis und Rolle der Schöffen mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Verständigung im Strafverfahren: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verständigung im Strafverfahren: Orientierung

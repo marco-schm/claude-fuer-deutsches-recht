@@ -1,6 +1,6 @@
 ---
 name: anlagen-redaktion-dsgvo-geschgehg
-description: "Prüft Anlagen vor Einreichung auf personenbezogene Daten, Geschäftsgeheimnisse, Drittmandate, Schwärzungsbedarf und Redaktionsprotokoll."
+description: "Wenn es um Redaktion, DSGVO und Geschäftsgeheimnisse in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Redaktion, DSGVO und Geschäftsgeheimnisse

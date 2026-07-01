@@ -1,6 +1,6 @@
 ---
 name: miet-wem-bauliche-veraenderung-spezial
-description: "Spezialfall bauliche Veraenderung im WEG § 20 WEG nach Reform: Beschlussfassung, privilegierte Maßnahmen Barrierefreiheit / E-Ladestation / Glasfaser / Einbruchschutz: Spezialfall bauliche Veraenderung im WEG § 20 WEG nach Reform: Beschlussfassung, privile..."
+description: "Wenn es um Miet Wem Bauliche Veraenderung Spezial in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall bauliche Veraenderung im WEG § 20 WEG nach Reform: Beschlussfassung, privilegierte Maßnahmen Barrierefreiheit / E-Ladestation / Glasfaser / Einbruchschutz

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Corporate-Kanzlei (M&A, Gesellschaftsrecht): ordnet Rolle (Seller, Buyer, Target, Berater (anwaltlich, steuerlich, M&A), Aufsichtsrat), markiert Frist (Ad-hoc unverzüglich), wählt Norm (AktG, GmbHG, HGB, WpÜG, WpHG, UmwG) und Zuständigkeit (BaFin), leitet zum pass..."
+description: "Wenn es um Einstieg und Routing in Corporate-Kanzlei geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

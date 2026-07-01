@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Student startet erstmals Jurastudium-Skill und muss Lernprofil Semester Bundesland Prüfungsziel und Lernstil konfigurieren. 1. StEx und 2. StEx, JAG Bundesland-Varianten, Methodenlehre. Prüfraster Semester und Fortschritt, Bundesland JA..."
+description: "Wenn es um Erstes Einrichtungsgespräch (Kaltstart-Interview) in Jurastudium geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erstes Einrichtungsgespräch (Kaltstart-Interview)

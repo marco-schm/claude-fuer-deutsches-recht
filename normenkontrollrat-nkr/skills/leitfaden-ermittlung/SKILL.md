@@ -1,6 +1,6 @@
 ---
 name: leitfaden-ermittlung
-description: "Strukturierter Überblick ueber den Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) als methodische Hauptgrundlage. Beschreibt Aufbau Kapitelstruktur die zwingenden Darstellungsformen im Vorblatt und in der Begruendung sowie die Schnittstelle zur Stellungnahme. Mit Ch"
+description: "Wenn es um NKR-Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Leitfaden Ermittlung; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
 ---
 
 # NKR-Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands

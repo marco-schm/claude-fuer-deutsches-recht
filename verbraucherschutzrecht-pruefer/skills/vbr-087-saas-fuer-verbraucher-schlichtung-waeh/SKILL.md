@@ -1,6 +1,6 @@
 ---
 name: vbr-087-saas-fuer-verbraucher-schlichtung-waeh
-description: "Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Schlichtung wählen. Schlichtung wählen für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Saas Fuer Verbraucher Schlichtung Waeh in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Saas Fuer Verbraucher Schlichtung Waeh

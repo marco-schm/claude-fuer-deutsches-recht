@@ -1,6 +1,6 @@
 ---
 name: drittlandstransfer-pruefung
-description: "Datentransfer in Drittlaender außerhalb EU und EWR auf Zulässigkeit prüfen. Art. 44 ff. DSGVO Kapitel V Drittlandstransfer. Prüfraster: Angemessenheitsbeschluss SCC BCR Schrems-II-Folgen Transfer Impact Assessment zusaetzliche Maßnahmen. Output: Drittlandstransfer-Prüfmemo TIA-Vorlage. Abgrenzun..."
+description: "Wenn es um Drittlandstransfer-Prüfung (Art. 44 ff. DSGVO) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drittlandstransfer-Prüfung (Art. 44 ff. DSGVO)

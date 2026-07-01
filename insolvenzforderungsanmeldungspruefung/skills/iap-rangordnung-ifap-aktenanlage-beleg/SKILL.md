@@ -1,6 +1,6 @@
 ---
 name: iap-rangordnung-ifap-aktenanlage-beleg
-description: "Checkliste Rangordnung der Insolvenzforderungen § 38 / § 39 InsO: einfach, nachrangig, Massekosten, Masseverbindlichkeiten. Prüfraster für Tabellenfuehrer im Insolvenzforderungsanmeldungspruefung."
+description: "Wenn es um IAP: Rangordnung-Checkliste in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # IAP: Rangordnung-Checkliste

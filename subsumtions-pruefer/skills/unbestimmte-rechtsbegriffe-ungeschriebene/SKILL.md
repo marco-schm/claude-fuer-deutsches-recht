@@ -1,6 +1,6 @@
 ---
 name: unbestimmte-rechtsbegriffe-ungeschriebene
-description: "Prüft unbestimmte Rechtsbegriffe: wesentlich, erheblich, zumutbar, geeignet, angemessen, erforderlich. Gibt Auslegungsmassstaeibe aus Rechtsprechung und h.M., Indizien und Fallgruppen. Warnt vor der Grenze mechanischer Subsumtion bei wertungsoffenen Begriffen im Subsumtions Prüfer."
+description: "Wenn es um Unbestimmte Rechtsbegriffe prüfen in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unbestimmte Rechtsbegriffe prüfen

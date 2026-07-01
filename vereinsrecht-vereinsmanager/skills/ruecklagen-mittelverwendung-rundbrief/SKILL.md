@@ -1,6 +1,6 @@
 ---
 name: ruecklagen-mittelverwendung-rundbrief
-description: "Erklärt zeitnahe Mittelverwendung, freie Rücklage, Projektrücklage, Vermögensbindung und Nachweis im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Rücklagen und Mittelverwendung in Vereinsrecht und Vereinsmanager geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rücklagen und Mittelverwendung

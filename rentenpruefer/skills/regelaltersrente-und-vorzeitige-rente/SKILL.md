@@ -1,6 +1,6 @@
 ---
 name: regelaltersrente-und-vorzeitige-rente
-description: "Prüfung von Regelaltersrente und vorzeitiger Altersrente nach SGB VI: Altersgrenzen, Wartezeiten, Abschläge, Antragstiming und Übergang in den Ruhestand im Rentenpruefer."
+description: "Wenn es um regelaltersrente-und-vorzeitige-rente in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # regelaltersrente-und-vorzeitige-rente

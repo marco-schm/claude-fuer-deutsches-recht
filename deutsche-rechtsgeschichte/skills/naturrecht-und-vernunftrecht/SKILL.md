@@ -1,6 +1,6 @@
 ---
 name: naturrecht-und-vernunftrecht
-description: "Deutsche Rechtsgeschichte: Naturrecht und Vernunftrecht im 17. und 18. Jahrhundert. Grotius, Pufendorf, Wolff, Kant und der Einfluss auf ALR, Code Civil und fruehe Kodifikationsbewegung im Deutsche Rechtsgeschichte."
+description: "Wenn es um Naturrecht und Vernunftrecht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Naturrecht und Vernunftrecht

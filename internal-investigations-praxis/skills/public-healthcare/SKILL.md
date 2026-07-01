@@ -1,6 +1,6 @@
 ---
 name: public-healthcare
-description: "Untersucht Unregelmäßigkeiten bei öffentlichen Vergabeverfahren – GWB, VgV, Kartellrecht, Manipulationsrisiken und Konsequenzen im Internal Investigations Praxis."
+description: "Wenn es um Öffentliche Vergabe und Beschaffungsmanipulation in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Öffentliche Vergabe und Beschaffungsmanipulation

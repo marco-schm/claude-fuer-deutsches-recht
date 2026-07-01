@@ -1,6 +1,6 @@
 ---
 name: space-055-internationale-kooperation-memorandum-of-understanding
-description: "Weltraumrecht: Internationale Kooperation Memorandum of Understanding mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Internationale Kooperation Memorandum of Understanding in Weltraumrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Internationale Kooperation Memorandum of Understanding

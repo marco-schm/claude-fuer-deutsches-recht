@@ -1,6 +1,6 @@
 ---
 name: eigenen-formular-portal-und-einreichung
-description: "Eigenen: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Eigenen: Formular, Portal und Einreichungslogik in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eigenen: Formular, Portal und Einreichungslogik

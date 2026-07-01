@@ -1,6 +1,6 @@
 ---
 name: spezial-sheets-livequellen-und-rechtsprechungscheck
-description: "Sheets: Livequellen- und Rechtsprechungscheck im Plugin vertragsausfueller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Sheets: Livequellen- und Rechtsprechungscheck in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sheets: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: richterbild-in-diktatur-und-rechtsstaat
-description: "Vergleicht Richterrollen in liberalem Rechtsstaat, autoritärem Staat und Diktatur: Gesetzesbindung, Zeitgeist, politische Steuerung, richterliche Unabhängigkeit und Verantwortung im Deutsche Rechtsgeschichte."
+description: "Wenn es um Richterbild in Diktatur und Rechtsstaat in Deutsche Rechtsgeschichte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Richterbild In Diktatur Und Rechtsstaat; Arbeitsfeld: Deutsche Rechtsgeschichte."
 ---
 
 # Richterbild in Diktatur und Rechtsstaat

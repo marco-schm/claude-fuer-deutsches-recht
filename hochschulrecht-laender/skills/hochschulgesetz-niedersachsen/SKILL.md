@@ -1,6 +1,6 @@
 ---
 name: hochschulgesetz-niedersachsen
-description: "Prüft Hochschulrecht in Niedersachsen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder."
+description: "Wenn es um Hochschulgesetz Niedersachsen in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hochschulgesetz Niedersachsen

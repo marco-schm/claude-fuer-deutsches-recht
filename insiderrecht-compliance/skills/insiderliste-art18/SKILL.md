@@ -1,6 +1,6 @@
 ---
 name: insiderliste-art18
-description: "Erstellt und pflegt Insiderlisten nach Art. 18 MAR inklusive Format, Inhalt, Aktualisierungspflichten und BaFin-Uebermittlung im Insiderrecht Compliance."
+description: "Wenn es um Insiderliste nach Art. 18 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insiderliste nach Art. 18 MAR

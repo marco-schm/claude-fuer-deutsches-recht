@@ -1,6 +1,6 @@
 ---
 name: eu-konformitaetserklaerung-einbauerklaerung
-description: "Erstellt und prüft EU-Konformitätserklärung, Einbauerklärung, Sprachfassung, Unterzeichner und technische Bezüge."
+description: "Wenn es um EU-Konformitäts- und Einbauerklärung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: EU Konformitaetserklaerung Einbauerklaerung; Arbeitsfeld: robotik-recht."
 ---
 
 # EU-Konformitäts- und Einbauerklärung

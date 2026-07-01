@@ -1,6 +1,6 @@
 ---
 name: 002-beurkundung-oder-unterschriftsbeglaubigung-richtig
-description: "Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung richtig einordnen. Abgrenzung von Beurkundung (§§ 6–35 BeurkG) und Beglaubigung (§§ 39–44 BeurkG) mit Formzwang-Prüfung, Haftungsfolgen und Vollzugstauglichkeit im Notariat."
+description: "Wenn es um Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig einordnen in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig einordnen

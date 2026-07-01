@@ -1,6 +1,6 @@
 ---
 name: restrukturierungsplan-fristen-form-und-zustaendigkeit
-description: "Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzpl..."
+description: "Wenn es um Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg

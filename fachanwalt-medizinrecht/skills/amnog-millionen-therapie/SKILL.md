@@ -1,6 +1,6 @@
 ---
 name: amnog-millionen-therapie
-description: "AMNOG und Millionen-Therapie: moderner Medizinrechts-Skill für Einmaltherapie mit sehr hohem Preis, Budgetwirkung, Erstattungsbetrag, Outcome-Based-Modelle und Regressangst: AMNOG und Millionen-Therapie: moderner Medizinrechts-Skill für Einmaltherapie mit s..."
+description: "Wenn es um Amnog Millionen Therapie in Fachanwalt Medizinrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # AMNOG und Millionen-Therapie: moderner Medizinrechts-Skill für Einmaltherapie mit sehr hohem Preis, Budgetwirkung, Erstattungsbetrag, Outcome-Based-Modelle und Regressangst

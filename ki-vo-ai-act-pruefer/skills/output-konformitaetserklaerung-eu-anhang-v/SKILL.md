@@ -1,6 +1,6 @@
 ---
 name: output-konformitaetserklaerung-eu-anhang-v
-description: "Anbieter benoetigt das fertige Musterdokument für die EU-Konformitätserklärung zum Ausfuellen und Unterzeichnen. Art. 47 i.V.m. Anhang V KI-VO EU-Konformitätserklärung. Pflichtinhalt Anhang V: eindeutige Systemidentifikation Anbieter Bevollmaechtigter Verweis auf harmonisierte Normen gemeinsame S..."
+description: "Wenn es um Output: EU-Konformitätserklärung — Art. 47 und Anhang V europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Output: EU-Konformitätserklärung — Art. 47 und Anhang V KI-VO

@@ -1,6 +1,6 @@
 ---
 name: krankenhausreform-leistungsgruppen
-description: "Krankenhausreform Leistungsgruppen: moderner Medizinrechts-Skill für KHVVG/KHAG, Leistungsgruppen, Qualitätskriterien, Kooperation und Haftung bei Leistungsverschiebung: Krankenhausreform Leistungsgruppen: moderner Medizinrechts-Skill für KHVVG/KHAG, Leistu..."
+description: "Wenn es um Krankenhausreform Leistungsgruppen in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenhausreform Leistungsgruppen: moderner Medizinrechts-Skill für KHVVG/KHAG, Leistungsgruppen, Qualitätskriterien, Kooperation und Haftung bei Leistungsverschiebung

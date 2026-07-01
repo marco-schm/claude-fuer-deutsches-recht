@@ -1,6 +1,6 @@
 ---
 name: belastbarkeit-formeln
-description: "Formulierungskatalog für Belastbarkeitsaussagen im Zeugnis. Belastbarkeit ist bei stressrelevanten Positionen eine Pflichtaussage — fehlt sie, wird Belastbarkeitsdefizit impliziert. Enthält Formeln für alle Noten sowie Hinweise auf Formulierungen, die riskante Krankheits- oder Fehlzeiten-Lesarten erzeugen können."
+description: "Wenn es um Belastbarkeit-Formeln in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Belastbarkeit-Formeln

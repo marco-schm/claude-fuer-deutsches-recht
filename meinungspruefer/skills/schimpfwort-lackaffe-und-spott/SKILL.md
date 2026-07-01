@@ -1,6 +1,6 @@
 ---
 name: schimpfwort-lackaffe-und-spott
-description: "Prüft Spott- und Schimpfwörter wie Lackaffe im Kontext. Bewertet Sachbezug, Amtsrolle, Spontanität, Reichweite, Herabsetzungsgrad, Formalbeleidigung, Schmähkritik und Art 5 GG im Meinungspruefer."
+description: "Wenn es um \"Lackaffe\" und ähnliche Spottbegriffe in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # "Lackaffe" und ähnliche Spottbegriffe

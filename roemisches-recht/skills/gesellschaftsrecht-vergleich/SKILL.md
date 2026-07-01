@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-vergleich
-description: "Römisches Recht: Gesellschaftsrecht Vergleich. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Gesellschaftsrecht Vergleich in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesellschaftsrecht Vergleich

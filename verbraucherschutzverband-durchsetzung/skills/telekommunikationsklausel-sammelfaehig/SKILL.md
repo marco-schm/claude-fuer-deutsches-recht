@@ -1,6 +1,6 @@
 ---
 name: telekommunikationsklausel-sammelfaehig
-description: "Verbraucherschutzverband Durchsetzung: Telekommunikationsklausel: Sammelfähigkeit prüfen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Telekommunikationsklausel Sammelfaehig in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Telekommunikationsklausel Sammelfaehig

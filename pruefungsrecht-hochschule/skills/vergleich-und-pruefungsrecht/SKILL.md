@@ -1,6 +1,6 @@
 ---
 name: vergleich-und-pruefungsrecht
-description: "Prüft Vergleichslösungen im Prüfungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Vergleich Und Pruefungsrecht in Prüfungsrecht an Hochschulen und Universitäten geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich Und Pruefungsrecht

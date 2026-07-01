@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-ki-saas-vertrag-werkvertrag
-description: "Rechtsabteilungs-Fachmodul für KI-Code und Trainingsdaten im Lizenzvertrag: AI-assisted coding wird mit Warranty, Audit, Indemnity und Source-Hygiene geregelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Softwarerecht De Eu Us."
+description: "Wenn es um Rechtsabteilung: digitale Werkzeuge-Code und Trainingsdaten im Lizenzvertrag in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsabteilung: KI-Code und Trainingsdaten im Lizenzvertrag

@@ -1,6 +1,6 @@
 ---
 name: pflvg-risikoampel-und-gegenargumente
-description: "Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien: Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Wenn es um Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien

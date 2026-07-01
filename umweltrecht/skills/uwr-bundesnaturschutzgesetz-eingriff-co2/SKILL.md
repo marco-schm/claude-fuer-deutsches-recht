@@ -1,6 +1,6 @@
 ---
 name: uwr-bundesnaturschutzgesetz-eingriff-co2
-description: "Spezialfall Eingriff in Natur und Landschaft §§ 14 ff. BNatSchG: Vermeidung, Minimierung, Ausgleich und Ersatz, Eingriff Prüfraster. Anwendung in Bauleitplanung im Umweltrecht."
+description: "Wenn es um UwR: BNatSchG-Eingriff in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # UwR: BNatSchG-Eingriff

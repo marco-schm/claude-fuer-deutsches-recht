@@ -1,6 +1,6 @@
 ---
 name: versorgungsausgleich-kaltstart
-description: "Versorgungsausgleich Kaltstart: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Wenn es um Versorgungsausgleich Kaltstart in Fachanwalt Familienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versorgungsausgleich Kaltstart

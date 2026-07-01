@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsychologie-konstanzanalyse
-description: "Konstanzanalyse: Aussagekonstanz vs: Aussageinkonstanz, Kernkonstanz und Detailvariation, Aussageentwicklung von der ersten Anzeige bis zur Hauptverhandlung. Methodische Prüfung, Bewertung im aussagepsychologischen Gesa..."
+description: "Wenn es um Konstanzanalyse: Aussagekonstanz vs in Fachanwalt Strafrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Konstanzanalyse: Aussagekonstanz vs

@@ -1,6 +1,6 @@
 ---
 name: vertragsstrafe-339-bgb
-description: "Drafting und Prüfung von Vertragsstrafeklauseln nach §§ 339-345 BGB. Klärt Bestimmtheit der zu sichernden Hauptverbindlichkeit, Verschuldenserfordernis, Höhe und Verhältnismäßigkeit, Verhältnis zum Schadensersatz (§ 340 BGB Erfüllung statt vs. § 341 BGB neben Erfüllung), richterliche Herabsetzung..."
+description: "Wenn es um Vertragsstrafe nach Paragrafen 339-345 BGB in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Vertragsstrafe nach §§ 339-345 BGB

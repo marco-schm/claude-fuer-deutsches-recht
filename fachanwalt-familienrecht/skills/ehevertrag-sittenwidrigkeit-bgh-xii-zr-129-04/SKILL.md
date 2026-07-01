@@ -1,6 +1,6 @@
 ---
 name: ehevertrag-sittenwidrigkeit-bgh-xii-zr-129-04
-description: "Ehevertrag Sittenwidrigkeit BGH Xii Zr 129 04: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Ehevertrag Sittenwidrigkeit BGH Xii Zr 129 04 in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ehevertrag Sittenwidrigkeit BGH Xii Zr 129 04

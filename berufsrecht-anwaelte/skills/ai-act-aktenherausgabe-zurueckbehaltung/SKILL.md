@@ -1,6 +1,6 @@
 ---
 name: ai-act-aktenherausgabe-zurueckbehaltung
-description: "AI-Act-Transparenz in der Kanzlei prüfen: Mandantenchatbot, Website, Marketing, Legal-Update, Schriftsatzentwurf, Art. 4 und Art. 50 KI-VO, Anbieter-/Betreiberrolle, redaktionelle Kontrolle und Kennzeichnung ab 02.08.2026 im Berufsrecht Anwaelte."
+description: "Wenn es um europäischer Technikregulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz in Berufsrecht Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # KI-VO-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz

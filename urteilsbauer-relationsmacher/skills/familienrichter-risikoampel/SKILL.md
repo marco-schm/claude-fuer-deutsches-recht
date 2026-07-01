@@ -1,6 +1,6 @@
 ---
 name: familienrichter-risikoampel
-description: "Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder..."
+description: "Wenn es um Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien in Urteilsbauer und Relationsmacher geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Familienrichter Risikoampel; Arbeitsfeld: Urteilsbauer und Relationsmacher."
 ---
 
 # Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien

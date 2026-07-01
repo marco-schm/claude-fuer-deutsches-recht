@@ -1,6 +1,6 @@
 ---
 name: p-konto-pfaendung-bgh-vii-zb-25-21
-description: "P Konto Pfaendung BGH Vii Zb 25 21: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um P Konto Pfaendung BGH Vii Zb 25 21 in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # P Konto Pfaendung BGH Vii Zb 25 21

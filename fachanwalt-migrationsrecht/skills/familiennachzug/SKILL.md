@@ -1,6 +1,6 @@
 ---
 name: familiennachzug
-description: "Mandant will Ehegatten Kinder oder Eltern nach Deutschland holen und fragt nach Voraussetzungen und Verfahren: Prüfraster §§ 27-36 AufenthG Famili..."
+description: "Wenn es um Familiennachzug in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Familiennachzug; Arbeitsfeld: Fachanwalt Migrationsrecht."
 ---
 
 # Mandant will Ehegatten Kinder oder Eltern nach Deutschland holen und fragt nach Voraussetzungen und Verfahren

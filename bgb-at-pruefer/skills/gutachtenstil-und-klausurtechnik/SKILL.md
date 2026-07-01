@@ -1,6 +1,6 @@
 ---
 name: gutachtenstil-und-klausurtechnik
-description: "Methodik-Skill für Gutachtenstil und Klausurtechnik im Zivilrecht BGB AT: OTSE-Schema (Obersatz — Tatbestand — Subsumtion — Ergebnis), Urteilsstil vs. Gutachtenstil, häufige Aufbaufehler, Zeitmanagement und Schwerpunktsetzung."
+description: "Wenn es um Gutachtenstil und Klausurtechnik — Zivilrecht BGB AT in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Gutachtenstil und Klausurtechnik — Zivilrecht BGB AT

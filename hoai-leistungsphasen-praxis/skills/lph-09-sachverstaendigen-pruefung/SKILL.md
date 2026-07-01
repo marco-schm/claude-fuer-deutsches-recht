@@ -1,6 +1,6 @@
 ---
 name: lph-09-sachverstaendigen-pruefung
-description: "HOAI LPH 9 Objektbetreuung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 9 Objektbetreuung: Übersetzt den lph-stand in gutachterfragen und prüfspur in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 9 Objektbetreuung: Übersetzt den lph-stand in gutachterfragen und prüfspur

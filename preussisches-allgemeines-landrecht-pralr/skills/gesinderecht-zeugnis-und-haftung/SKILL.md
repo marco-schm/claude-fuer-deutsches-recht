@@ -1,6 +1,6 @@
 ---
 name: gesinderecht-zeugnis-und-haftung
-description: "Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienstzeugnis (Vorlaeufer des heutigen Arbeitszeugnisses) Haftung des Gesindes für Schaeden Haftung der Herrschaft für Handlungen des Gesindes. Liefert Prüfraster."
+description: "Wenn es um Pralr Gesinderecht Zeugnis Und Haftung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gesinderecht Zeugnis Und Haftung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Pralr Gesinderecht Zeugnis Und Haftung

@@ -1,6 +1,6 @@
 ---
 name: regulatory-sector-dd
-description: "Prüft sektorregulierte Targets: Bank, FinTech, Energie, Medizin, Telekom, Verkehr, Verteidigung, Infrastruktur im Private Equity Praxis."
+description: "Wenn es um Regulatory Sector DD in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Regulatory Sector DD

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-ki-konformitaetsbescheinigung-fuer-vorstand
-description: "Rechtsabteilungs-Fachmodul für KI-Konformitätsbescheinigung für Vorstand: Management bekommt eine belegbare Konformitätsakte mit Restrisiko und Maßnahmenplan. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ki Vo Ai Act Prüfer."
+description: "Wenn es um Rechtsabteilung: digitale Werkzeuge-Konformitätsbescheinigung für Vorstand in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt Stichwort für die Auswahl: Rechtsabteilung Ki Konformitaetsbescheinigung für Vorstand."
 ---
 
 # Rechtsabteilung: KI-Konformitätsbescheinigung für Vorstand

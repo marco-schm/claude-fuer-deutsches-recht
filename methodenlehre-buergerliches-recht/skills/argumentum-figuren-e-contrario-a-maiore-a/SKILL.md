@@ -1,6 +1,6 @@
 ---
 name: argumentum-figuren-e-contrario-a-maiore-a
-description: "Argumentum-Figuren im deutschen Zivilrecht. Umkehrschluss (argumentum e contrario), Erst-recht-Schluss (argumentum a maiore ad minus, a minore ad maius), argumentum a fortiori. Voraussetzungen und Verhältnis zur Analogie. Praezise BGB-Beispiele: § 181 BGB e contrario, §§ 134 138 BGB a maiore, §§..."
+description: "Wenn es um Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori

@@ -1,6 +1,6 @@
 ---
 name: private-betreiberpflichten
-description: "Öffentliches Wirtschaftsrecht: Private Betreiberpflichten. Private Betreiberpflichten im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht."
+description: "Wenn es um Private Betreiberpflichten in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Private Betreiberpflichten

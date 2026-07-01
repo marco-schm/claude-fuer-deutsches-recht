@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Normenkontrolle Bauleitplanung: sortiert Bebauungsplan, Begründung, Abwägungsmaterial, prüft Datum, Absender, Frist und Beweiswert (Abwägungsfehler-Dokumentation, Bürgerbeteiligung Protokolle); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

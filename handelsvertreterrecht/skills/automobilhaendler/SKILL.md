@@ -1,6 +1,6 @@
 ---
 name: automobilhaendler
-description: "Prüft Ausgleichsansprüche und Provisionsfragen im Kfz-Vertrieb: Abgrenzung Handelsvertreter vom Vertragshändler, analoge Anwendung des § 89b HGB auf Kfz-Vertragshändler nach BGH-Rechtsprechung, Hersteller-Händler-Verträge und markenrechtliche Bindungen im Automobilvertrieb im Handelsvertreterrecht."
+description: "Wenn es um Ausgleichsanspruch im Kfz-Vertrieb — Handelsvertreter oder Vertragshändler? in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Ausgleichsanspruch im Kfz-Vertrieb — Handelsvertreter oder Vertragshändler?

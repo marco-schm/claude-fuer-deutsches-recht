@@ -1,6 +1,6 @@
 ---
 name: sozietaet-mit-rechtsanwaelten-organisationspflic
-description: "Patentanwälte: sozietaet mit rechtsanwaelten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Sozietaet Mit Rechtsanwaelten Organisationspflic in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: sozietaet mit rechtsanwaelten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

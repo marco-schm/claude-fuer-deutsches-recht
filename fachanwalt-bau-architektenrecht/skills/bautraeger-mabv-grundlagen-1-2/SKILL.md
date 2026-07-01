@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-grundlagen-1-2
-description: "Makler- und Bautraegerverordnung (MaBV) Grundlagen: Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhältnis zur Gewerbeordnung § 34c GewO. Liefert Prüfraster für E..."
+description: "Wenn es um Makler- und Bautraegerverordnung (MaBV) Grundlagen in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Makler- und Bautraegerverordnung (MaBV) Grundlagen

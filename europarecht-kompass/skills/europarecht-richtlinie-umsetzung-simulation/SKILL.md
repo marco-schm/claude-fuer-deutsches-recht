@@ -1,6 +1,6 @@
 ---
 name: europarecht-richtlinie-umsetzung-simulation
-description: "EU-Richtlinie in nationales Recht umsetzen oder Umsetzungsdefizit prüfen. Art. 288 AEUV Richtlinienwirkung Art. 267 AEUV Vorabentscheidung. Prüfraster: Umsetzungsfrist Umsetzungsdefizit Direktwirkung richtlinienkonforme Auslegung Staatshaftung Francovich. Output: Umsetzungsanalyse Defizit-Memo Ha..."
+description: "Wenn es um Richtlinie und Umsetzung in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Richtlinie und Umsetzung

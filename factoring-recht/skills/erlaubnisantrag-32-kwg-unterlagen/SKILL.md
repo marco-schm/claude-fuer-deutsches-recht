@@ -1,6 +1,6 @@
 ---
 name: erlaubnisantrag-32-kwg-unterlagen
-description: "Erlaubnisantrag § 32 KWG Unterlagen Geschäftsleiter: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO."
+description: "Wenn es um Erlaubnisantrag Paragraf 32 KWG Unterlagen Geschäftsleiter in Factoring-Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Erlaubnisantrag § 32 KWG Unterlagen Geschäftsleiter

@@ -1,6 +1,6 @@
 ---
 name: look-and-feel
-description: "Corporate-Deal-Workspace Darstellung und Ausgabeformat: Anwendungsfall alle sichtbaren Outputs sollen im einheitlichen M&A-Kanzleistil erscheinen — ruhig, edel, deal-informationsdicht ohne Marketing-Ton. Big-Law-Standard, Partnerqualitaet. Prüfraster Statuskarten-Format, Ampelfarben, Deal-Phasenl..."
+description: "Wenn es um Corporate-Cowork-Look in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Corporate-Cowork-Look

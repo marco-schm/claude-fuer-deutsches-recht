@@ -1,6 +1,6 @@
 ---
 name: entwicklungsprojekt-intake
-description: "Führt das Intake für eine komplette Softwareentwicklung vom Term Sheet bis Go-live und Post-Launch im Softwarerecht De Eu Us."
+description: "Wenn es um Softwareentwicklungsprojekt Intake in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Softwareentwicklungsprojekt Intake

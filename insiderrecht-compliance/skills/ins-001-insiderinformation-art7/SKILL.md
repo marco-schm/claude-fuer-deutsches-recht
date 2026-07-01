@@ -1,6 +1,6 @@
 ---
 name: ins-001-insiderinformation-art7
-description: "Prueft Insiderinformation nach Art. 7 MAR: praezise Information, Nichtoeffentlichkeit, Emittenten-/Instrumentenbezug und Kursrelevanz."
+description: "Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ins 001 Insiderinformation Art7; Arbeitsfeld: Insiderrecht Compliance."
 ---
 
 # Insiderinformation nach Art. 7 MAR

@@ -1,6 +1,6 @@
 ---
 name: landwirtschaftsroboter-und-autonome-feldtechnik
-description: "Prüft Agrarroboter: Maschinenrecht, autonome Fahrt, Umweltrisiken, Pflanzenschutz, Daten, Betreiberpflichten und Versicherung im Robotik-Recht."
+description: "Wenn es um Landwirtschaftsroboter in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Landwirtschaftsroboter

@@ -1,6 +1,6 @@
 ---
 name: buergschaft-und-sicherheiten
-description: "Römisches Recht: Buergschaft Und Sicherheiten. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Buergschaft Und Sicherheiten in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergschaft Und Sicherheiten

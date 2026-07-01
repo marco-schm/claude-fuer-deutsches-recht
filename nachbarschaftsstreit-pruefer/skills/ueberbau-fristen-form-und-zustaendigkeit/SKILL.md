@@ -1,6 +1,6 @@
 ---
 name: ueberbau-fristen-form-und-zustaendigkeit
-description: "Ueberbau: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Ueberbau: Fristen, Form, Zuständigkeit und Rechtsweg in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ueberbau: Fristen, Form, Zuständigkeit und Rechtsweg

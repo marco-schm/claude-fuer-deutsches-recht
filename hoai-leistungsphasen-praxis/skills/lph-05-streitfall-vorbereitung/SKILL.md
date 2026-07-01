@@ -1,6 +1,6 @@
 ---
 name: lph-05-streitfall-vorbereitung
-description: "HOAI LPH 5 Ausführungsplanung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen Pr..."
+description: "Wenn es um Lph 05 Streitfall Vorbereitung in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # LPH 5 Ausführungsplanung: Macht aus der phase eine prozess-/schiedsgutachten- oder vergleichsakte

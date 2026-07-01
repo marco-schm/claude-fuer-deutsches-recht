@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-zwischenverfahren-69-owig
-description: "Datenschutzrecht-Brückenskill: Zwischenverfahren § 69 OWiG: Nach Einspruch Rücknahme, weitere Ermittlungen oder Vorlage über Staatsanwaltschaft an das Gericht taktisch nutzen: Datenschutzrecht-Brückenskill: Zwischenverfahren § 69 OWiG: Nach Einspruch Rückna..."
+description: "Wenn es um Dsv Sanktion Zwischenverfahren 69 Owig in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Zwischenverfahren § 69 OWiG: Nach Einspruch Rücknahme, weitere Ermittlungen oder Vorlage über Staatsanwaltschaft an das Gericht taktisch nutzen

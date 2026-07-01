@@ -1,6 +1,6 @@
 ---
 name: handelsregisteranmeldung-frist-naechster-schritt
-description: "Handelsregisteranmeldung: Fristennotiz und nächster Schritt im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht."
+description: "Wenn es um Handelsregisteranmeldung: Fristennotiz und nächster Schritt in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsregisteranmeldung: Fristennotiz und nächster Schritt

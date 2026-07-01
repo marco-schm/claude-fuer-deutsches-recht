@@ -1,6 +1,6 @@
 ---
 name: zugang-kuendigung-bote-beweis
-description: "Zugang der Kündigung: Bote, Einwurf, Umschlaginhalt, Zugangstag, Beweis im Kündigungsschutzprozess: Normanker: KSchG Paragraf 4; BGB Paragrafen 130 und 623; ZPO Beweis; B..."
+description: "Wenn es um Zugang Kuendigung Bote Beweis in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zugang der Kündigung: Bote, Einwurf, Umschlaginhalt, Zugangstag, Beweis im Kündigungsschutzprozess.

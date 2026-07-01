@@ -1,6 +1,6 @@
 ---
 name: handy-zahlen-schwellen-und-berechnung
-description: "Handy: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Handy: Zahlen, Schwellenwerte und Berechnung in VerkehrsOWi-Verteidiger geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Handy: Zahlen, Schwellenwerte und Berechnung

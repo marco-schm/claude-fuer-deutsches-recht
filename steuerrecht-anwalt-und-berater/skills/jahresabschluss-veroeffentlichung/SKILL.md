@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-veroeffentlichung
-description: "Jahresabschluss-Veröffentlichung Bundesanzeiger § 325 HGB. Anwendungsfall Pflichtveröffentlichung Kapitalgesellschaft Frist 12 Monate Groessenklassen Erleichterungen. Methodik elektronische Übermittlung. Output Bundesanzeiger-Eintrag."
+description: "Wenn es um Jahresabschluss-Offenlegung im Unternehmensregister in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Jahresabschluss Veroeffentlichung; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Jahresabschluss-Offenlegung im Unternehmensregister

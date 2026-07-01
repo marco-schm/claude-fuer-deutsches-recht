@@ -1,6 +1,6 @@
 ---
 name: spezial-transfer-livequellen-und-rechtsprechungscheck
-description: "Transfer: Livequellen- und Rechtsprechungscheck im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Transfer: Livequellen- und Rechtsprechungscheck in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transfer: Livequellen- und Rechtsprechungscheck

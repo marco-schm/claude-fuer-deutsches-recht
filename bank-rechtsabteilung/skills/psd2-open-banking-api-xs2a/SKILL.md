@@ -1,6 +1,6 @@
 ---
 name: psd2-open-banking-api-xs2a
-description: "Open-Banking- und XS2A-Schnittstellen prüfen: Zugang zu Zahlungskonten, API-Verfügbarkeit, Fallback, TPP-Kommunikation, Consent, Sicherheit, Haftung und Aufsichtsbeschwerde im Bank-Rechtsabteilung."
+description: "Wenn es um PSD2 Open Banking API in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # PSD2 Open Banking API

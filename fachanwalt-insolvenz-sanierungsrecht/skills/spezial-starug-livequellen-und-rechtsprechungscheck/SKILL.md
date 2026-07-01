@@ -1,6 +1,6 @@
 ---
 name: spezial-starug-livequellen-und-rechtsprechungscheck
-description: "StaRUG: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um StaRUG: Livequellen- und Rechtsprechungscheck in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # StaRUG: Livequellen- und Rechtsprechungscheck

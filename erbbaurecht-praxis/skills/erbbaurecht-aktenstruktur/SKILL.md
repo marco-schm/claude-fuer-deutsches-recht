@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-aktenstruktur
-description: "Sortiert Vertrag, Grundbuch, Zins, Zustimmung, Bau, Bank, Kommunikation und Streit chronologisch im Erbbaurecht Praxis."
+description: "Wenn es um Erbbauakte strukturieren in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Erbbauakte strukturieren

@@ -1,6 +1,6 @@
 ---
 name: finanzamt-fragebogen-steuerliche-erfassung
-description: "Solo-Selbstständige: bereitet ELSTER-Fragebogen, Schätzwerte, Bankdaten und Tätigkeitsbeginn vor; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Anmeldung und Behörden: Bereitet elster-fragebogen in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anmeldung und Behörden: Bereitet elster-fragebogen

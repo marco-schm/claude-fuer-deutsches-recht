@@ -1,6 +1,6 @@
 ---
 name: designverletzung
-description: "Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren: §§ 1 2 38 GeschmMG §§ 11 ff. GeschmMG Verletzungsansprüche EU-Geschmacksmuster-VO..."
+description: "Wenn es um Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren

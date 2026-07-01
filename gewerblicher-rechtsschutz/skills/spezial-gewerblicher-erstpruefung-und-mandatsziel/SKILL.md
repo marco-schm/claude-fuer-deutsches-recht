@@ -1,6 +1,6 @@
 ---
 name: spezial-gewerblicher-erstpruefung-und-mandatsziel
-description: "Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel

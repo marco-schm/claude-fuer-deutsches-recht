@@ -1,6 +1,6 @@
 ---
 name: richtlinien-monitor-vorlage-anbieter
-description: "Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen, Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer geplanten neuen KI-Praxis. Lädt, wenn der Nutzer Richtlinien-Sweep, KI-Richtlinie prüfen, de..."
+description: "Wenn es um digitale Werkzeuge-Richtlinien-Monitor in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI-Richtlinien-Monitor

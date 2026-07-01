@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-kcang-anbauvereinigung-cannabis-club
-description: "KCanG Anbauvereinigung (Cannabis Social Club): §§ 11 ff: KCanG. Erlaubnisverfahren, Mengenkontingent 50 g monatlich pro Mitglied, Mitgliederzahl, Vereinsstruktur. Strafbarkeit bei Verstoss gegen Erlau..."
+description: "Wenn es um KCanG Anbauvereinigung (Cannabis Social Club): Paragrafen 11 ff in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KCanG Anbauvereinigung (Cannabis Social Club): §§ 11 ff

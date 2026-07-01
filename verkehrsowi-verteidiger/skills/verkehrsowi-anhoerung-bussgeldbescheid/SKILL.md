@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-anhoerung-bussgeldbescheid
-description: "Anhörung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat Anhörungsbogen oder Bußgeldbescheid erhalten. Normen: § 55 OWiG (Anhörung, Schweigerecht), § 66 OWiG (Pflichtinhalt Bußgeldbescheid), § 67 OWiG (Einspruch 2-Wochen-Frist). Prüfraster: Anhörungsbogen zurücksenden oder nicht..."
+description: "Wenn es um Anhörung und Bussgeldbescheid — Paragrafen 55 und 66 OWiG in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anhörung und Bussgeldbescheid — §§ 55 und 66 OWiG

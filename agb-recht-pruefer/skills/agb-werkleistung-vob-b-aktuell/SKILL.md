@@ -1,6 +1,6 @@
 ---
 name: agb-werkleistung-vob-b-aktuell
-description: "AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behandelt die VOB-B-Klauseln zur Maengelhaftung Abnahme Sicherheitsleistung und Änderungsanordnung Klausel-für-Klausel-Wirksamkeitspruefung gegen § 307 BGB. BGH-Aktuelles zu §§ 12 13 17 VOB-B. Behandelt Änderungen zum Bauvertragsrecht (..."
+description: "Wenn es um Agb Werkleistung Vob B Aktuell in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Werkleistung Vob B Aktuell

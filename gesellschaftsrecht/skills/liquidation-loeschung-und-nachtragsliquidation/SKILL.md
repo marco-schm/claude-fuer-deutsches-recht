@@ -1,6 +1,6 @@
 ---
 name: liquidation-loeschung-und-nachtragsliquidation
-description: Führt durch Auflösung, Liquidation, Gläubigeraufruf, Vermögensverteilung, Registerlöschung und Nachtragsliquidation von Gesellschaften.
+description: "Wenn es um Liquidation, Löschung und Nachtragsliquidation in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Liquidation, Löschung und Nachtragsliquidation
 

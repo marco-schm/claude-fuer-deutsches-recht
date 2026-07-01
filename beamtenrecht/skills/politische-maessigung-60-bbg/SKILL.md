@@ -1,6 +1,6 @@
 ---
 name: politische-maessigung-60-bbg
-description: "Skill zur politischen Maessigungspflicht nach § 60 BBG bzw. § 33 BeamtStG. Klaert die Pflicht zur Maessigung und Zurueckhaltung im politischen Bereich die Reichweite bei privater Aeusserung in sozialen Medien die Grenze zur Verfassungstreue und das Verhältnis zur Meinungs- und Wissenschaftsfreih..."
+description: "Wenn es um Politische Maessigungspflicht Paragraf 60 BBG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Politische Maessigungspflicht § 60 BBG

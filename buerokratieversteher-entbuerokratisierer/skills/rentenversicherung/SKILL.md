@@ -1,6 +1,6 @@
 ---
 name: rentenversicherung
-description: "Erklärt Rentenbescheid, Erwerbsminderung, Reha vor Rente, Versicherungsverlauf, Widerspruch und Gutachten im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Rentenversicherung in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rentenversicherung

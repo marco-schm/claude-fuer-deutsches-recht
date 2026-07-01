@@ -1,6 +1,6 @@
 ---
 name: excel
-description: "Macht Tabellenanlagen im Schriftsatz verständlich: Zahlenkern, Rechenweg, PDF-Ausdruck, Anlagenzitat und kurze Erläuterung."
+description: "Wenn es um Excel-Anlagen und Zahlenbausteine in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Excel; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Excel-Anlagen und Zahlenbausteine

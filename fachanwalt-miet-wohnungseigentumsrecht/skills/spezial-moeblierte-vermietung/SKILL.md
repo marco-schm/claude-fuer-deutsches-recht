@@ -1,6 +1,6 @@
 ---
 name: spezial-moeblierte-vermietung
-description: "Möblierte Vermietung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Möblierungszuschlag, Mietpreisbremse, Inventar, Kaution; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Möblierte Vermietung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Möblierte Vermietung

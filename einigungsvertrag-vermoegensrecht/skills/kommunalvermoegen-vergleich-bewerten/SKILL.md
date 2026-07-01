@@ -1,6 +1,6 @@
 ---
 name: kommunalvermoegen-vergleich-bewerten
-description: "Einigungsvertrag und Vermögensrecht: Kommunalvermögen: Vergleich bewerten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kommunalvermoegen Vergleich Bewerten in Einigungsvertrag und Vermögensrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Kommunalvermoegen Vergleich Bewerten

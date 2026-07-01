@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Betreuungsrecht: ordnet Rolle (Betroffener, Betreuer, Familie/Angehörige), markiert Frist (Beschwerde 1 Monat § 63 FamFG), wählt Norm (§§ 1814 ff. BGB, FamFG §§ 271 ff., § 1827 BGB Patientenverfügung) und Zuständigkeit (Betreuungsgericht (AG)), leitet zum passende..."
+description: "Wenn es um Einstieg und Routing in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

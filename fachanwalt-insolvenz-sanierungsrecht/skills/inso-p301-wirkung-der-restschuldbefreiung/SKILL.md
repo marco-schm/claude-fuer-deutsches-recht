@@ -1,6 +1,6 @@
 ---
 name: inso-p301-wirkung-der-restschuldbefreiung
-description: "§ 301 InsO (Wirkung der Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 301 InsO (Wirkung der Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rec..."
+description: "Wenn es um Inso P301 Wirkung Der Restschuldbefreiung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 301 InsO (Wirkung der Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

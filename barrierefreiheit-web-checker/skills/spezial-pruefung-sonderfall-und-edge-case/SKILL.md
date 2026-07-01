@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefung-sonderfall-und-edge-case
-description: "Pruefung: Sonderfall und Edge-Case-Prüfung im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Pruefung: Sonderfall und Edge-Case-Prüfung in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pruefung: Sonderfall und Edge-Case-Prüfung

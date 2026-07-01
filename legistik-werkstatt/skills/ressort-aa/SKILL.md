@@ -1,6 +1,6 @@
 ---
 name: ressort-aa
-description: "Heranfuehrung Ressort AA (Auswaertiges Amt). Schwerpunkt: Voelkerrecht; konsularische Aufgaben; Aussenwirtschaftsdimension; EU-Verfahren; Sanktionsumsetzung. Kernnormen: GG Art. 32 und Art. 59; WVK; KonsG; PassG; AWG; AWV; EUZBLG; IntZG. Fuenf Spezialfelder: voelkerrecht-und-vertragsgesetzgebung;..."
+description: "Wenn es um Ressort-Heranfuehrung AA in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressort-Heranfuehrung AA

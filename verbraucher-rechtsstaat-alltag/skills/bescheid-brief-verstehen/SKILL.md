@@ -1,6 +1,6 @@
 ---
 name: bescheid-brief-verstehen
-description: "Bescheid oder Brief verstehen: erklärt erkennen, ob es Rechnung, Mahnung, Bescheid, Klage, Vollstreckung, Anhörung oder Werbung ist in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat..."
+description: "Wenn es um Bescheid oder Brief verstehen in Verbraucher im Rechtsstaat Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bescheid oder Brief verstehen

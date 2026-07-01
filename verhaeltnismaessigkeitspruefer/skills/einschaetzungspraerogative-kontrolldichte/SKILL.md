@@ -1,6 +1,6 @@
 ---
 name: einschaetzungspraerogative-kontrolldichte
-description: "Drei Stufen der Kontrolldichte des BVerfG (Evidenz-, Vertretbarkeits-, intensive inhaltliche Kontrolle) und Einschaetzungspraerogative des Gesetzgebers bei Geeignetheit und Erforderlichkeit. Mit Anwendungsbeispielen vom Apothekenurteil ueber Mitbestimmung bis Bundesnotbremse."
+description: "Wenn es um Einschaetzungspraerogative und Kontrolldichte in Verhältnismäßigkeitsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Einschaetzungspraerogative und Kontrolldichte

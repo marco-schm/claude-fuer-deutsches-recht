@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-buchfuehrungspflicht-10
-description: "MaBV § 10 Buchfuehrungspflicht: Skill klaert die Aufzeichnungspflichten des Bautraegers ueber alle Vorgaenge im Bauvorhaben Trennung der Konten Bilanz und Prüfberichte. Folgen bei Versaeumnis. Liefert Prüfraster."
+description: "Wenn es um MaBV Paragraf 10 Buchfuehrungspflicht in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # MaBV § 10 Buchfuehrungspflicht

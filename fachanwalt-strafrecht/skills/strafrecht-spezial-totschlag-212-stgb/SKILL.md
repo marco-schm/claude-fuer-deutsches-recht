@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-totschlag-212-stgb
-description: "Totschlag nach § 212 StGB: Grundtatbestand der vorsaetzlichen Toetung. Abgrenzung zu Mord § 211 StGB und zur fahrlaessigen Toetung § 222 StGB. Vorsatzformen (dolus directus / eventualis) und Hemmschwellentheorie der staendigen BGH..."
+description: "Wenn es um Totschlag nach Paragraf 212 StGB in Fachanwalt Strafrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Totschlag nach § 212 StGB

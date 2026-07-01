@@ -1,6 +1,6 @@
 ---
 name: schulung-urteilsbauer
-description: "Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Übungen anhand einer Arbeitsakte, Er"
+description: "Wenn es um Trainer-Leitfaden Schulung Urteilsbauer in Urteilsbauer und Relationsmacher geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Schulung Urteilsbauer; Arbeitsfeld: Urteilsbauer und Relationsmacher."
 ---
 
 # Trainer-Leitfaden Schulung Urteilsbauer

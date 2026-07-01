@@ -1,6 +1,6 @@
 ---
 name: luft-097-acc3-insolvenzrisiko-markieren
-description: "Luftrecht und Flughafenrecht: ACC3: Insolvenzrisiko markieren. Insolvenzrisiko markieren für ACC3 im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Acc3 Insolvenzrisiko Markieren in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Acc3 Insolvenzrisiko Markieren

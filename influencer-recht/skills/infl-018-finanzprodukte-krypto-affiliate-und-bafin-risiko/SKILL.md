@@ -1,6 +1,6 @@
 ---
 name: infl-018-finanzprodukte-krypto-affiliate-und-bafin-risiko
-description: "Influencer-Recht: Finanzprodukte Krypto Affiliate und BaFin-Risiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Finanzprodukte Krypto Affiliate und BaFin-Risiko in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Finanzprodukte Krypto Affiliate und BaFin-Risiko

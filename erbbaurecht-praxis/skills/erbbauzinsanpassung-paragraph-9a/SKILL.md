@@ -1,6 +1,6 @@
 ---
 name: erbbauzinsanpassung-paragraph-9a
-description: "Prüft Anpassungsmechanik, Billigkeit, Verbraucher-/Wohnzwecknähe, Index, Streitwert und Dokumentationslogik im Erbbaurecht Praxis."
+description: "Wenn es um Erbbauzinsanpassung in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Erbbauzinsanpassung

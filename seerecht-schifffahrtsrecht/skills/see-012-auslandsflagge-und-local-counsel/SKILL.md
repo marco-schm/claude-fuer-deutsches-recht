@@ -1,6 +1,6 @@
 ---
 name: see-012-auslandsflagge-und-local-counsel
-description: "See- und Schifffahrtsrecht: Auslandsflagge und Local Counsel. Auslandsflagge und Local Counsel im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Auslandsflagge Und Local Counsel in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auslandsflagge Und Local Counsel

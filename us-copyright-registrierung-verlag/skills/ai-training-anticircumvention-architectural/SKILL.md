@@ -1,6 +1,6 @@
 ---
 name: ai-training-anticircumvention-architectural
-description: "Prüft AI Training als US-Copyright-Risiko: input corpus, copying, fair use, licensing, opt-out und pending litigation awareness im Us Copyright Registrierung Verlag."
+description: "Wenn es um digitale Werkzeuge Training und Fair Use Risk in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # AI Training und Fair Use Risk

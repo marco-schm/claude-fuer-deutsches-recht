@@ -1,6 +1,6 @@
 ---
 name: patientenaufklaerung-robotik
-description: "Prüft Patientenaufklärung bei robotergestützter Behandlung: Behandlungsalternative, Risiken, menschliche Kontrolle und Dokumentation."
+description: "Wenn es um Patientenaufklärung Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patientenaufklärung Robotik

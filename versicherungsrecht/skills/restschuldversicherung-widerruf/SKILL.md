@@ -1,6 +1,6 @@
 ---
 name: restschuldversicherung-widerruf
-description: "Restschuldversicherung bei Verbraucherdarlehen: Kopplung, Widerruf, Beratung, Kosten, Arbeitslosigkeit/Arbeitsunfähigkeit/Tod und Bankvertrieb prüfen im Versicherungsrecht."
+description: "Wenn es um Restschuldversicherung und Verbraucherdarlehen in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Restschuldversicherung und Verbraucherdarlehen

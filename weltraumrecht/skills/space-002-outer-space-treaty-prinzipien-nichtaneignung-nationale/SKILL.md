@@ -1,6 +1,6 @@
 ---
 name: space-002-outer-space-treaty-prinzipien-nichtaneignung-nationale
-description: "Weltraumrecht: Outer Space Treaty Grundprinzipien Nichtaneignung und nationale Verantwortung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Space 002 Outer Space Treaty Prinzipien Nichtaneignung Nationale in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Outer Space Treaty Grundprinzipien Nichtaneignung und nationale Verantwortung

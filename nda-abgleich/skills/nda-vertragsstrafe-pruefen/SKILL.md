@@ -1,6 +1,6 @@
 ---
 name: nda-vertragsstrafe-pruefen
-description: "Vertragsstrafe prüfen: Hoehe, AGB-Kontrolle §§ 305 ff. BGB, Bestimmtheitsgrundsatz, Schadensersatzkumulation oder Anrechnung. Bei Verbraucher-NDA strengere Grenzen. Bei B2B-Standard: ueblich 5000-25000 EUR pro Vorfall, Kumulation moeglich."
+description: "Wenn es um NDA: Vertragsstrafe prüfen in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NDA: Vertragsstrafe prüfen

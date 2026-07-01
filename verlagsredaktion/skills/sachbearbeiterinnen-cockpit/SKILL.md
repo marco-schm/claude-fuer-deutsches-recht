@@ -1,6 +1,6 @@
 ---
 name: sachbearbeiterinnen-cockpit
-description: "Persoenliches Verlagscockpit für Sachbearbeitung und Redaktion: Tageslage, Prioritaeten, Fristen, Autoren, Rechteampel, Produktionsstand und naechste Aktionen im Verlagsredaktion."
+description: "Wenn es um Sachbearbeiterinnen-Cockpit in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sachbearbeiterinnen-Cockpit

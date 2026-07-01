@@ -1,6 +1,6 @@
 ---
 name: clean-output
-description: "Sauberen finalen Vertragsentwurf mit Ausfüllprotokoll erstellen: Anwendungsfall alle Felder sind ausgefüllt und Quality Gate hat grüne Ampel ergeben; nun wird bereinigte Clean-Version für Unterschrift oder Versand erstellt. §§ 125 ff. BGB Schriftform, § 550 BGB bei Mietverträgen. Prüfraster alle..."
+description: "Wenn es um Clean-Output in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Clean-Output

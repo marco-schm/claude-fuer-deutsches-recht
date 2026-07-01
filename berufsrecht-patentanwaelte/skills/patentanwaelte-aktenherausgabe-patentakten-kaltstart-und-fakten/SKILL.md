@@ -1,6 +1,6 @@
 ---
 name: patentanwaelte-aktenherausgabe-patentakten-kaltstart-und-fakten
-description: "Patentanwälte: aktenherausgabe patentakten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Patentanwaelte Aktenherausgabe Patentakten Kaltstart Und Fakten in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: aktenherausgabe patentakten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

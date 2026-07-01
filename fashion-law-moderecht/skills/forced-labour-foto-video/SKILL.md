@@ -1,6 +1,6 @@
 ---
 name: forced-labour-foto-video
-description: "Zwangsarbeits-, Import- und Sanktionsrisiken in der Fashion-Lieferkette prüfen: Herkunft, Baumwolle, Audits, Zoll, Nachweise und Krisenkommunikation im Fashion Law Moderecht."
+description: "Wenn es um Forced Labour Und Importstop in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Forced Labour Und Importstop

@@ -1,6 +1,6 @@
 ---
 name: ihl-029-warentransit-und-gefahruebergang
-description: "Internationales Handelsrecht und Lex Mercatoria: Warentransit Und Gefahruebergang. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Warentransit Und Gefahruebergang in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Warentransit Und Gefahruebergang

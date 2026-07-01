@@ -1,6 +1,6 @@
 ---
 name: karenzentschaedigung
-description: "Prüft Karenzentschädigung nach § 90a HGB: Mindesthöhe der Entschädigung (50 % der zuletzt bezogenen Vergütung), Zahlungsmodalitäten, Entfall bei Kündigung aus wichtigem Grund durch den Unternehmer, Loslösungsrecht des Handelsvertreters bei unzureichender Karenzentschädigung sowie AGB-Kontrolle vo..."
+description: "Wenn es um Karenzentschädigung nach Paragraf 90a HGB beim nachvertraglichen Wettbewerbsverbot in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Karenzentschädigung nach § 90a HGB beim nachvertraglichen Wettbewerbsverbot

@@ -1,6 +1,6 @@
 ---
 name: inso-p030-bekanntmachung-des-eroffnungsbeschlusses
-description: "§ 30 InsO (Bekanntmachung des Eröffnungsbeschlusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 30 InsO (Bekanntmachung des Eröffnungsbeschlusses) im Mandat prüfen: Normzweck, Tatbest..."
+description: "Wenn es um Inso P030 Bekanntmachung Des Eroffnungsbeschlusses in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 30 InsO (Bekanntmachung des Eröffnungsbeschlusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

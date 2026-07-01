@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-know-your-customer-exportkontrolle
-description: "KYC-Prozess für Exportkontrollzwecke: Kundenidentifizierung, Endverwender-Screening, UBO-Ermittlung nach VO (EU) 2021/821 und BAFA-Anforderungen, Red-Flag-Analyse bei verdaechtigen Bestellmuster und Sanktionslistenabgleich. Output: KYC-Kundenprofil und Freigabe-/Sperrentscheidung im Außenwirtscha..."
+description: "Wenn es um Aussenwirtschaft Know Your Customer Exportkontrolle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Know Your Customer im Exportkontrollkontext: Kundenscreening und Endverwenderidentifizierung

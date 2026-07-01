@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Jura-Hausarbeiten: trennt fehlende Tatsachen von fehlenden Belegen (Sachverhalt, Literaturverzeichnis, Gliederung), nennt pro Lücke Beweisthema, Beschaffungsweg (Universitäre Prüfungsämter), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

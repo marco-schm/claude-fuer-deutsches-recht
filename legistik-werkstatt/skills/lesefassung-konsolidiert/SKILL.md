@@ -1,6 +1,6 @@
 ---
 name: lesefassung-konsolidiert
-description: "Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen. Anwendungsfall Fachreferat Vollzugsbehoerde oder Anwalt will wissen wie das Gesetz nach Änderung aussieht ohne Änderungsmarkierungen. Einheitlich lesbar ohne Änderungsmarkierung Datierung Stand nach Inkrafttr..."
+description: "Wenn es um Lesefassung konsolidiert in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lesefassung konsolidiert

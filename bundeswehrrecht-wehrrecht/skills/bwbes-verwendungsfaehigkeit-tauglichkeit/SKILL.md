@@ -1,6 +1,6 @@
 ---
 name: bwbes-verwendungsfaehigkeit-tauglichkeit
-description: "Verwendungsfähigkeit, Tauglichkeit, finanzielle Folgen: prüft Tauglichkeitsstufen, dienstrechtliche Konsequenzen und SVG-Versorgung. Norm-/Quellenanker: §§ 44–45 und 55 SG, SVG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen

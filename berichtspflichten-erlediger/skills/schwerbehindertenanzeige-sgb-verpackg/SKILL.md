@@ -1,6 +1,6 @@
 ---
 name: schwerbehindertenanzeige-sgb-verpackg
-description: "Jährliche Anzeige beschäftigter schwerbehinderter Menschen und Ausgleichsabgabe im Berichtspflichten."
+description: "Wenn es um Schwerbehindertenanzeige und Ausgleichsabgabe in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schwerbehindertenanzeige und Ausgleichsabgabe

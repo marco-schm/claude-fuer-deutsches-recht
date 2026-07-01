@@ -1,6 +1,6 @@
 ---
 name: patientenrechte-behandlungsvertrag-aufklaerung
-description: "Patientenrechte und Behandlungsvertrag (§§ 630a-630h BGB): Aufklaerungs- und Dokumentationspflichten, Einwilligung, Patientenakte, Beweislast bei Behandlungsfehler, Schadensersatz im Krankenhausrecht."
+description: "Wenn es um Patientenrechte Behandlungsvertrag Aufklaerung in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Patientenrechte Behandlungsvertrag Aufklaerung

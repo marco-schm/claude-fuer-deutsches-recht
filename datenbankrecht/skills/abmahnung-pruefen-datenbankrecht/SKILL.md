@@ -1,6 +1,6 @@
 ---
 name: abmahnung-pruefen-datenbankrecht
-description: "Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abmahnenden (§ 87a Abs. 2 UrhG), Verletzungstatbestand (§ 87b UrhG), Vollständigkeitscheck der Unterlassungserklärung, Verjährung, Vertragsstrafe-Angemessenheit (§ 339 BGB) und Handlungsoptionen (Unterzeichnung, Widerspru..."
+description: "Wenn es um Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen

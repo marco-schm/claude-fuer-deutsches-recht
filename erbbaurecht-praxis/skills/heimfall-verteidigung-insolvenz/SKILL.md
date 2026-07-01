@@ -1,6 +1,6 @@
 ---
 name: heimfall-verteidigung-insolvenz
-description: "Entwickelt Einwendungen, Nachholung, Verhältnismäßigkeit, Vergleich, Finanzierungslösung und Eilstrategie im Erbbaurecht Praxis."
+description: "Wenn es um Heimfall abwehren in Erbbaurecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Heimfall abwehren

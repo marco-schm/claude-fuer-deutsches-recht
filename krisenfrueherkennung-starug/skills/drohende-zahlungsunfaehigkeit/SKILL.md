@@ -1,6 +1,6 @@
 ---
 name: drohende-zahlungsunfaehigkeit
-description: "Drohende Zahlungsunfähigkeit nach § 18 InsO feststellen: Berater oder GF prüft ob StaRUG-Zugangsberechtigung besteht. Normen: § 18 InsO (drohende ZU), § 17 InsO (aktuelle ZU), § 19 InsO (Überschuldung), § 1 StaRUG (Zugangsberechtigung). Prüfraster: Prognosezeitraum 24 Monate, Wahrscheinlichkeitsm..."
+description: "Wenn es um Drohende Zahlungsunfähigkeit — Paragraf 18 InsO in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drohende Zahlungsunfähigkeit — § 18 InsO

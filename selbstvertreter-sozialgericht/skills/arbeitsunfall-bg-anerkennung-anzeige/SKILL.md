@@ -1,6 +1,6 @@
 ---
 name: arbeitsunfall-bg-anerkennung-anzeige
-description: "Arbeitsunfall: Anerkennung durch Berufsgenossenschaft. Skill klaert den Unfallbegriff Wegeunfall meldepflichtige Unfaelle Frist der Unfallanzeige durch Arbeitgeber innerhalb 3 Tagen und das Verfahren der Anerkennung. Liefert Vorlage."
+description: "Wenn es um Arbeitsunfall Bg Anerkennung Anzeige in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsunfall Bg Anerkennung Anzeige

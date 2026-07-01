@@ -1,6 +1,6 @@
 ---
 name: schleimerei-seminararbeiten-sokratisch
-description: "Schleimerei: Mandantenkommunikation und Entscheidungsvorlage im Hausarbeitenmacher."
+description: "Wenn es um Schleimerei: Mandantenkommunikation und Entscheidungsvorlage in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schleimerei: Mandantenkommunikation und Entscheidungsvorlage

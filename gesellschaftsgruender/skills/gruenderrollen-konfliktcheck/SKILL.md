@@ -1,6 +1,6 @@
 ---
 name: gruenderrollen-konfliktcheck
-description: "Klärt Rollen, Beiträge, Erwartungen, Streitpunkte und Exit-Szenarien vor Satzungsentwurf im Gesellschaftsgruender."
+description: "Wenn es um Gründerrollen und Konfliktcheck in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gründerrollen und Konfliktcheck

@@ -1,6 +1,6 @@
 ---
 name: datenbankherstellerrecht-wesentliche-investition
-description: "Analysiert das sui-generis-Datenbankherstellerrecht nach §§ 87a-87e UrhG und Art. 7 RL 96/9/EG. Schwerpunkt: Nachweis wesentlicher Investition in Beschaffung, Überprüfung oder Darstellung gemäß EuGH C-203/02 (BHB/William Hill). Erstellt Investitionsprotokoll, grenzt Datenerzeugung von Datenbescha..."
+description: "Wenn es um Datenbankherstellerrecht: Wesentliche Investition nachweisen in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankherstellerrecht: Wesentliche Investition nachweisen

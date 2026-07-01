@@ -1,6 +1,6 @@
 ---
 name: erbfolge-und-berechtigtenkette
-description: "Einigungsvertrag und Vermögensrecht: Erbfolge und Berechtigtenkette. Erbfolge und Berechtigtenkette im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägi..."
+description: "Wenn es um Erbfolge Und Berechtigtenkette in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Erbfolge Und Berechtigtenkette

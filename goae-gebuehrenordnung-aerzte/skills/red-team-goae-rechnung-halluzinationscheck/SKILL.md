@@ -1,6 +1,6 @@
 ---
 name: red-team-goae-rechnung-halluzinationscheck
-description: "Red-Team GOÄ Rechnung Halluzinationscheck: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise."
+description: "Wenn es um Red-Team GOÄ Rechnung Halluzinationscheck in GOÄ Gebührenordnung für Ärzte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team GOÄ Rechnung Halluzinationscheck

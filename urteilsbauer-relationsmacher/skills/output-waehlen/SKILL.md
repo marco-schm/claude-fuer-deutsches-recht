@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Urteilsbauer/Relationsmacher: stimmt Adressat (Richter, Rechtspfleger, Parteien), Frist (Verkündung) und Form auf den Zweck ab — typische Outputs: Relation (Klägerstation/Beklagtenstation), Urteilsskizze, Tatbestand/Entscheidungsgründe."
+description: "Wenn es um Output wählen in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

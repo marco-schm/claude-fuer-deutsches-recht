@@ -1,6 +1,6 @@
 ---
 name: output-klageschrift-bereicherungsklage
-description: "Klageschrift aus Bereicherungsrecht §§ 812 ff. BGB aufbauen: Klageantrag auf Zahlung oder Herausgabe, ODUE-Schema. Normen: §§ 812 818 BGB, §§ 253 313 ZPO. Prüfraster: Obersatz, Definition, Untersatz, Ergebnis, Streitwert, Beweisangebot. Output: Klageschriftentwurf Bereicherungsklage. Abgrenzung:..."
+description: "Wenn es um Output: Klageschrift Bereicherungsklage in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Output: Klageschrift Bereicherungsklage

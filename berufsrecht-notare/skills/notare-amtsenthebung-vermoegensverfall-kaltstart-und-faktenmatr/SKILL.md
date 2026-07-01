@@ -1,6 +1,6 @@
 ---
 name: notare-amtsenthebung-vermoegensverfall-kaltstart-und-faktenmatr
-description: "Notare: amtsenthebung vermögensverfall - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Notare Amtsenthebung Vermoegensverfall Kaltstart Und Faktenmatr in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: amtsenthebung vermögensverfall - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

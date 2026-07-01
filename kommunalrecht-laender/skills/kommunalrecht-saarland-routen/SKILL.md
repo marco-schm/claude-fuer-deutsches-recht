@@ -1,6 +1,6 @@
 ---
 name: kommunalrecht-saarland-routen
-description: "Kommunalrecht der Länder: Kommunalrecht Saarland routen. Kommunalrecht Saarland routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
+description: "Wenn es um Kommunalrecht Saarland Routen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalrecht Saarland Routen

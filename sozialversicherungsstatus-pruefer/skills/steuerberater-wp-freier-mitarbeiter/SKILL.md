@@ -1,6 +1,6 @@
 ---
 name: steuerberater-wp-freier-mitarbeiter
-description: "Prüft freie Mitarbeit in Steuerberater- oder Wirtschaftsprüferkanzleien mit Berufsrecht und Statusindizien im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Freier Mitarbeiter Steuerberater/WP in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Freier Mitarbeiter Steuerberater/WP

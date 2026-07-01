@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-soldat-verstaendlich
-description: "Mandantenbrief Soldat verständlich: erstellt klare, nicht-juristische Erläuterungen komplexer Rechtssituationen für Soldaten. Norm-/Quellenanker: WBO, WDO, SG, SVG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Mandantenbrief Soldat — Verständlich erläutern in Bundeswehrrecht und Wehrrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mandantenbrief Soldat — Verständlich erläutern

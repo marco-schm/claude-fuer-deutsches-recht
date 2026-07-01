@@ -1,6 +1,6 @@
 ---
 name: geschaeftsbesorgung-zahlungsdienste-goa
-description: "Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, Haftung bei Fehlüberweisungen und unautorisierter Zahlung im BGB BT."
+description: "Wenn es um Geschäftsbesorgung und Zahlungsdienste in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Geschaeftsbesorgung Zahlungsdienste Goa; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Geschäftsbesorgung und Zahlungsdienste

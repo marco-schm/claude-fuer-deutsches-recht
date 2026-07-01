@@ -1,6 +1,6 @@
 ---
 name: founder-vesting
-description: "Entwirft Founder-Vesting mit Cliff, Good/Bad Leaver und Rückübertragung im Gesellschaftsgruender."
+description: "Wenn es um Founder Vesting in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Founder Vesting

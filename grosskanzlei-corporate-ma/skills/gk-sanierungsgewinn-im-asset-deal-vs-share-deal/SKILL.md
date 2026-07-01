@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-im-asset-deal-vs-share-deal
-description: "Strukturvergleich Asset Deal vs: Share Deal im Distressed-M&A mit Sanierungsgewinn-Bezug. Vergleicht Verlustvortrag-Schicksal, Anwendbarkeit Paragraf 3a EStG, Paragraf 8c KStG-Effekt, übertragende Sanierung nach Paragraf 163 InsO, Paragraf 613a BGB-Wi..."
+description: "Wenn es um Strukturvergleich Asset Deal vs in Großkanzlei Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Strukturvergleich Asset Deal vs

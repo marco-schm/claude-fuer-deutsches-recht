@@ -1,6 +1,6 @@
 ---
 name: matter-profitability
-description: "Berechnet Mandatsprofitabilität aus Rate, Staffing, Realization und Write-offs. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Matter Profitability in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Matter Profitability

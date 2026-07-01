@@ -1,6 +1,6 @@
 ---
 name: tabellenauszug-tabellenimport-verteilung
-description: "Tabellenauszug und Feststellungswirkung nach § 178 InsO: Anwendungsfall Forderung ist festgestellt und Gläubiger fragt nach Status oder Insolvenzverwalter muss Tabellenauszug als vollstreckbaren Titel erstellen. § 178 InsO Feststellungswirkung, § 201 InsO Nachhaftung. Prüfraster Feststellungsstat..."
+description: "Wenn es um Tabellenauszug und Feststellungswirkung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tabellenauszug und Feststellungswirkung

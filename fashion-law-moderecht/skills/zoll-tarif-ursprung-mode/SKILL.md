@@ -1,6 +1,6 @@
 ---
 name: zoll-tarif-ursprung-mode
-description: "Zoll, Ursprung und Tarifierung für Modeartikel prüfen: HS-Code, Präferenzursprung, Lieferantenerklärung, Incoterms, Einfuhrumsatzsteuer und Dokumente im Fashion Law Moderecht."
+description: "Wenn es um Zoll Tarif Ursprung Mode in fashion-law-moderecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zoll Tarif Ursprung Mode

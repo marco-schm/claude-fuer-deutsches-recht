@@ -1,6 +1,6 @@
 ---
 name: tk-marktregulierung-marktmacht-fristen-bescheid
-description: "TKG Marktregulierung beträchtliche Marktmacht: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren."
+description: "Wenn es um Tk Marktregulierung Marktmacht Fristen Bescheid in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Fristen- und Bescheidanalyse

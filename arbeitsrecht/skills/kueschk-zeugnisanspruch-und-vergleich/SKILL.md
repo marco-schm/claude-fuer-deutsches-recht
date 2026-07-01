@@ -1,6 +1,6 @@
 ---
 name: kueschk-zeugnisanspruch-und-vergleich
-description: "Zeugnisanspruch nach Paragraf 109 GewO: qualifiziertes Zeugnis: BAG-Mindestnote befriedigend bei fehlender Substantiierung; Formulierungsrisiken und geheime Negativsignale; typische Vergleichsformulierungen..."
+description: "Wenn es um Zeugnisanspruch nach Paragraf 109 GewO: qualifiziertes Zeugnis in Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Zeugnisanspruch nach Paragraf 109 GewO: qualifiziertes Zeugnis

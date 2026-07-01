@@ -1,6 +1,6 @@
 ---
 name: space-018-frequenz-itu-bnetza-interferenz
-description: "Weltraumrecht: Frequenzzuteilung ITU Bundesnetzagentur und Interferenz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Frequenzzuteilung ITU Bundesnetzagentur und Interferenz in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Frequenzzuteilung ITU Bundesnetzagentur und Interferenz

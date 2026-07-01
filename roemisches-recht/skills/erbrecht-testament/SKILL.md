@@ -1,6 +1,6 @@
 ---
 name: erbrecht-testament
-description: "Römisches Recht: Erbrecht Testament. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Erbrecht Testament in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbrecht Testament

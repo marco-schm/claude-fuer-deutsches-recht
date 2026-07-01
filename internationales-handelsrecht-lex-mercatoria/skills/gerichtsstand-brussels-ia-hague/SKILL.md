@@ -1,6 +1,6 @@
 ---
 name: gerichtsstand-brussels-ia-hague
-description: "Internationales Handelsrecht: Gerichtsstand nach Brüssel Ia-VO (EU) 1215/2012 und Haager Gerichtsstandsübereinkommen 2005. Art. 25 Gerichtsstandsvereinbarung, ausschließlicher Gerichtsstand, Lis pendens und Anerkennung ausländischer Urteile im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Gerichtsstand: Brüssel Ia und Haager Übereinkommen in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gerichtsstand: Brüssel Ia und Haager Übereinkommen

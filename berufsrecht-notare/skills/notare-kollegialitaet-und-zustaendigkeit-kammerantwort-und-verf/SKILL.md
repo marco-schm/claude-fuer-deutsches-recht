@@ -1,6 +1,6 @@
 ---
 name: notare-kollegialitaet-und-zustaendigkeit-kammerantwort-und-verf
-description: "Notare: kollegialitaet und zustaendigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Notare Kollegialitaet Und Zuständigkeit Kammerantwort Und Verf in Berufsrecht Notare geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Notare: kollegialitaet und zustaendigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

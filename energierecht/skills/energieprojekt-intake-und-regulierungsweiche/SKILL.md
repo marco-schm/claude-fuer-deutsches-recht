@@ -1,6 +1,6 @@
 ---
 name: energieprojekt-intake-und-regulierungsweiche
-description: "Energieprojekt-Intake mit Regulierungs-, Netz- und Förderweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Energierecht."
+description: "Wenn es um Energieprojekt-Intake mit Regulierungs-, Netz- und Förderweiche in Energierecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Energieprojekt-Intake mit Regulierungs-, Netz- und Förderweiche

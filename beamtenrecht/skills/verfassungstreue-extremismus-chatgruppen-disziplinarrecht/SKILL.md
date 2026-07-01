@@ -1,6 +1,6 @@
 ---
 name: verfassungstreue-extremismus-chatgruppen-disziplinarrecht
-description: "Verfassungstreue im Beamten- und Richterdienst: Reichsbürger, extremistische Bezüge, Chatgruppen, Social Media, Parteitätigkeit, Mäßigungspflicht, Beweiswürdigung und disziplinarische Reaktion im Beamtenrecht."
+description: "Wenn es um Verfassungstreue, Chatgruppen und politische Grenzfälle in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Verfassungstreue, Chatgruppen und politische Grenzfälle

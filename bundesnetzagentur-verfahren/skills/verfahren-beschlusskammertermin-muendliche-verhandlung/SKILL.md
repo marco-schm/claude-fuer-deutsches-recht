@@ -1,6 +1,6 @@
 ---
 name: verfahren-beschlusskammertermin-muendliche-verhandlung
-description: "Verfahren / Beschlusskammertermin mündliche Verhandlung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis im BNetzA-Verfahren."
+description: "Wenn es um Verfahren: Beschlusskammertermin mündliche Verhandlung in Bundesnetzagentur-Verfahren geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Verfahren: Beschlusskammertermin mündliche Verhandlung

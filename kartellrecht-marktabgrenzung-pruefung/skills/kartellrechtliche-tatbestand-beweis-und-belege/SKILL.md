@@ -1,6 +1,6 @@
 ---
 name: kartellrechtliche-tatbestand-beweis-und-belege
-description: "Kartellrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Kartellrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Kartellrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage

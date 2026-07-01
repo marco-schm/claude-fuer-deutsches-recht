@@ -1,6 +1,6 @@
 ---
 name: oberstufenwahl-kursbelegung
-description: "Prüft Kurswahlen, Umwahl, Belegpflichten und Laufbahnfolgen im Schulrecht Länder."
+description: "Wenn es um Oberstufenwahl und Kursbelegung in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Oberstufenwahl und Kursbelegung

@@ -1,6 +1,6 @@
 ---
 name: support-response-telekommunikation-agb
-description: "Klausel-Fachmodul für Support Response Times: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung im AGB-Recht."
+description: "Wenn es um Support Response Times in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Support Response Telekommunikation Agb; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Support Response Times

@@ -1,6 +1,6 @@
 ---
 name: bho-268-bund-laender-programm-sperre-bewerten
-description: "Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Sperre bewerten. Sperre bewerten für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bund Laender Programm Sperre Bewerten in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bund Laender Programm Sperre Bewerten

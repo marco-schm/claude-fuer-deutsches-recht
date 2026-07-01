@@ -1,6 +1,6 @@
 ---
 name: buergerlichen-fristen-form-und-zustaendigkeit
-description: "Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zuständigkeitsregeln im bürgerlichen Recht und Zivilprozess: Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zuständigkeitsregeln im bürgerlichen Recht und Z..."
+description: "Wenn es um Buergerlichen Fristen Form Und Zuständigkeit in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zuständigkeitsregeln im bürgerlichen Recht und Zivilprozess

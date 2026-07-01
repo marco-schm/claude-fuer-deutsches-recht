@@ -1,6 +1,6 @@
 ---
 name: agb-preisanpassung-energie-stromgvv-gasgvv
-description: "AGB-Preisanpassung Energieversorgung StromGVV GasGVV. Skill klaert die rechtlichen Anforderungen an Preisanpassungsklauseln in Energielieferungsvertraegen Grundversorgung (StromGVV GasGVV) und Sonderkundenvertraege. Behandelt EuGH-Linie zur Transparenz BGH-Folgejudikate zur Verfassungsmaessigkeit..."
+description: "Wenn es um Agb Preisanpassung Energie Stromgvv Gasgvv in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Preisanpassung Energie Stromgvv Gasgvv

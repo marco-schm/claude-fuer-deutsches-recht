@@ -1,6 +1,6 @@
 ---
 name: fristversaeumnis-und-wiedereinsetzung-rechtsprechungsc
-description: "Anwälte: fristversaeumnis und wiedereinsetzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: fristversaeumnis und wiedereinsetzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

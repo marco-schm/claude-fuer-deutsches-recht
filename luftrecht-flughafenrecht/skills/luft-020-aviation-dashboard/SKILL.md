@@ -1,6 +1,6 @@
 ---
 name: luft-020-aviation-dashboard
-description: "Luftrecht und Flughafenrecht: Aviation Dashboard. Aviation Dashboard im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Aviation Dashboard in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aviation Dashboard

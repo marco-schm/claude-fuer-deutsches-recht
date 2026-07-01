@@ -1,6 +1,6 @@
 ---
 name: presse-oeffentlichkeitsarbeit-privat
-description: "Hilft bei Pressemitteilungen, Einladungstexten, Veranstalterangabe und Kommunikation ohne unnötige Rechtsrisiken im Versammlungsrecht."
+description: "Wenn es um Öffentlichkeit gehört dazu in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Öffentlichkeit gehört dazu

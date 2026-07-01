@@ -1,6 +1,6 @@
 ---
 name: ortschaftsrat-landesrecht-routen
-description: "der Länder: Ortschaftsrat: Landesrecht routen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Ortschaftsrat Landesrecht Routen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ortschaftsrat Landesrecht Routen

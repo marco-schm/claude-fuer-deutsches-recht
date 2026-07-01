@@ -1,6 +1,6 @@
 ---
 name: spezial-bezuege-zahlen-schwellen-und-berechnung
-description: "Bezuege: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Bezuege: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bezuege: Zahlen, Schwellenwerte und Berechnung

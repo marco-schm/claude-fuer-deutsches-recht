@@ -1,6 +1,6 @@
 ---
 name: sondervermoegen-bundeswehr-titel-pruef
-description: "Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Sondervermoegen Bundeswehr Titel Prüf in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sondervermoegen Bundeswehr Titel Prüf

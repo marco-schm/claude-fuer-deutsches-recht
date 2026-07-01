@@ -1,6 +1,6 @@
 ---
 name: spezial-patentanwaelte-verhandlung-vergleich-und-eskalation
-description: "Patentanwaelte: Verhandlung, Vergleich und Eskalation im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Patentanwaelte: Verhandlung, Vergleich und Eskalation in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwaelte: Verhandlung, Vergleich und Eskalation

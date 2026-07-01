@@ -1,6 +1,6 @@
 ---
 name: infl-062-finanzamt-anfrage-beantworten
-description: "Influencer-Recht: Finanzamt Anfrage beantworten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Finanzamt Anfrage beantworten in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Finanzamt Anfrage beantworten

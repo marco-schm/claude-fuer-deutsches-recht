@@ -1,6 +1,6 @@
 ---
 name: datenraum-dokumentenintake-aktenlog
-description: "Datenraum: vertiefter Berufsrechts-Skill für Anwälte; prüft Datenraum im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
+description: "Wenn es um Datenraum in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenraum

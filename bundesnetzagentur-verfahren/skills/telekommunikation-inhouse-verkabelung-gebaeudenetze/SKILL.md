@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-inhouse-verkabelung-gebaeudenetze
-description: "Telekommunikation / Inhouse-Verkabelung Gebäudenetze: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln im BNetzA-Verfahren."
+description: "Wenn es um Telekommunikation: Inhouse-Verkabelung Gebäudenetze in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Telekommunikation: Inhouse-Verkabelung Gebäudenetze

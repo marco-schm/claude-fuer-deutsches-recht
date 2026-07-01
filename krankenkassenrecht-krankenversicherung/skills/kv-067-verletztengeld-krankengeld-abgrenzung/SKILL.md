@@ -1,6 +1,6 @@
 ---
 name: kv-067-verletztengeld-krankengeld-abgrenzung
-description: "Krankenversicherung: Verletztengeld Krankengeld Abgrenzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Verletztengeld Krankengeld Abgrenzung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Verletztengeld Krankengeld Abgrenzung

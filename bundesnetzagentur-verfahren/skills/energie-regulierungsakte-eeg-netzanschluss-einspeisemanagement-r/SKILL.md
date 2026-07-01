@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-eeg-netzanschluss-einspeisemanagement-r
-description: "EEG Netzanschluss Einspeisemanagement: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: EEG Netzanschluss Einspeisemanagement — Rechtsmittel-Check in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: EEG Netzanschluss Einspeisemanagement — Rechtsmittel-Check

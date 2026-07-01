@@ -1,6 +1,6 @@
 ---
 name: datenschutz-telematik-esg-leasing-start
-description: "Datenschutz und Telematik im Fahrzeugleasing: DSGVO, Verarbeitungszwecke, Beschäftigtendatenschutz § 26 BDSG, Nutzungsprofile und Betriebsvereinbarung im Leasingrecht."
+description: "Wenn es um Datenschutz und Telematik im Fahrzeugleasing in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Datenschutz und Telematik im Fahrzeugleasing

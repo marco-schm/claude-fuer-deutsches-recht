@@ -1,6 +1,6 @@
 ---
 name: anspruchsgrundlagen-behoerden-gericht-und-registerweg
-description: "Dieses Skill systematisiert die Auswahl und Durchsetzung von Anspruchsgrundlagen auf dem Behörden-, Gerichts- und Registerweg: Es..."
+description: "Wenn es um Anspruchsgrundlagen Behoerden Gericht Und Registerweg in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dieses Skill systematisiert die Auswahl und Durchsetzung von Anspruchsgrundlagen auf dem Behörden-, Gerichts- und Registerweg

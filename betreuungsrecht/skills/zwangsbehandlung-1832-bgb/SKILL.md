@@ -1,6 +1,6 @@
 ---
 name: zwangsbehandlung-1832-bgb
-description: "Zwangsbehandlung § 1832 BGB: Voraussetzungen, Genehmigung Betreuungsgericht, Verfahren § 312 FamFG. BVerfG-Linien zu Patientenautonomie (BVerfG 2 BvR 882/09). Output: Antragsentwurf an Gericht."
+description: "Wenn es um Zwangsbehandlung Paragraf 1832 BGB in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zwangsbehandlung § 1832 BGB

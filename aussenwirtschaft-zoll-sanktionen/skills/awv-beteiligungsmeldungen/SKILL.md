@@ -1,6 +1,6 @@
 ---
 name: awv-beteiligungsmeldungen
-description: "Meldepflichten für Direktinvestitionen und Beteiligungserwerbe nach AWV §§ 56-67 und Z4/Z5-Meldeformular: Grenzwerte für meldepflichtige Beteiligungen (10 %-Schwelle), Fristen und Formvorschriften. Abgrenzung zur BMWK-Investitionspruefung. Mandant erwirbt Anteile an ausländischem Unternehmen ode..."
+description: "Wenn es um AWV-Beteiligungsmeldungen: Direktinvestitionen und Bundesbank-Meldepflicht in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AWV-Beteiligungsmeldungen: Direktinvestitionen und Bundesbank-Meldepflicht

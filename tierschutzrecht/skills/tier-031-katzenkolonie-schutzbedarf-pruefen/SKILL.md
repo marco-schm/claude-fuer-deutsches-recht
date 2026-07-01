@@ -1,6 +1,6 @@
 ---
 name: tier-031-katzenkolonie-schutzbedarf-pruefen
-description: "Tierschutzrecht: Katzenkolonie: Schutzbedarf prüfen. Schutzbedarf prüfen für Katzenkolonie im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Katzenkolonie Schutzbedarf Pruefen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Katzenkolonie Schutzbedarf Pruefen

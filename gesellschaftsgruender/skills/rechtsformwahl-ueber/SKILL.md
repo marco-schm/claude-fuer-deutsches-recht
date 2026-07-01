@@ -1,6 +1,6 @@
 ---
 name: rechtsformwahl-ueber
-description: "Rechtsformwahl: Behörden-, Gerichts- oder Registerweg im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsgruender."
+description: "Wenn es um Rechtsformwahl: Behörden-, Gerichts- oder Registerweg in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsformwahl: Behörden-, Gerichts- oder Registerweg

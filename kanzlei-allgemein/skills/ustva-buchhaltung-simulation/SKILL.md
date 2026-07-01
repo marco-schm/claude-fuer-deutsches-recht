@@ -1,6 +1,6 @@
 ---
 name: ustva-buchhaltung-simulation
-description: "Sammelt Rechnungsdaten und Belege für die monatliche Umsatzsteuervoranmeldung. Anwendungsfall Monat ist vorbei und UStVA-Unterlagen muessen für ELSTER oder Steuerkanzlei zusammengestellt werden. Normen §§ 18 21 UStG UStVA-Pflicht § 14 UStG Rechnungspflichtangaben GoBD-Aufbewahrung. Prüfraster Aus..."
+description: "Wenn es um UStVA, Eingangsrechnungen und Kanzlei-Buchhaltung in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # UStVA, Eingangsrechnungen und Kanzlei-Buchhaltung

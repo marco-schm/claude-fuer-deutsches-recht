@@ -1,6 +1,6 @@
 ---
 name: jourfix-vorbereiten-protokoll
-description: "Bereitet einen Jourfixe der Verlagsredaktion vor: knappe Agenda Statusliste Beschluesse mit Owner und Frist Protokoll innerhalb 24 Stunden im Verlagsredaktion."
+description: "Wenn es um Jourfixe vorbereiten und Protokoll in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jourfixe vorbereiten und Protokoll

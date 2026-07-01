@@ -1,6 +1,6 @@
 ---
 name: inv-004-mitarbeiterinterview
-description: "Plant Interviews mit Rollenklärung, Belehrung, Arbeitsrecht, Selbstbelastungsrisiko, Betriebsrat und Protokollstandard."
+description: "Wenn es um Mitarbeiterinterviews in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mitarbeiterinterviews

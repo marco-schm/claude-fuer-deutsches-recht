@@ -1,6 +1,6 @@
 ---
 name: open-book-pruefung
-description: "Prüft Open-Book-Regeln, Quellen, Kollaboration, Eigenleistung und Täuschungsabgrenzung im Prüfungsrecht Hochschule."
+description: "Wenn es um Open-Book-Prüfung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Open-Book-Prüfung

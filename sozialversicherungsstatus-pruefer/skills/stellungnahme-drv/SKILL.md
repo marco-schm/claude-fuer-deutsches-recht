@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-drv
-description: "Erstellt eine sachliche Stellungnahme im DRV-Statusverfahren mit Tatsachen, Indizien und Belegen im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Stellungnahme an DRV in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Stellungnahme an DRV

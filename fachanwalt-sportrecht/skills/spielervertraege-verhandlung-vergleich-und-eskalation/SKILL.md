@@ -1,6 +1,6 @@
 ---
 name: spielervertraege-verhandlung-vergleich-und-eskalation
-description: "Spielervertraege: Verhandlung, Vergleich und Eskalation: Spielervertraege: Verhandlung, Vergleich und Eskalation."
+description: "Wenn es um Spielervertraege: Verhandlung, Vergleich und Eskalation in Fachanwalt Sportrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Spielervertraege: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: unfallversicherung-oder-krankenkasse-zustaendigkeitsstrei
-description: "Abgrenzung gesetzliche Unfallversicherung (SGB VII) und GKV bei Arbeitsunfällen: Zuständigkeit, Vorleistungspflicht der GKV, Erstattungsansprüche im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Unfallversicherung oder Krankenkasse: Zuständigkeitsstreit in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unfallversicherung oder Krankenkasse: Zuständigkeitsstreit

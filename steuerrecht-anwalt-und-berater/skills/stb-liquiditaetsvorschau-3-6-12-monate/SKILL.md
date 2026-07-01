@@ -1,6 +1,6 @@
 ---
 name: stb-liquiditaetsvorschau-3-6-12-monate
-description: "Rollierende Liquiditaetsvorschau fuer 3/6/12 Monate erstellen: Bankstaende, OPOS, Steuerfaelligkeiten, Lohn, Sozialversicherung, Linien, Sanierungsbeitraege und IDW-S-6-nahe Fortfuehrungslogik in Wochenraster und Ampel ueberfuehren."
+description: "Wenn es um Liquiditaetsvorschau 3/6/12 Monate in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Liquiditaetsvorschau 3/6/12 Monate

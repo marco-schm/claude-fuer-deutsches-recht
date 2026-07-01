@@ -1,6 +1,6 @@
 ---
 name: procurement-legal-interface
-description: "Procurement Legal Interface: steuert Einkauf will Kanzleikosten drücken; Legal will Qualität, Privilege und Geschwindigkeit sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Procurement Legal Interface in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Procurement Legal Interface

@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-vor-ausgabe
-description: "Erzwingt Normstand, Behördenstand, Statusprüfung, Quellenhygiene und Abgrenzung zur Totalverweigerung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Qualitätsgate vor Ausgabe in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Qualitätsgate vor Ausgabe

@@ -1,6 +1,6 @@
 ---
 name: 016-erster-titel-13-miete-pacht
-description: "PrALR: Erster Teil Titel 13 Miete Pacht Dienstvertrag: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Erster Teil Titel 13 Miete Pacht Dienstvertrag in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Erster Teil Titel 13 Miete Pacht Dienstvertrag

@@ -1,6 +1,6 @@
 ---
 name: erwerbsgeschaeft-dienst-formnichtigkeit
-description: "Klausurfall zur Ermächtigung Minderjähriger zu Erwerbsgeschäften nach §§ 112 und 113 BGB: Ermächtigung zum selbstständigen Betrieb eines Erwerbsgeschäfts oder zur Dienstleistung/Arbeit, Umfang der Geschäftsfähigkeit und gerichtliche Genehmigung im BGB AT."
+description: "Wenn es um Ermächtigung zu Erwerbsgeschäften — Paragrafen 112 und 113 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Erwerbsgeschaeft Dienst Formnichtigkeit; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Ermächtigung zu Erwerbsgeschäften — §§ 112 und 113 BGB

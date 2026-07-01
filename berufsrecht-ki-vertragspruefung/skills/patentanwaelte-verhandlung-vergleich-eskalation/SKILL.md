@@ -1,6 +1,6 @@
 ---
 name: patentanwaelte-verhandlung-vergleich-eskalation
-description: "Patentanwälte: Verhandlung, Vergleich und Eskalation: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstu..."
+description: "Wenn es um Patentanwälte: Verhandlung, Vergleich und Eskalation in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: liability-cap
-description: "Prüft Liability Caps, Ausschlüsse, carve-outs, Datenverlust, Security, IP, Datenschutz und AGB-Risiken im Softwarerecht De Eu Us."
+description: "Wenn es um Haftungsbegrenzung Software in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haftungsbegrenzung Software

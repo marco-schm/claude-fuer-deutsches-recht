@@ -1,6 +1,6 @@
 ---
 name: ermessen-verstehen
-description: "Ermessen der Behörde nach § 40 VwVfG: gebundene vs. Ermessensentscheidung, Ermessensfehler, intendiertes Ermessen, Ermessensreduzierung auf Null, Begruendungspflicht und Rechtsschutz im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Ermessen verstehen in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ermessen verstehen

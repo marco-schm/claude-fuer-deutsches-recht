@@ -1,6 +1,6 @@
 ---
 name: fuehrungskraft-verhalten-pruefen
-description: Pruefung von Zeugnissen fuer Fuehrungskraefte auf vollstaendige Bewertung von Mitarbeiterfuehrung und Loyalitaet mit Erkennung von Auslassungssignalen und spezifischen Negativcodierungen fuer Fuehrungsverhalten.
+description: "Wenn es um Fuehrungskraft-Verhalten pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fuehrungskraft-Verhalten pruefen

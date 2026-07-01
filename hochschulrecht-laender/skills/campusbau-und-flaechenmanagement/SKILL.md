@@ -1,6 +1,6 @@
 ---
 name: campusbau-und-flaechenmanagement
-description: "Prüft Campusbau, Flächenvergabe, Bauherrenschaft, Vergabe und Gremienbeteiligung im Hochschulrecht Länder."
+description: "Wenn es um Campusbau und Flächenmanagement in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Campusbau und Flächenmanagement

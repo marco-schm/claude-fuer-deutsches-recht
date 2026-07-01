@@ -1,6 +1,6 @@
 ---
 name: schlichtung-verbraucher
-description: "Verbraucherschlichtung bei TK-Streit: Voraussetzungen, Antrag, Unterlagen, Hemmung/Fristen, Verhältnis zu Klage und BNetzA-Beschwerde im Telekommunikationsrecht."
+description: "Wenn es um Verbraucherschlichtung Telekommunikation in Telekommunikationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbraucherschlichtung Telekommunikation

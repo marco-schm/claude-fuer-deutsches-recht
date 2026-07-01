@@ -1,6 +1,6 @@
 ---
 name: verhandlungsbrief-zu-harten-klauseln
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verhandlungsbrief Zu Harten Klauseln; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Verhandlungsbrief Zu Harten Klauseln in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verhandlungsbrief Zu Harten Klauseln

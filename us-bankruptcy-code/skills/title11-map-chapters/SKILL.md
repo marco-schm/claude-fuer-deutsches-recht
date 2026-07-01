@@ -1,6 +1,6 @@
 ---
 name: title11-map-chapters
-description: "Kartiert Title 11 Chapters 1/3/5/7/9/11/12/13/15 mit Rollen, Zielen und Schnittstellen im US Bankruptcy Code."
+description: "Wenn es um Title 11 Chapters Map in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Title 11 Chapters Map

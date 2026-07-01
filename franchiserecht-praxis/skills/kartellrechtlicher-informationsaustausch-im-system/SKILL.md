@@ -1,6 +1,6 @@
 ---
 name: kartellrechtlicher-informationsaustausch-im-system
-description: "Informationsaustausch im Franchisesystem kartellrechtlich prüfen: zulässiger Systemdatenaustausch vs. verbotene Koordination nach § 1 GWB und Art. 101 AEUV. Umsatzdaten, Preisinformationen, Kapazitätsdaten und Compliance-Konzepte für Franchisenehmer-Treffen im Franchiserecht."
+description: "Wenn es um Franchiserecht: Kartellrechtlicher Informationsaustausch im System in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Kartellrechtlicher Informationsaustausch im System

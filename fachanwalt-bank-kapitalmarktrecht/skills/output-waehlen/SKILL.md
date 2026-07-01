@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Bank- und Kapitalmarktrecht: stimmt Adressat (Anleger/Kunde, Bank/WPI, BaFin), Frist (Widerrufsfrist Verbraucherdarlehen 14 Tage § 355 BGB) und Form auf den Zweck ab — typische Outputs: Klage Falschberatung, Widerruf Darlehensvertrag, BaFin-Beschwerde."
+description: "Wenn es um Output wählen in Fachanwalt Bank Kapitalmarktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

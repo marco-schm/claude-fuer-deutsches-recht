@@ -1,6 +1,6 @@
 ---
 name: nda-it-saas-vendor
-description: "NDA für SaaS-/IT-Vendor-Pitches: Cloud-Hosting, Datentrennung, Subprozessoren, Audit-Rechte, Penetration-Testing-Erlaubnis. Empfehlung: nicht-exklusive Lizenz für Test-Daten, klare Loeschpflicht nach Pitch."
+description: "Wenn es um NDA mit IT-/SaaS-Vendor in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nda It Saas Vendor; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # NDA mit IT-/SaaS-Vendor

@@ -1,6 +1,6 @@
 ---
 name: besichtigung-beschlagnahme-und-beweissicherung
-description: "Besichtigung, Beschlagnahme und technische Beweissicherung bei Gebrauchsmusterverletzung: Produktzugang, Musterkauf, technische Analyse, Sachverständige, Geheimnisschutz, Chain of Custody und Vorbereitung von Verletzung oder Verteidigung im Gebrauchsmusterrecht."
+description: "Wenn es um Besichtigung Beschlagnahme Und Beweissicherung in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Besichtigung Beschlagnahme Und Beweissicherung

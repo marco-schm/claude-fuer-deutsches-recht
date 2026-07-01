@@ -1,6 +1,6 @@
 ---
 name: bautraeger-weg-abgeschlossenheitsbescheinigung
-description: "WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag: Skill klaert was die Abgeschlossenheitsbescheinigung ist warum sie erforderlich ist und wann sie verweigert wird. Liefert Prüfraster."
+description: "Wenn es um WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag

@@ -1,6 +1,6 @@
 ---
 name: bindungswirkung-strafurteil-23-bdg
-description: "Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Disziplinarverfahren nach § 23 BDG und den Landesdisziplinargesetzen. Klaert den Umfang der tatsaechlichen Feststellungen den Loesungsbeschluss bei Anhaltspunkten für Fehler die Bedeutung des Strafbefehls und die Grenzen bei Einstellu..."
+description: "Wenn es um Bindungswirkung Strafurteil im Disziplinarverfahren Paragraf 23 BDG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bindungswirkung Strafurteil im Disziplinarverfahren § 23 BDG

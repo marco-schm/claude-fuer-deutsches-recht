@@ -1,6 +1,6 @@
 ---
 name: esg-csrd-pruefung-organisationspflicht-und-p
-description: "Wirtschaftsprüfer: esg csrd prüfung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Esg Csrd Prüfung Organisationspflicht Und P in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: esg csrd prüfung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

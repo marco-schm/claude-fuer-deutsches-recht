@@ -1,6 +1,6 @@
 ---
 name: konzern-und-organschaft-spezial
-description: "Spezialfall Konzern und Organschaft: Zurechnung von FuE-Aktivitaeten zwischen Mutter und Tochter, Auftragsforschung im Konzernverbund, Verrechnungspreise mit Fremdvergleich, KMU-Status bei Konzernzugehoerigkeit nach KMU-Empfehlung 2003 361 EG. Prüfraster für Tax und Legal gemeinsam."
+description: "Wenn es um FZ: Konzern und Organschaft in Forschungszulage-Antragstellung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # FZ: Konzern und Organschaft

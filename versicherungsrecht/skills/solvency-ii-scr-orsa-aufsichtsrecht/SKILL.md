@@ -1,6 +1,6 @@
 ---
 name: solvency-ii-scr-orsa-aufsichtsrecht
-description: "Solvency-II-Aufsichtsrahmen: Eigenmittel, SCR/MCR, ORSA, Governance, Ausgliederung und BaFin-Kommunikation für Versicherer und Gruppen im Versicherungsrecht."
+description: "Wenn es um Solvency II, SCR und ORSA für Versicherer in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Solvency II, SCR und ORSA für Versicherer

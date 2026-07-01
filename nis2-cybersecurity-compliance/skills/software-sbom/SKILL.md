@@ -1,6 +1,6 @@
 ---
 name: software-sbom
-description: "Baut SBOM-Prozess für eigene Software und Lieferanten im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Software SBOM in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Software SBOM

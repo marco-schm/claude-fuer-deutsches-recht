@@ -1,6 +1,6 @@
 ---
 name: output-vertrag-deutsch-fertigentwurf
-description: "Output: vollstaendiger Lizenzvertragsentwurf in deutscher Sprache. Praeambel; 19 Paragraphen; Anlagen A-E; Unterschriftenseite. Aus den Klausel-Bausteinen zusammengestellt; modular je nach IP-Typ und Konstellation."
+description: "Wenn es um Output: Lizenzvertrag in deutscher Sprache in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output: Lizenzvertrag in deutscher Sprache

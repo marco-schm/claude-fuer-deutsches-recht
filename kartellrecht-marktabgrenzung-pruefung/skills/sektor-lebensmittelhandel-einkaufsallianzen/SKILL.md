@@ -1,6 +1,6 @@
 ---
 name: sektor-lebensmittelhandel-einkaufsallianzen
-description: "Sektor Lebensmittelhandel und Einkaufsallianzen: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Frist..."
+description: "Wenn es um Sektor Lebensmittelhandel und Einkaufsallianzen in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sektor Lebensmittelhandel und Einkaufsallianzen

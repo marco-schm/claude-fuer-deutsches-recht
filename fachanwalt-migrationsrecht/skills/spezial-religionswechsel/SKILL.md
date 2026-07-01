@@ -1,6 +1,6 @@
 ---
 name: spezial-religionswechsel
-description: "Religionswechsel: Spezial-Skill im Migrationsrecht; prüft Ernsthaftigkeit, Nachweise, Herkunftslandrisiko, Anhörung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Religionswechsel in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Religionswechsel

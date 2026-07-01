@@ -1,6 +1,6 @@
 ---
 name: unparteilichkeit-bei-familiengesellschaft-organisationsp
-description: "Notare: unparteilichkeit bei familiengesellschaft - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Unparteilichkeit Bei Familiengesellschaft Organisationsp in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: unparteilichkeit bei familiengesellschaft - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

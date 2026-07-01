@@ -1,6 +1,6 @@
 ---
 name: open-ran-lieferketten
-description: "Open-RAN-/Netzkomponenten: Lieferkette, Sicherheit, Interoperabilität, Ausfall, Exportkontrolle und kritische Komponenten im Telekommunikationsrecht."
+description: "Wenn es um Open RAN und Lieferketten in Telekommunikationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Open RAN und Lieferketten

@@ -1,6 +1,6 @@
 ---
 name: kollegenbeleidigung-strafbarkeit
-description: "Kollegenbeleidigung und Strafbarkeit (Präventions- und Organisationspaket): steuert Grenze zwischen harter Interessenvertretung, Beleidigung, übler Nachrede und Berufsrechtsverstoß mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgericht..."
+description: "Wenn es um Kollegenbeleidigung und Strafbarkeit: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kollegenbeleidigung und Strafbarkeit: Präventions- und Organisationspaket

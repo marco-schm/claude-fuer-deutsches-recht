@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-versicherungsfall
-description: "WEG Versicherungsfall: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Schadenmeldung, Selbstbehalt, Regress, Mietausfall, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um WEG Versicherungsfall in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Versicherungsfall

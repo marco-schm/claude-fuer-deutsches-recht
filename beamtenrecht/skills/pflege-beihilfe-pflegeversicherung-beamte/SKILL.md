@@ -1,6 +1,6 @@
 ---
 name: pflege-beihilfe-pflegeversicherung-beamte
-description: "Pflege im Beamtenrecht: Beihilfe, private oder soziale Pflegeversicherung, Pflegegrad, stationäre Pflege, Angehörige und Eigenanteile im Beamtenrecht."
+description: "Wenn es um pflege-beihilfe-pflegeversicherung-beamte in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # pflege-beihilfe-pflegeversicherung-beamte

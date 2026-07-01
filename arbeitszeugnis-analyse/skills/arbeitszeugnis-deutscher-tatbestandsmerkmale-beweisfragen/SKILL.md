@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-deutscher-tatbestandsmerkmale-beweisfragen
-description: "Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-umweltstrafrecht-324-stgb-gewaesser
-description: "Gewaesserverunreinigung nach Paragraph 324 StGB: Schutzgut Beschaffenheit eines Gewaessers. Tathandlung Veraenderung verschlechterung der Wasserqualitaet. Verwaltungsakzessorietaet Genehmigung. Vorsatz und Fa..."
+description: "Wenn es um Gewaesserverunreinigung nach Paragraph 324 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewaesserverunreinigung nach Paragraph 324 StGB

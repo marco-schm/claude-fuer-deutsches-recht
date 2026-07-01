@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Meinungsfreiheit/Persönlichkeitsrecht-Prüfer: trennt fehlende Tatsachen von fehlenden Belegen (Beanstandetes Statement (Print/Online), Gegendarstellungsverlangen, Unterlassungserklärung), nennt pro Lücke Beweisthema, Beschaffungsweg (Zivilgericht), Frist und Ersa..."
+description: "Wenn es um Unterlagen und Lücken in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

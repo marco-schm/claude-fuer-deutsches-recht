@@ -1,6 +1,6 @@
 ---
 name: nichtigkeitsklage-mandatswechsel-organisationspf
-description: "Patentanwälte: nichtigkeitsklage mandatswechsel - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Nichtigkeitsklage Mandatswechsel Organisationspf in Berufsrecht Patentanwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: nichtigkeitsklage mandatswechsel - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

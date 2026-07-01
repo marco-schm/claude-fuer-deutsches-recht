@@ -1,6 +1,6 @@
 ---
 name: spezial-vollstreckungsschutz-raeumung
-description: "Vollstreckungsschutz Räumung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft § 765a ZPO, Räumungsfrist, Gesundheitsgefahr, Ersatzwohnraum; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Vollstreckungsschutz Räumung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vollstreckungsschutz Räumung

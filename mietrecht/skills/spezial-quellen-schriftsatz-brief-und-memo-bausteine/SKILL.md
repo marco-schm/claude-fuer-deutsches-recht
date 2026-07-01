@@ -1,6 +1,6 @@
 ---
 name: spezial-quellen-schriftsatz-brief-und-memo-bausteine
-description: "Quellen: Schriftsatz-, Brief- und Memo-Bausteine im Plugin mietrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Quellen: Schriftsatz-, Brief- und Memo-Bausteine in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Quellen: Schriftsatz-, Brief- und Memo-Bausteine

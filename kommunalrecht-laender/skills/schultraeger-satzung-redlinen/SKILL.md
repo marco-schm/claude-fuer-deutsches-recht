@@ -1,6 +1,6 @@
 ---
 name: schultraeger-satzung-redlinen
-description: "der Länder: Schulträger: Satzung redlinen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Schultraeger Satzung Redlinen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schultraeger Satzung Redlinen

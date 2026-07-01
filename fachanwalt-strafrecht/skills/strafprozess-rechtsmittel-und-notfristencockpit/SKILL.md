@@ -1,6 +1,6 @@
 ---
 name: strafprozess-rechtsmittel-und-notfristencockpit
-description: "Rechtsmittel- und Notfristencockpit im Strafverfahren: prüft Strafbefehlseinspruch, Berufung, Revision, sofortige Beschwerde, einfache Beschwerde, Wiedereinsetzung, Zustellung, Empfangsbekenntnis, Fristbeginn und Mandantenentscheidung: Rechtsmittel- und No..."
+description: "Wenn es um Strafprozess Rechtsmittel Und Notfristencockpit in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsmittel- und Notfristencockpit im Strafverfahren: prüft Strafbefehlseinspruch, Berufung, Revision, sofortige Beschwerde, einfache Beschwerde, Wiedereinsetzung, Zustellung, Empfangsbekenntnis, Fristbeginn und Mandantenentscheidung.

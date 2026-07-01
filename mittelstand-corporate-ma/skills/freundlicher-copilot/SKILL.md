@@ -1,6 +1,6 @@
 ---
 name: freundlicher-copilot
-description: "Junger Anwalt oder Berufseinsteiger braucht unterstuetzenden Begleiter durch grosse Transaktion ohne Angst vor Fehlern. Normen BRAO § 43 Sorgfaltspflicht. Prüfraster Intentionserkennung Fehlerfreundliche Hinweise Eskalationsvorschlaege. Output Deal-Hinweis Korrektheitsprüfung Lernhilfe. Abgrenzun..."
+description: "Wenn es um Freundlicher Deal-Copilot in Mittelstands-Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Freundlicher Deal-Copilot

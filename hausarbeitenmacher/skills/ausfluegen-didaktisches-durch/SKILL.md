@@ -1,6 +1,6 @@
 ---
 name: ausfluegen-didaktisches-durch
-description: "Ausfluegen: Compliance-Dokumentation und Aktenvermerk im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Ausfluegen: Compliance-Dokumentation und Aktenvermerk in hausarbeitenmacher — Didaktisches Plugin für juristische geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Ausfluegen: Compliance-Dokumentation und Aktenvermerk

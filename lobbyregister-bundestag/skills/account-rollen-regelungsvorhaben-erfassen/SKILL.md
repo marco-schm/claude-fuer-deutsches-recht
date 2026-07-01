@@ -1,6 +1,6 @@
 ---
 name: account-rollen-regelungsvorhaben-erfassen
-description: "Plant Administrationskonto, Rollen, Zugriffsschutz, Zwei-Personen-Freigabe und Passwortmanager für das Lobbyregisterportal. Output Account-Konzept im Lobbyregister Bundestag."
+description: "Wenn es um Portal-Account und Rollen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Portal-Account und Rollen

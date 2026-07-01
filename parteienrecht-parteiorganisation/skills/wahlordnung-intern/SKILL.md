@@ -1,6 +1,6 @@
 ---
 name: wahlordnung-intern
-description: "Regelt geheime Wahl, Kandidaturen, Vorstellung, Stimmzettel, Auszählung, Stichwahl, Wahlanfechtung."
+description: "Wenn es um Interne Wahlordnung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Wahlordnung Intern; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Interne Wahlordnung

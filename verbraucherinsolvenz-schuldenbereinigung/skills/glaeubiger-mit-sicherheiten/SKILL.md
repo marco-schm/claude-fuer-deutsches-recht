@@ -1,6 +1,6 @@
 ---
 name: glaeubiger-mit-sicherheiten
-description: "Gläubiger mit Sicherheiten: Absonderung, Aussonderung, Sicherungseigentum, Eigentumsvorbehalt und Auto: Normanker: InsO §§ 47 und 49 ff.; BGB Sicherhei..."
+description: "Wenn es um Glaeubiger Mit Sicherheiten in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gläubiger mit Sicherheiten: Absonderung, Aussonderung, Sicherungseigentum, Eigentumsvorbehalt und Auto.

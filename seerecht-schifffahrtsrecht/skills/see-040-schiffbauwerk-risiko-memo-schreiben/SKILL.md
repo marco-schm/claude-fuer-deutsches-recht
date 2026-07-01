@@ -1,6 +1,6 @@
 ---
 name: see-040-schiffbauwerk-risiko-memo-schreiben
-description: "See- und Schifffahrtsrecht: Schiffbauwerk: Risiko memo schreiben. Risiko memo schreiben für Schiffbauwerk im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schiffbauwerk Risiko Memo Schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schiffbauwerk Risiko Memo Schreiben

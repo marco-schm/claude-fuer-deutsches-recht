@@ -1,6 +1,6 @@
 ---
 name: stv-088-ladezone-behoerde-anschreiben
-description: "Straßenverkehrsrecht StVO: Ladezone: Behörde anschreiben. Behörde anschreiben für Ladezone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Ladezone Behoerde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ladezone Behoerde Anschreiben

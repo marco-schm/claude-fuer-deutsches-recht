@@ -1,6 +1,6 @@
 ---
 name: idw-iv
-description: "Prüft aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verwalterperspektive, ob ein Sanierungskonzept auf IDW-S-6-Niveau tragfähig ist. Kernbestandteile: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild des sanierten Unternehmens, Maßnahmenpaket, integrierte GuV-/Bilanz-/Liquiditäts..."
+description: "Wenn es um Sanierungsfähigkeit-Gate für Insolvenzverwaltung in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsfähigkeit-Gate für Insolvenzverwaltung

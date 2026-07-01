@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-tunnel-spritzbeton-vortrieb
-description: "Bauueberwachung nach HOAI LPH 8 für Tunnelbauwerke im Spritzbetonvortrieb — Vortriebsklassen und Spritzbeton-Gueteklassen nach DIN EN 14487 und ZTV-ING, Konvergenzmessprogramm und Geologie-Prognose, Auflockerungszone nach NATM, Sicherungsmassnahmen Ankernagel und Stahleinbau sowie Bewetterungs- u..."
+description: "Wenn es um Bauueberwachung Tunnel Spritzbeton Vortrieb (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Tunnel Spritzbeton Vortrieb (LPH 8)

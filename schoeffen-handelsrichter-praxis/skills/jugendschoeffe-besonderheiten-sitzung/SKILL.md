@@ -1,6 +1,6 @@
 ---
 name: jugendschoeffe-besonderheiten-sitzung
-description: "Jugendschöffe Besonderheiten (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Erziehungsgedanke, nichtöffentliche Verhandlung, Jugendhilfe und Sanktionen mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Jugendschöffe Besonderheiten: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Jugendschöffe Besonderheiten: Sitzungspraxis

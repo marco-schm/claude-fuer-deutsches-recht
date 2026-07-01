@@ -1,6 +1,6 @@
 ---
 name: ihl-074-retention-and-setoff
-description: "Internationales Handelsrecht und Lex Mercatoria: Retention And Setoff. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Retention And Setoff in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Retention And Setoff

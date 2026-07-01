@@ -1,6 +1,6 @@
 ---
 name: ausschlussfristen-bestandskraft
-description: "Einigungsvertrag und Vermögensrecht: Ausschlussfristen und Bestandskraft. Ausschlussfristen und Bestandskraft im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die..."
+description: "Wenn es um Ausschlussfristen Und Bestandskraft in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausschlussfristen Und Bestandskraft

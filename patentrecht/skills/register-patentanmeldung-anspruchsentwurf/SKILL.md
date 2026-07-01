@@ -1,6 +1,6 @@
 ---
 name: register-patentanmeldung-anspruchsentwurf
-description: "Prüft Patentregister und Fristen: DPMAregister, EPO Register, nationale Validierungen, Einheitspatent, Jahresgebühren, Priorität, Veröffentlichung, Erteilung, Einspruch, Beschränkung, Nichtigkeit und Verlängerungen im Patentrecht."
+description: "Wenn es um Rechtsstand, Register und Fristen in patentrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsstand, Register und Fristen

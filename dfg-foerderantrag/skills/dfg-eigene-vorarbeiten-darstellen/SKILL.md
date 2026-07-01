@@ -1,6 +1,6 @@
 ---
 name: dfg-eigene-vorarbeiten-darstellen
-description: "Eigene Vorarbeiten in DFG-Antrag richtig darstellen: bisher publizierte Ergebnisse, eigene Methodik-Beitraege, Pilotdaten. Reviewer-Perspektive: Anknuepfungsfaehigkeit prüfen, keine Selbstplagiat-Prüfung. Mustertext für 2-Seiten-Kapitel."
+description: "Wenn es um DFG: Eigene Vorarbeiten in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Dfg Eigene Vorarbeiten Darstellen; Arbeitsfeld: DFG-Förderantrag."
 ---
 
 # DFG: Eigene Vorarbeiten

@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-zit-rechtsprechungszitierung
-description: "Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechtsprechung Zit Rechtsprechungszitierung; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: starug-stabilisierungsanordnung-vollstreckungsstopp
-description: "Stabilisierungsanordnung: Red-Team und Qualitätskontrolle: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensst..."
+description: "Wenn es um Stabilisierungsanordnung: Red-Team und Qualitätskontrolle in Krisenfrüherkennung und StaRUG-Management geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stabilisierungsanordnung: Red-Team und Qualitätskontrolle

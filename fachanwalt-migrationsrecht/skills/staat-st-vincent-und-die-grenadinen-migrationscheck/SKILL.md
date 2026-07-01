@@ -1,6 +1,6 @@
 ---
 name: staat-st-vincent-und-die-grenadinen-migrationscheck
-description: "Staaten- und Gebietscheck St: Vincent und die Grenadinen: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optio..."
+description: "Wenn es um Staaten- und Gebietscheck St in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Staat St Vincent Und Die Grenadinen Migrationscheck; Arbeitsfeld: Fachanwalt Migrationsrecht."
 ---
 
 # Staaten- und Gebietscheck St

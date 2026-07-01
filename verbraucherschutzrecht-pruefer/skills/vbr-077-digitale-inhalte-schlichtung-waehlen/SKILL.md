@@ -1,6 +1,6 @@
 ---
 name: vbr-077-digitale-inhalte-schlichtung-waehlen
-description: "Verbraucherschutzrecht Prüfer: Digitale Inhalte: Schlichtung wählen. Schlichtung wählen für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Digitale Inhalte Schlichtung Waehlen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digitale Inhalte Schlichtung Waehlen

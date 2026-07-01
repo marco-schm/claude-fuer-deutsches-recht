@@ -1,6 +1,6 @@
 ---
 name: wohngeld-paragraf-7-wogg
-description: "Wohngeld § 7 WoGG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Wohngeld Paragraf 7 WoGG in Fachanwalt Sozialrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohngeld § 7 WoGG

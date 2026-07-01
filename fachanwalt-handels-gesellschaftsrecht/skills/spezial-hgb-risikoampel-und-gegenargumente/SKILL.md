@@ -1,6 +1,6 @@
 ---
 name: spezial-hgb-risikoampel-und-gegenargumente
-description: "HGB: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt handels gesellschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um HGB: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Handels- und Gesellschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # HGB: Risikoampel, Gegenargumente und Verteidigungslinien

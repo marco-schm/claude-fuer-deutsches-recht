@@ -1,6 +1,6 @@
 ---
 name: ma
-description: "Handelsregister-Abruf und Registerrecherche für M&A-Transaktionen: Anwendungsfall Anwalt recherchiert offiziellen Registerstand für Zielgesellschaft, Kaeufer-Holding, Komplementaer-GmbH oder Beteiligungsketten. Paragraf 8-10 GmbHG, Paragraf 29 ff. HGB, Paragraf 15 HGB Registerpublizitaet. Prüfraster Eintragungsstan..."
+description: "Wenn es um Handelsregister- und Registerabruf in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsregister- und Registerabruf

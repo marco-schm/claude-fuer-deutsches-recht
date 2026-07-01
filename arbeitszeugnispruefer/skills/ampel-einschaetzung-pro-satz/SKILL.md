@@ -1,6 +1,6 @@
 ---
 name: ampel-einschaetzung-pro-satz
-description: Aufbau der satzweisen Einschaetzungsmatrix als Herzstueck der Zeugnispruefung mit Spalten fuer Originalwortlaut, decodierte Aussage, Notentendenz, Ampelfarbe in Worten und Katalogfundstelle.
+description: "Wenn es um Ampel-Einschaetzung pro Satz in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Ampel-Einschaetzung pro Satz

@@ -1,6 +1,6 @@
 ---
 name: dpma-designanmeldung-formalien
-description: "DPMA-Designanmeldung vorbereiten: Antrag, Anmelder, Entwerfer, Wiedergaben, Erzeugnisangabe, Locarno, Gebühren, elektronische Einreichung und Registerfolgen im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Dpma Designanmeldung Formalien in designrecht-geschmacksmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Dpma Designanmeldung Formalien

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-besonders-schwerer-bankrott-283a-stgb
-description: "Besonders schwerer Fall des Bankrotts nach Paragraph 283a StGB: Regelbeispiele Gewerbsmaessigkeit und Inkaufnahme wirtschaftlicher Not vieler Gläubiger. Strafrahmen 6 Monate bis 10 Jahre. Vert..."
+description: "Wenn es um Besonders schwerer Fall des Bankrotts nach Paragraph 283a StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besonders schwerer Fall des Bankrotts nach Paragraph 283a StGB

@@ -1,6 +1,6 @@
 ---
 name: 03-eroeffnungsbeschluss-und-verwalterbestellung
-description: "Eröffnungsbeschluss Paragraf 27 InsO, Bestellung Insolvenzverwalter, Bestimmung Berichts-, Prüfungs- und Schlusstermin, Veröffentlichung, Registereintragung"
+description: "Wenn es um 03 Eröffnungsbeschluss und Verwalterbestellung in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # 03 Eröffnungsbeschluss und Verwalterbestellung

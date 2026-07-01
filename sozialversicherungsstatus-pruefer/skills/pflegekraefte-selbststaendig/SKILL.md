@@ -1,6 +1,6 @@
 ---
 name: pflegekraefte-selbststaendig
-description: "Prüft Pflegekräfte, Einrichtungen, ambulante Dienste, Dienstpläne, Fachaufsicht und Statusrisiko im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Selbständige Pflegekräfte in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Selbständige Pflegekräfte

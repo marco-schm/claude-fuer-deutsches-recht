@@ -1,6 +1,6 @@
 ---
 name: grenzgaenger-auslandskrankenversicherung-und-koordinierun
-description: "Krankenversicherungsrecht für Grenzgänger, EU-Koordinierungsverordnung 883/2004, S1-/S2-Formulare, Doppelversicherung und zuständige Träger im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Grenzgänger, Auslandskrankenversicherung und Koordinierungsrecht in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzgänger, Auslandskrankenversicherung und Koordinierungsrecht

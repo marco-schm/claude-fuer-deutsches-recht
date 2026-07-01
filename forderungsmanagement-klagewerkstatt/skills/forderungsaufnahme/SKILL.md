@@ -1,6 +1,6 @@
 ---
 name: forderungsaufnahme
-description: "Forderung systematisch aufnehmen: Gläubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen Paragraf 288 BGB, vorgerichtliche Anwaltskosten Paragraf 280, Paragraf 286 BGB, Mahngebuehren), Faelligkeit Paragraf 271 BGB, Verjährungsbeginn Paragraf 199 BGB. Output: vollstaendige Forderungsbeschreibung als Basis für..."
+description: "Wenn es um Forderungsaufnahme in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Forderungsaufnahme

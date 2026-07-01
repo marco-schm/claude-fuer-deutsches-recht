@@ -1,6 +1,6 @@
 ---
 name: satellite-tk-schlichtung
-description: "Satelliteninternet/NTN: Frequenzen, Genehmigung, Endgeräte, Verbrauchervertrag, Resilienz und nationale Sicherheitsaspekte im Telekommunikationsrecht."
+description: "Wenn es um Satellitenkommunikation und NTN in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Satellitenkommunikation und NTN

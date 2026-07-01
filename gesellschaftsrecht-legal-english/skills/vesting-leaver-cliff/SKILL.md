@@ -1,6 +1,6 @@
 ---
 name: vesting-leaver-cliff
-description: "Erklaert Vesting, Cliff, Good Leaver, Bad Leaver, Founder Lock-up, Call Options, Einziehung und Rückübertragung im deutschen Gesellschaftsrecht im Gesellschaftsrecht Legal English."
+description: "Wenn es um Vesting, Leaver und Cliff in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vesting, Leaver und Cliff

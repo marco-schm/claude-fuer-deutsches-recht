@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-gewerbepark
-description: "Prüft Nutzung, Baupflicht, Betriebspflicht, Umwelt, Altlasten, Heimfall und Investorenexit im Erbbaurecht Praxis."
+description: "Wenn es um Gewerbliches Erbbaurecht in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerbliches Erbbaurecht

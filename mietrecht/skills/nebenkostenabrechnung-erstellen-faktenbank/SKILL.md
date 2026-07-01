@@ -1,6 +1,6 @@
 ---
 name: nebenkostenabrechnung-erstellen-faktenbank
-description: "Betriebskostenabrechnung erstellen aus Vermieter- und Hausverwaltungssicht: Umlagevereinbarung, BetrKV-Kostenarten, HeizkostenV, CO2KostAufG, Abrechnungsfrist, Vorauszahlungen, Belegpaket, Zugangsnachweis und Versand-Qualitygate im Mietrecht."
+description: "Wenn es um Betriebskostenabrechnung erstellen in Mietrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebskostenabrechnung erstellen

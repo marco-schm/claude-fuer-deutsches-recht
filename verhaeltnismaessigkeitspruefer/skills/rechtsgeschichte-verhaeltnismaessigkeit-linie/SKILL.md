@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte-verhaeltnismaessigkeit-linie
-description: "Dogmengeschichtliche Linie der Verhaeltnismaessigkeitspruefung: Preussisches OVG Kreuzberg 1882, Weimarer Republik, BVerfG Apotheken 1958, Lueth 1958, Volkszaehlung 1983, Online-Durchsuchung 2008, Klimaschutz 2021, Bundesnotbremse 2021. Zeigt Entwicklungsschritte als Karte."
+description: "Wenn es um Rechtsgeschichte der Verhältnismäßigkeit in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsgeschichte der Verhältnismäßigkeit

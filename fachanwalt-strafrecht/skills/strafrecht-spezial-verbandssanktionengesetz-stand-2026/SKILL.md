@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-verbandssanktionengesetz-stand-2026
-description: "Verbandssanktionen Stand 06/2026: Anwendungsfall Beratung Unternehmen zur derzeit geltenden Verbandsgeldbusse § 30 OWiG und zu Aussichten des Verbandssanktionengesetzes VerSanG: Verbandssanktionen Stand 06/2026: Anwendungsfall Beratung Unternehmen zur derze..."
+description: "Wenn es um Strafrecht Spezial Verbandssanktionengesetz Stand 2026 in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbandssanktionen Stand 06/2026: Anwendungsfall Beratung Unternehmen zur derzeit geltenden Verbandsgeldbusse § 30 OWiG und zu Aussichten des Verbandssanktionengesetzes VerSanG

@@ -1,6 +1,6 @@
 ---
 name: space-045-weltraummedizin-probandenrecht-ethik-und-haftung
-description: "Weltraumrecht: Weltraummedizin Probandenrecht Ethik und Haftung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Weltraummedizin Probandenrecht Ethik und Haftung in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Weltraummedizin Probandenrecht Ethik und Haftung

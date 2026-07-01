@@ -1,6 +1,6 @@
 ---
 name: spezial-beweiswuerdigung-livequellen-und-rechtsprechungscheck
-description: "Beweiswuerdigung: Livequellen- und Rechtsprechungscheck im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Beweiswuerdigung: Livequellen- und Rechtsprechungscheck in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beweiswuerdigung: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: derivative-right-adaptations
-description: "Prüft Adaption, Translation, Sequel, Audiobook, Film, Game, Remix und andere derivative works im Us Copyright Registrierung Verlag."
+description: "Wenn es um Derivative Right und Adaptations in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Derivative Right und Adaptations

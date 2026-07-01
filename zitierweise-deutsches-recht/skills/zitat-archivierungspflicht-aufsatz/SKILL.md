@@ -1,6 +1,6 @@
 ---
 name: zitat-archivierungspflicht-aufsatz
-description: "Archivierungspflicht der zitierten Quelle: Screenshot mit Datum, PDF-Abruf, archive.org-Backup. Wichtig bei Schriftsaetzen, weil Online-Quellen veraendert werden. Empfehlung Kanzleiprozess im Zitierweise."
+description: "Wenn es um Zitierte Quelle archivieren in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitat Archivierungspflicht Aufsatz; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Zitierte Quelle archivieren

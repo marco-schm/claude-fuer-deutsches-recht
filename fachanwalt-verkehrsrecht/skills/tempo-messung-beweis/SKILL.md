@@ -1,6 +1,6 @@
 ---
 name: tempo-messung-beweis
-description: "Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbescheid: Tempo-Messung Beweisanfechtung OWiG. Prüfraster: Standardmessgeräte PoliScan Speed Es 3.0 LeivTec XV-3 Multanova..."
+description: "Wenn es um Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbescheid in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbescheid

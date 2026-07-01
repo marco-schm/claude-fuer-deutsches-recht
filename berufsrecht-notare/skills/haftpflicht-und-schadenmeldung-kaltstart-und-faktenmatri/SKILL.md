@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-und-schadenmeldung-kaltstart-und-faktenmatri
-description: "Notare: haftpflicht und schadenmeldung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Haftpflicht Und Schadenmeldung Kaltstart Und Faktenmatri in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: haftpflicht und schadenmeldung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

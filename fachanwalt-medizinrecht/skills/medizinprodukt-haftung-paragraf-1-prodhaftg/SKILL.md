@@ -1,6 +1,6 @@
 ---
 name: medizinprodukt-haftung-paragraf-1-prodhaftg
-description: "Medizinprodukt Haftung § 1 ProdHaftG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Medizinprodukt Haftung Paragraf 1 ProdHaftG in Fachanwalt Medizinrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medizinprodukt Haftung § 1 ProdHaftG

@@ -1,6 +1,6 @@
 ---
 name: risikoampel-vorlage
-description: "AG/SE-Aufsichtsrat Praxis: Risikoampel Vorlage; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um Risikoampel Vorlage in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Risikoampel Vorlage

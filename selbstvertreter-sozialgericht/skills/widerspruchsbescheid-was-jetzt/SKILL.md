@@ -1,6 +1,6 @@
 ---
 name: widerspruchsbescheid-was-jetzt
-description: "Sie haben den Widerspruchsbescheid bekommen. Was nun? Klagefrist 1 Monat § 87 SGG. Klage einreichen oder akzeptieren. Wegweiser für Buerger nach dem Widerspruchsbescheid."
+description: "Wenn es um Widerspruchsbescheid erhalten — was jetzt? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Widerspruchsbescheid erhalten — was jetzt?

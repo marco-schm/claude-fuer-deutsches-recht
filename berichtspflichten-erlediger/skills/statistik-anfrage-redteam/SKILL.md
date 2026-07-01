@@ -1,6 +1,6 @@
 ---
 name: statistik-anfrage-redteam
-description: "Amtliche oder quasi-amtliche Datenanforderung kritisch prüfen: Rechtsgrundlage, Umfang, Geheimnisse, Datenschutz, Frist und Antwortstrategie."
+description: "Wenn es um Statistik-Anfrage Red-Team in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Statistik-Anfrage Red-Team

@@ -1,6 +1,6 @@
 ---
 name: angebotsumstellung-evidenz-flags-red-team-korrektur
-description: "Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung in Kartellrecht — Marktabgrenzungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung

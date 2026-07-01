@@ -1,6 +1,6 @@
 ---
 name: spezial-staffelmiete-wirksamkeit
-description: "Staffelmiete Wirksamkeit: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Beträge, Zeiträume, Kündigungsverzicht, Mietpreisbremse und Transparenz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Staffelmiete Wirksamkeit in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Staffelmiete Wirksamkeit

@@ -1,6 +1,6 @@
 ---
 name: equitable-subordination-estate-property
-description: "Prüft contractual subordination, equitable subordination, insider misconduct and plan distribution effects im US Bankruptcy Code."
+description: "Wenn es um Subordination Paragraf 510 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Subordination § 510

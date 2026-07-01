@@ -1,6 +1,6 @@
 ---
 name: richterlicher-hinweis-und-aufklaerung
-description: "Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Urteilsbauer Relationsmacher."
+description: "Wenn es um Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen in Urteilsbauer und Relationsmacher geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Richterlicher Hinweis Und Aufklaerung; Arbeitsfeld: Urteilsbauer und Relationsmacher."
 ---
 
 # Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen

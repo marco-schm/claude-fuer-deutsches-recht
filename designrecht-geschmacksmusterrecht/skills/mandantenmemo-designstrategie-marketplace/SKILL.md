@@ -1,6 +1,6 @@
 ---
 name: mandantenmemo-designstrategie-marketplace
-description: "Mandantenmemo zur Designstrategie erstellen: kurze Executive Summary, Schutzoptionen, Kosten, Zeitplan, Risiken, nächste Schritte und Entscheidungsfragen im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Mandantenmemo Designstrategie in designrecht-geschmacksmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mandantenmemo Designstrategie

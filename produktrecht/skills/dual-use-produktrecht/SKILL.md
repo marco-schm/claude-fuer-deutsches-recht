@@ -1,6 +1,6 @@
 ---
 name: dual-use-produktrecht
-description: "Dual-Use-Gueter (EG-Dual-Use-VO 2021 821): Produktrechtliche Pflichten und exportkontrollrechtliche Genehmigungspflichten, Anhang I, Catch-All, militaerische Endverwendung. Schnittstelle zu Aussenwirtschaftsgesetz AWG und AWV. Prüfraster, ab wann ein technisches Produkt der Genehmigungspflicht u..."
+description: "Wenn es um Dual-Use im Produktrecht in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dual-Use im Produktrecht

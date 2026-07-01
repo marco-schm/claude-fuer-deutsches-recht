@@ -1,6 +1,6 @@
 ---
 name: darlehensrecht-verbraucher-unternehmer
-description: "Darlehensrecht für Banken: Verbraucher- und Unternehmenskredit, Pflichtangaben, Widerruf, Kündigung, Sicherheiten, Zahlungsverzug, Vorfälligkeitsfragen und Prozessrisiko prüfen im Bank-Rechtsabteilung."
+description: "Wenn es um Darlehensrecht in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Darlehensrecht

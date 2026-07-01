@@ -1,6 +1,6 @@
 ---
 name: 001-normnavigator-jede-norm-karte
-description: "PrALR: Normnavigator jede PrALR-Norm als Karte erschließen: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Normnavigator jede PrALR-Norm als Karte erschließen in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Normnavigator jede PrALR-Norm als Karte erschließen

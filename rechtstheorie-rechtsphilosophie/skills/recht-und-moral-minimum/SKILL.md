@@ -1,6 +1,6 @@
 ---
 name: recht-und-moral-minimum
-description: "Prüft, wann moralische Argumente rechtlich relevant werden: Verfassung, Generalklauseln, Auslegung, Härtefälle, Rechtsmissbrauch."
+description: "Wenn es um Recht und Moral in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Recht und Moral

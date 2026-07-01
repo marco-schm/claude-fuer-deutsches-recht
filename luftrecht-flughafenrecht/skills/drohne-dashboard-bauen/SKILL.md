@@ -1,6 +1,6 @@
 ---
 name: drohne-dashboard-bauen
-description: "Drohnenbetreiber oder Regulierer braucht Dashboard für Drohnenflotte: Registrierungsstatus Genehmigungen Versicherung Unfallhistorie Betriebsgebiete. Skill strukturiert Datenquellen LBA-Register EU-VO 2019/947 und liefert befuellbares Dashboard-Template im Luftrecht Flughafenrecht."
+description: "Wenn es um Drohne – Dashboard bauen in Luftrecht und Flughafenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Drohne – Dashboard bauen

@@ -1,6 +1,6 @@
 ---
 name: notariat-041-konflikttraechtige-mandanten-neutrale-amtsfuehrung
-description: "Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung

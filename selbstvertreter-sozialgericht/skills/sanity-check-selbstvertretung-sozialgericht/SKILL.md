@@ -1,6 +1,6 @@
 ---
 name: sanity-check-selbstvertretung-sozialgericht
-description: "Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag, Stellungnahme, Termin oder Berufung im Sozialgerichtsverfahren. Prüft Frist, Bescheidkette, richtige Klageart, Eilbedürftigkeit, Belege, medizinische Unterlagen, Antrag, Kostenfreiheit, PKH und rote Flaggen."
+description: "Wenn es um Sanity-Check Selbstvertretung Sozialgericht in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sanity-Check Selbstvertretung Sozialgericht

@@ -1,6 +1,6 @@
 ---
 name: space-033-exportkontrolle-itar-ear-eu-dual-use-raumfahrttechnik
-description: "Weltraumrecht: Exportkontrolle ITAR EAR EU Dual Use bei Raumfahrttechnik mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Exportkontrolle ITAR EAR EU Dual Use bei Raumfahrttechnik in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Exportkontrolle ITAR EAR EU Dual Use bei Raumfahrttechnik

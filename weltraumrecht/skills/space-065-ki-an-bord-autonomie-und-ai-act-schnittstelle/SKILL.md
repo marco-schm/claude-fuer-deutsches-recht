@@ -1,6 +1,6 @@
 ---
 name: space-065-ki-an-bord-autonomie-und-ai-act-schnittstelle
-description: "Weltraumrecht: KI an Bord Autonomie und AI Act Schnittstelle mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: digitale Werkzeuge an Bord Autonomie und digitale Werkzeuge Act Schnittstelle in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: KI an Bord Autonomie und AI Act Schnittstelle

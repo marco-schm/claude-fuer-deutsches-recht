@@ -1,6 +1,6 @@
 ---
 name: inso-p031-handels-genossenschafts-gesellschafts-partnerschafts-o
-description: "§ 31 InsO (Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 31 InsO (Handels-, Genossenschafts-, Gesellscha..."
+description: "Wenn es um Inso P031 Handels Genossenschafts Gesellschafts Partnerschafts O in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 31 InsO (Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

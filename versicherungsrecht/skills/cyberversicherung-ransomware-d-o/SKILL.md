@@ -1,6 +1,6 @@
 ---
 name: cyberversicherung-ransomware-d-o
-description: "Cyberversicherung bei Ransomware, Datenabfluss, Betriebsunterbrechung, Lösegeld, Forensik, Sanktionsrecht, DORA/NIS2-Schnittstelle und Obliegenheiten im Versicherungsrecht."
+description: "Wenn es um Cyberversicherung: Ransomware, DORA, Sanktionen in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Cyberversicherung: Ransomware, DORA, Sanktionen

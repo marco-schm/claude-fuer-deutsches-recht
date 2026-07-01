@@ -1,6 +1,6 @@
 ---
 name: schlichtung-und-vsbg-pruefen
-description: "Verbraucherschutzrecht Prüfer: Schlichtung und VSBG prüfen. Schlichtung und VSBG prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
+description: "Wenn es um Schlichtung Und Vsbg Prüfen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schlichtung Und Vsbg Prüfen
