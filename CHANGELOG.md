@@ -1,3 +1,10 @@
+# v406.1.0 — Beihilfe Bayern (BayBhV) ergänzt
+
+- Plugin `beamtenrecht`: vier neue Skills zur Bayerischen Beihilfeverordnung nach dem bestehenden Beihilfe-Prinzip — `beihilfe-bayern-baybhv` (Kern), `beihilfe-bayern-krankheit-aufwendungen` (§§ 8–28), `beihilfe-bayern-pflege` (§§ 31–40, SGB-XI-Schnittstelle) und `beihilfe-bayern-reha` (§§ 29–30).
+- Saubere Bund/Land-Trennung: BayBhV wird nicht aus Modellwissen behauptet, Zuständigkeit Bayerisches Landesamt für Finanzen, Rechtsgrundlage Art. 86a/96 BayBG; Live-Quellencheck über gesetze-bayern.de vorgeschrieben.
+- Neue Quellenanker-Sektion „Beihilfe Bayern (BayBhV)" in `beamtenrecht/references/QUELLEN.md`; README-Skilltabelle und `plugin.json` (Keywords `beihilfe`, `bayern`, `baybhv`) aktualisiert.
+- Version-Bump `beamtenrecht` auf v406.1.0.
+
 # v406.0.0 — Skill-Auswahl und Einstiegssignale geschärft
 
 - Repo-weiter Sweep der Skill-Beschreibungen: Auswahlsignale nennen jetzt konkreter Anlass, Rechtsbereich, Arbeitsschritt und verwertbares Arbeitsprodukt.
