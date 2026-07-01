@@ -137,6 +137,24 @@ Dieselbe Datenbasis lässt sich auch als Padlet-Shelf ausspielen (vier Spalten);
 **Status-Navigator und Step-Plan-Macher**: ein Dokumentenstatus- und Workflow-Generator.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `status-navigator-einstieg`, `szenario-mandatsuebernahme` |
+| 2. Unterlagen, Sachverhalt und Quellen | `dokumenten-inventur-grob`, `dokumententyp-beschluesse`, `dokumententyp-cap-tables`, `dokumententyp-erklaerungen`, `dokumententyp-korrespondenz`, `dokumententyp-vertraege`, `luecken-notifizieren` |
+| 3. Prüfung, Anspruch und Subsumtion | `unterschriftspruefung`, `zugang-zustellung-pruefung` |
+| 4. Gestaltung, Strategie und Verhandlung | `excel-reiter-beteiligte-optional`, `excel-reiter-fristen-optional`, `szenario-finanzierungsstruktur-bereinigen` |
+| 5. Verfahren, Behörde und Gericht | `szenario-faelligstellung-vollstreckung` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `copy-paste-fehler-erkennung` |
+| 8. Spezialmodule und Schnittstellen | `ampel-system`, `diskrepanzen-aufdecken`, `erweiterung-hyperlinks`, `erweiterung-laufende-aktualisierung`, `erweiterung-rangfolge-reiter`, `erweiterung-sicherheiten-reiter`, `excel-reiter-1-ueberblick`, `excel-reiter-2-vorhanden`, `excel-reiter-3-fehlend`, `excel-reiter-4-workflow`, `padlet-als-werkzeug`, `padlet-spalte-1-ueberblick`, `padlet-spalte-2-vorhanden`, `padlet-spalte-3-fehlend`, `padlet-spalte-4-workflow`, `szenario-cap-table-bereinigung`, `szenario-due-diligence`, `verexcelung-prinzip`, ... plus 1 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

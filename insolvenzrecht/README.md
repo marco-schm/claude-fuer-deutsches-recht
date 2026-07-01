@@ -76,6 +76,25 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Doppellizenziert unter Apache License, Version 2.0 ODER MIT License, nach Wahl der Nutzerin / des Nutzers (`SPDX-License-Identifier: Apache-2.0 OR MIT`). Siehe `LICENSE`, `LICENSE-APACHE`, `LICENSE-MIT` und `NOTICE` im Repository-Wurzelverzeichnis.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `dokumente-intake`, `einstieg-routing`, `inso-neustart-bonitaet-konto-kredit`, `kaltstart-interview`, `mandat-triage-insolvenzrecht`, `triage-verbraucherinsolvenz`, `workflow-anschluss-skills-router`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `belegmatrix-formular-portal-und-einreichung`, `inso-insolvenzbekanntmachungen-auskunfteien`, `inso-negativeintrag-bestreiten-belegpaket`, `livecheck-compliance-dokumentation-und-akte`, `quellen-livecheck`, `rechtsquellen`, `spezial-verfahrenstypen-livequellen-und-rechtsprechungscheck`, `tabelle-beweislast-und-darlegungslast`, `unterlagen-luecken`, `verfahrenstypen-quellenkarte`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste`, `zahlungsunfaehigkeit-tatbestand-beweis-und-belege` |
+| 3. Prüfung, Anspruch und Subsumtion | `do-versicherung-manager-haftung`, `glaeubigerantrag-risikoampel-und-gegenargumente`, `inso-eroeffnungsantrag-checkliste`, `insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege`, `insolvenzreife-antragspflicht-und-haftung`, `sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege`, `spezial-glaeubigerantrag-risikoampel-und-gegenargumente`, `ueberschuldung-pruefung-19-inso`, `workflow-fristen-und-risikoampel`, `zahlungsunfaehigkeit-pruefung-17-inso` |
+| 4. Gestaltung, Strategie und Verhandlung | `einfuehrung-verhandlung-vergleich-und-eskalation`, `insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan`, `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab`, `sanierungsgewinn-3a-estg-im-insolvenzplan`, `sanierungsgewinn-3a-estg-im-starug-plan`, `sanierungsgewinn-7b-debt-equity`, `sanierungsgewinn-debt-equity-swap-im-plan`, `sanierungsgewinn-eigenverwaltung-und-cra`, `sanierungsgewinn-finanzamt-im-insolvenzverfahren`, `sanierungsgewinn-fruehe-vorbereitung-vor-plan`, `sanierungsgewinn-insolvenzreife`, `sanierungsgewinn-liquidation`, `sanierungsgewinn-mandantenwarnung-iv-und-cro`, `sanierungsgewinn-massenpriorisierung-261-vs-3a-estg`, `sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan`, `sanierungsgewinn-restschuldbefreiung-und-3a-estg`, `sanierungsgewinn-uebertragende`, `sanierungsgewinn-vergleich-mit-finanzamt-und-stundung`, ... plus 3 weitere |
+| 5. Verfahren, Behörde und Gericht | `anfechtungsrechte-antragspflicht-15a`, `antragspflicht-15a-17-19`, `antragspflicht-15a-inso`, `auslaendischer-insolvenzverwalter-register-und-grundbuch`, `auslaendischer-office-holder-register-und-grundbuch`, `feststellung-sonderfall-glaeubigerantrag-inso`, `glaeubigerantrag-glaeubigerausschuss`, `glaeubigerausschuss-fristennotiz`, `inso-gerichtliche-aufsichtswege`, `inso-pl-einfuehrung-verfahrenstypen`, `inso-schriftsatz-brief-und-memo-bausteine`, `insolvenzrecht-behoerden-gericht-und-registerweg`, `spezial-glaeubigerausschuss-fristennotiz-und-naechster-schritt`, `ueberschuldung-fristen-form-und-zustaendigkeit` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `insolvenzrechtliche-livecheck-red-team`, `mandat-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `anschluss`, `chronologie-internationaler-bezug-und-schnittstellen`, `forderungsanmeldung-glaeubiger-174-177-inso`, `glaeubigerausschuss-mitwirkung`, `inso-dsgvo-art17-nach-restschuldbefreiung`, `inso-glaeubigerausschuss-praxis`, `inso-glaeubigerausschuss-zustimmung-spezial`, `inso-lma-facility-massearmut`, `inso-massearmut-massekostenmangel-spezial`, `inso-npl-kreditkauf-restschuldbefreiung`, `inso-pl`, `inso-restschuldbefreiung-und-versagungsgruende`, `inso-schufa-restschuldbefreiung-loeschung`, `inso-schuldschein-darlehen-in-der-insolvenz`, `inso-tabelle-verbraucherinsolvenz-leitfaden`, `inso-verbraucherinsolvenz-leitfaden`, `insolvenzgeld-165-sgb-iii`, `internationales-drittstaaten-konzerninsolvenz`, ... plus 9 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

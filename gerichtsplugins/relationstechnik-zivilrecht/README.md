@@ -110,6 +110,22 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 Dual-lizenziert MIT und Apache-2.0.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 2. Unterlagen, Sachverhalt und Quellen | `01-akte-erstdurchsicht-zivil`, `12-beweisbeduerftige-tatsachen-isolieren`, `13-beweislastverteilung-pruefen`, `14-beweismittel-wuerdigen`, `15-beweisstation-votum` |
+| 3. Prüfung, Anspruch und Subsumtion | `05-anspruchsgrundlagen-identifizieren`, `17-tatbestand-schreiben` |
+| 4. Gestaltung, Strategie und Verhandlung | `02-parteivortrag-strukturieren`, `08-beklagtenvortrag-strukturieren` |
+| 5. Verfahren, Behörde und Gericht | `04-klage-antrag-auslegen`, `20-urteilsentwurf-finalisieren` |
+| 8. Spezialmodule und Schnittstellen | `03-streitstand-erfassen`, `06-schluessigkeit-pruefen`, `07-klaegerstation-votum`, `09-einwendungen-einreden-pruefen`, `10-erheblichkeit-pruefen`, `11-beklagtenstation-votum`, `16-tenor-formulieren`, `18-entscheidungsgruende-aufbauen`, `19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

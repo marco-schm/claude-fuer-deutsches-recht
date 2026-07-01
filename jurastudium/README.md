@@ -152,6 +152,25 @@ Dein Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jura
 - Jeder inhaltlich erzeugende Skill markiert Unsicherheiten. Vertrau den Markierungen mehr als ihrer Abwesenheit – eine unmarkierte Regelaussage ist etwas, woran der Skill sicher ist; prüfe trotzdem deine Quelle vor dem Examen.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-router`, `dokumente-intake`, `einstieg-routing`, `kaltstart-interview`, `studium-erstpruefung-und-mandatsziel`, `workflow-anschluss-skills-router`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `gutachten-uebung`, `gutachtenstil-internationaler-bezug-und-schnittstellen`, `klausurkorrektur-formular-portal-und-einreichung`, `oeffentliches-quellenkarte`, `quellen-livecheck`, `rechtsquellen-beweislast-darlegungslast`, `referendariat-tatbestand-beweis-und-belege`, `spezial-oeffentliches-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `lernstrategien-livecheck-sonderfall`, `livecheck-sonderfall-und-edge-case`, `pruefungsgespraech-ag-rechtsgeschichte`, `pruefungsgespraech-fristen-form-und-zustaendigkeit`, `pruefungsgespraech-muendlich`, `spezial-pruefungsgespraech-fristen-form-und-zustaendigkeit`, `strafrecht-studium-subsumtionslehre`, `subsumtionslehre`, `subsumtionslehre-risikoampel-und-gegenargumente`, `tradition-zivilrecht-subsumtionslehre` |
+| 4. Gestaltung, Strategie und Verhandlung | `jus-studienplan-bauleiter`, `karteikarten-lernplan-lernsitzung`, `lernplan`, `lernstrategien-loesungsschemata-methodenlehre` |
+| 5. Verfahren, Behörde und Gericht | `zivilrecht-schriftsatz-brief-und-memo-bausteine` |
+| 6. Ergebnis, Schreiben und Kommunikation | `juristisches-schreiben`, `juristisches-schreiben-jus`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `klausurkorrektur-lernplanung-red-team-korrektur`, `lernplanung-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `ag-vorbereitung-examens-prognose`, `examens-prognose`, `examensvorbereitung-fragen`, `fall-zusammenfassung-gliederungs-baukasten`, `gliederungs-baukasten`, `jus-klausurtraining-leitfaden`, `jus-referendariat-stationen-staatsexamen`, `jus-staatsexamen-vorbereitung-spezial`, `lernsitzung`, `loesungsschemata`, `loesungsschemata-mehrparteien-konflikt-und-interessen`, `methodenlehre-grundlagen`, `methodenlehre-oeffentliches-strafrecht`, `methodenlehre-rechtsgeschichte-referendariat`, `methodenlehre-strafrecht`, `methodenlehre-zivilrecht`, `rechtsgeschichte`, `rechtsgeschichte-zahlen-schwellen-und-berechnung`, ... plus 1 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

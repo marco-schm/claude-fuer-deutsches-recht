@@ -58,6 +58,25 @@ Dieses Plugin soll keine nicht prüfbaren Fundstellen produzieren. Bei unsichere
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-bundesnetzagentur-mandat`, `kaltstart-triage`, `telekommunikation-routerfreiheit-endgeraete` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenzugang-geschaeftsgeheimnisse-schwaerzung`, `anhoerung-auskunftsbeschluss-digital-services`, `digital-services-datenzugang-forscher-dsa`, `energie-grosshandelsdaten-transparenz`, `energie-grosshandelsdaten-transparenz-rechtsmittel`, `energie-regulierungsakte-anreizregulierung`, `energie-regulierungsakte-anreizregulierung-erloesobergrenze-fris`, `energie-regulierungsakte-anreizregulierung-erloesobergrenze-rech`, `energie-regulierungsakte-anreizregulierung-erloesobergrenze-stel`, `energie-regulierungsakte-bbplg-leitungsvorhaben-fristen-und-besc`, `energie-regulierungsakte-bbplg-leitungsvorhaben-rechtsmittel-che`, `energie-regulierungsakte-bbplg-leitungsvorhaben-stellungnahme-en`, `energie-regulierungsakte-bbplg-leitungsvorhaben-unterlagenanford`, `energie-regulierungsakte-bilanzkreis-gas-rechtsmittel-check`, `energie-regulierungsakte-bilanzkreis-gas-stellungnahme-entwurf`, `energie-regulierungsakte-bilanzkreis-gas-unterlagenanforderung`, `energie-regulierungsakte-bilanzkreis-strom`, `energie-regulierungsakte-bilanzkreis-strom-fristen-und-bescheida`, ... plus 92 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `post-postg-2025-reformcheck`, `verfahren-durchsuchung-nachpruefung-dawn-raid`, `vorstandsvorlage-regulierungsrisiko` |
+| 4. Gestaltung, Strategie und Verhandlung | `eilverfahren-verwaltungsgericht-strategie`, `eisenbahn-beschwerde-evu-gegen-infrastrukturbetreiber`, `eisenbahn-kapazitaetskonflikt-fahrplan`, `eisenbahn-stilllegung-infrastruktur-schnittstelle`, `energie-nabeg-planfeststellung`, `stellungnahme-und-compliance-aktionsplan`, `telekommunikation-sicherheitskonzept-telekommunikation`, `verfahren-beschlusskammertermin-muendliche-verhandlung`, `verfahren-compliance-monitoring-nach-entscheidung` |
+| 5. Verfahren, Behörde und Gericht | `digital-services-aussergerichtliche-streitbeilegungsstelle-dsa`, `digital-services-melde-und-abhilfeverfahren-notice-and-action`, `digital-services-nationale-koordinierung-dsa-behoerden`, `eilrechtsschutz-vwgo-festlegungsverfahren`, `energie-messstellenbetrieb-smart-meter-fristen-bescheid`, `energie-unbundling-entflechtung-fristen-bescheid`, `tk-marktregulierung-marktmacht-fristen-bescheid`, `verfahren-bussgeldverfahren-bnetza`, `verfahren-festlegungsverfahren-beschlusskammer`, `verfahren-gebuehren-kosten-bnetza`, `verfahren-geschaeftsgeheimnisse-im-verwaltungsverfahren`, `verfahren-konsultationsverfahren-stellungnahme`, `verfahren-legal-project-management-bnetza-verfahren`, `verfahren-pressekommunikation-regulierungsverfahren`, `verfahren-verpflichtungszusage-und-abhilfemassnahme`, `verfahren-widerspruch-klage-verwaltungsgericht` |
+| 6. Ergebnis, Schreiben und Kommunikation | `post-beschwerde-brief-paket`, `telekommunikation-campusnetze-5g`, `telekommunikation-entgeltgenehmigung-telekommunikation`, `telekommunikation-frequenzauktion`, `telekommunikation-frequenzzuteilung`, `telekommunikation-glasfaserausbau-mitnutzung`, `telekommunikation-inhouse-verkabelung-gebaeudenetze`, `telekommunikation-mehrwertdienste-preisansage`, `telekommunikation-mobilfunkversorgung-auflagen`, `telekommunikation-netzneutralitaet-open-internet`, `telekommunikation-nummernverwaltung`, `telekommunikation-providerwechsel-minderungsrecht`, `telekommunikation-roaming-eu-schnittstelle`, `telekommunikation-rufnummernmissbrauch`, `telekommunikation-satellitenkommunikation-frequenzen`, `telekommunikation-spam-cold-calls-rufnummernabschaltung`, `telekommunikation-stoerung`, `telekommunikation-telekommunikationsgeheimnis`, ... plus 5 weitere |
+| 7. Kontrolle, Qualität und Gegenprüfung | `post-laufzeitmessung-qualitaet` |
+| 8. Spezialmodule und Schnittstellen | `beschwerde-verbraucher-unternehmen-verband`, `digital-services-algorithmen`, `digital-services-dark-patterns-dsa-schnittstelle`, `digital-services-digital-services-coordinator-ddg`, `digital-services-dsa-beschwerde-plattform`, `digital-services-online-werbung-transparenz-dsa`, `digital-services-trusted-flagger-anerkennung`, `digital-services-vlop-vlose-koordination-eu-kommission`, `eisenbahn-anreizsetzung-schiene`, `eisenbahn-baumassnahmen-und-sperrpausen`, `eisenbahn-digital-services-trusted-flagger`, `eisenbahn-eisenbahnregulierung-eregg`, `eisenbahn-entgeltregulierung-schiene`, `eisenbahn-netznutzungsbedingungen`, `eisenbahn-regulierungsvereinbarung-db-netz-infrago`, `eisenbahn-serviceeinrichtungen`, `eisenbahn-stationszugang`, `eisenbahn-trassenzugang`, ... plus 38 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

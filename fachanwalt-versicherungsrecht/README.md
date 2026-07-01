@@ -56,6 +56,25 @@ Plugin Fachanwalt für Versicherungsrecht. Orientierung VVG VAG Berufsunfähigke
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-versicherungsrecht-orientierung`, `mandat-triage-versicherungsrecht`, `orientierung-mandat-fachanwaltschaft`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `haftpflicht-quellenkarte`, `kanzlei-compliance-dokumentation-und-akte`, `private-dokumentenmatrix-und-lueckenliste`, `pruefen-formular-portal-und-einreichung`, `quellen-livecheck`, `rechtsschutz-beweislast-und-darlegungslast`, `spezial-haftpflicht-livequellen-und-rechtsprechungscheck`, `spezial-pruefen-formular-portal-und-einreichung`, `unterlagen-luecken`, `versicherungsrecht-tatbestand-beweis-und-belege`, `versr-deckungsprozess-215-vvg-beweislast`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `deckungspruefung-obliegenheiten-regress`, `krankenversicherung-risikoampel-und-gegenargumente`, `spezial-deckungspruefung-obliegenheiten-regress`, `versr-bu-leistungspruefung-spezial`, `versr-bu-nachpruefung-anerkenntnis`, `versr-lebensversicherung-bezugsrecht-bewertungsreserven`, `versr-versicherungsvertragspruefung-bauleiter`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `klage-versicherer-strategie`, `sachversicherung-verhandlung-vergleich-und-eskalation`, `vergleichsverhandlung-strategie`, `versr-rechtsschutz-stichentscheid-vorvertraglichkeit` |
+| 5. Verfahren, Behörde und Gericht | `berufsunfaehigkeit-fristen-form-und-zustaendigkeit`, `berufsunfaehigkeit-klage`, `deckungsklage`, `deckungsklage-mehrparteien-konflikt-und-interessen`, `fachanwalt-versicherungsrecht-berufsunfaehigkeit-klage`, `fachanwalt-versicherungsrecht-deckungsklage`, `lebens-behoerden-gericht-und-registerweg`, `rentenversicherung-schriftsatz-brief-und-memo-bausteine`, `schriftsatzkern-substantiierung`, `themen-fristennotiz-und-naechster-schritt`, `versr-deckungsklage-leitfaden`, `versr-rechtsschutz-deckungsklage-spezial` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `fehlerkatalog`, `spezial-versr-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `berufsunfaehigkeit-paragraf-172-vvg`, `cyber-loesegeld-sanktionsrecht`, `deckungsanfrage-pruefen`, `do-deckungsabwehr`, `einfuehrung-sonderfall-edge-case`, `fachanwalt-versicherungsrecht-cyber-loesegeld-sanktionsrecht`, `fachanwalt-versicherungsrecht-do-deckungsabwehr`, `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf`, `fachanwalt-versicherungsrecht-leistungsablehnung-pruefen`, `fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung`, `fachanwalt-versicherungsrecht-regress-abwehr`, `gebaeudeversicherung-paragraf-86-vvg`, `haftpflicht-paragraf-100-vvg`, `hausratversicherung-paragraf-19-vvg`, `kfz-haftpflicht-paragraf-115-vvg`, `lebensversicherung-rueckkauf`, `lebensversicherung-widerruf-paragraf-152-vvg`, `leistungsablehnung-international-schnittstellen`, ... plus 21 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

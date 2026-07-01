@@ -52,6 +52,23 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt kei
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-luftrechtsmandat`, `kaltstart-triage`, `luft-001-kaltstart-luftrechtsmandat` |
+| 3. Prüfung, Anspruch und Subsumtion | `acc3-insolvenzrisiko-markieren`, `airline-insolvenzrisiko-markieren`, `bodenabfertigung-insolvenzrisiko-local`, `drohne-insolvenzrisiko-markieren`, `ersatzteillager-insolvenzrisiko-local`, `flughafen-insolvenzrisiko-markieren`, `flugzeugleasing-insolvenzrisiko-markie`, `luft-013-zuverlaessigkeitsueberpruefung`, `luft-027-airline-insolvenzrisiko-markieren`, `luft-037-flughafen-insolvenzrisiko-markieren`, `luft-047-flugzeugleasing-insolvenzrisiko-markie`, `luft-057-registerpfandrecht-insolvenzrisiko-mar`, `luft-067-ersatzteillager-insolvenzrisiko-markie`, `luft-077-drohne-insolvenzrisiko-markieren`, `luft-087-luftfracht-insolvenzrisiko-markieren`, `luft-097-acc3-insolvenzrisiko-markieren`, `luft-107-slot-insolvenzrisiko-markieren`, `luft-117-bodenabfertigung-insolvenzrisiko-marki`, ... plus 5 weitere |
+| 4. Gestaltung, Strategie und Verhandlung | `acc3-pfaendung-planen`, `airline-pfaendung-planen`, `airline-pfandrecht-pfaendung-planen`, `bodenabfertigung-pfaendung-planen`, `drohne-pfaendung-planen`, `drohne-pfandrecht-pfaendung-planen`, `ersatzteillager-pfaendung-planen`, `flughafen-planfeststellung`, `flugzeugleasing-pfaendung-planen`, `luft-010-flughafen-planfeststellung`, `luft-024-airline-pfaendung-planen`, `luft-034-flughafen-pfaendung-planen`, `luft-044-flugzeugleasing-pfaendung-planen`, `luft-054-registerpfandrecht-pfaendung-planen`, `luft-064-ersatzteillager-pfaendung-planen`, `luft-074-drohne-pfaendung-planen`, `luft-084-luftfracht-pfaendung-planen`, `luft-094-acc3-pfaendung-planen`, ... plus 4 weitere |
+| 5. Verfahren, Behörde und Gericht | `acc3-mandantenmemo-slot-register`, `acc3-register-auswerten`, `airline-register-auswerten`, `bodenabfertigung-register-pfandrecht`, `drohne-register-auswerten`, `ersatzteillager-register-pfandrecht`, `flughafen-register-auswerten`, `flugzeugleasing-register-auswerten`, `flugzeugrolle-und-register`, `luft-004-flugzeugrolle-und-register`, `luft-022-airline-register-auswerten`, `luft-032-flughafen-register-auswerten`, `luft-042-flugzeugleasing-register-auswerten`, `luft-051-registerpfandrecht-zustaendigkeit-prue`, `luft-052-registerpfandrecht-register-auswerten`, `luft-053-registerpfandrecht-pfandrecht-vorberei`, `luft-055-registerpfandrecht-genehmigung-pruefen`, `luft-056-registerpfandrecht-sicherheitsauflage`, ... plus 19 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `acc3-local-counsel-briefen`, `airline-mandantenmemo-schreiben`, `bodenabfertigung-local-counsel-briefen`, `drohne-mandantenmemo-schreiben`, `ersatzteillager-local-counsel-briefen`, `ersatzteillager-mandantenmemo-schreibe`, `flughafen-dashboard-mandantenmemo`, `flughafen-local-counsel-briefen`, `flughafen-mandantenmemo-schreiben`, `flugzeugleasing-local-counsel-briefen`, `flugzeugleasing-mandantenmemo`, `luft-028-airline-local-counsel-briefen`, `luft-030-airline-mandantenmemo-schreiben`, `luft-038-flughafen-local-counsel-briefen`, `luft-040-flughafen-mandantenmemo-schreiben`, `luft-048-flugzeugleasing-local-counsel-briefen`, `luft-050-flugzeugleasing-mandantenmemo-schreibe`, `luft-068-ersatzteillager-local-counsel-briefen`, ... plus 15 weitere |
+| 8. Spezialmodule und Schnittstellen | `acc3-dashboard-bauen`, `acc3-genehmigung-sicherheitsauflage`, `acc3-pfandrecht-vorbereiten`, `acc3-sicherheitsauflage-bewerten`, `acc3-zustaendigkeit-pruefen`, `aircraft-arrest-airline-finanzielle`, `airline-dashboard-bauen`, `airline-finanzielle-leistungsfaehigkei`, `airline-genehmigung-pruefen`, `airline-local-dashboard-bauen`, `airline-sicherheitsauflage-bewerten`, `airline-zustaendigkeit-pruefen`, `aviation-dashboard`, `betriebsgenehmigung-airline`, `bodenabfertigung-dashboard-bauen`, `bodenabfertigung-genehmigung-pruefen`, `bodenabfertigung-pfandrecht-vorbereite`, `bodenabfertigung-pruefe-luftvg`, ... plus 103 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

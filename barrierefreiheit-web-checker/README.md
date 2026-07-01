@@ -58,6 +58,25 @@ Stand: Mai 2026. Rechtsprechung und Behördenpraxis werden nicht aus Modellwisse
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `barrierefreiheits-erstpruefung-und-mandatsziel`, `dokumente-intake`, `einstieg-routing`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `abnahme-formular-portal-und-einreichung`, `bfsg-tatbestand-beweis-und-belege`, `bitv-checkout-beweislast-ecommerce`, `checkout-beweislast-und-darlegungslast`, `erklaerung-interessen-formulare-pdfs`, `formulare-checkout-kontrast-farbe-native-apps`, `formulare-zahlen-schwellen-und-berechnung`, `pdf-formulare-automatisierter-audit-bf`, `pdfs-compliance-dokumentation-und-akte`, `quellen-livecheck`, `remediation-roadmap-dokumentation`, `screenreader-quellenkarte`, `spezial-screenreader-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `bfsg-zeitleiste-ecommerce-checkout-en301549`, `ecommerce-checkout-pruefung-spezial`, `native-apps-ios-android-pruefung`, `spezial-pruefung-sonderfall-und-edge-case`, `wcag-risikoampel-und-gegenargumente`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `en301549-wcag-pruefplan`, `tastatur-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `bfsgv-schulung-fristennotiz-agentur-abnahme`, `schulung-fristennotiz-und-naechster-schritt` |
+| 6. Ergebnis, Schreiben und Kommunikation | `ecommerce-mandantenkommunikation-entscheidungsvorlage`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `audit-barrierefreiheits-bfsg`, `automatisierter-audit-axe-lighthouse`, `barrierefreiheit-fehlerkatalog`, `mandantenkommunikation-redteam-qualitygate`, `spezial-barrierefreiheit-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `agentur-abnahme-vergabe`, `bf-kanzleiwebsite-konkret`, `bf-kiosk-selbstbedienung-mediendienste`, `bf-mediendienste-untertitel-spezial`, `bf-pdf-schriftsaetze-versand`, `erklaerung-feedback-durchsetzung`, `kontrast-farbe-motion-responsive`, `pdf-downloads-remediation-roadmap-schulung`, `roadmap-internationaler-bezug-und-schnittstellen`, `rolle-abschlussprodukt-und-uebergabe`, `schulung-und-rolle-accessibility-champion`, `scope-bfsg-screenreader-semantik-abnahme`, `scope-tastatur-wcag`, `screenreader-semantik-aria`, `sonderfall-edge-roadmap-rolle`, `tastatur-fokus-ueberwachungsstelle`, `ueberwachungsstelle-und-rechtsfolgen`, `usability-test-mit-betroffenen`, ... plus 1 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

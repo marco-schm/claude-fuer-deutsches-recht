@@ -101,6 +101,20 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 Dual-lizenziert MIT und Apache-2.0.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 4. Gestaltung, Strategie und Verhandlung | `03-versorgungsausgleich-vorbereiten` |
+| 5. Verfahren, Behörde und Gericht | `09-beschluss-familiensache-paragraf-38-famfg`, `v392-praxisraster-richter-familiengericht` |
+| 8. Spezialmodule und Schnittstellen | `01-zustaendigkeit-und-zuteilung-familiensache`, `02-ehesache-scheidung-paragraf-1565`, `04-kindschaftssache-elterliche-sorge`, `05-umgangsrecht-paragraf-1684-bgb`, `06-kindesunterhalt-duesseldorfer-tabelle`, `07-ehegattenunterhalt-trennung-und-nachehe`, `08-gewaltschutz-und-eilanordnung`, `10-entscheidungsvorschlag-familienrichter`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

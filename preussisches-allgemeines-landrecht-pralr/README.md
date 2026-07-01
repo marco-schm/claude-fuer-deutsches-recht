@@ -59,6 +59,25 @@ Das PrALR umfasst eine enorme Zahl einzelner Vorschriften. Damit das Plugin im A
 
 Keine Scheinfundstellen, keine OCR-Fundstellen ohne Scan-Gegenprobe, keine Gleichsetzung verschiedener Digitalisate. Für aktuelle Rechtsanwendung: immer Live-Check mit heutiger Norm, Landesrecht und frei zugänglicher Rechtsprechung.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `001-normnavigator-jede-norm-karte`, `001-normnavigator-jede-pralr-norm-als-karte-erschliess`, `anderen-plugins-normnavigator-jede`, `in-anderen-plugins-routen`, `kaltstart-textzeuge-und-ziel`, `kaltstart-triage`, `pralr-001-kaltstart-textzeuge-und-ziel`, `pralr-050-pralr-in-anderen-plugins-routen`, `pralr-neu-001-normnavigator-jede-pralr-norm-karte-erschliessen` |
+| 2. Unterlagen, Sachverhalt und Quellen | `026-zweiter-teil-strafrecht-20-titel-quellenkritisch`, `aktenvermerk-fuer-gericht-oder-gutachten`, `aktenvermerk-gutachten`, `fallloesung-historischer-sachverhalt`, `pralr-003-quellenkritik-fraktur-ocr`, `pralr-035-fallloesung-historischer-sachverhalt`, `pralr-036-quellenmatrix-erstellen`, `pralr-037-aktenvermerk-fuer-gericht-oder-gutachten`, `quellenkritik-fraktur-ocr`, `quellenmatrix-erstellen` |
+| 3. Prüfung, Anspruch und Subsumtion | `003-einleitung-normkarte-allgemeine-rechtsgrundsaetze`, `027-normkarte-altrecht-heutiger`, `028-normkarte-aufopferung`, `028-normkarte-aufopferung-einleitung-74-75-vertieft`, `029-normkarte-nachbarrecht-heutiger`, `030-normkarte-polizeirecht`, `030-normkarte-polizeirecht-ohne-anachronismus`, `031-normkarte-zitat-link`, `031-normkarte-zitat-mit-link-zum-digitalisat`, `gesinderecht-staatshaftung`, `gesinderecht-zeugnis-und-haftung`, `normkarte-altrecht-aufopferung`, `normtext-heutige-fraktur-lesen-fallloesung`, `normtext-heutige-sprache`, `personenrecht-status`, `personenrecht-status-familienrecht-ehe`, `pralr-010-personenrecht-status`, `pralr-018-staatshaftung-aufopferung-einleitung-74-75`, ... plus 209 weitere |
+| 4. Gestaltung, Strategie und Verhandlung | `002-textzeugenvergleich-1794-1804-ausgabe-und-ocr`, `016-erster-teil-titel-13-miete-pacht-dienstvertrag`, `aufwendungsersatz-im-vertrag`, `deliktsrecht-generalklausel`, `editionsvergleich-pdf-digitalisat`, `pralr-002-editionsvergleich-pdf-digitalisat`, `pralr-015-schuldrecht-vertrag-und-form`, `pralr-017-deliktsrecht-generalklausel`, `pralr-029-vergleich-abgb-code-civil-bgb`, `pralr-030-vergleich-roemisches-recht-gemeines-recht`, `pralr-031-vergleich-sachsenspiegel-landrechte`, `pralr-neu-002-textzeugenvergleich-1794-1804-ausgabe-und-ocr`, `schuldrecht-vertrag-deliktsrecht`, `schuldrecht-vertrag-und-form`, `sklavenrecht-rechtsvergleich`, `sklavenrecht-rechtsvergleich-somerset-code-noir`, `vergleich-abgb-code-civil-bgb`, `vergleich-roemisches-recht-gemeines-recht`, ... plus 8 weitere |
+| 5. Verfahren, Behörde und Gericht | `aufopferung-heutiger-schriftsatz`, `gerichtsverfassung`, `gerichtsverfassung-patrimonialgerichte`, `nachbarrecht-heutiger-schriftsatz`, `pralr-045-aufopferung-heutiger-schriftsatz`, `pralr-046-nachbarrecht-heutiger-schriftsatz` |
+| 6. Ergebnis, Schreiben und Kommunikation | `abschlussmemo-historische`, `abschlussmemo-historische-tragfaehigkeit`, `carmer-svarez-klein-redaktion`, `pralr-040-carmer-svarez-klein-redaktion`, `pralr-049-abschlussmemo-historische-tragfaehigkeit` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `pralr-047-red-team-falsche-pralr-behauptungen`, `pralr-048-red-team-ocr-halluzinationen`, `red-team-falsche-behauptungen`, `red-team-ocr-halluzinationen` |
+| 8. Spezialmodule und Schnittstellen | `004-erster-teil-titel-1-personen-und-stand`, `004-erster-titel-1-personen-stand`, `005-erster-titel-2-sachen-rechte`, `006-erster-teil-titel-3-eigentum-besitz-nutzung`, `006-erster-titel-3-eigentum-besitz`, `007-erster-teil-titel-4-willenserklaerungen-und-vertra`, `007-erster-titel-4`, `008-erster-teil-titel-5-vertraege-allgemein-form-und-a`, `008-erster-titel-5-vertraege-a`, `009-erster-teil-titel-6-unerlaubte-handlungen-und-vers`, `009-erster-titel-6-unerlaubte`, `010-erster-titel-7-gewahrsam-besitz`, `011-erster-teil-titel-8-erwerb-eigentum-bewegliche-sac`, `011-erster-titel-8-erwerb-eigentum`, `012-erster-teil-titel-9-grundstuecke-grenzen-nachbarn`, `012-erster-titel-9-grundstuecke`, `013-erster-teil-titel-10-dienstbarkeiten-reallasten`, `013-erster-titel-10-dienstbarkeiten`, ... plus 158 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

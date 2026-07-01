@@ -153,6 +153,25 @@ Einige Features referenzieren externe Integrationen (Dokumentenmanagementsystem,
 Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` gespeichert und überlebt Plugin-Updates – Sie führen das Setup nur einmal aus.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-router`, `ce-kennzeichnung-routenplan`, `dokumente-intake`, `einstieg-routing`, `kaltstart-interview`, `mandat-arbeitsbereich`, `produktmandat-workspace-kontexttrennung`, `produktrechtliche-erstpruefung-und-mandatsziel`, `workflow-anschluss-skills-router`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `belegmatrix-mandantenkommunikation-entscheidungsvorlage`, `impressumspflicht-dokumentenmatrix-und-lueckenliste`, `livecheck-formular-portal-und-einreichung`, `machinery-compliance-dokumentation-und-akte`, `produktlaunch-beweislast-rechtscheck`, `quellen-livecheck`, `rechtsquellen`, `software-quellenkarte`, `spezial-software-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `feature-risikobewertung`, `fristen-risikoampel-mandantenkommunikation`, `launch-livecheck-machinery`, `launch-pruefung`, `prodr-produkthaftung-bauleiter`, `produkthaftung-digital-software-pld-2024-2853`, `produkthaftung-grundlagen-produktsicherheit`, `produkthaftung-produktsicherheit-gpsr-korrektur`, `produkthaftung-reparatur-update-und-lifecycle`, `produktlaunch-rechtscheck`, `produktnutzung-und-claimcheck`, `produktrechtliche-rechtscheck`, `rechtsabteilung-produkthaftungsrichtlinie-ce`, `rechtscheck-sonderfall-und-edge-case`, `review-prodr-produkthaftung-digital`, `werbeaussagen-pruefung` |
+| 4. Gestaltung, Strategie und Verhandlung | `produktbeobachtung-verhandlung-vergleich-und-eskalation`, `right-to-rueckruf-strategie`, `rueckruf-strategie-konzern` |
+| 5. Verfahren, Behörde und Gericht | `nachhaltigkeitsklage-werbeaussagen` |
+| 6. Ergebnis, Schreiben und Kommunikation | `ist-ki-act-marktueberwachung-kommunikation`, `marktueberwachung-kommunikation`, `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `bewertungen-red-team-impressumspflicht`, `chronologie-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `anpassen`, `dual-use-produktrecht`, `eu-produktsicherheitsverordnung-feature`, `impressum-pflicht`, `ki-act-produktintegration`, `pangv-prodr-produktbeobachtung`, `preisangaben`, `prodr-gpsr-cra-fitness-spezial`, `prodr-machinery-produktrueckruf`, `prodr-produktrueckruf-leitfaden`, `prodr-zahlen-schwellen-und-berechnung`, `produktbeobachtung-feldueberwachung`, `produktbeobachtung-software-produktrecht`, `rechtsabteilung-cybersecurity-digitale`, `rechtsabteilung-digitale-elemente-im-kaufrecht`, `rechtsabteilung-right-to-repair-im-geraetevertrieb`, `rechtsabteilung-rueckrufmanagement-repair-by`, `regulation-interessen-werbeaussagen`, ... plus 2 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

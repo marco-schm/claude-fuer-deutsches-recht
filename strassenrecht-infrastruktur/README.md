@@ -52,6 +52,23 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt kei
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-strassenrechtsfall`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenplan-infrastruktur`, `autobahn-dokumente-sortieren`, `bruecke-dokumente-sortieren`, `bundesstrasse-dokumente-sortieren`, `bundesstrasse-unterhaltung-dokumente`, `eilrechtsschutz-aktenplan-infrastruktur`, `gemeindestrasse-dokumente-sortieren`, `kreisstrasse-dokumente-sortieren`, `kreisstrasse-unterhaltung-dokumente`, `landesstrasse-dokumente-sortieren`, `ortsdurchfahrt-dokumente-sortieren`, `ortsdurchfahrt-unterhaltung-dokumente`, `tunnel-dokumente-sortieren`, `tunnel-unterhaltung-dokumente` |
+| 3. Prüfung, Anspruch und Subsumtion | `landesstrassengesetz-livecheck` |
+| 4. Gestaltung, Strategie und Verhandlung | `autobahn-planrecht-pruefen`, `autobahn-widmung-planrecht-sondernutzung`, `bruecke-planrecht-pruefen`, `bruecke-widmung-planrecht-sondernutzung`, `bundesstrasse-planrecht-pruefen`, `gemeindestrasse-planrecht-pruefen`, `gemeindestrasse-widmung-planrecht`, `kreisstrasse-planrecht-pruefen`, `landesstrasse-planrecht-pruefen`, `landesstrasse-widmung-planrecht`, `ortsdurchfahrt-planrecht-pruefen`, `planfeststellung-strasse-plangenehmigung`, `plangenehmigung-und-uvp`, `str-023-autobahn-planrecht-pruefen`, `str-033-bundesstrasse-planrecht-pruefen`, `str-043-landesstrasse-planrecht-pruefen`, `str-053-kreisstrasse-planrecht-pruefen`, `str-063-gemeindestrasse-planrecht-pruefen`, ... plus 4 weitere |
+| 5. Verfahren, Behörde und Gericht | `autobahn-eilantrag-kostenlast`, `bruecke-eilantrag-kostenlast-unterhaltung`, `bundesstrasse-eilantrag-skizzieren`, `gemeindestrasse-eilantrag-kostenlast`, `kreisstrasse-eilantrag-skizzieren`, `landesstrasse-eilantrag-kostenlast`, `ortsdurchfahrt-eilantrag-skizzieren`, `tunnel-eilantrag-skizzieren` |
+| 8. Spezialmodule und Schnittstellen | `anliegergebrauch-abgrenzen`, `autobahn-baulast-pruefen`, `autobahn-dashboard-bundesstrasse`, `autobahn-einwendung-bauen`, `autobahn-kostenlast-pruefen`, `autobahn-sondernutzung-formulieren`, `autobahn-unterhaltung-ruegen`, `baustelle-verkehrsfuehrung`, `bruecke-baulast-pruefen`, `bruecke-dashboard-tunnel-baulast-widmung`, `bruecke-einwendung-bauen`, `bruecke-kostenlast-pruefen`, `bruecke-sondernutzung-formulieren`, `bruecke-und-tunnel`, `bruecke-unterhaltung-ruegen`, `bundesfernstrasse-landesstrasse`, `bundesstrasse-baulast-pruefen`, `bundesstrasse-dashboard-erstellen`, ... plus 61 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

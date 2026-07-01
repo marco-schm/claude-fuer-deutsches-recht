@@ -110,6 +110,25 @@ prozessrecht/
 Alle Ausgaben des Plugins sind **Entwürfe zur anwaltlichen Prüfung**. Das Plugin ersetzt keine Rechtsberatung und trifft keine Entscheidungen. Berufsrechtliche Pflichten nach BRAO, BORA, RVG und die anwaltliche Verschwiegenheit nach § 43a Abs. 2 BRAO bleiben unberührt. Für die Überprüfung und Freigabe jedes Dokuments ist stets der verantwortliche Anwalt zuständig.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `kaltstart-interview`, `mandat-aktualisierung`, `mandat-arbeitsbereich`, `mandat-arbeitsbereich-abschnitt`, `mandat-aufnahme`, `mandat-briefing-schliessen-portfolio-status`, `mandat-mandate-prozessrecht`, `mandat-schliessen`, `mandate-tatbestand-beweis-und-belege`, `prozessmandat-dokumente-fristen-aufgaben-workspace`, `start-chronologie-fristen`, `strafverteidigung-ersttermin`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `anspruchstabelle-beweislast`, `beweissicherung-einstweilige-verfuegung`, `mahnbescheid-dokumentenmatrix-und-lueckenliste`, `proz-beweismittel-leitfaden-mediationsklage`, `proz-quellenkarte`, `quellen-livecheck`, `spezial-proz-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `anspruchstabelle`, `anspruchstabelle-gegenseite-interessen`, `anwaltsgeheimnis-pruefung`, `eilverfahren-risikoampel-und-gegenargumente`, `gegenseite-status-mahnbescheid-mahnschreiben`, `portfolio-status`, `prozessrechtliche-schriftsaetze-status`, `status-internationaler-bezug-und-schnittstellen`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `prozessrecht-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `amtlicher-zpo-proz-bauleiter-eilverfahren`, `einstweilige-verfuegung`, `kostenfeststellungsklage-verzugsschaden-erledigung`, `mahnbescheid`, `proz-mediationsklage-guete-spezial`, `schriftsaetze-schriftsatz-brief-und-memo-bausteine`, `schriftsatz-abschnitt`, `streitwert-verkehrsunfall-vollstreckung`, `verfahrensart-rechtsweg`, `verfahrensart-rechtsweg-zustaendigkeit`, `vollstreckung`, `vollstreckung-stpo-biometrischer` |
+| 6. Ergebnis, Schreiben und Kommunikation | `mahnschreiben-aufnahme`, `mahnschreiben-entwurf-anwaltsgeheimnis`, `mahnschreiben-erhalten-aktualisierung`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `argumentationsverbesserung-red-team`, `gegenseite-mehrparteien-konflikt-und-interessen` |
+| 8. Spezialmodule und Schnittstellen | `bea-wiedereinsetzung-ersatzeinreichung-2026`, `chronologie`, `proz-prozessfinanzierung-spezial`, `proz-zustaendigkeit-bauleiter`, `spezial-zustaendigkeit-zahlen-schwellen-und-berechnung`, `stpo-biometrischer-internetabgleich-und-ki-ermittlung`, `verkehrsunfall`, `vorlageanordnung-zeuge-vorbereitung`, `zeuge-vorbereitung`, `zustaendigkeit-zahlen-schwellen-und-berechnung` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -67,6 +67,24 @@ Es liefert Skills zu:
 
 Starten Sie mit `anfaenger-workflow-amtsgericht`, wenn Sie geführt werden möchten. Nutzen Sie `orientierung-selbstvertreter-amtsgericht`, wenn Sie nur eine schnelle Triage wollen, und `sanity-check-selbstvertretung-amtsgericht`, bevor etwas an das Gericht geht.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage`, `orientierung-selbstvertreter-amtsgericht` |
+| 2. Unterlagen, Sachverhalt und Quellen | `augenscheinsbeweis-371-zpo`, `beweislast-grundregel-wer-was`, `beweismittel-vorab-sammeln-checkliste`, `dokumenten-erzeugung-pdf-laien-amtsgericht`, `kein-beweis-folgen-laienwarnung`, `klageschrift-beweisangebote-einbauen-373-zpo`, `muendliche-verhandlung-akten-griffbereit`, `sachverstaendigenbeweis-402-zpo`, `urkundenbeweis-415-ff-zpo`, `zeugenbeweis-373-ff-zpo` |
+| 3. Prüfung, Anspruch und Subsumtion | `anspruchsgrundlage-finden-laienhilfe`, `klageerwiderung-checkliste-alle-punkte`, `kostenrisiko-streitwert-berechnen-gkg`, `sanity-check-selbstvertretung-amtsgericht`, `tatbestand-zerlegen-anspruchspruefung-laien`, `terminvorbereitung-checkliste`, `vorabklaerung-erfolgsaussichten-selbstcheck`, `zulassungsgrenzen-check-amtsgericht` |
+| 4. Gestaltung, Strategie und Verhandlung | `klageschrift-tatsachenvortrag-strukturieren`, `vergleich-richtervorschlag-278-ii-zpo`, `video-verhandlung-128a-zpo`, `vollstreckungsklausel-724-zpo` |
+| 5. Verfahren, Behörde und Gericht | `anfaenger-workflow-amtsgericht`, `anlagen-formatieren-k1-k2-pdf-amtsgericht`, `aussergerichtliche-mahnung-286-bgb`, `beratungshilfe-aussergerichtlich-brh`, `berufung-amtsgericht-511-zpo`, `einreichung-rechtsantragsstelle-selbst`, `fristbeginn-zustellung-protokollieren`, `fristen-berechnen-187-188-bgb`, `fristen-buch-fuehren-laien`, `fristverlaengerung-antrag-225-zpo`, `gegnerische-vollstreckung-abwehr`, `gerichtskostenvorschuss-12-gkg`, `klage-streitwert-angabe-3-zpo`, `klage-vereinfachtes-verfahren-495a-zpo`, `klage-zusammenstellen-komplettes-bundle`, `klage-zusammenstellen-komplettes-bundle-amtsgericht`, `klageerwiderung-fristen-274-zpo`, `klageerwiderung-replik-anlagen-b1-b2`, ... plus 22 weitere |
+| 7. Kontrolle, Qualität und Gegenprüfung | `typische-laien-fehler` |
+| 8. Spezialmodule und Schnittstellen | `anwaltszwang-pruefen-78-zpo`, `ausnahmen-streitwertgrenze-23-nr-2-gvg`, `berufungs-zulassung-niedrig-streitwert`, `dolmetscher-185-gvg`, `duplik-nach-replik`, `eidesstattliche-versicherung-294-zpo`, `einreden-aktiv-geltend-machen`, `einreichung-130a-zpo-elektronisch-buerger`, `einreichung-fax-und-grenzen`, `einreichung-mein-justizpostfach-mjp-2024`, `einreichung-papierform-mit-abschriften`, `kostenfestsetzung-103-104-zpo`, `ladung-termin-216-zpo`, `oertliche-zustaendigkeit-12-37-zpo`, `parteivernehmung-445-ff-zpo`, `pkh-bewilligung-ablehnung-folgen`, `pkh-ratenzahlung-bewilligung`, `prozesskostenhilfe-pkh-114-zpo`, ... plus 6 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

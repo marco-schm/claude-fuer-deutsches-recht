@@ -58,6 +58,25 @@ Dieses Plugin soll keine nicht prüfbaren Fundstellen produzieren. Bei unsichere
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `disziplinarverfahren-intake`, `kaltstart-bundeswehrrecht`, `kaltstart-triage`, `wehrpflicht-wehrdienst-reservist-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `akteneinsicht-wbo-arbeitsrecht-zivile`, `akteneinsicht-wbo-wdo`, `auslandseinsatz-anerkennung-und-nachweise`, `bwbes-neu-001-soldatenbesoldung-grundgehalt-und-dienstgrad`, `bwbes-neu-007-soldatenversorgung-dienstunfall-wehrdienstbeschaed`, `bwbes-neu-014-auslandseinsatz-anerkennung-und-nachweise`, `einsatz-unfall-versorgung-dokumentenplan`, `gleichstellung-diskriminierung-soldatinnen-soldaten`, `nebentaetigkeit-geschenkannahme-personalakte`, `personalakte-einsicht-datenschutz`, `soldatenbesoldung-grundgehalt-und-dienstgrad`, `soldatenbeteiligung-vertrauensperson-sbg`, `soldatengesetz-rechtsstellung`, `soldatenversorgungsgesetz-beschaedigtenversorgung` |
+| 3. Prüfung, Anspruch und Subsumtion | `beschwerde-fristen-sofortcheck`, `beschwerde-sofortcheck-bwbes`, `bwbes-neu-011-kdv-und-besoldungsfolgen-bei-statuswechsel`, `geheimschutz-sicherheitsueberpruefung-sueg`, `kdv-und-besoldungsfolgen-bei-statuswechsel`, `livecheck-sg-mandantenbrief-soldat-mobbing`, `livecheck-sg-wbo-wdo-wpflg-svg`, `status-soldat-beamter-zivilbeschaeftigter-klaeren`, `statusrechte-einsatz-trennungsgeld`, `statusrechte-im-einsatz-urlaub-betreuung` |
+| 4. Gestaltung, Strategie und Verhandlung | `bwbes-neu-002-wehrsold-freiwilliger-wehrdienst-unterhalt`, `bwbes-neu-009-besoldung-reservist-wehruebung-ag-ausgleich`, `wehrsold-freiwilliger-wehrdienst-und-unterhaltssicherung` |
+| 5. Verfahren, Behörde und Gericht | `beschwerde-besoldung-zulagen-beurteilung`, `besoldungswiderspruch-soldat-und-fristen`, `beurteilung-konkurrentenstreit-auswahlentscheidung`, `bundesverwaltungsgericht-wehrdienstsenate`, `bwbes-neu-010-besoldungswiderspruch-soldat-und-fristen`, `eilverfahren-konkurrentenstreit`, `entlassung-auf-eigenen-antrag`, `fristenkalender-bundeswehrrecht`, `gerichtliches-disziplinarverfahren-soldat`, `kriegsdienstverweigerung-verfahren`, `output-beschwerde-antrag-stellungnahme`, `rechtsbeistand-im-disziplinarverfahren`, `truppendienstgericht-zustaendigkeit-verfahren`, `wehruebungen-heranziehungsbescheid`, `wehruebungen-heranziehungsbescheid-weitere`, `weitere-beschwerde-und-gerichtlicher-antrag-wehrdienstgericht` |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandantenbrief-soldat-verstaendlich` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `red-team-bundeswehr-beschwerde` |
+| 8. Spezialmodule und Schnittstellen | `aerztliche-begutachtung-dienstfaehigkeit`, `arbeitsrecht-zivile-bundeswehrbeschaeftigte`, `ausbildung-studium-bundeswehr-rueckforderung-ausbildungskosten`, `auslandseinsatz-einsatzregeln-beamtenrecht`, `beamtenrecht-bundeswehrverwaltung-abgrenzung`, `befehl-verweigern-gewissensnot-rechtswidrigkeit`, `besoldung-zulagen-auslandsverwendungszuschlag`, `bwbes-auslandsverwendungszuschlag`, `bwbes-besoldung-reservist-kriegsdienstverweigerung`, `bwbes-dienstzeitversorgung`, `bwbes-neu-003-auslandsverwendungszuschlag-und-einsatzversorgung`, `bwbes-neu-004-trennungsgeld-umzugskosten-reisebeihilfe`, `bwbes-neu-005-erschwerniszulagen-militaerischer-dienst`, `bwbes-neu-006-dienstzeitversorgung-berufsfoerderungsdienst`, `bwbes-neu-007-versorgung-dienstunfall-wehrdienstschaden`, `bwbes-neu-008-heilfuersorge-truppenaerztliche-versorgung-und-pkv`, `bwbes-neu-012-disziplinarbusse-kuerzung-und-besoldung`, `bwbes-neu-013-verwendung-tauglichkeit-finanz-folgen`, ... plus 39 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

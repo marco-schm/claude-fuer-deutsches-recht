@@ -63,6 +63,25 @@ Folgt `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH-Pinpoint mit Rn., Hier
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-miet-wohnungseigentumsrecht-orientierung`, `orientierung-mandantenkommunikation-entscheidungsvorlage`, `orientierung-miet-weg-fristen`, `spezial-orientierung-mandantenkommunikation-entscheidungsvorlage`, `weg-output-router`, `workflow-anschluss-skills-router`, `workflow-bauliche-veraenderung-routing`, `workflow-co2-kosten-routing`, `workflow-geg-waermepumpe-routing`, `workflow-gewerberaum-intake`, `workflow-hausverwaltung-intake`, `workflow-kaltstart-und-routing`, `workflow-mieter-intake`, ... plus 6 weitere |
+| 2. Unterlagen, Sachverhalt und Quellen | `belegeinsicht-betriebskosten`, `beschlussanfechtung-compliance-dokumentation-und-akte`, `fao-dokumentenmatrix-und-lueckenliste`, `kanzlei-formular-portal-und-einreichung`, `kuendigung-quellenkarte`, `miet-tatbestand-beweis-und-belege`, `mietrecht-beweislast-und-darlegungslast`, `quellen-livecheck`, `rechtsquellen`, `schimmel-beweis-gutachten`, `spezial-belegeinsicht-betriebskosten`, `spezial-beschlussanfechtung-compliance-dokumentation-und-akte`, `spezial-fao-dokumentenmatrix-und-lueckenliste`, `spezial-kuendigung-livequellen-und-rechtsprechungscheck`, `spezial-miet-tatbestand-beweis-und-belege`, `spezial-mietrecht-beweislast-und-darlegungslast`, `spezial-schimmel-beweis-gutachten`, `spezial-weg-datenschutz-kamera`, ... plus 10 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `bgb-risikoampel-und-gegenargumente`, `miet-betriebskostenabrechnung-checkliste`, `spezial-weg-beirat-haftung`, `weg-beirat-haftung`, `workflow-fristen-und-risikoampel`, `workflow-kuendigung-zugang-check`, `workflow-risikoampel-raeumung` |
+| 4. Gestaltung, Strategie und Verhandlung | `haerteklausel-paragraf-574-bgb`, `haustiere-mietvertrag`, `kleinreparaturklausel`, `mieterhoehung-verhandlung-vergleich-und-eskalation`, `mietrecht-einfuehrung-vertragstypen`, `mietvertrag-agb-klauseln`, `spezial-haustiere-mietvertrag`, `spezial-kleinreparaturklausel`, `spezial-mieterhoehung-verhandlung-vergleich-und-eskalation`, `spezial-mietvertrag-agb-klauseln`, `spezial-weg-ladeinfrastruktur`, `spezial-weg-wirtschaftsplan`, `spezial-zeitmietvertrag`, `vergleichsverhandlung-strategie`, `weg-ladeinfrastruktur`, `weg-wirtschaftsplan`, `workflow-vergleichsfenster-mietstreit`, `zeitmietvertrag` |
+| 5. Verfahren, Behörde und Gericht | `abrechnungsfrist-nachforderung`, `beschlussanfechtung-spezial-fristen`, `erhalt-fristennotiz-und-naechster-schritt`, `fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44`, `fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung`, `fristlose-kuendigung-stoerung`, `gewerberaummiete-schriftsatz-brief-und-memo-bausteine`, `nebenkostenabrechnung-fristen-bgh-viii-zr-25-21`, `raeumungsklage-aufbau`, `schriftsatzkern-substantiierung`, `spezial-abrechnungsfrist-nachforderung`, `spezial-erhalt-fristennotiz-und-naechster-schritt`, `spezial-fristlose-kuendigung-stoerung`, `spezial-gewerberaummiete-schriftsatz-brief-und-memo-bausteine`, `spezial-raeumungsklage-aufbau`, `spezial-vollstreckungsschutz-raeumung`, `spezial-weg-beschlusskompetenz`, `spezial-weg-beschlusssammlung`, ... plus 21 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `spezial-weg-verwaltungsbeirat-kommunikation`, `weg-verwaltungsbeirat-kommunikation`, `workflow-mandantenbrief-einfach`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `spezial-waermepumpe-red-team-und-qualitaetskontrolle`, `waermepumpe-red-team-und-qualitaetskontrolle`, `workflow-abschlusskontrolle-miet-weg`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `antennen-satellitenschuessel`, `aufrechnung-zurueckbehaltung`, `aufzugskosten`, `balkon-terrasse-garten`, `barrierefreiheit-mietwohnung`, `baurecht-schnittstelle-miete`, `berliner-raeumung`, `betriebskosten-formell`, `betriebskosten-materiell`, `betriebskostenverordnung-anlage-3`, `betrkv-mehrparteien-konflikt-und-interessen`, `co2kostenaufteilung`, `diskriminierung-agg-vermietung`, `ehe-trennung-mietwohnung`, `eigenbedarf-personenkreis`, `eigenbedarfskuendigung`, `energieausweis-mietrecht`, `erhaltung-vs-modernisierung`, ... plus 239 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

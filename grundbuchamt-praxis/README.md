@@ -55,6 +55,25 @@ Starte mit dem allgemeinen Skill `grundbuchamt-allgemeiner-kaltstart`. Lade dana
 - Beschwerde- oder Eilrechtsschutz-Skizze
 - Liste fehlender Originale, Nachweise und Formmängel
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `grundbuchamt-maengelmatrix-notariat`, `grundbuchauszug-due-lesen-abteilung`, `grundbuchauszug-lesen-abteilung-i-ii-iii` |
+| 3. Prüfung, Anspruch und Subsumtion | `amtshaftung-und-vollzugsfehler`, `grundbuchamt-nichtigkeitsrisiko-kaufvertrags`, `kaufvertrags-check-grundbuch` |
+| 4. Gestaltung, Strategie und Verhandlung | `auflassungsvormerkung-kaufvertrag`, `reallast-erbbauzins-sanierungsvermerk`, `sanierungsvermerk-und-vorkaufsrechte-kommune` |
+| 5. Verfahren, Behörde und Gericht | `aufgebotsverfahren-famfg`, `familiengerichtliche-genehmigung-grundbuch`, `gbo-antrag-gbr-egbr-genehmigungen`, `grundbuch-vollzugslog-amtswiderspruch`, `grundbuchamt-amtswiderspruch-und-richtigstellung`, `grundbuchamt-vollstreckungsunterwerfung`, `nacherbenvermerk-und-verfuegungsbeschraenkung`, `rechtsprechung-grundbuch-aufgebotsverfahren`, `weg-teilungsgrundbuch-zwischenverfuegung`, `zwischenverfuegung-paragraph-18-gbo` |
+| 6. Ergebnis, Schreiben und Kommunikation | `bestandsverzeichnis-flurstueck-briefrecht`, `briefrecht-abtretung-und-loeschung`, `grundbuchamt-brief-vs-buchrecht-erklaerung`, `grundbuchamt-kommunikation-konkurrierende`, `grundbuchberichtigung-erbfall`, `grundschuldbrief-verlust-aufgebot`, `insolvenzvermerk-zwangsversteigerung-kataster`, `loeschungsbewilligung-bank-nacherbenvermerk` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `grundbuch-qualitygate-vor-vollzug` |
+| 8. Spezialmodule und Schnittstellen | `abteilung-i-eigentum-und-erwerbsgrund`, `abteilung-ii-iii-grundschuld-auflassung`, `abteilung-iii-grundschuld-hypothek-rang`, `auflassung-und-eigentumsumschreibung`, `auslandsurkunden-apostille-baulast-ist`, `baulast-ist-nicht-grundbuch`, `beschwerde-grundbuchsache`, `dienstbarkeit-wegerecht-pruefen`, `elektronischer-rechtsverkehr`, `finanzierung-und-rangstelle`, `gbr-egbr-grundbuch`, `genehmigungen-landwirtschaft-verkehrswert`, `grundbuch-grunderwerbsteuer-unbedenklichkeit`, `grundbuchamt-eilfall-rangverlust-erbbaurecht`, `grundbuchamt-erbbaurecht-schnittstelle`, `grundbuchamt-flurbereinigung-und-umlegung`, `grundbuchamt-gesamtgrundschuld-mithaft`, `grundbuchamt-gesellschaftsrechtliche-vertretung`, ... plus 17 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

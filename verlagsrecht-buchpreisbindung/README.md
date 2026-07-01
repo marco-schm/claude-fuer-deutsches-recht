@@ -43,6 +43,23 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 - VG Wort, Metadaten, ISBN, Vertrieb, Remission
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage`, `verl-001-kaltstart-verlagsmandat-werk-vertrag-vertrieb-preis`, `verl-044-verlagsgesetz-paragraphen-navigator`, `verlagsmandat-werk-vertrag-vertrieb` |
+| 2. Unterlagen, Sachverhalt und Quellen | `muster-buchpreisfreigabe-dokumentation`, `onlineportal-paywall-datenbankrecht-schnittstelle`, `verl-016-isbn-metadaten-vlb-und-meldeprozesse`, `verl-020-plagiat-manuskript-und-quellenpruefung`, `verl-022-fachbuch-aktualisierung-loseblatt-und-online-datenbank`, `verl-036-onlineportal-paywall-datenbankrecht-schnittstelle`, `verl-042-preisbindungsstreit-unterlassung-und-auskunft`, `verl-049-muster-buchpreisfreigabe-dokumentation` |
+| 3. Prüfung, Anspruch und Subsumtion | `fachzeitschrift-peer-review-und-haftung`, `verl-029-fachzeitschrift-peer-review-und-haftung` |
+| 4. Gestaltung, Strategie und Verhandlung | `buchhandelsvertrag-konditionen-und-remission`, `druckvertrag-buchhandelsvertrag`, `redaktionsvertrag-freelancer-und-arbeitnehmer`, `verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung`, `verl-023-redaktionsvertrag-freelancer-und-arbeitnehmer`, `verl-024-druckvertrag-papier-krise-lieferverzug`, `verl-032-buchhandelsvertrag-konditionen-und-remission`, `verl-034-hoerbuch-sprechervertrag-leistungsschutzrechte`, `verlagsvertrag-redaktionsvertrag` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `muster-autorenvertrag-red-team`, `muster-herausgebervertrag-red-team`, `presserecht-gegendarstellung-und-unterlassung`, `verl-031-presserecht-gegendarstellung-und-unterlassung`, `verl-038-auslandsrechte-sanktionen-exportkontrolle`, `verl-047-muster-autorenvertrag-red-team`, `verl-048-muster-herausgebervertrag-red-team`, `verl-050-qualitaetsgate-verlagsakte` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-buchpreisbindung`, `auslandsrechte-rezensionsexemplar`, `autor-herausgeber-mitwirkende-rechtekette`, `autorenkuendigung-verlagsagentur`, `bibliothekslizenz-autor`, `bildrechte-ki`, `buchmesse-nachlassverwaltung`, `buchpreisbindung-ladenpreis-festsetzen`, `e-book-preisbindung-und-plattformrabatte`, `e-uebersetzungsrechte`, `fachbuch-verlagsinsolvenz`, `hoerbuch-fachzeitschrift`, `honorar-vorschuss-absatzhonorar-und-abrechnung`, `isbn-vg`, `ki-generierte-inhalte-im-verlag`, `kuendigung-wegen-nichtausuebung`, `maengelexemplar-remittenden-und-preisbindung`, `manuskriptablieferung-honorar`, ... plus 51 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

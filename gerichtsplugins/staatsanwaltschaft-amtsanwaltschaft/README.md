@@ -125,6 +125,22 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 Dual-lizenziert MIT und Apache-2.0.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 2. Unterlagen, Sachverhalt und Quellen | `01-akte-erstdurchsicht-und-anfangsverdacht` |
+| 4. Gestaltung, Strategie und Verhandlung | `19-sitzungsdienst-und-fragerecht-hauptverhandlung` |
+| 5. Verfahren, Behörde und Gericht | `04-durchsuchung-und-beschlagnahme-antrag`, `05-haftbefehlsantrag-und-untersuchungshaft`, `13-strafbefehlsantrag-paragraf-407`, `14-anklageschrift-paragraf-200`, `15-antrag-beschleunigtes-verfahren-paragraf-417`, `16-sicherungsverfahren-und-massregeln`, `22-strafvollstreckung-paragraf-451`, `23-klageerzwingung-und-beschwerdebescheid-paragraf-172`, `24-abschlussverfuegung-und-entscheidungsvorschlag`, `25-adhaesionsverfahren-paragraf-403`, `26-opferschutz-nebenklage-und-verletztenrechte` |
+| 6. Ergebnis, Schreiben und Kommunikation | `07-telekommunikationsueberwachung-und-verdeckte-massnahmen` |
+| 8. Spezialmodule und Schnittstellen | `02-zustaendigkeit-sta-und-amtsanwaltschaft`, `03-ermittlungsfuehrung-und-ermittlungsanweisung`, `06-vorlaeufige-festnahme-und-eilkompetenz`, `08-beschuldigtenvernehmung-und-belehrung`, `09-sachverstaendige-und-koerperliche-untersuchung`, `10-einstellung-mangels-tatverdacht-paragraf-170`, `11-einstellung-aus-opportunitaet-paragraf-153-und-153a`, `12-teileinstellung-paragraf-154-und-154a`, `17-einziehung-und-vermoegensabschoepfung`, `18-jugendsache-und-diversion-paragraf-45-jgg`, `20-plaedoyer-und-schlussvortrag-paragraf-258`, `21-rechtsmittel-der-staatsanwaltschaft`, `27-wiederaufnahme-zuungunsten-paragraf-362`, `28-internationale-rechtshilfe-und-eu-haftbefehl`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker`, `v392-praxisraster-staatsanwaltschaft-amtsanwaltschaft` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

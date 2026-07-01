@@ -225,6 +225,25 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 Das Plugin bildet Arbeitsabläufe und Sicherheitsgatter ab. Es ersetzt keine Fristenkontrolle durch Berufsträger, keine Kanzleisoftware und keine Prüfung der Zulässigkeit konkreter Kommunikation im Einzelfall.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `einstieg-routing`, `hr-personal-kanzlei-intake`, `intake`, `kaltstart-routing`, `kaltstart-routing-triage`, `kanzlei-cowork-kaltstart-interview`, `look-feel-mandatsannahme-gwg`, `mandatsannahme-gwg`, `mandatsvereinbarung-postlauf`, `posteingang-ausgang-sekretariats-tagesbrief`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `akte-anlegen-und-aktenzeichen-zuordnen`, `aktenbestand-pflege-bea-versand`, `aktenzeichen`, `kanzlei-rechtsprechungsrecherche-fristenbuch`, `mandantenakte-anlegen-mandantenbrief-vorlagen`, `timesheet-aktenzeitung-umgang-ki`, `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten` |
+| 3. Prüfung, Anspruch und Subsumtion | `versand-check-weihnachtskarten` |
+| 4. Gestaltung, Strategie und Verhandlung | `monitor-vertragsentwurf`, `vertragsentwurf` |
+| 5. Verfahren, Behörde und Gericht | `fristenbuch-fuehren`, `handelsregisterabruf` |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandantenbrief-vorlagen`, `output-versand`, `sekretariats-tagesbrief` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `qualitaetsgate-hardening-kanzlei` |
+| 8. Spezialmodule und Schnittstellen | `abwesenheiten-urlaub`, `bea-journal`, `bea-versand-pruefen`, `buchhaltung-konten-kanzlei-erechnung`, `erechnung`, `freundlicher-copilot-kanzlei`, `geburtstage-feiertage-abwesenheiten-urlaub`, `integrationen-simulation-kanzlei`, `kanzlei-automationen-bea-journal`, `kanzleikalender`, `kanzleitag-simulation-kanzlei`, `ki-arbeitsauftrag-mahnwesen-honorar`, `kommandocenter`, `lohn-sv-kanzlei-rechnung`, `mahnwesen-honorar`, `postlauf`, `rechnung`, `rechnungserstellung-rvg`, ... plus 6 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

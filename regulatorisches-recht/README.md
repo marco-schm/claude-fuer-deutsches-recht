@@ -109,6 +109,24 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/reg
 Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/CLAUDE.md` gespeichert und überlebt Plugin-Updates – die Einrichtung wird nur einmal durchgeführt.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-router`, `aufsichtsrecht-erstpruefung-und-mandatsziel`, `dokumente-intake`, `einstieg-routing`, `kaltstart-interview`, `mandat-arbeitsbereich`, `regulatorik-mandatssteckbrief-behoerden-fristen`, `workflow-anschluss-skills-router`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aufsichtsverfahren-formular-portal-und-einreichung`, `feeds-compliance-dokumentation-und-akte`, `inkasso-rdg-luecken-mar-mifid`, `luecken`, `luecken-aufzeiger`, `quellen-livecheck`, `rdg-quellenkarte`, `regulatorisches-stellungnahmen-beweislast`, `spezial-feeds-compliance-dokumentation-und-akte`, `spezial-rdg-livequellen-und-rechtsprechungscheck`, `stellungnahmen-beweislast-und-darlegungslast`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste`, `wphg-tatbestand-beweis-und-belege` |
+| 3. Prüfung, Anspruch und Subsumtion | `dora-ikt-vertragspruefung`, `fristen-risikoampel-mandantenkommunikation`, `heilmwerbg-risikoampel-und-gegenargumente`, `wpig-und-zag-pruefung` |
+| 5. Verfahren, Behörde und Gericht | `aufsichtsverfahren-anhoerung-gwg`, `gwg-fristen-form-und-zustaendigkeit`, `interview-fristennotiz-aufsichtssanktion`, `umsatzsteuer-behoerden-gericht-und-registerweg`, `voranmeldung-schriftsatz-brief-und-memo-bausteine` |
+| 6. Ergebnis, Schreiben und Kommunikation | `aufsichtskommunikation-grundregeln`, `massnahme-mandantenkommunikation-entscheidungsvorlage`, `output-waehlen`, `spezial-massnahme-mandantenkommunikation-entscheidungsvorlage`, `stellungnahmen`, `ustva-aufsichtskommunikation-grundregeln-dora`, `wochendigest-interessen-wphg-stellungnahmen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `anhoerung-red-team-und-qualitaetskontrolle`, `spezial-anhoerung-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `aufsichts-feed-monitor`, `aufsichtssanktion-revision-spezial`, `dora-stellvertreter-und-konzern`, `enwg-feeds-heilmwerbg`, `inkasso-massnahme-regulator`, `mar-mifid-eltif-uebergreifend`, `regr-dora-resilienz`, `regr-finanzdienstleistungsregulierung-bauleiter`, `regr-mica-kryptoassets-spezial`, `regr-mifid2-regrecht-einfuehrung-internal`, `regrecht-einfuehrung-sektoren`, `regrecht-internal-policies-design`, `regulator-zahlen-schwellen-und-berechnung`, `regulatorisches-richtlinien-neufassung`, `richtlinien-anhoerung-red-aufsichtsrecht`, `richtlinien-neufassung`, `sonderfall-edge-case` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

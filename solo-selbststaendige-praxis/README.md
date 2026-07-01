@@ -56,6 +56,25 @@ Starte mit `solo-allgemeiner-kaltstart`. Lade, wenn vorhanden, Behördenbriefe, 
 
 Grenzwerte, Formulare, Fristen und Förderbedingungen ändern sich. Das Plugin soll deshalb bei aktuellen Zahlen immer auf amtliche Quellen verweisen und unsichere Annahmen ausdrücklich markieren. Keine Blindzitate, keine Paywall-Literatur als Scheinbeleg.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `euer-starten`, `kaltstart-routing`, `neustart-checkliste-newsletter`, `online-shop-kleinstart`, `pauschalpreis-risiko-personalakte-kleinstart`, `personalakte-kleinstart`, `problem-sortieren-profimodus-schnelltriage`, `profimodus-schnelltriage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `beleganforderung`, `beweisakte-fuer-streit`, `beweisvorsorge`, `datenpanne-kleinbetrieb`, `geschaeftskonto-zahlungsfluss`, `kundenakten-datenschutz-solo-kundenupdate`, `quellensteuer-ausland`, `screenshots-fotos-rechte-daten`, `steuerluecke-erkennen-steuernummer-ust`, `toolwechsel-und-datenexport`, `website-impressum-datenschutz`, `zahlungsziel-und-skonto` |
+| 3. Prüfung, Anspruch und Subsumtion | `barzahlung-und-kassenrisiko`, `beratungshaftung`, `betriebspruefung-kleinunternehmen`, `bewertungen-und-rezensionen`, `digital-nomad-risiko`, `drv-statusfeststellung-paragraph-7a`, `ein-auftraggeber-risiko`, `fremdmaterial-check`, `haftungsbegrenzung-klauseln`, `insolvenzrisiko-einzelunternehmer`, `mobile-arbeitsweise-monatlicher-rechtscheck`, `monatlicher-rechtscheck`, `negative-bewertung-nach-streit`, `produkthaftung-kleinhersteller`, `risikomemo-auftraggeber-risikoregister`, `risikoregister`, `statuscheck-sgb-iv-paragraph-7`, `veranstaltung-workshop-risiko` |
+| 4. Gestaltung, Strategie und Verhandlung | `altersvorsorge-mindestplan-angebot-auftrag`, `deutsch-englischer-vertrag`, `kostenstop-und-sparplan`, `kundenvertrag-b2b`, `lizenzvertrag-mini`, `ordnerstruktur`, `prioritaetenplan-erste-14-tage`, `streitpraevention-klauseln`, `subunternehmervertrag`, `verbrauchervertrag-b2c-vertragsdurchsetzung`, `vergleich-kleinfall`, `vertragsdurchsetzung-ausland`, `wochen-liquiditaetsplan` |
+| 5. Verfahren, Behörde und Gericht | `behoerdenbrief-verstehen`, `fristenlog-kalender-reminder-deutsch`, `kalender-fristen-und-reminder`, `mahnbescheid-oder-klage`, `ruecklagen-steuern-versicherung`, `sozialrechtlicher-bescheid-widerspruch` |
+| 6. Ergebnis, Schreiben und Kommunikation | `bewirtung-geschenke-repraesentation`, `datev-lohnbuchhaltung-briefing`, `entscheidungsvermerk`, `ki-output-fuer-kunden`, `mandantenbrief-einfach-meeting-agenda`, `solo-ki-output-fuer-kunden`, `steuerberater-briefing`, `taetigkeit-beschreiben-ohne-falle` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `storno-gutschrift-korrekturrechnung`, `wochenreview` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-erhalten`, `abschluss-vor-abgabe`, `agb-fuer-kleine-selbststaendige`, `agenturmodell`, `anfaenger-modus`, `angebot-in-auftrag-verwandeln`, `anlagevermoegen-abschreibung`, `anwalt-freier-mitarbeiter`, `arbeitnehmeraehnliche-selbstaendige`, `archiv-und-aufbewahrung`, `aufbewahrung-loeschung`, `auftrag-kuendigen-in-krise`, `auslandreise-auftrag-cloud-ordner-digital`, `avv-mit-tools`, `barrierefreiheit-bfsg-barzahlung`, `beratungsgrenze-keine-rechtsberatung`, `berufsgenossenschaft-anmeldung`, `berufshaftpflicht`, ... plus 116 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

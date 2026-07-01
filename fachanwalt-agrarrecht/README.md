@@ -43,6 +43,25 @@ Plugin Fachanwalt für Agrarrecht. Orientierung Hoefeordnung Anerbenrechte Landp
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-agrarrecht-orientierung`, `mandat-triage-agrarrecht`, `orientierung-fachanwaltschaft-mandat`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `agrar-einfuehrung-rechtsquellen`, `agrarrecht-tatbestand-beweis-und-belege`, `compliance-compliance-dokumentation-und-akte`, `direktzahlungen-quellenkarte`, `erbrecht-beweislast-und-darlegungslast`, `hoefeo-dokumentenmatrix-und-lueckenliste`, `quellen-livecheck`, `spezial-direktzahlungen-livequellen-und-rechtsprechungscheck`, `tierschutz-formular-portal-und-einreichung`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `anerbenrecht-risikoampel-und-gegenargumente`, `milchquote-nachhaftung-rueckforderung-paragraf-14-marktordg`, `sammelantrag-gap-checkliste`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `agrar-cross-compliance-glozez-praxis`, `agrar-foerderung-gap-strategieplan`, `bgb-verhandlung-vergleich-und-eskalation`, `fachanwalt-agrarrecht-pachtvertrag-streitig`, `fachanwalt-agrarrecht-verhandlung-landpacht-schlichtung`, `pachtvertrag-abschlussprodukt-und-uebergabe`, `pachtvertrag-streitig`, `vergleichsverhandlung-strategie`, `verhandlung-landpacht-schlichtung` |
+| 5. Verfahren, Behörde und Gericht | `fachanwalt-agrarrecht-gap-direktzahlungen-antrag`, `gap-direktzahlungen-antrag`, `hoeferecht-fristen-form-und-zustaendigkeit`, `laender-behoerden-gericht-und-registerweg`, `landpachtrecht-schriftsatz-brief-und-memo-bausteine`, `schriftsatzkern-substantiierung`, `spezial-laender-behoerden-gericht-und-registerweg`, `spezial-uebergabe-fristennotiz-und-naechster-schritt`, `uebergabe-fristennotiz-und-naechster-schritt` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `forstrecht-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `agrar-jagdpacht-streit-spezial`, `agrar-mandantenfragen-typisch`, `agrar-paechterbetrieb-spezial`, `agrar-tierhaltung-spezial-tieg`, `agrar-wolfsschaden-spezial`, `agrarerbe-pflichtteil-paragraf-2316-bgb-hoefeordnung`, `agrarflaeche-erwerbsbeschraenkung-paragraf-9-grdstvg-hofstelle`, `agrarfoerderung-fid-ablehnung-paragraf-9-invekos`, `agrarinvest-bonusverwirkung-paragraf-49-vwvfg-grw`, `cross-zahlen-schwellen-und-berechnung`, `duenge-ordnungswidrigkeit`, `duengeverordnung-mehrparteien-konflikt-und-interessen`, `duengeverordnung-rote-gebiete-paragraf-13a-duev-derogation`, `eu-agrarfoerderung`, `fachanwalt-agrarrecht-duenge-ordnungswidrigkeit`, `fachanwalt-agrarrecht-eu-agrarfoerderung`, `fachanwalt-agrarrecht-hoefe-uebergabe`, `fachanwalt-agrarrecht-tierhaltung-genehmigung`, ... plus 12 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

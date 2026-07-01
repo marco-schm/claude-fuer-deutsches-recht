@@ -71,6 +71,25 @@ Die vollständige Skill-Liste wird automatisch am Ende dieser README aktualisier
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `agb-anwaltsvertrag-allg-mandatsbedingungen`, `agb-anwaltsvertrag-und-allg-mandatsbedingungen`, `agb-entwurf-kaltstart`, `agb-pruefung-kaltstart`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `agb-formulararbeitsvertrag-305ff-bgb`, `agb-konzernklausel-datenaustausch-haftung`, `backup-datenverlust`, `battle-forms-bau-vob-beweislast-zugang`, `beweislast-und-zugang-309`, `change-request-clickwrap-beweisakte-cloud`, `clickwrap-beweisakte`, `datenexport-portabilitaet`, `datenschutzverweise-agb`, `dokumentation-handbuch`, `dokumentenfamilie-rangfolge`, `ergaenzende-vertragsauslegung-bei-agb-luecken`, `erganzende-vertragsauslegung-agb-luecke`, `formulararbeitsvertrag-haendlervertrag-agb`, `ki-service-kollisionsrecht-ipr-konto`, `konto-kuendigung-sperre`, `massenschaden-datenmodell`, `massenschaden-datenmodell-rechtsabteilung`, ... plus 3 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `agb-bonitaetspruefung-score-klauseln`, `agb-fuer-vereinsausschluss-und-haftung`, `agb-haftung-erfuellungsgehilfen`, `agb-kardinalpflichten-haftungsbegrenzung`, `agb-lagerbedingungen-haftung-pflichten`, `agb-risikoklassifizierung-ampel`, `agb-subunternehmer-einsatz-haftung`, `agb-und-242-bgb-eingriffsnorm`, `b2c-b2b-b2b2c-rollencheck`, `bewertung-rezensionen`, `blue-pencil-board-agb-bonitaetspruefung-bonus`, `bonitaetspruefung`, `haftung-grobe-fahrlaessigkeit-vorsatz`, `haftung-indirekte-schaeden`, `haftung-leben-koerper-gesundheit-309`, `haftung-sanktionen-grobe-fahrlaessigkeit`, `haftungscap-summe`, `klausel-checkliste-self-service`, ... plus 9 weitere |
+| 4. Gestaltung, Strategie und Verhandlung | `agb-im-arbeitsvertrag-310-abs-4-vertieft`, `agb-im-bankvertrag-sparkassen-und-banken`, `agb-im-bauvertrag-vob-b-2024`, `agb-im-leasingvertrag-fortwirkung`, `agb-leasingvertrag-fortwirkung-schiedsklausel`, `agb-schiedsklausel-opt-out-deutsches-recht`, `agb-vertragsstrafe-309-nr-6`, `bankvertrag-sparkassen-bauvertrag-vob`, `compliance-sanktionen`, `haendlervertrag-agb`, `inhaltskontrolle-307-generalklausel`, `klausel-entwerfen-aggressiv`, `klausel-entwerfen-balanced`, `klausel-entwerfen-low-risk`, `klausel-entwerfen-low-risk-klauselbibliothek`, `klauselbibliothek-aufbau`, `klauselinventar-und-scope`, `klauselvarianten-vergleich`, ... plus 18 weitere |
+| 5. Verfahren, Behörde und Gericht | `agb-gerichtsstand`, `agb-schiedsgericht-verbraucher-b2b`, `annahmefrist-leistungsfrist-308`, `einstweilige-verfuegung-agb`, `gerichtsstand`, `individualabrede-305b-individualklage`, `individualklage-verteidigung`, `kuendigungsfiktion-und-nachfrist-308`, `kurzfristige-preiserhoehung-309`, `kurzfristige-preiserhoehung-lieferfrist`, `lieferfrist-teillieferung`, `product-counsel-feedback-rechte-annahmefrist`, `rechtsabteilung-zustimmungsfiktion-nach-bank-agb-urteil`, `ruegeobliegenheit-saas-agb-schiedsgericht`, `schiedsgericht`, `uklag-unterlassung-verbandsklage`, `vdug-abhilfeklage-agb-schnittstelle` |
+| 6. Ergebnis, Schreiben und Kommunikation | `board-brief-agb`, `ki-output-nutzung`, `legal-note-redline-output`, `risk-acceptance-memo`, `support-response-telekommunikation-agb`, `telekommunikation-agb` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `agb-auditrechte`, `auditrechte`, `red-team-gegneransicht-agb` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-reagieren`, `abnahme-testing`, `abtretung-adversarial-test`, `adversarial-test-agb`, `aenderungsvorbehalt-308`, `agb-abtretung`, `agb-arbeitnehmerueberlassung-aueg`, `agb-begriff-vorformuliert-305`, `agb-bei-digitalen-produkten-327f-update`, `agb-bei-iso-vertraegen-international`, `agb-bei-kreditvertraegen-verbraucherdarlehen`, `agb-bei-plattformnutzung-app-stores`, `agb-bei-vereinen-und-verbaenden`, `agb-bei-versicherungsvertraegen-vvg`, `agb-eigentumsvorbehalt-b2b-b2c`, `agb-exklusivitaet`, `agb-im-konzernverbund`, `agb-im-mietrecht-wohnraum-vs-gewerbe`, ... plus 170 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

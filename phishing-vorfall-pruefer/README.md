@@ -52,6 +52,25 @@ Das Plugin entscheidet keinen Fall automatisch. Es zwingt zur sauberen Trennung:
 
 Alle rechtlichen Bewertungen sind Arbeitsentwürfe und müssen durch eine qualifizierte Person geprüft werden.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `freistehender-erstpruefung-und-mandatsziel`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `675v-quellenkarte`, `bankpflichten-beweislast-bgb`, `beweislast-mandantenkommunikation-entscheidungsvorlage`, `phishing-mit-geschaeftskonto`, `phishing-tatbestand-beweis-und-belege`, `pushtan-compliance-dokumentation-und-akte`, `quellen-livecheck`, `spezial-675v-livequellen-und-rechtsprechungscheck`, `spezial-pruefer-dokumentenmatrix-und-lueckenliste`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `arbeitnehmer-haftung-bgb-675u-phish-ceo`, `online-risikoampel-und-gegenargumente`, `phish-banking-trojaner-haftung-spezial`, `phishing-bgb-675u-haftung`, `phishing-praeventionscheckliste-strafanzeige`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `aufsicht-bafin-bank-strategie-banking-app`, `phishing-bank-strategie`, `phishing-tan-verfahren-vergleich` |
+| 5. Verfahren, Behörde und Gericht | `banking-behoerden-gericht-und-registerweg`, `bgb-schriftsatz-brief-und-memo-bausteine`, `klage-fristennotiz-vorfall-phish-banking`, `phishing-zivilklage-bank`, `versicherer-cyber-phishing-vorfall-zivilklage`, `vorfall-fristen-form-und-zustaendigkeit` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `fahrlaessigkeit-fehlerkatalog`, `spezial-fahrlaessigkeit-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `675u-675w-banking`, `675w-zahlen-schwellen-und-berechnung`, `bea-notfall-bgb-675v-erstkontakt-mandant`, `call-interessen-faelle-freistehender`, `faelle-abschlussprodukt-und-uebergabe`, `grobe-online-phishing`, `phish-ceo-fraud-konzern-spezial`, `phish-incident-meldepflichten-arten-erkennen`, `phish-meldepflichten-leitfaden`, `phishing-arten-erkennen`, `phishing-banking-app-malware`, `phishing-bgb-675v-grobfahrlaessig`, `phishing-erstkontakt-mandant`, `phishing-faelle-rentner-kryptowaehrung`, `phishing-kryptowaehrung-recovery`, `phishing-strafanzeige-vorbereiten`, `phishing-supply-chain-bec`, `phishing-tan`, ... plus 5 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

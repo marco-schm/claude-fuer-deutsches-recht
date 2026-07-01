@@ -134,6 +134,24 @@ Berufsrechtliche Grundlagen: §§ 43 ff. BRAO, §§ 1 ff. BORA, RVG, DSGVO.
 Apache-2.0 OR MIT — siehe [LICENSE](../LICENSE), [LICENSE-APACHE](../LICENSE-APACHE), [LICENSE-MIT](../LICENSE-MIT)
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anfrage-eingang-parser`, `anschluss-routing`, `anwaltskanzleien-erstpruefung-und-mandatsziel`, `dokumente-intake`, `e-mail-erstantwort-und-terminrouting`, `einstieg-routing`, `manda-erstkontakt-triagebogen-bauleiter`, `manda-mandatsablehnung-rechtsschutz`, `mandantenanfragen-anfrage-eingang-anrede`, `mandatsverhaeltnis-hinweis`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `eingehenden-quellenkarte`, `einwilligung-hinweis-datenschutz`, `ma-erstvermerk-mandantenakte`, `mail-dokumentenmatrix-und-lueckenliste`, `nennt-sachverhalt-telefon`, `quellen-livecheck`, `sachverhalt-formular-portal-und-einreichung`, `spezial-eingehenden-livequellen-und-rechtsprechungscheck`, `transkription-beweislast-und-darlegungslast`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `folgekorrespondenz-vorbereiten-konfliktcheck`, `konfliktcheck-vorab`, `ma-konfliktcheck-konzern`, `manda-erstgespraechsleitfaden-checkliste`, `workflow-fristen-und-risikoampel` |
+| 5. Verfahren, Behörde und Gericht | `einwilligungshinweis-fristennotiz-und-naechster-schritt`, `foermlich-behoerden-gericht-und-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `erstantwort-foermlich-mail`, `erstantwort-generator`, `mandantenkommunikation-redteam`, `mehrsprachige-antwort-muster-erstantwort-spam`, `muster-erstantwort`, `output-waehlen`, `telefon-mandantenkommunikation-entscheidungsvorlage` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `bietet-fehlerkatalog`, `spezial-bietet-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `anrede-anwaltskanzleien-bittet`, `anrede-uebernehmen`, `bittet-internationaler-bezug-und-schnittstellen`, `dankt-dsgvo-sonderfall-e-mail`, `dringlichkeitsmarker-einwilligung-hinweis`, `dsgvo-sonderfall-und-edge-case`, `ma-aufnahmegespraech-leitfaden`, `ma-einfuehrung-erstkontakt`, `ma-mandant-manda-erstgespraechsleitfaden`, `manda-rechtsschutz-eintrittsanfrage-spezial`, `spam-und-massen-anfrage-filter`, `telefon-konfiguration`, `telefonische-terminvergabe-interessen`, `terminvergabe-mehrparteien-konflikt-und-interessen`, `transkriptionsdienst-erklaerung`, `uebernimmt-telefon-konfiguration`, `vertraulichkeit-erinnerung` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

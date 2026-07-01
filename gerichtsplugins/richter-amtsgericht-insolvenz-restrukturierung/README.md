@@ -99,6 +99,21 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 Dual-lizenziert MIT und Apache-2.0.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 3. Prüfung, Anspruch und Subsumtion | `04-glaeubigerversammlung-und-pruefungstermin` |
+| 4. Gestaltung, Strategie und Verhandlung | `07-insolvenzplan-bestaetigen`, `08-starug-restrukturierungssache-anzeigen`, `10-starug-planbestaetigung-und-folgen` |
+| 5. Verfahren, Behörde und Gericht | `01-eroeffnungsantrag-pruefen-insolvenz`, `03-eroeffnungsbeschluss-und-verwalterbestellung` |
+| 8. Spezialmodule und Schnittstellen | `02-sicherungsmassnahmen-vor-eroeffnung`, `05-restschuldbefreiung-und-schlusstermin`, `06-eigenverwaltung-und-schutzschirm`, `09-starug-stabilisierungsanordnung`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

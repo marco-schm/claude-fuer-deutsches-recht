@@ -43,6 +43,25 @@ Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliede
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `start-chronologie-fristen`, `wandelt-erstpruefung-und-mandatsziel`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `ausfuehrungen-formular-portal-und-einreichung`, `fragen-compliance-dokumentation-und-akte`, `gliederung-mandantenunterlagen-memorandum`, `mandantenunterlagen-tatbestand-beweis-und-belege`, `memo-pruefung-im-gutachtenstil`, `memo-quellen-zitierregel`, `memorandum-dokumentenmatrix-und-lueckenliste`, `optional-beweislast-piercing-sonderfall`, `prozessstrategie-klageerhebung-gutachtenstil`, `quellen-livecheck`, `quellenreferenz-quellenkarte`, `rechtsgebietsneutral-sachverhalt-satz`, `sachverhalt-fixieren-vier-teile`, `sachverhalt-verhandlung-vergleich-und-eskalation`, `spezial-quellenreferenz-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `haftungsrisiko-rechtsanwalt-board-pack`, `vier-risikoampel-und-gegenargumente`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `memo-compliance-vorfall-intern`, `memo-zur-vertragsentscheidung` |
+| 5. Verfahren, Behörde und Gericht | `juristisches-questions-fristennotiz`, `memo-fristen-sofortmassnahmen`, `questions-fristennotiz-und-naechster-schritt` |
+| 6. Ergebnis, Schreiben und Kommunikation | `antworten-interessen-ausfuehrungen-fragen`, `mandantenkommunikation-redteam`, `memo-board-pack-besondere-anlaesse-spezial`, `memo-ergebnis-handlungsempfehlung`, `memo-fuer-mandant-vs-intern`, `memo-mandantenfreundliche-fassung-spezial`, `memo-memo-typenuebersicht-bauleiter`, `memo-rechtsfragen-formulieren`, `memo-research-tracking-leitfaden`, `memo-vier-teile-aufbau`, `memo-zu-grenzueberschreitenden-faellen`, `memo-zur-rechtsmittelentscheidung`, `memorandums-ersteller`, `output-waehlen`, `zitierung-mandantenkommunikation-entscheidungsvorlage` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `pinpoint-fehlerkatalog`, `spezial-pinpoint-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `due-diligence-ergebnis-handlungsempfehlung`, `laenge-formate-mandantenfreundliche-fassung`, `mandantenanfrage-schnell`, `piercing-sonderfall-und-edge-case`, `rechtliche-internationaler-bezug-und-schnittstellen`, `rechtsfortbildung-bgh-rechtsfragen`, `satz-zahlen-schwellen-und-berechnung`, `teile-vier-wandelt` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

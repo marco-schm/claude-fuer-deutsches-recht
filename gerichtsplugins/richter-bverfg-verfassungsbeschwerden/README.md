@@ -101,6 +101,20 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 Dual-lizenziert MIT und Apache-2.0.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 3. Prüfung, Anspruch und Subsumtion | `01-annahme-pruefung-paragraf-93a`, `02-substantiierungs-pruefung-paragraf-92` |
+| 5. Verfahren, Behörde und Gericht | `04-subsidiaritaet-und-frist`, `06-fachgerichtliche-entscheidung-pruefen`, `09-nichtannahmebeschluss-entwurf` |
+| 8. Spezialmodule und Schnittstellen | `03-rechtswegerschoepfung-paragraf-90-abs-2`, `05-grundrechtsdogmatik-pruefen`, `07-kammer-und-senat-zustaendigkeit`, `08-votum-wissenschaftlicher-mitarbeiter`, `10-entscheidungsvorschlag-kammer-bverfg`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

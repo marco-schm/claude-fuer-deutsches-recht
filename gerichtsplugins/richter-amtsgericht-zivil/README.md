@@ -101,6 +101,23 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 Dual-lizenziert MIT und Apache-2.0.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `01-eingangspruefung-zustaendigkeit` |
+| 2. Unterlagen, Sachverhalt und Quellen | `03-akte-erstdurchsicht`, `05-beweisaufnahme-kleine-zivilkammer` |
+| 3. Prüfung, Anspruch und Subsumtion | `10-entscheidungsvorschlag-zur-richterlichen-pruefung` |
+| 4. Gestaltung, Strategie und Verhandlung | `09-vergleich-und-erledigung` |
+| 5. Verfahren, Behörde und Gericht | `02-streitwert-und-gerichtskosten`, `07-urteilsentwurf-paragraf-313`, `08-versaeumnisurteil-und-anerkenntnis`, `v392-praxisraster-richter-amtsgericht-zivil` |
+| 8. Spezialmodule und Schnittstellen | `04-relation-zivilrecht-klein`, `06-tenor-und-kostenentscheidung`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

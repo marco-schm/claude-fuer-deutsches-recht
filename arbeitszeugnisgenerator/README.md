@@ -72,6 +72,21 @@ Folgen einer Einstufung als Hochrisiko-KI können sein: Pflicht zu menschlicher 
 Generischer Entwurfsstand, alle Angaben ohne Gewähr. Jede Nutzerin und jeder Nutzer prüft den generierten Text auf Plausibilität und Eignung im konkreten Einzelfall. Keine Rechtsberatung. Keine Garantie für Vollständigkeit oder Aktualität der Rechtsprechung. Bei streitigen Fällen Fachanwalt für Arbeitsrecht hinzuziehen.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 2. Unterlagen, Sachverhalt und Quellen | `bag-leitentscheidungen-beweislast`, `kopfdaten-und-aussere-form`, `stammdaten-erhebung` |
+| 3. Prüfung, Anspruch und Subsumtion | `fuehrungskraft-bewertung` |
+| 4. Gestaltung, Strategie und Verhandlung | `compliance-integritaet-formeln` |
+| 8. Spezialmodule und Schnittstellen | `auslassungen-vermeiden`, `bag-leitentscheidungen-notenstufen`, `beendigungsgrund-formulieren`, `belastbarkeit-formeln`, `besondere-leistungen-projekte`, `drift-und-schaufenster-vermeiden`, `einfuehrung-mandantenanliegen`, `engagement-motivation-formeln`, `frequenzadverbien-katalog`, `geheimcodes-vermeiden`, `langzeit-arbeitsverhaeltnis`, `mehrere-positionen-im-zeugnis`, `note-1-formeln-leistung`, `note-2-formeln-leistung`, `note-3-formeln-leistung`, `note-4-formeln-leistung`, `note-5-formeln-leistung`, `notenwahl-modus`, ... plus 17 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

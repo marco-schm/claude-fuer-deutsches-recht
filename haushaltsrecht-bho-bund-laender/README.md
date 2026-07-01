@@ -52,6 +52,22 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt kei
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-bundeshaushalt-verstehen`, `kaltstart-triage`, `padlet-haushaltsdashboard-starten` |
+| 3. Prüfung, Anspruch und Subsumtion | `bho-071-bho-89-brh-pruefung-praktisch-anwenden`, `bho-072-bho-90-inhalt-pruefung-praktisch-anwen`, `bho-074-bho-97-pruefungsergebnis-praktisch-anw`, `bho-89-brh-pruefung-praktisch-anwenden`, `bho-90-inhalt-pruefung-praktisch-anwen`, `bho-97-pruefungsergebnis-praktisch-anw`, `bho-182-institutionelle-foerderung-risiko-mark`, `bho-272-bund-laender-programm-risiko-markieren`, `bmf-rundschreiben-livecheck`, `buergergeld-krankenversicherung-risiko`, `buergschaft-und-gewaehrleistung-risiko`, `bund-laender-programm-risiko-markieren`, `digitalisierungstitel-risiko-markieren`, `eu-mittel-risiko-markieren`, `globaler-minderausgabe-risiko-markiere`, `haushaltssperre-risiko-markieren`, `institutionelle-foerderung-risiko-mark`, `investitionslinie-risiko-markieren`, ... plus 21 weitere |
+| 4. Gestaltung, Strategie und Verhandlung | `bho-13-gesamtplan-einzelplan`, `bho-14-funktionenplan-praktisch-anwend`, `bho-37-ueberplanmaessig-praktisch-anwe`, `einzelplan-kapitel-titel-lesen`, `einzelplan-praktisch-funktionenplan`, `gruppierungsplan-funktionenplan`, `haushaltsgesetz-gegen-haushaltsplan`, `ueberplanmaessig-ausserplanmaessig` |
+| 6. Ergebnis, Schreiben und Kommunikation | `bho-22-sperrvermerk-praktisch-anwenden`, `haushaltsvermerk-lesen` |
+| 8. Spezialmodule und Schnittstellen | `081-buergergeld-krankenversicherung-dashbo`, `191-globaler-minderausgabe-dashboard-bauen`, `beteiligung-unternehmen-brh-aufgabe`, `bho-1-feststellung-praktisch-anwenden`, `bho-2-bedeutung-praktisch-anwenden`, `bho-3-wirkungen-praktisch-anwenden`, `bho-6-notwendigkeit-praktisch-anwenden`, `bho-007-verpflichtungsermaechtigung-pruefen`, `bho-7-wirtschaftlichkeit`, `bho-7-wirtschaftlichkeit-praktisch-anw`, `bho-8-gesamtdeckung-praktisch-anwenden`, `bho-9-beauftragter-haushalt-praktisch`, `bho-10-unterrichtung-praktisch-anwende`, `bho-11-vollstaendigkeit-praktisch-anwe`, `bho-012-deckungsfaehigkeit-pruefen`, `bho-12-geltungsdauer-praktisch-anwende`, `bho-014-erlaeuterung-rechtlich-bewerten`, `bho-15-bruttoveranschlagung-praktisch`, ... plus 275 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

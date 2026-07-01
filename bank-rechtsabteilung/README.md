@@ -108,6 +108,25 @@ Die vollständige Skill-Liste wird automatisch am Ende dieser README aktualisier
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `bankaufsichtsrecht-kwg-marisk-triage`, `bankrechtsabteilung-kaltstart-routing`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `bankgeheimnis-auskunftsersuchen`, `crr-kapitalanforderungen-juristenmatrix`, `datenraum-bank-transaktion`, `datenschutz-bankgeheimnis-depotrecht`, `dokumentengeschaeft-akkreditiv-inkasso-standby`, `fit-proper-eignungsmatrix-deep-dive`, `girokonto-firmenkunden-risk-exit`, `kontokuendigung-sperre-basiskonto`, `rechtsabteilung-npl-verkauf-mit-datenschutz-und-bankgeheimnis`, `sanierungsgutachten-idw-s6-bewertung`, `zag-kontoinformationsdienst-ais`, `zag-negativauskunft-feststellung-bafin`, `zag-vorstandsvorlage-gutachten-wpig` |
+| 3. Prüfung, Anspruch und Subsumtion | `agb-bankrecht-organhaftung-business`, `bafin-pruefung-vor-ort-management`, `forbearance-npe-risikoklassifizierung`, `iban-name-check-verification-payee`, `organhaftung-business-judgment`, `rechtsabteilung-ewpg-tokenisierung-und-registerrisiko`, `zag-erlaubnisanalyse`, `zag-erlaubnisanalyse-payment-institution` |
+| 4. Gestaltung, Strategie und Verhandlung | `ma-risk-compliance-funktion`, `notfallplan-krisenkommunikation`, `produktfreigabe-new-restrukturierung`, `restrukturierung-kreditengagement` |
+| 5. Verfahren, Behörde und Gericht | `ewpg-kryptowertpapierregister-registerwechsel`, `ewpg-registerwechsel-registerfehler`, `zag-agenten-auslagerung-register` |
+| 6. Ergebnis, Schreiben und Kommunikation | `bafin-kommunikation-und-anhoerung`, `pfandbriefbank-spezialdeckung` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `anwaltliche-rechnungen-review`, `kreditwesengesetz-erlaubnis-inhaberkontrolle`, `zag-payment-flow-red-team` |
+| 8. Spezialmodule und Schnittstellen | `anzahlungs-gewaehrleistungs-und-erfuellungsgarantien`, `anzv-kwg-anzeigenkalender-bafin-bundesbank`, `app-fraud-aufsichtsrat-vorlage`, `aufsichtsrat-vorlage-bank`, `avalrahmenlinie-kautionsaval-praxis`, `bankaufsichtsrecht-kwg-bankgeheimnis`, `banking-as-a-service-white-label`, `beteiligungserwerb-bank-ma`, `betriebsrat-change-projekte`, `blockchain-settlement-buergschaft-erste`, `buergschaft-auf-erste-anforderung-bank`, `buergschaft-privatperson-gesellschafter-ehegatte`, `chargeback-card-schemes-bankrecht`, `correspondent-banking-nostro-vostro`, `covenant-waiver-crr-crd-kapitalanforderungen`, `crr-crd-eigenmittel-large-exposure`, `crypto-tax-reporting-dac8-car`, `darlehensrecht-verbraucher-unternehmer`, ... plus 67 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

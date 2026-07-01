@@ -130,6 +130,24 @@ Rechtsprechung wird nur verwendet, wenn Gericht, Datum, Aktenzeichen und eine fr
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `auskunft-rechnungslegung`, `bearbeitung-umgestaltung-beweisforensik`, `beweisforensik-versionen`, `computer-kunst-datenbank-dataset-einstweilige`, `datenbank-dataset-rechte` |
+| 3. Prüfung, Anspruch und Subsumtion | `kanzlei-urheber-rechtsprechungs-livecheck`, `plagiatsanalyse-musik-text`, `rechtsprechungs-livecheck` |
+| 4. Gestaltung, Strategie und Verhandlung | `ki-vertragsklauseln-urhebervertragsrecht`, `urheberrechtliche-compliance`, `urhebervertragsrecht-verguetung`, `vertragsgenerator-musik-release` |
+| 5. Verfahren, Behörde und Gericht | `einstweilige-verfuegung-urheber`, `fotos-bilder-gema-gvl-gerichtlicher`, `gerichtlicher-schriftsatz`, `verjaehrung-fristen` |
+| 6. Ergebnis, Schreiben und Kommunikation | `ki-output-menschlicher-beitrag`, `lizenzanalogie-musik-mandantenmemo`, `mandantenmemo-urheberrecht`, `output-builder-urheberrecht`, `sachverstaendigenbriefing-musik-sampling` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-97a-response`, `arbeitnehmer-urheber-architektur-angewandte`, `architektur-angewandte-kunst`, `broadcast-streaming-social`, `due-diligence-urheberrechtliche`, `gema-gvl-verwertungsgesellschaften`, `internationales-urheberrecht-ki-act-ki`, `kanzlei-workflow-urheber`, `ki-act-gpai-copyright`, `ki-training-tdm-optout`, `kosten-streitwert-leistungsschutz-kuenstler`, `leistungsschutz-kuenstler-label`, `linking-embedding-framing`, `miturheber-band-splits`, `moral-rights-musikwerk-melodie-nutzungsrechte`, `musikwerk-melodie-harmonie-rhythmus`, `nutzungsrechte-lizenzkette`, `open-source-persoenlichkeitsrecht-stimme`, ... plus 24 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -82,6 +82,25 @@ Das Plugin soll die Nutzerin nicht klein machen, sondern schneller stark machen:
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `aktenstruktur-und-dokumentenintake`, `anwaltliche-mandatsstrategie-arbeitszeit`, `kaltstart-triage`, `landesrecht-16-laender-routenplan`, `versorgungsakte-dokumentenintake` |
+| 2. Unterlagen, Sachverhalt und Quellen | `auswahlgespraech-dokumentationspflicht`, `foederalismusreform-kompetenzmatrix-beamtenrecht`, `konkurrentenschutz-auswahlvermerk-und-akteneinsicht`, `laufbahnrecht-laender-matrix`, `live-quellencheck-bund-land-richter`, `personalakte-einsicht-pflege-beihilfe`, `soldaten-und-beamte-abgrenzung`, `status-rechtsquellenfinder-agg-vs-besold` |
+| 3. Prüfung, Anspruch und Subsumtion | `besoldung-laender-check`, `entlassung-und-statusbeendigung`, `hinterbliebenenversorgung-witwen-waisen`, `pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv`, `reaktivierung-29-bbg-rechtsanspruch`, `statusamt-funktionsamt-stufenfeststellung` |
+| 4. Gestaltung, Strategie und Verhandlung | `beihilfe-implantatfaehige-hoergeraete`, `besold-mehrarbeit-verguetung-freizeitausgleich-beamte`, `besold-musterverfahren-ruhen-verjaehrung-nachzahlung`, `besold-neu-007-mehrarbeit-verguetung-freizeitausgleich-beamte`, `besold-neu-009-mindestabstand-buergergeld-vergleich`, `besold-neu-014-dienstunfall-unfallausgleich-heilverfahren`, `besold-neu-017-musterverfahren-ruhen-verjaehrung-nachzahlung`, `geschenke-korruption-compliance` |
+| 5. Verfahren, Behörde und Gericht | `agg-vs-9-bbg-auswahlverfahren`, `anlassbeurteilung-vs-regelbeurteilung`, `besold-neu-016-besoldungswiderspruch-zeitnahe-geltendmachung`, `besold-neu-019-beurteilung-plausi-anlassbeurteilung`, `besoldung-besold-beurteilung`, `bestenauslese-art-beurteilungsbeitrag-heilung`, `beurteilungsbeitrag-heilung-maengel`, `bindungswirkung-strafurteil-23-bdg`, `bverfg-resilienz-und-bundesverfassungsgerichtswahl-2024-2025`, `dienstgericht-richter-dienstliche-beurteilung`, `dienstgericht-richter-disziplinar-63-drig`, `dienstliche-beurteilung-angriff`, `fristen-und-sofortmassnahmen`, `konkurrentenklage-einstweiliger-rechtsschutz`, `konkurrentenstreit-eilverfahren`, `krankheitskosten-beihilfe-pkv-widerspruch`, `output-waehlen-memo-widerspruch-eilantrag`, `richteranklage-art-richterbeurteilung`, ... plus 5 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandantenbrief-verstaendlich` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `plausibilisierung-gleicher-gesamtnoten`, `quellenhygiene-beamtenrecht-fundstellen-red-team-korrektur`, `red-team-beamtenrecht`, `versetzung-gegen-willen-28-bbg` |
+| 8. Spezialmodule und Schnittstellen | `agg-gleichstellung-und-frauenvertretung`, `altersteilzeit-93-bbg-blockmodell`, `amtsangemessene-alimentation`, `amtsangemessene-alimentation-bverfg`, `amtsangemessene-beschaeftigung`, `anfaenger-modus-beamtenrecht`, `anforderungsprofil-konstitutiv`, `anrechnung-55-beamtvg-mehrere-renten`, `arbeitszeit-mehrarbeit-und-ruhezeiten`, `auslandsdienstbezuege-bbesg`, `beamtstg-bbg-beforderung-erprobung-begrenzte`, `beforderung-und-erprobung`, `begrenzte-dienstfaehigkeit-27-bbg`, `begrenzte-dienstfaehigkeit-beihilfe`, `beihilfe-chronische-krankheit`, `beihilfe-heilbehandlung-ausland`, `beihilfe-und-heilfuersorge`, `besold-amtsangemessene-alimentation-fuenf-parameter`, ... plus 105 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

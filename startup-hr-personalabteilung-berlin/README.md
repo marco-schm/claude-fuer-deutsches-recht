@@ -74,6 +74,25 @@ Chef- oder Founder-Briefings sollen deshalb nicht einfach Rohlisten mit Diagnose
 - `arbeitszeugnis-analyse` für Zeugnisentwürfe und Zeugnisprüfung.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `berlin-kaltstart-routing-hr-command-center`, `betriebsbedingte-kuendigung-startup`, `betriebsfeier-sexuelle-belaestigung-intake`, `betriebsrat-mitbestimmung-87-router`, `freelancer-scheinselbststaendigkeit-router`, `mitarbeiterhandbuch-startup`, `mobbing-konflikt-intake` |
+| 2. Unterlagen, Sachverhalt und Quellen | `anwalt-steuerberater-personalakte`, `chef-briefing-ohne-datenschutzbruch`, `datenschutz-beschaeftigteneinwilligung`, `datenschutz-chef-liste-gehaelter-fehlzeiten`, `datenschutz-hris-und-saas-tools`, `datenschutz-incident-hr-datenpanne`, `datenschutz-ki-in-hr-recruiting`, `datenschutz-monitoring-produktivitaet`, `datenschutz-roter-datev-export-payroll`, `datev-payroll-datenpaket-monatslauf`, `fehlende-payroll-unterlagen-chaser`, `nachweisgesetz-checkliste`, `notfallkontakte-und-erste-hilfe`, `offboarding-account-sperre-datenuebergabe`, `offboarding-account-sperre-und-datenuebergabe`, `onboarding-datenschutz-und-it-accounts`, `onboarding-probezeit-personalakte-aenderungen`, `personalakte-aenderungen-versionierung`, ... plus 8 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `offboarding-checkliste-it-payroll`, `onboarding-erster-tag-checkliste`, `pre-employment-screening-background-check` |
+| 4. Gestaltung, Strategie und Verhandlung | `arbeitsvertrag-abmahnung-entwurf-englisch`, `arbeitsvertrag-befristung-tzbfg`, `arbeitsvertrag-englisch-deutsch-bilingual`, `arbeitsvertrag-founder-nahe-schluesselrolle`, `arbeitsvertrag-remote-hybrid-berlin`, `arbeitsvertrag-standard-unbefristet`, `aufhebungsvertrag-und-sperrzeit`, `company-event-planung-hr-risk`, `entwicklungsplan-learning-budget`, `performance-review-arbeitsvertrag-befristung`, `schwerbehindertenquote-ausgleichsabgabe` |
+| 5. Verfahren, Behörde und Gericht | `arbeitsschutz-psychische-gefaehrdungsbeurteilung`, `fristentracker-befristung-probezeit-visa`, `fristlose-kuendigung-626-bgb` |
+| 6. Ergebnis, Schreiben und Kommunikation | `angebotsschreiben-offer-letter`, `betriebsversammlung-und-kommunikation`, `hr-dashboard-ceo-briefing`, `policy-rollout-change-kommunikation`, `slack-teams-kommunikationsregeln` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `datev-export-import-plausibilisierung`, `hr-red-team-vor-versand` |
+| 8. Spezialmodule und Schnittstellen | `arbeitnehmerueberlassung-aueg-risk`, `arbeitserlaubnis-blue-arbeitsschutz`, `arbeitszeit-erfassung-arbzg`, `arbeitszeugnis-standard-und-code`, `barrierefreiheit-arbeitsplatz-accommodation`, `bem-betriebliches-benefits-policy`, `benefits-policy-jobticket-urban-sports`, `berlin-bildungszeit-und-feiertage`, `besondere-kategorien-gesundheit-schwerbehinderung`, `betriebsfeier-drogen-sexuelle-betriebsrat`, `betriebsrat-anhoerung-kuendigung-102`, `betriebsrat-gruendung-reagieren`, `betriebsvereinbarung-remote`, `dienstgeraete-byod-policy`, `diskriminierung-agg-beschwerdestelle`, `diversity-inclusion-elternzeit-mutterschutz`, `elternzeit-mutterschutz-pflegezeit`, `empfang-office-manager-hr-schnittstelle`, ... plus 36 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

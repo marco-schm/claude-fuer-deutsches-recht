@@ -1,3 +1,13 @@
+# v405.0.0 — Skill-Navigation nach Arbeitslogik
+
+- Plugin-READMEs erhalten eine zusätzliche, auto-generierte Orientierung nach Arbeitsphasen: Einstieg, Unterlagen, Prüfung, Gestaltung, Verfahren, Ergebnis, Kontrolle und Spezialmodule.
+- Die alphabetischen Skill-Komplettlisten bleiben unverändert erhalten; Skillnamen, Skillordner und Skillinhalte wurden durch diesen Navigationslauf nicht umbenannt.
+- Neues idempotentes Script `scripts/inject-skills-logic-navigation.py` ergänzt oder ersetzt den Arbeitslogik-Block stabil über die Plugin-READMEs.
+- Rentenprüfer zusätzlich mit einer konkreten Arbeitspfad-Matrix veredelt: Kontenklärung, Früh-/Teilrente, Erwerbsminderung, Betriebsrente/private Rente, Versorgungswerk und Hinterbliebene führen direkt zu Startskill, Vertiefung und Arbeitsprodukt.
+- Repo-weiter Versions-Bump auf v405.0.0.
+
+---
+
 # v404.0.0 — Rentenprüfer ausgebaut und Rentenrechtsakten ergänzt
 
 - Rentenprüfer auf Arbeitnehmer-, DRV-, Betriebsrenten-, private Renten- und Versorgungswerk-Schnittstellen geschärft.

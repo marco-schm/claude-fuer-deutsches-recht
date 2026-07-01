@@ -43,6 +43,25 @@ Plugin Fachanwalt für Informationstechnologierecht. Orientierung SaaS-Verträge
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `dsv-schnelltriage-risiko`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-it-recht-orientierung`, `mandat-triage-it-recht`, `orientierung-mandat-fachanwaltschaft`, `orientierung-sonderfall-edge-case`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `datenschutz-folgenabschaetzung`, `datenschutzrecht-fehlerkatalog`, `dma-compliance-dokumentation-und-akte`, `dsv-beweissicherung`, `dsv-eskalationsmatrix`, `dsv-interne-dokumentation-art-33-abs-5`, `dsv-kein-risiko-dokumentation`, `dsv-kinderdaten-besondere-schutzbeduerftigkeit`, `dsv-sozialdaten-sgb`, `fachanwalt-it-recht-datenschutz-folgenabschaetzung`, `informationstechnologierecht-tatbestand-beweis`, `it-recht-cloud-vertrag-datenschutz-due-diligence`, `it-recht-datenschutz-im-it-vertrag`, `kanzlei-beweislast-und-darlegungslast`, `nis2-quellenkarte`, `quellen-livecheck`, `schnittstellen-formular-portal-und-einreichung`, `software-dokumentenmatrix-und-lueckenliste`, ... plus 4 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `ai-act-art-6-hochrisiko-ki`, `dsv-aufnahme-statusinformation`, `dsv-benachrichtigung-art-34-schwelle-hohes-risiko`, `dsv-risikobewertung-edsa-leitlinie`, `dsv-risikobewertung-enisa-schweregrad`, `dsv-risikobewertung-schwellen-art-33-34`, `dsv-sofortmassnahmen-checkliste`, `fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung`, `hacking-haftung-paragraf-823-bgb-it-sicherheit`, `ki-vo-hochrisiko-konformitaetsbewertung`, `lizenz-risikoampel-und-gegenargumente`, `softwarefehler-mangelhaftung-pruefen`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr`, `fachanwalt-it-recht-open-source-compliance-audit`, `fachanwalt-it-recht-saas-vertrag-verhandlung`, `fachanwalt-it-recht-vertragsstrafe-pruefen`, `it-vertrag-verhandlung-eu-odr`, `itil-sla-vertragsstrafe`, `itr-ki-systeme-vertragsklausel-leitfaden`, `itr-open-source-compliance-spezial`, `itr-saas-vertrag-bauleiter`, `itr-saas-vertragstypen-praxis`, `open-source-compliance-audit`, `saas-vertrag-verhandlung`, `softwarepflege-vertrag-paragraf-307-bgb`, `ttdsg-verhandlung-vergleich-und-eskalation`, `vergleichsverhandlung-strategie`, `verhandlung-abschlussprodukt-und-uebergabe`, `vertrag-fristennotiz-und-naechster-schritt`, `vertragsstrafe-pruefen` |
+| 5. Verfahren, Behörde und Gericht | `bdsg-schriftsatz-brief-und-memo-bausteine`, `dsgvo-behoerden-gericht-und-registerweg`, `dsv-sammelklagen-praevention`, `saas-fristen-form-und-zustaendigkeit`, `schriftsatzkern-substantiierung` |
+| 6. Ergebnis, Schreiben und Kommunikation | `dsv-kommunikationssperre`, `dsv-pressemitteilung-krisenkommunikation`, `dsv-tonfall-krisenkommunikation`, `governance-mandantenkommunikation-entscheidungsvorlage`, `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `spezial-datenschutzrecht-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `cloud-act-vs-dsgvo-art-48-dsgvo`, `cyber-incident-response-72h`, `cyber-vorfall-sofortmassnahmen`, `dsa-zahlen-schwellen-und-berechnung`, `dsgvo-bussgeld-art-83-eugh-c-807-21`, `dsv-art-9-besondere-kategorien`, `dsv-benachrichtigung-art-34-ausnahmen`, `dsv-benachrichtigung-art-34-betroffene`, `dsv-bussgeldverteidigung-art-83`, `dsv-dsfa-update-nach-vorfall`, `dsv-erstgespraech-vorfallmeldung`, `dsv-forensische-erstsicherung`, `dsv-lead-authority-konzern`, `dsv-lessons-learned-nachbereitung`, `dsv-massenbenachrichtigung`, `dsv-meldekette-auftragsverarbeiter`, `dsv-meldung-art-33-pflichtangaben`, `dsv-meldung-baylda`, ... plus 41 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

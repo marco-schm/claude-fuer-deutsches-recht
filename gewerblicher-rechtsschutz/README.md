@@ -193,6 +193,25 @@ Dieser Pfad überlebt Plugin-Updates. Die mitgelieferte `CLAUDE.md` ist eine Vor
 - **Berufsrechtlicher Hinweis:** Alle Entwürfe unterfallen dem Mandatsgeheimnis gem. § 43a Abs. 2 BRAO, § 203 StGB. Externe Weitergabe nur nach anwaltlicher Prüfung und Freigabe.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `fto-triage-gewerblicher-rechtsschutz-mandat`, `gewerblicher-erstpruefung-und-mandatsziel`, `gw-einfuehrung-gw-einstweilige-mandat-triage`, `ip-mandatsworkspace-kontexttrennung`, `kaltstart-interview`, `mandat-arbeitsbereich`, `mandat-triage-gewerblicher-rechtsschutz`, `spezial-gewerblicher-erstpruefung-und-mandatsziel`, `start-chronologie-fristen`, `verletzungs-triage`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `abmahnung-compliance-dokumentation-und-akte`, `euipo-dokumentenmatrix-und-lueckenliste`, `freedom-gewerblicher-markenrecherche`, `klausel-beweislast-und-darlegungslast`, `markenanmeldung-dpma-markenrecherche-open`, `markenrecherche`, `markenrecherche-risikoampel-und-gegenargumente`, `patentscreening-quellenkarte`, `quellen-livecheck`, `spezial-abmahnung-compliance-dokumentation-und-akte`, `spezial-euipo-dokumentenmatrix-und-lueckenliste`, `spezial-klausel-beweislast-und-darlegungslast`, `spezial-markenrecherche-risikoampel-und-gegenargumente`, `spezial-open-formular-portal-und-einreichung`, `spezial-patentscreening-livequellen-und-rechtsprechungscheck`, `spezial-rechtsschutz-tatbestand-beweis-und-belege`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, ... plus 1 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `gewr-uwg-abmahnung-checkliste`, `ip-klausel-pruefung`, `open-source-pruefung`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `anmeldung-spezial-compliance-euipo`, `compliance-mandantenkommunikation-entscheidungsvorlage`, `evvollzug-neu-008-schutzschrift-register-und-forumstrategie`, `operate-verhandlung-vergleich-und-eskalation`, `schutzrechts-fristennotiz-ip-klausel`, `spezial-compliance-mandantenkommunikation-entscheidungsvorlage`, `spezial-operate-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `dpma-fristen-form-und-zustaendigkeit`, `evvollzug-neu-001-einstweilige-verfuegung-vollziehung-frist`, `evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung`, `evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung-und-zust`, `evvollzug-neu-003-zustellung-durch-gv-ip-verfahren`, `evvollzug-neu-005-ordnungsmittel-vollstreckung`, `evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun`, `fristen-abschlussprodukt-und-uebergabe`, `gewr-einstweilige-dpma-spezial-fristen`, `gewr-einstweilige-verfuegung-eilverfahren-spezial`, `gw-einstweilige-verfuegung-spezial`, `schutzschrift-eilverfuegung`, `spezial-anmeldung-behoerden-gericht-und-registerweg`, `spezial-dpma-fristen-form-und-zustaendigkeit`, `spezial-freedom-schriftsatz-brief-und-memo-bausteine`, `spezial-fristen-abschlussprodukt-und-uebergabe`, `spezial-schutzrechts-fristennotiz-und-naechster-schritt` |
+| 6. Ergebnis, Schreiben und Kommunikation | `evvollzug-neu-007-abmahnung-abschlussschreiben-und-hauptsache`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `gewerblicher-rs-mandantenkommunikation-redteam-qualitygate`, `rechtsschutz-review-sonderfall-source-red-team-korrektur`, `review-sonderfall-und-edge-case`, `source-red-team-und-qualitaetskontrolle`, `spezial-review-sonderfall-und-edge-case`, `spezial-source-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-urheberrecht-erfindungsmeldung`, `anpassen`, `erfindungsmeldung-aufnahme`, `evvollzug-auslandszustellung-ev-abmahnung`, `evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz`, `evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi`, `evvollzug-neu-006-auslandszustellung-ev-und-uebersetzung`, `evvollzug-zustellung-durch-bea-einstweiliger`, `gewr-geschaeftsgeheimnisgesetz`, `gewr-geschaeftsgeheimnisgesetz-spezial`, `gewr-markenanmeldung-bauleiter`, `gw-einfuehrung-rechtsschutzwege`, `open-operate-reaktion`, `reaktion-internationaler-bezug-und-schnittstellen`, `schutzrechts-portfolio-schutzschrift`, `spezial-reaktion-internationaler-bezug-und-schnittstellen`, `spezial-urheberrechts-zahlen-schwellen-und-berechnung`, `spezial-versand-mehrparteien-konflikt-und-interessen`, ... plus 5 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

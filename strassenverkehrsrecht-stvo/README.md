@@ -52,6 +52,24 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt kei
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-stvo-fall`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `bewohnerparken-beweis-sichern`, `busspur-beweis-sichern`, `fahrradstrasse-beweis-sichern`, `haltverbot-beweis-sichern`, `ladezone-beweis-sichern`, `schulstrasse-beweis-sichern` |
+| 3. Prüfung, Anspruch und Subsumtion | `bewohnerparken-risiko-erklaeren`, `busspur-behoerde-karte-bauen-risiko`, `busspur-risiko-erklaeren`, `fahrradstrasse-karte-risiko-erklaeren`, `fahrradstrasse-risiko-erklaeren`, `haltverbot-risiko-erklaeren`, `ladezone-karte-risiko-erklaeren`, `ladezone-risiko-erklaeren`, `lieferzone-risiko-ladezone-regel-zeichen`, `tempo-risiko-fahrradstrasse-regel` |
+| 4. Gestaltung, Strategie und Verhandlung | `busspur-eilrechtsschutz-planen`, `fahrradstrasse-eilrechtsschutz-planen`, `ladezone-eilrechtsschutz-planen`, `lieferzone-eilrechtsschutz-planen`, `lieferzone-sichern-eilrechtsschutz-planen`, `schulstrasse-eilrechtsschutz-planen`, `tempo-30-eilrechtsschutz-planen`, `tempo-sichern-eilrechtsschutz-planen` |
+| 5. Verfahren, Behörde und Gericht | `ausnahmegenehmigung-beantragen`, `bewohnerparken-antrag-schreiben`, `bewohnerparken-behoerde-anschreiben`, `bewohnerparken-eilrechtsschutz-behoerde`, `busspur-anordnung-antrag-schreiben`, `busspur-antrag-schreiben`, `fahrradstrasse-antrag-sichern`, `fahrradstrasse-behoerde-anschreiben`, `haltverbot-antrag-schreiben`, `haltverbot-behoerde-anschreiben`, `haltverbot-eilrechtsschutz-behoerde`, `ladezone-antrag-sichern-eilrechtsschutz`, `ladezone-behoerde-anschreiben`, `lieferzone-antrag-schreiben`, `lieferzone-behoerde-anschreiben`, `schulstrasse-anordnung-antrag-schreiben`, `schulstrasse-antrag-schreiben`, `schulstrasse-behoerde-karte`, ... plus 11 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `kommunikation-mit-strassenverkehrsbeho` |
+| 8. Spezialmodule und Schnittstellen | `baustellenverkehrsrecht`, `bewohnerparken-anordnung-angreifen`, `bewohnerparken-bussgeld-abgrenzen`, `bewohnerparken-karte-bauen`, `bewohnerparken-regel-pruefen`, `bewohnerparken-zeichen-anordnung`, `blaulicht-und-sonderrechte`, `bussgeldschnittstelle-owig`, `busspur-bussgeld-bewohnerparken`, `busspur-karte-bauen`, `busspur-regel-pruefen`, `busspur-zeichen-auslegen`, `e-scooter-und-mikromobilitaet`, `eilrechtsschutz-verkehrszeichen`, `fahrerlaubnis-schnittstelle`, `fahrradstrasse-anordnung-angreifen`, `fahrradstrasse-bussgeld-abgrenzen`, `fahrradstrasse-regel-pruefen`, ... plus 43 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

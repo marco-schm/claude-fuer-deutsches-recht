@@ -106,6 +106,24 @@ Jedes externe Ergebnis enthält knapp: KI-gestützte Vorprüfung; keine amtliche
 
 Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `dokumente-intake`, `einstieg-routing`, `kaltstart-interview`, `kaltstart-triage`, `loeschung-widerruf-nichtigkeit-global-route`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `anspruchsentwurf-dokumentenmatrix-und-lueckenliste`, `erfindungsaufnahme-tatbestand-beweis-und-belege`, `patentprozess-auskunft-patentportfolio`, `patentprozess-besichtigung-beweissicherung` |
+| 3. Prüfung, Anspruch und Subsumtion | `internationaler-patentrechts-und-laendercheck`, `patentanmeldung-anspruchsentwurf`, `pruefungsbescheid-dpma-epa-erwiderung`, `register-patentanmeldung-anspruchsentwurf` |
+| 4. Gestaltung, Strategie und Verhandlung | `patentlizenzvertrag-drafting-review`, `patentlizenzvertrag-review`, `patentportfolio-und-technikstrategie`, `patr2-zwangslizenz-pct-laenderstrategie`, `pct-laenderstrategie-und-nationalphasen`, `rechtsabteilung-upc-eilverfahren-und-deutsche-parallelstrategie` |
+| 5. Verfahren, Behörde und Gericht | `beschreibung-zeichnungen-einspruch-epa-epo`, `einspruch-epa-und-nichtigkeit-bpatg`, `epo-epue-einspruch-beschwerde-beschraenkung`, `patentanmeldung-fristen-form-und-zustaendigkeit`, `patentprozess-einstweilige-verfuegung`, `patr2-anmeldeverfahren-bauleiter`, `patr2-patentverletzungsklage-spezial`, `schweiz-patentrecht-bundespatentgericht`, `stand-technik-patr2-anmeldeverfahren`, `upc-widerruf-und-widerklage-revocation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-patentverletzung-verteidigung`, `erfinderbenennung-arbeitnehmererfindung`, `erfindungsmeldung-aufnahme-und-rueckfragen`, `freedom-to-operate-und-schutzbereich`, `gebrauchsmuster-patent-patentrechts`, `israel-patentrecht-ilpo-opposition-revocation`, `japan-jpo-kanada-cipo-loeschung-widerruf`, `kanada-patentrecht-cipo-federal-court`, `neuheit-erfinderische-patentprozess`, `patentprozess-claim-construction-de-en`, `patentprozess-experten-und-sachverstaendige`, `patentprozess-kostensicherheit-und-budget`, `patentprozess-negative-schutzschrift`, `patentprozess-schutzschrift-und-caveat`, `patentrechts-tuerkei-turkpatent-uk-patents`, `patentsettlement-und-cross-license-litigation`, `patentverletzung-claim-patr2`, `patr2-arbeitnehmererfindung-leitfaden`, ... plus 11 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

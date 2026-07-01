@@ -47,6 +47,25 @@ Beginne bei solchen Mandaten mit `bankrecht-buergschaft-aval-garantie-routing`; 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `bankrecht-buergschaft-aval-garantie-routing`, `bk-mandantenrouting-anlegeranspruch`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-bank-kapitalmarktrecht-orientierung`, `mandat-triage-bank-kapitalmarktrecht`, `orientierung-fachanwaltschaft-mandat`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `bank-tatbestand-beweis-und-belege`, `bankrecht-akkreditiv-standby-lc-dokumentenstreit`, `haftung-beweislast-und-darlegungslast`, `p-konto-pfaendung-bgh-vii-zb-25-21`, `quellen-livecheck`, `schnittstellen-compliance-dokumentation-und-akte`, `spezial-vermoegensanlage-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `vermoegensanlage-quellenkarte`, `widerrufsjoker-formular-portal-und-einreichung`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste`, `wphg-dokumentenmatrix-und-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `beratungshaftung-zahlen-schwellen-und-berechnung`, `bk-emissionsprospekt-haftung-spezial`, `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch`, `prospekthaftung-inflationsanleihe-bgh-xi-zr-442-16`, `schufa-loeschungsanspruch`, `workflow-fristen-und-risikoampel`, `wpig-risikoampel-und-gegenargumente` |
+| 4. Gestaltung, Strategie und Verhandlung | `bausparvertrag-zinsanpassung-bgh-xi-zr-78-22`, `bk-einfuehrung-aufsichtsstruktur`, `praemiensparvertrag-zinsanpassung-bgh-xi-zr-234-20`, `riester-foerderschaedlich-pflege-bfh-x-r-19-19`, `verbraucherkredit-verhandlung-vergleich-und-eskalation`, `vergleichsverhandlung-strategie` |
+| 5. Verfahren, Behörde und Gericht | `bk-bafin-beschwerdeverfahren-workflow`, `fehlerhaft-fristennotiz-und-naechster-schritt`, `kapitalmarktrecht-fristen-form-und-zustaendigkeit`, `micar-schriftsatz-brief-und-memo-bausteine`, `mifid-behoerden-gericht-und-registerweg`, `schriftsatzkern-substantiierung` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `anlageberatung-fehlerhaft`, `anlageberatungsfehler-pruefen`, `bk-aufsicht-zag-dora-inhkontrolle-crr-arbeitskern`, `bk-prip-kid-fehlerhaft-spezial`, `fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft`, `immobiliendarlehen-fehlerkatalog`, `spezial-immobiliendarlehen-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `bankaufsicht-erlaubnis-und-vertrieb`, `bankrecht-buergschaft-auf-erste-anforderung`, `bankrecht-garantieabruf-eilrechtsschutz`, `bankrecht-kaufmaennische-buergschaft-hgb-349-350`, `bankrecht-privatbuergschaft-sittenwidrigkeit`, `bankrecht-regress-nach-avalzahlung`, `bk-bankenfehlberatung-grundzuege`, `bk-cum-ex-mandant-strafrecht-spezial`, `bk-mifid-suitability-spezial`, `cum-ex-beihilfe-bgh-1-str-519-20`, `cybertrading-anlagebetrug`, `dispokredit-zinsanpassung-bgh-xi-zr-78-08`, `emissionsprospekt-mandantenentscheidung`, `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug`, `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung`, `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb`, `fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin`, `fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung`, ... plus 14 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -89,6 +89,25 @@ ZIP aus dem aktuellen Release laden und über die Plugin-Verwaltung installieren
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `dokumentenintake-und-aktenlog`, `kaltstart-routing`, `owi-kaltstart-bussgeldverfahren-sta-rolle` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktengeheimnis-und-ki-nutzung-staatsanwaelte`, `berufung-sta-beweisantraege-stpo`, `betrug-onlinehandel-beweis-und-schaden`, `beweisantraege-244-stpo-reagieren`, `beweisverwertungsverbote-staatsanwaelte`, `cybercrime-logfiles-daten-plattformen-deal`, `daten-von-plattformen-bestandsdaten`, `digitale-durchsuchung-daten-sicherung`, `encrochat-sky-ecc-anom-beweiswert`, `geldwaesche-krypto-und-kontoarrest`, `haeusliche-gewalt-opferschutz-und-beweis`, `hasskriminalitaet-online-und-plattformdaten`, `insolvenzverschleppung-bankrott-beweisimport`, `internationaler-beweisimport-verwertung`, `ki-und-deepfake-beweise-strafverfahren`, `owi-beweisaufnahme-77-und-beweisantraege`, `owi-datenschutz-bussgeld-lg-zustaendigkeit`, `plaedoyer-beweiswuerdigung-strafmass`, ... plus 7 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `owi-vorlage-an-amtsgericht-sta-check`, `revision-sta-verfahrensruegen-vorpruefung`, `vermoegensarrest-einziehung-schnellcheck` |
+| 4. Gestaltung, Strategie und Verhandlung | `hauptverhandlung-sta-vorbereitung`, `owi-hauptverhandlung-sitzungsdienst-staatsanwaelte` |
+| 5. Verfahren, Behörde und Gericht | `abschlussverfuegung-anfaengerfehler`, `anfangsverdacht-und-verfahrenseinleitung`, `anklageschrift-aufbau`, `anklageschrift-grosse-wirtschaftsstrafkammer`, `befangenheit-richter-antrag-staatsanwaelte`, `beschleunigtes-verfahren-418-stpo`, `durchsuchung-beschlagnahme-antrag`, `frist-und-zustaendigkeit-cockpit`, `fristenkalender-staatsanwaltschaft`, `haftbefehl-und-u-haft-antrag`, `koerperverletzung-strafantrag-230`, `mehrfachverfahren-verbindung-trennung`, `opfer-und-nebenklage-kommunikation`, `opferrechte-nebenklage-adhaesion`, `owi-beschlussverfahren-72-und-widerspruch`, `owi-bussgeldbescheid-inhalt-und-fehler`, `owi-bussgeldbescheid-umwelt`, `owi-einspruch-und-zwischenverfahren-69`, ... plus 13 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `durchsuchung-kanzlei-arzt-redaktion`, `ermittlungsvermerk-schreiben`, `mandanten-oder-beteiligtenkommunikation`, `vermerk-mustertext-sexualdelikte-aussage` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `red-team-qualitygate`, `sexualdelikte-aussage-gegen`, `sexualdelikte-aussage-gegen-aussage` |
+| 8. Spezialmodule und Schnittstellen | `99-finale-entscheidung-volltext`, `arbeitsstrafrecht-266a-aufsichtsbeschwerde`, `arbeitsstrafrecht-266a-und-mindestlohn`, `aufsichtsbeschwerde-und-dienstweg`, `befangenheit-richter-schoeffen`, `bekaempfung-organisierte-kriminalitaet`, `berufung-sta-einlegen-und-begrenzen`, `beschuldigtenvernehmung-anhoerung`, `btmg-kcang-mischfaelle`, `btmg-kcang-sitzungsdienst`, `cybercrime-logfiles-und-chain-of-custody`, `deal-verstaendigung-257c-stpo-staatsanwaelte`, `digitale-spuren-mobiltelefon-cloud`, `durchsuchung-beschlagnahme-kanzlei-arzt`, `einstellung-153-153a-auflagen`, `einstellung-153-153a-stpo`, `einziehung-drittbetroffene-anhoerung`, `encrochat-anom-sky`, ... plus 56 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

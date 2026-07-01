@@ -94,6 +94,25 @@ Anlagen ersetzen keinen Tatsachenvortrag. Wenn eine Behauptung entscheidungserhe
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anlagen-schriftsaetze-start-belegmatrix-fristen`, `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `kaltstart-triage`, `workflow-kaltstart-und-routing`, `zuordnung-erstpruefung-rollenklaerung-mandatsziel` |
+| 2. Unterlagen, Sachverhalt und Quellen | `anlagen-aus-datenraum-und-sharepoint`, `anlagen-elektronische-dokumente-format`, `anlagen-elektronische-dokumente-spezial`, `anlagen-tatbestand-beweis-und-belege`, `anlagenmatrix-csv-xlsx-aufbau`, `baut-beweislast-benennt-bereits-excel`, `baut-beweislast-darlegungslast`, `benennt-compliance-dokumentation-aktenvermerk`, `benennt-compliance-dokumentation-und-akte`, `beweisangebot-anlage-emails-chats-excel`, `beweisangebot-anlage-zeugen`, `chronologie-und-belegmatrix`, `excel-tabellen-und-zahlenbeweis`, `logik-quellenkarte`, `oben-formular-portal-und-einreichung`, `ocr-scan-lesbarkeit-und-beweiswert`, `pruefmodus-fristennotiz-datenraum-sharepoint`, `quellen-livecheck`, ... plus 8 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `anlagen-check-zustellung-redaktion-dsgvo`, `anlagen-prozessual-pruefung-spezial`, `anlagen-quality-check-vor-zustellung`, `fristen-und-risikoampel`, `sortiert-risikoampel-gegenargumente`, `sortiert-risikoampel-und-gegenargumente` |
+| 4. Gestaltung, Strategie und Verhandlung | `anlagenband-strukturieren`, `anlagenband-strukturieren-anlagenbezug`, `bea-paketierung-groessen-und-versandplan`, `schriftsatz-verhandlung-vergleich` |
+| 5. Verfahren, Behörde und Gericht | `anlagen-bei-eilantrag-eu-arrest`, `anlagen-berufung-revision-eilantrag-eu-bilder`, `anlagenbezug-im-schriftsatz`, `anlagenverzeichnis-gericht-kanzlei-und-intern`, `excel-schriftsatz-brief-und-memo-bausteine`, `frist-eilversand-schiedsverfahren-anlagenband`, `frist-und-eilversand-anlagenpaket`, `gerichtlichen-fristen-form-und-zustaendigkeit`, `gerichtlichen-fristen-form-zustaendigkeit-rechtsweg`, `nachreichung-berichtigung-und-gerichtshinweis`, `pruefmodus-fristennotiz-naechster-schritt`, `schriftsatz-anlagen-mapping`, `word-behoerden-gericht-und-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `anlagen-redaktion-dsgvo-geschgehg`, `arial-mandantenkommunikation-entscheidungsvorlage`, `mandantenkommunikation`, `nachreichung-berichtigung-ocr-scan-original`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `anlage-fehlerkatalog`, `anlagen-qualitygate-finalcheck`, `redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `anlage-red-anlagen-anlagenkonvolut-sonderfall`, `anlagen-an-assistenz-uebersetzungspflicht`, `anlagen-aus-edv-systemen`, `anlagen-aus-mandantenmaterial`, `anlagen-bei-berufung-revision`, `anlagen-bilder-screenshots`, `anlagen-duplikate-versionen-hashlog`, `anlagen-format-und-dateinamen`, `anlagen-fuer-bea-versand`, `anlagen-fuer-glaubhaftmachung`, `anlagen-haftpflicht-versicherer`, `anlagen-konvention-k-b-erlaeutert`, `anlagen-konvention-mandantenfreundlich`, `anlagen-konvertierung-zahlen-technische-schwellen`, `anlagen-portal-bea-einreichungslogik`, `anlagen-schriftsaetze-k1-sortierung`, `anlagen-schwaerzen-anonymisieren`, `anlagen-stempel-und-deckblattlogik`, ... plus 34 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -49,6 +49,25 @@ ZIP aus dem aktuellen Release laden und in Plugin-Umgebung oder Cowork über Cus
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `dokumentenintake-und-aktenlog`, `kaltstart-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `behoerdenformular-verstehen-bescheid`, `datenschutz-auskunft-loeschung`, `kleiner-kauf-konto-gesperrt-mandanten`, `konto-gesperrt-bank`, `paket-verloren-plattformkonto-sperre-probeabo`, `plattformkonto-sperre`, `quellen-rspr-fristen`, `rechnung-quittung-beleg` |
+| 3. Prüfung, Anspruch und Subsumtion | `gerichtspost-familiengericht-laiencheck`, `gerichtspost-laiencheck`, `online-bewertung-abmahnung` |
+| 4. Gestaltung, Strategie und Verhandlung | `vergleichsangebot-pruefen`, `vertrag-unterschrieben-abo-falle` |
+| 5. Verfahren, Behörde und Gericht | `baubehoerde-nachbarbrief`, `bescheid-brief-verstehen`, `frist-und-zustaendigkeit-cockpit`, `fristkalender-laie`, `gerichtlicher-mahnbescheid-laie`, `inkasso-mahnung-vollstreckung`, `kindergeld-kinderzuschlag-bescheid`, `schriftsatz-vermerk-und-mustertext`, `schulbehoerde-ordnungsmassnahme` |
+| 6. Ergebnis, Schreiben und Kommunikation | `inkasso-brief-erste-hilfe`, `jugendamt-schreiben-verstehen`, `mandanten-oder-beteiligtenkommunikation`, `reise-flug-reparatur-statt-vermerk-mustertext` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `red-team-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abo-falle-kuendigung`, `abo-kuendigung-fitness-streaming`, `arzt-rechnung-bankentgelte-zustimmungsfiktion`, `bankentgelte-zustimmungsfiktion`, `ecommerce-kauf-fahrradreparatur`, `entscheidungsvorlage`, `fahrradreparatur-dienstleistung`, `fahrradreparatur-nachbesserung-fake-shop`, `fake-shop-und-chargeback`, `fitnessstudio-rueckzahlung-schliessung`, `garantie-vs-gebrauchtkauf-privat`, `gebrauchtkauf-privat-maengel`, `handwerkerrechnung-zu-hoch`, `hotel-maengel-inkasso-erste-mahnung`, `inkassokosten-konzerninkasso-jugendamt`, `kita-platz-kleinanzeige-betrug-kleine`, `kleinanzeige-betrug`, `kleine-dienstleistung-schlecht`, ... plus 19 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

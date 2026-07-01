@@ -78,6 +78,24 @@ Mai 2026. Hinweise zu Reformen sind eingebaut. Bei Unsicherheit prüfen Sie unte
 
 Apache-2.0 OR MIT.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage`, `orientierung-selbstvertreter-sozialgericht` |
+| 2. Unterlagen, Sachverhalt und Quellen | `akteneinsicht-25-sgb-x`, `beweismittel-im-sozialgericht-uebersicht`, `dokumenten-erzeugung-pdf-laien-sozialgericht`, `dsgvo-art-15-auskunft-sozialakte`, `medizinische-gutachten-strategie-laien`, `pflegegrad-mds-gutachten-widerspruch`, `rentenauskunft-und-versicherungsverlauf-pruefen`, `rentenauskunft-versicherungsverlauf`, `rentenkontenklaerung-149-sgb-vi`, `widerspruch-gegen-gutachten-laien`, `zeugenbeweis-sozialgericht-373-zpo-analog` |
+| 3. Prüfung, Anspruch und Subsumtion | `eilantrag-erfolgsaussichten-checkliste`, `erwerbsminderungs-rente-streit-sgb-vi`, `erwerbsminderungsrente-belegfuehrung`, `kostenrisiko-vs-kostenfreiheit-laien`, `sanity-check-selbstvertretung-sozialgericht`, `terminvorbereitung-laien-checkliste`, `terminvorbereitung-laien-checkliste-sozialgericht`, `zulassungsgrenzen-check-sozialgericht` |
+| 4. Gestaltung, Strategie und Verhandlung | `vergleich-vorschlag-101-sgg`, `video-verhandlung-110a-sgg` |
+| 5. Verfahren, Behörde und Gericht | `anfaenger-workflow-sozialgericht`, `anfechtungsklage-54-sgg`, `anhoerung-im-sozialverwaltungsverfahren-24-sgb-x`, `anhoerung-sozialverwaltungsverfahren-24-sgb-x`, `anlagen-bezeichnen-sortieren-sozialgericht`, `anlagen-bezeichnen-und-sortieren-sozialgericht`, `bafoeg-bescheide-widerspruch`, `beratungshilfe-vor-widerspruch-brh`, `bescheid-lesen-tenor-begruendung-belehrung`, `dolmetscher-beim-sozialgericht-laien`, `eilantrag-86b-sgg-grundlagen`, `eilantrag-buergergeld-jobcenter`, `eilantrag-krankenkassen-leistung`, `eilantrag-pflegekassen-pflegehilfsmittel`, `einreichung-fax-und-grenzen-sozialgericht`, `einreichung-mein-justizpostfach-mjp-sozialgericht`, `einreichung-papierform-sozialgericht-mit-abschriften`, `feststellungsklage-55-sgg`, ... plus 32 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `arztberichte-vorlegen-laien-leitfaden`, `krankenkassen-mds-stellungnahme` |
+| 8. Spezialmodule und Schnittstellen | `amtsermittlungsgrundsatz-103-sgg`, `anwaltskosten-bei-erfolg-erstattung`, `anwaltszwang-pruefen-73-sgg`, `arbeitslosengeld-i-sgb-iii`, `arbeitsunfall-bg-anerkennung-anzeige`, `aufrechnung-laufende-leistungen-51-sgb-i`, `berufskrankheit-bk-meldung-bkv`, `berufung-lsg-144-sgg-wertgrenze-750`, `berufung-zulassung-besondere-bedeutung`, `buergergeld-jobcenter-sgb-ii`, `buergergeld-kosten-der-unterkunft-22-sgb-ii`, `buergergeld-mehrbedarf-21-sgb-ii`, `buergergeld-sanktionen-31a-sgb-ii`, `buergergeld-ueberbrueckungsgeld`, `einfache-sprache-tipps-fuer-alle-anliegen`, `eingliederungshilfe-sgb-ix-rehabilitation`, `eingliederungsvereinbarung-15-sgb-ii`, `elterngeld-elterngeldstellen-beeg`, ... plus 45 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

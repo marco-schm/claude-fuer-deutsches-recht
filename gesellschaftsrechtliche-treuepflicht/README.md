@@ -43,6 +43,25 @@ Dieses Plugin prüft gesellschaftsrechtliche Treuepflicht nicht als wolkiges Ger
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-routing`, `treuepflicht-router` |
+| 2. Unterlagen, Sachverhalt und Quellen | `auskunft-und-rechnungslegung`, `beweismatrix`, `beweismatrix-bezugsrecht-verwaesserung`, `interessenmatrix`, `treuepflicht-geheimhaltung-und-datenraum`, `treuepflicht-ki-und-datenzugriff` |
+| 3. Prüfung, Anspruch und Subsumtion | `anspruchsziele` |
+| 4. Gestaltung, Strategie und Verhandlung | `compliance-meldung`, `exit-verhandlung`, `gesellschafterversammlungsstrategie`, `klageentwurf-stimmbindungsvertrag`, `sanierungsbeitrag-sanierungsbeschluss-satzung`, `sanierungsbeschluss`, `stimmbindungsvertrag`, `vergleich-und-mediation`, `vergleichskorridor` |
+| 5. Verfahren, Behörde und Gericht | `ausschlussklage-austritt-kuendigung-bank`, `beschlussanfechtung`, `boykott-beschlussunfaehigkeit-meldung`, `gerichtstauglicher-antrag`, `olg-boykott-beschlussfaehigkeit`, `positive-beschlussfeststellung`, `registersperre` |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandantenbrief-mehrheit-minderheit`, `treuepflicht-abschlussbericht-playbook`, `treuepflicht-memo` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `red-team-gegenargumente` |
+| 8. Spezialmodule und Schnittstellen | `aktienrecht-gleichbehandlung-53a`, `aktionaerstreuepflicht-anfechtung`, `anfechtung-und-rechtsmissbrauch`, `aufsichtsrat-schnittstelle-beirat-investor`, `austritt-kuendigung`, `bank-und-finanziererrolle`, `bezugsrecht-und-verwaesserung`, `bezugsrechtsausschluss`, `bgh-ii-zr-166-05-informationspflicht`, `bgh-ii-zr-275-14-media-saturn`, `bgh-ix-zr-149-16-kapitalgesellschaft`, `chronologie`, `corporate-opportunity`, `deadlock-einstweiliger-rechtsschutz`, `einstweiliger-rechtsschutz`, `einziehungsabwehr`, `familienfrieden-vs-familiengesellschaft-gbr`, `familiengesellschaft`, ... plus 53 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

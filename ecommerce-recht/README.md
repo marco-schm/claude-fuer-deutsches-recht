@@ -58,6 +58,25 @@ Dieses Plugin soll keine nicht prüfbaren Fundstellen produzieren. Bei unsichere
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `b2c-b2b-plattform-marktplatz-routing`, `dokumentenintake-screenshots-agb-logs`, `international-eu-verbraucherrecht-intake`, `kaltstart-e-commerce-mandat`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `datenportabilitaet-kundenkonto`, `datenschutzerklaerung-tracking-digitale`, `logfiles-beweisfuehrung-newsletter-double-odr`, `security-incident-shop-datenschutzmeldung` |
+| 3. Prüfung, Anspruch und Subsumtion | `bewertungen-loeschen-button-loesung-buy-now`, `livecheck-bgb-uwg-ddg-dsa-pangv`, `marktplatzhaftung-haendler-plattform`, `output-rechtstexte-risikoampel-tickets`, `preisangaben-pangv-produktbewertungen-ranking`, `produktbewertungen-ranking-transparenz`, `shop-check-social-commerce` |
+| 4. Gestaltung, Strategie und Verhandlung | `abmahnung-einstweilige-verfuegung-sofortplan`, `abo-falle-negative-option`, `e-mail-fernabsatzvertrag-312c`, `fernabsatzvertrag-312c-bgb`, `grenzueberschreitender-verbrauchervertrag-rom-i-bruessel-ia`, `informationspflichten-vertragsschluss`, `unwirksame-klauseln-versand-ruecksendung-gewaehrleistung` |
+| 5. Verfahren, Behörde und Gericht | `einstweilige-verfuegung-im-wettbewerbsrecht` |
+| 6. Ergebnis, Schreiben und Kommunikation | `rechtsabteilung-omnibus-preisangaben-und-rabattkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `red-team-shop-vor-launch` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-uwg-abo-falle-accessibility-bfsg`, `accessibility-bfsg-online-shop`, `agb-online-altersverifikation-jugendschutz`, `altersverifikation-jugendschutz`, `app-commerce-in-app-kaeufe`, `b2b-shop-b2c`, `barrierefreiheitsstaerkungsgesetz-ab-2025`, `button-loesung-312j-bgb`, `buy-now-pay-later-verbraucherkredit`, `ce-kennzeichnung-cookie-banner`, `cookie-banner-dark-patterns`, `digitale-inhalte-abo-kuendigungsbutton`, `domainrecht-cybersquatting`, `dropshipping-drittland-oss-ioss-abmahnung`, `dsa-pflichten-e-commerce-einstweilige`, `e-commerce-fuer-apotheken-medizinprodukte-lebensmittel`, `elektrog-verpackg-geoblocking-verordnung`, `geoblocking-verordnung-eu`, ... plus 28 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

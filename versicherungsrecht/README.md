@@ -47,6 +47,23 @@ Normtexte werden aus amtlichen Quellen geprüft. Rechtsprechung wird nur mit Ger
 
 > **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. Nicht das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `vers-dokumentenintake-police-avb-nachtraege`, `vers-kaltstart-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `bu-abstrakte-konkrete-verweisung`, `bu-berufsbild-bu-nachpruefung-datenschutz`, `datenschutz-schweigepflicht-gesundheitsdaten`, `idd-vertrieb-beratung-dokumentation`, `versicherungsmakler-haftung-deckungsluecke` |
+| 3. Prüfung, Anspruch und Subsumtion | `bu-nachpruefung-anerkenntnis-leistungseinstellung`, `d-o-claims-made-innenhaftung-43-gmbhg`, `direktanspruch-pflichtversicherung-eiopa`, `kreditversicherung-obliegenheiten-limit-pruefung`, `lebensversicherung-ueberschussbeteiligung-bewertungsreserven` |
+| 4. Gestaltung, Strategie und Verhandlung | `dora-cyber-abfindung-entschaedigungsquittung`, `rechtsschutz-vorvertraglichkeit-schadenereignis`, `vergleich-abfindung-entschaedigungsquittung` |
+| 5. Verfahren, Behörde und Gericht | `rechtsabteilung-rechtsschutzversicherung-im-massenverfahren`, `sachverstaendigenverfahren-versicherung`, `vers-fristen-verjaehrung-klagefrist-fallkalender` |
+| 8. Spezialmodule und Schnittstellen | `betriebshaftpflicht-versicherungsfall-serienschaden`, `betriebsunterbrechung-sachschaden-trigger`, `cyberversicherung-ransomware-d-o`, `deckungsprozess-vvg-rechtsabteilung`, `eiopa-grenzueberschreitender-vertrieb`, `elementarschaden-starkregen-ueberschwemmung`, `gewerbe-betriebsschliessung-infektionsschutz`, `hausrat-einbruchdiebstahl-idd-vertrieb`, `internationales-versicherungsprogramm-master-local-policy`, `kfz-haftpflicht-kasko-grobe-krankentagegeld`, `kfz-kasko-grobe-fahrlaessigkeit-entwendung`, `krankentagegeld-berufsunfaehigkeit-abgrenzung`, `kreditausfallversicherung-warenkredit`, `lebensversicherung-bezugsrecht-widerruf-aenderung`, `lebensversicherung-rueckkaufswert`, `nachhaltigkeit-taxonomie-sfdr-versicherungsprodukt`, `pkv-kostenerstattung-private`, `private-krankenversicherung-beitragsanpassung-treuhaender`, ... plus 28 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

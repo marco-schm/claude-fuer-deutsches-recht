@@ -164,6 +164,25 @@ vertragsrecht/
 - Das Fristen-Tracking erfasst nur Verträge, die über dieses Plugin geprüft oder aus dem CLM einmalig importiert wurden. Vor der Installation unterzeichnete Verträge erfordern einen einmaligen Erstimport.
 - **Berufsrechtlicher Hinweis:** Jede Ausgabe ist ein Arbeitsentwurf. Die anwaltliche Verschwiegenheitspflicht (§ 43a Abs. 2 BRAO, § 203 StGB) ist bei jeder Weitergabe zu beachten.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-router`, `dokumente-intake`, `einstieg-routing`, `kaltstart-interview`, `mandat-arbeitsbereich-vr-einfuehrung`, `renewal-review-routing`, `routing-zahlen-schwellen-und-berechnung`, `vertragsmandat-workspace-kontexttrennung`, `vertragsrecht-erstpruefung-und-mandatsziel`, `workflow-anschluss-skills-router`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `business-compliance-dokumentation-und-akte`, `eskalations-quellenkarte`, `lieferanten-tatbestand-beweis-und-belege`, `quellen-livecheck`, `rahmenvertrag-beweislast-vertragsrecht-vert`, `rechtsquellen`, `spezial-eskalations-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `agb-pruefung`, `fristen-risikoampel-mandantenkommunikation`, `lieferantenvertrag-pruefung`, `nda-pruefungsvorschlaege-saas-msa`, `pruefungsvorschlaege`, `saas-msa-pruefung`, `vert-vertragsschluss-vertragspruefung`, `vertragspruefung` |
+| 4. Gestaltung, Strategie und Verhandlung | `tracking-verhandlung-vergleich-und-eskalation`, `vert-rahmenvertrag-einzelabrufe-spezial`, `vertragsverlaengerungs-monitor`, `vr-einfuehrung-vertragstypen-bgb` |
+| 5. Verfahren, Behörde und Gericht | `fristennotiz-naechster-vertriebsvertraege`, `review-behoerden-gericht-und-registerweg`, `vertriebsvertraege-fristen-form-und-zustaendigkeit` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `vert-mandantenkommunikation-entscheidungsvorlage`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `fernabsatz-lieferanten-red-team`, `pruefung-red-team-und-qualitaetskontrolle`, `spezial-pruefung-red-team-und-qualitaetskontrolle`, `vert-agb-kontrolle-leistungsstoerungen-leitfaden`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-uwg`, `aenderungs-historie-agb-eskalations-marker`, `anpassen`, `bgb-business-einzelabrufe-sonderfall`, `einzelabrufe-sonderfall-und-edge-case`, `eskalations-marker`, `nda-durchsetzer`, `saas-tracking-vert`, `stakeholder-zusammenfassung`, `vert-leistungsstoerungen-leitfaden`, `vr-agb-recht-grundzuege`, `vr-leistungsstoerungen-widerruf-fernabsatz`, `widerruf-fernabsatz`, `widerruf-zusammenfassungen-interessen`, `zusammenfassungen-mehrparteien-konflikt-und-interessen` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

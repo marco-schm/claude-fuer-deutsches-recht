@@ -204,6 +204,25 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/arb
 - **Lohn-/Arbeitszeitfragen zitieren die Norm**, kennzeichnen aber Grenzfälle zur menschlichen Prüfung. Einstufungsentscheidungen haben Konsequenzen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `arbeitsrecht-mandatsakte-kontexttrennung`, `entfristung-triage-was-will-user`, `kaltstart-interview`, `kaltstart-triage`, `kueschk-triage-laie-oder-anwalt`, `mandat-arbeitsbereich`, `mandat-triage-arbeitsrecht` |
+| 2. Unterlagen, Sachverhalt und Quellen | `kuendigung-zugang-beweiswerkstatt`, `rechtsstand-mai-2026-faktenbank`, `zugang-neu-001-kuendigungszugang-beweislast-und-zugangsmoment`, `zugang-neu-002-einwurf-einschreiben-auslieferungsbeleg-und-inhal` |
+| 3. Prüfung, Anspruch und Subsumtion | `agg-pruefung-bewerber-und-beschaeftigte`, `arbeitnehmer-status`, `einstellungspruefung`, `entfristung-vergleichsverhandlung-checkliste`, `kuendigungs-pruefung`, `kueschk-grundwarnung-falsche-wiese-und-haftung`, `kueschk-sonderkuendigungsschutz-checkliste`, `kueschk-stricken-anwalt-risiko-und-vergleichsdruck`, `kueschk-vergleichsverhandlung-checkliste`, `kueschk-zeugnisanspruch-und-vergleich` |
+| 4. Gestaltung, Strategie und Verhandlung | `aufhebungsvertrag`, `aufhebungsvertrag-sperrzeit-prognose`, `bag-equal-pay-paarvergleich-8azr30024`, `bag-freistellungsklausel-unwirksam-5azr10825`, `kueschk-abfindung-faustformel-und-spannweite`, `kueschk-erwiderung-arbeitgeber-strategien-typisch`, `kueschk-guetetermin-strategie-und-sprechzettel`, `kueschk-muendliche-verhandlung-praxistipps-laie`, `zugang-neu-007-mehrfachzustellung-kuendigung-sicherheitskonzept` |
+| 5. Verfahren, Behörde und Gericht | `betriebsrat-beschluss-heilung-nachtraeglich`, `entfristung-elektronische-signatur-vorsicht`, `entfristung-grundwarnung-drei-wochen-frist`, `entfristung-guetetermin-und-kammertermin-sprechzettel`, `entfristung-klageschrift-anwalt-baustein`, `entfristung-klageschrift-laie-baustein`, `entfristung-laie-oder-anwalt-frage`, `entfristung-output-warnschriftsatz-laie`, `entfristung-rechtsfolge-16-tzbfg-unbefristet`, `entfristung-sachgrund-pruefen-14-abs-1`, `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung`, `entfristung-sachgrundlos-14-abs-2a-neugruendung`, `entfristung-sachgrundlos-14-abs-3-aelter-52`, `entfristung-schriftform-14-abs-4-erkennen`, `fehlzeiten-register`, `kuendigungsschutzklage`, `kueschk-allgemeiner-und-besonderer-feststellungsantrag`, `kueschk-aufloesungsantrag-arbeitnehmer-9-kschg`, ... plus 7 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `hinschg-whistleblower-antwort`, `kueschk-kammertermin-sprechzettel`, `richtlinien-entwurf`, `untersuchungs-memo`, `zugang-neu-002-einwurf-einschreiben-auslieferung-inhalt`, `zugang-neu-005-hausbriefkasten-leerungszeiten-und-zugang` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `kueschk-formfehler-pruefen` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-arbeitsrecht`, `anpassen`, `arbeitsrecht-anpassen`, `arbeitsrecht-problem-sortieren`, `bag-mindesturlaub-kein-verzicht-9azr10424`, `betriebsrat-anhoerung`, `betriebsrat-ladung-und-ersatzmitglieder-pruefen`, `betriebsuebergang-613a-pruefen`, `expansion-aktualisierung`, `expansion-auftakt`, `fehlzeit-erfassen`, `handbuch-aktualisierung`, `internationale-expansion`, `interne-untersuchung`, `kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst`, `kueschk-anwendbarkeit-kschg-pruefen`, `kueschk-berufung-und-revision-lag-bag`, `kueschk-kuendigungsgrund-personen-verhalten-betrieb`, ... plus 18 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

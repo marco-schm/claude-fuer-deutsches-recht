@@ -93,6 +93,25 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 *Alle Mandantennamen und Beratungsbeispiele in den Skills sind fiktiv. Die zitierten Gerichtsentscheidungen und Gesetze sind reale Quellen.*
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `design-start-chronologie`, `dokumente-intake`, `einstieg-routing`, `strategische-erstpruefung-und-mandatsziel`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `buyouts-quellenkarte`, `country-by-country-benefits-matrix-konzern`, `harmonisierung-formular-portal-und-einreichung`, `internationale-buyout-datenflows-und-datenschutz`, `quellen-livecheck`, `restrukturierung-beweislast-stil-strategische`, `spezial-buyouts-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `fristen-risikoampel-mandantenkommunikation`, `pensionsmodelle-risikoampel-und-gegenargumente`, `psv-pensionssicherungsverein-und-haftungsketten` |
+| 4. Gestaltung, Strategie und Verhandlung | `cta-contractual-trust-arrangement-strukturierung`, `drei-stufen-expatriate-pensionsplanung`, `expatriate-pensionsplanung-und-totalization`, `kollektivrechtliche-loesungen-und-sozialplan`, `pension-buyout-strukturierung-und-de-risking`, `pension-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `altersversorgung-boutique-fristennotiz-psv`, `boutique-fristennotiz-und-naechster-schritt`, `fuenf-behoerden-gericht-und-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `benefits-mandantenkommunikation-entscheidungsvorlage`, `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `internationale-fehlerkatalog`, `spezial-internationale-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `bav-cta-treuhand-spezial`, `bav-erstattung-fuenftelregelung`, `bav-grenzueberschreitend-mobil-spezial`, `bav-konzern-design-workflow`, `bav-pensionsfond-rueckdeckung-spezial`, `betrieblichen-drei-duesseldorfer-sonderfall`, `buyout-ma-country-by-cta-contractual`, `drei-zahlen-schwellen-und-berechnung`, `duesseldorfer-sonderfall-und-edge-case`, `durchfuehrungswege-fuenf-harmonisierung`, `einfuehrung-durchfuehrungswege-erstattung`, `governance-und-anpassungsmechanismen`, `harmonisierung-migration-historisch`, `historisch-gewachsene-altsysteme-due-diligence`, `internationale-harmonisierung-japan-corporate`, `japan-bav-und-corporate-pension-iorp`, `konzernen-pension-pensionsmodelle`, `mitbestimmung-betriebsrat-pension-buyout`, ... plus 6 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

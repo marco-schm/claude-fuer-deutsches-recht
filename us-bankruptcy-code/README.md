@@ -161,6 +161,21 @@ Es ist für deutsche Kanzleien, Rechtsabteilungen, Kreditgeber, Käufer, Lizenzn
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage` |
+| 4. Gestaltung, Strategie und Verhandlung | `chapter9-municipal-plan-chapter11-dip`, `chapter9-plan`, `chapter13-plan`, `plan-classification`, `plan-modification-1127`, `plan-pension-erisa-classification`, `plan-support-agreements` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `redteam-bankruptcy-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `absolute-priority-adequate-protection`, `adequate-protection`, `administrative-expenses-503`, `adversary-proceedings`, `asbestos-channeling-automatic-stay-avoidance`, `automatic-stay-362`, `avoidance-litigation`, `bankruptcy-appeals`, `board-duties-cash-collateral-chapter7-asset`, `cash-collateral-363`, `chapter7-asset-distribution`, `chapter7-liquidation`, `chapter11-dip`, `chapter12-family-farmer`, `chapter13-codebtor-stay-discharge-eligibility`, `chapter13-discharge`, `chapter13-eligibility`, `chapter15-comity-recognition-claim-objection`, ... plus 73 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

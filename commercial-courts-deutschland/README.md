@@ -144,6 +144,23 @@ Vor produktiver Verwendung müssen Bundesrecht, Landesrecht und Gerichtsseite li
 Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `claim-intake-chamber-vs-conference`, `commercial-court-kaltstart-interview`, `kaltstart-triage` |
+| 3. Prüfung, Anspruch und Subsumtion | `limitation-and-tolling-check`, `zustandigkeit-119b-gvg-check` |
+| 5. Verfahren, Behörde und Gericht | `englische-verfahrenssprache-late-submissions`, `klageschrift-english-limitation-tolling` |
+| 6. Ergebnis, Schreiben und Kommunikation | `bilingual-client-board-briefing` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `redteam-commercial-court-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `appeal-and-revision-614-zpo`, `arbitration-clause-bea-erv`, `bea-erv-english-pleadings`, `bgh-english-bilingual-client`, `bundle-index-case-management`, `case-management-conference`, `commercial-chamber-vs-commercial-court`, `confidentiality-trade-contract-interpretation`, `contract-interpretation-de-en`, `costs-court-counterclaim-setoff`, `counterclaim-setoff-claim-amendment`, `cross-border-default-judgment`, `default-judgment-and-nonappearance`, `defence-answer-director-officer`, `director-officer-liability-dispute`, `document-production-earn-out`, `earn-out-accounting-dispute`, `enforcement-translation-english-legal`, ... plus 30 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

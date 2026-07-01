@@ -1,0 +1,141 @@
+#!/usr/bin/env python3
+"""Fügt Plugin-READMEs eine thematische Skill-Navigation hinzu.
+
+Der Block nutzt nur Skillordner-Namen. Skillinhalte, Skillnamen und die
+bestehende alphabetische Komplettliste bleiben unverändert.
+"""
+
+from __future__ import annotations
+
+import json
+import re
+from pathlib import Path
+
+REPO = Path(__file__).resolve().parent.parent
+MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
+BEGIN = "<!-- BEGIN SKILLS-LOGIC (auto-generated) -->"
+END = "<!-- END SKILLS-LOGIC (auto-generated) -->"
+SKILLS_OVERVIEW_BEGIN = "<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->"
+DISPLAY_OMIT = ("chatgpt", "codex", "assistant", "perplexity", "openai")
+
+GROUPS: list[tuple[str, tuple[str, ...]]] = [
+    ("1. Einstieg und Fallrouting", ("kaltstart", "triage", "erstberatung", "ersttermin", "fallaufnahme", "intake", "eingang", "route", "routing", "navigator", "start", "mandat", "mandatsaufnahme", "orientierung", "zielbild")),
+    ("2. Unterlagen, Sachverhalt und Quellen", ("akte", "akten", "dokument", "unterlage", "sachverhalt", "beweis", "beleg", "nachweis", "quelle", "recherche", "auskunft", "daten", "matrix", "konto", "verlauf", "luecke", "gutachten", "formular", "auszug")),
+    ("3. Prüfung, Anspruch und Subsumtion", ("pruefung", "pruefer", "anspruch", "subsumtion", "tatbestand", "norm", "analyse", "bewertung", "haftung", "risiko", "status", "klassifikation", "check", "rentenbescheid", "altersrente", "erwerbsminderung", "erwerbsminderungsrente", "hinterbliebenenrente", "witwen", "waisen", "grundrente", "abzuege")),
+    ("4. Gestaltung, Strategie und Verhandlung", ("gestaltung", "strategie", "vertrag", "klausel", "verhandlung", "vergleich", "plan", "planung", "struktur", "sanierung", "compliance", "konzept", "option", "varianten", "fahrplan", "nachzahlung", "freiwillige", "ausgleich", "abfindung", "betriebsrente", "private-rentenversicherung", "mehrsaeulen")),
+    ("5. Verfahren, Behörde und Gericht", ("klage", "widerspruch", "einspruch", "bescheid", "gericht", "sozialgericht", "verfahren", "antrag", "schriftsatz", "urteil", "beschluss", "verfuegung", "vollstreckung", "frist", "register", "behoerde")),
+    ("6. Ergebnis, Schreiben und Kommunikation", ("schreiben", "brief", "mandantenbrief", "memo", "vermerk", "entwurf", "bericht", "output", "kommunikation", "antwort", "stellungnahme", "redaktion", "praesentation", "sprechzettel")),
+    ("7. Kontrolle, Qualität und Gegenprüfung", ("review", "red-team", "kontrolle", "gegen", "fehler", "plausibil", "validierung", "audit", "qualitaet", "korrektur")),
+]
+
+PRIORITY_GROUPS: list[tuple[str, tuple[str, ...]]] = [
+    ("7. Kontrolle, Qualität und Gegenprüfung", ("red-team", "qualitygate", "qualitaetsgate")),
+    ("3. Prüfung, Anspruch und Subsumtion", ("rentenbescheid", "altersrente", "erwerbsminderung", "erwerbsminderungsrente", "hinterbliebene", "hinterbliebenenrente", "grundrente", "kvdr", "uebergangsgeld")),
+    ("4. Gestaltung, Strategie und Verhandlung", ("hinzuverdienst", "teilrente", "weiterarbeit", "nachzahlung", "ausgleich", "betriebsrente", "riester", "basisrente", "mehrsaeulen")),
+    ("2. Unterlagen, Sachverhalt und Quellen", ("kontenklaerung", "versicherungsverlauf", "auslandszeiten", "kindererziehungszeiten", "pflegezeiten")),
+]
+
+
+def natural_key(text: str) -> list[object]:
+    return [int(part) if part.isdigit() else part for part in re.split(r"(\d+)", text.lower())]
+
+
+def plugin_dir(plugin: dict) -> Path:
+    source = plugin.get("source") or f"./{plugin['name']}"
+    return REPO / source.removeprefix("./")
+
+
+def skill_slugs(directory: Path) -> list[str]:
+    skills = directory / "skills"
+    if not skills.is_dir():
+        return []
+    return sorted([d.name for d in skills.iterdir() if d.is_dir() and (d / "SKILL.md").is_file()], key=natural_key)
+
+
+def classify(slug: str) -> str:
+    lower = slug.lower()
+    for label, needles in PRIORITY_GROUPS:
+        if any(needle in lower for needle in needles):
+            return label
+    for label, needles in GROUPS:
+        if any(needle in lower for needle in needles):
+            return label
+    return "8. Spezialmodule und Schnittstellen"
+
+
+def format_slugs(slugs: list[str], limit: int = 18) -> str:
+    displayable = [slug for slug in slugs if not any(part in slug.lower() for part in DISPLAY_OMIT)]
+    if not displayable:
+        return "Siehe alphabetische Komplettliste unten."
+    shown = displayable[:limit]
+    text = ", ".join(f"`{slug}`" for slug in shown)
+    rest = len(displayable) - len(shown)
+    if rest > 0:
+        text += f", ... plus {rest} weitere"
+    return text
+
+
+def build_block(slugs: list[str]) -> str:
+    if len(slugs) < 4:
+        return ""
+    grouped: dict[str, list[str]] = {}
+    for slug in slugs:
+        grouped.setdefault(classify(slug), []).append(slug)
+    labels = [label for label, _ in GROUPS] + ["8. Spezialmodule und Schnittstellen"]
+    lines = [
+        BEGIN,
+        "",
+        "## Orientierung nach Arbeitslogik",
+        "",
+        "Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.",
+        "",
+        "| Arbeitsphase | Typische Skills |",
+        "| --- | --- |",
+    ]
+    for label in labels:
+        items = grouped.get(label)
+        if items:
+            lines.append(f"| {label} | {format_slugs(items)} |")
+    lines.extend(["", END])
+    return "\n".join(lines)
+
+
+def inject(readme: Path, block: str) -> bool:
+    if not block or not readme.is_file():
+        return False
+    original = readme.read_text(encoding="utf-8")
+    text = original
+    if BEGIN in text and END in text:
+        start = text.find(BEGIN)
+        end = text.find(END, start) + len(END)
+        text = text[:start] + block + text[end:]
+    elif SKILLS_OVERVIEW_BEGIN in text:
+        text = text.replace(SKILLS_OVERVIEW_BEGIN, block + "\n\n" + SKILLS_OVERVIEW_BEGIN, 1)
+    else:
+        sep = "" if text.endswith("\n\n") else ("\n" if text.endswith("\n") else "\n\n")
+        text = text + sep + block + "\n"
+    if text == original:
+        return False
+    readme.write_text(text, encoding="utf-8")
+    return True
+
+
+def main() -> int:
+    market = json.loads(MARKETPLACE.read_text(encoding="utf-8"))
+    changed = 0
+    total = 0
+    for plugin in market["plugins"]:
+        directory = plugin_dir(plugin)
+        slugs = skill_slugs(directory)
+        if not slugs:
+            continue
+        total += 1
+        if inject(directory / "README.md", build_block(slugs)):
+            changed += 1
+            print(f"  UPD {plugin['name']}", flush=True)
+    print(f"Fertig: {changed}/{total} READMEs mit Arbeitslogik-Navigation aktualisiert.")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

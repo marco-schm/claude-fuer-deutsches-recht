@@ -57,6 +57,24 @@ Die Akte `bgb-bt-smart-kuehlschrank-digital-repair-koeln` ergänzt den modernen 
 Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und überprüfbarer freier Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatzangaben aus Modellwissen.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `dokumente-intake`, `geschaeftsbesorgung-auftrag-mandat`, `kaltstart-triage`, `vertragstypen-mischvertrag-router`, `workflow-dokumentenintake` |
+| 2. Unterlagen, Sachverhalt und Quellen | `beweislast-belegmatrix`, `gutachten-klage`, `kaufrecht-abweichungsvereinbarung-objektive-beweislast`, `kaufrecht-beweislast-verjaehrung-digitale`, `kaufrecht-beweislast-verjaehrung-digitale-elemente`, `live-quellen-rechtsstand`, `workflow-beweislast-und-belegmatrix`, `workflow-livequellen-rechtsstand`, `workflow-output-gutachten-klage-brief` |
+| 3. Prüfung, Anspruch und Subsumtion | `anfangercoach-schuldrecht-anspruchslandkarte`, `anspruchslandkarte-vertragstypen`, `deliktsrecht-haftung-fuer-verrichtungen-paragraph-831`, `deliktsrecht-haftung-verrichtungen-paragraph`, `produzentenhaftung-und-verkehrssicherung`, `produzentenhaftung-verkehrssicherung`, `workflow-anspruchslandkarte` |
+| 4. Gestaltung, Strategie und Verhandlung | `arbeitsnaher-dienstvertrag-bauvertrag`, `arbeitsnaher-dienstvertrag-bgb`, `bauvertrag-und-verbraucherbauvertrag`, `bt-vertragsentwurf-modellvertrag`, `delikt-vertrag-dienstvertrag`, `delikt-vertrag-konkurrenz`, `dienstvertrag-und-behandlungsvertrag`, `kaufvertrag-grundschema-paragraph-433`, `maklervertrag-provision-mietvertrag`, `maklervertrag-und-provision`, `mietvertrag-grundschema-paragraph-535`, `reisevertrag-pauschalreise`, `ruecktritt-kuendigung-verhandlungsplan`, `vergleich-paragraph-779`, `verhandlungsplan-vertragsschluss`, `vertragstypen-mischvertrag-werkvertrag`, `werkvertrag-abnahme-und-faelligkeit`, `werkvertrag-grundschema-paragraph-631`, ... plus 3 weitere |
+| 5. Verfahren, Behörde und Gericht | `bt-fristen-erklaerungen-zugang`, `workflow-fristen-ruecktritt-kuendigung` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `goa-entgegenstehender-wille-paragraphen-678`, `goa-entgegenstehender-wille-paragraphen-678-679`, `red-team-gegenseite`, `workflow-red-team-gegenseite` |
+| 8. Spezialmodule und Schnittstellen | `amtlicher-bgb-auftrag-unentgeltliche`, `anfangercoach-schuldrecht-bt`, `auftrag-und-unentgeltliche-taetigkeit`, `bereicherungsrecht-entreicherung-saldotheorie`, `bereicherungsrecht-entreicherung-und-saldotheorie`, `bereicherungsrecht-leistungskondiktion`, `bereicherungsrecht-nichtleistungskondiktion`, `buergschaft-einreden-und-akzessorietaet`, `buergschaft-form-und-verbraucherbuerge`, `buergschaft-grundschema-paragraph-765`, `buergschaft-verbraucherbuerge-grundschema`, `darlehen-und-finanzierung`, `delikt-organisationspflicht`, `delikt-organisationspflicht-psychische`, `delikt-psychische-schaeden`, `delikt-verkehrspflicht-digital`, `deliktsrecht-paragraph-823-1`, `deliktsrecht-paragraph-826-sittenwidrige`, ... plus 42 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

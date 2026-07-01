@@ -103,6 +103,25 @@ Der Formmangel führt nicht nur zu einem Beweisproblem, sondern materiell zu § 
 
 Alle Skills sind kanzleitauglich formuliert und enthalten vollständige Klauseltexte, Mandantenmemos und Querverweise auf aktuelle BGH-Rechtsprechung. Das Plugin ersetzt keine individuelle Rechtsberatung.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `formerfordernisse-erstpruefung-und-mandatsziel`, `schriftform-textform-bgb-start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `dokumentations-und-beweisarchitektur`, `quellen-livecheck`, `rechtsprechung-quellenkarte`, `sftf-arbeitsvertraege-nachweisgesetz`, `spezial-rechtsprechung-livequellen-und-rechtsprechungscheck`, `textform-dokumentenmatrix-und-lueckenliste`, `unterlagen-luecken`, `verifikation-compliance-dokumentation-und-akte`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste`, `zivilrecht-tatbestand-beweis-und-belege` |
+| 3. Prüfung, Anspruch und Subsumtion | `amtlicher-formkern-bgb-zpo-check`, `anspruchsformulierungen-formverstoss`, `arbeitsrecht-befristung-schriftform-checker`, `checklisten-schriftsatz-brief-und-memo-bausteine`, `form-checker-fuer-vertrag-oder-willenserklaerung`, `rechtsprechung-livecheck-formfragen`, `sftf-formvorgaben-bgb-interessen-checklisten`, `workflow-fristen-und-risikoampel`, `zugang-risikoampel-und-gegenargumente` |
+| 4. Gestaltung, Strategie und Verhandlung | `klauselgenerator-formvorbehalt-maklervertrag`, `maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25`, `textform-paragraph-verteidigungsstrategie`, `verteidigungsstrategie-bei-formangriff` |
+| 5. Verfahren, Behörde und Gericht | `befristungsabrede-qes-rechtsprechung`, `befristungsabrede-qes-rechtsprechung-stand-2026`, `schriftform-fristen-form-und-zustaendigkeit` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `paragraph-fehlerkatalog`, `spezial-paragraph-red-team-und-qualitaetskontrolle` |
+| 8. Spezialmodule und Schnittstellen | `bgb-mehrparteien-konflikt-und-interessen`, `buergschaft-verbraucherdarlehen-und-andere-strenge-formen`, `elektronische-paragraph-formerfordernisse`, `empfangsbeduerftiger-international`, `empfangsbeduerftiger-international-schnittstellen`, `formerfordernisse-im-bgb-ueberblick`, `formwahl-zugang-live-prozessablauf`, `gewerberaummiete-paragraph-550-bgb-langzeitform`, `kuendigung-per-mandantenkorrespondenz-zugang`, `live-zahlen-schwellen-und-berechnung`, `mandantenkorrespondenz-form-und-zugang-templates`, `mandantenwarnung-qes-per-email-whatsapp-und-zugang`, `notarielle-beurkundung-prozessablauf-papier`, `prozessablauf-mandantenentscheidung`, `prozessablauf-papier-vs-elektronisch`, `prozessordnungen-textform-verifikation`, `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift`, `sftf-doppelschriftform-aufhebung-spezial`, ... plus 5 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

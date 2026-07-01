@@ -63,6 +63,25 @@ Der Einstieg fragt in kurzer Zeit ab: Grundstücke, Grenze, Bundesland, Streitge
 
 Stand: 05/2026. Kernnormen: BGB §§ 903, 906-923, 823, 862, 1004; Landesnachbarrechtsgesetze und kommunale Satzungen nach Bundesland/Gemeinde.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-router`, `dokumente-intake`, `einstieg-routing`, `kaltstart-abschlussprodukt-und-uebergabe`, `landesnachbarrecht-router`, `nachbarrecht-erstpruefung-und-mandatsziel`, `nachbarrecht-kaltstart-triage`, `workflow-anschluss-skills-router`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `akten-und-grundstuecksaufnahme`, `aufforderung-beweise-red-grenzbaum`, `beweissicherung-ortstermin-fotos`, `fristennotiz-naechster-ueberbau-akten`, `horrorfall-aktenauswertung`, `immissionen-compliance-dokumentation-und-akte`, `klage-beweislast-nachbarrecht`, `mauer-quellenkarte`, `nachbarschaftsstreit-tatbestand-beweis-und-belege`, `quellen-livecheck`, `spezial-mauer-livequellen-und-rechtsprechungscheck`, `spezial-ueberhang-dokumentenmatrix-und-lueckenliste`, `ueberhang-dokumentenmatrix-und-lueckenliste`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `aeste-risikoampel-und-gegenargumente`, `anspruchslandkarte-bgb-aufforderungsschreiben`, `nachbarschaftsstreit-fristen-risiko-mandant`, `spezial-pruefer-fristennotiz-und-naechster-schritt` |
+| 4. Gestaltung, Strategie und Verhandlung | `vergleich-mediation-nachbarschaftsfrieden`, `vergleich-sonderfall-und-edge-case`, `zaun-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `einstweilige-verfuegung-und-klage`, `grenzbaum-schriftsatz-brief-und-memo-bausteine`, `ueberbau-fristen-form-und-zustaendigkeit`, `wurzeln-behoerden-gericht-und-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `aufforderungsschreiben-nachbar`, `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `beweise-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `drohender-einsturz-einfriedung-zaun`, `einfriedung-zaun-mauer-hecke`, `grenzbaum-grenzanlage-hammerschlags`, `hammerschlags-und-leiterrecht`, `hammerschlagsrecht-hecke-immissionen`, `hecke-zahlen-schwellen-und-berechnung`, `immissionen-laerm-landesnachbarrecht`, `laermimmissionen-mediation-vorrang`, `nach-grenzbebauung-ueberhang-spezial`, `nach-mediation-vorrang-leitfaden`, `nach-nachbarrechtsuebersicht-bauleiter`, `notweg-ueberhang-sonderfall-edge`, `notweg-zufahrt-selbsthilfe-eskalationsgrenzen`, `selbsthilfe-und-eskalationsgrenzen`, `ueberbau-ueberhang-aeste-mediation`, `ueberhang-aeste-wurzeln`, `vertiefung-baugrube-stuetzverlust`, `vertiefung-interessen-wurzeln-zaun` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

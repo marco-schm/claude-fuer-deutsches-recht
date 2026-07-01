@@ -135,6 +135,21 @@ nur als tragender Anker genutzt, wenn eine offizielle oder frei zugängliche
 Quelle auffindbar ist; keine BeckRS-/juris-Blindzitate.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 2. Unterlagen, Sachverhalt und Quellen | `kanada-oakes-fallmatrix`, `suedafrika-section-36-fallmatrix`, `ueberwachung-streubreite-vorratsdaten-rasterfahndung` |
+| 3. Prüfung, Anspruch und Subsumtion | `ascii-pruefungsschema`, `bestimmtheit-normklarheit-eingriffsgesetze`, `drittwirkung-praxischeck-zivilrecht`, `geeignetheit-pruefung`, `gleichbehandlung-arbeitsrecht-praxischeck`, `klausur-pruefungsschema-kompakt`, `legitimer-zweck-pruefung`, `mermaid-flowchart-pruefung`, `schnellpruefung-fuenfminuten-express`, `subsumtionshelfer-faelle-pattern`, `vorpruefung-eingriff-klassisch-modern`, `vorpruefung-schranke-finden`, `vorpruefung-schutzbereich-eroeffnet` |
+| 5. Verfahren, Behörde und Gericht | `apotheken-urteil-bverfge-7-377`, `drittwirkung-stadionverbot-bundesverfassungsgericht`, `lueth-urteil-bverfge-7-198` |
+| 8. Spezialmodule und Schnittstellen | `absolute-grenze-existenzminimum`, `absolute-grenze-menschenwuerde-art-1-i-gg`, `absolute-grenze-wesensgehalt-art-19-ii-gg`, `abwaegungsgesetz-und-gewichtsformel-alexy`, `agg-systematik-und-verhaeltnismaessigkeit`, `angemessenheit-abwaegung`, `art-3-abs-2-3-besondere-gleichheitssaetze`, `art-3-gg-allgemeiner-gleichheitssatz`, `audiovisuelle-leitentscheidungen-sammlung`, `belgien-redelijkheid-evenredigheid`, `bundesnotbremse-bverfge-159-223`, `bverfg-polizeirecht-gefahrenprognose`, `bverfg-uebermassverbot-dogmatiklinie`, `daenemark-proportionalitetsprincip`, `drittwirkung-grundrechte-mittelbar`, `drittwirkung-unionsgrundrechte-charta`, `egmr-emrk-verhaeltnismaessigkeit`, `eigentum-art-14-inhalts-schranken-enteignung`, ... plus 48 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

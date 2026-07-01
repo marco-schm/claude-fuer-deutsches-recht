@@ -55,6 +55,25 @@ Starte mit dem allgemeinen Skill `handelsregister-allgemeiner-kaltstart`. Lade d
 - Beschwerde- oder Eilrechtsschutz-Skizze
 - Liste fehlender Originale, Nachweise und Formmängel
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-routing`, `registerrecht-mandatsannahme-notarferne` |
+| 2. Unterlagen, Sachverhalt und Quellen | `chronologischer-registerauszug`, `ki-registerakte-nachlass`, `registerakte-schnellscan-registerauszug-lesen`, `registerauszug-lesen`, `registerbeweis-im-prozess`, `registergericht-rollen-datenschutz`, `registergericht-und-datenschutz`, `registerrecht-registerzeichen-und-aktenzeichen` |
+| 3. Prüfung, Anspruch und Subsumtion | `firma-firmenbildung-formwechsel-registercheck`, `formwechsel-registercheck`, `verschmelzung-gmbh-registercheck` |
+| 4. Gestaltung, Strategie und Verhandlung | `eintragung-prozessvergleich-registerfolge`, `gesellschafterlistenstreit-eilstrategie-gmbh`, `internationaler-registervergleich` |
+| 5. Verfahren, Behörde und Gericht | `amtsloeschung-familienloeschung-registerblatt`, `beanstandung-zwischenverfuegung`, `closing-handelregister-einstweiliger`, `einstweiliger-rechtsschutz-registerstreit`, `famfg-beschwerde-registersache`, `frist-und-vollzugslog-register`, `genossenschaft-registerschnittstelle`, `gmbh-co-kg-registerdoppelvollzug`, `insolvenzvermerk-registereintrag`, `nachlass-und-testamentsvollstrecker-register`, `notar-registergericht-kommunikation`, `online-abruf-registerportal-unternehmensregister`, `partg-partgmbb-register`, `rechtsabteilung-kapitalerhoehung-und-zwischenverfuegung`, `rechtsabteilung-mopeg-gesellschaftsregister-und-ohg-sprung`, `rechtsprechung-register-frist-vollzugslog`, `rechtsschein-innenstreit-register`, `register-mandantenbrief`, ... plus 18 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `fehlerhafte-eintragung-berichtigung`, `rechtsabteilung-insolvenzvermerk` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `register-qualitaetsgate-vor-einreichung`, `unternehmensgegenstand-beanstandung` |
+| 8. Spezialmodule und Schnittstellen | `auslandsurkunden-apostille-legalisation-uebersetzung`, `bekanntmachungen-monitoring`, `erlaubnispflichtige-taetigkeit-famfg`, `gmbh-geschaeftsfuehrerbestellung-abberufung`, `gmbh-gesellschafterliste-paragraph-gruendung`, `gmbh-gruendung-erstanmeldung`, `gmbh-kapitalerhoehung-bareinlage`, `gmbh-kapitalerhoehung-sacheinlage`, `gmbh-kapitalherabsetzung-und-schutzjahr`, `gmbh-liquidation-und-loeschung`, `gmbh-satzungsaenderung-handelsvollmacht-nicht`, `handelsvollmacht-nicht-eintragungsfaehig`, `hgb-publizitaet-paragraph-15`, `kg-kommanditist-eintritt-austritt-haftsumme`, `ohg-kg-online-abruf-partg-partgmbb`, `prokura-eintragung-rechtsabteilung`, `rechtsabteilung-geschaeftsfuehrerbestellung-mit-auslandsbezug`, `rechtsabteilung-gesellschafterliste-nach-streit-und-ev`, ... plus 3 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

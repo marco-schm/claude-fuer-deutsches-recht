@@ -53,6 +53,25 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Im Einzelfall gehen La
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `akteneinsicht-schulakte-attest`, `datenschutz-schule`, `oberstufenwahl-kursbelegung`, `schulaufsicht-akteneinsicht-eltern`, `schulhund-allergie-schulische-ordnungsakte`, `schulische-ordnungsakte-beweisarchiv` |
+| 3. Prüfung, Anspruch und Subsumtion | `abitur-und-abschlusspruefungen`, `attest-und-pruefungsunfaehigkeit-schule`, `notenschutz-und-bewertung`, `pruefungsaufsicht-formfehler`, `taeuschung-schulpruefung`, `versetzung-nachpruefung-verwaltungsakt` |
+| 4. Gestaltung, Strategie und Verhandlung | `gewaltschutz-und-schulischer-schutzplan`, `nachteilsausgleich-lrs-dyskalkulie`, `nachteilsausgleich-schule`, `schulvertrag-privatschule-bussgeld` |
+| 5. Verfahren, Behörde und Gericht | `elternabend-protokoll-und-beschluss`, `widerspruch-und-eilrechtsschutz-schule` |
+| 6. Ergebnis, Schreiben und Kommunikation | `mehrsprachige-elternkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `beschwerde-gegen-lehrkraft`, `redteam-schulrecht-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abiturzulassung-und-fehlkurse`, `aufsichtspflicht-und-unfall`, `auslandsschule-rueckkehr`, `autismus-sensorik-barrierefreiheit-schule`, `barrierefreiheit-schule`, `befreiung-schulveranstaltung`, `betriebspraktikum-schule-cloud-plattform`, `bussgeld-schulpflicht`, `cloud-plattform-schule-m365`, `cybermobbing-schule`, `einschulung-zurueckstellung-elternabend`, `elternbeitrag-ogts-ganztag`, `elternrechte-und-sorgerecht`, `ferienbefreiung-reise-foerderausschuss`, `foerderausschuss-und-foerderort`, `foto-video-einwilligung-schule`, `gymnasialempfehlung-uebergang-handyverbot`, `handyverbot-und-digitalgeraete`, ... plus 60 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -82,6 +82,25 @@ Keine echten Wählerdaten, Mitgliederdaten, Spenderlisten, Social-Media-Profile,
 
 Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-routing`, `kandidatenteam-intake` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenplan-beweisarchiv-amtstraeger`, `datenschutz-folgenabschaetzung-politische-daten`, `faktencheck-gegenrede`, `kandidaten-altposts-screening`, `kandidatenbriefing-kamera`, `landeslisten-direktkandidaten`, `plakat-vandalismus-beweissicherung`, `plakatstandorte-matrix`, `viraler-clip-waehlerdaten-listen`, `waehlerdaten-und-listen`, `wahlprogramm-und-faktencheck` |
+| 3. Prüfung, Anspruch und Subsumtion | `kassenpruefung-kreisverband`, `landesrecht-plakatierung-livecheck`, `memes-satire-risiko`, `risiko-register`, `wahlkampf-spendenannahme-pruefung`, `wahlpruefung-nachwahl` |
+| 4. Gestaltung, Strategie und Verhandlung | `agenturvertrag-compliance`, `bundesstrategie-architektur`, `compliance-schulung-vorstand`, `freiwillige-und-aufwandsersatz`, `opposition-research-compliance`, `schlachtenplan-ethik-und-taktik`, `social-media-redaktionsplan` |
+| 5. Verfahren, Behörde und Gericht | `wahlverfahren-falschinfo`, `wahlvorschlaege-fristen` |
+| 6. Ergebnis, Schreiben und Kommunikation | `briefkasten-flyer`, `briefwahlkommunikation`, `polizei-und-ordnungsamt-kommunikation`, `presseanfrage-antwortleiter`, `rapid-response-rechenschaftsbericht`, `rechenschaftsbericht-vorbereitung`, `taegliches-briefing` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `flooding-gegenrede-statt-muell`, `krisenstatement-fehler-eigener-leute` |
+| 8. Spezialmodule und Schnittstellen | `72-stunden-sprint`, `ad-library-transparenz`, `amtstraeger-ressourcen`, `angriff-auf-wahlleitung-vermeiden`, `arbeitsrecht-kampagnenteam`, `archivierung-screenshots`, `asymmetrische-demobilisierung`, `barrierefreie-und-mehrsprachige-information`, `barrierefreiheit-und-inklusion`, `bots-und-inauthentisches-verhalten`, `buergerdialog-schwierige-fragen`, `community-management`, `cybersicherheit-kampagne`, `debattenvorbereitung`, `deepfake-und-ki-kennzeichnung`, `desinformation-monitoring`, `ebenen-wahlart-ehrenamtliche`, `ehrenamtliche-schulen`, ... plus 65 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

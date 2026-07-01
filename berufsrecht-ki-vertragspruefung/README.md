@@ -94,6 +94,25 @@ Die Dienstleisterregelungen sind nahezu wortgleich aufgebaut. Das Plugin abstrah
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `kaltstart-triage`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `avv-grenzpruefung-datenschutz`, `chronologie-und-belegmatrix`, `consumer-ki-datentransfer-eu-erforderlichkeit`, `datentransfer-eu-drittstaat`, `erforderlichkeit-dokumentieren`, `forensische-prompt-gutachten-erstellen`, `gutachten-erstellen`, `gutachten-fehlerkatalog`, `gutachten-red-legal-patentanwaelte`, `kanzleisoftware-spezial-mandantendaten`, `klauseln-beweislast-darlegungslast`, `klauseln-beweislast-verschwiegenheitsklausel`, `notare-quellenkarte`, `quellen-livecheck`, `spezial-notare-livequellen-und-rechtsprechungscheck`, `spezial-vertraegen-dokumentenmatrix-und-lueckenliste`, `stberg-compliance-dokumentation-aktenvermerk`, `stberg-compliance-dokumentation-und-akte`, ... plus 6 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `avv-grenzpruefung-brki-anbieter-eu`, `br-ki-vertragspruefung-brki-rollout-chronologie`, `brki-eu-us-dpf-transferpruefung`, `forensische-pruefung-prompt-injection`, `fristen-und-risikoampel`, `fristennotiz-naechster-vorpruefung`, `parallelnormen-andere-ai-act-art-vo`, `parallelnormen-andere-berufe`, `privaten-risikoampel-gegenargumente`, `schwarmpruefung-mehrere-tools`, `vertragspruefung-fristennotiz-naechster`, `vorpruefung-fristen-form-und-zustaendigkeit`, `vorpruefung-fristen-form-zustaendigkeit-rechtsweg` |
+| 4. Gestaltung, Strategie und Verhandlung | `klauseln-providervertrag`, `klauselvorschlaege`, `patentanwaelte-verhandlung-vergleich-eskalation`, `patentanwaelte-verhandlung-vergleich-und-eskalation`, `spezial-patentanwaelte-verhandlung-vergleich-und-eskalation`, `verschwiegenheitsklausel-pruefen` |
+| 5. Verfahren, Behörde und Gericht | `anbietern-schriftsatz-brief-memo-bausteine`, `art-50-ki-vo-schriftsatz-marketing-chatbot`, `legal-behoerden-gericht-und-registerweg`, `legal-behoerden-gerichts-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `ki-erforderlichkeit-ex-ante-vermerk`, `mandantenkommunikation`, `output-waehlen`, `privaten-rueckfragebrief`, `rechtspolitische-unsicherheit-rueckfragebrief`, `rueckfragebrief-an-anbieter`, `rueckfragebrief-mandantenentscheidung`, `stellungnahme-stgb-strafrechtliche` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `ai-act-rollen-kanzlei-provider-deployer-api`, `anbietern-belehrung-sonderfall-edge`, `belehrung-abschlussprodukt-uebergabe`, `belehrung-abschlussprodukt-und-uebergabe`, `berufsrecht-sonderfall-edge-case`, `berufsrecht-sonderfall-und-edge-case`, `berufsrechtliche-bnoto-interessen-brao`, `bnoto-interessen`, `bnoto-mehrparteien-konflikt-und-interessen`, `brao-zahlen-schwellen-und-berechnung`, `brao-zahlen-schwellenwerte-berechnung`, `brki-anbieter-due-diligence`, `brki-rag-bro-grundlagen-cloud-act`, `brki-rag-vertraulichkeit-spezial`, `brki-rollout-trainings-workflow`, `bro-grundlagen-ki-einsatz`, `cloud-act-und-drittstaat-pruefen`, `consumer-ki-vs-43e-dienstleister`, ... plus 15 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

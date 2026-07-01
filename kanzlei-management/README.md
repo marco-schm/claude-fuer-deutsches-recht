@@ -59,6 +59,25 @@ Managemententscheidungen bleiben Kanzleientscheidungen. Bei Vergütung und Prici
 - Associate-Retention-Radar mit konkreten Gegenmaßnahmen.
 - MC-Board-Pack als monatlicher Managementbericht.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage`, `mandatsannahme-risk-committee`, `mandatsgeheimnis-tooling-market-positioning`, `projektmanagement-mandate` |
+| 2. Unterlagen, Sachverhalt und Quellen | `datenschutz-kanzleibetrieb-datev-finance`, `dms-eakten-equity-partner-esg` |
+| 3. Prüfung, Anspruch und Subsumtion | `conflict-check-system` |
+| 4. Gestaltung, Strategie und Verhandlung | `compliance-calendar`, `kanzleistrategie-3-jahre`, `pricing-strategie`, `standortstrategie` |
+| 5. Verfahren, Behörde und Gericht | `fristenaufsicht-management` |
+| 6. Ergebnis, Schreiben und Kommunikation | `committee-agenda-report-schreiben-managing`, `management-report-schreiben`, `managing-partner-wochenbrief`, `pitch-debrief` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `dashboard-red-team`, `partner-performance-review`, `qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `ai-legal-ops`, `associate-kuendigungswelle`, `associate-nicht-retention-radar-bea-erv`, `associate-retention-radar`, `bea-erv-risk`, `benchmarking-market`, `bonus-gehaltsrunde-branchenfokus-client`, `branchenfokus`, `cashflow-13-wochen`, `client-segmentation`, `collections-offene-calendar-laterale-partner`, `crisis-client-loss`, `crisis-data-breach`, `crisis-partner-conflict`, `dashboard-associate-health`, `dashboard-board-pack`, `dashboard-cash-wip-ar`, `dashboard-cross-selling-associate-health`, ... plus 63 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

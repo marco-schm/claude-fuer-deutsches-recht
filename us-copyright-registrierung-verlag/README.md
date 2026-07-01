@@ -68,6 +68,24 @@ Das Plugin fragt so, wie eine gute Verlagsassistenz arbeitet: Welche Titel sind 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `werkdaten-standard-zertifikat-archiv` |
+| 3. Prüfung, Anspruch und Subsumtion | `publication-status-usa-ausland-online` |
+| 4. Gestaltung, Strategie und Verhandlung | `vara-visual-verlags-batchplan-versand`, `verlags-batchplan-serien-und-backlist` |
+| 6. Ergebnis, Schreiben und Kommunikation | `ai-output-authorship-title17` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `backlist-rights-gap-audit` |
+| 8. Spezialmodule und Schnittstellen | `advertising-promotional-campaigns`, `ai-contract-disclosure`, `ai-generated-material-disclosure`, `ai-training-anticircumvention-architectural`, `anticircumvention-1201`, `architectural-works-120`, `attorneys-fees-505`, `authorschaft-work-backlist-rights-best`, `best-edition-kopienzahl`, `characters-fictional-universe`, `collective-work-compilations-derivative`, `compilations-derivative-works-103`, `copying-substantial-similarity`, `copyright-bankruptcy-365n`, `copyright-management-info-royalty-board-small`, `copyright-royalty-board-ch8`, `copyright-small-claims-ccb`, `copyrightability-idea-facts-methods`, ... plus 75 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -45,6 +45,25 @@ Das Plugin ist bewusst **kein** Gesellschaftsrechts-Fachanwaltsplugin, sondern e
 `handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona` zeigt eine wachsende Solartechnik-GbR, die durch kaufmännischen Geschäftsbetrieb und Register-/Finanzierungsdruck in OHG/KG-Strukturen rutscht. Dazu kommen Prokura, Handelskauf, § 377 HGB, Firmenfortführung und ein Streit um Kommanditistenhaftung.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `livequellen-hgb`, `prozessuale-beweisfragen-rechtsabteilung`, `register-gutachten-klage`, `registerakte-handelsstreit`, `workflow-handelsbrauch-beweis` |
+| 3. Prüfung, Anspruch und Subsumtion | `kg-haftung-ohg-vertretung`, `ohg-vertretung-und-haftung`, `unternehmenskauf-hgb-haftung`, `workflow-hgb-erstpruefung` |
+| 4. Gestaltung, Strategie und Verhandlung | `frachtvertrag-paragraphen-speditionsvertrag`, `handelsvertreterausgleich-paragraph`, `hgb-compliance-geschaeftsbriefe-impressum`, `sanierung-krise-jahresabschluss-grundlagen`, `speditionsvertrag-paragraphen-453-466-hgb`, `workflow-verhandlung-handelsstreit` |
+| 5. Verfahren, Behörde und Gericht | `handelskauf-fristenampel-hgb`, `handelsregister-paragraphen-8-16-hgb`, `international-cisg-handelsregister`, `rechtsabteilung-prokura-registerbeanstandung`, `registerbeanstandung-und-beschwerde`, `registerpublizitaet-paragraph-scheinkaufmann` |
+| 6. Ergebnis, Schreiben und Kommunikation | `handlungsvollmacht-paragraph-geschaeftsbriefe`, `kaufmaennisches-bestaetigungsschreiben` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `hgb-red-team` |
+| 8. Spezialmodule und Schnittstellen | `anfanger-erklaerung-handelsbrauch`, `firma-paragraphen-firmenfortfuehrung`, `firmenfortfuehrung-paragraphen-21-25-hgb`, `formkaufmann-paragraph-gmbh-co`, `gmbh-und-co-kg-hgb`, `handelsbuecher-paragraph-handelsgeschaefte`, `handelsgeschaefte-paragraphen-343-344`, `handelskauf-paragraphen-handelsmakler`, `handelsmakler-paragraphen-93-104-hgb`, `handelsvertreter-paragraph-provision`, `handelsvertreter-provision`, `handlungsgehilfen-und-wettbewerbsverbot`, `jahresabschluss-hgb-grundlagen`, `kannkaufmann-paragraphen-kaufmaennisches`, `kaufmann-paragraph-kg-begriff`, `kg-begriff-kommanditist`, `kommission-paragraphen-ladenvollmacht`, `ladenvollmacht-paragraph-56-hgb`, ... plus 13 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

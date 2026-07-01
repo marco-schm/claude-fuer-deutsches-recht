@@ -86,6 +86,25 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 - Fristen, Rechtsmittel, Aussageverhalten und Nebenfolgen werden sichtbar geprüft.
 - Jede Ausgabe muss so gestaltet sein, dass eine Berufsträgerin oder ein Berufsträger sie sofort prüfen, kürzen, freigeben oder verwerfen kann.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `start-chronologie-fristen`, `strafbefehls-erstpruefung-und-mandatsziel`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenanlage-fehlerkatalog`, `akteneinsicht-behoerden-gericht-und-registerweg`, `deal-beweislast-einspruch`, `pflichtverteidigung-quellenkarte`, `quellen-livecheck`, `spezial-pflichtverteidigung-livequellen-und-rechtsprechungscheck`, `strafbefehl-aktenanlage`, `strafbefehl-akteneinsicht-147`, `strafbefehl-dokumentenmatrix-und-lueckenliste`, `strafbefehl-einspruch-aktenanlage`, `strafbefehl-quality-gate-akteneinsicht`, `strafbefehl-rechtsprechungsrecherche`, `unterlagen-luecken`, `verteidiger-formular-portal-und-einreichung`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `einspruch-risikoampel-und-gegenargumente`, `stbv-strafbefehl-pruefung-bauleiter`, `strafbefehl-inhalt-409-pruefung`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `einstellung-153a-hauptverhandlung`, `hauptverhandlung-international-schnittstellen`, `strafbefehl-hauptverhandlung-vorbereitung`, `verteidigung-wiedereinsetzung-zeugenstrategie`, `zeugen-befragungsstrategie-strafbefehl`, `zeugenstrategie-mehrparteien-konflikt-und-interessen` |
+| 5. Verfahren, Behörde und Gericht | `einspruchsentscheidung-und-folgen`, `stbv-einspruch-strafbefehl-fahrerlaubnis`, `strafbefehl-einspruch-beschraenkung`, `strafbefehl-fristen-einspruch` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `mandantenkommunikation-redteam-qualitygate`, `spezial-aktenanlage-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `einstellung-fahrerlaubnis`, `fahrerlaubnis-mandantenentscheidung`, `nebenfolgen-fahrerlaubnis-strafbefehl`, `nebenfolgen-strafbefehl-strafbefehls`, `rechtsmittel-tagessaetze-geldstrafe`, `stbv-fahrerlaubnis-bei-strafbefehl-spezial`, `stbv-strafbefehl-abwesenheit-vertretung`, `stbv-strafbefehl-auslaendischer-mandant-spezial`, `strafbefehl-abwesenheit-vertretung`, `strafbefehl-deal-verstaendigung`, `strafbefehl-einlassung-deal-verstaendigung`, `strafbefehl-pflichtverteidiger`, `strafbefehl-polizeifilmerei-201-kug`, `strafbefehl-quality-gate`, `strafbefehl-tagessaetze-geldstrafe`, `strafbefehl-wiedereinsetzung`, `strafbefehl-zulaessigkeit-407`, `tagessaetze-verstaendigung-sonderfall`, ... plus 2 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

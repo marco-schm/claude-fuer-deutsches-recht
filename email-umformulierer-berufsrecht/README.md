@@ -107,6 +107,25 @@ insbesondere auf Verletzungen des Kollegialitätsgebots:
 Dieses Plugin enthält keine Testakte. Es handelt sich um Formulierungswerkzeuge für die eigenverantwortliche Anwendung durch Fachleute. Die Verantwortung für die berufsrechtliche Konformität des jeweiligen Schreibens verbleibt beim jeweiligen Berufsträger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `email-berufsrecht-start-chronologie-fristen`, `email-eingangsanalyse`, `formuliert-erstpruefung-und-mandatsziel`, `kaltstart-triage`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `chronologie-und-belegmatrix`, `email-berufsrecht-brao-mehrparteienkonflikt-interessenmatrix`, `email-berufsrecht-fokus-compliance-dokumentation-aktenvermerk`, `email-berufsrecht-konformitaet-formular-portal-einreichungslogik`, `email-berufsrecht-unfreundliche-tatbestandsmerkmale-beweisfragen`, `email-berufsrecht-unsachliche-dokumentenmatrix-lueckenliste`, `fokus-compliance-dokumentation-und-akte`, `formulierte-quellenkarte`, `konformitaet-formular-portal-und-einreichung`, `notare-beweislast-darlegungslast`, `notare-beweislast-sachliche-texte`, `quellen-livecheck`, `sachverhalt-neutral-darstellen`, `spezial-formulierte-livequellen-und-rechtsprechungscheck`, `unsachliche-dokumentenmatrix-und-lueckenliste`, `unterlagen-luecken`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `bora-konformitaetspruefung`, `bora-konformitaetspruefung-brao-email`, `brao-konformitaetspruefung`, `email-berufsrecht-formuliert-erstpruefung-rollenklaerung`, `email-berufsrecht-mails-risikoampel-gegenargumente`, `fristen-und-risikoampel`, `kollegialitaetsgebot-pruefung`, `mails-risikoampel-und-gegenargumente` |
+| 4. Gestaltung, Strategie und Verhandlung | `berufsrechtskonform-verhandlung-vergleich-und-eskalation`, `edge-case-verhandlung-bora-international`, `email-berufsrecht-berufsrechtskonform-verhandlung-vergleich`, `varianten-fehlerkatalog` |
+| 5. Verfahren, Behörde und Gericht | `berufliche-fristennotiz-emotionale`, `berufliche-fristennotiz-naechster-schritt`, `email-berufsrecht-emotionale-fristen-form-zustaendigkeit`, `email-berufsrecht-hoefliche-behoerden-gerichts-registerweg`, `email-berufsrecht-sachliche-schriftsatz-brief-memo-bausteine`, `emotionale-fristen-form-und-zustaendigkeit`, `frist-und-mahnung-hoeflich`, `sachliche-schriftsatz-brief-und-memo-bausteine` |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandantenkommunikation`, `output-waehlen`, `umform-anwaltsbrief-an-gegner-spezial`, `unfreundliche-unsachliche-umform-anwaltsbrief` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `redteam-qualitygate`, `spezial-varianten-red-team-und-qualitaetskontrolle` |
+| 8. Spezialmodule und Schnittstellen | `allgemeine-sonderfall-edge-case`, `anrede-und-grussformeln`, `bora-internationaler-bezug-und-schnittstellen`, `brao-interessen-fokus-formuliert`, `email-berufsrecht-berufliche-korrespondenz`, `email-berufsrecht-bora-internationaler-bezug-schnittstellen`, `emotionale-trigger-ironie-sarkasmus-klare`, `emotionale-trigger-katalog`, `hoefliche-konformitaet-mails`, `ironie-und-sarkasmus-eliminieren`, `klare-bitte-formulieren`, `kollegialitaetsgebot-kompetenz-zweifel`, `kompetenz-zweifel-respektvoll`, `konfliktdeeskalation-formulierungen`, `kooperativer-abschluss`, `kooperativer-abschluss-mehrsprachige`, `mehrsprachige-umformulierung`, `notare-bnotk-modus`, ... plus 13 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

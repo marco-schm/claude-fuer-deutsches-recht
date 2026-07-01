@@ -63,6 +63,23 @@ Rechtliche Schwellen und aktuelle Aufsichtsfragen werden nicht geraten. Das Plug
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `deal-triage-score`, `founder-update-intake`, `kaltstart-triage`, `kaltstart-vc-cockpit`, `ma-sale-startup`, `swiss-ag-startup-investment` |
+| 3. Prüfung, Anspruch und Subsumtion | `kagb-aif-bafin-grenzcheck`, `pitchdeck-und-teaser-analyse` |
+| 5. Verfahren, Behörde und Gericht | `gwg-ubo-transparenzregister`, `notar-register-closing` |
+| 6. Ergebnis, Schreiben und Kommunikation | `follow-on-ic-memo`, `ic-memo-generator`, `output-generator-pack` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `fdi-und-fusionskontrolle-bei-minderheit`, `qualitygate-no-hallucinations` |
+| 8. Spezialmodule und Schnittstellen | `angelsyndikat-lead-investor`, `anti-dilution-down-round`, `arbeitsrecht-founder-team`, `board-observer-und-beirat`, `board-pack-auswertung`, `bridge-round-inside-round`, `cap-table-grundlagen`, `capital-call-internal-budget`, `climate-energy-und-deep-tech`, `co-investor-coordination`, `competitive-intelligence-lawful`, `consent-request-pass-email-rechtsabteilung`, `consumer-ecommerce-platform`, `corporate-vc-conflicts`, `data-ai-und-cyber-dd`, `data-room-index-vc`, `deal-sourcing-thesis`, `defense-dual-use-fdi`, ... plus 72 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

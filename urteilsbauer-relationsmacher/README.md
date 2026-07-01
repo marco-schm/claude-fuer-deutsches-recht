@@ -82,6 +82,25 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 Dieses Plugin ist ein Arbeitswerkzeug für die richterliche Praxis. Es ersetzt keine eigene rechtliche Prüfung und keine Beratung durch zugelassene Rechtsanwälte. Die Verantwortung für Tenor, Tatbestand und Entscheidungsgründe bleibt beim Spruchkoerper.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `aktenintake-schriftsatz-brief-und-memo-bausteine`, `aktenintake-zivil`, `amts-aktenintake-zivil-anspruchsgrundlagen`, `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `kaltstart-triage`, `schulung-urteilsbauer-aktenintake-beschluss`, `urteils-erstpruefung-und-mandatsziel`, `urteilsbauer-aktenintake-schriftsatz-brief-memo-bausteine`, `urteilsbauer-relation-start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `berufungsfest-beschluss-bauen-beweisbeschluss`, `beschluss-tatbestand-beweis-und-belege`, `beweisbeschluss-vorbereiten`, `beweiswuerdigung-mit-richter-input`, `beweiswuerdigung-quellenkarte`, `beweiswuerdigung-richter-cisg-dsgvo`, `chronologie-und-belegmatrix`, `dokumente-rendern-urteil-docx`, `input-compliance-dokumentation`, `input-compliance-dokumentation-und-akte`, `land-dokumentenmatrix-lueckenliste`, `quellen-livecheck`, `spezial-beweiswuerdigung-livequellen-und-rechtsprechungscheck`, `spezial-input-compliance-dokumentation-und-akte`, `tatbestand-formular-portal-und-einreichung`, `unterlagen-luecken`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `anspruchsgrundlagen-pruefen`, `beschluss-tatbestandsmerkmale`, `familienrichter-risikoampel`, `familienrichter-risikoampel-und-gegenargumente`, `fristen-und-risikoampel`, `tatbestand-zivil-schreiben`, `tatbestandsmerkmale-interessen`, `tatbestandsmerkmale-interessen-tenor-urteils`, `urb-tatbestand-entscheidungsgruende-leitfaden`, `urteils-erstpruefung-rollenklaerung` |
+| 4. Gestaltung, Strategie und Verhandlung | `relation-verhandlung-vergleich`, `relation-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `amts-fristen-form-zustaendigkeit`, `beschluss-bauen-zpo`, `rechtspfleger-behoerden-gericht-und-registerweg`, `rechtspfleger-behoerden-gerichts`, `schulung-urteilsbauer`, `urb-versaeumnisurteil-einspruch-spezial` |
+| 6. Ergebnis, Schreiben und Kommunikation | `entscheidungsgruende-redaktion`, `entscheidungsgruende-redaktion-02`, `entscheidungsgruende-zivil-schreiben`, `output-waehlen`, `zivil-schreiben-tenor-bauen-urb-mehrere` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `entscheidungsgruende-fehlerkatalog`, `spezial-entscheidungsgruende-red-team-und-qualitaetskontrolle`, `urb-mehrere-streitgegenstaende-spezial` |
+| 8. Spezialmodule und Schnittstellen | `99-finale-entscheidung-volltext`, `berufungsfest-pruefen`, `cisg-pruefen`, `dsgvo-rechtswidriges-produkt`, `entscheidungsgruende-zivil-familienrichter`, `familienrichter-spezifika`, `incoterms-und-gefahruebergang`, `internationales-privatrecht`, `internationales-privatrecht-kollidierende-agb`, `kollidierende-agb-pruefen`, `kostenentscheidung-bauen`, `land-rechtspfleger-relation`, `rechtsmittelbelehrung-zivil`, `rechtsmittelbelehrung-zivil-relation`, `relation-zivil`, `revisionsfest-pruefen`, `richter-richterlicher-hinweis`, `richter-zahlen-schwellenwerte`, ... plus 11 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

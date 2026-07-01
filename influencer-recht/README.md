@@ -43,6 +43,24 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 - Verträge mit Agentur, Brand, Management und Mitarbeitern
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `infl-001-kaltstart-creator-kooperation-plattform-steuer`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `betriebsfeier-content-und-datenschutz`, `datenschutz-newsletter-community-und-discord`, `gewinnspiel-teilnahmebedingungen-datenschutz`, `infl-016-gewinnspiel-teilnahmebedingungen-datenschutz`, `infl-036-betriebsfeier-content-und-datenschutz`, `infl-043-steuerpruefung-creator-unterlagenpaket`, `infl-047-plattform-analytics-als-beweis`, `infl-054-datenschutz-newsletter-community-und-discord`, `plattform-analytics-als-beweis` |
+| 3. Prüfung, Anspruch und Subsumtion | `bewertungen-rezensionen-und-fake-reviews`, `hassrede-kommentare-moderation-und-haftung`, `infl-018-finanzprodukte-krypto-affiliate-und-bafin-risiko`, `infl-028-hassrede-kommentare-moderation-und-haftung`, `infl-040-produkthaftung-empfehlung-und-haftungsrisiko`, `infl-058-bewertungen-rezensionen-und-fake-reviews`, `produkthaftung-empfehlung-und-haftungsrisiko`, `steuerpruefung-creator-buchhaltung-datev` |
+| 4. Gestaltung, Strategie und Verhandlung | `agenturvertrag-exklusivitaet-foto`, `buchhaltung-datev-creator-kontenplan`, `foto-shooting-vertrag-model-release-location`, `green-claims-vergleichende-werbung`, `infl-010-agenturvertrag-exklusivitaet-provision-und-kuendigung`, `infl-033-foto-shooting-vertrag-model-release-location`, `infl-044-buchhaltung-datev-creator-kontenplan`, `infl-046-usa-brand-w-8ben-vertrag-und-withholding`, `infl-063-vertragsarchiv-creator-dashboard`, `usa-brand-w-8ben-vertrag-und-withholding`, `vergleichende-werbung-und-herabsetzung`, `vertragsarchiv-creator-hassrede` |
+| 6. Ergebnis, Schreiben und Kommunikation | `infl-023-schleichwerbung-redaktionscontent-und-kooperation`, `infl-048-krisenkommunikation-shitstorm-und-richtigstellung`, `infl-061-medienanstalt-anfrage-beantworten`, `infl-062-finanzamt-anfrage-beantworten`, `krisenkommunikation-shitstorm-und-richtigstellung`, `medienanstalt-anfrage-beantworten`, `schleichwerbung-redaktionscontent-und-kooperation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `infl-065-red-team-creator-kampagne`, `infl-068-qualitaetsgate-veroeffentlichung`, `qualitaetsgate-veroeffentlichung`, `red-team-creator-kampagne` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-wegen-fehlender-werbekennzeichnung`, `affiliate-link-geschenk-pr-umsatzsteuer`, `alkohol-tabak-cannabis-werbung`, `arbeitsrecht-social-media-manager`, `beauty-filter-und-irrefuehrung`, `bildrechte-kug-beiwerk-oeffentlichkeit`, `brand-deal-leistungsbeschreibung-abnahme-und-nutzungsre`, `content-lizenz-musik-reel-bildrechte-kug`, `creator-exit-agenturwechsel`, `creator-fonds-jahresabschluss-risiken`, `creator-kooperation-plattform-steuer`, `creator-nachlass-kooperation`, `dsa-plattformbeschwerde`, `einkommensteuer-betriebseinnahme`, `eu-ausland-brand-reverse-charge-und-oss`, `finanzamt-anfrage-creator-exit`, `finanzprodukte-krypto-gluecksspiel`, `geschenk-pr-sample-sachleistung-und-steuer`, ... plus 69 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

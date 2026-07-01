@@ -42,6 +42,24 @@ Bundesrecht, Landesrecht, kommunale Satzungen, Parteisatzungen, Vereinsregisterp
 Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage`, `koalitions-listenverbindung-kommunalmandat`, `kommunalmandat-und-ehrenamt`, `landesrecht-router`, `mandatstraegerbeitraege`, `parteienrecht-mandatstraegerbeitraege-spenden` |
+| 2. Unterlagen, Sachverhalt und Quellen | `datenexport-bei-parteiwechsel`, `kandidatenaufstellung-bundestag`, `kandidatenaufstellung-bundestag-kreis`, `kandidatenscreening-formal`, `minderheitenrechte-partei-mitgliederdaten`, `mitgliederdaten-dsgvo`, `ordentliche-unterlagenablage`, `parteidokumentenpaket`, `parteienrecht-dokumentenpaket-versammlung-wahl` |
+| 3. Prüfung, Anspruch und Subsumtion | `kommunalwahl-livecheck`, `landtagswahl-livecheck`, `parteienrecht-rechenschaftsbericht-pruefung`, `pruefung-rechenschaft` |
+| 4. Gestaltung, Strategie und Verhandlung | `parteiprogramm-formal-parteitag-planung`, `parteitag-planung` |
+| 5. Verfahren, Behörde und Gericht | `beschlussvorlagen-partei`, `beschlussvorlagen-partei-bewerberzustimmung`, `fristkalender-partei`, `fristkalender-partei-abgeordnetengesetz-bund`, `parteienprivileg-verfassung-parteigericht`, `parteienrecht-ordnungsmassnahmen-verfahren`, `parteienrecht-parteiausschluss-parteigericht`, `parteigericht-antrag`, `parteigericht-aufbau`, `parteigericht-effektiver-parteigruendung`, `parteigericht-effektiver-rechtsschutz`, `parteigericht-redteam` |
+| 6. Ergebnis, Schreiben und Kommunikation | `parteikommunikation-mitglieder`, `rechenschaft-rechenschaftsbericht-satzung`, `rechenschaftsbericht` |
+| 8. Spezialmodule und Schnittstellen | `abgeordnetengesetz-bund`, `abgeordnetengesetze-laender`, `aufsicht-bundeswahlleiter-befangenheit`, `aufsicht-und-bundeswahlleiter`, `befangenheit-und-sitzungsleitung`, `beitragsordnung`, `bewerberzustimmung`, `europawahl-partei`, `europawahl-partei-fraktionsschnittstelle`, `fraktionsschnittstelle`, `gebietsgliederung`, `geheime-abstimmung`, `geheime-abstimmung-geschaeftsordnung`, `geschaeftsordnung-parteitag`, `infostand-versammlung`, `kassenfuehrung-gebietsverband`, `koalitions-und-listenverbindung`, `landesliste-bundestag`, ... plus 56 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

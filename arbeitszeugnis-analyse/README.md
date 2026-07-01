@@ -122,6 +122,24 @@ Für den vollständigen Mandatsablauf empfiehlt sich die Reihenfolge:
 
 Kein Ersatz für anwaltliche Beratung. Für die gerichtliche Geltendmachung eines Zeugnisberichtigungsanspruchs ist die Beauftragung eines Rechtsanwalts empfohlen.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `dokumente-intake`, `einstieg-routing`, `erstgespraech-und-mandatsannahme`, `erstpruefung-rollenklaerung-mandatsziel`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `arbeitszeugnis-ampelsystem-dokumentenmatrix-lueckenliste`, `arbeitszeugnis-codeworte-compliance-dokumentation-aktenvermerk`, `arbeitszeugnis-deutscher-tatbestandsmerkmale-beweisfragen`, `chronologie-und-belegmatrix`, `drift-quellenkarte`, `satzweise-notenmatrix`, `unterlagen-luecken` |
+| 3. Prüfung, Anspruch und Subsumtion | `arbeitszeugnis-orange-risikoampel-gegenargumente`, `arbeitszeugnis-zeugnisanalyse-wortlaut-codes`, `azubi-zeugnis-analyse`, `fristen-und-risikoampel`, `leistungsbeurteilung-analyse`, `mandantenbericht-zeugnisanalyse`, `rechtliche-bewertung-bag-rechtsprechung`, `schlussformel-bewertung`, `verhaltensbeurteilung-analyse`, `widerspruechliche-bewertungen` |
+| 4. Gestaltung, Strategie und Verhandlung | `arbeitszeugnis-schaufenster-verhandlung-vergleich-eskalation`, `klage-strategie-zeugnisberichtigung` |
+| 5. Verfahren, Behörde und Gericht | `arbeitszeugnis-geheimcodes-schriftsatz-brief-memo-bausteine`, `arbeitszeugnis-gruen-behoerden-gerichts-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `aufforderungsschreiben-arbeitgeber`, `output-waehlen` |
+| 8. Spezialmodule und Schnittstellen | `ampelsystem-tabellenausgabe`, `arbeitszeugnis-negative-zahlen-schwellenwerte-berechnung`, `bereichs-drift-detektor`, `branchen-spezifische-formulierungen`, `geheimcode-katalog`, `gesamtnoten-aggregation`, `gruen-flaggen-katalog`, `leitende-positionen-zeugnisse`, `muster-arbeitszeugnis-gemischte-noten`, `muster-arbeitszeugnis-mit-roten-flaggen`, `muster-arbeitszeugnis-note-1`, `negationen-und-auslassungen-erkennen`, `negative-codeworte-katalog`, `notenrelevante-saetze-identifizieren`, `orange-flaggen-katalog`, `rote-flaggen-katalog`, `steigerungsadverbien-katalog`, `verbesserungsvorschlaege-formulieren`, ... plus 4 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

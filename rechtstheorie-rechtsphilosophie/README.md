@@ -53,6 +53,24 @@ Das Leitbild ist rechtsstaatlich nüchtern: Ein handlungsfähiger Staat, eine le
 
 Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Theoretische Bezeichnungen werden nur als Arbeitsbegriffe verwendet, nicht als Autoritätsersatz.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `fallnarrativ-tatsachen-beweis` |
+| 3. Prüfung, Anspruch und Subsumtion | `daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck`, `freund-feind-rhetorik-und-pluralismuscheck`, `kelsen-normativismus-und-reine-rechtslehre`, `kelsen-stufenbau-kompetenz-und-grundnorm`, `machtkritik-und-interessenanalyse`, `positivismus-normgeltung-ohne-moralautomat`, `staat-als-ordnungsmacht-anti-autoritaerer-check`, `staat-ordnungsmacht-anti-autoritaerer-check` |
+| 5. Verfahren, Behörde und Gericht | `demokratie-gesetzgeber-gericht`, `kelsen-demokratie-verfahren`, `kelsen-demokratie-verfahren-minderheitenschutz`, `systemdenken-kohaerenz-widerspruch` |
+| 6. Ergebnis, Schreiben und Kommunikation | `kanzlei-briefing-rechtstheorie`, `theorie-memo-output` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `dezisionismus-ausnahmezustand-red-team`, `institutionenrhetorik-konkrete-ordnung-red-team-korrektur`, `kritisches-red-team-ideologie`, `legalitaet-und-moral-minimum-red-team`, `spontane-ordnung-gewohnheit-custom-red-team` |
+| 8. Spezialmodule und Schnittstellen | `abwaegung-transparenz-rationalitaet`, `adressatenwuerde-und-rechtssteuerung`, `besitz-law-and-economics-transaktionskosten`, `besitz-rechtsrealismus-praktische`, `besitz-rechtsrealismus-und-praktische-beduerfnisse`, `besitzdogmatik-historische-schule`, `besitzdogmatik-historische-schule-und-systemdenken`, `daseinsvorsorge-verwaltungsrealismus`, `dworkin-law-as-integrity-hard-cases`, `formalismus-und-begriffszauber-kritik`, `freiheit-privatautonomie-paternalismus`, `gerechtigkeit-verteilung-effizienz`, `gleichheit-und-praejudizien`, `interpretation-und-intention`, `kelsen-stufenbau-gueltigkeit`, `kelsen-stufenbau-gueltigkeit-und-methodendisziplin`, `krisenverfassung-und-permanenter-notstand`, `legalitaetsprinzipien-als-rechtsstaatsmotor`, ... plus 26 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

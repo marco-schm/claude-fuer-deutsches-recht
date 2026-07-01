@@ -101,6 +101,20 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 Dual-lizenziert MIT und Apache-2.0.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 3. Prüfung, Anspruch und Subsumtion | `04-krankenversicherung-pruefung`, `05-rentenversicherung-pruefung`, `06-unfallversicherung-pruefung` |
+| 5. Verfahren, Behörde und Gericht | `01-zulaessigkeit-sozialklage`, `02-amtsermittlung-sozialgericht`, `09-urteil-sozialgericht`, `10-entscheidungsvorschlag-sozialgericht`, `v392-praxisraster-richter-sozialgericht` |
+| 8. Spezialmodule und Schnittstellen | `03-eilrechtsschutz-paragraf-86b`, `07-buergergeld-und-sgb-ii`, `08-schwerbehinderung-und-grad`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

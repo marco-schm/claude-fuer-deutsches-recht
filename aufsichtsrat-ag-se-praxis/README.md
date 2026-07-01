@@ -43,6 +43,25 @@ Dieses Plugin ist der ruhige, präzise Copilot für Aufsichtsräte: Es fragt nac
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `ag-se-boersennotiert-router`, `kaltstart-routing`, `mandatsannahme-interessenkonflikt-mar` |
+| 2. Unterlagen, Sachverhalt und Quellen | `dokumentationsstandard`, `dokumentenliste`, `europaeische-gruppe-exkulpationsakte`, `exkulpationsakte` |
+| 3. Prüfung, Anspruch und Subsumtion | `abschlusspruefer-steuerung-aufsichtsrat`, `aufsichtsrat-managerhaftung-regress`, `eigenhaftung-aufsichtsrat`, `einsichts-und-pruefungsrechte-111-aktg`, `entscheidungsvorlage-check`, `haftungsradar`, `jahresabschluss-checkliste`, `risikoampel-vorlage`, `se-risikomanagement-beteiligungsvereinbarung`, `sitzungsplanung-sonderpruefung-forensic`, `sonderpruefung-und-forensic`, `vorstandsvertrag-managerhaftung-regress` |
+| 4. Gestaltung, Strategie und Verhandlung | `aufsichtsrat-steuer-compliance`, `compliance-untersuchung`, `mutterschutz-elternzeit-nachfolgeplanung`, `nachfolgeplanung` |
+| 5. Verfahren, Behörde und Gericht | `beschlussfaehigkeit-beschlussvorschlag`, `beschlussvorschlag`, `umlaufbeschluss` |
+| 6. Ergebnis, Schreiben und Kommunikation | `aufsichtsrat-abschlussbericht-playbook`, `aufsichtsrat-krisenkommunikation`, `aufsichtsratsmemo`, `berichte-des-vorstands-90-aktg`, `hv-bericht-aufsichtsrat`, `jahresabschluss-lagebericht-jahreskalender`, `nachhaltigkeitsbericht-csrd` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `prozessvertretung-gegen-vorstand`, `vorlagen-review-system` |
+| 8. Spezialmodule und Schnittstellen | `ad-hoc-und-aufsichtsrat`, `aufsichtsrat-arbeitnehmervertreter`, `aufsichtsrat-bank-kwg-fit-proper`, `aufsichtsrat-esg-und-lieferkette`, `aufsichtsrat-kartellrecht-red-ki-einsatz`, `aufsichtsrat-ki-einsatz-und-governance`, `aufsichtsrat-meldepflichten-bafin`, `aufsichtsrat-nis2-cybersecurity-rollen-ziel`, `aufsichtsrat-rollen-und-ziel`, `aufsichtsrat-und-hv`, `ausschuesse-berater-hinzuziehen`, `berater-hinzuziehen`, `beraterauftrag`, `business-judgment-rule`, `conflict-of-interest`, `cyber-incident-board`, `d-und-o-versicherung`, `dcgk-entsprechenserklaerung`, ... plus 47 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -55,6 +55,25 @@ Dieses Plugin führt durch **Römisches Recht** von der archaischen Zwölftafelt
 
 Keine Blindzitate, keine erfundenen Rechtsprechungsfundstellen, keine Paywall-Literatur ohne Nutzerquelle. Aktuelle Wirtschafts-, Exportkontroll-, Sanktions- und China-Fragen werden als Live-Check geführt.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `auftrag-mandatum`, `byzantinisches-recht-kaltstart`, `kaltstart-institutionensystem`, `kaltstart-triage`, `kognitionsverfahren-mandatum-pecuniae-credendae`, `mandatum-pecuniae-credendae`, `mandatum-pecuniae-credendae-bankvertrag`, `mandatum-qualificatum-testamentum-calatis`, `rom-001-kaltstart-institutionensystem`, `rom-104-byzantinisches-recht-kaltstart`, `seerouten-ostia-alexandria-und-importzoll` |
+| 2. Unterlagen, Sachverhalt und Quellen | `011-pompeji-graffiti-als-rechts-und-sozialquelle`, `011-pompeji-graffiti-sozialquelle`, `026-epigraphische-quellen-juristisch`, `027-archaisches-formularrecht-legis-actiones-vertiefen`, `actio-pauliana-voraussetzungen-und-beweisrecht`, `formularprozess`, `innominatkontrakte`, `quellenkritik-digesten-institutionen`, `quellenkritik-digesten-und-institutionen`, `rom-091-vertiefung-01-quellenmatrix`, `rom-100-zwoelftafelgesetz-quellenkritik`, `rom-neu-006-etruskisch-vorformen-quellenarmut-ritualrecht`, `rom-neu-026-epigraphische-quellen-juristisch-auswerten`, `rom-neu-027-archaisches-formularrecht-legis-actiones-vertiefen`, `zwoelftafelgesetz-quellenkritik` |
+| 3. Prüfung, Anspruch und Subsumtion | `actio-exercitoria-reederhaftung`, `actio-institoria-prokuristenhaftung`, `freilassung-freiheitsstatus`, `freilassung-freiheitsstatus-sklaverei`, `noxalhaftung`, `personae-status-und-familie`, `seeunglueck-versicherung-und-risiko`, `status-libertatis-status-civitatis-status-familiae`, `versicherung-und-risiko-im-roemischen-recht` |
+| 4. Gestaltung, Strategie und Verhandlung | `abstraktionsprinzip-vergleich`, `bereicherungsrecht-vergleich`, `besitzschutz-vergleich-bgb`, `deliktsrecht-vergleich`, `gesellschaftsrecht-vergleich`, `goa-vergleich`, `hypothek-vergleich`, `kaufrecht-vergleich-cisg-bgb`, `rom-087-rechtsvergleichende-notiz`, `rom-098-vertiefung-01-vergleichende-synopse`, `servituten-vergleich`, `vertragstypen-konsens-real-verbal-litteral` |
+| 5. Verfahren, Behörde und Gericht | `020-rezeption-in-deutschland-reichskammergericht-und-usu`, `codicilli-und-nachtragliche-erbverfuegungen`, `kognitionsverfahren`, `rom-099-vertiefung-01-fristen-und-risiken`, `rom-101-zwoelftafelgesetz-prozess-und-vollstreckung`, `vollstreckungsrecht-personal`, `vollstreckungsrecht-personal-und-vermoegen`, `zwoelftafelgesetz-prozess-und-vollstreckung` |
+| 6. Ergebnis, Schreiben und Kommunikation | `abschlussmemo-romanistische`, `abschlussmemo-romanistische-tragfaehigkeit`, `rom-097-vertiefung-01-board-memo` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `030-red-team-antike-quelle-modern`, `red-team-modernisierung`, `rom-089-red-team-modernisierung`, `rom-093-vertiefung-01-red-team-gegenposition`, `rom-neu-030-red-team-antike-quelle-modern-ueberdehnt` |
+| 8. Spezialmodule und Schnittstellen | `001-fruehformen-zwoelftafelrecht`, `001-fruehformen-zwoelftafelrecht-sakrale-spruchform`, `002-zwoelftafelgesetz-textzeugen`, `002-zwoelftafelgesetz-textzeugen-rekonstruktion-und-vors`, `003-zwoelftafelrecht-familiengewalt`, `003-zwoelftafelrecht-familiengewalt-erbrecht-und-nachbar`, `004-zwoelftafelrecht-delikt-busse-talion-und-komposition`, `005-zwoelftafelrecht-schuldhaft-nexum-und-soziale-ordnun`, `006-etruskische-rechtsvorformen`, `007-faliskische-spuren-sprache`, `008-oskisches-recht-tabula-bantina-und-volksrecht`, `008-oskisches-tabula-bantina`, `009-samnitische-rechtskultur`, `009-samnitische-rechtskultur-bundesgenossen-und-militaer`, `010-pompeji-inschriften-wahlaufrufe-geschaeftspraxis`, `012-byzantinisches-recht-theodosianus-justinian-und-basi`, `012-byzantinisches-theodosianus`, `013-basiliken-prochiron-epanagoge`, ... plus 203 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

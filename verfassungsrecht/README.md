@@ -70,6 +70,24 @@ Anwälte sind nach **§ 203 StGB** (Verletzung von Privatgeheimnissen) und **§ 
 **Disclaimer:** technische, **keine juristische** Auskunft; die Tool-Landschaft entwickelt sich seit Frühjahr 2026 sehr dynamisch. Die berufsrechtlichen Pflichten nach § 203 StGB und § 43a BRAO bleiben in jedem Fall in der Verantwortung der jeweiligen Anwältin / des jeweiligen Anwalts.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `bverfg-prozessarten-navigator-parteien-antraege`, `dokumente-intake`, `einstieg-routing`, `gleichheit-existenzminimum-triage-asylblg`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `bundesverfassungsgericht-quellenkarte-check`, `materielle-petition-sonderfall-recherche`, `quellen-livecheck`, `recherche-verhandlung-vergleich-und-eskalation`, `spezial-bundesverfassungsgericht-livequellen-check`, `unter-tatbestand-beweis-und-belege`, `unterlagen-luecken`, `verfassung-abstrakte-bund`, `verfassung-abstrakte-normenkontrolle`, `verfassung-beweislast-verfassungsbeschwerde`, `verfassungsmaessigkeit-formular-portal-und-einreichung`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `bverfg-verfahrenssicht-und-annahmerisiko`, `gesetzgebungskompetenz-grundrechtspruefung`, `grundrechtspruefung-acht-formelle-interessen`, `grundrechtspruefung-und-verhaeltnismaessigkeit`, `spezialkanzlei-risikoampel-und-gegenargumente`, `verfassung-konkrete-normenkontrolle`, `verfassungsrechtliche-pruefung`, `vfgr-grundrechtspruefung-bauleiter`, `workflow-fristen-und-risikoampel` |
+| 5. Verfahren, Behörde und Gericht | `bverfg-eilantrag-paragraf-32-doppelhypothese`, `grundgesetz-fristen-form-und-zustaendigkeit`, `live-schriftsatz-brief-und-memo-bausteine`, `verfassung-grundgesetz-organstreitverfahren`, `verfassung-grundgesetz-verfahren`, `verfassung-organstreitverfahren` |
+| 6. Ergebnis, Schreiben und Kommunikation | `gesetzentwurf-gg-konformitaet-pruefen`, `output-waehlen`, `verfassungsbeschwerde-entwurf-formelle` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `grundrechte-fehlerkatalog`, `mandantenkommunikation-redteam-qualitygate`, `spezial-grundrechte-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `acht-zahlen-schwellen-und-berechnung`, `art-5-meinung-presse-mehrdeutigkeit`, `art-12-berufsfreiheit-regulierungsdichte`, `bverfg-rechtsprechung-recherchieren`, `formelle-mehrparteien-konflikt-und-interessen`, `formelle-verfassungsmaessigkeit`, `gesetzgebungskompetenz-pruefen`, `grundrechte-digitaler-staat-polizei-ueberwachung`, `organstreit-bundestag-fraktion-opposition`, `petition-sonderfall-und-edge-case`, `rechtsprechungsgetrieben-rechtsweg-bverfg`, `sicht-spezialkanzlei-unter`, `verfassung-bund-laender-streit`, `verfassung-grundrechte-juristische-uebersicht`, `verfassung-grundrechte-uebersicht`, `verfassung-grundrechte-und-eu-recht`, `verfassung-parteiverbot`, `verfassung-petition-und-verfassungsschutz`, ... plus 7 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

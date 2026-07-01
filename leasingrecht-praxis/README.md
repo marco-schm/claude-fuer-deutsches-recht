@@ -42,6 +42,24 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 - Restwert, Andienungsrecht, Gewährleistung, Rückgabe, Sicherheiten
 - Insolvenz, Aussonderung, Absonderung, Fortführung
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `bewegliche-sachen-router`, `datenschutz-telematik-esg-leasing-start`, `kaltstart-triage`, `lease-001-kaltstart-leasingakte-vertrag-objekt-zahlungsstrom`, `lease-037-start-up-equipment-leasing-covenants`, `lease-051-bewegliche-sachen-router`, `start-up-equipment-leasing-covenants` |
+| 2. Unterlagen, Sachverhalt und Quellen | `flottenleasing-schaden-minderwert-und-gutachten`, `lease-006-flottenleasing-schaden-minderwert-und-gutachten`, `lease-033-datenschutz-telematik-im-fahrzeugleasing`, `lease-047-leasing-in-sanierungsgutachten`, `leasing-in-sanierungsgutachten`, `leasingakte-vertrag-objekt` |
+| 3. Prüfung, Anspruch und Subsumtion | `lease-045-risiko-dashboard-leasingportfolio`, `risiko-dashboard-leasingportfolio` |
+| 4. Gestaltung, Strategie und Verhandlung | `agb-klauseln-restwertgarantie`, `fahrzeugleasing-kilometervertrag-restwertvertrag-rueck`, `lease-003-agb-klauseln-im-leasingvertrag-pruefen`, `lease-004-restwertgarantie-andienungsrecht-und-mehrerloesklausel`, `lease-005-fahrzeugleasing-km-vertrag-restwert-rueckgabe`, `lease-043-leasingvertrag-redline-fuer-anbieter`, `lease-044-leasingvertrag-redline-fuer-leasingnehmer`, `lease-046-restrukturierung-stundung-stillhaltevereinbarung`, `leasingvertrag-redline-fuer-leasingnehmer`, `leasingvertrag-redline-leasingnehmer`, `restrukturierung-stundung-leasing`, `restwertgarantie-andienungsrecht-und-mehrerloesklausel` |
+| 5. Verfahren, Behörde und Gericht | `flugzeugleasing-register-schiffsleasing`, `gerichtliche-durchsetzung-leasingraten`, `lease-019-sicherungsuebereignung-und-leasingregister-frage`, `lease-025-flugzeugleasing-register-pfand-und-wartung`, `lease-040-gerichtliche-durchsetzung-leasingraten`, `lease-042-schieds-oder-gerichtsstand-leasing`, `schieds-oder-gerichtsstand-leasing`, `sicherungsuebereignung-leasingregister` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `lease-015-mangel-am-leasingobjekt-rechte-gegen-lieferant`, `lease-049-qualitaetsgate-leasingakte`, `mangel-am-leasingobjekt-rechte-gegen-lieferant`, `qualitaetsgate-leasingakte-lessons` |
+| 8. Spezialmodule und Schnittstellen | `asset-tracking-und-eigentumskennzeichnung`, `bilanzierung-hgb-ifrs-und-wirtschaftliches-eigentum`, `cnc-maschine-abnahme-maengel`, `diebstahl-totalschaden`, `einstweiliger-rechtsschutz-schieds`, `energieanlagen-leasing-pv-batteriespeicher-waermepumpe`, `equipment-finance-cnc-maschine`, `esg-leasing-taxonomie-und-green-lease`, `fahrzeugflotte-telematik`, `finanzierungsleasing-oder-operating-lease-einordnen`, `franchise-leasing-ausstattung`, `grenzueberschreitendes-leasing-unidroit-und-rechtswahl`, `immobilienleasing-erbbaurecht-und-grundbuch`, `inkasso-leasingforderung`, `insolvenz-leasinggeber-eigentum-und-refinanzierung`, `insolvenz-leasingnehmer-aussonderung-fortfuehrung`, `it-hardware-refresh`, `it-leasing-hardware-software-cloud-bundle`, ... plus 60 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

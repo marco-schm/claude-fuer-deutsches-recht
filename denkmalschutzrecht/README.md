@@ -41,6 +41,21 @@ Konkrete Paragrafenzitate, Aktenzeichen und Fundstellen werden ausnahmslos in de
 Denkmalschutzrecht ist Landesrecht. Bei jedem Mandat ist als allererstes das anwendbare Landesgesetz zu identifizieren — danach erst die einschlägigen Paragrafen prüfen. Skills, die einen Sachverhalt ohne Belegenheit beurteilen, sind unzulässig.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `einstieg-routing`, `erstgespraech-mandatsannahme`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `grundbegriffe-und-rechtsquellen`, `hamburg-spezial-speicherstadt-kontorhausviertel`, `quellen-livecheck` |
+| 5. Verfahren, Behörde und Gericht | `bussgeld-ordnungswidrigkeitsverfahren`, `eintragungsverfahren-allgemein`, `verfahrensgrundsaetze-vwvfg`, `widerspruch-und-klagewege` |
+| 8. Spezialmodule und Schnittstellen | `art-14-gg-eigentum-und-denkmalschutz`, `art-73-gg-laenderzustaendigkeit`, `baden-wuerttemberg-spezial-sachgesamtheiten-gesamtanlagen`, `bauordnungsrechtliche-schnittstelle`, `bayern-spezial-bodendenkmaeler-grabungsgenehmigung`, `brandenburg-spezial-schloesser-gutsanlagen-restitution`, `denkmaleigenschaft-feststellen`, `denkmalschutz-baden-wuerttemberg-dschg-bw`, `denkmalschutz-bayern-baydschg`, `denkmalschutz-berlin-dschg-bln`, `denkmalschutz-berlin-spezial-stadtmauer-und-mauerweg`, `denkmalschutz-brandenburg-bbgdschg`, `denkmalschutz-bremen-dschgbrem`, `denkmalschutz-bremen-spezial-rathaus-und-roland-welterbe`, `denkmalschutz-hamburg-dschgha`, `denkmalschutz-hessen-hdschg`, `denkmalschutz-mecklenburg-vorpommern-dschg-m-v`, `denkmalschutz-niedersachsen-ndschg`, ... plus 22 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

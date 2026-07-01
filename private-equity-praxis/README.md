@@ -41,6 +41,24 @@ Am besten mit `allgemein` oder `pe-001-kaltstart-deal-und-investor-routing` begi
 - Investment Committee Memo, Red-Flag-DD, Deal Issues List, Q&A-Liste, SPA/APA-Key-Issues, Funds Flow, CP-Tracker, NPL-Transfer-Check, Schuldschein-Übertragungsnotiz, LMA-Assignment-Memo, Portfolio-Board-Paper, Exit Readiness Report.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `esg-sfdr-und-lieferketten-im-pe-mandat`, `kaltstart-deal-und-investor-routing`, `kanzlei-projektsteuerung-fuer-pe-mandate` |
+| 2. Unterlagen, Sachverhalt und Quellen | `datenraum-index-pe`, `rechtsabteilung-sanierungsgutachten-bei-add-on-krise` |
+| 3. Prüfung, Anspruch und Subsumtion | `insolvenzrisiko-fuer-pe-sponsor` |
+| 4. Gestaltung, Strategie und Verhandlung | `anti-bribery-compliance-dd`, `bidco-stack-und-holdingstruktur`, `lma-transfer-assignment-schuldschein-darlehen-struktur-npl`, `pe-in-bank-restrukturierungen`, `portfolio-100-tage-plan`, `schuldschein-darlehen-struktur` |
+| 6. Ergebnis, Schreiben und Kommunikation | `ic-memo-und-entscheidungsvorlage`, `mandantenkommunikation-pe` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `lma-facility-review-deutsch`, `qualitygate-pe-no-hallucinations`, `red-team-investment-thesis`, `tax-audit-post-closing` |
+| 8. Spezialmodule und Schnittstellen | `add-on-akquisition-im-portfolio`, `aif-und-professionelle-anleger`, `anfaenger-modus-pe-begriffe-ohne-gesichtsverlust`, `apa-carve-out-pe`, `arbeitsrecht-betriebsrat-und-managementwechsel`, `broken-deal-und-abbruch`, `capital-calls-und-defaulting-lp`, `carry-waterfall-und-clawback`, `carve-out-operating-model`, `closing-cp-funds-flow`, `club-deal-und-investorenkonsortium`, `co-investment-und-spv`, `commercial-dd-contract-value`, `competition-clean-team`, `covenants-defaults-waiver`, `cross-border-fund-investment`, `data-cyber-ai-dd`, `deal-timeline-und-workstreams`, ... plus 72 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

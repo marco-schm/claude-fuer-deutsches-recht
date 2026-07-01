@@ -68,6 +68,24 @@ Zusätzlich zu den thematischen Fachskills enthält das Plugin jetzt einen direk
 
 Keine privaten Kirchenrechtsmeinungen oder Sekundärliteratur als Tatsache ausgeben. Rechtsprechung, Partikularrecht, diözesane Normen und aktuelle päpstliche Dokumente nur mit frei prüfbarer Quelle nennen. Wenn die Quelle nicht live geprüft ist, wird die Aussage als Prüfpunkt markiert.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kirchliche-hochschulen-mandatum-kunst-heilige`, `kirchliche-hochschulen-und-mandatum`, `orientalische-katholiken-und-cceo-router`, `pastorale-triage-sakrament-status-lehre-oder-recht`, `spenden-stiftungen-sprach-registerrouter`, `sprach-und-registerrouter-fur-sieben-katholische-arbeitssprachen` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenaufnahme-in-pfarrei-ordinariat-und-offizialat`, `archive-register-und-datenschutz`, `beweis-und-urkunden-im-kirchlichen-verfahren`, `ehevorbereitung-und-dokumentencheck`, `kirchenrechtliche-bescheinigung-und-nachweis`, `quellenhierarchie` |
+| 3. Prüfung, Anspruch und Subsumtion | `kanonisches-risiko-dashboard`, `taufe-taufstatus-und-register` |
+| 5. Verfahren, Behörde und Gericht | `archive-register-auslegung-canones`, `beistand-im-kirchlichen-strafverfahren`, `fristen-zeitrechnung-und-verjahrung`, `holle-gericht-umkehr-und-barmherzigkeit`, `taufregister-korrektur-tod-begrabnis-tribunal`, `taufregister-korrektur-und-randvermerke` |
+| 6. Ergebnis, Schreiben und Kommunikation | `arabische-pastoralantworten`, `english-canon-law-memo`, `entwurf-eines-hierarchischen-rekurses`, `exkommunikation-apostasie-haresie-schisma`, `holle-umkehr-italienische-kurienkommunikation`, `italienische-kurienkommunikation`, `klerikerpflichten-disziplin-kommunikation`, `kommunikation-bei-kirchlichem-skandal`, `mehrsprachiges-output-dossier`, `papst-primat-papsttreue-kommunikation`, `papsttreue-kommunikation-ohne-hartefehler`, `pfarrbrief-katechetisch-pfarrei-pfarrer`, `pfarrbrief-katechetisch-und-lehrtreu`, `portugiesische-pastoralantworten`, `portugiesische-pastoralantworten-predigt` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `red-team-einer-ehenichtigkeitsakte`, `red-team-einer-kirchlichen-antwort` |
+| 8. Spezialmodule und Schnittstellen | `allgemeiner-einstieg-cic-katechismus-und-pastorale-lage`, `auslegung-von-canones-und-aequitas-canonica`, `beichtgeheimnis-und-seelsorgegeheimnis`, `beistand-kirchlichen-urkunden-zeitrechnung`, `bue-beichte-und-absolution`, `cic-can-0001`, `cic-can-0002`, `cic-can-0003`, `cic-can-0004`, `cic-can-0005`, `cic-can-0006`, `cic-can-0007`, `cic-can-0008`, `cic-can-0009`, `cic-can-0010`, `cic-can-0011`, `cic-can-0012`, `cic-can-0013`, ... plus 1822 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

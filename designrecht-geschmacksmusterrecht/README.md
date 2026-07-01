@@ -53,6 +53,24 @@ Der Einstieg ist bewusst niedrigschwellig: Uploads, Bilder, Verträge oder bloß
 - `patentrecht` und `gebrauchsmusterrecht` für technische Schutzrechte.
 - `produktrecht`, `ecommerce-recht` und `datenschutzrecht` für Produkt-, Shop- und Datenfragen.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `designportfolio-startup-designrecherche`, `internationale-country-route-design`, `kaltstart-interview`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `bestimmung-informierter-beweissicherung`, `beweissicherung-designvergleich`, `designrecherche-dpmaregister-euipo-wipo`, `schadensersatz-auskunft-abmahnung-designrecht` |
+| 3. Prüfung, Anspruch und Subsumtion | `designreform-eu-2024-check` |
+| 4. Gestaltung, Strategie und Verhandlung | `designlizenz-vertrag-reparaturklausel`, `mandantenmemo-designstrategie-marketplace`, `reparaturklausel-und-aftermarket` |
+| 5. Verfahren, Behörde und Gericht | `designverletzung-klageantraege-dpma`, `drei-d-einstweilige-verfuegung`, `einstweilige-verfuegung-designrecht`, `nationale-widerklage-neuheit-eigenart`, `offenbarung-neuheitsschonfrist-registerstand`, `registerstand-fristen-verlaengerung` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `qualitygate-quellen-rechtsprechung`, `sammelanmeldung-locarno-schutzgegenstand`, `schutzgegenstand-design-produkt-erscheinungsform`, `schutzschrift-gegenangriff-ui-icons` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-designrecht`, `aufgeschobene-bekanntmachung-automotive`, `automotive-design-und-ersatzteile`, `design-due-markenrecht`, `design-patent-urheberrecht`, `design-und-markenrecht-formmarke`, `design-und-urheberrecht-angewandte-kunst`, `design-uwg-designnichtigkeit-dpma`, `designnichtigkeit-dpma`, `designrechtliche-freedom-designreform-eu`, `designuebertragung-portfolio-designverletzung`, `designverletzung-gesamteindruck`, `dpma-designanmeldung-formalien`, `eu-design-euipo-nichtigkeit`, `euipo-nichtigkeit-eu-design`, `fashion-textilmuster-grenzbeschlagnahme`, `grenzbeschlagnahme-design`, `hager-system-internationale-country`, ... plus 10 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

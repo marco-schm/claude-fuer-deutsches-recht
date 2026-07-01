@@ -43,6 +43,25 @@ Plugin Fachanwalt für Sportrecht. Orientierung Verbandsrecht der Sportverbände
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-sportrecht-orientierung`, `mandat-abschlussprodukt-und-uebergabe`, `mandat-triage-sportrecht`, `orientierung-fachanwaltschaft-mandat`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `code-compliance-dokumentation-und-akte`, `doping-quellenkarte`, `fifa-dokumentenmatrix-und-lueckenliste`, `gesellschaftsrecht-beweislast-und-darlegungslast`, `persoenlichkeitsrechte-formular-portal-und-einreichung`, `quellen-livecheck`, `spezial-doping-livequellen-und-rechtsprechungscheck`, `sportrecht-tatbestand-beweis-und-belege`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `uefa-risikoampel-und-gegenargumente`, `veranstalterhaftung-fehlerkatalog`, `workflow-fristen-und-risikoampel`, `zuschauerhaftung-paragraf-9a-veranstg` |
+| 4. Gestaltung, Strategie und Verhandlung | `athletenvertrag-fristennotiz-und-naechster-schritt`, `fachanwalt-sportrecht-spielervertrag`, `fachanwalt-sportrecht-transferklausel`, `schiedsklausel-csport`, `spielervertraege-verhandlung-vergleich-und-eskalation`, `spielervertrag`, `sportr-athletenvertrag-bauleiter`, `transferklausel`, `vergleichsverhandlung-strategie` |
+| 5. Verfahren, Behörde und Gericht | `cas-dis-sport-verbands-schiedsverfahren`, `doping-verfahren`, `dosb-behoerden-gericht-und-registerweg`, `fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren`, `fachanwalt-sportrecht-doping-verfahren`, `schiedsverfahren-schriftsatz-brief-und-memo-bausteine`, `schriftsatzkern-substantiierung`, `sportr-doping-disziplinarverfahren-spezial`, `verbandsrecht-fristen-form-und-zustaendigkeit` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `spezial-veranstalterhaftung-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `athletenwerbung-paragraf-3-uwg`, `cas-berufung-vorbereiten`, `doping-cas-berufung`, `doping-strafrecht-paragraf-4-anti-dopg`, `e-sport-anerkennung`, `esports-vereinsrecht-dosb-anerkennung`, `eu-sportrecht-art-101-aeuv-eugh-c-333-21`, `fachanwalt-sportrecht-doping-cas-berufung`, `fachanwalt-sportrecht-esports-vereinsrecht-dosb-anerkennung`, `fachanwalt-sportrecht-stadion-hausverbot`, `fachanwalt-sportrecht-vereinsstrafrecht`, `nada-mehrparteien-konflikt-und-interessen`, `schnittstelle-mandantenentscheidung`, `sponsoring-internationaler-bezug-und-schnittstellen`, `sport-anti-doping`, `sportr-anti-doping-praxis`, `sportr-arbeitsrecht-im-sport-leitfaden`, `sportr-einfuehrung-rechtsfelder`, ... plus 11 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -43,6 +43,25 @@ Plugin Fachanwalt für Bau- und Architektenrecht. Orientierung BGB Werkvertragsr
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-bau-architektenrecht-orientierung`, `mandat-mandantenkommunikation-entscheidungsvorlage`, `mandat-triage-bau-architektenrecht`, `orientierung-mandat-fachanwaltschaft`, `orientierung-sonderfall-edge-case`, `triage-beweislast-und-darlegungslast`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `abnahme-quellenkarte`, `architektenrecht-tatbestand-beweis-und-belege`, `bau-schiedsgutachten-spezial`, `einfuehrung-formular-portal-und-einreichung`, `fa-bau-architekten-quellen-frist-next`, `fachanwalt-bau-architektenrecht-vob-schiedsgutachten-schlichtung`, `quellen-livecheck`, `schiedsgutachten-international-schnittstellen`, `schnittstellen-compliance-dokumentation-und-akte`, `spezial-abnahme-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `vob-schiedsgutachten-schlichtung`, `werkvertrag-dokumentenmatrix-und-lueckenliste`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `bau-abnahme-checkliste-workflow`, `bau-mangelhaftung-spezial-symptomtheorie`, `bautraeger-bonitaetspruefung-warnsignale`, `bautraeger-eigenkapital-ueberpruefung-vor-vertrag`, `bautraeger-haftungsausschluss-307-bgb`, `bautraeger-maengelhaftung-fuenf-jahre-634a`, `bautraeger-typische-nichtigkeitsfallen-checkliste`, `bautraeger-typische-notar-fehler-checkliste`, `festsetzungen-und-architektenhaftung`, `hoai-risikoampel-und-gegenargumente`, `livecheck-abschlussprodukt-und-uebergabe`, `maengelhaftung-verhandlung-vergleich-und-eskalation`, `schwarzarbeit-werklohnanspruch-bgh-vii-zr-6-13`, `staedtebauvertrag-haftung-und-rueckabwicklung`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `bau-einfuehrung-vertragstypen`, `bautraeger-mabv-ratenplan-3-mabv`, `bautraeger-notarvertrag-grundlagen-pruefraster`, `bautraeger-rechtswidrige-anpassungsklauseln`, `bautraegervertrag-mev-verstoss-bgh-vii-zr-25-20`, `bautraegervertrag-verbraucher-mabv-agb-abnahme`, `bauvertrag-schriftsatz-brief-und-memo-bausteine`, `festsetzungen-bebauungsplan-baugenehmigung-praxis`, `staedtebauvertrag-schnittstelle-bautraegervertrag`, `vergleichsverhandlung-strategie`, `verjaehrungsbeginn-werkvertrag-bgh-vii-zr-301-13` |
+| 5. Verfahren, Behörde und Gericht | `baugenehmigung-nachbarklage-paragraf-58-vwgo-bverwg-4-c-1-19`, `bauordnungsrecht-behoerden-gericht-und-registerweg`, `bautraeger-fertigstellungsfrist-und-verzug`, `bautraeger-selbstvornahme-und-vorschussklage`, `bautraeger-weg-instandhaltungsruecklage-uebergabe`, `bgb-fristen-form-und-zustaendigkeit`, `schriftsatzkern-substantiierung` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `vertragstypen-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abnahme-fiktion-paragraf-640-bgb-bgh-vii-zr-301-13`, `abnahme-mit-vorbehalt`, `abnahme-verweigerung`, `architektenhonorar-hoai-mindestsatz-eugh-c-377-17`, `bau-honorar-hoai-grundzuege`, `bau-kuendigung-vob-spezial`, `bau-nachtrag-workflow`, `bau-sicherungsmittel-spezial`, `bautraeger-abnahme-formgerecht-640-bgb`, `bautraeger-abnahmefiktion-clause-unwirksam`, `bautraeger-anlagen-zur-baubeschreibung`, `bautraeger-aufflassungsvormerkung-883-bgb`, `bautraeger-belehrungspflicht-17-beurkg`, `bautraeger-elektronische-notarverkuendung-2023`, `bautraeger-finanzierungsgrundschuld-belastungsfolge`, `bautraeger-gemeinschaftliche-maengelverfolgung-weg`, `bautraeger-grundbuchaufflassung-925-bgb`, `bautraeger-grundbuchgebuehren-rangwahrung`, ... plus 37 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

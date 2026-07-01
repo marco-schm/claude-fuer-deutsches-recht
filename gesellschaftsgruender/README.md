@@ -92,6 +92,25 @@ Gesetzesstände, Registervorgaben, Formularwege und Behördenpraxis sind vor pro
 
 Wichtige Startanker sind insbesondere BGB §§ 705 ff., HGB §§ 105 ff. und §§ 161 ff., GmbHG, AktG, PartGG, GenG, GwG/Transparenzregister, GewO, AO/UStG, SGB IV/SGB VII, InsO § 15a und die Register-/Notarvorgaben nach BeurkG und HRegV.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anfaenger-kaltstart`, `aufloesung-liquidation-start`, `daten-und-ki-compliance-start`, `dokumente-intake`, `einstieg-routing`, `geschaeftsfuehrer-pflichten-startphase`, `gruender-intake`, `gruendungsassistent-erstpruefung-und-mandatsziel`, `intake-decision-kg-gmbhcokg`, `kaltstart-triage`, `lizenz-und-vertriebsstart`, `lizenz-vertriebsstart`, `lohn-payroll-start`, `produkt-und-produkthaftung-start`, `steuerstart-buchhaltung-rechnungsprozess`, `umsatzsteuer-start`, `versicherungen-start`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `bankkonto-kyc-beirat`, `bilinguale-dokumente`, `geschaeftsfuehrervertrag-quellenkarte-check`, `gesellschaften-tatbestand-beweis-und-belege`, `partg-dokumentenmatrix-und-lueckenliste`, `spezial-geschaeftsfuehrervertrag-livequellen-check`, `unterlagen-luecken`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `checkliste-vor-unterschrift`, `firmenname-pruefung`, `firmierung-marke-domain-check`, `gbr-zu-ohg-statuswechsel`, `gf-sozialversicherungs-status`, `ggmbh-risikoampel-und-gegenargumente`, `gruenderrollen-konfliktcheck`, `sanktionen-investorcheck-gewerbeanmeldung`, `sitz-geschaeftsanschrift-briefkastenrisiko` |
+| 4. Gestaltung, Strategie und Verhandlung | `geschaeftsfuehrervertrag`, `gesellschaftsvertrag-gmbh`, `gesellschaftsvertrag-vergleich-eskalation`, `gruendungskosten-und-budgetplan`, `klauselkatalog-bilingual`, `leaver-klauseln-mietvertrag-buero-mitarbeiter`, `mietvertrag-buero-labor`, `mitarbeiter-gf-arbeitsvertrag` |
+| 5. Verfahren, Behörde und Gericht | `bank-kyc-ubo-und-transparenzregister`, `gesellschaftsgruender-transparenzregister`, `gmbh-fristen-form-und-zustaendigkeit`, `handelsregister`, `registerbeanstandung-beantworten`, `spezial-ueber-schriftsatz-brief-und-memo-bausteine`, `transparenzregister`, `ueber-schriftsatz-brief-und-memo-bausteine` |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandantenbrief-naechste-schritte`, `notarbriefing-onepager` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `geschaeftsgegenstand-erlaubnispflichten` |
+| 8. Spezialmodule und Schnittstellen | `ag-kleine-ag`, `auslandsgesellschafter-kyc`, `beirat-advisory-board`, `board-pack-erste-100-tage`, `cap-table`, `cashburn`, `deadlock-und-mediation`, `egbr-grundstueck`, `egbr-mopeg-gesellschaftsgruender`, `erste-vertraege-kunden-lieferanten-miete`, `familiengesellschaft`, `finanzierungsrunde-seed`, `founder-vesting`, `freiberufler-partg-gbr`, `genehmigtes-kapital`, `genossenschaft-eg`, `geschaeftsordnung-gf-gesellschafterstreit`, `gesellschafterliste`, ... plus 42 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -52,6 +52,23 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt kei
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-schifffahrtsmandat`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `dokumenten-cockpit-schiff`, `see-020-dokumenten-cockpit-schiff`, `umwelt-marpol-itlos-hamburg-dokumenten` |
+| 3. Prüfung, Anspruch und Subsumtion | `binnenschiff-klagepfad-risiko`, `binnenschiff-risiko-memo-schreiben`, `containerschiff-risiko-memo-schreiben`, `konnossement-risiko-memo-schreiben`, `kreuzfahrtschiff-risiko`, `offshore-schiff-klagepfad-waehlen-risiko`, `offshore-schiff-risiko-memo-schreiben`, `schiffbauwerk-risiko-yachtkauf-register`, `schiffshypothek-klagepfad-risiko`, `schiffshypothek-risiko-memo-schreiben`, `see-030-schiffshypothek-risiko-memo-schreiben`, `see-040-schiffbauwerk-risiko-memo-schreiben`, `see-050-werftvertrag-risiko-memo-schreiben`, `see-060-yachtkauf-risiko-memo-schreiben`, `see-070-containerschiff-risiko-memo-schreiben`, `see-080-offshore-schiff-risiko-memo-schreiben`, `see-090-binnenschiff-risiko-memo-schreiben`, `see-100-kreuzfahrtschiff-risiko-memo-schreiben`, ... plus 3 weitere |
+| 4. Gestaltung, Strategie und Verhandlung | `bermuda-struktur-seeschiff`, `binnenschiff-closing-planen`, `binnenschiff-kaufvertrag-scopen`, `charterparty-closing-planen`, `charterparty-kaufvertrag-scopen`, `charterparty-local-closing-planen`, `containerschiff-closing-planen`, `containerschiff-kaufvertrag-scopen`, `containerschiff-local-closing-planen`, `konnossement-closing-planen`, `konnossement-kaufvertrag-scopen`, `kreuzfahrtschiff-closing-planen`, `kreuzfahrtschiff-kaufvertrag-scopen`, `schiffbauvertrag-werft-schiffshypothek`, `schiffbauwerk-closing-planen`, `schiffbauwerk-kaufvertrag-scopen`, `schiffshypothek-closing-planen`, `schiffshypothek-kaufvertrag-scopen`, ... plus 40 weitere |
+| 5. Verfahren, Behörde und Gericht | `binnenschiff-register-pruefen`, `charterparty-klagepfad-waehlen`, `charterparty-register-hypothek-bestellen`, `containerschiff-klagepfad-waehlen`, `containerschiff-register-hypothek`, `konnossement-klagepfad-waehlen`, `konnossement-register-pruefen`, `kreuzfahrtschiff-klagepfad-waehlen`, `kreuzfahrtschiff-register-pruefen`, `offshore-schiff-klagepfad-waehlen`, `offshore-schiff-register-pruefen`, `schiffbauwerk-klagepfad-waehlen`, `schiffbauwerk-register-pruefen`, `schiffshypothek-register-pruefen`, `schiffsregister-und-eigentum`, `see-003-schiffsregister-und-eigentum`, `see-021-schiffshypothek-register-pruefen`, `see-029-schiffshypothek-klagepfad-waehlen`, ... plus 18 weitere |
+| 8. Spezialmodule und Schnittstellen | `074-offshore-schiff-arrest-vorbereiten`, `auslandsflagge-local-insolvenz-reederei`, `bergung-und-wrack`, `binnenschiff-arrest-wrackpflicht`, `binnenschiff-hypothek-bestellen`, `binnenschiff-local-counsel-instruieren`, `binnenschiff-versicherung-melden`, `binnenschiff-wrackpflicht-pruefen`, `charterparty-arrest-vorbereiten`, `charterparty-einordnen-fracht`, `charterparty-hypothek-bestellen`, `charterparty-versicherung-melden`, `charterparty-wrackpflicht-pruefen`, `containerschiff-arrest-vorbereiten`, `containerschiff-hypothek-bestellen`, `containerschiff-versicherung-melden`, `containerschiff-wrackpflicht-pruefen`, `fracht-und-konnossement`, ... plus 100 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

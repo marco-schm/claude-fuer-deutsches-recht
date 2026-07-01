@@ -70,6 +70,25 @@ Bei echten Mandaten keine sensiblen personenbezogenen Daten, politischen Mitglie
 Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `eingangsbestaetigung-aktenzeichen-falscher`, `kaltstart-triage`, `route-aufzug-und-streckenplanung` |
+| 2. Unterlagen, Sachverhalt und Quellen | `bescheid-lesen-beweissicherung-am`, `beweissicherung-am-versammlungstag`, `camp-dauerversammlung-datenschutz-fotos`, `datenschutz-fotos-livestream`, `mildere-mittel-matrix`, `nachbereitung-aktenvermerk-notfallkarte`, `offizielle-quellen-ordner-auswahl`, `polizei-ort-polizeifilmerei-beweissicherung`, `polizeifilmerei-beweissicherung-kug-201-stgb` |
+| 3. Prüfung, Anspruch und Subsumtion | `frist-stunden-kosten-haftung`, `kosten-haftung-und-versicherung` |
+| 4. Gestaltung, Strategie und Verhandlung | `versammlungskonzept-wahlkampf-politische` |
+| 5. Verfahren, Behörde und Gericht | `behoerdenkommunikation-bekanntgabe-social`, `kundgebung-stationaer-landesrecht-behoerde`, `landesrecht-und-behoerde-finden`, `muster-anzeige-eilantrag`, `muster-eilantrag`, `widerspruch-klage-eilrechtsschutz` |
+| 6. Ergebnis, Schreiben und Kommunikation | `leiter-verantwortung-mildere-mittel` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `gegenveranstaltung-trennung-infostand`, `qualitaetsgate-bekanntgabe-route-aufzug` |
+| 8. Spezialmodule und Schnittstellen | `anwaltlicher-an-anzeige-unter`, `anzeige-unter-freiem-himmel`, `auflagen-auflagenverstoss-owi`, `auflagenverstoss-und-owi`, `bannmeile-schutzbereiche-barrierefreiheit`, `barrierefreiheit-und-inklusion`, `bekanntgabe-social-media`, `blockade-sitzblockade-bundeslaender-synopse`, `bundeslaender-synopse`, `dritte-anwohner-eilversammlung`, `eilversammlung`, `falscher-tag-falscher-ort-einwand`, `gefahrenprognose-redteam`, `infostand-mahnwache-kleinstversammlung`, `innenraum-versammlung-kooperationsgespraech`, `kooperationsgespraech`, `notfallkarte-versammlungstag`, `ordner-auswahl`, ... plus 13 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

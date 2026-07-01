@@ -144,6 +144,25 @@ Dein Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/ge
 - Die Vollzugscheckliste wird aus dem SPA initialisiert und aktualisiert sich selbst, wenn die DD Zustimmungserfordernisse aufdeckt.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `beirat-kaltstart-und-zielbild`, `beirat-startup-investor-director`, `dokumente-intake`, `einstieg-routing`, `gesellschaftsrecht-erstpruefung-und-mandatsziel`, `gesellschaftsrecht-mandatsworkspace-kontexttrennung`, `kaltstart-interview`, `livecheck-sonderfall-loesungsstrategie-mandat`, `mandat-arbeitsbereich-gesr-corporate`, `mandat-triage-gesellschaftsrecht`, `workflow-anschluss-skills-router`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `beirat-datenschutz-und-ki`, `beirat-internal-investigation-datenschutz-ki`, `closing-quellenkarte`, `compliance-compliance-dokumentation-und-akte`, `datenraum-behoerden-gericht-und-registerweg`, `diligence-dokumentenmatrix-und-lueckenliste`, `gmbh-tatbestand-beweis-und-belege`, `loesungsstrategie-formular-portal-und-einreichung`, `minderheitsrechte-auskunft-sonderpruefung`, `quellen-livecheck`, `rechtsquellen-beweislast-darlegungslast`, `spezial-closing-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `beirat-haftung`, `beirat-musterklauseln-haftung`, `checklists-zahlen-schwellen-und-berechnung`, `geschaeftsfuehrer-haftung-43-gmbhg`, `rechtsabteilung-geschaeftsfuehrerhaftung-fuer-compliance-versage`, `tabellenpruefung`, `tabellenpruefung-cap-table`, `vollzugs-checkliste`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `anmeldungen-verhandlung-vergleich-und-eskalation`, `beirat-bank-und-sanierung`, `beirat-budget-und-businessplan`, `gesellschafterstreit-loesungsstrategie`, `gesellschafts-compliance`, `organbestellung-abberufung-und-anstellungsvertrag`, `satzungsgestaltung-gmbh-kernklauseln` |
+| 5. Verfahren, Behörde und Gericht | `agio-und-kapitalruecklage`, `beirat-beratungsfunktion-beschlussfassung`, `beirat-beschlussfassung`, `beirat-beschlussmaengel`, `beirat-register-und-notar`, `fristen-mehrparteien-konflikt-und-interessen`, `gesellschafterbeschluss`, `gesellschafterliste-legitimation-und-widerspruch`, `gesellschafterliste-registerstreit-legitimationswirkung`, `handelsregisteranmeldung-frist-naechster-schritt`, `handelsregisteranmeldung-integrations`, `personengesellschaften-fristen-form-und-zustaendigkeit`, `rechtsabteilung-stimmbindung-und-beschlussmangel-nach-hannover-9`, `schriftliche-beschlussfassung` |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandantenentscheidung-vorlage-kommunikation-gesellschaftsrecht`, `output-waehlen-workflow-redteam-interessen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `beirat-red-team-satzung`, `mandat-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `anpassen`, `anschluss`, `arbeitsbereich-mandantenentscheidung`, `aufsichtsrat-protokoll`, `beirat-abgrenzung-aufsichtsrat`, `beirat-amtszeit-und-rotation`, `beirat-bestellung-und-abberufung`, `beirat-deadlock-mechanik`, `beirat-entscheidungsbefugnisse`, `beirat-fakultativer-aufsichtsrat-52-gmbhg`, `beirat-familiengesellschaft`, `beirat-geschaeftsfuehrerabberufung`, `beirat-geschaeftsfuehrerbestellung`, `beirat-geschaeftsordnung`, `beirat-immobilien-und-investitionen`, `beirat-informationsrechte-insolvenznaehe`, `beirat-insolvenznaehe`, `beirat-interessenkonflikte`, ... plus 36 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

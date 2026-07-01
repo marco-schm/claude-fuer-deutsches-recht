@@ -159,6 +159,25 @@ Alle juristischen Quellen folgen `../references/zitierweise.md`. Beispiele:
 - Krenzler, in: Krenzler (Hrsg.), RDG, 2. Aufl. 2021, § 6 Rn. 45.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-router`, `bono-erstpruefung-und-mandatsziel`, `briefe-erstberatung-rdg-konform`, `dokumente-intake`, `einstieg-routing`, `erstberatung-rdg-grenzen-und-triage`, `kaltstart-interview`, `mandantenintake-mandatsuebergabe`, `mandatsuebergabe-international-schnittstellen`, `pro-bono-mandatsuebergabe`, `recherche-start-rechtsberatungsstelle`, `workflow-anschluss-skills-router`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `anlaufstellen-beweislast-anleiter-bono`, `anleiter-formular-portal-und-einreichung`, `konform-dokumentenmatrix-und-lueckenliste`, `mandantenfreundliche-quellenkarte-check`, `pruefwarteschlange-red-rbst-recherche`, `quellen-livecheck`, `recherche-mehrparteien-konflikt-und-interessen`, `rechtsberatungsstellen-tatbestand-beweis-und-belege`, `spezial-mandantenfreundliche-livequellen-check`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `fristen-risikoampel-mandantenkommunikation`, `rechtsberatung-uebergabe-schriftsatz-brief-memo-bausteine-status`, `status` |
+| 4. Gestaltung, Strategie und Verhandlung | `semesterende-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `fristen-fristenkontrolle-rdg`, `fristenkontrolle-behoerden-gericht-und-registerweg`, `rdg-fristen-form-und-zustaendigkeit`, `spezial-uebergabe-schriftsatz-brief-und-memo-bausteine` |
+| 6. Ergebnis, Schreiben und Kommunikation | `einfache-sprache-briefe`, `entwurf-einarbeitung-einfache-sprache`, `mandanten-kommunikations-log`, `mandantenbrief-memo-rbs-beratungshilfe`, `memo`, `output-waehlen`, `rbst-mandantenkommunikation-entscheidungsvorlage`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `spezial-pruefwarteschlange-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `anleiter-pruefwarteschlange`, `anpassen`, `einarbeitung`, `erzeugung-leitfaden-erstellen-mandanten`, `leitfaden-erstellen`, `mandant-aufnahme`, `rbs-beratungshilfe-und-pkh-praxis`, `rbs-einfuehrung-rdg-rbst-anlaufstellen`, `rbs-rdg-grenzen-spezial`, `rbst-anlaufstellen-bauleiter`, `rbst-beratungshilfe-prozesskostenhilfe`, `rbst-niedrigschwellige-onlineberatung-spezial`, `rbst-rdg-grenzen-spezial`, `rechtsberatungsstellen`, `semester-uebergabe`, `sonderfall-edge-case` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -43,6 +43,25 @@ Plugin Fachanwalt für Internationales Wirtschaftsrecht. Orientierung CISG Brüs
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-internationales-wirtschaftsrecht-orientierung`, `mandat-triage-iwr`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `cisg-dokumentenmatrix-und-lueckenliste`, `icsid-quellenkarte`, `internationales-tatbestand-beweis-und-belege`, `iwr-einfuehrung-rechtsquellen`, `lksg-compliance-dokumentation-und-akte`, `quellen-livecheck`, `schiedsklausel-formular-portal-und-einreichung`, `spezial-icsid-livequellen-und-rechtsprechungscheck`, `trade-beweislast-und-darlegungslast`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `bruessel-risikoampel-und-gegenargumente`, `cisg-pruefung`, `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung`, `fachanwalt-iwr-embargo-pruefung-russland`, `iwr-embargo-pruefung-russland`, `sanktions-compliance-pruefung`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `compliance-sonderfall-edge-case`, `fachanwalt-internationales-wirtschaftsrecht-schiedsklausel`, `grenzueberschreitender-vertragsstreit`, `intwr-eu-sanktionen-trade-compliance-spezial`, `intwr-schiedsklausel-newyork-spezial`, `investitionsschutz-verhandlung-vergleich-und-eskalation`, `schiedsklausel`, `spezial-grenzueberschreitender-vertragsstreit`, `vergleichsverhandlung-strategie` |
+| 5. Verfahren, Behörde und Gericht | `embargo-fristennotiz-und-naechster-schritt`, `fachanwalt-iwr-icc-uncitral-schiedsverfahren`, `gerichtsstand-und-rechtswahl-pruefen`, `iwr-icc-uncitral-schiedsverfahren`, `iwr-rechtswahl-gerichtsstand-praxis`, `schiedsverfahren-behoerden-gericht-und-registerweg`, `schriftsatzkern-substantiierung`, `uncitral-schriftsatz-brief-und-memo-bausteine`, `wirtschaftsrecht-fristen-form-und-zustaendigkeit` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `sanktionen-mandantenkommunikation-entscheidungsvorlage`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `intwr-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `anti-dumping-zoll-eu-grundverordnung`, `aussenhandel-zahlen-schwellen-und-berechnung`, `china-shipping-bills-of-lading`, `einstieg-in-den-skill-verbund-internationales-wirtschaftsrecht`, `eu-kartellrecht-art-101-aeuv-eugh-c-373-14`, `eu-kartellrecht-art-102-aeuv-google-eugh-t-612-17`, `eu-mwst-betrug-mtic`, `eugv-zustaendigkeit-art-7-eugvvo`, `fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit`, `fachanwalt-iwr-brussels-ia-zustaendigkeit`, `fachanwalt-iwr-cisg-anwendbarkeit`, `fachanwalt-iwr-eu-us-dpf-data-privacy-framework`, `incoterms-2020-fca-versendungskauf`, `intwr-cisg-pruefraster`, `intwr-rom-i-ii-leitfaden`, `invest-schutz-bit-icsid-c-284-16`, `iwr-arbitration-ny-convention-spezial`, `iwr-brussels-ia-zustaendigkeit`, ... plus 8 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -136,6 +136,25 @@ Das Plugin startet mit `mandat-triage-wandeldarlehen` und führt durch:
 
 Alle Texte dienen als Arbeitshilfe für die anwaltliche Praxis. Sie ersetzen keine rechtliche Beratung im Einzelfall. Jeder Skill verweist auf die maßgebliche Rechtsprechung (BGH/OLG mit Aktenzeichen und Datum). Änderungen in GmbHG, InsO, UmwStG oder GwG sind einzuarbeiten (Stand: 05/2026).
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `begleitet-erstpruefung-und-mandatsziel`, `dokumente-intake`, `einstieg-routing`, `kaltstart-triage`, `mandat-triage-mehrere-parallel`, `wandelereignis-eingang`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `beurkundungspruefung-quellenkarte-check`, `dokumenten-upload-formfehler-heilungs`, `spezial-beurkundungspruefung-livequellen-check`, `unterlagen-luecken`, `vollstaendigen-tatbestand-beweis-und-belege`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `beurkundungserfordernis-pruefung`, `wandlungspreis-wandlungspruefung-trigger`, `wandlungspruefung-trigger`, `wandlungspruefung-trigger-liquidation`, `wandlungspruefung-trigger-qualified-financing`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `bilinguale-vertragserstellung`, `einsprachig-verhandlung-vergleich-und-eskalation`, `einsprachige-vertragsfassung`, `lebenszyklus-bilinguale-vertragserstellung`, `vertragserstellung-behoerden-gericht-und-registerweg`, `vertraulichkeit-sprachklausel` |
+| 5. Verfahren, Behörde und Gericht | `chronologie-fristen`, `gesellschafterbeschluss-kapitalerhoehung`, `gesellschafterbeschluss-vorbereiten`, `handelsregisteranmeldung-kapitalerhoehung-kyc` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `sacheinlagebericht-werthaltigkeit-begleitet`, `wandelereignis-trigger-wandlung-kommunikation`, `wandlung-kommunikation-paketverteilung` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `formfehler-heilungs-timeline` |
+| 8. Spezialmodule und Schnittstellen | `bilingual-einsprachig`, `cap-table-darlehenshoehe-konditionen`, `darlehenshoehe-konditionen`, `gesellschafterliste-aktualisieren`, `gesellschafterversammlung-einberufen`, `gmbh-vollstaendigen`, `kyc-aml-geldwaesche`, `mehrere-wandeldarlehen-parallel`, `notar-paket-parteien-erfassen`, `parteien-erfassen`, `post-eintragung-rangruecktritt-formulieren`, `rangruecktritt-formulieren`, `textform-vs-schriftform-vs-notariell`, `unterzeichnung-elektronisch-wandelereignis`, `wandeldarlehens-wandelereignisse`, `wandelereignisse-zahlen-schwellen-und-berechnung`, `wandlungsausloeser-cap-discount-textform`, `wandlungsausschluss-wandlungsmechanik`, ... plus 1 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

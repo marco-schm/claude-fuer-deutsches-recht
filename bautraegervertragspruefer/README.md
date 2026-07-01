@@ -69,6 +69,23 @@ Drei Modi zur Wahl:
 Generischer Pruefstand, alle Angaben ohne Gewähr. Jede Nutzerin und jeder Nutzer prüft den Pruefbericht auf Plausibilität und Eignung im konkreten Einzelfall. Keine Rechtsberatung. Keine Garantie für Vollständigkeit oder Aktualität der Rechtsprechung. Bei streitigen Fällen Fachanwalt für Bau- und Architektenrecht oder Notar hinzuziehen.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 2. Unterlagen, Sachverhalt und Quellen | `drei-dokumente-paket-erzeugen`, `mandantengutachten-aufbau` |
+| 3. Prüfung, Anspruch und Subsumtion | `verbraucherstatus-pruefen` |
+| 4. Gestaltung, Strategie und Verhandlung | `agb-kontrolle-klauseln`, `bautraegervertrag-qualifikation`, `bauzeitenplan-verzug`, `mabv-ratenplan-pruefen` |
+| 5. Verfahren, Behörde und Gericht | `weg-beschluss-anfechtung` |
+| 6. Ergebnis, Schreiben und Kommunikation | `aufforderungsschreiben-bautraeger-und-notar` |
+| 8. Spezialmodule und Schnittstellen | `abnahme-gemeinschaftseigentum`, `abnahme-sondereigentum-paragraf-640`, `auflassungsvormerkung-und-grundbuch`, `baubeschreibung-bausoll-pruefen`, `faelligkeitsmitteilung-pruefen`, `fall-fingerabdruck-erstellen`, `fertigstellungssicherheit-650m-pruefen`, `gemeinschaft-zieht-maengelrechte-an-sich`, `gesamtnichtigkeit-paragraf-306-bgb`, `hoai-bauueberwachung-private-bauueberwachung`, `insolvenzrisiken-bautraeger`, `mabv-sicherheit-paragraf-7-pruefen`, `maengelrechte-633-634-bgb`, `mittlere-art-und-guete-und-din`, `notarbelehrung-paragraf-14-bnoto-17-beurkg`, `paragraf-308-nr-4-bgb-leistungsaenderung`, `paragraf-309-nr-12-bgb-tatsachenbestaetigung`, `preisanpassung-und-sonderwuensche`, ... plus 3 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

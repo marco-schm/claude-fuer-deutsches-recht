@@ -123,6 +123,25 @@ Alle in diesem Plugin verwendeten Personen, Kanzleinamen und Mandantennamen sind
 - IDW S 11 (Beurteilung des Vorliegens von Insolvenzeröffnungsgründen)
 - IDW PS 340 n.F. (Risikofrüherkennungssysteme)
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `ampelsystem-beweislast-und-darlegungslast`, `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung`, `geschaeftsfuehrerhaftung-quellenkarte-check`, `krisenmanagement-tatbestand-beweis-und-belege`, `quellen-livecheck`, `restrukturierungsplan-formular-portal-und-einreichung`, `spezial-geschaeftsfuehrerhaftung-livequellen-check`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste`, `zahlungsunfaehigkeit-compliance-dokumentation-und-akte` |
+| 3. Prüfung, Anspruch und Subsumtion | `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg`, `krisenstadien-fristennotiz-starug-gf-haftung`, `monats-risikoampel-und-gegenargumente`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `integrierte-planung-kennzahlenset-ampelsystem`, `kfe-restrukturierungsbeauftragter`, `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet`, `pflicht-planung-restrukturierungsplan`, `planung-internationaler-bezug-und-schnittstellen`, `restrukturierungsbeauftragter-und-sachwalter`, `restrukturierungsplan-architektur-rollierende`, `rollierende-liquiditaetsplanung-24-monate-template` |
+| 5. Verfahren, Behörde und Gericht | `fruehwarnsystem-behoerden-gericht-und-registerweg`, `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist`, `stabilisierungsanordnung-und-vollstreckungssperre`, `starug-fristen-form-und-zustaendigkeit`, `starug-stabilisierungsanordnung-vollstreckungsstopp`, `warnpflicht-schriftsatz-brief-und-memo-bausteine` |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandantenbrief-warnung-paragraph-starug`, `mandantenkommunikation-redteam`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `berater-drohende-fruehwarnsystem`, `cross-class-cram-down-und-absolute-priority`, `drohende-zahlen-schwellen-und-berechnung`, `drohende-zahlungsunfaehigkeit`, `fortbestehensprognose-zweistufig`, `fruehwarnsystem-architektur-zwei-jahres-horizont`, `integrierte-interessen-kennzahlenset`, `kennzahlenset-mandantenentscheidung`, `kennzahlenset-und-ampelsystem-starug-konform`, `kfe-fruherkennungssystem-bauleiter`, `kfe-krisenstab-cross-class`, `kfe-krisenstab-massnahmen-leitfaden`, `kfe-stabilisierungsanordnung-spezial`, `konform-sonderfall-und-edge-case`, `krisenfrueherkennung-krisenmanagement-monats`, `paragraph-1-starug-pflichten-und-24-monats-horizont`, `paragraph-102-starug-warnpflicht-bei-rechtsberatern`, `pflichtenkollision-shift-restructuring-lounge`, ... plus 2 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

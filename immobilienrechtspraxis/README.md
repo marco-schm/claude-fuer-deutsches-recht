@@ -53,6 +53,25 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `start-chronologie-fristen`, `werkzeuge-erstpruefung-und-mandatsziel`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `immo-immobilienrechtliche-live-beweislast`, `immobilienrechtliche-tatbestand-beweis-und-belege`, `live-beweislast-und-darlegungslast`, `musterbasierte-dokumentenmatrix-und-lueckenliste`, `playbook-quellenkarte`, `quellen-livecheck`, `sachverhaltsermittlung`, `sachverhaltsermittlung-verifikation`, `spezial-playbook-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `weg-abrechnung-mieterschnittstelle-datenpaket`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `case-gegen-grundbuchanalyse`, `case-management-grundbuchanalyse-immo`, `grundbuchanalyse`, `grundbuchanalyse-zahlen-schwellen-und-berechnung`, `pruefung-fehlerkatalog`, `vertragserstellung-risikoampel-und-gegenargumente`, `vertragspruefung-playbook`, `vertragspruefung-schriftsatz-brief-und-memo-bausteine`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `gegen-verhandlung-vergleich-und-eskalation`, `immo-aufteilungsplan-weg`, `immo-bauvertrag-vob-kaufvertrag-grundstueck`, `immo-kaufvertrag-grundstueck`, `immo-mietkaufvertrag`, `immor-bauvertrag-vob-erbbaurecht-vertrag`, `immor-erbbaurecht-vertrag-spezial`, `immor-grundstueckskaufvertrag-bauleiter`, `klauselschutz-vertragserstellung`, `vertragserstellung-musterbasiert` |
+| 5. Verfahren, Behörde und Gericht | `immo-zwangsversteigerung-frist-naechster`, `immobilienrechtspraxis-frist-naechster-schritt`, `rechtsabteilungen-fristen-form-und-zustaendigkeit` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `spezial-pruefung-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `bautraegerkauf-eigentumspfad-und-freistellung`, `betriebskostenabrechnung-erstellen-asset-management`, `betriebskostenabrechnung-pruefen-asset-management`, `immo-bauliche-veraenderung-energieausweis`, `immo-energieausweis`, `immo-gewerbliche-mieter-konkurs`, `immo-grundschuld-bestellung-makler-honorar`, `immo-makler-honorar`, `immo-share-deal-grunderwerbsteuer`, `immo-wohnungseigentum-grundlagen`, `immor-bodenrichtwert-betriebskostenabrechnung`, `management-mieteranfragen-interessen`, `mandant-redteam-gate`, `mieteranfragen-bearbeitung-projekt`, `mieteranfragen-mehrparteien-konflikt-und-interessen`, `projekt-arbeitsweise`, `rechtsprechung-mandantenentscheidung`, `verifikation-sonderfall-und-edge-case` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

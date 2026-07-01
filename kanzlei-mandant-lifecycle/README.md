@@ -62,6 +62,25 @@ Vor rechtlich tragenden Aussagen immer live prüfen: BRAO, BORA, RVG, DSGVO, § 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `conflict-after-mandate`, `inhouse-legal-triage`, `kaltstart-beide-seiten-dashboard`, `mandatsannahme-conflict-gwg`, `matter-intake-form-builder`, `matter-mandantenschulung-mandatsannahme`, `termination-of-mandate` |
+| 2. Unterlagen, Sachverhalt und Quellen | `action-item-owner-matrix`, `audit-response-trail-logs-authority-matrix`, `authority-matrix`, `datenschutz-avv-legalops` |
+| 3. Prüfung, Anspruch und Subsumtion | `dashboard-matter-status`, `weekly-status-report` |
+| 4. Gestaltung, Strategie und Verhandlung | `regulatory-remediation-plan`, `success-fee-compliance`, `vergleichswert-story` |
+| 5. Verfahren, Behörde und Gericht | `risk-register` |
+| 6. Ergebnis, Schreiben und Kommunikation | `bad-news-memo`, `fachabteilung-briefing` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `audit-trail-and-logs`, `dashboard-design-qualitygate`, `invoice-review-narratives`, `mandatsbeziehung-qualitygate`, `monthly-business-review`, `rate-card-review`, `red-team-mandatsbeziehung` |
+| 8. Spezialmodule und Schnittstellen | `access-control-roles`, `appeal-decision-gate`, `associate-workbench`, `beauty-contest-scoring`, `billing-to-blockbilling-detector-board`, `blockbilling-detector`, `board-reporting`, `budget-baseline-und-phasen`, `budget-overrun-escalation`, `client-business-owner-data-retention-facing`, `client-data-retention`, `client-facing-language`, `client-satisfaction-pulse`, `commercial-litigation-budget`, `communication-charter-conflict-after-court`, `court-deadline-dashboard`, `court-file-progress`, `crisis-mode`, ... plus 71 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -52,6 +52,23 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt kei
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage`, `oew-001-kaltstart-oeffentliches-wirtschaftspro` |
+| 3. Prüfung, Anspruch und Subsumtion | `autobahnprojekt-risiko-kontrolle-sichern`, `autobahnprojekt-wirtschaftlichkeit-rechtsprechungscheck`, `beihilfe-check-eu`, `breitband-risiko-kontrolle-sichern`, `krankenhausgesellschaft-risiko-verteil`, `messegesellschaft-risiko-verteilen`, `parkhaus-risiko-verteilen`, `parkhaus-wirtschaftlichkeit-risiko`, `risikoallokation-im-oepp`, `schulbau-oepp-risiko-verteilen`, `stadtwerke-risiko-verteilen`, `vergaberechtliche-vorpruefung`, `wohnungsbau-risiko-verteilen` |
+| 4. Gestaltung, Strategie und Verhandlung | `autobahnprojekt-vertrag-scopen`, `breitband-vertrag-scopen`, `krankenhausgesellschaft-vertrag-scopen`, `messegesellschaft-vertrag-scopen`, `oepp-struktur-pruefen`, `oew-003-oepp-struktur-pruefen`, `parkhaus-vertrag-scopen`, `schulbau-oepp-autobahnprojekt-vertrag`, `stadtwerke-vertrag-scopen`, `wirtschaftlichkeitsvergleich`, `wohnungsbau-vertrag-breitband-scopen` |
+| 6. Ergebnis, Schreiben und Kommunikation | `autobahnprojekt-kommunikation-schreibe`, `breitband-kommunikation-schreiben`, `messegesellschaft-kommunikation-schrei`, `schulbau-oepp-kommunikation-schreiben`, `stadtwerke-haushalt-kommunikation`, `stadtwerke-kommunikation-schreiben`, `wohnungsbau-kommunikation-schreiben` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `autobahnprojekt-kontrolle-sichern`, `breitband-kontrolle-sichern`, `krankenhausgesellschaft-kommunikation-red-team-korrektur`, `krankenhausgesellschaft-kontrolle-sich`, `messegesellschaft-kontrolle-sichern`, `parkhaus-kommunikation-red-team-korrektur`, `parkhaus-kontrolle-sichern`, `stadtwerke-kontrolle-sichern`, `transparenz-kontrolle`, `wohnungsbau-kontrolle-haushalt-anbinden` |
+| 8. Spezialmodule und Schnittstellen | `023-schulbau-oepp-beihilfe-markieren`, `028-schulbau-oepp-haushalt-anbinden`, `autobahnprojekt`, `autobahnprojekt-beihilfe-markieren`, `autobahnprojekt-haushalt-anbinden`, `autobahnprojekt-organisationsform`, `autobahnprojekt-vergabeweg-waehlen`, `breitband-beihilfe-markieren`, `breitband-haushalt-anbinden`, `breitband-organisationsform-vergabeweg`, `breitband-red-parkhaus-organisationsform`, `breitband-vergabeweg-waehlen`, `breitband-wirtschaftlichkeit-rechnen`, `buergschaft-und-patronat`, `daseinsvorsorge-und-markt`, `exit-und-rueckabwicklung`, `gebuehrenfinanzierung-pruefen`, `haushaltsrechtliche-freigabe`, ... plus 58 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

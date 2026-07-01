@@ -122,6 +122,25 @@ Phase D — Verfahren BayVGH/OVG
 
 Das Plugin ist freistehend nutzbar und benötigt keine anderen Plugins des Marketplaces. Für umweltrechtliche Querfragen (FFH, saP, UVP) kann das Plugin `umweltrecht` ergänzend geladen werden, für allgemeine Verwaltungsverfahrensfragen das Plugin `verwaltungsrecht`.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `immissionsschutz-laerm-mandat-erstgespraech`, `kaltstart-triage`, `mandat-erstgespraech-normenkontrolle`, `mandatsperspektive-quellenkarte`, `pruefung-erstpruefung-und-mandatsziel`, `spezial-mandatsperspektive-livequellen-und-rechtsprechungscheck`, `spezial-pruefung-erstpruefung-und-mandatsziel`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `abwaegung-formular-portal`, `abwaegung-formular-portal-und-einreichung`, `bayvgh-bekanntmachung-beweislast-eilantrag`, `bekanntmachung-beweislast-darlegungslast`, `bekanntmachung-beweislast-und-darlegungslast`, `chronologie-und-belegmatrix`, `compliance-dokumentation-aktenvermerk`, `normenkontrolle-compliance-dokumentation-und-akte`, `quellen-livecheck`, `unterlagen-luecken`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `allgemeine-satzungsnormenkontrolle-47-vwgo`, `anfechtung-tatbestandsmerkmale`, `flaechennutzungsplaenen-normenkontrolle`, `fristen-und-risikoampel`, `nkbl-normenkontrolle-verfahren-leitfaden`, `normenkontrollantrag-normenkontrolle`, `normenkontrollantrag-schriftsatz`, `normenkontrolle-antragstellervertretung-47vwgo`, `normenkontrolle-bebauungsplan-angriffspunkte`, `normenkontrolle-fnp-inzidentkontrolle`, `normenkontrolle-oder-inzidentkontrolle`, `normenkontrolle-satzungsnormenkontrolle`, `normenkontrolle-satzungsnormenkontrolle-47-vwgo`, `oertlichen-risikoampel`, `oertlichen-risikoampel-und-gegenargumente`, `umweltbericht-umweltpruefung` |
+| 4. Gestaltung, Strategie und Verhandlung | `anpassungsgebot-flaechennutzungsplan`, `artenschutz-naturschutz-planung`, `bauleitplanung-interessen`, `bauleitplanung-mehrparteien-konflikt-und-interessen`, `bayvgh-verhandlung-vergleich`, `festsetzungen-bebauungsplan-9-baugb-grundlagen`, `festsetzungen-konflikt-mit-staedtebauvertrag`, `immissionsschutz-laerm-bauleitplanung`, `muendliche-verhandlung-vgh-strategie`, `nkbl-abwaegungsfehler-bauleitplanung`, `nkbl-bauleitplanung-bauleiter`, `planerhaltung-214-215-baugb`, `planerhaltung-abwaegung`, `planerhaltung-abwaegung-antragsbefugnis`, `planerhaltung-internationaler`, `planerhaltung-internationaler-bezug-und-schnittstellen`, `staedtebaulicher-vertrag-angemessenheit-kausalitaet`, `staedtebaulicher-vertrag-durchfuehrungsvertrag-12-baugb`, ... plus 6 weitere |
+| 5. Verfahren, Behörde und Gericht | `antragsbefugnis-eigentuemer-nachbar`, `antragsbefugnis-fehlerkatalog`, `antragstellervertretung-zahlen-schwellen-und-berechnung`, `artenschutz-naturschutz-aufstellungsbeschluss`, `aufstellungsbeschluss-bekanntmachung`, `aufstellungsbeschluss-mandantenentscheidun-02`, `aufstellungsbeschluss-mandantenentscheidung`, `bauvorschriften-behoerden`, `bauvorschriften-behoerden-gericht-und-registerweg`, `eilantrag-47-abs-6-ausserhalb-baurecht`, `eilantrag-47-abs-6-vwgo`, `jahresfrist-47-abs-2-vwgo`, `jahresfrist-abs-nkbl-verfahren`, `vwgo-schriftsatz-brief-memo` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `anfechtung-antragsbefugnis-red-team-korrektur`, `antragsbefugnis-red-team-und-qualitaetskontrolle`, `buergerversammlung-protokoll-audit`, `nkbl-abwaegungsfehler-spezial`, `red-team-satzung-jenseits-baugb`, `redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abwaegungsgebot-1-abs-7-baugb`, `bebauungsplaenen-kommunalabgaben`, `benutzungssatzung-kommunale-einrichtung`, `beteiligung-frueh-buergerversammlung`, `beteiligung-frueh-foermlich`, `einstweilige-anordnung-47-abs-6-vwgo`, `einstweilige-anordnung-erforderlichkeit-abs`, `erforderlichkeit-1-abs-3-baugb`, `festsetzungen-baunutzungsverordnung-art-mass`, `festsetzungen-bestimmtheit-und-erforderlichkeit`, `festsetzungen-innenentwicklung-13a-13b-baugb`, `festsetzungen-oertliche-bauvorschriften-lbo`, `festsetzungen-ueberbaubare-flaeche-bauweise`, `festsetzungen-verkehrs-und-gruenflaechen`, `festsetzungskatalog-9-baugb-baunvo`, `kommunalabgaben-und-beitragssatzungen`, `nkbl-buergerentscheid-buergerbegehren-spezial`, `polizeiverordnung-gefahrenabwehrsatzung`, ... plus 7 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

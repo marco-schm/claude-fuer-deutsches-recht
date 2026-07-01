@@ -76,6 +76,25 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 - Zahlen, Fristen, Schwellenwerte und Zuständigkeiten werden sichtbar hergeleitet oder als Annahme gekennzeichnet.
 - Ausgabe immer so, dass eine Berufsträgerin oder ein Berufsträger sie sofort prüfen, kürzen, freigeben oder verwerfen kann.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `start-chronologie-fristen`, `umweltrecht-erstpruefung-und-mandatsziel`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `bimschg-tatbestand-beweis-und-belege`, `bussgeld-quellenkarte`, `diligence-greenwashing-beweislast-klimaklagen`, `greenwashing-beweislast-und-darlegungslast`, `quellen-livecheck`, `spezial-bussgeld-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `uwr-einfuehrung-rechtsquellen`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `uwr-altlasten-pruefung-spezial`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `compliance-schulung`, `verfahren-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `esg-greenwashing-klimaklagen-verbandsklage`, `klimaklagen-mehrparteien-konflikt-und-interessen`, `klimaklagen-verbandsklage-umwrg`, `naturschutz-schriftsatz-brief-und-memo-bausteine`, `stoerfall-fristennotiz-und-naechster-schritt`, `tehg-verfahren-umweltrecht`, `verfahren` |
+| 6. Ergebnis, Schreiben und Kommunikation | `csddd-mandantenkommunikation-entscheidungsvorlage`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `lksg-red-team-und-qualitaetskontrolle`, `mandantenkommunikation-redteam-qualitygate-stoerfall`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abfall-anlagen-bimschg`, `abfall-circular-economy`, `anlagen-abschlussprodukt-und-uebergabe`, `boden-csddd-csrd-sonderfall`, `bussgeld-emissionshandel-tehg-uwr`, `csrd-sonderfall-und-edge-case`, `emissionshandel-tehg`, `immissionsschutz-bimschg`, `kommandocenter`, `lieferkettensorgfalt-lksg-red-naturschutz`, `lksg-csddd-lieferkettensorgfalt`, `naturschutz-artenschutz`, `stoerfall-anlagen-transaktionen-dd`, `transaktionen-dd`, `umwelt-umweltrecht-umwrg`, `umweltinformation-uig-ifg`, `umweltrecht-bussgeld-sanktionen`, `umwrg-internationaler-bezug-und-schnittstellen`, ... plus 8 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

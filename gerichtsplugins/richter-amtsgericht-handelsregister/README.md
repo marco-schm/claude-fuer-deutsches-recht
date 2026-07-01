@@ -101,6 +101,20 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 Dual-lizenziert MIT und Apache-2.0.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 4. Gestaltung, Strategie und Verhandlung | `03-gesellschaftsvertrag-pruefen-gmbh` |
+| 5. Verfahren, Behörde und Gericht | `07-zwischenverfuegung-und-beschwerde`, `09-vereins-und-genossenschaftsregister`, `10-entscheidungsvorschlag-register` |
+| 8. Spezialmodule und Schnittstellen | `01-anmeldung-pruefen-zustaendigkeit`, `02-firmenrecht-pruefen`, `04-vertretungsmacht-und-prokura`, `05-kapitalerhoehung-und-kapitalherabsetzung`, `06-umwandlung-eintragen`, `08-loeschung-von-amts-wegen`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

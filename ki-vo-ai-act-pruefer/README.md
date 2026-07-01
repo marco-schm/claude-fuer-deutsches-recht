@@ -173,6 +173,24 @@ Apache-2.0 OR MIT
 
 Autor: Klotzkette
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `einstieg-routing`, `kaltstart-triage`, `mandatsabbruch-empfehlung-komplexe-faelle`, `mechanik-erstpruefung-rollenklaerung-mandatsziel`, `mechanik-erstpruefung-und-mandatsziel`, `risikoklassen-uebersicht-und-triage`, `triage-ki-vendor-due-verbotene-praktiken`, `triage-ki-vo-vorpruefung`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `anwaltliche-ki-nutzung-quellencheck-brao`, `einfuehrer-importer-eu-datenbank-fallfremde`, `eu-datenbank-registrierung-art-49-und-71`, `hochrisiko-datenqualitaet-data-governance-art`, `hochrisiko-technische-dokumentation-art-11-und-anhang-iv`, `hochschule-ki-taeuschung-anscheinsbeweis`, `notariat-cloud-ki-nebenakte-verschwiegenheit`, `output-pruefdokument-ki-vo-mit-warnhinweisen`, `provider-deployer-vertragsmatrix`, `strafverfolgung-beweisbewertung-ki-anhang-iii`, `strafverfolgung-beweisbewertung-territorialer`, `verhaeltnis-zu-anderen-unionsrechtsakten` |
+| 3. Prüfung, Anspruch und Subsumtion | `begrenztes-risiko-art-50-transparenzpflichten`, `betreiber-checkliste-folgenabschaetzung`, `bildung-pruefungsrecht-anhang-iii-monitoring`, `code-of-practice-und-harmonisierte-normen`, `fallfremde-textbausteine-prozessrisiko`, `gerichtliche-ki-assistenz-hochrisiko-justiz`, `gpai-systemisches-risiko-schwelle-10e25-flop`, `gpai-systemisches-risiko-urheberrecht-policy`, `haendler-distributor-harmonisierte-normen`, `harmonisierte-normen-gap-uebergang`, `hochrisiko-art-6-abs-1-sicherheitsbauteil`, `hochrisiko-art-6-abs-2-anhang-iii`, `hochrisiko-art-abs-aufzeichnungspflichten`, `hochrisiko-aufzeichnungspflichten-logging-art`, `hochrisiko-bestaetigt-end-to-end-roadmap`, `hochrisiko-bestaetigt-end-to-roadmap`, `hochrisiko-genauigkeit-konformitaetsbewertung`, `hochrisiko-genauigkeit-robustheit`, ... plus 12 weitere |
+| 5. Verfahren, Behörde und Gericht | `ai-act-owi-verfahren-internal-investigation`, `entscheidungsbaum-gesamt-owi-verfahren`, `gerichtliche-ki-governance-aufsichtsbehoerden`, `governance-aufsichtsbehoerden-art-70`, `marktaufsicht-behoerdenkommunikation`, `marktaufsicht-behoerdenkommunikation-evidence`, `zeitlicher-geltungsbereich-uebergangsfristen` |
+| 6. Ergebnis, Schreiben und Kommunikation | `high-risk-negative-determination-memo`, `output-generative-ki-werkhoehe-rechtekette`, `output-konformitaetserklaerung-eu-anhang-v` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `ki-halluzinationen-red-team` |
+| 8. Spezialmodule und Schnittstellen | `abgrenzung-konventionelle-software-vs-ki`, `abgrenzung-konventionelle-software-vs-ki-system`, `algorithmische-kollusion-und-pricing-ki`, `anbieter-werden-art-25`, `anwaltliche-ki-art-kompetenz-automatisierte`, `art-4-ki-kompetenz-schulungsprogramm`, `automatisierte-entscheidung-dsgvo-art-22`, `automatisierte-entscheidung-dsgvo-art-22-schnittstelle`, `betreiber-deployer-bevollmaechtigter`, `betreiber-deployer-pflichten-art-26`, `bevollmaechtigter-produkthersteller-pflichten`, `biometrie-emotionserkennung-polizei-grenzen`, `einfuehrer-importer-pflichten-art-23`, `entscheidungsbaum-ki-vo-gesamt-workflow`, `falsche-wiese-warnung-ki-vo`, `gpai-code-of-practice-copyright-safety-evidence`, `gpai-code-practice-copyright-safety-evidence`, `gpai-modelle-art-51-bis-55`, ... plus 42 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

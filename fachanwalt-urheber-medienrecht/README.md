@@ -43,6 +43,25 @@ Plugin Fachanwalt für Urheber- und Medienrecht. Orientierung UrhG VGG Verwertun
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-urheber-medienrecht-orientierung`, `mandat-einordnen-bearbeitungsroute`, `mandat-triage-urheber-medienrecht`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `gewerblicher-compliance-dokumentation-und-akte`, `kanzlei-formular-portal-und-einreichung`, `medienstaatsvertrag-quellenkarte`, `medienverfuegung-beweislast-und-darlegungslast`, `quellen-livecheck`, `spezial-medienstaatsvertrag-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `urheber-tatbestand-beweis-und-belege`, `urhg-dokumentenmatrix-und-lueckenliste`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `eigenen-risikoampel-und-gegenargumente`, `filesharing-stoererhaftung`, `link-haftung-paragraf-7-tmg`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung`, `lizenzvertrag-fristennotiz-und-naechster-schritt`, `lizenzvertrag-verhandlung`, `persoenlichkeitsrecht-vergleich-eskalation`, `urhmr-urhebervertrag-bauleiter`, `vergleichsverhandlung-strategie`, `verlagsvertrag-paragraf-31-urhg` |
+| 5. Verfahren, Behörde und Gericht | `bild-behoerden-gericht-und-registerweg`, `medienrecht-fristen-form-und-zustaendigkeit`, `persoenlichkeitsrecht-medienverfuegung-und-abmahnung`, `presserecht-schriftsatz-brief-und-memo-bausteine`, `schriftsatzkern-substantiierung`, `spezial-persoenlichkeitsrecht-medienverfuegung-und-abmahnung` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `presse-mandantenkommunikation-entscheidungsvorlage`, `urhmr-presserechtsbrief-leitfaden`, `verlagsredaktion-international-schnittstellen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `fachanwalt-urheber-medienrecht-gegendarstellung-presse`, `fachanwalt-urheber-medienrecht-presse-gegendarstellung`, `gegendarstellung-fehlerkatalog`, `gegendarstellung-presse`, `presse-gegendarstellung`, `spezial-gegendarstellung-red-team-und-qualitaetskontrolle`, `urhmr-presserecht-gegendarstellung-spezial`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-pruefen`, `abmahnung-sonderfall-edge-case`, `fachanwalt-urheber-medienrecht-abmahnung-pruefen`, `fachanwalt-urheber-medienrecht-filesharing-verteidigung`, `fachanwalt-urheber-medienrecht-mod-erklaerung`, `fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg`, `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out`, `filesharing-verteidigung`, `filmrecht-paragraf-89-urhg`, `mod-erklaerung`, `oeffentliche-wiedergabe-paragraf-15-urhg`, `presse-aeusserung-paragraf-823-bgb`, `recht-am-eigenen-bild-paragraf-22-kunsturhg`, `rechtsschutz-mehrparteien-konflikt-und-interessen`, `schiedsstelle-dpma-vgg`, `schnittstellen-zahlen-schwellen-und-berechnung`, `schutzdauer-paragraf-64-urhg`, `tdm-44b-urhg-ki-training-opt-out`, ... plus 8 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

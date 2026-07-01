@@ -131,6 +131,25 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 - Public M&A, MAR, WpÜG, Kartellrecht, Investitionskontrolle, Sanktionen, StaRUG, Zahlungsunfähigkeit und Überschuldung sind rote Schwellen.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `beirat-kaltstart-und-zielbild`, `beirat-startup-investor-director`, `deal-intake`, `kaltstart`, `kaltstart-triage`, `ki-einsatz-bei-gutachten-mandatsseite` |
+| 2. Unterlagen, Sachverhalt und Quellen | `authority-matrix`, `authority-matrix-approvals`, `beirat-datenschutz-und-ki`, `beirat-gmbh-zustimmungskatalog-und-konfliktmatrix`, `corporate-rechtsprechungsrecherche`, `datenqualitaet-xai`, `datenqualitaet-xai-qualitaetskontrolle`, `datenraum-aufbau`, `datenraum-gap-clean`, `datenraum-gap-clean-room`, `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`, `grosskanzlei-ma-aktenanlage`, `rechtsprechungsrecherche`, `tabellen-matrix`, `tabellen-und-matrix-factory`, `tabellenreview-3d-datenraum` |
+| 3. Prüfung, Anspruch und Subsumtion | `beirat-haftung` |
+| 4. Gestaltung, Strategie und Verhandlung | `beirat-bank-und-sanierung`, `beirat-budget-und-businessplan`, `beirat-compliance-und-internal-investigation`, `beirat-musterklauseln`, `environmental-esg-compliance-dd`, `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`, `gk-sanierungsgewinn-bmf-ankoppelung-und-strategie`, `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`, `gk-sanierungsgewinn-eu-beihilfe-und-altmark`, `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`, `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`, `gk-sanierungsgewinn-im-asset-deal-vs-share-deal`, `gk-sanierungsgewinn-im-bond-restructuring-finanzgesellschaften`, `gk-sanierungsgewinn-konzern-und-cross-border`, `gk-sanierungsgewinn-private-equity-und-managementbeteiligung`, `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`, `gk-sanierungsgewinn-tax-due-diligence-im-distressed-mna`, `gk-sanierungsgewinn-tax-step-plan-restrukturierung`, ... plus 25 weitere |
+| 5. Verfahren, Behörde und Gericht | `beirat-beschlussfassung`, `beirat-beschlussmaengel`, `beirat-register-und-notar`, `gesellschaftsrecht-register`, `grosskanzlei-ma-fristen-cp-kalender`, `handelsregisterabruf`, `register-filings`, `register-filings-implementation`, `transparenzregister`, `transparenzregister-ubo-chain`, `umwandlungssteuerrecht-buchwertantrag` |
+| 6. Ergebnis, Schreiben und Kommunikation | `spa-apa-entwurf` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `beirat-red-team-satzung`, `grosskanzlei-ma-tabellenreview`, `rechtsabteilung-fusionskontrolle-als-closing-condition`, `rechtsabteilung-fusionskontrolle-closing`, `tabellenreview-3d` |
+| 8. Spezialmodule und Schnittstellen | `ai-vdr-classifier`, `ancillary-documents`, `ancillary-documents-tsa-sla`, `anfaenger-modus`, `antitrust-gun`, `antitrust-gun-jumping-clean-team`, `auction-bid-grid-issues-list`, `auction-process`, `auction-process-letter`, `automation`, `automation-monitoring`, `bank-consents`, `bank-consents-change-control`, `beirat-abgrenzung-aufsichtsrat`, `beirat-amtszeit-und-rotation`, `beirat-beratungsfunktion`, `beirat-bestellung-und-abberufung`, `beirat-deadlock-mechanik`, ... plus 180 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

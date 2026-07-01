@@ -49,6 +49,25 @@ ZIP aus dem aktuellen Release laden und in Plugin-Umgebung oder Cowork über Cus
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `berufsgericht-freie-berufe-kaltstart-routing`, `mandatskuendigung-zur-unzeit-praevention`, `mandatskuendigung-zur-unzeit-verteidigung`, `sanktionen-mandatsannahme`, `sanktionen-mandatsannahme-verteidigung` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenherausgabe-zurueckbehaltungsrecht-praevention`, `aktenherausgabe-zurueckbehaltungsrecht-verteidigung`, `berufsgericht-beweisaufnahme`, `berufsgericht-beweisaufnahme-verteidigung`, `berufsgericht-freie-berufe-dokumente-aktenlog`, `berufsgericht-freie-berufe-quellen-rspr-fristen`, `datenpanne-berufstraeger-praevention`, `datenpanne-berufstraeger-verteidigung`, `fremdgeld-anderkonto-pflicht-praevention`, `fremdgeld-anderkonto-pflicht-verteidigung`, `notar-anderkonto-auszahlungsreife`, `notar-anderkonto-auszahlungsreife-verteidigung`, `steuerberater-unterlagenherausgabe-praevention`, `steuerberater-unterlagenherausgabe-verteidigung` |
+| 3. Prüfung, Anspruch und Subsumtion | `werbung-robe-wirtschaftspruefer`, `wirtschaftspruefer-berufsaufsicht-wpo`, `wirtschaftspruefer-qualitaetskontrolle-praevention`, `wirtschaftspruefer-qualitaetskontrolle-verteidigung`, `wirtschaftspruefer-testat-widerruf`, `wirtschaftspruefer-testat-widerruf-praevention`, `wirtschaftspruefer-unabhaengigkeit-praevention`, `wirtschaftspruefer-unabhaengigkeit-verteidigung` |
+| 4. Gestaltung, Strategie und Verhandlung | `berufsgesellschaft-compliance-praevention`, `berufsgesellschaft-compliance-verteidigung`, `vergleich-mit-kammer-praevention`, `vergleich-mit-kammer-verteidigung` |
+| 5. Verfahren, Behörde und Gericht | `anwaltsgericht-brao-ueberblick`, `bea-nicht-berufsgericht`, `berufsgericht-anschuldigungsschrift-praevention`, `berufsgericht-anschuldigungsschrift-verteidigung`, `frist-und-zustaendigkeit-cockpit`, `haftpflichtdeckung-berufsverfahren-praevention`, `haftpflichtdeckung-berufsverfahren-verteidigung`, `kammeranhoerung-fristverlaengerung`, `kammeranhoerung-fristverlaengerung-verteidigung`, `patentanwalt-berufsgericht-pao`, `patentanwalt-fristenversaeumnis-epo-dpma-praevention`, `patentanwalt-fristenversaeumnis-epo-dpma-verteidigung`, `rechtsmittel-berufsgericht-praevention`, `rechtsmittel-berufsgericht-verteidigung`, `schriftsatz-vermerk-und-mustertext`, `steuerberater-berufsgericht-stberg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandanten-beteiligtenkommunikation-notar`, `robe-werbung-vermerk-mustertext-sitzungs`, `steuerberater-153-ao-berichtigung-praevention`, `steuerberater-153-ao-berichtigung-verteidigung` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `notar-gesellschafterliste-fehler-praevention`, `notar-gesellschafterliste-fehler-verteidigung`, `red-team-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `bea-nicht-in-betrieb-verteidigung`, `bea-nutzungspflichten-kanzleisitz`, `berufspflicht-und-verhaeltnismaessigkeit-verteidigung`, `berufspflicht-verhaeltnismaessigkeit`, `berufsrecht-ki-nutzung-praevention`, `berufsrecht-ki-nutzung-verteidigung`, `berufsverbot-sofortvollzug-verteidigung`, `berufsverbot-und-sofortvollzug-verteidigung`, `dienstaufsicht-notar-beschwerde-praevention`, `dienstaufsicht-notar-beschwerde-verteidigung`, `entscheidungsvorlage`, `geldwaeschepflicht-kanzlei`, `geldwaeschepflicht-kanzlei-verteidigung`, `honorarvereinbarung-erfolgshonorar-praevention`, `honorarvereinbarung-erfolgshonorar-verteidigung`, `interessenkollision-mehrfachvertretung`, `interessenkollision-mehrfachvertretung-verteidigung`, `kanzleisitz-und-erreichbarkeit-praevention`, ... plus 27 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -75,6 +75,25 @@ Die Beispielakte enthält den Fall der Zeugin Sophia Berger vor dem Landgericht 
 
 Die Beispielakte bildet einen realistisch aussehenden Vorschussstreit ab: Barcelona nach Tübingen, 2.500 km Hin- und Rückfahrt, zwei Übernachtungen, geltend gemachter Verdienstausfall und gerichtliche Ablehnung des Vorschusses wegen angeblich fehlender Bedürftigkeit. Das Plugin markiert insbesondere, dass § 3 JVEG bei erheblichen Fahrtkosten und sonstigen Aufwendungen ansetzt und die Kostenpositionen getrennt nach Erstattungsfähigkeit, Vorschussfähigkeit und Belegstatus geprüft werden müssen.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `freistehender-erstpruefung-und-mandatsziel`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenstripper`, `belegfeste-formular-portal-und-einreichung`, `gate-beweislast-jveg-quality`, `jveg-tatbestand-beweis-und-belege`, `kostenfestsetzung-belege-und-fristen`, `pruefung-sachverstaendigengutachten-ki-deklaration`, `quellen-livecheck`, `sachverstaendigen-quellenkarte`, `spezial-sachverstaendigen-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste`, `zeugenentschaedigung-dokumentenmatrix-und-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `anspruchsberechtigung-antragsgenerator`, `kostenfestsetzung-kostenpruefer`, `kostenpruefer-fristen-form-und-zustaendigkeit`, `vorschuss-kostenrisiko`, `vorschuss-kostenrisiko-spezial`, `vorschuss-risikoampel-und-gegenargumente`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `verdienstausfall-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `antragsgenerator`, `fristen-erloeschen`, `gerichtsschreiben-kuerzung-wegfall`, `spezial-uebersetzer-fristennotiz-und-naechster-schritt`, `uebersetzer-fristennotiz-jveg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `quality-mandantenkommunikation-entscheidungsvorlage` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `mandantenkommunikation-redteam-qualitygate`, `rechenprotokolle-fehlerkatalog`, `spezial-rechenprotokolle-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `beschwerde-dolmetscher-sonderfall`, `dolmetscher-sonderfall-und-edge-case`, `dolmetscher-uebersetzer`, `dolmetscher-uebersetzer-fahrtkosten`, `dolmetscherkosten-zahlen-schwellen-und-berechnung`, `fahrtkosten`, `fahrtkosten-festsetzung-interessen`, `festsetzung-beschwerde`, `festsetzung-mehrparteien-konflikt-und-interessen`, `gate-rechenblatt`, `jveg-dolmetscher-uebersetzer-spezial`, `jveg-zeugenentschaedigung`, `kommandocenter`, `kuerzung-wegfall-8a`, `rechenblatt`, `sachverstaendigenrechnung`, `sachverstaendigenrechnung-bauleiter`, `sonstige-aufwendungen-uebernachtung`, ... plus 4 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -129,6 +129,24 @@ Erste Antwort knapp. Maximal eine gezielte Rueckfrage zur Mandatsaufnahme. Sofor
 - [`buerokratieversteher-entbuerokratisierer/`](../buerokratieversteher-entbuerokratisierer/) — operative Entbuerokratisierung in einzelnen Verfahren.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `orientierung-mandatsaufnahme-praktikabilitaet`, `orientierung-und-mandatsaufnahme` |
+| 2. Unterlagen, Sachverhalt und Quellen | `stellungnahme-mahnender-charakter-grenzen` |
+| 3. Prüfung, Anspruch und Subsumtion | `digital-anschlussfaehigkeit-digitalcheck`, `digitalcheck-und-onlinezugangsgesetz-ozg`, `einmalig-vs-erforderlichkeitspruefung-warum`, `erforderlichkeitspruefung-warum`, `erforderlichkeitspruefung-warum-ueberhaupt-regeln`, `gleichstellungs-gendercheck-handelsregister`, `gleichstellungs-und-gendercheck`, `nachhaltigkeit-klimacheck-one`, `nachhaltigkeit-klimacheck-vereinbarkeit`, `nkr-alternativen-pruefung-keine-regelung-soft-law` |
+| 4. Gestaltung, Strategie und Verhandlung | `evaluierung-befristung-sunset-klausel`, `stellungnahme-evaluationsklausel` |
+| 5. Verfahren, Behörde und Gericht | `evaluierung-befristung-verfahrensgang`, `handelsregister-elektronische-zustellung`, `handelsregister-und-elektronische-zustellung`, `verfahrensgang-referentenentwurf`, `verfahrensgang-referentenentwurf-bis-bundestag` |
+| 6. Ergebnis, Schreiben und Kommunikation | `evaluation-jahresbericht-fallzahlen`, `evaluation-und-jahresbericht`, `nkr-stellungnahme-zum-bundestag-anhoerung`, `stellungnahme-aufbau-ergebnis`, `stellungnahme-aufbau-und-format`, `stellungnahme-ergebnis-und-empfehlung`, `stellungnahme-formulierungshilfe-vs-referentenentwurf`, `stellungnahme-grundsatzfeststellung`, `stellungnahme-pressepolitik-bundestag`, `stellungnahme-pressepolitik-jahresbericht`, `stellungnahme-zum-bundestag-anhoerung` |
+| 8. Spezialmodule und Schnittstellen | `allgemein`, `alternativen-keine-aufgabe-kompetenz`, `alternativen-keine-regelung-soft-law`, `aufgabe-und-kompetenz-nkrg`, `buerokratieabbau-katalog-konkrete`, `buerokratiekosten-vs-erfuellungsaufwand`, `digital-anschlussfaehigkeit-tauglich`, `einmalig-vs-jaehrlich-laufend`, `erfuellungsaufwand-buerger-grundbegriff`, `erfuellungsaufwand-buerger-wirtschaft`, `erfuellungsaufwand-grundbegriff`, `eu-ebene-eu-richtlinien`, `eu-ebene-und-better-regulation`, `eu-richtlinien-umsetzung-und-goldplating`, `fallzahlen-schaetzung-bandbreiten`, `leitfaden-ermittlung`, `leitfaden-ermittlung-und-darstellung`, `mittelstandsfreundlichkeit-kmu-test`, ... plus 14 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

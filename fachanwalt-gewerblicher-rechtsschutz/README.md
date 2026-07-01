@@ -48,6 +48,25 @@ Folgt `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH-Pinpoint mit Rn., Hier
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-gewerblicher-rechtsschutz-orientierung`, `mandat-einordnen-bearbeitungsroute`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `abmahnung-formular-portal-und-einreichung`, `fao-dokumentenmatrix-und-lueckenliste`, `gewerblichen-tatbestand-beweis-und-belege`, `ki-trainingsdaten-und-urheberrecht-spezial`, `markenanmeldung-compliance-dokumentation-und-akte`, `quellen-livecheck`, `spezial-abmahnung-formular-portal-und-einreichung`, `spezial-fao-dokumentenmatrix-und-lueckenliste`, `spezial-gewerblichen-tatbestand-beweis-und-belege`, `spezial-markenanmeldung-compliance-dokumentation-und-akte`, `spezial-urhg-livequellen-und-rechtsprechungscheck`, `spezial-verfuegung-beweislast-und-darlegungslast`, `unterlagen-luecken`, `urhg-quellenkarte`, `verfuegung-beweislast-und-darlegungslast`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel`, `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zus`, `markeng-risikoampel-und-gegenargumente`, `spezial-markeng-risikoampel-und-gegenargumente`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `abmahnung-vergleich-wipo`, `fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo`, `gebrmg-verhandlung-vergleich-und-eskalation`, `spezial-gebrmg-verhandlung-vergleich-und-eskalation`, `vergleich-statt-streit-strategie`, `vergleichsverhandlung-strategie` |
+| 5. Verfahren, Behörde und Gericht | `designg-behoerden-gericht-und-registerweg`, `fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch`, `fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage`, `fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung`, `faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unt`, `faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-or`, `faevvollzug-neu-004-vollstreckung-unterlassungsverfuegung`, `faevvollzug-neu-006-abschlussschreiben-kosten-und-frist`, `faevvollzug-neu-007-grenzueberschreitende-ip-eilverfuegung`, `lizenzanaloger-fristennotiz-und-naechster-schritt`, `marken-widerspruch`, `markenrecht-loeschungsantrag-paragraf-49-markeng-bgh-i-zb-91-21`, `patent-nichtigkeitsklage`, `patg-schriftsatz-brief-und-memo-bausteine`, `rechtsschutz-fristen-form-und-zustaendigkeit`, `schriftsatzkern-substantiierung`, `spezial-designg-behoerden-gericht-und-registerweg`, `spezial-lizenzanaloger-fristennotiz-und-naechster-schritt`, ... plus 5 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `einstweilige-mandantenkommunikation-entscheidungsvorlage`, `output-waehlen`, `spezial-einstweilige-mandantenkommunikation-entscheidungsvorlage`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `designverletzung-fehlerkatalog`, `faevvollzug-neu-008-qualitaetsgate-vor-vollziehung`, `spezial-designverletzung-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-uwg`, `bezuege-zahlen-schwellen-und-berechnung`, `designeintragung-neuheit-paragraf-3-designg-eugh`, `designrecht-praxis-grundlagen`, `designschutz-eu-gemeinschaftsgeschmacksmuster-eugh-c-419-13`, `designverletzung`, `domainrecht-loeschung-bgh-i-zr-138-19`, `dpma-mehrparteien-konflikt-und-interessen`, `eu-warenmarke-loeschung-eugh-c-541-18`, `euipo-internationaler-bezug-und-schnittstellen`, `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg`, `fachanwalt-gewerblicher-rechtsschutz-designverletzung`, `fachanwalt-gewerblicher-rechtsschutz-markenanmeldung`, `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg`, `fachanwalt-gewrechts-ki-vo-50-genai`, `faevvollzug-neu-002-parteibetrieb-gv-unterlassungstiteln`, `faevvollzug-neu-003-bea-elektronisch-rechtsverkehr-ev-zustellung`, `faevvollzug-neu-003-bea-und-elektronischer-rechtsverkehr-bei-ev`, ... plus 21 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

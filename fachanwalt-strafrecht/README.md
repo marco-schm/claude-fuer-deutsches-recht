@@ -69,6 +69,25 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-strafrecht-orientierung`, `fachanwalt-strafrecht-wahlverteidiger-mandat`, `mandat-triage-strafrecht`, `orientierung-fristen-form-und-zustaendigkeit`, `orientierung-mandat-fachanwaltschaft`, `wahlverteidiger-mandat`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `adhaesion-formular-portal-und-einreichung`, `aktenaufbereiter-beweislast-und-darlegungslast`, `akteneinsicht-beantragen`, `akteneinsicht-strafrecht-auswerten`, `fa-strafrecht-quellen-frist-next`, `hauptverhandlung-quellenkarte`, `nebenklage-compliance-dokumentation-und-akte`, `quellen-livecheck`, `spezial-hauptverhandlung-livequellen-und-rechtsprechungscheck`, `stpo-dokumentenmatrix-und-lueckenliste`, `strafprozess-akteneinsicht-nachlieferungen-und-sonderbaende`, `strafprozess-aktenlog-fristen-und-wiedervorlagen`, `strafprozess-antragslog-beweisantraege-und-widerspruch`, `strafr-dysfunk-beweisantrag-fundament`, `strafr-dysfunk-beweisantragsstrategie`, `strafrecht-spezial-188-stgb-social-media-beweise`, `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen`, `strafrecht-tatbestand-beweis-und-belege`, ... plus 3 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `fachanwalt-strafrecht-untersuchungshaft-haftpruefung`, `livecheck-abschlussprodukt-und-uebergabe`, `stgb-risikoampel-und-gegenargumente`, `strafr-haftpruefung-haftbeschwerde-workflow`, `strafr-revision-pruefung-spezial`, `strafrecht-spezial-aussagepsy-mimik-emotionsbewertung`, `strafrecht-spezial-aussagepsychologie-konstanzanalyse`, `strafrecht-spezial-betrug-263-stgb-grundtatbestand`, `strafrecht-spezial-btmg-29-grundtatbestand`, `strafrecht-spezial-untreue-266-stgb-grundtatbestand`, `strafrecht-spezial-untreue-mosaiksteine-treubruchstatbestand`, `untersuchungshaft-haftpruefung`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `ermittlungsverfahren-vergleich-eskalation`, `hauptverhandlung-vorbereiten`, `strafprozess-hv-tagesmappe-und-sitzungsplan`, `strafprozess-verhandlungslog-sta-gericht-nebenklage`, `strafr-dysfunk-mandant-strategie-schuetzen`, `vergleichsverhandlung-strategie` |
+| 5. Verfahren, Behörde und Gericht | `adhaesionsverfahren`, `anklage-reaktion`, `fachanwalt-strafrecht-adhaesionsverfahren`, `fachanwalt-strafrecht-anklage-reaktion`, `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft`, `fachanwalt-strafrecht-nebenklage-opfervertretung`, `insolvenzantrag-staatsanwaltschaft`, `nebenklage-opfervertretung`, `nebenstrafrecht-behoerden-gericht-und-registerweg`, `schriftsatzkern-substantiierung`, `strafprozess-abschluss-urteil-bewaehrung-vollstreckung`, `strafprozess-ermittlungsverfahren-sofortmassnahmen`, `strafprozess-rechtsmittel-und-notfristencockpit`, `strafr-dysfunk-antrag-wiederholen-ohne-missbrauch`, `strafr-dysfunk-befangenheitsantrag-zielgenau`, `strafr-dysfunk-ki-schriftsatz-falle-vermeiden`, `strafrecht-spezial-188-stgb-anklage-und-strafbefehl`, `strafrecht-spezial-btmg-strafverfahren-praxis`, ... plus 3 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `ergaenzt-mandantenkommunikation-entscheidungsvorlage`, `output-waehlen`, `strafprozess-mandantenkommunikation-und-instruktionen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `insolvenzantrag-red-team-und-qualitaetskontrolle`, `strafr-dysfunk-hinweis-auf-heilbaren-fehler`, `strafrecht-spezial-aussagepsy-vernehmungsfehler-falschgestand`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `chatcontrol-csam-anwaltsgeheimnis-53-stpo`, `einlassung-vorbereiten`, `fachanwalt-strafrecht-chatcontrol-csam-anwaltsgeheimnis-53-stpo`, `fachanwalt-strafrecht-einlassung-vorbereiten`, `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`, `fachanwalt-strafrecht-zeugenbeistand`, `freiheitsstrafe-paragraf-57-stgb`, `kanzlei-sonderfall-edge-case`, `notwehr-paragraf-32-stgb`, `opfervertretung-mehrparteien-konflikt-und-interessen`, `plaedoyer-vorbereitung-strafverteidigung`, `rauschgift-paragraf-29-btmg`, `revision-zahlen-schwellen-und-berechnung`, `revisionsbegruendung-paragraf-344-stpo`, `strafprozess-biometrischer-internetabgleich-98d-stpo-e`, `strafprozess-cockpit-taegliche-kanzleifuehrung`, `strafprozess-haft-und-besuchsmanagement`, `strafprozess-pflichtverteidigung-beiordnung-und-wechsel`, ... plus 140 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

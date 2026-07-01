@@ -47,6 +47,25 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `gleicht-erstpruefung-rollenklaerung-mandatsziel`, `gleicht-erstpruefung-und-mandatsziel`, `kaltstart-triage`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aenderungsmodus-compliance-dokumentation`, `aenderungsmodus-compliance-dokumentation-und-akte`, `ampelmatrix-internationaler-bezug-schnittstellen`, `ampelmatrix-internationaler-bezug-und-schnittstellen`, `ausgabe-changes-docx-beweislast`, `chirurgisch-quellenkarte`, `chronologie-und-belegmatrix`, `docx-beweislast-darlegungslast`, `docx-beweislast-und-darlegungslast`, `entwurf-tatbestand-beweis-und-belege`, `entwurf-tatbestandsmerkmale-beweisfragen-beleglage`, `gegen-dokumentenmatrix-und-lueckenliste`, `gelb-formular-portal-einreichungslogik`, `gelb-formular-portal-und-einreichung`, `m-a-aenderungsmodus-ampelmatrix`, `nda-mit-kartellsensitiven-daten`, `nda-mit-personenbezogenen-daten`, `nda-vergleichsmatrix-leitfaden`, ... plus 6 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `eigenen-risikoampel-gegenargumente`, `eigenen-risikoampel-und-gegenargumente`, `fristen-und-risikoampel`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `haltelinien-verhandlung-vergleich-eskalation`, `nda-definitionsklausel-abgleichen`, `nda-grundstruktur-pruefen`, `nda-standardklauseln-bauleiter`, `nda-typen-vergleich`, `nda-vertragsstrafe-pruefen`, `r-d-nda-grundstruktur-international`, `standardklauseln-bauleiter-nda-vertragsstrafe` |
+| 5. Verfahren, Behörde und Gericht | `gegenseite-fristen-form-zustaendigkeit-rechtsweg`, `gegenseite-tracked-fristennotiz-nda`, `nda-anwendbares-recht-gerichtsstand`, `setzt-schriftsatz-brief-memo-bausteine`, `setzt-schriftsatz-brief-und-memo-bausteine`, `standard-behoerden-gericht-und-registerweg`, `tracked-fristennotiz-naechster-schritt`, `tracked-fristennotiz-und-naechster-schritt` |
+| 6. Ergebnis, Schreiben und Kommunikation | `ausgabe-mandantenkommunikation-entscheidungsvorlage`, `mandantenkommunikation`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `gegen-gelb-gleicht`, `gruen-fehlerkatalog`, `mandantenkommunikation-redteam-qualitygate`, `redteam-qualitygate`, `spezial-gruen-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `arbeitnehmer-kuendigung`, `changes-abschlussprodukt-uebergabe`, `changes-abschlussprodukt-und-uebergabe`, `durch-interessen`, `durch-interessen-echten-sonderfall-eigenen`, `echten-sonderfall-edge-case`, `echten-sonderfall-und-edge-case`, `geschaeftsgeheimnis-geschgehg`, `haltelinien-setzt-standard`, `it-saas-laufzeit-survival-m-a`, `mitarbeiter-need-non-solicit-permitted`, `nda-abgleich`, `nda-bei-arbeitnehmer-kuendigung`, `nda-bei-bewerbungen-pitches`, `nda-bei-r-d-kooperation`, `nda-international-arbitration-spezial`, `nda-it-saas-vendor`, `nda-laufzeit-und-survival`, ... plus 12 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

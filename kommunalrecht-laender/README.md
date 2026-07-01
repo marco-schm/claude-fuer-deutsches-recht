@@ -52,6 +52,22 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt kei
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `gemeinderat-landesrecht-routen`, `kaltstart-kommunalrechtsfall`, `kaltstart-triage`, `kommunalabgabe-landesrecht-routen`, `kommunalrecht-baden-wuerttemberg-route`, `kommunalrecht-bayern-berlin-routen`, `kommunalrecht-berlin-routen`, `kommunalrecht-brandenburg-routen`, `kommunalrecht-bremen-routen`, `kommunalrecht-hamburg-routen`, `kommunalrecht-hessen-routen`, `kommunalrecht-niedersachsen-routen`, `kommunalrecht-rheinland-pfalz-routen`, `kommunalrecht-saarland-routen`, `kommunalrecht-sachsen-routen`, `kommunalrecht-schleswig-holstein-route`, `kommunalrecht-thueringen-routen`, `kreistag-landesrecht-routen`, ... plus 4 weitere |
+| 4. Gestaltung, Strategie und Verhandlung | `ausschuss-beteiligung-planen`, `buergermeister-beteiligung-planen`, `gemeinderat-beteiligung-planen`, `kita-satzung-beteiligung-planen`, `kommunalabgabe-beteiligung-planen`, `kommunalaufsicht-beteiligung-planen`, `kommunaler-finanzausgleich-interkommunale`, `kreistag-beteiligung-planen`, `landrat-beteiligung-planen`, `ortschaftsrat-beteiligung-planen`, `schultraeger-beteiligung-planen`, `stadtrat-beteiligung-planen`, `strassenreinigung-beteiligung-planen` |
+| 5. Verfahren, Behörde und Gericht | `ausschuss-beschluss-bauen`, `ausschuss-eilantrag-vorbereiten`, `ausschuss-landesrecht-beschluss-bauen`, `beschluss-und-befangenheit`, `buergermeister-beschluss-bauen`, `buergermeister-eilantrag-vorbereiten`, `buergermeister-landesrecht-beschluss`, `einwohnerantrag-petition-haushalt`, `feuerwehr-beschluss-bauen`, `feuerwehr-landesrecht-beschluss`, `gemeinderat-beschluss-bauen`, `gemeinderat-eilantrag-vorbereiten`, `kita-satzung-beschluss-bauen`, `kita-satzung-beschluss-bauen-redlinen`, `kita-satzung-eilantrag-vorbereiten`, `kommunalabgabe-beschluss-bauen`, `kommunalabgabe-eilantrag-vorbereiten`, `kommunalaufsicht-beschluss-bauen`, ... plus 15 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `kreistag-aufsichtsbeschwerde-schreiben`, `landrat-aufsichtsbeschwerde-schreiben`, `stadtrat-aufsichtsbeschwerde-schreiben` |
+| 8. Spezialmodule und Schnittstellen | `ausschuss-aufsichtsbeschwerde-schreibe`, `ausschuss-dashboard-bauen`, `ausschuss-finanzierung-dashboard-bauen`, `ausschuss-gebuehr-kalkulieren`, `ausschuss-satzung-redlinen`, `ausschuss-zustaendigkeit-ortschaftsrat`, `benutzungsordnung`, `buergerbegehren-und-buergerentscheid`, `buergermeister-aufsichtsbeschwerde-sch`, `buergermeister-dashboard-bauen`, `buergermeister-finanzierung-dashboard`, `buergermeister-gebuehr-kalkulieren`, `buergermeister-satzung-redlinen`, `buergermeister-zustaendigkeit-pruefen`, `eilrechtsschutz-kommunalstreit`, `feuerwehr-zustaendigkeit-pruefen`, `gemeinde-stadt-ratssitzung`, `gemeinderat-aufsichtsbeschwerde-schrei`, ... plus 87 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

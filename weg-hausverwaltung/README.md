@@ -88,6 +88,24 @@ Das Plugin arbeitet paralegal-praktisch: Es erstellt keine "Rechtsberatung aus d
 
 Das Plugin ersetzt keine anwaltliche Beratung, keine WEG-Spezialkanzlei, keine Steuerberatung und keine technische Bauleitung. Es hilft, die Verwaltung so zu dokumentieren, dass Anwälte, Beiräte, Verwalter und Eigentümer sauber weiterarbeiten können.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `dokumente-intake`, `einstieg-routing`, `kaltstart-triage`, `mandat-belege-fristen`, `mandat-objekt-triage`, `marketing-akquise-neue-weg-mandate`, `operatives-erstpruefung-und-mandatsziel`, `weg-operatives-erstpruefung-rollenklaerung-mandatsziel`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `bauliche-formular-portal-und-einreichung`, `beschluesse-dokumentenmatrix-und-lueckenliste`, `chronologie-und-belegmatrix`, `datenschutz-betroffenenrechte-auskunft`, `datenschutz-betroffenenrechte-auskunft-loeschung-weg`, `datenschutz-datenpanne-meldung-72h`, `datenschutz-dokumentenfreigabe`, `datenschutz-vvt-tom-avv-hausverwaltung`, `grossakte-konfliktlandkarte`, `jahresabrechnung-quellenkarte`, `quellen-livecheck`, `rechtsstand-mai-2026-faktenbank`, `sonderumlage-compliance-dokumentation-und-akte`, `spezial-beschluesse-dokumentenmatrix-und-lueckenliste`, `spezial-jahresabrechnung-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `weg-bauliche-formular-portal-einreichungslogik`, `weg-beschluesse-dokumentenmatrix-lueckenliste-nachforderung`, ... plus 4 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `beschlussanfechtung-risiko`, `eigentuemerversammlung-risikoampel-und-gegenargumente`, `fristen-und-risikoampel`, `marketing-website-impressum-tmg-bewertungen`, `marketing-website-impressum-tmg-und-bewertungen`, `wegh-verwalterhaftung-spezial` |
+| 4. Gestaltung, Strategie und Verhandlung | `abrechnung-ist-plan-mieterschnittstelle`, `weg-wirtschaftsplan-hausgeld`, `wegh-wirtschaftsplan-jahresabrechnung`, `wegh-wirtschaftsplan-jahresabrechnung-leitfaden`, `wirtschaftsplan-jahresabrechnung-28-weg`, `wirtschaftsplan-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `beschlusssammlung-protokoll`, `beschlusssammlung-schriftsatz-brief-und-memo-bausteine`, `beschlussvorlagen-erstellen`, `einladung-tagesordnung-fristen`, `eskalation-anwalt-amtsgericht`, `hausverwaltungs-fristen-form-und-zustaendigkeit`, `protokoll-behoerden-gericht-und-registerweg`, `top-generator-emotion-zu-beschluss`, `weg-beschlusssammlung-formfehler`, `weg-eigentuemerversammlung-einladung-beschluss`, `weg-protokoll-behoerden-gerichts-registerweg`, `wegh-bauliche-veraenderung-beschluss-spezial` |
+| 6. Ergebnis, Schreiben und Kommunikation | `eigentuemerkommunikation-beschwerde`, `marketing-newsletter-eigentuemerkommunikation`, `output-waehlen` |
+| 8. Spezialmodule und Schnittstellen | `bad-umbau-bodengleiche-dusche-sondereigentum`, `bad-umbau-bodengleiche-dusche-sondereigentum-gemeinschaft`, `barrierefreie-einladung-protokoll-versammlung`, `bauliche-veraenderung-aufzug-treppenlift-20`, `bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg`, `bauliche-veraenderungen-20-weg`, `bautraegeralteanlage-abnahme-maengel-gdwe`, `beirat-controlling-verwalter`, `betriebskosten-interessen`, `betriebskosten-mehrparteien-konflikt-und-interessen`, `betriebskosten-nebenkostenabrechnung`, `bfsg-hausverwalter-website-portal-2025`, `digitale-versammlung-screenreader-untertitel`, `e-mobilitaet-steckersolar-kellerstrom`, `eigentuemerversammlung-vorbereiten`, `erhaltung-modernisierung-baumaengel`, `gewerbe-restaurant-geruch-laerm-hof`, `handwerker-beauftragung-vergabe`, ... plus 17 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

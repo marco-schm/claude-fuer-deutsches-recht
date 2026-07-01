@@ -52,6 +52,22 @@ Der Einstieg ist bewusst niedrigschwellig: Uploads, Bilder, Verträge oder bloß
 - `patentrecht` und `gebrauchsmusterrecht` für technische Schutzrechte.
 - `produktrecht`, `ecommerce-recht` und `datenschutzrecht` für Produkt-, Shop- und Datenfragen.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-interview`, `kaltstart-triage` |
+| 3. Prüfung, Anspruch und Subsumtion | `litigation-eilverfahren-produkthaftung`, `produkthaftung-defective-garment` |
+| 4. Gestaltung, Strategie und Verhandlung | `mandantenmemo-strategie-manufacturing` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `qualitygate-fashion-law` |
+| 8. Spezialmodule und Schnittstellen | `brand-enforcement-markenportfolio`, `brand-und-markenportfolio`, `confidentiality-design-counterfeit`, `counterfeit-investigation`, `crm-loyalty-designrecht-muster`, `designrecht-und-muster`, `e-commerce-employment-creatives`, `employment-creatives-fashion`, `espr-digitaler-week-event`, `fashion-week-event`, `forced-labour-foto-video`, `foto-video-campaign-rights`, `franchise-shop-green-claims`, `freelancer-designer-zoll-tarif`, `green-claims-nachhaltigkeit`, `handelsvertreter-showroom-influencer-social`, `influencer-social-media-kampagne`, `insolvenz-retail-international-expansion`, ... plus 26 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

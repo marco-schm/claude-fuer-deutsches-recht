@@ -69,6 +69,25 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `mandat-triage-mietrecht`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `ausschliesslich-dokumentenmatrix-und-lueckenliste`, `betriebskostenabrechnung-belege-und-formelpruefer`, `bundesland-datenerhebung-grossstadt`, `datenerhebung-zahlen-schwellen-und-berechnung`, `klageentwurf-beweislast-und-darlegungslast`, `mieterhoehungs-compliance-dokumentation-und-akte`, `mietspiegel-quellen`, `mr-einfuehrung-klageentwurf-beweislast`, `nebenkostenabrechnung-erstellen-faktenbank`, `quellen-livecheck`, `quellen-schriftsatz-brief-und-memo-bausteine`, `rechtsstand-mai-2026-faktenbank`, `spezial-ausschliesslich-dokumentenmatrix-und-lueckenliste`, `spezial-nebenkostenpruefung-formular-portal-und-einreichung`, `spezial-quellen-schriftsatz-brief-und-memo-bausteine`, `spezial-universitaetsstaedte-livequellen-check`, `universitaetsstaedte-quellenkarte-check`, `unterlagen-luecken`, ... plus 2 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `nebenkostenpruefung-prozessstrategie`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `miet-gewerbemiete-vertragsklauseln-spezial`, `miet-mietvertrag-bauleiter`, `prozessstrategie-mieterhoehung` |
+| 5. Verfahren, Behörde und Gericht | `amtlichen-amtsgericht-sonderfall`, `amtsgericht-sonderfall-und-edge-case`, `klageentwurf-amtsgericht-miet-gewerbemiete`, `mietspiegel-behoerden-gericht-und-registerweg`, `vermieter-fristen-form-und-zustaendigkeit`, `weg-beschluss-anfechten`, `widerspruch-interessen` |
+| 6. Ergebnis, Schreiben und Kommunikation | `mieteranfragen-beantworten`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `erstellung-fehlerkatalog`, `mandantenkommunikation-redteam-qualitygate-vermieter`, `spezial-erstellung-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `eigenbedarfskuendigung-erstellen`, `grossstadt-mietspiegel-und-kappung`, `lage-ausstattung-mahnung-zahlungsverzug`, `mahnung-zahlungsverzug-mieter`, `miet-kuendigungsschutz-mietminderung`, `miet-mietminderung-mangel-spezial`, `mieter-mieteranfragen-mandantenentscheidung`, `mieteranfragen-mandantenentscheidung`, `mieterhoehung-widersprechen`, `mieterhoehungsverlangen-erstellen`, `mietkaution-rueckforderung`, `mietpreisueberhoehung-wistrg`, `mietsenkungsverlangen`, `mietsenkungsverlangen-international`, `mietsenkungsverlangen-international-schnittstellen`, `mr-betriebskostenabrechnung-mr`, `mr-kuendigungsschutz-praxis`, `mr-modernisierung-und-rolling-rent-spezial`, ... plus 2 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

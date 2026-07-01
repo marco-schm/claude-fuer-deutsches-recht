@@ -55,6 +55,24 @@ Starte mit dem allgemeinen Skill `erbbaurecht-allgemeiner-kaltstart`. Lade danac
 - Beschwerde- oder Eilrechtsschutz-Skizze
 - Liste fehlender Originale, Nachweise und Formmängel
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `ablauf-laufzeitende-erbbaurecht-aktenstruktur`, `erbbaurecht-aktenstruktur` |
+| 4. Gestaltung, Strategie und Verhandlung | `erbbaurecht-indexklausel-inflation`, `erbbaurechtsvertrag-pflichtinhalt`, `erbbauzins-struktur-erbbauzinsanpassung`, `heimfall-gruende-indexklausel-inflation`, `verkauf-spa-erbbaurechtsvertrag-pflichtinhalt` |
+| 5. Verfahren, Behörde und Gericht | `erbbaurecht-fristen-und-reminder`, `erbbaurecht-schieds-und-gerichtsstand`, `erbbaurecht-vorlage-zustimmungsantrag`, `kommunale-beschlussvorlage-erbbaurecht`, `rueckbau-am-schieds-gerichtsstand` |
+| 6. Ergebnis, Schreiben und Kommunikation | `erbbaurecht-mandantenbrief` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `erbbaurecht-qualitygate-vertrag` |
+| 8. Spezialmodule und Schnittstellen | `altlasten-rueckbau-erbbaurecht`, `change-control-dingliche-vorkaufsrechte`, `entschaedigung-bei-heimfall-und-ablauf`, `erbbau-beschwerde-erbbaugrundbuch-lesen`, `erbbaugrundbuch-lesen`, `erbbaurecht-betreiberwechsel`, `erbbaurecht-dingliche-vorkaufsrechte`, `erbbaurecht-gewerbepark`, `erbbaurecht-investoren-q-and-a`, `erbbaurecht-kita-sozialimmobilie`, `erbbaurecht-notar-und-grundbuchkosten`, `erbbaurecht-photovoltaik-untererbbaurecht`, `erbbaurecht-rangruecktritt-bank`, `erbbaurecht-teilerbbaurecht-und-aufteilung`, `erbbaurecht-untererbbaurecht-und-weitergabe`, `erbbauzins-rueckstand-mahnung`, `erbbauzinsanpassung-paragraph-9a`, `erbbauzinsrang-finanzierungsbank-erbbaurecht`, ... plus 17 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

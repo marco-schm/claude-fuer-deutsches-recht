@@ -52,6 +52,24 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt kei
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-tierschutzfall`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `beweisfotos-und-datenschutz`, `gefluegelmast-beweise-sichern`, `haltung-und-betreuung-dokumentieren`, `hundehaltung-beweise-sichern`, `katzenkolonie-beweise-sichern`, `pferdestall-beweise-strafrisiko-bewerten`, `rinderbetrieb-anordnung-beweise-sichern`, `rinderbetrieb-beweise-sichern`, `schlachthof-anordnung-beweise-sichern`, `schlachthof-beweise-sichern`, `schweinehaltung-beweise-sichern`, `tiertransport-beweise-strafrisiko` |
+| 3. Prüfung, Anspruch und Subsumtion | `gefluegelmast-strafrisiko-kosten-klaeren`, `hundehaltung-strafrisiko-bewerten`, `katzenkolonie-strafrisiko-kosten-klaeren`, `pferdestall-strafrisiko-bewerten`, `rinderbetrieb-strafrisiko-bewerten`, `schlachthof-strafrisiko-bewerten`, `schweinehaltung-strafrisiko-bewerten`, `tiertransport-strafrisiko-bewerten` |
+| 4. Gestaltung, Strategie und Verhandlung | `hundehaltung-vergleich-suchen`, `pferdestall-vergleich-suchen`, `rinderbetrieb-vergleich-suchen`, `schweinehaltung-vergleich-suchen`, `tierheimvertrag-und-kosten`, `tierschutzverein-handlungsoptionen`, `tiertransport-vergleich-suchen` |
+| 5. Verfahren, Behörde und Gericht | `bussgeldverfahren-tierschg`, `gefluegelmast-behoerdenantrag-schreibe`, `gefluegelmast-eilantrag-bauen`, `hundehaltung-behoerdenantrag-anordnung`, `hundehaltung-eilantrag-bauen`, `katzenkolonie-behoerdenantrag-schreibe`, `katzenkolonie-eilantrag-bauen`, `pferdestall-behoerdenantrag-schreiben`, `pferdestall-eilantrag-suchen`, `rinderbetrieb-behoerdenantrag-schreibe`, `rinderbetrieb-eilantrag-bauen`, `rinderbetrieb-halterpflichten-eilantrag`, `schlachthof-behoerdenantrag-schreiben`, `schlachthof-eilantrag-bauen`, `schlachthof-halterpflichten-eilantrag`, `schweinehaltung-behoerdenantrag`, `schweinehaltung-eilantrag-bauen`, `tier-022-hundehaltung-behoerdenantrag-schreiben`, ... plus 10 weitere |
+| 7. Kontrolle, Qualität und Gegenprüfung | `nutztierhaltung-kontrolle`, `tierarzt-und-behandlungsfehler` |
+| 8. Spezialmodule und Schnittstellen | `90a-bgb-richtig-einordnen`, `anordnung-und-wegnahme-pruefen`, `eilrechtsschutz-tierhalter`, `fundtier-und-eigentum`, `gefaehrlicher-hund-zucht-qualzucht`, `gefluegelmast-anordnung-angreifen`, `gefluegelmast-bussgeld-tiertransport`, `gefluegelmast-halterpflichten-erklaere`, `gefluegelmast-kosten-klaeren`, `gefluegelmast-schutzbedarf`, `gefluegelmast-suchen-tiertransport`, `hundehaltung-anordnung-angreifen`, `hundehaltung-bussgeld-verteidigen`, `hundehaltung-halterpflichten-erklaeren`, `hundehaltung-kosten-halterpflichten`, `hundehaltung-schutzbedarf-pruefen`, `katzenkolonie-anordnung-angreifen`, `katzenkolonie-bussgeld-pferdestall`, ... plus 51 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -58,6 +58,24 @@ Dieses Plugin soll keine nicht prüfbaren Fundstellen produzieren. Bei unsichere
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `analogabrechnung-intake`, `kaltstart-goae-rechnung-pruefen`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `abtretung-factoring-arzthonorar-datenschutz`, `arzthonorarprozess-dokumentenplan`, `beihilfe-einwendungen-belegarzt-konsiliararzt`, `belegarzt-und-konsiliararzt-abrechnung`, `gutachten-atteste-bescheinigungen` |
+| 3. Prüfung, Anspruch und Subsumtion | `analoge-bewertung-abrechnung-telemedizin`, `goae-6-gebuehren-fuer-andere-leistungen-analogbewertung`, `livecheck-goae-text-und-reformstand`, `plausibilitaetscheck-rechnung-mathematisch`, `verjaehrung-aerztlicher-honoraranspruch` |
+| 5. Verfahren, Behörde und Gericht | `faelligkeit-verzug-mahnung-honorarklage`, `igel-aufklaerung-klageerwiderung`, `klageerwiderung-honorarprozess` |
+| 6. Ergebnis, Schreiben und Kommunikation | `arztbrief-begruendung-nachfordern`, `op-komplexe-patientenbrief-einwendung`, `patientenbrief-und-einwendung-formulieren` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `red-team-goae-rechnung-halluzinationscheck` |
+| 8. Spezialmodule und Schnittstellen | `5b-standardtarif-gebuehren-andere-6a`, `abrechnung-telemedizin-videosprechstunde-goae`, `abschnitt-a-beratungen-und-untersuchungen`, `abschnitt-b-c-abtretung-factoring`, `abschnitt-c-nichtgebietsbezogene-sonderleistungen`, `anwendungsbereich-berufliche-abweichende`, `arbeitsunfaehigkeitsbescheinigung-privatpatient`, `auslandsbehandlung-deutsche-goae-anwendung`, `begruendung-ueber-schwellenwert-redigieren`, `berufsrecht-ueberhoehte-liquidation`, `ersatz-auslagen-faelligkeit-rechnungspflicht`, `erstattung-pkv-faelligkeit-verzug`, `gebuehrenrahmen-schwellenwert-ampel`, `goae-2-abweichende-vereinbarung-honorarvereinbarung`, `goae-3-verguetungen-gebuehren-entschaedigungen-auslagen`, `goae-5-bemessung-gebuehrenrahmen-2-3-1-8-1-15-schwelle`, `goae-5a-bemessung-im-basistarif`, `goae-6a-stationaere-minderung-25-prozent-15-prozent`, ... plus 27 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

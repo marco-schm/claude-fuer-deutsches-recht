@@ -38,6 +38,23 @@ Interne Untersuchungen können notwendig sein, aber sie sind kein magischer Schu
 
 Keine Rechtsberatung. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `betriebsrat-datenschutz`, `datenschutz`, `inv-007-datenschutz` |
+| 3. Prüfung, Anspruch und Subsumtion | `inv-002-honeypot-risiko` |
+| 4. Gestaltung, Strategie und Verhandlung | `behoerdenstrategie`, `healthcare-compliance`, `inv-012-behoerdenstrategie`, `inv-039-healthcare-compliance`, `inv-045-remediation-plan`, `remediation-plan`, `reporting-behoerdenstrategie` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `audit-hr`, `chat-review`, `inv-016-e-mail-review`, `inv-017-chat-review`, `inv-024-audit-committee` |
+| 8. Spezialmodule und Schnittstellen | `accounting-cyber`, `allgemein`, `arbeitsrecht-mitwirkung`, `auftrag-scope`, `bank-gdpr`, `board-special-committee`, `bribery-red-flags`, `cartel-dawn-raid`, `conflict-of-interest`, `cost-recovery-employee`, `cyber-incident`, `data-board`, `dawn-raid-playbook`, `disciplinary-measure`, `document-cost`, `e-chat`, `expense-export`, `export-control-breach`, ... plus 74 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -100,6 +100,25 @@ InsO §§ 304 bis 314, §§ 286 bis 303, § 305, §§ 307 bis 309, §§ 4a bis 4
 - `abschluss-und-neustart`: Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `abschluss-und-neustart`, `kaltstart-schuldenbild-glaeubiger-sofortschutz`, `rechtsprechungsradar-nachtragsverteilung-schufa-neustart` |
+| 2. Unterlagen, Sachverhalt und Quellen | `datenschutz-und-schamfreie-akte`, `formularcheck-insolvenzantrag`, `konto-sperre-und-sozialleistungen`, `p-konto-sofortschutz`, `schufa-und-auskunfteien`, `unterlagen-und-schuldeninventar`, `verbraucherinsolvenz-belegchaos-strukturieren`, `verbraucherinsolvenz-pfaendungsschutzkonto` |
+| 3. Prüfung, Anspruch und Subsumtion | `buergschaften-und-mithaftung` |
+| 4. Gestaltung, Strategie und Verhandlung | `familienbudget-und-haushaltsplan`, `gerichtlicher-schuldenbereinigungsplan`, `muster-schuldenbereinigungsplan`, `planablehnung-und-naechster-schritt`, `schuldenbereinigungsplan-quote`, `vergleich-waehrend-insolvenz` |
+| 5. Verfahren, Behörde und Gericht | `anlagenpaket-fuer-gericht`, `antrag-insolvenzgericht`, `aussergerichtlicher-einigungsversuch`, `gerichtliche-nachforderung`, `neue-schulden-waehrend-verfahren`, `restschuldbefreiungsantrag`, `verbraucherinsolvenz-aussergerichtl-schuldenbereinigung`, `verfahrenskostenstundung`, `vollstreckung-stoppen` |
+| 6. Ergebnis, Schreiben und Kommunikation | `kommunikation-mit-glaeubigern`, `musterbrief-glaeubiger`, `treuhaender-kommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `hausrat-und-wertgegenstaende`, `red-team-antrag`, `red-team-obliegenheiten`, `red-team-plan` |
+| 8. Spezialmodule und Schnittstellen | `arbeit-wechsel-und-mehrverdienst`, `ausland-und-eu-schulden`, `auto-und-arbeitsweg`, `bescheinigung-305-inso`, `deliktforderung-und-302-inso`, `eigenverwaltung-nicht-verbraucher`, `erbschaft-schenkung-gewinn`, `geschaeftsfuehrer-altlasten`, `glaeubiger-mit-sicherheiten`, `glaeubigerliste-richtig-bauen`, `inkasso-und-titulierte-forderungen`, `insolvenzeroeffnung-wirkungen`, `krankenversicherung-und-beitraege`, `krankheit-pflege-behinderung`, `lohnpfaendung-und-arbeitgeber`, `mietkaution-und-genossenschaftsanteil`, `obliegenheiten-295-inso`, `privatdarlehen-familie`, ... plus 17 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

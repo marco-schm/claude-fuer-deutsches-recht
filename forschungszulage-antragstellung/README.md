@@ -63,6 +63,25 @@ Vor jeder belastbaren Ausgabe live prüfen:
 | "Wir sind im Verlust / in der Krise" | `fz-insolvenz-verlust-liquiditaet` |
 | "BSFZ fragt nach oder lehnt ab" | `fz-ablehnung-nachbesserung-einspruch` |
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `foerdercheck-kaltstart`, `kaltstart-triage`, `start-chronologie-fristen`, `start-up-und-personengesellschaft`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `adaptiver-dokumentenmatrix`, `adaptiver-dokumentenmatrix-und-lueckenliste`, `beihilfen-beweislast-darlegungslast`, `beihilfen-beweislast-und-darlegungslast`, `chronologie-und-belegmatrix`, `dokumentationspaket-betriebspruefung`, `finanzamt-quellenkarte`, `personalkosten-und-stundennachweis`, `quellen-livecheck`, `spezial-finanzamt-livequellen-und-rechtsprechungscheck`, `tatbestand-beweis-belege-antragstellung`, `unterlagen-luecken`, `verlust-formular-portal`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `betriebspruefung-strategie`, `foerdercheck-risikoampel`, `foerdercheck-risikoampel-und-gegenargumente`, `forsch-bsfz-pruefung-spezial`, `fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `abgrenzung-compliance`, `auftragsforschung-vertragsgestaltung`, `zeichenbudgets-verhandlung`, `zeichenbudgets-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `abgrenzung-adaptiver-antrag`, `ablehnung-nachbesserung-einspruch`, `antrag-zahlen-schwellen-und-berechnung`, `antrag-zahlen-schwellenwerte`, `antragstellung-auszahlung-beihilfen`, `bescheidung-rechtsmittel`, `bescheidung-rechtsmittel-bsfz`, `bsfz-behoerden-gericht-und-registerweg`, `bsfz-behoerden-gerichts`, `einspruch-sonderfall-edge-case`, `einspruch-sonderfall-und-edge-case`, `forschungszulage-mandantenentscheidung-antragspfad`, `fzulg-fristen-form`, `fzulg-fristen-form-und-zustaendigkeit`, `mandantenentscheidung-einspruch-sonderfall`, `mehrjahresroadmap-fristennotiz-fz`, `mehrjahresroadmap-fristennotiz-naechster`, `portaltexte-schriftsatz-brief`, ... plus 2 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandantenkommunikation`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `forschungszulage-insolvenzlage-red-team-korrektur`, `insolvenzlage-fehlerkatalog`, `insolvenzlage-red-team-und-qualitaetskontrolle`, `redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `auszahlung-internationaler-bezug`, `auszahlung-internationaler-bezug-und-schnittstellen`, `bemessungsgrundlage-2026`, `bemessungsgrundlage-interessen`, `bemessungsgrundlage-interessen-bsfz`, `bsfz-bescheinigung-projektbeschreibung`, `definition-abschlussprodukt`, `definition-abschlussprodukt-und-uebergabe`, `finanzamt-festsetzung-auszahlung`, `forsch-konzernverbund-forschung-spezial`, `forsch-projektbeschreibung-bauleiter`, `forsch-stundenaufzeichnung-fz-ablehnung`, `forsch-stundenaufzeichnung-leitfaden`, `forschungszulage-projektbeschreibung-bescheinigung`, `fue-abgrenzung-definition`, `fue-abgrenzung-grenzfaelle`, `fue-definition-frascati-abgrenzung`, `historie-und-rechtsgrundlagen`, ... plus 9 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

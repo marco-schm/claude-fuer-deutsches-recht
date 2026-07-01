@@ -41,6 +41,23 @@ Bundesrecht, Landesrecht, kommunale Satzungen, Parteisatzungen, Vereinsregisterp
 Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenzeichen-und-vorgangsnummer`, `beweismittel-fotos-screenshots`, `datenschutz-auskunft-behoerde`, `dokument-upload-dolmetscher-uebersetzung`, `formular-ausfuellen`, `nachweise-nebenbestimmungen-auflagen-notfall`, `tod-erbe-vorlage-originale-aktenzeichen`, `unterlagen-sortieren` |
+| 3. Prüfung, Anspruch und Subsumtion | `fragebogen-risikoanalyse-fuehrerschein`, `frist-sofortcheck-nachbar-bauverfahren`, `laien-sanity-check` |
+| 5. Verfahren, Behörde und Gericht | `anhoerung-vor-bescheid`, `auslaenderbehoerde`, `automatisierter-bescheid`, `bauantrag-bauordnungsamt-anordnung-behoerde`, `behoerde-oder-gericht-erkennen`, `berufsanerkennung-bescheid-ohne-betreuung`, `bescheid-ohne-rechtsbehelf`, `chronologie-fuer-behoerde`, `eilantrag-notfall`, `email-an-behoerde`, `eu-behoerde-familiengericht-vorladung`, `familiengericht-vorladung`, `foerdermittel-bescheid`, `gebuehrenbescheid`, `gemeinderat-satzung-gerichtsladung-zeuge`, `gerichtsladung-zeuge`, `grundsteuerbescheid-laie-hundesteuer`, `hausbesuch-behoerde`, ... plus 21 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `vereinfachtes-schreiben-vollmacht-vertretung`, `was-will-dieses-schreiben` |
+| 8. Spezialmodule und Schnittstellen | `aufsichtsbeschwerde-dienstaufsicht`, `bafoeg`, `bauordnungsamt-anordnung`, `beratungshilfe-pkh`, `betreuung-und-vorsorgevollmacht`, `buergergeld-jobcenter`, `bussgeld-anhoerung`, `dolmetscher-und-uebersetzung`, `einbuergerung`, `elterngeld-email-an-energie-sperre-ermessen`, `energie-sperre-grundversorgung`, `ermessen-verstehen`, `fuehrerschein-fahrerlaubnis`, `gaststaette-und-sondernutzung`, `gewerbeanmeldung`, `hundesteuer-und-hundeverordnung`, `ifg-uig-vig-anfrage`, `kfz-zulassung`, ... plus 29 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

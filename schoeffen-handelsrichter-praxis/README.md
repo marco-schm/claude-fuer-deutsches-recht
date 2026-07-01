@@ -49,6 +49,23 @@ ZIP aus dem aktuellen Release laden und in Plugin-Umgebung oder Cowork über Cus
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `beratung-abstimmung-orientierung-sitzung`, `beratung-und-abstimmung-orientierung`, `bilanzstreit-orientierung-sitzung`, `deal-verstaendigung-schoeffe-orientierung`, `dokumentenintake-und-aktenlog`, `ehrenamtlicher-richter-baurecht-orientierung`, `ehrenamtlicher-richter-beamtenrecht-orientierung`, `ehrenamtlicher-richter-vg-orientierung`, `frage-an-zeugen-stellen-orientierung`, `freispruch-zweifel-orientierung`, `handelsrichter-gesellschafterstreit-orientierung`, `handelsrichter-handelskauf-orientierung`, `handelsrichter-kfh-rolle-orientierung`, `kaltstart-routing`, `ladung-erhalten-erste-orientierung-orientierung`, `sachverstaendiger-verstehen-orientierung`, `schoeffe-digitale-beweise-orientierung`, `schoeffe-dolmetscher-orientierung`, ... plus 11 weitere |
+| 2. Unterlagen, Sachverhalt und Quellen | `beweiswuerdigung-zeugen-deal-verstaendigung`, `quellen-rspr-fristen`, `schoeffe-btmg-kcang-sitzung-digitale-beweise`, `schoeffe-digitale-beweise-dolmetscher` |
+| 5. Verfahren, Behörde und Gericht | `ehrenamtlicher-richter-verwaltungsgericht-vg`, `frist-und-zustaendigkeit-cockpit`, `schoeffe-ermuedung-komplexverfahren`, `schoeffe-wirtschaftsstrafverfahren-sitzung`, `schriftsatz-vermerk-und-mustertext` |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandanten-oder-beteiligtenkommunikation`, `schoeffe-verkehrsstrafrecht-sitzung-vermerk` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `red-team-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `99-finale-entscheidung-volltext`, `befangenheit-selbstanzeige`, `befangenheit-selbstanzeige-sitzung`, `befangenheit-und-selbstanzeige`, `beratung-und-abstimmung-sitzung`, `deal-verstaendigung-schoeffe-sitzung`, `ehrenamtlicher-richter-asyl-sitzung`, `ehrenamtlicher-richter-asyl-sitzung-baurecht`, `ehrenamtlicher-richter-baurecht-beamtenrecht`, `ehrenamtlicher-richter-beamtenrecht-sitzung`, `ehrenamtlicher-richter-vg-sitzung`, `entscheidungsvorlage-frage-zeugen`, `frage-an-zeugen-stellen-sitzung`, `fragerecht-ohne-freispruch-zweifel`, `freispruch-zweifel-sitzung`, `gesellschafterstreit-sitzung-handelskauf`, `handelsrichter-bilanzstreit-sitzung`, `handelsrichter-handelskauf-sitzung`, ... plus 22 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

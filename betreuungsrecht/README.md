@@ -87,6 +87,24 @@ Beim Einsatz von KI-Tools sind insbesondere zu beachten:
 - Empfehlung: Personenbezogene Daten vor Übergabe an KI pseudonymisieren
   (siehe Skill `playbook-aus-eigenen-daten` im Plugin `kanzlei-builder-hub`)
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-router`, `anschluss-routing`, `betreuungsrechtliche-erstpruefung-und-mandatsziel`, `dokumente-intake`, `einstieg-routing`, `kaltstart-interview`, `kaltstart-triage`, `vermoegensverzeichnis-start`, `workflow-anschluss-skills-router`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `betreuerpflichten-formular-portal-und-einreichung`, `chronologie-und-belegmatrix`, `dokumentenscan-aktenablage-und-belegmappe`, `erbe-compliance-dokumentation-aktenvermerk`, `familienbetreuer-arzt-bankkonto`, `familienbetreuer-bankkonto-rechnungslegung`, `familienbetreuer-bankkonto-und-rechnungslegung-einfach`, `familienbetreuer-scannen-ordner-datenschutz`, `genehmigungspflichten-dokumentenmatrix-und-lueckenliste`, `jahresbericht-kontoanalyse-verdachtsvertraege`, `jahresbericht-tatbestandsmerkmale-beweisfragen`, `kontoanalyse-risikoampel-gegenargumente`, `kontoanalyse-risikoampel-und-gegenargumente`, `kontodaten-vertragsverdacht-pruefung`, `quellen-livecheck`, `quellenkarte`, `rechtsquellen-sonderfall-edge-case`, `spezial-betreuungsrecht-livequellen-und-rechtsprechungscheck`, ... plus 5 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `fristen-und-risikoampel`, `genehmigungspflicht-pruefung`, `livecheck-fristennotiz-naechster-schritt`, `livecheck-fristennotiz-und-naechster-schritt`, `schutzplan-betreute-person-risikoampel`, `verdachtsvertraege-pruefung`, `vermoegensverzeichnis-pruefung` |
+| 5. Verfahren, Behörde und Gericht | `betreuung-grenzueberschreitend-betreuungsantrag`, `betreuung-im-strafverfahren`, `betreuung-strafverfahren-kalender-reminder`, `betreuungsantrag-erstellen`, `betreuungsgericht-kommunikation-angehoerige`, `betreuungsgericht-kommunikation-fuer-angehoerige`, `betreuungsverein-behoerde-btr-aufgabenkreise`, `betreuungsverein-behoerde-hilfe-holen`, `btog-schriftsatz-brief-memo-bausteine`, `btog-schriftsatz-brief-und-memo-bausteine`, `btr-erstantrag-und-eilantrag`, `btr-erstantrag-zwangsmedikation-genehmigung`, `genehmigungen-gerichtskontakt`, `genehmigungspflichten-gericht`, `jahresbericht-betreuungsgericht`, `kalender-reminder-und-fristenmanagement`, `spezial-vermoegensverzeichnis-fristen-form-und-zustaendigkeit`, `verdachtsvertraege-behoerden-gericht-und-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `bericht-betreuer-betreuerpflichten`, `bericht-mandantenkommunikation`, `betreuerpflichten-genehmigung-bericht`, `familienbetreuer-jahresbericht-aus-notizen`, `genehmigungspflicht-jahresbericht`, `mandantenkommunikation`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `btr-betreuer-gegen-vorsorgevollmacht`, `genehmigung-fehlerkatalog`, `genehmigung-red-team-und-qualitaetskontrolle`, `redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `aufgabenkreise-festlegen`, `betreuer-als-erbe`, `betreuer-registrierung`, `betreuer-registrierung-betreuung`, `betreuer-zahlen-schwellen-und-berechnung`, `betreuer-zahlen-schwellenwerte-berechnung`, `betreuerpflichten-alltag`, `betreuerpflichten-genehmigung-betreuung`, `betreuung-anwaltskosten-rvg`, `betreuung-bei-demenz`, `betreuung-demenz-erbe-werden-erwachsene`, `betreuung-erbe-werden`, `betreuung-fuer-erwachsene-kinder`, `betreuung-grenzueberschreitend`, `betreuung-interessen`, `betreuung-mehrparteien-konflikt-und-interessen`, `bgb`, `bgb-btog-demenz`, ... plus 29 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

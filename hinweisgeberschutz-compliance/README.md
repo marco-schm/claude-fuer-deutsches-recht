@@ -52,6 +52,25 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Konkrete Normen, Behö
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `eingangsfrist-7-tage`, `gerichtliche-rechtsprechung-eingangsfrist`, `kaltstart-triage`, `tisax-iso-triage-strafrecht-uk-whistleblowing`, `triage-strafrecht` |
+| 2. Unterlagen, Sachverhalt und Quellen | `audit-nachweis`, `betriebsrat-mitbestimmung-beweislastumkehr`, `beweislastumkehr`, `datenschutz-dsgvo-meldeakte`, `datenschutzpanne-meldung`, `dokumentationspflicht`, `dokumente-sichern-e-discovery-einstweiliger`, `externes-bfj-formular`, `personenbezogene-daten-dritter`, `risikomatrix-rueckmeldung-monate-schulung`, `untersuchung-datenschutz-dsgvo` |
+| 3. Prüfung, Anspruch und Subsumtion | `bussgeld-risiko-exportkontrolle-sanktionen`, `vorstandshaftung` |
+| 4. Gestaltung, Strategie und Verhandlung | `arbeitsvertrag-klauseln-settlement`, `compliance-hotline-provider`, `jahresbericht-compliance`, `lieferkette-lksg-massnahmenplan-meldekanal`, `massnahmenplan`, `settlement-und-aufhebungsvertrag`, `untersuchungsbericht-untersuchungsplan-us-sox`, `untersuchungsplan`, `vergleichsklausel`, `verschwiegenheitsklauseln-redline`, `vertraulichkeit-vs-zugriffskonzept`, `zugriffskonzept` |
+| 5. Verfahren, Behörde und Gericht | `arbeitsgericht-klage-arbeitsschutz-audit`, `aufsichtsbehoerdenkommunikation-internal`, `fristenkalender`, `loeschfristen` |
+| 6. Ergebnis, Schreiben und Kommunikation | `antwortschreiben-hinweisgeber`, `kommunikation-an-betroffene` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `exportkontrolle-sanktionen`, `redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abschlussmitteilung-anonyme-meldung`, `anonyme-meldung`, `anwaltliche-meldestelle`, `arbeitsschutz`, `aufsichtsrat-reporting`, `barrierefreiheit-meldekanal`, `beschaeftigtenzahl-konzern`, `beschuldigtenrechte`, `beschwerde-management`, `bewerber-ehemalige`, `boesglaeubige-meldung`, `bonus-versetzung-case-management-cloud`, `case-management-tool`, `cloud-hosting-meldekanal`, `e-discovery-forensik`, `einstweiliger-rechtsschutz`, `eu-richtlinie-abgleich`, `externe-meldung-externes-bfj-faq-mitarbeiter`, ... plus 45 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

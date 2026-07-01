@@ -44,6 +44,25 @@ Dieses Plugin führt durch **Internationales Handelsrecht und Lex Mercatoria** u
 
 Keine Blindzitate, keine erfundenen Rechtsprechungsfundstellen, keine Paywall-Literatur ohne Nutzerquelle. Aktuelle Wirtschafts-, Exportkontroll-, Sanktions- und China-Fragen werden als Live-Check geführt.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `ihl-001-kaltstart-internationaler-handelsfall`, `ihl-083-public-policy-and-mandatory-law`, `kaltstart-internationaler-handelsfall`, `kaltstart-triage`, `public-policy-and-mandatory-law` |
+| 2. Unterlagen, Sachverhalt und Quellen | `cisg-nacherfuellung-remedies-ware-dokumente-i`, `cisg-ware-dokumente-digitalisierung`, `dokumenteninkasso-retention-title`, `ihl-009-cisg-ware-dokumente-digitalisierung`, `ihl-040-dokumenteninkasso`, `ihl-093-vertiefung-01-quellenmatrix`, `vertiefung-01-quellenmatrix` |
+| 3. Prüfung, Anspruch und Subsumtion | `exw-fca-fob-risiko`, `ihl-019-exw-fca-fob-risiko` |
+| 4. Gestaltung, Strategie und Verhandlung | `anti-dumping-und-ausgleichszoelle`, `cisg-notices-vertragsschluss-wesentliche`, `cisg-vertragsschluss`, `cisg-wesentliche-vertragsverletzung`, `ihl-004-cisg-vertragsschluss`, `ihl-005-cisg-wesentliche-vertragsverletzung`, `ihl-012-schiedsklausel-icc-dis`, `ihl-014-unidroit-principles-als-vertragsrecht`, `ihl-017-pecl-und-soft-law-vergleich`, `ihl-022-transportvertrag-see`, `ihl-023-transportvertrag-luft`, `ihl-024-transportvertrag-strasse-cmr`, `ihl-025-spediteur-und-logistikvertrag`, `ihl-034-anti-dumping-und-ausgleichszoelle`, `incoterms-2020-klauselauswahl-und-systematik`, `pecl-und-soft-law-vergleich`, `schiedsklausel-icc-dis`, `spediteur-logistikvertrag-cisg-schadensersatz`, ... plus 4 weitere |
+| 5. Verfahren, Behörde und Gericht | `gerichtsstand-brussels-ia-hague`, `ihl-008-cisg-fristen-und-notices`, `ihl-011-gerichtsstand-brussels-ia-hague`, `langfristige-liefervertraege-lsa` |
+| 6. Ergebnis, Schreiben und Kommunikation | `abschlussmemo-handelsrecht`, `ihl-092-abschlussmemo-handelsrecht`, `ihl-099-vertiefung-01-board-memo`, `konnossement-und-seefrachtbrief`, `risk-dashboard-international-abschlussmemo`, `vertiefung-01-board-memo` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `audit-rights-supplier`, `exportkontrolle-dual-use`, `ihl-032-exportkontrolle-dual-use`, `ihl-043-qualitaetskontrolle-pre-shipment`, `ihl-071-audit-rights-supplier`, `ihl-090-red-team-boilerplate`, `ihl-095-vertiefung-01-red-team-gegenposition`, `praeferenzursprung-exportkontrolle`, `qualitaetskontrolle-pre-shipment`, `red-team-boilerplate`, `vertiefung-01-red-team-gegenposition` |
+| 8. Spezialmodule und Schnittstellen | `agency-distribution-franchise`, `akkreditiv-ucp-600`, `anti-corruption-fcpa-ukba`, `arbitration-evidence`, `bankgarantie-urgd`, `battle-of-forms-international`, `cfr-cif-cpt-cip`, `cisg-anwendungsbereich`, `cisg-ausschluss-und-rechtswahl`, `cisg-schadensersatz-und-mitigation`, `claim-letter-under-cisg`, `commercial-agent-eu`, `commodity-trade`, `confidentiality-and-trade-secrets`, `contract-playbook-exporter`, `contract-playbook-importer`, `currency-risk-and-indexation`, `dap-dpu-ddp`, ... plus 117 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

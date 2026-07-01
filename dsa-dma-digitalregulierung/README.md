@@ -57,6 +57,24 @@ Plugin für die anwaltliche Praxis im Recht der digitalen Märkte und Dienste.
 
 Stand: 2026. DSA voll anwendbar seit 17.02.2024. DMA-Gatekeeper-Designation seit 06.09.2023 in Tranchen. AI Act schrittweise ab 02.02.2025 (Verbote), 02.08.2026 (GPAI), 02.08.2027 (Hochrisiko). Aktenzeichen und Daten sind nach bestem Wissen recherchiert; vor Schriftsatzverwendung stets Originalquelle prüfen.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `digitalregulierung-erstpruefung-und-mandatsziel`, `dokumente-intake`, `einstieg-routing`, `regulierung-start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `dma-pflichten-dsa-art-forschungsdatenzugang`, `dsa-art-40-forschungsdatenzugang-algorithmen`, `erstellung-forschungsdatenzugang`, `forschungsdatenzugang-mehrparteienkonflikt`, `quellen-livecheck`, `risikobewertung-compliance-dokumentation-und-akte`, `sperre-formular-portal-und-einreichung`, `sperre-vertreter-beweislast`, `spezial-vlop-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `vertreter-beweislast-und-darlegungslast`, `vlop-quellenkarte`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `dora-risikoampel-und-gegenargumente`, `dsa-art-34-systemische-risikobewertung`, `pyramide-check-dsgvo-p2b-anti-steering`, `workflow-fristen-und-risikoampel` |
+| 5. Verfahren, Behörde und Gericht | `dma-fristen-form-und-zustaendigkeit`, `eidas-behoerden-gericht-und-registerweg`, `gatekeeper-schriftsatz-brief-und-memo-bausteine`, `kernplattformdienste-sonderfall-klagewege`, `klage-gegen-vlop-einordnung-art-263-aeuv`, `klagewege-mandantenkommunikation-entscheidungsvorlage`, `transparenzbericht-fristennotiz-dsa-dma`, `werbearchiv-aufbauen-klage-gegen-account` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `transparenzbericht-erstellung-trusted-flagger` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `mandantenkommunikation-redteam-qualitygate`, `spezial-zustellung-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate`, `zustellung-fehlerkatalog` |
+| 8. Spezialmodule und Schnittstellen | `account-internationaler-bezug-und-schnittstellen`, `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa`, `bussgeldverteidigung`, `dark-patterns-internes-beschwerdesystem`, `data-digitalregulierung-dora`, `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb`, `dma-anti-steering-app-store-design`, `dma-business-user-gatekeeper`, `dma-gatekeeper-schwellen-und-kernplattformdienste`, `dma-interoperabilitaet-messenger-art-7`, `dsa-eidas-einordnung`, `dsa-internes-beschwerdesystem-aufbau`, `dsa-krisenreaktionsmechanismus-art-36`, `dsa-pflichten-pyramide-uebersicht`, `dsa-systemic-risk-assessment-pruefen`, `dsa-trusted-flagger-anerkennung`, `dsa-vlop-vlose-einordnung-und-pflichten`, `einordnung-zahlen-schwellen-und-berechnung`, ... plus 2 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

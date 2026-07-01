@@ -58,6 +58,25 @@ Dieses Plugin soll keine nicht prüfbaren Fundstellen produzieren. Bei unsichere
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `dokumentenintake-forderungsportfolio`, `kaltstart-factoring-mandat`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `checkliste-forderungsdatenraum-datenschutz`, `datenschutz-debitorendaten-dsgvo-informationspflichten`, `einziehungsbefugnis-debitoren-zahlungskanaele-treuhandkonto`, `erlaubnisantrag-32-kwg-unterlagen`, `reverse-lieferantenfinanzierung-risikomatrix`, `risikomatrix-insolvenz-anfechtung` |
+| 3. Prüfung, Anspruch und Subsumtion | `auditrechte-stichproben-forderungspruefung`, `b2b-lieferketten-forderungsbestand-und-reklamationsrisiko`, `bilanzierung-true-sale-ausbuchung-wirtschaftliches-risiko`, `echtes-und-unechtes-factoring-risikoverteilung`, `insolvenz-des-debitors-forderungspruefung`, `regressklauseln-delkredererisiko-factoring` |
+| 4. Gestaltung, Strategie und Verhandlung | `agb-kontrolle-factoringvertrag-rahmenvertrag`, `factoringvertrag-rahmenvertrag-forderungskauf-kaufpreis-sicherhe`, `kuendigung-rahmenvertrag-exit-und-rueckuebertragung`, `output-vertragsentwurf-memo-anzeige`, `sanierungskonzept-factoring-als-liquiditaetsbaustein` |
+| 5. Verfahren, Behörde und Gericht | `geldwaesche-verdachtsmeldung-gerichtsstand`, `gerichtsstand-rechtswahl-schiedsvereinbarung` |
+| 6. Ergebnis, Schreiben und Kommunikation | `debitorenbrief-hoeflich-aber-rechtssicher`, `debitorenkommunikation-abtretungsanzeige`, `kyc-gwg-mandantenmemo-risiken-npl-kauf`, `mandantenmemo-factoring-risiken-vorstandsvorlage` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `red-team-factoringvertrag-versteckte` |
+| 8. Spezialmodule und Schnittstellen | `abtretbarkeit-forderungen-abtretungsverbot`, `abtretungsverbot-354a-hgb-handelsgeschaeft`, `aufsichtsrechtliche-schnellampel`, `auslandsfactoring-import-export-two-factor-system`, `bafin-laufender-beschwerde-anhoerung`, `beschwerde-und-anhoerung-bafin-factoring`, `debitorenschutz-einwendungen-404-bgb-aufrechnung-406-bgb`, `doppelabtretung-prioritaet-und-gutglaubensprobleme`, `drittschuldneranzeige-stille-echtes-unechtes`, `factoring-fuer-rechtsanwaelte-steuerberater-berufsrecht`, `factoring-gesundheitswesen-plattformmodelle`, `factoring-plattformmodelle-fintech-und-api`, `factoringtyp-true-false-reverse-maturity`, `faelligkeitsfactoring-maturity-fraud`, `fraud-indikatoren-scheinforderungen-retouren-gutschriften`, `full-service-factoring-inhouse-factoring-ausschnittsmodell`, `globalzession-verlaengerte-eigentumsvorbehalte-prioritaetskonfli`, `inkasso-rdg-insolvenz-debitors`, ... plus 17 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -52,6 +52,23 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt kei
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `amphetamin-strafrahmen-routen`, `cannabis-menge-strafrahmen-routen-sichern`, `cannabis-strafrahmen-routen`, `fentanyl-strafrahmen-routen`, `heroin-menge-strafrahmen-routen-sichern`, `heroin-strafrahmen-routen`, `kaltstart-fall`, `kaltstart-triage`, `kokain-strafrahmen-routen`, `mdma-menge-strafrahmen-routen-sichern`, `mdma-strafrahmen-routen`, `medizinalcannabis-strafrahmen-routen`, `methadon-menge-strafrahmen-routen-sichern`, `methadon-strafrahmen-routen` |
+| 2. Unterlagen, Sachverhalt und Quellen | `amphetamin-akteneinsicht-vorbereiten`, `amphetamin-bauen-akteneinsicht`, `apotheke-btm-dokumentation`, `cannabis-akteneinsicht-vorbereiten`, `cannabis-beweis-sichern`, `fentanyl-akteneinsicht-vorbereiten`, `fentanyl-bauen-akteneinsicht-vorbereiten`, `heroin-akteneinsicht-vorbereiten`, `heroin-beweis-sichern`, `kokain-akteneinsicht-vorbereiten`, `kokain-bauen-akteneinsicht-vorbereiten`, `mdma-akteneinsicht-vorbereiten`, `mdma-beweis-sichern`, `medizinalcannabis-akteneinsicht-vorber`, `medizinalcannabis-beweis-sichern-einlassung-planen`, `medizinalcannabis-compliance-bauen-akteneinsicht-vorber`, `methadon-akteneinsicht-vorbereiten`, `methadon-beweis-sichern`, ... plus 1 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `betriebspruefung-apotheke`, `internationaler-versand-betriebspruefung-apotheke-einfacher`, `nicht-geringe-menge-livecheck` |
+| 4. Gestaltung, Strategie und Verhandlung | `amphetamin-einlassung-planen`, `amphetamin-sichern-einlassung-planen`, `arztpraxis-compliance`, `cannabis-compliance-bauen`, `cannabis-einlassung-planen`, `fentanyl-einlassung-planen`, `fentanyl-sichern-einlassung-planen`, `heroin-compliance-bauen`, `heroin-einlassung-planen`, `kokain-einlassung-planen`, `kokain-sichern-einlassung-planen`, `mdma-compliance-bauen`, `mdma-einlassung-planen`, `medizinalcannabis-einlassung-planen`, `methadon-compliance-bauen`, `methadon-einlassung-planen` |
+| 6. Ergebnis, Schreiben und Kommunikation | `amphetamin-mandantenbrief-schreiben`, `cannabis-mandantenbrief-kokain-stoff`, `fentanyl-mandantenbrief-schreiben`, `heroin-mandantenbrief-amphetamin-stoff`, `kokain-mandantenbrief-schreiben`, `mdma-mandantenbrief-fentanyl-stoff-menge`, `methadon-mandantenbrief-medizinalcannabis` |
+| 8. Spezialmodule und Schnittstellen | `amphetamin-erlaubnis-pruefen`, `amphetamin-menge-einordnen`, `amphetamin-stoff-pruefen`, `amphetamin-therapiepfad-pruefen`, `aufklaerungshilfe-btmg-kcang-medcang-abgrenzen-neue`, `btm-002-stoff-und-anlage-pruefen`, `btm-021-cannabis-stoff-pruefen`, `btm-026-cannabis-therapiepfad-pruefen`, `btm-027-cannabis-erlaubnis-pruefen`, `btm-031-kokain-stoff-pruefen`, `btm-036-kokain-therapiepfad-pruefen`, `btm-037-kokain-erlaubnis-pruefen`, `btm-041-heroin-stoff-pruefen`, `btm-046-heroin-therapiepfad-pruefen`, `btm-047-heroin-erlaubnis-pruefen`, `btm-051-amphetamin-stoff-pruefen`, `btm-056-amphetamin-therapiepfad-pruefen`, `btm-057-amphetamin-erlaubnis-pruefen`, ... plus 48 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

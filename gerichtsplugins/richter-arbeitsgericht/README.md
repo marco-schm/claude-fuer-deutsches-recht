@@ -101,6 +101,19 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 Dual-lizenziert MIT und Apache-2.0.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 5. Verfahren, Behörde und Gericht | `02-kuendigungsschutzklage-pruefen`, `03-zahlungsklage-lohn-und-gehalt`, `05-befristung-und-teilzeit`, `07-einstweilige-verfuegung-arbeitsrecht`, `08-betriebsverfassung-beschlussverfahren`, `09-urteil-arbeitsgericht`, `10-entscheidungsvorschlag-arbeitsgericht`, `v392-praxisraster-richter-arbeitsgericht` |
+| 8. Spezialmodule und Schnittstellen | `01-zustaendigkeit-und-guetetermin`, `04-betriebsuebergang-und-tarif`, `06-agg-diskriminierung`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

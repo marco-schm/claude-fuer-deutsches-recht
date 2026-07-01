@@ -100,6 +100,21 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 Dual-lizenziert MIT und Apache-2.0.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 2. Unterlagen, Sachverhalt und Quellen | `03-beweisantraege-und-ablehnung`, `04-beweiswuerdigung-strafkammer` |
+| 4. Gestaltung, Strategie und Verhandlung | `02-hauptverhandlung-grosse-strafkammer` |
+| 5. Verfahren, Behörde und Gericht | `01-eroeffnungsverfahren-strafkammer`, `07-urteilsbegruendung-paragraf-267-lg`, `v392-praxisraster-richter-landgericht-strafkammer` |
+| 8. Spezialmodule und Schnittstellen | `05-strafzumessung-grosse-strafkammer`, `06-massnahmen-paragraf-61-stgb`, `08-berufung-strafkammer`, `09-rechtsmittelbelehrung-strafkammer`, `10-entscheidungsvorschlag-strafkammer`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

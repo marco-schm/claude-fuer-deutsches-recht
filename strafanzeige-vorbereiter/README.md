@@ -43,6 +43,22 @@ Beginne mit dem allgemeinen Kaltstart-Skill. Er fragt Rolle, Ziel, Frist, Unterl
 
 Normtexte werden aus amtlichen Quellen geprüft. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle verwendet. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `akteneinsicht-verletzter-406e`, `beweismatrix-chatverlaeufe`, `datenstraftaten-diebstahl`, `sachbeschaedigung-sachverhalt`, `sachverhalt-ohne-adjektive`, `steuerhinterziehung-akteneinsicht` |
+| 5. Verfahren, Behörde und Gericht | `antragsdelikte-strafantrag`, `international-klageerzwingung`, `klageerzwingung-172-stpo`, `opferschutz-nebenklage`, `strafantrag-form-frist`, `strafanzeige-vs-strafantrag-158` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `gegenanzeige-geldwaesche` |
+| 8. Spezialmodule und Schnittstellen | `anfangsverdacht-anlagenverzeichnis`, `anlagenverzeichnis-hashlog`, `anwalt-arbeitsplatz`, `arbeitsplatz-sexuelle-belaestigung`, `bankrott-bedrohung`, `bedrohung-241`, `beleidigung-betrug`, `betrug-263`, `chatverlaeufe-emails-header`, `computerbetrug-phishing`, `diebstahl-unterschlagung`, `druckmittel-falsche`, `falsche-verdaechtigung-164`, `geldwaesche-261`, `geschgehg-haeusliche`, `haeusliche-gewalt-gewschg`, `hausfriedensbruch`, `insolvenzverschleppung-15a`, ... plus 24 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

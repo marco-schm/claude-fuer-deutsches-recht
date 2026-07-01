@@ -53,6 +53,24 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Im Einzelfall gehen La
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage`, `landeshochschulgesetz-router` |
+| 2. Unterlagen, Sachverhalt und Quellen | `datenschutz-hochschule`, `fakultaetsrat-kompetenzen-forschungsdaten`, `forschungsdaten-datenschutz`, `forschungsdaten-und-open-science`, `hochschularchiv-und-aktenordnung` |
+| 3. Prüfung, Anspruch und Subsumtion | `bafoeg-und-hochschulstatus`, `beurlaubung-hochschulstatus-campusbau`, `hochschulrecht-disziplinarverfahren-pruefungsnah`, `international-office-visum-status`, `lehrbeauftragte-status-lehrverpflichtung`, `lehrbeauftragte-status-und-verguetung`, `senatswahl-statusgruppen` |
+| 4. Gestaltung, Strategie und Verhandlung | `alumni-stiftung-spenden-compliance` |
+| 5. Verfahren, Behörde und Gericht | `berufungsverfahren-professur-gute`, `gute-wissenschaftliche-praxis-verfahren`, `wisszeitvg-und-befristung` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `akkreditierung-programm-qualitaet-alumni`, `akkreditierung-und-qualitaet`, `exportkontrolle-forschung`, `redteam-hochschulrecht-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `anerkennung-ects-und-ausland`, `ausgruendung-transferstelle-bafoeg`, `barrierefreiheit-campus-digital`, `berufungsvereinbarung-ausstattung`, `campusbau-und-flaechenmanagement`, `dekanat-organstreit`, `digitallehre-satzungsgrundlage-drittmittel`, `drittmittel-overhead-und-ip`, `drittmittel-und-industriekooperation`, `duale-hochschule-praxispartner`, `ethikkommission-forschung-exmatrikulation`, `exmatrikulation`, `exmatrikulation-beitragsrueckstand`, `forschungskooperation-industrie`, `gastwissenschaftler-sanktionen-dual-use`, `gleichstellung-kommissionen-graduiertenschule`, `graduiertenschule-zulassung`, `grundordnung-und-satzung`, ... plus 60 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

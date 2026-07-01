@@ -91,6 +91,25 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `eingangsdaten-checkliste`, `eingangsdaten-idw-s6-liqp`, `einstieg-routing`, `kaltstart-triage`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `chronologie-und-belegmatrix`, `deutschem-dokumentationspaket-excel`, `deutschem-tatbestandsmerkmale-beweisfragen`, `dokumentationspaket-bank`, `insolvenzrecht-formular-portal`, `interessen-verifikation-beweislast-vorschau`, `liqp-warenkredit-skonto-szenarien-spezial`, `liquiditaetsstatus-quellenbelege`, `liquiditaetsstatus-quellenbelege-live-quote`, `luecken-quellenkarte`, `quellen-livecheck`, `spezial-luecken-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `verifikation-beweislast-darlegungslast`, `vorschau-dokumentenmatrix-lueckenliste`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `forecast-risikoampel-gegenargumente`, `fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `forecast-wochenplanung`, `idw-s6-integrierte-sanierungsplanung`, `leasing-lp-restrukturierungsplan-starug`, `quote-verhandlung-vergleich-eskalation`, `restrukturierungsplan-starug`, `stundungs-strategie` |
+| 5. Verfahren, Behörde und Gericht | `ausgabengruppen-fristennotiz-naechster`, `wochen-fristen-form-zustaendigkeit-rechtsweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `live-mandantenkommunikation`, `mandantenkommunikation`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `mandantenkommunikation-redteam-qualitygate`, `rechtsprechung-fehlerkatalog`, `redteam-qualitygate`, `spezial-rechtsprechung-red-team-und-qualitaetskontrolle` |
+| 8. Spezialmodule und Schnittstellen | `ampel-zahlen-schwellenwerte-berechnung`, `ausgabengruppen-systematik`, `bei-drohender-zahlungsunfaehigkeit`, `bei-eingetretener-zahlungsunfaehigkeit`, `cash-pooling-konzern`, `drohender-zahlungsunfaehigkeit`, `excel`, `export`, `export-forecast-fortbestehensprognose`, `fortbestehensprognose-international`, `fuer-bankgespraech`, `grundbegriffe-cashflow`, `grundbegriffe-cashflow-kreditlinien`, `insolvenzrecht-liqui-sonderfall`, `kreditlinien-pruefen`, `liqp-bankenreporting-leitfaden`, `liqp-liquiditaetspool-cash-pooling-spezial`, `liqp-liquiditaetspool-cash-rollende-13wochen`, ... plus 14 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

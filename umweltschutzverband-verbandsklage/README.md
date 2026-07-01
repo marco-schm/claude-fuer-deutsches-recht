@@ -52,6 +52,25 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt kei
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage`, `kaltstart-umweltverbandsmandat`, `umwrg-anwendungsbereich-routen` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenauswertung-behoerdenordner`, `anfrage-umweltakte-uvp`, `batteriespeicher-akteneinsicht-erzwing`, `batteriespeicher-einwendung-akteneinsicht`, `batteriespeicher-gutachten-zerlegen`, `bebauungsplan-akteneinsicht-erzwingen`, `bebauungsplan-gutachten-eilantrag`, `flughafenausbau-akteneinsicht-gutachten`, `flughafenausbau-gutachten-zerlegen`, `hafenvertiefung-akteneinsicht-erzwinge`, `hafenvertiefung-gutachten-eilantrag`, `industrieanlage-akteneinsicht-gutachten`, `industrieanlage-gutachten-zerlegen`, `strassenbau-akteneinsicht-erzwingen`, `strassenbau-gutachten-zerlegen`, `umv-005-uig-anfrage-fuer-umweltakte`, `umv-016-aktenauswertung-behoerdenordner`, `wasserentnahme-akteneinsicht-erzwingen`, ... plus 4 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `batteriespeicher-normenkontrolle`, `bebauungsplan-normenkontrolle-skizzier`, `flughafenausbau-normenkontrolle-skizzi`, `hafenvertiefung-normenkontrolle-skizzi`, `industrieanlage-normenkontrolle-skizzi`, `kostenrisiko-verband`, `strassenbau-eilantrag-normenkontrolle`, `strassenbau-normenkontrolle-skizzieren`, `uvp-pflicht-und-vorpruefung`, `vwgo-normenkontrolle`, `wasserentnahme-eilantrag-normenkontrolle`, `wasserentnahme-normenkontrolle-skizzie`, `windpark-normenkontrolle-nebenbestimmung` |
+| 4. Gestaltung, Strategie und Verhandlung | `batteriespeicher-monitoring-planen`, `bebauungsplan-beteiligung-pruefen`, `bebauungsplan-eilantrag-schreiben`, `bebauungsplan-einwendung-bauen`, `bebauungsplan-klagefrist-sichern`, `bebauungsplan-kommunikation-schaerfen`, `bebauungsplan-monitoring-kommunikation`, `bebauungsplan-nebenbestimmung-fordern`, `flughafenausbau-monitoring-planen`, `industrieanlage-monitoring-planen`, `planfeststellung-angreifen`, `strassenbau-monitoring-planen`, `umv-041-bebauungsplan-beteiligung-pruefen`, `vergleich-und-nebenbestimmungen`, `wasserentnahme-monitoring-planen`, `windpark-monitoring-planen` |
+| 5. Verfahren, Behörde und Gericht | `anerkennung-und-klagebefugnis-pruefen`, `batteriespeicher-eilantrag-schreiben`, `batteriespeicher-klagefrist-sichern`, `einwendungsfrist`, `flughafenausbau-eilantrag-schreiben`, `flughafenausbau-klagefrist`, `hafenvertiefung-eilantrag-schreiben`, `hafenvertiefung-klagefrist-sichern`, `industrieanlage-eilantrag-schreiben`, `industrieanlage-klagefrist`, `strassenbau-klagefrist-sichern`, `umv-002-anerkennung-und-klagebefugnis-pruefen`, `wasserentnahme-klagefrist-sichern`, `windpark-eilantrag-schreiben`, `windpark-klagefrist-sichern` |
+| 6. Ergebnis, Schreiben und Kommunikation | `batteriespeicher-kommunikation-schaerf`, `hafenvertiefung-kommunikation-schaerfe`, `hafenvertiefung-monitoring-kommunikation`, `industrieanlage-kommunikation-schaerfe`, `strassenbau-kommunikation`, `wasserentnahme-kommunikation`, `windpark-kommunikation-schaerfen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `eilrechtsschutz-gegen-vollzug` |
+| 8. Spezialmodule und Schnittstellen | `aarhus-argumentationslinie`, `artenschutz-fachbeitrag-lesen`, `batteriespeicher-beteiligung-pruefen`, `batteriespeicher-nebenbestimmung-forde`, `bimschg-genehmigung-pruefen`, `flughafenausbau`, `flughafenausbau-beteiligung-pruefen`, `flughafenausbau-einwendung-bauen`, `gutachterfragen-formulieren`, `hafenvertiefung-beteiligung-pruefen`, `hafenvertiefung-einwendung-bauen`, `hafenvertiefung-nebenbestimmung-forder`, `industrieanlage-beteiligung-pruefen`, `industrieanlage-einwendung-bauen`, `industrieanlage-nebenbestimmung`, `klimaschutz-und-abwaegung`, `naturschutz-ffh-artenschutz-fachbeitrag`, `oeffentlichkeitsarbeit`, ... plus 17 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

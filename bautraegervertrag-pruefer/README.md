@@ -57,6 +57,23 @@ Rechtsprechung wird nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `fall-fingerabdruck-und-schnelltriage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `agb-klauselkontrolle-beweislast-und-tatsachenbestaetigung`, `kfw-geg-foerderung-und-unterlagenpflicht-650n`, `mabv-agb-klauselmatrix-rot-orange-gruen`, `mabv-ratenplan-sicherheiten-und-notaranderkonto`, `quellenhygiene-rechtsprechungsanker-und-bughunt`, `verbraucherbauvertrag-650i-650u-widerruf-und-unterlagen`, `verhandlung-drei-dokumente-paket` |
+| 3. Prüfung, Anspruch und Subsumtion | `geschaeftsfuehrer-architekt-und-bautenstandshaftung`, `notarhaftung-belehrung-und-streitverkuendung`, `workflow-one-shot-verbraucherpruefung` |
+| 4. Gestaltung, Strategie und Verhandlung | `bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt`, `nachzuegler-altbau-sanierung-und-kaufrecht-werkrecht`, `prozessstrategie-zahlung-feststellung-und-vorschuss`, `unwirksame-abnahmeklauseln-dreissig-jahre-und-nachholung` |
+| 5. Verfahren, Behörde und Gericht | `beurkundung-verbraucherfrist-notar-und-bezugsurkunden` |
+| 8. Spezialmodule und Schnittstellen | `abnahme-gemeinschaftseigentum-schlussrate-und-maengelrechte`, `baubeschreibung-bausoll-und-wohnflaeche`, `baugruppen-gbr-beurkundung-mopeg-und-mabv-abgrenzung`, `din-anerkannte-regeln-technik-und-standardwechsel`, `druckmuster-schluessel-vormerkung-und-zahlung`, `eigentumssicherung-vormerkung-lastenfreistellung-und-insolvenz`, `hoai-technik-baugrund-und-objektueberwachung`, `preisanpassung-315-saldierung-und-loesungsrecht`, `sicherheit-650m-fuenf-prozent-einbehalt-und-buergschaft`, `sonderwuensche-preisanpassung-und-ausstattungswahl`, `verzugsschadenspositionen-berechnung-und-zinsen`, `vollstaendige-fertigstellung-schlussrate-und-aussenanlagen`, `wohnflaeche-toleranz-methode-und-minderung`, `wohnungseigentum-teilungserklaerung-und-erstverwalter` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

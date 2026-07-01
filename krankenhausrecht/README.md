@@ -58,6 +58,25 @@ Dieses Plugin soll keine nicht prüfbaren Fundstellen produzieren. Bei unsichere
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-krankenhausrecht`, `kaltstart-triage`, `qualitaets-und-strukturvorgaben-intake`, `triage-notaufnahme-ueberlastung-dokumentation`, `triage-notaufnahme-vergaberecht-krankenhaus` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aufbewahrung-beweislast-dora-it`, `belegarzt-honorar-patientenrechte`, `datenschutz-krankenhaus-patientenakte-forschung`, `haftpflichtfall-krankenhaus-gutachtenstrategie`, `klage-klinikakten-bescheide-klinikverbund`, `klinikakten-und-bescheide-sortieren`, `livequellen-g-ba-bmg-land-pruefen` |
+| 3. Prüfung, Anspruch und Subsumtion | `geburtshilfe-haftung-hebammen-schnittstelle`, `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung`, `patientenbeschwerde-und-risikomanagement`, `strukturpruefung-ops-telemedizin-krankenhaus` |
+| 4. Gestaltung, Strategie und Verhandlung | `compliance-system-klinik-einkauf-forschung-spenden`, `khentgg-budgetverhandlung-drg-pepp-abgrenzung`, `klinikverbund-fusion-kartell-vergabe-planungsrecht`, `krankenhaus-mvz-gruendung-zulassung-compliance`, `krankenhausfinanzierungsgesetz-khg-grundstruktur`, `landeskrankenhausplan-aufnahme-herausnahme-aenderung`, `patientenrechte-behandlungsvertrag-aufklaerung`, `planfeststellungsbescheid-rechtsbehelf-und-eilrechtsschutz`, `planung-budget-md-krankenhausabrechnung`, `transplantationsrecht-koordination` |
+| 5. Verfahren, Behörde und Gericht | `output-vorstandsvorlage-behoerdenbrief-klage`, `schiedsstellenverfahren-krankenhausentgelt` |
+| 6. Ergebnis, Schreiben und Kommunikation | `barrierefreiheit-krankenhauskommunikation`, `qualitaetsbericht-veroeffentlichungspflichten` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `leistungsgruppen-qualitaetskriterien`, `mindestmengen-g-ba-qualitaetssicherung`, `psychiatrie-psychkg-qualitaets` |
+| 8. Spezialmodule und Schnittstellen | `ambulantes-operieren-arbeitszeit`, `arbeitszeit-bereitschaftsdienst-rufdienst`, `blutprodukte-transfusionsrecht-system-klinik`, `dora-und-it-dienstleister-soweit-einschlaegig`, `entlassmanagement-39-abs-1a-sgb-v`, `forschung-studien-gewaltschutz`, `gewaltschutz-sicherheitsdienst-hausverbot`, `hybrid-drg-insolvenz-intensivmedizin-beatmung`, `insolvenz-eines-krankenhauses-versorgungssicherung`, `intensivmedizin-beatmung-verlegung`, `investitionsfoerderung-einzelfoerderung`, `kinder-und-jugendmedizin-besondere-versorgung`, `kommunale-klinik-krankenhaus-mvz`, `krankenhausapotheke-arzneimittelversorgung`, `krankenhausdigitalisierung-khzg`, `krankenhaushygiene-ifsg-landesrecht`, `krankenhausreform-leistungsgruppen`, `krankenhausseelsorge-besuchsrecht-hausrecht`, ... plus 17 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

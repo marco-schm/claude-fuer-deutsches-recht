@@ -43,6 +43,23 @@ Telekommunikationsrecht ist gemischt: Vertragliche Ansprüche laufen regelmäßi
 
 TKG, Nebengesetze, EU Electronic Communications Code, BNetzA-Verfügungen und Verwaltungspraxis werden live geprüft. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `eu-eecc-router`, `kaltstart-routing`, `routerfreiheit-tk-rufnummernmissbrauch`, `zustaendigkeits-router-bnetza-vg-lg` |
+| 2. Unterlagen, Sachverhalt und Quellen | `beschwerde-tk-beweisplan`, `beweisplan-messung-stoerung-protokoll`, `vorratsdaten-tk-wegerecht` |
+| 3. Prüfung, Anspruch und Subsumtion | `marktanalyse-tk-meldepflicht`, `redteam-regulierungsrisiko` |
+| 4. Gestaltung, Strategie und Verhandlung | `behoerdenkommunikation-kooperationsstrategie`, `glasfaser-tk-infrastruktursharing`, `infrastruktursharing-open-access`, `mindestvertragslaufzeit-tk-umzug`, `umzug-vertragsanpassung` |
+| 5. Verfahren, Behörde und Gericht | `abhoerschnittstellen-sicherheitsbehoerden`, `eilrechtsschutz-bnetza-beschluss`, `output-beschwerde-antrag-klage`, `zivilklage-tk-abhoerschnittstellen` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-tk-anbieterwechsel`, `anbieterwechsel-rufnummernmitnahme`, `anschlussbereitstellung-tk`, `bauarbeiten-kabelschaden`, `bundesnetzagentur-tk-zustaendigkeits`, `callcenter-tk-campusnetze`, `campusnetze-private-5g`, `cloud-tk-cookies`, `cookies-telemedien-ttdsg-tdddg`, `datacenter-tk-eilrechtsschutz`, `entgeltgenehmigung-tk-eu`, `frequenznutzung-tk-frequenzzuteilung`, `frequenzzuteilung-auktionsdesign`, `iot-tk-kartellrecht`, `kartellrecht-schnittstelle-gwb-eu`, `meldepflicht-it-sicherheitsvorfall`, `missbrauchsaufsicht-tk-mitnutzung`, `mitnutzung-gebaeude-netze`, ... plus 21 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

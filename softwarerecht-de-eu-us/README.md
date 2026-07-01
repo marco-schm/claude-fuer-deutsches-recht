@@ -46,6 +46,22 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Konkrete Normen, Guida
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `entwicklungsprojekt-intake`, `kaltstart-triage`, `software-scope-und-rechtsgebiet-router` |
+| 2. Unterlagen, Sachverhalt und Quellen | `beweissicherung-code-repository`, `change-request-matrix-global-computerprogramm`, `compliance-matrix-global`, `datenabruf-api-bedingungen`, `datenbank-und-softwaredaten`, `quellen-und-livecheck-softwarerecht`, `reseller-oem-sbom-software-datenabruf-api`, `software-dokumentation-gui-api-schutz` |
+| 4. Gestaltung, Strategie und Verhandlung | `agile-scrum-audit-klauseln-on-prem`, `audit-klauseln-lizenz`, `license-noncompliance-machine-regulation`, `on-prem-lizenzvertrag`, `rechtsabteilung-data-act-und-cloud-switching-klauseln`, `rechtsabteilung-ki-saas-vertrag-werkvertrag`, `saas-vertrag-b2b`, `werkvertrag-dienstvertrag-software` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `redteam-software-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abnahme-und-acceptance-tests`, `ai-code-generation-ip`, `ai-pair-programming-employment`, `api-license-sdk`, `arbeitnehmer-software-beta-pilot`, `beta-pilot-poc-termsheet`, `bonus-equity-devs-noncompete`, `computerprogramm-69a-urhg-schutz`, `contributor-license-agreement`, `copyleft-data-license-protection-dpa`, `data-act-export-control-freelancer-code`, `data-license-training`, `data-protection-dpa-software`, `dekompilierung-interoperabilitaet-devops`, `devops-cloud-control`, `dual-licensing`, `eidas-electronic-signatures-software`, `employee-invention-employment-contract`, ... plus 67 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

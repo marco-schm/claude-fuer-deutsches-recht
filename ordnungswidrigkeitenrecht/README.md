@@ -52,6 +52,24 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt kei
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-bussgeldverfahren`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `akteneinsicht-beantragen`, `aussenwirtschaft-akteneinsicht-schreiben`, `aussenwirtschaft-beweis-ruegen`, `baurecht-akteneinsicht-schreiben`, `baurecht-zerlegen-akteneinsicht-schreiben`, `datenschutzbussgeld-akteneinsicht-schr`, `datenschutzbussgeld-beweis`, `datenschutzbussgeld-einspruch-begruend`, `datenschutzbussgeld-einstellung-anrege`, `datenschutzbussgeld-frist-pruefen`, `datenschutzbussgeld-gerichtstermin-vor`, `datenschutzbussgeld-mandantenbrief-abgabe`, `datenschutzbussgeld-rechtsbeschwerde-p`, `datenschutzbussgeld-tatbestand`, `datenschutzbussgeld-verjaehrung-berech`, `gewerberecht-akteneinsicht-schreiben`, `gewerberecht-zerlegen-akteneinsicht`, `lebensmittelrecht-akteneinsicht-schrei`, ... plus 11 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `aussenwirtschaft-tatbestand-zerlegen`, `lebensmittelrecht-tatbestand-zerlegen`, `owi-091-aussenwirtschaft-tatbestand-zerlegen`, `strassenverkehr-tatbestand-zerlegen`, `tatbestand-fachgesetz-finden`, `tierschutz-owi-tatbestand-zerlegen`, `umwelt-owi-tatbestand-zerlegen` |
+| 4. Gestaltung, Strategie und Verhandlung | `amtsgericht-hauptverhandlung` |
+| 5. Verfahren, Behörde und Gericht | `aussenwirtschaft-einspruch-einstellung`, `aussenwirtschaft-frist-pruefen`, `aussenwirtschaft-gerichtstermin`, `baurecht-einspruch-begruenden`, `baurecht-frist-strassenverkehr`, `baurecht-gerichtstermin-vorbereiten`, `beschlussverfahren-72-owig`, `bussgeldbescheid-pruefen`, `einspruch-fristgerecht`, `gewerberecht-einspruch-begruenden`, `gewerberecht-frist-umwelt`, `gewerberecht-gerichtstermin-vorbereite`, `jugendliche-im-owi-verfahren`, `lebensmittelrecht-einspruch`, `lebensmittelrecht-frist-pruefen`, `lebensmittelrecht-gerichtstermin`, `nebenfolgen-und-register`, `owi-004-bussgeldbescheid-pruefen`, ... plus 20 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `baurecht-mandantenbrief`, `gewerberecht-mandantenbrief-umwelt`, `lebensmittelrecht-mandantenbrief-schre`, `strassenverkehr-mandantenbrief-schreiben`, `tierschutz-owi-mandantenbrief-schreibe`, `umwelt-owi-mandantenbrief-schreiben` |
+| 8. Spezialmodule und Schnittstellen | `abgabe-an-staatsanwaltschaft`, `anhoerung-richtig-behandeln`, `aufsichtspflichtverletzung-130-owig`, `aussenwirtschaft-einstellung-anregen`, `aussenwirtschaft-rechtsbeschwerde-prue`, `aussenwirtschaft-verjaehrung-berechnen`, `baurecht-einstellung-anregen`, `baurecht-rechtsbeschwerde-pruefen`, `baurecht-ruegen-verjaehrung-berechnen`, `baurecht-verjaehrung-berechnen`, `einziehung-und-verfall-pruefen`, `gewerberecht-einstellung-anregen`, `gewerberecht-rechtsbeschwerde-pruefen`, `gewerberecht-ruegen-verjaehrung-berechnen`, `gewerberecht-verjaehrung-berechnen`, `kostenentscheidung-angreifen`, `lebensmittelrecht-einstellung-anregen`, `lebensmittelrecht-rechtsbeschwerde-pru`, ... plus 32 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

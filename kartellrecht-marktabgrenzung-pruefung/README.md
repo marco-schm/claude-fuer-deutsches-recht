@@ -60,6 +60,25 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 Tragende Aussagen müssen vor der Ausgabe anhand amtlicher Normfassungen, Behördenquellen oder frei zugänglicher Rechtsprechung geprüft werden. Das Prüfwerkzeug ersetzt keine eigene anwaltliche Prüfung im Einzelfall. Kartellrechtliche Marktdefinitionen und Behördenzuständigkeiten sind fallabhängig und können sich nach Markt, Transaktionsstruktur und Jurisdiktion ändern.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `bka-dgcomp-ftc-doj-routing`, `competition-global-kaltstart`, `dokumente-intake`, `einstieg-routing`, `fusionskontrolle-anmeldung-routing`, `kartellrecht-kaltstart-mandat-neu`, `workflow-anschluss-skills-router`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `datenzugang-und-interoperabilitaet`, `disclosure-33g-gwb-akteneinsicht`, `eugh-rechtsprechung-beweislast-jurisdiktion`, `kartellrechtliche-tatbestand-beweis-und-belege`, `konsistenz-formular-portal-und-einreichung`, `marktabgrenzungen-dokumentenmatrix-und-lueckenliste`, `nachfrage-quellenkarte`, `quellen-livecheck`, `raeumlicher-compliance-dokumentation-und-akte`, `rechtsabteilung-meta-plattformdaten-als-kartell-und-datenschutzs`, `rechtsprechung-beweislast-und-darlegungslast`, `sektor-ki-foundation-models-compute-daten`, `spezial-nachfrage-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `1-gwb-kartellverbot-nationale-pruefung`, `art-101-aeuv-kooperationspruefung-einstieg`, `art-101-aeuv-tatbestand-vereinbarung-beschluss-abgestimmte-verha`, `art-arbeitsmarkt-no-aeuv-kooperationspruefung`, `evidenz-qualitaet-bewertung`, `gesamtbewertung-tragfaehigkeit`, `geschaeftsleiterhaftung-kartellverstoss`, `kart-marktanteilsanalyse-leitfaden`, `ki-preisgestaltung-konsistenzpruefung`, `konsistenzpruefung-marktdefinition`, `marktabgrenzung-kontextanalyse-mehrseitige`, `paragraf-18-gwb-pruefung`, `preisalgorithmen-kollusives-risiko`, `red-flags-checkliste`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `competition-compliance-investigation`, `compliance-programm-kartellrecht-mittelstand`, `compliance-schulung-kartellrisiken`, `dawn-raid-kartellbehoerde-sofortplan`, `franchise-vertrag-kartellrecht`, `kartellrechtliche-vertragsklausel`, `pruefinstanz-franchise-vertrag`, `sektor-cloud-infrastruktur-hyperscaler`, `sektor-telekommunikation-infrastruktur-sharing`, `test-verhandlung-vergleich-und-eskalation`, `vergleichsvereinbarung-patent-settlement-pay-for-delay` |
+| 5. Verfahren, Behörde und Gericht | `aeuv-behoerden-gericht-und-registerweg`, `follow-on-klage-bindungswirkung`, `rechtsabteilung-kartellschadenersatz-nach-behoerdenentscheidung`, `sammelklagen-abtretungsmodelle-kartellschaden`, `schiedsverfahren-kartellrecht-einwand-nichtigkeit`, `spezial-pruefinstanz-fristen-form-und-zustaendigkeit`, `ssnip-schriftsatz-brief-und-memo-bausteine` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `angebotsumstellung-evidenz-flags-red-team-korrektur`, `eu-fusionskontrolle-fkvo-zustaendigkeit`, `flags-red-team-und-qualitaetskontrolle`, `fusionskontrolle-gwb-umsatzschwellen`, `fusionskontrolle-modus-geoblocking` |
+| 8. Spezialmodule und Schnittstellen | `19a-gwb-relative-abuse-economic`, `abuse-of-economic-dependence`, `algorithmic-collusion-ai-pricing`, `alleinvertrieb-kundengruppen-alternative`, `alternative-marktdefinition-eng`, `alternative-marktdefinition-weit`, `anmeldepflicht-joint-venture`, `anschluss`, `art-102-aeuv-marktbeherrschung-missbrauch`, `art-aeuv-auswirkungen-marktanteile`, `auswirkungen-marktanteile-marktbeherrschung`, `bietergemeinschaft-vergabekartellrecht-bka`, `bussgeldbemessung-unternehmen-verband`, `cartel-settlement-procedure`, `cluster-und-systemmaerkte`, `competition-board-liability`, `competition-litigation-programm-mittelstand`, `cross-border-dawn-raid-gwb-kartellverbot`, ... plus 228 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

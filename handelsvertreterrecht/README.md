@@ -52,6 +52,25 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Konkrete Normen, Behö
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage`, `maturity-startup` |
+| 2. Unterlagen, Sachverhalt und Quellen | `abrechnung-buchauszug-abschlussprovision`, `abrechnung-und-buchauszug`, `antikorruption-crm-datenschutz-cross-selling`, `auskunft-einsicht-auslaendischer-principal`, `auskunft-und-einsicht`, `beweis-sicherung`, `buchauszug-vollstreckung`, `crm-und-datenschutz`, `datentraeger-rueckgabe`, `email-chat-beweise`, `kundendaten-dsgvo` |
+| 3. Prüfung, Anspruch und Subsumtion | `provisionsanspruch-paragraf87`, `rechtsprechung-livecheck-fristlose-kuendigung`, `sozialversicherung-status`, `statuscheck-paragraf84` |
+| 4. Gestaltung, Strategie und Verhandlung | `ausgleich-ausschlussgruende`, `ausgleich-berechnung`, `ausgleich-im-ma-deal`, `ausgleich-ma-deal-ausgleichsanmeldung`, `ausgleichsanmeldung`, `ausgleichsanspruch-89b`, `compliance-antikorruption`, `handelsvertretervertrag-entwurf`, `nachvertragliche-provision`, `nachvertragliche-provision-rechtsabteilung`, `rechtsabteilung-ausgleichsanspruch-89b-mit-datenbeweis`, `rechtsabteilung-nachvertragliches-wettbewerbsverbot-90a-hgb`, `vergleich`, `vergleich-verjaehrung-vermittlungsvertreter`, `vertragshaendler-abgrenzung`, `vertragsredline` |
+| 5. Verfahren, Behörde und Gericht | `fristlose-kuendigung-89a`, `gerichtsstand`, `handelsregister-gewerbe-handelsvertreter-gmbh`, `handelsregister-und-gewerbe`, `kuendigungsfristen-89`, `provisionsklage`, `schiedsgericht` |
+| 6. Ergebnis, Schreiben und Kommunikation | `kuendigungsschreiben` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `agb-kontrolle`, `rechtsabteilung-einstandszahlung-und-agb-kontrolle`, `redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abschlussprovision`, `abschlussvertreter`, `alleinvertreter`, `alleinvertreter-alters-krankheitskuendigung`, `alters-krankheitskuendigung`, `arbeitnehmeraehnlichkeit`, `auslaendischer-principal`, `automobilhaendler`, `bezirksprovision`, `bezirksprovision-bezirksvertreter-bonus`, `bezirksvertreter`, `bonus`, `cross-selling`, `deutscher-vertreter-ausland`, `deutscher-vertreter-ecommerce-marketplace`, `ecommerce-marketplace`, `einstandspflicht-delcredere`, `einstweiliger-rechtsschutz`, ... plus 66 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

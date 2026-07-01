@@ -197,6 +197,25 @@ neue Position zu erfassen.
   automatisiertes Monitoring koppeln Sie mit dem `regulatorisches-recht`-Plugin.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-router`, `anwendungsfall-triage`, `dokumente-intake`, `einstieg-routing`, `kaltstart-interview`, `ki-folgenabschaetzung-ki-governance-mandat`, `ki-governance-mandatsworkspace-kontexttrennung`, `mandat-arbeitsbereich`, `triage-haftung-versicherung-anwendungsfall`, `workflow-anschluss-skills-router`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `governance-compliance-dokumentation-und-akte`, `inventar-dokumentenmatrix-und-lueckenliste`, `monitoring-quellenkarte`, `quellen-livecheck`, `rechtsquellen-sonderfall-edge-case`, `regulierungs-luecken-analyse`, `spezial-monitoring-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `werbung-beweislast-und-darlegungslast`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `dpia-risikoampel-und-gegenargumente`, `fristen-risikoampel-mandantenkommunikation`, `inventar-kontrollen-konformitaetsbewertung`, `ki-anbieter-pruefung`, `ki-haftung-und-versicherung`, `ki-hochrisiko-anhang-iii-pruefen`, `kig-konformitaetsbewertung-risikobewertung`, `kig-risikobewertung-hochrisiko-leitfaden`, `rollen-rasci-hochrisiko-anhang-incident`, `spezial-pruefung-internationaler-bezug-und-schnittstellen` |
+| 4. Gestaltung, Strategie und Verhandlung | `drift-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `review-schriftsatz-brief-und-memo-bausteine`, `vendor-behoerden-gericht-und-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `marketing-mandantenkommunikation-entscheidungsvorlage`, `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `konformitaetsbewertung-red-team-und-qualitaetskontrolle`, `review-richtlinie`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `anbieter-mehrparteien-konflikt-und-interessen`, `anpassen`, `case-dpia-drift`, `dsgvo-governance-inventar`, `gpai-modelle-ki-anbieter-arbeitsrecht`, `ki-arbeitsrecht-mitbestimmung`, `ki-incident-management-art-73`, `ki-inventar-marketing-werbung-rote-linien`, `ki-marketing-und-werbung`, `ki-rote-linien-art-5-pruefen`, `kig-ai-act-rollenmodell-bauleiter`, `kig-foundation-model-anbieterpflichten-spezial`, `richtlinie-zahlen-schwellen-und-berechnung`, `richtlinien-monitor-vorlage-anbieter`, `richtlinien-vorlage`, `rollenmodell-use-case-vendor`, `use-case-risk-classification`, `vo-pflichtenpyramide-kig-ai-foundation` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

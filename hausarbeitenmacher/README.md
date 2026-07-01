@@ -236,6 +236,25 @@ Sämtliche Zitierweise-Vorgaben folgen `references/zitierweise.md` des übergeor
 Eine Arbeit, die die Lehrkraft beeindruckt, **gerade weil Du gegen sie argumentiert hast** — aber mit so guten Argumenten, dass sie es Dir nicht übel nimmt, sondern respektiert. Das ist die Königsklasse. Sie ist erlernbar.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `didaktisches-erstpruefung-und-mandatsziel`, `dokumente-intake`, `einstieg-routing`, `fachgebiet-routing-zivil-oeffentlich-straf`, `hausarbeit-start`, `hausarbeit-workflow-start`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `adressaten-formular-portal-und-einreichung`, `gutachtenstil-vs-haus-fussnotenstil`, `haus-literaturrecherche-leitfaden`, `hausarbeit-quellenrecherche-rspr-literatur`, `juristische-liefert-beweislast-rechtstheorie`, `liefert-beweislast-und-darlegungslast`, `oeffentliches-quellenkarte`, `quellen-livecheck`, `quellenrecherche-rechtsprechung-literatur`, `seminararbeiten-dokumentenmatrix-und-lueckenliste`, `spezial-oeffentliches-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `fuehrt-risikoampel-und-gegenargumente`, `haus-plagiatscheck-themaeingrenzung`, `strafrecht-tatbestand-rechtswidrigkeit-schuld`, `subsumtion-schritt-verfassungsrecht`, `verfassungsrecht-grundrechtspruefung`, `zivilrecht-anspruchsgrundlagen-pruefung` |
+| 4. Gestaltung, Strategie und Verhandlung | `bearbeitungsplan-erstellen`, `gliederung-mit-tiefenstruktur`, `professor-erkennen-und-strategie`, `strategie-fehlerkatalog`, `zivilrecht-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `durch-schriftsatz-brief-und-memo-bausteine`, `hausarbeiten-fristen-form-und-zustaendigkeit`, `sokratisch-behoerden-gericht-und-registerweg`, `spezial-durch-schriftsatz-brief-und-memo-bausteine` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `behutsame-frech-haeufige-fehler`, `haeufige-fehler-vermeiden`, `selbstkontrolle-vor-abgabe`, `spezial-strategie-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `aufgabenstellung-erfassen-fachgebiet`, `ausfluegen-didaktisches-durch`, `europarecht-anwendbarkeit-hausarbeiten`, `europarecht-interessen-fertigen-sonderfall`, `fertigen-sonderfall-und-edge-case`, `haus-fussnotenstil-spezial`, `haus-themaeingrenzung-bauleiter`, `meinungsstreit-darstellen`, `methodenlehre-auslegung-oeffentliches`, `oeffentliches-recht-statthaft-zulaessig-begruendet`, `rechtstheorie-internationaler-bezug-und-schnittstellen`, `rechtstheorie-rechtsphilosophie-seminararbeit`, `schleimerei-seminararbeiten-sokratisch`, `seminararbeit-modus`, `strafrecht-zivilrecht-rechtswidrigkeit`, `zitierweise-jura-fundstellen` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

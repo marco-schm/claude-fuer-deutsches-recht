@@ -156,6 +156,25 @@ Apache-2.0 OR MIT. Siehe `LICENSE-APACHE` und `LICENSE-MIT` im Repository-Wurzel
 Dieses Plugin folgt der einheitlichen Versionierung des Repositories `claude-fuer-deutsches-recht`. Die aktuelle Version steht in `.claude-plugin/plugin.json`.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-drafting-kommandocenter`, `kaltstart-risikoampel-und-gegenargumente`, `orientierung-drafting-partner-kommentar`, `workflow-kaltstart-und-routing`, `writing-dokumente-intake`, `writing-einstieg-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `dokumentarchitektur-vertrag-englischer`, `gutachten-internes-ip-rechteuebertragung`, `legal-tatbestand-beweis-und-belege`, `verweis-querverweis-dokument-finish`, `word-dokument-finish-und-layout`, `workflow-unterlagen-lueckenliste`, `writing-unterlagen-luecken` |
+| 3. Prüfung, Anspruch und Subsumtion | `anspruchsgrundlage-rechtsfolge-b2b-klauseln`, `haftungsausschluss-haftungsbegrenzung` |
+| 4. Gestaltung, Strategie und Verhandlung | `agb-konforme-klauseln-305-310-bgb`, `b2b-vs-b2c-klausel-strategie`, `boilerplate-klauseln-definitionen`, `definitionen-klauseln-stringent`, `englischer-vertrag-deutsches-recht`, `klausel-bibliothek-kuendigungsklauseln`, `kuendigungsklauseln-und-vertragsbeendigung`, `term-sheet-vertragsstrafe-bgb`, `vertragsstrafe-339-bgb` |
+| 5. Verfahren, Behörde und Gericht | `anwaltsschreiben-aussergerichtlich`, `bedingungen-aufschiebend-aufloesend-fristen`, `klage-drafting-mandantenmemo-partner`, `klageerwiderung-substantiiertes-bestreiten`, `schriftsatz-ueberarbeiten-richterlesbar` |
+| 6. Ergebnis, Schreiben und Kommunikation | `argumentationsarchitektur-schreiben`, `mandantenmemo-und-partner-update` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `entwurfscheck-aktenabgleich-red-team` |
+| 8. Spezialmodule und Schnittstellen | `bedingungen-aufschiebend`, `bilingual-drafting-cowork-cloud`, `bilinguales-writing-englische-vertraege`, `cowork-cloud-kollaboration-drafting`, `defensive-drafting-deutscher-kanzleistil`, `deutscher-kanzleistil-kalibrieren`, `drafting-prinzipien-finaler-writing`, `englische-vertraege-deutsches-recht`, `finaler-writing-quality-gate`, `force-majeure-geheimhaltung-nda`, `geheimhaltung-nda-vertraulichkeit`, `german-agb-konforme`, `ip-rechteuebertragung-und-lizenzen`, `lawyers-legal`, `partner-kommentar-umsetzen`, `revisions-prozess-ueberarbeiten-richterlesbar`, `stil-und-ton-juristische-texte`, `transparenzgebot-bgb-us-uk`, ... plus 2 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

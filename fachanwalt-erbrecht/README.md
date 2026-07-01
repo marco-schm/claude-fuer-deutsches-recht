@@ -56,6 +56,25 @@ Plugin Fachanwalt für Erbrecht. Orientierung BGB Erbrecht §§ 1922 ff. Pflicht
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erbfall-intake-und-nachlassordnung`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-erbrecht-orientierung`, `mandat-einordnen-bearbeitungsroute`, `mandat-triage-erbrecht`, `spezial-erbfall-intake-und-nachlassordnung`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `belegmatrix-sonderfall-edge-case`, `chronologie-beweislast-und-darlegungslast`, `erbrecht-tatbestand-beweis-und-belege`, `erbvo-quellenkarte`, `pflichtteil-auskunft-wertermittlung`, `pflichtteil-dokumentenmatrix-und-lueckenliste`, `pflichtteil-vaterschaft-verjaehrung-und-auskunft`, `progressionsoptimierung-formular-portal-und-einreichung`, `quellen-livecheck`, `rechtsquellen-fehlerkatalog`, `spezial-belegmatrix-sonderfall-und-edge-case`, `spezial-chronologie-beweislast-und-darlegungslast`, `spezial-erbrecht-tatbestand-beweis-und-belege`, `spezial-erbvo-livequellen-und-rechtsprechungscheck`, `spezial-pflichtteil-dokumentenmatrix-und-lueckenliste`, `spezial-progressionsoptimierung-formular-portal-und-einreichung`, `spezial-steuerrecht-compliance-dokumentation-und-akte`, `steuerrecht-compliance-dokumentation-und-akte`, ... plus 3 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `erb-erstgespraech-checkliste`, `erb-pflichtteilsanspruch-berechnung-spezial`, `livecheck-mandantenkommunikation-entscheidungsvorlage`, `nachlassinsolvenz-erbenhaftung-begrenzen`, `spezial-livecheck-mandantenkommunikation-entscheidungsvorlage`, `spezial-testament-risikoampel-und-gegenargumente`, `testament-risikoampel-und-gegenargumente`, `testamentsvollstrecker-kontrolle-haftung`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `erbschaftsteuer-verhandlung-vergleich-und-eskalation`, `fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft`, `spezial-erbschaftsteuer-verhandlung-vergleich-und-eskalation`, `vergleichsverhandlung-strategie`, `verhandlung-mediation-erbengemeinschaft` |
+| 5. Verfahren, Behörde und Gericht | `bgb-fristen-form-und-zustaendigkeit`, `erbschein-antrag`, `erbschein-behoerden-gericht-und-registerweg`, `fachanwalt-erbrecht-erbschein-antrag`, `fachanwalt-erbrecht-testamentsvollstreckung`, `pflichtteilsergaenzung-frist-naechster-schritt`, `pflichtteilsergaenzung-zehnjahresfrist-bgh-iv-zr-249-15`, `schriftsatzkern-substantiierung`, `spezial-erbschein-behoerden-gericht-und-registerweg`, `spezial-pflichtteilsergaenzung-frist-naechster-schritt`, `testamentsvollstreckung`, `testamentsvollstreckung-vergutung` |
+| 6. Ergebnis, Schreiben und Kommunikation | `fachanwalt-erbrecht-testamentsentwurf`, `output-waehlen`, `testamentsentwurf`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `spezial-rechtsquellen-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `berater-mehrparteien-konflikt-und-interessen`, `digitaler-nachlass-facebook-bgh-iii-zr-183-17`, `ehegattentestament-bindungswirkung`, `erb-einfuehrung-erbfolge-system`, `erb-erbschaftsteuer-progressionsoptimierung-spezial`, `erb-internationales-erbrecht-spezial`, `erb-nachlassinventar-erstellung`, `erb-testamentsformen-grundzuege`, `erb-unternehmensnachfolge-spezial`, `erbauseinandersetzung-textbausteine`, `erbengemeinschaft-blockade-auseinandersetzung`, `erbschaftsausschlagung`, `erbschein-einziehung-paragraf-2361-bgb-olg-muenchen-31-wx-275-19`, `erbverzicht-pflichtteilsverzicht`, `fachanwalt-erbrecht-erbschaftsausschlagung`, `fachanwalt-erbrecht-krypto-wallet-nachlass-multisig`, `fachanwalt-erbrecht-pflichtteilsberechnung`, `fachanwalt-erbrecht-pflichtteilsergaenzung-2325`, ... plus 14 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

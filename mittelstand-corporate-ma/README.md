@@ -126,6 +126,25 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 - Public M&A, MAR, WpÜG, Kartellrecht, Investitionskontrolle, Sanktionen, StaRUG, Zahlungsunfähigkeit und Überschuldung sind rote Schwellen.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `beirat-kaltstart-und-zielbild`, `beirat-startup-investor-streit-gesellschafter`, `datenraum-aufbau-gap-deal-intake-team`, `deal-intake`, `kaltstart`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `beirat-datenschutz-ki-deadlock-mechanik`, `beirat-gmbh-zustimmungskatalog-und-konfliktmatrix`, `datenqualitaet-xai-qualitaetskontrolle`, `datenraum-gap-clean-room`, `mittelstand-ma-aktenanlage`, `tabellenreview-3d-datenraum`, `wi-insurance-aktenanlage-erechnung-gobd` |
+| 3. Prüfung, Anspruch und Subsumtion | `beirat-haftung`, `vertragsmarkup-key-beirat-haftung-billing` |
+| 4. Gestaltung, Strategie und Verhandlung | `beirat-amtszeit-rotation-bank-sanierung`, `beirat-bank-und-sanierung`, `beirat-budget-und-businessplan`, `beirat-compliance-und-internal-investigation`, `beirat-musterklauseln`, `steps-plan-pmo`, `teaser-processdocs-transaktionsstruktur`, `transaktionsstruktur` |
+| 5. Verfahren, Behörde und Gericht | `beirat-beschlussfassung`, `beirat-beschlussmaengel-bestellung-abberufung`, `beirat-private-equity-register-notar`, `beirat-register-und-notar`, `gesellschaftsrecht-register`, `handelsregisterabruf`, `mittelstand-ma-fristen-cp-kalender` |
+| 6. Ergebnis, Schreiben und Kommunikation | `spa-apa-entwurf` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `beirat-red-team-satzung`, `mittelstand-ma-tabellenreview`, `umwandlungssteuerrecht-tabellenreview` |
+| 8. Spezialmodule und Schnittstellen | `automation-monitoring`, `beirat-abgrenzung-aufsichtsrat`, `beirat-beratungsfunktion`, `beirat-bestellung-und-abberufung`, `beirat-deadlock-mechanik`, `beirat-entscheidungsbefugnisse`, `beirat-fakultativer-aufsichtsrat-52-gmbhg`, `beirat-familiengesellschaft`, `beirat-geschaeftsfuehrerabberufung`, `beirat-geschaeftsfuehrerbestellung`, `beirat-geschaeftsordnung`, `beirat-immobilien-investitionen`, `beirat-informationsrechte`, `beirat-insolvenznaehe`, `beirat-interessenkonflikte`, `beirat-katalog-wesentlicher-kontrollfunktion`, `beirat-kontrollfunktion`, `beirat-mitbestimmung-abgrenzung`, ... plus 48 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

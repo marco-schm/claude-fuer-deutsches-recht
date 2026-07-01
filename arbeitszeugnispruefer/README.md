@@ -72,6 +72,22 @@ Folgen einer Einstufung als Hochrisiko-KI können sein: Pflicht zu menschlicher 
 Generischer Pruefstand, alle Angaben ohne Gewähr. Jede Nutzerin und jeder Nutzer prüft den Pruefbericht auf Plausibilität und Eignung im konkreten Einzelfall. Keine Rechtsberatung. Keine Garantie für Vollständigkeit oder Aktualität der Rechtsprechung. Bei streitigen Fällen Fachanwalt für Arbeitsrecht hinzuziehen.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `intake-und-stammdaten-pruefen` |
+| 2. Unterlagen, Sachverhalt und Quellen | `beweislast-bag-9-azr-584-13` |
+| 4. Gestaltung, Strategie und Verhandlung | `klagestrategie-und-vollstreckung` |
+| 6. Ergebnis, Schreiben und Kommunikation | `aeussere-form-und-briefkopf`, `aufforderungsschreiben-berichtigung`, `mandantenbericht-erstellen` |
+| 8. Spezialmodule und Schnittstellen | `ampel-einschaetzung-pro-satz`, `auslassungen-erkennen`, `beendigungsgrund-pruefen`, `doppelboeden-und-verneinungen`, `einfuehrung-pruefauftrag`, `frequenzadverbien-pruefen`, `fuehrungskraft-verhalten-pruefen`, `geheimcodes-katalog`, `note-1-formeln-erkennen`, `note-2-formeln-erkennen`, `note-3-formeln-erkennen`, `note-4-formeln-erkennen`, `note-5-formeln-erkennen`, `notenstufen-bag-9-azr-386-10`, `personenreihenfolge-pruefen`, `rollen-und-modus-wahl`, `schaufenster-und-drift-erkennen`, `schlussformel-notenwirkung-bewerten`, ... plus 6 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

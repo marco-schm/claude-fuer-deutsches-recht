@@ -102,6 +102,25 @@ Dieses Plugin ist **vollständig freistehend**. Es verweist nicht auf andere Plu
 - Keine CBAM-Aussage ohne Warencode, Warenmenge, Emissionsdatenquelle und sichtbare Annahmen.
 - Bei Prüfung, Anhörung, Durchsuchung, Presseanfrage oder möglichem Verstoß: erst Legal Hold, Zuständigkeiten und Verteidigungsstrategie.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aussenwirtschaft-cbam-lieferantendaten-emissionen`, `aussenwirtschaft-eori-registrierung-stammdaten`, `aussenwirtschaft-erp-stammdaten-kontrollpunkte`, `aussenwirtschaft-legal-hold-datenextraktion` |
+| 3. Prüfung, Anspruch und Subsumtion | `aussenwirtschaft-atlas-ausfuhranmeldung-check`, `aussenwirtschaft-catch-all-pruefung`, `aussenwirtschaft-investitionspruefung-bmwk`, `aussenwirtschaft-pruefung-ermittlung`, `aussenwirtschaft-zollpruefung-aussenpruefung`, `aussenwirtschaft-zollschuld-entstehung-haftung` |
+| 4. Gestaltung, Strategie und Verhandlung | `aussenwirtschaft-antidumping-ausgleich`, `aussenwirtschaft-distributor-vertrag-exportkontrolle`, `aussenwirtschaft-exportkontrollklauseln-vertrag`, `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`, `aussenwirtschaft-kritische-infrastruktur-investment` |
+| 5. Verfahren, Behörde und Gericht | `aussenwirtschaft-atlas-einfuhr-abgabenbescheid`, `aussenwirtschaft-bafa-elan-k2-antragspaket`, `aussenwirtschaft-bafa-nullbescheid-azg`, `aussenwirtschaft-versandverfahren-ncts`, `aussenwirtschaft-zollverfahren-bewilligungen`, `bafa-nullbescheid-catch-all-cbam`, `vzta-antrag-warennummer-hs-wto-handelspolitik` |
+| 6. Ergebnis, Schreiben und Kommunikation | `aussenwirtschaft-ausfuhrverantwortlicher-organisation`, `aussenwirtschaft-cbam-berichtspflichten-uebergang` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `asset-freeze-atlas-ausfuhranmeldung-audit`, `aussenwirtschaft-antidumping-erstattung-review`, `aussenwirtschaft-audit-trail-freigaben`, `aussenwirtschaft-exportkontrolle-dual-use`, `aussenwirtschaft-finanzsanktionen-eigentum-kontrolle`, `aussenwirtschaft-incoterms-exportkontrolle`, `aussenwirtschaft-know-your-customer-exportkontrolle`, `aussenwirtschaft-schulung-exportkontrolle-rollout`, `aussenwirtschaft-screening-tool-validierung`, `aussenwirtschaft-vzta-antrag-qualitaetsgate`, `aussenwirtschaft-zoll-straf-bussgeld-selbstkorrektur`, `incoterms-exportkontrolle-internal`, `straf-bussgeld-selbstkorrektur` |
+| 8. Spezialmodule und Schnittstellen | `allgemeingenehmigung-agg-antidumping`, `aussenwirtschaft-abfallverbringung`, `aussenwirtschaft-aeo-bewilligung-monitoring`, `aussenwirtschaft-aktive-veredelung`, `aussenwirtschaft-allgemeingenehmigung-agg-finder`, `aussenwirtschaft-aml-kyc-finanzsanktionen`, `aussenwirtschaft-aml-kyc-sanktionen`, `aussenwirtschaft-antidumping-taric-massnahmen`, `aussenwirtschaft-asset-freeze-sofortmassnahmen`, `aussenwirtschaft-awv-beteiligungsmeldungen`, `aussenwirtschaft-awv-bundesbank`, `aussenwirtschaft-awv-z4-z10-z11-meldungen`, `aussenwirtschaft-bafa-genehmigungen`, `aussenwirtschaft-bafa-genehmigungen-cbam-co2`, `aussenwirtschaft-cbam-co2-zoll`, `aussenwirtschaft-cbam-zertifikate-kosten`, `aussenwirtschaft-chemikalien-reach-cites`, `aussenwirtschaft-chemikalien-reach-pic`, ... plus 68 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

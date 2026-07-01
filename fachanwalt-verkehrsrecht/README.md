@@ -56,6 +56,25 @@ Plugin Fachanwalt für Verkehrsrecht. Orientierung StVG StVO PflVG VVG-Bezüge. 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-verkehrsrecht-orientierung`, `mandat-triage-verkehrsrecht`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `fachanwalt-verkehrsrecht-tempo-messung-beweis`, `fahrerlaubnis-compliance-dokumentation-und-akte`, `quellen-livecheck`, `sachschaden-quellenkarte`, `spezial-sachschaden-livequellen-und-rechtsprechungscheck`, `stgb-formular-portal-und-einreichung`, `stvo-dokumentenmatrix-und-lueckenliste`, `tempo-messung-beweis`, `unfallregulierung-beweislast-und-darlegungslast`, `unterlagen-luecken`, `verkehrsrecht-tatbestand-beweis-und-belege`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `pflvg-risikoampel-und-gegenargumente`, `unfall-haftungsquote-berechnen`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich`, `personen-verhandlung-vergleich-und-eskalation`, `vergleichsverhandlung-strategie`, `versicherer-quotenverhandlung-vergleich` |
+| 5. Verfahren, Behörde und Gericht | `bezuege-behoerden-gericht-und-registerweg`, `bussgeld-einspruch-pruefen`, `bussgeldbescheid-pruefen`, `fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen`, `schriftsatzkern-substantiierung`, `stvg-fristen-form-und-zustaendigkeit`, `verkehr-fristennotiz-und-naechster-schritt`, `verkehrsunfall-schriftsatz-brief-und-memo-bausteine`, `vkr-blitzer-messverfahren-spezial`, `vkr-bussgeldverfahren-grundzuege` |
+| 6. Ergebnis, Schreiben und Kommunikation | `kanzlei-mandantenkommunikation-entscheidungsvorlage`, `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `schnittstelle-fehlerkatalog`, `spezial-schnittstelle-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `315c-internationaler-bezug-und-schnittstellen`, `autonom-abschlussprodukt-und-uebergabe`, `blitzer-messung-paragraf-3-stvo`, `bussgeld-zahlen-schwellen-und-berechnung`, `dieselskandal-paragraf-826-bgb`, `einstieg-in-den-skill-verbund-verkehrsrecht`, `fachanwalt-verkehr-autonom-1d-stvg`, `fachanwalt-verkehrsrecht-fahrerlaubnis-entzug`, `fachanwalt-verkehrsrecht-mpu-vorbereitung`, `fachanwalt-verkehrsrecht-regulierungsanforderung`, `fachanwalt-verkehrsrecht-unfallregulierung-quoten`, `fahrerlaubnis-entzug`, `fahrerlaubnis-entzug-paragraf-3-stvg`, `haftpflicht-paragraf-115-vvg`, `kaskoversicherung-paragraf-81-vvg-bgh-iv-zr-25-21`, `kfz-handel-paragraf-434-bgb`, `mpu-vorbereitung`, `personenschaden-paragraf-249-bgb`, ... plus 14 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

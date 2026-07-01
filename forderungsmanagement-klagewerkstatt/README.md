@@ -120,6 +120,25 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `erstpruefung-rollen-mandatsziel`, `kaltstart-triage`, `spezial-klagewerkstatt-erstpruefung-und-mandatsziel`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenordner-erstlekture`, `belegte-compliance-aktenvermerk`, `chronologie-belegmatrix`, `forderungen-interessen-matrix`, `klagefreigabe-belegte-forderung`, `mahnverfahren-beweislast-darlegungslast`, `mahnvorlauf-dokumentenmatrix`, `quellenkarte`, `spezial-belegte-compliance-dokumentation-und-akte`, `spezial-forderungsmanagement-tatbestand-beweis-und-belege`, `spezial-klage-formular-portal-und-einreichung`, `spezial-klagefreigabe-belegte-forderung`, `spezial-klare-livequellen-und-rechtsprechungscheck`, `spezial-mahnverfahren-beweislast-und-darlegungslast`, `spezial-mahnvorlauf-dokumentenmatrix-und-lueckenliste`, `tatbestand-beweis-belege`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `anspruchsschriftsatz-bausteine`, `fristen-risikoampel`, `inkasso-risikoampel`, `spezial-anspruchs-schriftsatz-brief-und-memo-bausteine`, `spezial-inkasso-risikoampel-und-gegenargumente`, `spezial-zustaendigkeitspruefung-fristen-form-und-zustaendigkeit`, `zustaendigkeitspruefung-mahngericht` |
+| 4. Gestaltung, Strategie und Verhandlung | `forderung-aus-werkvertrag-bgb-bau`, `forderung-werkvertrag-bau`, `gatekeeper-verhandlung-vergleich`, `spezial-gatekeeper-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `fmkw-mahnverfahren-bauleiter`, `fmkw-verbraucherklage-cookies-rdg-spezial`, `forderung-mietruckstand-zahlungsklage`, `forderung-mietrueckstand-zahlungsklage`, `forderung-zwangsvollstreckung-ueberblick`, `inkasso-zahlungsklage-ersteller`, `klage-aus-eigenem-skill`, `klage-einreichungslogik`, `klagevorlage-aus-eigenen-mustern`, `kostenfeststellungsklage-verzugsschaden-erledigung`, `mahnbescheid-online`, `mahnbescheid-online-mb`, `mahnung-aussergerichtlich-stufenmodell`, `mahnverfahren-bauleiter`, `spezial-zahlungsklage-behoerden-gericht-und-registerweg`, `verbraucherklage-rdg-grenzen`, `vollstreckungsbescheid-folgen`, `vollstreckungsbescheid-und-folgen`, ... plus 3 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandantenkommunikation`, `output-waehlen`, `spezial-fmkw-mandantenkommunikation-entscheidungsvorlage` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `fehlerkatalog`, `forderung-gegen-gesellschafter-13-gmbhg`, `forderung-gegen-gmbh-gesellschafter`, `forderung-gegen-insolventen-schuldner`, `forderung-gegen-verbraucher`, `redteam-qualitygate`, `spezial-freigegeben-red-team-und-qualitaetskontrolle` |
+| 8. Spezialmodule und Schnittstellen | `faellige-zahlen-schwellen`, `fmkw-saumselig-streitig-erfahrung-spezial`, `fmkw-titulierung-streckung-leitfaden`, `forderung-anwaltshonorar-rvg`, `forderung-arzthonorar-goae`, `forderung-im-ausland-vollstrecken`, `forderung-internationaler-bezug`, `forderungsaufnahme`, `forderungsmanagement-aufnahme`, `saumselig-sonderfall-edge-case`, `spezial-faellige-zahlen-schwellen-und-berechnung`, `spezial-forderungen-mehrparteien-konflikt-und-interessen`, `spezial-saumselig-sonderfall-und-edge-case`, `spezial-werden-internationaler-bezug-und-schnittstellen`, `titulierung-streckung-leitfaden`, `urkundenprozess-pruefen`, `verjaehrung-pruefen`, `workflow-orchestrierung`, ... plus 1 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -89,6 +89,25 @@ Das Plugin arbeitet titelorientiert und drittschuldnerorientiert. Es prüft erst
 
 Das Plugin trifft keine unüberprüfte Vollstreckungsentscheidung und ersetzt keine fachliche Prüfung. Bei streitigen Rechtsfragen (Klauselgegenklage § 768 ZPO, Vollstreckungsabwehrklage § 767 ZPO, Drittwiderspruch § 771 ZPO), bei Räumung mit Härtefall, bei ZVG-Anträgen mit Rangstreit und bei grenzüberschreitender Vollstreckung (EU-Kontenpfändungsverordnung Nr. 655/2014, EU-Zustellungs-VO 2020/1784) verlangt es ausdrücklich menschliche Freigabe. Reform-Übergänge ZVollstrDigitG sind datumsabhängig gesteuert und müssen bei jedem Antrag gegen das tatsächliche Inkrafttretensdatum laut BGBl-Verkündung gegengeprüft werden.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing`, `zwangsvollstreckung-erstpruefung-und-mandatsziel` |
+| 2. Unterlagen, Sachverhalt und Quellen | `kontensuche-quellenkarte`, `pfueb-raeumung-schuldnerschutz-beweislast`, `quellen-livecheck`, `raeumung-compliance-dokumentation-und-akte`, `raeumung-tabellenauszug-inso`, `schuldnerschutz-beweislast-und-darlegungslast`, `spezial-kontensuche-livequellen-und-rechtsprechungscheck`, `spezial-vermoegensauskunft-zahlen-schwellen-und-berechnung`, `tabellenauszug-201-inso`, `unterlagen-luecken`, `vermoegensauskunft-gv`, `vermoegensauskunft-vollstreckungsbescheid`, `vollstreckungsbescheid-dokumentenmatrix-und-lueckenliste`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste`, `zwv-pfaendung-konto-vollstreckungsschutz` |
+| 3. Prüfung, Anspruch und Subsumtion | `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `802l-verhandlung-vergleich-und-eskalation`, `titel-klausel-zustellung` |
+| 5. Verfahren, Behörde und Gericht | `arbeit-schriftsatz-brief-und-memo-bausteine`, `mahn-fristen-form-und-zustaendigkeit`, `mahnbescheid-fristennotiz-zv-titel-zv`, `mahnbescheid-online-mobiliar-gv`, `vollstreckungsbescheid-zv`, `vollstreckungsschutz-haertefall-765a`, `vollstreckungstitel-sonderfall-und-edge-case`, `zpo-zwangsvollstreckung-zv-abwehr`, `zvg-antrag-glaeubiger`, `zwv-vollstreckungsschutz-billigkeit-spezial`, `zwv-vollstreckungstitel-bauleiter` |
+| 6. Ergebnis, Schreiben und Kommunikation | `haertefall-mandantenkommunikation-entscheidungsvorlage`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `765a-fehlerkatalog`, `mandantenkommunikation-redteam-qualitygate`, `spezial-765a-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abwehr-schuldner`, `bank-haertefall-inso`, `elektronische-zustellung-eu`, `eu-kontenpfaendung-655-2014`, `inso-internationaler-bezug-und-schnittstellen`, `kommandocenter`, `kontenpfaendung-notar-interessen-online`, `kontensuche-drittschuldner`, `mobiliar-gv-auftrag`, `notar-mehrparteien-konflikt-und-interessen`, `notarielle-urkunde-grundschuld`, `online-abschlussprodukt-und-uebergabe`, `pfaendungstabelle-pfueb-arbeitsentgelt`, `pfueb-802l-arbeit`, `pfueb-arbeitsentgelt`, `pfueb-bank`, `zwv-zwangsversteigerung-grundstueck-spezial` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -98,6 +98,20 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 Dual-lizenziert MIT und Apache-2.0.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 3. Prüfung, Anspruch und Subsumtion | `05-est-pruefungsschema`, `06-ust-pruefungsschema`, `08-schaetzung-und-betriebspruefung` |
+| 5. Verfahren, Behörde und Gericht | `01-zulaessigkeit-finanzgerichtsklage`, `02-amtsermittlung-finanzgericht`, `04-steuerbescheid-pruefen`, `09-urteil-finanzgericht-und-revision`, `10-entscheidungsvorschlag-finanzgericht`, `v392-praxisraster-richter-finanzgericht` |
+| 8. Spezialmodule und Schnittstellen | `03-aussetzung-der-vollziehung`, `07-koerperschaft-und-gewerbesteuer`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -69,6 +69,25 @@ Gewissensbegründungen, Gesundheitsdaten, Personalakten, Musterungsunterlagen un
 Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `eingang-und-pk-nachweis`, `kaltstart-triage`, `mehrsprachige-orientierung` |
+| 2. Unterlagen, Sachverhalt und Quellen | `akte-fuer-gericht-aufbauen`, `akteneinsicht-kdv-aktenvernichtung-kdvg`, `aktenvernichtung-kdvg-12`, `aktive-soldaten-prioritaet`, `begruendung-fuer-aktive-soldaten`, `berufliche-folgen-berufssoldaten-kdv-bescheid`, `berufssoldaten-kdv`, `beweislast-und-ueberzeugungsbildung`, `datenschutz-gewissensakte-dienststelle`, `disziplinarrisiken-soldaten`, `formularmythen-social-media`, `fruehere-soldaten-und-erneute-heranziehung`, `lebenslauf-luecken-und-widersprueche`, `nachreichung-fehlender-unterlagen`, `personalakte-und-datenschutz-soldaten`, `personenkennziffer-und-grundakte`, `unterlagenmappe-kdv-verwaltungsakt` |
+| 3. Prüfung, Anspruch und Subsumtion | `ablehnungsbescheid-analyse`, `checkliste-nach-antrag`, `checkliste-vor-antrag`, `rechtsprechung-livecheck-dienstpflichten`, `sicherheitsueberpruefung-und-extremismus`, `status-stellungnahmen-dritter-ungedient-ab` |
+| 4. Gestaltung, Strategie und Verhandlung | `notfallplan-dienstantritt-parteivernehmung` |
+| 5. Verfahren, Behörde und Gericht | `anerkennungsbescheid-gueltigkeit`, `anschreiben-kurz-antrag-bapersbw`, `antrag-bapersbw-form`, `antrag-zur-niederschrift`, `bescheid-archivieren`, `dienstpflichten-waehrend-verfahren`, `einberufung-nach-antrag`, `frist-bei-nachforderung-ein-monat`, `fristenkalender-kdv`, `klage-ohne-berufung`, `minderjaehrige-antragstellung-muendliche`, `musterungsbescheid-bestandskraft`, `sachstandsanfrage-und-frist`, `untaetigkeitsklage-vwgo-75`, `verwaltungsgericht-kdvg-10`, `widerspruch-kdvg-9`, `widerspruch-sonderlagen-ablehnungsbescheid`, `zweitbescheid-bescheinigung` |
+| 6. Ergebnis, Schreiben und Kommunikation | `anwaltlicher-brief-bafza`, `anwaltlicher-brief-bapersbw`, `begruendung-redaktion-ohne-schablone`, `dienststelle-kommunikation`, `disziplinarvorgesetzter-stellungnahme`, `kommunikation-familie-kosten-auslagen`, `stellungnahmen-dritter`, `verwaltungsakt-oder-informelles-schreiben` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `anhoerungsprotokoll-und-korrektur`, `lebensfuehrung-und-plausibilitaet`, `qualitaetsgate-vor-ausgabe` |
+| 8. Spezialmodule und Schnittstellen | `ablehnungsgruende-kdvg-7`, `adressat-und-versandwege`, `aktuelle-lage-2026`, `anerkennung-und-dienstfolgen`, `anerkennung-voraussetzungen`, `angst-karriere-gesundheit-abgrenzen`, `anlagenverzeichnis-kdv`, `arbeitgeber-fehlzeit-argumente-nicht`, `argumente-die-nicht-tragen`, `aufschiebende-wirkung-kdvg-3`, `ausbildungskosten-rueckforderung`, `auslaendischer-wehrdienst-und-asyl`, `ausland-aufenthalt-bafza-entscheidungspfad`, `bafza-entscheidungspfad`, `bedarfswehrpflicht-wpflg-2a`, `befehl-und-gewissenskonflikt`, `begruendung-ehemalige-anerkannte-reservisten`, `begruendung-fuer-reservisten`, ... plus 62 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

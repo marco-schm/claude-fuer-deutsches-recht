@@ -52,6 +52,37 @@ Er arbeitet zweigleisig: verständlich genug für Mandanten, aber präzise genug
 - Gibt es schon einen Bescheid mit Datum, Zugang und Rechtsbehelfsbelehrung?
 - Soll das Ergebnis laienverständlich, anwaltlich, tabellarisch oder als fertiger Antrag/Widerspruch sein?
 
+## Empfohlene Arbeitspfade
+
+| Lage | Starte mit | Dann vertiefen | Typisches Arbeitsprodukt |
+| --- | --- | --- | --- |
+| Noch nicht in Rente, aber Planungsbedarf | `angestellten-rentenfahrplan-erstberatung` | `rentenauskunft-prognose-variantenvergleich`, `wartezeit-35-45-jahre-visualisierung` | Rentenfahrplan mit Varianten, Fristen und Unterlagenliste |
+| Versicherungsverlauf wirkt lückenhaft | `versicherungsverlauf-monatsraster-luecken` | `drv-kontenklaerung-beweisersatz`, `rentenluecken-matrix` | Monatsraster, Nachweisplan und Kontenklärungsantrag |
+| Früher Rentenbeginn steht im Raum | `vorzeitige-altersrente-abschlag-ausgleich` | `freiwillige-beitraege-nachzahlung-entscheidung`, `hinzuverdienst-teilrente-weiterarbeit` | Variantenvergleich mit Abschlag, Ausgleichszahlung und Weiterarbeit |
+| Medizinische Leistungsfähigkeit ist streitig | `erwerbsminderung-reha-gutachtenstrategie` | `widerspruch-sozialgericht-klage`, `red-team-rentenbescheid` | Gutachtenkritik, Beweisfragen und Klage- oder Widerspruchskern |
+| Betriebsrente oder private Rente läuft daneben | `betriebsrente-zusage-unverfallbarkeit` | `private-rentenversicherung-vertragscheck`, `kvdr-nettorente-abzuege` | Mehrsäulenübersicht mit Nettoeffekt und Anbieterfragen |
+| Versorgungswerk und DRV kollidieren | `versorgungswerk-befreiung-angestellt` | `versorgungswerk-doppelversicherung-erstattung`, `versorgungswerk-drv-widerspruch-sozialgericht` | Beschäftigungsbezug-Matrix, Beitragsfluss und Widerspruchsroute |
+| Todesfall oder Hinterbliebenenrente | `hinterbliebene-rente-einkommen` | `tod-im-ausland-hinterbliebene`, `steuer-krankenversicherung-pflegeversicherung-rente` | Anspruchs- und Einkommensübersicht mit Korrekturantrag |
+
+
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `aktenstruktur-und-dokumentenintake`, `angestellten-rentenfahrplan-erstberatung`, `kaltstart-triage`, `rentenantrag-startdatum-auswanderung-rente` |
+| 2. Unterlagen, Sachverhalt und Quellen | `auslandszeiten-eu`, `auslandszeiten-ohne-abkommen-beweisstrategie`, `auslandszeiten-sozialversicherungsabkommen`, `berufswechsel-angestellte-beweisnot`, `beweisnot-eidesstattliche-erklaerung-zeugen`, `dokumente-uebersetzung-doppelversicherung`, `drv-kontenklaerung-beweisersatz`, `internationaler-datenaustausch-formulare`, `kindererziehungszeiten-zeitenklaerung`, `kontenklaerung-drv`, `nachversicherung-beamte-referendare-soldaten`, `oeffentlicher-dienst-pflegezeiten`, `pflegezeiten-rentenpunkte`, `rentenauskunft-prognose-variantenvergleich`, `renteninformation-rentenauskunft`, `rentenluecken-matrix`, `versicherungsverlauf-monatsraster-luecken` |
+| 3. Prüfung, Anspruch und Subsumtion | `aerzte-apotheker-altersrente-langjaehrig`, `altersrente-langjaehrig-besonders-langjaehrig`, `erwerbsminderung-reha-gutachtenstrategie`, `erwerbsminderungsrente-medizinische`, `grundrente-zuschlaege-hinterbliebenenrente`, `hinterbliebene-rente-einkommen`, `hinterbliebenenrente-witwen-waisen`, `krankheit-reha-uebergangsgeld`, `kvdr-nettorente-abzuege`, `private-rentenversicherung-vertragscheck`, `quellen-livecheck-regelaltersrente-vorzeitige`, `regelaltersrente-und-vorzeitige-rente`, `rentenbescheid-widerspruch-rentencheck-fuenf`, `rentencheck-ein-steuer-krankenversicherung`, `rentencheck-fuenf-jahre-vorher`, `tod-im-ausland-hinterbliebene`, `vorzeitige-altersrente-abschlag-ausgleich` |
+| 4. Gestaltung, Strategie und Verhandlung | `beitraege-luecken-und-nachzahlung`, `betriebsrente-anpassung-abfindung`, `betriebsrente-private-krankheit-reha`, `betriebsrente-zusage-unverfallbarkeit`, `freiwillige-beitraege-fremdrentengesetz`, `freiwillige-beitraege-nachzahlung-entscheidung`, `hinzuverdienst-teilrente-datenaustausch`, `hinzuverdienst-teilrente-weiterarbeit`, `mandantenbrief-rentenstrategie-mehrsaeulen`, `riester-basisrente-nettoentscheidung`, `scheidung-versorgungsausgleich-folgen`, `versorgungsausgleich-rentenfolgen` |
+| 5. Verfahren, Behörde und Gericht | `bescheid-widerspruch-klage-sozialgericht`, `versorgungswerk-befreiung-rentenantrag`, `versorgungswerk-drv-widerspruch-sozialgericht`, `versorgungswerk-rentenantrag`, `widerspruch-sozialgericht-klage` |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandantenbrief-verstaendlich-rente` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `red-team-rentenbescheid` |
+| 8. Spezialmodule und Schnittstellen | `anwaelte-versorgungswerk-arbeitslosigkeit`, `arbeitslosigkeit-buergergeld-und-rente`, `auswanderung-rente-ins-ausland-zahlung`, `doppelversicherung-und-erstattung`, `fremdrentengesetz-und-spaetaussiedler`, `lebensbescheinigung-auslandszahlung`, `minijob-midijob-nachversicherung-beamte`, `oeffentlicher-dienst-vbl-und-zusatzversorgung`, `russland-sibirien-scheidung`, `serbien-zeiten-tod-ausland`, `steuer-krankenversicherung-pflegeversicherung-rente`, `versorgungswerk-befreiung-angestellt`, `versorgungswerk-doppelversicherung-erstattung`, `wartezeit-35-45-jahre-visualisierung` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

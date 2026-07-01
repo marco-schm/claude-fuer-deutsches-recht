@@ -91,6 +91,25 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Normen und Rechtspre
 Die 100 Skills sind nicht als lose Liste gedacht, sondern als Verteidigungsmaschine: Kaltstart, Behördenvorfeld, Bußgeld/OWiG, Art.-83-Bemessung, Verwaltungsgericht, EU-One-Stop-Shop, Beweise/Forensik und Output. Jeder Skill soll die Mandantin handlungsfähiger machen und nicht bloß Normen aufsagen.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-verfahrensstand-und-mandatsziel`, `privilege-und-mandatsgeheimnis`, `rechtsweg-router-bussgeld-verwaltungsgericht-zivilverfahren`, `sanktionsmandat-schlussprodukt-planen` |
+| 2. Unterlagen, Sachverhalt und Quellen | `akteneinsicht-49-owig-147-stpo`, `arbeitnehmerdaten-und-betriebsrat-im-sanktionsverfahren`, `aufsichtsbehoerden-auskunftsverlangen-art-58-1`, `besondere-datenkategorien-art-9`, `beweisrecht-stpo-im-owig-datenschutz`, `datenloeschung-vs-beweissicherung`, `datenpanne-vor-bussgeld-selbstmeldung`, `dokumentenmatrix-akteneinsicht-vorlage-und-luecken`, `durchsuchung-beschlagnahme-und-datenzugriff`, `einstweilige-anordnung-123-vwgo-datenschutz`, `internationale-datenpanne-und-multi-notification`, `kirchliche-datenschutzaufsicht-sanktionen`, `loeschungsanordnung-und-datenbestand`, `logfiles-und-technische-beweise`, `normenkollision-geheimnisse-und-datenschutzaufsicht` |
+| 3. Prüfung, Anspruch und Subsumtion | `bussgeldbescheid-65-owig-analyse`, `edsa-und-dsk-praxis-livecheck`, `kosten-auslagen-und-d-und-o-risiko`, `mandantenreport-regulatorische-risikolage` |
+| 4. Gestaltung, Strategie und Verhandlung | `behoerdenstrategie-kooperation-oder-schweigen`, `behoerdenvergleich-erledigung-und-auflagen`, `bussgeldreduzierung-verhandlungspaket`, `hauptverhandlung-71-owig`, `loeschkonzept-und-aufbewahrungsfehler`, `massnahmenplan-als-sanktionsminderung`, `milderung-durch-compliance-vor-dem-vorfall` |
+| 5. Verfahren, Behörde und Gericht | `aufsichtsbehoerden-antwortschreiben`, `behoerdenkommunikation-reputationsschutz`, `behoerdenuntaetigkeit-und-beschwerdegegner`, `bescheid-oder-anhoerung-richtig-lesen`, `beschlussverfahren-72-owig`, `beschwerde-betroffener-behoerdenverfahren`, `einspruch-67-owig-frist-und-form`, `einstellung-anregen-vor-bescheid`, `fristenzentrale-zustellung-und-wiedervorlage`, `fristverlaengerung-behoerde-ohne-nachteile`, `fruehstellungnahme-vor-bussgeldbescheid`, `gerichtstermin-sprechzettel`, `grch-verfahrensgrundrechte`, `ki-tools-im-sanktionsverfahren`, `parallelverfahren-art-82-massenklagen`, `parallelverfahren-strafrecht-42-bdsg`, `sachverstaendige-it-forensik-im-bussgeldverfahren`, `scope-cut-behoerdenfragen-einhegen`, ... plus 5 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `schlussmemo-und-lessons-learned`, `vorstands-und-gf-briefing` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `red-team-vor-jeder-einreichung` |
+| 8. Spezialmodule und Schnittstellen | `anhoerung-55-owig`, `anwesenheit-73-owig-vertretung`, `art-58-anordnung-verwaltungsakt`, `art-78-rechtsschutz-und-betroffenenbeschwerde`, `art-83-abs-2-kriterien-einzeln`, `aufsicht-in-regulierten-branchen`, `aufsichtliche-anordnung-plus-bussgeld-doppelspur`, `auslaendische-mutter-und-deutsche-tochter`, `bestimmtheit-und-ermessen-art-58`, `bfdi-vs-landesaufsicht`, `edpb-04-2022-bemessungsmethodik`, `edpb-art-65-streitbeilegung`, `eugh-vorlage-art-267`, `gewinnabschoepfung-und-finanzieller-vorteil`, `interne-untersuchung-legal-hold`, `irische-dpc-und-deutsche-aufsicht`, `kinder-und-schutzbeduerftige-betroffene`, `lieferanten-und-auftragsverarbeiter-regress`, ... plus 26 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

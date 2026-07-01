@@ -61,6 +61,25 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `fortbestehensprognose-erstpruefung-und-mandatsziel`, `kaltstart-interview`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `fortbestehensdokumentation-insolvenzrecht`, `fp-dokumentation-gerichtsfaehigkeit`, `inso-tatbestand-beweis-und-belege`, `monats-quellenkarte`, `quellen-livecheck`, `sanierungsbausteine-compliance-dokumentation-und-akte`, `selbstdokumentation-dokumentenmatrix-und-lueckenliste`, `spezial-monats-livequellen-und-rechtsprechungscheck`, `spezial-rangruecktritt-formular-portal-und-einreichung`, `starug-beweislast-stundung-red-zwoelf`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `annahmen-sammeln-bilanzieller-status`, `bilanzieller-status-aufnehmen`, `bilanzstatus-risikoampel-und-gegenargumente`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `fbp-integrierte-planung-bauleiter`, `rangruecktritt-sanierungsbausteine`, `sanierungsbausteine-vorschlagen-annahmen`, `zwoelf-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `annahmen-behoerden-gericht-und-registerweg`, `geschaeftsfuehrer-fristen-form-und-zustaendigkeit`, `negativer-fristennotiz-ausloesendes-ereignis`, `plausibilisierung-schriftsatz-brief-und-memo-bausteine`, `spezial-geschaeftsfuehrer-fristen-form-und-zustaendigkeit` |
+| 6. Ergebnis, Schreiben und Kommunikation | `fbp-bankenkommunikation-waiver-integrierte`, `mandantenkommunikation-redteam`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `annahmen-belastbarkeit-plausibilisieren`, `stundung-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `ausloesendes-ereignis-erfassen`, `comfortletter-sonderfall-edge`, `comfortletter-weich-erzeugen`, `eskalation-sonderfall-und-edge-case`, `fbp-stresstest-szenarien-leitfaden`, `fbp-zahlungsunfaehigkeit`, `forderungsverzicht-besserungsschein`, `forderungsverzicht-mandantenentscheidung`, `fp-cash-flow-modell-spezial`, `fp-einfuehrung-pflicht-und-zweck`, `fp-zeitraum-und-szenarien-praxis`, `gesellschafterdarlehen-rangruecktritt`, `liquiditaet-12-monate`, `liquiditaet-patronatserklaerung-interessen`, `patronatserklaerung-extern-hart-erzeugen`, `patronatserklaerung-mehrparteien-konflikt-und-interessen`, `prognose-stichtag-stundungsanfrage-glaeubiger`, `stundungsanfrage-glaeubiger`, ... plus 2 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

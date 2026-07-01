@@ -106,6 +106,24 @@ Wichtig: Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Ro
 - Public M&A, MAR, WpUEG, Kartellrecht, Investitionskontrolle, Sanktionen, StaRUG und Insolvenzreife sind rote Schwellen.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `deal-intake`, `deal-intake-team`, `einstieg-routing`, `erstpruefung-rollenklaerung-mandatsziel`, `kaltstart`, `kaltstart-triage`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `beirat-gmbh-zustimmungskatalog-und-konfliktmatrix`, `conflict-gwg-datenqualitaet-xai`, `datenqualitaet-xai`, `datenqualitaet-xai-qualitaetskontrolle`, `datenraum-aufbau`, `datenraum-aufbau-gap`, `datenraum-gap-clean-room`, `rechtsprechungsrecherche`, `rechtsprechungsrecherche-spa-apa`, `tabellenreview-3d-datenraum` |
+| 4. Gestaltung, Strategie und Verhandlung | `agio-und-kapitalerhoehungsstruktur`, `restructuring-starug-insolvenzplan`, `simulation-bidder-steps-plan`, `steps-plan-pmo`, `transaktionsstruktur`, `transaktionsstruktur-translations`, `vertragsmarkup-key-agio`, `vertragsmarkup-key-issues` |
+| 5. Verfahren, Behörde und Gericht | `gesellschaftsrecht-register`, `handelsregisterabruf`, `handelsregisterabruf-ki-governance` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-versand-signing`, `spa-apa-entwurf` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `tabellenreview-3d-teaser-processdocs` |
+| 8. Spezialmodule und Schnittstellen | `agio`, `automation-monitoring`, `automation-monitoring-billing-narratives`, `beirat-gmbh-zustimmungskatalog`, `billing-narratives`, `board-paper-business`, `board-paper-closing-bible`, `board-paper-rechtsprechungsradar-gmbh-governance`, `closing-bible-archiv`, `conflict-gwg-sanctions`, `corporate-beirat-gmbh`, `corporate-kanzlei-translations-multijurisdictional`, `deal-team-staffing`, `disclosure-schedules`, `disclosure-schedules-distressed-ma`, `distressed-ma`, `due-diligence-commercial`, `due-diligence-commercial-und-legal`, ... plus 38 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

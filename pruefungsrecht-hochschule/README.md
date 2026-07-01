@@ -53,6 +53,24 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Im Einzelfall gehen La
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage`, `notenbekanntgabe-und-friststart`, `pruefungsordnung-router` |
+| 2. Unterlagen, Sachverhalt und Quellen | `akteneinsicht-pruefungsakte`, `akteneinsicht-vollstaendig`, `datenschutz-pruefungsdaten`, `datenschutz-pruefungsdaten-drittversuch` |
+| 3. Prüfung, Anspruch und Subsumtion | `anerkennung-pruefungsleistungen`, `anerkennung-von-pruefungsleistungen`, `auslandsanerkennung-pruefungsleistung`, `befangenheit-pruefer`, `beisitzer-rolle-bewertungsspielraum-grenzen`, `bewertungsspielraum-grenzen`, `bewertungsspielraum-und-kontrolle`, `erasmus-mobility-pruefungsfolgen`, `fristverlaengerung-pruefungsleistung`, `hilfsmittel-liste-pruefung`, `lehramtspruefung-lrs-hochschule-masterarbeit`, `losverfahren-neubewertung-verfahren`, `modulhandbuch-bindung-modulpruefung`, `modulpruefung-und-teilleistungen`, `muendliche-pruefung-protokoll`, `neubewertung-verfahren`, `online-pruefung-identitaet`, `online-pruefung-technischer-fehler`, ... plus 37 weitere |
+| 4. Gestaltung, Strategie und Verhandlung | `multiple-choice-nachteilsausgleich`, `nachteilsausgleich-behinderung`, `nachteilsausgleich-hochschule` |
+| 5. Verfahren, Behörde und Gericht | `abgabe-frist-fristverlaengerung`, `eilantrag-endgueltig-nicht-bestanden`, `habilitation-verfahren`, `korrekturfrist-und-verzoegerung`, `widerspruch-und-remonstration` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `redteam-pruefungsrecht-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abschlussarbeit-betreuung`, `anonymisierung-klausur`, `anwesenheitspflicht`, `anwesenheitspflicht-modul`, `attest-anforderungen-auslandsanerkennung`, `bachelorarbeit-abgabe-abschlussarbeit`, `begruendung-der-note`, `chancengleichheit-stoerung`, `drittversuch-und-haertefall`, `ects-leistungspunkte`, `einsichtnahme-notizen-endgueltiges`, `endgueltiges-nichtbestehen`, `exmatrikulation-nach-nichtbestehen`, `fernstudium-private-gruppenausarbeitung`, `gruppenausarbeitung-taeuschung`, `ihk-handwerk-berufsabschluss`, `juristisches-staatsexamen-ki-nutzung-ki`, `ki-nutzung-offenlegung`, ... plus 19 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

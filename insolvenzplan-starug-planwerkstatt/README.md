@@ -78,6 +78,25 @@ Das Plugin ist verzeihend im Intake und streng im Ergebnis. Es darf mit chaotisc
 
 Das Plugin ersetzt keine anwaltliche, steuerliche oder betriebswirtschaftliche Endprüfung. Es ist ein Arbeits-, Strukturierungs- und Qualitätssicherungswerkzeug. Bei Planbestätigung, gerichtlicher Einreichung, steuerlichen Folgen, Organpflichten, Sicherheitenwerten, Drittsicherheiten und streitigen Gläubigerrechten verlangt es menschliche Freigabe.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `inso-starug-planwerkstatt-start-chronologie-fristen`, `insolvenzplan-intake-klassen`, `intake-dokumentenmatrix-und-lueckenliste`, `kaltstart-interview`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `asset-deals-im-plan-grundstuecke-marken-kundendaten`, `cram-formular-portal-und-einreichung`, `cramdown-obstruktion-datenraum-register`, `darstellender-quellenkarte`, `datenraum-register`, `quellen-livecheck`, `spezial-darstellender-livequellen-und-rechtsprechungscheck`, `starug-tatbestand-beweis-und-belege`, `teil-compliance-dokumentation-und-akte`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `insolvenzplan-architektur`, `integrierte-planung`, `ipsplan-cram-down-spezial`, `ipsplan-gruppenbildung-leitfaden`, `ipsplan-planstruktur-prepack-plan`, `ipsplan-prepack-plan-spezial`, `klassen-verhandlung-vergleich-und-eskalation`, `minderheitenschutz-planbetroffene`, `planbetroffene-auswahl`, `planvollzug-monitoring`, `restrukturierungsplan-fristen-form-und-zustaendigkeit`, `sanierungskonzept`, `sanierungskonzept-starug-spezial-teil`, `sanierungsmoderation-94-starug`, `spezial-vergleichsrechnung-behoerden-gericht-und-registerweg`, `starug-plan-architektur`, `verfahrenswahl-restrukturierungsplan`, `vergleichsrechnung-behoerden-gericht-und-registerweg`, ... plus 1 weitere |
+| 5. Verfahren, Behörde und Gericht | `gerichtliche-schritte-kommandocenter`, `gruppen-schriftsatz-brief-und-memo-bausteine` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `stakeholder-kommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `redteam-qualitygate-sanierungskonzept` |
+| 8. Spezialmodule und Schnittstellen | `abstimmung-anlagen-interessen-cram`, `abstimmung-mehrheiten-anlagenpaket`, `anlagen-mehrparteien-konflikt-und-interessen`, `anlagenpaket`, `darstellender-teil`, `down-red-gestaltender-gruppen`, `gestaltender-teil`, `gestaltender-zahlen-schwellen-und-berechnung`, `gruppen-klassenbildung`, `kommandocenter`, `sicherheiten-drittsicherheiten`, `stabilisierung-stakeholder`, `steuern-bilanz-folgen` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

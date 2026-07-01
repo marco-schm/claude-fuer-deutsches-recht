@@ -67,6 +67,25 @@ Typische Startpunkte:
 | `dfg-wiedereinreichung-nach-ablehnung` | Ablehnung auswerten, Gutachten ernst nehmen, Neuaufstellung |
 | `dfg-ki-ethik-forschungsdaten` | KI-Nutzung, Vertraulichkeit, Forschungsdatenmanagement, Ethik und Datenschutz |
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dfg-erstpruefung-und-mandatsziel`, `dokumente-intake`, `einstieg-routing`, `erstpruefung-rollenklaerung-mandatsziel`, `kaltstart-triage`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `adaptive-dokumentenmatrix-lueckenliste`, `adaptive-dokumentenmatrix-und-lueckenliste`, `chronologie-und-belegmatrix`, `dfg-ki-ethik-forschungsdaten`, `elan-formular-portal-einreichungslogik`, `forschungsdaten-fristennotiz-naechster`, `forschungsdaten-fristennotiz-und-naechster-schritt`, `grosse-compliance-dokumentation-aktenvermerk`, `profi-reviewer-beweislast-strategien`, `quellen-livecheck`, `reviewer-beweislast-darlegungslast`, `reviewer-beweislast-und-darlegungslast`, `schnelle-quellenkarte`, `spezial-grosse-compliance-dokumentation-und-akte`, `spezial-schnelle-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `anfaenger-risikoampel-gegenargumente`, `dfg-erstantragsteller-besondere-checks`, `fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `dfg-finanzplan-module-personal-geraete`, `dfg-foerderstrategie-schnell-oder-gross`, `dfg-publikationsstrategie-projekt`, `dfg-zeitplan-und-meilensteine`, `elan-ethik-finanzplan`, `finanzplan-mandantenkommunikation`, `finanzplan-mandantenkommunikation-entscheidungsvorlage`, `foerderstrategie-schnell-grossgeraete-cluster`, `kleine-verhandlung-vergleich-eskalation`, `kleine-verhandlung-vergleich-und-eskalation`, `publikationsstrategie-projekt`, `strategien-internationaler-bezug`, `strategien-internationaler-bezug-und-schnittstellen`, `zeitplan-meilensteine-zwischen` |
+| 5. Verfahren, Behörde und Gericht | `dfg-grossgeraete-und-cluster-antrag`, `eigene-vorarbeiten-erstantragsteller`, `erstantrag-projektlogik`, `foerderantragssteller-formalia-red-fuehrung`, `fuehrung-schriftsatz-brief-memo-bausteine`, `fuehrung-schriftsatz-brief-und-memo-bausteine`, `profi-behoerden-gerichts-registerweg`, `sachbeihilfe-fristen-form-zustaendigkeit` |
+| 6. Ergebnis, Schreiben und Kommunikation | `dfg-zwischen-und-abschlussbericht`, `mandantenkommunikation`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `dfg-kollegen-review-organisieren`, `dfg-reviewer-red-team`, `formalia-fehlerkatalog`, `formalia-red-team-und-qualitaetskontrolle`, `redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `anfaenger-antraege-dfg`, `antraege-zahlen-schwellen-und-berechnung`, `antraege-zahlen-schwellenwerte-berechnung`, `dfg-bis-200k-begutachtung-light`, `dfg-eigenanteil-und-grundausstattung`, `dfg-eigene-vorarbeiten-darstellen`, `dfg-grundsystem-foerderlinien`, `dfg-internationale-kooperation-aufbau`, `dfg-koselleck-500k-125m`, `dfg-koselleck-500k-praeregistrierung`, `dfg-praeregistrierung-replication-studies`, `dfg-projektbeschreibung-arbeitsprogramm`, `dfg-replikationskrise-statistik-spezial`, `dfg-sachbeihilfe-elan-formalia`, `dfg-software-veroeffentlichung-spezial`, `dfg-software-veroeffentlichung-tieforschung`, `dfg-tieforschung-ethik-pflichten`, `dfg-wiedereinreichung-nach-ablehnung`, ... plus 8 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

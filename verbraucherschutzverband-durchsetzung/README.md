@@ -52,6 +52,25 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt kei
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage`, `kaltstart-verbandsfall-aufnehmen` |
+| 2. Unterlagen, Sachverhalt und Quellen | `abo-modell-beweisplan-erstellen`, `bankentgelte-betroffenenformular-bauen`, `bankentgelte-beweisplan-erstellen`, `datenschutz-im-betroffenenpool`, `energiepreiserhoehung-beweisplan-erste`, `fitnessstudio-betroffenenformular-baue`, `fitnessstudio-beweisplan-erstellen`, `flugportal-betroffenenformular-bauen`, `flugportal-beweisplan-umsetzung`, `lebenssachverhalt-buendeln`, `plattform-sperre-betroffenenformular-b`, `reiseveranstalter-betroffenenformular`, `reiseveranstalter-beweisplan-erstellen`, `telekommunikationsklausel-beweisplan-e`, `verbraucherverband-abo-modell-betroffenenformular-beweisplan`, `verbraucherverband-beweismittel-offenlegung-nutzen-kommunikation` |
+| 3. Prüfung, Anspruch und Subsumtion | `053-plattform-sperre-anspruchsgruppen-bild`, `abo-modell-anspruchsgruppen-bilden`, `bankentgelte-anspruchsgruppen-bilden`, `bankentgelte-risiko-rot-markieren`, `bankentgelte-umsetzung-risiko-rot`, `energiepreiserhoehung-risiko-rot-marki`, `fitnessstudio-anspruchsgruppen-bilden`, `fitnessstudio-risiko-rot-markieren`, `fitnessstudio-umsetzung-risiko-rot`, `flugportal-anspruchsgruppen-bilden`, `flugportal-klageschrift-anspruchsgruppen`, `kosten-und-prozessrisiko`, `plattform-sperre-anspruchsgruppen-bild`, `plattform-sperre-risiko-rot-markieren`, `presse-und-kampagnenrisiko`, `reiseveranstalter-risiko-rot-markieren`, `telekommunikationsklausel-anspruchsgru`, `telekommunikationsklausel-risiko-rot-m`, ... plus 2 weitere |
+| 4. Gestaltung, Strategie und Verhandlung | `abo-modell-klageschrift-strukturieren`, `abo-modell-vergleich-pruefen`, `bankentgelte-klageschrift-strukturiere`, `bankentgelte-vergleich-pruefen`, `fitnessstudio-klageschrift-strukturier`, `fitnessstudio-vergleich-pruefen`, `flugportal-vergleich-pruefen`, `plattform-sperre-vergleich-pruefen`, `probeabo-widerruf-verbandsstrategie`, `telekommunikationsklausel-betroffenenf`, `telekommunikationsklausel-klageschrift`, `telekommunikationsklausel-kommunikatio`, `telekommunikationsklausel-registertext`, `telekommunikationsklausel-sammelfaehig`, `telekommunikationsklausel-umsetzung`, `telekommunikationsklausel-vergleich-pr`, `vdg-013-vergleich-und-austritt-pruefen`, `vdg-027-bankentgelte-vergleich-pruefen`, ... plus 9 weitere |
+| 5. Verfahren, Behörde und Gericht | `abo-modell-registertext-schreiben`, `bankentgelte-registertext`, `energiepreiserhoehung-klageschrift-str`, `energiepreiserhoehung-registertext-sch`, `fitnessstudio-registertext`, `flugportal-registertext-schreiben`, `klageberechtigung-der-stelle-pruefen`, `klageziele-praezise-schneiden`, `plattform-sperre-registertext-schreibe`, `reiseveranstalter-klageschrift-struktu`, `reiseveranstalter-registertext-schreiben`, `umsetzungsverfahren`, `vdg-002-klageberechtigung-der-stelle-pruefen`, `verbandsklageregister-vorbereiten`, `verbraucherverband-abhilfeklage-musterfeststellung-w-uklag`, `verbraucherverband-abo-modell-sammelfaehigkeit-klageschrift`, `verbraucherverband-individualklagen-koordinieren-presse` |
+| 6. Ergebnis, Schreiben und Kommunikation | `abo-modell-kommunikation-steuern`, `bankentgelte-kommunikation`, `energiepreiserhoehung-kommunikation-st`, `flugportal-kommunikation-steuern`, `kommunikation-an-verbraucher`, `plattform-sperre-kommunikation-steuern`, `reiseveranstalter-kommunikation-steuer`, `verbraucherverband-fitnessstudio-kommunikation-steuern` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `uklag-unterlassung-gegen-agb` |
+| 8. Spezialmodule und Schnittstellen | `058-plattform-sperre-umsetzung-ueberwachen`, `abo-modell-fitnessstudio-sammelfaehigkeit`, `abo-modell-umsetzung-ueberwachen`, `bankentgelte-sammelfaehigkeit-pruefen`, `bankentgelte-zustimmungsfiktion-serie`, `bestellbutton-uklag-uwg-abmahnung`, `diesel-differenzschaden-serienfall`, `energiepreiserhoehung-betroffenenformu`, `energiepreiserhoehung-sammelfaehigkeit`, `energiepreiserhoehung-umsetzung-ueberw`, `erfolgsmonitoring-bankentgelte`, `finanzierung-interessenkonflikte`, `fitnessstudio-sammelfaehigkeit-pruefen`, `flugportal-sammelfaehigkeit-pruefen`, `flugportal-umsetzung-ueberwachen`, `plattform-sperre-sammelfaehigkeit-prue`, `plattform-sperre-umsetzung-ueberwachen`, `quorum-und-betroffenengruppe`, ... plus 11 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

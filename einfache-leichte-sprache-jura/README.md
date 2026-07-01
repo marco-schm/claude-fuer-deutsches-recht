@@ -78,6 +78,25 @@ Das Skript ist kein Normprüfer. Es findet typische Warnsignale:
 lange Sätze, sehr lange Wörter, Passiv-Kandidaten, Nominalstil und fehlende
 Orientierungselemente.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `kaltstart-triage`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `annaeherung-quellenkarte`, `chronologie-und-belegmatrix`, `juristische-juristisches-beweislast-klaeren`, `juristisches-beweislast-darlegungslast`, `juristisches-beweislast-und-darlegungslast`, `klaeren-compliance-dokumentation-aktenvermerk`, `klaeren-compliance-dokumentation-und-akte`, `quellen-livecheck`, `spezial-annaeherung-livequellen-und-rechtsprechungscheck`, `spezial-klaeren-compliance-dokumentation-und-akte`, `sprache-dokumentenmatrix-lueckenliste`, `sprache-dokumentenmatrix-und-lueckenliste`, `unterlagen-luecken`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `fristen-und-risikoampel`, `juristische-erstpruefung-rollenklaerung`, `leichte-sprache-jura-fristen-risiko-mandant`, `rechtsnormen-einfach`, `risikoampel-gegenargumente` |
+| 4. Gestaltung, Strategie und Verhandlung | `standard-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `bauen-fristennotiz-naechster-schritt`, `bauen-fristennotiz-und-naechster-schritt`, `bescheidmodus`, `bescheidmodus-02`, `experimentelle-schriftsatz-brief-memo-bausteine`, `fristen-form-zustaendigkeit-rechtsweg`, `leichte-sprache-jura-ls-bescheid-chronologie`, `ls-bescheid-uebersetzen-workflow`, `sozialgerichtsverfahren`, `sozialgerichtsverfahren-strafverfahren`, `strafverfahren-beschuldigter`, `uebertragen-behoerden-gericht-und-registerweg`, `uebertragen-behoerden-gerichts-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `jura-mandantenkommunikation`, `jura-mandantenkommunikation-entscheidungsvorlage`, `kommunikation-mandant`, `mandantenkommunikation`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `leichte-qualitaetsgate-rechtsinhalt`, `leichte-sprache-qualitaetsgate-verstaendlichkeit`, `nutzen-fehlerkatalog`, `pruefkriterien-fuer-qualitaet`, `qualitaetsgate`, `qualitaetsgate-formular-portal-und-einreichung`, `qualitaetsgate-rechtsnormen-einfach`, `redteam-qualitygate`, `spezial-nutzen-red-team-und-qualitaetskontrolle` |
+| 8. Spezialmodule und Schnittstellen | `aufenthaltsrecht-mandant`, `aufenthaltsrecht-mandant-betreuung`, `betreuung-vormundschaft`, `einfache-sprache`, `elsj-betreuung-vormundschaft`, `elsj-uebersetzungsablauf`, `experimentelle-glossar-sonderfall-jura`, `familienrecht-erstgespraech`, `familienrecht-erstgespraech-juristische`, `glossar-sonderfall-edge-case`, `glossar-sonderfall-und-edge-case`, `juristische-sicherung`, `kommandocenter`, `leichte-sprache`, `leichte-sprache-mietrecht`, `ls-juristisches-glossar-bauen`, `ls-juristisches-glossar-justizportal-pruefen`, `ls-justizportal-pruefen-spezial`, ... plus 17 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

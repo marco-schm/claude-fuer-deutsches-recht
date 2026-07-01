@@ -79,6 +79,25 @@ Die Beispielakte enthält die Word-Vorlage `BSAG-Mietvertrag-Vorlage.docx` und d
 
 Das Plugin erzeugt keine Track-Changes- oder Redline-Fassung stillschweigend. Es fragt immer ausdrücklich: Soll zusätzlich eine Track-Changes- oder Redline-Fassung erstellt werden? Ohne Bestätigung bleibt es bei Clean-Entwurf, Änderungslog und Ausfüllprotokoll.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `start-chronologie-fristen`, `vertragsausfueller-erstpruefung-und-mandatsziel`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `altvertraege-dokumentenmatrix-und-lueckenliste`, `changes-beweislast-docx-erkennen`, `docx-tatbestand-beweis-und-belege`, `quellen-livecheck`, `rueckfragen-compliance-dokumentation-und-akte`, `sheets-quellenkarte`, `spezial-sheets-livequellen-und-rechtsprechungscheck`, `spezial-vertraege-formular-portal-und-einreichung`, `unterlagen-luecken`, `vertraege-formular-portal-und-einreichung`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `plausibilitaetscheck-termsheet`, `strippen-risikoampel-und-gegenargumente`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `altvertrag-nachziehen`, `bsag-mietvertrag-klauselentscheidung`, `klauselentscheidung`, `konzern-rahmenvertrag-anpassen`, `vorlagen-vertragsausfueller-vaf-altvertrag` |
+| 5. Verfahren, Behörde und Gericht | `ausdruecklicher-fristennotiz-und-naechster-schritt`, `erkennen-schriftsatz-brief-und-memo-bausteine`, `felder-behoerden-gericht-und-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `clean-output`, `output-waehlen`, `track-mandantenkommunikation-entscheidungsvorlage` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `mandantenkommunikation-redteam-qualitygate`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `batch-modus-docx-stripper-einfuehrung`, `docx-stripper`, `einfuehrung-prozess`, `erzeugen-red-fassungen-sonderfall-felder`, `fassungen-sonderfall-und-edge-case`, `feldinventar-fragebogen-input`, `fragebogen-input-leitfaden`, `fremdsprachige-vertraege-bilingual`, `fuehren-interessen-mappen-nachfrage`, `kommandocenter-mehrsprachige-vertraege`, `mappen-zahlen-schwellen-und-berechnung`, `mehrsprachige-vertraege-spezial`, `nachfrage-abschlussprodukt-und-uebergabe`, `neue-rueckfragen-strippen`, `platzhalterlogik-bauleiter`, `quality-gate-redline-qa`, `redline-qa`, `rueckfrageninterview`, ... plus 8 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -52,6 +52,24 @@ Der Einstieg ist bewusst niedrigschwellig: Uploads, Bilder, Verträge oder bloß
 - `patentrecht` und `gebrauchsmusterrecht` für technische Schutzrechte.
 - `produktrecht`, `ecommerce-recht` und `datenschutzrecht` für Produkt-, Shop- und Datenfragen.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `auslandsroute-kein-beschreibung-zeichnungen`, `gebrauchsmuster-kaltstart-interview`, `kaltstart-triage`, `patent-oder-gebrauchsmuster-route`, `stand-technik-startup-schnellschutz`, `startup-schnellschutz` |
+| 2. Unterlagen, Sachverhalt und Quellen | `auskunft-schadensersatz-geheimhaltung`, `besichtigung-beschlagnahme-und-beweissicherung`, `gutachten-rechtsbestand-insolvenz-verwertung`, `recherche-nach-schutzgegenstand-ausschluesse` |
+| 3. Prüfung, Anspruch und Subsumtion | `anspruchsfassung-gebrauchsmuster`, `cross-license-verletzung-anspruchsmerkmale`, `verletzung-anspruchsmerkmale` |
+| 4. Gestaltung, Strategie und Verhandlung | `china-utility-model-vergleich`, `lizenzvertrag-gebrauchsmuster`, `mandantenmemo-gebrauchsmusterstrategie`, `muendliche-verhandlung-dpma`, `registerstand-aufrechterhaltung-lizenzvertrag` |
+| 5. Verfahren, Behörde und Gericht | `computerprogramm-verfahrensausschluss`, `einstweilige-verfuegung-fto-schutzbereich`, `japan-utility-klageantraege-verletzung`, `klageantraege-verletzung`, `loeschungsantrag-dpma-mandantenmemo`, `neuheitsschonfrist-eigene-offenbarung` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `qualitygate-gebrmg`, `schutzgegenstand-und-ausschluesse` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-gebrauchsmuster-abzweigung`, `abzweigung-aus-patentanmeldung`, `arbeitnehmererfindung-und-inhaberschaft`, `beschreibung-und-zeichnungen`, `beschwerde-bpatg-besichtigung-beschlagnahme`, `chemie-biotech-china-utility`, `doppelschutz-patent-dpma-anmeldung`, `dpma-anmeldung-formalien`, `fto-und-schutzbereich`, `geheimhaltung-vor-anmeldung`, `insolvenz-und-verwertung`, `local-counsel-loeschung-erwiderung`, `loeschung-erwiderung-inhaber`, `messeveroeffentlichung-prototyp-muendliche`, `neuheit-erfinderischer-patent-gebrauchsmuster`, `prioritaet-anmeldetag-produktlaunch-neuheit`, `produktlaunch-und-neuheit`, `technische-laborbuch-teilloeschung`, ... plus 6 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

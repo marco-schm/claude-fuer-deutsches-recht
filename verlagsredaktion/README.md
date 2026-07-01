@@ -90,6 +90,25 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 - Fremdtexte niemals wörtlich übernehmen, außer der Nutzer verlangt ein zulässiges kurzes Zitat mit sauberer Quellenangabe und Zweck.
 - Bei Verlagstexten immer trennen: Autorenmaterial, Redaktionstext, Fremdquelle, KI-Vorschlag und offene Lücke.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `dokumente-intake`, `eingangskorb-heftplanung-interessen`, `eingangskorb-triage-entscheidungsmonitor`, `einstieg-routing`, `honorar-vertrag-royalties-triage`, `kaltstart-triage`, `verlagsdesk-erstpruefung-und-mandatsziel`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `ai-einsatz-transparenz-datenschutz`, `autorenkommunikation-compliance-dokumentation-und-akte`, `fussnoten-quellen-glossar-konsistenz`, `juristische-tatbestand-beweis-und-belege`, `metadaten-fehlerkatalog`, `metadaten-seo-klappentext`, `quellen-livecheck`, `quellen-zitate-fundstellencheck`, `satzfahnen-formular-portal-und-einreichung`, `spezial-zitate-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `verlage-dokumentenmatrix-und-lueckenliste`, `workflow-unterlagen-lueckenliste`, `zitate-quellenkarte` |
+| 3. Prüfung, Anspruch und Subsumtion | `abstimmung-mit-rechtsabteilung-pruefung`, `formatvorlage-check-autor-manuskript`, `fremdtext-plagiat-uebernahmecheck`, `glossar-konsistenz-pruefung`, `grammatik-konsistenzcheck`, `haftungsfreistellung-autor-verlag`, `impressum-pflicht-und-pruefung`, `produktionsuebergabe-checkliste`, `rechtecheck-urhg-verlg`, `rechtecheck-verhandlung-vergleich-und-eskalation`, `relationslinien-pruefung-im-aufsatz`, `statusbericht-an-verlagsleitung`, `stilbruch-stilcheck-fachzeitschrift`, `verl-aussagensicherheit-pruefung`, `verl-glossar-konsistenz-pruefung`, `verl-impressum-pflicht-und-pruefung`, `verl-relationslinien-pruefung-im-aufsatz`, `verl-vorschuss-pruefung-buecher`, ... plus 3 weitere |
+| 4. Gestaltung, Strategie und Verhandlung | `heftplanung-mehrparteien-konflikt-und-interessen`, `honorarvertrag-templates-und-abweichungen`, `lektorat-struktur-manuskriptaufnahme`, `mahnung-an-honorar-vertrag`, `projektplan-fristen-heftplanung`, `redaktionsmemo-jahresplanung`, `vergleichsverhandlung-mit-autor`, `zeitschriften-heftplanung` |
+| 5. Verfahren, Behörde und Gericht | `fachliche-fristen-form-und-zustaendigkeit`, `manuskript-behoerden-gericht-und-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `autorenkommunikation-email`, `konferenzmitschnitt-zu-tagungsbericht`, `newsletter-redaktion-jur`, `output-waehlen`, `redaktion-satzfahnen-verlage-verlagsdesk`, `redaktionelle-rueckmeldung-formulieren`, `redaktionssitzung-vorbereiten`, `screenshot-pdf-ocr-redaktion`, `verlagsredaktion` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `qualitaetsgate-verlag-quellen-zitate`, `rueckruf-fehlerbeitrag-screenshot-pdf`, `sales-katalog-satzfahne-korrekturlauf`, `satzfahne-korrekturlauf`, `spezial-metadaten-red-team-und-qualitaetskontrolle` |
+| 8. Spezialmodule und Schnittstellen | `abstimmung`, `abstimmung-lektorat-produktion-satz`, `abstimmung-mit-autor-feedback-kanal`, `abstimmung-mit-produktion-satz-druck`, `abstimmung-mit-vertrieb-marketing`, `audio-transkript-zu-fachbeitrag`, `aussagensicherheit-buchprojekt-bauleiter`, `barrierefreiheit-epub-pdf`, `bildrechte-grafiken-tabellen`, `bildrechte-zahlen-schwellen-und-berechnung`, `buchprojekt-bauleiter`, `buchprojekt-kapitelkoordination`, `buchprojekte-internationaler-bezug-und-schnittstellen`, `email-konvolute-zu-fachbeitrag`, `entscheidungsmonitor-rechtsstand`, `eskalation-bei-deadline-konflikt`, `handschrift-und-altdoc-digitalisieren`, `honorarrechnung-erstellen-pruefen`, ... plus 32 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

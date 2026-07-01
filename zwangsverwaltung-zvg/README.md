@@ -120,6 +120,25 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 - Wo amtliche Onlinequellen abgefragt werden, werden Abrufdatum, URL, Treffer und Grenzen der Recherche dokumentiert.
 - Simulationen sind deutlich als Simulation zu kennzeichnen.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `beschlagnahme-mietverwaltung-start`, `dokumente-intake`, `einstieg-routing`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing`, `zwangsverwaltung-erstpruefung-und-mandatsziel` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenanlage-objektcockpit`, `besitz-dokumentenmatrix-und-lueckenliste`, `portal-quellenkarte`, `quality-recherche-rechnungslegung`, `quellen-livecheck`, `recherche-quality-gate-raeumung`, `recherche-zahlen-schwellen-und-berechnung`, `spezial-portal-livequellen-und-rechtsprechungscheck`, `treuhandkonto-versteigerung`, `unterlagen-luecken`, `versteigerung-tatbestand-beweis-und-belege`, `verteilung-zwangsverwaltung-aktenanlage`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `bieterangebot-bewertung`, `mieten-risikoampel-und-gegenargumente`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `verteilungsplan-155` |
+| 5. Verfahren, Behörde und Gericht | `beschlagnahme-fristen-form-und-zustaendigkeit` |
+| 6. Ergebnis, Schreiben und Kommunikation | `berichte-beschlagnahme-mietverwaltung-besitz`, `berichtswesen-besitzuebernahme-bestellung`, `glaeubiger-schuldner-kommunikation`, `oeffentliche-mandantenkommunikation-entscheidungsvorlage`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `gate-fehlerkatalog`, `spezial-gate-red-team-und-qualitaetskontrolle` |
+| 8. Spezialmodule und Schnittstellen | `beschlagnahme-oeffentliche-lasten`, `besitzuebernahme`, `bestellung-beschlagnahme`, `betriebskosten-hausgeld-bieterangebot`, `bieterangebote-mieten-oeffentliche`, `insolvenz-schnittstelle-instandhaltung`, `instandhaltung-sicherung`, `kommandocenter`, `konten-kassenfuehrung-miet-pachtverwaltung`, `miet-und-pachtverwaltung`, `mieteinzug-rueckstaende`, `oeffentliche-lasten`, `quality-gate`, `raeumung-kuendigung`, `rechnungslegung-internationaler-bezug-und-schnittstellen`, `rechnungslegung-simulation-training`, `simulation-training`, `verkauf-versteigerung-schnittstelle`, ... plus 7 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

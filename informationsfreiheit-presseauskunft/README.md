@@ -52,6 +52,23 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt kei
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `ifg-oder-presseauskunft-richtig-routen`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `akteneinsicht-oder-auskunft-oder-kopie`, `personenbezogene-daten-und-schwaerzung`, `veroeffentlichung-erhaltene-dokumente` |
+| 3. Prüfung, Anspruch und Subsumtion | `ifg-005-kostenrisiko-und-gebuehrenankuendigung`, `informationszugang-baden-wuerttemberg-bayern-livecheck`, `informationszugang-bayern-livecheck`, `informationszugang-berlin-livecheck`, `informationszugang-bremen-livecheck-hamburg-hessen`, `informationszugang-hamburg-livecheck`, `informationszugang-hessen-livecheck`, `informationszugang-saarland-livecheck`, `informationszugang-sachsen-livecheck-anhalt-schleswig`, `kein-land-ersatzwege-kostenrisiko-gebuehrenankuendigung`, `kostenrisiko-und-gebuehrenankuendigung` |
+| 5. Verfahren, Behörde und Gericht | `054-ifggebv-gebuehren-klage-vorbereiten`, `ablehnungsbescheid-angriffspunkte`, `archivrecht-antrag-formulieren`, `archivrecht-frist-setzen`, `archivrecht-zustaendigkeit-pruefen-frist-setzen`, `bund-widerspruch-bauen-klage-vorbereiten-presseantwort`, `bundesbehoerde-oder-landesbehoerde-erk`, `fristenkalender-untaetigkeitstrack-bund-zustaendigkeit`, `gebuehrenbescheid-angreifen`, `ifg-016-gebuehrenbescheid-angreifen`, `ifg-047-ifggebv-gebuehren-antrag-formulieren`, `ifg-049-ifggebv-gebuehren-frist-setzen`, `ifg-053-ifggebv-gebuehren-widerspruch-bauen`, `ifg-054-ifggebv-gebuehren-klage-vorbereiten`, `ifg-bund-antrag-formulieren`, `ifg-bund-frist-setzen`, `ifg-bund-klage-vorbereiten`, `ifggebv-gebuehren-frist-umweltinformation-zustaendigkeit-p`, ... plus 23 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `ifg-055-ifggebv-gebuehren-presseantwort-nachfa`, `ifg-bund-presseantwort-nachfassen`, `ifggebv-gebuehren-presseantwort-nachfa`, `landespressegesetz-presseantwort-nachf`, `transparenzgesetz-presseantwort-nachfa`, `uig-umweltinformation-presseantwort-na` |
+| 8. Spezialmodule und Schnittstellen | `050-ifggebv-gebuehren-kosten-deckeln`, `drittbeteiligung-bei-betriebsgeheimnis`, `ifg-038-ifg-bund-zustaendigkeit-pruefen`, `ifg-048-ifggebv-gebuehren-zustaendigkeit-pruef`, `ifg-050-ifggebv-gebuehren-kosten-deckeln`, `ifg-051-ifggebv-gebuehren-schwaerzung-angreife`, `ifg-052-ifggebv-gebuehren-drittanhoerung-begle`, `ifg-056-ifggebv-gebuehren-tracking-aktualisier`, `ifg-058-uig-umweltinformation-zustaendigkeit-p`, `ifg-078-landespressegesetz-zustaendigkeit-prue`, `ifg-088-transparenzgesetz-zustaendigkeit-pruef`, `ifg-098-archivrecht-zustaendigkeit-pruefen`, `ifg-bund-drittanhoerung-begleiten`, `ifg-bund-kosten-deckeln`, `ifg-bund-schwaerzung-angreifen`, `ifg-bund-tracking-aktualisieren`, `ifg-bund-zustaendigkeit-pruefen`, `ifggebv-gebuehren-drittanhoerung-begle`, ... plus 36 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

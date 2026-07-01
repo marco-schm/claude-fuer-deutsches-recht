@@ -101,6 +101,20 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 Dual-lizenziert MIT und Apache-2.0.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 2. Unterlagen, Sachverhalt und Quellen | `02-amtsermittlung-und-sachverhaltsfeststellung`, `07-beweisaufnahme-verwaltungsgericht` |
+| 5. Verfahren, Behörde und Gericht | `01-zulaessigkeit-verwaltungsklage`, `03-begruendetheit-anfechtungsklage`, `04-begruendetheit-verpflichtungsklage`, `08-urteilsentwurf-paragraf-117-vwgo`, `10-entscheidungsvorschlag-verwaltungsgericht`, `v392-praxisraster-richter-verwaltungsgericht` |
+| 8. Spezialmodule und Schnittstellen | `05-eilrechtsschutz-paragraf-80-abs-5`, `06-eilrechtsschutz-paragraf-123`, `09-rechtsmittel-vwgo`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

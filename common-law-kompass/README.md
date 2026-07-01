@@ -85,6 +85,25 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 - Uniform Law Commission: UCC
 - U.S. Supreme Court
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `drafting-interessen-explainer-beweislast`, `explainer-beweislast-und-darlegungslast`, `precedent-quellenkarte`, `quality-formular-portal-und-einreichung`, `quellen-livecheck`, `spezial-precedent-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `wirtschaftsjuristen-tatbestand-beweis-und-belege`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `cl-mandantenuebersicht-cl-prozesskostenrisiko`, `cl-prozesskostenrisiko-each-party-bears-own`, `rechtsvergleichender-begriffscheck-reviews`, `vertragsbegriffe-risikoampel-und-gegenargumente`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `cl-vertragsklauseln-vertragsbegriffe-cl`, `indemnity-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `consideration-behoerden-gericht-und-registerweg`, `false-fristen-form-und-zustaendigkeit`, `suretyship-schriftsatz-brief-und-memo-bausteine` |
+| 6. Ergebnis, Schreiben und Kommunikation | `client-mandantenkommunikation-entscheidungsvorlage`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `bilingual-contract-review`, `gate-fehlerkatalog`, `reviews-internationaler-bezug-und-schnittstellen`, `spezial-gate-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `begriffe-uebersetzung-bilingual-contract`, `bilinguale-client-commercial-sonderfall`, `cl-discovery-doc-production-spezial`, `cl-spezial-precedent-vs-statute`, `client-explainer`, `commercial-sonderfall-und-edge-case`, `common-consideration-discovery`, `contract-formation-false-friends-governing`, `discovery-zahlen-schwellen-und-berechnung`, `false-friends`, `false-friends-contracts`, `false-friends-scanner`, `friends-indemnity-quality`, `governing-law-jurisdiction`, `humor-coach-interpretation-precedent-common`, `interpretation-precedent`, `kommandocenter`, `litigation-discovery-ma-commercial-quality`, ... plus 8 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

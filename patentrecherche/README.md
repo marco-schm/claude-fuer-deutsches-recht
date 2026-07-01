@@ -75,6 +75,25 @@ Patentanwältinnen sind Berufsgeheimnisträger nach § 203 Abs. 1 Nr. 3 StGB; §
 Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `kaltstart-interview`, `patentrecherche-erstpruefung-und-mandatsziel`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `agentische-datenbank-recherche`, `dpmaregister-epue-beweislast-erfinderische`, `epo-quellenkarte`, `epue-beweislast-und-darlegungslast`, `freedom-to-operate-recherche`, `patentanwaelte-patentrecherche-patents`, `patr-recherchestrategie-bauleiter`, `pr-einfuehrung-recherchearten`, `quellen-livecheck`, `recherche-strategie-tools-marktuebersicht`, `recherche-tools-marktuebersicht`, `recherchebericht-erstellen`, `spezial-epo-livequellen-und-rechtsprechungscheck`, `stand-der-technik-recherche`, `taetigkeit-fristennotiz-agentische-datenbank`, `technik-formular-portal-und-einreichung`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, ... plus 1 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `google-risikoampel-und-gegenargumente`, `klassifikation-cpc-neuheit-patentfamilien`, `patentfamilien-analyse`, `pruefungsbescheid-vorbereiten`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `depatisnet-verhandlung-vergleich-und-eskalation`, `epo-opposition-strategie`, `ki-und-patent-strategie` |
+| 5. Verfahren, Behörde und Gericht | `agentisch-fristen-form-und-zustaendigkeit`, `patents-behoerden-gericht-und-registerweg`, `patg-problem-register`, `register-zahlen-schwellen-und-berechnung` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `patr-fto-bericht-patentfamilie-priodatum` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `espacenet-google-neuheit-red-team-korrektur`, `mandantenkommunikation-redteam-qualitygate`, `neuheit-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `erfinderische-sonderfall-und-edge-case`, `erfinderische-taetigkeit-freedom-to-ki-patent`, `neuheit-pruefen`, `patr-patentfamilie-priodatum-spezial`, `patr-software-pr-einfuehrung`, `problem-abschlussprodukt-und-uebergabe`, `rueckfragen-mandant`, `rueckfragen-mandant-depatisnet`, `stand-technik-uspto-interessen`, `ueberwachung-konkurrenten`, `upc-unified-patent-court-spezial`, `uspto-mehrparteien-konflikt-und-interessen`, `wipo-stand-technik-ueberwachung-konkurrenten` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

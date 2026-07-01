@@ -69,6 +69,24 @@ Nutze für die Auswahl die automatisch gepflegte Übersicht unten. Die Skills si
 - [schriftform-und-textform-bgb](../schriftform-und-textform-bgb) für tiefe Form-, Textform- und Zugangskonstellationen.
 - [bereicherungs-und-anfechtungsrecht-pruefer](../bereicherungs-und-anfechtungsrecht-pruefer) für Rückabwicklung nach unwirksamem Vertrag.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anfechtung-routing`, `bgb-at-fallaufnahme-und-pruefprogramm`, `digitale-elemente-reparaturrecht-router`, `fallaufnahme-pruefprogramm-prozessform`, `fallaufnahme-und-pruefprogramm`, `kaltstart-triage`, `stellvertretung-routing-paragraphen-164-181` |
+| 2. Unterlagen, Sachverhalt und Quellen | `auslegung-sachverhalt-bgb-at-erklaerungskette`, `auslegung-sachverhalt-und-fallfrage`, `bgb-at-output-gutachten-memo-schriftsatz`, `gesetzesverbot-sittenwidrigkeit-gutachtenstil`, `gutachtenstil-und-klausurtechnik`, `output-gutachten-memo-schriftsatz` |
+| 3. Prüfung, Anspruch und Subsumtion | `amtlicher-bgb-zpo-normcheck`, `anfechtungsfolgen-paragraphen-anspruchsaufbau`, `anspruchsaufbau-zivilrecht-bgb-at`, `bgb-at-minderjaehrige-fehlsubsumtion`, `minderjaehrige-fehlsubsumtion`, `willenserklaerung-tatbestand` |
+| 4. Gestaltung, Strategie und Verhandlung | `bgb-at-training-fallvarianten`, `cic-vorvertragliche-pflichten-schnittstelle`, `ergaenzende-vertragsauslegung`, `paragraphen-cic-vorvertragliche-ergaenzende`, `training-fallvarianten`, `training-fallvarianten-digitale-elemente`, `vertragsschluss-antrag-abgabe`, `vertragsschluss-antrag-annahme` |
+| 5. Verfahren, Behörde und Gericht | `anfechtungsfrist-erklaerung-annahmefrist`, `anfechtungsfrist-erklaerung-bestaetigung`, `annahmefrist-verspaetung-paragraphen-147-149`, `bedingung-befristung-paragraphen-158-163`, `fristen-berechnung-paragraphen-186-193`, `verfuegung-nichtberechtigter-paragraph-185` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `klausurloesungen-fehlerdiagnose`, `klausurloesungen-fehlerdiagnose-konsens` |
+| 8. Spezialmodule und Schnittstellen | `abgabe-willenserklaerung`, `agb-einbeziehung-amtlicher-zpo-anfechtung`, `agb-einbeziehung-schnittstelle`, `agb-einbeziehung-schnittstelle-paragraphen-305-310`, `anfechtung-vor-auslegung`, `anfechtungsfolgen-paragraphen-142-122`, `auslegung-paragraphen-133-157`, `bgb-at-anfechtung-vor-auslegung`, `bgb-at-erklaerungskette-tableau`, `bgb-at-form-und-prozessform`, `bgb-at-rechtsschein-redteam`, `duldungs-anscheinsvollmacht`, `eigenschaftsirrtum-paragraph-119-2`, `eigenschaftsirrtum-paragraph-einseitige`, `einseitige-geschaefte-minderjaehrige`, `einseitige-geschaefte-minderjaehrige-paragraph-111`, `einwilligung-genehmigung-paragraphen-107`, `einwilligung-genehmigung-paragraphen-107-bis-109`, ... plus 42 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

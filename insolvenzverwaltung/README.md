@@ -166,6 +166,25 @@ Die Planwerkstatt aus dem freien Plugin ist inhaltlich vollständig auch in dies
 - Wo amtliche Onlinequellen abgefragt werden, werden Abrufdatum, URL, Treffer und Grenzen der Recherche dokumentiert.
 - Simulationen sind deutlich als Simulation zu kennzeichnen.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `einstieg-routing`, `insolvenzverwaltungs-erstpruefung-und-mandatsziel`, `kaltstart-triage`, `plan-kaltstart-interview`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenanlage-iv-plan`, `eroeffnungsgutachten-iv`, `plan-cramdown-datenraum`, `plan-datenraum-register`, `sicht-tatbestand-beweis-und-belege`, `spezial-sicht-tatbestand-beweis-und-belege` |
+| 3. Prüfung, Anspruch und Subsumtion | `forderungsanmeldung-pruefung`, `tabelle-pruefungstermin` |
+| 4. Gestaltung, Strategie und Verhandlung | `plan-abstimmung-anlagenpaket`, `plan-anlagenpaket`, `plan-darstellender-gerichtliche`, `plan-gerichtliche-schritte`, `plan-gestaltender-gruppen`, `plan-gruppen-klassenbildung`, `plan-insolvenzplan-minderheitenschutz`, `plan-integrierte-kommandocenter`, `plan-iv-steuern`, `plan-kommandocenter`, `plan-minderheitenschutz`, `plan-planbetroffene-planvollzug`, `plan-planvollzug-monitoring`, `plan-sanierungskonzept-sicherheiten`, `plan-sicherheiten-drittsicherheiten`, `plan-stabilisierung-stakeholder`, `plan-stakeholder-kommunikation`, `plan-starug-vergleichsrechnung`, ... plus 2 weitere |
+| 5. Verfahren, Behörde und Gericht | `insolvenzverwalter-fristen-form-und-zustaendigkeit`, `regelverfahren-insolvenzverwalter`, `zahlungsklagen-insolvenzverwaltungs` |
+| 6. Ergebnis, Schreiben und Kommunikation | `berichte-iv-masseunzulaenglichkeit` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `plan-redteam-qualitygate`, `qualitaets-iv-schutzschirm` |
+| 8. Spezialmodule und Schnittstellen | `anfechtung-iv-arbeitsrecht`, `arbeitsrecht-insolvenzgeld`, `cross-iv-eigenverwaltung`, `eigenverwaltung-sachwaltung`, `idw-iv`, `kommandocenter`, `masseeinsammlung-iv-massemehrung`, `massemehrung-asset-realisation`, `masseunzulaenglichkeit-208`, `schutzschirm-270d`, `sicherung-iv-tabelle`, `steuern-sozialversicherung`, `verteilung-iv-vorlaeufige`, `vorlaeufige-verwaltung` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

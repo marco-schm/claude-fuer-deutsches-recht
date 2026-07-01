@@ -41,6 +41,25 @@ Bundesrecht, Landesrecht, kommunale Satzungen, Parteisatzungen, Vereinsregisterp
 Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `datenschutz-mitgliederliste`, `verein-dokumentenpaket-politik-social-media`, `verein-livequellen-check`, `vereinsvermoegen-konto-versicherung-verein` |
+| 3. Prüfung, Anspruch und Subsumtion | `haftung-vorstand-ehrenamtspauschale` |
+| 4. Gestaltung, Strategie und Verhandlung | `satzung-grundstruktur`, `veranstaltung-planen` |
+| 5. Verfahren, Behörde und Gericht | `anfechtung-beschluss`, `aufloesung-liquidation-beschlussvorlagen`, `beschlussvorlagen`, `gemeinnuetzigkeit-antrag`, `registergericht-rueckfrage`, `ruecklagen-mittelverwendung-rundbrief`, `transparenzregister-gwg-umlaufbeschluss`, `umlaufbeschluss`, `verein-als-zweckbetrieb-anfechtung-beschluss`, `vorstandswahl-vorstandswechsel-register`, `vorstandswechsel-register` |
+| 6. Ergebnis, Schreiben und Kommunikation | `rundbrief-mitglieder` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `verein-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `delegierte-abteilungen-entlastung-vorstand`, `ehrenamtspauschale-uebungsleiter`, `entlastung-vorstand`, `foerdermittel-verein`, `foerderverein-schule-fusion-vereine`, `fusion-vereine`, `geschaeftsordnung-vorstand-gruendung`, `gruendung-eingetragener-verein`, `gruendung-nicht-eingetragen`, `hilfsverein-wohlfahrt-hybride-virtuelle`, `hybride-virtuelle-versammlung`, `kassenwart-finanzen`, `kegelclub-freizeitverein-verein-kulturverein`, `konflikt-im-verein`, `kulturverein`, `minderjaehrige-verein-mitgliederversammlung`, `mitgliederversammlung-einberufung`, `mitgliedsbeitraege`, ... plus 19 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

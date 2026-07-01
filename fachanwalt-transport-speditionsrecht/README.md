@@ -43,6 +43,25 @@ Plugin Fachanwalt für Transport- und Speditionsrecht. Orientierung HGB §§ 407
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-transport-speditionsrecht-orientierung`, `mandat-triage-transport-speditionsrecht`, `orientierung-mandat-fachanwaltschaft`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `hgb-dokumentenmatrix-und-lueckenliste`, `kabotage-beweislast-und-darlegungslast`, `quellen-livecheck`, `schnittstelle-formular-portal-und-einreichung`, `spezial-uebereinkommen-livequellen-und-rechtsprechungscheck`, `transport-tatbestand-beweis-und-belege`, `transr-einfuehrung-rechtsquellen`, `uebereinkommen-quellenkarte`, `unterlagen-luecken`, `visby-compliance-dokumentation-und-akte`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `cmr-haftung`, `cmr-haftung-art-17-cmr`, `fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg`, `fachanwalt-transport-speditionshaftung-hgb`, `fachanwalt-transport-speditionsrecht-cmr-haftung`, `frachtfuehrerhaftung-fristennotiz-und-naechster-schritt`, `frachtfuehrerhaftung-paragraf-425-hgb`, `frachtfuehrerhaftung-pruefen`, `frachtvertrag-risikoampel-und-gegenargumente`, `paketdienst-haftung-paragraf-449-hgb`, `trans-cmr-frachtbrief-checkliste`, `transport-autonome-lkw-konvois-haftung-1d-stvg`, `transport-speditionshaftung-hgb`, `transr-haftungssystem-grundzuege`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `fachanwalt-transport-tio-schiedsgericht-adsp-klauseln`, `montrealer-verhandlung-vergleich-und-eskalation`, `transport-tio-schiedsgericht-adsp-klauseln`, `vergleichsverhandlung-strategie` |
+| 5. Verfahren, Behörde und Gericht | `cotif-schriftsatz-brief-und-memo-bausteine`, `schriftsatzkern-substantiierung`, `spedition-behoerden-gericht-und-registerweg`, `speditionsrecht-fristen-form-und-zustaendigkeit` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `reklamationsschreiben-cmr-hgb`, `trans-mandantenkommunikation-entscheidungsvorlage`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `kanzlei-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `adsp-internationaler-bezug-und-schnittstellen`, `fachanwalt-transport-adr-gefahrgut`, `fachanwalt-transport-cmr-schadensregulierung`, `fachanwalt-transport-speditionsrecht-ladungsschaden`, `fachanwalt-transport-speditionsrecht-lieferverzug`, `gefahrgut-adr-paragraf-9-gefstoffvo`, `haager-zahlen-schwellen-und-berechnung`, `ladungsschaden`, `ladungsschaden-art-23-cmr`, `lieferverzug`, `luftfracht-monteral-uebereinkommen`, `marktzugang-sonderfall-edge-case`, `multimodaler-transport-paragraf-452-hgb`, `pruefen-abschlussprodukt-und-uebergabe`, `regeln-mehrparteien-konflikt-und-interessen`, `seerecht-handelsgesetzbuch-paragraf-485-hgb`, `speditionsversicherung-paragraf-460-hgb`, `spezial-pruefen-abschlussprodukt-und-uebergabe`, ... plus 8 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

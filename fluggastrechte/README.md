@@ -56,6 +56,25 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-router`, `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `erstpruefung-rollenklaerung-mandatsziel`, `kaltstart-abschlussprodukt-und-uebergabe`, `kaltstart-interview`, `kaltstart-triage`, `workflow-anschluss-skills-router`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `chronologie-und-belegmatrix`, `forderungsschreiben-formular-portal-und-einreichung`, `machen-dokumentenmatrix-lueckenliste`, `machen-dokumentenmatrix-und-lueckenliste`, `pruefen-quellenkarte`, `quellen-livecheck`, `rechtsprechung-beweislast-darlegungslast`, `rechtsprechung-beweislast-vorverlegung-flug`, `selber-tatbestandsmerkmale-beweisfragen-beleglage`, `spezial-pruefen-livequellen-und-rechtsprechungscheck`, `umstaende-compliance-dokumentation-aktenvermerk`, `umstaende-compliance-dokumentation-und-akte`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `flug-anschlussflug-codeshare-anspruch`, `flug-anspruch-uebersicht`, `fristen-und-risikoampel`, `tickets-risikoampel-gegenargumente`, `tickets-risikoampel-und-gegenargumente` |
+| 4. Gestaltung, Strategie und Verhandlung | `anschlussflug-und-reiseplan`, `ausgleich-internationaler-bezug-schnittstellen`, `ausgleich-internationaler-bezug-und-schnittstellen`, `distanz-und-ausgleich-berechnen`, `verspaetung-verhandlung-vergleich-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `airline-bonitaet-und-vollstreckung`, `annullierung-schriftsatz-brief-memo-bausteine`, `annullierung-schriftsatz-brief-und-memo-bausteine`, `erfassen-behoerden-gericht-und-registerweg`, `erfassen-behoerden-gerichts-registerweg`, `flug-massenklage-einfuehrung-vo`, `flug-massenklage-prozessfinanzierung-spezial`, `forderungsschreiben-klage`, `forderungsschreiben-mahnung-klage-amtsgericht`, `geltend-fristen-form-und-zustaendigkeit`, `geltend-fristen-form-zustaendigkeit-rechtsweg`, `klage`, `klage-amtsgericht-fluggast`, `klage-mandantenkommunikation-entscheidungsvorlage`, `rechtsweg-gerichtsstand-annullierung`, `rechtsweg-und-gerichtsstand-fluggast`, `verifikation-fristennotiz-abtretung-an`, `verifikation-fristennotiz-naechster-schritt` |
+| 6. Ergebnis, Schreiben und Kommunikation | `forderungsschreiben-airline`, `forderungsschreiben-erste-stufe`, `forderungsschreiben-mahnung`, `mandantenkommunikation`, `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `live-sonderfall-machen-mahnung-red-team-korrektur`, `mahnung-fehlerkatalog`, `mahnung-red-team-und-qualitaetskontrolle`, `redteam-qualitygate`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abtretung-an-fluggastportal-spezial`, `airline-standardausreden-annullierung`, `airline-standardausreden-pruefen`, `anlagen-bauen`, `annullierung-oder-verspaetung-einordnen`, `ausnahmen-aussergewoehnliche-umstaende`, `ausnahmen-aussergewoehnliche-umstaende-02`, `aussergewoehnliche-distanz-interessen`, `aussergewoehnliche-umstaende`, `aussergewoehnliche-umstaende-strikt`, `distanz-interessen`, `distanz-mehrparteien-konflikt-und-interessen`, `einfuehrung-vo-261`, `flug-anschlussflug-codeshare-spezial`, `flug-ausserordentlicher-umstand-leitfaden`, `fluggastrechte-anlagen-bauen`, `live-sonderfall-edge-case`, `pauschalreise-statt-flug-pruefen`, ... plus 5 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

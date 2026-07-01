@@ -56,6 +56,25 @@ Plugin Fachanwalt für Medizinrecht. Orientierung Arzthaftung §§ 630a ff. BGB 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-medizinrecht-orientierung`, `mandat-triage-medizinrecht`, `notaufnahme-triage`, `orientierung-mandat-fachanwaltschaft`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `630a-dokumentenmatrix-und-lueckenliste`, `aerzte-quellenkarte`, `aufklaerung-beweislast-und-darlegungslast`, `aufklaerungsfehler-beweisstrategie`, `befundherausgabe-epa-akte`, `beweislast-hightech-medizin`, `dokumentationsaudit-630f`, `fa-medizinrecht-quellen-frist-next`, `genomdaten-ehds-biobank`, `gesundheitsdatenpanne-klinik`, `medizinrecht-tatbestand-beweis-und-belege`, `mpdg-compliance-dokumentation-und-akte`, `quellen-livecheck`, `registerdaten-patientensicherheit`, `sozialrecht-formular-portal-und-einreichung`, `spezial-aerzte-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, ... plus 1 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `anaesthesie-hochrisiko-aufklaerung`, `arzthaftung-aufklaerung-bgb`, `arzthaftung-fristen-form-und-zustaendigkeit`, `behandlungsfehler-anspruch-pruefen`, `bgb-risikoampel-und-gegenargumente`, `car-t-haftung-klinik`, `diga-hersteller-arzt-haftung`, `epa-befuellpflicht-haftung`, `impfschaden-arzthaftung`, `klinische-pruefung-ctr-amg`, `livecheck-abschlussprodukt-und-uebergabe`, `medizinprodukt-haftung-paragraf-1-prodhaftg`, `medr-arzthaftung-checkliste`, `palliativmedizin-haftung`, `produkthaftung-medizinprodukt-pld`, `telemedizin-standardhaftung`, `vektor-shedding-umweltrisiko`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `behandlungsvertrag-630a`, `berufsrecht-verhandlung-vergleich-und-eskalation`, `experimentelle-behandlung-vertrag`, `fachanwalt-medizinrecht-behandlungsvertrag-630a`, `fachanwalt-medizinrecht-honorarvertrag-kv`, `honorarvertrag-kv`, `implantateregister-rueckruf`, `medr-mvz-strukturierung-spezial`, `medr-mvz-strukturwandel-spezial`, `mvz-investor-compliance`, `transplantation-allocation`, `vergleichsverhandlung-strategie`, `vertragsarztrecht-schriftsatz-brief-und-memo-bausteine` |
+| 5. Verfahren, Behörde und Gericht | `approbations-widerspruch`, `fachanwalt-medizinrecht-approbations-widerspruch`, `patientenrechte-behoerden-gericht-und-registerweg`, `patientenverfuegung-klinik`, `schriftsatzkern-substantiierung` |
+| 6. Ergebnis, Schreiben und Kommunikation | `medr-mandantenkommunikation-entscheidungsvorlage`, `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `aufklaerungsfehler`, `behandlungsfehler-paragraf-630h-bgb`, `behandlungsfehler-pruefen`, `fachanwalt-medizinrecht-aufklaerungsfehler`, `fachanwalt-medizinrecht-behandlungsfehler-pruefen`, `kanzlei-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `aerztewerbung-innovative-therapie`, `amnog-millionen-therapie`, `apothekenrecht-arzneimittel-paragraf-78-amg`, `apothekenrecht-mehrparteien-konflikt-und-interessen`, `approbation-digitales-fehlverhalten`, `arzt-anstellung-mvz`, `assistierter-suizid-beratung`, `atmp-chain-of-identity`, `atmp-classification-cat`, `atmp-pharmakovigilanz-rmp`, `aufklaerungspflicht-paragraf-630e-bgb`, `biobank-consent-withdrawal`, `cannabis-medizinisch-verordnung`, `combined-atmp-device-mdr`, `companion-diagnostic-atmp`, `compassionate-use-haertefall`, `crispr-base-editing-einwilligung`, `cybersecurity-medizinprodukt`, ... plus 64 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

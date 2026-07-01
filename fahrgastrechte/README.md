@@ -46,6 +46,21 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. EuGH-, BGH- und AG-Entscheidungen werden vor jedem Versand über curia.europa.eu, bundesgerichtshof.de oder gesetze-im-internet.de verifiziert.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `ticket-und-reisedaten-erfassen` |
+| 5. Verfahren, Behörde und Gericht | `klage-amtsgericht-fahrgast`, `widerspruch` |
+| 8. Spezialmodule und Schnittstellen | `anlagen-bauen`, `db-ablehnungsgruende-pruefen`, `eigenbefoerderung-und-betreuung-art-18`, `einfuehrung-vo-2021-782`, `entschaedigung-berechnen`, `forderung-an-db-erste-stufe`, `schlichtung-reise-verkehr-anrufen`, `verspaetung-und-anschlussverlust-einordnen`, `vollmacht-mitreisende` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

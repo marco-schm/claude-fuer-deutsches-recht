@@ -155,6 +155,23 @@ die Regelungsvorhaben und erstelle am Ende eine Registrierungsmappe mit
 Fristenkalender und Offenlegungsbausteinen fuer Erstkontakte.
 ```
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `freiwillige-registrierung-fremdmandat`, `fremdmandat-agenturfall`, `intake-mandat-lobbyregister`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `benachrichtigungskonto-monitor`, `bestaetigungsdokument-freigabe`, `betraute-personen-datenschutz`, `datenschutz-nichtoeffentliche-angaben`, `dokumentationsakte-revisionsspur-drehtuer`, `lobbyregister-hauptfinanzierungsquellen-angaben`, `stellungnahmen-gutachten-suche-open`, `visitenkarte-und-nachweise` |
+| 3. Prüfung, Anspruch und Subsumtion | `nicht-aktualisiert-risiko`, `registereintrag-finalcheck-registerfuehrende` |
+| 5. Verfahren, Behörde und Gericht | `anonymisierung-schutzantrag-auftraggeber`, `bussgeld-pruefverfahren-quartalsmonitor`, `fristen-und-quartalsmonitor`, `interne-lobbyregister-richtlinie`, `lobbyregister-kommandocenter`, `registerfuehrende-stelle-kontakt` |
+| 6. Ergebnis, Schreiben und Kommunikation | `jahresabschluss-rechenschaftsbericht-konzern` |
+| 8. Spezialmodule und Schnittstellen | `account-rollen-regelungsvorhaben-erfassen`, `adressatenkreis-bundestag-bundesregierung`, `aktualisierung-unverzueglich-adressatenkreis`, `auftraggeber-ermitteln`, `ausnahmen-bundesregierung-bundestag`, `ausnahmen-bundestag`, `drehtuer-angaben`, `end-to-erstkontakt-offenlegung`, `erstkontakt-offenlegung`, `erstregistrierung-ausfuellen`, `finanzaufwendungen-berechnen`, `fruehere-interessenvertretung`, `geschaeftsjahresaktualisierung`, `hauptstadtrepraesentanz`, `hausausweis-anhoerung-interessen`, `hausausweis-und-anhoerung`, `interessen-und-vorhabenbereiche`, `interessenvertretung-begriff-interne`, ... plus 13 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

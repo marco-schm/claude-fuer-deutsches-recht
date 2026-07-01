@@ -46,6 +46,25 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). BSG-Rechtsprechung nur
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage`, `ksv-paedagogisch-mandanten-intake-mehrere`, `mandanten-intake-status` |
+| 2. Unterlagen, Sachverhalt und Quellen | `dokumentenmatrix-status`, `formulare-c0030-frageliste-auftraggeber`, `risikomatrix-status` |
+| 3. Prüfung, Anspruch und Subsumtion | `beitragsnachforderung-haftung`, `bescheid-analyse`, `betriebspruefung-28p`, `drv-selbstcheck-eigene-betriebsstaette`, `honorarvertrag-realitaetscheck`, `obligatorisches-statusverfahren-gf`, `paragraf-7a-statusverfahren`, `statusbescheid-bestandskraft`, `statusfeststellung-geschaeftsfuehrer-lehrer-freelancer`, `unternehmerisches-risiko`, `vorstand-ag-status` |
+| 4. Gestaltung, Strategie und Verhandlung | `compliance-program-drittpersonal`, `compliance-security-access`, `dienstvertrag-werkvertrag-freie-mitarbeit`, `freie-mitarbeit-klauseln`, `optionales-anfrageverfahren`, `rahmenvertrag-einzelauftrag`, `sanierung-vorhandener-vertraege`, `stimmbindung-veto-vertragswirklichkeit`, `vertragswirklichkeit-gelebte-praxis` |
+| 5. Verfahren, Behörde und Gericht | `kurzfristige-beschaeftigung-obligatorisches`, `selbststaendige-lehrer-sozialgericht-klage`, `sozialgericht-klage`, `weisungsgebundenheit-widerspruch-klage`, `widerspruch-klage-sozialgericht` |
+| 6. Ergebnis, Schreiben und Kommunikation | `decision-tree-output`, `stellungnahme-drv` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `audit-selbsttest-ausland-remote`, `redteam-status-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `anhoerung-erwiderung-anwalt-freier`, `anwalt-freier-mitarbeiter`, `arbeitnehmerueberlassung-abgrenzung`, `arbeitsmittel`, `ausland-remote-eu-a1`, `aussenauftritt-marktchance`, `beitragsbeginn-und-vertrauensschutz`, `berater-consultant-berufsstaendische`, `berufsstaendische-versorgung-anwaelte`, `coach-trainer-program-drittpersonal-security`, `courier-platform-worker`, `crossborder-us-ksv-abgabe-kuenstler-ksvg`, `eigene-betriebsstaette`, `einbindung-it-systeme`, `eingliederung-arbeitsorganisation`, `einstweiliger-rechtsschutz-ersatzkraefte`, `ersatzkraefte-subunternehmer`, `exakt-50-prozent-gf`, ... plus 48 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

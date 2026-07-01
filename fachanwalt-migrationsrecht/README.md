@@ -43,6 +43,25 @@ Plugin Fachanwalt für Migrationsrecht als großer Praxis-Kompass mit über 200 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-migrationsrecht-orientierung`, `mandat-triage-migrationsrecht`, `orientierung-fachanwaltschaft-mandat`, `workflow-asyl-start`, `workflow-aufenthaltstitel-router`, `workflow-ausweisung-start`, `workflow-blaue-karte-start`, `workflow-dublin-geas-start`, `workflow-einbuergerung-start`, `workflow-fachkraefte-start`, `workflow-familiennachzug-start`, `workflow-kaltstart-und-routing`, ... plus 1 weitere |
+| 2. Unterlagen, Sachverhalt und Quellen | `akteneinsicht-migration`, `asylg-dokumentenmatrix-und-lueckenliste`, `datenschutz-sicherheit-migration`, `digitalbeweise-flucht`, `einbuergerung-quellenkarte`, `grenzverfahren-beweislast-und-darlegungslast`, `lagebericht-quellenkritik`, `migrationsrecht-tatbestand-beweis-und-belege`, `notfrist-compliance-dokumentation-und-akte`, `quellen-livecheck`, `rechtsberatungsstelle-formular-portal-und-einreichung`, `spezial-akteneinsicht-migration`, `spezial-datenschutz-sicherheit-migration`, `spezial-digitalbeweise-flucht`, `spezial-einbuergerung-livequellen-und-rechtsprechungscheck`, `spezial-lagebericht-quellenkritik`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, ... plus 3 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `aufenthaltsstatus-frist-und-rechtsmittel`, `aufenthaltstitel-pruefung`, `dublin-risikoampel-und-gegenargumente`, `spezial-aufenthaltsstatus-frist-und-rechtsmittel`, `staat-aegypten-migrationscheck`, `staat-aequatorialguinea-migrationscheck`, `staat-aethiopien-migrationscheck`, `staat-afghanistan-migrationscheck`, `staat-albanien-migrationscheck`, `staat-algerien-migrationscheck`, `staat-amerikanisch-samoa-migrationscheck`, `staat-andorra-migrationscheck`, `staat-angola-migrationscheck`, `staat-antigua-und-barbuda-migrationscheck`, `staat-argentinien-migrationscheck`, `staat-armenien-migrationscheck`, `staat-aruba-migrationscheck`, `staat-aserbaidschan-migrationscheck`, ... plus 215 weitere |
+| 4. Gestaltung, Strategie und Verhandlung | `bamf-anhoerung-strategie`, `fachanwalt-migrationsrecht-bamf-anhoerung-strategie`, `stag-verhandlung-vergleich-und-eskalation`, `vergleichsverhandlung-strategie` |
+| 5. Verfahren, Behörde und Gericht | `asyl-folgeantrag-71`, `asylantrag-folgeverfahren-paragraf-71-asylg`, `aufenthaltstitel-antrag`, `aufenthaltstitel-fristennotiz-und-naechster-schritt`, `aufenthg-fristen-form-und-zustaendigkeit`, `ausweisung-widerspruch`, `dublin-fristen-ueberstellung`, `fachanwalt-migrationsrecht-asyl-folgeantrag-71`, `fachanwalt-migrationsrecht-aufenthaltstitel-antrag`, `fachanwalt-migrationsrecht-ausweisung-widerspruch`, `fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024`, `geas-reform-grenzverfahren-2024`, `migr-asyl-folge-und-zweitantrag-spezial`, `migr-asylverfahren-anhoerung-leitfaden`, `qualifikations-schriftsatz-brief-und-memo-bausteine`, `schriftsatzkern-substantiierung`, `spezial-dublin-fristen-ueberstellung`, `spezial-untatigkeitsklage`, ... plus 5 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `reform-mandantenkommunikation-entscheidungsvorlage`, `workflow-arbeitgeber-memo`, `workflow-mandantenkommunikation`, `workflow-schreiben-einfache-sprache` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `geas-fehlerkatalog`, `spezial-geas-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `abschiebehaft-paragraf-62-aufenthg`, `abschiebungsabwehr`, `abschiebungshaft`, `abschiebungsverbot-60-5-7`, `anerkennung-berufsabschluss`, `arbeitgeberwechsel`, `asyl-anhoerung-glaubhaftigkeit`, `asyl-anhoerung-vorbereiten`, `aufenthalt-paragraf-25a-aufenthg`, `ausbildungsduldung`, `ausweisung-abwaegung`, `ausweisung-paragrafe-53-55-aufenthg`, `ba-zustimmung-beschaeftigung`, `beschaeftigungsduldung`, `blaue-karte-eu-mobilitaet`, `blaue-karte-gehalt-abschluss`, `bleiberecht-25a-25b`, `chancenaufenthalt`, ... plus 134 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

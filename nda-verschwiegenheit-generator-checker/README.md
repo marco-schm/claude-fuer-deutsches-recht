@@ -44,6 +44,25 @@ Dieses Plugin ist der allgemeine Verschwiegenheitsvereinbarungs-Generator und Ch
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anwaltliche-mandatsgeheimnisse`, `einseitig-gegenseitig-entwerfen-router-eu`, `entwerfen-oder-pruefen-router`, `kaltstart-routing`, `nda-intake-rollen-und-ziel` |
+| 2. Unterlagen, Sachverhalt und Quellen | `beweisprotokoll-verletzung-china-nda-clause`, `datenraum-nda-datenschutz-dsgvo-deutsches`, `datenschutz-dsgvo-und-auftragsverarbeitung`, `dokumentenmatrix-und-anlagen`, `gesundheits-forschungsdaten-gesundheitswesen`, `nda-fuer-datenraum-clean-team`, `offenlegung-in-pitch-und-datenraum`, `schadensersatz-beweislast-abmahnung-cease` |
+| 3. Prüfung, Anspruch und Subsumtion | `abschluss-check-vor-unterschrift`, `haftungsbegrenzung-und-carve-outs`, `risikoampel-fuer-empfaenger`, `risikoampel-fuer-offenleger`, `vertragsstrafe-hamburger-haftungsbegrenzung` |
+| 4. Gestaltung, Strategie und Verhandlung | `catch-all-klausel-arbeitsvertrag`, `liquidated-damages-us-uk-vergleich`, `post-signing-compliance`, `prozessvergleich-und-mediation`, `verbundene-unternehmen-verhandlungsposition`, `verhandlungsbrief-zu-harten-klauseln`, `verhandlungsposition-und-fallbacks` |
+| 5. Verfahren, Behörde und Gericht | `gerichtsstand-schiedsgericht`, `laufzeit-nachwirkungsfrist-oeffentliche-hand`, `oeffentliche-hand-und-vergabeverfahren`, `zulaessige-offenlegung-gesetz-behoerde-gericht` |
+| 6. Ergebnis, Schreiben und Kommunikation | `abschlussprodukt-redline-memo`, `mandantenbrief-einfach-abschlussbericht`, `nda-abschlussbericht-playbook` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `agb-kontrolle-angemessene`, `nda-und-audit-rights` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-und-cease-desist`, `angemessene-geheimhaltungsmassnahmen`, `arbeitsrecht-bewerber-und-recruiting`, `ausnahmen-vertraulichkeit-bank-finanzierungs`, `bank-und-finanzierungs-nda`, `berufsgeheimnisse-203-stgb`, `betriebsrat-und-personalgespraech`, `china-nda-nnn`, `clause-redline-kommentar`, `cross-border-governing-law`, `deutsches-englisches-bilinguales-nda`, `eu-trade-secrets-directive`, `executive-summary-fuer-geschaeftsfuehrung`, `familienunternehmen-nachfolge-forensik`, `forensik-und-logfiles`, `forschung-entwicklung-kooperation`, `frankreich-secret-des-affaires`, `freistellung-indemnity-geheimniskategorien`, ... plus 49 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -52,6 +52,25 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Konkrete Normen, Behö
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage`, `vorstand-ciso-kaltstart` |
+| 2. Unterlagen, Sachverhalt und Quellen | `audit-nachweisordner`, `bsi-meldestelle-formular`, `data-sovereignty-datenklassifikation`, `datenklassifikation`, `datenschutzfolgenabschaetzung-security`, `fahrer-telematik-forensik-beweissicherung`, `forensik-beweissicherung`, `lieferkette-supplier-logdaten-beschaeftigte`, `logdaten-beschaeftigte`, `mandantenakten-kanzlei`, `screenshots-datenabfluss`, `usb-wechseldatentraeger` |
+| 3. Prüfung, Anspruch und Subsumtion | `management-haftung-board-duties`, `messenger-collaboration-tool-check`, `netzsegmentierung-nis2-betroffenheitscheck`, `nis2-betroffenheitscheck`, `sektor-und-groessencheck` |
+| 4. Gestaltung, Strategie und Verhandlung | `massnahmenplan-100-tage`, `massnahmenplan-tage-maturity-assessment`, `notfallplan-bcm-open-source-patch-management`, `ransomware-verhandlungsverbot-remote-access` |
+| 5. Verfahren, Behörde und Gericht | `aufsichtsverfahren-bsi-bussgeld-remediation`, `risk-register-cyber` |
+| 6. Ergebnis, Schreiben und Kommunikation | `kommunikation-presse-kunden`, `notfallkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `pen-test-red-team`, `redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `admin-offboarding`, `airtags-lkw-tracking`, `api-security-arbeitnehmerueberwachung-it`, `arbeitnehmerueberwachung-it`, `asset-inventory-cmdb`, `backup-ransomware-banking-dual-besonders`, `banking-dual-control`, `besonders-wichtige-wichtige-einrichtung`, `betriebsrat-mitbestimmung`, `bsi-c5-cloud-grundschutz-schutzbedarf`, `bsi-grundschutz-schutzbedarf`, `bsig-registrierung-bsi`, `bussgeld-und-remediation`, `byod-policy`, `cis-controls-mapping`, `cloud-saas-company-mobile-cra-produkte`, `company-mobile-mdm`, `cra-produkte-digitale-elemente`, ... plus 53 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

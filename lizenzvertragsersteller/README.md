@@ -106,6 +106,24 @@ Konvention: siehe `references/quellenhygiene.md`, `references/zitierweise.md`, `
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `einstieg-routing`, `mandat-intake-und-konfliktpruefung` |
+| 2. Unterlagen, Sachverhalt und Quellen | `datenschutz-dsgvo-im-lizenzvertrag`, `steuern-quellensteuer-und-dba-lizenz` |
+| 3. Prüfung, Anspruch und Subsumtion | `klausel-haftung-gewaehrleistung-indemnification` |
+| 4. Gestaltung, Strategie und Verhandlung | `klausel-exklusivitaet-sole-non-exclusive`, `klausel-lizenzgegenstand-und-anlage-ip-liste`, `klausel-lizenzumfang-territorium-zeit-feld`, `klausel-mindestlizenzen-meldungen-audit`, `klausel-rechtswahl-gerichtsstand-schiedsklausel`, `klausel-unterlizenzen-sublicensing`, `klausel-verbesserungen-grant-back`, `klausel-verguetung-pauschale-royalty-tiered`, `klausel-vertragsdauer-kuendigung-rueckwirkung`, `klausel-vertraulichkeit-und-nda-interimsphase`, `output-vertrag-deutsch-fertigentwurf`, `output-vertrag-englisch-fertigentwurf`, `transaktionsstruktur-visualisieren-ascii` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-zweisprachig-bilingual-deutsch-englisch` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `exportkontrolle-dual-use-eu-2021-821` |
+| 8. Spezialmodule und Schnittstellen | `escrow-quellcode-verwahrer-vereinbarung`, `insolvenz-fortbestand-paragraf-103-inso-lizenz`, `ip-identifikation-und-bestandsaufnahme`, `kartellrecht-tt-gvo-eu-316-2014`, `lizenz-gebrauchsmuster-gebrmg`, `lizenz-geschaeftsgeheimnis-knowhow-geschgehg`, `lizenz-geschmacksmuster-design-designg`, `lizenz-marke-markeng`, `lizenz-patent-patg`, `lizenz-urheberrecht-und-software-urhg`, `parteienrolle-klaeren-lizenzgeber-nehmer-sicherheiten-verwahrer`, `sicherungslizenz-pfandrecht-an-immaterialguetern` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

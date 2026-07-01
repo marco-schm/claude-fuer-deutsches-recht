@@ -231,6 +231,25 @@ Apache-2.0 OR MIT
 Klotzkette
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage`, `mandatsabbruch-empfehlung-an-fachanwalt`, `mandatsabbruch-empfehlung-an-fachanwalt-insolvenz`, `surrogat-erloes-triage-vermoegensverschiebung`, `triage-vermoegensverschiebung-erfassen` |
+| 2. Unterlagen, Sachverhalt und Quellen | `beweise-und-darlegungslast-bereicherungsrecht`, `entreicherung-beweislast-und-substantiierung`, `inso-ki-anfechtungsansprueche-schuldnerakten`, `output-warnhinweis-und-pruefungsdokument` |
+| 3. Prüfung, Anspruch und Subsumtion | `anfg-einreden-verteidigung-grundtatbestand`, `anfg-grundtatbestand-anfechtungsberechtigte`, `anfg-grundtatbestand-und-anfechtungsberechtigte`, `anspruchsziel-und-rueckabwicklungsarchitektur`, `inso-gesellschafterdarlehen-grundtatbestand`, `inso-grundtatbestand-129`, `inso-grundtatbestand-129-glaeubigerbenachteiligung`, `insolvenzrisiko-im-dreipersonenverhaeltnis`, `leistungskondiktion-grundtatbestand-812-i-1`, `leistungskondiktion-grundtatbestand-812-i-1-alt-1`, `nichtleistungskondiktion-grundtatbestand-812`, `nichtleistungskondiktion-grundtatbestand-812-i-1-alt-2`, `parallel-und-konkurrenz-pruefung`, `verschaerfte-haftung-819-bgb-bosglaeubigkeit`, `verschaerfte-haftung-abgetretene-forderung` |
+| 4. Gestaltung, Strategie und Verhandlung | `bereicherung-bereicherungsausgleich`, `bereicherungsausgleich-bei-kettenvertraegen`, `konkurrenz-bereicherung-vertraglich`, `konkurrenz-bereicherung-vertraglich-deliktisch`, `nichtiger-vertrag-134-138-und-rueckforderung`, `vergleichsberechnung-und-verhandlungsangebot`, `vermoegensvergleich-und-nettobetrachtung` |
+| 5. Verfahren, Behörde und Gericht | `anfg-anfechtungsklage-prozessuales`, `anfg-fristen-und-anfechtungszeitraum`, `klageantrag-zahlung-herausgabe-zug-um-zug`, `klageantrag-zahlung-kondiktion-schwarzarbeit`, `leistungsbegriff-bewusste-zweckgerichtete`, `leistungsbegriff-bewusste-zweckgerichtete-mehrung`, `output-anfechtungsklage-anfg`, `output-klageschrift-bereicherungsklage`, `verfuegung-eines-nichtberechtigten-816-bgb`, `verfuegung-nichtberechtigter`, `verfuegung-nichtberechtigter-816-vertiefung`, `verjaehrung-bereicherung-anfechtung-fristen`, `verteidigung-gegen-bereicherungsklage` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-anfechtungsanzeige-insolvenzverwalter` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `qualitaetskontrolle-halluzinationsschutz`, `qualitaetskontrolle-halluzinationsschutz-bereicherungsrecht` |
+| 8. Spezialmodule und Schnittstellen | `abgetretene-forderung-und-zession`, `anfechtung-142-und-rueckabwicklung`, `anfg-anfechtungszeitraum-verjaehrung`, `anfg-einreden-verteidigung-anfechtungsgegner`, `anfg-mittelbare-benachteiligung-und-kongruenz`, `anfg-rechtsfolge-rueckgewaehr-11`, `anfg-unentgeltliche-leistung-4`, `anfg-unentgeltliche-vorsatzanfechtung`, `anfg-vorsatzanfechtung-3-i`, `anweisungsfall-deckungs-und-valutaverhaeltnis`, `arbeitsrechtliche-ueberzahlung`, `arbeitsrechtliche-ueberzahlung-ausschluss-bgb`, `ausschluss-814-bgb-kenntnis-der-nichtschuld`, `ausschluss-817-bgb-gesetzes-sittenverstoss`, `ausschluss-817-bgb-gesetzes-und-sittenverstoss`, `bankueberweisung-fehlbuchung`, `bankueberweisung-fehlbuchung-und-empfaengerhorizont`, `bereicherung-eines-dritten-822-bgb`, ... plus 73 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

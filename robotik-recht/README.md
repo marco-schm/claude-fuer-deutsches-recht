@@ -82,6 +82,25 @@ Jede externe Ausgabe soll knapp klarstellen: KI-gestützte Vorprüfung; keine am
 Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `datenschutz-cyber-intake`, `dokumentenintake-datenraum`, `einstieg-routing`, `kaltstart-triage`, `testdaten-und-validierung-vor-marktstart`, `vertrags-lieferkettenintake`, `workflow-kaltstart-und-routing`, `workflow-vertrags-und-lieferkettenintake` |
+| 2. Unterlagen, Sachverhalt und Quellen | `anwaltliche-quellenhygiene-robotik`, `beschaeftigtendatenschutz-cobot`, `beweislast-und-offenlegung-produkthaftung`, `beweismatrix-logauswertung`, `data-act-roboterdaten`, `datenminimierung-edge-cloud`, `datenminimierung-edge-datensatzqualitaet-bias`, `datensatzqualitaet-und-bias-hri`, `datenschutz-cyber-first-year-uebergangsrecht`, `datenschutz-kameras-digitaler-zwilling-dronen`, `datenschutz-kameras-und-sensorik`, `datenverlust-digitaler-deliktische-haftung`, `datenverlust-und-digitaler-schaden`, `geschaeftsgeheimnisse-logdaten-grundrechte`, `geschaeftsgeheimnisse-und-logdaten`, `ki-training-mit-roboterdaten`, `marktueberwachung-unterlagenvorlage`, `normen-standardrecherche`, ... plus 13 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `arbeitswelt-cobot-check`, `art-6-hochrisiko-robotik`, `deliktische-haftung-paragraph-823-bgb`, `eu-de-umsetzung-und-rechtsstand-livecheck`, `haftung-arzt-klinik-hersteller`, `harmonisierte-normen-human-oversight`, `harmonisierte-normen-iso-ts-15066`, `ki-vo-artikel-6-hochrisiko-robotik`, `ki-vo-integrationscheck`, `klinische-bewertung-robotik`, `konformitaetsbewertung-modulwahl`, `maschinenverordnung-annex-iii-hochrisiko`, `provider-qms-und-risikomanagement`, `risikobeurteilung-en-iso-12100`, `risikoklassifizierung-schnelltest`, `risikoklassifizierung-schnelltest-rueckruf`, `robotik-abschluss-ce-haftung`, `robotik-haftungsampel`, ... plus 3 weitere |
+| 4. Gestaltung, Strategie und Verhandlung | `agile-entwicklung-und-compliance-gates`, `batterie-ladeinfrastruktur-und-brandschutz`, `prodhaftg-und-neue-pld-vergleich`, `robot-as-a-service-vertrag`, `vergleich-und-sanierung-nach-incident`, `wartungs-und-servicevertrag-robotik` |
+| 5. Verfahren, Behörde und Gericht | `kommunal-behoerdenrobotik`, `kommunal-und-behoerdenrobotik`, `workflow-fristen-und-uebergangsrecht` |
+| 6. Ergebnis, Schreiben und Kommunikation | `board-c-level-briefing`, `presse-krisenkommunikation`, `robotik-sachverstaendigenbriefing-technikrecht`, `workflow-board-und-c-level-briefing`, `workflow-presse-und-krisenkommunikation`, `workflow-sachverstaendigenbriefing` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `produktfehler-verbrauchererwartung-robotik`, `qualitaetsmanagement-robotikhersteller`, `robotik-qualitaetsmanagement-robotikhersteller-accuracy` |
+| 8. Spezialmodule und Schnittstellen | `accuracy-robustness-cybersecurity-ai`, `arbeitsschutz-betrsichv-autonome`, `arbeitsschutz-betrsichv-robotik`, `arbeitswelt-cobot-beschaffung-oeffentlich`, `art-3-ki-system-robotik`, `autonome-lieferroboter-oeffentlicher-raum`, `barrierefreiheit-inklusion-batterie`, `barrierefreiheit-und-inklusion-robotik`, `bau-und-inspektionsroboter`, `beschaffung-oeffentlich-privat`, `betreiber-mitverschulden-betriebsanleitung`, `betreiber-mitverschulden-und-fehlbedienung`, `betreiberpflichten-training`, `betriebsanleitung-sprache-und-warnhinweise`, `biometrie-emotion-ce-zeichen-chirurgie-op`, `biometrie-emotion-und-personenerkennung`, `ce-technische`, `ce-zeichen-fehlgebrauch-und-abmahnung`, ... plus 115 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

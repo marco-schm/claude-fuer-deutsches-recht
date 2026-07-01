@@ -101,6 +101,25 @@ Dieses Plugin erstellt keine Rechtsberatung und gibt keine Erfolgsprognose ab. D
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `akten-mandantenkommunikation-entscheidungsvorlage`, `aktenauszug-erstellen`, `aktenauszug-strukturpruefung-akzg-bauleiter`, `aktenauszug-tatbestand-beweis-und-belege`, `aktenauszug-verfahrensidentifikation-gericht`, `akzg-aktenauszug-bauleiter`, `anwaltsschriftsatz-beweislast-beweismittel`, `beweismittel-gegenueberstellung`, `beweismittel-mehrparteien-konflikt-und-interessen`, `parteivortraege-compliance-dokumentation-und-akte`, `quellen-livecheck`, `sachverhaltschronologie`, `sachverhaltschronologie-textbausteine`, `schnelle-formular-portal-und-einreichung`, `schwerpunktthemen-identifikation-akten`, `spezial-tabellarische-livequellen-und-rechtsprechungscheck`, `tabellarische-quellenkarte`, `unterlagen-luecken`, ... plus 2 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `einleitungssatz-risikoampel-und-gegenargumente`, `neutralitaetspruefung`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `strukturierter-strafprozess-modus`, `verfahrensgeschichte-vergleich-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `akzg-multiparteienverfahren-konsolidierung-spezial`, `anwaltsschriftsatz-stilrichtlinie`, `arbeitsgerichtsverfahren-modus-terminkalender`, `erstellen-fristennotiz-gerichtsverfahren`, `fristen-und-terminkalender`, `gerichtsverfahren-fristen-form-und-zustaendigkeit`, `sozialgerichtsverfahren-modus`, `verfahrenschronologie`, `verfahrensidentifikation`, `verfahrenszusammenfassung-absatz`, `verfahrenszusammenfassung-rechtsweg-register` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `einarbeitung-fehlerkatalog`, `gegenueberstellung-parteivortraege`, `mandantenkommunikation-redteam-qualitygate-akzg`, `parteivortrag-gegenueberstellung`, `rechtsargumente-gegenueberstellung`, `spezial-einarbeitung-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `akzg-vertraulichkeit-redaction-spezial`, `akzg-zeitstrahl-anlagenverzeichnis-extrakt`, `anlagenverzeichnis-extrakt`, `einleitungssatz-generator`, `rechtsargumente-internationaler-bezug-und-schnittstellen`, `stilrichtlinie-sonderfall-und-edge-case`, `strafprozess-modus`, `verwaltungsprozess-modus`, `zivilprozess-modus` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

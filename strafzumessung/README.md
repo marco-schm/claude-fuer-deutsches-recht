@@ -108,6 +108,25 @@ Das Plugin deckt die Strafzumessung vom Strafbefehlsverfahren über die Hauptver
 Apache-2.0 OR MIT (siehe Plugin-Root).
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `orientierung-triage-paragraph-stgb-besonders`, `strafzumessung-erstpruefung-und-mandatsziel`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `besonders-formular-portal-und-einreichung`, `deutschem-tatbestand-beweis-und-belege`, `freiheitsstrafe-compliance-dokumentation-und-akte`, `quellen-livecheck`, `spezial-tagessatz-livequellen-und-rechtsprechungscheck`, `strafbefehl-dokumentenmatrix-und-lueckenliste`, `tagessatz-quellenkarte`, `unterlagen-luecken`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `grossen-risikoampel-und-gegenargumente`, `spezial-grossen-risikoampel-und-gegenargumente`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung`, `strafzumessungstatsachen-vergleich-eskalation`, `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung` |
+| 5. Verfahren, Behörde und Gericht | `freiheitsstrafe-ohne-bewaehrung-vollstreckung`, `iii-stpo-begruendungsanforderungen-strafurteil`, `stgb-schriftsatz-brief-und-memo-bausteine`, `strafrecht-verfahrensstadium-strafbefehl`, `verfahrensstadium-strafbefehl-bis-kammer` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `schwerer-fehlerkatalog`, `spezial-schwerer-red-team-und-qualitaetskontrolle` |
+| 8. Spezialmodule und Schnittstellen | `153a-stpo-iii-bewaehrung-stgb`, `bewaehrung-56-stgb-positive-sozialprognose`, `bewaehrung-auflagen-bewaehrungswiderruf-56f`, `bewaehrung-interessen-deutschem`, `bewaehrungswiderruf-56f-stgb`, `freiheitsstrafe-strafmass-geldstrafe`, `freiheitsstrafe-strafmass-pruefen`, `geldstrafe-grossen-rechtsmittel`, `geldstrafe-tagessatzanzahl-bestimmen`, `geldstrafe-vs-freiheitsstrafe-47-stgb`, `gesamtstrafenbildung-stgb-gestaendnis`, `gestaendnis-und-strafmilderung`, `jgg-jugendstrafe-minder-schwerer`, `minder-schwerer-fall-und-besonders-schwerer-fall`, `nachtraegliche-gesamtstrafenbildung-55-stgb`, `paragraph-46-stgb-grundsatz-strafzumessung`, `rechtsmittel-und-gesamtstrafenfolgen`, `regelbeispiele-rechtsprechung`, ... plus 13 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

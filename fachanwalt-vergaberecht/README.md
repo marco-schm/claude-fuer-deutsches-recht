@@ -44,6 +44,25 @@ Plugin Fachanwalt für Vergaberecht. Orientierung GWB §§ 97 ff. VgV UVgO SektV
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `dokumente-intake`, `einstieg-routing`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-vergaberecht-orientierung`, `kaltstart-triage`, `mandat-triage-vergaberecht`, `orientierung-fehlerkatalog`, `orientierung-mandat-fachanwaltschaft`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `architektenrecht-compliance-dokumentation-und-akte`, `ki-beschaffung-ai-act-daten-cloud`, `konzession-formular-portal-und-einreichung`, `quellen-livecheck`, `sektvo-dokumentenmatrix-und-lueckenliste`, `spezial-vergabesenat-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `vergabeakte-dokumentationsvermerk-builder`, `vergabekammer-sachverhalt-abstellungsantraege`, `vergaberecht-tatbestand-beweis-und-belege`, `vergabesenat-quellenkarte`, `wertungspreisqualitaet-matrix`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `eforms-ted-bekanntmachung-check`, `eignungspruefung`, `fachanwalt-vergaberecht-eignungspruefung`, `fachanwalt-vergaberecht-nachpruefungsantrag-vk`, `fachanwalt-vergaberecht-nachpruefungsverfahren-vk`, `konzvgv-risikoampel-und-gegenargumente`, `nachpruefungsantrag-powerdraft`, `nachpruefungsantrag-vk`, `nachpruefungsverfahren-paragraf-160-gwb`, `nachpruefungsverfahren-textbausteine`, `nachpruefungsverfahren-vk`, `schwellenwerte-2026-2027-livecheck`, `verg-eignungspruefung-leitfaden`, `verg-nachpruefungsverfahren-spezial`, `vergabe-nachpruefung-aussicht`, `vergaberechtliche-pruefung-anwaltlich-vollpruefung`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `bieterstrategie-go-no-go`, `fachanwalt-vergaberecht-verhandlungsverfahren-dialog`, `fachanwalt-vergaberecht-vk-aufklaerung-vergleich`, `resilienz-sicherheit-kritische-infrastruktur`, `vergabekammer-verhandlung-vergleich-und-eskalation`, `vergleichsverhandlung-strategie`, `verhandlungsverfahren-dialog`, `vertragsaenderung-132-gwb-change-control`, `vk-aufklaerung-vergleich` |
+| 5. Verfahren, Behörde und Gericht | `de-facto-vergabe-135-gwb-fristen`, `de-facto-vergabe-klage`, `fachanwalt-vergaberecht-de-facto-vergabe-klage`, `fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb`, `ruegeschriftsatz-160-gwb`, `ruegeschriftsatz-erstellen`, `schriftsatzkern-substantiierung`, `unterschwellen-rechtsschutz-zivilgericht`, `uvgo-fristen-form-und-zustaendigkeit`, `verfahrenswahl-kompass`, `verg-vergabeverfahren-bauleiter`, `vergabe-behoerden-gericht-und-registerweg`, `vorinformation-134-gwb-stillhaltefrist`, `wettbewerbsregister-abfrage-selbstreinigung` |
+| 6. Ergebnis, Schreiben und Kommunikation | `bieterfragen-antworten-management`, `olg-vergabesenat-beschwerdebriefing`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `angebotsoeffnung-formfehler-preisblatt`, `spezial-orientierung-red-team-und-qualitaetskontrolle` |
+| 8. Spezialmodule und Schnittstellen | `aufklaerung-nachforderung-56-vgv`, `auftragswert-losbildung-rechner`, `ausschluss-bieter-paragraf-124-gwb`, `eignung-referenzen-umsatz-nachunternehmer`, `eignungskriterien-paragraf-122-gwb`, `eu-schwelle-vergabeordnung-richtlinie-2014-24`, `fachanwalt-vergaberecht-freiberufliche-leistungen-hoai`, `fachanwalt-vergaberecht-inhouse-interkommunal`, `fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2`, `fachanwalt-vergaberecht-konzessionsvergabe-konzvgv`, `fachanwalt-vergaberecht-losbildung-mittelstandsfoerderung`, `fachanwalt-vergaberecht-olg-sofortige-beschwerde`, `fachanwalt-vergaberecht-ruege-vor-zuschlag`, `fachanwalt-vergaberecht-schadensersatz-181-gwb`, `fachanwalt-vergaberecht-sektorenvergabe-sektvo`, `fachanwalt-vergaberecht-uvgo-unterschwellenvergabe`, `fachanwalt-vergaberecht-vergabesperre-korruption-selbstreinigung`, `fachanwalt-vergaberecht-vob-a-bauvergabe`, ... plus 33 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -93,6 +93,25 @@ Die vollständige Skillliste steht unten automatisch generiert. Inhaltlich arbei
 
 *Plugin erstellt für die Kanzlei Steinacker Lichtenberg — alle Personen, Firmennamen und Aktenzeichen außerhalb von echten Gerichtsentscheidungen sind fiktiv.*
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `dokumente-intake`, `dpma-bpatg-bgh-rechtsmittelroute`, `einstieg-routing`, `fashion-luxus-kaltstart-interview`, `kaltstart-triage`, `markenrecht-erstpruefung-und-mandatsziel`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `anti-ki-beweissicherung-testkauf-bildmarke`, `beweissicherung-testkauf-screenshot-chain`, `boutique-tatbestand-beweis-und-belege`, `klageantraege-auskunft-madrid-protokoll`, `lanham-quellenkarte`, `markenarten-compliance-dokumentation-und-akte`, `schadensersatz-drei-methoden-auskunft`, `spezial-lanham-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `dpma-risikoampel-und-gegenargumente`, `markenbewertung-asset-deal-insolvenz`, `rechtsabteilung-plattformhaftung-nach-louboutin-amazon`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `agb-haendlervertrag-luxus`, `anmeldung-strategie-portfolio`, `luxus-agb-haendlervertrag-rechtsabteilung`, `uspto-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `alicante-schriftsatz-brief-und-memo-bausteine`, `benutzungsschonfrist-und-rechtserhaltende-benutzung`, `discounter-graumarkt-dpma-bpatg-widerspruch`, `dpma-widerspruch-und-loeschung`, `einstweilige-verfuegung-markenrecht-dringleichkeit`, `euipo-beschwerdekammer-eu-gerichte`, `euipo-widerspruchsverfahren`, `markenrecht-benutzungsschonfrist-loeschung`, `verfall-nichtigkeit-und-loeschungsantrag` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `markenlizenz-und-qualitaetskontrolle`, `rechtsabteilung-grenzbeschlagnahme-gegen-faelschungen` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-markenrecht-euipo-beschwerdekammer`, `absolute-schutzhindernisse-8-markeng-art7-umv`, `bildmarke-und-wort-bild`, `boesglaeubige-anmeldung-und-sperrmarke`, `dreidimensionale-marke`, `duftmarke-geschmacksmarke-einstweilige`, `erschoepfung-parallelimport-graumarkt`, `euipo-korrespondenz-markenarten-markenrecht`, `geografische-angaben-kollektiv-gewaehrleistungsmarke`, `green-claims-haptik-tastmarke-keyword`, `haptik-und-tastmarke`, `keyword-advertising-hashtag-influencer`, `ki-generierte-marken-deepfake-counterfeit`, `koexistenz-abgrenzungsvereinbarung-vertikale`, `korrespondenz-zahlen-schwellen-und-berechnung`, `madrid-protokoll-und-internationale-registrierung`, `markenmonitoring-watchlist-markenuebertragung`, `markenuebertragung-chain-of-title`, ... plus 27 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

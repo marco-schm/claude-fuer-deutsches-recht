@@ -44,6 +44,23 @@ Dieses Plugin führt durch **Festlandchina Wirtschaftsverkehr** und erzeugt je n
 
 Keine Blindzitate, keine erfundenen Rechtsprechungsfundstellen, keine Paywall-Literatur ohne Nutzerquelle. Aktuelle Wirtschafts-, Exportkontroll-, Sanktions- und China-Fragen werden als Live-Check geführt.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `chn-001-kaltstart-china-geschaeft-sortieren`, `kaltstart-china-geschaeft-sortieren`, `kaltstart-triage` |
+| 3. Prüfung, Anspruch und Subsumtion | `awg-awv-investitionspruefung`, `chn-018-awg-awv-investitionspruefung`, `chn-019-dual-use-bafa-check`, `hongkong-risikoszenario-national-security-law-und-rechtsstaat`, `politisches-risiko-china-versicherung-und-investitionsgarantien` |
+| 4. Gestaltung, Strategie und Verhandlung | `ce-kennzeichnung-und-produktsicherheit-china-import-compliance`, `china-de-risking-nicht-strategie`, `china-importeur-eu-compliance-exporteur-deutschland-nach`, `china-investment-committee-memo-exit-plan`, `china-strategie-bundesregierung-umsetzen`, `chn-003-china-strategie-bundesregierung-umsetzen`, `chn-010-importeur-eu-compliance`, `chn-012-investor-entry-options`, `chn-060-government-relations-clean-compliance`, `chn-076-exit-plan-china-operations`, `exit-plan-china-operations`, `government-relations-clean-compliance`, `investor-entry-options`, `wfoe-joint-venture-rep-office-rechtsformvergleich` |
+| 6. Ergebnis, Schreiben und Kommunikation | `abschlussmemo-china-deal`, `chn-099-abschlussmemo-china-deal` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `chn-063-supplier-audit-without-window-dressing`, `chn-096-red-team-ideological-pressure`, `chn-097-red-team-overdependency`, `lieferantenaudit-china-methodik-gegen-window-dressing`, `red-team-ideological-pressure`, `red-team-ideologischer-druck`, `red-team-overdependency` |
+| 8. Spezialmodule und Schnittstellen | `anti-bribery-and-gifts`, `anti-coercion-instrument-eu`, `arbitration-hk-siac-ciamac`, `asset-protection-and-cash-repatriation`, `automotive-supply-chain`, `battery-ev-solar-supply-chain`, `board-paper-china-risk`, `capital-controls-and-payments`, `china-counterfeit-and-parallel-trade-fair`, `china-csddd-readiness-whistleblower-channel`, `china-customs-tariff-origin-preferential-not`, `china-dual-use-bafa-us-ear-export-control`, `china-electronics-and-semiconductors-medical`, `china-employee-data-cloud-and-erp-wechat`, `china-environmental-permits-factory-workplace-safety-union-and`, `china-export-control-law-touchpoints`, `china-fdi-screening-deutschland-chinesische-investoren-critical`, `china-incident-response-media-and-public`, ... plus 149 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

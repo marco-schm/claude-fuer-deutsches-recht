@@ -52,6 +52,24 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt kei
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-einigungsvertrag-akte`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `alte-ddr-unterlagen-auswerten`, `bodenreformland-akte-anfordern`, `chronologie-und-belegmappe`, `historische-akte-quellenkritisch-lesen`, `landwirtschaftliche-flaeche-akte-anfor`, `mauergrundstueck-akte-anfordern`, `oeffentlicher-belegmappe-volkseigener`, `parteivermoegen-akte-anfordern`, `volkseigener-betrieb-akte-anfordern`, `wohnhaus-ddr-enteignung-akte-anfordern` |
+| 3. Prüfung, Anspruch und Subsumtion | `bodenreformland-anspruchspfad-pruefen`, `ein-006-vermoegensgesetz-anspruchspfad`, `ein-041-mauergrundstueck-anspruchspfad-pruefen`, `ein-051-bodenreformland-anspruchspfad-pruefen`, `ein-061-parteivermoegen-anspruchspfad-pruefen`, `ein-071-kommunalvermoegen-anspruchspfad-pruefe`, `kommunalvermoegen-anspruchspfad-pruefe`, `mauergrundstueck-anspruchspfad-anfordern`, `parteivermoegen-anspruchspfad-pruefen`, `treuhandprivatisierung-anspruchspfad-p`, `vermoegensgesetz-anspruchspfad`, `volkseigener-betrieb-anspruchspfad-pru`, `wohnhaus-ddr-enteignung-anspruchspfad` |
+| 4. Gestaltung, Strategie und Verhandlung | `bodenreformland-vergleich-bewerten`, `einigungsvertrag-bodenreform-landwirtschaft`, `einigungsvertrag-kommunalvermoegen-zuordnung`, `einigungsvertrag-treuhandprivatisierung`, `kommunalvermoegen-vergleich-bewerten`, `parteivermoegen-vergleich-bewerten`, `prozessstrategie-verwaltungsgericht`, `treuhandprivatisierung-vergleich-bewer`, `volkseigener-betrieb-vergleich-bewerte` |
+| 5. Verfahren, Behörde und Gericht | `ausschlussfristen-bestandskraft`, `behoerde-und-archiv-finden`, `bodenreform-grundbuch-registerlage`, `bodenreformland-behoerdenbrief-schreiben`, `bodenreformland-fristproblem-markieren`, `bodenreformland-klage-bewerten`, `bodenreformland-widerspruch-pruefen`, `ein-016-behoerde-und-archiv-finden`, `ein-027-volkseigener-betrieb-behoerdenbrief-sc`, `ein-028-volkseigener-betrieb-widerspruch-pruef`, `ein-037-treuhandprivatisierung-behoerdenbrief`, `ein-047-mauergrundstueck-behoerdenbrief-schrei`, `ein-048-mauergrundstueck-widerspruch-pruefen`, `ein-057-bodenreformland-behoerdenbrief-schreib`, `ein-058-bodenreformland-widerspruch-pruefen`, `ein-067-parteivermoegen-behoerdenbrief-schreib`, `ein-068-parteivermoegen-widerspruch-pruefen`, `ein-077-kommunalvermoegen-behoerdenbrief-schre`, ... plus 32 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `ein-015-grundbuchberichtigung-pruefen` |
+| 8. Spezialmodule und Schnittstellen | `024-volkseigener-betrieb-berechtigte-ermit`, `art-21-und-art-22-vermoegen-trennen`, `bodenreformland-berechtigte-grundbuch`, `bodenreformland-chronologie-bauen`, `bodenreformland-grundbuch-auswerten`, `ein-002-art-21-und-art-22-vermoegen-trennen`, `ein-005-parteivermoegen-pruefen`, `ein-007-mauergrundstuecksgesetz-pruefen`, `erbfolge-und-berechtigtenkette`, `kommunalvermoegen`, `kommunalvermoegen-berechtigte-ermittel`, `kommunalvermoegen-chronologie-bauen`, `kommunalvermoegen-grundbuch-auswerten`, `landwirtschaftliche-flaeche`, `landwirtschaftliche-flaeche-berechtigt`, `landwirtschaftliche-flaeche-chronologi`, `landwirtschaftliche-flaeche-widerspruc`, `landwirtschaftliche-flaeche-wohnhaus-ddr`, ... plus 20 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

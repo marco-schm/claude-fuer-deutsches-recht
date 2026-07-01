@@ -78,6 +78,25 @@ Vollumfaengliches Plugin für Fachanwaltschaft Sozialrecht inkl. Kanzleioperativ
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `erstgespraech-mandatsannahme`, `fachanwalt-sozialrecht-orientierung`, `kaltstart-triage`, `mandanten-intake`, `mandat-triage-sozialrecht`, `sozialrecht-fallaufnahme-routing`, `sozialrecht-kanzlei-kaltstart-interview` |
+| 2. Unterlagen, Sachverhalt und Quellen | `akteneinsicht-anfordern`, `akteneinsicht-auswerten`, `laienhilfe-akteneinsicht-laie`, `laienhilfe-beweise-atteste`, `laienhilfe-em-rente-gutachten`, `laienhilfe-gutachten-fehler-finden`, `laienhilfe-konto-pfaendung-sozialleistungen`, `laienhilfe-unterlagen-sortieren`, `long-covid-akte-und-tagebuch`, `long-covid-me-cfs-pem-beweis` |
+| 3. Prüfung, Anspruch und Subsumtion | `bescheid-frist-quick-check`, `bescheidanalyse`, `erwerbsminderungsrente`, `erwerbsminderungsrente-paragraf-43-sgb-vi-bsg-b-13-r-25-19-r`, `fachanwalt-sozialrecht-erwerbsminderungsrente`, `laienhilfe-checkliste-vor-absenden`, `laienhilfe-erwerbsminderungsrente-antrag`, `laienhilfe-ueberpruefungsantrag-44-sgbx`, `long-covid-erwerbsminderung-gdb-reha-beweis`, `long-covid-erwerbsminderung-leistungsbild` |
+| 4. Gestaltung, Strategie und Verhandlung | `fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung`, `laienhilfe-muendliche-verhandlung-sg`, `laienhilfe-nachzahlung-zinsen`, `laienhilfe-vergleich-sozialgericht`, `vergleich-sg-widerspruchsverhandlung`, `vergleichsverhandlung-strategie` |
+| 5. Verfahren, Behörde und Gericht | `eilantrag-sozialrecht`, `eu-rente-antrag`, `fachanwalt-sozialrecht-eu-rente-antrag`, `fachanwalt-sozialrecht-sgb-ii-bescheid`, `fachanwalt-sozialrecht-widerspruch-sozialleistung`, `fristenbuch-sozialrecht`, `hilfsmittelantrag-pruefen`, `klage-sozialgericht`, `laienhilfe-beitragsbescheid-krankenkasse`, `laienhilfe-bescheid-verstehen`, `laienhilfe-eilantrag-notfall`, `laienhilfe-fristenkalender`, `laienhilfe-klage-sozialgericht-einfach`, `laienhilfe-pflegegrad-widerspruch-module`, `laienhilfe-reha-antrag`, `laienhilfe-telefonat-behoerde`, `laienhilfe-widerspruch-einfach`, `pflegegrad-widerspruch`, ... plus 5 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandantenbrief-leichte-sprache` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `laienhilfe-fehlervermeidung-sozialrecht`, `long-covid-gutachten-red-team` |
+| 8. Spezialmodule und Schnittstellen | `anlagen-erstellen`, `arbeitslosengeld-paragraf-150-sgb-iii`, `arbeitsunfall-paragraf-8-sgb-vii`, `buergergeld-sanktion-paragraf-31-sgb-ii-bverfg-1-bvl-7-16`, `eingliederungshilfe-paragraf-99-sgb-ix`, `eingliederungshilfe-schule`, `einstieg-in-den-skill-verbund-sozialrecht`, `fachanwalt-sozialrecht-gdb-schwerbehinderung`, `fachanwalt-sozialrecht-krankengeld-aussteuerung`, `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg`, `gdb-schwerbehinderung`, `krankengeld-aussteuerung`, `krankengeld-paragraf-44-sgb-v-bsg-b-1-kr-19-22-r`, `laienhilfe-arbeitslosengeld-sperrzeit`, `laienhilfe-asylblg`, `laienhilfe-aufhebung-rueckforderung`, `laienhilfe-aussteuerung-nahtlosigkeit`, `laienhilfe-berufskrankheit`, ... plus 36 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

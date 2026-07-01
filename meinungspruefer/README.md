@@ -79,6 +79,25 @@ Der Einstieg fragt schnell ab: exakter Wortlaut, Medium, Publikum, Anlass, Vorge
 
 Stand: 05/2026. Kernnormen: Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, §§ 185-188, 192-194 StGB, §§ 823, 824, 1004 BGB analog, § 22 KUG bei Bildern und DSA-Schnittstellen bei Plattformen. Leitentscheidungen sind im Skill `rechtsprechungsbank-verifiziert` dokumentiert; der USA-Vergleich ist ausdrücklich nur Vergleich, kein Import amerikanischer Standards in die deutsche Prüfung.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `dokumente-intake`, `einstieg-routing`, `kaltstart-triage`, `meinungspruefer-erstpruefung-und-mandatsziel`, `schmaehkritik-formalbeleidigung-schnelltriage`, `schnelltriage-aeusserung`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aeusserungsrecht-tatbestand-beweis-und-belege`, `beleglage-tatsachenbehauptung-beweissicherung`, `beweissicherung-screenshots`, `rechtsvergleich-usa-risikomatrix-ampel`, `risikomatrix-ampel`, `spezial-stgb-livequellen-und-rechtsprechungscheck`, `stgb-quellenkarte`, `strafrecht-beleidigung-testakte-auswertung`, `tatsache-dokumentenmatrix-und-lueckenliste`, `testakte-auswertung`, `unterlagen-luecken`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `beleidigung-meinungspruefer`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `verleumdung-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `chronologie-fristen`, `meinung-strafantrag-verfahren`, `strafantrag-194-und-verfahren` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-memo-pruefvermerk`, `stellungnahme-verteidigung-schule-elternchat` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `europarecht-emrk-gegendarstellung`, `gegendarstellung-entschuldigung-deeskalation` |
+| 8. Spezialmodule und Schnittstellen | `abmahnung-strafanzeige-reaktion`, `abwaegung-art-arbeitgeber-betrieb`, `arbeitgeber-betrieb-kantine`, `egmr-art-eugh-grch`, `eugh-grch-art-11-rechtsprechung`, `kommunalrecht-buergermeister-machtkritik`, `machtkritik-amtstraeger`, `mehrdeutigkeit-sinnermittlung-meinung`, `meinung-tatsache-abgrenzung`, `nachrede-tatsache`, `olg-kg-rechtsprechungsbank-verifiziert`, `personen-politisches-presserecht-plattformen`, `presserecht-plattformen-loeschung-dsa`, `rechtsprechungsbank-verifiziert`, `satire-ironisierung-schimpfwort-lackaffe`, `schimpfwort-lackaffe-und-spott`, `schule-elternchat`, `soziale-medien-aeusserungsrecht`, ... plus 6 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -58,6 +58,24 @@ Dieses Plugin soll keine nicht prüfbaren Fundstellen produzieren. Bei unsichere
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `apothekenbetrieb-dokumentenintake`, `erlaubnis-filialverbund-routing`, `kaltstart-apothekenrecht`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `btm-rezept-betaeubungsmittel-dokumentation`, `cannabis-medizinalcannabis-abgabe-dokumentation`, `datenschutz-in-apotheke-gesundheitsdaten` |
+| 3. Prüfung, Anspruch und Subsumtion | `amts-medikationsanalyse`, `arzneimittelpruefung-ausgangsstoffe-pruefprotokoll`, `lieferengpaesse-austausch-livecheck-apog`, `livecheck-apog-apbetro-amg`, `rezeptur-plausibilitaetspruefung-herstellungsanweisung` |
+| 4. Gestaltung, Strategie und Verhandlung | `compliance-audit-apothekenverbund`, `heimversorgung-versorgungsvertrag-mietvertrag`, `mietvertrag-apothekenstandort-konkurrenzschutz`, `substitution-rabattvertrag-aut-idem` |
+| 5. Verfahren, Behörde und Gericht | `beanstandung-durch-aufsichtsbehoerde-anhoerung`, `blutprodukte-haemophilie-registerpflicht`, `output-behoerdenbrief-sop-mandantenmemo` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `btm-rezeptur-audit-apothekenverbund`, `qualitaetsmanagement-qms-raeume-ausstattung` |
+| 8. Spezialmodule und Schnittstellen | `apothekenbetriebsordnung-grundpflichten`, `apothekenerlaubnis-apog-persoenliche-voraussetzungen`, `apothekenrevision-vorbereitung`, `apothekenuebliche-waren-abgrenzung`, `arzneimittelabgabe-verschreibungspflicht`, `arzneimittelrisiken-rueckruf-aufsicht`, `aufsicht-anhoerung-ordnungswidrigkeit`, `beschwerdemanagement-patient-blutprodukte`, `defektur-100er-dienstbereitschaft-notdienst`, `dienstbereitschaft-notdienst-schliessung`, `digitale-plattformen-marktplatz-apothekenrecht`, `e-rezept-erlaubnis-filialverbund`, `filialapotheke-hauptapotheke-leitung-vertretung`, `fremd-mehrbesitzverbot-gefahrstoffe`, `gefahrstoffe-chemikalien-ausgangsstoffe`, `hygiene-pandemie-infektionsschutz`, `impfleistungen-apotheken-import-einzelimport`, `import-einzelimport-73-amg`, ... plus 26 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

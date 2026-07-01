@@ -167,6 +167,25 @@ Das System warnt aktiv in folgenden Situationen:
 Apache-2.0 OR MIT — siehe LICENSE im Repository-Root.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `dokumente-intake`, `einstieg-routing`, `interaktiver-erstpruefung-und-mandatsziel`, `mandatsabbruch-empfehlung-beweisbedarf`, `spezial-interaktiver-erstpruefung-und-mandatsziel`, `start-chronologie-fristen`, `subsumtion-obersatz-rewrite-klausurton-triage`, `triage-rechtsfrage-oder-norm`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `anwenden-quellenkarte`, `beweisbedarf-und-belege-erfassen`, `darlegungs-und-beweislast-verteilen`, `einreden-compliance-dokumentation-und-akte`, `kandidatenloesung-subsumtion-pruefen`, `output-pruefungsdokument-mit-warnhinweisen`, `rechtsprechung-recherche-strategie`, `spezial-anwenden-livequellen-und-rechtsprechungscheck`, `spezial-subsumtions-tatbestand-beweis-und-belege`, `subsumtions-tatbestand-beweis-und-belege`, `tbm-grundrechte-grch-kandidatenloesung`, `unterlagen-luecken`, `waehlen-rechtsprechung-recherche-europarecht`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `einschlaegige-normen-vorschlagen-de`, `einschlaegige-normen-vorschlagen-eu`, `eu-abgrenzung-einschlaegige-normen`, `grundrechte-pruefung-de-und-grch`, `konkurrenzen-anspruchsgrundlagen`, `norm-historie-und-aenderungen`, `norm-zerlegen-mandantenbrief`, `schema-schritt-subsumtions`, `selbst-vorgelegte-subsumtion-zerlegen`, `subsumtions-rewrite-klausurton`, `tatbestandsmerkmale-vier-zerlegen`, `workflow-fristen-und-risikoampel`, `zerlegen-risikoampel-und-gegenargumente` |
+| 4. Gestaltung, Strategie und Verhandlung | `generalklauseln-pruefen` |
+| 5. Verfahren, Behörde und Gericht | `europarecht-fristen-form-und-zustaendigkeit`, `output-antrag-beschwerde-klageschrift`, `schritt-schriftsatz-brief-und-memo-bausteine`, `spezial-schritt-schriftsatz-brief-und-memo-bausteine`, `spezial-vier-behoerden-gericht-und-registerweg`, `verfahrensart-bestimmen-verjaehrung`, `verjaehrung-fristen-pruefen`, `vier-behoerden-gericht-und-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-alltagssprache-de`, `output-fremdsprachig-en-fr`, `output-juristisch-gestochen-de`, `output-memo-und-mandantenbrief` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `fehlerklasse-bgb-at-training` |
+| 8. Spezialmodule und Schnittstellen | `eu-vorabentscheidung-falsche-wiese`, `falsche-wiese-warnung`, `interessen-rechtsberatung-rechtsfolgen`, `kommentar-literatur-konkurrenzen`, `rechtsberatung-internationaler-bezug-und-schnittstellen`, `rechtsfolge-bestimmen-einreden-interaktiver`, `rechtsfolgen-zahlen-schwellen-und-berechnung`, `spezial-pruefen-mehrparteien-konflikt-und-interessen`, `unbestimmte-rechtsbegriffe-ungeschriebene`, `ungeschriebene-merkmale-judikatur`, `ziel-und-rechtsweg-bestimmung` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

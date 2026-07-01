@@ -62,6 +62,25 @@ Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegig
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `kaltstart-interview`, `kaltstart-triage`, `start-chronologie-fristen`, `tabellenreview-erstpruefung-und-mandatsziel`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `belegkette-rueckverfolgung`, `belegkette-rueckverfolgung-caching-rerun`, `chronologie-und-belegmatrix`, `datenpunkt-dokument-excel-beweislast`, `datenpunkt-dokumentenmatrix-lueckenliste`, `dokument-behoerden-gericht-und-registerweg`, `dokumentstapel-aufnehmen`, `excel-beweislast-darlegungslast`, `excel-beweislast-und-darlegungslast`, `gestapelt-compliance-dokumentation`, `immobilien-formular-portal-einreichungslogik`, `immobilien-formular-portal-und-einreichung`, `quellen-livecheck`, `spezial-steuer-livequellen-und-rechtsprechungscheck`, `steuer-quellenkarte`, `tabellenreview-dokument-behoerden-gerichts-registerweg`, `unterlagen-luecken`, `workflow-unterlagen-lueckenliste`, ... plus 2 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `erstpruefung-rollenklaerung`, `excel-multi-kreuzblatt-konsistenzpruefung-pdf`, `fristen-und-risikoampel`, `gestapelt-immobilien-massenpruefung`, `kreuzblatt-konsistenzpruefung`, `massenpruefung-interessen`, `massenpruefung-mehrparteien-konflikt-und-interessen`, `pruefer-uebergabe-paket`, `risikoampel-aggregation`, `zeilenprompts-risikoampel-gegenargumente`, `zeilenprompts-risikoampel-und-gegenargumente` |
+| 4. Gestaltung, Strategie und Verhandlung | `perspektiven-verhandlung-vergleich-eskalation`, `perspektiven-verhandlung-vergleich-und-eskalation`, `vertragsstapel-internationaler-bezug`, `vertragsstapel-vorlage-arbeitsvertrag`, `vorlage-arbeitsvertrag-portfolio` |
+| 5. Verfahren, Behörde und Gericht | `arbeitsblatt-schriftsatz-brief-memo-bausteine`, `arbeitsblatt-schriftsatz-brief-und-memo-bausteine`, `spaltenprompts-fristen-form-und-zustaendigkeit`, `spaltenprompts-fristen-form-zustaendigkeit`, `tr3d-feststellungsklage-tabellenfeststellung`, `tr3d-feststellungsklage-tabellenfeststellung-spezial` |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandantenkommunikation`, `onboarding-mandantenkommunikation`, `onboarding-mandantenkommunikation-entscheidungsvorlage`, `output-waehlen`, `pdf-bericht-erzeugen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `audit-trail-protokoll`, `professional-review-sheet`, `professional-review-tabellenreview-vendor-red-team-korrektur`, `prompt-versionierung-paket-review`, `redteam-qualitygate`, `review-durchfuehren`, `vendor-fehlerkatalog`, `vendor-red-team-und-qualitaetskontrolle`, `vorlage-ma-arbeitsblatt-perspektiven-audit` |
+| 8. Spezialmodule und Schnittstellen | `aggregation-spaltenprompts-definieren`, `arbeitsblatt-perspektiven-definieren`, `caching-und-teil-rerun`, `excel-multi-sheet-export`, `mehrblatt-sonderfall-edge-case`, `mehrblatt-sonderfall-onboarding-perspektiven`, `prompt-versionierung`, `spaltenprompts-definieren`, `tr3d-bestreitensgruende-leitfaden`, `tr3d-massearmut-tabelle-spezial`, `tr3d-pruefkategorien-bauleiter`, `tr3d-pruefkategorien-vorlage-vendor-wuerfel`, `vorlage-immobilien-portfolio`, `vorlage-ma-due-diligence`, `vorlage-vendor-onboarding-3d`, `wirtschaft-wuerfel-zeilenprompts`, `wirtschaft-zahlen-schwellenwerte-berechnung`, `wuerfel-aufbauen`, ... plus 1 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

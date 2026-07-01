@@ -74,6 +74,25 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 - Zahlen, Fristen, Schwellenwerte und Zuständigkeiten werden sichtbar hergeleitet oder als Annahme gekennzeichnet.
 - Ausgabe immer so, dass eine Berufsträgerin oder ein Berufsträger sie sofort prüfen, kürzen, freigeben oder verwerfen kann.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `bess-kaltstart-projektaufnahme`, `dokumente-intake`, `einfuehrung-energieprojekt-intake`, `einstieg-routing`, `energieprojekt-intake-und-regulierungsweiche`, `energierecht-erstpruefung-und-mandatsziel`, `fusion-kaltstart-regulierungsweg`, `routing-internationaler-bezug-und-schnittstellen`, `typ-anfrage-mandanten-routing`, `workflow-anschluss-skills-router`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `bess-brandschutz-co-location-datenschutz`, `bess-datenschutz-video-leitwarte`, `bess-ppa-projektakte-rechtsmittel`, `fusion-sicherheitsnachweis`, `netzanschluss-formular-portal-und-einreichung`, `quellen-livecheck`, `rechtsquellen-sonderfall-edge-case`, `spezial-verfahren-livequellen-und-rechtsprechungscheck`, `stadtwerke-tatbestand-beweis-und-belege`, `system-beweislast-und-darlegungslast`, `unterlagen-luecken`, `verfahren-quellenkarte`, `waerme-dokumentenmatrix-und-lueckenliste`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `bess-produktsicherheit-haftung-versicherung-schadenfall`, `livecheck-fristennotiz-versorger`, `netze-risikoampel-und-gegenargumente`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `bess-behoerdenstrategie`, `fusion-bauleitplanung-starnberger-see`, `infrastrukturprojekte`, `ladeinfrastruktur-spezial-vertragskette`, `ppa-cppa-vertragsspezialitaeten` |
+| 5. Verfahren, Behörde und Gericht | `industrie-schriftsatz-brief-und-memo-bausteine`, `verfahren`, `versorger-fristen-form-und-zustaendigkeit`, `vertrieb-behoerden-gericht-und-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `bess-output-board-paper`, `mandantenkommunikation-output-waehlen-redteam`, `workflow-output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `bess-projektakte-qualitygate`, `kwkg-netzanschluss-netze-praesumtion-red-team-korrektur`, `praesumtion-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `anfrage-mehrparteien-konflikt-und-interessen`, `anschluss`, `bess-abfall-recycling-rueckbau`, `bess-abstandsflaechen-baurecht-brandenburg`, `bess-baurecht-brandenburg`, `bess-bimschg-und-4-bimschv`, `bess-co-location-pv-wind`, `bess-dieselgenerator-notstrom`, `bess-epc-fca-agnes-finanzierung`, `bess-fca-agnes-bnetza`, `bess-finanzierung-bankability`, `bess-kapazitaetsmarkt-grundlast`, `bess-kritis-marktrollen-bilanzkreis`, `bess-marktrollen-bilanzkreis`, `bess-naturschutz-artenschutz`, `bess-netzanschluss-hoehe-spannung`, `bess-netzentgelte-board-physische`, `bess-physische-sicherheit-terror`, ... plus 31 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

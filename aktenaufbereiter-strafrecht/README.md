@@ -43,6 +43,25 @@ Aktenaufbereiter für die Strafverteidigung. Bringt große Strafakten in den Gri
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `aktenaufbereiter-erstpruefung-und-mandatsziel`, `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenaufbereiter-strafrecht`, `akteneinsicht-uebersicht`, `akteneinsicht-uebersicht-aktenvorblatt`, `aktenlektuere-fristennotiz-und-naechster-schritt`, `aktenvorblatt-erstellen`, `aktenvorblatt-schriftsatz-brief-und-memo-bausteine`, `beweismittel-katalog-beweisverwertungsverbote`, `beweisverwertungsverbote-pruefen`, `beziehungsmatrix-personen-taten`, `chronologie-compliance-dokumentation-und-akte`, `ergaenzbar-formular-portal-und-einreichung`, `excel-dokumentenmatrix-und-lueckenliste`, `fortlaufend-luecken-personenverzeichnis`, `fristenliste-strafverfahren-aktenlektuere`, `luecken-mandantenkommunikation-entscheidungsvorlage`, `quellen-livecheck`, `revision-rechtsfehler-aktenaufbereiter`, `spezial-tatkomplexe-livequellen-und-rechtsprechungscheck`, ... plus 8 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `aussageanalyse-aussagepsychologie`, `faehige-risikoampel-und-gegenargumente`, `sechs-u-haft-aussageanalyse`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `personenverzeichnis-verhandlung-vergleich-und-eskalation`, `strafbefehl-einspruchsstrategie`, `verstaendigung-deal-strategie` |
+| 5. Verfahren, Behörde und Gericht | `anklageschrift-zerlegen`, `chronologie-strafverfahren`, `fristen-mehrparteien-konflikt-und-interessen`, `u-haft-fristenwacht`, `uebersichten-behoerden-gericht-und-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `erkennt-fehlerkatalog`, `spezial-erkennt-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `beziehungen-spezial-chronologie-ergaenzbar`, `ersatz-sonderfall-excel-faehige`, `kronzeugen-regelung-opferzeugen-besondere`, `mandant-redteam-gate`, `opferzeugen-besondere-faelle`, `personenverzeichnis-aufbau`, `strafrecht-strafverteidigung-uebersichten`, `strafzumessung-deutsches-strafrecht`, `tatkomplexe-uebersicht`, `vermoegensabschoepfung-dritt-einziehung`, `vermoegensabschoepfung-einziehung` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -49,6 +49,25 @@ Keine Blindzitate, keine erfundenen Rechtsprechungsfundstellen, keine Paywall-Li
 
 Ergänzt sind Spezialskills zu juristischer Erinnerungskultur, personellen Kontinuitäten, Funktionseliten, Schweigespiralen in Fakultäten und Justiz, Methodeninstrumenten der Rechtsperversion, Nürnberger Dokumentenbasis und rechtshistorischer Biografiekritik. Ziel ist keine moralische Pose, sondern präzise Quellenarbeit gegen geschönte oder verzerrte Geschichtsbilder.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `drg-001-kaltstart-epochenkarte`, `kaltstart-epochenkarte`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenanalyse-historische-fallakte`, `datenschutz-und-informationelle-selbstbestimmung`, `drg-002-quellenkritik-archiv-und-edition`, `drg-063-aktenanalyse-historische-fallakte`, `drg-087-rechtsquellen-hierarchie-historisch`, `drg-097-vertiefung-01-quellenmatrix`, `drg-106-nuernberger-prozesse-und-dokumentenbasis`, `drg-neu-005-deutscher-bund-1815-bundesakte-und-bundesbeschluesse`, `neu-005-deutscher-bund-1815-bundesakte-und-bundesbeschluesse`, `nuernberger-prozesse-und-dokumentenbasis`, `quellenkritik-archiv-und-edition`, `rechtsgeschichte-vertiefung-quellenmatrix-streitstand`, `rechtshistorische-gutachtenstruktur`, `rechtsquellen-hierarchie-historisch`, `verwaltungsakte-historisch-lesen` |
+| 3. Prüfung, Anspruch und Subsumtion | `deliktsrecht-und-gefaehrdungshaftung`, `drg-043-juristenausbildung-und-pruefungswesen`, `juristenausbildung-und-pruefungswesen`, `normzweck-historisch-rekonstruieren` |
+| 4. Gestaltung, Strategie und Verhandlung | `drg-035-einigungsvertrag-und-rechtsueberleitung`, `drg-074-vergleich-brd-ddr-recht`, `drg-107-generalklauseln-als-einbruchstelle-zeitgeist`, `drg-neu-017-einigungsvertrag-ueberleitung-vermoegen`, `drg-neu-020-historische-verfassungsvergleich-argumentation`, `drg-neu-020-historische-verfassungsvergleiche-als-argumentations`, `einigungsvertrag-und-rechtsueberleitung`, `fallvergleich-epochenuebergreifend`, `generalklauseln-als-einbruchstelle-zeitgeist`, `neu-017-einigungsvertrag-rechtsueberleitung-und-vermoegensfr`, `schuldrecht-vertragsfreiheit`, `vergleich-brd-ddr-recht` |
+| 5. Verfahren, Behörde und Gericht | `arbeitsgerichtsbarkeit`, `drg-030-sondergerichte-und-justizgeschichte`, `drg-neu-002-rheinisches-recht-gerichtsverfassung-und-notariat`, `finanzgerichtsbarkeit-geschichte`, `neu-002-rheinisches-recht-gerichtsverfassung-und-notariat`, `rechtsgeschichte-im-schriftsatz`, `rechtsgeschichte-rezeption-roemischen-rechts-reichskammergericht`, `reichskammergericht-und-reichshofrat`, `sondergerichte-und-justizgeschichte`, `sozialgerichtsbarkeit-geschichte`, `urteilszitate-historisch-rechtsgeschichte`, `verfassungsgerichtsbarkeit-geschichte` |
+| 6. Ergebnis, Schreiben und Kommunikation | `abschlussmemo-historische-tragfaehigkeit`, `wahlrecht-repraesentation-frauenrechte` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `drg-095-red-team-mythen-deutscher-rechtsgeschichte`, `drg-099-vertiefung-01-red-team-gegenposition`, `gegenwartsbezug-ohne-anachronismus`, `red-team-mythen-deutscher`, `vertiefung-01-red-team-gegenposition` |
+| 8. Spezialmodule und Schnittstellen | `arbeitsrecht-von-gewerbeordnung-bis-betrvg`, `archivfund-in-heutige-argumentation`, `bgb-1900-und-soziale-frage`, `bgb-entstehung-und-materialien`, `bodenreform-und-vermoegensrecht`, `bverfg-und-nachkriegskonsolidierung`, `code-civil-und-rheinisches-recht`, `ddr-recht-und-sozialistische-gesetzlichkeit`, `ddr-unrechtsstaat-schweigespirale`, `drg-005-kanonisches-recht-und-ehe`, `drg-006-rezeption-roemischen-rechts`, `drg-010-preussisches-allgemeines-landrecht`, `drg-012-historische-schule-und-pandekten`, `drg-013-bgb-entstehung-und-materialien`, `drg-014-bgb-1900-und-soziale-frage`, `drg-017-arbeitsrecht-von-gewerbeordnung-bis-betrvg`, `drg-026-staatsrecht-des-kaiserreichs`, `drg-027-weimarer-reichsverfassung`, ... plus 134 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -74,6 +74,25 @@ Das Plugin arbeitet verzeihend, aber nicht schlampig. Es akzeptiert unsaubere Gl
 
 Das Plugin trifft keine unüberprüfte Rechtsentscheidung und ersetzt keine fachliche Prüfung. Bei streitigen Rechtsfragen, Rechtskraft-/Titelthemen, vbuH, Rangverschiebungen, Absonderungsrechten, § 189-Rückbehalten und drohenden Feststellungsklagen verlangt es ausdrücklich menschliche Freigabe.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `inso-forderungsanmeldung-start-chronologie-fristen`, `intake-kanalcheck-masseverbindlichkeit`, `intake-tatbestand-beweis-und-belege`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenanlage-batchregister`, `beleg-und-urkundencheck`, `forderungsgrund-rang-und-belegpruefung`, `iap-rangordnung-ifap-aktenanlage-beleg`, `kanalcheck-beweislast-masseverbindlichkeit`, `nachforderungen-quellenkarte`, `pruefungstermin-compliance-dokumentation-und-akte`, `quellen-livecheck`, `rang-tabellenauszug-tabellenimport`, `spezial-nachforderungen-livequellen-und-rechtsprechungscheck`, `spezial-pruefungstermin-compliance-dokumentation-und-akte`, `tabellenauszug-formular-portal-und-einreichung`, `tabellenauszug-tabellenimport-verteilung`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `formalpruefung-174`, `grund-risikoampel-und-gegenargumente`, `iap-anmeldepruefung-bauleiter-aussonderung`, `insolvenzforderungsanmeldungspruefung`, `insolvenzforderungsanmeldungspruefung-erstpruefung`, `nachtraegliche-anmeldung-pruefungstermin`, `pruefungstermin-176`, `vbuh-pruefung`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `spezial-vbuh-verhandlung-vergleich-und-eskalation`, `vbuh-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `betrag-behoerden-gericht-und-registerweg`, `inso-fristen-form-und-zustaendigkeit`, `rang-nachrang-schuldnerwiderspruch`, `schuldnerwiderspruch-184` |
+| 6. Ergebnis, Schreiben und Kommunikation | `nachforderung-maengelschreiben`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `forderungsanmeldung-mandantenkommunikation-redteam-qualitygate`, `spezial-verteilung-red-team-und-qualitaetskontrolle`, `verteilung-fehlerkatalog`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `bestreiten-interessen-betrag`, `bestreiten-mehrparteien-konflikt-und-interessen`, `dubletten-serienforderungen`, `feststellung-forderungsgrund-rang-grund`, `grund-betrag-zinsen`, `iap-aussonderung-absonderung-spezial`, `iap-konzernforderungen-anfechtung-spezial`, `masseverbindlichkeit-abgrenzen`, `masseverbindlichkeit-sonderfall-und-edge-case`, `pruefentscheidung`, `pruefentscheidung-vbuh`, `quality-gate`, `streitige-forderung-179-180`, `tabellenimport-175`, `tabellenimport-zahlen-schwellen-und-berechnung`, `verteilung-bestrittene-189` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

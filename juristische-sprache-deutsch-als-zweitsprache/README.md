@@ -48,6 +48,24 @@ Es ist kein einfacher Sprachkurs. Es ist ein juristischer Verstehens- und Formul
 Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle. Keine Literatur- oder Datenbankfundstellen aus Modellwissen.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenzeichen-und-betreff`, `datenschutz-akteneinsicht-dolmetscher`, `formular-ausfuellen-hilfe`, `nachweis-beleg-erstellen`, `vertrag-einfach-aktenzeichen-betreff` |
+| 3. Prüfung, Anspruch und Subsumtion | `pruefung-vor-absenden` |
+| 5. Verfahren, Behörde und Gericht | `anlagenliste-verstehen-antrag-stellungnahme`, `antrag-stellungnahme-erklaerung`, `behoerdenpflichten-mitwirkung`, `behoerdenpflichten-mitwirkung-bescheid`, `bescheid-in-einfacher-sprache`, `email-an-behoerde-verstehen-und-schreiben`, `frist-datum-notfallmodus`, `geldbetraege-berechnungen-gerichtstermin`, `gerichtstermin-verstehen`, `keine-falschen-klage-einfach`, `klage-einfach-formulieren`, `negativer-bescheid-passiv-nominalstil`, `notfallmodus-frist-heute`, `telefonat-behoerde-unterschrift-vollmacht`, `telefonat-mit-behoerde-vorbereiten`, `widerspruch-einfach-zivilprozess-warnwoerter` |
+| 6. Ergebnis, Schreiben und Kommunikation | `zustellung-brief-postfach` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `absenden-qualitaetsgate-keine`, `grammatik-korrektur-begriffe-uebersetzen`, `qualitaetsgate-keine-herablassung` |
+| 8. Spezialmodule und Schnittstellen | `amtssprache-entschluesseln-anhoerung`, `anhoerung-verstehen`, `anwaltstermin-vorbereiten-arbeitsrecht`, `arbeitsrecht-warnwoerter`, `auslaenderrecht-warnwoerter`, `auslaenderrecht-warnwoerter-barrierefreie`, `barrierefreie-erklaerung`, `chronologie-erstellen`, `dolmetscher-und-uebersetzung`, `eigene-worte-email-an`, `email-an-anwalt`, `email-an-familienrecht-warnwoerter`, `familienrecht-warnwoerter`, `formales-einfach-ausfuellen-hilfe`, `juristische-begriffe-uebersetzen`, `lernmodus-juristendeutsch-mehrsprachige`, `mehrsprachige-glossarhilfe`, `mietrecht-warnwoerter-muss-kann`, ... plus 10 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

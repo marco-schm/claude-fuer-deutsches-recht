@@ -60,6 +60,25 @@ Plugin Fachanwalt für Verwaltungsrecht. Orientierung VwGO VwVfG Bundesland-VwVf
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-verwaltungsrecht-orientierung`, `mandat-triage-verwaltungsrecht`, `orientierung-mandat-fachanwaltschaft`, `orientierung-sonderfall-edge-case`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `anordnung-quellenkarte`, `kanzlei-formular-portal-und-einreichung`, `polizei-compliance-dokumentation-und-akte`, `quellen-livecheck`, `rechtsschutz-beweislast-und-darlegungslast`, `spezial-anordnung-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `verwaltungsrecht-tatbestand-beweis-und-belege`, `vwvfg-dokumentenmatrix-und-lueckenliste`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `amtshaftung-paragraf-839-bgb-art-34-gg`, `anfechtungs-risikoampel-und-gegenargumente`, `fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo`, `normenkontrolle-47-vwgo`, `normenkontrolle-zahlen-schwellen-und-berechnung`, `verwr-verwaltungsverfahren-checkliste`, `widerspruch-oder-klage-erstpruefung`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `einstweilige-verhandlung-vergleich-und-eskalation`, `energietrassen-planfeststellung-rechtsschutz`, `fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde`, `vergleich-106-vwgo-behoerde`, `vergleichsverhandlung-strategie`, `verwr-planfeststellung-grossvorhaben-spezial` |
+| 5. Verfahren, Behörde und Gericht | `anfechtungsklage`, `beamten-disziplinarverfahren`, `eilantrag-80-abs-5-vwgo`, `eilrechtsschutz-schriftsatz-brief-und-memo-bausteine`, `energieanlagen-bimschg-genehmigung-verfahren`, `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv`, `fachanwalt-verwaltungsrecht-anfechtungsklage`, `fachanwalt-verwaltungsrecht-beamten-disziplinarverfahren`, `fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg`, `fachanwalt-verwaltungsrecht-widerspruchsschrift`, `klagefrist-paragraf-58-vwgo-bverwg-4-c-1-19`, `klimaklage-bundeslaender-ksg-bverfg`, `schriftsatzkern-substantiierung`, `spezial-verwaltungsakt-rechtsbehelf-vorverfahren`, `verpflichtungsklage-behoerden-gericht-und-registerweg`, `verwaltungsakt-rechtsbehelf-vorverfahren`, `vwgo-fristen-form-und-zustaendigkeit`, `widerspruch-paragraf-68-vwgo`, ... plus 1 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `vorlaeufiger-mandantenkommunikation-entscheidungsvorlage`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `spezial-verwr-red-team-und-qualitaetskontrolle`, `verwr-fehlerkatalog`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `anhoerung-paragraf-28-vwvfg`, `drittanfechtung-umwelt`, `eilrechtsschutz-80-abs-5-vwgo`, `eilrechtsschutz-paragraf-80-vwgo`, `einstweiliger-rechtsschutz`, `ermessen-paragraf-40-vwvfg`, `fachanwalt-verwaltungsrecht-drittanfechtung-umwelt`, `kommunalrecht-paragraf-2-go`, `ordnungsrecht-mehrparteien-konflikt-und-interessen`, `polizei-filmen-von-einsaetzen-kug-201-stgb`, `polizeirecht-paragraf-9-polg`, `ruecknahme-rest-paragraf-48-vwvfg`, `schnittstelle-internationaler-bezug-und-schnittstellen`, `spezial-eilrechtsschutz-80-abs-5-vwgo`, `spezial-polizei-filmen-von-einsaetzen-kug-201-stgb`, `verwaltungsakt-paragraf-35-vwvfg`, `verwr-folgenbeseitigung-spezial`, `verwr-vorlaeufiger-rechtsschutz-leitfaden`, ... plus 1 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

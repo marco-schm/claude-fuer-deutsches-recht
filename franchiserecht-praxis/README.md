@@ -49,6 +49,24 @@ Die erweiterten `fran-rs-*`-Skills sind für schnelle, belastbare Inhouse-Entsch
 Der Arbeitsmodus ist jeweils gleich: erst Akte und Beweis sichern, dann Normen und Rechtsprechungsanker trennen, anschließend eine kurze Entscheidungsvorlage mit Risikoampel, Frist, Owner und nächstem Schritt ausgeben. So kann eine Rechtsabteilung schnell entscheiden, ob sie intern löst, verhandelt, abmahnt, einstweiligen Rechtsschutz vorbereitet oder Spezialberatung hinzuzieht.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `fran-001-kaltstart-franchisegeber-franchisenehmer-systemakte`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `crm-daten-und-gemeinsame-verantwortlichkeit`, `datenschutz-crm-arbeitsrecht`, `fran-011-datenschutz-crm-kundendaten-gemeinsam`, `fran-028-mystery-shopping-beweis-und-datenschutz`, `fran-031-it-system-pos-kassendaten-und-zugriff` |
+| 3. Prüfung, Anspruch und Subsumtion | `bewertungen-google-plattform-und-rufschutz`, `fran-006-gebietsschutz-standortanalyse-und-kannibalisierung`, `fran-042-bewertungen-google-plattform-und-rufschutz`, `gebietsschutz-standortanalyse-und-kannibalisierung` |
+| 4. Gestaltung, Strategie und Verhandlung | `ausgleichsanspruch`, `fran-003-franchisevertrag-agb-redline`, `fran-013-handelsvertreterausgleich-analog-pruefen`, `fran-024-usa-franchise-disclosure-vergleich`, `fran-032-lieferketten-compliance-lksg-und-esg`, `fran-046-umsatzmeldung-audit-und-nachzahlung`, `fran-049-franchisegeber-handbuch-compliance-dashboard`, `fran-050-franchisenehmer-exit-plan`, `franchise-kuendigung-und-nachvertragliche-wettbewerb`, `franchise-vertragsstruktur-vorvertragliche`, `franchise-vorvertragliche-aufklaerung-bgh`, `franchisegeber-handbuch-compliance-dashboard`, `franchisevertrag-agb-redline`, `handelsvertreterausgleich-analog-pruefen`, `lieferketten-compliance-lksg-und-esg`, `nachvertragliches-wettbewerbsverbot`, `nachvertragliches-wettbewerbsverbot-im-franchise`, `umsatzmeldung-audit-und-nachzahlung`, ... plus 1 weitere |
+| 5. Verfahren, Behörde und Gericht | `einstweilige-verfuegung-markennutzung-stoppen`, `fran-043-streitbeilegung-mediation-beirat-und-schiedsgericht`, `fran-044-einstweilige-verfuegung-markennutzung-stoppen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `fran-009-markennutzung-ci-und-qualitaetskontrolle`, `fran-027-qualitaetsaudit-filiale-und-sanktionen`, `fran-051-qualitaetsgate-franchiseakte`, `franchisenehmer-exit-qualitaetsgate`, `markennutzung-ci-und-qualitaetskontrolle`, `qualitaetsaudit-filiale-und-sanktionen`, `qualitaetsgate-franchiseakte` |
+| 8. Spezialmodule und Schnittstellen | `abwicklung-rueckbau-schilder-warenbestand`, `arbeitsrecht-scheinselbststaendigkeit-franchise`, `bau-und-ladenbau-pflichten`, `bezugsbindung-lieferanten-und-kartellrecht`, `bildungsfranchise-schulrecht-und-werbung`, `disclosure-document-fuer-internationale-investoren`, `disclosure-exit-entbranding-franchise`, `e-commerce-influencer-werbung`, `eintrittsgebuehr-laufende-gebietsschutz`, `eu-vertikal-gvo-und-franchise`, `exit-entbranding-und-social-media-accounts`, `fitness-franchise-bildungsfranchise`, `fran-004-systemhandbuch-rechtsnatur-und-aenderungsrechte`, `fran-005-eintrittsgebuehr-laufende-gebuehren-marketing-fee`, `fran-007-bezugsbindung-lieferanten-und-kartellrecht`, `fran-008-preisempfehlung-preisbindung-und-wettbewerbsrecht`, `fran-010-onlinevertrieb-plattformen-und-social-media`, `fran-012-arbeitsrecht-scheinselbststaendigkeit-franchise`, ... plus 64 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

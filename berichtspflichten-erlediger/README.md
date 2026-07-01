@@ -43,6 +43,23 @@ Beginne mit dem allgemeinen Kaltstart-Skill. Er fragt Rolle, Ziel, Frist, Unterl
 
 Normtexte werden aus amtlichen Quellen geprüft. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle verwendet. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `abfallnachweis-nachwv-api-zugang`, `arbeitsschutz-unterweisung-nachweise`, `datenminimierung-geheimnisschutz`, `fuhrpark-telemetrie-datenschutz`, `maschinen-ce-konformitaetsakte`, `mindestlohndokumentation-arbeitszeit`, `nachweisordner-dokumentenmatrix` |
+| 5. Verfahren, Behörde und Gericht | `battg-batterieregister-mengen`, `behoerdenkommunikation`, `berichtspflichten-register-und-fristenboard`, `mutterschutz-gefaehrdungsbeurteilung`, `transparenzregister-gwg-ubo` |
+| 6. Ergebnis, Schreiben und Kommunikation | `csrd-esrs-lagebericht`, `lksg-bafa-bericht` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `arbeitsunfall-dguv-audit-trail`, `audit-trail-freigabe`, `energieaudit-edl-entsendungen-a1-eudr` |
+| 8. Spezialmodule und Schnittstellen | `api-portal-zugang-rollen`, `ausland-tochter-emissionshandel-tehg`, `aussenhandel-intrastat-battg`, `baugenehmigung-baustatistik`, `bauwirtschaft-soka-behg`, `behg-brennstoffemissionen`, `bundesbank-awv-z4-z5`, `bussgeld-vermeidung-heilung`, `chemikalien-reach-csddd-vorschau-csrd`, `csddd-vorschau-lieferkette`, `elektrog-ear-mengenmeldung`, `emissionshandel-tehg-dehst`, `entsendungen-a1-mindestlohn`, `eudr-entwaldung-due-diligence`, `gefahrstoffverzeichnis-gefstoffv`, `geschaeftsfuehrer-dashboard`, `handwerk-gefahrstoffe-asbest`, `hinweisgeberschutz-jahresreport-idev`, ... plus 21 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

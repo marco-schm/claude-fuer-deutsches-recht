@@ -61,6 +61,25 @@ Folgt `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH-Pinpoint mit Rn., Hier
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `einstieg-schnelltriage-fallrouting`, `erstgespraech-mandatsannahme`, `erstpruefung-und-mandatsziel`, `fachanwalt-handels-gesellschaftsrecht-orientierung`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `fao-dokumentenmatrix-und-lueckenliste`, `gesellschafterstreit-compliance-dokumentation-und-akte`, `handels-tatbestand-beweis-und-belege`, `kanzlei-beweislast-und-darlegungslast`, `mopeg-formular-portal-und-einreichung`, `quellen-livecheck`, `spezial-fao-dokumentenmatrix-und-lueckenliste`, `spezial-gesellschafterstreit-compliance-dokumentation-und-akte`, `spezial-handels-tatbestand-beweis-und-belege`, `spezial-mopeg-formular-portal-und-einreichung`, `spezial-umwg-livequellen-und-rechtsprechungscheck`, `umwg-quellenkarte`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung`, `geschaeftsfuehrerhaftung`, `geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung`, `gmbh-gf-haftung-paragraf-43-gmbhg`, `hgb-risikoampel-und-gegenargumente`, `hgr-kollektivverteidigung-direktorenhaftung-spezial`, `partg-haftung-paragraf-8-partgg`, `spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung`, `spezial-hgb-risikoampel-und-gegenargumente`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `ag-vorstandsvertrag-vorbereiten`, `fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich`, `fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung`, `gesellschaftervertrag-abschlussprodukt-und-uebergabe`, `handelsvertreterausgleich`, `handelsvertreterausgleich-international-schnittstellen`, `hgesr-handelsvertreterausgleich-detail`, `hgr-aktionsbindungsvertrag-spezial`, `hgr-gesellschaftervertrag-tour`, `holding-strukturplanung`, `nachfolgeklausel-gesellschaftsvertrag`, `partgg-verhandlung-vergleich-und-eskalation`, `spezial-gesellschaftervertrag-abschlussprodukt-und-uebergabe`, `spezial-handelsvertreterausgleich-international-schnittstellen`, `spezial-partgg-verhandlung-vergleich-und-eskalation`, `squeeze-out-aktionaersbarabfindung`, `vergleichsverhandlung-strategie` |
+| 5. Verfahren, Behörde und Gericht | `aktg-behoerden-gericht-und-registerweg`, `aktionaersklage-anfechtung-paragraf-243-aktg`, `anfechtungsklage-bgb-gesellschaft-bgh-ii-zr-66-20`, `beschlussanfechtung-mehrparteien-konflikt-und-interessen`, `fachanwalt-handels-gesellschaftsrecht-squeeze-out-verfahren`, `fachanwalt-hgr-dis-schiedsverfahren-streit`, `gesellschaftsrecht-fristen-form-und-zustaendigkeit`, `gmbhg-schriftsatz-brief-und-memo-bausteine`, `hgr-dis-schiedsverfahren-streit`, `registerrecht-handelsregister-praxis`, `schriftsatzkern-substantiierung`, `spezial-aktg-behoerden-gericht-und-registerweg`, `spezial-beschlussanfechtung-mehrparteien-konflikt-und-interessen`, `spezial-gesellschaftsrecht-fristen-form-und-zustaendigkeit`, `spezial-gmbhg-schriftsatz-brief-und-memo-bausteine`, `spezial-token-fristennotiz-und-naechster-schritt`, `squeeze-out-verfahren`, `token-fristennotiz-und-naechster-schritt` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `seit-fehlerkatalog`, `spezial-seit-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `einstieg-in-den-skill-verbund-handels-und-gesellschaftsrecht`, `fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit`, `fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings`, `fachanwalt-hgr-dlt-pilotregime-token`, `gesellschafterstreit`, `gmbh-beirat-vetorechte-und-organnaehe`, `gmbh-cash-flow-und-darlehen-gesellschafter`, `hgb-einsichtsrecht-kommanditist-paragraf-166-hgb-bgh-ii-zr-31-21`, `hgesr-einfuehrung-rechtsformen`, `hgesr-grenzueberschreitende-formwechsel`, `hgesr-mbg-modernisierungsgesetz-praxis`, `hgr-dlt-pilotregime-token`, `hgr-due-diligence-cheker-light`, `inhabilitaet-geschaeftsfuehrer-paragraf-6-gmbhg`, `kapitalerhaltung-paragraf-30-gmbhg-bgh-ii-zr-66-19`, `ma-due-diligence-findings`, `pilotregime-sonderfall-edge-case`, `schnittstellen-mandantenentscheidung`, ... plus 3 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

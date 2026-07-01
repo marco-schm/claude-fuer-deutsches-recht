@@ -40,6 +40,25 @@ Dieses Plugin hilft Unternehmen, Kanzleien, Vorständen, Aufsichtsräten, Invest
 
 Keine Rechtsberatung. Rechtsprechung und Verwaltungspraxis nur mit frei prüfbarer Quelle und Datum/Aktenzeichen zitieren.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `datenraum-kapitalerhoehung-insiderrecht`, `ins-017-datenraum-transaktion` |
+| 3. Prüfung, Anspruch und Subsumtion | `aufsichtsrat-sonderpruefung-insiderrecht` |
+| 4. Gestaltung, Strategie und Verhandlung | `ins-014-employee-stock-plan`, `ins-049-sanierung-und-starug`, `sanierung-insolvenzreife` |
+| 5. Verfahren, Behörde und Gericht | `gerichtsverfahren-sanktionen`, `ins-027-gerichtsverfahren` |
+| 6. Ergebnis, Schreiben und Kommunikation | `ins-020-output-dossier`, `output-dossier` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `ins-019-red-team`, `red-team` |
+| 8. Spezialmodule und Schnittstellen | `ad-insiderliste`, `aktienr-anleiheemission`, `allgemein`, `analystencall`, `anleiheemission`, `archivierung`, `aufschubentscheidung-market`, `bankaufsichtliches-handeln`, `berater-kanzlei-bank`, `beraterdepot-employee`, `closed-periods`, `covenant-cyberangriff`, `cyberangriff`, `delisting-uebernahmeangebot`, `directors-closed`, `dividendenaenderung`, `dual-listed-issuer`, `employee-rumor`, ... plus 80 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

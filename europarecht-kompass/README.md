@@ -85,6 +85,25 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 - European Parliament: ordinary legislative procedure
 - EUR-Lex
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-router`, `dokumente-intake`, `einstieg-routing`, `europarecht-erstpruefung-und-mandatsziel`, `workflow-anschluss-skills-router`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `charta-quellenkarte`, `eu-rechtsquellen-vorlageweiche`, `europarecht-delegierte-durchfuehrungsakte`, `quellen-livecheck`, `rechtsquellen-beweislast-darlegungslast`, `spezial-charta-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `vorrang-dokumentenmatrix-und-lueckenliste`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `fristen-risikoampel-mandantenkommunikation`, `gegen-grundfreiheiten-livecheck-sonderfall`, `livecheck-sonderfall-und-edge-case`, `unmittelbare-risikoampel-und-gegenargumente` |
+| 4. Gestaltung, Strategie und Verhandlung | `europarecht-vertragsverletzung-durchsetzung` |
+| 5. Verfahren, Behörde und Gericht | `denkfehler-fristen-form-und-zustaendigkeit`, `er-vorlageverfahren-eur-kommissionsverfahren`, `eur-kommissionsverfahren-art-258-spezial`, `europarecht-klagearten-eugh`, `europarecht-simulation-behoerde-gericht`, `europarecht-verordnung-beschluss-soft-law`, `europarecht-vorlageverfahren-art-267`, `kommissionsverfahren-vorlageverfahren`, `nationales-verfahren-vorlageverfahren-art`, `richtlinien-schriftsatz-brief-und-memo-bausteine`, `vorlageverfahren-mehrparteien-konflikt-und-interessen`, `wirkung-behoerden-gericht-und-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `europarecht-mandantenmemo`, `europarecht-mandantenmemo-quality-gate`, `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `anrufung-red-team-und-qualitaetskontrolle`, `europarecht-deutscher-denkfehler-scanner`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `beihilfen-drafting-europarecht`, `drafting-internationaler-bezug-und-schnittstellen`, `eur-anrufung-state-beihilfen-vergaben`, `eur-mandant-uebersicht-zustaendigkeiten`, `eur-state-aid-notifikation-spezial`, `europarecht-beihilfen-vergaben`, `europarecht-gesetzgebung-trilog`, `europarecht-grundfreiheiten-binnenmarkt`, `europarecht-grundrechte-charta`, `europarecht-quality-gate`, `europarecht-richtlinie-umsetzung-simulation`, `europarecht-wettbewerb-kartell`, `grundfreiheiten-zahlen-schwellen-und-berechnung`, `petitionsausschuss-mandantenentscheidung`, `verordnungen-vorrang-unmittelbare`, `vorrang-unmittelbare-wettbewerb-kartell`, `vorrang-unmittelbare-wirkung-effet-utile` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

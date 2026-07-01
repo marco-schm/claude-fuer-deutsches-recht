@@ -73,6 +73,25 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 - Zahlen, Fristen, Schwellenwerte und Zuständigkeiten werden sichtbar hergeleitet oder als Annahme gekennzeichnet.
 - Ausgabe immer so, dass eine Berufsträgerin oder ein Berufsträger sie sofort prüfen, kürzen, freigeben oder verwerfen kann.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-router`, `dokumente-intake`, `einstieg-routing`, `infrastrukturrecht-intake-ladeinfrastruktur`, `intake-mandantenkommunikation-entscheidungsvorlage`, `mobilitaetsprojekt-intake`, `verkehrs-erstpruefung-und-mandatsziel`, `workflow-anschluss-skills-router`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `planfeststellung-dokumentenmatrix-und-lueckenliste`, `quellen-livecheck`, `spezial-verkehr-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `verkehr-infrastruktur-rechtsquellen-beweislast-darlegungslast`, `verkehr-quellenkarte`, `vi-rechtsquellen-uebersicht`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `livecheck-sonderfall-mobilitaetsprojekt`, `parkraumbewirtschaftung`, `parkraumbewirtschaftung-verkehr`, `strassenbahn-risikoampel-und-gegenargumente`, `verkehr-infrastruktur-fristen-risiko-mandant` |
+| 4. Gestaltung, Strategie und Verhandlung | `foerderung-vergabe-ladeinfrastruktur`, `infrastruktur-foerderung-nachhaltige`, `infrastruktur-foerderung-uebersicht`, `ladeinfrastruktur`, `ladeinfrastruktur-behoerden-gericht-und-registerweg`, `nachhaltige-bahninfrastruktur-emissionen`, `parkraum-planfeststellung-strassenbahn`, `planfeststellung`, `planfeststellung-grossprojekt`, `planfeststellung-grundzuege`, `verkehr-infrastrukturrecht-sondernutzung`, `verkehrsplanung-verfahren-vertragsmodell`, `verkehrsplanung-verkehrswende`, `verkehrswende-verhandlung-vergleich-und-eskalation`, `vertragsmodell-strasse-app-spezial`, `vifr-planfeststellung-strasse-bauleiter` |
+| 5. Verfahren, Behörde und Gericht | `verfahren` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `workflow-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `mobilitaetsprojekt-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `autonomous-driving`, `autonomous-driving-interessen-grossprojekt`, `autonomous-driving-strassenrecht`, `buergerentscheid-strassenbahn-spezial`, `driving-mehrparteien-konflikt-und-interessen`, `grossprojekt-zahlen-schwellen-und-berechnung`, `schulwegsicherheit-sondernutzung-strassenbahn`, `sondernutzung`, `strassenbahn`, `strassenrecht-verkehrs-verkehrswende`, `verkehrswende`, `vifr-aeg-bahnrecht-deutschlandticket`, `vifr-deutschlandticket-tarifrecht-spezial`, `vifr-luftverkehrsrecht-flughafen-spezial`, `wirtschaftsverkehr` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

@@ -108,6 +108,24 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 - Keine starren Rechtsannahmen: GwG, BaFin-/Länderhinweise, FIU/goAML, Transparenzregister, EU-Sanktionen, AMLA und FATF werden mit Abrufdatum geführt.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `aml-kyc-start-chronologie-fristen`, `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `geldwaeschepraevention-erstpruefung-und-mandatsziel`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `geldwaesche-audit-internal-datenqualitaet`, `geldwaesche-datenqualitaet-register`, `gwg-tatbestand-beweis-und-belege`, `kommandocenter-compliance-dokumentation-und-akte`, `quellen-livecheck`, `rechtsquellen`, `schulung-quellenkarte`, `spezial-schulung-livequellen-und-rechtsprechungscheck`, `testlauf-beweislast-transaktionsmonitoring`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `geldwaesche-pep-hochrisikoland-risikoanalyse`, `geldwaesche-risikoanalyse-unternehmen`, `geldwaesche-verpflichteten-check`, `livecheck-red-risikoanalyse`, `risikoanalyse-geldwaesche-bussgeld`, `risikoanalyse-und-verdachtsmeldeweiche`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `geldwaesche-gruppenweite-compliance`, `geldwaesche-verhandlung-vergleich-und-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `behoerdenverfahren-schriftsatz-brief-und-memo-bausteine`, `geldwaesche-behoerdenverfahren`, `geldwaesche-transparenzregister`, `spezial-behoerdenverfahren-schriftsatz-brief-und-memo-bausteine`, `transparenzregister-behoerden-gericht-und-registerweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen`, `simulation-mandantenkommunikation-entscheidungsvorlage` |
+| 8. Spezialmodule und Schnittstellen | `aml-kryptotransaktionen-mica-spezial`, `aml-trade-based-money-laundering-spezial`, `aml-verdachtsmeldung-fiu-leitfaden`, `awareness-zahlen-schwellen-und-berechnung`, `geldwaesche-bussgeld-reputation`, `geldwaesche-immobilien-gueterhaendler`, `geldwaesche-krypto-zahlungsdienstleister`, `geldwaesche-krypto-zahlungsdienstleister-kyc`, `geldwaesche-kyc-onboarding`, `geldwaesche-sanktionsscreening`, `geldwaesche-schulung-awareness`, `geldwaesche-sicherungsmassnahmen-simulation`, `geldwaesche-simulation-testlauf`, `geldwaesche-transaktionsmonitoring`, `geldwaesche-transaktionsstopp-freeze`, `geldwaesche-ubo-wirtschaftlich-berechtigte`, `geldwaesche-verdachtsmeldung-verpflichteten`, `goaml-gwg-spezial-kommandocenter`, ... plus 5 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

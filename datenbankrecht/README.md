@@ -43,6 +43,24 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 - Unterlassung, Auskunft, Schadensersatz, Lizenz und Beweissicherung
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `db-001-kaltstart-datenbankrecht-werk-oder-herstellerrecht`, `kaltstart-triage` |
+| 2. Unterlagen, Sachverhalt und Quellen | `abmahnung-pruefen-datenbankrecht`, `agb-auskunft-rechnungslegung`, `auskunft-rechnungslegung-schadensschaetzung`, `b2b-kundendaten-datenbank-insolvenz-als`, `beweissicherung-durch-testabruf`, `cease-and-abmahnung-pruefen-datenbankvergleich`, `datenbank-als-kreditsicherheit-due-diligence`, `datenbank-in-insolvenz-asset-deal-und-rechtekette`, `datenbankherstellerrecht-gegen-ex-mitarbeiter`, `datenbankherstellerrecht-wesentliche-investition`, `datenbanklizenz-entwurf-nutzungsumfang-und-audit`, `datenbankrecht-abschlussmemo`, `datenbankrecht-app-store-und-app-daten`, `datenbankrecht-bei-finanzmarktdaten`, `datenbankrecht-bei-saas-und-cloudmigration`, `datenbankrecht-im-logistik-tracking`, `datenbankrecht-im-verlag`, `datenbankrecht-informationsfreiheit`, ... plus 83 weitere |
+| 4. Gestaltung, Strategie und Verhandlung | `api-nutzung-rate-limits-und-vertragsbruch`, `db-007-api-nutzung-rate-limits-und-vertragsbruch`, `db-016-preisvergleich-abrufwerkzeug-und-plattformvertrag`, `db-030-lizenzanalogie-und-unterlassungsvertrag`, `lizenzanalogie-und-unterlassungsvertrag`, `preisvergleich-abrufwerkzeug-lizenzanalogie` |
+| 5. Verfahren, Behörde und Gericht | `db-020-oeffentliche-register-handelsregister-grundbuch`, `db-048-gerichtsstand-und-anwendbares-recht`, `gerichtsstand-anwendbares-api-nutzung` |
+| 6. Ergebnis, Schreiben und Kommunikation | `policy-db-abschlussmemo` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `db-050-red-team-keine-sweat-of-the-brow-verwechslung`, `red-team-keine-sweat-brow-verwechslung` |
+| 8. Spezialmodule und Schnittstellen | `agrar-logistik-cyberincident`, `backup-export-und-vendor-lock`, `data-act-bei-backup-export`, `db-004-wesentlicher-teil-qualitativ-quantitativ-bestimmen`, `db-005-unwesentliche-teile-wiederholte-systematische-entnahme`, `db-010-open-data-portal-und-nutzungsbedingungen`, `db-027-verletzung-doku-hashlog-screenshot-abrufprotokoll`, `db-034-tdm-opt-out-maschinenlesbar-pruefen`, `db-037-backup-export-und-vendor-lock-in`, `db-043-plattform-sperre-wegen-data-extraction`, `musik-app-bei`, `open-data-geschaeftsgeheimnis`, `tdm-opt-out-maschinenlesbar-pruefen`, `wesentlicher-teil-qualitativ-quantitativ-bestimmen` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

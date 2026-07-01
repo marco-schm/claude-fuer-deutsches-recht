@@ -100,6 +100,25 @@ Transfer (USA) und der § 43e-BRAO-Vertragsdokumentation.
 
 *Version 3.3.0 | Autor: Klotzkette | Lizenz: MIT*
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `nutzung-mandatsdaten`, `pflegt-erstpruefung-und-mandatsziel`, `start-chronologie-fristen`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `berufsrechtskonforme-tatbestand-beweis-und-belege`, `brao-quellenkarte`, `dokumentationspflichten-protokoll-dsgvo`, `dsgvo-compliance-dokumentation-und-akte`, `kanzleien-dokumentenmatrix-und-lueckenliste`, `literatur-quellen-prompting-leitfaden-rdg`, `quellen-livecheck`, `spezial-brao-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-chronologie-und-belegmatrix`, `workflow-unterlagen-lueckenliste` |
+| 3. Prüfung, Anspruch und Subsumtion | `kanzlei-kontext-analyse`, `rdg-pruefung-chatbot`, `vo-hochrisiko-kirk-fortbildung-bauleiter`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `auftragsverarbeitungsvertrag-pruefen`, `beruht-verhandlung-vergleich-und-eskalation`, `compliance-regelsatz-erstellen`, `dsgvo-compliance-bausteine`, `ki-kompetenz-erwerb-plan`, `musterklauseln-it-vertrag` |
+| 5. Verfahren, Behörde und Gericht | `syndikus-schriftsatz-brief-und-memo-bausteine` |
+| 6. Ergebnis, Schreiben und Kommunikation | `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `richtlinie-fehlerkatalog`, `spezial-richtlinie-red-team-und-qualitaetskontrolle` |
+| 8. Spezialmodule und Schnittstellen | `anonymisierung-pseudonymisierung`, `anwaelten-berufsrechtskonforme-beruht`, `automatisierte-entscheidungen-art-22-dsgvo`, `berufsrecht-bausteine`, `bias-diskriminierung-regelsatz-erstellen`, `bora-brak-dsgvo`, `brak-internationaler-bezug-und-schnittstellen`, `dienstleister-due-diligence`, `executive-summary-1-pager-template`, `executive-summary-bausteine`, `geschgehg-halluzinations-handhabung-kanzlei`, `halluzinations-handhabung`, `hinweisen-kanzleien-pflegt`, `kennzeichnungspflichten-veroeffentlichungen`, `ki-vo-betreiber-pflichten`, `kirk-fortbildung-pflicht-spezial`, `kirk-ki-richtlinie-bauleiter`, `kirk-leitfaden-prompts-kr-executive`, ... plus 9 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

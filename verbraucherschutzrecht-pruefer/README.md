@@ -52,6 +52,24 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt kei
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-triage`, `kaltstart-verbraucherfall-sortieren` |
+| 2. Unterlagen, Sachverhalt und Quellen | `abo-falle-beweise-sichern`, `digitale-inhalte-beweise-sichern`, `fernabsatz-beweise-sichern`, `haustuergeschaeft-beweise-sichern`, `informationspflichten-matrix-bauen`, `marketplace-beweise-agb-redlinen`, `online-shop-beweise-sichern`, `saas-fuer-verbraucher-beweise-sichern`, `vbr-084-saas-fuer-verbraucher-beweise-sichern`, `verbraucherrecht-haustuergeschaeft-widerruf-formulieren-beweise` |
+| 3. Prüfung, Anspruch und Subsumtion | `abo-falle-anspruch-pruefen`, `fernabsatz-anspruch-widerruf-formulieren`, `haustuergeschaeft-anspruch-pruefen`, `marketplace-anspruch-pruefen`, `online-shop-anspruch-pruefen`, `saas-fuer-verbraucher-anspruch-pruefen`, `smart-device-anspruch-pruefen`, `vbr-021-haustuergeschaeft-anspruch-pruefen`, `vbr-031-fernabsatz-anspruch-pruefen`, `vbr-041-online-shop-anspruch-pruefen`, `vbr-051-marketplace-anspruch-pruefen`, `vbr-061-abo-falle-anspruch-pruefen`, `vbr-071-digitale-inhalte-anspruch-pruefen`, `vbr-081-saas-fuer-verbraucher-anspruch-pruefen`, `vbr-091-smart-device-anspruch-pruefen` |
+| 4. Gestaltung, Strategie und Verhandlung | `abo-falle-vergleich-vorschlagen`, `digitale-inhalte-vergleich-vorschlagen`, `energievertrag-und-abschlag`, `fernabsatz-vergleich-vorschlagen`, `gesundheit-und-pflegevertrag`, `haustuergeschaeft-vergleich-vorschlage`, `marketplace-vergleich-vorschlagen`, `smart-device-vergleich-vorschlagen`, `vbr-089-saas-fuer-verbraucher-vergleich-vorsch`, `verbraucherrecht-abo-falle-schlichtung-klagepfad-vergleich`, `verbraucherrecht-agb-klausel-verbrauchervertrag-energievertrag`, `verbraucherrecht-online-shop-vergleich-behoerdenmeldung`, `verbraucherrecht-saas-verbraucher-vergleich-behoerdenmeldung` |
+| 5. Verfahren, Behörde und Gericht | `abo-falle-behoerdenmeldung-pruefen`, `abo-falle-frist-berechnen`, `abo-falle-klagepfad-skizzieren`, `digitale-inhalte-frist-berechnen`, `digitale-inhalte-klagepfad-skizzieren`, `fernabsatz-behoerdenmeldung-online-shop`, `fernabsatz-frist-berechnen`, `fernabsatz-klagepfad-skizzieren`, `haustuergeschaeft-behoerdenmeldung-pru`, `haustuergeschaeft-frist-fernabsatz`, `haustuergeschaeft-klagepfad-skizzieren`, `marketplace-behoerdenmeldung-pruefen`, `marketplace-frist-berechnen`, `marketplace-klagepfad-vorschlagen`, `online-shop-behoerdenmeldung-pruefen`, `online-shop-frist-berechnen`, `online-shop-klagepfad-skizzieren`, `saas-fuer-verbraucher-behoerdenmeldung`, ... plus 15 weitere |
+| 6. Ergebnis, Schreiben und Kommunikation | `046-online-shop-beschwerde-schreiben`, `abo-falle-beschwerde-schreiben`, `haustuergeschaeft-beschwerde-schreiben`, `marketplace-beschwerde-schreiben`, `online-shop-beschwerde-schreiben`, `smart-device-beschwerde-schreiben`, `telekommunikation`, `verbraucherbericht-erzeugen` |
+| 8. Spezialmodule und Schnittstellen | `072-digitale-inhalte-widerruf-formulieren`, `077-digitale-inhalte-schlichtung-waehlen`, `abo-falle-agb-redlinen`, `abo-falle-widerruf-formulieren`, `digitale-inhalte-agb-redlinen`, `digitale-inhalte-saas-verbraucher`, `digitale-inhalte-schlichtung-waehlen`, `digitale-inhalte-widerruf-formulieren`, `digitale-produkte-und-updatepflichten`, `fernabsatz-agb-redlinen`, `fernabsatz-beschwerde-schlichtung-waehlen`, `fernabsatz-schlichtung-waehlen`, `fernabsatz-widerruf-formulieren`, `finanzdienstleistung-fernabsatz`, `gewaehrleistung-und-garantie-trennen`, `haustuergeschaeft-agb-redlinen`, `kaufrecht-reparatur-und-right-to-repai`, `marketplace-agb-redlinen`, ... plus 48 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

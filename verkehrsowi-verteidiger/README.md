@@ -89,6 +89,25 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 
 Zum Arbeiten liegt die Akte unter `testakten/verkehrsowi-rotlicht-tempo`. Sie wird im Release als `testakte-verkehrsowi-rotlicht-tempo.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `start-chronologie-fristen`, `verkehrsowi-erstpruefung-und-mandatsziel`, `workflow-kaltstart-und-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `abstand-quellenkarte`, `akteneinsicht-internationaler-bezug-und-schnittstellen`, `alkohol-compliance-dokumentation-und-akte`, `alkohol-drogen-beweisverwertung`, `bussgeldbescheid-tatbestand-beweis-und-belege`, `einspruch-dokumentenmatrix-und-lueckenliste`, `hauptverhandlung-sonderfall-messakte-messung`, `messakte-formular-portal-und-einreichung`, `quellen-livecheck`, `spezial-abstand-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `verkehrsowi-aktenanlage`, `verkehrsowi-akteneinsicht-messakte`, `verkehrsowi-beweisverwertung-standardisiert`, `verkehrsowi-rechtsprechungsrecherche`, `verteidiger-beweislast-verkehrsowi`, `vowi-akteneinsicht-rohmessdaten-leitfaden`, `vowi-handyverstoss-akteneinsicht-alkohol`, ... plus 2 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `vowi-bussgeldbescheid-pruefung-bauleiter`, `workflow-fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `geschwindigkeit-verhandlung-vergleich-und-eskalation`, `verkehrsowi-hauptverhandlung-amtsgericht`, `verkehrsowi-zeugen-polizei-strategie`, `zeugenstrategie-fehlerkatalog` |
+| 5. Verfahren, Behörde und Gericht | `amtsgericht-drogen-interessen-einspruch`, `anhoerung-verkehrsowi-einspruch-messverfahren`, `rotlicht-schriftsatz-brief-und-memo-bausteine`, `spezial-anhoerung-fristen-form-und-zustaendigkeit`, `verkehrsowi-anhoerung-bussgeldbescheid`, `verkehrsowi-fristen-einspruch`, `verkehrsowi-messverfahren-geschwindigkeit`, `vowi-bussgeldbescheid-verkehrsowi-quality`, `vowi-tempomessverfahren-bussgeldbescheid` |
+| 6. Ergebnis, Schreiben und Kommunikation | `mandantenkommunikation`, `output-waehlen` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `mandantenkommunikation-redteam-qualitygate`, `spezial-zeugenstrategie-red-team-und-qualitaetskontrolle`, `workflow-redteam-qualitygate` |
+| 8. Spezialmodule und Schnittstellen | `drogen-mehrparteien-konflikt-und-interessen`, `fahrverbot-geschwindigkeit-handy`, `handy-zahlen-schwellen-und-berechnung`, `messung-fahrverbot-punkte`, `punkte-rotlicht-verkehrsowi`, `simulation-training-verjaehrung-zustellung`, `verkehrsowi-fahreridentifizierung`, `verkehrsowi-haertefall-fahrverbot`, `verkehrsowi-kommandocenter`, `verkehrsowi-punkte-fahrverbot`, `verkehrsowi-quality-gate`, `verkehrsowi-rechtsbeschwerde`, `verkehrsowi-rotlicht-abstand-handy`, `verkehrsowi-verjaehrung-zustellung` |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

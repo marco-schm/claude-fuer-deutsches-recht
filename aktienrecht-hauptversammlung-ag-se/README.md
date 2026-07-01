@@ -43,6 +43,25 @@ Dieses Plugin führt durch die Hauptversammlung vom ersten Kalendertermin bis zu
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `kaltstart-routing` |
+| 2. Unterlagen, Sachverhalt und Quellen | `auskunftsrecht-131-aktg`, `beweisakte-hv-boersennotierte-wphg-briefwahl`, `datenschutz-und-streaming`, `englische-hv-unterlagen`, `record-date-und-nachweisstichtag`, `unterlagen-zugaenglichmachen` |
+| 3. Prüfung, Anspruch und Subsumtion | `abschlusspruefer-rotation`, `abschlussprueferwahl`, `ag-typ-kleine-normale-boersennotierte-ag-se`, `hauptversammlung-einladung-finalcheck-jahreskalender-lessons`, `satzung-und-geschaeftsordnung-check`, `sonderpruefung` |
+| 4. Gestaltung, Strategie und Verhandlung | `beherrschungs-und-gewinnabfuehrungsvertrag`, `compliance-bericht-hv`, `hv-projektplan-und-raci`, `strukturmassnahmen-tagesordnung-formulierung` |
+| 5. Verfahren, Behörde und Gericht | `aktionaersregister-namensaktien-aktivistische`, `anfechtungsklage-243-aktg`, `beschlussvorschlaege`, `einberufungsbeschluss-vorstand-einpersonen-ag`, `freigabeverfahren-fristencockpit`, `fristencockpit`, `nichtigkeitsklage-241-aktg`, `notar-register-und-dienstleister`, `registeranmeldung-risk-map-satzung`, `spruchverfahren-schnittstelle` |
+| 6. Ergebnis, Schreiben und Kommunikation | `aktionaersbrief`, `aufsichtsratsbericht`, `briefwahl-und-elektronische-stimme`, `dienstleister-briefing`, `hv-aufsichtsratseinbindung-berichtspflichten`, `nachhaltigkeitsbericht-csrd-hv` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `eroeffnung-formalien-gegenantraege`, `gegenantraege-und-wahlvorschlaege`, `hv-red-team-generalprobe` |
+| 8. Spezialmodule und Schnittstellen | `abschlussverwendung-dividende`, `abstimmung-und-feststellung`, `ad-hoc-typ-kleine-aktienrueckkauf`, `aktienrueckkauf`, `aktivistische-aktionaere`, `aufsichtsratsverguetung`, `aufsichtsratswahl`, `barrierefreiheit-hv-bedingtes-kapital`, `bedingtes-kapital-und-wandelanleihen`, `besondere-vertreter`, `boersennotierte-ag-wphg-mar`, `bundesanzeiger-und-medien`, `cyberangriff-am-hv-tag`, `d-and-o-hv-fragen`, `delisting-schnittstelle-dienstleister`, `dividendenstreit`, `dualistisch-monistisch-se`, `einpersonen-ag`, ... plus 46 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick

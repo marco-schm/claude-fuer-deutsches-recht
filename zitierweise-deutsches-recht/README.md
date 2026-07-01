@@ -56,6 +56,25 @@ Norm zuerst. Dann verifizierte Rechtsprechung. Literatur nur bei bereitgestellte
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabetische Komplettliste bleibt darunter erhalten.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | `anschluss-routing`, `dokumente-intake`, `einstieg-routing`, `juristische-erstpruefung-und-mandatsziel`, `kaltstart-triage`, `workflow-kaltstart-und-routing`, `zitierweise-de-recht-start-chronologie-fristen`, `zitierweise-juristische-erstpruefung-rollenklaerung-mandatsziel` |
+| 2. Unterlagen, Sachverhalt und Quellen | `aktenzeichen-schriftsatz-brief-und-memo-bausteine`, `chronologie-und-belegmatrix`, `gericht-dokumentenmatrix-und-lueckenliste`, `kommentar-compliance-dokumentation-und-akte`, `literatur-live-beweislast-lizenziertem`, `live-beweislast-darlegungslast`, `live-beweislast-und-darlegungslast`, `nutzerquelle-fehlerkatalog`, `paywallfreie-rechtsprechungsbelege`, `quelle-quellenkarte`, `quellen-livecheck`, `spezial-quelle-livequellen-und-rechtsprechungscheck`, `unterlagen-luecken`, `workflow-unterlagen-lueckenliste`, `zitat-internationale-quellen`, `zitat-internet-quellen`, `zitat-internet-quellen-kommentar-randnummer`, `zitierweise-aktenzeichen-schriftsatz-brief-memo-bausteine`, ... plus 3 weitere |
+| 3. Prüfung, Anspruch und Subsumtion | `entscheidungsform-risikoampel-und-gegenargumente`, `fristen-und-risikoampel` |
+| 4. Gestaltung, Strategie und Verhandlung | `zitierweise-verifizierbarer-verhandlung-vergleich-eskalation` |
+| 5. Verfahren, Behörde und Gericht | `datum-entscheidungsform-spezial-gericht`, `zit-internationale-urteile-spezial`, `zitat-haus-zitierregel-instanzgerichte`, `zitat-instanzgerichte-strategisch`, `zitat-rechtsprechung-fristennotiz-naechster`, `zitierweise-datum-behoerden-gerichts-registerweg`, `zitierweise-entscheidungsform-gericht-datum-az`, `zitierweise-fristennotiz-naechster-schritt`, `zitierweise-fristennotiz-und-naechster-schritt`, `zitierweise-rechtsprechung-fristen-form-zustaendigkeit-rechtsweg` |
+| 6. Ergebnis, Schreiben und Kommunikation | `lizenziertem-mandantenkommunikation-entscheidungsvorlage`, `mandantenkommunikation`, `output-waehlen`, `zitierweise-lizenziertem-mandantenkommunikation` |
+| 7. Kontrolle, Qualität und Gegenprüfung | `redteam-qualitygate`, `spezial-nutzerquelle-red-team-und-qualitaetskontrolle` |
+| 8. Spezialmodule und Schnittstellen | `aufsatz-interessen`, `aufsatz-interessen-beckrs-blindzitate`, `beckrs-zahlen-schwellen-und-berechnung`, `blindzitate-internationaler-bezug-und-schnittstellen`, `hauszitierweise-juristische-kommentar`, `rechtsprechung-zit-rechtsprechungszitierung`, `verifizierbarer-zugriff-sonderfall-zit`, `zit-gesetzeszitierung-bauleiter`, `zit-internationale-kommentar-zitat`, `zit-kommentar-aufsatzzitierung-spezial`, `zit-rechtsprechungszitierung-leitfaden`, `zitat-amtliche-sammlung-vs-zeitschrift`, `zitat-archivierungspflicht`, `zitat-archivierungspflicht-aufsatz`, `zitat-aufsatz-zeitschrift`, `zitat-bag-bfh-bsg`, `zitat-bag-bfh-bsg-bag`, `zitat-bgh-entscheidung`, ... plus 17 weitere |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick
