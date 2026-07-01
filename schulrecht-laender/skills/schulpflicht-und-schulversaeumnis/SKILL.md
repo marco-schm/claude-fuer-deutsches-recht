@@ -1,6 +1,6 @@
 ---
 name: schulpflicht-und-schulversaeumnis
-description: "Prüft Schulpflicht, Fehlzeiten, Atteste, Bußgeld, Jugendamt und Eskalation im Schulrecht Länder."
+description: "Wenn es um Schulpflicht Und Schulversaeumnis in Schulrecht der Bundesländer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Schulpflicht Und Schulversaeumnis

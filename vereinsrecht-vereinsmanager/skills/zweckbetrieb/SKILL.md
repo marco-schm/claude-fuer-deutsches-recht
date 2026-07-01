@@ -1,6 +1,6 @@
 ---
 name: zweckbetrieb
-description: "Prüft Zweckbetrieb, wirtschaftlichen Geschäftsbetrieb, Sportveranstaltung, Wohlfahrt, Kultur und Steuerfolgen im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Zweckbetrieb in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zweckbetrieb

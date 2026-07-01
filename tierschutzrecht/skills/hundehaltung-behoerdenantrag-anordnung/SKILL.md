@@ -1,6 +1,6 @@
 ---
 name: hundehaltung-behoerdenantrag-anordnung
-description: "Hundehaltung: Behördenantrag schreiben im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Hundehaltung Behördenantrag Schreiben in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Hundehaltung Behördenantrag Schreiben

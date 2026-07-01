@@ -1,6 +1,6 @@
 ---
 name: vfgr-grundrechtspruefung-bauleiter
-description: "Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhältnismäßigkeit. Prüfraster für Klausur und Schriftsatz im Verfassungsrecht."
+description: "Wenn es um VfgR: Grundrechtspruefung in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VfgR: Grundrechtspruefung

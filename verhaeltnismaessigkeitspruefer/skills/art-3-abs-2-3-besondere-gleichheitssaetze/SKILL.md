@@ -1,6 +1,6 @@
 ---
 name: art-3-abs-2-3-besondere-gleichheitssaetze
-description: Besondere Gleichheitssaetze nach Art. 3 Abs. 2 und Abs. 3 GG. Gleichberechtigung von Mann und Frau als Strukturprinzip mit positivem Foerderauftrag sowie absolute Diskriminierungsverbote wegen Geschlecht Abstammung Rasse Sprache Heimat und Herkunft Glauben religioesen oder politischen Anschauungen und Behinderung. Erläutert wann strenge Prüfung greift wann Differenzierung trotz Anknuepfung an verbotenes Merkmal zulaessig bleibt und wie das Verhältnis zu Art. 3 Abs. 1 GG aussieht.
+description: "Wenn es um Besondere Gleichheitssaetze — Art. 3 Abs. 2 und Abs. 3 GG in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Besondere Gleichheitssaetze — Art. 3 Abs. 2 und Abs. 3 GG

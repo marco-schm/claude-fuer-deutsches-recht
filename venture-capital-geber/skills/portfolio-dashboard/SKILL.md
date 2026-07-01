@@ -1,6 +1,6 @@
 ---
 name: portfolio-dashboard
-description: "Baut Dashboard für Beteiligungen, Tickets, Quoten, Runway, Updates, Follow-ons, Risiken, Verantwortliche und nächste Calls im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Portfolio Dashboard in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Portfolio Dashboard

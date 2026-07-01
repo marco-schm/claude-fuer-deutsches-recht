@@ -1,6 +1,6 @@
 ---
 name: client-facing-language
-description: "Client Facing Language: steuert Juristische Arbeit in klare Business-Sprache übersetzen, ohne Genauigkeit zu verlieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Client Facing Language in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Client Facing Language

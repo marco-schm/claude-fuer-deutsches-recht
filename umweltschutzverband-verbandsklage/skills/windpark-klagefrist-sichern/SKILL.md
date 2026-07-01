@@ -1,6 +1,6 @@
 ---
 name: windpark-klagefrist-sichern
-description: "Umweltschutzverband Verbandsklage: Windpark: Klagefrist sichern im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Windpark Klagefrist Sichern in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Windpark Klagefrist Sichern

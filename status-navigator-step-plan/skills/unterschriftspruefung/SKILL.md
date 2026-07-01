@@ -1,6 +1,6 @@
 ---
 name: unterschriftspruefung
-description: "Prüft, soweit aus den Dokumenten ersichtlich, ob die jeweils erforderlichen Parteien unterschrieben haben. Markiert fehlende Unterschriften, unklare Unterzeichner und Vertretungsfragen. Trifft keine Rechtswirksamkeitsbewertung."
+description: "Wenn es um Unterschriftspruefung in Plugin: status-navigator-step-plan geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterschriftspruefung

@@ -1,6 +1,6 @@
 ---
 name: urteilszitate-historisch-rechtsgeschichte
-description: "Deutsche Rechtsgeschichte: Historische Urteilszitate verifizieren. Wie man Entscheidungen des Reichsgerichts, Volksgerichtshofs, RKG und historischer Gerichte mit richtiger Fundstelle prüft im Deutsche Rechtsgeschichte."
+description: "Wenn es um Urteilszitate historisch verifizieren in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Urteilszitate historisch verifizieren

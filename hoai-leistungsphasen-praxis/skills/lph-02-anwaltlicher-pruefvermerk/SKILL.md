@@ -1,6 +1,6 @@
 ---
 name: lph-02-anwaltlicher-pruefvermerk
-description: "HOAI LPH 2 Vorplanung: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 2 Vorplanung: Erstellt anwaltliches kurzmemorandum zum lph-stand in HOAI Leistungsphasen Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # LPH 2 Vorplanung: Erstellt anwaltliches kurzmemorandum zum lph-stand

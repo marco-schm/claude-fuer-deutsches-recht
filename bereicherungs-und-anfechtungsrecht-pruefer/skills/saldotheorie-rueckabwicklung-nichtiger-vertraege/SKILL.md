@@ -1,6 +1,6 @@
 ---
 name: saldotheorie-rueckabwicklung-nichtiger-vertraege
-description: "Rückabwicklung nichtiger gegenseitiger Verträge mit Saldierung, Schutzkorrekturen und § 818 Abs. 3 BGB prüfen. Output: Saldo- und Risikoanalyse im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Saldotheorie: Rückabwicklung nichtiger gegenseitiger Verträge in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Saldotheorie Rueckabwicklung Nichtiger Vertraege; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # Saldotheorie: Rückabwicklung nichtiger gegenseitiger Verträge

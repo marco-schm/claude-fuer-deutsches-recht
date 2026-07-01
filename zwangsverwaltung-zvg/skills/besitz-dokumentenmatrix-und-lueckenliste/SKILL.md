@@ -1,6 +1,6 @@
 ---
 name: besitz-dokumentenmatrix-und-lueckenliste
-description: "Besitz: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Besitz: Dokumentenmatrix, Lückenliste und Nachforderung in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Besitz: Dokumentenmatrix, Lückenliste und Nachforderung

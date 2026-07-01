@@ -1,6 +1,6 @@
 ---
 name: uwr-altlasten-pruefung-spezial
-description: "Spezialfall Altlastenpruefung: BBodSchG, Sanierungs- und Untersuchungsanordnung, Sicherungsverantwortlicher, Zustandsstoerer, Verhaltensstoerer, Eigentuemer-Haftung. Prüfraster und Mustertexte für Bescheid-Anfechtung im Umweltrecht."
+description: "Wenn es um Umwelt: Altlastenpruefung in Umweltrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Umwelt: Altlastenpruefung

@@ -1,6 +1,6 @@
 ---
 name: mandatum-pecuniae-credendae
-description: "Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemischen Recht als Vorlaeufer der Bankkredit-Garantie. Skill behandelt die Konstruktion das Verhältnis zur Buergschaft und zum Auftrag. Liefert Quellenmatrix."
+description: "Wenn es um Rom 138 Mandatum Pecuniae Credendae Bankvertrag in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mandatum Pecuniae Credendae; Arbeitsfeld: Römisches Recht."
 ---
 
 # Rom 138 Mandatum Pecuniae Credendae Bankvertrag

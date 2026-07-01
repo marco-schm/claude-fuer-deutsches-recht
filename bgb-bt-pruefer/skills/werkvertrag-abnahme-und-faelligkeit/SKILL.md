@@ -1,6 +1,6 @@
 ---
 name: werkvertrag-abnahme-und-faelligkeit
-description: "Werkvertrag: Abnahme § 640 BGB, Fälligkeit der Vergütung, fingierte Abnahme und Abnahmeverweigerung."
+description: "Wenn es um Werkvertrag: Abnahme und Fälligkeit Paragrafen 640 und 641 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Werkvertrag: Abnahme und Fälligkeit §§ 640 und 641 BGB

@@ -1,6 +1,6 @@
 ---
 name: kom-003-organ-und-zustaendigkeit-pruefen
-description: "Kommunalrecht der Länder: Organ und Zuständigkeit prüfen. Organ und Zuständigkeit prüfen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Organ Und Zustaendigkeit Pruefen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Organ Und Zustaendigkeit Pruefen

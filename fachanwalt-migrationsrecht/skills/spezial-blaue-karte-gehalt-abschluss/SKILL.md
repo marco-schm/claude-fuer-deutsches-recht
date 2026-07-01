@@ -1,6 +1,6 @@
 ---
 name: spezial-blaue-karte-gehalt-abschluss
-description: "Blaue Karte: Gehalt und Abschluss: Spezial-Skill im Migrationsrecht; prüft Mindestgehalt, Engpassberuf, Hochschulabschluss/tertiären Abschluss, Berufserfahrung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Blaue Karte: Gehalt und Abschluss in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Blaue Karte: Gehalt und Abschluss

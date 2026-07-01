@@ -1,6 +1,6 @@
 ---
 name: ins-002-zwischenschritte-ma
-description: "Prueft Zwischenschritte bei M&A, Finanzierung, Kapitalmassnahmen und Projektabbruechen als moegliche Insiderinformation."
+description: "Wenn es um M&A-Zwischenschritte in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # M&A-Zwischenschritte

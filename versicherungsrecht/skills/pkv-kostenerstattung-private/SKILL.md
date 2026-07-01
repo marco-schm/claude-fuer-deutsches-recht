@@ -1,6 +1,6 @@
 ---
 name: pkv-kostenerstattung-private
-description: "PKV-Leistungsprüfung: medizinische Notwendigkeit, Gebührenrecht, Heilbehandlung, Hilfsmittel, Psychotherapie, Arzneimittel und Kürzungsschreiben im Versicherungsrecht."
+description: "Wenn es um PKV: Kostenerstattung und medizinische Notwendigkeit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # PKV: Kostenerstattung und medizinische Notwendigkeit

@@ -1,6 +1,6 @@
 ---
 name: redaktionssitzung-vorbereiten
-description: "Bereitet eine juristische Redaktionssitzung vor: Agenda, Themenscoring, Beschlussvorlage, Protokollskelett und Anschlussaufgaben im Verlagsredaktion."
+description: "Wenn es um Redaktionssitzung vorbereiten in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Redaktionssitzung vorbereiten

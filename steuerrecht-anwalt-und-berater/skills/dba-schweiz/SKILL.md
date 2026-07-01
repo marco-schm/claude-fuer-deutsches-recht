@@ -1,6 +1,6 @@
 ---
 name: dba-schweiz
-description: "DBA Deutschland Schweiz mit Schwerpunkt 60-Tage-Grenzgaengerregelung Art. 15a. Anwendungsfall Pendler Suedbaden Bodensee Zuerich Pauschalbesteuerung Wegzug Wegzugsbesteuerung Beteiligungen Lizenzen. Anrechnungsmethode Aktivitaetsklausel Subject-to-Tax. Output Mandanten-Memo Grenzgaengernachweis B..."
+description: "Wenn es um DBA Deutschland-Schweiz in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # DBA Deutschland-Schweiz

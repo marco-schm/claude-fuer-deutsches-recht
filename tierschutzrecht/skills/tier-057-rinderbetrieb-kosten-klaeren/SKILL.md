@@ -1,6 +1,6 @@
 ---
 name: tier-057-rinderbetrieb-kosten-klaeren
-description: "Tierschutzrecht: Rinderbetrieb: Kosten klären. Kosten klären für Rinderbetrieb im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Rinderbetrieb Kosten Klaeren in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rinderbetrieb Kosten Klaeren

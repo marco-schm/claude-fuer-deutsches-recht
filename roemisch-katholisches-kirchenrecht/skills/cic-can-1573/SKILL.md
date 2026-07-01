@@ -1,6 +1,6 @@
 ---
 name: cic-can-1573
-description: "CIC can. 1573: Normnavigator fuer Buch VII - Prozesse (can. 1400-1752); amtlichen Canon-Text live pruefen, Tatbestand, Zuständigkeit, Partikularrecht, Katechismusbezug und pastorale Ausgabe sauber trennen."
+description: "Wenn es um CIC can. 1573 - Buch VII - Prozesse in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # CIC can. 1573 - Buch VII - Prozesse

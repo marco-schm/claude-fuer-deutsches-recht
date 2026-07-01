@@ -1,6 +1,6 @@
 ---
 name: fair-use-fashion-jewelry-fixation-originality
-description: "Prüft Fair Use nach § 107 mit Zweck, Werkart, Umfang/Substantiality und Markteffekt in belastbarer Matrix im Us Copyright Registrierung Verlag."
+description: "Wenn es um Fair Use Four Factors in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Fair Use Four Factors

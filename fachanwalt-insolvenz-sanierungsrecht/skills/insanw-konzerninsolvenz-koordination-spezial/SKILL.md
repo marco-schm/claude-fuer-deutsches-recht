@@ -1,6 +1,6 @@
 ---
 name: insanw-konzerninsolvenz-koordination-spezial
-description: "Spezialfall Konzerninsolvenz §§ 3a ff: InsO: Gruppen-Gerichtsstand, Koordinationsverfahren, Konzern-Anfechtung. Prüfraster für mehrstufige Konzerne und ausländische Tochtergesellschaften."
+description: "Wenn es um Insanw Konzerninsolvenz Koordination Spezial in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Konzerninsolvenz §§ 3a ff

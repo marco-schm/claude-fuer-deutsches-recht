@@ -1,6 +1,6 @@
 ---
 name: kollegenbeleidigung-und-strafbarkeit-verteidigung
-description: "Kollegenbeleidigung und Strafbarkeit (Verteidigungs- und Kammerantwort): steuert Grenze zwischen harter Interessenvertretung, Beleidigung, übler Nachrede und Berufsrechtsverstoß mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtlic..."
+description: "Wenn es um Kollegenbeleidigung und Strafbarkeit: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kollegenbeleidigung und Strafbarkeit: Verteidigungs- und Kammerantwort

@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz-schieds
-description: "Einstweiliger Rechtsschutz: Herausgabeverfügung für Leasingobjekte, Verfügungsanspruch, Verfügungsgrund, Vollzug und Gegenwehr des LN im Leasingrecht."
+description: "Wenn es um Einstweiliger Rechtsschutz: Herausgabe des Leasingobjekts in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Einstweiliger Rechtsschutz: Herausgabe des Leasingobjekts

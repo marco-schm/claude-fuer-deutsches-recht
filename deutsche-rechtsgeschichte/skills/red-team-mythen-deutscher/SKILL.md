@@ -1,6 +1,6 @@
 ---
 name: red-team-mythen-deutscher
-description: "Deutsche Rechtsgeschichte: Red-Team gegen verbreitete Mythen. BGB als burgerliches Recht nur für Reiche, Weimarer Republik scheiterte zwangslaeufig, NS-Recht war kein Recht und DDR-Recht war nur Befehlsrecht."
+description: "Wenn es um Red-Team Mythen deutscher Rechtsgeschichte in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team Mythen deutscher Rechtsgeschichte

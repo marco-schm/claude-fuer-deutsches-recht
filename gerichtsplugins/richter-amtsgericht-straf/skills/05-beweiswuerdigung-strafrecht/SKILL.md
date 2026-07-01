@@ -1,6 +1,6 @@
 ---
 name: 05-beweiswuerdigung-strafrecht
-description: "Beweiswürdigung Paragraf 261 StPO: Indizien, Aussage gegen Aussage, Glaubhaftigkeit, In-dubio-pro-reo, Sachverständigenkritik"
+description: "Wenn es um 05 Beweiswürdigung Strafrecht in Richter Amtsgericht Strafsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 05 Beweiswürdigung Strafrecht

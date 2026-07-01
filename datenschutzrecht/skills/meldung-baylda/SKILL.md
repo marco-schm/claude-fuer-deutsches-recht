@@ -1,6 +1,6 @@
 ---
 name: meldung-baylda
-description: "Reicht eine Meldung nach Art. 33 DSGVO bei der Bayerisches Landesamt für Datenschutzaufsicht (BayLDA) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bayern (nicht-öffentliche Stellen) und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in de..."
+description: "Wenn es um Meldung Art. 33 DSGVO an die BayLDA in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meldung Art. 33 DSGVO an die BayLDA

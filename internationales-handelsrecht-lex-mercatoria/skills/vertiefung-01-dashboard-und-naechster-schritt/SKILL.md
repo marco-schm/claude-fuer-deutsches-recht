@@ -1,6 +1,6 @@
 ---
 name: vertiefung-01-dashboard-und-naechster-schritt
-description: "Internationales Handelsrecht: Fortschritts-Dashboard und nächste Schritte für komplexe internationale Handelsfälle. Meilensteintracking, offene Rechtsfragen, Informationslücken, Eskalationsstufen und Entscheidungsmatrix für das Fallmanagement im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Dashboard und nächste Schritte im internationalen Handelsfall in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dashboard und nächste Schritte im internationalen Handelsfall

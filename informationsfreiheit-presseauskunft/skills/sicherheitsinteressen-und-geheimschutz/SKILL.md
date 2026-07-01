@@ -1,6 +1,6 @@
 ---
 name: sicherheitsinteressen-und-geheimschutz
-description: "Informationsfreiheit und Presseauskunft: Sicherheitsinteressen und Geheimschutz. Sicherheitsinteressen und Geheimschutz im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft:..."
+description: "Wenn es um Sicherheitsinteressen Und Geheimschutz in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sicherheitsinteressen Und Geheimschutz

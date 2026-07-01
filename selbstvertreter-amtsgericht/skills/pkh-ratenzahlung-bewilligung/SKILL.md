@@ -1,6 +1,6 @@
 ---
 name: pkh-ratenzahlung-bewilligung
-description: "Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO. Berechnung der monatlichen Rate nach einsetzbarem Einkommen Tabelle § 115 II ZPO. Maximale Laufzeit 48 Monate Änderung Anpassung und vorzeitige Tilgung. Wirkung auf Gerichts- und Anwaltskosten."
+description: "Wenn es um PKH mit Ratenzahlung in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PKH mit Ratenzahlung

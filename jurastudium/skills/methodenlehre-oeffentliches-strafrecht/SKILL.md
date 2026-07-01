@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-oeffentliches-strafrecht
-description: "Übt die öffentlich-rechtliche Methodenlehre — Schichtenprüfung bei Grundrechten, Verhältnismäßigkeit, Ermessen und Ermessensfehler, Verwaltungsaktqualität, prozessuale Methodik der Klagearten, unionsrechtskonforme Auslegung, Vorrang des EU-Rechts, Vorlage an EuGH und BVerfG. Lädt, wenn der Nutzer..."
+description: "Wenn es um Methodenlehre — Öffentliches Recht in Jurastudium geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Methodenlehre — Öffentliches Recht

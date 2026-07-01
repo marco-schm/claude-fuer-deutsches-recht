@@ -1,6 +1,6 @@
 ---
 name: steuerschulden-und-strafsteuer
-description: "Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen: Nor..."
+description: "Wenn es um Steuerschulden Und Strafsteuer in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.

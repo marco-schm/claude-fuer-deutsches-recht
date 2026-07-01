@@ -1,6 +1,6 @@
 ---
 name: eilverfahren-risikoampel-und-gegenargumente
-description: "Eilverfahren: Risikoampel, Gegenargumente und Verteidigungslinien im Prozessrecht."
+description: "Wenn es um Eilverfahren: Risikoampel, Gegenargumente und Verteidigungslinien in Prozessrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eilverfahren: Risikoampel, Gegenargumente und Verteidigungslinien

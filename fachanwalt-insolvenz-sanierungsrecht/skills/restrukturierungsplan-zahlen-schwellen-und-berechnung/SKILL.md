@@ -1,6 +1,6 @@
 ---
 name: restrukturierungsplan-zahlen-schwellen-und-berechnung
-description: "Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt n..."
+description: "Wenn es um Restrukturierungsplan Zahlen Schwellen Und Berechnung in Fachanwalt Insolvenz- und Sanierungsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

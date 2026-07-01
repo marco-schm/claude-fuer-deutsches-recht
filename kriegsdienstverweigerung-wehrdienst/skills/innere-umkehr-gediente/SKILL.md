@@ -1,6 +1,6 @@
 ---
 name: innere-umkehr-gediente
-description: "Erarbeitet bei Gedienten den grundlegenden Wandel seit früherer Dienstbereitschaft im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Innere Umkehr bei Gedienten in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Innere Umkehr bei Gedienten

@@ -1,6 +1,6 @@
 ---
 name: bribery-red-flags
-description: "Identifiziert Bestechungs-Red-Flags in Transaktionen, Zahlungen, Vergabeverfahren und Drittparteienbeziehungen – FCPA, UK Bribery Act, § 299 StGB im Internal Investigations Praxis."
+description: "Wenn es um Bestechungs-Red-Flags und Korruptionsermittlung in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bestechungs-Red-Flags und Korruptionsermittlung

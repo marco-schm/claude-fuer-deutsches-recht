@@ -1,6 +1,6 @@
 ---
 name: ki-output-endkontrolle-und-signatur
-description: "Anwaltliche Endkontrolle von KI-Outputs prüfen: § 43 BRAO, § 43a BRAO, Mandatsvertrag, Halluzinationen, Quellenprüfung, Schriftsatzsignatur, keine ungeprüfte Übernahme, Mandantenwunsch nach Rohoutput, Qualitätsvermerk und Haftungsprävention im Berufsrecht Anwaelte."
+description: "Wenn es um digitale Werkzeuge-Output, anwaltliche Endkontrolle und Signatur in Berufsrecht Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # KI-Output, anwaltliche Endkontrolle und Signatur

@@ -1,6 +1,6 @@
 ---
 name: merger-remedies-global
-description: "Merger Remedies global: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Divestiture, Behavioural Remedies, Monitoring Trustee und Hold-Separate planen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkre..."
+description: "Wenn es um Merger Remedies global in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Merger Remedies global

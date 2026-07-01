@@ -1,6 +1,6 @@
 ---
 name: founder-update-intake
-description: "Liest Founder Updates, extrahiert KPIs, Zusagen, Risiken, offene Requests, Stimmungen und nächste Investorhandlung im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Founder-Update Intake in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Founder-Update Intake

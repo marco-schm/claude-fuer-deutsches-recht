@@ -1,6 +1,6 @@
 ---
 name: forsch-konzernverbund-forschung-spezial
-description: "Spezialfall Konzernverbundforschung und verbundene Unternehmen: § 3 Abs. 1 FZulG, Auftragsforschung, KMU-Status, Beihilfen-Kumulation. Prüfraster für Konzerntochter und Forschungs-GmbH."
+description: "Wenn es um Forsch: Konzernverbund Forschung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Forsch: Konzernverbund Forschung

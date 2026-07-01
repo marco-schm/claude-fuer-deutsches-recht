@@ -1,6 +1,6 @@
 ---
 name: betriebsratsanhoerung
-description: "Betriebsratsanhoerung nach Paragraf 102 BetrVG vor jeder Kündigung: Anwendungsfall Kündigung soll ausgesprochen werden und BR-Anhörung muss korrekt durchgeführt werden. Normen Paragraf 102 BetrVG Anhörungs- und..."
+description: "Wenn es um Betriebsratsanhoerung nach Paragraf 102 BetrVG vor jeder Kündigung in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsratsanhoerung nach Paragraf 102 BetrVG vor jeder Kündigung

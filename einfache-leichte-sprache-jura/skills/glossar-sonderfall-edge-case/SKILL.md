@@ -1,6 +1,6 @@
 ---
 name: glossar-sonderfall-edge-case
-description: "Glossar: Sonderfall und Edge-Case-Prüfung im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kriti..."
+description: "Wenn es um Glossar: Sonderfall und Edge-Case-Prüfung in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Glossar Sonderfall Edge Case; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
 ---
 
 # Glossar: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: kommunale-klinik-krankenhaus-mvz
-description: "Kommunale Klinik Beihilfe und EU-Beihilfen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht."
+description: "Wenn es um Kommunale Klinik Beihilfe und EU-Beihilfen in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kommunale Klinik Beihilfe und EU-Beihilfen

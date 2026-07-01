@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-patentrecht-142-patg
-description: "Strafbarkeit der Patentverletzung Paragraph 142 PatG: Vorsaetzliche Verletzung des Patentschutzes. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Qualifikation gewerbsmaessig bis 5 Jahre. Antra..."
+description: "Wenn es um Strafbarkeit der Patentverletzung Paragraph 142 PatG in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafbarkeit der Patentverletzung Paragraph 142 PatG

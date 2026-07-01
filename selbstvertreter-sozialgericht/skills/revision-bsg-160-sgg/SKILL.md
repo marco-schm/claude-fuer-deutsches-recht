@@ -1,6 +1,6 @@
 ---
 name: revision-bsg-160-sgg
-description: "Revision zum BSG § 160 SGG. Anwaltszwang Zulassung Grundsatzfrage. Wann lohnt das Verfahren. Hinweise für Buerger nach LSG-Urteil."
+description: "Wenn es um Revision zum BSG — Paragraf 160 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Revision zum BSG — § 160 SGG

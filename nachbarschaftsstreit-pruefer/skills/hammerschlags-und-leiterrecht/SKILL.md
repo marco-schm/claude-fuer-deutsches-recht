@@ -1,6 +1,6 @@
 ---
 name: hammerschlags-und-leiterrecht
-description: "Hammerschlags- und Leiterrecht prüfen: vorübergehendes Betreten und Benutzen des Nachbargrundstücks für Bau-, Instandhaltungs- oder Reparaturarbeiten nach Landesnachbarrecht; Ankündigung, Schonung, Sicherheit, Entschädigung im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Hammerschlags- und Leiterrecht in Nachbarschaftsstreit-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Hammerschlags- und Leiterrecht

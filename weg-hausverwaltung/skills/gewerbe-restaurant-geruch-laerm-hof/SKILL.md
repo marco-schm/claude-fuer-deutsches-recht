@@ -1,6 +1,6 @@
 ---
 name: gewerbe-restaurant-geruch-laerm-hof
-description: "Bearbeitet Restaurant- und Gewerbekonflikte in WEG-Anlagen: Geruch, Lüftung, Lärm, Müll, Lieferverkehr, Fettabscheider, Sondernutzung, Brandschutz und Mieter-/Eigentümerrollen. Output: Eskalations- und Beschlussplan."
+description: "Wenn es um Gewerbe, Restaurant, Geruch, Lärm und Hofnutzung in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Gewerbe, Restaurant, Geruch, Lärm und Hofnutzung

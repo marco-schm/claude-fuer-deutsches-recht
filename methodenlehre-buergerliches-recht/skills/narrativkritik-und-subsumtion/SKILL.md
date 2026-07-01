@@ -1,6 +1,6 @@
 ---
 name: narrativkritik-und-subsumtion
-description: "Analysiert den Einfluss von Narrativen und Framings auf die juristische Subsumtion im Zivilrecht. Das Skill zeigt, wie die sprachliche Rahmung eines Sachverhalts die Subsumtionsergebnisse beeinflusst, wie Narrative dekonstruiert werden und wie methodisch saubere Subsumtion von narrativer Überform..."
+description: "Wenn es um Narrativkritik und Subsumtion: Sprache und Rechtsfindung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Narrativkritik und Subsumtion: Sprache und Rechtsfindung

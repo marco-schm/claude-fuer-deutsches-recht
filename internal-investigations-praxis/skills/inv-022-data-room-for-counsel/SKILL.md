@@ -1,6 +1,6 @@
 ---
 name: inv-022-data-room-for-counsel
-description: "Spezialskill fuer Data Room for Counsel: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Data Room for Counsel in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internal Investigation: Data Room for Counsel

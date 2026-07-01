@@ -1,6 +1,6 @@
 ---
 name: behandlungsfehler-anspruch-pruefen
-description: "Strukturierte Prüfung von Ansprüchen wegen Behandlungsfehler nach §§ 630a ff: BGB iVm § 823 BGB. Behandlungsvertrag Aufklärungspflicht § 630e BGB Dokumentationspflicht § 630f BGB..."
+description: "Wenn es um Strukturierte Prüfung von Ansprüchen wegen Behandlungsfehler nach Paragrafen 630a ff in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strukturierte Prüfung von Ansprüchen wegen Behandlungsfehler nach §§ 630a ff

@@ -1,6 +1,6 @@
 ---
 name: gesetzesbindung-art-20-gg-pruefprotokoll
-description: "Bietet ein strukturiertes Prüfprotokoll für die Einhaltung der Gesetzesbindung nach Art. 20 Abs. 3 GG in der zivilrechtlichen Rechtsanwendung. Das Skill prüft, ob Gerichte und Behörden die Grenzen ihrer Bindung an Gesetz und Recht einhalten, und zeigt auf, wann richterliche Entscheidungen die ver..."
+description: "Wenn es um Gesetzesbindung nach Art. 20 Abs. 3 GG: Prüfprotokoll in Methodenlehre bürgerliches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Gesetzesbindung nach Art. 20 Abs. 3 GG: Prüfprotokoll

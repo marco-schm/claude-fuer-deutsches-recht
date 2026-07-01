@@ -1,6 +1,6 @@
 ---
 name: satzung-partei
-description: "Prüft Satzung gegen Parteiengesetz: Organe, Gebietsverbände, Mitgliedschaft, Beitragsordnung, Schiedsgericht, Kandidatenaufstellung, Finanzen."
+description: "Wenn es um Parteissatzung in Parteienrecht und Parteiorganisation geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Parteissatzung

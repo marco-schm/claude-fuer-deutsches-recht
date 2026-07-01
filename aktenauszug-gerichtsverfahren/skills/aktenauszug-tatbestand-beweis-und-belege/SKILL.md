@@ -1,6 +1,6 @@
 ---
 name: aktenauszug-tatbestand-beweis-und-belege
-description: "Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage

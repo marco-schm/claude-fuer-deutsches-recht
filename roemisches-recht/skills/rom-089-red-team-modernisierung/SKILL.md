@@ -1,6 +1,6 @@
 ---
 name: rom-089-red-team-modernisierung
-description: "Römisches Recht: Red Team Modernisierung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Red Team Modernisierung in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red Team Modernisierung

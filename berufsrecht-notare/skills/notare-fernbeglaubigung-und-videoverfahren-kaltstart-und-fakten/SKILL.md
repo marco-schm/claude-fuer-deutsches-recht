@@ -1,6 +1,6 @@
 ---
 name: notare-fernbeglaubigung-und-videoverfahren-kaltstart-und-fakten
-description: "Notare: fernbeglaubigung und videoverfahren - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Notare Fernbeglaubigung Und Videoverfahren Kaltstart Und Fakten in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: fernbeglaubigung und videoverfahren - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

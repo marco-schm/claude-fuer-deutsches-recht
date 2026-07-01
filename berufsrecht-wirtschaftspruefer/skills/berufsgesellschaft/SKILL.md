@@ -1,6 +1,6 @@
 ---
 name: berufsgesellschaft
-description: "Wirtschaftsprüfer: berufsgesellschaft zulassung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Berufsgesellschaft in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: berufsgesellschaft zulassung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: earn-out-und-vendor-loan
-description: "Prüft nachgelagerte Kaufpreisbestandteile, Verkäuferdarlehen, Covenants, Sicherheiten und Konfliktpunkte im Private Equity Praxis."
+description: "Wenn es um Earn-out, Vendor Loan und Seller Note in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Earn-out, Vendor Loan und Seller Note

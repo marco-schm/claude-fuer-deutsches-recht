@@ -1,6 +1,6 @@
 ---
 name: kundgebung-stationaer-landesrecht-behoerde
-description: "Prüft stationäre Kundgebungen, Mahnwachen, Infostände mit Meinungskern und symbolische Orte im Versammlungsrecht."
+description: "Wenn es um Der Ort spricht mit in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Der Ort spricht mit

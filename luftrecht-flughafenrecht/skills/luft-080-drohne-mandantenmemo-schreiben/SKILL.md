@@ -1,6 +1,6 @@
 ---
 name: luft-080-drohne-mandantenmemo-schreiben
-description: "Luftrecht und Flughafenrecht: Drohne: Mandantenmemo schreiben. Mandantenmemo schreiben für Drohne im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Drohne Mandantenmemo Schreiben in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Drohne Mandantenmemo Schreiben

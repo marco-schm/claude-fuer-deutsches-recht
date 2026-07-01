@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-art-abs-aufzeichnungspflichten
-description: "Vertiefter Hochrisiko-Checker für Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. Prüft alle acht Anhang-III-Bereiche mit Untertatbestaenden, Zweckbestimmung, konkretem Einsatzkontext, GPAI/Chatbot-Abgrenzung und Mitarbeitern-Fehlgebrauch. Erklaert, warum ein allgemeiner Chatbot nicht automatisch Hochr"
+description: "Wenn es um Hochrisiko-digitale Werkzeuge nach Art. 6 Abs. 2 i.V.m. Anhang III europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Hochrisiko Art Abs Aufzeichnungspflichten; Arbeitsfeld: europäischem Technikregulierungsrecht."
 ---
 
 # Hochrisiko-KI nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO

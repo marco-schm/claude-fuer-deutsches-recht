@@ -1,6 +1,6 @@
 ---
 name: persoenlichkeitsrecht-stimme-deepfake
-description: "Prüft Stimme, Bild, Deepfake, KI-Cover, Persönlichkeitsrecht, KUG, Datenschutz und Urheberrechtsschnittstellen im Urheberrecht De Eu."
+description: "Wenn es um Stimme, Deepfake und Persönlichkeit in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stimme, Deepfake und Persönlichkeit

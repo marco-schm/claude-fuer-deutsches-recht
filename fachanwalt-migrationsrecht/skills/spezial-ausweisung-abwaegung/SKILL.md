@@ -1,6 +1,6 @@
 ---
 name: spezial-ausweisung-abwaegung
-description: "Ausweisung Abwägung: Spezial-Skill im Migrationsrecht; prüft §§ 53 ff. AufenthG, Bleibeinteressen, Familie, Straftat, Prognose; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Ausweisung Abwägung in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausweisung Abwägung

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg und Routing für alle Behörden-, Gerichts-, Antrags-, Bescheid- und Vorladungssituationen; erklärt laienverständlich, sprachsensibel und vorsichtig."
+description: "Wenn es um Bürokratieversteher — Allgemein in Bürokratieversteher und Entbürokratisierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bürokratieversteher — Allgemein

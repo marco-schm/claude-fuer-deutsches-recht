@@ -1,6 +1,6 @@
 ---
 name: kueschk-vergleichsverhandlung-checkliste
-description: "Checkliste für Kündigungsschutz-Vergleiche: Beendigungsdatum: Abfindung nach Faustformel; Freistellung und Urlaubsabgeltung; Zeugnisnote und -formulierung; Klageerledigung; Outplacement; Rücklage..."
+description: "Wenn es um Checkliste für Kündigungsschutz-Vergleiche: Beendigungsdatum in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Checkliste für Kündigungsschutz-Vergleiche: Beendigungsdatum

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Nachbarschaftsstreit: ordnet Rolle (Mandant, Nachbar, Schiedsamt), markiert Frist (§ 906 II 2 BGB jährliche Berechnung), wählt Norm (BGB §§ 906/1004, Landesnachbarrechtsgesetze, BauO Länder) und Zuständigkeit (Amtsgericht), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Nachbarschaftsstreit-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

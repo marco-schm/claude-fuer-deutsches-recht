@@ -1,6 +1,6 @@
 ---
 name: aufrechnung-zurueckbehaltung
-description: "Aufrechnung/Zurückbehaltung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Gegenforderung, Erklärung, Grenzen, Taktik; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arb..."
+description: "Wenn es um Aufrechnung/Zurückbehaltung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufrechnung/Zurückbehaltung: Fachmodul im Miet- und Wohnungseigentumsrecht

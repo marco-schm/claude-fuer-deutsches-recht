@@ -1,6 +1,6 @@
 ---
 name: tier-092-schlachthof-behoerdenantrag-schreiben
-description: "Tierschutzrecht: Schlachthof: Behördenantrag schreiben. Behördenantrag schreiben für Schlachthof im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schlachthof Behoerdenantrag Schreiben in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schlachthof Behoerdenantrag Schreiben

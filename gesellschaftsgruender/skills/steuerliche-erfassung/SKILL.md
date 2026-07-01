@@ -1,6 +1,6 @@
 ---
 name: steuerliche-erfassung
-description: "Führt durch Fragebogen steuerliche Erfassung, USt, Dauerfristverlängerung und Lohnsteuer im Gesellschaftsgruender."
+description: "Wenn es um Steuerliche Erfassung ELSTER in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerliche Erfassung ELSTER

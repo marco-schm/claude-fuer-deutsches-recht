@@ -1,6 +1,6 @@
 ---
 name: ki-virtual-kinderkleidung-besondere
-description: "KI, Virtual Try-On und digitale Models prüfen: Datenschutz, Bildrechte, AI Act, Urheberrecht, Täuschungsrisiko und Trainingsdaten im Fashion Law Moderecht."
+description: "Wenn es um Ki Virtual Try On Models in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Ki Virtual Try On Models

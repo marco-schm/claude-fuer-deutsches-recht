@@ -1,6 +1,6 @@
 ---
 name: versand-signing
-description: "Transaktionsoutput, Signing-Pack und Versand vorbereiten: Anwendungsfall Closing oder Signing naht und Anwalt muss Markups, Board Papers, Signing Packs, Closing Deliverables und beA/Notar/Email-Versand koordinieren. Paragraf 125 ff. BGB Formvorschriften, Notarrecht, beA-Verordnung. Prüfraster Ausgabefo..."
+description: "Wenn es um Output, Signing und Versand in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output, Signing und Versand

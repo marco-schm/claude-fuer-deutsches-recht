@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-gewerbehalle-stahlbau
-description: "Bauueberwachung nach HOAI LPH 8 für Gewerbe- und Produktionshallen in Stahlbau — Schweissnahtpruefung nach DIN EN ISO 17637 und DIN EN ISO 5817, Korrosionsschutz nach DIN EN ISO 12944, Kranbahn-Überprüfung nach DIN 15018 und Brandschutzkonzept nach DIN EN 13501-1. Unterstuetzt Bauueberwacher mi..."
+description: "Wenn es um Bauueberwachung Gewerbehalle Stahlbau (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Gewerbehalle Stahlbau (LPH 8)

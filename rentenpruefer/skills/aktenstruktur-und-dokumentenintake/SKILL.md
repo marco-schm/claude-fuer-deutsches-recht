@@ -1,6 +1,6 @@
 ---
 name: aktenstruktur-und-dokumentenintake
-description: "Sammelt und ordnet Rentenunterlagen: Renteninformation, Rentenauskunft, Versicherungsverlauf, Arbeits- und Ausbildungsnachweise, Auslandsbelege, Übersetzungen und Versorgungswerksmaterial."
+description: "Wenn es um aktenstruktur-und-dokumentenintake in Rentenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # aktenstruktur-und-dokumentenintake

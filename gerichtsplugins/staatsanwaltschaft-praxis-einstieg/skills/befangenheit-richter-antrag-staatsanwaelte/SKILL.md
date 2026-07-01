@@ -1,6 +1,6 @@
 ---
 name: befangenheit-richter-antrag-staatsanwaelte
-description: "Befangenheitsantrag gegen Richter: StA-Perspektive: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Befangenheitsantrag gegen Richter: StA-Perspektive in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Befangenheitsantrag gegen Richter: StA-Perspektive

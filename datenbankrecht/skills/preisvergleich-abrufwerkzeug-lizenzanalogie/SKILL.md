@@ -1,6 +1,6 @@
 ---
 name: preisvergleich-abrufwerkzeug-lizenzanalogie
-description: "Datenbankrecht für Preisvergleichsportale und deren Abrufwerkzeuge: Prüft §§ 87a-87e UrhG gegen automatisierte Preisabfragen, Wirksamkeit von AGB-Auslesen-Verboten (§ 307 BGB), EuGH C-202/12 (Innoweb/Wegener) und P2B-VO 2019/1150. Bewertet Plattformverträge mit Händlern und Datenlieferanten sowie Unterl..."
+description: "Wenn es um Preisvergleich-Abrufwerkzeuge und Plattformverträge — Datenbankrecht und P2B in Datenbankrecht und Datenbankherstellerrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Preisvergleich-Abrufwerkzeuge und Plattformverträge — Datenbankrecht und P2B

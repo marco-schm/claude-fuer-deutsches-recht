@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-freedom-to-operate-vor-product-launch
-description: "Rechtsabteilungs-Fachmodul für Freedom-to-Operate vor Product Launch: FTO wird mit Claim Chart, Länderpriorität und Design-Around-Entscheidung ausgegeben. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Patentrecht."
+description: "Wenn es um Rechtsabteilung: Freedom-to-Operate vor Product Launch in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Freedom-to-Operate vor Product Launch

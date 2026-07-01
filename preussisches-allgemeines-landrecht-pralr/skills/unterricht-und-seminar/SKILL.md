@@ -1,6 +1,6 @@
 ---
 name: unterricht-und-seminar
-description: "PrALR: Unterrichts-, Seminar- und Vortragsmodule zum PrALR mit Quellenarbeit und Diskussionsfragen bauen."
+description: "Wenn es um Unterricht und Seminar in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Unterricht Und Seminar; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Unterricht und Seminar

@@ -1,6 +1,6 @@
 ---
 name: geheimhaltung-nda-vertraulichkeit
-description: "Drafting eines stand-alone NDA und einer Geheimhaltungsklausel als Vertragsbaustein. Strukturiert Definition der vertraulichen Information, Standardausnahmen (öffentlich bekannt, eigenständig entwickelt, von Dritten rechtmäßig erhalten, gesetzliche Offenlegungspflicht), Nutzungsbeschränkung, Pfli..."
+description: "Wenn es um Geheimhaltung, NDA und Vertraulichkeit in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Geheimhaltung, NDA und Vertraulichkeit

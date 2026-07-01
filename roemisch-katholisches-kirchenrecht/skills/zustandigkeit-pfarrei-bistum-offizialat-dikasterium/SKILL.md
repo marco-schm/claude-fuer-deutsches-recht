@@ -1,6 +1,6 @@
 ---
 name: zustandigkeit-pfarrei-bistum-offizialat-dikasterium
-description: "Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe: Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium: Fachmodul für CIC, Katechismus..."
+description: "Wenn es um Zustandigkeit Pfarrei Bistum Offizialat Dikasterium in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.

@@ -1,6 +1,6 @@
 ---
 name: steuerberater-vermoegensverfall-steuerberater-rechtsprechungsch
-description: "Steuerberater: vermoegensverfall steuerberater - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Steuerberater Vermoegensverfall Steuerberater Rechtsprechungsch in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Steuerberater: vermoegensverfall steuerberater - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

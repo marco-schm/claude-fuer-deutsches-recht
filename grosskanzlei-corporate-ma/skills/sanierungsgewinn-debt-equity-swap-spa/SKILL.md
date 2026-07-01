@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-debt-equity-swap-spa
-description: "Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug. Beschreibt die Mechanik des DES, die steuerlichen Wirkungen auf Schuldnerseite (Sanierungsertrag, Paragraf 3a EStG) und Gläubigerseite (Forderungseinbringung, Werthaltigkeit), die gesellschaftsrechtliche Umsetzung (..."
+description: "Wenn es um Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sanierungsgewinn Debt Equity Swap Spa; Arbeitsfeld: Großkanzlei Corporate/M&A."
 ---
 
 # Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik

@@ -1,6 +1,6 @@
 ---
 name: luft-106-slot-sicherheitsauflage-bewerten
-description: "Luftrecht und Flughafenrecht: Slot: Sicherheitsauflage bewerten. Sicherheitsauflage bewerten für Slot im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Slot Sicherheitsauflage Bewerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Slot Sicherheitsauflage Bewerten

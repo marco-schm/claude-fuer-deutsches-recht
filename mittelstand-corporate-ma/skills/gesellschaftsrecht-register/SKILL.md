@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-register
-description: "Corporate Housekeeping und Register: prüft HRB/HRA, Gesellschafterlisten, Satzungen, Beschluesse, Vollmachten, Organstellung, Transparenzregister und Corporate Approvals für M&A im Mittelstand Corporate Ma."
+description: "Wenn es um Corporate Housekeeping und Register in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Corporate Housekeeping und Register

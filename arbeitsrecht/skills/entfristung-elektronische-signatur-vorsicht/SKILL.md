@@ -1,6 +1,6 @@
 ---
 name: entfristung-elektronische-signatur-vorsicht
-description: "Elektronische Signaturen und Befristungsabreden: einfache Signatur, Scan und fortgeschrittene Signatur genuegen nicht: echte qualifizierte..."
+description: "Wenn es um Entfristung Elektronische Signatur Vorsicht in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Elektronische Signaturen und Befristungsabreden: einfache Signatur, Scan und fortgeschrittene Signatur genügen nicht

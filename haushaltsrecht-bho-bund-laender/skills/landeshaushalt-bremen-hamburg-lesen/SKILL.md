@@ -1,6 +1,6 @@
 ---
 name: landeshaushalt-bremen-hamburg-lesen
-description: "Haushaltsrecht BHO Bund und Länder: Landeshaushalt Bremen lesen. Landeshaushalt Bremen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestands..."
+description: "Wenn es um Landeshaushalt Bremen Lesen in Haushaltsrecht BHO Bund und Länder geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landeshaushalt Bremen Lesen

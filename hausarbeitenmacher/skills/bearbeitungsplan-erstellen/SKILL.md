@@ -1,6 +1,6 @@
 ---
 name: bearbeitungsplan-erstellen
-description: "Student erstellt Zeitplan und Arbeitsplan für juristische Hausarbeit: Recherche Gliederung Rohfassung Endfassung Korrektur. Differenziert nach Hausarbeitstyp Anfaengeruebung Fortgeschrittenenuebung Examenshausarbeit. Normen Prüfungsordnungen Abgabetermin. Prüfraster Zeitaufteilung Phasen Lernziel..."
+description: "Wenn es um Bearbeitungs-Plan erstellen in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bearbeitungs-Plan erstellen

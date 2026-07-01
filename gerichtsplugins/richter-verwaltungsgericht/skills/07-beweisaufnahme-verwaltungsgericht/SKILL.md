@@ -1,6 +1,6 @@
 ---
 name: 07-beweisaufnahme-verwaltungsgericht
-description: "Beweisaufnahme Paragraf 96 VwGO i.V.m. ZPO: Sachverständigenbeweis, Zeugen, Augenschein, Urkunden, Beweiswürdigung Paragraf 108 VwGO"
+description: "Wenn es um 07 Beweisaufnahme Verwaltungsgericht in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 07 Beweisaufnahme Verwaltungsgericht

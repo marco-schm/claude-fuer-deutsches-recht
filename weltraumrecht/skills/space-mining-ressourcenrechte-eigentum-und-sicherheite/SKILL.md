@@ -1,6 +1,6 @@
 ---
 name: space-mining-ressourcenrechte-eigentum-und-sicherheite
-description: "Asteroiden- und Mondbergbau – Ressourceneigentumsrecht, OST Art. II, Finanzierungssicherheiten im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Space Mining: Ressourcenrechte, Eigentum und Sicherheiten in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Space Mining: Ressourcenrechte, Eigentum und Sicherheiten

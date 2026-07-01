@@ -1,6 +1,6 @@
 ---
 name: fristlose-kuendigung-stoerung
-description: "Fristlose Kündigung wegen Störung: Fachmodul im Miet- und Wohnungseigentumsrecht: ordnet Abmahnung, Pflichtverletzung, Wiederholung, Beweise und Interessenabwägung; mit Normpr..."
+description: "Wenn es um Fristlose Kündigung wegen Störung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristlose Kündigung wegen Störung: Fachmodul im Miet- und Wohnungseigentumsrecht

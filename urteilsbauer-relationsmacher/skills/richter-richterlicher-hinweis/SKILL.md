@@ -1,6 +1,6 @@
 ---
 name: richter-richterlicher-hinweis
-description: "Richter: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Richter: Zahlen, Schwellenwerte und Berechnung in Urteilsbauer und Relationsmacher geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Richter: Zahlen, Schwellenwerte und Berechnung

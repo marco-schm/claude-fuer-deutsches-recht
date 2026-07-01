@@ -1,6 +1,6 @@
 ---
 name: ruhensregelung-53-beamtvg
-description: "Skill zur Ruhensregelung von Versorgungsbezuegen bei Erwerbseinkommen nach § 53 BeamtVG. Klaert Hinzuverdienstgrenze für Ruhestandsbeamte unterschiedliche Grenzen vor und nach Erreichen der Regelaltersgrenze Anrechnung von Verwendungseinkommen aus dem öffentlichen Dienst und Erwerbsersatzeinkomme..."
+description: "Wenn es um Ruhensregelung Versorgungsbezuege Paragraf 53 BeamtVG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ruhensregelung Versorgungsbezuege § 53 BeamtVG

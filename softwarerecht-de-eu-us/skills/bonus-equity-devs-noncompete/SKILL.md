@@ -1,6 +1,6 @@
 ---
 name: bonus-equity-devs-noncompete
-description: "Prüft Bonus, VSOP, Equity, Retention, nachvertragliche Wettbewerbsverbote und IP-Retention bei Entwicklerteams im Softwarerecht De Eu Us."
+description: "Wenn es um Bonus Equity Devs Non-Compete in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bonus Equity Devs Non-Compete

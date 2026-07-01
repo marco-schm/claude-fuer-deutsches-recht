@@ -1,6 +1,6 @@
 ---
 name: bestaetigungsdokument-freigabe
-description: "Bestimmt Unterzeichner, Leitungsperson, vertretungsberechtigte Person und interne Freigabe vor Eintragung oder Geschäftsjahresaktualisierung. Output Signaturmappe im Lobbyregister Bundestag."
+description: "Wenn es um Bestaetigungsdokument und Freigabe in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bestaetigungsdokument und Freigabe

@@ -1,6 +1,6 @@
 ---
 name: kostenfeststellungsklage-verzugsschaden-erledigung
-description: "Kostenfeststellungsklage nach Erledigung des ursprünglichen Klagebegehrens: Wahl zwischen Paragraf 91a ZPO, Paragraf 269 Abs. 3 S. 3 ZPO und materiell-rechtlicher Kostenerstattung als Verzugsschaden nach Paragrafen 280 und 286 BGB. Prüft Zahlung, Aufrechnung, dauernde Einrede, Unmöglichkeit und Wegfall Rechtsschutzbedürfnis vor oder nach Rechtshängigkeit."
+description: "Wenn es um Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden

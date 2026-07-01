@@ -1,6 +1,6 @@
 ---
 name: ihl-082-lex-mercatoria-in-award
-description: "Internationales Handelsrecht und Lex Mercatoria: Lex Mercatoria In Award. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Lex Mercatoria In Award in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lex Mercatoria In Award

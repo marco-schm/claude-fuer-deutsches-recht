@@ -1,6 +1,6 @@
 ---
 name: fahrerlaubnis-schnittstelle
-description: "Straßenverkehrsrecht StVO: Fahrerlaubnis Schnittstelle. Fahrerlaubnis Schnittstelle im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Bel..."
+description: "Wenn es um Fahrerlaubnis Schnittstelle in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fahrerlaubnis Schnittstelle

@@ -1,6 +1,6 @@
 ---
 name: digitaler-deposit-upload
-description: "Digitaler Deposit-Upload im eCO: zulässige Fälle, Dateiformate, separate Files bei Gruppenoptionen, Abschluss nach Pay.gov und typische Upload-Fallen im Us Copyright Registrierung Verlag."
+description: "Wenn es um Digitaler Deposit Upload in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Digitaler Deposit Upload

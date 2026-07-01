@@ -1,6 +1,6 @@
 ---
 name: weg-eigentuemerversammlung-einladung-beschluss
-description: "Eigentuemerversammlung: Risikoampel, Gegenargumente und Verteidigungslinien im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Eigentuemerversammlung: Risikoampel, Gegenargumente und Verteidigungslinien in WEG- und Hausverwaltung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eigentuemerversammlung: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-wahlverteidiger-mandat
-description: "Wahlverteidiger-Mandat im Strafrecht beginnen: Anwendungsfall Beschuldigter waehlt Strafverteidiger und Erstgespraeach muss Schweigerecht Akteneinsicht Honorar und Strategie klaeren. § 136 StPO Schweigerecht Erstbelehrung, § 137 StPO Verteidigerrecht, § 147 StPO Akteneinsicht. Prüfraster Schweigerecht kommunizieren, eigene Einschaetzung zurückhalten bis Akte vorliegt, Honorarvereinbarung über RVG hinaus, Verteidigungsstrategie aktiv vs. passiv besprechen. Output Erstgespraeach-Protokoll mit Sofortmassnahmen und Honorarvereinbarung. Abgrenzung zu Erstgespraeach-Mandatsannahme für allgemeine Aufnahme und zu Akteneinsicht."
+description: "Wenn es um Wahlverteidiger-Mandat in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Wahlverteidiger-Mandat

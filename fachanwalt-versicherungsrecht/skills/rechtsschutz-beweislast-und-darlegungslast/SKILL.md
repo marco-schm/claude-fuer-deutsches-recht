@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-beweislast-und-darlegungslast
-description: "Rechtsschutz: Beweislast, Darlegungslast und Substantiierung: Rechtsschutz: Beweislast, Darlegungslast und Substantiierung."
+description: "Wenn es um Rechtsschutz: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsschutz: Beweislast, Darlegungslast und Substantiierung

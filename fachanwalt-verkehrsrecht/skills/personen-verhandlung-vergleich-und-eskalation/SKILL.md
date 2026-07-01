@@ -1,6 +1,6 @@
 ---
 name: personen-verhandlung-vergleich-und-eskalation
-description: "Personen: Verhandlung, Vergleich und Eskalation: Personen: Verhandlung, Vergleich und Eskalation."
+description: "Wenn es um Personen: Verhandlung, Vergleich und Eskalation in Fachanwalt Verkehrsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Personen: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: alumni-stiftung-spenden-compliance
-description: "Prüft Hochschulstiftungen, Spenden, Sponsoring, Transparenz und Zweckbindung im Hochschulrecht Länder."
+description: "Wenn es um Alumni, Stiftung und Spenden-Compliance in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Alumni, Stiftung und Spenden-Compliance

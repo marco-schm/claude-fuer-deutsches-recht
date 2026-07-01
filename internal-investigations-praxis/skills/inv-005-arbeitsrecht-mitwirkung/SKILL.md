@@ -1,6 +1,6 @@
 ---
 name: inv-005-arbeitsrecht-mitwirkung
-description: "Prueft Teilnahme- und Auskunftspflichten von Arbeitnehmern, Grenzen bei Selbstbelastung und Sanktionen."
+description: "Wenn es um Arbeitsrechtliche Mitwirkung in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsrechtliche Mitwirkung

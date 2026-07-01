@@ -1,6 +1,6 @@
 ---
 name: hospiz-palliativversorgung-und-sapv
-description: "GKV-Leistungen für sterbende Menschen: Hospizversorgung (§ 39a SGB V), SAPV (§ 37b SGB V), Zuzahlungsbefreiung und Versorgungskoordination im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Hospiz, Palliativversorgung und SAPV in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hospiz, Palliativversorgung und SAPV

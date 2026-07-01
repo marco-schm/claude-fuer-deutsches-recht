@@ -1,6 +1,6 @@
 ---
 name: kulturverein
-description: "Spezialfragen Kultur: Veranstaltungen, Künstlerverträge, GEMA, Fördermittel, Spenden, Gemeinnützigkeit im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Kulturverein in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kulturverein

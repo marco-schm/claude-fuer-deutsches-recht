@@ -1,6 +1,6 @@
 ---
 name: patentanwaelte-uebersetzung-und-verantwortung-rechtsprechungsch
-description: "Patentanwälte: uebersetzung und verantwortung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Patentanwaelte Uebersetzung Und Verantwortung Rechtsprechungsch in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Patentanwälte: uebersetzung und verantwortung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: regelungsvorhaben-erfassen
-description: "Erfasst konkrete aktuelle, geplante oder angestrebte Regelungsvorhaben, auch ohne vorhandenen Referentenentwurf oder Drucksache. Output Regelungsvorhaben-Karte im Lobbyregister Bundestag."
+description: "Wenn es um Regelungsvorhaben erfassen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Regelungsvorhaben erfassen

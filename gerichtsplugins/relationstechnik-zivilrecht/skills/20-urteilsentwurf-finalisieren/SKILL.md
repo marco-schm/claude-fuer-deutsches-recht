@@ -1,6 +1,6 @@
 ---
 name: 20-urteilsentwurf-finalisieren
-description: "Urteilsentwurf finalisieren: Rubrum, Tenor, Tatbestand, Entscheidungsgründe, Nebenentscheidungen, Rechtsmittelbelehrung; Schlussredaktion (Konsistenz Aktenzeichen Beteiligte Zitierweise), zur richterlichen Endprüfung markiert"
+description: "Wenn es um 20 Urteilsentwurf Finalisieren in Relationstechnik Zivilrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # 20 Urteilsentwurf Finalisieren

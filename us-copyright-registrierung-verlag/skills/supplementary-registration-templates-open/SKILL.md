@@ -1,6 +1,6 @@
 ---
 name: supplementary-registration-templates-open
-description: "Fehlerkorrektur und Supplementary Registration: falsche Titel, Claimants, Publication-Daten, AI-Angaben oder Rechteketten sauber nacharbeiten im Us Copyright Registrierung Verlag."
+description: "Wenn es um Supplementary Registration und Corrections in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Supplementary Registration und Corrections

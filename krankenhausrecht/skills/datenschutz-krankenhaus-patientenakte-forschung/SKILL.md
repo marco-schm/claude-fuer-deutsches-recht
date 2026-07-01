@@ -1,6 +1,6 @@
 ---
 name: datenschutz-krankenhaus-patientenakte-forschung
-description: "Datenschutz im Krankenhaus: DSGVO, BDSG, Landeskrankenhausgesetze, Patientenakte, ePA-Anbindung, Forschungsdaten, Auftragsverarbeitung Cloud/KI, Betroffenenrechte und Datenpannen im Krankenhausrecht."
+description: "Wenn es um Datenschutz Krankenhaus Patientenakte Forschung in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Datenschutz Krankenhaus Patientenakte Forschung

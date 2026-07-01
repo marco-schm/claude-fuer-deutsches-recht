@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-kapitalerhoehung-mit-bezugsrechtsausschluss
-description: "Rechtsabteilungs-Fachmodul für Kapitalerhöhung mit Bezugsrechtsausschluss: Minderheitenschutz, Verwässerung, Bewertungsunterlagen und Eilrechtsschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Gesellschaftsrecht."
+description: "Wenn es um Rechtsabteilung: Kapitalerhöhung mit Bezugsrechtsausschluss in Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Rechtsabteilung: Kapitalerhöhung mit Bezugsrechtsausschluss

@@ -1,6 +1,6 @@
 ---
 name: kanzlei-urheber-rechtsprechungs-livecheck
-description: "Organisiert Mandat, Dokumente, Beweise, Fristen, Rechtekette, Gegnerkommunikation und Outputformat im Urheberrechtsfall im Urheberrecht De Eu."
+description: "Wenn es um Kanzlei-und Aktenführung in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzlei-und Aktenführung

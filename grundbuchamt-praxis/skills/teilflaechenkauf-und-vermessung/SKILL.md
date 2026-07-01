@@ -1,6 +1,6 @@
 ---
 name: teilflaechenkauf-und-vermessung
-description: "Plant Vormerkung, Messungsanerkennung, Fortführungsnachweis, Rang, Kaufpreisfälligkeit und Umschreibung im Grundbuchamt Praxis."
+description: "Wenn es um Teilflächenkauf in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Teilflächenkauf

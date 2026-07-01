@@ -1,6 +1,6 @@
 ---
 name: forsch-stundenaufzeichnung-fz-ablehnung
-description: "Leitfaden Stundenaufzeichnung FZulG: zuwendungsfaehige Personalkosten, eigene Beschäftigte, Auftragsforschung, Dokumentationspflichten. Prüfraster für Personalcontrolling im Forschungszulage."
+description: "Wenn es um Forsch: Stundenaufzeichnung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Forsch Stundenaufzeichnung Fz Ablehnung; Arbeitsfeld: Forschungszulage-Antragstellung."
 ---
 
 # Forsch: Stundenaufzeichnung

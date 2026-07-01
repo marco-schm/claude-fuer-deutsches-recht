@@ -1,6 +1,6 @@
 ---
 name: podium-teilnahmeentscheidung
-description: "Wahlkampfrecht Praxis: Teilnahme an Podien mit problematischen Mitbewerbern entscheiden im Wahlkampfrecht."
+description: "Wenn es um Podium Teilnahmeentscheidung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Podium Teilnahmeentscheidung

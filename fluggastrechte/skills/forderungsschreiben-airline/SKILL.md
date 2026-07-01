@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben-airline
-description: "Forderungsschreiben: Formular, Portal und Einreichungslogik im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?..."
+description: "Wenn es um Forderungsschreiben: Formular, Portal und Einreichungslogik in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Forderungsschreiben Airline; Arbeitsfeld: Fluggastrechte."
 ---
 
 # Forderungsschreiben: Formular, Portal und Einreichungslogik

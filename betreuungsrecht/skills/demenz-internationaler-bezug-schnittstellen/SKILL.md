@@ -1,6 +1,6 @@
 ---
 name: demenz-internationaler-bezug-schnittstellen
-description: "Demenz: Internationaler Bezug und Schnittstellen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4...."
+description: "Wenn es um Demenz: Internationaler Bezug und Schnittstellen in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Demenz Internationaler Bezug Schnittstellen; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Demenz: Internationaler Bezug und Schnittstellen

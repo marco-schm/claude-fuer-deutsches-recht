@@ -1,6 +1,6 @@
 ---
 name: abschlussmemo-china-deal
-description: "Abschluss-Memo China-Deal: Checkliste für finale Dokumentation vor Signing/Closing, AWV-Meldung, BAFA-Genehmigungen, FDI-Screening-Clearance, IP-Registrierung, Datenschutz-Compliance (PIPL/DSGVO), LkSG-Risikoanalyse abgeschlossen, Notarielle Beglaubigungen CN, Post-Closing-Obligations. Output: Ab..."
+description: "Wenn es um Abschluss-Memo China-Deal: Signing/Closing-Checkliste in China-Wirtschaftsverkehr geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Abschluss-Memo China-Deal: Signing/Closing-Checkliste

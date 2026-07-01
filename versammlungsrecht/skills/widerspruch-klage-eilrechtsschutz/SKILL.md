@@ -1,6 +1,6 @@
 ---
 name: widerspruch-klage-eilrechtsschutz
-description: "Routet Widerspruch, Anfechtungsklage, § 80 Abs: 5 VwGO und § 123 VwGO bei versammlungsrechtlichen Bescheiden."
+description: "Wenn es um Routet Widerspruch, Anfechtungsklage, Paragraf 80 Abs in Versammlungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Routet Widerspruch, Anfechtungsklage, § 80 Abs

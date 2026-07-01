@@ -1,6 +1,6 @@
 ---
 name: management-haftung-board-duties
-description: "Übersetzt Cyberpflichten in Organpflichten für Geschäftsführer und Vorstände im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Management Haftung Board Duties in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Management Haftung Board Duties

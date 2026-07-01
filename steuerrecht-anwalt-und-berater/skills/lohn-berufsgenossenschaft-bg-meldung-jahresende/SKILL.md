@@ -1,6 +1,6 @@
 ---
 name: lohn-berufsgenossenschaft-bg-meldung-jahresende
-description: "Berufsgenossenschaft Lohnnachweis Jahresende. Anwendungsfall jaehrlicher Lohnnachweis an die zuständige BG Vorauszahlung BG-Beitrag Schlüsseldaten Gefahrtarif. Methodik elektronischer Lohnnachweis über sv.net oder DAKOTA. Output BG-Lohnnachweis Beitragsbescheid im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Berufsgenossenschaft — Lohnnachweis Jahresende in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Lohn Berufsgenossenschaft Bg Meldung Jahresende; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Berufsgenossenschaft — Lohnnachweis Jahresende

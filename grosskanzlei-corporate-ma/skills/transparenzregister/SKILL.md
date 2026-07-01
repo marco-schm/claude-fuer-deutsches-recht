@@ -1,6 +1,6 @@
 ---
 name: transparenzregister
-description: "Transparenzregister- und UBO-Chain-Check für M&A: prüft wirtschaftlich Berechtigte, Kontrollketten, PEP-/Sanktionsschnittstellen und Dokumentationsbedarf."
+description: "Wenn es um Transparenzregister UBO Chain in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Transparenzregister UBO Chain

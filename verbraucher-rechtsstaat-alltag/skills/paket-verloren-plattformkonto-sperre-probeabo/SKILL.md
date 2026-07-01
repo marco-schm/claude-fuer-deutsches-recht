@@ -1,6 +1,6 @@
 ---
 name: paket-verloren-plattformkonto-sperre-probeabo
-description: "Paket verloren oder beim Nachbarn: führt Laien durch Lieferverlust, Abstellgenehmigung, Nachbarannahme, Gefahrübergang und Ersatzlieferung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Paket verloren oder beim Nachbarn in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Paket verloren oder beim Nachbarn

@@ -1,6 +1,6 @@
 ---
 name: eu-auslegung-autonom-mehrsprachig
-description: "Leitet durch die autonome und mehrsprachige Auslegung von EU-Recht im Zivilrecht. Das Skill erklärt den methodischen Vorrang der unionsautonomen Begriffsbestimmung vor nationalen Auslegungstraditionen und zeigt, wie bei Divergenzen zwischen den Sprachfassungen des EU-Rechts vorzugehen ist. Geeign..."
+description: "Wenn es um EU-Auslegung: Autonom und mehrsprachig in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU-Auslegung: Autonom und mehrsprachig

@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-brao-mehrparteienkonflikt-interessenmatrix
-description: "Brao: Mehrparteienkonflikt und Interessenmatrix: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe is..."
+description: "Wenn es um Brao: Mehrparteienkonflikt und Interessenmatrix in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Brao Mehrparteienkonflikt Interessenmatrix; Arbeitsfeld: E-Mail-Umformulierer."
 ---
 
 # Brao: Mehrparteienkonflikt und Interessenmatrix

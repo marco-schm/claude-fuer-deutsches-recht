@@ -1,6 +1,6 @@
 ---
 name: anfechtungs-risikoampel-und-gegenargumente
-description: "Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien: Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Wenn es um Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien

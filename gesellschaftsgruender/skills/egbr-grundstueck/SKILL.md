@@ -1,6 +1,6 @@
 ---
 name: egbr-grundstueck
-description: "Prüft eGbR bei Grundstückserwerb, Grundbuchfähigkeit, Register und Gesellschafterwechsel im Gesellschaftsgruender."
+description: "Wenn es um eGbR und Grundstück in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # eGbR und Grundstück

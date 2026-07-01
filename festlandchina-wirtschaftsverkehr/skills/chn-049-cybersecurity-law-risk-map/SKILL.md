@@ -1,6 +1,6 @@
 ---
 name: chn-049-cybersecurity-law-risk-map
-description: "Festlandchina Wirtschaftsverkehr: Cybersecurity Law Risk Map. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Cybersecurity Law Risk Map in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cybersecurity Law Risk Map

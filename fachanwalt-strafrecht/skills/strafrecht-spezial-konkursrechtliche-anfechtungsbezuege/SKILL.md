@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-konkursrechtliche-anfechtungsbezuege
-description: "Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129 ff: InsO und Bankrott Paragraph 283 StGB sowie Gläubigerbeguenstigung Paragraph 283c StGB. Inkongruente Deckung Vorsatzanfechtung Sche..."
+description: "Wenn es um Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129 ff in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129 ff

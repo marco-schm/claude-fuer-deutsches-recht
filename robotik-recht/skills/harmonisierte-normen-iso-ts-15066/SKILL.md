@@ -1,6 +1,6 @@
 ---
 name: harmonisierte-normen-iso-ts-15066
-description: "Plant Normenrecherche zu industrieller Robotik, kollaborierenden Robotern, Sicherheitsfunktionen und Stand der Technik."
+description: "Wenn es um Harmonisierte Normen und ISO/TS 15066 in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Harmonisierte Normen Iso Ts 15066; Arbeitsfeld: robotik-recht."
 ---
 
 # Harmonisierte Normen und ISO/TS 15066

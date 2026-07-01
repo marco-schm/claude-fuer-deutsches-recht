@@ -1,6 +1,6 @@
 ---
 name: supply-chain-third-party
-description: "Routet Lieferketten-, Vertrieb- und CISG-nahe Streitigkeiten: delivery, defects, force majeure, limitation, governing law and evidence im Commercial Courts Deutschland."
+description: "Wenn es um Supply Chain Disputes in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Supply Chain Disputes

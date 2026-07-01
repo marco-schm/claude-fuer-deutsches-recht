@@ -1,6 +1,6 @@
 ---
 name: planfeststellung-grossprojekt
-description: "Planfeststellung und Großprojektsteuerung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Verkehr Infrastrukturrecht."
+description: "Wenn es um Planfeststellung und Großprojektsteuerung in Verkehrs- und Infrastrukturrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Planfeststellung und Großprojektsteuerung

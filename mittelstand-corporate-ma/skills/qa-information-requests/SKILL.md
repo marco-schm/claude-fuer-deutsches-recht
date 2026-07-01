@@ -1,6 +1,6 @@
 ---
 name: qa-information-requests
-description: "DD-Team verwaltet Q&A-Prozess im Datenraum: Information Request Lists Follow-ups Antwortqualitaets-Check. Normen §§ 311 241 BGB Offenbarungspflicht Disclosure-Prinzipien. Prüfraster IRL-Vollständigkeit Antwortprüfung Offene-Punkte-Tracking Status-Reporting. Output Q&A-Liste Information-Request-Lo..."
+description: "Wenn es um Q&A und Information Requests in Mittelstands-Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Q&A und Information Requests

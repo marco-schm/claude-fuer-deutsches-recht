@@ -1,6 +1,6 @@
 ---
 name: vergleich-richtervorschlag-278-ii-zpo
-description: "Vergleich vor dem Amtsgericht nach § 278 II ZPO Richtervorschlag Erledigungsklausel Auswirkung auf Kosten und Streitwert. Wann ist ein Vergleich vorteilhaft wann nicht und wie wird er protokolliert."
+description: "Wenn es um Vergleich: Das Gericht schlaegt einen Vergleich vor — annehmen oder nicht? in selbstvertreter-amtsgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich: Das Gericht schlaegt einen Vergleich vor — annehmen oder nicht?

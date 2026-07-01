@@ -1,6 +1,6 @@
 ---
 name: ihl-051-standard-terms-crossborder
-description: "Internationales Handelsrecht und Lex Mercatoria: Standard Terms Crossborder. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Standard Terms Crossborder in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Standard Terms Crossborder

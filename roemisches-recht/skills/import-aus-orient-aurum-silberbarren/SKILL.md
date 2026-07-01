@@ -1,6 +1,6 @@
 ---
 name: import-aus-orient-aurum-silberbarren
-description: "Roemischer Importhandel mit dem Orient: Gold Silber Seide Edelsteine Pfeffer. Skill behandelt die rechtlichen Sondervorschriften zum Edelmetall- und Luxusguterimport die hohen Zoelle (vicesima quinta) und die Aufsicht. Liefert Quellenmatrix."
+description: "Wenn es um Rom 130 Import Aus Orient Aurum Silberbarren in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 130 Import Aus Orient Aurum Silberbarren

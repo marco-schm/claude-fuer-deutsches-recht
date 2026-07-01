@@ -1,6 +1,6 @@
 ---
 name: bea-journal
-description: "Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang oder Versand muss nachvollziehbar protokolliert werden mit Screenshot ZIP-Export und EB-Workflow. Normen § 130a ZPO § 31a BRAO § 12 ERVV. Prüfraster Nachrichtenjournal Screenshots ZIP-Expo..."
+description: "Wenn es um beA-Nachrichtenjournal und EB-Workflow in Kanzlei-Allgemein geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # beA-Nachrichtenjournal und EB-Workflow

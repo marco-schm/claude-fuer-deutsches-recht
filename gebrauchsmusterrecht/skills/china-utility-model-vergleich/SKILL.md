@@ -1,6 +1,6 @@
 ---
 name: china-utility-model-vergleich
-description: "China Utility Model als Vergleich und Counsel-Briefing: schneller Schutz, Produktbezug, Durchsetzung, lokale Prüfung und Kollisionsrisiken im Gebrauchsmusterrecht."
+description: "Wenn es um China Utility Model Vergleich in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # China Utility Model Vergleich

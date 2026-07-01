@@ -1,6 +1,6 @@
 ---
 name: datenschutz-folgenabschaetzung
-description: "Datenschutz-Folgenabschaetzung DSFA nach Art: 35 DSGVO bei voraussichtlich hohem Risiko. Anwendungsfall neues Verarbeitungsverfahren mit hohem Risiko für Betroffene soll eingeführt werden. Normen Art. 35 DSGVO D..."
+description: "Wenn es um Datenschutz-Folgenabschaetzung DSFA nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz-Folgenabschaetzung DSFA nach Art

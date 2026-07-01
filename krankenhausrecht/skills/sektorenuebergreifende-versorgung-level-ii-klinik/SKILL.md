@@ -1,6 +1,6 @@
 ---
 name: sektorenuebergreifende-versorgung-level-ii-klinik
-description: "Sektorenuebergreifende Versorgung und Level Ii-Klinik nach KHVVG: Bruecke ambulant/stationaer, Strukturmerkmale, Verguetungslogik, Versorgungsauftrag und Kooperationsmodelle mit MVZ und Praxen im Krankenhausrecht."
+description: "Wenn es um Sektorenuebergreifende Versorgung Level Ii Klinik in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sektorenuebergreifende Versorgung Level Ii Klinik

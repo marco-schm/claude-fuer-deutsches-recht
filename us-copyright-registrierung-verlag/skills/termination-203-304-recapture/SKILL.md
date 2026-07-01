@@ -1,6 +1,6 @@
 ---
 name: termination-203-304-recapture
-description: "Prüft US-Termination, Recapture-Risiken, Notice Window, Grants, Derivative Works Exception und Deal-DD im Us Copyright Registrierung Verlag."
+description: "Wenn es um Termination Rights Paragraf 203 und Paragraf 304 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Termination Rights § 203 und § 304

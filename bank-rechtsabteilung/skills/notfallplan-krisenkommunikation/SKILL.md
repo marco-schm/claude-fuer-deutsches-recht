@@ -1,6 +1,6 @@
 ---
 name: notfallplan-krisenkommunikation
-description: "Notfallplan und Krisenkommunikation für Bank-Legal: Cyberangriff, Bank Run, BaFin-Maßnahme, Medienanfrage, Whistleblowing, Großschaden oder Vorstandskrise strukturieren im Bank-Rechtsabteilung."
+description: "Wenn es um Krise und Kommunikation in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Krise und Kommunikation

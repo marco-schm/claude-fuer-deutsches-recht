@@ -1,6 +1,6 @@
 ---
 name: spezial-innerstaatliche-fluchtalternative
-description: "Innerstaatliche Fluchtalternative: Spezial-Skill im Migrationsrecht; prüft Erreichbarkeit, Sicherheit, Zumutbarkeit, Existenzminimum und Quellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Innerstaatliche Fluchtalternative in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Innerstaatliche Fluchtalternative

@@ -1,6 +1,6 @@
 ---
 name: distressed-due
-description: "Disclosure Schedules: Ableitung aus Datenraum, DD-Findings, Q&A und SPA-Garantien; Materiality Auslesen, Earn-Out-Konflikte, Vendor DD, Fair Disclosure nach BGH-Rechtsprechung im Mittelstand Corporate Ma."
+description: "Wenn es um Disclosure Schedules in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Disclosure Schedules

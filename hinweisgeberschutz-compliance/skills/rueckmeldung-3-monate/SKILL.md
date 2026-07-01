@@ -1,6 +1,6 @@
 ---
 name: rueckmeldung-3-monate
-description: "Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler im Hinweisgeberschutz Compliance."
+description: "Wenn es um Rueckmeldung 3 Monate in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rueckmeldung 3 Monate

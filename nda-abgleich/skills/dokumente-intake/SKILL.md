@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für NDA-Abgleich: sortiert NDA-Entwurf, Mustervorlage, Vorvertrags-Korrespondenz, prüft Datum, Absender, Frist und Beweiswert (Versionsverlauf, Mailverkehr); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Wenn es um Dokumentenintake in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenintake

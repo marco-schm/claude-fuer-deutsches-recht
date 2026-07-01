@@ -1,6 +1,6 @@
 ---
 name: fall-fingerabdruck-und-schnelltriage
-description: "Fall-Fingerabdruck für Bauträgerakten: extrahiert Urkunde, Verkäufer, Verbraucherrolle, Einheit, Kaufpreis, Raten, Sicherheiten, Baubeschreibung, Teilungserklärung, Technik, Baufortschritt, Abnahme- und Streitstand vor jeder Ampel."
+description: "Wenn es um Fall-Fingerabdruck und Schnelltriage in Bauträgervertrag-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Fall-Fingerabdruck und Schnelltriage

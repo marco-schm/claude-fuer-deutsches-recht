@@ -1,6 +1,6 @@
 ---
 name: luft-051-registerpfandrecht-zustaendigkeit-prue
-description: "Luftrecht und Flughafenrecht: Registerpfandrecht: Zuständigkeit prüfen. Zuständigkeit prüfen für Registerpfandrecht im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Registerpfandrecht Zustaendigkeit Prue in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerpfandrecht Zustaendigkeit Prue

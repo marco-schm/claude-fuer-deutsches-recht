@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Geführtes Kaltstart-Interview für Fashion-Law-Mandate: Brand, Saison, Produktgruppe, IP, Supplier, Retail, Online, Influencer, Nachhaltigkeit und gewünschter Output."
+description: "Wenn es um Fashion Law Kaltstart Interview in fashion-law-moderecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Fashion Law Kaltstart Interview

@@ -1,6 +1,6 @@
 ---
 name: werbearchiv-aufbauen-klage-gegen-account
-description: "Werbearchiv nach Art. 39 DSA aufbauen: Inhalt jeder Anzeige, Auftraggeber, Zeitraum, Zielgruppenparameter, Reichweite. Format-Anforderungen, Schnittstelle EU-Kommission, Forschungsdatenzugang. Roadmap für VLOP zur technischen Umsetzung im Dsa Dma Digitalregulierung."
+description: "Wenn es um DSA: Werbearchiv Art. 39 in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # DSA: Werbearchiv Art. 39

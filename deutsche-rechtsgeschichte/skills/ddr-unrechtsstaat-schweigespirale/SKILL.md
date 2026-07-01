@@ -1,6 +1,6 @@
 ---
 name: ddr-unrechtsstaat-schweigespirale
-description: "Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht im Deutsche Rechtsgeschichte."
+description: "Wenn es um DDR-Recht und juristische Aufarbeitung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # DDR-Recht und juristische Aufarbeitung

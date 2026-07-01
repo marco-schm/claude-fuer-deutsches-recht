@@ -1,6 +1,6 @@
 ---
 name: dsfa-ki-systeme-schnittstelle-art-26-kivo
-description: "DSFA für KI-Systeme an der Schnittstelle zur KI-Verordnung: Koordination Art. 35 DSGVO mit Art. 26 KI-VO Betreiberpflichten und Art. 27 KI-VO Grundrechte-Folgenabschaetzung. Output: integriertes DSFA-FRIA-Konzept."
+description: "Wenn es um DSFA für digitale Werkzeuge-Systeme an der Schnittstelle zur digitale Werkzeuge-Verordnung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DSFA für KI-Systeme an der Schnittstelle zur KI-Verordnung

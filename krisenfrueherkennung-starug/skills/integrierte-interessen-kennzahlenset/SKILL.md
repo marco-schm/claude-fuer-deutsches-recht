@@ -1,6 +1,6 @@
 ---
 name: integrierte-interessen-kennzahlenset
-description: "Integrierte: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Integrierte: Mehrparteienkonflikt und Interessenmatrix in Krisenfrüherkennung und StaRUG-Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Integrierte: Mehrparteienkonflikt und Interessenmatrix

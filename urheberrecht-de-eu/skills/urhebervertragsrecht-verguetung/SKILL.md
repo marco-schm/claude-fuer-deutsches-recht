@@ -1,6 +1,6 @@
 ---
 name: urhebervertragsrecht-verguetung
-description: "Prüft Urhebervertragsrecht, angemessene Vergütung, weitere Beteiligung, Transparenzpflichten und Buyout-Risiken im Urheberrecht De Eu."
+description: "Wenn es um Angemessene Vergütung und Bestseller in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Angemessene Vergütung und Bestseller

@@ -1,6 +1,6 @@
 ---
 name: hundesteuer-und-hundeverordnung
-description: "Prüft Anmeldung, Steuerbescheid, gefährlicher Hund, Leinenpflicht, Maulkorb, Nachweis und Widerspruch im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Hundesteuer und Hundeverordnung in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hundesteuer und Hundeverordnung

@@ -1,6 +1,6 @@
 ---
 name: bussgeld-schulpflicht
-description: "Prüft Schulpflichtverstoß, Anhörung, Bußgeldbescheid und Verhältnismäßigkeit im Schulrecht Länder."
+description: "Wenn es um Bußgeld wegen Schulpflicht in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bußgeld wegen Schulpflicht

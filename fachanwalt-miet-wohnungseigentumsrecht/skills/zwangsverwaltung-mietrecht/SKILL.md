@@ -1,6 +1,6 @@
 ---
 name: zwangsverwaltung-mietrecht
-description: "Zwangsverwaltung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Mietzahlungen, Kündigung, Nebenkosten, Kaution, Verwalterbefugnis; mit Normprüfung, Beweisen, Fristen..."
+description: "Wenn es um Zwangsverwaltung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zwangsverwaltung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht

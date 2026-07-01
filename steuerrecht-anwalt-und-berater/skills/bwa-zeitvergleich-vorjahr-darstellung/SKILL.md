@@ -1,6 +1,6 @@
 ---
 name: bwa-zeitvergleich-vorjahr-darstellung
-description: "Zeitvergleich Vorjahr in der BWA grafisch und tabellarisch. Anwendungsfall optische Aufbereitung der Vorjahresvergleichsdaten für Mandantengespraech mit Liniendiagrammen Balkengrafik. Methodik Standard-Tabelle plus Visualisierung. Output BWA mit zusaetzlicher Grafik-Seite."
+description: "Wenn es um Grafische Aufbereitung des Vorjahresvergleichs in der BWA in Steuerrecht – Steuerberater und Anwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Grafische Aufbereitung des Vorjahresvergleichs in der BWA

@@ -1,6 +1,6 @@
 ---
 name: statusbescheid-bestandskraft
-description: "Prüft Statusbescheide, Bindungswirkung, Änderungsbescheide, neue Tätigkeit und Vertrauensschutz im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Statusbescheid und Bestandskraft in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Statusbescheid und Bestandskraft

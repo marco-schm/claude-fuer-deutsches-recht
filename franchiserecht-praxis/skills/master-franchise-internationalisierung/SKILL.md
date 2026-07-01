@@ -1,6 +1,6 @@
 ---
 name: master-franchise-internationalisierung
-description: "Master-Franchise-Struktur für internationale Expansion prüfen: Mehrebenenverhältnis Franchisegeber/Master-Franchisenehmer/Sub-Franchisenehmer, Markenlizenzkette, Anwendbares Recht nach Rom-I-VO, Kartellrecht im Auslandsmarkt und Disclosure-Pflichten im Franchiserecht."
+description: "Wenn es um Franchiserecht: Master-Franchise und Internationalisierung in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Franchiserecht: Master-Franchise und Internationalisierung

@@ -1,6 +1,6 @@
 ---
 name: spoofing-internationaler-bezug-und-schnittstellen
-description: "Spoofing: Internationaler Bezug und Schnittstellen: Spoofing: Internationaler Bezug und Schnittstellen."
+description: "Wenn es um Spoofing: Internationaler Bezug und Schnittstellen in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spoofing: Internationaler Bezug und Schnittstellen

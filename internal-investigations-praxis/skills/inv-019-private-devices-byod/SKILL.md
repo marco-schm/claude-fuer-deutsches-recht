@@ -1,6 +1,6 @@
 ---
 name: inv-019-private-devices-byod
-description: "Spezialskill fuer Private Devices BYOD: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Private Devices BYOD in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internal Investigation: Private Devices BYOD

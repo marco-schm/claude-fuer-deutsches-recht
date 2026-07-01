@@ -1,6 +1,6 @@
 ---
 name: kanzleinachfolge-und-aktenarchiv-kammerantwort-und-ver
-description: "Anwälte: kanzleinachfolge und aktenarchiv - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Kanzleinachfolge Und Aktenarchiv Kammerantwort Und Ver in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Anwälte: kanzleinachfolge und aktenarchiv - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

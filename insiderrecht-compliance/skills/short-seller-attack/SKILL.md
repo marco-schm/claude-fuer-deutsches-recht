@@ -1,6 +1,6 @@
 ---
 name: short-seller-attack
-description: "Steuert die Compliance-Reaktion auf Short-Seller-Berichte: Ad-hoc-Pflicht, Dementierungsgrenzen, BaFin-Zusammenarbeit und Marktmanipulationsvorwurf im Insiderrecht Compliance."
+description: "Wenn es um Short-Seller-Angriff – Compliance-Reaktion in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Short-Seller-Angriff – Compliance-Reaktion

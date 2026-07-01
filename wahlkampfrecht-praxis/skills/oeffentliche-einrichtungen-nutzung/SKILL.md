@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-einrichtungen-nutzung
-description: "Wahlkampfrecht Praxis: Nutzung öffentlicher Einrichtungen für Wahlkampf prüfen im Wahlkampfrecht."
+description: "Wenn es um Oeffentliche Einrichtungen Nutzung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Oeffentliche Einrichtungen Nutzung

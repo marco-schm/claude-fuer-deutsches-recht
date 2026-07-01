@@ -1,6 +1,6 @@
 ---
 name: dsv-vvt-update-nach-vorfall
-description: "Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art: 30 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Identifikation der betroffen"
+description: "Wenn es um Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art

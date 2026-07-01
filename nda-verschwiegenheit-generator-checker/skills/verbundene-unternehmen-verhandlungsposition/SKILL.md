@@ -1,6 +1,6 @@
 ---
 name: verbundene-unternehmen-verhandlungsposition
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verbundene Unternehmen Berater Finanzierer; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Verbundene Unternehmen Berater Finanzierer in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Verbundene Unternehmen Berater Finanzierer

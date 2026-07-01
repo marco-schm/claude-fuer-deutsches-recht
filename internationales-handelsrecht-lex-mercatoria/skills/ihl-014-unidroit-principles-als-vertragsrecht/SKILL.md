@@ -1,6 +1,6 @@
 ---
 name: ihl-014-unidroit-principles-als-vertragsrecht
-description: "Internationales Handelsrecht und Lex Mercatoria: Unidroit Principles Als Vertragsrecht. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Unidroit Principles Als Vertragsrecht in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unidroit Principles Als Vertragsrecht

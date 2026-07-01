@@ -1,6 +1,6 @@
 ---
 name: energie-sperre-grundversorgung
-description: "Erklärt Sperrankündigung, Sozialleistung, Ratenplan, Schlichtung, Eilbedürftigkeit und Nachweise im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Energiesperre und Grundversorgung in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energiesperre und Grundversorgung

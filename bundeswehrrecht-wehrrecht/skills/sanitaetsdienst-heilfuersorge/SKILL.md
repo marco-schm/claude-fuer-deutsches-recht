@@ -1,6 +1,6 @@
 ---
 name: sanitaetsdienst-heilfuersorge
-description: "Sanitätsdienst und Heilfürsorge: prüft truppenärztliche Versorgung, Leistungsumfang, Ablehnung und Rechtsbehelfe. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, SG § 30 im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Sanitätsdienst und Heilfürsorge in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanitätsdienst und Heilfürsorge

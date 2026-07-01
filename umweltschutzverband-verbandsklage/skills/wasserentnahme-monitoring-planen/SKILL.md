@@ -1,6 +1,6 @@
 ---
 name: wasserentnahme-monitoring-planen
-description: "Umweltschutzverband Verbandsklage: Wasserentnahme: Monitoring planen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Wasserentnahme Monitoring Planen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Wasserentnahme Monitoring Planen

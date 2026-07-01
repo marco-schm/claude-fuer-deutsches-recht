@@ -1,6 +1,6 @@
 ---
 name: space-044-planetary-protection-kontaminationsvermeidung
-description: "Weltraumrecht: Planetary Protection Kontaminationsvermeidung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Planetary Protection Kontaminationsvermeidung in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Planetary Protection Kontaminationsvermeidung

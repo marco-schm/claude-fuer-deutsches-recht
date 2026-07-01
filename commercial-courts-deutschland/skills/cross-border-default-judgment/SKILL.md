@@ -1,6 +1,6 @@
 ---
 name: cross-border-default-judgment
-description: "Prüft internationale Zuständigkeit, Gerichtsstandsvereinbarung, Brüssel Ia, Lugano-Bezug, Drittstaaten und Anti-suit-/lis-pendens-Risiken im Commercial Courts Deutschland."
+description: "Wenn es um Cross-Border Jurisdiction in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Cross-Border Jurisdiction

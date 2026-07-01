@@ -1,6 +1,6 @@
 ---
 name: inso-p140-zeitpunkt-der-vornahme-einer-rechtshandlung
-description: "§ 140 InsO (Zeitpunkt der Vornahme einer Rechtshandlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 140 InsO (Zeitpunkt der Vornahme einer Rechtshandlung) im Mandat prüfen: Normzweck,..."
+description: "Wenn es um Inso P140 Zeitpunkt Der Vornahme Einer Rechtshandlung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 140 InsO (Zeitpunkt der Vornahme einer Rechtshandlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

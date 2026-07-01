@@ -1,6 +1,6 @@
 ---
 name: meinungspruefer-erstpruefung-und-mandatsziel
-description: "Meinungspruefer: Erstprüfung, Rollenklärung und Mandatsziel im Meinungspruefer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Meinungspruefer: Erstprüfung, Rollenklärung und Mandatsziel in Meinungsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meinungspruefer: Erstprüfung, Rollenklärung und Mandatsziel

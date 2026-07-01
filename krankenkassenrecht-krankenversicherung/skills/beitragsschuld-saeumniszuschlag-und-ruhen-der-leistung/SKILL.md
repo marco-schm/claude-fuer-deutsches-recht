@@ -1,6 +1,6 @@
 ---
 name: beitragsschuld-saeumniszuschlag-und-ruhen-der-leistung
-description: "Beitragsrückstände in der GKV und PKV: Säumniszuschläge, Leistungsruhen, Schuldenbereinigung und Wiederherstellung des Versicherungsschutzes im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Beitragsschuld, Säumniszuschlag und Ruhen der Leistung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beitragsschuld, Säumniszuschlag und Ruhen der Leistung

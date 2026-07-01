@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-aeo-bewilligung-monitoring
-description: "AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Security/Full): Monitoring laufender Bewilligungsbedingungen nach Art. 38-39 UZK und AEOC/AEOS/AEOF. Prüft regelmäßige Selbstevaluation, Ereignismeldepflichten an Hauptzollamt, Änderungen in Haftungsverhaeltnissen, Comp..."
+description: "Wenn es um AEO-Bewilligung: Monitoring laufender Bedingungen und Meldepflichten in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AEO-Bewilligung: Monitoring laufender Bedingungen und Meldepflichten

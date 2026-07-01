@@ -1,6 +1,6 @@
 ---
 name: hochschulzugang-beruflich-qualifizierte
-description: "Prüft Hochschulzugang ohne Abitur, Beratungspflichten, Eignung und Ablehnung im Hochschulrecht Länder."
+description: "Wenn es um Hochschulzugang beruflich Qualifizierte in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hochschulzugang beruflich Qualifizierte

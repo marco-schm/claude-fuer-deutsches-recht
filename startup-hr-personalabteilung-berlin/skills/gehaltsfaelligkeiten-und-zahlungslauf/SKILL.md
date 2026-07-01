@@ -1,6 +1,6 @@
 ---
 name: gehaltsfaelligkeiten-und-zahlungslauf
-description: "Berliner Start-up-HR: Gehaltsfälligkeiten und Zahlungslauf überwachen: Freigabe, Sonderzahlungen, Abzüge, Pfändungen, Korrekturen und Chef-Update. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Ber..."
+description: "Wenn es um Gehaltsfaelligkeiten Und Zahlungslauf in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gehaltsfaelligkeiten Und Zahlungslauf

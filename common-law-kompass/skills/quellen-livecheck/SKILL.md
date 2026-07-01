@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Quellen-Live-Check für Common Law Kompass: prüft Normen (UK/US/Commonwealth common law, Restatements (US), ECHR/EU-CFR) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt UK Supreme Court, US Supreme Court und Quellenhygiene nach references/quellenhygiene.md."
+description: "Wenn es um Rechtsquellen-Livecheck in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsquellen-Livecheck

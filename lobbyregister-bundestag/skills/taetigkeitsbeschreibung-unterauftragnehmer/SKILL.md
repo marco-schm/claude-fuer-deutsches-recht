@@ -1,6 +1,6 @@
 ---
 name: taetigkeitsbeschreibung-unterauftragnehmer
-description: "Formuliert die allgemeine Tätigkeit der Interessenvertretung klar, nicht irreführend und updatefähig. Normen § 3 und § 5 LobbyRG. Output Portaltext im Lobbyregister Bundestag."
+description: "Wenn es um Taetigkeitsbeschreibung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Taetigkeitsbeschreibung

@@ -1,6 +1,6 @@
 ---
 name: informationspflichten-vertragsschluss
-description: "Informationspflichten vor Vertragsschluss Art. 246a EGBGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG im Ecom..."
+description: "Wenn es um Informationspflichten vor Vertragsschluss Art. 246a EGBGB in E-Commerce-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Informationspflichten vor Vertragsschluss Art. 246a EGBGB

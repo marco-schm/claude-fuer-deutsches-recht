@@ -1,6 +1,6 @@
 ---
 name: spezial-co2kostenaufteilung
-description: "CO2-Kostenaufteilung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Wohngebäude-Stufenmodell, Nichtwohngebäude-Regel, Abrechnungsangaben; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um CO2-Kostenaufteilung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CO2-Kostenaufteilung

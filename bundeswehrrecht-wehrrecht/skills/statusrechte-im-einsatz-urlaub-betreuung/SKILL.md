@@ -1,6 +1,6 @@
 ---
 name: statusrechte-im-einsatz-urlaub-betreuung
-description: "Statusrechte im Einsatz Urlaub Betreuung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Wenn es um Statusrechte im Einsatz Urlaub Betreuung in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Statusrechte im Einsatz Urlaub Betreuung

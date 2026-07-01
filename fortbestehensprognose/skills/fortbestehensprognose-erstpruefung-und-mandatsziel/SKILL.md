@@ -1,6 +1,6 @@
 ---
 name: fortbestehensprognose-erstpruefung-und-mandatsziel
-description: "Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel im Fortbestehensprognose."
+description: "Wenn es um Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel in Fortbestehensprognose geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel

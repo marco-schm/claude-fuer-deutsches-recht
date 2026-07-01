@@ -1,6 +1,6 @@
 ---
 name: schweigen-erklaerungswert-stellvertretung
-description: "Prüft den Erklärungswert des Schweigens im BGB: Schweigen als Ausnahme von der Regel keine Willenserklärung, kaufmännisches Bestätigungsschreiben, vertraglich vereinbarter Erklärungswert, § 362 HGB und Sonderfälle im Verbraucherrecht. Klausurfall mit Subsumtionsraster im BGB AT."
+description: "Wenn es um Schweigen und Erklärungswert in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Schweigen Erklaerungswert Stellvertretung; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Schweigen und Erklärungswert

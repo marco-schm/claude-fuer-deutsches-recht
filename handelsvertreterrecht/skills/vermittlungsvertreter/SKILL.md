@@ -1,6 +1,6 @@
 ---
 name: vermittlungsvertreter
-description: "Analysiert die Rechtsstellung des reinen Vermittlungsvertreters nach § 84 Abs. 1 HGB ohne Abschlussvollmacht: Entstehung des Provisionsanspruchs nach § 87 HGB bei reiner Vermittlungstätigkeit, Abgrenzung zum Abschlussvertreter mit Vollmacht sowie Konsequenzen für Haftung und Ausgleich nach § 89b..."
+description: "Wenn es um Reiner Vermittlungsvertreter nach Paragraf 84 HGB — Provision und Rechtsstellung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reiner Vermittlungsvertreter nach § 84 HGB — Provision und Rechtsstellung

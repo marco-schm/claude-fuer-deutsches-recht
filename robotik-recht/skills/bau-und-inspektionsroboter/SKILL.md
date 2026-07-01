@@ -1,6 +1,6 @@
 ---
 name: bau-und-inspektionsroboter
-description: "Prüft Bau-, Inspektions- und Wartungsroboter: Baustelle, Arbeitsschutz, Drittschäden, Betreiberorganisation und Beweissicherung."
+description: "Wenn es um Bau- und Inspektionsroboter in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bau- und Inspektionsroboter

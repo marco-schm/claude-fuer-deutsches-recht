@@ -1,6 +1,6 @@
 ---
 name: ug-oder-gmbh-wechsel
-description: "Solo-Selbstständige: bewertet Haftung, Kosten, Steuern, Register und Außenwirkung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Wachstum Zusammenarbeit und Rechtsform: Bewertet haftung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wachstum Zusammenarbeit und Rechtsform: Bewertet haftung

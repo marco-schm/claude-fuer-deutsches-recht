@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-sanktionsscreening-fuzzy-match
-description: "Technische und rechtliche Anforderungen an Sanktionslistenscreening mit Fuzzy-Matching: Schwellenwerte für Namensaehnlichkeit, Algorithmen (Levenshtein, phonetisch), False-Positive-Management, Dokumentation und Validierungspflicht des Screening-Tools nach EU-Sanktionsrecht. Output: Screening-Meth..."
+description: "Wenn es um Sanktionsscreening mit Fuzzy-Match: Methodik, Schwellenwerte und Validierung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Sanktionsscreening mit Fuzzy-Match: Methodik, Schwellenwerte und Validierung

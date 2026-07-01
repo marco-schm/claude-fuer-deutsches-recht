@@ -1,6 +1,6 @@
 ---
 name: bundesbehoerde-oder-landesbehoerde-erk
-description: "Informationsfreiheit und Presseauskunft: Bundesbehörde oder Landesbehörde erkennen. Bundesbehörde oder Landesbehörde erkennen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseausk..."
+description: "Wenn es um Bundesbehoerde Oder Landesbehoerde Erk in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bundesbehoerde Oder Landesbehoerde Erk

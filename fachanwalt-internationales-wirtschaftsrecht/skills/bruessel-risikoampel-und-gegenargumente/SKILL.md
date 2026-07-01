@@ -1,6 +1,6 @@
 ---
 name: bruessel-risikoampel-und-gegenargumente
-description: "Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien: Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Wenn es um Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Internationales Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien

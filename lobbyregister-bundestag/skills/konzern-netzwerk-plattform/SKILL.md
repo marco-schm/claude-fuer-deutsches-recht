@@ -1,6 +1,6 @@
 ---
 name: konzern-netzwerk-plattform
-description: "Strukturiert Lobbyregisterfragen bei Konzernen, Verbaenden, losen Netzwerken, Plattformen und sonstigen kollektiven Tätigkeiten. Output Eintragungseinheiten-Map im Lobbyregister Bundestag."
+description: "Wenn es um Konzern, Netzwerk und Plattform in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konzern, Netzwerk und Plattform

@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrer-fristen-form-und-zustaendigkeit
-description: "Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg im Fortbestehensprognose."
+description: "Wenn es um Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg

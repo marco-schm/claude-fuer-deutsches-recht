@@ -1,6 +1,6 @@
 ---
 name: lease-032-diebstahl-totalschaden-und-gefahrtragung
-description: "Leasingrecht: Diebstahl Totalschaden und Gefahrtragung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Diebstahl Totalschaden und Gefahrtragung in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Diebstahl Totalschaden und Gefahrtragung

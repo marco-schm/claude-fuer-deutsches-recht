@@ -1,6 +1,6 @@
 ---
 name: mandat-arbeitsbereich
-description: "Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen: Verhindert, dass Kontext von einem Mandat in ein ande..."
+description: "Wenn es um Mandat Arbeitsbereich in Arbeitsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen

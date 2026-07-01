@@ -1,6 +1,6 @@
 ---
 name: marktueberwachung-unterlagenvorlage
-description: "Bereitet Unterlagenvorlage und Argumentation gegenüber Marktüberwachung vor: technische Dokumentation, Risikobewertung, Normen, Maßnahmen."
+description: "Wenn es um Marktüberwachung Unterlagenvorlage in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Marktüberwachung Unterlagenvorlage

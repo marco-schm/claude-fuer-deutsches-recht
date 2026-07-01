@@ -1,6 +1,6 @@
 ---
 name: 10-entscheidungsvorschlag-sozialgericht
-description: "Strukturierter Entscheidungsvorschlag: Tenor-Skizze, sozialrechtliche Anspruchsprüfung, medizinische Beweiswürdigung, soziale Faktoren, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert"
+description: "Wenn es um 10 Entscheidungsvorschlag Sozialgericht in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 10 Entscheidungsvorschlag Sozialgericht

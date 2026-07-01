@@ -1,6 +1,6 @@
 ---
 name: verpflichtungsermaechtigung-vollzug-tr
-description: "Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Vollzug tracken im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Verpflichtungsermaechtigung Vollzug Tr in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verpflichtungsermaechtigung Vollzug Tr

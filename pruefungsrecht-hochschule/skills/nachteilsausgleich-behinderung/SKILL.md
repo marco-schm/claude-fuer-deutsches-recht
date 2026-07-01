@@ -1,6 +1,6 @@
 ---
 name: nachteilsausgleich-behinderung
-description: "Prüft Nachteilsausgleich, Behinderung, chronische Krankheit, Datenschutz und Prüfungszweck im Prüfungsrecht Hochschule."
+description: "Wenn es um Nachteilsausgleich Behinderung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachteilsausgleich Behinderung

@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-behoerdenkommunikation-reputationsschutz
-description: "Datenschutzrecht-Brückenskill: Behördenkommunikation mit Reputationsschutz: Ton, Timing, Presse, Veröffentlichung, Kundenkommunikation und Verteidigungsrechte koordinieren: Datenschutzrecht-Brückenskill: Behördenkommunikation mit Reputationsschutz: Ton, Tim..."
+description: "Wenn es um Dsv Sanktion Behoerdenkommunikation Reputationsschutz in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Behördenkommunikation mit Reputationsschutz: Ton, Timing, Presse, Veröffentlichung, Kundenkommunikation und Verteidigungsrechte koordinieren

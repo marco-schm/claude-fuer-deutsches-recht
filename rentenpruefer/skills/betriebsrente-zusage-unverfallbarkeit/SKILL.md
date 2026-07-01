@@ -1,6 +1,6 @@
 ---
 name: betriebsrente-zusage-unverfallbarkeit
-description: "Prüft Betriebsrentenzusagen: Versorgungsordnung, Entgeltumwandlung, Unverfallbarkeit, Arbeitgeberwechsel, Direktversicherung, Pensionskasse, Unterstützungskasse und Anspruchsschreiben."
+description: "Wenn es um Betriebsrente Zusage Unverfallbarkeit in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Betriebsrente Zusage Unverfallbarkeit

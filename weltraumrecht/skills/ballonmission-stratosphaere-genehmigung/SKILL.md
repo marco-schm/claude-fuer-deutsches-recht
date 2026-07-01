@@ -1,6 +1,6 @@
 ---
 name: ballonmission-stratosphaere-genehmigung
-description: "Stratosphären-Ballonmissionen – Luftraumgenehmigung, Gefahrgut, Grenzüberschreitung, Datenrecht im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Ballonmission Stratosphäre: Genehmigung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Ballonmission Stratosphäre: Genehmigung

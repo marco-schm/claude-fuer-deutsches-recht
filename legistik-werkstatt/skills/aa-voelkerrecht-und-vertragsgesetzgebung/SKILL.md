@@ -1,6 +1,6 @@
 ---
 name: aa-voelkerrecht-und-vertragsgesetzgebung
-description: "Sachbereich Voelkerrecht und Vertragsgesetzgebung im Geschäftsbereich AA: Normbestand (GG Art. 32 und Art. 59; WVK; Vertragsgesetze; Ratifikationsgesetze; BGBl Teil II.); Akteure (AA Rechtsabteilung; Bundespraesidialamt; Bundestag; Bundesrat.); EU-Bezug (Gemischte Abkommen; ausschliessliche EU-K..."
+description: "Wenn es um Voelkerrecht und Vertragsgesetzgebung (AA) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Voelkerrecht und Vertragsgesetzgebung (AA)

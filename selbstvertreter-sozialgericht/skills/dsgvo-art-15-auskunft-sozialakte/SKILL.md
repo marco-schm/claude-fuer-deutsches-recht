@@ -1,6 +1,6 @@
 ---
 name: dsgvo-art-15-auskunft-sozialakte
-description: "DSGVO Artikel 15 Auskunft zur Sozialakte. Skill erklaert das Auskunftsrecht ueber gespeicherte personenbezogene Daten beim Sozialleistungstraeger Verhältnis zu § 25 SGB X Akteneinsicht Frist Form Kostenfreiheit und Beschwerde bei Aufsichtsbehoerde. Liefert Vorlage."
+description: "Wenn es um Dsgvo Art 15 Auskunft Sozialakte in selbstvertreter-sozialgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Dsgvo Art 15 Auskunft Sozialakte

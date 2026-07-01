@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung-datenbankrecht-dringlichkeit
-description: "Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: Verfügungsanspruch (§§ 87b 97 UrhG), Verfügungsgrund (Dringlichkeit, Wiederholungsgefahr), Dringlichkeitsvermutung und deren Verwirkung bei Zuwarten. Erstellt Verfügungsantrag für Landgericht bei Datenabruf-Verletzungen und bewertet Gege..."
+description: "Wenn es um Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verfügungsantrag in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verfügungsantrag

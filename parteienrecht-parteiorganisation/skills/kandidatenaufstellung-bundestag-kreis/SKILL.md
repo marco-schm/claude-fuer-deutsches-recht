@@ -1,6 +1,6 @@
 ---
 name: kandidatenaufstellung-bundestag-kreis
-description: "Begleitet Aufstellung Direktkandidat: wahlberechtigte Mitglieder, geheime Abstimmung, Niederschrift, Zustimmung, eidesstattliche Versicherung."
+description: "Wenn es um Kreiswahlvorschlag Bundestag in Parteienrecht und Parteiorganisation geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Kandidatenaufstellung Bundestag Kreis; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Kreiswahlvorschlag Bundestag

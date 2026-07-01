@@ -1,6 +1,6 @@
 ---
 name: btm-097-medizinalcannabis-erlaubnis-pruefen
-description: "Betäubungsmittelrecht: Medizinalcannabis: Erlaubnis prüfen. Erlaubnis prüfen für Medizinalcannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Medizinalcannabis Erlaubnis Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medizinalcannabis Erlaubnis Pruefen

@@ -1,6 +1,6 @@
 ---
 name: unfall-haftungsquote-berechnen
-description: "Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Schadensposten koennen geltend gemacht werden? §§ 7 17 18 StVG iVm § 254 BGB Haftungsquote: Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Schadensposten koennen..."
+description: "Wenn es um Unfall Haftungsquote Berechnen in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Schadensposten können geltend gemacht werden? §§ 7 17 18 StVG iVm § 254 BGB Haftungsquote

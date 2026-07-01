@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-debt-equity-swap-im-plan
-description: "Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderungsumwandlung in Eigenkapital. Steuerliche Folgen nach KStG, EStG, GewStG. Werthaltigkeit der eingebrachten Forderung als Schlüsselfrage. Paragraph 8b KStG, Paragraph 17 EStG, Paragraph 3 Nr. 40 EStG bei Veraeusserung. Abgrenzung zu..."
+description: "Wenn es um Sanierungsgewinn — Debt-Equity-Swap im Plan in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsgewinn — Debt-Equity-Swap im Plan

@@ -1,6 +1,6 @@
 ---
 name: luft-069-ersatzteillager-dashboard-bauen
-description: "Luftrecht und Flughafenrecht: Ersatzteillager: Dashboard bauen. Dashboard bauen für Ersatzteillager im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Ersatzteillager Dashboard Bauen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ersatzteillager Dashboard Bauen

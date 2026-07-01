@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-mandantenkommunikation-entscheidungsvorlage
-description: "Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage

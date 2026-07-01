@@ -1,6 +1,6 @@
 ---
 name: publikationsfreiheit-affiliation
-description: "Prüft Publikationsfreigabe, Affiliation, Drittmittelbindung und Wissenschaftsfreiheit im Hochschulrecht Länder."
+description: "Wenn es um Publikationsfreiheit und Affiliation in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Publikationsfreiheit und Affiliation

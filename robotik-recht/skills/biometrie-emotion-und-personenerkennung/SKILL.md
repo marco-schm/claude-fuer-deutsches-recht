@@ -1,6 +1,6 @@
 ---
 name: biometrie-emotion-und-personenerkennung
-description: "Prüft Biometrie, Emotionserkennung, Personenerkennung, Beschäftigtenkontext und Transparenzpflichten bei Robotern."
+description: "Wenn es um Biometrie, Emotion und Personenerkennung in der Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Biometrie Emotion Und Personenerkennung; Arbeitsfeld: robotik-recht."
 ---
 
 # Biometrie, Emotion und Personenerkennung in der Robotik

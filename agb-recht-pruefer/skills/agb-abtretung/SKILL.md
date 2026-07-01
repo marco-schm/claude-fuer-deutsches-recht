@@ -1,6 +1,6 @@
 ---
 name: agb-abtretung
-description: "Klausel-Fachmodul für Abtretung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um Abtretung in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Abtretung; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Abtretung

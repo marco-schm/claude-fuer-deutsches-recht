@@ -1,6 +1,6 @@
 ---
 name: nationale-widerklage-neuheit-eigenart
-description: "Nichtigkeit als Einwand oder Widerklage im Verletzungsverfahren prüfen: Zuständigkeit, Timing, Registerwirkung, Aussetzung und Beweislast im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Nationale Widerklage Nichtigkeit in designrecht-geschmacksmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Nationale Widerklage Nichtigkeit

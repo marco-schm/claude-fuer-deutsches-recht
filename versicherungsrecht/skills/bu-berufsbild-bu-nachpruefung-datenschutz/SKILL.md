@@ -1,6 +1,6 @@
 ---
 name: bu-berufsbild-bu-nachpruefung-datenschutz
-description: "Berufsunfähigkeitsversicherung: konkretes Berufsbild, prägende Tätigkeiten, Zeitanteile, gesundheitliche Einschränkungen und 50-Prozent-Grenze substantiiert darstellen im Versicherungsrecht."
+description: "Wenn es um BU: Berufsbild und 50-Prozent-Prüfung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # BU: Berufsbild und 50-Prozent-Prüfung

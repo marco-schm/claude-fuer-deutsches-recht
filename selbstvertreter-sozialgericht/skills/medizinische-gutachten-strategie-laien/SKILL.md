@@ -1,6 +1,6 @@
 ---
 name: medizinische-gutachten-strategie-laien
-description: "Strategie mit medizinischen Gutachten im SG-Verfahren. Wie laeuft Gutachten Welche Fragen welcher Arzt. Vorbereitung Untersuchung und Reaktion auf Gutachten."
+description: "Wenn es um Medizinische Gutachten — Ihre Strategie in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medizinische Gutachten — Ihre Strategie

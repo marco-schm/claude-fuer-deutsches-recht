@@ -1,6 +1,6 @@
 ---
 name: sperrzeit-arbeitslosengeld-und-krankenversicherung
-description: "Krankenversicherung bei Arbeitslosigkeit und Sperrzeit nach SGB III: Pflichtversicherung, Beitragsübernahme durch Bundesagentur, Lückenproblem und Optionen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Sperrzeit, Arbeitslosengeld und Krankenversicherung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sperrzeit, Arbeitslosengeld und Krankenversicherung

@@ -1,6 +1,6 @@
 ---
 name: dreidimensionale-marke
-description: "Dreidimensionale Marke und Formmarke prüfen: Produktform, Flakon, Schuhform, technische Funktion, wesentlicher Wert, Unterscheidungskraft, Verkehrsdurchsetzung und Design-Alternativen im Markenrecht Fashion Luxus."
+description: "Wenn es um Dreidimensionale Marken (3D-Formmarken) in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Dreidimensionale Marken (3D-Formmarken)

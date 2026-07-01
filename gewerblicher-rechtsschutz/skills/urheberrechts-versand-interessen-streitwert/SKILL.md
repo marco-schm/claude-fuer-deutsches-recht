@@ -1,6 +1,6 @@
 ---
 name: urheberrechts-versand-interessen-streitwert
-description: "Urheberrecht: Zahlen, Schwellen und Berechnungen. Schöpfungshöhe, Schutzfristen (70 Jahre p.m.a.), Lizenzanalogie, Filesharing-Schadensersatz, Vergütungsansprüche nach VGG/GEMA und typische Streitwert- und Schadensberechnung im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Urheberrecht – Zahlen, Schwellen und Berechnung in Plugin: Gewerblicher Rechtsschutz geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Spezial: Urheberrecht – Zahlen, Schwellen und Berechnung

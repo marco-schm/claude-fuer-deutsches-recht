@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsbescheid-dokumentenmatrix-und-lueckenliste
-description: "Vollstreckungsbescheid: Dokumentenmatrix, Lückenliste und Nachforderung im Zwangsvollstreckung."
+description: "Wenn es um Vollstreckungsbescheid: Dokumentenmatrix, Lückenliste und Nachforderung in Zwangsvollstreckung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Vollstreckungsbescheid: Dokumentenmatrix, Lückenliste und Nachforderung

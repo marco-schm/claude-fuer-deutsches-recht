@@ -1,6 +1,6 @@
 ---
 name: venue-jurisdiction-core
-description: "Prüft Bankruptcy Court jurisdiction, venue, core/non-core, related-to, removal and abstention questions im US Bankruptcy Code."
+description: "Wenn es um Venue, Jurisdiction and Core Proceedings in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Venue, Jurisdiction and Core Proceedings

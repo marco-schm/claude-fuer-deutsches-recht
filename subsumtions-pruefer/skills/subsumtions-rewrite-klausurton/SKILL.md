@@ -1,6 +1,6 @@
 ---
 name: subsumtions-rewrite-klausurton
-description: "Schreibt falsche oder lueckenhafte Subsumtionen in einen knappen juristischen Klausurton um, ohne neue Tatsachen zu erfinden. Vier-Schritt-Schema: Obersatz, Definition, Subsumtion, Ergebnis je Tatbestandsmerkmal im Subsumtions Prüfer."
+description: "Wenn es um Subsumtion im Klausurton neu schreiben in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Subsumtion im Klausurton neu schreiben

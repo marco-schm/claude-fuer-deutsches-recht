@@ -1,6 +1,6 @@
 ---
 name: abhoerschnittstellen-sicherheitsbehoerden
-description: "TK-Überwachung, Schnittstellen, Auskunftsersuchen, Bestandsdaten, Verkehrsdaten, Strafverfolgung und Geheimnisschutz im Telekommunikationsrecht."
+description: "Wenn es um Überwachungsschnittstellen und Behördenauskünfte in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Überwachungsschnittstellen und Behördenauskünfte

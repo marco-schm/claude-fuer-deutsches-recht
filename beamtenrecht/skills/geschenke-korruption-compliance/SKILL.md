@@ -1,6 +1,6 @@
 ---
 name: geschenke-korruption-compliance
-description: "Geschenke, Einladungen, Sponsoring und Korruptionsprävention im öffentlichen Dienst im Beamtenrecht."
+description: "Wenn es um Geschenke Korruption Compliance in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geschenke Korruption Compliance

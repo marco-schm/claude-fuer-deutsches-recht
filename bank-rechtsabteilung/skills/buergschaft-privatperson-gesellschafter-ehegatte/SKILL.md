@@ -1,6 +1,6 @@
 ---
 name: buergschaft-privatperson-gesellschafter-ehegatte
-description: "Privatpersonen-, Gesellschafter- und Ehegattenbürgschaften aus Bankensicht prüfen: Schriftform, krasse finanzielle Überforderung, Sittenwidrigkeit, Verbraucherschutz, Aufklärung, Sicherheitenwert und Prozessrisiko im Bank-Rechtsabteilung."
+description: "Wenn es um Buergschaft Privatperson Gesellschafter Ehegatte in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Buergschaft Privatperson Gesellschafter Ehegatte

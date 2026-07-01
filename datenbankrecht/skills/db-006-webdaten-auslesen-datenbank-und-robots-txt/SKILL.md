@@ -1,6 +1,6 @@
 ---
 name: db-006-webdaten-auslesen-datenbank-und-robots-txt
-description: "Datenbankrecht: Webdaten-Auslesen, Datenbank und Robots.txt mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Webdaten-Auslesen, Datenbank und Robots.txt in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Webdaten-Auslesen, Datenbank und Robots.txt

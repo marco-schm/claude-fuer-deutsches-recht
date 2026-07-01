@@ -1,6 +1,6 @@
 ---
 name: route-aufzug-und-streckenplanung
-description: "Plant Aufzüge und Routen so, dass Versammlungszweck, Verkehr, Sicherheit und Behördeneinwände gut ausbalanciert sind im Versammlungsrecht."
+description: "Wenn es um Route ist Teil der Botschaft in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Route ist Teil der Botschaft

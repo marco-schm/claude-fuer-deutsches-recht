@@ -1,6 +1,6 @@
 ---
 name: gluecksspiel-werbung-und-altersgrenzen
-description: "Influencer-Recht: Glücksspiel-Werbung – GlüStV 2021, Werbeverbote, Altersgrenzen, Sperrdatei und Haftungsrisiken für Creator im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Glücksspiel-Werbung und Altersgrenzen in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Influencer-Recht: Glücksspiel-Werbung und Altersgrenzen

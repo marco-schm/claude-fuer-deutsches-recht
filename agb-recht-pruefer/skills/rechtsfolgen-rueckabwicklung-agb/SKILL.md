@@ -1,6 +1,6 @@
 ---
 name: rechtsfolgen-rueckabwicklung-agb
-description: "Norm- und Dogmatik-Skill für Rechtsfolgen Rückabwicklung AGB: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Rechtsfolgen Rückabwicklung AGB in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Rechtsfolgen Rückabwicklung AGB

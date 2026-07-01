@@ -1,6 +1,6 @@
 ---
 name: china-importeur-eu-compliance-exporteur-deutschland-nach
-description: "EU-Compliance-Pflichten für Importeure von Waren aus VR China: CE-Konformität, Produktsicherheits-VO (EU) 2023/988, Marktüberwachungs-VO (EU) 2019/1020, Zollursprungsregeln, Anti-Dumping/Antisubventionszölle, LkSG § 2 Abs. 7 mittelbare Zulieferer, Forced-Labour-VO. Output: Import-Compliance-Check..."
+description: "Wenn es um Importeur EU-Compliance: Waren aus China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Importeur EU-Compliance: Waren aus China

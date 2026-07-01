@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-maengelmeldung-sap-pm
-description: "Methodikskill HOAI LPH 8 — Vollstaendiger für Maengelmeldungen in SAP Plant Maintenance PM. Umfasst Meldungsarten M1-M3, Equipment-Nummernstruktur aus Bau-Objektbaum, Schadens- und Ursachencodes nach Normen, Prioritaeten und Faelligkeiten nach VOB/B § 13, Workflows PM-Meldung bis PM-Auftrag mit A..."
+description: "Wenn es um Maengelmeldung und SAP Plant Maintenance in der Bauueberwachung LPH 8 in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Maengelmeldung und SAP Plant Maintenance in der Bauueberwachung LPH 8

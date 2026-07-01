@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-notgeschaeftsfuehrung
-description: "Notgeschäftsführung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Gefahr im Verzug, Kompetenz, Dokumentation, Kostenerstattung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Notgeschäftsführung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notgeschäftsführung

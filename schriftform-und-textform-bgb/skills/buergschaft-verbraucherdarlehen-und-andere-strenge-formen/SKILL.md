@@ -1,6 +1,6 @@
 ---
 name: buergschaft-verbraucherdarlehen-und-andere-strenge-formen
-description: "Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. Paragrafen 766 492 484 311b BGB strenge Formerfordernisse. Prüfraster: Buergschaft Paragraf 766 BGB Schriftform (Ausnahme Kaufmann Paragraf 350 HGB) Verbraucherdarlehen Paragraf 492 BG..."
+description: "Wenn es um Bürgschaft, Verbraucherdarlehen und andere strenge Formen in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bürgschaft, Verbraucherdarlehen und andere strenge Formen

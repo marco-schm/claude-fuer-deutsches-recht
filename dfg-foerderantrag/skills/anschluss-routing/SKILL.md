@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für DFG-Förderantrag: wählt den nächsten Spezial-Skill nach Engpass (Antragsfrist Ausschreibungstermin, Projektbeschreibung, Finanzierungsplan, Lebenslauf), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in DFG-Förderantrag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anschluss-Routing

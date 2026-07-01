@@ -1,6 +1,6 @@
 ---
 name: open-source-sbom
-description: "Sammelt FOSS, SBOM, Lizenzen, Security Advisories, Maintainer-Risiken und regulatorische Verantwortungsfragen."
+description: "Wenn es um Open Source und SBOM in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Open Source Sbom; Arbeitsfeld: robotik-recht."
 ---
 
 # Open Source und SBOM

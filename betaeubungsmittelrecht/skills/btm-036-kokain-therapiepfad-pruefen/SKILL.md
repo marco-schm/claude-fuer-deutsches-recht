@@ -1,6 +1,6 @@
 ---
 name: btm-036-kokain-therapiepfad-pruefen
-description: "Betäubungsmittelrecht: Kokain: Therapiepfad prüfen. Therapiepfad prüfen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kokain Therapiepfad Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kokain Therapiepfad Pruefen

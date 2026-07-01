@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-eu-beihilfe-und-altmark
-description: "EU-beihilferechtliche Prüfung von Sanierungsmaßnahmen nach Art. 107 AEUV. Behandelt die Sanierungsklausel Paragraf 8c Abs. 1a KStG als Beihilfegegenstand, die Anwendung der Altmark-Trans-Kriterien, die De-minimis-Verordnung und das Notifizierungsverfahren bei der Kommission. Liefert Prüfraster, Risiko-M..."
+description: "Wenn es um Sanierungsgewinn – EU-Beihilfe und Altmark in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsgewinn – EU-Beihilfe und Altmark

@@ -1,6 +1,6 @@
 ---
 name: recht-und-politik-abgrenzung
-description: "Prüft, wann eine juristische Entscheidung politisch geprägt ist und wie sie dennoch rechtsförmig begründet werden muss."
+description: "Wenn es um Recht und Politik in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Recht und Politik

@@ -1,6 +1,6 @@
 ---
 name: gmbh-vorbereitung
-description: "Bereitet GmbH-Gründung mit Firma, Sitz, Gegenstand, Stammkapital, Gesellschaftern, Geschäftsführung, Bank, Notar und Register vor."
+description: "Wenn es um GmbH-Vorbereitung in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GmbH-Vorbereitung

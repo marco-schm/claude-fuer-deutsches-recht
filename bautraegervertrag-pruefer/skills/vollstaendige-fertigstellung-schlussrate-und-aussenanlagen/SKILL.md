@@ -1,6 +1,6 @@
 ---
 name: vollstaendige-fertigstellung-schlussrate-und-aussenanlagen
-description: "Prüft Schlussrate im Bauträgervertrag: vollständige Fertigstellung, Bezugsfertigkeit, Außenanlagen, Protokollmängel, Restarbeiten, § 3 Abs. 2 MaBV, § 641 Abs. 3 BGB, § 817/§ 818 BGB und BGH VII ZR 88/25."
+description: "Wenn es um Vollständige Fertigstellung, Schlussrate und Außenanlagen in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vollständige Fertigstellung, Schlussrate und Außenanlagen

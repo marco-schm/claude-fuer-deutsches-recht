@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-erklaerung-meldebehoerde
-description: "Erzeugt zweisprachige Erklärung: einfacher deutscher Kerntext plus Übersetzung/Glossar in gewünschter Arbeitssprache im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Mehrsprachige Erklärung in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mehrsprachige Erklärung

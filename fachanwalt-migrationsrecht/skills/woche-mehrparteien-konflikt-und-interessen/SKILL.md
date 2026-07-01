@@ -1,6 +1,6 @@
 ---
 name: woche-mehrparteien-konflikt-und-interessen
-description: "Woche: Mehrparteienkonflikt und Interessenmatrix: Woche: Mehrparteienkonflikt und Interessenmatrix."
+description: "Wenn es um Woche: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Woche: Mehrparteienkonflikt und Interessenmatrix

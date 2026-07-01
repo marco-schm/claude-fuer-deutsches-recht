@@ -1,6 +1,6 @@
 ---
 name: paywallfreie-rechtsprechungsbelege
-description: "Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Zitierweise."
+description: "Wenn es um Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate in Zitierweise deutsches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate

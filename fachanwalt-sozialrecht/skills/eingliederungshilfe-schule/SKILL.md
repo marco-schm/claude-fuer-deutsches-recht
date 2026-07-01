@@ -1,6 +1,6 @@
 ---
 name: eingliederungshilfe-schule
-description: "Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt muessen Anspruch klären und durchsetzen: SGB IX Teil 2 §§ 90 ff. Eingliede..."
+description: "Wenn es um Eingliederungshilfe Schule in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt müssen Anspruch klären und durchsetzen

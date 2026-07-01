@@ -1,6 +1,6 @@
 ---
 name: spezial-forscher-ict-au-pair
-description: "Forscher/ICT/Au-pair/Sondertitel: Spezial-Skill im Migrationsrecht; prüft Sondertitel, Zweckbindung, Wechsel, Familiennachzug; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Forscher/ICT/Au-pair/Sondertitel in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Forscher/ICT/Au-pair/Sondertitel

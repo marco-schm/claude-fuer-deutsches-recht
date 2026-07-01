@@ -1,6 +1,6 @@
 ---
 name: beirat-register-und-notar
-description: "Prüft Beiratsfragen zu Register Und Notar: Zuständigkeit, Satzungsgrundlage, Beschlussweg, Haftung, Belege, Gegenargumente und verwertbaren Output."
+description: "Wenn es um Beirat Register Und Notar in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Beirat Register Und Notar

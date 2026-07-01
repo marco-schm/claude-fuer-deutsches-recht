@@ -1,6 +1,6 @@
 ---
 name: bestreiten-mehrparteien-konflikt-und-interessen
-description: "Bestreiten: Mehrparteienkonflikt und Interessenmatrix im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldung..."
+description: "Wenn es um Bestreiten: Mehrparteienkonflikt und Interessenmatrix in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bestreiten: Mehrparteienkonflikt und Interessenmatrix

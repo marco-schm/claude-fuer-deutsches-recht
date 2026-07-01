@@ -1,6 +1,6 @@
 ---
 name: abschlussmemo-handelsrecht
-description: "Internationales Handelsrecht: Abschlussmemo nach Verhandlung oder Prüfung eines internationalen Handelsfalls. Struktur, Wesentlichkeitsprinzip, Ergebnisdarstellung, Risikobewertung und Board-taugliche Formulierung im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Abschlussmemo Internationales Handelsrecht in Internationales Handelsrecht und Lex Mercatoria geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Abschlussmemo Internationales Handelsrecht

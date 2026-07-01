@@ -1,6 +1,6 @@
 ---
 name: dokumentenintake-und-aktenlog
-description: "Dokumentenintake und Aktenlog: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft ordnet Uploads, Eingangspost, Aktenbestandteile und fehlende Unterlagen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftsp..."
+description: "Wenn es um Dokumentenintake und Aktenlog in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Dokumentenintake und Aktenlog

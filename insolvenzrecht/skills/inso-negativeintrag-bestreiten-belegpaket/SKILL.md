@@ -1,6 +1,6 @@
 ---
 name: inso-negativeintrag-bestreiten-belegpaket
-description: "Belegpaket gegen negative Auskunfteieinträge: Beschlüsse, Registerauszüge, Erledigungsnachweise, Löschfristen, Auskunft und Versandnachweis im Insolvenzrecht."
+description: "Wenn es um Negativeintrag bestreiten: Belegpaket in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Negativeintrag bestreiten: Belegpaket

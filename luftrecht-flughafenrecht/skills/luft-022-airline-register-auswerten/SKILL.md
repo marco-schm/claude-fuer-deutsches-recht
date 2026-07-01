@@ -1,6 +1,6 @@
 ---
 name: luft-022-airline-register-auswerten
-description: "Luftrecht und Flughafenrecht: Airline: Register auswerten. Register auswerten für Airline im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Airline Register Auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Airline Register Auswerten

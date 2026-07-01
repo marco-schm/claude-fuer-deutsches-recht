@@ -1,6 +1,6 @@
 ---
 name: review-engagement-rotation-cooling
-description: "Wirtschaftsprüfer: review engagement abgrenzung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Review Engagement Rotation Cooling in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: review engagement abgrenzung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

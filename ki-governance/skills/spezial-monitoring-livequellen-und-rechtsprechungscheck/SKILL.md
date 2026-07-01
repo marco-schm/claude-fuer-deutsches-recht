@@ -1,6 +1,6 @@
 ---
 name: spezial-monitoring-livequellen-und-rechtsprechungscheck
-description: "Monitoring: Livequellen- und Rechtsprechungscheck im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Monitoring: Livequellen- und Rechtsprechungscheck in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Monitoring: Livequellen- und Rechtsprechungscheck

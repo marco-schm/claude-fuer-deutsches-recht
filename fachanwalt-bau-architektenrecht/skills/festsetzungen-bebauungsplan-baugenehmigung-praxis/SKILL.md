@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-bebauungsplan-baugenehmigung-praxis
-description: "Prueft Bebauungsplan-Festsetzungen in der Baugenehmigungspraxis: Planbindung, Befreiung, Abweichung, Nachbarrechte und Bauaufsichtsargumentation."
+description: "Wenn es um Bebauungsplan-Festsetzungen in der Baugenehmigungspraxis in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bebauungsplan-Festsetzungen in der Baugenehmigungspraxis

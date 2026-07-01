@@ -1,6 +1,6 @@
 ---
 name: muendliche-verhandlung-vgh-strategie
-description: "Normenkontrollantrag steht vor muendlicher Verhandlung am VGH oder OVG. Vorbereitung muendliche Verhandlung Normenkontrolle. Prüfraster: Plaedoyer Einleitung Sachverhalt Rechtsausführungen Anträge schriftliche Beweisanträge Ortsbesichtigung Hilfsanträge Teilunwirksamkeit Wirkungsausspruch Kostene..."
+description: "Wenn es um Mündliche Verhandlung BayVGH/OVG in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mündliche Verhandlung BayVGH/OVG

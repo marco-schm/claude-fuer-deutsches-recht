@@ -1,6 +1,6 @@
 ---
 name: ruegeschriftsatz-erstellen
-description: "Ruegeschriftsatz nach § 160 Abs: 3 GWB als Pflichtvoraussetzung jeder Vergabenachprüfung. Adressat öffentlicher Auftraggeber. Konkret bezeichneter Vergabeverstoß mit Norm und Sachverhalt. Antrag auf Abhilfe und hilfsweise Au..."
+description: "Wenn es um Ruegeschriftsatz nach Paragraf 160 Abs in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ruegeschriftsatz nach § 160 Abs

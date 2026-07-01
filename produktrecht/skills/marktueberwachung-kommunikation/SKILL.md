@@ -1,6 +1,6 @@
 ---
 name: marktueberwachung-kommunikation
-description: "Kommunikation mit Marktueberwachungsbehoerden (zentrale Stellen der Länder, BAuA, BfArM, BNetzA): Anfrage, Probenahme, Anordnung, Rueckruf. Antwortstrategie, Schweigerecht des Herstellers, Auskunftspflichten Art. 4 MarktueberwG. Mitwirkung an Rueckrufen. Mustertexte im Produktrecht."
+description: "Wenn es um Marktueberwachung-Kommunikation in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Marktueberwachung-Kommunikation

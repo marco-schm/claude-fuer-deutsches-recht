@@ -1,6 +1,6 @@
 ---
 name: instanzenzug-revision-historisch
-description: "Instanzenzug und Revision im preussischen Recht historisch. Skill behandelt den dreistufigen Instanzenzug Berufung Revision Nichtigkeitsbeschwerde sowie die Aufgaben des Obertribunals Berlin und die Fortwirkung zum heutigen Instanzenzug. Liefert Quellenmatrix."
+description: "Wenn es um Pralr Instanzenzug Revision Historisch in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Instanzenzug Revision Historisch

@@ -1,6 +1,6 @@
 ---
 name: mobile-work-verwertung
-description: "Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones; MDM, Datenschutz, BYOD vs. COPE, Rückgabe und Nutzungsrichtlinien im Leasingrecht."
+description: "Wenn es um Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones

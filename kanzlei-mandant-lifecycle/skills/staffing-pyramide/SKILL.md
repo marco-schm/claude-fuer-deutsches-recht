@@ -1,6 +1,6 @@
 ---
 name: staffing-pyramide
-description: "Staffing Pyramide: steuert Partner, Counsel, Associate, Legal Engineer und Paralegal sinnvoll einsetzen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
+description: "Wenn es um Staffing Pyramide in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Staffing Pyramide

@@ -1,6 +1,6 @@
 ---
 name: beziehungen-spezial-chronologie-ergaenzbar
-description: "Beziehungen: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Beziehungen: Zahlen, Schwellenwerte und Berechnung in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Beziehungen: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: abnahme-formular-portal-und-einreichung
-description: "Abnahme: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Abnahme: Formular, Portal und Einreichungslogik in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abnahme: Formular, Portal und Einreichungslogik

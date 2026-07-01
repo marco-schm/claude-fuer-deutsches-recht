@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-verteidigung-schule-elternchat
-description: "Erstellt strukturierte Stellungnahmen und Verteidigungsbausteine zu Äußerungsvorwürfen. Nutzt Sinnermittlung, Meinung-Tatsache-Abgrenzung, Art 5 GG, § 193 StGB, Belegmatrix und Rechtsprechungsbank im Meinungspruefer."
+description: "Wenn es um Stellungnahme und Verteidigung in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stellungnahme und Verteidigung

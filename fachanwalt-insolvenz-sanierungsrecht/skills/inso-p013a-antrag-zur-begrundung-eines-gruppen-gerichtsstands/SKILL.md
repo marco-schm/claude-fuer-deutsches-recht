@@ -1,6 +1,6 @@
 ---
 name: inso-p013a-antrag-zur-begrundung-eines-gruppen-gerichtsstands
-description: "§ 13a InsO (Antrag zur Begründung eines Gruppen-Gerichtsstands) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 13a InsO (Antrag zur Begründung eines Gruppen-Gerichtsstands) im Mandat prüf..."
+description: "Wenn es um Inso P013a Antrag Zur Begrundung Eines Gruppen Gerichtsstands in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 13a InsO (Antrag zur Begründung eines Gruppen-Gerichtsstands) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

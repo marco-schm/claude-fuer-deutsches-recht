@@ -1,6 +1,6 @@
 ---
 name: scheinselbststaendigkeit
-description: "Prüft das Risiko der Scheinselbständigkeit des Handelsvertreters nach § 7 SGB IV: Merkmale persönlicher und wirtschaftlicher Abhängigkeit, Konsequenzen für Sozialversicherungspflicht und Steuern, Unterschied zu arbeitnehmerähnlicher Stellung nach § 92a HGB sowie Statusfeststellungsverfahren bei d..."
+description: "Wenn es um Scheinselbständigkeit des Handelsvertreters: Paragraf 7 SGB IV und Paragraf 84 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Scheinselbständigkeit des Handelsvertreters: § 7 SGB IV und § 84 HGB

@@ -1,6 +1,6 @@
 ---
 name: expert-evidence-finance-banking
-description: "Plant Sachverständigenbeweis: Privatgutachten, gerichtlicher Sachverständiger, Fragenkatalog, technische Anlagen, Parteigutachten und Anhörung im Commercial Courts Deutschland."
+description: "Wenn es um Expert Evidence in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Expert Evidence

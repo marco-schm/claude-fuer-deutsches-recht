@@ -1,6 +1,6 @@
 ---
 name: gewerberecht-gerichtstermin-vorbereite
-description: "Gewerberecht: Gerichtstermin vorbereiten im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Gewerberecht Gerichtstermin Vorbereite in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerberecht Gerichtstermin Vorbereite

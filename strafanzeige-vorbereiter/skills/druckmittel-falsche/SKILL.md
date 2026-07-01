@@ -1,6 +1,6 @@
 ---
 name: druckmittel-falsche
-description: "Prüft, ob Drohung mit Strafanzeige oder Anzeige selbst als unzulässiges Druckmittel/Nötigung wirken kann im Strafanzeige-Vorbereitung."
+description: "Wenn es um Anzeige als Druckmittel vermeiden in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anzeige als Druckmittel vermeiden

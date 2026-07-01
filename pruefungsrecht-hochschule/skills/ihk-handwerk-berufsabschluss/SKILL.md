@@ -1,6 +1,6 @@
 ---
 name: ihk-handwerk-berufsabschluss
-description: "Prüft berufsständische Prüfungen, Kammerverfahren, Akteneinsicht und Wiederholung im Prüfungsrecht Hochschule."
+description: "Wenn es um IHK, Handwerk und Berufsabschluss in Prüfungsrecht an Hochschulen und Universitäten geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # IHK, Handwerk und Berufsabschluss

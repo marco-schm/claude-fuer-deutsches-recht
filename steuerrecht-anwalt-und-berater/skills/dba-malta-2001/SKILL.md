@@ -1,6 +1,6 @@
 ---
 name: dba-malta-2001
-description: "DBA Deutschland Malta 2001 mit Protokollen. Anwendungsfall Holding REIT-Strukturen Schifffahrt Online-Glueckspiel. EU-MTRL ergaenzend. Substanz Anti-Treaty-Shopping. Methodenartikel Anrechnung Aktivitaetsklausel. Output Mandanten-Memo Holding-Substanz-Memo BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Malta (2001) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Malta (2001)

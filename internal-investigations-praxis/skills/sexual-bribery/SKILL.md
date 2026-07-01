@@ -1,6 +1,6 @@
 ---
 name: sexual-bribery
-description: "Leitet Untersuchungen bei sexueller Belästigung am Arbeitsplatz – AGG, Schutzpflichten des Arbeitgebers, Beweiserhebung, arbeitsrechtliche Konsequenzen im Internal Investigations Praxis."
+description: "Wenn es um Sexuelle Belästigung am Arbeitsplatz – Untersuchung und Maßnahmen in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Sexuelle Belästigung am Arbeitsplatz – Untersuchung und Maßnahmen

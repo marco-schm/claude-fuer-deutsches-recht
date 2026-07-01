@@ -1,6 +1,6 @@
 ---
 name: workflow-haustier-nachbar-konflikt
-description: "Haustier-/Nachbarkonflikt: Prüfungslinie für Miet- und WEG-Recht: trennt Mietvertrag, Hausordnung, Störung, Beweis und Unterlassung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills..."
+description: "Wenn es um Haustier-/Nachbarkonflikt: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Haustier-/Nachbarkonflikt: Prüfungslinie für Miet- und WEG-Recht

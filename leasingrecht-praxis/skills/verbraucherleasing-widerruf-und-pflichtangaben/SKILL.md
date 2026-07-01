@@ -1,6 +1,6 @@
 ---
 name: verbraucherleasing-widerruf-und-pflichtangaben
-description: "Verbraucherleasing: §§ 506–509 BGB, Pflichtangaben, Widerrufsrecht, Folgen fehlerhafter Angaben und Muster-Widerrufsbelehrung im Leasingrecht."
+description: "Wenn es um Verbraucherleasing: Pflichtangaben und Widerruf in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verbraucherleasing: Pflichtangaben und Widerruf

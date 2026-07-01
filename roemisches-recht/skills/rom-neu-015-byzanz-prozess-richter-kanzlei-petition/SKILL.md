@@ -1,6 +1,6 @@
 ---
 name: rom-neu-015-byzanz-prozess-richter-kanzlei-petition
-description: "Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition

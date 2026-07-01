@@ -1,6 +1,6 @@
 ---
 name: presserecht-und-meinungsfreiheit-historisch
-description: "Deutsche Rechtsgeschichte: Presserecht und Meinungsfreiheit historisch. Pressezensur im Deutschen Bund, Reichspressegesetz 1874, Weimarer Presserecht, NS-Schriftleitergesetz 1933 und GG Art. 5 im Deutsche Rechtsgeschichte."
+description: "Wenn es um Presserecht und Meinungsfreiheit historisch in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Presserecht und Meinungsfreiheit historisch

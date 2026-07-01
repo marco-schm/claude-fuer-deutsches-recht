@@ -1,6 +1,6 @@
 ---
 name: einreichung-papierform-sozialgericht-mit-abschriften
-description: "Klage und Schriftsatz per Post beim SG einreichen: Abschriften für Gegner und Akte. Adressierung Einschreiben Empfangsbestätigung. Praktischer Versandweg für Buerger."
+description: "Wenn es um Klage und Schriftsatz per Post beim SG einreichen in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klage und Schriftsatz per Post beim SG einreichen

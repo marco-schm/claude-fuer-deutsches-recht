@@ -1,6 +1,6 @@
 ---
 name: kuendigungsfiktion-und-nachfrist-308
-description: "Norm- und Dogmatik-Skill für Kündigungsfiktion und Nachfrist 308: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Kündigungsfiktion und Nachfrist 308 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kündigungsfiktion und Nachfrist 308

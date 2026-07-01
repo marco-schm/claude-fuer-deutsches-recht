@@ -1,6 +1,6 @@
 ---
 name: flughafen-register-auswerten
-description: "Mandant will Grundbuch Liegenschaftsregister und LuftVG-Genehmigungshistorie eines Flughafens auswerten. Skill prüft LuftVG § 6 Genehmigungsurkunde Planfeststellungsbeschluss Grundbuch und FluglaermG-Zoneneinteilung und liefert strukturierten Genehmigungsstatus-Bericht im Luftrecht Flughafenrecht."
+description: "Wenn es um Flughafen – Register auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flughafen – Register auswerten

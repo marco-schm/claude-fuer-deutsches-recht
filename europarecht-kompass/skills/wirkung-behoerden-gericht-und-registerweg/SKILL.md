@@ -1,6 +1,6 @@
 ---
 name: wirkung-behoerden-gericht-und-registerweg
-description: "Wirkung: Behörden-, Gerichts- oder Registerweg: Wirkung: Behörden-, Gerichts- oder Registerweg."
+description: "Wenn es um Wirkung: Behörden-, Gerichts- oder Registerweg in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirkung: Behörden-, Gerichts- oder Registerweg

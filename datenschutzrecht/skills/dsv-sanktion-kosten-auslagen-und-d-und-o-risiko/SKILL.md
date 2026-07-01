@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-kosten-auslagen-und-d-und-o-risiko
-description: "Datenschutzrecht-Brückenskill: Kosten Auslagen und D&O-Risiko: Verteidigungskosten, Bußgeld, D&O-Meldung, Organhaftung und Versicherungsdeckung abschätzen: Datenschutzrecht-Brückenskill: Kosten Auslagen und D&O-Risiko: Verteidigungskosten, Bußgeld, D&O-Meld..."
+description: "Wenn es um Dsv Sanktion Kosten Auslagen Und D Und O Risiko in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Kosten Auslagen und D&O-Risiko: Verteidigungskosten, Bußgeld, D&O-Meldung, Organhaftung und Versicherungsdeckung abschätzen

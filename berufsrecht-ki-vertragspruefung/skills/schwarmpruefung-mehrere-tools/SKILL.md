@@ -1,6 +1,6 @@
 ---
 name: schwarmpruefung-mehrere-tools
-description: "Mehrere KI-Tools im parallelen Einsatz prüfen: ein Vertrag pro Anbieter, datentechnische Verkettung, Aggregationsrisiko, Gesamt-DPIA. Prüfraster für Mandant der gleichzeitig ChatGPT Enterprise, MS 365 Copilot, Claude Enterprise einsetzt."
+description: "Wenn es um Mehrere digitale Werkzeuge-Tools prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Mehrere KI-Tools prüfen

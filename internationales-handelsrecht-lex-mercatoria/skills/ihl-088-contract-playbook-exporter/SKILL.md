@@ -1,6 +1,6 @@
 ---
 name: ihl-088-contract-playbook-exporter
-description: "Internationales Handelsrecht und Lex Mercatoria: Contract Playbook Exporter. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Contract Playbook Exporter in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Contract Playbook Exporter

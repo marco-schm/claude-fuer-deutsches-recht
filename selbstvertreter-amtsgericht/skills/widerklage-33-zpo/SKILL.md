@@ -1,6 +1,6 @@
 ---
 name: widerklage-33-zpo
-description: "Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Voraussetzungen Konnexitaet Streitgegenstand-Verbindung Zuständigkeit Kostenrisiko Vorteile gegenüber reiner Aufrechnung. Wann lohnt die Widerklage und welcher Antrag ist zu stellen."
+description: "Wenn es um Widerklage: Eigener Angriff gegen den Kläger in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Widerklage: Eigener Angriff gegen den Kläger

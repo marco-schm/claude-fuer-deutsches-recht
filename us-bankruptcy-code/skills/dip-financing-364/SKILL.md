@@ -1,6 +1,6 @@
 ---
 name: dip-financing-364
-description: "Prüft debtor-in-possession financing, priming liens, roll-up, milestones, fees and lender control issues im US Bankruptcy Code."
+description: "Wenn es um DIP Financing Paragraf 364 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DIP Financing § 364

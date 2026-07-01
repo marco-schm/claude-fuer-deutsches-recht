@@ -1,6 +1,6 @@
 ---
 name: sektor-energie-speicher-regelenergie-netz
-description: "Sektor Energie, Speicher, Regelenergie und Netz: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Frist..."
+description: "Wenn es um Sektor Energie, Speicher, Regelenergie und Netz in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sektor Energie, Speicher, Regelenergie und Netz

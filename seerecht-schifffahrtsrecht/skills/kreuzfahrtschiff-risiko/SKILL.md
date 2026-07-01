@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-risiko
-description: "Kreuzfahrtschiff: Gesamtrisikobewertung für Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Kläger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Re..."
+description: "Wenn es um Kreuzfahrtschiff – Risiko-Memo schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kreuzfahrtschiff – Risiko-Memo schreiben

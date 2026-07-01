@@ -1,6 +1,6 @@
 ---
 name: ki-rote-linien-art-5-pruefen
-description: "Verbotene KI-Praktiken Art. 5 KI-VO im konkreten Anwendungsfall prüfen: unterschwellige Beeinflussung, Vulnerabilitaetsausnutzung, Social Scoring, biometrische Echtzeit-Identifikation im öffentlichen Raum, Emotionserkennung am Arbeitsplatz/Schule, biometrische Kategorisierung. Prüfraster und Ri..."
+description: "Wenn es um Verbotene digitale Werkzeuge Art. 5 prüfen in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verbotene KI Art. 5 prüfen

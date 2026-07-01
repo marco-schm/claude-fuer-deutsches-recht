@@ -1,6 +1,6 @@
 ---
 name: nkbl-buergerentscheid-buergerbegehren-spezial
-description: "Spezialfall Buergerbegehren und Buergerentscheid in der Bauleitplanung: Landesrecht, Quoren, zulaessige Fragen. Prüfraster für Initiative."
+description: "Wenn es um NkBl: Buergerbegehren in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NkBl: Buergerbegehren

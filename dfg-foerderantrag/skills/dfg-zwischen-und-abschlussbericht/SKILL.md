@@ -1,6 +1,6 @@
 ---
 name: dfg-zwischen-und-abschlussbericht
-description: "Zwischen- und Abschlussbericht systematisch vorbereiten: Berichtsraster der DFG, Soll-Ist-Abgleich Arbeitsprogramm, Publikationen, Personal, Geraete, Mittelabfluss. Abschlussbericht ist gleichzeitig Bewertungsbasis für Folgeantrag. Typische Schwachstellen und wie sie vermieden werden."
+description: "Wenn es um Zwischen- und Abschlussbericht in DFG-Förderantrag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Zwischen- und Abschlussbericht

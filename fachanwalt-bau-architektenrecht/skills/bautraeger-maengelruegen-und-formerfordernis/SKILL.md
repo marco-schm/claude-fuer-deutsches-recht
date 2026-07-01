@@ -1,6 +1,6 @@
 ---
 name: bautraeger-maengelruegen-und-formerfordernis
-description: "Bautraeger-Maengelruegen und Formerfordernis: Skill klaert wie ein Erwerber Maengel ruegen muss Schriftform-Empfehlung Frist zur Nachbesserung und die Folgen einer unwirksamen Ruege. Liefert Vorlage."
+description: "Wenn es um Bautraeger-Maengelruegen und Formerfordernis in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bautraeger-Maengelruegen und Formerfordernis

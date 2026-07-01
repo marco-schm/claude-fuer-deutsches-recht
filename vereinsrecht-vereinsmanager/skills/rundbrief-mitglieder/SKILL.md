@@ -1,6 +1,6 @@
 ---
 name: rundbrief-mitglieder
-description: "Erstellt klare Rundbriefe zu Versammlung, Beiträgen, Konflikten, Satzungsänderungen und Projekten im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Rundbrief an Mitglieder in Vereinsrecht und Vereinsmanager geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rundbrief an Mitglieder

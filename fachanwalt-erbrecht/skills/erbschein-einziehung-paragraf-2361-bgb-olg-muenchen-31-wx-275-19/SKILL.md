@@ -1,6 +1,6 @@
 ---
 name: erbschein-einziehung-paragraf-2361-bgb-olg-muenchen-31-wx-275-19
-description: "Erbschein Einziehung Paragraf 2361 BGB Olg Muenchen 31 Wx 275 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Erbschein Einziehung Paragraf 2361 BGB Olg Muenchen 31 Wx 275 19 in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbschein Einziehung Paragraf 2361 BGB Olg Muenchen 31 Wx 275 19

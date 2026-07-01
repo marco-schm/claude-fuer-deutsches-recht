@@ -1,6 +1,6 @@
 ---
 name: note-3-formeln-leistung
-description: "Vollständiger Formulierungskatalog für Leistungsaussagen der Note 3 (befriedigend). Hauptformel 'zur vollen Zufriedenheit' ohne 'stets'. Note 3 ist nach BAG (9 AZR 12/03) der gesetzliche Ausgangspunkt der Bewertungsskala. Wer besser als Note 3 bewertet haben möchte, trägt die Beweislast. Alle Formeln in diesem Skill liefern befriedigende, nicht abwertende Aussagen."
+description: "Wenn es um Note 3 — Formeln Leistung in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Note 3 — Formeln Leistung

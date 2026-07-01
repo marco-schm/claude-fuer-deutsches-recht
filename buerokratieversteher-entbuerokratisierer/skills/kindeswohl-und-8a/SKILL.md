@@ -1,6 +1,6 @@
 ---
 name: kindeswohl-und-8a
-description: "Erklärt Kinderschutzverfahren, Hausbesuch, Gespräch, Schutzplan, Familiengericht und Dokumentation im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Kindeswohl und Paragraf 8a SGB VIII in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kindeswohl und § 8a SGB VIII

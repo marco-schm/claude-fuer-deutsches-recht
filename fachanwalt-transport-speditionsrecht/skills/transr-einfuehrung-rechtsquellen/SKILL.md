@@ -1,6 +1,6 @@
 ---
 name: transr-einfuehrung-rechtsquellen
-description: "Transport- und Speditionsrecht einfuehrend: HGB §§ 407 ff. (Fracht), §§ 453 ff. (Spedition), §§ 467 ff. (Lager), CMR (Strasse international), CIM (Schiene), MUe (Luft), Rotterdam Rules. Entscheidungstabelle."
+description: "Wenn es um Transport: Rechtsquellen in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transport: Rechtsquellen

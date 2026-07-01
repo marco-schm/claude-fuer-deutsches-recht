@@ -1,6 +1,6 @@
 ---
 name: zugriff-sonderfall-und-edge-case
-description: "Zugriff: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Zugriff: Sonderfall und Edge-Case-Prüfung in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zugriff Sonderfall Und Edge Case; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Zugriff: Sonderfall und Edge-Case-Prüfung

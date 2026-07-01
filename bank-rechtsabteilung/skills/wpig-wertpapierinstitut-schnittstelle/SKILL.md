@@ -1,6 +1,6 @@
 ---
 name: wpig-wertpapierinstitut-schnittstelle
-description: "WpIG-Schnittstellen prüfen, wenn Bankgruppe, Wertpapierinstitut, Vermittler oder Tochtergesellschaft beteiligt sind: Rollen, Erlaubnis, Eigenmittel, Auslagerung und Governance abgrenzen im Bank-Rechtsabteilung."
+description: "Wenn es um WpIG-Schnittstelle in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # WpIG-Schnittstelle

@@ -1,6 +1,6 @@
 ---
 name: anlagen-an-assistenz-uebersetzungspflicht
-description: "Erzeugt klare Arbeitsanweisungen für Kanzleiteam, Assistenz, Legal Tech oder externen Dienstleister: was umbenennen, scannen, stempeln, schwärzen, prüfen im Anlagen zu Schriftsätzen."
+description: "Wenn es um Übergabe an Assistenz und Legal Tech in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Anlagen An Assistenz Uebersetzungspflicht; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Übergabe an Assistenz und Legal Tech

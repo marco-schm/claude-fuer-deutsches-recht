@@ -1,6 +1,6 @@
 ---
 name: epo-representative-schnittstelle-organisationspf
-description: "Patentanwälte: epo representative schnittstelle - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Epo Representative Schnittstelle Organisationspf in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: epo representative schnittstelle - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

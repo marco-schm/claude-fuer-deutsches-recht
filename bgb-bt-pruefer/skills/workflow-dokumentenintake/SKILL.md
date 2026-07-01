@@ -1,6 +1,6 @@
 ---
 name: workflow-dokumentenintake
-description: "Sortiert Verträge, Rechnungen, Chats, Fotos, Gutachten, Mahnungen und Kontoauszüge für BGB-BT-Prüfungen."
+description: "Wenn es um Dokumentenintake BGB BT in BGB BT Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 # Dokumentenintake BGB BT
 

@@ -1,6 +1,6 @@
 ---
 name: parteienrecht-parteigruendung-satzung-programm
-description: "Begleitet Gründung: Programm, Satzung, Vorstand, Mitglieder, demokratische Ordnung, Anzeige, Konto und Website."
+description: "Wenn es um Parteigründung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Parteienrecht Parteigruendung Satzung Programm; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Parteigründung

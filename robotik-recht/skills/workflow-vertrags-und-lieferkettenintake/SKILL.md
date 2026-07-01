@@ -1,6 +1,6 @@
 ---
 name: workflow-vertrags-und-lieferkettenintake
-description: "Erfasst Lieferkette, RaaS-Vertrag, Wartung, Softwarelizenz, Cloud, Datenrechte, FOSS, Indemnity, Versicherung und Regressfenster im Robotik-Recht."
+description: "Wenn es um Vertrags- und Lieferkettenintake in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vertrags- und Lieferkettenintake

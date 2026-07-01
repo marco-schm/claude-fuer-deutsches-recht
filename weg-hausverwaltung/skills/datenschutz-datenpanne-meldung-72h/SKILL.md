@@ -1,6 +1,6 @@
 ---
 name: datenschutz-datenpanne-meldung-72h
-description: "Datenschutzverletzungen nach Art. 33/34 DSGVO melden (Stand 06/2026): 72-Stunden-Frist, Risikobewertung, Meldung an Aufsichtsbehoerde, Betroffenenbenachrichtigung. Typische Pannen in der Hausverwaltung mit Sofortmassnahmen."
+description: "Wenn es um Datenpanne: 72-Stunden-Meldepflicht für die Hausverwaltung in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenpanne: 72-Stunden-Meldepflicht für die Hausverwaltung

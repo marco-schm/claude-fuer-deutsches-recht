@@ -1,6 +1,6 @@
 ---
 name: int-verrechnungspreise-1-astg
-description: "Skill zu Verrechnungspreisen zwischen verbundenen Unternehmen — Fremdvergleichsgrundsatz § 1 AStG Korrekturregeln Dokumentationspflicht § 90 Abs. 3 AO Country-by-Country-Reporting und Zuschlaege nach § 162 Abs. 4 AO. Anwendungsfall Konzern wird geprueft und die Prüfung versucht Gewinnkorrekturen..."
+description: "Wenn es um Int Verrechnungspreise 1 Astg in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Verrechnungspreise im Internationalen Steuerrecht — § 1 AStG und Dokumentation § 90 Abs. 3 AO

@@ -1,6 +1,6 @@
 ---
 name: v392-lesefreude-preussisches-allgemeines-landrecht-pralr
-description: "Didaktischer Lesefreude-Skill für Preußisches Allgemeines Landrecht: historische Einordnung, Begriffskern, anschauliche Fallvignette, Rezeptionslinie und heutige Grenze werden verständlich zusammengeführt."
+description: "Wenn es um Lesefreude Preußisches Allgemeines Landrecht in Preußisches Allgemeines Landrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Lesefreude Preußisches Allgemeines Landrecht

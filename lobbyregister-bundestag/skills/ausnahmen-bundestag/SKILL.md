@@ -1,6 +1,6 @@
 ---
 name: ausnahmen-bundestag
-description: "Prüft die Ausnahmen von der Registrierungspflicht bei Interessenvertretung gegenüber Bundestagsadressaten nach § 2 Abs. 2 LobbyRG. Output Ausnahmegutachten kurz mit Restpflichten im Lobbyregister Bundestag."
+description: "Wenn es um Ausnahmen Bundestag in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausnahmen Bundestag

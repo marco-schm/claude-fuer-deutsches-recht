@@ -1,6 +1,6 @@
 ---
 name: hotel-maengel-inkasso-erste-mahnung
-description: "Hotelmängel und Bewertung: führt Laien durch Mängel im Hotel, Reklamation vor Ort, Minderung und spätere Online-Bewertung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Hotelmängel und Bewertung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hotelmängel und Bewertung

@@ -1,6 +1,6 @@
 ---
 name: verlage-dokumentenmatrix-und-lueckenliste
-description: "Verlage: Dokumentenmatrix, Lückenliste und Nachforderung im Verlagsredaktion. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Verlage: Dokumentenmatrix, Lückenliste und Nachforderung in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Verlage: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: liquidation-preference-partner-briefing
-description: "Erklaert Liquidation Preference, participating preference, non-participating preference, Exit-Waterfall, Rangfolge und wirtschaftliche Verteilungswirkung im Gesellschaftsrecht Legal English."
+description: "Wenn es um Liquidation Preference und Waterfall in Didaktisches Gesellschaftsrecht — English Business Terms geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Liquidation Preference und Waterfall

@@ -1,6 +1,6 @@
 ---
 name: schaufenster-und-drift-erkennen
-description: Erkennung von Schaufenster-Drift und Bereichs-Drift in Arbeitszeugnissen als Muster, bei dem ein stark positiver Aufgabenkatalog oder einzelne Abschnitte durch eine schwache Gesamtbeurteilung oder ungleichgewichtige Teilabschnitte konterkariert werden.
+description: "Wenn es um Schaufenster- und Drift-Erkennung in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schaufenster- und Drift-Erkennung

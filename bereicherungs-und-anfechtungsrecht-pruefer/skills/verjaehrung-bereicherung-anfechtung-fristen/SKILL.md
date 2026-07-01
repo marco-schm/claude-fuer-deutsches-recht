@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-bereicherung-anfechtung-fristen
-description: "Verjährung und Anfechtungsfristen trennen: § 195 und § 199 BGB für Bereicherung, § 15 AnfG, § 146 InsO mit Verweis auf regelmäßige BGB-Verjährung. Prüft Fristbeginn, Kenntnis, grob fahrlässige Unkenntnis, Hemmung, Anfechtungszeiträume §§ 130-135 InsO und keine pauschale Zehn-Jahres-Grenze ab Rech..."
+description: "Wenn es um Verjährung: Bereicherung, AnfG und InsO-Anfechtung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verjährung: Bereicherung, AnfG und InsO-Anfechtung

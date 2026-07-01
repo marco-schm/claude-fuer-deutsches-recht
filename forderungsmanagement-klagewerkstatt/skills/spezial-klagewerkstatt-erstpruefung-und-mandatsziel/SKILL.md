@@ -1,6 +1,6 @@
 ---
 name: spezial-klagewerkstatt-erstpruefung-und-mandatsziel
-description: "Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel in Forderungsmanagement — Klagewerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel

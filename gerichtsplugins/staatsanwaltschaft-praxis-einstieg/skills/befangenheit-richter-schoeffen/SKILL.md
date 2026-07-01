@@ -1,6 +1,6 @@
 ---
 name: befangenheit-richter-schoeffen
-description: "Befangenheit von Richtern und Schöffen: Praxis-Skill für neue Staatsanwälte zu Ablehnung, Dienstaufsichtsfalle, Schöffenfragen und Verfahrensfairness aus StA-Sicht prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Befangenheit von Richtern und Schöffen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Befangenheit von Richtern und Schöffen

@@ -1,6 +1,6 @@
 ---
 name: streitwert-und-schadensbild
-description: "HOAI-Praxis: ordnet Honorarstreit, Mängelschaden, Bauzeit, Kostenüberschreitung und Regress; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um HOAI Querschnitt: Ordnet honorarstreit in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # HOAI Querschnitt: Ordnet honorarstreit

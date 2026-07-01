@@ -1,6 +1,6 @@
 ---
 name: eilantrag-endgueltig-nicht-bestanden
-description: "Prüft Eilrechtsschutz bei endgültigem Nichtbestehen im Prüfungsrecht Hochschule."
+description: "Wenn es um Eilantrag Endgueltig Nicht Bestanden in Prüfungsrecht an Hochschulen und Universitäten geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Eilantrag Endgueltig Nicht Bestanden

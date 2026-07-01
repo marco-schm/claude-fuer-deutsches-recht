@@ -1,6 +1,6 @@
 ---
 name: lohn-payroll-start
-description: "Prüft erste Beschäftigte, Minijob, SV-Meldung, Lohnkonto, BG und Arbeitsverträge im Gesellschaftsgruender."
+description: "Wenn es um Payroll und erste Mitarbeiter in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Payroll und erste Mitarbeiter

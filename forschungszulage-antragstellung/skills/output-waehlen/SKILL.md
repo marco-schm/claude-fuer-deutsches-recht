@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Forschungszulage FZulG: stimmt Adressat (Unternehmen F&E, BSFZ, Finanzamt), Frist (Antrag jederzeit) und Form auf den Zweck ab — typische Outputs: BSFZ-Antrag, Festsetzungsantrag FA, Einspruch."
+description: "Wenn es um Output wählen in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

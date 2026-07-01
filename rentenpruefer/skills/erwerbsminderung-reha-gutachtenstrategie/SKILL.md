@@ -1,6 +1,6 @@
 ---
 name: erwerbsminderung-reha-gutachtenstrategie
-description: "Baut eine Strategie für Erwerbsminderungsrente: Leistungsvermögen, Reha-vor-Rente, medizinische Beweise, Gutachtenkritik, Widerspruch und Sozialgerichtsklage."
+description: "Wenn es um Erwerbsminderung Reha Gutachtenstrategie in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Erwerbsminderung Reha Gutachtenstrategie

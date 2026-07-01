@@ -1,6 +1,6 @@
 ---
 name: hinweis-von-externer-person
-description: "Prüft Meldungen von Lieferanten, Kunden oder Dritten im Hinweisgeberschutz Compliance."
+description: "Wenn es um Hinweis Von Externer Person in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hinweis Von Externer Person

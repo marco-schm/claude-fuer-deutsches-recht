@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-fruehe-vorbereitung-vor-plan
-description: "Fruehzeitige steuerliche Vorbereitung des Sanierungsgewinns vor Insolvenzantrag oder StaRUG-Anzeige. Zeitachse mit Monaten und Antragspflichtigen. Was muss VOR der Plan-Einreichung steuerlich geklaert sein: Sanierungsbeduerftigkeit dokumentieren, Verlustvortrag aufstellen lassen, Antragsraster na..."
+description: "Wenn es um Sanierungsgewinn — fruehe Vorbereitung vor Insolvenzantrag oder StaRUG-Anzeige in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sanierungsgewinn — fruehe Vorbereitung vor Insolvenzantrag oder StaRUG-Anzeige

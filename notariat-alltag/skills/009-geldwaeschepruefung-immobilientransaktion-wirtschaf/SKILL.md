@@ -1,6 +1,6 @@
 ---
 name: 009-geldwaeschepruefung-immobilientransaktion-wirtschaf
-description: "Notariat im Alltag: Geldwäscheprüfung bei Immobilientransaktionen – wirtschaftlich Berechtigter, Risikoklassifizierung, Dokumentationspflichten nach GwG §§ 1–17 und Meldepflichten im Notariat."
+description: "Wenn es um Geldwaeschepruefung Immobilientransaktion Wirtschaf in Notariat im Alltag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Notariat im Alltag: Geldwäscheprüfung – Immobilientransaktion, wirtschaftlich Berechtigter, Risikoklassifizierung

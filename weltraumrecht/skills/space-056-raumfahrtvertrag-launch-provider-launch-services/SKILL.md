@@ -1,6 +1,6 @@
 ---
 name: space-056-raumfahrtvertrag-launch-provider-launch-services
-description: "Weltraumrecht: Raumfahrtvertrag mit Startdienstleister Launch Services Agreement mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Raumfahrtvertrag mit Startdienstleister Launch Services Agreement in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Raumfahrtvertrag mit Startdienstleister Launch Services Agreement

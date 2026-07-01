@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-niedersachsen-ndschg
-description: "Denkmalschutzrecht Niedersachsen nach dem Niedersächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Ministerium für Wissenschaft und Kultur; Niedersächsisches Landesamt für Denkmalpflege in Hannover; Untere Denkmalschutzbehörden bei den Landkreisen und kreisfreien Städten), die deklaratorische Listenwirkung bei unbeweglichen Kulturdenkmalen und Bodendenkmalen sowie den eintragungsabhängigen Sonderfall beweglicher Denkmale mit besonderem Augenmerk auf Goslar, Hildesheim, Fagus-Werk und Wattenmeer."
+description: "Wenn es um Denkmalschutz Niedersachsen (NDSchG) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Niedersachsen (NDSchG)

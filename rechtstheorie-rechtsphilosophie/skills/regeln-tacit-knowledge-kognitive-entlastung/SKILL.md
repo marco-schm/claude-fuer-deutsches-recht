@@ -1,6 +1,6 @@
 ---
 name: regeln-tacit-knowledge-kognitive-entlastung
-description: "Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine."
+description: "Wenn es um Regeln, stilles Wissen und kognitive Entlastung in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Regeln, stilles Wissen und kognitive Entlastung

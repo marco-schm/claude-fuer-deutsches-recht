@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-transferpricing-zollwert-abgleich
-description: "Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. 70 (Transaktionswert) und OECD-Verrechnungspreisleitlinien: Prüfung ob konzerninterne Preise den Zollwert beguenstigen und APA-Vereinbarungen mit Zollbewertung kollidieren. Risiko rueckwirkender Zollnacherhebung bei Preisanpassungen...."
+description: "Wenn es um Zollwert und Verrechnungspreise: Konsistenzpruefung und Nacherhebungsrisiko in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zollwert und Verrechnungspreise: Konsistenzpruefung und Nacherhebungsrisiko

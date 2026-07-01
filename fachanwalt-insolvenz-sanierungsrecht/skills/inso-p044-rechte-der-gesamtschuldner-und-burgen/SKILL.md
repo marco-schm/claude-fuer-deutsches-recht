@@ -1,6 +1,6 @@
 ---
 name: inso-p044-rechte-der-gesamtschuldner-und-burgen
-description: "§ 44 InsO (Rechte der Gesamtschuldner und Bürgen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 44 InsO (Rechte der Gesamtschuldner und Bürgen) im Mandat prüfen: Normzweck, Tatbestand, B..."
+description: "Wenn es um Inso P044 Rechte Der Gesamtschuldner Und Burgen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 44 InsO (Rechte der Gesamtschuldner und Bürgen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: drg-neu-014-entnazifizierung-kontrollratsrecht-und-uebergang
-description: "Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang

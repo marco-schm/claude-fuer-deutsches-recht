@@ -1,6 +1,6 @@
 ---
 name: zulaessige-offenlegung-gesetz-behoerde-gericht
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Zulaessige Offenlegung Gesetz Behörde Gericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Zulaessige Offenlegung Gesetz Behörde Gericht in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Zulaessige Offenlegung Gesetz Behörde Gericht

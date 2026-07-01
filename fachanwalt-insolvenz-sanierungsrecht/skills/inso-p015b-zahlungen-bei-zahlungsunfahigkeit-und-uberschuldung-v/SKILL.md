@@ -1,6 +1,6 @@
 ---
 name: inso-p015b-zahlungen-bei-zahlungsunfahigkeit-und-uberschuldung-v
-description: "§ 15b InsO (Zahlungen bei Zahlungsunfähigkeit und Überschuldung: Verjährung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung."
+description: "Wenn es um Paragraf 15b InsO (Zahlungen bei Zahlungsunfähigkeit und Überschuldung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 15b InsO (Zahlungen bei Zahlungsunfähigkeit und Überschuldung

@@ -1,6 +1,6 @@
 ---
 name: gymnasialempfehlung-uebergang-handyverbot
-description: "Prüft Übergang Grundschule zu weiterführender Schule im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Gymnasialempfehlung Und Uebergang in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gymnasialempfehlung Und Uebergang

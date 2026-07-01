@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-cbam-co2-zoll
-description: "Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abgabe auf Einfuhren kohlenstoffintensiver Waren nach VO (EU) 2023/956. Ab 2026 Pflicht zum Kauf von CBAM-Zertifikaten entsprechend eingebetteter Emissionen. Schnittpunkte mit TARIC und Zollwert. Output: CBAM-Kostenabschaetzung und Zer..."
+description: "Wenn es um CBAM CO2-Zoll: Zertifikatspflicht und Kostenberechnung ab 2026 in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # CBAM CO2-Zoll: Zertifikatspflicht und Kostenberechnung ab 2026

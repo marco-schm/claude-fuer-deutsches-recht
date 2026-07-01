@@ -1,6 +1,6 @@
 ---
 name: gesellschafterbeschluss
-description: "Erstellt, prüft und greift Gesellschafterbeschlüsse an: Einladung, Tagesordnung, Mehrheit, Stimmverbot, Form, Protokoll, Nichtigkeit und Anfechtung."
+description: "Wenn es um Gesellschafterbeschluss – GmbH und AG in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Gesellschafterbeschluss – GmbH und AG

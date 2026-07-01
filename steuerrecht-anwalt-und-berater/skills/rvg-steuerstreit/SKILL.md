@@ -1,6 +1,6 @@
 ---
 name: rvg-steuerstreit
-description: "Vergueterungsskill für steuerrechtliche Mandate — Abgrenzung RVG zu StBVV gesetzliche Gebühren Verhandlungsspielraum und Honorarvereinbarung. Anwendungsfall Anwalt und Steuerberater fragen welche Gebührentabelle anzuwenden ist und wie eine Mischmandatierung honoriert wird. Behandelt Geschäftsgeb..."
+description: "Wenn es um Anwaltsgebuehren im Steuerstreit — RVG StBVV Verhältnis in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Anwaltsgebuehren im Steuerstreit — RVG StBVV Verhältnis

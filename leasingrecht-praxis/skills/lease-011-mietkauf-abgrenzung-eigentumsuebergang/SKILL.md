@@ -1,6 +1,6 @@
 ---
 name: lease-011-mietkauf-abgrenzung-eigentumsuebergang
-description: "Leasingrecht: Mietkauf Abgrenzung Eigentumsübergang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Mietkauf Abgrenzung Eigentumsübergang in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Mietkauf Abgrenzung Eigentumsübergang

@@ -1,6 +1,6 @@
 ---
 name: auslandsurkunden-apostille-baulast-ist
-description: "Prüft Apostille, Legalisation, notarielle Bescheinigung, Übersetzung und Register-/Vertretungsnachweis im Grundbuchamt Praxis."
+description: "Wenn es um Auslandsurkunden beim Grundbuchamt in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auslandsurkunden beim Grundbuchamt

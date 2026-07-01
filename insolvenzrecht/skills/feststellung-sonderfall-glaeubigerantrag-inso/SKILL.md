@@ -1,6 +1,6 @@
 ---
 name: feststellung-sonderfall-glaeubigerantrag-inso
-description: "Feststellung: Sonderfall und Edge-Case-Prüfung im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
+description: "Wenn es um Feststellung: Sonderfall und Edge-Case-Prüfung in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Feststellung: Sonderfall und Edge-Case-Prüfung

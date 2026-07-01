@@ -1,6 +1,6 @@
 ---
 name: lernpfad-dealroom-simulator
-description: "Fuehrt Anfaenger durch eine Corporate-Legal-English-Testakte mit Lernpfad, Dealroom-Inventar, Uebungen, Loesungsrichtung, Senior-Gates und konkreten Arbeitsprodukten im Gesellschaftsrecht Legal English."
+description: "Wenn es um Lernpfad Dealroom-Simulator in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Lernpfad Dealroom-Simulator

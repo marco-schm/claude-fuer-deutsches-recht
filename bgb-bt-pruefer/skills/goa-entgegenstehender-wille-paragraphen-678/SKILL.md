@@ -1,6 +1,6 @@
 ---
 name: goa-entgegenstehender-wille-paragraphen-678
-description: "Prüft GoA gegen den Willen des Geschäftsherrn §§ 678 und 679 BGB: erhöhte Haftung und Ausnahmen bei Erfüllung gesetzlicher Pflichten."
+description: "Wenn es um GoA: Entgegenstehender Wille Paragrafen 678 und 679 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GoA: Entgegenstehender Wille §§ 678 und 679 BGB

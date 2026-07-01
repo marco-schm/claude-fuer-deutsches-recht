@@ -1,6 +1,6 @@
 ---
 name: forsch-bsfz-pruefung-spezial
-description: "Spezialfall BSFZ-Prüfung und Nachfragen: typische Rueckfragen Bescheinigungsstelle, Stellungnahmefrist, Widerspruch. Prüfraster für Antragsteller und Steuerberater."
+description: "Wenn es um Forsch: BSFZ-Prüfung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Forsch: BSFZ-Prüfung

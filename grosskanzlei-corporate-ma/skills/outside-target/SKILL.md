@@ -1,6 +1,6 @@
 ---
 name: outside-target
-description: "Zielobjekt-Screening und Pipeline-Analyse aus öffentlichen Quellen: Anwendungsfall Mandant oder Deal-Team sucht geeignete Akquisitionsziele und muss fruehe Analyse aus Registern, Finanzdaten, Nachrichten und Branchenhinweisen erstellen. Paragraf 14-17 GWB Marktabgrenzung, MAR Insiderinformationen. Prüf..."
+description: "Wenn es um Outside-in Target Screening in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Outside-in Target Screening

@@ -1,6 +1,6 @@
 ---
 name: vvg-anzeigepflicht-ruecktritt-arglist
-description: "§ 19 VVG in Leben, BU, PKV und Unfallversicherung: Gesundheitsfragen, Kenntnis, Kausalität, Rücktritt, Kündigung, Vertragsanpassung, Arglist und Belehrungsfehler prüfen im Versicherungsrecht."
+description: "Wenn es um Vorvertragliche Anzeigepflicht Paragraf 19 VVG in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vorvertragliche Anzeigepflicht § 19 VVG

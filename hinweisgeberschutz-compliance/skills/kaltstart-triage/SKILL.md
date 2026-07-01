@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Startet das HinSchG-Kommandocenter für Meldestelle, Hinweis, NDA-Konflikt und Folgemaßnahmen."
+description: "Wenn es um Allgemein in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemein

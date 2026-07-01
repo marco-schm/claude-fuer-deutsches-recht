@@ -1,6 +1,6 @@
 ---
 name: jurisdiktion-rumaenien-competition-authority
-description: "Jurisdiktionsskill Rumänien: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbest..."
+description: "Wenn es um Jurisdiktion Rumänien: Competition Authority Check in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jurisdiktion Rumänien: Competition Authority Check

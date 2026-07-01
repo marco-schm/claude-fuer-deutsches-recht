@@ -1,6 +1,6 @@
 ---
 name: iwr-einfuehrung-rechtsquellen
-description: "Internationales Wirtschaftsrecht einfuehrend: ROM I/II VO, EuGVVO Bruessel Ia, HKUe Vertragspflichten, UN-Kaufrecht CISG, Bilaterale Abkommen. Pro Quelle Anwendungsbereich, Schlüsselbestimmungen, Beispiele. Entscheidungstabelle."
+description: "Wenn es um IWR: Rechtsquellen in Fachanwalt Internationales Wirtschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # IWR: Rechtsquellen

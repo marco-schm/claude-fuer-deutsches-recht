@@ -1,6 +1,6 @@
 ---
 name: kranken-pflege-arbeitslosenversicherung
-description: "Prüft Statusfolgen je Versicherungszweig und vermeidet Gleichsetzung aller Zweige im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Kranken-, Pflege- und Arbeitslosenversicherung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kranken-, Pflege- und Arbeitslosenversicherung

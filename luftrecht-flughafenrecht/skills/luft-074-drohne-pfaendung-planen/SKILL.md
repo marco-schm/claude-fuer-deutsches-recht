@@ -1,6 +1,6 @@
 ---
 name: luft-074-drohne-pfaendung-planen
-description: "Luftrecht und Flughafenrecht: Drohne: Pfändung planen. Pfändung planen für Drohne im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Drohne Pfaendung Planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drohne Pfaendung Planen

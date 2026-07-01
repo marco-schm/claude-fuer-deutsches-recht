@@ -1,6 +1,6 @@
 ---
 name: transparenzgebot-307
-description: "Norm- und Dogmatik-Skill für Transparenzgebot 307: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Transparenzgebot 307 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Transparenzgebot 307

@@ -1,6 +1,6 @@
 ---
 name: vermittler-dreiecksverhaeltnis
-description: "Prüft Recruiter, Agenturen, Plattformen, Endkunden und Vertragsketten im Statusrecht im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Vermittler und Dreiecksverhältnis in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vermittler und Dreiecksverhältnis

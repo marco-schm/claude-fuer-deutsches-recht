@@ -1,6 +1,6 @@
 ---
 name: chn-017-critical-infrastructure-risk
-description: "Festlandchina Wirtschaftsverkehr: Critical Infrastructure Risk. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Critical Infrastructure Risk in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Critical Infrastructure Risk

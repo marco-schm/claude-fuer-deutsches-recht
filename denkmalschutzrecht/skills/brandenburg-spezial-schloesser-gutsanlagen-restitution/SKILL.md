@@ -1,6 +1,6 @@
 ---
 name: brandenburg-spezial-schloesser-gutsanlagen-restitution
-description: "Brandenburgische Besonderheit: Hoher Bestand an Schloessern und Gutsanlagen, oft mit komplexer Eigentumsgeschichte nach Bodenreform 1945-1949 und Mauerfall 1990. Skill ordnet die typische Mandatslage zwischen Restitutionsfragen nach Vermoegensgesetz, denkmalrechtlicher Erhaltungspflicht und Foerderzusagen der Brandenburgischen Schloesser-Programme."
+description: "Wenn es um Schloesser, Gutsanlagen und Restitution in Brandenburg in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Schloesser, Gutsanlagen und Restitution in Brandenburg

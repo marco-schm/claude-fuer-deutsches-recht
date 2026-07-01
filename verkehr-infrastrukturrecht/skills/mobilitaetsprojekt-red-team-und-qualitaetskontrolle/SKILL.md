@@ -1,6 +1,6 @@
 ---
 name: mobilitaetsprojekt-red-team-und-qualitaetskontrolle
-description: "Mobilitaetsprojekt: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Mobilitaetsprojekt: Red-Team und Qualitätskontrolle in Verkehrs- und Infrastrukturrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mobilitaetsprojekt: Red-Team und Qualitätskontrolle

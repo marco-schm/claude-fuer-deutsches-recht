@@ -1,6 +1,6 @@
 ---
 name: verkehrsunfall
-description: "Verkehrsunfall-Mandat im Zivilprozess vorbereiten: Schadensersatz, Schmerzensgeld, Versicherungskorrespondenz. Normen: Paragrafen 7 18 StVG, Paragrafen 823 253 BGB, Paragraf 115 VVG. Prüfraster: Haftungsquote, Schadensposten, Verjaebrung, Regulierungsablauf. Output: Klageschrift Verkehrsunfall oder Klageerwiderung. Abg..."
+description: "Wenn es um Verkehrsunfall – Haftung, Schaden und Schadensausgleich in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verkehrsunfall – Haftung, Schaden und Schadensausgleich

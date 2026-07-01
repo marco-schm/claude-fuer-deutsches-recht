@@ -1,6 +1,6 @@
 ---
 name: ects-leistungspunkte
-description: "Prüft ECTS, Workload, Anerkennung, Fehlverbuchung und Studienfortschritt im Prüfungsrecht Hochschule."
+description: "Wenn es um ECTS und Leistungspunkte in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ECTS und Leistungspunkte

@@ -1,6 +1,6 @@
 ---
 name: luft-070-ersatzteillager-mandantenmemo-schreibe
-description: "Luftrecht und Flughafenrecht: Ersatzteillager: Mandantenmemo schreiben. Mandantenmemo schreiben für Ersatzteillager im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Ersatzteillager Mandantenmemo Schreibe in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ersatzteillager Mandantenmemo Schreibe

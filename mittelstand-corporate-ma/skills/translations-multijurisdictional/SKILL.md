@@ -1,6 +1,6 @@
 ---
 name: translations-multijurisdictional
-description: "Multi-Jurisdiction und Übersetzungen: Koordiniert lokale Kanzleien, Übersetzungen, Rechtsvergleich und Multi-Jurisdiction-Matrizen im Mittelstand Corporate Ma."
+description: "Wenn es um Multi-Jurisdiction und Übersetzungen in Mittelstands-Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Multi-Jurisdiction und Übersetzungen

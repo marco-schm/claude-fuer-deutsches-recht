@@ -1,6 +1,6 @@
 ---
 name: platform-takedown-registration-package
-description: "Plattform- und Takedown-Paket: Registrierung, Rechtekette, Infringement-Belege und DMCA-/Marketplace-Kommunikation für US-Plattformen vorbereiten im Us Copyright Registrierung Verlag."
+description: "Wenn es um Platform Takedown Registration Package in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Platform Takedown Registration Package

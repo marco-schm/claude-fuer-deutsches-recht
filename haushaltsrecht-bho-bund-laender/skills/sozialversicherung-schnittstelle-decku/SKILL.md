@@ -1,6 +1,6 @@
 ---
 name: sozialversicherung-schnittstelle-decku
-description: "Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Deckung finden im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Sozialversicherung Schnittstelle Decku in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sozialversicherung Schnittstelle Decku

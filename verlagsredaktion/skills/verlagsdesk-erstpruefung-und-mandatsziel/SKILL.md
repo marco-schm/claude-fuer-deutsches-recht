@@ -1,6 +1,6 @@
 ---
 name: verlagsdesk-erstpruefung-und-mandatsziel
-description: "Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel im Verlagsredaktion. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel

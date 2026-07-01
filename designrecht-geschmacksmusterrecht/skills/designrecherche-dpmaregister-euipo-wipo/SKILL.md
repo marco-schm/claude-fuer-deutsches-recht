@@ -1,6 +1,6 @@
 ---
 name: designrecherche-dpmaregister-euipo-wipo
-description: "Designrecherche in DPMAregister, EUIPO, WIPO und freien Quellen strukturieren: Bildsuche, Produktklasse, Wettbewerber, Offenbarung, Registerstand und Belegqualität im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Designrecherche Dpmaregister Euipo Wipo in designrecht-geschmacksmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Designrecherche Dpmaregister Euipo Wipo

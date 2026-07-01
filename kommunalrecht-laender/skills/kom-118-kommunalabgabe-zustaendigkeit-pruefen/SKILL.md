@@ -1,6 +1,6 @@
 ---
 name: kom-118-kommunalabgabe-zustaendigkeit-pruefen
-description: "Kommunalrecht der Länder: Kommunalabgabe: Zuständigkeit prüfen. Zuständigkeit prüfen für Kommunalabgabe im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Kommunalabgabe Zustaendigkeit Pruefen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalabgabe Zustaendigkeit Pruefen

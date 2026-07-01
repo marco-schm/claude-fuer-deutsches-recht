@@ -1,6 +1,6 @@
 ---
 name: avv-art-28-dsgvo-grundtatbestand
-description: "Grundtatbestand der Auftragsverarbeitung nach Art. 28 DSGVO. Klaert Rollenzuordnung Verantwortlicher gegen Auftragsverarbeiter wenn ein Dienstleister personenbezogene Daten im fremden Auftrag verarbeitet. Wann gilt Art. 28 wann Art. 26 wann Funktionsuebertragung. Output: Prüfvermerk zur Rollenzu..."
+description: "Wenn es um Auftragsverarbeitung Art. 28 DSGVO – Grundtatbestand in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auftragsverarbeitung Art. 28 DSGVO – Grundtatbestand

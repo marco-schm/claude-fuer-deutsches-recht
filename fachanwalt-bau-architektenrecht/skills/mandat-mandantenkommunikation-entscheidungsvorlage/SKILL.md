@@ -1,6 +1,6 @@
 ---
 name: mandat-mandantenkommunikation-entscheidungsvorlage
-description: "Mandat: Mandantenkommunikation und Entscheidungsvorlage: Mandat: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Wenn es um Mandat: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandat: Mandantenkommunikation und Entscheidungsvorlage

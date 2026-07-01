@@ -1,6 +1,6 @@
 ---
 name: ki-dienstleister-43e-brao-praxis
-description: "Anwaltlicher KI-Dienstleister nach § 43e BRAO: Consumer-Tool, Enterprise-Tool, Kanzleiinfrastruktur und Einzelmandats-Tool trennen; Erforderlichkeit, Verschwiegenheit, § 203 StGB, No-Training, Drittstaat, Mandanteninformation und Kanzleivermerk praxisnah prüfen im Berufsrecht Anwaelte."
+description: "Wenn es um digitale Werkzeuge-Dienstleister nach Paragraf 43e BRAO in der Praxis in Berufsrecht Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI-Dienstleister nach § 43e BRAO in der Praxis

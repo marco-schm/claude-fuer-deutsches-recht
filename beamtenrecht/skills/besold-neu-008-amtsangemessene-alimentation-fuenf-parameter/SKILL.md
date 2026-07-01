@@ -1,6 +1,6 @@
 ---
 name: besold-neu-008-amtsangemessene-alimentation-fuenf-parameter
-description: "Beamtenrecht: Amtsangemessene Alimentation fünf Parameter mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Beamtenrecht: Amtsangemessene Alimentation fünf Parameter in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beamtenrecht: Amtsangemessene Alimentation fünf Parameter

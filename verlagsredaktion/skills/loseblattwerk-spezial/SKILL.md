@@ -1,6 +1,6 @@
 ---
 name: loseblattwerk-spezial
-description: "Spezialfall Loseblattwerk: Ergaenzungslieferung, Stichtag, Hinweisapparat, Abonnentenpflege. Prüfraster für Verlag und Redaktion im Verlagsredaktion."
+description: "Wenn es um Verl: Loseblattwerk in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl: Loseblattwerk

@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-umlage
-description: "Grundsteuer-Umlage: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Umlagevereinbarung, Veranlagung, Wirtschaftseinheit, Eigentumswechsel; mit Normprüfung, Beweisen, Fristen, Risikoampe..."
+description: "Wenn es um Grundsteuer-Umlage: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundsteuer-Umlage: Fachmodul im Miet- und Wohnungseigentumsrecht

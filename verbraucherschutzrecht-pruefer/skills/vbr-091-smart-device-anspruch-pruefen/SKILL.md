@@ -1,6 +1,6 @@
 ---
 name: vbr-091-smart-device-anspruch-pruefen
-description: "Verbraucherschutzrecht Prüfer: Smart Device: Anspruch prüfen. Anspruch prüfen für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Smart Device Anspruch Pruefen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Smart Device Anspruch Pruefen

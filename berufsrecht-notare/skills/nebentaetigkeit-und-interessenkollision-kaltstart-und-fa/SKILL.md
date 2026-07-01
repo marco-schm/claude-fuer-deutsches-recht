@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-und-interessenkollision-kaltstart-und-fa
-description: "Notare: nebentaetigkeit und interessenkollision - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Nebentaetigkeit Und Interessenkollision Kaltstart Und Fa in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: nebentaetigkeit und interessenkollision - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

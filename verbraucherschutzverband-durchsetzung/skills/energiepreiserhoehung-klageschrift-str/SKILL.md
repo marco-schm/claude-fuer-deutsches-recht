@@ -1,6 +1,6 @@
 ---
 name: energiepreiserhoehung-klageschrift-str
-description: "Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Klageschrift strukturieren im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Energiepreiserhoehung Klageschrift Str in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Energiepreiserhoehung Klageschrift Str

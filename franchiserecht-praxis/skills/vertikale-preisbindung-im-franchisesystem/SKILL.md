@@ -1,6 +1,6 @@
 ---
 name: vertikale-preisbindung-im-franchisesystem
-description: "Fachmodul Franchiserecht für Vertikale Preisbindung im Franchisesystem: Preisempfehlungen, Mindestpreise, Rabattdruck, Bonusstaffeln und Audit-Sanktionen werden auf RPM-Risiko und Beweise für Druck oder Anreiz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorla..."
+description: "Wenn es um Franchise: Vertikale Preisbindung im Franchisesystem in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Franchise: Vertikale Preisbindung im Franchisesystem

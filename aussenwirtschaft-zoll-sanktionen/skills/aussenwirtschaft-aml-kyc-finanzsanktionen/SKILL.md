@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-aml-kyc-finanzsanktionen
-description: "Schnittstelle von AML/KYC-Pflichten und Sanktionsrecht: Risikobasierte Kundenpruefung nach GwG (§§ 10-17 GwG) kombiniert mit Sanktionsscreening nach EU-Finanzsanktionsrecht (VO 269/2014 und andere). Identifizierung wirtschaftlich Berechtigter (UBO), Prüfung von PEP-Status und Hochrisikoindikator..."
+description: "Wenn es um AML/KYC und Sanktionen: Risikobasierte Kundenpruefung und Sanktionsscreening in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AML/KYC und Sanktionen: Risikobasierte Kundenpruefung und Sanktionsscreening

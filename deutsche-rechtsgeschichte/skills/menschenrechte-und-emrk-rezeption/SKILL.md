@@ -1,6 +1,6 @@
 ---
 name: menschenrechte-und-emrk-rezeption
-description: "Deutsche Rechtsgeschichte: Menschenrechte und EMRK-Rezeption in Deutschland. Ratifikation EMRK 1952, EGMR-Rechtsprechung, Caroline-Urteil, Goerguelue-Entscheidung und Verhältnis GG-Grundrechte zu EMRK im Deutsche Rechtsgeschichte."
+description: "Wenn es um Menschenrechte und EMRK-Rezeption in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Menschenrechte und EMRK-Rezeption

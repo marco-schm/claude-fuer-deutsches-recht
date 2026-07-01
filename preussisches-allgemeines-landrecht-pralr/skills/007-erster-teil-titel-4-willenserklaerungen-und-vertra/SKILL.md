@@ -1,6 +1,6 @@
 ---
 name: 007-erster-teil-titel-4-willenserklaerungen-und-vertra
-description: "PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra

@@ -1,6 +1,6 @@
 ---
 name: zitat-und-kontextaufnahme
-description: "Erfasst den exakten Wortlaut, Screenshot-Kontext, Medium, Adressatenkreis, Anlass, Vorgeschichte, zeitliche Abfolge, Wiederholung, Sichtbarkeit und Ziel der Äußerung. Grundlage für jede Äußerungsprüfung im Meinungspruefer."
+description: "Wenn es um Zitat und Kontextaufnahme in Meinungsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Zitat und Kontextaufnahme

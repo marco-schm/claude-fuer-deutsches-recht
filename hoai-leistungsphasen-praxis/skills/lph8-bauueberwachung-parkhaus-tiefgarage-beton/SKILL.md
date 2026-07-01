@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-parkhaus-tiefgarage-beton
-description: "Bauueberwachung nach HOAI LPH 8 für Parkhaeuser und Tiefgaragen — chloridbestaendiger Beton nach DIN 1045 und Instandsetzungsrichtlinie des DAfStb, Abdichtung nach DIN 18532, Spalt-Fugenbewegung nach DIN 18540, Brandschutz nach DIN 18232 und Entlueftungsanlage nach VDI 2053. Praxisnahe Kontrolle..."
+description: "Wenn es um Bauueberwachung Parkhaus und Tiefgarage Beton (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Parkhaus und Tiefgarage Beton (LPH 8)

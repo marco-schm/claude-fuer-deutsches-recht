@@ -1,6 +1,6 @@
 ---
 name: sprachbarriere-einwilligung
-description: "Sprachbarriere Einwilligung: moderner Medizinrechts-Skill für Dolmetscher, fremdsprachige Aufklärung, Angehörige, Dokumentation und Beweislast: Sprachbarriere Einwilligung: moderner Medizinrechts-Skill für Dolmetscher, fremdsprachige Aufklärung, Angehörige,..."
+description: "Wenn es um Sprachbarriere Einwilligung in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Sprachbarriere Einwilligung: moderner Medizinrechts-Skill für Dolmetscher, fremdsprachige Aufklärung, Angehörige, Dokumentation und Beweislast

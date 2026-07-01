@@ -1,6 +1,6 @@
 ---
 name: webdaten-auslesen-datenbank-und-robots-txt
-description: "Rechtliche Bewertung von Webdaten-Auslesen gegen Websites mit Datenbankcharakter: Prüft §§ 87a-87e UrhG, Verstoß gegen AGB (§ 307 BGB), robots.txt-Bindungswirkung, Wettbewerbsrecht (§§ 3 4 UWG) und strafrechtliche Relevanz (§ 202a StGB). Bewertet EuGH C-202/12 (Innoweb/Wegener) und erstellt Risikoampe..."
+description: "Wenn es um Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse in Datenbankrecht und Datenbankherstellerrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse

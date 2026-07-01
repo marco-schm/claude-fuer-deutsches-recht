@@ -1,6 +1,6 @@
 ---
 name: anzahlungs-gewaehrleistungs-und-erfuellungsgarantien
-description: "Anzahlungs-, Gewährleistungs- und Vertragserfüllungsgarantien für Bankkunden prüfen: Sicherungszweck, Abruftext, Laufzeit, Projekt-/Baurisiko, Rückgabe, Reduzierung, Avalrahmen und Liquiditätseffekt im Bank-Rechtsabteilung."
+description: "Wenn es um Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien

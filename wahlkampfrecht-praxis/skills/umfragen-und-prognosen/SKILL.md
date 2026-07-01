@@ -1,6 +1,6 @@
 ---
 name: umfragen-und-prognosen
-description: "Wahlkampfrecht Praxis: Umfragen, Projektionen und interne Trackings richtig verwenden im Wahlkampfrecht."
+description: "Wenn es um Umfragen Und Prognosen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umfragen Und Prognosen

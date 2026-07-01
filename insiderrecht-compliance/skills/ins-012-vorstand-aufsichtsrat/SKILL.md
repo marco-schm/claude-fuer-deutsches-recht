@@ -1,6 +1,6 @@
 ---
 name: ins-012-vorstand-aufsichtsrat
-description: "Prueft Insiderrecht im Organbereich: Vorstandsvorlagen, AR-Sitzung, Sonderausschuss, M&A und Protokolle."
+description: "Wenn es um Vorstand und Aufsichtsrat in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorstand und Aufsichtsrat

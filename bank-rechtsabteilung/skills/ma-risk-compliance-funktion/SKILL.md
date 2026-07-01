@@ -1,6 +1,6 @@
 ---
 name: ma-risk-compliance-funktion
-description: "MaRisk-Compliance-Funktion und zweite Verteidigungslinie prüfen: Aufgaben, Unabhängigkeit, Compliance-Plan, Monitoring, Findings, Berichtslinie und Verhältnis zu Recht, Risk und Revision im Bank-Rechtsabteilung."
+description: "Wenn es um MaRisk Compliance-Funktion in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # MaRisk Compliance-Funktion

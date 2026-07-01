@@ -1,6 +1,6 @@
 ---
 name: translations
-description: "Multi-Jurisdiction-Koordination und Übersetzungen in grenzüberschreitenden M&A-Transaktionen: Anwendungsfall Transaktion mit mehreren Ländern erfordert Koordination lokaler Counsel, Übersetzungen und Rechtsvergleich. Internationales Privatrecht, Cross-border M&A. Prüfraster lokale Counsel-Matrix,..."
+description: "Wenn es um Multi-Jurisdiction und Übersetzungen in Großkanzlei Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Multi-Jurisdiction und Übersetzungen

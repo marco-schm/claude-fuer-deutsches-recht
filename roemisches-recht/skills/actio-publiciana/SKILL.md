@@ -1,6 +1,6 @@
 ---
 name: actio-publiciana
-description: "Römisches Recht: Actio Publiciana. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Actio Publiciana in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Actio Publiciana; Arbeitsfeld: Römisches Recht."
 ---
 
 # Actio Publiciana

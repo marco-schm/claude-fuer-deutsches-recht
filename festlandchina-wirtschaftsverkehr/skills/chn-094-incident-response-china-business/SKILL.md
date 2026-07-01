@@ -1,6 +1,6 @@
 ---
 name: chn-094-incident-response-china-business
-description: "Festlandchina Wirtschaftsverkehr: Incident Response China Business. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Incident Response China Business in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Incident Response China Business

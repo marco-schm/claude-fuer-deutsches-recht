@@ -1,6 +1,6 @@
 ---
 name: fragebogen-agb-automation
-description: "Output- und Streit-Skill für Fragebogen AGB Automation: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen."
+description: "Wenn es um Fragebogen AGB Automation in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Fragebogen AGB Automation

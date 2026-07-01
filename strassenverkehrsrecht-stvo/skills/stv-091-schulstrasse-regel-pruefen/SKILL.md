@@ -1,6 +1,6 @@
 ---
 name: stv-091-schulstrasse-regel-pruefen
-description: "Straßenverkehrsrecht StVO: Schulstraße: Regel prüfen. Regel prüfen für Schulstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schulstrasse Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulstrasse Regel Pruefen

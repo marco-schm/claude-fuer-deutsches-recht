@@ -1,6 +1,6 @@
 ---
 name: dienstbarkeit-wegerecht-pruefen
-description: "Liest Inhalt, herrschendes/dienendes Grundstück, Ausübungsbereich, Baulast-Schnittstelle und Löschbarkeit im Grundbuchamt Praxis."
+description: "Wenn es um Wegerecht prüfen in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wegerecht prüfen

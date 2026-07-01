@@ -1,6 +1,6 @@
 ---
 name: ce-kennzeichnung-cookie-banner
-description: "CE-Kennzeichnung Produktrecht Schnittstelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG im Ecommerce Recht."
+description: "Wenn es um CE-Kennzeichnung Produktrecht Schnittstelle in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # CE-Kennzeichnung Produktrecht Schnittstelle

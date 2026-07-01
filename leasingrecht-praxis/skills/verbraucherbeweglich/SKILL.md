@@ -1,6 +1,6 @@
 ---
 name: verbraucherbeweglich
-description: "Verbraucherleasing beweglicher Sachen: Pflichtangaben, Widerruf, fehlerhafte Belehrung, Rückabwicklung, typische Fallen und Musterfälle im Leasingrecht."
+description: "Wenn es um Verbraucherleasing beweglicher Sachen: Pflichten und Widerruf in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verbraucherleasing beweglicher Sachen: Pflichten und Widerruf

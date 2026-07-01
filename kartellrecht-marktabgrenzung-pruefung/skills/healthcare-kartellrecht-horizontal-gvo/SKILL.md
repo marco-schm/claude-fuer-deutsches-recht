@@ -1,6 +1,6 @@
 ---
 name: healthcare-kartellrecht-horizontal-gvo
-description: "Healthcare Kartellrecht Kooperation Kliniken: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA im Kartellrecht (Marktabgrenzung)..."
+description: "Wenn es um Healthcare Kartellrecht Kooperation Kliniken in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Healthcare Kartellrecht Kooperation Kliniken

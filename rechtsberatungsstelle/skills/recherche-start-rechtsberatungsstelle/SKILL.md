@@ -1,6 +1,6 @@
 ---
 name: recherche-start-rechtsberatungsstelle
-description: "Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studenten recherchieren und verifizieren eigenständig. Lädt, w..."
+description: "Wenn es um Recherchefahrplan: Orientierung, keine Recherche in Plugin für die studentische Rechtsberatungsstelle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Recherchefahrplan: Orientierung, keine Recherche

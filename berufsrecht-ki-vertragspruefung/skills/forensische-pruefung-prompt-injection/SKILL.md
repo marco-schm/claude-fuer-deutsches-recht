@@ -1,6 +1,6 @@
 ---
 name: forensische-pruefung-prompt-injection
-description: "Forensische Prüfung Prompt-Injection-Risiko: Indirekte Prompt-Injection ueber hochgeladene Dokumente, RAG-Vergiftung, Datenexfiltration. Prüfraster für Reviewer-Audit, Sandbox-Test, Sicherheits-Hardening durch Anbieter. Pflicht des Anwalts."
+description: "Wenn es um Prompt-Injection: Prüfung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Prompt-Injection: Prüfung

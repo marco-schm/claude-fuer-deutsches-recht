@@ -1,6 +1,6 @@
 ---
 name: dfg-wiedereinreichung-nach-ablehnung
-description: "DFG-Ablehnung, Gutachten und Entscheidung auswerten: tragende Kritik extrahieren, Verteidigungsreflex vermeiden, Wiedereinreichung planen, Antrag umbauen, Anschreiben und Änderungsmatrix erstellen."
+description: "Wenn es um Wiedereinreichung nach Ablehnung in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Wiedereinreichung nach Ablehnung

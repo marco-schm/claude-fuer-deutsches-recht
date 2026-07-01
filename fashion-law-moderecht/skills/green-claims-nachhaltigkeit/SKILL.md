@@ -1,6 +1,6 @@
 ---
 name: green-claims-nachhaltigkeit
-description: "Green Claims und Nachhaltigkeitskommunikation für Mode prüfen: recycelt, klimaneutral, vegan, fair, langlebig, Reparatur, Belege und UWG-Risiko im Fashion Law Moderecht."
+description: "Wenn es um Green Claims Nachhaltigkeit in fashion-law-moderecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Green Claims Nachhaltigkeit

@@ -1,6 +1,6 @@
 ---
 name: mecklenburg-vorpommern-spezial-backsteingotik-stralsund-wismar
-description: "Mecklenburg-vorpommersche Besonderheit: Altstaedte Stralsund und Wismar seit 2002 UNESCO-Welterbe der norddeutschen Backsteingotik. Skill erlaeutert die Verfahrenspraxis bei Sanierungs- und Umnutzungsvorhaben, das Verhaeltnis zur Hansestadt-Erhaltungssatzung und den besonderen Schutz der Sichtachsen und Hafenraender."
+description: "Wenn es um Backsteingotik Stralsund und Wismar als UNESCO-Welterbe in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Backsteingotik Stralsund und Wismar als UNESCO-Welterbe

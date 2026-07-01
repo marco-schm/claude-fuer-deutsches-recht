@@ -1,6 +1,6 @@
 ---
 name: verbraucherfreundliche-fassung
-description: "Output- und Streit-Skill für Verbraucherfreundliche Fassung: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen."
+description: "Wenn es um Verbraucherfreundliche Fassung in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Verbraucherfreundliche Fassung; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Verbraucherfreundliche Fassung

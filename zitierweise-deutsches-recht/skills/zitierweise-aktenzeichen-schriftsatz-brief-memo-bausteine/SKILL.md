@@ -1,6 +1,6 @@
 ---
 name: zitierweise-aktenzeichen-schriftsatz-brief-memo-bausteine
-description: "Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
+description: "Wenn es um Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine in Zitierweise deutsches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine

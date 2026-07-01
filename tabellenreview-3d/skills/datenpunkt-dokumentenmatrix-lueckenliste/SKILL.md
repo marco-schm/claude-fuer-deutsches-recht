@@ -1,6 +1,6 @@
 ---
 name: datenpunkt-dokumentenmatrix-lueckenliste
-description: "Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
+description: "Wenn es um Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung

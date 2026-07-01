@@ -1,6 +1,6 @@
 ---
 name: insolvenzanfechtung-129-bis-147-verteidigungsradar
-description: "Prüft Anfechtungsansprüche und Verteidigungslinien nach §§ 129-147 InsO mit Zeitachsen, Kenntnisindizien, Bargeschäft, § 135 InsO, Rechtsfolgen und KI-gestützter Aktenauswertung: Prüft Anfechtungsansprüche und Verteidigungslinien nach §§ 129-147 InsO mit Z..."
+description: "Wenn es um Insolvenzanfechtung 129 Bis 147 Verteidigungsradar in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Prüft Anfechtungsansprüche und Verteidigungslinien nach §§ 129-147 InsO mit Zeitachsen, Kenntnisindizien, Bargeschäft, § 135 InsO, Rechtsfolgen und KI-gestützter Aktenauswertung.

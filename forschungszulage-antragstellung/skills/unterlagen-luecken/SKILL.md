@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Forschungszulage FZulG: trennt fehlende Tatsachen von fehlenden Belegen (Projektbeschreibung, BSFZ-Bescheinigung, Stundennachweise), nennt pro Lücke Beweisthema, Beschaffungsweg (Bescheinigungsstelle Forschungszulage (BSFZ)), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Forschungszulage-Antragstellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

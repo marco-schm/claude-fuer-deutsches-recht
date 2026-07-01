@@ -1,6 +1,6 @@
 ---
 name: 014-erster-titel-11-kauf-tausch
-description: "PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung

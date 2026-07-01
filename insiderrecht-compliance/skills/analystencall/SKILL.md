@@ -1,6 +1,6 @@
 ---
 name: analystencall
-description: "Sichert Analysten-Calls und Investorenkommunikation gegen Selective-Disclosure-Risiken und MAR-Verstoesse: Sprechregeln, Q&A-Prüfung und Post-Call-Protokoll im Insiderrecht Compliance."
+description: "Wenn es um Analysten-Calls und Investorenkommunikation – Selective Disclosure in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Analysten-Calls und Investorenkommunikation – Selective Disclosure

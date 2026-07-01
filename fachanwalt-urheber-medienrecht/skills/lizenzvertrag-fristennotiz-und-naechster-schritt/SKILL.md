@@ -1,6 +1,6 @@
 ---
 name: lizenzvertrag-fristennotiz-und-naechster-schritt
-description: "Lizenzvertrag: Fristennotiz und nächster Schritt: Lizenzvertrag: Fristennotiz und nächster Schritt."
+description: "Wenn es um Lizenzvertrag: Fristennotiz und nächster Schritt in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lizenzvertrag: Fristennotiz und nächster Schritt

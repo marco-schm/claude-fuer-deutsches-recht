@@ -1,6 +1,6 @@
 ---
 name: unrecht-und-grenzen-des-gehorsams
-description: "Prüft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde, Willkuer, Unrechtsgesetz und richterliche Bindung kollidieren."
+description: "Wenn es um Unrecht und Gehorsamsgrenzen in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unrecht und Gehorsamsgrenzen

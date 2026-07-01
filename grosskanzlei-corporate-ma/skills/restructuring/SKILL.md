@@ -1,6 +1,6 @@
 ---
 name: restructuring
-description: "StaRUG-Restrukturierung und Insolvenzplanverfahren begleiten: Anwendungsfall Unternehmen mit drohender Zahlungsunfähigkeit prüft Restrukturierungsoptionen einschließlich StaRUG-Plan, praeventiyen Restrukturierungsrahmen oder Insolvenzplan. Paragraf 1-93 StaRUG, Paragraf 217-269 InsO Insolvenzplan, Paragraf 18 InsO..."
+description: "Wenn es um StaRUG und Insolvenzplan in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # StaRUG und Insolvenzplan

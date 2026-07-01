@@ -1,6 +1,6 @@
 ---
 name: sportr-anti-doping-praxis
-description: "Anti-Doping in der Praxis: NADA-Code, WADA-Code, Strict Liability, Verfahrensgang vor Schiedsgericht der NADA und CAS in Lausanne: Anti-Doping in der Praxis: NADA-Code, WADA-Code, Strict Liability, Verfahrensgang vor Schiedsgericht der NADA und CAS in Lausa..."
+description: "Wenn es um Sportr Anti Doping Praxis in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anti-Doping in der Praxis: NADA-Code, WADA-Code, Strict Liability, Verfahrensgang vor Schiedsgericht der NADA und CAS in Lausanne

@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Sportrecht: stimmt Adressat (Sportler, Verein/Verband, Disziplinarausschuss), Frist (Berufung CAS 21 Tage) und Form auf den Zweck ab — typische Outputs: Verbandsbeschwerde, CAS-Berufung, Vertretung Anhörung."
+description: "Wenn es um Output wählen in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

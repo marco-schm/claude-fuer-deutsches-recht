@@ -1,6 +1,6 @@
 ---
 name: luftfahrzeugpfandrecht
-description: "Kreditgeber sichert Flugzeugfinanzierung durch Pfandrecht oder Pfandrechtsinhaber will vollstrecken. Prüft LuftFzgG §§ 1-28 Entstehung Rang Durchsetzung Eintragung AG Braunschweig und Abgrenzung zu Cape Town Convention International Interest und liefert Sicherungsstrategie-Vermerk und Vollstreck..."
+description: "Wenn es um Luftfahrzeugpfandrecht – Bestellung, Rang und Vollstreckung in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Luftfahrzeugpfandrecht – Bestellung, Rang und Vollstreckung

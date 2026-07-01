@@ -1,6 +1,6 @@
 ---
 name: einordnung-zahlen-schwellen-und-berechnung
-description: "Einordnung: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Einordnung: Zahlen, Schwellenwerte und Berechnung in DSA, DMA und Digitalregulierung der EU geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Einordnung: Zahlen, Schwellenwerte und Berechnung

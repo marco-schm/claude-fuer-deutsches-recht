@@ -1,6 +1,6 @@
 ---
 name: founder-ip-chain
-description: "Prüft, ob Software, Patente, Designs, Marken, Domains und Know-how wirklich bei der Gesellschaft liegen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Founder-IP und Rechtekette in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Founder-IP und Rechtekette

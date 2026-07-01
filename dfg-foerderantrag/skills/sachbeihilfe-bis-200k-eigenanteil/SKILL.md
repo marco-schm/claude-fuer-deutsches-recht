@@ -1,6 +1,6 @@
 ---
 name: sachbeihilfe-bis-200k-eigenanteil
-description: "Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sachbeihilfe Bis 200k Eigenanteil; Arbeitsfeld: DFG-Förderantrag."
 ---
 
 # Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg

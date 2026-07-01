@@ -1,6 +1,6 @@
 ---
 name: verl-012-subskriptionspreis-einfuehrungspreis-und-aktion
-description: "Verlagsrecht: Subskriptionspreis Einführungspreis und Aktion mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Subskriptionspreis Einführungspreis und Aktion in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Subskriptionspreis Einführungspreis und Aktion

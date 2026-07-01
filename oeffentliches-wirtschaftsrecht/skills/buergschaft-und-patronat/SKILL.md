@@ -1,6 +1,6 @@
 ---
 name: buergschaft-und-patronat
-description: "Öffentliches Wirtschaftsrecht: Bürgschaft und Patronat. Bürgschaft und Patronat im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht."
+description: "Wenn es um Buergschaft Und Patronat in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergschaft Und Patronat

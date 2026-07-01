@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-leistungsablehnung-sgb-v
-description: "Streit mit der Krankenkasse nach SGB V. Leistungsablehnung Behandlung Hilfsmittel Therapie Krankengeld. Mustertext für Buerger Widerspruch Klage."
+description: "Wenn es um Streit mit der Krankenkasse — SGB V in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Streit mit der Krankenkasse — SGB V

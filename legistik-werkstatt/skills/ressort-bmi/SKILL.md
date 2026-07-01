@@ -1,6 +1,6 @@
 ---
 name: ressort-bmi
-description: "Heranfuehrung Ressort BMI (Bundesministerium des Innern). Schwerpunkt: Innere Sicherheit; Migration; Verwaltung; Bevoelkerungsschutz; öffentlicher Dienst. Kernnormen: BPolG; BKAG; AufenthG; StAG; VwVfG; ZSKG; BBG; BeamtStG; PassG; PStG. Fuenf Spezialfelder: sicherheits-und-polizeirecht; auslaende..."
+description: "Wenn es um Ressort-Heranfuehrung BMI in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressort-Heranfuehrung BMI

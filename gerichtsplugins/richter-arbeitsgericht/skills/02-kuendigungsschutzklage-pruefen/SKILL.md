@@ -1,6 +1,6 @@
 ---
 name: 02-kuendigungsschutzklage-pruefen
-description: "Kündigungsschutzklage Paragraf 4 KSchG: Klagefrist 3 Wochen, Kündigungsgründe (personenbedingt verhaltensbedingt betriebsbedingt) Paragraf 1 KSchG, Sozialauswahl Paragraf 1 Abs. 3 KSchG"
+description: "Wenn es um 02 Kündigungsschutzklage Prüfen in Arbeitsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 02 Kündigungsschutzklage Prüfen

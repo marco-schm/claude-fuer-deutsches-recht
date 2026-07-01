@@ -1,6 +1,6 @@
 ---
 name: spezial-dublin-fristen-ueberstellung
-description: "Dublin-Fristen/Überstellung: Spezial-Skill im Migrationsrecht; prüft Aufnahme-/Wiederaufnahme, Überstellungsfrist, Kirchenasyl, Aussetzung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Dublin-Fristen/Überstellung in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dublin-Fristen/Überstellung

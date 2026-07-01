@@ -1,6 +1,6 @@
 ---
 name: tier-081-tiertransport-schutzbedarf-pruefen
-description: "Tierschutzrecht: Tiertransport: Schutzbedarf prüfen. Schutzbedarf prüfen für Tiertransport im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Tiertransport Schutzbedarf Pruefen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tiertransport Schutzbedarf Pruefen

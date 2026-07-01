@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-design-strafrecht-51-designg
-description: "Strafvorschriften des Designgesetzes Paragraph 51 DesignG: Vorsaetzliche Designverletzung. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt. Eingetragenes Design Nichtbenutzung..."
+description: "Wenn es um Strafvorschriften des Designgesetzes Paragraph 51 DesignG in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Strafvorschriften des Designgesetzes Paragraph 51 DesignG

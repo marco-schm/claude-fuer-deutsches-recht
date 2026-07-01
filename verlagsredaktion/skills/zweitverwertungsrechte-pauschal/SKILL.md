@@ -1,6 +1,6 @@
 ---
 name: zweitverwertungsrechte-pauschal
-description: "Zweitverwertungsrechte und Nebenrechte pauschal vereinbaren: Lizenz an juris/beck-online, Open Access, Sonderdruck, Festschriftsuebernahme, Bearbeitungen. Honorarverteilung und § 38 UrhG im Verlagsredaktion."
+description: "Wenn es um Zweitverwertungsrechte in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Zweitverwertungsrechte

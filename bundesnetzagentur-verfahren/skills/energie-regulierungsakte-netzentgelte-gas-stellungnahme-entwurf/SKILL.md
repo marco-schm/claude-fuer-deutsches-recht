@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-netzentgelte-gas-stellungnahme-entwurf
-description: "Netzentgelte Gas: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: Netzentgelte Gas — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: Netzentgelte Gas — Stellungnahme-Entwurf

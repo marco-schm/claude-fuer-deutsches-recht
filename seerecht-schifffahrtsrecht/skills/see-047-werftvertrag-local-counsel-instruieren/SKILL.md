@@ -1,6 +1,6 @@
 ---
 name: see-047-werftvertrag-local-counsel-instruieren
-description: "See- und Schifffahrtsrecht: Werftvertrag: Local Counsel instruieren. Local Counsel instruieren für Werftvertrag im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Werftvertrag Local Counsel Instruieren in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Werftvertrag Local Counsel Instruieren

@@ -1,6 +1,6 @@
 ---
 name: buergergeld-mehrbedarf-21-sgb-ii
-description: "Buergergeld Mehrbedarf nach § 21 SGB II. Skill klaert die Mehrbedarfe für werdende Muetter Alleinerziehende Schwerbehinderte kostenaufwendige Ernaehrung. Hoehe Voraussetzungen und Antragsverfahren. Liefert Prüfraster."
+description: "Wenn es um Buergergeld Mehrbedarf 21 Sgb Ii in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergergeld Mehrbedarf 21 Sgb Ii

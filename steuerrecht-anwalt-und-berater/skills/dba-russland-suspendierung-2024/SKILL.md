@@ -1,6 +1,6 @@
 ---
 name: dba-russland-suspendierung-2024
-description: "DBA Deutschland Russland Suspendierung wesentlicher Verguenstigungen. Russische Verbalnote vom 08.08.2023 suspendiert von russischer Seite Art. 5 bis 22 und 24. Deutsche Gegenmassnahme nach § 1 Abs. 3 Satz 2 StAbwG mit Aufnahme Russlands in die StAbwV. Konsolidierter BMF-DBA-Stand vom 15.01.2024..."
+description: "Wenn es um Dba Russland Suspendierung 2024 in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Russland: Suspendierung wesentlicher Verguenstigungen (Stand BMF 15.01.2024)

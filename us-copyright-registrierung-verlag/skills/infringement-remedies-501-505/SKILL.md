@@ -1,6 +1,6 @@
 ---
 name: infringement-remedies-501-505
-description: "Prüft Anspruchsaufbau, standing, remedies, injunction, damages, profits, costs und fee exposure im Us Copyright Registrierung Verlag."
+description: "Wenn es um Infringement und Remedies Paragrafen 501-505 in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Infringement und Remedies §§ 501-505

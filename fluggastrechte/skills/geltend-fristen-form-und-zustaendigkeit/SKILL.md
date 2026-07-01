@@ -1,6 +1,6 @@
 ---
 name: geltend-fristen-form-und-zustaendigkeit
-description: "Geltend: Fristen, Form, Zuständigkeit und Rechtsweg im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Geltend: Fristen, Form, Zuständigkeit und Rechtsweg in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Geltend Fristen Form Und Zuständigkeit; Arbeitsfeld: Fluggastrechte."
 ---
 
 # Geltend: Fristen, Form, Zuständigkeit und Rechtsweg

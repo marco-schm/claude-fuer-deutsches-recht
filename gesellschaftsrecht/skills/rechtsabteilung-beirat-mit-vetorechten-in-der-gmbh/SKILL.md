@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-beirat-mit-vetorechten-in-der-gmbh
-description: "Rechtsabteilungs-Fachmodul für Beirat mit Vetorechten in der GmbH: Beiratsrechte werden zwischen Beratung, Zustimmung, Weisung und faktischer Geschäftsführung abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Gesellschaftsrecht."
+description: "Wenn es um Rechtsabteilung: Beirat mit Vetorechten in der GmbH in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Beirat mit Vetorechten in der GmbH

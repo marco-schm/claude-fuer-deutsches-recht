@@ -1,6 +1,6 @@
 ---
 name: see-067-containerschiff-local-counsel-instruie
-description: "See- und Schifffahrtsrecht: Containerschiff: Local Counsel instruieren. Local Counsel instruieren für Containerschiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Containerschiff Local Counsel Instruie in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Containerschiff Local Counsel Instruie

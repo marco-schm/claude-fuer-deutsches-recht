@@ -1,6 +1,6 @@
 ---
 name: parteienrecht-dokumentenpaket-versammlung-wahl
-description: "Erzeugt komplette Pakete: Einladung, TO, Wahlordnung, Stimmzettel, Niederschrift, Versicherungen, Wahlleiteranschreiben."
+description: "Wenn es um Parteidokumentenpaket in Parteienrecht und Parteiorganisation geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Parteienrecht Dokumentenpaket Versammlung Wahl; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Parteidokumentenpaket

@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-gesamtgrundschuld-mithaft
-description: "Prüft Mithaft mehrerer Grundstücke, Pfandfreigabe, Rang und Bankauflagen im Grundbuchamt Praxis."
+description: "Wenn es um Gesamtgrundschuld in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesamtgrundschuld

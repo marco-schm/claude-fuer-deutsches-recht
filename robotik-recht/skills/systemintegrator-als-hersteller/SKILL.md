@@ -1,6 +1,6 @@
 ---
 name: systemintegrator-als-hersteller
-description: "Bewertet, wann ein Systemintegrator durch Zusammenbau, Marke, Umbau oder Konfiguration zum verantwortlichen Hersteller wird."
+description: "Wenn es um Systemintegrator als Hersteller in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Systemintegrator als Hersteller

@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Betreuungsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Betreuungsbeschluss, Sachverständigengutachten, Vorsorgevollmacht), nennt pro Lücke Beweisthema, Beschaffungsweg (Betreuungsgericht (AG)), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

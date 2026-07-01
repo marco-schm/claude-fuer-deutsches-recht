@@ -1,6 +1,6 @@
 ---
 name: inso-p015-antragsrecht-bei-juristischen-personen-und-rechtsfahig
-description: "§ 15 InsO (Antragsrecht bei juristischen Personen und rechtsfähigen Personengesellschaften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 15 InsO (Antragsrecht bei juristischen Personen..."
+description: "Wenn es um Inso P015 Antragsrecht Bei Juristischen Personen Und Rechtsfahig in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 15 InsO (Antragsrecht bei juristischen Personen und rechtsfähigen Personengesellschaften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

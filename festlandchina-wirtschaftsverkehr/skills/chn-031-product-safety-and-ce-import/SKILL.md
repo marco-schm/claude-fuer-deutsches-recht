@@ -1,6 +1,6 @@
 ---
 name: chn-031-product-safety-and-ce-import
-description: "Festlandchina Wirtschaftsverkehr: Product Safety And CE Import. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Product Safety And CE Import in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Product Safety And CE Import

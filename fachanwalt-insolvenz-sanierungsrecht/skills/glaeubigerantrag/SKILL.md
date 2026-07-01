@@ -1,6 +1,6 @@
 ---
 name: glaeubigerantrag
-description: "Fachanwalt Insolvenz Sanierungsrecht Gläubigerantrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Insolvenz Sanierungsrecht Gläubigerantrag: ordnet Normen, Nutzerangaben, Fristen,..."
+description: "Wenn es um Glaeubigerantrag in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Insolvenz Sanierungsrecht Gläubigerantrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

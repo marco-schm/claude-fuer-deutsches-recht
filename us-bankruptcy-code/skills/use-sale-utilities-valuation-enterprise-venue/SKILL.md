@@ -1,6 +1,6 @@
 ---
 name: use-sale-utilities-valuation-enterprise-venue
-description: "Prüft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections im US Bankruptcy Code."
+description: "Wenn es um Use, Sale or Lease Paragraf 363 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Use, Sale or Lease § 363

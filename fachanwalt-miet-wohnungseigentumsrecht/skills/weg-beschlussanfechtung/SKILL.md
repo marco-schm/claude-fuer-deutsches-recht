@@ -1,6 +1,6 @@
 ---
 name: weg-beschlussanfechtung
-description: "Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfechten: § 44 WEG Monatsfrist Aktivlegitimation Passivlegitimation Gemeinschaft § 9a WEG. Normen §§ 44 23 49 WEG §§ 133..."
+description: "Wenn es um Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfechten in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfechten

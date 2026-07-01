@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Mandantenanfragen-Assistent: wählt den nächsten Spezial-Skill nach Engpass (Unverzügliche Antwort, Mandantenmail, Kanzleiprofil, Honorarinfo), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in mandantenanfragen-assistent geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Anschluss-Routing

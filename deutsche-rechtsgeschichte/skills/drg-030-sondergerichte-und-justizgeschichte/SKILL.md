@@ -1,6 +1,6 @@
 ---
 name: drg-030-sondergerichte-und-justizgeschichte
-description: "Deutsche Rechtsgeschichte: Sondergerichte Und Justizgeschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Sondergerichte Und Justizgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sondergerichte Und Justizgeschichte

@@ -1,6 +1,6 @@
 ---
 name: gmbh-gruendung
-description: "Begleitung der GmbH-Gründung von der Satzungserstellung (Paragraf 2 GmbHG) bis zur Eintragung ins Handelsregister (Paragraf 7 GmbHG) einschließlich UG-Variante (Paragraf 5a GmbHG), Gewerbeanmeldung und Transparenzregister. Lädt bei Mandaten zur Neugründung, Vorgesellschaft, Stammkapitalaufbringung oder Gesellschaftsv..."
+description: "Wenn es um GmbH-Gründung – Von der Satzung bis zum Handelsregistereintrag in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GmbH-Gründung – Von der Satzung bis zum Handelsregistereintrag

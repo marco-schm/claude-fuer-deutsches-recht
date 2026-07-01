@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-beweise-atteste
-description: "Laienverstaendlicher Sozialrechts-Skill zu Beweise Atteste. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
+description: "Wenn es um Laienhilfe: Beweise Atteste in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienhilfe: Beweise Atteste

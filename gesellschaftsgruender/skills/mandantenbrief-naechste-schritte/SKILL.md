@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-naechste-schritte
-description: "Schreibt verständlichen Gründerbrief mit Entscheidungen, Risiken, To-dos, Kosten und Zeitplan im Gesellschaftsgruender."
+description: "Wenn es um Mandantenbrief nächste Schritte in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mandantenbrief nächste Schritte

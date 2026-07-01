@@ -1,6 +1,6 @@
 ---
 name: flug-anspruch-uebersicht
-description: "Uebersicht Fluggastrechte VO 261 / 2004: Annullierung, grosse Verspaetung ab drei Stunden, Nichtbefoerderung, Pauschalentschaedigung 250 Euro / 400 Euro / 600 Euro je nach Distanz. Prüfraster Anspruchsgrundlage."
+description: "Wenn es um Flug: Anspruch-Übersicht in Fluggastrechte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Flug: Anspruch-Übersicht

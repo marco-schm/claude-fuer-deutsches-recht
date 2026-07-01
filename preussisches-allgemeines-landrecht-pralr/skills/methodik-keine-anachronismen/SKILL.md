@@ -1,6 +1,6 @@
 ---
 name: methodik-keine-anachronismen
-description: "PrALR: Anachronismen vermeiden, moderne Begriffe übersetzen und historische Eigenlogik ernst nehmen."
+description: "Wenn es um Keine Anachronismen in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Methodik Keine Anachronismen; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Keine Anachronismen

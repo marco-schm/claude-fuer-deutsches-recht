@@ -1,6 +1,6 @@
 ---
 name: lieferanten-questionnaire
-description: "Erstellt Security-Fragebögen, die nicht nur Papier produzieren im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Lieferanten Questionnaire in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lieferanten Questionnaire

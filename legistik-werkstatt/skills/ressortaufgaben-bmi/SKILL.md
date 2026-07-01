@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmi
-description: "Ressortaufgaben BMI: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium des Innern. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete..."
+description: "Wenn es um Ressortaufgaben BMI in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressortaufgaben BMI

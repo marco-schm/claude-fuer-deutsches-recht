@@ -1,6 +1,6 @@
 ---
 name: rom-i-rechtswahl-art-3-rom-i
-description: "rom i Rechtswahl art 3 rom i: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um rom i Rechtswahl art 3 rom i in Fachanwalt Internationales Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # rom i Rechtswahl art 3 rom i

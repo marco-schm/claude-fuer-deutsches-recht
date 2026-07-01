@@ -1,6 +1,6 @@
 ---
 name: bho-186-globaler-minderausgabe-titel-pruefen
-description: "Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Titel prüfen. Titel prüfen für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Globaler Minderausgabe Titel Pruefen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Globaler Minderausgabe Titel Pruefen

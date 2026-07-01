@@ -1,6 +1,6 @@
 ---
 name: gemeinnuetzigkeit-antrag
-description: "Bereitet Satzungsprüfung, Feststellung nach AO, Finanzamt-Kommunikation und Zuwendungsbestätigungen vor im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Gemeinnützigkeit Antrag in Vereinsrecht und Vereinsmanager geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gemeinnützigkeit Antrag

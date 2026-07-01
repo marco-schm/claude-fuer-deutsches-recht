@@ -1,6 +1,6 @@
 ---
 name: bmz-entwicklungszusammenarbeit-und-bilaterale-abkommen
-description: "Sachbereich Entwicklungszusammenarbeit und bilaterale Abkommen im Geschäftsbereich BMZ: Normbestand (Verwaltungsvereinbarungen; HG; BHO; Vertragsgesetze (BGBl II).); Akteure (BMZ; GIZ; KfW; Auslandshandelskammern; AA-Schnittstelle.); EU-Bezug (Team Europe Initiatives; EU-Treuhandfonds; NDICI.);"
+description: "Wenn es um Entwicklungszusammenarbeit und bilaterale Abkommen (BMZ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmz Entwicklungszusammenarbeit Und Bilaterale Abkommen; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Entwicklungszusammenarbeit und bilaterale Abkommen (BMZ)

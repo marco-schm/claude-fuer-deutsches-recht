@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-erlaeuterungstext-mandant
-description: "Erlaeuterungstext unter der BWA für den Mandanten. Anwendungsfall Monats- oder Quartals-BWA mit kurzem fachlichem Begleittext der die wesentlichen Abweichungen und Risiken benennt. Aufbau Sachverhalt Erlaeuterung Ausblick Empfehlung. Output strukturierter Erlaeuterungstext 1 bis 2 Seiten als Anhang zur BWA Querverweis stb-bwa-mandantengespraech-uebergabe."
+description: "Wenn es um Erlaeuterungstext zur BWA fuer den Mandanten in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erlaeuterungstext zur BWA fuer den Mandanten

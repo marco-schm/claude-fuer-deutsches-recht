@@ -1,6 +1,6 @@
 ---
 name: sanktion-datenpanne-bussgeld
-description: "Datenschutzrecht-Brückenskill: Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen: Art.-33/34-Meldung, 72-Stunden-Timeline, Remediation und Bußgeldmilderung verbinden. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschut..."
+description: "Wenn es um Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen

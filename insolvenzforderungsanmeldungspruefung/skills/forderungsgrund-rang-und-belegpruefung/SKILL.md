@@ -1,6 +1,6 @@
 ---
 name: forderungsgrund-rang-und-belegpruefung
-description: "Forderungsgrund, Rang und Belegprüfung zur Tabelle: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Insolvenzforderungsanmeldungspruefung."
+description: "Wenn es um Forderungsgrund, Rang und Belegprüfung zur Tabelle in Insolvenzforderungsanmeldungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Forderungsgrund, Rang und Belegprüfung zur Tabelle

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview-anwalt
-description: "Kaltstart-Interview für die steuerrechtsanwaltliche Kanzlei um Praxisprofil zu befuellen. Anwendungsfall Erstinstallation Plugin oder Konfiguration enthaelt noch Platzhalter-Marker. Erfragt Schwerpunktbereiche ESt USt KSt GewSt ErbSt Steuerstrafrecht typische Mandate Einspruch Klage AdV Aussenprü..."
+description: "Wenn es um /steuerrecht-anwalt-und-berater:anw-kaltstart-interview in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # /steuerrecht-anwalt-und-berater:anw-kaltstart-interview

@@ -1,6 +1,6 @@
 ---
 name: inso-p298-deckung-der-mindestvergutung-des-treuhanders
-description: "§ 298 InsO (Deckung der Mindestvergütung des Treuhänders) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 298 InsO (Deckung der Mindestvergütung des Treuhänders) im Mandat prüfen: Normzwec..."
+description: "Wenn es um Inso P298 Deckung Der Mindestvergutung Des Treuhanders in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 298 InsO (Deckung der Mindestvergütung des Treuhänders) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

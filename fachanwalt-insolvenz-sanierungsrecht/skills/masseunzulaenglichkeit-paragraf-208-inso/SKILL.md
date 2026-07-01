@@ -1,6 +1,6 @@
 ---
 name: masseunzulaenglichkeit-paragraf-208-inso
-description: "Masseunzulaenglichkeit § 208 InsO: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Masseunzulaenglichkeit Paragraf 208 InsO in Fachanwalt Insolvenz- und Sanierungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Masseunzulaenglichkeit § 208 InsO

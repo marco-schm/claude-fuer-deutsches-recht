@@ -1,6 +1,6 @@
 ---
 name: meldepflicht-it-sicherheitsvorfall
-description: "Sicherheitsvorfälle bei TK-Anbietern: BNetzA/BSI/DSGVO-Meldungen, Kundenkommunikation, Ursachenanalyse und Abhilfe im Telekommunikationsrecht."
+description: "Wenn es um IT-Sicherheitsvorfall und Meldepflicht in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # IT-Sicherheitsvorfall und Meldepflicht

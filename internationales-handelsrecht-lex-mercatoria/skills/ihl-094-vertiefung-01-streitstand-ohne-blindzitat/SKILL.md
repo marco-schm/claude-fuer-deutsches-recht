@@ -1,6 +1,6 @@
 ---
 name: ihl-094-vertiefung-01-streitstand-ohne-blindzitat
-description: "Internationales Handelsrecht und Lex Mercatoria: Vertiefung 01 Streitstand Ohne Blindzitat. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Vertiefung 01 Streitstand Ohne Blindzitat in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertiefung 01 Streitstand Ohne Blindzitat

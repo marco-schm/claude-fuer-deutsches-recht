@@ -1,6 +1,6 @@
 ---
 name: doppelbesteuerung-musterabkommen-oecd
-description: "Anwendung und Auslegung von Doppelbesteuerungsabkommen anhand des OECD-Musterabkommens — Wohnsitz nach Art. 4 Betriebsstaette Art. 5 Unternehmensgewinne Art. 7 Dividenden Zinsen Lizenzgebuehren und Vermeidungsmethoden Anrechnung Freistellung. Anwendungsfall Mandant hat grenzueberschreitende Einku..."
+description: "Wenn es um Doppelbesteuerung und OECD-Musterabkommen — Auslegung deutscher DBA in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Doppelbesteuerung und OECD-Musterabkommen — Auslegung deutscher DBA

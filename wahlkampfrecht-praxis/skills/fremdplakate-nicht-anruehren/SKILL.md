@@ -1,6 +1,6 @@
 ---
 name: fremdplakate-nicht-anruehren
-description: "Wahlkampfrecht Praxis: Teams briefen, fremde Plakate weder abzuhaengen noch zu ueberkleben im Wahlkampfrecht."
+description: "Wenn es um Fremdplakate Nicht Anruehren in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Fremdplakate Nicht Anruehren

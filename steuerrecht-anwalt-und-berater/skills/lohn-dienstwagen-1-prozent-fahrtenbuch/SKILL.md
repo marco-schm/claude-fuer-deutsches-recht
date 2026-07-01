@@ -1,6 +1,6 @@
 ---
 name: lohn-dienstwagen-1-prozent-fahrtenbuch
-description: "Dienstwagen 1-Prozent-Methode oder Fahrtenbuch. Anwendungsfall geldwerter Vorteil Privatnutzung Dienstwagen E-Auto Hybrid Listenpreis Brutto-Methode. Methodik Prüfung Methode Vergleich Steuerklasse. Output Lohn-Abrechnung mit korrektem Sachbezug Dienstwagen."
+description: "Wenn es um Dienstwagen — 1-Prozent-Methode oder Fahrtenbuch in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dienstwagen — 1-Prozent-Methode oder Fahrtenbuch

@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess
-description: "Sanity-Check der Verlustvorträge im Distressed-Due-Diligence-Prozess: Modelliert den Verbrauch von körperschaft- und gewerbesteuerlichen Verlustvorträgen, Zinsvorträgen und EBITDA-Vorträg..."
+description: "Wenn es um Sanity-Check der Verlustvorträge im Distressed-Due-Diligence-Prozess in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanity-Check der Verlustvorträge im Distressed-Due-Diligence-Prozess

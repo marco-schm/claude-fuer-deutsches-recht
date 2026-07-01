@@ -1,6 +1,6 @@
 ---
 name: dpmaregister-epue-beweislast-erfinderische
-description: "Dpmaregister: Schriftsatz-, Brief- und Memo-Bausteine im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Dpmaregister: Schriftsatz-, Brief- und Memo-Bausteine in patentrecherche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Dpmaregister: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: cessio-bonorum-lex-iulia
-description: "Cessio bonorum nach der Lex Iulia: freiwillige Vermögensabtretung des Schuldners an die Gläubiger als Vorlaeufer der Privatinsolvenz mit Restschuldbefreiungswirkung. Skill behandelt die Voraussetzungen die Privilegien des cedens und die Folgen für kuenftiges Vermoegen (beneficium competentiae)...."
+description: "Wenn es um Rom 111 Cessio Bonorum Lex Iulia in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 111 Cessio Bonorum Lex Iulia

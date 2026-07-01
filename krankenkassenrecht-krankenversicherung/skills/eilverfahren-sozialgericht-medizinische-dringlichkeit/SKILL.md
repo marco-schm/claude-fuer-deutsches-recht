@@ -1,6 +1,6 @@
 ---
 name: eilverfahren-sozialgericht-medizinische-dringlichkeit
-description: "Einstweiliger Rechtsschutz nach § 86b SGG: Anordnungsanspruch, Anordnungsgrund, medizinische Dringlichkeit und Glaubhaftmachung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Eilverfahren Sozialgericht: Medizinische Dringlichkeit in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eilverfahren Sozialgericht: Medizinische Dringlichkeit

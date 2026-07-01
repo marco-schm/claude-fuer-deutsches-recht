@@ -1,6 +1,6 @@
 ---
 name: chn-089-factory-lease-and-land-use-rights
-description: "Festlandchina Wirtschaftsverkehr: Factory Lease And Land Use Rights. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Factory Lease And Land Use Rights in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Factory Lease And Land Use Rights

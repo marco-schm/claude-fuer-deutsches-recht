@@ -1,6 +1,6 @@
 ---
 name: beweislast-hightech-medizin
-description: "Beweislast in Hightech-Medizin: moderner Medizinrechts-Skill für Black-Box-Gerät, KI, Vektorcharge, Registerdaten und Beweisnot im Arzthaftungsprozess: Beweislast in Hightech-Medizin: moderner Medizinrechts-Skill für Black-Box-Gerät, KI, Vektorcharge, Regis..."
+description: "Wenn es um Beweislast Hightech Medizin in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beweislast in Hightech-Medizin: moderner Medizinrechts-Skill für Black-Box-Gerät, KI, Vektorcharge, Registerdaten und Beweisnot im Arzthaftungsprozess

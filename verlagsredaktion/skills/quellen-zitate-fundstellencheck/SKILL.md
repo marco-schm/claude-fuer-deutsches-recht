@@ -1,6 +1,6 @@
 ---
 name: quellen-zitate-fundstellencheck
-description: "Prüft Quellen, Zitate, Randnummern, Fundstellen, Rechtsprechung und Literaturstatus mit strenger Regel gegen erfundene oder paywallige Blindzitate im Verlagsredaktion."
+description: "Wenn es um Quellen-, Zitate- und Fundstellencheck in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Quellen-, Zitate- und Fundstellencheck

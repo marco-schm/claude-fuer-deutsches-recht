@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Agrarrecht: trennt fehlende Tatsachen von fehlenden Belegen (Pachtvertrag, GAP-Antrag, Grundbuchauszug), nennt pro Lücke Beweisthema, Beschaffungsweg (Landwirtschaftsbehörden Länder), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Agrarrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-und-inklusion
-description: "Plant barrierearme Versammlungen: Wege, Lautsprecher, Gebärdensprache, Ruhebereiche, Assistenz und sichere Kommunikation im Versammlungsrecht."
+description: "Wenn es um Art. 8 auch praktisch zugänglich machen in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Art. 8 auch praktisch zugänglich machen

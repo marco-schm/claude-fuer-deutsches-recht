@@ -1,6 +1,6 @@
 ---
 name: oeffentlichkeitsarbeit
-description: "Umweltschutzverband Verbandsklage: Öffentlichkeitsarbeit ohne Risiko. Öffentlichkeitsarbeit ohne Risiko im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage."
+description: "Wenn es um Oeffentlichkeitsarbeit Ohne Risiko in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Oeffentlichkeitsarbeit Ohne Risiko

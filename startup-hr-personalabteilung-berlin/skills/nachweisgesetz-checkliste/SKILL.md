@@ -1,6 +1,6 @@
 ---
 name: nachweisgesetz-checkliste
-description: "Berliner Start-up-HR: Nachweisgesetz-Check: wesentliche Vertragsbedingungen, Textform/Schriftform, Fristen, Empfangsnachweis und Änderungsnachweis. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Be..."
+description: "Wenn es um Nachweisgesetz Checkliste in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nachweisgesetz Checkliste

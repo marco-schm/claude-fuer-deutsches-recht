@@ -1,6 +1,6 @@
 ---
 name: 01-eroeffnungsverfahren-strafkammer
-description: "Eröffnungsverfahren Paragrafen 199-203 StPO bei der Strafkammer, hinreichender Tatverdacht, Verlesung der Anklage, Eröffnungsbeschluss, Zulassung der Anklage"
+description: "Wenn es um 01 Eröffnungsverfahren Strafkammer in Strafkammer am Landgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 01 Eröffnungsverfahren Strafkammer

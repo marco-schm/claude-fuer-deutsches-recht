@@ -1,6 +1,6 @@
 ---
 name: pruefkriterien-fuer-qualitaet
-description: "Qualitaetspruefung Einfache/Leichte Sprache: Prüfliste mit Wortlaenge, Satzlaenge, Verbquote, Fremdwortquote, Anteil Aktiv-/Passivsaetze. Empfehlung Tools (LIX-Index, Hohenheimer Verstaendlichkeitsindex)."
+description: "Wenn es um ELS-J Qualitaetspruefung in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ELS-J Qualitaetspruefung

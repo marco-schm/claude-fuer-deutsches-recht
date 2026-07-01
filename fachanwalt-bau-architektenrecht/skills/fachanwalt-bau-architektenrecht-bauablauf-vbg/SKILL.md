@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-bauablauf-vbg
-description: "Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen und geltend machen. Normen: §§ 6 6e VOB/B, §§ 280 286 BGB. Prüfraster: Behinderungsanzeige, Kausalität, Nachweis der Verzoegerung, Schadensberechnung. Output: Nachtragsbegründung Bauverzoegerung. Abgrenzung: nicht Nachtragsmanagement Mehrverguetung."
+description: "Wenn es um Bauablauf-Störung — Behinderungsanzeige und Mehrkostenforderung in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauablauf-Störung — Behinderungsanzeige und Mehrkostenforderung

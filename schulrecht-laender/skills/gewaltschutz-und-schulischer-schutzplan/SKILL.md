@@ -1,6 +1,6 @@
 ---
 name: gewaltschutz-und-schulischer-schutzplan
-description: "Prüft Schutzplan, Trennung der Beteiligten, Aufsicht und Dokumentation bei Gewalt im Schulrecht Länder."
+description: "Wenn es um Gewaltschutz und schulischer Schutzplan in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Gewaltschutz und schulischer Schutzplan

@@ -1,6 +1,6 @@
 ---
 name: ruecklagen-steuern-versicherung
-description: "Solo-Selbstständige: plant Rücklagen für ESt, USt, Krankenversicherung und Rentenvorsorge; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Pricing Liquidität und Wachstum: Plant rücklagen für est in Solo-Selbstständige Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pricing Liquidität und Wachstum: Plant rücklagen für est

@@ -1,6 +1,6 @@
 ---
 name: multiple-choice-nachteilsausgleich
-description: "Prüft Multiple-Choice- und Antwort-Wahl-Verfahren im Prüfungsrecht Hochschule. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Multiple Choice Und Antwortwahl in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Multiple Choice Und Antwortwahl

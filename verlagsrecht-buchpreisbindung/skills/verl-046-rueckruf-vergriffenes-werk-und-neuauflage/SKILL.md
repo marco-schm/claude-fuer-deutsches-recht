@@ -1,6 +1,6 @@
 ---
 name: verl-046-rueckruf-vergriffenes-werk-und-neuauflage
-description: "Verlagsrecht: Rückruf vergriffenes Werk und Neuauflage mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Rückruf vergriffenes Werk und Neuauflage in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Rückruf vergriffenes Werk und Neuauflage

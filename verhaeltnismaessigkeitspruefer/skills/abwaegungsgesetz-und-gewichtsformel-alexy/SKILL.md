@@ -1,6 +1,6 @@
 ---
 name: abwaegungsgesetz-und-gewichtsformel-alexy
-description: "Robert Alexys Gewichtsformel als praktisches Werkzeug fuer die Angemessenheits-Prüfung Stufe 4. Mit Triadenlogik leicht/mittel/schwer, Quotientenberechnung, Anwendung auf BVerfG-Faelle (Vorratsdaten, Klimaschutz, Bundesnotbremse) und Reflexion ueber Grenzen der Formalisierung."
+description: "Wenn es um Abwaegungsgesetz und Gewichtsformel — Alexys Werkzeug für Stufe 4 in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abwaegungsgesetz und Gewichtsformel — Alexys Werkzeug für Stufe 4

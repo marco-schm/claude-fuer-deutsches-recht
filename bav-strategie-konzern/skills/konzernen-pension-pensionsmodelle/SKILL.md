@@ -1,6 +1,6 @@
 ---
 name: konzernen-pension-pensionsmodelle
-description: "Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung

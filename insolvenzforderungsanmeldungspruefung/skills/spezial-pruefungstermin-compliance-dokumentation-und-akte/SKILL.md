@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefungstermin-compliance-dokumentation-und-akte
-description: "Pruefungstermin: Compliance-Dokumentation und Aktenvermerk im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Pruefungstermin: Compliance-Dokumentation und Aktenvermerk in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pruefungstermin: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: konzvgv-risikoampel-und-gegenargumente
-description: "Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien: Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Wenn es um Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien

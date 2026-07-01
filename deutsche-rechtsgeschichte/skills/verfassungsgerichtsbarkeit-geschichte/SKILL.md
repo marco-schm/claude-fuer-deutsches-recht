@@ -1,6 +1,6 @@
 ---
 name: verfassungsgerichtsbarkeit-geschichte
-description: "Deutsche Rechtsgeschichte: Geschichte der Verfassungsgerichtsbarkeit. Staatsgerichtshof der WRV, Entstehung des BVerfG 1951, Normenkontrolle und Grundrechtsbeschwerde als deutsche Innovationen im Deutsche Rechtsgeschichte."
+description: "Wenn es um Verfassungsgerichtsbarkeit Geschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verfassungsgerichtsbarkeit Geschichte

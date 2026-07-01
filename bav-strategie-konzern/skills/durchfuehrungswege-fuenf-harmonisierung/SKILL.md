@@ -1,6 +1,6 @@
 ---
 name: durchfuehrungswege-fuenf-harmonisierung
-description: "Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: vernunftigerweise-vorhersehbarer-gebrauch
-description: "Prüft vorhersehbaren Gebrauch, Fehlgebrauch und Grenzen von Warnhinweisen bei Robotern im Betrieb und beim Verbraucher."
+description: "Wenn es um Vorhersehbarer Gebrauch in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vernunftigerweise Vorhersehbarer Gebrauch; Arbeitsfeld: robotik-recht."
 ---
 
 # Vorhersehbarer Gebrauch

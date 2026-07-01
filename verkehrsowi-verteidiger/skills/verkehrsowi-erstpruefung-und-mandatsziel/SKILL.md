@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-erstpruefung-und-mandatsziel
-description: "Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel in VerkehrsOWi-Verteidiger geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel

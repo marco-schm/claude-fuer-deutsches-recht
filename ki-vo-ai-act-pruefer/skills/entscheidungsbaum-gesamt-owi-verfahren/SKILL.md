@@ -1,6 +1,6 @@
 ---
 name: entscheidungsbaum-gesamt-owi-verfahren
-description: "Master-für die vollstaendige KI-VO-Prüfung. Fuehrt von Art. 3 KI-System-Definition ueber Anwendungsbereich, Rollen, Art. 6 Abs. 2/Anhang III-Hochrisiko, Rueckausnahme, GPAI/Chatbot-Abgrenzung, Betreiber-Fehlgebrauch, Pflichten, Standards und Output-Dokumentation. Schwerpunkt: allgemeine Chatbots..."
+description: "Wenn es um Master-Workflow: europäischer Technikregulierungsrahmen-Gesamtprüfung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Master-Workflow: KI-VO-Gesamtprüfung

@@ -1,6 +1,6 @@
 ---
 name: honorar-vertrag-royalties-triage
-description: "Triage für Autorenvertrag, Honorar, Tantiemen, Pauschale, Nebenrechte, Abrechnung, Nutzungsarten und Eskalation an Justiziariat im Verlagsredaktion."
+description: "Wenn es um Honorar, Vertrag und Royalties in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Honorar, Vertrag und Royalties

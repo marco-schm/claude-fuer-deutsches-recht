@@ -1,6 +1,6 @@
 ---
 name: dba-ukraine
-description: "DBA Deutschland Ukraine. Anwendungsfall Mittelstand IT Pflege Holding Beteiligungen mit Konfliktrelevanz seit 2022. Sanktionen Devisenkontrollen Überweisungssperren. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise Konflikt-Lagebild."
+description: "Wenn es um DBA Deutschland-Ukraine in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Ukraine

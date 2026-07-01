@@ -1,6 +1,6 @@
 ---
 name: tracked-fristennotiz-und-naechster-schritt
-description: "Tracked: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Tracked: Fristennotiz und nächster Schritt in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tracked Fristennotiz Und Naechster Schritt; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # Tracked: Fristennotiz und nächster Schritt

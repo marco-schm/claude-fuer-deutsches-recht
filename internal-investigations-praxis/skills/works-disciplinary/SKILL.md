@@ -1,6 +1,6 @@
 ---
 name: works-disciplinary
-description: "Löst Konflikte mit dem Betriebsrat während einer Internal Investigation – Mitbestimmungsstreit, Einigungsstelle, einstweiliger Rechtsschutz im Internal Investigations Praxis."
+description: "Wenn es um Betriebsrats-Konflikte in Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Betriebsrats-Konflikte in Internal Investigations

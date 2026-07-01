@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlung im Urheber- und Medienrechtstreit vorbereiten und Strategie entwickeln: §§ 97 97a UrhG §§ 779 BGB Vergleich. Prüfraster: Vergleichsziele BATN..."
+description: "Wenn es um Vergleichsverhandlung Strategie in Fachanwalt Urheber Medienrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleichsverhandlung im Urheber- und Medienrechtstreit vorbereiten und Strategie entwickeln

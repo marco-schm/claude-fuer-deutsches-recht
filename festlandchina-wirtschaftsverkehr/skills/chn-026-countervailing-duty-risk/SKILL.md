@@ -1,6 +1,6 @@
 ---
 name: chn-026-countervailing-duty-risk
-description: "Festlandchina Wirtschaftsverkehr: Countervailing Duty Risk. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Countervailing Duty Risk in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Countervailing Duty Risk

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung
-description: "Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Wenn es um Eigenbedarfs-Kündigung Paragraf 573 II Nr. 2 BGB in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Eigenbedarfs-Kündigung § 573 II Nr. 2 BGB

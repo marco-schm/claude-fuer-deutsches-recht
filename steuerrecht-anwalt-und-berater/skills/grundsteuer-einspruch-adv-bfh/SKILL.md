@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-einspruch-adv-bfh
-description: "Grundsteuer-Einspruch und Aussetzung der Vollziehung: Frist, Bekanntgabe, BFH-AdV-Linie II B 78/23 und II B 79/23, BFH-Hauptsache 12.11.2025, Belegstrategie, Einspruchsbegründung und AdV-Antrag formulieren."
+description: "Wenn es um Grundsteuer: Einspruch, AdV und BFH-Linie in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundsteuer: Einspruch, AdV und BFH-Linie

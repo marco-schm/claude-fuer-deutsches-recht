@@ -1,6 +1,6 @@
 ---
 name: fachplaner-tga-brandschutz-tragwerk-koordination
-description: "HOAI-Fachfrage: Schnittstellenkoordination zwischen Objektplanung, TGA, Tragwerk, Brandschutz, Bauphysik, Baugrund und Sonderplanern mit Planlauf, Verantwortungsmatrix und Haftungsabgrenzung prüfen im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Fachplanerkoordination TGA, Brandschutz Und Tragwerk in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fachplanerkoordination TGA, Brandschutz Und Tragwerk

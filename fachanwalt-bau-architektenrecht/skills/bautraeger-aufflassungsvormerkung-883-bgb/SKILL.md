@@ -1,6 +1,6 @@
 ---
 name: bautraeger-aufflassungsvormerkung-883-bgb
-description: "Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag: Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen für den Erwerber bei Bautraegerinsolve..."
+description: "Wenn es um Aufflassungsvormerkung Paragraf 883 BGB beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag

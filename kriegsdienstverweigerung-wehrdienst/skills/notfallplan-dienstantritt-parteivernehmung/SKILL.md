@@ -1,6 +1,6 @@
 ---
 name: notfallplan-dienstantritt-parteivernehmung
-description: "Erstellt 24/48-Stunden-Plan bei kurzfristiger Musterung, Übung oder Dienstantritt im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Notfallplan Dienstantritt in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notfallplan Dienstantritt

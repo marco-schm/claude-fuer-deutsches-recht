@@ -1,6 +1,6 @@
 ---
 name: informationszugang-hessen-livecheck
-description: "Informationsfreiheit und Presseauskunft: Informationszugang Hessen Livecheck. Informationszugang Hessen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: prüft..."
+description: "Wenn es um Informationszugang Hessen Livecheck in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Informationszugang Hessen Livecheck

@@ -1,6 +1,6 @@
 ---
 name: dokumenten-cockpit-schiff
-description: "Mandant benoetigt Uebersicht aller schiffsrelevanten Dokumente: Registerauszug; Hypothekenurkunden; Zertifikate (Klasse; ISM/DOC/SMC; MLC/DMLC; ISPS/ISSC); Flaggenzertifikat; Charter; Konnossements-Template. SchRG §§ 2/8-74; FlaggRG §§ 3-5; ISM-Code; MLC 2006 Titel 5; ISPS-Code. Output: Dokumente..."
+description: "Wenn es um Dokumenten-Cockpit Schiff – Vollständigkeitsprüfung in See- und Schifffahrtsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Dokumenten-Cockpit Schiff – Vollständigkeitsprüfung

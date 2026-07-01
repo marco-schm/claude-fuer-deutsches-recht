@@ -1,6 +1,6 @@
 ---
 name: spezial-waermepumpe-red-team-und-qualitaetskontrolle
-description: "Waermepumpe: Red-Team und Qualitätskontrolle im Plugin fachanwalt miet wohnungseigentumsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Waermepumpe: Red-Team und Qualitätskontrolle in Fachanwalt Miet- und Wohnungseigentumsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Waermepumpe: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: see-014-insolvenz-der-reederei
-description: "See- und Schifffahrtsrecht: Insolvenz der Reederei. Insolvenz der Reederei im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Insolvenz Der Reederei in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenz Der Reederei

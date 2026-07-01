@@ -1,6 +1,6 @@
 ---
 name: remote-update-und-secure-channel
-description: "Prüft Remote-Update-Kanäle, Signaturen, Rollback, Fail-safe, Änderungsdokumentation und Verantwortung nach Update."
+description: "Wenn es um Remote Update und Secure Channel in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Remote Update und Secure Channel

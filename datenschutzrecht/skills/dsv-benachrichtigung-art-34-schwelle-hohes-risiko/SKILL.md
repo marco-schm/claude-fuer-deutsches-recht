@@ -1,6 +1,6 @@
 ---
 name: dsv-benachrichtigung-art-34-schwelle-hohes-risiko
-description: "Bewertet, ob die Schwelle voraussichtlich hohes Risiko nach Art: 34 Abs. 1 DSGVO erreicht ist. Behandelt: Abgrenzung zur Meldeschwelle Art. 33 Abs. 1 DSGVO; EDSA-Beispielfallgruppen; Faktoren"
+description: "Wenn es um Bewertet, ob die Schwelle voraussichtlich hohes Risiko nach Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bewertet, ob die Schwelle voraussichtlich hohes Risiko nach Art

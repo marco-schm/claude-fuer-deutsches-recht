@@ -1,6 +1,6 @@
 ---
 name: gesellschafterstreit-loesungsstrategie
-description: "Gesellschafter sind zerstritten Patt-Situation oder Mehrheits-Gesellschafter droht Hinaus-Kündigung. Strategie bei GmbH-Konflikten: Mediation Beschluss-Anfechtungsklage Paragraf 246 AktG analog Abberufung Geschäftsführer Paragraf 38 GmbHG. Normen Paragraf 34 GmbHG Einziehung Paragraf 140 HGB analog Ausschluss-Klage Paragraf 48 Gmb..."
+description: "Wenn es um Gesellschafterstreit — Lösungsstrategie in Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gesellschafterstreit — Lösungsstrategie

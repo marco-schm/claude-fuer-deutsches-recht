@@ -1,6 +1,6 @@
 ---
 name: penalty-vs-liquidated-damages
-description: "Internationales Handelsrecht: Abgrenzung Penalty vs. Liquidated Damages in Common Law und Civil Law. Cavendish-Test (UK 2015), PICC Art. 7.4.13 Reduktionsrecht, § 343 BGB Mäßigung und rechtsvergleichende Analyse für internationale Verträge im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Penalty vs. Liquidated Damages: Rechtsvergleich in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Penalty vs. Liquidated Damages: Rechtsvergleich

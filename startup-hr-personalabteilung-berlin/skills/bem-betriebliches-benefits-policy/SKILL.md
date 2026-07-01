@@ -1,6 +1,6 @@
 ---
 name: bem-betriebliches-benefits-policy
-description: "Berliner Start-up-HR: BEM nach längerer Krankheit: Einladung, Freiwilligkeit, Datenschutz, Beteiligte, Maßnahmen und Dokumentation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um BEM Betriebliches Eingliederungsmanagement in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # BEM Betriebliches Eingliederungsmanagement

@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-mandantenbrief
-description: "Erklärt Lage, Risiken und nächste Schritte ohne Fachchinesisch und mit Entscheidungsoptionen im Erbbaurecht Praxis."
+description: "Wenn es um Mandantenbrief Erbbaurecht in Erbbaurecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mandantenbrief Erbbaurecht

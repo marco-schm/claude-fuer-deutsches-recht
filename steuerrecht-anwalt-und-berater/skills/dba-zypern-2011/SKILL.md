@@ -1,6 +1,6 @@
 ---
 name: dba-zypern-2011
-description: "DBA Deutschland Zypern 2011. Anwendungsfall Holding-Konstruktionen Schifffahrt Beteiligungen Investmentfonds. EU-MTRL ergaenzend. Substanz Anti-Treaty-Shopping. Methodenartikel Anrechnung. Output Mandanten-Memo Holding-Substanz-Memo BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Zypern (2011) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Zypern (2011)

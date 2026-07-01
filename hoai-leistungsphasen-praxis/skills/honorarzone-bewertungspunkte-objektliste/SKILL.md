@@ -1,6 +1,6 @@
 ---
 name: honorarzone-bewertungspunkte-objektliste
-description: "HOAI-Fachfrage: Honorarzone, Bewertungsmerkmale, Objektliste, Punktbewertung und Einordnung nach § 5, § 35 HOAI und Anlage 10 sauber begründen und gegen Über-/Unterzonung prüfen im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Honorarzone, Bewertungspunkte Und Objektliste in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Honorarzone, Bewertungspunkte Und Objektliste

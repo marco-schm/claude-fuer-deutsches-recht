@@ -1,6 +1,6 @@
 ---
 name: autonomous-driving-strassenrecht
-description: "Autonomes Fahren und Strassenrecht: § 1d StVG, autonomes Fahren in Level 4, Genehmigung der zuständigen Landesbehoerden, Betrieb auf festgelegter Strecke. Schnittstelle zu KI-VO Hochrisikoanwendungen, Datenschutz, Haftungsfragen. Prüfraster für Kommunen mit Pilotvorhaben im Verkehr Infrastruktur..."
+description: "Wenn es um Autonomes Fahren: Strassenrecht in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Autonomes Fahren: Strassenrecht

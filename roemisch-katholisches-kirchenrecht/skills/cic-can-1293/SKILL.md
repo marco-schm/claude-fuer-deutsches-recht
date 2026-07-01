@@ -1,6 +1,6 @@
 ---
 name: cic-can-1293
-description: "CIC can. 1293: Normnavigator fuer Buch V - Kirchenvermögen (can. 1254-1310); amtlichen Canon-Text live pruefen, Tatbestand, Zuständigkeit, Partikularrecht, Katechismusbezug und pastorale Ausgabe sauber trennen."
+description: "Wenn es um CIC can. 1293 - Buch V - Kirchenvermögen in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # CIC can. 1293 - Buch V - Kirchenvermögen

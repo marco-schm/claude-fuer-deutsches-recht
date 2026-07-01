@@ -1,6 +1,6 @@
 ---
 name: titel-klausel-zustellung
-description: "Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Prüfraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte K..."
+description: "Wenn es um Drei-Säulen-Prüfung: Titel, Klausel, Zustellung in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drei-Säulen-Prüfung: Titel, Klausel, Zustellung

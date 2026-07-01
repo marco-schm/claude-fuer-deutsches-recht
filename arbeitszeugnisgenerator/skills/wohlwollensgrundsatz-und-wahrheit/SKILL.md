@@ -1,6 +1,6 @@
 ---
 name: wohlwollensgrundsatz-und-wahrheit
-description: "Erklärt das Spannungsverhältnis zwischen Zeugniswahrheit und verständigem Wohlwollen als zentrale Generierungsprinzipien. Das Zeugnis muss wahr sein und darf gleichzeitig wohlwollend formuliert sein — beides ist Pflicht. Zeugniswahrheit geht vor Wohlwollen. Enthält Regeln, wie negative Tatsachen wohlwollend aber wahrhaftig formuliert werden."
+description: "Wenn es um Wohlwollensgrundsatz und Wahrheit in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wohlwollensgrundsatz und Wahrheit

@@ -1,6 +1,6 @@
 ---
 name: nutzungen-zinsen-fruechte-gebrauchsvorteile
-description: "Bei nutzungen und Zinsen ohne Doppelzählung erfasst werden müssen. Normen: § 818 Abs. 1 BGB; § 100 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil ob..."
+description: "Wenn es um Nutzungen, Zinsen, Früchte und Gebrauchsvorteile in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nutzungen, Zinsen, Früchte und Gebrauchsvorteile

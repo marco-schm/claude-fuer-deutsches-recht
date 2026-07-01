@@ -1,6 +1,6 @@
 ---
 name: auslagerung-an-freie-mitarbeiter-rechtsprechungsc
-description: "Steuerberater: auslagerung an freie mitarbeiter - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Auslagerung An Freie Mitarbeiter Rechtsprechungsc in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Steuerberater: auslagerung an freie mitarbeiter - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

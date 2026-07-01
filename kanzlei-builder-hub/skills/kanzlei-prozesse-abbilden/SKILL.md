@@ -1,6 +1,6 @@
 ---
 name: kanzlei-prozesse-abbilden
-description: "Typische Kanzlei-Prozesse mit Plugins und Skills abbilden: Mandatsaufnahme, Akteneinsicht, Schriftsatzentwurf, Fristenkontrolle, Rechnung, Archivierung. Pro Prozess: Welche Plugins (Skills) helfen, in welcher Reihenfolge, mit welchem Output? Vorlage zum Anpassen im Kanzlei Builder Hub."
+description: "Wenn es um Kanzlei-Prozesse abbilden in Kanzlei-Builder-Hub geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzlei-Prozesse abbilden

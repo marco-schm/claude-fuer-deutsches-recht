@@ -1,6 +1,6 @@
 ---
 name: inso-p296-verstoss-gegen-obliegenheiten
-description: "§ 296 InsO (Verstoß gegen Obliegenheiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 296 InsO (Verstoß gegen Obliegenheiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfol..."
+description: "Wenn es um Inso P296 Verstoss Gegen Obliegenheiten in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 296 InsO (Verstoß gegen Obliegenheiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

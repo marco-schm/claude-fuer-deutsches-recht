@@ -1,6 +1,6 @@
 ---
 name: personalakte-aenderungen-versionierung
-description: "Berliner Start-up-HR: Änderungen an Personalakten versionieren: wer hat was wann geändert, warum und mit welcher Rechtsgrundlage. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Personalakte Änderungen Versionierung in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Personalakte Änderungen Versionierung

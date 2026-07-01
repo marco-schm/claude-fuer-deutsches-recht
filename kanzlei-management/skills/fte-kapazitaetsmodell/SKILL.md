@@ -1,6 +1,6 @@
 ---
 name: fte-kapazitaetsmodell
-description: "Baut Kapazitätsmodell nach Rollen, Teilzeit, Assistenz und Praxisgruppe. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um FTE-Kapazitätsmodell in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # FTE-Kapazitätsmodell

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-vc-cockpit
-description: "Führt junge VCs, Angels und Family Offices in 90 Sekunden durch Rolle, Phase, Ticket, Unterlagen, Entscheidungslage und nächsten Output."
+description: "Wenn es um VC-Kaltstart-Cockpit in Venture Capital Geber geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VC-Kaltstart-Cockpit

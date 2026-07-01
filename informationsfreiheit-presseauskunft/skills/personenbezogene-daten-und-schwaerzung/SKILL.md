@@ -1,6 +1,6 @@
 ---
 name: personenbezogene-daten-und-schwaerzung
-description: "Informationsfreiheit und Presseauskunft: Personenbezogene Daten und Schwärzung. Personenbezogene Daten und Schwärzung im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: pr..."
+description: "Wenn es um Personenbezogene Daten Und Schwaerzung in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Personenbezogene Daten Und Schwaerzung

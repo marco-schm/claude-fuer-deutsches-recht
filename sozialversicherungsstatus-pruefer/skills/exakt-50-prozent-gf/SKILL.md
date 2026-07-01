@@ -1,6 +1,6 @@
 ---
 name: exakt-50-prozent-gf
-description: "Prüft 50-Prozent-Gesellschafter-Geschäftsführer, Pattsituation, Sperrrechte und echte Blockademacht im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Exakt 50 Prozent Geschäftsführer in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Exakt 50 Prozent Geschäftsführer

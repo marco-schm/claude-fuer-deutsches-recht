@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-schreibcanvas
-description: "Unternehmen in M&A oder Krise braucht Liquiditaetsvorschau: 3-Wochen-Liquiditaet 13-Wochen-Cash-Bridge Runway OPOS Bankdaten Insolvenzschwellen. Normen §§ 17-19 InsO IDW S 11 GoF. Prüfraster Zufluss-Abfluss-Plan OPOS-Abgleich Banklinien-Prüfung Insolvenzschwellen-Check. Output Liquiditaetsplan-Ta..."
+description: "Wenn es um Freistehende Liquiditätsvorschau (Mittelstand) in Mittelstands-Corporate/M&A geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Freistehende Liquiditätsvorschau (Mittelstand)

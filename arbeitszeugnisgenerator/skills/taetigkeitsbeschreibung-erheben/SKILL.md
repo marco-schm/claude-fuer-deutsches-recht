@@ -1,6 +1,6 @@
 ---
 name: taetigkeitsbeschreibung-erheben
-description: "Erhebt strukturiert, was die Person konkret getan hat: Kernaufgaben, Verantwortungsbereiche, Projekte, Führungsumfang, Budget- und Ergebnisverantwortung. Unterscheidet zwischen Pflichtaussagen (positionsabhängig) und optionalen Hervorhebungen. Liefert den Rohentwurf des Aufgabenblocks, aus dem alle Leistungs- und Verhaltensformulierungen abgeleitet werden."
+description: "Wenn es um Tätigkeitsbeschreibung erheben in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Tätigkeitsbeschreibung erheben

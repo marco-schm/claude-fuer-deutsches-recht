@@ -1,6 +1,6 @@
 ---
 name: jus-staatsexamen-vorbereitung-spezial
-description: "Spezialfall Staatsexamensvorbereitung: Lernplan zwoelf Monate, Karteikartensystem, Probeklausuren, gesundheitliche Aspekte. Prüfraster für Examenskandidaten im Jurastudium."
+description: "Wenn es um JuS: Staatsexamen-Vorbereitung in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # JuS: Staatsexamen-Vorbereitung

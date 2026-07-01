@@ -1,6 +1,6 @@
 ---
 name: abmahnung-formular-portal-und-einreichung
-description: "Abmahnung: Formularanforderungen, Einreichungsportale und Übermittlungswege im gewerblichen Rechtsschutz: § 13 UWG Formerfordernisse, DPMA-Online-Diens..."
+description: "Wenn es um Abmahnung Formular Portal Und Einreichung in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abmahnung: Formularanforderungen, Einreichungsportale und Übermittlungswege im gewerblichen Rechtsschutz

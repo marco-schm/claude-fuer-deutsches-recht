@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Normenkontrolle Bauleitplanung: trennt fehlende Tatsachen von fehlenden Belegen (Bebauungsplan, Begründung, Abwägungsmaterial), nennt pro Lücke Beweisthema, Beschaffungsweg (OVG/VGH), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

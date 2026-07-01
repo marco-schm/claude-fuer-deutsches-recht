@@ -1,6 +1,6 @@
 ---
 name: bieterfragen-antworten-management
-description: "Bieterfragen, Antworten und Klarstellungen managen: Fristen, Gleichbehandlung, Transparenz, Änderung der Unterlagen, Fristverlaengerung und Antwortlog: Bieterfragen, Antworten und Klarstellungen managen: Fristen, Gleichbehandlung, Transparenz, Änderung d..."
+description: "Wenn es um Bieterfragen Antworten Management in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bieterfragen, Antworten und Klarstellungen managen: Fristen, Gleichbehandlung, Transparenz, Änderung der Unterlagen, Fristverlaengerung und Antwortlog.

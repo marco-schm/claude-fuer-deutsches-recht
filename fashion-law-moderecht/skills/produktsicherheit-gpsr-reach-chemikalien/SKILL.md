@@ -1,6 +1,6 @@
 ---
 name: produktsicherheit-gpsr-reach-chemikalien
-description: "Produktsicherheit nach GPSR für Modeartikel prüfen: verantwortlicher Wirtschaftsakteur, Warnhinweise, Rückverfolgbarkeit, Online-Angebot, Kinderprodukte und Safety Gate im Fashion Law Moderecht."
+description: "Wenn es um Produktsicherheit Gpsr Fashion in fashion-law-moderecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Produktsicherheit Gpsr Fashion

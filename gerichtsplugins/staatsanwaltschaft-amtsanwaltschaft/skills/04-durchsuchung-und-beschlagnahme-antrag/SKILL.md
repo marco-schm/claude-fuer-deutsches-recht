@@ -1,6 +1,6 @@
 ---
 name: 04-durchsuchung-und-beschlagnahme-antrag
-description: "Antrag auf richterliche Anordnung der Durchsuchung (Paragrafen 102 bis 105 StPO) und Beschlagnahme (Paragrafen 94 bis 98 StPO), Verhaeltnismaessigkeit, Gefahr im Verzug, Richtervorbehalt"
+description: "Wenn es um 04 Durchsuchung und Beschlagnahme Antrag in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 04 Durchsuchung und Beschlagnahme Antrag

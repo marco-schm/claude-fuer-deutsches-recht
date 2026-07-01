@@ -1,6 +1,6 @@
 ---
 name: versorgungslastenteilung-107b-beamtvg
-description: "Skill zur Versorgungslastenteilung bei Dienstherrenwechsel nach § 107b BeamtVG bzw. dem Versorgungslastenteilungs-Staatsvertrag. Klaert die Berechnung der Abfindung den Wechsel zwischen Bund und Land und zwischen Bundeslaendern die Hoehe des Erstattungssatzes nach Diensteinheiten Diensttagen oder..."
+description: "Wenn es um Versorgungslastenteilung bei Dienstherrenwechsel in Beamtenrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Versorgungslastenteilung bei Dienstherrenwechsel

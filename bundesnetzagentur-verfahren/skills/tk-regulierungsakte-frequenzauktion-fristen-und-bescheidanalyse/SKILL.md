@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-frequenzauktion-fristen-und-bescheidanalyse
-description: "Frequenzauktion: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren."
+description: "Wenn es um TK-Regulierungsakte: Frequenzauktion — Fristen- und Bescheidanalyse in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # TK-Regulierungsakte: Frequenzauktion — Fristen- und Bescheidanalyse

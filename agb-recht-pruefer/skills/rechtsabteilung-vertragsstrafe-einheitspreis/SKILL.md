@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-vertragsstrafe-einheitspreis
-description: "Rechtsabteilungs-Fachmodul für Vertragsstrafe in Einheitspreis- und Lieferverträgen: Rechtsabteilungen prüfen, ob Bezugsgrößen der Vertragsstrafe die tatsächlich beauftragte Leistung überschießen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Wenn es um Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Rechtsabteilung Vertragsstrafe Einheitspreis; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen

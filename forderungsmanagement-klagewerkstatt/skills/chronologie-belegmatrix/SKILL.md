@@ -1,6 +1,6 @@
 ---
 name: chronologie-belegmatrix
-description: "Erstellt eine zeitliche Belegmatrix für eine Forderung von Vertragsschluss bis Klageeingang. Verknuepft Datum Ereignis Beleg Anlage und Beweismittel. Pinpoints ZPO 138 substantiierter Vortrag ZPO 373 ff Beweismittel ZPO 416 Privaturkunde. Liefert Matrix-Template und Anlagenkonvention K und B."
+description: "Wenn es um Chronologie und Belegmatrix in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie und Belegmatrix

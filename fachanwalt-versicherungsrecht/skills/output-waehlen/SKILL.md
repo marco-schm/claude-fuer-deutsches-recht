@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Versicherungsrecht: stimmt Adressat (Versicherungsnehmer, Versicherer, Geschädigter), Frist (§ 12 VVG Klagefrist) und Form auf den Zweck ab — typische Outputs: Deckungsklage, Schadensersatzklage, Ombudsmann-Eingabe."
+description: "Wenn es um Output wählen in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

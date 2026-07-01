@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft
-description: "Verbindliche Auskunft nach Paragraf 89 AO im Sanierungskontext: Beschreibt Antragsstruktur, Sachverhaltsdarstellung, Tatsachen- und Rechtsfragen, Bindungswirkung und Reichweite. Liefert Antrags-Template, Sac..."
+description: "Wenn es um Verbindliche Auskunft nach Paragraf 89 AO im Sanierungskontext in Großkanzlei Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verbindliche Auskunft nach Paragraf 89 AO im Sanierungskontext

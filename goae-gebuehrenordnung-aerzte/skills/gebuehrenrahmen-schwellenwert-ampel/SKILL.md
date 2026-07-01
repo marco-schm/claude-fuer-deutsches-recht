@@ -1,6 +1,6 @@
 ---
 name: gebuehrenrahmen-schwellenwert-ampel
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Gebührenrahmen Schwellenwert Ampel im Goae Gebührenordnung Aerzte."
+description: "Wenn es um Gebührenrahmen Schwellenwert Ampel in GOÄ Gebührenordnung für Ärzte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Gebührenrahmen Schwellenwert Ampel

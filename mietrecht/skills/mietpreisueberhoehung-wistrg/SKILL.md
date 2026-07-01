@@ -1,6 +1,6 @@
 ---
 name: mietpreisueberhoehung-wistrg
-description: "Prüft ueberhoehte Wohnraummiete dreistufig: Mietpreisbremse §§ 556d ff. BGB, Mietpreisueberhoehung § 5 WiStrG 1954 als Ordnungswidrigkeit und Mietwucher § 291 StGB als Straftat; mit Mietspiegel-, Beweis-, Rueckforderungs- und Behördenpfad im Mietrecht."
+description: "Wenn es um Mietpreisüberhöhung, WiStrG 1954 und Mietwucher in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietpreisüberhöhung, WiStrG 1954 und Mietwucher

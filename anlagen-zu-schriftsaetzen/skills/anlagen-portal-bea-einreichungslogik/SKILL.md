@@ -1,6 +1,6 @@
 ---
 name: anlagen-portal-bea-einreichungslogik
-description: "Prüft, wie Anlagen technisch eingereicht werden: beA, ERV, Portal, Datenträger, mehrere Teilpakete, Begleitvermerk und Eingangsprüfung."
+description: "Wenn es um Portal, beA und Einreichungslogik in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Portal, beA und Einreichungslogik

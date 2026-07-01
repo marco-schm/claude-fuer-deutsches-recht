@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Europarecht-Kompass: stimmt Adressat (Nationale Gerichte, EU-Institutionen, Mitgliedstaaten), Frist (Nichtigkeitsklage 2 Monate Art. 263 AEUV) und Form auf den Zweck ab — typische Outputs: Vorlagefrage-Vorschlag, Konformitätsanalyse, EuGH-Schriftsatz."
+description: "Wenn es um Output wählen in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

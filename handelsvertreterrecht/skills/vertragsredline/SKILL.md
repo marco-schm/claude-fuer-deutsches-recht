@@ -1,6 +1,6 @@
 ---
 name: vertragsredline
-description: "Unterstützt beim Redigieren und Verhandeln von Handelsvertreterverträgen: systematisches Redline-Verfahren für Klauseln zu Provision, Ausgleich, Kündigung, Wettbewerbsverbot und AGB, Prüfung auf Konformität mit §§ 84–92c HGB sowie Erstellung eines kommentierten Gegenentwurfs im Handelsvertreterre..."
+description: "Wenn es um Vertragsredline für den Handelsvertretervertrag nach Paragrafen 84–92c HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertragsredline für den Handelsvertretervertrag nach §§ 84–92c HGB

@@ -1,6 +1,6 @@
 ---
 name: 05-strafzumessung-grosse-strafkammer
-description: "Strafzumessung Paragrafen 46-49 StGB: Strafzumessungstatsachen, Strafrahmenverschiebung, besondere gesetzliche Milderungsgründe, Strafaussetzung Paragraf 56 (Bewaehrungsentscheidung), Verwarnung mit Strafvorbehalt Paragraf 59"
+description: "Wenn es um 05 Strafzumessung Große Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 05 Strafzumessung Große Strafkammer

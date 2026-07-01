@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-sozialrecht
-description: "Neues sozialrechtliches Mandat: Sekretariat oder Anwalt muss Sachgebiet klären und zum richtigen Skill weiterleiten: Eingangs-Triage Sozia..."
+description: "Wenn es um Mandat Triage Sozialrecht in Fachanwalt Sozialrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Neues sozialrechtliches Mandat: Sekretariat oder Anwalt muss Sachgebiet klären und zum richtigen Skill weiterleiten

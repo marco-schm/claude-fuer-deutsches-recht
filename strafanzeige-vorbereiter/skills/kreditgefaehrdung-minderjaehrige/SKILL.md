@@ -1,6 +1,6 @@
 ---
 name: kreditgefaehrdung-minderjaehrige
-description: "Zivilrechtliches Haftungsrisiko bei Behauptungen über Insolvenz, Betrug, Zahlungsunfähigkeit oder Unzuverlässigkeit im Strafanzeige-Vorbereitung."
+description: "Wenn es um Kreditgefährdung Paragraf 824 BGB in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kreditgefährdung § 824 BGB

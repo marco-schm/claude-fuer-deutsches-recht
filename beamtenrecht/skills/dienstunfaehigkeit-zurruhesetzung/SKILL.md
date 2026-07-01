@@ -1,6 +1,6 @@
 ---
 name: dienstunfaehigkeit-zurruhesetzung
-description: "Dienstunfähigkeit und Zurruhesetzung: Prognose, amtsärztliches Gutachten, anderweitige Verwendung, Beteiligung und Rechtsschutz im Beamtenrecht."
+description: "Wenn es um Dienstunfaehigkeit Zurruhesetzung in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Dienstunfaehigkeit Zurruhesetzung

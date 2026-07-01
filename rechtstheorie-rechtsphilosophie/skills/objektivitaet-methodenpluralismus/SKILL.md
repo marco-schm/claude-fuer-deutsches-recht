@@ -1,6 +1,6 @@
 ---
 name: objektivitaet-methodenpluralismus
-description: "Prüft, wie objektiv juristische Methoden sein koennen, wenn mehrere Methoden plausible Ergebnisse erzeugen."
+description: "Wenn es um Objektivität und Methodenpluralismus in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Objektivität und Methodenpluralismus

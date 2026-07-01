@@ -1,6 +1,6 @@
 ---
 name: qualitaetskontrolle-halluzinationsschutz
-description: "Bei ein bereicherungsrechtlicher Output auf Scheinsicherheit und Quellenrisiken geprüft wird. Normen: §§ 812 ff. BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wert..."
+description: "Wenn es um Qualitätskontrolle und Halluzinationsschutz in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Qualitaetskontrolle Halluzinationsschutz; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # Qualitätskontrolle und Halluzinationsschutz

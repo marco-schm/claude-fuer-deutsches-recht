@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-pressepolitik-bundestag
-description: "Verzahnt einzelne NKR-Stellungnahmen mit der öffentlichen Wirksamkeit ueber Jahresbericht Pressemitteilung Hintergrundgespraech und Bilanz-Konferenz. Beschreibt wie der NKR seine Mahnungen oeffentlich verstaerken kann ohne politisch zu werden. Mit Bausteinen für Pressehinweis Jahresberichts-Eintr"
+description: "Wenn es um NKR-Stellungnahme — Pressepolitik und Jahresbericht in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Stellungnahme Pressepolitik Bundestag; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
 ---
 
 # NKR-Stellungnahme — Pressepolitik und Jahresbericht

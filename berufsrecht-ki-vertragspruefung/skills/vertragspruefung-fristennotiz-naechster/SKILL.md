@@ -1,6 +1,6 @@
 ---
 name: vertragspruefung-fristennotiz-naechster
-description: "Vertragspruefung: Fristennotiz und nächster Schritt: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstuf..."
+description: "Wenn es um Vertragspruefung: Fristennotiz und nächster Schritt in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für die Auswahl: Vertragspruefung Fristennotiz Naechster."
 ---
 
 # Vertragspruefung: Fristennotiz und nächster Schritt

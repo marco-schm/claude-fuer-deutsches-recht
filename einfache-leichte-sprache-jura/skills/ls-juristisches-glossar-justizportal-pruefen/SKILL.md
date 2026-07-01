@@ -1,6 +1,6 @@
 ---
 name: ls-juristisches-glossar-justizportal-pruefen
-description: "Juristisches Glossar für Einfache und Leichte Sprache aufbauen: Schlagwort, Schwerverstaendliche Definition, Variante Einfache Sprache, Variante Leichte Sprache. Pro Eintrag Beispielssatz. Strukturierter CSV-Output und Mustertext für 30 Kernbegriffe im Einfache/Leichte Sprache Jura: prüft konkret..."
+description: "Wenn es um LS: Juristisches Glossar in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LS: Juristisches Glossar

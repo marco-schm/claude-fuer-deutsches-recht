@@ -1,6 +1,6 @@
 ---
 name: kennzahlenset-mandantenentscheidung
-description: "Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage in Krisenfrüherkennung und StaRUG-Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage

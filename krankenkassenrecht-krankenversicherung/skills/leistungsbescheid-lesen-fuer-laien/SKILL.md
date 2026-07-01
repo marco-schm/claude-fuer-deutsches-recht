@@ -1,6 +1,6 @@
 ---
 name: leistungsbescheid-lesen-fuer-laien
-description: "Krankenversicherungs-Bescheide verständlich erklärt: Aufbau, Ablehnungsgründe, Rechtsbehelfsbelehrung und konkrete nächste Schritte für Betroffene ohne Rechtskenntnisse im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..."
+description: "Wenn es um Leistungsbescheid lesen für Laien in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leistungsbescheid lesen für Laien

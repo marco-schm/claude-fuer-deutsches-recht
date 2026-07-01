@@ -1,6 +1,6 @@
 ---
 name: fruehere-soldaten-und-erneute-heranziehung
-description: "Prüft Rechtsschutzinteresse früherer Soldaten wegen möglicher erneuter Heranziehung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Frühere Soldaten in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frühere Soldaten

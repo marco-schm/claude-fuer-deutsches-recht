@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Gewerblicher Rechtsschutz (allgemein): wählt den nächsten Spezial-Skill nach Engpass (Markenwiderspruch 3 Monate, Markenregisterauszug, Patentschrift, Geschmacksmusterurkunde), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Anschluss-Routing

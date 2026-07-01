@@ -1,6 +1,6 @@
 ---
 name: tierschg-grundsatz-haltung-betreuung
-description: "Tierschutzrecht: TierSchG-Grundsatz und Leiden prüfen. TierSchG-Grundsatz und Leiden prüfen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht."
+description: "Wenn es um Tierschg Grundsatz Und Leiden Prüfen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tierschg Grundsatz Und Leiden Prüfen

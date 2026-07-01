@@ -1,6 +1,6 @@
 ---
 name: sektor-cloud-infrastruktur-hyperscaler
-description: "Sektor Cloud-Infrastruktur und Hyperscaler: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, B..."
+description: "Wenn es um Sektor Cloud-Infrastruktur und Hyperscaler in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sektor Cloud-Infrastruktur und Hyperscaler

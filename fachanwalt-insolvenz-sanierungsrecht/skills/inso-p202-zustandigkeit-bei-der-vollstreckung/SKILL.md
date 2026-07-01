@@ -1,6 +1,6 @@
 ---
 name: inso-p202-zustandigkeit-bei-der-vollstreckung
-description: "§ 202 InsO (Zuständigkeit bei der Vollstreckung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 202 InsO (Zuständigkeit bei der Vollstreckung) im Mandat prüfen: Normzweck, Tatbestand, Bel..."
+description: "Wenn es um Inso P202 Zustandigkeit Bei Der Vollstreckung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 202 InsO (Zuständigkeit bei der Vollstreckung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

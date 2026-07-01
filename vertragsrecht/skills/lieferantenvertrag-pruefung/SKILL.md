@@ -1,6 +1,6 @@
 ---
 name: lieferantenvertrag-pruefung
-description: "Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Playbook der Rechtsabteilung. Werk-/Dienstvertrag (§§ 631 und 611 BGB), Gewährleistung, Haftungsbegrenzung, LkSG-Anforderungen, CISG-Abwahl. Abweichungen werden mit Schweregrad, Redline und Eskalations-Empfehlung aufgefüh..."
+description: "Wenn es um Lieferanten-/Dienstleistervertrag-Prüfung in Vertragsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Lieferanten-/Dienstleistervertrag-Prüfung

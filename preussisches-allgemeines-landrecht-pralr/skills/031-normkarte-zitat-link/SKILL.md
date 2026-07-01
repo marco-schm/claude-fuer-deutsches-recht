@@ -1,6 +1,6 @@
 ---
 name: 031-normkarte-zitat-link
-description: "PrALR: Normkarte Zitat mit Link zum Digitalisat: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Normkarte Zitat mit Link zum Digitalisat in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Normkarte Zitat mit Link zum Digitalisat

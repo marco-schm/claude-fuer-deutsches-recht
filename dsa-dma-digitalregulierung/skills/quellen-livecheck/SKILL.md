@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Quellen-Live-Check für DSA/DMA Digitalregulierung: prüft Normen (DSA EU 2022/2065, DMA EU 2022/1925, P2B EU 2019/1150) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt EU-Kommission und Quellenhygiene nach references/quellenhygiene.md."
+description: "Wenn es um Rechtsquellen-Livecheck in DSA, DMA und Digitalregulierung der EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsquellen-Livecheck

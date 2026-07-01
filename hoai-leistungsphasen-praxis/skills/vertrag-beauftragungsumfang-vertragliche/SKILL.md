@@ -1,6 +1,6 @@
 ---
 name: vertrag-beauftragungsumfang-vertragliche
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsph..."
+description: "Wenn es um LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Ordnet vertrag in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Ordnet vertrag

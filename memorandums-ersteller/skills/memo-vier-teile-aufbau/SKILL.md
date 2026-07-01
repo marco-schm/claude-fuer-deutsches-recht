@@ -1,6 +1,6 @@
 ---
 name: memo-vier-teile-aufbau
-description: "Vier-Teile-Memo aufbauen: 1 Sachverhalt, 2 Rechtsfragen, 3 Prüfung mit Subsumtion, 4 Ergebnis und Handlungsempfehlung. Jede Sektion mit Mindestumfang und Pflicht-Inhalten. Beispiel-Geruest für Mandanten-Memo und für kanzleiinternes Junior-Senior-Memo im Memorandums Ersteller."
+description: "Wenn es um Memo: Vier-Teile-Aufbau in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Memo: Vier-Teile-Aufbau

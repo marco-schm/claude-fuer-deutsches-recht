@@ -1,6 +1,6 @@
 ---
 name: betrieblichen-drei-duesseldorfer-sonderfall
-description: "Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage

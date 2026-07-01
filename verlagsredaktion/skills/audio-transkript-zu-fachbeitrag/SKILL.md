@@ -1,6 +1,6 @@
 ---
 name: audio-transkript-zu-fachbeitrag
-description: "Destilliert einen Audio-Vortrag oder ein freies Diktat zu einem zitierfaehigen Fachbeitrag für juristische Fachzeitschriften und Sammelbaende im Verlagsredaktion."
+description: "Wenn es um Audio-Transkript zu Fachbeitrag in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Audio-Transkript zu Fachbeitrag

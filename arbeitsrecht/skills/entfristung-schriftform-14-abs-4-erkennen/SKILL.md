@@ -1,6 +1,6 @@
 ---
 name: entfristung-schriftform-14-abs-4-erkennen
-description: "Prüft Befristungsabreden nach Paragraf 14 Absatz 4 TzBfG auf zwingende Schriftform: Papierunterschrift oder qualifizierte elektronische Signatur, keine E-Mail, kein Scan, keine einfache Signatur; Rechtsfolge Paragraf 16 TzBfG und Klagefrist Paragraf 17 TzBfG."
+description: "Wenn es um Entfristung wegen Schriftformmangel nach Paragraf 14 Absatz 4 TzBfG in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Entfristung wegen Schriftformmangel nach Paragraf 14 Absatz 4 TzBfG

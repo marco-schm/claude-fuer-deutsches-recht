@@ -1,6 +1,6 @@
 ---
 name: verbatim-transcript-video-hearing
-description: "Plant das Wortprotokoll/verbatim transcript: Antrag, Kosten, Verhandlungsstrategie, Korrektur, Zitierfähigkeit und Nutzung im Rechtsmittel im Commercial Courts Deutschland."
+description: "Wenn es um Verbatim Transcript in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Verbatim Transcript

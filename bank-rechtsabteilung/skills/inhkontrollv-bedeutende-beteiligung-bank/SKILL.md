@@ -1,6 +1,6 @@
 ---
 name: inhkontrollv-bedeutende-beteiligung-bank
-description: "Inhaberkontrollverfahren bei Banken: bedeutende Beteiligung, mittelbare Kontrolle, Erwerberkette, Finanzierung, Zuverlässigkeit, Schwellen, Übersetzungen, Closing-Condition und BaFin-/Bundesbank-Dealfahrplan prüfen im Bank-Rechtsabteilung."
+description: "Wenn es um InhKontrollV: Bedeutende Beteiligung an Banken in Bank-Rechtsabteilung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # InhKontrollV: Bedeutende Beteiligung an Banken

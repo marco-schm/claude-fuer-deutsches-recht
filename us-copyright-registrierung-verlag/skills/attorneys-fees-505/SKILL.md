@@ -1,6 +1,6 @@
 ---
 name: attorneys-fees-505
-description: "Prüft Fee-Shifting-Risiko, prevailing party, objective reasonableness und Vergleichsdruck im US-Copyright-Prozess im Us Copyright Registrierung Verlag."
+description: "Wenn es um Attorney’s Fees Paragraf 505 in US Copyright Act und Registrierung für deutsche Verlage geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Attorney’s Fees § 505

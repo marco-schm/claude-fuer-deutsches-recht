@@ -1,6 +1,6 @@
 ---
 name: kanzlei-formular-portal-und-einreichung
-description: "Kanzlei: Formular, Portal und Einreichungslogik: Kanzlei: Formular, Portal und Einreichungslogik."
+description: "Wenn es um Kanzlei: Formular, Portal und Einreichungslogik in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kanzlei: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: agb-formulararbeitsvertrag-305ff-bgb
-description: "Branchen-Fachmodul für Formulararbeitsvertrag: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Wenn es um Formulararbeitsvertrag in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Agb Formulararbeitsvertrag 305ff BGB; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Formulararbeitsvertrag

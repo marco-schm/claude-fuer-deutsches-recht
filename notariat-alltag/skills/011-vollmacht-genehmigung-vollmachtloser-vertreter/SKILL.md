@@ -1,6 +1,6 @@
 ---
 name: 011-vollmacht-genehmigung-vollmachtloser-vertreter
-description: "Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertreter und Nachgenehmigung. Formvoraussetzungen, Prüfung der Vertretungsmacht, Wirkung der Genehmigung und Schwebende Unwirksamkeit nach § 177 BGB im Notariat."
+description: "Wenn es um Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertreter, Nachgenehmigung in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertreter, Nachgenehmigung

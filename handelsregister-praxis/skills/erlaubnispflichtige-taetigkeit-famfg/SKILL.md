@@ -1,6 +1,6 @@
 ---
 name: erlaubnispflichtige-taetigkeit-famfg
-description: "Prüft KWG, ZAG, GewO, Handwerk, Arbeitnehmerüberlassung und ob das Registergericht Nachweise verlangen kann im Handelsregister Praxis."
+description: "Wenn es um Erlaubnispflichten und Register in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erlaubnispflichten und Register

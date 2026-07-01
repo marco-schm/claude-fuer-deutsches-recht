@@ -1,6 +1,6 @@
 ---
 name: oew-021-schulbau-oepp-organisationsform-pruefe
-description: "Öffentliches Wirtschaftsrecht: Schulbau-ÖPP: Organisationsform prüfen. Organisationsform prüfen für Schulbau-ÖPP im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schulbau Oepp Organisationsform Pruefe in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulbau Oepp Organisationsform Pruefe

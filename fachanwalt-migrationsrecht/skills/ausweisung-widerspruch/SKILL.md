@@ -1,6 +1,6 @@
 ---
 name: ausweisung-widerspruch
-description: "Mandant erhielt Ausweisungsverfuegung und will Widerspruch oder Klage einlegen oder Rechtsschutz beantragen: Prüfraster § 53 AufenthG Ausweisung Ref..."
+description: "Wenn es um Ausweisung Widerspruch in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Mandant erhielt Ausweisungsverfuegung und will Widerspruch oder Klage einlegen oder Rechtsschutz beantragen

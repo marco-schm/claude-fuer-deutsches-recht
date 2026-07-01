@@ -1,6 +1,6 @@
 ---
 name: fracht-und-konnossement
-description: "Spediteur oder Befrachter prüft Konnossement: HGB §§ 513-525 (Ausstellung; Inhalt; Übergabe); Haftungsgrenzen HGB §§ 498-510; Hague-Visby/Hamburg Rules für internationalen Transport. Reine vs. geklauselte Konnossemente; On-Board-Notation; einjährige Ausschlussfrist (HGB § 606). Output: Konnosse..."
+description: "Wenn es um Fracht und Konnossement – Prüfung und Schadensabwicklung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fracht und Konnossement – Prüfung und Schadensabwicklung

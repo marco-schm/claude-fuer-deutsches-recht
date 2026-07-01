@@ -1,6 +1,6 @@
 ---
 name: bericht-betreuer-betreuerpflichten
-description: "Bericht: Mandantenkommunikation und Entscheidungsvorlage im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Bericht: Mandantenkommunikation und Entscheidungsvorlage in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bericht Betreuer Betreuerpflichten; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Bericht: Mandantenkommunikation und Entscheidungsvorlage

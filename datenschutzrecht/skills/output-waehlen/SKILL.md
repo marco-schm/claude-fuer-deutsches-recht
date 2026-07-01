@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Datenschutzrecht DSGVO/BDSG: stimmt Adressat (Verantwortlicher, Auftragsverarbeiter, Betroffener), Frist (Art. 33 Meldung 72h) und Form auf den Zweck ab — typische Outputs: DSFA, TOM-Liste, Auskunfts-Antwort Art. 15."
+description: "Wenn es um Output wählen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: verhandlung-landpacht-schlichtung
-description: "Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe und muessen Einigung außergerichtlich versuchen: Prüfraster Pachtvertrags-Vergleich LPacht..."
+description: "Wenn es um Verhandlung Landpacht Schlichtung in Fachanwalt Agrarrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe und müssen Einigung außergerichtlich versuchen

@@ -1,6 +1,6 @@
 ---
 name: anwaltsschriftsatz-beweislast-beweismittel
-description: "Anwaltsschriftsatz: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Anwaltsschriftsatz: Beweislast, Darlegungslast und Substantiierung in aktenauszug-gerichtsverfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anwaltsschriftsatz: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: bautraeger-haftungsausschluss-307-bgb
-description: "Bautraeger-Haftungsausschluss und § 307 BGB: Skill klaert welche Haftungsklauseln im Bautraegervertrag wirksam und welche unwirksam sind insbesondere Maengelausschluss Haftungsbegrenzung Kardinalpflichten-Verletz..."
+description: "Wenn es um Bautraeger-Haftungsausschluss und Paragraf 307 BGB in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bautraeger-Haftungsausschluss und § 307 BGB

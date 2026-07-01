@@ -1,6 +1,6 @@
 ---
 name: fortlaufend-luecken-personenverzeichnis
-description: "Fortlaufend: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Fortlaufend: Internationaler Bezug und Schnittstellen in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fortlaufend: Internationaler Bezug und Schnittstellen

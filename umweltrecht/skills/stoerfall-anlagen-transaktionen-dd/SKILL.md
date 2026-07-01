@@ -1,6 +1,6 @@
 ---
 name: stoerfall-anlagen-transaktionen-dd
-description: "Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will DEHSt-Anordnung abwehren. Normen BImSchG 12. BImSchV Stoerfallverordnung Seveso-III-RL. Prüfraster Stoerfallrelevanz-Prüfung Sicherheitsbericht Betreiberpflichten Sicherheitsabstaende Bauleitplanung. Output Sicherheitsb..."
+description: "Wenn es um Stoerfall, Anlagenbetrieb und Betreiberpflichten in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stoerfall, Anlagenbetrieb und Betreiberpflichten

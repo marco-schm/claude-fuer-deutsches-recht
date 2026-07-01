@@ -1,6 +1,6 @@
 ---
 name: qualitaetskontrolle-und-inspektion-organisat
-description: "Wirtschaftsprüfer: qualitaetskontrolle und inspektion - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Qualitaetskontrolle Und Inspektion Organisat in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: qualitaetskontrolle und inspektion - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

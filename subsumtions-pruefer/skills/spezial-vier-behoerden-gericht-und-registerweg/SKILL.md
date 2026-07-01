@@ -1,6 +1,6 @@
 ---
 name: spezial-vier-behoerden-gericht-und-registerweg
-description: "Vier: Behörden-, Gerichts- oder Registerweg im Plugin subsumtions pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Vier: Behörden-, Gerichts- oder Registerweg in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vier: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-frequenzauktion-stellungnahme-entwurf
-description: "Frequenzauktion: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren."
+description: "Wenn es um TK-Regulierungsakte: Frequenzauktion — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # TK-Regulierungsakte: Frequenzauktion — Stellungnahme-Entwurf

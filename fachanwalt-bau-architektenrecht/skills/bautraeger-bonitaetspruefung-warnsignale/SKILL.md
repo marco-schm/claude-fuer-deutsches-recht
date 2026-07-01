@@ -1,6 +1,6 @@
 ---
 name: bautraeger-bonitaetspruefung-warnsignale
-description: "Bautraeger-Bonitaetspruefung Warnsignale: Skill listet typische Warnsignale Mangelbild im Bau Verzoegerungen Personalfluktuation und gibt strategische Empfehlungen ob mit Vertrag fortzufahren. Liefert Risiko-Cockpit."
+description: "Wenn es um Bautraeger-Bonitaetspruefung Warnsignale in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Bautraeger-Bonitaetspruefung Warnsignale

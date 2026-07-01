@@ -1,6 +1,6 @@
 ---
 name: ehrenamtspauschale-uebungsleiter
-description: "Erklärt steuerfreie Pauschalen, Voraussetzungen, Dokumentation, Kombination und Grenzen im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Ehrenamtspauschale und Übungsleiter in Vereinsrecht und Vereinsmanager geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Ehrenamtspauschale und Übungsleiter

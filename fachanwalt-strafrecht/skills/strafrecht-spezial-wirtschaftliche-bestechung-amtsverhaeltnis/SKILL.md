@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-wirtschaftliche-bestechung-amtsverhaeltnis
-description: "Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen taetig wird: Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung we..."
+description: "Wenn es um Strafrecht Spezial Wirtschaftliche Bestechung Amtsverhaeltnis in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen tätig wird

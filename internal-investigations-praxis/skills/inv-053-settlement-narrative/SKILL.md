@@ -1,6 +1,6 @@
 ---
 name: inv-053-settlement-narrative
-description: "Spezialskill fuer Settlement Narrative: Scope, Beweissicherung, Interviews, Datenschutz, Privilege-Risiko, Bericht und Verteidigungsstrategie."
+description: "Wenn es um Internal Investigation: Settlement Narrative in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internal Investigation: Settlement Narrative

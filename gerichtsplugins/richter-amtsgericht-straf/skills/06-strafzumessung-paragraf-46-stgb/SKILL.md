@@ -1,6 +1,6 @@
 ---
 name: 06-strafzumessung-paragraf-46-stgb
-description: "Strafzumessung Paragraf 46 StGB: Schuld als Grundlage, Strafzumessungstatsachen, Strafrahmen, Strafmilderung Paragrafen 49 49a, Strafaussetzung Paragraf 56, Bewaehrungsauflagen"
+description: "Wenn es um 06 Strafzumessung Paragraf 46 Stgb in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 06 Strafzumessung Paragraf 46 Stgb

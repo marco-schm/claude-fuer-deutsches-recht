@@ -1,6 +1,6 @@
 ---
 name: it-freelancer
-description: "Solo-Selbstständige: prüft Projektvertrag, Code-Rechte, Scheinselbstständigkeit, Datenschutz und Open Source; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Branchenfälle: Prüft projektvertrag in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Branchenfälle: Prüft projektvertrag

@@ -1,6 +1,6 @@
 ---
 name: planfeststellung-strasse-plangenehmigung
-description: "Straßenrecht und Infrastruktur: Planfeststellung Straße. Planfeststellung Straße im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fris..."
+description: "Wenn es um Planfeststellung Strasse in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Planfeststellung Strasse

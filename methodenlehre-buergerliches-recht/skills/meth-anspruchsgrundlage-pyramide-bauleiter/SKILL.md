@@ -1,6 +1,6 @@
 ---
 name: meth-anspruchsgrundlage-pyramide-bauleiter
-description: "Leitet durch die methodisch korrekte Aufbereitung und Prüfung von Anspruchsgrundlagen im Bau- und Architektenrecht nach dem Pyramidenprinzip. Das Skill hilft, im komplexen Bauleitungsrecht vertragliche, deliktische und bereicherungsrechtliche Ansprüche systematisch zu entwickeln und nach Rang und..."
+description: "Wenn es um Anspruchsgrundlagen-Pyramide im Bauleitungsrecht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anspruchsgrundlagen-Pyramide im Bauleitungsrecht

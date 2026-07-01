@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-parteiformalien
-description: "Erzeugt zweisprachige Erklärungen von Formalien für Mitglieder mit anderer Herkunftssprache, ohne Rechtsinhalt zu verfälschen."
+description: "Wenn es um Mehrsprachige Parteiformalien in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mehrsprachige Parteiformalien

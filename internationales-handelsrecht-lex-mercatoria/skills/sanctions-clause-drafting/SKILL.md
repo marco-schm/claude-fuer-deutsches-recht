@@ -1,6 +1,6 @@
 ---
 name: sanctions-clause-drafting
-description: "Internationales Handelsrecht: Sanktionsklauseln in internationalen Verträgen. Force-Majeure-Abgrenzung, Kündigungsrecht bei Sanktionierung einer Partei, OFAC-Compliance-Klauseln, EU-Blocking-Statute-Konflikt und Formulierungsempfehlungen im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Sanktionsklauseln in internationalen Verträgen in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanktionsklauseln in internationalen Verträgen

@@ -1,6 +1,6 @@
 ---
 name: grundbuchantrag-rangstelle-notarielle
-description: "Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung und Nachreichung. GBO-Verfahren, Antragsgrundsatz, Rangprinzip, typische Beanstandungen und fristgerechte Nachreichung im Notariat."
+description: "Wenn es um Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung, Nachreichung in Notariat im Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung, Nachreichung

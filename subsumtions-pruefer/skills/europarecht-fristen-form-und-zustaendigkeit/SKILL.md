@@ -1,6 +1,6 @@
 ---
 name: europarecht-fristen-form-und-zustaendigkeit
-description: "Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg im Subsumtions Prüfer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg
@@ -78,4 +78,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 2. **Rechtsrahmen setzen:** EU-Zuständigkeit, Fristen, Formfragen und Verfahrensstand prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills vorschlagen (z. B. eu-vorabentscheidung-pruefen, de-eu-recht-abgrenzung).
+5. **Anschluss bauen:** Passende weitere Skills vorschlagen (z. B. eu-vorabentscheidung-falsche-wiese, de-eu-recht-abgrenzung).

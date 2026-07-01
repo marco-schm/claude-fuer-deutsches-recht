@@ -1,6 +1,6 @@
 ---
 name: schulgeld-ersatzschule
-description: "Prüft Schulgeld, Sonderungsverbot, Ersatzschule und Vertragsgestaltung im Schulrecht Länder."
+description: "Wenn es um Schulgeld Ersatzschule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulgeld Ersatzschule

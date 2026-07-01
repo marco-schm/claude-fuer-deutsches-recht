@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Mietrecht (Wohnraum/Gewerbe): trennt fehlende Tatsachen von fehlenden Belegen (Mietvertrag, Nebenkostenabrechnung, Mängelanzeige), nennt pro Lücke Beweisthema, Beschaffungsweg (Amtsgericht Belegenheit), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

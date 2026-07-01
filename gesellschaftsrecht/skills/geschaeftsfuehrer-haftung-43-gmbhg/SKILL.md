@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrer-haftung-43-gmbhg
-description: "Prüft Geschäftsführerhaftung mit Pflichtverletzung, Business Judgment, Insolvenzreife, Zahlungsverbot, Steuer- und Sozialabgabenrisiko, D&O und Verjährung."
+description: "Wenn es um Geschäftsführer-Haftung Paragraf 43 GmbHG prüfen in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Geschäftsführer-Haftung Paragraf 43 GmbHG prüfen

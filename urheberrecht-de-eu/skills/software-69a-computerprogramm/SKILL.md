@@ -1,6 +1,6 @@
 ---
 name: software-69a-computerprogramm
-description: "Prüft Software, Quellcode, Objektcode, GUI, API, Datenformat, Funktionalitaet, Interoperabilitaet und Dekompilierung im Urheberrecht De Eu."
+description: "Wenn es um Computerprogramm nach Paragrafen 69a ff. UrhG in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Computerprogramm nach §§ 69a ff. UrhG

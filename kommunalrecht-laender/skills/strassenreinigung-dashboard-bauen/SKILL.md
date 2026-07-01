@@ -1,6 +1,6 @@
 ---
 name: strassenreinigung-dashboard-bauen
-description: "der Länder: Straßenreinigung: Dashboard bauen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Strassenreinigung Dashboard Bauen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strassenreinigung Dashboard Bauen

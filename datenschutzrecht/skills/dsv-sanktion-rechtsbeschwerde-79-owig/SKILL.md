@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-rechtsbeschwerde-79-owig
-description: "Datenschutzrecht-Brückenskill: Rechtsbeschwerde § 79 OWiG: Rechtsbeschwerde, Zulassung, Verfahrensrügen und unionsrechtliche Vorlagefragen prüfen: Datenschutzrecht-Brückenskill: Rechtsbeschwerde § 79 OWiG: Rechtsbeschwerde, Zulassung, Verfahrensrügen und un..."
+description: "Wenn es um Dsv Sanktion Rechtsbeschwerde 79 Owig in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Rechtsbeschwerde § 79 OWiG: Rechtsbeschwerde, Zulassung, Verfahrensrügen und unionsrechtliche Vorlagefragen prüfen

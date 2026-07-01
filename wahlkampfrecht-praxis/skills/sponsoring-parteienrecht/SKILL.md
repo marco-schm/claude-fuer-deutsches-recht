@@ -1,6 +1,6 @@
 ---
 name: sponsoring-parteienrecht
-description: "Wahlkampfrecht Praxis: Sponsoring, Anzeigen, Messestaende und geldwerte Vorteile prüfen im Wahlkampfrecht."
+description: "Wenn es um Sponsoring Parteienrecht in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sponsoring Parteienrecht

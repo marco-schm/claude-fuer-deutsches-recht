@@ -1,6 +1,6 @@
 ---
 name: presse-mandantenkommunikation-entscheidungsvorlage
-description: "Presse: Mandantenkommunikation und Entscheidungsvorlage: Presse: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Wenn es um Presse: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Presse: Mandantenkommunikation und Entscheidungsvorlage

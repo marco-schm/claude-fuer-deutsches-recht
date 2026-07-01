@@ -1,6 +1,6 @@
 ---
 name: landpacht-und-hoferbfolge-pruefen
-description: "Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen oder Erbfolge auf dem Hof nach HoefeO: Prüfraster Landpachtvertrag §§ 585 ff. BGB Pachtvertragsanzeige..."
+description: "Wenn es um Landpacht Und Hoferbfolge Pruefen in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen oder Erbfolge auf dem Hof nach HoefeO

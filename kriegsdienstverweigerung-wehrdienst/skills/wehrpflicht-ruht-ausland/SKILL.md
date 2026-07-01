@@ -1,6 +1,6 @@
 ---
 name: wehrpflicht-ruht-ausland
-description: "Prüft Ruhen der Wehrpflicht bei ständiger Lebensgrundlage im Ausland im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Ruhen der Wehrpflicht Ausland in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ruhen der Wehrpflicht Ausland

@@ -1,6 +1,6 @@
 ---
 name: ihl-010-rom-i-und-rechtswahl
-description: "Internationales Handelsrecht und Lex Mercatoria: Rom I Und Rechtswahl. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Rom I Und Rechtswahl in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom I Und Rechtswahl

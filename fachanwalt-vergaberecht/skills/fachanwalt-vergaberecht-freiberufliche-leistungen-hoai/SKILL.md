@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-freiberufliche-leistungen-hoai
-description: "Vergabe freiberuflicher Leistungen (Architekten, Ingenieure, Rechtsanwaelte, Wirtschaftspruefer): Auftraggeber will HOAI- und vergaberechtskonform vergeben. Normen: § 50 VgV (Freiberufliche Leistungen), §§ 73 ff. VgV (Planungswettbewerb), HOAI 2021 (nach EuGH C-377/17 BGH VII ZR 174/19 als Orientierung), RPW 2013. Pruefraster: Verfahrenswahl Verhandlungsverfahren mit/ohne TW, Honorar als Wertungskriterium, Mindest- und Hoechstsaetze nach EuGH-Entscheidung, Planungswettbewerb RPW. Output Verfahrensentwurf, Honorar-Wertungsmodul. Abgrenzung: Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema."
+description: "Wenn es um Freiberufliche Leistungen (Paragraf 50 VgV) in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Freiberufliche Leistungen (§ 50 VgV)

@@ -1,6 +1,6 @@
 ---
 name: praemiensparvertrag-zinsanpassung-bgh-xi-zr-234-20
-description: "Praemiensparvertrag variable Verzinsung mit BGH XI ZR 234/20 und Bundesbank-Referenzzins WX4260."
+description: "Wenn es um Praemiensparvertrag Zinsanpassung BGH Xi Zr 234 20 in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Praemiensparvertrag Zinsanpassung BGH Xi Zr 234 20

@@ -1,6 +1,6 @@
 ---
 name: cic-can-0145
-description: "CIC can. 145: Normnavigator fuer Buch I - Allgemeine Normen (can. 1-203); amtlichen Canon-Text live pruefen, Tatbestand, Zuständigkeit, Partikularrecht, Katechismusbezug und pastorale Ausgabe sauber trennen."
+description: "Wenn es um CIC can. 145 - Buch I - Allgemeine Normen in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # CIC can. 145 - Buch I - Allgemeine Normen

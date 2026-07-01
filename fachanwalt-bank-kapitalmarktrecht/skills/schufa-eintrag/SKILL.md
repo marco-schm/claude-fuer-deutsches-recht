@@ -1,6 +1,6 @@
 ---
 name: schufa-eintrag
-description: "Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag: ordnet Normen, Nutzerangaben, Fristen, Belege un..."
+description: "Wenn es um Schufa Eintrag in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

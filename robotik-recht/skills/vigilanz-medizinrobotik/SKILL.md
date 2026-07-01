@@ -1,6 +1,6 @@
 ---
 name: vigilanz-medizinrobotik
-description: "Prüft Vigilanz und Post-Market Surveillance für Medizinrobotik nach MDR und nationalem Medizinprodukterecht."
+description: "Wenn es um Vigilanz Medizinrobotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vigilanz Medizinrobotik; Arbeitsfeld: robotik-recht."
 ---
 
 # Vigilanz Medizinrobotik

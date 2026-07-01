@@ -1,6 +1,6 @@
 ---
 name: risk-acceptance-memo
-description: "Output- und Streit-Skill für Risk Acceptance Memo: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen."
+description: "Wenn es um Risk Acceptance Memo in AGB-Recht-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Risk Acceptance Memo

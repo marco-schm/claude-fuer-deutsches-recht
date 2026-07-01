@@ -1,6 +1,6 @@
 ---
 name: magister-navis-und-mehrere-reeder
-description: "Magister navis und Mehrfachreederschaft im roemischen Seerecht. Skill behandelt die rechtliche Stellung des Schiffskapitaens bei mehreren Reedern (exercitores) Beschluss- und Vertretungsregeln Gesamtschuldnerschaft und Innenausgleich. Liefert Quellenmatrix."
+description: "Wenn es um Rom 127 Magister Navis Und Mehrere Reeder in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 127 Magister Navis Und Mehrere Reeder

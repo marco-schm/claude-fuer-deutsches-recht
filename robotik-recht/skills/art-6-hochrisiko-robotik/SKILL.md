@@ -1,6 +1,6 @@
 ---
 name: art-6-hochrisiko-robotik
-description: "Prüft Hochrisiko-KI nach Art. 6 KI-VO bei Sicherheitskomponente, Produktregime oder Anhang-III-Einsatz im Robotik-Recht."
+description: "Wenn es um Art. 6 Hochrisiko Robotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Art 6 Hochrisiko Robotik; Arbeitsfeld: robotik-recht."
 ---
 
 # Art. 6 Hochrisiko Robotik

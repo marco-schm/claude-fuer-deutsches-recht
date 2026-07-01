@@ -1,6 +1,6 @@
 ---
 name: spezial-schadensersatz-abschlussprodukt-und-uebergabe
-description: "Schadensersatz: Abschlussprodukt und Übergabe im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Schadensersatz: Abschlussprodukt und Übergabe in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schadensersatz: Abschlussprodukt und Übergabe

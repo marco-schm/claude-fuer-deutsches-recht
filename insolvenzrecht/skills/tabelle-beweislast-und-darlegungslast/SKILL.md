@@ -1,6 +1,6 @@
 ---
 name: tabelle-beweislast-und-darlegungslast
-description: "Tabelle: Beweislast, Darlegungslast und Substantiierung im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
+description: "Wenn es um Tabelle: Beweislast, Darlegungslast und Substantiierung in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tabelle: Beweislast, Darlegungslast und Substantiierung

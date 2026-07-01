@@ -1,6 +1,6 @@
 ---
 name: bund-widerspruch-bauen-klage-vorbereiten-presseantwort
-description: "Informationsfreiheit und Presseauskunft: IFG Bund: Widerspruch bauen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Ifg Bund Widerspruch Bauen in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ifg Bund Widerspruch Bauen

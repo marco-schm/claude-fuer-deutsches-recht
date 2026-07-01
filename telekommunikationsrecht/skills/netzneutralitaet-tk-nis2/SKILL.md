@@ -1,6 +1,6 @@
 ---
 name: netzneutralitaet-tk-nis2
-description: "Netzneutralität: Zero-Rating, Priorisierung, Drosselung, Spezialdienste, Traffic Management und Beschwerde-/Abmahnrisiken im Telekommunikationsrecht."
+description: "Wenn es um Netzneutralität, Zero-Rating und Drosselung in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Netzneutralität, Zero-Rating und Drosselung

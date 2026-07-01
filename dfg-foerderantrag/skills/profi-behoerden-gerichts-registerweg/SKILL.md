@@ -1,6 +1,6 @@
 ---
 name: profi-behoerden-gerichts-registerweg
-description: "Profi: Behörden-, Gerichts- oder Registerweg im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. We..."
+description: "Wenn es um Profi: Behörden-, Gerichts- oder Registerweg in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Profi: Behörden-, Gerichts- oder Registerweg

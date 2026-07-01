@@ -1,6 +1,6 @@
 ---
 name: chapter15-recognition
-description: "Prüft recognition of foreign proceedings, foreign main/nonmain, COMI, foreign representative and relief im US Bankruptcy Code."
+description: "Wenn es um Chapter 15 Recognition in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chapter 15 Recognition

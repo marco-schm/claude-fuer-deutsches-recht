@@ -1,6 +1,6 @@
 ---
 name: presse-und-richtigstellung
-description: "Bereitet formal saubere Pressekorrespondenz, Richtigstellung und Trennung von Partei/Fraktion/Kandidat vor."
+description: "Wenn es um Presse und Richtigstellung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Presse und Richtigstellung

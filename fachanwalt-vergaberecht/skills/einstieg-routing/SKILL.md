@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Vergaberecht: ordnet Rolle (Bieter, Öffentlicher Auftraggeber, Vergabekammer), markiert Frist (§ 160 III GWB Rüge unverzüglich (10 Tage)), wählt Norm (GWB §§ 97 ff., VgV, VOB/A, VOL/A, UVgO) und Zuständigkeit (Vergabekammer Bund/Länder), leitet zum pass..."
+description: "Wenn es um Einstieg und Routing in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

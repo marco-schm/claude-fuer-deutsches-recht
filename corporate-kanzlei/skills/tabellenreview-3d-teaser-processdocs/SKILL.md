@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-3d-teaser-processdocs
-description: "Strukturierte Datentabellen aus M&A-Datenräumen prüfen und qualitaetssichern: Vertragslisten, Litigation-Tracker, IP-Register, HR-Listen auf Luecken, Inkonsistenzen und Offenlegungsrisiken. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis, AktG §§ 91 ff. (Compliance). Prüfraster: Vollständigkeit je Ka"
+description: "Wenn es um Tabellenreview 3D-Datenraum in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tabellenreview 3d Teaser Processdocs; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # Tabellenreview 3D-Datenraum

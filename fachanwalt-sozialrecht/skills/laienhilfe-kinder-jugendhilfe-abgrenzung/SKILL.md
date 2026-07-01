@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-kinder-jugendhilfe-abgrenzung
-description: "Laienverstaendlicher Sozialrechts-Skill zu Kinder Jugendhilfe Abgrenzung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
+description: "Wenn es um Laienhilfe: Kinder Jugendhilfe Abgrenzung in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienhilfe: Kinder Jugendhilfe Abgrenzung

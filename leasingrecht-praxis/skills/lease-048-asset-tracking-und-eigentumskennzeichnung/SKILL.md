@@ -1,6 +1,6 @@
 ---
 name: lease-048-asset-tracking-und-eigentumskennzeichnung
-description: "Leasingrecht: Asset Tracking und Eigentumskennzeichnung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Asset Tracking und Eigentumskennzeichnung in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Asset Tracking und Eigentumskennzeichnung

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-bafa-genehmigungen
-description: "BAFA-Genehmigungsverfahren für Exporte und Dienstleistungen mit Genehmigungspflicht. Anwendungsfall Exporteur braucht BAFA-Ausfuhrgenehmigung für gueterlistenpflichtige Ware oder Technologie. Normen § 8 AWG Genehmigungspflicht EU-Dual-Use-Verordnung 2021/821 AWV §§ 8 ff. BAFA-Merkblatt. Prüfraster BAFA-Anträge Nullbescheide Auskuenfte ELAN-K2-Vorgaenge Empfaengeranfragen Rückfragen. Output Vollständige Antragsunterlagen mit Antragsbeschreibung Endverwendungserklärung und Vorgangsdokumentation. Abgrenzung zu aussenwirtschaft-exportkontrolle-dual-use und aussenwirtschaft-gueterlisten-klassifizierung."
+description: "Wenn es um BAFA-Genehmigungen und Anfragen in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BAFA-Genehmigungen und Anfragen

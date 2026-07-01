@@ -1,6 +1,6 @@
 ---
 name: studium-erstpruefung-und-mandatsziel
-description: "Studium: Erstprüfung, Rollenklärung und Mandatsziel im Jurastudium. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Studium: Erstprüfung, Rollenklärung und Mandatsziel in Jurastudium geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Studium: Erstprüfung, Rollenklärung und Mandatsziel

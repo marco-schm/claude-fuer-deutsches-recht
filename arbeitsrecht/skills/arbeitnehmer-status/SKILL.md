@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmer-status
-description: "Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach Paragraf 611a BGB, Scheinselbständigkeit, Clearingverfahren Paragraf 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs: Statusfeststellung für eine geplante Beschäftigung - Abgrenzu..."
+description: "Wenn es um Arbeitnehmer Status in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach Paragraf 611a BGB, Scheinselbständigkeit, Clearingverfahren Paragraf 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs

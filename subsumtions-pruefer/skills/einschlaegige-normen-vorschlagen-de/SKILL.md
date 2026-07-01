@@ -1,6 +1,6 @@
 ---
 name: einschlaegige-normen-vorschlagen-de
-description: "Schlaegt anhand eines Lebenssachverhalts einschlaegige Normen des deutschen Rechts vor: BGB, HGB, StGB, StPO, ZPO, VwGO, GG, AO, SGB und Nebengesetze. Gibt Prüfungsreihenfolge und Hinweise auf Spezialitaet und konkurrierende Anspruchsgrundlagen im Subsumtions Prüfer."
+description: "Wenn es um Einschlägige Normen vorschlagen — Deutsches Recht in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Einschlägige Normen vorschlagen — Deutsches Recht
@@ -79,7 +79,7 @@ Das System weist darauf hin, dass für die Auslegung der vorgeschlagenen Normen 
 
 **Schritt 5 — Normwahl durch Nutzer bestätigen**
 
-Das System listet Vorschläge auf und bittet den Nutzer, die zu prüfende Norm zu bestätigen oder eine andere Norm anzugeben. Erst nach Bestätigung wird die Norm in `norm-zerlegen-in-tatbestandsmerkmale` übergeben.
+Das System listet Vorschläge auf und bittet den Nutzer, die zu prüfende Norm zu bestätigen oder eine andere Norm anzugeben. Erst nach Bestätigung wird die Norm in `norm-zerlegen-mandantenbrief` übergeben.
 
 ## Grenzen
 

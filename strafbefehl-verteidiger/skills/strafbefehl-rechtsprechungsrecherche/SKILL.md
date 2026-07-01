@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-rechtsprechungsrecherche
-description: "Rechtsprechung zum Strafbefehlsverfahren recherchieren für Schriftsaetze oder Argumentation in der Hauptverhandlung. Prüfraster BGH OLG-Rspr zu §§ 407-412 StPO Einspruch Wiedereinsetzung Strafzumessung. Normen §§ 407 408 410 412 StPO. Datenbankrecherche juris beck-online OpenJur Suchstrategien No..."
+description: "Wenn es um Rechtsprechungsrecherche im Strafbefehlsverfahren in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Rechtsprechungsrecherche im Strafbefehlsverfahren

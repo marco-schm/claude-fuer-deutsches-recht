@@ -1,6 +1,6 @@
 ---
 name: leniency-marker-margin-squeeze-telekom
-description: "Leniency und Marker global: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kronzeugenprogramme, Marker, interne Untersuchung und Mehrjurisdiktionsstrategie koordinieren, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgren..."
+description: "Wenn es um Leniency und Marker global in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leniency und Marker global

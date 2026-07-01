@@ -1,6 +1,6 @@
 ---
 name: online-kommentar-update-spezial
-description: "Spezialfall Online-Kommentar und Update-Workflow: Versionierung, Rechtsprechungsmonitoring, Verlinkung. Prüfraster für Verlag und Hauptbearbeiter im Verlagsredaktion."
+description: "Wenn es um Verl: Online-Kommentar Update in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verl: Online-Kommentar Update

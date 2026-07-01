@@ -1,6 +1,6 @@
 ---
 name: ingenieur-rueckfragenliste
-description: "Erzeugt präzise Rückfragen an Technik, QM, Datenschutz, IT-Security, Vertrieb und Service, damit das Recht nicht im Nebel prüft."
+description: "Wenn es um Ingenieur-Rückfragenliste in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ingenieur-Rückfragenliste

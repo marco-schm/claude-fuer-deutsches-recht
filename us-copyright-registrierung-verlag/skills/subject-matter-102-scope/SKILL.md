@@ -1,6 +1,6 @@
 ---
 name: subject-matter-102-scope
-description: "Prüft Schutzgegenstand nach 17 USC 102: works of authorship, expression, fixation, exclusions und erste Weichen für Title 17 im Us Copyright Registrierung Verlag."
+description: "Wenn es um Subject Matter und Paragraf 102 Scope in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Subject Matter und § 102 Scope

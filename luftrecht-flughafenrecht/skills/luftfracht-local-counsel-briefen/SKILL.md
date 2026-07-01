@@ -1,6 +1,6 @@
 ---
 name: luftfracht-local-counsel-briefen
-description: "Deutsches Kanzleiteam muss ausländischen Anwalt für Luftfracht-Mandat briefen: Montreal Convention Haftung Gefahrgutvorfall oder Frachtführer-Insolvenz. Skill erstellt englisches Briefing-Memo mit Sachverhalt deutschem Recht und konkreten Fragen im Luftrecht Flughafenrecht."
+description: "Wenn es um Luftfracht – Local Counsel briefen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Luftfracht – Local Counsel briefen

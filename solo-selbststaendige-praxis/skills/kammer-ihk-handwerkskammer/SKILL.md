@@ -1,6 +1,6 @@
 ---
 name: kammer-ihk-handwerkskammer
-description: "Solo-Selbstständige: prüft IHK/HWK, freie Berufe und Handwerksrollenrisiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Anmeldung und Behörden: Prüft ihk/hwk in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anmeldung und Behörden: Prüft ihk/hwk

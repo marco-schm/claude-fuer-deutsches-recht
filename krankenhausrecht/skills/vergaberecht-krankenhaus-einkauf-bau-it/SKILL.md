@@ -1,6 +1,6 @@
 ---
 name: vergaberecht-krankenhaus-einkauf-bau-it
-description: "Vergaberecht Krankenhaus Einkauf Bau IT: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht."
+description: "Wenn es um Vergaberecht Krankenhaus Einkauf Bau IT in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vergaberecht Krankenhaus Einkauf Bau IT

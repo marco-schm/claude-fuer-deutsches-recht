@@ -1,6 +1,6 @@
 ---
 name: einstandspflicht-delcredere
-description: "Prüft die Delkredere-Haftung des Handelsvertreters nach § 86b HGB: Voraussetzungen einer wirksamen Delkrederehaftung, gesonderte Vergütung (Delkredereprovision), Haftungsumfang und -begrenzung, Formvorschriften sowie Abgrenzung von bloßer Inkassovollmacht und echter Ausfallhaftung im Handelsvertr..."
+description: "Wenn es um Delkredere-Haftung des Handelsvertreters nach Paragraf 86b HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Delkredere-Haftung des Handelsvertreters nach § 86b HGB

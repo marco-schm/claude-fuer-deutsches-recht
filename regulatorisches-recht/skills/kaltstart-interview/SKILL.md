@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Neues regulatorisches Mandat durch strukturiertes Erstgespraech aufnehmen. KWG WpHG DORA VAG GwG. Prüfraster: Branche Regulierungsrahmen Sachverhalt Fristen Pflichten Risiko. Output: Mandatssteckbrief Normenkarte fehlende Informationen. Abgrenzung: nicht für laufendes Mandat."
+description: "Wenn es um Ersteinrichtung – Regulatorisches Recht in Regulatorisches Recht – Plugin für deutsches geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ersteinrichtung – Regulatorisches Recht

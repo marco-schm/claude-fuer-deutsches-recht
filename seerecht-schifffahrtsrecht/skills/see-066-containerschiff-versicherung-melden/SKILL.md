@@ -1,6 +1,6 @@
 ---
 name: see-066-containerschiff-versicherung-melden
-description: "See- und Schifffahrtsrecht: Containerschiff: Versicherung melden. Versicherung melden für Containerschiff im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Containerschiff Versicherung Melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Containerschiff Versicherung Melden

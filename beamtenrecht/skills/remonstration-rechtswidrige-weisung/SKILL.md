@@ -1,6 +1,6 @@
 ---
 name: remonstration-rechtswidrige-weisung
-description: "Remonstration bei rechtswidriger Weisung: Pflichten, Ablauf, Dokumentation und Schutz des Beamten im Beamtenrecht."
+description: "Wenn es um Remonstration Rechtswidrige Weisung in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Remonstration Rechtswidrige Weisung

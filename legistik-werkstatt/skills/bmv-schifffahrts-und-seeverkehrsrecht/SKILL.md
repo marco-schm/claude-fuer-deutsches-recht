@@ -1,6 +1,6 @@
 ---
 name: bmv-schifffahrts-und-seeverkehrsrecht
-description: "Sachbereich Schifffahrts- und Seeverkehrsrecht im Geschäftsbereich BMV: Normbestand (SeeAufgG; SchSG; BinSchG; SeeFischG; Marpol-Ausfuehrungsgesetze.); Akteure (BSH; BG Verkehr; Wasser- und Schifffahrtsverwaltung des Bundes; HavarieKommando.); EU-Bezug (EMSA; IMO-Umsetzung; Hafenstaatkontrolle.)..."
+description: "Wenn es um Schifffahrts- und Seeverkehrsrecht (BMV) in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schifffahrts- und Seeverkehrsrecht (BMV)

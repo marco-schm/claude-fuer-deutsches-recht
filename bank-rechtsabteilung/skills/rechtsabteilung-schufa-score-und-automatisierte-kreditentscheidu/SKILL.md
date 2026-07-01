@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-schufa-score-und-automatisierte-kreditentscheidu
-description: "Rechtsabteilungs-Fachmodul für Schufa-Score und automatisierte Kreditentscheidung: Kreditprozesse werden darauf geprüft, ob der Score nur Hilfsinformation oder faktisch entscheidend ist. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Bank-Rechtsabteilung."
+description: "Wenn es um Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung

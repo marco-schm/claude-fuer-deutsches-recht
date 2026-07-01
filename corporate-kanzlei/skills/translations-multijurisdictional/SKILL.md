@@ -1,6 +1,6 @@
 ---
 name: translations-multijurisdictional
-description: "Mehrsprachige Transaktionsdokumente in DE/EN erstellen und prüfen: Internationale M&A-Transaktion erfordert konsistente Terminologie in beiden Sprachen. Normen: § 184 GVG (Deutsch als Gerichtssprache), EGBGB Art. 10 ff. (Sprache des Rechtsgeschäfts), Governing-Language-Klauseln. Prüfraster: Termi"
+description: "Wenn es um Multijurisdiktionale Übersetzungen und Dokumente in Corporate-Kanzlei geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Translations Multijurisdictional; Arbeitsfeld: Corporate-Kanzlei."
 ---
 
 # Multijurisdiktionale Übersetzungen und Dokumente

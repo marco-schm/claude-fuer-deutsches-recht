@@ -1,6 +1,6 @@
 ---
 name: spezial-zwangsverwaltung-mietrecht
-description: "Zwangsverwaltung Mietrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Mietzahlungen, Kündigung, Nebenkosten, Kaution, Verwalterbefugnis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Zwangsverwaltung Mietrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zwangsverwaltung Mietrecht

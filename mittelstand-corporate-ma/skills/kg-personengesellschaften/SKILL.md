@@ -1,6 +1,6 @@
 ---
 name: kg-personengesellschaften
-description: "KG und Personengesellschaften: KG, GmbH und Co. KG, Fondsvehikel, Kommanditistenwechsel, Einlagen, Haftsumme, Register; §§ 161-177 HGB, MoPeG, BGH-Rechtsprechung im Mittelstand Corporate Ma."
+description: "Wenn es um KG und Personengesellschaften in Mittelstands-Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KG und Personengesellschaften

@@ -1,6 +1,6 @@
 ---
 name: urkundensammlung-aufbewahrung
-description: "Notariat im Alltag: Urkundensammlung, Aufbewahrung, Ausfertigung und beglaubigte Abschrift. Pflichten nach DONot, Ausfertigungs- und Abschriftsarten, Aufbewahrungsfristen und Vernichtungsvoraussetzungen im Notariat."
+description: "Wenn es um Notariat im Alltag: Urkundensammlung, Aufbewahrung, Ausfertigung, beglaubigte Abschrift in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Urkundensammlung, Aufbewahrung, Ausfertigung, beglaubigte Abschrift

@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-livecheck-dienstpflichten
-description: "Prüft KDV-Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und Link im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Rechtsprechung Livecheck in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsprechung Livecheck

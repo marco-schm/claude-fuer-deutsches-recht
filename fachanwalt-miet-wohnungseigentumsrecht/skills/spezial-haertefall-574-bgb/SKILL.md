@@ -1,6 +1,6 @@
 ---
 name: spezial-haertefall-574-bgb
-description: "Härtefall § 574 BGB: Spezial-Skill im Miet- und Wohnungseigentumsrecht; bereitet Sozialwiderspruch, Gesundheit, Ersatzwohnraum, Alter, Schule und Abwägung auf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Härtefall Paragraf 574 BGB in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Härtefall § 574 BGB

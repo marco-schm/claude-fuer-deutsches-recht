@@ -1,6 +1,6 @@
 ---
 name: luft-002-luftvg-anwendungsbereich
-description: "Luftrecht und Flughafenrecht: LuftVG-Anwendungsbereich. LuftVG-Anwendungsbereich im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Luftvg Anwendungsbereich in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Luftvg Anwendungsbereich

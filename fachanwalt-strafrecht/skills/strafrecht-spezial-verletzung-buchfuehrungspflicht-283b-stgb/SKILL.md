@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-verletzung-buchfuehrungspflicht-283b-stgb
-description: "Verletzung der Buchfuehrungspflicht nach Paragraph 283b StGB als selbständiger Tatbestand neben Paragraph 283 StGB: Sanktioniert Unterlasse..."
+description: "Wenn es um Strafrecht Spezial Verletzung Buchfuehrungspflicht 283b Stgb in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verletzung der Buchfuehrungspflicht nach Paragraph 283b StGB als selbständiger Tatbestand neben Paragraph 283 StGB

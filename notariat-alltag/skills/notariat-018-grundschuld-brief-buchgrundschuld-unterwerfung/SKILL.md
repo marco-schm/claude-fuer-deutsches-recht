@@ -1,6 +1,6 @@
 ---
 name: notariat-018-grundschuld-brief-buchgrundschuld-unterwerfung
-description: "Notariat im Alltag: Grundschuld Brief oder Buchgrundschuld Unterwerfung und Sicherungszweck mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Notariat 018 Grundschuld Brief Buchgrundschuld Unterwerfung in Notariat im Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Grundschuld Brief oder Buchgrundschuld Unterwerfung und Sicherungszweck

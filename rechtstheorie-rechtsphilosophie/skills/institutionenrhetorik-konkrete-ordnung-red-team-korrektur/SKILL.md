@@ -1,6 +1,6 @@
 ---
 name: institutionenrhetorik-konkrete-ordnung-red-team-korrektur
-description: "Red-Team gegen Institutionen-, Ordnung- und Lebenswirklichkeitsrhetorik: trennt echte soziale Struktur von normativer Bindung, Kompetenz, Grundrechten und demokratischer Verantwortung."
+description: "Wenn es um Institutionenrhetorik und konkrete Ordnung: Red-Team in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Institutionenrhetorik und konkrete Ordnung: Red-Team

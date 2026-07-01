@@ -1,6 +1,6 @@
 ---
 name: europawahl-partei-fraktionsschnittstelle
-description: "Prüft Europawahl-Vorschläge, Bundes-/Landesliste, Vertreterversammlung, Formulare und Bundeswahlleiter-Kommunikation im Parteienrecht."
+description: "Wenn es um Europawahl in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Europawahl Partei Fraktionsschnittstelle; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Europawahl

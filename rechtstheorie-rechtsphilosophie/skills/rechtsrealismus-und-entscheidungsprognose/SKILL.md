@@ -1,6 +1,6 @@
 ---
 name: rechtsrealismus-und-entscheidungsprognose
-description: "Nutzen realistischer Perspektiven: Wie entscheiden Institutionen tatsaechlich, welche Folgen hat das für Beratung, Prozessstrategie und Begründung?"
+description: "Wenn es um Rechtsrealismus und Prognose in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Rechtsrealismus und Prognose

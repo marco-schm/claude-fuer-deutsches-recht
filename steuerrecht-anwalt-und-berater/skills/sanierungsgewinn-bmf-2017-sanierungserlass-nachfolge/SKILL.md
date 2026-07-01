@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-bmf-2017-sanierungserlass-nachfolge
-description: "BMF-Schreiben vom 27.04.2017 als Verwaltungsanweisung zur Nachfolge des Sanierungserlasses. Konkretisiert die vier Voraussetzungen des § 3a EStG aus Verwaltungssicht; vor Verwendung aktuellen BMF-Stand prüfen im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um BMF-Schreiben 27.04.2017 — Sanierungserlass-Nachfolge in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sanierungsgewinn Bmf 2017 Sanierungserlass Nachfolge; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # BMF-Schreiben 27.04.2017 — Sanierungserlass-Nachfolge

@@ -1,6 +1,6 @@
 ---
 name: haftung-indirekte-schaeden
-description: "Klausel-Fachmodul für Haftung Indirekte Schaeden: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um Haftung Indirekte Schaeden in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haftung Indirekte Schaeden

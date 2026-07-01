@@ -1,6 +1,6 @@
 ---
 name: erstpruefung-rollen-mandatsziel
-description: "Rollen- und Mandatszielpruefung nach Aktenlekture: leitet Mandant, Gegner, Vertreter, Ziel und Honorarbasis zuerst aus Vollmacht, Anschreiben, Rechnung, Mahnung und Verfahrensstand ab und fragt nur bei Widerspruch oder Risiko nach."
+description: "Wenn es um Erstpruefung Rollen und Mandatsziel in Forderungsmanagement — Klagewerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Erstpruefung Rollen und Mandatsziel

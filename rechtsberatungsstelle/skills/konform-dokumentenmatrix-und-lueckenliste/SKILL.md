@@ -1,6 +1,6 @@
 ---
 name: konform-dokumentenmatrix-und-lueckenliste
-description: "Konform: Dokumentenmatrix, Lückenliste und Nachforderung im Rechtsberatungsstelle."
+description: "Wenn es um Konform: Dokumentenmatrix, Lückenliste und Nachforderung in Plugin für die studentische Rechtsberatungsstelle geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Konform: Dokumentenmatrix, Lückenliste und Nachforderung

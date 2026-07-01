@@ -1,6 +1,6 @@
 ---
 name: handlungsgehilfen-und-wettbewerbsverbot
-description: "Prüft Handlungsgehilfe, Wettbewerbsverbot, Karenz und arbeitsrechtliche Schnittstellen im Handelsrecht Hgb."
+description: "Wenn es um Handlungsgehilfen und Wettbewerbsverbot in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handlungsgehilfen und Wettbewerbsverbot

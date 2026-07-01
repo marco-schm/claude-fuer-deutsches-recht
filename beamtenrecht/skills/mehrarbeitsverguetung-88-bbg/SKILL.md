@@ -1,6 +1,6 @@
 ---
 name: mehrarbeitsverguetung-88-bbg
-description: "Skill zur Mehrarbeitsverguetung der Beamten nach § 88 BBG bzw. § 60 BeamtStG i.V.m. dem Landesrecht und der Mehrarbeitsverguetungsverordnung. Klaert Anordnung der Mehrarbeit Ausgleich durch Freizeit Verguetung in Geld Begrenzung der Mehrarbeit Kontroll- und Dokumentationspflichten Verjährung der..."
+description: "Wenn es um Mehrarbeitsverguetung nach Paragraf 88 BBG in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mehrarbeitsverguetung nach § 88 BBG

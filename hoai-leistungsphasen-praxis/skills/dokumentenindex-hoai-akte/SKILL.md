@@ -1,6 +1,6 @@
 ---
 name: dokumentenindex-hoai-akte
-description: "HOAI-Praxis: erstellt Aktenindex nach LPH, Datum, Planstand, Version und Beweiswert; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um HOAI Querschnitt: Erstellt aktenindex nach lph in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # HOAI Querschnitt: Erstellt aktenindex nach lph

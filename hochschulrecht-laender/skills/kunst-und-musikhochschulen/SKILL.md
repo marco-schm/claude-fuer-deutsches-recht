@@ -1,6 +1,6 @@
 ---
 name: kunst-und-musikhochschulen
-description: "Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen im Hochschulrecht Länder."
+description: "Wenn es um Kunst Und Musikhochschulen in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kunst Und Musikhochschulen

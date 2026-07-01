@@ -1,6 +1,6 @@
 ---
 name: wahlverfahren-falschinfo
-description: "Wahlkampfrecht Praxis: Falschinformationen ueber Wahltermin, Briefwahl, Stimmzettel oder Wahlraeume beantworten im Wahlkampfrecht."
+description: "Wenn es um Wahlverfahren Falschinfo in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Wahlverfahren Falschinfo

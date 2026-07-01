@@ -1,6 +1,6 @@
 ---
 name: identitaetspruefung-ausweis-kaltstart-und-faktenmatrix
-description: "Notare: identitaetspruefung ausweis - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Identitaetspruefung Ausweis Kaltstart Und Faktenmatrix in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: identitaetspruefung ausweis - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

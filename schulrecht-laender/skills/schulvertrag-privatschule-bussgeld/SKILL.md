@@ -1,6 +1,6 @@
 ---
 name: schulvertrag-privatschule-bussgeld
-description: "Prüft privatschulische Aufnahme, Kündigung, Hausordnung und Vertragsrechte im Schulrecht Länder."
+description: "Wenn es um Schulvertrag Privatschule Kündigung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulvertrag Privatschule Kündigung

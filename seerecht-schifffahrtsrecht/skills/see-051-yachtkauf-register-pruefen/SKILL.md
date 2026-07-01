@@ -1,6 +1,6 @@
 ---
 name: see-051-yachtkauf-register-pruefen
-description: "See- und Schifffahrtsrecht: Yachtkauf: Register prüfen. Register prüfen für Yachtkauf im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Yachtkauf Register Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Yachtkauf Register Pruefen

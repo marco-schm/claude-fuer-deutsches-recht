@@ -1,6 +1,6 @@
 ---
 name: red-team-overdependency
-description: "'Red-Team: Überabhängigkeit von China analysieren und abbauen: Selbstkritische Analyse Abhängigkeitspfade (Umsatz/Beschaffung/Technologie), Frühwarnindikator-System, Exit-Trigger-Kriterien, Vergleich mit Benchmark-Unternehmen, Board-Diskussion De-risking-Realismus, Kosten des Status quo vs. Koste..."
+description: "Wenn es um Red-Team: Überabhängigkeit China analysieren und abbauen in China-Wirtschaftsverkehr geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team: Überabhängigkeit China analysieren und abbauen

@@ -1,6 +1,6 @@
 ---
 name: ifg-088-transparenzgesetz-zustaendigkeit-pruef
-description: "Informationsfreiheit und Presseauskunft: Transparenzgesetz: Zuständigkeit prüfen. Zuständigkeit prüfen für Transparenzgesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Transparenzgesetz Zustaendigkeit Pruef in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transparenzgesetz Zustaendigkeit Pruef

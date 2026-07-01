@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-verkehrsstrafrecht-323a-stgb-rauschtat
-description: "Vollrausch nach Paragraph 323a StGB als Auffangtatbestand bei schuldunfaehiger Rauschtat: Voraussetzungen Selbstverschulden Rausch Rauschtat. Strafrahmen-Begrenzung du..."
+description: "Wenn es um Vollrausch nach Paragraph 323a StGB als Auffangtatbestand bei schuldunfaehiger Rauschtat in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vollrausch nach Paragraph 323a StGB als Auffangtatbestand bei schuldunfaehiger Rauschtat

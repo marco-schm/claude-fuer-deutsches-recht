@@ -1,6 +1,6 @@
 ---
 name: meldung-uld-sh
-description: "Reicht eine Meldung nach Art. 33 DSGVO bei der Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein (ULD) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Schleswig-Holstein und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der R..."
+description: "Wenn es um Meldung Art. 33 DSGVO an die ULD in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meldung Art. 33 DSGVO an die ULD

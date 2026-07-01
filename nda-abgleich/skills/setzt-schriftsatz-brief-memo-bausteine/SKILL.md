@@ -1,6 +1,6 @@
 ---
 name: setzt-schriftsatz-brief-memo-bausteine
-description: "Setzt: Schriftsatz-, Brief- und Memo-Bausteine im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokum..."
+description: "Wenn es um Setzt: Schriftsatz-, Brief- und Memo-Bausteine in NDA-Abgleich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Setzt: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: datev-zugriff-nach-mandatsende-organisationspflic
-description: "Steuerberater: datev zugriff nach mandatsende - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Datev Zugriff Nach Mandatsende Organisationspflic in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: datev zugriff nach mandatsende - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

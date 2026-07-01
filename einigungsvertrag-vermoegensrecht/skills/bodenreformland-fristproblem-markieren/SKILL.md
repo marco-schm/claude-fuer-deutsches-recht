@@ -1,6 +1,6 @@
 ---
 name: bodenreformland-fristproblem-markieren
-description: "Einigungsvertrag und Vermögensrecht: Bodenreformland: Fristproblem markieren im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Bodenreformland Fristproblem Markieren in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bodenreformland Fristproblem Markieren

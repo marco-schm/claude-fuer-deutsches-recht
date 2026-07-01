@@ -1,6 +1,6 @@
 ---
 name: entschaedigung-berechnen
-description: "Berechnet die Entschaedigung nach Art. 19 VO (EU) 2021/782. Zwei Stufen 25 Prozent (ab 60 Minuten Endziel-Verspaetung) und 50 Prozent (ab 120 Minuten). DB-Tarif-Pauschalen für BahnCard 100 (10 oder 20 EUR), Deutschlandticket (1.50 EUR mit Monatsdeckel 25 Prozent), Zeitkarten (anteilig). Pro Reise..."
+description: "Wenn es um Entschädigung berechnen in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Entschädigung berechnen

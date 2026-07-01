@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für NDA-Abgleich: ordnet Rolle (Vertragspartner, Berater, Aufsichtsorgan), markiert Frist (Geltungsdauer NDA (5-10 Jahre)), wählt Norm (BGB §§ 145 ff., 280/339, GeschGehG, DSGVO Art. 28) und Zuständigkeit (zuständige Stelle), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

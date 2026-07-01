@@ -1,6 +1,6 @@
 ---
 name: sportverein
-description: "Spezialfragen Sportverein: Abteilungen, Trainer, Minderjährige, Schutzkonzept, Hallenzeiten, Verbandsrecht, Beiträge im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Sportverein in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sportverein

@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-verwaltungsbeirat-kommunikation
-description: "Beiratskommunikation: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft E-Mail-Verteiler, Datenschutz, Protokoll, Beschlussvorbereitung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Beiratskommunikation in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beiratskommunikation

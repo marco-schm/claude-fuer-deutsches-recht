@@ -1,6 +1,6 @@
 ---
 name: abnahme-fiktion-paragraf-640-bgb-bgh-vii-zr-301-13
-description: "Abnahme Fiktion Paragraf 640 BGB BGH Vii Zr 301 13: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Abnahme Fiktion Paragraf 640 BGB BGH Vii Zr 301 13 in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abnahme Fiktion Paragraf 640 BGB BGH Vii Zr 301 13

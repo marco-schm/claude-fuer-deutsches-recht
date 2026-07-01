@@ -1,6 +1,6 @@
 ---
 name: fristlose-kuendigung-626-bgb
-description: "Berliner Start-up-HR: Fristlose Kündigung nach § 626 BGB: Zwei-Wochen-Frist, wichtiger Grund, Anhörung, Beweise und Alternativen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Fristlose Kuendigung 626 BGB in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristlose Kuendigung 626 BGB

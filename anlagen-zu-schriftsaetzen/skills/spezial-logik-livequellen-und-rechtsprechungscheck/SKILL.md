@@ -1,6 +1,6 @@
 ---
 name: spezial-logik-livequellen-und-rechtsprechungscheck
-description: "Logik: Livequellen- und Rechtsprechungscheck im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Logik: Livequellen- und Rechtsprechungscheck in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Logik: Livequellen- und Rechtsprechungscheck

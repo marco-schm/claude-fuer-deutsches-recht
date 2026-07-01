@@ -1,6 +1,6 @@
 ---
 name: co2kostenaufteilung
-description: "CO2-Kostenaufteilung in Miet- und WEG-Abrechnungen: CO2KostAufG, Wohngebäude-Stufenmodell, Nichtwohngebäude-50/50-Regel, Brennstoffdaten, Emissionsfaktor, Vermieteranteil, Mieterentlastung und Abrechnungsbaustein: CO2-Kostenaufteilung in Miet- und WEG-Abre..."
+description: "Wenn es um Co2kostenaufteilung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CO2-Kostenaufteilung in Miet- und WEG-Abrechnungen: CO2KostAufG, Wohngebäude-Stufenmodell, Nichtwohngebäude-50/50-Regel, Brennstoffdaten, Emissionsfaktor, Vermieteranteil, Mieterentlastung und Abrechnungsbaustein.

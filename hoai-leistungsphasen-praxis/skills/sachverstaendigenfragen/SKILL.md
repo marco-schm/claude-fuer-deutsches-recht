@@ -1,6 +1,6 @@
 ---
 name: sachverstaendigenfragen
-description: "HOAI-Praxis: formuliert Beweisthemen für selbständiges Beweisverfahren oder Privatgutachten; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Sachverstaendigenfragen in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # HOAI Querschnitt: Formuliert beweisthemen für selbständiges beweisverfahren oder privatgutachten

@@ -1,6 +1,6 @@
 ---
 name: db-005-unwesentliche-teile-wiederholte-systematische-entnahme
-description: "Datenbankrecht: Unwesentliche Teile wiederholte systematische Entnahme mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Datenbankrecht: Unwesentliche Teile wiederholte systematische Entnahme in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenbankrecht: Unwesentliche Teile wiederholte systematische Entnahme

@@ -1,6 +1,6 @@
 ---
 name: fehlerkatalog
-description: "Katalog typischer Fehler im Forderungsmanagement und Klageweg. Sortiert nach Phase Antrag Mahnbescheid Klage Urteil Vollstreckung. Pinpoints ZPO 690 falscher Antragstyp ZPO 167 verspaetete Vorschusszahlung BGB 286 fehlende Mahnung ZPO 850c Pfaendungsgrenze. Liefert Liste mit Folgen und Praevention."
+description: "Wenn es um Fehlerkatalog Forderungsmanagement in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Fehlerkatalog Forderungsmanagement

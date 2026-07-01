@@ -1,6 +1,6 @@
 ---
 name: kindeswohlpruefung-paragraf-1697a-bgb-bgh-xii-zb-186-15
-description: "Kindeswohlpruefung Paragraf 1697a BGB BGH Xii Zb 186 15: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Kindeswohlpruefung Paragraf 1697a BGB BGH Xii Zb 186 15 in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kindeswohlpruefung Paragraf 1697a BGB BGH Xii Zb 186 15

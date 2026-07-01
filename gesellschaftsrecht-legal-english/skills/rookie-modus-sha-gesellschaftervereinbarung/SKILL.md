@@ -1,6 +1,6 @@
 ---
 name: rookie-modus-sha-gesellschaftervereinbarung
-description: "First-Year-Associate-Modus für Corporate Legal English: fuehrt Schritt für Schritt durch unbekannte Begriffe, Deal-Dokumente, Rueckfragen und Senior-Review-Gates im Gesellschaftsrecht Legal English."
+description: "Wenn es um Rookie-Modus in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rookie-Modus

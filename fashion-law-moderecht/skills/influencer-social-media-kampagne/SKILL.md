@@ -1,6 +1,6 @@
 ---
 name: influencer-social-media-kampagne
-description: "Influencer-, Creator- und Social-Media-Kampagnen prüfen: Kennzeichnung, Nutzungsrechte, Exklusivität, Briefing, Bildrechte, Plattformregeln und Krisenreaktion im Fashion Law Moderecht."
+description: "Wenn es um Influencer Social Media Kampagne in fashion-law-moderecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Influencer Social Media Kampagne

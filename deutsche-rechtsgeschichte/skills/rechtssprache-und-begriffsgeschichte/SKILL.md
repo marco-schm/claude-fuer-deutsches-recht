@@ -1,6 +1,6 @@
 ---
 name: rechtssprache-und-begriffsgeschichte
-description: "Deutsche Rechtsgeschichte: Rechtssprache und Begriffsgeschichte. Deutsch als Rechtssprache im Mittelalter, Latinisierung, Pandektistik-Fachbegriffe, BGB-Sprache und heutige Verstaendlichkeits-Debatte im Deutsche Rechtsgeschichte."
+description: "Wenn es um Rechtssprache und Begriffsgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtssprache und Begriffsgeschichte

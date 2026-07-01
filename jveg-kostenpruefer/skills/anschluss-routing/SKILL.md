@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für JVEG-Kostenprüfer: wählt den nächsten Spezial-Skill nach Engpass (Entschädigungsantrag binnen 3 Monaten, SV-Rechnung, Reisekostenabrechnung, Stundennachweise), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in JVEG-Kostenprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anschluss-Routing

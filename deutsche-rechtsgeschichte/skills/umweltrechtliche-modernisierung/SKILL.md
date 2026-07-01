@@ -1,6 +1,6 @@
 ---
 name: umweltrechtliche-modernisierung
-description: "Deutsche Rechtsgeschichte: Umweltrechtliche Modernisierung. Erste Umweltschutzgesetze 1970er, BImSchG 1974, WHG 1957, Umweltschutz im GG (Art. 20a seit 1994) und EU-Umweltrecht im Deutsche Rechtsgeschichte."
+description: "Wenn es um Umweltrechtliche Modernisierung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umweltrechtliche Modernisierung

@@ -1,6 +1,6 @@
 ---
 name: aufbewahrung-pruefungsakte
-description: "Wirtschaftsprüfer: aufbewahrung prüfungsakte - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Aufbewahrung Pruefungsakte in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: aufbewahrung prüfungsakte - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

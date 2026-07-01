@@ -1,6 +1,6 @@
 ---
 name: vbr-061-abo-falle-anspruch-pruefen
-description: "Verbraucherschutzrecht Prüfer: Abo-Falle: Anspruch prüfen. Anspruch prüfen für Abo-Falle im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Abo Falle Anspruch Pruefen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abo Falle Anspruch Pruefen

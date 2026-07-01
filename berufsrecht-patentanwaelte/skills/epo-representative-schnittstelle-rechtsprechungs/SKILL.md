@@ -1,6 +1,6 @@
 ---
 name: epo-representative-schnittstelle-rechtsprechungs
-description: "Patentanwälte: epo representative schnittstelle - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Epo Representative Schnittstelle Rechtsprechungs in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Patentanwälte: epo representative schnittstelle - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-sicherheit-migration
-description: "Datenschutz/Sicherheit: Fachmodul im Migrationsrecht: prüft Schutz sensibler Daten, Behördenweitergabe, Mandantenrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Datenschutz/Sicherheit: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz/Sicherheit: Fachmodul im Migrationsrecht

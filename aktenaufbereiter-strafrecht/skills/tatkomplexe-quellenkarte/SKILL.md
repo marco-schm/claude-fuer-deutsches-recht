@@ -1,6 +1,6 @@
 ---
 name: tatkomplexe-quellenkarte
-description: "Tatkomplexe Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Tatkomplexe Quellenkarte in Aktenaufbereiter Strafrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Tatkomplexe Quellenkarte

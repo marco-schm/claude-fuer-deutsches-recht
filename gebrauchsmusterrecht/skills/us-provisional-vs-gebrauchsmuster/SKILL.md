@@ -1,6 +1,6 @@
 ---
 name: us-provisional-vs-gebrauchsmuster
-description: "US-Provisional, Design Patent und deutsches Gebrauchsmuster vergleichen: Zweck, Fristen, Offenbarung, Kosten und spätere Durchsetzung im Gebrauchsmusterrecht."
+description: "Wenn es um Us Provisional Vs Gebrauchsmuster in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Us Provisional Vs Gebrauchsmuster

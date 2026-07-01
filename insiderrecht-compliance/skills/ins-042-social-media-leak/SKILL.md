@@ -1,6 +1,6 @@
 ---
 name: ins-042-social-media-leak
-description: "Spezialskill Insiderrecht fuer Social Media Leak: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Social Media Leak in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Social Media Leak

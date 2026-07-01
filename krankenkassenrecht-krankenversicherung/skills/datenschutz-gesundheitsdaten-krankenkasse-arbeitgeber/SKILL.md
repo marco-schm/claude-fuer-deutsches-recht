@@ -1,6 +1,6 @@
 ---
 name: datenschutz-gesundheitsdaten-krankenkasse-arbeitgeber
-description: "Datenschutz im Krankenversicherungsrecht: DSGVO, § 67 SGB X, Weitergabe an Arbeitgeber, MDK-Datenschutz und Auskunftsrechte im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Datenschutz: Gesundheitsdaten, Krankenkasse und Arbeitgeber in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz: Gesundheitsdaten, Krankenkasse und Arbeitgeber

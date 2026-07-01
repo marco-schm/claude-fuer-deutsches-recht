@@ -1,6 +1,6 @@
 ---
 name: bmds-it-sicherheit-und-bsig
-description: "Sachbereich IT-Sicherheit (BSIG) im Geschäftsbereich BMDS: Normbestand (BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.); Akteure (BSI; Bundesnetzagentur; BBK; Länder-Aufsichten.); EU-Bezug (NIS2-RL; CER-RL; Cyber Resilience Act.); typische Legistik-Aufgaben und Prüfpunkte. Output Sachfe"
+description: "Wenn es um IT-Sicherheit (BSIG) (BMDS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmds It Sicherheit Und Bsig; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # IT-Sicherheit (BSIG) (BMDS)

@@ -1,6 +1,6 @@
 ---
 name: spezial-schnittstelle-red-team-und-qualitaetskontrolle
-description: "Schnittstelle: Red-Team und Qualitätskontrolle im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Schnittstelle: Red-Team und Qualitätskontrolle in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schnittstelle: Red-Team und Qualitätskontrolle

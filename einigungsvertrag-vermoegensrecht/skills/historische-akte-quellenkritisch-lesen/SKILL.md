@@ -1,6 +1,6 @@
 ---
 name: historische-akte-quellenkritisch-lesen
-description: "Einigungsvertrag und Vermögensrecht: Historische Akte quellenkritisch lesen. Historische Akte quellenkritisch lesen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkre..."
+description: "Wenn es um Historische Akte Quellenkritisch Lesen in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Historische Akte Quellenkritisch Lesen

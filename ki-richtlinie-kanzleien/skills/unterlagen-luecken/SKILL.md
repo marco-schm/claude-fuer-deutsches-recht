@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für KI-Richtlinie für Kanzleien: trennt fehlende Tatsachen von fehlenden Belegen (KI-Richtlinie intern, AVV-Mustertext, Mandantenhinweis), nennt pro Lücke Beweisthema, Beschaffungsweg (RAK), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Kanzleirichtlinien für digitale Werkzeuge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

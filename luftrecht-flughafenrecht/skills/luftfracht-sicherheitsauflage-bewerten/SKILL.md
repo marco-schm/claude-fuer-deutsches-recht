@@ -1,6 +1,6 @@
 ---
 name: luftfracht-sicherheitsauflage-bewerten
-description: "Luftfrachtfuehrer oder Spediteur erhaelt LuftSiG oder EU-Luftsicherheits-Auflage. Prüft LuftSiG § 9 Sicherheitsprogramm EU-DVO 2015/1998 EU-VO 300/2008 Findings-Kategorien und liefert Auflagen-Bewertungs-Vermerk und Corrective-Action-Plan im Luftrecht Flughafenrecht."
+description: "Wenn es um Luftfracht – Sicherheitsauflage bewerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Luftfracht – Sicherheitsauflage bewerten

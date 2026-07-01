@@ -1,6 +1,6 @@
 ---
 name: steigerungsadverbien-katalog
-description: "Vollständiger Katalog aller Steigerungsadverbien der deutschen Zeugnissprache mit ihrer exakten Notenwirkung. Unterteilt in Maximalsteigerer (Note 1), Standardsteigerer (Note 1 bis 2), Scheinsteigerer (Note 3) und Abschwächer (Note 3 bis 4). Das Adverb ist der entscheidende Notenträger — ein fehlendes Adverb senkt die Note um eine Stufe."
+description: "Wenn es um Steigerungsadverbien-Katalog in Arbeitszeugnisgenerator geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steigerungsadverbien-Katalog

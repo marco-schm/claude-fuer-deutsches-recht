@@ -1,6 +1,6 @@
 ---
 name: luft-067-ersatzteillager-insolvenzrisiko-markie
-description: "Luftrecht und Flughafenrecht: Ersatzteillager: Insolvenzrisiko markieren. Insolvenzrisiko markieren für Ersatzteillager im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Ersatzteillager Insolvenzrisiko Markie in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ersatzteillager Insolvenzrisiko Markie

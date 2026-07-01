@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-geschaeftsfuehrerhaftung-fuer-compliance-versage
-description: "Rechtsabteilungs-Fachmodul für Geschäftsführerhaftung für Compliance-Versagen: Compliance-Redflags werden in Organpflichten, Ressortverteilung und D&O-Meldung übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Gesellschaftsrecht."
+description: "Wenn es um Rechtsabteilung: Geschäftsführerhaftung für Compliance-Versagen in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Geschäftsführerhaftung für Compliance-Versagen

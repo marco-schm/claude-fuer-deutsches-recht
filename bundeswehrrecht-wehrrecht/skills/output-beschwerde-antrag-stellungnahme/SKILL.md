@@ -1,6 +1,6 @@
 ---
 name: output-beschwerde-antrag-stellungnahme
-description: "Output Beschwerde, Antrag, Stellungnahme: erstellt strukturierte Schriftstücke nach WBO, WDO und VwGO. Norm-/Quellenanker: WBO §§ 6–11, WDO, VwGO."
+description: "Wenn es um Output: Beschwerde, Antrag, Stellungnahme erstellen in Bundeswehrrecht und Wehrrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Output: Beschwerde, Antrag, Stellungnahme erstellen

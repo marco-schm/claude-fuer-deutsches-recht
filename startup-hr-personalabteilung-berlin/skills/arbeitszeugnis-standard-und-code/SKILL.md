@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-standard-und-code
-description: "Berliner Start-up-HR: Arbeitszeugnis: Anspruch, Note, Tätigkeitsbeschreibung, Schlussformel, Code-Risiko und schnelle Entwurfsroute. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Arbeitszeugnis Standard Und Code in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitszeugnis Standard Und Code

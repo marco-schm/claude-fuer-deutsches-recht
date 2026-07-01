@@ -1,6 +1,6 @@
 ---
 name: ki-vertragsklauseln-urhebervertragsrecht
-description: "Entwirft und prüft Klauseln zu KI-Nutzung, Training, Output, Promptlogs, Opt-out, Kennzeichnung und Haftung im Urheberrecht De Eu."
+description: "Wenn es um digitale Werkzeuge-Klauseln in Urheberverträgen in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI-Klauseln in Urheberverträgen

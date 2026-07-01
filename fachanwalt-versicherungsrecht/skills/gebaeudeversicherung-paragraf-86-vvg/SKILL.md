@@ -1,6 +1,6 @@
 ---
 name: gebaeudeversicherung-paragraf-86-vvg
-description: "Gebaeudeversicherung § 86 VVG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Gebaeudeversicherung Paragraf 86 VVG in Fachanwalt Versicherungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gebaeudeversicherung § 86 VVG

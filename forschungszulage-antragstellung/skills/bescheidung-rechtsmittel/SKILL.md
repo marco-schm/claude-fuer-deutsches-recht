@@ -1,6 +1,6 @@
 ---
 name: bescheidung-rechtsmittel
-description: "Bescheidung Forschungszulage: Bescheinigungsbescheid BSFZ und Festsetzungsbescheid Finanzamt sind zwei getrennte Verwaltungsakte. Rechtsmittelketten: BSFZ-Widerspruch dann Verpflichtungsklage; Finanzamt-Einspruch dann Klage Finanzgericht. Fristen und Begruendungsbausteine."
+description: "Wenn es um FZ: Bescheidung und Rechtsmittel in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Bescheidung Rechtsmittel; Arbeitsfeld: Forschungszulage-Antragstellung."
 ---
 
 # FZ: Bescheidung und Rechtsmittel

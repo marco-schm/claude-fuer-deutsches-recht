@@ -1,6 +1,6 @@
 ---
 name: ins-004-aufschubentscheidung
-description: "Prueft Aufschub der Offenlegung: berechtigtes Interesse, Irrefuehrungsrisiko, Vertraulichkeit und nachtraegliche BaFin-Mitteilung."
+description: "Wenn es um Aufschubentscheidung in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufschubentscheidung

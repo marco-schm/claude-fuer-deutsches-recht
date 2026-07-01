@@ -1,6 +1,6 @@
 ---
 name: cross-zahlen-schwellen-und-berechnung
-description: "Cross: Zahlen, Schwellenwerte und Berechnung: Cross: Zahlen, Schwellenwerte und Berechnung."
+description: "Wenn es um Cross: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Agrarrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Cross: Zahlen, Schwellenwerte und Berechnung

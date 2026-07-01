@@ -1,6 +1,6 @@
 ---
 name: meldekette-auftragsverarbeiter
-description: "Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art. 33 Abs. 2 DSGVO. Behandelt: Meldung des Auftragsverarbeiters an den Verantwortlichen; Form, Frist, Inhalt; Eskalation bei Schweigen oder Verzögerung; AV-Vertragsklauseln nach Art. 28 Abs. 3 lit. f und h DSGVO; Unterauftra..."
+description: "Wenn es um Meldekette Auftragsverarbeiter — Art. 33 Abs. 2 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meldekette Auftragsverarbeiter — Art. 33 Abs. 2 DSGVO

@@ -1,6 +1,6 @@
 ---
 name: drg-040-menschenrechte-und-emrk-rezeption
-description: "Deutsche Rechtsgeschichte: Menschenrechte Und Emrk Rezeption. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Menschenrechte Und Emrk Rezeption in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Menschenrechte Und Emrk Rezeption

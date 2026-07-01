@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für WEG/Hausverwaltung: ordnet Rolle (WEG-Eigentümer, Verwalter, Mehrheit/Minderheit), markiert Frist (§ 44 WEG Beschlussanfechtung 1 Mon.), wählt Norm (WEG §§ 18/19/20/23-28/44/45, HeizkostenV, BetrKV) und Zuständigkeit (Amtsgericht Belegenheit), leitet zum passenden..."
+description: "Wenn es um Einstieg und Routing in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

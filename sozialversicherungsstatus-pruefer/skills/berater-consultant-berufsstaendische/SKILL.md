@@ -1,6 +1,6 @@
 ---
 name: berater-consultant-berufsstaendische
-description: "Prüft klassische Beratungsmandate, Projektarbeit, onsite Einsatz, feste Tage, Deliverables und mehrere Auftraggeber im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Berater und Consultant in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Berater und Consultant

@@ -1,6 +1,6 @@
 ---
 name: inso-p359-verweisung-auf-das-einfuhrungsgesetz
-description: "§ 359 InsO (Verweisung auf das Einführungsgesetz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 359 InsO (Verweisung auf das Einführungsgesetz) im Mandat prüfen: Normzweck, Tatbestand, B..."
+description: "Wenn es um Inso P359 Verweisung Auf Das Einfuhrungsgesetz in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 359 InsO (Verweisung auf das Einführungsgesetz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

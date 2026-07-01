@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Adaptiver Einstieg, Schnelltriage und Fallrouting im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeiten, Finanzbedarf, Ethik/Forschungsdaten und Fachmodule."
+description: "Wenn es um DFG-Förderantrag — Allgemein in DFG-Förderantrag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DFG-Förderantrag — Allgemein

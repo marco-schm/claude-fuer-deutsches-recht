@@ -1,6 +1,6 @@
 ---
 name: insolvenz-tatbestand-beweis-und-belege
-description: "Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nut..."
+description: "Wenn es um Insolvenz Tatbestand Beweis Und Belege in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

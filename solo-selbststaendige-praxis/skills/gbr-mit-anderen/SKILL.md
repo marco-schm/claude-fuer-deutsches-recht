@@ -1,6 +1,6 @@
 ---
 name: gbr-mit-anderen
-description: "Solo-Selbstständige: prüft GbR, Außenhaftung, Gesellschaftsvertrag und eGbR-Frage; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Wachstum Zusammenarbeit und Rechtsform: Prüft gbr in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wachstum Zusammenarbeit und Rechtsform: Prüft gbr

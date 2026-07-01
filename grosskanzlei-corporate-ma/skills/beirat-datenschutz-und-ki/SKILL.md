@@ -1,6 +1,6 @@
 ---
 name: beirat-datenschutz-und-ki
-description: "Prüft Beiratsfragen zu Datenschutz Und KI: Zuständigkeit, Satzungsgrundlage, Beschlussweg, Haftung, Belege, Gegenargumente und verwertbaren Output."
+description: "Wenn es um Beirat Datenschutz Und digitale Werkzeuge in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beirat Datenschutz Und KI

@@ -1,6 +1,6 @@
 ---
 name: eau-elektronische-arbeitsunfaehigkeit
-description: "eAU elektronische Arbeitsunfähigkeitsbescheinigung seit 2023. Anwendungsfall AN-Krankmeldung AG-Abruf bei Krankenkasse Entgeltfortzahlung. Methodik Schnittstelle Konfiguration Workflow. Output eAU-Konfiguration."
+description: "Wenn es um eAU — Elektronische Arbeitsunfaehigkeitsbescheinigung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eau Elektronische Arbeitsunfaehigkeit; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # eAU — Elektronische Arbeitsunfaehigkeitsbescheinigung

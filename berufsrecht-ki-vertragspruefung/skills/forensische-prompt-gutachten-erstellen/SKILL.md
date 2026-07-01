@@ -1,6 +1,6 @@
 ---
 name: forensische-prompt-gutachten-erstellen
-description: "Forensische Prüfung Prompt-Injection-Risiko: Indirekte Prompt-Injection ueber hochgeladene Dokumente, RAG-Vergiftung, Datenexfiltration. Prüfraster für Reviewer-Audit, Sandbox-Test, Sicherheits-Hardening durch Anbieter. Pflicht des Anwalts im Berufsrecht KI-Vertragsprüfung."
+description: "Wenn es um Prompt-Injection: Prüfung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Prompt-Injection: Prüfung

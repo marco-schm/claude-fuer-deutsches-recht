@@ -1,6 +1,6 @@
 ---
 name: inso-arbeitnehmer-und-betriebsuebergang
-description: "Arbeitnehmer und Insolvenz: Insolvenzgeld bis 3 Monate, Sozialplan Hoechstgrenzen § 123 InsO, § 113 InsO Kuendigungsmaximum 3 Monate, Betriebsuebergang § 613a BGB im Insolvenz-Asset-Deal: Arbeitnehmer und Insolvenz: Insolvenzgeld bis 3 Monate, Sozialplan Ho..."
+description: "Wenn es um Inso Arbeitnehmer Und Betriebsuebergang in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitnehmer und Insolvenz: Insolvenzgeld bis 3 Monate, Sozialplan Hoechstgrenzen § 123 InsO, § 113 InsO Kuendigungsmaximum 3 Monate, Betriebsuebergang § 613a BGB im Insolvenz-Asset-Deal

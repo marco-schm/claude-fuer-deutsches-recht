@@ -1,6 +1,6 @@
 ---
 name: bmleh-tierschutz-und-tiergesundheitsrecht
-description: "Sachbereich Tierschutz- und Tiergesundheitsrecht im Geschäftsbereich BMLEH: Normbestand (TierSchG; TierSchNutztV; TierGesG; SchwarzwildG; VermarktungsNormG.); Akteure (BVL; FLI; Länder-Veterinaerbehoerden; Kommunale Veterinaeramter; BMLEH.); EU-Bezug (EU-Tiergesundheitsrecht (AHL); Tierhaltungsr"
+description: "Wenn es um Tierschutz- und Tiergesundheitsrecht (BMLEH) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmleh Tierschutz Und Tiergesundheitsrecht; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Tierschutz- und Tiergesundheitsrecht (BMLEH)

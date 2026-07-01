@@ -1,6 +1,6 @@
 ---
 name: fristen-mehrparteien-konflikt-und-interessen
-description: "Fristen: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Fristen: Mehrparteienkonflikt und Interessenmatrix in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen: Mehrparteienkonflikt und Interessenmatrix

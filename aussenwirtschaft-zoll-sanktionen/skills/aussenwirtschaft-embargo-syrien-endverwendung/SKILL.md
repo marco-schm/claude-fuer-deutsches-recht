@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-syrien-endverwendung
-description: "EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und laufenden Ergaenzungsverordnungen: Finanzsanktionen gelisteter Personen und Entitaeten, Waffenembargo, Guetersanktionen und Oelembargo. Post-Assad-Lockerungen 2024/2025 beachten. Fallkonstellation: Unternehmen plant Wiederaufbaulieferungen nach S..."
+description: "Wenn es um Embargo Syrien: Sanktionsregime und Post-Assad-Lockerungen in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Embargo Syrien: Sanktionsregime und Post-Assad-Lockerungen

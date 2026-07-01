@@ -1,6 +1,6 @@
 ---
 name: verfuegbarkeit-wartungsfenster
-description: "Klausel-Fachmodul für Verfügbarkeit Wartungsfenster: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Wenn es um Verfügbarkeit Wartungsfenster in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verfügbarkeit Wartungsfenster

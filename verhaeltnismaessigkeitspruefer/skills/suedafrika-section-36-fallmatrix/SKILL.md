@@ -1,6 +1,6 @@
 ---
 name: suedafrika-section-36-fallmatrix
-description: "Rechtsvergleichende Fallmatrix zu Section 36 der suedafrikanischen Verfassung: fuenf kodifizierte Begrenzungsfaktoren als Kontrastfolie zur deutschen BVerfG-Prüfung, ohne die deutsche Dogmatik zu ersetzen."
+description: "Wenn es um Südafrika Section 36: Fallmatrix zur deutschen Prüfung in Verhältnismäßigkeitsprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Südafrika Section 36: Fallmatrix zur deutschen Prüfung

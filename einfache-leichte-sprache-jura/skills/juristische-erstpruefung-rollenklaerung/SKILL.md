@@ -1,6 +1,6 @@
 ---
 name: juristische-erstpruefung-rollenklaerung
-description: "Juristische: Erstprüfung, Rollenklärung und Mandatsziel im Einfache und leichte Sprache im Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrenss..."
+description: "Wenn es um Juristische: Erstprüfung, Rollenklärung und Mandatsziel in Einfache und Leichte Sprache für juristische Texte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Juristische: Erstprüfung, Rollenklärung und Mandatsziel

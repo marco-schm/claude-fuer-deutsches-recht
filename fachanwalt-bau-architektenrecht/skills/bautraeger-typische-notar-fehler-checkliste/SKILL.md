@@ -1,6 +1,6 @@
 ---
 name: bautraeger-typische-notar-fehler-checkliste
-description: "Typische Notar-Fehler im Bautraegervertrag: Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung übersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Prüfraster und Em..."
+description: "Wenn es um Typische Notar-Fehler im Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Typische Notar-Fehler im Bautraegervertrag

@@ -1,6 +1,6 @@
 ---
 name: fristenbuch-sozialrecht
-description: "Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und ueberwachen: Fristenbuch Sozialrecht. Standardfristen: § 84 SGG Widerspruch 1 Monat § 87 SGG K..."
+description: "Wenn es um Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und ueberwachen in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und ueberwachen

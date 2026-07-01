@@ -1,6 +1,6 @@
 ---
 name: kirchenrecht-und-staatskirchenrecht
-description: "Deutsche Rechtsgeschichte: Kirchenrecht und Staatskirchenrecht. Reichskirchenrecht, Kulturkampf 1870er, Weimarer Kirchenartikel WRV Art. 136-141, GG Art. 140 und Verhältnis Staat-Kirche heute im Deutsche Rechtsgeschichte."
+description: "Wenn es um Kirchenrecht und Staatskirchenrecht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kirchenrecht und Staatskirchenrecht

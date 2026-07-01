@@ -1,6 +1,6 @@
 ---
 name: logistik-spedition-maengelrechte
-description: "Branchen-Fachmodul für Logistik Spedition AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen im AGB-Recht."
+description: "Wenn es um Logistik Spedition AGB in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Logistik Spedition Maengelrechte; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Logistik Spedition AGB

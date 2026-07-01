@@ -1,6 +1,6 @@
 ---
 name: private-hochschule-anerkennung
-description: "Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren und Studentennrechte im Hochschulrecht Länder."
+description: "Wenn es um Private Hochschule und Anerkennung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Private Hochschule und Anerkennung

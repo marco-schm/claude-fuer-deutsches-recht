@@ -1,6 +1,6 @@
 ---
 name: konnossement-hypothek-bestellen
-description: "Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bestellt Schiffshypothek als Sicherheit für Finanzierung eines Konnossements-Transaktion (Bill of Lading). HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Notarielle Bestellungsurkunde..."
+description: "Wenn es um Konnossement – Schiffshypothek bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konnossement – Schiffshypothek bestellen

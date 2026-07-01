@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Fachanwalt Migrationsrecht: wählt den nächsten Spezial-Skill nach Engpass (§ 74 AsylG Klagefrist 2 Wochen / 1 Mon., Bescheid BAMF/ABH, Pass, Aufenthaltstitel), dokumentiert Router-Entscheidung mit Begründung."
+description: "Wenn es um Anschluss-Routing in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anschluss-Routing

@@ -1,6 +1,6 @@
 ---
 name: erstpruefung-rollenklaerung
-description: "Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
+description: "Wenn es um Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel in Tabellenreview 3D geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erstpruefung Rollenklaerung; Arbeitsfeld: Tabellenreview 3D."
 ---
 
 # Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: amtsangemessene-alimentation-bverfg
-description: "Skill zur Prüfung der amtsangemessenen Alimentation der Beamten Richter und Soldaten nach Art. 33 Abs. 5 GG. Skill arbeitet das fuenfstufige Prüfungsschema des BVerfG ab mit den Indikatoren Tarifabstand Preisentwicklung Versorgungsempfaenger Vergleich zu anderen Besoldungsgruppen Familienzuschl..."
+description: "Wenn es um Amtsangemessene Alimentation — Prüfschema BVerfG in Beamtenrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Amtsangemessene Alimentation — Prüfschema BVerfG

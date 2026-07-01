@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-raub-249-stgb
-description: "Raub nach § 249 StGB: Grundtatbestand. Wegnahme einer fremden beweglichen Sache mit Gewalt gegen eine Person oder unter Drohung mit gegenwaertiger Gefahr für Leib oder Leben. Zueignungsabsicht. Finalzusammenhang. Strafrahmen nicht unte..."
+description: "Wenn es um Raub nach Paragraf 249 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Raub nach § 249 StGB

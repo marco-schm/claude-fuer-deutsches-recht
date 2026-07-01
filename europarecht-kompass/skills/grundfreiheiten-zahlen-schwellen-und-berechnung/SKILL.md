@@ -1,6 +1,6 @@
 ---
 name: grundfreiheiten-zahlen-schwellen-und-berechnung
-description: "Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung in Europarecht-Kompass für deutsche Juristen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: gesellschafterlistenstreit-eilstrategie-gmbh
-description: "Ordnet Anspruch, einstweilige Verfügung, Registersperre, materiellen Streit und Kommunikation mit Registergericht/Notar im Handelsregister Praxis."
+description: "Wenn es um Gesellschafterlistenstreit strategisch führen in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Gesellschafterlistenstreit strategisch führen

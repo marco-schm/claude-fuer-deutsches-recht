@@ -1,6 +1,6 @@
 ---
 name: workflow-balkonkraftwerk-solar
-description: "Balkonkraftwerk und Solar: Prüfungslinie für Miet- und WEG-Recht: sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-S..."
+description: "Wenn es um Balkonkraftwerk und Solar: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Balkonkraftwerk und Solar: Prüfungslinie für Miet- und WEG-Recht

@@ -1,6 +1,6 @@
 ---
 name: chancenkarte-punktesystem
-description: "Chancenkarte Punktesystem: Fachmodul im Migrationsrecht: prüft Qualifikation, Punkte, Lebensunterhalt, Nebenbeschäftigung und Anschlussstatus; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Qu..."
+description: "Wenn es um Chancenkarte Punktesystem: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chancenkarte Punktesystem: Fachmodul im Migrationsrecht

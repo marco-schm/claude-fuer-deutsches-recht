@@ -1,6 +1,6 @@
 ---
 name: branchen-spezifische-formulierungen
-description: "Decodiert branchenspezifische Formulierungen im Arbeitszeugnis zur präzisen Noteneinordnung. Anwendungsfall Zeugnis enthält Formulierungen die nur im Kontext einer bestimmten Branche verständlich sind. Branchen Vertrieb (Umsatz Zielerreichung) Recht (Mandatsführung Kanzlei) IT (Projektverantwortung Technologie) Pflege (Patientenkontakt Empathie) und weitere. Normen Paragraf 109 GewO Paragraf 241 Abs. 2 BGB Wohlwollenspflicht. Output Ampelzuordnung branchenspezifischer Formulierungen mit Notentendenzen und Alternativformulierungen. Abgrenzung zu geheimcode-katalog (allgemeine Geheimcodes) und leistungsbeurteilung-analyse."
+description: "Wenn es um Branchenspezifische Formulierungen in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Branchenspezifische Formulierungen

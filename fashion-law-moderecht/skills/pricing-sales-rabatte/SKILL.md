@@ -1,6 +1,6 @@
 ---
 name: pricing-sales-rabatte
-description: "Rabatte, Sales, Streichpreise und Outlet-Kommunikation prüfen: Preisangaben, UWG, Omnibus-Regeln, Vergleichspreise und Irreführung im Fashion Law Moderecht."
+description: "Wenn es um Pricing Sales Rabatte in fashion-law-moderecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Pricing Sales Rabatte

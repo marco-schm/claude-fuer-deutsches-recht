@@ -1,6 +1,6 @@
 ---
 name: personen-rechtsfaehigkeit-und-handlungsfaehigkeit
-description: "Prüft Rechtsfähigkeit, Verbraucher- und Unternehmerrolle, Wohnsitz, Organe und Handlungsfähigkeit als Vorfragen für BGB-AT-Fälle und Vertragsprüfungen."
+description: "Wenn es um Personen Rechtsfaehigkeit Und Handlungsfaehigkeit in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Personen Rechtsfaehigkeit Und Handlungsfaehigkeit

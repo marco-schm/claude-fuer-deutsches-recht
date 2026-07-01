@@ -1,6 +1,6 @@
 ---
 name: sozietaetswechsel-und-mandantenmitnahme-rechtsprechung
-description: "Anwälte: sozietaetswechsel und mandantenmitnahme - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Anwälte: sozietaetswechsel und mandantenmitnahme - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

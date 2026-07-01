@@ -1,6 +1,6 @@
 ---
 name: art-12-berufsfreiheit-regulierungsdichte
-description: "Art. 12 GG in Berufs- und Wirtschaftsregulierung: Berufsausübung, subjektive und objektive Zulassung, Altersgrenzen, sektorale Verbote, Einschätzungsspielraum und Verhältnismäßigkeit nach aktueller BVerfG-Linie."
+description: "Wenn es um Art. 12 GG: Berufsfreiheit und Regulierungsdichte in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Art. 12 GG: Berufsfreiheit und Regulierungsdichte

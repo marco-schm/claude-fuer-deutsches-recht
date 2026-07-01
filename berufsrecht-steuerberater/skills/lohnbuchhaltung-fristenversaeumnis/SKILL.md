@@ -1,6 +1,6 @@
 ---
 name: lohnbuchhaltung-fristenversaeumnis
-description: "Steuerberater: lohnbuchhaltung fristenversaeumnis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Lohnbuchhaltung Fristenversaeumnis in Berufsrecht Steuerberater geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: lohnbuchhaltung fristenversaeumnis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

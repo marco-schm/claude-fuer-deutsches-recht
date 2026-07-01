@@ -1,6 +1,6 @@
 ---
 name: waehlerdaten-und-listen
-description: "Wahlkampfrecht Praxis: Waehler-, Mitglieder-, Interessenten- und Volunteerlisten prüfen im Wahlkampfrecht."
+description: "Wenn es um Waehlerdaten Und Listen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Waehlerdaten Und Listen

@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-messstellenbetrieb-msbg-smart-meter-unt
-description: "Messstellenbetrieb MsbG Smart Meter: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: Messstellenbetrieb MsbG Smart Meter — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Messstellenbetrieb MsbG Smart Meter — Unterlagenanforderung

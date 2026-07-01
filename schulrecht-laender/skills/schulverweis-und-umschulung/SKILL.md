@@ -1,6 +1,6 @@
 ---
 name: schulverweis-und-umschulung
-description: "Prüft Schulverweis, Umsetzung und Schulwechsel als Sanktion im Schulrecht Länder."
+description: "Wenn es um Schulverweis Und Umschulung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulverweis Und Umschulung

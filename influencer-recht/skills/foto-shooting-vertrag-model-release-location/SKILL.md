@@ -1,6 +1,6 @@
 ---
 name: foto-shooting-vertrag-model-release-location
-description: "Influencer-Recht: Foto-Shooting – Vertragsgestaltung, Model Release, Location-Genehmigung, Urheberrecht Fotograf und Nutzungsrechte im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Foto-Shooting – Vertrag, Model Release und Location in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Influencer-Recht: Foto-Shooting – Vertrag, Model Release und Location

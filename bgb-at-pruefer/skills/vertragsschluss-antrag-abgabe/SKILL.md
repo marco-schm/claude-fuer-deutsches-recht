@@ -1,6 +1,6 @@
 ---
 name: vertragsschluss-antrag-abgabe
-description: "Klausurfall zum Vertragsschluss durch Antrag und Annahme nach §§ 145 bis 156 BGB: Bindungswirkung des Antrags, Erlöschungsgründe, Annahmefrist unter An- und Abwesenden, verspätete und abgeänderte Annahme sowie Zeitpunkt des Vertragsschlusses. Output: vollständiger Subsumtionspfad im BGB AT."
+description: "Wenn es um Vertragsschluss — Antrag und Annahme Paragrafen 145 bis 156 BGB in BGB AT Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vertragsschluss Antrag Abgabe; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Vertragsschluss — Antrag und Annahme §§ 145 bis 156 BGB

@@ -1,6 +1,6 @@
 ---
 name: mandantenmemo-und-partner-update
-description: "Erstellt Mandantenmemos, Partner-Updates und Management Notes aus juristischer Prüfung. Liefert Executive Summary, klare Empfehlung, Risikoampel, Entscheidungsoptionen, offene Punkte, Fristen und nächste Schritte. Vermeidet Lehrbuch-Gutachten und übersetzt Rechtsfragen in handlungsfähige Kanzleis..."
+description: "Wenn es um Mandantenmemo und Partner-Update in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantenmemo und Partner-Update

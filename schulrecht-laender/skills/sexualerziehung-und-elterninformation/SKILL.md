@@ -1,6 +1,6 @@
 ---
 name: sexualerziehung-und-elterninformation
-description: "Prüft Sexualerziehung und Elterninformation im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Sexualerziehung Und Elterninformation in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sexualerziehung Und Elterninformation

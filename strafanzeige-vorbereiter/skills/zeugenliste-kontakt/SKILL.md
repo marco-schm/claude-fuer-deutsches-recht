@@ -1,6 +1,6 @@
 ---
 name: zeugenliste-kontakt
-description: "Zeugen benennen, aber nicht beeinflussen: Kontaktdaten, Wahrnehmung, Reihenfolge und Dokumentation im Strafanzeige-Vorbereitung."
+description: "Wenn es um Zeugenliste und Kontaktregeln in Strafanzeige-Vorbereiter geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zeugenliste und Kontaktregeln

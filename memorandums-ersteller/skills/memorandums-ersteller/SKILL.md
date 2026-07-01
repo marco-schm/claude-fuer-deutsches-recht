@@ -1,6 +1,6 @@
 ---
 name: memorandums-ersteller
-description: "Erstellt ein professionelles juristisches Memorandum aus heterogenen Mandantenunterlagen. Anwendungsfall Mandant hat Unterlagen eingereicht und Kanzlei soll Rechtslage in Memorandumsform aufbereiten. Normen rechtsgebietsneutral einsetzbar für Arbeitsrecht Mietrecht Gesellschaftsrecht Vertragsrech..."
+description: "Wenn es um Memorandums-Ersteller in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Memorandums-Ersteller

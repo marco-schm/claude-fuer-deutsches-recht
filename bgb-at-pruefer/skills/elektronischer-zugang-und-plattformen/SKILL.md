@@ -1,6 +1,6 @@
 ---
 name: elektronischer-zugang-und-plattformen
-description: "Prüft elektronischen Zugang von Willenserklärungen nach § 130 BGB: E-Mail-Postfach, Plattform-Postfächer, automatisierte Systeme, Zeitpunkt der Kenntnisnahmemöglichkeit und Empfangsbereitschaft im B2B- und B2C-Bereich."
+description: "Wenn es um Elektronischer Zugang und Plattformen — Paragraf 130 BGB digital in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Elektronischer Zugang und Plattformen — § 130 BGB digital

@@ -1,6 +1,6 @@
 ---
 name: iap-aussonderung-absonderung-spezial
-description: "Spezialfall Aussonderung und Absonderung §§ 47 sowie 49 ff. InsO: Eigentumsvorbehalt, Sicherungseigentum, Forderungsabtretung, Grundpfandrecht. Prüfraster für Insolvenzverwalter im Insolvenzforderungsanmeldungspruefung."
+description: "Wenn es um IAP: Aussonderung Absonderung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IAP: Aussonderung Absonderung

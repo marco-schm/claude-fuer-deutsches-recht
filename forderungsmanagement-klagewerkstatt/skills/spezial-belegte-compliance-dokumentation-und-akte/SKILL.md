@@ -1,6 +1,6 @@
 ---
 name: spezial-belegte-compliance-dokumentation-und-akte
-description: "Belegte: Compliance-Dokumentation und Aktenvermerk im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Belegte: Compliance-Dokumentation und Aktenvermerk in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Belegte: Compliance-Dokumentation und Aktenvermerk

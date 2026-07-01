@@ -1,6 +1,6 @@
 ---
 name: quellen-und-rechtsprechungscheck
-description: "Quellen- und Rechtsprechungscheck: vertiefter Berufsrechts-Skill für Anwälte; prüft verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
+description: "Wenn es um Quellen- und Rechtsprechungscheck in Berufsrecht Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Quellen- und Rechtsprechungscheck

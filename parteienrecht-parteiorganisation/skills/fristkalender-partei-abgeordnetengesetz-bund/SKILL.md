@@ -1,6 +1,6 @@
 ---
 name: fristkalender-partei-abgeordnetengesetz-bund
-description: "Erstellt Fristenkalender für Versammlungen, Wahlvorschläge, Rechenschaft, Spendenmeldungen, Satzungsfristen im Parteienrecht."
+description: "Wenn es um Fristkalender Partei in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fristkalender Partei Abgeordnetengesetz Bund; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Fristkalender Partei

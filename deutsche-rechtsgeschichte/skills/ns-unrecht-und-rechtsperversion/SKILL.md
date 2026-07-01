@@ -1,6 +1,6 @@
 ---
 name: ns-unrecht-und-rechtsperversion
-description: "Deutsche Rechtsgeschichte: NS-Unrecht und Rechtsperversion. Rassegesetze, Nuernberger Gesetze 1935, Enteignungsrecht im NS, Radbruch-Formel und Aufarbeitung nach 1945 im Deutsche Rechtsgeschichte."
+description: "Wenn es um NS-Unrecht und Rechtsperversion in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NS-Unrecht und Rechtsperversion

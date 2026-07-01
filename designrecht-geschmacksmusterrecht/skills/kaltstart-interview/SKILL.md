@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Geführtes Kaltstart-Interview für Designmandate: Designer, Unternehmen, Produkt, Ansichten, Veröffentlichungen, Prioritäten, Länder, Fristen, Budget, Gegner, Register und gewünschte Durchsetzung."
+description: "Wenn es um Designrecht Kaltstart Interview in designrecht-geschmacksmusterrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Designrecht Kaltstart Interview

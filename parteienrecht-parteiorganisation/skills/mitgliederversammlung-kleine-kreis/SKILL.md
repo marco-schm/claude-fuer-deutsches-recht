@@ -1,6 +1,6 @@
 ---
 name: mitgliederversammlung-kleine-kreis
-description: "Niedrigschwelliger für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte im Parteienrecht."
+description: "Wenn es um Kleine Partei Praxis in Parteienrecht und Parteiorganisation geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kleine Partei Praxis

@@ -1,6 +1,6 @@
 ---
 name: tabellenimport-zahlen-schwellen-und-berechnung
-description: "Tabellenimport: Zahlen, Schwellenwerte und Berechnung im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldung..."
+description: "Wenn es um Tabellenimport: Zahlen, Schwellenwerte und Berechnung in Insolvenzforderungsanmeldungsprüfung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Tabellenimport: Zahlen, Schwellenwerte und Berechnung

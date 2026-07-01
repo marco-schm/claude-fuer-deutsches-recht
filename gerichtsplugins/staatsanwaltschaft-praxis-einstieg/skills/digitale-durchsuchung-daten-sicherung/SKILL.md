@@ -1,6 +1,6 @@
 ---
 name: digitale-durchsuchung-daten-sicherung
-description: "Digitale Durchsuchung und Datensicherung: Praxis-Skill für neue Staatsanwälte zu Smartphones, Cloud, Messenger, Server, Hashwerte, Sichtung und Datenminimierung in den Griff bekommen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Digitale Durchsuchung und Datensicherung in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Digitale Durchsuchung und Datensicherung

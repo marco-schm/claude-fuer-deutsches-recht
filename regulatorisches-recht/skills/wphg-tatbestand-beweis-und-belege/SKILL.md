@@ -1,6 +1,6 @@
 ---
 name: wphg-tatbestand-beweis-und-belege
-description: "Wphg: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Wphg: Tatbestandsmerkmale, Beweisfragen und Beleglage in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Wphg: Tatbestandsmerkmale, Beweisfragen und Beleglage

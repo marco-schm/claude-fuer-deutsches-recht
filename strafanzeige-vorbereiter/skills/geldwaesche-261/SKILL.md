@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-261
-description: "Geldwäscheverdacht: Tatertrag, Verschleierung, Transaktionen, GwG-Verdachtsmeldung vs Strafanzeige im Strafanzeige-Vorbereitung."
+description: "Wenn es um Geldwäsche Paragraf 261 StGB in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geldwäsche § 261 StGB

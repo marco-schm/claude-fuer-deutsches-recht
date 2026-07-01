@@ -1,6 +1,6 @@
 ---
 name: financing-convertible-fully-diluted
-description: "Erklaert Convertible Loan, Wandeldarlehen, SAFE, Discount, Valuation Cap, MFN und deutsche Notar- und Kapitalerhoehungsfragen im Gesellschaftsrecht Legal English."
+description: "Wenn es um Convertible Loan und SAFE in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Convertible Loan und SAFE

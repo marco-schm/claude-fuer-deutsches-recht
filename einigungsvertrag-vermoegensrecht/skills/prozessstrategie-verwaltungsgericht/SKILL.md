@@ -1,6 +1,6 @@
 ---
 name: prozessstrategie-verwaltungsgericht
-description: "Einigungsvertrag und Vermögensrecht: Prozessstrategie Verwaltungsgericht. Prozessstrategie Verwaltungsgericht im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die..."
+description: "Wenn es um Prozessstrategie Verwaltungsgericht in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Prozessstrategie Verwaltungsgericht

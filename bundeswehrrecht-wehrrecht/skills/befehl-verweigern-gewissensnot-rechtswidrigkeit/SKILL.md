@@ -1,6 +1,6 @@
 ---
 name: befehl-verweigern-gewissensnot-rechtswidrigkeit
-description: "Befehlsverweigerung, Gewissensnot, Rechtswidrigkeit: prüft §§ 10–12 SG, § 22 WStG, Art. 4 GG, Strafbarkeit und disziplinarische Folgen. Norm-/Quellenanker: §§ 10–12 SG, §§ 19–22 WStG, BVerwG 2 WD 12/04 im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit

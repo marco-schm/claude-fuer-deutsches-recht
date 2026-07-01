@@ -1,6 +1,6 @@
 ---
 name: cas-dis-sport-verbands-schiedsverfahren
-description: "Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert: WADA-Code Anti-Doping FIFA Players Status C..."
+description: "Wenn es um Cas Dis Sport Verbands Schiedsverfahren in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert

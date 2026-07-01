@@ -1,6 +1,6 @@
 ---
 name: vdg-067-abo-modell-vergleich-pruefen
-description: "Verbraucherschutzverband Durchsetzung: Abo-Modell: Vergleich prüfen. Vergleich prüfen für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Abo Modell Vergleich Pruefen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Abo Modell Vergleich Pruefen

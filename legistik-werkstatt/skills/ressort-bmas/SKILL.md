@@ -1,6 +1,6 @@
 ---
 name: ressort-bmas
-description: "Heranfuehrung Ressort BMAS (Bundesministerium für Arbeit und Soziales). Schwerpunkt: Arbeit und Tarif; Sozialversicherung; Rente; Arbeitsschutz; Teilhabe. Kernnormen: ArbZG; TVG; ArbSchG; SGB I bis SGB XII; SGB IX; SGB VI; BetrVG. Fuenf Spezialfelder: arbeitsrecht-und-arbeitsschutz; sozialversich..."
+description: "Wenn es um Ressort-Heranfuehrung BMAS in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressort-Heranfuehrung BMAS

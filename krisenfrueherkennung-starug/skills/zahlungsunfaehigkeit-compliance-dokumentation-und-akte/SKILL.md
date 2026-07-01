@@ -1,6 +1,6 @@
 ---
 name: zahlungsunfaehigkeit-compliance-dokumentation-und-akte
-description: "Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk in Krisenfrüherkennung und StaRUG-Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk

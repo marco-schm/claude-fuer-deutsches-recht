@@ -1,6 +1,6 @@
 ---
 name: bea-paketierung-groessen-und-versandplan
-description: "Plant elektronische Anlagenpakete für beA/ERV: Dateinamen, Reihenfolge, Paketgrößen, PDF/OCR, Nachsendungen, Begleitvermerk und finaler Versandcheck."
+description: "Wenn es um beA-Paketierung und Versandplan in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # beA-Paketierung und Versandplan

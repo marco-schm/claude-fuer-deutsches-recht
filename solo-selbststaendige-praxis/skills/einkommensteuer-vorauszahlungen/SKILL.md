@@ -1,6 +1,6 @@
 ---
 name: einkommensteuer-vorauszahlungen
-description: "Solo-Selbstständige: prüft Vorauszahlungen, Liquidität und Änderung der Vorauszahlung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Steuern und Buchhaltung: Prüft vorauszahlungen in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuern und Buchhaltung: Prüft vorauszahlungen

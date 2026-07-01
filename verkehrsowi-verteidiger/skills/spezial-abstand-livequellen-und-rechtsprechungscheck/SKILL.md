@@ -1,6 +1,6 @@
 ---
 name: spezial-abstand-livequellen-und-rechtsprechungscheck
-description: "Abstand: Livequellen- und Rechtsprechungscheck im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Abstand: Livequellen- und Rechtsprechungscheck in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abstand: Livequellen- und Rechtsprechungscheck

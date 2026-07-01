@@ -1,6 +1,6 @@
 ---
 name: erforderlichkeit-mildestes-mittel
-description: Stufe 3 der Verhältnismäßigkeit Erforderlichkeit als Suche nach dem mildesten gleich effektiven Mittel. Mit Prüfraster fuer Mittelvergleich Effektivitaetsvergleich und Drittbelastungsverlagerung sowie Hinweisen zur Einschaetzungspraerogative.
+description: "Wenn es um Erforderlichkeit Mildestes Mittel in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erforderlichkeit Mildestes Mittel

@@ -1,6 +1,6 @@
 ---
 name: kommissionsverfahren-vorlageverfahren
-description: "Kommissionsverfahren: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Kommissionsverfahren: Formular, Portal und Einreichungslogik in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommissionsverfahren: Formular, Portal und Einreichungslogik

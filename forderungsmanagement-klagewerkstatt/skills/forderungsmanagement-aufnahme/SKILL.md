@@ -1,6 +1,6 @@
 ---
 name: forderungsmanagement-aufnahme
-description: "Forderung systematisch aufnehmen: Glaeubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen Paragraf 288 BGB, vorgerichtliche Anwaltskosten, Mahngebuehren), Faelligkeit, Verjaehrungsbeginn. Output: vollstaendige Forderungsbeschreibung als Basis fuer Mahnverfahren oder Klage."
+description: "Wenn es um Forderung aufnehmen in Forderungsmanagement — Klagewerkstatt geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Forderung aufnehmen

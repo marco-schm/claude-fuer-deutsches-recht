@@ -1,6 +1,6 @@
 ---
 name: drg-099-vertiefung-01-red-team-gegenposition
-description: "Deutsche Rechtsgeschichte: Vertiefung 01 Red Team Gegenposition. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Vertiefung 01 Red Team Gegenposition in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertiefung 01 Red Team Gegenposition

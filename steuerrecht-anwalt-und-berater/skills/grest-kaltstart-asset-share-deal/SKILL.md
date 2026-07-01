@@ -1,6 +1,6 @@
 ---
 name: grest-kaltstart-asset-share-deal
-description: "Grunderwerbsteuer-Kaltstart für Immobilien-Transaktionen: Asset Deal, Share Deal, Signing, Closing, 90-Prozent-Schwelle, 10-Jahres-Zeitraum, Steuersatz je Bundesland, Anzeige, Bescheid und AdV routen."
+description: "Wenn es um GrESt-Kaltstart: Asset Deal oder Share Deal in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # GrESt-Kaltstart: Asset Deal oder Share Deal

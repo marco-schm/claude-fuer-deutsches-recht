@@ -1,6 +1,6 @@
 ---
 name: outsourcing-externe-dienstleister
-description: "Externe Dienstleister außerhalb reiner IKT prüfen: Auslagerung, sonstiger Fremdbezug, Datenschutz, Bankgeheimnis, SLA, Prüfungsrechte, Kündigung, Business Continuity und Registerpflege im Bank-Rechtsabteilung."
+description: "Wenn es um Outsourcing allgemein in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Outsourcing allgemein

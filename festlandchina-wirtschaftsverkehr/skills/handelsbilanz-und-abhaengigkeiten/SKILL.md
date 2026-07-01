@@ -1,6 +1,6 @@
 ---
 name: handelsbilanz-und-abhaengigkeiten
-description: "Analyse struktureller Handelsabhängigkeiten von Deutschland/EU gegenüber VR China: Gütergruppen mit Importkonzentration über 50 Prozent, kritische Rohstoffe (Seltene Erden, Gallium, Germanium), Exportabhängigkeiten dt. Industrie (Automotive, Maschinenbau), Substitutionspotenzial. Output: Abhängig..."
+description: "Wenn es um Handelsbilanz und Abhängigkeiten: Analyse und Risikobewertung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsbilanz und Abhängigkeiten: Analyse und Risikobewertung

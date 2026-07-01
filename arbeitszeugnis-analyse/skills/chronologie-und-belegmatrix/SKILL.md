@@ -1,6 +1,6 @@
 ---
 name: chronologie-und-belegmatrix
-description: "Chronologie und Belegmatrix für Arbeitszeugnisse: Tätigkeitsverlauf, Leistungs-/Führungsbelege, Entwurfsstände, Schlussformel, Geheimcodes und Arbeitgeberkommunikation gerichtsfest ordnen."
+description: "Wenn es um Chronologie und Belegmatrix Arbeitszeugnis in Arbeitszeugnis-Analyse geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Chronologie und Belegmatrix Arbeitszeugnis

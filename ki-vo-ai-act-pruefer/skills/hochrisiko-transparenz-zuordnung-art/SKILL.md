@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-transparenz-zuordnung-art
-description: "Anbieter von Hochrisiko-KI fragt: Welche Informationen muessen wir dem Betreiber in der Gebrauchsanweisung zur Verfuegung stellen? Art. 13 KI-VO Transparenz und Informationspflichten. Prüfraster: Gebrauchsanweisung Mindestinhalt Art. 13 Abs. 3 Systembeschreibung Zweck Genauigkeitsmetriken Risiken"
+description: "Wenn es um Transparenz und Informationen für Betreiber — Art. 13 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Hochrisiko Transparenz Zuordnung Art; Arbeitsfeld: europäischem Technikregulierungsrecht."
 ---
 
 # Transparenz und Informationen für Betreiber — Art. 13 KI-VO

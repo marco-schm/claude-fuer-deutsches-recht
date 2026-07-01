@@ -1,6 +1,6 @@
 ---
 name: datenschutz-aufsichtsbehoerde
-description: "Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inhaltlich und taktisch fuehren. Sieben-Fragen-Diagnose: Welche Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG welcher Anlass Prüfung Anhörung Mandant antwortbereit. Schritt-für-Schritt: Mandantenfreigabe zwingend NICHT vorschn..."
+description: "Wenn es um Datenschutz Mandantenkommunikation mit Aufsichtsbehoerden in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz Mandantenkommunikation mit Aufsichtsbehoerden

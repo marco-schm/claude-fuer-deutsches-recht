@@ -1,6 +1,6 @@
 ---
 name: 018-kanonisches-recht-und-roemisches-recht-wechselwirkun
-description: "Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung im Römisches Recht."
+description: "Wenn es um Rom Kanonisches Recht Und Roemisches Recht Wechselwirkun in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Kanonisches Recht Und Roemisches Recht Wechselwirkun

@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-richter-baurecht-beamtenrecht
-description: "Ehrenamtlicher Richter Baurecht (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Baugenehmigung, Nachbarschutz, Bebauungsplan, Ermessensfragen und Ortstermin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Ehrenamtlicher Richter Baurecht: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Ehrenamtlicher Richter Baurecht: Sitzungspraxis

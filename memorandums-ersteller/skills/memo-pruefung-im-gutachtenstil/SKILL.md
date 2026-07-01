@@ -1,6 +1,6 @@
 ---
 name: memo-pruefung-im-gutachtenstil
-description: "Prüfungsabschnitt im Gutachtenstil: Obersatz, Definition, Subsumtion, Zwischenergebnis. Streitiges nur dann oeffnen, wenn für das Ergebnis relevant. BGH-Linien werden zitiert, nicht referiert. Output mit klaren Ueberschriften und kurzer Inhaltsuebersicht im Memorandums Ersteller."
+description: "Wenn es um Memo: Prüfung im Gutachtenstil in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Memo: Prüfung im Gutachtenstil

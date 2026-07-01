@@ -1,6 +1,6 @@
 ---
 name: amtsloeschung-familienloeschung-registerblatt
-description: "Prüft Löschungsandrohung, Anhörung, Unrichtigkeit, Vermögenslosigkeit, Gegenwehr und Dokumentationsstrategie im Handelsregister Praxis."
+description: "Wenn es um Amtslöschung und Registerbereinigung in Handelsregister Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Amtslöschung und Registerbereinigung

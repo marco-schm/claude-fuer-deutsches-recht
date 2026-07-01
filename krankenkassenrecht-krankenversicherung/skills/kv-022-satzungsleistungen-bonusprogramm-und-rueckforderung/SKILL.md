@@ -1,6 +1,6 @@
 ---
 name: kv-022-satzungsleistungen-bonusprogramm-und-rueckforderung
-description: "Krankenversicherung: Satzungsleistungen Bonusprogramm und Rückforderung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Satzungsleistungen Bonusprogramm und Rückforderung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Satzungsleistungen Bonusprogramm und Rückforderung

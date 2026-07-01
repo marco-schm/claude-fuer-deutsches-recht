@@ -1,6 +1,6 @@
 ---
 name: juristenausbildung-und-pruefungswesen
-description: "Deutsche Rechtsgeschichte: Juristenausbildung und Prüfungswesen. Universitaetsrechtsstudium seit Mittelalter, Referendariat, Erste und Zweite Staatspruefung, NS-Gleichschaltung der Ausbildung und Reformen bis heute im Deutsche Rechtsgeschichte."
+description: "Wenn es um Juristenausbildung und Prüfungswesen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Juristenausbildung und Prüfungswesen

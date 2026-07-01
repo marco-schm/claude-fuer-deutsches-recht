@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-3wochen
-description: "Drei-Wochen-Liquiditätsvorschau nach Paragraf 17 InsO mit Wochenraster, Excel-Export, Quote, Lücken-Ampel und Dokumentation. Rechtsprechung nur nach Live-Prüfung."
+description: "Wenn es um Drei-Wochen-Liquiditätsvorschau (Paragraf 17 InsO, wochenaktuell) in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Drei-Wochen-Liquiditätsvorschau (§ 17 InsO, wochenaktuell)

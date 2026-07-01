@@ -1,6 +1,6 @@
 ---
 name: verfuegung-beweislast-und-darlegungslast
-description: "Einstweilige Verfügung: Beweislast und Darlegungslast: Glaubhaftmachung § 294 ZPO, Verfügungsanspruch und Verfügungsgrund, eidesstattliche Versicherung, Gegenglaubhaftmachung, sekundäre Darlegungslast,..."
+description: "Wenn es um Einstweilige Verfügung: Beweislast und Darlegungslast in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstweilige Verfügung: Beweislast und Darlegungslast

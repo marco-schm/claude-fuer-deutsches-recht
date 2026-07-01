@@ -1,6 +1,6 @@
 ---
 name: konfliktverteidigung-sitzung-souveraen
-description: "Anstrengende Verteidigung in der Sitzung: souverän bleiben: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
+description: "Wenn es um Anstrengende Verteidigung in der Sitzung: souverän bleiben in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Konfliktverteidigung Sitzung Souveraen; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
 ---
 
 # Anstrengende Verteidigung in der Sitzung: souverän bleiben

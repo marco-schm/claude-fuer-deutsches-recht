@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-vollstreckungsunterwerfung
-description: "Prüft § 800 ZPO-Schnittstelle, dingliche Unterwerfung, Klausel und Zustellung im Grundbuchamt Praxis."
+description: "Wenn es um Unterwerfung und Vollstreckung in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterwerfung und Vollstreckung

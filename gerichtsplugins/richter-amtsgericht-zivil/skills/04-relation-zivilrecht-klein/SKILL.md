@@ -1,6 +1,6 @@
 ---
 name: 04-relation-zivilrecht-klein
-description: "Echte Relation: Klägerstation (Schluessigkeit der Anspruchsgrundlage), Beklagtenstation (Erheblichkeit der Einwendungen), Beweisstation (beweisbedürftige Tatsachen + Beweislast), schriftliches Votum"
+description: "Wenn es um 04 Relation Zivilrecht Klein in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 04 Relation Zivilrecht Klein

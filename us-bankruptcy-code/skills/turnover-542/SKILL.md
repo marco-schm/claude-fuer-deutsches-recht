@@ -1,6 +1,6 @@
 ---
 name: turnover-542
-description: "Prüft turnover of estate property, records, account funds, collateral and foreign holder issues im US Bankruptcy Code."
+description: "Wenn es um Turnover Paragraf 542 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Turnover § 542

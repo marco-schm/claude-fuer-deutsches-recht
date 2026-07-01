@@ -1,6 +1,6 @@
 ---
 name: heizkostenverordnung
-description: "Heizkostenverordnung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Verbrauchserfassung, Umlageschlüssel, Kürzungsrecht, Nutzergruppen; mit Normprüfung, Beweisen, Fristen, Risikoamp..."
+description: "Wenn es um Heizkostenverordnung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Heizkostenverordnung: Fachmodul im Miet- und Wohnungseigentumsrecht

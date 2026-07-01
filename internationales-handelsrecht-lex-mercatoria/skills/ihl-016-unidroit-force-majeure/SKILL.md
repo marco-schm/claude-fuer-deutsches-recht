@@ -1,6 +1,6 @@
 ---
 name: ihl-016-unidroit-force-majeure
-description: "Internationales Handelsrecht und Lex Mercatoria: Unidroit Force Majeure. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Unidroit Force Majeure in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unidroit Force Majeure

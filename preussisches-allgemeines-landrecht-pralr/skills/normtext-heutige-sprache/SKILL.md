@@ -1,6 +1,6 @@
 ---
 name: normtext-heutige-sprache
-description: "PrALR: historische Normtexte verständlich, knapp und ohne Sinnverschiebung in heutiges Deutsch übertragen."
+description: "Wenn es um In heutige Sprache übertragen in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Normtext Heutige Sprache; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # In heutige Sprache übertragen

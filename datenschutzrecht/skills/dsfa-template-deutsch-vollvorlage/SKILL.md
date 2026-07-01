@@ -1,6 +1,6 @@
 ---
 name: dsfa-template-deutsch-vollvorlage
-description: "Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuellten Platzhaltern für alle sechs Pflichtsektionen Beschreibung Verhältnismäßigkeit Risiken Maßnahmen Restrisiko Freigabe. Output: vollstaendige DSFA-Vorlage zum Befuellen."
+description: "Wenn es um DSFA-Vollvorlage Deutsch in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DSFA-Vollvorlage Deutsch

@@ -1,6 +1,6 @@
 ---
 name: beweislast-bag-9-azr-584-13
-description: Anwendung der BAG-Beweislastregel im Zeugnisstreit mit Note 3 als Ausgangspunkt und Konsequenzen fuer die Durchsetzungschancen des Mandanten bei Verlangen einer besseren oder Abwehr einer schlechteren Bewertung.
+description: "Wenn es um Beweislast nach BAG 9 AZR 584.13 in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweislast nach BAG 9 AZR 584.13

@@ -1,6 +1,6 @@
 ---
 name: lebensversicherung-bezugsrecht-widerruf-aenderung
-description: "Bezugsrechte in Lebens- und Rentenversicherung: widerruflich/unwiderruflich, Scheidung, Erbfall, Sicherungsabtretung, Insolvenz, Änderungserklärung und Auszahlungsstreit im Versicherungsrecht."
+description: "Wenn es um Lebensversicherung: Bezugsrecht, Widerruf, Änderung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Lebensversicherung: Bezugsrecht, Widerruf, Änderung

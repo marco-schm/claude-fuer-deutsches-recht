@@ -1,6 +1,6 @@
 ---
 name: anspruchstabelle-beweislast
-description: "Anspruchstabelle für zivilprozessuales Mandat erstellen: alle Ansprüche und Gegenansprüche tabellarisch erfassen. Normen: Paragrafen 253 261 ZPO. Prüfraster: Anspruchsgrundlage, Betrag, Verjaebrung, Beweisstatus. Output: Anspruchstabelle als Grundlage für Klageschrift oder Erwiderung. Abgrenzung: nicht S..."
+description: "Wenn es um Anspruchstabelle in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anspruchstabelle

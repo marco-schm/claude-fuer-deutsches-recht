@@ -1,6 +1,6 @@
 ---
 name: termination-remediation
-description: "Entwickelt Kündigungsstrategie für Beschuldigte und Beteiligte – Tatkündigung, Verdachtskündigung, Trennungsvereinbarung, Outplacement im Internal Investigations Praxis."
+description: "Wenn es um Kündigungsstrategie nach Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Kündigungsstrategie nach Internal Investigations

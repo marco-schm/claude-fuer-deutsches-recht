@@ -1,6 +1,6 @@
 ---
 name: spesen-kosten
-description: "Prüft Aufwendungsersatz und Spesenabrechnungen im Handelsvertretervertrag: gesetzlicher Aufwendungsersatzanspruch nach § 87d HGB, vertragliche Pauschalierungen, Abrechnungsmodalitäten, Abgrenzung von Provision und Kosten sowie steuerliche Behandlung von Spesen nach EStG im Handelsvertreterrecht."
+description: "Wenn es um Spesen und Aufwendungsersatz im Handelsvertretervertrag nach Paragraf 87d HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Spesen und Aufwendungsersatz im Handelsvertretervertrag nach § 87d HGB

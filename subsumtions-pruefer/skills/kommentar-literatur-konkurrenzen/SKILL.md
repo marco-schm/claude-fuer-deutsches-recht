@@ -1,6 +1,6 @@
 ---
 name: kommentar-literatur-konkurrenzen
-description: "Quellenhinweis für vertiefte Subsumtion. Gibt keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen aus. Markiert, welche Normen vertieft in Literatur oder Datenbanken zu prüfen sind, und fordert Nutzerquellen oder lizenzierten Live-Zugriff an im Subsumtions Pruefer."
+description: "Wenn es um Quellenhinweis ohne Blindzitate in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quellenhinweis ohne Blindzitate

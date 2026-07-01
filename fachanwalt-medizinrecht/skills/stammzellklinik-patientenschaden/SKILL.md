@@ -1,6 +1,6 @@
 ---
 name: stammzellklinik-patientenschaden
-description: "Stammzellklinik und Patientenschaden: moderner Medizinrechts-Skill für Haftung nach nicht zugelassener Zellbehandlung, Beweisführung, Aufklärung und deliktische Ansprüche: Stammzellklinik und Patientenschaden: moderner Medizinrechts-Skill für Haftung nach n..."
+description: "Wenn es um Stammzellklinik Patientenschaden in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stammzellklinik und Patientenschaden: moderner Medizinrechts-Skill für Haftung nach nicht zugelassener Zellbehandlung, Beweisführung, Aufklärung und deliktische Ansprüche

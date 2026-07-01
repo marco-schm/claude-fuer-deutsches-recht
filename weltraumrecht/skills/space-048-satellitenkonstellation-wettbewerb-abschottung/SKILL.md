@@ -1,6 +1,6 @@
 ---
 name: space-048-satellitenkonstellation-wettbewerb-abschottung
-description: "Weltraumrecht: Satellitenkonstellation Wettbewerbsrecht und Marktabschottung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Satellitenkonstellation Wettbewerbsrecht und Marktabschottung in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Satellitenkonstellation Wettbewerbsrecht und Marktabschottung

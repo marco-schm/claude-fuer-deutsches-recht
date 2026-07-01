@@ -1,6 +1,6 @@
 ---
 name: prozessuale-kniffe-und-rechtsprechungsanker
-description: Bündelt insolvenzgerichtliche Prozesskniffe zu Eröffnungsprüfung, Sicherungsmaßnahmen, Gutachten, Eigenverwaltung, Plan, Gläubigerschutz und Beschluss.
+description: "Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 # Prozessuale Kniffe und Rechtsprechungsanker
 

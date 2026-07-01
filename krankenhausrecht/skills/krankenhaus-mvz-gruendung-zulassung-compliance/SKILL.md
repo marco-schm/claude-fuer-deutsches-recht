@@ -1,6 +1,6 @@
 ---
 name: krankenhaus-mvz-gruendung-zulassung-compliance
-description: "Krankenhaus-MVZ Gründung Zulassung Compliance: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht."
+description: "Wenn es um Krankenhaus-MVZ Gründung Zulassung Compliance in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Krankenhaus-MVZ Gründung Zulassung Compliance

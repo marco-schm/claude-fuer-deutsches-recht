@@ -1,6 +1,6 @@
 ---
 name: bauwirtschaft-soka-behg
-description: "Bauwirtschaft: SOKA-BAU, Urlaubskasse, Mindestlohn, Nachunternehmer, Baustellenmeldungen und Dokumentation im Berichtspflichten."
+description: "Wenn es um Bauwirtschaft SOKA und Meldepflichten in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bauwirtschaft SOKA und Meldepflichten

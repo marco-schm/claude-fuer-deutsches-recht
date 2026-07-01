@@ -1,6 +1,6 @@
 ---
 name: vergaberechtliche-pruefung-anwaltlich-vollpruefung
-description: "Vollprüfung einer öffentlichen Auftragsvergabe aus Bieter- oder Auftraggebersicht: GWB, VgV, SektVO, KonzVgV, VOB-A, UVgO, Schwellenwert, Verfahrensart, Eignung, Zuschlag, Rüge, Nachprüfung, Eilrechtsschutz, De-facto-Vergabe, Schadensersatz und Vertragsänderung."
+description: "Wenn es um Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung in Fachanwalt Vergaberecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung

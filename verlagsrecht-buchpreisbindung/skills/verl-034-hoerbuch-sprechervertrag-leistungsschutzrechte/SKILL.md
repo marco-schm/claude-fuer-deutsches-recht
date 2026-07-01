@@ -1,6 +1,6 @@
 ---
 name: verl-034-hoerbuch-sprechervertrag-leistungsschutzrechte
-description: "Verlagsrecht: Hörbuch Sprechervertrag Leistungsschutzrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Hörbuch Sprechervertrag Leistungsschutzrechte in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Hörbuch Sprechervertrag Leistungsschutzrechte

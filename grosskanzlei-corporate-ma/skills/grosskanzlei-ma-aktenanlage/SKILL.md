@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-aktenanlage
-description: "Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall neue Corporate-Transaktion wird aufgenommen und Deal-Akte mit Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel und Closing-Bible-Grundgeruest wird benoetigt. Paragraf 43a BRAO Aktenführung, GoBD Aufbewahrungsfristen. Prüfrast..."
+description: "Wenn es um Freistehende M&A-Aktenanlage in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freistehende M&A-Aktenanlage

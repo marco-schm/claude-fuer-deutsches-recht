@@ -1,6 +1,6 @@
 ---
 name: bermuda-struktur-seeschiff
-description: "Reederei nutzt Bermuda-Holding-Struktur (SPV; Cayman/BVI-Holding): steuerliche und haftungsrechtliche Analyse. Abgrenzung Reeder vs. Ausruester (HGB §§ 476/477); Durchgriffshaftung; BEPS-Konformitaet (AStG §§ 7-14); BFH-Rechtsprechung; ISM-Code-Verantwortung. Output: Strukturanalyse-Vermerk und H..."
+description: "Wenn es um Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken

@@ -1,6 +1,6 @@
 ---
 name: workflow-vergleich-und-verhandlungsplan
-description: "Vergleich und Verhandlungsplan im BGB BT: Vergleichskorridore, Verhandlungsführung, Dokumentation im BGB BT."
+description: "Wenn es um Workflow: Vergleich und Verhandlungsplan in BGB BT Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Workflow Vergleich Und Verhandlungsplan; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Workflow: Vergleich und Verhandlungsplan

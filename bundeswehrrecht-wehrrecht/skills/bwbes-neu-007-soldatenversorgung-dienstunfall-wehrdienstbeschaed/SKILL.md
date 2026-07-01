@@ -1,6 +1,6 @@
 ---
 name: bwbes-neu-007-soldatenversorgung-dienstunfall-wehrdienstbeschaed
-description: "Dienstunfall und WDB: prüft § 27 SVG, Kausalitätsmaßstab, Leistungsarten und Verfahren. Norm-/Quellenanker: SVG §§ 27–38, SGB XIV im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Soldatenversorgung: Dienstunfall und Wehrdienstbeschädigung in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Soldatenversorgung: Dienstunfall und Wehrdienstbeschädigung

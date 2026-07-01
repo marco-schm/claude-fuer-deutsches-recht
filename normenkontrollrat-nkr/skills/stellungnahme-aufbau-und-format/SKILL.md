@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-aufbau-und-format
-description: "Standardaufbau und Format einer NKR-Stellungnahme nach § 6 NKRG. Beschreibt die typische Gliederung Briefkopf Vorhabens-Identifikation Grundsatzfeststellung methodische Bewertung Empfehlungen Ergebnis-Bewertung Hinweise sowie typische Laenge und Tonlage. Mit Mustergliederung und Bausteinen je Abs"
+description: "Wenn es um NKR-Stellungnahme — Aufbau und Format in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Stellungnahme Aufbau Und Format; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
 ---
 
 # NKR-Stellungnahme — Aufbau und Format

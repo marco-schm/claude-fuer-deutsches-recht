@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-provider-deployer-grenze
-description: "Rechtsabteilungs-Fachmodul für Provider-Deployer-Grenze bei Custom GPT: Rollenwechsel durch Fine-Tuning, Systemprompt und Vertrieb wird geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Wenn es um Rechtsabteilung: Provider-Deployer-Grenze bei Custom GPT in diesem Spezialbereich geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt Stichwort für die Auswahl: Rechtsabteilung Provider Deployer Grenze."
 ---
 
 # Rechtsabteilung: Provider-Deployer-Grenze bei Custom GPT

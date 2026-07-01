@@ -1,6 +1,6 @@
 ---
 name: online-verfahren-11-buch-zpo-experimentell
-description: "Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Vollständig digitales Zivilverfahren bestimmte Streitwerte teilnehmende Amtsgerichte. Aktuelle Normen-Verortung prüfen. Vergleich Praesenz-Verfahren Vorteile Risiken Strukturierte Eingabe-Masken. Teilnahme."
+description: "Wenn es um Online-Verfahren — das neue digitale Zivilverfahren in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Online-Verfahren — das neue digitale Zivilverfahren

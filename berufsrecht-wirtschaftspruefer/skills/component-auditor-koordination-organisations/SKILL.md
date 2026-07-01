@@ -1,6 +1,6 @@
 ---
 name: component-auditor-koordination-organisations
-description: "Wirtschaftsprüfer: component auditor koordination - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Component Auditor Koordination Organisations in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: component auditor koordination - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

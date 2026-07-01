@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-vo-2021-782
-description: "Einfuehrung VO (EU) 2021/782 Fahrgastrechte Eisenbahn. Anwendungsbereich Art. 2 (auch SPNV mit Ausnahmen § 2 EVO), Begriffsbestimmungen Art. 3 (Verspaetung Ankunft Anschluss Zeitfahrkarte), Verzichtsverbot Art. 7, Durchgangsfahrkarten Art. 12, Erstattung und Weiterreise Art. 18 (100-Minuten-Frist..."
+description: "Wenn es um Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn

@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-stimmbindung-und-blockade
-description: Analysiert gesellschaftsrechtliche Treuepflicht, Stimmbindungen, Vetorechte, Pattsituationen und Blockadelösungen in Gesellschafterkreisen.
+description: "Wenn es um Treuepflicht, Stimmbindung und Blockade in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Treuepflicht, Stimmbindung und Blockade
 

@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-campus-digital
-description: "Prüft bauliche und digitale Barrierefreiheit, Studienorganisation und Nachteilsausgleich im Hochschulrecht Länder."
+description: "Wenn es um Barrierefreiheit Campus und digital in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Barrierefreiheit Campus und digital

@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-sgb-xii-grundsicherung
-description: "Laienverstaendlicher Sozialrechts-Skill zu Sgb Xii Grundsicherung: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspru..."
+description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Sgb Xii Grundsicherung in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Sgb Xii Grundsicherung

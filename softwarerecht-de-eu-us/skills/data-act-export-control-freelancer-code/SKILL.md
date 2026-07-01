@@ -1,6 +1,6 @@
 ---
 name: data-act-export-control-freelancer-code
-description: "Prüft Data Act bei vernetzten Produkten, Softwarediensten, Cloud Switching, Datenzugang und unfair clauses im Softwarerecht De Eu Us."
+description: "Wenn es um EU Data Act in Softwareverträgen in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # EU Data Act in Softwareverträgen

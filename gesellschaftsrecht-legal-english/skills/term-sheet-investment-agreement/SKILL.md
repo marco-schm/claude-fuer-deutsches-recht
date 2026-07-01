@@ -1,6 +1,6 @@
 ---
 name: term-sheet-investment-agreement
-description: "Fuehrt durch Term Sheet, Investment Agreement, Bindungswirkung, Conditions, Exclusivity, Confidentiality, Kosten und deutsche Vollzugsmechanik im Gesellschaftsrecht Legal English."
+description: "Wenn es um Term Sheet und Investment Agreement in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Term Sheet und Investment Agreement

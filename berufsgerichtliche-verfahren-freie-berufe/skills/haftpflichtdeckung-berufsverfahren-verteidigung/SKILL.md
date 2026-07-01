@@ -1,6 +1,6 @@
 ---
 name: haftpflichtdeckung-berufsverfahren-verteidigung
-description: "Haftpflichtdeckung im Berufsverfahren (Verteidigungs- und Kammerantwort): steuert Berufshaftpflicht, Deckungsanzeige, Ausschluss, Selbstbehalt und Interessenkonflikt mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren..."
+description: "Wenn es um Haftpflichtdeckung im Berufsverfahren: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Haftpflichtdeckung im Berufsverfahren: Verteidigungs- und Kammerantwort

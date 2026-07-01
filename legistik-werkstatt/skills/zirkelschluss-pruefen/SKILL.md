@@ -1,6 +1,6 @@
 ---
 name: zirkelschluss-pruefen
-description: "Zirkelschluesse und kreisfreie Verweisketten im legistischen Entwurf aufspueren. Anwendungsfall Entwurf enthaelt viele Querverweise und soll auf ungewollte Zirkel und tautologische Definitionen geprüft werden. Direkte Zirkel A verweist auf A indirekte Zirkel A verweist B B verweist C C verweist A..."
+description: "Wenn es um Zirkelschluss prüfen in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zirkelschluss prüfen

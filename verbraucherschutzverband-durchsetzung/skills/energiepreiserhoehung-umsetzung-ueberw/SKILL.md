@@ -1,6 +1,6 @@
 ---
 name: energiepreiserhoehung-umsetzung-ueberw
-description: "Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Umsetzung überwachen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Energiepreiserhoehung Umsetzung Ueberw in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energiepreiserhoehung Umsetzung Ueberw

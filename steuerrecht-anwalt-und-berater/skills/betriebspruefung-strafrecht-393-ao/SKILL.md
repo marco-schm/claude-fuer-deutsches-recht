@@ -1,6 +1,6 @@
 ---
 name: betriebspruefung-strafrecht-393-ao
-description: "Strategischer Skill zur Schnittstelle Aussenpruefung und Steuerstrafverfahren — Mitwirkungspflicht im Besteuerungsverfahren versus Selbstbelastungsfreiheit nach § 393 AO. Anwendungsfall Aussenpruefung mit strafrechtlichen Verdachtsmomenten — Berater muss zwischen Mitwirkung und Schweigen abwaegen..."
+description: "Wenn es um Aussenpruefung und Strafverfahren — Paragraf 393 AO nemo tenetur in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aussenpruefung und Strafverfahren — § 393 AO nemo tenetur

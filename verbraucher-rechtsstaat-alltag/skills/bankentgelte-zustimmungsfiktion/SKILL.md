@@ -1,6 +1,6 @@
 ---
 name: bankentgelte-zustimmungsfiktion
-description: "Bankentgelte und Zustimmungsfiktion: führt Verbraucher durch Rückforderung von Kontoentgelten nach BGH XI ZR 26/20, XI ZR 139/23 und XI ZR 45/24; mit Kontoauszugsmatrix, Verjährungscheck, Anspruchsschreiben und Ombudsmann-/Klagepfad im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Bankentgelte Und Zustimmungsfiktion in Verbraucher im Rechtsstaat Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Bankentgelte Und Zustimmungsfiktion

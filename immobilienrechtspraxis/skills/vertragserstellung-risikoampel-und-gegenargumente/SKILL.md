@@ -1,6 +1,6 @@
 ---
 name: vertragserstellung-risikoampel-und-gegenargumente
-description: "Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien im Immobilienrechtspraxis."
+description: "Wenn es um Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien in Immobilienrechtspraxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien

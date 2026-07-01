@@ -1,6 +1,6 @@
 ---
 name: schuldnerwiderspruch-184
-description: "Schuldnerwiderspruch nach § 184 InsO prüfen und Fristen einhalten: Anwendungsfall Schuldner widerspricht Forderung und bei titulierten Forderungen laeuft Monatsfrist für Aufnahme des Rechtsstreits. § 184 InsO Schuldnerwiderspruch, § 179 InsO Feststellungsklage, § 183 InsO Wirkung bei Schuldnerwid..."
+description: "Wenn es um Schuldnerwiderspruch nach Paragraf 184 InsO in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schuldnerwiderspruch nach § 184 InsO

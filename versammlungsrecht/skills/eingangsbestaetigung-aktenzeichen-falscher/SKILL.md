@@ -1,6 +1,6 @@
 ---
 name: eingangsbestaetigung-aktenzeichen-falscher
-description: "Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit im Versammlungsrecht."
+description: "Wenn es um Ohne Eingangsnachweis wird es unnötig nervös in Versammlungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Ohne Eingangsnachweis wird es unnötig nervös

@@ -1,6 +1,6 @@
 ---
 name: volkseigener-betrieb-anspruchspfad-pru
-description: "Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Anspruchspfad prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Volkseigener Betrieb Anspruchspfad Pru in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Volkseigener Betrieb Anspruchspfad Pru

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-verhandlung-vergleich-und-eskalation
-description: "Geldwaesche: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Geldwaesche: Verhandlung, Vergleich und Eskalation in Geldwäscheprävention, AML und KYC geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Geldwaesche: Verhandlung, Vergleich und Eskalation

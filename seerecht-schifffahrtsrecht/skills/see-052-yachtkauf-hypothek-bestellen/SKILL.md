@@ -1,6 +1,6 @@
 ---
 name: see-052-yachtkauf-hypothek-bestellen
-description: "See- und Schifffahrtsrecht: Yachtkauf: Hypothek bestellen. Hypothek bestellen für Yachtkauf im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Yachtkauf Hypothek Bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Yachtkauf Hypothek Bestellen

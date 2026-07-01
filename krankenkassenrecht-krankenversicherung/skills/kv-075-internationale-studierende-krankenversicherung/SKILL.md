@@ -1,6 +1,6 @@
 ---
 name: kv-075-internationale-studierende-krankenversicherung
-description: "Krankenversicherung: Internationale Studenten Krankenversicherung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Internationale Studenten Krankenversicherung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Internationale Studenten Krankenversicherung

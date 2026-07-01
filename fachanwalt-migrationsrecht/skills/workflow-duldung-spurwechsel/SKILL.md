@@ -1,6 +1,6 @@
 ---
 name: workflow-duldung-spurwechsel
-description: "Duldung/Spurwechsel: Prüfungslinie für Migrationsrecht: prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbare..."
+description: "Wenn es um Duldung/Spurwechsel: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Duldung/Spurwechsel: Prüfungslinie für Migrationsrecht

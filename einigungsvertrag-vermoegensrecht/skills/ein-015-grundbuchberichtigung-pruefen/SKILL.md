@@ -1,6 +1,6 @@
 ---
 name: ein-015-grundbuchberichtigung-pruefen
-description: "Einigungsvertrag und Vermögensrecht: Grundbuchberichtigung prüfen. Grundbuchberichtigung prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Grundbuchberichtigung Pruefen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundbuchberichtigung Pruefen

@@ -1,6 +1,6 @@
 ---
 name: fixation-originality-human-authorship
-description: "Prüft Fixierung, minimale Originalitaet und menschliche Autorenschaft im US-Copyright, besonders bei AI- und Softwarematerial im Us Copyright Registrierung Verlag."
+description: "Wenn es um Fixation, Originality und Human Authorship in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fixation, Originality und Human Authorship

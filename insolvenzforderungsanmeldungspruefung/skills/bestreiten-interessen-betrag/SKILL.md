@@ -1,6 +1,6 @@
 ---
 name: bestreiten-interessen-betrag
-description: "Belege: Dokumentenmatrix, Lückenliste und Nachforderung im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldu..."
+description: "Wenn es um Belege: Dokumentenmatrix, Lückenliste und Nachforderung in Insolvenzforderungsanmeldungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Belege: Dokumentenmatrix, Lückenliste und Nachforderung

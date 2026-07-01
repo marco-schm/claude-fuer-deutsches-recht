@@ -1,6 +1,6 @@
 ---
 name: 06-fachgerichtliche-entscheidung-pruefen
-description: "Prüfungsmaßstab gegenüber Fachgerichten: spezifisches Verfassungsrecht, Verletzung verfassungsrechtlicher Massstaebe, willkuerliche Auslegung, Heck'sche Formel, Sphaerentheorie"
+description: "Wenn es um 06 Fachgerichtliche Entscheidung Prüfen in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 06 Fachgerichtliche Entscheidung Prüfen

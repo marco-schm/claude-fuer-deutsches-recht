@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Regulatorisches Recht (Sektoren): trennt fehlende Tatsachen von fehlenden Belegen (Genehmigungsbescheid, Aufsichtsbescheid, Compliance-Manual), nennt pro Lücke Beweisthema, Beschaffungsweg (BNetzA), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

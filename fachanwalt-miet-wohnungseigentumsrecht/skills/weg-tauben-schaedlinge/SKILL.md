@@ -1,6 +1,6 @@
 ---
 name: weg-tauben-schaedlinge
-description: "Tauben/Schädlinge: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Abwehrmaßnahmen, Kosten, Tierschutz, Hygiene, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitspro..."
+description: "Wenn es um Tauben/Schädlinge: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tauben/Schädlinge: Fachmodul im Miet- und Wohnungseigentumsrecht

@@ -1,6 +1,6 @@
 ---
 name: richterrecht-offenlegen-statt-tarnen
-description: "Dieses Skill trainiert die Fähigkeit, richterrechtliche Rechtsfortbildung methodisch transparent zu machen statt sie hinter Auslegungsformeln zu verbergen. Es zeigt, wann Gerichte tatsächlich neues Recht setzen, wie dies methodisch legitimiert werden muss und wie Praktiker diese Entscheidungen er..."
+description: "Wenn es um Richterrecht offenlegen statt tarnen in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Richterrecht offenlegen statt tarnen

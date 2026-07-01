@@ -1,6 +1,6 @@
 ---
 name: 025-roemisches-recht-in-griechischer-sprache-terminologi
-description: "Römisches Recht: Römisches Recht in griechischer Sprache Terminologie im Römisches Recht."
+description: "Wenn es um Rom Roemisches Recht In Griechischer Sprache Terminologi in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Roemisches Recht In Griechischer Sprache Terminologi

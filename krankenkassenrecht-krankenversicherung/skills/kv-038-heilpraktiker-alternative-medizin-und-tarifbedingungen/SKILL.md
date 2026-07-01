@@ -1,6 +1,6 @@
 ---
 name: kv-038-heilpraktiker-alternative-medizin-und-tarifbedingungen
-description: "Krankenversicherung: Heilpraktiker Alternative Medizin und Tarifbedingungen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Heilpraktiker Alternative Medizin und Tarifbedingungen in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Heilpraktiker Alternative Medizin und Tarifbedingungen

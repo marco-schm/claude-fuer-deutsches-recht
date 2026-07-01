@@ -1,6 +1,6 @@
 ---
 name: pe-document-generator-pack
-description: "Erzeugt aus geprüftem Sachverhalt konkrete Arbeitsdokumente: Memo, Issues List, Q&A, Notice, CP-Tracker, Board Paper im Private Equity Praxis."
+description: "Wenn es um PE Document Generator Pack in Private Equity Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # PE Document Generator Pack

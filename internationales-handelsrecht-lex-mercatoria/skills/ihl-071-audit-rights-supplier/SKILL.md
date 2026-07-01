@@ -1,6 +1,6 @@
 ---
 name: ihl-071-audit-rights-supplier
-description: "Internationales Handelsrecht und Lex Mercatoria: Audit Rights Supplier. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Audit Rights Supplier in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Audit Rights Supplier

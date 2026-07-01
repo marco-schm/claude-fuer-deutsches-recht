@@ -1,6 +1,6 @@
 ---
 name: konkurrentenschutz-nach-ernennung-schadensersatz
-description: "Konkurrentenschutz nach Ernennung: Primärrechtsschutzverlust, Schadensersatz wegen rechtswidrig unterlassener Beförderung und Kausalitätsprüfung im Beamtenrecht."
+description: "Wenn es um konkurrentenschutz-nach-ernennung-schadensersatz in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # konkurrentenschutz-nach-ernennung-schadensersatz

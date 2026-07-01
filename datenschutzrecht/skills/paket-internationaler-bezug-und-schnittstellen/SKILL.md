@@ -1,6 +1,6 @@
 ---
 name: paket-internationaler-bezug-und-schnittstellen
-description: "Paket: Internationaler Bezug und Schnittstellen: Paket: Internationaler Bezug und Schnittstellen."
+description: "Wenn es um Paket: Internationaler Bezug und Schnittstellen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Paket Internationaler Bezug Und Schnittstellen; Arbeitsfeld: Datenschutzrecht."
 ---
 
 # Paket: Internationaler Bezug und Schnittstellen

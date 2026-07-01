@@ -1,6 +1,6 @@
 ---
 name: 04-beweiswuerdigung-strafkammer
-description: "Beweiswürdigung Paragraf 261 StPO bei komplexen Sachverhalten, Aussage gegen Aussage, Indizienprozess, In-dubio-pro-reo, Behandlung von Sachverständigengutachten, Glaubhaftigkeitsfaktoren"
+description: "Wenn es um 04 Beweiswürdigung Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 04 Beweiswürdigung Strafkammer

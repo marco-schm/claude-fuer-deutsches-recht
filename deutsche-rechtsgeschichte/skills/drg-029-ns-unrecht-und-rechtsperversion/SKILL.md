@@ -1,6 +1,6 @@
 ---
 name: drg-029-ns-unrecht-und-rechtsperversion
-description: "Deutsche Rechtsgeschichte: NS Unrecht Und Rechtsperversion. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um NS Unrecht Und Rechtsperversion in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NS Unrecht Und Rechtsperversion

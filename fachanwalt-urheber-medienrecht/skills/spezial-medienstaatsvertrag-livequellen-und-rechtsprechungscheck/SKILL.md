@@ -1,6 +1,6 @@
 ---
 name: spezial-medienstaatsvertrag-livequellen-und-rechtsprechungscheck
-description: "Medienstaatsvertrag: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Medienstaatsvertrag: Livequellen- und Rechtsprechungscheck in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medienstaatsvertrag: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: banking-as-a-service-white-label
-description: "White-Label-Banking juristisch strukturieren: Bankrolle sichtbar machen, Partnerpflichten, Kundenschutz, AGB, Datenschutz, Auslagerung, Beschwerden, Vertriebsrecht und Reputationsrisiko im Bank-Rechtsabteilung."
+description: "Wenn es um White-Label-Banking in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # White-Label-Banking

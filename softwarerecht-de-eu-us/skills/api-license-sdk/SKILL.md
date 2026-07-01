@@ -1,6 +1,6 @@
 ---
 name: api-license-sdk
-description: "Entwirft API-/SDK-Lizenzen mit Rate Limits, Developer Terms, Datenrechten, Deprecation und Abuse Controls im Softwarerecht De Eu Us."
+description: "Wenn es um API- und SDK-Lizenz in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # API- und SDK-Lizenz

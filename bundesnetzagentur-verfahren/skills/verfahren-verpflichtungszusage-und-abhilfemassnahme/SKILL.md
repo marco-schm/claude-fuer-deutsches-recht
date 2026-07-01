@@ -1,6 +1,6 @@
 ---
 name: verfahren-verpflichtungszusage-und-abhilfemassnahme
-description: "Verfahren / Verpflichtungszusage und Abhilfemaßnahme: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis im BNetzA-Verfahren."
+description: "Wenn es um Verfahren: Verpflichtungszusage und Abhilfemaßnahme in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verfahren: Verpflichtungszusage und Abhilfemaßnahme

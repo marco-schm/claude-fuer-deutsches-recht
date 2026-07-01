@@ -1,6 +1,6 @@
 ---
 name: anspruchsaufbau-zivilrecht-bgb-at
-description: "Strukturhilfe für den zivilrechtlichen Anspruchsaufbau im BGB Allgemeiner Teil: Anspruchsgrundlage lokalisieren, Tatbestandsmerkmale prüfen, Rechtsfolge feststellen, Einwendungen und Einreden abarbeiten. Klausurorientiert mit Gutachten- und Urteilsstil."
+description: "Wenn es um Anspruchsaufbau im Zivilrecht — BGB Allgemeiner Teil in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Anspruchsaufbau im Zivilrecht — BGB Allgemeiner Teil

@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-massenpriorisierung-261-vs-3a-estg
-description: "Massevorrang Paragraph 53 InsO und seine Spannung zum Sanierungsantrag nach Paragraph 3a EStG. Wenn aus dem Restsanierungsertrag eine Steuer entsteht und die Steuer eine Masseverbindlichkeit Paragraph 55 InsO ist, geht sie der Quote vor. Risiko: bestaetigter Plan scheitert, weil die Steuer die Ma..."
+description: "Wenn es um Sanierungsgewinn — Massenpriorisierung Paragraphen 53/261 InsO vs. Paragraph 3a EStG in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsgewinn — Massenpriorisierung Paragraphen 53/261 InsO vs. Paragraph 3a EStG

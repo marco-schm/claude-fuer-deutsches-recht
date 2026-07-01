@@ -1,6 +1,6 @@
 ---
 name: suretyship-schriftsatz-brief-und-memo-bausteine
-description: "Suretyship: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Suretyship: Schriftsatz-, Brief- und Memo-Bausteine in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Suretyship: Schriftsatz-, Brief- und Memo-Bausteine

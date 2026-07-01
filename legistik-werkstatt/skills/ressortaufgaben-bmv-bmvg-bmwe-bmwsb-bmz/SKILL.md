@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmv-bmvg-bmwe-bmwsb-bmz
-description: "Ressortaufgaben BMV: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium für Verkehr. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete"
+description: "Wenn es um Ressortaufgaben BMV in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ressortaufgaben Bmv Bmvg Bmwe Bmwsb Bmz; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Ressortaufgaben BMV

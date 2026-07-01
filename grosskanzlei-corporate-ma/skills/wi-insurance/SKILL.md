@@ -1,6 +1,6 @@
 ---
 name: wi-insurance
-description: "W&I-Versicherung Warranty and Indemnity in M&A-Transaktionen: Anwendungsfall Kaeufer oder Verkaeufer erwägt W&I-Versicherung für SPA-Garantien und muss Underwriting-Prozess, DD-Berichts-Anforderungen und Deckungsausschluesse klären. SPA Reps and Warranties, Synthetic Warranties. Prüfraster Buy-s..."
+description: "Wenn es um W&I-Versicherung in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # W&I-Versicherung

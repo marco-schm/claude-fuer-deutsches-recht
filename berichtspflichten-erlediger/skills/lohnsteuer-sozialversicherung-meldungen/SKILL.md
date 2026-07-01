@@ -1,6 +1,6 @@
 ---
 name: lohnsteuer-sozialversicherung-meldungen
-description: "Lohnsteueranmeldung, DEÜV-Meldungen, Beitragsnachweise, Sofortmeldungen und Jahresmeldungen koordinieren im Berichtspflichten."
+description: "Wenn es um Lohnsteuer und Sozialversicherung melden in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lohnsteuer und Sozialversicherung melden

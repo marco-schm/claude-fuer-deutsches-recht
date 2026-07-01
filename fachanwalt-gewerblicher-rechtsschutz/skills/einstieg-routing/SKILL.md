@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Fachanwalt Gewerblicher Rechtsschutz: ordnet Rolle (Schutzrechtsinhaber, Verletzer, Konkurrent), markiert Frist (Widerspruch Marke 3 Mon.), wählt Norm (MarkenG, PatG, DesignG, GebrMG, UWG, UrhG) und Zuständigkeit (DPMA), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

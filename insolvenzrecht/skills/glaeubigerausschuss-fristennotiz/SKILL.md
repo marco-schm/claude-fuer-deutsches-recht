@@ -1,6 +1,6 @@
 ---
 name: glaeubigerausschuss-fristennotiz
-description: "Gläubigerausschuss: Fristennotiz und nächster Schritt im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
+description: "Wenn es um Gläubigerausschuss: Fristennotiz und nächster Schritt in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gläubigerausschuss: Fristennotiz und nächster Schritt

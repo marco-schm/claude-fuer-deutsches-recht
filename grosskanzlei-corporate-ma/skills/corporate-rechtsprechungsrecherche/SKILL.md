@@ -1,6 +1,6 @@
 ---
 name: corporate-rechtsprechungsrecherche
-description: "Corporate und M&A Rechtsprechungsrecherche: Anwendungsfall Anwalt braucht für Gutachten, Schriftsatz oder DD-Report relevante BGH-Rechtsprechung zu Organpflichten, Kapitalmarkt, Umwandlung oder Insolvenz. Paragraf 93 und 179a AktG, Paragraf 15 AktG Verfahren. Prüfraster amtliche Bundes- und Landesquellen, Akt..."
+description: "Wenn es um Corporate-Rechtsprechungsrecherche in Großkanzlei Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Corporate-Rechtsprechungsrecherche

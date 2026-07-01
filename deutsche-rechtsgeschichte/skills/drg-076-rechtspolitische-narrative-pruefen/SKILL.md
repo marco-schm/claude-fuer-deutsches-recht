@@ -1,6 +1,6 @@
 ---
 name: drg-076-rechtspolitische-narrative-pruefen
-description: "Deutsche Rechtsgeschichte: Rechtspolitische Narrative Pruefen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Rechtspolitische Narrative Pruefen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtspolitische Narrative Pruefen

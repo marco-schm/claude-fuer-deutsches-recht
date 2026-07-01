@@ -1,6 +1,6 @@
 ---
 name: parteienrecht-fraktion-partei-abgrenzung
-description: "Trennt Partei, Fraktion, Mandat, Ressourcen, Personal, Spenden und Öffentlichkeitsarbeit."
+description: "Wenn es um Schnittstelle Fraktion/Partei in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Parteienrecht Fraktion Partei Abgrenzung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Schnittstelle Fraktion/Partei

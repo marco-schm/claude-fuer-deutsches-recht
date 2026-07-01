@@ -1,6 +1,6 @@
 ---
 name: radverkehr-und-schutzstreifen
-description: "Straßenverkehrsrecht StVO: Radverkehr und Schutzstreifen. Radverkehr und Schutzstreifen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen,..."
+description: "Wenn es um Radverkehr Und Schutzstreifen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Radverkehr Und Schutzstreifen

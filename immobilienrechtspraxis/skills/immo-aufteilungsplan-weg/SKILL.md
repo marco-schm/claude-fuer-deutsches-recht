@@ -1,6 +1,6 @@
 ---
 name: immo-aufteilungsplan-weg
-description: "Aufteilungsplan WEG: Voraussetzungen § 8 WEG, Teilungserklaerung, Aufteilungsplan, Gemeinschaftsordnung. Prüfraster und Hinweise für den Notar im Immobilienrechtspraxis."
+description: "Wenn es um Aufteilungsplan WEG in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aufteilungsplan WEG

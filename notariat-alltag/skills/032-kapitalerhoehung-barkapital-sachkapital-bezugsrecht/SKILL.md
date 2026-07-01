@@ -1,6 +1,6 @@
 ---
 name: 032-kapitalerhoehung-barkapital-sachkapital-bezugsrecht
-description: "Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht und Handelsregister. Notarielle Anforderungen für GmbH- und AG-Kapitalerhöhungen, Übernahmeerklärung, Einzahlungsnachweis und HR-Anmeldung im Notariat."
+description: "Wenn es um Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht, HR in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht, HR

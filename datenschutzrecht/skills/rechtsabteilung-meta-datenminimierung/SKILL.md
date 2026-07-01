@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-meta-datenminimierung
-description: "Rechtsabteilungs-Fachmodul für Meta-Datenminimierung und Zweckbindung: Social-, AdTech- und CRM-Daten werden auf Speichergrenzen und Zweckverschiebungen abgeklopft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Wenn es um Rechtsabteilung: Meta-Datenminimierung und Zweckbindung in Datenschutzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Meta-Datenminimierung und Zweckbindung

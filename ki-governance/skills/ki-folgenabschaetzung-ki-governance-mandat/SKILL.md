@@ -1,6 +1,6 @@
 ---
 name: ki-folgenabschaetzung-ki-governance-mandat
-description: "KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35 DSGVO) erstellen – strukturierte Aufnahme, Risikoanalyse, Regulierungsklassifizierung nach KI-VO und DSGVO, Richtlinien-Konsistenzprüfung und Empfehlung mit Bedingungen. Verwendet das Hausformat aus der Seed-Folgenabschätzung in de..."
+description: "Wenn es um /ki-folgenabschätzung – digitale Werkzeuge-Folgenabschätzung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # /ki-folgenabschätzung – KI-Folgenabschätzung

@@ -1,6 +1,6 @@
 ---
 name: vergleich-sonderfall-und-edge-case
-description: "Vergleich: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Vergleich: Sonderfall und Edge-Case-Prüfung in Nachbarschaftsstreit-Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich: Sonderfall und Edge-Case-Prüfung

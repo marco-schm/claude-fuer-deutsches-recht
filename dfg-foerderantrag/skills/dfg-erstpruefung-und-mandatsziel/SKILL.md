@@ -1,6 +1,6 @@
 ---
 name: dfg-erstpruefung-und-mandatsziel
-description: "DFG: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um DFG: Erstprüfung, Rollenklärung und Mandatsziel in DFG-Förderantrag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dfg Erstpruefung Und Mandatsziel; Arbeitsfeld: DFG-Förderantrag."
 ---
 
 # DFG: Erstprüfung, Rollenklärung und Mandatsziel

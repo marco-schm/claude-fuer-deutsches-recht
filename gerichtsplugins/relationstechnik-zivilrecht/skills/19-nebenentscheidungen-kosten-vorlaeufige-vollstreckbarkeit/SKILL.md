@@ -1,6 +1,6 @@
 ---
 name: 19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit
-description: "Nebenentscheidungen: Kosten Paragrafen 91 ff. ZPO, Baumbach'sche Formel bei subjektiver Klagehaeufung, vorläufige Vollstreckbarkeit Paragrafen 708-711 ZPO mit Vollstreckungsschutz Paragraf 712, Streitwert"
+description: "Wenn es um 19 Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 19 Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit

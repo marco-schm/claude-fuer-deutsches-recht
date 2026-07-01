@@ -1,6 +1,6 @@
 ---
 name: kom-068-buergermeister-zustaendigkeit-pruefen
-description: "Kommunalrecht der Länder: Bürgermeister: Zuständigkeit prüfen. Zuständigkeit prüfen für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Buergermeister Zustaendigkeit Pruefen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Buergermeister Zustaendigkeit Pruefen

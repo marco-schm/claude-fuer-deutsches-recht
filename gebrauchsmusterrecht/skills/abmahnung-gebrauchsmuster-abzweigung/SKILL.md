@@ -1,6 +1,6 @@
 ---
 name: abmahnung-gebrauchsmuster-abzweigung
-description: "Abmahnung wegen Gebrauchsmuster vorbereiten oder verteidigen: Rechtsbestand, Unterlassung, Kosten, Fristen, Schutzschrift und Löschungsangriff im Gebrauchsmusterrecht."
+description: "Wenn es um Abmahnung Gebrauchsmuster Verteidigung in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abmahnung Gebrauchsmuster Verteidigung

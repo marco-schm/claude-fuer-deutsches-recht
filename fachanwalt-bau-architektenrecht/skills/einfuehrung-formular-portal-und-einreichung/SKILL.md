@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-formular-portal-und-einreichung
-description: "Einfuehrung: Formular, Portal und Einreichungslogik: Einfuehrung: Formular, Portal und Einreichungslogik."
+description: "Wenn es um Einfuehrung: Formular, Portal und Einreichungslogik in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einfuehrung: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: barrierefreie-einladung-protokoll-versammlung
-description: "Versammlungsdokumente barrierefrei gestalten (Stand 06/2026): PDF/UA (ISO 14289), Word-Formatvorlagen, Leichte Sprache nach DIN SPEC 33429, Grossdruck, TTS-Kompatibilitaet. Praktischer Umgang mit Casavi/Vermieter-Cloud-PDFs."
+description: "Wenn es um Barrierefreie Einladungen, Protokolle und Abrechnungen in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Barrierefreie Einladungen, Protokolle und Abrechnungen

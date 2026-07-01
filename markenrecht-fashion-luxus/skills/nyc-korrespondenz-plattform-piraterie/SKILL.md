@@ -1,6 +1,6 @@
 ---
 name: nyc-korrespondenz-plattform-piraterie
-description: "Mandat-mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Common Interest Privilege (US), BRAO (Kooperation). Prüfraster:..."
+description: "Wenn es um NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP

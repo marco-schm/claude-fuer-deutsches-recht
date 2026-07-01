@@ -1,6 +1,6 @@
 ---
 name: ki-vo-betreiber-pflichten
-description: "KI-VO Betreiber-Pflichten für Kanzleien erläutern und umsetzen: Anwendungsfall Kanzlei als Betreiber von KI-Diensten muss Pflichten nach EU AI Act kennen und in Richtlinie umsetzen. Art. 3 Nr. 4 KI-VO Betreiber-Definition, Art. 4 KI-VO KI-Kompetenz-Pflicht, Art. 6 KI-VO Hochrisiko-Abgrenzung, Ar..."
+description: "Wenn es um europäischer Technikregulierungsrahmen Betreiber-Pflichten in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # KI-VO Betreiber-Pflichten

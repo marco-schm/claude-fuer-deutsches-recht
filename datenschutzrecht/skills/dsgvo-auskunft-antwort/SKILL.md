@@ -1,6 +1,6 @@
 ---
 name: dsgvo-auskunft-antwort
-description: "DSGVO-Auskunftsantwort an Betroffenen vollständig und rechtskonform gestalten. Art. 15 12 Abs. 3 DSGVO Antwortpflicht. Prüfraster: Antwortinhalt Format Fristen Klarheit Weglassungsgründe Begleitschreiben. Output: vollständiges Auskunftsschreiben. Abgrenzung: nicht für Antragseingang und Prüfung (..."
+description: "Wenn es um Betroffenenanfragen – Art. 15–22 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betroffenenanfragen – Art. 15–22 DSGVO

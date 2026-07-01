@@ -1,6 +1,6 @@
 ---
 name: redteam-vor-absenden
-description: "Prüft jedes Schreiben auf unnötige Angaben, falsche Zugeständnisse, fehlende Belege, Fristen und Ton."
+description: "Wenn es um Red-Team vor Absenden in Bürokratieversteher und Entbürokratisierer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team vor Absenden

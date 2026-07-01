@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-als-wertungsprodukt
-description: "Dieses Skill zeigt, dass die juristische Sachverhaltserfassung kein neutraler Beschreibungsakt ist, sondern ein wertungsgeleiteter Auswahlprozess. Es trainiert die Fähigkeit, implizite Wertungen bei der Sachverhaltserhebung zu erkennen, rechtlich relevante Tatsachen von irrelevanten zu trennen un..."
+description: "Wenn es um Sachverhalt als Wertungsprodukt in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sachverhalt als Wertungsprodukt

@@ -1,6 +1,6 @@
 ---
 name: fremdrentengesetz-und-spaetaussiedler
-description: "Fremdrentengesetz und Spätaussiedlerfälle: Anrechnungslogik, Nachweise, Kürzungen, Herkunftsgebiete und Streit mit dem Rententräger im Rentenpruefer."
+description: "Wenn es um fremdrentengesetz-und-spaetaussiedler in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # fremdrentengesetz-und-spaetaussiedler

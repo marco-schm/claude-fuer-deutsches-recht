@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-vermeidungsstrategien-vorbereitungs
-description: "Vermeidungsstrategien Sanierungsertrag in der Praxis: Verlustvortrag-Maximierung, Debt-Equity-Swap, qualifizierter Rangrücktritt, Besserungsabrede, Sanierungspause. Wann § 3a EStG nicht der einzige Weg ist im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Sanierungsgewinn — Vermeidungsstrategien in der Praxis in Steuerrecht – Steuerberater und Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Sanierungsgewinn Vermeidungsstrategien Vorbereitungs; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Sanierungsgewinn — Vermeidungsstrategien in der Praxis

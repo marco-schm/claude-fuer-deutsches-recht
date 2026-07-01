@@ -1,6 +1,6 @@
 ---
 name: sla-tk-standardangebot
-description: "Geschäftskunden-SLA: Verfügbarkeit, Reaktions-/Entstörzeiten, Credits, Schadensersatz, Haftungsbegrenzung und Force Majeure im Telekommunikationsrecht."
+description: "Wenn es um Business-SLA und Ausfall in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Business-SLA und Ausfall

@@ -1,6 +1,6 @@
 ---
 name: rechtsvergleich-usa-risikomatrix-ampel
-description: "Vergleicht deutsche Meinungsfreiheit mit der US-First-Amendment-Linie des Supreme Court: defamation, actual malice, opinion, parody, threats und incitement im Meinungspruefer."
+description: "Wenn es um Rechtsvergleich USA: Supreme Court in Meinungsprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Rechtsvergleich USA: Supreme Court

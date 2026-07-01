@@ -1,6 +1,6 @@
 ---
 name: sitzungsdienst-amtsgericht
-description: "Sitzungsdienst am Amtsgericht: Praxis-Skill für neue Staatsanwälte zu Aktenvorbereitung, Beweisaufnahme, Anträge, Plädoyer und Rechtsmittelnotiz für den ersten Sitzungsdienst; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Sitzungsdienst am Amtsgericht in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Sitzungsdienst am Amtsgericht

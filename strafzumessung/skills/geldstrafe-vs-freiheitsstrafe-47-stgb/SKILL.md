@@ -1,6 +1,6 @@
 ---
 name: geldstrafe-vs-freiheitsstrafe-47-stgb
-description: "Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB. Kurze Freiheitsstrafe unter 6 Monaten nur bei besonderen Umstaenden in der Tat oder in der Persoenlichkeit. Begruendungspflicht des Gerichts. Verhältnis Geldstrafe + Freiheitsstrafe (§ 41 StGB). Strategiewahl Verteidigung gegen ku..."
+description: "Wenn es um Geldstrafe vs. Freiheitsstrafe — Paragraf 47 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geldstrafe vs. Freiheitsstrafe — § 47 StGB

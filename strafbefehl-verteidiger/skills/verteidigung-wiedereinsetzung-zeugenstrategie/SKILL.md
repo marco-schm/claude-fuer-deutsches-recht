@@ -1,6 +1,6 @@
 ---
 name: verteidigung-wiedereinsetzung-zeugenstrategie
-description: "Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage in Strafbefehl-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage

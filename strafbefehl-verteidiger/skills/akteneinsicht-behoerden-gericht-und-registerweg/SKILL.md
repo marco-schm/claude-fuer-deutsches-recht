@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-behoerden-gericht-und-registerweg
-description: "Akteneinsicht: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Akteneinsicht: Behörden-, Gerichts- oder Registerweg in Strafbefehl-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Akteneinsicht: Behörden-, Gerichts- oder Registerweg

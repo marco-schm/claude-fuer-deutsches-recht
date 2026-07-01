@@ -1,6 +1,6 @@
 ---
 name: behoerde-oder-gericht-erkennen
-description: "Ordnet Absender ein: Kommune, Landkreis, Landesbehörde, Bundesbehörde, Jobcenter, Jugendamt, Familiengericht, Polizei, Staatsanwaltschaft, Amtsgericht im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Behörde oder Gericht erkennen in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Behörde oder Gericht erkennen

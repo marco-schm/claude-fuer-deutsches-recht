@@ -1,6 +1,6 @@
 ---
 name: plan-classification
-description: "Prüft classification of claims and interests, impairment, gerrymandering risk and voting strategy im US Bankruptcy Code."
+description: "Wenn es um Plan Classification in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Plan Classification

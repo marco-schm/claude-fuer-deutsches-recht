@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmvg
-description: "Ressortaufgaben BMVg: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium der Verteidigung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeo..."
+description: "Wenn es um Ressortaufgaben BMVg in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressortaufgaben BMVg

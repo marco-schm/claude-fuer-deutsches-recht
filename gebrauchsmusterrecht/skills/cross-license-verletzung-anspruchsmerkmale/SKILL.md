@@ -1,6 +1,6 @@
 ---
 name: cross-license-verletzung-anspruchsmerkmale
-description: "Vergleich und Cross-License im Gebrauchsmusterstreit: Unterlassung, Restbestand, Lizenz, Nichtigkeit, Kosten, Geheimhaltung und technische Änderung im Gebrauchsmusterrecht."
+description: "Wenn es um Vergleich Und Cross License in gebrauchsmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich Und Cross License

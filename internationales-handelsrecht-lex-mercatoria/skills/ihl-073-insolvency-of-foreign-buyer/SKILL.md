@@ -1,6 +1,6 @@
 ---
 name: ihl-073-insolvency-of-foreign-buyer
-description: "Internationales Handelsrecht und Lex Mercatoria: Insolvency Of Foreign Buyer. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Insolvency Of Foreign Buyer in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvency Of Foreign Buyer

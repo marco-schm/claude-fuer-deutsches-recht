@@ -1,6 +1,6 @@
 ---
 name: bmvg-militaerische-beschaffung-und-vergaberecht
-description: "Sachbereich Militaerische Beschaffung und Vergaberecht im Geschäftsbereich BMVg: Normbestand (BwBeschG; GWB; VgV; SektVO; KonzVgV; VSVgV (Verteidigungs- und Sicherheitsvergabe).); Akteure (BAAINBw; BMVg-Abteilungen Ausruestung; BMWE-Vergaberecht; OLG-Vergabesenate.); EU-Bezug (RL 2009/81/EG (Ver"
+description: "Wenn es um Militaerische Beschaffung und Vergaberecht (BMVg) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmvg Militaerische Beschaffung Und Vergaberecht; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Militaerische Beschaffung und Vergaberecht (BMVg)

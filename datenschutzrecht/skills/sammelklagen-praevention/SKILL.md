@@ -1,6 +1,6 @@
 ---
 name: sammelklagen-praevention
-description: "Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren nach einer Massendatenpanne. Behandelt: Verbandsklage-Richtlinie; UKlaG; KapMuG-Analogien; Inkasso-Plattformen; anwaltliche Akquise-Wellen; Beweisaufnahme-Risiken bei öffentlicher Bekanntmachung; Vergleich..."
+description: "Wenn es um Sammelklagen-Prävention nach Massendatenpanne in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sammelklagen-Prävention nach Massendatenpanne

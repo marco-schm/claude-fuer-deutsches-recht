@@ -1,6 +1,6 @@
 ---
 name: verg-mehrparteien-konflikt-und-interessen
-description: "Verg: Mehrparteienkonflikt und Interessenmatrix: Verg: Mehrparteienkonflikt und Interessenmatrix."
+description: "Wenn es um Verg: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verg: Mehrparteienkonflikt und Interessenmatrix

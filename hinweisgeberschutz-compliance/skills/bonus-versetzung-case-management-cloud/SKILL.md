@@ -1,6 +1,6 @@
 ---
 name: bonus-versetzung-case-management-cloud
-description: "Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis im Hinweisgeberschutz Compliance."
+description: "Wenn es um Bonus Versetzung Bewertung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bonus Versetzung Bewertung

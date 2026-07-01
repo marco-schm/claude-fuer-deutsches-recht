@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-nordkorea
-description: "EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und UN-Resolutionen 1718/1874/2270 ff. Umfassendes Guetersanktionsregime, Waffenembargo, Finanzsanktionen und Transshipment-Risiken. Catch-All für Proliferationsverdacht besonders weitreichend. Output: Nordkorea-Embargo-Prüfvermerk un..."
+description: "Wenn es um Embargo Nordkorea: Umfassendes Sanktionsregime und Proliferationskontrolle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Embargo Nordkorea: Umfassendes Sanktionsregime und Proliferationskontrolle

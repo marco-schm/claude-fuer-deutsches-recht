@@ -1,6 +1,6 @@
 ---
 name: spezial-sachschaden-livequellen-und-rechtsprechungscheck
-description: "Sachschaden: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Sachschaden: Livequellen- und Rechtsprechungscheck in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sachschaden: Livequellen- und Rechtsprechungscheck

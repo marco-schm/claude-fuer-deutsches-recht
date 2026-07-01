@@ -1,6 +1,6 @@
 ---
 name: ihk-und-berufsgenossenschaft
-description: "IHK-Pflichtmitgliedschaft und Berufsgenossenschafts-Anmeldung nach GmbH-Gründung erledigen. Normen: Paragraf 2 ff. IHKG, Paragraf 150 ff. SGB VII. Prüfraster: Branchenzuordnung BG, IHK-Beitragspflicht, Fristen. Output: Checkliste IHK-Anmeldung und BG-Anmeldung. Abgrenzung: nicht Gewerbeamt-Anmeldung im Gesel..."
+description: "Wenn es um IHK und Berufsgenossenschaft in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IHK und Berufsgenossenschaft

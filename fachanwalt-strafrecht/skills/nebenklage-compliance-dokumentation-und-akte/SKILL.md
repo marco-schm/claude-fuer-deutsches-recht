@@ -1,6 +1,6 @@
 ---
 name: nebenklage-compliance-dokumentation-und-akte
-description: "Nebenklage: Compliance-Dokumentation und Aktenvermerk: Nebenklage: Compliance-Dokumentation und Aktenvermerk."
+description: "Wenn es um Nebenklage: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Nebenklage: Compliance-Dokumentation und Aktenvermerk

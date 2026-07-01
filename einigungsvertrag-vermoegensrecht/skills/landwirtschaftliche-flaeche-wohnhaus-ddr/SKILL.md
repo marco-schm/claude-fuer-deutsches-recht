@@ -1,6 +1,6 @@
 ---
 name: landwirtschaftliche-flaeche-wohnhaus-ddr
-description: "Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Vergleich bewerten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Landwirtschaftliche Flaeche Vergleich in Einigungsvertrag und Vermögensrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Landwirtschaftliche Flaeche Vergleich

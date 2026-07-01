@@ -1,6 +1,6 @@
 ---
 name: methodenkritik-larenz-canaris-zivilrecht
-description: "Prüft System- und Wertungsargumente im Zivilrecht kritisch auf demokratische Rückbindung, NS-Belastung, Scheinobjektivität und Quellenhygiene."
+description: "Wenn es um Methodenkritik Larenz/Canaris im Zivilrecht: System, Wertung, Autoritätskontrolle in Methodenlehre bürgerliches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Methodenkritik Larenz/Canaris im Zivilrecht: System, Wertung, Autoritätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: beweismatrix-logauswertung
-description: "Baut Beweismatrix aus Telemetrie, Event Logs, Wartungsprotokollen, Video, Sensorik, Tickets, E-Mails und Versionsständen."
+description: "Wenn es um Beweismatrix und Logauswertung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Beweismatrix Logauswertung; Arbeitsfeld: robotik-recht."
 ---
 
 # Beweismatrix und Logauswertung

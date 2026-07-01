@@ -1,6 +1,6 @@
 ---
 name: gmbh-co-kg-registerdoppelvollzug
-description: "Koordiniert KG-Register, Komplementär-GmbH, Vertretung, Gesellschafterlisten und Firmenidentität im Handelsregister Praxis."
+description: "Wenn es um GmbH & Co. KG Doppelvollzug in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GmbH & Co. KG Doppelvollzug

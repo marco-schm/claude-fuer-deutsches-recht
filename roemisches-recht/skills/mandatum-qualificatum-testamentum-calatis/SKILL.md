@@ -1,6 +1,6 @@
 ---
 name: mandatum-qualificatum-testamentum-calatis
-description: "Mandatum qualificatum: qualifizierte Auftragserteilung als Buergschaftsersatz. Skill behandelt die juristische Konstruktion das Verhältnis zur mandatum pecuniae credendae und die Folgen bei Nichterfuellung. Liefert Quellenmatrix im Römisches Recht."
+description: "Wenn es um Rom 141 Mandatum Qualificatum Buergschaftsersatz in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 141 Mandatum Qualificatum Buergschaftsersatz

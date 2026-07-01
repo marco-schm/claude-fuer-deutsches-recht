@@ -1,6 +1,6 @@
 ---
 name: wi-insurance
-description: "W&I-Versicherung (Warranty & Indemnity Insurance) strukturieren und prüfen: M&A-Berater braucht Policen-Analyse oder Underwriting-Vorbereitung. Normen: SPA Reps & Warranties, VVG, englisches Insurance-Recht (Lloydserfahrung). Prüfraster: Kaeufer- vs. Verkaeufer-Policy, Underwriting-Prozess, No-Cl..."
+description: "Wenn es um W&I-Versicherung (Warranty & Indemnity Insurance) in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # W&I-Versicherung (Warranty & Indemnity Insurance)

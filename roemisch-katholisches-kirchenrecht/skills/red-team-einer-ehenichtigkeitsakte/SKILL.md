@@ -1,6 +1,6 @@
 ---
 name: red-team-einer-ehenichtigkeitsakte
-description: "Red-Team einer Ehenichtigkeitsakte: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Wenn es um Red-Team einer Ehenichtigkeitsakte in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Red-Team einer Ehenichtigkeitsakte

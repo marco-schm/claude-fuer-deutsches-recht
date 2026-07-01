@@ -1,6 +1,6 @@
 ---
 name: checklists-zahlen-schwellen-und-berechnung
-description: "Checklists: Zahlen, Schwellenwerte und Berechnung im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht."
+description: "Wenn es um Checklists: Zahlen, Schwellenwerte und Berechnung in Gesellschaftsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Checklists: Zahlen, Schwellenwerte und Berechnung

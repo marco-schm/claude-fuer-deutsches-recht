@@ -1,6 +1,6 @@
 ---
 name: autorenkommunikation-email
-description: "Schreibt freundliche, klare Autorenkommunikation für Nachforderungen, Korrekturen, Freigaben, Rechtefragen, Fristen und Eskalationen im Verlagsredaktion."
+description: "Wenn es um Autorenkommunikation in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Autorenkommunikation

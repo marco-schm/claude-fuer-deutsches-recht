@@ -1,6 +1,6 @@
 ---
 name: kaution-abrechnung
-description: "Kaution Abrechnung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Anlagepflicht, Abrechnungsfrist, Zurückbehalt, Aufrechnung, Zinsen; mit Normprüfung, Beweisen, Fristen, Risikoampel u..."
+description: "Wenn es um Kaution Abrechnung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaution Abrechnung: Fachmodul im Miet- und Wohnungseigentumsrecht

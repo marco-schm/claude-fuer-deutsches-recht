@@ -1,6 +1,6 @@
 ---
 name: aktenaufbereiter-erstpruefung-und-mandatsziel
-description: "Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel in Aktenaufbereiter Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel

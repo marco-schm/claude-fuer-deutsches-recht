@@ -1,6 +1,6 @@
 ---
 name: krankentagegeld-berufsunfaehigkeit-abgrenzung
-description: "Krankentagegeldversicherung: Arbeitsunfähigkeit, Berufsunfähigkeit, Leistungseinstellung, Nachweis, PKV-Schnittstelle und existenzielle Liquidität im Versicherungsrecht."
+description: "Wenn es um Krankentagegeld vs. Berufsunfähigkeit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Krankentagegeld vs. Berufsunfähigkeit

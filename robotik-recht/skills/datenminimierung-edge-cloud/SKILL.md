@@ -1,6 +1,6 @@
 ---
 name: datenminimierung-edge-cloud
-description: "Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie, Anonymisierung, Zugriffskontrolle und Retention."
+description: "Wenn es um Datenminimierung in der Edge/Cloud-Architektur in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenminimierung Edge Cloud; Arbeitsfeld: robotik-recht."
 ---
 
 # Datenminimierung in der Edge/Cloud-Architektur

@@ -1,6 +1,6 @@
 ---
 name: arbeitgeber-betrieb-kantine
-description: "Prüft Äußerungen im Betrieb, in der Kantine, im Kollegenkreis, gegenüber Arbeitgeber, Betriebsrat oder auf LinkedIn. Verbindet Ehrschutz, Meinungsfreiheit, arbeitsrechtliche Nebenpflichten und Eskalationsrisiko im Meinungspruefer."
+description: "Wenn es um Betrieb, Kantine und Arbeitgeber in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betrieb, Kantine und Arbeitgeber

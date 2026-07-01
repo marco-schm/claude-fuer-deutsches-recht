@@ -1,6 +1,6 @@
 ---
 name: instandhaltung-sicherung
-description: "Instandhaltung Sicherung und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Objekt weist Sicherheitsmaengel auf oder Notmassnahmen sind erforderlich. Normen § 154 ZVG Pflicht zur Erhaltung § 823 BGB Verkehrssicherungspflicht BauO-Länder. Prüfraster Verkehrssicherungspflicht Notmassnahm..."
+description: "Wenn es um Instandhaltung, Sicherung und Gefahrenabwehr in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Instandhaltung, Sicherung und Gefahrenabwehr

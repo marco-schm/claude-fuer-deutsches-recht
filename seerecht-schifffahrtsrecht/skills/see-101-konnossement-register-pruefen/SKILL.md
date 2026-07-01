@@ -1,6 +1,6 @@
 ---
 name: see-101-konnossement-register-pruefen
-description: "See- und Schifffahrtsrecht: Konnossement: Register prüfen. Register prüfen für Konnossement im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Konnossement Register Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konnossement Register Pruefen

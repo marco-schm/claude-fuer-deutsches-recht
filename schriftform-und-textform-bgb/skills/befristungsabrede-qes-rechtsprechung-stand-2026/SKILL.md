@@ -1,6 +1,6 @@
 ---
 name: befristungsabrede-qes-rechtsprechung-stand-2026
-description: "Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach Paragraf 14 Abs. 4 TzBfG. Prüft Scan, einfache E-Signatur, echte qES, ArbG-Gera-Linie, Paragraf 623 BGB, Paragraf 46h ArbGG als Sonderpfad und Mandantenhinweise für Arbeitgeber und Arbeitnehmer im Schriftform Und Textform Bgb."
+description: "Wenn es um Befristungsabrede — qES-Rechtsprechung Stand 2026 in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Befristungsabrede — qES-Rechtsprechung Stand 2026

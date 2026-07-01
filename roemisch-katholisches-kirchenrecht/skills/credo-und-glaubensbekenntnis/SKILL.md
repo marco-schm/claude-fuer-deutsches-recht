@@ -1,6 +1,6 @@
 ---
 name: credo-und-glaubensbekenntnis
-description: "Credo und Glaubensbekenntnis: Glaubensartikel und Gehorsamspflicht; CIC can. 750-754; KKK 185-1065; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung."
+description: "Wenn es um Credo und Glaubensbekenntnis in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Credo Und Glaubensbekenntnis; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
 ---
 
 # Credo und Glaubensbekenntnis

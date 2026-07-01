@@ -1,6 +1,6 @@
 ---
 name: intake-mandat-lobbyregister
-description: "Erfasst Ausgangslage, Organisation, Kontaktplaene, Auftraggeber, Fristen und Portalstatus vor jeder Lobbyregister-Prüfung. Nutzt LobbyRG §§ 1 bis 5 und Bundestags-Handbuch. Output Intake-Protokoll und Dokumentenliste im Lobbyregister Bundestag."
+description: "Wenn es um Mandats- und Projekt-Intake in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandats- und Projekt-Intake

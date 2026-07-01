@@ -1,6 +1,6 @@
 ---
 name: 08-betriebsverfassung-beschlussverfahren
-description: "Beschlussverfahren Paragrafen 80 ff. ArbGG: Beteiligte, Verfahrensgegenstand (Mitbestimmung Paragraf 87 BetrVG, Einigungsstelle Paragraf 76 BetrVG), Antrag im Beschlussverfahren"
+description: "Wenn es um 08 Betriebsverfassung Beschlussverfahren in Arbeitsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 08 Betriebsverfassung Beschlussverfahren

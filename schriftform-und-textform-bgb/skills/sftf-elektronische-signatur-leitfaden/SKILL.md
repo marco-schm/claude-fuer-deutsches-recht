@@ -1,6 +1,6 @@
 ---
 name: sftf-elektronische-signatur-leitfaden
-description: "Leitfaden qualifizierte elektronische Signatur eIDAS: Vertrauensdienst, eID, Fernsignatur. Prüfraster für Vertraege und behoerdliche Verfahren im Schriftform Und Textform Bgb."
+description: "Wenn es um SfTf: eIDAS-Signatur in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SfTf: eIDAS-Signatur

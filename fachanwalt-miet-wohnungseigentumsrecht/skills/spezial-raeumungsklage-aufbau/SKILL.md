@@ -1,6 +1,6 @@
 ---
 name: spezial-raeumungsklage-aufbau
-description: "Räumungsklage Aufbau: Spezial-Skill im Miet- und Wohnungseigentumsrecht; erstellt Antrag, Tatsachenvortrag, Anlagen, Beweise, Nutzungsentschädigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Räumungsklage Aufbau in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Räumungsklage Aufbau

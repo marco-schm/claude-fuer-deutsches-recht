@@ -1,6 +1,6 @@
 ---
 name: force-majeure-im-raumfahrtprojekt
-description: "Force Majeure in Raumfahrtverträgen – Definition, Nachweispflicht, Folgen, COVID-19-Präzedenz im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Force Majeure im Raumfahrtprojekt in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Force Majeure im Raumfahrtprojekt

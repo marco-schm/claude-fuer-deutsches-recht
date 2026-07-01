@@ -1,6 +1,6 @@
 ---
 name: sanktionen-mandatsannahme-steuerliche
-description: "Anwälte: sanktionen und mandatsannahme - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Sanktionen Mandatsannahme Steuerliche in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: sanktionen und mandatsannahme - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

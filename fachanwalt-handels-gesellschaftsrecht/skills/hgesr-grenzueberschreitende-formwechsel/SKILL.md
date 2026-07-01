@@ -1,6 +1,6 @@
 ---
 name: hgesr-grenzueberschreitende-formwechsel
-description: "Grenzueberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitaetsrichtlinie und UmwG: Verfahrensschritte, Schutz Gläubiger, Minderheitsgesellschafter, Arbeitnehmer: Grenzueberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitaetsrichtlinie und..."
+description: "Wenn es um Hgesr Grenzueberschreitende Formwechsel in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzueberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitaetsrichtlinie und UmwG: Verfahrensschritte, Schutz Gläubiger, Minderheitsgesellschafter, Arbeitnehmer

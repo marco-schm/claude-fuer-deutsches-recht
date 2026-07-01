@@ -1,6 +1,6 @@
 ---
 name: gewerberaum-mietzeit-und-kuendigung
-description: "Gewerberaum-Spezial: keine Sozialklausel, keine Schriftform-Heilung nach BGH-Rechtsprechung, Probleme der Schriftform-Klausel § 550 BGB, Festmietzeit, ausserordentliche Kuendigung wichtiger Grund: Gewerberaum-Spezial: keine Sozialklausel, keine Schriftform-..."
+description: "Wenn es um Gewerberaum Mietzeit Und Kuendigung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerberaum-Spezial: keine Sozialklausel, keine Schriftform-Heilung nach BGH-Rechtsprechung, Probleme der Schriftform-Klausel § 550 BGB, Festmietzeit, ausserordentliche Kuendigung wichtiger Grund

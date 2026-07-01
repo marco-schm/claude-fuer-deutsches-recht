@@ -1,6 +1,6 @@
 ---
 name: spezial-klausel-beweislast-und-darlegungslast
-description: "Klausel: Beweislast, Darlegungslast und Substantiierung im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Klausel: Beweislast, Darlegungslast und Substantiierung in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klausel: Beweislast, Darlegungslast und Substantiierung

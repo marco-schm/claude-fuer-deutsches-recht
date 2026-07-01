@@ -1,6 +1,6 @@
 ---
 name: jurisdiktion-madagaskar-competition-authority
-description: "Jurisdiktionsskill Madagaskar: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbe..."
+description: "Wenn es um Jurisdiktion Madagaskar: Competition Authority Check in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jurisdiktion Madagaskar: Competition Authority Check

@@ -1,6 +1,6 @@
 ---
 name: deliktsrecht-paragraph-823-1
-description: "Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden nach § 823 Abs. 1 BGB."
+description: "Wenn es um Deliktsrecht Paragraf 823 Abs. 1 BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Deliktsrecht Paragraph 823 1; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Deliktsrecht § 823 Abs. 1 BGB

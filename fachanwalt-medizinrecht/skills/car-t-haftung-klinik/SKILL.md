@@ -1,6 +1,6 @@
 ---
 name: car-t-haftung-klinik
-description: "CAR-T-Behandlung: Klinikhaftung: moderner Medizinrechts-Skill für CAR-T-Aufklärung, Zytokinfreisetzung, Neurotoxizität, Patientenselektion und Klinikorganisation: CAR-T-Behandlung: Klinikhaftung: moderner Medizinrechts-Skill für CAR-T-Aufklärung, Zytokinfre..."
+description: "Wenn es um Car T Haftung Klinik in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CAR-T-Behandlung: Klinikhaftung: moderner Medizinrechts-Skill für CAR-T-Aufklärung, Zytokinfreisetzung, Neurotoxizität, Patientenselektion und Klinikorganisation

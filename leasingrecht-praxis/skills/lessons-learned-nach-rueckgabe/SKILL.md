@@ -1,6 +1,6 @@
 ---
 name: lessons-learned-nach-rueckgabe
-description: "Lessons Learned nach Leasingrückgabe: Analyse von Minderwertstreitigkeiten, Prozessverbesserungen, Vertragsoptimierungen und Portfolioentwicklung im Leasingrecht."
+description: "Wenn es um Lessons Learned nach der Leasingrückgabe in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Lessons Learned nach der Leasingrückgabe

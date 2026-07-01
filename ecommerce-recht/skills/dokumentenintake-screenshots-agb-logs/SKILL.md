@@ -1,6 +1,6 @@
 ---
 name: dokumentenintake-screenshots-agb-logs
-description: "Dokumentenintake Screenshots AGB Logs: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Wenn es um Dokumentenintake Screenshots AGB Logs in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Dokumentenintake Screenshots AGB Logs

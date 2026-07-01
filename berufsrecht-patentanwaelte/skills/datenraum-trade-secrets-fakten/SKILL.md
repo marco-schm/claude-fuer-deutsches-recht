@@ -1,6 +1,6 @@
 ---
 name: datenraum-trade-secrets-fakten
-description: "Patentanwälte: datenraum und trade secrets - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Patentanwaelte."
+description: "Wenn es um Datenraum Trade Secrets Fakten in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: datenraum und trade secrets - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

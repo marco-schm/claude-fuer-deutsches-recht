@@ -1,6 +1,6 @@
 ---
 name: amtshaftung-und-vollzugsfehler
-description: "Ordnet Fehler von Notar, Grundbuchamt, Partei und Bank ohne vorschnelle Schuldzuweisung im Grundbuchamt Praxis."
+description: "Wenn es um Vollzugsfehler und Haftung in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vollzugsfehler und Haftung

@@ -1,6 +1,6 @@
 ---
 name: bwbes-auslandsverwendungszuschlag
-description: "AVZ und Einsatzversorgung: prüft §§ 56–58 BBesG, Gefährdungsstufen, EinsatzWVG, SVG §§ 63a ff. und PTBS-Anerkennung. Norm-/Quellenanker: BBesG, EinsatzWVG, SVG im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Auslandsverwendungszuschlag und Einsatzversorgung in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auslandsverwendungszuschlag und Einsatzversorgung

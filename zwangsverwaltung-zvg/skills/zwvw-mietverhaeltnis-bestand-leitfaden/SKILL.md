@@ -1,6 +1,6 @@
 ---
 name: zwvw-mietverhaeltnis-bestand-leitfaden
-description: "Leitfaden Bestand der Mietverhaeltnisse in Zwangsverwaltung § 152 ZVG: Eintritt des Verwalters, Mietzahlungen, Kuendigung. Prüfraster für Mieter und Verwalter im Zwangsverwaltung Zvg."
+description: "Wenn es um ZwVw: Mietverhaeltnis Bestand in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ZwVw: Mietverhaeltnis Bestand

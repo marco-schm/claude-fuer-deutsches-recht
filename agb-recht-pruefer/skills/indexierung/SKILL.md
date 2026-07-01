@@ -1,6 +1,6 @@
 ---
 name: indexierung
-description: "Klausel-Fachmodul für Indexierung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung im AGB-Recht."
+description: "Wenn es um Indexierung in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Indexierung; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Indexierung

@@ -1,6 +1,6 @@
 ---
 name: minderheitsrechte-auskunft-sonderpruefung
-description: Prüft Informationsrechte, Einsicht, Sonderprüfung, Beschlusskontrolle und taktische Durchsetzung von Minderheitsgesellschaftern.
+description: "Wenn es um Minderheitsrechte, Auskunft und Sonderprüfung in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Minderheitsrechte, Auskunft und Sonderprüfung
 

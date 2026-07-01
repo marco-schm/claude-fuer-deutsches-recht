@@ -1,6 +1,6 @@
 ---
 name: hr-red-team-vor-versand
-description: "Berliner Start-up-HR: Red-Team vor Versand: Kündigung, Abmahnung, sensibler Brief, Datenexport oder Chef-Report auf Fehler prüfen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt."
+description: "Wenn es um HR Red Team Vor Versand in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # HR Red Team Vor Versand

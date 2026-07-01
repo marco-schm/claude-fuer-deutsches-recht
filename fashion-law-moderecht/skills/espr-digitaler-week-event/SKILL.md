@@ -1,6 +1,6 @@
 ---
 name: espr-digitaler-week-event
-description: "ESPR und Digital Product Passport für Mode strategisch vorbereiten: Nachhaltigkeitsdaten, Reparierbarkeit, Haltbarkeit, Materialdaten, Delegated Acts und IT-Datenmodell im Fashion Law Moderecht."
+description: "Wenn es um Espr Digitaler Produktpass in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Espr Digitaler Produktpass

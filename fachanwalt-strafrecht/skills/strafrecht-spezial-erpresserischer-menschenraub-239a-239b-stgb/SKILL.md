@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-erpresserischer-menschenraub-239a-239b-stgb
-description: "Erpresserischer Menschenraub § 239a StGB und Geiselnahme § 239b StGB: Entfuehrung oder Bemaechtigung eines Menschen zur Erpressung oder zur Noetigung. Restriktive Auslegung durch staendig..."
+description: "Wenn es um Erpresserischer Menschenraub Paragraf 239a StGB und Geiselnahme Paragraf 239b StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erpresserischer Menschenraub § 239a StGB und Geiselnahme § 239b StGB

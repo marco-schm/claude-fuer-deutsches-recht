@@ -1,6 +1,6 @@
 ---
 name: workflow-mietpreisbremse-start
-description: "Mietpreisbremse-Start: Prüfungslinie für Miet- und WEG-Recht: klärt Gebiet, Vormiete, Neubau/Modernisierung, Rüge und Rückforderung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und..."
+description: "Wenn es um Mietpreisbremse-Start: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Mietpreisbremse-Start: Prüfungslinie für Miet- und WEG-Recht

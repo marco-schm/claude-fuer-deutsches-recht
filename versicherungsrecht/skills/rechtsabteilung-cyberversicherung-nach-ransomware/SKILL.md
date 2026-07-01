@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-cyberversicherung-nach-ransomware
-description: "Rechtsabteilungs-Fachmodul für Cyberversicherung nach Ransomware: Deckung, Anzeige, Forensik und Lösegeldklauseln werden als Krisenfahrplan geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Versicherungsrecht."
+description: "Wenn es um Rechtsabteilung: Cyberversicherung nach Ransomware in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Cyberversicherung nach Ransomware

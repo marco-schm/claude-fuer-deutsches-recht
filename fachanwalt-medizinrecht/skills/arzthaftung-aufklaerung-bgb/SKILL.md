@@ -1,6 +1,6 @@
 ---
 name: arzthaftung-aufklaerung-bgb
-description: "Arzthaftung und ärztliche Aufklärung nach §§ 630a ff. BGB: Spezial-Skill für Einwilligung, Risikoaufklärung, Dokumentation, Beweislast und prozessuales Vorgehen ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Arzthaftung Aufklärung BGB in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arzthaftung Aufklärung BGB

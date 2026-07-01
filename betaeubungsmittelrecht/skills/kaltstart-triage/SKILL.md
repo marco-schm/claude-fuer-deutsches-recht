@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Betäubungsmittelrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
+description: "Wenn es um Betäubungsmittelrecht - Allgemeiner Einstieg in Betäubungsmittelrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betäubungsmittelrecht - Allgemeiner Einstieg

@@ -1,6 +1,6 @@
 ---
 name: spezial-tabellarische-livequellen-und-rechtsprechungscheck
-description: "Tabellarische: Livequellen- und Rechtsprechungscheck im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Tabellarische: Livequellen- und Rechtsprechungscheck in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tabellarische: Livequellen- und Rechtsprechungscheck

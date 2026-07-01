@@ -1,6 +1,6 @@
 ---
 name: eigenschaftsirrtum-paragraph-119-2
-description: "Klausurfall zum Eigenschaftsirrtum nach § 119 Abs. 2 BGB: Begriff der verkehrswesentlichen Eigenschaft einer Person oder Sache, Abgrenzung zum Motivirrtum, Wertirrtum und Eigenschaftsirrtum bei Kunstwerken und Vertragspersonen."
+description: "Wenn es um Eigenschaftsirrtum — Paragraf 119 Abs. 2 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Eigenschaftsirrtum Paragraph 119 2; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Eigenschaftsirrtum — § 119 Abs. 2 BGB

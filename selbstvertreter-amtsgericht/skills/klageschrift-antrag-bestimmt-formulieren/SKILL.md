@@ -1,6 +1,6 @@
 ---
 name: klageschrift-antrag-bestimmt-formulieren
-description: "Formulierung eines bestimmten Klageantrags nach § 253 II Nr. 2 ZPO. Zahlungs- Herausgabe- Unterlassungsanträge Stufenklage Feststellungs-Antrag mit Mustertext. Klagentyp prüfen Antrag vollstreckungsfähig formulieren typische Fehler vermeiden."
+description: "Wenn es um Den Klageantrag richtig formulieren in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Den Klageantrag richtig formulieren

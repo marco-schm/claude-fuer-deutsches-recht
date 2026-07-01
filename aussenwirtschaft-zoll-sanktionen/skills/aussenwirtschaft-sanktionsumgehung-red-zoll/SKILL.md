@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-sanktionsumgehung-red-zoll
-description: "Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 VO (EU) 833/2014 und BAFA-Red-Flags: ungewoehnliche Handelsrouten, Zwischenhaendler ohne erkennbares Geschäftsmodell, ungewoehnliche Zahlungswege, bekannte Beschaffungsnetzwerke für Russland/Iran. Output: Red-Flags-C..."
+description: "Wenn es um Sanktionsumgehung: Red Flags erkennen und bewerten in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanktionsumgehung: Red Flags erkennen und bewerten

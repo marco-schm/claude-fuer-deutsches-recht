@@ -1,6 +1,6 @@
 ---
 name: pralr-048-red-team-ocr-halluzinationen
-description: "PrALR: OCR-Halluzinationen, falsch gelesene Paragraphen und Scheinfundstellen im PrALR erkennen."
+description: "Wenn es um OCR-Halluzinationen in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 048 Red Team Ocr Halluzinationen; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # OCR-Halluzinationen

@@ -1,6 +1,6 @@
 ---
 name: redteam-commercial-court-qualitygate
-description: "Red-Team-Gate für alle Commercial-Court-Outputs: Zuständigkeit, Sprache, Fristen, Beweise, Übersetzungen, Geheimnisschutz, Kosten, Rechtsmittel."
+description: "Wenn es um Red-Team Quality Gate in commercial-courts-deutschland geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team Quality Gate

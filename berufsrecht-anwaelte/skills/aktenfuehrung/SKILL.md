@@ -1,6 +1,6 @@
 ---
 name: aktenfuehrung
-description: "Aktenführung: vertiefter Berufsrechts-Skill für Anwälte; prüft Aktenführung im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
+description: "Wenn es um Aktenführung in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Aktenführung

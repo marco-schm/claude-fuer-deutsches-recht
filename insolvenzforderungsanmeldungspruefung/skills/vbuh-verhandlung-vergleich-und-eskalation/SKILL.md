@@ -1,6 +1,6 @@
 ---
 name: vbuh-verhandlung-vergleich-und-eskalation
-description: "Vbuh: Verhandlung, Vergleich und Eskalation im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt:..."
+description: "Wenn es um Vbuh Verhandlung Vergleich Und Eskalation in Insolvenzforderungsanmeldungsprüfung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vbuh: Verhandlung, Vergleich und Eskalation im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

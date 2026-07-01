@@ -1,6 +1,6 @@
 ---
 name: vbr-081-saas-fuer-verbraucher-anspruch-pruefen
-description: "Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Anspruch prüfen. Anspruch prüfen für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Saas Fuer Verbraucher Anspruch Pruefen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Saas Fuer Verbraucher Anspruch Pruefen

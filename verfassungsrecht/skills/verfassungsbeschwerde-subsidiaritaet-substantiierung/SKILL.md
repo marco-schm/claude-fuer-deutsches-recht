@@ -1,6 +1,6 @@
 ---
 name: verfassungsbeschwerde-subsidiaritaet-substantiierung
-description: "Verfassungsbeschwerde auf Zulässigkeit härten: Rechtswegerschöpfung, Subsidiarität, fachgerichtliche Grundrechtsrüge, § 23 Abs. 1 BVerfGG, § 92 BVerfGG, § 93 BVerfGG und Annahmerisiko nach § 93a BVerfGG."
+description: "Wenn es um Verfassungsbeschwerde: Subsidiarität und Substantiierung in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verfassungsbeschwerde: Subsidiarität und Substantiierung

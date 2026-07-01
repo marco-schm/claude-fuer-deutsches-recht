@@ -1,6 +1,6 @@
 ---
 name: apotheke-btm-dokumentation
-description: "Betäubungsmittelrecht: Apotheke BtM-Dokumentation. Apotheke BtM-Dokumentation im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
+description: "Wenn es um Apotheke Btm Dokumentation in Betäubungsmittelrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Apotheke Btm Dokumentation

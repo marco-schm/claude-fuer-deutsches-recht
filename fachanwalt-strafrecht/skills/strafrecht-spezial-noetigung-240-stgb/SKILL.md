@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-noetigung-240-stgb
-description: "Noetigung nach § 240 StGB: Mit Gewalt oder durch Drohung mit empfindlichem Uebel jemanden rechtswidrig zu einer Handlung Duldung oder Unterlassung noetigen. Verwerflichkeitsklausel Abs. 2. Strafrahmen bis drei Jahre Freiheitsstraf..."
+description: "Wenn es um Noetigung nach Paragraf 240 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Noetigung nach § 240 StGB

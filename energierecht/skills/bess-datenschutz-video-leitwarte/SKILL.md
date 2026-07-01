@@ -1,6 +1,6 @@
 ---
 name: bess-datenschutz-video-leitwarte
-description: "Prüft Videoüberwachung, Zutrittslogs, Fernwartung, Auftragsverarbeitung und Drittlandzugriffe im Energierecht."
+description: "Wenn es um Datenschutz: Video, Leitwarte und Fernwartung in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz: Video, Leitwarte und Fernwartung

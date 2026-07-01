@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-scheinselbststaendigkeit-franchise
-description: "Scheinselbstständigkeit von Franchisenehmern prüfen: Abgrenzung selbstständiger Unternehmer vs. Arbeitnehmer oder arbeitnehmerähnliche Person nach § 84 HGB. Sozialversicherungsrecht, Statusfeststellungsverfahren DRV und arbeitsrechtliche Konsequenzen im Franchiserecht."
+description: "Wenn es um Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise

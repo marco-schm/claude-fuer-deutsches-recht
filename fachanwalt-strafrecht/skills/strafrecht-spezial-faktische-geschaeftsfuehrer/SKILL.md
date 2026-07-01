@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-faktische-geschaeftsfuehrer
-description: "Faktische Geschäftsführer im Wirtschaftsstrafrecht: Paragraph 14 StGB Handeln für andere. Strafbarkeit nach Paragraph 283 ff. StGB und Paragraph 84 GmbHG auch ohne Eintragung. BGH-Kriterien für faktisc..."
+description: "Wenn es um Faktische Geschäftsführer im Wirtschaftsstrafrecht in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Faktische Geschäftsführer im Wirtschaftsstrafrecht

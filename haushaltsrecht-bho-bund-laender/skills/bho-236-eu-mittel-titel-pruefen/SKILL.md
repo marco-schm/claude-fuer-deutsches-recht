@@ -1,6 +1,6 @@
 ---
 name: bho-236-eu-mittel-titel-pruefen
-description: "Haushaltsrecht BHO Bund und Länder: EU-Mittel: Titel prüfen. Titel prüfen für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Eu Mittel Titel Pruefen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eu Mittel Titel Pruefen

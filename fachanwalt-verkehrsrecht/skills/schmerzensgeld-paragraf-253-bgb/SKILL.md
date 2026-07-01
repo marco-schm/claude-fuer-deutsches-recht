@@ -1,6 +1,6 @@
 ---
 name: schmerzensgeld-paragraf-253-bgb
-description: "Schmerzensgeld § 253 BGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Schmerzensgeld Paragraf 253 BGB in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schmerzensgeld § 253 BGB

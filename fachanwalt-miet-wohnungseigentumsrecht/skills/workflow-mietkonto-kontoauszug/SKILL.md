@@ -1,6 +1,6 @@
 ---
 name: workflow-mietkonto-kontoauszug
-description: "Mietkonto und Kontoauszug: Prüfungslinie für Miet- und WEG-Recht: rekonstruiert Soll/Ist, Rückstände, Tilgungsbestimmung und Schonfristzahlung; mit Kaltstart, Fristencheck, Belegmatrix, Ansch..."
+description: "Wenn es um Mietkonto und Kontoauszug: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Mietkonto und Kontoauszug: Prüfungslinie für Miet- und WEG-Recht

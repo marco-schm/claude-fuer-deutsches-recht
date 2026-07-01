@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-sexueller-missbrauch-176-stgb
-description: "Sexueller Missbrauch von Kindern nach § 176 StGB: Reform 2021 mit erhoehten Mindeststrafen. Strafrahmen ein bis 15 Jahre. Schutzobjekt Kind unter 14 Jahren. Qualifikationen §§ 176a 176c 176d StGB. Praxisleit..."
+description: "Wenn es um Sexueller Missbrauch von Kindern nach Paragraf 176 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sexueller Missbrauch von Kindern nach § 176 StGB

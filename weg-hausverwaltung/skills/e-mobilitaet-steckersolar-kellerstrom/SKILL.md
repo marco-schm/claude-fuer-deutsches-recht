@@ -1,6 +1,6 @@
 ---
 name: e-mobilitaet-steckersolar-kellerstrom
-description: "Prüft E-Mobilität, Wallboxen, Ladeinfrastruktur, Steckersolar, Dach-PV und unzulässige Kellerstrom-Lösungen in WEG-Anlagen. Ordnet § 20 WEG, Brandschutz, Messkonzept, Kosten, Netzanschluss und Beschlussvarianten. Output: Beschluss- und Risikomatrix."
+description: "Wenn es um E-Mobilität, Steckersolar und Kellerstrom in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # E-Mobilität, Steckersolar und Kellerstrom

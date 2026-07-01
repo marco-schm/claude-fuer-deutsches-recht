@@ -1,6 +1,6 @@
 ---
 name: berufspflicht-verhaeltnismaessigkeit
-description: "Berufspflicht und Verhältnismäßigkeit (Präventions- und Organisationspaket): steuert Pflichtverletzung, Schuld, Sanktion, Wiederholungsgefahr und mildere Mittel mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Frei..."
+description: "Wenn es um Berufspflicht und Verhältnismäßigkeit: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Berufspflicht und Verhältnismäßigkeit: Präventions- und Organisationspaket

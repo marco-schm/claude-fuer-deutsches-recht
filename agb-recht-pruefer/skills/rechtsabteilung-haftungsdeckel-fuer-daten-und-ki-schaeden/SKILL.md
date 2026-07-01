@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-haftungsdeckel-fuer-daten-und-ki-schaeden
-description: "Rechtsabteilungs-Fachmodul für Haftungsdeckel für Daten- und KI-Schäden: Liability Caps bei Software, Daten, KI und Outsourcing werden so geprüft, dass Kardinalpflichten und Personenschäden nicht versehentlich abgeschnitten werden. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handl"
+description: "Wenn es um Rechtsabteilung: Haftungsdeckel für Daten- und digitale Werkzeuge-Schäden in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Auswahlstichwort: Rechtsabteilung Haftungsdeckel für Daten Und Ki Schaeden; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Rechtsabteilung: Haftungsdeckel für Daten- und KI-Schäden

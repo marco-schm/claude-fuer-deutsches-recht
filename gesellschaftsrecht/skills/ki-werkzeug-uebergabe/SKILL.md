@@ -1,6 +1,6 @@
 ---
 name: ki-werkzeug-uebergabe
-description: "KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder Kira. Laden wenn der Nutzer Luminance, Kira, KI-Prüfung, automatische Extraktion oder Massenprüfung erwähnt oder der Datenraum mehr als ~50 Verträge enthält, die ein einheitliches Klausel-Extraktionsprofil erfordern im Gesellschaftsre..."
+description: "Wenn es um digitale Werkzeuge-Tool-Übergabe (Luminance / Kira) in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI-Tool-Übergabe (Luminance / Kira)

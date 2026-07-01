@@ -1,6 +1,6 @@
 ---
 name: verfassung-abstrakte-bund
-description: "Verfassungsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Verfassungsrecht."
+description: "Wenn es um Verfassungsrecht: Erstprüfung, Rollenklärung und Mandatsziel in verfassungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verfassungsrecht: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: insolvenz-sanierung-starug-plan
-description: "StaRUG-Restrukturierungsplan §§ 4-65 StaRUG: Voraussetzung drohende Zahlungsunfähigkeit § 18 InsO. Plan-Struktur Gruppen Mehrheiten 75 Prozent je Klasse. Cross-class cramdown. Stabilisierungsanordnung § 49 StaRUG..."
+description: "Wenn es um StaRUG-Restrukturierungsplan Paragrafen 4-65 StaRUG in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # StaRUG-Restrukturierungsplan §§ 4-65 StaRUG

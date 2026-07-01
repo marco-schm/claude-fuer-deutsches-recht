@@ -1,6 +1,6 @@
 ---
 name: restrukturierungsplan-architektur-rollierende
-description: "StaRUG-Restrukturierungsplan nach §§ 7 ff. StaRUG architektieren: Schuldner oder Berater plant außergerichtliche Sanierung unter StaRUG. Normen: §§ 7 ff. StaRUG (Planbestandteile), § 9 StaRUG (Gruppenbildung), § 25 StaRUG (Mehrheitserfordernisse), § 60 StaRUG (gerichtliche Planbestätigung). Prüfr..."
+description: "Wenn es um Restrukturierungsplan — Architektur nach Paragrafen 7 ff. StaRUG in Krisenfrüherkennung und StaRUG-Management geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Restrukturierungsplan — Architektur nach §§ 7 ff. StaRUG

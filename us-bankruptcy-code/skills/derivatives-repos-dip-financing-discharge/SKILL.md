@@ -1,6 +1,6 @@
 ---
 name: derivatives-repos-dip-financing-discharge
-description: "Prüft derivatives close-out, collateral, ISDA, repos, swaps, ipso facto and safe-harbor consequences im US Bankruptcy Code."
+description: "Wenn es um Derivatives, Repos and Swaps in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Derivatives, Repos and Swaps

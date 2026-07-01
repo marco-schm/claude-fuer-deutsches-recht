@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-joint-controller-im-plattform-oekosystem
-description: "Rechtsabteilungs-Fachmodul für Joint Controller im Plattform-Ökosystem: Gemeinsame Verantwortlichkeit wird für Plattform, Händler, Franchise und Konzern sauber dokumentiert: Rechtsabteilungs-Fachmodul für Joint Controller im Plattform-Ökosystem: Gemeinsame..."
+description: "Wenn es um Rechtsabteilung Joint Controller Im Plattform Oekosystem in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilungs-Fachmodul für Joint Controller im Plattform-Ökosystem: Gemeinsame Verantwortlichkeit wird für Plattform, Händler, Franchise und Konzern sauber dokumentiert

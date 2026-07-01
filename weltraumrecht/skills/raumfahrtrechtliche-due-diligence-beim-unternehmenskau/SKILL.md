@@ -1,6 +1,6 @@
 ---
 name: raumfahrtrechtliche-due-diligence-beim-unternehmenskau
-description: "Due Diligence beim Kauf eines Raumfahrtunternehmens – Lizenzen, Verträge, Frequenzen, Haftungsaltlasten im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Raumfahrtrechtliche Due Diligence beim Unternehmenskauf in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Raumfahrtrechtliche Due Diligence beim Unternehmenskauf

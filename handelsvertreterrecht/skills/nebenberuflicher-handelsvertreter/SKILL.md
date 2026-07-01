@@ -1,6 +1,6 @@
 ---
 name: nebenberuflicher-handelsvertreter
-description: "Analysiert die Rechtsstellung des nebenberuflichen Handelsvertreters: Vollständige Anwendung der §§ 84-92c HGB, Besonderheiten bei geringem Vertragsumfang, Scheinselbständigkeit bei nur einem Auftraggeber, Sozialversicherungsrecht sowie Steuerrecht für nebenberufliche Selbständige im Handelsvertr..."
+description: "Wenn es um Nebenberuflicher Handelsvertreter — HGB-Recht und Sozialversicherung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nebenberuflicher Handelsvertreter — HGB-Recht und Sozialversicherung

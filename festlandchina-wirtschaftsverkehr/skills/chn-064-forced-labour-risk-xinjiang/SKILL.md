@@ -1,6 +1,6 @@
 ---
 name: chn-064-forced-labour-risk-xinjiang
-description: "Festlandchina Wirtschaftsverkehr: Forced Labour Risk Xinjiang. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Forced Labour Risk Xinjiang in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Forced Labour Risk Xinjiang

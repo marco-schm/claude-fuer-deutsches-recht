@@ -1,6 +1,6 @@
 ---
 name: internationaler-creator-wohnsitz-und-wegzug
-description: "Influencer-Recht: Internationaler Wohnsitz und Wegzug – Steuerrecht, Wegzugsbesteuerung, DBA, Telearbeit und sozialversicherungsrechtliche Konsequenzen im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Internationaler Wohnsitz und Wegzug in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Influencer-Recht: Internationaler Wohnsitz und Wegzug

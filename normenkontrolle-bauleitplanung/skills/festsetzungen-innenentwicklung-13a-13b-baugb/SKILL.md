@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-innenentwicklung-13a-13b-baugb
-description: "Prueft Bebauungsplaene der Innenentwicklung nach BauGB Paragraf 13a und Anschlussfragen zu Paragraf 13b: Anwendungsbereich, Flaechenbezug, Umweltpruefung und Fehlerfolge."
+description: "Wenn es um Innenentwicklung nach BauGB Paragraf 13a und Anschlussfragen zu Paragraf 13b in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Innenentwicklung nach BauGB Paragraf 13a und Anschlussfragen zu Paragraf 13b

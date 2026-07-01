@@ -1,6 +1,6 @@
 ---
 name: geas-2026-umstellung
-description: "GEAS-Umstellung 2026: Fachmodul im Migrationsrecht: prüft neues EU-Asylpaket ab 12.06.2026 und Übergangsfälle; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um GEAS-Umstellung 2026: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GEAS-Umstellung 2026: Fachmodul im Migrationsrecht

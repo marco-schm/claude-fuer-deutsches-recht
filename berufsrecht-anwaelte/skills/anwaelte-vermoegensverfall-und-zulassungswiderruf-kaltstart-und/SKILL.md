@@ -1,6 +1,6 @@
 ---
 name: anwaelte-vermoegensverfall-und-zulassungswiderruf-kaltstart-und
-description: "Anwälte: vermoegensverfall und zulassungswiderruf - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt."
+description: "Wenn es um Anwaelte Vermoegensverfall Und Zulassungswiderruf Kaltstart Und in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: vermoegensverfall und zulassungswiderruf - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

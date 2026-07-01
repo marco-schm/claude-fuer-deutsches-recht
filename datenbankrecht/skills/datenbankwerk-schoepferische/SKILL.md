@@ -1,6 +1,6 @@
 ---
 name: datenbankwerk-schoepferische
-description: "Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtlich schutzfähig ist. Analysiert schöpferische Auswahl oder Anordnung der Elemente, grenzt zur bloßen Vollständigkeitssammlung ab, bewertet EuGH- und BGH-Rechtsprechung und liefert Schutzfähigkeitsgutachten für Mandanten..."
+description: "Wenn es um Datenbankwerk: Schöpferische Auswahl oder Anordnung (Paragraf 4 Abs. 2 UrhG) in Datenbankrecht und Datenbankherstellerrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Datenbankwerk: Schöpferische Auswahl oder Anordnung (§ 4 Abs. 2 UrhG)

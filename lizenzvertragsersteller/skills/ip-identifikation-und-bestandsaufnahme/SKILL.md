@@ -1,6 +1,6 @@
 ---
 name: ip-identifikation-und-bestandsaufnahme
-description: "IP-Identifikation und Bestandsaufnahme fuer Lizenzvertraege: Schutzrechtsregister-Auszug, Klassifikation nach Typ (Urheber Patent Marke Design Gebrauchsmuster Geschäftsgeheimnis), Belastungen, Erfindervergutung, Lizenzhistorie, IP-Inventar als Anlage A."
+description: "Wenn es um IP-Identifikation und Bestandsaufnahme in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # IP-Identifikation und Bestandsaufnahme

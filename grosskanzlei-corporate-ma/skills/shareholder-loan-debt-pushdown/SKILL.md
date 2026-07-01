@@ -1,6 +1,6 @@
 ---
 name: shareholder-loan-debt-pushdown
-description: Prüft Gesellschafterdarlehen, Rangrücktritt, Upstream-Sicherheiten, Debt-Pushdown-Struktur und Insolvenzrisiken nach Transaktionen.
+description: "Wenn es um Shareholder Loan und Debt Pushdown in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Shareholder Loan und Debt Pushdown
 

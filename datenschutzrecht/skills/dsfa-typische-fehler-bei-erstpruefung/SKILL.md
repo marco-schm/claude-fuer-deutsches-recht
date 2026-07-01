@@ -1,6 +1,6 @@
 ---
 name: dsfa-typische-fehler-bei-erstpruefung
-description: "Katalog typischer Fehler bei der DSFA-Erstpruefung und Gegenmassnahmen. Output: Fehlerkatalog mit Prüfliste für DSB und Verantwortliche samt Beispielen aus Aufsichtspraxis."
+description: "Wenn es um Typische Fehler bei der DSFA-Erstpruefung in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Typische Fehler bei der DSFA-Erstpruefung

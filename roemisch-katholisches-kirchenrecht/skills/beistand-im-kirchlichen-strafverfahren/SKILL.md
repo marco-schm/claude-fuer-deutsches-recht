@@ -1,6 +1,6 @@
 ---
 name: beistand-im-kirchlichen-strafverfahren
-description: "Beistand im kirchlichen Strafverfahren: Verteidigung, Akteneinsicht, Beweise und Wahrheitspflicht; CIC can. 1720-1728 und 1481-1490; KKK 1463 und 2477-2479; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung."
+description: "Wenn es um Beistand im kirchlichen Strafverfahren in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Beistand Im Kirchlichen Strafverfahren; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
 ---
 
 # Beistand im kirchlichen Strafverfahren

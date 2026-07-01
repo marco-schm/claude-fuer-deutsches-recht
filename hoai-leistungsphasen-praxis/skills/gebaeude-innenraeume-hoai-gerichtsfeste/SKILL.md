@@ -1,6 +1,6 @@
 ---
 name: gebaeude-innenraeume-hoai-gerichtsfeste
-description: "HOAI-Praxis: prüft speziell Leistungsbild Gebäude und Innenräume nach § 34 HOAI und Anlage 10; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Gebaeude Innenraeume Hoai Gerichtsfeste in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # HOAI Querschnitt: Prüft speziell leistungsbild gebäude und innenräume nach § 34 hoai und anlage 10

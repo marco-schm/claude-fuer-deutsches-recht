@@ -1,6 +1,6 @@
 ---
 name: arbeitsunfall-paragraf-8-sgb-vii
-description: "Arbeitsunfall § 8 sgb vii: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Arbeitsunfall Paragraf 8 sgb vii in Fachanwalt Sozialrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitsunfall § 8 sgb vii

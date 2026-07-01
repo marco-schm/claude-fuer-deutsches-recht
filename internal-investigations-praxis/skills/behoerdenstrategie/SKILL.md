@@ -1,6 +1,6 @@
 ---
 name: behoerdenstrategie
-description: "Entwickelt die Behördenstrategie für Self-Reporting an BaFin, StA, DOJ/SEC – Zeitpunkt, Inhalt, Kooperationsanreize und Risikoabwägung im Internal Investigations Praxis."
+description: "Wenn es um Behördenstrategie und Self-Reporting in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Behördenstrategie und Self-Reporting

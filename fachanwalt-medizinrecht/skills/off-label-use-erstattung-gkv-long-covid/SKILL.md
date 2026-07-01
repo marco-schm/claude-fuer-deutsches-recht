@@ -1,6 +1,6 @@
 ---
 name: off-label-use-erstattung-gkv-long-covid
-description: "Off-Label-Use und GKV-Erstattungsstreitigkeiten insbesondere Long-Covid: Anwendungsfall Patient benoetigt nicht zugelassenes Medikament oder Therapie und GKV verweigert Erstattung: Off-Label-Use und GKV-Erstattungsstreitigkeiten insbesondere Long-Covid: Anw..."
+description: "Wenn es um Off Label Use Erstattung Gkv Long Covid in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Off-Label-Use und GKV-Erstattungsstreitigkeiten insbesondere Long-Covid: Anwendungsfall Patient benoetigt nicht zugelassenes Medikament oder Therapie und GKV verweigert Erstattung

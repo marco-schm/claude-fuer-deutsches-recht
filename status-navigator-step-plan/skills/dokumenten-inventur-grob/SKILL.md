@@ -1,6 +1,6 @@
 ---
 name: dokumenten-inventur-grob
-description: "Erzeugt eine erste grobe Liste aller vorhandenen Dateien mit Dateiname, Dateityp, Dateigroesse und sichtbarem Datum. Noch keine inhaltliche Prüfung — reine Bestandsaufnahme als Ausgangspunkt fuer die feinere Einordnung."
+description: "Wenn es um Dokumenten-Inventur grob in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Dokumenten-Inventur grob

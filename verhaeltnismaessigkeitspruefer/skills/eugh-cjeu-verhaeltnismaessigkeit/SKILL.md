@@ -1,6 +1,6 @@
 ---
 name: eugh-cjeu-verhaeltnismaessigkeit
-description: Verhältnismäßigkeitspruefung des Gerichtshofs der Europaeischen Union nach Art 52 I GRCh und allgemeinem Grundsatz mit Stufen Gesetzesvorbehalt Wesensgehalt legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit. Mit Digital Rights Ireland Schrems II La Quadrature du Net Tele2 Sverige sowie Hinweisen zur Rezeption deutscher Methodik und zum Verhältnis Charta-Schranken zur EMRK.
+description: "Wenn es um EuGH CJEU Verhältnismäßigkeit in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # EuGH CJEU Verhältnismäßigkeit

@@ -1,6 +1,6 @@
 ---
 name: bau-honorar-hoai-grundzuege
-description: "HOAI in Grundzuegen: Leistungsbilder § 34 ff: HOAI, Honorarzonen, Mindest- und Hoechstsaetze nach EuGH-Spruch zu HOAI 2013, Pauschalierung, abrechenbare anrechenbare Kosten. Beispielrechnung und typische Streitp..."
+description: "Wenn es um HOAI in Grundzuegen: Leistungsbilder Paragraf 34 ff in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # HOAI in Grundzuegen: Leistungsbilder § 34 ff

@@ -1,6 +1,6 @@
 ---
 name: dba-dividenden-quellensteuer-art-10
-description: "Dividenden nach Art. 10 OECD-MA und EU-Mutter-Tochter-Richtlinie. Anwendungsfall Ausschuettungen über Grenze Quellensteuer im Quellenstaat Hoechstsatz Schachtelhoehe. § 43b EStG MTRL § 8b KStG Schachtelprivileg. Anti-Cum-Cum § 50j EStG. Anti-Treaty-Shopping § 50d Abs. 3 EStG. Output Mandanten-Mem..."
+description: "Wenn es um Dividenden (Art. 10 OECD-MA) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Dividenden (Art. 10 OECD-MA)

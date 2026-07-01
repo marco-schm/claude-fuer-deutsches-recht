@@ -1,6 +1,6 @@
 ---
 name: erfindungsmeldung-aufnahme-und-rueckfragen
-description: "Nimmt rohe Erfindungsideen, Skizzen, Mandantenmails und Prototypnotizen auf; trennt technische Lehre von bloßer Idee, erkennt Offenbarungsrisiken und erstellt Rückfragen für eine patentfähige Anmeldung im Patentrecht."
+description: "Wenn es um Erfindungsmeldung aufnehmen in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Erfindungsmeldung aufnehmen

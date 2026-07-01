@@ -1,6 +1,6 @@
 ---
 name: dba-polen
-description: "DBA Deutschland Polen aktuelle Fassung 2003. Anwendungsfall Arbeitnehmer Entsendung Pendler Beteiligungen Lizenzen Bauausführung. EU-MTRL EU-ZinsLizenzRL ergaenzend. Methodenartikel Anrechnungsmethode mit Aktivitaetsklausel. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Polen (2003) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Polen (2003)

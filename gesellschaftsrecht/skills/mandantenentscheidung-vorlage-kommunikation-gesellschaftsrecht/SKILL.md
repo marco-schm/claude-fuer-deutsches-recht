@@ -1,6 +1,6 @@
 ---
 name: mandantenentscheidung-vorlage-kommunikation-gesellschaftsrecht
-description: "Arbeitsbereich: Mandantenkommunikation und Entscheidungsvorlage im Plugin gesellschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Mandantenentscheidung, Vorlage und Kommunikation im Gesellschaftsrecht in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantenentscheidung, Vorlage und Kommunikation im Gesellschaftsrecht

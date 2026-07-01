@@ -1,6 +1,6 @@
 ---
 name: v392-fachanwaltsblick-fachanwalt-familienrecht
-description: "Fachanwaltsblick für Familienrecht: Mandantengespräch, typische Fallkonstellationen, FAO-geprägte Themenbreite, Belegbedarf, Schriftsatzstruktur und taktischer nächster Schritt werden zusammengeführt."
+description: "Wenn es um Fachanwaltsblick Familienrecht in Fachanwalt Familienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Fachanwaltsblick Familienrecht

@@ -1,6 +1,6 @@
 ---
 name: scheinkaufmann-und-rechtsschein
-description: "Prüft Rechtsschein kaufmännischen Auftretens und Vertrauensschutz im Handelsrecht Hgb."
+description: "Wenn es um Scheinkaufmann und Rechtsschein in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Scheinkaufmann und Rechtsschein

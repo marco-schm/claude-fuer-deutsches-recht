@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-geldwaesche-261-stgb-neu-2021
-description: "Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendungsfall Verteidigung seit Wegfall des Vortatkatalogs jede Straftat tauglich als Vortat: Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendungsfall Verteidigung seit Wegfall des Vorta..."
+description: "Wenn es um Strafrecht Spezial Geldwaesche 261 Stgb Neu 2021 in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendungsfall Verteidigung seit Wegfall des Vortatkatalogs jede Straftat tauglich als Vortat

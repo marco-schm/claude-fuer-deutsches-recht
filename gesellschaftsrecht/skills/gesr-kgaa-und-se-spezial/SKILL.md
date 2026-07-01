@@ -1,6 +1,6 @@
 ---
 name: gesr-kgaa-und-se-spezial
-description: "Spezialfall KGaA und SE: Hybridform, Vorstandsbestellung, Mitbestimmungsfreiheit der SE. Prüfraster für Family Office und boersennotierte Gruppe im Gesellschaftsrecht."
+description: "Wenn es um GesR: KGaA SE Spezial in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GesR: KGaA SE Spezial

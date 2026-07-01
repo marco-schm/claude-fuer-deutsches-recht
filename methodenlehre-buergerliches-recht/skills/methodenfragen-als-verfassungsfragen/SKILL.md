@@ -1,6 +1,6 @@
 ---
 name: methodenfragen-als-verfassungsfragen
-description: "Zeigt auf, dass und wie methodische Fragen der Rechtsanwendung zugleich Verfassungsfragen sind. Das Skill systematisiert, wann die Wahl einer Auslegungsmethode verfassungsrechtliche Relevanz hat und welche Methoden vom Grundgesetz geboten oder verboten sind. Es verbindet Methodenlehre und Verfass..."
+description: "Wenn es um Methodenfragen als Verfassungsfragen in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Methodenfragen als Verfassungsfragen

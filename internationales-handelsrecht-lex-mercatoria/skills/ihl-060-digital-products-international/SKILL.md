@@ -1,6 +1,6 @@
 ---
 name: ihl-060-digital-products-international
-description: "Internationales Handelsrecht und Lex Mercatoria: Digital Products International. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Digital Products International in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Digital Products International

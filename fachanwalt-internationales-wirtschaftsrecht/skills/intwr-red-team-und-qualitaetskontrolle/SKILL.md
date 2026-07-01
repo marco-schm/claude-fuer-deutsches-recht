@@ -1,6 +1,6 @@
 ---
 name: intwr-red-team-und-qualitaetskontrolle
-description: "Intwr: Red-Team und Qualitätskontrolle: Intwr: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Intwr: Red-Team und Qualitätskontrolle in Fachanwalt Internationales Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Intwr: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: klagebegruendung-laienleitfaden
-description: "Wie Sie Ihre Klage ohne Anwalt sinnvoll begründen. Sachverhalt Rechtsverletzung Beweismittel Antrag Aufbau und Mustertexte für Buerger vor dem Sozialgericht."
+description: "Wenn es um So begruenden Sie Ihre Klage — für Laien in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # So begruenden Sie Ihre Klage — für Laien

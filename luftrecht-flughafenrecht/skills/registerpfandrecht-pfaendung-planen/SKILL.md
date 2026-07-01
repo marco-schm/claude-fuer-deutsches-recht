@@ -1,6 +1,6 @@
 ---
 name: registerpfandrecht-pfaendung-planen
-description: "Pfandglaeubiger will aus eingetragenem Pfandrecht vollstrecken oder Neuglaeubigers will Pfandrecht pfaenden. Prüft LuftFzgG §§ 22-28 Zwangsversteigerungsrecht ZPO §§ 864-871 Cape-Town-Remedies Art. 8 InsO § 50 Absonderungsrecht und liefert Vollstreckungs-Plan im Luftrecht Flughafenrecht."
+description: "Wenn es um Registerpfandrecht – Pfändung planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerpfandrecht – Pfändung planen

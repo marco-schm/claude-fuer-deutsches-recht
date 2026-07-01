@@ -1,6 +1,6 @@
 ---
 name: inso-p020-auskunfts-und-mitwirkungspflicht-im-eroffnungsverfahre
-description: "§ 20 InsO (Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren: Hinweis auf Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen..."
+description: "Wenn es um Paragraf 20 InsO (Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 20 InsO (Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren

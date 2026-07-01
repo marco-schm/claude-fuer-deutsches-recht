@@ -1,6 +1,6 @@
 ---
 name: mandantendaten-ki
-description: "Datenschutzkonforme Verwendung von Mandantendaten beim Einsatz von KI-Tools in der Kanzlei prüfen. Art. 5 6 DSGVO BRAO § 43a Verschwiegenheit. Prüfraster: Rechtsgrundlage Zweckbindung Vertraulichkeit Anwaltsprivileg AVV KI-Anbieter. Output: Compliance-Memo Nutzungsempfehlung. Abgrenzung: nicht fü..."
+description: "Wenn es um Mandantendaten und digitale Werkzeuge-Dienstleister (Paragraf 203 StGB, Art. 28 DSGVO) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandantendaten und KI-Dienstleister (§ 203 StGB, Art. 28 DSGVO)

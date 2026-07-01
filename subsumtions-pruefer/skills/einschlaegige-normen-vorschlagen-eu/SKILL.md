@@ -1,6 +1,6 @@
 ---
 name: einschlaegige-normen-vorschlagen-eu
-description: "Schlaegt einschlaegige Normen des Unionsrechts vor: AEUV, EUV, GRCh (Primaerrecht) sowie EU-Verordnungen und Richtlinien (Sekundaerrecht). Gibt Hinweise auf EuGH-Judikatur und Fundstellen bei curia.europa.eu. Klaert unmittelbare Wirkung und Anwendungsvorrang im Subsumtions Prüfer."
+description: "Wenn es um Einschlägige Normen vorschlagen — Unionsrecht in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einschlägige Normen vorschlagen — Unionsrecht

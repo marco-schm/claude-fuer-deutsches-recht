@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen
-description: "Workflow-Skill zu fachanwalt familienrecht sbgg personenstandswechsel folgen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Wenn es um Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen

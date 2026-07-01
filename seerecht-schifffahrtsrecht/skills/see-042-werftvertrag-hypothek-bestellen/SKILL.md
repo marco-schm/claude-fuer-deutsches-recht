@@ -1,6 +1,6 @@
 ---
 name: see-042-werftvertrag-hypothek-bestellen
-description: "See- und Schifffahrtsrecht: Werftvertrag: Hypothek bestellen. Hypothek bestellen für Werftvertrag im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Werftvertrag Hypothek Bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Werftvertrag Hypothek Bestellen

@@ -1,6 +1,6 @@
 ---
 name: produktbeobachtung-verhandlung-vergleich-und-eskalation
-description: "Produktbeobachtung: Verhandlung, Vergleich und Eskalation im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Produktbeobachtung: Verhandlung, Vergleich und Eskalation in Produkthaftung und Produktrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Produktbeobachtung: Verhandlung, Vergleich und Eskalation

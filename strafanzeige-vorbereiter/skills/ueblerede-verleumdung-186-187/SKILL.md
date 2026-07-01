@@ -1,6 +1,6 @@
 ---
 name: ueblerede-verleumdung-186-187
-description: "Strafanzeige und Kommunikation so formulieren, dass keine unnötige ehrverletzende Drittverbreitung entsteht im Strafanzeige-Vorbereitung."
+description: "Wenn es um Üble Nachrede und Verleumdung vermeiden in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Üble Nachrede und Verleumdung vermeiden

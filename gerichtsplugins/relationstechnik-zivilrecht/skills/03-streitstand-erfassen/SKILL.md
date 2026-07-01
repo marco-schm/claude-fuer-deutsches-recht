@@ -1,6 +1,6 @@
 ---
 name: 03-streitstand-erfassen
-description: "Streitiger und unstreitiger Sachverhalt heraussortieren, Geltung von Paragraf 138 Abs. 3 ZPO (Gestaendnisfiktion), Beweisbeduerftigkeit der streitigen Tatsachen"
+description: "Wenn es um 03 Streitstand Erfassen in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 03 Streitstand Erfassen

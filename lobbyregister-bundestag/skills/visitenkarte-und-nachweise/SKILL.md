@@ -1,6 +1,6 @@
 ---
 name: visitenkarte-und-nachweise
-description: "Nutzt die Lobbyregister-Visitenkarte, Registerauszug und interne Nachweise für Kontaktaufnahme, Hausausweis, Anhörung und Compliance-Akte. Output Nachweispack im Lobbyregister Bundestag."
+description: "Wenn es um Visitenkarte und Nachweise in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Visitenkarte und Nachweise

@@ -1,6 +1,6 @@
 ---
 name: leistungszweck-bei-vorleistung-und-anzahlung
-description: "Bei anzahlungen, Vorschüsse oder Reservierungsentgelte rückabgewickelt werden sollen. Normen: § 812 Abs. 1 S. 1 Alt. 1 und S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zei..."
+description: "Wenn es um Leistungszweck bei Vorleistung und Anzahlung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leistungszweck bei Vorleistung und Anzahlung

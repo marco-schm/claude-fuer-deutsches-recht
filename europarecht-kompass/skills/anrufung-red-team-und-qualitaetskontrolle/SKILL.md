@@ -1,6 +1,6 @@
 ---
 name: anrufung-red-team-und-qualitaetskontrolle
-description: "Anrufung: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Anrufung: Red-Team und Qualitätskontrolle in Europarecht-Kompass für deutsche Juristen geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anrufung: Red-Team und Qualitätskontrolle

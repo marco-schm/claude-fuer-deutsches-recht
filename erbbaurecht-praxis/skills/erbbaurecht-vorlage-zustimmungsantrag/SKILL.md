@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-vorlage-zustimmungsantrag
-description: "Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung im Erbbaurecht Praxis."
+description: "Wenn es um Zustimmungsantrag in Erbbaurecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zustimmungsantrag

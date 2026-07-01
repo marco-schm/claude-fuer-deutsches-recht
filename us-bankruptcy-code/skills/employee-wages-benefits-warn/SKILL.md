@@ -1,6 +1,6 @@
 ---
 name: employee-wages-benefits-warn
-description: "Prüft wage priority, benefits, WARN Act exposure, employee claims, retention/bonus plans and sale transfer issues im US Bankruptcy Code."
+description: "Wenn es um Employees Wages Benefits and WARN in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Employees Wages Benefits and WARN

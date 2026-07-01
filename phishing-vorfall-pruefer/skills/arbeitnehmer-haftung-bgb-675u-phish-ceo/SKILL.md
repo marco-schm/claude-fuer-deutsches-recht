@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmer-haftung-bgb-675u-phish-ceo
-description: "Phishing am Arbeitsplatz: Arbeitnehmer-Haftung für durch Phishing verursachten Schaden. Innerbetriebliche Schadensausgleichung (BAG-Rechtsprechung), gestufte Haftung. Empfehlung Schulungspflichten Arbeitgeber im Phishing Vorfall Prüfer."
+description: "Wenn es um Phishing + Arbeitnehmerhaftung in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Phishing + Arbeitnehmerhaftung

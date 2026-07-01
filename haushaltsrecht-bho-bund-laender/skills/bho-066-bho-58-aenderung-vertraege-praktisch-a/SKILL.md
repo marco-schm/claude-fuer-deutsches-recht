@@ -1,6 +1,6 @@
 ---
 name: bho-066-bho-58-aenderung-vertraege-praktisch-a
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 58 Änderung Verträge praktisch anwenden. BHO § 58 Änderung Verträge praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Bho 58 Aenderung Vertraege Praktisch A in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bho 58 Aenderung Vertraege Praktisch A

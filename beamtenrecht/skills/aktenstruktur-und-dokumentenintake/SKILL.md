@@ -1,6 +1,6 @@
 ---
 name: aktenstruktur-und-dokumentenintake
-description: "Sortiert Bescheide, Beurteilungen, Ausschreibungen, Auswahlvermerke, Personalaktenauszüge, ärztliche Gutachten, Beihilfebescheide und Disziplinarakten."
+description: "Wenn es um Aktenstruktur Und Dokumentenintake in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Aktenstruktur Und Dokumentenintake

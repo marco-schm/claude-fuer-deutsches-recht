@@ -1,6 +1,6 @@
 ---
 name: hausgeld-sonderumlage-liquiditaet
-description: "Prüft Hausgeld, Vorschüsse, Rückstände, Sonderumlagen, Liquidität, Mahnungen, Ratenzahlung, Beschlussgrundlage und Klagepfad der GdWE (Stand 05/2026). Berücksichtigt BGH V ZR 190/24 zum Zurückbehaltungsrecht und V ZR 139/23 zur Verteilung von Prozesskosten."
+description: "Wenn es um Hausgeld, Sonderumlage und Liquidität in WEG- und Hausverwaltung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Hausgeld, Sonderumlage und Liquidität

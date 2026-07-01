@@ -1,6 +1,6 @@
 ---
 name: anspruchsgrundlage-finden-laienhilfe
-description: "Hilfe für Laien beim Identifizieren der richtigen Anspruchsgrundlage. Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Bereicherung mit Beispielen aus dem Alltag. Erste Norm finden bevor Sie klagen. Mit häufigsten Anspruchsgrundlagen im Amtsgerichts-Alltag."
+description: "Wenn es um Welche Norm traegt Ihren Anspruch? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Welche Norm traegt Ihren Anspruch?

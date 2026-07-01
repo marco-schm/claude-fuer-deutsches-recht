@@ -1,6 +1,6 @@
 ---
 name: pflichtverletzung-93-aktg
-description: "AG/SE-Aufsichtsrat Praxis: Pflichtverletzung 93 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um Pflichtverletzung 93 Aktg in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Pflichtverletzung 93 Aktg

@@ -1,6 +1,6 @@
 ---
 name: rechtsschutzbeduerfnis-religioese
-description: "Prüft Sachbescheidungsinteresse bei ausgesetzter Wehrpflicht und Soldatenstatus im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Rechtsschutzbedürfnis in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsschutzbedürfnis

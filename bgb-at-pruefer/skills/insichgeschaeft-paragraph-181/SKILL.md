@@ -1,6 +1,6 @@
 ---
 name: insichgeschaeft-paragraph-181
-description: "Klausurfall zum Insichgeschäft nach § 181 BGB: Selbstkontrahieren und Mehrfachvertretung, Ausnahmen bei lediglich rechtlich vorteilhaften Geschäften oder ausdrücklich gestatteten Insichgeschäften, BGH-Linie zur GmbH und schwebende Unwirksamkeit."
+description: "Wenn es um Insichgeschäft — Paragraf 181 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Insichgeschaeft Paragraph 181; Arbeitsfeld: BGB AT Prüfer."
 ---
 
 # Insichgeschäft — § 181 BGB

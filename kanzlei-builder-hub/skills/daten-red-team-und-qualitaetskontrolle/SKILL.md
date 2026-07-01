@@ -1,6 +1,6 @@
 ---
 name: daten-red-team-und-qualitaetskontrolle
-description: "Daten: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Daten: Red-Team und Qualitätskontrolle in Kanzlei-Builder-Hub geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Daten: Red-Team und Qualitätskontrolle

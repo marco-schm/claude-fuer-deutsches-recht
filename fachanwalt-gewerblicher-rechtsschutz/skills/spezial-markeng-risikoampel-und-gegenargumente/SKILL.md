@@ -1,6 +1,6 @@
 ---
 name: spezial-markeng-risikoampel-und-gegenargumente
-description: "Markeng: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Markeng: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Markeng: Risikoampel, Gegenargumente und Verteidigungslinien

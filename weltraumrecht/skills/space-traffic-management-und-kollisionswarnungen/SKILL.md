@@ -1,6 +1,6 @@
 ---
 name: space-traffic-management-und-kollisionswarnungen
-description: "Space Traffic Management (STM) – Kollisionswarnungen, Ausweichmanöver, Haftungsverteilung, EU SST im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Space Traffic Management und Kollisionswarnungen in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Space Traffic Management und Kollisionswarnungen

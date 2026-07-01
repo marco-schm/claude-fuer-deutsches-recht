@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-anspruchsgrundlagen-normzweck
-description: "Dieses Skill systematisiert die Auswahl und Durchsetzung von Anspruchsgrundlagen auf dem Behörden-, Gerichts- und Registerweg. Es führt durch die Entscheidung, welche Ansprüche verwaltungs-, zivil- oder registerrechtlich geltend zu machen sind, welche Zuständigkeiten bestehen und wie Mandanten ef..."
+description: "Wenn es um Anspruchsgrundlagen auf Behörden-, Gerichts- und Registerweg in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anspruchsgrundlagen auf Behörden-, Gerichts- und Registerweg

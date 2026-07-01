@@ -1,6 +1,6 @@
 ---
 name: inso-p270e-aufhebung-der-vorlaufigen-eigenverwaltung
-description: "§ 270e InsO (Aufhebung der vorläufigen Eigenverwaltung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 270e InsO (Aufhebung der vorläufigen Eigenverwaltung) im Mandat prüfen: Normzweck, T..."
+description: "Wenn es um Inso P270e Aufhebung Der Vorlaufigen Eigenverwaltung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 270e InsO (Aufhebung der vorläufigen Eigenverwaltung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

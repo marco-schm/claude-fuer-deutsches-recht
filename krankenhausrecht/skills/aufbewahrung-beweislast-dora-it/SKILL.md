@@ -1,6 +1,6 @@
 ---
 name: aufbewahrung-beweislast-dora-it
-description: "Krankenhaus-Dokumentation, Aufbewahrungsfristen und Beweislast: § 630f BGB, RoeV/StrlSchV, BO-Aerzte, GoBD, DSGVO, Aufbewahrung 10 bis 30 Jahre und elektronische Patientenakte (ePA) im Krankenhausrecht."
+description: "Wenn es um Dokumentation Aufbewahrung Beweislast in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentation Aufbewahrung Beweislast

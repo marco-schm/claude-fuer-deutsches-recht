@@ -1,6 +1,6 @@
 ---
 name: partg-partgmbb-register
-description: "Prüft Partnerschaftsregister, Berufszulassung, Namensführung, Haftungsbeschränkung und Berufshaftpflichtnachweis im Handelsregister Praxis."
+description: "Wenn es um PartG/PartG mbB in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PartG/PartG mbB

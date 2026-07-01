@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Urheber- und Medienrecht: stimmt Adressat (Urheber/Rechteinhaber, Verwerter/Nutzer, Plattform), Frist (Verjährung 3 Jahre § 102 UrhG) und Form auf den Zweck ab — typische Outputs: Abmahnung, Klage Unterlassung/Schadensersatz, Lizenzvertrag."
+description: "Wenn es um Output wählen in Fachanwalt Urheber Medienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

@@ -1,6 +1,6 @@
 ---
 name: freelancer-designer-zoll-tarif
-description: "Freelancer-Designer, Stylisten und Kreative rechtlich steuern: Rechteübertragung, Vergütung, Portfolio-Nutzung, Geheimhaltung, Scheinselbstständigkeit und Credits im Fashion Law Moderecht."
+description: "Wenn es um Freelancer Designer Ip in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Freelancer Designer Ip

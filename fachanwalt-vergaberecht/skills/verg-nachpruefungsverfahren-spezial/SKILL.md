@@ -1,6 +1,6 @@
 ---
 name: verg-nachpruefungsverfahren-spezial
-description: "Spezialfall Nachpruefungsverfahren §§ 155 ff: GWB: Antrag, Ruege, Eilantrag, sofortige Beschwerde. Prüfraster für Bieter und Vergabekammer."
+description: "Wenn es um Verg Nachpruefungsverfahren Spezial in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Spezialfall Nachpruefungsverfahren §§ 155 ff

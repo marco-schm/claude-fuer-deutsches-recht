@@ -1,6 +1,6 @@
 ---
 name: prozessuale-kniffe-und-rechtsprechungsanker
-description: Verdichtet Relationstechnik zu Klägerstation, Beklagtenstation, Beweisstation, Entscheidungsstation, Hinweismanagement und urteilsfester Endkontrolle.
+description: "Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Relationstechnik Zivilrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 # Prozessuale Kniffe und Rechtsprechungsanker
 

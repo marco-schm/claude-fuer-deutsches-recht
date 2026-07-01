@@ -1,6 +1,6 @@
 ---
 name: bho-22-sperrvermerk-praktisch-anwenden
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 22 Sperrvermerk praktisch anwenden. BHO § 22 Sperrvermerk praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die..."
+description: "Wenn es um Bho 22 Sperrvermerk Praktisch Anwenden in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 22 Sperrvermerk Praktisch Anwenden

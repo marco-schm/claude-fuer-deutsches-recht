@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-gutachten-fehler-finden
-description: "Laienverstaendlicher Sozialrechts-Skill zu Gutachten Fehler Finden. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
+description: "Wenn es um Laienhilfe: Gutachten Fehler Finden in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienhilfe: Gutachten Fehler Finden

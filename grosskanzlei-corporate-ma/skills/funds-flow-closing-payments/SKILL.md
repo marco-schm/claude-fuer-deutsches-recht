@@ -1,6 +1,6 @@
 ---
 name: funds-flow-closing-payments
-description: Erstellt Funds-Flow-Tabellen, Zahlungslogik, Escrow-, Payoff- und Sicherheitenfreigabe-Checklisten für Closing-Termine.
+description: "Wenn es um Funds Flow und Closing Payments in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Funds Flow und Closing Payments
 

@@ -1,6 +1,6 @@
 ---
 name: beihilfe-check-eu
-description: "Öffentliches Wirtschaftsrecht: Beihilfe-Check EU. Beihilfe-Check EU im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht."
+description: "Wenn es um Beihilfe Check Eu in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beihilfe Check Eu

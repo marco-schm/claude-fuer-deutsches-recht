@@ -1,6 +1,6 @@
 ---
 name: einfache-sprache-tipps-fuer-alle-anliegen
-description: "Tipps zur klaren und einfachen Sprache für eigene Schriftsaetze. Wie Sie verstaendlich formulieren ohne Behördendeutsch. Beispiele für Buerger."
+description: "Wenn es um Klar schreiben — Tipps für Schriftsaetze in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Klar schreiben — Tipps für Schriftsaetze

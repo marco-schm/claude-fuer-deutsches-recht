@@ -1,6 +1,6 @@
 ---
 name: losbildung-mittelstandsfoerderung
-description: "Losbildung und Mittelstandsfoerderung im Vergabeverfahren prüfen und angreifen: Auftraggeber muss Gesamtvergabe begruenden: Bieter..."
+description: "Wenn es um Losbildung Mittelstandsfoerderung in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Losbildung und Mittelstandsfoerderung im Vergabeverfahren prüfen und angreifen: Auftraggeber muss Gesamtvergabe begruenden

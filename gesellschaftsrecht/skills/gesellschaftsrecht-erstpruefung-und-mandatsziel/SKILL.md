@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-erstpruefung-und-mandatsziel
-description: "Klären von Rechtsform, Rolle, Ziel, Registerlage, Frist, Beschlussweg und Arbeitsprodukt als erste belastbare Mandatslandkarte im Gesellschaftsrecht."
+description: "Wenn es um Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel in Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel

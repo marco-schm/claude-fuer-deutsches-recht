@@ -1,6 +1,6 @@
 ---
 name: vollmacht-und-anmeldung-oeffentliche-beglaubigung
-description: "Prüft notarielle Beglaubigung, Vertreteranmeldung, Untervollmacht, Signatur und elektronische Einreichung im Handelsregister Praxis."
+description: "Wenn es um Anmeldung und Vollmacht formfest machen in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anmeldung und Vollmacht formfest machen

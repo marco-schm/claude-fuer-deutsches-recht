@@ -1,6 +1,6 @@
 ---
 name: bwbes-dienstzeitversorgung
-description: "Dienstzeitversorgung und BFD: prüft SVG §§ 1–26, Übergangsgebührnisse, Übergangsbeihilfe, BFD-Ansprüche und Rentenrecht. Norm-/Quellenanker: SVG, BFD-Richtlinien im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Dienstzeitversorgung und Berufsförderungsdienst in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dienstzeitversorgung und Berufsförderungsdienst

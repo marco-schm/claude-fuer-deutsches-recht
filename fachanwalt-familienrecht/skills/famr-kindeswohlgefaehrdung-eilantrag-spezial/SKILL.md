@@ -1,6 +1,6 @@
 ---
 name: famr-kindeswohlgefaehrdung-eilantrag-spezial
-description: "Familienrechtlicher Skill zu Spezialfall Kindeswohlgefaehrdung und Eilantrag: Paragraf 1666 BGB, Anordnungen Familiengericht, einstweilige Anordnung Paragraf 49 FamFG, Inobhutnahme Jugendamt Paragraf 42 SGB VIII: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
+description: "Wenn es um Famr Kindeswohlgefaehrdung Eilantrag Spezial in Fachanwalt Familienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Kindeswohlgefaehrdung und Eilantrag: Paragraf 1666 BGB, Anordnungen Familiengericht, einstweilige Anordnung Paragraf 49 FamFG, Inobhutnahme Jugendamt Paragraf 42 SGB VIII

@@ -1,6 +1,6 @@
 ---
 name: verfuegung-nichtberechtigter-paragraph-185
-description: "Prüft Verfügung eines Nichtberechtigten nach § 185 BGB: Einwilligung und nachträgliche Genehmigung des Berechtigten, Heilung durch spätere Berechtigung, Abgrenzung zum gutgläubigen Erwerb nach §§ 932 ff. BGB. Klausurfall mit Subsumtionsraster für Examen."
+description: "Wenn es um Verfügung des Nichtberechtigten — Paragraf 185 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Verfügung des Nichtberechtigten — § 185 BGB

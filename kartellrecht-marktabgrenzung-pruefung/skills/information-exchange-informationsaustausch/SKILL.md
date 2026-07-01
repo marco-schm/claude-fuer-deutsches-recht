@@ -1,6 +1,6 @@
 ---
 name: information-exchange-informationsaustausch
-description: "Informationsaustausch Safe Harbor: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Benchmarking, Verbandssitzung, Datenalter, Aggregation und Wettbewerbsparameter prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgren..."
+description: "Wenn es um Informationsaustausch Safe Harbor in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Informationsaustausch Safe Harbor

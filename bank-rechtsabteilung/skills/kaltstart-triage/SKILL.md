@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Agb Bankrecht Klauselkontrolle, Anwaltliche Rechnungen Review, App Fraud Social Engineering Bank, Aufsichtsrat Vorlage Bank: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkeit, Belege und Rechtsgrundlage und liefert den nächsten belastbaren Output."
+description: "Wenn es um Rechtsabteilung-Kommandocenter in Bank-Rechtsabteilung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsabteilung-Kommandocenter

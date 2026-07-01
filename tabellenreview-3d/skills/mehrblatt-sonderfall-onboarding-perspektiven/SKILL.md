@@ -1,6 +1,6 @@
 ---
 name: mehrblatt-sonderfall-onboarding-perspektiven
-description: "Mehrblatt: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Mehrblatt: Sonderfall und Edge-Case-Prüfung in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mehrblatt Sonderfall Onboarding Perspektiven; Arbeitsfeld: Tabellenreview 3D."
 ---
 
 # Mehrblatt: Sonderfall und Edge-Case-Prüfung

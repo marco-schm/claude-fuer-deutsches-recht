@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Strafrechtliche Aktenaufbereitung: stimmt Adressat (Mandant/Beschuldigter, Staatsanwaltschaft, Verletzte/Zeugen), Frist (Anklage-Erwiderungsfrist) und Form auf den Zweck ab — typische Outputs: Verteidigungsschrift, Beweisantrag, Plädoyer-Notiz."
+description: "Wenn es um Output wählen in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

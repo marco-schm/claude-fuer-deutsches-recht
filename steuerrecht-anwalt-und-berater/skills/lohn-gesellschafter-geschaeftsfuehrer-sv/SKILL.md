@@ -1,6 +1,6 @@
 ---
 name: lohn-gesellschafter-geschaeftsfuehrer-sv
-description: "Gesellschafter-Geschäftsführer GGF SV-Pflicht oder SV-Befreiung. Anwendungsfall Prüfung GGF einer GmbH ob abhaengig beschäftigt oder selbständig tätig Statusfeststellung. Methodik Kriterienkatalog Beteiligung Weisungsgebundenheit Sperrminoritaet. Output Statusfeststellungs-Antrag Bescheid Mandan..."
+description: "Wenn es um Gesellschafter-Geschäftsführer — SV-Pflicht oder Befreiung in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gesellschafter-Geschäftsführer — SV-Pflicht oder Befreiung

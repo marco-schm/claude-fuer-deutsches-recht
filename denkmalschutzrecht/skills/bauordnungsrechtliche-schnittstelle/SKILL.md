@@ -1,6 +1,6 @@
 ---
 name: bauordnungsrechtliche-schnittstelle
-description: "Verhaeltnis von Denkmalrecht und Bauordnungsrecht in allen sechzehn Laendern: Baugenehmigung und Erlaubnisverfahren laufen regelmaessig parallel. Skill ordnet die Konzentrationswirkung der Baugenehmigung, das Beteiligungsrecht der Denkmalbehoerde, die Sonderfaelle bei verfahrensfreien Baumassnahmen und das Verhaeltnis zum Bauplanungsrecht nach Paragraf 1 Abs. 6 Nr. 5 BauGB."
+description: "Wenn es um Bauordnungsrechtliche Schnittstelle in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bauordnungsrechtliche Schnittstelle

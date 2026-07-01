@@ -1,6 +1,6 @@
 ---
 name: lebensversicherung-ueberschussbeteiligung-bewertungsreserven
-description: "Überschussbeteiligung, Schlussüberschuss, Bewertungsreserven und Informationsrechte in Lebensversicherung und Rentenversicherung verständlich prüfen im Versicherungsrecht."
+description: "Wenn es um Überschussbeteiligung und Bewertungsreserven in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Überschussbeteiligung und Bewertungsreserven

@@ -1,6 +1,6 @@
 ---
 name: vereinbarung-ueber-versorgungsausgleich-6-ff-versausglg
-description: "Familienrechtlicher Skill zu Vereinbarung über Versorgungsausgleich Paragrafen 6 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt."
+description: "Wenn es um Vereinbarung über Versorgungsausgleich 6 Ff Versausglg in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vereinbarung über Versorgungsausgleich Paragrafen 6 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

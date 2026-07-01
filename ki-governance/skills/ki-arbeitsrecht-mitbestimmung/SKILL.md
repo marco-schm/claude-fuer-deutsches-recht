@@ -1,6 +1,6 @@
 ---
 name: ki-arbeitsrecht-mitbestimmung
-description: "Arbeitsrechtliche Folgen des KI-Einsatzes: Mitbestimmung des Betriebsrats § 87 Abs. 1 Nr. 6 BetrVG technische Einrichtung zur Verhaltens- und Leistungskontrolle, Betriebsvereinbarung KI, Datenschutz BDSG-neu und DSGVO. Bewerber-KI und Auswahl-Algorithmen. Mustertexte und Verhandlungstaktik im Ki..."
+description: "Wenn es um digitale Werkzeuge: Arbeitsrecht und BR in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI: Arbeitsrecht und BR

@@ -1,6 +1,6 @@
 ---
 name: verbaendeanhoerung-ressortabstimmung
-description: "Verbandeanhoerung und Ressortabstimmung nach GGO steuern und auswerten. Anwendungsfall Referentenentwurf ist fertig und muss Verbaenden und Ressorts zugeleitet werden vor Kabinettsbefassung. Anschreiben Liste zu beteiligender Verbaende Ressorts Fristsetzung drei bis sechs Wochen. Auswertung Stell..."
+description: "Wenn es um Verbändeanhörung und Ressortabstimmung in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbändeanhörung und Ressortabstimmung

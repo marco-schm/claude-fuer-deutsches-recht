@@ -1,6 +1,6 @@
 ---
 name: freiwillige-registrierung-fremdmandat
-description: "Berät zu freiwilliger Eintragung nach § 2 Abs. 5 LobbyRG: Rechte, volle Pflichten, Aktualisierung, Verhaltenskodex und Bußgeldrisiko bei falschen Angaben. Output Entscheidungsvermerk im Lobbyregister Bundestag."
+description: "Wenn es um Freiwillige Registrierung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freiwillige Registrierung

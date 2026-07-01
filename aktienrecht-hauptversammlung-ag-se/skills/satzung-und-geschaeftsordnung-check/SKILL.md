@@ -1,6 +1,6 @@
 ---
 name: satzung-und-geschaeftsordnung-check
-description: "Hauptversammlung AG und SE: Satzung Und Geschäftsordnung Check; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Satzung Und Geschäftsordnung Check in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Satzung Und Geschäftsordnung Check

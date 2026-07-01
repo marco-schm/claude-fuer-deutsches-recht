@@ -1,6 +1,6 @@
 ---
 name: tier-052-rinderbetrieb-behoerdenantrag-schreibe
-description: "Tierschutzrecht: Rinderbetrieb: Behördenantrag schreiben. Behördenantrag schreiben für Rinderbetrieb im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Rinderbetrieb Behoerdenantrag Schreibe in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rinderbetrieb Behoerdenantrag Schreibe

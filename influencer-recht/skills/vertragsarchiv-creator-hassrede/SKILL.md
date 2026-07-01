@@ -1,6 +1,6 @@
 ---
 name: vertragsarchiv-creator-hassrede
-description: "Influencer-Recht: Vertragsarchiv und Creator-Dashboard – Vertragsverwaltung, Fristen, Nutzungsrechte-Tracking und Compliance-Übersicht im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Vertragsarchiv und Creator-Dashboard in Influencer-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Vertragsarchiv und Creator-Dashboard

@@ -1,6 +1,6 @@
 ---
 name: qualitygate-fashion-law
-description: "Qualitygate für Fashion-Law-Outputs: Normen, Register, Produktdaten, Claims, Lieferkette, Rechtsprechung, Paywall-Vermeidung und offene Tatsachen prüfen."
+description: "Wenn es um Qualitygate Fashion Law in fashion-law-moderecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Qualitygate Fashion Law

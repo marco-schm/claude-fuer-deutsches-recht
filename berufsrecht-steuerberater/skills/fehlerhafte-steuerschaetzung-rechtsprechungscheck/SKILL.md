@@ -1,6 +1,6 @@
 ---
 name: fehlerhafte-steuerschaetzung-rechtsprechungscheck
-description: "Steuerberater: fehlerhafte steuerschätzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Fehlerhafte Steuerschaetzung Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Steuerberater: fehlerhafte steuerschätzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: problem-sortieren-profimodus-schnelltriage
-description: "Solo-Selbstständige: trennt rechtliches Problem, Behördenproblem, Geldproblem und Organisationsproblem; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Kaltstart und Orientierung: Trennt rechtliches problem in Solo-Selbstständige Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart und Orientierung: Trennt rechtliches problem

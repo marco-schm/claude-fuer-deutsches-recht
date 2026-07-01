@@ -1,6 +1,6 @@
 ---
 name: datenschutz-livecheck-bfdi-laender
-description: "Livecheck-Skill für aktuelle Veroeffentlichungen BfDI und Landesdatenschutzbehoerden vor Abgabe Schriftsatz oder Stellungnahme. Sieben-Fragen-Diagnose: Mandatsgebiet zuständige Aufsicht Rechtsbereich Verarbeitungsart EuGH Vorabentscheidung EDSA-Leitlinie aktuell. Schritt-für-Schritt: NICHT aus Mo..."
+description: "Wenn es um Datenschutz Livecheck — BfDI und Landesaufsichten in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Datenschutz Livecheck — BfDI und Landesaufsichten

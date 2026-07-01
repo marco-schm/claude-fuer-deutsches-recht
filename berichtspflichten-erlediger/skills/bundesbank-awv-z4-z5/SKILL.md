@@ -1,6 +1,6 @@
 ---
 name: bundesbank-awv-z4-z5
-description: "Außenwirtschaftsmeldungen an die Bundesbank: Z4/Z5/Z10, Zahlungs- und Forderungsbestände, Schwellen, Fristen und Meldebefreiungen im Berichtspflichten."
+description: "Wenn es um Bundesbank AWV Z4/Z5 Meldungen in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bundesbank AWV Z4/Z5 Meldungen

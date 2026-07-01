@@ -1,6 +1,6 @@
 ---
 name: inso-p270a-antrag-eigenverwaltungsplanung
-description: "§ 270a InsO (Antrag: Eigenverwaltungsplanung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung."
+description: "Wenn es um Paragraf 270a InsO (Antrag in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 270a InsO (Antrag

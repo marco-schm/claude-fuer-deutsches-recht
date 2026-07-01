@@ -1,6 +1,6 @@
 ---
 name: anhoerung-sozialverwaltungsverfahren-24-sgb-x
-description: "Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhörungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhörungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Prüfraster."
+description: "Wenn es um Anhörung Im Sozialverwaltungsverfahren 24 Sgb X in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anhörung Im Sozialverwaltungsverfahren 24 Sgb X

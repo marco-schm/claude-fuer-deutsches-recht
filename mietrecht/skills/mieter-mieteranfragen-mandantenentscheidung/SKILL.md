@@ -1,6 +1,6 @@
 ---
 name: mieter-mieteranfragen-mandantenentscheidung
-description: "Mieter: Tatbestandsmerkmale, Beweisfragen und Beleglage im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht."
+description: "Wenn es um Mieter: Tatbestandsmerkmale, Beweisfragen und Beleglage in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Mieter: Tatbestandsmerkmale, Beweisfragen und Beleglage

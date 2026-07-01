@@ -1,6 +1,6 @@
 ---
 name: dba-49-estg-brueckentatbestand-nationalrecht
-description: "Prüft die Reihenfolge nationales Steuerrecht und DBA bei beschraenkter Steuerpflicht: DBA begruenden grundsaetzlich keine Steuerpflicht, § 49 EStG muss den Inlandsanknuepfungstatbestand liefern. Spezialfaelle: real-estate-rich-Anteile nach § 49 Abs. 1 Nr. 2 Buchst. e Doppelbuchst. cc EStG, Homeoffice-Bruecke nach § 49 Abs. 1 Nr. 4 Buchst. a Satz 2 EStG, Art. 13 Abs. 4 OECD-MA und Art. 15 OECD-MA."
+description: "Wenn es um DBA, Paragraf 49 EStG und Brückentatbestände in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # DBA, § 49 EStG und Brückentatbestände

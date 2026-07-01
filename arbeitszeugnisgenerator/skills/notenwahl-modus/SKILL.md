@@ -1,6 +1,6 @@
 ---
 name: notenwahl-modus
-description: "Steuert, auf welchem Weg die Leistungsnote bestimmt wird: direkte Vorgabe durch den Nutzer oder interaktive Ermittlung über gezielte Fragen zu Leistung und Verhalten. Im Vorgabe-Modus übernimmt der Generator die Note und wählt passende Formulierungen. Im Frage-Modus bewertet er anhand der Antworten und schlägt eine Note vor, die der Nutzer bestätigen oder korrigieren kann."
+description: "Wenn es um Notenwahl-Modus in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notenwahl-Modus

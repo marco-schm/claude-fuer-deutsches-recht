@@ -1,6 +1,6 @@
 ---
 name: geheimcodes-katalog
-description: Katalog der verbreiteten Geheimcodes der deutschen Zeugnissprache nach Themenbereichen mit Angabe der implizierten riskanten Lesarten und Hinweis auf die Grenzen der Decodierung nach Paragraf 109 Absatz 2 GewO.
+description: "Wenn es um Geheimcodes-Katalog in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Geheimcodes-Katalog

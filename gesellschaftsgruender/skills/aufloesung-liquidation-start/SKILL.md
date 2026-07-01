@@ -1,6 +1,6 @@
 ---
 name: aufloesung-liquidation-start
-description: "Prüft geordnete Beendigung einer jungen Gesellschaft: Beschluss, Liquidatoren, Sperrjahr, Register, Gläubiger im Gesellschaftsgruender."
+description: "Wenn es um Auflösung und Liquidation Start in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auflösung und Liquidation Start

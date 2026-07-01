@@ -1,6 +1,6 @@
 ---
 name: bayern-spezial-bodendenkmaeler-grabungsgenehmigung
-description: "Bayerische Besonderheit: Bodendenkmaeler nach Art. 1 Abs. 4 BayDSchG mit Grabungsgenehmigung nach Art. 7 BayDSchG. Skill ordnet den Anwendungsbereich (jede Erdbewegung in Verdachtsflaechen genehmigungspflichtig), die Beteiligung des Bayerischen Landesamts fuer Denkmalpflege und die Schatzregalfrage nach Art. 8 BayDSchG (Eigentum an Bodenfunden geht regelmaessig auf den Freistaat ueber)."
+description: "Wenn es um Bodendenkmaeler und Grabungsgenehmigung in Bayern in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bodendenkmaeler und Grabungsgenehmigung in Bayern

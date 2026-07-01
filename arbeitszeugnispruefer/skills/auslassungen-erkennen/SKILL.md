@@ -1,6 +1,6 @@
 ---
 name: auslassungen-erkennen
-description: Systematisches Erkennen von Auslassungen im Arbeitszeugnis als schweigendem Negativcode, bei dem fehlende Aussagen zu erwarteten Eigenschaften oder Taetigkeiten einen negativen Schluss beim kundigen Leser ausloesen.
+description: "Wenn es um Auslassungen erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auslassungen erkennen

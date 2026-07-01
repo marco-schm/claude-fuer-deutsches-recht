@@ -1,6 +1,6 @@
 ---
 name: transparenzgesetz-klage-vorbereiten
-description: "Informationsfreiheit und Presseauskunft: Transparenzgesetz: Klage vorbereiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Transparenzgesetz Klage Vorbereiten in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Transparenzgesetz Klage Vorbereiten

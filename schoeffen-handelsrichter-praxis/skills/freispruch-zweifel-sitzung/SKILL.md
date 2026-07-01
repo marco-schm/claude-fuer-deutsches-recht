@@ -1,6 +1,6 @@
 ---
 name: freispruch-zweifel-sitzung
-description: "Freispruch bei Zweifel (Sitzungspraxis): hilft ehrenamtlichen Richtern bei in dubio pro reo, Beweiswürdigung, Aussage gegen Aussage und innere Überzeugung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Freispruch bei Zweifel: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Freispruch bei Zweifel: Sitzungspraxis

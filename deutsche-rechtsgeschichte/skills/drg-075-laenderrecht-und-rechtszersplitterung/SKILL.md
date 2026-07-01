@@ -1,6 +1,6 @@
 ---
 name: drg-075-laenderrecht-und-rechtszersplitterung
-description: "Deutsche Rechtsgeschichte: Laenderrecht Und Rechtszersplitterung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Laenderrecht Und Rechtszersplitterung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laenderrecht Und Rechtszersplitterung

@@ -1,6 +1,6 @@
 ---
 name: inso-p172-sonstige-verwendung-beweglicher-sachen
-description: "§ 172 InsO (Sonstige Verwendung beweglicher Sachen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 172 InsO (Sonstige Verwendung beweglicher Sachen) im Mandat prüfen: Normzweck, Tatbestan..."
+description: "Wenn es um Inso P172 Sonstige Verwendung Beweglicher Sachen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 172 InsO (Sonstige Verwendung beweglicher Sachen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

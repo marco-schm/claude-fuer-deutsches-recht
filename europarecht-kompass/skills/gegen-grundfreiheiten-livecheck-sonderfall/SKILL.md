@@ -1,6 +1,6 @@
 ---
 name: gegen-grundfreiheiten-livecheck-sonderfall
-description: "Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage in Europarecht-Kompass für deutsche Juristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage

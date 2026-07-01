@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-wrackpflicht-pruefen
-description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 4..."
+description: "Wenn es um Offshore-Schiff – Wrackbeseitigungspflicht prüfen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Offshore-Schiff – Wrackbeseitigungspflicht prüfen

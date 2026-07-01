@@ -1,6 +1,6 @@
 ---
 name: formulare-checkout-kontrast-farbe-native-apps
-description: "Prüft Formulare, Login, Suche, Warenkorb, Checkout, Zahlungsstrecke und elektronische Verträge in Webshops. Fokus BFSG/E-Commerce, Fehlermeldungen, Labels, Pflichtfelder, Zeitlimits und Bestellabschluss. Output: Checkout-Audit im Barrierefreiheit Web Checker."
+description: "Wenn es um Formulare, Checkout, E-Commerce in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Formulare, Checkout, E-Commerce

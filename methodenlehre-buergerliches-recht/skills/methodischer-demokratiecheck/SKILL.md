@@ -1,6 +1,6 @@
 ---
 name: methodischer-demokratiecheck
-description: "Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf ihre demokratische Legitimation. Das Skill analysiert, ob gerichtliche und behördliche Entscheidungen die demokratisch gesetzten Normen respektieren oder ob sie durch Auslegung und Rechtsfortbildung demokratisch getroffene Entscheidungen de..."
+description: "Wenn es um Methodischer Demokratiecheck in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Methodischer Demokratiecheck

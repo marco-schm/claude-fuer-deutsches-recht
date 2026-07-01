@@ -1,6 +1,6 @@
 ---
 name: ins-034-dual-listed-issuer
-description: "Spezialskill Insiderrecht fuer Dual-Listed Issuer: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Wenn es um Insiderrecht: Dual-Listed Issuer in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Insiderrecht: Dual-Listed Issuer

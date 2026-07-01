@@ -1,6 +1,6 @@
 ---
 name: bverfg-eilantrag-paragraf-32-doppelhypothese
-description: "Einstweilige Anordnung vor dem Bundesverfassungsgericht nach § 32 BVerfGG: Doppelhypothese, Folgenabwägung, Hauptsacheoffenheit, irreversible Nachteile, Tenorierung und Anlagenpaket für Verfassungsbeschwerde, Organstreit oder Normenkontrolle."
+description: "Wenn es um BVerfG-Eilantrag nach Paragraf 32 BVerfGG in verfassungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # BVerfG-Eilantrag nach § 32 BVerfGG

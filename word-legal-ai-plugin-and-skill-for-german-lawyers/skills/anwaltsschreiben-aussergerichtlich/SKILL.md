@@ -1,6 +1,6 @@
 ---
 name: anwaltsschreiben-aussergerichtlich
-description: "Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verzugsbegründung und Vergleichsangebot. Aufbau: Mandantenbezug; Vollmachtnachweis; knapper Sachverhalt; Anspruch oder Forderung mit Berechnung; konkrete Frist mit Datum; Konsequenz..."
+description: "Wenn es um Anwaltsschreiben aussergerichtlich in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwaltsschreiben aussergerichtlich

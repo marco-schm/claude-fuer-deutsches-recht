@@ -1,6 +1,6 @@
 ---
 name: migr-fachkraefteeinwanderung-praxis
-description: "Fachkraefteeinwanderung in der Praxis: Schritte vom Visum ueber Erstaufenthalt zur Niederlassungserlaubnis, Anerkennung Berufsabschluss, Sprachpruefung, Gehaltsgrenzen, BA-Zustimmung: Fachkraefteeinwanderung in der Praxis: Schritte vom Visum ueber Erstaufen..."
+description: "Wenn es um Migr Fachkraefteeinwanderung Praxis in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachkraefteeinwanderung in der Praxis: Schritte vom Visum über Erstaufenthalt zur Niederlassungserlaubnis, Anerkennung Berufsabschluss, Sprachpruefung, Gehaltsgrenzen, BA-Zustimmung

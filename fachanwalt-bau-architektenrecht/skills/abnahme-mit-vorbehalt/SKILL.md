@@ -1,6 +1,6 @@
 ---
 name: abnahme-mit-vorbehalt
-description: "Abnahme des Bauwerks unter Vorbehalt von Maengeln erklären: Maengelvorbehalt, Sicherungsrechte: Normen: §§ 640 641 BGB, § 12 VOB/B. Prüfraster: Abnahmeprotokoll,..."
+description: "Wenn es um Abnahme Mit Vorbehalt in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abnahme des Bauwerks unter Vorbehalt von Maengeln erklären: Maengelvorbehalt, Sicherungsrechte

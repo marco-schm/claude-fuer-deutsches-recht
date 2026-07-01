@@ -1,6 +1,6 @@
 ---
 name: anlagen-bei-eilantrag-eu-arrest
-description: "Anlagen für einstweilige Verfuegung und Arrest: Glaubhaftmachung § 294 ZPO durch Anlagen, eidesstattliche Versicherung als Anlage, parate Beweismittel. Hohe Anforderungen Vollstaendigkeit. Output Standard-Anlagensatz für wettbewerbsrechtliche EV, presserechtliche EV und Arrestantrag."
+description: "Wenn es um Anlagen bei Eilantrag und Arrest in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anlagen bei Eilantrag und Arrest

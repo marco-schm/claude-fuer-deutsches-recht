@@ -1,6 +1,6 @@
 ---
 name: fakultaetsrat-kompetenzen-forschungsdaten
-description: "Prüft Zuständigkeit von Fakultätsrat, Dekanat, Senat und Präsidium im Hochschulrecht Länder."
+description: "Wenn es um Fakultätsrat und Kompetenzen in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fakultätsrat und Kompetenzen

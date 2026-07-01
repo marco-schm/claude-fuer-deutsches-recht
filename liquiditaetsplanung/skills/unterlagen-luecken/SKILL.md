@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Liquiditätsplanung: trennt fehlende Tatsachen von fehlenden Belegen (Liquiditätsplan, Bankenstatus, Forderungs-/Verbindlichkeitenliste), nennt pro Lücke Beweisthema, Beschaffungsweg (Bank), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

@@ -1,6 +1,6 @@
 ---
 name: digital-services-dsa-beschwerde-plattform
-description: "Digital Services / DSA Beschwerde Plattform: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren."
+description: "Wenn es um DSA-Beschwerde gegen eine Online-Plattform in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # DSA-Beschwerde gegen eine Online-Plattform

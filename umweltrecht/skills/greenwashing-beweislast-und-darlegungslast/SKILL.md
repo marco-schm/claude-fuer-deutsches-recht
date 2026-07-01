@@ -1,6 +1,6 @@
 ---
 name: greenwashing-beweislast-und-darlegungslast
-description: "Greenwashing: Beweislast, Darlegungslast und Substantiierung im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Greenwashing: Beweislast, Darlegungslast und Substantiierung in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Greenwashing: Beweislast, Darlegungslast und Substantiierung

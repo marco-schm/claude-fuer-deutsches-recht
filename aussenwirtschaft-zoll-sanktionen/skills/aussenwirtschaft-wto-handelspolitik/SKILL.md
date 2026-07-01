@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-wto-handelspolitik
-description: "WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext für Importzuschlaege Antidumping und Ausgleichszoelle: GATT Art. VI XIX XX WTO-ADA (Antidumping-Abkommen) SCM-Abkommen und SG-Abkommen. Bedeutung für Unternehmen bei EU-Maßnahmen und Streitbeilegungsverfahren. Output: WTO-Kontext-Vermerk u..."
+description: "Wenn es um WTO-Handelspolitik: GATT Schutzmassnahmen und EU-Handelsverteidigung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WTO-Handelspolitik: GATT Schutzmassnahmen und EU-Handelsverteidigung

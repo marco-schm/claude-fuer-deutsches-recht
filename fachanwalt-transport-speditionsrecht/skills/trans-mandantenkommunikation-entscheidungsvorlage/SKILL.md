@@ -1,6 +1,6 @@
 ---
 name: trans-mandantenkommunikation-entscheidungsvorlage
-description: "Trans: Mandantenkommunikation und Entscheidungsvorlage: Trans: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Wenn es um Trans: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Trans: Mandantenkommunikation und Entscheidungsvorlage

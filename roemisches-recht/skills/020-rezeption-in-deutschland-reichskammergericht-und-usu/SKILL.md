@@ -1,6 +1,6 @@
 ---
 name: 020-rezeption-in-deutschland-reichskammergericht-und-usu
-description: "Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus im Römisches Recht."
+description: "Wenn es um Rom Rezeption In Deutschland Reichskammergericht Und Usu in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Rezeption In Deutschland Reichskammergericht Und Usu

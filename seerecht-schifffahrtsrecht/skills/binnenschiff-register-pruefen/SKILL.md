@@ -1,6 +1,6 @@
 ---
 name: binnenschiff-register-pruefen
-description: "Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut prüft Binnenschiffsregister (AG Duisburg-Ruhrort) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Klaert Lastenfreiheit vor Closing o..."
+description: "Wenn es um Binnenschiff – Registerprüfung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Binnenschiff – Registerprüfung

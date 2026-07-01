@@ -1,6 +1,6 @@
 ---
 name: schwerbehinderung-gdb
-description: "Hilft bei Antrag, Befundberichten, Bescheid, Merkzeichen, Widerspruch und Neufeststellung im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Schwerbehinderung / GdB in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Schwerbehinderung / GdB

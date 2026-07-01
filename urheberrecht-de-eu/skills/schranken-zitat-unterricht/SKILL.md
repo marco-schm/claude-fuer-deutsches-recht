@@ -1,6 +1,6 @@
 ---
 name: schranken-zitat-unterricht
-description: "Prüft gesetzliche Erlaubnisse, Zitatrecht, Unterricht, Wissenschaft, Bibliotheken, Karikatur, Parodie und Pastiche im Urheberrecht De Eu."
+description: "Wenn es um Schranken: Zitat, Unterricht und Wissenschaft in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schranken: Zitat, Unterricht und Wissenschaft

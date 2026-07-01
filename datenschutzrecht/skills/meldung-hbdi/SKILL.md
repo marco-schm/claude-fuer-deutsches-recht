@@ -1,6 +1,6 @@
 ---
 name: meldung-hbdi
-description: "Reicht eine Meldung nach Art. 33 DSGVO bei der Hessischer Beauftragter für Datenschutz und Informationsfreiheit (HBDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Hessen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfol..."
+description: "Wenn es um Meldung Art. 33 DSGVO an die HBDI in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Meldung Art. 33 DSGVO an die HBDI

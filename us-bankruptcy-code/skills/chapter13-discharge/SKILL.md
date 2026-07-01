@@ -1,6 +1,6 @@
 ---
 name: chapter13-discharge
-description: "Prüft Chapter 13 discharge, hardship discharge, exceptions, plan completion and post-discharge issues im US Bankruptcy Code."
+description: "Wenn es um Chapter 13 Discharge in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Chapter 13 Discharge

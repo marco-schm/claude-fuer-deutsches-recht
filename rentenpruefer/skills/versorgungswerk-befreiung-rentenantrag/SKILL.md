@@ -1,6 +1,6 @@
 ---
 name: versorgungswerk-befreiung-rentenantrag
-description: "Befreiung von der gesetzlichen Rentenversicherungspflicht zugunsten eines berufsständischen Versorgungswerks nach Paragraf 6 SGB VI im Rentenpruefer."
+description: "Wenn es um versorgungswerk-befreiung-6-sgb-vi in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # versorgungswerk-befreiung-6-sgb-vi

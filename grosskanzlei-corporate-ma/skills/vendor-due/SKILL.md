@@ -1,6 +1,6 @@
 ---
 name: vendor-due
-description: "Vendor Due Diligence und Vendor Assistance: strukturiert Sell-side-Prüfung, Datenraumreife, Legal Fact Book, Issue Remediation und Bieterkommunikation."
+description: "Wenn es um Vendor Due Diligence VDD in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Vendor Due Diligence VDD

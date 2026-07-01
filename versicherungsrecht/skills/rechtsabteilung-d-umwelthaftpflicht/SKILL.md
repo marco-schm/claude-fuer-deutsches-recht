@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-d-umwelthaftpflicht
-description: "Rechtsabteilungs-Fachmodul für D&O-Deckung bei Organhaftung: Notification, Serienschaden, Selbstbehalt und Ausschlüsse werden für Vorstand/AR bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Versicherungsrecht."
+description: "Wenn es um Rechtsabteilung: D&O-Deckung bei Organhaftung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: D&O-Deckung bei Organhaftung

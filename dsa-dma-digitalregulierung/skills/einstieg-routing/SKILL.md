@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für DSA/DMA Digitalregulierung: ordnet Rolle (Plattform/VLOP, Nutzer, DSC), markiert Frist (DSA Risikoberichte jährlich), wählt Norm (DSA EU 2022/2065, DMA EU 2022/1925, P2B EU 2019/1150) und Zuständigkeit (EU-Kommission), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in DSA, DMA und Digitalregulierung der EU geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

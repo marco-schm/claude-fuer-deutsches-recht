@@ -1,6 +1,6 @@
 ---
 name: mandatsabbruch-empfehlung-komplexe-faelle
-description: "Mandatsabbruch-Empfehlung bei komplexen KI-VO-Fällen im EU KI-VO (AI Act): Dieser Skill erkennt Situationen, in denen ein Mechanik-nicht mehr ausreicht und professionelle juristische Beratung zwingend erforderlich ist. Er gibt klare Indikatoren und benennt die relevanten Fachrichtungen."
+description: "Wenn es um Mandatsabbruch-Empfehlung bei komplexen europäischer Technikregulierungsrahmen-Fällen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mandatsabbruch-Empfehlung bei komplexen KI-VO-Fällen

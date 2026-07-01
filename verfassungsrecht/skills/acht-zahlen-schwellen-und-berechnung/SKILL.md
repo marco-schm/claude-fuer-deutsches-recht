@@ -1,6 +1,6 @@
 ---
 name: acht-zahlen-schwellen-und-berechnung
-description: "Acht: Zahlen, Schwellenwerte und Berechnung im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Acht: Zahlen, Schwellenwerte und Berechnung in verfassungsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Acht: Zahlen, Schwellenwerte und Berechnung

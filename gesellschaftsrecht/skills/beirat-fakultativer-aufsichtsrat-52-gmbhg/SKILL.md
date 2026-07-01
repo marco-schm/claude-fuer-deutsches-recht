@@ -1,6 +1,6 @@
 ---
 name: beirat-fakultativer-aufsichtsrat-52-gmbhg
-description: "GmbH-Beirat: Beirat Fakultativer Aufsichtsrat 52 Gmbhg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrecht."
+description: "Wenn es um Beirat Fakultativer Aufsichtsrat 52 Gmbhg in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beirat Fakultativer Aufsichtsrat 52 Gmbhg

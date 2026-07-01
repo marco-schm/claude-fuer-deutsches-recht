@@ -1,6 +1,6 @@
 ---
 name: subchapter-v-confirmation
-description: "Prüft consensual and nonconsensual Subchapter V confirmation, disposable income, projected payments and owner retention im US Bankruptcy Code."
+description: "Wenn es um Subchapter V Confirmation in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Subchapter V Confirmation

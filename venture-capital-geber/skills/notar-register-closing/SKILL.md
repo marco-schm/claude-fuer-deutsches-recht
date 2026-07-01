@@ -1,6 +1,6 @@
 ---
 name: notar-register-closing
-description: "Plant Notartermin, Kapitalerhöhung, Gesellschafterliste, Register, Vollmachten, Zahlungen und Closing Bible im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Notar, Register und Closing in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notar, Register und Closing

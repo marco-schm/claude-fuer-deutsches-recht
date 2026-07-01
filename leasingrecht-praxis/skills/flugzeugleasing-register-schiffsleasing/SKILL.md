@@ -1,6 +1,6 @@
 ---
 name: flugzeugleasing-register-schiffsleasing
-description: "Flugzeug-Leasing: Luftfahrtregister, Kapstadt-Übereinkommen, Internationales Interesse, Wartung nach EASA, Rückgabe-Condition und Leasingstruktur im Leasingrecht."
+description: "Wenn es um Flugzeug-Leasing: Register, Pfand und Wartung in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Flugzeug-Leasing: Register, Pfand und Wartung

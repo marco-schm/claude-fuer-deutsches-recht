@@ -1,6 +1,6 @@
 ---
 name: erfinderkommunikation-im-konzern-kammerantwort-u
-description: "Patentanwälte: erfinderkommunikation im konzern - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Erfinderkommunikation Im Konzern Kammerantwort U in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Patentanwälte: erfinderkommunikation im konzern - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

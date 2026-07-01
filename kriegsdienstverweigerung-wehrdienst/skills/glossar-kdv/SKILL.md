@@ -1,6 +1,6 @@
 ---
 name: glossar-kdv
-description: "Erklärt Wehrpflicht, Musterung, Anerkennung, Ersatzdienst, BAPersBw und BAFzA im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Glossar KDV Wehrdienst in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Glossar KDV Wehrdienst

@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Legistik-Werkstatt (Gesetzgebung): trennt fehlende Tatsachen von fehlenden Belegen (Referentenentwurf, Kabinettvorlage, BR-Drucksache), nennt pro Lücke Beweisthema, Beschaffungsweg (BMJ), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

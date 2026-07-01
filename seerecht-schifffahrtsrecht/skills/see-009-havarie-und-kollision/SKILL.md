@@ -1,6 +1,6 @@
 ---
 name: see-009-havarie-und-kollision
-description: "See- und Schifffahrtsrecht: Havarie und Kollision. Havarie und Kollision im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Havarie Und Kollision in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Havarie Und Kollision

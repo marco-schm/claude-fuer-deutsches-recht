@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-vergabe-planerleistungen
-description: "HOAI-Praxis: prüft Vergabe von Planerleistungen, Schwellenwerte und Dokumentation; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um HOAI Querschnitt: Prüft vergabe von planerleistungen in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # HOAI Querschnitt: Prüft vergabe von planerleistungen

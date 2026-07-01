@@ -1,6 +1,6 @@
 ---
 name: jugendamt-meldung-schule
-description: "Prüft Kindeswohlmeldung, Datenschutz, Elterninformation und Schutzpflichten im Schulrecht Länder."
+description: "Wenn es um Jugendamt-Meldung durch Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Jugendamt-Meldung durch Schule

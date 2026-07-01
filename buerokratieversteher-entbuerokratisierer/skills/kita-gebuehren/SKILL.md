@@ -1,6 +1,6 @@
 ---
 name: kita-gebuehren
-description: "Prüft Beitragsbescheid, Einkommen, Geschwisterregel, Ermäßigung, Satzung, Rückstand und Stundung im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Kita-Gebühren in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kita-Gebühren

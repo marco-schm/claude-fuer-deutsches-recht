@@ -1,6 +1,6 @@
 ---
 name: fotos-bilder-gema-gvl-gerichtlicher
-description: "Prüft Lichtbildwerk, Lichtbild, Design, Produktfoto, Screenshot, Stocklizenz, KI-Bild und Bildbearbeitung im Urheberrecht De Eu."
+description: "Wenn es um Fotos, Bilder und Design in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fotos, Bilder und Design

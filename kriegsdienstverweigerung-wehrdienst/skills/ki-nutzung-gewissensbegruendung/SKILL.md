@@ -1,6 +1,6 @@
 ---
 name: ki-nutzung-gewissensbegruendung
-description: "Setzt Grenzen für KI-Hilfe: strukturieren ja, fremde Begründung nein im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um digitale Werkzeuge bei Gewissensbegründung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI bei Gewissensbegründung

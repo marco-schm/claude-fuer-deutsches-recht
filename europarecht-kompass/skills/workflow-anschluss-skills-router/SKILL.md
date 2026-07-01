@@ -1,6 +1,6 @@
 ---
 name: workflow-anschluss-skills-router
-description: "Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Europarecht Kompass."
+description: "Wenn es um Anschluss-Skills Router in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anschluss-Skills Router

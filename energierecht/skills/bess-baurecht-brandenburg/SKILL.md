@@ -1,6 +1,6 @@
 ---
 name: bess-baurecht-brandenburg
-description: "Prüft Zulässigkeit im Außenbereich, Bebauungsplan, Sondergebiet Energie, Privilegierung, Erschließung und Nachbarrechte im Energierecht."
+description: "Wenn es um Batteriespeicher: Baurecht und Bauleitplanung Brandenburg in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Batteriespeicher: Baurecht und Bauleitplanung Brandenburg

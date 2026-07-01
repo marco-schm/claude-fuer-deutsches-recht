@@ -1,6 +1,6 @@
 ---
 name: charterparty-closing-planen
-description: "Charterparty: Closing eines Gechartertes Seeschiff unter Charterparty-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan im Seerecht Schifffahrtsrecht."
+description: "Wenn es um Charterparty – Closing planen in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Charterparty – Closing planen

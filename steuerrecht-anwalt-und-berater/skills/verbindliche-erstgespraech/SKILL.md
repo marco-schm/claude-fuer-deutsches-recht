@@ -1,6 +1,6 @@
 ---
 name: verbindliche-erstgespraech
-description: "Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines steuerlich unsicheren Sachverhalts stellen. Anwendungsfall Mandant plant Umstrukturierung Holding Wegzug Schenkung Erbschaft oder internationalen Sachverhalt und will vorab steuerliche Behandlung verbindlich klären. Vo"
+description: "Wenn es um Verbindliche Auskunft nach Paragraf 89 Abs. 2 AO in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Verbindliche Erstgespraech; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Verbindliche Auskunft nach § 89 Abs. 2 AO

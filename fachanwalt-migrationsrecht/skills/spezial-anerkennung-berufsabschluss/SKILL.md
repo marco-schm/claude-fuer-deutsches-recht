@@ -1,6 +1,6 @@
 ---
 name: spezial-anerkennung-berufsabschluss
-description: "Anerkennung Berufsabschluss: Spezial-Skill im Migrationsrecht; prüft Gleichwertigkeit, Defizitbescheid, Anpassungsqualifizierung und Berufszugang; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Anerkennung Berufsabschluss in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anerkennung Berufsabschluss

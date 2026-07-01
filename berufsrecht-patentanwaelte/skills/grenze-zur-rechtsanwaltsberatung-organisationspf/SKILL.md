@@ -1,6 +1,6 @@
 ---
 name: grenze-zur-rechtsanwaltsberatung-organisationspf
-description: "Patentanwälte: grenze zur rechtsanwaltsberatung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Grenze Zur Rechtsanwaltsberatung Organisationspf in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: grenze zur rechtsanwaltsberatung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

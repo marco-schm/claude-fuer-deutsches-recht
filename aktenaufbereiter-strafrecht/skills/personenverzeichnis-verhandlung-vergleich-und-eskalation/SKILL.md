@@ -1,6 +1,6 @@
 ---
 name: personenverzeichnis-verhandlung-vergleich-und-eskalation
-description: "Personenverzeichnis: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Personenverzeichnis: Verhandlung, Vergleich und Eskalation in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Personenverzeichnis: Verhandlung, Vergleich und Eskalation

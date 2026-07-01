@@ -1,6 +1,6 @@
 ---
 name: seminararbeit-modus
-description: "Student schreibt Seminararbeit mit persönlicher Lekture durch Lehrkraft: Forschungsfrage Literaturschau eigene These Disputation. Unterschied zur Hausarbeit hoehere Eigenständigkeit wissenschaftliche Tiefe Vortragspflicht. Normen Wissenschaftsfreiheit Art. 5 GG. Prüfraster Forschungsfrage These A..."
+description: "Wenn es um Seminararbeit-Modus in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Seminararbeit-Modus

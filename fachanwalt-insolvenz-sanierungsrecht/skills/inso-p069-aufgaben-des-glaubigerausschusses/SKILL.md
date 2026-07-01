@@ -1,6 +1,6 @@
 ---
 name: inso-p069-aufgaben-des-glaubigerausschusses
-description: "§ 69 InsO (Aufgaben des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 69 InsO (Aufgaben des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, R..."
+description: "Wenn es um Inso P069 Aufgaben Des Glaubigerausschusses in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 69 InsO (Aufgaben des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

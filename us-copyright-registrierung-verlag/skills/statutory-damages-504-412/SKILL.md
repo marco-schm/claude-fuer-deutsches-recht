@@ -1,6 +1,6 @@
 ---
 name: statutory-damages-504-412
-description: "Prüft statutory damages, actual damages, profits, election, timely registration und Ausschlussrisiken nach § 412 im Us Copyright Registrierung Verlag."
+description: "Wenn es um Statutory Damages und Paragraf 412 Timing in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Statutory Damages und § 412 Timing

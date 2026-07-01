@@ -1,6 +1,6 @@
 ---
 name: elternabend-protokoll-und-beschluss
-description: "Prüft Elternabende, Elternvertretung, Einladung, Protokoll und Beschlussfähigkeit im Schulrecht Länder."
+description: "Wenn es um Elternabend, Protokoll und Beschluss in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Elternabend, Protokoll und Beschluss

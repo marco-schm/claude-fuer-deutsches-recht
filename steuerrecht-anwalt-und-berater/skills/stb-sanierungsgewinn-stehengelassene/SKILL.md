@@ -1,6 +1,6 @@
 ---
 name: stb-sanierungsgewinn-stehengelassene
-description: "Mandantenbrief-Mustertext zur frühen Sensibilisierung in der Krise. Erklärt mit verständlicher Sprache, weshalb ein Forderungsverzicht ohne Vorbereitung steuerpflichtig wird, und welche Schritte nach Paragraf 3a EStG die Liquidität retten im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Sanierungsgewinn — frühzeitige Mandantenwarnung in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Stb Sanierungsgewinn Stehengelassene; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Sanierungsgewinn — frühzeitige Mandantenwarnung

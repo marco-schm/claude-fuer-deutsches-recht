@@ -1,6 +1,6 @@
 ---
 name: end-to-erstkontakt-offenlegung
-description: "Geführter Gesamtmit 50-Skill-Routing: Pflicht, Datenraum, Portal, Freigabe, Aktualisierung, Kodex und Monitoring. Output vollständige Registrierungsmappe im Lobbyregister Bundestag."
+description: "Wenn es um End-to-End Registrierungswizard in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # End-to-End Registrierungswizard

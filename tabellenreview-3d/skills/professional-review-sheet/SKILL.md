@@ -1,6 +1,6 @@
 ---
 name: professional-review-sheet
-description: "Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output."
+description: "Wenn es um Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive in Tabellenreview 3D geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive

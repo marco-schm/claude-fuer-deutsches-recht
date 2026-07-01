@@ -1,6 +1,6 @@
 ---
 name: methadon-akteneinsicht-vorbereiten
-description: "Methadon: Akteneinsicht vorbereiten im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Methadon Akteneinsicht Vorbereiten in Betäubungsmittelrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Methadon Akteneinsicht Vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: pruefungsordnung-router
-description: "Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Satzung und Bescheid."
+description: "Wenn es um Pruefungsordnung Router in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pruefungsordnung Router

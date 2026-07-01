@@ -1,6 +1,6 @@
 ---
 name: avv-pruefung-bestehender-vertraege-audit
-description: "Prüfung bestehender AVV-Vertraege Vendor-Inventur AVV-Audit und Vertragsfolgemanagement. Behandelt die systematische Durchsicht eines AVV-Bestands die Identifikation veralteter Klauseln SCC-Altmuster fehlender DPF-Bezug und sub-AV-Listenpflege. Output: Audit-Bericht und Vertragsverbesserungsplan."
+description: "Wenn es um AVV-Audit – Prüfung bestehender Verträge in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AVV-Audit – Prüfung bestehender Verträge

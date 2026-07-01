@@ -1,6 +1,6 @@
 ---
 name: laufzeit-nachwirkungsfrist-oeffentliche-hand
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Laufzeit Und Nachwirkungsfrist; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Laufzeit Und Nachwirkungsfrist in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laufzeit Und Nachwirkungsfrist

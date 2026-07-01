@@ -1,6 +1,6 @@
 ---
 name: einigungsvertrag-kommunalvermoegen-zuordnung
-description: "Einigungsvertrag und Vermögensrecht: Kommunalvermögen: Akte anfordern im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kommunalvermoegen Akte Anfordern in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kommunalvermoegen Akte Anfordern

@@ -1,6 +1,6 @@
 ---
 name: english-legal-writing-for-german-courts
-description: "Verbessert englische Schriftsätze für deutsche Gerichte: klar, zpo-tauglich, ohne US-Discovery-Duktus, mit sauberem Tatsachenvortrag und Beweisangebot im Commercial Courts Deutschland."
+description: "Wenn es um English Legal Writing in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # English Legal Writing

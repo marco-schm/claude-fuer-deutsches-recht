@@ -1,6 +1,6 @@
 ---
 name: surrogat-erloes-versicherung-ersatzforderung
-description: "Bei an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Normen: § 818 Abs. 1 BGB; § 285 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil ob..."
+description: "Wenn es um Surrogat, Erlös, Versicherung und Ersatzforderung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Surrogat, Erlös, Versicherung und Ersatzforderung

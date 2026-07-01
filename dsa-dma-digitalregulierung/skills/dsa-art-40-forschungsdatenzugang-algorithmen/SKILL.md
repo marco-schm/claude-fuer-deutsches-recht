@@ -1,6 +1,6 @@
 ---
 name: dsa-art-40-forschungsdatenzugang-algorithmen
-description: "Forschungsdatenzugang nach Art. 40 DSA beantragen oder gewaehren: Forscher will Plattformdaten erhalten oder Plattform muss Zugang einrichten. Normen: DSA (EU) 2022/2065 Art. 40 (vetted researchers, DSC-Koordinierung), Delegierte VO (EU) 2024/2987 (Bedingungen und Verfahren). Prüfraster: Drei Ebe..."
+description: "Wenn es um DSA — Art. 40 Forschungsdatenzugang in DSA, DMA und Digitalregulierung der EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # DSA — Art. 40 Forschungsdatenzugang

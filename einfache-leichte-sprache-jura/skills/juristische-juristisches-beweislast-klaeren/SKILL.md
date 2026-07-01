@@ -1,6 +1,6 @@
 ---
 name: juristische-juristisches-beweislast-klaeren
-description: "Juristische: Erstprüfung, Rollenklärung und Mandatsziel: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Juristische: Erstprüfung, Rollenklärung und Mandatsziel in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Juristische: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: emergency-arbitrator
-description: "Internationales Handelsrecht: Notfallschiedsrichter (Emergency Arbitrator) nach ICC Art. 29/Appendix V, LCIA Art. 9B, SIAC Schedule 1. Voraussetzungen, Verfahrensablauf, Vollstreckbarkeit und Verhältnis zu staatlichen einstweiligen Maßnahmen im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Notfallschiedsrichter (Emergency Arbitrator) in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notfallschiedsrichter (Emergency Arbitrator)

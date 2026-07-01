@@ -1,6 +1,6 @@
 ---
 name: tia-edpb-roadmap-6-schritte-deutsch
-description: "EDPB-Empfehlung 01/2020 als operative Sechs-Schritte-Roadmap für das Transfer Impact Assessment. Schritt 1 Know your transfers; Schritt 2 Identify transfer tool; Schritt 3 Assess law and practice; Schritt 4 Adopt supplementary measures; Schritt 5 Procedural steps; Schritt 6 Re-evaluate. Mit Check..."
+description: "Wenn es um Sechs-Schritte-Roadmap für das Transfer Impact Assessment (EDPB 01/2020) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sechs-Schritte-Roadmap für das Transfer Impact Assessment (EDPB 01/2020)

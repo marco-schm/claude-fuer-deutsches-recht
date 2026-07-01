@@ -1,6 +1,6 @@
 ---
 name: stellvertretung-routing-paragraphen-164-181
-description: "Routing-Skill zur Stellvertretung nach §§ 164 bis 181 BGB: Vollmachtserteilung und -erlöschen, Offenkundigkeit des Handelns im fremden Namen, Duldungs- und Anscheinsvollmacht, Vertreter ohne Vertretungsmacht §§ 177 bis 179 BGB und Insichgeschäft § 181 BGB. Output: Prüfpfad und Verweis auf Teilski..."
+description: "Wenn es um Stellvertretung — Routing Paragrafen 164 bis 181 BGB in BGB AT Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stellvertretung — Routing §§ 164 bis 181 BGB

@@ -1,6 +1,6 @@
 ---
 name: vertreterversammlung-vorstandswahl-partei
-description: "Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation im Parteienrecht."
+description: "Wenn es um Vertreterversammlung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vertreterversammlung Vorstandswahl Partei; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Vertreterversammlung

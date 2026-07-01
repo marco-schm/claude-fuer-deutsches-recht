@@ -1,6 +1,6 @@
 ---
 name: migr-einfuehrung-aufenthaltszwecke
-description: "Migrationsrecht einfuehrend: Aufenthaltszwecke Studium, Ausbildung, Beschäftigung (Blaue Karte EU, Chancenkarte, Fachkraefte), Familiennachzug, humanitaere Gruende, Niederlassungserlaubnis, Daueraufenthalt EU: Migrationsrecht einfuehrend: Aufenthaltszwecke..."
+description: "Wenn es um Migr Einfuehrung Aufenthaltszwecke in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Migrationsrecht einfuehrend: Aufenthaltszwecke Studium, Ausbildung, Beschäftigung (Blaue Karte EU, Chancenkarte, Fachkraefte), Familiennachzug, humanitaere Gruende, Niederlassungserlaubnis, Daueraufenthalt EU

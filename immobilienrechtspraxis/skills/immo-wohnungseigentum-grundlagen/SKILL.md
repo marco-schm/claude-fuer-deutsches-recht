@@ -1,6 +1,6 @@
 ---
 name: immo-wohnungseigentum-grundlagen
-description: "Wohnungseigentumsrecht Grundlagen: Sondereigentum, Gemeinschaftseigentum, Sondernutzungsrechte, Verwalter, Eigentuemerversammlung. Reform WEMoG 2020. Mandantenkommunikation im Immobilienrechtspraxis."
+description: "Wenn es um WEG-Grundlagen in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG-Grundlagen

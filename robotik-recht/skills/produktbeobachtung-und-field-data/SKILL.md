@@ -1,6 +1,6 @@
 ---
 name: produktbeobachtung-und-field-data
-description: "Prüft Produktbeobachtungspflicht und Auswertung von Felddaten ohne Datenschutz- und Geschäftsgeheimnisfehler."
+description: "Wenn es um Produktbeobachtung und Field Data in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Produktbeobachtung und Field Data

@@ -1,6 +1,6 @@
 ---
 name: software-dokumentenmatrix-und-lueckenliste
-description: "Software: Dokumentenmatrix, Lückenliste und Nachforderung: Software: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Wenn es um Software: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt It Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Software: Dokumentenmatrix, Lückenliste und Nachforderung

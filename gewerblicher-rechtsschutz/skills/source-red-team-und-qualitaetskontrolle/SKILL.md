@@ -1,6 +1,6 @@
 ---
 name: source-red-team-und-qualitaetskontrolle
-description: "Red-Team und Qualitätskontrolle im gewerblichen Rechtsschutz: Systematische Überprüfung von Schriftsätzen, Memos und Rechtsanalysen auf Fehler, Quellenschwächen, Gegenargumente und blinde Flecken. Checkliste für interne Qualitätssicherung im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Red-Team und Qualitätskontrolle in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Spezial: Red-Team und Qualitätskontrolle

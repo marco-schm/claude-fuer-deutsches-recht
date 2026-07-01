@@ -1,6 +1,6 @@
 ---
 name: waehlen-rechtsprechung-recherche-europarecht
-description: "Rechtsprechungsrecherche und Europarechtswahl im Subsumtionsprüfer: nationale Norm, EuGH-/BVerfG-Bezug, Vorlagefrage, Anwendungsvorrang und frei prüfbare Entscheidungsanker sauber trennen."
+description: "Wenn es um Rechtsprechung, Recherche und Europarechtsbezug wählen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsprechung, Recherche und Europarechtsbezug wählen

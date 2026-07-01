@@ -1,6 +1,6 @@
 ---
 name: arbeit-wechsel-und-mehrverdienst
-description: "Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen: Normanker: InsO § 295; ZPO § 850c; li..."
+description: "Wenn es um Arbeit Wechsel Und Mehrverdienst in Verbraucherinsolvenz und Schuldenbereinigung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.

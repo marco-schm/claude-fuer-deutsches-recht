@@ -1,6 +1,6 @@
 ---
 name: batteriespeicher-normenkontrolle
-description: "Umweltschutzverband Verbandsklage: Batteriespeicher: Normenkontrolle skizzieren im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Batteriespeicher Normenkontrolle Skizz in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Batteriespeicher Normenkontrolle Skizz

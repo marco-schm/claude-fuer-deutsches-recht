@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage
-description: "Patentnichtigkeitsklage beim BPatG vorbereiten oder Verteidigung des Patents gegen Nichtigkeitsangriff. §§ 81 ff. PatG Nichtigkeitsverfahren § 22 PatG Nichtigkeitsgründe. Prüfraster: Nichtigkeitsgrund Stand der Technik erfinderische Tätigkeit Neuheit Verfahrensfragen Gegendarstellung. Output: Nichtigkeitsklageschrift oder Klageerwiderung. Abgrenzung: nicht für Verletzungsverfahren (§ 139 PatG)."
+description: "Wenn es um Patent-Nichtigkeitsklage in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Patent-Nichtigkeitsklage

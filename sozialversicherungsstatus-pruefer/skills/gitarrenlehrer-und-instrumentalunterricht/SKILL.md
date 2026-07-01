@@ -1,6 +1,6 @@
 ---
 name: gitarrenlehrer-und-instrumentalunterricht
-description: "Prüft privaten Instrumentalunterricht, Musikschulen, Räume, Schülerzuteilung und eigene Unterrichtsorganisation im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Gitarrenlehrer und Instrumentalunterricht in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Gitarrenlehrer und Instrumentalunterricht

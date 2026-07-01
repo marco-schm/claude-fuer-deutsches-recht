@@ -1,6 +1,6 @@
 ---
 name: infrastruktursharing-open-access
-description: "Open-Access-Modelle, Infrastruktursharing, Wholesale-Only, Kooperationsverträge, Nichtdiskriminierung und Beihilfe-/Förderschnittstelle im Telekommunikationsrecht."
+description: "Wenn es um Infrastruktursharing und Open Access in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Infrastruktursharing und Open Access

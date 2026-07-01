@@ -1,6 +1,6 @@
 ---
 name: interdictum-fraudatorium-und-restitutio-in-integrum
-description: "Interdictum fraudatorium und restitutio in integrum: weitere praetorische Schutzinstrumente gegen Gläubigerschaedigung. Skill behandelt die Voraussetzungen den Eilcharakter des interdictum und die Verzahnung mit der actio Pauliana. Liefert Quellenmatrix im Römisches Recht."
+description: "Wenn es um Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Interdictum Fraudatorium Und Restitutio In Integrum; Arbeitsfeld: Römisches Recht."
 ---
 
 # Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum

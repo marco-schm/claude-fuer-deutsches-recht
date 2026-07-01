@@ -1,6 +1,6 @@
 ---
 name: ust-innergemeinschaftlich-6a-ustg
-description: "Praxispruefung der Steuerbefreiung für innergemeinschaftliche Lieferungen — Tatbestandsvoraussetzungen Quick-Fixes Beleg- und Buchnachweis Gelangensbestaetigung und Verschaerfungen seit 2020. Anwendungsfall Aussenpruefung versagt die Steuerbefreiung wegen fehlender USt-IdNr fehlender Gelangensbes..."
+description: "Wenn es um Innergemeinschaftliche Lieferung — Paragraf 6a UStG und Beleg- und Buchnachweis in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Innergemeinschaftliche Lieferung — § 6a UStG und Beleg- und Buchnachweis

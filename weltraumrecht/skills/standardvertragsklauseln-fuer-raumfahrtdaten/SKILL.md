@@ -1,6 +1,6 @@
 ---
 name: standardvertragsklauseln-fuer-raumfahrtdaten
-description: "Standard-Vertragsklauseln für Raumfahrtdaten – DSGVO SCC, Datentransfer, Copernicus-Datenpolitik im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Standardvertragsklauseln für Raumfahrtdaten in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Standardvertragsklauseln für Raumfahrtdaten

@@ -1,6 +1,6 @@
 ---
 name: gewr-einstweilige-dpma-spezial-fristen
-description: "Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisfür Antragsteller und Antragsgegner im Gewerblicher Rechtsschutz."
+description: "Wenn es um GewR: Einstweilige Verfügung – Eilverfahren Spezial in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GewR: Einstweilige Verfügung – Eilverfahren Spezial

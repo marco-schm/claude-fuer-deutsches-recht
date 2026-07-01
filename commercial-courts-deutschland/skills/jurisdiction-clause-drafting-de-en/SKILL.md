@@ -1,6 +1,6 @@
 ---
 name: jurisdiction-clause-drafting-de-en
-description: "Entwirft deutsch-englische Commercial-Court-Gerichtsstands- und Sprachklauseln für Verträge, AGB-nahe Konstellationen und M&A/Finance-Deals im Commercial Courts Deutschland."
+description: "Wenn es um Klauselgestaltung DE/EN in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Klauselgestaltung DE/EN

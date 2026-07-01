@@ -1,6 +1,6 @@
 ---
 name: inso-p026a-vergutung-des-vorlaufigen-insolvenzverwalters
-description: "§ 26a InsO (Vergütung des vorläufigen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 26a InsO (Vergütung des vorläufigen Insolvenzverwalters) im Mandat prüfen: Normzw..."
+description: "Wenn es um Inso P026a Vergutung Des Vorlaufigen Insolvenzverwalters in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 26a InsO (Vergütung des vorläufigen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

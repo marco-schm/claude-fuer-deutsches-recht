@@ -1,6 +1,6 @@
 ---
 name: kueschk-triage-laie-oder-anwalt
-description: "KERNEINSTIEG Kündigungsschutzklage: fragt zuerst ob Anwalt oder Verbraucher-Laie: bei Laie ständige Warnungen und dringende Empfehlung anwaltlicher Beratung; kein Mandatsverhä..."
+description: "Wenn es um KERNEINSTIEG Kündigungsschutzklage: fragt zuerst ob Anwalt oder Verbraucher-Laie in Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KERNEINSTIEG Kündigungsschutzklage: fragt zuerst ob Anwalt oder Verbraucher-Laie

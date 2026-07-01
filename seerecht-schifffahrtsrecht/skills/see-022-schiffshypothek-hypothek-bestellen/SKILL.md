@@ -1,6 +1,6 @@
 ---
 name: see-022-schiffshypothek-hypothek-bestellen
-description: "See- und Schifffahrtsrecht: Schiffshypothek: Hypothek bestellen. Hypothek bestellen für Schiffshypothek im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Schiffshypothek Hypothek Bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffshypothek Hypothek Bestellen

@@ -1,6 +1,6 @@
 ---
 name: bgb-at-form-und-prozessform
-description: "Trennt Schriftform, elektronische Form, Textform, qES, beA-Versand, prozessuale Formfiktionen und Zugangsnachweis in BGB-AT-Faellen."
+description: "Wenn es um Materielle Form und Prozessform trennen in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Materielle Form und Prozessform trennen

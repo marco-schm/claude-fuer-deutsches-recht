@@ -1,6 +1,6 @@
 ---
 name: se-risikomanagement-beteiligungsvereinbarung
-description: "AG/SE-Aufsichtsrat Praxis: Risikomanagement Und Compliance; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um Risikomanagement Und Compliance in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Risikomanagement Und Compliance

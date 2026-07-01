@@ -1,6 +1,6 @@
 ---
 name: 09-starug-stabilisierungsanordnung
-description: "Stabilisierungsanordnung Paragrafen 49 ff. StaRUG (Vollstreckungs- und Verwertungssperre), Voraussetzungen, Dauer (drei Monate, Verlaengerung), Schutzbereich, Folgenanordnung"
+description: "Wenn es um 09 StaRUG Stabilisierungsanordnung in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 09 StaRUG Stabilisierungsanordnung

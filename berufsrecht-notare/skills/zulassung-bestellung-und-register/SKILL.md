@@ -1,6 +1,6 @@
 ---
 name: zulassung-bestellung-und-register
-description: "Zulassung, Bestellung und Register: vertiefter Berufsrechts-Skill für Notare; prüft Zulassungsvoraussetzungen, Register, Kammerdaten, Meldepflichten und Widerrufsrisiken, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
+description: "Wenn es um Zulassung, Bestellung und Register in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Zulassung, Bestellung und Register

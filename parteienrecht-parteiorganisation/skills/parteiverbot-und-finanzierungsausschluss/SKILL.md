@@ -1,6 +1,6 @@
 ---
 name: parteiverbot-und-finanzierungsausschluss
-description: "Routet nur formal: Zuständigkeiten, Folgen, Vorsicht, keine politische Bewertung."
+description: "Wenn es um Parteiverbot/Finanzierungsausschluss in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parteiverbot/Finanzierungsausschluss

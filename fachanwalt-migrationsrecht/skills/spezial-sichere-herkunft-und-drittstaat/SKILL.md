@@ -1,6 +1,6 @@
 ---
 name: spezial-sichere-herkunft-und-drittstaat
-description: "Sichere Herkunft/Drittstaat: Spezial-Skill im Migrationsrecht; prüft EU/nationalen Listenstatus, Widerlegung, individuelle Risiken; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Sichere Herkunft/Drittstaat in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sichere Herkunft/Drittstaat

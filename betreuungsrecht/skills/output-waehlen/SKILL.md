@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Betreuungsrecht: stimmt Adressat (Betroffener, Betreuer, Familie/Angehörige), Frist (Beschwerde 1 Monat § 63 FamFG) und Form auf den Zweck ab — typische Outputs: Betreuungsantrag, Beschwerde, Mandantenbrief Betroffener/Angehörige."
+description: "Wenn es um Output wählen in Betreuungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

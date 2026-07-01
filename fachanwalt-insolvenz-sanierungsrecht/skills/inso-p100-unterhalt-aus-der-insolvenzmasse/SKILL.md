@@ -1,6 +1,6 @@
 ---
 name: inso-p100-unterhalt-aus-der-insolvenzmasse
-description: "§ 100 InsO (Unterhalt aus der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 100 InsO (Unterhalt aus der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, R..."
+description: "Wenn es um Inso P100 Unterhalt Aus Der Insolvenzmasse in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 100 InsO (Unterhalt aus der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

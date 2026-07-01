@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-raub-mit-todesfolge-251-stgb
-description: "Raub mit Todesfolge nach § 251 StGB: Erfolgsqualifikation. Grundtat § 249 oder § 250 StGB; Tod eines anderen Menschen; mindestens Leichtfertigkeit. Strafrahmen lebenslang oder Freiheitsstrafe nicht unter zehn Jahren. Abg..."
+description: "Wenn es um Raub mit Todesfolge nach Paragraf 251 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Raub mit Todesfolge nach § 251 StGB

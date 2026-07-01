@@ -1,6 +1,6 @@
 ---
 name: inkrafttreten-uebergangsrecht
-description: "Inkrafttretens- und Übergangsregelung für Gesetze und Verordnungen formulieren. Anwendungsfall Entwurf ist inhaltlich fertig Artikel Inkrafttreten und Übergangsrecht muessen noch ergaenzt werden. Standardformel Stichtagsregelung Altfaelle bestehende Vertraege bestehende Verwaltungsakte. Vacatio l..."
+description: "Wenn es um Inkrafttreten und Übergangsrecht in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Inkrafttreten und Übergangsrecht

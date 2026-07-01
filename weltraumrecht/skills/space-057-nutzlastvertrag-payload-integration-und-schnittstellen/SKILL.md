@@ -1,6 +1,6 @@
 ---
 name: space-057-nutzlastvertrag-payload-integration-und-schnittstellen
-description: "Weltraumrecht: Nutzlastvertrag Payload Integration und Schnittstellen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Nutzlastvertrag Payload Integration und Schnittstellen in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Nutzlastvertrag Payload Integration und Schnittstellen

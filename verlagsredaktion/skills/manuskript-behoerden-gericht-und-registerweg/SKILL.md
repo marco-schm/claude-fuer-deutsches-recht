@@ -1,6 +1,6 @@
 ---
 name: manuskript-behoerden-gericht-und-registerweg
-description: "Manuskript: Behörden-, Gerichts- oder Registerweg im Verlagsredaktion. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Manuskript: Behörden-, Gerichts- oder Registerweg in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Manuskript: Behörden-, Gerichts- oder Registerweg

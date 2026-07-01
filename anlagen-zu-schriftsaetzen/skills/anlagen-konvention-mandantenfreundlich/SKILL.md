@@ -1,6 +1,6 @@
 ---
 name: anlagen-konvention-mandantenfreundlich
-description: "Anlagen-Konvention mandantenfreundlich: durchlaufende Nummerierung K1 / K2 / K3 ff. für Klägerseite, B1 / B2 / B3 ff. für Beklagtenseite, Anlagenbaender, Inhaltsverzeichnis, beA-konforme PDF-Bezeichnung. Mustertext für Anlagenverzeichnis."
+description: "Wenn es um Anlagen: Konvention mandantenfreundlich in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anlagen: Konvention mandantenfreundlich

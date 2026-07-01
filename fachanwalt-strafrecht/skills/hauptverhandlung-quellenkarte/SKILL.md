@@ -1,6 +1,6 @@
 ---
 name: hauptverhandlung-quellenkarte
-description: "Hauptverhandlung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Wenn es um Hauptverhandlung Quellenkarte in Fachanwalt Strafrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Hauptverhandlung Quellenkarte

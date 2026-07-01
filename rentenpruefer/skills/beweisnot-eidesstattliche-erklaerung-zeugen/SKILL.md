@@ -1,6 +1,6 @@
 ---
 name: beweisnot-eidesstattliche-erklaerung-zeugen
-description: "Beweisnot bei alten oder ausländischen Zeiten: Archivsuche, Arbeitgeberende, Zeugenerklärungen, Plausibilitätsketten und Grenzen im Rentenpruefer."
+description: "Wenn es um beweisnot-eidesstattliche-erklaerung-zeugen in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # beweisnot-eidesstattliche-erklaerung-zeugen

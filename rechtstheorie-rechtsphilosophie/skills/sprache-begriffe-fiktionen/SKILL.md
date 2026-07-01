@@ -1,6 +1,6 @@
 ---
 name: sprache-begriffe-fiktionen
-description: "Prüft juristische Sprache, Fiktionen, Metaphern und technische Begriffe als Werkzeuge und Gefahrenquellen der Rechtsanwendung."
+description: "Wenn es um Sprache, Begriffe und Fiktionen in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sprache, Begriffe und Fiktionen

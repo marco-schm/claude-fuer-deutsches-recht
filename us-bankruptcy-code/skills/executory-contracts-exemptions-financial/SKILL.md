@@ -1,6 +1,6 @@
 ---
 name: executory-contracts-exemptions-financial
-description: "Prüft assumption, rejection, assignment, cure, adequate assurance and strategic contract treatment im US Bankruptcy Code."
+description: "Wenn es um Executory Contracts Paragraf 365 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Executory Contracts § 365

@@ -1,6 +1,6 @@
 ---
 name: template-format-und-source
-description: "Template-Format und Quelle: Word-DOCX mit Formularfeldern, Markdown mit Platzhaltern, PDF AcroForm, Excel mit Variablenliste. Pro Format: Vor- und Nachteile, Migration, Backup. Pflicht zu sauberer Versionierung im Vertragsausfueller."
+description: "Wenn es um VAF: Template-Format und Quelle in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VAF: Template-Format und Quelle

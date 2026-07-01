@@ -1,6 +1,6 @@
 ---
 name: verfahrensgeschichte-vergleich-eskalation
-description: "Verfahrensgeschichte: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Verfahrensgeschichte: Verhandlung, Vergleich und Eskalation in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Verfahrensgeschichte: Verhandlung, Vergleich und Eskalation

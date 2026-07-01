@@ -1,6 +1,6 @@
 ---
 name: haustiere-mietvertrag
-description: "Haustiere im Mietverhältnis: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft AGB-Klausel, Interessenabwägung, Störung, Erlaubnis und Widerruf; mit Normprüfung, Beweisen, Friste..."
+description: "Wenn es um Haustiere im Mietverhältnis: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haustiere im Mietverhältnis: Fachmodul im Miet- und Wohnungseigentumsrecht

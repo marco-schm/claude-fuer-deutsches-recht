@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-uebersetzer-fahrtkosten
-description: "Spezialfall Dolmetscher- und Übersetzerverguetung JVEG: Stundenhonorar, Zeilenhonorar, schwierige Texte, Eilauftraege. Prüfraster Auftragsannahme im Jveg Kostenpruefer."
+description: "Wenn es um JVEG: Dolmetscher Übersetzer in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # JVEG: Dolmetscher Übersetzer

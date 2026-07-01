@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Geldwäscheprävention AML/KYC: ordnet Rolle (Verpflichteter (Bank, Anwalt, Notar), Kunde, FIU), markiert Frist (Verdachtsmeldung unverzüglich § 43 GwG), wählt Norm (GwG, FATF 40 Recommendations, EU-AMLD VI) und Zuständigkeit (FIU), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Geldwäscheprävention, AML und KYC geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

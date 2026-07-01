@@ -1,6 +1,6 @@
 ---
 name: klageerwiderung-checkliste-alle-punkte
-description: "Vollständige Checkliste für die Klageerwiderung. Pro Klage-Punkt eine Antwort Sachverhaltsstellung Bestreiten Einreden Beweisanbietung Antrag auf Klage-Abweisung. Strukturierte Vorgehensweise für den Beklagten ohne Anwalt."
+description: "Wenn es um Klageerwiderung: jeden Punkt der Klage beantworten in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Klageerwiderung: jeden Punkt der Klage beantworten

@@ -1,6 +1,6 @@
 ---
 name: kommunalvermoegen-fristproblem-markier
-description: "Einigungsvertrag und Vermögensrecht: Kommunalvermögen: Fristproblem markieren im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Kommunalvermoegen Fristproblem Markier in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunalvermoegen Fristproblem Markier

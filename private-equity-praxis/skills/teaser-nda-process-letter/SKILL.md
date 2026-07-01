@@ -1,6 +1,6 @@
 ---
 name: teaser-nda-process-letter
-description: "Prüft Verkäuferprozess von anonymisiertem Teaser bis Process Letter mit Fristen, Q&A, Datenraum und Vertraulichkeit im Private Equity Praxis."
+description: "Wenn es um Teaser, NDA und Process Letter in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Teaser, NDA und Process Letter

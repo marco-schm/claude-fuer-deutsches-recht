@@ -1,6 +1,6 @@
 ---
 name: quellen-rspr-fristen
-description: "Quellen- und Rechtsprechungscheck: erklärt verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrich..."
+description: "Wenn es um Quellen- und Rechtsprechungscheck in Schöffen und Handelsrichter Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-drohende-einberufung
-description: "Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Eilrechtsschutz bei Einberufung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eilrechtsschutz bei Einberufung

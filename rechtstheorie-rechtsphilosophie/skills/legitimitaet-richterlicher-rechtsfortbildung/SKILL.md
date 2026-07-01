@@ -1,6 +1,6 @@
 ---
 name: legitimitaet-richterlicher-rechtsfortbildung
-description: "Prüft Legitimation richterlicher Rechtsfortbildung: Lücke, Planwidrigkeit, Vergleichbarkeit, Normzweck, Kontinuität und Grenzen."
+description: "Wenn es um Legitimität richterlicher Rechtsfortbildung in Rechtstheorie und Rechtsphilosophie geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Legitimität richterlicher Rechtsfortbildung

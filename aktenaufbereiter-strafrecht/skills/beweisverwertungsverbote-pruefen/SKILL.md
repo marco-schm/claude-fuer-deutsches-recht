@@ -1,6 +1,6 @@
 ---
 name: beweisverwertungsverbote-pruefen
-description: "Beweisverwertungsverbote prüfen: § 136a StPO (verbotene Vernehmungsmethoden), § 252 StPO (Aussageverweigerung Angehoeriger), § 100a/d StPO (TKUe ohne Voraussetzungen), Belehrungsfehler § 136 StPO, Zufallsfunde § 108 StPO, Kernbereich privater Lebensgestaltung. Prüfraster und Antragsentwurf auf..."
+description: "Wenn es um Beweisverwertungsverbote prüfen in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Beweisverwertungsverbote prüfen

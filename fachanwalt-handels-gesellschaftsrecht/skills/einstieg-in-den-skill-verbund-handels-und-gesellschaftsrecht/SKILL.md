@@ -1,6 +1,6 @@
 ---
 name: einstieg-in-den-skill-verbund-handels-und-gesellschaftsrecht
-description: "Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht: FAO § 14i Voraussetzungen 80 Faelle davon 40 rechtsfoermlich. HGB AktG GmbHG PartGG UmwG MoPeG. Typische Mandate Gründung Satzungsa..."
+description: "Wenn es um Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht in Fachanwalt Handels- und Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht

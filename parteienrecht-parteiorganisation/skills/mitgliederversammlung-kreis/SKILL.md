@@ -1,6 +1,6 @@
 ---
 name: mitgliederversammlung-kreis
-description: "Erstellt Einladung zur Kreis-/Mitgliederversammlung mit Frist, Tagesordnung, Satzungsgrundlage und Nachweis."
+description: "Wenn es um Kreisversammlung einberufen in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreisversammlung einberufen

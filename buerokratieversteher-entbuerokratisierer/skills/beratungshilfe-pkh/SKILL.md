@@ -1,6 +1,6 @@
 ---
 name: beratungshilfe-pkh
-description: "Erklärt Beratungshilfe, Prozesskostenhilfe/Verfahrenskostenhilfe, Unterlagen, Fristen und wann anwaltliche Hilfe nötig ist im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Beratungshilfe und PKH in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beratungshilfe und PKH

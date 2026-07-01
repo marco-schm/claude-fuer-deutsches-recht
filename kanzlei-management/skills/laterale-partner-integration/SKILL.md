@@ -1,6 +1,6 @@
 ---
 name: laterale-partner-integration
-description: "Steuert Business Case, 180-Tage-Integration, Kultur und Profitabilität. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Laterale Partner integrieren in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laterale Partner integrieren

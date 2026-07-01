@@ -1,6 +1,6 @@
 ---
 name: spezial-gartenpflege-baumfaellung
-description: "Gartenpflege/Baumfällung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft laufende Kosten, Instandhaltung, Sondermaßnahme, Verkehrssicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Gartenpflege/Baumfällung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gartenpflege/Baumfällung

@@ -1,6 +1,6 @@
 ---
 name: flugzeugleasing-dashboard-bauen
-description: "Leasinggesellschaft braucht Dashboard für Flugzeugflotte: Cape-Town-Registrierungsstatus IDERA-Status Leasingnehmer-Solvenz LuftVG-Rollenstatus Wartungsintervalle. Skill strukturiert Datenquellen ICAO-Register LBA LuftFzgG und liefert befuellbares Flotten-Dashboard-Template im Luftrecht Flughafen..."
+description: "Wenn es um Flugzeugleasing – Dashboard bauen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flugzeugleasing – Dashboard bauen

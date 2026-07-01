@@ -1,6 +1,6 @@
 ---
 name: telefonat-mit-behoerde-vorbereiten
-description: "Hilft bei Telefonat Mit Behoerde Vorbereiten fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch."
+description: "Wenn es um Telefonat Mit Behoerde Vorbereiten in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Telefonat Mit Behoerde Vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: leasing-bgb-bt-schnittstelle
-description: "Leasingvertrag im BGB: Finanzierungsleasing, Mietleasing, Gewährleistungskette und Verbraucherschutz."
+description: "Wenn es um Leasing BGB-BT Schnittstelle in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasing BGB-BT Schnittstelle

@@ -1,6 +1,6 @@
 ---
 name: ressort-bmukn
-description: "Heranfuehrung Ressort BMUKN (Bundesministerium für Umwelt; Klimaschutz; Naturschutz und nukleare Sicherheit). Schwerpunkt: Immissionsschutz; Wasser; Abfall und Kreislaufwirtschaft; Naturschutz; Nukleares. Kernnormen: BImSchG; WHG; KrWG; BNatSchG; AtG; StrlSchG; UVPG; ChemG; REACH; KSG. Fuenf Spez..."
+description: "Wenn es um Ressort-Heranfuehrung BMUKN in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ressort-Heranfuehrung BMUKN

@@ -1,6 +1,6 @@
 ---
 name: kfz-haftpflicht-kasko-grobe-krankentagegeld
-description: "Kfz-Haftpflichtversicherung: Außenregulierung, Innenregress, Obliegenheitsverletzung, Alkohol, Unfallflucht, Fahrerlaubnis und Regresshöchstgrenzen im Versicherungsrecht."
+description: "Wenn es um Kfz-Haftpflicht: Regress bei Alkohol, Flucht, Obliegenheit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kfz-Haftpflicht: Regress bei Alkohol, Flucht, Obliegenheit

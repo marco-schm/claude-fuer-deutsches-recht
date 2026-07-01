@@ -1,6 +1,6 @@
 ---
 name: auslaenderbehoerde
-description: "Erklärt Aufenthaltstitel, Fiktionsbescheinigung, Termin, Nachweise, Frist, Nebenbestimmung und Vorsicht bei Angaben im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Ausländerbehörde in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ausländerbehörde

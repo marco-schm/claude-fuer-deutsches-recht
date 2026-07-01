@@ -1,6 +1,6 @@
 ---
 name: kameradschaft-achtungs-und-vertrauenspflicht
-description: "Kameradschaft, Achtungs- und Vertrauenspflicht: prüft §§ 12 und 17 SG, Mobbing, Disziplinarrecht und Rechtsbehelfe. Norm-/Quellenanker: §§ 12 und 17 SG, WBO, WDO im Bundeswehrrecht Wehrrecht."
+description: "Wenn es um Kameradschaft, Achtungs- und Vertrauenspflicht in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kameradschaft, Achtungs- und Vertrauenspflicht

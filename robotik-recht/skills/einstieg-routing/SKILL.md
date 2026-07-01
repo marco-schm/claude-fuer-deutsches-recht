@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Robotik-Recht: ordnet Rolle (Hersteller, Operator/Anwender, Geschädigte), markiert Frist (CE-Konformität vor Inverkehrbringen), wählt Norm (KI-VO, ProdSG/GPSR, ProdHaftG) und Zuständigkeit (KI-Aufsicht), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in robotik-recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

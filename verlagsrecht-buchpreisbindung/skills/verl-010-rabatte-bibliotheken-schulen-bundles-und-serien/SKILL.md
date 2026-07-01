@@ -1,6 +1,6 @@
 ---
 name: verl-010-rabatte-bibliotheken-schulen-bundles-und-serien
-description: "Verlagsrecht: Rabatte Bibliotheken Schulen Bundles und Serien mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: Rabatte Bibliotheken Schulen Bundles und Serien in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: Rabatte Bibliotheken Schulen Bundles und Serien

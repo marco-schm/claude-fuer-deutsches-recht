@@ -1,6 +1,6 @@
 ---
 name: bekanntmachung-beweislast-darlegungslast
-description: "Bekanntmachung: Beweislast, Darlegungslast und Substantiierung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verf..."
+description: "Wenn es um Bekanntmachung: Beweislast, Darlegungslast und Substantiierung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bekanntmachung Beweislast Darlegungslast; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Bekanntmachung: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: plan-gestaltender-gruppen
-description: "Gestaltenden Teil des Insolvenzplans mit konkreten Rechtsaenderungen Quoten und Vollstreckungsgrundlagen formulieren. § 221 InsO § 7 StaRUG Planwirkungen. Prüfraster: Rechtsaenderungen je Gruppe Quoten Stundungen Sicherheitenaenderungen Bedingungen Bestimmtheit Vollstreckbarkeit. Output: Gestalte..."
+description: "Wenn es um IV-integrierte Gestaltender Teil in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IV-integrierte Gestaltender Teil

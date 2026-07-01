@@ -1,6 +1,6 @@
 ---
 name: late-submissions-296-zpo
-description: "Steuert verspätetes Vorbringen, Präklusion, Fristverlängerung, gerichtliche Hinweise und Schriftsatznachlass im Commercial Courts Deutschland."
+description: "Wenn es um Late Submissions in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Late Submissions

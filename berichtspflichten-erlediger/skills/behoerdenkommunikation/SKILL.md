@@ -1,6 +1,6 @@
 ---
 name: behoerdenkommunikation
-description: "Saubere Behördenkommunikation bei Berichtspflichten: Rückfrage, Fristverlängerung, Korrektur, Nichtzuständigkeit und Nachweis im Berichtspflichten."
+description: "Wenn es um Behördenkommunikation und Fristverlängerung in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Behördenkommunikation und Fristverlängerung

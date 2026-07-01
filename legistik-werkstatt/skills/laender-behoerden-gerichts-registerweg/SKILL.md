@@ -1,6 +1,6 @@
 ---
 name: laender-behoerden-gerichts-registerweg
-description: "Länder: Behörden-, Gerichts- oder Registerweg im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisc..."
+description: "Wenn es um Länder: Behörden-, Gerichts- oder Registerweg in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Laender Behoerden Gerichts Registerweg; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Länder: Behörden-, Gerichts- oder Registerweg

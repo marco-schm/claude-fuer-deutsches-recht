@@ -1,6 +1,6 @@
 ---
 name: safety-gate-und-oeffentliche-warnung
-description: "Prüft Folgen von Safety-Gate-Warnung, öffentlicher Produktwarnung, Reputationsrisiko und Korrekturkommunikation."
+description: "Wenn es um Safety Gate und öffentliche Warnung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Safety Gate und öffentliche Warnung

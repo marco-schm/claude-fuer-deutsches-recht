@@ -1,6 +1,6 @@
 ---
 name: gruenderstreit-praevention-mediation
-description: Entwickelt Frühwarnsysteme, Gesprächsstruktur, Deadlock-Regeln, Vesting, Exit-Pfade und Dokumentation zur Vermeidung von Gründerstreit.
+description: "Wenn es um Gründerstreit, Prävention und Mediation in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 # Gründerstreit, Prävention und Mediation
 

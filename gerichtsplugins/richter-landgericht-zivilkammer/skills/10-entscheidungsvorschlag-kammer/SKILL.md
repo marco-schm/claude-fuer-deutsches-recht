@@ -1,6 +1,6 @@
 ---
 name: 10-entscheidungsvorschlag-kammer
-description: "Strukturierter Entscheidungsvorschlag für die Kammerberatung: Tenor-Vorschlag, tragende Gründe, Beweiswürdigung, Hilfsbegründungen, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert"
+description: "Wenn es um 10 Entscheidungsvorschlag Kammer in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 10 Entscheidungsvorschlag Kammer

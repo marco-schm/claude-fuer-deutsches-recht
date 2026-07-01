@@ -1,6 +1,6 @@
 ---
 name: nach-mediation-vorrang-leitfaden
-description: "Leitfaden Mediation und obligatorisches Gueteverfahren § 15a EGZPO: zuständige Stellen, Verlauf, Vergleich. Prüfraster für Streitwert unter 750 Euro und Nachbarschaftsstreit im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Nach: Mediation Gueteverfahren in Nachbarschaftsstreit-Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Nach: Mediation Gueteverfahren

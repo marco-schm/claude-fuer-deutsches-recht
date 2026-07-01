@@ -1,6 +1,6 @@
 ---
 name: abnahme-sondereigentum-paragraf-640
-description: "Prueft die Abnahme des Sondereigentums nach Paragraf 640 BGB: persoenliche Abnahme mit Protokoll, Wirkung der Abnahme auf Faelligkeit, Gefahruebergang und Beweislastumkehr, Verbot der Schluesseluebergabe-Fiktion, Anforderungen an die Abnahmefiktion nach Paragraf 640 Absatz 2 BGB beim Verbraucher."
+description: "Wenn es um Abnahme Sondereigentum Paragraf 640 BGB in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Abnahme Sondereigentum Paragraf 640 BGB

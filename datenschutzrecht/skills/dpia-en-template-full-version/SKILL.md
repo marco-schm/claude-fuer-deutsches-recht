@@ -1,6 +1,6 @@
 ---
 name: dpia-en-template-full-version
-description: "Full English DPIA template aligned with Art. 35 GDPR covering description necessity proportionality risk to data subjects measures residual risk approval. Output: ready-to-fill DPIA template in English for cross-border or English-speaking deployments."
+description: "Wenn es um DPIA Full Template in English in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DPIA Full Template in English

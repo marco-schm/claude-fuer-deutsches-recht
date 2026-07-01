@@ -1,6 +1,6 @@
 ---
 name: einstellung-153-153a-stpo
-description: "Einstellung nach Paragrafen 153 und 153a StPO: Praxis-Skill für neue Staatsanwälte zu Opportunität, Auflagen, Zustimmungserfordernisse, Opferinteressen und Dokumentation handhaben; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Einstellung nach Paragrafen 153 und 153a StPO in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Einstellung nach Paragrafen 153 und 153a StPO

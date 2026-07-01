@@ -1,6 +1,6 @@
 ---
 name: identitaetspruefung-ausweis-organisationspflicht-und-praxis
-description: "Notare: identitaetspruefung ausweis - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Identitaetspruefung Ausweis Organisationspflicht Und Praxis in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: identitaetspruefung ausweis - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

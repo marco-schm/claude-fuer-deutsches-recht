@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-red-team-runde
-description: "HOAI-Praxis: sucht Fehler, falsche LPH-Zuordnung, fehlende Freigaben und Beleglücken; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren."
+description: "Wenn es um HOAI Querschnitt: Sucht fehler in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # HOAI Querschnitt: Sucht fehler

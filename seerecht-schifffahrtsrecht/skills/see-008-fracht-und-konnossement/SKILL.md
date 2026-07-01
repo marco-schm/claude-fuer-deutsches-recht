@@ -1,6 +1,6 @@
 ---
 name: see-008-fracht-und-konnossement
-description: "See- und Schifffahrtsrecht: Fracht und Konnossement. Fracht und Konnossement im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Fracht Und Konnossement in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fracht Und Konnossement

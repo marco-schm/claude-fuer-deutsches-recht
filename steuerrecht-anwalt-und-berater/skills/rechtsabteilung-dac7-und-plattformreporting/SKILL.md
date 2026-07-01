@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-dac7-und-plattformreporting
-description: "Rechtsabteilungs-Fachmodul für DAC7 und Plattformreporting: Plattformbetreiber prüfen Meldepflicht, Verkäuferdaten und Korrekturprozesse. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Wenn es um Rechtsabteilung: DAC7 und Plattformreporting in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsabteilung: DAC7 und Plattformreporting

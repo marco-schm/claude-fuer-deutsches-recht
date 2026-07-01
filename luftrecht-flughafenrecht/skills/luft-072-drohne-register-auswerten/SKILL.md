@@ -1,6 +1,6 @@
 ---
 name: luft-072-drohne-register-auswerten
-description: "Luftrecht und Flughafenrecht: Drohne: Register auswerten. Register auswerten für Drohne im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Drohne Register Auswerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drohne Register Auswerten

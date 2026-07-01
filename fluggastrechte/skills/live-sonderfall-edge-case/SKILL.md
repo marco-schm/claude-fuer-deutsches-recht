@@ -1,6 +1,6 @@
 ---
 name: live-sonderfall-edge-case
-description: "Live: Sonderfall und Edge-Case-Prüfung im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente,..."
+description: "Wenn es um Live: Sonderfall und Edge-Case-Prüfung in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Live: Sonderfall und Edge-Case-Prüfung

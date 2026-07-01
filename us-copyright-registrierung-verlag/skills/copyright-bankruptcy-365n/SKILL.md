@@ -1,6 +1,6 @@
 ---
 name: copyright-bankruptcy-365n
-description: "Prüft Copyright-Lizenzen in US-Bankruptcy, rejection, licensee election, source code and IP survival issues im Us Copyright Registrierung Verlag."
+description: "Wenn es um Copyright Licenses in Bankruptcy Paragraf 365(n) in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Copyright Licenses in Bankruptcy § 365(n)

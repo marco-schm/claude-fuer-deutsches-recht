@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-idd-vertrieb-und-provisionskonflikt
-description: "Rechtsabteilungs-Fachmodul für IDD-Vertrieb und Provisionskonflikt: Produktvertrieb wird auf Interessenkonflikte, Dokumentation und Aufsicht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Versicherungsrecht."
+description: "Wenn es um Rechtsabteilung: IDD-Vertrieb und Provisionskonflikt in Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: IDD-Vertrieb und Provisionskonflikt

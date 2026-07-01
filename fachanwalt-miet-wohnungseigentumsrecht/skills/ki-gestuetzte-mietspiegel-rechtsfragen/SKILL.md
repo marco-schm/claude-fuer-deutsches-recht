@@ -1,6 +1,6 @@
 ---
 name: ki-gestuetzte-mietspiegel-rechtsfragen
-description: "KI-gestuetzte qualifizierte Mietspiegel: § 558d BGB, Anforderungen der Mietspiegel-Verordnung MsV, Datengrundlage, Repraesentativitaet, mathematische Modelle (HEDP-Methode, ML-Verfahren): KI-gestuetzte qualifizierte Mietspiegel: § 558d BGB, Anforderungen de..."
+description: "Wenn es um Ki Gestuetzte Mietspiegel Rechtsfragen in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI-gestuetzte qualifizierte Mietspiegel: § 558d BGB, Anforderungen der Mietspiegel-Verordnung MsV, Datengrundlage, Repraesentativitaet, mathematische Modelle (HEDP-Methode, ML-Verfahren)

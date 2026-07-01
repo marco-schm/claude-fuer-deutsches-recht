@@ -1,6 +1,6 @@
 ---
 name: lohn-sv-beitraege-grundlagen
-description: "Sozialversicherungs-Beitraege Grundlagen RV KV PV AV Umlagen. Anwendungsfall monatliche Lohnabrechnung mit SV-Berechnung Beitragsbemessungsgrenzen AG-AN-Aufteilung Sonderfaelle. Methodik Beitragsberechnung mit JAEG BBG Zusatzbeitrag KV. Output Prüfraster SV-Beitraege."
+description: "Wenn es um SV-Beitraege Grundlagen — RV KV PV AV und Umlagen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # SV-Beitraege Grundlagen — RV KV PV AV und Umlagen

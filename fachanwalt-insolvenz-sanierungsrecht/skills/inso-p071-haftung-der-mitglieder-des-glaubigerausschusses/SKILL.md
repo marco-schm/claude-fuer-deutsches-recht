@@ -1,6 +1,6 @@
 ---
 name: inso-p071-haftung-der-mitglieder-des-glaubigerausschusses
-description: "§ 71 InsO (Haftung der Mitglieder des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 71 InsO (Haftung der Mitglieder des Gläubigerausschusses) im Mandat prüfen: Norm..."
+description: "Wenn es um Inso P071 Haftung Der Mitglieder Des Glaubigerausschusses in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 71 InsO (Haftung der Mitglieder des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

@@ -1,6 +1,6 @@
 ---
 name: register-qualitaetsgate-vor-einreichung
-description: "Checkliste vor dem Absenden: Urkunden, Beschlüsse, Listen, Unterschriften, Kapital, Namen, Daten, Registerblatt im Handelsregister Praxis."
+description: "Wenn es um Quality Gate vor Einreichung in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quality Gate vor Einreichung

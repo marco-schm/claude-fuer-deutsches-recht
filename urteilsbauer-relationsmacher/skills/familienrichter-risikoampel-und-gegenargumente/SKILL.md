@@ -1,6 +1,6 @@
 ---
 name: familienrichter-risikoampel-und-gegenargumente
-description: "Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien in Urteilsbauer und Relationsmacher geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Familienrichter Risikoampel Und Gegenargumente; Arbeitsfeld: Urteilsbauer und Relationsmacher."
 ---
 
 # Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien

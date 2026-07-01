@@ -1,6 +1,6 @@
 ---
 name: unterschwellen-rechtsschutz-zivilgericht
-description: "Rechtsschutz unterhalb der EU-Schwellenwerte planen: UVgO/VOB/A 1: Abschnitt, Landesrecht, einstweiliger Rechtsschutz, Zivilrechtsweg, Ruge und Kostenrisiko."
+description: "Wenn es um Rechtsschutz unterhalb der EU-Schwellenwerte planen: UVgO/VOB/A 1 in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Rechtsschutz unterhalb der EU-Schwellenwerte planen: UVgO/VOB/A 1

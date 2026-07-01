@@ -1,6 +1,6 @@
 ---
 name: hoai-subunternehmer-perspektive
-description: "HOAI-Praxis: prüft, welche Planinformationen Subunternehmer wirklich brauchen; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren."
+description: "Wenn es um HOAI Querschnitt: Prüft in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # HOAI Querschnitt: Prüft

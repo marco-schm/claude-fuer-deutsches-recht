@@ -1,6 +1,6 @@
 ---
 name: public-records-search-chain
-description: "Prüft USCO public records, catalog, recorded documents, gaps, name variants and old registrations im Us Copyright Registrierung Verlag."
+description: "Wenn es um Public Records Search and Chain in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Public Records Search and Chain

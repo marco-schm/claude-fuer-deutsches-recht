@@ -1,6 +1,6 @@
 ---
 name: fristen-berechnen-187-188-bgb
-description: "Berechnung von Prozessfristen nach §§ 187 188 BGB. Beginn am Tag nach Ereignis Ende am gleichen Wochentag der Folgewoche Frist-Ende auf Wochenende oder Feiertag verschiebt sich. Praxis-Beispiele und typische Fallen."
+description: "Wenn es um Fristen richtig berechnen in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristen richtig berechnen

@@ -1,6 +1,6 @@
 ---
 name: inso-eroeffnungsantrag-checkliste
-description: "Checkliste Eroeffnungsantrag § 13 InsO: zuständiges Gericht, Gläubigerliste, Vermögensverzeichnis, Erklaerung Geschäftsleitung. Prüfraster für Schuldner- und Gläubigeranwalt im Insolvenzrecht."
+description: "Wenn es um Inso: Eroeffnungsantrag-Checkliste in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Inso: Eroeffnungsantrag-Checkliste

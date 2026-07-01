@@ -1,6 +1,6 @@
 ---
 name: datenbankvergleich-und-bereinigungsplan
-description: "Datenbankvergleich und Bereinigungsplan bei Datenbankrechts-Verletzungen: Technische Methoden zum Nachweis von Datenübereinstimmungen (Fingerprinting, Fuzzy-Matching, Hash-Vergleich), Bereinigungspflicht des Verletzers nach Unterlassungsurteil und Vernichtungsanspruch (§ 98 UrhG). Erstellt Vergle..."
+description: "Wenn es um Datenbankvergleich und Bereinigungsplan — Technischer Nachweis und Vollstreckung in Datenbankrecht und Datenbankherstellerrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Datenbankvergleich und Bereinigungsplan — Technischer Nachweis und Vollstreckung

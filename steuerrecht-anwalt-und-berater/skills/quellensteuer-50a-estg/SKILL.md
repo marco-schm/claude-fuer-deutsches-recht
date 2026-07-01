@@ -1,6 +1,6 @@
 ---
 name: quellensteuer-50a-estg
-description: "Praxisbearbeitung des Quellensteuerabzugs nach § 50a EStG — Tatbestaende Bemessungsgrundlage Abzugsverfahren Freistellungs- und Erstattungsverfahren. Anwendungsfall Inlaendischer Vergueterungsschuldner zahlt an einen beschraenkt Steuerpflichtigen (Kuenstler Sportler Aufsichtsrat Lizenzen) und mus..."
+description: "Wenn es um Quellensteuer bei beschraenkter Steuerpflicht — Paragraf 50a EStG in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quellensteuer bei beschraenkter Steuerpflicht — § 50a EStG

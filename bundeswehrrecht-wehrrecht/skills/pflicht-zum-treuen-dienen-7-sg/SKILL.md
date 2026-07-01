@@ -1,6 +1,6 @@
 ---
 name: pflicht-zum-treuen-dienen-7-sg
-description: "Pflicht zum treuen Dienen § 7 SG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
+description: "Wenn es um Pflicht zum treuen Dienen Paragraf 7 SG in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Pflicht zum treuen Dienen § 7 SG

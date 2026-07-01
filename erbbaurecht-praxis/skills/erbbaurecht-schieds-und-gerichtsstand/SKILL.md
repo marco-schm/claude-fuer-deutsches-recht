@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-schieds-und-gerichtsstand
-description: "Prüft Schiedsklausel, Gerichtsstand, Beweisverfahren, Gutachterklausel und Vergleichsmechanik im Erbbaurecht Praxis."
+description: "Wenn es um Streitbeilegung in Erbbaurecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Streitbeilegung

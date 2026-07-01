@@ -1,6 +1,6 @@
 ---
 name: einstieg-schnelltriage-fallrouting
-description: "Einstieg, Schnelltriage und Fallrouting im Fachanwalt Handels Gesellschaftsrecht-Plugin: Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt p..."
+description: "Wenn es um Einstieg, Schnelltriage und Fallrouting in Fachanwalt Handels Gesellschaftsrecht in Fachanwalt Handels- und Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg, Schnelltriage und Fallrouting im Fachanwalt Handels Gesellschaftsrecht-Plugin

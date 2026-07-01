@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-quellenhygiene-robotik
-description: "Sichert Quellenhygiene: keine Paywall-Blindzitate, keine erfundenen Rechtsprechungsfundstellen, Normen live prüfen, Aktenzeichen nur verifiziert."
+description: "Wenn es um Anwaltliche Quellenhygiene Robotik in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Anwaltliche Quellenhygiene Robotik

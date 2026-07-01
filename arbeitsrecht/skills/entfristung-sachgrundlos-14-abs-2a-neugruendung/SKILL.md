@@ -1,6 +1,6 @@
 ---
 name: entfristung-sachgrundlos-14-abs-2a-neugruendung
-description: "Sachgrundlose Befristung bei Unternehmensneugründung nach Paragraf 14 Absatz 2a TzBfG: vier Jahre Gesamtdauer; Neugründungsprivileg; Voraussetzungen der Neugründung; Abgrenzung zu blossen Unternehme..."
+description: "Wenn es um Sachgrundlose Befristung bei Unternehmensneugründung nach Paragraf 14 Abs in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sachgrundlose Befristung bei Unternehmensneugründung nach Paragraf 14 Abs

@@ -1,6 +1,6 @@
 ---
 name: geheime-abstimmung-geschaeftsordnung
-description: "Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne, Auszählung und Dokumentation im Parteienrecht."
+description: "Wenn es um Geheime Abstimmung in Parteienrecht und Parteiorganisation geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Geheime Abstimmung Geschaeftsordnung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Geheime Abstimmung

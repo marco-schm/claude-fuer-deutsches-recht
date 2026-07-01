@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-verpflichteten-check
-description: "Prüft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verpflichtet ist. Anwendungsfall Unternehmen oder Kanzlei will wissen ob GwG-Pflichten bestehen und welche Konsequenzen das hat. Normen § 2 GwG Verpflichtetenkatalog § 2 Abs. 1 Nr. 10 GwG Rechtsanwaelte § 1 Abs. 24 GwG Gel..."
+description: "Wenn es um Verpflichtetenstatus nach GwG in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verpflichtetenstatus nach GwG

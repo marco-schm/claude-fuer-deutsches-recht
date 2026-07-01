@@ -1,6 +1,6 @@
 ---
 name: amtlicher-zpo-proz-bauleiter-eilverfahren
-description: "Amtlicher ZPO-Verfahrenscheck: ordnet Zuständigkeit, Schriftsatzform, Zustellung, Fristen, Klage, Beweis, Mahnverfahren, Vollstreckung, Arrest und einstweilige Verfügung anhand der aktuellen ZPO-Fassung im Prozessrecht."
+description: "Wenn es um Amtlicher ZPO-Verfahrenscheck in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Amtlicher ZPO-Verfahrenscheck

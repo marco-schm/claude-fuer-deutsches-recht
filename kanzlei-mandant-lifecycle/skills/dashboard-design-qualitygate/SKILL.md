@@ -1,6 +1,6 @@
 ---
 name: dashboard-design-qualitygate
-description: "Dashboard Design Qualitygate: steuert Dashboard so prüfen, dass es führt statt blendet: keine falsche Präzision, klare Owner, echte Risiken zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene."
+description: "Wenn es um Dashboard Design Qualitygate in Kanzlei-Mandant Lifecycle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dashboard Design Qualitygate

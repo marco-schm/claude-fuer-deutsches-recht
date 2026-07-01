@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg in das Normenkontrollrat-NKR-Plugin: Triage von Gesetzesvorhaben nach Erfüllungsaufwand, One-in-one-out, Digitalcheck, Befristung, Alternativenprüfung und Vollzugsfolgenabschätzung. Routet zum passenden Spezial-Skill und liefert bei Eile eine erste Stellungnahmen-Skizze für das Ressort."
+description: "Wenn es um Normenkontrollrat-NKR — Einstieg und Routing in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Normenkontrollrat-NKR — Einstieg und Routing

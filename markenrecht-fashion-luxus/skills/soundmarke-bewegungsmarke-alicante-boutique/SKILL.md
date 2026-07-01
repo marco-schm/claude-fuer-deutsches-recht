@@ -1,6 +1,6 @@
 ---
 name: soundmarke-bewegungsmarke-alicante-boutique
-description: "Hoermarken (Soundmarken) und Bewegungsmarken für Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schützen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3), MMA-Verfahren (Madrid). Prüfraster: Darstellungsanforderungen (Sonogramm, Notenschrif..."
+description: "Wenn es um Hörmarken (Soundmarken) und Bewegungsmarken in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hörmarken (Soundmarken) und Bewegungsmarken

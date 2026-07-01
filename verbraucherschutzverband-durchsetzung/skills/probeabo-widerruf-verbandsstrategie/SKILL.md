@@ -1,6 +1,6 @@
 ---
 name: probeabo-widerruf-verbandsstrategie
-description: "Verbraucherzentrale: Probeabo- und automatische Verlängerungsmodelle strategisch prüfen; EuGH C-565/22 Sofatutor, § 312j/312k/355 BGB, Widerrufsbelehrung, Kündigungsbutton, Anspruchsgruppen und Rückzahlungslogik im Verbraucherverband-Durchsetzung."
+description: "Wenn es um VDG 104 Probeabo Widerruf Verbandsstrategie in Verbraucherschutzverband Durchsetzung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # VDG 104 Probeabo Widerruf Verbandsstrategie

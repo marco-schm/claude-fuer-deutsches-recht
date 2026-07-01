@@ -1,6 +1,6 @@
 ---
 name: verfahren-durchsuchung-nachpruefung-dawn-raid
-description: "Verfahren / Durchsuchung Nachprüfung Dawn Raid: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis im BNetzA-Verfahren."
+description: "Wenn es um Verfahren: Durchsuchung Nachprüfung Dawn Raid in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Verfahren: Durchsuchung Nachprüfung Dawn Raid

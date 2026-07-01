@@ -1,6 +1,6 @@
 ---
 name: freiberufler-partg-gbr
-description: "Prüft Freiberuflerstrukturen, PartG, PartG mbB, Berufshaftpflicht und Berufsrecht im Gesellschaftsgruender."
+description: "Wenn es um Freiberufler, PartG und PartG mbB in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freiberufler, PartG und PartG mbB

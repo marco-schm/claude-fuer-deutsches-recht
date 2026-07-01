@@ -1,6 +1,6 @@
 ---
 name: susa-kreditorenliste-ova
-description: "Kreditoren-Saldenliste OVA Offene-Verbindlichkeiten-Auswertung. Anwendungsfall Monats- oder Quartalsauswertung Zahlungsdisposition Lieferanten-Analyse Bilanzvorbereitung. Methodik Fälligkeitsstaffel Top-Lieferanten Skonti-Optionen. Output Kreditoren-Liste mit Fälligkeit Zahlungsempfehlung."
+description: "Wenn es um Kreditoren-Saldenliste (OVA) — Offene Verbindlichkeiten in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreditoren-Saldenliste (OVA) — Offene Verbindlichkeiten

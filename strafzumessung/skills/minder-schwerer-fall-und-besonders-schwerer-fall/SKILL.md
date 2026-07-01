@@ -1,6 +1,6 @@
 ---
 name: minder-schwerer-fall-und-besonders-schwerer-fall
-description: "Strafrahmen-Modifikation durch minder schweren Fall (Strafrahmen-Senkung) und besonders schweren Fall (Strafrahmen-Anhebung). Gesamtwuerdigung aller Tat- und Taeter-Umstaende. Beziehung zu Regelbeispielen. Konkurrenz minder schwerer Fall vs. § 49 StGB. Prüfungsreihenfolge. Anwendungsfaelle § 213..."
+description: "Wenn es um Minder schwerer Fall und besonders schwerer Fall in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Minder schwerer Fall und besonders schwerer Fall

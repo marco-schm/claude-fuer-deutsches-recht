@@ -1,6 +1,6 @@
 ---
 name: insolvenzplan-intake-klassen
-description: "Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Staru..."
+description: "Wenn es um Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel

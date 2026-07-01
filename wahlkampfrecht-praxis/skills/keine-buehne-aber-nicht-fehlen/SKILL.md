@@ -1,6 +1,6 @@
 ---
 name: keine-buehne-aber-nicht-fehlen
-description: "Wahlkampfrecht Praxis: Alternativen entwickeln, wenn ein Podium nicht besucht werden soll im Wahlkampfrecht."
+description: "Wenn es um Keine Buehne Aber Nicht Fehlen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Keine Buehne Aber Nicht Fehlen

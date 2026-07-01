@@ -1,6 +1,6 @@
 ---
 name: zitiergebot-art-19-i-2-gg
-description: "Zitiergebot Art 19 I 2 GG als formelle Vorgabe fuer Eingriffsgesetze: das eingeschraenkte Grundrecht muss unter Angabe des Artikels genannt sein. Mit Anwendungsbereich, Ausnahmen (vorbehaltlose Grundrechte, Allgemeingesetze) und BVerfG-Linie."
+description: "Wenn es um Zitiergebot Art 19 I 2 GG in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Zitiergebot Art 19 I 2 GG

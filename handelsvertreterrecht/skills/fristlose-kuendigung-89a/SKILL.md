@@ -1,6 +1,6 @@
 ---
 name: fristlose-kuendigung-89a
-description: "Analysiert die außerordentliche fristlose Kündigung des Handelsvertretervertrags nach § 89a HGB: wichtiger Grund, Zweiwochenfrist ab Kenntniserlangung, Abmahnungserfordernis, Schadensersatzansprüche nach § 89a Abs. 2 HGB und Auswirkungen auf den Ausgleichsanspruch nach § 89b Abs. 3 Nr. 1 HGB im H..."
+description: "Wenn es um Fristlose Kündigung nach Paragraf 89a HGB — wichtiger Grund und Rechtsfolgen in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristlose Kündigung nach § 89a HGB — wichtiger Grund und Rechtsfolgen

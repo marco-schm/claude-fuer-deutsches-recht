@@ -1,6 +1,6 @@
 ---
 name: immo-grundschuld-bestellung-makler-honorar
-description: "Grundschuldbestellung: Vorlage Notarsurkunde, Sicherungsabrede, Verbraucher-Sicherungs-AGB §§ 305 ff. BGB, Beschraenkungen Vollstreckung bei Verbraucher. Loeschungsbewilligung nach Tilgung im Immobilienrechtspraxis."
+description: "Wenn es um Grundschuldbestellung in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grundschuldbestellung

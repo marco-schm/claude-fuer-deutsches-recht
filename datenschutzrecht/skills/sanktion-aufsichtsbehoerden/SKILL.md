@@ -1,6 +1,6 @@
 ---
 name: sanktion-aufsichtsbehoerden
-description: "Datenschutzrecht-Brückenskill: Auskunftsverlangen Art. 58 Abs. 1 DSGVO beantworten: Auskunfts-, Vorlage- und Prüfverlangen beantworten, ohne spätere Bußgeldverteidigung zu beschädigen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlic..."
+description: "Wenn es um Auskunftsverlangen Art. 58 Abs. 1 DSGVO beantworten in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Auskunftsverlangen Art. 58 Abs. 1 DSGVO beantworten

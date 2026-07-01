@@ -1,6 +1,6 @@
 ---
 name: krankenkassenregress-behandlungsfehler-und-erstattung
-description: "Regressansprüche der GKV gegen Leistungserbringer bei Behandlungsfehlern (§ 116 SGB X): Voraussetzungen, Höhe, Verjährung und Verhältnis zum Patientenanspruch im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Krankenkassenregress: Behandlungsfehler und Erstattung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenkassenregress: Behandlungsfehler und Erstattung

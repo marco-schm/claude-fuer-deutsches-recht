@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-mails-risikoampel-gegenargumente
-description: "Mails: Risikoampel, Gegenargumente und Verteidigungslinien: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahr..."
+description: "Wenn es um Mails: Risikoampel, Gegenargumente und Verteidigungslinien in E-Mail-Umformulierer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Mails Risikoampel Gegenargumente; Arbeitsfeld: E-Mail-Umformulierer."
 ---
 
 # Mails: Risikoampel, Gegenargumente und Verteidigungslinien

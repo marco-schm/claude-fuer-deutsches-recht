@@ -1,6 +1,6 @@
 ---
 name: strafrecht-tatbestand-beweis-und-belege
-description: "Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Wenn es um Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

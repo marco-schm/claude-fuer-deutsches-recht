@@ -1,6 +1,6 @@
 ---
 name: original-abschrift-kopie-und-elektronische-fassung
-description: "Klären, wann Original, beglaubigte Abschrift, einfache Kopie, Scan, elektronisches Dokument oder Ausdruck als Anlage sinnvoll oder erforderlich ist im Anlagen zu Schriftsätzen."
+description: "Wenn es um Original, Abschrift, Kopie und elektronische Fassung in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Original Abschrift Kopie Und Elektronische Fassung; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Original, Abschrift, Kopie und elektronische Fassung

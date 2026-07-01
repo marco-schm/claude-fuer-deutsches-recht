@@ -1,6 +1,6 @@
 ---
 name: solo-ki-output-fuer-kunden
-description: "Solo-Selbstständige: prüft Kennzeichnung, Rechte, Fehlerkontrolle und Haftung bei KI-Arbeitsergebnissen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis."
+description: "Wenn es um Grenzen Compliance und Selbstschutz: Prüft kennzeichnung in Solo-Selbstständige Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Grenzen Compliance und Selbstschutz: Prüft kennzeichnung

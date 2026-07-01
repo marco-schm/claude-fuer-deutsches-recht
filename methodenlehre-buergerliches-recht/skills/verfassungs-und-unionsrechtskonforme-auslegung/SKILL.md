@@ -1,6 +1,6 @@
 ---
 name: verfassungs-und-unionsrechtskonforme-auslegung
-description: "Verfassungs- und unionsrechtskonforme Auslegung im deutschen Zivilrecht: BVerfGE 7 198 Lueth-Drittwirkung der Grundrechte. EuGH Marleasing C-106/89 richtlinienkonforme Auslegung; EuGH..."
+description: "Wenn es um Verfassungs- und unionsrechtskonforme Auslegung im deutschen Zivilrecht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verfassungs- und unionsrechtskonforme Auslegung im deutschen Zivilrecht

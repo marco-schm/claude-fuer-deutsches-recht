@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-eilantrag-notfall
-description: "Laienverstaendlicher Sozialrechts-Skill zu Eilantrag Notfall. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung."
+description: "Wenn es um Laienhilfe: Eilantrag Notfall in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Laienhilfe: Eilantrag Notfall

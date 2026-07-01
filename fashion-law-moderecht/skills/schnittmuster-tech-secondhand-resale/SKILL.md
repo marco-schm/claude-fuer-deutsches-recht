@@ -1,6 +1,6 @@
 ---
 name: schnittmuster-tech-secondhand-resale
-description: "Schnittmuster, Tech Pack und Produktentwicklung rechtlich einordnen: Rechteinhaber, Know-how, Geheimhaltung, Herstellerzugang und Kopierrisiko im Fashion Law Moderecht."
+description: "Wenn es um Schnittmuster Und Tech Pack in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Schnittmuster Und Tech Pack

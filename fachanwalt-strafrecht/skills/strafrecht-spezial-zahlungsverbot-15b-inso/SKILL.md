@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-zahlungsverbot-15b-inso
-description: "Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschäftsleiter ab materieller Insolvenzreife: Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschäftsleiter ab materieller Insol..."
+description: "Wenn es um Strafrecht Spezial Zahlungsverbot 15b Inso in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschäftsleiter ab materieller Insolvenzreife

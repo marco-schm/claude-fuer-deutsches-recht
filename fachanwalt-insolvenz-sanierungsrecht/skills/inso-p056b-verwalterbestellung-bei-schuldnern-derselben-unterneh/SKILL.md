@@ -1,6 +1,6 @@
 ---
 name: inso-p056b-verwalterbestellung-bei-schuldnern-derselben-unterneh
-description: "§ 56b InsO (Verwalterbestellung bei Schuldnern derselben Unternehmensgruppe) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 56b InsO (Verwalterbestellung bei Schuldnern derselben Unterneh..."
+description: "Wenn es um Inso P056b Verwalterbestellung Bei Schuldnern Derselben Unterneh in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 56b InsO (Verwalterbestellung bei Schuldnern derselben Unternehmensgruppe) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

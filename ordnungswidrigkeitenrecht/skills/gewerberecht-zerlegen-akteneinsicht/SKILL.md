@@ -1,6 +1,6 @@
 ---
 name: gewerberecht-zerlegen-akteneinsicht
-description: "Gewerberecht: Tatbestand zerlegen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Gewerberecht Tatbestand Zerlegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gewerberecht Tatbestand Zerlegen

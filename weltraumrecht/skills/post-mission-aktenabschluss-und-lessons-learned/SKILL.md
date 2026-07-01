@@ -1,6 +1,6 @@
 ---
 name: post-mission-aktenabschluss-und-lessons-learned
-description: "Post-Mission-Abschluss – Vertragsabwicklung, Aktenaufbewahrung, Debriefing, Lessons Learned im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Post-Mission: Aktenabschluss und Lessons Learned in Weltraumrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Weltraumrecht: Post-Mission: Aktenabschluss und Lessons Learned

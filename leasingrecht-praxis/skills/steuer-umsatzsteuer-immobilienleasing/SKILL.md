@@ -1,6 +1,6 @@
 ---
 name: steuer-umsatzsteuer-immobilienleasing
-description: "Umsatzsteuer im Leasingrecht: Lieferung vs. sonstige Leistung, Entstehungszeitpunkt, Vorsteuerabzug, Sonderzahlungen und USt-Pflichtangaben im Leasingrecht."
+description: "Wenn es um Umsatzsteuer im Leasingrecht in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umsatzsteuer im Leasingrecht

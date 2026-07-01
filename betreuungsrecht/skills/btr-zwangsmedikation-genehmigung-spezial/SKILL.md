@@ -1,6 +1,6 @@
 ---
 name: btr-zwangsmedikation-genehmigung-spezial
-description: "Spezialfall Genehmigung Zwangsmedikation § 1832 BGB nach Reform: enge Voraussetzungen, Erforderlichkeit, weniger eingreifende Mittel, gerichtliche Anhörung Betroffener, Verfahrenspflegerbestellung. Prüfraster und Mustertexte."
+description: "Wenn es um Btr: Zwangsmedikation in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Btr: Zwangsmedikation

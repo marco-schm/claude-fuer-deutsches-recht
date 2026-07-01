@@ -1,6 +1,6 @@
 ---
 name: confidentiality-design-counterfeit
-description: "Design-Leak und Geheimhaltung in Modeprojekten behandeln: NDA, interne Zugriffe, Freelancer, Supplier, Presse, Social Media und Beweissicherung im Fashion Law Moderecht."
+description: "Wenn es um Confidentiality Design Leak in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Confidentiality Design Leak

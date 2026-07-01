@@ -1,6 +1,6 @@
 ---
 name: ar-betriebsuebergang-spezial
-description: "Betriebsübergang Paragraf 613a BGB im M&A-Kontext: Asset-Deal vs: Share-Deal, identitätswahrender Übergang (EuGH/BAG-Linie), Unterrichtungsschreiben Mindestinhalt, Widerspruchsrecht 1 Monat, Haftungsfolgen..."
+description: "Wenn es um Betriebsübergang Paragraf 613a BGB im M&A-Kontext: Asset-Deal vs in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsübergang Paragraf 613a BGB im M&A-Kontext: Asset-Deal vs

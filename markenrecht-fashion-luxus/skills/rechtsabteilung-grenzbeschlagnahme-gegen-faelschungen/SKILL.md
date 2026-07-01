@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-grenzbeschlagnahme-gegen-faelschungen
-description: "Rechtsabteilungs-Fachmodul für Grenzbeschlagnahme gegen Fälschungen: Zollanträge, Muster, Vernichtungsverfahren und Beweissicherung werden vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Markenrecht Fashion Luxus."
+description: "Wenn es um Rechtsabteilung: Grenzbeschlagnahme gegen Fälschungen in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Rechtsabteilung: Grenzbeschlagnahme gegen Fälschungen

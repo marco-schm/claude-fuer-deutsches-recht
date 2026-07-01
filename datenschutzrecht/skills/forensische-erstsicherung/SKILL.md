@@ -1,6 +1,6 @@
 ---
 name: forensische-erstsicherung
-description: "Steuert die forensische Erstsicherung nach einem Datenschutzvorfall im Zusammenspiel zwischen Mandant, interner IT, externem Forensiker und Anwaltskanzlei. Behandelt: Auswahl und Beauftragung des Forensikers; Mandatsstruktur mit Anwaltsprivileg; Scope; Triage versus tiefe Analyse; Berichtsformate..."
+description: "Wenn es um Forensische Erstsicherung — Beauftragung und Steuerung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Forensische Erstsicherung — Beauftragung und Steuerung

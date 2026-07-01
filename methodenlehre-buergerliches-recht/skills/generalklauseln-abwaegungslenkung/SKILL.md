@@ -1,6 +1,6 @@
 ---
 name: generalklauseln-abwaegungslenkung
-description: "Systematisiert den methodisch korrekten Umgang mit Generalklauseln wie Treu und Glauben, guten Sitten und Zumutbarkeit im Zivilrecht. Das Skill zeigt, wie Generalklauseln die Abwägung strukturieren und lenken, welche normativen Leitlinien für ihre Konkretisierung gelten und wie der Richter dabei..."
+description: "Wenn es um Generalklauseln als Abwägungslenker im Zivilrecht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Generalklauseln als Abwägungslenker im Zivilrecht

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Urteilsbauer/Relationsmacher: ordnet Rolle (Richter, Rechtspfleger, Parteien), markiert Frist (Verkündung), wählt Norm (ZPO § 313 Urteilsaufbau, Relationstechnik) und Zuständigkeit (Zivilgerichte), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Urteilsbauer und Relationsmacher geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

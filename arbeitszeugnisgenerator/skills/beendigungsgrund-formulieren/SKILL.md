@@ -1,6 +1,6 @@
 ---
 name: beendigungsgrund-formulieren
-description: "Formulierungskatalog für den Beendigungssatz im Zeugnis. Der Beendigungsgrund (Eigenkündigung, Arbeitgeberkündigung, Aufhebungsvertrag, Befristungsende, betriebsbedingte Kündigung) beeinflusst die Schlussformel und den Gesamteindruck. Enthält Standardformulierungen, Risikoformulierungen und klare Regeln, was nicht im Zeugnis stehen darf."
+description: "Wenn es um Beendigungsgrund formulieren in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beendigungsgrund formulieren

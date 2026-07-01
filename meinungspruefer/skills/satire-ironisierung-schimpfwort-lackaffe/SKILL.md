@@ -1,6 +1,6 @@
 ---
 name: satire-ironisierung-schimpfwort-lackaffe
-description: "Prüft satirische, ironische und bildhafte Äußerungen wie Pinocchio-Vergleiche. Trennt Lügenvorwurf, gebrochene Zusage, Werturteil, Tatsachenkern, Bildsprache, Publikum und Kontext im Meinungspruefer."
+description: "Wenn es um Satire, Ironie und Pinocchio-Vergleich in Meinungsprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Satire, Ironie und Pinocchio-Vergleich

@@ -1,6 +1,6 @@
 ---
 name: agb-entwurf-kaltstart
-description: "Einstiegs- und Prüfungslinie für AGB Entwurf Kaltstart: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Wenn es um AGB Entwurf Kaltstart in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # AGB Entwurf Kaltstart

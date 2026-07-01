@@ -1,6 +1,6 @@
 ---
 name: plan-cramdown-datenraum
-description: "Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen wenn ablehnende Gruppen oder Klassen vorhanden sind. § 245 InsO § 27 StaRUG Cramdown. Prüfraster: Schlechterstellung angemessene Beteiligung absolute Prioritaet Planmehrwert neue Finanzierung. Output: Cramdown-Check Obstruk..."
+description: "Wenn es um IV-integrierte Cram-down und Obstruktion in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # IV-integrierte Cram-down und Obstruktion

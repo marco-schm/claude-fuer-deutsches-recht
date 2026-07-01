@@ -1,6 +1,6 @@
 ---
 name: lph-02-streitfall-vorbereitung
-description: "HOAI LPH 2 Vorplanung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 2 Vorplanung: Macht aus der phase eine prozess-/schiedsgutachten- oder vergleichsakte in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # LPH 2 Vorplanung: Macht aus der phase eine prozess-/schiedsgutachten- oder vergleichsakte

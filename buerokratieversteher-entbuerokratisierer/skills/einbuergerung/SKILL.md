@@ -1,6 +1,6 @@
 ---
 name: einbuergerung
-description: "Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, Rückfragen, Verzögerung und Rechtsmittel im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Einbürgerung in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Einbürgerung

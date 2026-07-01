@@ -1,6 +1,6 @@
 ---
 name: mehrere-auftraggeber
-description: "Prüft mehrere Auftraggeber, wirtschaftliche Abhängigkeit, Hauptauftraggeber und zeitliche Kapazität im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Mehrere Auftraggeber in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mehrere Auftraggeber

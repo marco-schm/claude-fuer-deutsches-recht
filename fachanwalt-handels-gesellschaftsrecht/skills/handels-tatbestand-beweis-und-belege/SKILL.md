@@ -1,6 +1,6 @@
 ---
 name: handels-tatbestand-beweis-und-belege
-description: "Handels: Tatbestandsmerkmale, Beweisfragen und Beleglage im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nut..."
+description: "Wenn es um Handels Tatbestand Beweis Und Belege in Fachanwalt Handels- und Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Handels: Tatbestandsmerkmale, Beweisfragen und Beleglage im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.

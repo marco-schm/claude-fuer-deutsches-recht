@@ -1,6 +1,6 @@
 ---
 name: 01-anmeldung-pruefen-zustaendigkeit
-description: "Prüfung der Anmeldung: Formerfordernis (notarielle Beglaubigung Paragraf 12 HGB), Aktivlegitimation, Vollständigkeit der Anlagen, örtliche und sachliche Zuständigkeit Paragraf 376 FamFG i.V.m. RPflG"
+description: "Wenn es um 01 Anmeldung Prüfen Zuständigkeit in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # 01 Anmeldung Prüfen Zuständigkeit

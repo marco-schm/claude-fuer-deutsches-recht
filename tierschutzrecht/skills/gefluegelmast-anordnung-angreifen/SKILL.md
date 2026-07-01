@@ -1,6 +1,6 @@
 ---
 name: gefluegelmast-anordnung-angreifen
-description: "Geflügelmast: Anordnung angreifen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Gefluegelmast Anordnung Angreifen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gefluegelmast Anordnung Angreifen

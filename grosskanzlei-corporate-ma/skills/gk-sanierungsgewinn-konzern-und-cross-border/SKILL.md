@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-konzern-und-cross-border
-description: "Sanierungsgewinn in Konzernstrukturen und bei grenzüberschreitenden Sanierungen. Behandelt Forderungsverzichte zwischen Konzerngesellschaften, organschaftliche Verflechtungen, Verlustnutzung im internationalen Konzern, Wechselwirkung mit dem Außensteuergesetz, ATAD und EU-Beihilferecht. Liefert Strukturraster, Risiko-Marker für Cross-Border-Restrukturierung und Klauselbausteine. Adressat ist das Großkanzlei-Team in Konzern-Restrukturierungen und Multi-Jurisdiktions-Mandaten. Quellen Stand 06/2026."
+description: "Wenn es um Sanierungsgewinn – Konzern und Cross-Border in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gk Sanierungsgewinn Konzern Und Cross Border; Arbeitsfeld: Großkanzlei Corporate/M&A."
 ---
 
 # Sanierungsgewinn – Konzern und Cross-Border

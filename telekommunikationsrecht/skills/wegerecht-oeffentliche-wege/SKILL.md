@@ -1,6 +1,6 @@
 ---
 name: wegerecht-oeffentliche-wege
-description: "Wegerecht, Mitverlegung, Baustellenkoordination, Zustimmung, Wiederherstellung und Streit mit Straßenbaulastträgern im Telekommunikationsrecht."
+description: "Wenn es um Wegerecht für öffentliche Wege in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Wegerecht für öffentliche Wege

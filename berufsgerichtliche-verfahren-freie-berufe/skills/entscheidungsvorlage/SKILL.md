@@ -1,6 +1,6 @@
 ---
 name: entscheidungsvorlage
-description: "Entscheidungsvorlage: prüft macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtliche Verfahren Freie Berufe."
+description: "Wenn es um Entscheidungsvorlage in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Entscheidungsvorlage

@@ -1,6 +1,6 @@
 ---
 name: startup-ip-uebersetzung-verantwortung
-description: "Patentanwälte: startup ip budget warnung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Startup Ip Uebersetzung Verantwortung in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: startup ip budget warnung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

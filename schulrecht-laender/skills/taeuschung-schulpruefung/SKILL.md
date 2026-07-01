@@ -1,6 +1,6 @@
 ---
 name: taeuschung-schulpruefung
-description: "Prüft Täuschungsvorwürfe in Klassenarbeit, Prüfung und Abitur im Schulrecht Länder."
+description: "Wenn es um Taeuschung Schulpruefung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Taeuschung Schulpruefung

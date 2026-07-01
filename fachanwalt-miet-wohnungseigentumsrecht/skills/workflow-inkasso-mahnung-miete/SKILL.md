@@ -1,6 +1,6 @@
 ---
 name: workflow-inkasso-mahnung-miete
-description: "Inkasso/Mahnung Miete: Prüfungslinie für Miet- und WEG-Recht: erstellt Zahlungsplan, Mahnung, Kündigungsreife und Verjährungscheck; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und..."
+description: "Wenn es um Inkasso/Mahnung Miete: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Inkasso/Mahnung Miete: Prüfungslinie für Miet- und WEG-Recht

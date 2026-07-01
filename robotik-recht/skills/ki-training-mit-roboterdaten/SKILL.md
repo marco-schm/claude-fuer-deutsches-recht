@@ -1,6 +1,6 @@
 ---
 name: ki-training-mit-roboterdaten
-description: "Prüft Training und Nachtraining mit Roboterlogs, Video, Telemetrie, synthetischen Daten und Drittanbieterdaten."
+description: "Wenn es um digitale Werkzeuge-Training mit Roboterdaten in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI-Training mit Roboterdaten

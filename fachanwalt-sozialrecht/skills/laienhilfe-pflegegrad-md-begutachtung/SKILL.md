@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-pflegegrad-md-begutachtung
-description: "Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md Begutachtung: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, W..."
+description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md Begutachtung in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md Begutachtung

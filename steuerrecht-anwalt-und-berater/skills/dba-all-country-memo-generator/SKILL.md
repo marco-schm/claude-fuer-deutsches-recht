@@ -1,6 +1,6 @@
 ---
 name: dba-all-country-memo-generator
-description: "Generiert ein länderspezifisches DBA-Memo für jeden deutschen DBA-Staat aus Matrix, DBA-Text und Sachverhalt. Für Länder ohne eigenen Detail-Skill: Artikelroute, Einkunftsart, Methode, Quellensteuer, Beweise, Edge-Cases und offene Live-Prüfungen."
+description: "Wenn es um DBA-All-Country-Memo-Generator in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # DBA-All-Country-Memo-Generator

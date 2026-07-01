@@ -1,6 +1,6 @@
 ---
 name: lebensfuehrung-und-plausibilitaet
-description: "Prüft, welche Lebensstationen die Gewissensentscheidung stützen oder erklären im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Lebensführung und Plausibilität in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lebensführung und Plausibilität

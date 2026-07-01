@@ -1,6 +1,6 @@
 ---
 name: haager-zahlen-schwellen-und-berechnung
-description: "Haager: Zahlen, Schwellenwerte und Berechnung: Haager: Zahlen, Schwellenwerte und Berechnung."
+description: "Wenn es um Haager: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Transport Speditionsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Haager: Zahlen, Schwellenwerte und Berechnung

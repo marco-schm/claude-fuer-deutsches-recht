@@ -1,6 +1,6 @@
 ---
 name: bess-brandschutz-co-location-datenschutz
-description: "Prüft Brandabschnitte, Abstände, Löschwasserkonzept, Thermal Runaway, Zufahrt, Evakuierung und Einsatzplan im Energierecht."
+description: "Wenn es um Brandschutz und Feuerwehrkonzept Lithium-Ionen-Speicher in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Brandschutz und Feuerwehrkonzept Lithium-Ionen-Speicher

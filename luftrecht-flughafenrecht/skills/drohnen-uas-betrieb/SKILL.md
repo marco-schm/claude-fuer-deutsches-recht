@@ -1,6 +1,6 @@
 ---
 name: drohnen-uas-betrieb
-description: "Drohnenbetreiber braucht Betriebsgenehmigung oder Mandant ist nach Drohnenflug-Unfall in Haftungsfragen verwickelt. Prüft EU-VO 2019/947 Betriebskategorien Open/Specific/Certified LuftVG § 21a Registrierungspflicht LBA Versicherungspflicht EU-VO 785/2004 und liefert Genehmigungs-Checkliste und H..."
+description: "Wenn es um Drohnen und UAS-Betrieb – Genehmigung, Registrierung und Haftung in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drohnen und UAS-Betrieb – Genehmigung, Registrierung und Haftung

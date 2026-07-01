@@ -1,6 +1,6 @@
 ---
 name: regelverfahren-insolvenzverwalter
-description: "Regelinsolvenzverfahren nach Eroffnungsbeschluss umsetzen: Besitzuebergang Masse Tabelle Berichtstermin Verwertung. §§ 80 148 149 InsO §§ 151 ff. InsO Masseberechnung. Prüfraster: Verfuegungsbefugnis Bekanntmachungen Leistungssperren Massekonto Tabellenvorbereitung erste Verwertung. Output: Verfa..."
+description: "Wenn es um Regelverfahren nach Eröffnung in Insolvenzverwaltung - IV-Cockpit geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Regelverfahren nach Eröffnung

@@ -1,6 +1,6 @@
 ---
 name: bho-274-bund-laender-programm-parlamentsfrage
-description: "Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Bund Laender Programm Parlamentsfrage in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bund Laender Programm Parlamentsfrage

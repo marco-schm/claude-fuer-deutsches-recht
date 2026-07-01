@@ -1,6 +1,6 @@
 ---
 name: hausausweis-und-anhoerung
-description: "Prüft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Teilnahme an öffentlichen Anhoerungen nach § 6 LobbyRG. Output Zutrittscheck."
+description: "Wenn es um Hausausweis und Anhoerung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hausausweis und Anhoerung

@@ -1,6 +1,6 @@
 ---
 name: rumor-control-center
-description: "Wahlkampfrecht Praxis: Geruechtekontrolle für Teams und Kandidierende einrichten im Wahlkampfrecht."
+description: "Wenn es um Rumor Control Center in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rumor Control Center

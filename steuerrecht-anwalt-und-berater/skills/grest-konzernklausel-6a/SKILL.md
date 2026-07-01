@@ -1,6 +1,6 @@
 ---
 name: grest-konzernklausel-6a
-description: "§ 6a GrEStG Konzernklausel prüfen: Umwandlung, Einbringung, herrschendes Unternehmen, abhaengige Gesellschaft, 95-Prozent-Beteiligung, Vor- und Nachbehaltensfrist, BFH-Rechtsprechung und Risiken bei Umstrukturierungen."
+description: "Wenn es um GrESt: Konzernklausel Paragraf 6a in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GrESt: Konzernklausel § 6a

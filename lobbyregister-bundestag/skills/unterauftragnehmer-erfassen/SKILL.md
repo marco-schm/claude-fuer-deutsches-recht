@@ -1,6 +1,6 @@
 ---
 name: unterauftragnehmer-erfassen
-description: "Prüft Unterauftragsverhältnisse, eingesetzte Organisationen und natuerliche Personen im Verantwortungsbereich. Output Unterauftragskette im Lobbyregister Bundestag."
+description: "Wenn es um Unterauftragnehmer erfassen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterauftragnehmer erfassen

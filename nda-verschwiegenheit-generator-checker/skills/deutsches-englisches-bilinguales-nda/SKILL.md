@@ -1,6 +1,6 @@
 ---
 name: deutsches-englisches-bilinguales-nda
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Deutsches Englisches Bilinguales NDA; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Deutsches Englisches Bilinguales NDA in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsches Englisches Bilinguales NDA

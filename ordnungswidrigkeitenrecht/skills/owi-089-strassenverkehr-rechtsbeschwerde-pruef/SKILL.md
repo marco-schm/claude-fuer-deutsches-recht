@@ -1,6 +1,6 @@
 ---
 name: owi-089-strassenverkehr-rechtsbeschwerde-pruef
-description: "Ordnungswidrigkeitenrecht: Straßenverkehr: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Strassenverkehr Rechtsbeschwerde Pruef in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strassenverkehr Rechtsbeschwerde Pruef

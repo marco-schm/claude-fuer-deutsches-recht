@@ -1,6 +1,6 @@
 ---
 name: flughafenausbau-akteneinsicht-gutachten
-description: "Umweltschutzverband Verbandsklage: Flughafenausbau: Akteneinsicht erzwingen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Flughafenausbau Akteneinsicht Erzwinge in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Flughafenausbau Akteneinsicht Erzwinge

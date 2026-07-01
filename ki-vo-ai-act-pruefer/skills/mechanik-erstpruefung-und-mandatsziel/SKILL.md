@@ -1,6 +1,6 @@
 ---
 name: mechanik-erstpruefung-und-mandatsziel
-description: "Mechanik: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Mechanik: Erstprüfung, Rollenklärung und Mandatsziel in europäischem Technikregulierungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mechanik Erstpruefung Und Mandatsziel; Arbeitsfeld: europäischem Technikregulierungsrecht."
 ---
 
 # Mechanik: Erstprüfung, Rollenklärung und Mandatsziel

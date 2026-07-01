@@ -1,6 +1,6 @@
 ---
 name: ihl-084-sanctions-clause-drafting
-description: "Internationales Handelsrecht und Lex Mercatoria: Sanctions Clause Drafting. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Sanctions Clause Drafting in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanctions Clause Drafting

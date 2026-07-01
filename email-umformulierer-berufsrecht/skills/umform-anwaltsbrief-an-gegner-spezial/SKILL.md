@@ -1,6 +1,6 @@
 ---
 name: umform-anwaltsbrief-an-gegner-spezial
-description: "Spezialfall Anwaltsbrief an Gegner: anwaltliche Sorgfaltspflicht, kein unsachlicher Vorwurf, klare Forderung mit Frist. Prüfraster für Risikomanagement."
+description: "Wenn es um Umform: Anwaltsbrief Gegner in E-Mail-Umformulierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Umform: Anwaltsbrief Gegner

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-untreue-aktiengesellschaft-aktg-93
-description: "Untreue im Aktienrecht: Paragraph 266 StGB iVm Paragraph 93 AktG Sorgfaltspflicht des Vorstands. Business Judgment Rule Paragraph 93 Abs 1 Satz 2 AktG. Pflichtverletzung bei riskanten Unternehmensentscheidungen. Spendenpraxis Sponsor..."
+description: "Wenn es um Untreue im Aktienrecht in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Untreue im Aktienrecht

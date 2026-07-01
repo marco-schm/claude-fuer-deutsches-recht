@@ -1,6 +1,6 @@
 ---
 name: datenschutz-cyber-first-year-uebergangsrecht
-description: "Startet Datenschutz- und Cyberprüfung: Kameras, Mikrofone, Telemetrie, biometrische Daten, Beschäftigte, Patienten, DSFA, TOMs und CRA-Schnittstelle im Robotik-Recht."
+description: "Wenn es um Datenschutz-Cyber-Intake in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Datenschutz Cyber First Year Uebergangsrecht; Arbeitsfeld: robotik-recht."
 ---
 
 # Datenschutz-Cyber-Intake

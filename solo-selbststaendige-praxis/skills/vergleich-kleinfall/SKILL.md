@@ -1,6 +1,6 @@
 ---
 name: vergleich-kleinfall
-description: "Solo-Selbstständige: erstellt Vergleich mit Raten, Anerkenntnis, Kosten und Erledigung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Forderungen Mahnung und Streit: Erstellt vergleich mit raten in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Forderungen Mahnung und Streit: Erstellt vergleich mit raten

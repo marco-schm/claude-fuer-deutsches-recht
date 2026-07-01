@@ -1,6 +1,6 @@
 ---
 name: spezial-sicht-tatbestand-beweis-und-belege
-description: "Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin insolvenzverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage

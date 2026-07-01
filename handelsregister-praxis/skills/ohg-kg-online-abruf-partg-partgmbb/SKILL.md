@@ -1,6 +1,6 @@
 ---
 name: ohg-kg-online-abruf-partg-partgmbb
-description: "Prüft kaufmännischen Betrieb, Statuswechsel, Anmeldung, Gesellschafter, Vertretung und MoPeG-Schnittstellen im Handelsregister Praxis."
+description: "Wenn es um GbR/eGbR zu OHG/KG in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # GbR/eGbR zu OHG/KG

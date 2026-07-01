@@ -1,6 +1,6 @@
 ---
 name: gbo-antrag-gbr-egbr-genehmigungen
-description: "Prüft GBO-Mechanik aus Antrag, Bewilligung, Eintragungsfähigkeit, Eintragungsreife und Vollzugshindernis im Grundbuchamt Praxis."
+description: "Wenn es um Antrag, Bewilligung, Eintragung in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Antrag, Bewilligung, Eintragung

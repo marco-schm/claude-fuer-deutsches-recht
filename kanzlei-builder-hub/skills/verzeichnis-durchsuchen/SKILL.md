@@ -1,6 +1,6 @@
 ---
 name: verzeichnis-durchsuchen
-description: "Skill-Verzeichnis nach Rechtsgebiet, Norm oder Mandantentyp durchsuchen. Normen: technisch/intern. Prüfraster: Suchbegriff, Kategoriefilter, Ergebnispriorisierung. Output: Suchergebnisliste Skills. Abgrenzung: nicht Skill-Installation oder -verwaltung."
+description: "Wenn es um /verzeichnis-durchsuchen — Skill-Registry-Browser in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # /verzeichnis-durchsuchen — Skill-Registry-Browser

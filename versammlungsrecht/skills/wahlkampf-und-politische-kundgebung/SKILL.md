@@ -1,6 +1,6 @@
 ---
 name: wahlkampf-und-politische-kundgebung
-description: "Prüft Wahlkampfstände, Kandidatenauftritte, Parteiveranstaltungen, Gegendemonstrationen und kommunale Neutralitätsfragen im Versammlungsrecht."
+description: "Wenn es um Wahlkampf im öffentlichen Raum in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wahlkampf im öffentlichen Raum

@@ -1,6 +1,6 @@
 ---
 name: simulation-training-verjaehrung-zustellung
-description: "Simulationstraining für OWi-Mandate. Uebungsszenarien Messverfahren Rotlicht Handy Alkohol Fahreridentifizierung. Rollenspiel Mandantengespraeche Hauptverhandlung. Fallvarianten mit Erwartungshorizont. Training ohne echte Mandatsdaten im Verkehrsowi Verteidiger."
+description: "Wenn es um Simulationstraining OWi-Mandate in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Simulationstraining OWi-Mandate

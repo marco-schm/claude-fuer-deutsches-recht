@@ -1,6 +1,6 @@
 ---
 name: kueschk-stricken-anwalt-risiko-und-vergleichsdruck
-description: "KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts: Risiko dass Arbeitgeber spaet nachgibt wenn Arbeitnehmer neuen Job hat und Rückkehrpflicht droht; Aufloeungsantrag Paragraf..."
+description: "Wenn es um KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts

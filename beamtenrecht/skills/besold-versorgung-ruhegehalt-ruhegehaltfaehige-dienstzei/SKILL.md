@@ -1,6 +1,6 @@
 ---
 name: besold-versorgung-ruhegehalt-ruhegehaltfaehige-dienstzei
-description: "Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit im Beamtenrecht."
+description: "Wenn es um Besold Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Besold Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei

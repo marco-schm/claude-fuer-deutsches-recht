@@ -1,6 +1,6 @@
 ---
 name: redispatch-3-0-spezial
-description: "Spezialfall Redispatch 3.0: Einbeziehung Anlagen kleiner 100 kW, Marktrolle EIV, Datenaustauschformate, Entschaedigung, Bilanzierungsverantwortung. Prüfraster für Anlagenbetreiber und Aggregator. Schnittstelle Marktstammdatenregister im Energierecht."
+description: "Wenn es um Energie: Redispatch 3.0 in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Energie: Redispatch 3.0

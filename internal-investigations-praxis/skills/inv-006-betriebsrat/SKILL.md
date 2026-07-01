@@ -1,6 +1,6 @@
 ---
 name: inv-006-betriebsrat
-description: "Prueft Beteiligung des Betriebsrats bei Befragung, Ordnung im Betrieb, technischen Kontrollen und Auswertung von Mitarbeiterdaten."
+description: "Wenn es um Betriebsrat und Mitbestimmung in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsrat und Mitbestimmung

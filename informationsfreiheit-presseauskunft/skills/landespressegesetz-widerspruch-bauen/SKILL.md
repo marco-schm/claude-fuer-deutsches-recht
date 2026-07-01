@@ -1,6 +1,6 @@
 ---
 name: landespressegesetz-widerspruch-bauen
-description: "Informationsfreiheit und Presseauskunft: Landespressegesetz: Widerspruch bauen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Landespressegesetz Widerspruch Bauen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Landespressegesetz Widerspruch Bauen

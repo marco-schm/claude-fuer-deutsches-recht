@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-cites-artenschutz
-description: "Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflanzen: VO (EG) 338/97 und CITES-Uebereinkommen. CITES-Genehmigungsverfahren Anhang A-D, zuständige Behörden (BfN, Zoll), Ausnahmen und Bescheinigungen. Fallkonstellation: Kunsthaendler importiert Elfenbein-Antiken. Outp..."
+description: "Wenn es um CITES-Artenschutz: Genehmigungen für geschuetzte Arten im Aussenhandel in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CITES-Artenschutz: Genehmigungen für geschuetzte Arten im Aussenhandel

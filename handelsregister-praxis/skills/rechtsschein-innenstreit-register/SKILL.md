@@ -1,6 +1,6 @@
 ---
 name: rechtsschein-innenstreit-register
-description: "Trennt materielles Gesellschaftsrecht, Registerlage, Vertretungsmacht und Gutglaubensschutz im Handelsregister Praxis."
+description: "Wenn es um Innenstreit trotz Registerschein in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Innenstreit trotz Registerschein

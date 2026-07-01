@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-anhoerung
-description: "Prüft die Betriebsratsanhörung vor Kündigung nach Paragraf 102 BetrVG mit Kündigungsabsicht, Sozialdaten, Kündigungsgrund, Fristen, Nachschieben von Gründen und Rechtsfolge der Unwirksamkeit."
+description: "Wenn es um Betriebsratsanhörung vor Kündigung in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betriebsratsanhörung vor Kündigung

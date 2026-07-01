@@ -1,6 +1,6 @@
 ---
 name: spezial-kirchenasyl
-description: "Kirchenasyl: Spezial-Skill im Migrationsrecht; prüft Dublin-Praxis, Dossier, Fristen, Behördenkommunikation; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Kirchenasyl in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kirchenasyl

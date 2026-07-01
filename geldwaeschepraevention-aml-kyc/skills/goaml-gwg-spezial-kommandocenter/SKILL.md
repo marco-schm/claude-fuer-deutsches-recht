@@ -1,6 +1,6 @@
 ---
 name: goaml-gwg-spezial-kommandocenter
-description: "Goaml: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Goaml: Risikoampel, Gegenargumente und Verteidigungslinien in Geldwäscheprävention, AML und KYC geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Goaml: Risikoampel, Gegenargumente und Verteidigungslinien

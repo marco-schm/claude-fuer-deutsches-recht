@@ -1,6 +1,6 @@
 ---
 name: beirat-katalog-wesentlicher-kontrollfunktion
-description: "GmbH-Beirat im Mittelstand: Katalog zustimmungsbedürftiger Geschäfte, Kontrollfunktion, Geschäftsführungsautonomie, Deadlock-Vermeidung, Schwellenwerte, Eilkompetenz und beschlussfeste Beiratsordnung."
+description: "Wenn es um Beirat: Katalog Wesentlicher Geschäfte Und Kontrollfunktion in Mittelstands-Corporate/M&A geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Beirat: Katalog Wesentlicher Geschäfte Und Kontrollfunktion

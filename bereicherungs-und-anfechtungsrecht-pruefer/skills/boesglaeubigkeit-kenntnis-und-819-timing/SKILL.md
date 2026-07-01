@@ -1,6 +1,6 @@
 ---
 name: boesglaeubigkeit-kenntnis-und-819-timing
-description: "Bei der Zeitpunkt der Kenntnis über den Umfang der Haftung entscheidet. Normen: §§ 819 und 820 BGB; § 818 Abs. 4 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebra..."
+description: "Wenn es um Bösgläubigkeit, Kenntnis und Paragraf 819 Timing in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bösgläubigkeit, Kenntnis und § 819 Timing

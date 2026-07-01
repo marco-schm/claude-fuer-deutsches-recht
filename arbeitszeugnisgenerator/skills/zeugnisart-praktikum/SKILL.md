@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-praktikum
-description: "Aufbau und Besonderheiten des Praktikumszeugnisses. Kein gesetzlicher Anspruch auf Leistungs-/Verhaltensaussage nach Paragraf 109 GewO bei Praktikantenverhältnissen — analoge Anwendung ist jedoch üblich. Enthält vollständiges Musterzeugnis, Formulierungen für Lernfortschritt und Engagement sowie Hinweise auf häufige Fehler."
+description: "Wenn es um Zeugnisart: Praktikumszeugnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zeugnisart: Praktikumszeugnis

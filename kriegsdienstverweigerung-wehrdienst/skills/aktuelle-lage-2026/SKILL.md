@@ -1,6 +1,6 @@
 ---
 name: aktuelle-lage-2026
-description: "Prüft keine aktive Einberufung, fortbestehendes KDV-Recht und WDModG-Änderungen im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Aktuelle Lage 2026 in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aktuelle Lage 2026

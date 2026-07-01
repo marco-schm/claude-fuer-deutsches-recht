@@ -1,6 +1,6 @@
 ---
 name: verfassung-parteiverbot
-description: "Parteiverbot und Finanzierungsausschluss nach Art. 21 GG prüfen: Antragsberechtigung, Parteienprivileg, freiheitliche demokratische Grundordnung, Potentialität, V-Leute-Risiken, Beweisprogramm, Rechtsfolgen nach BVerfGG/PartG und Abgrenzung zu Vereinsverbot und Verfassungsschutzbeobachtung."
+description: "Wenn es um Parteiverbot und Finanzierungsausschluss in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Parteiverbot und Finanzierungsausschluss

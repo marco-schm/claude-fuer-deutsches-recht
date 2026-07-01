@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-konfliktverteidigung-vs-dysfunktional
-description: "Konfliktverteidigung gegen den Vorwurf der Dysfunktionalitaet sauber abgrenzen: Schwerpunkt liegt im aktiven Akt. Konfliktverteidigung ist Negation der Verfahrensherrschaft des..."
+description: "Wenn es um Konfliktverteidigung gegen den Vorwurf der Dysfunktionalitaet sauber abgrenzen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konfliktverteidigung gegen den Vorwurf der Dysfunktionalitaet sauber abgrenzen

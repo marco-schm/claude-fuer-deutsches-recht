@@ -1,6 +1,6 @@
 ---
 name: cramdown-1129b-credit-bidding-creditors
-description: "Prüft fair and equitable, no unfair discrimination, secured creditor treatment and impaired dissenting classes im US Bankruptcy Code."
+description: "Wenn es um Cramdown Paragraf 1129(b) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cramdown § 1129(b)

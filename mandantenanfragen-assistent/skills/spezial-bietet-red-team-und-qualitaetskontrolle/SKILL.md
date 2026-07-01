@@ -1,6 +1,6 @@
 ---
 name: spezial-bietet-red-team-und-qualitaetskontrolle
-description: "Bietet: Red-Team und Qualitätskontrolle im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Bietet: Red-Team und Qualitätskontrolle in mandantenanfragen-assistent geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bietet: Red-Team und Qualitätskontrolle

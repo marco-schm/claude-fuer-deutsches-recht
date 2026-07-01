@@ -1,6 +1,6 @@
 ---
 name: gap-direktzahlungen-antrag
-description: "Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023: Konditionalitaet (GLOEZ-Standards) Oeko-Regelungen Junglandwirte-Praemie gekoppelte Stuetzung. Sanktionen bei Ver..."
+description: "Wenn es um Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023 in Fachanwalt Agrarrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023

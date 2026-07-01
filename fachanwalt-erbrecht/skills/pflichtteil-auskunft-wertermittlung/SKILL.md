@@ -1,6 +1,6 @@
 ---
 name: pflichtteil-auskunft-wertermittlung
-description: "Pflichtteil: Auskunft, notarielles Nachlassverzeichnis, Wertermittlung, Ergänzung und taktische Stufenklage: Normanker: BGB §§ 2303 und 2314 und 2..."
+description: "Wenn es um Pflichtteil Auskunft Wertermittlung in Fachanwalt Erbrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Pflichtteil: Auskunft, notarielles Nachlassverzeichnis, Wertermittlung, Ergänzung und taktische Stufenklage.

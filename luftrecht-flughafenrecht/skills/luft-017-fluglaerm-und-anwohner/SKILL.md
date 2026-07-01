@@ -1,6 +1,6 @@
 ---
 name: luft-017-fluglaerm-und-anwohner
-description: "Luftrecht und Flughafenrecht: Fluglärm und Anwohner. Fluglärm und Anwohner im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Fluglaerm Und Anwohner in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fluglaerm Und Anwohner

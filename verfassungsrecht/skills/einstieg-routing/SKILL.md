@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Verfassungsrecht: ordnet Rolle (Beschwerdeführer, Beschwerdegegner, BVerfG), markiert Frist (§ 93 BVerfGG 1 Monat Verfassungsbeschwerde), wählt Norm (GG, BVerfGG, Landesverfassungen) und Zuständigkeit (BVerfG), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in verfassungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

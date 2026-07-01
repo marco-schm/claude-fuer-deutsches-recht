@@ -1,6 +1,6 @@
 ---
 name: insolvenzreife-pruefung-17-19-inso
-description: "Prüfungslinie für anw insolvenzreife prüfung 17 19 inso im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Anwaltliche Insolvenzreife-Prüfung Paragrafen 17. 19 InsO (Steueranwalts-Sicht) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Anwaltliche Insolvenzreife-Prüfung §§ 17, 19 InsO (Steueranwalts-Sicht)

@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-netzentgelte-strom-fristen-und-bescheid
-description: "Netzentgelte Strom: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: Netzentgelte Strom — Fristen- und Bescheidanalyse in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energie-Regulierungsakte: Netzentgelte Strom — Fristen- und Bescheidanalyse

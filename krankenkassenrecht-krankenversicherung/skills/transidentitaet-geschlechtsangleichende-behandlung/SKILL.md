@@ -1,6 +1,6 @@
 ---
 name: transidentitaet-geschlechtsangleichende-behandlung
-description: "GKV-Leistungspflicht für geschlechtsangleichende Maßnahmen: Hormontherapie, operative Eingriffe, Diagnostik, MDK-Prüfung und aktuelle BSG-Rechtsprechung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Transidentität: Geschlechtsangleichende Behandlung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transidentität: Geschlechtsangleichende Behandlung

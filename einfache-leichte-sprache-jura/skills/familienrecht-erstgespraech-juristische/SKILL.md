@@ -1,6 +1,6 @@
 ---
 name: familienrecht-erstgespraech-juristische
-description: "Familienrecht Erstgespraech in Einfacher Sprache: Trennung, Scheidung, Unterhalt, Sorgerecht, Umgang. Vorlage Memo für den Mandanten: 'Was muessen Sie wissen, was muessen Sie entscheiden?' Sprachlich barrierearm im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale..."
+description: "Wenn es um ELS-J Familienrecht-Erstgespraech in Einfache und Leichte Sprache für juristische Texte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # ELS-J Familienrecht-Erstgespraech

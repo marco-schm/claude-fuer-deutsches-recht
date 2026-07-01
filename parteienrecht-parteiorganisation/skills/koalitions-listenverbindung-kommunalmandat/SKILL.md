@@ -1,6 +1,6 @@
 ---
 name: koalitions-listenverbindung-kommunalmandat
-description: "Prüft wahlrechtlich zulässige Kooperationen, gemeinsame Listen, Wählergruppen und Satzung im Parteienrecht."
+description: "Wenn es um Kooperationen und Listenverbindungen in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Koalitions Listenverbindung Kommunalmandat; Arbeitsfeld: Parteienrecht und Parteiorganisation."
 ---
 
 # Kooperationen und Listenverbindungen

@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-mandatsstrategie-arbeitszeit
-description: "Mandatsstrategie im Beamtenrecht: leise Lösung, Widerspruch, Eilverfahren, Presse-/Personalratsrisiken und Vergleich im Beamtenrecht."
+description: "Wenn es um Anwaltliche Mandatsstrategie Beamtenrecht in Beamtenrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Anwaltliche Mandatsstrategie Beamtenrecht

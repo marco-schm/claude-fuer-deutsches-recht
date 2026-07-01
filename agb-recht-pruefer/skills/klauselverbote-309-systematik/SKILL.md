@@ -1,6 +1,6 @@
 ---
 name: klauselverbote-309-systematik
-description: "Norm- und Dogmatik-Skill für Klauselverbote 309 Systematik: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+description: "Wenn es um Klauselverbote 309 Systematik in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Klauselverbote 309 Systematik

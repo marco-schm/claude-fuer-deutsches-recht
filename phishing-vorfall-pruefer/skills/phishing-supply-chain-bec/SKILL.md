@@ -1,6 +1,6 @@
 ---
 name: phishing-supply-chain-bec
-description: "Business Email Compromise (BEC), Rechnungs-Phishing: gefaelschte Lieferantenrechnung mit geaenderter IBAN. Vertragsrechtliche Folgen, schuldbefreiende Zahlung an falsche IBAN. Prüfraster: Anscheinsbeweis Zahlung an Gläubiger? Rueckforderung Zahlungsempfaenger im Phishing Vorfall Prüfer."
+description: "Wenn es um BEC/Rechnungs-Phishing in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BEC/Rechnungs-Phishing

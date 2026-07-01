@@ -1,6 +1,6 @@
 ---
 name: debattenvorbereitung
-description: "Wahlkampfrecht Praxis: Kandidierende auf Debatte, Townhall oder TV-Runde vorbereiten im Wahlkampfrecht."
+description: "Wenn es um Debattenvorbereitung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Debattenvorbereitung

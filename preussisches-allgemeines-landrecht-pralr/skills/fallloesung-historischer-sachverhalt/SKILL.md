@@ -1,6 +1,6 @@
 ---
 name: fallloesung-historischer-sachverhalt
-description: "PrALR: historische Fälle nach Ort, Jahr, Stand, Rechtsquelle, Anspruch, Einwendung und Vollzug lösen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Historische Falllösung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fallloesung Historischer Sachverhalt; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Historische Falllösung

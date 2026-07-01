@@ -1,6 +1,6 @@
 ---
 name: bund-laender-programm-umschichtung-sperre
-description: "Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Bund Länder Programm Titel Prüfen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bund Länder Programm Titel Prüfen

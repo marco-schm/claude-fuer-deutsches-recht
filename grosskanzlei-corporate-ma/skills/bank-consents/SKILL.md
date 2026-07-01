@@ -1,6 +1,6 @@
 ---
 name: bank-consents
-description: "Bank Consents und Change-of-Control in Finanzierungsvertraegen: erkennt Consent-Pflichten, Default-Risiken, Waiver-Bedarf und Closing-CPs."
+description: "Wenn es um Bank Consents Change Control in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bank Consents; Arbeitsfeld: Großkanzlei Corporate/M&A."
 ---
 
 # Bank Consents Change Control

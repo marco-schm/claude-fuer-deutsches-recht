@@ -1,6 +1,6 @@
 ---
 name: inso-kongruente-deckung-130
-description: "Kongruente Deckungsanfechtung nach § 130 InsO prüfen: geschuldete Sicherung oder Befriedigung, Drei-Monats-Zeitraum vor Insolvenzantrag oder Handlung nach Antrag, Zahlungsunfähigkeit, Kenntnis oder zwingende Kenntnisumstände, Margensicherheiten-Ausnahme, Abgrenzung zu § 131 und § 142 InsO. Output"
+description: "Wenn es um Kongruente Deckung — Paragraf 130 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Inso Kongruente Deckung 130; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # Kongruente Deckung — § 130 InsO

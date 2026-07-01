@@ -1,6 +1,6 @@
 ---
 name: personen-politisches-presserecht-plattformen
-description: "Prüft § 188 StGB bei Äußerungen gegen Personen des politischen Lebens. Klärt Öffentlichkeit, Zusammenhang mit Stellung, Eignung zur Erschwerung öffentlichen Wirkens und die verfassungsrechtliche Machtkritik im Meinungspruefer."
+description: "Wenn es um Paragraf 188 StGB - Personen des politischen Lebens in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 188 StGB - Personen des politischen Lebens

@@ -1,6 +1,6 @@
 ---
 name: translation-de-en-pe-terms
-description: "Übersetzt PE-/Credit-Begriffe zwischen deutscher Rechtslogik und englischer Dealsprache im Private Equity Praxis."
+description: "Wenn es um DE/EN PE-Terms: präzise übersetzen in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DE/EN PE-Terms: präzise übersetzen

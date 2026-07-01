@@ -1,6 +1,6 @@
 ---
 name: pflegezeiten-rentenpunkte
-description: "Rentenpunkte durch Pflege: Pflegegrad, Pflegeumfang, Erwerbstätigkeit, Pflegekasse und Beitragsmeldung im Rentenpruefer."
+description: "Wenn es um pflegezeiten-rentenpunkte in Rentenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # pflegezeiten-rentenpunkte

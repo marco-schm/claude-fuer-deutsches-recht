@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-meta-plattformdaten-als-kartell-und-datenschutzs
-description: "Rechtsabteilungs-Fachmodul für Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle: Dominanz, Datenzusammenführung und Datenschutzrecht werden in einer Vorstandsnotiz zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Kartellrecht (Marktabgre..."
+description: "Wenn es um Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle

@@ -1,6 +1,6 @@
 ---
 name: luft-063-ersatzteillager-pfandrecht-vorbereiten
-description: "Luftrecht und Flughafenrecht: Ersatzteillager: Pfandrecht vorbereiten. Pfandrecht vorbereiten für Ersatzteillager im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Ersatzteillager Pfandrecht Vorbereiten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ersatzteillager Pfandrecht Vorbereiten

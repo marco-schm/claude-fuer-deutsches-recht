@@ -1,6 +1,6 @@
 ---
 name: unfallruhegehalt-36-beamtvg
-description: "Skill zum Unfallruhegehalt nach § 36 BeamtVG bei Dienstbeschaedigung. Klaert Anspruchsvoraussetzung qualifizierter Dienstunfall Bemessungsgrundlage und erhoehter Ruhegehaltssatz Verhältnis zum regulaeren Ruhegehalt sowie Sonderfaelle wie Einsatzunfaelle der Bundeswehr und Bundespolizei. Behandel..."
+description: "Wenn es um Unfallruhegehalt nach Paragraf 36 BeamtVG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unfallruhegehalt nach § 36 BeamtVG

@@ -1,6 +1,6 @@
 ---
 name: muendliche-anhoerung-vorbereitung
-description: "Bereitet nichtöffentliche mündliche Anhörung ohne auswendig gelernte Musterantworten vor im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Mündliche Anhörung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mündliche Anhörung

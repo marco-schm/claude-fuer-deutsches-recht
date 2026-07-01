@@ -1,6 +1,6 @@
 ---
 name: personalhaushalt-vollzug-tracken
-description: "Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Vollzug tracken im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Personalhaushalt Vollzug Tracken in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Personalhaushalt Vollzug Tracken

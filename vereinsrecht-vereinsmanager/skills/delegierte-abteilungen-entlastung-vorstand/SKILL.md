@@ -1,6 +1,6 @@
 ---
 name: delegierte-abteilungen-entlastung-vorstand
-description: "Gestaltet Delegiertenversammlung, Sparten, Abteilungen, Jugendordnung und interne Kompetenzen im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Delegierte und Abteilungen in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Delegierte und Abteilungen

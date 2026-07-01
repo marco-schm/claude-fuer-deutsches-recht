@@ -1,6 +1,6 @@
 ---
 name: mediation-settlement-meeting-creditors
-description: "Prüft compromise approval, estate benefit, notice, fairness factors and structured settlements im US Bankruptcy Code."
+description: "Wenn es um Settlement and Rule 9019 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Settlement and Rule 9019

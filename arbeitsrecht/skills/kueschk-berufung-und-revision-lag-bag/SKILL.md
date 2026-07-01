@@ -1,6 +1,6 @@
 ---
 name: kueschk-berufung-und-revision-lag-bag
-description: "Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen je einen Monat und zwei Monate: Zulassungsgründe Revision; Kosten ab zweiter Instanz; Diverge..."
+description: "Wenn es um Kueschk Berufung Und Revision Lag Bag in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen je einen Monat und zwei Monate

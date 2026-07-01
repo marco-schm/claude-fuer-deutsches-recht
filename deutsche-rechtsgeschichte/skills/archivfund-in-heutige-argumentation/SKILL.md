@@ -1,6 +1,6 @@
 ---
 name: archivfund-in-heutige-argumentation
-description: "Deutsche Rechtsgeschichte: Archivfund in heutige juristische Argumentation einbauen. Methodische Bruecke zwischen historischem Beleg und aktuellem Rechtsproblem ohne Anachronismus im Deutsche Rechtsgeschichte."
+description: "Wenn es um Archivfund in heutige Argumentation in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Archivfund in heutige Argumentation

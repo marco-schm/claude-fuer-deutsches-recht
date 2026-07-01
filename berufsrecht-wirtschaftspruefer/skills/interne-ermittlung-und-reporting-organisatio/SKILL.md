@@ -1,6 +1,6 @@
 ---
 name: interne-ermittlung-und-reporting-organisatio
-description: "Wirtschaftsprüfer: interne ermittlung und reporting - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Interne Ermittlung Und Reporting Organisatio in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: interne ermittlung und reporting - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: genehmigungen-gerichtskontakt
-description: "Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe i..."
+description: "Wenn es um Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel

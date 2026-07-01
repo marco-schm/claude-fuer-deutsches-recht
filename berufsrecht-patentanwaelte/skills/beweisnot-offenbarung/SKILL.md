@@ -1,6 +1,6 @@
 ---
 name: beweisnot-offenbarung
-description: "Patentanwälte: beweisnot bei offenbarung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Beweisnot Offenbarung in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Patentanwälte: beweisnot bei offenbarung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

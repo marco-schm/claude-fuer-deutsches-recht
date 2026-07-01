@@ -1,6 +1,6 @@
 ---
 name: inso-p144-anspruche-des-anfechtungsgegners
-description: "§ 144 InsO (Ansprüche des Anfechtungsgegners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 144 InsO (Ansprüche des Anfechtungsgegners) im Mandat prüfen: Normzweck, Tatbestand, Belege, R..."
+description: "Wenn es um Inso P144 Anspruche Des Anfechtungsgegners in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 144 InsO (Ansprüche des Anfechtungsgegners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

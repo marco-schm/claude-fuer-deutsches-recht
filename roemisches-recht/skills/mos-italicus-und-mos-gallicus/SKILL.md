@@ -1,6 +1,6 @@
 ---
 name: mos-italicus-und-mos-gallicus
-description: "Römisches Recht: Mos Italicus Und Mos Gallicus. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Mos Italicus Und Mos Gallicus in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mos Italicus Und Mos Gallicus

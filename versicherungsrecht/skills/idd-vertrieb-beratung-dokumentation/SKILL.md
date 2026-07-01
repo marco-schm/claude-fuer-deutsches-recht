@@ -1,6 +1,6 @@
 ---
 name: idd-vertrieb-beratung-dokumentation
-description: "Versicherungsvertrieb: Beratungspflichten, Geeignetheit, Beratungsdokumentation, Provision, Makler/Vertreter, Onlineabschluss und Haftung im Versicherungsrecht."
+description: "Wenn es um IDD/VVG-Vertrieb: Beratung und Dokumentation in Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # IDD/VVG-Vertrieb: Beratung und Dokumentation

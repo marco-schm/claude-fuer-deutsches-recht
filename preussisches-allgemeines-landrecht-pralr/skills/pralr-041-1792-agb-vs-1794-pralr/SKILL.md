@@ -1,6 +1,6 @@
 ---
 name: pralr-041-1792-agb-vs-1794-pralr
-description: "PrALR: Allgemeines Gesetzbuch 1792 und Allgemeines Landrecht 1794 unterscheiden, politische Nachschärfungen erkennen."
+description: "Wenn es um 1792 vs. 1794 in Preußisches Allgemeines Landrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Pralr 041 1792 Agb Vs 1794 Pralr; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # 1792 vs. 1794

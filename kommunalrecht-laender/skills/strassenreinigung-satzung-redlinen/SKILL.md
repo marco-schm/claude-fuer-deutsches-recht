@@ -1,6 +1,6 @@
 ---
 name: strassenreinigung-satzung-redlinen
-description: "der Länder: Straßenreinigung: Satzung redlinen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Strassenreinigung Satzung Redlinen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strassenreinigung Satzung Redlinen

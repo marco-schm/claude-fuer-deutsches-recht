@@ -1,6 +1,6 @@
 ---
 name: betreuung-interessen
-description: "Betreuung: Mehrparteienkonflikt und Interessenmatrix: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?..."
+description: "Wenn es um Betreuung: Mehrparteienkonflikt und Interessenmatrix in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuung Interessen; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Betreuung: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: spezial-untervermietung-553
-description: "Untervermietung § 553 BGB: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft berechtigtes Interesse, Personenangaben, Zumutbarkeit, Zuschlag und Kündigungsfolge; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Untervermietung Paragraf 553 BGB in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Untervermietung § 553 BGB

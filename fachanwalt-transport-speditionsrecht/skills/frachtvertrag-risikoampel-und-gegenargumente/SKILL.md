@@ -1,6 +1,6 @@
 ---
 name: frachtvertrag-risikoampel-und-gegenargumente
-description: "Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien: Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Wenn es um Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien

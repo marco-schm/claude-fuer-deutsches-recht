@@ -1,6 +1,6 @@
 ---
 name: mietrecht-einfuehrung-vertragstypen
-description: "Einfuehrung Vertragstypen Mietrecht: Wohnraum-, Gewerbe-, Pacht-, Untermiete, Staffel-, Index-, Zeitmiete: Pro Typ: Anwendungsbereich, Schutzvorschrif..."
+description: "Wenn es um Mietrecht Einfuehrung Vertragstypen in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einfuehrung Vertragstypen Mietrecht: Wohnraum-, Gewerbe-, Pacht-, Untermiete, Staffel-, Index-, Zeitmiete

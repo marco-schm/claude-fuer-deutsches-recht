@@ -1,6 +1,6 @@
 ---
 name: 022-roemische-obligationenlehre
-description: "Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters im Römisches Recht: Bearbeite Römische Obligationenlehre im Handelsrecht des Mittelalters im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer h..."
+description: "Wenn es um Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters

@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-ohne-adjektive
-description: "Entfernt Polemik und Rechtswertungen aus Anzeigen; schreibt nüchtern, präzise und beweisnah im Strafanzeige-Vorbereitung."
+description: "Wenn es um Sachverhalt ohne Adjektive in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sachverhalt ohne Adjektive

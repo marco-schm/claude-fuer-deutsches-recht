@@ -1,6 +1,6 @@
 ---
 name: bmwe-energie-und-netzregulierung-enwg
-description: "Sachbereich Energierecht und Netzregulierung (EnWG) im Geschäftsbereich BMWE: Normbestand (EnWG; ARegV; NEV; NetzAusbBG; BBPlG; KOV.); Akteure (Bundesnetzagentur; Bundeskartellamt; Länder-Energieregulierer; BMWE Abteilung Energie.); EU-Bezug (Strom- und Gasbinnenmarktpakete; ACER; NetCode.); typ..."
+description: "Wenn es um Energierecht und Netzregulierung (EnWG) (BMWE) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Energierecht und Netzregulierung (EnWG) (BMWE)

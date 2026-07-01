@@ -1,6 +1,6 @@
 ---
 name: managing-partner-wochenbrief
-description: "Wochenbrief mit Lage, Cash, Pipeline, People und Entscheidungen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Managing-Partner-Wochenbrief in Kanzlei Management geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Managing-Partner-Wochenbrief

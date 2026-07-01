@@ -1,6 +1,6 @@
 ---
 name: bsi-c5-cloud-grundschutz-schutzbedarf
-description: "Prüft Cloudanbieter und SaaS nach BSI C5 und NIS-2-Lieferkette im Nis2 Cybersecurity Compliance."
+description: "Wenn es um BSI C5 Cloud Check in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # BSI C5 Cloud Check

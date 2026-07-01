@@ -1,6 +1,6 @@
 ---
 name: employment-contract-software-engineer-de
-description: "Entwirft Klauseln für deutsche angestellte Softwareingenieure zu § 69b, Nebentätigkeit, OSS, Geheimnissen, Erfindungen und Offboarding im Softwarerecht De Eu Us."
+description: "Wenn es um Arbeitsvertrag Software Engineer DE in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsvertrag Software Engineer DE

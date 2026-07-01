@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-it-recht
-description: "Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check: Anwendungsfall neues IT-Rechtsmandat geht ein und muss schnell triagiert und dem richtigen..."
+description: "Wenn es um Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check in Fachanwalt It Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check

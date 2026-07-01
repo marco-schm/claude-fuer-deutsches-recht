@@ -1,6 +1,6 @@
 ---
 name: lehrer-schule-beamtenrecht
-description: "Lehrerbeamtenrecht: Abordnung, Versetzung, Unterrichtspflicht, Dienstunfähigkeit, Elternkonflikte und Schulaufsicht im Beamtenrecht."
+description: "Wenn es um Lehrer Schule Beamtenrecht in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lehrer Schule Beamtenrecht

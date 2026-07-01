@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-3a-estg-praxis-corporate
-description: "Praxisleitfaden zu Paragraf 3a EStG für das Corporate-/M&A-Team einer Großkanzlei. Erklärt die vier Tatbestandsmerkmale (Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung des Schulderlasses, Sanierungsabsicht der Gläubiger) im Transaktionskontext, die Folgen der zwingenden Verrechnungsreih..."
+description: "Wenn es um Sanierungsgewinn – Paragraf 3a EStG Praxis für Corporate/M&A in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanierungsgewinn – Paragraf 3a EStG Praxis für Corporate/M&A

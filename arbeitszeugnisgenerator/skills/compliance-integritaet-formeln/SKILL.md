@@ -1,6 +1,6 @@
 ---
 name: compliance-integritaet-formeln
-description: "Formulierungskatalog für Aussagen zu Compliance, Integrität, Vertrauenswürdigkeit und Loyalität. Bei Kassenpositionen, Finanzverantwortung und Führungsrollen sind Integritätsaussagen Pflicht — fehlen sie, entsteht ein Vertrauensproblem-Signal. Enthält Formeln für alle Noten sowie eine Liste von Formulierungen, die riskante Eigentums-, Loyalitäts- oder Verschwiegenheitslesarten erzeugen."
+description: "Wenn es um Compliance- und Integritäts-Formeln in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Compliance- und Integritäts-Formeln

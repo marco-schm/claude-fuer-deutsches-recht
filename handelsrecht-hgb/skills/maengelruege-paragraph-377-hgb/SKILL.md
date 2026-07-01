@@ -1,6 +1,6 @@
 ---
 name: maengelruege-paragraph-377-hgb
-description: "Prüft beim beiderseitigen Handelskauf die Untersuchungs- und Rügeobliegenheit nach § 377 HGB, Wareneingangskontrolle, Beweislast für Mangel bei Gefahrübergang, offene und verdeckte Mängel, Rechtsverlust und die klare Abgrenzung zur nur im B2C geltenden Vermutung des § 477 BGB."
+description: "Wenn es um Mängelrüge Paragraf 377 HGB in Handelsrecht HGB geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Mängelrüge § 377 HGB

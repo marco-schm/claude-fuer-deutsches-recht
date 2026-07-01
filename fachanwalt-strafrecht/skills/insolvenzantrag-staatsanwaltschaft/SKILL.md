@@ -1,6 +1,6 @@
 ---
 name: insolvenzantrag-staatsanwaltschaft
-description: "Insolvenzantrag-Maßnahmen durch Staatsanwaltschaft im Wirtschaftsstrafrecht: Anwendungsfall Staatsanwaltschaft hat Insolvenzantrag gestellt oder Vermögenswerte beschlagnahmt und Verteidiger muss reagieren: Insolvenzantrag-Maßnahmen durch Staatsanwaltschaf..."
+description: "Wenn es um Insolvenzantrag Staatsanwaltschaft in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Insolvenzantrag-Maßnahmen durch Staatsanwaltschaft im Wirtschaftsstrafrecht: Anwendungsfall Staatsanwaltschaft hat Insolvenzantrag gestellt oder Vermögenswerte beschlagnahmt und Verteidiger muss reagieren

@@ -1,6 +1,6 @@
 ---
 name: mitgliederdaten-dsgvo
-description: "Regelt Mitgliederverzeichnis, Zugriff, Export, Wahlberechtigung, Löschung, Auskunft und Sicherheit."
+description: "Wenn es um Mitgliederdaten DSGVO in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mitgliederdaten DSGVO

@@ -1,6 +1,6 @@
 ---
 name: promotion-promotionsordnung
-description: "Prüft Promotion, Annahme, Betreuung und Entzug im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Promotion Und Promotionsordnung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Promotion Und Promotionsordnung

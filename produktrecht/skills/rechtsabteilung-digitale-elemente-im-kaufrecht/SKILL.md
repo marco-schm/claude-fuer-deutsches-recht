@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-digitale-elemente-im-kaufrecht
-description: "Rechtsabteilungs-Fachmodul für Digitale Elemente im Kaufrecht: Updatepflicht, Mangel, Interoperabilität und Informationspflichten werden getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Produktrecht."
+description: "Wenn es um Rechtsabteilung: Digitale Elemente im Kaufrecht in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Digitale Elemente im Kaufrecht

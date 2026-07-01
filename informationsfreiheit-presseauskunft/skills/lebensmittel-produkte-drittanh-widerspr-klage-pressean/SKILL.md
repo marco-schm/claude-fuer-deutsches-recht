@@ -1,6 +1,6 @@
 ---
 name: lebensmittel-produkte-drittanh-widerspr-klage-pressean
-description: "Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Drittanhörung begleiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Vig Lebensmittel Und Produkte Drittanh in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Vig Lebensmittel Und Produkte Drittanh

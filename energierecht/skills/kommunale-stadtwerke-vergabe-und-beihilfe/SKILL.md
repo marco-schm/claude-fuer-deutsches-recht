@@ -1,6 +1,6 @@
 ---
 name: kommunale-stadtwerke-vergabe-und-beihilfe
-description: "Prüft, ob Stadtwerk, Kommune oder öffentlich beherrschte Gesellschaft Vergaberecht und Beihilfe beachten muss im Energierecht."
+description: "Wenn es um Kommunale Stadtwerke, Vergabe und Beihilfe in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kommunale Stadtwerke, Vergabe und Beihilfe

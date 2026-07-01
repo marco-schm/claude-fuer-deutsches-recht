@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-financial-institutions-correspondent-banking
-description: "Vertiefter Skill fuer Financial Institutions Correspondent Banking. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: "Wenn es um Financial Institutions Correspondent Banking in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Financial Institutions Correspondent Banking

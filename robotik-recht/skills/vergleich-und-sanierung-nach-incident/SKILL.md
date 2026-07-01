@@ -1,6 +1,6 @@
 ---
 name: vergleich-und-sanierung-nach-incident
-description: "Entwirft Vergleichs- und Sanierungsstrategie nach Vorfall: Patch, Austausch, Entschädigung, NDA, Behördenkommunikation und Lessons Learned."
+description: "Wenn es um Vergleich und Sanierung nach Incident in robotik-recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleich und Sanierung nach Incident

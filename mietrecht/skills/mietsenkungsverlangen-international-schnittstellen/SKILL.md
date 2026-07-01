@@ -1,6 +1,6 @@
 ---
 name: mietsenkungsverlangen-international-schnittstellen
-description: "Mietsenkungsverlangen: Internationaler Bezug und Schnittstellen im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht."
+description: "Wenn es um Mietsenkungsverlangen: Internationaler Bezug und Schnittstellen in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mietsenkungsverlangen: Internationaler Bezug und Schnittstellen

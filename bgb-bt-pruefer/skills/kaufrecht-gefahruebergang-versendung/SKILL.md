@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-gefahruebergang-versendung
-description: "Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB, Verbrauchsgüterkauf-Ausnahmen, Beweislast für den Mangel bei Übergabe und B2B-Wareneingang mit § 377 HGB im BGB BT."
+description: "Wenn es um Kaufrecht: Gefahrübergang und Versendung in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Kaufrecht Gefahruebergang Versendung; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Kaufrecht: Gefahrübergang und Versendung

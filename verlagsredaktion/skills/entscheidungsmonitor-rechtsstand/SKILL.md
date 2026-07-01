@@ -1,6 +1,6 @@
 ---
 name: entscheidungsmonitor-rechtsstand
-description: "Erfasst neue Entscheidungen, Gesetze und Materialien als moegliche Aktualisierungsanlaesse für Zeitschrift, Kommentar, Newsletter oder Buchauflage im Verlagsredaktion."
+description: "Wenn es um Entscheidungsmonitor und Rechtsstand in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Entscheidungsmonitor und Rechtsstand

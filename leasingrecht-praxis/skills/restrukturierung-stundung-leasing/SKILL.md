@@ -1,6 +1,6 @@
 ---
 name: restrukturierung-stundung-leasing
-description: "Leasingrestrukturierung: Stundung, Ratensenkung, Stillhaltevereinbarung, Schuldnerberatung, Rangrücktritt und Sanierungsbeitrag des LG im Leasingrecht."
+description: "Wenn es um Restrukturierung: Stundung und Stillhaltevereinbarung in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Restrukturierung: Stundung und Stillhaltevereinbarung

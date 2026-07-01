@@ -1,6 +1,6 @@
 ---
 name: flughafen-pfandrecht-vorbereiten
-description: "Kreditgeber will Sicherheiten an Flughafen-Infrastruktur bestellen. Skill prüft Grundbuchrecht Hypothek Grundschuld GBO LuftVG-Betreiberpflichten und Abgrenzung vom Luftfahrzeugpfandrecht und liefert Sicherungsstrategie-Vermerk für Flughafen-Finanzierung im Luftrecht Flughafenrecht."
+description: "Wenn es um Flughafen – Pfandrecht vorbereiten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flughafen – Pfandrecht vorbereiten

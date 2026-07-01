@@ -1,6 +1,6 @@
 ---
 name: spezial-beschlussanfechtung-compliance-dokumentation-und-akte
-description: "Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt miet wohnungseigentumsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk

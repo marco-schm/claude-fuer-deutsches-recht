@@ -1,6 +1,6 @@
 ---
 name: kommunikation-mit-strassenverkehrsbeho
-description: "Straßenverkehrsrecht StVO: Kommunikation mit Straßenverkehrsbehörde. Kommunikation mit Straßenverkehrsbehörde im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbest..."
+description: "Wenn es um Kommunikation Mit Strassenverkehrsbeho in Straßenverkehrsrecht StVO geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kommunikation Mit Strassenverkehrsbeho

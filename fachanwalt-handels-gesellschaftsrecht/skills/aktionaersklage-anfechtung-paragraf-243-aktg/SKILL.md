@@ -1,6 +1,6 @@
 ---
 name: aktionaersklage-anfechtung-paragraf-243-aktg
-description: "Aktionaersklage Anfechtung § 243 AktG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Aktionaersklage Anfechtung Paragraf 243 AktG in Fachanwalt Handels- und Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aktionaersklage Anfechtung § 243 AktG

@@ -1,6 +1,6 @@
 ---
 name: spezial-zeugenstrategie-red-team-und-qualitaetskontrolle
-description: "Zeugenstrategie: Red-Team und Qualitätskontrolle im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Zeugenstrategie: Red-Team und Qualitätskontrolle in VerkehrsOWi-Verteidiger geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zeugenstrategie: Red-Team und Qualitätskontrolle

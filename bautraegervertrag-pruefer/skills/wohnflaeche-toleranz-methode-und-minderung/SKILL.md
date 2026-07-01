@@ -1,6 +1,6 @@
 ---
 name: wohnflaeche-toleranz-methode-und-minderung
-description: "Prüft Wohnflächenangaben im Bauträgervertrag: WoFlV, DIN 277, Prospektfläche, Planfläche, Toleranzklausel, Beschaffenheitsvereinbarung, § 650k BGB, § 633 BGB, Minderung und Beweis durch Aufmaß."
+description: "Wenn es um Wohnfläche, Toleranz, Methode und Minderung in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Wohnfläche, Toleranz, Methode und Minderung

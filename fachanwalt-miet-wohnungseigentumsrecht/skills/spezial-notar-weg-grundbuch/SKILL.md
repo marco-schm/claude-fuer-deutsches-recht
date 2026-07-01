@@ -1,6 +1,6 @@
 ---
 name: spezial-notar-weg-grundbuch
-description: "Notar/Grundbuch WEG: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Teilungserklärung, Auflassung, Grundbuchstand, Belastungen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Notar/Grundbuch WEG in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notar/Grundbuch WEG

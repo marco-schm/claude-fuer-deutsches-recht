@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-cloud-dienstleister-praevention
-description: "Verschwiegenheit und Cloud-Dienstleister (Präventions- und Organisationspaket): steuert Mandatsgeheimnis, Cloud, Legal Tech, KI-Tools, Auftragsverarbeitung und Berufsgeheimnisträgerprivileg mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Beru..."
+description: "Wenn es um Verschwiegenheit und Cloud-Dienstleister: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verschwiegenheit und Cloud-Dienstleister: Präventions- und Organisationspaket

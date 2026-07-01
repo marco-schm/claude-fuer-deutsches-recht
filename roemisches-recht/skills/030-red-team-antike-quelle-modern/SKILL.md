@@ -1,6 +1,6 @@
 ---
 name: 030-red-team-antike-quelle-modern
-description: "Rom Red Team Antike Quelle Modern Ueberdehnt im Römisches Recht im Römisches Recht."
+description: "Wenn es um Rom Red Team Antike Quelle Modern Ueberdehnt in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom Red Team Antike Quelle Modern Ueberdehnt

@@ -1,6 +1,6 @@
 ---
 name: intake-dokumentenmatrix-und-lueckenliste
-description: "Intake: Dokumentenmatrix, Lückenliste und Nachforderung im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzplan Starug..."
+description: "Wenn es um Intake: Dokumentenmatrix, Lückenliste und Nachforderung in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Intake: Dokumentenmatrix, Lückenliste und Nachforderung

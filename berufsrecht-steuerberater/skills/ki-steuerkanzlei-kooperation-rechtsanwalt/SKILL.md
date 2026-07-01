@@ -1,6 +1,6 @@
 ---
 name: ki-steuerkanzlei-kooperation-rechtsanwalt
-description: "Steuerberater: ki in der steuerkanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Ki Steuerkanzlei Kooperation Rechtsanwalt in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: ki in der steuerkanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

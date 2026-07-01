@@ -1,6 +1,6 @@
 ---
 name: vorabklaerung-erfolgsaussichten-selbstcheck
-description: "Selbstcheck der Erfolgsaussichten einer Klage vor dem Amtsgericht. Klaert Anspruchsgrundlage Beweislage Verjährung Kostenrisiko Gegenseite und Alternative zur Klage. Vermeidet teure Klage ohne Substanz und nimmt strukturierte Selbstprüfung vor."
+description: "Wenn es um Sollten Sie wirklich klagen? Ein ehrlicher Selbstcheck in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sollten Sie wirklich klagen? Ein ehrlicher Selbstcheck

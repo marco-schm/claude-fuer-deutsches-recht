@@ -1,6 +1,6 @@
 ---
 name: fao-fristen-form-und-zustaendigkeit
-description: "Fachanwalt für Arbeitsrecht (FAO Paragraf 10): Verfahrensrecht ArbGG, Zuständigkeit Paragrafen 2 und 2a ArbGG, Urteilsverfahren vs: Beschlussverfahren, Ins..."
+description: "Wenn es um Fao Fristen Form Und Zuständigkeit in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fachanwalt für Arbeitsrecht (FAO Paragraf 10): Verfahrensrecht ArbGG, Zuständigkeit Paragrafen 2 und 2a ArbGG, Urteilsverfahren vs

@@ -1,6 +1,6 @@
 ---
 name: see-005-schiffbauvertrag-werft
-description: "See- und Schifffahrtsrecht: Schiffbauvertrag Werft. Schiffbauvertrag Werft im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Schiffbauvertrag Werft in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiffbauvertrag Werft

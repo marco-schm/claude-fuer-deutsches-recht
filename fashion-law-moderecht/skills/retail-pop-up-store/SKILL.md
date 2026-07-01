@@ -1,6 +1,6 @@
 ---
 name: retail-pop-up-store
-description: "Retail, Pop-up-Store und Shop-in-Shop rechtlich organisieren: Mietfläche, Genehmigungen, Personal, Musik, Kasse, Versicherung und Markenauftritt im Fashion Law Moderecht."
+description: "Wenn es um Retail Pop Up Store in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Retail Pop Up Store

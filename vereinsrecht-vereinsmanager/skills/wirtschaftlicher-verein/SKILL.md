@@ -1,6 +1,6 @@
 ---
 name: wirtschaftlicher-verein
-description: "Prüft, ob der seltene wirtschaftliche Verein oder eine andere Rechtsform besser passt; warnt vor Register- und Genehmigungsrisiken im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Wirtschaftlicher Verein in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Wirtschaftlicher Verein

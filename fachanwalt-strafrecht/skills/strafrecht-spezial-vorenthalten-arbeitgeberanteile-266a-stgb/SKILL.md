@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-vorenthalten-arbeitgeberanteile-266a-stgb
-description: "Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB: Arbeitnehmeranteile zur Sozialversicherung als geschuetztes Vermoegen. Faellligkeit am drittletzten Bankarbei..."
+description: "Wenn es um Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB

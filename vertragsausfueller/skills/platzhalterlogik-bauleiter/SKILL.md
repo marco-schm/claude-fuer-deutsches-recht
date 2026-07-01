@@ -1,6 +1,6 @@
 ---
 name: platzhalterlogik-bauleiter
-description: "Bauleiter Platzhalterlogik: Variablen, Pflichtfelder, optionale Bloecke, Konditionalen. Prüfraster für Templatebau und Fehlerquellen im Vertragsausfueller."
+description: "Wenn es um VAF: Platzhalterlogik Bauleiter in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VAF: Platzhalterlogik Bauleiter

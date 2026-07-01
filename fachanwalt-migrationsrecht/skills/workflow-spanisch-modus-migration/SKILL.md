@@ -1,6 +1,6 @@
 ---
 name: workflow-spanisch-modus-migration
-description: "Spanisch-Modus Migrationsrecht: Prüfungslinie für Migrationsrecht: liefert spanische Erklärungen mit deutschem Rechtskern und klarer Dokumentenliste; mit Statusmatrix, Fristenrettung, Staate..."
+description: "Wenn es um Spanisch-Modus Migrationsrecht: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spanisch-Modus Migrationsrecht: Prüfungslinie für Migrationsrecht

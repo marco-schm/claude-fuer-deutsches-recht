@@ -1,6 +1,6 @@
 ---
 name: gewinnabschoepfung-und-finanzieller-vorteil
-description: "Finanzieller Vorteil und Gewinnabschöpfung: Vorteile, Kostenersparnis, Kausalität, Schätzung und Gegenrechnung mit Remediation-Kosten prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen."
+description: "Wenn es um Finanzieller Vorteil und Gewinnabschöpfung in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Finanzieller Vorteil und Gewinnabschöpfung

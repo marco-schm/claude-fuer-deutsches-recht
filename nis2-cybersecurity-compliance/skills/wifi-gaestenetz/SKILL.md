@@ -1,6 +1,6 @@
 ---
 name: wifi-gaestenetz
-description: "Prüft WLAN, Gästezugang und Segmentierung: Prüft WLAN, Gästezugang und Segmentierung."
+description: "Wenn es um Prüft WLAN, Gästezugang und Segmentierung. in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Prüft WLAN, Gästezugang und Segmentierung.

@@ -1,6 +1,6 @@
 ---
 name: angriff-auf-wahlleitung-vermeiden
-description: "Wahlkampfrecht Praxis: Kritik an Wahlorganisation ohne Vertrauenszerstoerung formulieren im Wahlkampfrecht."
+description: "Wenn es um Angriff Auf Wahlleitung Vermeiden in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Angriff Auf Wahlleitung Vermeiden

@@ -1,6 +1,6 @@
 ---
 name: bav-konzern-design-workflow
-description: "Konzern-für Design eines bAV-Programms: Anforderungen sammeln (HR, CFO, BR, Steuer), Optionen modellieren (Direktversicherung gegen Pensionskasse gegen Pensionsfonds), KPIs definieren (Teilnahmequote, Kosten, Bilanzwirkung). Mustertext für Steering-Vorlage im Bav Strategie Konzern."
+description: "Wenn es um bAV: Konzern-Design in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # bAV: Konzern-Design

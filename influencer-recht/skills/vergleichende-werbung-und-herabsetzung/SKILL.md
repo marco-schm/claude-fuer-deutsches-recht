@@ -1,6 +1,6 @@
 ---
 name: vergleichende-werbung-und-herabsetzung
-description: "Influencer-Recht: Vergleichende Werbung und Herabsetzung von Mitbewerbern – § 6 UWG, Zulässigkeitsgrenzen und Abmahnrisiken im Influencer-Recht."
+description: "Wenn es um Influencer-Recht: Vergleichende Werbung und Herabsetzung in Influencer-Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Influencer-Recht: Vergleichende Werbung und Herabsetzung

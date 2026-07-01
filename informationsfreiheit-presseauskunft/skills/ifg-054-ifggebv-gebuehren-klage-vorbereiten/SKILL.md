@@ -1,6 +1,6 @@
 ---
 name: ifg-054-ifggebv-gebuehren-klage-vorbereiten
-description: "Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Klage vorbereiten. Klage vorbereiten für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Ifggebv Gebuehren Klage Vorbereiten in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Ifggebv Gebuehren Klage Vorbereiten

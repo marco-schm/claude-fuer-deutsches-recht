@@ -1,6 +1,6 @@
 ---
 name: schengenvisum-abgrenzung
-description: "Schengenvisum Abgrenzung: Fachmodul im Migrationsrecht: prüft Kurzaufenthalt, Rückkehrbereitschaft, Zweckwechsel, Missbrauchsrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Schengenvisum Abgrenzung: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schengenvisum Abgrenzung: Fachmodul im Migrationsrecht

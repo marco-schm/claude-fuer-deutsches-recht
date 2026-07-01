@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-anlagenverzeichnis-afa
-description: "Anlagenverzeichnis und AfA-Buchung Jahresabschluss. Anwendungsfall vollständige Aktualisierung Anlagen Zugaenge Abgaenge AfA-Methoden Sonderabschreibung 7g 7b 6b EStG. Methodik AfA-Tabellen. Output Anlagenspiegel."
+description: "Wenn es um Anlagenverzeichnis und AfA — Jahresabschluss-Aktualisierung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anlagenverzeichnis und AfA — Jahresabschluss-Aktualisierung

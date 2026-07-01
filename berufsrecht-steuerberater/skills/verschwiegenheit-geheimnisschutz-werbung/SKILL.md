@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-geheimnisschutz-werbung
-description: "Verschwiegenheit und Geheimnisschutz: vertiefter Berufsrechts-Skill für Steuerberater; prüft Berufsgeheimnis, Hilfspersonen, IT-Dienstleister, Auslagerung und Aktenzugriff, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht St..."
+description: "Wenn es um Verschwiegenheit und Geheimnisschutz in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verschwiegenheit und Geheimnisschutz

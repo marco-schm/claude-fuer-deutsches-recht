@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Immobilienrechtspraxis: trennt fehlende Tatsachen von fehlenden Belegen (Notarvertrag, Grundbuchauszug, Energieausweis), nennt pro Lücke Beweisthema, Beschaffungsweg (Grundbuchamt), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

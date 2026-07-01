@@ -1,6 +1,6 @@
 ---
 name: uefa-risikoampel-und-gegenargumente
-description: "Uefa: Risikoampel, Gegenargumente und Verteidigungslinien: Uefa: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Wenn es um Uefa: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Sportrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Uefa: Risikoampel, Gegenargumente und Verteidigungslinien

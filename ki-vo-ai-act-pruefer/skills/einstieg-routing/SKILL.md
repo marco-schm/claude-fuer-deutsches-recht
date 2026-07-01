@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für KI-VO/AI Act Prüfer: ordnet Rolle (Anbieter, Deployer, Importeur), markiert Frist (Verbotene Praktiken ab 2.2.2025), wählt Norm (KI-VO EU 2024/1689, Anhang III Hochrisiko-Liste) und Zuständigkeit (KI-Aufsichtsbehörde national), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in europäischem Technikregulierungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

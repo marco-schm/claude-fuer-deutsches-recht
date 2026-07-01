@@ -1,6 +1,6 @@
 ---
 name: bankentgelte-zustimmungsfiktion-serie
-description: "Verbraucherzentrale: Bankentgelte nach Zustimmungsfiktion als Serienfall prüfen; BGH XI ZR 26/20, XI ZR 139/23, XI ZR 45/24, Anspruchsgruppen, Verjährung, Registertext, Rückzahlungsmatrix und Vergleichskontrolle im Verbraucherverband-Durchsetzung."
+description: "Wenn es um VDG 101 Bankentgelte Zustimmungsfiktion Serie in Verbraucherschutzverband Durchsetzung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # VDG 101 Bankentgelte Zustimmungsfiktion Serie

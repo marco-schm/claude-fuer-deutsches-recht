@@ -1,6 +1,6 @@
 ---
 name: bwa-mandantenreport-monatlich
-description: "Monatlicher Mandantenreport zusammenführend aus BWA SuSa OPOS Lohn Liquiditaet. Anwendungsfall standardisierter Monatsreport an Mandant per Mail oder Portal. Methodik 4-Seiten-Vorlage Cover BWA Kennzahlen Empfehlung. Output Mandantenreport als PDF Querverweis stb-routine-monatsabschluss-30-tage-z..."
+description: "Wenn es um Monatlicher Mandantenreport in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Monatlicher Mandantenreport

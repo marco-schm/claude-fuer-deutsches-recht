@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg
-description: "Gueteverhandlung im Arbeitsgerichtsverfahren nach Paragraf 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie. Anwendungsfall Guetetermin steht an und Vergleich oder Auflösungsantrag soll vorbereitet werden. Normen Paragraf 54 ArbGG Gueteverfahren Paragraf 9 KSchG Auflösungsantrag Paragraf 10 KSchG Abfindungsobergrenzen Paragraf 159 SGB III Sperrzeit-Vermeidung. Prüfraster Abfindungsstrategie halbes-Bruttogehalt-Faustformel Vergleichsformulierung Sperrzeit-Klausel Protokollniederschrift Kostenregelung. Output Vergleichsvorschlag-Schreiben Verhandlungsskript Protokoll-Entwurf und Sperrzeit-Formulierungstipp. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und vergleichsverhandlung-strategie."
+description: "Wenn es um Güte-Verhandlung Arbeitsgericht / Abfindungs-Vergleich in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Güte-Verhandlung Arbeitsgericht / Abfindungs-Vergleich

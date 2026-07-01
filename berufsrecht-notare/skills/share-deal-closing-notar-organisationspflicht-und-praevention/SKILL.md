@@ -1,6 +1,6 @@
 ---
 name: share-deal-closing-notar-organisationspflicht-und-praevention
-description: "Notare: share deal closing notar - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Share Deal Closing Notar Organisationspflicht Und Praevention in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notare: share deal closing notar - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

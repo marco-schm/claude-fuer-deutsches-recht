@@ -1,6 +1,6 @@
 ---
 name: 044-notarvertretung-notariatsverwalter-und-amtsuebergab
-description: "Notariat im Alltag: Notarvertretung, Notariatsverwalter und Amtsübergabe. Verfahren bei Vertretung, Amtsniederlegung und Notariatsverwaltung nach BNotO, Aktentransfer und Mandantenkommunikation im Notariat."
+description: "Wenn es um Notariat im Alltag: Notarvertretung, Notariatsverwalter, Amtsübergabe in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Notarvertretung, Notariatsverwalter, Amtsübergabe

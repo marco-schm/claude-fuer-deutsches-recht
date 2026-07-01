@@ -1,6 +1,6 @@
 ---
 name: agg-gleichstellung-und-frauenvertretung
-description: "AGG, Gleichstellung, Frauenvertretung, Diversität und diskriminierungsfreie Auswahl im öffentlichen Dienst im Beamtenrecht."
+description: "Wenn es um Agg Gleichstellung Und Frauenvertretung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agg Gleichstellung Und Frauenvertretung

@@ -1,6 +1,6 @@
 ---
 name: kannkaufmann-paragraphen-kaufmaennisches
-description: "Prüft freiwillige Eintragung kleiner Gewerbe sowie Land-/Forstwirtschaft im Handelsrecht Hgb."
+description: "Wenn es um Kannkaufmann Paragrafen 2. 3 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kannkaufmann §§ 2, 3 HGB

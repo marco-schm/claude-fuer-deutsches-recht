@@ -1,6 +1,6 @@
 ---
 name: see-016-hafenrecht-und-liegegeld
-description: "See- und Schifffahrtsrecht: Hafenrecht und Liegegeld. Hafenrecht und Liegegeld im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Hafenrecht Und Liegegeld in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hafenrecht Und Liegegeld

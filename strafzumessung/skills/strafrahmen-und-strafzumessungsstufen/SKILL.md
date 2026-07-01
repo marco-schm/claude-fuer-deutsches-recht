@@ -1,6 +1,6 @@
 ---
 name: strafrahmen-und-strafzumessungsstufen
-description: "Strafrahmen-Logik vor der konkreten Zumessung. Aufbau abstrakter Strafrahmen aus Grundtatbestand, Qualifikation, Privilegierung. Modifikationen durch Regelbeispiele und minder schweren Fall. Verschiebung durch §§ 49 Abs. 1 23 Abs. 2 28 Abs. 1 StGB. Aufbau konkreter Strafrahmen, Ableitung der konk..."
+description: "Wenn es um Strafrahmen und Strafzumessungsstufen in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafrahmen und Strafzumessungsstufen

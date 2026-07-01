@@ -1,6 +1,6 @@
 ---
 name: sustainability-reporting-esg
-description: "ESG-, CSRD-/Nachhaltigkeits- und Textilstrategie-Reporting einordnen: Daten, Lieferkette, Umweltclaims, DPP-Vorbereitung und Governance im Fashion Law Moderecht."
+description: "Wenn es um Sustainability Reporting Esg in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Sustainability Reporting Esg

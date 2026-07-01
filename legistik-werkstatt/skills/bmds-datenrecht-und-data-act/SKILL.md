@@ -1,6 +1,6 @@
 ---
 name: bmds-datenrecht-und-data-act
-description: "Sachbereich Datenrecht und Data Act im Geschäftsbereich BMDS: Normbestand (Data Act (EU); Data Governance Act (EU); BDSG; IFG; UIG.); Akteure (BMDS; BfDI; ggf. Datenmittlerdienste-Aufsicht; BNetzA.); EU-Bezug (Data Act; Data Governance Act; Open Data RL.); typische Legistik-Aufgaben und Prüfpun..."
+description: "Wenn es um Datenrecht und Data Act (BMDS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Datenrecht und Data Act (BMDS)

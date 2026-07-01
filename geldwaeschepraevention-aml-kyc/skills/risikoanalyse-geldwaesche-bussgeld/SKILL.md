@@ -1,6 +1,6 @@
 ---
 name: risikoanalyse-geldwaesche-bussgeld
-description: "Risikoanalyse: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Risikoanalyse: Fristen, Form, Zuständigkeit und Rechtsweg in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Risikoanalyse: Fristen, Form, Zuständigkeit und Rechtsweg

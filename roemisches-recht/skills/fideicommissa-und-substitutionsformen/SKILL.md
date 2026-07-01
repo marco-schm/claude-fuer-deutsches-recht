@@ -1,6 +1,6 @@
 ---
 name: fideicommissa-und-substitutionsformen
-description: "Fideicommissa und Substitutionsformen: Treuhand- und Ersatzerbschaft im roemischen Recht. Skill behandelt die fideicommissum universale die substitutio pupillaris und substitutio vulgaris die Lockerung durch Justinian. Liefert Quellenmatrix."
+description: "Wenn es um Rom 149 Fideicommissa Und Substitutionsformen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fideicommissa Und Substitutionsformen; Arbeitsfeld: Römisches Recht."
 ---
 
 # Rom 149 Fideicommissa Und Substitutionsformen

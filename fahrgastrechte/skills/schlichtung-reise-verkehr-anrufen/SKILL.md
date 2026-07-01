@@ -1,6 +1,6 @@
 ---
 name: schlichtung-reise-verkehr-anrufen
-description: "Schlichtungsantrag bei der Schlichtungsstelle Reise & Verkehr e.V. (vormals söp) nach erfolgloser Reklamation beim Eisenbahnverkehrsunternehmen. Kostenfrei für Verbraucher nach VSBG. Voraussetzung Vorgerichtliche Geltendmachung beim EVU mindestens vier Wochen ohne befriedigende Antwort oder Ableh..."
+description: "Wenn es um Schlichtungsstelle Reise & Verkehr e.V. anrufen in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schlichtungsstelle Reise & Verkehr e.V. anrufen

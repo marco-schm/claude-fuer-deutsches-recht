@@ -1,6 +1,6 @@
 ---
 name: zustellung-brief-postfach
-description: "Hilft bei Zustellung Brief Postfach für Menschen mit Deutsch als Zweitsprache: Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in..."
+description: "Wenn es um Hilft bei Zustellung Brief Postfach für Menschen mit Deutsch als Zweitsprache in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hilft bei Zustellung Brief Postfach für Menschen mit Deutsch als Zweitsprache

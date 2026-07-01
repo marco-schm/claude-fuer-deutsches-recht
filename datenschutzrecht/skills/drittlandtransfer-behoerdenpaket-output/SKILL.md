@@ -1,6 +1,6 @@
 ---
 name: drittlandtransfer-behoerdenpaket-output
-description: "Behördenfähiges Dokumentations- und Antwortpaket für Drittlandtransfers erstellen: Deckvermerk, Transferregister, DPF/SCC/TIA-Nachweise, TOMs, Subprozessoren, Maßnahmenplan und Antwort an deutsche Datenschutzaufsicht."
+description: "Wenn es um Drittlandtransfer-Behördenpaket-Output in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Drittlandtransfer-Behördenpaket-Output

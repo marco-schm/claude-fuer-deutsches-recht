@@ -1,6 +1,6 @@
 ---
 name: rom-101-zwoelftafelgesetz-prozess-und-vollstreckung
-description: "Römisches Recht: Zwölftafelgesetz zu archaischem Verfahren, Ladung, Urteil, Vollstreckung, Schuldhaft und Prozessformalismus."
+description: "Wenn es um Zwölftafelgesetz - Prozess und Vollstreckung in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zwölftafelgesetz - Prozess und Vollstreckung

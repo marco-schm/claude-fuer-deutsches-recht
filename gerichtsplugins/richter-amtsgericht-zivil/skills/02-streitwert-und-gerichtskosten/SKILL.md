@@ -1,6 +1,6 @@
 ---
 name: 02-streitwert-und-gerichtskosten
-description: "Streitwertbestimmung Paragrafen 3-9 ZPO, GKG-Anlage 1 (KV 1210 und 1211 und 1220), vorläufige Streitwertfestsetzung, GKG-Vorschuss"
+description: "Wenn es um 02 Streitwert und Gerichtskosten in Richter Amtsgericht Zivilsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 02 Streitwert und Gerichtskosten

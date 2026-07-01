@@ -1,6 +1,6 @@
 ---
 name: kaufvertrags-check-grundbuch
-description: "Prüft Belastungen, Fälligkeit, Löschung, Vormerkung, Finanzierung, Besitzübergang und Risiken aus Abteilung II im Grundbuchamt Praxis."
+description: "Wenn es um Kaufvertrag grundbuchseitig prüfen in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaufvertrag grundbuchseitig prüfen

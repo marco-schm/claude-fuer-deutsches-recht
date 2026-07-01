@@ -1,6 +1,6 @@
 ---
 name: influencer-marketing-uwg-spezial
-description: "Influencer-Marketing und UWG: Kennzeichnungspflicht Werbung § 5a UWG, § 6 TMG, MStV, BGH 'Influencer'-Entscheidungen, organische vs: Influencer-Marketing und UWG: Kennzeichnungspflicht Werbung § 5a UWG, § 6 TMG, MStV, BGH 'Influencer'-Entscheidungen, organi..."
+description: "Wenn es um Influencer Marketing Uwg Spezial in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Marketing und UWG: Kennzeichnungspflicht Werbung § 5a UWG, § 6 TMG, MStV, BGH 'Influencer'-Entscheidungen, organische vs

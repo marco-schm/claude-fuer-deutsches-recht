@@ -1,6 +1,6 @@
 ---
 name: dienstaufsicht-beschwerde
-description: "Notare: dienstaufsicht beschwerde - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Dienstaufsicht Beschwerde in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: dienstaufsicht beschwerde - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

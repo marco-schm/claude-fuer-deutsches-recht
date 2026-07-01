@@ -1,6 +1,6 @@
 ---
 name: mauergrundstueck-bewerten-bodenreformland
-description: "Einigungsvertrag und Vermögensrecht: Mauergrundstück: Vergleich bewerten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Mauergrundstueck Vergleich Bewerten in Einigungsvertrag und Vermögensrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Mauergrundstueck Vergleich Bewerten

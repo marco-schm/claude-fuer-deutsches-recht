@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Vergaberecht: trennt fehlende Tatsachen von fehlenden Belegen (Vergabeunterlagen, Angebot, Wertungsvermerk), nennt pro Lücke Beweisthema, Beschaffungsweg (Vergabekammer Bund/Länder), Frist und Ersatznachweis."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

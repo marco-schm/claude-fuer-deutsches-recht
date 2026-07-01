@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-sicherheit-2-buergschaft
-description: "MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft: Skill klaert die alternative Sicherheitsleistung statt Ratenzahlung nach Baufortschritt die Anforderungen an die Buergschaft (selbstsch..."
+description: "Wenn es um MaBV Paragraf 2: Sicherheit für Vorausleistungen durch Buergschaft in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft

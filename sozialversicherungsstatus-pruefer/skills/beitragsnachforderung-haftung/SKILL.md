@@ -1,6 +1,6 @@
 ---
 name: beitragsnachforderung-haftung
-description: "Prüft Nachforderungen, Säumniszuschläge, Verjährung, Arbeitgeberhaftung und interne Regressfragen im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Beitragsnachforderung und Haftung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beitragsnachforderung und Haftung

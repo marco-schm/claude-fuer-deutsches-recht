@@ -1,6 +1,6 @@
 ---
 name: fachbezeichnung
-description: "Fachbezeichnung: vertiefter Berufsrechts-Skill für Anwälte; prüft Fachbezeichnung im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
+description: "Wenn es um Fachbezeichnung in Berufsrecht Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Fachbezeichnung

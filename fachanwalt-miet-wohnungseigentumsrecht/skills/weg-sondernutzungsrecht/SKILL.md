@@ -1,6 +1,6 @@
 ---
 name: weg-sondernutzungsrecht
-description: "Sondernutzungsrecht: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Inhalt, Grenzen, Übertragung, bauliche Änderung und Störung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Ar..."
+description: "Wenn es um Sondernutzungsrecht: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sondernutzungsrecht: Fachmodul im Miet- und Wohnungseigentumsrecht

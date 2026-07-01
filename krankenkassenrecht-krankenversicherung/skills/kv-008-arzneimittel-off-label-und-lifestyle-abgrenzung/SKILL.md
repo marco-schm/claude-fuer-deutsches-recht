@@ -1,6 +1,6 @@
 ---
 name: kv-008-arzneimittel-off-label-und-lifestyle-abgrenzung
-description: "Krankenversicherung: Arzneimittel Off Label und Lifestyle-Abgrenzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Arzneimittel Off Label und Lifestyle-Abgrenzung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Arzneimittel Off Label und Lifestyle-Abgrenzung

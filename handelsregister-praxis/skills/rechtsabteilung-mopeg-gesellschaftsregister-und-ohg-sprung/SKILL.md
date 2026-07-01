@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-mopeg-gesellschaftsregister-und-ohg-sprung
-description: "Rechtsabteilungs-Fachmodul für MoPeG-Gesellschaftsregister und OHG-Sprung: GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsregister Praxis."
+description: "Wenn es um Rechtsabteilung: MoPeG-Gesellschaftsregister und OHG-Sprung in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Rechtsabteilung: MoPeG-Gesellschaftsregister und OHG-Sprung

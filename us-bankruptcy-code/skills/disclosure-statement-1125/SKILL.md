@@ -1,6 +1,6 @@
 ---
 name: disclosure-statement-1125
-description: "Prüft adequacy of information, solicitation, plan summary, risk factors and voting package im US Bankruptcy Code."
+description: "Wenn es um Disclosure Statement Paragraf 1125 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Disclosure Statement § 1125

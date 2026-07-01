@@ -1,6 +1,6 @@
 ---
 name: staedtebaulicher-vertrag-grundlagen-11-baugb
-description: "Prueft städtebauliche Verträge nach BauGB Paragraf 11: Vertragsgegenstand, Beteiligte, Kopplungsverbot, Kausalitaet, Angemessenheit, Schriftform, Rueckabwicklung und Normenkontroll-Schnittstelle."
+description: "Wenn es um Städtebaulicher Vertrag: Grundlagen nach BauGB Paragraf 11 in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Städtebaulicher Vertrag: Grundlagen nach BauGB Paragraf 11

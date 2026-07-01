@@ -1,6 +1,6 @@
 ---
 name: bho-34-erhebung-einnahmen-praktisch-an
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 34 Erhebung Einnahmen praktisch anwenden. BHO § 34 Erhebung Einnahmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft..."
+description: "Wenn es um Bho 34 Erhebung Einnahmen Praktisch An in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 34 Erhebung Einnahmen Praktisch An

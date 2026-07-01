@@ -1,6 +1,6 @@
 ---
 name: agb-arbeitnehmerueberlassung-aueg
-description: "AGB bei Arbeitnehmerueberlassung (AUeG). Skill klaert die AGB-rechtliche Prüfung der Standardvertraege zwischen Verleiher Entleiher und Leiharbeitnehmer Equal-Pay-Klauseln Branchenzuschlaege Verleihbarkeitsausschluss Vertragsstrafe bei Abwerbung. Aktualisierungen AUeG 2017 und Folgejudikatur. Li..."
+description: "Wenn es um Agb Arbeitnehmerueberlassung Aueg in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Arbeitnehmerueberlassung Aueg

@@ -1,6 +1,6 @@
 ---
 name: infl-028-hassrede-kommentare-moderation-und-haftung
-description: "Influencer-Recht: Hassrede Kommentare Moderation und Haftung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Influencer-Recht: Hassrede Kommentare Moderation und Haftung in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Influencer-Recht: Hassrede Kommentare Moderation und Haftung

@@ -1,6 +1,6 @@
 ---
 name: zeugenauswahl-und-aussage
-description: "Prüft geeignete Zeugen für persönliche Entwicklung und Lebensführung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Zeugen und Auskunftspersonen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zeugen und Auskunftspersonen

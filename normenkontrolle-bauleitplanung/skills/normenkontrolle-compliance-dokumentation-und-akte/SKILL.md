@@ -1,6 +1,6 @@
 ---
 name: normenkontrolle-compliance-dokumentation-und-akte
-description: "Normenkontrolle: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Normenkontrolle: Compliance-Dokumentation und Aktenvermerk in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Normenkontrolle Compliance Dokumentation Und Akte; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Normenkontrolle: Compliance-Dokumentation und Aktenvermerk

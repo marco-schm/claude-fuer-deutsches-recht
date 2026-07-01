@@ -1,6 +1,6 @@
 ---
 name: interne-lobbyregister-richtlinie
-description: "Erstellt interne Richtlinie für Rollen, Meldewege, Kontaktfreigabe, Registerdaten, Fristen, Verhaltenskodex und Schulung. Output Richtlinienentwurf im Lobbyregister Bundestag."
+description: "Wenn es um Interne Lobbyregister-Richtlinie in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Interne Lobbyregister-Richtlinie

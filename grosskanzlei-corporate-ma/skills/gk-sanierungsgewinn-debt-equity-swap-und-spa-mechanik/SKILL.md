@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik
-description: "Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug. Beschreibt die Mechanik des DES, die steuerlichen Wirkungen auf Schuldnerseite (Sanierungsertrag, Paragraf 3a EStG) und Gläubigerseite (Forderungseinbringung, Werthaltigkeit), die gesellschaftsrechtliche Umsetzung (Kapitalherabsetzung, Kapitalerhöhung, Sacheinlage) und die Einbindung in die SPA-Architektur. Adressat ist das Großkanzlei-Team in Transaktion und Restrukturierung. Quellen Stand 06/2026."
+description: "Wenn es um Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gk Sanierungsgewinn Debt Equity Swap Und Spa Mechanik; Arbeitsfeld: Großkanzlei Corporate/M&A."
 ---
 
 # Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik

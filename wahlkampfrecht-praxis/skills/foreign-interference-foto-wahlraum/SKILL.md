@@ -1,6 +1,6 @@
 ---
 name: foreign-interference-foto-wahlraum
-description: "Wahlkampfrecht Praxis: Anzeichen ausländischer Einflussnahme bewerten im Wahlkampfrecht."
+description: "Wenn es um Foreign Interference Lage in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Foreign Interference Lage

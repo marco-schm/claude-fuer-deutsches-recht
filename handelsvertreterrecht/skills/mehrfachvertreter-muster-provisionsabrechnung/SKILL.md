@@ -1,6 +1,6 @@
 ---
 name: mehrfachvertreter-muster-provisionsabrechnung
-description: "Analysiert die Rechtsstellung des Mehrfachvertreters nach § 86 Abs. 1 HGB: Interessenkollisionen bei gleichzeitiger Vertretung konkurrierender Unternehmer, Offenlegungspflichten, Wettbewerbsverbotsklauseln für Mehrfachvertreter, Auswirkungen auf Ausgleichsansprüche und Abgrenzung zum Einfirmenver..."
+description: "Wenn es um Mehrfachvertreter nach Paragraf 86 HGB — Interessenkonflikte und Offenlegungspflichten in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mehrfachvertreter nach § 86 HGB — Interessenkonflikte und Offenlegungspflichten

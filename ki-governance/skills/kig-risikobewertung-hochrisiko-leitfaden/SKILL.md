@@ -1,6 +1,6 @@
 ---
 name: kig-risikobewertung-hochrisiko-leitfaden
-description: "Leitfaden Risikobewertung Hochrisiko-KI Anhang III AI Act: Bereiche Bildung / Beschäftigung / Kreditscoring / Migration. Prüfraster für Klassifizierung und Ausnahme im Ki Governance."
+description: "Wenn es um KIG: Risikobewertung Hochrisiko in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # KIG: Risikobewertung Hochrisiko

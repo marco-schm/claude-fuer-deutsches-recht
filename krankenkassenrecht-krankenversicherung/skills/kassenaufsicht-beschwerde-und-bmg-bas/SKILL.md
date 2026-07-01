@@ -1,6 +1,6 @@
 ---
 name: kassenaufsicht-beschwerde-und-bmg-bas
-description: "Beschwerde bei Kassenaufsichtsbehörden (BAS, Landesbehörden): Zuständigkeiten, Beschwerdeinhalte, Grenzen der Aufsicht und ergänzende Rechtsmittel im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Kassenaufsicht: Beschwerde und BMG/BAS in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kassenaufsicht: Beschwerde und BMG/BAS

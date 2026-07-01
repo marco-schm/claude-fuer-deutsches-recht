@@ -1,6 +1,6 @@
 ---
 name: begruendung-anhoerung-und-adressatenfaehigkeit
-description: "Verknuepft zivilrechtliche Methodik mit Verfahrensfairness: rechtliches Gehoer, Parteivortrag, Beweis, Begruendung, Ueberraschungsverbot und adressatenfaehige Rechtsanwendung: Verknuepft zivilrechtliche Methodik mit Verfahrensfairness: rechtliches Gehoer,..."
+description: "Wenn es um Begruendung Anhoerung Und Adressatenfaehigkeit in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verknuepft zivilrechtliche Methodik mit Verfahrensfairness: rechtliches Gehoer, Parteivortrag, Beweis, Begruendung, Ueberraschungsverbot und adressatenfaehige Rechtsanwendung.

@@ -1,6 +1,6 @@
 ---
 name: zag-vorstandsvorlage-gutachten-wpig
-description: "Vorstandsvorlage und juristisches Gutachten für eine Bank erstellen: Entscheidungssatz, Risikoampel, Handlungsoptionen, Beschlussvorschlag, Annahmen, Quellen und Anlagenverzeichnis im Bank-Rechtsabteilung."
+description: "Wenn es um Vorstandsvorlage in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorstandsvorlage

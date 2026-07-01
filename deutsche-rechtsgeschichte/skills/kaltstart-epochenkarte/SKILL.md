@@ -1,6 +1,6 @@
 ---
 name: kaltstart-epochenkarte
-description: "Deutsche Rechtsgeschichte: Epochenkarte als Orientierungsinstrument. Mittelalter, Rezeption, Kodifikationen, Kaiserreich, Weimar, NS, DDR, BRD und EU als aufeinander folgende Rechtsepochen mit je eigener Quellenbasis und Methodik."
+description: "Wenn es um Kaltstart-Epochenkarte Deutsche Rechtsgeschichte in Deutsche Rechtsgeschichte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart-Epochenkarte Deutsche Rechtsgeschichte

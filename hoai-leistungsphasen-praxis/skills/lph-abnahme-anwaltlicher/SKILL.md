@@ -1,6 +1,6 @@
 ---
 name: lph-abnahme-anwaltlicher
-description: "HOAI-Praxis: ordnet chaotische Unterlagen einer oder mehreren HOAI-Leistungsphasen zu; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
+description: "Wenn es um HOAI Querschnitt: Ordnet chaotische unterlagen einer oder mehreren hoai-leistungsphasen zu in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # HOAI Querschnitt: Ordnet chaotische unterlagen einer oder mehreren hoai-leistungsphasen zu

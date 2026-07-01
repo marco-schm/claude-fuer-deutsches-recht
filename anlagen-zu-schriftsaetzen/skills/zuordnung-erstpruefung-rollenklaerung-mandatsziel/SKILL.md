@@ -1,6 +1,6 @@
 ---
 name: zuordnung-erstpruefung-rollenklaerung-mandatsziel
-description: "Zuordnung: Erstprüfung, Rollenklärung und Mandatsziel: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe is..."
+description: "Wenn es um Zuordnung: Erstprüfung, Rollenklärung und Mandatsziel in Anlagen zu Schriftsätzen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zuordnung: Erstprüfung, Rollenklärung und Mandatsziel

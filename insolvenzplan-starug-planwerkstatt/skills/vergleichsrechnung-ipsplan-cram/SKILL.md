@@ -1,6 +1,6 @@
 ---
 name: vergleichsrechnung-ipsplan-cram
-description: "Vergleichsrechnung als Herzstuck des Plans erstellen: Planfall gegen Ohne-Plan-Szenario je Gruppe oder Klasse. §§ 220 229 InsO § 6 Abs. 2 StaRUG Schlechterstellungsverbot. Prüfraster: Masse Kosten Sicherheiten Anfechtung Organhaftung Planmehrwert Quoten je Gruppe Annahmenkennzeichnung. Output: Ve..."
+description: "Wenn es um Vergleichsrechnung in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Vergleichsrechnung

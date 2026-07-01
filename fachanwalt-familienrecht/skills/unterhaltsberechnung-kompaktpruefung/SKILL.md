@@ -1,6 +1,6 @@
 ---
 name: unterhaltsberechnung-kompaktpruefung
-description: "Kompaktprüfung für Unterhaltsberechnung im Familienrecht: Kindesunterhalt, Trennungsunterhalt und nachehelicher Unterhalt mit bereinigtem Nettoeinkommen, Düsseldorfer Tabelle, Kindergeld, Mangelfall, Rangfolge, Selbstbehalt und verifizierten Stichtagswerten."
+description: "Wenn es um Unterhaltsberechnung im Familienrecht: Kompaktprüfung in Fachanwalt Familienrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Unterhaltsberechnung im Familienrecht: Kompaktprüfung

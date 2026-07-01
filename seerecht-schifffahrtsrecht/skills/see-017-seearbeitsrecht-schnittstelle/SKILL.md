@@ -1,6 +1,6 @@
 ---
 name: see-017-seearbeitsrecht-schnittstelle
-description: "See- und Schifffahrtsrecht: Seearbeitsrecht Schnittstelle. Seearbeitsrecht Schnittstelle im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Seearbeitsrecht Schnittstelle in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Seearbeitsrecht Schnittstelle

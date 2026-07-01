@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-verbrauchsteuer
-description: "Verbrauchsteuerrecht im Aussenhandel: Energiesteuer Alkoholsteuer Tabaksteuer und ElektrizitaetssteuerG bei Ein- und Ausfuhr. Steueraussetzungsverfahren EMCS Befoerderungsdokument (e-VD) und Erstattungsansprueche bei Ausfuhr verbrauchsteuerpflichtiger Waren. Abgrenzung Zoll und Verbrauchsteuer. O..."
+description: "Wenn es um Verbrauchsteuer im Aussenhandel: Steueraussetzung EMCS und Erstattung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verbrauchsteuer im Aussenhandel: Steueraussetzung EMCS und Erstattung

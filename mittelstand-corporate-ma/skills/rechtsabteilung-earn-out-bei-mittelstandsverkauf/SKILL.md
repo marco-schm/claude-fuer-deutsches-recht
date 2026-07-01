@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-earn-out-bei-mittelstandsverkauf
-description: "Rechtsabteilungs-Fachmodul für Earn-out bei Mittelstandsverkauf: Earn-out-KPIs, Manipulationsschutz und Post-Closing-Steuerung werden für Verkäufer und Käufer geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Mittelstand Corporate Ma."
+description: "Wenn es um Rechtsabteilung: Earn-out bei Mittelstandsverkauf in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsabteilung: Earn-out bei Mittelstandsverkauf

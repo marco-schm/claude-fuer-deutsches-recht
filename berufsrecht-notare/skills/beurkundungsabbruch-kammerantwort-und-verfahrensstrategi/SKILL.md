@@ -1,6 +1,6 @@
 ---
 name: beurkundungsabbruch-kammerantwort-und-verfahrensstrategi
-description: "Notare: beurkundungsabbruch - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Notare: beurkundungsabbruch - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Notare: beurkundungsabbruch - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

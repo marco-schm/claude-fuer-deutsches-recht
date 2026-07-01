@@ -1,6 +1,6 @@
 ---
 name: chn-032-market-surveillance-eu-import
-description: "Festlandchina Wirtschaftsverkehr: Market Surveillance EU Import. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Market Surveillance EU Import in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Market Surveillance EU Import

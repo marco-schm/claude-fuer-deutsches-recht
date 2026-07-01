@@ -1,6 +1,6 @@
 ---
 name: testamentum-calatis-comitiis
-description: "Testamentum calatis comitiis und in procinctu: aelteste Formen des roemischen Testaments. Skill behandelt die Beurkundung vor dem Volk (calatis comitiis) und vor dem Heer (in procinctu) sowie ihre Verdraengung durch das mancipationstestament. Liefert Quellenmatrix."
+description: "Wenn es um Rom 142 Testamentum Calatis Comitiis Und In Procinctu in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Testamentum Calatis Comitiis; Arbeitsfeld: Römisches Recht."
 ---
 
 # Rom 142 Testamentum Calatis Comitiis Und In Procinctu

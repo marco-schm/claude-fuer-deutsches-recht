@@ -1,6 +1,6 @@
 ---
 name: spezial-eskalations-livequellen-und-rechtsprechungscheck
-description: "Eskalations: Livequellen- und Rechtsprechungscheck im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Eskalations: Livequellen- und Rechtsprechungscheck in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eskalations: Livequellen- und Rechtsprechungscheck

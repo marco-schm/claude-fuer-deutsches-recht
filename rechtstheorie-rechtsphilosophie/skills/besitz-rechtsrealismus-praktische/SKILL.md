@@ -1,6 +1,6 @@
 ---
 name: besitz-rechtsrealismus-praktische
-description: "Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen."
+description: "Wenn es um Besitz, Rechtsrealismus und praktische Bedürfnisse in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Besitz, Rechtsrealismus und praktische Bedürfnisse

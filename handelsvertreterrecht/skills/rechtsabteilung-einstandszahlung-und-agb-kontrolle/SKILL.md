@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-einstandszahlung-und-agb-kontrolle
-description: "Rechtsabteilungs-Fachmodul für Einstandszahlung und AGB-Kontrolle: Eintrittsgelder und Schulungspauschalen werden auf versteckte Knebelung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsvertreterrecht."
+description: "Wenn es um Rechtsabteilung: Einstandszahlung und AGB-Kontrolle in Handelsvertreterrecht und Vertriebsverträge geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Rechtsabteilung: Einstandszahlung und AGB-Kontrolle

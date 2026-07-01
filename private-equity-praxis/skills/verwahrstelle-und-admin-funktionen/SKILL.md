@@ -1,6 +1,6 @@
 ---
 name: verwahrstelle-und-admin-funktionen
-description: "Prüft Verwahrstelle, Fondsadministration, Bewertung, NAV, Capital Calls, Reporting und Kontrollkette im Private Equity Praxis."
+description: "Wenn es um Verwahrstelle, Administrator und Backoffice in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verwahrstelle, Administrator und Backoffice

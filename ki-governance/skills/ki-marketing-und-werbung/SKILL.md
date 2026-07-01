@@ -1,6 +1,6 @@
 ---
 name: ki-marketing-und-werbung
-description: "KI im Marketing und Werbung: KI-VO-Transparenzpflichten bei synthetischen Inhalten Art. 50, Persoenlichkeitsrecht bei Stimmen- und Gesichtssimulation, UWG bei irrefuehrender Werbung, Empfehlungslogiken und Manipulationsverbot. Compliance-und Reviewer-Checkliste im Ki Governance."
+description: "Wenn es um digitale Werkzeuge: Marketing und Werbung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # KI: Marketing und Werbung

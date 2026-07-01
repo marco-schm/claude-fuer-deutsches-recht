@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-niedersachsen-nordrhein-westfalen
-description: "Prüft Schulrecht in Niedersachsen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder."
+description: "Wenn es um Schulgesetz Niedersachsen in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulgesetz Niedersachsen

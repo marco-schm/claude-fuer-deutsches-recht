@@ -1,6 +1,6 @@
 ---
 name: neu-004-hamburger-handelsrecht-kaufmannspraxis-und-seehandel
-description: "Deutsche Rechtsgeschichte: Hamburger Handelsrecht Kaufmannspraxis und Seehandel im Deutsche Rechtsgeschichte."
+description: "Wenn es um Deutsche Rechtsgeschichte: 004 Hamburger Handelsrecht Kaufmannspraxis Und Seehandel in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Deutsche Rechtsgeschichte: 004 Hamburger Handelsrecht Kaufmannspraxis Und Seehandel

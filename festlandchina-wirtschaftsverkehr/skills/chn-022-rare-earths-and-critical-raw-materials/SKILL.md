@@ -1,6 +1,6 @@
 ---
 name: chn-022-rare-earths-and-critical-raw-materials
-description: "Festlandchina Wirtschaftsverkehr: Rare Earths And Critical Raw Materials. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Rare Earths And Critical Raw Materials in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rare Earths And Critical Raw Materials

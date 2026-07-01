@@ -1,6 +1,6 @@
 ---
 name: betriebskosten-materiell
-description: "Materielle Betriebskostenprüfung: Umlagefähigkeit nach Mietvertrag und BetrKV, laufende Kosten, Wirtschaftlichkeitsgebot, Abgrenzung Wartung/Reparatur, Verwaltung/Instandhaltung, Hausmeistersplit, Versicherung, Grundsteuer, Belege und Korrekturberechnung:..."
+description: "Wenn es um Betriebskosten Materiell in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Materielle Betriebskostenprüfung: Umlagefähigkeit nach Mietvertrag und BetrKV, laufende Kosten, Wirtschaftlichkeitsgebot, Abgrenzung Wartung/Reparatur, Verwaltung/Instandhaltung, Hausmeistersplit, Versicherung, Grundsteuer, Belege und Korrekturberechnung.

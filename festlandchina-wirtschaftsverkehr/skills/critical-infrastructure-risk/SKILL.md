@@ -1,6 +1,6 @@
 ---
 name: critical-infrastructure-risk
-description: "Risikobewertung kritischer Infrastruktur (KRITIS) bei China-Beteiligung: BSI-KRITIS-Sektoren, IT-Sicherheitsgesetz 2.0 §§ 8a ff., AWV-Sektorenprüfung Telekommunikation/Energie/Wasser, NIS-2-Richtlinie, chinesisches National Security Law CN als Gegenrisiko, Sicherheitsüberprüfungen, Lieferantenaus..."
+description: "Wenn es um Kritische Infrastruktur und China-Beteiligung: Risikobewertung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kritische Infrastruktur und China-Beteiligung: Risikobewertung

@@ -1,6 +1,6 @@
 ---
 name: drg-101-personelle-kontinuitaeten-nach-1945
-description: "Analysiert Rückkehr, Warteschleifen, Umdeutung und Verschweigen belasteter Juristen in Fakultäten, Justiz, Ministerien, Verbänden und Wirtschaft nach 1945."
+description: "Wenn es um Personelle Kontinuitäten nach 1945 in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 101 Personelle Kontinuitaeten Nach 1945; Arbeitsfeld: Deutsche Rechtsgeschichte."
 ---
 # Personelle Kontinuitäten nach 1945
 

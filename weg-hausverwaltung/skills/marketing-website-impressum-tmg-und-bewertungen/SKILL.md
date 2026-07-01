@@ -1,6 +1,6 @@
 ---
 name: marketing-website-impressum-tmg-und-bewertungen
-description: "Verwalter-Website rechtssicher gestalten (Stand 06/2026): Impressum nach § 5 DDG, Datenschutz nach TDDDG, § 34c GewO, Umgang mit falschen und negativen Bewertungen auf Google und Co: Verwalter-Website rechtssicher gestalten (Stand 06/2026): Impressum nach §..."
+description: "Wenn es um Marketing Website Impressum Tmg Und Bewertungen in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verwalter-Website rechtssicher gestalten (Stand 06/2026): Impressum nach § 5 DDG, Datenschutz nach TDDDG, § 34c GewO, Umgang mit falschen und negativen Bewertungen auf Google und Co

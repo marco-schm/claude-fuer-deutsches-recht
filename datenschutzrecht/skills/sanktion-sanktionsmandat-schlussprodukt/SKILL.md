@@ -1,6 +1,6 @@
 ---
 name: sanktion-sanktionsmandat-schlussprodukt
-description: "Datenschutzrecht-Brückenskill: Schlussprodukt des Sanktionsmandats planen: Einstellung, Verwarnung, reduzierte Geldbuße, aufgehobene Anordnung, Vergleich, Urteil oder Rechtsbeschwerde als Zielbild definieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkomm..."
+description: "Wenn es um Schlussprodukt des Sanktionsmandats planen in Datenschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Schlussprodukt des Sanktionsmandats planen

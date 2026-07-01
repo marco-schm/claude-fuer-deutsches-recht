@@ -1,6 +1,6 @@
 ---
 name: verl-016-isbn-metadaten-vlb-und-meldeprozesse
-description: "Verlagsrecht: ISBN Metadaten VLB und Meldeprozesse mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Verlagsrecht: ISBN Metadaten VLB und Meldeprozesse in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verlagsrecht: ISBN Metadaten VLB und Meldeprozesse

@@ -1,6 +1,6 @@
 ---
 name: schulweg-und-verkehrsberuhigung
-description: "Straßenverkehrsrecht StVO: Schulweg und Verkehrsberuhigung. Schulweg und Verkehrsberuhigung im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fris..."
+description: "Wenn es um Schulweg Und Verkehrsberuhigung in Straßenverkehrsrecht StVO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulweg Und Verkehrsberuhigung

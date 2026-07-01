@@ -1,6 +1,6 @@
 ---
 name: interne-dokumentation-art-33-abs-5
-description: "Pflegt das interne Vorfallregister nach Art. 33 Abs. 5 DSGVO als Beweisinstrument der Rechenschaftspflicht. Behandelt: Pflichtinhalte Sachverhalt, Auswirkungen, Abhilfemaßnahmen, Bewertung; Verknüpfung mit VVT; Aufbewahrungsfristen; Schnittstelle zu Risikomanagement; Vorlage auf Anforderung der A..."
+description: "Wenn es um Interne Dokumentation Art. 33 Abs. 5 DSGVO — Vorfallregister in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Interne Dokumentation Art. 33 Abs. 5 DSGVO — Vorfallregister

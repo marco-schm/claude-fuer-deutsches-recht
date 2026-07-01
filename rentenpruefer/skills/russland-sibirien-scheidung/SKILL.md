@@ -1,6 +1,6 @@
 ---
 name: russland-sibirien-scheidung
-description: "Russische oder sibirische Zeiten: vertragsloser Drittstaat, FRG-/Spätaussiedler-Schnittstelle, Beweisnot, ausländische Renten und Grenzen deutscher Anerkennung im Rentenpruefer."
+description: "Wenn es um russland-sibirien-zeiten-und-frg in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # russland-sibirien-zeiten-und-frg

@@ -1,6 +1,6 @@
 ---
 name: beschlussvorlagen
-description: "Formuliert rechtssichere Beschlussvorschläge für Versammlung, Vorstand oder Ausschuss im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Beschlussvorlagen in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschlussvorlagen

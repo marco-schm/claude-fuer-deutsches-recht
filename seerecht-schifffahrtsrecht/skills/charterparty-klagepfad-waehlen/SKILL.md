@@ -1,6 +1,6 @@
 ---
 name: charterparty-klagepfad-waehlen
-description: "Charterparty: Gläubiger oder Reeder waehlt Klagepfad bei Streit um Gechartertes Seeschiff unter Charterparty: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahr..."
+description: "Wenn es um Charterparty – Klagepfad wählen in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Charterparty – Klagepfad wählen

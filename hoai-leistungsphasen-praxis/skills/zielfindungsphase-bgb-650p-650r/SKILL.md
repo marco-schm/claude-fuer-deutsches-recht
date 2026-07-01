@@ -1,6 +1,6 @@
 ---
 name: zielfindungsphase-bgb-650p-650r
-description: "HOAI-Fachfrage: Zielfindungsphase nach § 650p Abs. 2 BGB, Planungsgrundlage, Kosteneinschätzung, Sonderkündigungsrecht § 650r BGB und Übergang in die eigentliche Planung führen im Hoai Leistungsphasen Praxis."
+description: "Wenn es um Zielfindungsphase Nach BGB 650p Und 650r in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zielfindungsphase Nach BGB 650p Und 650r

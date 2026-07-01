@@ -1,6 +1,6 @@
 ---
 name: agb-leasingvertrag-fortwirkung-schiedsklausel
-description: "AGB im Leasingvertrag. Skill klaert AGB-Klauseln in Operating- und Finance-Leasing Verteilung der Sach- und Rechtsgefahr Maengelhaftungs-Drittinanspruchnahme (Drittabtretungsmodell BGH) Restwertabrechnung Andienung Mehrkilometerregelung. Liefert Klauselentwurf im AGB-Recht."
+description: "Wenn es um Agb Im Leasingvertrag Fortwirkung in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Leasingvertrag Fortwirkung Schiedsklausel; Arbeitsfeld: AGB-Recht-Prüfer."
 ---
 
 # Agb Im Leasingvertrag Fortwirkung

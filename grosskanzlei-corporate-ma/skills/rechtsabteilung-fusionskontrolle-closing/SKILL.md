@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-fusionskontrolle-closing
-description: "Rechtsabteilungs-Fachmodul für Fusionskontrolle als Closing Condition: Regulatory Timetable, Hell-or-High-Water und Long Stop Date werden verknüpft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Wenn es um Rechtsabteilung: Fusionskontrolle als Closing Condition in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Rechtsabteilung: Fusionskontrolle als Closing Condition

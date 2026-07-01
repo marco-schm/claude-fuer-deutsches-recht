@@ -1,6 +1,6 @@
 ---
 name: wortlaut-grammatikalische-auslegung
-description: "Grammatikalische Auslegung im deutschen Zivilrecht. Bedeutung im allgemeinen Sprachgebrauch vs. juristischer Fachsprache. Wortlaut-Grenze als aeussere Grenze jeder Auslegung (jenseits davon: Rechtsfortbildung). Umgang mit Legaldefinitionen, mehrdeutigen Begriffen, Begriffen aus Verkehrskreisen, F..."
+description: "Wenn es um Wortlaut / grammatikalische Auslegung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wortlaut / grammatikalische Auslegung

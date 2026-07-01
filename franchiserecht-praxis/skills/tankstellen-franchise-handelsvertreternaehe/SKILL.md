@@ -1,6 +1,6 @@
 ---
 name: tankstellen-franchise-handelsvertreternaehe
-description: "Tankstellen-Franchise und Handelsvertreter-Nähe rechtlich einordnen: Abgrenzung Kommissionsagentur vs. Franchise vs. Handelsvertretung, Ausgleichsanspruch nach § 89b HGB, Kraftstoffpreisbindung und kartellrechtliche Aspekte im Franchiserecht."
+description: "Wenn es um Franchiserecht: Tankstellen-Franchise und Handelsvertreter-Nähe in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Tankstellen-Franchise und Handelsvertreter-Nähe

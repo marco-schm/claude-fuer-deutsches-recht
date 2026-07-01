@@ -1,6 +1,6 @@
 ---
 name: ggmbh-risikoampel-und-gegenargumente
-description: "Ggmbh: Risikoampel, Gegenargumente und Verteidigungslinien im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsgrue..."
+description: "Wenn es um Ggmbh: Risikoampel, Gegenargumente und Verteidigungslinien in gesellschaftsgründer — Gründungsassistent für deutsche geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ggmbh: Risikoampel, Gegenargumente und Verteidigungslinien

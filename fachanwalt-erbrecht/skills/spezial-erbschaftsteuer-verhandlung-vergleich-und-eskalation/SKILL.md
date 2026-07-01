@@ -1,6 +1,6 @@
 ---
 name: spezial-erbschaftsteuer-verhandlung-vergleich-und-eskalation
-description: "Erbschaftsteuer: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Erbschaftsteuer: Verhandlung, Vergleich und Eskalation in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Erbschaftsteuer: Verhandlung, Vergleich und Eskalation

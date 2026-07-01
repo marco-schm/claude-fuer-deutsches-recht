@@ -1,6 +1,6 @@
 ---
 name: rolle-erkennen
-description: "Klären, ob jemand Antragsteller, Adressat, Zeuge, Beschuldigter, Betroffener, Beteiligter, Elternteil, Sorgeberechtigter, Bevollmächtigter oder nur Auskunftsperson ist im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Rolle erkennen in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rolle erkennen

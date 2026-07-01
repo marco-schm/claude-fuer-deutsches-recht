@@ -1,6 +1,6 @@
 ---
 name: kommandocenter
-description: "Einstiegspunkt für neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen Prioritaeten setzen naechste Workstreams planen. §§ 56 80 InsO Verwalterbestellung § 270d Schutzschirm StaRUG. Prüfraster: Verfahrensrolle Sicherungsmassnahmen Betriebsfortführung Masseampel Fristen. Output: Verfahrenska..."
+description: "Wenn es um Insolvenzverwaltungs-Kommandocenter in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenzverwaltungs-Kommandocenter

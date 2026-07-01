@@ -1,6 +1,6 @@
 ---
 name: psychedelika-studie-therapie
-description: "Psychedelika Studie und Therapie: moderner Medizinrechts-Skill für Psilocybin/MDMA-Studie, Betäubungsmittelrecht, Ethik, Off-Label-Mythen und Haftung: Psychedelika Studie und Therapie: moderner Medizinrechts-Skill für Psilocybin/MDMA-Studie, Betäubungsmitte..."
+description: "Wenn es um Psychedelika Studie Therapie in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Psychedelika Studie und Therapie: moderner Medizinrechts-Skill für Psilocybin/MDMA-Studie, Betäubungsmittelrecht, Ethik, Off-Label-Mythen und Haftung

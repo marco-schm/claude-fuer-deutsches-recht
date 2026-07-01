@@ -1,6 +1,6 @@
 ---
 name: chn-023-sanctions-and-restricted-party-screening
-description: "Festlandchina Wirtschaftsverkehr: Sanctions And Restricted Party Screening. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Sanctions And Restricted Party Screening in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Sanctions And Restricted Party Screening

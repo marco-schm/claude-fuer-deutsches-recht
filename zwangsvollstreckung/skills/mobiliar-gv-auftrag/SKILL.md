@@ -1,6 +1,6 @@
 ---
 name: mobiliar-gv-auftrag
-description: "Gerichtsvollzieherauftrag zur Mobiliarvollstreckung: Titel, Klausel, Zustellung, Modulwahl nach Paragraf 802a ZPO, Sachpfändung nach Paragraf 808 ZPO, Drittgewahrsam, Durchsuchungsanordnung, Unpfändbarkeit, Austauschpfändung und Verwertung."
+description: "Wenn es um Mobiliarvollstreckung durch den Gerichtsvollzieher in Zwangsvollstreckung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mobiliarvollstreckung durch den Gerichtsvollzieher

@@ -1,6 +1,6 @@
 ---
 name: mueller-arnold-fall-justizreform
-description: "PrALR: Müller-Arnold-Fall, Justizreform, Richterbild und Kodifikationsmotiv kritisch einordnen."
+description: "Wenn es um Müller-Arnold und Justizreform in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mueller Arnold Fall Justizreform; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Müller-Arnold und Justizreform

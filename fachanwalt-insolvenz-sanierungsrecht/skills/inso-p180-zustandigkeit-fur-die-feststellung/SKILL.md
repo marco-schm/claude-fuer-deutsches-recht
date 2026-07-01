@@ -1,6 +1,6 @@
 ---
 name: inso-p180-zustandigkeit-fur-die-feststellung
-description: "§ 180 InsO (Zuständigkeit für die Feststellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 180 InsO (Zuständigkeit für die Feststellung) im Mandat prüfen: Normzweck, Tatbestand, Beleg..."
+description: "Wenn es um Inso P180 Zustandigkeit Fur Die Feststellung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 180 InsO (Zuständigkeit für die Feststellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

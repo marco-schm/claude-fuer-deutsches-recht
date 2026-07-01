@@ -1,6 +1,6 @@
 ---
 name: statusfeststellung-geschaeftsfuehrer-lehrer-freelancer
-description: "Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgeschäftsführern, mittelbarer Beteiligung, Dozenten und projektbezogenen Freelancern im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Statusfeststellung: Geschäftsführer, Lehrer, Freelancer und Scheinselbstständigkeit in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Statusfeststellung: Geschäftsführer, Lehrer, Freelancer und Scheinselbstständigkeit

@@ -1,6 +1,6 @@
 ---
 name: schultraeger-gebaeude-und-ausstattung
-description: "Prüft Schulträgerpflichten für Gebäude, Ausstattung und Barrierefreiheit im Schulrecht Länder."
+description: "Wenn es um Schultraeger Gebaeude Und Ausstattung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schultraeger Gebaeude Und Ausstattung

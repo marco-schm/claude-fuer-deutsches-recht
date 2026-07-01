@@ -1,6 +1,6 @@
 ---
 name: luft-010-flughafen-planfeststellung
-description: "Luftrecht und Flughafenrecht: Flughafen Planfeststellung. Flughafen Planfeststellung im Fachgebiet Luftrecht und Flughafenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Flughafen Planfeststellung in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flughafen Planfeststellung

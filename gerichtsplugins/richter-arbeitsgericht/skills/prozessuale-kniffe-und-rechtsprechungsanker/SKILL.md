@@ -1,6 +1,6 @@
 ---
 name: prozessuale-kniffe-und-rechtsprechungsanker
-description: Bündelt arbeitsgerichtliche Prozesskniffe zu Güteverhandlung, Kammertermin, Hinweis, Darlegungslast, Vergleich, Tenor und Vollstreckbarkeit.
+description: "Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Arbeitsgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 # Prozessuale Kniffe und Rechtsprechungsanker
 

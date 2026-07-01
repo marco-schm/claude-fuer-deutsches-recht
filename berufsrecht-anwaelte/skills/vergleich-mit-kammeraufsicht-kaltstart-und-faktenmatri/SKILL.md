@@ -1,6 +1,6 @@
 ---
 name: vergleich-mit-kammeraufsicht-kaltstart-und-faktenmatri
-description: "Anwälte: vergleich mit kammeraufsicht - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Vergleich Mit Kammeraufsicht Kaltstart Und Faktenmatri in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: vergleich mit kammeraufsicht - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

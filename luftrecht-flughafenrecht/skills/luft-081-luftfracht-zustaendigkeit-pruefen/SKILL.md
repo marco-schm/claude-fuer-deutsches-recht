@@ -1,6 +1,6 @@
 ---
 name: luft-081-luftfracht-zustaendigkeit-pruefen
-description: "Luftrecht und Flughafenrecht: Luftfracht: Zuständigkeit prüfen. Zuständigkeit prüfen für Luftfracht im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Luftfracht Zustaendigkeit Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Luftfracht Zustaendigkeit Pruefen

@@ -1,6 +1,6 @@
 ---
 name: rangruecktritt-rangvorbehalt
-description: "Notariat im Alltag: Rangrücktritt, Rangvorbehalt, Löschung und Pfandfreigabe. Grundbuchrangrecht nach §§ 879–882 BGB, Rangrücktritt, Löschungsunterlagen und Pfandfreigabe-Mechanismen im Notariat."
+description: "Wenn es um Notariat im Alltag: Rangrücktritt, Rangvorbehalt, Löschung, Pfandfreigabe in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notariat im Alltag: Rangrücktritt, Rangvorbehalt, Löschung, Pfandfreigabe

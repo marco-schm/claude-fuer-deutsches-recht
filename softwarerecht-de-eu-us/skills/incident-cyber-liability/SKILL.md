@@ -1,6 +1,6 @@
 ---
 name: incident-cyber-liability
-description: "Prüft Haftung nach Software-Cybervorfall, Logs, Patches, vertragliche Pflichten, DSGVO und Produktsicherheit im Softwarerecht De Eu Us."
+description: "Wenn es um Cyber Incident Liability Software in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cyber Incident Liability Software

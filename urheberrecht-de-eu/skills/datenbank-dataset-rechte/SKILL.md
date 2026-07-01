@@ -1,6 +1,6 @@
 ---
 name: datenbank-dataset-rechte
-description: "Prüft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, automatisiertes Auslesen, Dataset-Lizenz und KI-Trainingskorpus im Urheberrecht De Eu."
+description: "Wenn es um Datenbanken, Datasets und Trainingskorpora in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Datenbanken, Datasets und Trainingskorpora

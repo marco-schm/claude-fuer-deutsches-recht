@@ -1,6 +1,6 @@
 ---
 name: anmeldung-spezial-compliance-euipo
-description: "Anmeldung im gewerblichen Rechtsschutz: Behörden, Gerichte und Registerwege für Marken, Patente, Designs und Gebrauchsmuster. DPMA, EUIPO, EPA, WIPO, Bundespatentgericht – Zuständigkeiten, Formulare, Fristen und Einreichungswege im Gewerblicher Rechtsschutz."
+description: "Wenn es um Spezial: Anmeldung – Behörden, Gerichte und Registerwege in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezial: Anmeldung – Behörden, Gerichte und Registerwege

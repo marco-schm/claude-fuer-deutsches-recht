@@ -1,6 +1,6 @@
 ---
 name: statusfeststellung-und-krankenversicherung
-description: "Statusfeststellungsverfahren nach § 7a SGB IV: Scheinselbstständigkeit, sozialversicherungsrechtliche Folgen für die Krankenversicherung und Nachzahlungsrisiken im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Statusfeststellung und Krankenversicherung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Statusfeststellung und Krankenversicherung

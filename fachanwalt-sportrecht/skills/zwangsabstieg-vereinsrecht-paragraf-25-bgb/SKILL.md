@@ -1,6 +1,6 @@
 ---
 name: zwangsabstieg-vereinsrecht-paragraf-25-bgb
-description: "Zwangsabstieg Vereinsrecht § 25 BGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Zwangsabstieg Vereinsrecht Paragraf 25 BGB in Fachanwalt Sportrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zwangsabstieg Vereinsrecht § 25 BGB

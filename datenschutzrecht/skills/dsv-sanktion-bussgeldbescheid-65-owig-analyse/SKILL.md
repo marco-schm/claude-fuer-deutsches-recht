@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-bussgeldbescheid-65-owig-analyse
-description: "Datenschutzrecht-Brückenskill: Bußgeldbescheid § 65 OWiG analysieren: Tenor, Tat, Norm, Begründung, Bemessung, Zustellung und Rechtsbehelf des Bußgeldbescheids zerlegen: Datenschutzrecht-Brückenskill: Bußgeldbescheid § 65 OWiG analysieren: Tenor, Tat, Norm,..."
+description: "Wenn es um Dsv Sanktion Bussgeldbescheid 65 Owig Analyse in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutzrecht-Brückenskill: Bußgeldbescheid § 65 OWiG analysieren: Tenor, Tat, Norm, Begründung, Bemessung, Zustellung und Rechtsbehelf des Bußgeldbescheids zerlegen

@@ -1,6 +1,6 @@
 ---
 name: preference-ordinary-course
-description: "Prüft ordinary-course, contemporaneous exchange, new value and subsequent new value defenses im US Bankruptcy Code."
+description: "Wenn es um Preference Defense Ordinary Course in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Preference Defense Ordinary Course

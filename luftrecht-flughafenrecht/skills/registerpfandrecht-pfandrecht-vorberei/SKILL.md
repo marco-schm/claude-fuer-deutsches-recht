@@ -1,6 +1,6 @@
 ---
 name: registerpfandrecht-pfandrecht-vorberei
-description: "Gläubigerbank will Pfandrecht an Luftfahrzeug bestellen und gleichzeitig Cape-Town-Sicherungsinteresse eintragen. Prüft LuftFzgG §§ 1-12 Notarerfordernis Rangordnung AG-Braunschweig-Antrag Cape-Town-Prioritaet und liefert Bestellungs-Checkliste und Antragsentwurf im Luftrecht Flughafenrecht."
+description: "Wenn es um Registerpfandrecht – Pfandrecht vorbereiten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerpfandrecht – Pfandrecht vorbereiten

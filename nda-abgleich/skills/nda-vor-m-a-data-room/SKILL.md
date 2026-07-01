@@ -1,6 +1,6 @@
 ---
 name: nda-vor-m-a-data-room
-description: "NDA vor M&A-Data-Room: enge Zweckbindung (Prüfung Transaktion), Standstill-Klausel, Non-Solicit, Verbot Reverse-Engineering. Empfehlung: separater Clean Team Agreement für Kartell-/Wettbewerbsdaten."
+description: "Wenn es um NDA für M&A-Data-Room in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nda Vor M A Data Room; Arbeitsfeld: NDA-Abgleich."
 ---
 
 # NDA für M&A-Data-Room

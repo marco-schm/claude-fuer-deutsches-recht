@@ -1,6 +1,6 @@
 ---
 name: verhandlung-abschlussprodukt-und-uebergabe
-description: "Verhandlung: Abschlussprodukt und Übergabe: Verhandlung: Abschlussprodukt und Übergabe."
+description: "Wenn es um Verhandlung: Abschlussprodukt und Übergabe in Fachanwalt It Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Verhandlung: Abschlussprodukt und Übergabe

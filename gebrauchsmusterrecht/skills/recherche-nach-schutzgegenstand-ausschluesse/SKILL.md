@@ -1,6 +1,6 @@
 ---
 name: recherche-nach-schutzgegenstand-ausschluesse
-description: "Recherche nach § 7 GebrMG vorbereiten und auswerten: DPMA-Rechercheantrag, Stand der Technik, Trefferbewertung und Rechtsbestandsrisiko im Gebrauchsmusterrecht."
+description: "Wenn es um Recherche Nach Paragraph 7 Gebrmg in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Recherche Nach Paragraph 7 Gebrmg

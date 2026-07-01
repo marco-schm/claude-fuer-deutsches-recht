@@ -1,6 +1,6 @@
 ---
 name: bank-kyc-ubo-und-transparenzregister
-description: Bereitet Kontoeröffnung, KYC-Unterlagen, wirtschaftlich Berechtigte, Transparenzregister und Bankkommunikation für Gründer vor.
+description: "Wenn es um Bank, KYC, UBO und Transparenzregister in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 # Bank, KYC, UBO und Transparenzregister
 

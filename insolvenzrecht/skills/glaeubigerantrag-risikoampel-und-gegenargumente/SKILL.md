@@ -1,6 +1,6 @@
 ---
 name: glaeubigerantrag-risikoampel-und-gegenargumente
-description: "Gläubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
+description: "Wenn es um Gläubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gläubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien

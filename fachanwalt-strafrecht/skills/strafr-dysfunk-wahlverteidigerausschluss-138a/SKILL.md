@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-wahlverteidigerausschluss-138a
-description: "Wahlverteidigerausschluss nach § 138a StPO abwehren: Antrag muss konkrete tatbestandliche Voraussetzungen substantiieren. § 138a Abs. 1 Nr. 1 bis 3 StPO erfasst Tatverstrickung, Strafverletzungen oder Sic..."
+description: "Wenn es um Wahlverteidigerausschluss nach Paragraf 138a StPO abwehren in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Wahlverteidigerausschluss nach § 138a StPO abwehren

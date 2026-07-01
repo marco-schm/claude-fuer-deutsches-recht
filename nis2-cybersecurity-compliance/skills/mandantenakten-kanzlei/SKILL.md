@@ -1,6 +1,6 @@
 ---
 name: mandantenakten-kanzlei
-description: "Prüft Cybersecurity für Kanzlei- und Mandatsakten im Nis2 Cybersecurity Compliance."
+description: "Wenn es um Mandantenakten Kanzlei in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mandantenakten Kanzlei

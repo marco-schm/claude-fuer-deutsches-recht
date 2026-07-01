@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-elternkommunikation
-description: "Erklärt Schulrecht verständlich für Familien mit Deutsch als Zweitsprache im Schulrecht Länder."
+description: "Wenn es um Mehrsprachige Elternkommunikation in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mehrsprachige Elternkommunikation

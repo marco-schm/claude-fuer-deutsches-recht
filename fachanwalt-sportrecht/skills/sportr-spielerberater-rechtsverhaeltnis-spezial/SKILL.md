@@ -1,6 +1,6 @@
 ---
 name: sportr-spielerberater-rechtsverhaeltnis-spezial
-description: "Spezialfall Spielerberater-Rechtsverhaeltnis: FIFA-Reglement RWFC 2023, DFB-Reglement, Klauseln Exclusive Mandate, Commission Cap, Anti-Tampering: Spezialfall Spielerberater-Rechtsverhaeltnis: FIFA-Reglement RWFC 2023, DFB-Reglement, Klauseln Exclusive Mand..."
+description: "Wenn es um Sportr Spielerberater Rechtsverhaeltnis Spezial in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spezialfall Spielerberater-Rechtsverhaeltnis: FIFA-Reglement RWFC 2023, DFB-Reglement, Klauseln Exclusive Mandate, Commission Cap, Anti-Tampering

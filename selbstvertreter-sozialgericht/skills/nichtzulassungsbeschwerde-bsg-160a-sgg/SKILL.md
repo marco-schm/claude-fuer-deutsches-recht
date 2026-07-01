@@ -1,6 +1,6 @@
 ---
 name: nichtzulassungsbeschwerde-bsg-160a-sgg
-description: "Nichtzulassungsbeschwerde zum BSG nach § 160a SGG. Wenn LSG Revision nicht zugelassen hat. Grundsatzbedeutung Divergenz Verfahrensmangel mit Anwalt."
+description: "Wenn es um Nichtzulassungsbeschwerde — Paragraf 160a SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nichtzulassungsbeschwerde — § 160a SGG

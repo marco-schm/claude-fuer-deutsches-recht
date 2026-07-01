@@ -1,6 +1,6 @@
 ---
 name: kontenpfaendung-notar-interessen-online
-description: "Kontopfändung per Pfändungs- und Überweisungsbeschluss: Antrag, Forderungsaufstellung, Bank als Drittschuldner, Paragraf-840-Erklärung, P-Konto, elektronische Einreichung und digitale Zustellung an Kreditinstitute ab 2027."
+description: "Wenn es um Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken

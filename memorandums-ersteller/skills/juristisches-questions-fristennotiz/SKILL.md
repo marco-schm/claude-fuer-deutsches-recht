@@ -1,6 +1,6 @@
 ---
 name: juristisches-questions-fristennotiz
-description: "Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg

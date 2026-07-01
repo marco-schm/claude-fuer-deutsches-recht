@@ -1,6 +1,6 @@
 ---
 name: plan-starug-vergleichsrechnung
-description: "StaRUG-Restrukturierungsplan vollständig strukturieren von Planbetroffenenauswahl bis Bestätigungspfad. §§ 6 7 8 StaRUG Planinhalt §§ 60 ff. StaRUG Abstimmung und Gerichtsverfahren. Prüfraster: Restrukturierungsfähigkeit drohende ZU gestaltbare Rechtsverhältnisse Plananlagen Bestätigungsvorausset..."
+description: "Wenn es um IV-integrierte StaRUG-Plan-Architektur in Insolvenzverwaltung - IV-Cockpit geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # IV-integrierte StaRUG-Plan-Architektur

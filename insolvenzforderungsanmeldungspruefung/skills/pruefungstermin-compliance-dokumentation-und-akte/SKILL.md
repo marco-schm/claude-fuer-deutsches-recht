@@ -1,6 +1,6 @@
 ---
 name: pruefungstermin-compliance-dokumentation-und-akte
-description: "Prüfungstermin: Compliance-Dokumentation und Aktenvermerk im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanme..."
+description: "Wenn es um Prüfungstermin: Compliance-Dokumentation und Aktenvermerk in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfungstermin: Compliance-Dokumentation und Aktenvermerk

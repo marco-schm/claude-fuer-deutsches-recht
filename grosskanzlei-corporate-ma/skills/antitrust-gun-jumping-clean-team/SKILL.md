@@ -1,6 +1,6 @@
 ---
 name: antitrust-gun-jumping-clean-team
-description: "Antitrust, Gun-Jumping und Clean-Team Spezialist: prüft Wettbewerberkontakte, Informationsaustausch, Vollzugsverbot, Integration Planning und Clean-Team-Design: Antitrust, Gun-Jumping und Clean-Team Spezialist: prüft Wettbewerberkontakte, Informationsaus..."
+description: "Wenn es um Antitrust Gun Jumping Clean Team in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Antitrust Gun Jumping Clean Team; Arbeitsfeld: Großkanzlei Corporate/M&A."
 ---
 
 # Antitrust, Gun-Jumping und Clean-Team Spezialist: prüft Wettbewerberkontakte, Informationsaustausch, Vollzugsverbot, Integration Planning und Clean-Team-Design.

@@ -1,6 +1,6 @@
 ---
 name: fristverlaengerung-sozialgericht-laien
-description: "Fristverlaengerung im SG-Verfahren beantragen. Welche Fristen sind verlaengerbar welche nicht. Mustertext für Buerger. Begründung Stellungnahme zum Gutachten."
+description: "Wenn es um Fristverlaengerung im SG-Verfahren in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristverlaengerung im SG-Verfahren

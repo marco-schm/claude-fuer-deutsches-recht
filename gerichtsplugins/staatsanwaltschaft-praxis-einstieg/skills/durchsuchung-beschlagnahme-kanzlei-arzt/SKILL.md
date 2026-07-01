@@ -1,6 +1,6 @@
 ---
 name: durchsuchung-beschlagnahme-kanzlei-arzt
-description: "Staatsanwaltschaftlicher Skill zu Durchsuchung und Beschlagnahme: ordnet Tatverdacht, Zuständigkeit, Beweisstand, Verfügung, Frist und Vorlagegrenze."
+description: "Wenn es um Durchsuchung und Beschlagnahme in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Durchsuchung und Beschlagnahme

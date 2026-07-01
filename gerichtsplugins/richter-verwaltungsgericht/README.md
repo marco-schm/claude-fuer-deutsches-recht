@@ -123,18 +123,18 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `01-zulaessigkeit-verwaltungsklage` | Zulässigkeit der Klage: Verwaltungsrechtsweg Paragraf 40 VwGO, Klagearten Paragrafen 42 113 (Anfechtung Verpflichtung Feststellung), Klagebefugnis, Vorverfahren Paragraf 68, Frist Paragraf 74 |
-| `02-amtsermittlung-und-sachverhaltsfeststellung` | Amtsermittlungsgrundsatz Paragraf 86 VwGO, Ladung der Behoerde zur Vorlage der Akten Paragraf 99 VwGO, Sachverhaltsaufklärung, Beteiligtenvernehmung |
-| `03-begruendetheit-anfechtungsklage` | Begründetheit Paragraf 113 Abs. 1 VwGO: Rechtmaessigkeit des Verwaltungsakts (Rechtsgrundlage, formelle und materielle Rechtmaessigkeit), subjektives Recht des Klägers |
-| `04-begruendetheit-verpflichtungsklage` | Verpflichtungsklage Paragraf 113 Abs. 5 VwGO: Anspruch auf Erlass des begehrten VA, Bescheidungsurteil, Spruchreife, Beurteilungszeitpunkt |
-| `05-eilrechtsschutz-paragraf-80-abs-5` | Eilrechtsschutz Paragraf 80 Abs. 5 VwGO: Anordnung oder Wiederherstellung der aufschiebenden Wirkung, Folgenabwaegung, Erfolgsaussichten der Hauptsache, öffentliches Interesse |
-| `06-eilrechtsschutz-paragraf-123` | Einstweilige Anordnung Paragraf 123 VwGO: Sicherungs- und Regelungsanordnung, Anordnungsanspruch und -grund, Vorwegnahme der Hauptsache (Ausnahme) |
-| `07-beweisaufnahme-verwaltungsgericht` | Beweisaufnahme Paragraf 96 VwGO i.V.m. ZPO: Sachverständigenbeweis, Zeugen, Augenschein, Urkunden, Beweiswürdigung Paragraf 108 VwGO |
-| `08-urteilsentwurf-paragraf-117-vwgo` | Urteilsentwurf Paragraf 117 VwGO: Tenor, Tatbestand (Sachverhalt), Entscheidungsgründe (Zulässigkeit, Begründetheit), Nebenentscheidungen Paragraf 154 VwGO, Streitwert |
-| `09-rechtsmittel-vwgo` | Berufung Paragrafen 124 ff. VwGO (Zulassung durch OVG/VGH), Revision Paragraf 132 VwGO (Zulassung durch BVerwG), Nichtzulassungsbeschwerde, Beschwerde Paragraf 146 VwGO |
-| `10-entscheidungsvorschlag-verwaltungsgericht` | Strukturierter Entscheidungsvorschlag: Tenor, Prüfungsschema Zulässigkeit Begründetheit, Argumentation der Behoerde gegenübergestellt dem Klägervortrag, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert |
-| `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (urteil verwaltungsgericht) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
-| `prozessuale-kniffe-und-rechtsprechungsanker` | Führt öffentlich-rechtliche Verfahrenskniffe zu Amtsermittlung, Gehör, Eilrechtsschutz, Beiladung, Präklusion, Tenor und Begründung zusammen. |
-| `v392-praxisraster-richter-verwaltungsgericht` | Praxisraster für Verwaltungsgericht: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet. |
+| `01-zulaessigkeit-verwaltungsklage` | Wenn es um 01 Zulässigkeit Verwaltungsklage in Verwaltungsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `02-amtsermittlung-und-sachverhaltsfeststellung` | Wenn es um 02 Amtsermittlung und Sachverhaltsfeststellung in Verwaltungsgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `03-begruendetheit-anfechtungsklage` | Wenn es um 03 Begründetheit Anfechtungsklage in Verwaltungsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `04-begruendetheit-verpflichtungsklage` | Wenn es um 04 Begründetheit Verpflichtungsklage in Verwaltungsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `05-eilrechtsschutz-paragraf-80-abs-5` | Wenn es um 05 Eilrechtsschutz Paragraf 80 Abs 5 in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `06-eilrechtsschutz-paragraf-123` | Wenn es um 06 Eilrechtsschutz Paragraf 123 in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `07-beweisaufnahme-verwaltungsgericht` | Wenn es um 07 Beweisaufnahme Verwaltungsgericht in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `08-urteilsentwurf-paragraf-117-vwgo` | Wenn es um 08 Urteilsentwurf Paragraf 117 Vwgo in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `09-rechtsmittel-vwgo` | Wenn es um 09 Rechtsmittel Vwgo in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `10-entscheidungsvorschlag-verwaltungsgericht` | Wenn es um 10 Entscheidungsvorschlag Verwaltungsgericht in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächs... |
+| `99-finale-entscheidung-volltext` | Wenn es um Finale Entscheidung als Volltext (Urteil Verwaltungsgericht) in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkei... |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `v392-praxisraster-richter-verwaltungsgericht` | Wenn es um Praxisraster Verwaltungsgericht in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

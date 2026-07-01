@@ -1,6 +1,6 @@
 ---
 name: vorstandswechsel-register
-description: "Erstellt Registerpaket für Vorstandsänderung mit Protokollauszug, Anmeldung, Beglaubigung und Nachweisen im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Vorstandswechsel Register in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorstandswechsel Register

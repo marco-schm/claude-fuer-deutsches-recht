@@ -1,6 +1,6 @@
 ---
 name: flugzeugleasing-pfandrecht-vorbereiten
-description: "Leasinggeber will internationales Sicherungsinteresse Cape-Town und nationales Pfandrecht an geleasetem Flugzeug koordinieren. Prüft Cape-Town-Convention Art. 2 ICAO-Register-Eintragung LuftFzgG §§ 1-12 AG-Braunschweig und IDERA-Bestellung und liefert Sicherungsstruktur-Vermerk im Luftrecht Flug..."
+description: "Wenn es um Flugzeugleasing – Pfandrecht vorbereiten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Flugzeugleasing – Pfandrecht vorbereiten

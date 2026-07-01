@@ -1,6 +1,6 @@
 ---
 name: infostand-mahnwache-kleinstversammlung
-description: "Prüft Kleinstkundgebung, Mahnwache, Infostand mit politischem Meinungskern und Abgrenzung zur Sondernutzung im Versammlungsrecht."
+description: "Wenn es um Zwei Menschen können schon reichen in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zwei Menschen können schon reichen

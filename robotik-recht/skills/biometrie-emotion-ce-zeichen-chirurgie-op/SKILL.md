@@ -1,6 +1,6 @@
 ---
 name: biometrie-emotion-ce-zeichen-chirurgie-op
-description: "Prüft Biometrie, Emotionserkennung, Personenerkennung, Beschäftigtenkontext und Transparenzpflichten bei Robotern im Robotik-Recht."
+description: "Wenn es um Biometrie, Emotion und Personenerkennung in der Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Biometrie Emotion Ce Zeichen Chirurgie Op; Arbeitsfeld: robotik-recht."
 ---
 
 # Biometrie, Emotion und Personenerkennung in der Robotik

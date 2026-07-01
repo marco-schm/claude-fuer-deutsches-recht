@@ -1,6 +1,6 @@
 ---
 name: fusion-vereine
-description: "Prüft Zusammenschluss, Vermögensübertragung, Mitgliederzustimmung, Satzungen und Registerpfad im Vereinsrecht Vereinsmanager."
+description: "Wenn es um Fusion und Zusammenschluss in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fusion und Zusammenschluss

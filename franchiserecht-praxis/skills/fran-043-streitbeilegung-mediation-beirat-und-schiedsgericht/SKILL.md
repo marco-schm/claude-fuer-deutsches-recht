@@ -1,6 +1,6 @@
 ---
 name: fran-043-streitbeilegung-mediation-beirat-und-schiedsgericht
-description: "Franchiserecht: Streitbeilegung Mediation Beirat und Schiedsgericht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Streitbeilegung Mediation Beirat und Schiedsgericht in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Streitbeilegung Mediation Beirat und Schiedsgericht

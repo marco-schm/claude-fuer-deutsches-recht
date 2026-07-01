@@ -1,6 +1,6 @@
 ---
 name: religionsunterricht-ethik-befreiung
-description: "Prüft Religionsunterricht, Ethik, Befreiung und Weltanschauung im Schulrecht Länder."
+description: "Wenn es um Religionsunterricht Ethik Befreiung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Religionsunterricht Ethik Befreiung

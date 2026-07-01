@@ -1,6 +1,6 @@
 ---
 name: vert-leistungsstoerungen-leitfaden
-description: "Leitfaden Leistungsstoerungen §§ 280 ff. BGB: Unmoeglichkeit, Verzug, Schlechtleistung, Pflichtverletzung, Schadensersatz statt der Leistung. Prüfraster für typische Faelle im Vertragsrecht."
+description: "Wenn es um Vert: Leistungsstoerungen in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vert: Leistungsstoerungen

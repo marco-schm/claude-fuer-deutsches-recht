@@ -1,6 +1,6 @@
 ---
 name: schnittstellen-zahlen-schwellen-und-berechnung
-description: "Schnittstellen: Zahlen, Schwellenwerte und Berechnung: Schnittstellen: Zahlen, Schwellenwerte und Berechnung."
+description: "Wenn es um Schnittstellen: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Urheber Medienrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Schnittstellen: Zahlen, Schwellenwerte und Berechnung

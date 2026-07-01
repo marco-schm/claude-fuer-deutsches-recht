@@ -1,6 +1,6 @@
 ---
 name: kueschk-formfehler-pruefen
-description: "Formfehler-Prüfung bei Kündigungen: Schriftform Paragraf 623 BGB: Vollmachtsruege Paragraf 174 BGB bei fehlender Originalvollmacht; Anhörung Betriebsrat Paragraf 102 BetrVG; Massenentlassung Paragrafen 17 und 18 KSchG mit Anzei..."
+description: "Wenn es um Formfehler-Prüfung bei Kündigungen: Schriftform Paragraf 623 BGB in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Formfehler-Prüfung bei Kündigungen: Schriftform Paragraf 623 BGB

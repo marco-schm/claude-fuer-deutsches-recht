@@ -1,6 +1,6 @@
 ---
 name: influencer-werbung-im-franchisesystem
-description: "Influencer-Werbung im Franchisesystem rechtlich gestalten: Kennzeichnungspflichten nach §§ 5a UWG und MStV, Markennutzungsrechte der Influencer, Haftung des Franchisenehmers und Franchisegebers, vertragliche Einbindung von Influencern ins System im Franchiserecht."
+description: "Wenn es um Franchiserecht: Influencer-Werbung im Franchisesystem in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Franchiserecht: Influencer-Werbung im Franchisesystem

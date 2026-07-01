@@ -1,6 +1,6 @@
 ---
 name: roadshow-dual
-description: "Sichert Roadshows (Kapitalmarkt, Pre-IPO, M&A) gegen MAR-Risiken: Praesentation-Screening, Selective Disclosure, Insider-Free-Periods und Wall-Crossing im Insiderrecht Compliance."
+description: "Wenn es um Roadshows – Insiderrechtliche Compliance in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Roadshows – Insiderrechtliche Compliance

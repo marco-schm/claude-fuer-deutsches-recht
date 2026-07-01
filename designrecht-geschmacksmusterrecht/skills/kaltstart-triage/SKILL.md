@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Designrecht/Geschmacksmusterrecht: klärt Produkt, Wiedergaben, Offenbarung, Fristen, Register, Verletzung, Nichtigkeit, DPMA/EUIPO/WIPO und passende Fachmodule."
+description: "Wenn es um Allgemein in designrecht-geschmacksmusterrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemein

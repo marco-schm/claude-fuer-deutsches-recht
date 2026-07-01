@@ -1,6 +1,6 @@
 ---
 name: examensvorbereitung-fragen
-description: "Examensvorbereitungs-Fragen für 1. und 2. Staatsexamen erstellen: Anwendungsfall Student will Examenswissen durch gezielte Uebungsfragen trainieren und Schwachstellen erkennen. 1. StEx und 2. StEx, JAG Bundesland Bayern NRW Hamburg, Subsumtion Gutachtenstil. Prüfraster Fachgebiet Zivilrecht Straf..."
+description: "Wenn es um Examensvorbereitungs-Fragen in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Examensvorbereitungs-Fragen

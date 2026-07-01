@@ -1,6 +1,6 @@
 ---
 name: workflow-wasserschaden-sofort
-description: "Wasserschaden sofort: Prüfungslinie für Miet- und WEG-Recht: klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills u..."
+description: "Wenn es um Wasserschaden sofort: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Wasserschaden sofort: Prüfungslinie für Miet- und WEG-Recht

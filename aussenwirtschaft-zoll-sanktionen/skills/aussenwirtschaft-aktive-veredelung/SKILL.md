@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-aktive-veredelung
-description: "Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240-262 UZK-DA: Beantragung und Nutzung der Bewilligung beim Hauptzollamt, Mengenueberwachung (INF-Blatt), Ausbeute- und Äquivalenzwarensystem, Gesamtabrechnung und Ausfuhr veredelter Erzeugnisse. Prüft wirtschaftliche Voraussetzung..."
+description: "Wenn es um Aktive Veredelung: Bewilligung, Mengenueberwachung und Abschlussabrechnung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Aktive Veredelung: Bewilligung, Mengenueberwachung und Abschlussabrechnung

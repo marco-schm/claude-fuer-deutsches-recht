@@ -1,6 +1,6 @@
 ---
 name: vers-fristen-verjaehrung-klagefrist-fallkalender
-description: "Fristen und Ausschlussrisiken im Versicherungsrecht: Fälligkeit, Hemmung, Verjährung, Obliegenheitsfristen, Nachprüfungsfristen, Gutachtenfristen und prozessuale Termine sicher verwalten im Versicherungsrecht."
+description: "Wenn es um Fristenkalender für Versicherungsfälle in Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fristenkalender für Versicherungsfälle

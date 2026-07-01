@@ -1,6 +1,6 @@
 ---
 name: bautraeger-weg-gemeinschaftsordnung-pruefen
-description: "WEG-Gemeinschaftsordnung beim Bautraegervertrag prüfen: Skill klaert die Inhalte der Gemeinschaftsordnung Hausordnung Beitraege Stimmrechte und ihre nachtraegliche Änderung. Liefert Prüfraster."
+description: "Wenn es um WEG-Gemeinschaftsordnung beim Bautraegervertrag prüfen in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # WEG-Gemeinschaftsordnung beim Bautraegervertrag prüfen

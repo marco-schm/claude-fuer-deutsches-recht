@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Krisenfrüherkennung StaRUG: stimmt Adressat (Geschäftsführung, Aufsichtsrat, Berater (WP, RA)), Frist (Frühzeitige Indikatoren) und Form auf den Zweck ab — typische Outputs: Frühwarn-Indikatoren-Set, Restrukturierungsplan, Geschäftsführerschutzmemo."
+description: "Wenn es um Output wählen in Krisenfrüherkennung und StaRUG-Management geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

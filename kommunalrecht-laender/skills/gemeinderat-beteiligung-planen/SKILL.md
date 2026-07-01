@@ -1,6 +1,6 @@
 ---
 name: gemeinderat-beteiligung-planen
-description: "der Länder: Gemeinderat: Beteiligung planen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Gemeinderat Beteiligung Planen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gemeinderat Beteiligung Planen

@@ -1,6 +1,6 @@
 ---
 name: database-collections-us-law
-description: "Prüft Datensammlungen, Auswahl/Anordnung, factual data, database licensing und EU/US-Missverständnisse im Us Copyright Registrierung Verlag."
+description: "Wenn es um Databases und Collections US Law in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Databases und Collections US Law

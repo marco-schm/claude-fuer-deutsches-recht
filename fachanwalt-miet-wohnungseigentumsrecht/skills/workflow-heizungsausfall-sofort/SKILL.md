@@ -1,6 +1,6 @@
 ---
 name: workflow-heizungsausfall-sofort
-description: "Heizungsausfall sofort: Prüfungslinie für Miet- und WEG-Recht: erstellt Sofortmaßnahmen, Minderung, Ersatzvornahme, einstweiligen Rechtsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschlus..."
+description: "Wenn es um Heizungsausfall sofort: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Heizungsausfall sofort: Prüfungslinie für Miet- und WEG-Recht

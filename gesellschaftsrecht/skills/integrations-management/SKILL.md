@@ -1,6 +1,6 @@
 ---
 name: integrations-management
-description: "Post-Merger-Integrations-Tracker — phasenbasierter Arbeitsplan, Zustimmungsverfolgung, Vertragsübertragung im Großmaßstab, Statusberichte. Initialisiert aus SPA, Deal-Zusammenfassung oder Abschluss-Checkliste. Berücksichtigt Paragraf 613a BGB (Betriebsübergang), BetrVG-Mitbestimmung und gesellschaftsrec..."
+description: "Wenn es um Post-Merger-Integrations-Management in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Post-Merger-Integrations-Management

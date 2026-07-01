@@ -1,6 +1,6 @@
 ---
 name: transparenzgebot-bgb-us-uk
-description: "Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inhaltlich zulässige Klausel ist gleichwohl unwirksam, wenn sie nicht klar und verständlich ist. Maßstab ist der durchschnittliche Vertragspartner ohne Spezialwissen. Indizien für Intransparenz sind kaskadierte Verweise auf Anlagen ohn..."
+description: "Wenn es um Transparenzgebot nach Paragraf 307 I S. 2 BGB in Word-Workflows für deutsche Juristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Transparenzgebot nach § 307 I S. 2 BGB

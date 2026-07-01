@@ -1,6 +1,6 @@
 ---
 name: franchise-m-a-und-system-due-diligence
-description: "Fachmodul Franchiserecht für Franchise-M&A und System-Due-Diligence: Beim Kauf eines Franchisesystems wird nicht nur der Vertrag gelesen, sondern Systemstabilität, Streitquote, Ausgleichsrisiko und IP-Kette geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage..."
+description: "Wenn es um Franchise: Franchise-M&A und System-Due-Diligence in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Franchise: Franchise-M&A und System-Due-Diligence

@@ -1,6 +1,6 @@
 ---
 name: notare-beweislast-sachliche-texte
-description: "Notare: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Notare: Beweislast, Darlegungslast und Substantiierung in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Notare Beweislast Sachliche Texte; Arbeitsfeld: E-Mail-Umformulierer."
 ---
 
 # Notare: Beweislast, Darlegungslast und Substantiierung

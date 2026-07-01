@@ -1,6 +1,6 @@
 ---
 name: fashion-textilmuster-grenzbeschlagnahme
-description: "Textilmuster, Prints, Schnitte und Accessoires designrechtlich prüfen: Wiederholungsmuster, Saisonware, nicht eingetragenes EU-Design, Registerbilder und Copycat-Beweise im Designrecht Geschmacksmusterrecht."
+description: "Wenn es um Fashion Textilmuster Designschutz in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Fashion Textilmuster Designschutz

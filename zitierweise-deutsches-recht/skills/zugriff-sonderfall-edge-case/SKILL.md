@@ -1,6 +1,6 @@
 ---
 name: zugriff-sonderfall-edge-case
-description: "Zugriff: Sonderfall und Edge-Case-Prüfung im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4...."
+description: "Wenn es um Zugriff: Sonderfall und Edge-Case-Prüfung in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zugriff Sonderfall Edge Case; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Zugriff: Sonderfall und Edge-Case-Prüfung

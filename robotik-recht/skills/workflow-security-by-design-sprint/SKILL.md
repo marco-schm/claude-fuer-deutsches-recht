@@ -1,6 +1,6 @@
 ---
 name: workflow-security-by-design-sprint
-description: "Führt Produktteam durch Security-by-Design: Bedrohungsmodell, Updatekanal, SBOM, Schwachstellenprozess, Logging und Notfallplan im Robotik-Recht."
+description: "Wenn es um Security-by-Design-Sprint in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Security-by-Design-Sprint

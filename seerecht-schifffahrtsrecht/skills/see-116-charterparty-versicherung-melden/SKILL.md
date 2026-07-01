@@ -1,6 +1,6 @@
 ---
 name: see-116-charterparty-versicherung-melden
-description: "See- und Schifffahrtsrecht: Charterparty: Versicherung melden. Versicherung melden für Charterparty im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Charterparty Versicherung Melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Charterparty Versicherung Melden

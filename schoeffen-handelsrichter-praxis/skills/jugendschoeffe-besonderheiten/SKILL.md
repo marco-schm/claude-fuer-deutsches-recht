@@ -1,6 +1,6 @@
 ---
 name: jugendschoeffe-besonderheiten
-description: "Jugendschöffe Besonderheiten: erklärt Erziehungsgedanke, Jugendgerichtshilfe und Schutz junger Beteiligter für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis."
+description: "Wenn es um Jugendschöffe Besonderheiten in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Jugendschöffe Besonderheiten

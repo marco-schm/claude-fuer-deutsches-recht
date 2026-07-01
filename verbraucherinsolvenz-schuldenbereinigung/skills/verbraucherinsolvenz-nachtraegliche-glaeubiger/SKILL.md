@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-nachtraegliche-glaeubiger
-description: "Verbraucherinsolvenz: Nachtraegliche Gläubiger nach Restschuldbefreiung: Skill klaert ob nicht angemeldete Gläubiger nach Erteilung der Restschuldbefreiung noch Anspruch geltend mac..."
+description: "Wenn es um Verbraucherinsolvenz: Nachtraegliche Gläubiger nach Restschuldbefreiung in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbraucherinsolvenz: Nachtraegliche Gläubiger nach Restschuldbefreiung

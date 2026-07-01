@@ -1,6 +1,6 @@
 ---
 name: rechtshistorische-literatur-archivfund
-description: "Deutsche Rechtsgeschichte: Umgang mit rechtshistorischer Sekundaerliteratur. Zitiertechnik für Savigny, Jhering, Windscheid, Wieacker, Coing und moderne rechtshistorische Standardwerke mit Quellenangabe im Deutsche Rechtsgeschichte."
+description: "Wenn es um Rechtshistorische Literatur nur mit Quelle in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtshistorische Literatur nur mit Quelle

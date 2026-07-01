@@ -1,6 +1,6 @@
 ---
 name: doping-strafrecht-paragraf-4-anti-dopg
-description: "Doping Strafrecht § 4 Anti Dopg: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Doping Strafrecht Paragraf 4 Anti Dopg in Fachanwalt Sportrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Doping Strafrecht § 4 Anti Dopg

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-cbam-berichtspflichten-uebergang
-description: "CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) nach VO (EU) 2023/956: Vierteljährliche Berichte für Zement, Aluminium, Duenger, Eisen/Stahl, Elektrizitaet und Wasserstoff. Erfassung eingebetteter Emissionen, Verwendung von CBAM-Standardwerten und Fehlerquellen. Output: CBAM-Quartalsber..."
+description: "Wenn es um CBAM-Uebergangspflichten: Quartalsbericht für eingebettete Emissionen in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CBAM-Uebergangspflichten: Quartalsbericht für eingebettete Emissionen

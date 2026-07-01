@@ -1,6 +1,6 @@
 ---
 name: feststellung-forderungsgrund-rang-grund
-description: "Feststellung: Internationaler Bezug und Schnittstellen im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldun..."
+description: "Wenn es um Feststellung: Internationaler Bezug und Schnittstellen in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Feststellung: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: verbraucher-oder-kleines-unternehmen-e
-description: "Verbraucherschutzrecht Prüfer: Verbraucher oder kleines Unternehmen erkennen. Verbraucher oder kleines Unternehmen erkennen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
+description: "Wenn es um Verbraucher Oder Kleines Unternehmen E in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbraucher Oder Kleines Unternehmen E

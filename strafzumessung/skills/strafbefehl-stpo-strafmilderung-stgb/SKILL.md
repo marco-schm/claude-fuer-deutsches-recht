@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-stpo-strafmilderung-stgb
-description: "Strafzumessung im Strafbefehl § 407 StPO. Strafrahmen Strafbefehl bis 360 Tagessaetze Geldstrafe; Freiheitsstrafe bis 1 Jahr nur mit Bewaehrung und nur bei Pflichtverteidiger. Pauschalisierung der Strafzumessung. Tagessatzhoehe oft schaetzungsweise. Verteidigungs-Strategie bei zu hoher Strafe: Ei..."
+description: "Wenn es um Strafzumessung im Strafbefehlsverfahren — Paragraf 407 StPO in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafzumessung im Strafbefehlsverfahren — § 407 StPO

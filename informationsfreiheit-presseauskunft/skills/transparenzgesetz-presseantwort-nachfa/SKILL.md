@@ -1,6 +1,6 @@
 ---
 name: transparenzgesetz-presseantwort-nachfa
-description: "Informationsfreiheit und Presseauskunft: Transparenzgesetz: Presseantwort nachfassen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Transparenzgesetz Presseantwort Nachfa in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Transparenzgesetz Presseantwort Nachfa

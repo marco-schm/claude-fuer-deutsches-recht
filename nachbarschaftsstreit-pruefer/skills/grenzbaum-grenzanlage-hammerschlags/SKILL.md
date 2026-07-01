@@ -1,6 +1,6 @@
 ---
 name: grenzbaum-grenzanlage-hammerschlags
-description: "Grenzbaum, Grenzstrauch und gemeinschaftliche Grenzanlagen prüfen: §§ 921-923 BGB, Früchte, Beseitigung, Unterhaltung, Kosten, Grenzzeichen, Eigentum und Beweise im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Grenzbaum und Grenzanlage in Nachbarschaftsstreit-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Grenzbaum und Grenzanlage

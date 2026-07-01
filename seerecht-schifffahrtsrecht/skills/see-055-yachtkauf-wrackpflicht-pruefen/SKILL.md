@@ -1,6 +1,6 @@
 ---
 name: see-055-yachtkauf-wrackpflicht-pruefen
-description: "See- und Schifffahrtsrecht: Yachtkauf: Wrackpflicht prüfen. Wrackpflicht prüfen für Yachtkauf im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Yachtkauf Wrackpflicht Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Yachtkauf Wrackpflicht Pruefen

@@ -1,6 +1,6 @@
 ---
 name: petition-sonderfall-und-edge-case
-description: "Petition: Sonderfall und Edge-Case-Prüfung im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Petition: Sonderfall und Edge-Case-Prüfung in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Petition: Sonderfall und Edge-Case-Prüfung

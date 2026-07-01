@@ -1,6 +1,6 @@
 ---
 name: praesidium-rektorat-kanzler
-description: "Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Praesidium Rektorat Kanzler in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Praesidium Rektorat Kanzler

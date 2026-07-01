@@ -1,6 +1,6 @@
 ---
 name: widerspruch
-description: "Erstellt einen formellen Widerspruchsbrief gegen die Ablehnung eines Fahrgastrechte-Antrags der Deutschen Bahn oder eines anderen Eisenbahnverkehrsunternehmens. Verwende diesen Skill immer wenn der Nutzer ein Ablehnungsschreiben des DB-Servicecenters Fahrgastrechte (oder gleichwertiger EVU-Stelle..."
+description: "Wenn es um Fahrgastrechte-Widerspruch — Skill in Fahrgastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Fahrgastrechte-Widerspruch — Skill

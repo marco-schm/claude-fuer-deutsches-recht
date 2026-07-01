@@ -1,6 +1,6 @@
 ---
 name: mehrpersonenverhaeltnisse-direkt
-description: "Bereicherungsausgleich in Mehrpersonenverhältnissen prüfen: Leistungskarte, Anweisung, Deckungs- und Valutaverhältnis, Doppelmangel, Drittleistung, Insolvenzrisiko und Direktkondiktion. Output: Anspruchspriorisierungsmatrix."
+description: "Wenn es um Mehrpersonenverhältnisse — Direkt- und Durchgriffskondiktion in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Mehrpersonenverhältnisse — Direkt- und Durchgriffskondiktion

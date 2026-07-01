@@ -1,6 +1,6 @@
 ---
 name: orphan-atmp-zugang
-description: "Orphan ATMP Zugang: moderner Medizinrechts-Skill für Seltene Erkrankung, Orphan-Status, Studienzugang, Registerdaten und Kostenträgerstrategie: Orphan ATMP Zugang: moderner Medizinrechts-Skill für Seltene Erkrankung, Orphan-Status, Studienzugang, Registerda..."
+description: "Wenn es um Orphan Atmp Zugang in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Orphan ATMP Zugang: moderner Medizinrechts-Skill für Seltene Erkrankung, Orphan-Status, Studienzugang, Registerdaten und Kostenträgerstrategie

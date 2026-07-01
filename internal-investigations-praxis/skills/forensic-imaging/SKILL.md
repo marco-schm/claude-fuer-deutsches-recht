@@ -1,6 +1,6 @@
 ---
 name: forensic-imaging
-description: "Leitet forensische Sicherung von IT-Systemen an – Imaging-Standards, Chain of Custody, Hash-Werte, Zulässigkeit und DSGVO-Konformität im Internal Investigations Praxis."
+description: "Wenn es um Forensic Imaging und IT-Datensicherung in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Forensic Imaging und IT-Datensicherung

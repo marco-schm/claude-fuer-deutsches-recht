@@ -1,6 +1,6 @@
 ---
 name: wurzeln-behoerden-gericht-und-registerweg
-description: "Wurzeln: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Wurzeln: Behörden-, Gerichts- oder Registerweg in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wurzeln: Behörden-, Gerichts- oder Registerweg

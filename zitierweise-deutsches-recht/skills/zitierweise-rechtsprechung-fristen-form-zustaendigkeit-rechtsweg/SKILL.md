@@ -1,6 +1,6 @@
 ---
 name: zitierweise-rechtsprechung-fristen-form-zustaendigkeit-rechtsweg
-description: "Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
+description: "Wenn es um Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitierweise Rechtsprechung Fristen Form Zuständigkeit Rechtsweg; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg

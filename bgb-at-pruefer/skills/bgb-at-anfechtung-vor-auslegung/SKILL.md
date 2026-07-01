@@ -1,6 +1,6 @@
 ---
 name: bgb-at-anfechtung-vor-auslegung
-description: "Erzwingt bei § 119, § 120 und § 123 BGB zuerst die Auslegung der Erklaerung und erst danach die Einordnung des Irrtums."
+description: "Wenn es um Anfechtung erst nach Auslegung in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anfechtung erst nach Auslegung

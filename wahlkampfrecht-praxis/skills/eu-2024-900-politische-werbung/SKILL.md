@@ -1,6 +1,6 @@
 ---
 name: eu-2024-900-politische-werbung
-description: "Wahlkampfrecht Praxis: politische Werbung nach EU-Verordnung 2024/900 prüfen im Wahlkampfrecht."
+description: "Wenn es um Eu 2024 900 Politische Werbung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eu 2024 900 Politische Werbung

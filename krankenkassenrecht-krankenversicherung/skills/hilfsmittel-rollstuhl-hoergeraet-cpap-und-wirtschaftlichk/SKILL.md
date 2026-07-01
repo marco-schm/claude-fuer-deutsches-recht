@@ -1,6 +1,6 @@
 ---
 name: hilfsmittel-rollstuhl-hoergeraet-cpap-und-wirtschaftlichk
-description: "Hilfsmittelanspruch nach § 33 SGB V: Hilfsmittelverzeichnis, Wirtschaftlichkeitsgebot, Mehrkostenerklärung, MDK-Gutachten und Widerspruch im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Hilfsmittel: Rollstuhl, Hörgerät, CPAP und Wirtschaftlichkeit in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Hilfsmittel: Rollstuhl, Hörgerät, CPAP und Wirtschaftlichkeit

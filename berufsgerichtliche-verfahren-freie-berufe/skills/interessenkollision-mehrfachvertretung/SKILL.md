@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-mehrfachvertretung
-description: "Interessenkollision Mehrfachvertretung (Präventions- und Organisationspaket): steuert Verbot widerstreitender Interessen, Sozietät, Vorbefassung und Mandatsniederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfah..."
+description: "Wenn es um Interessenkollision Mehrfachvertretung: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Interessenkollision Mehrfachvertretung: Präventions- und Organisationspaket

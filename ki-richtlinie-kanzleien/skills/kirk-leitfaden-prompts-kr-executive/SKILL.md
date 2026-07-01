@@ -1,6 +1,6 @@
 ---
 name: kirk-leitfaden-prompts-kr-executive
-description: "Leitfaden Mandantenkommunikation ueber KI-Einsatz: Hinweis, Einwilligung, Vergleichbarkeit mit Hilfspersonal. Prüfraster für Mandatsverhaeltnis im Ki Richtlinie Kanzleien."
+description: "Wenn es um KIRK: Mandantenkommunikation in diesem Spezialbereich geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # KIRK: Mandantenkommunikation

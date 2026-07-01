@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-einfamilienhaus-massiv
-description: "Bauueberwachung nach HOAI LPH 8 für Einfamilienhaeuser im Massivbau — Mauerwerks- und Betonarbeiten nach DIN EN 1996 und DIN EN 13670, Abdichtung Keller nach DIN 18533, Estrich- und Putzarbeiten nach VOB/C sowie thermische Huelle nach GEG 2023. Unterstuetzt Bauueberwacher bei lueckenlosen Protoko..."
+description: "Wenn es um Bauueberwachung Einfamilienhaus Massivbau (LPH 8) in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bauueberwachung Einfamilienhaus Massivbau (LPH 8)

@@ -1,6 +1,6 @@
 ---
 name: patientenbrief-und-einwendung-formulieren
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Patientenbrief und Einwendung formulieren im Goae Gebührenordnung Aerzte."
+description: "Wenn es um Patientenbrief und Einwendung formulieren in GOÄ Gebührenordnung für Ärzte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Patientenbrief und Einwendung formulieren

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Mietrecht (Wohnraum/Gewerbe): ordnet Rolle (Mieter, Vermieter, Hausverwaltung), markiert Frist (§ 573c BGB Kündigung 3 Mon.), wählt Norm (BGB §§ 535/536/543/558/573 ff., WEG, BetrKV) und Zuständigkeit (Amtsgericht Belegenheit), leitet zum passenden Spezial-Skill."
+description: "Wenn es um Einstieg und Routing in Mietrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

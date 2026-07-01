@@ -1,6 +1,6 @@
 ---
 name: workflow-unfall-incident-response
-description: "Leitet nach Unfall, Beinaheunfall, Datenpanne oder Cybervorfall: Sicherung, Meldungen, Beweise, Kommunikation, Rückruf, Betreiber- und Herstellerfragen im Robotik-Recht."
+description: "Wenn es um Incident Response Robotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Workflow Unfall Incident Response; Arbeitsfeld: robotik-recht."
 ---
 
 # Incident Response Robotik

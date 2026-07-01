@@ -1,6 +1,6 @@
 ---
 name: bachelorarbeit-abgabe-abschlussarbeit
-description: "Prüft Abgabefrist, Upload, technische Störung, Posteingang und Formanforderung im Prüfungsrecht Hochschule."
+description: "Wenn es um Bachelorarbeit Abgabe in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bachelorarbeit Abgabe

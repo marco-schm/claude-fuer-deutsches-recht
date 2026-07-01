@@ -1,6 +1,6 @@
 ---
 name: wartungs-servicevertrag-beweislast
-description: "Prüft Wartungs-, Kalibrierungs- und Serviceverträge: Reaktionszeiten, Ersatzteile, Remote-Zugriff, Logdaten, Haftungsgrenzen und Dokumentation im Robotik-Recht."
+description: "Wenn es um Wartungs- und Servicevertrag in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Wartungs- und Servicevertrag

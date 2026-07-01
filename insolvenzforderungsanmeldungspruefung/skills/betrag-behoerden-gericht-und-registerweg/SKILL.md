@@ -1,6 +1,6 @@
 ---
 name: betrag-behoerden-gericht-und-registerweg
-description: "Betrag: Behörden-, Gerichts- oder Registerweg im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzforderungsanmeldungspruefung."
+description: "Wenn es um Betrag: Behörden-, Gerichts- oder Registerweg in Insolvenzforderungsanmeldungsprüfung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Betrag: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: avv-mit-tools
-description: "Solo-Selbstständige: prüft Auftragsverarbeitung mit Cloud, Kalender, CRM, Projekttools und KI; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Datenschutz IT und Website: Prüft auftragsverarbeitung mit cloud in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz IT und Website: Prüft auftragsverarbeitung mit cloud

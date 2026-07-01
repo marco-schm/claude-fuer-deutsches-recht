@@ -1,6 +1,6 @@
 ---
 name: mittelstandsfreundlichkeit-kmu-test
-description: "KMU-Test (Small and Medium Enterprises Test) als Standardelement des NKR-Prüfrasters. Erklaert KMU-Definition Schwellenwerte differenzierte Aufwandsschaetzung und typische Entlastungsinstrumente (Ausnahmen Schwellen Uebergangsregelungen vereinfachte Verfahren). Mit Mustertabelle und Prüfcheckli..."
+description: "Wenn es um NKR-Mittelstandsfreundlichkeit / KMU-Test in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # NKR-Mittelstandsfreundlichkeit / KMU-Test

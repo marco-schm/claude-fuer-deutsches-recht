@@ -1,6 +1,6 @@
 ---
 name: frankreich-secret-des-affaires
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Frankreich Secret Des Affaires; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Frankreich Secret Des Affaires in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Frankreich Secret Des Affaires

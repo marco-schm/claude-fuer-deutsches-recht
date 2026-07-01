@@ -1,6 +1,6 @@
 ---
 name: dma-pflichten-dsa-art-forschungsdatenzugang
-description: "Pflichtenuebersicht DMA für benannte Gatekeeper: Interoperabilitaet Messenger Art. 7, Datenportabilitaet Art. 6 Abs. 9 DMA, Selbstbevorzugungsverbot Art. 6 Abs. 5 DMA, Anti-Steering Art. 5 Abs. 4 DMA, FRAND-Bedingungen Art. 6 Abs. 12 DMA. Tabelle mit Pflicht, Adressat, Frist, Reporting. Fuer Gate..."
+description: "Wenn es um DMA: Pflichtenuebersicht in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DMA: Pflichtenuebersicht

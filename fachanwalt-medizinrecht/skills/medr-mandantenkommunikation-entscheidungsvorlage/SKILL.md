@@ -1,6 +1,6 @@
 ---
 name: medr-mandantenkommunikation-entscheidungsvorlage
-description: "Medr: Mandantenkommunikation und Entscheidungsvorlage: Medr: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Wenn es um Medr: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medr: Mandantenkommunikation und Entscheidungsvorlage

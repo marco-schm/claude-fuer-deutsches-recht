@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-urheber-medienrecht
-description: "Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen: §§ 1 2 97 UrhG §§ 22 23 KUG LPG. Prüfraster: Schutzgegenstand Verletzungsart Parteistellung..."
+description: "Wenn es um Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen in Fachanwalt Urheber Medienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen

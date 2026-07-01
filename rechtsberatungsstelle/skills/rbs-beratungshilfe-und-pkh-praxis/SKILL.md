@@ -1,6 +1,6 @@
 ---
 name: rbs-beratungshilfe-und-pkh-praxis
-description: "Beratungshilfe BerHG und PKH in der Praxis: Antrag beim Amtsgericht, Berechtigung Einkommen, Vermoegen, Wahrnehmungsbefugnis Anwalt. Schnittstelle PKH-Antrag. Mustertexte und Berechtigungsnachweise im Rechtsberatungsstelle."
+description: "Wenn es um Rbs: Beratungshilfe-Praxis in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rbs: Beratungshilfe-Praxis

@@ -1,6 +1,6 @@
 ---
 name: stb-liquiditaetsvorschau-3wochen
-description: "Drei-Wochen-Liquiditaetsvorschau fuer § 17 InsO vorpruefen: faellige Verbindlichkeiten, liquide Mittel, freie Kreditlinien, kurzfristige Zahlungseingaenge und Steuer-/SV-Rueckstaende zu einer akuten Zahlungsfaehigkeitsampel verdichten."
+description: "Wenn es um Drei-Wochen-Liquiditaetsvorschau in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Drei-Wochen-Liquiditaetsvorschau

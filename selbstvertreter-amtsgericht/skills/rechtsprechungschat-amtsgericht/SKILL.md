@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungschat-amtsgericht
-description: "Geführter Rechtsprechungschat für Selbstvertreter vor dem Amtsgericht. Hilft, passende BGH-, BVerfG-, LG- und AG-Rechtsprechung zu finden, sauber zu zitieren, auf den eigenen Sachverhalt zu übertragen und Scheinargumente zu vermeiden."
+description: "Wenn es um Rechtsprechungschat Amtsgericht in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechtsprechungschat Amtsgericht

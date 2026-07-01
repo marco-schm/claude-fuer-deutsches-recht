@@ -1,6 +1,6 @@
 ---
 name: restschuldbefreiungsantrag
-description: "Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler: Normanker: InsO §§ 286-303 und 287 und 300; liefert konkrete Fr..."
+description: "Wenn es um Restschuldbefreiungsantrag in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler.

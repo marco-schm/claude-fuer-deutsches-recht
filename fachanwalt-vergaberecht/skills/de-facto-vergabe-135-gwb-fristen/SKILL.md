@@ -1,6 +1,6 @@
 ---
 name: de-facto-vergabe-135-gwb-fristen
-description: "De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft prüfen: fehlende Bekanntmachung, unzulaessige Direktvergabe, 30-Tage/6-Monats-Fristen und Antraege: De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft prüfen: fehlende Bek..."
+description: "Wenn es um De Facto Vergabe 135 Gwb Fristen in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft prüfen: fehlende Bekanntmachung, unzulaessige Direktvergabe, 30-Tage/6-Monats-Fristen und Antraege.

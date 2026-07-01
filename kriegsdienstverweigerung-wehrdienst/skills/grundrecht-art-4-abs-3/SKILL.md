@@ -1,6 +1,6 @@
 ---
 name: grundrecht-art-4-abs-3
-description: "Rahmt KDV als staatstreue Grundrechtsausübung statt Staatsablehnung im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Art. 4 Abs. 3 GG loyal nutzen in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Art. 4 Abs. 3 GG loyal nutzen

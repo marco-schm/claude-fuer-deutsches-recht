@@ -1,6 +1,6 @@
 ---
 name: dsa-vlop-vlose-einordnung-und-pflichten
-description: "VLOP (sehr grosse Online-Plattform) oder VLOSE (sehr grosse Suchmaschine) Einordnung und Pflichten-Katalog: Plattform prüft ob Designation droht oder besteht. Normen: DSA (EU) 2022/2065 Art. 33 (Designation Kommission), Art. 24 Abs. 3 (Meldepflicht halbjaeehrlich), Art. 34-43 (Pflichtenkatalog: R..."
+description: "Wenn es um DSA — VLOP/VLOSE-Einordnung und Pflichten in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DSA — VLOP/VLOSE-Einordnung und Pflichten

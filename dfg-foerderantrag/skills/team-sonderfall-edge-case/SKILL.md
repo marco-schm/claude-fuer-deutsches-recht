@@ -1,6 +1,6 @@
 ---
 name: team-sonderfall-edge-case
-description: "Team: Sonderfall und Edge-Case-Prüfung im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche D..."
+description: "Wenn es um Team: Sonderfall und Edge-Case-Prüfung in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Team: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: ihl-054-tax-vat-import-export
-description: "Internationales Handelsrecht und Lex Mercatoria: Tax Vat Import Export. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Tax Vat Import Export in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tax Vat Import Export

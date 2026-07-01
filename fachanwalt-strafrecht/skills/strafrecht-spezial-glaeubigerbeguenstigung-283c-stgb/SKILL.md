@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb
-description: "Gläubigerbeguenstigung nach Paragraph 283c StGB: Bevorzugte Befriedigung eines Gläubigers in der Krise zum Nachteil der Gläubigergesamtheit. Tatbestand inkongruente Deckung und kongruente Deckung. Abgrenz..."
+description: "Wenn es um Gläubigerbeguenstigung nach Paragraph 283c StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gläubigerbeguenstigung nach Paragraph 283c StGB

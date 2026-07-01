@@ -1,6 +1,6 @@
 ---
 name: wohnadresse-geschaeftsadresse
-description: "Solo-Selbstständige: klärt ladungsfähige Anschrift, Coworking, Impressum und Datenschutz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Anmeldung und Behörden: Klärt ladungsfähige anschrift in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anmeldung und Behörden: Klärt ladungsfähige anschrift

@@ -1,6 +1,6 @@
 ---
 name: drg-001-kaltstart-epochenkarte
-description: "Deutsche Rechtsgeschichte: Kaltstart Epochenkarte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Kaltstart Epochenkarte in Deutsche Rechtsgeschichte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Epochenkarte

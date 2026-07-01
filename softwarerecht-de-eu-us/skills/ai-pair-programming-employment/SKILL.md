@@ -1,6 +1,6 @@
 ---
 name: ai-pair-programming-employment
-description: "Gestaltet Arbeitnehmerregeln für KI-gestützte Softwareentwicklung, Code Review, Geheimnisse, Datenschutz und Haftung im Softwarerecht De Eu Us."
+description: "Wenn es um digitale Werkzeuge Pair Programming im Arbeitsverhältnis in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # AI Pair Programming im Arbeitsverhältnis

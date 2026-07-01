@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-ehegatten-gesellschafter-orgapflicht
-description: "Steuerberater: interessenkollision ehegatten und gesellschafter - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Wenn es um Interessenkollision Ehegatten Gesellschafter Orgapflicht in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuerberater: interessenkollision ehegatten und gesellschafter - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

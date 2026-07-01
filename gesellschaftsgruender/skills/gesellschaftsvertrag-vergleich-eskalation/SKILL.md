@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsvertrag-vergleich-eskalation
-description: "Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsgru..."
+description: "Wenn es um Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation in gesellschaftsgründer — Gründungsassistent für deutsche geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation

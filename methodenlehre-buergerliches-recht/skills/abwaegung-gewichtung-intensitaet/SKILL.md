@@ -1,6 +1,6 @@
 ---
 name: abwaegung-gewichtung-intensitaet
-description: "Unterstützt die methodisch saubere Gewichtung kollidierender Rechtspositionen nach Intensität, Rang, Normzweck und Eingriffstiefe. Das Skill führt durch die Schritte der Abwägungsjurisprudenz im Zivilrecht und hilft dabei, Schutzwürdigkeit, Verhältnismäßigkeit und praktische Konkordanz nachvollzi..."
+description: "Wenn es um Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen

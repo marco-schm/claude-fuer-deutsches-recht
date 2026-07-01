@@ -1,6 +1,6 @@
 ---
 name: besold-neu-009-mindestabstand-buergergeld-vergleich
-description: "Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung im Beamtenrecht."
+description: "Wenn es um Besold Mindestabstandsgebot Buergergeld-Vergleichsberechnung in Beamtenrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Besold Mindestabstandsgebot Buergergeld-Vergleichsberechnung

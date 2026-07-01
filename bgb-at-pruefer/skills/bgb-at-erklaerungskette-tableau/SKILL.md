@@ -1,6 +1,6 @@
 ---
 name: bgb-at-erklaerungskette-tableau
-description: "Baut aus E-Mail, Chat, Portal, Brief und beA/qES-Stuecken eine belastbare Erklaerungskette mit Zugang, Inhalt und Beweiswert."
+description: "Wenn es um BGB-AT-Erklärungskette als Tableau in BGB AT Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # BGB-AT-Erklärungskette als Tableau

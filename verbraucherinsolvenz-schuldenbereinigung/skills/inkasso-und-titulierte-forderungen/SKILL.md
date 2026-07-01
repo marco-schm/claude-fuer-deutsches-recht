@@ -1,6 +1,6 @@
 ---
 name: inkasso-und-titulierte-forderungen
-description: "Inkasso und titulierte Forderungen: Titelprüfung, Kosten, Abtretungskette, Verjährung und Vollstreckungsabwehr: Normanker: ZPO Titel/Vollstreck..."
+description: "Wenn es um Inkasso Und Titulierte Forderungen in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Inkasso und titulierte Forderungen: Titelprüfung, Kosten, Abtretungskette, Verjährung und Vollstreckungsabwehr.

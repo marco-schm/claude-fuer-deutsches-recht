@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-zuwendungen-personen
-description: "Prüft Zuwendungen und Zuschuesse der deutschen öffentlichen Hand, EU, Mitgliedstaaten oder Drittstaaten mit Schwelle je Geber. Output Zuwendungsliste im Lobbyregister Bundestag."
+description: "Wenn es um Oeffentliche Zuwendungen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Oeffentliche Zuwendungen

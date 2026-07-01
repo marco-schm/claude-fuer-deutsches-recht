@@ -1,6 +1,6 @@
 ---
 name: vg-bild-vgwort-verlag
-description: "Prüft Vergütung, Meldung, Wahrnehmung, Bildrechte, Reprographie, Bibliothek, Verlagserlös und Autorentransparenz im Urheberrecht De Eu."
+description: "Wenn es um VG Wort, VG Bild-Kunst und Verlag in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # VG Wort, VG Bild-Kunst und Verlag

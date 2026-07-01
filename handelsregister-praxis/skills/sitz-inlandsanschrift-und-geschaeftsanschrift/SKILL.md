@@ -1,6 +1,6 @@
 ---
 name: sitz-inlandsanschrift-und-geschaeftsanschrift
-description: "Prüft Satzungssitz, inländische Geschäftsanschrift, Empfangsbevollmächtigte, Briefkastenrisiken und Registereintragung im Handelsregister Praxis."
+description: "Wenn es um Sitz, Geschäftsanschrift, Zustellung in Handelsregister Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Sitz, Geschäftsanschrift, Zustellung

@@ -1,6 +1,6 @@
 ---
 name: einfriedung-zaun-mauer-hecke
-description: "Einfriedung, Zaun, Mauer, Sichtschutz und Hecke prüfen: Landesnachbarrecht, Ortsüblichkeit, Standort, Höhe, Kosten, Unterhaltung, Grenzabstand, Bauordnungsrecht, kommunale Satzungen und Schreiben im Nachbarschaftsstreit Prüfer."
+description: "Wenn es um Einfriedung, Zaun, Mauer und Hecke in Nachbarschaftsstreit-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Einfriedung, Zaun, Mauer und Hecke

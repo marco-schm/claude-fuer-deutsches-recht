@@ -1,6 +1,6 @@
 ---
 name: bmg-infektionsschutz-und-pandemierecht
-description: "Sachbereich Infektionsschutz und Pandemierecht im Geschäftsbereich BMG: Normbestand (IfSG; IGV-AusfG; ImpfschadenAnerkennung; SGB V (Tests und Impfen).); Akteure (RKI; PEI; BMG; Länder-Gesundheitsbehoerden; Gesundheitsaemter; STIKO.); EU-Bezug (ECDC; HERA; EU-Health Union; IGV der WHO.); typisch..."
+description: "Wenn es um Infektionsschutz und Pandemierecht (BMG) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Infektionsschutz und Pandemierecht (BMG)

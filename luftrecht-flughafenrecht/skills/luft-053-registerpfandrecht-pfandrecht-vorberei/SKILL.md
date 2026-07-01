@@ -1,6 +1,6 @@
 ---
 name: luft-053-registerpfandrecht-pfandrecht-vorberei
-description: "Luftrecht und Flughafenrecht: Registerpfandrecht: Pfandrecht vorbereiten. Pfandrecht vorbereiten für Registerpfandrecht im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Registerpfandrecht Pfandrecht Vorberei in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Registerpfandrecht Pfandrecht Vorberei

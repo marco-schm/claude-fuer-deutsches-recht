@@ -1,6 +1,6 @@
 ---
 name: recherchebericht-erstellen
-description: "Formaler Recherchebericht für den Mandanten oder die Akte. Bringt Auftrag Methodik durchsuchte Datenbanken verwendete Suchstrings Klassen Schlagworte Zeitraum Trefferzahlen Treffertabelle und Bewertungen aus Skills neuheit-prüfen erfinderische-tätigkeit-prüfen freedom-to-operate-recherche und pat..."
+description: "Wenn es um recherchebericht-erstellen in patentrecherche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # recherchebericht-erstellen

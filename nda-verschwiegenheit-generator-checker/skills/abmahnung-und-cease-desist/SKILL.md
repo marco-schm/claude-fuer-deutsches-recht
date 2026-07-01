@@ -1,6 +1,6 @@
 ---
 name: abmahnung-und-cease-desist
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Abmahnung Und Cease Desist; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Abmahnung Und Cease Desist in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Abmahnung Und Cease Desist

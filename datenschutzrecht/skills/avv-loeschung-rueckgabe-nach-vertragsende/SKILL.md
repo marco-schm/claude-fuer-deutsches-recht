@@ -1,6 +1,6 @@
 ---
 name: avv-loeschung-rueckgabe-nach-vertragsende
-description: "Pflicht zur Loeschung oder Rueckgabe personenbezogener Daten nach Ende des Auftragsverarbeitungsvertrags gemaess Art. 28 Abs. 3 lit. g DSGVO. Wahlrecht des Verantwortlichen Format und Nachweis Aufbewahrungsausnahmen sowie Backup- und Logfile-Behandlung. Output: Loeschkonzept-Klausel und Loeschpro..."
+description: "Wenn es um Loeschung und Rueckgabe nach Vertragsende – Art. 28 Abs. 3 lit. g DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Loeschung und Rueckgabe nach Vertragsende – Art. 28 Abs. 3 lit. g DSGVO

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-kreditbetrug-265b-stgb
-description: "Kreditbetrug § 265b StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung eines Kredits für einen Betrieb oder ein Unternehmen: Kreditbetrug § 265b StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung eines Kredits für e..."
+description: "Wenn es um Strafrecht Spezial Kreditbetrug 265b Stgb in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kreditbetrug § 265b StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung eines Kredits für einen Betrieb oder ein Unternehmen

@@ -1,6 +1,6 @@
 ---
 name: bauvorschriften-behoerden-gericht-und-registerweg
-description: "Bauvorschriften: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Bauvorschriften: Behörden-, Gerichts- oder Registerweg in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bauvorschriften Behoerden Gericht Und Registerweg; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Bauvorschriften: Behörden-, Gerichts- oder Registerweg

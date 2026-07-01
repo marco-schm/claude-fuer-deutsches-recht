@@ -1,6 +1,6 @@
 ---
 name: schmerzensgeld-hightech-schaden
-description: "Schmerzensgeld bei Hightech-Schaden: moderner Medizinrechts-Skill für Schwere Dauerschäden durch Medizinprodukt, Gentherapie oder Klinikfehler: Schmerzensgeld bei Hightech-Schaden: moderner Medizinrechts-Skill für Schwere Dauerschäden durch Medizinprodukt,..."
+description: "Wenn es um Schmerzensgeld Hightech Schaden in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schmerzensgeld bei Hightech-Schaden: moderner Medizinrechts-Skill für Schwere Dauerschäden durch Medizinprodukt, Gentherapie oder Klinikfehler

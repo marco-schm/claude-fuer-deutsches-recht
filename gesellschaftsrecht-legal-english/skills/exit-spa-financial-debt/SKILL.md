@@ -1,6 +1,6 @@
 ---
 name: exit-spa-financial-debt
-description: "Erklaert Exit, SPA, signing, closing, Conditions Precedent, Long Stop Date, Closing Deliverables und Vollzugslogik bei Unternehmenstransaktionen im Gesellschaftsrecht Legal English."
+description: "Wenn es um Exit, SPA, Closing und CPs in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Exit, SPA, Closing und CPs

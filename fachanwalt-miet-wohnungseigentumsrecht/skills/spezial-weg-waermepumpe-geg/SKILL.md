@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-waermepumpe-geg
-description: "WEG Wärmepumpe/GEG: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft GEG-Pflichten, Beschluss, Duldung, Finanzierung und Mieterschnittstellen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um WEG Wärmepumpe/GEG in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG Wärmepumpe/GEG

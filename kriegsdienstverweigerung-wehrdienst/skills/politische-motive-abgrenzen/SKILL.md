@@ -1,6 +1,6 @@
 ---
 name: politische-motive-abgrenzen
-description: "Trennt allgemeine Gewissensentscheidung von Kritik an einem bestimmten Krieg oder Staat im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Politische Motive abgrenzen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Politische Motive abgrenzen

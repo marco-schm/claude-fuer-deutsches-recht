@@ -1,6 +1,6 @@
 ---
 name: pralr-011-familienrecht-ehe-und-vormundschaft
-description: "PrALR: Ehe, Elterngewalt, Vormundschaft, Familiengerichtlichkeit und historische Schutz-/Kontrolllogik prüfen."
+description: "Wenn es um Familienrecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 011 Familienrecht Ehe Und Vormundschaft; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Familienrecht

@@ -1,6 +1,6 @@
 ---
 name: lph5-ausfuehrungsplanung-detailtiefe
-description: "HOAI-Fachfrage LPH 5: Ausführungsplanung, Detailtiefe, Koordination der Fachplanung, Werkstattplanung, Planfreigabe, Widersprüche und ausführungsreife Pläne prüfen im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 5 Ausführungsplanung Und Detailtiefe in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # LPH 5 Ausführungsplanung Und Detailtiefe

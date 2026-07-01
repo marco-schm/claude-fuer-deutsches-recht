@@ -1,6 +1,6 @@
 ---
 name: aufenthaltstitel-pruefung
-description: "Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Ausländerbehoerde erhalten: Prüfraster Aufenthaltstitel nach AufenthG Visum..."
+description: "Wenn es um Aufenthaltstitel Prüfung in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Ausländerbehoerde erhalten

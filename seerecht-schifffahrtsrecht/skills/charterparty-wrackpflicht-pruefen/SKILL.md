@@ -1,6 +1,6 @@
 ---
 name: charterparty-wrackpflicht-pruefen
-description: "Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Gechartertes Seeschiff unter Charterparty. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 527-569 Reise- und Zeit..."
+description: "Wenn es um Charterparty – Wrackbeseitigungspflicht prüfen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Charterparty – Wrackbeseitigungspflicht prüfen

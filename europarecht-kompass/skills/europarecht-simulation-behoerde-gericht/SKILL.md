@@ -1,6 +1,6 @@
 ---
 name: europarecht-simulation-behoerde-gericht
-description: "Verhandlung vor EU-Behörde oder nationalem Gericht mit EU-Rechtsbezug simulieren und Argumentation testen. Art. 267 AEUV Art. 263 AEUV EuGH-Verfahren. Prüfraster: Argumente Gegenargumente Vorlageentscheidung Richterperspektive Schwachstellen. Output: Simulationsprotokoll Argumentation-Feinschliff..."
+description: "Wenn es um Simulation Behörde, Gericht und Kommission in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Simulation Behörde, Gericht und Kommission

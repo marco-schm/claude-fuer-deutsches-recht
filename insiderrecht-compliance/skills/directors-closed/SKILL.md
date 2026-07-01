@@ -1,6 +1,6 @@
 ---
 name: directors-closed
-description: "Prüft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahestehenden Personen nach Art. 19 MAR: Schwellen, Meldefristen, Closed Periods und Ausnahmen im Insiderrecht Compliance."
+description: "Wenn es um Directors' Dealings nach Art. 19 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Directors' Dealings nach Art. 19 MAR

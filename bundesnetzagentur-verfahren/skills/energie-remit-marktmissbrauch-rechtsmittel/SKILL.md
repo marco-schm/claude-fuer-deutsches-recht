@@ -1,6 +1,6 @@
 ---
 name: energie-remit-marktmissbrauch-rechtsmittel
-description: "REMIT Marktmissbrauch Energie: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
+description: "Wenn es um Energie-Regulierungsakte: REMIT Marktmissbrauch Energie — Rechtsmittel-Check in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energie-Regulierungsakte: REMIT Marktmissbrauch Energie — Rechtsmittel-Check

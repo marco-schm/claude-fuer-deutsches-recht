@@ -1,6 +1,6 @@
 ---
 name: bankentgelte-kommunikation
-description: "Verbraucherschutzverband Durchsetzung: Bankentgelte: Kommunikation steuern im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Bankentgelte Kommunikation Steuern in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bankentgelte Kommunikation Steuern

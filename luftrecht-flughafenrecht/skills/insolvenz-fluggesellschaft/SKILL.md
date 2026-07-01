@@ -1,6 +1,6 @@
 ---
 name: insolvenz-fluggesellschaft
-description: "Airline-Insolvenz: Passagier Gläubiger Leasinggeber oder Slot-Halter fragt nach Anspruechen. Prüft InsO §§ 21 47 50 103 Absonderungsrecht Leasingvertrag Slot-Nicht-Uebertragbarkeit EuGH Cape-Town-Insolvenzschutz Art. XI Aircraft Protocol und liefert Gläubiger-Strategie-Vermerk und Anmeldeformu..."
+description: "Wenn es um Insolvenz Fluggesellschaft – Gläubigerrechte und Masseschutz in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenz Fluggesellschaft – Gläubigerrechte und Masseschutz

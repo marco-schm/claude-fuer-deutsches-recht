@@ -1,6 +1,6 @@
 ---
 name: eilverfahren-konkurrentenstreit
-description: "Eilverfahren Konkurrentenstreit Wehrdienstsenat: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG im Bund..."
+description: "Wenn es um Eilverfahren – Konkurrentenstreit vor dem Wehrdienstsenat in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eilverfahren – Konkurrentenstreit vor dem Wehrdienstsenat

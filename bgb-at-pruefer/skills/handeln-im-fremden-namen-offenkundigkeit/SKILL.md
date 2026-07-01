@@ -1,6 +1,6 @@
 ---
 name: handeln-im-fremden-namen-offenkundigkeit
-description: "Klausurfall zum Handeln im fremden Namen nach § 164 Abs. 1 BGB: Offenkundigkeitsprinzip, Abgrenzung zum Eigengeschäft, Handeln unter fremdem Namen und verdeckte Stellvertretung sowie Geschäft für den, den es angeht."
+description: "Wenn es um Handeln im fremden Namen und Offenkundigkeit — Paragraf 164 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handeln im fremden Namen und Offenkundigkeit — § 164 BGB

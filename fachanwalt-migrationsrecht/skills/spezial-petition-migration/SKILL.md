@@ -1,6 +1,6 @@
 ---
 name: spezial-petition-migration
-description: "Petition Migration: Spezial-Skill im Migrationsrecht; prüft Landtag/Bundestag, Ziel, Timing, Parallelverfahren; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Petition Migration in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Petition Migration

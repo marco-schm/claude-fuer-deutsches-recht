@@ -1,6 +1,6 @@
 ---
 name: allgemeingenehmigung-agg-antidumping
-description: "Allgemeine Genehmigungen nach AWV: Auffinden und Prüfen der passenden Allgemeingenehmigung (AGG) für kontrollierte Ausfuhren ohne Einzelgenehmigung. Beruecksichtigt EU-Ausfuhrgenehmigungen (001-009 VO 2021/821), nationale AGGs der AWV und BAFA-Merkblaetter. Mandant liefert Ware/Technologie und Z..."
+description: "Wenn es um Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle

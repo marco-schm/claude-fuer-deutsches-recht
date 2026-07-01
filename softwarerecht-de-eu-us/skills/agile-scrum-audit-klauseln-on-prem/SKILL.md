@@ -1,6 +1,6 @@
 ---
 name: agile-scrum-audit-klauseln-on-prem
-description: "Gestaltet agile Softwareverträge mit Backlog, Sprints, Product Owner, Budget, Abnahme und Scope-Kontrolle im Softwarerecht De Eu Us."
+description: "Wenn es um Agile/Scrum-Vertrag in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agile/Scrum-Vertrag

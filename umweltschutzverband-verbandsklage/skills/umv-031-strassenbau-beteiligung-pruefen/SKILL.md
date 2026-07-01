@@ -1,6 +1,6 @@
 ---
 name: umv-031-strassenbau-beteiligung-pruefen
-description: "Umweltschutzverband Verbandsklage: Straßenbau: Beteiligung prüfen. Beteiligung prüfen für Straßenbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Strassenbau Beteiligung Pruefen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Strassenbau Beteiligung Pruefen

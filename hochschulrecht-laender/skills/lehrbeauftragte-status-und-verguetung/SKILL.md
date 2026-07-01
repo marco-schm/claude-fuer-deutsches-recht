@@ -1,6 +1,6 @@
 ---
 name: lehrbeauftragte-status-und-verguetung
-description: "Prüft Lehrbeauftragte, Vergütung, Status, Scheinselbständigkeit und Prüfungsbefugnis im Hochschulrecht Länder."
+description: "Wenn es um Lehrbeauftragte Status und Vergütung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lehrbeauftragte Status und Vergütung

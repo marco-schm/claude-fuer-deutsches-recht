@@ -1,6 +1,6 @@
 ---
 name: fran-048-franchise-m-a-due-diligence
-description: "Franchiserecht: Franchise M&A Due Diligence mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: Franchise M&A Due Diligence in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: Franchise M&A Due Diligence

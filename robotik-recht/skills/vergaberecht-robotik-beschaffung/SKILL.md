@@ -1,6 +1,6 @@
 ---
 name: vergaberecht-robotik-beschaffung
-description: "Prüft Vergabeunterlagen für Robotik: funktionale Anforderungen, Sicherheit, Daten, Barrierefreiheit, Wartung, Referenzen und Zuschlagskriterien."
+description: "Wenn es um Vergaberecht Robotikbeschaffung in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Vergaberecht Robotikbeschaffung

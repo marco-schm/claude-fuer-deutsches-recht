@@ -1,6 +1,6 @@
 ---
 name: promotion-disputation
-description: "Prüft Promotionsordnung, Disputation, Gutachten, Befangenheit und Entzug im Prüfungsrecht Hochschule."
+description: "Wenn es um Promotion und Disputation in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Promotion und Disputation

@@ -1,6 +1,6 @@
 ---
 name: inso-massearmut-massekostenmangel-spezial
-description: "Spezialfall Massearmut und Massekostenmangel § 207 InsO: Einstellung mangels Masse, Verfahrenskostenstundung, Restschuldbefreiung. Prüfraster für Schuldner und Verwalter im Insolvenzrecht."
+description: "Wenn es um Inso: Massearmut Massekostenmangel in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Inso: Massearmut Massekostenmangel

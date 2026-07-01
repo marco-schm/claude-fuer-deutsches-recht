@@ -1,6 +1,6 @@
 ---
 name: agb-pruefung-kaltstart
-description: "Einstiegs- und Prüfungslinie für AGB Prüfung Kaltstart: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Wenn es um AGB Prüfung Kaltstart in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # AGB Prüfung Kaltstart

@@ -1,6 +1,6 @@
 ---
 name: inso-p303a-eintragung-in-das-schuldnerverzeichnis
-description: "§ 303a InsO (Eintragung in das Schuldnerverzeichnis) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 303a InsO (Eintragung in das Schuldnerverzeichnis) im Mandat prüfen: Normzweck, Tatbest..."
+description: "Wenn es um Inso P303a Eintragung In Das Schuldnerverzeichnis in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 303a InsO (Eintragung in das Schuldnerverzeichnis) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

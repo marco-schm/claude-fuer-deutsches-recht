@@ -1,6 +1,6 @@
 ---
 name: widerspruch-sozialgericht-klage
-description: "Widerspruch und Sozialgerichtsklage in Rentensachen: Frist, Form, Begründung, Akteneinsicht, Gutachten, Eilrechtsschutz und PKH im Rentenpruefer."
+description: "Wenn es um widerspruch-sozialgericht-klage in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # widerspruch-sozialgericht-klage

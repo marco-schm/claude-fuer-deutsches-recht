@@ -1,6 +1,6 @@
 ---
 name: vbr-090-saas-fuer-verbraucher-behoerdenmeldung
-description: "Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Behördenmeldung prüfen. Behördenmeldung prüfen für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Saas Fuer Verbraucher Behoerdenmeldung in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Saas Fuer Verbraucher Behoerdenmeldung

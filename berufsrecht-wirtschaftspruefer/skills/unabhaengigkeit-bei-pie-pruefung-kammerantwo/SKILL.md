@@ -1,6 +1,6 @@
 ---
 name: unabhaengigkeit-bei-pie-pruefung-kammerantwo
-description: "Wirtschaftsprüfer: unabhaengigkeit bei pie prüfung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Unabhaengigkeit Bei Pie Prüfung Kammerantwo in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Wirtschaftsprüfer: unabhaengigkeit bei pie prüfung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

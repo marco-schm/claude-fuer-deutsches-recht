@@ -1,6 +1,6 @@
 ---
 name: 074-offshore-schiff-arrest-vorbereiten
-description: "Offshore-Schiff: Gläubiger sichert Anspruch an Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantra..."
+description: "Wenn es um Offshore-Schiff – Arrest vorbereiten in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Offshore-Schiff – Arrest vorbereiten

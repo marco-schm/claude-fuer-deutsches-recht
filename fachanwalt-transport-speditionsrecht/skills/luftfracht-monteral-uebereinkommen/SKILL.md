@@ -1,6 +1,6 @@
 ---
 name: luftfracht-monteral-uebereinkommen
-description: "Luftfracht Monteral Uebereinkommen: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Luftfracht Monteral Uebereinkommen in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Luftfracht Monteral Uebereinkommen

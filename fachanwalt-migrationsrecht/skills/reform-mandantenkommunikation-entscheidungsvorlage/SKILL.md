@@ -1,6 +1,6 @@
 ---
 name: reform-mandantenkommunikation-entscheidungsvorlage
-description: "Reform: Mandantenkommunikation und Entscheidungsvorlage: Reform: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Wenn es um Reform: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Reform: Mandantenkommunikation und Entscheidungsvorlage

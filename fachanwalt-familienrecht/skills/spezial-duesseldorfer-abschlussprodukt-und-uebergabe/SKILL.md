@@ -1,6 +1,6 @@
 ---
 name: spezial-duesseldorfer-abschlussprodukt-und-uebergabe
-description: "Duesseldorfer: Abschlussprodukt und Übergabe im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Duesseldorfer: Abschlussprodukt und Übergabe in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Duesseldorfer: Abschlussprodukt und Übergabe

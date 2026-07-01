@@ -1,6 +1,6 @@
 ---
 name: inso-p210a-insolvenzplan-bei-masseunzulanglichkeit
-description: "§ 210a InsO (Insolvenzplan bei Masseunzulänglichkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 210a InsO (Insolvenzplan bei Masseunzulänglichkeit) im Mandat prüfen: Normzweck, Tatbe..."
+description: "Wenn es um Inso P210a Insolvenzplan Bei Masseunzulanglichkeit in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 210a InsO (Insolvenzplan bei Masseunzulänglichkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

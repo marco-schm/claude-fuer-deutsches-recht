@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-catch-all-pruefung
-description: "Catch-All-Prüfung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht für nicht-gelistete Dual-Use-Gueter bei Kenntnis militaerischer Endverwendung oder WMD-Proliferationsgefahr. Identifikation von Catch-All-Ausloesetatbestaenden (positive Kenntnis, Informationspflicht), Konsequenzen und BAFA-Meld..."
+description: "Wenn es um Catch-All-Prüfung: Genehmigungspflicht für nicht-gelistete Gueter in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Catch-All-Prüfung: Genehmigungspflicht für nicht-gelistete Gueter

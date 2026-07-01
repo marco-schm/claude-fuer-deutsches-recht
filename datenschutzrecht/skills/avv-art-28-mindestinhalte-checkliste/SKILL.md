@@ -1,6 +1,6 @@
 ---
 name: avv-art-28-mindestinhalte-checkliste
-description: "Vollstaendige Pflichtinhalte-Checkliste für einen AVV nach Art. 28 Abs. 3 lit. a bis h DSGVO. Jede der acht Pflichtklauseln mit Sollformulierung Fallback-Position und Auditfrage. Geeignet für das Drafting eines neuen AVV oder das Auditing eines bestehenden AVV. Output: Klausel-für-Klausel-Prüfra..."
+description: "Wenn es um AVV-Mindestinhalte nach Art. 28 Abs. 3 DSGVO – Klauselcheckliste in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AVV-Mindestinhalte nach Art. 28 Abs. 3 DSGVO – Klauselcheckliste

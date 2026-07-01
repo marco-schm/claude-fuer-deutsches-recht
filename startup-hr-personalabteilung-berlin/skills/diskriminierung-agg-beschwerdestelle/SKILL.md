@@ -1,6 +1,6 @@
 ---
 name: diskriminierung-agg-beschwerdestelle
-description: "Berliner Start-up-HR: AGG-Beschwerdestelle: Beschwerde aufnehmen, prüfen, Maßnahmen wählen, Fristen und Vertraulichkeit sichern. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Diskriminierung AGG Beschwerdestelle in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Diskriminierung AGG Beschwerdestelle

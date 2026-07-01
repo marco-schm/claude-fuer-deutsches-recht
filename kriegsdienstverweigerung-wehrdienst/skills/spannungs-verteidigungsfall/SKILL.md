@@ -1,6 +1,6 @@
 ---
 name: spannungs-verteidigungsfall
-description: "Prüft Sonderregeln im Spannungs-, Verteidigungs- und Bereitschaftsdienstfall im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Spannungs- und Verteidigungsfall in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Spannungs- und Verteidigungsfall

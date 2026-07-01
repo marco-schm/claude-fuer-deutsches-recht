@@ -1,6 +1,6 @@
 ---
 name: stil-und-ton-juristische-texte
-description: "Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt Register und Ton je nach Adressat: Mandantenbrief klar und mit Empfehlung, Gegenseitenbrief kuehl und mit Frist, Schriftsatz urteilsstil und beweisbar, Memo gutachtenstil, Behördenschreiben nuechtern. Mit Tabelle Adressat zu Regist..."
+description: "Wenn es um Stil und Ton juristischer Texte in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stil und Ton juristischer Texte

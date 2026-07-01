@@ -1,6 +1,6 @@
 ---
 name: gmbh-gesellschafterliste-paragraph-gruendung
-description: "Prüft Liste, Prozentangaben, Veränderungsspalte, Notarzuständigkeit, Legitimationswirkung und Streit über Unrichtigkeit im Handelsregister Praxis."
+description: "Wenn es um Gesellschafterliste und Widerspruch in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Gesellschafterliste und Widerspruch

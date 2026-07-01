@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-register-pruefen
-description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren prüft Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Klaert Last..."
+description: "Wenn es um Offshore-Schiff – Registerprüfung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Offshore-Schiff – Registerprüfung

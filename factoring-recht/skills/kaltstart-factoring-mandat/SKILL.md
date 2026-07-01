@@ -1,6 +1,6 @@
 ---
 name: kaltstart-factoring-mandat
-description: "Kaltstart Factoring-Mandat: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Wenn es um Kaltstart Factoring-Mandat in Factoring-Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart Factoring-Mandat

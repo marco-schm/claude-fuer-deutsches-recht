@@ -1,6 +1,6 @@
 ---
 name: bankrott-bedrohung
-description: "Bankrott und Buchführungsdelikte: Vermögensverschiebung, Buchführung, Krise, Gläubigerbenachteiligung und Insolvenzakten im Strafanzeige-Vorbereitung."
+description: "Wenn es um Bankrott Paragraf 283 StGB in Strafanzeige-Vorbereiter geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bankrott § 283 StGB

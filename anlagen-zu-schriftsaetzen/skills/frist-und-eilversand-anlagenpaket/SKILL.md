@@ -1,6 +1,6 @@
 ---
 name: frist-und-eilversand-anlagenpaket
-description: "Minimalpfad bei drohender Frist: welche Anlagen müssen jetzt mit, welche können nachgereicht, welche Risiken müssen im Schriftsatz offen gehalten werden."
+description: "Wenn es um Frist und Eilversand Anlagenpaket in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frist und Eilversand Anlagenpaket

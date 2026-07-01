@@ -1,6 +1,6 @@
 ---
 name: tabellenpruefung-cap-table
-description: "'Tabellarisches Vertragsreview als Prompt-Matrix — pro Spalte ein Extraktionsprompt (was wird gefragt), pro Zeile ein dokumentspezifischer Prompt (wie wird dieses Dokument behandelt). Eine Zeile pro Dokument, eine Spalte pro Datenpunkt, jede Zelle mit wörtlichem Quellenzitat und Fundstelle. Geeig..."
+description: "Wenn es um Tabellarisches Vertragsreview als Prompt-Matrix in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tabellarisches Vertragsreview als Prompt-Matrix

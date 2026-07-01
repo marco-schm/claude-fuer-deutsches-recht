@@ -1,6 +1,6 @@
 ---
 name: strafakte-uebergabe-vorbereiten
-description: "Strafakte für Übergabe an Sozietaetskollegin, Wahlverteidiger oder Pflichtverteidiger sauber vorbereiten: Inhaltsverzeichnis, Personenverzeichnis, Tatkomplex-Liste, Chronologie, offene Fristen, naechste Termine. Output kompaktes Handover-Paket. Datenschutz und Schweigepflicht im Strafrechts-Akte..."
+description: "Wenn es um Strafakte: Übergabe vorbereiten in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Strafakte: Übergabe vorbereiten

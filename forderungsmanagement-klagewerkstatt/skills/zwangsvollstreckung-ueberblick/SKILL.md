@@ -1,6 +1,6 @@
 ---
 name: zwangsvollstreckung-ueberblick
-description: "Zwangsvollstreckung Überblick: Mobiliarvollstreckung Gerichtsvollzieher Paragrafen 808 ff. ZPO, Forderungspfaendung Paragrafen 828 ff. ZPO (Konto, Lohn), Immobiliarvollstreckung Paragrafen 866 ff. ZPO und ZVG, Vermögensauskunft Paragraf 802c ZPO. Voraussetzung: Vollstreckungstitel Paragraf 794 ZPO mit Klausel Paragraf 724 ZPO und Zustellu..."
+description: "Wenn es um Zwangsvollstreckung Überblick in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Zwangsvollstreckung Überblick

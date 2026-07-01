@@ -1,6 +1,6 @@
 ---
 name: ascii-pruefungsschema
-description: ASCII-Prüfungsschema fuer die vierstufige Verhältnismäßigkeitspruefung mit Box-Drawing fuer Sequenzen Abzweige und Ampelstatus. Mit Vorlage fuer Schriftsatzanlage Klausurausarbeitung und Mandatsmemo.
+description: "Wenn es um ASCII-Prüfungsschema Verhältnismäßigkeit in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # ASCII-Prüfungsschema Verhältnismäßigkeit

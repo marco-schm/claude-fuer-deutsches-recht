@@ -1,6 +1,6 @@
 ---
 name: spezial-anwaltsperspektive-dokumentenmatrix-und-lueckenliste
-description: "Anwaltsperspektive: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Anwaltsperspektive: Dokumentenmatrix, Lückenliste und Nachforderung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwaltsperspektive: Dokumentenmatrix, Lückenliste und Nachforderung

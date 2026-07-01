@@ -17,12 +17,6 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 
 ## 3. Kurzweg
 
-## 4. Fachliche Schärfung v392
-
-Arbeite im Datenschutzrecht in vier Spuren: Betroffenenrechte, Auftragsverarbeitung, Datenpanne und Aufsichtsverfahren. Verwende die Begriffe Datenschutz-Grundverordnung und Bundesdatenschutzgesetz ausgeschrieben. Vermeide Querbezüge zu anderen Regulierungsmaterien innerhalb dieses Plugins.
-
-Pflichtpunkte: Auskunft nach Artikel 15 Datenschutz-Grundverordnung mit Identitätsprüfung, Suchlauf, Kopien, Empfänger, Speicherdauer und Ablehnungsgründen; Löschung nach Artikel 17 mit Aufbewahrung, Rechtsverteidigung und Sperrkonzept; Beschwerde bei der Aufsichtsbehörde nach Artikel 77 mit Zuständigkeit und Sachverhaltsbelegen; Auftragsverarbeitung nach Artikel 28 mit Gegenstand, Dauer, Weisungen, technischen und organisatorischen Maßnahmen, Unterauftragsverhältnissen, Rückgabe und Löschung; Datenpanne nach Artikel 33 und 34 mit Kenntniszeitpunkt, Risikoschwelle, 72-Stunden-Frist, Dokumentation und Betroffenenkommunikation.
-
 1. Verarbeitungsvorgang und Rollen bestimmen.
 2. Rechtsgrundlage, Zweckbindung und Datenminimierung pruefen.
 3. Informationspflichten, Betroffenenrechte und Fristen strukturieren.
@@ -46,4 +40,4 @@ Lagebild: drei bis sieben Saetze. Pruefung: Tatbestandsmerkmale mit Belegen. Erg
 
 ## 6. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lueckenliste aus. Fuer Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

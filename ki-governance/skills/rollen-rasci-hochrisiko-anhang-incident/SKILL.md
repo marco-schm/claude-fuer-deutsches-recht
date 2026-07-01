@@ -1,6 +1,6 @@
 ---
 name: rollen-rasci-hochrisiko-anhang-incident
-description: "Rollen-Modell RASCI für KI-Governance: KI-Beauftragte, IT-Sicherheit, Datenschutzbeauftragte, Compliance, Fachbereiche, Geschäftsführung, Betriebsrat. Pro Rolle: Responsibility, Accountability, Support, Consulted, Informed. Vorlage für Konzern und KMU im Ki Governance."
+description: "Wenn es um digitale Werkzeuge-Governance Rollen-Modell in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI-Governance Rollen-Modell

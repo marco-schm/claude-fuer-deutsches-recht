@@ -1,6 +1,6 @@
 ---
 name: stoerfall-fristennotiz-und-naechster-schritt
-description: "Stoerfall: Fristennotiz und nächster Schritt im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Stoerfall: Fristennotiz und nächster Schritt in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stoerfall: Fristennotiz und nächster Schritt

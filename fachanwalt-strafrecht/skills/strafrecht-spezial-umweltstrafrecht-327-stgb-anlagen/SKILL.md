@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-umweltstrafrecht-327-stgb-anlagen
-description: "Unerlaubtes Betreiben von Anlagen nach Paragraph 327 StGB: Schutzgut Genehmigungsvorbehalt im immissionsschutzrechtlichen Verfahren. Absatz 1 Nuklearanlagen Absatz 2 immissionsschutzrechtlich genehm..."
+description: "Wenn es um Unerlaubtes Betreiben von Anlagen nach Paragraph 327 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unerlaubtes Betreiben von Anlagen nach Paragraph 327 StGB

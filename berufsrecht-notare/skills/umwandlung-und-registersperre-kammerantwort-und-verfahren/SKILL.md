@@ -1,6 +1,6 @@
 ---
 name: umwandlung-und-registersperre-kammerantwort-und-verfahren
-description: "Notare: umwandlung und registersperre - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Umwandlung Und Registersperre Kammerantwort Und Verfahren in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Notare: umwandlung und registersperre - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

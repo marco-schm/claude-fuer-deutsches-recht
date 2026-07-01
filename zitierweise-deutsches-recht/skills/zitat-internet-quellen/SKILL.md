@@ -1,6 +1,6 @@
 ---
 name: zitat-internet-quellen
-description: "Internet-Quellen zitieren: Stand, URL, Abrufdatum. Bevorzugt: dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, eur-lex. Vermeiden: anwalt24.de, BeckRS allein als einzige Fundstelle."
+description: "Wenn es um Internet-Quellen zitieren in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitat Internet Quellen; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # Internet-Quellen zitieren

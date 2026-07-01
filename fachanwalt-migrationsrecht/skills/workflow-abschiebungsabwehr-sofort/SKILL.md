@@ -1,6 +1,6 @@
 ---
 name: workflow-abschiebungsabwehr-sofort
-description: "Abschiebungsabwehr sofort: Prüfungslinie für Migrationsrecht: priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellenche..."
+description: "Wenn es um Abschiebungsabwehr sofort: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Abschiebungsabwehr sofort: Prüfungslinie für Migrationsrecht

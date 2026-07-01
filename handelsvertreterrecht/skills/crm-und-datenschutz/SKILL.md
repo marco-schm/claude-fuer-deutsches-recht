@@ -1,6 +1,6 @@
 ---
 name: crm-und-datenschutz
-description: "Analysiert datenschutzrechtliche Anforderungen beim Einsatz von CRM-Systemen im Handelsvertrieb nach DSGVO und § 88 HGB: Verarbeitung von Kundendaten durch Handelsvertreter, Verantwortlichkeit und Auftragsverarbeitung, Herausgabepflichten von CRM-Daten bei Vertragsende sowie Rechte des Unternehme..."
+description: "Wenn es um CRM-Systeme und Datenschutz im Handelsvertretervertrag nach DSGVO und Paragraf 88 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # CRM-Systeme und Datenschutz im Handelsvertretervertrag nach DSGVO und § 88 HGB

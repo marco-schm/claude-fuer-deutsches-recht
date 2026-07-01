@@ -1,6 +1,6 @@
 ---
 name: kreditsicherheiten-bestellung
-description: "Kreditsicherheiten bestellen, prüfen und verwerten: Grundschuld, Bürgschaft, Garantie, Globalzession, Sicherungsübereignung, Pfandrechte, Rang, Freigabe und Verwertungsschritte im Bank-Rechtsabteilung."
+description: "Wenn es um Kreditsicherheiten in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kreditsicherheiten

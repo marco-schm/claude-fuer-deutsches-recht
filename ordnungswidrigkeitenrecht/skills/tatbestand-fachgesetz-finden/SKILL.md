@@ -1,6 +1,6 @@
 ---
 name: tatbestand-fachgesetz-finden
-description: "Ordnungswidrigkeitenrecht: Tatbestand Fachgesetz finden. Tatbestand Fachgesetz finden im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht."
+description: "Wenn es um Tatbestand Fachgesetz Finden in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tatbestand Fachgesetz Finden

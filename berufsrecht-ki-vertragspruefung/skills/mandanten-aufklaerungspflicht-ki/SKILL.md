@@ -1,6 +1,6 @@
 ---
 name: mandanten-aufklaerungspflicht-ki
-description: "Aufklaerungspflicht gegenueber Mandanten beim KI-Einsatz: § 43 BRAO Vertrauensverhaeltnis, § 13 BORA, BGH-Rechtsprechung zur Informationsweitergabe. Mustertexte Mandantenanschreiben und Mandatsvertrag. Prüfraster für notwendigen Informationsumfang."
+description: "Wenn es um Mandanten-Aufklaerung digitale Werkzeuge in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mandanten-Aufklaerung KI

@@ -1,6 +1,6 @@
 ---
 name: weg-beschlusssammlung
-description: "Beschlusssammlung: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Eintrag, Fehler, Einsicht, Beweiswert, Verwalterpflicht; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitspro..."
+description: "Wenn es um Beschlusssammlung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschlusssammlung: Fachmodul im Miet- und Wohnungseigentumsrecht

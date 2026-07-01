@@ -1,6 +1,6 @@
 ---
 name: gewerbesteuer-freibetrag-und-messbetrag
-description: "Solo-Selbstständige: erklärt Gewerbesteuerlogik für Einzelunternehmen und Gemeindehebesatz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
+description: "Wenn es um Gewerbesteuer Freibetrag Und Messbetrag in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuern und Buchhaltung: Erklärt gewerbesteuerlogik für einzelunternehmen und gemeindehebesatz

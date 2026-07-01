@@ -1,6 +1,6 @@
 ---
 name: digital-transmission-streaming
-description: "Prüft Streams, Downloads, interactive/noninteractive services, public performance, mechanicals, sound recording und platform splits im Us Copyright Registrierung Verlag."
+description: "Wenn es um Digital Transmission und Streaming in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Digital Transmission und Streaming

@@ -1,6 +1,6 @@
 ---
 name: pauschalreise-statt-flug-pruefen
-description: "Pauschalreise gegen Flug-Einzelbuchung: Reiseveranstalterhaftung nach §§ 651a ff. BGB, Pauschalreise-RL EU 2015 2302. Minderung, Schadensersatz, Ruecktritt. Verhältnis zur VO 261 (kumulativ moeglich, Anrechnung nach BGH). Prüfraster ob Pauschalreise vorliegt."
+description: "Wenn es um Pauschalreise gegen Einzelflug in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pauschalreise gegen Einzelflug

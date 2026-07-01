@@ -1,6 +1,6 @@
 ---
 name: data-transfer-in-trade
-description: "Internationales Handelsrecht: Datentransfer in der internationalen Handelspraxis. DSGVO Art. 44-49 (Drittlandübermittlung), Standardvertragsklauseln (SCC), EU-US Data Privacy Framework (2023) und Datenschutz in Handelsverträgen im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Datentransfer im internationalen Handel in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datentransfer im internationalen Handel

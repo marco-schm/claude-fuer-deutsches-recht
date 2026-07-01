@@ -1,6 +1,6 @@
 ---
 name: fristenkontrolle-epo-dpma-kammerantwort-und-verf
-description: "Patentanwälte: fristenkontrolle epo dpma - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Fristenkontrolle Epo Dpma Kammerantwort Und Verf in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Patentanwälte: fristenkontrolle epo dpma - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

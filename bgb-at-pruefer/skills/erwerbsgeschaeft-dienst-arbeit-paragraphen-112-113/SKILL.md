@@ -1,6 +1,6 @@
 ---
 name: erwerbsgeschaeft-dienst-arbeit-paragraphen-112-113
-description: "Prüft §§ 112 und 113 BGB bei Minderjährigen im Erwerbsgeschäft, Dienst- oder Arbeitsverhältnis einschließlich Reichweite der Ermächtigung und Abgrenzung zu Einzelgeschäften."
+description: "Wenn es um Erwerbsgeschaeft Dienst Arbeit Paragraphen 112 113 in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Erwerbsgeschaeft Dienst Arbeit Paragraphen 112 113

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-verkehrsstrafrecht-315d-stgb-rennen
-description: "Verbotene Kraftfahrzeugrennen nach Paragraph 315d StGB: Reform 2017 hat das Rennen vom Ordnungswidrigkeitenrecht in das Strafrecht gehoben. Drei Tatbestandsvarianten Absatz 1 Nummer 1 bis 3. Polizeiflu..."
+description: "Wenn es um Verbotene Kraftfahrzeugrennen nach Paragraph 315d StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbotene Kraftfahrzeugrennen nach Paragraph 315d StGB

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg und Fallrouting im VC-Geber-Plugin: klärt Investorrolle, Deal-Phase, Instrument, Unterlagen, Trackingsystem, rote Aufsichtslinien und schlägt passende Fachmodule vor."
+description: "Wenn es um Kaltstart und Fallrouting in Venture Capital Geber geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaltstart und Fallrouting

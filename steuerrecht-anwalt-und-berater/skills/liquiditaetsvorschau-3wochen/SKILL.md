@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-3wochen
-description: "Steuerberaternahe Drei-Wochen-Liquiditaetsvorschau für § 17 InsO und § 102 StaRUG mit Wochenraster, Dokumentation und Quellenhygiene. Rechtsprechung nur nach Live-Prüfung."
+description: "Wenn es um Drei-Wochen-Liquiditätsvorschau (Paragraf 17 InsO Vorprüfung, Paragraf 1 StaRUG) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Drei-Wochen-Liquiditätsvorschau (§ 17 InsO Vorprüfung, § 1 StaRUG)

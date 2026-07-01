@@ -1,6 +1,6 @@
 ---
 name: wann-doch-anwalt-grenzfaelle
-description: "Grenzfaelle in denen Selbstvertretung nicht mehr sinnvoll ist und ein Anwalt eingeschaltet werden sollte. Hoher Streitwert komplexer Sachverhalt Berufung Familiensache Spezialmaterie. Kostenvergleich Selbstvertretung versus Anwalt-Mandat."
+description: "Wenn es um Wann ist es Zeit, doch einen Anwalt zu nehmen? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Wann ist es Zeit, doch einen Anwalt zu nehmen?

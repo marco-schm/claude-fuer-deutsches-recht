@@ -1,6 +1,6 @@
 ---
 name: agb-haftung-erfuellungsgehilfen
-description: "AGB-Haftung für Erfuellungsgehilfen. Skill klaert die AGB-rechtliche Behandlung von Haftungsausschluessen für Erfuellungsgehilfen (§ 278 BGB) und die Wechselwirkung mit § 309 Nr. 7 BGB. Behandelt die BGH-Linie zur unwirksamen Pauschalfreizeichnung und zur zulaessigen Differenzierung. Liefert Klau..."
+description: "Wenn es um Agb Haftung Erfuellungsgehilfen in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Agb Haftung Erfuellungsgehilfen

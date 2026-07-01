@@ -1,6 +1,6 @@
 ---
 name: antragstellervertretung-zahlen-schwellen-und-berechnung
-description: "Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Antragstellervertretung Zahlen Schwellen Und Berechnung; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: spezial-gatekeeper-verhandlung-vergleich-und-eskalation
-description: "Gatekeeper: Verhandlung, Vergleich und Eskalation im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Gatekeeper: Verhandlung, Vergleich und Eskalation in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Gatekeeper: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-berufliche-korrespondenz
-description: "Allgemeine berufliche E-Mail-Korrespondenz von Anwaelten professionell und berufsrechtskonform umformulieren. § 43a BRAO allgemeine Berufspflichten § 26 BORA Sachlichkeitsgebot. Prüfraster: Sachlichkeit Professionalitaet Ton Empfaengerorientierung Kollegialität. Output: ueberarbeitete E-Mail mit..."
+description: "Wenn es um Allgemeine Berufliche Korrespondenz in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Allgemeine Berufliche Korrespondenz

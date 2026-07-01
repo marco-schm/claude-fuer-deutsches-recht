@@ -1,6 +1,6 @@
 ---
 name: wer-zeugenliste
-description: "Sachverhaltskern einer Anzeige: chronologisch, nüchtern, belegbar, ohne Polemik im Strafanzeige-Vorbereitung."
+description: "Wenn es um Sachverhalt: wer, was, wann, wo, wie in Strafanzeige-Vorbereiter geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Sachverhalt: wer, was, wann, wo, wie

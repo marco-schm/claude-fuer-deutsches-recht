@@ -1,6 +1,6 @@
 ---
 name: workflow-dokumentenstapel-sortieren
-description: "Dokumentenstapel sortieren: Prüfungslinie für Miet- und WEG-Recht: ordnet Mietvertrag, Nachträge, Fotos, Mails, Protokolle, Rechnungen und Kontoauszüge; mit Kaltstart, Fristencheck, Belegmat..."
+description: "Wenn es um Dokumentenstapel sortieren: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dokumentenstapel sortieren: Prüfungslinie für Miet- und WEG-Recht

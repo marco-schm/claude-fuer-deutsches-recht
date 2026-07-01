@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-011-erster-teil-titel-8-erwerb-eigentum-bewegliche
-description: "PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen

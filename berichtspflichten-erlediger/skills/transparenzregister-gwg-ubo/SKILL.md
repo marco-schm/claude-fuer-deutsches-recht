@@ -1,6 +1,6 @@
 ---
 name: transparenzregister-gwg-ubo
-description: "Transparenzregister: wirtschaftlich Berechtigte, Meldefiktion, Änderungen, Unstimmigkeitsmeldung, Bußgeldrisiko und Konzernfälle im Berichtspflichten."
+description: "Wenn es um Transparenzregister und wirtschaftlich Berechtigte in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Transparenzregister und wirtschaftlich Berechtigte

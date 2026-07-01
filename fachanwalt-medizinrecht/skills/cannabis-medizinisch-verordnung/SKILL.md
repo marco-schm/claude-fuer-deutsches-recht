@@ -1,6 +1,6 @@
 ---
 name: cannabis-medizinisch-verordnung
-description: "Medizinisches Cannabis Verordnung: moderner Medizinrechts-Skill für Cannabis als Medizin, Verordnung, Kostenübernahme, Fahrtüchtigkeit und Berufspflichten: Medizinisches Cannabis Verordnung: moderner Medizinrechts-Skill für Cannabis als Medizin, Verordnung,..."
+description: "Wenn es um Cannabis Medizinisch Verordnung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Medizinisches Cannabis Verordnung: moderner Medizinrechts-Skill für Cannabis als Medizin, Verordnung, Kostenübernahme, Fahrtüchtigkeit und Berufspflichten

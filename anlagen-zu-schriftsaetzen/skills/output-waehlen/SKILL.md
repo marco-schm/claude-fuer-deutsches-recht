@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Anlagen zu Schriftsätzen: stimmt Adressat (Mandant, Gegenpartei, Gericht), Frist (Klageerwiderungsfrist) und Form auf den Zweck ab — typische Outputs: Anlagenverzeichnis K/B-Nummerierung, Anlagenkonvolut, Schwärzungsanleitung."
+description: "Wenn es um Output wählen in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

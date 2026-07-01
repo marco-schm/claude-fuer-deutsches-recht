@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "Red-Team Qualitygate für Liquiditätsplanung: prüft Fristen, Zuständigkeit, Beweislast, Quellen, Planmechanik, Insolvenznähe, Haftungsrisiken und taktische Risiken vor Abgabe, Banktermin, Gesellschafterrunde oder Versand."
+description: "Wenn es um Red-Team Qualitygate in Liquiditätsplanung — Power geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team Qualitygate

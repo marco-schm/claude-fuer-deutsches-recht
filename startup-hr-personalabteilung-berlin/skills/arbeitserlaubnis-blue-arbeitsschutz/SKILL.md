@@ -1,6 +1,6 @@
 ---
 name: arbeitserlaubnis-blue-arbeitsschutz
-description: "Berliner Start-up-HR: Aufenthalts- und Arbeitserlaubnis-Check bei Nicht-EU-Beschäftigten, Blue Card, Fiktionsbescheinigung und Payroll-Stopps. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Arbeitserlaubnis Blue Card Nicht Eu in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitserlaubnis Blue Card Nicht Eu

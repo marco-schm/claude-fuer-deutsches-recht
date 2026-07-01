@@ -1,6 +1,6 @@
 ---
 name: bussgeld-ordnungswidrigkeitsverfahren
-description: "Sanktionsregime im Denkmalrecht: Bussgeldtatbestaende der Landesgesetze gegen unerlaubte Veraenderung, Beseitigung oder Verbringung; Schnittstelle zum Ordnungswidrigkeitenrecht nach OWiG; Strafrechtsschnittstelle nach Paragraf 304 StGB (Sachbeschaedigung) bei vorsaetzlicher Beschaedigung eines Denkmals; Skill nennt das typische Verfahren und die Verteidigungslinien."
+description: "Wenn es um Bussgeld- und Ordnungswidrigkeitsverfahren in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bussgeld- und Ordnungswidrigkeitsverfahren

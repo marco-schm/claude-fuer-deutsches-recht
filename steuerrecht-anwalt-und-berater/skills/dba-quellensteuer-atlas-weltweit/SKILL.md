@@ -1,6 +1,6 @@
 ---
 name: dba-quellensteuer-atlas-weltweit
-description: "Weltweiter DBA-Quellensteuer-Atlas aus deutscher Sicht: Dividenden, Zinsen, Lizenzen, technische Dienstleistungen, Künstler/Sportler, BZSt-Entlastung, Ansässigkeitsbescheinigung, Beneficial Ownership und Anti-Treaty-Shopping."
+description: "Wenn es um DBA-Quellensteuer-Atlas in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # DBA-Quellensteuer-Atlas

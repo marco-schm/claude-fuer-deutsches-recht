@@ -1,6 +1,6 @@
 ---
 name: personenrecht-prozessrecht-ago
-description: "ALR-Personenrecht — Kuriositaeten und ihre rechtshistorische Bedeutung. Skill versammelt bekannte kuriose Detail-Regelungen Schlafwandlerhaftung Trunkenheitsregeln Detailvorgaben zur Tatherrschaft und Schuldsfaehigkeit. Liefert Quellenmatrix: prüft konkret die..."
+description: "Wenn es um Pralr Personenrecht Kuriositaeten Im Alr in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Personenrecht Prozessrecht Ago; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Pralr Personenrecht Kuriositaeten Im Alr

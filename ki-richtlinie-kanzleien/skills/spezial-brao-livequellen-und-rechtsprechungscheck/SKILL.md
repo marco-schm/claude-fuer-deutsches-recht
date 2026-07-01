@@ -1,6 +1,6 @@
 ---
 name: spezial-brao-livequellen-und-rechtsprechungscheck
-description: "Brao: Livequellen- und Rechtsprechungscheck im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Brao: Livequellen- und Rechtsprechungscheck in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Brao: Livequellen- und Rechtsprechungscheck

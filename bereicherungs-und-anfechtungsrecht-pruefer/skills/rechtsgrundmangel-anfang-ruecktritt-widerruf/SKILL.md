@@ -1,6 +1,6 @@
 ---
 name: rechtsgrundmangel-anfang-ruecktritt-widerruf
-description: "Anwendungsfall: anfangsmangel, späterer Wegfall, Teilmangel und Zweckausfall zeitlich getrennt werden müssen. Normen: § 812 Abs. 1 S. 1 Alt. 1 und S. 2 Alt. 1 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung;..."
+description: "Wenn es um Rechtsgrundmangel: Anfang und Wegfall in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechtsgrundmangel Anfang Ruecktritt Widerruf; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
 ---
 
 # Rechtsgrundmangel: Anfang und Wegfall

@@ -1,6 +1,6 @@
 ---
 name: cotif-schriftsatz-brief-und-memo-bausteine
-description: "Cotif: Schriftsatz-, Brief- und Memo-Bausteine: Cotif: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Wenn es um Cotif: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Transport Speditionsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Cotif: Schriftsatz-, Brief- und Memo-Bausteine

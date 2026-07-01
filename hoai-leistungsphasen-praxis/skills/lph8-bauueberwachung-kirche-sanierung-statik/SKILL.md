@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-kirche-sanierung-statik
-description: "Bauueberwachung nach HOAI LPH 8 für Kirchensanierungen mit statischen Ertuechtigunsarbeiten — Gewoelbe-Sicherung, Dachstuhl-Sanierung nach DIN EN 1995, Blitzschutz nach DIN EN 62305, Naturstein-Fugenrestaurierung nach DIN EN 998 und Feuchtemessung nach DIN EN ISO 12572. Unterstuetzt Bauueberwache..."
+description: "Wenn es um Bauueberwachung Kirche Sanierung Statik (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Kirche Sanierung Statik (LPH 8)

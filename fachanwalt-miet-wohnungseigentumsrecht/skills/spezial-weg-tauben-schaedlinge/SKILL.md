@@ -1,6 +1,6 @@
 ---
 name: spezial-weg-tauben-schaedlinge
-description: "Tauben/Schädlinge: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Abwehrmaßnahmen, Kosten, Tierschutz, Hygiene, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Tauben/Schädlinge in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tauben/Schädlinge

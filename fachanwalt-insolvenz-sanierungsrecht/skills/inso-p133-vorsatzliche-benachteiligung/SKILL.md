@@ -1,6 +1,6 @@
 ---
 name: inso-p133-vorsatzliche-benachteiligung
-description: "§ 133 InsO (Vorsätzliche Benachteiligung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 133 InsO (Vorsätzliche Benachteiligung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfol..."
+description: "Wenn es um Inso P133 Vorsatzliche Benachteiligung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 133 InsO (Vorsätzliche Benachteiligung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

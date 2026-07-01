@@ -1,6 +1,6 @@
 ---
 name: genomdaten-ehds-biobank
-description: "Genomdaten, EHDS und Biobank: moderner Medizinrechts-Skill für Genomdaten für Forschung, Biobank, Secondary Use, Gesundheitsdatenzugang und Widerruf: Genomdaten, EHDS und Biobank: moderner Medizinrechts-Skill für Genomdaten für Forschung, Biobank, Secondary..."
+description: "Wenn es um Genomdaten Ehds Biobank in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Genomdaten, EHDS und Biobank: moderner Medizinrechts-Skill für Genomdaten für Forschung, Biobank, Secondary Use, Gesundheitsdatenzugang und Widerruf

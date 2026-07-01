@@ -1,6 +1,6 @@
 ---
 name: schieds-oder-gerichtsstand-leasing
-description: "Streitbeilegung im Leasingrecht: Schiedsverfahren vs. staatliche Gerichte, Gerichtsstandsklausel, Verbraucherrecht, Mediation und internationale Schiedsgerichte im Leasingrecht."
+description: "Wenn es um Schiedsverfahren und Gerichtsstand im Leasingrecht in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schiedsverfahren und Gerichtsstand im Leasingrecht

@@ -1,6 +1,6 @@
 ---
 name: inso-p250-verstoss-gegen-verfahrensvorschriften
-description: "§ 250 InsO (Verstoß gegen Verfahrensvorschriften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 250 InsO (Verstoß gegen Verfahrensvorschriften) im Mandat prüfen: Normzweck, Tatbestand, B..."
+description: "Wenn es um Inso P250 Verstoss Gegen Verfahrensvorschriften in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 250 InsO (Verstoß gegen Verfahrensvorschriften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

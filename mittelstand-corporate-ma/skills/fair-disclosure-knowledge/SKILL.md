@@ -1,6 +1,6 @@
 ---
 name: fair-disclosure-knowledge
-description: "Fair Disclosure und Knowledge: Prüft Wissens-, Kenntnis-, Fair-Disclosure- und Aktenwissen-Klauseln im Lichte von KI-gestuetzter Datenraumprüfung im Mittelstand Corporate Ma."
+description: "Wenn es um Fair Disclosure und Knowledge in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fair Disclosure und Knowledge

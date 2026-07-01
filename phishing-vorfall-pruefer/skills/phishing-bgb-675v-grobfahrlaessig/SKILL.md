@@ -1,6 +1,6 @@
 ---
 name: phishing-bgb-675v-grobfahrlaessig
-description: "§ 675v Abs. 3 BGB Haftung Kunde bei grober Fahrlaessigkeit: Vollhaftung. Prüfraster: PIN/TAN weitergegeben? Auf Phishing-Seite eingegeben? Bei pushTAN: Geraetebindung umgangen? Rechtsprechung BGH XI ZR 91/14, XI ZR 96/11 im Phishing Vorfall Prüfer."
+description: "Wenn es um Paragraf 675v Grobfahrlaessigkeitspruefung in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 675v Grobfahrlaessigkeitspruefung

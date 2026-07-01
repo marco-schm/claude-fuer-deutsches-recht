@@ -1,6 +1,6 @@
 ---
 name: luft-093-acc3-pfandrecht-vorbereiten
-description: "Luftrecht und Flughafenrecht: ACC3: Pfandrecht vorbereiten. Pfandrecht vorbereiten für ACC3 im Rahmen von Luftrecht und Flughafenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Acc3 Pfandrecht Vorbereiten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Acc3 Pfandrecht Vorbereiten

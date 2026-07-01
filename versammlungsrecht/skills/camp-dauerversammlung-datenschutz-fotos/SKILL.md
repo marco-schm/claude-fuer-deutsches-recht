@@ -1,6 +1,6 @@
 ---
 name: camp-dauerversammlung-datenschutz-fotos
-description: "Prüft Camps, Mahnwachen, Zelte, Schlafen, Infrastruktur und Dauerversammlungen unter Art. 8 GG im Versammlungsrecht."
+description: "Wenn es um Camp ist nur geschützt, soweit es der Versammlung dient in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Camp ist nur geschützt, soweit es der Versammlung dient

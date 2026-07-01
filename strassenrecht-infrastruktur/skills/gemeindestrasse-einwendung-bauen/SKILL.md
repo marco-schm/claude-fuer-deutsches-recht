@@ -1,6 +1,6 @@
 ---
 name: gemeindestrasse-einwendung-bauen
-description: "Gemeindestraße: Einwendung bauen im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Gemeindestrasse Einwendung Bauen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gemeindestrasse Einwendung Bauen

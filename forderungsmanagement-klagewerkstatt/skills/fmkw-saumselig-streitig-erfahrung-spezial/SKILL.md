@@ -1,6 +1,6 @@
 ---
 name: fmkw-saumselig-streitig-erfahrung-spezial
-description: "Spezialfall saeumiges Verfahren und streitiges Verfahren nach Widerspruch: prozessuale Weichen, Beweislast, Schriftsaetze. Pruefraster fuer Klaegeranwalt."
+description: "Wenn es um FMKW: Saumselig Streitig in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # FMKW: Saumselig Streitig

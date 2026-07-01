@@ -1,6 +1,6 @@
 ---
 name: sanktions-und-exportkontrollinformationen
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Sanktions Und Exportkontrollinformationen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "Wenn es um Sanktions Und Exportkontrollinformationen in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Sanktions Und Exportkontrollinformationen

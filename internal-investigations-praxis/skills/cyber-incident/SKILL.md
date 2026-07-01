@@ -1,6 +1,6 @@
 ---
 name: cyber-incident
-description: "Reagiert auf Cyber-Incidents (Ransomware, Datenleck, APT) – DSGVO-Meldepflichten, forensische Sicherung, Behördenstrategie, Strafverfolgung im Internal Investigations Praxis."
+description: "Wenn es um Cyber-Incident-Response und forensische Untersuchung in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Cyber-Incident-Response und forensische Untersuchung

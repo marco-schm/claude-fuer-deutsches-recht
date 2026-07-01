@@ -1,6 +1,6 @@
 ---
 name: ihl-064-commercial-agent-eu
-description: "Internationales Handelsrecht und Lex Mercatoria: Commercial Agent EU. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Commercial Agent EU in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Commercial Agent EU

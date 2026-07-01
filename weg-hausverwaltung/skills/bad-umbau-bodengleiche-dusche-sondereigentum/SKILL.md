@@ -1,6 +1,6 @@
 ---
 name: bad-umbau-bodengleiche-dusche-sondereigentum
-description: "Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentum (Stand 06/2026): SE/GE-Abgrenzung, Beschluss nach § 20 Abs. 2 Nr. 2 WEG, DIN 18534 Abdichtung, Pflegekasse § 40 SGB XI bis 4180 Euro. BGH V ZR 57/12."
+description: "Wenn es um Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum

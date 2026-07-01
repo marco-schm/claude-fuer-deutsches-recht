@@ -1,6 +1,6 @@
 ---
 name: spezial-screenreader-livequellen-und-rechtsprechungscheck
-description: "Screenreader: Livequellen- und Rechtsprechungscheck im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Screenreader: Livequellen- und Rechtsprechungscheck in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Screenreader: Livequellen- und Rechtsprechungscheck

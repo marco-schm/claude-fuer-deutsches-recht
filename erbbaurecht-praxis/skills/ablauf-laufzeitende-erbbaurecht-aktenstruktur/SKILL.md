@@ -1,6 +1,6 @@
 ---
 name: ablauf-laufzeitende-erbbaurecht-aktenstruktur
-description: "Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, Entschädigung, Rückbau, Finanzierungsauslauf, Mieter-/Betreiberkommunikation und Verhandlungsstrategie im Erbbaurecht Praxis."
+description: "Wenn es um Laufzeitende und Exitplan in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Laufzeitende und Exitplan

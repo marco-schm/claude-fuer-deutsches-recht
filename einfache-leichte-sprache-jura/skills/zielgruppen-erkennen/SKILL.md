@@ -1,6 +1,6 @@
 ---
 name: zielgruppen-erkennen
-description: "Zielgruppen erkennen: Einfache Sprache für geringe Lesekompetenz (B1), Leichte Sprache für Menschen mit Lernschwierigkeiten oder geringer Deutsch-Kenntnis. Wahl der richtigen Stufe pro Mandant/Adressat. Prüfraster und Beispiele."
+description: "Wenn es um ELS-J: Zielgruppen erkennen in Einfache und Leichte Sprache für juristische Texte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # ELS-J: Zielgruppen erkennen

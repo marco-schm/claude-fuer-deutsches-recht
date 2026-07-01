@@ -1,6 +1,6 @@
 ---
 name: aufopferung-heutiger-schriftsatz
-description: "PrALR: Aufopferungsgedanke in heutiger Staatshaftungsargumentation präzise und schlank verwenden."
+description: "Wenn es um Aufopferung im Schriftsatz in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Aufopferung Heutiger Schriftsatz; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Aufopferung im Schriftsatz

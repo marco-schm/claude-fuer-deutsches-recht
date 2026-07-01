@@ -1,6 +1,6 @@
 ---
 name: gruender-ip-einbringung-und-lizenzkette
-description: Klärt, ob Software, Marke, Design, Content, Datenbank, Know-how oder Erfindung wirksam in die Gründung eingebracht oder lizenziert ist.
+description: "Wenn es um Gründer-IP, Einbringung und Lizenzkette in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Gründer-IP, Einbringung und Lizenzkette
 

@@ -1,6 +1,6 @@
 ---
 name: quantenkommunikation-via-satellit
-description: "Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schlüsselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und Exportkontrolle (Wassenaar Arrangement EU Dual-Use VO 2021/8..."
+description: "Wenn es um Quantenkommunikation via Satellit in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Quantenkommunikation via Satellit

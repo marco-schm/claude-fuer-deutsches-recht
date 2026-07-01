@@ -1,6 +1,6 @@
 ---
 name: bankabschluss-regulatorik
-description: "Wirtschaftsprüfer: bankabschluss und regulatorik - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Wirtschaftspruefer."
+description: "Wenn es um Bankabschluss Regulatorik in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer: bankabschluss und regulatorik - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

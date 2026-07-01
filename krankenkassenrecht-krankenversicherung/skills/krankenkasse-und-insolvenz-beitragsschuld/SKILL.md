@@ -1,6 +1,6 @@
 ---
 name: krankenkasse-und-insolvenz-beitragsschuld
-description: "Beitragsschulden gegenüber GKV und PKV in der Insolvenz: Insolvenzforderungen, Masseverbindlichkeiten, Restschuldbefreiung und Verhalten der Kasse im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Krankenkasse und Insolvenz: Beitragsschuld in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenkasse und Insolvenz: Beitragsschuld

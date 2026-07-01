@@ -1,6 +1,6 @@
 ---
 name: energiesteuerentlastung
-description: "Bearbeitung von Entlastungsantraegen nach Energiesteuergesetz und Stromsteuergesetz — Spitzenausgleich produzierendes Gewerbe und Land- und Forstwirtschaft. Anwendungsfall Mandant ist energieintensives Unternehmen und beantragt Entlastung; Hauptzollamt versagt sie wegen Fristversaeumnis oder Fehl..."
+description: "Wenn es um Energie- und Stromsteuerentlastung — EnergieStG und StromStG in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energie- und Stromsteuerentlastung — EnergieStG und StromStG

@@ -1,6 +1,6 @@
 ---
 name: spezial-eingetragene-mandantenkommunikation-entscheidungsvorlage
-description: "Eingetragene: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Eingetragene: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eingetragene: Mandantenkommunikation und Entscheidungsvorlage

@@ -1,6 +1,6 @@
 ---
 name: workflow-kosten-streitwert
-description: "Kosten und Streitwert: Prüfungslinie für Miet- und WEG-Recht: schätzt Streitwert, Gebühren, Prozesskostenrisiko und Vergleichswirtschaftlichkeit; mit Kaltstart, Fristencheck, Belegmatrix, Anschlu..."
+description: "Wenn es um Kosten und Streitwert: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Kosten und Streitwert: Prüfungslinie für Miet- und WEG-Recht

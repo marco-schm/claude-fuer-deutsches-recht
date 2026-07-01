@@ -1,6 +1,6 @@
 ---
 name: stundensatzarchitektur-subscription-retainer
-description: "Baut Rate Cards nach Seniorität, Praxisgruppe, Markt und Rabattgrenzen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um Stundensatzarchitektur in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stundensatzarchitektur

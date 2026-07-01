@@ -1,6 +1,6 @@
 ---
 name: presse-gegendarstellung
-description: "Gegendarstellungsanspruch in der Presse prüfen und Gegendarstellung verfassen: §§ 10 ff. LPG Gegendarstellungsrecht Art. 5 GG Pressefreiheit. Prüfraster: Tatsachenbehauptung Erst..."
+description: "Wenn es um Gegendarstellungsanspruch in der Presse prüfen und Gegendarstellung verfassen in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gegendarstellungsanspruch in der Presse prüfen und Gegendarstellung verfassen

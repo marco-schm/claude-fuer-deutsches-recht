@@ -1,6 +1,6 @@
 ---
 name: datenminimierung-edge-datensatzqualitaet-bias
-description: "Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie, Anonymisierung, Zugriffskontrolle und Retention im Robotik-Recht."
+description: "Wenn es um Datenminimierung in der Edge/Cloud-Architektur in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenminimierung Edge Datensatzqualitaet Bias; Arbeitsfeld: robotik-recht."
 ---
 
 # Datenminimierung in der Edge/Cloud-Architektur

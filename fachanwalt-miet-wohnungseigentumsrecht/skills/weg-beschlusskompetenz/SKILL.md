@@ -1,6 +1,6 @@
 ---
 name: weg-beschlusskompetenz
-description: "WEG-Beschlusskompetenz: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Kompetenz, Bestimmtheit, ordnungsmäßige Verwaltung, Nichtigkeit; mit Normprüfung, Beweisen, Fristen, Risikoam..."
+description: "Wenn es um WEG-Beschlusskompetenz: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG-Beschlusskompetenz: Fachmodul im Miet- und Wohnungseigentumsrecht

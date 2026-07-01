@@ -1,6 +1,6 @@
 ---
 name: argumente-die-nicht-tragen
-description: "Markiert KDV-schwache Argumente und passende Alternativwege im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Argumente die nicht tragen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Argumente die nicht tragen

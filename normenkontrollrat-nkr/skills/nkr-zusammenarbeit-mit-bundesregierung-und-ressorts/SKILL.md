@@ -1,6 +1,6 @@
 ---
 name: nkr-zusammenarbeit-mit-bundesregierung-und-ressorts
-description: "Verhaltens-Skill für die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts: Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstuf..."
+description: "Wenn es um Verhaltens-Skill für die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Verhaltens-Skill für die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts

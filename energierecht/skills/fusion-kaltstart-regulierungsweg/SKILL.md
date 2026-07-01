@@ -1,6 +1,6 @@
 ---
 name: fusion-kaltstart-regulierungsweg
-description: "Ordnet Fusionsreaktor-Projekt zwischen Atomrecht, Strahlenschutz, Baurecht, Immissionsschutz und Forschungsförderung."
+description: "Wenn es um Kernfusion: Kaltstart und Regulierungsweg in Energierecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kernfusion: Kaltstart und Regulierungsweg

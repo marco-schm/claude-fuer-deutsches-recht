@@ -1,6 +1,6 @@
 ---
 name: entscheidungsbaum-ki-vo-gesamt-workflow
-description: "Master-Workflow: KI-VO-Gesamtprüfung im EU KI-VO (AI Act): Dieser Skill ist der zentrale Entscheidungsbaum des KI-VO-Prüfers. Er führt vom ersten Art.-3-Check bis zum dokumentierbaren Endvermerk. Er soll nicht nur klassifizieren, sondern den Prüfpfad so steuern, dass Zweckbestimmung, tatsächliche..."
+description: "Wenn es um Master-Workflow: europäischer Technikregulierungsrahmen-Gesamtprüfung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Master-Workflow: KI-VO-Gesamtprüfung

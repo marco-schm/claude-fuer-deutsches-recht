@@ -1,6 +1,6 @@
 ---
 name: stoerung-hausordnung-mieter-eigentuemer
-description: "Bearbeitet Störungen in der WEG (Stand 05/2026): Lärm, Müll, Feuchtigkeit, Geruch, Kamera, Gemeinschaftsflächen, Mieter als Störer, vermietender Eigentümer, Hausordnung, Abmahnung, Beweissicherung. Berücksichtigt BGH V ZR 1/24 (mittelbare Handlungsstörerhaftung des vermietenden Eigentümers) und V..."
+description: "Wenn es um Störung, Hausordnung, Mieter und Eigentümer in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Störung, Hausordnung, Mieter und Eigentümer

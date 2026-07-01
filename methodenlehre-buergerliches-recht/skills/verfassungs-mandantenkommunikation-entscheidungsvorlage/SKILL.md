@@ -1,6 +1,6 @@
 ---
 name: verfassungs-mandantenkommunikation-entscheidungsvorlage
-description: "Dieses Skill strukturiert die Kommunikation von verfassungsrechtlich relevanten Rechtsfragen an Mandanten und erstellt daraus Entscheidungsvorlagen: Dieses Skill strukturiert die Kommunikation von verfassungsrechtlich relevanten Rechtsfragen an Mandanten un..."
+description: "Wenn es um Verfassungs Mandantenkommunikation Entscheidungsvorlage in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Dieses Skill strukturiert die Kommunikation von verfassungsrechtlich relevanten Rechtsfragen an Mandanten und erstellt daraus Entscheidungsvorlagen

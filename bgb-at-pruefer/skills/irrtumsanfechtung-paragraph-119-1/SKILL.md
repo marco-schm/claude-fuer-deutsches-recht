@@ -1,6 +1,6 @@
 ---
 name: irrtumsanfechtung-paragraph-119-1
-description: "Klausurfall zur Irrtumsanfechtung nach § 119 Abs. 1 BGB: Inhaltsirrtum versus Erklärungsirrtum, Motivirrtum als unbeachtlicher Irrtum, Kausalität und Unverzüglichkeit, Schadensersatz nach § 122 BGB. Prüfraster für Examens- und Anwaltsprüfung."
+description: "Wenn es um Irrtumsanfechtung — Paragraf 119 Abs. 1 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Irrtumsanfechtung — § 119 Abs. 1 BGB

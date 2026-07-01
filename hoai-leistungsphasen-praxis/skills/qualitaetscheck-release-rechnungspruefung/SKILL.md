@@ -1,6 +1,6 @@
 ---
 name: qualitaetscheck-release-rechnungspruefung
-description: "HOAI-Quality-Gate vor Release, Rechnungsprüfung oder Paketweitergabe: Leistungsphase, Grundleistung, besondere Leistung, Honorar, Nachtrag, Abnahme- und Haftungsrisiko prüfen."
+description: "Wenn es um Quality-Gate vor Release und Rechnungsprüfung in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Quality-Gate vor Release und Rechnungsprüfung

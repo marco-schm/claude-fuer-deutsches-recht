@@ -1,6 +1,6 @@
 ---
 name: leichtfertige-steuerverkuerzung-378-ao
-description: "Bearbeitung des Ordnungswidrigkeitstatbestands § 378 AO leichtfertige Steuerverkuerzung — Abgrenzung zur Hinterziehung Schuldform Bussgeld und Wirkung der Selbstanzeige § 378 Abs. 3 AO. Anwendungsfall Finanzamt leitet Bussgeldverfahren ein weil Vorsatz nicht nachgewiesen werden kann. Behandelt Le..."
+description: "Wenn es um Leichtfertige Steuerverkuerzung — Paragraf 378 AO und Bussgeldverfahren in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leichtfertige Steuerverkuerzung — § 378 AO und Bussgeldverfahren

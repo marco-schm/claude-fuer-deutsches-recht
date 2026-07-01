@@ -1,6 +1,6 @@
 ---
 name: beziehungsmatrix-personen-taten
-description: "Beziehungen zwischen Personen und Tatkomplexen sichtbar machen: Wer hat wem etwas getan, wer war wann wo, wer sagt was zu welchem Tatkomplex. Matrix-Tabelle mit Tatkomplexen als Spalten und Personen als Zeilen. Markiert Beziehungstyp (Taeter, Mitwirkender, Opfer, Zeuge, Anstifter, Gehilfe) im Str..."
+description: "Wenn es um Beziehungsmatrix Personen/Taten in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beziehungsmatrix Personen/Taten

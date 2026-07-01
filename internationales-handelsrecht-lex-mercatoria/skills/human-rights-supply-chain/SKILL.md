@@ -1,6 +1,6 @@
 ---
 name: human-rights-supply-chain
-description: "Internationales Handelsrecht: Menschenrechte in der Lieferkette. UN-Guiding Principles on Business and Human Rights (UNGP 2011), deutsches Lieferkettensorgfaltspflichtengesetz (LkSG 2023), EU CSDDD-RL 2024 und zivilrechtliche Haftungsrisiken im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Menschenrechte in der Lieferkette in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Menschenrechte in der Lieferkette

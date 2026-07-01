@@ -1,6 +1,6 @@
 ---
 name: mildere-mittel-matrix
-description: "Erstellt eine Matrix milderer Mittel gegen Verbot, Verlegung oder zu breite Auflagen im Versammlungsrecht."
+description: "Wenn es um Mildere Mittel sichtbar machen in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mildere Mittel sichtbar machen

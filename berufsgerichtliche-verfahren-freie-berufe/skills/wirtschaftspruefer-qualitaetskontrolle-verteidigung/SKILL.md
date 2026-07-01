@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-qualitaetskontrolle-verteidigung
-description: "Wirtschaftsprüfer Qualitätskontrolle (Verteidigungs- und Kammerantwort): steuert Qualitätssicherung, Inspektion, Dokumentation, Prüfungsakte und Maßnahmenplan mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie..."
+description: "Wenn es um Wirtschaftsprüfer Qualitätskontrolle: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wirtschaftsprüfer Qualitätskontrolle: Verteidigungs- und Kammerantwort

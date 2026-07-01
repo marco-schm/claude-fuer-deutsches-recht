@@ -1,6 +1,6 @@
 ---
 name: reporting-pflichten
-description: "Analysiert Berichts- und Informationspflichten des Handelsvertreters nach § 86 Abs. 2 HGB: Pflicht zur Mitteilung aller nützlichen Informationen, Kundenfeedback, Marktentwicklungen und Konkurrenzbeobachtung; Gegenleistungspflichten des Unternehmers nach § 86a HGB sowie Konsequenzen bei Verletzung..."
+description: "Wenn es um Berichtspflichten des Handelsvertreters nach Paragraf 86 Abs. 2 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Berichtspflichten des Handelsvertreters nach § 86 Abs. 2 HGB

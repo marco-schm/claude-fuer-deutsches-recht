@@ -1,6 +1,6 @@
 ---
 name: delikt-organisationspflicht-psychische
-description: "Prüft Organisationspflichten im Deliktsrecht: § 831 BGB, § 823 BGB Verkehrssicherungspflicht und organschaftliche Haftung im BGB BT."
+description: "Wenn es um Delikt: Organisationspflicht in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Delikt Organisationspflicht Psychische; Arbeitsfeld: BGB BT Prüfer."
 ---
 
 # Delikt: Organisationspflicht

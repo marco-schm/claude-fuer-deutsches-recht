@@ -1,6 +1,6 @@
 ---
 name: stadtwerke-kommunikation-schreiben
-description: "Stadtwerke: Kommunikation schreiben im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Stadtwerke Kommunikation Schreiben in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stadtwerke Kommunikation Schreiben

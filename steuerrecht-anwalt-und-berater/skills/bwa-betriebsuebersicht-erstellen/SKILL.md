@@ -1,6 +1,6 @@
 ---
 name: bwa-betriebsuebersicht-erstellen
-description: "Betriebsuebersicht als ergaenzende Auswertung zur BWA. Anwendungsfall ausführliche Monats- oder Quartalsauswertung mit allen Sachkonten-Salden ergaenzend zur kompakten BWA. Methodik Konfiguration in DATEV oder Addison als Kontenliste mit Vorjahres- und Plan-Spalten. Output Betriebsuebersicht als..."
+description: "Wenn es um Betriebsuebersicht erstellen — Ergaenzung zur BWA in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Betriebsuebersicht erstellen — Ergaenzung zur BWA

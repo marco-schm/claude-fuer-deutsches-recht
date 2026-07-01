@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Meinungsfreiheit/Persönlichkeitsrecht-Prüfer: ordnet Rolle (Betroffener, Äußerer, Medium/Plattform), markiert Frist (Antrag eA wegen Eile), wählt Norm (Art. 5 I GG, §§ 823/1004 BGB analog, § 185 StGB) und Zuständigkeit (Zivilgericht), leitet zum passenden Spezial-..."
+description: "Wenn es um Einstieg und Routing in Meinungsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Einstieg und Routing

@@ -1,6 +1,6 @@
 ---
 name: bauleitplanung-mehrparteien-konflikt-und-interessen
-description: "Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bauleitplanung Mehrparteien Konflikt Und Interessen; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
 ---
 
 # Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: athletenwerbung-paragraf-3-uwg
-description: "Athletenwerbung § 3 uwg: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Athletenwerbung Paragraf 3 uwg in Fachanwalt Sportrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Athletenwerbung § 3 uwg

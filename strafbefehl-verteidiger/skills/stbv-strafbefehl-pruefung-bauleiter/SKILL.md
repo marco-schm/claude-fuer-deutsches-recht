@@ -1,6 +1,6 @@
 ---
 name: stbv-strafbefehl-pruefung-bauleiter
-description: "Bauleiter Pruefung Strafbefehl § 407 StPO: Tatvorwurf, Strafhoehe, Folgen, Einspruchsfrist. Pruefraster fuer Verteidiger Erstgespraech."
+description: "Wenn es um StBV: Strafbefehl-Pruefung in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # StBV: Strafbefehl-Pruefung

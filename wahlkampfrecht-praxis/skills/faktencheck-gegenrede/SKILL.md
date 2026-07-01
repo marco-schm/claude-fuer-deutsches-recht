@@ -1,6 +1,6 @@
 ---
 name: faktencheck-gegenrede
-description: "Wahlkampfrecht Praxis: sachliche Gegenrede gegen falsche Wahlkampfnarrative erstellen im Wahlkampfrecht."
+description: "Wenn es um Faktencheck Gegenrede in Wahlkampfrecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Faktencheck Gegenrede

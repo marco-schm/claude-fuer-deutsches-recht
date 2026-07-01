@@ -1,6 +1,6 @@
 ---
 name: anhoerung-erwiderung-anwalt-freier
-description: "Reagiert auf Anhörungsschreiben vor belastendem Status- oder Beitragsbescheid im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Anhörung und Erwiderung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anhörung und Erwiderung

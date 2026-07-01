@@ -1,6 +1,6 @@
 ---
 name: bea-nutzungspflichten-kanzleisitz
-description: "beA und elektronische Kommunikation: prüft aktive/passive Nutzungspflichten, Fristen, Wiedereinsetzung und Kammerkommunikation in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtliche Verfahren Fr..."
+description: "Wenn es um beA und elektronische Kommunikation in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # beA und elektronische Kommunikation

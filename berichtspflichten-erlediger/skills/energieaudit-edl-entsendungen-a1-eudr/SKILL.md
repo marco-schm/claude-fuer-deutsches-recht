@@ -1,6 +1,6 @@
 ---
 name: energieaudit-edl-entsendungen-a1-eudr
-description: "Energieaudit-/Energiemanagementpflichten, Nicht-KMU-Prüfung, Umsetzungspläne und Nachweise im Berichtspflichten."
+description: "Wenn es um Energieaudit EDL-G und EnEfG-Schnittstelle in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Energieaudit EDL-G und EnEfG-Schnittstelle

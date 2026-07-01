@@ -1,6 +1,6 @@
 ---
 name: plattform-sperre-betroffenenformular-b
-description: "Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Betroffenenformular bauen im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Plattform Sperre Betroffenenformular B in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Plattform Sperre Betroffenenformular B

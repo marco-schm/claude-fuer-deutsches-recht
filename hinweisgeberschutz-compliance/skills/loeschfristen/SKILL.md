@@ -1,6 +1,6 @@
 ---
 name: loeschfristen
-description: "Steuert Löschung und Archivierung von HinSchG-Akten im Hinweisgeberschutz Compliance."
+description: "Wenn es um Loeschfristen in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Loeschfristen

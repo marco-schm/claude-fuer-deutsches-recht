@@ -1,6 +1,6 @@
 ---
 name: weisungsgebundenheit-widerspruch-klage
-description: "Vertieft Weisungen zu Inhalt, Durchführung, Zeit, Ort, Reihenfolge und Verhalten als Statusindiz im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Weisungsgebundenheit in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Weisungsgebundenheit

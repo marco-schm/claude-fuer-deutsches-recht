@@ -1,6 +1,6 @@
 ---
 name: formwechsel-registercheck
-description: "Prüft Formwechselbericht, Beschlüsse, Satzung, neue Firma, Registerwechsel und Identitätskontinuität im Handelsregister Praxis."
+description: "Wenn es um Formwechsel Registercheck in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Formwechsel Registercheck

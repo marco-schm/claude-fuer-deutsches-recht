@@ -1,6 +1,6 @@
 ---
 name: projektfoerderung-parlamentsfrage-vorb
-description: "Haushaltsrecht BHO Bund und Länder: Projektförderung: Parlamentsfrage vorbereiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Projektfoerderung Parlamentsfrage Vorb in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Projektfoerderung Parlamentsfrage Vorb

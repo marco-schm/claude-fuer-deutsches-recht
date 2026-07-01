@@ -1,6 +1,6 @@
 ---
 name: gefahrgut-adr-paragraf-9-gefstoffvo
-description: "Gefahrgut adr § 9 Gefstoffvo: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Gefahrgut adr Paragraf 9 Gefstoffvo in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gefahrgut adr § 9 Gefstoffvo

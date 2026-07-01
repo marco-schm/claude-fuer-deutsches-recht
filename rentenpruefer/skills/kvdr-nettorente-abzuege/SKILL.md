@@ -1,6 +1,6 @@
 ---
 name: kvdr-nettorente-abzuege
-description: "Prüft Krankenversicherung der Rentner, freiwillige Krankenversicherung, Pflegeversicherung und Nettoeffekte aus gesetzlicher Rente, Betriebsrente und privaten Rentenzahlungen."
+description: "Wenn es um KVdR Nettorente Abzüge in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # KVdR Nettorente Abzüge

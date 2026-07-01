@@ -1,6 +1,6 @@
 ---
 name: 02-amtsermittlung-finanzgericht
-description: "Amtsermittlungsgrundsatz Paragraf 76 FGO, Heranziehung der Akten Paragraf 71, Beweismittel, Schaetzungsbefugnis Paragraf 162 AO, Mitwirkungspflicht des Klägers"
+description: "Wenn es um 02 Amtsermittlung Finanzgericht in Finanzgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # 02 Amtsermittlung Finanzgericht

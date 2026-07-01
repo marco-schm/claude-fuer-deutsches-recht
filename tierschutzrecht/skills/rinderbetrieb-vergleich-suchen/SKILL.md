@@ -1,6 +1,6 @@
 ---
 name: rinderbetrieb-vergleich-suchen
-description: "Rinderbetrieb: Vergleich suchen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Rinderbetrieb Vergleich Suchen in Tierschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Rinderbetrieb Vergleich Suchen

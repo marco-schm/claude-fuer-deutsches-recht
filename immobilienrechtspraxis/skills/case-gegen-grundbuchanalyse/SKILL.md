@@ -1,6 +1,6 @@
 ---
 name: case-gegen-grundbuchanalyse
-description: "Case: Internationaler Bezug und Schnittstellen im Immobilienrechtspraxis. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Case: Internationaler Bezug und Schnittstellen in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Case: Internationaler Bezug und Schnittstellen

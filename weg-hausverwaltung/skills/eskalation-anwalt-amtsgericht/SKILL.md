@@ -1,6 +1,6 @@
 ---
 name: eskalation-anwalt-amtsgericht
-description: "Erkennt, wann ein WEG-/Hausverwaltungsvorgang nicht mehr nur Verwaltung ist (Stand 05/2026): Anwalt, Beschlussklage, Hausgeldklage, einstweiliger Rechtsschutz, Beweissicherung, Verwalterhaftung über GdWE oder Vergleich; berücksichtigt Fristen aus § 45 WEG, BGH V ZR 17/24 (Erkundigungsobliegenheit..."
+description: "Wenn es um Eskalation: Anwalt und Amtsgericht in WEG- und Hausverwaltung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Eskalation: Anwalt und Amtsgericht

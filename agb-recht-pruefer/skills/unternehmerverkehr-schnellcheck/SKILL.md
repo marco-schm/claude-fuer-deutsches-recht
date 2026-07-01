@@ -1,6 +1,6 @@
 ---
 name: unternehmerverkehr-schnellcheck
-description: "Einstiegs- und Prüfungslinie für Unternehmerverkehr Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Wenn es um Unternehmerverkehr Schnellcheck in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Unternehmerverkehr Schnellcheck

@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-wohngeld-kinderzuschlag-schnittstelle
-description: "Laienverstaendlicher Sozialrechts-Skill zu Wohngeld Kinderzuschlag Schnittstelle: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formuli..."
+description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Wohngeld Kinderzuschlag Schnittstelle in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Wohngeld Kinderzuschlag Schnittstelle

@@ -1,6 +1,6 @@
 ---
 name: tierarzt-und-behandlungsfehler
-description: "Tierschutzrecht: Tierarzt und Behandlungsfehler. Tierarzt und Behandlungsfehler im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht."
+description: "Wenn es um Tierarzt Und Behandlungsfehler in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Tierarzt Und Behandlungsfehler

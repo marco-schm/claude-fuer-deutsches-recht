@@ -1,6 +1,6 @@
 ---
 name: nicht-geringe-menge-livecheck
-description: "Betäubungsmittelrecht: Nicht geringe Menge Livecheck. Nicht geringe Menge Livecheck im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
+description: "Wenn es um Nicht Geringe Menge Livecheck in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Nicht Geringe Menge Livecheck

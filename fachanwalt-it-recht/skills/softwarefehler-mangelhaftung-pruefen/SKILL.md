@@ -1,6 +1,6 @@
 ---
 name: softwarefehler-mangelhaftung-pruefen
-description: "Strukturierte Prüfung bei mangelhafter Software mit Vertragstyp-Einordnung: Anwendungsfall Software versagt und Mandant braucht Einordnung ob Kauf- Werk- oder Dienstvertragsrecht gi..."
+description: "Wenn es um Strukturierte Prüfung bei mangelhafter Software mit Vertragstyp-Einordnung in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strukturierte Prüfung bei mangelhafter Software mit Vertragstyp-Einordnung

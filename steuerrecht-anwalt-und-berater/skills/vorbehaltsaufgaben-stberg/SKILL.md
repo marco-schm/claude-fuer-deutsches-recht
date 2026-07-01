@@ -1,6 +1,6 @@
 ---
 name: vorbehaltsaufgaben-stberg
-description: "Prüfung der Vorbehaltsaufgaben nach StBerG — wer darf welche steuerliche Hilfeleistung erbringen und welche Folge hat die unerlaubte Hilfeleistung. Anwendungsfall Unternehmen oder Lohnsteuerhilfeverein berufen sich auf eingeschraenkte Befugnisse oder eine Werkstattgesellschaft will steuerliche H..."
+description: "Wenn es um Vorbehaltsaufgaben Steuerberater — Paragraf 3 Paragraf 4 StBerG in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorbehaltsaufgaben Steuerberater — § 3 § 4 StBerG

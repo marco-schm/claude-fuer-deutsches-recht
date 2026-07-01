@@ -1,6 +1,6 @@
 ---
 name: einreichung-mein-justizpostfach-mjp-2024
-description: "Einrichtung und Nutzung von Mein Justizpostfach (MJP) für Buerger seit 2024. Sichere elektronische Einreichung von Klagen und Schriftsaetzen an Gerichte. BundID-Login Postfach-Funktion Versandbestätigung und Zustellung."
+description: "Wenn es um Mein Justizpostfach (MJP): elektronisch beim Gericht einreichen in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mein Justizpostfach (MJP): elektronisch beim Gericht einreichen

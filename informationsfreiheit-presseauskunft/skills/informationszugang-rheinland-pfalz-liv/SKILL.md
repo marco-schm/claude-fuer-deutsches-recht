@@ -1,6 +1,6 @@
 ---
 name: informationszugang-rheinland-pfalz-liv
-description: "Informationsfreiheit und Presseauskunft: Informationszugang Rheinland-Pfalz Livecheck. Informationszugang Rheinland-Pfalz Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Pres..."
+description: "Wenn es um Informationszugang Rheinland Pfalz Liv in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Informationszugang Rheinland Pfalz Liv

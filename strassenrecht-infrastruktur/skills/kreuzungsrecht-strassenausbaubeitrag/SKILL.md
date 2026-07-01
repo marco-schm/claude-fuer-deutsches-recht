@@ -1,6 +1,6 @@
 ---
 name: kreuzungsrecht-strassenausbaubeitrag
-description: "Straßenrecht und Infrastruktur: Kreuzungsrecht Bahn Wasser Straße. Kreuzungsrecht Bahn Wasser Straße im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenrecht/Infrastruktur: prüft konkret die einschlägigen Tatbe..."
+description: "Wenn es um Kreuzungsrecht Bahn Wasser Strasse in Straßenrecht und Infrastruktur geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kreuzungsrecht Bahn Wasser Strasse

@@ -1,6 +1,6 @@
 ---
 name: kommunalwahlkampf-groundgame
-description: "Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege übersetzen im Wahlkampfrecht."
+description: "Wenn es um Kommunalgroundgame in Wahlkampfrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Kommunalgroundgame

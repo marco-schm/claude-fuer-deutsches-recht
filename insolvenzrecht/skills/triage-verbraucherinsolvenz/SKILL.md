@@ -1,6 +1,6 @@
 ---
 name: triage-verbraucherinsolvenz
-description: "Triage: Mandantenkommunikation und Entscheidungsvorlage im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
+description: "Wenn es um Triage: Mandantenkommunikation und Entscheidungsvorlage in Insolvenzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Triage: Mandantenkommunikation und Entscheidungsvorlage

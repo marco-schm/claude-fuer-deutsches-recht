@@ -1,6 +1,6 @@
 ---
 name: fenus-nauticum-seedarlehen
-description: "Fenus nauticum: Seedarlehen als roemisches Vorlaeufer der Seeversicherung. Skill behandelt die Sondervorschriften zur Risikotragung das Darlehensverhaeltnis mit aussergewoehnlich hoher Zinsenobergrenze und die Beendigung bei Schiffsuntergang. Liefert Quellenmatrix."
+description: "Wenn es um Rom 123 Fenus Nauticum Seedarlehen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rom 123 Fenus Nauticum Seedarlehen

@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Fachanwalt Gewerblicher Rechtsschutz: stimmt Adressat (Schutzrechtsinhaber, Verletzer, Konkurrent), Frist (Widerspruch Marke 3 Mon.) und Form auf den Zweck ab — typische Outputs: Abmahnung, Unterlassungsklage, eA Unterlassung."
+description: "Wenn es um Output wählen in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

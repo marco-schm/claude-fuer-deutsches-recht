@@ -1,6 +1,6 @@
 ---
 name: dora-ikt-vertragspruefung
-description: "IKT-Drittanbietervertraege auf DORA-Konformität prüfen wenn Finanzunternehmen digitale Dienstleistungen einkaufen. Art. 28 30 DORA VO (EU) 2022/2554. Prüfraster: Pflichtklauseln Art. 30 DORA Ausstiegsstrategien Aufsichtsrechte Subdienstleister Laufzeit Sicherheitsanforderungen. Output: DORA-Vertr..."
+description: "Wenn es um DORA-IKT-Vertragsprüfung in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DORA-IKT-Vertragsprüfung

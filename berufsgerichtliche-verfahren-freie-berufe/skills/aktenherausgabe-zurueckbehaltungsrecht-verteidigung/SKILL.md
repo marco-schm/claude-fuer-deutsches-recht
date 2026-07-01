@@ -1,6 +1,6 @@
 ---
 name: aktenherausgabe-zurueckbehaltungsrecht-verteidigung
-description: "Aktenherausgabe und Zurückbehaltungsrecht (Verteidigungs- und Kammerantwort): steuert Herausgabe der Handakte, digitale Akte, Zurückbehaltungsrecht, Datenschutz und Fristensicherung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerich..."
+description: "Wenn es um Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort

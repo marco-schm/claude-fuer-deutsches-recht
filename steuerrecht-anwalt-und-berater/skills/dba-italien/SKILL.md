@@ -1,6 +1,6 @@
 ---
 name: dba-italien
-description: "DBA Deutschland Italien aus 1989. Anwendungsfall Mittelstand Maschinenbau Mode Pharma Holding Pensionen Wegzug Suedtirol. EU-MTRL Subject-to-Tax-Klauseln. Methodenartikel Freistellung mit Aktivitaetsklausel. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Wenn es um DBA Deutschland-Italien (1989) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # DBA Deutschland-Italien (1989)

@@ -1,6 +1,6 @@
 ---
 name: hgb-dokumentenmatrix-und-lueckenliste
-description: "HGB: Dokumentenmatrix, Lückenliste und Nachforderung: HGB: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Wenn es um HGB: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Transport Speditionsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # HGB: Dokumentenmatrix, Lückenliste und Nachforderung

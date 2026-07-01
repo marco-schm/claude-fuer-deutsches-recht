@@ -1,6 +1,6 @@
 ---
 name: umwandlung-formwechsel-verschmelzung-spaltung
-description: Erstellt eine umwandlungsrechtliche Roadmap mit Strukturwahl, Beschlüssen, Registerfolge, Gläubigerschutz und Arbeitsplan.
+description: "Wenn es um Umwandlung, Formwechsel, Verschmelzung und Spaltung in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Umwandlung, Formwechsel, Verschmelzung und Spaltung
 

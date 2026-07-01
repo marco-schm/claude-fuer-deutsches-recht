@@ -1,6 +1,6 @@
 ---
 name: unfallrente-56-sgb-vii
-description: "Unfallrente nach § 56 SGB VII. Skill klaert die Voraussetzungen Minderung der Erwerbsfaehigkeit (MdE) Rentenberechnung Stuetzfunktion und das Verhältnis zur EM-Rente. Liefert Prüfraster."
+description: "Wenn es um Unfallrente 56 Sgb Vii in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unfallrente 56 Sgb Vii

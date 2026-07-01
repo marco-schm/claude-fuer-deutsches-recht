@@ -1,6 +1,6 @@
 ---
 name: auslaendischer-principal
-description: "Analysiert Handelsvertreterverträge mit ausländischem Unternehmer: anwendbares Recht nach Rom-I-VO, zwingende Schutzvorschriften nach § 92c HGB und Art. 17 ff. RL 86/653/EWG auch bei Rechtswahl, Gerichtsstandsvereinbarungen sowie Anerkennung ausländischer Urteile und Schiedssprüche im Handelsvert..."
+description: "Wenn es um Handelsvertretervertrag mit ausländischem Unternehmer — Internationales Privatrecht in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsvertretervertrag mit ausländischem Unternehmer — Internationales Privatrecht

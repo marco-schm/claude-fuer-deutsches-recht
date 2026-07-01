@@ -1,6 +1,6 @@
 ---
 name: workflow-behoerdenkommunikation
-description: "Behördenkommunikation: Prüfungslinie für Migrationsrecht: formuliert knappe Schreiben an ABH, BAMF, Botschaft oder Gericht; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem..."
+description: "Wenn es um Behördenkommunikation: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Behördenkommunikation: Prüfungslinie für Migrationsrecht

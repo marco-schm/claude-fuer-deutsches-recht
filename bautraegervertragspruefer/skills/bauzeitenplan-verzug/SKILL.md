@@ -1,6 +1,6 @@
 ---
 name: bauzeitenplan-verzug
-description: "Prueft Fertigstellungstermin, Verzugseintritt und bauablaufbezogene Darlegungspflichten des Bautraegers. Bewertet Hoehere-Gewalt-Klauseln, pauschalierte Verzugsschulden und Vertragsstrafen. Mahnung ist bei kalendarischem Termin nach Paragraf 286 Absatz 2 Nummer 1 BGB entbehrlich."
+description: "Wenn es um Bauzeitenplan und Verzug in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauzeitenplan und Verzug

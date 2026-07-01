@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung-markennutzung-stoppen
-description: "Einstweilige Verfügung gegen unberechtigte Markennutzung nach Franchiseende durchsetzen: Verfügungsgrund und Verfügungsanspruch nach §§ 935 ff. ZPO und MarkenG, Dringlichkeit, Abschlussschreiben und Vollstreckung gegen ehemaligen Franchisenehmer im Franchiserecht."
+description: "Wenn es um Franchiserecht: Einstweilige Verfügung – Markennutzung stoppen in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
 ---
 
 # Franchiserecht: Einstweilige Verfügung – Markennutzung stoppen

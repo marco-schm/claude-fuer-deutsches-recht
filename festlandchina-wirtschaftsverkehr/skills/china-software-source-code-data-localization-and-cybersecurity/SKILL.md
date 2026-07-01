@@ -1,6 +1,6 @@
 ---
 name: china-software-source-code-data-localization-and-cybersecurity
-description: "Software, Source Code und SaaS im China-Geschäft: Datenlokalisierung Cybersecurity Law Art. 37, MLPS (Multi-Level Protection Scheme), ICP-Lizenz, Source-Code-Escrow vs. Preisgabe-Risiken, Urheberrecht VR China (Copyright Law), SaaS-Verträge mit CN-Kunden, Exportkontrolle Software BAFA. Output: S..."
+description: "Wenn es um Software und SaaS China: Datenlokalisierung/ICP/Exportkontrolle in China-Wirtschaftsverkehr geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Software und SaaS China: Datenlokalisierung/ICP/Exportkontrolle

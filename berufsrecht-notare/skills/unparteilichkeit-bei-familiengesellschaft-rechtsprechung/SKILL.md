@@ -1,6 +1,6 @@
 ---
 name: unparteilichkeit-bei-familiengesellschaft-rechtsprechung
-description: "Notare: unparteilichkeit bei familiengesellschaft - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Unparteilichkeit Bei Familiengesellschaft Rechtsprechung in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: unparteilichkeit bei familiengesellschaft - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

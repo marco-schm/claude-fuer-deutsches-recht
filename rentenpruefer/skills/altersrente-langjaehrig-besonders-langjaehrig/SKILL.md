@@ -1,6 +1,6 @@
 ---
 name: altersrente-langjaehrig-besonders-langjaehrig
-description: "Altersrente für langjährig und besonders langjährig Versicherte: 35- und 45-Jahre-Pfade, anrechenbare Zeiten und kritische Lücken im Rentenpruefer."
+description: "Wenn es um altersrente-langjaehrig-besonders-langjaehrig in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # altersrente-langjaehrig-besonders-langjaehrig

@@ -1,6 +1,6 @@
 ---
 name: ermittlungsvermerk-schreiben
-description: "Ermittlungsvermerk schreiben: Praxis-Skill für neue Staatsanwälte zu Sachstand, Tatverdacht, Beweislage, offene Ermittlungen und Entscheidungsvorschlag in einem brauchbaren Vermerk bündeln; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Ermittlungsvermerk schreiben in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Ermittlungsvermerk schreiben

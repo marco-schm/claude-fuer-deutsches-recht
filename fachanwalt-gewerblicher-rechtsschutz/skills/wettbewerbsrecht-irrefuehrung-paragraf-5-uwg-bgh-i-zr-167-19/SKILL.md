@@ -1,6 +1,6 @@
 ---
 name: wettbewerbsrecht-irrefuehrung-paragraf-5-uwg-bgh-i-zr-167-19
-description: "Wettbewerbsrecht Irrefuehrung Paragraf 5 Uwg BGH I Zr 167 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Wettbewerbsrecht Irrefuehrung Paragraf 5 Uwg BGH I Zr 167 19 in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Wettbewerbsrecht Irrefuehrung Paragraf 5 Uwg BGH I Zr 167 19

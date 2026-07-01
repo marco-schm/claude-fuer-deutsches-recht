@@ -1,6 +1,6 @@
 ---
 name: fusion-sicherheitsnachweis
-description: "Prüft Sicherheitskonzept, Störfallszenarien, Notfallplanung, Sachverständige, Feuerwehr und Katastrophenschutz im Energierecht."
+description: "Wenn es um Fusion: Sicherheitsnachweis und Störfalllogik in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fusion: Sicherheitsnachweis und Störfalllogik

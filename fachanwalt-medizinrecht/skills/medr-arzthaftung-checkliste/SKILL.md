@@ -1,6 +1,6 @@
 ---
 name: medr-arzthaftung-checkliste
-description: "Checkliste Arzthaftung: Behandlungsfehler, grober Behandlungsfehler, Beweislastumkehr § 630h BGB, Befunderhebungsfehler, voll beherrschbares Risiko: Checkliste Arzthaftung: Behandlungsfehler, grober Behandlungsfehler, Beweislastumkehr § 630h BGB, Befunderhe..."
+description: "Wenn es um Medr Arzthaftung Checkliste in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Checkliste Arzthaftung: Behandlungsfehler, grober Behandlungsfehler, Beweislastumkehr § 630h BGB, Befunderhebungsfehler, voll beherrschbares Risiko

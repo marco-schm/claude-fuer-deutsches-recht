@@ -1,6 +1,6 @@
 ---
 name: inso-p340-organisierte-markte-pensionsgeschafte
-description: "§ 340 InsO (Organisierte Märkte: Pensionsgeschäfte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung."
+description: "Wenn es um Paragraf 340 InsO (Organisierte Märkte in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 340 InsO (Organisierte Märkte

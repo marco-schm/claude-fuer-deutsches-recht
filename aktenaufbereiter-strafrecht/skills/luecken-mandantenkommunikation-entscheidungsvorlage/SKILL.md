@@ -1,6 +1,6 @@
 ---
 name: luecken-mandantenkommunikation-entscheidungsvorlage
-description: "Luecken: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Luecken: Mandantenkommunikation und Entscheidungsvorlage in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Luecken: Mandantenkommunikation und Entscheidungsvorlage

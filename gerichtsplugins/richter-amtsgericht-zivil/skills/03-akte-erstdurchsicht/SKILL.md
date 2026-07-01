@@ -1,6 +1,6 @@
 ---
 name: 03-akte-erstdurchsicht
-description: "Strukturierte Erstdurchsicht: Parteien, Antrag, Lebenssachverhalt, Anspruchsgrundlagen sammeln, Beweismittel listen, Streitstand isolieren"
+description: "Wenn es um 03 Akte Erstdurchsicht in Richter Amtsgericht Zivilsachen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 03 Akte Erstdurchsicht

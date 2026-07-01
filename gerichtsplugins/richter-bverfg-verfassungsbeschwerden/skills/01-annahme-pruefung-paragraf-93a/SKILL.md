@@ -1,6 +1,6 @@
 ---
 name: 01-annahme-pruefung-paragraf-93a
-description: "Annahmevoraussetzungen Paragraf 93a Abs. 2 BVerfGG: grundsaetzliche verfassungsrechtliche Bedeutung lit. a, Durchsetzung der Grundrechte lit. b, schwerer Nachteil; Verhaeltnis von Annahmeprüfung und Begründetheit"
+description: "Wenn es um 01 Annahme Prüfung Paragraf 93A in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 01 Annahme Prüfung Paragraf 93A

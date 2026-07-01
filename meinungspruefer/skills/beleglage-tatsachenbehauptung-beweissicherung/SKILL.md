@@ -1,6 +1,6 @@
 ---
 name: beleglage-tatsachenbehauptung-beweissicherung
-description: "Erstellt eine Belegmatrix für Tatsachenbehauptungen, Verdachtsäußerungen und gemischte Äußerungen. Prüft Wahrheit, Beweisbarkeit, Nichterweislichkeit, bewusste Unwahrheit, Quellenqualität und Dokumentationsbedarf im Meinungspruefer."
+description: "Wenn es um Beleglage bei Tatsachenbehauptungen in Meinungsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Beleglage bei Tatsachenbehauptungen

@@ -1,6 +1,6 @@
 ---
 name: proz-zustaendigkeit-bauleiter
-description: "Bauleiter Zuständigkeit ZPO: sachlich, oertlich, funktionell, internationale Zuständigkeit. Prüfraster typische Klagearten im Prozessrecht."
+description: "Wenn es um Proz: Zuständigkeit Bauleiter in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Proz: Zuständigkeit Bauleiter

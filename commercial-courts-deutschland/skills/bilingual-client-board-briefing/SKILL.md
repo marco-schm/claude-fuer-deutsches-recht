@@ -1,6 +1,6 @@
 ---
 name: bilingual-client-board-briefing
-description: "Erstellt bilinguale Board- und Mandantenbriefings zu Commercial-Court-Verfahren: risk, timeline, budget, settlement range, next decisions im Commercial Courts Deutschland."
+description: "Wenn es um Bilingual Board Briefing in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
 ---
 
 # Bilingual Board Briefing

@@ -1,6 +1,6 @@
 ---
 name: spezial-kaution-abrechnung
-description: "Kaution Abrechnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Anlagepflicht, Abrechnungsfrist, Zurückbehalt, Aufrechnung, Zinsen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Kaution Abrechnung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Kaution Abrechnung

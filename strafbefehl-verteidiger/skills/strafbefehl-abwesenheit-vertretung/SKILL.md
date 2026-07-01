@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-abwesenheit-vertretung
-description: "Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einspruch nicht erscheinen und Verteidiger soll ihn vertreten. Prüfraster Entbindung von Erscheinungspflicht § 411 Abs. 2 StPO Voraussetzungen und Antrag. Verwerfung des Einspruchs § 412 StPO bei unentschuldigtem Ausbleiben Folgen. Wied..."
+description: "Wenn es um Abwesenheit in der Hauptverhandlung — Paragraf 411 Abs. 2 StPO in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Abwesenheit in der Hauptverhandlung — § 411 Abs. 2 StPO

@@ -1,6 +1,6 @@
 ---
 name: versorgungsakte-dokumentenintake
-description: "Beamtenversorgungsakte sortieren: Ernennungen, Dienstzeiten, Teilzeit, Beurlaubung, ruhegehaltfähige Dienstbezüge, Familienzuschlag, Versorgungsauskunft und Berechnungsblatt."
+description: "Wenn es um versorgungsakte-dokumentenintake-und-berechnung in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # versorgungsakte-dokumentenintake-und-berechnung

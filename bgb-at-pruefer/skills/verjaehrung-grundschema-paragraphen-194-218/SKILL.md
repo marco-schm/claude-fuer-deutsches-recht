@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-grundschema-paragraphen-194-218
-description: "Klausurfall zum Verjährungsrecht nach §§ 194 bis 218 BGB: regelmäßige Verjährungsfrist drei Jahre nach § 195 BGB mit Fristbeginn § 199 BGB, Hemmung §§ 203 bis 213 BGB, Neubeginn § 212 BGB, Einrede der Verjährung und Folge nach § 214 BGB. Prüfraster für Examen."
+description: "Wenn es um Verjährung — Grundschema Paragrafen 194 bis 218 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verjährung — Grundschema §§ 194 bis 218 BGB

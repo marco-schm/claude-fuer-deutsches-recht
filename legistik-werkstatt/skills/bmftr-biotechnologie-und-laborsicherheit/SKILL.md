@@ -1,6 +1,6 @@
 ---
 name: bmftr-biotechnologie-und-laborsicherheit
-description: "Sachbereich Biotechnologie und Laborsicherheit im Geschäftsbereich BMFTR: Normbestand (GenTG; GenTSV; GenTAufzV; ChemG; ArbSchG; BiostoffV; PflSchG.); Akteure (Zentrale Kommission für die Biologische Sicherheit (ZKBS); BVL; BfR; Länder-Genehmigungen.); EU-Bezug (RL 2009/41/EG; RL 2001/18/EG; gep..."
+description: "Wenn es um Biotechnologie und Laborsicherheit (BMFTR) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Biotechnologie und Laborsicherheit (BMFTR)

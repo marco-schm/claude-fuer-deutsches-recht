@@ -1,6 +1,6 @@
 ---
 name: ein-027-volkseigener-betrieb-behoerdenbrief-sc
-description: "Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Behördenbrief schreiben. Behördenbrief schreiben für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Volkseigener Betrieb Behoerdenbrief Sc in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Volkseigener Betrieb Behoerdenbrief Sc

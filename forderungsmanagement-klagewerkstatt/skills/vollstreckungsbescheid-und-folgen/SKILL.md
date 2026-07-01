@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsbescheid-und-folgen
-description: "Vollstreckungsbescheid Paragrafen 699 und 700 ZPO: Voraussetzung kein Widerspruch innerhalb 2 Wochen, Vollstreckungstitel fuer 30 Jahre, Einspruch noch moeglich (gleicher Fristrahmen wie Widerspruch nach Zustellung). Strategische Hinweise."
+description: "Wenn es um Vollstreckungsbescheid in Forderungsmanagement — Klagewerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vollstreckungsbescheid

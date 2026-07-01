@@ -1,6 +1,6 @@
 ---
 name: redteam-halluzinationsschutz
-description: "Prüft Ergebnisse auf Quellenfehler, erfundene Rechtsprechung, falsche Normen, unklare Beweise und überzogene Sicherheit."
+description: "Wenn es um Red-Team und Halluzinationsschutz in Urheberrecht DE EU geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Red-Team und Halluzinationsschutz

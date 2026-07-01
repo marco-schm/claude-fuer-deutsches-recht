@@ -1,6 +1,6 @@
 ---
 name: chn-079-currency-risk-cny-eur-usd
-description: "Festlandchina Wirtschaftsverkehr: Currency Risk CNY EUR USD. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Currency Risk CNY EUR USD in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Currency Risk CNY EUR USD

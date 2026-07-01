@@ -1,6 +1,6 @@
 ---
 name: pruefliste-belegabgabe-monatlich
-description: "Prüfliste monatliche Belegabgabe. Anwendungsfall standardisierte Belegabgabe-Kontrolle Mandant Vollständigkeit Bankauszuege Kasse Eingangsrechnungen Ausgangsrechnungen Lohnauswertung. Methodik Prüfliste Eingangskontrolle Mahnung. Output Prüfprotokoll Belegmahnung."
+description: "Wenn es um Prüfliste monatliche Belegabgabe in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüfliste monatliche Belegabgabe

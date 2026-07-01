@@ -1,6 +1,6 @@
 ---
 name: spezial-operate-verhandlung-vergleich-und-eskalation
-description: "Operate: Verhandlung, Vergleich und Eskalation im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Operate: Verhandlung, Vergleich und Eskalation in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Operate: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: dsfa-risikoanalyse
-description: "Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal Schadenschwere für Bedrohungsszenarien systematisch ermitteln. Output: Risikomatrix mit Begruendung Ampelfarbe und Begruendung der Stufung."
+description: "Wenn es um Risikoanalyse Eintrittswahrscheinlichkeit mal Schadenschwere in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Risikoanalyse Eintrittswahrscheinlichkeit mal Schadenschwere

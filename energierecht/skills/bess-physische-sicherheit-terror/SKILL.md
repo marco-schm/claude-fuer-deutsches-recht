@@ -1,6 +1,6 @@
 ---
 name: bess-physische-sicherheit-terror
-description: "Prüft Zaun, Zutritt, Drohnen, Video, Wachschutz, Polizei/Feuerwehr, Geheimschutz und Betreiberpflichten im Energierecht."
+description: "Wenn es um Physische Sicherheit, Sabotage und Terrorrisiko in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Physische Sicherheit, Sabotage und Terrorrisiko

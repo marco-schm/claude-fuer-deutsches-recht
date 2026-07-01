@@ -1,6 +1,6 @@
 ---
 name: stellenanzeigen-jobportal-und-datenabruf
-description: "Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/12 (Innoweb/Wegener): Wesentliche Investition in Stellenanzeigen-Sammlung, Schutz gegen Konkurrenz-Jobsuchmaschinen und Aggregatoren, AGB-Auslesen-Verbote sowie DSGVO-Pflichten bei Bewerber- und Arbeitgeberdaten. Erstel..."
+description: "Wenn es um Stellenanzeigen, Jobportale und automatisiertes Auslesen — Datenbankrecht nach Innoweb in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Stellenanzeigen, Jobportale und automatisiertes Auslesen — Datenbankrecht nach Innoweb

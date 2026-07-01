@@ -1,6 +1,6 @@
 ---
 name: europaeische-gruppe-exkulpationsakte
-description: "AG/SE-Aufsichtsrat Praxis: Europaeische Gruppe; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "Wenn es um Europaeische Gruppe in AG/SE-Aufsichtsrat Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Europaeische Gruppe

@@ -1,6 +1,6 @@
 ---
 name: verbraucherstatus-pruefen
-description: "Prueft ob der Erwerber eines Bautraegervertrags Verbraucher nach Paragraf 13 BGB ist. Abgrenzung zu Paragraf 14 BGB bei Gewerbeeinheiten und privater Vermoegensverwaltung. Bei zutreffendem Verbraucherstatus greifen MaBV-Schutz, AGB-Kontrolle und Paragraf 650m Absatz 2 BGB zwingend."
+description: "Wenn es um Verbraucherstatus prüfen in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verbraucherstatus prüfen

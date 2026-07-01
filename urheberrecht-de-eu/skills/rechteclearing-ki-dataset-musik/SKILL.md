@@ -1,6 +1,6 @@
 ---
 name: rechteclearing-ki-dataset-musik
-description: "Prüft Musikdatensätze für Training, Finetuning, Retrieval, Cover-Modelle, Voice-Modelle und Stilimitationsrisiken im Urheberrecht De Eu."
+description: "Wenn es um Rechteclearing digitale Werkzeuge-Dataset Musik in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechteclearing KI-Dataset Musik

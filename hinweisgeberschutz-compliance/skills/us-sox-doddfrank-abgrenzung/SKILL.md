@@ -1,6 +1,6 @@
 ---
 name: us-sox-doddfrank-abgrenzung
-description: "Grenzt US SOX/Dodd-Frank-Hinweise bei Konzernen ab im Hinweisgeberschutz Compliance."
+description: "Wenn es um Us Sox Doddfrank Abgrenzung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Us Sox Doddfrank Abgrenzung

@@ -1,6 +1,6 @@
 ---
 name: saas-fuer-verbraucher-widerruf-formuli
-description: "Prüfer: SaaS für Verbraucher: Widerruf formulieren im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Saas Für Verbraucher Widerruf Formuli in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Saas Für Verbraucher Widerruf Formuli

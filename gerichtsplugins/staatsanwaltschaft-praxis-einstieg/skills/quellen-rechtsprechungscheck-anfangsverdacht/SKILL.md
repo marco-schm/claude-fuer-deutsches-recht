@@ -1,6 +1,6 @@
 ---
 name: quellen-rechtsprechungscheck-anfangsverdacht
-description: "Quellen- und Rechtsprechungscheck: Praxis-Skill für neue Staatsanwälte zu verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
+description: "Wenn es um Quellen- und Rechtsprechungscheck in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Quellen Rechtsprechungscheck Anfangsverdacht; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
 ---
 
 # Quellen- und Rechtsprechungscheck

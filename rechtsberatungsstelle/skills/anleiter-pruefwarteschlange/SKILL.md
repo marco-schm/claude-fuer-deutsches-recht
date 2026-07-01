@@ -1,6 +1,6 @@
 ---
 name: anleiter-pruefwarteschlange
-description: "'Supervisoren-Prüfwarteschlange — studentische Arbeitsergebnisse warten hier auf die Supervisoren-Freigabe, bevor sie an Mandanten oder Gerichte gehen. Nur aktiv, wenn das Supervisionsmodell 'formelle Prüfwarteschlange' gewählt wurde; andernfalls inaktiv. Lädt, wenn der Supervisor sehen möchte, w..."
+description: "Wenn es um Supervisoren-Prüfwarteschlange (Optional) in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Supervisoren-Prüfwarteschlange (Optional)

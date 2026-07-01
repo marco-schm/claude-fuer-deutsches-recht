@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-baden-wuerttemberg-bayern-berlin
-description: "Prüft Schulrecht in Baden-Württemberg mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder."
+description: "Wenn es um Schulgesetz Baden Wuerttemberg in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Schulgesetz Baden Wuerttemberg

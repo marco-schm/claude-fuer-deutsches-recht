@@ -1,6 +1,6 @@
 ---
 name: fran-040-e-commerce-franchise-retouren-und-widerruf
-description: "Franchiserecht: E-Commerce Franchise Retouren und Widerruf mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Franchiserecht: E-Commerce Franchise Retouren und Widerruf in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Franchiserecht: E-Commerce Franchise Retouren und Widerruf

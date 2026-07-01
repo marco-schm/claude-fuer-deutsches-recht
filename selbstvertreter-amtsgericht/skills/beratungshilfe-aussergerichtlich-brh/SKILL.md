@@ -1,6 +1,6 @@
 ---
 name: beratungshilfe-aussergerichtlich-brh
-description: "Beratungshilfe vor Klageerhebung. Beratungshilfegesetz BerHG ermöglicht bedürftigen Buergern kostenlose oder verguenstigte Anwaltsberatung vor Gericht. Antrag beim Amtsgericht Berechtigungsschein Eigenanteil. Sinnvoll als Vorklaerung bevor Sie selbst klagen."
+description: "Wenn es um Beratungshilfe: Anwalt vor Klage (fast) umsonst in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Beratungshilfe: Anwalt vor Klage (fast) umsonst

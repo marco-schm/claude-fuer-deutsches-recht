@@ -1,6 +1,6 @@
 ---
 name: export
-description: "Export: Schriftsatz-, Brief- und Memo-Bausteine im Plugin Liquiditaetsplanung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Wenn es um Export: Schriftsatz-, Brief- und Memo-Bausteine in Liquiditätsplanung — Power geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Export: Schriftsatz-, Brief- und Memo-Bausteine

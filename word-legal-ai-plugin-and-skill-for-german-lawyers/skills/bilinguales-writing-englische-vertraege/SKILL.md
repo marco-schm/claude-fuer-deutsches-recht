@@ -1,6 +1,6 @@
 ---
 name: bilinguales-writing-englische-vertraege
-description: "Bilinguales Legal Writing für deutsche Anwälte: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Wenn es um Bilinguales Legal Writing für deutsche Anwälte in Word-Workflows für deutsche Juristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bilinguales Legal Writing für deutsche Anwälte

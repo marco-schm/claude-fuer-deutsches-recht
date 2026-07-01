@@ -1,6 +1,6 @@
 ---
 name: technische-laborbuch-teilloeschung
-description: "Technische Dokumentation, Laborbuch und Entwicklungsakte auswerten: Erfinder, Datum, Varianten, Tests, Prototypen und Beweiswert im Gebrauchsmusterrecht."
+description: "Wenn es um Technische Dokumentation Laborbuch in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Technische Dokumentation Laborbuch

@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-empirie-nutzen
-description: "Empirische Datenlage zur Strafverteidigungspraxis als Argument gegen den Pauschalvorwurf einsetzen: Praxiserhebungen an Oberlandesgerichten und Diplomarbeite..."
+description: "Wenn es um Strafr Dysfunk Empirie Nutzen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Empirische Datenlage zur Strafverteidigungspraxis als Argument gegen den Pauschalvorwurf einsetzen

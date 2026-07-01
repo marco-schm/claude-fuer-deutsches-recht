@@ -1,6 +1,6 @@
 ---
 name: inso-p276-mitwirkung-des-glaubigerausschusses
-description: "§ 276 InsO (Mitwirkung des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 276 InsO (Mitwirkung des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Bel..."
+description: "Wenn es um Inso P276 Mitwirkung Des Glaubigerausschusses in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 276 InsO (Mitwirkung des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

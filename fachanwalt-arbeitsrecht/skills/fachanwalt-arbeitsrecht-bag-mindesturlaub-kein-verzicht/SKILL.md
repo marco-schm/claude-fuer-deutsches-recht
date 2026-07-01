@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht
-description: "Workflow-Skill zu fachanwalt arbeitsrecht bag mindesturlaub kein verzicht. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Wenn es um Rechtsprechung live prüfen in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Arbeitsrecht Bag Mindesturlaub Kein Verzicht; Arbeitsfeld: Fachanwalt Arbeitsrecht."
 ---
 
 # Rechtsprechung live prüfen

@@ -1,6 +1,6 @@
 ---
 name: produktrechtliche-erstpruefung-und-mandatsziel
-description: "Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
+description: "Wenn es um Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel in Produkthaftung und Produktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: masterarbeit-betreuung
-description: "Prüft Betreuungsdefizite, Themenänderung, Fristen, Bewertungsmaßstab und Zweitkorrektur im Prüfungsrecht Hochschule."
+description: "Wenn es um Masterarbeit und Betreuung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Masterarbeit und Betreuung

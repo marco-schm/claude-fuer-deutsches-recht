@@ -1,6 +1,6 @@
 ---
 name: 07-ehegattenunterhalt-trennung-und-nachehe
-description: "Trennungsunterhalt Paragraf 1361 BGB und nachehelicher Unterhalt Paragrafen 1569 ff. BGB: Anspruchsgrundlagen (Betreuungs-, Alters-, Krankheits-, Aufstockungsunterhalt), Befristung und Begrenzung Paragraf 1578b, Verwirkung Paragraf 1579"
+description: "Wenn es um 07 Ehegattenunterhalt Trennung und Nachehe in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # 07 Ehegattenunterhalt Trennung und Nachehe

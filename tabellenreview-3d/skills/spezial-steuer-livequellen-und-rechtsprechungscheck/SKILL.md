@@ -1,6 +1,6 @@
 ---
 name: spezial-steuer-livequellen-und-rechtsprechungscheck
-description: "Steuer: Livequellen- und Rechtsprechungscheck im Plugin tabellenreview 3d; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Steuer: Livequellen- und Rechtsprechungscheck in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Steuer: Livequellen- und Rechtsprechungscheck

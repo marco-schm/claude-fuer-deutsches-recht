@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg
-description: "Rangrücktritt im Kontext § 5 Absatz 2a EStG: Passivierungsverbot bei Tilgung ausschließlich aus zukünftigen Gewinnen führt zum Ertrag in voller Höhe und damit zum Sanierungsgewinn. BFH-Linie streng - keine Az aus Modellwissen im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Rangrücktritt und Paragraf 5 Abs. 2a EStG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Sanierungsgewinn Rangruecktritt Und 5 Abs 2a Estg; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
 ---
 
 # Rangrücktritt und § 5 Abs. 2a EStG

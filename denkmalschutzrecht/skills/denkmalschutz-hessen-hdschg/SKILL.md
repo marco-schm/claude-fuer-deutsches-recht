@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-hessen-hdschg
-description: "Denkmalschutzrecht Hessen nach dem Hessischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Hessisches Ministerium für Wissenschaft und Kunst; Landesamt für Denkmalpflege Hessen in Wiesbaden; Untere Denkmalschutzbehörden bei den Landkreisen und kreisfreien Städten) und die nachrichtliche Eintragungspraxis."
+description: "Wenn es um Denkmalschutz Hessen (HDSchG) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Denkmalschutz Hessen (HDSchG)

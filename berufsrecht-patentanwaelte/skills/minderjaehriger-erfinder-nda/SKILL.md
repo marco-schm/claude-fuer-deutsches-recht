@@ -1,6 +1,6 @@
 ---
 name: minderjaehriger-erfinder-nda
-description: "Patentanwälte: minderjaehriger erfinder - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Wenn es um Minderjaehriger Erfinder Nda in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Patentanwälte: minderjaehriger erfinder - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

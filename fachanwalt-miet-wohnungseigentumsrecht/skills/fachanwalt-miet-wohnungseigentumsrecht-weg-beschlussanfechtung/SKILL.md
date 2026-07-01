@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung
-description: "Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfechten. § 44 WEG Monatsfrist Aktivlegitimation Passivlegitimation Gemeinschaft § 9a WEG. Normen §§ 44 23 49 WEG §§ 133 157 BGB. Prüfraster Monatsfrist Anfechtungsgründe ordnungsmäßige Verwaltung Nichtigkeitsvariante Streitwert § 49 GKG. Output Klageschrift § 44 WEG Beschlusstext-Analyse. Abgrenzung zu WEG-Anfechtungsklage-44 (Überschneidung) und miet-weg-mediation (außergerichtlich)."
+description: "Wenn es um WEG-Beschlussanfechtung (Paragraf 44 WEG) in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # WEG-Beschlussanfechtung (§ 44 WEG)

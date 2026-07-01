@@ -1,6 +1,6 @@
 ---
 name: beta-pilot-poc-termsheet
-description: "Gestaltet Beta-, Pilot- und Proof-of-Concept-Terms mit Vertraulichkeit, Feedback, Daten, Haftung und Go/No-Go im Softwarerecht De Eu Us."
+description: "Wenn es um Beta Pilot PoC Termsheet in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beta Pilot PoC Termsheet

@@ -1,6 +1,6 @@
 ---
 name: ai-legal-ops
-description: "Plant KI-Einsatz mit Datenklassen, Freigaben, Human Review und Wirtschaftlichkeit. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
+description: "Wenn es um digitale Werkzeuge und Legal Ops in der Kanzlei in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # KI und Legal Ops in der Kanzlei

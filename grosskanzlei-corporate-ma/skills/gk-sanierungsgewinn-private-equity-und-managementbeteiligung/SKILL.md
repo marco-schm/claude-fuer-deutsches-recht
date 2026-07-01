@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-private-equity-und-managementbeteiligung
-description: "Sanierungsgewinn im PE-Mandat. Adressiert PE-Investoren in der Rolle des Sanierungserwerbers oder Sanierungsexits, das Zusammenspiel von Management Equity Plan (MEP) und Sanierungsertrag, die steuerliche Behandlung von Sweet Equity und Management-Carried-Interest und die Wirkung von Paragraf 8c KStG auf die Verlustvorträge nach Investoren-Einstieg. Liefert Strukturraster, MEP-Klauseln und SPA-Mustertexte. Adressat ist das PE-Team der Großkanzlei. Quellen Stand 06/2026."
+description: "Wenn es um Sanierungsgewinn – Private Equity und Managementbeteiligung in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gk Sanierungsgewinn Private Equity Und Managementbeteiligung; Arbeitsfeld: Großkanzlei Corporate/M&A."
 ---
 
 # Sanierungsgewinn – Private Equity und Managementbeteiligung

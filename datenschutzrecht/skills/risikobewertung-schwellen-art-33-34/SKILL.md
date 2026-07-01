@@ -1,6 +1,6 @@
 ---
 name: risikobewertung-schwellen-art-33-34
-description: "Strukturiert die Schwellenwertentscheidung nach Art. 33 und Art. 34 DSGVO als anwaltlichen Entscheidungsbaum. Behandelt: voraussichtlich-kein-Risiko-Schwelle Art. 33 Abs. 1; Meldeschwelle; voraussichtlich-hohes-Risiko Art. 34 Abs. 1; Ausnahmen Art. 34 Abs. 3 (technische Schutzmaßnahmen, nachträgl..."
+description: "Wenn es um Schwellenwerte Art. 33 und Art. 34 DSGVO — Entscheidungsbaum in Datenschutzrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
 ---
 
 # Schwellenwerte Art. 33 und Art. 34 DSGVO — Entscheidungsbaum

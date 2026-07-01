@@ -1,6 +1,6 @@
 ---
 name: 03-begruendetheit-anfechtungsklage
-description: "Begründetheit Paragraf 113 Abs. 1 VwGO: Rechtmaessigkeit des Verwaltungsakts (Rechtsgrundlage, formelle und materielle Rechtmaessigkeit), subjektives Recht des Klägers"
+description: "Wenn es um 03 Begründetheit Anfechtungsklage in Verwaltungsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # 03 Begründetheit Anfechtungsklage

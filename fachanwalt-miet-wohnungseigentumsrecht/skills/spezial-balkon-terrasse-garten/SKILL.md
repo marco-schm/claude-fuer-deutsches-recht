@@ -1,6 +1,6 @@
 ---
 name: spezial-balkon-terrasse-garten
-description: "Balkon, Terrasse, Garten: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Gebrauchsrecht, Bepflanzung, Grillen, Markise, bauliche Veränderung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Wenn es um Balkon, Terrasse, Garten in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Balkon, Terrasse, Garten

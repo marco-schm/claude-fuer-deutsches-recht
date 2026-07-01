@@ -1,6 +1,6 @@
 ---
 name: sanktion-fruehstellungnahme
-description: "Datenschutzrecht-Brückenskill: Frühstellungnahme vor Bußgeldbescheid: Vor Bescheid mit gesicherten Tatsachen Einstellung, Verwarnung oder milde Maßnahme erreichen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei..."
+description: "Wenn es um Frühstellungnahme vor Bußgeldbescheid in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Frühstellungnahme vor Bußgeldbescheid

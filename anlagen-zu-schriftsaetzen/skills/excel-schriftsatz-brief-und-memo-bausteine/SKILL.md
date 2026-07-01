@@ -1,6 +1,6 @@
 ---
 name: excel-schriftsatz-brief-und-memo-bausteine
-description: "Macht Tabellenanlagen im Schriftsatz verständlich: Zahlenkern, Rechenweg, PDF-Ausdruck, Anlagenzitat und kurze Erläuterung im Anlagen zu Schriftsätzen."
+description: "Wenn es um Excel-Anlagen und Zahlenbausteine in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Excel Schriftsatz Brief Und Memo Bausteine; Arbeitsfeld: Anlagen zu Schriftsätzen."
 ---
 
 # Excel-Anlagen und Zahlenbausteine

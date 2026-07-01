@@ -1,6 +1,6 @@
 ---
 name: insolvenz-principal
-description: "Analysiert Auswirkungen der Insolvenz des Unternehmers auf den Handelsvertretervertrag: automatische Beendigung nach § 116 InsO, Anmeldefähigkeit von Provisions- und Ausgleichsansprüchen zur Insolvenztabelle, Absonderungsrechte sowie Sicherungsstrategien für offene Forderungen vor Insolvenzeröffn..."
+description: "Wenn es um Insolvenz des Unternehmers — Auswirkungen auf Handelsvertretervertrag und Ansprüche in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Insolvenz des Unternehmers — Auswirkungen auf Handelsvertretervertrag und Ansprüche

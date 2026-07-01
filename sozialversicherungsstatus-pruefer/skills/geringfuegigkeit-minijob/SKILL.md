@@ -1,6 +1,6 @@
 ---
 name: geringfuegigkeit-minijob
-description: "Prüft geringfügige Beschäftigung als Alternative oder Fehleinordnung zur Selbständigkeit im Sozialversicherungsstatus Prüfer."
+description: "Wenn es um Geringfügigkeit und Minijob in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Geringfügigkeit und Minijob

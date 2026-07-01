@@ -1,6 +1,6 @@
 ---
 name: rheinland-pfalz-spezial-mittelrheintal-schum-staetten
-description: "Rheinland-Pfalz-Besonderheit: Oberes Mittelrheintal (Welterbe seit 2002), Dom zu Speyer (Welterbe seit 1981), roemische Baudenkmaeler und Liebfrauenkirche in Trier (Welterbe seit 1986), SchUM-Staetten in Speyer, Worms und Mainz (Welterbe seit 2021). Skill ordnet die landesweite Verfahrenspraxis und die Bauleitplanung im Welterbe-Korridor des Mittelrheintals."
+description: "Wenn es um Oberes Mittelrheintal und SchUM-Staetten als UNESCO-Welterbe in Rheinland-Pfalz in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Oberes Mittelrheintal und SchUM-Staetten als UNESCO-Welterbe in Rheinland-Pfalz

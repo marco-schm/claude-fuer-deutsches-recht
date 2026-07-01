@@ -1,6 +1,6 @@
 ---
 name: workflow-litigation-vorbereitung
-description: "Bereitet Robotikstreit vor: Anspruchsgrundlagen, Beweislast, Sachverständige, Besichtigung, Geheimnisschutz, Produktakte und Vergleichsoptionen im Robotik-Recht."
+description: "Wenn es um Litigation-Vorbereitung in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Workflow Litigation Vorbereitung; Arbeitsfeld: robotik-recht."
 ---
 
 # Litigation-Vorbereitung

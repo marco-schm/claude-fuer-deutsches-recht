@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-wohnungsaufloesung
-description: "Wohnungskündigung, Haushaltsauflösung, Heimaufnahme, Mietvertrag, Genehmigung und emotionale Dokumentation im Betreuungsfall."
+description: "Wenn es um Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Familienbetreuer Wohnungsaufloesung; Arbeitsfeld: Betreuungsrecht."
 ---
 
 # Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung

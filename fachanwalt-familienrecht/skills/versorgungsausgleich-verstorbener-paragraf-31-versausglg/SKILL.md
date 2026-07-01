@@ -1,6 +1,6 @@
 ---
 name: versorgungsausgleich-verstorbener-paragraf-31-versausglg
-description: "Versorgungsausgleich Verstorbener Paragraf 31 Versausglg: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Versorgungsausgleich Verstorbener Paragraf 31 Versausglg in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versorgungsausgleich Verstorbener Paragraf 31 Versausglg

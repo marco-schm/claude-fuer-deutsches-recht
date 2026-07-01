@@ -1,6 +1,6 @@
 ---
 name: eigentumserwerb-grundstueck-grundbuch
-description: "Eigentumserwerb an Grundstuecken im ALR. Skill behandelt die historische Aufflassung und Eintragung im Hypothekenbuch das System vor dem modernen Grundbuch und die Fortwirkung zu BGB / GBO. Liefert Quellenmatrix: prüft konkret die einschlägigen Tatbestandsmerk..."
+description: "Wenn es um Pralr Eigentumserwerb Grundstueck Grundbuch in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eigentumserwerb Grundstueck Grundbuch; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Pralr Eigentumserwerb Grundstueck Grundbuch

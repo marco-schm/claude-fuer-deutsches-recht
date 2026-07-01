@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-incoterms-exportkontrolle
-description: "Vertiefter Skill fuer Incoterms Exportkontrolle. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht."
+description: "Wenn es um Incoterms Exportkontrolle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Incoterms Exportkontrolle

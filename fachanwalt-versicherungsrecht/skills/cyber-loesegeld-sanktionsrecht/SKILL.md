@@ -1,6 +1,6 @@
 ---
 name: cyber-loesegeld-sanktionsrecht
-description: "Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht: Anwendungsfall Unternehmen erhaelt Erpressung durch Ransomware und prüft Lösegeldzahlung auf Versicherungsd..."
+description: "Wenn es um Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht

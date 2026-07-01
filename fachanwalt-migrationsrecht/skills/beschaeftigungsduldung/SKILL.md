@@ -1,6 +1,6 @@
 ---
 name: beschaeftigungsduldung
-description: "Beschäftigungsduldung: Fachmodul im Migrationsrecht: prüft Beschäftigungszeiten, Lebensunterhalt, Identität, Straffreiheit; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck."
+description: "Wenn es um Beschäftigungsduldung: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beschäftigungsduldung: Fachmodul im Migrationsrecht

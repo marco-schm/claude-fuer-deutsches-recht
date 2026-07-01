@@ -1,6 +1,6 @@
 ---
 name: autonome-lieferroboter-oeffentlicher-raum
-description: "Prüft autonome Lieferroboter im öffentlichen Raum: Verkehrsrecht, Sondernutzung, Haftung, Datenschutz und kommunale Genehmigungen."
+description: "Wenn es um Autonome Lieferroboter im öffentlichen Raum in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Autonome Lieferroboter im öffentlichen Raum

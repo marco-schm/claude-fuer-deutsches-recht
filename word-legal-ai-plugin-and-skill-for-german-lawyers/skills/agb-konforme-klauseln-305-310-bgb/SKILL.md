@@ -1,6 +1,6 @@
 ---
 name: agb-konforme-klauseln-305-310-bgb
-description: "Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach §§ 305-310 BGB. Klärt den AGB-Begriff (vorformuliert, mehrfach verwendet, gestellt), Einbeziehung im Verbraucher- und Unternehmergeschäft sowie Inhaltskontrolle nach § 307 BGB Generalklausel und Transparenzgebot, § 308 BGB Klauselverb..."
+description: "Wenn es um AGB-konforme Klauseln nach Paragrafen 305-310 BGB in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # AGB-konforme Klauseln nach §§ 305-310 BGB

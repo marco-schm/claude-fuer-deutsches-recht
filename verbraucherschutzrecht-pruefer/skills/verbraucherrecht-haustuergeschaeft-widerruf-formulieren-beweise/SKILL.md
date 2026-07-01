@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-haustuergeschaeft-widerruf-formulieren-beweise
-description: "Prüfer: Haustürgeschäft: Widerruf formulieren im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Haustuergeschaeft Widerruf Formulieren in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Haustuergeschaeft Widerruf Formulieren

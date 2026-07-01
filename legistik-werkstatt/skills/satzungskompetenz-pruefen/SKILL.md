@@ -1,6 +1,6 @@
 ---
 name: satzungskompetenz-pruefen
-description: "Satzungskompetenz für Koerperschaften und Anstalten des öffentlichen Rechts prüfen. Anwendungsfall Gemeinde Kammer Hochschule oder Sozialversicherungstraeger will Satzung erlassen und Rechtsgrundlage muss geprüft werden. Kommunen Art. 28 Abs. 2 GG Gemeindeordnung Berufsstaendische Kammern BRAO IH..."
+description: "Wenn es um Satzungskompetenz prüfen in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Satzungskompetenz prüfen

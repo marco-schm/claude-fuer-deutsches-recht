@@ -1,6 +1,6 @@
 ---
 name: stv-051-busspur-regel-pruefen
-description: "Straßenverkehrsrecht StVO: Busspur: Regel prüfen. Regel prüfen für Busspur im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Busspur Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Busspur Regel Pruefen

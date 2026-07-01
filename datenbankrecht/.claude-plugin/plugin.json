@@ -1,7 +1,7 @@
 {
   "name": "datenbankrecht",
-  "version": "405.1.0",
-  "description": "Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG §§ 87a ff., Datenbankrichtlinie, Investitionsschutz, automatisiertes Auslesen, API, KI-Training, Vertrags- und Plattformkonflikte.",
+  "version": "406.0.0",
+  "description": "Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG §§ 87a ff., Datenbankrichtlinie, Investitionsschutz, automatisiertes Auslesen, API, Training digitaler Systeme, Vertrags- und Plattformkonflikte.",
   "keywords": [
     "datenbankrecht",
     "grosses",

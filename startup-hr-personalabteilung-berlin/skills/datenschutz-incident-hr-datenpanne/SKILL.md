@@ -1,6 +1,6 @@
 ---
 name: datenschutz-incident-hr-datenpanne
-description: "Berliner Start-up-HR: HR-Datenpanne: Eindämmung, Risikoanalyse, Meldung Art. 33/34 DSGVO, Betroffeneninfo und Lessons Learned. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
+description: "Wenn es um Datenschutz Incident HR Datenpanne in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Datenschutz Incident HR Datenpanne

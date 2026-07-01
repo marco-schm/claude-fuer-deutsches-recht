@@ -1,6 +1,6 @@
 ---
 name: robe-werbung-und-gerichtstermin-rechtsprechungscheck-u
-description: "Anwälte: robe werbung und gerichtstermin - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Robe Werbung Und Gerichtstermin Rechtsprechungscheck U in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Anwälte: robe werbung und gerichtstermin - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

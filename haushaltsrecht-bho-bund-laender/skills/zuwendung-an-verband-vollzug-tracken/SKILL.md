@@ -1,6 +1,6 @@
 ---
 name: zuwendung-an-verband-vollzug-tracken
-description: "Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Vollzug tracken im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
+description: "Wenn es um Zuwendung An Verband Vollzug Tracken in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Zuwendung An Verband Vollzug Tracken

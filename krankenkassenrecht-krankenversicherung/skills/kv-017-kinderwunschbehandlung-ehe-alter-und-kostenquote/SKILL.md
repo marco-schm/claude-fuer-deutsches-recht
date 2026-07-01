@@ -1,6 +1,6 @@
 ---
 name: kv-017-kinderwunschbehandlung-ehe-alter-und-kostenquote
-description: "Krankenversicherung: Kinderwunschbehandlung Ehe Alter und Kostenquote mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Krankenversicherung: Kinderwunschbehandlung Ehe Alter und Kostenquote in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Krankenversicherung: Kinderwunschbehandlung Ehe Alter und Kostenquote

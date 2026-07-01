@@ -1,6 +1,6 @@
 ---
 name: strafprozess-akteneinsicht-nachlieferungen-und-sonderbaende
-description: "Akteneinsicht operativ steuern: Antrag, Teilversagung, U-Haft-Mindestinformationen, Sonderbände, digitale Beweismittel, Asservate, Nachlieferungen, Opferdaten, Schwärzungen und Aktenvollständigkeit nach § 147 StPO kontrollieren: Akteneinsicht operativ steu..."
+description: "Wenn es um Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Akteneinsicht operativ steuern: Antrag, Teilversagung, U-Haft-Mindestinformationen, Sonderbände, digitale Beweismittel, Asservate, Nachlieferungen, Opferdaten, Schwärzungen und Aktenvollständigkeit nach § 147 StPO kontrollieren.

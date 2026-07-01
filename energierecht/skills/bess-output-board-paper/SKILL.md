@@ -1,6 +1,6 @@
 ---
 name: bess-output-board-paper
-description: "Erstellt Entscheidungsvorlage für Vorstand/Geschäftsführung/Aufsichtsrat zu Investition, Risiko, Genehmigung und Finanzierung im Energierecht."
+description: "Wenn es um Board Paper Batteriespeicher in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Board Paper Batteriespeicher

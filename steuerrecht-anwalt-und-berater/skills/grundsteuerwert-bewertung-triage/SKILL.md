@@ -1,6 +1,6 @@
 ---
 name: grundsteuerwert-bewertung-triage
-description: "Grundsteuerwert nach BewG §§ 218 ff. prüfen: Bundesmodell, Ertragswert, Sachwert, Bodenrichtwert, Grundstücksart, Steuermesszahl, Hauptfeststellung 01.01.2022, Fehlerdiagnose und Bescheidbegründung im Steuerrecht Anwalt Und Berater."
+description: "Wenn es um Grundsteuerwert: Bewertung nach BewG Paragrafen 218 ff. in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grundsteuerwert: Bewertung nach BewG §§ 218 ff.

@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-inhalt-409-pruefung
-description: "Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestangaben) und identifiziert Nichtigkeitsgründe. Tatbeschreibung Bestimmtheitsgrundsatz Art. 103 Abs. 2 GG. Fehlerhafte Rechtsfolgen Geldstrafe Tagessatz Fahrverbot. Strafbefehlsinhalt-Checkliste im Strafbefehl Verteidiger."
+description: "Wenn es um Strafbefehlsinhalt prüfen — Paragraf 409 StPO in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Strafbefehlsinhalt prüfen — § 409 StPO

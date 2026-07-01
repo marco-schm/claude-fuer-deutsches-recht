@@ -1,6 +1,6 @@
 ---
 name: hinzuverdienst-teilrente-datenaustausch
-description: "Hinzuverdienst und Teilrente: Altersrente, Erwerbsminderung, selbständige Einkünfte, Beschäftigung nach Rentenbeginn und Meldepflichten im Rentenpruefer."
+description: "Wenn es um hinzuverdienst-und-teilrente in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # hinzuverdienst-und-teilrente

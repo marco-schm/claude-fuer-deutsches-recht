@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output-Wahl für Insolvenzforderungsanmeldung: stimmt Adressat (Gläubiger, Insolvenzverwalter, Schuldner), Frist (Anmeldefrist im Eröffnungsbeschluss) und Form auf den Zweck ab — typische Outputs: Forderungsanmeldung mit Rang, Widerspruchsschreiben, Klage auf Feststellung."
+description: "Wenn es um Output wählen in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Output wählen

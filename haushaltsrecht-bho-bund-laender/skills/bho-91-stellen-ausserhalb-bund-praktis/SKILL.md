@@ -1,6 +1,6 @@
 ---
 name: bho-91-stellen-ausserhalb-bund-praktis
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 91 Stellen außerhalb Bund praktisch anwenden. BHO § 91 Stellen außerhalb Bund praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO..."
+description: "Wenn es um Bho 91 Stellen Ausserhalb Bund Praktis in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Bho 91 Stellen Ausserhalb Bund Praktis

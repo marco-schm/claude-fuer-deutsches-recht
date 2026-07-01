@@ -1,6 +1,6 @@
 ---
 name: free-economy-and-human-rights-positioning
-description: "Unternehmenspositionierung: Freiheitliche Wirtschaft und Menschenrechte im China-Kontext: Grenzen des Engagements in VR China, Werte-Compliance vs. Marktzugang, LkSG-Pflichten als Mindestrahmen, OECD-Leitsätze, Investorenerwartungen ESG, Abwägungsrahmen für Board-Entscheidungen. Output: Positioni..."
+description: "Wenn es um Freiheitliche Wirtschaft und Menschenrechte: China-Positionierung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Freiheitliche Wirtschaft und Menschenrechte: China-Positionierung

@@ -1,6 +1,6 @@
 ---
 name: spezial-aktenzeichen-red-team-und-qualitaetskontrolle
-description: "Aktenzeichen: Red-Team und Qualitätskontrolle im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Aktenzeichen: Red-Team und Qualitätskontrolle in Fachanwalt Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Aktenzeichen: Red-Team und Qualitätskontrolle

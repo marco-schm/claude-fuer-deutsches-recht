@@ -1,6 +1,6 @@
 ---
 name: billing-narratives
-description: "Big-Law Billing Narratives und Abrechnung für M&A-Mandate erstellen: Anwendungsfall Associate oder Partnerassistenz muss taugliche Time Narratives Phasenbudgets Workstream-Rechnungen Cap- und Success-Fee-Hinweise erstellen. Paragraf 3a RVG Stundenhonorar, GoBD Buchungsanforderungen, XRechnung ZUGFeRD. P..."
+description: "Wenn es um Big-Law Billing Narratives (Corporate M&A) in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Big-Law Billing Narratives (Corporate M&A)

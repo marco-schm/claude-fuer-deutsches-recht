@@ -1,6 +1,6 @@
 ---
 name: gmbh-tatbestand-beweis-und-belege
-description: "GmbH: Tatbestandsmerkmale, Beweisfragen und Beleglage im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht."
+description: "Wenn es um GmbH: Tatbestandsmerkmale, Beweisfragen und Beleglage in Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # GmbH: Tatbestandsmerkmale, Beweisfragen und Beleglage

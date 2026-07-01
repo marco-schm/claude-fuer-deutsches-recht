@@ -1,6 +1,6 @@
 ---
 name: datenschutzpanne-kanzlei
-description: "Anwälte: datenschutzpanne in der kanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Wenn es um Datenschutzpanne Kanzlei in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Anwälte: datenschutzpanne in der kanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

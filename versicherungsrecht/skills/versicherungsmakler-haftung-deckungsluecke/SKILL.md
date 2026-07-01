@@ -1,6 +1,6 @@
 ---
 name: versicherungsmakler-haftung-deckungsluecke
-description: "Maklerhaftung wegen fehlerhafter Risikoanalyse, unzureichender Beratung, fehlender Umdeckung oder Deckungslücke prüfen im Versicherungsrecht."
+description: "Wenn es um Versicherungsmaklerhaftung bei Deckungslücken in Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Versicherungsmaklerhaftung bei Deckungslücken

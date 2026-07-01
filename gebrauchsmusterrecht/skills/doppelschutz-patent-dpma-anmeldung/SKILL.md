@@ -1,6 +1,6 @@
 ---
 name: doppelschutz-patent-dpma-anmeldung
-description: "Doppelschutz Patent/Gebrauchsmuster koordinieren: parallele Rechte, Abzweigung, Durchsetzung, Nichtigkeitsrisiko und Vergleichsstrategie im Gebrauchsmusterrecht."
+description: "Wenn es um Doppelschutz Patent Gebrauchsmuster in gebrauchsmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Doppelschutz Patent Gebrauchsmuster

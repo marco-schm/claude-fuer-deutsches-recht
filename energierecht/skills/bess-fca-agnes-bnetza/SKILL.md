@@ -1,6 +1,6 @@
 ---
 name: bess-fca-agnes-bnetza
-description: "Prüft Netzanschlussdokumente nach BNetzA/Festlegungslogik und markiert, was im konkreten Vertrag fehlt im Energierecht."
+description: "Wenn es um FCA/AgNes: Netzanschluss-Regelwerk lesen in Energierecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # FCA/AgNes: Netzanschluss-Regelwerk lesen

@@ -1,6 +1,6 @@
 ---
 name: signing-closing-conditions-cp-tracker
-description: Baut einen belastbaren Tracker für Closing Conditions, Zustimmungen, Registerhandlungen, Waiver und Long-Stop-Risiken im Unternehmenskauf.
+description: "Wenn es um Signing-Closing-Conditions und CP-Tracker in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 # Signing-Closing-Conditions und CP-Tracker
 

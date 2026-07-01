@@ -1,6 +1,6 @@
 ---
 name: durch-interessen
-description: Mehrparteienkonflikt und Interessenmatrix im NDA-Abgleich. Rollenliste aller Beteiligten, Zielmatrix pro Partei, Konfliktlinien aus uebliche NDA-Dauer 2 bis 5 Jahre, GeschGehG-Anspruchsverjaehrung, AGB-Kontrolle und EuGH C-435/22 zur restriktiven Auslegung.
+description: "Wenn es um Mehrparteienkonflikt und Interessenmatrix im NDA-Abgleich in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mehrparteienkonflikt und Interessenmatrix im NDA-Abgleich

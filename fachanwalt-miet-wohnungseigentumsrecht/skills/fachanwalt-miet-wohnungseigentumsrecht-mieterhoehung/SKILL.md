@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung
-description: "Vermieter will Miete erhoehen oder Mieter prüft Zustimmungspflicht zur Mieterhoehung. § 558 BGB ortsuebliche Vergleichsmiete Kappungsgrenze 20 Prozent bzw. 15 Prozent in angespannten Maerkten. Normen §§ 558-558b 559 556d ff. BGB. Prüfraster Wartefrist 15 Monate Begründungsmittel Mietspiegel Kappungsgrenze Zustimmungsklage § 558b Mietpreisbremse. Output Mieterhoehungs-Schreiben Zustimmungsklage. Abgrenzung zu eigenbedarfskündigung (Kündigung) und mietminderung-schimmel (Maengelrecht)."
+description: "Wenn es um Mieterhöhung bis zur ortsüblichen Vergleichsmiete in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Mieterhöhung bis zur ortsüblichen Vergleichsmiete

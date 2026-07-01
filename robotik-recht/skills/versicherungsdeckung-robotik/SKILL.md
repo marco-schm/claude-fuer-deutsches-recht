@@ -1,6 +1,6 @@
 ---
 name: versicherungsdeckung-robotik
-description: "Prüft Produkthaftpflicht, Betriebshaftpflicht, Cyber, Rückrufkosten, D&O und Maschinenbruchversicherung für Robotikrisiken."
+description: "Wenn es um Versicherungsdeckung Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Versicherungsdeckung Robotik

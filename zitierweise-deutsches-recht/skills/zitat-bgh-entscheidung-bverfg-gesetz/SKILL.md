@@ -1,6 +1,6 @@
 ---
 name: zitat-bgh-entscheidung-bverfg-gesetz
-description: "BGH-Entscheidung korrekt zitieren: Senat, Datum, Aktenzeichen, Fundstelle. Beispiel BGH, Urt. v. 11.04.2024 III ZR 168 aus 23, BGHZ 240 S. 1 = NJW 2024 S. 1832. Bei wichtiger Linie: Vor- und Folgeentscheidungen ergaenzen im Zitierweise."
+description: "Wenn es um BGH-Entscheidung zitieren in Zitierweise deutsches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Zitat Bgh Entscheidung Bverfg Gesetz; Arbeitsfeld: Zitierweise deutsches Recht."
 ---
 
 # BGH-Entscheidung zitieren

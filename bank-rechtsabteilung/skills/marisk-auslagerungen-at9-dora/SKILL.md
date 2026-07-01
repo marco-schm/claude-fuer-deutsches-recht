@@ -1,6 +1,6 @@
 ---
 name: marisk-auslagerungen-at9-dora
-description: "MaRisk-Auslagerung und DORA-Schnittstelle: AT 9, § 25b KWG, Auslagerungsregister, Risikoanalyse, wesentliche Auslagerung, IKT-Drittanbieter und Exit-Plan zusammen prüfen im Bank-Rechtsabteilung."
+description: "Wenn es um Auslagerung und DORA in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Auslagerung und DORA

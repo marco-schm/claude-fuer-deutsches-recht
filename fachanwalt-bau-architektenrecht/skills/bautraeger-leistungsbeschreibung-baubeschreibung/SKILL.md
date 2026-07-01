@@ -1,6 +1,6 @@
 ---
 name: bautraeger-leistungsbeschreibung-baubeschreibung
-description: "Leistungsbeschreibung und Baubeschreibung beim Bautraegervertrag: Skill klaert was zwingend in der Baubeschreibung stehen muss (Standards Ausstattung Materialien) Inhaltsfeinheit und Folgen m..."
+description: "Wenn es um Leistungsbeschreibung und Baubeschreibung beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leistungsbeschreibung und Baubeschreibung beim Bautraegervertrag

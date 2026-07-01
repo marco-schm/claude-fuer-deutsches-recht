@@ -1,6 +1,6 @@
 ---
 name: angestellten-rentenfahrplan-erstberatung
-description: "Erstberatung für Angestellte: baut aus Alter, Versicherungsverlauf, Entgelt, Lücken, Betriebsrente und Zieltermin einen Rentenfahrplan mit Varianten, Fristen und nächstem Schreiben."
+description: "Wenn es um Angestellten-Rentenfahrplan Erstberatung in Rentenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Angestellten-Rentenfahrplan Erstberatung

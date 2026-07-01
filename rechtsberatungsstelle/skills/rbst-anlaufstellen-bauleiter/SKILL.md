@@ -1,6 +1,6 @@
 ---
 name: rbst-anlaufstellen-bauleiter
-description: "Bauleiter Anlaufstellen Rechtsberatung: Beratungshilfe, Prozesskostenhilfe, Schuldnerberatung, Mietervereine, Verbraucherzentrale. Prüfraster für Mandant und Sozialberatung im Rechtsberatungsstelle."
+description: "Wenn es um RBst: Anlaufstellen Bauleiter in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # RBst: Anlaufstellen Bauleiter

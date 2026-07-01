@@ -1,6 +1,6 @@
 ---
 name: haftbefehl-und-u-haft-antrag
-description: "Haftbefehl und Untersuchungshaft: Praxis-Skill für neue Staatsanwälte zu dringenden Tatverdacht, Haftgründe, Verhältnismäßigkeit und Beschleunigungsgebot für Haftanträge strukturieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt."
+description: "Wenn es um Haftbefehl und Untersuchungshaft in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Haftbefehl und Untersuchungshaft

@@ -1,6 +1,6 @@
 ---
 name: saeumnis-im-termin-330-zpo
-description: "Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO. Wenn Sie nicht erscheinen oder nicht verhandeln Folgen Versaeumnisurteil Einspruch und Wiedereinsetzung bei unverschuldetem Versaeumnis."
+description: "Wenn es um Saeumnis im Termin: Konsequenzen und was Sie tun können in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Saeumnis im Termin: Konsequenzen und was Sie tun können

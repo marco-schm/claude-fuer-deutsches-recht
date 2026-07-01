@@ -1,6 +1,6 @@
 ---
 name: lease-037-start-up-equipment-leasing-covenants
-description: "Leasingrecht: Start-up Equipment Leasing Covenants mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Start-up Equipment Leasing Covenants in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Start-up Equipment Leasing Covenants

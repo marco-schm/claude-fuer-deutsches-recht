@@ -1,6 +1,6 @@
 ---
 name: arbeitslosengeld-paragraf-150-sgb-iii
-description: "Arbeitslosengeld § 150 sgb iii: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Wenn es um Arbeitslosengeld Paragraf 150 sgb iii in Fachanwalt Sozialrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Arbeitslosengeld § 150 sgb iii

@@ -1,6 +1,6 @@
 ---
 name: handelsregister-gewerbe-handelsvertreter-gmbh
-description: "Prüft Handelsregister- und Gewerbeanmeldepflichten des Handelsvertreters: Eintragungspflicht nach §§ 1 ff. HGB, Gewerbeanmeldung nach § 14 GewO, Auswirkungen auf Rechtsfähigkeit und Haftung, Firmierung sowie Pflichtangaben in Geschäftsbriefen nach § 37a HGB im Handelsvertreterrecht."
+description: "Wenn es um Handelsregister- und Gewerbeanmeldung des Handelsvertreters nach HGB und GewO in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsregister- und Gewerbeanmeldung des Handelsvertreters nach HGB und GewO

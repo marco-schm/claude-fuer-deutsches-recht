@@ -1,6 +1,6 @@
 ---
 name: inso-p238-stimmrecht-der-absonderungsberechtigten-glaubiger
-description: "§ 238 InsO (Stimmrecht der absonderungsberechtigten Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 238 InsO (Stimmrecht der absonderungsberechtigten Gläubiger) im Mandat prüfen..."
+description: "Wenn es um Inso P238 Stimmrecht Der Absonderungsberechtigten Glaubiger in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 238 InsO (Stimmrecht der absonderungsberechtigten Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

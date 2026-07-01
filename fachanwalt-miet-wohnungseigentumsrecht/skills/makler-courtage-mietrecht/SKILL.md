@@ -1,6 +1,6 @@
 ---
 name: makler-courtage-mietrecht
-description: "Maklercourtage Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Bestellerprinzip, Nachweis, Vermittlung, Provisionsabrede; mit Normprüfung, Beweisen, Fristen, Risikoampe..."
+description: "Wenn es um Maklercourtage Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Maklercourtage Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht

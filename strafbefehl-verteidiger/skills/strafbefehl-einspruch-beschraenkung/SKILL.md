@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-einspruch-beschraenkung
-description: "Beschraenkter Einspruch nach § 410 Abs. 2 StPO auf Rechtsfolgen. Schuldspruch wird rechtskraeftig. Taktisches Kalkuel. Geldstrafe Tagessatz Fahrverbot Einziehung angreifbar. Vollstreckungsverzug § 456a StPO. Abgrenzung unbeschraenkter Einspruch im Strafbefehl Verteidiger."
+description: "Wenn es um Beschraenkter Einspruch gegen den Strafbefehl — Paragraf 410 Abs. 2 StPO in Strafbefehl-Verteidiger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Beschraenkter Einspruch gegen den Strafbefehl — § 410 Abs. 2 StPO

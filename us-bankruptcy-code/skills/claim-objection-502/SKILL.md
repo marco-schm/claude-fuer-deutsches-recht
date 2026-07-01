@@ -1,6 +1,6 @@
 ---
 name: claim-objection-502
-description: "Prüft allowance/disallowance, objections, estimation, contingent/unliquidated claims and settlement im US Bankruptcy Code."
+description: "Wenn es um Claim Objection Paragraf 502 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Claim Objection § 502

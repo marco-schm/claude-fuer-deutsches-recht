@@ -1,6 +1,6 @@
 ---
 name: space-090-buergeranfrage-satellit-stoert-grundstueck-empfang
-description: "Weltraumrecht: Bürgeranfrage Satellit stört Grundstück oder Empfang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Weltraumrecht: Bürgeranfrage Satellit stört Grundstück oder Empfang in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Bürgeranfrage Satellit stört Grundstück oder Empfang

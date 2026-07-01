@@ -1,6 +1,6 @@
 ---
 name: privacy-by-design-sprint
-description: "Führt Produktteam durch Privacy-by-Design für Roboter: Sensorik, lokale Verarbeitung, Datenminimierung, Rollen, Transparenz und Löschkonzept."
+description: "Wenn es um Privacy-by-Design-Sprint in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Privacy By Design Sprint; Arbeitsfeld: robotik-recht."
 ---
 
 # Privacy-by-Design-Sprint

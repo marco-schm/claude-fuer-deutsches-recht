@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-rohbau-betongueteklasse
-description: "Bauueberwachung HOAI LPH 8 für den Rohbau mit Schwerpunkt Betongueteklassen — Kontrolle Frischbeton und Festbeton nach DIN EN 206 und DIN 1045-2, Abnahme Bewehrung und Schalung vor Betonage, Betonage-Protokolle je Bauteil, Expositionsklassen XC1-XD3 und XF1-XF4, Prüfkoerperherstellung nach DIN E..."
+description: "Wenn es um Bauueberwachung Rohbau und Betongueteklassen in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bauueberwachung Rohbau und Betongueteklassen

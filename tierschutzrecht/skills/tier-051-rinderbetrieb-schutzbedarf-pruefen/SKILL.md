@@ -1,6 +1,6 @@
 ---
 name: tier-051-rinderbetrieb-schutzbedarf-pruefen
-description: "Tierschutzrecht: Rinderbetrieb: Schutzbedarf prüfen. Schutzbedarf prüfen für Rinderbetrieb im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen."
+description: "Wenn es um Rinderbetrieb Schutzbedarf Pruefen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rinderbetrieb Schutzbedarf Pruefen

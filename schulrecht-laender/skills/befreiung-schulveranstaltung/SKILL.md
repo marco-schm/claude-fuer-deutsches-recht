@@ -1,6 +1,6 @@
 ---
 name: befreiung-schulveranstaltung
-description: "Prüft Befreiung von Klassenfahrt, Exkursion, Projektwoche und Pflichtveranstaltung im Schulrecht Länder."
+description: "Wenn es um Befreiung von Schulveranstaltung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Befreiung von Schulveranstaltung

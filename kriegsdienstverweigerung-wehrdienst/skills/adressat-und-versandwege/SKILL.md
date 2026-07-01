@@ -1,6 +1,6 @@
 ---
 name: adressat-und-versandwege
-description: "Prüft Post, Fax, E-Mail, Unterschrift und Zugangsnachweis im Kriegsdienstverweigerung Wehrdienst."
+description: "Wenn es um Adressat und Versandwege in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Adressat und Versandwege

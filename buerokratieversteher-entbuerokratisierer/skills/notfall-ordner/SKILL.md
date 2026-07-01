@@ -1,6 +1,6 @@
 ---
 name: notfall-ordner
-description: "Erstellt eine Checkliste für alle wichtigen Dokumente, Fristen, Kontakte und laufenden Behördenverfahren im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Notfallordner in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Notfallordner

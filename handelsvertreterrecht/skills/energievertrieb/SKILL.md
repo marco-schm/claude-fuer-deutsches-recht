@@ -1,6 +1,6 @@
 ---
 name: energievertrieb
-description: "Analysiert Besonderheiten des Handelsvertreterrechts im Energievertrieb: Zulassungspflichten für Energievertriebsvermittler, Provisionsabrechnungen bei Strom- und Gasverträgen, Widerrufsrechte der Endkunden und deren Auswirkung auf die Provision, Ausgleichsansprüche im regulierten Energiemarkt so..."
+description: "Wenn es um Handelsvertreterrecht im Energievertrieb — EnWG und Paragrafen 84 ff. HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Handelsvertreterrecht im Energievertrieb — EnWG und §§ 84 ff. HGB

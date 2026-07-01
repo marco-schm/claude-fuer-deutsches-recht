@@ -1,6 +1,6 @@
 ---
 name: patentprozess-claim-construction-de-en
-description: "Übersetzt Patentansprüche prozessfest zwischen Deutsch und Englisch: Merkmalsgliederung, claim construction, Äquivalenz, Prosecution History, technische Begriffe und gerichtstaugliche Argumentation im Patentrecht."
+description: "Wenn es um Patentprozess: Claim Construction DE/EN in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Patentprozess: Claim Construction DE/EN

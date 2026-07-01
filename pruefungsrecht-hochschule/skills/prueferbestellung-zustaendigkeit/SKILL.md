@@ -1,6 +1,6 @@
 ---
 name: prueferbestellung-zustaendigkeit
-description: "Prüft Prüferbestellung, Prüfungsausschuss, Zuständigkeitsfehler und Heilung im Prüfungsrecht Hochschule."
+description: "Wenn es um Prüferbestellung und Zuständigkeit in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Prüferbestellung und Zuständigkeit

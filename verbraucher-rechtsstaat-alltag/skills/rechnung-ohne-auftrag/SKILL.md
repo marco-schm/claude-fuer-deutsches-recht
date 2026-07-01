@@ -1,6 +1,6 @@
 ---
 name: rechnung-ohne-auftrag
-description: "Rechnung ohne Auftrag: führt Laien durch Unbestellte Leistung, Branchenbuch, angeblicher Telefonvertrag und Abwehr. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
+description: "Wenn es um Rechnung ohne Auftrag in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Rechnung ohne Auftrag

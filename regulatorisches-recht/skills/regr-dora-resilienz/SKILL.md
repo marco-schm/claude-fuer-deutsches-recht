@@ -1,6 +1,6 @@
 ---
 name: regr-dora-resilienz
-description: "Spezialfall DORA Digital Operational Resilience Act: IKT-Risikomanagement, Drittparteienrisiko, TLPT-Tests. Prüfraster für Finanzunternehmen und IKT-Dienstleister im Regulatorisches Recht."
+description: "Wenn es um RegR: DORA-Resilienz in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # RegR: DORA-Resilienz

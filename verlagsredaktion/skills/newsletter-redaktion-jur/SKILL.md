@@ -1,6 +1,6 @@
 ---
 name: newsletter-redaktion-jur
-description: "Newsletter-Redaktion juristisch: Konzept, Themenkasten, Empfaengerverwaltung nach DSGVO und UWG § 7, double opt-in, Mustertexte für wochen- und monatsweisen Versand im Verlagsredaktion."
+description: "Wenn es um Newsletter-Redaktion juristisch in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Newsletter-Redaktion juristisch

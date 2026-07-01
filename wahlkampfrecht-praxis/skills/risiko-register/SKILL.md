@@ -1,6 +1,6 @@
 ---
 name: risiko-register
-description: "Wahlkampfrecht Praxis: lebendes Risiko-Register für Wahlkampfleitung und Rechtsberatung fuehren im Wahlkampfrecht."
+description: "Wenn es um Risiko Register in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Risiko Register

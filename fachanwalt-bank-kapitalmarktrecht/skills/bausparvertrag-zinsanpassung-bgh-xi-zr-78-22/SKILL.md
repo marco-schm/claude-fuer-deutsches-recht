@@ -1,6 +1,6 @@
 ---
 name: bausparvertrag-zinsanpassung-bgh-xi-zr-78-22
-description: "Bausparvertrag Zinsanpassung BGH Xi Zr 78 22: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Wenn es um Bausparvertrag Zinsanpassung BGH Xi Zr 78 22 in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bausparvertrag Zinsanpassung BGH Xi Zr 78 22

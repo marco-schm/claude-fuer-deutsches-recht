@@ -1,6 +1,6 @@
 ---
 name: planetary-protection-arbeitsrecht
-description: "Planetary Protection – COSPAR-Policy, Kategorien I–V, staatliche Verpflichtungen, kommerzielle Missionen im Weltraumrecht."
+description: "Wenn es um Weltraumrecht: Planetary Protection: Kontaminationsvermeidung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Weltraumrecht: Planetary Protection: Kontaminationsvermeidung

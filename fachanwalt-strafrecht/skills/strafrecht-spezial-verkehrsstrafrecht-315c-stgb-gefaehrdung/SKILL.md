@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-verkehrsstrafrecht-315c-stgb-gefaehrdung
-description: "Gefaehrdung des Strassenverkehrs nach Paragraph 315c StGB: Konkretes Gefaehrdungsdelikt mit Beinaheunfall. Sieben-Todsuenden-Katalog Absatz 1 Nummer 2. Trunkenheit Fahruntuechtigkeit Absatz 1 Nummer..."
+description: "Wenn es um Gefaehrdung des Strassenverkehrs nach Paragraph 315c StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Gefaehrdung des Strassenverkehrs nach Paragraph 315c StGB

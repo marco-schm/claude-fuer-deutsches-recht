@@ -1,6 +1,6 @@
 ---
 name: spezial-befristung-compliance-dokumentation-und-akte
-description: "Befristung: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Befristung: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Befristung: Compliance-Dokumentation und Aktenvermerk

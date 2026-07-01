@@ -1,6 +1,6 @@
 ---
 name: erfinderbenennung-arbeitnehmererfindung
-description: "Prüft Erfinderbenennung, Rechtekette und Arbeitnehmererfindungs-Schnittstellen: wer ist Erfinder, wer ist Anmelder, Diensterfindung, freie Erfindung, Inanspruchnahme, Vergütung und Dokumentationsrisiken im Patentrecht."
+description: "Wenn es um Erfinderbenennung und Arbeitnehmererfindung in patentrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Erfinderbenennung und Arbeitnehmererfindung

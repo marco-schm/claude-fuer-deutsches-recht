@@ -1,6 +1,6 @@
 ---
 name: lizenz-geschaeftsgeheimnis-knowhow-geschgehg
-description: "Lizenz von Geschäftsgeheimnissen und Know-how nach GeschGehG: $$ 1-12 GeschGehG; Schutzmassnahmen $ 2 Nr. 1b; Reverse Engineering $ 3; Sphaeren-Trennung; Know-how-Lizenz mit Vertraulichkeitsklauseln und Sanktionsregelungen."
+description: "Wenn es um Lizenz Geschäftsgeheimnis / Know-how (GeschGehG) in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lizenz Geschäftsgeheimnis / Know-how (GeschGehG)

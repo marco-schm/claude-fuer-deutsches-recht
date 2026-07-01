@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-bag-zulassung-haftung
-description: "Berufsausübungsgesellschaft: vertiefter Berufsrechts-Skill für Anwälte; prüft Gesellschaftsform, Fremdbeteiligung, Geschäftsführung, Compliance und Register, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
+description: "Wenn es um Berufsausübungsgesellschaft in Berufsrecht Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
 ---
 
 # Berufsausübungsgesellschaft

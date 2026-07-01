@@ -1,6 +1,6 @@
 ---
 name: lph-02-qualitaetsgate
-description: "HOAI LPH 2 Vorplanung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 2 Vorplanung: Erstellt ein qualitygate in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # LPH 2 Vorplanung: Erstellt ein qualitygate

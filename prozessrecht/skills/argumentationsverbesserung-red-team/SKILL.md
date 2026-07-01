@@ -1,6 +1,6 @@
 ---
 name: argumentationsverbesserung-red-team
-description: "Verbessert prozessuale Argumentation in Klage, Erwiderung, Replik, Berufung, Eilantrag oder Mandatsmemo. Prüft These, Beweis, Subsumtion, Gegenargumente, Richterperspektive, Antragsfassung und Ton im Prozessrecht."
+description: "Wenn es um Argumentationsverbesserung und Red Team in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Argumentationsverbesserung und Red Team

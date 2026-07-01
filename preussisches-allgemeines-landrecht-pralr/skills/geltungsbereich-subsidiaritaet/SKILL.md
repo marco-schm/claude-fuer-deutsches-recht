@@ -1,6 +1,6 @@
 ---
 name: geltungsbereich-subsidiaritaet
-description: "PrALR: Geltungsbereich, subsidiäre Anwendung, Städte, Provinzen, Observanz und lokale Rechtsquellen prüfen."
+description: "Wenn es um Geltungsbereich in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Geltungsbereich Subsidiaritaet; Arbeitsfeld: Preußisches Allgemeines Landrecht."
 ---
 
 # Geltungsbereich

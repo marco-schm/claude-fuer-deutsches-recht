@@ -1,6 +1,6 @@
 ---
 name: konsistenzpruefung-marktdefinition
-description: "Prüft die interne Widerspruchsfreiheit einer Marktabgrenzung: Übereinstimmung von Sachmarkt und räumlichem Markt tatsaechlichem Marktverhalten Behördenpraxis und oekonomischen Grundprinzipien. Erkennt Zirkelschluesse und inkonsistente Argumente zwischen verschiedenen Teilen einer Marktanalyse im..."
+description: "Wenn es um Konsistenzprüfung der Marktdefinition in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Konsistenzprüfung der Marktdefinition

@@ -1,6 +1,6 @@
 ---
 name: 005-erster-titel-2-sachen-rechte
-description: "PrALR: Erster Teil Titel 2 Sachen und Rechte: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Erster Teil Titel 2 Sachen und Rechte in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Erster Teil Titel 2 Sachen und Rechte

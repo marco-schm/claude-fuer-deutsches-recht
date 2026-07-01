@@ -1,6 +1,6 @@
 ---
 name: vertragsmarkup-key-beirat-haftung-billing
-description: "Markup und Key Issues: Analysiert SPA/APA/NDA/Process-Letter-Markups, erstellt Key Issues Lists und Gegenmarkup-Vorschlaege nach Parteiperspektive im Mittelstand Corporate Ma."
+description: "Wenn es um Markup und Key Issues in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Markup und Key Issues

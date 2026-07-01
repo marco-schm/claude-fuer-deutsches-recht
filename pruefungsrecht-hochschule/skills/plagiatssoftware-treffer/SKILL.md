@@ -1,6 +1,6 @@
 ---
 name: plagiatssoftware-treffer
-description: "Prüft Trefferberichte, Quellenlage, rechtliches Gehör und eigenständige Bewertung im Prüfungsrecht Hochschule."
+description: "Wenn es um Plagiatssoftware-Treffer in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Plagiatssoftware-Treffer

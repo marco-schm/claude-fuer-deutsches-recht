@@ -1,6 +1,6 @@
 ---
 name: see-010-bergung-und-wrack
-description: "See- und Schifffahrtsrecht: Bergung und Wrack. Bergung und Wrack im Fachgebiet See- und Schifffahrtsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten."
+description: "Wenn es um Bergung Und Wrack in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Bergung Und Wrack

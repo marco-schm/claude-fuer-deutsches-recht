@@ -1,6 +1,6 @@
 ---
 name: lease-047-leasing-in-sanierungsgutachten
-description: "Leasingrecht: Leasing in Sanierungsgutachten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Leasingrecht: Leasing in Sanierungsgutachten in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Leasingrecht: Leasing in Sanierungsgutachten

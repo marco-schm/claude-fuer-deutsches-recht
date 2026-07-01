@@ -1,6 +1,6 @@
 ---
 name: zugangsvereitelung-und-annahmeverweigerung
-description: "Klausurfall zur Zugangsvereitelung und Annahmeverweigerung bei Willenserklärungen: bewusstes Abschneiden des Zugangswegs durch den Empfänger, fiktiver Zugang nach § 242 BGB, Abgrenzung zur Annahmeverweigerung bei körperlichen Leistungen nach § 293 BGB und Gläubigerverzug."
+description: "Wenn es um Zugangsvereitelung und Annahmeverweigerung in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Zugangsvereitelung und Annahmeverweigerung

@@ -1,6 +1,6 @@
 ---
 name: aktenaufbereiter-beweislast-und-darlegungslast
-description: "Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung: Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung."
+description: "Wenn es um Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung

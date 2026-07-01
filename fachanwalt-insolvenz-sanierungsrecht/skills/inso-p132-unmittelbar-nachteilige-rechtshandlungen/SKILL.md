@@ -1,6 +1,6 @@
 ---
 name: inso-p132-unmittelbar-nachteilige-rechtshandlungen
-description: "§ 132 InsO (Unmittelbar nachteilige Rechtshandlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 132 InsO (Unmittelbar nachteilige Rechtshandlungen) im Mandat prüfen: Normzweck, Tatbe..."
+description: "Wenn es um Inso P132 Unmittelbar Nachteilige Rechtshandlungen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 132 InsO (Unmittelbar nachteilige Rechtshandlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

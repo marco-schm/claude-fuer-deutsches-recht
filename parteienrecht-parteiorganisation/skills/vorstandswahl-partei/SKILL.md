@@ -1,6 +1,6 @@
 ---
 name: vorstandswahl-partei
-description: "Bereitet Vorstandswahl nach Satzung und PartG vor, inklusive Annahme, Protokoll, Amtszeit und Übergabe."
+description: "Wenn es um Vorstandswahl Partei in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Vorstandswahl Partei

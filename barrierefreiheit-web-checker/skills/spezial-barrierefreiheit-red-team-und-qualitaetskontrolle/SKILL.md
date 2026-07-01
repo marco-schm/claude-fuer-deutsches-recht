@@ -1,6 +1,6 @@
 ---
 name: spezial-barrierefreiheit-red-team-und-qualitaetskontrolle
-description: "Barrierefreiheit: Red-Team und Qualitätskontrolle im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Barrierefreiheit: Red-Team und Qualitätskontrolle in Barrierefreiheit Web Checker geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Barrierefreiheit: Red-Team und Qualitätskontrolle

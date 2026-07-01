@@ -1,6 +1,6 @@
 ---
 name: liqp-rollende-13wochen-bauleiter
-description: "Bauleiter rollende 13-Wochen-Liquiditaetsplanung: Einnahmen / Ausgaben / Saldo / kumulierter Saldo, Granularitaet, Update-Zyklen. Prüfraster Mittelstand und Konzerntochter."
+description: "Wenn es um LiqP: 13-Wochen-Plan Bauleiter in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # LiqP: 13-Wochen-Plan Bauleiter

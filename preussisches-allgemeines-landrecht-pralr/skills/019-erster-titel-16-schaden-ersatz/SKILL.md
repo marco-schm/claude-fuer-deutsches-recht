@@ -1,6 +1,6 @@
 ---
 name: 019-erster-titel-16-schaden-ersatz
-description: "PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt."
+description: "Wenn es um PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr

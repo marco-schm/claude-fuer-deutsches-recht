@@ -1,6 +1,6 @@
 ---
 name: geografische-angaben-kollektiv-gewaehrleistungsmarke
-description: "Geografische Angaben, Kollektivmarken und Gewährleistungsmarken prüfen: Herkunftsschutz, Qualitätszeichen, Verbandsmarke, Satzung, Irreführung, EU-Schutzsysteme und Abgrenzung zur Individualmarke im Markenrecht Fashion Luxus."
+description: "Wenn es um Geografische Angaben, Kollektiv- und Gewährleistungsmarken in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
 ---
 
 # Geografische Angaben, Kollektiv- und Gewährleistungsmarken

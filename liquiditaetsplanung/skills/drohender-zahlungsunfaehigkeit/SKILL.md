@@ -1,6 +1,6 @@
 ---
 name: drohender-zahlungsunfaehigkeit
-description: "Liqui Drohender Zahlungsunfaehigkeit im Plugin Liquiditaetsplanung: prüft konkret Liquiditaetsplanung bei drohender Zahlungsunfaehigkeit § 18, Liquiditaetsplanung bei eingetretener Zahlungsunfaehigkeit, Liquiditaetsplanung für Bankgespraech."
+description: "Wenn es um Liqui Drohender Zahlungsunfaehigkeit in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Liqui Drohender Zahlungsunfaehigkeit

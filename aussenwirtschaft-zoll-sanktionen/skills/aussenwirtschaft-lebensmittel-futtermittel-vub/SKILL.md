@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-lebensmittel-futtermittel-vub
-description: "Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermitteln: EU-Lebensmittelrecht VO (EG) 178/2002, Pflanzenschutzmittelrueckstaende, RASFF-Notifikationen, Grenzkontrolle und BVVG-Verfahren. Besondere Anforderungen für Tierprodukte, Pflanzen und Hochrisiko-Gueter. Output: Ei..."
+description: "Wenn es um Lebensmittel- und Futtermitteleinfuhr: Verbote, Beschraenkungen und Grenzkontrolle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Lebensmittel- und Futtermitteleinfuhr: Verbote, Beschraenkungen und Grenzkontrolle

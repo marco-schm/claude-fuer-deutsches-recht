@@ -1,6 +1,6 @@
 ---
 name: rechtshilfe-international-ristbv-finden
-description: "Staatsanwaltschaftlicher Skill zu Internationale Rechtshilfe: ordnet Tatverdacht, Zuständigkeit, Beweisstand, Verfügung, Frist und Vorlagegrenze."
+description: "Wenn es um Internationale Rechtshilfe in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Internationale Rechtshilfe

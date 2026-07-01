@@ -1,6 +1,6 @@
 ---
 name: ressort-heranfuehrung-bmds
-description: "Heranfuehrung Ressort BMDS (Bundesministerium für Digitales und Staatsmodernisierung). Schwerpunkt: Verwaltungsdigitalisierung; IT-Sicherheit; Daten- und Registerrecht; KI-Aufsicht. Kernnormen: OZG; EGovG; BSIG; OnlineZugG; Data Act (EU); DSA; KI-VO (EU); RegMoG. Fuenf Spezialfelder: digitale-ver"
+description: "Wenn es um Ressort-Heranfuehrung BMDS in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ressort Heranfuehrung Bmds; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Ressort-Heranfuehrung BMDS

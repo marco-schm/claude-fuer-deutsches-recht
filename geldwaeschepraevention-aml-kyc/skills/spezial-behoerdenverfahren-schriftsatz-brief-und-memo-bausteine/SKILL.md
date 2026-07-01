@@ -1,6 +1,6 @@
 ---
 name: spezial-behoerdenverfahren-schriftsatz-brief-und-memo-bausteine
-description: "Behoerdenverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Wenn es um Behoerdenverfahren: Schriftsatz-, Brief- und Memo-Bausteine in Geldwäscheprävention, AML und KYC geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Behoerdenverfahren: Schriftsatz-, Brief- und Memo-Bausteine

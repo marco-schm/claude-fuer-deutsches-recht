@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-data-act-und-cloud-switching-klauseln
-description: "Rechtsabteilungs-Fachmodul für Data Act und Cloud-Switching-Klauseln: Softwareverträge werden auf Datenzugang, Portabilität und Exit-Charges geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Softwarerecht De Eu Us."
+description: "Wenn es um Rechtsabteilung: Data Act und Cloud-Switching-Klauseln in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Data Act und Cloud-Switching-Klauseln

@@ -1,6 +1,6 @@
 ---
 name: handelsregisteranmeldung-integrations
-description: "Vorbereitung und Prüfung von Handelsregisteranmeldungen (HRB, HRA, GnR, PartGR) nach Paragraf 12 HGB; Pflichtanmeldungen für Geschäftsführerwechsel (Paragraf 39 GmbHG), Prokura (Paragraf 53 HGB), Sitzverlegung und Kapitalmaßnahmen; Eintragungsgrundätze und Wirkung nach Paragraf 15 HGB. Lädt bei allen Registerpublizitätsfrag..."
+description: "Wenn es um Handelsregisteranmeldung – HRB / HRA / GnR / PartGR in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Handelsregisteranmeldung – HRB / HRA / GnR / PartGR

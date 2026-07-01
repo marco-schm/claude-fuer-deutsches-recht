@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrer-altlasten
-description: "Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute: Normanker..."
+description: "Wenn es um Geschäftsführer Altlasten in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.

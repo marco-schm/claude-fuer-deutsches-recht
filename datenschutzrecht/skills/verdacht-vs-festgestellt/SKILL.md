@@ -1,6 +1,6 @@
 ---
 name: verdacht-vs-festgestellt
-description: "Bewertet, ob der Mandant bereits Kenntnis von einer Verletzung im Sinne Art. 33 Abs. 1 DSGVO hat oder ob noch bloßer Verdacht vorliegt. Behandelt: Abgrenzung Verdacht und Kenntnis; angemessene Sicherheit der Feststellung; Pflicht zur unverzüglichen Aufklärung; Erwägungsgrund 87; Dokumentationspfl..."
+description: "Wenn es um Verdacht versus festgestellte Verletzung — Kenntnisbegriff Art. 33 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Verdacht versus festgestellte Verletzung — Kenntnisbegriff Art. 33 DSGVO

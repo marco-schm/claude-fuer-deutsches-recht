@@ -1,6 +1,6 @@
 ---
 name: ihl-049-framework-agreement-and-call-offs
-description: "Internationales Handelsrecht und Lex Mercatoria: Framework Agreement And Call Offs. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Wenn es um Framework Agreement And Call Offs in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Framework Agreement And Call Offs

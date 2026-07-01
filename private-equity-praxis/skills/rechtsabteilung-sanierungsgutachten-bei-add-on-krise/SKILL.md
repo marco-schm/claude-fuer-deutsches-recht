@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-sanierungsgutachten-bei-add-on-krise
-description: "Rechtsabteilungs-Fachmodul für Sanierungsgutachten bei Add-on-Krise: PE-Haus und Portfoliogeschäftsführung erhalten ein Distress-Decision-Memo. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Private Equity Praxis."
+description: "Wenn es um Rechtsabteilung: Sanierungsgutachten bei Add-on-Krise in Private Equity Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Rechtsabteilung: Sanierungsgutachten bei Add-on-Krise

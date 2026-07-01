@@ -1,6 +1,6 @@
 ---
 name: besold-neu-018-konkurrentenschutz-eilrechtsschutz
-description: "Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Wenn es um Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre

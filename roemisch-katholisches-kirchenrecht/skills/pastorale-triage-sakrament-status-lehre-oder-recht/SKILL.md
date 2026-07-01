@@ -1,6 +1,6 @@
 ---
 name: pastorale-triage-sakrament-status-lehre-oder-recht
-description: "Pastorale Triage: Sakrament, Status, Lehre oder Recht: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Wenn es um Pastorale Triage: Sakrament, Status, Lehre oder Recht in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Pastorale Triage: Sakrament, Status, Lehre oder Recht

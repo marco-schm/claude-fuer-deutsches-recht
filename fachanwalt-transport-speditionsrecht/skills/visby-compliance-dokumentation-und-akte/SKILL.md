@@ -1,6 +1,6 @@
 ---
 name: visby-compliance-dokumentation-und-akte
-description: "Visby: Compliance-Dokumentation und Aktenvermerk: Visby: Compliance-Dokumentation und Aktenvermerk."
+description: "Wenn es um Visby: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Transport Speditionsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Visby: Compliance-Dokumentation und Aktenvermerk

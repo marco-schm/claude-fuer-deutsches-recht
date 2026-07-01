@@ -1,6 +1,6 @@
 ---
 name: inso-p262-anzeigepflicht-des-insolvenzverwalters
-description: "§ 262 InsO (Anzeigepflicht des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung: § 262 InsO (Anzeigepflicht des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestan..."
+description: "Wenn es um Inso P262 Anzeigepflicht Des Insolvenzverwalters in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # § 262 InsO (Anzeigepflicht des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.

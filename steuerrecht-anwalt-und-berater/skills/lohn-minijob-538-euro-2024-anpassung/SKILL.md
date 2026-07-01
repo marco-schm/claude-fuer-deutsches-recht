@@ -1,6 +1,6 @@
 ---
 name: lohn-minijob-538-euro-2024-anpassung
-description: "Minijob 538 EUR-Grenze dynamisch an Mindestlohn gekoppelt seit 1.10.2022. Anwendungsfall geringfuegige Beschäftigung pauschale Abgaben Beitragsbefreiung Steuerklassen-Frage Mehrfachbeschaeftigung. Methodik Prüfung 538 EUR-Grenze Aufzeichnungspflicht MiLoG. Output Minijob-Abrechnung Anmeldung Kna..."
+description: "Wenn es um Minijob — 538-EUR-Grenze und Anpassungen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Minijob — 538-EUR-Grenze und Anpassungen

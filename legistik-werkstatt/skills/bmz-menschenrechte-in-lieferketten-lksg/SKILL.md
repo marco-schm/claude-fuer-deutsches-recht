@@ -1,6 +1,6 @@
 ---
 name: bmz-menschenrechte-in-lieferketten-lksg
-description: "Sachbereich Menschenrechte in Lieferketten (LkSG) im Geschäftsbereich BMZ: Normbestand (LkSG; HinSchG; ProdHaftG; ggf. EU-CSDDD Umsetzung; AWG-Schnittstellen.); Akteure (BAFA; BMZ; BMWE; BMJV.); EU-Bezug (EU-CSDDD; UNGP; OECD-Leitsaetze.); typische Legistik-Aufgaben und Prüfpunkte. Output Sachf"
+description: "Wenn es um Menschenrechte in Lieferketten (LkSG) (BMZ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmz Menschenrechte In Lieferketten Lksg; Arbeitsfeld: Legistik-Werkstatt."
 ---
 
 # Menschenrechte in Lieferketten (LkSG) (BMZ)

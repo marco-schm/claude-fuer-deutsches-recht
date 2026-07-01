@@ -1,6 +1,6 @@
 ---
 name: lph-02-haftungsfalle
-description: "HOAI LPH 2 Vorplanung: identifiziert typische Haftungsrisiken und Beweisvorsorge; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis."
+description: "Wenn es um LPH 2 Vorplanung: Identifiziert typische haftungsrisiken und beweisvorsorge in HOAI Leistungsphasen Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
 ---
 
 # LPH 2 Vorplanung: Identifiziert typische haftungsrisiken und beweisvorsorge

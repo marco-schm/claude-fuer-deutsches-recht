@@ -1,6 +1,6 @@
 ---
 name: plan-minderheitenschutz
-description: "Schlechterstellungsrisiken und Beschwerderisiken einzelner opponierender Beteiligter analysieren und Planverbesserungen vorschlagen. § 251 InsO § 64 StaRUG Minderheitenschutz. Prüfraster: individuelle Schlechterstellung Sicherheitsleistungen Vergleichsrechnung Einwandkatalog Bestätigungshemmnisse..."
+description: "Wenn es um IV-integrierte Minderheitenschutz in Insolvenzverwaltung - IV-Cockpit geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # IV-integrierte Minderheitenschutz

@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Lücken- und Beschaffungsliste für Fachanwalt Miet- und Wohnungseigentumsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Mietvertrag, Nebenkostenabrechnung, WEG-Versammlungsprotokoll), nennt pro Lücke Beweisthema, Beschaffungsweg (Amtsgericht Belegenheit (Miete + WEG)), Frist und Ersatznac..."
+description: "Wenn es um Unterlagen und Lücken in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Unterlagen und Lücken

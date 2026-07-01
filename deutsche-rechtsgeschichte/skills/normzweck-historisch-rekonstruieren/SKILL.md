@@ -1,6 +1,6 @@
 ---
 name: normzweck-historisch-rekonstruieren
-description: "Deutsche Rechtsgeschichte: Normzweck historisch rekonstruieren. Wie man den historischen Regelungszweck einer Norm aus Materialien, Parlamentsdebatten und zeitgenoessischer Literatur erschliesst im Deutsche Rechtsgeschichte."
+description: "Wenn es um Normzweck historisch rekonstruieren in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Normzweck historisch rekonstruieren

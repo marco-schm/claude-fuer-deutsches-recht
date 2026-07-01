@@ -1,6 +1,6 @@
 ---
 name: anerkennung-und-klagebefugnis-pruefen
-description: "Umweltschutzverband Verbandsklage: Anerkennung und Klagebefugnis prüfen. Anerkennung und Klagebefugnis prüfen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage."
+description: "Wenn es um Anerkennung Und Klagebefugnis Prüfen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
 ---
 
 # Anerkennung Und Klagebefugnis Prüfen

@@ -1,6 +1,6 @@
 ---
 name: landeshaushalt-niedersachsen-lesen
-description: "Haushaltsrecht BHO Bund und Länder: Landeshaushalt Niedersachsen lesen. Landeshaushalt Niedersachsen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägig..."
+description: "Wenn es um Landeshaushalt Niedersachsen Lesen in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # Landeshaushalt Niedersachsen Lesen

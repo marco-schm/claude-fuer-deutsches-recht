@@ -1,6 +1,6 @@
 ---
 name: dsa-krisenreaktionsmechanismus-art-36
-description: "Krisenreaktionsmechanismus Art. 36 DSA: Aktivierung durch EU-Kommission bei aussergewoehnlichen Umstaenden (Krieg, Pandemie, Terroranschlag). Pflichten der VLOP zur Risikobewertung und Massnahmen, Reporting, Dauer max. 3 Monate verlaengerbar. Beispiel Ukraine-Krieg. Compliance-Playbook fuer VLOP zur schnellen Reaktion."
+description: "Wenn es um DSA: Krisenreaktion Art. 36 in DSA, DMA und Digitalregulierung der EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
 # DSA: Krisenreaktion Art. 36

@@ -1,6 +1,6 @@
 ---
 name: settlement-crossborder
-description: "Internationales Handelsrecht: Grenzüberschreitende Vergleiche. Vergleichsvertrag (§ 779 BGB), Singapur-Konvention-Vollstreckung, Consent Award im Schiedsverfahren, Release-Klauseln, Steuerfolgen und Vollstreckungssicherung im Internationales Handelsrecht Lex Mercatoria."
+description: "Wenn es um Grenzüberschreitende Vergleiche in Internationales Handelsrecht und Lex Mercatoria geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
 ---
 
 # Grenzüberschreitende Vergleiche

@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-und-interessenkollision-rechtsprechungsc
-description: "Notare: nebentaetigkeit und interessenkollision - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
+description: "Wenn es um Nebentaetigkeit Und Interessenkollision Rechtsprechungsc in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
 ---
 
 # Notare: nebentaetigkeit und interessenkollision - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: beweismittel-fotos-screenshots
-description: "Erklärt beweissichere Fotos, Screenshots, Metadaten, Dateinamen, Schwärzung und Anlagenverzeichnis im Bürokratie-Entbürokratisierung."
+description: "Wenn es um Fotos und Screenshots als Belege in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
 # Fotos und Screenshots als Belege
